@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715231936767,
+  "endTime": 1715232877614,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 2295218,
-      "num": 347380,
+      "num": 349310,
       "word": "赵露思将担任奥运火炬手",
       "onboard_time": 1715228721,
       "rank": 10,
@@ -1012,7 +1012,7 @@
     },
     {
       "raw_hot": 1250753,
-      "num": 649986,
+      "num": 769761,
       "word": "国产榴莲几乎没臭味儿",
       "onboard_time": 1715227219,
       "rank": 13,
@@ -2411,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805522,
+      "num": 805522,
+      "word": "5家单位招聘要求女性已婚已育被查",
+      "onboard_time": 1715229380,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803158,
       "num": 803158,
       "word": "内蒙古1.2万切糕事件反转",
@@ -2627,19 +2635,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 763972,
-      "num": 763972,
-      "word": "5家单位招聘要求女性已婚已育被查",
-      "onboard_time": 1715229380,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 761384,
       "num": 761384,
       "word": "关雪 晴川",
       "onboard_time": 1714985839,
       "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 758400,
+      "num": 758400,
+      "word": "范闲林婉儿婚服吻",
+      "onboard_time": 1715231122,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -3115,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 685849,
+      "num": 263733,
+      "word": "你支持取消实体SIM卡吗",
+      "onboard_time": 1715228599,
+      "rank": 46,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 685410,
       "num": 685410,
       "word": "眼泪女王没获奖的原因",
@@ -3321,6 +3337,14 @@
       "onboard_time": 1715069720,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 659215,
+      "num": 659215,
+      "word": "福建舰也太太太太太太大了",
+      "onboard_time": 1715230038,
+      "rank": 4,
+      "category": "军事"
     },
     {
       "raw_hot": 658321,
@@ -3771,14 +3795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 610977,
-      "num": 263733,
-      "word": "你支持取消实体SIM卡吗",
-      "onboard_time": 1715228599,
-      "rank": 46,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 610934,
       "num": 610934,
       "word": "五一长假不出游的三种人",
@@ -3817,14 +3833,6 @@
       "onboard_time": 1714821138,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 606251,
-      "num": 606251,
-      "word": "福建舰也太太太太太太大了",
-      "onboard_time": 1715230038,
-      "rank": 4,
-      "category": "军事"
     },
     {
       "raw_hot": 605182,
@@ -4129,14 +4137,6 @@
       "onboard_time": 1715176580,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 557644,
-      "num": 344869,
-      "word": "范闲林婉儿婚服吻",
-      "onboard_time": 1715231122,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 556592,
@@ -4993,6 +4993,14 @@
       "onboard_time": 1715213778,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482431,
+      "num": 482431,
+      "word": "德芙反式脂肪酸",
+      "onboard_time": 1715231479,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 481754,
@@ -7219,6 +7227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359014,
+      "num": 359014,
+      "word": "歌手2024全球直播发布会",
+      "onboard_time": 1715231720,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358454,
       "num": 358454,
       "word": "StrayKids疑似被歧视",
@@ -7713,6 +7729,14 @@
       "onboard_time": 1715228420,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334917,
+      "num": 334917,
+      "word": "长相思2开始招商",
+      "onboard_time": 1715232078,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 334824,
@@ -12275,6 +12299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 204502,
+      "num": 204502,
+      "word": "发现自己过上了小时候想要的生活",
+      "onboard_time": 1715231059,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204429,
       "num": 204429,
       "word": "王鹤棣自转",
@@ -12369,14 +12401,6 @@
       "onboard_time": 1714980258,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203410,
-      "num": 203410,
-      "word": "德芙反式脂肪酸",
-      "onboard_time": 1715231479,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 203317,
@@ -13987,6 +14011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189255,
+      "num": 189255,
+      "word": "在网上说爱豆丑",
+      "onboard_time": 1715230761,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189254,
       "num": 189254,
       "word": "花儿与少年 群像的神",
@@ -14009,6 +14041,14 @@
       "onboard_time": 1715177481,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188900,
+      "num": 188900,
+      "word": "联合国官网报道王一博",
+      "onboard_time": 1715232858,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 188877,
@@ -14673,14 +14713,6 @@
       "onboard_time": 1715054539,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 182474,
-      "num": 182474,
-      "word": "在网上说爱豆丑",
-      "onboard_time": 1715230761,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 182377,
@@ -15393,14 +15425,6 @@
       "onboard_time": 1714632378,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 174545,
-      "num": 174545,
-      "word": "发现自己过上了小时候想要的生活",
-      "onboard_time": 1715231059,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 174494,
@@ -16739,14 +16763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161325,
-      "num": 161325,
-      "word": "歌手2024全球直播发布会",
-      "onboard_time": 1715231720,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161270,
       "num": 161270,
       "word": "为什么父母这么执着于提前到",
@@ -16897,6 +16913,14 @@
       "onboard_time": 1714577180,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159400,
+      "num": 159400,
+      "word": "王楚钦说和莎莎关键球处理更好",
+      "onboard_time": 1715232618,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 159396,
@@ -22420,7 +22444,7 @@
     },
     {
       "raw_hot": 83948,
-      "num": 691697,
+      "num": 771149,
       "word": "匈牙利为何被称为最西边的东方国家",
       "onboard_time": 1715225358,
       "rank": 2,
