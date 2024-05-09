@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715254573525,
+  "endTime": 1715257970264,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -467,6 +467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1356293,
+      "num": 151014,
+      "word": "百度副总裁璩静已离职",
+      "onboard_time": 1715257099,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1354946,
       "num": 408961,
       "word": "张煜东求婚张凯毅",
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1194007,
+      "num": 325502,
+      "word": "娜扎 就担心我艳压你",
+      "onboard_time": 1715251159,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1182644,
       "num": 274856,
       "word": "关晓彤徐梓钧是同学",
@@ -841,14 +857,6 @@
       "onboard_time": 1715223860,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1076776,
-      "num": 325502,
-      "word": "娜扎 就担心我艳压你",
-      "onboard_time": 1715251159,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1075663,
@@ -1451,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804843,
+      "num": 624977,
+      "word": "张若昀说五年里尽力在保养",
+      "onboard_time": 1715255178,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 802806,
       "num": 445752,
       "word": "刘亦菲金色高定",
@@ -1931,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695972,
+      "num": 235235,
+      "word": "药店门口为什么总写着万艾可到货",
+      "onboard_time": 1715252538,
+      "rank": 24,
+      "category": "科学科普,科学科普"
+    },
+    {
       "raw_hot": 690294,
       "num": 690294,
       "word": "官方回应4条高铁票价调整",
@@ -2235,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627114,
+      "num": 627114,
+      "word": "南京晚霞",
+      "onboard_time": 1715253077,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625906,
       "num": 527165,
       "word": "BLACKPINK合约到期后首次回归",
@@ -2249,6 +2281,14 @@
       "onboard_time": 1715060719,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 623690,
+      "num": 623690,
+      "word": "因担心被霸凌日本中小学生开始脱毛",
+      "onboard_time": 1715255958,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621001,
@@ -2531,14 +2571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 564634,
-      "num": 564634,
-      "word": "南京晚霞",
-      "onboard_time": 1715253077,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 562003,
       "num": 613781,
       "word": "塞尔维亚蓝莓要来中国了",
@@ -2744,6 +2776,14 @@
       "word": "入职信息已婚填未婚遭公司解约",
       "onboard_time": 1714880417,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534580,
+      "num": 534580,
+      "word": "全国人均每年喝16杯咖啡",
+      "onboard_time": 1715254997,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -3257,6 +3297,14 @@
       "onboard_time": 1714964899,
       "rank": 28,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 468383,
+      "num": 388289,
+      "word": "迪丽热巴不考虑演反派吗",
+      "onboard_time": 1715255896,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 468291,
@@ -3955,6 +4003,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400134,
+      "num": 400134,
+      "word": "螺蛳粉有官方英文名了",
+      "onboard_time": 1715255418,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 399782,
+      "num": 399782,
+      "word": "BLG对战PSG",
+      "onboard_time": 1715248939,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 399365,
       "num": 399365,
       "word": "A股",
@@ -4387,6 +4451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 360530,
+      "num": 360530,
+      "word": "奔跑吧撕名牌回归",
+      "onboard_time": 1715256077,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360172,
       "num": 287820,
       "word": "4人含碎玻璃渣吃火锅敲诈被刑拘",
@@ -4433,14 +4505,6 @@
       "onboard_time": 1715048778,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358119,
-      "num": 235235,
-      "word": "药店门口为什么总写着万艾可到货",
-      "onboard_time": 1715252538,
-      "rank": 24,
-      "category": "科学科普,科学科普"
     },
     {
       "raw_hot": 357299,
@@ -6075,6 +6139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258018,
+      "num": 214700,
+      "word": "那些长期不上班的人最后都怎么样了",
+      "onboard_time": 1715255057,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257790,
       "num": 688727,
       "word": "五一假期文旅消费成绩单",
@@ -6129,6 +6201,14 @@
       "onboard_time": 1715234119,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254969,
+      "num": 254969,
+      "word": "怡宝 包装",
+      "onboard_time": 1715257278,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 254416,
@@ -6281,6 +6361,14 @@
       "onboard_time": 1714882160,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 247929,
+      "num": 247929,
+      "word": "肖战巨型墙绘是怎么画出来的",
+      "onboard_time": 1715252298,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 247043,
@@ -7139,14 +7227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216589,
-      "num": 216589,
-      "word": "肖战巨型墙绘是怎么画出来的",
-      "onboard_time": 1715252298,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216549,
       "num": 216549,
       "word": "喻言演唱会",
@@ -7729,6 +7809,14 @@
       "onboard_time": 1715071099,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203910,
+      "num": 203910,
+      "word": "陈梦王曼昱女双半决赛",
+      "onboard_time": 1715253499,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 203905,
@@ -9083,6 +9171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183644,
+      "num": 183644,
+      "word": "赵一博 细节都做到极致",
+      "onboard_time": 1715256018,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183628,
       "num": 183628,
       "word": "王一博看一眼再看一眼",
@@ -9377,14 +9473,6 @@
       "onboard_time": 1714906819,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177950,
-      "num": 177950,
-      "word": "BLG对战PSG",
-      "onboard_time": 1715248939,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 177926,
@@ -11619,6 +11707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138614,
+      "num": 138614,
+      "word": "张若昀被粉丝送五三",
+      "onboard_time": 1715257459,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138507,
       "num": 138507,
       "word": "去韩国旅游不如以前火了",
@@ -11641,6 +11737,14 @@
       "onboard_time": 1714835900,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137673,
+      "num": 137673,
+      "word": "哈尔滨一九四四",
+      "onboard_time": 1715255358,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 137581,
@@ -11825,6 +11929,14 @@
       "onboard_time": 1715247799,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133624,
+      "num": 133624,
+      "word": "陈梦王曼昱女双进决赛",
+      "onboard_time": 1715255418,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 133488,
@@ -12739,14 +12851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111904,
-      "num": 192653,
-      "word": "陈梦王曼昱女双半决赛",
-      "onboard_time": 1715253499,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111782,
       "num": 111782,
       "word": "AG淘汰",
@@ -12987,6 +13091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100107,
+      "num": 100107,
+      "word": "马嘉祺讲河南话",
+      "onboard_time": 1715255598,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100055,
       "num": 128368,
       "word": "胡明轩巨星球",
@@ -13083,6 +13195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 92826,
+      "num": 401727,
+      "word": "匈牙利人吃面包涂辣椒酱",
+      "onboard_time": 1715255717,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92776,
       "num": 217904,
       "word": "王鹤润演技",
@@ -13161,6 +13281,14 @@
       "onboard_time": 1714835659,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 88354,
+      "num": 100099,
+      "word": "九尾Cat预言对决",
+      "onboard_time": 1715257937,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 86411,
