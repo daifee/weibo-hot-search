@@ -1,0 +1,410 @@
+{
+  "runTime": 1715243843569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1352855,
+        "num": 1352855,
+        "word": "西安全面取消住房限购",
+        "onboard_time": 1715240659,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164677,
+        "num": 1164677,
+        "word": "美国男子故意传播艾滋至少30名男性受害",
+        "onboard_time": 1715240659,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74553,
+        "num": 1005141,
+        "word": "布达佩斯餐馆奏响中国乐曲",
+        "onboard_time": 1715240719,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1201911,
+        "num": 994091,
+        "word": "瑞幸咖啡被曝冰块霉变",
+        "onboard_time": 1715235557,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944590,
+        "num": 944590,
+        "word": "汪苏泷回应凭什么参加歌手",
+        "onboard_time": 1715242521,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77973,
+        "num": 802601,
+        "word": "上万塞铁欢呼声经久不息震撼场面",
+        "onboard_time": 1715240899,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 710322,
+        "num": 710322,
+        "word": "赵露思将担任奥运火炬手",
+        "onboard_time": 1715228721,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 670663,
+        "num": 670663,
+        "word": "李娟",
+        "onboard_time": 1715237060,
+        "rank": 7,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 524936,
+        "num": 524936,
+        "word": "涵艺爆料iG将解散",
+        "onboard_time": 1715241919,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 467090,
+        "num": 467090,
+        "word": "歌手2024第一期歌单",
+        "onboard_time": 1715233697,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1430686,
+        "num": 466396,
+        "word": "淘宝免单",
+        "onboard_time": 1715242098,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 727433,
+        "num": 466041,
+        "word": "侯雯元想了一夜钟楚曦",
+        "onboard_time": 1715239579,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550957,
+        "num": 465974,
+        "word": "四天工作制离我们还有多远",
+        "onboard_time": 1715236937,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 465179,
+        "num": 465179,
+        "word": "国产榴莲几乎没臭味儿",
+        "onboard_time": 1715227219,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 445464,
+        "num": 445464,
+        "word": "歌手汪苏泷",
+        "onboard_time": 1715239817,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410681,
+        "num": 410681,
+        "word": "恋爱兄妹 男一",
+        "onboard_time": 1715241079,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400763,
+        "num": 400763,
+        "word": "庆余年2首播4集不断更",
+        "onboard_time": 1715222478,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281797,
+        "num": 281797,
+        "word": "住房公积金的这些用途你get了吗",
+        "onboard_time": 1715233219,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278444,
+        "num": 278444,
+        "word": "微笑 爱萝莉",
+        "onboard_time": 1715237959,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274897,
+        "num": 274897,
+        "word": "福建舰也太太太太太太大了",
+        "onboard_time": 1715230038,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 682868,
+        "num": 269169,
+        "word": "44岁女子生二胎当妈又当奶",
+        "onboard_time": 1715239817,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343472,
+        "num": 268413,
+        "word": "苗苗说自己平时不化妆",
+        "onboard_time": 1715242699,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324998,
+        "num": 257995,
+        "word": "不饿但馋可能是身体在求救",
+        "onboard_time": 1715242938,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 284334,
+        "num": 253424,
+        "word": "范闲林婉儿婚服吻",
+        "onboard_time": 1715231122,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251670,
+        "num": 251670,
+        "word": "全国仅7地未全面取消住房限购",
+        "onboard_time": 1715241799,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224540,
+        "num": 224540,
+        "word": "一番大奶主",
+        "onboard_time": 1715242400,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220018,
+        "num": 220018,
+        "word": "你支持取消实体SIM卡吗",
+        "onboard_time": 1715228599,
+        "rank": 26,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 213237,
+        "num": 213237,
+        "word": "卷了一晚上的头发拆开",
+        "onboard_time": 1715241319,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 205469,
+        "num": 205469,
+        "word": "男子被索30万彩礼要求女方也陪嫁30万",
+        "onboard_time": 1715234358,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201196,
+        "num": 201196,
+        "word": "赵露思十年前是奥林匹克中国少年形象大使",
+        "onboard_time": 1715235557,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197023,
+        "num": 197023,
+        "word": "涵艺爆料wink暂别赛场",
+        "onboard_time": 1715243718,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178185,
+        "num": 178185,
+        "word": "井柏然赛道",
+        "onboard_time": 1715233399,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177752,
+        "num": 177752,
+        "word": "歌手2024首期阵容",
+        "onboard_time": 1715233697,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171420,
+        "num": 171420,
+        "word": "俄罗斯举行红场阅兵式",
+        "onboard_time": 1715240838,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161414,
+        "num": 161414,
+        "word": "张元英被威胁",
+        "onboard_time": 1715243779,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159264,
+        "num": 159264,
+        "word": "Makiyo暴瘦",
+        "onboard_time": 1715233399,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157832,
+        "num": 157832,
+        "word": "莲花楼 关于风",
+        "onboard_time": 1715235257,
+        "rank": 36,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 151121,
+        "num": 151121,
+        "word": "戚薇打卡夏家三千金拍摄地",
+        "onboard_time": 1715233039,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148241,
+        "num": 148241,
+        "word": "上个央视恨不得全世界知道",
+        "onboard_time": 1715243419,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145240,
+        "num": 145240,
+        "word": "科大讯飞董事长回应买蔚来原因",
+        "onboard_time": 1715239399,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137796,
+        "num": 137796,
+        "word": "庆余年",
+        "onboard_time": 1715243779,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131627,
+        "num": 131627,
+        "word": "HYBE将召开罢免闵熙珍股东大会",
+        "onboard_time": 1715242098,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123520,
+        "num": 123520,
+        "word": "王源谈歌手与歌迷的理想关系",
+        "onboard_time": 1715235438,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121076,
+        "num": 121076,
+        "word": "尹锡悦称妻子处事方式不够明智",
+        "onboard_time": 1715235378,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118616,
+        "num": 118616,
+        "word": "瑞幸 制冰机",
+        "onboard_time": 1715243659,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117007,
+        "num": 117007,
+        "word": "长期往两边吹发根有记忆了",
+        "onboard_time": 1715225120,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 105735,
+        "num": 116457,
+        "word": "哪部动漫是你心中的TOP1",
+        "onboard_time": 1715239999,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115949,
+        "num": 115949,
+        "word": "杭州取消住房限购后咨询买房的电话已打爆",
+        "onboard_time": 1715235017,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112526,
+        "num": 112526,
+        "word": "张艺兴说自己年纪大了",
+        "onboard_time": 1715240357,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112280,
+        "num": 112280,
+        "word": "周扬青 收到了人生中第一个BJD娃娃",
+        "onboard_time": 1715228660,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈两国是相互信赖的好朋友好伙伴#"
+    }
+  }
+}
