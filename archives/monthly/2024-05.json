@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715286951486,
+  "endTime": 1715289582929,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -24907,6 +24907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54512,
+      "num": 54512,
+      "word": "以前的跑男和现在的跑男",
+      "onboard_time": 1715281511,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54351,
       "num": 54351,
       "word": "苹果2024财年第二季度财报",
@@ -25057,14 +25065,6 @@
       "onboard_time": 1715273295,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47552,
-      "num": 47552,
-      "word": "以前的跑男和现在的跑男",
-      "onboard_time": 1715281511,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 47019,
@@ -25507,6 +25507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22555,
+      "num": 22555,
+      "word": "免签144小时外国人成国内旅游特种兵",
+      "onboard_time": 1715288110,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 22501,
       "num": 27691,
       "word": "章鱼的智慧",
@@ -25603,6 +25611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17752,
+      "num": 17752,
+      "word": "璩静修改账号简介",
+      "onboard_time": 1715287030,
+      "rank": 32,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 17451,
       "num": 17451,
       "word": "新款iPadPro搭载M4芯片",
@@ -25633,6 +25649,14 @@
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14999,
+      "num": 14999,
+      "word": "许凯子夜归杀青",
+      "onboard_time": 1715288531,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 14087,
