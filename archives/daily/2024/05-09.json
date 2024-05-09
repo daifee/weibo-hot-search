@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715235876659,
+  "endTime": 1715236632465,
   "band_list": [
     {
       "raw_hot": 2295218,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1250753,
-      "num": 786844,
+      "num": 802159,
       "word": "国产榴莲几乎没臭味儿",
       "onboard_time": 1715227219,
       "rank": 13,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686922,
+      "num": 686922,
+      "word": "瑞幸咖啡被曝冰块霉变",
+      "onboard_time": 1715235557,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686081,
       "num": 686081,
       "word": "第一批00后已经开始做家政了",
@@ -240,6 +248,14 @@
       "word": "男子称订婚给34万彩礼后女方退婚不退钱",
       "onboard_time": 1715221937,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655441,
+      "num": 655441,
+      "word": "住房公积金的这些用途你get了吗",
+      "onboard_time": 1715233219,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -403,14 +419,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 472368,
-      "num": 472368,
-      "word": "住房公积金的这些用途你get了吗",
-      "onboard_time": 1715233219,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454410,
       "num": 454410,
       "word": "7部影片定档端午档",
@@ -475,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371167,
+      "num": 371167,
+      "word": "长期往两边吹发根有记忆了",
+      "onboard_time": 1715225120,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 364175,
       "num": 364175,
       "word": "辽粤决战现场失控",
@@ -513,14 +529,6 @@
       "onboard_time": 1715226919,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 347252,
-      "num": 347252,
-      "word": "长期往两边吹发根有记忆了",
-      "onboard_time": 1715225120,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 334952,
@@ -571,6 +579,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 317346,
+      "num": 514742,
+      "word": "榴莲",
+      "onboard_time": 1715234958,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 302884,
       "num": 302884,
       "word": "杨幂下一部剧是狐妖月红篇",
@@ -587,20 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288735,
-      "num": 525141,
-      "word": "瑞幸咖啡被曝冰块霉变",
-      "onboard_time": 1715235557,
-      "rank": 8,
+      "raw_hot": 293088,
+      "num": 255052,
+      "word": "男子被索30万彩礼要求女方也陪嫁30万",
+      "onboard_time": 1715234358,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286415,
-      "num": 514742,
-      "word": "榴莲",
-      "onboard_time": 1715234958,
-      "rank": 12,
-      "category": "美食"
+      "raw_hot": 272022,
+      "num": 272022,
+      "word": "莲花楼 关于风",
+      "onboard_time": 1715235257,
+      "rank": 29,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 268958,
@@ -611,12 +627,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 257107,
-      "num": 217319,
-      "word": "男子被索30万彩礼要求女方也陪嫁30万",
-      "onboard_time": 1715234358,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 256114,
+      "num": 256114,
+      "word": "王楚钦说和莎莎关键球处理更好",
+      "onboard_time": 1715232618,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 256015,
@@ -628,11 +644,27 @@
     },
     {
       "raw_hot": 255638,
-      "num": 216163,
+      "num": 223311,
       "word": "井柏然扫楼偶遇宋茜",
       "onboard_time": 1715234119,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254962,
+      "num": 254962,
+      "word": "赵露思十年前是奥林匹克中国少年形象大使",
+      "onboard_time": 1715235557,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 251777,
+      "num": 251777,
+      "word": "马云20年前淘宝论坛旧贴谈用户",
+      "onboard_time": 1715235496,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 248865,
@@ -673,14 +705,6 @@
       "onboard_time": 1715182579,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 237176,
-      "num": 237176,
-      "word": "王楚钦说和莎莎关键球处理更好",
-      "onboard_time": 1715232618,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 237023,
@@ -761,6 +785,14 @@
       "onboard_time": 1715224399,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219416,
+      "num": 219416,
+      "word": "那英 歌手",
+      "onboard_time": 1715235919,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 217340,
@@ -859,6 +891,14 @@
       "category": "情感,旅游"
     },
     {
+      "raw_hot": 208154,
+      "num": 208154,
+      "word": "王源谈歌手与歌迷的理想关系",
+      "onboard_time": 1715235438,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206555,
       "num": 206555,
       "word": "庆余年黑猫警长联动",
@@ -913,14 +953,6 @@
       "onboard_time": 1715235318,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201745,
-      "num": 201745,
-      "word": "莲花楼 关于风",
-      "onboard_time": 1715235257,
-      "rank": 29,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 200677,
@@ -1024,6 +1056,14 @@
       "word": "谁来救救张翰",
       "onboard_time": 1715185998,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191647,
+      "num": 191647,
+      "word": "真有海来阿木",
+      "onboard_time": 1715236157,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1179,14 +1219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171020,
-      "num": 171020,
-      "word": "赵露思十年前是奥林匹克中国少年形象大使",
-      "onboard_time": 1715235557,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168938,
       "num": 168938,
       "word": "腹型肥胖的风险",
@@ -1315,14 +1347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150917,
-      "num": 150917,
-      "word": "王源谈歌手与歌迷的理想关系",
-      "onboard_time": 1715235438,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150707,
       "num": 150707,
       "word": "TES下一轮将对战TES",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1715177541,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141363,
+      "num": 141363,
+      "word": "杭州取消住房限购后咨询买房的电话已打爆",
+      "onboard_time": 1715235017,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140200,
@@ -1419,12 +1451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135037,
-      "num": 135037,
-      "word": "马云20年前淘宝论坛旧贴谈用户",
-      "onboard_time": 1715235496,
-      "rank": 46,
-      "category": "互联网"
+      "raw_hot": 134118,
+      "num": 134118,
+      "word": "耙耙柑的耙字怎么读",
+      "onboard_time": 1715233399,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 132663,
@@ -1433,14 +1465,6 @@
       "onboard_time": 1715223679,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 130625,
-      "num": 130625,
-      "word": "杭州取消住房限购后咨询买房的电话已打爆",
-      "onboard_time": 1715235017,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127795,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1715209455,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124396,
+      "num": 124396,
+      "word": "江苏高考实行3加1加2模式",
+      "onboard_time": 1715236338,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 123780,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1715218879,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113951,
+      "num": 523743,
+      "word": "魔方一开始是一种教学工具",
+      "onboard_time": 1715234058,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111587,
@@ -1587,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89217,
-      "num": 523743,
-      "word": "魔方一开始是一种教学工具",
-      "onboard_time": 1715234058,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 86784,
       "num": 122783,
       "word": "i人不露脸的拍照姿势",
@@ -1612,7 +1644,7 @@
     },
     {
       "raw_hot": 83948,
-      "num": 801879,
+      "num": 808314,
       "word": "匈牙利为何被称为最西边的东方国家",
       "onboard_time": 1715225358,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1715236632465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1875712,
+        "num": 1875712,
+        "word": "赵露思将担任奥运火炬手",
+        "onboard_time": 1715228721,
+        "rank": 0,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 815016,
+        "num": 815016,
+        "word": "福建舰也太太太太太太大了",
+        "onboard_time": 1715230038,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 55220,
+        "num": 808314,
+        "word": "匈牙利为何被称为最西边的东方国家",
+        "onboard_time": 1715225358,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802159,
+        "num": 802159,
+        "word": "国产榴莲几乎没臭味儿",
+        "onboard_time": 1715227219,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 686922,
+        "num": 686922,
+        "word": "瑞幸咖啡被曝冰块霉变",
+        "onboard_time": 1715235557,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655441,
+        "num": 655441,
+        "word": "住房公积金的这些用途你get了吗",
+        "onboard_time": 1715233219,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648481,
+        "num": 648481,
+        "word": "庆余年2首播4集不断更",
+        "onboard_time": 1715222478,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 640279,
+        "num": 640279,
+        "word": "歌手2024首期阵容",
+        "onboard_time": 1715233697,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438725,
+        "num": 438725,
+        "word": "5家单位招聘要求女性已婚已育被查",
+        "onboard_time": 1715229380,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113951,
+        "num": 434912,
+        "word": "魔方一开始是一种教学工具",
+        "onboard_time": 1715234058,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 612061,
+        "num": 430475,
+        "word": "Makiyo暴瘦",
+        "onboard_time": 1715233399,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603787,
+        "num": 426912,
+        "word": "歌手2024第一期歌单",
+        "onboard_time": 1715233697,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448233,
+        "num": 422860,
+        "word": "范闲林婉儿婚服吻",
+        "onboard_time": 1715231122,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418141,
+        "num": 418141,
+        "word": "井柏然赛道",
+        "onboard_time": 1715233399,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371167,
+        "num": 371167,
+        "word": "长期往两边吹发根有记忆了",
+        "onboard_time": 1715225120,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 368262,
+        "num": 368262,
+        "word": "戚薇打卡夏家三千金拍摄地",
+        "onboard_time": 1715233039,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317346,
+        "num": 317346,
+        "word": "榴莲",
+        "onboard_time": 1715234958,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 272022,
+        "num": 272022,
+        "word": "莲花楼 关于风",
+        "onboard_time": 1715235257,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 256146,
+        "num": 256146,
+        "word": "鸭嘴钳",
+        "onboard_time": 1715222598,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256114,
+        "num": 256114,
+        "word": "王楚钦说和莎莎关键球处理更好",
+        "onboard_time": 1715232618,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569480,
+        "num": 255970,
+        "word": "周扬青 收到了人生中第一个BJD娃娃",
+        "onboard_time": 1715228660,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433596,
+        "num": 255756,
+        "word": "你支持取消实体SIM卡吗",
+        "onboard_time": 1715228599,
+        "rank": 21,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 345968,
+        "num": 255509,
+        "word": "歌手2024全球直播发布会",
+        "onboard_time": 1715231720,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293088,
+        "num": 255052,
+        "word": "男子被索30万彩礼要求女方也陪嫁30万",
+        "onboard_time": 1715234358,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254962,
+        "num": 254962,
+        "word": "赵露思十年前是奥林匹克中国少年形象大使",
+        "onboard_time": 1715235557,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251777,
+        "num": 251777,
+        "word": "马云20年前淘宝论坛旧贴谈用户",
+        "onboard_time": 1715235496,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223311,
+        "num": 223311,
+        "word": "井柏然扫楼偶遇宋茜",
+        "onboard_time": 1715234119,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219416,
+        "num": 219416,
+        "word": "那英 歌手",
+        "onboard_time": 1715235919,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208154,
+        "num": 208154,
+        "word": "王源谈歌手与歌迷的理想关系",
+        "onboard_time": 1715235438,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200558,
+        "num": 200558,
+        "word": "尹锡悦称妻子处事方式不够明智",
+        "onboard_time": 1715235378,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196823,
+        "num": 196823,
+        "word": "王一博黄西装",
+        "onboard_time": 1715235318,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196786,
+        "num": 196786,
+        "word": "向佐鼻孔漏水",
+        "onboard_time": 1715233757,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193893,
+        "num": 193893,
+        "word": "任嘉伦青岛",
+        "onboard_time": 1715235318,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191647,
+        "num": 191647,
+        "word": "真有海来阿木",
+        "onboard_time": 1715236157,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169291,
+        "num": 169291,
+        "word": "花少北女友 大粉",
+        "onboard_time": 1715221698,
+        "rank": 34,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 166511,
+        "num": 166511,
+        "word": "长相思2开始招商",
+        "onboard_time": 1715232078,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158936,
+        "num": 158936,
+        "word": "老外被中国人的约饭节奏震惊了",
+        "onboard_time": 1715213900,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149932,
+        "num": 149932,
+        "word": "三丽鸥投票",
+        "onboard_time": 1715235079,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149075,
+        "num": 149075,
+        "word": "杭州全面取消住房限购",
+        "onboard_time": 1715215760,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144738,
+        "num": 144738,
+        "word": "宁夏发生一起交通事故致9死2伤",
+        "onboard_time": 1715223860,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158333,
+        "num": 144341,
+        "word": "樱花树下的刘浩存",
+        "onboard_time": 1715234178,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143200,
+        "num": 143200,
+        "word": "新款iPad也不附赠充电器了",
+        "onboard_time": 1715223738,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141363,
+        "num": 141363,
+        "word": "杭州取消住房限购后咨询买房的电话已打爆",
+        "onboard_time": 1715235017,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141238,
+        "num": 141238,
+        "word": "在网上说爱豆丑",
+        "onboard_time": 1715230761,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134118,
+        "num": 134118,
+        "word": "耙耙柑的耙字怎么读",
+        "onboard_time": 1715233399,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131455,
+        "num": 131455,
+        "word": "胡歌高圆圆对手戏",
+        "onboard_time": 1715234417,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128770,
+        "num": 128770,
+        "word": "发现自己过上了小时候想要的生活",
+        "onboard_time": 1715231059,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127871,
+        "num": 127871,
+        "word": "联合国官网报道王一博",
+        "onboard_time": 1715232858,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124432,
+        "num": 124432,
+        "word": "家有儿女小演员今昔对比",
+        "onboard_time": 1715218637,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124396,
+        "num": 124396,
+        "word": "江苏高考实行3加1加2模式",
+        "onboard_time": 1715236338,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中塞关系更加美好的未来正在徐徐展现#"
+    }
+  }
+}
