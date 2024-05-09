@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715253359558,
+  "endTime": 1715254573525,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1076776,
+      "num": 325502,
+      "word": "娜扎 就担心我艳压你",
+      "onboard_time": 1715251159,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1075663,
       "num": 866391,
       "word": "缅甸",
@@ -1060,7 +1068,7 @@
     },
     {
       "raw_hot": 923670,
-      "num": 471630,
+      "num": 483924,
       "word": "消保委点名林俊杰演唱会退票政策",
       "onboard_time": 1715248578,
       "rank": 3,
@@ -1225,14 +1233,6 @@
       "onboard_time": 1715142504,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 872095,
-      "num": 324012,
-      "word": "娜扎 就担心我艳压你",
-      "onboard_time": 1715251159,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 870592,
@@ -2531,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564634,
+      "num": 564634,
+      "word": "南京晚霞",
+      "onboard_time": 1715253077,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562003,
       "num": 613781,
       "word": "塞尔维亚蓝莓要来中国了",
@@ -3201,6 +3209,14 @@
       "onboard_time": 1715088020,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 473510,
+      "num": 473510,
+      "word": "李昊自荐上歌手",
+      "onboard_time": 1715251937,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 473482,
@@ -4083,6 +4099,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 384077,
+      "num": 364005,
+      "word": "玉桂狗中报排名第一",
+      "onboard_time": 1715246239,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 383224,
       "num": 383224,
       "word": "周雨彤上桌了",
@@ -4315,14 +4339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 364005,
-      "num": 364005,
-      "word": "玉桂狗中报排名第一",
-      "onboard_time": 1715246239,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 363525,
       "num": 359014,
       "word": "歌手2024全球直播发布会",
@@ -4345,6 +4361,14 @@
       "onboard_time": 1714999878,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362033,
+      "num": 362033,
+      "word": "日食记生煎馒头",
+      "onboard_time": 1715251458,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 361869,
@@ -4409,6 +4433,14 @@
       "onboard_time": 1715048778,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358119,
+      "num": 235235,
+      "word": "药店门口为什么总写着万艾可到货",
+      "onboard_time": 1715252538,
+      "rank": 24,
+      "category": "科学科普,科学科普"
     },
     {
       "raw_hot": 357299,
@@ -4891,14 +4923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 325483,
-      "num": 325483,
-      "word": "日食记生煎馒头",
-      "onboard_time": 1715251458,
-      "rank": 5,
-      "category": "美食"
-    },
-    {
       "raw_hot": 325355,
       "num": 325355,
       "word": "微笑 爱萝莉",
@@ -4921,14 +4945,6 @@
       "onboard_time": 1715085079,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323152,
-      "num": 290490,
-      "word": "李昊自荐上歌手",
-      "onboard_time": 1715251937,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 322440,
@@ -5579,8 +5595,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283427,
-      "num": 283427,
+      "raw_hot": 283539,
+      "num": 283539,
       "word": "佟梦实还演五竹",
       "onboard_time": 1715250739,
       "rank": 23,
@@ -7123,6 +7139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216589,
+      "num": 216589,
+      "word": "肖战巨型墙绘是怎么画出来的",
+      "onboard_time": 1715252298,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216549,
       "num": 216549,
       "word": "喻言演唱会",
@@ -7369,14 +7393,6 @@
       "onboard_time": 1715041639,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 211135,
-      "num": 211135,
-      "word": "肖战巨型墙绘是怎么画出来的",
-      "onboard_time": 1715252298,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 210846,
@@ -7728,22 +7744,6 @@
       "word": "小鸟努力把自己美成了花鸟图",
       "onboard_time": 1714980258,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203621,
-      "num": 212300,
-      "word": "药店门口为什么总写着万艾可到货",
-      "onboard_time": 1715252538,
-      "rank": 24,
-      "category": "科学科普,科学科普"
-    },
-    {
-      "raw_hot": 203498,
-      "num": 203498,
-      "word": "南京晚霞",
-      "onboard_time": 1715253077,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -8161,6 +8161,14 @@
       "onboard_time": 1714951335,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197132,
+      "num": 197132,
+      "word": "MSI",
+      "onboard_time": 1715253979,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 197023,
@@ -8963,6 +8971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185855,
+      "num": 185855,
+      "word": "晚霞",
+      "onboard_time": 1715253258,
+      "rank": 44,
+      "category": "自然"
+    },
+    {
       "raw_hot": 185641,
       "num": 185641,
       "word": "生田斗真迷惑发言激怒日本女性",
@@ -9363,6 +9379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177950,
+      "num": 177950,
+      "word": "BLG对战PSG",
+      "onboard_time": 1715248939,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177926,
       "num": 179871,
       "word": "我真的吃不了上班的苦",
@@ -9601,14 +9625,6 @@
       "onboard_time": 1715073439,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174183,
-      "num": 174183,
-      "word": "BLG对战PSG",
-      "onboard_time": 1715248939,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 174167,
@@ -9881,6 +9897,14 @@
       "onboard_time": 1715137940,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170007,
+      "num": 170007,
+      "word": "马龙王楚钦男双半决赛",
+      "onboard_time": 1715253499,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 169989,
@@ -10497,6 +10521,14 @@
       "onboard_time": 1714941071,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158718,
+      "num": 158718,
+      "word": "原来以前的书上什么都教过",
+      "onboard_time": 1715253618,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 158598,
@@ -11233,6 +11265,14 @@
       "onboard_time": 1715037615,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145996,
+      "num": 145996,
+      "word": "好一个外焦里嫩的房子",
+      "onboard_time": 1715254158,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 145817,
@@ -12403,6 +12443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119807,
+      "num": 119807,
+      "word": "我现在只想要平静地生活",
+      "onboard_time": 1715253919,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119667,
       "num": 119667,
       "word": "这30平小家就是独居梦中情房",
@@ -12449,14 +12497,6 @@
       "onboard_time": 1714890918,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 118829,
-      "num": 118829,
-      "word": "晚霞",
-      "onboard_time": 1715253258,
-      "rank": 44,
-      "category": "自然"
     },
     {
       "raw_hot": 118793,
@@ -12560,6 +12600,14 @@
       "word": "孙颖莎沙特遥祝陈清晨夺冠",
       "onboard_time": 1714976898,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117496,
+      "num": 117496,
+      "word": "英超赛季最佳候选公布",
+      "onboard_time": 1715253618,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -12689,6 +12737,14 @@
       "onboard_time": 1715000958,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111904,
+      "num": 192653,
+      "word": "陈梦王曼昱女双半决赛",
+      "onboard_time": 1715253499,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 111782,
@@ -13347,6 +13403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70640,
+      "num": 486114,
+      "word": "布达佩斯Citywalk攻略",
+      "onboard_time": 1715252238,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70102,
       "num": 70102,
       "word": "大黄蜂飞向温布利大球场",
@@ -13497,14 +13561,6 @@
       "onboard_time": 1714895899,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58168,
-      "num": 316952,
-      "word": "布达佩斯Citywalk攻略",
-      "onboard_time": 1715252238,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56495,
