@@ -1,0 +1,410 @@
+{
+  "runTime": 1715221914101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1089187,
+        "num": 1089187,
+        "word": "老外被中国人的约饭节奏震惊了",
+        "onboard_time": 1715213900,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1606481,
+        "num": 1088827,
+        "word": "杭州全面取消住房限购",
+        "onboard_time": 1715215760,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23051,
+        "num": 970502,
+        "word": "150秒了解中塞铁杆友谊",
+        "onboard_time": 1715173159,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 952870,
+        "num": 952870,
+        "word": "家有儿女小演员今昔对比",
+        "onboard_time": 1715218637,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 806999,
+        "num": 806999,
+        "word": "妙可蓝多市值三年蒸发365亿",
+        "onboard_time": 1715216898,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 729978,
+        "num": 729978,
+        "word": "妈妈支持21岁女儿拿全家积蓄创业",
+        "onboard_time": 1715218819,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459136,
+        "num": 459136,
+        "word": "灵隐寺的七叶古树开花了",
+        "onboard_time": 1715210776,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 428527,
+        "num": 428527,
+        "word": "河南高考少数民族加分取消",
+        "onboard_time": 1715219597,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 424921,
+        "num": 424921,
+        "word": "男子离婚要求分割女方父母所赠房产",
+        "onboard_time": 1715215160,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422133,
+        "num": 422133,
+        "word": "榴莲一斤跌破10元",
+        "onboard_time": 1715183899,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 574322,
+        "num": 410281,
+        "word": "气血不足最怕的运动",
+        "onboard_time": 1715218039,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 539867,
+        "num": 388160,
+        "word": "百度副总裁深夜致歉",
+        "onboard_time": 1715212278,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 490032,
+        "num": 366036,
+        "word": "瘦肚子最快的运动是跳跃",
+        "onboard_time": 1715213179,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 426648,
+        "num": 348049,
+        "word": "enhypen与女粉丝共同创作纪录片",
+        "onboard_time": 1715220438,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347156,
+        "num": 347156,
+        "word": "医保卡里的钱可以给亲人买药吗",
+        "onboard_time": 1715201710,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343678,
+        "num": 343678,
+        "word": "淘宝免单",
+        "onboard_time": 1715174120,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 268171,
+        "num": 268171,
+        "word": "妙可蓝多反式脂肪酸",
+        "onboard_time": 1715210536,
+        "rank": 16,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 257775,
+        "num": 257775,
+        "word": "2到3天后或发生地磁暴",
+        "onboard_time": 1715211677,
+        "rank": 17,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 254823,
+        "num": 254823,
+        "word": "90后医生下班摆摊日入1500元",
+        "onboard_time": 1715213778,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245433,
+        "num": 245433,
+        "word": "庆余年2定档",
+        "onboard_time": 1715221637,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590370,
+        "num": 243231,
+        "word": "黑人小姐姐觉得自己是全家最难看的",
+        "onboard_time": 1715216959,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 465628,
+        "num": 237105,
+        "word": "花少北恋爱",
+        "onboard_time": 1715180361,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 398196,
+        "num": 234264,
+        "word": "易烊千玺机场",
+        "onboard_time": 1715216778,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229962,
+        "num": 229962,
+        "word": "刘嘉玲晒与梁朝伟巴黎合照",
+        "onboard_time": 1715219359,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213965,
+        "num": 213965,
+        "word": "花少北手机壳",
+        "onboard_time": 1715181080,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 208575,
+        "num": 208575,
+        "word": "你一旦时不时旅游一趟",
+        "onboard_time": 1715217497,
+        "rank": 25,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 207234,
+        "num": 207234,
+        "word": "NINEPERCENT专辑",
+        "onboard_time": 1715213599,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199067,
+        "num": 199067,
+        "word": "宝马沈阳工厂第600万辆车下线",
+        "onboard_time": 1715221037,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 196456,
+        "num": 196456,
+        "word": "杭州市内买房不再审核购房资格",
+        "onboard_time": 1715217439,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185448,
+        "num": 185448,
+        "word": "第一批00后已经开始做家政了",
+        "onboard_time": 1715188394,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176399,
+        "num": 176399,
+        "word": "白月光诺澜杀回来了",
+        "onboard_time": 1715174181,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171155,
+        "num": 171155,
+        "word": "杭州恢复购房落户政策",
+        "onboard_time": 1715220859,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168655,
+        "num": 168655,
+        "word": "中文在匈牙利已成为高考外语科目之一",
+        "onboard_time": 1715214438,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166599,
+        "num": 166599,
+        "word": "杨幂下一部剧是狐妖月红篇",
+        "onboard_time": 1715215521,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164243,
+        "num": 164243,
+        "word": "花少北女友 大粉",
+        "onboard_time": 1715221698,
+        "rank": 34,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 163268,
+        "num": 163268,
+        "word": "黄俊捷 韩娱爱豆味",
+        "onboard_time": 1715216600,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138619,
+        "num": 138619,
+        "word": "WTT沙特 爆冷",
+        "onboard_time": 1715214921,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137146,
+        "num": 137146,
+        "word": "元气森林就肖战海报事件致歉",
+        "onboard_time": 1715172560,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136888,
+        "num": 136888,
+        "word": "李一桐原声率拉高",
+        "onboard_time": 1715220616,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135825,
+        "num": 135825,
+        "word": "徐冬冬海边素颜照",
+        "onboard_time": 1715219657,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130962,
+        "num": 130962,
+        "word": "复旦等14所上海高校继续招收插班生",
+        "onboard_time": 1715217918,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129403,
+        "num": 129403,
+        "word": "5种食物是寄生虫重灾区",
+        "onboard_time": 1715210235,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 128321,
+        "num": 128321,
+        "word": "我的阿勒泰",
+        "onboard_time": 1715213121,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127795,
+        "num": 127795,
+        "word": "把老一辈迷得五迷三道的",
+        "onboard_time": 1715221098,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123206,
+        "num": 123206,
+        "word": "益禾堂联名",
+        "onboard_time": 1715212398,
+        "rank": 44,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 121157,
+        "num": 121157,
+        "word": "为什么建议减肥人群喝黑咖啡",
+        "onboard_time": 1715190072,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120961,
+        "num": 120961,
+        "word": "cp30",
+        "onboard_time": 1715221698,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117519,
+        "num": 117519,
+        "word": "黄好厉害",
+        "onboard_time": 1715182640,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 116494,
+        "num": 116494,
+        "word": "知情人士回应华为发布致战友们的一封信",
+        "onboard_time": 1715221817,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110446,
+        "num": 110446,
+        "word": "学校拟统一购买600元防攀比鞋",
+        "onboard_time": 1715159720,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同武契奇举行大范围会谈#"
+    }
+  }
+}
