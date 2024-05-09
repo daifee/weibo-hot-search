@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715282774477,
+  "endTime": 1715283318707,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -14619,6 +14619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32506,
+      "num": 32506,
+      "word": "以前的跑男和现在的跑男",
+      "onboard_time": 1715281511,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32411,
       "num": 31230,
       "word": "纪凌尘回复宋威龙",
@@ -14641,14 +14649,6 @@
       "onboard_time": 1714931592,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30946,
-      "num": 30946,
-      "word": "以前的跑男和现在的跑男",
-      "onboard_time": 1715281511,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 29825,
@@ -14691,8 +14691,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27101,
-      "num": 27101,
+      "raw_hot": 27631,
+      "num": 27631,
+      "word": "莫文蔚别让我跪下求你官宣",
+      "onboard_time": 1715281690,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 27464,
+      "num": 27464,
       "word": "前有王传君拜佛现有胡先煦烧香",
       "onboard_time": 1715281092,
       "rank": 28,
@@ -14705,14 +14713,6 @@
       "onboard_time": 1715019252,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25060,
-      "num": 25060,
-      "word": "莫文蔚别让我跪下求你官宣",
-      "onboard_time": 1715281690,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 24592,
@@ -14739,7 +14739,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 22335,
+      "raw_hot": 22484,
       "num": 25411,
       "word": "第五人格投票",
       "onboard_time": 1715279231,
@@ -14771,6 +14771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17594,
+      "num": 20026,
+      "word": "Faker评价Knight",
+      "onboard_time": 1715282470,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 17451,
       "num": 17451,
       "word": "新款iPadPro搭载M4芯片",
@@ -14779,12 +14787,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 17249,
-      "num": 20026,
-      "word": "Faker评价Knight",
-      "onboard_time": 1715282470,
+      "raw_hot": 16291,
+      "num": 19816,
+      "word": "范若若回归",
+      "onboard_time": 1715283191,
       "rank": 49,
-      "category": "电竞"
+      "category": "剧集"
     },
     {
       "raw_hot": 15717,
@@ -14843,7 +14851,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11319,
+      "raw_hot": 11511,
       "num": 102356,
       "word": "中匈乐器合奏茉莉花太绝了",
       "onboard_time": 1715266399,
