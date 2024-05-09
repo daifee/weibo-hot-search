@@ -1,0 +1,410 @@
+{
+  "runTime": 1715240075117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1159371,
+        "num": 1159371,
+        "word": "赵露思将担任奥运火炬手",
+        "onboard_time": 1715228721,
+        "rank": 0,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 992296,
+        "num": 992296,
+        "word": "李娟",
+        "onboard_time": 1715237060,
+        "rank": 1,
+        "category": "读书作家,剧集"
+      },
+      {
+        "raw_hot": 50278,
+        "num": 790054,
+        "word": "匈牙利为何被称为最西边的东方国家",
+        "onboard_time": 1715225358,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134691,
+        "num": 620107,
+        "word": "魔方一开始是一种教学工具",
+        "onboard_time": 1715234058,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1917756,
+        "num": 617844,
+        "word": "瑞幸咖啡被曝冰块霉变",
+        "onboard_time": 1715235557,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594547,
+        "num": 594547,
+        "word": "国产榴莲几乎没臭味儿",
+        "onboard_time": 1715227219,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 532463,
+        "num": 532463,
+        "word": "歌手2024第一期歌单",
+        "onboard_time": 1715233697,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514381,
+        "num": 514381,
+        "word": "庆余年2首播4集不断更",
+        "onboard_time": 1715222478,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480310,
+        "num": 480310,
+        "word": "住房公积金的这些用途你get了吗",
+        "onboard_time": 1715233219,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438597,
+        "num": 438597,
+        "word": "福建舰也太太太太太太大了",
+        "onboard_time": 1715230038,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 444811,
+        "num": 436749,
+        "word": "马云20年前淘宝论坛旧贴谈用户",
+        "onboard_time": 1715235496,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 444659,
+        "num": 436621,
+        "word": "四天工作制离我们还有多远",
+        "onboard_time": 1715236937,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414001,
+        "num": 414001,
+        "word": "尹锡悦称妻子处事方式不够明智",
+        "onboard_time": 1715235378,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 390852,
+        "num": 390852,
+        "word": "Makiyo暴瘦",
+        "onboard_time": 1715233399,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388543,
+        "num": 388543,
+        "word": "范闲林婉儿婚服吻",
+        "onboard_time": 1715231122,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364039,
+        "num": 364039,
+        "word": "赵露思十年前是奥林匹克中国少年形象大使",
+        "onboard_time": 1715235557,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328399,
+        "num": 328399,
+        "word": "长期往两边吹发根有记忆了",
+        "onboard_time": 1715225120,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 313876,
+        "num": 313876,
+        "word": "歌手2024首期阵容",
+        "onboard_time": 1715233697,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311767,
+        "num": 311767,
+        "word": "莲花楼 关于风",
+        "onboard_time": 1715235257,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 268262,
+        "num": 293312,
+        "word": "井柏然赛道",
+        "onboard_time": 1715233399,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426800,
+        "num": 292452,
+        "word": "男子被索30万彩礼要求女方也陪嫁30万",
+        "onboard_time": 1715234358,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281739,
+        "num": 281739,
+        "word": "周扬青 收到了人生中第一个BJD娃娃",
+        "onboard_time": 1715228660,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272067,
+        "num": 272067,
+        "word": "44岁女子生二胎当妈又当奶",
+        "onboard_time": 1715239817,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259947,
+        "num": 259947,
+        "word": "侯雯元想了一夜钟楚曦",
+        "onboard_time": 1715239579,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256351,
+        "num": 256351,
+        "word": "你支持取消实体SIM卡吗",
+        "onboard_time": 1715228599,
+        "rank": 24,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 250454,
+        "num": 250454,
+        "word": "杭州取消住房限购后咨询买房的电话已打爆",
+        "onboard_time": 1715235017,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241466,
+        "num": 241466,
+        "word": "戚薇打卡夏家三千金拍摄地",
+        "onboard_time": 1715233039,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237112,
+        "num": 237112,
+        "word": "微笑 爱萝莉",
+        "onboard_time": 1715237959,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221932,
+        "num": 221932,
+        "word": "妙可蓝多CEO反思股价大跌",
+        "onboard_time": 1715238739,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216416,
+        "num": 216416,
+        "word": "5家单位招聘要求女性已婚已育被查",
+        "onboard_time": 1715229380,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214826,
+        "num": 214826,
+        "word": "何超莲晒生日合照",
+        "onboard_time": 1715237536,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207106,
+        "num": 207106,
+        "word": "我国首批适老化药品说明书上市",
+        "onboard_time": 1715238077,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206904,
+        "num": 206904,
+        "word": "黄宣 揭榜歌手",
+        "onboard_time": 1715238258,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187424,
+        "num": 187424,
+        "word": "科大讯飞董事长回应买蔚来原因",
+        "onboard_time": 1715239399,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182409,
+        "num": 182409,
+        "word": "杨丞琳 歌手",
+        "onboard_time": 1715238378,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172612,
+        "num": 172612,
+        "word": "王源谈歌手与歌迷的理想关系",
+        "onboard_time": 1715235438,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181569,
+        "num": 172217,
+        "word": "歌手汪苏泷",
+        "onboard_time": 1715239817,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162240,
+        "num": 162240,
+        "word": "瑞幸回应咖啡被曝冰块霉变",
+        "onboard_time": 1715239158,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50763,
+        "num": 162222,
+        "word": "揭秘胶原抗老真相",
+        "onboard_time": 1715238258,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 162221,
+        "num": 162221,
+        "word": "榴莲",
+        "onboard_time": 1715234958,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153634,
+        "num": 153634,
+        "word": "老师我的作业真的被偷了",
+        "onboard_time": 1715239218,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148117,
+        "num": 148117,
+        "word": "鸭嘴钳",
+        "onboard_time": 1715222598,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143921,
+        "num": 143921,
+        "word": "何浩楠 陪大家吃立夏饭啦",
+        "onboard_time": 1715238139,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141089,
+        "num": 141089,
+        "word": "井柏然扫楼偶遇宋茜",
+        "onboard_time": 1715234119,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138785,
+        "num": 138785,
+        "word": "向佐鼻孔漏水",
+        "onboard_time": 1715233757,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134323,
+        "num": 134323,
+        "word": "王一博黄西装",
+        "onboard_time": 1715235318,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133213,
+        "num": 133213,
+        "word": "歌手2024全球直播发布会",
+        "onboard_time": 1715231720,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132637,
+        "num": 132637,
+        "word": "毛晓彤出演庆余年2",
+        "onboard_time": 1715237536,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132021,
+        "num": 132021,
+        "word": "迪丽热巴模仿刘宇宁口音",
+        "onboard_time": 1715238618,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126187,
+        "num": 126187,
+        "word": "哪部动漫是你心中的TOP1",
+        "onboard_time": 1715239999,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#匈牙利总理欢迎习近平夫妇来家里#"
+    }
+  }
+}

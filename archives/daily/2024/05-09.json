@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715239148380,
+  "endTime": 1715240075117,
   "band_list": [
     {
       "raw_hot": 2295218,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 992296,
+      "num": 992296,
+      "word": "李娟",
+      "onboard_time": 1715237060,
+      "rank": 8,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 984312,
       "num": 377709,
       "word": "鸭嘴钳",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 810300,
-      "num": 275876,
+      "num": 281739,
       "word": "周扬青 收到了人生中第一个BJD娃娃",
       "onboard_time": 1715228660,
       "rank": 47,
@@ -371,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519522,
-      "num": 519522,
-      "word": "李娟",
-      "onboard_time": 1715237060,
-      "rank": 8,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 510322,
       "num": 510322,
       "word": "井柏然赛道",
@@ -451,8 +451,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444659,
+      "num": 436621,
+      "word": "四天工作制离我们还有多远",
+      "onboard_time": 1715236937,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 441608,
-      "num": 277471,
+      "num": 292452,
       "word": "男子被索30万彩礼要求女方也陪嫁30万",
       "onboard_time": 1715234358,
       "rank": 23,
@@ -531,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364039,
+      "num": 364039,
+      "word": "赵露思十年前是奥林匹克中国少年形象大使",
+      "onboard_time": 1715235557,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363525,
       "num": 359014,
       "word": "歌手2024全球直播发布会",
@@ -569,14 +585,6 @@
       "onboard_time": 1715226919,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338342,
-      "num": 338342,
-      "word": "赵露思十年前是奥林匹克中国少年形象大使",
-      "onboard_time": 1715235557,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 334952,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272067,
+      "num": 272067,
+      "word": "44岁女子生二胎当妈又当奶",
+      "onboard_time": 1715239817,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268958,
       "num": 262500,
       "word": "为什么恋爱变得越来越难了",
@@ -667,12 +683,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 267896,
-      "num": 267896,
-      "word": "四天工作制离我们还有多远",
-      "onboard_time": 1715236937,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 259947,
+      "num": 259947,
+      "word": "侯雯元想了一夜钟楚曦",
+      "onboard_time": 1715239579,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 256114,
@@ -747,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237112,
+      "num": 237112,
+      "word": "微笑 爱萝莉",
+      "onboard_time": 1715237959,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237023,
       "num": 237023,
       "word": "达利园回应请山寨杰伦代言",
@@ -801,6 +825,14 @@
       "onboard_time": 1715216600,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221932,
+      "num": 221932,
+      "word": "妙可蓝多CEO反思股价大跌",
+      "onboard_time": 1715238739,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 220921,
@@ -875,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212050,
-      "num": 212050,
-      "word": "微笑 爱萝莉",
-      "onboard_time": 1715237959,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 211916,
       "num": 211916,
       "word": "咒术回战259",
@@ -947,6 +971,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207106,
+      "num": 207106,
+      "word": "我国首批适老化药品说明书上市",
+      "onboard_time": 1715238077,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206904,
+      "num": 206904,
+      "word": "黄宣 揭榜歌手",
+      "onboard_time": 1715238258,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206555,
       "num": 206555,
       "word": "庆余年黑猫警长联动",
@@ -995,28 +1035,12 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 203282,
-      "num": 203282,
-      "word": "黄宣 揭榜歌手",
-      "onboard_time": 1715238258,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201870,
       "num": 201870,
       "word": "任嘉伦青岛",
       "onboard_time": 1715235318,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201675,
-      "num": 201675,
-      "word": "妙可蓝多CEO反思股价大跌",
-      "onboard_time": 1715238739,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 200493,
@@ -1139,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189753,
-      "num": 189753,
-      "word": "我国首批适老化药品说明书上市",
-      "onboard_time": 1715238077,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 189255,
       "num": 189255,
       "word": "在网上说爱豆丑",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1715225838,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187424,
+      "num": 187424,
+      "word": "科大讯飞董事长回应买蔚来原因",
+      "onboard_time": 1715239399,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 186381,
@@ -1216,6 +1240,14 @@
       "word": "种地吧",
       "onboard_time": 1715223138,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181569,
+      "num": 172217,
+      "word": "歌手汪苏泷",
+      "onboard_time": 1715239817,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1363,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162240,
+      "num": 162240,
+      "word": "瑞幸回应咖啡被曝冰块霉变",
+      "onboard_time": 1715239158,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159094,
       "num": 159094,
       "word": "ENHYPEN预告",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1715210955,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153634,
+      "num": 153634,
+      "word": "老师我的作业真的被偷了",
+      "onboard_time": 1715239218,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 152869,
@@ -1555,8 +1603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134540,
-      "num": 606569,
+      "raw_hot": 134691,
+      "num": 620107,
       "word": "魔方一开始是一种教学工具",
       "onboard_time": 1715234058,
       "rank": 9,
@@ -1593,6 +1641,14 @@
       "onboard_time": 1715209455,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126187,
+      "num": 126187,
+      "word": "哪部动漫是你心中的TOP1",
+      "onboard_time": 1715239999,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 123780,
@@ -1835,7 +1891,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44603,
+      "raw_hot": 50763,
       "num": 164605,
       "word": "揭秘胶原抗老真相",
       "onboard_time": 1715238258,
