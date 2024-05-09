@@ -1,0 +1,410 @@
+{
+  "runTime": 1715228683885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2100741,
+        "num": 2100741,
+        "word": "庆余年2首播4集不断更",
+        "onboard_time": 1715222478,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 844841,
+        "num": 844841,
+        "word": "杭州全面取消住房限购",
+        "onboard_time": 1715215760,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82095,
+        "num": 652094,
+        "word": "匈牙利为何被称为最西边的东方国家",
+        "onboard_time": 1715225358,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508817,
+        "num": 613781,
+        "word": "塞尔维亚蓝莓要来中国了",
+        "onboard_time": 1715224938,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 612076,
+        "num": 612076,
+        "word": "老外被中国人的约饭节奏震惊了",
+        "onboard_time": 1715213900,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479192,
+        "num": 479192,
+        "word": "家有儿女小演员今昔对比",
+        "onboard_time": 1715218637,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453484,
+        "num": 453484,
+        "word": "蓝盈莹晒甄嬛传大合影",
+        "onboard_time": 1715224338,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450611,
+        "num": 450611,
+        "word": "7部影片定档端午档",
+        "onboard_time": 1715224938,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 421721,
+        "num": 421721,
+        "word": "榴莲一斤跌破10元",
+        "onboard_time": 1715183899,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 378558,
+        "num": 378558,
+        "word": "妈妈支持21岁女儿拿全家积蓄创业",
+        "onboard_time": 1715218819,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984312,
+        "num": 377709,
+        "word": "鸭嘴钳",
+        "onboard_time": 1715222598,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 753437,
+        "num": 374079,
+        "word": "宁夏发生一起交通事故致9死2伤",
+        "onboard_time": 1715223860,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736769,
+        "num": 370359,
+        "word": "新款iPad也不附赠充电器了",
+        "onboard_time": 1715223738,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 463825,
+        "num": 367686,
+        "word": "国产榴莲几乎没臭味儿",
+        "onboard_time": 1715227219,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 453661,
+        "num": 364057,
+        "word": "花少北女友 大粉",
+        "onboard_time": 1715221698,
+        "rank": 14,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 432759,
+        "num": 361376,
+        "word": "男子称订婚给34万彩礼后女方退婚不退钱",
+        "onboard_time": 1715221937,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431799,
+        "num": 358118,
+        "word": "井柏然张子枫同款笑容",
+        "onboard_time": 1715226198,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358061,
+        "num": 358061,
+        "word": "百度副总裁深夜致歉",
+        "onboard_time": 1715212278,
+        "rank": 17,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 347863,
+        "num": 347863,
+        "word": "定风波今日开机",
+        "onboard_time": 1715226919,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311203,
+        "num": 311203,
+        "word": "庆余年2定档",
+        "onboard_time": 1715221637,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329653,
+        "num": 310993,
+        "word": "花少北恋爱",
+        "onboard_time": 1715180361,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 306037,
+        "num": 306037,
+        "word": "早期的周雨彤",
+        "onboard_time": 1715228420,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279420,
+        "num": 279420,
+        "word": "长期往两边吹发根有记忆了",
+        "onboard_time": 1715225120,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 271764,
+        "num": 271764,
+        "word": "气血不足最怕的运动",
+        "onboard_time": 1715218039,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266995,
+        "num": 266995,
+        "word": "汤唯秀智同框",
+        "onboard_time": 1715228420,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244760,
+        "num": 244760,
+        "word": "范若若学会临床手术",
+        "onboard_time": 1715227158,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236086,
+        "num": 236086,
+        "word": "达利园回应请山寨杰伦代言",
+        "onboard_time": 1715225898,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 221601,
+        "num": 221601,
+        "word": "为什么恋爱变得越来越难了",
+        "onboard_time": 1715224279,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211205,
+        "num": 211205,
+        "word": "宇野昌磨宣布退役",
+        "onboard_time": 1715225778,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200975,
+        "num": 200975,
+        "word": "官方回应宁夏交通事故致9死",
+        "onboard_time": 1715228299,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67577,
+        "num": 198418,
+        "word": "建议重估极氪智驾实力",
+        "onboard_time": 1715225898,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 531746,
+        "num": 197823,
+        "word": "妙可蓝多市值三年蒸发365亿",
+        "onboard_time": 1715216898,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197070,
+        "num": 197070,
+        "word": "庆余年2的排面",
+        "onboard_time": 1715224997,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194545,
+        "num": 194545,
+        "word": "河南高考少数民族加分取消",
+        "onboard_time": 1715219597,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 195414,
+        "num": 193188,
+        "word": "媒体评00后拟任副局长引争议",
+        "onboard_time": 1715227520,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190801,
+        "num": 190801,
+        "word": "瘦肚子最快的运动是跳跃",
+        "onboard_time": 1715213179,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 188314,
+        "num": 188314,
+        "word": "孙颖莎说和大头的配合越来越默契",
+        "onboard_time": 1715225838,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186935,
+        "num": 186935,
+        "word": "养猫后发现自己会成为糟糕的父母",
+        "onboard_time": 1715224399,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181379,
+        "num": 181379,
+        "word": "智慧天网一号01星发射成功",
+        "onboard_time": 1715224399,
+        "rank": 38,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 179656,
+        "num": 179656,
+        "word": "淘宝免单",
+        "onboard_time": 1715174120,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178505,
+        "num": 178505,
+        "word": "专家建议学校增设春秋假",
+        "onboard_time": 1715225417,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175349,
+        "num": 175349,
+        "word": "男子离婚要求分割女方父母所赠房产",
+        "onboard_time": 1715215160,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173483,
+        "num": 173483,
+        "word": "金价波动AI都快劝冒烟了",
+        "onboard_time": 1715228540,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168390,
+        "num": 168390,
+        "word": "灵隐寺的七叶古树开花了",
+        "onboard_time": 1715210776,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158500,
+        "num": 158500,
+        "word": "黑人小姐姐觉得自己是全家最难看的",
+        "onboard_time": 1715216959,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156894,
+        "num": 156894,
+        "word": "易烊千玺机场",
+        "onboard_time": 1715216778,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156661,
+        "num": 156661,
+        "word": "你支持取消实体SIM卡吗",
+        "onboard_time": 1715228599,
+        "rank": 46,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 153810,
+        "num": 153810,
+        "word": "周扬青 收到了人生中第一个BJD娃娃",
+        "onboard_time": 1715228660,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151972,
+        "num": 151972,
+        "word": "庆余年2预告笑点好密",
+        "onboard_time": 1715226078,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147347,
+        "num": 147347,
+        "word": "花少北手机壳",
+        "onboard_time": 1715181080,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈两国是相互信赖的好朋友好伙伴#"
+    }
+  }
+}
