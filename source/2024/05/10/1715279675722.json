@@ -1,0 +1,410 @@
+{
+  "runTime": 1715279675722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 266668,
+        "num": 266668,
+        "word": "南充16岁高中女生已失联5天",
+        "onboard_time": 1715273536,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201744,
+        "num": 201744,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16460,
+        "num": 168902,
+        "word": "匈牙利街头中式推拿",
+        "onboard_time": 1715266700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254270,
+        "num": 167459,
+        "word": "人死后聊天记录会被怎样处理",
+        "onboard_time": 1715263821,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154166,
+        "num": 154166,
+        "word": "迄今为止最恐怖的太空照片之一",
+        "onboard_time": 1715262200,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111498,
+        "num": 111498,
+        "word": "王楚钦孙颖莎冠军",
+        "onboard_time": 1715272036,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74560,
+        "num": 74560,
+        "word": "璩静",
+        "onboard_time": 1715271017,
+        "rank": 6,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 73671,
+        "num": 73671,
+        "word": "王楚钦加油",
+        "onboard_time": 1715274074,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53581,
+        "num": 53581,
+        "word": "王楚钦 一天三赛习惯了",
+        "onboard_time": 1715259619,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19252,
+        "num": 53176,
+        "word": "匈牙利学生说中文绕口令有多溜",
+        "onboard_time": 1715269877,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111491,
+        "num": 52199,
+        "word": "璩静称百度内部有人花2000元发文黑自己",
+        "onboard_time": 1715270956,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 98233,
+        "num": 52021,
+        "word": "陈思建宵夜婚礼",
+        "onboard_time": 1715262980,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74731,
+        "num": 50965,
+        "word": "王一博车被拖走了",
+        "onboard_time": 1715262560,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70121,
+        "num": 50189,
+        "word": "张元英被威胁",
+        "onboard_time": 1715243779,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50111,
+        "num": 50111,
+        "word": "诺基亚回归",
+        "onboard_time": 1715259018,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47772,
+        "num": 47772,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1715265979,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47471,
+        "num": 47471,
+        "word": "璩静本人暂未回应离职传闻",
+        "onboard_time": 1715271077,
+        "rank": 16,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 46750,
+        "num": 46750,
+        "word": "心疼花海",
+        "onboard_time": 1715267119,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44325,
+        "num": 44325,
+        "word": "张若昀说五年里尽力在保养",
+        "onboard_time": 1715255178,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39276,
+        "num": 44160,
+        "word": "我的阿勒泰 令人难忘的细节",
+        "onboard_time": 1715266940,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103272,
+        "num": 44081,
+        "word": "药店门口为什么总写着万艾可到货",
+        "onboard_time": 1715252538,
+        "rank": 20,
+        "category": "科学科普,科学科普"
+      },
+      {
+        "raw_hot": 62086,
+        "num": 43844,
+        "word": "娜扎 就担心我艳压你",
+        "onboard_time": 1715251159,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48318,
+        "num": 43702,
+        "word": "金牛座的精神支柱",
+        "onboard_time": 1715275334,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43641,
+        "num": 43641,
+        "word": "于正回应与庆余年2狐妖撞档",
+        "onboard_time": 1715262980,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39093,
+        "num": 43487,
+        "word": "新生",
+        "onboard_time": 1715252177,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43397,
+        "num": 43397,
+        "word": "奶茶过了这个时间点就别喝了",
+        "onboard_time": 1715275093,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 41956,
+        "num": 41956,
+        "word": "时代峰峻",
+        "onboard_time": 1715267119,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38594,
+        "num": 38594,
+        "word": "张露文",
+        "onboard_time": 1715270597,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34830,
+        "num": 34830,
+        "word": "全国仅剩6地未全面取消住房限购",
+        "onboard_time": 1715241799,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33982,
+        "num": 33982,
+        "word": "莎头是冠军",
+        "onboard_time": 1715272875,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33756,
+        "num": 33756,
+        "word": "怡宝回应新包装",
+        "onboard_time": 1715261779,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32230,
+        "num": 32230,
+        "word": "淘宝免单",
+        "onboard_time": 1715242098,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32187,
+        "num": 32187,
+        "word": "最适合离职的头像出现了",
+        "onboard_time": 1715267239,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32057,
+        "num": 32057,
+        "word": "杨幂关雪狱中哭戏感染力",
+        "onboard_time": 1715268080,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31841,
+        "num": 31841,
+        "word": "aespa正规一辑试听",
+        "onboard_time": 1715271916,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31283,
+        "num": 31283,
+        "word": "王楚钦孙颖莎3比0黄镇廷杜凯琹",
+        "onboard_time": 1715273295,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30571,
+        "num": 30571,
+        "word": "赵丽颖的精神内核好稳",
+        "onboard_time": 1715268020,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28889,
+        "num": 28889,
+        "word": "张若昀草莓唇",
+        "onboard_time": 1715271437,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27982,
+        "num": 27982,
+        "word": "胡歌为拍这部戏观察我三年",
+        "onboard_time": 1715259558,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27767,
+        "num": 27767,
+        "word": "关雪杀死了宋卓武",
+        "onboard_time": 1715269398,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27540,
+        "num": 27540,
+        "word": "旅客飞机突发疾病抢救无效去世",
+        "onboard_time": 1715262860,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27335,
+        "num": 27335,
+        "word": "我的阿勒泰壁纸",
+        "onboard_time": 1715267719,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26990,
+        "num": 26990,
+        "word": "郭碧婷高马尾女团风",
+        "onboard_time": 1715266040,
+        "rank": 42,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 26676,
+        "num": 26676,
+        "word": "全国人均每年喝16杯咖啡",
+        "onboard_time": 1715254997,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25718,
+        "num": 25718,
+        "word": "莎头组合混双决赛",
+        "onboard_time": 1715273295,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25431,
+        "num": 25431,
+        "word": "原来晒被子不能晒一整天",
+        "onboard_time": 1715263999,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 24625,
+        "num": 25425,
+        "word": "因为缺门牙十一年没有大笑过",
+        "onboard_time": 1715265620,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24044,
+        "num": 25420,
+        "word": "螺蛳粉有官方英文名了",
+        "onboard_time": 1715255418,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22003,
+        "num": 25411,
+        "word": "第五人格投票",
+        "onboard_time": 1715279231,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21865,
+        "num": 25406,
+        "word": "迪丽热巴不考虑演反派吗",
+        "onboard_time": 1715255896,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同匈牙利总统举行会谈#"
+    }
+  }
+}
