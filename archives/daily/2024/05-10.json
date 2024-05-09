@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715283318707,
+  "endTime": 1715285921284,
   "band_list": [
     {
       "raw_hot": 1325136,
@@ -499,16 +499,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32506,
-      "num": 32506,
+      "raw_hot": 42043,
+      "num": 42043,
       "word": "以前的跑男和现在的跑男",
       "onboard_time": 1715281511,
       "rank": 19,
       "category": "综艺"
     },
     {
-      "raw_hot": 27631,
-      "num": 27631,
+      "raw_hot": 40273,
+      "num": 39160,
       "word": "莫文蔚别让我跪下求你官宣",
       "onboard_time": 1715281690,
       "rank": 33,
@@ -531,7 +531,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 17594,
+      "raw_hot": 18022,
       "num": 20026,
       "word": "Faker评价Knight",
       "onboard_time": 1715282470,
@@ -547,7 +547,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11511,
+      "raw_hot": 11838,
       "num": 102356,
       "word": "中匈乐器合奏茉莉花太绝了",
       "onboard_time": 1715266399,
