@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715260917884,
+  "endTime": 1715261689437,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -259,6 +259,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 2213977,
+      "num": 2213977,
+      "word": "怡宝 包装",
+      "onboard_time": 1715257278,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2100742,
       "num": 2100742,
       "word": "苹果发布会",
@@ -337,14 +345,6 @@
       "onboard_time": 1715065159,
       "rank": 3,
       "category": "互联网,艺人"
-    },
-    {
-      "raw_hot": 1907170,
-      "num": 1907170,
-      "word": "怡宝 包装",
-      "onboard_time": 1715257278,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 1896808,
@@ -1299,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1150691,
+      "num": 675532,
+      "word": "因担心被霸凌日本中小学生开始脱毛",
+      "onboard_time": 1715255958,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1149423,
       "num": 1149423,
       "word": "韩国民众吐槽五花肉太肥",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1714575499,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1081616,
-      "num": 675532,
-      "word": "因担心被霸凌日本中小学生开始脱毛",
-      "onboard_time": 1715255958,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1076906,
@@ -3779,6 +3779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636583,
+      "num": 227229,
+      "word": "那些长期不上班的人最后都怎么样了",
+      "onboard_time": 1715255057,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 635373,
       "num": 227000,
       "word": "有人倒放了iPad Pro的广告",
@@ -4139,6 +4147,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 594930,
+      "num": 321544,
+      "word": "杨紫迪丽热巴面纱照",
+      "onboard_time": 1715260097,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 594511,
       "num": 428360,
       "word": "女生被当街性骚扰后当场开打",
@@ -4200,14 +4216,6 @@
       "word": "原来上班真的能跨越阶级",
       "onboard_time": 1714864994,
       "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 585038,
-      "num": 227229,
-      "word": "那些长期不上班的人最后都怎么样了",
-      "onboard_time": 1715255057,
-      "rank": 22,
       "category": "情感"
     },
     {
@@ -7099,6 +7107,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 383827,
+      "num": 383827,
+      "word": "胡歌为拍这部戏观察我三年",
+      "onboard_time": 1715259558,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 383224,
       "num": 383224,
       "word": "周雨彤上桌了",
@@ -7193,14 +7209,6 @@
       "onboard_time": 1714803138,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376308,
-      "num": 376308,
-      "word": "胡歌为拍这部戏观察我三年",
-      "onboard_time": 1715259558,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 375864,
@@ -7313,14 +7321,6 @@
       "onboard_time": 1714828701,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 370731,
-      "num": 278337,
-      "word": "杨紫迪丽热巴面纱照",
-      "onboard_time": 1715260097,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 370722,
@@ -7833,6 +7833,14 @@
       "onboard_time": 1715147842,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348993,
+      "num": 348993,
+      "word": "王楚钦 一天三赛习惯了",
+      "onboard_time": 1715259619,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 348488,
@@ -8907,6 +8915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305134,
+      "num": 305134,
+      "word": "重返未来1999",
+      "onboard_time": 1715260218,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 304466,
       "num": 304466,
       "word": "尼古拉斯凯奇儿子殴打亲妈",
@@ -9627,14 +9643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278820,
-      "num": 278820,
-      "word": "王楚钦 一天三赛习惯了",
-      "onboard_time": 1715259619,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 278589,
       "num": 278589,
       "word": "酱园弄片长",
@@ -10297,14 +10305,6 @@
       "onboard_time": 1715056041,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257275,
-      "num": 257275,
-      "word": "重返未来1999",
-      "onboard_time": 1715260218,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 256797,
@@ -11691,6 +11691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222773,
+      "num": 222773,
+      "word": "诺基亚回归",
+      "onboard_time": 1715259018,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 222695,
       "num": 222695,
       "word": "欧文赛点的神",
@@ -12305,14 +12313,6 @@
       "onboard_time": 1715083098,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212609,
-      "num": 212609,
-      "word": "诺基亚回归",
-      "onboard_time": 1715259018,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 212564,
@@ -14171,6 +14171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194999,
+      "num": 194999,
+      "word": "我的阿勒泰 让我演两集",
+      "onboard_time": 1715258358,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194923,
       "num": 447191,
       "word": "自律儿子不爱学习但每天6点做饭",
@@ -14633,6 +14641,14 @@
       "onboard_time": 1714899320,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190950,
+      "num": 190950,
+      "word": "黄觉说杀青才看清张艺凡长相",
+      "onboard_time": 1715260880,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 190923,
@@ -15577,6 +15593,14 @@
       "onboard_time": 1714730478,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180871,
+      "num": 180871,
+      "word": "狗坏猫好",
+      "onboard_time": 1715258058,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 180851,
@@ -16819,14 +16843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168861,
-      "num": 168861,
-      "word": "我的阿勒泰 让我演两集",
-      "onboard_time": 1715258358,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168808,
       "num": 168808,
       "word": "碧昂丝妹妹电梯暴打Jayz十周年",
@@ -17040,6 +17056,14 @@
       "word": "武汉已进入人海模式",
       "onboard_time": 1714561458,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166779,
+      "num": 166779,
+      "word": "南京史诗级晚霞",
+      "onboard_time": 1715258957,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -17507,6 +17531,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 162604,
+      "num": 162604,
+      "word": "2000年前墓葬中发现进口产品",
+      "onboard_time": 1715261119,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162240,
       "num": 162240,
       "word": "瑞幸回应咖啡被曝冰块霉变",
@@ -17705,14 +17737,6 @@
       "onboard_time": 1715160562,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 160682,
-      "num": 160682,
-      "word": "南京史诗级晚霞",
-      "onboard_time": 1715258957,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160634,
@@ -18521,14 +18545,6 @@
       "onboard_time": 1714729699,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151858,
-      "num": 151858,
-      "word": "狗坏猫好",
-      "onboard_time": 1715258058,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 151824,
@@ -19963,12 +19979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138787,
-      "num": 138787,
-      "word": "黄觉说杀青才看清张艺凡长相",
-      "onboard_time": 1715260880,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 138710,
+      "num": 138710,
+      "word": "学霸眼中的数学题是怎样的",
+      "onboard_time": 1715261060,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 138688,
@@ -21083,6 +21099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127288,
+      "num": 127288,
+      "word": "女儿被人说长得不好看",
+      "onboard_time": 1715259859,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127198,
       "num": 127198,
       "word": "和ChatGPT谈恋爱是什么体验",
@@ -21137,6 +21161,14 @@
       "onboard_time": 1715209455,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126776,
+      "num": 126776,
+      "word": "杭州房企股价集体大涨",
+      "onboard_time": 1715261358,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 126735,
@@ -22747,6 +22779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109006,
+      "num": 109006,
+      "word": "费曼是意外 青云是真爱",
+      "onboard_time": 1715261599,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108779,
       "num": 108779,
       "word": "维和防爆部队影评",
@@ -24323,20 +24363,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58795,
+      "num": 370665,
+      "word": "中国扬琴和匈牙利辛巴龙合奏茉莉花",
+      "onboard_time": 1715259317,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58156,
       "num": 58156,
       "word": "女性有这7种情况要警惕宫外孕",
       "onboard_time": 1714497316,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 57750,
-      "num": 370665,
-      "word": "中国扬琴和匈牙利辛巴龙合奏茉莉花",
-      "onboard_time": 1715259317,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 57402,

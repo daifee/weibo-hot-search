@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715260917884,
+  "endTime": 1715261689437,
   "band_list": [
     {
       "raw_hot": 2295218,
@@ -17,6 +17,14 @@
       "onboard_time": 1715222478,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2213977,
+      "num": 2213977,
+      "word": "怡宝 包装",
+      "onboard_time": 1715257278,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 2064375,
@@ -41,14 +49,6 @@
       "onboard_time": 1715235557,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1907170,
-      "num": 1907170,
-      "word": "怡宝 包装",
-      "onboard_time": 1715257278,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 1642827,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1150691,
+      "num": 675532,
+      "word": "因担心被霸凌日本中小学生开始脱毛",
+      "onboard_time": 1715255958,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1135694,
       "num": 1135694,
       "word": "2到3天后或发生地磁暴",
@@ -160,14 +168,6 @@
       "word": "医保卡里的钱可以给亲人买药吗",
       "onboard_time": 1715201710,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1081616,
-      "num": 675532,
-      "word": "因担心被霸凌日本中小学生开始脱毛",
-      "onboard_time": 1715255958,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -419,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 636583,
+      "num": 227229,
+      "word": "那些长期不上班的人最后都怎么样了",
+      "onboard_time": 1715255057,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 635373,
       "num": 171018,
       "word": "有人倒放了iPad Pro的广告",
@@ -483,6 +491,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 594930,
+      "num": 321544,
+      "word": "杨紫迪丽热巴面纱照",
+      "onboard_time": 1715260097,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 590370,
       "num": 259922,
       "word": "黑人小姐姐觉得自己是全家最难看的",
@@ -497,14 +513,6 @@
       "onboard_time": 1715172560,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 585038,
-      "num": 227229,
-      "word": "那些长期不上班的人最后都怎么样了",
-      "onboard_time": 1715255057,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 573389,
@@ -779,28 +787,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 381246,
-      "num": 381246,
-      "word": "戚薇打卡夏家三千金拍摄地",
-      "onboard_time": 1715233039,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 376308,
-      "num": 376308,
+      "raw_hot": 383827,
+      "num": 383827,
       "word": "胡歌为拍这部戏观察我三年",
       "onboard_time": 1715259558,
       "rank": 7,
       "category": "电影"
     },
     {
-      "raw_hot": 370731,
-      "num": 278337,
-      "word": "杨紫迪丽热巴面纱照",
-      "onboard_time": 1715260097,
-      "rank": 16,
-      "category": "作品衍生,时尚"
+      "raw_hot": 381246,
+      "num": 381246,
+      "word": "戚薇打卡夏家三千金拍摄地",
+      "onboard_time": 1715233039,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 364175,
@@ -872,6 +872,14 @@
       "word": "皇马2比1拜仁",
       "onboard_time": 1715209695,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 348993,
+      "num": 348993,
+      "word": "王楚钦 一天三赛习惯了",
+      "onboard_time": 1715259619,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -979,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305134,
+      "num": 305134,
+      "word": "重返未来1999",
+      "onboard_time": 1715260218,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 302884,
       "num": 302884,
       "word": "杨幂下一部剧是狐妖月红篇",
@@ -1027,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 278820,
-      "num": 278820,
-      "word": "王楚钦 一天三赛习惯了",
-      "onboard_time": 1715259619,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 272151,
       "num": 272151,
       "word": "杭州取消住房限购后咨询买房的电话已打爆",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1715224279,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 257275,
-      "num": 257275,
-      "word": "重返未来1999",
-      "onboard_time": 1715260218,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 257121,
@@ -1243,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222773,
+      "num": 222773,
+      "word": "诺基亚回归",
+      "onboard_time": 1715259018,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 222407,
       "num": 222407,
       "word": "黄俊捷 韩娱爱豆味",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1715233757,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212609,
-      "num": 212609,
-      "word": "诺基亚回归",
-      "onboard_time": 1715259018,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 211916,
@@ -1643,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194999,
+      "num": 194999,
+      "word": "我的阿勒泰 让我演两集",
+      "onboard_time": 1715258358,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193853,
       "num": 193853,
       "word": "赵一博 细节都做到极致",
@@ -1680,6 +1688,14 @@
       "word": "我的阿勒泰",
       "onboard_time": 1715213121,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190950,
+      "num": 190950,
+      "word": "黄觉说杀青才看清张艺凡长相",
+      "onboard_time": 1715260880,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1803,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180871,
+      "num": 180871,
+      "word": "狗坏猫好",
+      "onboard_time": 1715258058,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180047,
       "num": 180047,
       "word": "中国和塞尔维亚发布联合声明",
@@ -1907,14 +1931,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 168861,
-      "num": 168861,
-      "word": "我的阿勒泰 让我演两集",
-      "onboard_time": 1715258358,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168247,
       "num": 168247,
       "word": "胡歌高圆圆对手戏",
@@ -1947,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166779,
+      "num": 166779,
+      "word": "南京史诗级晚霞",
+      "onboard_time": 1715258957,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165301,
       "num": 165301,
       "word": "欧豪听到有李一桐就来了",
@@ -1971,19 +1995,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162604,
+      "num": 162604,
+      "word": "2000年前墓葬中发现进口产品",
+      "onboard_time": 1715261119,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162240,
       "num": 162240,
       "word": "瑞幸回应咖啡被曝冰块霉变",
       "onboard_time": 1715239158,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160682,
-      "num": 160682,
-      "word": "南京史诗级晚霞",
-      "onboard_time": 1715258957,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2073,14 +2097,6 @@
       "onboard_time": 1715221817,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 151858,
-      "num": 151858,
-      "word": "狗坏猫好",
-      "onboard_time": 1715258058,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 151640,
@@ -2243,12 +2259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138787,
-      "num": 138787,
-      "word": "黄觉说杀青才看清张艺凡长相",
-      "onboard_time": 1715260880,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 138710,
+      "num": 138710,
+      "word": "学霸眼中的数学题是怎样的",
+      "onboard_time": 1715261060,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 138614,
@@ -2371,12 +2387,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127288,
+      "num": 127288,
+      "word": "女儿被人说长得不好看",
+      "onboard_time": 1715259859,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126932,
       "num": 126932,
       "word": "皇马晋级欧冠决赛",
       "onboard_time": 1715209455,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126776,
+      "num": 126776,
+      "word": "杭州房企股价集体大涨",
+      "onboard_time": 1715261358,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 126735,
@@ -2496,6 +2528,14 @@
       "word": "赵丽颖杨幂 戛纳",
       "onboard_time": 1715148500,
       "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 109006,
+      "num": 109006,
+      "word": "费曼是意外 青云是真爱",
+      "onboard_time": 1715261599,
+      "rank": 48,
       "category": "电影"
     },
     {
@@ -2803,7 +2843,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57750,
+      "raw_hot": 58795,
       "num": 370665,
       "word": "中国扬琴和匈牙利辛巴龙合奏茉莉花",
       "onboard_time": 1715259317,
