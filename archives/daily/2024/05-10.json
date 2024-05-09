@@ -1,10 +1,10 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715296727097,
+  "endTime": 1715297741165,
   "band_list": [
     {
       "raw_hot": 1325136,
-      "num": 457316,
+      "num": 476643,
       "word": "人死后聊天记录会被怎样处理",
       "onboard_time": 1715263821,
       "rank": 3,
@@ -19,7 +19,15 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 600593,
+      "raw_hot": 815196,
+      "num": 594899,
+      "word": "那些长期不上班的人最后都怎么样了",
+      "onboard_time": 1715255057,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 690977,
       "num": 600593,
       "word": "南充16岁高中女生已失联5天",
       "onboard_time": 1715273536,
@@ -27,12 +35,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594899,
-      "num": 594899,
-      "word": "那些长期不上班的人最后都怎么样了",
-      "onboard_time": 1715255057,
-      "rank": 10,
-      "category": "情感"
+      "raw_hot": 550258,
+      "num": 235499,
+      "word": "璩静称百度内部有人花2000元发文黑自己",
+      "onboard_time": 1715270956,
+      "rank": 19,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 516918,
+      "num": 516918,
+      "word": "以前的跑男和现在的跑男",
+      "onboard_time": 1715281511,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 507507,
@@ -41,14 +57,6 @@
       "onboard_time": 1715259018,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 482600,
-      "num": 231671,
-      "word": "璩静称百度内部有人花2000元发文黑自己",
-      "onboard_time": 1715270956,
-      "rank": 19,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 443902,
@@ -75,14 +83,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 400666,
-      "num": 400666,
-      "word": "以前的跑男和现在的跑男",
-      "onboard_time": 1715281511,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 381480,
       "num": 381480,
       "word": "王楚钦孙颖莎冠军",
@@ -91,7 +91,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 348241,
+      "raw_hot": 363993,
       "num": 173210,
       "word": "药店门口为什么总写着万艾可到货",
       "onboard_time": 1715252538,
@@ -113,6 +113,14 @@
       "onboard_time": 1715241799,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294855,
+      "num": 223524,
+      "word": "金高银百想影后30秒内全票通过",
+      "onboard_time": 1715291831,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 294307,
@@ -137,6 +145,14 @@
       "onboard_time": 1715251159,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282625,
+      "num": 282625,
+      "word": "孙颖莎4比0钱天一",
+      "onboard_time": 1715296456,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 274515,
@@ -171,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257886,
+      "num": 257886,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1715265979,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237228,
       "num": 237228,
       "word": "杨幂关雪狱中哭戏感染力",
@@ -203,28 +227,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216968,
-      "num": 216968,
-      "word": "狐妖小红娘月红篇",
-      "onboard_time": 1715265979,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 215113,
-      "num": 215113,
-      "word": "金高银百想影后30秒内全票通过",
-      "onboard_time": 1715291831,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 210517,
       "num": 150896,
       "word": "赵丽颖的精神内核好稳",
       "onboard_time": 1715268020,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202073,
+      "num": 126977,
+      "word": "靠运动减肥多久才开始起效",
+      "onboard_time": 1715296756,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 198714,
@@ -251,6 +267,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175442,
+      "num": 175442,
+      "word": "WTT",
+      "onboard_time": 1715296756,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167477,
+      "num": 167477,
+      "word": "江疏影叫杨祐宁脱光衣服去游泳",
+      "onboard_time": 1715289611,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161407,
       "num": 161407,
       "word": "狐妖小红娘红月篇",
@@ -259,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159903,
-      "num": 159903,
-      "word": "江疏影叫杨祐宁脱光衣服去游泳",
-      "onboard_time": 1715289611,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 158458,
+      "num": 158458,
+      "word": "陈梦大满贯晋级4强",
+      "onboard_time": 1715297416,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 144053,
@@ -291,6 +323,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 131568,
+      "num": 131568,
+      "word": "勒沃库森2比2罗马",
+      "onboard_time": 1715296576,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130119,
       "num": 130119,
       "word": "周洛对南雅被侵犯道歉",
@@ -305,6 +345,22 @@
       "onboard_time": 1715274074,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125128,
+      "num": 125128,
+      "word": "王楚钦4比0格罗特",
+      "onboard_time": 1715296996,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124956,
+      "num": 124956,
+      "word": "奶茶过了这个时间点就别喝了",
+      "onboard_time": 1715275093,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 124257,
@@ -339,20 +395,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113309,
+      "num": 113309,
+      "word": "中式婚礼惊现西式硬菜",
+      "onboard_time": 1715295615,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 108930,
       "num": 108930,
       "word": "关雪杀死了宋卓武",
       "onboard_time": 1715269398,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104882,
-      "num": 95449,
-      "word": "奶茶过了这个时间点就别喝了",
-      "onboard_time": 1715275093,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 103545,
@@ -369,6 +425,14 @@
       "onboard_time": 1715268080,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101561,
+      "num": 101561,
+      "word": "宋轶郭麒麟还演姐弟",
+      "onboard_time": 1715294174,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 99357,
@@ -435,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91907,
-      "num": 91907,
-      "word": "孙颖莎4比0钱天一",
-      "onboard_time": 1715296456,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 90344,
+      "num": 90344,
+      "word": "免签144小时外国人成国内旅游特种兵",
+      "onboard_time": 1715288110,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 88698,
@@ -449,22 +513,6 @@
       "onboard_time": 1715281331,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86562,
-      "num": 86562,
-      "word": "免签144小时外国人成国内旅游特种兵",
-      "onboard_time": 1715288110,
-      "rank": 24,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 86490,
-      "num": 86490,
-      "word": "宋轶郭麒麟还演姐弟",
-      "onboard_time": 1715294174,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 85505,
@@ -483,12 +531,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 82075,
-      "num": 82075,
-      "word": "中式婚礼惊现西式硬菜",
-      "onboard_time": 1715295615,
-      "rank": 28,
-      "category": "美食"
+      "raw_hot": 82424,
+      "num": 82424,
+      "word": "百度离职副总裁4月成立新公司",
+      "onboard_time": 1715297655,
+      "rank": 33,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 81359,
@@ -515,6 +563,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76676,
+      "num": 76676,
+      "word": "太阳解雇沃格尔",
+      "onboard_time": 1715297596,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75866,
+      "num": 75866,
+      "word": "孙颖莎大满贯晋级4强",
+      "onboard_time": 1715297416,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71493,
       "num": 96773,
       "word": "在机场全中文对话的AHYEON",
@@ -539,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 65944,
+      "num": 65944,
+      "word": "金牛座的精神支柱",
+      "onboard_time": 1715275334,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65473,
       "num": 65473,
       "word": "前有王传君拜佛现有胡先煦烧香",
@@ -547,24 +619,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64267,
-      "num": 64267,
-      "word": "勒沃库森2比2罗马",
-      "onboard_time": 1715296576,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 57887,
-      "num": 57887,
-      "word": "金牛座的精神支柱",
-      "onboard_time": 1715275334,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 52345,
-      "num": 57883,
+      "raw_hot": 54226,
+      "num": 59244,
       "word": "璩静修改账号简介",
       "onboard_time": 1715287030,
       "rank": 32,
@@ -603,12 +659,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32615,
-      "num": 432949,
+      "raw_hot": 36943,
+      "num": 478266,
       "word": "中匈乐器合奏茉莉花太绝了",
       "onboard_time": 1715266399,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27944,
+      "num": 248860,
+      "word": "匈牙利民众对中华文化情有独钟",
+      "onboard_time": 1715296515,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22484,
@@ -640,14 +704,6 @@
       "word": "陈丽君16次鞠躬回应粉丝",
       "onboard_time": 1715286851,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9444,
-      "num": 215908,
-      "word": "匈牙利民众对中华文化情有独钟",
-      "onboard_time": 1715296515,
-      "rank": 9,
       "category": "社会新闻"
     }
   ],
