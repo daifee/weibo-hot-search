@@ -1,0 +1,410 @@
+{
+  "runTime": 1715265263536,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1597734,
+        "num": 1597734,
+        "word": "诺基亚回归",
+        "onboard_time": 1715259018,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 861723,
+        "num": 861723,
+        "word": "怡宝回应新包装",
+        "onboard_time": 1715261779,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32013,
+        "num": 801946,
+        "word": "布达佩斯餐馆奏响中国乐曲",
+        "onboard_time": 1715240719,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 795693,
+        "num": 795693,
+        "word": "因担心被霸凌日本中小学生开始脱毛",
+        "onboard_time": 1715255958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680428,
+        "num": 680428,
+        "word": "王艺迪vs伊藤美诚",
+        "onboard_time": 1715264300,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577395,
+        "num": 577395,
+        "word": "全国仅剩6地未全面取消住房限购",
+        "onboard_time": 1715241799,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546418,
+        "num": 546418,
+        "word": "于正回应与庆余年2狐妖撞档",
+        "onboard_time": 1715262980,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97647,
+        "num": 507085,
+        "word": "匈牙利姑娘说爱看中国爱情剧",
+        "onboard_time": 1715263158,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 481448,
+        "num": 481448,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405900,
+        "num": 405900,
+        "word": "王楚钦 一天三赛习惯了",
+        "onboard_time": 1715259619,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1095751,
+        "num": 404317,
+        "word": "王一博车被拖走了",
+        "onboard_time": 1715262560,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1007718,
+        "num": 399751,
+        "word": "迄今为止最恐怖的太空照片之一",
+        "onboard_time": 1715262200,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 673777,
+        "num": 399209,
+        "word": "陈思建宵夜婚礼",
+        "onboard_time": 1715262980,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 659830,
+        "num": 395389,
+        "word": "迪丽热巴不考虑演反派吗",
+        "onboard_time": 1715255896,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594642,
+        "num": 390235,
+        "word": "女儿被人说长得不好看",
+        "onboard_time": 1715259859,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85171,
+        "num": 387113,
+        "word": "奇瑞把豪华SUV价格打到了20万内",
+        "onboard_time": 1715261719,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 386467,
+        "num": 386467,
+        "word": "张若昀说五年里尽力在保养",
+        "onboard_time": 1715255178,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375539,
+        "num": 375539,
+        "word": "旅客飞机突发疾病抢救无效去世",
+        "onboard_time": 1715262860,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363916,
+        "num": 363916,
+        "word": "胡歌为拍这部戏观察我三年",
+        "onboard_time": 1715259558,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 353329,
+        "num": 353329,
+        "word": "我的阿勒泰 让我演两集",
+        "onboard_time": 1715258358,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417060,
+        "num": 351158,
+        "word": "娜扎 就担心我艳压你",
+        "onboard_time": 1715251159,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342511,
+        "num": 342511,
+        "word": "淘宝免单",
+        "onboard_time": 1715242098,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 320091,
+        "num": 320091,
+        "word": "张元英被威胁",
+        "onboard_time": 1715243779,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282723,
+        "num": 282723,
+        "word": "药店门口为什么总写着万艾可到货",
+        "onboard_time": 1715252538,
+        "rank": 23,
+        "category": "科学科普,科学科普"
+      },
+      {
+        "raw_hot": 281596,
+        "num": 281596,
+        "word": "人死后聊天记录会被怎样处理",
+        "onboard_time": 1715263821,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261451,
+        "num": 261451,
+        "word": "叫我关小姐",
+        "onboard_time": 1715262200,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243044,
+        "num": 243044,
+        "word": "费曼是意外 青云是真爱",
+        "onboard_time": 1715261599,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227889,
+        "num": 227889,
+        "word": "原来晒被子不能晒一整天",
+        "onboard_time": 1715263999,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 213105,
+        "num": 213105,
+        "word": "王一珩是抢了小丰收的车吗",
+        "onboard_time": 1715264060,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201608,
+        "num": 201608,
+        "word": "全国人均每年喝16杯咖啡",
+        "onboard_time": 1715254997,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186568,
+        "num": 186568,
+        "word": "新生",
+        "onboard_time": 1715252177,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174285,
+        "num": 174285,
+        "word": "哈尔滨一九四四大结局",
+        "onboard_time": 1715263821,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174038,
+        "num": 174038,
+        "word": "歌手2024",
+        "onboard_time": 1715264659,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169175,
+        "num": 169175,
+        "word": "螺蛳粉有官方英文名了",
+        "onboard_time": 1715255418,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165168,
+        "num": 165168,
+        "word": "上个央视恨不得全世界知道",
+        "onboard_time": 1715243419,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154422,
+        "num": 154422,
+        "word": "黄觉说杀青才看清张艺凡长相",
+        "onboard_time": 1715260880,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154123,
+        "num": 154123,
+        "word": "新疆男篮晋级总决赛",
+        "onboard_time": 1715265140,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152876,
+        "num": 152876,
+        "word": "宋茜把假睫毛搓掉了",
+        "onboard_time": 1715264898,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148050,
+        "num": 148050,
+        "word": "南京史诗级晚霞",
+        "onboard_time": 1715258957,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145671,
+        "num": 145671,
+        "word": "庆余年2首播4集不断更",
+        "onboard_time": 1715222478,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144998,
+        "num": 144998,
+        "word": "离职是最好的医美吧",
+        "onboard_time": 1715259978,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143734,
+        "num": 143734,
+        "word": "爱豆亲自说明的必须去打歌的理由",
+        "onboard_time": 1715263460,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141243,
+        "num": 141243,
+        "word": "奔跑吧撕名牌回归",
+        "onboard_time": 1715256077,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138583,
+        "num": 138583,
+        "word": "什么是刮刮乐代码",
+        "onboard_time": 1715262200,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136734,
+        "num": 136734,
+        "word": "2000年前墓葬中发现进口产品",
+        "onboard_time": 1715261119,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135941,
+        "num": 135941,
+        "word": "浙江男篮vs新疆男篮",
+        "onboard_time": 1715262918,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132189,
+        "num": 132189,
+        "word": "李耕耘 兔子有在好好长大",
+        "onboard_time": 1715259678,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125842,
+        "num": 125842,
+        "word": "消保委点名林俊杰演唱会退票政策",
+        "onboard_time": 1715248578,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119198,
+        "num": 119198,
+        "word": "佟梦实还演五竹",
+        "onboard_time": 1715250739,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111715,
+        "num": 111715,
+        "word": "BLG战胜PSG",
+        "onboard_time": 1715263400,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈两国为新型国际关系树立起一个典范#"
+    }
+  }
+}

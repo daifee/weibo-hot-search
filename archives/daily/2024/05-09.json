@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715264252330,
+  "endTime": 1715265263536,
   "band_list": [
     {
       "raw_hot": 2295218,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1597734,
+      "num": 1597734,
+      "word": "诺基亚回归",
+      "onboard_time": 1715259018,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1437228,
       "num": 1437228,
       "word": "全国仅剩6地未全面取消住房限购",
@@ -73,14 +81,6 @@
       "onboard_time": 1715174120,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1430037,
-      "num": 1430037,
-      "word": "诺基亚回归",
-      "onboard_time": 1715259018,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 1383418,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1194007,
-      "num": 325502,
+      "num": 351158,
       "word": "娜扎 就担心我艳压你",
       "onboard_time": 1715251159,
       "rank": 6,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1150691,
-      "num": 675532,
+      "num": 795693,
       "word": "因担心被霸凌日本中小学生开始脱毛",
       "onboard_time": 1715255958,
       "rank": 4,
@@ -179,12 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1095751,
+      "num": 404317,
+      "word": "王一博车被拖走了",
+      "onboard_time": 1715262560,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1076906,
       "num": 374079,
       "word": "宁夏发生一起交通事故致9死2伤",
       "onboard_time": 1715223860,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1007718,
+      "num": 399751,
+      "word": "迄今为止最恐怖的太空照片之一",
+      "onboard_time": 1715262200,
+      "rank": 11,
+      "category": "科学科普"
     },
     {
       "raw_hot": 992296,
@@ -201,14 +217,6 @@
       "onboard_time": 1715222598,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 972805,
-      "num": 393616,
-      "word": "王一博车被拖走了",
-      "onboard_time": 1715262560,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 952870,
@@ -243,8 +251,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 853212,
-      "num": 853212,
+      "raw_hot": 861723,
+      "num": 861723,
       "word": "怡宝回应新包装",
       "onboard_time": 1715261779,
       "rank": 1,
@@ -387,16 +395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 698993,
-      "num": 389971,
-      "word": "迄今为止最恐怖的太空照片之一",
-      "onboard_time": 1715262200,
-      "rank": 11,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 695972,
-      "num": 268503,
+      "num": 282723,
       "word": "药店门口为什么总写着万艾可到货",
       "onboard_time": 1715252538,
       "rank": 24,
@@ -417,6 +417,30 @@
       "onboard_time": 1715228599,
       "rank": 46,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 680428,
+      "num": 680428,
+      "word": "王艺迪vs伊藤美诚",
+      "onboard_time": 1715264300,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 673777,
+      "num": 399209,
+      "word": "陈思建宵夜婚礼",
+      "onboard_time": 1715262980,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 659830,
+      "num": 395389,
+      "word": "迪丽热巴不考虑演反派吗",
+      "onboard_time": 1715255896,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 657850,
@@ -451,16 +475,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 649131,
-      "num": 388289,
-      "word": "迪丽热巴不考虑演反派吗",
-      "onboard_time": 1715255896,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 636583,
-      "num": 285243,
+      "num": 481448,
       "word": "那些长期不上班的人最后都怎么样了",
       "onboard_time": 1715255057,
       "rank": 22,
@@ -531,6 +547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 594642,
+      "num": 390235,
+      "word": "女儿被人说长得不好看",
+      "onboard_time": 1715259859,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 590370,
       "num": 259922,
       "word": "黑人小姐姐觉得自己是全家最难看的",
@@ -545,14 +569,6 @@
       "onboard_time": 1715172560,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 574894,
-      "num": 382662,
-      "word": "陈思建宵夜婚礼",
-      "onboard_time": 1715262980,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 573389,
@@ -595,6 +611,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 546418,
+      "num": 546418,
+      "word": "于正回应与庆余年2狐妖撞档",
+      "onboard_time": 1715262980,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541975,
       "num": 502123,
       "word": "歌手汪苏泷",
@@ -617,14 +641,6 @@
       "onboard_time": 1715216778,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 525017,
-      "num": 525017,
-      "word": "于正回应与庆余年2狐妖撞档",
-      "onboard_time": 1715262980,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 524936,
@@ -681,14 +697,6 @@
       "onboard_time": 1715213778,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484494,
-      "num": 378511,
-      "word": "女儿被人说长得不好看",
-      "onboard_time": 1715259859,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 482431,
@@ -873,6 +881,14 @@
       "onboard_time": 1715233039,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375539,
+      "num": 375539,
+      "word": "旅客飞机突发疾病抢救无效去世",
+      "onboard_time": 1715262860,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364175,
@@ -1107,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 281596,
+      "num": 281596,
+      "word": "人死后聊天记录会被怎样处理",
+      "onboard_time": 1715263821,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280687,
       "num": 280687,
       "word": "马龙王楚钦男双半决赛",
@@ -1123,20 +1147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271873,
-      "num": 271873,
-      "word": "旅客飞机突发疾病抢救无效去世",
-      "onboard_time": 1715262860,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268958,
       "num": 262500,
       "word": "为什么恋爱变得越来越难了",
       "onboard_time": 1715224279,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261451,
+      "num": 261451,
+      "word": "叫我关小姐",
+      "onboard_time": 1715262200,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 257121,
@@ -1235,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242177,
-      "num": 242177,
-      "word": "叫我关小姐",
-      "onboard_time": 1715262200,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238368,
       "num": 238368,
       "word": "王鹤棣工作室出图了",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1715219359,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227889,
+      "num": 227889,
+      "word": "原来晒被子不能晒一整天",
+      "onboard_time": 1715263999,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 227519,
@@ -1448,6 +1472,14 @@
       "word": "向佐鼻孔漏水",
       "onboard_time": 1715233757,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213105,
+      "num": 213105,
+      "word": "王一珩是抢了小丰收的车吗",
+      "onboard_time": 1715264060,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1979,11 +2011,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175199,
-      "num": 175199,
-      "word": "王一珩是抢了小丰收的车吗",
-      "onboard_time": 1715264060,
-      "rank": 34,
+      "raw_hot": 174038,
+      "num": 174038,
+      "word": "歌手2024",
+      "onboard_time": 1715264659,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -2187,12 +2219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154123,
+      "num": 154123,
+      "word": "新疆男篮晋级总决赛",
+      "onboard_time": 1715265140,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153634,
       "num": 153634,
       "word": "老师我的作业真的被偷了",
       "onboard_time": 1715239218,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152876,
+      "num": 152876,
+      "word": "宋茜把假睫毛搓掉了",
+      "onboard_time": 1715264898,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152869,
@@ -2291,14 +2339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145627,
-      "num": 145627,
-      "word": "原来晒被子不能晒一整天",
-      "onboard_time": 1715263999,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 145371,
       "num": 145371,
       "word": "庆余年",
@@ -2329,14 +2369,6 @@
       "onboard_time": 1715213659,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143554,
-      "num": 143554,
-      "word": "人死后聊天记录会被怎样处理",
-      "onboard_time": 1715263821,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 143301,
@@ -2755,6 +2787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97647,
+      "num": 507085,
+      "word": "匈牙利姑娘说爱看中国爱情剧",
+      "onboard_time": 1715263158,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97263,
       "num": 97263,
       "word": "晚上十点女寝楼下的流水线",
@@ -2841,6 +2881,14 @@
       "onboard_time": 1715179942,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85171,
+      "num": 387113,
+      "word": "奇瑞把豪华SUV价格打到了20万内",
+      "onboard_time": 1715261719,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 84042,
@@ -2947,14 +2995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71626,
-      "num": 345044,
-      "word": "奇瑞把豪华SUV价格打到了20万内",
-      "onboard_time": 1715261719,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 70640,
       "num": 486114,
       "word": "布达佩斯Citywalk攻略",
@@ -2983,14 +3023,6 @@
       "num": 370665,
       "word": "中国扬琴和匈牙利辛巴龙合奏茉莉花",
       "onboard_time": 1715259317,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 54995,
-      "num": 394066,
-      "word": "匈牙利姑娘说爱看中国爱情剧",
-      "onboard_time": 1715263158,
       "rank": 9,
       "category": "国内时政"
     },
