@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715294055708,
+  "endTime": 1715296727097,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -2308,7 +2308,7 @@
     },
     {
       "raw_hot": 636583,
-      "num": 481448,
+      "num": 594899,
       "word": "那些长期不上班的人最后都怎么样了",
       "onboard_time": 1715255057,
       "rank": 22,
@@ -2497,6 +2497,14 @@
       "onboard_time": 1715249537,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 600593,
+      "num": 600593,
+      "word": "南充16岁高中女生已失联5天",
+      "onboard_time": 1715273536,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 599179,
@@ -3259,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482600,
+      "num": 231671,
+      "word": "璩静称百度内部有人花2000元发文黑自己",
+      "onboard_time": 1715270956,
+      "rank": 19,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 482431,
       "num": 482431,
       "word": "德芙反式脂肪酸",
@@ -3779,14 +3795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 432638,
-      "num": 231671,
-      "word": "璩静称百度内部有人花2000元发文黑自己",
-      "onboard_time": 1715270956,
-      "rank": 19,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 431799,
       "num": 358118,
       "word": "井柏然张子枫同款笑容",
@@ -4153,6 +4161,14 @@
       "onboard_time": 1714998439,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400666,
+      "num": 400666,
+      "word": "以前的跑男和现在的跑男",
+      "onboard_time": 1715281511,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 399782,
@@ -4841,14 +4857,6 @@
       "onboard_time": 1715226919,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 347293,
-      "num": 347293,
-      "word": "南充16岁高中女生已失联5天",
-      "onboard_time": 1715273536,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347109,
@@ -7483,6 +7491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216968,
+      "num": 216968,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1715265979,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216800,
       "num": 198765,
       "word": "把房东的柜子刷毁了",
@@ -7585,6 +7601,14 @@
       "onboard_time": 1714965199,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215113,
+      "num": 215113,
+      "word": "金高银百想影后30秒内全票通过",
+      "onboard_time": 1715291831,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 215034,
@@ -9057,14 +9081,6 @@
       "onboard_time": 1714830980,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 191343,
-      "num": 191343,
-      "word": "以前的跑男和现在的跑男",
-      "onboard_time": 1715281511,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 191277,
@@ -10953,6 +10969,14 @@
       "onboard_time": 1715181799,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159903,
+      "num": 159903,
+      "word": "江疏影叫杨祐宁脱光衣服去游泳",
+      "onboard_time": 1715289611,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 159805,
@@ -13283,6 +13307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115977,
+      "num": 115977,
+      "word": "莫文蔚别让我跪下求你官宣",
+      "onboard_time": 1715281690,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115786,
       "num": 115786,
       "word": "魏大勋浮潜",
@@ -13411,14 +13443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110435,
-      "num": 88850,
-      "word": "江疏影叫杨祐宁脱光衣服去游泳",
-      "onboard_time": 1715289611,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110189,
       "num": 110189,
       "word": "出淤泥而挑染的萨摩耶",
@@ -13539,6 +13563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104882,
+      "num": 95449,
+      "word": "奶茶过了这个时间点就别喝了",
+      "onboard_time": 1715275093,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 104874,
       "num": 104874,
       "word": "难怪反派听到熟悉的声音要被硬控",
@@ -13585,14 +13617,6 @@
       "onboard_time": 1715258778,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103137,
-      "num": 103137,
-      "word": "狐妖小红娘月红篇",
-      "onboard_time": 1715265979,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 102723,
@@ -13859,6 +13883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91907,
+      "num": 91907,
+      "word": "孙颖莎4比0钱天一",
+      "onboard_time": 1715296456,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91796,
       "num": 88746,
       "word": "找份工作养活自己为什么这么难",
@@ -13921,6 +13953,22 @@
       "onboard_time": 1715281331,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86562,
+      "num": 86562,
+      "word": "免签144小时外国人成国内旅游特种兵",
+      "onboard_time": 1715288110,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 86490,
+      "num": 86490,
+      "word": "宋轶郭麒麟还演姐弟",
+      "onboard_time": 1715294174,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 86411,
@@ -14001,6 +14049,14 @@
       "onboard_time": 1715225898,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 82075,
+      "num": 82075,
+      "word": "中式婚礼惊现西式硬菜",
+      "onboard_time": 1715295615,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 81799,
@@ -14211,14 +14267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69036,
-      "num": 36649,
-      "word": "金高银百想影后30秒内全票通过",
-      "onboard_time": 1715291831,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 68750,
       "num": 218800,
       "word": "今夏的第一双豆豆鞋",
@@ -14323,6 +14371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64267,
+      "num": 64267,
+      "word": "勒沃库森2比2罗马",
+      "onboard_time": 1715296576,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63892,
       "num": 1915828,
       "word": "中法关于农业交流与合作的联合声明",
@@ -14344,14 +14400,6 @@
       "word": "五月天香港",
       "onboard_time": 1714841836,
       "rank": 46,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 60974,
-      "num": 60974,
-      "word": "莫文蔚别让我跪下求你官宣",
-      "onboard_time": 1715281690,
-      "rank": 33,
       "category": "演出"
     },
     {
@@ -14379,8 +14427,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 56736,
-      "num": 56736,
+      "raw_hot": 57887,
+      "num": 57887,
       "word": "金牛座的精神支柱",
       "onboard_time": 1715275334,
       "rank": 33,
@@ -14411,14 +14459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55536,
-      "num": 55536,
-      "word": "奶茶过了这个时间点就别喝了",
-      "onboard_time": 1715275093,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 55090,
       "num": 217901,
       "word": "逐花归海首秀首胜",
@@ -14443,12 +14483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51365,
-      "num": 51365,
-      "word": "免签144小时外国人成国内旅游特种兵",
-      "onboard_time": 1715288110,
-      "rank": 24,
-      "category": "旅游"
+      "raw_hot": 52345,
+      "num": 57883,
+      "word": "璩静修改账号简介",
+      "onboard_time": 1715287030,
+      "rank": 32,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 50763,
@@ -14595,6 +14635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41570,
+      "num": 57804,
+      "word": "4岁女孩马拉松3公里20分钟完成",
+      "onboard_time": 1715295675,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 40940,
       "num": 40940,
       "word": "于正关注Zzr",
@@ -14625,6 +14673,14 @@
       "onboard_time": 1715088260,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38734,
+      "num": 57791,
+      "word": "范若若回归",
+      "onboard_time": 1715283191,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 38128,
@@ -14667,6 +14723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32615,
+      "num": 432949,
+      "word": "中匈乐器合奏茉莉花太绝了",
+      "onboard_time": 1715266399,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32411,
       "num": 31230,
       "word": "纪凌尘回复宋威龙",
@@ -14681,14 +14745,6 @@
       "onboard_time": 1715016732,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31098,
-      "num": 31098,
-      "word": "璩静修改账号简介",
-      "onboard_time": 1715287030,
-      "rank": 32,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 31009,
@@ -14744,22 +14800,6 @@
       "word": "李沁拿鸡腿",
       "onboard_time": 1715019252,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 25706,
-      "num": 214847,
-      "word": "中匈乐器合奏茉莉花太绝了",
-      "onboard_time": 1715266399,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 25248,
-      "num": 26583,
-      "word": "范若若回归",
-      "onboard_time": 1715283191,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -14921,6 +14961,14 @@
       "onboard_time": 1715064978,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9444,
+      "num": 215908,
+      "word": "匈牙利民众对中华文化情有独钟",
+      "onboard_time": 1715296515,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7443,
