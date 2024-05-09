@@ -1,0 +1,410 @@
+{
+  "runTime": 1715258883090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 755931,
+        "num": 755931,
+        "word": "全国仅剩6地未全面取消住房限购",
+        "onboard_time": 1715241799,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741914,
+        "num": 741914,
+        "word": "全国人均每年喝16杯咖啡",
+        "onboard_time": 1715254997,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35305,
+        "num": 677229,
+        "word": "布达佩斯餐馆奏响中国乐曲",
+        "onboard_time": 1715240719,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 881418,
+        "num": 675532,
+        "word": "因担心被霸凌日本中小学生开始脱毛",
+        "onboard_time": 1715255958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843921,
+        "num": 675166,
+        "word": "张若昀说五年里尽力在保养",
+        "onboard_time": 1715255178,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 664863,
+        "num": 664863,
+        "word": "怡宝 包装",
+        "onboard_time": 1715257278,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 428596,
+        "num": 428596,
+        "word": "南京晚霞",
+        "onboard_time": 1715253077,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98148,
+        "num": 422317,
+        "word": "匈牙利人吃面包涂辣椒酱",
+        "onboard_time": 1715255717,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422148,
+        "num": 422148,
+        "word": "螺蛳粉有官方英文名了",
+        "onboard_time": 1715255418,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 333373,
+        "num": 333373,
+        "word": "奔跑吧撕名牌回归",
+        "onboard_time": 1715256077,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689938,
+        "num": 333342,
+        "word": "淘宝免单",
+        "onboard_time": 1715242098,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 587353,
+        "num": 332830,
+        "word": "迪丽热巴不考虑演反派吗",
+        "onboard_time": 1715255896,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389590,
+        "num": 332670,
+        "word": "张元英被威胁",
+        "onboard_time": 1715243779,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329482,
+        "num": 329482,
+        "word": "消保委点名林俊杰演唱会退票政策",
+        "onboard_time": 1715248578,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300267,
+        "num": 300267,
+        "word": "BLG对战PSG",
+        "onboard_time": 1715248939,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 292671,
+        "num": 292671,
+        "word": "李昊自荐上歌手",
+        "onboard_time": 1715251937,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280687,
+        "num": 280687,
+        "word": "马龙王楚钦男双半决赛",
+        "onboard_time": 1715253499,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276850,
+        "num": 276850,
+        "word": "上个央视恨不得全世界知道",
+        "onboard_time": 1715243419,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259622,
+        "num": 259622,
+        "word": "要长相有长相 要谈吐有痰吐",
+        "onboard_time": 1715244499,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229253,
+        "num": 229253,
+        "word": "肖战巨型墙绘是怎么画出来的",
+        "onboard_time": 1715252298,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1028206,
+        "num": 227728,
+        "word": "娜扎 就担心我艳压你",
+        "onboard_time": 1715251159,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588667,
+        "num": 226754,
+        "word": "药店门口为什么总写着万艾可到货",
+        "onboard_time": 1715252538,
+        "rank": 21,
+        "category": "科学科普,科学科普"
+      },
+      {
+        "raw_hot": 299307,
+        "num": 223904,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211553,
+        "num": 211553,
+        "word": "李胜利再唱BangBangBang",
+        "onboard_time": 1715248340,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207225,
+        "num": 207225,
+        "word": "汪苏泷回应凭什么参加歌手",
+        "onboard_time": 1715242521,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195214,
+        "num": 195214,
+        "word": "玉桂狗中报排名第一",
+        "onboard_time": 1715246239,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 193853,
+        "num": 193853,
+        "word": "赵一博 细节都做到极致",
+        "onboard_time": 1715256018,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181936,
+        "num": 181936,
+        "word": "新生",
+        "onboard_time": 1715252177,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173032,
+        "num": 173032,
+        "word": "日食记生煎馒头",
+        "onboard_time": 1715251458,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168355,
+        "num": 168355,
+        "word": "赵露思将担任奥运火炬手",
+        "onboard_time": 1715228721,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 168102,
+        "num": 168102,
+        "word": "瑞幸咖啡被曝冰块霉变",
+        "onboard_time": 1715235557,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164936,
+        "num": 164936,
+        "word": "歌手2024第一期歌单",
+        "onboard_time": 1715233697,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157116,
+        "num": 157116,
+        "word": "我的阿勒泰 让我演两集",
+        "onboard_time": 1715258358,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155121,
+        "num": 155121,
+        "word": "庆余年2首播4集不断更",
+        "onboard_time": 1715222478,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147302,
+        "num": 147302,
+        "word": "张艺凡一直都在哈哈哈",
+        "onboard_time": 1715257998,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143155,
+        "num": 143155,
+        "word": "佟梦实还演五竹",
+        "onboard_time": 1715250739,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139989,
+        "num": 139989,
+        "word": "井柏然赛道",
+        "onboard_time": 1715233399,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131169,
+        "num": 131169,
+        "word": "陈梦王曼昱女双半决赛",
+        "onboard_time": 1715253499,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128042,
+        "num": 128042,
+        "word": "张若昀被粉丝送五三",
+        "onboard_time": 1715257459,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110355,
+        "num": 121377,
+        "word": "狗坏猫好",
+        "onboard_time": 1715258058,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120933,
+        "num": 120933,
+        "word": "哈尔滨一九四四",
+        "onboard_time": 1715255358,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113420,
+        "num": 113420,
+        "word": "迪丽热巴黑色阔腿裤",
+        "onboard_time": 1715249537,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107977,
+        "num": 107977,
+        "word": "第五人格",
+        "onboard_time": 1715258118,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103070,
+        "num": 103070,
+        "word": "44岁女子生二胎当妈又当奶",
+        "onboard_time": 1715239817,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98422,
+        "num": 98422,
+        "word": "喷射出血止血的办法",
+        "onboard_time": 1715246058,
+        "rank": 44,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 96813,
+        "num": 96813,
+        "word": "早田希娜4比1巴特拉",
+        "onboard_time": 1715258778,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94766,
+        "num": 94766,
+        "word": "轻语绝活芈月",
+        "onboard_time": 1715258418,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93827,
+        "num": 93827,
+        "word": "九尾Cat预言对决",
+        "onboard_time": 1715257937,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90663,
+        "num": 90663,
+        "word": "于适 人高马大的具象化",
+        "onboard_time": 1715252059,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89378,
+        "num": 89378,
+        "word": "原来以前的书上什么都教过",
+        "onboard_time": 1715253618,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈两国传统友谊源远流长#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715257970264,
+  "endTime": 1715258883090,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2035,6 +2035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 881418,
+      "num": 675532,
+      "word": "因担心被霸凌日本中小学生开始脱毛",
+      "onboard_time": 1715255958,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881165,
       "num": 327114,
       "word": "月薪4000小伙三年攒下13万",
@@ -2283,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843921,
+      "num": 675166,
+      "word": "张若昀说五年里尽力在保养",
+      "onboard_time": 1715255178,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 841804,
       "num": 433829,
       "word": "戚薇 我从不掩饰对女生的喜爱",
@@ -2513,14 +2529,6 @@
       "onboard_time": 1715229380,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 804843,
-      "num": 624977,
-      "word": "张若昀说五年里尽力在保养",
-      "onboard_time": 1715255178,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 803158,
@@ -2888,6 +2896,14 @@
       "word": "儿子吸食上头电子烟父亲大义灭亲",
       "onboard_time": 1715132840,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741914,
+      "num": 741914,
+      "word": "全国人均每年喝16杯咖啡",
+      "onboard_time": 1715254997,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -3451,6 +3467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 664863,
+      "num": 664863,
+      "word": "怡宝 包装",
+      "onboard_time": 1715257278,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 663885,
       "num": 663885,
       "word": "金莎孙丞潇婚纱照造型",
@@ -3851,14 +3875,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 623690,
-      "num": 623690,
-      "word": "因担心被霸凌日本中小学生开始脱毛",
-      "onboard_time": 1715255958,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 621744,
       "num": 460470,
       "word": "汪苏泷如果爱忘了",
@@ -4169,6 +4185,14 @@
       "onboard_time": 1714812139,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 587353,
+      "num": 388289,
+      "word": "迪丽热巴不考虑演反派吗",
+      "onboard_time": 1715255896,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 585149,
@@ -4672,14 +4696,6 @@
       "word": "入职信息已婚填未婚遭公司解约",
       "onboard_time": 1714880417,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534580,
-      "num": 534580,
-      "word": "全国人均每年喝16杯咖啡",
-      "onboard_time": 1715254997,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -5499,14 +5515,6 @@
       "category": "汽车,社会新闻"
     },
     {
-      "raw_hot": 468383,
-      "num": 388289,
-      "word": "迪丽热巴不考虑演反派吗",
-      "onboard_time": 1715255896,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 468291,
       "num": 468291,
       "word": "杨怡",
@@ -6291,6 +6299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422148,
+      "num": 422148,
+      "word": "螺蛳粉有官方英文名了",
+      "onboard_time": 1715255418,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 421911,
       "num": 421911,
       "word": "迪丽热巴王亚飞再合作",
@@ -6753,14 +6769,6 @@
       "onboard_time": 1714998439,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 400134,
-      "num": 400134,
-      "word": "螺蛳粉有官方英文名了",
-      "onboard_time": 1715255418,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 400016,
@@ -9003,6 +9011,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 299307,
+      "num": 223904,
+      "word": "那些长期不上班的人最后都怎么样了",
+      "onboard_time": 1715255057,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 299072,
       "num": 187572,
       "word": "结婚半年发现老公有色弱",
@@ -9489,6 +9505,14 @@
       "onboard_time": 1714974379,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 280687,
+      "num": 280687,
+      "word": "马龙王楚钦男双半决赛",
+      "onboard_time": 1715253499,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 280439,
@@ -10219,14 +10243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258018,
-      "num": 214700,
-      "word": "那些长期不上班的人最后都怎么样了",
-      "onboard_time": 1715255057,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 257790,
       "num": 688727,
       "word": "五一假期文旅消费成绩单",
@@ -10297,14 +10313,6 @@
       "onboard_time": 1715234119,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254969,
-      "num": 254969,
-      "word": "怡宝 包装",
-      "onboard_time": 1715257278,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 254930,
@@ -14243,6 +14251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193853,
+      "num": 193853,
+      "word": "赵一博 细节都做到极致",
+      "onboard_time": 1715256018,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193760,
       "num": 193760,
       "word": "费可人设",
@@ -15313,14 +15329,6 @@
       "onboard_time": 1714697537,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 183644,
-      "num": 183644,
-      "word": "赵一博 细节都做到极致",
-      "onboard_time": 1715256018,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 183628,
@@ -16627,14 +16635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170007,
-      "num": 170007,
-      "word": "马龙王楚钦男双半决赛",
-      "onboard_time": 1715253499,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169989,
       "num": 169989,
       "word": "WTT沙特大满贯",
@@ -17923,6 +17923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157116,
+      "num": 157116,
+      "word": "我的阿勒泰 让我演两集",
+      "onboard_time": 1715258358,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157044,
       "num": 157044,
       "word": "赵睿个人能力",
@@ -19017,6 +19025,14 @@
       "onboard_time": 1715129121,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147302,
+      "num": 147302,
+      "word": "张艺凡一直都在哈哈哈",
+      "onboard_time": 1715257998,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 147269,
@@ -22523,6 +22539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110355,
+      "num": 121377,
+      "word": "狗坏猫好",
+      "onboard_time": 1715258058,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110189,
       "num": 110189,
       "word": "出淤泥而挑染的萨摩耶",
@@ -22673,6 +22697,14 @@
       "onboard_time": 1714544479,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107977,
+      "num": 107977,
+      "word": "第五人格",
+      "onboard_time": 1715258118,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 107932,
@@ -23211,6 +23243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98148,
+      "num": 422317,
+      "word": "匈牙利人吃面包涂辣椒酱",
+      "onboard_time": 1715255717,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98083,
       "num": 98083,
       "word": "姐弟第1次坐警车兴奋与民警合照",
@@ -23257,6 +23297,14 @@
       "onboard_time": 1715197331,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96813,
+      "num": 96813,
+      "word": "早田希娜4比1巴特拉",
+      "onboard_time": 1715258778,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 96494,
@@ -23315,6 +23363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 94766,
+      "num": 94766,
+      "word": "轻语绝活芈月",
+      "onboard_time": 1715258418,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94277,
       "num": 94277,
       "word": "自闭症孩子的99岁老师说要尊重孩子",
@@ -23339,6 +23395,14 @@
       "category": "科学科普,社会新闻"
     },
     {
+      "raw_hot": 93827,
+      "num": 100099,
+      "word": "九尾Cat预言对决",
+      "onboard_time": 1715257937,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93628,
       "num": 93628,
       "word": "TikTok告美联邦政府",
@@ -23353,14 +23417,6 @@
       "onboard_time": 1714786697,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92826,
-      "num": 401727,
-      "word": "匈牙利人吃面包涂辣椒酱",
-      "onboard_time": 1715255717,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91796,
@@ -23473,14 +23529,6 @@
       "onboard_time": 1714482797,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88354,
-      "num": 100099,
-      "word": "九尾Cat预言对决",
-      "onboard_time": 1715257937,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 87801,
