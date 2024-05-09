@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715285921284,
+  "endTime": 1715286951486,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -14451,6 +14451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47552,
+      "num": 47552,
+      "word": "以前的跑男和现在的跑男",
+      "onboard_time": 1715281511,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47019,
       "num": 54447,
       "word": "中法元首夫妇观看法国民间舞蹈表演",
@@ -14529,14 +14537,6 @@
       "onboard_time": 1714858151,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42043,
-      "num": 42043,
-      "word": "以前的跑男和现在的跑男",
-      "onboard_time": 1715281511,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 41924,
@@ -14825,6 +14825,14 @@
       "onboard_time": 1714940110,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 12362,
+      "num": 15178,
+      "word": "陈丽君16次鞠躬回应粉丝",
+      "onboard_time": 1715286851,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12230,
