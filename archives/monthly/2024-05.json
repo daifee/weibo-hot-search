@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715243843569,
+  "endTime": 1715246378649,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -947,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1277255,
+      "num": 944590,
+      "word": "汪苏泷回应凭什么参加歌手",
+      "onboard_time": 1715242521,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1276632,
       "num": 1276632,
       "word": "广东省委书记省长面向塌方地三鞠躬",
@@ -961,6 +969,14 @@
       "onboard_time": 1715166199,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1265556,
+      "num": 1265556,
+      "word": "全国仅剩6地未全面取消住房限购",
+      "onboard_time": 1715241799,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1262189,
@@ -1113,6 +1129,14 @@
       "onboard_time": 1714713559,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1220613,
+      "num": 422329,
+      "word": "张元英被威胁",
+      "onboard_time": 1715243779,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1203159,
@@ -1784,14 +1808,6 @@
       "word": "赵小棠妈妈是先婚后爱",
       "onboard_time": 1714574720,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 944590,
-      "num": 944590,
-      "word": "汪苏泷回应凭什么参加歌手",
-      "onboard_time": 1715242521,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -2748,7 +2764,7 @@
     },
     {
       "raw_hot": 754439,
-      "num": 272067,
+      "num": 288070,
       "word": "44岁女子生二胎当妈又当奶",
       "onboard_time": 1715239817,
       "rank": 22,
@@ -5259,6 +5275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475774,
+      "num": 383498,
+      "word": "李莎旻子撕杨丞琳标签",
+      "onboard_time": 1715244920,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475630,
       "num": 475630,
       "word": "张翰两句话得罪三个人",
@@ -7435,6 +7459,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 357118,
+      "num": 357118,
+      "word": "要长相有长相 要谈吐有痰吐",
+      "onboard_time": 1715244499,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 356993,
       "num": 356993,
       "word": "王曼昱vs巴特拉",
@@ -7761,6 +7793,14 @@
       "onboard_time": 1715162179,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343652,
+      "num": 343652,
+      "word": "53岁爸爸第一次吃榴莲以为是面包",
+      "onboard_time": 1715245519,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 343587,
@@ -8188,7 +8228,7 @@
     },
     {
       "raw_hot": 324998,
-      "num": 257995,
+      "num": 283161,
       "word": "不饿但馋可能是身体在求救",
       "onboard_time": 1715242938,
       "rank": 28,
@@ -8257,6 +8297,14 @@
       "onboard_time": 1715038456,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321260,
+      "num": 286538,
+      "word": "窦骁何超莲最近合照",
+      "onboard_time": 1715244559,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 321259,
@@ -8361,6 +8409,14 @@
       "onboard_time": 1714872979,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316950,
+      "num": 284120,
+      "word": "发朋友圈就必须回消息吗",
+      "onboard_time": 1715243959,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 316466,
@@ -9713,6 +9769,14 @@
       "onboard_time": 1714482558,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266032,
+      "num": 266032,
+      "word": "上个央视恨不得全世界知道",
+      "onboard_time": 1715243419,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 265698,
@@ -11632,6 +11696,14 @@
       "word": "维和防暴队剧情",
       "onboard_time": 1714556899,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 218274,
+      "num": 218274,
+      "word": "谢飞 我不会再看一顿火锅",
+      "onboard_time": 1715245279,
+      "rank": 28,
       "category": "电影"
     },
     {
@@ -14403,6 +14475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188918,
+      "num": 188918,
+      "word": "喷射出血止血的办法",
+      "onboard_time": 1715246058,
+      "rank": 31,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 188900,
       "num": 188900,
       "word": "联合国官网报道王一博",
@@ -15859,6 +15939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173992,
+      "num": 173992,
+      "word": "老人说腿卷起来的才是好猫",
+      "onboard_time": 1715245338,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173940,
       "num": 173940,
       "word": "成年人低成本的快乐",
@@ -17163,14 +17251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 161414,
-      "num": 161414,
-      "word": "张元英被威胁",
-      "onboard_time": 1715243779,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161358,
       "num": 161358,
       "word": "狼队 八强哥",
@@ -17585,6 +17665,22 @@
       "onboard_time": 1715083398,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156295,
+      "num": 156295,
+      "word": "张杰演唱会百场幕后采访预告",
+      "onboard_time": 1715244738,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 156228,
+      "num": 156228,
+      "word": "田雨说被张若昀喂胖了",
+      "onboard_time": 1715244198,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 156212,
@@ -18515,14 +18611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148241,
-      "num": 148241,
-      "word": "上个央视恨不得全世界知道",
-      "onboard_time": 1715243419,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148005,
       "num": 148005,
       "word": "鸿蒙与苹果安卓比肩的底气在哪里",
@@ -19171,6 +19259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142005,
+      "num": 142005,
+      "word": "阿水与gumayusi交换队服",
+      "onboard_time": 1715246299,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141856,
       "num": 141856,
       "word": "她在百米高空为航母驾龙门",
@@ -19713,6 +19809,14 @@
       "onboard_time": 1715225600,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135507,
+      "num": 135507,
+      "word": "第一次吃席吃到汉堡",
+      "onboard_time": 1715245939,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 135483,
@@ -21355,6 +21459,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 118149,
+      "num": 118149,
+      "word": "玉桂狗中报排名第一",
+      "onboard_time": 1715246239,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 118074,
       "num": 118074,
       "word": "末路狂花钱",
@@ -22057,6 +22169,14 @@
       "onboard_time": 1714559838,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109466,
+      "num": 109466,
+      "word": "原来这些歌词我们从小就听错了",
+      "onboard_time": 1715246359,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 109465,
@@ -22881,6 +23001,14 @@
       "onboard_time": 1715186775,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89969,
+      "num": 492794,
+      "word": "匈牙利也有奶茶biangbiang面",
+      "onboard_time": 1715244198,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89923,
