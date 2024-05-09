@@ -1,6 +1,6 @@
 {
   "startTime": 1715185399055,
-  "endTime": 1715258883090,
+  "endTime": 1715260917884,
   "band_list": [
     {
       "raw_hot": 2295218,
@@ -41,6 +41,14 @@
       "onboard_time": 1715235557,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1907170,
+      "num": 1907170,
+      "word": "怡宝 包装",
+      "onboard_time": 1715257278,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 1642827,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1081616,
+      "num": 675532,
+      "word": "因担心被霸凌日本中小学生开始脱毛",
+      "onboard_time": 1715255958,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1076906,
       "num": 374079,
       "word": "宁夏发生一起交通事故致9死2伤",
@@ -209,14 +225,6 @@
       "onboard_time": 1715213179,
       "rank": 11,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 881418,
-      "num": 675532,
-      "word": "因担心被霸凌日本中小学生开始脱毛",
-      "onboard_time": 1715255958,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 843921,
@@ -307,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749886,
+      "num": 749886,
+      "word": "全国人均每年喝16杯咖啡",
+      "onboard_time": 1715254997,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747924,
       "num": 465974,
       "word": "四天工作制离我们还有多远",
       "onboard_time": 1715236937,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 741914,
-      "num": 741914,
-      "word": "全国人均每年喝16杯咖啡",
-      "onboard_time": 1715254997,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 738816,
@@ -377,14 +385,6 @@
       "onboard_time": 1715228599,
       "rank": 46,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 664863,
-      "num": 664863,
-      "word": "怡宝 包装",
-      "onboard_time": 1715257278,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 657850,
@@ -467,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 602263,
+      "num": 388289,
+      "word": "迪丽热巴不考虑演反派吗",
+      "onboard_time": 1715255896,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 595106,
       "num": 595106,
       "word": "黄好厉害",
@@ -483,20 +491,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 587353,
-      "num": 388289,
-      "word": "迪丽热巴不考虑演反派吗",
-      "onboard_time": 1715255896,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 586121,
       "num": 200881,
       "word": "元气森林就肖战海报事件致歉",
       "onboard_time": 1715172560,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 585038,
+      "num": 227229,
+      "word": "那些长期不上班的人最后都怎么样了",
+      "onboard_time": 1715255057,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 573389,
@@ -779,6 +787,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376308,
+      "num": 376308,
+      "word": "胡歌为拍这部戏观察我三年",
+      "onboard_time": 1715259558,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 370731,
+      "num": 278337,
+      "word": "杨紫迪丽热巴面纱照",
+      "onboard_time": 1715260097,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 364175,
       "num": 364175,
       "word": "辽粤决战现场失控",
@@ -820,7 +844,7 @@
     },
     {
       "raw_hot": 360530,
-      "num": 360530,
+      "num": 375087,
       "word": "奔跑吧撕名牌回归",
       "onboard_time": 1715256077,
       "rank": 13,
@@ -971,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299307,
-      "num": 223904,
-      "word": "那些长期不上班的人最后都怎么样了",
-      "onboard_time": 1715255057,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 293797,
       "num": 293797,
       "word": "青铜峡9死2伤车祸事发陵园旁",
@@ -995,11 +1011,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283210,
+      "num": 283210,
+      "word": "1999周年庆",
+      "onboard_time": 1715259018,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280687,
       "num": 280687,
       "word": "马龙王楚钦男双半决赛",
       "onboard_time": 1715253499,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 278820,
+      "num": 278820,
+      "word": "王楚钦 一天三赛习惯了",
+      "onboard_time": 1715259619,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -1017,6 +1049,14 @@
       "onboard_time": 1715224279,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257275,
+      "num": 257275,
+      "word": "重返未来1999",
+      "onboard_time": 1715260218,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 257121,
@@ -1243,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219587,
+      "num": 219587,
+      "word": "离职是最好的医美吧",
+      "onboard_time": 1715259978,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219416,
       "num": 219416,
       "word": "那英 歌手",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1715233757,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212609,
+      "num": 212609,
+      "word": "诺基亚回归",
+      "onboard_time": 1715259018,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 211916,
@@ -1787,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175530,
+      "num": 175530,
+      "word": "李耕耘 兔子有在好好长大",
+      "onboard_time": 1715259678,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173992,
       "num": 173992,
       "word": "老人说腿卷起来的才是好猫",
@@ -1841,6 +1905,14 @@
       "onboard_time": 1715215460,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168861,
+      "num": 168861,
+      "word": "我的阿勒泰 让我演两集",
+      "onboard_time": 1715258358,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 168247,
@@ -1907,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160682,
+      "num": 160682,
+      "word": "南京史诗级晚霞",
+      "onboard_time": 1715258957,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159094,
       "num": 159094,
       "word": "ENHYPEN预告",
@@ -1921,14 +2001,6 @@
       "onboard_time": 1715253618,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157116,
-      "num": 157116,
-      "word": "我的阿勒泰 让我演两集",
-      "onboard_time": 1715258358,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 156753,
@@ -2001,6 +2073,14 @@
       "onboard_time": 1715221817,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 151858,
+      "num": 151858,
+      "word": "狗坏猫好",
+      "onboard_time": 1715258058,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 151640,
@@ -2131,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141541,
+      "num": 141541,
+      "word": "Bin上单VN",
+      "onboard_time": 1715260399,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141437,
       "num": 141437,
       "word": "HYBE将召开罢免闵熙珍股东大会",
@@ -2153,6 +2241,14 @@
       "onboard_time": 1715238077,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138787,
+      "num": 138787,
+      "word": "黄觉说杀青才看清张艺凡长相",
+      "onboard_time": 1715260880,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 138614,
@@ -2201,6 +2297,14 @@
       "onboard_time": 1715225600,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134751,
+      "num": 134751,
+      "word": "檀健次黑T港风大片",
+      "onboard_time": 1715259678,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 134691,
@@ -2395,14 +2499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110355,
-      "num": 121377,
-      "word": "狗坏猫好",
-      "onboard_time": 1715258058,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108356,
       "num": 108356,
       "word": "在小公司上班什么体验",
@@ -2425,6 +2521,14 @@
       "onboard_time": 1715258118,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103720,
+      "num": 119568,
+      "word": "早田希娜4比1巴特拉",
+      "onboard_time": 1715258778,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 103331,
@@ -2467,6 +2571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99112,
+      "num": 119534,
+      "word": "又在鹭卓vlog里看到一年麦金黄",
+      "onboard_time": 1715259078,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98148,
       "num": 422317,
       "word": "匈牙利人吃面包涂辣椒酱",
@@ -2481,14 +2593,6 @@
       "onboard_time": 1715197331,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96813,
-      "num": 96813,
-      "word": "早田希娜4比1巴特拉",
-      "onboard_time": 1715258778,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 96474,
@@ -2699,6 +2803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57750,
+      "num": 370665,
+      "word": "中国扬琴和匈牙利辛巴龙合奏茉莉花",
+      "onboard_time": 1715259317,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50763,
       "num": 164605,
       "word": "揭秘胶原抗老真相",
@@ -2792,6 +2904,9 @@
     },
     {
       "word": "#中匈两国传统友谊源远流长#"
+    },
+    {
+      "word": "#中匈两国为新型国际关系树立起一个典范#"
     }
   ]
 }

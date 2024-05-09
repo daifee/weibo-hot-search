@@ -1,0 +1,410 @@
+{
+  "runTime": 1715260917884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1907170,
+        "num": 1907170,
+        "word": "怡宝 包装",
+        "onboard_time": 1715257278,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 749886,
+        "num": 749886,
+        "word": "全国人均每年喝16杯咖啡",
+        "onboard_time": 1715254997,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37968,
+        "num": 632185,
+        "word": "布达佩斯餐馆奏响中国乐曲",
+        "onboard_time": 1715240719,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1081616,
+        "num": 624295,
+        "word": "因担心被霸凌日本中小学生开始脱毛",
+        "onboard_time": 1715255958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604254,
+        "num": 604254,
+        "word": "张若昀说五年里尽力在保养",
+        "onboard_time": 1715255178,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 560564,
+        "num": 560564,
+        "word": "全国仅剩6地未全面取消住房限购",
+        "onboard_time": 1715241799,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381766,
+        "num": 381766,
+        "word": "螺蛳粉有官方英文名了",
+        "onboard_time": 1715255418,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 376308,
+        "num": 376308,
+        "word": "胡歌为拍这部戏观察我三年",
+        "onboard_time": 1715259558,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287395,
+        "num": 375087,
+        "word": "奔跑吧撕名牌回归",
+        "onboard_time": 1715256077,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57750,
+        "num": 370665,
+        "word": "中国扬琴和匈牙利辛巴龙合奏茉莉花",
+        "onboard_time": 1715259317,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 846109,
+        "num": 367224,
+        "word": "淘宝免单",
+        "onboard_time": 1715242098,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 602263,
+        "num": 359568,
+        "word": "迪丽热巴不考虑演反派吗",
+        "onboard_time": 1715255896,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358818,
+        "num": 358818,
+        "word": "上个央视恨不得全世界知道",
+        "onboard_time": 1715243419,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342368,
+        "num": 342368,
+        "word": "张元英被威胁",
+        "onboard_time": 1715243779,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283210,
+        "num": 283210,
+        "word": "1999周年庆",
+        "onboard_time": 1715259018,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278820,
+        "num": 278820,
+        "word": "王楚钦 一天三赛习惯了",
+        "onboard_time": 1715259619,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370731,
+        "num": 278337,
+        "word": "杨紫迪丽热巴面纱照",
+        "onboard_time": 1715260097,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257275,
+        "num": 257275,
+        "word": "重返未来1999",
+        "onboard_time": 1715260218,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234718,
+        "num": 234718,
+        "word": "要长相有长相 要谈吐有痰吐",
+        "onboard_time": 1715244499,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229217,
+        "num": 229217,
+        "word": "BLG对战PSG",
+        "onboard_time": 1715248939,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 665100,
+        "num": 227330,
+        "word": "娜扎 就担心我艳压你",
+        "onboard_time": 1715251159,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585038,
+        "num": 227229,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368280,
+        "num": 226616,
+        "word": "药店门口为什么总写着万艾可到货",
+        "onboard_time": 1715252538,
+        "rank": 22,
+        "category": "科学科普,科学科普"
+      },
+      {
+        "raw_hot": 225442,
+        "num": 225442,
+        "word": "消保委点名林俊杰演唱会退票政策",
+        "onboard_time": 1715248578,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219587,
+        "num": 219587,
+        "word": "离职是最好的医美吧",
+        "onboard_time": 1715259978,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217848,
+        "num": 217848,
+        "word": "李昊自荐上歌手",
+        "onboard_time": 1715251937,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212609,
+        "num": 212609,
+        "word": "诺基亚回归",
+        "onboard_time": 1715259018,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175530,
+        "num": 175530,
+        "word": "李耕耘 兔子有在好好长大",
+        "onboard_time": 1715259678,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174143,
+        "num": 174143,
+        "word": "李胜利再唱BangBangBang",
+        "onboard_time": 1715248340,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171740,
+        "num": 171740,
+        "word": "南京晚霞",
+        "onboard_time": 1715253077,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172572,
+        "num": 171703,
+        "word": "新生",
+        "onboard_time": 1715252177,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171338,
+        "num": 171338,
+        "word": "马龙王楚钦男双半决赛",
+        "onboard_time": 1715253499,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168861,
+        "num": 168861,
+        "word": "我的阿勒泰 让我演两集",
+        "onboard_time": 1715258358,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160682,
+        "num": 160682,
+        "word": "南京史诗级晚霞",
+        "onboard_time": 1715258957,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158746,
+        "num": 158746,
+        "word": "汪苏泷回应凭什么参加歌手",
+        "onboard_time": 1715242521,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151858,
+        "num": 151858,
+        "word": "狗坏猫好",
+        "onboard_time": 1715258058,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141541,
+        "num": 141541,
+        "word": "Bin上单VN",
+        "onboard_time": 1715260399,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140373,
+        "num": 140373,
+        "word": "庆余年2首播4集不断更",
+        "onboard_time": 1715222478,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138787,
+        "num": 138787,
+        "word": "黄觉说杀青才看清张艺凡长相",
+        "onboard_time": 1715260880,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138134,
+        "num": 138134,
+        "word": "歌手2024第一期歌单",
+        "onboard_time": 1715233697,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134751,
+        "num": 134751,
+        "word": "檀健次黑T港风大片",
+        "onboard_time": 1715259678,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127992,
+        "num": 127992,
+        "word": "井柏然赛道",
+        "onboard_time": 1715233399,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125834,
+        "num": 125834,
+        "word": "赵露思将担任奥运火炬手",
+        "onboard_time": 1715228721,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 122864,
+        "num": 122864,
+        "word": "赵一博 细节都做到极致",
+        "onboard_time": 1715256018,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121104,
+        "num": 121104,
+        "word": "张艺凡一直都在哈哈哈",
+        "onboard_time": 1715257998,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119569,
+        "num": 119569,
+        "word": "佟梦实还演五竹",
+        "onboard_time": 1715250739,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103720,
+        "num": 119568,
+        "word": "早田希娜4比1巴特拉",
+        "onboard_time": 1715258778,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99599,
+        "num": 119552,
+        "word": "瑞幸咖啡被曝冰块霉变",
+        "onboard_time": 1715235557,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99112,
+        "num": 119534,
+        "word": "又在鹭卓vlog里看到一年麦金黄",
+        "onboard_time": 1715259078,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92590,
+        "num": 119528,
+        "word": "玉桂狗中报排名第一",
+        "onboard_time": 1715246239,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈两国为新型国际关系树立起一个典范#"
+    }
+  }
+}
