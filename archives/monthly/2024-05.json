@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715329365292,
+  "endTime": 1715330107708,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1619,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1093265,
+      "num": 1093265,
+      "word": "警方通报南通车祸",
+      "onboard_time": 1715328139,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1091321,
       "num": 1091321,
       "word": "Tiffany被年轻人抛弃了吗",
@@ -1747,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1055911,
+      "num": 1055911,
+      "word": "警方通报阜阳水泥封尸案",
+      "onboard_time": 1715328018,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047292,
       "num": 1047292,
       "word": "问界回应M7事故四大疑问",
@@ -1776,14 +1792,6 @@
       "word": "小孩打碎博物馆近12万瓷瓶被免赔",
       "onboard_time": 1714778653,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1037587,
-      "num": 550063,
-      "word": "警方通报南通车祸",
-      "onboard_time": 1715328139,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2153,14 +2161,6 @@
       "onboard_time": 1714803858,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 904098,
-      "num": 904098,
-      "word": "警方通报阜阳水泥封尸案",
-      "onboard_time": 1715328018,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 891566,
@@ -3611,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678101,
+      "num": 678101,
+      "word": "44岁体操皇后刘璇再上平衡木",
+      "onboard_time": 1715325620,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 674521,
       "num": 663704,
       "word": "1家5口被海浪卷走4人不幸遇难",
@@ -4067,14 +4075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 636919,
-      "num": 636919,
-      "word": "44岁体操皇后刘璇再上平衡木",
-      "onboard_time": 1715325620,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 636476,
       "num": 636476,
       "word": "靠运动减肥多久才开始起效",
@@ -4195,20 +4195,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 621442,
+      "num": 621442,
+      "word": "华晨宇新歌弹错了12次",
+      "onboard_time": 1715324478,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 621001,
       "num": 522938,
       "word": "Makiyo暴瘦",
       "onboard_time": 1715233399,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 620548,
-      "num": 620548,
-      "word": "华晨宇新歌弹错了12次",
-      "onboard_time": 1715324478,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 620467,
@@ -4321,6 +4321,14 @@
       "onboard_time": 1714558401,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 610744,
+      "num": 610744,
+      "word": "知情人回应水泥块中挖出尸体",
+      "onboard_time": 1715326581,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610269,
@@ -4545,14 +4553,6 @@
       "onboard_time": 1714812139,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 586555,
-      "num": 586555,
-      "word": "知情人回应水泥块中挖出尸体",
-      "onboard_time": 1715326581,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 585149,
@@ -5947,6 +5947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 470401,
+      "num": 470401,
+      "word": "教育局就600元防攀比鞋事件致歉",
+      "onboard_time": 1715328858,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470256,
       "num": 470256,
       "word": "纽约警方逮捕哥大抗议学生",
@@ -6105,6 +6113,14 @@
       "onboard_time": 1714879518,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461369,
+      "num": 461369,
+      "word": "台湾地震",
+      "onboard_time": 1715328199,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460978,
@@ -6491,14 +6507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 438922,
-      "num": 438922,
-      "word": "台湾地震",
-      "onboard_time": 1715328199,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 437434,
       "num": 437434,
       "word": "观音桥网红天桥因人流火爆而限流",
@@ -6760,6 +6768,14 @@
       "word": "加拿大一家3男捐精捐出超600个娃",
       "onboard_time": 1714838898,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423763,
+      "num": 423763,
+      "word": "南通车祸多名学生受伤送医院抢救",
+      "onboard_time": 1715329040,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -9508,7 +9524,7 @@
     },
     {
       "raw_hot": 306518,
-      "num": 249709,
+      "num": 270656,
       "word": "刮刮乐不敢敞开卖了",
       "onboard_time": 1715325199,
       "rank": 37,
@@ -10179,6 +10195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 282008,
+      "num": 282008,
+      "word": "杨幂晒哈尔滨一九四四合照",
+      "onboard_time": 1715327119,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281673,
       "num": 281673,
       "word": "福宝将结束隔离",
@@ -10753,14 +10777,6 @@
       "onboard_time": 1715061198,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265276,
-      "num": 265276,
-      "word": "杨幂晒哈尔滨一九四四合照",
-      "onboard_time": 1715327119,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 265265,
@@ -12675,14 +12691,6 @@
       "category": "科学科普,自然"
     },
     {
-      "raw_hot": 221295,
-      "num": 221295,
-      "word": "南通车祸多名学生受伤送医院抢救",
-      "onboard_time": 1715329040,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221261,
       "num": 221261,
       "word": "森林狼vs掘金",
@@ -12883,6 +12891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218720,
+      "num": 218720,
+      "word": "青花瓷分数 低了",
+      "onboard_time": 1715328139,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218561,
       "num": 218561,
       "word": "拜登声称中俄印日经济停滞是因排外",
@@ -13019,14 +13035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216406,
-      "num": 216406,
-      "word": "青花瓷分数 低了",
-      "onboard_time": 1715328139,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216394,
       "num": 216394,
       "word": "金秀贤快碎了",
@@ -13153,14 +13161,6 @@
       "onboard_time": 1715059759,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214912,
-      "num": 214912,
-      "word": "教育局就600元防攀比鞋事件致歉",
-      "onboard_time": 1715328858,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214781,
@@ -15483,6 +15483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193176,
+      "num": 176135,
+      "word": "记录婚后的冷暴力过程",
+      "onboard_time": 1715329158,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193091,
       "num": 193091,
       "word": "TES对战TL",
@@ -15657,6 +15665,14 @@
       "onboard_time": 1714889719,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191517,
+      "num": 191517,
+      "word": "南部战区警告驱离擅闯西沙领海美舰",
+      "onboard_time": 1715328439,
+      "rank": 34,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 191277,
@@ -16105,6 +16121,14 @@
       "onboard_time": 1714565179,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187447,
+      "num": 187447,
+      "word": "南通车祸造成8人受伤",
+      "onboard_time": 1715329998,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187432,
@@ -16611,6 +16635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183048,
+      "num": 183048,
+      "word": "金价上演过山车",
+      "onboard_time": 1715326520,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182917,
       "num": 182917,
       "word": "井柏然好帅",
@@ -17009,14 +17041,6 @@
       "onboard_time": 1714705999,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 178493,
-      "num": 178493,
-      "word": "金价上演过山车",
-      "onboard_time": 1715326520,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 178437,
@@ -19835,6 +19859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152114,
+      "num": 152114,
+      "word": "G2对战T1",
+      "onboard_time": 1715329040,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152106,
       "num": 152106,
       "word": "水贝金饰加工费大跳水",
@@ -20299,6 +20331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149023,
+      "num": 615372,
+      "word": "小城旅游人数蹭蹭蹭蹭长",
+      "onboard_time": 1715326759,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148971,
       "num": 148971,
       "word": "迪丽热巴模仿刘宇宁口音",
@@ -20385,14 +20425,6 @@
       "onboard_time": 1714627159,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 148305,
-      "num": 148305,
-      "word": "南部战区警告驱离擅闯西沙领海美舰",
-      "onboard_time": 1715328439,
-      "rank": 34,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 148005,
@@ -21091,14 +21123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142181,
-      "num": 142181,
-      "word": "G2对战T1",
-      "onboard_time": 1715329040,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 142169,
       "num": 142169,
       "word": "鞠婧祎露腰穿搭",
@@ -21411,6 +21435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139366,
+      "num": 139366,
+      "word": "马嘉祺遇中戏考官",
+      "onboard_time": 1715328079,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139311,
       "num": 139311,
       "word": "当旅行前让全家人签保证书",
@@ -21592,14 +21624,6 @@
       "word": "种地吧直播",
       "onboard_time": 1715306238,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 137168,
-      "num": 137168,
-      "word": "马嘉祺遇中戏考官",
-      "onboard_time": 1715328079,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -22105,14 +22129,6 @@
       "onboard_time": 1714993039,
       "rank": 45,
       "category": "科学科普,情感"
-    },
-    {
-      "raw_hot": 133246,
-      "num": 133246,
-      "word": "记录婚后的冷暴力过程",
-      "onboard_time": 1715329158,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 133239,
@@ -22777,14 +22793,6 @@
       "onboard_time": 1715261358,
       "rank": 43,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 126776,
-      "num": 600851,
-      "word": "小城旅游人数蹭蹭蹭蹭长",
-      "onboard_time": 1715326759,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126735,
@@ -26259,6 +26267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60520,
+      "num": 317719,
+      "word": "姐姐美白易如反掌",
+      "onboard_time": 1715325739,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 60195,
       "num": 60195,
       "word": "开始期待端午了",
@@ -26433,14 +26449,6 @@
       "onboard_time": 1714757354,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53445,
-      "num": 220580,
-      "word": "姐姐美白易如反掌",
-      "onboard_time": 1715325739,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 52710,
