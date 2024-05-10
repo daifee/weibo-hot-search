@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715314890734,
+  "endTime": 1715315690995,
   "band_list": [
     {
       "raw_hot": 1941391,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1489957,
-      "num": 465297,
+      "num": 514231,
       "word": "李彦宏内部评璩静风波",
       "onboard_time": 1715305997,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1715263821,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1207635,
+      "num": 1207635,
+      "word": "花少北七年前女友",
+      "onboard_time": 1715313198,
+      "rank": 0,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1180955,
@@ -65,14 +73,6 @@
       "onboard_time": 1715262200,
       "rank": 0,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 955342,
-      "num": 955342,
-      "word": "花少北七年前女友",
-      "onboard_time": 1715313198,
-      "rank": 0,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 943014,
@@ -139,6 +139,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 665100,
+      "num": 665100,
+      "word": "孟子义凭唇下痣秒认肖战",
+      "onboard_time": 1715313980,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 638722,
       "num": 638722,
       "word": "杨紫的眼妆是一片星辰大海",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 600945,
-      "num": 235274,
+      "num": 249699,
       "word": "阿里宣布杭州全球总部启用",
       "onboard_time": 1715311279,
       "rank": 27,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 567644,
-      "num": 450137,
+      "num": 511522,
       "word": "肖战好薄的背",
       "onboard_time": 1715313257,
       "rank": 12,
@@ -203,16 +211,8 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 527626,
-      "num": 527626,
-      "word": "孟子义凭唇下痣秒认肖战",
-      "onboard_time": 1715313980,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 525230,
-      "num": 525230,
+      "raw_hot": 539455,
+      "num": 539455,
       "word": "井柏然夸刘雯素颜太好看了",
       "onboard_time": 1715311938,
       "rank": 40,
@@ -235,12 +235,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 462211,
+      "num": 244605,
+      "word": "首批丁克家庭后遗症如期而至",
+      "onboard_time": 1715313798,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455723,
+      "num": 455723,
+      "word": "乘风二公",
+      "onboard_time": 1715314100,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443902,
       "num": 443902,
       "word": "心疼花海",
       "onboard_time": 1715267119,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 432049,
+      "num": 432049,
+      "word": "周五嘻嘻周六调休不嘻嘻",
+      "onboard_time": 1715313499,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 431072,
@@ -273,6 +297,14 @@
       "onboard_time": 1715305698,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 396048,
+      "num": 396048,
+      "word": "滁州警方回应水泥块中挖出尸体",
+      "onboard_time": 1715315180,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387688,
@@ -329,22 +361,6 @@
       "onboard_time": 1715312537,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319365,
-      "num": 319365,
-      "word": "乘风二公",
-      "onboard_time": 1715314100,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 317029,
-      "num": 234715,
-      "word": "首批丁克家庭后遗症如期而至",
-      "onboard_time": 1715313798,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306688,
@@ -411,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282377,
+      "num": 242968,
+      "word": "水泥",
+      "onboard_time": 1715315059,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274515,
       "num": 237097,
       "word": "因为缺门牙十一年没有大笑过",
@@ -433,14 +457,6 @@
       "onboard_time": 1715255178,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271342,
-      "num": 271342,
-      "word": "周五嘻嘻周六调休不嘻嘻",
-      "onboard_time": 1715313499,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 269045,
@@ -521,6 +537,22 @@
       "onboard_time": 1715310258,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 240677,
+      "num": 731963,
+      "word": "寄电脑被烧毁保价4万德邦只赔1千",
+      "onboard_time": 1715314158,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240304,
+      "num": 240304,
+      "word": "宠物有望上高铁了",
+      "onboard_time": 1715309717,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237228,
@@ -611,12 +643,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 222096,
-      "num": 222096,
-      "word": "宠物有望上高铁了",
-      "onboard_time": 1715309717,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 213537,
+      "num": 213537,
+      "word": "中医建议夏天要多吃酸",
+      "onboard_time": 1715312476,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 212691,
@@ -651,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204936,
+      "num": 204936,
+      "word": "张若昀 你的强来了",
+      "onboard_time": 1715314399,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203401,
       "num": 203401,
       "word": "张韶涵巡演官宣",
@@ -683,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193069,
+      "num": 193069,
+      "word": "公司招的实习生一个都留不住",
+      "onboard_time": 1715313980,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189739,
       "num": 189739,
       "word": "WTT重庆抢票",
@@ -707,14 +755,6 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 187064,
-      "num": 187064,
-      "word": "公司招的实习生一个都留不住",
-      "onboard_time": 1715313980,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186700,
       "num": 186700,
       "word": "aespa正规一辑试听",
@@ -729,14 +769,6 @@
       "onboard_time": 1715303778,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 183261,
-      "num": 183261,
-      "word": "中医建议夏天要多吃酸",
-      "onboard_time": 1715312476,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 180037,
@@ -763,12 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170824,
-      "num": 170824,
-      "word": "张若昀 你的强来了",
-      "onboard_time": 1715314399,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 170518,
+      "num": 170518,
+      "word": "刮刮乐的中奖概率有多少",
+      "onboard_time": 1715314520,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 167477,
@@ -787,20 +819,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162826,
+      "num": 162826,
+      "word": "郑恺弹白鹿脑门祝白月梵星大爆",
+      "onboard_time": 1715315300,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161407,
       "num": 161407,
       "word": "狐妖小红娘红月篇",
       "onboard_time": 1715265979,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159570,
-      "num": 159570,
-      "word": "寄电脑被烧毁保价4万德邦只赔1千",
-      "onboard_time": 1715314158,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158458,
@@ -843,8 +875,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151918,
-      "num": 151918,
+      "raw_hot": 153510,
+      "num": 153510,
       "word": "宋亚轩刘耀文打电话互坑",
       "onboard_time": 1715314581,
       "rank": 40,
@@ -865,6 +897,14 @@
       "onboard_time": 1715308579,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146733,
+      "num": 146733,
+      "word": "星卡里 杭州",
+      "onboard_time": 1715314939,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 144053,
@@ -939,14 +979,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 134440,
-      "num": 134440,
-      "word": "刮刮乐的中奖概率有多少",
-      "onboard_time": 1715314520,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134142,
       "num": 134142,
       "word": "骑士24分大胜凯尔特人",
@@ -977,6 +1009,14 @@
       "onboard_time": 1715267599,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129452,
+      "num": 185721,
+      "word": "让妈妈每天过母亲节",
+      "onboard_time": 1715314878,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129321,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1715261779,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119576,
+      "num": 119576,
+      "word": "黄好厉害",
+      "onboard_time": 1715315659,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 119564,
@@ -1163,20 +1211,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98322,
+      "num": 883825,
+      "word": "硬核国货又来了",
+      "onboard_time": 1715311518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97889,
       "num": 101286,
       "word": "张婧仪怼脸纯生图",
       "onboard_time": 1715270838,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97498,
-      "num": 883825,
-      "word": "硬核国货又来了",
-      "onboard_time": 1715311518,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96810,
@@ -1379,20 +1427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47329,
+      "num": 891415,
+      "word": "实地打卡匈塞铁路贝诺段",
+      "onboard_time": 1715311698,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45419,
       "num": 267177,
       "word": "匈牙利学生说中文绕口令有多溜",
       "onboard_time": 1715269877,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 41858,
-      "num": 891415,
-      "word": "实地打卡匈塞铁路贝诺段",
-      "onboard_time": 1715311698,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41570,
@@ -1455,14 +1503,6 @@
       "num": 15178,
       "word": "陈丽君16次鞠躬回应粉丝",
       "onboard_time": 1715286851,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7023,
-      "num": 120942,
-      "word": "让妈妈每天过母亲节",
-      "onboard_time": 1715314878,
       "rank": 49,
       "category": "社会新闻"
     }

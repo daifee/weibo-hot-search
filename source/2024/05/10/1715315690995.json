@@ -1,0 +1,410 @@
+{
+  "runTime": 1715315690995,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1207635,
+        "num": 1207635,
+        "word": "花少北七年前女友",
+        "onboard_time": 1715313198,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 899688,
+        "num": 899688,
+        "word": "生日羞耻症",
+        "onboard_time": 1715306178,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47329,
+        "num": 885611,
+        "word": "实地打卡匈塞铁路贝诺段",
+        "onboard_time": 1715311698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98322,
+        "num": 880105,
+        "word": "硬核国货又来了",
+        "onboard_time": 1715311518,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876155,
+        "num": 876155,
+        "word": "夏天千万别把洗衣机门一直开着",
+        "onboard_time": 1715311579,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240677,
+        "num": 731963,
+        "word": "寄电脑被烧毁保价4万德邦只赔1千",
+        "onboard_time": 1715314158,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665100,
+        "num": 665100,
+        "word": "孟子义凭唇下痣秒认肖战",
+        "onboard_time": 1715313980,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585858,
+        "num": 585858,
+        "word": "杨紫的眼妆是一片星辰大海",
+        "onboard_time": 1715311458,
+        "rank": 7,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 539455,
+        "num": 539455,
+        "word": "井柏然夸刘雯素颜太好看了",
+        "onboard_time": 1715311938,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223505,
+        "num": 515160,
+        "word": "杭州取消限购有卖家跳涨三成",
+        "onboard_time": 1715300060,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 631245,
+        "num": 514231,
+        "word": "李彦宏内部评璩静风波",
+        "onboard_time": 1715305997,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 511522,
+        "num": 511522,
+        "word": "肖战好薄的背",
+        "onboard_time": 1715313257,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455723,
+        "num": 455723,
+        "word": "乘风二公",
+        "onboard_time": 1715314100,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432049,
+        "num": 432049,
+        "word": "周五嘻嘻周六调休不嘻嘻",
+        "onboard_time": 1715313499,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417461,
+        "num": 417461,
+        "word": "林更新要考博士",
+        "onboard_time": 1715299038,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396048,
+        "num": 396048,
+        "word": "滁州警方回应水泥块中挖出尸体",
+        "onboard_time": 1715315180,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354567,
+        "num": 354567,
+        "word": "人死后聊天记录会被怎样处理",
+        "onboard_time": 1715263821,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277917,
+        "num": 277917,
+        "word": "优酷给足了成毅排面",
+        "onboard_time": 1715312537,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257385,
+        "num": 257385,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214595,
+        "num": 255112,
+        "word": "53岁保洁妈妈没工伤险被拒绝上门",
+        "onboard_time": 1715308097,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916053,
+        "num": 253819,
+        "word": "人事是怎么知道员工想离职的",
+        "onboard_time": 1715304138,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 487877,
+        "num": 249699,
+        "word": "阿里宣布杭州全球总部启用",
+        "onboard_time": 1715311279,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 462211,
+        "num": 244605,
+        "word": "首批丁克家庭后遗症如期而至",
+        "onboard_time": 1715313798,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282377,
+        "num": 242968,
+        "word": "水泥",
+        "onboard_time": 1715315059,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240304,
+        "num": 240304,
+        "word": "宠物有望上高铁了",
+        "onboard_time": 1715309717,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236808,
+        "num": 236808,
+        "word": "经常看书和不看书的区别",
+        "onboard_time": 1715302698,
+        "rank": 25,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 214883,
+        "num": 214883,
+        "word": "NewJeans新专辑配置",
+        "onboard_time": 1715310918,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213537,
+        "num": 213537,
+        "word": "中医建议夏天要多吃酸",
+        "onboard_time": 1715312476,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204936,
+        "num": 204936,
+        "word": "张若昀 你的强来了",
+        "onboard_time": 1715314399,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193069,
+        "num": 193069,
+        "word": "公司招的实习生一个都留不住",
+        "onboard_time": 1715313980,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7085,
+        "num": 192086,
+        "word": "于适保持活力的秘密找到了",
+        "onboard_time": 1715311637,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191164,
+        "num": 191164,
+        "word": "周鸿祎谈璩静事件",
+        "onboard_time": 1715313859,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189174,
+        "num": 189174,
+        "word": "CoCo口令",
+        "onboard_time": 1715308516,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186009,
+        "num": 186009,
+        "word": "百度离职副总裁4月成立新公司",
+        "onboard_time": 1715297655,
+        "rank": 33,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 129452,
+        "num": 185721,
+        "word": "让妈妈每天过母亲节",
+        "onboard_time": 1715314878,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185518,
+        "num": 185518,
+        "word": "靠运动减肥多久才开始起效",
+        "onboard_time": 1715296756,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 170518,
+        "num": 170518,
+        "word": "刮刮乐的中奖概率有多少",
+        "onboard_time": 1715314520,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166252,
+        "num": 166252,
+        "word": "我的阿勒泰今日会员收官",
+        "onboard_time": 1715311817,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162826,
+        "num": 162826,
+        "word": "郑恺弹白鹿脑门祝白月梵星大爆",
+        "onboard_time": 1715315300,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159384,
+        "num": 159384,
+        "word": "Ning建议老头杯改名红温杯",
+        "onboard_time": 1715311579,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158074,
+        "num": 158074,
+        "word": "彩礼过高部分农村男青年举债结婚",
+        "onboard_time": 1715304500,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154710,
+        "num": 154710,
+        "word": "霉霉巴黎演唱会首演Fortnight",
+        "onboard_time": 1715310198,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154280,
+        "num": 154280,
+        "word": "张艺凡被夸漂亮的反应",
+        "onboard_time": 1715305698,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153510,
+        "num": 153510,
+        "word": "宋亚轩刘耀文打电话互坑",
+        "onboard_time": 1715314581,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151059,
+        "num": 151059,
+        "word": "做博主7年为什么突然停更",
+        "onboard_time": 1715305518,
+        "rank": 44,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 146733,
+        "num": 146733,
+        "word": "星卡里 杭州",
+        "onboard_time": 1715314939,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139205,
+        "num": 139205,
+        "word": "试打瘦肩针2美容店主一死一伤",
+        "onboard_time": 1715303778,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126024,
+        "num": 126024,
+        "word": "董思成不参加威神V回归",
+        "onboard_time": 1715310318,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124055,
+        "num": 124055,
+        "word": "肖战代言舒客",
+        "onboard_time": 1715307977,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119576,
+        "num": 119576,
+        "word": "黄好厉害",
+        "onboard_time": 1715315659,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同匈牙利总理共同会见记者#"
+    }
+  }
+}
