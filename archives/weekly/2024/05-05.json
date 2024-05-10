@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715368634095,
+  "endTime": 1715369697755,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -16779,6 +16779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84413,
+      "num": 63345,
+      "word": "苗苗劝架",
+      "onboard_time": 1715366233,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83948,
       "num": 808314,
       "word": "匈牙利为何被称为最西边的东方国家",
@@ -17057,14 +17065,6 @@
       "onboard_time": 1715139983,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 70796,
-      "num": 63345,
-      "word": "苗苗劝架",
-      "onboard_time": 1715366233,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 70777,
@@ -17795,6 +17795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25062,
+      "num": 25062,
+      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
+      "onboard_time": 1715366711,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24592,
       "num": 24592,
       "word": "林俊杰深圳演唱会",
@@ -17825,14 +17833,6 @@
       "onboard_time": 1715279231,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 21978,
-      "num": 21978,
-      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
-      "onboard_time": 1715366711,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21727,
