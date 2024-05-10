@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715308999866,
+  "endTime": 1715311187030,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -169,6 +169,14 @@
       "onboard_time": 1715065159,
       "rank": 3,
       "category": "互联网,艺人"
+    },
+    {
+      "raw_hot": 1941391,
+      "num": 1264487,
+      "word": "生日羞耻症",
+      "onboard_time": 1715306178,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1896808,
@@ -1041,14 +1049,6 @@
       "onboard_time": 1715000179,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1010655,
-      "num": 1010655,
-      "word": "生日羞耻症",
-      "onboard_time": 1715306178,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1003253,
@@ -2524,7 +2524,7 @@
     },
     {
       "raw_hot": 616412,
-      "num": 248365,
+      "num": 260752,
       "word": "经常看书和不看书的区别",
       "onboard_time": 1715302698,
       "rank": 20,
@@ -4355,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389533,
+      "num": 302745,
+      "word": "CoCo口令",
+      "onboard_time": 1715308516,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 389307,
       "num": 267592,
       "word": "刘亦菲37岁状态",
@@ -4969,6 +4977,14 @@
       "onboard_time": 1715147842,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348583,
+      "num": 302190,
+      "word": "做博主7年为什么突然停更",
+      "onboard_time": 1715305518,
+      "rank": 30,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 348488,
@@ -5641,6 +5657,14 @@
       "onboard_time": 1715176341,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306350,
+      "num": 306350,
+      "word": "HYBE深夜到ADOR女员工家里非法调查",
+      "onboard_time": 1715308457,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 305588,
@@ -6539,14 +6563,6 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 260393,
-      "num": 260393,
-      "word": "HYBE深夜到ADOR女员工家里非法调查",
-      "onboard_time": 1715308457,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259188,
       "num": 704614,
       "word": "新疆2元一个的烤包子火了",
@@ -6659,6 +6675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253753,
+      "num": 253753,
+      "word": "蔡文静连续练了九个小时舞",
+      "onboard_time": 1715310496,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253548,
       "num": 253548,
       "word": "给李明德一个机会",
@@ -6713,14 +6737,6 @@
       "onboard_time": 1715159180,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 250532,
-      "num": 250532,
-      "word": "CoCo口令",
-      "onboard_time": 1715308516,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 250386,
@@ -6921,6 +6937,14 @@
       "onboard_time": 1715084960,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243787,
+      "num": 243787,
+      "word": "李彦宏称优秀员工才代表真实的百度",
+      "onboard_time": 1715310258,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 243095,
@@ -7139,6 +7163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233683,
+      "num": 233683,
+      "word": "椰树回应被罚40万",
+      "onboard_time": 1715306898,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233648,
       "num": 233648,
       "word": "特斯拉回应金华事故",
@@ -7249,6 +7281,14 @@
       "onboard_time": 1714823419,
       "rank": 14,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 229759,
+      "num": 229759,
+      "word": "霉霉巴黎演唱会首演Fortnight",
+      "onboard_time": 1715310198,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 229546,
@@ -7587,19 +7627,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220444,
-      "num": 220444,
-      "word": "做博主7年为什么突然停更",
-      "onboard_time": 1715305518,
-      "rank": 30,
-      "category": "美妆,网红"
-    },
-    {
       "raw_hot": 220248,
       "num": 220248,
       "word": "官方回应宁夏交通事故致9死",
       "onboard_time": 1715228299,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219649,
+      "num": 219649,
+      "word": "宠物有望上高铁了",
+      "onboard_time": 1715309717,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -8203,6 +8243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206578,
+      "num": 206578,
+      "word": "董思成不参加威神V回归",
+      "onboard_time": 1715310318,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206555,
       "num": 206555,
       "word": "庆余年黑猫警长联动",
@@ -8355,6 +8403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204183,
+      "num": 204183,
+      "word": "NewJeans新专辑配置",
+      "onboard_time": 1715310918,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203999,
       "num": 203999,
       "word": "杨幂表演无实物吃饭",
@@ -8393,6 +8449,14 @@
       "onboard_time": 1714980258,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203401,
+      "num": 203401,
+      "word": "张韶涵巡演官宣",
+      "onboard_time": 1715310018,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 203317,
@@ -9411,6 +9475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189739,
+      "num": 189739,
+      "word": "WTT重庆抢票",
+      "onboard_time": 1715310258,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189487,
       "num": 189487,
       "word": "森林狼2比0掘金",
@@ -9441,14 +9513,6 @@
       "onboard_time": 1715177481,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188906,
-      "num": 227417,
-      "word": "椰树回应被罚40万",
-      "onboard_time": 1715306898,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188900,
@@ -12403,6 +12467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142086,
+      "num": 142086,
+      "word": "台湾花莲海域4.6级地震",
+      "onboard_time": 1715310858,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141836,
       "num": 141836,
       "word": "胖东来确认帮扶郑州一家超市",
@@ -12465,6 +12537,14 @@
       "onboard_time": 1715075359,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140370,
+      "num": 722015,
+      "word": "原来塞尔维亚女孩也抄歌词本",
+      "onboard_time": 1715305097,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140346,
@@ -12729,6 +12809,14 @@
       "onboard_time": 1715133262,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134884,
+      "num": 134884,
+      "word": "独行侠vs雷霆",
+      "onboard_time": 1715310739,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 134813,
@@ -13105,6 +13193,14 @@
       "onboard_time": 1715295615,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 127219,
+      "num": 148941,
+      "word": "肖战皓齿白东方大片",
+      "onboard_time": 1715310617,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127198,
@@ -13747,6 +13843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116404,
+      "num": 116404,
+      "word": "王菲给尹昉送了花篮",
+      "onboard_time": 1715310018,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115786,
       "num": 115786,
       "word": "魏大勋浮潜",
@@ -13865,14 +13969,6 @@
       "onboard_time": 1714821498,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 111595,
-      "num": 722015,
-      "word": "原来塞尔维亚女孩也抄歌词本",
-      "onboard_time": 1715305097,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111503,
@@ -15203,6 +15299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 35485,
+      "num": 283745,
+      "word": "奇瑞高管团诚意交付星纪元ET",
+      "onboard_time": 1715308516,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34426,
       "num": 34426,
       "word": "古天乐好帅",
@@ -15217,14 +15321,6 @@
       "onboard_time": 1715019132,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31392,
-      "num": 187130,
-      "word": "奇瑞高管团诚意交付星纪元ET",
-      "onboard_time": 1715308516,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 31105,
@@ -15590,6 +15686,9 @@
     },
     {
       "word": "#引领中匈关系不断迈向更高水平#"
+    },
+    {
+      "word": "#中匈提升为新时代全天候全面战略伙伴关系#"
     }
   ]
 }
