@@ -1,0 +1,410 @@
+{
+  "runTime": 1715308408986,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1196973,
+        "num": 1196973,
+        "word": "人事是怎么知道员工想离职的",
+        "onboard_time": 1715304138,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 889121,
+        "num": 889121,
+        "word": "生日羞耻症",
+        "onboard_time": 1715306178,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56894,
+        "num": 762572,
+        "word": "中匈乐器合奏茉莉花太绝了",
+        "onboard_time": 1715266399,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 720530,
+        "num": 720530,
+        "word": "人死后聊天记录会被怎样处理",
+        "onboard_time": 1715263821,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 692530,
+        "num": 692530,
+        "word": "伊利 莎头",
+        "onboard_time": 1715304737,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107208,
+        "num": 642276,
+        "word": "原来塞尔维亚女孩也抄歌词本",
+        "onboard_time": 1715305097,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625072,
+        "num": 625072,
+        "word": "肖战代言舒客",
+        "onboard_time": 1715307977,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484125,
+        "num": 484125,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401147,
+        "num": 401147,
+        "word": "张艺凡被夸漂亮的反应",
+        "onboard_time": 1715305698,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399108,
+        "num": 399108,
+        "word": "靠运动减肥多久才开始起效",
+        "onboard_time": 1715296756,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1489957,
+        "num": 385712,
+        "word": "李彦宏内部评璩静风波",
+        "onboard_time": 1715305997,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 1348678,
+        "num": 376423,
+        "word": "花少北 煎蛋",
+        "onboard_time": 1715299760,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 682950,
+        "num": 361175,
+        "word": "林更新要考博士",
+        "onboard_time": 1715299038,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476042,
+        "num": 345115,
+        "word": "百度离职副总裁4月成立新公司",
+        "onboard_time": 1715297655,
+        "rank": 13,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 105900,
+        "num": 329805,
+        "word": "淘宝又免单了",
+        "onboard_time": 1715306416,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 328401,
+        "num": 328401,
+        "word": "三亚出现椰子狸尾巴比身长",
+        "onboard_time": 1715298556,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304052,
+        "num": 304052,
+        "word": "刘耀文和侯雯元谈第二十条路演",
+        "onboard_time": 1715304257,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294960,
+        "num": 294960,
+        "word": "杭州取消限购有卖家跳涨三成",
+        "onboard_time": 1715300060,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 245904,
+        "num": 245904,
+        "word": "睡觉若有这5种不适或是疾病征兆",
+        "onboard_time": 1715300599,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229318,
+        "num": 229318,
+        "word": "尔滨三害判了嘎了毙了",
+        "onboard_time": 1715303599,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586730,
+        "num": 229165,
+        "word": "经常看书和不看书的区别",
+        "onboard_time": 1715302698,
+        "rank": 20,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 307606,
+        "num": 229080,
+        "word": "试打瘦肩针2美容店主一死一伤",
+        "onboard_time": 1715303778,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231348,
+        "num": 228409,
+        "word": "爸爸给我和妹妹买了两个虫",
+        "onboard_time": 1715302876,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225605,
+        "num": 225605,
+        "word": "彩礼过高部分农村男青年举债结婚",
+        "onboard_time": 1715304500,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214918,
+        "num": 214918,
+        "word": "WPS被指套娃式收费",
+        "onboard_time": 1715302219,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207408,
+        "num": 207408,
+        "word": "苹果下一任CEO浮出水面",
+        "onboard_time": 1715305638,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205672,
+        "num": 205672,
+        "word": "苹果就iPadPro宣传视频致歉",
+        "onboard_time": 1715301798,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200270,
+        "num": 200270,
+        "word": "参哥称璩静一定是被人黑了",
+        "onboard_time": 1715301499,
+        "rank": 27,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 197885,
+        "num": 197885,
+        "word": "53岁保洁妈妈没工伤险被拒绝上门",
+        "onboard_time": 1715308097,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195773,
+        "num": 195773,
+        "word": "做一只吗喽",
+        "onboard_time": 1715304677,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201265,
+        "num": 187829,
+        "word": "做博主7年为什么突然停更",
+        "onboard_time": 1715305518,
+        "rank": 30,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 172629,
+        "num": 172629,
+        "word": "椰树回应被罚40万",
+        "onboard_time": 1715306898,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163692,
+        "num": 163692,
+        "word": "百度副总裁璩静已离职",
+        "onboard_time": 1715257099,
+        "rank": 32,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 147264,
+        "num": 147264,
+        "word": "以前的跑男和现在的跑男",
+        "onboard_time": 1715281511,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146871,
+        "num": 146871,
+        "word": "iPadPro广告惹众怒遭撤档",
+        "onboard_time": 1715303778,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65667,
+        "num": 146614,
+        "word": "谢谢淘宝",
+        "onboard_time": 1715308038,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146435,
+        "num": 146435,
+        "word": "张颂文每年生日都有工作",
+        "onboard_time": 1715303838,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141731,
+        "num": 141731,
+        "word": "丫丫吃笋嘎嘎脆",
+        "onboard_time": 1715305997,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140664,
+        "num": 140664,
+        "word": "迄今为止最恐怖的太空照片之一",
+        "onboard_time": 1715262200,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 137242,
+        "num": 137242,
+        "word": "种地吧直播",
+        "onboard_time": 1715306238,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134142,
+        "num": 134142,
+        "word": "骑士24分大胜凯尔特人",
+        "onboard_time": 1715306778,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129771,
+        "num": 129771,
+        "word": "睡不够也可能变胖",
+        "onboard_time": 1715307856,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121365,
+        "num": 121365,
+        "word": "SEVENTEEN新歌MV",
+        "onboard_time": 1715305277,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114270,
+        "num": 114270,
+        "word": "南充16岁高中女生已失联5天",
+        "onboard_time": 1715273536,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111876,
+        "num": 111876,
+        "word": "一个动作改善脖子前倾",
+        "onboard_time": 1715307437,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 107015,
+        "num": 107015,
+        "word": "贵州吃酸是以酸代盐",
+        "onboard_time": 1715303179,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106735,
+        "num": 106735,
+        "word": "璩静",
+        "onboard_time": 1715271017,
+        "rank": 46,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 97403,
+        "num": 97403,
+        "word": "王一博车被拖走了",
+        "onboard_time": 1715262560,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95676,
+        "num": 95676,
+        "word": "让人快速变老变丑的5个坏习惯",
+        "onboard_time": 1715307317,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94204,
+        "num": 94204,
+        "word": "王楚钦孙颖莎冠军",
+        "onboard_time": 1715272036,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#引领中匈关系不断迈向更高水平#"
+    }
+  }
+}
