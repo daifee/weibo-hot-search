@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715339774479,
+  "endTime": 1715340858556,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1955,6 +1955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 963437,
+      "num": 963437,
+      "word": "苹果税",
+      "onboard_time": 1715335040,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 961530,
       "num": 427872,
       "word": "秦海璐 番茄小说代言人",
@@ -1985,14 +1993,6 @@
       "onboard_time": 1715136261,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 954686,
-      "num": 954686,
-      "word": "苹果税",
-      "onboard_time": 1715335040,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 952870,
@@ -2889,6 +2889,14 @@
       "onboard_time": 1714879938,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 781088,
+      "num": 227837,
+      "word": "丈夫婚检查出乙肝妻子要离婚",
+      "onboard_time": 1715338639,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781012,
@@ -4012,7 +4020,7 @@
     },
     {
       "raw_hot": 643424,
-      "num": 385135,
+      "num": 422000,
       "word": "美国女子凌晨遭勒脖拖走强奸",
       "onboard_time": 1715334800,
       "rank": 13,
@@ -4281,6 +4289,14 @@
       "onboard_time": 1715043260,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 617992,
+      "num": 290387,
+      "word": "易梦玲 头包脸",
+      "onboard_time": 1715338698,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 617210,
@@ -6019,6 +6035,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 470167,
+      "num": 274942,
+      "word": "赵丽颖孙千合拍跳舞",
+      "onboard_time": 1715340077,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 469733,
       "num": 469733,
       "word": "林更新不敢和张雨绮十指紧扣",
@@ -6033,14 +6057,6 @@
       "onboard_time": 1715235496,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 468828,
-      "num": 186073,
-      "word": "丈夫婚检查出乙肝妻子要离婚",
-      "onboard_time": 1715338639,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 468729,
@@ -6065,6 +6081,14 @@
       "onboard_time": 1714828100,
       "rank": 17,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 466914,
+      "num": 466914,
+      "word": "歌手2024殿堂级舞美",
+      "onboard_time": 1715338398,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 466630,
@@ -6939,6 +6963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 420805,
+      "num": 420805,
+      "word": "不要笑 不然你会有很多男朋友的",
+      "onboard_time": 1715335700,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420143,
       "num": 420143,
       "word": "Jennie和StrayKids合照",
@@ -7329,14 +7361,6 @@
       "onboard_time": 1714723038,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 402982,
-      "num": 290387,
-      "word": "易梦玲 头包脸",
-      "onboard_time": 1715338698,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 402880,
@@ -8715,14 +8739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342929,
-      "num": 342929,
-      "word": "不要笑 不然你会有很多男朋友的",
-      "onboard_time": 1715335700,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 342026,
       "num": 342026,
       "word": "沈星回 我的光猎大人",
@@ -9129,14 +9145,6 @@
       "onboard_time": 1715237959,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 325061,
-      "num": 325061,
-      "word": "歌手2024殿堂级舞美",
-      "onboard_time": 1715338398,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 324998,
@@ -11012,7 +11020,7 @@
     },
     {
       "raw_hot": 263067,
-      "num": 185973,
+      "num": 223790,
       "word": "王一博小时候骑的是真老虎",
       "onboard_time": 1715337139,
       "rank": 38,
@@ -11025,6 +11033,14 @@
       "onboard_time": 1714716739,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262938,
+      "num": 262938,
+      "word": "朱芳雨确认周琦缺席",
+      "onboard_time": 1715340259,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 262895,
@@ -11312,6 +11328,14 @@
       "word": "男孩因偷东西被绑在电线杆上抽打",
       "onboard_time": 1715323697,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255256,
+      "num": 255256,
+      "word": "交警回应南通车祸现场红绿灯情况",
+      "onboard_time": 1715339239,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -12561,6 +12585,14 @@
       "onboard_time": 1714478477,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227323,
+      "num": 227323,
+      "word": "许嵩巡演官宣3城",
+      "onboard_time": 1715338698,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 227295,
@@ -14560,14 +14592,6 @@
       "word": "刘雨昕 贵阳",
       "onboard_time": 1714659859,
       "rank": 35,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 201343,
-      "num": 185781,
-      "word": "许嵩巡演官宣3城",
-      "onboard_time": 1715338698,
-      "rank": 23,
       "category": "演出"
     },
     {
@@ -17379,6 +17403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177223,
+      "num": 177223,
+      "word": "鞠婧祎雏菊随拍",
+      "onboard_time": 1715339900,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177133,
       "num": 177133,
       "word": "肖战地广打卡",
@@ -17945,6 +17977,14 @@
       "onboard_time": 1714888397,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172773,
+      "num": 172773,
+      "word": "西安地铁神秘黑衣男子身份查明",
+      "onboard_time": 1715340259,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172569,
@@ -21347,14 +21387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142977,
-      "num": 154218,
-      "word": "交警回应南通车祸现场红绿灯情况",
-      "onboard_time": 1715339239,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142899,
       "num": 142899,
       "word": "刘涛摸秦岚的背",
@@ -23051,6 +23083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127224,
+      "num": 127224,
+      "word": "鬼灭之刃第四季只有5集",
+      "onboard_time": 1715338040,
+      "rank": 38,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 127198,
       "num": 127198,
       "word": "和ChatGPT谈恋爱是什么体验",
@@ -23995,14 +24035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118635,
-      "num": 118635,
-      "word": "鬼灭之刃第四季只有5集",
-      "onboard_time": 1715338040,
-      "rank": 38,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 118616,
       "num": 118616,
       "word": "瑞幸 制冰机",
@@ -24057,6 +24089,14 @@
       "onboard_time": 1715320039,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118204,
+      "num": 118204,
+      "word": "久哲cos东方曜",
+      "onboard_time": 1715340618,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 118168,
@@ -24249,6 +24289,14 @@
       "onboard_time": 1714530738,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116267,
+      "num": 116267,
+      "word": "Faker反向闪",
+      "onboard_time": 1715340439,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 116034,
@@ -24883,6 +24931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109339,
+      "num": 109339,
+      "word": "陈梦王曼昱女双决赛",
+      "onboard_time": 1715340798,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109149,
       "num": 109149,
       "word": "孙颖莎穿白色帽衫参加晚宴",
@@ -25241,6 +25297,14 @@
       "onboard_time": 1715258778,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103566,
+      "num": 103566,
+      "word": "杨幂谈未来角色规划",
+      "onboard_time": 1715339958,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 103511,
@@ -26564,7 +26628,7 @@
     },
     {
       "raw_hot": 65383,
-      "num": 361529,
+      "num": 422218,
       "word": "欧洲姑娘用凤凰传奇歌词学中文",
       "onboard_time": 1715333058,
       "rank": 9,
