@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715336387473,
+  "endTime": 1715337386035,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -251,6 +251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1738553,
+      "num": 294662,
+      "word": "花少北 就不耽误你的第八年了",
+      "onboard_time": 1715335220,
+      "rank": 10,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1713738,
       "num": 1510928,
       "word": "周鸿祎直播发飙",
@@ -273,14 +281,6 @@
       "onboard_time": 1715174181,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1665668,
-      "num": 294662,
-      "word": "花少北 就不耽误你的第八年了",
-      "onboard_time": 1715335220,
-      "rank": 10,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1658499,
@@ -2283,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 683046,
+      "num": 683046,
+      "word": "时尚芭莎年度派对",
+      "onboard_time": 1715334319,
+      "rank": 3,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 680428,
       "num": 680428,
       "word": "王艺迪vs伊藤美诚",
@@ -2939,6 +2947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 572623,
+      "num": 572623,
+      "word": "苹果税",
+      "onboard_time": 1715335040,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 570996,
       "num": 570996,
       "word": "上海医院治愈一25年糖尿病病史患者",
@@ -2961,14 +2977,6 @@
       "onboard_time": 1714877778,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 569719,
-      "num": 569719,
-      "word": "时尚芭莎年度派对",
-      "onboard_time": 1715334319,
-      "rank": 3,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 567647,
@@ -4091,14 +4099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 442494,
-      "num": 442494,
-      "word": "苹果税",
-      "onboard_time": 1715335040,
-      "rank": 4,
-      "category": "数码"
-    },
-    {
       "raw_hot": 442487,
       "num": 431240,
       "word": "37岁养羊男子娶19岁越南新娘",
@@ -4201,6 +4201,14 @@
       "onboard_time": 1715235378,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 433494,
+      "num": 271004,
+      "word": "美国女子凌晨遭勒脖拖走强奸",
+      "onboard_time": 1715334800,
+      "rank": 13,
+      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 432978,
@@ -5603,6 +5611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332609,
+      "num": 237544,
+      "word": "林允 把玫瑰穿身上",
+      "onboard_time": 1715336781,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332539,
       "num": 332539,
       "word": "广东暴雨249名中山消防员共营救462人",
@@ -6659,6 +6675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275414,
+      "num": 275414,
+      "word": "汪海林给杨幂演技打分",
+      "onboard_time": 1715335700,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274643,
       "num": 274643,
       "word": "范丞丞 绝味鸭脖",
@@ -6777,14 +6801,6 @@
       "onboard_time": 1714882520,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271004,
-      "num": 271004,
-      "word": "美国女子凌晨遭勒脖拖走强奸",
-      "onboard_time": 1715334800,
-      "rank": 13,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 270870,
@@ -8875,14 +8891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206469,
-      "num": 206469,
-      "word": "汪海林给杨幂演技打分",
-      "onboard_time": 1715335700,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206452,
       "num": 206452,
       "word": "我的阿勒泰",
@@ -9619,6 +9627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196006,
+      "num": 196006,
+      "word": "不要笑 不然你会有很多男朋友的",
+      "onboard_time": 1715335700,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195817,
       "num": 195817,
       "word": "镜头下的笑容",
@@ -9721,6 +9737,14 @@
       "onboard_time": 1714875859,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194375,
+      "num": 194375,
+      "word": "庞博主持",
+      "onboard_time": 1715336298,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 194359,
@@ -9849,6 +9873,14 @@
       "onboard_time": 1715155280,
       "rank": 32,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 193443,
+      "num": 193443,
+      "word": "奔跑吧今晚又双提更",
+      "onboard_time": 1715336359,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 193434,
@@ -10129,14 +10161,6 @@
       "onboard_time": 1715069000,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189997,
-      "num": 189997,
-      "word": "奔跑吧今晚又双提更",
-      "onboard_time": 1715336359,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 189739,
@@ -10785,6 +10809,14 @@
       "onboard_time": 1715140643,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180223,
+      "num": 180223,
+      "word": "王源 指纹锁",
+      "onboard_time": 1715335939,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 180201,
@@ -12187,14 +12219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158862,
-      "num": 158862,
-      "word": "王源 指纹锁",
-      "onboard_time": 1715335939,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 158775,
       "num": 158775,
       "word": "今年五一档票房破15亿",
@@ -13185,14 +13209,6 @@
       "onboard_time": 1715143464,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143824,
-      "num": 143824,
-      "word": "不要笑 不然你会有很多男朋友的",
-      "onboard_time": 1715335700,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 143820,
@@ -14691,6 +14707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119343,
+      "num": 119343,
+      "word": "王一博小时候骑的是真老虎",
+      "onboard_time": 1715337139,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119336,
       "num": 119336,
       "word": "老阳回归狼队",
@@ -15251,14 +15275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103160,
-      "num": 103160,
-      "word": "庞博主持",
-      "onboard_time": 1715336298,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102723,
       "num": 126079,
       "word": "陈哲远娜扎cp感",
@@ -15465,6 +15481,14 @@
       "onboard_time": 1714997600,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 94824,
+      "num": 99768,
+      "word": "Caps单杀Faker",
+      "onboard_time": 1715337139,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 94766,
@@ -15937,6 +15961,14 @@
       "onboard_time": 1715140040,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70759,
+      "num": 148205,
+      "word": "三招挑个报恩榴莲",
+      "onboard_time": 1715335579,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 70640,
