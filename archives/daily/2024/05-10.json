@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715351654603,
+  "endTime": 1715354330883,
   "band_list": [
     {
       "raw_hot": 4276914,
@@ -16,6 +16,14 @@
       "word": "歌手直播",
       "onboard_time": 1715341399,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2530749,
+      "num": 891152,
+      "word": "断眉 踢馆",
+      "onboard_time": 1715351061,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -107,6 +115,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1527040,
+      "num": 585051,
+      "word": "歌手2024排名",
+      "onboard_time": 1715351661,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1489957,
       "num": 514231,
       "word": "李彦宏内部评璩静风波",
@@ -136,6 +152,22 @@
       "word": "歌手",
       "onboard_time": 1715332397,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1357359,
+      "num": 527761,
+      "word": "难听",
+      "onboard_time": 1715351422,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1333304,
+      "num": 510395,
+      "word": "歌手补位",
+      "onboard_time": 1715351661,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -275,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 891152,
-      "num": 891152,
-      "word": "断眉 踢馆",
-      "onboard_time": 1715351061,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 886805,
       "num": 886805,
       "word": "那些长期不上班的人最后都怎么样了",
@@ -307,12 +331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 846905,
+      "num": 423614,
+      "word": "王俊凯红V掉了",
+      "onboard_time": 1715351360,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 846005,
       "num": 785945,
       "word": "文淇 荷兰血统",
       "onboard_time": 1715342958,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 839679,
+      "num": 485832,
+      "word": "迪丽热巴手机打码的原因",
+      "onboard_time": 1715351902,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 828020,
@@ -433,6 +473,14 @@
       "onboard_time": 1715334800,
       "rank": 13,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 640878,
+      "num": 640878,
+      "word": "陈梦半决赛对阵早田希娜",
+      "onboard_time": 1715351542,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 638722,
@@ -675,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461023,
+      "num": 461023,
+      "word": "张真源是郑恺苗苗的爱情保安",
+      "onboard_time": 1715351061,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460750,
       "num": 460750,
       "word": "张真源谈与TFBOYS的关系",
@@ -731,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 435064,
+      "num": 435064,
+      "word": "网红参哥称璩静交了5980元上了三天课",
+      "onboard_time": 1715351721,
+      "rank": 16,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 431072,
       "num": 431072,
       "word": "CoCo口令",
@@ -744,14 +808,6 @@
       "word": "时代峰峻",
       "onboard_time": 1715267119,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 423614,
-      "num": 423614,
-      "word": "王俊凯红V掉了",
-      "onboard_time": 1715351360,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -891,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 369504,
+      "num": 1941613,
+      "word": "中法将联合修复巴黎圣母院",
+      "onboard_time": 1715348841,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366229,
       "num": 362088,
       "word": "赵露思名媛千金风",
@@ -905,14 +969,6 @@
       "onboard_time": 1715252538,
       "rank": 26,
       "category": "科学科普,科学科普"
-    },
-    {
-      "raw_hot": 356253,
-      "num": 1941613,
-      "word": "中法将联合修复巴黎圣母院",
-      "onboard_time": 1715348841,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352644,
@@ -939,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336062,
+      "num": 336062,
+      "word": "长期睡前玩手机的5大危害",
+      "onboard_time": 1715352321,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 335232,
       "num": 335232,
       "word": "青花瓷绝了",
@@ -947,12 +1011,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330994,
+      "num": 330994,
+      "word": "迪丽热巴 联想",
+      "onboard_time": 1715353645,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320320,
       "num": 320320,
       "word": "优酷给足了成毅排面",
       "onboard_time": 1715312537,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319330,
+      "num": 319330,
+      "word": "腰痛也可能是癌症信号",
+      "onboard_time": 1715351842,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 311562,
@@ -1019,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298397,
-      "num": 298397,
-      "word": "张真源是郑恺苗苗的爱情保安",
-      "onboard_time": 1715351061,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294855,
       "num": 223524,
       "word": "金高银百想影后30秒内全票通过",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1715262980,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293518,
+      "num": 202674,
+      "word": "黄宣踢馆",
+      "onboard_time": 1715353583,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 293313,
@@ -1059,12 +1139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289676,
-      "num": 289676,
-      "word": "难听",
-      "onboard_time": 1715351422,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 289883,
+      "num": 289883,
+      "word": "卵子比她本人会选伴侣",
+      "onboard_time": 1715352202,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 289488,
@@ -1145,6 +1225,22 @@
       "onboard_time": 1715331137,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277806,
+      "num": 277806,
+      "word": "英子大战",
+      "onboard_time": 1715354060,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 277072,
+      "num": 567085,
+      "word": "WTT女单半决赛",
+      "onboard_time": 1715352562,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 276676,
@@ -1371,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249928,
+      "num": 420238,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1715353942,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246886,
       "num": 246886,
       "word": "椰树回应被罚40万",
@@ -1481,6 +1585,14 @@
       "onboard_time": 1715302876,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231006,
+      "num": 231006,
+      "word": "汪苏泷排名",
+      "onboard_time": 1715353645,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 230737,
@@ -1643,6 +1755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212530,
+      "num": 212530,
+      "word": "韩红易烊千玺同框",
+      "onboard_time": 1715353222,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212114,
       "num": 212114,
       "word": "孟子义减肥边吃薯片边扇自己脸",
@@ -1803,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194228,
+      "num": 280643,
+      "word": "AG晋级春季赛决赛",
+      "onboard_time": 1715352681,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194208,
       "num": 194208,
       "word": "龙姨穿保守了",
@@ -1899,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189290,
+      "num": 189290,
+      "word": "何炅嘻嘻胡海泉不嘻嘻",
+      "onboard_time": 1715354182,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187395,
       "num": 187395,
       "word": "严浩翔海泳60米",
@@ -1961,6 +2097,14 @@
       "onboard_time": 1715326520,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 182213,
+      "num": 182213,
+      "word": "马琳",
+      "onboard_time": 1715354060,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 181928,
@@ -2531,14 +2675,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 133025,
-      "num": 229827,
-      "word": "陈梦半决赛对阵早田希娜",
-      "onboard_time": 1715351542,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133006,
       "num": 133006,
       "word": "张艺兴戏腔",
@@ -2625,6 +2761,14 @@
       "onboard_time": 1715338040,
       "rank": 38,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 127013,
+      "num": 151719,
+      "word": "陈梦王曼昱实力太厚了",
+      "onboard_time": 1715352381,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 126219,
@@ -2811,6 +2955,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 114287,
+      "num": 244695,
+      "word": "极氪赴美IPO",
+      "onboard_time": 1715350282,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 113521,
       "num": 113521,
       "word": "大帅极限守家",
@@ -2961,14 +3113,6 @@
       "onboard_time": 1715307317,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 95526,
-      "num": 244695,
-      "word": "极氪赴美IPO",
-      "onboard_time": 1715350282,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 94094,
@@ -3195,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54948,
+      "num": 301516,
+      "word": "戚薇这次摸到真的方向盘了",
+      "onboard_time": 1715350460,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54226,
       "num": 59244,
       "word": "璩静修改账号简介",
@@ -3315,15 +3467,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29002,
-      "num": 289951,
-      "word": "戚薇这次摸到真的方向盘了",
-      "onboard_time": 1715350460,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24903,
+      "raw_hot": 25694,
       "num": 2265279,
       "word": "匈塞铁路见证共建一带一路蓬勃活力",
       "onboard_time": 1715349081,

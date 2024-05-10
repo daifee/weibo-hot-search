@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715351654603,
+  "endTime": 1715354330883,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -97,6 +97,14 @@
       "onboard_time": 1715159720,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2530749,
+      "num": 891152,
+      "word": "断眉 踢馆",
+      "onboard_time": 1715351061,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2363598,
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1527040,
+      "num": 585051,
+      "word": "歌手2024排名",
+      "onboard_time": 1715351661,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1523007,
       "num": 336232,
       "word": "长期喝白开水和长期喝茶的人身体有什么变化",
@@ -627,6 +643,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1357359,
+      "num": 527761,
+      "word": "难听",
+      "onboard_time": 1715351422,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1356293,
       "num": 308734,
       "word": "百度副总裁璩静已离职",
@@ -665,6 +689,14 @@
       "onboard_time": 1715262200,
       "rank": 11,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1333304,
+      "num": 510395,
+      "word": "歌手补位",
+      "onboard_time": 1715351661,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1331423,
@@ -1459,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 891152,
-      "num": 891152,
-      "word": "断眉 踢馆",
-      "onboard_time": 1715351061,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 889938,
       "num": 372477,
       "word": "存款十几万在小县城什么水平",
@@ -1651,6 +1675,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 846905,
+      "num": 423614,
+      "word": "王俊凯红V掉了",
+      "onboard_time": 1715351360,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 846005,
       "num": 785945,
       "word": "文淇 荷兰血统",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1715255178,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 839679,
+      "num": 485832,
+      "word": "迪丽热巴手机打码的原因",
+      "onboard_time": 1715351902,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 833538,
@@ -2697,6 +2737,14 @@
       "onboard_time": 1715160321,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640878,
+      "num": 640878,
+      "word": "陈梦半决赛对阵早田希娜",
+      "onboard_time": 1715351542,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 638779,
@@ -4099,6 +4147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461023,
+      "num": 461023,
+      "word": "张真源是郑恺苗苗的爱情保安",
+      "onboard_time": 1715351061,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460978,
       "num": 460978,
       "word": "丁程鑫出发新加坡录花少",
@@ -4419,6 +4475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 435064,
+      "num": 435064,
+      "word": "网红参哥称璩静交了5980元上了三天课",
+      "onboard_time": 1715351721,
+      "rank": 16,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 434755,
       "num": 434755,
       "word": "林俊杰南昌开票",
@@ -4553,14 +4617,6 @@
       "onboard_time": 1714838898,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423614,
-      "num": 423614,
-      "word": "王俊凯红V掉了",
-      "onboard_time": 1715351360,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 423568,
@@ -5283,6 +5339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 369504,
+      "num": 1941613,
+      "word": "中法将联合修复巴黎圣母院",
+      "onboard_time": 1715348841,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367848,
       "num": 295151,
       "word": "王耀庆连续煎了21天鸡蛋",
@@ -5528,14 +5592,6 @@
       "word": "男子打球被球友看出面相不对救了一命",
       "onboard_time": 1715020752,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356253,
-      "num": 1941613,
-      "word": "中法将联合修复巴黎圣母院",
-      "onboard_time": 1715348841,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -5819,6 +5875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336062,
+      "num": 336062,
+      "word": "长期睡前玩手机的5大危害",
+      "onboard_time": 1715352321,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 335967,
       "num": 335967,
       "word": "焦俊艳我病了我装的",
@@ -5945,6 +6009,14 @@
       "onboard_time": 1715212398,
       "rank": 17,
       "category": "美食,动漫"
+    },
+    {
+      "raw_hot": 330994,
+      "num": 330994,
+      "word": "迪丽热巴 联想",
+      "onboard_time": 1715353645,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 330327,
@@ -6113,6 +6185,14 @@
       "onboard_time": 1715176521,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319330,
+      "num": 319330,
+      "word": "腰痛也可能是癌症信号",
+      "onboard_time": 1715351842,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 317703,
@@ -6499,14 +6579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298397,
-      "num": 298397,
-      "word": "张真源是郑恺苗苗的爱情保安",
-      "onboard_time": 1715351061,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 298121,
       "num": 298121,
       "word": "任天堂新机",
@@ -6611,6 +6683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293518,
+      "num": 202674,
+      "word": "黄宣踢馆",
+      "onboard_time": 1715353583,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293313,
       "num": 214815,
       "word": "海来阿木的受众",
@@ -6659,12 +6739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289676,
-      "num": 289676,
-      "word": "难听",
-      "onboard_time": 1715351422,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 289883,
+      "num": 289883,
+      "word": "卵子比她本人会选伴侣",
+      "onboard_time": 1715352202,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 289655,
@@ -7019,6 +7099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277806,
+      "num": 277806,
+      "word": "英子大战",
+      "onboard_time": 1715354060,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277180,
       "num": 277180,
       "word": "一夫妻驾驶特斯拉冲下山路不幸身亡",
@@ -7032,6 +7120,14 @@
       "word": "CBA裁判",
       "onboard_time": 1715173280,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 277072,
+      "num": 567085,
+      "word": "WTT女单半决赛",
+      "onboard_time": 1715352562,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -7707,6 +7803,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 249928,
+      "num": 420238,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1715353942,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249473,
       "num": 249473,
       "word": "张杰官宣重庆武汉巡演",
@@ -8249,6 +8353,14 @@
       "onboard_time": 1715302876,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231006,
+      "num": 231006,
+      "word": "汪苏泷排名",
+      "onboard_time": 1715353645,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 230737,
@@ -9089,6 +9201,14 @@
       "onboard_time": 1714991238,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 212530,
+      "num": 212530,
+      "word": "韩红易烊千玺同框",
+      "onboard_time": 1715353222,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212126,
@@ -10355,6 +10475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194228,
+      "num": 280643,
+      "word": "AG晋级春季赛决赛",
+      "onboard_time": 1715352681,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194218,
       "num": 194218,
       "word": "因为没有秒回信息被开除了",
@@ -10801,6 +10929,14 @@
       "onboard_time": 1715077699,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189290,
+      "num": 189290,
+      "word": "何炅嘻嘻胡海泉不嘻嘻",
+      "onboard_time": 1715354182,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 189255,
@@ -14651,14 +14787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 133025,
-      "num": 229827,
-      "word": "陈梦半决赛对阵早田希娜",
-      "onboard_time": 1715351542,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133006,
       "num": 133006,
       "word": "张艺兴戏腔",
@@ -14961,6 +15089,14 @@
       "onboard_time": 1715089819,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127013,
+      "num": 151719,
+      "word": "陈梦王曼昱实力太厚了",
+      "onboard_time": 1715352381,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 126932,
@@ -15747,6 +15883,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 114287,
+      "num": 244695,
+      "word": "极氪赴美IPO",
+      "onboard_time": 1715350282,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 113845,
       "num": 113845,
       "word": "向佐终于被认可了",
@@ -16265,14 +16409,6 @@
       "onboard_time": 1715307317,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 95526,
-      "num": 244695,
-      "word": "极氪赴美IPO",
-      "onboard_time": 1715350282,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 95016,
@@ -17019,6 +17155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54948,
+      "num": 301516,
+      "word": "戚薇这次摸到真的方向盘了",
+      "onboard_time": 1715350460,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54226,
       "num": 59244,
       "word": "璩静修改账号简介",
@@ -17395,14 +17539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29002,
-      "num": 289951,
-      "word": "戚薇这次摸到真的方向盘了",
-      "onboard_time": 1715350460,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 28957,
       "num": 28957,
       "word": "四川的猫咪自带松弛感",
@@ -17435,7 +17571,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24903,
+      "raw_hot": 25694,
       "num": 2265279,
       "word": "匈塞铁路见证共建一带一路蓬勃活力",
       "onboard_time": 1715349081,
