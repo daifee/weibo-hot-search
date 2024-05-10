@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715348058095,
+  "endTime": 1715350601261,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1995203,
+      "num": 1571027,
+      "word": "那英 我有时候真的不识好歹",
+      "onboard_time": 1715344999,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1978007,
       "num": 501801,
       "word": "杨丞琳选歌",
@@ -235,20 +243,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1899163,
+      "num": 352184,
+      "word": "二手玫瑰 喊麦",
+      "onboard_time": 1715348180,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1896808,
       "num": 1896808,
       "word": "假球",
       "onboard_time": 1715175681,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1867676,
-      "num": 1571027,
-      "word": "那英 我有时候真的不识好歹",
-      "onboard_time": 1715344999,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1867017,
@@ -712,6 +720,14 @@
       "word": "汪苏泷回应凭什么参加歌手",
       "onboard_time": 1715242521,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1276825,
+      "num": 289036,
+      "word": "歌手心目排名",
+      "onboard_time": 1715349740,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -3059,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 579338,
+      "num": 269086,
+      "word": "那英cue马嘉祺上歌手",
+      "onboard_time": 1715350041,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579071,
       "num": 579071,
       "word": "杨蓉暂别大侦探",
@@ -3153,6 +3177,14 @@
       "onboard_time": 1714889477,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 562586,
+      "num": 562586,
+      "word": "马龙说现在是王楚钦带着我",
+      "onboard_time": 1715346439,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 562003,
@@ -3571,6 +3603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 510265,
+      "num": 501262,
+      "word": "王力宏公司901万存款解冻",
+      "onboard_time": 1715346740,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509807,
       "num": 509807,
       "word": "宝宝 你是一头情绪稳定的小懒猪",
@@ -3619,14 +3659,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 506582,
-      "num": 506582,
-      "word": "马龙说现在是王楚钦带着我",
-      "onboard_time": 1715346439,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 505672,
       "num": 230243,
       "word": "喜茶免单",
@@ -3673,14 +3705,6 @@
       "onboard_time": 1715128099,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 501262,
-      "num": 501262,
-      "word": "王力宏公司901万存款解冻",
-      "onboard_time": 1715346740,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 500194,
@@ -4915,6 +4939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390687,
+      "num": 1782903,
+      "word": "Faker的状态",
+      "onboard_time": 1715346439,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 390577,
       "num": 731963,
       "word": "寄电脑被烧毁保价4万德邦只赔1千",
@@ -5739,6 +5771,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 337712,
+      "num": 241491,
+      "word": "谁家好人上完厕所上派出所",
+      "onboard_time": 1715348841,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337410,
       "num": 337410,
       "word": "辽宁男篮vs广东男篮",
@@ -6459,6 +6499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297358,
+      "num": 297358,
+      "word": "中法将联合修复巴黎圣母院",
+      "onboard_time": 1715348841,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297274,
       "num": 297274,
       "word": "肖战藏海传扶人下马车路透",
@@ -6643,6 +6691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285632,
+      "num": 231720,
+      "word": "易烊千玺芭莎台下镜头",
+      "onboard_time": 1715348420,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284906,
       "num": 284906,
       "word": "庆余年范闲一家",
@@ -6785,14 +6841,6 @@
       "onboard_time": 1715063659,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281380,
-      "num": 1782903,
-      "word": "Faker的状态",
-      "onboard_time": 1715346439,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 281342,
@@ -6995,6 +7043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273004,
+      "num": 273004,
+      "word": "T1战胜G2",
+      "onboard_time": 1715349680,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 272925,
       "num": 238411,
       "word": "全家的关系比乱葬岗还乱",
@@ -7115,6 +7171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 269211,
+      "num": 501828,
+      "word": "辽粤大战争议判罚",
+      "onboard_time": 1715345719,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269047,
       "num": 269047,
       "word": "经常吃腰子的人身体会有什么变化",
@@ -7153,6 +7217,14 @@
       "onboard_time": 1715133799,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267926,
+      "num": 267926,
+      "word": "绝境李相赫",
+      "onboard_time": 1715349201,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 267505,
@@ -7491,14 +7563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254047,
-      "num": 501828,
-      "word": "辽粤大战争议判罚",
-      "onboard_time": 1715345719,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254045,
       "num": 254045,
       "word": "十个勤天吃饭都要整整齐齐",
@@ -7569,6 +7633,14 @@
       "onboard_time": 1715241799,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251117,
+      "num": 207139,
+      "word": "Chante Moore全体起立",
+      "onboard_time": 1715349980,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 250891,
@@ -8203,6 +8275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229390,
+      "num": 208159,
+      "word": "易烊千玺工作室出图了",
+      "onboard_time": 1715350282,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229147,
       "num": 229147,
       "word": "百度公关要求团队成员都下场做自媒体",
@@ -8409,6 +8489,14 @@
       "onboard_time": 1715042120,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 224363,
+      "num": 224363,
+      "word": "敖瑞鹏保护白鹿",
+      "onboard_time": 1715348780,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 224056,
@@ -9819,6 +9907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198337,
+      "num": 198337,
+      "word": "猩球崛起",
+      "onboard_time": 1715349922,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198316,
       "num": 198316,
       "word": "历届歌手未曝光珍藏照",
@@ -10059,6 +10155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195719,
+      "num": 195719,
+      "word": "歌手没有洪涛",
+      "onboard_time": 1715350460,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195590,
       "num": 195590,
       "word": "林家川马嘉祺姜珮瑶合照",
@@ -10233,6 +10337,14 @@
       "onboard_time": 1714968983,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193627,
+      "num": 193627,
+      "word": "易烊千玺年度ICON",
+      "onboard_time": 1715349740,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193594,
@@ -12603,6 +12715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160549,
+      "num": 195829,
+      "word": "AG对战狼队",
+      "onboard_time": 1715342058,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160187,
       "num": 160187,
       "word": "职场软刀子真捅心窝子",
@@ -13041,6 +13161,14 @@
       "onboard_time": 1715239218,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153599,
+      "num": 184324,
+      "word": "杭州妈妈送女儿神级转场礼物",
+      "onboard_time": 1715348960,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153510,
@@ -13492,7 +13620,7 @@
     },
     {
       "raw_hot": 147118,
-      "num": 147118,
+      "num": 183689,
       "word": "考官已经拼尽全力了",
       "onboard_time": 1715344521,
       "rank": 44,
@@ -13801,14 +13929,6 @@
       "onboard_time": 1715060240,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142873,
-      "num": 142873,
-      "word": "AG对战狼队",
-      "onboard_time": 1715342058,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 142764,
@@ -14393,6 +14513,14 @@
       "onboard_time": 1715318359,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 133496,
+      "num": 183721,
+      "word": "极氪美国存托股票初步发售价定为21美元",
+      "onboard_time": 1715350400,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 133488,
@@ -16291,6 +16419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82677,
+      "num": 195721,
+      "word": "极氪赴美IPO",
+      "onboard_time": 1715350282,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 82221,
       "num": 82221,
       "word": "姆巴佩赛后采访",
@@ -17131,6 +17267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31849,
+      "num": 245473,
+      "word": "海狮07EV电机卷到23000转",
+      "onboard_time": 1715349922,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 31105,
       "num": 40906,
       "word": "和动画简直一模一样",
@@ -17201,6 +17345,22 @@
       "onboard_time": 1714930873,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24262,
+      "num": 183698,
+      "word": "戚薇这次摸到真的方向盘了",
+      "onboard_time": 1715350460,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23340,
+      "num": 424718,
+      "word": "匈塞铁路见证共建一带一路蓬勃活力",
+      "onboard_time": 1715349081,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22967,

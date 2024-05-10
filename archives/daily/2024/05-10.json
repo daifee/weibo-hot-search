@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715348058095,
+  "endTime": 1715350601261,
   "band_list": [
     {
       "raw_hot": 4276914,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1995203,
+      "num": 1571027,
+      "word": "那英 我有时候真的不识好歹",
+      "onboard_time": 1715344999,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1978007,
       "num": 501801,
       "word": "杨丞琳选歌",
@@ -67,11 +75,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1867676,
-      "num": 1571027,
-      "word": "那英 我有时候真的不识好歹",
-      "onboard_time": 1715344999,
-      "rank": 31,
+      "raw_hot": 1899163,
+      "num": 352184,
+      "word": "二手玫瑰 喊麦",
+      "onboard_time": 1715348180,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -129,6 +137,14 @@
       "onboard_time": 1715263821,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1276825,
+      "num": 289036,
+      "word": "歌手心目排名",
+      "onboard_time": 1715349740,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1255472,
@@ -499,12 +515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 579338,
+      "num": 269086,
+      "word": "那英cue马嘉祺上歌手",
+      "onboard_time": 1715350041,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567644,
       "num": 511522,
       "word": "肖战好薄的背",
       "onboard_time": 1715313257,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 562586,
+      "num": 562586,
+      "word": "马龙说现在是王楚钦带着我",
+      "onboard_time": 1715346439,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 554723,
@@ -571,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 510265,
+      "num": 501262,
+      "word": "王力宏公司901万存款解冻",
+      "onboard_time": 1715346740,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509412,
       "num": 509412,
       "word": "杨紫以为承欢记是古装剧",
@@ -585,22 +625,6 @@
       "onboard_time": 1715259018,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 506582,
-      "num": 506582,
-      "word": "马龙说现在是王楚钦带着我",
-      "onboard_time": 1715346439,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 501262,
-      "num": 501262,
-      "word": "王力宏公司901万存款解冻",
-      "onboard_time": 1715346740,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 498978,
@@ -771,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390687,
+      "num": 1782903,
+      "word": "Faker的状态",
+      "onboard_time": 1715346439,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 390577,
       "num": 731963,
       "word": "寄电脑被烧毁保价4万德邦只赔1千",
@@ -875,6 +907,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 337712,
+      "num": 241491,
+      "word": "谁家好人上完厕所上派出所",
+      "onboard_time": 1715348841,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335232,
       "num": 335232,
       "word": "青花瓷绝了",
@@ -955,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297358,
+      "num": 297358,
+      "word": "中法将联合修复巴黎圣母院",
+      "onboard_time": 1715348841,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294855,
       "num": 223524,
       "word": "金高银百想影后30秒内全票通过",
@@ -995,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285632,
+      "num": 231720,
+      "word": "易烊千玺芭莎台下镜头",
+      "onboard_time": 1715348420,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 283261,
       "num": 283261,
       "word": "黄晓明 那英的武魂真身",
@@ -1025,14 +1081,6 @@
       "onboard_time": 1715327119,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281380,
-      "num": 1782903,
-      "word": "Faker的状态",
-      "onboard_time": 1715346439,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 280741,
@@ -1075,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273004,
+      "num": 273004,
+      "word": "T1战胜G2",
+      "onboard_time": 1715349680,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 272839,
       "num": 228660,
       "word": "上戏称林更新考博不会特殊对待",
@@ -1115,12 +1171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269211,
+      "num": 501828,
+      "word": "辽粤大战争议判罚",
+      "onboard_time": 1715345719,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269045,
       "num": 269045,
       "word": "旅客飞机突发疾病抢救无效去世",
       "onboard_time": 1715262860,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267926,
+      "num": 267926,
+      "word": "绝境李相赫",
+      "onboard_time": 1715349201,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 267505,
@@ -1227,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254047,
-      "num": 501828,
-      "word": "辽粤大战争议判罚",
-      "onboard_time": 1715345719,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 253753,
       "num": 253753,
       "word": "蔡文静连续练了九个小时舞",
@@ -1249,6 +1313,14 @@
       "onboard_time": 1715341159,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251117,
+      "num": 207139,
+      "word": "Chante Moore全体起立",
+      "onboard_time": 1715349980,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 246886,
@@ -1379,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229390,
+      "num": 208159,
+      "word": "易烊千玺工作室出图了",
+      "onboard_time": 1715350282,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228305,
       "num": 222089,
       "word": "Ning建议老头杯改名红温杯",
@@ -1417,6 +1497,14 @@
       "onboard_time": 1715333479,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224363,
+      "num": 224363,
+      "word": "敖瑞鹏保护白鹿",
+      "onboard_time": 1715348780,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 222147,
@@ -1595,6 +1683,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 198337,
+      "num": 198337,
+      "word": "猩球崛起",
+      "onboard_time": 1715349922,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197935,
       "num": 197935,
       "word": "我的阿勒泰今日会员收官",
@@ -1627,12 +1723,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195719,
+      "num": 195719,
+      "word": "歌手没有洪涛",
+      "onboard_time": 1715350460,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193786,
       "num": 193786,
       "word": "女子直播吐槽看不起赚3000的男性",
       "onboard_time": 1715318659,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193627,
+      "num": 193627,
+      "word": "易烊千玺年度ICON",
+      "onboard_time": 1715349740,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193443,
@@ -1947,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160549,
+      "num": 195829,
+      "word": "AG对战狼队",
+      "onboard_time": 1715342058,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158458,
       "num": 158458,
       "word": "陈梦大满贯晋级4强",
@@ -2011,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153599,
+      "num": 184324,
+      "word": "杭州妈妈送女儿神级转场礼物",
+      "onboard_time": 1715348960,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153510,
       "num": 153510,
       "word": "宋亚轩刘耀文打电话互坑",
@@ -2060,7 +2188,7 @@
     },
     {
       "raw_hot": 147118,
-      "num": 147118,
+      "num": 183689,
       "word": "考官已经拼尽全力了",
       "onboard_time": 1715344521,
       "rank": 44,
@@ -2097,14 +2225,6 @@
       "onboard_time": 1715344580,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142873,
-      "num": 142873,
-      "word": "AG对战狼队",
-      "onboard_time": 1715342058,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 141946,
@@ -2313,6 +2433,14 @@
       "onboard_time": 1715318359,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 133496,
+      "num": 183721,
+      "word": "极氪美国存托股票初步发售价定为21美元",
+      "onboard_time": 1715350400,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 133446,
@@ -2819,6 +2947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82677,
+      "num": 195721,
+      "word": "极氪赴美IPO",
+      "onboard_time": 1715350282,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81359,
       "num": 81359,
       "word": "王楚钦孙颖莎3比0黄镇廷杜凯琹",
@@ -3080,6 +3216,30 @@
       "word": "这些国货年纪比我还大",
       "onboard_time": 1715342839,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31849,
+      "num": 245473,
+      "word": "海狮07EV电机卷到23000转",
+      "onboard_time": 1715349922,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 24262,
+      "num": 183698,
+      "word": "戚薇这次摸到真的方向盘了",
+      "onboard_time": 1715350460,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23340,
+      "num": 424718,
+      "word": "匈塞铁路见证共建一带一路蓬勃活力",
+      "onboard_time": 1715349081,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
