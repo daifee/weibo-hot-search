@@ -1,0 +1,410 @@
+{
+  "runTime": 1715305080077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 840450,
+        "num": 840450,
+        "word": "三亚出现椰子狸尾巴比身长",
+        "onboard_time": 1715298556,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816467,
+        "num": 816467,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62219,
+        "num": 658403,
+        "word": "中匈乐器合奏茉莉花太绝了",
+        "onboard_time": 1715266399,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 956303,
+        "num": 649220,
+        "word": "人死后聊天记录会被怎样处理",
+        "onboard_time": 1715263821,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 634456,
+        "num": 634456,
+        "word": "杭州取消限购有卖家跳涨三成",
+        "onboard_time": 1715300060,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 623240,
+        "num": 623240,
+        "word": "靠运动减肥多久才开始起效",
+        "onboard_time": 1715296756,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 402480,
+        "num": 402480,
+        "word": "迄今为止最恐怖的太空照片之一",
+        "onboard_time": 1715262200,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 46693,
+        "num": 357460,
+        "word": "匈牙利民众对中华文化情有独钟",
+        "onboard_time": 1715296515,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326985,
+        "num": 326985,
+        "word": "以前的跑男和现在的跑男",
+        "onboard_time": 1715281511,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271901,
+        "num": 271901,
+        "word": "贵州吃酸是以酸代盐",
+        "onboard_time": 1715303179,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1620374,
+        "num": 271845,
+        "word": "花少北 煎蛋",
+        "onboard_time": 1715299760,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 996533,
+        "num": 271508,
+        "word": "百度离职副总裁4月成立新公司",
+        "onboard_time": 1715297655,
+        "rank": 11,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 950517,
+        "num": 271373,
+        "word": "林更新要考博士",
+        "onboard_time": 1715299038,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633843,
+        "num": 271149,
+        "word": "睡觉若有这5种不适或是疾病征兆",
+        "onboard_time": 1715300599,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 578299,
+        "num": 270823,
+        "word": "百度副总裁璩静已离职",
+        "onboard_time": 1715257099,
+        "rank": 14,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 475166,
+        "num": 270789,
+        "word": "参哥称璩静一定是被人黑了",
+        "onboard_time": 1715301499,
+        "rank": 15,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 273884,
+        "num": 270396,
+        "word": "刘耀文和侯雯元谈第二十条路演",
+        "onboard_time": 1715304257,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270362,
+        "num": 270362,
+        "word": "南充16岁高中女生已失联5天",
+        "onboard_time": 1715273536,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266375,
+        "num": 266375,
+        "word": "尔滨三害判了嘎了毙了",
+        "onboard_time": 1715303599,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236004,
+        "num": 236004,
+        "word": "WPS被指套娃式收费",
+        "onboard_time": 1715302219,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 616412,
+        "num": 221704,
+        "word": "经常看书和不看书的区别",
+        "onboard_time": 1715302698,
+        "rank": 20,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 387688,
+        "num": 215623,
+        "word": "苹果就iPadPro宣传视频致歉",
+        "onboard_time": 1715301798,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 371760,
+        "num": 214618,
+        "word": "试打瘦肩针2美容店主一死一伤",
+        "onboard_time": 1715303778,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206589,
+        "num": 206589,
+        "word": "莫文蔚别让我跪下求你官宣",
+        "onboard_time": 1715281690,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197381,
+        "num": 197381,
+        "word": "伊利 莎头",
+        "onboard_time": 1715304737,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195329,
+        "num": 195329,
+        "word": "爸爸给我和妹妹买了两个虫",
+        "onboard_time": 1715302876,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187395,
+        "num": 187395,
+        "word": "严浩翔海泳60米",
+        "onboard_time": 1715303838,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186784,
+        "num": 186784,
+        "word": "王一博车被拖走了",
+        "onboard_time": 1715262560,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186338,
+        "num": 186338,
+        "word": "iPadPro广告惹众怒遭撤档",
+        "onboard_time": 1715303778,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186157,
+        "num": 186157,
+        "word": "人事是怎么知道员工想离职的",
+        "onboard_time": 1715304138,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186080,
+        "num": 186080,
+        "word": "彩礼过高部分农村男青年举债结婚",
+        "onboard_time": 1715304500,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179728,
+        "num": 179728,
+        "word": "宋亚轩拍卖没钱但口气大",
+        "onboard_time": 1715303778,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155571,
+        "num": 155571,
+        "word": "张颂文每年生日都有工作",
+        "onboard_time": 1715303838,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154898,
+        "num": 154898,
+        "word": "璩静称百度内部有人花2000元发文黑自己",
+        "onboard_time": 1715270956,
+        "rank": 33,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 153339,
+        "num": 153339,
+        "word": "从粗糙开始一件事就已超越很多人",
+        "onboard_time": 1715303417,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148597,
+        "num": 148597,
+        "word": "独臂村医守护村民36年",
+        "onboard_time": 1715304198,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 140807,
+        "num": 140807,
+        "word": "奶茶过了这个时间点就别喝了",
+        "onboard_time": 1715275093,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139606,
+        "num": 139606,
+        "word": "王楚钦孙颖莎冠军",
+        "onboard_time": 1715272036,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136923,
+        "num": 136923,
+        "word": "背着妈妈上大学的她又带着妈妈上班",
+        "onboard_time": 1715303958,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136421,
+        "num": 136421,
+        "word": "孙颖莎4比0钱天一",
+        "onboard_time": 1715296456,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133670,
+        "num": 133670,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1715265979,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133434,
+        "num": 133434,
+        "word": "马嘉祺刘耀文严浩翔帐篷塌了",
+        "onboard_time": 1715303359,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133427,
+        "num": 133427,
+        "word": "璩静离职24小时",
+        "onboard_time": 1715298016,
+        "rank": 42,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 129321,
+        "num": 129321,
+        "word": "王心凌为分手一天粉丝点歌",
+        "onboard_time": 1715298676,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125818,
+        "num": 125818,
+        "word": "陈思建宵夜婚礼",
+        "onboard_time": 1715262980,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122203,
+        "num": 122203,
+        "word": "做一只吗喽",
+        "onboard_time": 1715304677,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119996,
+        "num": 119996,
+        "word": "金高银百想影后30秒内全票通过",
+        "onboard_time": 1715291831,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116578,
+        "num": 116578,
+        "word": "于正回应与庆余年2狐妖撞档",
+        "onboard_time": 1715262980,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101889,
+        "num": 101889,
+        "word": "璩静",
+        "onboard_time": 1715271017,
+        "rank": 48,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 97275,
+        "num": 97275,
+        "word": "武契奇收到天坛造型钢制工艺品",
+        "onboard_time": 1715298676,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同匈牙利总统举行会谈#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715303817879,
+  "endTime": 1715305080077,
   "band_list": [
     {
       "raw_hot": 1694377,
@@ -99,6 +99,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 616412,
+      "num": 221704,
+      "word": "经常看书和不看书的区别",
+      "onboard_time": 1715302698,
+      "rank": 20,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 550258,
       "num": 241589,
       "word": "璩静称百度内部有人花2000元发文黑自己",
@@ -139,14 +147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 439564,
-      "num": 202908,
-      "word": "经常看书和不看书的区别",
-      "onboard_time": 1715302698,
-      "rank": 20,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 429867,
       "num": 191268,
       "word": "时代峰峻",
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387688,
+      "num": 215623,
+      "word": "苹果就iPadPro宣传视频致歉",
+      "onboard_time": 1715301798,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 381480,
       "num": 381480,
       "word": "王楚钦孙颖莎冠军",
@@ -171,12 +179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 367427,
-      "num": 201480,
-      "word": "苹果就iPadPro宣传视频致歉",
-      "onboard_time": 1715301798,
-      "rank": 21,
-      "category": "数码"
+      "raw_hot": 371760,
+      "num": 214618,
+      "word": "试打瘦肩针2美容店主一死一伤",
+      "onboard_time": 1715303778,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363993,
@@ -251,6 +259,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273884,
+      "num": 270396,
+      "word": "刘耀文和侯雯元谈第二十条路演",
+      "onboard_time": 1715304257,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 271901,
+      "num": 271901,
+      "word": "贵州吃酸是以酸代盐",
+      "onboard_time": 1715303179,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 271388,
       "num": 271388,
       "word": "张若昀说五年里尽力在保养",
@@ -265,6 +289,14 @@
       "onboard_time": 1715262860,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266375,
+      "num": 266375,
+      "word": "尔滨三害判了嘎了毙了",
+      "onboard_time": 1715303599,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 262639,
@@ -289,6 +321,14 @@
       "onboard_time": 1715268080,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236004,
+      "num": 236004,
+      "word": "WPS被指套娃式收费",
+      "onboard_time": 1715302219,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 235239,
@@ -347,20 +387,28 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 197471,
-      "num": 197471,
-      "word": "WPS被指套娃式收费",
-      "onboard_time": 1715302219,
-      "rank": 23,
-      "category": "互联网"
+      "raw_hot": 197381,
+      "num": 197381,
+      "word": "伊利 莎头",
+      "onboard_time": 1715304737,
+      "rank": 24,
+      "category": "体育"
     },
     {
-      "raw_hot": 192975,
-      "num": 192975,
+      "raw_hot": 195329,
+      "num": 195329,
       "word": "爸爸给我和妹妹买了两个虫",
       "onboard_time": 1715302876,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187395,
+      "num": 187395,
+      "word": "严浩翔海泳60米",
+      "onboard_time": 1715303838,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 187344,
@@ -379,12 +427,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186338,
+      "num": 186338,
+      "word": "iPadPro广告惹众怒遭撤档",
+      "onboard_time": 1715303778,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 186157,
+      "num": 186157,
+      "word": "人事是怎么知道员工想离职的",
+      "onboard_time": 1715304138,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 186080,
+      "num": 186080,
+      "word": "彩礼过高部分农村男青年举债结婚",
+      "onboard_time": 1715304500,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180037,
-      "num": 145832,
+      "num": 153339,
       "word": "从粗糙开始一件事就已超越很多人",
       "onboard_time": 1715303417,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179728,
+      "num": 179728,
+      "word": "宋亚轩拍卖没钱但口气大",
+      "onboard_time": 1715303778,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 175442,
@@ -403,28 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165346,
-      "num": 165346,
-      "word": "试打瘦肩针2美容店主一死一伤",
-      "onboard_time": 1715303778,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161407,
       "num": 161407,
       "word": "狐妖小红娘红月篇",
       "onboard_time": 1715265979,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160568,
-      "num": 160568,
-      "word": "贵州吃酸是以酸代盐",
-      "onboard_time": 1715303179,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 158458,
@@ -443,6 +507,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155571,
+      "num": 155571,
+      "word": "张颂文每年生日都有工作",
+      "onboard_time": 1715303838,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148597,
+      "num": 148597,
+      "word": "独臂村医守护村民36年",
+      "onboard_time": 1715304198,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 144053,
       "num": 144053,
       "word": "张若昀草莓唇",
@@ -451,8 +531,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140123,
-      "num": 140123,
+      "raw_hot": 140807,
+      "num": 140807,
       "word": "奶茶过了这个时间点就别喝了",
       "onboard_time": 1715275093,
       "rank": 35,
@@ -467,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135309,
-      "num": 135309,
-      "word": "尔滨三害判了嘎了毙了",
-      "onboard_time": 1715303599,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 136923,
+      "num": 136923,
+      "word": "背着妈妈上大学的她又带着妈妈上班",
+      "onboard_time": 1715303958,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 134553,
@@ -497,6 +577,14 @@
       "onboard_time": 1715267599,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129321,
+      "num": 129321,
+      "word": "王心凌为分手一天粉丝点歌",
+      "onboard_time": 1715298676,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 127389,
@@ -531,20 +619,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 122203,
+      "num": 122203,
+      "word": "做一只吗喽",
+      "onboard_time": 1715304677,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121931,
       "num": 121931,
       "word": "新生",
       "onboard_time": 1715252177,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121919,
-      "num": 121919,
-      "word": "王心凌为分手一天粉丝点歌",
-      "onboard_time": 1715298676,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 121038,
@@ -563,28 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117880,
-      "num": 117880,
-      "word": "宋亚轩拍卖没钱但口气大",
-      "onboard_time": 1715303778,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110915,
       "num": 110915,
       "word": "花海哭了",
       "onboard_time": 1715302038,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109015,
-      "num": 109015,
-      "word": "iPadPro广告惹众怒遭撤档",
-      "onboard_time": 1715303778,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 108930,
