@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715359082567,
+  "endTime": 1715361402689,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1492760,
-      "num": 527761,
+      "num": 583542,
       "word": "难听",
       "onboard_time": 1715351422,
       "rank": 28,
@@ -2484,7 +2484,7 @@
     },
     {
       "raw_hot": 683815,
-      "num": 289120,
+      "num": 429166,
       "word": "隔壁浪姐 摇人",
       "onboard_time": 1715355082,
       "rank": 35,
@@ -2761,6 +2761,14 @@
       "onboard_time": 1715334800,
       "rank": 13,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 643220,
+      "num": 643220,
+      "word": "王楚钦vs林诗栋",
+      "onboard_time": 1715360055,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 642390,
@@ -6443,6 +6451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 308178,
+      "num": 308178,
+      "word": "马琳战术",
+      "onboard_time": 1715354060,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307801,
       "num": 348617,
       "word": "陶喆南京 抢票",
@@ -6596,7 +6612,7 @@
     },
     {
       "raw_hot": 299300,
-      "num": 299300,
+      "num": 595982,
       "word": "西安暴雨",
       "onboard_time": 1715355319,
       "rank": 8,
@@ -12755,6 +12771,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 163302,
+      "num": 190742,
+      "word": "孙颖莎陈梦会师WTT女单决赛",
+      "onboard_time": 1715358617,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163164,
       "num": 162811,
       "word": "黄觉 芳心灭火器",
@@ -13441,6 +13465,14 @@
       "onboard_time": 1714978758,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153401,
+      "num": 208247,
+      "word": "身上这5种臭味或是疾病征兆",
+      "onboard_time": 1715358378,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153173,
@@ -14801,6 +14833,14 @@
       "onboard_time": 1714993039,
       "rank": 45,
       "category": "科学科普,情感"
+    },
+    {
+      "raw_hot": 133399,
+      "num": 190748,
+      "word": "杨洋上海晚宴生图",
+      "onboard_time": 1715358977,
+      "rank": 43,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 133239,
@@ -16179,14 +16219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107403,
-      "num": 208247,
-      "word": "身上这5种臭味或是疾病征兆",
-      "onboard_time": 1715358378,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 106765,
       "num": 106765,
       "word": "周星驰阿信合照",
@@ -16555,14 +16587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 93804,
-      "num": 190748,
-      "word": "杨洋上海晚宴生图",
-      "onboard_time": 1715358977,
-      "rank": 43,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 93628,
       "num": 93628,
       "word": "TikTok告美联邦政府",
@@ -16688,14 +16712,6 @@
       "word": "孙颖莎11比1",
       "onboard_time": 1715281331,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 87526,
-      "num": 190742,
-      "word": "孙颖莎陈梦会师WTT女单决赛",
-      "onboard_time": 1715358617,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -17209,6 +17225,14 @@
       "onboard_time": 1714864574,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 59132,
+      "num": 91740,
+      "word": "儿子的车被别的小朋友骑走了",
+      "onboard_time": 1715360715,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 58883,
