@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715375918691,
+  "endTime": 1715376883948,
   "band_list": [
     {
       "raw_hot": 1390202,
@@ -355,6 +355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 135161,
+      "num": 135161,
+      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
+      "onboard_time": 1715366711,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134494,
       "num": 213435,
       "word": "二手玫瑰 喊麦",
@@ -409,14 +417,6 @@
       "onboard_time": 1715346740,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111957,
-      "num": 111957,
-      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
-      "onboard_time": 1715366711,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106451,
@@ -603,7 +603,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23653,
+      "raw_hot": 26357,
+      "num": 26357,
+      "word": "国内最大黄金批发市场遭到暴击",
+      "onboard_time": 1715375350,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 26206,
       "num": 27475,
       "word": "文淇发型 孙俪",
       "onboard_time": 1715371991,
@@ -619,7 +627,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22299,
+      "raw_hot": 22654,
       "num": 27450,
       "word": "苹果和安卓手机APP消费差距那么大",
       "onboard_time": 1715372291,
@@ -649,14 +657,6 @@
       "onboard_time": 1715348841,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14017,
-      "num": 18407,
-      "word": "国内最大黄金批发市场遭到暴击",
-      "onboard_time": 1715375350,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 2760,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715375918691,
+  "endTime": 1715376883948,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -14715,6 +14715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135161,
+      "num": 135161,
+      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
+      "onboard_time": 1715366711,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134884,
       "num": 134884,
       "word": "独行侠vs雷霆",
@@ -16088,14 +16096,6 @@
       "word": "数据盘点五一假期",
       "onboard_time": 1715000958,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111957,
-      "num": 111957,
-      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
-      "onboard_time": 1715366711,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -17787,6 +17787,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26357,
+      "num": 26357,
+      "word": "国内最大黄金批发市场遭到暴击",
+      "onboard_time": 1715375350,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 26206,
+      "num": 27475,
+      "word": "文淇发型 孙俪",
+      "onboard_time": 1715371991,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25773,
       "num": 27708,
       "word": "李沁拿鸡腿",
@@ -17811,20 +17827,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23653,
-      "num": 27475,
-      "word": "文淇发型 孙俪",
-      "onboard_time": 1715371991,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 22967,
       "num": 45394,
       "word": "重生之我在爽文短剧里当演员",
       "onboard_time": 1714940292,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22654,
+      "num": 27450,
+      "word": "苹果和安卓手机APP消费差距那么大",
+      "onboard_time": 1715372291,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 22501,
@@ -17841,14 +17857,6 @@
       "onboard_time": 1715279231,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 22299,
-      "num": 27450,
-      "word": "苹果和安卓手机APP消费差距那么大",
-      "onboard_time": 1715372291,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 21727,
@@ -17929,14 +17937,6 @@
       "onboard_time": 1714937591,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 14017,
-      "num": 18407,
-      "word": "国内最大黄金批发市场遭到暴击",
-      "onboard_time": 1715375350,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 13856,
