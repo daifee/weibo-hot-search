@@ -1,0 +1,410 @@
+{
+  "runTime": 1715348058095,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3637663,
+        "num": 3637663,
+        "word": "歌手直播",
+        "onboard_time": 1715341399,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494095,
+        "num": 2245023,
+        "word": "马龙王楚钦冠军",
+        "onboard_time": 1715345240,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16829,
+        "num": 2029083,
+        "word": "一条Vlog品味中塞铁杆友谊",
+        "onboard_time": 1715326759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2014368,
+        "num": 2014368,
+        "word": "汪苏泷好稳",
+        "onboard_time": 1715346860,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1156645,
+        "num": 1976412,
+        "word": "六种很脏的生活习惯",
+        "onboard_time": 1715343497,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 382995,
+        "num": 1953194,
+        "word": "比亚迪",
+        "onboard_time": 1715343258,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1952738,
+        "num": 1952738,
+        "word": "那英 紧张",
+        "onboard_time": 1715344521,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294645,
+        "num": 1877605,
+        "word": "上海00后中奖100万实现局部退休",
+        "onboard_time": 1715324359,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281380,
+        "num": 1782903,
+        "word": "Faker的状态",
+        "onboard_time": 1715346439,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267505,
+        "num": 1678904,
+        "word": "G2对战T1",
+        "onboard_time": 1715329040,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51320,
+        "num": 1652436,
+        "word": "莎头为你加油",
+        "onboard_time": 1715345958,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1571027,
+        "num": 1571027,
+        "word": "那英 我有时候真的不识好歹",
+        "onboard_time": 1715344999,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1009880,
+        "num": 1009880,
+        "word": "花少北 就不耽误你的第八年了",
+        "onboard_time": 1715335220,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1380632,
+        "num": 1004562,
+        "word": "歌手",
+        "onboard_time": 1715332397,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 944041,
+        "num": 944041,
+        "word": "汪苏泷新歌首唱",
+        "onboard_time": 1715347520,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 785945,
+        "num": 785945,
+        "word": "文淇 荷兰血统",
+        "onboard_time": 1715342958,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672883,
+        "num": 672883,
+        "word": "南通车祸",
+        "onboard_time": 1715324600,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506582,
+        "num": 506582,
+        "word": "马龙说现在是王楚钦带着我",
+        "onboard_time": 1715346439,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239760,
+        "num": 501828,
+        "word": "辽粤大战争议判罚",
+        "onboard_time": 1715345719,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1234435,
+        "num": 501801,
+        "word": "杨丞琳选歌",
+        "onboard_time": 1715345841,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 748250,
+        "num": 501666,
+        "word": "丈夫婚检查出乙肝妻子要离婚",
+        "onboard_time": 1715338639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501262,
+        "num": 501262,
+        "word": "王力宏公司901万存款解冻",
+        "onboard_time": 1715346740,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371632,
+        "num": 371632,
+        "word": "婚后才知道什么是隐形家务",
+        "onboard_time": 1715344521,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344559,
+        "num": 344559,
+        "word": "费可 转账一停感情归零",
+        "onboard_time": 1715341399,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291956,
+        "num": 291956,
+        "word": "杨紫直播",
+        "onboard_time": 1715343799,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283261,
+        "num": 283261,
+        "word": "黄晓明 那英的武魂真身",
+        "onboard_time": 1715345898,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43300,
+        "num": 281631,
+        "word": "vivo影像灭霸歌手现场首秀",
+        "onboard_time": 1715346680,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 280741,
+        "num": 280741,
+        "word": "我的阿勒泰",
+        "onboard_time": 1715343198,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244825,
+        "num": 244825,
+        "word": "Faouzia实力",
+        "onboard_time": 1715345478,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192907,
+        "num": 210914,
+        "word": "陈梦王曼昱大满贯夺冠",
+        "onboard_time": 1715341937,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203871,
+        "num": 203871,
+        "word": "微暗之火结局",
+        "onboard_time": 1715346981,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199876,
+        "num": 199876,
+        "word": "赵露思名媛千金风",
+        "onboard_time": 1715342419,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198994,
+        "num": 198994,
+        "word": "海狮",
+        "onboard_time": 1715347460,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193220,
+        "num": 193220,
+        "word": "戚薇P腿",
+        "onboard_time": 1715322438,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187453,
+        "num": 187453,
+        "word": "易烊千玺黑色皮内搭",
+        "onboard_time": 1715347161,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184280,
+        "num": 184280,
+        "word": "张天爱腰好细",
+        "onboard_time": 1715343919,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174138,
+        "num": 174138,
+        "word": "张颂文回复陈都灵",
+        "onboard_time": 1715345419,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145253,
+        "num": 172639,
+        "word": "美国女子凌晨遭勒脖拖走强奸",
+        "onboard_time": 1715334800,
+        "rank": 37,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 145232,
+        "num": 172206,
+        "word": "苹果税",
+        "onboard_time": 1715335040,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144335,
+        "num": 172143,
+        "word": "南通一学生大巴车与渣土车发生碰撞",
+        "onboard_time": 1715324840,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172139,
+        "num": 172139,
+        "word": "Faouzia Crazy舞台",
+        "onboard_time": 1715347281,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170005,
+        "num": 170005,
+        "word": "赵丽颖孙千合拍跳舞",
+        "onboard_time": 1715340077,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143597,
+        "num": 169554,
+        "word": "马龙王楚钦男双决赛",
+        "onboard_time": 1715342419,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169478,
+        "num": 169478,
+        "word": "已成为陈丽君梦女",
+        "onboard_time": 1715347760,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161639,
+        "num": 161639,
+        "word": "Faouzia 娅娅",
+        "onboard_time": 1715347940,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156193,
+        "num": 156193,
+        "word": "易梦玲 头包脸",
+        "onboard_time": 1715338698,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139092,
+        "num": 139092,
+        "word": "花少北七年前女友",
+        "onboard_time": 1715313198,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 129711,
+        "num": 129711,
+        "word": "西安地铁神秘黑衣男子身份查明",
+        "onboard_time": 1715340259,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129177,
+        "num": 129177,
+        "word": "教育局就600元防攀比鞋事件致歉",
+        "onboard_time": 1715328858,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128478,
+        "num": 128478,
+        "word": "考官已经拼尽全力了",
+        "onboard_time": 1715344521,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈两国始终是互信互助的好朋友#"
+    }
+  }
+}

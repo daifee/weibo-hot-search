@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715347212633,
+  "endTime": 1715348058095,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -17,6 +17,14 @@
       "onboard_time": 1715324600,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3637663,
+      "num": 3637663,
+      "word": "歌手直播",
+      "onboard_time": 1715341399,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3292604,
@@ -41,14 +49,6 @@
       "onboard_time": 1714977378,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2953153,
-      "num": 2953153,
-      "word": "歌手直播",
-      "onboard_time": 1715341399,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2922878,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2187658,
-      "num": 439280,
+      "num": 1952738,
       "word": "那英 紧张",
       "onboard_time": 1715344521,
       "rank": 15,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2014368,
+      "num": 2014368,
+      "word": "汪苏泷好稳",
+      "onboard_time": 1715346860,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2010898,
       "num": 563766,
       "word": "阜阳出现水泥封尸案嫌疑人已被抓",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1978007,
-      "num": 409700,
+      "num": 501801,
       "word": "杨丞琳选歌",
       "onboard_time": 1715345841,
       "rank": 6,
@@ -227,14 +235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1919382,
-      "num": 388252,
-      "word": "汪苏泷好稳",
-      "onboard_time": 1715346860,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1896808,
       "num": 1896808,
       "word": "假球",
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1867676,
-      "num": 273087,
+      "num": 1571027,
       "word": "那英 我有时候真的不识好歹",
       "onboard_time": 1715344999,
       "rank": 31,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1738553,
-      "num": 403964,
+      "num": 1009880,
       "word": "花少北 就不耽误你的第八年了",
       "onboard_time": 1715335220,
       "rank": 10,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1380632,
+      "num": 1004562,
+      "word": "歌手",
+      "onboard_time": 1714966399,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1372523,
       "num": 1372523,
       "word": "西安全面取消住房限购",
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 1255472,
-      "num": 1255472,
+      "num": 1877605,
       "word": "上海00后中奖100万实现局部退休",
       "onboard_time": 1715324359,
       "rank": 0,
@@ -899,6 +907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1156645,
+      "num": 1976412,
+      "word": "六种很脏的生活习惯",
+      "onboard_time": 1715343497,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1152188,
       "num": 1069111,
       "word": "宋仲基宋慧乔将出席百想",
@@ -937,14 +953,6 @@
       "onboard_time": 1715297655,
       "rank": 33,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 1136162,
-      "num": 435872,
-      "word": "六种很脏的生活习惯",
-      "onboard_time": 1715343497,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1136012,
@@ -1164,7 +1172,7 @@
     },
     {
       "raw_hot": 1047153,
-      "num": 252487,
+      "num": 501666,
       "word": "丈夫婚检查出乙肝妻子要离婚",
       "onboard_time": 1715338639,
       "rank": 20,
@@ -1201,14 +1209,6 @@
       "onboard_time": 1715000179,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1027244,
-      "num": 444726,
-      "word": "歌手",
-      "onboard_time": 1714966399,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 1003253,
@@ -1321,6 +1321,14 @@
       "onboard_time": 1715007320,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 944041,
+      "num": 944041,
+      "word": "汪苏泷新歌首唱",
+      "onboard_time": 1715347520,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 942413,
@@ -1620,7 +1628,7 @@
     },
     {
       "raw_hot": 846005,
-      "num": 396298,
+      "num": 785945,
       "word": "文淇 荷兰血统",
       "onboard_time": 1715342958,
       "rank": 11,
@@ -3012,7 +3020,7 @@
     },
     {
       "raw_hot": 588750,
-      "num": 588750,
+      "num": 2245023,
       "word": "马龙王楚钦冠军",
       "onboard_time": 1715345240,
       "rank": 39,
@@ -3611,6 +3619,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 506582,
+      "num": 506582,
+      "word": "马龙说现在是王楚钦带着我",
+      "onboard_time": 1715346439,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 505672,
       "num": 230243,
       "word": "喜茶免单",
@@ -3657,6 +3673,14 @@
       "onboard_time": 1715128099,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 501262,
+      "num": 501262,
+      "word": "王力宏公司901万存款解冻",
+      "onboard_time": 1715346740,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 500194,
@@ -3953,14 +3977,6 @@
       "onboard_time": 1714910057,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 473144,
-      "num": 248825,
-      "word": "王力宏公司901万存款解冻",
-      "onboard_time": 1715346740,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 472878,
@@ -4620,7 +4636,7 @@
     },
     {
       "raw_hot": 416670,
-      "num": 416670,
+      "num": 1953194,
       "word": "比亚迪",
       "onboard_time": 1715343258,
       "rank": 31,
@@ -5193,6 +5209,14 @@
       "onboard_time": 1715303778,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371632,
+      "num": 371632,
+      "word": "婚后才知道什么是隐形家务",
+      "onboard_time": 1715344521,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 370722,
@@ -6035,14 +6059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 317363,
-      "num": 245086,
-      "word": "婚后才知道什么是隐形家务",
-      "onboard_time": 1715344521,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 317346,
       "num": 514742,
       "word": "榴莲",
@@ -6699,6 +6715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283261,
+      "num": 283261,
+      "word": "黄晓明 那英的武魂真身",
+      "onboard_time": 1715345898,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 283210,
       "num": 283210,
       "word": "1999周年庆",
@@ -6763,12 +6787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281380,
+      "num": 1782903,
+      "word": "Faker的状态",
+      "onboard_time": 1715346439,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 281342,
       "num": 281342,
       "word": "淘宝免单bug",
       "onboard_time": 1714974379,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 280741,
+      "num": 280741,
+      "word": "我的阿勒泰",
+      "onboard_time": 1715055680,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 280687,
@@ -7003,14 +7043,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 271958,
-      "num": 271958,
-      "word": "马龙说现在是王楚钦带着我",
-      "onboard_time": 1715346439,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271913,
       "num": 251728,
       "word": "恋爱兄妹",
@@ -7123,6 +7155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267505,
+      "num": 1678904,
+      "word": "G2对战T1",
+      "onboard_time": 1715329040,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 267066,
       "num": 267066,
       "word": "刘忻 我觉得季军不属于我",
@@ -7161,14 +7201,6 @@
       "onboard_time": 1715145324,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265522,
-      "num": 251515,
-      "word": "我的阿勒泰",
-      "onboard_time": 1715055680,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 265457,
@@ -7460,7 +7492,7 @@
     },
     {
       "raw_hot": 254047,
-      "num": 254047,
+      "num": 501828,
       "word": "辽粤大战争议判罚",
       "onboard_time": 1715345719,
       "rank": 17,
@@ -7731,6 +7763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244825,
+      "num": 244825,
+      "word": "Faouzia实力",
+      "onboard_time": 1715345478,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244760,
       "num": 244760,
       "word": "范若若学会临床手术",
@@ -7793,14 +7833,6 @@
       "onboard_time": 1715177421,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240915,
-      "num": 240915,
-      "word": "Faouzia实力",
-      "onboard_time": 1715345478,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 240868,
@@ -7913,14 +7945,6 @@
       "onboard_time": 1715302219,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 235957,
-      "num": 250498,
-      "word": "G2对战T1",
-      "onboard_time": 1715329040,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 235701,
@@ -9427,6 +9451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203871,
+      "num": 203871,
+      "word": "微暗之火结局",
+      "onboard_time": 1715346981,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203733,
       "num": 483045,
       "word": "小鸟努力把自己美成了花鸟图",
@@ -9753,6 +9785,14 @@
       "onboard_time": 1715238378,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198994,
+      "num": 198994,
+      "word": "海狮",
+      "onboard_time": 1715347460,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 198588,
@@ -10443,14 +10483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191526,
-      "num": 196318,
-      "word": "微暗之火结局",
-      "onboard_time": 1715346981,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191517,
       "num": 191517,
       "word": "南部战区警告驱离擅闯西沙领海美舰",
@@ -10921,14 +10953,6 @@
       "onboard_time": 1714865295,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184495,
-      "num": 196095,
-      "word": "黄晓明 那英的武魂真身",
-      "onboard_time": 1715345898,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 184279,
@@ -11811,6 +11835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172139,
+      "num": 172139,
+      "word": "Faouzia Crazy舞台",
+      "onboard_time": 1715347281,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171889,
       "num": 171889,
       "word": "金玟庭爸爸模仿方时赫发言",
@@ -11937,6 +11969,14 @@
       "onboard_time": 1714967239,
       "rank": 44,
       "category": "美食,科学科普"
+    },
+    {
+      "raw_hot": 169478,
+      "num": 169478,
+      "word": "已成为陈丽君梦女",
+      "onboard_time": 1715347760,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 169432,
@@ -12449,6 +12489,14 @@
       "onboard_time": 1714989859,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161639,
+      "num": 161639,
+      "word": "Faouzia 娅娅",
+      "onboard_time": 1715347940,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 161602,
@@ -14939,14 +14987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124143,
-      "num": 158146,
-      "word": "Faker的状态",
-      "onboard_time": 1715346439,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 123817,
       "num": 123817,
       "word": "纯爱小狗想和你牵手有错吗",
@@ -16340,7 +16380,7 @@
     },
     {
       "raw_hot": 77953,
-      "num": 241010,
+      "num": 1652436,
       "word": "莎头为你加油",
       "onboard_time": 1715345958,
       "rank": 29,
@@ -16931,6 +16971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43300,
+      "num": 281631,
+      "word": "vivo影像灭霸歌手现场首秀",
+      "onboard_time": 1715346680,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43271,
       "num": 43271,
       "word": "小时候妈妈教你走路现在再教一次",
@@ -16969,14 +17017,6 @@
       "onboard_time": 1715311637,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41353,
-      "num": 197069,
-      "word": "vivo影像灭霸歌手现场首秀",
-      "onboard_time": 1715346680,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 40940,
@@ -17196,7 +17236,7 @@
     },
     {
       "raw_hot": 21143,
-      "num": 528913,
+      "num": 2029083,
       "word": "一条Vlog品味中塞铁杆友谊",
       "onboard_time": 1715326759,
       "rank": 2,
@@ -17477,6 +17517,9 @@
     },
     {
       "word": "#欢迎匈牙利成为中国式现代化道路上的同行者#"
+    },
+    {
+      "word": "#中匈两国始终是互信互助的好朋友#"
     }
   ]
 }
