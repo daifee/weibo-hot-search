@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715376883948,
+  "endTime": 1715379510286,
   "band_list": [
     {
       "raw_hot": 1390202,
@@ -91,20 +91,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 581375,
+      "num": 581375,
+      "word": "王楚钦",
+      "onboard_time": 1715362094,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580225,
       "num": 288894,
       "word": "迪丽热巴手机打码的原因",
       "onboard_time": 1715351902,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 577722,
-      "num": 577722,
-      "word": "王楚钦",
-      "onboard_time": 1715362094,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 548035,
@@ -169,6 +169,14 @@
       "onboard_time": 1715354960,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274090,
+      "num": 274090,
+      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
+      "onboard_time": 1715366711,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267399,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150390,
+      "num": 76649,
+      "word": "国内最大黄金批发市场遭到暴击",
+      "onboard_time": 1715375350,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 147758,
       "num": 94231,
       "word": "汪苏泷好稳",
@@ -353,14 +369,6 @@
       "onboard_time": 1715343258,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 135161,
-      "num": 135161,
-      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
-      "onboard_time": 1715366711,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134494,
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110379,
+      "num": 168862,
+      "word": "王楚钦逆转晋级决赛",
+      "onboard_time": 1715362334,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106451,
       "num": 213463,
       "word": "王楚钦说很开心能和龙哥配合",
@@ -475,14 +491,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 94783,
-      "num": 168862,
-      "word": "王楚钦逆转晋级决赛",
-      "onboard_time": 1715362334,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90010,
       "num": 213392,
       "word": "马龙说现在是王楚钦带着我",
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 84413,
-      "num": 63345,
+      "num": 68117,
       "word": "苗苗劝架",
       "onboard_time": 1715366233,
       "rank": 14,
@@ -603,32 +611,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26357,
-      "num": 26357,
-      "word": "国内最大黄金批发市场遭到暴击",
-      "onboard_time": 1715375350,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 26206,
-      "num": 27475,
+      "raw_hot": 30698,
+      "num": 30698,
       "word": "文淇发型 孙俪",
       "onboard_time": 1715371991,
       "rank": 45,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23010,
-      "num": 27534,
+      "raw_hot": 29711,
+      "num": 29711,
       "word": "杨紫直播",
       "onboard_time": 1715343799,
       "rank": 39,
       "category": "艺人"
     },
     {
-      "raw_hot": 22654,
-      "num": 27450,
+      "raw_hot": 27930,
+      "num": 27930,
       "word": "苹果和安卓手机APP消费差距那么大",
       "onboard_time": 1715372291,
       "rank": 48,
@@ -651,12 +651,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15106,
+      "raw_hot": 16276,
       "num": 341545,
       "word": "一位塞尔维亚教练的中国梦",
       "onboard_time": 1715348841,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16180,
+      "num": 27716,
+      "word": "海来阿木的受众",
+      "onboard_time": 1715345178,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 2760,
