@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715365416476,
+  "endTime": 1715366180359,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -12363,6 +12363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169946,
+      "num": 169946,
+      "word": "联大通过涉巴勒斯坦入联决议",
+      "onboard_time": 1715362693,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 169586,
       "num": 169586,
       "word": "有些水果放冰箱坏的更快",
@@ -13017,14 +13025,6 @@
       "onboard_time": 1715181799,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159876,
-      "num": 159876,
-      "word": "联大通过涉巴勒斯坦入联决议",
-      "onboard_time": 1715362693,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 159805,
@@ -16564,7 +16564,7 @@
     },
     {
       "raw_hot": 94783,
-      "num": 94783,
+      "num": 168862,
       "word": "王楚钦逆转晋级决赛",
       "onboard_time": 1715362334,
       "rank": 44,
@@ -17507,6 +17507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44327,
+      "num": 32201,
+      "word": "那英蝶窦共鸣",
+      "onboard_time": 1715352743,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44120,
       "num": 44120,
       "word": "抗抑郁食物清单",
@@ -17683,6 +17691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34039,
+      "num": 35606,
+      "word": "跑男团cha了宋雨琦的FREAK",
+      "onboard_time": 1715365392,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32411,
       "num": 31230,
       "word": "纪凌尘回复宋威龙",
@@ -17713,14 +17729,6 @@
       "onboard_time": 1714931592,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30463,
-      "num": 35606,
-      "word": "跑男团cha了宋雨琦的FREAK",
-      "onboard_time": 1715365392,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 29825,
