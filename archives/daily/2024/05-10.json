@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715340858556,
+  "endTime": 1715344372529,
   "band_list": [
     {
       "raw_hot": 4276914,
@@ -9,6 +9,14 @@
       "onboard_time": 1715324600,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2917561,
+      "num": 2917561,
+      "word": "歌手直播",
+      "onboard_time": 1715341399,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2363598,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1738553,
-      "num": 307038,
+      "num": 403964,
       "word": "花少北 就不耽误你的第八年了",
       "onboard_time": 1715335220,
       "rank": 10,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047153,
+      "num": 252487,
+      "word": "丈夫婚检查出乙肝妻子要离婚",
+      "onboard_time": 1715338639,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 963437,
       "num": 963437,
       "word": "苹果税",
@@ -211,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 781088,
-      "num": 227837,
-      "word": "丈夫婚检查出乙肝妻子要离婚",
-      "onboard_time": 1715338639,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 725745,
       "num": 331119,
       "word": "睡觉若有这5种不适或是疾病征兆",
@@ -227,11 +235,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 702386,
+      "num": 510198,
+      "word": "费可 转账一停感情归零",
+      "onboard_time": 1715341399,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 692530,
       "num": 692530,
       "word": "伊利 莎头",
       "onboard_time": 1715304737,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 692054,
+      "num": 692054,
+      "word": "马龙王楚钦男双决赛",
+      "onboard_time": 1715321360,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 617992,
-      "num": 290387,
+      "num": 383001,
       "word": "易梦玲 头包脸",
       "onboard_time": 1715338698,
       "rank": 13,
@@ -345,6 +369,14 @@
       "onboard_time": 1715302698,
       "rank": 20,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 615518,
+      "num": 396298,
+      "word": "文淇 荷兰血统",
+      "onboard_time": 1715342958,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 614727,
@@ -369,6 +401,14 @@
       "onboard_time": 1715318359,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605178,
+      "num": 444032,
+      "word": "歌手",
+      "onboard_time": 1715332397,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 600945,
@@ -427,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 523663,
+      "num": 466914,
+      "word": "歌手2024殿堂级舞美",
+      "onboard_time": 1715338398,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516918,
       "num": 516918,
       "word": "以前的跑男和现在的跑男",
@@ -467,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472442,
+      "num": 472442,
+      "word": "陈梦王曼昱大满贯夺冠",
+      "onboard_time": 1715341937,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 470167,
       "num": 274942,
       "word": "赵丽颖孙千合拍跳舞",
       "onboard_time": 1715340077,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 466914,
-      "num": 466914,
-      "word": "歌手2024殿堂级舞美",
-      "onboard_time": 1715338398,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 461369,
@@ -553,6 +601,14 @@
       "onboard_time": 1715267119,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421416,
+      "num": 421416,
+      "word": "交警回应南通车祸现场红绿灯情况",
+      "onboard_time": 1715339239,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420805,
@@ -659,12 +715,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368582,
+      "num": 368582,
+      "word": "杨紫直播",
+      "onboard_time": 1715343799,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363993,
       "num": 173210,
       "word": "药店门口为什么总写着万艾可到货",
       "onboard_time": 1715252538,
       "rank": 26,
       "category": "科学科普,科学科普"
+    },
+    {
+      "raw_hot": 362088,
+      "num": 362088,
+      "word": "赵露思名媛千金风",
+      "onboard_time": 1715342419,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 357554,
+      "num": 211545,
+      "word": "六种很脏的生活习惯",
+      "onboard_time": 1715343497,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 352644,
@@ -779,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289488,
+      "num": 289488,
+      "word": "朱芳雨确认周琦缺席",
+      "onboard_time": 1715340259,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283254,
       "num": 190649,
       "word": "娜扎 就担心我艳压你",
@@ -841,6 +929,14 @@
       "onboard_time": 1715317341,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271913,
+      "num": 251728,
+      "word": "恋爱兄妹",
+      "onboard_time": 1715339179,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 271901,
@@ -907,14 +1003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262938,
-      "num": 262938,
-      "word": "朱芳雨确认周琦缺席",
-      "onboard_time": 1715340259,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262639,
       "num": 262639,
       "word": "孙颖莎王楚钦混双冠军",
@@ -979,20 +1067,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255256,
-      "num": 255256,
-      "word": "交警回应南通车祸现场红绿灯情况",
-      "onboard_time": 1715339239,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253753,
       "num": 253753,
       "word": "蔡文静连续练了九个小时舞",
       "onboard_time": 1715310496,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252589,
+      "num": 252589,
+      "word": "西安天气",
+      "onboard_time": 1715341159,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251515,
+      "num": 251515,
+      "word": "我的阿勒泰",
+      "onboard_time": 1715343198,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 246886,
@@ -1139,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225323,
-      "num": 225323,
-      "word": "恋爱兄妹",
-      "onboard_time": 1715339179,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224724,
       "num": 224724,
       "word": "NewJeans拼车",
@@ -1219,6 +1307,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211749,
+      "num": 211749,
+      "word": "于适双开门",
+      "onboard_time": 1715340858,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211100,
+      "num": 211100,
+      "word": "比亚迪",
+      "onboard_time": 1715343258,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 210536,
       "num": 268425,
       "word": "新疆把Windows草原壁纸变成了动态版",
@@ -1259,6 +1363,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 206760,
+      "num": 206760,
+      "word": "西安地铁神秘黑衣男子身份查明",
+      "onboard_time": 1715340259,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206148,
       "num": 206148,
       "word": "杨紫ELLE女星销量第一",
@@ -1289,6 +1401,14 @@
       "onboard_time": 1715311817,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196406,
+      "num": 196406,
+      "word": "奔跑吧",
+      "onboard_time": 1715343138,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 195773,
@@ -1329,6 +1449,14 @@
       "onboard_time": 1715313980,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191712,
+      "num": 191712,
+      "word": "北京晚霞",
+      "onboard_time": 1715342238,
+      "rank": 34,
+      "category": "自然"
     },
     {
       "raw_hot": 191517,
@@ -1483,12 +1611,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 172773,
-      "num": 172773,
-      "word": "西安地铁神秘黑衣男子身份查明",
-      "onboard_time": 1715340259,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 172753,
+      "num": 172753,
+      "word": "张天爱腰好细",
+      "onboard_time": 1715343919,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172364,
@@ -1627,12 +1755,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154167,
+      "num": 410914,
+      "word": "我的中式血脉觉醒了",
+      "onboard_time": 1715341218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153510,
       "num": 153510,
       "word": "宋亚轩刘耀文打电话互坑",
       "onboard_time": 1715314581,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153070,
+      "num": 153070,
+      "word": "张钧甯好薄的背",
+      "onboard_time": 1715344098,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152016,
@@ -1697,6 +1841,14 @@
       "onboard_time": 1715330118,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142873,
+      "num": 142873,
+      "word": "AG对战狼队",
+      "onboard_time": 1715342058,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 141946,
@@ -1769,6 +1921,14 @@
       "onboard_time": 1715318899,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139705,
+      "num": 139705,
+      "word": "双鱼座从不让话掉地上",
+      "onboard_time": 1715337798,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 139366,
@@ -1883,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133928,
-      "num": 133928,
-      "word": "歌手",
-      "onboard_time": 1715332397,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133619,
       "num": 133619,
       "word": "大笨狗 妈命由妈不由天",
@@ -1969,6 +2121,22 @@
       "onboard_time": 1715295615,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 127280,
+      "num": 127280,
+      "word": "怪不得这场戏拍了九个大夜",
+      "onboard_time": 1715344158,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127272,
+      "num": 127272,
+      "word": "陈梦王曼昱女双决赛",
+      "onboard_time": 1715340798,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 127224,
@@ -2163,12 +2331,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 114256,
-      "num": 114256,
-      "word": "双鱼座从不让话掉地上",
-      "onboard_time": 1715337798,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 113521,
+      "num": 113521,
+      "word": "大帅极限守家",
+      "onboard_time": 1715344338,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 113071,
@@ -2193,14 +2361,6 @@
       "onboard_time": 1715323338,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109339,
-      "num": 109339,
-      "word": "陈梦王曼昱女双决赛",
-      "onboard_time": 1715340798,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 108930,
@@ -2475,14 +2635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71127,
-      "num": 133251,
-      "word": "马龙王楚钦男双决赛",
-      "onboard_time": 1715321360,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70939,
       "num": 96764,
       "word": "王艺迪大满贯晋级4强",
@@ -2643,12 +2795,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 22594,
+      "num": 369365,
+      "word": "这些国货年纪比我还大",
+      "onboard_time": 1715342839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22484,
       "num": 25411,
       "word": "第五人格投票",
       "onboard_time": 1715279231,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 21143,
+      "num": 528913,
+      "word": "一条Vlog品味中塞铁杆友谊",
+      "onboard_time": 1715326759,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18022,

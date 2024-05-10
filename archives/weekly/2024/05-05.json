@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715340858556,
+  "endTime": 1715344372529,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -49,6 +49,14 @@
       "onboard_time": 1715180361,
       "rank": 0,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 2917561,
+      "num": 2917561,
+      "word": "歌手直播",
+      "onboard_time": 1715341399,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2835678,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1738553,
-      "num": 307038,
+      "num": 403964,
       "word": "花少北 就不耽误你的第八年了",
       "onboard_time": 1715335220,
       "rank": 10,
@@ -1115,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1047153,
+      "num": 252487,
+      "word": "丈夫婚检查出乙肝妻子要离婚",
+      "onboard_time": 1715338639,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1042097,
       "num": 1042097,
       "word": "李晓旭受伤",
@@ -1795,14 +1811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 781088,
-      "num": 227837,
-      "word": "丈夫婚检查出乙肝妻子要离婚",
-      "onboard_time": 1715338639,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 773996,
       "num": 401689,
       "word": "百度副总裁被曝安排工作言辞激烈",
@@ -2155,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 702386,
+      "num": 510198,
+      "word": "费可 转账一停感情归零",
+      "onboard_time": 1715341399,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 702219,
       "num": 673153,
       "word": "云南昭通一小区通知不要给陌生人开门",
@@ -2224,6 +2240,14 @@
       "word": "伊利 莎头",
       "onboard_time": 1715304737,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 692054,
+      "num": 692054,
+      "word": "马龙王楚钦男双决赛",
+      "onboard_time": 1715321360,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -2700,7 +2724,7 @@
     },
     {
       "raw_hot": 617992,
-      "num": 290387,
+      "num": 383001,
       "word": "易梦玲 头包脸",
       "onboard_time": 1715338698,
       "rank": 13,
@@ -2729,6 +2753,14 @@
       "onboard_time": 1715302698,
       "rank": 20,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 615518,
+      "num": 396298,
+      "word": "文淇 荷兰血统",
+      "onboard_time": 1715342958,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 614727,
@@ -2801,6 +2833,14 @@
       "onboard_time": 1714884019,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 605178,
+      "num": 444032,
+      "word": "歌手",
+      "onboard_time": 1714966399,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 604841,
@@ -3339,6 +3379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 523663,
+      "num": 466914,
+      "word": "歌手2024殿堂级舞美",
+      "onboard_time": 1715338398,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523167,
       "num": 523167,
       "word": "庆余年2拍了范闲林婉儿大婚",
@@ -3843,6 +3891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 472442,
+      "num": 472442,
+      "word": "陈梦王曼昱大满贯夺冠",
+      "onboard_time": 1715341937,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 470167,
       "num": 274942,
       "word": "赵丽颖孙千合拍跳舞",
@@ -3873,14 +3929,6 @@
       "onboard_time": 1715081658,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 466914,
-      "num": 466914,
-      "word": "歌手2024殿堂级舞美",
-      "onboard_time": 1715338398,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 466390,
@@ -4417,6 +4465,14 @@
       "onboard_time": 1715248340,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 421416,
+      "num": 421416,
+      "word": "交警回应南通车祸现场红绿灯情况",
+      "onboard_time": 1715339239,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421216,
@@ -5051,6 +5107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 368582,
+      "num": 368582,
+      "word": "杨紫直播",
+      "onboard_time": 1715343799,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367848,
       "num": 295151,
       "word": "王耀庆连续煎了21天鸡蛋",
@@ -5171,6 +5235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362088,
+      "num": 362088,
+      "word": "赵露思名媛千金风",
+      "onboard_time": 1715342419,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 362033,
       "num": 362033,
       "word": "日食记生煎馒头",
@@ -5249,6 +5321,14 @@
       "onboard_time": 1715048778,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357554,
+      "num": 211545,
+      "word": "六种很脏的生活习惯",
+      "onboard_time": 1715343497,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 357299,
@@ -6291,14 +6371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295565,
-      "num": 295565,
-      "word": "歌手",
-      "onboard_time": 1714966399,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295179,
       "num": 295179,
       "word": "iPad Air尺寸",
@@ -6393,6 +6465,14 @@
       "onboard_time": 1714914859,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289488,
+      "num": 289488,
+      "word": "朱芳雨确认周琦缺席",
+      "onboard_time": 1715340259,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 289112,
@@ -6811,6 +6891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 271913,
+      "num": 251728,
+      "word": "恋爱兄妹",
+      "onboard_time": 1715339179,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271901,
       "num": 271901,
       "word": "贵州吃酸是以酸代盐",
@@ -7035,14 +7123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262938,
-      "num": 262938,
-      "word": "朱芳雨确认周琦缺席",
-      "onboard_time": 1715340259,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262895,
       "num": 262895,
       "word": "维和防暴队开分5.6分",
@@ -7235,14 +7315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255256,
-      "num": 255256,
-      "word": "交警回应南通车祸现场红绿灯情况",
-      "onboard_time": 1715339239,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254416,
       "num": 254416,
       "word": "封神第一部真现象级电影",
@@ -7299,6 +7371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 252589,
+      "num": 252589,
+      "word": "西安天气",
+      "onboard_time": 1715341159,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252429,
       "num": 252429,
       "word": "张新成去埃及了",
@@ -7321,6 +7401,14 @@
       "onboard_time": 1715241799,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251515,
+      "num": 251515,
+      "word": "我的阿勒泰",
+      "onboard_time": 1715055680,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 250891,
@@ -8099,14 +8187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225323,
-      "num": 225323,
-      "word": "恋爱兄妹",
-      "onboard_time": 1715339179,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225264,
       "num": 225264,
       "word": "汤杯",
@@ -8699,6 +8779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211749,
+      "num": 211749,
+      "word": "于适双开门",
+      "onboard_time": 1715340858,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211728,
       "num": 211728,
       "word": "MetGala",
@@ -8761,6 +8849,14 @@
       "onboard_time": 1715041639,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 211100,
+      "num": 211100,
+      "word": "比亚迪",
+      "onboard_time": 1715343258,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 210846,
@@ -8971,6 +9067,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 206760,
+      "num": 206760,
+      "word": "西安地铁神秘黑衣男子身份查明",
+      "onboard_time": 1715340259,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206674,
       "num": 206674,
       "word": "恋与制作人 人间囚徒",
@@ -8984,14 +9088,6 @@
       "word": "庆余年黑猫警长联动",
       "onboard_time": 1715224159,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 206452,
-      "num": 206452,
-      "word": "我的阿勒泰",
-      "onboard_time": 1715055680,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -9699,6 +9795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196406,
+      "num": 196406,
+      "word": "奔跑吧",
+      "onboard_time": 1715343138,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196375,
       "num": 196375,
       "word": "Uzi谈老头杯选人的策略",
@@ -10113,6 +10217,14 @@
       "onboard_time": 1715185998,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191712,
+      "num": 191712,
+      "word": "北京晚霞",
+      "onboard_time": 1715342238,
+      "rank": 34,
+      "category": "自然"
     },
     {
       "raw_hot": 191709,
@@ -11435,12 +11547,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172773,
-      "num": 172773,
-      "word": "西安地铁神秘黑衣男子身份查明",
-      "onboard_time": 1715340259,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 172753,
+      "num": 172753,
+      "word": "张天爱腰好细",
+      "onboard_time": 1715343919,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172553,
@@ -12611,6 +12723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154167,
+      "num": 410914,
+      "word": "我的中式血脉觉醒了",
+      "onboard_time": 1715341218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154133,
       "num": 154133,
       "word": "福建舰首航无标4K高清视频",
@@ -12705,6 +12825,14 @@
       "onboard_time": 1714871478,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153070,
+      "num": 153070,
+      "word": "张钧甯好薄的背",
+      "onboard_time": 1715344098,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152940,
@@ -13419,6 +13547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142873,
+      "num": 142873,
+      "word": "AG对战狼队",
+      "onboard_time": 1715342058,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142764,
       "num": 146884,
       "word": "金店店长称从业20年这个五一生意最淡",
@@ -13625,6 +13761,14 @@
       "onboard_time": 1714986079,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139705,
+      "num": 139705,
+      "word": "双鱼座从不让话掉地上",
+      "onboard_time": 1715337798,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 139697,
@@ -14289,6 +14433,22 @@
       "onboard_time": 1715295615,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 127280,
+      "num": 127280,
+      "word": "怪不得这场戏拍了九个大夜",
+      "onboard_time": 1715344158,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127272,
+      "num": 127272,
+      "word": "陈梦王曼昱女双决赛",
+      "onboard_time": 1715340798,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 127224,
@@ -15107,20 +15267,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 114256,
-      "num": 114256,
-      "word": "双鱼座从不让话掉地上",
-      "onboard_time": 1715337798,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 113845,
       "num": 113845,
       "word": "向佐终于被认可了",
       "onboard_time": 1714897698,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113521,
+      "num": 113521,
+      "word": "大帅极限守家",
+      "onboard_time": 1715344338,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 113093,
@@ -15249,14 +15409,6 @@
       "onboard_time": 1715014154,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109339,
-      "num": 109339,
-      "word": "陈梦王曼昱女双决赛",
-      "onboard_time": 1715340798,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 109050,
@@ -16099,14 +16251,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 71127,
-      "num": 133251,
-      "word": "马龙王楚钦男双决赛",
-      "onboard_time": 1715321360,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70980,
       "num": 364222,
       "word": "来一场古风国潮旅游",
@@ -16779,6 +16923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22594,
+      "num": 369365,
+      "word": "这些国货年纪比我还大",
+      "onboard_time": 1715342839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22501,
       "num": 27691,
       "word": "章鱼的智慧",
@@ -16801,6 +16953,14 @@
       "onboard_time": 1715059938,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21143,
+      "num": 528913,
+      "word": "一条Vlog品味中塞铁杆友谊",
+      "onboard_time": 1715326759,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20473,
