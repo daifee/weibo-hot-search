@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715322990518,
+  "endTime": 1715325528296,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1992399,
+      "num": 575983,
+      "word": "南通车祸",
+      "onboard_time": 1715324600,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1982852,
       "num": 1982852,
       "word": "徐杰怒吼",
@@ -639,6 +647,14 @@
       "num": 1024128,
       "word": "云南镇雄持刀伤人案致21伤2死",
       "onboard_time": 1715064739,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1524965,
+      "num": 529161,
+      "word": "南通一学生大巴车与渣土车发生碰撞",
+      "onboard_time": 1715324840,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -1441,6 +1457,14 @@
       "onboard_time": 1715211677,
       "rank": 3,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 1132771,
+      "num": 439821,
+      "word": "戚薇P腿",
+      "onboard_time": 1715322438,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1129942,
@@ -2524,7 +2548,7 @@
     },
     {
       "raw_hot": 828020,
-      "num": 244605,
+      "num": 283588,
       "word": "首批丁克家庭后遗症如期而至",
       "onboard_time": 1715313798,
       "rank": 22,
@@ -3651,6 +3675,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 666933,
+      "num": 1005468,
+      "word": "上海00后中奖100万实现局部退休",
+      "onboard_time": 1715324359,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666690,
       "num": 666690,
       "word": "俄媒称俄内务部决定通缉泽连斯基",
@@ -4267,6 +4299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607935,
+      "num": 607935,
+      "word": "深圳王婆说媒现场坐席空无一人",
+      "onboard_time": 1715318359,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 607475,
       "num": 607475,
       "word": "为什么吃面比吃米更胖人",
@@ -4497,6 +4537,14 @@
       "onboard_time": 1715147961,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 578821,
+      "num": 393659,
+      "word": "打工攒钱留学的女孩在非洲去世",
+      "onboard_time": 1715322139,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576314,
@@ -5667,14 +5715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 480524,
-      "num": 480524,
-      "word": "深圳王婆说媒现场坐席空无一人",
-      "onboard_time": 1715318359,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478920,
       "num": 478920,
       "word": "十个勤天五四晚会舞台",
@@ -6401,6 +6441,14 @@
       "onboard_time": 1715060958,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 439568,
+      "num": 439568,
+      "word": "华晨宇新歌弹错了12次",
+      "onboard_time": 1715324478,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 437434,
@@ -7403,6 +7451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388297,
+      "num": 388297,
+      "word": "可口可乐 莎头",
+      "onboard_time": 1715322859,
+      "rank": 43,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 388118,
       "num": 239813,
       "word": "是研究生就会懂这五分钟的含金量",
@@ -7937,6 +7993,14 @@
       "onboard_time": 1714476257,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 365399,
+      "num": 365399,
+      "word": "杨紫以为承欢记是古装剧",
+      "onboard_time": 1715324898,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 364830,
@@ -8561,14 +8625,6 @@
       "onboard_time": 1714527018,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 338866,
-      "num": 211480,
-      "word": "戚薇P腿",
-      "onboard_time": 1715322438,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 338744,
@@ -10819,6 +10875,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 261156,
+      "num": 261156,
+      "word": "易烊千玺又出发了",
+      "onboard_time": 1715323160,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260892,
       "num": 205384,
       "word": "iPhone16有新工艺新配色",
@@ -10993,6 +11057,14 @@
       "onboard_time": 1715234119,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255447,
+      "num": 255447,
+      "word": "男孩因偷东西被绑在电线杆上抽打",
+      "onboard_time": 1715323697,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254930,
@@ -11265,6 +11337,14 @@
       "onboard_time": 1715252298,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247757,
+      "num": 247757,
+      "word": "那英曾与宋丹丹在异国街头吵架",
+      "onboard_time": 1715322859,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 247241,
@@ -12299,6 +12379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225950,
+      "num": 225950,
+      "word": "星穹铁道2.2",
+      "onboard_time": 1714890918,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225833,
       "num": 225833,
       "word": "WTT沙特大满贯抽签仪式",
@@ -13305,6 +13393,14 @@
       "onboard_time": 1714689793,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210536,
+      "num": 268425,
+      "word": "新疆把Windows草原壁纸变成了动态版",
+      "onboard_time": 1715322679,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 210517,
@@ -14881,6 +14977,14 @@
       "onboard_time": 1714994478,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196318,
+      "num": 196318,
+      "word": "我的阿勒泰豆瓣开分8.5",
+      "onboard_time": 1715325381,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 196278,
@@ -16529,14 +16633,6 @@
       "onboard_time": 1714576160,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181796,
-      "num": 173208,
-      "word": "打工攒钱留学的女孩在非洲去世",
-      "onboard_time": 1715322139,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181754,
@@ -18203,6 +18299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165709,
+      "num": 165709,
+      "word": "原来妈妈30年前就穿衣自由",
+      "onboard_time": 1715324000,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165595,
       "num": 165595,
       "word": "编剧大人 我不允许任何人辱骂你",
@@ -19649,6 +19753,14 @@
       "onboard_time": 1715226078,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151948,
+      "num": 151948,
+      "word": "刮刮乐不敢敞开卖了",
+      "onboard_time": 1715325199,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151946,
@@ -23316,7 +23428,7 @@
     },
     {
       "raw_hot": 119044,
-      "num": 200669,
+      "num": 598515,
       "word": "中国队冲刺备战巴黎奥运会",
       "onboard_time": 1715311458,
       "rank": 35,
@@ -23329,14 +23441,6 @@
       "onboard_time": 1715171540,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 118843,
-      "num": 118843,
-      "word": "星穹铁道2.2",
-      "onboard_time": 1714890918,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 118818,
@@ -23649,14 +23753,6 @@
       "onboard_time": 1714718959,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115640,
-      "num": 115640,
-      "word": "可口可乐 莎头",
-      "onboard_time": 1715322859,
-      "rank": 43,
-      "category": "体育,美食"
     },
     {
       "raw_hot": 115596,
@@ -24099,6 +24195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110871,
+      "num": 110871,
+      "word": "丁程鑫讹到导演组头上了",
+      "onboard_time": 1715323338,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110774,
       "num": 110774,
       "word": "为什么旅行是检验情侣的标准",
@@ -24433,14 +24537,6 @@
       "onboard_time": 1714779674,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106168,
-      "num": 115170,
-      "word": "新疆把Windows草原壁纸变成了动态版",
-      "onboard_time": 1715322679,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 106098,
@@ -24863,14 +24959,6 @@
       "num": 119534,
       "word": "又在鹭卓vlog里看到一年麦金黄",
       "onboard_time": 1715259078,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 99108,
-      "num": 115161,
-      "word": "那英曾与宋丹丹在异国街头吵架",
-      "onboard_time": 1715322859,
       "rank": 48,
       "category": "综艺"
     },
@@ -25923,6 +26011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64148,
+      "num": 521930,
+      "word": "这些匈牙利小朋友中文真溜",
+      "onboard_time": 1715322199,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63892,
       "num": 1915828,
       "word": "中法关于农业交流与合作的联合声明",
@@ -26595,6 +26691,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 33290,
+      "num": 380854,
+      "word": "一句广告语猜一个品牌",
+      "onboard_time": 1715324478,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32411,
       "num": 31230,
       "word": "纪凌尘回复宋威龙",
@@ -26639,14 +26743,6 @@
       "num": 454347,
       "word": "2024年中国品牌日",
       "onboard_time": 1715156899,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29781,
-      "num": 423350,
-      "word": "这些匈牙利小朋友中文真溜",
-      "onboard_time": 1715322199,
       "rank": 9,
       "category": "社会新闻"
     },

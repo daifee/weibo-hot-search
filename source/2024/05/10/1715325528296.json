@@ -1,0 +1,410 @@
+{
+  "runTime": 1715325528296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 666933,
+        "num": 1005468,
+        "word": "上海00后中奖100万实现局部退休",
+        "onboard_time": 1715324359,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607935,
+        "num": 607935,
+        "word": "深圳王婆说媒现场坐席空无一人",
+        "onboard_time": 1715318359,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23713,
+        "num": 598515,
+        "word": "中国队冲刺备战巴黎奥运会",
+        "onboard_time": 1715311458,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1992399,
+        "num": 575983,
+        "word": "南通车祸",
+        "onboard_time": 1715324600,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1524965,
+        "num": 529161,
+        "word": "南通一学生大巴车与渣土车发生碰撞",
+        "onboard_time": 1715324840,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64148,
+        "num": 521930,
+        "word": "这些匈牙利小朋友中文真溜",
+        "onboard_time": 1715322199,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1517980,
+        "num": 491292,
+        "word": "阜阳出现水泥封尸案嫌疑人已被抓",
+        "onboard_time": 1715319680,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132771,
+        "num": 439821,
+        "word": "戚薇P腿",
+        "onboard_time": 1715322438,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439568,
+        "num": 439568,
+        "word": "华晨宇新歌弹错了12次",
+        "onboard_time": 1715324478,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 408488,
+        "num": 408488,
+        "word": "贾玲电影邀约杨紫二话没说答应了",
+        "onboard_time": 1715321538,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23804,
+        "num": 398008,
+        "word": "实地打卡匈塞铁路贝诺段",
+        "onboard_time": 1715311698,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655636,
+        "num": 396311,
+        "word": "井柏然刘雯",
+        "onboard_time": 1715318301,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578821,
+        "num": 393659,
+        "word": "打工攒钱留学的女孩在非洲去世",
+        "onboard_time": 1715322139,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388297,
+        "num": 388297,
+        "word": "可口可乐 莎头",
+        "onboard_time": 1715322859,
+        "rank": 13,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 33290,
+        "num": 380854,
+        "word": "一句广告语猜一个品牌",
+        "onboard_time": 1715324478,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379726,
+        "num": 379726,
+        "word": "成都顶楼水泥封人视频系拼接",
+        "onboard_time": 1715319619,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365399,
+        "num": 365399,
+        "word": "杨紫以为承欢记是古装剧",
+        "onboard_time": 1715324898,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363163,
+        "num": 363163,
+        "word": "夏天千万别把洗衣机门一直开着",
+        "onboard_time": 1715311579,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330755,
+        "num": 330755,
+        "word": "青花瓷绝了",
+        "onboard_time": 1715320278,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294762,
+        "num": 294762,
+        "word": "迪丽热巴被张凌赫逗笑",
+        "onboard_time": 1715320340,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 937677,
+        "num": 287056,
+        "word": "花少北七年前女友",
+        "onboard_time": 1715313198,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 537508,
+        "num": 283588,
+        "word": "首批丁克家庭后遗症如期而至",
+        "onboard_time": 1715313798,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296611,
+        "num": 282879,
+        "word": "杨紫檀健次撞造型",
+        "onboard_time": 1715320580,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278385,
+        "num": 278385,
+        "word": "老人为亡子销户民警一个动作让他泪崩",
+        "onboard_time": 1715316621,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210536,
+        "num": 268425,
+        "word": "新疆把Windows草原壁纸变成了动态版",
+        "onboard_time": 1715322679,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 262618,
+        "num": 262618,
+        "word": "滁州警方回应水泥块中挖出尸体",
+        "onboard_time": 1715315180,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261156,
+        "num": 261156,
+        "word": "易烊千玺又出发了",
+        "onboard_time": 1715323160,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255447,
+        "num": 255447,
+        "word": "男孩因偷东西被绑在电线杆上抽打",
+        "onboard_time": 1715323697,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247757,
+        "num": 247757,
+        "word": "那英曾与宋丹丹在异国街头吵架",
+        "onboard_time": 1715322859,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239489,
+        "num": 239489,
+        "word": "陈丽君 甜妹",
+        "onboard_time": 1715318899,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225950,
+        "num": 225950,
+        "word": "星穹铁道2.2",
+        "onboard_time": 1715324898,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196318,
+        "num": 196318,
+        "word": "我的阿勒泰豆瓣开分8.5",
+        "onboard_time": 1715325381,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184866,
+        "num": 184866,
+        "word": "张真源谈与TFBOYS的关系",
+        "onboard_time": 1715316742,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165709,
+        "num": 165709,
+        "word": "原来妈妈30年前就穿衣自由",
+        "onboard_time": 1715324000,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160713,
+        "num": 160713,
+        "word": "卖不动的钻戒开始背叛爱情了",
+        "onboard_time": 1715318781,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156695,
+        "num": 156695,
+        "word": "寄电脑被烧毁保价4万德邦只赔1千",
+        "onboard_time": 1715314158,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155822,
+        "num": 155822,
+        "word": "肖战好薄的背",
+        "onboard_time": 1715313257,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151948,
+        "num": 151948,
+        "word": "刮刮乐不敢敞开卖了",
+        "onboard_time": 1715325199,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151708,
+        "num": 151708,
+        "word": "INFJ为什么是成熟的幼稚鬼",
+        "onboard_time": 1715318839,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144731,
+        "num": 144731,
+        "word": "张若昀牢记唐艺昕台词",
+        "onboard_time": 1715322139,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141851,
+        "num": 141851,
+        "word": "李彦宏内部评璩静风波",
+        "onboard_time": 1715305997,
+        "rank": 40,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 153985,
+        "num": 141327,
+        "word": "孟子义凭唇下痣秒认肖战",
+        "onboard_time": 1715313980,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139435,
+        "num": 139435,
+        "word": "奔跑吧全员给周深演唱会打call",
+        "onboard_time": 1715322679,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129777,
+        "num": 129777,
+        "word": "林更新要考博士",
+        "onboard_time": 1715299038,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127663,
+        "num": 127663,
+        "word": "女子直播吐槽看不起赚3000的男性",
+        "onboard_time": 1715318659,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120465,
+        "num": 120465,
+        "word": "容祖儿cha了汪苏泷的十万伏特",
+        "onboard_time": 1715322739,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119272,
+        "num": 119272,
+        "word": "宠物有望上高铁了",
+        "onboard_time": 1715309717,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116425,
+        "num": 116425,
+        "word": "教资面试试讲果然偷感十足",
+        "onboard_time": 1715318899,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110871,
+        "num": 110871,
+        "word": "丁程鑫讹到导演组头上了",
+        "onboard_time": 1715323338,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107831,
+        "num": 107831,
+        "word": "生日羞耻症",
+        "onboard_time": 1715306178,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈提升为新时代全天候全面战略伙伴关系#"
+    }
+  }
+}
