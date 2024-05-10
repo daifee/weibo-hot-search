@@ -1,10 +1,10 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715326467115,
+  "endTime": 1715329365292,
   "band_list": [
     {
-      "raw_hot": 3292844,
-      "num": 575983,
+      "raw_hot": 4276914,
+      "num": 4276914,
       "word": "南通车祸",
       "onboard_time": 1715324600,
       "rank": 3,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2363598,
-      "num": 529161,
+      "num": 1170674,
       "word": "南通一学生大巴车与渣土车发生碰撞",
       "onboard_time": 1715324840,
       "rank": 4,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2010898,
-      "num": 502010,
+      "num": 563766,
       "word": "阜阳出现水泥封尸案嫌疑人已被抓",
       "onboard_time": 1715319680,
       "rank": 3,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1255472,
+      "num": 1255472,
+      "word": "上海00后中奖100万实现局部退休",
+      "onboard_time": 1715324359,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1180955,
       "num": 437772,
       "word": "林更新要考博士",
@@ -92,23 +100,15 @@
     },
     {
       "raw_hot": 1132771,
-      "num": 462155,
+      "num": 980940,
       "word": "戚薇P腿",
       "onboard_time": 1715322438,
       "rank": 21,
       "category": "综艺"
     },
     {
-      "raw_hot": 1124996,
-      "num": 1124996,
-      "word": "上海00后中奖100万实现局部退休",
-      "onboard_time": 1715324359,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1099889,
-      "num": 456443,
+      "num": 484792,
       "word": "井柏然刘雯",
       "onboard_time": 1715318301,
       "rank": 11,
@@ -120,6 +120,14 @@
       "word": "滁州警方回应水泥块中挖出尸体",
       "onboard_time": 1715315180,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1037587,
+      "num": 550063,
+      "word": "警方通报南通车祸",
+      "onboard_time": 1715328139,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -144,6 +152,14 @@
       "word": "三亚出现椰子狸尾巴比身长",
       "onboard_time": 1715298556,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 904098,
+      "num": 904098,
+      "word": "警方通报阜阳水泥封尸案",
+      "onboard_time": 1715328018,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -235,6 +251,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 636919,
+      "num": 636919,
+      "word": "44岁体操皇后刘璇再上平衡木",
+      "onboard_time": 1715325620,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 636476,
       "num": 636476,
       "word": "靠运动减肥多久才开始起效",
@@ -249,6 +273,14 @@
       "onboard_time": 1715307977,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 620548,
+      "num": 620548,
+      "word": "华晨宇新歌弹错了12次",
+      "onboard_time": 1715324478,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 616412,
@@ -275,12 +307,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 572341,
-      "num": 457939,
-      "word": "华晨宇新歌弹错了12次",
-      "onboard_time": 1715324478,
-      "rank": 8,
-      "category": "音乐"
+      "raw_hot": 586555,
+      "num": 586555,
+      "word": "知情人回应水泥块中挖出尸体",
+      "onboard_time": 1715326581,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567644,
@@ -323,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 509412,
+      "num": 509412,
+      "word": "杨紫以为承欢记是古装剧",
+      "onboard_time": 1715324898,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507507,
       "num": 507507,
       "word": "诺基亚回归",
@@ -363,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 456389,
-      "num": 456389,
-      "word": "杨紫以为承欢记是古装剧",
-      "onboard_time": 1715324898,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 455723,
       "num": 455723,
       "word": "乘风二公",
@@ -385,6 +417,14 @@
       "onboard_time": 1715267119,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 438922,
+      "num": 438922,
+      "word": "台湾地震",
+      "onboard_time": 1715328199,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435331,
@@ -457,14 +497,6 @@
       "onboard_time": 1715301798,
       "rank": 21,
       "category": "数码"
-    },
-    {
-      "raw_hot": 382380,
-      "num": 382380,
-      "word": "44岁体操皇后刘璇再上平衡木",
-      "onboard_time": 1715325620,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 381952,
@@ -544,6 +576,14 @@
       "word": "全国仅剩6地未全面取消住房限购",
       "onboard_time": 1715241799,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306518,
+      "num": 249709,
+      "word": "刮刮乐不敢敞开卖了",
+      "onboard_time": 1715325199,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -683,6 +723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 265276,
+      "num": 265276,
+      "word": "杨幂晒哈尔滨一九四四合照",
+      "onboard_time": 1715327119,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262639,
       "num": 262639,
       "word": "孙颖莎王楚钦混双冠军",
@@ -745,14 +793,6 @@
       "onboard_time": 1715310496,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249709,
-      "num": 249709,
-      "word": "刮刮乐不敢敞开卖了",
-      "onboard_time": 1715325199,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246886,
@@ -881,6 +921,30 @@
       "onboard_time": 1715313859,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 221295,
+      "num": 221295,
+      "word": "南通车祸多名学生受伤送医院抢救",
+      "onboard_time": 1715329040,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216406,
+      "num": 216406,
+      "word": "青花瓷分数 低了",
+      "onboard_time": 1715328139,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214912,
+      "num": 214912,
+      "word": "教育局就600元防攀比鞋事件致歉",
+      "onboard_time": 1715328858,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214187,
@@ -1083,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178493,
+      "num": 178493,
+      "word": "金价上演过山车",
+      "onboard_time": 1715326520,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 176697,
       "num": 176697,
       "word": "刮刮乐的中奖概率有多少",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1715315659,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 167589,
+      "num": 167589,
+      "word": "新疆喀什发生4.2级地震",
+      "onboard_time": 1715327418,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167477,
@@ -1235,6 +1315,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 148305,
+      "num": 148305,
+      "word": "南部战区警告驱离擅闯西沙领海美舰",
+      "onboard_time": 1715328439,
+      "rank": 34,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 147120,
       "num": 147120,
       "word": "你上班多久了",
@@ -1259,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142181,
+      "num": 142181,
+      "word": "G2对战T1",
+      "onboard_time": 1715329040,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141946,
       "num": 141946,
       "word": "容祖儿cha了汪苏泷的十万伏特",
@@ -1273,6 +1369,14 @@
       "onboard_time": 1715305997,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141341,
+      "num": 141341,
+      "word": "真没修图不是AI",
+      "onboard_time": 1715328382,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 140807,
@@ -1320,6 +1424,14 @@
       "word": "种地吧直播",
       "onboard_time": 1715306238,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137168,
+      "num": 137168,
+      "word": "马嘉祺遇中戏考官",
+      "onboard_time": 1715328079,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1411,6 +1523,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133246,
+      "num": 133246,
+      "word": "记录婚后的冷暴力过程",
+      "onboard_time": 1715329158,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133237,
+      "num": 133237,
+      "word": "虞书欣叠戴项链",
+      "onboard_time": 1715327599,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 131568,
       "num": 131568,
       "word": "勒沃库森2比2罗马",
@@ -1435,6 +1563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129213,
+      "num": 129213,
+      "word": "成家开机",
+      "onboard_time": 1715328018,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129021,
       "num": 329805,
       "word": "淘宝又免单了",
@@ -1449,6 +1585,14 @@
       "onboard_time": 1715295615,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 126776,
+      "num": 600851,
+      "word": "小城旅游人数蹭蹭蹭蹭长",
+      "onboard_time": 1715326759,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126219,
@@ -1561,6 +1705,14 @@
       "onboard_time": 1715320039,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115202,
+      "num": 115202,
+      "word": "蒋敦豪 把眼前的地种好",
+      "onboard_time": 1715326459,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 114315,
@@ -1899,6 +2051,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 53445,
+      "num": 220580,
+      "word": "姐姐美白易如反掌",
+      "onboard_time": 1715325739,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 52227,
       "num": 380854,
       "word": "一句广告语猜一个品牌",
@@ -1963,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37310,
+      "num": 1204423,
+      "word": "这个中字代表中匈两国的友谊",
+      "onboard_time": 1715326939,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35485,
       "num": 289216,
       "word": "奇瑞高管团诚意交付星纪元ET",
@@ -1977,14 +2145,6 @@
       "onboard_time": 1715279231,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 21769,
-      "num": 151416,
-      "word": "姐姐美白易如反掌",
-      "onboard_time": 1715325739,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 18022,
@@ -2023,6 +2183,9 @@
     },
     {
       "word": "#习近平同匈牙利总理共同会见记者#"
+    },
+    {
+      "word": "#习近平同匈牙利总理欧尔班举行会谈#"
     }
   ]
 }

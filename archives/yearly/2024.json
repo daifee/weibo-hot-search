@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1715326467115,
+  "endTime": 1715329365292,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1059,6 +1059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 4276914,
+      "num": 4276914,
+      "word": "南通车祸",
+      "onboard_time": 1715324600,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4253531,
       "num": 4253531,
       "word": "邯郸初中生遇害案死者被活埋不实",
@@ -1713,14 +1721,6 @@
       "onboard_time": 1708088676,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3292844,
-      "num": 575983,
-      "word": "南通车祸",
-      "onboard_time": 1715324600,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3292604,

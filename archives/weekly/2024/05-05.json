@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715326467115,
+  "endTime": 1715329365292,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -11,8 +11,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 3292844,
-      "num": 575983,
+      "raw_hot": 4276914,
+      "num": 4276914,
       "word": "南通车祸",
       "onboard_time": 1715324600,
       "rank": 3,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2363598,
-      "num": 529161,
+      "num": 1170674,
       "word": "南通一学生大巴车与渣土车发生碰撞",
       "onboard_time": 1715324840,
       "rank": 4,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2010898,
-      "num": 502010,
+      "num": 563766,
       "word": "阜阳出现水泥封尸案嫌疑人已被抓",
       "onboard_time": 1715319680,
       "rank": 3,
@@ -691,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1255472,
+      "num": 1255472,
+      "word": "上海00后中奖100万实现局部退休",
+      "onboard_time": 1715324359,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1251951,
       "num": 490447,
       "word": "百度副总裁深夜致歉",
@@ -900,7 +908,7 @@
     },
     {
       "raw_hot": 1132771,
-      "num": 462155,
+      "num": 980940,
       "word": "戚薇P腿",
       "onboard_time": 1715322438,
       "rank": 21,
@@ -913,14 +921,6 @@
       "onboard_time": 1715091861,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1124996,
-      "num": 1124996,
-      "word": "上海00后中奖100万实现局部退休",
-      "onboard_time": 1715324359,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1118749,
@@ -972,7 +972,7 @@
     },
     {
       "raw_hot": 1099889,
-      "num": 456443,
+      "num": 484792,
       "word": "井柏然刘雯",
       "onboard_time": 1715318301,
       "rank": 11,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1715003539,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1037587,
+      "num": 550063,
+      "word": "警方通报南通车祸",
+      "onboard_time": 1715328139,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1036386,
@@ -1328,6 +1336,14 @@
       "word": "镇雄城南医院",
       "onboard_time": 1715063238,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 904098,
+      "num": 904098,
+      "word": "警方通报阜阳水泥封尸案",
+      "onboard_time": 1715328018,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2515,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636919,
+      "num": 636919,
+      "word": "44岁体操皇后刘璇再上平衡木",
+      "onboard_time": 1715325620,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 636476,
       "num": 636476,
       "word": "靠运动减肥多久才开始起效",
@@ -2601,6 +2625,14 @@
       "onboard_time": 1715233399,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 620548,
+      "num": 620548,
+      "word": "华晨宇新歌弹错了12次",
+      "onboard_time": 1715324478,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 620236,
@@ -2811,6 +2843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 586555,
+      "num": 586555,
+      "word": "知情人回应水泥块中挖出尸体",
+      "onboard_time": 1715326581,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585149,
       "num": 332946,
       "word": "原来上班真的能跨越阶级",
@@ -2873,14 +2913,6 @@
       "onboard_time": 1715243419,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 572341,
-      "num": 457939,
-      "word": "华晨宇新歌弹错了12次",
-      "onboard_time": 1715324478,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 570996,
@@ -3329,6 +3361,14 @@
       "onboard_time": 1714869857,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 509412,
+      "num": 509412,
+      "word": "杨紫以为承欢记是古装剧",
+      "onboard_time": 1715324898,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 508628,
@@ -3843,14 +3883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 456389,
-      "num": 456389,
-      "word": "杨紫以为承欢记是古装剧",
-      "onboard_time": 1715324898,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 455723,
       "num": 455723,
       "word": "乘风二公",
@@ -4057,6 +4089,14 @@
       "onboard_time": 1715060958,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 438922,
+      "num": 438922,
+      "word": "台湾地震",
+      "onboard_time": 1715328199,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437147,
@@ -4721,14 +4761,6 @@
       "onboard_time": 1715083219,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382380,
-      "num": 382380,
-      "word": "44岁体操皇后刘璇再上平衡木",
-      "onboard_time": 1715325620,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 381952,
@@ -5931,6 +5963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306518,
+      "num": 249709,
+      "word": "刮刮乐不敢敞开卖了",
+      "onboard_time": 1715325199,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306350,
       "num": 306350,
       "word": "HYBE深夜到ADOR女员工家里非法调查",
@@ -6755,6 +6795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265276,
+      "num": 265276,
+      "word": "杨幂晒哈尔滨一九四四合照",
+      "onboard_time": 1715327119,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265145,
       "num": 265145,
       "word": "减肥要做到3个一",
@@ -7089,14 +7137,6 @@
       "onboard_time": 1715056099,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 249709,
-      "num": 249709,
-      "word": "刮刮乐不敢敞开卖了",
-      "onboard_time": 1715325199,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249473,
@@ -7979,6 +8019,14 @@
       "category": "科学科普,自然"
     },
     {
+      "raw_hot": 221295,
+      "num": 221295,
+      "word": "南通车祸多名学生受伤送医院抢救",
+      "onboard_time": 1715329040,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221261,
       "num": 221261,
       "word": "森林狼vs掘金",
@@ -8187,6 +8235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216406,
+      "num": 216406,
+      "word": "青花瓷分数 低了",
+      "onboard_time": 1715328139,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216394,
       "num": 216394,
       "word": "金秀贤快碎了",
@@ -8265,6 +8321,14 @@
       "onboard_time": 1715059759,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214912,
+      "num": 214912,
+      "word": "教育局就600元防攀比鞋事件致歉",
+      "onboard_time": 1715328858,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214781,
@@ -10651,6 +10715,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 178493,
+      "num": 178493,
+      "word": "金价上演过山车",
+      "onboard_time": 1715326520,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178170,
       "num": 178170,
       "word": "mlxg回应Doinb说容易红温",
@@ -11353,6 +11425,14 @@
       "onboard_time": 1714891037,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 167589,
+      "num": 167589,
+      "word": "新疆喀什发生4.2级地震",
+      "onboard_time": 1715327418,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167477,
@@ -12619,6 +12699,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 148305,
+      "num": 148305,
+      "word": "南部战区警告驱离擅闯西沙领海美舰",
+      "onboard_time": 1715328439,
+      "rank": 34,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 147721,
       "num": 147721,
       "word": "周洛对南雅被侵犯道歉",
@@ -12995,6 +13083,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 142181,
+      "num": 142181,
+      "word": "G2对战T1",
+      "onboard_time": 1715329040,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142169,
       "num": 142169,
       "word": "鞠婧祎露腰穿搭",
@@ -13057,6 +13153,14 @@
       "onboard_time": 1715179942,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141341,
+      "num": 141341,
+      "word": "真没修图不是AI",
+      "onboard_time": 1715328382,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 140807,
@@ -13248,6 +13352,14 @@
       "word": "种地吧直播",
       "onboard_time": 1715306238,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137168,
+      "num": 137168,
+      "word": "马嘉祺遇中戏考官",
+      "onboard_time": 1715328079,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -13523,12 +13635,28 @@
       "category": "科学科普,情感"
     },
     {
+      "raw_hot": 133246,
+      "num": 133246,
+      "word": "记录婚后的冷暴力过程",
+      "onboard_time": 1715329158,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "新款iPadPro仍不支持息屏常显",
       "onboard_time": 1715131281,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 133237,
+      "num": 133237,
+      "word": "虞书欣叠戴项链",
+      "onboard_time": 1715327599,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 133168,
@@ -13731,6 +13859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129213,
+      "num": 129213,
+      "word": "成家开机",
+      "onboard_time": 1715328018,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129021,
       "num": 329805,
       "word": "淘宝又免单了",
@@ -13817,6 +13953,14 @@
       "onboard_time": 1715261358,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 126776,
+      "num": 600851,
+      "word": "小城旅游人数蹭蹭蹭蹭长",
+      "onboard_time": 1715326759,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126735,
@@ -14497,6 +14641,14 @@
       "onboard_time": 1715218879,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115202,
+      "num": 115202,
+      "word": "蒋敦豪 把眼前的地种好",
+      "onboard_time": 1715326459,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 115169,
@@ -15739,6 +15891,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 53445,
+      "num": 220580,
+      "word": "姐姐美白易如反掌",
+      "onboard_time": 1715325739,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 52670,
       "num": 52670,
       "word": "帝释天 仙品",
@@ -16003,6 +16163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37310,
+      "num": 1204423,
+      "word": "这个中字代表中匈两国的友谊",
+      "onboard_time": 1715326939,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36019,
       "num": 45541,
       "word": "高息存款正在消失吗",
@@ -16129,14 +16297,6 @@
       "onboard_time": 1715279231,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 21769,
-      "num": 151416,
-      "word": "姐姐美白易如反掌",
-      "onboard_time": 1715325739,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 21727,
@@ -16412,6 +16572,9 @@
     },
     {
       "word": "#习近平同匈牙利总理共同会见记者#"
+    },
+    {
+      "word": "#习近平同匈牙利总理欧尔班举行会谈#"
     }
   ]
 }
