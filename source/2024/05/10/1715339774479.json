@@ -1,0 +1,410 @@
+{
+  "runTime": 1715339774479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 954686,
+        "num": 954686,
+        "word": "苹果税",
+        "onboard_time": 1715335040,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 486909,
+        "num": 486909,
+        "word": "时尚芭莎年度派对",
+        "onboard_time": 1715334319,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 36527,
+        "num": 413791,
+        "word": "这个中字代表中匈两国的友谊",
+        "onboard_time": 1715326939,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643424,
+        "num": 385135,
+        "word": "美国女子凌晨遭勒脖拖走强奸",
+        "onboard_time": 1715334800,
+        "rank": 3,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 342929,
+        "num": 342929,
+        "word": "不要笑 不然你会有很多男朋友的",
+        "onboard_time": 1715335700,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340631,
+        "num": 340631,
+        "word": "戚薇P腿",
+        "onboard_time": 1715322438,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26053,
+        "num": 332747,
+        "word": "欧洲姑娘用凤凰传奇歌词学中文",
+        "onboard_time": 1715333058,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325061,
+        "num": 325061,
+        "word": "歌手2024殿堂级舞美",
+        "onboard_time": 1715338398,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320500,
+        "num": 320500,
+        "word": "周琦缺席",
+        "onboard_time": 1715334080,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309436,
+        "num": 309436,
+        "word": "庞博主持",
+        "onboard_time": 1715336298,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1327828,
+        "num": 307038,
+        "word": "花少北 就不耽误你的第八年了",
+        "onboard_time": 1715335220,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1151111,
+        "num": 300061,
+        "word": "南通车祸",
+        "onboard_time": 1715324600,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458905,
+        "num": 295175,
+        "word": "林允 把玫瑰穿身上",
+        "onboard_time": 1715336781,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402982,
+        "num": 290387,
+        "word": "易梦玲 头包脸",
+        "onboard_time": 1715338698,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397427,
+        "num": 288121,
+        "word": "教育局就600元防攀比鞋事件致歉",
+        "onboard_time": 1715328858,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335674,
+        "num": 281055,
+        "word": "首批丁克家庭后遗症如期而至",
+        "onboard_time": 1715313798,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279958,
+        "num": 279958,
+        "word": "汪海林给杨幂演技打分",
+        "onboard_time": 1715335700,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277528,
+        "num": 277528,
+        "word": "上海00后中奖100万实现局部退休",
+        "onboard_time": 1715324359,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239458,
+        "num": 239458,
+        "word": "王源 指纹锁",
+        "onboard_time": 1715335939,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186167,
+        "num": 186167,
+        "word": "南通一学生大巴车与渣土车发生碰撞",
+        "onboard_time": 1715324840,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468828,
+        "num": 186073,
+        "word": "丈夫婚检查出乙肝妻子要离婚",
+        "onboard_time": 1715338639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415749,
+        "num": 186037,
+        "word": "花少北七年前女友",
+        "onboard_time": 1715313198,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 263067,
+        "num": 185973,
+        "word": "王一博小时候骑的是真老虎",
+        "onboard_time": 1715337139,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201343,
+        "num": 185781,
+        "word": "许嵩巡演官宣3城",
+        "onboard_time": 1715338698,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185779,
+        "num": 185779,
+        "word": "阜阳水泥封尸案双方系朋友关系",
+        "onboard_time": 1715330538,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179166,
+        "num": 179166,
+        "word": "知情人回应水泥块中挖出尸体",
+        "onboard_time": 1715326581,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167437,
+        "num": 167437,
+        "word": "睡前待审批软件一览",
+        "onboard_time": 1715337798,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166124,
+        "num": 166124,
+        "word": "恋爱兄妹",
+        "onboard_time": 1715339179,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161734,
+        "num": 161734,
+        "word": "03年男生代打游戏月赚3万",
+        "onboard_time": 1715330179,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142977,
+        "num": 154218,
+        "word": "交警回应南通车祸现场红绿灯情况",
+        "onboard_time": 1715339239,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151278,
+        "num": 151278,
+        "word": "华晨宇新歌弹错了12次",
+        "onboard_time": 1715324478,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148105,
+        "num": 148105,
+        "word": "奔跑吧今晚又双提更",
+        "onboard_time": 1715336359,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145915,
+        "num": 145915,
+        "word": "刮刮乐不敢敞开卖了",
+        "onboard_time": 1715325199,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137158,
+        "num": 137158,
+        "word": "打工攒钱留学的女孩在非洲去世",
+        "onboard_time": 1715322139,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133006,
+        "num": 133006,
+        "word": "张艺兴戏腔",
+        "onboard_time": 1715339298,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129226,
+        "num": 129226,
+        "word": "胡锡进加仓至66万元",
+        "onboard_time": 1715335758,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127325,
+        "num": 127325,
+        "word": "歌手",
+        "onboard_time": 1715332397,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120978,
+        "num": 120978,
+        "word": "想睡就睡是个很强大的能力",
+        "onboard_time": 1715332039,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118635,
+        "num": 118635,
+        "word": "鬼灭之刃第四季只有5集",
+        "onboard_time": 1715338040,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 118177,
+        "num": 118177,
+        "word": "NewJeans拼车",
+        "onboard_time": 1715333479,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115585,
+        "num": 115585,
+        "word": "种地吧 小麦",
+        "onboard_time": 1715338938,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114256,
+        "num": 114256,
+        "word": "双鱼座从不让话掉地上",
+        "onboard_time": 1715337798,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113071,
+        "num": 113071,
+        "word": "Caps单杀Faker",
+        "onboard_time": 1715337139,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112195,
+        "num": 112195,
+        "word": "我的阿勒泰豆瓣开分8.5",
+        "onboard_time": 1715325381,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111736,
+        "num": 111736,
+        "word": "G2对战T1",
+        "onboard_time": 1715329040,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110943,
+        "num": 110943,
+        "word": "南通车祸多名学生受伤送医院抢救",
+        "onboard_time": 1715329040,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102116,
+        "num": 102116,
+        "word": "范思哲活动",
+        "onboard_time": 1715330781,
+        "rank": 46,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 93221,
+        "num": 93221,
+        "word": "被恶意剪辑污蔑水泥封尸女子报警",
+        "onboard_time": 1715337439,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92973,
+        "num": 92973,
+        "word": "黄景瑜直播",
+        "onboard_time": 1715335997,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92612,
+        "num": 92612,
+        "word": "新生",
+        "onboard_time": 1715319680,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#匈牙利女孩时隔15年再为习主席献花#"
+    }
+  }
+}

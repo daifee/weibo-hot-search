@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715337386035,
+  "endTime": 1715339774479,
   "band_list": [
     {
       "raw_hot": 4276914,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1738553,
-      "num": 294662,
+      "num": 307038,
       "word": "花少北 就不耽误你的第八年了",
       "onboard_time": 1715335220,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 954686,
+      "num": 954686,
+      "word": "苹果税",
+      "onboard_time": 1715335040,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 943014,
       "num": 308734,
       "word": "百度副总裁璩静已离职",
@@ -275,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 643424,
+      "num": 385135,
+      "word": "美国女子凌晨遭勒脖拖走强奸",
+      "onboard_time": 1715334800,
+      "rank": 13,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 638722,
       "num": 638722,
       "word": "杨紫的眼妆是一片星辰大海",
@@ -345,14 +361,6 @@
       "onboard_time": 1715311279,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 572623,
-      "num": 572623,
-      "word": "苹果税",
-      "onboard_time": 1715335040,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 567644,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468828,
+      "num": 186073,
+      "word": "丈夫婚检查出乙肝妻子要离婚",
+      "onboard_time": 1715338639,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461369,
       "num": 461369,
       "word": "台湾地震",
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458905,
+      "num": 295175,
+      "word": "林允 把玫瑰穿身上",
+      "onboard_time": 1715336781,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 455723,
       "num": 455723,
       "word": "乘风二公",
@@ -489,14 +513,6 @@
       "onboard_time": 1715320580,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 433494,
-      "num": 271004,
-      "word": "美国女子凌晨遭勒脖拖走强奸",
-      "onboard_time": 1715334800,
-      "rank": 13,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 431072,
@@ -537,6 +553,14 @@
       "onboard_time": 1715321538,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 402982,
+      "num": 290387,
+      "word": "易梦玲 头包脸",
+      "onboard_time": 1715338698,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 401147,
@@ -627,6 +651,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 342929,
+      "num": 342929,
+      "word": "不要笑 不然你会有很多男朋友的",
+      "onboard_time": 1715335700,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341434,
       "num": 240414,
       "word": "陈思建宵夜婚礼",
@@ -643,12 +675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332609,
-      "num": 237544,
-      "word": "林允 把玫瑰穿身上",
-      "onboard_time": 1715336781,
-      "rank": 13,
-      "category": "作品衍生"
+      "raw_hot": 325061,
+      "num": 325061,
+      "word": "歌手2024殿堂级舞美",
+      "onboard_time": 1715338398,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 320320,
@@ -657,6 +689,14 @@
       "onboard_time": 1715312537,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309436,
+      "num": 309436,
+      "word": "庞博主持",
+      "onboard_time": 1715336298,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 306688,
@@ -755,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279958,
+      "num": 279958,
+      "word": "汪海林给杨幂演技打分",
+      "onboard_time": 1715335700,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279030,
       "num": 279030,
       "word": "戚薇 好怕我们会得第一名",
@@ -769,14 +817,6 @@
       "onboard_time": 1715318781,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 275414,
-      "num": 275414,
-      "word": "汪海林给杨幂演技打分",
-      "onboard_time": 1715335700,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 274515,
@@ -849,6 +889,14 @@
       "onboard_time": 1715308636,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 263067,
+      "num": 185973,
+      "word": "王一博小时候骑的是真老虎",
+      "onboard_time": 1715337139,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262639,
@@ -961,6 +1009,14 @@
       "onboard_time": 1715309717,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239458,
+      "num": 239458,
+      "word": "王源 指纹锁",
+      "onboard_time": 1715335939,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 237228,
@@ -1179,6 +1235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201343,
+      "num": 185781,
+      "word": "许嵩巡演官宣3城",
+      "onboard_time": 1715338698,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198714,
       "num": 198714,
       "word": "璩静",
@@ -1195,28 +1259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196006,
-      "num": 196006,
-      "word": "不要笑 不然你会有很多男朋友的",
-      "onboard_time": 1715335700,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195773,
       "num": 195773,
       "word": "做一只吗喽",
       "onboard_time": 1715304677,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194375,
-      "num": 194375,
-      "word": "庞博主持",
-      "onboard_time": 1715336298,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 193786,
@@ -1339,14 +1387,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 180223,
-      "num": 180223,
-      "word": "王源 指纹锁",
-      "onboard_time": 1715335939,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 180037,
       "num": 153339,
       "word": "从粗糙开始一件事就已超越很多人",
@@ -1440,6 +1480,22 @@
       "word": "江疏影叫杨祐宁脱光衣服去游泳",
       "onboard_time": 1715289611,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167437,
+      "num": 167437,
+      "word": "睡前待审批软件一览",
+      "onboard_time": 1715337798,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 166124,
+      "num": 166124,
+      "word": "恋爱兄妹",
+      "onboard_time": 1715339179,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1600,6 +1656,14 @@
       "word": "父母反对远嫁女子离家25年失联",
       "onboard_time": 1715330118,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142977,
+      "num": 154218,
+      "word": "交警回应南通车祸现场红绿灯情况",
+      "onboard_time": 1715339239,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1811,6 +1875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 133006,
+      "num": 133006,
+      "word": "张艺兴戏腔",
+      "onboard_time": 1715339298,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131568,
       "num": 131568,
       "word": "勒沃库森2比2罗马",
@@ -1859,8 +1931,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 126976,
-      "num": 126976,
+      "raw_hot": 127325,
+      "num": 127325,
       "word": "歌手",
       "onboard_time": 1715332397,
       "rank": 43,
@@ -1963,14 +2035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119343,
-      "num": 119343,
-      "word": "王一博小时候骑的是真老虎",
-      "onboard_time": 1715337139,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 119336,
       "num": 119336,
       "word": "老阳回归狼队",
@@ -2003,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118635,
+      "num": 118635,
+      "word": "鬼灭之刃第四季只有5集",
+      "onboard_time": 1715338040,
+      "rank": 38,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 118225,
       "num": 118225,
       "word": "你是王启年那我是谁",
@@ -2019,6 +2091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115585,
+      "num": 115585,
+      "word": "种地吧 小麦",
+      "onboard_time": 1715338938,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115202,
       "num": 115202,
       "word": "蒋敦豪 把眼前的地种好",
@@ -2033,6 +2113,22 @@
       "onboard_time": 1715307437,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 114256,
+      "num": 114256,
+      "word": "双鱼座从不让话掉地上",
+      "onboard_time": 1715337798,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 113071,
+      "num": 113071,
+      "word": "Caps单杀Faker",
+      "onboard_time": 1715337139,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 110915,
@@ -2163,20 +2259,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 94824,
-      "num": 99768,
-      "word": "Caps单杀Faker",
-      "onboard_time": 1715337139,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 94094,
       "num": 94094,
       "word": "莎头是冠军",
       "onboard_time": 1715272875,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93221,
+      "num": 93221,
+      "word": "被恶意剪辑污蔑水泥封尸女子报警",
+      "onboard_time": 1715337439,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92789,
