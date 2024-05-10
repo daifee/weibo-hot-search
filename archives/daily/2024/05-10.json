@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715311187030,
+  "endTime": 1715312074511,
   "band_list": [
     {
       "raw_hot": 1941391,
@@ -187,6 +187,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 436582,
+      "num": 436582,
+      "word": "杨紫的眼妆是一片星辰大海",
+      "onboard_time": 1715311458,
+      "rank": 6,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 431072,
+      "num": 431072,
+      "word": "CoCo口令",
+      "onboard_time": 1715308516,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 429867,
       "num": 191268,
       "word": "时代峰峻",
@@ -209,14 +225,6 @@
       "onboard_time": 1715305698,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 389533,
-      "num": 302745,
-      "word": "CoCo口令",
-      "onboard_time": 1715308516,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 387688,
@@ -251,8 +259,8 @@
       "category": "科学科普,科学科普"
     },
     {
-      "raw_hot": 348583,
-      "num": 302190,
+      "raw_hot": 352644,
+      "num": 310464,
       "word": "做博主7年为什么突然停更",
       "onboard_time": 1715305518,
       "rank": 30,
@@ -371,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266373,
+      "num": 266373,
+      "word": "NewJeans新专辑配置",
+      "onboard_time": 1715310918,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265902,
       "num": 265902,
       "word": "A股",
@@ -403,12 +419,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246886,
+      "num": 246886,
+      "word": "椰树回应被罚40万",
+      "onboard_time": 1715306898,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243787,
       "num": 243787,
       "word": "李彦宏称优秀员工才代表真实的百度",
       "onboard_time": 1715310258,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 240105,
+      "num": 240105,
+      "word": "夏天千万别把洗衣机门一直开着",
+      "onboard_time": 1715311579,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 237228,
@@ -443,14 +475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233683,
-      "num": 233683,
-      "word": "椰树回应被罚40万",
-      "onboard_time": 1715306898,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231348,
       "num": 228409,
       "word": "爸爸给我和妹妹买了两个虫",
@@ -483,6 +507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228429,
+      "num": 228429,
+      "word": "阿里宣布杭州全球总部启用",
+      "onboard_time": 1715311279,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 228305,
+      "num": 222089,
+      "word": "Ning建议老头杯改名红温杯",
+      "onboard_time": 1715311579,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225605,
       "num": 225605,
       "word": "彩礼过高部分农村男青年举债结婚",
@@ -491,8 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219649,
-      "num": 219649,
+      "raw_hot": 222096,
+      "num": 222096,
       "word": "宠物有望上高铁了",
       "onboard_time": 1715309717,
       "rank": 25,
@@ -523,20 +563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206578,
-      "num": 206578,
+      "raw_hot": 209052,
+      "num": 209052,
       "word": "董思成不参加威神V回归",
       "onboard_time": 1715310318,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204183,
-      "num": 204183,
-      "word": "NewJeans新专辑配置",
-      "onboard_time": 1715310918,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 203401,
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 203291,
-      "num": 203291,
+      "num": 222091,
       "word": "53岁保洁妈妈没工伤险被拒绝上门",
       "onboard_time": 1715308097,
       "rank": 28,
@@ -561,6 +593,14 @@
       "onboard_time": 1715271017,
       "rank": 18,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 197935,
+      "num": 197935,
+      "word": "我的阿勒泰今日会员收官",
+      "onboard_time": 1715311817,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 195773,
@@ -643,6 +683,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165250,
+      "num": 165250,
+      "word": "井柏然夸刘雯素颜太好看了",
+      "onboard_time": 1715311938,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164706,
+      "num": 249352,
+      "word": "肖战皓齿白东方大片",
+      "onboard_time": 1715310617,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161407,
       "num": 161407,
       "word": "狐妖小红娘红月篇",
@@ -657,6 +713,14 @@
       "onboard_time": 1715297416,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157802,
+      "num": 157802,
+      "word": "台湾花莲海域4.6级地震",
+      "onboard_time": 1715310858,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156497,
@@ -705,14 +769,6 @@
       "onboard_time": 1715271437,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142086,
-      "num": 142086,
-      "word": "台湾花莲海域4.6级地震",
-      "onboard_time": 1715310858,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141731,
@@ -835,14 +891,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 127219,
-      "num": 148941,
-      "word": "肖战皓齿白东方大片",
-      "onboard_time": 1715310617,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 126105,
       "num": 126105,
       "word": "王楚钦加油",
@@ -899,12 +947,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116404,
-      "num": 116404,
+      "raw_hot": 119564,
+      "num": 119564,
       "word": "王菲给尹昉送了花篮",
       "onboard_time": 1715310018,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119044,
+      "num": 200669,
+      "word": "中国队冲刺备战巴黎奥运会",
+      "onboard_time": 1715311458,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114315,
@@ -1211,6 +1267,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 41426,
+      "num": 222089,
+      "word": "于适保持活力的秘密找到了",
+      "onboard_time": 1715311637,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39864,
+      "num": 347994,
+      "word": "硬核国货又来了",
+      "onboard_time": 1715311518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38734,
       "num": 57791,
       "word": "范若若回归",
@@ -1220,7 +1292,7 @@
     },
     {
       "raw_hot": 35485,
-      "num": 283745,
+      "num": 289216,
       "word": "奇瑞高管团诚意交付星纪元ET",
       "onboard_time": 1715308516,
       "rank": 30,
@@ -1241,6 +1313,14 @@
       "onboard_time": 1715282470,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17013,
+      "num": 679783,
+      "word": "实地打卡匈塞铁路贝诺段",
+      "onboard_time": 1715311698,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14999,
@@ -1268,6 +1348,9 @@
     },
     {
       "word": "#中匈提升为新时代全天候全面战略伙伴关系#"
+    },
+    {
+      "word": "#习近平同匈牙利总理共同会见记者#"
     }
   ]
 }

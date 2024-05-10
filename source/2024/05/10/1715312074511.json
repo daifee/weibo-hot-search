@@ -1,0 +1,410 @@
+{
+  "runTime": 1715312074511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1321992,
+        "num": 1321992,
+        "word": "人事是怎么知道员工想离职的",
+        "onboard_time": 1715304138,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1886114,
+        "num": 1128421,
+        "word": "生日羞耻症",
+        "onboard_time": 1715306178,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17013,
+        "num": 679783,
+        "word": "实地打卡匈塞铁路贝诺段",
+        "onboard_time": 1715311698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643819,
+        "num": 643819,
+        "word": "人死后聊天记录会被怎样处理",
+        "onboard_time": 1715263821,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 581897,
+        "num": 581897,
+        "word": "伊利 莎头",
+        "onboard_time": 1715304737,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489413,
+        "num": 489413,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436582,
+        "num": 436582,
+        "word": "杨紫的眼妆是一片星辰大海",
+        "onboard_time": 1715311458,
+        "rank": 6,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 431072,
+        "num": 431072,
+        "word": "CoCo口令",
+        "onboard_time": 1715308516,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350726,
+        "num": 350726,
+        "word": "靠运动减肥多久才开始起效",
+        "onboard_time": 1715296756,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 39864,
+        "num": 347994,
+        "word": "硬核国货又来了",
+        "onboard_time": 1715311518,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1175881,
+        "num": 332924,
+        "word": "花少北 煎蛋",
+        "onboard_time": 1715299760,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1021110,
+        "num": 331068,
+        "word": "李彦宏内部评璩静风波",
+        "onboard_time": 1715305997,
+        "rank": 11,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 528639,
+        "num": 323806,
+        "word": "林更新要考博士",
+        "onboard_time": 1715299038,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352644,
+        "num": 310464,
+        "word": "做博主7年为什么突然停更",
+        "onboard_time": 1715305518,
+        "rank": 13,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 306163,
+        "num": 306163,
+        "word": "张艺凡被夸漂亮的反应",
+        "onboard_time": 1715305698,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34175,
+        "num": 289216,
+        "word": "奇瑞高管团诚意交付星纪元ET",
+        "onboard_time": 1715308516,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 279912,
+        "num": 279912,
+        "word": "HYBE深夜到ADOR女员工家里非法调查",
+        "onboard_time": 1715308457,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277609,
+        "num": 277609,
+        "word": "杭州取消限购有卖家跳涨三成",
+        "onboard_time": 1715300060,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 266373,
+        "num": 266373,
+        "word": "NewJeans新专辑配置",
+        "onboard_time": 1715310918,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256767,
+        "num": 256767,
+        "word": "A股",
+        "onboard_time": 1715308636,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164706,
+        "num": 249352,
+        "word": "肖战皓齿白东方大片",
+        "onboard_time": 1715310617,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354518,
+        "num": 248934,
+        "word": "经常看书和不看书的区别",
+        "onboard_time": 1715302698,
+        "rank": 21,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 246886,
+        "num": 246886,
+        "word": "椰树回应被罚40万",
+        "onboard_time": 1715306898,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246051,
+        "num": 246051,
+        "word": "百度离职副总裁4月成立新公司",
+        "onboard_time": 1715297655,
+        "rank": 23,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 242855,
+        "num": 242855,
+        "word": "蔡文静连续练了九个小时舞",
+        "onboard_time": 1715310496,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240105,
+        "num": 240105,
+        "word": "夏天千万别把洗衣机门一直开着",
+        "onboard_time": 1715311579,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234502,
+        "num": 234502,
+        "word": "肖战代言舒客",
+        "onboard_time": 1715307977,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228429,
+        "num": 228429,
+        "word": "阿里宣布杭州全球总部启用",
+        "onboard_time": 1715311279,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 222096,
+        "num": 222096,
+        "word": "宠物有望上高铁了",
+        "onboard_time": 1715309717,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202887,
+        "num": 222091,
+        "word": "53岁保洁妈妈没工伤险被拒绝上门",
+        "onboard_time": 1715308097,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41426,
+        "num": 222089,
+        "word": "于适保持活力的秘密找到了",
+        "onboard_time": 1715311637,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228305,
+        "num": 222089,
+        "word": "Ning建议老头杯改名红温杯",
+        "onboard_time": 1715311579,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222089,
+        "num": 222088,
+        "word": "李彦宏称优秀员工才代表真实的百度",
+        "onboard_time": 1715310258,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228156,
+        "num": 217282,
+        "word": "霉霉巴黎演唱会首演Fortnight",
+        "onboard_time": 1715310198,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209052,
+        "num": 209052,
+        "word": "董思成不参加威神V回归",
+        "onboard_time": 1715310318,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119044,
+        "num": 200669,
+        "word": "中国队冲刺备战巴黎奥运会",
+        "onboard_time": 1715311458,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197935,
+        "num": 197935,
+        "word": "我的阿勒泰今日会员收官",
+        "onboard_time": 1715311817,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181253,
+        "num": 181253,
+        "word": "张韶涵巡演官宣",
+        "onboard_time": 1715310018,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179864,
+        "num": 179864,
+        "word": "试打瘦肩针2美容店主一死一伤",
+        "onboard_time": 1715303778,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170509,
+        "num": 170509,
+        "word": "三亚出现椰子狸尾巴比身长",
+        "onboard_time": 1715298556,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165250,
+        "num": 165250,
+        "word": "井柏然夸刘雯素颜太好看了",
+        "onboard_time": 1715311938,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163389,
+        "num": 163389,
+        "word": "彩礼过高部分农村男青年举债结婚",
+        "onboard_time": 1715304500,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163069,
+        "num": 163069,
+        "word": "睡觉若有这5种不适或是疾病征兆",
+        "onboard_time": 1715300599,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157802,
+        "num": 157802,
+        "word": "台湾花莲海域4.6级地震",
+        "onboard_time": 1715310858,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153363,
+        "num": 153363,
+        "word": "苹果下一任CEO浮出水面",
+        "onboard_time": 1715305638,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149237,
+        "num": 149237,
+        "word": "尔滨三害判了嘎了毙了",
+        "onboard_time": 1715303599,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146478,
+        "num": 146478,
+        "word": "莎头",
+        "onboard_time": 1715309118,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135347,
+        "num": 135347,
+        "word": "做一只吗喽",
+        "onboard_time": 1715304677,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119592,
+        "num": 119592,
+        "word": "原来塞尔维亚女孩也抄歌词本",
+        "onboard_time": 1715305097,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119564,
+        "num": 119564,
+        "word": "王菲给尹昉送了花篮",
+        "onboard_time": 1715310018,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同匈牙利总理共同会见记者#"
+    }
+  }
+}
