@@ -1,9 +1,9 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715322239218,
+  "endTime": 1715322990518,
   "band_list": [
     {
-      "raw_hot": 1999922,
+      "raw_hot": 2010898,
       "num": 502010,
       "word": "阜阳出现水泥封尸案嫌疑人已被抓",
       "onboard_time": 1715319680,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1099889,
-      "num": 411674,
+      "num": 415568,
       "word": "井柏然刘雯",
       "onboard_time": 1715318301,
       "rank": 11,
@@ -291,8 +291,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473173,
-      "num": 473173,
+      "raw_hot": 480524,
+      "num": 480524,
       "word": "深圳王婆说媒现场坐席空无一人",
       "onboard_time": 1715318359,
       "rank": 22,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 459350,
-      "num": 385038,
+      "num": 414705,
       "word": "成都顶楼水泥封人视频系拼接",
       "onboard_time": 1715319619,
       "rank": 12,
@@ -361,6 +361,14 @@
       "onboard_time": 1715262560,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412889,
+      "num": 412889,
+      "word": "贾玲电影邀约杨紫二话没说答应了",
+      "onboard_time": 1715321538,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 401147,
@@ -443,6 +451,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 338866,
+      "num": 211480,
+      "word": "戚薇P腿",
+      "onboard_time": 1715322438,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335232,
       "num": 335232,
       "word": "青花瓷绝了",
@@ -481,14 +497,6 @@
       "onboard_time": 1715304257,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 298924,
-      "num": 298924,
-      "word": "贾玲电影邀约杨紫二话没说答应了",
-      "onboard_time": 1715321538,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 294855,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 276676,
-      "num": 199020,
+      "num": 210200,
       "word": "卖不动的钻戒开始背叛爱情了",
       "onboard_time": 1715318781,
       "rank": 32,
@@ -780,7 +788,7 @@
     },
     {
       "raw_hot": 213002,
-      "num": 195717,
+      "num": 208267,
       "word": "虞书欣黑化千金",
       "onboard_time": 1715319319,
       "rank": 23,
@@ -932,11 +940,19 @@
     },
     {
       "raw_hot": 183354,
-      "num": 183354,
+      "num": 215914,
       "word": "INFJ为什么是成熟的幼稚鬼",
       "onboard_time": 1715318839,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181796,
+      "num": 173208,
+      "word": "打工攒钱留学的女孩在非洲去世",
+      "onboard_time": 1715322139,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180037,
@@ -969,6 +985,22 @@
       "onboard_time": 1715296756,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173676,
+      "num": 173676,
+      "word": "张若昀牢记唐艺昕台词",
+      "onboard_time": 1715322139,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171560,
+      "num": 171560,
+      "word": "奔跑吧全员给周深演唱会打call",
+      "onboard_time": 1715322679,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 168142,
@@ -1099,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141946,
+      "num": 141946,
+      "word": "容祖儿cha了汪苏泷的十万伏特",
+      "onboard_time": 1715322739,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 141731,
       "num": 141731,
       "word": "丫丫吃笋嘎嘎脆",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1715305097,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140071,
+      "num": 140071,
+      "word": "教资面试试讲果然偷感十足",
+      "onboard_time": 1715318899,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 138729,
@@ -1153,6 +1201,14 @@
       "onboard_time": 1715319139,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136750,
+      "num": 136750,
+      "word": "明天别忘了调闹钟",
+      "onboard_time": 1715321779,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 136455,
@@ -1249,14 +1305,6 @@
       "onboard_time": 1715306416,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 127478,
-      "num": 127478,
-      "word": "教资面试试讲果然偷感十足",
-      "onboard_time": 1715318899,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 127389,
@@ -1379,12 +1427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115819,
-      "num": 115819,
-      "word": "明天别忘了调闹钟",
-      "onboard_time": 1715321779,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 115640,
+      "num": 115640,
+      "word": "可口可乐 莎头",
+      "onboard_time": 1715322859,
+      "rank": 43,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 114315,
@@ -1427,6 +1475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106168,
+      "num": 115170,
+      "word": "新疆把Windows草原壁纸变成了动态版",
+      "onboard_time": 1715322679,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 105151,
       "num": 105151,
       "word": "欧文11助攻",
@@ -1459,14 +1515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100718,
-      "num": 100718,
-      "word": "张若昀牢记唐艺昕台词",
-      "onboard_time": 1715322139,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99357,
       "num": 101246,
       "word": "胡歌为拍这部戏观察我三年",
@@ -1480,6 +1528,14 @@
       "word": "迪丽热巴不考虑演反派吗",
       "onboard_time": 1715255896,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99108,
+      "num": 115161,
+      "word": "那英曾与宋丹丹在异国街头吵架",
+      "onboard_time": 1715322859,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1497,14 +1553,6 @@
       "onboard_time": 1715270838,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97253,
-      "num": 97253,
-      "word": "打工攒钱留学的女孩在非洲去世",
-      "onboard_time": 1715322139,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96810,
@@ -1787,6 +1835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 29781,
+      "num": 423350,
+      "word": "这些匈牙利小朋友中文真溜",
+      "onboard_time": 1715322199,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22484,
       "num": 25411,
       "word": "第五人格投票",
@@ -1816,14 +1872,6 @@
       "word": "陈丽君16次鞠躬回应粉丝",
       "onboard_time": 1715286851,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7152,
-      "num": 423350,
-      "word": "这些匈牙利小朋友中文真溜",
-      "onboard_time": 1715322199,
-      "rank": 9,
       "category": "社会新闻"
     }
   ],
