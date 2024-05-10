@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715332769449,
+  "endTime": 1715333681343,
   "band_list": [
     {
       "raw_hot": 4276914,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1126544,
+      "num": 1126544,
+      "word": "教育局就600元防攀比鞋事件致歉",
+      "onboard_time": 1715328858,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1099889,
       "num": 484792,
       "word": "井柏然刘雯",
@@ -120,14 +128,6 @@
       "word": "警方通报南通车祸",
       "onboard_time": 1715328139,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1088051,
-      "num": 1088051,
-      "word": "教育局就600元防攀比鞋事件致歉",
-      "onboard_time": 1715328858,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 554723,
-      "num": 423763,
+      "num": 468647,
       "word": "南通车祸多名学生受伤送医院抢救",
       "onboard_time": 1715329040,
       "rank": 19,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415964,
+      "num": 359967,
+      "word": "方时赫涉嫌渎职",
+      "onboard_time": 1715331497,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412889,
       "num": 412889,
       "word": "贾玲电影邀约杨紫二话没说答应了",
@@ -569,14 +577,6 @@
       "onboard_time": 1715252538,
       "rank": 26,
       "category": "科学科普,科学科普"
-    },
-    {
-      "raw_hot": 358317,
-      "num": 358317,
-      "word": "方时赫涉嫌渎职",
-      "onboard_time": 1715331497,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 352644,
@@ -803,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262356,
+      "num": 244083,
+      "word": "想睡就睡是个很强大的能力",
+      "onboard_time": 1715332039,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 261156,
       "num": 261156,
       "word": "易烊千玺又出发了",
@@ -881,6 +889,14 @@
       "onboard_time": 1715310258,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 242823,
+      "num": 242823,
+      "word": "陈哲远突然有了人父感",
+      "onboard_time": 1715331318,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 240304,
@@ -992,14 +1008,6 @@
       "word": "青花瓷分数 低了",
       "onboard_time": 1715328139,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 214717,
-      "num": 214717,
-      "word": "陈哲远突然有了人父感",
-      "onboard_time": 1715331318,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1132,7 +1140,7 @@
     },
     {
       "raw_hot": 193176,
-      "num": 180856,
+      "num": 183490,
       "word": "记录婚后的冷暴力过程",
       "onboard_time": 1715329158,
       "rank": 39,
@@ -1211,6 +1219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185198,
+      "num": 185198,
+      "word": "NewJeans拼车",
+      "onboard_time": 1715333479,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184737,
       "num": 184737,
       "word": "周杰伦提词器的浪漫",
@@ -1273,6 +1289,30 @@
       "onboard_time": 1715322139,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173363,
+      "num": 249340,
+      "word": "李斌介绍新品牌掌门人乐道铁成",
+      "onboard_time": 1715331558,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 173305,
+      "num": 173305,
+      "word": "中国人摄入反式脂肪酸的最主要来源",
+      "onboard_time": 1715330238,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 172364,
+      "num": 172364,
+      "word": "李晨郑恺撕名牌撕了十年",
+      "onboard_time": 1715331558,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 171560,
@@ -1339,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160380,
-      "num": 160380,
-      "word": "中国人摄入反式脂肪酸的最主要来源",
-      "onboard_time": 1715330238,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 158458,
       "num": 158458,
       "word": "陈梦大满贯晋级4强",
@@ -1361,14 +1393,6 @@
       "onboard_time": 1715310858,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156844,
-      "num": 156844,
-      "word": "想睡就睡是个很强大的能力",
-      "onboard_time": 1715332039,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 156497,
@@ -1387,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155798,
+      "num": 155798,
+      "word": "G2对战T1",
+      "onboard_time": 1715329040,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155571,
       "num": 155571,
       "word": "张颂文每年生日都有工作",
@@ -1401,22 +1433,6 @@
       "onboard_time": 1715314581,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152274,
-      "num": 152274,
-      "word": "李晨郑恺撕名牌撕了十年",
-      "onboard_time": 1715331558,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 152114,
-      "num": 152114,
-      "word": "G2对战T1",
-      "onboard_time": 1715329040,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 152016,
@@ -1475,12 +1491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142146,
-      "num": 227833,
-      "word": "李斌介绍新品牌掌门人乐道铁成",
-      "onboard_time": 1715331558,
-      "rank": 26,
-      "category": "汽车"
+      "raw_hot": 143165,
+      "num": 143165,
+      "word": "父母反对远嫁女子离家25年失联",
+      "onboard_time": 1715330118,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141946,
@@ -1489,6 +1505,14 @@
       "onboard_time": 1715322739,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141750,
+      "num": 141750,
+      "word": "东契奇采访现场出现不雅的声音",
+      "onboard_time": 1715333119,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 141731,
@@ -1520,6 +1544,14 @@
       "word": "原来塞尔维亚女孩也抄歌词本",
       "onboard_time": 1715305097,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140291,
+      "num": 166226,
+      "word": "坚守消毒级卫生巾15年的中国品牌",
+      "onboard_time": 1715333058,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1595,12 +1627,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135866,
-      "num": 135866,
-      "word": "父母反对远嫁女子离家25年失联",
-      "onboard_time": 1715330118,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 135688,
+      "num": 135688,
+      "word": "水灵灵的恩彩",
+      "onboard_time": 1715332699,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 135562,
@@ -1609,6 +1641,14 @@
       "onboard_time": 1715319680,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135229,
+      "num": 135229,
+      "word": "一代人有一代人的洗澡方式",
+      "onboard_time": 1715333180,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 134884,
@@ -1737,6 +1777,14 @@
       "onboard_time": 1715296996,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125060,
+      "num": 125060,
+      "word": "乘风2024二公歌单",
+      "onboard_time": 1715333539,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 124823,
@@ -1905,14 +1953,6 @@
       "onboard_time": 1715301318,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106439,
-      "num": 106439,
-      "word": "水灵灵的恩彩",
-      "onboard_time": 1715332699,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 105151,
@@ -2228,7 +2268,7 @@
     },
     {
       "raw_hot": 49892,
-      "num": 137285,
+      "num": 201732,
       "word": "蔚来第二品牌乐道生而成熟",
       "onboard_time": 1715332278,
       "rank": 40,
@@ -2299,6 +2339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27244,
+      "num": 361529,
+      "word": "欧洲姑娘用凤凰传奇歌词学中文",
+      "onboard_time": 1715333058,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22484,
       "num": 25411,
       "word": "第五人格投票",
@@ -2349,6 +2397,9 @@
     },
     {
       "word": "#习主席的欧洲之行#"
+    },
+    {
+      "word": "#匈牙利女孩时隔15年再为习主席献花#"
     }
   ]
 }

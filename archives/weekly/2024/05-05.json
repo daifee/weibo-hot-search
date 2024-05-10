@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715332769449,
+  "endTime": 1715333681343,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -923,6 +923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1126544,
+      "num": 1126544,
+      "word": "教育局就600元防攀比鞋事件致歉",
+      "onboard_time": 1715328858,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118749,
       "num": 1118749,
       "word": "庆余年2将登央八黄金档",
@@ -1000,14 +1008,6 @@
       "word": "节后上班第1天",
       "onboard_time": 1714951455,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1088051,
-      "num": 1088051,
-      "word": "教育局就600元防攀比鞋事件致歉",
-      "onboard_time": 1715328858,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -3020,7 +3020,7 @@
     },
     {
       "raw_hot": 554723,
-      "num": 423763,
+      "num": 468647,
       "word": "南通车祸多名学生受伤送医院抢救",
       "onboard_time": 1715329040,
       "rank": 19,
@@ -4387,6 +4387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 415964,
+      "num": 359967,
+      "word": "方时赫涉嫌渎职",
+      "onboard_time": 1715331497,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415422,
       "num": 415422,
       "word": "嫦娥六号成功实施近月制动",
@@ -5152,14 +5160,6 @@
       "word": "StrayKids疑似被歧视",
       "onboard_time": 1715048778,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 358317,
-      "num": 358317,
-      "word": "方时赫涉嫌渎职",
-      "onboard_time": 1715331497,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -6947,6 +6947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262356,
+      "num": 244083,
+      "word": "想睡就睡是个很强大的能力",
+      "onboard_time": 1715332039,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 261451,
       "num": 261451,
       "word": "叫我关小姐",
@@ -7425,6 +7433,14 @@
       "onboard_time": 1714984939,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242823,
+      "num": 242823,
+      "word": "陈哲远突然有了人父感",
+      "onboard_time": 1715331318,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 241712,
@@ -8384,14 +8400,6 @@
       "word": "向佐鼻孔漏水",
       "onboard_time": 1715233757,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 214717,
-      "num": 214717,
-      "word": "陈哲远突然有了人父感",
-      "onboard_time": 1715331318,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -9828,7 +9836,7 @@
     },
     {
       "raw_hot": 193176,
-      "num": 180856,
+      "num": 183490,
       "word": "记录婚后的冷暴力过程",
       "onboard_time": 1715329158,
       "rank": 39,
@@ -10393,6 +10401,14 @@
       "onboard_time": 1715238139,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185198,
+      "num": 185198,
+      "word": "NewJeans拼车",
+      "onboard_time": 1715333479,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 185119,
@@ -11171,12 +11187,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 173363,
+      "num": 249340,
+      "word": "李斌介绍新品牌掌门人乐道铁成",
+      "onboard_time": 1715331558,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 173351,
       "num": 173351,
       "word": "节后综合症",
       "onboard_time": 1714961778,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173305,
+      "num": 173305,
+      "word": "中国人摄入反式脂肪酸的最主要来源",
+      "onboard_time": 1715330238,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 172954,
@@ -11241,6 +11273,14 @@
       "onboard_time": 1714881199,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172364,
+      "num": 172364,
+      "word": "李晨郑恺撕名牌撕了十年",
+      "onboard_time": 1715331558,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 172306,
@@ -12011,14 +12051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160380,
-      "num": 160380,
-      "word": "中国人摄入反式脂肪酸的最主要来源",
-      "onboard_time": 1715330238,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 160187,
       "num": 160187,
       "word": "职场软刀子真捅心窝子",
@@ -12211,14 +12243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156844,
-      "num": 156844,
-      "word": "想睡就睡是个很强大的能力",
-      "onboard_time": 1715332039,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 156753,
       "num": 156753,
       "word": "没一个幼崽挨打是无辜的",
@@ -12289,6 +12313,14 @@
       "onboard_time": 1715210955,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155798,
+      "num": 155798,
+      "word": "G2对战T1",
+      "onboard_time": 1715329040,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 155712,
@@ -12499,28 +12531,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152274,
-      "num": 152274,
-      "word": "李晨郑恺撕名牌撕了十年",
-      "onboard_time": 1715331558,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152225,
       "num": 665594,
       "word": "青岛有家只有7平米4把椅子的咖啡屋",
       "onboard_time": 1715075418,
       "rank": 7,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 152114,
-      "num": 152114,
-      "word": "G2对战T1",
-      "onboard_time": 1715329040,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 152106,
@@ -13163,6 +13179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143165,
+      "num": 143165,
+      "word": "父母反对远嫁女子离家25年失联",
+      "onboard_time": 1715330118,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143099,
       "num": 143099,
       "word": "编制是另一种围城",
@@ -13219,14 +13243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142146,
-      "num": 227833,
-      "word": "李斌介绍新品牌掌门人乐道铁成",
-      "onboard_time": 1715331558,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 141946,
       "num": 141946,
       "word": "容祖儿cha了汪苏泷的十万伏特",
@@ -13241,6 +13257,14 @@
       "onboard_time": 1715134761,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141750,
+      "num": 141750,
+      "word": "东契奇采访现场出现不雅的声音",
+      "onboard_time": 1715333119,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 141731,
@@ -13329,6 +13353,14 @@
       "onboard_time": 1714900760,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140291,
+      "num": 166226,
+      "word": "坚守消毒级卫生巾15年的中国品牌",
+      "onboard_time": 1715333058,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140234,
@@ -13555,19 +13587,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135866,
-      "num": 135866,
-      "word": "父母反对远嫁女子离家25年失联",
-      "onboard_time": 1715330118,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135825,
       "num": 135825,
       "word": "徐冬冬海边素颜照",
       "onboard_time": 1715219657,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135688,
+      "num": 135688,
+      "word": "水灵灵的恩彩",
+      "onboard_time": 1715332699,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -13625,6 +13657,14 @@
       "onboard_time": 1714958539,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 135229,
+      "num": 135229,
+      "word": "一代人有一代人的洗澡方式",
+      "onboard_time": 1715333180,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 135200,
@@ -14209,6 +14249,14 @@
       "onboard_time": 1715296996,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125060,
+      "num": 125060,
+      "word": "乘风2024二公歌单",
+      "onboard_time": 1715333539,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 124971,
@@ -15032,14 +15080,6 @@
       "word": "王源征集大家的骄傲瞬间",
       "onboard_time": 1715098518,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 106439,
-      "num": 106439,
-      "word": "水灵灵的恩彩",
-      "onboard_time": 1715332699,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -16108,7 +16148,7 @@
     },
     {
       "raw_hot": 49892,
-      "num": 137285,
+      "num": 201732,
       "word": "蔚来第二品牌乐道生而成熟",
       "onboard_time": 1715332278,
       "rank": 40,
@@ -16417,6 +16457,14 @@
       "onboard_time": 1714848433,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27244,
+      "num": 361529,
+      "word": "欧洲姑娘用凤凰传奇歌词学中文",
+      "onboard_time": 1715333058,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25773,
@@ -16735,6 +16783,9 @@
     },
     {
       "word": "#习近平同匈牙利总理欧尔班举行会谈#"
+    },
+    {
+      "word": "#匈牙利女孩时隔15年再为习主席献花#"
     }
   ]
 }

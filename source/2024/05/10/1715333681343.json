@@ -1,0 +1,410 @@
+{
+  "runTime": 1715333681343,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1960037,
+        "num": 1960037,
+        "word": "南通车祸",
+        "onboard_time": 1715324600,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126544,
+        "num": 1126544,
+        "word": "教育局就600元防攀比鞋事件致歉",
+        "onboard_time": 1715328858,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36916,
+        "num": 692361,
+        "word": "这个中字代表中匈两国的友谊",
+        "onboard_time": 1715326939,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619053,
+        "num": 619053,
+        "word": "上海00后中奖100万实现局部退休",
+        "onboard_time": 1715324359,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611078,
+        "num": 611078,
+        "word": "戚薇P腿",
+        "onboard_time": 1715322438,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468647,
+        "num": 468647,
+        "word": "南通车祸多名学生受伤送医院抢救",
+        "onboard_time": 1715329040,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425947,
+        "num": 425947,
+        "word": "警方通报阜阳水泥封尸案",
+        "onboard_time": 1715328018,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386113,
+        "num": 386113,
+        "word": "知情人回应水泥块中挖出尸体",
+        "onboard_time": 1715326581,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384258,
+        "num": 384258,
+        "word": "华晨宇新歌弹错了12次",
+        "onboard_time": 1715324478,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27244,
+        "num": 361529,
+        "word": "欧洲姑娘用凤凰传奇歌词学中文",
+        "onboard_time": 1715333058,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514033,
+        "num": 360239,
+        "word": "03年男生代打游戏月赚3万",
+        "onboard_time": 1715330179,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415964,
+        "num": 359967,
+        "word": "方时赫涉嫌渎职",
+        "onboard_time": 1715331497,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358949,
+        "num": 358949,
+        "word": "范思哲活动",
+        "onboard_time": 1715330781,
+        "rank": 12,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 355838,
+        "num": 355838,
+        "word": "井柏然刘雯",
+        "onboard_time": 1715318301,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334610,
+        "num": 334610,
+        "word": "警方通报南通车祸",
+        "onboard_time": 1715328139,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300079,
+        "num": 300079,
+        "word": "打工攒钱留学的女孩在非洲去世",
+        "onboard_time": 1715322139,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282132,
+        "num": 282132,
+        "word": "阜阳水泥封尸案双方系朋友关系",
+        "onboard_time": 1715330538,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250773,
+        "num": 250773,
+        "word": "戚薇 好怕我们会得第一名",
+        "onboard_time": 1715331137,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249905,
+        "num": 249905,
+        "word": "44岁体操皇后刘璇再上平衡木",
+        "onboard_time": 1715325620,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173363,
+        "num": 249340,
+        "word": "李斌介绍新品牌掌门人乐道铁成",
+        "onboard_time": 1715331558,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 646361,
+        "num": 247225,
+        "word": "花少北七年前女友",
+        "onboard_time": 1715313198,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 437467,
+        "num": 245376,
+        "word": "首批丁克家庭后遗症如期而至",
+        "onboard_time": 1715313798,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262356,
+        "num": 244083,
+        "word": "想睡就睡是个很强大的能力",
+        "onboard_time": 1715332039,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242823,
+        "num": 242823,
+        "word": "陈哲远突然有了人父感",
+        "onboard_time": 1715331318,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223671,
+        "num": 223671,
+        "word": "台湾地震",
+        "onboard_time": 1715328199,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237792,
+        "num": 221446,
+        "word": "刮刮乐不敢敞开卖了",
+        "onboard_time": 1715325199,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212449,
+        "num": 212449,
+        "word": "南通车祸造成8人受伤",
+        "onboard_time": 1715329998,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204210,
+        "num": 204210,
+        "word": "孟子义减肥边吃薯片边扇自己脸",
+        "onboard_time": 1715331799,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47178,
+        "num": 201732,
+        "word": "蔚来第二品牌乐道生而成熟",
+        "onboard_time": 1715332278,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200371,
+        "num": 200371,
+        "word": "我的阿勒泰豆瓣开分8.5",
+        "onboard_time": 1715325381,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189360,
+        "num": 189360,
+        "word": "杨紫以为承欢记是古装剧",
+        "onboard_time": 1715324898,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186886,
+        "num": 186886,
+        "word": "阜阳出现水泥封尸案嫌疑人已被抓",
+        "onboard_time": 1715319680,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185198,
+        "num": 185198,
+        "word": "NewJeans拼车",
+        "onboard_time": 1715333479,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183490,
+        "num": 183490,
+        "word": "记录婚后的冷暴力过程",
+        "onboard_time": 1715329158,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173305,
+        "num": 173305,
+        "word": "中国人摄入反式脂肪酸的最主要来源",
+        "onboard_time": 1715330238,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 173265,
+        "num": 173265,
+        "word": "福建舰版360度无敌海景",
+        "onboard_time": 1715331737,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 172364,
+        "num": 172364,
+        "word": "李晨郑恺撕名牌撕了十年",
+        "onboard_time": 1715331558,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171305,
+        "num": 171305,
+        "word": "南通一学生大巴车与渣土车发生碰撞",
+        "onboard_time": 1715324840,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140291,
+        "num": 166226,
+        "word": "坚守消毒级卫生巾15年的中国品牌",
+        "onboard_time": 1715333058,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161810,
+        "num": 161810,
+        "word": "周杰伦提词器的浪漫",
+        "onboard_time": 1715330118,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155798,
+        "num": 155798,
+        "word": "G2对战T1",
+        "onboard_time": 1715329040,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143667,
+        "num": 143667,
+        "word": "南部战区警告驱离擅闯西沙领海美舰",
+        "onboard_time": 1715328439,
+        "rank": 41,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 143165,
+        "num": 143165,
+        "word": "父母反对远嫁女子离家25年失联",
+        "onboard_time": 1715330118,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141750,
+        "num": 141750,
+        "word": "东契奇采访现场出现不雅的声音",
+        "onboard_time": 1715333119,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140277,
+        "num": 140277,
+        "word": "青花瓷分数 低了",
+        "onboard_time": 1715328139,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135688,
+        "num": 135688,
+        "word": "水灵灵的恩彩",
+        "onboard_time": 1715332699,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135229,
+        "num": 135229,
+        "word": "一代人有一代人的洗澡方式",
+        "onboard_time": 1715333180,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125060,
+        "num": 125060,
+        "word": "乘风2024二公歌单",
+        "onboard_time": 1715333539,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124544,
+        "num": 124544,
+        "word": "杨幂晒哈尔滨一九四四合照",
+        "onboard_time": 1715327119,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116247,
+        "num": 116247,
+        "word": "金价上演过山车",
+        "onboard_time": 1715326520,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#匈牙利女孩时隔15年再为习主席献花#"
+    }
+  }
+}
