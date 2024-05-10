@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715319268128,
+  "endTime": 1715322239218,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -152,6 +152,14 @@
       "word": "女子为被性侵的母亲奔波后丢了工作",
       "onboard_time": 1714980078,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1999922,
+      "num": 502010,
+      "word": "阜阳出现水泥封尸案嫌疑人已被抓",
+      "onboard_time": 1715319680,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -929,6 +937,14 @@
       "onboard_time": 1715088199,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1099889,
+      "num": 411674,
+      "word": "井柏然刘雯",
+      "onboard_time": 1715318301,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1095751,
@@ -2073,14 +2089,6 @@
       "onboard_time": 1715215160,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 700562,
-      "num": 321450,
-      "word": "井柏然刘雯",
-      "onboard_time": 1715318301,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 699650,
@@ -3371,6 +3379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498978,
+      "num": 498978,
+      "word": "陈丽君 甜妹",
+      "onboard_time": 1715318899,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496617,
       "num": 405593,
       "word": "女子与男友争执中刀死亡男友一审无罪",
@@ -3417,6 +3433,14 @@
       "onboard_time": 1715077339,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 488260,
+      "num": 488260,
+      "word": "老人为亡子销户民警一个动作让他泪崩",
+      "onboard_time": 1715316621,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488089,
@@ -3627,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 473173,
+      "num": 473173,
+      "word": "深圳王婆说媒现场坐席空无一人",
+      "onboard_time": 1715318359,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472878,
       "num": 247411,
       "word": "很烧钱却小众的爱好",
@@ -3713,6 +3745,14 @@
       "onboard_time": 1715148379,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459350,
+      "num": 385038,
+      "word": "成都顶楼水泥封人视频系拼接",
+      "onboard_time": 1715319619,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459290,
@@ -3977,6 +4017,14 @@
       "onboard_time": 1714974318,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 435331,
+      "num": 435331,
+      "word": "杨紫檀健次撞造型",
+      "onboard_time": 1715320580,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 434755,
@@ -4715,6 +4763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372658,
+      "num": 372658,
+      "word": "迪丽热巴被张凌赫逗笑",
+      "onboard_time": 1715320340,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372121,
       "num": 372121,
       "word": "30岁了依然觉得自己有很多可能",
@@ -5187,14 +5243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 344160,
-      "num": 344160,
-      "word": "老人为亡子销户民警一个动作让他泪崩",
-      "onboard_time": 1715316621,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343668,
       "num": 375520,
       "word": "官方回应男子串串店门口被刺身亡",
@@ -5281,6 +5329,14 @@
       "onboard_time": 1715172200,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335232,
+      "num": 335232,
+      "word": "青花瓷绝了",
+      "onboard_time": 1715320278,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 334952,
@@ -5899,6 +5955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298924,
+      "num": 298924,
+      "word": "贾玲电影邀约杨紫二话没说答应了",
+      "onboard_time": 1715321538,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298489,
       "num": 251939,
       "word": "沈眉庄侍寝多次为何没孩子",
@@ -6369,6 +6433,14 @@
       "onboard_time": 1714957102,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276676,
+      "num": 199020,
+      "word": "卖不动的钻戒开始背叛爱情了",
+      "onboard_time": 1715318781,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 274643,
@@ -7547,14 +7619,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 227793,
-      "num": 227793,
-      "word": "深圳王婆说媒现场坐席空无一人",
-      "onboard_time": 1715318359,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227775,
       "num": 227775,
       "word": "孙俪早六运动",
@@ -8153,6 +8217,14 @@
       "onboard_time": 1715264060,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213002,
+      "num": 195717,
+      "word": "虞书欣黑化千金",
+      "onboard_time": 1715319319,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212691,
@@ -9291,14 +9363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195079,
-      "num": 195079,
-      "word": "陈丽君 甜妹",
-      "onboard_time": 1715318899,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195042,
       "num": 195042,
       "word": "何浩楠 比早八更难受的是早五捞鱼",
@@ -9393,6 +9457,14 @@
       "onboard_time": 1715256018,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193786,
+      "num": 193786,
+      "word": "女子直播吐槽看不起赚3000的男性",
+      "onboard_time": 1715318659,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193760,
@@ -10161,6 +10233,14 @@
       "onboard_time": 1715223138,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183354,
+      "num": 183354,
+      "word": "INFJ为什么是成熟的幼稚鬼",
+      "onboard_time": 1715318839,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 183280,
@@ -11233,14 +11313,6 @@
       "onboard_time": 1715008640,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165938,
-      "num": 165938,
-      "word": "卖不动的钻戒开始背叛爱情了",
-      "onboard_time": 1715318781,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 165778,
@@ -12715,14 +12787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143132,
-      "num": 143132,
-      "word": "INFJ为什么是成熟的幼稚鬼",
-      "onboard_time": 1715318839,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143099,
       "num": 143099,
       "word": "编制是另一种围城",
@@ -12899,14 +12963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139868,
-      "num": 139868,
-      "word": "女子直播吐槽看不起赚3000的男性",
-      "onboard_time": 1715318659,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139862,
       "num": 139862,
       "word": "严浩翔进地铁要弯腰",
@@ -13081,6 +13137,14 @@
       "onboard_time": 1714865956,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135562,
+      "num": 135562,
+      "word": "迪丽热巴扭转全局",
+      "onboard_time": 1715319680,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 135515,
@@ -13771,6 +13835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124264,
+      "num": 124264,
+      "word": "身后听哭了",
+      "onboard_time": 1715320639,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123780,
       "num": 123780,
       "word": "小猫耳朵消失术",
@@ -14123,6 +14195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118225,
+      "num": 118225,
+      "word": "你是王启年那我是谁",
+      "onboard_time": 1715320039,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118168,
       "num": 118168,
       "word": "章鱼的智商能有多可怕",
@@ -14217,6 +14297,14 @@
       "onboard_time": 1714924698,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115819,
+      "num": 115819,
+      "word": "明天别忘了调闹钟",
+      "onboard_time": 1715321779,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 115786,
@@ -14619,6 +14707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100718,
+      "num": 100718,
+      "word": "张若昀牢记唐艺昕台词",
+      "onboard_time": 1715322139,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100472,
       "num": 129317,
       "word": "KSG晋级春季赛四强",
@@ -14737,6 +14833,22 @@
       "onboard_time": 1715197331,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97253,
+      "num": 97253,
+      "word": "打工攒钱留学的女孩在非洲去世",
+      "onboard_time": 1715322139,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95805,
+      "num": 95805,
+      "word": "莫文蔚演唱会",
+      "onboard_time": 1715319619,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 95676,
@@ -15068,7 +15180,7 @@
     },
     {
       "raw_hot": 77728,
-      "num": 322305,
+      "num": 403751,
       "word": "更适合东方人的牙齿美白方式",
       "onboard_time": 1715317521,
       "rank": 22,
@@ -15193,6 +15305,14 @@
       "onboard_time": 1714938191,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71127,
+      "num": 133251,
+      "word": "马龙王楚钦男双决赛",
+      "onboard_time": 1715321360,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 70980,
@@ -15968,6 +16088,14 @@
       "word": "文化中国行我写家乡",
       "onboard_time": 1714742900,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7152,
+      "num": 423350,
+      "word": "这些匈牙利小朋友中文真溜",
+      "onboard_time": 1715322199,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
