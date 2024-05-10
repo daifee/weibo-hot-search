@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715345297942,
+  "endTime": 1715347212633,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -43,20 +43,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2953153,
+      "num": 2953153,
+      "word": "歌手直播",
+      "onboard_time": 1715341399,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2922878,
       "num": 2922878,
       "word": "花少北恋爱",
       "onboard_time": 1715180361,
       "rank": 0,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 2917561,
-      "num": 2917561,
-      "word": "歌手直播",
-      "onboard_time": 1715341399,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2835678,
@@ -147,6 +147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2187658,
+      "num": 439280,
+      "word": "那英 紧张",
+      "onboard_time": 1715344521,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2100742,
       "num": 2100742,
       "word": "苹果发布会",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1978007,
+      "num": 409700,
+      "word": "杨丞琳选歌",
+      "onboard_time": 1715345841,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1960558,
       "num": 994091,
       "word": "瑞幸咖啡被曝冰块霉变",
@@ -211,12 +227,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1919382,
+      "num": 388252,
+      "word": "汪苏泷好稳",
+      "onboard_time": 1715346860,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1896808,
       "num": 1896808,
       "word": "假球",
       "onboard_time": 1715175681,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1867676,
+      "num": 273087,
+      "word": "那英 我有时候真的不识好歹",
+      "onboard_time": 1715344999,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 1867017,
@@ -907,6 +939,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 1136162,
+      "num": 435872,
+      "word": "六种很脏的生活习惯",
+      "onboard_time": 1715343497,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1136012,
       "num": 729082,
       "word": "被妻子举报婚内出轨干部回应",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1715000179,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1027244,
+      "num": 444726,
+      "word": "歌手",
+      "onboard_time": 1714966399,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 1003253,
@@ -1507,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 863444,
+      "num": 272404,
+      "word": "杨丞琳没发挥好",
+      "onboard_time": 1715346439,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 861723,
       "num": 861723,
       "word": "怡宝回应新包装",
@@ -1561,6 +1617,14 @@
       "onboard_time": 1715179820,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 846005,
+      "num": 396298,
+      "word": "文淇 荷兰血统",
+      "onboard_time": 1715342958,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 843998,
@@ -1739,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 799284,
-      "num": 444726,
-      "word": "歌手",
-      "onboard_time": 1714966399,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 797895,
       "num": 402949,
       "word": "百度内部人士曝光公关全员做短视频内幕",
@@ -1817,14 +1873,6 @@
       "onboard_time": 1714879938,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 778894,
-      "num": 396298,
-      "word": "文淇 荷兰血统",
-      "onboard_time": 1715342958,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 773996,
@@ -1929,6 +1977,14 @@
       "onboard_time": 1715002879,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754727,
+      "num": 196596,
+      "word": "杨丞琳唱带我走",
+      "onboard_time": 1715346261,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 754439,
@@ -2875,14 +2931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 603219,
-      "num": 324933,
-      "word": "六种很脏的生活习惯",
-      "onboard_time": 1715343497,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 600945,
       "num": 249699,
       "word": "阿里宣布杭州全球总部启用",
@@ -2961,6 +3009,14 @@
       "onboard_time": 1715216959,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 588750,
+      "num": 588750,
+      "word": "马龙王楚钦冠军",
+      "onboard_time": 1715345240,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 585948,
@@ -3361,14 +3417,6 @@
       "onboard_time": 1715216778,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 531126,
-      "num": 318985,
-      "word": "那英 紧张",
-      "onboard_time": 1715344521,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 528965,
@@ -3907,6 +3955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 473144,
+      "num": 248825,
+      "word": "王力宏公司901万存款解冻",
+      "onboard_time": 1715346740,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472878,
       "num": 247411,
       "word": "很烧钱却小众的爱好",
@@ -4201,6 +4257,14 @@
       "onboard_time": 1715002098,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 445189,
+      "num": 247272,
+      "word": "汪苏泷歌手reaction",
+      "onboard_time": 1715346680,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 445074,
@@ -4553,6 +4617,14 @@
       "onboard_time": 1714986020,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 416670,
+      "num": 416670,
+      "word": "比亚迪",
+      "onboard_time": 1715343258,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 416540,
@@ -5963,6 +6035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317363,
+      "num": 245086,
+      "word": "婚后才知道什么是隐形家务",
+      "onboard_time": 1715344521,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 317346,
       "num": 514742,
       "word": "榴莲",
@@ -6057,14 +6137,6 @@
       "onboard_time": 1714988598,
       "rank": 21,
       "category": "科学科普,自然"
-    },
-    {
-      "raw_hot": 314057,
-      "num": 314057,
-      "word": "比亚迪",
-      "onboard_time": 1715343258,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 314002,
@@ -6931,6 +7003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 271958,
+      "num": 271958,
+      "word": "马龙说现在是王楚钦带着我",
+      "onboard_time": 1715346439,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271913,
       "num": 251728,
       "word": "恋爱兄妹",
@@ -7081,6 +7161,14 @@
       "onboard_time": 1715145324,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265522,
+      "num": 251515,
+      "word": "我的阿勒泰",
+      "onboard_time": 1715055680,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 265457,
@@ -7299,14 +7387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256960,
-      "num": 226894,
-      "word": "婚后才知道什么是隐形家务",
-      "onboard_time": 1715344521,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 256797,
       "num": 256797,
       "word": "B站回应短片被举报涉嫌洗稿",
@@ -7379,6 +7459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254047,
+      "num": 254047,
+      "word": "辽粤大战争议判罚",
+      "onboard_time": 1715345719,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254045,
       "num": 254045,
       "word": "十个勤天吃饭都要整整齐齐",
@@ -7449,14 +7537,6 @@
       "onboard_time": 1715241799,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251515,
-      "num": 251515,
-      "word": "我的阿勒泰",
-      "onboard_time": 1715055680,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 250891,
@@ -7715,6 +7795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240915,
+      "num": 240915,
+      "word": "Faouzia实力",
+      "onboard_time": 1715345478,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240868,
       "num": 231737,
       "word": "一问都不熟 一搜全有仇",
@@ -7827,6 +7915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 235957,
+      "num": 250498,
+      "word": "G2对战T1",
+      "onboard_time": 1715329040,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 235701,
       "num": 235701,
       "word": "女子担心被扣费手抖输错密码躲过电诈",
@@ -7937,6 +8033,14 @@
       "onboard_time": 1714962019,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 233624,
+      "num": 233624,
+      "word": "歌手2024首轮竞演",
+      "onboard_time": 1715346801,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 233438,
@@ -8704,14 +8808,6 @@
       "word": "向佐鼻孔漏水",
       "onboard_time": 1715233757,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 214560,
-      "num": 214560,
-      "word": "那英 我有时候真的不识好歹",
-      "onboard_time": 1715344999,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -9731,6 +9827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197818,
+      "num": 197818,
+      "word": "易烊千玺黑色皮内搭",
+      "onboard_time": 1715347161,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197682,
       "num": 197682,
       "word": "刘亦菲公主提裙",
@@ -10283,6 +10387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191725,
+      "num": 191725,
+      "word": "张颂文回复陈都灵",
+      "onboard_time": 1715345419,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191712,
       "num": 191712,
       "word": "北京晚霞",
@@ -10329,6 +10441,14 @@
       "onboard_time": 1714889719,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191526,
+      "num": 196318,
+      "word": "微暗之火结局",
+      "onboard_time": 1715346981,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 191517,
@@ -10659,6 +10779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186776,
+      "num": 186776,
+      "word": "张杰演唱会百场大拷问",
+      "onboard_time": 1715346021,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186705,
       "num": 186705,
       "word": "法国总统收到中文图书礼物",
@@ -10793,6 +10921,14 @@
       "onboard_time": 1714865295,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184495,
+      "num": 196095,
+      "word": "黄晓明 那英的武魂真身",
+      "onboard_time": 1715345898,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 184279,
@@ -12691,14 +12827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155798,
-      "num": 155798,
-      "word": "G2对战T1",
-      "onboard_time": 1715329040,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 155712,
       "num": 155712,
       "word": "东方甄选未取得经营许可被罚1.3万",
@@ -12881,14 +13009,6 @@
       "onboard_time": 1714978758,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153369,
-      "num": 153369,
-      "word": "马龙王楚钦冠军",
-      "onboard_time": 1715345240,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 153173,
@@ -14819,6 +14939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124143,
+      "num": 158146,
+      "word": "Faker的状态",
+      "onboard_time": 1715346439,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123817,
       "num": 123817,
       "word": "纯爱小狗想和你牵手有错吗",
@@ -16211,6 +16339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77953,
+      "num": 241010,
+      "word": "莎头为你加油",
+      "onboard_time": 1715345958,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77728,
       "num": 403751,
       "word": "更适合东方人的牙齿美白方式",
@@ -16833,6 +16969,14 @@
       "onboard_time": 1715311637,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41353,
+      "num": 197069,
+      "word": "vivo影像灭霸歌手现场首秀",
+      "onboard_time": 1715346680,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 40940,

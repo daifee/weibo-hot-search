@@ -1,0 +1,410 @@
+{
+  "runTime": 1715347212633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2953153,
+        "num": 2953153,
+        "word": "歌手直播",
+        "onboard_time": 1715341399,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588750,
+        "num": 588750,
+        "word": "马龙王楚钦冠军",
+        "onboard_time": 1715345240,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17897,
+        "num": 450294,
+        "word": "一条Vlog品味中塞铁杆友谊",
+        "onboard_time": 1715326759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2187658,
+        "num": 439280,
+        "word": "那英 紧张",
+        "onboard_time": 1715344521,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1136162,
+        "num": 435872,
+        "word": "六种很脏的生活习惯",
+        "onboard_time": 1715343497,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 416670,
+        "num": 416670,
+        "word": "比亚迪",
+        "onboard_time": 1715343258,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1978007,
+        "num": 409700,
+        "word": "杨丞琳选歌",
+        "onboard_time": 1715345841,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1919382,
+        "num": 388252,
+        "word": "汪苏泷好稳",
+        "onboard_time": 1715346860,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351625,
+        "num": 351625,
+        "word": "上海00后中奖100万实现局部退休",
+        "onboard_time": 1715324359,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273258,
+        "num": 273258,
+        "word": "陈梦王曼昱大满贯夺冠",
+        "onboard_time": 1715341937,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1867676,
+        "num": 273087,
+        "word": "那英 我有时候真的不识好歹",
+        "onboard_time": 1715344999,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 943313,
+        "num": 272918,
+        "word": "花少北 就不耽误你的第八年了",
+        "onboard_time": 1715335220,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1027244,
+        "num": 272661,
+        "word": "歌手",
+        "onboard_time": 1715332397,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 863444,
+        "num": 272404,
+        "word": "杨丞琳没发挥好",
+        "onboard_time": 1715346439,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 846005,
+        "num": 272362,
+        "word": "文淇 荷兰血统",
+        "onboard_time": 1715342958,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 624964,
+        "num": 272141,
+        "word": "南通车祸",
+        "onboard_time": 1715324600,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271958,
+        "num": 271958,
+        "word": "马龙说现在是王楚钦带着我",
+        "onboard_time": 1715346439,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254047,
+        "num": 254047,
+        "word": "辽粤大战争议判罚",
+        "onboard_time": 1715345719,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250803,
+        "num": 250803,
+        "word": "马龙王楚钦男双决赛",
+        "onboard_time": 1715342419,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235957,
+        "num": 250498,
+        "word": "G2对战T1",
+        "onboard_time": 1715329040,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 796974,
+        "num": 249845,
+        "word": "丈夫婚检查出乙肝妻子要离婚",
+        "onboard_time": 1715338639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473144,
+        "num": 248825,
+        "word": "王力宏公司901万存款解冻",
+        "onboard_time": 1715346740,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445189,
+        "num": 247272,
+        "word": "汪苏泷歌手reaction",
+        "onboard_time": 1715346680,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416797,
+        "num": 246420,
+        "word": "费可 转账一停感情归零",
+        "onboard_time": 1715341399,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386021,
+        "num": 245965,
+        "word": "杨紫直播",
+        "onboard_time": 1715343799,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317363,
+        "num": 245086,
+        "word": "婚后才知道什么是隐形家务",
+        "onboard_time": 1715344521,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265522,
+        "num": 243591,
+        "word": "我的阿勒泰",
+        "onboard_time": 1715343198,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243368,
+        "num": 243368,
+        "word": "赵露思名媛千金风",
+        "onboard_time": 1715342419,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191373,
+        "num": 241676,
+        "word": "苹果税",
+        "onboard_time": 1715335040,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77953,
+        "num": 241010,
+        "word": "莎头为你加油",
+        "onboard_time": 1715345958,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240915,
+        "num": 240915,
+        "word": "Faouzia实力",
+        "onboard_time": 1715345478,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233624,
+        "num": 233624,
+        "word": "歌手2024首轮竞演",
+        "onboard_time": 1715346801,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213500,
+        "num": 213500,
+        "word": "戚薇P腿",
+        "onboard_time": 1715322438,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198400,
+        "num": 198400,
+        "word": "易梦玲 头包脸",
+        "onboard_time": 1715338698,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167143,
+        "num": 197963,
+        "word": "西安地铁神秘黑衣男子身份查明",
+        "onboard_time": 1715340259,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197818,
+        "num": 197818,
+        "word": "易烊千玺黑色皮内搭",
+        "onboard_time": 1715347161,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161861,
+        "num": 197516,
+        "word": "花少北七年前女友",
+        "onboard_time": 1715313198,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 159815,
+        "num": 197257,
+        "word": "美国女子凌晨遭勒脖拖走强奸",
+        "onboard_time": 1715334800,
+        "rank": 37,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 41353,
+        "num": 197069,
+        "word": "vivo影像灭霸歌手现场首秀",
+        "onboard_time": 1715346680,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 754727,
+        "num": 196596,
+        "word": "杨丞琳唱带我走",
+        "onboard_time": 1715346261,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191526,
+        "num": 196318,
+        "word": "微暗之火结局",
+        "onboard_time": 1715346981,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184495,
+        "num": 196095,
+        "word": "黄晓明 那英的武魂真身",
+        "onboard_time": 1715345898,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195805,
+        "num": 195805,
+        "word": "张天爱腰好细",
+        "onboard_time": 1715343919,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191725,
+        "num": 191725,
+        "word": "张颂文回复陈都灵",
+        "onboard_time": 1715345419,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186776,
+        "num": 186776,
+        "word": "张杰演唱会百场大拷问",
+        "onboard_time": 1715346021,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187992,
+        "num": 175380,
+        "word": "赵丽颖孙千合拍跳舞",
+        "onboard_time": 1715340077,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161654,
+        "num": 161654,
+        "word": "不要笑 不然你会有很多男朋友的",
+        "onboard_time": 1715335700,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140394,
+        "num": 160461,
+        "word": "南通一学生大巴车与渣土车发生碰撞",
+        "onboard_time": 1715324840,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133060,
+        "num": 158727,
+        "word": "教育局就600元防攀比鞋事件致歉",
+        "onboard_time": 1715328858,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124143,
+        "num": 158146,
+        "word": "Faker的状态",
+        "onboard_time": 1715346439,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#匈牙利女孩时隔15年再为习主席献花#"
+    }
+  }
+}

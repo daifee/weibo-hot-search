@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/05/10 20:48:17
+本榜单时间：2024/01/01 00:21:05 ~ 2024/05/10 21:20:12
 </p>
 </blockquote>
 <p>
@@ -1707,6 +1707,12 @@ Prada玄学（热度：3331937）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
+歌手直播（热度：2953153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%95%B8%23" target="weibo">
 日本海啸（热度：2947527）
 </a>
@@ -1763,12 +1769,6 @@ Prada玄学（热度：3331937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%88%86%E5%86%B7%23" target="weibo">
 日本爆冷（热度：2918795）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
-歌手直播（热度：2917561）
 </a>
 </li>
 
