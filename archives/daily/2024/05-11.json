@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715373313107,
+  "endTime": 1715375918691,
   "band_list": [
     {
       "raw_hot": 1390202,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111957,
+      "num": 111957,
+      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
+      "onboard_time": 1715366711,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106451,
       "num": 213463,
       "word": "王楚钦说很开心能和龙哥配合",
@@ -555,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57387,
-      "num": 57387,
-      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
-      "onboard_time": 1715366711,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44327,
       "num": 32201,
       "word": "那英蝶窦共鸣",
@@ -603,12 +603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23653,
+      "num": 27475,
+      "word": "文淇发型 孙俪",
+      "onboard_time": 1715371991,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23010,
       "num": 27534,
       "word": "杨紫直播",
       "onboard_time": 1715343799,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22299,
+      "num": 27450,
+      "word": "苹果和安卓手机APP消费差距那么大",
+      "onboard_time": 1715372291,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 20044,
@@ -619,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19167,
-      "num": 27475,
-      "word": "文淇发型 孙俪",
-      "onboard_time": 1715371991,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 17436,
       "num": 27437,
       "word": "歌手没有洪涛",
@@ -635,20 +643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17375,
-      "num": 27450,
-      "word": "苹果和安卓手机APP消费差距那么大",
-      "onboard_time": 1715372291,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 15106,
       "num": 341545,
       "word": "一位塞尔维亚教练的中国梦",
       "onboard_time": 1715348841,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14017,
+      "num": 18407,
+      "word": "国内最大黄金批发市场遭到暴击",
+      "onboard_time": 1715375350,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 2760,
