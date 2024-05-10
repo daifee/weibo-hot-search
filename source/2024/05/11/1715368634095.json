@@ -1,0 +1,410 @@
+{
+  "runTime": 1715368634095,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 319117,
+        "num": 319117,
+        "word": "王楚钦",
+        "onboard_time": 1715362094,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202618,
+        "num": 202618,
+        "word": "歌手直播",
+        "onboard_time": 1715341399,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12786,
+        "num": 195729,
+        "word": "一位塞尔维亚教练的中国梦",
+        "onboard_time": 1715348841,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191319,
+        "num": 191319,
+        "word": "那英 我有时候真的不识好歹",
+        "onboard_time": 1715344999,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125428,
+        "num": 125428,
+        "word": "联大通过涉巴勒斯坦入联决议",
+        "onboard_time": 1715362693,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 84797,
+        "num": 84797,
+        "word": "六种很脏的生活习惯",
+        "onboard_time": 1715343497,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166145,
+        "num": 84604,
+        "word": "英子大战",
+        "onboard_time": 1715354060,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66070,
+        "num": 66070,
+        "word": "王楚钦逆转晋级决赛",
+        "onboard_time": 1715362334,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117588,
+        "num": 65740,
+        "word": "歌手2024排名",
+        "onboard_time": 1715351661,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25544,
+        "num": 65375,
+        "word": "中法将联合修复巴黎圣母院",
+        "onboard_time": 1715348841,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254416,
+        "num": 64761,
+        "word": "花少北 就不耽误你的第八年了",
+        "onboard_time": 1715335220,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 117803,
+        "num": 64428,
+        "word": "南通车祸",
+        "onboard_time": 1715324600,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114388,
+        "num": 64165,
+        "word": "难听",
+        "onboard_time": 1715351422,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85766,
+        "num": 63591,
+        "word": "隔壁浪姐 摇人",
+        "onboard_time": 1715355082,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70796,
+        "num": 63345,
+        "word": "苗苗劝架",
+        "onboard_time": 1715366233,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68005,
+        "num": 62954,
+        "word": "杨洋上海晚宴生图",
+        "onboard_time": 1715358977,
+        "rank": 15,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 62518,
+        "num": 62518,
+        "word": "网红参哥称璩静交了5980元上了三天课",
+        "onboard_time": 1715351721,
+        "rank": 16,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 38291,
+        "num": 62230,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1715353942,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33557,
+        "num": 61802,
+        "word": "王楚钦vs林诗栋",
+        "onboard_time": 1715360055,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33317,
+        "num": 61601,
+        "word": "马琳战术",
+        "onboard_time": 1715354060,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82550,
+        "num": 61014,
+        "word": "长期睡前玩手机的5大危害",
+        "onboard_time": 1715352321,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 60834,
+        "num": 60834,
+        "word": "迪丽热巴手机打码的原因",
+        "onboard_time": 1715351902,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56384,
+        "num": 56384,
+        "word": "周冬雨露腹了",
+        "onboard_time": 1715363234,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47293,
+        "num": 47293,
+        "word": "王俊凯红V掉了",
+        "onboard_time": 1715351360,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37716,
+        "num": 37716,
+        "word": "我的阿勒泰",
+        "onboard_time": 1715343198,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33241,
+        "num": 33241,
+        "word": "身上这5种臭味或是疾病征兆",
+        "onboard_time": 1715358378,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32536,
+        "num": 32536,
+        "word": "卵子比她本人会选伴侣",
+        "onboard_time": 1715352202,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30281,
+        "num": 30281,
+        "word": "儿子的车被别的小朋友骑走了",
+        "onboard_time": 1715360715,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28530,
+        "num": 28530,
+        "word": "婚后才知道什么是隐形家务",
+        "onboard_time": 1715344521,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27654,
+        "num": 27654,
+        "word": "粉丝的话王俊凯真听",
+        "onboard_time": 1715358317,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27168,
+        "num": 27168,
+        "word": "腰痛也可能是癌症信号",
+        "onboard_time": 1715351842,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26251,
+        "num": 26251,
+        "word": "陈梦半决赛对阵早田希娜",
+        "onboard_time": 1715351542,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25896,
+        "num": 25896,
+        "word": "跑男团cha了宋雨琦的FREAK",
+        "onboard_time": 1715365392,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25603,
+        "num": 25603,
+        "word": "陈梦连胜日本女单三大主力",
+        "onboard_time": 1715362094,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25468,
+        "num": 25468,
+        "word": "汪涵cue王一博",
+        "onboard_time": 1715354420,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25234,
+        "num": 25234,
+        "word": "Faker的状态",
+        "onboard_time": 1715346439,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24007,
+        "num": 24007,
+        "word": "孙颖莎陈梦会师WTT女单决赛",
+        "onboard_time": 1715358617,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23319,
+        "num": 23319,
+        "word": "王楚钦决赛见",
+        "onboard_time": 1715362274,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23190,
+        "num": 23190,
+        "word": "费可 转账一停感情归零",
+        "onboard_time": 1715341399,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23010,
+        "num": 23010,
+        "word": "杨紫直播",
+        "onboard_time": 1715343799,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22882,
+        "num": 22882,
+        "word": "易烊千玺芭莎台下镜头",
+        "onboard_time": 1715348420,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22371,
+        "num": 22371,
+        "word": "花少北七年前女友",
+        "onboard_time": 1715313198,
+        "rank": 41,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 22008,
+        "num": 22008,
+        "word": "马龙王楚钦冠军",
+        "onboard_time": 1715345240,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55445,
+        "num": 22002,
+        "word": "歌手",
+        "onboard_time": 1715332397,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21978,
+        "num": 21978,
+        "word": "男子救人牺牲妻子将百万慰问金全给公婆",
+        "onboard_time": 1715366711,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21075,
+        "num": 21976,
+        "word": "迪丽热巴 联想",
+        "onboard_time": 1715353645,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20395,
+        "num": 21972,
+        "word": "赵奕欢快碎了",
+        "onboard_time": 1715350762,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42791,
+        "num": 21961,
+        "word": "汪苏泷新歌首唱",
+        "onboard_time": 1715347520,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19968,
+        "num": 21955,
+        "word": "韩红易烊千玺同框",
+        "onboard_time": 1715353222,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19570,
+        "num": 21952,
+        "word": "王力宏公司901万存款解冻",
+        "onboard_time": 1715346740,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈两国始终是互信互助的好朋友#"
+    }
+  }
+}

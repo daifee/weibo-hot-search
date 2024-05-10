@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715366180359,
+  "endTime": 1715368634095,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -17059,6 +17059,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 70796,
+      "num": 63345,
+      "word": "苗苗劝架",
+      "onboard_time": 1715366233,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70777,
       "num": 745493,
       "word": "一座百年钢厂见证中塞铁杆友谊",
@@ -17817,6 +17825,14 @@
       "onboard_time": 1715279231,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 21978,
+      "num": 21978,
+      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
+      "onboard_time": 1715366711,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21727,
