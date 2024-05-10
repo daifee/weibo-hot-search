@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715318259532,
+  "endTime": 1715319268128,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -2075,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700562,
+      "num": 321450,
+      "word": "井柏然刘雯",
+      "onboard_time": 1715318301,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 699650,
       "num": 398889,
       "word": "马来西亚女童弄坏橡皮擦遭同学性侵",
@@ -2355,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 653123,
+      "num": 653123,
+      "word": "周五嘻嘻周六调休不嘻嘻",
+      "onboard_time": 1715313499,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 651482,
       "num": 316038,
       "word": "胃癌来敲门身体会发出5大警报",
@@ -2481,14 +2497,6 @@
       "onboard_time": 1715166199,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629861,
-      "num": 629861,
-      "word": "周五嘻嘻周六调休不嘻嘻",
-      "onboard_time": 1715313499,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 629736,
@@ -4595,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381952,
+      "num": 369183,
+      "word": "水泥",
+      "onboard_time": 1715315059,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381480,
       "num": 381480,
       "word": "王楚钦孙颖莎冠军",
@@ -4737,14 +4753,6 @@
       "onboard_time": 1714953018,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 369183,
-      "num": 369183,
-      "word": "水泥",
-      "onboard_time": 1715315059,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367848,
@@ -5177,6 +5185,14 @@
       "onboard_time": 1715149341,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 344160,
+      "num": 344160,
+      "word": "老人为亡子销户民警一个动作让他泪崩",
+      "onboard_time": 1715316621,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343668,
@@ -6395,6 +6411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272839,
+      "num": 228660,
+      "word": "上戏称林更新考博不会特殊对待",
+      "onboard_time": 1715317341,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272290,
       "num": 272290,
       "word": "刘宇宁傅菁演情侣",
@@ -7131,14 +7155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240549,
-      "num": 228660,
-      "word": "上戏称林更新考博不会特殊对待",
-      "onboard_time": 1715317341,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240304,
       "num": 240304,
       "word": "宠物有望上高铁了",
@@ -7499,14 +7515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228418,
-      "num": 228418,
-      "word": "老人为亡子销户民警一个动作让他泪崩",
-      "onboard_time": 1715316621,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228305,
       "num": 222089,
       "word": "Ning建议老头杯改名红温杯",
@@ -7537,6 +7545,14 @@
       "onboard_time": 1715263999,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 227793,
+      "num": 227793,
+      "word": "深圳王婆说媒现场坐席空无一人",
+      "onboard_time": 1715318359,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227775,
@@ -8091,6 +8107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214187,
+      "num": 214187,
+      "word": "喜欢周五的人有福了",
+      "onboard_time": 1715317881,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213999,
       "num": 213999,
       "word": "癌症正在年轻化",
@@ -8457,6 +8481,14 @@
       "onboard_time": 1715055680,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206148,
+      "num": 206148,
+      "word": "杨紫ELLE女星销量第一",
+      "onboard_time": 1715318301,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206052,
@@ -9257,6 +9289,14 @@
       "onboard_time": 1714907958,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195079,
+      "num": 195079,
+      "word": "陈丽君 甜妹",
+      "onboard_time": 1715318899,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 195042,
@@ -10987,14 +11027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169204,
-      "num": 169204,
-      "word": "喜欢周五的人有福了",
-      "onboard_time": 1715317881,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169131,
       "num": 169131,
       "word": "严浩翔向大爷求助小灵通怎么用",
@@ -11201,6 +11233,14 @@
       "onboard_time": 1715008640,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165938,
+      "num": 165938,
+      "word": "卖不动的钻戒开始背叛爱情了",
+      "onboard_time": 1715318781,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 165778,
@@ -12675,6 +12715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143132,
+      "num": 143132,
+      "word": "INFJ为什么是成熟的幼稚鬼",
+      "onboard_time": 1715318839,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143099,
       "num": 143099,
       "word": "编制是另一种围城",
@@ -12849,6 +12897,14 @@
       "onboard_time": 1714982656,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139868,
+      "num": 139868,
+      "word": "女子直播吐槽看不起赚3000的男性",
+      "onboard_time": 1715318659,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139862,
@@ -13179,6 +13235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133619,
+      "num": 133619,
+      "word": "大笨狗 妈命由妈不由天",
+      "onboard_time": 1715318359,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 133488,
       "num": 758366,
       "word": "中国高铁技术如何改变塞尔维亚人的生活",
@@ -13449,6 +13513,14 @@
       "onboard_time": 1715221098,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127478,
+      "num": 127478,
+      "word": "教资面试试讲果然偷感十足",
+      "onboard_time": 1715318899,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 127389,
@@ -13953,6 +14025,14 @@
       "onboard_time": 1715317640,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119114,
+      "num": 119114,
+      "word": "原神海维",
+      "onboard_time": 1715318479,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 119044,
@@ -14988,7 +15068,7 @@
     },
     {
       "raw_hot": 77728,
-      "num": 230051,
+      "num": 322305,
       "word": "更适合东方人的牙齿美白方式",
       "onboard_time": 1715317521,
       "rank": 22,
@@ -15403,6 +15483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50550,
+      "num": 325583,
+      "word": "国货更有性价比",
+      "onboard_time": 1715317282,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50088,
       "num": 50088,
       "word": "毕业后唯一没还给老师的品质",
@@ -15641,14 +15729,6 @@
       "onboard_time": 1714859170,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34271,
-      "num": 325583,
-      "word": "国货更有性价比",
-      "onboard_time": 1715317282,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32411,

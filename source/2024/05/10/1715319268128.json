@@ -1,0 +1,410 @@
+{
+  "runTime": 1715319268128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1327180,
+        "num": 1327180,
+        "word": "花少北七年前女友",
+        "onboard_time": 1715313198,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 653123,
+        "num": 653123,
+        "word": "周五嘻嘻周六调休不嘻嘻",
+        "onboard_time": 1715313499,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27193,
+        "num": 490569,
+        "word": "实地打卡匈塞铁路贝诺段",
+        "onboard_time": 1715311698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005188,
+        "num": 490031,
+        "word": "滁州警方回应水泥块中挖出尸体",
+        "onboard_time": 1715315180,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448147,
+        "num": 448147,
+        "word": "夏天千万别把洗衣机门一直开着",
+        "onboard_time": 1715311579,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 439931,
+        "num": 439931,
+        "word": "张真源谈与TFBOYS的关系",
+        "onboard_time": 1715316742,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400270,
+        "num": 400270,
+        "word": "孟子义凭唇下痣秒认肖战",
+        "onboard_time": 1715313980,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344160,
+        "num": 344160,
+        "word": "老人为亡子销户民警一个动作让他泪崩",
+        "onboard_time": 1715316621,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324059,
+        "num": 324059,
+        "word": "寄电脑被烧毁保价4万德邦只赔1千",
+        "onboard_time": 1715314158,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61771,
+        "num": 323427,
+        "word": "硬核国货又来了",
+        "onboard_time": 1715311518,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38271,
+        "num": 322305,
+        "word": "更适合东方人的牙齿美白方式",
+        "onboard_time": 1715317521,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 700562,
+        "num": 321450,
+        "word": "井柏然刘雯",
+        "onboard_time": 1715318301,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381952,
+        "num": 321007,
+        "word": "水泥",
+        "onboard_time": 1715315059,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334835,
+        "num": 319993,
+        "word": "李彦宏内部评璩静风波",
+        "onboard_time": 1715305997,
+        "rank": 13,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 50550,
+        "num": 318509,
+        "word": "国货更有性价比",
+        "onboard_time": 1715317282,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318013,
+        "num": 318013,
+        "word": "生日羞耻症",
+        "onboard_time": 1715306178,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306903,
+        "num": 306903,
+        "word": "肖战好薄的背",
+        "onboard_time": 1715313257,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300103,
+        "num": 300103,
+        "word": "杨紫的眼妆是一片星辰大海",
+        "onboard_time": 1715311458,
+        "rank": 17,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 296301,
+        "num": 296301,
+        "word": "林更新要考博士",
+        "onboard_time": 1715299038,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244796,
+        "num": 244796,
+        "word": "井柏然夸刘雯素颜太好看了",
+        "onboard_time": 1715311938,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 789566,
+        "num": 243768,
+        "word": "首批丁克家庭后遗症如期而至",
+        "onboard_time": 1715313798,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357055,
+        "num": 243250,
+        "word": "人事是怎么知道员工想离职的",
+        "onboard_time": 1715304138,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227793,
+        "num": 227793,
+        "word": "深圳王婆说媒现场坐席空无一人",
+        "onboard_time": 1715318359,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272839,
+        "num": 223593,
+        "word": "上戏称林更新考博不会特殊对待",
+        "onboard_time": 1715317341,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218799,
+        "num": 218799,
+        "word": "张若昀 你的强来了",
+        "onboard_time": 1715314399,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214187,
+        "num": 214187,
+        "word": "喜欢周五的人有福了",
+        "onboard_time": 1715317881,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213151,
+        "num": 213151,
+        "word": "乘风二公",
+        "onboard_time": 1715314100,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206148,
+        "num": 206148,
+        "word": "杨紫ELLE女星销量第一",
+        "onboard_time": 1715318301,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195079,
+        "num": 195079,
+        "word": "陈丽君 甜妹",
+        "onboard_time": 1715318899,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174651,
+        "num": 174651,
+        "word": "魔兽世界国服",
+        "onboard_time": 1715317521,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143619,
+        "num": 168405,
+        "word": "让妈妈每天过母亲节",
+        "onboard_time": 1715314878,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168195,
+        "num": 168195,
+        "word": "宠物有望上高铁了",
+        "onboard_time": 1715309717,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165938,
+        "num": 165938,
+        "word": "卖不动的钻戒开始背叛爱情了",
+        "onboard_time": 1715318781,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158897,
+        "num": 158897,
+        "word": "阿里宣布杭州全球总部启用",
+        "onboard_time": 1715311279,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147876,
+        "num": 147876,
+        "word": "经常看书和不看书的区别",
+        "onboard_time": 1715302698,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 147376,
+        "num": 147376,
+        "word": "刮刮乐的中奖概率有多少",
+        "onboard_time": 1715314520,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143251,
+        "num": 143251,
+        "word": "杨幂特写哭戏镜头",
+        "onboard_time": 1715316801,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143132,
+        "num": 143132,
+        "word": "INFJ为什么是成熟的幼稚鬼",
+        "onboard_time": 1715318839,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142791,
+        "num": 142791,
+        "word": "黄好厉害",
+        "onboard_time": 1715315659,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139868,
+        "num": 139868,
+        "word": "女子直播吐槽看不起赚3000的男性",
+        "onboard_time": 1715318659,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136854,
+        "num": 136854,
+        "word": "光与夜之恋",
+        "onboard_time": 1715319139,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134746,
+        "num": 134746,
+        "word": "优酷给足了成毅排面",
+        "onboard_time": 1715312537,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133619,
+        "num": 133619,
+        "word": "大笨狗 妈命由妈不由天",
+        "onboard_time": 1715318359,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132344,
+        "num": 132344,
+        "word": "张杰兰州",
+        "onboard_time": 1715317222,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127478,
+        "num": 127478,
+        "word": "教资面试试讲果然偷感十足",
+        "onboard_time": 1715318899,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126855,
+        "num": 126855,
+        "word": "中医建议夏天要多吃酸",
+        "onboard_time": 1715312476,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124306,
+        "num": 124306,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119114,
+        "num": 119114,
+        "word": "原神海维",
+        "onboard_time": 1715318479,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114158,
+        "num": 114158,
+        "word": "公司招的实习生一个都留不住",
+        "onboard_time": 1715313980,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111733,
+        "num": 111733,
+        "word": "试打瘦肩针2美容店主一死一伤",
+        "onboard_time": 1715303778,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈提升为新时代全天候全面战略伙伴关系#"
+    }
+  }
+}
