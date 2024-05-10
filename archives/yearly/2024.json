@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1715325528296,
+  "endTime": 1715326467115,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1715,6 +1715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3292844,
+      "num": 575983,
+      "word": "南通车祸",
+      "onboard_time": 1715324600,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3292604,
       "num": 705628,
       "word": "云南镇雄发生恶性伤人事件逾10人伤亡",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1711001491,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 2879958,
-      "num": 2879958,
-      "word": "孙燕姿妹妹发文断绝关系",
-      "onboard_time": 1704457410,
-      "rank": 1,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715325528296,
+  "endTime": 1715326467115,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -9,6 +9,14 @@
       "onboard_time": 1715070020,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3292844,
+      "num": 575983,
+      "word": "南通车祸",
+      "onboard_time": 1715324600,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3292604,
@@ -80,6 +88,14 @@
       "word": "学校拟统一购买600元防攀比鞋",
       "onboard_time": 1715159720,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2363598,
+      "num": 529161,
+      "word": "南通一学生大巴车与渣土车发生碰撞",
+      "onboard_time": 1715324840,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -160,14 +176,6 @@
       "word": "女子为被性侵的母亲奔波后丢了工作",
       "onboard_time": 1714980078,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1992399,
-      "num": 575983,
-      "word": "南通车祸",
-      "onboard_time": 1715324600,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -375,14 +383,6 @@
       "num": 1024128,
       "word": "云南镇雄持刀伤人案致21伤2死",
       "onboard_time": 1715064739,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1524965,
-      "num": 529161,
-      "word": "南通一学生大巴车与渣土车发生碰撞",
-      "onboard_time": 1715324840,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 1132771,
-      "num": 439821,
+      "num": 462155,
       "word": "戚薇P腿",
       "onboard_time": 1715322438,
       "rank": 21,
@@ -913,6 +913,14 @@
       "onboard_time": 1715091861,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1124996,
+      "num": 1124996,
+      "word": "上海00后中奖100万实现局部退休",
+      "onboard_time": 1715324359,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1118749,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 1099889,
-      "num": 415568,
+      "num": 456443,
       "word": "井柏然刘雯",
       "onboard_time": 1715318301,
       "rank": 11,
@@ -2315,14 +2323,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 666933,
-      "num": 1005468,
-      "word": "上海00后中奖100万实现局部退休",
-      "onboard_time": 1715324359,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 665100,
       "num": 665100,
       "word": "孟子义凭唇下痣秒认肖战",
@@ -2368,6 +2368,14 @@
       "word": "男子称订婚给34万彩礼后女方退婚不退钱",
       "onboard_time": 1715221937,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655554,
+      "num": 459828,
+      "word": "打工攒钱留学的女孩在非洲去世",
+      "onboard_time": 1715322139,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2835,14 +2843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 578821,
-      "num": 393659,
-      "word": "打工攒钱留学的女孩在非洲去世",
-      "onboard_time": 1715322139,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 576103,
       "num": 576103,
       "word": "Jennie名媛转圈",
@@ -2873,6 +2873,14 @@
       "onboard_time": 1715243419,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 572341,
+      "num": 457939,
+      "word": "华晨宇新歌弹错了12次",
+      "onboard_time": 1715324478,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 570996,
@@ -3835,6 +3843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 456389,
+      "num": 456389,
+      "word": "杨紫以为承欢记是古装剧",
+      "onboard_time": 1715324898,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455723,
       "num": 455723,
       "word": "乘风二公",
@@ -4041,14 +4057,6 @@
       "onboard_time": 1715060958,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 439568,
-      "num": 439568,
-      "word": "华晨宇新歌弹错了12次",
-      "onboard_time": 1715324478,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 437147,
@@ -4715,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382380,
+      "num": 382380,
+      "word": "44岁体操皇后刘璇再上平衡木",
+      "onboard_time": 1715325620,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381952,
       "num": 369183,
       "word": "水泥",
@@ -4921,14 +4937,6 @@
       "onboard_time": 1714866615,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 365399,
-      "num": 365399,
-      "word": "杨紫以为承欢记是古装剧",
-      "onboard_time": 1715324898,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 364830,
@@ -5987,6 +5995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303221,
+      "num": 255261,
+      "word": "我的阿勒泰豆瓣开分8.5",
+      "onboard_time": 1715325381,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302884,
       "num": 302884,
       "word": "杨幂下一部剧是狐妖月红篇",
@@ -6859,6 +6875,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 260350,
+      "num": 260350,
+      "word": "那英曾与宋丹丹在异国街头吵架",
+      "onboard_time": 1715322859,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259188,
       "num": 704614,
       "word": "新疆2元一个的烤包子火了",
@@ -7067,6 +7091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 249709,
+      "num": 249709,
+      "word": "刮刮乐不敢敞开卖了",
+      "onboard_time": 1715325199,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249473,
       "num": 249473,
       "word": "张杰官宣重庆武汉巡演",
@@ -7137,14 +7169,6 @@
       "onboard_time": 1715252298,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247757,
-      "num": 247757,
-      "word": "那英曾与宋丹丹在异国街头吵架",
-      "onboard_time": 1715322859,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 247043,
@@ -9369,14 +9393,6 @@
       "onboard_time": 1714994478,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196318,
-      "num": 196318,
-      "word": "我的阿勒泰豆瓣开分8.5",
-      "onboard_time": 1715325381,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 196229,
@@ -12307,20 +12323,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 152016,
+      "num": 152016,
+      "word": "icon叫板Doinb",
+      "onboard_time": 1715325739,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151972,
       "num": 151972,
       "word": "庆余年2预告笑点好密",
       "onboard_time": 1715226078,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151948,
-      "num": 151948,
-      "word": "刮刮乐不敢敞开卖了",
-      "onboard_time": 1715325199,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151942,
@@ -13081,6 +13097,14 @@
       "onboard_time": 1714900760,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140234,
+      "num": 140234,
+      "word": "孙颖莎扛着奖杯就走了",
+      "onboard_time": 1715326039,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 140209,
@@ -15355,6 +15379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76078,
+      "num": 521930,
+      "word": "这些匈牙利小朋友中文真溜",
+      "onboard_time": 1715322199,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75866,
       "num": 75866,
       "word": "孙颖莎大满贯晋级4强",
@@ -15611,14 +15643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64148,
-      "num": 521930,
-      "word": "这些匈牙利小朋友中文真溜",
-      "onboard_time": 1715322199,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63892,
       "num": 1915828,
       "word": "中法关于农业交流与合作的联合声明",
@@ -15728,6 +15752,14 @@
       "word": "超5万公里的中国隧道发展有多快",
       "onboard_time": 1715173159,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52227,
+      "num": 380854,
+      "word": "一句广告语猜一个品牌",
+      "onboard_time": 1715324478,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -15995,14 +16027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33290,
-      "num": 380854,
-      "word": "一句广告语猜一个品牌",
-      "onboard_time": 1715324478,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32411,
       "num": 31230,
       "word": "纪凌尘回复宋威龙",
@@ -16105,6 +16129,14 @@
       "onboard_time": 1715279231,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 21769,
+      "num": 151416,
+      "word": "姐姐美白易如反掌",
+      "onboard_time": 1715325739,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 21727,
