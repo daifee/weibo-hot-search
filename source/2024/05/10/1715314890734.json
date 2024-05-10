@@ -1,0 +1,410 @@
+{
+  "runTime": 1715314890734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 955342,
+        "num": 955342,
+        "word": "花少北七年前女友",
+        "onboard_time": 1715313198,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1072754,
+        "num": 922085,
+        "word": "生日羞耻症",
+        "onboard_time": 1715306178,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41858,
+        "num": 891415,
+        "word": "实地打卡匈塞铁路贝诺段",
+        "onboard_time": 1715311698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97498,
+        "num": 883825,
+        "word": "硬核国货又来了",
+        "onboard_time": 1715311518,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882504,
+        "num": 882504,
+        "word": "夏天千万别把洗衣机门一直开着",
+        "onboard_time": 1715311579,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258274,
+        "num": 696434,
+        "word": "53岁保洁妈妈没工伤险被拒绝上门",
+        "onboard_time": 1715308097,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638722,
+        "num": 638722,
+        "word": "杨紫的眼妆是一片星辰大海",
+        "onboard_time": 1715311458,
+        "rank": 6,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 527626,
+        "num": 527626,
+        "word": "孟子义凭唇下痣秒认肖战",
+        "onboard_time": 1715313980,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525230,
+        "num": 525230,
+        "word": "井柏然夸刘雯素颜太好看了",
+        "onboard_time": 1715311938,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252987,
+        "num": 465960,
+        "word": "杭州取消限购有卖家跳涨三成",
+        "onboard_time": 1715300060,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 690076,
+        "num": 465297,
+        "word": "李彦宏内部评璩静风波",
+        "onboard_time": 1715305997,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 460819,
+        "num": 460819,
+        "word": "人死后聊天记录会被怎样处理",
+        "onboard_time": 1715263821,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 567644,
+        "num": 450137,
+        "word": "肖战好薄的背",
+        "onboard_time": 1715313257,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 437772,
+        "num": 437772,
+        "word": "林更新要考博士",
+        "onboard_time": 1715299038,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320320,
+        "num": 320320,
+        "word": "优酷给足了成毅排面",
+        "onboard_time": 1715312537,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319365,
+        "num": 319365,
+        "word": "乘风二公",
+        "onboard_time": 1715314100,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309762,
+        "num": 309762,
+        "word": "那些长期不上班的人最后都怎么样了",
+        "onboard_time": 1715255057,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271342,
+        "num": 271342,
+        "word": "周五嘻嘻周六调休不嘻嘻",
+        "onboard_time": 1715313499,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236496,
+        "num": 236496,
+        "word": "NewJeans新专辑配置",
+        "onboard_time": 1715310918,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165665,
+        "num": 236488,
+        "word": "A股",
+        "onboard_time": 1715308636,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1042148,
+        "num": 235925,
+        "word": "人事是怎么知道员工想离职的",
+        "onboard_time": 1715304138,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 600945,
+        "num": 235274,
+        "word": "阿里宣布杭州全球总部启用",
+        "onboard_time": 1715311279,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 317029,
+        "num": 234715,
+        "word": "首批丁克家庭后遗症如期而至",
+        "onboard_time": 1715313798,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250629,
+        "num": 234454,
+        "word": "经常看书和不看书的区别",
+        "onboard_time": 1715302698,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 234234,
+        "num": 234234,
+        "word": "CoCo口令",
+        "onboard_time": 1715308516,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226933,
+        "num": 226933,
+        "word": "靠运动减肥多久才开始起效",
+        "onboard_time": 1715296756,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 222147,
+        "num": 222147,
+        "word": "周鸿祎谈璩静事件",
+        "onboard_time": 1715313859,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 213506,
+        "num": 213506,
+        "word": "宠物有望上高铁了",
+        "onboard_time": 1715309717,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187064,
+        "num": 187064,
+        "word": "公司招的实习生一个都留不住",
+        "onboard_time": 1715313980,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185606,
+        "num": 185606,
+        "word": "Ning建议老头杯改名红温杯",
+        "onboard_time": 1715311579,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8389,
+        "num": 184284,
+        "word": "于适保持活力的秘密找到了",
+        "onboard_time": 1715311637,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184257,
+        "num": 184257,
+        "word": "做博主7年为什么突然停更",
+        "onboard_time": 1715305518,
+        "rank": 31,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 183279,
+        "num": 183279,
+        "word": "张艺凡被夸漂亮的反应",
+        "onboard_time": 1715305698,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183261,
+        "num": 183261,
+        "word": "中医建议夏天要多吃酸",
+        "onboard_time": 1715312476,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181166,
+        "num": 181166,
+        "word": "百度离职副总裁4月成立新公司",
+        "onboard_time": 1715297655,
+        "rank": 34,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 170824,
+        "num": 170824,
+        "word": "张若昀 你的强来了",
+        "onboard_time": 1715314399,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163734,
+        "num": 163734,
+        "word": "霉霉巴黎演唱会首演Fortnight",
+        "onboard_time": 1715310198,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163615,
+        "num": 163615,
+        "word": "彩礼过高部分农村男青年举债结婚",
+        "onboard_time": 1715304500,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160857,
+        "num": 160857,
+        "word": "我的阿勒泰今日会员收官",
+        "onboard_time": 1715311817,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159570,
+        "num": 159570,
+        "word": "寄电脑被烧毁保价4万德邦只赔1千",
+        "onboard_time": 1715314158,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151918,
+        "num": 151918,
+        "word": "宋亚轩刘耀文打电话互坑",
+        "onboard_time": 1715314581,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138793,
+        "num": 138793,
+        "word": "试打瘦肩针2美容店主一死一伤",
+        "onboard_time": 1715303778,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134440,
+        "num": 134440,
+        "word": "刮刮乐的中奖概率有多少",
+        "onboard_time": 1715314520,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131997,
+        "num": 131997,
+        "word": "肖战代言舒客",
+        "onboard_time": 1715307977,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131424,
+        "num": 131424,
+        "word": "李彦宏称优秀员工才代表真实的百度",
+        "onboard_time": 1715310258,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130194,
+        "num": 130194,
+        "word": "莎头",
+        "onboard_time": 1715309118,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127804,
+        "num": 127804,
+        "word": "董思成不参加威神V回归",
+        "onboard_time": 1715310318,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126219,
+        "num": 126219,
+        "word": "小馒头出战法国面包节",
+        "onboard_time": 1715314037,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121471,
+        "num": 121471,
+        "word": "HYBE深夜到ADOR女员工家里非法调查",
+        "onboard_time": 1715308457,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7023,
+        "num": 120942,
+        "word": "让妈妈每天过母亲节",
+        "onboard_time": 1715314878,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中匈提升为新时代全天候全面战略伙伴关系#"
+    }
+  }
+}

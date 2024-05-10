@@ -1,6 +1,6 @@
 {
   "startTime": 1715271798898,
-  "endTime": 1715312074511,
+  "endTime": 1715314890734,
   "band_list": [
     {
       "raw_hot": 1941391,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1489957,
-      "num": 392825,
+      "num": 465297,
       "word": "李彦宏内部评璩静风波",
       "onboard_time": 1715305997,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1180955,
-      "num": 382515,
+      "num": 437772,
       "word": "林更新要考博士",
       "onboard_time": 1715299038,
       "rank": 11,
@@ -65,6 +65,14 @@
       "onboard_time": 1715262200,
       "rank": 0,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 955342,
+      "num": 955342,
+      "word": "花少北七年前女友",
+      "onboard_time": 1715313198,
+      "rank": 0,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 943014,
@@ -89,6 +97,14 @@
       "onboard_time": 1715255057,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 882504,
+      "num": 882504,
+      "word": "夏天千万别把洗衣机门一直开着",
+      "onboard_time": 1715311579,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 725745,
@@ -123,6 +139,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 638722,
+      "num": 638722,
+      "word": "杨紫的眼妆是一片星辰大海",
+      "onboard_time": 1715311458,
+      "rank": 6,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 636476,
       "num": 636476,
       "word": "靠运动减肥多久才开始起效",
@@ -147,6 +171,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 600945,
+      "num": 235274,
+      "word": "阿里宣布杭州全球总部启用",
+      "onboard_time": 1715311279,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 567644,
+      "num": 450137,
+      "word": "肖战好薄的背",
+      "onboard_time": 1715313257,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 550258,
       "num": 241589,
       "word": "璩静称百度内部有人花2000元发文黑自己",
@@ -161,6 +201,22 @@
       "onboard_time": 1715301499,
       "rank": 14,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 527626,
+      "num": 527626,
+      "word": "孟子义凭唇下痣秒认肖战",
+      "onboard_time": 1715313980,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 525230,
+      "num": 525230,
+      "word": "井柏然夸刘雯素颜太好看了",
+      "onboard_time": 1715311938,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 516918,
@@ -185,14 +241,6 @@
       "onboard_time": 1715267119,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 436582,
-      "num": 436582,
-      "word": "杨紫的眼妆是一片星辰大海",
-      "onboard_time": 1715311458,
-      "rank": 6,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 431072,
@@ -273,6 +321,30 @@
       "onboard_time": 1715262980,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 320320,
+      "num": 320320,
+      "word": "优酷给足了成毅排面",
+      "onboard_time": 1715312537,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 319365,
+      "num": 319365,
+      "word": "乘风二公",
+      "onboard_time": 1715314100,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 317029,
+      "num": 234715,
+      "word": "首批丁克家庭后遗症如期而至",
+      "onboard_time": 1715313798,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306688,
@@ -363,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271342,
+      "num": 271342,
+      "word": "周五嘻嘻周六调休不嘻嘻",
+      "onboard_time": 1715313499,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269045,
       "num": 269045,
       "word": "旅客飞机突发疾病抢救无效去世",
@@ -403,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258274,
+      "num": 696434,
+      "word": "53岁保洁妈妈没工伤险被拒绝上门",
+      "onboard_time": 1715308097,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257886,
       "num": 257886,
       "word": "狐妖小红娘月红篇",
@@ -433,14 +521,6 @@
       "onboard_time": 1715310258,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 240105,
-      "num": 240105,
-      "word": "夏天千万别把洗衣机门一直开着",
-      "onboard_time": 1715311579,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 237228,
@@ -507,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228429,
-      "num": 228429,
-      "word": "阿里宣布杭州全球总部启用",
-      "onboard_time": 1715311279,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 228305,
       "num": 222089,
       "word": "Ning建议老头杯改名红温杯",
@@ -529,6 +601,14 @@
       "onboard_time": 1715304500,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222147,
+      "num": 222147,
+      "word": "周鸿祎谈璩静事件",
+      "onboard_time": 1715313859,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 222096,
@@ -579,14 +659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 203291,
-      "num": 222091,
-      "word": "53岁保洁妈妈没工伤险被拒绝上门",
-      "onboard_time": 1715308097,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198714,
       "num": 198714,
       "word": "璩静",
@@ -635,6 +707,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 187064,
+      "num": 187064,
+      "word": "公司招的实习生一个都留不住",
+      "onboard_time": 1715313980,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186700,
       "num": 186700,
       "word": "aespa正规一辑试听",
@@ -649,6 +729,14 @@
       "onboard_time": 1715303778,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 183261,
+      "num": 183261,
+      "word": "中医建议夏天要多吃酸",
+      "onboard_time": 1715312476,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 180037,
@@ -675,20 +763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170824,
+      "num": 170824,
+      "word": "张若昀 你的强来了",
+      "onboard_time": 1715314399,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167477,
       "num": 167477,
       "word": "江疏影叫杨祐宁脱光衣服去游泳",
       "onboard_time": 1715289611,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165250,
-      "num": 165250,
-      "word": "井柏然夸刘雯素颜太好看了",
-      "onboard_time": 1715311938,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 164706,
@@ -705,6 +793,14 @@
       "onboard_time": 1715265979,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159570,
+      "num": 159570,
+      "word": "寄电脑被烧毁保价4万德邦只赔1千",
+      "onboard_time": 1715314158,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158458,
@@ -744,6 +840,14 @@
       "word": "张颂文每年生日都有工作",
       "onboard_time": 1715303838,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151918,
+      "num": 151918,
+      "word": "宋亚轩刘耀文打电话互坑",
+      "onboard_time": 1715314581,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -835,6 +939,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 134440,
+      "num": 134440,
+      "word": "刮刮乐的中奖概率有多少",
+      "onboard_time": 1715314520,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134142,
       "num": 134142,
       "word": "骑士24分大胜凯尔特人",
@@ -888,6 +1000,14 @@
       "word": "中式婚礼惊现西式硬菜",
       "onboard_time": 1715295615,
       "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 126219,
+      "num": 126219,
+      "word": "小馒头出战法国面包节",
+      "onboard_time": 1715314037,
+      "rank": 47,
       "category": "美食"
     },
     {
@@ -1049,6 +1169,14 @@
       "onboard_time": 1715270838,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97498,
+      "num": 883825,
+      "word": "硬核国货又来了",
+      "onboard_time": 1715311518,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96810,
@@ -1259,6 +1387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41858,
+      "num": 891415,
+      "word": "实地打卡匈塞铁路贝诺段",
+      "onboard_time": 1715311698,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41570,
       "num": 57804,
       "word": "4岁女孩马拉松3公里20分钟完成",
@@ -1273,14 +1409,6 @@
       "onboard_time": 1715311637,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 39864,
-      "num": 347994,
-      "word": "硬核国货又来了",
-      "onboard_time": 1715311518,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38734,
@@ -1315,14 +1443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17013,
-      "num": 679783,
-      "word": "实地打卡匈塞铁路贝诺段",
-      "onboard_time": 1715311698,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14999,
       "num": 14999,
       "word": "许凯子夜归杀青",
@@ -1335,6 +1455,14 @@
       "num": 15178,
       "word": "陈丽君16次鞠躬回应粉丝",
       "onboard_time": 1715286851,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7023,
+      "num": 120942,
+      "word": "让妈妈每天过母亲节",
+      "onboard_time": 1715314878,
       "rank": 49,
       "category": "社会新闻"
     }
