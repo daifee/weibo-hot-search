@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715372328982,
+  "endTime": 1715373313107,
   "band_list": [
     {
       "raw_hot": 1390202,
@@ -555,8 +555,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46904,
-      "num": 46904,
+      "raw_hot": 57387,
+      "num": 57387,
       "word": "男子救人牺牲妻子将百万慰问金全给公婆",
       "onboard_time": 1715366711,
       "rank": 44,
@@ -619,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19167,
+      "num": 27475,
+      "word": "文淇发型 孙俪",
+      "onboard_time": 1715371991,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 17436,
       "num": 27437,
       "word": "歌手没有洪涛",
@@ -627,12 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15420,
-      "num": 27475,
-      "word": "文淇发型 孙俪",
-      "onboard_time": 1715371991,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 17375,
+      "num": 27450,
+      "word": "苹果和安卓手机APP消费差距那么大",
+      "onboard_time": 1715372291,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 15106,
@@ -643,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13978,
-      "num": 27450,
-      "word": "苹果和安卓手机APP消费差距那么大",
-      "onboard_time": 1715372291,
-      "rank": 48,
-      "category": "数码"
+      "raw_hot": 2760,
+      "num": 19599,
+      "word": "一条Vlog品味中塞铁杆友谊",
+      "onboard_time": 1715326759,
+      "rank": 47,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715372328982,
+  "endTime": 1715373313107,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -17307,6 +17307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57387,
+      "num": 57387,
+      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
+      "onboard_time": 1715366711,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56507,
       "num": 395766,
       "word": "匈牙利民众对中华文化情有独钟",
@@ -17465,14 +17473,6 @@
       "onboard_time": 1715101633,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 46904,
-      "num": 46904,
-      "word": "男子救人牺牲妻子将百万慰问金全给公婆",
-      "onboard_time": 1715366711,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46263,
@@ -17859,6 +17859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 19167,
+      "num": 27475,
+      "word": "文淇发型 孙俪",
+      "onboard_time": 1715371991,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 18557,
       "num": 19942,
       "word": "黄宗泽晒刚入行照",
@@ -17883,20 +17891,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 17375,
+      "num": 27450,
+      "word": "苹果和安卓手机APP消费差距那么大",
+      "onboard_time": 1715372291,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 15717,
       "num": 19363,
       "word": "狼队第五人格",
       "onboard_time": 1715195652,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 15420,
-      "num": 27475,
-      "word": "文淇发型 孙俪",
-      "onboard_time": 1715371991,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 15106,
@@ -17921,14 +17929,6 @@
       "onboard_time": 1714937591,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 13978,
-      "num": 27450,
-      "word": "苹果和安卓手机APP消费差距那么大",
-      "onboard_time": 1715372291,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 13856,
