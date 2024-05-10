@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715358230582,
+  "endTime": 1715359082567,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -619,6 +619,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1390202,
+      "num": 1390202,
+      "word": "英子大战",
+      "onboard_time": 1715354060,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1383418,
       "num": 1383418,
       "word": "老外被中国人的约饭节奏震惊了",
@@ -721,14 +729,6 @@
       "onboard_time": 1715003719,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1300187,
-      "num": 1300187,
-      "word": "英子大战",
-      "onboard_time": 1715354060,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 1297768,
@@ -2483,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 683815,
+      "num": 289120,
+      "word": "隔壁浪姐 摇人",
+      "onboard_time": 1715355082,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 683735,
       "num": 512342,
       "word": "杨幂回应首次把真发染红",
@@ -2505,14 +2513,6 @@
       "onboard_time": 1715334319,
       "rank": 3,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 682789,
-      "num": 289120,
-      "word": "隔壁浪姐 摇人",
-      "onboard_time": 1715355082,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 680428,
@@ -10939,6 +10939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189656,
+      "num": 228252,
+      "word": "粉丝的话王俊凯真听",
+      "onboard_time": 1715358317,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189513,
       "num": 189513,
       "word": "张杰兰州",
@@ -15075,6 +15083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127409,
+      "num": 215879,
+      "word": "GAI第一个被撕名牌",
+      "onboard_time": 1715358438,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127389,
       "num": 127389,
       "word": "中式婚礼惊现西式硬菜",
@@ -16163,6 +16179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107403,
+      "num": 208247,
+      "word": "身上这5种臭味或是疾病征兆",
+      "onboard_time": 1715358378,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106765,
       "num": 106765,
       "word": "周星驰阿信合照",
@@ -16475,6 +16499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 94836,
+      "num": 213378,
+      "word": "简单三步让颈纹消失",
+      "onboard_time": 1715356159,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 94766,
       "num": 94766,
       "word": "轻语绝活芈月",
@@ -16521,6 +16553,14 @@
       "onboard_time": 1715257937,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93804,
+      "num": 190748,
+      "word": "杨洋上海晚宴生图",
+      "onboard_time": 1715358977,
+      "rank": 43,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 93628,
@@ -16651,12 +16691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86777,
-      "num": 213378,
-      "word": "简单三步让颈纹消失",
-      "onboard_time": 1715356159,
-      "rank": 43,
-      "category": "美妆"
+      "raw_hot": 87526,
+      "num": 190742,
+      "word": "孙颖莎陈梦会师WTT女单决赛",
+      "onboard_time": 1715358617,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 86411,
