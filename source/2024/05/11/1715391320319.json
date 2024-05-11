@@ -1,0 +1,410 @@
+{
+  "runTime": 1715391320319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1885689,
+        "num": 1885689,
+        "word": "专家建议不要买低价机票",
+        "onboard_time": 1715384958,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1645682,
+        "num": 1645682,
+        "word": "婉拒歌手",
+        "onboard_time": 1715384536,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57187,
+        "num": 1518111,
+        "word": "一位塞尔维亚教练的中国梦",
+        "onboard_time": 1715348841,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1501762,
+        "num": 1501762,
+        "word": "那英 叶赫那拉氏的宿命",
+        "onboard_time": 1715383517,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1117274,
+        "num": 1117274,
+        "word": "姐姐去世妹妹冒领养老金近40万",
+        "onboard_time": 1715385979,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372014,
+        "num": 1036480,
+        "word": "花少北聊天记录",
+        "onboard_time": 1715386039,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 904740,
+        "num": 904740,
+        "word": "巴勒斯坦",
+        "onboard_time": 1715387899,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 695290,
+        "num": 695290,
+        "word": "澳门向永久性居民发放1万澳门元",
+        "onboard_time": 1715385858,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 625343,
+        "num": 625343,
+        "word": "王楚钦",
+        "onboard_time": 1715362094,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154275,
+        "num": 581861,
+        "word": "中法将联合修复巴黎圣母院",
+        "onboard_time": 1715348841,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2507620,
+        "num": 572011,
+        "word": "调休",
+        "onboard_time": 1715386700,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562020,
+        "num": 562020,
+        "word": "江西20岁学生独自爬秦岭身亡",
+        "onboard_time": 1715389100,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524735,
+        "num": 524735,
+        "word": "大地磁暴又来了",
+        "onboard_time": 1715388140,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501453,
+        "num": 501453,
+        "word": "歌手补位",
+        "onboard_time": 1715351661,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420743,
+        "num": 420743,
+        "word": "村妇女主任下车时被拖拽坠亡",
+        "onboard_time": 1715388681,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470641,
+        "num": 419959,
+        "word": "歌手2024排名",
+        "onboard_time": 1715351661,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393498,
+        "num": 393498,
+        "word": "李晨纪凌尘一起健身",
+        "onboard_time": 1715388859,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442032,
+        "num": 382914,
+        "word": "二手玫瑰 西装配布鞋",
+        "onboard_time": 1715387120,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361066,
+        "num": 361066,
+        "word": "男子救人牺牲妻子将百万慰问金全给公婆",
+        "onboard_time": 1715366711,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335311,
+        "num": 335311,
+        "word": "护士人员流失现象严重",
+        "onboard_time": 1715390242,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525716,
+        "num": 334981,
+        "word": "人体唯一能再生的器官是这样罢工的",
+        "onboard_time": 1715385920,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 324205,
+        "num": 324205,
+        "word": "为什么上班后更容易变胖",
+        "onboard_time": 1715388201,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319886,
+        "num": 319886,
+        "word": "日本外卖小哥上供2000万被甩后行凶",
+        "onboard_time": 1715386759,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274815,
+        "num": 274815,
+        "word": "姆巴佩宣布离队",
+        "onboard_time": 1715382734,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268434,
+        "num": 268434,
+        "word": "教资面试",
+        "onboard_time": 1715384596,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244126,
+        "num": 244126,
+        "word": "原来经常去音乐节的人是这样的",
+        "onboard_time": 1715390359,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241575,
+        "num": 241575,
+        "word": "教资面试真题",
+        "onboard_time": 1715388501,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239392,
+        "num": 239392,
+        "word": "官方通报买5块雪花酥花681元处理结果",
+        "onboard_time": 1715387420,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235602,
+        "num": 235602,
+        "word": "花少北 就不耽误你的第八年了",
+        "onboard_time": 1715335220,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 219713,
+        "num": 219713,
+        "word": "董思成回应为何不参加回归",
+        "onboard_time": 1715390359,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217919,
+        "num": 217919,
+        "word": "毕业四年很多同事都转行了",
+        "onboard_time": 1715390719,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204663,
+        "num": 204663,
+        "word": "长期睡前玩手机的5大危害",
+        "onboard_time": 1715352321,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204279,
+        "num": 204279,
+        "word": "Mai谈参加浪姐的感受",
+        "onboard_time": 1715389582,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190047,
+        "num": 200039,
+        "word": "官方公布5块雪花酥681元调查结果",
+        "onboard_time": 1715390242,
+        "rank": 33,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 199985,
+        "num": 199985,
+        "word": "南通车祸",
+        "onboard_time": 1715324600,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193773,
+        "num": 193773,
+        "word": "小龙虾很脏完全是误解",
+        "onboard_time": 1715387300,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 190808,
+        "num": 190808,
+        "word": "发胖真的有年龄分界线吗",
+        "onboard_time": 1715388441,
+        "rank": 36,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 190357,
+        "num": 190357,
+        "word": "隔壁浪姐 摇人",
+        "onboard_time": 1715355082,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187021,
+        "num": 187021,
+        "word": "迪丽热巴手机打码的原因",
+        "onboard_time": 1715351902,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186965,
+        "num": 186965,
+        "word": "以代表粉碎联合国宪章",
+        "onboard_time": 1715388739,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177884,
+        "num": 177884,
+        "word": "西安一高校学生挂科威胁老师改成绩",
+        "onboard_time": 1715387781,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176680,
+        "num": 176680,
+        "word": "网红参哥称璩静交了5980元上了三天课",
+        "onboard_time": 1715351721,
+        "rank": 41,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 171298,
+        "num": 171298,
+        "word": "六种很脏的生活习惯",
+        "onboard_time": 1715343497,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157447,
+        "num": 157447,
+        "word": "阿勒泰现20年来最强极光",
+        "onboard_time": 1715390959,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 214096,
+        "num": 157446,
+        "word": "那英 我有时候真的不识好歹",
+        "onboard_time": 1715344999,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157438,
+        "num": 157438,
+        "word": "胖东来将在永辉上架胖东来产品",
+        "onboard_time": 1715382074,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197612,
+        "num": 143856,
+        "word": "英子大战",
+        "onboard_time": 1715354060,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129195,
+        "num": 129195,
+        "word": "飞驰人生2最终票房",
+        "onboard_time": 1715386100,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128903,
+        "num": 128903,
+        "word": "王源新歌",
+        "onboard_time": 1715390000,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127048,
+        "num": 127048,
+        "word": "王俊凯红V掉了",
+        "onboard_time": 1715351360,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同匈牙利总理欧尔班举行会谈#"
+    }
+  }
+}

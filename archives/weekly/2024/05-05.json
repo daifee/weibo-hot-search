@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715390148495,
+  "endTime": 1715391320319,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 1376572,
-      "num": 1011918,
+      "num": 1036480,
       "word": "花少北聊天记录",
       "onboard_time": 1715386039,
       "rank": 5,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1715063238,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 904740,
+      "num": 904740,
+      "word": "巴勒斯坦",
+      "onboard_time": 1715387899,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 903715,
@@ -3227,14 +3235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 587665,
-      "num": 587665,
-      "word": "巴勒斯坦",
-      "onboard_time": 1715387899,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 585948,
       "num": 366973,
       "word": "让我们一起喝歌手",
@@ -3369,6 +3369,14 @@
       "onboard_time": 1715346439,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 562020,
+      "num": 562020,
+      "word": "江西20岁学生独自爬秦岭身亡",
+      "onboard_time": 1715389100,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562003,
@@ -4563,6 +4571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 442032,
+      "num": 382914,
+      "word": "二手玫瑰 西装配布鞋",
+      "onboard_time": 1715387120,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442004,
       "num": 442004,
       "word": "没有一次撤档解决不了的事",
@@ -4713,14 +4729,6 @@
       "onboard_time": 1715262860,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428549,
-      "num": 157759,
-      "word": "二手玫瑰 西装配布鞋",
-      "onboard_time": 1715387120,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 427983,
@@ -4875,6 +4883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 420743,
+      "num": 420743,
+      "word": "村妇女主任下车时被拖拽坠亡",
+      "onboard_time": 1715388681,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420143,
       "num": 420143,
       "word": "Jennie和StrayKids合照",
@@ -5009,14 +5025,6 @@
       "onboard_time": 1715074938,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 411060,
-      "num": 411060,
-      "word": "江西20岁学生独自爬秦岭身亡",
-      "onboard_time": 1715389100,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 410712,
@@ -5177,6 +5185,14 @@
       "onboard_time": 1715003960,
       "rank": 21,
       "category": "艺人,情感"
+    },
+    {
+      "raw_hot": 393498,
+      "num": 393498,
+      "word": "李晨纪凌尘一起健身",
+      "onboard_time": 1715388859,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 393013,
@@ -5883,14 +5899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 350854,
-      "num": 350854,
-      "word": "李晨纪凌尘一起健身",
-      "onboard_time": 1715388859,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350447,
       "num": 350447,
       "word": "孟子义cue黄子韬是初代男团",
@@ -5953,14 +5961,6 @@
       "onboard_time": 1715079918,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345944,
-      "num": 228511,
-      "word": "村妇女主任下车时被拖拽坠亡",
-      "onboard_time": 1715388681,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345488,
@@ -6097,6 +6097,14 @@
       "onboard_time": 1715172200,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335311,
+      "num": 335311,
+      "word": "护士人员流失现象严重",
+      "onboard_time": 1715390242,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335232,
@@ -6297,6 +6305,14 @@
       "onboard_time": 1715242938,
       "rank": 28,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 324205,
+      "num": 324205,
+      "word": "为什么上班后更容易变胖",
+      "onboard_time": 1715388201,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 323481,
@@ -8251,6 +8267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244126,
+      "num": 244126,
+      "word": "原来经常去音乐节的人是这样的",
+      "onboard_time": 1715390359,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244121,
       "num": 244121,
       "word": "陶昕然妈妈年轻时撞脸虞书欣",
@@ -8329,6 +8353,14 @@
       "onboard_time": 1715335939,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 239392,
+      "num": 239392,
+      "word": "官方通报买5块雪花酥花681元处理结果",
+      "onboard_time": 1715387420,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239367,
@@ -8595,14 +8627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 231985,
-      "num": 231985,
-      "word": "官方通报买5块雪花酥花681元处理结果",
-      "onboard_time": 1715387420,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231513,
       "num": 231513,
       "word": "继女对后妈是种什么样的情感",
@@ -8777,14 +8801,6 @@
       "onboard_time": 1714955720,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227611,
-      "num": 227611,
-      "word": "为什么上班后更容易变胖",
-      "onboard_time": 1715388201,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 227519,
@@ -9107,6 +9123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219713,
+      "num": 219713,
+      "word": "董思成回应为何不参加回归",
+      "onboard_time": 1715390359,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219602,
       "num": 219602,
       "word": "养猫后发现自己会成为糟糕的父母",
@@ -9225,6 +9249,14 @@
       "onboard_time": 1715382074,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217919,
+      "num": 217919,
+      "word": "毕业四年很多同事都转行了",
+      "onboard_time": 1715390719,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 217905,
@@ -11201,6 +11233,14 @@
       "onboard_time": 1715069000,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190047,
+      "num": 200039,
+      "word": "官方公布5块雪花酥681元调查结果",
+      "onboard_time": 1715390242,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 189739,
@@ -13457,6 +13497,14 @@
       "onboard_time": 1714894038,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157447,
+      "num": 157447,
+      "word": "阿勒泰现20年来最强极光",
+      "onboard_time": 1715390959,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 157167,
