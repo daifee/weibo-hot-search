@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715445344100,
+  "endTime": 1715447833964,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -43,8 +43,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 768460,
-      "num": 768460,
+      "raw_hot": 770678,
+      "num": 770678,
       "word": "北京极光",
       "onboard_time": 1715442560,
       "rank": 13,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 708961,
-      "num": 563244,
+      "num": 580071,
       "word": "高嘉朗 恳请歌手看看我",
       "onboard_time": 1715440162,
       "rank": 8,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332648,
+      "num": 304197,
+      "word": "她的小梨涡",
+      "onboard_time": 1715443460,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 318059,
       "num": 318059,
       "word": "极光",
@@ -187,12 +195,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 296566,
-      "num": 296566,
-      "word": "她的小梨涡",
-      "onboard_time": 1715443460,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 304132,
+      "num": 304132,
+      "word": "周六上班上出了结婚的感觉",
+      "onboard_time": 1715443760,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 294865,
@@ -219,20 +227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252254,
-      "num": 252254,
-      "word": "周六上班上出了结婚的感觉",
-      "onboard_time": 1715443760,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 229076,
       "num": 229076,
       "word": "袁娅维在写假条了",
       "onboard_time": 1715414538,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218474,
+      "num": 187164,
+      "word": "女子越狱40年后落网被抓时已70岁",
+      "onboard_time": 1715445378,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198732,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169362,
+      "num": 169362,
+      "word": "高圆圆去了苏有朋演唱会",
+      "onboard_time": 1715444598,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166455,
       "num": 166455,
       "word": "冉莹颖三胎儿子姓冉不姓邹",
@@ -329,14 +345,6 @@
       "onboard_time": 1715442619,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 142438,
-      "num": 142438,
-      "word": "高圆圆去了苏有朋演唱会",
-      "onboard_time": 1715444598,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 141986,
@@ -403,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117108,
+      "num": 110929,
+      "word": "阿朵去歌手吧",
+      "onboard_time": 1715430139,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116079,
       "num": 116079,
       "word": "郑钦文晋级",
@@ -411,12 +427,68 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111287,
+      "num": 111287,
+      "word": "汶川地震16年了",
+      "onboard_time": 1715447536,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110954,
+      "num": 110954,
+      "word": "母亲节红包",
+      "onboard_time": 1715445257,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 97360,
+      "num": 94876,
+      "word": "那英 当打之年",
+      "onboard_time": 1715425219,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83553,
       "num": 83553,
       "word": "三个会唱的 速来",
       "onboard_time": 1715417779,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79915,
+      "num": 95038,
+      "word": "周琦说想打G5确实身体撑不住",
+      "onboard_time": 1715446997,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71068,
+      "num": 94925,
+      "word": "陈楚生弹壳合唱醉",
+      "onboard_time": 1715445857,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 70513,
+      "num": 94761,
+      "word": "现在的年轻人为什么不穿皮鞋",
+      "onboard_time": 1715447536,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 68760,
+      "num": 94708,
+      "word": "陈梦说抱着向莎莎学习的心态打比赛",
+      "onboard_time": 1715431698,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

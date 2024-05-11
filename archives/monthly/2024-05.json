@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715445344100,
+  "endTime": 1715447833964,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -3523,6 +3523,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 770678,
+      "num": 770678,
+      "word": "北京极光",
+      "onboard_time": 1715442560,
+      "rank": 13,
+      "category": "自然"
+    },
+    {
       "raw_hot": 770560,
       "num": 770560,
       "word": "美国一夫妻中奖13亿美元将与朋友平分",
@@ -3537,14 +3545,6 @@
       "onboard_time": 1715170098,
       "rank": 6,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 768460,
-      "num": 768460,
-      "word": "北京极光",
-      "onboard_time": 1715442560,
-      "rank": 13,
-      "category": "自然"
     },
     {
       "raw_hot": 767827,
@@ -3956,7 +3956,7 @@
     },
     {
       "raw_hot": 708961,
-      "num": 563244,
+      "num": 580071,
       "word": "高嘉朗 恳请歌手看看我",
       "onboard_time": 1715440162,
       "rank": 30,
@@ -10403,6 +10403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 332648,
+      "num": 304197,
+      "word": "她的小梨涡",
+      "onboard_time": 1715443460,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 332626,
       "num": 332626,
       "word": "独行侠4比2快船",
@@ -11219,6 +11227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304132,
+      "num": 304132,
+      "word": "周六上班上出了结婚的感觉",
+      "onboard_time": 1715443760,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304052,
       "num": 304052,
       "word": "刘耀文和侯雯元谈第二十条路演",
@@ -11433,14 +11449,6 @@
       "onboard_time": 1714802598,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296566,
-      "num": 296566,
-      "word": "她的小梨涡",
-      "onboard_time": 1715443460,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 296485,
@@ -13225,14 +13233,6 @@
       "onboard_time": 1714959978,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252254,
-      "num": 252254,
-      "word": "周六上班上出了结婚的感觉",
-      "onboard_time": 1715443760,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 252067,
@@ -15201,6 +15201,14 @@
       "onboard_time": 1714784297,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218474,
+      "num": 187164,
+      "word": "女子越狱40年后落网被抓时已70岁",
+      "onboard_time": 1715445378,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218348,
@@ -21043,6 +21051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169362,
+      "num": 169362,
+      "word": "高圆圆去了苏有朋演唱会",
+      "onboard_time": 1715444598,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169276,
       "num": 255541,
       "word": "胡一天自驾出游vlog",
@@ -24504,14 +24520,6 @@
       "word": "日出演唱会",
       "onboard_time": 1714820960,
       "rank": 40,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 142438,
-      "num": 142438,
-      "word": "高圆圆去了苏有朋演唱会",
-      "onboard_time": 1715444598,
-      "rank": 35,
       "category": "演出"
     },
     {
@@ -28227,6 +28235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111287,
+      "num": 111287,
+      "word": "汶川地震16年了",
+      "onboard_time": 1715447536,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111147,
       "num": 111147,
       "word": "徐杰发挥",
@@ -28241,6 +28257,14 @@
       "onboard_time": 1714729819,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110954,
+      "num": 110954,
+      "word": "母亲节红包",
+      "onboard_time": 1715445257,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 110915,
@@ -29691,6 +29715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79915,
+      "num": 95038,
+      "word": "周琦说想打G5确实身体撑不住",
+      "onboard_time": 1715446997,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79735,
       "num": 1448096,
       "word": "中法重量级高规格活动上的企业家",
@@ -29987,6 +30019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71068,
+      "num": 94925,
+      "word": "陈楚生弹壳合唱醉",
+      "onboard_time": 1715445857,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 70980,
       "num": 364222,
       "word": "来一场古风国潮旅游",
@@ -30041,6 +30081,14 @@
       "onboard_time": 1714605075,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70513,
+      "num": 94761,
+      "word": "现在的年轻人为什么不穿皮鞋",
+      "onboard_time": 1715447536,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 70102,
