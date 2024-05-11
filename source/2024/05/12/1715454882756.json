@@ -1,0 +1,410 @@
+{
+  "runTime": 1715454882756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 310601,
+        "num": 310601,
+        "word": "歌手踢馆",
+        "onboard_time": 1715438541,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186117,
+        "num": 186117,
+        "word": "南通车祸事故原因初步查明",
+        "onboard_time": 1715440581,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26905,
+        "num": 184167,
+        "word": "匈牙利掀起了中文热",
+        "onboard_time": 1715435481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182907,
+        "num": 182907,
+        "word": "黄霄雲 要多努力才能改变一句评价",
+        "onboard_time": 1715449215,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180886,
+        "num": 180886,
+        "word": "又一种新冠新毒株突袭多国",
+        "onboard_time": 1715435542,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97127,
+        "num": 97127,
+        "word": "北京极光",
+        "onboard_time": 1715442560,
+        "rank": 5,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 173353,
+        "num": 97104,
+        "word": "央视喊话袁娅维支援歌手",
+        "onboard_time": 1715433740,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88628,
+        "num": 88628,
+        "word": "母亲节",
+        "onboard_time": 1715444300,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158622,
+        "num": 88357,
+        "word": "歌手",
+        "onboard_time": 1715423240,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43365,
+        "num": 87917,
+        "word": "中国的龙是loong",
+        "onboard_time": 1715449754,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166619,
+        "num": 87878,
+        "word": "女子越狱40年后落网被抓时已70岁",
+        "onboard_time": 1715445378,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111535,
+        "num": 87341,
+        "word": "从国家队手里抢了个大活",
+        "onboard_time": 1715450893,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99387,
+        "num": 86991,
+        "word": "高嘉朗 恳请歌手看看我",
+        "onboard_time": 1715440162,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86850,
+        "num": 86850,
+        "word": "周六上班上出了结婚的感觉",
+        "onboard_time": 1715443760,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83104,
+        "num": 83104,
+        "word": "何洁带不动",
+        "onboard_time": 1715450174,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81262,
+        "num": 81262,
+        "word": "知否作者发文向林徽因道歉",
+        "onboard_time": 1715428639,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 73500,
+        "num": 73500,
+        "word": "新生女婴骨折16小时后腿部溃烂",
+        "onboard_time": 1715433861,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70419,
+        "num": 70419,
+        "word": "南通大巴车与渣土车相撞事故一女孩去世",
+        "onboard_time": 1715432901,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69313,
+        "num": 69313,
+        "word": "歌手奔跑吧收视率第一",
+        "onboard_time": 1715426179,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66705,
+        "num": 66705,
+        "word": "她的小梨涡",
+        "onboard_time": 1715443460,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123931,
+        "num": 66201,
+        "word": "六公主评价杨幂演技",
+        "onboard_time": 1715436621,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62316,
+        "num": 62316,
+        "word": "张予曦撞脸黄子韬",
+        "onboard_time": 1715442320,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57735,
+        "num": 57735,
+        "word": "上海文旅局回应五月天假唱风波调查",
+        "onboard_time": 1715421260,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54409,
+        "num": 54409,
+        "word": "南通大巴与渣土车碰撞致1死",
+        "onboard_time": 1715440941,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49345,
+        "num": 49345,
+        "word": "极光",
+        "onboard_time": 1715437161,
+        "rank": 24,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 49142,
+        "num": 49142,
+        "word": "陈梦女单冠军",
+        "onboard_time": 1715429120,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47291,
+        "num": 47291,
+        "word": "现在的年轻人为什么不穿皮鞋",
+        "onboard_time": 1715447536,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45187,
+        "num": 45187,
+        "word": "男子隐瞒已婚事实与女子交往致女方自杀",
+        "onboard_time": 1715438960,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44635,
+        "num": 44635,
+        "word": "王楚钦生日夺冠",
+        "onboard_time": 1715433801,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42964,
+        "num": 42964,
+        "word": "尹净汉入伍",
+        "onboard_time": 1715435001,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40968,
+        "num": 40968,
+        "word": "袁娅维在写假条了",
+        "onboard_time": 1715414538,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40689,
+        "num": 40689,
+        "word": "陈楚生唱了压箱底的歌",
+        "onboard_time": 1715443881,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39608,
+        "num": 39608,
+        "word": "孙颖莎 球不落地永不放弃",
+        "onboard_time": 1715430259,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39255,
+        "num": 39255,
+        "word": "冉莹颖三胎儿子姓冉不姓邹",
+        "onboard_time": 1715433981,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37731,
+        "num": 37731,
+        "word": "何炅吴昕新综艺",
+        "onboard_time": 1715453952,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36908,
+        "num": 36908,
+        "word": "汶川地震16年了",
+        "onboard_time": 1715447536,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36029,
+        "num": 36029,
+        "word": "吃榴莲 补气血",
+        "onboard_time": 1715434882,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35368,
+        "num": 35368,
+        "word": "二手玫瑰 允许部分艺术家先富起来",
+        "onboard_time": 1715427319,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34609,
+        "num": 34609,
+        "word": "陈梦王楚钦合影",
+        "onboard_time": 1715438600,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29736,
+        "num": 34602,
+        "word": "安陵容 踢馆",
+        "onboard_time": 1715420239,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29472,
+        "num": 34520,
+        "word": "王楚钦说冠军是最好的生日礼物",
+        "onboard_time": 1715442139,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29414,
+        "num": 34489,
+        "word": "宋亚轩叫妈妈美女",
+        "onboard_time": 1715439923,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29198,
+        "num": 34433,
+        "word": "母亲节快乐",
+        "onboard_time": 1715442139,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27072,
+        "num": 34355,
+        "word": "王楚钦三冠王",
+        "onboard_time": 1715434460,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26889,
+        "num": 34283,
+        "word": "周琦说想打G5确实身体撑不住",
+        "onboard_time": 1715446997,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26876,
+        "num": 34244,
+        "word": "孙颖莎陈梦女单决赛",
+        "onboard_time": 1715424440,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26575,
+        "num": 34194,
+        "word": "地磁暴带着极光来了",
+        "onboard_time": 1715451615,
+        "rank": 46,
+        "category": "自然,科学科普"
+      },
+      {
+        "raw_hot": 25443,
+        "num": 34122,
+        "word": "Uzi去AL基地集训",
+        "onboard_time": 1715454491,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24941,
+        "num": 34109,
+        "word": "易烊千玺和猫下棋",
+        "onboard_time": 1715436201,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22120,
+        "num": 34037,
+        "word": "杜锋说为周琦受伤感到寒心",
+        "onboard_time": 1715439561,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向巴拿马当选总统致贺电#"
+    }
+  }
+}
