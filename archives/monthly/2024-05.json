@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715430708236,
+  "endTime": 1715431574640,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1100,7 +1100,7 @@
     },
     {
       "raw_hot": 1380632,
-      "num": 1004562,
+      "num": 1106660,
       "word": "歌手",
       "onboard_time": 1714818859,
       "rank": 1,
@@ -1321,6 +1321,14 @@
       "onboard_time": 1715166199,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1266876,
+      "num": 1266876,
+      "word": "孙颖莎 球不落地永不放弃",
+      "onboard_time": 1715430259,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1262189,
@@ -2323,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 951652,
+      "num": 951652,
+      "word": "知否作者发文向林徽因道歉",
+      "onboard_time": 1715428639,
+      "rank": 10,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 950056,
       "num": 950056,
       "word": "中国游客日本人均消费近30万日元",
@@ -2769,14 +2785,6 @@
       "onboard_time": 1714573878,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 868277,
-      "num": 868277,
-      "word": "孙颖莎 球不落地永不放弃",
-      "onboard_time": 1715430259,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 867606,
@@ -3419,14 +3427,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 765825,
-      "num": 765825,
-      "word": "知否作者发文向林徽因道歉",
-      "onboard_time": 1715428639,
-      "rank": 10,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 765313,
       "num": 446261,
       "word": "香飘飘",
@@ -3489,6 +3489,14 @@
       "onboard_time": 1714556178,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757286,
+      "num": 757286,
+      "word": "五一后开始考公真的是刚刚好",
+      "onboard_time": 1715425040,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 756363,
@@ -3777,14 +3785,6 @@
       "onboard_time": 1714612517,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723807,
-      "num": 723807,
-      "word": "五一后开始考公真的是刚刚好",
-      "onboard_time": 1715425040,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 712529,
@@ -9459,6 +9459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357716,
+      "num": 357716,
+      "word": "陈丽君滤镜掉了",
+      "onboard_time": 1715429480,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357299,
       "num": 357299,
       "word": "赛力斯报案",
@@ -9931,6 +9939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 339086,
+      "num": 339086,
+      "word": "babymonster唱我最红",
+      "onboard_time": 1715429840,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 338744,
       "num": 338744,
       "word": "徐园姐姐发声",
@@ -9993,14 +10009,6 @@
       "onboard_time": 1714535417,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 336693,
-      "num": 336693,
-      "word": "babymonster唱我最红",
-      "onboard_time": 1715429840,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 335967,
@@ -10905,14 +10913,6 @@
       "onboard_time": 1715260218,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 305098,
-      "num": 305098,
-      "word": "陈丽君滤镜掉了",
-      "onboard_time": 1715429480,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 304475,
@@ -13507,6 +13507,14 @@
       "category": "运动健身,科学科普"
     },
     {
+      "raw_hot": 239866,
+      "num": 239866,
+      "word": "二手玫瑰 允许部分艺术家先富起来",
+      "onboard_time": 1715427319,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 239458,
       "num": 239458,
       "word": "王源 指纹锁",
@@ -14433,14 +14441,6 @@
       "onboard_time": 1715128342,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 224789,
-      "num": 224789,
-      "word": "二手玫瑰 允许部分艺术家先富起来",
-      "onboard_time": 1715427319,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 224724,
@@ -17211,6 +17211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196636,
+      "num": 196636,
+      "word": "国乒包揽WTT沙特赛女单冠亚军",
+      "onboard_time": 1715430440,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196574,
       "num": 196574,
       "word": "theboyz青岛签售",
@@ -18305,6 +18313,14 @@
       "onboard_time": 1715424859,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188451,
+      "num": 188451,
+      "word": "陈楚生南京",
+      "onboard_time": 1715431280,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 188449,
@@ -21019,14 +21035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165260,
-      "num": 165260,
-      "word": "国乒包揽WTT沙特赛女单冠亚军",
-      "onboard_time": 1715430440,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165211,
       "num": 165211,
       "word": "再也不敢不涂防晒出门了",
@@ -21875,6 +21883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158543,
+      "num": 158543,
+      "word": "韩红 抽象派无地自容",
+      "onboard_time": 1715431040,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158458,
       "num": 158458,
       "word": "陈梦大满贯晋级4强",
@@ -22665,6 +22681,14 @@
       "onboard_time": 1715226078,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151962,
+      "num": 151962,
+      "word": "TTG对战KSG",
+      "onboard_time": 1715428159,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 151946,
@@ -23643,6 +23667,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 144763,
+      "num": 144763,
+      "word": "TWS翻唱SVT出道曲",
+      "onboard_time": 1715431098,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144750,
       "num": 144355,
       "word": "音乐节票价",
@@ -24145,6 +24177,14 @@
       "onboard_time": 1715401219,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140650,
+      "num": 140650,
+      "word": "为什么选阿卡丽",
+      "onboard_time": 1715430259,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 140576,
@@ -24897,14 +24937,6 @@
       "onboard_time": 1715423059,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 134768,
-      "num": 134768,
-      "word": "为什么选阿卡丽",
-      "onboard_time": 1715430259,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 134765,
@@ -26017,6 +26049,14 @@
       "onboard_time": 1714795756,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125648,
+      "num": 125648,
+      "word": "富勒姆vs曼城",
+      "onboard_time": 1715430798,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 125614,
@@ -29436,7 +29476,7 @@
     },
     {
       "raw_hot": 70755,
-      "num": 1020635,
+      "num": 1126682,
       "word": "第2届中国播音主持金声奖",
       "onboard_time": 1715418858,
       "rank": 2,
@@ -29585,6 +29625,14 @@
       "onboard_time": 1715275334,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65852,
+      "num": 661061,
+      "word": "一人一城一生一队",
+      "onboard_time": 1715428820,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 65848,
@@ -30161,14 +30209,6 @@
       "onboard_time": 1714896140,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46224,
-      "num": 661061,
-      "word": "一人一城一生一队",
-      "onboard_time": 1715428820,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 46105,
