@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715463251129,
+  "endTime": 1715465768911,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -31139,6 +31139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36751,
+      "num": 36751,
+      "word": "母亲节快乐",
+      "onboard_time": 1715442139,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36019,
       "num": 45541,
       "word": "高息存款正在消失吗",
@@ -31203,6 +31211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32206,
+      "num": 32206,
+      "word": "头发蛋白矫正",
+      "onboard_time": 1715457551,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 31619,
       "num": 31318,
       "word": "中央气象台发强对流天气橙色预警",
@@ -31227,28 +31243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30696,
-      "num": 30696,
-      "word": "头发蛋白矫正",
-      "onboard_time": 1715457551,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 30479,
       "num": 38487,
       "word": "背书时就能看见骨子里的谦让",
       "onboard_time": 1714769590,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 29870,
-      "num": 34433,
-      "word": "母亲节快乐",
-      "onboard_time": 1715442139,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29825,
@@ -31369,6 +31369,14 @@
       "onboard_time": 1714765451,
       "rank": 24,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 24962,
+      "num": 24962,
+      "word": "班级成绩第一老师请全班吃烤全羊",
+      "onboard_time": 1715465171,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24592,

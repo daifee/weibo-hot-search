@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715463251129,
+  "endTime": 1715465768911,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -571,20 +571,20 @@
       "category": "自然,科学科普"
     },
     {
-      "raw_hot": 30696,
-      "num": 30696,
-      "word": "头发蛋白矫正",
-      "onboard_time": 1715457551,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 29870,
-      "num": 34433,
+      "raw_hot": 36751,
+      "num": 36751,
       "word": "母亲节快乐",
       "onboard_time": 1715442139,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32206,
+      "num": 32206,
+      "word": "头发蛋白矫正",
+      "onboard_time": 1715457551,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 28497,
@@ -595,20 +595,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 27951,
+      "num": 27951,
+      "word": "NBA",
+      "onboard_time": 1715461510,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24962,
+      "num": 24962,
+      "word": "班级成绩第一老师请全班吃烤全羊",
+      "onboard_time": 1715465171,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22291,
       "num": 20207,
       "word": "周深能不能来歌手",
       "onboard_time": 1715440343,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20512,
-      "num": 20512,
-      "word": "NBA",
-      "onboard_time": 1715461510,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 18771,
