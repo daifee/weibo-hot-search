@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715459682460,
+  "endTime": 1715462245274,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -579,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28598,
+      "num": 28598,
+      "word": "头发蛋白矫正",
+      "onboard_time": 1715457551,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 28497,
       "num": 34122,
       "word": "Uzi去AL基地集训",
@@ -587,20 +595,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27809,
-      "num": 27809,
-      "word": "头发蛋白矫正",
-      "onboard_time": 1715457551,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 18771,
       "num": 21024,
       "word": "2024防灾减灾日",
       "onboard_time": 1715457071,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16612,
+      "num": 19639,
+      "word": "NBA",
+      "onboard_time": 1715461510,
+      "rank": 46,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

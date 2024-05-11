@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715459682460,
+  "endTime": 1715462245274,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -31291,6 +31291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28598,
+      "num": 28598,
+      "word": "头发蛋白矫正",
+      "onboard_time": 1715457551,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 28497,
       "num": 34122,
       "word": "Uzi去AL基地集训",
@@ -31305,14 +31313,6 @@
       "onboard_time": 1714970901,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27809,
-      "num": 27809,
-      "word": "头发蛋白矫正",
-      "onboard_time": 1715457551,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 27657,
