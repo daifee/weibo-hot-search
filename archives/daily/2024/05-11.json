@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715427252441,
+  "endTime": 1715430708236,
   "band_list": [
     {
       "raw_hot": 5071256,
@@ -25,6 +25,14 @@
       "onboard_time": 1715384958,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2245018,
+      "num": 2245018,
+      "word": "陈梦女单冠军",
+      "onboard_time": 1715429120,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2154796,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1525229,
-      "num": 431347,
+      "num": 526420,
       "word": "男网友殉情身亡女方判赔43万余元",
       "onboard_time": 1715413520,
       "rank": 10,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1315511,
-      "num": 431302,
+      "num": 589397,
       "word": "南通",
       "onboard_time": 1715415318,
       "rank": 15,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1311315,
-      "num": 502047,
+      "num": 527692,
       "word": "那是姐的姓 红是姐的命",
       "onboard_time": 1715419880,
       "rank": 42,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1174339,
-      "num": 430315,
+      "num": 983047,
       "word": "马来西亚称只承认联合国制裁不认美国",
       "onboard_time": 1715423359,
       "rank": 33,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 1074793,
-      "num": 553914,
+      "num": 755634,
       "word": "白夜追凶2",
       "onboard_time": 1715422758,
       "rank": 13,
@@ -203,12 +211,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1019101,
+      "num": 1019101,
+      "word": "歌手奔跑吧收视率第一",
+      "onboard_time": 1715426179,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1005880,
       "num": 1005880,
       "word": "女生误发吐槽到公司群老板取消调休补班",
       "onboard_time": 1715404339,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1003824,
+      "num": 1003824,
+      "word": "孙颖莎陈梦女单决赛",
+      "onboard_time": 1715424440,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 997374,
@@ -227,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 967028,
+      "num": 967028,
+      "word": "孙颖莎vs陈梦",
+      "onboard_time": 1715428878,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 926680,
       "num": 926680,
       "word": "林志炫称因撞档期未能来歌手2024",
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 919635,
-      "num": 436588,
+      "num": 874459,
       "word": "歌手",
       "onboard_time": 1715332397,
       "rank": 47,
@@ -299,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 868277,
+      "num": 868277,
+      "word": "孙颖莎 球不落地永不放弃",
+      "onboard_time": 1715430259,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 862033,
       "num": 862033,
       "word": "二手玫瑰受众",
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 857565,
-      "num": 437807,
+      "num": 527202,
       "word": "安陵容 踢馆",
       "onboard_time": 1715420239,
       "rank": 7,
@@ -329,6 +369,14 @@
       "onboard_time": 1715405360,
       "rank": 17,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 765825,
+      "num": 765825,
+      "word": "知否作者发文向林徽因道歉",
+      "onboard_time": 1715428639,
+      "rank": 10,
+      "category": "读书作家"
     },
     {
       "raw_hot": 763647,
@@ -355,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 723807,
+      "num": 723807,
+      "word": "五一后开始考公真的是刚刚好",
+      "onboard_time": 1715425040,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 697878,
       "num": 697878,
       "word": "某幻 花少北",
       "onboard_time": 1715393298,
       "rank": 14,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 691924,
+      "num": 691924,
+      "word": "阿朵去歌手吧",
+      "onboard_time": 1715430139,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 683815,
@@ -420,9 +484,17 @@
     },
     {
       "raw_hot": 653625,
-      "num": 428370,
+      "num": 624877,
       "word": "歌手抓紧摇人吧",
       "onboard_time": 1715425219,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 645020,
+      "num": 645020,
+      "word": "李佳薇 为华语乐坛奋战",
+      "onboard_time": 1715427439,
       "rank": 15,
       "category": "综艺"
     },
@@ -435,28 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 641883,
-      "num": 422976,
-      "word": "歌手奔跑吧收视率第一",
-      "onboard_time": 1715426179,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 634934,
-      "num": 634934,
-      "word": "孙颖莎陈梦女单决赛",
-      "onboard_time": 1715424440,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 632934,
       "num": 332744,
       "word": "巩俐 法国国宴",
       "onboard_time": 1715417899,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 631608,
+      "num": 631608,
+      "word": "陈梦采访",
+      "onboard_time": 1715430139,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 631355,
@@ -595,6 +659,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 527796,
+      "num": 527796,
+      "word": "福宝主打一个心大",
+      "onboard_time": 1715426600,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525349,
       "num": 525349,
       "word": "惠英红 第二次拿金像奖是我的重生",
@@ -644,7 +716,7 @@
     },
     {
       "raw_hot": 455763,
-      "num": 313903,
+      "num": 333843,
       "word": "那英 当打之年",
       "onboard_time": 1715425219,
       "rank": 21,
@@ -683,20 +755,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 438263,
-      "num": 438263,
-      "word": "五一后开始考公真的是刚刚好",
-      "onboard_time": 1715425040,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 432414,
       "num": 432414,
       "word": "李晨纪凌尘一起健身",
       "onboard_time": 1715388859,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428639,
+      "num": 428639,
+      "word": "赵雅芝70岁穿细高跟跳",
+      "onboard_time": 1715427019,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 427177,
@@ -803,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379344,
+      "num": 379344,
+      "word": "王楚钦男单决赛",
+      "onboard_time": 1715429060,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378840,
       "num": 378840,
       "word": "邓超问孙俪嫌他吵吗",
@@ -875,6 +955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 336693,
+      "num": 336693,
+      "word": "babymonster唱我最红",
+      "onboard_time": 1715429840,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 324205,
       "num": 324205,
       "word": "为什么上班后更容易变胖",
@@ -921,6 +1009,14 @@
       "onboard_time": 1715354060,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305098,
+      "num": 305098,
+      "word": "陈丽君滤镜掉了",
+      "onboard_time": 1715429480,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 304475,
@@ -1067,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247037,
+      "num": 247037,
+      "word": "TES虽败犹荣",
+      "onboard_time": 1715428398,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246937,
       "num": 246937,
       "word": "考研的风还是吹到了演艺圈",
@@ -1179,12 +1283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230869,
-      "num": 230869,
-      "word": "福宝主打一个心大",
-      "onboard_time": 1715426600,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 231454,
+      "num": 231454,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1715425818,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 230623,
@@ -1217,6 +1321,14 @@
       "onboard_time": 1715421740,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224789,
+      "num": 224789,
+      "word": "二手玫瑰 允许部分艺术家先富起来",
+      "onboard_time": 1715427319,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 224412,
@@ -1252,7 +1364,7 @@
     },
     {
       "raw_hot": 220097,
-      "num": 433085,
+      "num": 801150,
       "word": "送这种花妈妈根本无法拒绝",
       "onboard_time": 1715421017,
       "rank": 9,
@@ -1321,6 +1433,14 @@
       "onboard_time": 1715387300,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 210171,
+      "num": 210171,
+      "word": "贵州一景点门票9999元",
+      "onboard_time": 1715427139,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 209465,
@@ -1457,6 +1577,22 @@
       "onboard_time": 1715348841,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197011,
+      "num": 197011,
+      "word": "辽粤大战",
+      "onboard_time": 1715429538,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196679,
+      "num": 196679,
+      "word": "WTT",
+      "onboard_time": 1715430318,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 194565,
@@ -1691,12 +1827,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 169912,
-      "num": 169912,
-      "word": "辽宁男篮vs广东男篮",
-      "onboard_time": 1715425818,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 170956,
+      "num": 170956,
+      "word": "福宝",
+      "onboard_time": 1715430559,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169625,
@@ -1723,12 +1859,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166284,
-      "num": 166284,
-      "word": "赵雅芝70岁穿细高跟跳",
-      "onboard_time": 1715427019,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 165260,
+      "num": 165260,
+      "word": "国乒包揽WTT沙特赛女单冠亚军",
+      "onboard_time": 1715430440,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 164091,
@@ -1899,6 +2035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153516,
+      "num": 153516,
+      "word": "惠英红的人生 有嚼劲",
+      "onboard_time": 1715427319,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153401,
       "num": 208247,
       "word": "身上这5种臭味或是疾病征兆",
@@ -2067,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137956,
+      "num": 137956,
+      "word": "景区回应门票9999元",
+      "onboard_time": 1715429359,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 137268,
       "num": 157762,
       "word": "英国极光",
@@ -2097,6 +2249,14 @@
       "onboard_time": 1715423059,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 134768,
+      "num": 134768,
+      "word": "为什么选阿卡丽",
+      "onboard_time": 1715430259,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 134758,
@@ -2460,7 +2620,7 @@
     },
     {
       "raw_hot": 70755,
-      "num": 684400,
+      "num": 1020635,
       "word": "第2届中国播音主持金声奖",
       "onboard_time": 1715418858,
       "rank": 2,
@@ -2585,6 +2745,14 @@
       "onboard_time": 1715398099,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46224,
+      "num": 661061,
+      "word": "一人一城一生一队",
+      "onboard_time": 1715428820,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 44596,
