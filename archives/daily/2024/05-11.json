@@ -1,10 +1,10 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715422755065,
+  "endTime": 1715423730681,
   "band_list": [
     {
-      "raw_hot": 4778518,
-      "num": 4778518,
+      "raw_hot": 5071256,
+      "num": 5071256,
       "word": "上海文旅局回应五月天假唱风波调查",
       "onboard_time": 1715421260,
       "rank": 0,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1425489,
-      "num": 405000,
+      "num": 483684,
       "word": "三个会唱的 速来",
       "onboard_time": 1715417779,
       "rank": 22,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 919635,
+      "num": 259620,
+      "word": "歌手",
+      "onboard_time": 1715332397,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 918132,
       "num": 319556,
       "word": "女子遭风筝线割喉一个动作救自己一命",
@@ -259,6 +267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 888835,
+      "num": 341631,
+      "word": "那是姐的姓 红是姐的命",
+      "onboard_time": 1715419880,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 875547,
       "num": 659205,
       "word": "邓超居然参加过歌手",
@@ -272,14 +288,6 @@
       "word": "二手玫瑰受众",
       "onboard_time": 1715410098,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 850577,
-      "num": 341631,
-      "word": "那是姐的姓 红是姐的命",
-      "onboard_time": 1715419880,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -323,7 +331,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 704408,
+      "raw_hot": 719687,
+      "num": 252463,
+      "word": "白夜追凶2",
+      "onboard_time": 1715422758,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 707373,
       "num": 320311,
       "word": "安陵容 踢馆",
       "onboard_time": 1715420239,
@@ -467,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585390,
+      "num": 243287,
+      "word": "幼童遭货拉拉碾轧身亡",
+      "onboard_time": 1715419640,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580225,
       "num": 288894,
       "word": "迪丽热巴手机打码的原因",
       "onboard_time": 1715351902,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 562941,
-      "num": 243287,
-      "word": "幼童遭货拉拉碾轧身亡",
-      "onboard_time": 1715419640,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 562020,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469254,
+      "num": 469254,
+      "word": "超大地磁暴来了需要放假躲一下吗",
+      "onboard_time": 1715419338,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 464635,
       "num": 349439,
       "word": "国内最大黄金批发市场遭到暴击",
@@ -585,6 +609,14 @@
       "onboard_time": 1715402599,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444712,
+      "num": 218668,
+      "word": "五月天",
+      "onboard_time": 1715423000,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 442032,
@@ -673,14 +705,6 @@
       "onboard_time": 1715351360,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394388,
-      "num": 394388,
-      "word": "超大地磁暴来了需要放假躲一下吗",
-      "onboard_time": 1715419338,
-      "rank": 37,
-      "category": "科学科普"
     },
     {
       "raw_hot": 393013,
@@ -788,7 +812,7 @@
     },
     {
       "raw_hot": 337476,
-      "num": 202099,
+      "num": 210865,
       "word": "aespa福冈演唱会延期",
       "onboard_time": 1715420418,
       "rank": 25,
@@ -873,6 +897,14 @@
       "onboard_time": 1715366233,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283638,
+      "num": 225594,
+      "word": "原来是忘记查手机了",
+      "onboard_time": 1715419338,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 278780,
@@ -1123,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218865,
+      "num": 176644,
+      "word": "马来西亚称只承认联合国制裁不认美国",
+      "onboard_time": 1715423359,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 218276,
       "num": 216082,
       "word": "王冰冰在柬埔寨过新年",
@@ -1227,6 +1267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205027,
+      "num": 205027,
+      "word": "米利西奇出任中国女足主帅",
+      "onboard_time": 1715422938,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204494,
       "num": 204494,
       "word": "发胖真的有年龄分界线吗",
@@ -1291,14 +1339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197668,
-      "num": 200924,
-      "word": "原来是忘记查手机了",
-      "onboard_time": 1715419338,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194471,
       "num": 194471,
       "word": "极光",
@@ -1345,6 +1385,14 @@
       "onboard_time": 1715390242,
       "rank": 33,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 189999,
+      "num": 301320,
+      "word": "送这种花妈妈根本无法拒绝",
+      "onboard_time": 1715421017,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189964,
@@ -1419,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183877,
+      "num": 200829,
+      "word": "25岁是个长胖分水岭",
+      "onboard_time": 1715421198,
+      "rank": 29,
+      "category": "运动健身,科学科普"
+    },
+    {
       "raw_hot": 181490,
       "num": 181490,
       "word": "你好星期六全员玩明白了卧底局",
@@ -1428,7 +1484,7 @@
     },
     {
       "raw_hot": 177805,
-      "num": 160840,
+      "num": 173287,
       "word": "济南热心市民林俊杰",
       "onboard_time": 1715420239,
       "rank": 40,
@@ -1499,14 +1555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173900,
-      "num": 301320,
-      "word": "送这种花妈妈根本无法拒绝",
-      "onboard_time": 1715421017,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172753,
       "num": 172753,
       "word": "广州水价听证会1人不认同任一方案",
@@ -1516,7 +1564,7 @@
     },
     {
       "raw_hot": 169625,
-      "num": 203484,
+      "num": 223232,
       "word": "你坐电车晕车吗",
       "onboard_time": 1715419759,
       "rank": 35,
@@ -1675,6 +1723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155506,
+      "num": 155506,
+      "word": "TES 换线",
+      "onboard_time": 1715419818,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154675,
       "num": 154675,
       "word": "王楚钦0511生日快乐",
@@ -1713,14 +1769,6 @@
       "onboard_time": 1715353645,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150386,
-      "num": 200829,
-      "word": "25岁是个长胖分水岭",
-      "onboard_time": 1715421198,
-      "rank": 29,
-      "category": "运动健身,科学科普"
     },
     {
       "raw_hot": 150363,
@@ -1771,20 +1819,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143380,
-      "num": 75472,
-      "word": "歌手",
-      "onboard_time": 1715332397,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143241,
       "num": 431826,
       "word": "河南大专生上岸北大医学部",
       "onboard_time": 1715411538,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142786,
+      "num": 142786,
+      "word": "TES扳回1分",
+      "onboard_time": 1715423479,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 141064,
@@ -1865,6 +1913,14 @@
       "onboard_time": 1715390000,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134813,
+      "num": 134813,
+      "word": "理发为何越来越贵了",
+      "onboard_time": 1715423059,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 134758,
@@ -1993,14 +2049,6 @@
       "onboard_time": 1715398279,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118471,
-      "num": 118471,
-      "word": "TES 换线",
-      "onboard_time": 1715419818,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 117237,
@@ -2219,6 +2267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 70755,
+      "num": 684400,
+      "word": "第2届中国播音主持金声奖",
+      "onboard_time": 1715418858,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69955,
       "num": 75516,
       "word": "陈梦连胜日本女单三大主力",
@@ -2267,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64260,
+      "num": 273569,
+      "word": "我们仨环岛游全员尽兴",
+      "onboard_time": 1715420779,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63219,
       "num": 35638,
       "word": "杨丞琳唱带我走",
@@ -2289,14 +2353,6 @@
       "onboard_time": 1715412498,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 57218,
-      "num": 684400,
-      "word": "第2届中国播音主持金声奖",
-      "onboard_time": 1715418858,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56077,
@@ -2345,14 +2401,6 @@
       "onboard_time": 1715398099,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47688,
-      "num": 273569,
-      "word": "我们仨环岛游全员尽兴",
-      "onboard_time": 1715420779,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 44596,
