@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715456057549,
+  "endTime": 1715458727607,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -30467,6 +30467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58413,
+      "num": 58413,
+      "word": "何炅吴昕新综艺",
+      "onboard_time": 1715453952,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58309,
       "num": 458128,
       "word": "神十八乘组太空出差vlog",
@@ -30747,6 +30755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 50088,
+      "num": 28254,
+      "word": "井柏然审美",
+      "onboard_time": 1715455213,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 49914,
       "num": 733137,
       "word": "多元化消费激活经济新动能",
@@ -30768,14 +30784,6 @@
       "word": "灿烂的花园",
       "onboard_time": 1714670115,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 49662,
-      "num": 49662,
-      "word": "何炅吴昕新综艺",
-      "onboard_time": 1715453952,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -31331,14 +31339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25549,
-      "num": 27686,
-      "word": "井柏然审美",
-      "onboard_time": 1715455213,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 25495,
       "num": 341329,
       "word": "用劳动的手写下劳动的诗篇",
@@ -31419,6 +31419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 22268,
+      "num": 22268,
+      "word": "头发蛋白矫正",
+      "onboard_time": 1715457551,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 21727,
       "num": 212205,
       "word": "陶昕然邀甄学家们答题免单",
@@ -31497,6 +31505,14 @@
       "onboard_time": 1715282470,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17817,
+      "num": 21024,
+      "word": "2024防灾减灾日",
+      "onboard_time": 1715457071,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17803,

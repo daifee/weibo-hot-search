@@ -1,0 +1,410 @@
+{
+  "runTime": 1715458727607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 150577,
+        "num": 150577,
+        "word": "歌手踢馆",
+        "onboard_time": 1715438541,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148332,
+        "num": 148332,
+        "word": "又一种新冠新毒株突袭多国",
+        "onboard_time": 1715435542,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19993,
+        "num": 121618,
+        "word": "匈牙利掀起了中文热",
+        "onboard_time": 1715435481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104950,
+        "num": 104950,
+        "word": "南通车祸事故原因初步查明",
+        "onboard_time": 1715440581,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95649,
+        "num": 95649,
+        "word": "央视喊话袁娅维支援歌手",
+        "onboard_time": 1715433740,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80921,
+        "num": 80921,
+        "word": "母亲节",
+        "onboard_time": 1715444300,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88886,
+        "num": 76553,
+        "word": "歌手",
+        "onboard_time": 1715423240,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53836,
+        "num": 69781,
+        "word": "知否作者发文向林徽因道歉",
+        "onboard_time": 1715428639,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 67287,
+        "num": 67287,
+        "word": "黄霄雲 要多努力才能改变一句评价",
+        "onboard_time": 1715449215,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26541,
+        "num": 60285,
+        "word": "中国的龙是loong",
+        "onboard_time": 1715449754,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105699,
+        "num": 59669,
+        "word": "女子越狱40年后落网被抓时已70岁",
+        "onboard_time": 1715445378,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58413,
+        "num": 58413,
+        "word": "何炅吴昕新综艺",
+        "onboard_time": 1715453952,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55564,
+        "num": 55564,
+        "word": "高嘉朗 恳请歌手看看我",
+        "onboard_time": 1715440162,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50913,
+        "num": 50913,
+        "word": "南通大巴车与渣土车相撞事故一女孩去世",
+        "onboard_time": 1715432901,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48958,
+        "num": 48958,
+        "word": "新生女婴骨折16小时后腿部溃烂",
+        "onboard_time": 1715433861,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45379,
+        "num": 45379,
+        "word": "何洁带不动",
+        "onboard_time": 1715450174,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43870,
+        "num": 43870,
+        "word": "南通大巴与渣土车碰撞致1死",
+        "onboard_time": 1715440941,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43484,
+        "num": 43484,
+        "word": "北京极光",
+        "onboard_time": 1715442560,
+        "rank": 17,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 41204,
+        "num": 41204,
+        "word": "极光",
+        "onboard_time": 1715437161,
+        "rank": 18,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 36361,
+        "num": 36361,
+        "word": "从国家队手里抢了个大活",
+        "onboard_time": 1715450893,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75094,
+        "num": 36271,
+        "word": "六公主评价杨幂演技",
+        "onboard_time": 1715436621,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36165,
+        "num": 36165,
+        "word": "陈梦女单冠军",
+        "onboard_time": 1715429120,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34462,
+        "num": 34462,
+        "word": "歌手奔跑吧收视率第一",
+        "onboard_time": 1715426179,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34421,
+        "num": 34421,
+        "word": "王楚钦生日夺冠",
+        "onboard_time": 1715433801,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34274,
+        "num": 34274,
+        "word": "男子隐瞒已婚事实与女子交往致女方自杀",
+        "onboard_time": 1715438960,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34244,
+        "num": 34244,
+        "word": "冉莹颖三胎儿子姓冉不姓邹",
+        "onboard_time": 1715433981,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31801,
+        "num": 31801,
+        "word": "周六上班上出了结婚的感觉",
+        "onboard_time": 1715443760,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31786,
+        "num": 31786,
+        "word": "汶川地震16年了",
+        "onboard_time": 1715447536,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29795,
+        "num": 29795,
+        "word": "现在的年轻人为什么不穿皮鞋",
+        "onboard_time": 1715447536,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28276,
+        "num": 28276,
+        "word": "孙颖莎 球不落地永不放弃",
+        "onboard_time": 1715430259,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50088,
+        "num": 28254,
+        "word": "井柏然审美",
+        "onboard_time": 1715455213,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28075,
+        "num": 28075,
+        "word": "张予曦撞脸黄子韬",
+        "onboard_time": 1715442320,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26994,
+        "num": 26994,
+        "word": "母亲节快乐",
+        "onboard_time": 1715442139,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26645,
+        "num": 26645,
+        "word": "上海文旅局回应五月天假唱风波调查",
+        "onboard_time": 1715421260,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26473,
+        "num": 26473,
+        "word": "袁娅维在写假条了",
+        "onboard_time": 1715414538,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26225,
+        "num": 26225,
+        "word": "安陵容 踢馆",
+        "onboard_time": 1715420239,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25515,
+        "num": 25515,
+        "word": "她的小梨涡",
+        "onboard_time": 1715443460,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24551,
+        "num": 24551,
+        "word": "二手玫瑰 允许部分艺术家先富起来",
+        "onboard_time": 1715427319,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23975,
+        "num": 23975,
+        "word": "王楚钦说冠军是最好的生日礼物",
+        "onboard_time": 1715442139,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23879,
+        "num": 23879,
+        "word": "陈梦王楚钦合影",
+        "onboard_time": 1715438600,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22569,
+        "num": 22569,
+        "word": "Uzi去AL基地集训",
+        "onboard_time": 1715454491,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22268,
+        "num": 22268,
+        "word": "头发蛋白矫正",
+        "onboard_time": 1715457551,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 22164,
+        "num": 22164,
+        "word": "尹净汉入伍",
+        "onboard_time": 1715435001,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22152,
+        "num": 22152,
+        "word": "吃榴莲 补气血",
+        "onboard_time": 1715434882,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 21052,
+        "num": 21052,
+        "word": "陈楚生唱了压箱底的歌",
+        "onboard_time": 1715443881,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19616,
+        "num": 21051,
+        "word": "宋亚轩叫妈妈美女",
+        "onboard_time": 1715439923,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18543,
+        "num": 21039,
+        "word": "杜锋说为周琦受伤感到寒心",
+        "onboard_time": 1715439561,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17817,
+        "num": 21024,
+        "word": "2024防灾减灾日",
+        "onboard_time": 1715457071,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17649,
+        "num": 21017,
+        "word": "孙颖莎陈梦女单决赛",
+        "onboard_time": 1715424440,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16526,
+        "num": 21015,
+        "word": "张镇麟打爆了",
+        "onboard_time": 1715438842,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对学校思政课建设作出重要指示#"
+    }
+  }
+}
