@@ -1,0 +1,410 @@
+{
+  "runTime": 1715433501288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563684,
+        "num": 1563684,
+        "word": "南通大巴车与渣土车相撞事故一女孩去世",
+        "onboard_time": 1715432901,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303385,
+        "num": 1303385,
+        "word": "歌手",
+        "onboard_time": 1715423240,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60838,
+        "num": 1265621,
+        "word": "第2届中国播音主持金声奖",
+        "onboard_time": 1715418858,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1240339,
+        "num": 1240339,
+        "word": "知否作者发文向林徽因道歉",
+        "onboard_time": 1715428639,
+        "rank": 3,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1000030,
+        "num": 1000030,
+        "word": "陈梦女单冠军",
+        "onboard_time": 1715429120,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 984795,
+        "num": 984795,
+        "word": "孙颖莎 球不落地永不放弃",
+        "onboard_time": 1715430259,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 842333,
+        "num": 842333,
+        "word": "歌手奔跑吧收视率第一",
+        "onboard_time": 1715426179,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766665,
+        "num": 766665,
+        "word": "王楚钦男单决赛",
+        "onboard_time": 1715429060,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 722033,
+        "num": 722033,
+        "word": "马来西亚称只承认联合国制裁不认美国",
+        "onboard_time": 1715423359,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228086,
+        "num": 719422,
+        "word": "送这种花妈妈根本无法拒绝",
+        "onboard_time": 1715421017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1689768,
+        "num": 718953,
+        "word": "擦边球",
+        "onboard_time": 1715431698,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 730181,
+        "num": 718488,
+        "word": "市民称南通车祸路口信号灯异常",
+        "onboard_time": 1715415318,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717972,
+        "num": 717972,
+        "word": "上海文旅局回应五月天假唱风波调查",
+        "onboard_time": 1715421260,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 687794,
+        "num": 687794,
+        "word": "五一后开始考公真的是刚刚好",
+        "onboard_time": 1715425040,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 642595,
+        "num": 642595,
+        "word": "白夜追凶2",
+        "onboard_time": 1715422758,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569733,
+        "num": 569733,
+        "word": "陈梦说抱着向莎莎学习的心态打比赛",
+        "onboard_time": 1715431698,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518264,
+        "num": 518264,
+        "word": "男网友殉情身亡女方判赔43万余元",
+        "onboard_time": 1715413520,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504860,
+        "num": 504860,
+        "word": "歌手抓紧摇人吧",
+        "onboard_time": 1715425219,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369862,
+        "num": 369862,
+        "word": "二手玫瑰 允许部分艺术家先富起来",
+        "onboard_time": 1715427319,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407401,
+        "num": 364297,
+        "word": "阿朵去歌手吧",
+        "onboard_time": 1715430139,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573379,
+        "num": 360274,
+        "word": "安陵容 踢馆",
+        "onboard_time": 1715420239,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1095386,
+        "num": 351725,
+        "word": "那是姐的姓 红是姐的命",
+        "onboard_time": 1715419880,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335295,
+        "num": 335295,
+        "word": "赵雅芝70岁穿细高跟跳",
+        "onboard_time": 1715427019,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 401258,
+        "num": 329375,
+        "word": "李佳薇 为华语乐坛奋战",
+        "onboard_time": 1715427439,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322927,
+        "num": 322927,
+        "word": "陈丽君滤镜掉了",
+        "onboard_time": 1715429480,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267483,
+        "num": 267483,
+        "word": "三个会唱的 速来",
+        "onboard_time": 1715417779,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252735,
+        "num": 252735,
+        "word": "辽宁男篮vs广东男篮",
+        "onboard_time": 1715425818,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246811,
+        "num": 246811,
+        "word": "福宝主打一个心大",
+        "onboard_time": 1715426600,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237350,
+        "num": 237350,
+        "word": "JackeyLove辛苦了",
+        "onboard_time": 1715432841,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213584,
+        "num": 213584,
+        "word": "福宝",
+        "onboard_time": 1715430559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212367,
+        "num": 212367,
+        "word": "babymonster唱我最红",
+        "onboard_time": 1715429840,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209357,
+        "num": 209357,
+        "word": "孙颖莎陈梦女单决赛",
+        "onboard_time": 1715424440,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208175,
+        "num": 208175,
+        "word": "陈梦采访",
+        "onboard_time": 1715430139,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197290,
+        "num": 197290,
+        "word": "何炅专栏",
+        "onboard_time": 1715432299,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190809,
+        "num": 190809,
+        "word": "孙颖莎vs陈梦",
+        "onboard_time": 1715428878,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171508,
+        "num": 171508,
+        "word": "杭州不少小学生用防晒霜",
+        "onboard_time": 1715431939,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 171424,
+        "num": 171424,
+        "word": "袁娅维在写假条了",
+        "onboard_time": 1715414538,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170770,
+        "num": 170770,
+        "word": "你好星期六",
+        "onboard_time": 1715431818,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166460,
+        "num": 166460,
+        "word": "TES虽败犹荣",
+        "onboard_time": 1715428398,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17923,
+        "num": 160856,
+        "word": "球迷是这样过调休的",
+        "onboard_time": 1715432419,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160849,
+        "num": 160849,
+        "word": "陈楚生南京",
+        "onboard_time": 1715431280,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158305,
+        "num": 158305,
+        "word": "辽粤大战",
+        "onboard_time": 1715429538,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156958,
+        "num": 156958,
+        "word": "WBG入选沙特电竞世界杯",
+        "onboard_time": 1715432841,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156909,
+        "num": 156909,
+        "word": "贵州一景点门票9999元",
+        "onboard_time": 1715427139,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 155229,
+        "num": 155229,
+        "word": "CBA半决赛",
+        "onboard_time": 1715425040,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143365,
+        "num": 143365,
+        "word": "babymonster日本粉丝见面会",
+        "onboard_time": 1715431759,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137835,
+        "num": 137835,
+        "word": "新疆的作息时间太适合年轻人了",
+        "onboard_time": 1715413939,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 134138,
+        "num": 134138,
+        "word": "北京国安vs梅州客家",
+        "onboard_time": 1715433320,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134044,
+        "num": 134044,
+        "word": "当年的华晨宇",
+        "onboard_time": 1715425519,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126688,
+        "num": 126688,
+        "word": "WTT",
+        "onboard_time": 1715430318,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的欧洲之行#"
+    }
+  }
+}

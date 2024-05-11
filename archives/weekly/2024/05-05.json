@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715431574640,
+  "endTime": 1715433501288,
   "band_list": [
     {
       "raw_hot": 5071256,
@@ -403,6 +403,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1689768,
+      "num": 718953,
+      "word": "擦边球",
+      "onboard_time": 1715431698,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1683461,
       "num": 1683461,
       "word": "白月光诺澜杀回来了",
@@ -489,6 +497,14 @@
       "onboard_time": 1715153060,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1563684,
+      "num": 1563684,
+      "word": "南通大巴车与渣土车相撞事故一女孩去世",
+      "onboard_time": 1715432901,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1563229,
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 1380632,
-      "num": 1106660,
+      "num": 1303385,
       "word": "歌手",
       "onboard_time": 1714966399,
       "rank": 43,
@@ -969,6 +985,14 @@
       "onboard_time": 1715227219,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1240339,
+      "num": 1240339,
+      "word": "知否作者发文向林徽因道歉",
+      "onboard_time": 1715428639,
+      "rank": 10,
+      "category": "读书作家"
     },
     {
       "raw_hot": 1239675,
@@ -1577,14 +1601,6 @@
       "onboard_time": 1715218637,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 951652,
-      "num": 951652,
-      "word": "知否作者发文向林徽因道歉",
-      "onboard_time": 1715428639,
-      "rank": 10,
-      "category": "读书作家"
     },
     {
       "raw_hot": 950056,
@@ -2307,6 +2323,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 766665,
+      "num": 766665,
+      "word": "王楚钦男单决赛",
+      "onboard_time": 1715429060,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 764526,
       "num": 764526,
       "word": "为什么很多近视的人都有散光",
@@ -2537,6 +2561,14 @@
       "onboard_time": 1715239579,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 730181,
+      "num": 718488,
+      "word": "市民称南通车祸路口信号灯异常",
+      "onboard_time": 1715415318,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 726790,
@@ -3721,6 +3753,14 @@
       "onboard_time": 1714877778,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 569733,
+      "num": 569733,
+      "word": "陈梦说抱着向莎莎学习的心态打比赛",
+      "onboard_time": 1715431698,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 567647,
@@ -5979,14 +6019,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 379344,
-      "num": 379344,
-      "word": "王楚钦男单决赛",
-      "onboard_time": 1715429060,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 378840,
       "num": 378840,
       "word": "邓超问孙俪嫌他吵吗",
@@ -6121,6 +6153,14 @@
       "onboard_time": 1715402721,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369862,
+      "num": 369862,
+      "word": "二手玫瑰 允许部分艺术家先富起来",
+      "onboard_time": 1715427319,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 369771,
@@ -9163,14 +9203,6 @@
       "category": "运动健身,科学科普"
     },
     {
-      "raw_hot": 239866,
-      "num": 239866,
-      "word": "二手玫瑰 允许部分艺术家先富起来",
-      "onboard_time": 1715427319,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 239458,
       "num": 239458,
       "word": "王源 指纹锁",
@@ -9249,6 +9281,14 @@
       "onboard_time": 1715398159,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 237350,
+      "num": 237350,
+      "word": "JackeyLove辛苦了",
+      "onboard_time": 1715432841,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 237248,
@@ -9659,6 +9699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228086,
+      "num": 801150,
+      "word": "送这种花妈妈根本无法拒绝",
+      "onboard_time": 1715421017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227982,
       "num": 318411,
       "word": "法国面包师烤出140米长法棍",
@@ -10016,14 +10064,6 @@
       "word": "官方回应宁夏交通事故致9死",
       "onboard_time": 1715228299,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220097,
-      "num": 801150,
-      "word": "送这种花妈妈根本无法拒绝",
-      "onboard_time": 1715421017,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -11569,6 +11609,14 @@
       "onboard_time": 1714951335,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197290,
+      "num": 197290,
+      "word": "何炅专栏",
+      "onboard_time": 1715432299,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197023,
@@ -13803,6 +13851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171508,
+      "num": 171508,
+      "word": "杭州不少小学生用防晒霜",
+      "onboard_time": 1715431939,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 171487,
       "num": 171487,
       "word": "我的阿勒泰壁纸",
@@ -13849,6 +13905,14 @@
       "onboard_time": 1715168959,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170770,
+      "num": 170770,
+      "word": "你好星期六",
+      "onboard_time": 1715431818,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 170608,
@@ -14841,6 +14905,14 @@
       "onboard_time": 1715358977,
       "rank": 43,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 156958,
+      "num": 156958,
+      "word": "WBG入选沙特电竞世界杯",
+      "onboard_time": 1715432841,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 156880,
@@ -15907,6 +15979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143365,
+      "num": 143365,
+      "word": "babymonster日本粉丝见面会",
+      "onboard_time": 1715431759,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143331,
       "num": 143331,
       "word": "李一桐短发",
@@ -16640,6 +16720,14 @@
       "word": "骑士24分大胜凯尔特人",
       "onboard_time": 1715306778,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134138,
+      "num": 134138,
+      "word": "北京国安vs梅州客家",
+      "onboard_time": 1715433320,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -19140,7 +19228,7 @@
     },
     {
       "raw_hot": 70755,
-      "num": 1126682,
+      "num": 1265621,
       "word": "第2届中国播音主持金声奖",
       "onboard_time": 1715418858,
       "rank": 2,
@@ -20025,6 +20113,14 @@
       "onboard_time": 1715282470,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17923,
+      "num": 160856,
+      "word": "球迷是这样过调休的",
+      "onboard_time": 1715432419,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 17451,
