@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715404656229,
+  "endTime": 1715405652466,
   "band_list": [
     {
       "raw_hot": 2540727,
@@ -123,20 +123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1085823,
+      "num": 333826,
+      "word": "建议大家洗澡的时候放个凳子",
+      "onboard_time": 1715401580,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1054901,
       "num": 583542,
       "word": "难听",
       "onboard_time": 1715351422,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1000283,
-      "num": 333826,
-      "word": "建议大家洗澡的时候放个凳子",
-      "onboard_time": 1715401580,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 997374,
@@ -187,6 +187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 840462,
+      "num": 452689,
+      "word": "亚当兰伯特 踢馆",
+      "onboard_time": 1715401399,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 825417,
       "num": 534180,
       "word": "花少北 就不耽误你的第八年了",
@@ -211,6 +219,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 726619,
+      "num": 471952,
+      "word": "杨丞琳回应排名第六",
+      "onboard_time": 1715402360,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 697878,
       "num": 697878,
       "word": "某幻 花少北",
@@ -227,19 +243,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 681375,
+      "num": 389931,
+      "word": "那英历险记",
+      "onboard_time": 1715405179,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 678417,
       "num": 611351,
       "word": "歌手补位",
       "onboard_time": 1715351661,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 676513,
-      "num": 471952,
-      "word": "杨丞琳回应排名第六",
-      "onboard_time": 1715402360,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -403,6 +419,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 417462,
+      "num": 282135,
+      "word": "断崖式结束了三年半的感情",
+      "onboard_time": 1715402121,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 405407,
       "num": 405407,
       "word": "想念CoCo",
@@ -451,6 +475,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 378840,
+      "num": 378840,
+      "word": "邓超问孙俪嫌他吵吗",
+      "onboard_time": 1715403981,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 370529,
+      "num": 370529,
+      "word": "跳水女王郭晶晶教你怎么用AED",
+      "onboard_time": 1715402721,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369131,
       "num": 309980,
       "word": "范丞丞跑男唯一一个被消音的常驻",
@@ -483,6 +523,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 340967,
+      "num": 340967,
+      "word": "林志炫称因撞档期未能来歌手2024",
+      "onboard_time": 1715405120,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 327049,
+      "num": 327049,
+      "word": "女生误发吐槽到公司群老板取消调休补班",
+      "onboard_time": 1715404339,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324205,
       "num": 324205,
       "word": "为什么上班后更容易变胖",
@@ -491,36 +547,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 322055,
-      "num": 322055,
-      "word": "邓超问孙俪嫌他吵吗",
-      "onboard_time": 1715403981,
-      "rank": 15,
+      "raw_hot": 312287,
+      "num": 269961,
+      "word": "萌探4晒那英清宫照为那英加油",
+      "onboard_time": 1715405000,
+      "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310613,
-      "num": 310613,
-      "word": "跳水女王郭晶晶教你怎么用AED",
-      "onboard_time": 1715402721,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 309930,
-      "num": 258969,
-      "word": "断崖式结束了三年半的感情",
-      "onboard_time": 1715402121,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 309577,
-      "num": 257523,
-      "word": "女生误发吐槽到公司群老板取消调休补班",
-      "onboard_time": 1715404339,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308360,
@@ -537,6 +569,22 @@
       "onboard_time": 1715354060,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305422,
+      "num": 267609,
+      "word": "邓超说自己嫁到上海很久了",
+      "onboard_time": 1715405300,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 304820,
+      "num": 304820,
+      "word": "暖阳 没分手",
+      "onboard_time": 1715405360,
+      "rank": 17,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 299300,
@@ -569,6 +617,14 @@
       "onboard_time": 1715366233,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284485,
+      "num": 284485,
+      "word": "梅大高速救人5人拟被认定见义勇为",
+      "onboard_time": 1715402240,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278780,
@@ -619,16 +675,16 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 254530,
-      "num": 254530,
-      "word": "梅大高速救人5人拟被认定见义勇为",
-      "onboard_time": 1715402240,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 258233,
+      "num": 258233,
+      "word": "孟子义没少看赵丽颖的剧",
+      "onboard_time": 1715404339,
+      "rank": 27,
+      "category": "剧集"
     },
     {
-      "raw_hot": 245248,
-      "num": 245248,
+      "raw_hot": 246937,
+      "num": 246937,
       "word": "考研的风还是吹到了演艺圈",
       "onboard_time": 1715404461,
       "rank": 26,
@@ -697,14 +753,6 @@
       "onboard_time": 1715389582,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231314,
-      "num": 231314,
-      "word": "孟子义没少看赵丽颖的剧",
-      "onboard_time": 1715404339,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 227259,
@@ -787,12 +835,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 207748,
-      "num": 191119,
-      "word": "亚当兰伯特 踢馆",
-      "onboard_time": 1715401399,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 208212,
+      "num": 208212,
+      "word": "古人是怎么在岩壁上盖房的",
+      "onboard_time": 1715405540,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 205975,
@@ -1083,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155377,
+      "num": 155377,
+      "word": "袁娅维说要先跟浪姐请个假",
+      "onboard_time": 1715405419,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154675,
       "num": 154675,
       "word": "王楚钦0511生日快乐",
@@ -1161,6 +1217,14 @@
       "onboard_time": 1715332397,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141064,
+      "num": 141064,
+      "word": "小刺猬到瓜地偷吃西瓜被抓",
+      "onboard_time": 1715405540,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 140794,
@@ -1661,6 +1725,9 @@
     },
     {
       "word": "#习近平结束欧洲三国之行乘专机回国#"
+    },
+    {
+      "word": "#习主席结束三国出访回到北京#"
     }
   ]
 }

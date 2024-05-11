@@ -1,0 +1,410 @@
+{
+  "runTime": 1715405652466,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1911230,
+        "num": 1911230,
+        "word": "歌手 婉拒名单",
+        "onboard_time": 1715392939,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607162,
+        "num": 607162,
+        "word": "地磁暴红色预警",
+        "onboard_time": 1715394620,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 75327,
+        "num": 482936,
+        "word": "塞尔维亚的中国桥",
+        "onboard_time": 1715398577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182905,
+        "num": 481645,
+        "word": "请凤凰传奇即刻停止",
+        "onboard_time": 1715393539,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679562,
+        "num": 481320,
+        "word": "一定要排卵期才能怀孕吗",
+        "onboard_time": 1715391679,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 479529,
+        "num": 479529,
+        "word": "广州水费大幅涨价36%",
+        "onboard_time": 1715401099,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 840462,
+        "num": 452689,
+        "word": "亚当兰伯特 踢馆",
+        "onboard_time": 1715401399,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417110,
+        "num": 417110,
+        "word": "lex 复活赛",
+        "onboard_time": 1715398519,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 726619,
+        "num": 415474,
+        "word": "杨丞琳回应排名第六",
+        "onboard_time": 1715402360,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40655,
+        "num": 405281,
+        "word": "多元化消费激活经济新动能",
+        "onboard_time": 1715398099,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681375,
+        "num": 389931,
+        "word": "那英历险记",
+        "onboard_time": 1715405179,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649573,
+        "num": 384348,
+        "word": "歌手补位",
+        "onboard_time": 1715351661,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378840,
+        "num": 378840,
+        "word": "邓超问孙俪嫌他吵吗",
+        "onboard_time": 1715403981,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370529,
+        "num": 370529,
+        "word": "跳水女王郭晶晶教你怎么用AED",
+        "onboard_time": 1715402721,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344300,
+        "num": 344300,
+        "word": "专家建议不要买低价机票",
+        "onboard_time": 1715384958,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340967,
+        "num": 340967,
+        "word": "林志炫称因撞档期未能来歌手2024",
+        "onboard_time": 1715405120,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327049,
+        "num": 327049,
+        "word": "女生误发吐槽到公司群老板取消调休补班",
+        "onboard_time": 1715404339,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304820,
+        "num": 304820,
+        "word": "暖阳 没分手",
+        "onboard_time": 1715405360,
+        "rank": 17,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 285154,
+        "num": 285154,
+        "word": "姐姐去世妹妹冒领养老金近40万",
+        "onboard_time": 1715385979,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284485,
+        "num": 284485,
+        "word": "梅大高速救人5人拟被认定见义勇为",
+        "onboard_time": 1715402240,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085823,
+        "num": 283823,
+        "word": "建议大家洗澡的时候放个凳子",
+        "onboard_time": 1715401580,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337672,
+        "num": 282991,
+        "word": "浪姐版楼外楼",
+        "onboard_time": 1715402599,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 676313,
+        "num": 282259,
+        "word": "花少北聊天记录",
+        "onboard_time": 1715386039,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 417462,
+        "num": 282135,
+        "word": "断崖式结束了三年半的感情",
+        "onboard_time": 1715402121,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281421,
+        "num": 281421,
+        "word": "某幻 花少北",
+        "onboard_time": 1715393298,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 312287,
+        "num": 269961,
+        "word": "萌探4晒那英清宫照为那英加油",
+        "onboard_time": 1715405000,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305422,
+        "num": 267609,
+        "word": "邓超说自己嫁到上海很久了",
+        "onboard_time": 1715405300,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258233,
+        "num": 258233,
+        "word": "孟子义没少看赵丽颖的剧",
+        "onboard_time": 1715404339,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246937,
+        "num": 246937,
+        "word": "考研的风还是吹到了演艺圈",
+        "onboard_time": 1715404461,
+        "rank": 28,
+        "category": "教育,作品衍生"
+      },
+      {
+        "raw_hot": 240943,
+        "num": 240943,
+        "word": "村妇女主任下车时被拖拽坠亡",
+        "onboard_time": 1715388681,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231285,
+        "num": 231285,
+        "word": "一顿火锅优酷今日上线",
+        "onboard_time": 1715395639,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222088,
+        "num": 222088,
+        "word": "每天吃1个西红柿身体会发生什么变化",
+        "onboard_time": 1715398878,
+        "rank": 31,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 208212,
+        "num": 208212,
+        "word": "古人是怎么在岩壁上盖房的",
+        "onboard_time": 1715405540,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 206294,
+        "num": 206294,
+        "word": "阿勒泰现20年来最强极光",
+        "onboard_time": 1715390959,
+        "rank": 33,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 197880,
+        "num": 197880,
+        "word": "TheShy老头杯转AD",
+        "onboard_time": 1715402121,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171118,
+        "num": 171118,
+        "word": "以色列",
+        "onboard_time": 1715393360,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 217248,
+        "num": 169050,
+        "word": "英子 全村的希望",
+        "onboard_time": 1715391319,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166148,
+        "num": 166148,
+        "word": "调休",
+        "onboard_time": 1715386700,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158735,
+        "num": 158735,
+        "word": "迪丽热巴别把周柯宇扇感冒了",
+        "onboard_time": 1715403742,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155645,
+        "num": 155645,
+        "word": "花少北 龙女塔罗",
+        "onboard_time": 1715396239,
+        "rank": 39,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 155377,
+        "num": 155377,
+        "word": "袁娅维说要先跟浪姐请个假",
+        "onboard_time": 1715405419,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146248,
+        "num": 146248,
+        "word": "周六上班和周一的感觉一样下头",
+        "onboard_time": 1715396959,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143244,
+        "num": 143244,
+        "word": "理想L9高速路急刹致追尾被判全责",
+        "onboard_time": 1715398698,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141064,
+        "num": 141064,
+        "word": "小刺猬到瓜地偷吃西瓜被抓",
+        "onboard_time": 1715405540,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137202,
+        "num": 137202,
+        "word": "庆余年2哈哈哈海报",
+        "onboard_time": 1715400559,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134779,
+        "num": 134779,
+        "word": "惠英红 第二次拿金像奖是我的重生",
+        "onboard_time": 1715397678,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132548,
+        "num": 132548,
+        "word": "iPhone上或安装ChatGPT",
+        "onboard_time": 1715394560,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126874,
+        "num": 126874,
+        "word": "广州水费",
+        "onboard_time": 1715400681,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123606,
+        "num": 123606,
+        "word": "林更新牢记步步惊心剧情",
+        "onboard_time": 1715400498,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116870,
+        "num": 116870,
+        "word": "陈梦理论上锁定奥运女单席位",
+        "onboard_time": 1715394019,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席结束三国出访回到北京#"
+    }
+  }
+}
