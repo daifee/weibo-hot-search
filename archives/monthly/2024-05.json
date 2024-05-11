@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715438042880,
+  "endTime": 1715440644570,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -659,6 +659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1654683,
+      "num": 1654683,
+      "word": "歌手",
+      "onboard_time": 1714818859,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1649935,
       "num": 1649935,
       "word": "多名男演员拒演背着善宰跑",
@@ -777,14 +785,6 @@
       "onboard_time": 1714639518,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1567400,
-      "num": 1567400,
-      "word": "歌手",
-      "onboard_time": 1714818859,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1563229,
@@ -1827,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119018,
+      "num": 811580,
+      "word": "六公主评价杨幂演技",
+      "onboard_time": 1715436621,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1118749,
       "num": 1118749,
       "word": "庆余年2将登央八黄金档",
@@ -1900,7 +1908,7 @@
     },
     {
       "raw_hot": 1100958,
-      "num": 564385,
+      "num": 805777,
       "word": "新生女婴骨折16小时后腿部溃烂",
       "onboard_time": 1715433861,
       "rank": 24,
@@ -2451,14 +2459,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 927514,
-      "num": 811580,
-      "word": "六公主评价杨幂演技",
-      "onboard_time": 1715436621,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 927346,
       "num": 555769,
       "word": "朴彩英赵露思撞衫",
@@ -2497,6 +2497,14 @@
       "onboard_time": 1714867216,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 922189,
+      "num": 309466,
+      "word": "又一种新冠新毒株突袭多国",
+      "onboard_time": 1715435542,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 920141,
@@ -2979,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 850506,
+      "num": 850506,
+      "word": "陈梦王楚钦合影",
+      "onboard_time": 1715438600,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 848368,
       "num": 406427,
       "word": "突然羡慕妈妈月薪4K的工作了",
@@ -3041,6 +3057,14 @@
       "onboard_time": 1715351902,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 842396,
+      "num": 804961,
+      "word": "汪苏泷唱功",
+      "onboard_time": 1715436982,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 841804,
@@ -3401,6 +3425,14 @@
       "onboard_time": 1714963879,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 789029,
+      "num": 789029,
+      "word": "歌手踢馆",
+      "onboard_time": 1715438541,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 784728,
@@ -5443,6 +5475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 577419,
+      "num": 577419,
+      "word": "极光",
+      "onboard_time": 1715383095,
+      "rank": 19,
+      "category": "自然"
+    },
+    {
       "raw_hot": 576314,
       "num": 576314,
       "word": "建议大学生提前培养一个小号",
@@ -7137,6 +7177,14 @@
       "onboard_time": 1714542739,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 463183,
+      "num": 293487,
+      "word": "男子隐瞒已婚事实与女子交往致女方自杀",
+      "onboard_time": 1715438960,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462389,
@@ -9539,14 +9587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 360603,
-      "num": 360603,
-      "word": "极光",
-      "onboard_time": 1715383095,
-      "rank": 19,
-      "category": "自然"
-    },
-    {
       "raw_hot": 360530,
       "num": 375087,
       "word": "奔跑吧撕名牌回归",
@@ -9723,6 +9763,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 352581,
+      "num": 352581,
+      "word": "王楚钦三冠王",
+      "onboard_time": 1715434460,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352262,
       "num": 352262,
       "word": "甄嬛传中太监名字都带海的原因",
@@ -9776,14 +9824,6 @@
       "word": "官方通报叫花鸡里没有鸡",
       "onboard_time": 1714918581,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350994,
-      "num": 309466,
-      "word": "又一种新冠新毒株突袭多国",
-      "onboard_time": 1715435542,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -10451,14 +10491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328115,
-      "num": 328115,
-      "word": "王楚钦三冠王",
-      "onboard_time": 1715434460,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 327763,
       "num": 327763,
       "word": "随便吃同事真的很不礼貌",
@@ -10521,6 +10553,14 @@
       "onboard_time": 1715085079,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323400,
+      "num": 292296,
+      "word": "赵雅芝 我下次换平底鞋再跳",
+      "onboard_time": 1715438062,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 322796,
@@ -11569,6 +11609,14 @@
       "onboard_time": 1715396720,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287730,
+      "num": 287730,
+      "word": "莎头",
+      "onboard_time": 1715037976,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 287698,
@@ -12987,6 +13035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255005,
+      "num": 255005,
+      "word": "高嘉朗 恳请歌手看看我",
+      "onboard_time": 1715440162,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254930,
       "num": 254930,
       "word": "女儿要喝奶茶我说她爱慕虚荣",
@@ -13619,6 +13675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242297,
+      "num": 242297,
+      "word": "宋亚轩叫妈妈美女",
+      "onboard_time": 1715439923,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241712,
       "num": 241712,
       "word": "杨鸣羡慕杜锋",
@@ -13633,6 +13697,14 @@
       "onboard_time": 1714709297,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241464,
+      "num": 241464,
+      "word": "不吃主食减肥难以持久",
+      "onboard_time": 1715435421,
+      "rank": 46,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 241260,
@@ -15571,14 +15643,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 211756,
-      "num": 211756,
-      "word": "莎头",
-      "onboard_time": 1715037976,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211749,
       "num": 213461,
       "word": "于适双开门",
@@ -16249,6 +16313,14 @@
       "onboard_time": 1714808299,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 205444,
+      "num": 205444,
+      "word": "杜锋说为周琦受伤感到寒心",
+      "onboard_time": 1715439561,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 205436,
@@ -17715,12 +17787,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194592,
-      "num": 194592,
-      "word": "不吃主食减肥难以持久",
-      "onboard_time": 1715435421,
-      "rank": 46,
-      "category": "运动健身,健康医疗"
+      "raw_hot": 194611,
+      "num": 194611,
+      "word": "张镇麟打爆了",
+      "onboard_time": 1715438842,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 194490,
@@ -17785,6 +17857,14 @@
       "onboard_time": 1715352681,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194219,
+      "num": 194219,
+      "word": "周深能不能来歌手",
+      "onboard_time": 1715440343,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 194218,
@@ -18785,6 +18865,14 @@
       "onboard_time": 1715239399,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 187420,
+      "num": 187420,
+      "word": "因为一句喜欢等了他六年",
+      "onboard_time": 1715439262,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 187395,
@@ -20201,6 +20289,14 @@
       "onboard_time": 1714553776,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174896,
+      "num": 174896,
+      "word": "南通车祸事故原因初步查明",
+      "onboard_time": 1715440581,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174752,
@@ -31464,6 +31560,9 @@
     },
     {
       "word": "#习近平对学校思政课建设作出重要指示#"
+    },
+    {
+      "word": "#习近平向巴拿马当选总统致贺电#"
     }
   ]
 }
