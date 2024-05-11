@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715408551735,
+  "endTime": 1715409292728,
   "band_list": [
     {
       "raw_hot": 2540727,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1005822,
+      "num": 1005822,
+      "word": "女生误发吐槽到公司群老板取消调休补班",
+      "onboard_time": 1715404339,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997374,
       "num": 566771,
       "word": "歌手2024排名",
@@ -147,19 +155,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 991408,
-      "num": 991408,
-      "word": "女生误发吐槽到公司群老板取消调休补班",
-      "onboard_time": 1715404339,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 976163,
       "num": 629600,
       "word": "那英 我有时候真的不识好歹",
       "onboard_time": 1715344999,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 926680,
+      "num": 926680,
+      "word": "林志炫称因撞档期未能来歌手2024",
+      "onboard_time": 1715405120,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -185,14 +193,6 @@
       "onboard_time": 1715387899,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 904375,
-      "num": 448489,
-      "word": "林志炫称因撞档期未能来歌手2024",
-      "onboard_time": 1715405120,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 903715,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 681375,
-      "num": 389931,
+      "num": 573641,
       "word": "那英历险记",
       "onboard_time": 1715405179,
       "rank": 10,
@@ -307,6 +307,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 626581,
+      "num": 626581,
+      "word": "杭州一醉汉被当成尸体法医都出动了",
+      "onboard_time": 1715407098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601777,
       "num": 601777,
       "word": "阿勒泰现20年来最强极光",
@@ -321,6 +329,14 @@
       "onboard_time": 1715388140,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581503,
+      "num": 581503,
+      "word": "邓超说自己嫁到上海很久了",
+      "onboard_time": 1715405300,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 580225,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544982,
+      "num": 544982,
+      "word": "袁娅维说要先跟浪姐请个假",
+      "onboard_time": 1715405419,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536076,
       "num": 365140,
       "word": "人体唯一能再生的器官是这样罢工的",
@@ -385,22 +409,6 @@
       "onboard_time": 1715397678,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 494465,
-      "num": 381027,
-      "word": "袁娅维说要先跟浪姐请个假",
-      "onboard_time": 1715405419,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 474059,
-      "num": 377773,
-      "word": "邓超说自己嫁到上海很久了",
-      "onboard_time": 1715405300,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 464635,
@@ -515,6 +523,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 388810,
+      "num": 388810,
+      "word": "郭碧婷说刘忻才40岁还年轻",
+      "onboard_time": 1715408120,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386424,
       "num": 386424,
       "word": "梅大高速救人5人拟被认定见义勇为",
@@ -555,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363080,
-      "num": 363080,
-      "word": "杭州一醉汉被当成尸体法医都出动了",
-      "onboard_time": 1715407098,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351870,
       "num": 351870,
       "word": "教资面试",
@@ -595,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311441,
+      "num": 208859,
+      "word": "女子遭风筝线割喉一个动作救自己一命",
+      "onboard_time": 1715406800,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308360,
       "num": 308360,
       "word": "每天吃1个西红柿身体会发生什么变化",
@@ -609,14 +625,6 @@
       "onboard_time": 1715354060,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307005,
-      "num": 307005,
-      "word": "郭碧婷说刘忻才40岁还年轻",
-      "onboard_time": 1715408120,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 299300,
@@ -641,6 +649,14 @@
       "onboard_time": 1715396720,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286662,
+      "num": 195765,
+      "word": "周也周雨彤情头",
+      "onboard_time": 1715408239,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 284828,
@@ -675,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268979,
-      "num": 208859,
-      "word": "女子遭风筝线割喉一个动作救自己一命",
-      "onboard_time": 1715406800,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 269337,
+      "num": 208315,
+      "word": "一顿火锅 网播",
+      "onboard_time": 1715406739,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 267810,
@@ -688,6 +704,14 @@
       "word": "不敢想白鹿的头有多疼",
       "onboard_time": 1715395459,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267486,
+      "num": 208036,
+      "word": "刘耀文说赵昭仪职业选手禁止参赛",
+      "onboard_time": 1715407879,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -705,14 +729,6 @@
       "onboard_time": 1715396359,
       "rank": 24,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 259192,
-      "num": 208315,
-      "word": "一顿火锅 网播",
-      "onboard_time": 1715406739,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 258233,
@@ -747,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 240279,
+      "num": 207800,
+      "word": "花少北",
+      "onboard_time": 1715408299,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 239392,
       "num": 239392,
       "word": "官方通报买5块雪花酥花681元处理结果",
@@ -779,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234932,
-      "num": 208036,
-      "word": "刘耀文说赵昭仪职业选手禁止参赛",
-      "onboard_time": 1715407879,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234227,
       "num": 234227,
       "word": "阴阳怪气男团",
@@ -801,14 +817,6 @@
       "onboard_time": 1715389582,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231836,
-      "num": 207800,
-      "word": "花少北",
-      "onboard_time": 1715408299,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 227259,
@@ -1131,14 +1139,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 168343,
-      "num": 168343,
-      "word": "周也周雨彤情头",
-      "onboard_time": 1715408239,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167555,
       "num": 167555,
       "word": "以闪亮之名",
@@ -1171,12 +1171,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161656,
+      "num": 198021,
+      "word": "大厂辞职后靠AI年入百万",
+      "onboard_time": 1715406439,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161345,
       "num": 276954,
       "word": "陈梦半决赛对阵早田希娜",
       "onboard_time": 1715351542,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161306,
+      "num": 161306,
+      "word": "我看黄觉也是风韵犹存",
+      "onboard_time": 1715408478,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160613,
+      "num": 122182,
+      "word": "英子一个人的乘风破浪",
+      "onboard_time": 1715407519,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 160609,
@@ -1259,14 +1283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150581,
-      "num": 150581,
-      "word": "大厂辞职后靠AI年入百万",
-      "onboard_time": 1715406439,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 150363,
       "num": 152918,
       "word": "问界m9",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1715405540,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141036,
+      "num": 141036,
+      "word": "沈星回 老公从天而降",
+      "onboard_time": 1715407041,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 140794,
@@ -1467,14 +1491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119033,
-      "num": 119033,
-      "word": "沈星回 老公从天而降",
-      "onboard_time": 1715407041,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 117237,
       "num": 117237,
       "word": "儿子的车被别的小朋友骑走了",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1715346740,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113564,
+      "num": 113564,
+      "word": "双眼充满星辰的猫头鹰",
+      "onboard_time": 1715408839,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 112532,
@@ -1529,14 +1553,6 @@
       "onboard_time": 1715363234,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 104989,
-      "num": 112841,
-      "word": "我看黄觉也是风韵犹存",
-      "onboard_time": 1715408478,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 104059,
@@ -1588,7 +1604,7 @@
     },
     {
       "raw_hot": 93518,
-      "num": 918964,
+      "num": 947599,
       "word": "塞尔维亚的中国桥",
       "onboard_time": 1715398577,
       "rank": 2,
