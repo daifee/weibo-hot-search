@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715415712231,
+  "endTime": 1715416447009,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -763,6 +763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1334787,
+      "num": 431347,
+      "word": "男网友殉情身亡女方判赔43万余元",
+      "onboard_time": 1715413520,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1334217,
       "num": 957488,
       "word": "迄今为止最恐怖的太空照片之一",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1715000179,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1019830,
-      "num": 427654,
-      "word": "男网友殉情身亡女方判赔43万余元",
-      "onboard_time": 1715413520,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1005880,
@@ -2771,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674621,
+      "num": 431302,
+      "word": "南通",
+      "onboard_time": 1715415318,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673777,
       "num": 399209,
       "word": "陈思建宵夜婚礼",
@@ -2841,6 +2849,14 @@
       "onboard_time": 1715313980,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 664087,
+      "num": 664087,
+      "word": "新疆的作息时间太适合年轻人了",
+      "onboard_time": 1715413939,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 661264,
@@ -4259,6 +4275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487741,
+      "num": 487741,
+      "word": "2024年近千万女性将升级为龙妈",
+      "onboard_time": 1715411959,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487703,
       "num": 487703,
       "word": "心疼花海",
@@ -4643,14 +4667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 458073,
-      "num": 458073,
-      "word": "2024年近千万女性将升级为龙妈",
-      "onboard_time": 1715411959,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 455723,
       "num": 455723,
       "word": "乘风二公",
@@ -4705,14 +4721,6 @@
       "onboard_time": 1714833079,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 453672,
-      "num": 453672,
-      "word": "新疆的作息时间太适合年轻人了",
-      "onboard_time": 1715413939,
-      "rank": 7,
-      "category": "旅游"
     },
     {
       "raw_hot": 453494,
@@ -5435,14 +5443,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 398265,
-      "num": 398265,
-      "word": "南通",
-      "onboard_time": 1715415318,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 398086,
       "num": 607223,
       "word": "高铁上大学生帮了11岁时的自己",
@@ -5553,6 +5553,14 @@
       "onboard_time": 1715322859,
       "rank": 43,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 388079,
+      "num": 388079,
+      "word": "袁娅维在写假条了",
+      "onboard_time": 1715414538,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 387988,
@@ -7161,14 +7169,6 @@
       "onboard_time": 1715330538,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299789,
-      "num": 299789,
-      "word": "袁娅维在写假条了",
-      "onboard_time": 1715414538,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 299300,
@@ -8931,6 +8931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236570,
+      "num": 236570,
+      "word": "中国主持人在法国辩论节目舌战群儒",
+      "onboard_time": 1715414179,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236004,
       "num": 236004,
       "word": "WPS被指套娃式收费",
@@ -9153,6 +9161,14 @@
       "onboard_time": 1715298016,
       "rank": 22,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 230623,
+      "num": 230623,
+      "word": "鹿晗扛住了死亡滤镜",
+      "onboard_time": 1715412979,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 230468,
@@ -9723,6 +9739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218276,
+      "num": 216082,
+      "word": "王冰冰在柬埔寨过新年",
+      "onboard_time": 1715415078,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218274,
       "num": 218274,
       "word": "谢飞 我不会再看一顿火锅",
@@ -9843,14 +9867,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 216082,
-      "num": 216082,
-      "word": "王冰冰在柬埔寨过新年",
-      "onboard_time": 1715415078,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215995,
       "num": 215995,
       "word": "谢娜杨迪八年前旧照",
@@ -9897,14 +9913,6 @@
       "onboard_time": 1714965199,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215220,
-      "num": 220840,
-      "word": "鹿晗扛住了死亡滤镜",
-      "onboard_time": 1715412979,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 215065,
@@ -11099,14 +11107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197516,
-      "num": 197516,
-      "word": "中国主持人在法国辩论节目舌战群儒",
-      "onboard_time": 1715414179,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197437,
       "num": 217946,
       "word": "吴彤李晨钟楚曦侯雯元自拍",
@@ -12267,6 +12267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185048,
+      "num": 185048,
+      "word": "爱情公寓主演们的角色背景",
+      "onboard_time": 1715412918,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184737,
       "num": 184737,
       "word": "周杰伦提词器的浪漫",
@@ -12825,14 +12833,6 @@
       "onboard_time": 1714921041,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176148,
-      "num": 176148,
-      "word": "爱情公寓主演们的角色背景",
-      "onboard_time": 1715412918,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 176118,
@@ -15356,7 +15356,7 @@
     },
     {
       "raw_hot": 143241,
-      "num": 413403,
+      "num": 431826,
       "word": "河南大专生上岸北大医学部",
       "onboard_time": 1715411538,
       "rank": 14,
@@ -16225,6 +16225,14 @@
       "onboard_time": 1715179521,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131714,
+      "num": 131714,
+      "word": "情绪价值公式",
+      "onboard_time": 1715415858,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 131578,
@@ -17233,6 +17241,14 @@
       "onboard_time": 1714924698,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116339,
+      "num": 116339,
+      "word": "林俊杰济南演唱会",
+      "onboard_time": 1715416338,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 116267,
@@ -18939,6 +18955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44596,
+      "num": 363504,
+      "word": "胶原抗老的正确思路",
+      "onboard_time": 1715411645,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 44327,
       "num": 32201,
       "word": "那英蝶窦共鸣",
@@ -18977,14 +19001,6 @@
       "onboard_time": 1714858151,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42982,
-      "num": 363504,
-      "word": "胶原抗老的正确思路",
-      "onboard_time": 1715411645,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 41924,

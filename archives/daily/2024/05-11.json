@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715415712231,
+  "endTime": 1715416447009,
   "band_list": [
     {
       "raw_hot": 2540727,
@@ -83,6 +83,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1334787,
+      "num": 431347,
+      "word": "男网友殉情身亡女方判赔43万余元",
+      "onboard_time": 1715413520,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1283218,
       "num": 1283218,
       "word": "王楚钦",
@@ -137,14 +145,6 @@
       "onboard_time": 1715351422,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1019830,
-      "num": 427654,
-      "word": "男网友殉情身亡女方判赔43万余元",
-      "onboard_time": 1715413520,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1005880,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674621,
+      "num": 431302,
+      "word": "南通",
+      "onboard_time": 1715415318,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673092,
       "num": 647503,
       "word": "英子 全村的希望",
@@ -329,6 +337,14 @@
       "onboard_time": 1715405300,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 664087,
+      "num": 664087,
+      "word": "新疆的作息时间太适合年轻人了",
+      "onboard_time": 1715413939,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 643220,
@@ -451,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 487741,
+      "num": 487741,
+      "word": "2024年近千万女性将升级为龙妈",
+      "onboard_time": 1715411959,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464635,
       "num": 349439,
       "word": "国内最大黄金批发市场遭到暴击",
@@ -473,22 +497,6 @@
       "onboard_time": 1715390242,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458073,
-      "num": 458073,
-      "word": "2024年近千万女性将升级为龙妈",
-      "onboard_time": 1715411959,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453672,
-      "num": 453672,
-      "word": "新疆的作息时间太适合年轻人了",
-      "onboard_time": 1715413939,
-      "rank": 7,
-      "category": "旅游"
     },
     {
       "raw_hot": 449772,
@@ -571,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398265,
-      "num": 398265,
-      "word": "南通",
-      "onboard_time": 1715415318,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 393013,
       "num": 393013,
       "word": "联大通过涉巴勒斯坦入联决议",
@@ -601,6 +601,14 @@
       "onboard_time": 1715396239,
       "rank": 19,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 388079,
+      "num": 388079,
+      "word": "袁娅维在写假条了",
+      "onboard_time": 1715414538,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 386424,
@@ -705,14 +713,6 @@
       "onboard_time": 1715354060,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299789,
-      "num": 299789,
-      "word": "袁娅维在写假条了",
-      "onboard_time": 1715414538,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 299300,
@@ -891,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236570,
+      "num": 236570,
+      "word": "中国主持人在法国辩论节目舌战群儒",
+      "onboard_time": 1715414179,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234834,
       "num": 234834,
       "word": "MSI",
@@ -912,6 +920,14 @@
       "word": "Mai谈参加浪姐的感受",
       "onboard_time": 1715389582,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230623,
+      "num": 230623,
+      "word": "鹿晗扛住了死亡滤镜",
+      "onboard_time": 1715412979,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -963,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218276,
+      "num": 216082,
+      "word": "王冰冰在柬埔寨过新年",
+      "onboard_time": 1715415078,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217993,
       "num": 217993,
       "word": "胖东来将在永辉上架胖东来产品",
@@ -977,22 +1001,6 @@
       "onboard_time": 1715390719,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 216082,
-      "num": 216082,
-      "word": "王冰冰在柬埔寨过新年",
-      "onboard_time": 1715415078,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 215220,
-      "num": 220840,
-      "word": "鹿晗扛住了死亡滤镜",
-      "onboard_time": 1715412979,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 213530,
@@ -1115,14 +1123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197516,
-      "num": 197516,
-      "word": "中国主持人在法国辩论节目舌战群儒",
-      "onboard_time": 1715414179,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194471,
       "num": 194471,
       "word": "极光",
@@ -1219,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185048,
+      "num": 185048,
+      "word": "爱情公寓主演们的角色背景",
+      "onboard_time": 1715412918,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181490,
       "num": 181490,
       "word": "你好星期六全员玩明白了卧底局",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1715407158,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176148,
-      "num": 176148,
-      "word": "爱情公寓主演们的角色背景",
-      "onboard_time": 1715412918,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 176122,
@@ -1532,7 +1532,7 @@
     },
     {
       "raw_hot": 143241,
-      "num": 413403,
+      "num": 431826,
       "word": "河南大专生上岸北大医学部",
       "onboard_time": 1715411538,
       "rank": 14,
@@ -1643,6 +1643,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 131714,
+      "num": 131714,
+      "word": "情绪价值公式",
+      "onboard_time": 1715415858,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131099,
       "num": 213461,
       "word": "于适双开门",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1715360715,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116339,
+      "num": 116339,
+      "word": "林俊杰济南演唱会",
+      "onboard_time": 1715416338,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 116127,
@@ -2035,20 +2051,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44596,
+      "num": 363504,
+      "word": "胶原抗老的正确思路",
+      "onboard_time": 1715411645,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 44327,
       "num": 32201,
       "word": "那英蝶窦共鸣",
       "onboard_time": 1715352743,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42982,
-      "num": 363504,
-      "word": "胶原抗老的正确思路",
-      "onboard_time": 1715411645,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 42673,

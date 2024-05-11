@@ -1,0 +1,410 @@
+{
+  "runTime": 1715416447009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1102208,
+        "num": 1102208,
+        "word": "歌手 婉拒名单",
+        "onboard_time": 1715392939,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 771279,
+        "num": 771279,
+        "word": "女生误发吐槽到公司群老板取消调休补班",
+        "onboard_time": 1715404339,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57617,
+        "num": 763971,
+        "word": "塞尔维亚路牌上有中文标识",
+        "onboard_time": 1715398099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761981,
+        "num": 761981,
+        "word": "亚当兰伯特 踢馆",
+        "onboard_time": 1715401399,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664087,
+        "num": 664087,
+        "word": "新疆的作息时间太适合年轻人了",
+        "onboard_time": 1715413939,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 487741,
+        "num": 487741,
+        "word": "2024年近千万女性将升级为龙妈",
+        "onboard_time": 1715411959,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744863,
+        "num": 482769,
+        "word": "二手玫瑰受众",
+        "onboard_time": 1715410098,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431890,
+        "num": 431890,
+        "word": "孕妇羊水破了医院保安拒开门玩手机",
+        "onboard_time": 1715409559,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125874,
+        "num": 431826,
+        "word": "河南大专生上岸北大医学部",
+        "onboard_time": 1715411538,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 55817,
+        "num": 431649,
+        "word": "神十八乘组太空出差vlog",
+        "onboard_time": 1715412498,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1334787,
+        "num": 431347,
+        "word": "男网友殉情身亡女方判赔43万余元",
+        "onboard_time": 1715413520,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674621,
+        "num": 431302,
+        "word": "南通",
+        "onboard_time": 1715415318,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464859,
+        "num": 430925,
+        "word": "请凤凰传奇即刻停止",
+        "onboard_time": 1715393539,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430910,
+        "num": 430910,
+        "word": "邓超说自己嫁到上海很久了",
+        "onboard_time": 1715405300,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407271,
+        "num": 407271,
+        "word": "那英历险记",
+        "onboard_time": 1715405179,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388079,
+        "num": 388079,
+        "word": "袁娅维在写假条了",
+        "onboard_time": 1715414538,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350323,
+        "num": 350323,
+        "word": "杭州一醉汉被当成尸体法医都出动了",
+        "onboard_time": 1715407098,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326068,
+        "num": 326068,
+        "word": "男方给6万元彩礼女方回600",
+        "onboard_time": 1715409380,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298881,
+        "num": 298881,
+        "word": "暖阳 没分手",
+        "onboard_time": 1715405360,
+        "rank": 18,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 290907,
+        "num": 290907,
+        "word": "俄罗斯一公交车坠河致7人死亡",
+        "onboard_time": 1715411118,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60666,
+        "num": 290183,
+        "word": "王一博怎么做到又奶又酷的",
+        "onboard_time": 1715414719,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497149,
+        "num": 268456,
+        "word": "女子遭风筝线割喉一个动作救自己一命",
+        "onboard_time": 1715406800,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493913,
+        "num": 262367,
+        "word": "建议大家洗澡的时候放个凳子",
+        "onboard_time": 1715401580,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436581,
+        "num": 248748,
+        "word": "张予曦18岁的寸头照",
+        "onboard_time": 1715409919,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238082,
+        "num": 238082,
+        "word": "花少北聊天记录",
+        "onboard_time": 1715386039,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 236570,
+        "num": 236570,
+        "word": "中国主持人在法国辩论节目舌战群儒",
+        "onboard_time": 1715414179,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232164,
+        "num": 232164,
+        "word": "地磁暴红色预警",
+        "onboard_time": 1715394620,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 230623,
+        "num": 230623,
+        "word": "鹿晗扛住了死亡滤镜",
+        "onboard_time": 1715412979,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195740,
+        "num": 195740,
+        "word": "GEN对战TES",
+        "onboard_time": 1715415619,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185048,
+        "num": 185048,
+        "word": "爱情公寓主演们的角色背景",
+        "onboard_time": 1715412918,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218276,
+        "num": 181376,
+        "word": "王冰冰在柬埔寨过新年",
+        "onboard_time": 1715415078,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171734,
+        "num": 171734,
+        "word": "MSI",
+        "onboard_time": 1715413279,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167466,
+        "num": 167466,
+        "word": "袁娅维说要先跟浪姐请个假",
+        "onboard_time": 1715405419,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44596,
+        "num": 161231,
+        "word": "胶原抗老的正确思路",
+        "onboard_time": 1715411645,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159716,
+        "num": 159716,
+        "word": "爱萝莉叫板Ning",
+        "onboard_time": 1715413219,
+        "rank": 34,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 151618,
+        "num": 151618,
+        "word": "地铁站这个铁片是干嘛的",
+        "onboard_time": 1715412859,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151590,
+        "num": 151590,
+        "word": "一定要排卵期才能怀孕吗",
+        "onboard_time": 1715391679,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145299,
+        "num": 145299,
+        "word": "长大后的西瓜没有蒜味了",
+        "onboard_time": 1715413939,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140459,
+        "num": 140459,
+        "word": "为什么有炸鸡没有炸鸭",
+        "onboard_time": 1715410639,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133482,
+        "num": 133482,
+        "word": "郭碧婷说刘忻才40岁还年轻",
+        "onboard_time": 1715408120,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131714,
+        "num": 131714,
+        "word": "情绪价值公式",
+        "onboard_time": 1715415858,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125358,
+        "num": 125358,
+        "word": "周也周雨彤情头",
+        "onboard_time": 1715408239,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121103,
+        "num": 121103,
+        "word": "每天吃1个西红柿身体会发生什么变化",
+        "onboard_time": 1715398878,
+        "rank": 42,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 120085,
+        "num": 120085,
+        "word": "花少北",
+        "onboard_time": 1715408299,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116442,
+        "num": 116442,
+        "word": "网红参哥称自己的公司就是在捡钱",
+        "onboard_time": 1715412619,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 116339,
+        "num": 116339,
+        "word": "林俊杰济南演唱会",
+        "onboard_time": 1715416338,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110938,
+        "num": 110938,
+        "word": "一顿火锅 网播",
+        "onboard_time": 1715406739,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105531,
+        "num": 105531,
+        "word": "专家建议不要买低价机票",
+        "onboard_time": 1715384958,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173870,
+        "num": 104678,
+        "word": "林志炫称因撞档期未能来歌手2024",
+        "onboard_time": 1715405120,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103277,
+        "num": 103277,
+        "word": "刘耀文说赵昭仪职业选手禁止参赛",
+        "onboard_time": 1715407879,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席结束三国出访回到北京#"
+    }
+  }
+}
