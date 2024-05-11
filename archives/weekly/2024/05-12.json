@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715454882756,
+  "endTime": 1715456057549,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -547,20 +547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49662,
+      "num": 49662,
+      "word": "何炅吴昕新综艺",
+      "onboard_time": 1715453952,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39463,
       "num": 39463,
       "word": "地磁暴带着极光来了",
       "onboard_time": 1715451615,
       "rank": 44,
       "category": "自然,科学科普"
-    },
-    {
-      "raw_hot": 37731,
-      "num": 37731,
-      "word": "何炅吴昕新综艺",
-      "onboard_time": 1715453952,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 29198,
@@ -571,12 +571,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25443,
+      "raw_hot": 28497,
       "num": 34122,
       "word": "Uzi去AL基地集训",
       "onboard_time": 1715454491,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 25549,
+      "num": 27686,
+      "word": "井柏然审美",
+      "onboard_time": 1715455213,
+      "rank": 43,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
@@ -585,6 +593,9 @@
     },
     {
       "word": "#习近平向巴拿马当选总统致贺电#"
+    },
+    {
+      "word": "#习近平主席欧洲之行#"
     }
   ]
 }
