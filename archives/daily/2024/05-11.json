@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715426075226,
+  "endTime": 1715427252441,
   "band_list": [
     {
       "raw_hot": 5071256,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1311315,
+      "num": 502047,
+      "word": "那是姐的姓 红是姐的命",
+      "onboard_time": 1715419880,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1283218,
       "num": 1283218,
       "word": "王楚钦",
@@ -131,12 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1241328,
-      "num": 502047,
-      "word": "那是姐的姓 红是姐的命",
-      "onboard_time": 1715419880,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 1174339,
+      "num": 430315,
+      "word": "马来西亚称只承认联合国制裁不认美国",
+      "onboard_time": 1715423359,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1162754,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 1074793,
-      "num": 366832,
+      "num": 553914,
       "word": "白夜追凶2",
       "onboard_time": 1715422758,
       "rank": 13,
@@ -219,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 968580,
-      "num": 349343,
-      "word": "马来西亚称只承认联合国制裁不认美国",
-      "onboard_time": 1715423359,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 926680,
       "num": 926680,
       "word": "林志炫称因撞档期未能来歌手2024",
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 919635,
-      "num": 363499,
+      "num": 436588,
       "word": "歌手",
       "onboard_time": 1715332397,
       "rank": 47,
@@ -307,8 +307,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 844264,
-      "num": 341353,
+      "raw_hot": 857565,
+      "num": 437807,
       "word": "安陵容 踢馆",
       "onboard_time": 1715420239,
       "rank": 7,
@@ -419,11 +419,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 653625,
+      "num": 428370,
+      "word": "歌手抓紧摇人吧",
+      "onboard_time": 1715425219,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 643220,
       "num": 643220,
       "word": "王楚钦vs林诗栋",
       "onboard_time": 1715360055,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 641883,
+      "num": 422976,
+      "word": "歌手奔跑吧收视率第一",
+      "onboard_time": 1715426179,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 634934,
+      "num": 634934,
+      "word": "孙颖莎陈梦女单决赛",
+      "onboard_time": 1715424440,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -491,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588636,
-      "num": 321781,
-      "word": "歌手抓紧摇人吧",
-      "onboard_time": 1715425219,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 585390,
       "num": 314873,
       "word": "幼童遭货拉拉碾轧身亡",
@@ -555,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537218,
+      "num": 537218,
+      "word": "GEN对战TES",
+      "onboard_time": 1715415619,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 536076,
       "num": 365140,
       "word": "人体唯一能再生的器官是这样罢工的",
@@ -577,14 +601,6 @@
       "onboard_time": 1715397678,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 489915,
-      "num": 489915,
-      "word": "孙颖莎陈梦女单决赛",
-      "onboard_time": 1715424440,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 487741,
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455763,
+      "num": 313903,
+      "word": "那英 当打之年",
+      "onboard_time": 1715425219,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449772,
       "num": 449772,
       "word": "浪姐版楼外楼",
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 442308,
-      "num": 303997,
+      "num": 314237,
       "word": "谁推荐的关晓彤去歌手",
       "onboard_time": 1715419398,
       "rank": 27,
@@ -657,6 +681,14 @@
       "onboard_time": 1715387120,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 438263,
+      "num": 438263,
+      "word": "五一后开始考公真的是刚刚好",
+      "onboard_time": 1715425040,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 432414,
@@ -697,6 +729,14 @@
       "onboard_time": 1715351721,
       "rank": 16,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 419354,
+      "num": 419354,
+      "word": "GEN对战TES战歌起",
+      "onboard_time": 1715424739,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 417462,
@@ -795,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352973,
-      "num": 303254,
-      "word": "那英 当打之年",
-      "onboard_time": 1715425219,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 351870,
       "num": 351870,
       "word": "教资面试",
@@ -835,14 +867,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 338555,
-      "num": 338555,
-      "word": "GEN对战TES",
-      "onboard_time": 1715415619,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 337476,
       "num": 210865,
       "word": "aespa福冈演唱会延期",
@@ -872,6 +896,14 @@
       "word": "萌探4晒那英清宫照为那英加油",
       "onboard_time": 1715405000,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 310350,
+      "num": 310350,
+      "word": "当年的华晨宇",
+      "onboard_time": 1715425519,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1011,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264774,
+      "num": 264774,
+      "word": "GEN战胜TES",
+      "onboard_time": 1715427139,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262202,
       "num": 262202,
       "word": "身体还很年轻的10个表现",
@@ -1025,14 +1065,6 @@
       "onboard_time": 1715404339,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248281,
-      "num": 222822,
-      "word": "当年的华晨宇",
-      "onboard_time": 1715425519,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 246937,
@@ -1147,12 +1179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231169,
-      "num": 231169,
-      "word": "五一后开始考公真的是刚刚好",
-      "onboard_time": 1715425040,
-      "rank": 24,
-      "category": "教育"
+      "raw_hot": 230869,
+      "num": 230869,
+      "word": "福宝主打一个心大",
+      "onboard_time": 1715426600,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230623,
@@ -1220,7 +1252,7 @@
     },
     {
       "raw_hot": 220097,
-      "num": 354753,
+      "num": 433085,
       "word": "送这种花妈妈根本无法拒绝",
       "onboard_time": 1715421017,
       "rank": 9,
@@ -1243,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218168,
-      "num": 218168,
-      "word": "GEN对战TES战歌起",
-      "onboard_time": 1715424739,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 217993,
       "num": 217993,
       "word": "胖东来将在永辉上架胖东来产品",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1715390719,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216026,
+      "num": 216026,
+      "word": "林峯说破五亿就亲九龙男团",
+      "onboard_time": 1715427198,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 215623,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1715388441,
       "rank": 38,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 202825,
+      "num": 202825,
+      "word": "TES 换线",
+      "onboard_time": 1715419818,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 201065,
@@ -1496,6 +1536,14 @@
       "word": "粉丝的话王俊凯真听",
       "onboard_time": 1715358317,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189211,
+      "num": 189211,
+      "word": "徐明浩翻牌",
+      "onboard_time": 1715426540,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1643,6 +1691,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 169912,
+      "num": 169912,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1715425818,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169625,
       "num": 223232,
       "word": "你坐电车晕车吗",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1715402900,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166284,
+      "num": 166284,
+      "word": "赵雅芝70岁穿细高跟跳",
+      "onboard_time": 1715427019,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164091,
@@ -1803,12 +1867,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155506,
-      "num": 155506,
-      "word": "TES 换线",
-      "onboard_time": 1715419818,
-      "rank": 43,
-      "category": "电竞"
+      "raw_hot": 155518,
+      "num": 155518,
+      "word": "背着善宰跑 结婚伏笔",
+      "onboard_time": 1715424920,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 154675,
@@ -1817,14 +1881,6 @@
       "onboard_time": 1715382856,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154587,
-      "num": 154587,
-      "word": "背着善宰跑 结婚伏笔",
-      "onboard_time": 1715424920,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 153896,
@@ -1907,12 +1963,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 144721,
-      "num": 144721,
-      "word": "辽宁男篮vs广东男篮",
-      "onboard_time": 1715425818,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 145370,
+      "num": 145370,
+      "word": "宫崎骏笔下的女性角色",
+      "onboard_time": 1715426418,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 143855,
@@ -1924,7 +1980,7 @@
     },
     {
       "raw_hot": 143241,
-      "num": 431826,
+      "num": 434746,
       "word": "河南大专生上岸北大医学部",
       "onboard_time": 1715411538,
       "rank": 14,
@@ -1937,6 +1993,14 @@
       "onboard_time": 1715423479,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142293,
+      "num": 142293,
+      "word": "广州发改委回应水价拟大幅上涨",
+      "onboard_time": 1715424199,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141064,
@@ -2209,14 +2273,6 @@
       "onboard_time": 1715346740,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115274,
-      "num": 115274,
-      "word": "广州发改委回应水价拟大幅上涨",
-      "onboard_time": 1715424199,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113564,
