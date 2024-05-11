@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715433501288,
+  "endTime": 1715434461709,
   "band_list": [
     {
       "raw_hot": 5071256,
@@ -9,6 +9,14 @@
       "onboard_time": 1715421260,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2773000,
+      "num": 2773000,
+      "word": "南通大巴车与渣土车相撞事故一女孩去世",
+      "onboard_time": 1715432901,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2540727,
@@ -51,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1937896,
+      "num": 718953,
+      "word": "擦边球",
+      "onboard_time": 1715431698,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1852389,
       "num": 1852389,
       "word": "婉拒歌手",
@@ -67,14 +83,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 1689768,
-      "num": 718953,
-      "word": "擦边球",
-      "onboard_time": 1715431698,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1641856,
       "num": 1641856,
       "word": "地磁暴红色预警",
@@ -83,12 +91,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 1563684,
-      "num": 1563684,
-      "word": "南通大巴车与渣土车相撞事故一女孩去世",
-      "onboard_time": 1715432901,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 1595430,
+      "num": 1595430,
+      "word": "王楚钦生日夺冠",
+      "onboard_time": 1715433801,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1525229,
@@ -131,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1338233,
+      "num": 1338233,
+      "word": "歌手",
+      "onboard_time": 1715332397,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1315511,
       "num": 589397,
       "word": "南通",
@@ -144,14 +160,6 @@
       "word": "那是姐的姓 红是姐的命",
       "onboard_time": 1715419880,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1303385,
-      "num": 1303385,
-      "word": "歌手",
-      "onboard_time": 1715332397,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895562,
+      "num": 895562,
+      "word": "阿朵去歌手吧",
+      "onboard_time": 1715430139,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 890481,
       "num": 270149,
       "word": "长期睡前玩手机的5大危害",
@@ -387,20 +403,20 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 817107,
+      "num": 817107,
+      "word": "王楚钦男单决赛",
+      "onboard_time": 1715429060,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 808806,
       "num": 808806,
       "word": "暖阳 没分手",
       "onboard_time": 1715405360,
       "rank": 17,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 766665,
-      "num": 766665,
-      "word": "王楚钦男单决赛",
-      "onboard_time": 1715429060,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 763647,
@@ -449,14 +465,6 @@
       "onboard_time": 1715393298,
       "rank": 14,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 691924,
-      "num": 691924,
-      "word": "阿朵去歌手吧",
-      "onboard_time": 1715430139,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 683815,
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457579,
+      "num": 425986,
+      "word": "央视喊话袁娅维支援歌手",
+      "onboard_time": 1715433740,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455763,
       "num": 333843,
       "word": "那英 当打之年",
@@ -915,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382512,
+      "num": 382512,
+      "word": "二手玫瑰 允许部分艺术家先富起来",
+      "onboard_time": 1715427319,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 378840,
       "num": 378840,
       "word": "邓超问孙俪嫌他吵吗",
@@ -931,19 +955,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 369862,
-      "num": 369862,
-      "word": "二手玫瑰 允许部分艺术家先富起来",
-      "onboard_time": 1715427319,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 369131,
       "num": 309980,
       "word": "范丞丞跑男唯一一个被消音的常驻",
       "onboard_time": 1715394259,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 366000,
+      "num": 366000,
+      "word": "陈丽君滤镜掉了",
+      "onboard_time": 1715429480,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -955,12 +979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357716,
-      "num": 357716,
-      "word": "陈丽君滤镜掉了",
-      "onboard_time": 1715429480,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 359852,
+      "num": 359852,
+      "word": "新生女婴骨折16小时后腿部溃烂",
+      "onboard_time": 1715433861,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351870,
@@ -985,6 +1009,14 @@
       "onboard_time": 1715406439,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 343173,
+      "num": 343173,
+      "word": "冉莹颖三胎儿子姓冉不姓邹",
+      "onboard_time": 1715433981,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 341479,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1715405000,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311572,
+      "num": 311572,
+      "word": "刘谦回应春晚小尼牌没对上",
+      "onboard_time": 1715433559,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310350,
@@ -1179,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266276,
+      "num": 266276,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1715425818,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264774,
       "num": 264774,
       "word": "GEN战胜TES",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1715404339,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252735,
-      "num": 252735,
-      "word": "辽宁男篮vs广东男篮",
-      "onboard_time": 1715425818,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 247037,
@@ -1323,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 234572,
+      "num": 801150,
+      "word": "送这种花妈妈根本无法拒绝",
+      "onboard_time": 1715421017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234227,
       "num": 234227,
       "word": "阴阳怪气男团",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1715417959,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228086,
-      "num": 801150,
-      "word": "送这种花妈妈根本无法拒绝",
-      "onboard_time": 1715421017,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227259,
@@ -1569,6 +1609,14 @@
       "onboard_time": 1715419818,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202300,
+      "num": 202300,
+      "word": "徐明浩唱中华人努力solo吧",
+      "onboard_time": 1715433559,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 201065,
@@ -1987,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161274,
+      "num": 161274,
+      "word": "赵继伟牛",
+      "onboard_time": 1715434101,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160613,
       "num": 122182,
       "word": "英子一个人的乘风破浪",
@@ -2049,6 +2105,14 @@
       "onboard_time": 1715386100,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157617,
+      "num": 157617,
+      "word": "时代少年团足球场拍摄路透",
+      "onboard_time": 1715433740,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156969,
@@ -2748,7 +2812,7 @@
     },
     {
       "raw_hot": 70755,
-      "num": 1265621,
+      "num": 1411636,
       "word": "第2届中国播音主持金声奖",
       "onboard_time": 1715418858,
       "rank": 2,
@@ -2939,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24174,
+      "num": 172609,
+      "word": "球迷是这样过调休的",
+      "onboard_time": 1715432419,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21318,
       "num": 337484,
       "word": "中国建成行星际闪烁监测望远镜",
@@ -2953,14 +3025,6 @@
       "onboard_time": 1715349081,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17923,
-      "num": 160856,
-      "word": "球迷是这样过调休的",
-      "onboard_time": 1715432419,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 17436,
