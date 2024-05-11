@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715462245274,
+  "endTime": 1715463251129,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -30756,7 +30756,7 @@
     },
     {
       "raw_hot": 50088,
-      "num": 40994,
+      "num": 42147,
       "word": "井柏然审美",
       "onboard_time": 1715455213,
       "rank": 43,
@@ -31227,12 +31227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30696,
+      "num": 30696,
+      "word": "头发蛋白矫正",
+      "onboard_time": 1715457551,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 30479,
       "num": 38487,
       "word": "背书时就能看见骨子里的谦让",
       "onboard_time": 1714769590,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29870,
+      "num": 34433,
+      "word": "母亲节快乐",
+      "onboard_time": 1715442139,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29825,
@@ -31275,28 +31291,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29198,
-      "num": 34433,
-      "word": "母亲节快乐",
-      "onboard_time": 1715442139,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28957,
       "num": 28957,
       "word": "四川的猫咪自带松弛感",
       "onboard_time": 1714859111,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28598,
-      "num": 28598,
-      "word": "头发蛋白矫正",
-      "onboard_time": 1715457551,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 28497,
