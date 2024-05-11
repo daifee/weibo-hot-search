@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715451760310,
+  "endTime": 1715452470393,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -28915,6 +28915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101784,
+      "num": 101784,
+      "word": "何洁带不动",
+      "onboard_time": 1715450174,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101561,
       "num": 101561,
       "word": "宋轶郭麒麟还演姐弟",
@@ -29361,14 +29369,6 @@
       "onboard_time": 1715267060,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 93310,
-      "num": 85115,
-      "word": "何洁带不动",
-      "onboard_time": 1715450174,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 93221,
@@ -30027,6 +30027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 72283,
+      "num": 72283,
+      "word": "从国家队手里抢了个大活",
+      "onboard_time": 1715450893,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71771,
       "num": 82636,
       "word": "TWICE回归预告",
@@ -30491,14 +30499,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 56876,
-      "num": 56876,
-      "word": "从国家队手里抢了个大活",
-      "onboard_time": 1715450893,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 56830,
       "num": 1274462,
       "word": "文化中国行我写家乡",
@@ -30691,6 +30691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50997,
+      "num": 163583,
+      "word": "中国的龙是loong",
+      "onboard_time": 1715449754,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50763,
       "num": 164605,
       "word": "揭秘胶原抗老真相",
@@ -30817,14 +30825,6 @@
       "onboard_time": 1715101633,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 47013,
-      "num": 163583,
-      "word": "中国的龙是loong",
-      "onboard_time": 1715449754,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46359,
@@ -31033,6 +31033,14 @@
       "onboard_time": 1715184019,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39463,
+      "num": 39463,
+      "word": "地磁暴带着极光来了",
+      "onboard_time": 1715451615,
+      "rank": 44,
+      "category": "自然,科学科普"
     },
     {
       "raw_hot": 39244,
