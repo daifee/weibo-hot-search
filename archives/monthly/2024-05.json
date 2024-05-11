@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715444486758,
+  "endTime": 1715445344100,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1811,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1131050,
+      "num": 1131050,
+      "word": "歌手踢馆",
+      "onboard_time": 1715438541,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1129942,
       "num": 867170,
       "word": "iPad",
@@ -2139,14 +2147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1054019,
-      "num": 1054019,
-      "word": "歌手踢馆",
-      "onboard_time": 1715438541,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1047292,
       "num": 1047292,
       "word": "问界回应M7事故四大疑问",
@@ -2236,7 +2236,7 @@
     },
     {
       "raw_hot": 1011493,
-      "num": 698982,
+      "num": 755973,
       "word": "又一种新冠新毒株突袭多国",
       "onboard_time": 1715435542,
       "rank": 37,
@@ -3539,6 +3539,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 768460,
+      "num": 768460,
+      "word": "北京极光",
+      "onboard_time": 1715442560,
+      "rank": 13,
+      "category": "自然"
+    },
+    {
       "raw_hot": 767827,
       "num": 767827,
       "word": "南通大巴与渣土车碰撞致1死",
@@ -3945,6 +3953,14 @@
       "onboard_time": 1714916902,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 708961,
+      "num": 563244,
+      "word": "高嘉朗 恳请歌手看看我",
+      "onboard_time": 1715440162,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 708894,
@@ -5475,6 +5491,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 582346,
+      "num": 582346,
+      "word": "母亲节",
+      "onboard_time": 1715444300,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579975,
       "num": 273299,
       "word": "杨幂ip在美国",
@@ -5672,14 +5696,6 @@
       "word": "李莎旻子撕杨丞琳标签",
       "onboard_time": 1715244920,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 558902,
-      "num": 558902,
-      "word": "高嘉朗 恳请歌手看看我",
-      "onboard_time": 1715440162,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -8459,14 +8475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 409083,
-      "num": 409083,
-      "word": "北京极光",
-      "onboard_time": 1715442560,
-      "rank": 13,
-      "category": "自然"
-    },
-    {
       "raw_hot": 408592,
       "num": 408592,
       "word": "正式被确诊为荒野女巫",
@@ -9729,6 +9737,14 @@
       "onboard_time": 1714995377,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356635,
+      "num": 356635,
+      "word": "陈楚生唱了压箱底的歌",
+      "onboard_time": 1715443881,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 356615,
@@ -11419,6 +11435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296566,
+      "num": 296566,
+      "word": "她的小梨涡",
+      "onboard_time": 1715443460,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296485,
       "num": 296485,
       "word": "陈梦3比0平野美宇",
@@ -11785,14 +11809,6 @@
       "onboard_time": 1714984219,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 284604,
-      "num": 284604,
-      "word": "陈楚生唱了压箱底的歌",
-      "onboard_time": 1715443881,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 284510,
@@ -13211,6 +13227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252254,
+      "num": 252254,
+      "word": "周六上班上出了结婚的感觉",
+      "onboard_time": 1715443760,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252067,
       "num": 252067,
       "word": "蔡文静排名",
@@ -13953,14 +13977,6 @@
       "onboard_time": 1715182579,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 238310,
-      "num": 238310,
-      "word": "她的小梨涡",
-      "onboard_time": 1715443460,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 238066,
@@ -16441,14 +16457,6 @@
       "onboard_time": 1714749681,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204863,
-      "num": 204863,
-      "word": "母亲节",
-      "onboard_time": 1715444300,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204853,
@@ -21915,14 +21923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 162091,
-      "num": 162091,
-      "word": "周六上班上出了结婚的感觉",
-      "onboard_time": 1715443760,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162088,
       "num": 162088,
       "word": "于文文 不要随口立flag",
@@ -24504,6 +24504,14 @@
       "word": "日出演唱会",
       "onboard_time": 1714820960,
       "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 142438,
+      "num": 142438,
+      "word": "高圆圆去了苏有朋演唱会",
+      "onboard_time": 1715444598,
+      "rank": 35,
       "category": "演出"
     },
     {
