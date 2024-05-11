@@ -1,0 +1,410 @@
+{
+  "runTime": 1715397613569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2154796,
+        "num": 2154796,
+        "word": "歌手 婉拒名单",
+        "onboard_time": 1715392939,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1641856,
+        "num": 1641856,
+        "word": "地磁暴红色预警",
+        "onboard_time": 1715394620,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 29476,
+        "num": 1191632,
+        "word": "一位塞尔维亚教练的中国梦",
+        "onboard_time": 1715348841,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1768253,
+        "num": 1160131,
+        "word": "请凤凰传奇即刻停止",
+        "onboard_time": 1715393539,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1061145,
+        "num": 1061145,
+        "word": "一定要排卵期才能怀孕吗",
+        "onboard_time": 1715391679,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 763773,
+        "num": 763773,
+        "word": "专家建议不要买低价机票",
+        "onboard_time": 1715384958,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162754,
+        "num": 745337,
+        "word": "一顿火锅优酷今日上线",
+        "onboard_time": 1715395639,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 822785,
+        "num": 714579,
+        "word": "那英 叶赫那拉氏的宿命",
+        "onboard_time": 1715383517,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661827,
+        "num": 661827,
+        "word": "某幻 花少北",
+        "onboard_time": 1715393298,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 66461,
+        "num": 636193,
+        "word": "匈牙利人学会用中医养生",
+        "onboard_time": 1715393719,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1672675,
+        "num": 625139,
+        "word": "花少北聊天记录",
+        "onboard_time": 1715386039,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 612862,
+        "num": 612862,
+        "word": "婉拒歌手",
+        "onboard_time": 1715384536,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601777,
+        "num": 601777,
+        "word": "阿勒泰现20年来最强极光",
+        "onboard_time": 1715390959,
+        "rank": 12,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 563250,
+        "num": 563250,
+        "word": "英子 全村的希望",
+        "onboard_time": 1715391319,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562066,
+        "num": 562066,
+        "word": "以色列",
+        "onboard_time": 1715393360,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 454423,
+        "num": 454423,
+        "word": "姐姐去世妹妹冒领养老金近40万",
+        "onboard_time": 1715385979,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405407,
+        "num": 405407,
+        "word": "想念CoCo",
+        "onboard_time": 1715395878,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167800,
+        "num": 386763,
+        "word": "夏天第一杯双响炮",
+        "onboard_time": 1715395639,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 379130,
+        "num": 379130,
+        "word": "村妇女主任下车时被拖拽坠亡",
+        "onboard_time": 1715388681,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358148,
+        "num": 358148,
+        "word": "花少北 龙女塔罗",
+        "onboard_time": 1715396239,
+        "rank": 19,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 341479,
+        "num": 341479,
+        "word": "iPhone上或安装ChatGPT",
+        "onboard_time": 1715394560,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 333323,
+        "num": 333323,
+        "word": "调休",
+        "onboard_time": 1715386700,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288294,
+        "num": 288294,
+        "word": "范丞丞跑男唯一一个被消音的常驻",
+        "onboard_time": 1715394259,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267810,
+        "num": 267810,
+        "word": "不敢想白鹿的头有多疼",
+        "onboard_time": 1715395459,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246404,
+        "num": 246404,
+        "word": "身体还很年轻的10个表现",
+        "onboard_time": 1715396359,
+        "rank": 24,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 236116,
+        "num": 236116,
+        "word": "王楚钦",
+        "onboard_time": 1715362094,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234009,
+        "num": 234009,
+        "word": "江西20岁学生独自爬秦岭身亡",
+        "onboard_time": 1715389100,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224011,
+        "num": 224011,
+        "word": "护士人员流失现象严重",
+        "onboard_time": 1715390242,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209915,
+        "num": 209915,
+        "word": "巴勒斯坦",
+        "onboard_time": 1715387899,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 201017,
+        "num": 201017,
+        "word": "陈梦理论上锁定奥运女单席位",
+        "onboard_time": 1715394019,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200123,
+        "num": 200123,
+        "word": "阴阳怪气男团",
+        "onboard_time": 1715396181,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 189964,
+        "num": 189964,
+        "word": "短波通信和导航定位会受地磁暴影响",
+        "onboard_time": 1715397019,
+        "rank": 31,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 174376,
+        "num": 174376,
+        "word": "人体唯一能再生的器官是这样罢工的",
+        "onboard_time": 1715385920,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163710,
+        "num": 163710,
+        "word": "周六上班和周一的感觉一样下头",
+        "onboard_time": 1715396959,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162833,
+        "num": 162833,
+        "word": "花少北 就不耽误你的第八年了",
+        "onboard_time": 1715335220,
+        "rank": 34,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 159750,
+        "num": 159750,
+        "word": "大学毕业后的朋友圈分裂感特重",
+        "onboard_time": 1715396959,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152392,
+        "num": 152392,
+        "word": "教资面试真题",
+        "onboard_time": 1715388501,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145824,
+        "num": 145824,
+        "word": "原来经常去音乐节的人是这样的",
+        "onboard_time": 1715390359,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 288132,
+        "num": 144493,
+        "word": "谁给我报的名",
+        "onboard_time": 1715396720,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142162,
+        "num": 142162,
+        "word": "澳门向永久性居民发放1万澳门元",
+        "onboard_time": 1715385858,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 140848,
+        "num": 140848,
+        "word": "李晨纪凌尘一起健身",
+        "onboard_time": 1715388859,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135172,
+        "num": 135172,
+        "word": "姆巴佩宣布离队",
+        "onboard_time": 1715382734,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134175,
+        "num": 134175,
+        "word": "瘦肚子最快的运动是跳跃",
+        "onboard_time": 1715396419,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127246,
+        "num": 127246,
+        "word": "隔壁浪姐 摇人",
+        "onboard_time": 1715355082,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120066,
+        "num": 120066,
+        "word": "毕业四年很多同事都转行了",
+        "onboard_time": 1715390719,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118271,
+        "num": 118271,
+        "word": "教资面试",
+        "onboard_time": 1715384596,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115977,
+        "num": 115977,
+        "word": "aespa编舞",
+        "onboard_time": 1715391798,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114993,
+        "num": 114993,
+        "word": "长期睡前玩手机的5大危害",
+        "onboard_time": 1715352321,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112532,
+        "num": 112532,
+        "word": "地磁暴",
+        "onboard_time": 1715395697,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111196,
+        "num": 111196,
+        "word": "第五人格",
+        "onboard_time": 1715395759,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#欢迎匈牙利成为中国式现代化道路上的同行者#"
+    }
+  }
+}
