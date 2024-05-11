@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715423730681,
+  "endTime": 1715426075226,
   "band_list": [
     {
       "raw_hot": 5071256,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1241328,
+      "num": 502047,
+      "word": "那是姐的姓 红是姐的命",
+      "onboard_time": 1715419880,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1162754,
       "num": 906529,
       "word": "一顿火锅优酷今日上线",
@@ -171,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1074793,
+      "num": 366832,
+      "word": "白夜追凶2",
+      "onboard_time": 1715422758,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1054901,
       "num": 583542,
       "word": "难听",
@@ -203,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 968580,
+      "num": 349343,
+      "word": "马来西亚称只承认联合国制裁不认美国",
+      "onboard_time": 1715423359,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 926680,
       "num": 926680,
       "word": "林志炫称因撞档期未能来歌手2024",
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 919635,
-      "num": 259620,
+      "num": 363499,
       "word": "歌手",
       "onboard_time": 1715332397,
       "rank": 47,
@@ -267,14 +291,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 888835,
-      "num": 341631,
-      "word": "那是姐的姓 红是姐的命",
-      "onboard_time": 1715419880,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 875547,
       "num": 659205,
       "word": "邓超居然参加过歌手",
@@ -288,6 +304,14 @@
       "word": "二手玫瑰受众",
       "onboard_time": 1715410098,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 844264,
+      "num": 341353,
+      "word": "安陵容 踢馆",
+      "onboard_time": 1715420239,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -328,22 +352,6 @@
       "word": "杨丞琳回应排名第六",
       "onboard_time": 1715402360,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 719687,
-      "num": 252463,
-      "word": "白夜追凶2",
-      "onboard_time": 1715422758,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 707373,
-      "num": 320311,
-      "word": "安陵容 踢馆",
-      "onboard_time": 1715420239,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -483,8 +491,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588636,
+      "num": 321781,
+      "word": "歌手抓紧摇人吧",
+      "onboard_time": 1715425219,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585390,
-      "num": 243287,
+      "num": 314873,
       "word": "幼童遭货拉拉碾轧身亡",
       "onboard_time": 1715419640,
       "rank": 16,
@@ -563,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 489915,
+      "num": 489915,
+      "word": "孙颖莎陈梦女单决赛",
+      "onboard_time": 1715424440,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487741,
       "num": 487741,
       "word": "2024年近千万女性将升级为龙妈",
@@ -612,11 +636,19 @@
     },
     {
       "raw_hot": 444712,
-      "num": 218668,
+      "num": 302415,
       "word": "五月天",
       "onboard_time": 1715423000,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 442308,
+      "num": 303997,
+      "word": "谁推荐的关晓彤去歌手",
+      "onboard_time": 1715419398,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 442032,
@@ -624,14 +656,6 @@
       "word": "二手玫瑰 西装配布鞋",
       "onboard_time": 1715387120,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 433354,
-      "num": 221682,
-      "word": "谁推荐的关晓彤去歌手",
-      "onboard_time": 1715419398,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -771,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352973,
+      "num": 303254,
+      "word": "那英 当打之年",
+      "onboard_time": 1715425219,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351870,
       "num": 351870,
       "word": "教资面试",
@@ -859,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304475,
+      "num": 304475,
+      "word": "卓哥解说",
+      "onboard_time": 1715424678,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 299300,
       "num": 595982,
       "word": "西安暴雨",
@@ -931,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271691,
+      "num": 226312,
+      "word": "杨幂生万物路透",
+      "onboard_time": 1715424559,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269337,
       "num": 212907,
       "word": "一顿火锅 网播",
@@ -979,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248281,
+      "num": 222822,
+      "word": "当年的华晨宇",
+      "onboard_time": 1715425519,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246937,
       "num": 246937,
       "word": "考研的风还是吹到了演艺圈",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1715408299,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 239908,
+      "num": 239908,
+      "word": "25岁是个长胖分水岭",
+      "onboard_time": 1715421198,
+      "rank": 29,
+      "category": "运动健身,科学科普"
     },
     {
       "raw_hot": 239392,
@@ -1083,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231169,
+      "num": 231169,
+      "word": "五一后开始考公真的是刚刚好",
+      "onboard_time": 1715425040,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 230623,
       "num": 230623,
       "word": "鹿晗扛住了死亡滤镜",
@@ -1147,6 +1219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220097,
+      "num": 354753,
+      "word": "送这种花妈妈根本无法拒绝",
+      "onboard_time": 1715421017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219713,
       "num": 219713,
       "word": "董思成回应为何不参加回归",
@@ -1155,20 +1235,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 218865,
-      "num": 176644,
-      "word": "马来西亚称只承认联合国制裁不认美国",
-      "onboard_time": 1715423359,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 218276,
       "num": 216082,
       "word": "王冰冰在柬埔寨过新年",
       "onboard_time": 1715415078,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218168,
+      "num": 218168,
+      "word": "GEN对战TES战歌起",
+      "onboard_time": 1715424739,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 217993,
@@ -1339,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194565,
+      "num": 214650,
+      "word": "CBA半决赛",
+      "onboard_time": 1715425040,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194471,
       "num": 194471,
       "word": "极光",
@@ -1387,14 +1475,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 189999,
-      "num": 301320,
-      "word": "送这种花妈妈根本无法拒绝",
-      "onboard_time": 1715421017,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189964,
       "num": 189964,
       "word": "短波通信和导航定位会受地磁暴影响",
@@ -1416,6 +1496,14 @@
       "word": "粉丝的话王俊凯真听",
       "onboard_time": 1715358317,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188572,
+      "num": 188572,
+      "word": "王俊凯重回红V了",
+      "onboard_time": 1715424859,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1465,14 +1553,6 @@
       "onboard_time": 1715419880,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183877,
-      "num": 200829,
-      "word": "25岁是个长胖分水岭",
-      "onboard_time": 1715421198,
-      "rank": 29,
-      "category": "运动健身,科学科普"
     },
     {
       "raw_hot": 181490,
@@ -1739,6 +1819,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154587,
+      "num": 154587,
+      "word": "背着善宰跑 结婚伏笔",
+      "onboard_time": 1715424920,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153896,
+      "num": 153896,
+      "word": "于适被蒋奇明贴脸开大",
+      "onboard_time": 1715425397,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153755,
       "num": 153755,
       "word": "地铁站这个铁片是干嘛的",
@@ -1809,6 +1905,14 @@
       "onboard_time": 1715400020,
       "rank": 9,
       "category": "自然"
+    },
+    {
+      "raw_hot": 144721,
+      "num": 144721,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1715425818,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 143855,
@@ -1905,6 +2009,14 @@
       "onboard_time": 1715388140,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 135856,
+      "num": 135856,
+      "word": "厕所会庇佑每一个实习生",
+      "onboard_time": 1715424799,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 135827,
@@ -2027,6 +2139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122660,
+      "num": 311794,
+      "word": "我们仨环岛游全员尽兴",
+      "onboard_time": 1715420779,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122525,
       "num": 213478,
       "word": "韩红易烊千玺同框",
@@ -2049,6 +2169,14 @@
       "onboard_time": 1715398279,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119415,
+      "num": 119415,
+      "word": "Zhuo穿TES队服应援",
+      "onboard_time": 1715426059,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 117237,
@@ -2081,6 +2209,14 @@
       "onboard_time": 1715346740,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115274,
+      "num": 115274,
+      "word": "广州发改委回应水价拟大幅上涨",
+      "onboard_time": 1715424199,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113564,
@@ -2321,14 +2457,6 @@
       "onboard_time": 1715414719,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64260,
-      "num": 273569,
-      "word": "我们仨环岛游全员尽兴",
-      "onboard_time": 1715420779,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 63219,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715423730681,
+  "endTime": 1715426075226,
   "band_list": [
     {
       "raw_hot": 5071256,
@@ -947,6 +947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1241328,
+      "num": 502047,
+      "word": "那是姐的姓 红是姐的命",
+      "onboard_time": 1715419880,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1239675,
       "num": 1239675,
       "word": "韩国第一夫人被专案调查",
@@ -1307,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1074793,
+      "num": 366832,
+      "word": "白夜追凶2",
+      "onboard_time": 1715422758,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1073256,
       "num": 789285,
       "word": "第一次看到张元英表情管理失败",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1715181080,
       "rank": 10,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 968580,
+      "num": 349343,
+      "word": "马来西亚称只承认联合国制裁不认美国",
+      "onboard_time": 1715423359,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 968245,
@@ -1715,14 +1739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 888835,
-      "num": 341631,
-      "word": "那是姐的姓 红是姐的命",
-      "onboard_time": 1715419880,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 888366,
       "num": 281531,
       "word": "高铁上2女子因遮光帘来回拉扯40分",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1715342958,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 844264,
+      "num": 341353,
+      "word": "安陵容 踢馆",
+      "onboard_time": 1715420239,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 843998,
@@ -2499,14 +2523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 719687,
-      "num": 252463,
-      "word": "白夜追凶2",
-      "onboard_time": 1715422758,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 712529,
       "num": 712529,
       "word": "六月份上班好划算",
@@ -2545,14 +2561,6 @@
       "onboard_time": 1715046077,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 707373,
-      "num": 320311,
-      "word": "安陵容 踢馆",
-      "onboard_time": 1715420239,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 707269,
@@ -3523,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 588636,
+      "num": 321781,
+      "word": "歌手抓紧摇人吧",
+      "onboard_time": 1715425219,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585948,
       "num": 366973,
       "word": "让我们一起喝歌手",
@@ -3532,7 +3548,7 @@
     },
     {
       "raw_hot": 585390,
-      "num": 243287,
+      "num": 314873,
       "word": "幼童遭货拉拉碾轧身亡",
       "onboard_time": 1715419640,
       "rank": 16,
@@ -4339,6 +4355,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 489915,
+      "num": 489915,
+      "word": "孙颖莎陈梦女单决赛",
+      "onboard_time": 1715424440,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488260,
       "num": 488260,
       "word": "老人为亡子销户民警一个动作让他泪崩",
@@ -4916,7 +4940,7 @@
     },
     {
       "raw_hot": 444712,
-      "num": 218668,
+      "num": 302415,
       "word": "五月天",
       "onboard_time": 1715423000,
       "rank": 21,
@@ -4945,6 +4969,14 @@
       "onboard_time": 1714881799,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 442308,
+      "num": 303997,
+      "word": "谁推荐的关晓彤去歌手",
+      "onboard_time": 1715419398,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 442032,
@@ -5049,14 +5081,6 @@
       "onboard_time": 1715235378,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 433354,
-      "num": 221682,
-      "word": "谁推荐的关晓彤去歌手",
-      "onboard_time": 1715419398,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 432978,
@@ -6291,6 +6315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352973,
+      "num": 303254,
+      "word": "那英 当打之年",
+      "onboard_time": 1715425219,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352773,
       "num": 352773,
       "word": "GUCCI品牌大使宋威龙",
@@ -7219,6 +7251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304475,
+      "num": 304475,
+      "word": "卓哥解说",
+      "onboard_time": 1715424678,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 304466,
       "num": 304466,
       "word": "尼古拉斯凯奇儿子殴打亲妈",
@@ -8075,6 +8115,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 271691,
+      "num": 226312,
+      "word": "杨幂生万物路透",
+      "onboard_time": 1715424559,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271647,
       "num": 271647,
       "word": "南通车祸造成8人受伤",
@@ -8707,6 +8755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248281,
+      "num": 222822,
+      "word": "当年的华晨宇",
+      "onboard_time": 1715425519,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248273,
       "num": 248273,
       "word": "古巴旅游",
@@ -8961,6 +9017,14 @@
       "onboard_time": 1715408299,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 239908,
+      "num": 239908,
+      "word": "25岁是个长胖分水岭",
+      "onboard_time": 1715421198,
+      "rank": 29,
+      "category": "运动健身,科学科普"
     },
     {
       "raw_hot": 239458,
@@ -9297,6 +9361,14 @@
       "onboard_time": 1715302876,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231169,
+      "num": 231169,
+      "word": "五一后开始考公真的是刚刚好",
+      "onboard_time": 1715425040,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 231006,
@@ -9811,6 +9883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220097,
+      "num": 354753,
+      "word": "送这种花妈妈根本无法拒绝",
+      "onboard_time": 1715421017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219713,
       "num": 219713,
       "word": "董思成回应为何不参加回归",
@@ -9891,14 +9971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 218865,
-      "num": 176644,
-      "word": "马来西亚称只承认联合国制裁不认美国",
-      "onboard_time": 1715423359,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 218840,
       "num": 218840,
       "word": "东京P卡少年走到了巴黎",
@@ -9937,6 +10009,14 @@
       "onboard_time": 1714878917,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 218168,
+      "num": 218168,
+      "word": "GEN对战TES战歌起",
+      "onboard_time": 1715424739,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 218138,
@@ -11555,6 +11635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194565,
+      "num": 214650,
+      "word": "CBA半决赛",
+      "onboard_time": 1715425040,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194490,
       "num": 168196,
       "word": "森林狼战胜掘金",
@@ -12059,14 +12147,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 189999,
-      "num": 301320,
-      "word": "送这种花妈妈根本无法拒绝",
-      "onboard_time": 1715421017,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189964,
       "num": 189964,
       "word": "短波通信和导航定位会受地磁暴影响",
@@ -12169,6 +12249,14 @@
       "onboard_time": 1714882217,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188572,
+      "num": 188572,
+      "word": "王俊凯重回红V了",
+      "onboard_time": 1715424859,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 188314,
@@ -12569,14 +12657,6 @@
       "onboard_time": 1715419880,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183877,
-      "num": 200829,
-      "word": "25岁是个长胖分水岭",
-      "onboard_time": 1715421198,
-      "rank": 29,
-      "category": "运动健身,科学科普"
     },
     {
       "raw_hot": 183820,
@@ -14803,6 +14883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154587,
+      "num": 154587,
+      "word": "背着善宰跑 结婚伏笔",
+      "onboard_time": 1715424920,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154167,
       "num": 410914,
       "word": "我的中式血脉觉醒了",
@@ -14849,6 +14937,14 @@
       "onboard_time": 1715129542,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153896,
+      "num": 153896,
+      "word": "于适被蒋奇明贴脸开大",
+      "onboard_time": 1715425397,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 153888,
@@ -16147,6 +16243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135856,
+      "num": 135856,
+      "word": "厕所会庇佑每一个实习生",
+      "onboard_time": 1715424799,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135827,
       "num": 157753,
       "word": "王源新歌",
@@ -17107,6 +17211,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 122660,
+      "num": 311794,
+      "word": "我们仨环岛游全员尽兴",
+      "onboard_time": 1715420779,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122582,
       "num": 122582,
       "word": "这些水果堪比热量炸弹",
@@ -17313,6 +17425,14 @@
       "onboard_time": 1715039597,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 119415,
+      "num": 119415,
+      "word": "Zhuo穿TES队服应援",
+      "onboard_time": 1715426059,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 119355,
@@ -17609,6 +17729,14 @@
       "onboard_time": 1715218879,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115274,
+      "num": 115274,
+      "word": "广州发改委回应水价拟大幅上涨",
+      "onboard_time": 1715424199,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115202,
@@ -18969,14 +19097,6 @@
       "onboard_time": 1715203391,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64260,
-      "num": 273569,
-      "word": "我们仨环岛游全员尽兴",
-      "onboard_time": 1715420779,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 63892,
