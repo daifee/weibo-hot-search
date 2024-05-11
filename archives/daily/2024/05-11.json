@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715401300540,
+  "endTime": 1715402106914,
   "band_list": [
     {
       "raw_hot": 2540727,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1974277,
+      "num": 1193204,
+      "word": "请凤凰传奇即刻停止",
+      "onboard_time": 1715393539,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1852389,
       "num": 1852389,
       "word": "婉拒歌手",
@@ -41,14 +49,6 @@
       "onboard_time": 1715386039,
       "rank": 5,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1768253,
-      "num": 1193204,
-      "word": "请凤凰传奇即刻停止",
-      "onboard_time": 1715393539,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 1641856,
@@ -235,6 +235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 629257,
+      "num": 629257,
+      "word": "lex 复活赛",
+      "onboard_time": 1715398519,
+      "rank": 7,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 611351,
+      "num": 611351,
+      "word": "歌手补位",
+      "onboard_time": 1715351661,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 601777,
       "num": 601777,
       "word": "阿勒泰现20年来最强极光",
@@ -257,14 +273,6 @@
       "onboard_time": 1715351902,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 574129,
-      "num": 574129,
-      "word": "lex 复活赛",
-      "onboard_time": 1715398519,
-      "rank": 7,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 562020,
@@ -313,14 +321,6 @@
       "onboard_time": 1715397678,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 507533,
-      "num": 507533,
-      "word": "歌手补位",
-      "onboard_time": 1715351661,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 464635,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363864,
+      "num": 363864,
+      "word": "广州水费",
+      "onboard_time": 1715400681,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351870,
       "num": 351870,
       "word": "教资面试",
@@ -443,12 +451,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 333826,
+      "num": 333826,
+      "word": "建议大家洗澡的时候放个凳子",
+      "onboard_time": 1715401580,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 325745,
+      "num": 325745,
+      "word": "广州水费大幅涨价36%",
+      "onboard_time": 1715401099,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 324205,
       "num": 324205,
       "word": "为什么上班后更容易变胖",
       "onboard_time": 1715388201,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308360,
+      "num": 308360,
+      "word": "每天吃1个西红柿身体会发生什么变化",
+      "onboard_time": 1715398878,
+      "rank": 23,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 308178,
@@ -465,6 +497,14 @@
       "onboard_time": 1715355319,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296457,
+      "num": 296457,
+      "word": "周六上班和周一的感觉一样下头",
+      "onboard_time": 1715396959,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 288132,
@@ -523,28 +563,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 263986,
-      "num": 263986,
-      "word": "周六上班和周一的感觉一样下头",
-      "onboard_time": 1715396959,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 262202,
       "num": 262202,
       "word": "身体还很年轻的10个表现",
       "onboard_time": 1715396359,
       "rank": 24,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 254848,
-      "num": 254848,
-      "word": "每天吃1个西红柿身体会发生什么变化",
-      "onboard_time": 1715398878,
-      "rank": 23,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 244126,
@@ -587,20 +611,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 236644,
+      "num": 236644,
+      "word": "庆余年2哈哈哈海报",
+      "onboard_time": 1715400559,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234227,
+      "num": 234227,
+      "word": "阴阳怪气男团",
+      "onboard_time": 1715396181,
+      "rank": 30,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 234043,
       "num": 228077,
       "word": "Mai谈参加浪姐的感受",
       "onboard_time": 1715389582,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227406,
-      "num": 227406,
-      "word": "阴阳怪气男团",
-      "onboard_time": 1715396181,
-      "rank": 30,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 227259,
@@ -625,14 +657,6 @@
       "onboard_time": 1715345841,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223359,
-      "num": 223359,
-      "word": "庆余年2哈哈哈海报",
-      "onboard_time": 1715400559,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 222910,
@@ -691,12 +715,28 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 209937,
-      "num": 209937,
-      "word": "广州水费",
-      "onboard_time": 1715400681,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 207748,
+      "num": 191119,
+      "word": "亚当兰伯特 踢馆",
+      "onboard_time": 1715401399,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205975,
+      "num": 205975,
+      "word": "掘金1比2森林狼",
+      "onboard_time": 1715401700,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205946,
+      "num": 205946,
+      "word": "周柯宇谈第一次见迪丽热巴",
+      "onboard_time": 1715397918,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 205859,
@@ -723,6 +763,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 200931,
+      "num": 200931,
+      "word": "绘旅人炙情拭色",
+      "onboard_time": 1715401580,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199383,
       "num": 279385,
       "word": "马龙王楚钦冠军",
@@ -747,20 +795,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196800,
-      "num": 196800,
-      "word": "周柯宇谈第一次见迪丽热巴",
-      "onboard_time": 1715397918,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194471,
       "num": 194471,
       "word": "极光",
       "onboard_time": 1715383095,
       "rank": 19,
       "category": "自然"
+    },
+    {
+      "raw_hot": 193158,
+      "num": 193158,
+      "word": "林更新牢记步步惊心剧情",
+      "onboard_time": 1715400498,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192098,
+      "num": 192098,
+      "word": "魔方新世界",
+      "onboard_time": 1715401159,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 190959,
@@ -803,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187705,
+      "num": 187705,
+      "word": "魔方新世界官宣定档",
+      "onboard_time": 1715401461,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187511,
       "num": 461644,
       "word": "夏天第一杯双响炮",
@@ -811,11 +875,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 186524,
-      "num": 186524,
-      "word": "林更新牢记步步惊心剧情",
-      "onboard_time": 1715400498,
-      "rank": 32,
+      "raw_hot": 181490,
+      "num": 181490,
+      "word": "你好星期六全员玩明白了卧底局",
+      "onboard_time": 1715399538,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -849,14 +913,6 @@
       "onboard_time": 1715358617,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163271,
-      "num": 163271,
-      "word": "你好星期六全员玩明白了卧底局",
-      "onboard_time": 1715399538,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 161963,
@@ -955,14 +1011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152918,
-      "num": 152918,
-      "word": "广州水费大幅涨价36%",
-      "onboard_time": 1715401099,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 152649,
       "num": 221031,
       "word": "迪丽热巴 联想",
@@ -1019,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140794,
+      "num": 173735,
+      "word": "杭州菜场提前给妈妈们过母亲节",
+      "onboard_time": 1715401219,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139829,
       "num": 273984,
       "word": "比亚迪",
@@ -1057,14 +1113,6 @@
       "onboard_time": 1715390000,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 135480,
-      "num": 152914,
-      "word": "魔方新世界",
-      "onboard_time": 1715401159,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 134494,
@@ -1163,14 +1211,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 111963,
-      "num": 152903,
-      "word": "杭州菜场提前给妈妈们过母亲节",
-      "onboard_time": 1715401219,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109505,
       "num": 109505,
       "word": "网友让袁娅维改名袁娟再战歌手",
@@ -1243,20 +1283,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 93518,
+      "num": 780465,
+      "word": "塞尔维亚的中国桥",
+      "onboard_time": 1715398577,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90010,
       "num": 213392,
       "word": "马龙说现在是王楚钦带着我",
       "onboard_time": 1715346439,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89041,
-      "num": 780465,
-      "word": "塞尔维亚的中国桥",
-      "onboard_time": 1715398577,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87233,
@@ -1395,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49914,
+      "num": 733137,
+      "word": "多元化消费激活经济新动能",
+      "onboard_time": 1715398099,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44327,
       "num": 32201,
       "word": "那英蝶窦共鸣",
@@ -1409,14 +1457,6 @@
       "onboard_time": 1715346801,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41294,
-      "num": 733137,
-      "word": "多元化消费激活经济新动能",
-      "onboard_time": 1715398099,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37594,
@@ -1506,6 +1546,9 @@
     },
     {
       "word": "#中匈两国始终是互信互助的好朋友#"
+    },
+    {
+      "word": "#习近平结束欧洲三国之行乘专机回国#"
     }
   ]
 }
