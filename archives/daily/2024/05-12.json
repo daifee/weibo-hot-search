@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715458727607,
+  "endTime": 1715459682460,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 50088,
-      "num": 28254,
+      "num": 40994,
       "word": "井柏然审美",
       "onboard_time": 1715455213,
       "rank": 43,
@@ -587,15 +587,15 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22268,
-      "num": 22268,
+      "raw_hot": 27809,
+      "num": 27809,
       "word": "头发蛋白矫正",
       "onboard_time": 1715457551,
       "rank": 41,
       "category": "美妆"
     },
     {
-      "raw_hot": 17817,
+      "raw_hot": 18771,
       "num": 21024,
       "word": "2024防灾减灾日",
       "onboard_time": 1715457071,
