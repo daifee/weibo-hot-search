@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715440644570,
+  "endTime": 1715441657356,
   "band_list": [
     {
       "raw_hot": 5071256,
@@ -33,6 +33,14 @@
       "onboard_time": 1715341399,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3519673,
+      "num": 3519673,
+      "word": "南通车祸事故原因初步查明",
+      "onboard_time": 1715440581,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3292604,
@@ -1515,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1011493,
+      "num": 343243,
+      "word": "又一种新冠新毒株突袭多国",
+      "onboard_time": 1715435542,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1005880,
       "num": 1005880,
       "word": "女生误发吐槽到公司群老板取消调休补班",
@@ -1707,14 +1723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 922189,
-      "num": 309466,
-      "word": "又一种新冠新毒株突袭多国",
-      "onboard_time": 1715435542,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 920141,
       "num": 920141,
       "word": "第一次去见家长就分手了",
@@ -1827,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 901543,
+      "num": 789029,
+      "word": "歌手踢馆",
+      "onboard_time": 1715438541,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 895562,
       "num": 895562,
       "word": "阿朵去歌手吧",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1714982178,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 880052,
+      "num": 804961,
+      "word": "汪苏泷唱功",
+      "onboard_time": 1715436982,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 878111,
@@ -2105,14 +2129,6 @@
       "onboard_time": 1715351902,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 842396,
-      "num": 804961,
-      "word": "汪苏泷唱功",
-      "onboard_time": 1715436982,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 833538,
@@ -2339,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 789029,
-      "num": 789029,
-      "word": "歌手踢馆",
-      "onboard_time": 1715438541,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 784728,
       "num": 658613,
       "word": "如懿传是因蔡少芬而写的",
@@ -2536,6 +2544,14 @@
       "word": "全国人均每年喝16杯咖啡",
       "onboard_time": 1715254997,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748313,
+      "num": 748313,
+      "word": "南通大巴与渣土车碰撞致1死",
+      "onboard_time": 1715440941,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -4019,6 +4035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 548674,
+      "num": 548674,
+      "word": "莎头",
+      "onboard_time": 1715037976,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 547585,
       "num": 461023,
       "word": "张真源是郑恺苗苗的爱情保安",
@@ -4105,6 +4129,14 @@
       "onboard_time": 1715087780,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 541424,
+      "num": 338810,
+      "word": "男子隐瞒已婚事实与女子交往致女方自杀",
+      "onboard_time": 1715438960,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540971,
@@ -4907,14 +4939,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 463183,
-      "num": 293487,
-      "word": "男子隐瞒已婚事实与女子交往致女方自杀",
-      "onboard_time": 1715438960,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 461487,
       "num": 398668,
       "word": "金钟大开通微博",
@@ -5297,6 +5321,14 @@
       "onboard_time": 1715044401,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 437128,
+      "num": 437128,
+      "word": "王楚钦三冠王",
+      "onboard_time": 1715434460,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 436288,
@@ -6643,14 +6675,6 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 352581,
-      "num": 352581,
-      "word": "王楚钦三冠王",
-      "onboard_time": 1715434460,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 352262,
       "num": 352262,
       "word": "甄嬛传中太监名字都带海的原因",
@@ -7931,14 +7955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 287730,
-      "num": 287730,
-      "word": "莎头",
-      "onboard_time": 1715037976,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287698,
       "num": 287698,
       "word": "张艺凡跳舞了",
@@ -8771,6 +8787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 262341,
+      "num": 262341,
+      "word": "宋亚轩叫妈妈美女",
+      "onboard_time": 1715439923,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262202,
       "num": 262202,
       "word": "身体还很年轻的10个表现",
@@ -9379,14 +9403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242297,
-      "num": 242297,
-      "word": "宋亚轩叫妈妈美女",
-      "onboard_time": 1715439923,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241712,
       "num": 241712,
       "word": "杨鸣羡慕杜锋",
@@ -9401,6 +9417,14 @@
       "onboard_time": 1715435421,
       "rank": 46,
       "category": "运动健身,健康医疗"
+    },
+    {
+      "raw_hot": 241304,
+      "num": 241304,
+      "word": "杜锋说为周琦受伤感到寒心",
+      "onboard_time": 1715439561,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 240868,
@@ -11203,14 +11227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205444,
-      "num": 205444,
-      "word": "杜锋说为周琦受伤感到寒心",
-      "onboard_time": 1715439561,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205390,
       "num": 205390,
       "word": "Tian让apa闭嘴",
@@ -11601,6 +11617,14 @@
       "onboard_time": 1715229501,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 200459,
+      "num": 200459,
+      "word": "NH战队PCL春季赛冠军",
+      "onboard_time": 1715441360,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 200344,
@@ -13411,6 +13435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180659,
+      "num": 180659,
+      "word": "无限超越班",
+      "onboard_time": 1715441480,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180606,
       "num": 180606,
       "word": "金牛座新月许愿",
@@ -13851,14 +13883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174896,
-      "num": 174896,
-      "word": "南通车祸事故原因初步查明",
-      "onboard_time": 1715440581,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174707,
       "num": 174707,
       "word": "俄乌局势新进展",
@@ -14249,6 +14273,14 @@
       "onboard_time": 1715132601,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 170238,
+      "num": 170238,
+      "word": "苏有朋北京演唱会",
+      "onboard_time": 1715441180,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 170031,
