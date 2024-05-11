@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715412867399,
+  "endTime": 1715415712231,
   "band_list": [
     {
       "raw_hot": 2540727,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1019830,
+      "num": 427654,
+      "word": "男网友殉情身亡女方判赔43万余元",
+      "onboard_time": 1715413520,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1005880,
       "num": 1005880,
       "word": "女生误发吐槽到公司群老板取消调休补班",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 918132,
-      "num": 251516,
+      "num": 319556,
       "word": "女子遭风筝线割喉一个动作救自己一命",
       "onboard_time": 1715406800,
       "rank": 24,
@@ -451,12 +459,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 460894,
+      "num": 305815,
+      "word": "张予曦18岁的寸头照",
+      "onboard_time": 1715409919,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460046,
       "num": 460046,
       "word": "护士人员流失现象严重",
       "onboard_time": 1715390242,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458073,
+      "num": 458073,
+      "word": "2024年近千万女性将升级为龙妈",
+      "onboard_time": 1715411959,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453672,
+      "num": 453672,
+      "word": "新疆的作息时间太适合年轻人了",
+      "onboard_time": 1715413939,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 449772,
@@ -539,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398265,
+      "num": 398265,
+      "word": "南通",
+      "onboard_time": 1715415318,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393013,
       "num": 393013,
       "word": "联大通过涉巴勒斯坦入联决议",
@@ -611,6 +651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345981,
+      "num": 345981,
+      "word": "俄罗斯一公交车坠河致7人死亡",
+      "onboard_time": 1715411118,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343671,
       "num": 343671,
       "word": "大厂辞职后靠AI年入百万",
@@ -643,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309934,
-      "num": 231503,
-      "word": "张予曦18岁的寸头照",
-      "onboard_time": 1715409919,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 308360,
       "num": 308360,
       "word": "每天吃1个西红柿身体会发生什么变化",
@@ -667,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299789,
+      "num": 299789,
+      "word": "袁娅维在写假条了",
+      "onboard_time": 1715414538,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299300,
       "num": 595982,
       "word": "西安暴雨",
@@ -681,14 +729,6 @@
       "onboard_time": 1715396959,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 295353,
-      "num": 221539,
-      "word": "2024年近千万女性将升级为龙妈",
-      "onboard_time": 1715411959,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288132,
@@ -787,14 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253939,
-      "num": 253939,
-      "word": "俄罗斯一公交车坠河致7人死亡",
-      "onboard_time": 1715411118,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246937,
       "num": 246937,
       "word": "考研的风还是吹到了演艺圈",
@@ -857,6 +889,14 @@
       "onboard_time": 1715400559,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234834,
+      "num": 234834,
+      "word": "MSI",
+      "onboard_time": 1715413279,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 234227,
@@ -937,6 +977,22 @@
       "onboard_time": 1715390719,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216082,
+      "num": 216082,
+      "word": "王冰冰在柬埔寨过新年",
+      "onboard_time": 1715415078,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215220,
+      "num": 220840,
+      "word": "鹿晗扛住了死亡滤镜",
+      "onboard_time": 1715412979,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 213530,
@@ -1051,6 +1107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197992,
+      "num": 197992,
+      "word": "GEN对战TES",
+      "onboard_time": 1715415619,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 197516,
+      "num": 197516,
+      "word": "中国主持人在法国辩论节目舌战群儒",
+      "onboard_time": 1715414179,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194471,
       "num": 194471,
       "word": "极光",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1715397019,
       "rank": 31,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 189841,
+      "num": 189841,
+      "word": "爱萝莉叫板Ning",
+      "onboard_time": 1715413219,
+      "rank": 33,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 189656,
@@ -1163,11 +1243,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176148,
+      "num": 176148,
+      "word": "爱情公寓主演们的角色背景",
+      "onboard_time": 1715412918,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176122,
       "num": 226556,
       "word": "婚后才知道什么是隐形家务",
       "onboard_time": 1715344521,
       "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 175691,
+      "num": 175691,
+      "word": "长大后的西瓜没有蒜味了",
+      "onboard_time": 1715413939,
+      "rank": 36,
       "category": "情感"
     },
     {
@@ -1347,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153755,
+      "num": 153755,
+      "word": "地铁站这个铁片是干嘛的",
+      "onboard_time": 1715412859,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153401,
       "num": 208247,
       "word": "身上这5种臭味或是疾病征兆",
@@ -1428,7 +1532,7 @@
     },
     {
       "raw_hot": 143241,
-      "num": 377724,
+      "num": 413403,
       "word": "河南大专生上岸北大医学部",
       "onboard_time": 1715411538,
       "rank": 14,
@@ -1513,6 +1617,14 @@
       "onboard_time": 1715390000,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134758,
+      "num": 134758,
+      "word": "网红参哥称自己的公司就是在捡钱",
+      "onboard_time": 1715412619,
+      "rank": 47,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 134494,
@@ -1691,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103525,
-      "num": 103525,
-      "word": "网红参哥称自己的公司就是在捡钱",
-      "onboard_time": 1715412619,
-      "rank": 47,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 102643,
       "num": 213354,
       "word": "龙姨穿保守了",
@@ -1851,12 +1955,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65350,
+      "num": 321725,
+      "word": "王一博怎么做到又奶又酷的",
+      "onboard_time": 1715414719,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63219,
       "num": 35638,
       "word": "杨丞琳唱带我走",
       "onboard_time": 1715346261,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60220,
+      "num": 949898,
+      "word": "塞尔维亚路牌上有中文标识",
+      "onboard_time": 1715398099,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58309,
+      "num": 458128,
+      "word": "神十八乘组太空出差vlog",
+      "onboard_time": 1715412498,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56077,
@@ -1915,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42982,
+      "num": 363504,
+      "word": "胶原抗老的正确思路",
+      "onboard_time": 1715411645,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 42673,
       "num": 38484,
       "word": "歌手2024首轮竞演",
@@ -1953,30 +2089,6 @@
       "onboard_time": 1715365392,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31294,
-      "num": 458128,
-      "word": "神十八乘组太空出差vlog",
-      "onboard_time": 1715412498,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 29588,
-      "num": 215705,
-      "word": "胶原抗老的正确思路",
-      "onboard_time": 1715411645,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 27723,
-      "num": 949898,
-      "word": "塞尔维亚路牌上有中文标识",
-      "onboard_time": 1715398099,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20044,
