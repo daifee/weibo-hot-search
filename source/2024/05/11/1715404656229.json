@@ -1,0 +1,410 @@
+{
+  "runTime": 1715404656229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2110999,
+        "num": 2110999,
+        "word": "歌手 婉拒名单",
+        "onboard_time": 1715392939,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665169,
+        "num": 665169,
+        "word": "地磁暴红色预警",
+        "onboard_time": 1715394620,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 77547,
+        "num": 593077,
+        "word": "塞尔维亚的中国桥",
+        "onboard_time": 1715398577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355707,
+        "num": 582081,
+        "word": "请凤凰传奇即刻停止",
+        "onboard_time": 1715393539,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 727116,
+        "num": 580936,
+        "word": "一定要排卵期才能怀孕吗",
+        "onboard_time": 1715391679,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 531388,
+        "num": 531388,
+        "word": "广州水费大幅涨价36%",
+        "onboard_time": 1715401099,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 678417,
+        "num": 508397,
+        "word": "歌手补位",
+        "onboard_time": 1715351661,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478212,
+        "num": 478212,
+        "word": "lex 复活赛",
+        "onboard_time": 1715398519,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 676513,
+        "num": 471952,
+        "word": "杨丞琳回应排名第六",
+        "onboard_time": 1715402360,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44352,
+        "num": 454004,
+        "word": "多元化消费激活经济新动能",
+        "onboard_time": 1715398099,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449772,
+        "num": 449772,
+        "word": "浪姐版楼外楼",
+        "onboard_time": 1715402599,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415227,
+        "num": 415227,
+        "word": "歌手2024排名",
+        "onboard_time": 1715351661,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414565,
+        "num": 414565,
+        "word": "专家建议不要买低价机票",
+        "onboard_time": 1715384958,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396646,
+        "num": 396646,
+        "word": "姐姐去世妹妹冒领养老金近40万",
+        "onboard_time": 1715385979,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333543,
+        "num": 333543,
+        "word": "村妇女主任下车时被拖拽坠亡",
+        "onboard_time": 1715388681,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322055,
+        "num": 322055,
+        "word": "邓超问孙俪嫌他吵吗",
+        "onboard_time": 1715403981,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320441,
+        "num": 320441,
+        "word": "一顿火锅优酷今日上线",
+        "onboard_time": 1715395639,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310613,
+        "num": 310613,
+        "word": "跳水女王郭晶晶教你怎么用AED",
+        "onboard_time": 1715402721,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308048,
+        "num": 308048,
+        "word": "某幻 花少北",
+        "onboard_time": 1715393298,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 265047,
+        "num": 265047,
+        "word": "阿勒泰现20年来最强极光",
+        "onboard_time": 1715390959,
+        "rank": 19,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1000283,
+        "num": 263138,
+        "word": "建议大家洗澡的时候放个凳子",
+        "onboard_time": 1715401580,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 832352,
+        "num": 262658,
+        "word": "花少北聊天记录",
+        "onboard_time": 1715386039,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 309930,
+        "num": 258969,
+        "word": "断崖式结束了三年半的感情",
+        "onboard_time": 1715402121,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309577,
+        "num": 257523,
+        "word": "女生误发吐槽到公司群老板取消调休补班",
+        "onboard_time": 1715404339,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280841,
+        "num": 255062,
+        "word": "每天吃1个西红柿身体会发生什么变化",
+        "onboard_time": 1715398878,
+        "rank": 24,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 254530,
+        "num": 254530,
+        "word": "梅大高速救人5人拟被认定见义勇为",
+        "onboard_time": 1715402240,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245248,
+        "num": 245248,
+        "word": "考研的风还是吹到了演艺圈",
+        "onboard_time": 1715404461,
+        "rank": 26,
+        "category": "教育,作品衍生"
+      },
+      {
+        "raw_hot": 231314,
+        "num": 231314,
+        "word": "孟子义没少看赵丽颖的剧",
+        "onboard_time": 1715404339,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212609,
+        "num": 212609,
+        "word": "广州水费",
+        "onboard_time": 1715400681,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205167,
+        "num": 205167,
+        "word": "TheShy老头杯转AD",
+        "onboard_time": 1715402121,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200544,
+        "num": 200544,
+        "word": "调休",
+        "onboard_time": 1715386700,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190690,
+        "num": 190690,
+        "word": "以色列",
+        "onboard_time": 1715393360,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 183354,
+        "num": 183354,
+        "word": "周六上班和周一的感觉一样下头",
+        "onboard_time": 1715396959,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181052,
+        "num": 181052,
+        "word": "惠英红 第二次拿金像奖是我的重生",
+        "onboard_time": 1715397678,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179868,
+        "num": 179868,
+        "word": "花少北 龙女塔罗",
+        "onboard_time": 1715396239,
+        "rank": 34,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 177309,
+        "num": 177309,
+        "word": "迪丽热巴别把周柯宇扇感冒了",
+        "onboard_time": 1715403742,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175280,
+        "num": 175280,
+        "word": "理想L9高速路急刹致追尾被判全责",
+        "onboard_time": 1715398698,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167555,
+        "num": 167555,
+        "word": "以闪亮之名",
+        "onboard_time": 1715402900,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166011,
+        "num": 166011,
+        "word": "庆余年2哈哈哈海报",
+        "onboard_time": 1715400559,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143389,
+        "num": 143389,
+        "word": "林更新牢记步步惊心剧情",
+        "onboard_time": 1715400498,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142711,
+        "num": 142711,
+        "word": "iPhone上或安装ChatGPT",
+        "onboard_time": 1715394560,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140577,
+        "num": 140577,
+        "word": "阴阳怪气男团",
+        "onboard_time": 1715396181,
+        "rank": 41,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 139432,
+        "num": 139432,
+        "word": "身体还很年轻的10个表现",
+        "onboard_time": 1715396359,
+        "rank": 42,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 134492,
+        "num": 134492,
+        "word": "巴勒斯坦",
+        "onboard_time": 1715387899,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133675,
+        "num": 133675,
+        "word": "你好星期六全员玩明白了卧底局",
+        "onboard_time": 1715399538,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133454,
+        "num": 133454,
+        "word": "陈梦理论上锁定奥运女单席位",
+        "onboard_time": 1715394019,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129564,
+        "num": 129564,
+        "word": "江西20岁学生独自爬秦岭身亡",
+        "onboard_time": 1715389100,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126696,
+        "num": 126696,
+        "word": "周柯宇谈第一次见迪丽热巴",
+        "onboard_time": 1715397918,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124469,
+        "num": 124469,
+        "word": "40年前报纸就说清了生育心理",
+        "onboard_time": 1715404279,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121590,
+        "num": 121590,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1715402480,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的欧洲之行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715402106914,
+  "endTime": 1715404656229,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2083,6 +2083,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1000283,
+      "num": 333826,
+      "word": "建议大家洗澡的时候放个凳子",
+      "onboard_time": 1715401580,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 998160,
       "num": 557551,
       "word": "高速塌方",
@@ -3995,6 +4003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 676513,
+      "num": 471952,
+      "word": "杨丞琳回应排名第六",
+      "onboard_time": 1715402360,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 674521,
       "num": 663704,
       "word": "1家5口被海浪卷走4人不幸遇难",
@@ -5667,6 +5683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531388,
+      "num": 531388,
+      "word": "广州水费大幅涨价36%",
+      "onboard_time": 1715401099,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 531278,
       "num": 321442,
       "word": "头上抠下来的黄色小颗粒是什么",
@@ -6904,6 +6928,14 @@
       "word": "迪丽热巴夹起来了",
       "onboard_time": 1714626738,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 449772,
+      "num": 449772,
+      "word": "浪姐版楼外楼",
+      "onboard_time": 1715402599,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -9587,14 +9619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333826,
-      "num": 333826,
-      "word": "建议大家洗澡的时候放个凳子",
-      "onboard_time": 1715401580,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 333662,
       "num": 333662,
       "word": "张若昀切范闲大号上线了",
@@ -9811,14 +9835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 325745,
-      "num": 325745,
-      "word": "广州水费大幅涨价36%",
-      "onboard_time": 1715401099,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 325355,
       "num": 325355,
       "word": "微笑 爱萝莉",
@@ -9888,6 +9904,14 @@
       "word": "魏大勋脚上的红绳被P掉了",
       "onboard_time": 1714902559,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322055,
+      "num": 322055,
+      "word": "邓超问孙俪嫌他吵吗",
+      "onboard_time": 1715403981,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -10227,6 +10251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310613,
+      "num": 310613,
+      "word": "跳水女王郭晶晶教你怎么用AED",
+      "onboard_time": 1715402721,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310217,
       "num": 310217,
       "word": "王者明世隐新皮肤",
@@ -10235,12 +10267,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 309930,
+      "num": 258969,
+      "word": "断崖式结束了三年半的感情",
+      "onboard_time": 1715402121,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 309859,
       "num": 262919,
       "word": "第一次见到羊噘嘴",
       "onboard_time": 1715180540,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309577,
+      "num": 257523,
+      "word": "女生误发吐槽到公司群老板取消调休补班",
+      "onboard_time": 1715404339,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309509,
@@ -12235,6 +12283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254530,
+      "num": 254530,
+      "word": "梅大高速救人5人拟被认定见义勇为",
+      "onboard_time": 1715402240,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254416,
       "num": 254416,
       "word": "封神第一部真现象级电影",
@@ -12657,6 +12713,14 @@
       "onboard_time": 1715198290,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245248,
+      "num": 245248,
+      "word": "考研的风还是吹到了演艺圈",
+      "onboard_time": 1715404461,
+      "rank": 26,
+      "category": "教育,作品衍生"
     },
     {
       "raw_hot": 244959,
@@ -13369,6 +13433,14 @@
       "onboard_time": 1715302876,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231314,
+      "num": 231314,
+      "word": "孟子义没少看赵丽颖的剧",
+      "onboard_time": 1715404339,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 231006,
@@ -15321,6 +15393,14 @@
       "onboard_time": 1715062038,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 205167,
+      "num": 205167,
+      "word": "TheShy老头杯转AD",
+      "onboard_time": 1715402121,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 205032,
@@ -18731,6 +18811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177309,
+      "num": 177309,
+      "word": "迪丽热巴别把周柯宇扇感冒了",
+      "onboard_time": 1715403742,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177262,
       "num": 177262,
       "word": "RC bp",
@@ -19889,6 +19977,14 @@
       "onboard_time": 1715327418,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167555,
+      "num": 167555,
+      "word": "以闪亮之名",
+      "onboard_time": 1715402900,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 167477,
@@ -25027,6 +25123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124469,
+      "num": 124469,
+      "word": "40年前报纸就说清了生育心理",
+      "onboard_time": 1715404279,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124391,
       "num": 213482,
       "word": "momo yaya",
@@ -25321,6 +25425,14 @@
       "onboard_time": 1714691414,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121590,
+      "num": 121590,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1715402480,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 121579,

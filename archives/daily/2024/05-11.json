@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715402106914,
+  "endTime": 1715404656229,
   "band_list": [
     {
       "raw_hot": 2540727,
@@ -131,6 +131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1000283,
+      "num": 333826,
+      "word": "建议大家洗澡的时候放个凳子",
+      "onboard_time": 1715401580,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 997374,
       "num": 566771,
       "word": "歌手2024排名",
@@ -219,6 +227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 678417,
+      "num": 611351,
+      "word": "歌手补位",
+      "onboard_time": 1715351661,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 676513,
+      "num": 471952,
+      "word": "杨丞琳回应排名第六",
+      "onboard_time": 1715402360,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 673092,
       "num": 647503,
       "word": "英子 全村的希望",
@@ -241,14 +265,6 @@
       "onboard_time": 1715398519,
       "rank": 7,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 611351,
-      "num": 611351,
-      "word": "歌手补位",
-      "onboard_time": 1715351661,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 601777,
@@ -315,6 +331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 531388,
+      "num": 531388,
+      "word": "广州水费大幅涨价36%",
+      "onboard_time": 1715401099,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 525349,
       "num": 525349,
       "word": "惠英红 第二次拿金像奖是我的重生",
@@ -337,6 +361,14 @@
       "onboard_time": 1715390242,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449772,
+      "num": 449772,
+      "word": "浪姐版楼外楼",
+      "onboard_time": 1715402599,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 442032,
@@ -451,28 +483,44 @@
       "category": "数码"
     },
     {
-      "raw_hot": 333826,
-      "num": 333826,
-      "word": "建议大家洗澡的时候放个凳子",
-      "onboard_time": 1715401580,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 325745,
-      "num": 325745,
-      "word": "广州水费大幅涨价36%",
-      "onboard_time": 1715401099,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 324205,
       "num": 324205,
       "word": "为什么上班后更容易变胖",
       "onboard_time": 1715388201,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 322055,
+      "num": 322055,
+      "word": "邓超问孙俪嫌他吵吗",
+      "onboard_time": 1715403981,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 310613,
+      "num": 310613,
+      "word": "跳水女王郭晶晶教你怎么用AED",
+      "onboard_time": 1715402721,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 309930,
+      "num": 258969,
+      "word": "断崖式结束了三年半的感情",
+      "onboard_time": 1715402121,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 309577,
+      "num": 257523,
+      "word": "女生误发吐槽到公司群老板取消调休补班",
+      "onboard_time": 1715404339,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308360,
@@ -571,6 +619,22 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 254530,
+      "num": 254530,
+      "word": "梅大高速救人5人拟被认定见义勇为",
+      "onboard_time": 1715402240,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245248,
+      "num": 245248,
+      "word": "考研的风还是吹到了演艺圈",
+      "onboard_time": 1715404461,
+      "rank": 26,
+      "category": "教育,作品衍生"
+    },
+    {
       "raw_hot": 244126,
       "num": 244126,
       "word": "原来经常去音乐节的人是这样的",
@@ -633,6 +697,14 @@
       "onboard_time": 1715389582,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231314,
+      "num": 231314,
+      "word": "孟子义没少看赵丽颖的剧",
+      "onboard_time": 1715404339,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 227259,
@@ -745,6 +817,14 @@
       "onboard_time": 1715398159,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 205167,
+      "num": 205167,
+      "word": "TheShy老头杯转AD",
+      "onboard_time": 1715402121,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 204494,
@@ -883,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177309,
+      "num": 177309,
+      "word": "迪丽热巴别把周柯宇扇感冒了",
+      "onboard_time": 1715403742,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176122,
       "num": 226556,
       "word": "婚后才知道什么是隐形家务",
@@ -905,6 +993,14 @@
       "onboard_time": 1715392881,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167555,
+      "num": 167555,
+      "word": "以闪亮之名",
+      "onboard_time": 1715402900,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 163302,
@@ -1155,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124469,
+      "num": 124469,
+      "word": "40年前报纸就说清了生育心理",
+      "onboard_time": 1715404279,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124391,
       "num": 213482,
       "word": "momo yaya",
@@ -1169,6 +1273,14 @@
       "onboard_time": 1715353222,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121590,
+      "num": 121590,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1715402480,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 121464,
