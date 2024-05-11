@@ -1,0 +1,411 @@
+{
+  "startTime": 1715444486758,
+  "endTime": 1715444486758,
+  "band_list": [
+    {
+      "raw_hot": 2470906,
+      "num": 2470906,
+      "word": "南通车祸事故原因初步查明",
+      "onboard_time": 1715440581,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1118860,
+      "num": 1118860,
+      "word": "歌手",
+      "onboard_time": 1715423240,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1054019,
+      "num": 1054019,
+      "word": "歌手踢馆",
+      "onboard_time": 1715438541,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 965966,
+      "num": 662252,
+      "word": "央视喊话袁娅维支援歌手",
+      "onboard_time": 1715433740,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 821656,
+      "num": 316890,
+      "word": "六公主评价杨幂演技",
+      "onboard_time": 1715436621,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 767827,
+      "num": 767827,
+      "word": "南通大巴与渣土车碰撞致1死",
+      "onboard_time": 1715440941,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698982,
+      "num": 698982,
+      "word": "又一种新冠新毒株突袭多国",
+      "onboard_time": 1715435542,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600267,
+      "num": 600267,
+      "word": "南通大巴车与渣土车相撞事故一女孩去世",
+      "onboard_time": 1715432901,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558902,
+      "num": 558902,
+      "word": "高嘉朗 恳请歌手看看我",
+      "onboard_time": 1715440162,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 536999,
+      "num": 312864,
+      "word": "男子隐瞒已婚事实与女子交往致女方自杀",
+      "onboard_time": 1715438960,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536690,
+      "num": 536690,
+      "word": "汪苏泷唱功",
+      "onboard_time": 1715436982,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 531327,
+      "num": 197395,
+      "word": "那是姐的姓 红是姐的命",
+      "onboard_time": 1715419880,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 525065,
+      "num": 525065,
+      "word": "新生女婴骨折16小时后腿部溃烂",
+      "onboard_time": 1715433861,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441158,
+      "num": 441158,
+      "word": "吃榴莲 补气血",
+      "onboard_time": 1715434882,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 409083,
+      "num": 409083,
+      "word": "北京极光",
+      "onboard_time": 1715442560,
+      "rank": 13,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 374631,
+      "num": 374631,
+      "word": "王楚钦说冠军是最好的生日礼物",
+      "onboard_time": 1715442139,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 343583,
+      "num": 343583,
+      "word": "上海文旅局回应五月天假唱风波调查",
+      "onboard_time": 1715421260,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 342801,
+      "num": 342801,
+      "word": "陈梦王楚钦合影",
+      "onboard_time": 1715438600,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 342602,
+      "num": 342602,
+      "word": "歌手奔跑吧收视率第一",
+      "onboard_time": 1715426179,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 338049,
+      "num": 338049,
+      "word": "知否作者发文向林徽因道歉",
+      "onboard_time": 1715428639,
+      "rank": 18,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 318059,
+      "num": 318059,
+      "word": "极光",
+      "onboard_time": 1715437161,
+      "rank": 19,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 294865,
+      "num": 294865,
+      "word": "张予曦撞脸黄子韬",
+      "onboard_time": 1715442320,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 293573,
+      "num": 293573,
+      "word": "王楚钦生日夺冠",
+      "onboard_time": 1715433801,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 284604,
+      "num": 284604,
+      "word": "陈楚生唱了压箱底的歌",
+      "onboard_time": 1715443881,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 268539,
+      "num": 268539,
+      "word": "尹净汉入伍",
+      "onboard_time": 1715435001,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 238310,
+      "num": 238310,
+      "word": "她的小梨涡",
+      "onboard_time": 1715443460,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 229076,
+      "num": 229076,
+      "word": "袁娅维在写假条了",
+      "onboard_time": 1715414538,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204863,
+      "num": 204863,
+      "word": "母亲节",
+      "onboard_time": 1715444300,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198732,
+      "num": 198732,
+      "word": "陈梦女单冠军",
+      "onboard_time": 1715429120,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197881,
+      "num": 197881,
+      "word": "莎头",
+      "onboard_time": 1715439982,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196612,
+      "num": 196612,
+      "word": "孙颖莎 球不落地永不放弃",
+      "onboard_time": 1715430259,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193299,
+      "num": 193299,
+      "word": "二手玫瑰 允许部分艺术家先富起来",
+      "onboard_time": 1715427319,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 193025,
+      "num": 193025,
+      "word": "王楚钦三冠王",
+      "onboard_time": 1715434460,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178903,
+      "num": 178903,
+      "word": "安陵容 踢馆",
+      "onboard_time": 1715420239,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176150,
+      "num": 176150,
+      "word": "宋亚轩叫妈妈美女",
+      "onboard_time": 1715439923,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166455,
+      "num": 166455,
+      "word": "冉莹颖三胎儿子姓冉不姓邹",
+      "onboard_time": 1715433981,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163230,
+      "num": 163230,
+      "word": "易烊千玺和猫下棋",
+      "onboard_time": 1715436201,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162091,
+      "num": 162091,
+      "word": "周六上班上出了结婚的感觉",
+      "onboard_time": 1715443760,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161873,
+      "num": 161873,
+      "word": "孙颖莎陈梦女单决赛",
+      "onboard_time": 1715424440,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147845,
+      "num": 1077677,
+      "word": "匈牙利掀起了中文热",
+      "onboard_time": 1715435481,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 146842,
+      "num": 146842,
+      "word": "宋亚轩表情包",
+      "onboard_time": 1715442619,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141986,
+      "num": 141986,
+      "word": "白夜追凶2",
+      "onboard_time": 1715422758,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139416,
+      "num": 539180,
+      "word": "送这种花妈妈根本无法拒绝",
+      "onboard_time": 1715421017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139257,
+      "num": 139257,
+      "word": "杜锋说为周琦受伤感到寒心",
+      "onboard_time": 1715439561,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135976,
+      "num": 135976,
+      "word": "丁太升问李荣浩不教教杨丞琳吗",
+      "onboard_time": 1715444239,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126072,
+      "num": 126072,
+      "word": "李耕耘古装",
+      "onboard_time": 1715437342,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124913,
+      "num": 124913,
+      "word": "因为一句喜欢等了他六年",
+      "onboard_time": 1715439262,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124473,
+      "num": 124473,
+      "word": "五一后开始考公真的是刚刚好",
+      "onboard_time": 1715425040,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 122902,
+      "num": 122902,
+      "word": "赵雅芝 我下次换平底鞋再跳",
+      "onboard_time": 1715438062,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116079,
+      "num": 116079,
+      "word": "郑钦文晋级",
+      "onboard_time": 1715442199,
+      "rank": 49,
+      "category": "体育"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平对学校思政课建设作出重要指示#"
+    }
+  ]
+}
