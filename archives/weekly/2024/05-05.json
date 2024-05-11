@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715436987481,
+  "endTime": 1715438042880,
   "band_list": [
     {
       "raw_hot": 5071256,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1567400,
+      "num": 1567400,
+      "word": "歌手",
+      "onboard_time": 1714966399,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1563229,
       "num": 1563229,
       "word": "黎明回应",
@@ -529,6 +537,14 @@
       "onboard_time": 1715058918,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1557364,
+      "num": 1557364,
+      "word": "央视喊话袁娅维支援歌手",
+      "onboard_time": 1715433740,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 1555692,
@@ -617,14 +633,6 @@
       "onboard_time": 1714897279,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1499086,
-      "num": 881044,
-      "word": "央视喊话袁娅维支援歌手",
-      "onboard_time": 1715433740,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 1492760,
@@ -761,14 +769,6 @@
       "onboard_time": 1715213900,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1380632,
-      "num": 1338233,
-      "word": "歌手",
-      "onboard_time": 1714966399,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 1377182,
@@ -1299,6 +1299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1100958,
+      "num": 564385,
+      "word": "新生女婴骨折16小时后腿部溃烂",
+      "onboard_time": 1715433861,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1100118,
       "num": 1087013,
       "word": "小杨哥称在发现高价水之后就要求降价",
@@ -1393,14 +1401,6 @@
       "onboard_time": 1714915460,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1067770,
-      "num": 520907,
-      "word": "新生女婴骨折16小时后腿部溃烂",
-      "onboard_time": 1715433861,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1066412,
@@ -1665,6 +1665,14 @@
       "onboard_time": 1714880598,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 927514,
+      "num": 811580,
+      "word": "六公主评价杨幂演技",
+      "onboard_time": 1715436621,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 926680,
@@ -1945,6 +1953,14 @@
       "onboard_time": 1714970481,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 866904,
+      "num": 866904,
+      "word": "吃榴莲 补气血",
+      "onboard_time": 1715434882,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 863812,
@@ -3124,7 +3140,7 @@
     },
     {
       "raw_hot": 653625,
-      "num": 624877,
+      "num": 627004,
       "word": "歌手抓紧摇人吧",
       "onboard_time": 1715425219,
       "rank": 15,
@@ -3476,7 +3492,7 @@
     },
     {
       "raw_hot": 613173,
-      "num": 519607,
+      "num": 541956,
       "word": "尹净汉入伍",
       "onboard_time": 1715435001,
       "rank": 12,
@@ -4267,20 +4283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519412,
+      "num": 519412,
+      "word": "辽宁男篮晋级总决赛",
+      "onboard_time": 1715436020,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 518534,
       "num": 518534,
       "word": "娜扎脚腕纹身",
       "onboard_time": 1715078539,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 517886,
-      "num": 517886,
-      "word": "辽宁男篮晋级总决赛",
-      "onboard_time": 1715436020,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 517666,
@@ -4433,14 +4449,6 @@
       "onboard_time": 1715005520,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 503059,
-      "num": 503059,
-      "word": "吃榴莲 补气血",
-      "onboard_time": 1715434882,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 501713,
@@ -5227,6 +5235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 438853,
+      "num": 438853,
+      "word": "二手玫瑰 允许部分艺术家先富起来",
+      "onboard_time": 1715427319,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 437147,
       "num": 437147,
       "word": "肉放冷冻层保质期就是一辈子吗",
@@ -5371,14 +5387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 426881,
-      "num": 426881,
-      "word": "六公主评价杨幂演技",
-      "onboard_time": 1715436621,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 426648,
       "num": 370776,
       "word": "enhypen与女粉丝共同创作纪录片",
@@ -5433,6 +5441,14 @@
       "onboard_time": 1714838898,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423998,
+      "num": 309725,
+      "word": "二手玫瑰保守了",
+      "onboard_time": 1715436801,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 423568,
@@ -5787,14 +5803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 400249,
-      "num": 400249,
-      "word": "二手玫瑰 允许部分艺术家先富起来",
-      "onboard_time": 1715427319,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 399782,
       "num": 399782,
       "word": "BLG对战PSG",
@@ -6049,6 +6057,14 @@
       "onboard_time": 1715315059,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381567,
+      "num": 267319,
+      "word": "许昕祝贺王楚钦夺冠",
+      "onboard_time": 1715437042,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 381480,
@@ -6435,6 +6451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 360603,
+      "num": 360603,
+      "word": "极光",
+      "onboard_time": 1715383095,
+      "rank": 19,
+      "category": "自然"
+    },
+    {
       "raw_hot": 360530,
       "num": 375087,
       "word": "奔跑吧撕名牌回归",
@@ -6608,6 +6632,14 @@
       "word": "官方通报叫花鸡里没有鸡",
       "onboard_time": 1714918581,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350994,
+      "num": 309466,
+      "word": "又一种新冠新毒株突袭多国",
+      "onboard_time": 1715435542,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -8795,6 +8827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257842,
+      "num": 257842,
+      "word": "肖战那英唱的心动",
+      "onboard_time": 1715437640,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257790,
       "num": 688727,
       "word": "五一假期文旅消费成绩单",
@@ -9427,6 +9467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237142,
+      "num": 237142,
+      "word": "李耕耘古装",
+      "onboard_time": 1715437342,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237023,
       "num": 237023,
       "word": "达利园回应请山寨杰伦代言",
@@ -9521,14 +9569,6 @@
       "onboard_time": 1715123354,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234555,
-      "num": 234555,
-      "word": "又一种新冠新毒株突袭多国",
-      "onboard_time": 1715435542,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234457,
@@ -10571,6 +10611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213169,
+      "num": 213169,
+      "word": "全场为王楚钦庆生",
+      "onboard_time": 1715436860,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213105,
       "num": 213105,
       "word": "王一珩是抢了小丰收的车吗",
@@ -11315,14 +11363,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 202508,
-      "num": 202508,
-      "word": "全场为王楚钦庆生",
-      "onboard_time": 1715436860,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202300,
       "num": 202300,
       "word": "徐明浩唱中华人努力solo吧",
@@ -11513,14 +11553,6 @@
       "onboard_time": 1715054539,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 199993,
-      "num": 199993,
-      "word": "二手玫瑰保守了",
-      "onboard_time": 1715436801,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 199953,
@@ -12019,20 +12051,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194592,
+      "num": 194592,
+      "word": "不吃主食减肥难以持久",
+      "onboard_time": 1715435421,
+      "rank": 46,
+      "category": "运动健身,健康医疗"
+    },
+    {
       "raw_hot": 194490,
       "num": 168196,
       "word": "森林狼战胜掘金",
       "onboard_time": 1714875859,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194471,
-      "num": 194471,
-      "word": "极光",
-      "onboard_time": 1715383095,
-      "rank": 19,
-      "category": "自然"
     },
     {
       "raw_hot": 194359,
@@ -12289,6 +12321,14 @@
       "onboard_time": 1715173520,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192775,
+      "num": 192775,
+      "word": "TTG止步四强",
+      "onboard_time": 1715437822,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 192706,
@@ -12675,6 +12715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188034,
+      "num": 188034,
+      "word": "KSG晋级败者组决赛",
+      "onboard_time": 1715437461,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187987,
       "num": 187987,
       "word": "范丞丞直播",
@@ -12689,6 +12737,14 @@
       "onboard_time": 1715252059,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187750,
+      "num": 187750,
+      "word": "国乒包揽沙特大满贯5冠",
+      "onboard_time": 1715437401,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 187722,
@@ -13435,6 +13491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177802,
+      "num": 1558671,
+      "word": "匈牙利掀起了中文热",
+      "onboard_time": 1715435481,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177639,
       "num": 177639,
       "word": "越级沟通领导发疯",
@@ -13921,14 +13985,6 @@
       "onboard_time": 1714881199,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172397,
-      "num": 172397,
-      "word": "不吃主食减肥难以持久",
-      "onboard_time": 1715435421,
-      "rank": 46,
-      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 172364,
@@ -17707,14 +17763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122926,
-      "num": 895551,
-      "word": "匈牙利掀起了中文热",
-      "onboard_time": 1715435481,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 122695,
       "num": 120154,
       "word": "刘忻不愧是JYP严选",
@@ -20577,6 +20625,9 @@
     },
     {
       "word": "#习主席结束三国出访回到北京#"
+    },
+    {
+      "word": "#习近平对学校思政课建设作出重要指示#"
     }
   ]
 }

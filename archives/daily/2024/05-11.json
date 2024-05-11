@@ -1,6 +1,6 @@
 {
   "startTime": 1715358230582,
-  "endTime": 1715436987481,
+  "endTime": 1715438042880,
   "band_list": [
     {
       "raw_hot": 5071256,
@@ -99,6 +99,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1567400,
+      "num": 1567400,
+      "word": "歌手",
+      "onboard_time": 1715332397,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1557364,
+      "num": 1557364,
+      "word": "央视喊话袁娅维支援歌手",
+      "onboard_time": 1715433740,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1525229,
       "num": 526420,
       "word": "男网友殉情身亡女方判赔43万余元",
@@ -112,14 +128,6 @@
       "word": "那英 叶赫那拉氏的宿命",
       "onboard_time": 1715383517,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1499086,
-      "num": 881044,
-      "word": "央视喊话袁娅维支援歌手",
-      "onboard_time": 1715433740,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -145,14 +153,6 @@
       "onboard_time": 1715391679,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1352134,
-      "num": 1338233,
-      "word": "歌手",
-      "onboard_time": 1715332397,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 1315511,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1100958,
+      "num": 564385,
+      "word": "新生女婴骨折16小时后腿部溃烂",
+      "onboard_time": 1715433861,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1089709,
       "num": 540448,
       "word": "断眉 踢馆",
@@ -257,14 +265,6 @@
       "onboard_time": 1715422758,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1067770,
-      "num": 520907,
-      "word": "新生女婴骨折16小时后腿部溃烂",
-      "onboard_time": 1715433861,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1054901,
@@ -321,6 +321,14 @@
       "onboard_time": 1715428878,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 927514,
+      "num": 811580,
+      "word": "六公主评价杨幂演技",
+      "onboard_time": 1715436621,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 926680,
@@ -393,6 +401,14 @@
       "onboard_time": 1715416758,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 866904,
+      "num": 866904,
+      "word": "吃榴莲 补气血",
+      "onboard_time": 1715434882,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 862033,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 653625,
-      "num": 624877,
+      "num": 627004,
       "word": "歌手抓紧摇人吧",
       "onboard_time": 1715425219,
       "rank": 15,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 613173,
-      "num": 519607,
+      "num": 541956,
       "word": "尹净汉入伍",
       "onboard_time": 1715435001,
       "rank": 12,
@@ -755,20 +771,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 517886,
-      "num": 517886,
+      "raw_hot": 519412,
+      "num": 519412,
       "word": "辽宁男篮晋级总决赛",
       "onboard_time": 1715436020,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 503059,
-      "num": 503059,
-      "word": "吃榴莲 补气血",
-      "onboard_time": 1715434882,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 487741,
@@ -851,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438853,
+      "num": 438853,
+      "word": "二手玫瑰 允许部分艺术家先富起来",
+      "onboard_time": 1715427319,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 432414,
       "num": 432414,
       "word": "李晨纪凌尘一起健身",
@@ -875,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 426881,
-      "num": 426881,
-      "word": "六公主评价杨幂演技",
-      "onboard_time": 1715436621,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 425780,
       "num": 425780,
       "word": "姆巴佩宣布离队",
@@ -896,6 +904,14 @@
       "word": "郭碧婷说刘忻才40岁还年轻",
       "onboard_time": 1715408120,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 423998,
+      "num": 309725,
+      "word": "二手玫瑰保守了",
+      "onboard_time": 1715436801,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -947,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 400249,
-      "num": 400249,
-      "word": "二手玫瑰 允许部分艺术家先富起来",
-      "onboard_time": 1715427319,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 393013,
       "num": 393013,
       "word": "联大通过涉巴勒斯坦入联决议",
@@ -985,6 +993,14 @@
       "onboard_time": 1715402240,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381567,
+      "num": 267319,
+      "word": "许昕祝贺王楚钦夺冠",
+      "onboard_time": 1715437042,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 378840,
@@ -1043,12 +1059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360603,
+      "num": 360603,
+      "word": "极光",
+      "onboard_time": 1715383095,
+      "rank": 19,
+      "category": "自然"
+    },
+    {
       "raw_hot": 351870,
       "num": 351870,
       "word": "教资面试",
       "onboard_time": 1715384596,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 350994,
+      "num": 309466,
+      "word": "又一种新冠新毒株突袭多国",
+      "onboard_time": 1715435542,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345981,
@@ -1323,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257842,
+      "num": 257842,
+      "word": "肖战那英唱的心动",
+      "onboard_time": 1715437640,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247037,
       "num": 247037,
       "word": "TES虽败犹荣",
@@ -1419,6 +1459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 237142,
+      "num": 237142,
+      "word": "李耕耘古装",
+      "onboard_time": 1715437342,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236644,
       "num": 236644,
       "word": "庆余年2哈哈哈海报",
@@ -1441,14 +1489,6 @@
       "onboard_time": 1715413279,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 234555,
-      "num": 234555,
-      "word": "又一种新冠新毒株突袭多国",
-      "onboard_time": 1715435542,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234227,
@@ -1611,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213169,
+      "num": 213169,
+      "word": "全场为王楚钦庆生",
+      "onboard_time": 1715436860,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211746,
       "num": 211746,
       "word": "小龙虾很脏完全是误解",
@@ -1707,14 +1755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 202508,
-      "num": 202508,
-      "word": "全场为王楚钦庆生",
-      "onboard_time": 1715436860,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202300,
       "num": 202300,
       "word": "徐明浩唱中华人努力solo吧",
@@ -1744,14 +1784,6 @@
       "word": "汪苏泷回应排名第四",
       "onboard_time": 1715422218,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 199993,
-      "num": 199993,
-      "word": "二手玫瑰保守了",
-      "onboard_time": 1715436801,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1819,12 +1851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194471,
-      "num": 194471,
-      "word": "极光",
-      "onboard_time": 1715383095,
-      "rank": 19,
-      "category": "自然"
+      "raw_hot": 194592,
+      "num": 194592,
+      "word": "不吃主食减肥难以持久",
+      "onboard_time": 1715435421,
+      "rank": 46,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 193158,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1715400498,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192775,
+      "num": 192775,
+      "word": "TTG止步四强",
+      "onboard_time": 1715437822,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 192098,
@@ -1915,12 +1955,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188034,
+      "num": 188034,
+      "word": "KSG晋级败者组决赛",
+      "onboard_time": 1715437461,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187987,
       "num": 187987,
       "word": "范丞丞直播",
       "onboard_time": 1715421857,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187750,
+      "num": 187750,
+      "word": "国乒包揽沙特大满贯5冠",
+      "onboard_time": 1715437401,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 187705,
@@ -1977,6 +2033,14 @@
       "onboard_time": 1715420239,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177802,
+      "num": 1558671,
+      "word": "匈牙利掀起了中文热",
+      "onboard_time": 1715435481,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 177309,
@@ -2049,14 +2113,6 @@
       "onboard_time": 1715401099,
       "rank": 35,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 172397,
-      "num": 172397,
-      "word": "不吃主食减肥难以持久",
-      "onboard_time": 1715435421,
-      "rank": 46,
-      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 171508,
@@ -2667,14 +2723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122926,
-      "num": 895551,
-      "word": "匈牙利掀起了中文热",
-      "onboard_time": 1715435481,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 122695,
       "num": 120154,
       "word": "刘忻不愧是JYP严选",
@@ -3203,6 +3251,9 @@
     },
     {
       "word": "#习近平主席欧洲之行#"
+    },
+    {
+      "word": "#习近平对学校思政课建设作出重要指示#"
     }
   ]
 }
