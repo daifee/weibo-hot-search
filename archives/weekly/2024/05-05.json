@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715391320319,
+  "endTime": 1715394411037,
   "band_list": [
     {
       "raw_hot": 4648848,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1494688,
+      "num": 1235092,
+      "word": "花少北聊天记录",
+      "onboard_time": 1715386039,
+      "rank": 5,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1492760,
       "num": 583542,
       "word": "难听",
@@ -675,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1376572,
-      "num": 1036480,
-      "word": "花少北聊天记录",
-      "onboard_time": 1715386039,
-      "rank": 5,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 1372523,
       "num": 1372523,
       "word": "西安全面取消住房限购",
@@ -721,6 +721,14 @@
       "onboard_time": 1715042601,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1343733,
+      "num": 1263308,
+      "word": "一定要排卵期才能怀孕吗",
+      "onboard_time": 1715391679,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1338510,
@@ -793,6 +801,14 @@
       "onboard_time": 1715007201,
       "rank": 22,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1288465,
+      "num": 1288465,
+      "word": "歌手 婉拒名单",
+      "onboard_time": 1715392939,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1283218,
@@ -2771,6 +2787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 652099,
+      "num": 557617,
+      "word": "英子 全村的希望",
+      "onboard_time": 1715391319,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 651482,
       "num": 316038,
       "word": "胃癌来敲门身体会发出5大警报",
@@ -3259,6 +3283,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 582756,
+      "num": 550813,
+      "word": "请凤凰传奇即刻停止",
+      "onboard_time": 1715393539,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579975,
       "num": 273299,
       "word": "杨幂ip在美国",
@@ -3401,6 +3433,14 @@
       "onboard_time": 1715244920,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 555230,
+      "num": 555230,
+      "word": "村妇女主任下车时被拖拽坠亡",
+      "onboard_time": 1715388681,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554952,
@@ -3636,7 +3676,7 @@
     },
     {
       "raw_hot": 536076,
-      "num": 351006,
+      "num": 365140,
       "word": "人体唯一能再生的器官是这样罢工的",
       "onboard_time": 1715385920,
       "rank": 20,
@@ -3969,6 +4009,14 @@
       "onboard_time": 1714998379,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495406,
+      "num": 495406,
+      "word": "某幻 花少北",
+      "onboard_time": 1715393298,
+      "rank": 14,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 494462,
@@ -4691,6 +4739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432414,
+      "num": 432414,
+      "word": "李晨纪凌尘一起健身",
+      "onboard_time": 1715388859,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431799,
       "num": 358118,
       "word": "井柏然张子枫同款笑容",
@@ -4761,6 +4817,14 @@
       "onboard_time": 1714871237,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 426626,
+      "num": 426626,
+      "word": "护士人员流失现象严重",
+      "onboard_time": 1715390242,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425780,
@@ -4881,14 +4945,6 @@
       "onboard_time": 1715335700,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 420743,
-      "num": 420743,
-      "word": "村妇女主任下车时被拖拽坠亡",
-      "onboard_time": 1715388681,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 420143,
@@ -5185,14 +5241,6 @@
       "onboard_time": 1715003960,
       "rank": 21,
       "category": "艺人,情感"
-    },
-    {
-      "raw_hot": 393498,
-      "num": 393498,
-      "word": "李晨纪凌尘一起健身",
-      "onboard_time": 1715388859,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 393013,
@@ -6097,14 +6145,6 @@
       "onboard_time": 1715172200,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335311,
-      "num": 335311,
-      "word": "护士人员流失现象严重",
-      "onboard_time": 1715390242,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335232,
@@ -7427,6 +7467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274197,
+      "num": 274197,
+      "word": "以色列",
+      "onboard_time": 1715393360,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 274142,
       "num": 274142,
       "word": "陈楚生官宣新综艺",
@@ -7537,6 +7585,14 @@
       "onboard_time": 1714882520,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270980,
+      "num": 270980,
+      "word": "阿勒泰现20年来最强极光",
+      "onboard_time": 1715390959,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 270870,
@@ -7705,6 +7761,14 @@
       "onboard_time": 1714836559,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 263987,
+      "num": 263987,
+      "word": "范丞丞跑男唯一一个被消音的常驻",
+      "onboard_time": 1715394259,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 263675,
@@ -10067,6 +10131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203452,
+      "num": 203452,
+      "word": "陈梦理论上锁定奥运女单席位",
+      "onboard_time": 1715394019,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203401,
       "num": 203401,
       "word": "张韶涵巡演官宣",
@@ -12283,6 +12355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175043,
+      "num": 175043,
+      "word": "奔跑吧下期要拔280个火罐",
+      "onboard_time": 1715392881,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174707,
       "num": 174707,
       "word": "俄乌局势新进展",
@@ -13179,6 +13259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161963,
+      "num": 161963,
+      "word": "林娜琏将回归",
+      "onboard_time": 1715393780,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161953,
       "num": 161953,
       "word": "外交部回应美菲军演击沉中国制造船只",
@@ -13193,6 +13281,14 @@
       "onboard_time": 1715149581,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161834,
+      "num": 161834,
+      "word": "aespa编舞",
+      "onboard_time": 1715391798,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 161807,
@@ -13305,6 +13401,14 @@
       "onboard_time": 1715160562,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 160609,
+      "num": 160609,
+      "word": "中国馒头出战法国面包节",
+      "onboard_time": 1715392038,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 160582,
@@ -13499,14 +13603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157447,
-      "num": 157447,
-      "word": "阿勒泰现20年来最强极光",
-      "onboard_time": 1715390959,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 157167,
       "num": 157167,
       "word": "演唱会提供的情绪价值谁懂啊",
@@ -13681,6 +13777,14 @@
       "onboard_time": 1714899980,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154836,
+      "num": 154836,
+      "word": "导师我只能委婉提醒你到这了",
+      "onboard_time": 1715393479,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 154817,
@@ -14785,6 +14889,14 @@
       "onboard_time": 1715077878,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139562,
+      "num": 139562,
+      "word": "周琦已抵达沈阳",
+      "onboard_time": 1715392700,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 139451,
@@ -18120,6 +18232,14 @@
       "word": "这些国货年纪比我还大",
       "onboard_time": 1715342839,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32130,
+      "num": 561781,
+      "word": "匈牙利人学会用中医养生",
+      "onboard_time": 1715393719,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
