@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715466860016,
+  "endTime": 1715469482383,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -3907,6 +3907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 725715,
+      "num": 725715,
+      "word": "母亲节",
+      "onboard_time": 1715444300,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724932,
       "num": 717435,
       "word": "室友讨厌甄嬛的理由",
@@ -5489,14 +5497,6 @@
       "onboard_time": 1715063838,
       "rank": 45,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 582346,
-      "num": 582346,
-      "word": "母亲节",
-      "onboard_time": 1715444300,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579975,
@@ -7787,6 +7787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 434567,
+      "num": 434567,
+      "word": "女子越狱40年后落网被抓时已70岁",
+      "onboard_time": 1715445378,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434463,
       "num": 380395,
       "word": "泫雅 回春",
@@ -9715,6 +9723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358384,
+      "num": 358384,
+      "word": "班级成绩第一老师请全班吃烤全羊",
+      "onboard_time": 1715465171,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357299,
       "num": 357299,
       "word": "赛力斯报案",
@@ -10619,6 +10635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324229,
+      "num": 324229,
+      "word": "周六上班上出了结婚的感觉",
+      "onboard_time": 1715443760,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324205,
       "num": 324205,
       "word": "为什么上班后更容易变胖",
@@ -10939,14 +10963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314168,
-      "num": 314168,
-      "word": "周六上班上出了结婚的感觉",
-      "onboard_time": 1715443760,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 314002,
       "num": 314002,
       "word": "美国撤销高通和英特尔对华为出口许可",
@@ -11201,14 +11217,6 @@
       "onboard_time": 1715175561,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 305147,
-      "num": 187164,
-      "word": "女子越狱40年后落网被抓时已70岁",
-      "onboard_time": 1715445378,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305134,
@@ -17833,6 +17841,14 @@
       "onboard_time": 1714907958,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195079,
+      "num": 195079,
+      "word": "现在的年轻人为什么不穿皮鞋",
+      "onboard_time": 1715447536,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 195042,
@@ -24507,6 +24523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142502,
+      "num": 142502,
+      "word": "合肥肥东3.1级地震",
+      "onboard_time": 1715469134,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142481,
       "num": 133069,
       "word": "天赐的声音",
@@ -28243,6 +28267,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111773,
+      "num": 111773,
+      "word": "何洁带不动",
+      "onboard_time": 1715450174,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111599,
+      "num": 111599,
+      "word": "独行侠2比1雷霆",
+      "onboard_time": 1715469134,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111535,
       "num": 87341,
       "word": "从国家队手里抢了个大活",
@@ -28891,6 +28931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102054,
+      "num": 102054,
+      "word": "何炅吴昕新综艺",
+      "onboard_time": 1715453952,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102009,
       "num": 102009,
       "word": "陈梦晋级大满贯16强",
@@ -28920,14 +28968,6 @@
       "word": "孙俪 家庭沪语日",
       "onboard_time": 1715417179,
       "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 101784,
-      "num": 101784,
-      "word": "何洁带不动",
-      "onboard_time": 1715450174,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -29611,6 +29651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84360,
+      "num": 224022,
+      "word": "中国的龙是loong",
+      "onboard_time": 1715449754,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83948,
       "num": 808314,
       "word": "匈牙利为何被称为最西边的东方国家",
@@ -29641,14 +29689,6 @@
       "onboard_time": 1714778054,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 83185,
-      "num": 94761,
-      "word": "现在的年轻人为什么不穿皮鞋",
-      "onboard_time": 1715447536,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 82586,
@@ -30027,14 +30067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73090,
-      "num": 73090,
-      "word": "班级成绩第一老师请全班吃烤全羊",
-      "onboard_time": 1715465171,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72952,
       "num": 72952,
       "word": "F1",
@@ -30403,6 +30435,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 60362,
+      "num": 60362,
+      "word": "头发蛋白矫正",
+      "onboard_time": 1715457551,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 60220,
       "num": 949898,
       "word": "塞尔维亚路牌上有中文标识",
@@ -30475,14 +30515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 58413,
-      "num": 58413,
-      "word": "何炅吴昕新综艺",
-      "onboard_time": 1715453952,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 58309,
       "num": 458128,
       "word": "神十八乘组太空出差vlog",
@@ -30520,6 +30552,14 @@
       "word": "文化中国行我写家乡",
       "onboard_time": 1714742900,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56578,
+      "num": 56578,
+      "word": "母亲节快乐",
+      "onboard_time": 1715442139,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -30627,6 +30667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53786,
+      "num": 53786,
+      "word": "井柏然审美",
+      "onboard_time": 1715455213,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 53572,
       "num": 142355,
       "word": "信一好帅",
@@ -30699,19 +30747,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51714,
+      "num": 51714,
+      "word": "东契奇22分15篮板",
+      "onboard_time": 1715469134,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51647,
       "num": 51647,
       "word": "派出所为哭到泪崩的73岁老人做了一件事",
       "onboard_time": 1715382314,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50997,
-      "num": 163583,
-      "word": "中国的龙是loong",
-      "onboard_time": 1715449754,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -30761,14 +30809,6 @@
       "onboard_time": 1714935192,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 50088,
-      "num": 42530,
-      "word": "井柏然审美",
-      "onboard_time": 1715455213,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 49914,
@@ -31019,6 +31059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41709,
+      "num": 45144,
+      "word": "妈妈是最好哄的孩子",
+      "onboard_time": 1715469193,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41570,
       "num": 57804,
       "word": "4岁女孩马拉松3公里20分钟完成",
@@ -31059,14 +31107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40439,
-      "num": 40439,
-      "word": "母亲节快乐",
-      "onboard_time": 1715442139,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39463,
       "num": 39463,
       "word": "地磁暴带着极光来了",
@@ -31097,6 +31137,14 @@
       "onboard_time": 1715283191,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38365,
+      "num": 45118,
+      "word": "常按6个穴位越来越瘦",
+      "onboard_time": 1715468594,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 38284,
@@ -31201,14 +31249,6 @@
       "onboard_time": 1714758973,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 33104,
-      "num": 33104,
-      "word": "头发蛋白矫正",
-      "onboard_time": 1715457551,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 32411,
