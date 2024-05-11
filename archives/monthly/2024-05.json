@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715469482383,
+  "endTime": 1715470477484,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -3579,6 +3579,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 763478,
+      "num": 763478,
+      "word": "母亲节",
+      "onboard_time": 1715444300,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 761384,
       "num": 761384,
       "word": "关雪 晴川",
@@ -3905,14 +3913,6 @@
       "onboard_time": 1715300599,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 725715,
-      "num": 725715,
-      "word": "母亲节",
-      "onboard_time": 1715444300,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 724932,
@@ -6915,6 +6915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 478124,
+      "num": 478124,
+      "word": "班级成绩第一老师请全班吃烤全羊",
+      "onboard_time": 1715465171,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477624,
       "num": 477624,
       "word": "IVE新歌疑似抄袭EXO咆哮",
@@ -7715,6 +7723,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 440941,
+      "num": 440941,
+      "word": "女子越狱40年后落网被抓时已70岁",
+      "onboard_time": 1715445378,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440613,
       "num": 440613,
       "word": "杨迪 无痛医美",
@@ -7785,14 +7801,6 @@
       "onboard_time": 1714997657,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 434567,
-      "num": 434567,
-      "word": "女子越狱40年后落网被抓时已70岁",
-      "onboard_time": 1715445378,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434463,
@@ -9323,6 +9331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371887,
+      "num": 371887,
+      "word": "周六上班上出了结婚的感觉",
+      "onboard_time": 1715443760,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 371760,
       "num": 248359,
       "word": "试打瘦肩针2美容店主一死一伤",
@@ -9721,14 +9737,6 @@
       "onboard_time": 1715048778,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358384,
-      "num": 358384,
-      "word": "班级成绩第一老师请全班吃烤全羊",
-      "onboard_time": 1715465171,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357299,
@@ -10635,14 +10643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324229,
-      "num": 324229,
-      "word": "周六上班上出了结婚的感觉",
-      "onboard_time": 1715443760,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 324205,
       "num": 324205,
       "word": "为什么上班后更容易变胖",
@@ -11043,6 +11043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 311900,
+      "num": 311900,
+      "word": "现在的年轻人为什么不穿皮鞋",
+      "onboard_time": 1715447536,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311562,
       "num": 234313,
       "word": "胡海泉口误",
@@ -11345,6 +11353,14 @@
       "onboard_time": 1715073379,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 301074,
+      "num": 80605,
+      "word": "为什么在死刑执行现场必须停一辆救护车",
+      "onboard_time": 1715470395,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 301029,
@@ -12481,6 +12497,14 @@
       "onboard_time": 1715134340,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 270358,
+      "num": 270358,
+      "word": "汶川地震16年了",
+      "onboard_time": 1715447536,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270318,
@@ -17843,14 +17867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195079,
-      "num": 195079,
-      "word": "现在的年轻人为什么不穿皮鞋",
-      "onboard_time": 1715447536,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195042,
       "num": 195042,
       "word": "何浩楠 比早八更难受的是早五捞鱼",
@@ -21851,6 +21867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163141,
+      "num": 163141,
+      "word": "合肥肥东3.1级地震",
+      "onboard_time": 1715469134,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163066,
       "num": 163066,
       "word": "陈奕迅武汉安可7首",
@@ -24523,14 +24547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 142502,
-      "num": 142502,
-      "word": "合肥肥东3.1级地震",
-      "onboard_time": 1715469134,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142481,
       "num": 133069,
       "word": "天赐的声音",
@@ -24913,6 +24929,14 @@
       "onboard_time": 1715392700,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139524,
+      "num": 139524,
+      "word": "何洁带不动",
+      "onboard_time": 1715450174,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 139519,
@@ -27003,14 +27027,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 122543,
-      "num": 122543,
-      "word": "汶川地震16年了",
-      "onboard_time": 1715447536,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122529,
       "num": 122529,
       "word": "有些人真的不适合吃榴莲",
@@ -28267,14 +28283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111773,
-      "num": 111773,
-      "word": "何洁带不动",
-      "onboard_time": 1715450174,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111599,
       "num": 111599,
       "word": "独行侠2比1雷霆",
@@ -28723,6 +28731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105415,
+      "num": 105415,
+      "word": "何炅吴昕新综艺",
+      "onboard_time": 1715453952,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105168,
       "num": 105168,
       "word": "辽宁男篮犯规",
@@ -28929,14 +28945,6 @@
       "onboard_time": 1714778355,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102054,
-      "num": 102054,
-      "word": "何炅吴昕新综艺",
-      "onboard_time": 1715453952,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 102009,
@@ -29273,6 +29281,14 @@
       "onboard_time": 1715197331,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96900,
+      "num": 291883,
+      "word": "中国的龙是loong",
+      "onboard_time": 1715449754,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96494,
@@ -29649,14 +29665,6 @@
       "onboard_time": 1715261719,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 84360,
-      "num": 224022,
-      "word": "中国的龙是loong",
-      "onboard_time": 1715449754,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83948,
@@ -30187,6 +30195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69087,
+      "num": 69087,
+      "word": "头发蛋白矫正",
+      "onboard_time": 1715457551,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 68952,
+      "num": 68952,
+      "word": "井柏然审美",
+      "onboard_time": 1715455213,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68750,
       "num": 218800,
       "word": "今夏的第一双豆豆鞋",
@@ -30379,6 +30403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63524,
+      "num": 63524,
+      "word": "王楚钦笑得肆意爽朗",
+      "onboard_time": 1715469674,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63110,
       "num": 79888,
       "word": "汤姆斯杯中国3比2韩国",
@@ -30432,14 +30464,6 @@
       "word": "姐姐美白易如反掌",
       "onboard_time": 1715325739,
       "rank": 34,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 60362,
-      "num": 60362,
-      "word": "头发蛋白矫正",
-      "onboard_time": 1715457551,
-      "rank": 41,
       "category": "美妆"
     },
     {
@@ -30515,6 +30539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58443,
+      "num": 58443,
+      "word": "母亲节快乐",
+      "onboard_time": 1715442139,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58309,
       "num": 458128,
       "word": "神十八乘组太空出差vlog",
@@ -30552,14 +30584,6 @@
       "word": "文化中国行我写家乡",
       "onboard_time": 1714742900,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56578,
-      "num": 56578,
-      "word": "母亲节快乐",
-      "onboard_time": 1715442139,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -30665,14 +30689,6 @@
       "onboard_time": 1714519273,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53786,
-      "num": 53786,
-      "word": "井柏然审美",
-      "onboard_time": 1715455213,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 53572,
@@ -30841,6 +30857,14 @@
       "onboard_time": 1714516633,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49221,
+      "num": 49221,
+      "word": "妈妈是最好哄的孩子",
+      "onboard_time": 1715469193,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49174,
@@ -31057,14 +31081,6 @@
       "onboard_time": 1714588812,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 41709,
-      "num": 45144,
-      "word": "妈妈是最好哄的孩子",
-      "onboard_time": 1715469193,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41570,
