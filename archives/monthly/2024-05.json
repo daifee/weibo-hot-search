@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715394411037,
+  "endTime": 1715395061602,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 2540727,
-      "num": 587927,
+      "num": 693681,
       "word": "调休",
       "onboard_time": 1715386700,
       "rank": 10,
@@ -505,6 +505,14 @@
       "onboard_time": 1715141122,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1803669,
+      "num": 1803669,
+      "word": "歌手 婉拒名单",
+      "onboard_time": 1715392939,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1788659,
@@ -1051,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1377182,
+      "num": 1263308,
+      "word": "一定要排卵期才能怀孕吗",
+      "onboard_time": 1715391679,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1372523,
       "num": 1372523,
       "word": "西安全面取消住房限购",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1715042601,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1343733,
-      "num": 1263308,
-      "word": "一定要排卵期才能怀孕吗",
-      "onboard_time": 1715391679,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1343281,
@@ -1209,14 +1217,6 @@
       "onboard_time": 1715007201,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1288465,
-      "num": 1288465,
-      "word": "歌手 婉拒名单",
-      "onboard_time": 1715392939,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1283218,
@@ -1448,6 +1448,14 @@
       "word": "娜扎 就担心我艳压你",
       "onboard_time": 1715251159,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1193204,
+      "num": 1193204,
+      "word": "请凤凰传奇即刻停止",
+      "onboard_time": 1715393539,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -2233,6 +2241,14 @@
       "onboard_time": 1714750940,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 934105,
+      "num": 934105,
+      "word": "地磁暴红色预警",
+      "onboard_time": 1715394620,
+      "rank": 7,
+      "category": "科学科普"
     },
     {
       "raw_hot": 933765,
@@ -3715,6 +3731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 697878,
+      "num": 697878,
+      "word": "某幻 花少北",
+      "onboard_time": 1715393298,
+      "rank": 14,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 696903,
       "num": 535462,
       "word": "第一批去日本扫货的人已经被税了",
@@ -3987,6 +4011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 673092,
+      "num": 647503,
+      "word": "英子 全村的希望",
+      "onboard_time": 1715391319,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 672805,
       "num": 334112,
       "word": "梅龙高速塌方亲历者在路塌前冲了过去",
@@ -4209,14 +4241,6 @@
       "onboard_time": 1714576579,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 652099,
-      "num": 557617,
-      "word": "英子 全村的希望",
-      "onboard_time": 1715391319,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 651482,
@@ -4977,14 +5001,6 @@
       "onboard_time": 1715063838,
       "rank": 45,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 582756,
-      "num": 550813,
-      "word": "请凤凰传奇即刻停止",
-      "onboard_time": 1715393539,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 579975,
@@ -6051,14 +6067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495406,
-      "num": 495406,
-      "word": "某幻 花少北",
-      "onboard_time": 1715393298,
-      "rank": 14,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 495262,
       "num": 251501,
       "word": "王一博身份证掉了",
@@ -6691,6 +6699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460046,
+      "num": 460046,
+      "word": "护士人员流失现象严重",
+      "onboard_time": 1715390242,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459350,
       "num": 414705,
       "word": "成都顶楼水泥封人视频系拼接",
@@ -7289,14 +7305,6 @@
       "onboard_time": 1714871237,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 426626,
-      "num": 426626,
-      "word": "护士人员流失现象严重",
-      "onboard_time": 1715390242,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 425780,
@@ -8593,6 +8601,14 @@
       "onboard_time": 1715348841,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369131,
+      "num": 309980,
+      "word": "范丞丞跑男唯一一个被消音的常驻",
+      "onboard_time": 1715394259,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 368477,
@@ -10107,6 +10123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 312357,
+      "num": 312357,
+      "word": "以色列",
+      "onboard_time": 1714731679,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 311909,
       "num": 311909,
       "word": "Mayumi背叛了JackeyLove",
@@ -10755,6 +10779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286893,
+      "num": 286893,
+      "word": "阿勒泰现20年来最强极光",
+      "onboard_time": 1715390959,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 286257,
       "num": 296940,
       "word": "长期贪嘴你的肝会有何变化",
@@ -11315,14 +11347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274197,
-      "num": 274197,
-      "word": "以色列",
-      "onboard_time": 1714731679,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 274142,
       "num": 274142,
       "word": "陈楚生官宣新综艺",
@@ -11457,14 +11481,6 @@
       "onboard_time": 1714882520,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270980,
-      "num": 270980,
-      "word": "阿勒泰现20年来最强极光",
-      "onboard_time": 1715390959,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 270870,
@@ -11729,14 +11745,6 @@
       "onboard_time": 1715004982,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263987,
-      "num": 263987,
-      "word": "范丞丞跑男唯一一个被消音的常驻",
-      "onboard_time": 1715394259,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 263675,
@@ -13449,6 +13457,14 @@
       "onboard_time": 1715069778,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227259,
+      "num": 227259,
+      "word": "陈梦理论上锁定奥运女单席位",
+      "onboard_time": 1715394019,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 227179,
@@ -15315,20 +15331,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203762,
+      "num": 203762,
+      "word": "iPhone上或安装ChatGPT",
+      "onboard_time": 1715394560,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 203733,
       "num": 483045,
       "word": "小鸟努力把自己美成了花鸟图",
       "onboard_time": 1714980258,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203452,
-      "num": 203452,
-      "word": "陈梦理论上锁定奥运女单席位",
-      "onboard_time": 1715394019,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 203401,
@@ -21003,6 +21019,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 155627,
+      "num": 155627,
+      "word": "导师我只能委婉提醒你到这了",
+      "onboard_time": 1715393479,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155571,
       "num": 155571,
       "word": "张颂文每年生日都有工作",
@@ -21073,14 +21097,6 @@
       "onboard_time": 1714899980,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154836,
-      "num": 154836,
-      "word": "导师我只能委婉提醒你到这了",
-      "onboard_time": 1715393479,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 154817,
@@ -26275,6 +26291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109505,
+      "num": 109505,
+      "word": "网友让袁娅维改名袁娟再战歌手",
+      "onboard_time": 1715392881,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109465,
       "num": 109465,
       "word": "当小狗发现你有点不开心时",
@@ -28691,6 +28715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42444,
+      "num": 738827,
+      "word": "匈牙利人学会用中医养生",
+      "onboard_time": 1715393719,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42100,
       "num": 42100,
       "word": "央视主持人说到四川狂咽口水",
@@ -28904,14 +28936,6 @@
       "word": "这些国货年纪比我还大",
       "onboard_time": 1715342839,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32130,
-      "num": 561781,
-      "word": "匈牙利人学会用中医养生",
-      "onboard_time": 1715393719,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
