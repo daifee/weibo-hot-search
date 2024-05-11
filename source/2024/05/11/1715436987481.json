@@ -1,0 +1,410 @@
+{
+  "runTime": 1715436987481,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2413728,
+        "num": 2413728,
+        "word": "南通大巴车与渣土车相撞事故一女孩去世",
+        "onboard_time": 1715432901,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1421172,
+        "num": 1421172,
+        "word": "王楚钦生日夺冠",
+        "onboard_time": 1715433801,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122926,
+        "num": 895551,
+        "word": "匈牙利掀起了中文热",
+        "onboard_time": 1715435481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1499086,
+        "num": 881044,
+        "word": "央视喊话袁娅维支援歌手",
+        "onboard_time": 1715433740,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 841151,
+        "num": 841151,
+        "word": "知否作者发文向林徽因道歉",
+        "onboard_time": 1715428639,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1352134,
+        "num": 825038,
+        "word": "歌手",
+        "onboard_time": 1715423240,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565029,
+        "num": 565029,
+        "word": "歌手奔跑吧收视率第一",
+        "onboard_time": 1715426179,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578638,
+        "num": 545392,
+        "word": "歌手抓紧摇人吧",
+        "onboard_time": 1715425219,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524241,
+        "num": 524241,
+        "word": "辽宁男篮vs广东男篮",
+        "onboard_time": 1715425818,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245792,
+        "num": 524102,
+        "word": "送这种花妈妈根本无法拒绝",
+        "onboard_time": 1715421017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1451738,
+        "num": 522095,
+        "word": "擦边球",
+        "onboard_time": 1715431698,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1067770,
+        "num": 520907,
+        "word": "新生女婴骨折16小时后腿部溃烂",
+        "onboard_time": 1715433861,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613173,
+        "num": 519607,
+        "word": "尹净汉入伍",
+        "onboard_time": 1715435001,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551659,
+        "num": 518013,
+        "word": "上海文旅局回应五月天假唱风波调查",
+        "onboard_time": 1715421260,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 517886,
+        "num": 517886,
+        "word": "辽宁男篮晋级总决赛",
+        "onboard_time": 1715436020,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503059,
+        "num": 503059,
+        "word": "吃榴莲 补气血",
+        "onboard_time": 1715434882,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 486736,
+        "num": 486736,
+        "word": "五一后开始考公真的是刚刚好",
+        "onboard_time": 1715425040,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 438713,
+        "num": 438713,
+        "word": "孙颖莎 球不落地永不放弃",
+        "onboard_time": 1715430259,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426881,
+        "num": 426881,
+        "word": "六公主评价杨幂演技",
+        "onboard_time": 1715436621,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420559,
+        "num": 420559,
+        "word": "白夜追凶2",
+        "onboard_time": 1715422758,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 824667,
+        "num": 420554,
+        "word": "那是姐的姓 红是姐的命",
+        "onboard_time": 1715419880,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418003,
+        "num": 418003,
+        "word": "陈梦说抱着向莎莎学习的心态打比赛",
+        "onboard_time": 1715431698,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400249,
+        "num": 400249,
+        "word": "二手玫瑰 允许部分艺术家先富起来",
+        "onboard_time": 1715427319,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373938,
+        "num": 373938,
+        "word": "黄晓明为陈梦骄傲",
+        "onboard_time": 1715434581,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 371079,
+        "num": 371079,
+        "word": "刘谦回应春晚小尼牌没对上",
+        "onboard_time": 1715433559,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345547,
+        "num": 345547,
+        "word": "赵继伟牛",
+        "onboard_time": 1715434101,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334426,
+        "num": 334426,
+        "word": "安陵容 踢馆",
+        "onboard_time": 1715420239,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330193,
+        "num": 330193,
+        "word": "冉莹颖三胎儿子姓冉不姓邹",
+        "onboard_time": 1715433981,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328115,
+        "num": 328115,
+        "word": "王楚钦三冠王",
+        "onboard_time": 1715434460,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322498,
+        "num": 322498,
+        "word": "袁娅维在写假条了",
+        "onboard_time": 1715414538,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318538,
+        "num": 318538,
+        "word": "市民称南通车祸路口信号灯异常",
+        "onboard_time": 1715415318,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297157,
+        "num": 297157,
+        "word": "徐杰犯规",
+        "onboard_time": 1715436020,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296509,
+        "num": 296509,
+        "word": "陈梦女单冠军",
+        "onboard_time": 1715429120,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286014,
+        "num": 286014,
+        "word": "易烊千玺和猫下棋",
+        "onboard_time": 1715436201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275916,
+        "num": 275916,
+        "word": "三个会唱的 速来",
+        "onboard_time": 1715417779,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250848,
+        "num": 250848,
+        "word": "男网友殉情身亡女方判赔43万余元",
+        "onboard_time": 1715413520,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244678,
+        "num": 244678,
+        "word": "那英 当打之年",
+        "onboard_time": 1715425219,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234555,
+        "num": 234555,
+        "word": "又一种新冠新毒株突袭多国",
+        "onboard_time": 1715435542,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227992,
+        "num": 227992,
+        "word": "王楚钦男单冠军自拍",
+        "onboard_time": 1715436742,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214581,
+        "num": 214581,
+        "word": "CBA半决赛",
+        "onboard_time": 1715425040,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207242,
+        "num": 207242,
+        "word": "孙颖莎陈梦女单决赛",
+        "onboard_time": 1715424440,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202508,
+        "num": 202508,
+        "word": "全场为王楚钦庆生",
+        "onboard_time": 1715436860,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199993,
+        "num": 199993,
+        "word": "二手玫瑰保守了",
+        "onboard_time": 1715436801,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199873,
+        "num": 199873,
+        "word": "王楚钦男单决赛",
+        "onboard_time": 1715429060,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193868,
+        "num": 193868,
+        "word": "陈丽君滤镜掉了",
+        "onboard_time": 1715429480,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188126,
+        "num": 188126,
+        "word": "赵雅芝70岁穿细高跟跳",
+        "onboard_time": 1715427019,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172397,
+        "num": 172397,
+        "word": "不吃主食减肥难以持久",
+        "onboard_time": 1715435421,
+        "rank": 46,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 155957,
+        "num": 155957,
+        "word": "王楚钦赛场收到生日蛋糕",
+        "onboard_time": 1715436682,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154653,
+        "num": 154653,
+        "word": "黄旭熙跳了sheesh",
+        "onboard_time": 1715434640,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151316,
+        "num": 151316,
+        "word": "福宝",
+        "onboard_time": 1715430559,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席欧洲之行#"
+    }
+  }
+}

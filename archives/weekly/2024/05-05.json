@@ -1,6 +1,6 @@
 {
   "startTime": 1714839684781,
-  "endTime": 1715434461709,
+  "endTime": 1715436987481,
   "band_list": [
     {
       "raw_hot": 5071256,
@@ -617,6 +617,14 @@
       "onboard_time": 1714897279,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1499086,
+      "num": 881044,
+      "word": "央视喊话袁娅维支援歌手",
+      "onboard_time": 1715433740,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 1492760,
@@ -1385,6 +1393,14 @@
       "onboard_time": 1714915460,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1067770,
+      "num": 520907,
+      "word": "新生女婴骨折16小时后腿部溃烂",
+      "onboard_time": 1715433861,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1066412,
@@ -3459,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 613173,
+      "num": 519607,
+      "word": "尹净汉入伍",
+      "onboard_time": 1715435001,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613108,
       "num": 342209,
       "word": "家里人不同意一次性相亲两个男生",
@@ -4195,6 +4219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 524241,
+      "num": 524241,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1715173642,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 523663,
       "num": 466914,
       "word": "歌手2024殿堂级舞美",
@@ -4241,6 +4273,14 @@
       "onboard_time": 1715078539,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 517886,
+      "num": 517886,
+      "word": "辽宁男篮晋级总决赛",
+      "onboard_time": 1715436020,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 517666,
@@ -4393,6 +4433,14 @@
       "onboard_time": 1715005520,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503059,
+      "num": 503059,
+      "word": "吃榴莲 补气血",
+      "onboard_time": 1715434882,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 501713,
@@ -4923,14 +4971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 457579,
-      "num": 425986,
-      "word": "央视喊话袁娅维支援歌手",
-      "onboard_time": 1715433740,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 455763,
       "num": 333843,
       "word": "那英 当打之年",
@@ -5329,6 +5369,14 @@
       "onboard_time": 1715418079,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426881,
+      "num": 426881,
+      "word": "六公主评价杨幂演技",
+      "onboard_time": 1715436621,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 426648,
@@ -5739,6 +5787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400249,
+      "num": 400249,
+      "word": "二手玫瑰 允许部分艺术家先富起来",
+      "onboard_time": 1715427319,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 399782,
       "num": 399782,
       "word": "BLG对战PSG",
@@ -5987,14 +6043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 382512,
-      "num": 382512,
-      "word": "二手玫瑰 允许部分艺术家先富起来",
-      "onboard_time": 1715427319,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 381952,
       "num": 369183,
       "word": "水泥",
@@ -6107,6 +6155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373938,
+      "num": 373938,
+      "word": "黄晓明为陈梦骄傲",
+      "onboard_time": 1715434581,
+      "rank": 23,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 373393,
       "num": 373393,
       "word": "苗苗自己给自己化妆",
@@ -6161,6 +6217,14 @@
       "onboard_time": 1715344521,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 371079,
+      "num": 371079,
+      "word": "刘谦回应春晚小尼牌没对上",
+      "onboard_time": 1715433559,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 370722,
@@ -6393,14 +6457,6 @@
       "onboard_time": 1714909759,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 359852,
-      "num": 359852,
-      "word": "新生女婴骨折16小时后腿部溃烂",
-      "onboard_time": 1715433861,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 359700,
@@ -6643,6 +6699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345547,
+      "num": 345547,
+      "word": "赵继伟牛",
+      "onboard_time": 1715434101,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345488,
       "num": 331840,
       "word": "海来阿木 歌手2024",
@@ -6793,14 +6857,6 @@
       "onboard_time": 1715420418,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 337410,
-      "num": 337410,
-      "word": "辽宁男篮vs广东男篮",
-      "onboard_time": 1715173642,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 337134,
@@ -6977,6 +7033,14 @@
       "onboard_time": 1715228420,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 328115,
+      "num": 328115,
+      "word": "王楚钦三冠王",
+      "onboard_time": 1715434460,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 327763,
@@ -7315,14 +7379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 311572,
-      "num": 311572,
-      "word": "刘谦回应春晚小尼牌没对上",
-      "onboard_time": 1715433559,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 311562,
       "num": 234313,
       "word": "胡海泉口误",
@@ -7619,6 +7675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 297157,
+      "num": 297157,
+      "word": "徐杰犯规",
+      "onboard_time": 1715436020,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297074,
       "num": 297074,
       "word": "金价跌至近一个月低点",
@@ -7833,6 +7897,14 @@
       "onboard_time": 1714963938,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286014,
+      "num": 286014,
+      "word": "易烊千玺和猫下棋",
+      "onboard_time": 1715436201,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 285632,
@@ -9067,6 +9139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 245792,
+      "num": 801150,
+      "word": "送这种花妈妈根本无法拒绝",
+      "onboard_time": 1715421017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245773,
       "num": 245773,
       "word": "金高银中分刘海",
@@ -9443,11 +9523,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234572,
-      "num": 801150,
-      "word": "送这种花妈妈根本无法拒绝",
-      "onboard_time": 1715421017,
-      "rank": 9,
+      "raw_hot": 234555,
+      "num": 234555,
+      "word": "又一种新冠新毒株突袭多国",
+      "onboard_time": 1715435542,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -9745,6 +9825,14 @@
       "onboard_time": 1714993340,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227992,
+      "num": 227992,
+      "word": "王楚钦男单冠军自拍",
+      "onboard_time": 1715436742,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 227982,
@@ -10417,6 +10505,14 @@
       "onboard_time": 1715233757,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214581,
+      "num": 214650,
+      "word": "CBA半决赛",
+      "onboard_time": 1715425040,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 214440,
@@ -11219,6 +11315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 202508,
+      "num": 202508,
+      "word": "全场为王楚钦庆生",
+      "onboard_time": 1715436860,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202300,
       "num": 202300,
       "word": "徐明浩唱中华人努力solo吧",
@@ -11409,6 +11513,14 @@
       "onboard_time": 1715054539,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199993,
+      "num": 199993,
+      "word": "二手玫瑰保守了",
+      "onboard_time": 1715436801,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 199953,
@@ -11904,14 +12016,6 @@
       "word": "王楚钦3比0约内斯库",
       "onboard_time": 1714994297,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 194565,
-      "num": 214650,
-      "word": "CBA半决赛",
-      "onboard_time": 1715425040,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -13819,6 +13923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172397,
+      "num": 172397,
+      "word": "不吃主食减肥难以持久",
+      "onboard_time": 1715435421,
+      "rank": 46,
+      "category": "运动健身,健康医疗"
+    },
+    {
       "raw_hot": 172364,
       "num": 172364,
       "word": "李晨郑恺撕名牌撕了十年",
@@ -14627,14 +14739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161274,
-      "num": 161274,
-      "word": "赵继伟牛",
-      "onboard_time": 1715434101,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161270,
       "num": 161270,
       "word": "为什么父母这么执着于提前到",
@@ -15059,6 +15163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155957,
+      "num": 155957,
+      "word": "王楚钦赛场收到生日蛋糕",
+      "onboard_time": 1715436682,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155946,
       "num": 155946,
       "word": "KSG对战狼队",
@@ -15185,6 +15297,14 @@
       "onboard_time": 1715382856,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154653,
+      "num": 154653,
+      "word": "黄旭熙跳了sheesh",
+      "onboard_time": 1715434640,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154638,
@@ -17585,6 +17705,14 @@
       "onboard_time": 1715081719,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122926,
+      "num": 895551,
+      "word": "匈牙利掀起了中文热",
+      "onboard_time": 1715435481,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122695,
