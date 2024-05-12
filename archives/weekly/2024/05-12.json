@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715519908848,
+  "endTime": 1715520849678,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2305276,
+      "num": 390856,
+      "word": "歌手在邀请了",
+      "onboard_time": 1715517981,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2089237,
       "num": 2089237,
       "word": "512警报",
@@ -72,14 +80,6 @@
       "word": "纪敏佳自荐歌手",
       "onboard_time": 1715511382,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1541260,
-      "num": 363235,
-      "word": "歌手在邀请了",
-      "onboard_time": 1715517981,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -136,6 +136,14 @@
       "word": "断眉ip",
       "onboard_time": 1715497697,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1188905,
+      "num": 340324,
+      "word": "王晰报名",
+      "onboard_time": 1715518461,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -235,14 +243,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 979085,
-      "num": 340324,
-      "word": "王晰报名",
-      "onboard_time": 1715518461,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 969566,
       "num": 360769,
       "word": "江映蓉请战歌手",
@@ -329,6 +329,14 @@
       "onboard_time": 1715491220,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 851360,
+      "num": 243117,
+      "word": "女孩攒够10万后裸辞用利息生活",
+      "onboard_time": 1715516602,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 843809,
@@ -424,14 +432,6 @@
       "word": "南通大巴与渣土车碰撞致1死",
       "onboard_time": 1715440941,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 765881,
-      "num": 243117,
-      "word": "女孩攒够10万后裸辞用利息生活",
-      "onboard_time": 1715516602,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -603,6 +603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 563243,
+      "num": 341591,
+      "word": "全球首例猪肾移植患者死亡",
+      "onboard_time": 1715517023,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560464,
       "num": 560464,
       "word": "韩国博主在法院前直播时被杀",
@@ -649,6 +657,14 @@
       "onboard_time": 1715433861,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515892,
+      "num": 238369,
+      "word": "亚当 歌手",
+      "onboard_time": 1715516721,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 510937,
@@ -707,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 481648,
-      "num": 238369,
-      "word": "亚当 歌手",
-      "onboard_time": 1715516721,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 479345,
+      "num": 382106,
+      "word": "肖战机场",
+      "onboard_time": 1715519902,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 478124,
@@ -752,14 +768,6 @@
       "word": "汶川大地震16周年",
       "onboard_time": 1715483418,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445307,
-      "num": 341591,
-      "word": "全球首例猪肾移植患者死亡",
-      "onboard_time": 1715517023,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -891,20 +899,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371465,
+      "num": 371465,
+      "word": "椰树直播间模特捂严实了",
+      "onboard_time": 1715510782,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 371366,
       "num": 371366,
       "word": "吴艳妮回应夺冠",
       "onboard_time": 1715511203,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 368443,
-      "num": 368443,
-      "word": "椰树直播间模特捂严实了",
-      "onboard_time": 1715510782,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 362739,
@@ -1155,6 +1163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 272388,
+      "num": 213917,
+      "word": "婚礼上的伴娘可能全是租的",
+      "onboard_time": 1715519181,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271761,
       "num": 271761,
       "word": "elk和on比心",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1715435001,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266150,
+      "num": 204495,
+      "word": "海来阿木回应唱腔太土",
+      "onboard_time": 1715520082,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 261996,
@@ -1259,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240112,
+      "num": 230116,
+      "word": "工作后才尝到经济独立的甜头",
+      "onboard_time": 1715518401,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236033,
       "num": 236033,
       "word": "极限挑战",
@@ -1289,14 +1321,6 @@
       "onboard_time": 1715506338,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 230116,
-      "num": 230116,
-      "word": "工作后才尝到经济独立的甜头",
-      "onboard_time": 1715518401,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 229727,
@@ -1427,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202492,
+      "num": 202492,
+      "word": "龚琳娜别跳了",
+      "onboard_time": 1715520323,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202102,
       "num": 202102,
       "word": "左航晒妈妈照片",
@@ -1547,11 +1579,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190272,
-      "num": 190272,
-      "word": "婚礼上的伴娘可能全是租的",
-      "onboard_time": 1715519181,
-      "rank": 37,
+      "raw_hot": 190064,
+      "num": 190064,
+      "word": "男子与16岁女孩相约开房涉嫌强奸二审改判",
+      "onboard_time": 1715520442,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1643,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175058,
+      "num": 175058,
+      "word": "新生代阿达娃申请出战",
+      "onboard_time": 1715519781,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174565,
       "num": 174565,
       "word": "张凌赫早期照片",
@@ -1651,7 +1691,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172909,
+      "raw_hot": 173094,
       "num": 245314,
       "word": "母亲说吴艳妮夺冠是最好的母亲节礼物",
       "onboard_time": 1715516541,
@@ -1696,6 +1736,14 @@
       "word": "歌手玩梗",
       "onboard_time": 1715495299,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167854,
+      "num": 166166,
+      "word": "黄景瑜终于演了反派",
+      "onboard_time": 1715519242,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -2259,6 +2307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124233,
+      "num": 124233,
+      "word": "Bin说Kiin没Zeus厉害",
+      "onboard_time": 1715520021,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122902,
       "num": 122902,
       "word": "赵雅芝 我下次换平底鞋再跳",
@@ -2305,6 +2361,14 @@
       "onboard_time": 1715509042,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116273,
+      "num": 116273,
+      "word": "向鱼庄周中单",
+      "onboard_time": 1715519420,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 116079,
