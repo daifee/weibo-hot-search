@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715484941724,
+  "endTime": 1715487735941,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -33,6 +33,14 @@
       "onboard_time": 1715470395,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1453778,
+      "num": 947854,
+      "word": "曾指控五月天假唱博主再发声",
+      "onboard_time": 1715483599,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 1439767,
@@ -91,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 947854,
-      "num": 947854,
-      "word": "曾指控五月天假唱博主再发声",
-      "onboard_time": 1715483599,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 883157,
       "num": 883157,
       "word": "张杰那英唱的没那么简单",
@@ -121,6 +121,14 @@
       "onboard_time": 1715436621,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 783861,
+      "num": 418143,
+      "word": "范丞丞iG发文再坚持一下吧",
+      "onboard_time": 1715484917,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 770678,
@@ -147,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752277,
+      "num": 491299,
+      "word": "林俊杰演唱会观众大喊退票",
+      "onboard_time": 1715484139,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 735054,
       "num": 735054,
       "word": "芍药成花店顶流",
       "onboard_time": 1715477117,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730615,
+      "num": 480294,
+      "word": "王菲和龚琳娜别打麻将啦",
+      "onboard_time": 1715484077,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 711888,
@@ -177,6 +201,14 @@
       "onboard_time": 1715475678,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 670084,
+      "num": 415628,
+      "word": "华语乐坛真没人能救救那英了吗",
+      "onboard_time": 1715483838,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 600267,
@@ -291,11 +323,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 430893,
-      "num": 430893,
-      "word": "王菲和龚琳娜别打麻将啦",
-      "onboard_time": 1715484077,
-      "rank": 16,
+      "raw_hot": 432493,
+      "num": 406788,
+      "word": "这届格莱美要在长沙举办吗",
+      "onboard_time": 1715485638,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -315,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408732,
+      "num": 408732,
+      "word": "4S店忘贴车衣女子想退掉保时捷",
+      "onboard_time": 1715485517,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406702,
       "num": 307009,
       "word": "何洛洛0片约",
@@ -329,14 +369,6 @@
       "onboard_time": 1715481317,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 397371,
-      "num": 267372,
-      "word": "林俊杰演唱会观众大喊退票",
-      "onboard_time": 1715484139,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 375277,
@@ -403,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334320,
+      "num": 262204,
+      "word": "二手玫瑰 整点邪的",
+      "onboard_time": 1715486058,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332648,
       "num": 304197,
       "word": "她的小梨涡",
@@ -427,12 +467,28 @@
       "category": "自然"
     },
     {
+      "raw_hot": 315495,
+      "num": 255555,
+      "word": "金莎李菲儿0片约",
+      "onboard_time": 1715485818,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311900,
       "num": 311900,
       "word": "现在的年轻人为什么不穿皮鞋",
       "onboard_time": 1715447536,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 297763,
+      "num": 297763,
+      "word": "江西女子因琐事刺死男友被刑拘",
+      "onboard_time": 1715485757,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297482,
@@ -459,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271950,
-      "num": 256936,
-      "word": "华语乐坛真没人能救救那英了吗",
-      "onboard_time": 1715483838,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270358,
       "num": 270358,
       "word": "汶川地震16年了",
@@ -491,12 +539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248686,
+      "num": 221939,
+      "word": "陈楚生曾救场歌手",
+      "onboard_time": 1715486358,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248163,
       "num": 248163,
       "word": "一个月腰围腿围各减10厘米",
       "onboard_time": 1715472496,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 242686,
+      "num": 242686,
+      "word": "众明星发文缅怀汶川地震16周年",
+      "onboard_time": 1715484199,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229076,
@@ -523,6 +587,14 @@
       "category": "音乐,自然"
     },
     {
+      "raw_hot": 215632,
+      "num": 609253,
+      "word": "护士喊话妈妈医院不是我家开的",
+      "onboard_time": 1715483297,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211283,
       "num": 184278,
       "word": "刘谦回应春晚小尼牌没对上",
@@ -531,27 +603,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208287,
-      "num": 208287,
-      "word": "范丞丞iG发文再坚持一下吧",
-      "onboard_time": 1715484917,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208190,
       "num": 679076,
       "word": "中国的龙是loong",
       "onboard_time": 1715449754,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204675,
-      "num": 204675,
-      "word": "众明星发文缅怀汶川地震16周年",
-      "onboard_time": 1715484199,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -577,6 +633,14 @@
       "onboard_time": 1715439982,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196784,
+      "num": 196784,
+      "word": "华语乐坛",
+      "onboard_time": 1715487078,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 196612,
@@ -707,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172758,
+      "num": 172758,
+      "word": "汶川地震钢腿女孩悼念朋友",
+      "onboard_time": 1715485277,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171645,
       "num": 171645,
       "word": "邓紫棋直播",
@@ -721,14 +793,6 @@
       "onboard_time": 1715444598,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169057,
-      "num": 609253,
-      "word": "护士喊话妈妈医院不是我家开的",
-      "onboard_time": 1715483297,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166455,
@@ -787,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157764,
+      "num": 157764,
+      "word": "美依礼芽跳了fate",
+      "onboard_time": 1715485999,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 156939,
       "num": 156939,
       "word": "16年后的汶川生生不息",
@@ -833,6 +905,14 @@
       "onboard_time": 1715422758,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141822,
+      "num": 141822,
+      "word": "一顿火锅 对行业的警示作用",
+      "onboard_time": 1715486958,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 139416,
@@ -947,6 +1027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124348,
+      "num": 124348,
+      "word": "姿态朱开谈老头杯变味",
+      "onboard_time": 1715485818,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122902,
       "num": 122902,
       "word": "赵雅芝 我下次换平底鞋再跳",
@@ -1027,6 +1115,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 109657,
+      "num": 109657,
+      "word": "以防你没见过酒醉的蝴蝶",
+      "onboard_time": 1715487019,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 108291,
+      "num": 108291,
+      "word": "有县城男方娶妻成本或上百万元",
+      "onboard_time": 1715487558,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107807,
       "num": 107807,
       "word": "亚当兰伯特月底有演出",
@@ -1057,6 +1161,14 @@
       "onboard_time": 1715475317,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100428,
+      "num": 100428,
+      "word": "属于妈妈的凡尔赛",
+      "onboard_time": 1715485217,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 98542,
@@ -1147,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68471,
+      "num": 948108,
+      "word": "世上最动听的两个字是妈妈",
+      "onboard_time": 1715484678,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63524,
       "num": 63524,
       "word": "王楚钦笑得肆意爽朗",
@@ -1217,14 +1337,6 @@
       "onboard_time": 1715468594,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33781,
-      "num": 948108,
-      "word": "世上最动听的两个字是妈妈",
-      "onboard_time": 1715484678,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28497,

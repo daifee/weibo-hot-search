@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715484941724,
+  "endTime": 1715487735941,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1714866374,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1453778,
+      "num": 947854,
+      "word": "曾指控五月天假唱博主再发声",
+      "onboard_time": 1715483599,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 1446993,
@@ -2483,14 +2491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 947854,
-      "num": 947854,
-      "word": "曾指控五月天假唱博主再发声",
-      "onboard_time": 1715483599,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 946692,
       "num": 478787,
       "word": "赵小棠妈妈是先婚后爱",
@@ -3531,6 +3531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 783861,
+      "num": 418143,
+      "word": "范丞丞iG发文再坚持一下吧",
+      "onboard_time": 1715484917,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782397,
       "num": 782397,
       "word": "梅大高速塌方中没有抵达家乡的打工者",
@@ -3763,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752277,
+      "num": 491299,
+      "word": "林俊杰演唱会观众大喊退票",
+      "onboard_time": 1715484139,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 751947,
       "num": 604839,
       "word": "新款iPad价格",
@@ -3928,6 +3944,14 @@
       "word": "侯雯元想了一夜钟楚曦",
       "onboard_time": 1715239579,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 730615,
+      "num": 480294,
+      "word": "王菲和龚琳娜别打麻将啦",
+      "onboard_time": 1715484077,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -4537,6 +4561,14 @@
       "onboard_time": 1714956741,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 670084,
+      "num": 415628,
+      "word": "华语乐坛真没人能救救那英了吗",
+      "onboard_time": 1715483838,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 669815,
@@ -7995,6 +8027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432493,
+      "num": 406788,
+      "word": "这届格莱美要在长沙举办吗",
+      "onboard_time": 1715485638,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432414,
       "num": 432414,
       "word": "李晨纪凌尘一起健身",
@@ -8041,14 +8081,6 @@
       "onboard_time": 1715308516,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 430893,
-      "num": 430893,
-      "word": "王菲和龚琳娜别打麻将啦",
-      "onboard_time": 1715484077,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 430725,
@@ -8659,6 +8691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408732,
+      "num": 408732,
+      "word": "4S店忘贴车衣女子想退掉保时捷",
+      "onboard_time": 1715485517,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408592,
       "num": 408592,
       "word": "正式被确诊为荒野女巫",
@@ -8929,14 +8969,6 @@
       "onboard_time": 1714830800,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 397371,
-      "num": 267372,
-      "word": "林俊杰演唱会观众大喊退票",
-      "onboard_time": 1715484139,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 396830,
@@ -10579,6 +10611,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 334320,
+      "num": 262204,
+      "word": "二手玫瑰 整点邪的",
+      "onboard_time": 1715486058,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334025,
       "num": 334025,
       "word": "王楚钦左手不是枷锁",
@@ -11131,6 +11171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 315495,
+      "num": 255555,
+      "word": "金莎李菲儿0片约",
+      "onboard_time": 1715485818,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315217,
       "num": 315217,
       "word": "张艺凡人长得美画画就算了",
@@ -11633,6 +11681,14 @@
       "onboard_time": 1715069060,
       "rank": 29,
       "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 297763,
+      "num": 297763,
+      "word": "江西女子因琐事刺死男友被刑拘",
+      "onboard_time": 1715485757,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297684,
@@ -12625,14 +12681,6 @@
       "onboard_time": 1715017212,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 271950,
-      "num": 256936,
-      "word": "华语乐坛真没人能救救那英了吗",
-      "onboard_time": 1715483838,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 271901,
@@ -13643,6 +13691,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 248686,
+      "num": 221939,
+      "word": "陈楚生曾救场歌手",
+      "onboard_time": 1715486358,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248434,
       "num": 248434,
       "word": "古灵精探",
@@ -14017,6 +14073,14 @@
       "onboard_time": 1715331318,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242686,
+      "num": 242686,
+      "word": "众明星发文缅怀汶川地震16周年",
+      "onboard_time": 1715484199,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242399,
@@ -15723,6 +15787,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 215632,
+      "num": 609253,
+      "word": "护士喊话妈妈医院不是我家开的",
+      "onboard_time": 1715483297,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215623,
       "num": 215623,
       "word": "清代人把kiss写进诗词",
@@ -16339,14 +16411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 208287,
-      "num": 208287,
-      "word": "范丞丞iG发文再坚持一下吧",
-      "onboard_time": 1715484917,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208234,
       "num": 208234,
       "word": "张镇麟11分",
@@ -16784,14 +16848,6 @@
       "word": "我妻之死作者回应质疑",
       "onboard_time": 1714552158,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204675,
-      "num": 204675,
-      "word": "众明星发文缅怀汶川地震16周年",
-      "onboard_time": 1715484199,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -17873,6 +17929,14 @@
       "onboard_time": 1714702758,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196784,
+      "num": 196784,
+      "word": "华语乐坛",
+      "onboard_time": 1715487078,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 196770,
@@ -21051,6 +21115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172758,
+      "num": 172758,
+      "word": "汶川地震钢腿女孩悼念朋友",
+      "onboard_time": 1715485277,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172753,
       "num": 172753,
       "word": "广州水价听证会1人不认同任一方案",
@@ -21465,14 +21537,6 @@
       "onboard_time": 1714773013,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 169057,
-      "num": 609253,
-      "word": "护士喊话妈妈医院不是我家开的",
-      "onboard_time": 1715483297,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168989,
@@ -22881,6 +22945,14 @@
       "onboard_time": 1715386100,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157764,
+      "num": 157764,
+      "word": "美依礼芽跳了fate",
+      "onboard_time": 1715485999,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 157643,
@@ -25017,6 +25089,14 @@
       "onboard_time": 1714524258,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141822,
+      "num": 141822,
+      "word": "一顿火锅 对行业的警示作用",
+      "onboard_time": 1715486958,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 141750,
@@ -27267,6 +27347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124348,
+      "num": 124348,
+      "word": "姿态朱开谈老头杯变味",
+      "onboard_time": 1715485818,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124323,
       "num": 124323,
       "word": "尤伯杯",
@@ -28915,6 +29003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109657,
+      "num": 109657,
+      "word": "以防你没见过酒醉的蝴蝶",
+      "onboard_time": 1715487019,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 109523,
       "num": 109523,
       "word": "丁程鑫空降了时代少年团超话",
@@ -29033,6 +29129,14 @@
       "onboard_time": 1715165300,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108291,
+      "num": 108291,
+      "word": "有县城男方娶妻成本或上百万元",
+      "onboard_time": 1715487558,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108180,
@@ -29593,6 +29697,14 @@
       "onboard_time": 1714604953,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100428,
+      "num": 100428,
+      "word": "属于妈妈的凡尔赛",
+      "onboard_time": 1715485217,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 100419,
@@ -30739,6 +30851,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 68471,
+      "num": 948108,
+      "word": "世上最动听的两个字是妈妈",
+      "onboard_time": 1715484678,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68401,
       "num": 205499,
       "word": "朵莉亚音乐节前排蹦迪",
@@ -31777,14 +31897,6 @@
       "onboard_time": 1714758973,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 33781,
-      "num": 948108,
-      "word": "世上最动听的两个字是妈妈",
-      "onboard_time": 1715484678,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32411,
