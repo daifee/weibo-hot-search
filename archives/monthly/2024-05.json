@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715553254934,
+  "endTime": 1715555918848,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -4785,6 +4785,14 @@
       "onboard_time": 1714545559,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 682781,
+      "num": 272080,
+      "word": "女子收滴滴7年前7分钟路程天价账单",
+      "onboard_time": 1715550191,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 682344,
@@ -10867,6 +10875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350643,
+      "num": 350643,
+      "word": "孙思邈留下的速睡方",
+      "onboard_time": 1715528660,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 350447,
       "num": 350447,
       "word": "孟子义cue黄子韬是初代男团",
@@ -11739,6 +11755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320369,
+      "num": 320369,
+      "word": "南通女孩妈妈想找事故现场救援者",
+      "onboard_time": 1715532676,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320320,
       "num": 320320,
       "word": "优酷给足了成毅排面",
@@ -12097,6 +12121,14 @@
       "onboard_time": 1715336298,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309293,
+      "num": 309293,
+      "word": "中国南水北调原副总经济师樊新中被查",
+      "onboard_time": 1715551572,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308776,
@@ -14147,14 +14179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258719,
-      "num": 74742,
-      "word": "女子收滴滴7年前7分钟路程天价账单",
-      "onboard_time": 1715550191,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258386,
       "num": 182598,
       "word": "迪丽热巴给剧组工作人员发五一红包",
@@ -15233,14 +15257,6 @@
       "onboard_time": 1715182579,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 238125,
-      "num": 238125,
-      "word": "孙思邈留下的速睡方",
-      "onboard_time": 1715528660,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 238066,
@@ -17185,6 +17201,14 @@
       "onboard_time": 1714828639,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211042,
+      "num": 211042,
+      "word": "惠英红 我是被偏爱的",
+      "onboard_time": 1715537292,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210991,
@@ -23753,14 +23777,6 @@
       "onboard_time": 1714989859,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161770,
-      "num": 245185,
-      "word": "南通女孩妈妈想找事故现场救援者",
-      "onboard_time": 1715532676,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161680,
@@ -31731,14 +31747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 93748,
-      "num": 67923,
-      "word": "惠英红 我是被偏爱的",
-      "onboard_time": 1715537292,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 93628,
       "num": 93628,
       "word": "TikTok告美联邦政府",
@@ -32011,6 +32019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86352,
+      "num": 86352,
+      "word": "李承铉被错认为女士",
+      "onboard_time": 1715554453,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86307,
       "num": 86307,
       "word": "济南偶遇吴倩",
@@ -32187,8 +32203,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80135,
+      "num": 80135,
+      "word": "曼联0比1阿森纳",
+      "onboard_time": 1715555655,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80065,
-      "num": 61731,
+      "num": 76089,
       "word": "夜尿次数变多警惕肾脏疾病",
       "onboard_time": 1715543230,
       "rank": 24,
@@ -32345,14 +32369,6 @@
       "onboard_time": 1715491037,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76425,
-      "num": 76425,
-      "word": "中国南水北调原副总经济师樊新中被查",
-      "onboard_time": 1715551572,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76240,
@@ -32633,6 +32649,14 @@
       "onboard_time": 1715457551,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 69020,
+      "num": 69020,
+      "word": "女子挂P挡开不动车致堵车被罚还不服",
+      "onboard_time": 1715555294,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68952,
@@ -33211,6 +33235,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 52074,
+      "num": 52074,
+      "word": "普京任命绍伊古为俄安全会议秘书",
+      "onboard_time": 1715555835,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 52057,
       "num": 52057,
       "word": "老龚你说句话啊",
@@ -33721,6 +33753,14 @@
       "onboard_time": 1714758973,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 33648,
+      "num": 301691,
+      "word": "妈妈带罕见病儿子走过100个城市",
+      "onboard_time": 1715555415,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32411,
