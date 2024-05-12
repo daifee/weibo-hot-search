@@ -1,0 +1,410 @@
+{
+  "runTime": 1715518040639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8641096,
+        "num": 8641096,
+        "word": "韩红请战歌手",
+        "onboard_time": 1715507299,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652998,
+        "num": 652998,
+        "word": "火烧云",
+        "onboard_time": 1715512284,
+        "rank": 1,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 62064,
+        "num": 569196,
+        "word": "我国成功发射试验二十三号卫星",
+        "onboard_time": 1715507838,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6376771,
+        "num": 534014,
+        "word": "歌手官微回应",
+        "onboard_time": 1715515944,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729025,
+        "num": 523162,
+        "word": "男孩街头猛扯母亲头发并施暴",
+        "onboard_time": 1715514442,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497183,
+        "num": 497183,
+        "word": "长期不刷牙可能引发败血症",
+        "onboard_time": 1715515342,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1444628,
+        "num": 441584,
+        "word": "纪敏佳自荐歌手",
+        "onboard_time": 1715511382,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1313360,
+        "num": 440654,
+        "word": "英子 你的红来了",
+        "onboard_time": 1715509522,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369708,
+        "num": 369708,
+        "word": "明星最爱干的副业集体倒闭",
+        "onboard_time": 1715502376,
+        "rank": 8,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 126567,
+        "num": 366650,
+        "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
+        "onboard_time": 1715506217,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974094,
+        "num": 358513,
+        "word": "歌手有难八方来援",
+        "onboard_time": 1715514142,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 958407,
+        "num": 354098,
+        "word": "江映蓉自荐歌手",
+        "onboard_time": 1715516183,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649214,
+        "num": 351331,
+        "word": "断眉和A妹IP在湖南",
+        "onboard_time": 1715508921,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595928,
+        "num": 342915,
+        "word": "五旬老太力挺五旬老太",
+        "onboard_time": 1715511443,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341591,
+        "num": 341591,
+        "word": "全球首例猪肾移植患者死亡",
+        "onboard_time": 1715517023,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333299,
+        "num": 333299,
+        "word": "椰树直播间模特捂严实了",
+        "onboard_time": 1715510782,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304083,
+        "num": 304083,
+        "word": "滴滴客服回应7分钟路程收1414元",
+        "onboard_time": 1715513121,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235721,
+        "num": 235721,
+        "word": "鬼灭之刃第四季开播",
+        "onboard_time": 1715512522,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 222423,
+        "num": 222423,
+        "word": "吴艳妮回应夺冠",
+        "onboard_time": 1715511203,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209909,
+        "num": 209909,
+        "word": "这种水果睡不着觉可以吃",
+        "onboard_time": 1715506098,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 541031,
+        "num": 209833,
+        "word": "歌手",
+        "onboard_time": 1715510063,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516776,
+        "num": 209156,
+        "word": "二手玫瑰超绝精神状态",
+        "onboard_time": 1715507539,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493061,
+        "num": 208624,
+        "word": "和庆余年2对打的是歌手2024吧",
+        "onboard_time": 1715512343,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474889,
+        "num": 208536,
+        "word": "女孩攒够10万后裸辞用利息生活",
+        "onboard_time": 1715516602,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317921,
+        "num": 207785,
+        "word": "歌手大点兵",
+        "onboard_time": 1715517200,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302559,
+        "num": 207669,
+        "word": "银行女职员用亲戚1400万理财款打赏男主播",
+        "onboard_time": 1715513481,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293692,
+        "num": 207164,
+        "word": "王源什么时候毕业",
+        "onboard_time": 1715513481,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274950,
+        "num": 206709,
+        "word": "网友cos迪丽热巴",
+        "onboard_time": 1715513182,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481648,
+        "num": 206105,
+        "word": "亚当 歌手",
+        "onboard_time": 1715516721,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242049,
+        "num": 205802,
+        "word": "婆婆赠300万房产离婚时儿媳分60万",
+        "onboard_time": 1715500758,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265573,
+        "num": 205210,
+        "word": "能不能让李佳薇来",
+        "onboard_time": 1715515401,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258299,
+        "num": 204812,
+        "word": "刘诗诗业内口碑",
+        "onboard_time": 1715517502,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224364,
+        "num": 204617,
+        "word": "庆余年",
+        "onboard_time": 1715515221,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223389,
+        "num": 203914,
+        "word": "1毫克就能致死的毒物可能在你厨房里",
+        "onboard_time": 1715503699,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203766,
+        "num": 203766,
+        "word": "子宫受压或改变胎儿面貌",
+        "onboard_time": 1715512042,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 221372,
+        "num": 200462,
+        "word": "腾格尔方声明",
+        "onboard_time": 1715494099,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210308,
+        "num": 200387,
+        "word": "孙楠还会远吗",
+        "onboard_time": 1715516481,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195123,
+        "num": 195123,
+        "word": "歌手在邀请了",
+        "onboard_time": 1715517981,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160028,
+        "num": 160028,
+        "word": "小龙虾均价接近腰斩",
+        "onboard_time": 1715517441,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159059,
+        "num": 159059,
+        "word": "母亲说吴艳妮夺冠是最好的母亲节礼物",
+        "onboard_time": 1715516541,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176327,
+        "num": 157697,
+        "word": "我的阿勒泰 爱会从眼里流出来",
+        "onboard_time": 1715513062,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174076,
+        "num": 157062,
+        "word": "王琳住院了",
+        "onboard_time": 1715506398,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149474,
+        "num": 156458,
+        "word": "词达人",
+        "onboard_time": 1715516721,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156202,
+        "num": 156202,
+        "word": "乘客在飞机上拍到紫色极光",
+        "onboard_time": 1715513423,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153368,
+        "num": 153368,
+        "word": "林俊杰演唱会观众大喊退票",
+        "onboard_time": 1715484139,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143590,
+        "num": 143590,
+        "word": "KPL",
+        "onboard_time": 1715517141,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142406,
+        "num": 142406,
+        "word": "萨顶顶快去歌手顶一顶",
+        "onboard_time": 1715509584,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141205,
+        "num": 141205,
+        "word": "狼队对战KSG",
+        "onboard_time": 1715514382,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130708,
+        "num": 130708,
+        "word": "洋葱是可以吃的心脏支架",
+        "onboard_time": 1715512042,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123068,
+        "num": 123068,
+        "word": "犬夜叉 杀生丸美貌遗传",
+        "onboard_time": 1715506639,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何让学校思政课走新更走心#"
+    }
+  }
+}
