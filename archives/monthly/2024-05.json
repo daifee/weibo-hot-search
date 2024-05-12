@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715518040639,
+  "endTime": 1715519908848,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -905,6 +905,14 @@
       "onboard_time": 1714534398,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1541260,
+      "num": 363235,
+      "word": "歌手在邀请了",
+      "onboard_time": 1715517981,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 1540061,
@@ -2523,6 +2531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 979085,
+      "num": 340324,
+      "word": "王晰报名",
+      "onboard_time": 1715518461,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 972744,
       "num": 972744,
       "word": "河南大学通报大礼堂起火",
@@ -3595,6 +3611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 809657,
+      "num": 497183,
+      "word": "长期不刷牙可能引发败血症",
+      "onboard_time": 1715515342,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 808806,
       "num": 808806,
       "word": "暖阳 没分手",
@@ -3896,6 +3920,14 @@
       "word": "南通大巴与渣土车碰撞致1死",
       "onboard_time": 1715440941,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 765881,
+      "num": 243117,
+      "word": "女孩攒够10万后裸辞用利息生活",
+      "onboard_time": 1715516602,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -5956,7 +5988,7 @@
     },
     {
       "raw_hot": 581700,
-      "num": 208624,
+      "num": 239580,
       "word": "和庆余年2对打的是歌手2024吧",
       "onboard_time": 1715512343,
       "rank": 41,
@@ -7131,6 +7163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501309,
+      "num": 247431,
+      "word": "歌手大点兵",
+      "onboard_time": 1715517200,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500194,
       "num": 303365,
       "word": "动画还原云南镇雄医院持刀伤人事件",
@@ -7177,14 +7217,6 @@
       "onboard_time": 1715496258,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 497183,
-      "num": 497183,
-      "word": "长期不刷牙可能引发败血症",
-      "onboard_time": 1715515342,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 496617,
@@ -7388,7 +7420,7 @@
     },
     {
       "raw_hot": 481648,
-      "num": 206105,
+      "num": 238369,
       "word": "亚当 歌手",
       "onboard_time": 1715516721,
       "rank": 27,
@@ -7577,14 +7609,6 @@
       "onboard_time": 1714979659,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 474889,
-      "num": 208536,
-      "word": "女孩攒够10万后裸辞用利息生活",
-      "onboard_time": 1715516602,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 474604,
@@ -8193,6 +8217,14 @@
       "onboard_time": 1714627758,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445307,
+      "num": 341591,
+      "word": "全球首例猪肾移植患者死亡",
+      "onboard_time": 1715517023,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445232,
@@ -10524,7 +10556,7 @@
     },
     {
       "raw_hot": 355393,
-      "num": 207164,
+      "num": 233006,
       "word": "王源什么时候毕业",
       "onboard_time": 1715513481,
       "rank": 29,
@@ -10963,14 +10995,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 341591,
-      "num": 341591,
-      "word": "全球首例猪肾移植患者死亡",
-      "onboard_time": 1715517023,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341479,
       "num": 341479,
       "word": "iPhone上或安装ChatGPT",
@@ -11348,7 +11372,7 @@
     },
     {
       "raw_hot": 329301,
-      "num": 207669,
+      "num": 211209,
       "word": "银行女职员用亲戚1400万理财款打赏男主播",
       "onboard_time": 1715513481,
       "rank": 41,
@@ -11633,14 +11657,6 @@
       "onboard_time": 1714743141,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 317921,
-      "num": 207785,
-      "word": "歌手大点兵",
-      "onboard_time": 1715517200,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 317703,
@@ -12244,7 +12260,7 @@
     },
     {
       "raw_hot": 298838,
-      "num": 206709,
+      "num": 209072,
       "word": "网友cos迪丽热巴",
       "onboard_time": 1715513182,
       "rank": 30,
@@ -13956,7 +13972,7 @@
     },
     {
       "raw_hot": 258299,
-      "num": 204812,
+      "num": 224301,
       "word": "刘诗诗业内口碑",
       "onboard_time": 1715517502,
       "rank": 31,
@@ -15116,7 +15132,7 @@
     },
     {
       "raw_hot": 235721,
-      "num": 235721,
+      "num": 292803,
       "word": "鬼灭之刃第四季开播",
       "onboard_time": 1715512522,
       "rank": 19,
@@ -15473,6 +15489,14 @@
       "onboard_time": 1714828161,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230116,
+      "num": 230116,
+      "word": "工作后才尝到经济独立的甜头",
+      "onboard_time": 1715518401,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 230069,
@@ -16057,6 +16081,14 @@
       "onboard_time": 1714988419,
       "rank": 31,
       "category": "科学科普,自然"
+    },
+    {
+      "raw_hot": 221406,
+      "num": 221406,
+      "word": "内娱歌坛活了",
+      "onboard_time": 1715519541,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 221261,
@@ -17851,6 +17883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202768,
+      "num": 202768,
+      "word": "严浩翔被婴语为难住了",
+      "onboard_time": 1715519301,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202742,
       "num": 202742,
       "word": "TTG晋级败者组第三轮",
@@ -17905,6 +17945,14 @@
       "onboard_time": 1715084178,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202102,
+      "num": 202102,
+      "word": "左航晒妈妈照片",
+      "onboard_time": 1715519420,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 201870,
@@ -18955,14 +19003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195123,
-      "num": 195123,
-      "word": "歌手在邀请了",
-      "onboard_time": 1715517981,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195094,
       "num": 209949,
       "word": "汤杯石宇奇横扫金廷",
@@ -19689,6 +19729,14 @@
       "onboard_time": 1714778173,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190272,
+      "num": 190272,
+      "word": "婚礼上的伴娘可能全是租的",
+      "onboard_time": 1715519181,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190216,
@@ -21883,6 +21931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172909,
+      "num": 245314,
+      "word": "母亲说吴艳妮夺冠是最好的母亲节礼物",
+      "onboard_time": 1715516541,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172892,
       "num": 172892,
       "word": "MetGala最惊艳的一身",
@@ -22747,6 +22803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165892,
+      "num": 165892,
+      "word": "马嘉祺做菜vlog",
+      "onboard_time": 1715519060,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165835,
       "num": 165835,
       "word": "hala madrid",
@@ -23347,6 +23411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161831,
+      "num": 161831,
+      "word": "小龙虾均价接近腰斩",
+      "onboard_time": 1715517441,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161807,
       "num": 161807,
       "word": "老头杯选人",
@@ -23571,14 +23643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160028,
-      "num": 160028,
-      "word": "小龙虾均价接近腰斩",
-      "onboard_time": 1715517441,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 159936,
       "num": 237159,
       "word": "全国团员共7416.7万名",
@@ -23665,14 +23729,6 @@
       "onboard_time": 1715217859,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159059,
-      "num": 159059,
-      "word": "母亲说吴艳妮夺冠是最好的母亲节礼物",
-      "onboard_time": 1715516541,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 158990,
@@ -25131,6 +25187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148890,
+      "num": 161733,
+      "word": "过度防晒要小心骨质疏松",
+      "onboard_time": 1715518280,
+      "rank": 45,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 148826,
       "num": 148826,
       "word": "三星调侃iPhone闹钟不响",
@@ -25209,6 +25273,14 @@
       "onboard_time": 1714627159,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148014,
+      "num": 326831,
+      "word": "一朵最娇艳的花送给最爱的母亲",
+      "onboard_time": 1715518580,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148005,
@@ -26153,6 +26225,14 @@
       "onboard_time": 1715179942,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141406,
+      "num": 161479,
+      "word": "也就德国人会把花菜整颗煮了",
+      "onboard_time": 1715518161,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 141351,
@@ -28115,6 +28195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126580,
+      "num": 161005,
+      "word": "犯困可能是缺铁了",
+      "onboard_time": 1715519001,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126572,
       "num": 126572,
       "word": "TWICE人鱼公主",
@@ -28241,6 +28329,14 @@
       "onboard_time": 1715422158,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 125687,
+      "num": 160750,
+      "word": "妖刀后羿百步穿杨",
+      "onboard_time": 1715519841,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 125661,

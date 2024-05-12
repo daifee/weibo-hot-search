@@ -1,0 +1,410 @@
+{
+  "runTime": 1715519908848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7841760,
+        "num": 7841760,
+        "word": "韩红请战歌手",
+        "onboard_time": 1715507299,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469048,
+        "num": 469048,
+        "word": "火烧云",
+        "onboard_time": 1715512284,
+        "rank": 1,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 67161,
+        "num": 453723,
+        "word": "我国成功发射试验二十三号卫星",
+        "onboard_time": 1715507838,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4636193,
+        "num": 424922,
+        "word": "歌手官微回应",
+        "onboard_time": 1715515944,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 809657,
+        "num": 406910,
+        "word": "长期不刷牙可能引发败血症",
+        "onboard_time": 1715515342,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 644052,
+        "num": 383198,
+        "word": "男孩街头猛扯母亲头发并施暴",
+        "onboard_time": 1715514442,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1541260,
+        "num": 363235,
+        "word": "歌手在邀请了",
+        "onboard_time": 1715517981,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 979085,
+        "num": 340324,
+        "word": "王晰报名",
+        "onboard_time": 1715518461,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331999,
+        "num": 331999,
+        "word": "椰树直播间模特捂严实了",
+        "onboard_time": 1715510782,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148014,
+        "num": 326831,
+        "word": "一朵最娇艳的花送给最爱的母亲",
+        "onboard_time": 1715518580,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178557,
+        "num": 321747,
+        "word": "英子 你的红来了",
+        "onboard_time": 1715509522,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491950,
+        "num": 306593,
+        "word": "断眉和A妹IP在湖南",
+        "onboard_time": 1715508921,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445307,
+        "num": 296698,
+        "word": "全球首例猪肾移植患者死亡",
+        "onboard_time": 1715517023,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190795,
+        "num": 292803,
+        "word": "鬼灭之刃第四季开播",
+        "onboard_time": 1715512522,
+        "rank": 13,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 886301,
+        "num": 280122,
+        "word": "江映蓉自荐歌手",
+        "onboard_time": 1715516183,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278547,
+        "num": 278547,
+        "word": "滴滴客服回应7分钟路程收1414元",
+        "onboard_time": 1715513121,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247663,
+        "num": 247663,
+        "word": "这种水果睡不着觉可以吃",
+        "onboard_time": 1715506098,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 501309,
+        "num": 247431,
+        "word": "歌手大点兵",
+        "onboard_time": 1715517200,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181810,
+        "num": 246233,
+        "word": "吴艳妮回应夺冠",
+        "onboard_time": 1715511203,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172909,
+        "num": 245314,
+        "word": "母亲说吴艳妮夺冠是最好的母亲节礼物",
+        "onboard_time": 1715516541,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 765881,
+        "num": 243117,
+        "word": "女孩攒够10万后裸辞用利息生活",
+        "onboard_time": 1715516602,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484342,
+        "num": 242262,
+        "word": "纪敏佳自荐歌手",
+        "onboard_time": 1715511382,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465862,
+        "num": 240938,
+        "word": "二手玫瑰超绝精神状态",
+        "onboard_time": 1715507539,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398929,
+        "num": 239580,
+        "word": "和庆余年2对打的是歌手2024吧",
+        "onboard_time": 1715512343,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462058,
+        "num": 238369,
+        "word": "亚当 歌手",
+        "onboard_time": 1715516721,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238276,
+        "num": 238276,
+        "word": "婆婆赠300万房产离婚时儿媳分60万",
+        "onboard_time": 1715500758,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235628,
+        "num": 235628,
+        "word": "明星最爱干的副业集体倒闭",
+        "onboard_time": 1715502376,
+        "rank": 26,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 233006,
+        "num": 233006,
+        "word": "王源什么时候毕业",
+        "onboard_time": 1715513481,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230116,
+        "num": 230116,
+        "word": "工作后才尝到经济独立的甜头",
+        "onboard_time": 1715518401,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224301,
+        "num": 224301,
+        "word": "刘诗诗业内口碑",
+        "onboard_time": 1715517502,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221406,
+        "num": 221406,
+        "word": "内娱歌坛活了",
+        "onboard_time": 1715519541,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215425,
+        "num": 215425,
+        "word": "1毫克就能致死的毒物可能在你厨房里",
+        "onboard_time": 1715503699,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211209,
+        "num": 211209,
+        "word": "银行女职员用亲戚1400万理财款打赏男主播",
+        "onboard_time": 1715513481,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209072,
+        "num": 209072,
+        "word": "网友cos迪丽热巴",
+        "onboard_time": 1715513182,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438905,
+        "num": 208537,
+        "word": "五旬老太力挺五旬老太",
+        "onboard_time": 1715511443,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202768,
+        "num": 202768,
+        "word": "严浩翔被婴语为难住了",
+        "onboard_time": 1715519301,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202102,
+        "num": 202102,
+        "word": "左航晒妈妈照片",
+        "onboard_time": 1715519420,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190272,
+        "num": 190272,
+        "word": "婚礼上的伴娘可能全是租的",
+        "onboard_time": 1715519181,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184966,
+        "num": 184966,
+        "word": "能不能让李佳薇来",
+        "onboard_time": 1715515401,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180795,
+        "num": 180795,
+        "word": "王琳住院了",
+        "onboard_time": 1715506398,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180629,
+        "num": 180629,
+        "word": "庆余年",
+        "onboard_time": 1715515221,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165892,
+        "num": 165892,
+        "word": "马嘉祺做菜vlog",
+        "onboard_time": 1715519060,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163524,
+        "num": 163524,
+        "word": "子宫受压或改变胎儿面貌",
+        "onboard_time": 1715512042,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 448708,
+        "num": 163227,
+        "word": "歌手",
+        "onboard_time": 1715510063,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161831,
+        "num": 161831,
+        "word": "小龙虾均价接近腰斩",
+        "onboard_time": 1715517441,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148890,
+        "num": 161733,
+        "word": "过度防晒要小心骨质疏松",
+        "onboard_time": 1715518280,
+        "rank": 45,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 141406,
+        "num": 161479,
+        "word": "也就德国人会把花菜整颗煮了",
+        "onboard_time": 1715518161,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137464,
+        "num": 161249,
+        "word": "乘客在飞机上拍到紫色极光",
+        "onboard_time": 1715513423,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126580,
+        "num": 161005,
+        "word": "犯困可能是缺铁了",
+        "onboard_time": 1715519001,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125687,
+        "num": 160750,
+        "word": "妖刀后羿百步穿杨",
+        "onboard_time": 1715519841,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何让学校思政课走新更走心#"
+    }
+  }
+}
