@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715527110112,
+  "endTime": 1715528071986,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -107,6 +107,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1527290,
+      "num": 862376,
+      "word": "杨丞琳在家罚唱",
+      "onboard_time": 1715524463,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1453778,
       "num": 947854,
       "word": "曾指控五月天假唱博主再发声",
@@ -131,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1366290,
-      "num": 601024,
-      "word": "杨丞琳在家罚唱",
-      "onboard_time": 1715524463,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1344898,
       "num": 671248,
       "word": "韩红问都在找我是吗",
@@ -153,6 +153,14 @@
       "onboard_time": 1715507539,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1282421,
+      "num": 589133,
+      "word": "妇科检查的鸭嘴钳能不能对女性更友好",
+      "onboard_time": 1715525122,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1265491,
@@ -249,14 +257,6 @@
       "onboard_time": 1715480418,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1043639,
-      "num": 589133,
-      "word": "妇科检查的鸭嘴钳能不能对女性更友好",
-      "onboard_time": 1715525122,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1041845,
@@ -443,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 820905,
+      "num": 820905,
+      "word": "我的阿勒泰作者评价华晨宇",
+      "onboard_time": 1715523503,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 809657,
       "num": 497183,
       "word": "长期不刷牙可能引发败血症",
@@ -481,14 +489,6 @@
       "onboard_time": 1715489239,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 776110,
-      "num": 776110,
-      "word": "我的阿勒泰作者评价华晨宇",
-      "onboard_time": 1715523503,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 770678,
@@ -627,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 619734,
+      "num": 349887,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1715523803,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 617156,
       "num": 394417,
       "word": "欧阳娜娜伯克利毕业",
@@ -641,14 +649,6 @@
       "onboard_time": 1715509584,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 607955,
-      "num": 348839,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1715523803,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 600267,
@@ -704,6 +704,14 @@
       "word": "BLG战胜T1",
       "onboard_time": 1715507299,
       "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 562761,
+      "num": 562761,
+      "word": "老头杯",
+      "onboard_time": 1715526141,
+      "rank": 15,
       "category": "电竞"
     },
     {
@@ -899,6 +907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 428694,
+      "num": 428694,
+      "word": "黄霄云实力",
+      "onboard_time": 1715526501,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423691,
       "num": 423691,
       "word": "晚霞",
@@ -1011,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 375719,
-      "num": 375719,
-      "word": "老头杯",
-      "onboard_time": 1715526141,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 375277,
       "num": 317746,
       "word": "俄军进攻乌克兰第二大城市",
@@ -1067,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356901,
+      "num": 356901,
+      "word": "鬼灭之刃",
+      "onboard_time": 1715524823,
+      "rank": 18,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 356635,
       "num": 356635,
       "word": "陈楚生唱了压箱底的歌",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1715513121,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350573,
-      "num": 350573,
-      "word": "鬼灭之刃",
-      "onboard_time": 1715524823,
-      "rank": 18,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 347900,
@@ -1283,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280324,
+      "num": 280324,
+      "word": "丁晟 欣慰外国观众能看懂",
+      "onboard_time": 1715526981,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 279345,
       "num": 136213,
       "word": "那英是天生爆梗人吧",
@@ -1291,12 +1307,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 276899,
-      "num": 276899,
-      "word": "黄霄云实力",
-      "onboard_time": 1715526501,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 279284,
+      "num": 331195,
+      "word": "白桃星座",
+      "onboard_time": 1715527162,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 275017,
@@ -1507,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224826,
+      "num": 224826,
+      "word": "吃得少但不容易饿的方法",
+      "onboard_time": 1715525242,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 224364,
       "num": 205035,
       "word": "庆余年",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1715472257,
       "rank": 25,
       "category": "音乐,自然"
+    },
+    {
+      "raw_hot": 217864,
+      "num": 217864,
+      "word": "阿兰助攻",
+      "onboard_time": 1715527520,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 214159,
@@ -1643,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201055,
-      "num": 201055,
-      "word": "吃得少但不容易饿的方法",
-      "onboard_time": 1715525242,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 198732,
       "num": 198732,
       "word": "陈梦女单冠军",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1715430259,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195496,
+      "num": 195496,
+      "word": "虎牙策划",
+      "onboard_time": 1715527103,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 193708,
@@ -1787,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188927,
+      "num": 188927,
+      "word": "怪不得老祖宗爱出门看花灯",
+      "onboard_time": 1715524762,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 186961,
       "num": 186961,
       "word": "狼队进决赛",
@@ -1825,14 +1865,6 @@
       "onboard_time": 1715480897,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180630,
-      "num": 180630,
-      "word": "怪不得老祖宗爱出门看花灯",
-      "onboard_time": 1715524762,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 178903,
@@ -2195,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150518,
+      "num": 150518,
+      "word": "曼联vs阿森纳首发",
+      "onboard_time": 1715527341,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148890,
       "num": 161733,
       "word": "过度防晒要小心骨质疏松",
@@ -2371,14 +2411,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 137826,
-      "num": 137826,
-      "word": "丁晟 欣慰外国观众能看懂",
-      "onboard_time": 1715526981,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 135976,
       "num": 135976,
       "word": "丁太升问李荣浩不教教杨丞琳吗",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1715480777,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128263,
+      "num": 128263,
+      "word": "常思思 若有需召必来",
+      "onboard_time": 1715528060,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 126845,
