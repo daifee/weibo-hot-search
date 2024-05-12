@@ -1,0 +1,410 @@
+{
+  "runTime": 1715478145413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1724884,
+        "num": 1724884,
+        "word": "母亲节",
+        "onboard_time": 1715444300,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991916,
+        "num": 991916,
+        "word": "歌手踢馆",
+        "onboard_time": 1715438541,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106300,
+        "num": 497069,
+        "word": "匈牙利掀起了中文热",
+        "onboard_time": 1715435481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1452732,
+        "num": 490970,
+        "word": "为什么在死刑执行现场必须停一辆救护车",
+        "onboard_time": 1715470395,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1127099,
+        "num": 487431,
+        "word": "断眉 歌手",
+        "onboard_time": 1715475857,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473093,
+        "num": 473093,
+        "word": "周六上班上出了结婚的感觉",
+        "onboard_time": 1715443760,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 659199,
+        "num": 442934,
+        "word": "林俊杰别扫地了先支援歌手吧",
+        "onboard_time": 1715475678,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 510937,
+        "num": 439650,
+        "word": "五旬守国门三旬吃拉面",
+        "onboard_time": 1715472075,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287030,
+        "num": 287030,
+        "word": "班级成绩第一老师请全班吃烤全羊",
+        "onboard_time": 1715465171,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184185,
+        "num": 286670,
+        "word": "中国的龙是loong",
+        "onboard_time": 1715449754,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841482,
+        "num": 284573,
+        "word": "为什么舅舅的地位这么高",
+        "onboard_time": 1715472496,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 453811,
+        "num": 282880,
+        "word": "南通车祸事故原因初步查明",
+        "onboard_time": 1715440581,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434638,
+        "num": 282507,
+        "word": "央视喊话袁娅维支援歌手",
+        "onboard_time": 1715433740,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406702,
+        "num": 280881,
+        "word": "何洛洛0片约",
+        "onboard_time": 1715472616,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347900,
+        "num": 279747,
+        "word": "张桂源 停训",
+        "onboard_time": 1715472375,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326269,
+        "num": 277452,
+        "word": "俄军进攻乌克兰第二大城市",
+        "onboard_time": 1715471295,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 277306,
+        "num": 277306,
+        "word": "芍药成花店顶流",
+        "onboard_time": 1715477117,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248163,
+        "num": 248163,
+        "word": "一个月腰围腿围各减10厘米",
+        "onboard_time": 1715472496,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 227249,
+        "num": 227249,
+        "word": "高嘉朗 恳请歌手看看我",
+        "onboard_time": 1715440162,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200273,
+        "num": 200273,
+        "word": "南通大巴车与渣土车相撞事故一女孩去世",
+        "onboard_time": 1715432901,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040108,
+        "num": 199610,
+        "word": "停训",
+        "onboard_time": 1715471536,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461718,
+        "num": 198895,
+        "word": "女子越狱40年后落网被抓时已70岁",
+        "onboard_time": 1715445378,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366404,
+        "num": 198310,
+        "word": "看脸就知道五脏好坏",
+        "onboard_time": 1715472676,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297482,
+        "num": 196753,
+        "word": "患癌老人乘机遭拒载次日去世其子否认不孝",
+        "onboard_time": 1715474536,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282803,
+        "num": 196352,
+        "word": "六公主评价杨幂演技",
+        "onboard_time": 1715436621,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202266,
+        "num": 195175,
+        "word": "周杰伦看到粉色极光想写歌了",
+        "onboard_time": 1715472257,
+        "rank": 25,
+        "category": "音乐,自然"
+      },
+      {
+        "raw_hot": 194751,
+        "num": 194751,
+        "word": "现在的年轻人为什么不穿皮鞋",
+        "onboard_time": 1715447536,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189054,
+        "num": 189054,
+        "word": "向佐演变态",
+        "onboard_time": 1715476098,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188643,
+        "num": 188643,
+        "word": "真实的婆婆去儿媳家的状态",
+        "onboard_time": 1715474717,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165720,
+        "num": 184050,
+        "word": "希望妈妈的快乐可以与我无关",
+        "onboard_time": 1715475437,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181571,
+        "num": 181571,
+        "word": "刘谦回应春晚小尼牌没对上",
+        "onboard_time": 1715433559,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172871,
+        "num": 172871,
+        "word": "不敢全开麦无修音不全是艺人的问题",
+        "onboard_time": 1715477057,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163242,
+        "num": 163242,
+        "word": "越吃越瘦的低卡食物",
+        "onboard_time": 1715474357,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155698,
+        "num": 155698,
+        "word": "邓紫棋直播",
+        "onboard_time": 1715475917,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152856,
+        "num": 152856,
+        "word": "张凌赫早期照片",
+        "onboard_time": 1715472857,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142675,
+        "num": 142675,
+        "word": "南通大巴与渣土车碰撞致1死",
+        "onboard_time": 1715440941,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139824,
+        "num": 139824,
+        "word": "男子隐瞒已婚事实与女子交往致女方自杀",
+        "onboard_time": 1715438960,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137828,
+        "num": 137828,
+        "word": "茶百道新品一口入海",
+        "onboard_time": 1715477238,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131913,
+        "num": 131913,
+        "word": "母亲节文案",
+        "onboard_time": 1715474357,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128064,
+        "num": 128064,
+        "word": "吃榴莲 补气血",
+        "onboard_time": 1715434882,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125809,
+        "num": 125809,
+        "word": "乌军称从哈尔科夫部分阵地后撤",
+        "onboard_time": 1715475437,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 120760,
+        "num": 120760,
+        "word": "散步是一件特别有恋爱感的事",
+        "onboard_time": 1715476817,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119664,
+        "num": 119664,
+        "word": "王楚钦有更多的梦想要去实现",
+        "onboard_time": 1715475437,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117295,
+        "num": 117295,
+        "word": "何洁带不动",
+        "onboard_time": 1715450174,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114082,
+        "num": 114082,
+        "word": "CBA",
+        "onboard_time": 1715475137,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106904,
+        "num": 106904,
+        "word": "新生女婴骨折16小时后腿部溃烂",
+        "onboard_time": 1715433861,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104666,
+        "num": 104666,
+        "word": "南通",
+        "onboard_time": 1715469253,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97363,
+        "num": 97363,
+        "word": "试验二十三号卫星成功发射",
+        "onboard_time": 1715474536,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90757,
+        "num": 90757,
+        "word": "冉莹颖三胎儿子姓冉不姓邹",
+        "onboard_time": 1715433981,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90468,
+        "num": 90468,
+        "word": "母亲节快乐",
+        "onboard_time": 1715442139,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席欧洲之行#"
+    }
+  }
+}

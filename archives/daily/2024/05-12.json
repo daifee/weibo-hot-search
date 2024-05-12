@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715476947018,
+  "endTime": 1715478145413,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -35,12 +35,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1127099,
+      "num": 631485,
+      "word": "断眉 歌手",
+      "onboard_time": 1715475857,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1118860,
       "num": 1118860,
       "word": "歌手",
       "onboard_time": 1715423240,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1040108,
+      "num": 199610,
+      "word": "停训",
+      "onboard_time": 1715471536,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 965966,
@@ -51,12 +67,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 957649,
-      "num": 189438,
-      "word": "停训",
-      "onboard_time": 1715471536,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 841482,
+      "num": 343905,
+      "word": "为什么舅舅的地位这么高",
+      "onboard_time": 1715472496,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 821656,
@@ -65,14 +81,6 @@
       "onboard_time": 1715436621,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 810186,
-      "num": 343905,
-      "word": "为什么舅舅的地位这么高",
-      "onboard_time": 1715472496,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 770678,
@@ -107,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 631485,
-      "num": 631485,
-      "word": "断眉 歌手",
-      "onboard_time": 1715475857,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 659199,
+      "num": 469644,
+      "word": "林俊杰别扫地了先支援歌手吧",
+      "onboard_time": 1715475678,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 600267,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510937,
+      "num": 472671,
+      "word": "五旬守国门三旬吃拉面",
+      "onboard_time": 1715472075,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502137,
       "num": 502137,
       "word": "周六上班上出了结婚的感觉",
@@ -179,22 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472671,
-      "num": 472671,
-      "word": "五旬守国门三旬吃拉面",
-      "onboard_time": 1715472075,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 469644,
-      "num": 469644,
-      "word": "林俊杰别扫地了先支援歌手吧",
-      "onboard_time": 1715475678,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 441158,
       "num": 441158,
       "word": "吃榴莲 补气血",
@@ -204,11 +204,19 @@
     },
     {
       "raw_hot": 410010,
-      "num": 188222,
+      "num": 198310,
       "word": "看脸就知道五脏好坏",
       "onboard_time": 1715472676,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 406702,
+      "num": 307009,
+      "word": "何洛洛0片约",
+      "onboard_time": 1715472616,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 375277,
@@ -233,6 +241,14 @@
       "onboard_time": 1715443881,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 347900,
+      "num": 309153,
+      "word": "张桂源 停训",
+      "onboard_time": 1715472375,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 343583,
@@ -299,20 +315,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 309153,
-      "num": 309153,
-      "word": "张桂源 停训",
-      "onboard_time": 1715472375,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 307009,
-      "num": 307009,
-      "word": "何洛洛0片约",
-      "onboard_time": 1715472616,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 297482,
+      "num": 196753,
+      "word": "患癌老人乘机遭拒载次日去世其子否认不孝",
+      "onboard_time": 1715474536,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294865,
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277306,
+      "num": 277306,
+      "word": "芍药成花店顶流",
+      "onboard_time": 1715477117,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270358,
       "num": 270358,
       "word": "汶川地震16年了",
@@ -347,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256560,
-      "num": 186081,
-      "word": "患癌老人乘机遭拒载次日去世其子否认不孝",
-      "onboard_time": 1715474536,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 248163,
+      "num": 248163,
+      "word": "一个月腰围腿围各减10厘米",
+      "onboard_time": 1715472496,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 229076,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 219019,
-      "num": 185348,
+      "num": 195175,
       "word": "周杰伦看到粉色极光想写歌了",
       "onboard_time": 1715472257,
       "rank": 25,
@@ -420,11 +436,19 @@
     },
     {
       "raw_hot": 193018,
-      "num": 182158,
+      "num": 188643,
       "word": "真实的婆婆去儿媳家的状态",
       "onboard_time": 1715474717,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189054,
+      "num": 189054,
+      "word": "向佐演变态",
+      "onboard_time": 1715476098,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 186208,
@@ -435,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180476,
-      "num": 180476,
-      "word": "向佐演变态",
-      "onboard_time": 1715476098,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 184185,
+      "num": 356961,
+      "word": "中国的龙是loong",
+      "onboard_time": 1715449754,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178903,
@@ -449,14 +473,6 @@
       "onboard_time": 1715420239,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178160,
-      "num": 356961,
-      "word": "中国的龙是loong",
-      "onboard_time": 1715449754,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176150,
@@ -475,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172006,
-      "num": 190576,
-      "word": "一个月腰围腿围各减10厘米",
-      "onboard_time": 1715472496,
-      "rank": 19,
-      "category": "运动健身"
+      "raw_hot": 172871,
+      "num": 172871,
+      "word": "不敢全开麦无修音不全是艺人的问题",
+      "onboard_time": 1715477057,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 171645,
@@ -507,12 +523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165720,
+      "num": 184050,
+      "word": "希望妈妈的快乐可以与我无关",
+      "onboard_time": 1715475437,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164350,
       "num": 164350,
       "word": "何洁带不动",
       "onboard_time": 1715450174,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163242,
+      "num": 163242,
+      "word": "越吃越瘦的低卡食物",
+      "onboard_time": 1715474357,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 163230,
@@ -537,14 +569,6 @@
       "onboard_time": 1715424440,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157520,
-      "num": 180785,
-      "word": "希望妈妈的快乐可以与我无关",
-      "onboard_time": 1715475437,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147845,
@@ -595,20 +619,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137828,
+      "num": 137828,
+      "word": "茶百道新品一口入海",
+      "onboard_time": 1715477238,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135976,
       "num": 135976,
       "word": "丁太升问李荣浩不教教杨丞琳吗",
       "onboard_time": 1715444239,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134875,
-      "num": 134875,
-      "word": "越吃越瘦的低卡食物",
-      "onboard_time": 1715474357,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 133842,
@@ -659,6 +683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120760,
+      "num": 120760,
+      "word": "散步是一件特别有恋爱感的事",
+      "onboard_time": 1715476817,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117108,
       "num": 110929,
       "word": "阿朵去歌手吧",
@@ -672,6 +704,14 @@
       "word": "郑钦文晋级",
       "onboard_time": 1715442199,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114082,
+      "num": 114082,
+      "word": "CBA",
+      "onboard_time": 1715475137,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -699,14 +739,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 108007,
-      "num": 108007,
-      "word": "CBA",
-      "onboard_time": 1715475137,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105415,
       "num": 105415,
       "word": "何炅吴昕新综艺",
@@ -721,14 +753,6 @@
       "onboard_time": 1715470576,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103503,
-      "num": 103503,
-      "word": "散步是一件特别有恋爱感的事",
-      "onboard_time": 1715476817,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 102450,
@@ -747,12 +771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97363,
+      "num": 97363,
+      "word": "试验二十三号卫星成功发射",
+      "onboard_time": 1715474536,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97360,
       "num": 94876,
       "word": "那英 当打之年",
       "onboard_time": 1715425219,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90468,
+      "num": 90468,
+      "word": "母亲节快乐",
+      "onboard_time": 1715442139,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83553,
@@ -825,14 +865,6 @@
       "onboard_time": 1715438842,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58443,
-      "num": 58443,
-      "word": "母亲节快乐",
-      "onboard_time": 1715442139,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57917,
