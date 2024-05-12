@@ -1,0 +1,410 @@
+{
+  "runTime": 1715484008115,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1246414,
+        "num": 1246414,
+        "word": "母亲节",
+        "onboard_time": 1715444300,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1194282,
+        "num": 1194282,
+        "word": "512警报",
+        "onboard_time": 1715480119,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80949,
+        "num": 1192493,
+        "word": "匈牙利掀起了中文热",
+        "onboard_time": 1715435481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1191505,
+        "num": 1191505,
+        "word": "断眉 歌手",
+        "onboard_time": 1715475857,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1145053,
+        "num": 1145053,
+        "word": "为什么在死刑执行现场必须停一辆救护车",
+        "onboard_time": 1715470395,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 899775,
+        "num": 899775,
+        "word": "512",
+        "onboard_time": 1715480418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883157,
+        "num": 883157,
+        "word": "张杰那英唱的没那么简单",
+        "onboard_time": 1715478200,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 882829,
+        "num": 882829,
+        "word": "丈夫伪造100万存单被妻子拿去银行",
+        "onboard_time": 1715480657,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654598,
+        "num": 654598,
+        "word": "世界公认最丑的鱼",
+        "onboard_time": 1715481078,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 165130,
+        "num": 581886,
+        "word": "中国的龙是loong",
+        "onboard_time": 1715449754,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574696,
+        "num": 574696,
+        "word": "芍药成花店顶流",
+        "onboard_time": 1715477117,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519703,
+        "num": 519703,
+        "word": "林俊杰别扫地了先支援歌手吧",
+        "onboard_time": 1715475678,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 498391,
+        "num": 498391,
+        "word": "TF家族发致歉声明",
+        "onboard_time": 1715481078,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442375,
+        "num": 442375,
+        "word": "为什么舅舅的地位这么高",
+        "onboard_time": 1715472496,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433741,
+        "num": 433741,
+        "word": "歌手踢馆",
+        "onboard_time": 1715438541,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405451,
+        "num": 405451,
+        "word": "官方回应电费从3毛涨到6毛8",
+        "onboard_time": 1715482039,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402233,
+        "num": 402233,
+        "word": "那英十年前的回旋镖",
+        "onboard_time": 1715481317,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300897,
+        "num": 300897,
+        "word": "南通车祸事故原因初步查明",
+        "onboard_time": 1715440581,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299613,
+        "num": 299613,
+        "word": "五旬守国门三旬吃拉面",
+        "onboard_time": 1715472075,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289582,
+        "num": 289582,
+        "word": "周六上班上出了结婚的感觉",
+        "onboard_time": 1715443760,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333935,
+        "num": 287958,
+        "word": "停训",
+        "onboard_time": 1715471536,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278910,
+        "num": 278910,
+        "word": "汶川大地震16周年",
+        "onboard_time": 1715483418,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257055,
+        "num": 257055,
+        "word": "曾指控五月天假唱博主再发声",
+        "onboard_time": 1715483599,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229740,
+        "num": 229740,
+        "word": "上海文旅局答疑五月天演唱会",
+        "onboard_time": 1715478737,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201660,
+        "num": 201660,
+        "word": "时代峰峻",
+        "onboard_time": 1715481977,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188409,
+        "num": 188409,
+        "word": "孙俪在婚礼上对邓超说上海话",
+        "onboard_time": 1715478558,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181874,
+        "num": 181874,
+        "word": "汶川地震饲养员生死狂奔转移大熊猫",
+        "onboard_time": 1715480897,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178046,
+        "num": 178046,
+        "word": "看脸就知道五脏好坏",
+        "onboard_time": 1715472676,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177109,
+        "num": 177109,
+        "word": "WTT太原",
+        "onboard_time": 1715482698,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150357,
+        "num": 150357,
+        "word": "90斤姐姐轻松硬拉100公斤",
+        "onboard_time": 1715478138,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 146203,
+        "num": 146203,
+        "word": "南通大巴与渣土车碰撞致1死",
+        "onboard_time": 1715440941,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145343,
+        "num": 145343,
+        "word": "张桂源 停训",
+        "onboard_time": 1715472375,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136651,
+        "num": 136651,
+        "word": "江苏一名00后被终生禁驾",
+        "onboard_time": 1715483777,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136444,
+        "num": 136444,
+        "word": "何洛洛0片约",
+        "onboard_time": 1715472616,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132601,
+        "num": 132601,
+        "word": "六公主评价杨幂演技",
+        "onboard_time": 1715436621,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132421,
+        "num": 132421,
+        "word": "16岁志愿军女兵嘴对嘴给伤员喂药",
+        "onboard_time": 1715481078,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129498,
+        "num": 129498,
+        "word": "世界级投资大佬西蒙斯去世",
+        "onboard_time": 1715482877,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128878,
+        "num": 128878,
+        "word": "车企大佬关系都这么好吗",
+        "onboard_time": 1715481618,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125967,
+        "num": 125967,
+        "word": "歌手",
+        "onboard_time": 1715423240,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125668,
+        "num": 125668,
+        "word": "女子越狱40年后落网被抓时已70岁",
+        "onboard_time": 1715445378,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124108,
+        "num": 124108,
+        "word": "护士喊话妈妈医院不是我家开的",
+        "onboard_time": 1715483297,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123071,
+        "num": 123071,
+        "word": "南通",
+        "onboard_time": 1715469253,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120438,
+        "num": 120438,
+        "word": "俄军进攻乌克兰第二大城市",
+        "onboard_time": 1715471295,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118705,
+        "num": 118705,
+        "word": "高嘉朗 恳请歌手看看我",
+        "onboard_time": 1715440162,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110008,
+        "num": 110008,
+        "word": "南通大巴车与渣土车相撞事故一女孩去世",
+        "onboard_time": 1715432901,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108386,
+        "num": 108386,
+        "word": "真实的婆婆去儿媳家的状态",
+        "onboard_time": 1715474717,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107807,
+        "num": 107807,
+        "word": "亚当兰伯特月底有演出",
+        "onboard_time": 1715478317,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103273,
+        "num": 103273,
+        "word": "华语乐坛真没人能救救那英了吗",
+        "onboard_time": 1715483838,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100004,
+        "num": 100004,
+        "word": "患癌老人乘机遭拒载次日去世其子否认不孝",
+        "onboard_time": 1715474536,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93991,
+        "num": 93991,
+        "word": "王楚钦学会了与痛苦并肩作战",
+        "onboard_time": 1715478618,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向巴拿马当选总统致贺电#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715481713430,
+  "endTime": 1715484008115,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2220,7 +2220,7 @@
     },
     {
       "raw_hot": 1040108,
-      "num": 268051,
+      "num": 287958,
       "word": "停训",
       "onboard_time": 1715471536,
       "rank": 20,
@@ -2771,6 +2771,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 883157,
+      "num": 883157,
+      "word": "张杰那英唱的没那么简单",
+      "onboard_time": 1715478200,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 882829,
+      "num": 882829,
+      "word": "丈夫伪造100万存单被妻子拿去银行",
+      "onboard_time": 1715480657,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 882671,
       "num": 882671,
       "word": "直播嫦娥六号发射",
@@ -3232,14 +3248,6 @@
       "word": "陈赫妈妈是来录陈赫吐槽大会吗",
       "onboard_time": 1714889239,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 824010,
-      "num": 824010,
-      "word": "张杰那英唱的没那么简单",
-      "onboard_time": 1715478200,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -4673,6 +4681,14 @@
       "onboard_time": 1714797678,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 654598,
+      "num": 654598,
+      "word": "世界公认最丑的鱼",
+      "onboard_time": 1715481078,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 654534,
@@ -6739,6 +6755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498391,
+      "num": 498391,
+      "word": "TF家族发致歉声明",
+      "onboard_time": 1715481078,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496617,
       "num": 405593,
       "word": "女子与男友争执中刀死亡男友一审无罪",
@@ -8659,20 +8683,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 406300,
-      "num": 406300,
-      "word": "丈夫伪造100万存单被妻子拿去银行",
-      "onboard_time": 1715480657,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405522,
       "num": 405522,
       "word": "Apple pencil",
       "onboard_time": 1715124435,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 405451,
+      "num": 405451,
+      "word": "官方回应电费从3毛涨到6毛8",
+      "onboard_time": 1715482039,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405407,
@@ -8753,6 +8777,14 @@
       "onboard_time": 1715136500,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 402233,
+      "num": 402233,
+      "word": "那英十年前的回旋镖",
+      "onboard_time": 1715481317,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 401775,
@@ -10104,14 +10136,6 @@
       "word": "张桂源 停训",
       "onboard_time": 1715472375,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 347889,
-      "num": 347889,
-      "word": "TF家族发致歉声明",
-      "onboard_time": 1715481078,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -12315,6 +12339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278910,
+      "num": 278910,
+      "word": "汶川大地震16周年",
+      "onboard_time": 1715483418,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278892,
       "num": 266616,
       "word": "迪丽热巴美式证件照",
@@ -12496,14 +12528,6 @@
       "word": "陈楚生官宣新综艺",
       "onboard_time": 1714984640,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 273655,
-      "num": 273655,
-      "word": "那英十年前的回旋镖",
-      "onboard_time": 1715481317,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -13265,6 +13289,14 @@
       "onboard_time": 1715056041,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257055,
+      "num": 257055,
+      "word": "曾指控五月天假唱博主再发声",
+      "onboard_time": 1715483599,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 256797,
@@ -14185,14 +14217,6 @@
       "onboard_time": 1715001079,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238580,
-      "num": 178222,
-      "word": "世界公认最丑的鱼",
-      "onboard_time": 1715481078,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 238368,
@@ -19867,6 +19891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181874,
+      "num": 181874,
+      "word": "汶川地震饲养员生死狂奔转移大熊猫",
+      "onboard_time": 1715480897,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181754,
       "num": 217955,
       "word": "张杰青年节唱少年中国说",
@@ -20337,6 +20369,14 @@
       "onboard_time": 1715062220,
       "rank": 34,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 177109,
+      "num": 177109,
+      "word": "WTT太原",
+      "onboard_time": 1715482698,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 177051,
@@ -24307,14 +24347,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 146566,
-      "num": 179144,
-      "word": "汶川地震饲养员生死狂奔转移大熊猫",
-      "onboard_time": 1715480897,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146547,
       "num": 146547,
       "word": "金赛纶晒自拍",
@@ -25555,6 +25587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136651,
+      "num": 136651,
+      "word": "江苏一名00后被终生禁驾",
+      "onboard_time": 1715483777,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136563,
       "num": 136563,
       "word": "梁洁杀回现偶",
@@ -26243,6 +26283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132421,
+      "num": 132421,
+      "word": "16岁志愿军女兵嘴对嘴给伤员喂药",
+      "onboard_time": 1715481078,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132307,
       "num": 275488,
       "word": "墨西哥60年来超过11万人失踪",
@@ -26531,6 +26579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129498,
+      "num": 129498,
+      "word": "世界级投资大佬西蒙斯去世",
+      "onboard_time": 1715482877,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129441,
       "num": 122557,
       "word": "胡先煦 果然年轻人更懂年轻人",
@@ -26603,19 +26659,19 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 128878,
+      "num": 128878,
+      "word": "车企大佬关系都这么好吗",
+      "onboard_time": 1715481618,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128671,
       "num": 128671,
       "word": "浙江全省试鸣防灾警报",
       "onboard_time": 1715480777,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128389,
-      "num": 128389,
-      "word": "16岁志愿军女兵嘴对嘴给伤员喂药",
-      "onboard_time": 1715481078,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -27177,6 +27233,14 @@
       "onboard_time": 1714539857,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124108,
+      "num": 124108,
+      "word": "护士喊话妈妈医院不是我家开的",
+      "onboard_time": 1715483297,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124056,
@@ -28939,12 +29003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107799,
-      "num": 107799,
-      "word": "车企大佬关系都这么好吗",
-      "onboard_time": 1715481618,
-      "rank": 48,
-      "category": "汽车"
+      "raw_hot": 107807,
+      "num": 107807,
+      "word": "亚当兰伯特月底有演出",
+      "onboard_time": 1715478317,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 107790,
@@ -29241,6 +29305,14 @@
       "onboard_time": 1714651518,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103273,
+      "num": 103273,
+      "word": "华语乐坛真没人能救救那英了吗",
+      "onboard_time": 1715483838,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 103264,
