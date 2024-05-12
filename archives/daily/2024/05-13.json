@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715538944982,
+  "endTime": 1715541266707,
   "band_list": [
     {
       "raw_hot": 1809149,
@@ -419,7 +419,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61795,
+      "raw_hot": 65785,
       "num": 57413,
       "word": "惠英红 我是被偏爱的",
       "onboard_time": 1715537292,
@@ -465,6 +465,14 @@
       "onboard_time": 1715528060,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24668,
+      "num": 27035,
+      "word": "林俊杰陪地震后的小朋友过儿童节",
+      "onboard_time": 1715539032,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 13092,
