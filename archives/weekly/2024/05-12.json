@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715487735941,
+  "endTime": 1715488488754,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -99,12 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 917569,
+      "num": 450063,
+      "word": "华语乐坛真没人能救救那英了吗",
+      "onboard_time": 1715483838,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 883157,
       "num": 883157,
       "word": "张杰那英唱的没那么简单",
       "onboard_time": 1715478200,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 843809,
+      "num": 418143,
+      "word": "范丞丞iG发文再坚持一下吧",
+      "onboard_time": 1715484917,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 841482,
@@ -121,14 +137,6 @@
       "onboard_time": 1715436621,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 783861,
-      "num": 418143,
-      "word": "范丞丞iG发文再坚持一下吧",
-      "onboard_time": 1715484917,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 770678,
@@ -155,7 +163,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 752277,
+      "raw_hot": 753478,
       "num": 491299,
       "word": "林俊杰演唱会观众大喊退票",
       "onboard_time": 1715484139,
@@ -203,14 +211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 670084,
-      "num": 415628,
-      "word": "华语乐坛真没人能救救那英了吗",
-      "onboard_time": 1715483838,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 600267,
       "num": 600267,
       "word": "南通大巴车与渣土车相撞事故一女孩去世",
@@ -233,6 +233,14 @@
       "onboard_time": 1715482039,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539680,
+      "num": 406788,
+      "word": "这届格莱美要在长沙举办吗",
+      "onboard_time": 1715485638,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 536999,
@@ -323,14 +331,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 432493,
-      "num": 406788,
-      "word": "这届格莱美要在长沙举办吗",
-      "onboard_time": 1715485638,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 410010,
       "num": 200935,
       "word": "看脸就知道五脏好坏",
@@ -363,11 +363,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406243,
+      "num": 406243,
+      "word": "江西女子因琐事刺死男友被刑拘",
+      "onboard_time": 1715485757,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402233,
       "num": 402233,
       "word": "那英十年前的回旋镖",
       "onboard_time": 1715481317,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 388471,
+      "num": 255555,
+      "word": "金莎李菲儿0片约",
+      "onboard_time": 1715485818,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -385,6 +401,14 @@
       "onboard_time": 1715442139,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369471,
+      "num": 262204,
+      "word": "二手玫瑰 整点邪的",
+      "onboard_time": 1715486058,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 356635,
@@ -435,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334320,
-      "num": 262204,
-      "word": "二手玫瑰 整点邪的",
-      "onboard_time": 1715486058,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 332648,
       "num": 304197,
       "word": "她的小梨涡",
@@ -467,28 +483,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 315495,
-      "num": 255555,
-      "word": "金莎李菲儿0片约",
-      "onboard_time": 1715485818,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 311900,
       "num": 311900,
       "word": "现在的年轻人为什么不穿皮鞋",
       "onboard_time": 1715447536,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 297763,
-      "num": 297763,
-      "word": "江西女子因琐事刺死男友被刑拘",
-      "onboard_time": 1715485757,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297482,
@@ -515,12 +515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286701,
+      "num": 221939,
+      "word": "陈楚生曾救场歌手",
+      "onboard_time": 1715486358,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270358,
       "num": 270358,
       "word": "汶川地震16年了",
       "onboard_time": 1715447536,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269053,
+      "num": 196784,
+      "word": "华语乐坛",
+      "onboard_time": 1715487078,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 268539,
@@ -536,14 +552,6 @@
       "word": "孙俪在婚礼上对邓超说上海话",
       "onboard_time": 1715478558,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 248686,
-      "num": 221939,
-      "word": "陈楚生曾救场歌手",
-      "onboard_time": 1715486358,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -563,6 +571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233881,
+      "num": 183096,
+      "word": "歌手退一万步讲还能退一万步",
+      "onboard_time": 1715488339,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229727,
+      "num": 181014,
+      "word": "一顿火锅 对行业的警示作用",
+      "onboard_time": 1715486958,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229076,
       "num": 229076,
       "word": "袁娅维在写假条了",
@@ -579,20 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222212,
+      "num": 609253,
+      "word": "护士喊话妈妈医院不是我家开的",
+      "onboard_time": 1715483297,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219019,
       "num": 195175,
       "word": "周杰伦看到粉色极光想写歌了",
       "onboard_time": 1715472257,
       "rank": 25,
       "category": "音乐,自然"
-    },
-    {
-      "raw_hot": 215632,
-      "num": 609253,
-      "word": "护士喊话妈妈医院不是我家开的",
-      "onboard_time": 1715483297,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211283,
@@ -633,14 +657,6 @@
       "onboard_time": 1715439982,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196784,
-      "num": 196784,
-      "word": "华语乐坛",
-      "onboard_time": 1715487078,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 196612,
@@ -731,6 +747,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181231,
+      "num": 181231,
+      "word": "汶川地震钢腿女孩悼念朋友",
+      "onboard_time": 1715485277,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180272,
+      "num": 180272,
+      "word": "有县城男方娶妻成本或上百万元",
+      "onboard_time": 1715487558,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178903,
       "num": 178903,
       "word": "安陵容 踢馆",
@@ -769,14 +801,6 @@
       "onboard_time": 1715477057,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172758,
-      "num": 172758,
-      "word": "汶川地震钢腿女孩悼念朋友",
-      "onboard_time": 1715485277,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171645,
@@ -905,14 +929,6 @@
       "onboard_time": 1715422758,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141822,
-      "num": 141822,
-      "word": "一顿火锅 对行业的警示作用",
-      "onboard_time": 1715486958,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 139416,
@@ -1123,11 +1139,11 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 108291,
-      "num": 108291,
-      "word": "有县城男方娶妻成本或上百万元",
-      "onboard_time": 1715487558,
-      "rank": 46,
+      "raw_hot": 108880,
+      "num": 108880,
+      "word": "16年前汶川妈妈的天堂短信",
+      "onboard_time": 1715487739,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1137,6 +1153,14 @@
       "onboard_time": 1715478317,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107446,
+      "num": 107446,
+      "word": "郭艾伦发布大韩赛前球队讲话",
+      "onboard_time": 1715488038,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 105415,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1715485217,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98947,
+      "num": 98947,
+      "word": "庐山瀑布",
+      "onboard_time": 1715488398,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 98542,
@@ -1227,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76120,
+      "num": 948108,
+      "word": "世上最动听的两个字是妈妈",
+      "onboard_time": 1715484678,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71068,
       "num": 94925,
       "word": "陈楚生弹壳合唱醉",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1715431698,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68471,
-      "num": 948108,
-      "word": "世上最动听的两个字是妈妈",
-      "onboard_time": 1715484678,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63524,
