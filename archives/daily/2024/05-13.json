@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715531781798,
+  "endTime": 1715534117152,
   "band_list": [
     {
       "raw_hot": 1809149,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244399,
+      "num": 244399,
+      "word": "原来我们都错怪费可了",
+      "onboard_time": 1715531299,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242736,
       "num": 242736,
       "word": "虎牙策划",
@@ -355,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101399,
-      "num": 101399,
-      "word": "原来我们都错怪费可了",
-      "onboard_time": 1715531299,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100102,
       "num": 100102,
       "word": "这种水果睡不着觉可以吃",
@@ -403,12 +403,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67490,
+      "num": 72330,
+      "word": "A妹ip",
+      "onboard_time": 1715510002,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53466,
       "num": 372298,
       "word": "一朵最娇艳的花送给最爱的母亲",
       "onboard_time": 1715518580,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53281,
+      "num": 245185,
+      "word": "南通女孩妈妈想找事故现场救援者",
+      "onboard_time": 1715532676,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49449,
+      "num": 72228,
+      "word": "袁娅维假条批了吗",
+      "onboard_time": 1715521161,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 44996,
+      "num": 72049,
+      "word": "曼联vs阿森纳",
+      "onboard_time": 1715532197,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 13092,
@@ -422,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#如何让学校思政课走新更走心#"
+    },
+    {
+      "word": "#推动中欧关系稳定健康发展#"
     }
   ]
 }
