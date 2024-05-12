@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715548642172,
+  "endTime": 1715549647834,
   "band_list": [
     {
       "raw_hot": 1809149,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14355,
+      "num": 15194,
+      "word": "我推的孩子 伟大的妈妈",
+      "onboard_time": 1715548212,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 13343,
       "num": 14262,
       "word": "五旬老太力挺五旬老太",
@@ -513,14 +521,6 @@
       "onboard_time": 1715525122,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12520,
-      "num": 14261,
-      "word": "我推的孩子 伟大的妈妈",
-      "onboard_time": 1715548212,
-      "rank": 47,
-      "category": "动漫"
     }
   ],
   "hotgov_list": [

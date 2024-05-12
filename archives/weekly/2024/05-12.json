@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715548642172,
+  "endTime": 1715549647834,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3267,20 +3267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14355,
+      "num": 15194,
+      "word": "我推的孩子 伟大的妈妈",
+      "onboard_time": 1715548212,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 12633,
       "num": 14259,
       "word": "曾一鸣评论区",
       "onboard_time": 1715525122,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12520,
-      "num": 14261,
-      "word": "我推的孩子 伟大的妈妈",
-      "onboard_time": 1715548212,
-      "rank": 47,
-      "category": "动漫"
     }
   ],
   "hotgov_list": [
