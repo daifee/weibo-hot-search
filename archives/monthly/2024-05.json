@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715530902232,
+  "endTime": 1715531781798,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -14627,6 +14627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247115,
+      "num": 240140,
+      "word": "潮汕偶遇鹿晗王勉",
+      "onboard_time": 1715529919,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247083,
       "num": 247083,
       "word": "五一劳动节",
@@ -14961,6 +14969,14 @@
       "onboard_time": 1715331318,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242736,
+      "num": 242736,
+      "word": "虎牙策划",
+      "onboard_time": 1715527103,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 242686,
@@ -15377,14 +15393,6 @@
       "onboard_time": 1714711399,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235158,
-      "num": 235158,
-      "word": "潮汕偶遇鹿晗王勉",
-      "onboard_time": 1715529919,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 235030,
@@ -19193,14 +19201,6 @@
       "onboard_time": 1715130861,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 195496,
-      "num": 195496,
-      "word": "虎牙策划",
-      "onboard_time": 1715527103,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 195485,
@@ -30115,6 +30115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114260,
+      "num": 114260,
+      "word": "黑执事 好歹毒的脸",
+      "onboard_time": 1715530877,
+      "rank": 48,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 114235,
       "num": 114235,
       "word": "童年买的小鸡仔为什么很容易死掉",
@@ -31243,6 +31251,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 101399,
+      "num": 101399,
+      "word": "原来我们都错怪费可了",
+      "onboard_time": 1715531299,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101298,
       "num": 101298,
       "word": "勇闯你的新世界",
@@ -31739,6 +31755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92687,
+      "num": 92687,
+      "word": "歌手敌方弹药库",
+      "onboard_time": 1715531537,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91796,
       "num": 88746,
       "word": "找份工作养活自己为什么这么难",
@@ -31841,14 +31865,6 @@
       "onboard_time": 1715502618,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90323,
-      "num": 90323,
-      "word": "黑执事 好歹毒的脸",
-      "onboard_time": 1715530877,
-      "rank": 48,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 90147,

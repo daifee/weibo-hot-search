@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715530902232,
+  "endTime": 1715531781798,
   "band_list": [
     {
       "raw_hot": 1809149,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1651336,
-      "num": 363729,
+      "num": 371352,
       "word": "妇科检查的鸭嘴钳能不能对女性更友好",
       "onboard_time": 1715525122,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 860049,
-      "num": 321878,
+      "num": 368409,
       "word": "惠英红 战长沙",
       "onboard_time": 1715524522,
       "rank": 14,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389096,
+      "num": 389096,
+      "word": "老头杯",
+      "onboard_time": 1715526141,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 361427,
       "num": 361427,
       "word": "黄霄云实力",
@@ -145,14 +153,6 @@
       "onboard_time": 1715523803,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 329916,
-      "num": 329916,
-      "word": "老头杯",
-      "onboard_time": 1715526141,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 299773,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247115,
+      "num": 240140,
+      "word": "潮汕偶遇鹿晗王勉",
+      "onboard_time": 1715529919,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245302,
       "num": 235800,
       "word": "和庆余年2对打的是歌手2024吧",
@@ -211,20 +219,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242736,
+      "num": 242736,
+      "word": "虎牙策划",
+      "onboard_time": 1715527103,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238125,
       "num": 238125,
       "word": "孙思邈留下的速睡方",
       "onboard_time": 1715528660,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 235158,
-      "num": 235158,
-      "word": "潮汕偶遇鹿晗王勉",
-      "onboard_time": 1715529919,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221094,
@@ -257,14 +265,6 @@
       "onboard_time": 1715502376,
       "rank": 35,
       "category": "艺人,财经"
-    },
-    {
-      "raw_hot": 163501,
-      "num": 163501,
-      "word": "虎牙策划",
-      "onboard_time": 1715527103,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 154148,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114260,
+      "num": 114260,
+      "word": "黑执事 好歹毒的脸",
+      "onboard_time": 1715530877,
+      "rank": 48,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 112366,
       "num": 112366,
       "word": "EDG夺冠",
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101399,
+      "num": 101399,
+      "word": "原来我们都错怪费可了",
+      "onboard_time": 1715531299,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100102,
       "num": 100102,
       "word": "这种水果睡不着觉可以吃",
@@ -363,20 +379,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92687,
+      "num": 92687,
+      "word": "歌手敌方弹药库",
+      "onboard_time": 1715531537,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90797,
       "num": 90797,
       "word": "西湖音乐节",
       "onboard_time": 1715523803,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 90323,
-      "num": 90323,
-      "word": "黑执事 好歹毒的脸",
-      "onboard_time": 1715530877,
-      "rank": 48,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 89996,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 53466,
-      "num": 363883,
+      "num": 372298,
       "word": "一朵最娇艳的花送给最爱的母亲",
       "onboard_time": 1715518580,
       "rank": 9,
