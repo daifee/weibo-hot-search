@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715520849678,
+  "endTime": 1715523368949,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2933079,
+      "num": 918426,
+      "word": "歌手在邀请了",
+      "onboard_time": 1715517981,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2470906,
       "num": 2470906,
       "word": "南通车祸事故原因初步查明",
@@ -43,20 +51,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2305276,
-      "num": 390856,
-      "word": "歌手在邀请了",
-      "onboard_time": 1715517981,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2089237,
       "num": 2089237,
       "word": "512警报",
       "onboard_time": 1715480119,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1925017,
+      "num": 1925017,
+      "word": "B站崩了",
+      "onboard_time": 1715521041,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1878034,
@@ -139,8 +147,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1188905,
-      "num": 340324,
+      "raw_hot": 1189334,
+      "num": 405834,
       "word": "王晰报名",
       "onboard_time": 1715518461,
       "rank": 7,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 958407,
-      "num": 354098,
+      "num": 373099,
       "word": "江映蓉自荐歌手",
       "onboard_time": 1715516183,
       "rank": 11,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 851360,
-      "num": 243117,
+      "num": 369444,
       "word": "女孩攒够10万后裸辞用利息生活",
       "onboard_time": 1715516602,
       "rank": 28,
@@ -491,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 703298,
+      "num": 401605,
+      "word": "男子与16岁女孩相约开房涉嫌强奸二审改判",
+      "onboard_time": 1715520442,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686680,
       "num": 511500,
       "word": "二手玫瑰 整点邪的",
@@ -529,6 +545,14 @@
       "onboard_time": 1715512284,
       "rank": 27,
       "category": "自然"
+    },
+    {
+      "raw_hot": 626302,
+      "num": 434167,
+      "word": "肖战机场",
+      "onboard_time": 1715519902,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 626137,
@@ -595,20 +619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566693,
+      "num": 566693,
+      "word": "全球首例猪肾移植患者死亡",
+      "onboard_time": 1715517023,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563552,
       "num": 563552,
       "word": "BLG战胜T1",
       "onboard_time": 1715507299,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 563243,
-      "num": 341591,
-      "word": "全球首例猪肾移植患者死亡",
-      "onboard_time": 1715517023,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 560464,
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 515892,
-      "num": 238369,
+      "num": 247662,
       "word": "亚当 歌手",
       "onboard_time": 1715516721,
       "rank": 27,
@@ -723,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 479345,
-      "num": 382106,
-      "word": "肖战机场",
-      "onboard_time": 1715519902,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 478124,
       "num": 478124,
       "word": "班级成绩第一老师请全班吃烤全羊",
@@ -769,6 +785,14 @@
       "onboard_time": 1715483418,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443896,
+      "num": 443896,
+      "word": "EDG夺冠",
+      "onboard_time": 1715522422,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 442451,
@@ -859,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392844,
+      "num": 392844,
+      "word": "椰树直播间模特捂严实了",
+      "onboard_time": 1715510782,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 392355,
       "num": 448338,
       "word": "糯玉米会让血糖飙升",
@@ -899,12 +931,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 371465,
-      "num": 371465,
-      "word": "椰树直播间模特捂严实了",
-      "onboard_time": 1715510782,
-      "rank": 47,
-      "category": "互联网"
+      "raw_hot": 374327,
+      "num": 374327,
+      "word": "腾格尔方声明",
+      "onboard_time": 1715494099,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 371366,
@@ -913,6 +945,14 @@
       "onboard_time": 1715511203,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368613,
+      "num": 368613,
+      "word": "婚礼上的伴娘可能全是租的",
+      "onboard_time": 1715519181,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362739,
@@ -947,16 +987,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353844,
-      "num": 280428,
-      "word": "腾格尔方声明",
-      "onboard_time": 1715494099,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 351063,
-      "num": 351063,
+      "num": 372240,
       "word": "滴滴客服回应7分钟路程收1414元",
       "onboard_time": 1715513121,
       "rank": 43,
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 331642,
-      "num": 331642,
+      "num": 371657,
       "word": "这种水果睡不着觉可以吃",
       "onboard_time": 1715506098,
       "rank": 31,
@@ -1147,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280790,
+      "num": 374151,
+      "word": "otto骂人",
+      "onboard_time": 1715522841,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279345,
       "num": 136213,
       "word": "那英是天生爆梗人吧",
@@ -1155,20 +1195,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275017,
+      "num": 182385,
+      "word": "袁娅维假条批了吗",
+      "onboard_time": 1715521161,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273568,
       "num": 273568,
       "word": "BLG对阵T1",
       "onboard_time": 1715498778,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 272388,
-      "num": 213917,
-      "word": "婚礼上的伴娘可能全是租的",
-      "onboard_time": 1715519181,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271761,
@@ -1259,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248657,
+      "num": 248657,
+      "word": "安利李娟",
+      "onboard_time": 1715522242,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248163,
       "num": 248163,
       "word": "一个月腰围腿围各减10厘米",
@@ -1275,20 +1323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243689,
+      "num": 243689,
+      "word": "工作后才尝到经济独立的甜头",
+      "onboard_time": 1715518401,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242686,
       "num": 242686,
       "word": "众明星发文缅怀汶川地震16周年",
       "onboard_time": 1715484199,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240112,
-      "num": 230116,
-      "word": "工作后才尝到经济独立的甜头",
-      "onboard_time": 1715518401,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 236033,
@@ -1451,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202692,
+      "num": 202692,
+      "word": "AG狼队会师决赛",
+      "onboard_time": 1715522841,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202492,
       "num": 202492,
       "word": "龚琳娜别跳了",
@@ -1579,14 +1635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190064,
-      "num": 190064,
-      "word": "男子与16岁女孩相约开房涉嫌强奸二审改判",
-      "onboard_time": 1715520442,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189571,
       "num": 156383,
       "word": "纪凌尘问答案之书能不能成为影帝",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1715476098,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186961,
+      "num": 186961,
+      "word": "狼队进决赛",
+      "onboard_time": 1715522122,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 186208,
@@ -1667,6 +1723,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176653,
+      "num": 370773,
+      "word": "母亲说吴艳妮夺冠是最好的母亲节礼物",
+      "onboard_time": 1715516541,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176626,
+      "num": 176626,
+      "word": "黄景瑜终于演了反派",
+      "onboard_time": 1715519242,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176150,
       "num": 176150,
       "word": "宋亚轩叫妈妈美女",
@@ -1691,14 +1763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173094,
-      "num": 245314,
-      "word": "母亲说吴艳妮夺冠是最好的母亲节礼物",
-      "onboard_time": 1715516541,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172871,
       "num": 172871,
       "word": "不敢全开麦无修音不全是艺人的问题",
@@ -1713,6 +1777,14 @@
       "onboard_time": 1715475917,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170418,
+      "num": 170418,
+      "word": "浙江上市公司分红1164亿",
+      "onboard_time": 1715522781,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 170024,
@@ -1739,14 +1811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167854,
-      "num": 166166,
-      "word": "黄景瑜终于演了反派",
-      "onboard_time": 1715519242,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167385,
       "num": 167385,
       "word": "汶川震后生于古刹的孩子长大了",
@@ -1761,6 +1825,14 @@
       "onboard_time": 1715433981,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165971,
+      "num": 165971,
+      "word": "狼队大连见",
+      "onboard_time": 1715521461,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 165892,
@@ -1972,7 +2044,7 @@
     },
     {
       "raw_hot": 148014,
-      "num": 326831,
+      "num": 408880,
       "word": "一朵最娇艳的花送给最爱的母亲",
       "onboard_time": 1715518580,
       "rank": 9,
@@ -2000,6 +2072,14 @@
       "word": "母亲节文案",
       "onboard_time": 1715474357,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147201,
+      "num": 147201,
+      "word": "广东雨后现大蜗牛千万别碰别吃",
+      "onboard_time": 1715520922,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2313,6 +2393,14 @@
       "onboard_time": 1715520021,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123449,
+      "num": 123449,
+      "word": "腾格尔发文回应去歌手",
+      "onboard_time": 1715523322,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 122902,
@@ -2676,7 +2764,7 @@
     },
     {
       "raw_hot": 82602,
-      "num": 684500,
+      "num": 1028140,
       "word": "我国成功发射试验二十三号卫星",
       "onboard_time": 1715507838,
       "rank": 2,
