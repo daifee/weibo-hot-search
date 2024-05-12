@@ -1,0 +1,410 @@
+{
+  "runTime": 1715498150237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1093670,
+        "num": 1093670,
+        "word": "吴艳妮12秒86夺冠",
+        "onboard_time": 1715494340,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601696,
+        "num": 601696,
+        "word": "歌手退一万步讲还能退一万步",
+        "onboard_time": 1715488339,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58835,
+        "num": 524321,
+        "word": "世上最动听的两个字是妈妈",
+        "onboard_time": 1715484678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1612614,
+        "num": 520504,
+        "word": "二手玫瑰发了叶赫那拉英子",
+        "onboard_time": 1715491819,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498352,
+        "num": 498352,
+        "word": "妈宝女",
+        "onboard_time": 1715496258,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407680,
+        "num": 407680,
+        "word": "结婚和生娃并非成熟的标志",
+        "onboard_time": 1715493680,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1098977,
+        "num": 371961,
+        "word": "亚当方否认上歌手",
+        "onboard_time": 1715494398,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 785066,
+        "num": 353185,
+        "word": "歌手刚开始没邀请汪苏泷",
+        "onboard_time": 1715491519,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303939,
+        "num": 303939,
+        "word": "游客模仿危险网红悬崖照吓到腿抖",
+        "onboard_time": 1715493258,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 117008,
+        "num": 303531,
+        "word": "护士喊话妈妈医院不是我家开的",
+        "onboard_time": 1715483297,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603182,
+        "num": 295755,
+        "word": "何炅回应歌手直播那英紧张",
+        "onboard_time": 1715489957,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505658,
+        "num": 287480,
+        "word": "断眉ip",
+        "onboard_time": 1715497697,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574025,
+        "num": 282397,
+        "word": "二手玫瑰 整点邪的",
+        "onboard_time": 1715486058,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441382,
+        "num": 274732,
+        "word": "张怡宁点赞孙颖莎王曼昱",
+        "onboard_time": 1715496978,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38562,
+        "num": 269612,
+        "word": "女子癌症晚期挑战完成100个心愿",
+        "onboard_time": 1715497218,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382744,
+        "num": 259209,
+        "word": "韩国博主在法院前直播时被杀",
+        "onboard_time": 1715496798,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257199,
+        "num": 257199,
+        "word": "江西女子因琐事刺死男友被刑拘",
+        "onboard_time": 1715485757,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248781,
+        "num": 248781,
+        "word": "母亲节",
+        "onboard_time": 1715444300,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229328,
+        "num": 229328,
+        "word": "庐山瀑布",
+        "onboard_time": 1715488398,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 557489,
+        "num": 228273,
+        "word": "彭佳慧 老天爷我投降了",
+        "onboard_time": 1715491220,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420324,
+        "num": 225760,
+        "word": "母亲节礼物直接转账这届年轻人很实在",
+        "onboard_time": 1715492957,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328654,
+        "num": 222872,
+        "word": "歌手国家队名场面",
+        "onboard_time": 1715492718,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306962,
+        "num": 220337,
+        "word": "腾格尔方声明",
+        "onboard_time": 1715494099,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287572,
+        "num": 218150,
+        "word": "BLACKPINK团队拍摄工作",
+        "onboard_time": 1715497758,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243909,
+        "num": 216762,
+        "word": "欧阳娜娜伯克利毕业",
+        "onboard_time": 1715489298,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240085,
+        "num": 212600,
+        "word": "范丞丞iG发文再坚持一下吧",
+        "onboard_time": 1715484917,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212062,
+        "num": 212062,
+        "word": "世界公认最丑的鱼",
+        "onboard_time": 1715481078,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 203016,
+        "num": 203016,
+        "word": "金智媛机场图",
+        "onboard_time": 1715488938,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189686,
+        "num": 189686,
+        "word": "男人肚子越来越大的5个原因",
+        "onboard_time": 1715496738,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164483,
+        "num": 164483,
+        "word": "刘宇宁起名迪丽热巴",
+        "onboard_time": 1715495657,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455371,
+        "num": 164459,
+        "word": "林俊杰演唱会观众大喊退票",
+        "onboard_time": 1715484139,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157741,
+        "num": 157741,
+        "word": "老公被派去国外工作宝妈该一起去吗",
+        "onboard_time": 1715493438,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157638,
+        "num": 157638,
+        "word": "江苏南通多地抢修红绿灯",
+        "onboard_time": 1715496139,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156495,
+        "num": 156495,
+        "word": "4S店忘贴车衣女子想退掉保时捷",
+        "onboard_time": 1715485517,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131077,
+        "num": 131077,
+        "word": "于正说春色寄情人拍的很好",
+        "onboard_time": 1715491519,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135134,
+        "num": 130472,
+        "word": "大麦回应林俊杰演唱会观众喊退票",
+        "onboard_time": 1715494460,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118632,
+        "num": 118632,
+        "word": "妈妈是我和死神之间的一堵墙",
+        "onboard_time": 1715493918,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117886,
+        "num": 117886,
+        "word": "那英十年前的回旋镖",
+        "onboard_time": 1715481317,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110799,
+        "num": 110799,
+        "word": "中学男生偷拍女子裙底被抓现行",
+        "onboard_time": 1715488938,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106165,
+        "num": 106165,
+        "word": "512警报",
+        "onboard_time": 1715480119,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107369,
+        "num": 105684,
+        "word": "南通车祸事故原因初步查明",
+        "onboard_time": 1715440581,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104292,
+        "num": 104292,
+        "word": "TES将对战G2",
+        "onboard_time": 1715496738,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102477,
+        "num": 102477,
+        "word": "官方回应电费从3毛涨到6毛8",
+        "onboard_time": 1715482039,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101261,
+        "num": 101261,
+        "word": "送花",
+        "onboard_time": 1715496198,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100878,
+        "num": 100878,
+        "word": "春游哥哥 我想我更勇敢了",
+        "onboard_time": 1715491819,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100242,
+        "num": 100242,
+        "word": "金莎李菲儿0片约",
+        "onboard_time": 1715485818,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98102,
+        "num": 98102,
+        "word": "断崖式分手后我是如何自愈的",
+        "onboard_time": 1715497218,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95356,
+        "num": 95356,
+        "word": "为什么舅舅的地位这么高",
+        "onboard_time": 1715472496,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91547,
+        "num": 91547,
+        "word": "为什么跷二郎腿那么舒服",
+        "onboard_time": 1715497877,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 91025,
+        "num": 91025,
+        "word": "纪凌尘问答案之书能不能成为影帝",
+        "onboard_time": 1715492838,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向巴拿马当选总统致贺电#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715495747769,
+  "endTime": 1715498150237,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1093670,
+      "num": 1093670,
+      "word": "吴艳妮12秒86夺冠",
+      "onboard_time": 1715494340,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1082451,
       "num": 1082451,
       "word": "512",
@@ -147,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 862332,
-      "num": 862332,
-      "word": "吴艳妮12秒86夺冠",
-      "onboard_time": 1715494340,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 860546,
       "num": 380789,
       "word": "彭佳慧 老天爷我投降了",
@@ -187,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 785066,
+      "num": 355758,
+      "word": "歌手刚开始没邀请汪苏泷",
+      "onboard_time": 1715491519,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 780811,
       "num": 780811,
       "word": "这届格莱美要在长沙举办吗",
@@ -217,14 +225,6 @@
       "onboard_time": 1715440941,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 761917,
-      "num": 355758,
-      "word": "歌手刚开始没邀请汪苏泷",
-      "onboard_time": 1715491519,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 755973,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574025,
+      "num": 282397,
+      "word": "二手玫瑰 整点邪的",
+      "onboard_time": 1715486058,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559759,
       "num": 559759,
       "word": "江西女子因琐事刺死男友被刑拘",
@@ -371,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505658,
+      "num": 287480,
+      "word": "断眉ip",
+      "onboard_time": 1715497697,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502137,
       "num": 502137,
       "word": "周六上班上出了结婚的感觉",
@@ -385,6 +401,14 @@
       "onboard_time": 1715481078,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498352,
+      "num": 498352,
+      "word": "妈宝女",
+      "onboard_time": 1715496258,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 478124,
@@ -419,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441382,
+      "num": 274732,
+      "word": "张怡宁点赞孙颖莎王曼昱",
+      "onboard_time": 1715496978,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441158,
       "num": 441158,
       "word": "吃榴莲 补气血",
       "onboard_time": 1715434882,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 420324,
+      "num": 225760,
+      "word": "母亲节礼物直接转账这届年轻人很实在",
+      "onboard_time": 1715492957,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410010,
@@ -451,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407680,
+      "num": 407680,
+      "word": "结婚和生娃并非成熟的标志",
+      "onboard_time": 1715493680,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406702,
       "num": 307009,
       "word": "何洛洛0片约",
@@ -475,8 +523,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382744,
+      "num": 259209,
+      "word": "韩国博主在法院前直播时被杀",
+      "onboard_time": 1715496798,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381283,
-      "num": 174137,
+      "num": 222872,
       "word": "歌手国家队名场面",
       "onboard_time": 1715492718,
       "rank": 21,
@@ -497,14 +553,6 @@
       "onboard_time": 1715442139,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 369471,
-      "num": 262204,
-      "word": "二手玫瑰 整点邪的",
-      "onboard_time": 1715486058,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 356635,
@@ -556,7 +604,7 @@
     },
     {
       "raw_hot": 336925,
-      "num": 174047,
+      "num": 220337,
       "word": "腾格尔方声明",
       "onboard_time": 1715494099,
       "rank": 25,
@@ -627,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287572,
+      "num": 218150,
+      "word": "BLACKPINK团队拍摄工作",
+      "onboard_time": 1715497758,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286701,
       "num": 277363,
       "word": "陈楚生曾救场歌手",
@@ -673,14 +729,6 @@
       "onboard_time": 1715478558,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259955,
-      "num": 173687,
-      "word": "母亲节礼物直接转账这届年轻人很实在",
-      "onboard_time": 1715492957,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248163,
@@ -859,6 +907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189686,
+      "num": 189686,
+      "word": "男人肚子越来越大的5个原因",
+      "onboard_time": 1715496738,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 189571,
       "num": 156383,
       "word": "纪凌尘问答案之书能不能成为影帝",
@@ -1003,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163994,
-      "num": 163994,
-      "word": "结婚和生娃并非成熟的标志",
-      "onboard_time": 1715493680,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163242,
       "num": 163242,
       "word": "越吃越瘦的低卡食物",
@@ -1067,6 +1115,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157741,
+      "num": 157741,
+      "word": "老公被派去国外工作宝妈该一起去吗",
+      "onboard_time": 1715493438,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 157638,
+      "num": 157638,
+      "word": "江苏南通多地抢修红绿灯",
+      "onboard_time": 1715496139,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156939,
       "num": 156939,
       "word": "16年后的汶川生生不息",
@@ -1081,14 +1145,6 @@
       "onboard_time": 1715490979,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148203,
-      "num": 148203,
-      "word": "老公被派去国外工作宝妈该一起去吗",
-      "onboard_time": 1715493438,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 147879,
@@ -1467,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104292,
+      "num": 104292,
+      "word": "TES将对战G2",
+      "onboard_time": 1715496738,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104123,
       "num": 104123,
       "word": "洪涛",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1715475317,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 101261,
+      "num": 101261,
+      "word": "送花",
+      "onboard_time": 1715496198,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 100428,
@@ -1515,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98102,
+      "num": 98102,
+      "word": "断崖式分手后我是如何自愈的",
+      "onboard_time": 1715497218,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97363,
       "num": 97363,
       "word": "试验二十三号卫星成功发射",
@@ -1537,6 +1617,14 @@
       "onboard_time": 1715490259,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91547,
+      "num": 91547,
+      "word": "为什么跷二郎腿那么舒服",
+      "onboard_time": 1715497877,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 90468,
@@ -1681,6 +1769,14 @@
       "onboard_time": 1715451615,
       "rank": 44,
       "category": "自然,科学科普"
+    },
+    {
+      "raw_hot": 38562,
+      "num": 269612,
+      "word": "女子癌症晚期挑战完成100个心愿",
+      "onboard_time": 1715497218,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38365,
