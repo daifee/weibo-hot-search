@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715498150237,
+  "endTime": 1715499255555,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -60,9 +60,17 @@
     },
     {
       "raw_hot": 1265491,
-      "num": 389922,
+      "num": 477537,
       "word": "亚当方否认上歌手",
       "onboard_time": 1715494398,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1191467,
+      "num": 490464,
+      "word": "断眉ip",
+      "onboard_time": 1715497697,
       "rank": 11,
       "category": "综艺"
     },
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 785066,
-      "num": 355758,
+      "num": 415273,
       "word": "歌手刚开始没邀请汪苏泷",
       "onboard_time": 1715491519,
       "rank": 32,
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 686680,
+      "num": 436377,
+      "word": "二手玫瑰 整点邪的",
+      "onboard_time": 1715486058,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 682344,
       "num": 682344,
       "word": "林俊杰别扫地了先支援歌手吧",
@@ -289,6 +305,14 @@
       "onboard_time": 1715488398,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 622673,
+      "num": 622673,
+      "word": "张怡宁点赞孙颖莎王曼昱",
+      "onboard_time": 1715496978,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 617156,
@@ -321,14 +345,6 @@
       "onboard_time": 1715482039,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 574025,
-      "num": 282397,
-      "word": "二手玫瑰 整点邪的",
-      "onboard_time": 1715486058,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 559759,
@@ -376,14 +392,6 @@
       "word": "五旬守国门三旬吃拉面",
       "onboard_time": 1715472075,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 505658,
-      "num": 287480,
-      "word": "断眉ip",
-      "onboard_time": 1715497697,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -443,12 +451,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 441382,
-      "num": 274732,
-      "word": "张怡宁点赞孙颖莎王曼昱",
-      "onboard_time": 1715496978,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 456596,
+      "num": 386920,
+      "word": "韩国博主在法院前直播时被杀",
+      "onboard_time": 1715496798,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442451,
+      "num": 355998,
+      "word": "BLACKPINK团队拍摄工作",
+      "onboard_time": 1715497758,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 441460,
+      "num": 441460,
+      "word": "结婚和生娃并非成熟的标志",
+      "onboard_time": 1715493680,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 441158,
@@ -491,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407680,
-      "num": 407680,
-      "word": "结婚和生娃并非成熟的标志",
-      "onboard_time": 1715493680,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 406702,
       "num": 307009,
       "word": "何洛洛0片约",
@@ -521,14 +537,6 @@
       "onboard_time": 1715485818,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382744,
-      "num": 259209,
-      "word": "韩国博主在法院前直播时被杀",
-      "onboard_time": 1715496798,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381283,
@@ -569,6 +577,14 @@
       "onboard_time": 1715472375,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345646,
+      "num": 345646,
+      "word": "男人肚子越来越大的5个原因",
+      "onboard_time": 1715496738,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 343583,
@@ -673,14 +689,6 @@
       "onboard_time": 1715433801,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287572,
-      "num": 218150,
-      "word": "BLACKPINK团队拍摄工作",
-      "onboard_time": 1715497758,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 286701,
@@ -835,12 +843,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198006,
+      "num": 159105,
+      "word": "BLG对阵T1",
+      "onboard_time": 1715498778,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197881,
       "num": 197881,
       "word": "莎头",
       "onboard_time": 1715439982,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197650,
+      "num": 158611,
+      "word": "Bin的vn",
+      "onboard_time": 1715498717,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 196612,
@@ -905,14 +929,6 @@
       "onboard_time": 1715484017,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 189686,
-      "num": 189686,
-      "word": "男人肚子越来越大的5个原因",
-      "onboard_time": 1715496738,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 189571,
@@ -987,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176230,
+      "num": 176230,
+      "word": "江苏南通多地抢修红绿灯",
+      "onboard_time": 1715496139,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176150,
       "num": 176150,
       "word": "宋亚轩叫妈妈美女",
@@ -1059,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163537,
+      "num": 163537,
+      "word": "制作人称很多音综不修音没法听",
+      "onboard_time": 1715498599,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163242,
       "num": 163242,
       "word": "越吃越瘦的低卡食物",
@@ -1091,6 +1123,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161270,
+      "num": 158293,
+      "word": "终于知道为啥吃饭不让说话了",
+      "onboard_time": 1715498778,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 159463,
+      "num": 159463,
+      "word": "歌手第二期网传歌单",
+      "onboard_time": 1715498957,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159283,
       "num": 159283,
       "word": "春游哥哥 我想我更勇敢了",
@@ -1121,14 +1169,6 @@
       "onboard_time": 1715493438,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157638,
-      "num": 157638,
-      "word": "江苏南通多地抢修红绿灯",
-      "onboard_time": 1715496139,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156939,
@@ -1211,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143386,
+      "num": 143386,
+      "word": "9397号列车",
+      "onboard_time": 1715499078,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 141986,
       "num": 141986,
       "word": "白夜追凶2",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1715444239,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135413,
+      "num": 135413,
+      "word": "断崖式分手后我是如何自愈的",
+      "onboard_time": 1715497218,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 133842,
@@ -1321,6 +1377,14 @@
       "onboard_time": 1715480777,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127647,
+      "num": 127647,
+      "word": "Jasper高情商评价应采儿做饭",
+      "onboard_time": 1715498599,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 126845,
@@ -1587,14 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98102,
-      "num": 98102,
-      "word": "断崖式分手后我是如何自愈的",
-      "onboard_time": 1715497218,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 97363,
       "num": 97363,
       "word": "试验二十三号卫星成功发射",
@@ -1609,6 +1665,22 @@
       "onboard_time": 1715425219,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95553,
+      "num": 95553,
+      "word": "魏大勋以为秦霄贤穿的裙子",
+      "onboard_time": 1715498237,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 94658,
+      "num": 94658,
+      "word": "母亲节礼物",
+      "onboard_time": 1715496319,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 92828,
@@ -1633,6 +1705,14 @@
       "onboard_time": 1715442139,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90147,
+      "num": 90147,
+      "word": "吴艳妮赛季首破13秒",
+      "onboard_time": 1715496258,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 83553,
@@ -1673,6 +1753,14 @@
       "onboard_time": 1715491037,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73174,
+      "num": 368883,
+      "word": "女子癌症晚期挑战完成100个心愿",
+      "onboard_time": 1715497218,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71068,
@@ -1771,14 +1859,6 @@
       "category": "自然,科学科普"
     },
     {
-      "raw_hot": 38562,
-      "num": 269612,
-      "word": "女子癌症晚期挑战完成100个心愿",
-      "onboard_time": 1715497218,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38365,
       "num": 45118,
       "word": "常按6个穴位越来越瘦",
@@ -1808,6 +1888,14 @@
       "word": "2024防灾减灾日",
       "onboard_time": 1715457071,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16823,
+      "num": 494030,
+      "word": "在布达佩斯感受中匈友谊之桥",
+      "onboard_time": 1715484199,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
