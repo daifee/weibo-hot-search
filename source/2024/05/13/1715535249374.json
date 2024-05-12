@@ -1,0 +1,410 @@
+{
+  "runTime": 1715535249374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 771100,
+        "num": 771100,
+        "word": "韩红请战歌手",
+        "onboard_time": 1715507299,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556304,
+        "num": 556304,
+        "word": "mlxg退群",
+        "onboard_time": 1715524163,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 5081,
+        "num": 395404,
+        "word": "世上最动听的两个字是妈妈",
+        "onboard_time": 1715484678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701356,
+        "num": 384304,
+        "word": "歌手在邀请了",
+        "onboard_time": 1715517981,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326788,
+        "num": 326788,
+        "word": "B站崩了",
+        "onboard_time": 1715521041,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 221019,
+        "num": 221019,
+        "word": "全球首例猪肾移植患者死亡",
+        "onboard_time": 1715517023,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465179,
+        "num": 215075,
+        "word": "杨丞琳在家罚唱",
+        "onboard_time": 1715524463,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303078,
+        "num": 205598,
+        "word": "原来我们都错怪费可了",
+        "onboard_time": 1715531299,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178496,
+        "num": 178496,
+        "word": "阿兰助攻",
+        "onboard_time": 1715527520,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60046,
+        "num": 175842,
+        "word": "南通女孩妈妈想找事故现场救援者",
+        "onboard_time": 1715532676,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725398,
+        "num": 172277,
+        "word": "妇科检查的鸭嘴钳能不能对女性更友好",
+        "onboard_time": 1715525122,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 403422,
+        "num": 166888,
+        "word": "惠英红 战长沙",
+        "onboard_time": 1715524522,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251367,
+        "num": 164132,
+        "word": "我的阿勒泰作者评价华晨宇",
+        "onboard_time": 1715523503,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161930,
+        "num": 161930,
+        "word": "虎牙策划",
+        "onboard_time": 1715527103,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 359401,
+        "num": 156345,
+        "word": "腾格尔发文回应去歌手",
+        "onboard_time": 1715523322,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143254,
+        "num": 143254,
+        "word": "mlxg与otto老头杯红温",
+        "onboard_time": 1715524042,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125590,
+        "num": 125590,
+        "word": "孙思邈留下的速睡方",
+        "onboard_time": 1715528660,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 310466,
+        "num": 122044,
+        "word": "歌手官微回应",
+        "onboard_time": 1715515944,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113450,
+        "num": 113450,
+        "word": "男子与16岁女孩相约开房涉嫌强奸二审改判",
+        "onboard_time": 1715520442,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102031,
+        "num": 102031,
+        "word": "老头杯",
+        "onboard_time": 1715526141,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295472,
+        "num": 101752,
+        "word": "英子 你的红来了",
+        "onboard_time": 1715509522,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270005,
+        "num": 101557,
+        "word": "otto骂人",
+        "onboard_time": 1715522841,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219961,
+        "num": 101117,
+        "word": "女孩攒够10万后裸辞用利息生活",
+        "onboard_time": 1715516602,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261152,
+        "num": 100956,
+        "word": "王晰报名",
+        "onboard_time": 1715518461,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162074,
+        "num": 100495,
+        "word": "黄霄云实力",
+        "onboard_time": 1715526501,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118107,
+        "num": 100369,
+        "word": "潮汕偶遇鹿晗王勉",
+        "onboard_time": 1715529919,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153126,
+        "num": 100051,
+        "word": "歌手",
+        "onboard_time": 1715510063,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115613,
+        "num": 99562,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1715523803,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64682,
+        "num": 99347,
+        "word": "婚礼上的伴娘可能全是租的",
+        "onboard_time": 1715519181,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60764,
+        "num": 99061,
+        "word": "曼联vs阿森纳",
+        "onboard_time": 1715532197,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98859,
+        "num": 98859,
+        "word": "鬼灭之刃",
+        "onboard_time": 1715524823,
+        "rank": 30,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 98969,
+        "num": 98444,
+        "word": "和庆余年2对打的是歌手2024吧",
+        "onboard_time": 1715512343,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95051,
+        "num": 95051,
+        "word": "丁晟 欣慰外国观众能看懂",
+        "onboard_time": 1715526981,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87649,
+        "num": 87649,
+        "word": "黑执事 好歹毒的脸",
+        "onboard_time": 1715530877,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 81559,
+        "num": 81559,
+        "word": "白桃星座",
+        "onboard_time": 1715527162,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79355,
+        "num": 79355,
+        "word": "长期不刷牙可能引发败血症",
+        "onboard_time": 1715515342,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79119,
+        "num": 79119,
+        "word": "明星最爱干的副业集体倒闭",
+        "onboard_time": 1715502376,
+        "rank": 36,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 76279,
+        "num": 76279,
+        "word": "肖战机场",
+        "onboard_time": 1715519902,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69863,
+        "num": 69863,
+        "word": "歌手敌方弹药库",
+        "onboard_time": 1715531537,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55804,
+        "num": 66800,
+        "word": "男孩街头猛扯母亲头发并施暴",
+        "onboard_time": 1715514442,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65593,
+        "num": 65593,
+        "word": "椰树直播间模特捂严实了",
+        "onboard_time": 1715510782,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 65498,
+        "num": 65498,
+        "word": "EDG夺冠",
+        "onboard_time": 1715522422,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60989,
+        "num": 60989,
+        "word": "散步是低成本的心理治疗",
+        "onboard_time": 1715533874,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59180,
+        "num": 59180,
+        "word": "网友cos迪丽热巴",
+        "onboard_time": 1715513182,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52492,
+        "num": 52492,
+        "word": "安利李娟",
+        "onboard_time": 1715522242,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51290,
+        "num": 51290,
+        "word": "王源什么时候毕业",
+        "onboard_time": 1715513481,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50851,
+        "num": 50851,
+        "word": "吃得少但不容易饿的方法",
+        "onboard_time": 1715525242,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48420,
+        "num": 50851,
+        "word": "婆婆赠300万房产离婚时儿媳分60万",
+        "onboard_time": 1715500758,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47088,
+        "num": 50846,
+        "word": "常思思 若有需召必来",
+        "onboard_time": 1715528060,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33153,
+        "num": 50846,
+        "word": "浙江上市公司分红1164亿",
+        "onboard_time": 1715522781,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与母亲的温暖瞬间#"
+    }
+  }
+}
