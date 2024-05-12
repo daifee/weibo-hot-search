@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715510033388,
+  "endTime": 1715512519836,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -153,6 +153,14 @@
       "onboard_time": 1714977378,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2986057,
+      "num": 469709,
+      "word": "英子 你的红来了",
+      "onboard_time": 1715509522,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 2922878,
@@ -963,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1498696,
+      "num": 321038,
+      "word": "纪敏佳请战歌手",
+      "onboard_time": 1715511382,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1494772,
       "num": 753225,
       "word": "牛约堡致歉",
@@ -1667,6 +1683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1186971,
+      "num": 378881,
+      "word": "断眉和A妹IP在湖南",
+      "onboard_time": 1715508921,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1182644,
       "num": 274856,
       "word": "关晓彤徐梓钧是同学",
@@ -2299,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1041845,
+      "num": 166240,
+      "word": "A妹ip",
+      "onboard_time": 1715510002,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1041283,
       "num": 1041283,
       "word": "歌手退一万步讲还能退一万步",
@@ -2465,14 +2497,6 @@
       "onboard_time": 1715141422,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 974195,
-      "num": 344884,
-      "word": "英子 你的红来了",
-      "onboard_time": 1715509522,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 972744,
@@ -2832,6 +2856,14 @@
       "word": "阿朵去歌手吧",
       "onboard_time": 1715430139,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 893700,
+      "num": 141280,
+      "word": "五旬老太力挺五旬老太",
+      "onboard_time": 1715511443,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -3321,6 +3353,14 @@
       "onboard_time": 1715472496,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 841438,
+      "num": 138757,
+      "word": "韩红转发区",
+      "onboard_time": 1715510902,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 838147,
@@ -5489,6 +5529,14 @@
       "onboard_time": 1714576700,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 616000,
+      "num": 347419,
+      "word": "萨顶顶快去歌手顶一顶",
+      "onboard_time": 1715509584,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 614727,
@@ -7993,14 +8041,6 @@
       "onboard_time": 1714973239,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 447999,
-      "num": 378881,
-      "word": "断眉和A妹IP在湖南",
-      "onboard_time": 1715508921,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 447641,
@@ -10571,14 +10611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347419,
-      "num": 347419,
-      "word": "萨顶顶快去歌手顶一顶",
-      "onboard_time": 1715509584,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 347109,
       "num": 347109,
       "word": "警方通报男子服装市场跳楼身亡",
@@ -10892,7 +10924,7 @@
     },
     {
       "raw_hot": 336925,
-      "num": 220337,
+      "num": 280428,
       "word": "腾格尔方声明",
       "onboard_time": 1715494099,
       "rank": 25,
@@ -11323,6 +11355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321387,
+      "num": 321387,
+      "word": "晚霞",
+      "onboard_time": 1715253258,
+      "rank": 44,
+      "category": "自然"
+    },
+    {
       "raw_hot": 321279,
       "num": 321279,
       "word": "智慧天网一号01星发射成功",
@@ -11625,6 +11665,14 @@
       "onboard_time": 1715072538,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 312920,
+      "num": 312920,
+      "word": "吴艳妮回应夺冠",
+      "onboard_time": 1715511203,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 312733,
@@ -12739,6 +12787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280179,
+      "num": 194212,
+      "word": "子宫受压或改变胎儿面貌",
+      "onboard_time": 1715512042,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 279981,
       "num": 279981,
       "word": "陈少熙 狗叫之夜",
@@ -12793,6 +12849,14 @@
       "onboard_time": 1715142323,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 279345,
+      "num": 136213,
+      "word": "那英是天生爆梗人吧",
+      "onboard_time": 1715511622,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 279331,
@@ -20083,14 +20147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 185855,
-      "num": 185855,
-      "word": "晚霞",
-      "onboard_time": 1715253258,
-      "rank": 44,
-      "category": "自然"
-    },
-    {
       "raw_hot": 185833,
       "num": 521808,
       "word": "杭州西湖边再现最美人墙",
@@ -21483,6 +21539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 173746,
+      "num": 173746,
+      "word": "火烧云",
+      "onboard_time": 1715512284,
+      "rank": 27,
+      "category": "自然"
+    },
+    {
       "raw_hot": 173692,
       "num": 173692,
       "word": "肖战伍嘉成微博互动",
@@ -22451,14 +22515,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 166240,
-      "num": 166240,
-      "word": "A妹ip",
-      "onboard_time": 1715510002,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166153,
       "num": 166153,
       "word": "白鹿藏了一天没被发现",
@@ -22481,6 +22537,14 @@
       "onboard_time": 1714706539,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165835,
+      "num": 165835,
+      "word": "hala madrid",
+      "onboard_time": 1715510541,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 165778,
@@ -24867,6 +24931,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 148538,
+      "num": 148538,
+      "word": "狗妈妈冲进洪水中救出被困小狗",
+      "onboard_time": 1715512042,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148497,
       "num": 148497,
       "word": "尼克斯2比0步行者",
@@ -25899,6 +25971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140923,
+      "num": 140923,
+      "word": "洋葱是可以吃的心脏支架",
+      "onboard_time": 1715512042,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140906,
       "num": 140906,
       "word": "没想到猫咖的猫也要开早会",
@@ -25937,6 +26017,14 @@
       "onboard_time": 1715075359,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140494,
+      "num": 397357,
+      "word": "5121428是会被铭记的心痛",
+      "onboard_time": 1715507000,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140438,
@@ -26467,6 +26555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136381,
+      "num": 136381,
+      "word": "和庆余年2对打的是歌手2024吧",
+      "onboard_time": 1715512343,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136323,
       "num": 136323,
       "word": "eStar从B组杀回来了",
@@ -26769,14 +26865,6 @@
       "onboard_time": 1714518555,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134353,
-      "num": 397357,
-      "word": "5121428是会被铭记的心痛",
-      "onboard_time": 1715507000,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134209,
@@ -27993,6 +28081,14 @@
       "onboard_time": 1715296996,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125086,
+      "num": 125086,
+      "word": "椰树直播间模特捂严实了",
+      "onboard_time": 1715510782,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 125060,
@@ -29817,6 +29913,14 @@
       "onboard_time": 1715487019,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 109632,
+      "num": 109632,
+      "word": "Bin 继续赢下去吧",
+      "onboard_time": 1715512402,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 109523,

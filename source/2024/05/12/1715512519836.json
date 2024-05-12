@@ -1,0 +1,410 @@
+{
+  "runTime": 1715512519836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13693263,
+        "num": 13693263,
+        "word": "韩红请战歌手",
+        "onboard_time": 1715507299,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 714285,
+        "num": 714285,
+        "word": "明星最爱干的副业集体倒闭",
+        "onboard_time": 1715502376,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70468,
+        "num": 474721,
+        "word": "我国成功发射试验二十三号卫星",
+        "onboard_time": 1715507838,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2986057,
+        "num": 469709,
+        "word": "英子 你的红来了",
+        "onboard_time": 1715509522,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353473,
+        "num": 353473,
+        "word": "犬夜叉 杀生丸美貌遗传",
+        "onboard_time": 1715506639,
+        "rank": 4,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 321387,
+        "num": 321387,
+        "word": "晚霞",
+        "onboard_time": 1715511680,
+        "rank": 5,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1498696,
+        "num": 321038,
+        "word": "纪敏佳请战歌手",
+        "onboard_time": 1715511382,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257913,
+        "num": 319695,
+        "word": "BLG战胜T1",
+        "onboard_time": 1715507299,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140494,
+        "num": 318713,
+        "word": "5121428是会被铭记的心痛",
+        "onboard_time": 1715507000,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173691,
+        "num": 317162,
+        "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
+        "onboard_time": 1715506217,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186971,
+        "num": 316591,
+        "word": "断眉和A妹IP在湖南",
+        "onboard_time": 1715508921,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632006,
+        "num": 315377,
+        "word": "王琳住院了",
+        "onboard_time": 1715506398,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1174944,
+        "num": 314803,
+        "word": "二手玫瑰发了叶赫那拉英子",
+        "onboard_time": 1715491819,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616000,
+        "num": 313877,
+        "word": "萨顶顶快去歌手顶一顶",
+        "onboard_time": 1715509584,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312920,
+        "num": 312920,
+        "word": "吴艳妮回应夺冠",
+        "onboard_time": 1715511203,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293083,
+        "num": 293083,
+        "word": "这种水果睡不着觉可以吃",
+        "onboard_time": 1715506098,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280428,
+        "num": 280428,
+        "word": "腾格尔方声明",
+        "onboard_time": 1715494099,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248884,
+        "num": 248884,
+        "word": "天价彩礼不断衍生出新变种",
+        "onboard_time": 1715503457,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200590,
+        "num": 200590,
+        "word": "韩国博主在法院前直播时被杀",
+        "onboard_time": 1715496798,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199654,
+        "num": 199654,
+        "word": "BLG晋级MSI胜者组决赛",
+        "onboard_time": 1715508921,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 345392,
+        "num": 198138,
+        "word": "婆婆赠300万房产离婚时儿媳分60万",
+        "onboard_time": 1715500758,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344452,
+        "num": 196452,
+        "word": "1毫克就能致死的毒物可能在你厨房里",
+        "onboard_time": 1715503699,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280179,
+        "num": 194212,
+        "word": "子宫受压或改变胎儿面貌",
+        "onboard_time": 1715512042,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 234910,
+        "num": 191872,
+        "word": "歌手国家队名场面",
+        "onboard_time": 1715492718,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191770,
+        "num": 191770,
+        "word": "求婚刚好碰到火山爆发",
+        "onboard_time": 1715500277,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179123,
+        "num": 179123,
+        "word": "极限挑战",
+        "onboard_time": 1715507238,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175328,
+        "num": 175328,
+        "word": "东极岛",
+        "onboard_time": 1715507238,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173746,
+        "num": 173746,
+        "word": "火烧云",
+        "onboard_time": 1715512284,
+        "rank": 27,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 165835,
+        "num": 165835,
+        "word": "hala madrid",
+        "onboard_time": 1715510541,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153701,
+        "num": 153701,
+        "word": "男人肚子越来越大的5个原因",
+        "onboard_time": 1715496738,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284508,
+        "num": 153515,
+        "word": "林俊杰演唱会观众大喊退票",
+        "onboard_time": 1715484139,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1041845,
+        "num": 153427,
+        "word": "A妹ip",
+        "onboard_time": 1715510002,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153318,
+        "num": 153318,
+        "word": "美国变性女撞倒男子后先亲再捅9刀",
+        "onboard_time": 1715500338,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148538,
+        "num": 148538,
+        "word": "狗妈妈冲进洪水中救出被困小狗",
+        "onboard_time": 1715512042,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148158,
+        "num": 148158,
+        "word": "范丞丞iG发文再坚持一下吧",
+        "onboard_time": 1715484917,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141457,
+        "num": 141457,
+        "word": "ZICO和Jennie合作曲初一位",
+        "onboard_time": 1715505258,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141449,
+        "num": 141449,
+        "word": "IVE香港演唱会时间",
+        "onboard_time": 1715506338,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 893700,
+        "num": 141280,
+        "word": "五旬老太力挺五旬老太",
+        "onboard_time": 1715511443,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140923,
+        "num": 140923,
+        "word": "洋葱是可以吃的心脏支架",
+        "onboard_time": 1715512042,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140380,
+        "num": 140380,
+        "word": "吴艳妮12秒86夺冠",
+        "onboard_time": 1715494340,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 841438,
+        "num": 138757,
+        "word": "韩红转发区",
+        "onboard_time": 1715510902,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136381,
+        "num": 136381,
+        "word": "和庆余年2对打的是歌手2024吧",
+        "onboard_time": 1715512343,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279345,
+        "num": 136213,
+        "word": "那英是天生爆梗人吧",
+        "onboard_time": 1715511622,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135790,
+        "num": 135790,
+        "word": "联合国官方再报道王一博",
+        "onboard_time": 1715505858,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133915,
+        "num": 133915,
+        "word": "张怡宁点赞孙颖莎王曼昱",
+        "onboard_time": 1715496978,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132646,
+        "num": 132646,
+        "word": "给内耗人的一句终极解药",
+        "onboard_time": 1715509943,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131808,
+        "num": 131808,
+        "word": "elk和on比心",
+        "onboard_time": 1715508921,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125086,
+        "num": 125086,
+        "word": "椰树直播间模特捂严实了",
+        "onboard_time": 1715510782,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117425,
+        "num": 117425,
+        "word": "汶川震后生于古刹的孩子长大了",
+        "onboard_time": 1715504537,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109632,
+        "num": 109632,
+        "word": "Bin 继续赢下去吧",
+        "onboard_time": 1715512402,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与母亲的温暖瞬间#"
+    }
+  }
+}

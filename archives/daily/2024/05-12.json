@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715510033388,
+  "endTime": 1715512519836,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -8,6 +8,14 @@
       "word": "韩红请战歌手",
       "onboard_time": 1715507299,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2986057,
+      "num": 469709,
+      "word": "英子 你的红来了",
+      "onboard_time": 1715509522,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -49,6 +57,14 @@
       "onboard_time": 1715470395,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1498696,
+      "num": 321038,
+      "word": "纪敏佳请战歌手",
+      "onboard_time": 1715511382,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1453778,
@@ -96,6 +112,14 @@
       "word": "断眉ip",
       "onboard_time": 1715497697,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1186971,
+      "num": 378881,
+      "word": "断眉和A妹IP在湖南",
+      "onboard_time": 1715508921,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -147,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1041845,
+      "num": 166240,
+      "word": "A妹ip",
+      "onboard_time": 1715510002,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1041283,
       "num": 1041283,
       "word": "歌手退一万步讲还能退一万步",
@@ -169,14 +201,6 @@
       "onboard_time": 1715502376,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 974195,
-      "num": 344884,
-      "word": "英子 你的红来了",
-      "onboard_time": 1715509522,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 965966,
@@ -208,6 +232,14 @@
       "word": "华语乐坛真没人能救救那英了吗",
       "onboard_time": 1715483838,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 893700,
+      "num": 141280,
+      "word": "五旬老太力挺五旬老太",
+      "onboard_time": 1715511443,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -265,6 +297,14 @@
       "onboard_time": 1715472496,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 841438,
+      "num": 138757,
+      "word": "韩红转发区",
+      "onboard_time": 1715510902,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 821656,
@@ -425,6 +465,14 @@
       "onboard_time": 1715489298,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616000,
+      "num": 347419,
+      "word": "萨顶顶快去歌手顶一顶",
+      "onboard_time": 1715509584,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 600267,
@@ -595,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 447999,
-      "num": 378881,
-      "word": "断眉和A妹IP在湖南",
-      "onboard_time": 1715508921,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 442451,
       "num": 355998,
       "word": "BLACKPINK团队拍摄工作",
@@ -755,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347419,
-      "num": 347419,
-      "word": "萨顶顶快去歌手顶一顶",
-      "onboard_time": 1715509584,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 343583,
       "num": 343583,
       "word": "上海文旅局回应五月天假唱风波调查",
@@ -796,7 +828,7 @@
     },
     {
       "raw_hot": 336925,
-      "num": 220337,
+      "num": 280428,
       "word": "腾格尔方声明",
       "onboard_time": 1715494099,
       "rank": 25,
@@ -843,12 +875,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 321387,
+      "num": 321387,
+      "word": "晚霞",
+      "onboard_time": 1715511680,
+      "rank": 5,
+      "category": "自然"
+    },
+    {
       "raw_hot": 318059,
       "num": 318059,
       "word": "极光",
       "onboard_time": 1715437161,
       "rank": 19,
       "category": "自然"
+    },
+    {
+      "raw_hot": 312920,
+      "num": 312920,
+      "word": "吴艳妮回应夺冠",
+      "onboard_time": 1715511203,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 312184,
@@ -913,6 +961,22 @@
       "onboard_time": 1715500877,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280179,
+      "num": 194212,
+      "word": "子宫受压或改变胎儿面貌",
+      "onboard_time": 1715512042,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 279345,
+      "num": 136213,
+      "word": "那英是天生爆梗人吧",
+      "onboard_time": 1715511622,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 273568,
@@ -1315,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173746,
+      "num": 173746,
+      "word": "火烧云",
+      "onboard_time": 1715512284,
+      "rank": 27,
+      "category": "自然"
+    },
+    {
       "raw_hot": 172871,
       "num": 172871,
       "word": "不敢全开麦无修音不全是艺人的问题",
@@ -1371,12 +1443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166240,
-      "num": 166240,
-      "word": "A妹ip",
-      "onboard_time": 1715510002,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 165835,
+      "num": 165835,
+      "word": "hala madrid",
+      "onboard_time": 1715510541,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 165720,
@@ -1539,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148538,
+      "num": 148538,
+      "word": "狗妈妈冲进洪水中救出被困小狗",
+      "onboard_time": 1715512042,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147879,
       "num": 147879,
       "word": "大麦回应林俊杰演唱会观众喊退票",
@@ -1619,6 +1699,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140923,
+      "num": 140923,
+      "word": "洋葱是可以吃的心脏支架",
+      "onboard_time": 1715512042,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140494,
+      "num": 397357,
+      "word": "5121428是会被铭记的心痛",
+      "onboard_time": 1715507000,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139416,
       "num": 539180,
       "word": "送这种花妈妈根本无法拒绝",
@@ -1651,20 +1747,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 136381,
+      "num": 136381,
+      "word": "和庆余年2对打的是歌手2024吧",
+      "onboard_time": 1715512343,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135976,
       "num": 135976,
       "word": "丁太升问李荣浩不教教杨丞琳吗",
       "onboard_time": 1715444239,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134353,
-      "num": 397357,
-      "word": "5121428是会被铭记的心痛",
-      "onboard_time": 1715507000,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133842,
@@ -1793,6 +1889,14 @@
       "onboard_time": 1715475437,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125086,
+      "num": 125086,
+      "word": "椰树直播间模特捂严实了",
+      "onboard_time": 1715510782,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 124913,
@@ -1953,6 +2057,14 @@
       "onboard_time": 1715487019,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 109632,
+      "num": 109632,
+      "word": "Bin 继续赢下去吧",
+      "onboard_time": 1715512402,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 108880,
