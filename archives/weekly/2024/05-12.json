@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715528071986,
+  "endTime": 1715530902232,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1651336,
+      "num": 589133,
+      "word": "妇科检查的鸭嘴钳能不能对女性更友好",
+      "onboard_time": 1715525122,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1651113,
       "num": 1651113,
       "word": "otto骂人",
@@ -153,14 +161,6 @@
       "onboard_time": 1715507539,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1282421,
-      "num": 589133,
-      "word": "妇科检查的鸭嘴钳能不能对女性更友好",
-      "onboard_time": 1715525122,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1265491,
@@ -601,6 +601,14 @@
       "onboard_time": 1715512284,
       "rank": 27,
       "category": "自然"
+    },
+    {
+      "raw_hot": 628145,
+      "num": 628145,
+      "word": "阿兰助攻",
+      "onboard_time": 1715527520,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 626302,
@@ -1235,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299773,
+      "num": 331195,
+      "word": "白桃星座",
+      "onboard_time": 1715527162,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 298838,
       "num": 209072,
       "word": "网友cos迪丽热巴",
@@ -1305,14 +1321,6 @@
       "onboard_time": 1715511622,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 279284,
-      "num": 331195,
-      "word": "白桃星座",
-      "onboard_time": 1715527162,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 275017,
@@ -1459,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238125,
+      "num": 238125,
+      "word": "孙思邈留下的速睡方",
+      "onboard_time": 1715528660,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 236033,
       "num": 236033,
       "word": "极限挑战",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1715512522,
       "rank": 19,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 235158,
+      "num": 235158,
+      "word": "潮汕偶遇鹿晗王勉",
+      "onboard_time": 1715529919,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234943,
@@ -1585,14 +1609,6 @@
       "onboard_time": 1715472257,
       "rank": 25,
       "category": "音乐,自然"
-    },
-    {
-      "raw_hot": 217864,
-      "num": 217864,
-      "word": "阿兰助攻",
-      "onboard_time": 1715527520,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 214159,
@@ -2937,6 +2953,14 @@
       "onboard_time": 1715502618,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90323,
+      "num": 90323,
+      "word": "黑执事 好歹毒的脸",
+      "onboard_time": 1715530877,
+      "rank": 48,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 90147,
