@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715535249374,
+  "endTime": 1715538263885,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3099,20 +3099,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68753,
+      "num": 60989,
+      "word": "散步是低成本的心理治疗",
+      "onboard_time": 1715533874,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63524,
       "num": 63524,
       "word": "王楚钦笑得肆意爽朗",
       "onboard_time": 1715469674,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60989,
-      "num": 60989,
-      "word": "散步是低成本的心理治疗",
-      "onboard_time": 1715533874,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 60775,
@@ -3153,6 +3153,14 @@
       "onboard_time": 1715503758,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 54357,
+      "num": 54357,
+      "word": "惠英红 我是被偏爱的",
+      "onboard_time": 1715537292,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 52057,

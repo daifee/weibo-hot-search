@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715535249374,
+  "endTime": 1715538263885,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -32611,6 +32611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68753,
+      "num": 60989,
+      "word": "散步是低成本的心理治疗",
+      "onboard_time": 1715533874,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68750,
       "num": 218800,
       "word": "今夏的第一双豆豆鞋",
@@ -32859,14 +32867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60989,
-      "num": 60989,
-      "word": "散步是低成本的心理治疗",
-      "onboard_time": 1715533874,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 60764,
       "num": 99061,
       "word": "曼联vs阿森纳",
@@ -33089,6 +33089,14 @@
       "onboard_time": 1715350460,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54357,
+      "num": 54357,
+      "word": "惠英红 我是被偏爱的",
+      "onboard_time": 1715537292,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 54351,
