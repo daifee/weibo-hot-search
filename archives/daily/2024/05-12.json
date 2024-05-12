@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715491094382,
+  "endTime": 1715492060587,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -67,12 +67,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1098738,
+      "num": 712320,
+      "word": "何炅回应歌手直播那英紧张",
+      "onboard_time": 1715489957,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1082451,
       "num": 1082451,
       "word": "512",
       "onboard_time": 1715480418,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1041283,
+      "num": 1041283,
+      "word": "歌手退一万步讲还能退一万步",
+      "onboard_time": 1715488339,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1040108,
@@ -147,12 +163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 772462,
-      "num": 533370,
-      "word": "歌手退一万步讲还能退一万步",
-      "onboard_time": 1715488339,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 777909,
+      "num": 777909,
+      "word": "上海相亲条件已经卷到看会员了",
+      "onboard_time": 1715489239,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 770678,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 753478,
-      "num": 491299,
+      "num": 550800,
       "word": "林俊杰演唱会观众大喊退票",
       "onboard_time": 1715484139,
       "rank": 20,
@@ -227,11 +243,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 664224,
-      "num": 394263,
-      "word": "何炅回应歌手直播那英紧张",
-      "onboard_time": 1715489957,
-      "rank": 13,
+      "raw_hot": 627282,
+      "num": 380789,
+      "word": "彭佳慧 老天爷我投降了",
+      "onboard_time": 1715491220,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -243,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 602183,
-      "num": 602183,
-      "word": "上海相亲条件已经卷到看会员了",
-      "onboard_time": 1715489239,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 610369,
+      "num": 610369,
+      "word": "庐山瀑布",
+      "onboard_time": 1715488398,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 600267,
@@ -417,14 +433,6 @@
       "onboard_time": 1715481317,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 394973,
-      "num": 394973,
-      "word": "庐山瀑布",
-      "onboard_time": 1715488398,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 388471,
@@ -617,6 +625,14 @@
       "onboard_time": 1715472496,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 246888,
+      "num": 213996,
+      "word": "于正说春色寄情人拍的很好",
+      "onboard_time": 1715491519,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 242686,
@@ -859,6 +875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167265,
+      "num": 167265,
+      "word": "二手玫瑰发了叶赫那拉英子",
+      "onboard_time": 1715491819,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166455,
       "num": 166455,
       "word": "冉莹颖三胎儿子姓冉不姓邹",
@@ -872,6 +896,14 @@
       "word": "希望妈妈的快乐可以与我无关",
       "onboard_time": 1715475437,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164506,
+      "num": 164506,
+      "word": "中学男生偷拍女子裙底被抓现行",
+      "onboard_time": 1715488938,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -931,8 +963,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148561,
-      "num": 148561,
+      "raw_hot": 156279,
+      "num": 156279,
+      "word": "歌手刚开始没邀请汪苏泷",
+      "onboard_time": 1715491519,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154371,
+      "num": 154371,
       "word": "花间令制片人再邀郑合惠子演仙侠剧",
       "onboard_time": 1715490979,
       "rank": 30,
@@ -945,14 +985,6 @@
       "onboard_time": 1715435481,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 147370,
-      "num": 147370,
-      "word": "中学男生偷拍女子裙底被抓现行",
-      "onboard_time": 1715488938,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147348,
@@ -1051,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131028,
+      "num": 117561,
+      "word": "阿兰出手吧",
+      "onboard_time": 1715491699,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129498,
       "num": 129498,
       "word": "世界级投资大佬西蒙斯去世",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1715480777,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126845,
+      "num": 116951,
+      "word": "怪盗基德 帅得很稳定",
+      "onboard_time": 1715489660,
+      "rank": 44,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 126072,
@@ -1179,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112103,
+      "num": 112103,
+      "word": "春游哥哥 我想我更勇敢了",
+      "onboard_time": 1715491819,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111599,
       "num": 111599,
       "word": "独行侠2比1雷霆",
@@ -1243,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105220,
+      "num": 105220,
+      "word": "为何人们越来越离不开情绪价值",
+      "onboard_time": 1715491578,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103968,
       "num": 103968,
       "word": "长相思进军Kpop",
@@ -1259,20 +1323,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 101691,
-      "num": 101691,
-      "word": "怪盗基德 帅得很稳定",
-      "onboard_time": 1715489660,
-      "rank": 44,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 100428,
       "num": 100428,
       "word": "属于妈妈的凡尔赛",
       "onboard_time": 1715485217,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99600,
+      "num": 99600,
+      "word": "春游哥哥发文悼念故友",
+      "onboard_time": 1715491938,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98542,
