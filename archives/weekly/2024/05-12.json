@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715481117020,
+  "endTime": 1715481713430,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2044607,
-      "num": 2044607,
+      "raw_hot": 2089237,
+      "num": 2089237,
       "word": "512警报",
       "onboard_time": 1715480119,
       "rank": 0,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1535916,
-      "num": 1273107,
+      "num": 1287291,
       "word": "为什么在死刑执行现场必须停一辆救护车",
       "onboard_time": 1715470395,
       "rank": 30,
@@ -59,8 +59,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1082451,
+      "num": 1082451,
+      "word": "512",
+      "onboard_time": 1715480418,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1040108,
-      "num": 257832,
+      "num": 268051,
       "word": "停训",
       "onboard_time": 1715471536,
       "rank": 20,
@@ -73,14 +81,6 @@
       "onboard_time": 1715433740,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 936864,
-      "num": 936864,
-      "word": "512",
-      "onboard_time": 1715480418,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 841482,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735054,
+      "num": 735054,
+      "word": "芍药成花店顶流",
+      "onboard_time": 1715477117,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708961,
       "num": 580071,
       "word": "高嘉朗 恳请歌手看看我",
@@ -145,14 +153,6 @@
       "onboard_time": 1715475678,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 678902,
-      "num": 678902,
-      "word": "芍药成花店顶流",
-      "onboard_time": 1715477117,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 600267,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 410010,
-      "num": 198310,
+      "num": 200935,
       "word": "看脸就知道五脏好坏",
       "onboard_time": 1715472676,
       "rank": 22,
@@ -265,6 +265,14 @@
       "onboard_time": 1715472616,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406300,
+      "num": 406300,
+      "word": "丈夫伪造100万存单被妻子拿去银行",
+      "onboard_time": 1715480657,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375277,
@@ -296,6 +304,14 @@
       "word": "张桂源 停训",
       "onboard_time": 1715472375,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 347889,
+      "num": 347889,
+      "word": "TF家族发致歉声明",
+      "onboard_time": 1715481078,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -387,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273655,
+      "num": 273655,
+      "word": "那英十年前的回旋镖",
+      "onboard_time": 1715481317,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270358,
       "num": 270358,
       "word": "汶川地震16年了",
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261521,
+      "num": 261521,
+      "word": "孙俪在婚礼上对邓超说上海话",
+      "onboard_time": 1715478558,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248163,
       "num": 248163,
       "word": "一个月腰围腿围各减10厘米",
@@ -411,20 +443,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 236214,
-      "num": 236214,
-      "word": "孙俪在婚礼上对邓超说上海话",
-      "onboard_time": 1715478558,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 235261,
-      "num": 235261,
-      "word": "TF家族发致歉声明",
+      "raw_hot": 238580,
+      "num": 178222,
+      "word": "世界公认最丑的鱼",
       "onboard_time": 1715481078,
-      "rank": 23,
-      "category": "艺人"
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 229076,
@@ -456,14 +480,6 @@
       "word": "中国的龙是loong",
       "onboard_time": 1715449754,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203348,
-      "num": 178562,
-      "word": "丈夫伪造100万存单被妻子拿去银行",
-      "onboard_time": 1715480657,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -539,8 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179343,
-      "num": 179343,
+      "raw_hot": 182266,
+      "num": 182266,
       "word": "90斤姐姐轻松硬拉100公斤",
       "onboard_time": 1715478138,
       "rank": 28,
@@ -561,14 +577,6 @@
       "onboard_time": 1715439923,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175403,
-      "num": 175403,
-      "word": "世界公认最丑的鱼",
-      "onboard_time": 1715481078,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 174565,
@@ -691,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146566,
+      "num": 179144,
+      "word": "汶川地震饲养员生死狂奔转移大熊猫",
+      "onboard_time": 1715480897,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144266,
       "num": 144266,
       "word": "给弟弟开家长会让和家长对视",
@@ -747,11 +763,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 133796,
+      "num": 133796,
+      "word": "歌手 九爷",
+      "onboard_time": 1715438661,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128671,
       "num": 128671,
       "word": "浙江全省试鸣防灾警报",
       "onboard_time": 1715480777,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128389,
+      "num": 128389,
+      "word": "16岁志愿军女兵嘴对嘴给伤员喂药",
+      "onboard_time": 1715481078,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -803,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120429,
-      "num": 120429,
-      "word": "汶川地震饲养员生死狂奔转移大熊猫",
-      "onboard_time": 1715480897,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118917,
       "num": 118917,
       "word": "平时熬的夜周末能补回来",
@@ -843,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114496,
-      "num": 114496,
-      "word": "16岁志愿军女兵嘴对嘴给伤员喂药",
-      "onboard_time": 1715481078,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114082,
       "num": 114082,
       "word": "CBA",
@@ -881,6 +897,14 @@
       "onboard_time": 1715445257,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 107799,
+      "num": 107799,
+      "word": "车企大佬关系都这么好吗",
+      "onboard_time": 1715481618,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 105415,
