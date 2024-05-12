@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715484008115,
+  "endTime": 1715484941724,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -83,20 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 952203,
+      "num": 952203,
+      "word": "丈夫伪造100万存单被妻子拿去银行",
+      "onboard_time": 1715480657,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 947854,
+      "num": 947854,
+      "word": "曾指控五月天假唱博主再发声",
+      "onboard_time": 1715483599,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 883157,
       "num": 883157,
       "word": "张杰那英唱的没那么简单",
       "onboard_time": 1715478200,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 882829,
-      "num": 882829,
-      "word": "丈夫伪造100万存单被妻子拿去银行",
-      "onboard_time": 1715480657,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 841482,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711888,
+      "num": 711888,
+      "word": "世界公认最丑的鱼",
+      "onboard_time": 1715481078,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 708961,
       "num": 580071,
       "word": "高嘉朗 恳请歌手看看我",
@@ -163,14 +179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 654598,
-      "num": 654598,
-      "word": "世界公认最丑的鱼",
-      "onboard_time": 1715481078,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 600267,
       "num": 600267,
       "word": "南通大巴车与渣土车相撞事故一女孩去世",
@@ -184,6 +192,14 @@
       "word": "女子越狱40年后落网被抓时已70岁",
       "onboard_time": 1715445378,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581137,
+      "num": 581137,
+      "word": "官方回应电费从3毛涨到6毛8",
+      "onboard_time": 1715482039,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -259,12 +275,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 457565,
+      "num": 457565,
+      "word": "汶川大地震16周年",
+      "onboard_time": 1715483418,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441158,
       "num": 441158,
       "word": "吃榴莲 补气血",
       "onboard_time": 1715434882,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 430893,
+      "num": 430893,
+      "word": "王菲和龚琳娜别打麻将啦",
+      "onboard_time": 1715484077,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 410010,
@@ -291,20 +323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 405451,
-      "num": 405451,
-      "word": "官方回应电费从3毛涨到6毛8",
-      "onboard_time": 1715482039,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402233,
       "num": 402233,
       "word": "那英十年前的回旋镖",
       "onboard_time": 1715481317,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397371,
+      "num": 267372,
+      "word": "林俊杰演唱会观众大喊退票",
+      "onboard_time": 1715484139,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 375277,
@@ -427,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 278910,
-      "num": 278910,
-      "word": "汶川大地震16周年",
-      "onboard_time": 1715483418,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 271950,
+      "num": 256936,
+      "word": "华语乐坛真没人能救救那英了吗",
+      "onboard_time": 1715483838,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 270358,
@@ -459,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257055,
-      "num": 257055,
-      "word": "曾指控五月天假唱博主再发声",
-      "onboard_time": 1715483599,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 248163,
       "num": 248163,
       "word": "一个月腰围腿围各减10厘米",
@@ -481,6 +505,14 @@
       "onboard_time": 1715414538,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222438,
+      "num": 222438,
+      "word": "江苏一名00后被终生禁驾",
+      "onboard_time": 1715483777,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219019,
@@ -499,11 +531,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208287,
+      "num": 208287,
+      "word": "范丞丞iG发文再坚持一下吧",
+      "onboard_time": 1715484917,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208190,
       "num": 679076,
       "word": "中国的龙是loong",
       "onboard_time": 1715449754,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204675,
+      "num": 204675,
+      "word": "众明星发文缅怀汶川地震16周年",
+      "onboard_time": 1715484199,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -555,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193020,
+      "num": 193020,
+      "word": "新生",
+      "onboard_time": 1715484317,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193018,
       "num": 188643,
       "word": "真实的婆婆去儿媳家的状态",
@@ -569,6 +625,14 @@
       "onboard_time": 1715433740,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190790,
+      "num": 190790,
+      "word": "看个比赛 扣两次钱",
+      "onboard_time": 1715484017,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 189054,
@@ -657,6 +721,14 @@
       "onboard_time": 1715444598,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169057,
+      "num": 609253,
+      "word": "护士喊话妈妈医院不是我家开的",
+      "onboard_time": 1715483297,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166455,
@@ -787,14 +859,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 136651,
-      "num": 136651,
-      "word": "江苏一名00后被终生禁驾",
-      "onboard_time": 1715483777,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135976,
       "num": 135976,
       "word": "丁太升问李荣浩不教教杨丞琳吗",
@@ -881,14 +945,6 @@
       "onboard_time": 1715425040,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 124108,
-      "num": 124108,
-      "word": "护士喊话妈妈医院不是我家开的",
-      "onboard_time": 1715483297,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122902,
@@ -993,14 +1049,6 @@
       "onboard_time": 1715470576,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103273,
-      "num": 103273,
-      "word": "华语乐坛真没人能救救那英了吗",
-      "onboard_time": 1715483838,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 102450,
@@ -1171,6 +1219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 33781,
+      "num": 948108,
+      "word": "世上最动听的两个字是妈妈",
+      "onboard_time": 1715484678,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28497,
       "num": 34122,
       "word": "Uzi去AL基地集训",
@@ -1204,6 +1260,9 @@
     },
     {
       "word": "#习近平主席欧洲之行#"
+    },
+    {
+      "word": "#总书记与母亲的温暖瞬间#"
     }
   ]
 }
