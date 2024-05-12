@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1715509060831,
+  "endTime": 1715510033388,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17990162,
+      "num": 17990162,
+      "word": "韩红请战歌手",
+      "onboard_time": 1715507299,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16874674,
       "num": 16874674,
       "word": "台湾花莲县海域7.3级地震",
@@ -40,14 +48,6 @@
       "word": "尼格买提穿帮",
       "onboard_time": 1707485192,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15960103,
-      "num": 15960103,
-      "word": "韩红请战歌手",
-      "onboard_time": 1715507299,
-      "rank": 0,
       "category": "综艺"
     },
     {
