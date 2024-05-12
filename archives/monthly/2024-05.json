@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715505466531,
+  "endTime": 1715506501767,
   "band_list": [
     {
       "raw_hot": 8327499,
@@ -2451,6 +2451,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 970150,
+      "num": 970150,
+      "word": "明星最爱干的副业集体倒闭",
+      "onboard_time": 1715502376,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 968451,
       "num": 417432,
       "word": "殷世航为小冰冷发声",
@@ -2788,7 +2796,7 @@
     },
     {
       "raw_hot": 892284,
-      "num": 217120,
+      "num": 252647,
       "word": "婆婆赠300万房产离婚时儿媳分60万",
       "onboard_time": 1715500758,
       "rank": 20,
@@ -3329,14 +3337,6 @@
       "onboard_time": 1714511231,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 829796,
-      "num": 829796,
-      "word": "明星最爱干的副业集体倒闭",
-      "onboard_time": 1715502376,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 829295,
@@ -5587,6 +5587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 604583,
+      "num": 249126,
+      "word": "1毫克就能致死的毒物可能在你厨房里",
+      "onboard_time": 1715503699,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 603545,
       "num": 342559,
       "word": "迪丽热巴黑色阔腿裤",
@@ -7316,7 +7324,7 @@
     },
     {
       "raw_hot": 477527,
-      "num": 217117,
+      "num": 247599,
       "word": "美国变性女撞倒男子后先亲再捅9刀",
       "onboard_time": 1715500338,
       "rank": 21,
@@ -9075,6 +9083,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 402290,
+      "num": 402290,
+      "word": "天价彩礼不断衍生出新变种",
+      "onboard_time": 1715503457,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402233,
       "num": 402233,
       "word": "那英十年前的回旋镖",
@@ -9273,6 +9289,14 @@
       "onboard_time": 1714987998,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 392355,
+      "num": 448338,
+      "word": "糯玉米会让血糖飙升",
+      "onboard_time": 1715503758,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 392169,
@@ -10137,6 +10161,14 @@
       "onboard_time": 1714570819,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360913,
+      "num": 360913,
+      "word": "张怡宁预测巴黎女乒竞争",
+      "onboard_time": 1715503818,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 360855,
@@ -11107,6 +11139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 326572,
+      "num": 326572,
+      "word": "ZICO和Jennie合作曲初一位",
+      "onboard_time": 1715505258,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 326085,
       "num": 326085,
       "word": "梁靖崑林高远男双止步8强",
@@ -11419,14 +11459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 315590,
-      "num": 448338,
-      "word": "糯玉米会让血糖飙升",
-      "onboard_time": 1715503758,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 315508,
       "num": 315508,
       "word": "淄博八大局500米走半小时",
@@ -11481,14 +11513,6 @@
       "onboard_time": 1715162961,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 313681,
-      "num": 215485,
-      "word": "1毫克就能致死的毒物可能在你厨房里",
-      "onboard_time": 1715503699,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 313418,
@@ -11577,14 +11601,6 @@
       "onboard_time": 1715344759,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310895,
-      "num": 310895,
-      "word": "天价彩礼不断衍生出新变种",
-      "onboard_time": 1715503457,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310350,
@@ -12907,6 +12923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273568,
+      "num": 273568,
+      "word": "BLG对阵T1",
+      "onboard_time": 1715498778,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 273004,
       "num": 273004,
       "word": "T1战胜G2",
@@ -13435,14 +13459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262576,
-      "num": 262576,
-      "word": "张怡宁预测巴黎女乒竞争",
-      "onboard_time": 1715503818,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262421,
       "num": 262421,
       "word": "五哈",
@@ -13793,6 +13809,14 @@
       "onboard_time": 1714949895,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254247,
+      "num": 254247,
+      "word": "人气歌谣",
+      "onboard_time": 1715504178,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 254100,
@@ -15171,6 +15195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229279,
+      "num": 229279,
+      "word": "联合国官方再报道王一博",
+      "onboard_time": 1715505858,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229147,
       "num": 229147,
       "word": "百度公关要求团队成员都下场做自媒体",
@@ -15451,6 +15483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225210,
+      "num": 162417,
+      "word": "这种水果睡不着觉可以吃",
+      "onboard_time": 1715506098,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 225139,
       "num": 225139,
       "word": "李现周雨彤喉结吻",
@@ -15699,14 +15739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220273,
-      "num": 220273,
-      "word": "ZICO和Jennie合作曲初一位",
-      "onboard_time": 1715505258,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 220271,
       "num": 220271,
       "word": "胡明轩假摔",
@@ -15737,14 +15769,6 @@
       "onboard_time": 1714735458,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219736,
-      "num": 219736,
-      "word": "人气歌谣",
-      "onboard_time": 1715504178,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 219715,
@@ -18073,14 +18097,6 @@
       "onboard_time": 1715086819,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198006,
-      "num": 159105,
-      "word": "BLG对阵T1",
-      "onboard_time": 1715498778,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 197984,
@@ -22883,6 +22899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 161914,
+      "num": 161914,
+      "word": "汶川震后生于古刹的孩子长大了",
+      "onboard_time": 1715504537,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161845,
       "num": 161845,
       "word": "县城旅游",
@@ -25851,14 +25875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140006,
-      "num": 140006,
-      "word": "汶川震后生于古刹的孩子长大了",
-      "onboard_time": 1715504537,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139933,
       "num": 139933,
       "word": "AI忽然叫我全名了",
@@ -27707,6 +27723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126089,
+      "num": 126089,
+      "word": "小猫咪大城市销量超十万",
+      "onboard_time": 1715504958,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126055,
       "num": 126055,
       "word": "学校回应男生偷拍女子裙底被现场抓包",
@@ -29443,6 +29467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111615,
+      "num": 111615,
+      "word": "王琳住院了",
+      "onboard_time": 1715506398,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111599,
       "num": 111599,
       "word": "独行侠2比1雷霆",
@@ -29737,6 +29769,14 @@
       "onboard_time": 1715165300,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108321,
+      "num": 108321,
+      "word": "IVE香港演唱会时间",
+      "onboard_time": 1715506338,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 108180,
@@ -30185,6 +30225,14 @@
       "onboard_time": 1714548738,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102157,
+      "num": 102157,
+      "word": "昆明斗南鲜花卖爆了",
+      "onboard_time": 1715506157,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102093,
@@ -30707,14 +30755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 93679,
-      "num": 93679,
-      "word": "小猫咪大城市销量超十万",
-      "onboard_time": 1715504958,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 93628,
       "num": 93628,
       "word": "TikTok告美联邦政府",
@@ -31009,6 +31049,14 @@
       "onboard_time": 1715261719,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 84490,
+      "num": 162666,
+      "word": "花海与雪山同框是什么体验",
+      "onboard_time": 1715506157,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 83948,
@@ -31449,6 +31497,14 @@
       "onboard_time": 1714938191,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71854,
+      "num": 330433,
+      "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
+      "onboard_time": 1715506217,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71771,
@@ -31985,6 +32041,14 @@
       "onboard_time": 1714485139,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56264,
+      "num": 127070,
+      "word": "字字不提妈妈句句都是母爱",
+      "onboard_time": 1715503758,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 55806,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1715506501767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 970150,
+        "num": 970150,
+        "word": "明星最爱干的副业集体倒闭",
+        "onboard_time": 1715502376,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 632857,
+        "num": 632857,
+        "word": "求婚刚好碰到火山爆发",
+        "onboard_time": 1715500277,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13937,
+        "num": 506866,
+        "word": "在布达佩斯感受中匈友谊之桥",
+        "onboard_time": 1715484199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1305918,
+        "num": 494338,
+        "word": "韩红问都在找我是吗",
+        "onboard_time": 1715501958,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1192526,
+        "num": 492153,
+        "word": "二手玫瑰发了叶赫那拉英子",
+        "onboard_time": 1715491819,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458334,
+        "num": 458334,
+        "word": "吴艳妮12秒86夺冠",
+        "onboard_time": 1715494340,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696320,
+        "num": 451966,
+        "word": "断眉ip",
+        "onboard_time": 1715497697,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427448,
+        "num": 427448,
+        "word": "9397号列车",
+        "onboard_time": 1715499078,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 779209,
+        "num": 419733,
+        "word": "韩红网速好快",
+        "onboard_time": 1715504057,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402290,
+        "num": 402290,
+        "word": "天价彩礼不断衍生出新变种",
+        "onboard_time": 1715503457,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552817,
+        "num": 400483,
+        "word": "歌手第二期网传歌单",
+        "onboard_time": 1715498957,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392355,
+        "num": 392355,
+        "word": "糯玉米会让血糖飙升",
+        "onboard_time": 1715503758,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 429412,
+        "num": 389552,
+        "word": "亚当方否认上歌手",
+        "onboard_time": 1715494398,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386582,
+        "num": 386582,
+        "word": "男人肚子越来越大的5个原因",
+        "onboard_time": 1715496738,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 360913,
+        "num": 360913,
+        "word": "张怡宁预测巴黎女乒竞争",
+        "onboard_time": 1715503818,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71854,
+        "num": 330433,
+        "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
+        "onboard_time": 1715506217,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326572,
+        "num": 326572,
+        "word": "ZICO和Jennie合作曲初一位",
+        "onboard_time": 1715505258,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304854,
+        "num": 304854,
+        "word": "韩国博主在法院前直播时被杀",
+        "onboard_time": 1715496798,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273568,
+        "num": 273568,
+        "word": "BLG对阵T1",
+        "onboard_time": 1715498778,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 254247,
+        "num": 254247,
+        "word": "人气歌谣",
+        "onboard_time": 1715504178,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 832863,
+        "num": 252647,
+        "word": "婆婆赠300万房产离婚时儿媳分60万",
+        "onboard_time": 1715500758,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604583,
+        "num": 249126,
+        "word": "1毫克就能致死的毒物可能在你厨房里",
+        "onboard_time": 1715503699,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 373321,
+        "num": 247599,
+        "word": "美国变性女撞倒男子后先亲再捅9刀",
+        "onboard_time": 1715500338,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243368,
+        "num": 243368,
+        "word": "患者临近死亡器官协调员却要与家属谈器官捐献",
+        "onboard_time": 1715499979,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229279,
+        "num": 229279,
+        "word": "联合国官方再报道王一博",
+        "onboard_time": 1715505858,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200750,
+        "num": 200750,
+        "word": "张怡宁点赞孙颖莎王曼昱",
+        "onboard_time": 1715496978,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183246,
+        "num": 183246,
+        "word": "姜汉娜拍的IU",
+        "onboard_time": 1715500877,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175107,
+        "num": 175107,
+        "word": "歌手国家队名场面",
+        "onboard_time": 1715492718,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166413,
+        "num": 166413,
+        "word": "母亲节礼物直接转账这届年轻人很实在",
+        "onboard_time": 1715492957,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84490,
+        "num": 162666,
+        "word": "花海与雪山同框是什么体验",
+        "onboard_time": 1715506157,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 268935,
+        "num": 162477,
+        "word": "林俊杰演唱会观众大喊退票",
+        "onboard_time": 1715484139,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225210,
+        "num": 162417,
+        "word": "这种水果睡不着觉可以吃",
+        "onboard_time": 1715506098,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161914,
+        "num": 161914,
+        "word": "汶川震后生于古刹的孩子长大了",
+        "onboard_time": 1715504537,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152473,
+        "num": 152473,
+        "word": "人类幼崽打猫猫",
+        "onboard_time": 1715502076,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136424,
+        "num": 136424,
+        "word": "妈宝女",
+        "onboard_time": 1715496258,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134882,
+        "num": 134882,
+        "word": "欧阳娜娜伯克利毕业",
+        "onboard_time": 1715489298,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131506,
+        "num": 131506,
+        "word": "BLACKPINK团队拍摄工作",
+        "onboard_time": 1715497758,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128096,
+        "num": 128096,
+        "word": "黑执事 还我老爸盛世美颜",
+        "onboard_time": 1715500338,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 56264,
+        "num": 127070,
+        "word": "字字不提妈妈句句都是母爱",
+        "onboard_time": 1715503758,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126089,
+        "num": 126089,
+        "word": "小猫咪大城市销量超十万",
+        "onboard_time": 1715504958,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119992,
+        "num": 119992,
+        "word": "母亲节",
+        "onboard_time": 1715444300,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118161,
+        "num": 118161,
+        "word": "爸爸当家3",
+        "onboard_time": 1715501298,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115128,
+        "num": 115128,
+        "word": "张予曦晒妈妈跳舞视频",
+        "onboard_time": 1715500637,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112288,
+        "num": 112288,
+        "word": "江苏南通多地抢修红绿灯",
+        "onboard_time": 1715496139,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111615,
+        "num": 111615,
+        "word": "王琳住院了",
+        "onboard_time": 1715506398,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108321,
+        "num": 108321,
+        "word": "IVE香港演唱会时间",
+        "onboard_time": 1715506338,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102785,
+        "num": 102785,
+        "word": "汶川地震时一位母亲留下的短信",
+        "onboard_time": 1715503999,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102157,
+        "num": 102157,
+        "word": "昆明斗南鲜花卖爆了",
+        "onboard_time": 1715506157,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99345,
+        "num": 99345,
+        "word": "金智媛机场图",
+        "onboard_time": 1715488938,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99318,
+        "num": 99318,
+        "word": "于正说春色寄情人拍的很好",
+        "onboard_time": 1715491519,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向巴拿马当选总统致贺电#"
+    }
+  }
+}
