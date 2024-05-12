@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715555918848,
+  "endTime": 1715556863195,
   "band_list": [
     {
       "raw_hot": 1809149,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 860049,
-      "num": 368409,
+      "num": 472799,
       "word": "惠英红 战长沙",
       "onboard_time": 1715524522,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 729799,
+      "num": 339632,
+      "word": "女子收滴滴7年前7分钟路程天价账单",
+      "onboard_time": 1715550191,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710636,
@@ -65,14 +73,6 @@
       "onboard_time": 1715521041,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 682781,
-      "num": 272080,
-      "word": "女子收滴滴7年前7分钟路程天价账单",
-      "onboard_time": 1715550191,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 628145,
@@ -131,6 +131,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417996,
+      "num": 417996,
+      "word": "孙思邈留下的速睡方",
+      "onboard_time": 1715528660,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 416124,
+      "num": 335742,
+      "word": "男子与16岁女孩相约开房涉嫌强奸二审改判",
+      "onboard_time": 1715520442,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407615,
       "num": 407615,
       "word": "全球首例猪肾移植患者死亡",
@@ -147,11 +163,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 386775,
-      "num": 262619,
-      "word": "男子与16岁女孩相约开房涉嫌强奸二审改判",
-      "onboard_time": 1715520442,
-      "rank": 19,
+      "raw_hot": 371172,
+      "num": 371172,
+      "word": "中国南水北调原副总经济师樊新中被查",
+      "onboard_time": 1715551572,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -163,12 +179,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 350643,
-      "num": 350643,
-      "word": "孙思邈留下的速睡方",
-      "onboard_time": 1715528660,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 352052,
+      "num": 352052,
+      "word": "南通女孩妈妈想找事故现场救援者",
+      "onboard_time": 1715532676,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346787,
+      "num": 346787,
+      "word": "明星最爱干的副业集体倒闭",
+      "onboard_time": 1715502376,
+      "rank": 35,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 344598,
@@ -179,32 +203,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320369,
-      "num": 320369,
-      "word": "南通女孩妈妈想找事故现场救援者",
-      "onboard_time": 1715532676,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309293,
-      "num": 309293,
-      "word": "中国南水北调原副总经济师樊新中被查",
-      "onboard_time": 1715551572,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305387,
-      "num": 305387,
-      "word": "明星最爱干的副业集体倒闭",
-      "onboard_time": 1715502376,
-      "rank": 35,
-      "category": "艺人,财经"
+      "raw_hot": 330622,
+      "num": 330622,
+      "word": "Alin报名歌手",
+      "onboard_time": 1715556436,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 303078,
-      "num": 244399,
+      "num": 286533,
       "word": "原来我们都错怪费可了",
       "onboard_time": 1715531299,
       "rank": 43,
@@ -251,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 264913,
+      "num": 211828,
+      "word": "惠英红 我是被偏爱的",
+      "onboard_time": 1715537292,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247115,
       "num": 240140,
       "word": "潮汕偶遇鹿晗王勉",
@@ -275,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242182,
+      "num": 242182,
+      "word": "普京任命绍伊古为俄安全会议秘书",
+      "onboard_time": 1715555835,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 221094,
       "num": 221094,
       "word": "肖战机场",
@@ -283,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211042,
-      "num": 211042,
-      "word": "惠英红 我是被偏爱的",
-      "onboard_time": 1715537292,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 214940,
+      "num": 214940,
+      "word": "otto被封",
+      "onboard_time": 1715555957,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 204071,
@@ -305,6 +329,22 @@
       "onboard_time": 1715525242,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173214,
+      "num": 173214,
+      "word": "女子挂P挡开不动车致堵车被罚还不服",
+      "onboard_time": 1715555294,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154809,
+      "num": 154809,
+      "word": "曼联0比1阿森纳",
+      "onboard_time": 1715555655,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 154148,
@@ -329,6 +369,14 @@
       "onboard_time": 1715513182,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123351,
+      "num": 123351,
+      "word": "五旬老太力挺五旬老太",
+      "onboard_time": 1715511443,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 119831,
@@ -363,6 +411,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 113682,
+      "num": 113682,
+      "word": "李承铉被错认为女士",
+      "onboard_time": 1715554453,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112366,
       "num": 112366,
       "word": "EDG夺冠",
@@ -393,14 +449,6 @@
       "onboard_time": 1715500758,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104915,
-      "num": 100907,
-      "word": "五旬老太力挺五旬老太",
-      "onboard_time": 1715511443,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 100102,
@@ -443,36 +491,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86352,
-      "num": 86352,
-      "word": "李承铉被错认为女士",
-      "onboard_time": 1715554453,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 80135,
-      "num": 80135,
-      "word": "曼联0比1阿森纳",
-      "onboard_time": 1715555655,
-      "rank": 30,
+      "raw_hot": 84588,
+      "num": 84588,
+      "word": "老鹰抽中状元签",
+      "onboard_time": 1715556375,
+      "rank": 36,
       "category": "体育"
     },
     {
       "raw_hot": 80065,
-      "num": 76089,
+      "num": 78857,
       "word": "夜尿次数变多警惕肾脏疾病",
       "onboard_time": 1715543230,
       "rank": 24,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 69020,
-      "num": 69020,
-      "word": "女子挂P挡开不动车致堵车被罚还不服",
-      "onboard_time": 1715555294,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 78342,
+      "num": 78342,
+      "word": "马伊琍拍我的阿勒泰中途补拍繁花",
+      "onboard_time": 1715556675,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 68753,
@@ -499,20 +539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60650,
+      "num": 55756,
+      "word": "常思思 若有需召必来",
+      "onboard_time": 1715528060,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53466,
       "num": 372298,
       "word": "一朵最娇艳的花送给最爱的母亲",
       "onboard_time": 1715518580,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52074,
-      "num": 52074,
-      "word": "普京任命绍伊古为俄安全会议秘书",
-      "onboard_time": 1715555835,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 49449,
@@ -523,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47088,
-      "num": 50846,
-      "word": "常思思 若有需召必来",
-      "onboard_time": 1715528060,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 43992,
+      "num": 345380,
+      "word": "妈妈带罕见病儿子走过100个城市",
+      "onboard_time": 1715555415,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38496,
@@ -537,14 +577,6 @@
       "onboard_time": 1715491819,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33648,
-      "num": 301691,
-      "word": "妈妈带罕见病儿子走过100个城市",
-      "onboard_time": 1715555415,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24668,
