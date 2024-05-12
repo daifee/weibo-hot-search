@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715542509411,
+  "endTime": 1715545143504,
   "band_list": [
     {
       "raw_hot": 1809149,
@@ -465,6 +465,14 @@
       "onboard_time": 1715528060,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35382,
+      "num": 26055,
+      "word": "夜尿次数变多警惕肾脏疾病",
+      "onboard_time": 1715543230,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34853,
