@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1715506501767,
+  "endTime": 1715509060831,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -40,6 +40,14 @@
       "word": "尼格买提穿帮",
       "onboard_time": 1707485192,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15960103,
+      "num": 15960103,
+      "word": "韩红请战歌手",
+      "onboard_time": 1715507299,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707798036,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2896872,
-      "num": 2896872,
-      "word": "明年起连续5年没有年三十",
-      "onboard_time": 1704848371,
-      "rank": 4,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,7 +1,15 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715506501767,
+  "endTime": 1715509060831,
   "band_list": [
+    {
+      "raw_hot": 15960103,
+      "num": 15960103,
+      "word": "韩红请战歌手",
+      "onboard_time": 1715507299,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2470906,
       "num": 2470906,
@@ -67,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1297133,
+      "num": 636658,
+      "word": "二手玫瑰超绝精神状态",
+      "onboard_time": 1715507539,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1265491,
       "num": 477537,
       "word": "亚当方否认上歌手",
@@ -105,6 +121,14 @@
       "onboard_time": 1715489957,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1097716,
+      "num": 389871,
+      "word": "王琳住院了",
+      "onboard_time": 1715506398,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1093670,
@@ -163,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 923595,
+      "num": 271570,
+      "word": "1毫克就能致死的毒物可能在你厨房里",
+      "onboard_time": 1715503699,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 917569,
       "num": 450063,
       "word": "华语乐坛真没人能救救那英了吗",
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 892284,
-      "num": 252647,
+      "num": 271012,
       "word": "婆婆赠300万房产离婚时儿媳分60万",
       "onboard_time": 1715500758,
       "rank": 20,
@@ -387,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 604583,
-      "num": 249126,
-      "word": "1毫克就能致死的毒物可能在你厨房里",
-      "onboard_time": 1715503699,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 600267,
       "num": 600267,
       "word": "南通大巴车与渣土车相撞事故一女孩去世",
@@ -417,6 +441,14 @@
       "onboard_time": 1715482039,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563552,
+      "num": 563552,
+      "word": "BLG战胜T1",
+      "onboard_time": 1715507299,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 560464,
@@ -499,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 494166,
+      "num": 258640,
+      "word": "我是中国歌手韩红",
+      "onboard_time": 1715508380,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478124,
       "num": 478124,
       "word": "班级成绩第一老师请全班吃烤全羊",
@@ -539,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447999,
+      "num": 378881,
+      "word": "断眉和A妹IP在湖南",
+      "onboard_time": 1715508921,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442451,
       "num": 355998,
       "word": "BLACKPINK团队拍摄工作",
@@ -568,6 +616,14 @@
       "word": "母亲节礼物直接转账这届年轻人很实在",
       "onboard_time": 1715492957,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414262,
+      "num": 414262,
+      "word": "天价彩礼不断衍生出新变种",
+      "onboard_time": 1715503457,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -603,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 402290,
-      "num": 402290,
-      "word": "天价彩礼不断衍生出新变种",
-      "onboard_time": 1715503457,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402233,
       "num": 402233,
       "word": "那英十年前的回旋镖",
@@ -635,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387203,
+      "num": 387203,
+      "word": "犬夜叉 杀生丸美貌遗传",
+      "onboard_time": 1715506639,
+      "rank": 13,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 381283,
       "num": 222872,
       "word": "歌手国家队名场面",
@@ -657,6 +713,14 @@
       "onboard_time": 1715442139,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362739,
+      "num": 362739,
+      "word": "BLG晋级MSI胜者组决赛",
+      "onboard_time": 1715508921,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 360913,
@@ -827,11 +891,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278170,
+      "num": 278170,
+      "word": "这种水果睡不着觉可以吃",
+      "onboard_time": 1715506098,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 273568,
       "num": 273568,
       "word": "BLG对阵T1",
       "onboard_time": 1715498778,
       "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 271761,
+      "num": 271761,
+      "word": "elk和on比心",
+      "onboard_time": 1715508921,
+      "rank": 19,
       "category": "电竞"
     },
     {
@@ -859,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261996,
+      "num": 261996,
+      "word": "歌手2024导演不是洪涛",
+      "onboard_time": 1715508500,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261521,
       "num": 261521,
       "word": "孙俪在婚礼上对邓超说上海话",
@@ -873,6 +961,14 @@
       "onboard_time": 1715504178,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 254005,
+      "num": 254005,
+      "word": "联合国官方再报道王一博",
+      "onboard_time": 1715505858,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 248163,
@@ -907,19 +1003,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230880,
+      "num": 230880,
+      "word": "IVE香港演唱会时间",
+      "onboard_time": 1715506338,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229727,
       "num": 207230,
       "word": "一顿火锅 对行业的警示作用",
       "onboard_time": 1715486958,
       "rank": 36,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 229279,
-      "num": 229279,
-      "word": "联合国官方再报道王一博",
-      "onboard_time": 1715505858,
-      "rank": 24,
       "category": "电影"
     },
     {
@@ -929,14 +1025,6 @@
       "onboard_time": 1715414538,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225210,
-      "num": 162417,
-      "word": "这种水果睡不着觉可以吃",
-      "onboard_time": 1715506098,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 222438,
@@ -971,6 +1059,14 @@
       "category": "音乐,自然"
     },
     {
+      "raw_hot": 216444,
+      "num": 216444,
+      "word": "东极岛",
+      "onboard_time": 1715507238,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214159,
       "num": 214159,
       "word": "有县城男方娶妻成本或上百万元",
@@ -993,6 +1089,22 @@
       "onboard_time": 1715449754,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206554,
+      "num": 393912,
+      "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
+      "onboard_time": 1715506217,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204984,
+      "num": 204984,
+      "word": "极限挑战",
+      "onboard_time": 1715507238,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 201660,
@@ -1020,7 +1132,7 @@
     },
     {
       "raw_hot": 197650,
-      "num": 158611,
+      "num": 184339,
       "word": "Bin的vn",
       "onboard_time": 1715498717,
       "rank": 32,
@@ -1201,6 +1313,14 @@
       "onboard_time": 1715475917,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170024,
+      "num": 170024,
+      "word": "T1跌入败者组",
+      "onboard_time": 1715508440,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 169362,
@@ -1411,6 +1531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146739,
+      "num": 146739,
+      "word": "范可新 奥运冠军就赢到头了吗",
+      "onboard_time": 1715508921,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145033,
       "num": 145033,
       "word": "草莓音乐节大战格莱美",
@@ -1440,6 +1568,14 @@
       "word": "海来阿木唱功",
       "onboard_time": 1715494519,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142781,
+      "num": 142781,
+      "word": "李明德锦超接不住纪凌尘的戏",
+      "onboard_time": 1715508320,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1547,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129900,
+      "num": 129900,
+      "word": "我的阿勒泰",
+      "onboard_time": 1715506098,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129498,
       "num": 129498,
       "word": "世界级投资大佬西蒙斯去世",
@@ -1627,6 +1771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124406,
+      "num": 397357,
+      "word": "5121428是会被铭记的心痛",
+      "onboard_time": 1715507000,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124356,
       "num": 124356,
       "word": "爸爸当家3",
@@ -1683,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116344,
+      "num": 116344,
+      "word": "燃起来了",
+      "onboard_time": 1715509042,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116079,
       "num": 116079,
       "word": "郑钦文晋级",
@@ -1713,14 +1873,6 @@
       "onboard_time": 1715498237,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111615,
-      "num": 111615,
-      "word": "王琳住院了",
-      "onboard_time": 1715506398,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 111599,
@@ -1769,14 +1921,6 @@
       "onboard_time": 1715487739,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108321,
-      "num": 108321,
-      "word": "IVE香港演唱会时间",
-      "onboard_time": 1715506338,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 107807,
@@ -2027,14 +2171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71854,
-      "num": 330433,
-      "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
-      "onboard_time": 1715506217,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71068,
       "num": 94925,
       "word": "陈楚生弹壳合唱醉",
@@ -2081,6 +2217,14 @@
       "onboard_time": 1715469674,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62087,
+      "num": 684500,
+      "word": "我国成功发射试验二十三号卫星",
+      "onboard_time": 1715507838,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60775,
