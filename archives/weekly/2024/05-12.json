@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715495032528,
+  "endTime": 1715495747769,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1734391,
-      "num": 484384,
+      "raw_hot": 1763556,
+      "num": 670711,
       "word": "二手玫瑰发了叶赫那拉英子",
       "onboard_time": 1715491819,
       "rank": 30,
@@ -56,6 +56,14 @@
       "word": "断眉 歌手",
       "onboard_time": 1715475857,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1265491,
+      "num": 389922,
+      "word": "亚当方否认上歌手",
+      "onboard_time": 1715494398,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 862332,
+      "num": 862332,
+      "word": "吴艳妮12秒86夺冠",
+      "onboard_time": 1715494340,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 860546,
       "num": 380789,
       "word": "彭佳慧 老天爷我投降了",
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761917,
+      "num": 355758,
+      "word": "歌手刚开始没邀请汪苏泷",
+      "onboard_time": 1715491519,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 755973,
       "num": 755973,
       "word": "又一种新冠新毒株突袭多国",
@@ -251,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 704354,
-      "num": 300487,
-      "word": "歌手刚开始没邀请汪苏泷",
-      "onboard_time": 1715491519,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 682344,
       "num": 682344,
       "word": "林俊杰别扫地了先支援歌手吧",
@@ -273,14 +289,6 @@
       "onboard_time": 1715488398,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 650565,
-      "num": 298182,
-      "word": "亚当方否认上歌手",
-      "onboard_time": 1715494398,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 617156,
@@ -395,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464455,
-      "num": 294051,
-      "word": "吴艳妮12秒86夺冠",
-      "onboard_time": 1715494340,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 463921,
       "num": 463921,
       "word": "上海文旅局答疑五月天演唱会",
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 381283,
-      "num": 171950,
+      "num": 174137,
       "word": "歌手国家队名场面",
       "onboard_time": 1715492718,
       "rank": 21,
@@ -555,6 +555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336925,
+      "num": 174047,
+      "word": "腾格尔方声明",
+      "onboard_time": 1715494099,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 335071,
+      "num": 335071,
+      "word": "游客模仿危险网红悬崖照吓到腿抖",
+      "onboard_time": 1715493258,
+      "rank": 7,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 332648,
       "num": 304197,
       "word": "她的小梨涡",
@@ -585,14 +601,6 @@
       "onboard_time": 1715447536,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 303585,
-      "num": 303585,
-      "word": "游客模仿危险网红悬崖照吓到腿抖",
-      "onboard_time": 1715493258,
-      "rank": 7,
-      "category": "旅游"
     },
     {
       "raw_hot": 297482,
@@ -635,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283144,
-      "num": 160908,
-      "word": "腾格尔方声明",
-      "onboard_time": 1715494099,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 270358,
       "num": 270358,
       "word": "汶川地震16年了",
@@ -675,8 +675,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256650,
-      "num": 163075,
+      "raw_hot": 259955,
+      "num": 173687,
       "word": "母亲节礼物直接转账这届年轻人很实在",
       "onboard_time": 1715492957,
       "rank": 24,
@@ -907,6 +907,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178756,
+      "num": 173323,
+      "word": "刘宇宁起名迪丽热巴",
+      "onboard_time": 1715495657,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177987,
+      "num": 177987,
+      "word": "G2战胜PSG",
+      "onboard_time": 1715495418,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177109,
       "num": 177109,
       "word": "WTT太原",
@@ -955,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168677,
+      "num": 168677,
+      "word": "歌手玩梗",
+      "onboard_time": 1715495299,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166455,
       "num": 166455,
       "word": "冉莹颖三胎儿子姓冉不姓邹",
@@ -977,6 +1001,14 @@
       "onboard_time": 1715450174,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163994,
+      "num": 163994,
+      "word": "结婚和生娃并非成熟的标志",
+      "onboard_time": 1715493680,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 163242,
@@ -1011,6 +1043,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159283,
+      "num": 159283,
+      "word": "春游哥哥 我想我更勇敢了",
+      "onboard_time": 1715491819,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158346,
+      "num": 169002,
+      "word": "妈妈是我和死神之间的一堵墙",
+      "onboard_time": 1715493918,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157764,
       "num": 157764,
       "word": "美依礼芽跳了fate",
@@ -1027,20 +1075,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155023,
-      "num": 155023,
-      "word": "妈妈是我和死神之间的一堵墙",
-      "onboard_time": 1715493918,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 154371,
       "num": 154371,
       "word": "花间令制片人再邀郑合惠子演仙侠剧",
       "onboard_time": 1715490979,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148203,
+      "num": 148203,
+      "word": "老公被派去国外工作宝妈该一起去吗",
+      "onboard_time": 1715493438,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 147879,
@@ -1067,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147328,
-      "num": 147328,
-      "word": "老公被派去国外工作宝妈该一起去吗",
-      "onboard_time": 1715493438,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146842,
       "num": 146842,
       "word": "宋亚轩表情包",
@@ -1088,6 +1128,14 @@
       "word": "草莓音乐节大战格莱美",
       "onboard_time": 1715490078,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144830,
+      "num": 144830,
+      "word": "韩红老师别玩了",
+      "onboard_time": 1715495119,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1105,14 +1153,6 @@
       "onboard_time": 1715494519,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143211,
-      "num": 143211,
-      "word": "春游哥哥 我想我更勇敢了",
-      "onboard_time": 1715491819,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141986,
@@ -1209,14 +1249,6 @@
       "onboard_time": 1715482877,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129197,
-      "num": 129197,
-      "word": "结婚和生娃并非成熟的标志",
-      "onboard_time": 1715493680,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 128878,
@@ -1339,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114280,
+      "num": 114280,
+      "word": "那英说下周状态会更好",
+      "onboard_time": 1715495299,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114082,
       "num": 114082,
       "word": "CBA",
@@ -1424,6 +1464,14 @@
       "word": "何炅吴昕新综艺",
       "onboard_time": 1715453952,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104123,
+      "num": 104123,
+      "word": "洪涛",
+      "onboard_time": 1715495720,
+      "rank": 49,
       "category": "综艺"
     },
     {
