@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715492060587,
+  "endTime": 1715495032528,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -25,6 +25,14 @@
       "onboard_time": 1715444300,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1734391,
+      "num": 484384,
+      "word": "二手玫瑰发了叶赫那拉英子",
+      "onboard_time": 1715491819,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1535916,
@@ -128,6 +136,14 @@
       "word": "张杰那英唱的没那么简单",
       "onboard_time": 1715478200,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 860546,
+      "num": 380789,
+      "word": "彭佳慧 老天爷我投降了",
+      "onboard_time": 1715491220,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -235,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 704354,
+      "num": 300487,
+      "word": "歌手刚开始没邀请汪苏泷",
+      "onboard_time": 1715491519,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 682344,
       "num": 682344,
       "word": "林俊杰别扫地了先支援歌手吧",
@@ -243,11 +267,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 627282,
-      "num": 380789,
-      "word": "彭佳慧 老天爷我投降了",
-      "onboard_time": 1715491220,
-      "rank": 12,
+      "raw_hot": 667854,
+      "num": 667854,
+      "word": "庐山瀑布",
+      "onboard_time": 1715488398,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 650565,
+      "num": 298182,
+      "word": "亚当方否认上歌手",
+      "onboard_time": 1715494398,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -257,14 +289,6 @@
       "onboard_time": 1715489298,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 610369,
-      "num": 610369,
-      "word": "庐山瀑布",
-      "onboard_time": 1715488398,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 600267,
@@ -371,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464455,
+      "num": 294051,
+      "word": "吴艳妮12秒86夺冠",
+      "onboard_time": 1715494340,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463921,
       "num": 463921,
       "word": "上海文旅局答疑五月天演唱会",
@@ -439,6 +471,14 @@
       "num": 279541,
       "word": "金莎李菲儿0片约",
       "onboard_time": 1715485818,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 381283,
+      "num": 171950,
+      "word": "歌手国家队名场面",
+      "onboard_time": 1715492718,
       "rank": 21,
       "category": "综艺"
     },
@@ -547,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 303585,
+      "num": 303585,
+      "word": "游客模仿危险网红悬崖照吓到腿抖",
+      "onboard_time": 1715493258,
+      "rank": 7,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 297482,
       "num": 254185,
       "word": "患癌老人乘机遭拒载次日去世其子否认不孝",
@@ -587,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283144,
+      "num": 160908,
+      "word": "腾格尔方声明",
+      "onboard_time": 1715494099,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 270358,
       "num": 270358,
       "word": "汶川地震16年了",
@@ -617,6 +673,14 @@
       "onboard_time": 1715478558,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256650,
+      "num": 163075,
+      "word": "母亲节礼物直接转账这届年轻人很实在",
+      "onboard_time": 1715492957,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248163,
@@ -739,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193708,
+      "num": 193708,
+      "word": "中学男生偷拍女子裙底被抓现行",
+      "onboard_time": 1715488938,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193299,
       "num": 193299,
       "word": "二手玫瑰 允许部分艺术家先富起来",
@@ -785,6 +857,14 @@
       "onboard_time": 1715484017,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189571,
+      "num": 156383,
+      "word": "纪凌尘问答案之书能不能成为影帝",
+      "onboard_time": 1715492838,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 189054,
@@ -875,14 +955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 167265,
-      "num": 167265,
-      "word": "二手玫瑰发了叶赫那拉英子",
-      "onboard_time": 1715491819,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166455,
       "num": 166455,
       "word": "冉莹颖三胎儿子姓冉不姓邹",
@@ -896,14 +968,6 @@
       "word": "希望妈妈的快乐可以与我无关",
       "onboard_time": 1715475437,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164506,
-      "num": 164506,
-      "word": "中学男生偷拍女子裙底被抓现行",
-      "onboard_time": 1715488938,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -963,12 +1027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156279,
-      "num": 156279,
-      "word": "歌手刚开始没邀请汪苏泷",
-      "onboard_time": 1715491519,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 155023,
+      "num": 155023,
+      "word": "妈妈是我和死神之间的一堵墙",
+      "onboard_time": 1715493918,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 154371,
@@ -977,6 +1041,14 @@
       "onboard_time": 1715490979,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147879,
+      "num": 147879,
+      "word": "大麦回应林俊杰演唱会观众喊退票",
+      "onboard_time": 1715494460,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 147845,
@@ -993,6 +1065,14 @@
       "onboard_time": 1715474357,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147328,
+      "num": 147328,
+      "word": "老公被派去国外工作宝妈该一起去吗",
+      "onboard_time": 1715493438,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 146842,
@@ -1019,6 +1099,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143788,
+      "num": 143788,
+      "word": "海来阿木唱功",
+      "onboard_time": 1715494519,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143211,
+      "num": 143211,
+      "word": "春游哥哥 我想我更勇敢了",
+      "onboard_time": 1715491819,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141986,
       "num": 141986,
       "word": "白夜追凶2",
@@ -1033,6 +1129,14 @@
       "onboard_time": 1715421017,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139323,
+      "num": 139323,
+      "word": "五哈",
+      "onboard_time": 1715493739,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 139257,
@@ -1083,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132244,
+      "num": 111827,
+      "word": "那英看二手玫瑰舞台reaction",
+      "onboard_time": 1715494340,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131028,
       "num": 117561,
       "word": "阿兰出手吧",
@@ -1097,6 +1209,14 @@
       "onboard_time": 1715482877,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129197,
+      "num": 129197,
+      "word": "结婚和生娃并非成熟的标志",
+      "onboard_time": 1715493680,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 128878,
@@ -1227,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112103,
-      "num": 112103,
-      "word": "春游哥哥 我想我更勇敢了",
-      "onboard_time": 1715491819,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111599,
       "num": 111599,
       "word": "独行侠2比1雷霆",
@@ -1249,6 +1361,14 @@
       "onboard_time": 1715450893,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111163,
+      "num": 111163,
+      "word": "为何人们越来越离不开情绪价值",
+      "onboard_time": 1715491578,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 110954,
@@ -1291,20 +1411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106552,
+      "num": 106552,
+      "word": "狗妈妈得意的表情",
+      "onboard_time": 1715492299,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105415,
       "num": 105415,
       "word": "何炅吴昕新综艺",
       "onboard_time": 1715453952,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105220,
-      "num": 105220,
-      "word": "为何人们越来越离不开情绪价值",
-      "onboard_time": 1715491578,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 103968,
@@ -1403,20 +1523,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76782,
+      "num": 948108,
+      "word": "世上最动听的两个字是妈妈",
+      "onboard_time": 1715484678,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76451,
       "num": 76451,
       "word": "陈梦大满贯双冠",
       "onboard_time": 1715491037,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76120,
-      "num": 948108,
-      "word": "世上最动听的两个字是妈妈",
-      "onboard_time": 1715484678,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71068,
