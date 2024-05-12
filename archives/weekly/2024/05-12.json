@@ -1,12 +1,20 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715478145413,
+  "endTime": 1715481117020,
   "band_list": [
     {
       "raw_hot": 2470906,
       "num": 2470906,
       "word": "南通车祸事故原因初步查明",
       "onboard_time": 1715440581,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2044607,
+      "num": 2044607,
+      "word": "512警报",
+      "onboard_time": 1715480119,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -20,11 +28,19 @@
     },
     {
       "raw_hot": 1535916,
-      "num": 734003,
+      "num": 1273107,
       "word": "为什么在死刑执行现场必须停一辆救护车",
       "onboard_time": 1715470395,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1439767,
+      "num": 1439767,
+      "word": "断眉 歌手",
+      "onboard_time": 1715475857,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1131050,
@@ -32,14 +48,6 @@
       "word": "歌手踢馆",
       "onboard_time": 1715438541,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1127099,
-      "num": 631485,
-      "word": "断眉 歌手",
-      "onboard_time": 1715475857,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1040108,
-      "num": 199610,
+      "num": 257832,
       "word": "停训",
       "onboard_time": 1715471536,
       "rank": 20,
@@ -67,12 +75,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 936864,
+      "num": 936864,
+      "word": "512",
+      "onboard_time": 1715480418,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 841482,
-      "num": 343905,
+      "num": 655536,
       "word": "为什么舅舅的地位这么高",
       "onboard_time": 1715472496,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 824010,
+      "num": 824010,
+      "word": "张杰那英唱的没那么简单",
+      "onboard_time": 1715478200,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 821656,
@@ -115,12 +139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 659199,
-      "num": 469644,
+      "raw_hot": 682344,
+      "num": 682344,
       "word": "林俊杰别扫地了先支援歌手吧",
       "onboard_time": 1715475678,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 678902,
+      "num": 678902,
+      "word": "芍药成花店顶流",
+      "onboard_time": 1715477117,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600267,
@@ -195,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463921,
+      "num": 463921,
+      "word": "上海文旅局答疑五月天演唱会",
+      "onboard_time": 1715478737,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 441158,
       "num": 441158,
       "word": "吃榴莲 补气血",
@@ -209,6 +249,14 @@
       "onboard_time": 1715472676,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 408914,
+      "num": 408914,
+      "word": "杭州防空警报",
+      "onboard_time": 1715480119,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406702,
@@ -316,7 +364,7 @@
     },
     {
       "raw_hot": 297482,
-      "num": 196753,
+      "num": 254185,
       "word": "患癌老人乘机遭拒载次日去世其子否认不孝",
       "onboard_time": 1715474536,
       "rank": 24,
@@ -337,14 +385,6 @@
       "onboard_time": 1715433801,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277306,
-      "num": 277306,
-      "word": "芍药成花店顶流",
-      "onboard_time": 1715477117,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270358,
@@ -371,6 +411,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 236214,
+      "num": 236214,
+      "word": "孙俪在婚礼上对邓超说上海话",
+      "onboard_time": 1715478558,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235261,
+      "num": 235261,
+      "word": "TF家族发致歉声明",
+      "onboard_time": 1715481078,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229076,
       "num": 229076,
       "word": "袁娅维在写假条了",
@@ -393,6 +449,22 @@
       "onboard_time": 1715433559,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208190,
+      "num": 679076,
+      "word": "中国的龙是loong",
+      "onboard_time": 1715449754,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203348,
+      "num": 178562,
+      "word": "丈夫伪造100万存单被妻子拿去银行",
+      "onboard_time": 1715480657,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198732,
@@ -443,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192039,
+      "num": 192039,
+      "word": "网友喊话袁娅维支援歌手",
+      "onboard_time": 1715433740,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189054,
       "num": 189054,
       "word": "向佐演变态",
@@ -459,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184185,
-      "num": 356961,
-      "word": "中国的龙是loong",
-      "onboard_time": 1715449754,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 179343,
+      "num": 179343,
+      "word": "90斤姐姐轻松硬拉100公斤",
+      "onboard_time": 1715478138,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 178903,
@@ -481,6 +561,14 @@
       "onboard_time": 1715439923,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175403,
+      "num": 175403,
+      "word": "世界公认最丑的鱼",
+      "onboard_time": 1715481078,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 174565,
@@ -571,8 +659,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156939,
+      "num": 156939,
+      "word": "16年后的汶川生生不息",
+      "onboard_time": 1715479638,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147845,
-      "num": 1077677,
+      "num": 1449367,
       "word": "匈牙利掀起了中文热",
       "onboard_time": 1715435481,
       "rank": 2,
@@ -593,6 +689,14 @@
       "onboard_time": 1715442619,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144266,
+      "num": 144266,
+      "word": "给弟弟开家长会让和家长对视",
+      "onboard_time": 1715479459,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 141986,
@@ -643,6 +747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 128671,
+      "num": 128671,
+      "word": "浙江全省试鸣防灾警报",
+      "onboard_time": 1715480777,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126072,
       "num": 126072,
       "word": "李耕耘古装",
@@ -691,6 +803,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120429,
+      "num": 120429,
+      "word": "汶川地震饲养员生死狂奔转移大熊猫",
+      "onboard_time": 1715480897,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118917,
+      "num": 118917,
+      "word": "平时熬的夜周末能补回来",
+      "onboard_time": 1715479638,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117928,
+      "num": 117928,
+      "word": "王楚钦学会了与痛苦并肩作战",
+      "onboard_time": 1715478618,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117108,
       "num": 110929,
       "word": "阿朵去歌手吧",
@@ -705,6 +841,14 @@
       "onboard_time": 1715442199,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114496,
+      "num": 114496,
+      "word": "16岁志愿军女兵嘴对嘴给伤员喂药",
+      "onboard_time": 1715481078,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114082,
