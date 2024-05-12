@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715502846704,
+  "endTime": 1715505466531,
   "band_list": [
     {
       "raw_hot": 2470906,
@@ -57,6 +57,14 @@
       "onboard_time": 1715475857,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1344898,
+      "num": 671248,
+      "word": "韩红问都在找我是吗",
+      "onboard_time": 1715501958,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 1265491,
@@ -155,8 +163,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 888310,
-      "num": 214259,
+      "raw_hot": 892284,
+      "num": 217120,
       "word": "婆婆赠300万房产离婚时儿媳分60万",
       "onboard_time": 1715500758,
       "rank": 20,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 869966,
-      "num": 418841,
+      "num": 444770,
       "word": "男人肚子越来越大的5个原因",
       "onboard_time": 1715496738,
       "rank": 28,
@@ -195,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 843195,
+      "num": 448047,
+      "word": "韩红网速好快",
+      "onboard_time": 1715504057,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 841482,
       "num": 655536,
       "word": "为什么舅舅的地位这么高",
       "onboard_time": 1715472496,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 829796,
+      "num": 829796,
+      "word": "明星最爱干的副业集体倒闭",
+      "onboard_time": 1715502376,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 821656,
@@ -331,6 +355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 666790,
+      "num": 666790,
+      "word": "求婚刚好碰到火山爆发",
+      "onboard_time": 1715500277,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 626137,
       "num": 626137,
       "word": "9397号列车",
@@ -459,14 +491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 486888,
-      "num": 383457,
-      "word": "韩红问都在找我是吗",
-      "onboard_time": 1715501958,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 478124,
       "num": 478124,
       "word": "班级成绩第一老师请全班吃烤全羊",
@@ -481,6 +505,14 @@
       "onboard_time": 1715488938,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 477527,
+      "num": 217117,
+      "word": "美国变性女撞倒男子后先亲再捅9刀",
+      "onboard_time": 1715500338,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463921,
@@ -521,14 +553,6 @@
       "onboard_time": 1715434882,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 440068,
-      "num": 208597,
-      "word": "美国变性女撞倒男子后先亲再捅9刀",
-      "onboard_time": 1715500338,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 420324,
@@ -593,14 +617,6 @@
       "onboard_time": 1715492718,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376713,
-      "num": 376713,
-      "word": "求婚刚好碰到火山爆发",
-      "onboard_time": 1715500277,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 375277,
@@ -707,12 +723,44 @@
       "category": "自然"
     },
     {
+      "raw_hot": 315590,
+      "num": 448338,
+      "word": "糯玉米会让血糖飙升",
+      "onboard_time": 1715503758,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 313681,
+      "num": 215485,
+      "word": "1毫克就能致死的毒物可能在你厨房里",
+      "onboard_time": 1715503699,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 312184,
+      "num": 312184,
+      "word": "患者临近死亡器官协调员却要与家属谈器官捐献",
+      "onboard_time": 1715499979,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311900,
       "num": 311900,
       "word": "现在的年轻人为什么不穿皮鞋",
       "onboard_time": 1715447536,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310895,
+      "num": 310895,
+      "word": "天价彩礼不断衍生出新变种",
+      "onboard_time": 1715503457,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297482,
@@ -763,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276617,
-      "num": 276617,
-      "word": "患者临近死亡器官协调员却要与家属谈器官捐献",
-      "onboard_time": 1715499979,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270358,
       "num": 270358,
       "word": "汶川地震16年了",
@@ -793,6 +833,14 @@
       "onboard_time": 1715435001,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262576,
+      "num": 262576,
+      "word": "张怡宁预测巴黎女乒竞争",
+      "onboard_time": 1715503818,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 261521,
@@ -867,6 +915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220273,
+      "num": 220273,
+      "word": "ZICO和Jennie合作曲初一位",
+      "onboard_time": 1715505258,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 219736,
+      "num": 219736,
+      "word": "人气歌谣",
+      "onboard_time": 1715504178,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219411,
       "num": 219411,
       "word": "江苏南通多地抢修红绿灯",
@@ -889,14 +953,6 @@
       "onboard_time": 1715487558,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212118,
-      "num": 152860,
-      "word": "明星最爱干的副业集体倒闭",
-      "onboard_time": 1715502376,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 211283,
@@ -1283,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156269,
+      "num": 156269,
+      "word": "人类幼崽打猫猫",
+      "onboard_time": 1715502076,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154371,
       "num": 154371,
       "word": "花间令制片人再邀郑合惠子演仙侠剧",
@@ -1363,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140006,
+      "num": 140006,
+      "word": "汶川震后生于古刹的孩子长大了",
+      "onboard_time": 1715504537,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139416,
       "num": 539180,
       "word": "送这种花妈妈根本无法拒绝",
@@ -1385,14 +1457,6 @@
       "onboard_time": 1715439561,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138579,
-      "num": 138579,
-      "word": "人类幼崽打猫猫",
-      "onboard_time": 1715502076,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 137828,
@@ -1449,6 +1513,14 @@
       "onboard_time": 1715494340,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131280,
+      "num": 131280,
+      "word": "汶川地震时一位母亲留下的短信",
+      "onboard_time": 1715503999,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131028,
@@ -1531,6 +1603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124356,
+      "num": 124356,
+      "word": "爸爸当家3",
+      "onboard_time": 1715501298,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124348,
       "num": 124348,
       "word": "姿态朱开谈老头杯变味",
@@ -1545,14 +1625,6 @@
       "onboard_time": 1715438062,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 121616,
-      "num": 121616,
-      "word": "爸爸当家3",
-      "onboard_time": 1715501298,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 120760,
@@ -1731,6 +1803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 102365,
+      "num": 102365,
+      "word": "网友喊话五月天踢馆歌手",
+      "onboard_time": 1715505139,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101261,
       "num": 101261,
       "word": "送花",
@@ -1793,6 +1873,14 @@
       "onboard_time": 1715501719,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93679,
+      "num": 93679,
+      "word": "小猫咪大城市销量超十万",
+      "onboard_time": 1715504958,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 92828,
@@ -1915,6 +2003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 68802,
+      "num": 155566,
+      "word": "白头偕老一词瞬间具象化了",
+      "onboard_time": 1715504419,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68760,
       "num": 94708,
       "word": "陈梦说抱着向莎莎学习的心态打比赛",
@@ -2004,7 +2100,7 @@
     },
     {
       "raw_hot": 22768,
-      "num": 574281,
+      "num": 672432,
       "word": "在布达佩斯感受中匈友谊之桥",
       "onboard_time": 1715484199,
       "rank": 2,
