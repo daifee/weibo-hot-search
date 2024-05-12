@@ -1,0 +1,410 @@
+{
+  "runTime": 1715527110112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6277473,
+        "num": 6277473,
+        "word": "韩红请战歌手",
+        "onboard_time": 1715507299,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1380000,
+        "num": 1380000,
+        "word": "B站崩了",
+        "onboard_time": 1715521041,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22003,
+        "num": 1266838,
+        "word": "世上最动听的两个字是妈妈",
+        "onboard_time": 1715484678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2017170,
+        "num": 1264536,
+        "word": "歌手在邀请了",
+        "onboard_time": 1715517981,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1254148,
+        "num": 1254148,
+        "word": "otto骂人",
+        "onboard_time": 1715522841,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 447744,
+        "num": 1089146,
+        "word": "全球首例猪肾移植患者死亡",
+        "onboard_time": 1715517023,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1374031,
+        "num": 1087132,
+        "word": "惠英红 战长沙",
+        "onboard_time": 1715524522,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1083466,
+        "num": 1083466,
+        "word": "mlxg退群",
+        "onboard_time": 1715524163,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 776110,
+        "num": 776110,
+        "word": "我的阿勒泰作者评价华晨宇",
+        "onboard_time": 1715523503,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68760,
+        "num": 633012,
+        "word": "一朵最娇艳的花送给最爱的母亲",
+        "onboard_time": 1715518580,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1366290,
+        "num": 601024,
+        "word": "杨丞琳在家罚唱",
+        "onboard_time": 1715524463,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1043639,
+        "num": 589133,
+        "word": "妇科检查的鸭嘴钳能不能对女性更友好",
+        "onboard_time": 1715525122,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 538817,
+        "num": 538817,
+        "word": "mlxg与otto老头杯红温",
+        "onboard_time": 1715524042,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1173964,
+        "num": 517322,
+        "word": "腾格尔发文回应去歌手",
+        "onboard_time": 1715523322,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486706,
+        "num": 486706,
+        "word": "男子与16岁女孩相约开房涉嫌强奸二审改判",
+        "onboard_time": 1715520442,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375719,
+        "num": 375719,
+        "word": "老头杯",
+        "onboard_time": 1715526141,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1082218,
+        "num": 373349,
+        "word": "歌手官微回应",
+        "onboard_time": 1715515944,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364943,
+        "num": 364943,
+        "word": "兮夜队友",
+        "onboard_time": 1715523923,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 350573,
+        "num": 350573,
+        "word": "鬼灭之刃",
+        "onboard_time": 1715524823,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 235979,
+        "num": 348803,
+        "word": "浙江上市公司分红1164亿",
+        "onboard_time": 1715522781,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 687960,
+        "num": 342691,
+        "word": "英子 你的红来了",
+        "onboard_time": 1715509522,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607955,
+        "num": 340246,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1715523803,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 508563,
+        "num": 334528,
+        "word": "女孩攒够10万后裸辞用利息生活",
+        "onboard_time": 1715516602,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680404,
+        "num": 330396,
+        "word": "王晰报名",
+        "onboard_time": 1715518461,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379121,
+        "num": 325802,
+        "word": "肖战机场",
+        "onboard_time": 1715519902,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325536,
+        "num": 325536,
+        "word": "椰树直播间模特捂严实了",
+        "onboard_time": 1715510782,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 459465,
+        "num": 321799,
+        "word": "歌手",
+        "onboard_time": 1715510063,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287291,
+        "num": 287291,
+        "word": "长期不刷牙可能引发败血症",
+        "onboard_time": 1715515342,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220757,
+        "num": 285120,
+        "word": "婚礼上的伴娘可能全是租的",
+        "onboard_time": 1715519181,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206921,
+        "num": 285110,
+        "word": "婆婆赠300万房产离婚时儿媳分60万",
+        "onboard_time": 1715500758,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408548,
+        "num": 285106,
+        "word": "江映蓉自荐歌手",
+        "onboard_time": 1715516183,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285103,
+        "num": 285103,
+        "word": "EDG夺冠",
+        "onboard_time": 1715522422,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 276899,
+        "num": 276899,
+        "word": "黄霄云实力",
+        "onboard_time": 1715526501,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316061,
+        "num": 262922,
+        "word": "和庆余年2对打的是歌手2024吧",
+        "onboard_time": 1715512343,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223429,
+        "num": 223429,
+        "word": "安利李娟",
+        "onboard_time": 1715522242,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201055,
+        "num": 201055,
+        "word": "吃得少但不容易饿的方法",
+        "onboard_time": 1715525242,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180630,
+        "num": 180630,
+        "word": "怪不得老祖宗爱出门看花灯",
+        "onboard_time": 1715524762,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 180348,
+        "num": 180348,
+        "word": "明星最爱干的副业集体倒闭",
+        "onboard_time": 1715502376,
+        "rank": 37,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 179616,
+        "num": 179616,
+        "word": "网友cos迪丽热巴",
+        "onboard_time": 1715513182,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171972,
+        "num": 171972,
+        "word": "男孩街头猛扯母亲头发并施暴",
+        "onboard_time": 1715514442,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165700,
+        "num": 165700,
+        "word": "kid队长",
+        "onboard_time": 1715526742,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165284,
+        "num": 165284,
+        "word": "莱昂纳多破门",
+        "onboard_time": 1715524403,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158890,
+        "num": 158890,
+        "word": "芒果的文案功底",
+        "onboard_time": 1715526682,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157834,
+        "num": 157834,
+        "word": "严浩翔吃不到小孩哥一口饭",
+        "onboard_time": 1715524163,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151818,
+        "num": 151818,
+        "word": "这种水果睡不着觉可以吃",
+        "onboard_time": 1715506098,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149567,
+        "num": 149567,
+        "word": "西湖音乐节",
+        "onboard_time": 1715523803,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146556,
+        "num": 146556,
+        "word": "王琳住院了",
+        "onboard_time": 1715506398,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140248,
+        "num": 140248,
+        "word": "这种情况会导致家族出现同一种癌症",
+        "onboard_time": 1715525840,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137826,
+        "num": 137826,
+        "word": "丁晟 欣慰外国观众能看懂",
+        "onboard_time": 1715526981,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134804,
+        "num": 134804,
+        "word": "工作后才尝到经济独立的甜头",
+        "onboard_time": 1715518401,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何让学校思政课走新更走心#"
+    }
+  }
+}

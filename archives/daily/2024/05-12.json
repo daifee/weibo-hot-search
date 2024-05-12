@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715524457324,
+  "endTime": 1715527110112,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -123,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1374031,
+      "num": 1087132,
+      "word": "惠英红 战长沙",
+      "onboard_time": 1715524522,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1366290,
+      "num": 601024,
+      "word": "杨丞琳在家罚唱",
+      "onboard_time": 1715524463,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1344898,
       "num": 671248,
       "word": "韩红问都在找我是吗",
@@ -171,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1173964,
+      "num": 517322,
+      "word": "腾格尔发文回应去歌手",
+      "onboard_time": 1715523322,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1131050,
       "num": 1131050,
       "word": "歌手踢馆",
@@ -211,12 +235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1083466,
+      "num": 1083466,
+      "word": "mlxg退群",
+      "onboard_time": 1715524163,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1082451,
       "num": 1082451,
       "word": "512",
       "onboard_time": 1715480418,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1043639,
+      "num": 589133,
+      "word": "妇科检查的鸭嘴钳能不能对女性更友好",
+      "onboard_time": 1715525122,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1041845,
@@ -316,7 +356,7 @@
     },
     {
       "raw_hot": 892284,
-      "num": 271012,
+      "num": 285110,
       "word": "婆婆赠300万房产离婚时儿媳分60万",
       "onboard_time": 1715500758,
       "rank": 20,
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 852189,
-      "num": 401605,
+      "num": 486706,
       "word": "男子与16岁女孩相约开房涉嫌强奸二审改判",
       "onboard_time": 1715520442,
       "rank": 36,
@@ -443,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 774839,
-      "num": 359012,
-      "word": "腾格尔发文回应去歌手",
-      "onboard_time": 1715523322,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 776110,
+      "num": 776110,
+      "word": "我的阿勒泰作者评价华晨宇",
+      "onboard_time": 1715523503,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 770678,
@@ -603,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 607955,
+      "num": 348839,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1715523803,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 600267,
       "num": 600267,
       "word": "南通大巴车与渣土车相撞事故一女孩去世",
@@ -620,7 +668,7 @@
     },
     {
       "raw_hot": 581700,
-      "num": 239580,
+      "num": 262922,
       "word": "和庆余年2对打的是歌手2024吧",
       "onboard_time": 1715512343,
       "rank": 41,
@@ -675,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538817,
+      "num": 538817,
+      "word": "mlxg与otto老头杯红温",
+      "onboard_time": 1715524042,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 536999,
       "num": 312864,
       "word": "男子隐瞒已婚事实与女子交往致女方自杀",
@@ -699,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 526281,
-      "num": 348839,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1715523803,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 525065,
       "num": 525065,
       "word": "新生女婴骨折16小时后腿部溃烂",
@@ -716,7 +764,7 @@
     },
     {
       "raw_hot": 524000,
-      "num": 254582,
+      "num": 364943,
       "word": "兮夜队友",
       "onboard_time": 1715523923,
       "rank": 30,
@@ -947,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383149,
-      "num": 244766,
-      "word": "mlxg与otto老头杯红温",
-      "onboard_time": 1715524042,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 381283,
       "num": 226543,
       "word": "歌手国家队名场面",
@@ -969,6 +1009,14 @@
       "onboard_time": 1715523742,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375719,
+      "num": 375719,
+      "word": "老头杯",
+      "onboard_time": 1715526141,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 375277,
@@ -1043,20 +1091,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350573,
+      "num": 350573,
+      "word": "鬼灭之刃",
+      "onboard_time": 1715524823,
+      "rank": 18,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 347900,
       "num": 309153,
       "word": "张桂源 停训",
       "onboard_time": 1715472375,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345675,
-      "num": 345675,
-      "word": "我的阿勒泰作者评价华晨宇",
-      "onboard_time": 1715523503,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 343583,
@@ -1179,14 +1227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 305733,
-      "num": 357471,
-      "word": "mlxg退群",
-      "onboard_time": 1715524163,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 298838,
       "num": 209072,
       "word": "网友cos迪丽热巴",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1715511622,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276899,
+      "num": 276899,
+      "word": "黄霄云实力",
+      "onboard_time": 1715526501,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 275017,
@@ -1403,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235979,
+      "num": 354015,
+      "word": "浙江上市公司分红1164亿",
+      "onboard_time": 1715522781,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 235721,
       "num": 292803,
       "word": "鬼灭之刃第四季开播",
@@ -1531,14 +1587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209842,
-      "num": 354015,
-      "word": "浙江上市公司分红1164亿",
-      "onboard_time": 1715522781,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 208190,
       "num": 679076,
       "word": "中国的龙是loong",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1715481977,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201055,
+      "num": 201055,
+      "word": "吃得少但不容易饿的方法",
+      "onboard_time": 1715525242,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 198732,
@@ -1771,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180630,
+      "num": 180630,
+      "word": "怪不得老祖宗爱出门看花灯",
+      "onboard_time": 1715524762,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 178903,
       "num": 178903,
       "word": "安陵容 踢馆",
@@ -1931,6 +1995,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165700,
+      "num": 165700,
+      "word": "kid队长",
+      "onboard_time": 1715526742,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 165284,
+      "num": 165284,
+      "word": "莱昂纳多破门",
+      "onboard_time": 1715524403,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164441,
       "num": 164441,
       "word": "断崖式分手后我是如何自愈的",
@@ -2035,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158890,
+      "num": 158890,
+      "word": "芒果的文案功底",
+      "onboard_time": 1715526682,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158346,
       "num": 169002,
       "word": "妈妈是我和死神之间的一堵墙",
@@ -2073,14 +2161,6 @@
       "onboard_time": 1715512042,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 157421,
-      "num": 157421,
-      "word": "莱昂纳多破门",
-      "onboard_time": 1715524403,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 156939,
@@ -2132,7 +2212,7 @@
     },
     {
       "raw_hot": 148014,
-      "num": 408880,
+      "num": 633012,
       "word": "一朵最娇艳的花送给最爱的母亲",
       "onboard_time": 1715518580,
       "rank": 9,
@@ -2251,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140248,
+      "num": 140248,
+      "word": "这种情况会导致家族出现同一种癌症",
+      "onboard_time": 1715525840,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 139416,
       "num": 539180,
       "word": "送这种花妈妈根本无法拒绝",
@@ -2281,6 +2369,14 @@
       "onboard_time": 1715477238,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137826,
+      "num": 137826,
+      "word": "丁晟 欣慰外国观众能看懂",
+      "onboard_time": 1715526981,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 135976,
@@ -2860,7 +2956,7 @@
     },
     {
       "raw_hot": 76782,
-      "num": 948108,
+      "num": 1266838,
       "word": "世上最动听的两个字是妈妈",
       "onboard_time": 1715484678,
       "rank": 2,
