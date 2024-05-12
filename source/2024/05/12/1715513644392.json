@@ -1,0 +1,410 @@
+{
+  "runTime": 1715513644392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12529238,
+        "num": 12529238,
+        "word": "韩红请战歌手",
+        "onboard_time": 1715507299,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655622,
+        "num": 655622,
+        "word": "明星最爱干的副业集体倒闭",
+        "onboard_time": 1715502376,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82602,
+        "num": 543207,
+        "word": "我国成功发射试验二十三号卫星",
+        "onboard_time": 1715507838,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3137336,
+        "num": 519550,
+        "word": "英子 你的红来了",
+        "onboard_time": 1715509522,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466214,
+        "num": 466214,
+        "word": "火烧云",
+        "onboard_time": 1715512284,
+        "rank": 4,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 423691,
+        "num": 423691,
+        "word": "晚霞",
+        "onboard_time": 1715511680,
+        "rank": 5,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 2389196,
+        "num": 419768,
+        "word": "纪敏佳请战歌手",
+        "onboard_time": 1715511382,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1094404,
+        "num": 411186,
+        "word": "断眉和A妹IP在湖南",
+        "onboard_time": 1715508921,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136707,
+        "num": 407638,
+        "word": "5121428是会被铭记的心痛",
+        "onboard_time": 1715507000,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173466,
+        "num": 399732,
+        "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
+        "onboard_time": 1715506217,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885588,
+        "num": 387487,
+        "word": "二手玫瑰发了叶赫那拉英子",
+        "onboard_time": 1715491819,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 811688,
+        "num": 378951,
+        "word": "五旬老太力挺五旬老太",
+        "onboard_time": 1715511443,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781623,
+        "num": 378338,
+        "word": "A妹ip",
+        "onboard_time": 1715510002,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371366,
+        "num": 371366,
+        "word": "吴艳妮回应夺冠",
+        "onboard_time": 1715511203,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314296,
+        "num": 314296,
+        "word": "犬夜叉 杀生丸美貌遗传",
+        "onboard_time": 1715506639,
+        "rank": 14,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 788107,
+        "num": 289818,
+        "word": "二手玫瑰超绝精神状态",
+        "onboard_time": 1715507539,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255744,
+        "num": 255744,
+        "word": "这种水果睡不着觉可以吃",
+        "onboard_time": 1715506098,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194899,
+        "num": 194899,
+        "word": "韩国博主在法院前直播时被杀",
+        "onboard_time": 1715496798,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188137,
+        "num": 188137,
+        "word": "BLG战胜T1",
+        "onboard_time": 1715507299,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183317,
+        "num": 183317,
+        "word": "鬼灭之刃第四季开播",
+        "onboard_time": 1715512522,
+        "rank": 19,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 699841,
+        "num": 182301,
+        "word": "歌手",
+        "onboard_time": 1715510063,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637254,
+        "num": 181221,
+        "word": "韩红转发区",
+        "onboard_time": 1715510902,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581700,
+        "num": 180370,
+        "word": "和庆余年2对打的是歌手2024吧",
+        "onboard_time": 1715512343,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579449,
+        "num": 179513,
+        "word": "萨顶顶快去歌手顶一顶",
+        "onboard_time": 1715509584,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327348,
+        "num": 178460,
+        "word": "子宫受压或改变胎儿面貌",
+        "onboard_time": 1715512042,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 493996,
+        "num": 177994,
+        "word": "王琳住院了",
+        "onboard_time": 1715506398,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353844,
+        "num": 176639,
+        "word": "腾格尔方声明",
+        "onboard_time": 1715494099,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 323113,
+        "num": 174825,
+        "word": "婆婆赠300万房产离婚时儿媳分60万",
+        "onboard_time": 1715500758,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174808,
+        "num": 174808,
+        "word": "天价彩礼不断衍生出新变种",
+        "onboard_time": 1715503457,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297323,
+        "num": 174781,
+        "word": "王源什么时候毕业",
+        "onboard_time": 1715513481,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292556,
+        "num": 172653,
+        "word": "网友cos迪丽热巴",
+        "onboard_time": 1715513182,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283712,
+        "num": 171966,
+        "word": "林俊杰演唱会观众大喊退票",
+        "onboard_time": 1715484139,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280914,
+        "num": 170306,
+        "word": "1毫克就能致死的毒物可能在你厨房里",
+        "onboard_time": 1715503699,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243900,
+        "num": 168504,
+        "word": "歌手国家队名场面",
+        "onboard_time": 1715492718,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167854,
+        "num": 167854,
+        "word": "BLG晋级MSI胜者组决赛",
+        "onboard_time": 1715508921,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165912,
+        "num": 165912,
+        "word": "求婚刚好碰到火山爆发",
+        "onboard_time": 1715500277,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159065,
+        "num": 159065,
+        "word": "hala madrid",
+        "onboard_time": 1715510541,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156451,
+        "num": 156451,
+        "word": "椰树直播间模特捂严实了",
+        "onboard_time": 1715510782,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154592,
+        "num": 154592,
+        "word": "乘客在飞机上拍到紫色极光",
+        "onboard_time": 1715513423,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154347,
+        "num": 154347,
+        "word": "范丞丞iG发文再坚持一下吧",
+        "onboard_time": 1715484917,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154038,
+        "num": 154038,
+        "word": "我的阿勒泰 爱会从眼里流出来",
+        "onboard_time": 1715513062,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148487,
+        "num": 148487,
+        "word": "银行女职员用亲戚1400万理财款打赏男主播",
+        "onboard_time": 1715513481,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143639,
+        "num": 143639,
+        "word": "东极岛",
+        "onboard_time": 1715507238,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141584,
+        "num": 141584,
+        "word": "滴滴客服回应7分钟路程收1414元",
+        "onboard_time": 1715513121,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139485,
+        "num": 139485,
+        "word": "给内耗人的一句终极解药",
+        "onboard_time": 1715509943,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139162,
+        "num": 139162,
+        "word": "极限挑战",
+        "onboard_time": 1715507238,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138254,
+        "num": 138254,
+        "word": "ZICO和Jennie合作曲初一位",
+        "onboard_time": 1715505258,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137388,
+        "num": 137388,
+        "word": "洋葱是可以吃的心脏支架",
+        "onboard_time": 1715512042,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137337,
+        "num": 137337,
+        "word": "男人肚子越来越大的5个原因",
+        "onboard_time": 1715496738,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132190,
+        "num": 132190,
+        "word": "IVE香港演唱会时间",
+        "onboard_time": 1715506338,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何让学校思政课走新更走心#"
+    }
+  }
+}

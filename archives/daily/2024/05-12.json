@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715512519836,
+  "endTime": 1715513644392,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2986057,
-      "num": 469709,
+      "raw_hot": 3137336,
+      "num": 519550,
       "word": "英子 你的红来了",
       "onboard_time": 1715509522,
       "rank": 14,
@@ -25,6 +25,14 @@
       "onboard_time": 1715440581,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2389196,
+      "num": 419768,
+      "word": "纪敏佳请战歌手",
+      "onboard_time": 1715511382,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2089237,
@@ -57,14 +65,6 @@
       "onboard_time": 1715470395,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1498696,
-      "num": 321038,
-      "word": "纪敏佳请战歌手",
-      "onboard_time": 1715511382,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1453778,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1186971,
-      "num": 378881,
+      "num": 411186,
       "word": "断眉和A妹IP在湖南",
       "onboard_time": 1715508921,
       "rank": 14,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1041845,
-      "num": 166240,
+      "num": 378338,
       "word": "A妹ip",
       "onboard_time": 1715510002,
       "rank": 36,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 893700,
-      "num": 141280,
+      "num": 378951,
       "word": "五旬老太力挺五旬老太",
       "onboard_time": 1715511443,
       "rank": 37,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 841438,
-      "num": 138757,
+      "num": 181221,
       "word": "韩红转发区",
       "onboard_time": 1715510902,
       "rank": 40,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581700,
+      "num": 180370,
+      "word": "和庆余年2对打的是歌手2024吧",
+      "onboard_time": 1715512343,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 581137,
       "num": 581137,
       "word": "官方回应电费从3毛涨到6毛8",
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466214,
+      "num": 466214,
+      "word": "火烧云",
+      "onboard_time": 1715512284,
+      "rank": 27,
+      "category": "自然"
+    },
+    {
       "raw_hot": 463921,
       "num": 463921,
       "word": "上海文旅局答疑五月天演唱会",
@@ -665,6 +681,14 @@
       "onboard_time": 1715434882,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 423691,
+      "num": 423691,
+      "word": "晚霞",
+      "onboard_time": 1715511680,
+      "rank": 5,
+      "category": "自然"
     },
     {
       "raw_hot": 420324,
@@ -763,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371366,
+      "num": 371366,
+      "word": "吴艳妮回应夺冠",
+      "onboard_time": 1715511203,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362739,
       "num": 362739,
       "word": "BLG晋级MSI胜者组决赛",
@@ -784,6 +816,14 @@
       "word": "陈楚生唱了压箱底的歌",
       "onboard_time": 1715443881,
       "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 353844,
+      "num": 280428,
+      "word": "腾格尔方声明",
+      "onboard_time": 1715494099,
+      "rank": 25,
       "category": "演出"
     },
     {
@@ -827,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336925,
-      "num": 280428,
-      "word": "腾格尔方声明",
-      "onboard_time": 1715494099,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 335071,
       "num": 335071,
       "word": "游客模仿危险网红悬崖照吓到腿抖",
@@ -867,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327348,
+      "num": 194212,
+      "word": "子宫受压或改变胎儿面貌",
+      "onboard_time": 1715512042,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 326572,
       "num": 326572,
       "word": "ZICO和Jennie合作曲初一位",
@@ -875,28 +915,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 321387,
-      "num": 321387,
-      "word": "晚霞",
-      "onboard_time": 1715511680,
-      "rank": 5,
-      "category": "自然"
-    },
-    {
       "raw_hot": 318059,
       "num": 318059,
       "word": "极光",
       "onboard_time": 1715437161,
       "rank": 19,
       "category": "自然"
-    },
-    {
-      "raw_hot": 312920,
-      "num": 312920,
-      "word": "吴艳妮回应夺冠",
-      "onboard_time": 1715511203,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 312184,
@@ -923,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297323,
+      "num": 174781,
+      "word": "王源什么时候毕业",
+      "onboard_time": 1715513481,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294865,
       "num": 294865,
       "word": "张予曦撞脸黄子韬",
@@ -937,6 +969,14 @@
       "onboard_time": 1715433801,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292556,
+      "num": 172653,
+      "word": "网友cos迪丽热巴",
+      "onboard_time": 1715513182,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 286701,
@@ -961,14 +1001,6 @@
       "onboard_time": 1715500877,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280179,
-      "num": 194212,
-      "word": "子宫受压或改变胎儿面貌",
-      "onboard_time": 1715512042,
-      "rank": 22,
-      "category": "科学科普"
     },
     {
       "raw_hot": 279345,
@@ -1116,7 +1148,7 @@
     },
     {
       "raw_hot": 225080,
-      "num": 393912,
+      "num": 399732,
       "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
       "onboard_time": 1715506217,
       "rank": 15,
@@ -1315,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183317,
+      "num": 183317,
+      "word": "鬼灭之刃第四季开播",
+      "onboard_time": 1715512522,
+      "rank": 19,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 182266,
       "num": 182266,
       "word": "90斤姐姐轻松硬拉100公斤",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1715472857,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173746,
-      "num": 173746,
-      "word": "火烧云",
-      "onboard_time": 1715512284,
-      "rank": 27,
-      "category": "自然"
     },
     {
       "raw_hot": 172871,
@@ -1587,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156451,
+      "num": 156451,
+      "word": "椰树直播间模特捂严实了",
+      "onboard_time": 1715510782,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 156269,
       "num": 156269,
       "word": "人类幼崽打猫猫",
@@ -1603,11 +1643,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154592,
+      "num": 154592,
+      "word": "乘客在飞机上拍到紫色极光",
+      "onboard_time": 1715513423,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154371,
       "num": 154371,
       "word": "花间令制片人再邀郑合惠子演仙侠剧",
       "onboard_time": 1715490979,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154038,
+      "num": 154038,
+      "word": "我的阿勒泰 爱会从眼里流出来",
+      "onboard_time": 1715513062,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1617,6 +1673,14 @@
       "onboard_time": 1715512042,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148487,
+      "num": 148487,
+      "word": "银行女职员用亲戚1400万理财款打赏男主播",
+      "onboard_time": 1715513481,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147879,
@@ -1699,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141584,
+      "num": 141584,
+      "word": "滴滴客服回应7分钟路程收1414元",
+      "onboard_time": 1715513121,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140923,
       "num": 140923,
       "word": "洋葱是可以吃的心脏支架",
@@ -1708,7 +1780,7 @@
     },
     {
       "raw_hot": 140494,
-      "num": 397357,
+      "num": 407638,
       "word": "5121428是会被铭记的心痛",
       "onboard_time": 1715507000,
       "rank": 8,
@@ -1745,14 +1817,6 @@
       "onboard_time": 1715477238,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 136381,
-      "num": 136381,
-      "word": "和庆余年2对打的是歌手2024吧",
-      "onboard_time": 1715512343,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 135976,
@@ -1889,14 +1953,6 @@
       "onboard_time": 1715475437,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125086,
-      "num": 125086,
-      "word": "椰树直播间模特捂严实了",
-      "onboard_time": 1715510782,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 124913,
@@ -2283,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82602,
+      "num": 684500,
+      "word": "我国成功发射试验二十三号卫星",
+      "onboard_time": 1715507838,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79915,
       "num": 95038,
       "word": "周琦说想打G5确实身体撑不住",
@@ -2313,14 +2377,6 @@
       "onboard_time": 1715491037,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76046,
-      "num": 684500,
-      "word": "我国成功发射试验二十三号卫星",
-      "onboard_time": 1715507838,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 73174,
@@ -2495,6 +2551,9 @@
     },
     {
       "word": "#总书记与母亲的温暖瞬间#"
+    },
+    {
+      "word": "#如何让学校思政课走新更走心#"
     }
   ]
 }
