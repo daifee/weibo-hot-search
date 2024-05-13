@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715589408746,
+  "endTime": 1715592006468,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -89,6 +89,14 @@
       "onboard_time": 1715521041,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1962925,
+      "num": 1962925,
+      "word": "歌手揭榜",
+      "onboard_time": 1715588180,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1878034,
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1240629,
+      "num": 1240629,
+      "word": "美国宣布全面禁止竞业禁止协议",
+      "onboard_time": 1715586499,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1229921,
       "num": 565103,
       "word": "Alin报名歌手",
@@ -305,14 +321,6 @@
       "onboard_time": 1715523322,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1155787,
-      "num": 1155787,
-      "word": "美国宣布全面禁止竞业禁止协议",
-      "onboard_time": 1715586499,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1131050,
@@ -427,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1000997,
+      "num": 1000997,
+      "word": "aespa回归",
+      "onboard_time": 1715591120,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 997264,
       "num": 997264,
       "word": "明星最爱干的副业集体倒闭",
@@ -457,14 +473,6 @@
       "onboard_time": 1715563998,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 958935,
-      "num": 958935,
-      "word": "歌手揭榜",
-      "onboard_time": 1715588180,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 958407,
@@ -611,6 +619,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 826435,
+      "num": 356887,
+      "word": "我喜欢你 意思是我清楚地看见你",
+      "onboard_time": 1715587819,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 822283,
+      "num": 337267,
+      "word": "群演曝李一桐打戏替身情况",
+      "onboard_time": 1715589200,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 821656,
       "num": 316890,
       "word": "六公主评价杨幂演技",
@@ -648,6 +672,14 @@
       "word": "歌手第二期网传歌单",
       "onboard_time": 1715498957,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 787770,
+      "num": 329894,
+      "word": "韩红拿了冠军还要发简历",
+      "onboard_time": 1715589858,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -865,6 +897,14 @@
       "onboard_time": 1715574260,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 634453,
+      "num": 349099,
+      "word": "南通渣土车与大巴碰撞通报遭质疑",
+      "onboard_time": 1715587159,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 628145,
@@ -1299,14 +1339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 470161,
-      "num": 297670,
-      "word": "我喜欢你 意思是我清楚地看见你",
-      "onboard_time": 1715587819,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 465971,
       "num": 465971,
       "word": "阜阳野生动物园多只动物非正常死亡",
@@ -1387,6 +1419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 436385,
+      "num": 254224,
+      "word": "星船 out",
+      "onboard_time": 1715588659,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431542,
       "num": 431542,
       "word": "张凌赫在伦敦吃火锅烧烤",
@@ -1401,6 +1441,14 @@
       "onboard_time": 1715526501,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425824,
+      "num": 250688,
+      "word": "中医建议不要太频繁的刮痧",
+      "onboard_time": 1715589858,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 425636,
@@ -1433,6 +1481,14 @@
       "onboard_time": 1715492957,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418734,
+      "num": 244301,
+      "word": "最苦的两个英子",
+      "onboard_time": 1715588600,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 417996,
@@ -1635,14 +1691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366228,
-      "num": 239897,
-      "word": "最苦的两个英子",
-      "onboard_time": 1715588600,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 363329,
       "num": 261587,
       "word": "香港大学偶遇奚梦瑶上课",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1715508921,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 361195,
+      "num": 361195,
+      "word": "抄袭的是商家被嘲笑的却是我",
+      "onboard_time": 1715588779,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 360913,
@@ -1739,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351125,
+      "num": 351125,
+      "word": "大熊猫保护研究中心原副主任张海清被查",
+      "onboard_time": 1715589139,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351063,
       "num": 372240,
       "word": "滴滴客服回应7分钟路程收1414元",
@@ -1753,14 +1817,6 @@
       "onboard_time": 1715581578,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 349099,
-      "num": 349099,
-      "word": "南通渣土车与大巴碰撞通报遭质疑",
-      "onboard_time": 1715587159,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348587,
@@ -1921,6 +1977,14 @@
       "onboard_time": 1715581098,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 323535,
+      "num": 233596,
+      "word": "ENHYPEN回归",
+      "onboard_time": 1715591120,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 321215,
@@ -2219,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259462,
+      "num": 229595,
+      "word": "苏醒不玩游戏失去社交权",
+      "onboard_time": 1715591480,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258299,
       "num": 224301,
       "word": "刘诗诗业内口碑",
@@ -2371,14 +2443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241144,
-      "num": 241144,
-      "word": "抄袭的是商家被嘲笑的却是我",
-      "onboard_time": 1715588779,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 236033,
       "num": 236033,
       "word": "极限挑战",
@@ -2417,14 +2481,6 @@
       "onboard_time": 1715569519,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232473,
-      "num": 232473,
-      "word": "星船 out",
-      "onboard_time": 1715588659,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 230880,
@@ -2548,7 +2604,7 @@
     },
     {
       "raw_hot": 220169,
-      "num": 240746,
+      "num": 278531,
       "word": "蓝田纪委回应副镇长半夜叫别人妻子唱歌",
       "onboard_time": 1715588239,
       "rank": 37,
@@ -2587,14 +2643,6 @@
       "category": "音乐,自然"
     },
     {
-      "raw_hot": 218620,
-      "num": 218620,
-      "word": "群演曝李一桐打戏替身情况",
-      "onboard_time": 1715589200,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218511,
       "num": 218511,
       "word": "演员严基俊结婚",
@@ -2619,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213966,
+      "num": 1082744,
+      "word": "国家一级博物馆最全名单",
+      "onboard_time": 1715586979,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213204,
       "num": 213204,
       "word": "歌手2024请揭榜",
@@ -2633,6 +2689,14 @@
       "onboard_time": 1715433559,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210949,
+      "num": 210949,
+      "word": "在故宫走丢真的倍有面子",
+      "onboard_time": 1715590280,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 210308,
@@ -2667,6 +2731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206815,
+      "num": 206815,
+      "word": "周深翻唱豆荚猫神曲",
+      "onboard_time": 1715591239,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206101,
       "num": 206101,
       "word": "A股",
@@ -2683,12 +2755,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 205139,
-      "num": 1002087,
-      "word": "国家一级博物馆最全名单",
-      "onboard_time": 1715586979,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 205540,
+      "num": 283466,
+      "word": "短效避孕药的副作用有这些",
+      "onboard_time": 1715586077,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 204966,
@@ -2697,6 +2769,14 @@
       "onboard_time": 1715577560,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204205,
+      "num": 204205,
+      "word": "王一博北京飞上海",
+      "onboard_time": 1715591480,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 202768,
@@ -2737,6 +2817,30 @@
       "onboard_time": 1715481977,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200881,
+      "num": 200881,
+      "word": "上海奥运会资格系列赛",
+      "onboard_time": 1715591420,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200823,
+      "num": 200823,
+      "word": "杨幂既是女儿还是妈妈",
+      "onboard_time": 1715591360,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 200161,
+      "num": 201147,
+      "word": "陷入我们的热恋 男女主",
+      "onboard_time": 1715590879,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 198732,
@@ -2939,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189897,
+      "num": 189897,
+      "word": "ZB1回归",
+      "onboard_time": 1715591480,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189571,
       "num": 156383,
       "word": "纪凌尘问答案之书能不能成为影帝",
@@ -2961,6 +3073,14 @@
       "onboard_time": 1715524762,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 187206,
+      "num": 275630,
+      "word": "南通女孩家属呼吁大家不要再点食物",
+      "onboard_time": 1715591420,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186961,
@@ -3153,6 +3273,14 @@
       "onboard_time": 1715477057,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172026,
+      "num": 344727,
+      "word": "教育部公示河南新增2所本科院校",
+      "onboard_time": 1715589379,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 171754,
@@ -3395,14 +3523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162540,
-      "num": 192178,
-      "word": "短效避孕药的副作用有这些",
-      "onboard_time": 1715586077,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 162057,
       "num": 162057,
       "word": "张予曦晒妈妈跳舞视频",
@@ -3459,12 +3579,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159176,
+      "num": 159176,
+      "word": "现在的农村没有以前热闹了",
+      "onboard_time": 1715589858,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158890,
       "num": 158890,
       "word": "芒果的文案功底",
       "onboard_time": 1715526682,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158373,
+      "num": 158373,
+      "word": "前程比爱情重要 爱情比前程难得",
+      "onboard_time": 1715590819,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 158346,
@@ -3553,14 +3689,6 @@
       "onboard_time": 1715509943,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156014,
-      "num": 156014,
-      "word": "大熊猫保护研究中心原副主任张海清被查",
-      "onboard_time": 1715589139,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155547,
@@ -3945,14 +4073,6 @@
       "onboard_time": 1715494340,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132055,
-      "num": 132055,
-      "word": "教育部公示河南新增2所本科院校",
-      "onboard_time": 1715589379,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 131280,
