@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715598941306,
+  "endTime": 1715600057838,
   "band_list": [
     {
       "raw_hot": 3155031,
@@ -9,6 +9,14 @@
       "onboard_time": 1715569340,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2626913,
+      "num": 2626913,
+      "word": "中方决定不同意台湾地区参加今年世卫大会",
+      "onboard_time": 1715598198,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2595300,
@@ -139,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1243735,
-      "num": 1243735,
-      "word": "中方决定不同意台湾地区参加今年世卫大会",
-      "onboard_time": 1715598198,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1240629,
       "num": 1240629,
       "word": "美国宣布全面禁止竞业禁止协议",
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 873330,
-      "num": 813415,
+      "num": 845505,
       "word": "空降",
       "onboard_time": 1715595919,
       "rank": 22,
@@ -827,6 +827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 396181,
+      "num": 396181,
+      "word": "网友曝李亚鹏拖欠工资",
+      "onboard_time": 1715598919,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390298,
       "num": 390298,
       "word": "抄袭的是商家被嘲笑的却是我",
@@ -913,6 +921,14 @@
       "onboard_time": 1715572759,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 352278,
+      "num": 352278,
+      "word": "歌手前八季热度破亿歌曲",
+      "onboard_time": 1715599400,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 352052,
@@ -1185,6 +1201,14 @@
       "onboard_time": 1715592200,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 271297,
+      "num": 271297,
+      "word": "中国队兔子战术2.0太烧脑",
+      "onboard_time": 1715599039,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 270837,
@@ -1475,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211513,
+      "num": 488313,
+      "word": "在微缩蛋糕上见到了去世前的爸爸",
+      "onboard_time": 1715598798,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210949,
       "num": 210949,
       "word": "在故宫走丢真的倍有面子",
@@ -1755,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179396,
+      "num": 179396,
+      "word": "刘忻张予曦 娜娜奈奈",
+      "onboard_time": 1715599279,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176341,
       "num": 176341,
       "word": "克里斯哭了",
@@ -1835,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168247,
+      "num": 168247,
+      "word": "李栋旭快碎了",
+      "onboard_time": 1715597178,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168236,
       "num": 168236,
       "word": "雷霆荣耀杯",
@@ -1897,14 +1945,6 @@
       "onboard_time": 1715575041,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160568,
-      "num": 160568,
-      "word": "李栋旭快碎了",
-      "onboard_time": 1715597178,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 159648,
@@ -2003,14 +2043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152299,
-      "num": 152299,
-      "word": "网友曝李亚鹏拖欠工资",
-      "onboard_time": 1715598919,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152188,
       "num": 152188,
       "word": "第五人格",
@@ -2049,6 +2081,14 @@
       "onboard_time": 1715596818,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144975,
+      "num": 144975,
+      "word": "RNG官宣breathe离队",
+      "onboard_time": 1715597898,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 143937,
@@ -2123,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139184,
+      "num": 284432,
+      "word": "灭霸vivoX100Ultra发布",
+      "onboard_time": 1715598558,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 138753,
       "num": 138753,
       "word": "南部战区空军飞训大片来了",
@@ -2137,14 +2185,6 @@
       "onboard_time": 1715570659,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 137998,
-      "num": 158257,
-      "word": "灭霸vivoX100Ultra发布",
-      "onboard_time": 1715598558,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 137615,
@@ -2185,6 +2225,14 @@
       "onboard_time": 1715597239,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134019,
+      "num": 188960,
+      "word": "重庆绝美云瀑宛若滔天巨浪",
+      "onboard_time": 1715599039,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 132930,
@@ -2291,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115178,
+      "num": 115178,
+      "word": "国家电网回应6月1日电费涨价",
+      "onboard_time": 1715599938,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114973,
       "num": 114973,
       "word": "王源什么时候毕业",
@@ -2313,14 +2369,6 @@
       "onboard_time": 1715554453,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112833,
-      "num": 265143,
-      "word": "在微缩蛋糕上见到了去世前的爸爸",
-      "onboard_time": 1715598798,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 112786,
