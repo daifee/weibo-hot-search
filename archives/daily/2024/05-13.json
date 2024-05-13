@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715581530802,
+  "endTime": 1715582301376,
   "band_list": [
     {
       "raw_hot": 3155031,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2595300,
+      "num": 1435851,
+      "word": "封进水泥的尸体是怎么被发现的",
+      "onboard_time": 1715579718,
+      "rank": 1,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 2441093,
       "num": 2441093,
       "word": "韩红报名方式错了",
       "onboard_time": 1715568859,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2039257,
-      "num": 1435851,
-      "word": "封进水泥的尸体是怎么被发现的",
-      "onboard_time": 1715579718,
-      "rank": 1,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1814093,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922980,
+      "num": 374876,
+      "word": "谢娜曾反对张杰去歌手",
+      "onboard_time": 1715580978,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 875984,
       "num": 363576,
       "word": "腾格尔发文回应去歌手",
@@ -265,6 +273,14 @@
       "onboard_time": 1715527520,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 621788,
+      "num": 676041,
+      "word": "黄霄云接洽歌手",
+      "onboard_time": 1715580918,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 607341,
@@ -403,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 473494,
-      "num": 244811,
-      "word": "谢娜曾反对张杰去歌手",
-      "onboard_time": 1715580978,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 465971,
       "num": 465971,
       "word": "阜阳野生动物园多只动物非正常死亡",
@@ -507,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 390930,
+      "num": 390930,
+      "word": "李一桐推荐欧豪报名歌手",
+      "onboard_time": 1715581278,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389096,
       "num": 389096,
       "word": "老头杯",
@@ -587,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351763,
+      "num": 238579,
+      "word": "身体4个异常说明骨头已变脆",
+      "onboard_time": 1715576121,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 351150,
       "num": 272533,
       "word": "谭晶能返场上歌手吗",
@@ -617,14 +641,6 @@
       "onboard_time": 1715523803,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 343743,
-      "num": 269942,
-      "word": "黄霄云接洽歌手",
-      "onboard_time": 1715580918,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 338896,
@@ -681,14 +697,6 @@
       "onboard_time": 1715559738,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307655,
-      "num": 238579,
-      "word": "身体4个异常说明骨头已变脆",
-      "onboard_time": 1715576121,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 303078,
@@ -819,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260216,
+      "num": 229798,
+      "word": "老默在庆余年里还是杀手",
+      "onboard_time": 1715581578,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258269,
       "num": 258269,
       "word": "男子KTV唱歌被咬伤商家称老鼠是自由的",
@@ -833,6 +849,14 @@
       "onboard_time": 1715560880,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257075,
+      "num": 257075,
+      "word": "原来机场显示屏上是PPT",
+      "onboard_time": 1715577140,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 254919,
@@ -907,12 +931,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237961,
-      "num": 237961,
-      "word": "原来机场显示屏上是PPT",
-      "onboard_time": 1715577140,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 240721,
+      "num": 240721,
+      "word": "苹果要重做Siri了",
+      "onboard_time": 1715581098,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 235752,
+      "num": 235752,
+      "word": "男子连吃3根生香蕉致肠梗阻",
+      "onboard_time": 1715580918,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233943,
@@ -947,20 +979,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225656,
+      "num": 225656,
+      "word": "长期运动的人都啥样了",
+      "onboard_time": 1715581459,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 223505,
       "num": 223505,
       "word": "董明珠体验汉服",
       "onboard_time": 1715559679,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 221285,
-      "num": 221285,
-      "word": "李一桐推荐欧豪报名歌手",
-      "onboard_time": 1715581278,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 221094,
@@ -1091,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187249,
+      "num": 187249,
+      "word": "央行心形纪念币520上新",
+      "onboard_time": 1715581459,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 186388,
       "num": 186388,
       "word": "歌手网传赛制",
@@ -1131,20 +1171,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 178997,
-      "num": 178997,
-      "word": "苹果要重做Siri了",
-      "onboard_time": 1715581098,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 176341,
       "num": 176341,
       "word": "克里斯哭了",
       "onboard_time": 1715559618,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176256,
+      "num": 176256,
+      "word": "迪丽热巴6300机械姬",
+      "onboard_time": 1715581878,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 176025,
@@ -1195,6 +1235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 165176,
+      "num": 165176,
+      "word": "韩国人为什么厌娃",
+      "onboard_time": 1715578278,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164567,
       "num": 164567,
       "word": "学生时代的同学真的是人脉吗",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1715563578,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161089,
-      "num": 161089,
-      "word": "韩国人为什么厌娃",
-      "onboard_time": 1715578278,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160865,
@@ -1275,6 +1315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 153584,
+      "num": 153584,
+      "word": "71岁的奶奶身材堪比少女",
+      "onboard_time": 1715580679,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152188,
       "num": 152188,
       "word": "第五人格",
@@ -1283,20 +1331,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151002,
+      "num": 151002,
+      "word": "mlxg和otto和解",
+      "onboard_time": 1715580739,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149403,
       "num": 364020,
       "word": "嗓子废了是职业病吗",
       "onboard_time": 1715562019,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 149064,
-      "num": 149064,
-      "word": "男子连吃3根生香蕉致肠梗阻",
-      "onboard_time": 1715580918,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148088,
@@ -1323,20 +1371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142020,
-      "num": 142020,
-      "word": "mlxg和otto和解",
-      "onboard_time": 1715580739,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 141804,
       "num": 141804,
       "word": "恋与制作人 x11",
       "onboard_time": 1715577799,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140872,
+      "num": 140872,
+      "word": "郑合惠子 相信我们仍有无限可能",
+      "onboard_time": 1715580739,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140223,
@@ -1379,20 +1427,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133221,
-      "num": 133221,
-      "word": "71岁的奶奶身材堪比少女",
-      "onboard_time": 1715580679,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133039,
-      "num": 133039,
-      "word": "郑合惠子 相信我们仍有无限可能",
-      "onboard_time": 1715580739,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 135613,
+      "num": 135613,
+      "word": "微博影像年",
+      "onboard_time": 1715581338,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 132930,
@@ -1411,20 +1451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129117,
-      "num": 129117,
-      "word": "微博影像年",
-      "onboard_time": 1715581338,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 126997,
-      "num": 126997,
-      "word": "央行心形纪念币520上新",
-      "onboard_time": 1715581459,
+      "raw_hot": 127541,
+      "num": 127541,
+      "word": "欧豪上吧 他好歹是个神",
+      "onboard_time": 1715582237,
       "rank": 47,
-      "category": "财经"
+      "category": "综艺"
     },
     {
       "raw_hot": 124409,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1715571079,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115546,
-      "num": 126849,
-      "word": "长期运动的人都啥样了",
-      "onboard_time": 1715581459,
-      "rank": 48,
-      "category": "运动健身"
     },
     {
       "raw_hot": 114973,
@@ -1617,6 +1641,14 @@
       "onboard_time": 1715519541,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88845,
+      "num": 114271,
+      "word": "祖国大好河山每个角度都很美",
+      "onboard_time": 1715578878,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 87360,

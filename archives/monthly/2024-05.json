@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715581530802,
+  "endTime": 1715582301376,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2595300,
+      "num": 1435851,
+      "word": "封进水泥的尸体是怎么被发现的",
+      "onboard_time": 1715579718,
+      "rank": 1,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 2576403,
       "num": 2576403,
       "word": "端午节假期不调休",
@@ -473,14 +481,6 @@
       "onboard_time": 1714675092,
       "rank": 0,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2039257,
-      "num": 1435851,
-      "word": "封进水泥的尸体是怎么被发现的",
-      "onboard_time": 1715579718,
-      "rank": 1,
-      "category": "科学科普"
     },
     {
       "raw_hot": 2014368,
@@ -2929,6 +2929,14 @@
       "onboard_time": 1715503699,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 922980,
+      "num": 374876,
+      "word": "谢娜曾反对张杰去歌手",
+      "onboard_time": 1715580978,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 922439,
@@ -5771,6 +5779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 621788,
+      "num": 676041,
+      "word": "黄霄云接洽歌手",
+      "onboard_time": 1715580918,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 621744,
       "num": 460470,
       "word": "汪苏泷如果爱忘了",
@@ -8035,14 +8051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 473494,
-      "num": 244811,
-      "word": "谢娜曾反对张杰去歌手",
-      "onboard_time": 1715580978,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 473482,
       "num": 473482,
       "word": "王昶好帅",
@@ -10043,6 +10051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390930,
+      "num": 390930,
+      "word": "李一桐推荐欧豪报名歌手",
+      "onboard_time": 1715581278,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 390757,
       "num": 390757,
       "word": "日本外卖小哥上供2000万被甩后行凶",
@@ -11243,6 +11259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 351763,
+      "num": 238579,
+      "word": "身体4个异常说明骨头已变脆",
+      "onboard_time": 1715576121,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 351464,
       "num": 351464,
       "word": "iPhone16或改善无线充电功能",
@@ -11481,14 +11505,6 @@
       "onboard_time": 1715149341,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343743,
-      "num": 269942,
-      "word": "黄霄云接洽歌手",
-      "onboard_time": 1715580918,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 343681,
@@ -12673,14 +12689,6 @@
       "onboard_time": 1714998258,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 307655,
-      "num": 238579,
-      "word": "身体4个异常说明骨头已变脆",
-      "onboard_time": 1715576121,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 307032,
@@ -14699,6 +14707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260216,
+      "num": 229798,
+      "word": "老默在庆余年里还是杀手",
+      "onboard_time": 1715581578,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259795,
       "num": 259795,
       "word": "余承东卸任华为终端BGCEO",
@@ -14825,6 +14841,14 @@
       "onboard_time": 1715056041,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257075,
+      "num": 257075,
+      "word": "原来机场显示屏上是PPT",
+      "onboard_time": 1715577140,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 256797,
@@ -15707,6 +15731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240721,
+      "num": 240721,
+      "word": "苹果要重做Siri了",
+      "onboard_time": 1715581098,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 240659,
       "num": 155094,
       "word": "医生让你查幽门螺旋杆菌是真想救你",
@@ -15883,14 +15915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 237961,
-      "num": 237961,
-      "word": "原来机场显示屏上是PPT",
-      "onboard_time": 1715577140,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237805,
       "num": 237805,
       "word": "朋友频繁的约饭让人感觉很有压力",
@@ -16001,6 +16025,14 @@
       "onboard_time": 1714663101,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235752,
+      "num": 235752,
+      "word": "男子连吃3根生香蕉致肠梗阻",
+      "onboard_time": 1715580918,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235721,
@@ -16723,6 +16755,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 225656,
+      "num": 225656,
+      "word": "长期运动的人都啥样了",
+      "onboard_time": 1715581459,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 225605,
       "num": 225605,
       "word": "彩礼过高部分农村男青年举债结婚",
@@ -17000,14 +17040,6 @@
       "word": "内娱歌坛活了",
       "onboard_time": 1715519541,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 221285,
-      "num": 221285,
-      "word": "李一桐推荐欧豪报名歌手",
-      "onboard_time": 1715581278,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -21291,6 +21323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187249,
+      "num": 187249,
+      "word": "央行心形纪念币520上新",
+      "onboard_time": 1715581459,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187092,
       "num": 185846,
       "word": "时代少年团 天津",
@@ -22219,14 +22259,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 178997,
-      "num": 178997,
-      "word": "苹果要重做Siri了",
-      "onboard_time": 1715581098,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 178991,
       "num": 178991,
       "word": "羽毛球",
@@ -22545,6 +22577,14 @@
       "onboard_time": 1714547779,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176256,
+      "num": 176256,
+      "word": "迪丽热巴6300机械姬",
+      "onboard_time": 1715581878,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 176240,
@@ -24075,6 +24115,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 165176,
+      "num": 165176,
+      "word": "韩国人为什么厌娃",
+      "onboard_time": 1715578278,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165137,
       "num": 165137,
       "word": "杨幂唐嫣早期同框照",
@@ -24753,14 +24801,6 @@
       "onboard_time": 1715263460,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161089,
-      "num": 161089,
-      "word": "韩国人为什么厌娃",
-      "onboard_time": 1715578278,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160960,
@@ -25811,6 +25851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153584,
+      "num": 153584,
+      "word": "71岁的奶奶身材堪比少女",
+      "onboard_time": 1715580679,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153516,
       "num": 153516,
       "word": "惠英红的人生 有嚼劲",
@@ -26131,6 +26179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151002,
+      "num": 151002,
+      "word": "mlxg和otto和解",
+      "onboard_time": 1715580739,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150885,
       "num": 150885,
       "word": "薛凯琪吊带黑背心",
@@ -26449,14 +26505,6 @@
       "onboard_time": 1714898299,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149064,
-      "num": 149064,
-      "word": "男子连吃3根生香蕉致肠梗阻",
-      "onboard_time": 1715580918,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149047,
@@ -27467,14 +27515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142020,
-      "num": 142020,
-      "word": "mlxg和otto和解",
-      "onboard_time": 1715580739,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 141946,
       "num": 141946,
       "word": "容祖儿cha了汪苏泷的十万伏特",
@@ -27641,6 +27681,14 @@
       "onboard_time": 1714546998,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140872,
+      "num": 140872,
+      "word": "郑合惠子 相信我们仍有无限可能",
+      "onboard_time": 1715580739,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140807,
@@ -28355,6 +28403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135613,
+      "num": 135613,
+      "word": "微博影像年",
+      "onboard_time": 1715581338,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 135599,
       "num": 135599,
       "word": "甲状腺结节",
@@ -28787,14 +28843,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 133221,
-      "num": 133221,
-      "word": "71岁的奶奶身材堪比少女",
-      "onboard_time": 1715580679,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133168,
       "num": 133168,
       "word": "问界",
@@ -28833,14 +28881,6 @@
       "onboard_time": 1714704019,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 133039,
-      "num": 133039,
-      "word": "郑合惠子 相信我们仍有无限可能",
-      "onboard_time": 1715580739,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 133006,
@@ -29315,14 +29355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 129117,
-      "num": 129117,
-      "word": "微博影像年",
-      "onboard_time": 1715581338,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 129062,
       "num": 129062,
       "word": "你心中的青春之歌",
@@ -29467,6 +29499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127541,
+      "num": 127541,
+      "word": "欧豪上吧 他好歹是个神",
+      "onboard_time": 1715582237,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127463,
       "num": 127463,
       "word": "张雨绮被陈丽君帅呆了",
@@ -29569,14 +29609,6 @@
       "onboard_time": 1714734320,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126997,
-      "num": 126997,
-      "word": "央行心形纪念币520上新",
-      "onboard_time": 1715581459,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 126990,
@@ -31057,14 +31089,6 @@
       "onboard_time": 1715338938,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115546,
-      "num": 126849,
-      "word": "长期运动的人都啥样了",
-      "onboard_time": 1715581459,
-      "rank": 48,
-      "category": "运动健身"
     },
     {
       "raw_hot": 115355,
@@ -33073,6 +33097,14 @@
       "onboard_time": 1714582217,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88845,
+      "num": 114271,
+      "word": "祖国大好河山每个角度都很美",
+      "onboard_time": 1715578878,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 88698,
