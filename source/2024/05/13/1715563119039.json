@@ -1,0 +1,410 @@
+{
+  "runTime": 1715563119039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1811883,
+        "num": 1811883,
+        "word": "娄艺潇自荐歌手",
+        "onboard_time": 1715558178,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 860482,
+        "num": 860482,
+        "word": "斗鱼公告",
+        "onboard_time": 1715559439,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13692,
+        "num": 832836,
+        "word": "世上最动听的两个字是妈妈",
+        "onboard_time": 1715484678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1256118,
+        "num": 830302,
+        "word": "A妹 歌手",
+        "onboard_time": 1715560518,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 818156,
+        "num": 818156,
+        "word": "QQ微信上线地震预警功能",
+        "onboard_time": 1715558839,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 362902,
+        "num": 562374,
+        "word": "警方通报男子摸车被索赔1万",
+        "onboard_time": 1715562258,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1229921,
+        "num": 535709,
+        "word": "Alin报名歌手",
+        "onboard_time": 1715556436,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501347,
+        "num": 501347,
+        "word": "我在北大学减肥",
+        "onboard_time": 1715557697,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 431542,
+        "num": 431542,
+        "word": "张凌赫在伦敦吃火锅烧烤",
+        "onboard_time": 1715558297,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97139,
+        "num": 421957,
+        "word": "妈妈带罕见病儿子走过100个城市",
+        "onboard_time": 1715555415,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055205,
+        "num": 401167,
+        "word": "妇科检查的鸭嘴钳能不能对女性更友好",
+        "onboard_time": 1715525122,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 715625,
+        "num": 369292,
+        "word": "歌手在邀请了",
+        "onboard_time": 1715517981,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514375,
+        "num": 352027,
+        "word": "女子收滴滴7年前7分钟路程天价账单",
+        "onboard_time": 1715550191,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341310,
+        "num": 341310,
+        "word": "杨丞琳在家罚唱",
+        "onboard_time": 1715524463,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71167,
+        "num": 339069,
+        "word": "嗓子废了是职业病吗",
+        "onboard_time": 1715562019,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 530800,
+        "num": 339014,
+        "word": "韩红请战歌手",
+        "onboard_time": 1715507299,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338896,
+        "num": 338896,
+        "word": "otto被封",
+        "onboard_time": 1715555957,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294985,
+        "num": 294985,
+        "word": "男子与16岁女孩相约开房涉嫌强奸二审改判",
+        "onboard_time": 1715520442,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410336,
+        "num": 291224,
+        "word": "歌手官微回应",
+        "onboard_time": 1715515944,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284217,
+        "num": 284217,
+        "word": "普京任命绍伊古为俄安全会议秘书",
+        "onboard_time": 1715555835,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 580891,
+        "num": 282558,
+        "word": "刘雯去美国了",
+        "onboard_time": 1715561779,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366652,
+        "num": 281740,
+        "word": "女孩攒够10万后裸辞用利息生活",
+        "onboard_time": 1715516602,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351932,
+        "num": 280570,
+        "word": "歌手2024",
+        "onboard_time": 1715561658,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276162,
+        "num": 276162,
+        "word": "mlxg退群",
+        "onboard_time": 1715524163,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274549,
+        "num": 274549,
+        "word": "地磁暴太阳耀斑不会影响身体健康",
+        "onboard_time": 1715559979,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 351150,
+        "num": 272533,
+        "word": "谭晶能返场上歌手吗",
+        "onboard_time": 1715557818,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304711,
+        "num": 271222,
+        "word": "新华社发了王一博的给妈咪",
+        "onboard_time": 1715559738,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263781,
+        "num": 263781,
+        "word": "成都吉普",
+        "onboard_time": 1715562618,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312109,
+        "num": 263283,
+        "word": "腾格尔发文回应去歌手",
+        "onboard_time": 1715523322,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258269,
+        "num": 258269,
+        "word": "男子KTV唱歌被咬伤商家称老鼠是自由的",
+        "onboard_time": 1715560279,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257572,
+        "num": 257572,
+        "word": "恋与深空",
+        "onboard_time": 1715560880,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250449,
+        "num": 250449,
+        "word": "近40%日企留用70岁以上的员工",
+        "onboard_time": 1715559317,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245084,
+        "num": 245084,
+        "word": "南通女孩妈妈想找事故现场救援者",
+        "onboard_time": 1715532676,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243700,
+        "num": 243700,
+        "word": "原来我们都错怪费可了",
+        "onboard_time": 1715531299,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226478,
+        "num": 226478,
+        "word": "马伊琍拍我的阿勒泰中途补拍繁花",
+        "onboard_time": 1715556675,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223505,
+        "num": 223505,
+        "word": "董明珠体验汉服",
+        "onboard_time": 1715559679,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198804,
+        "num": 198804,
+        "word": "孙思邈留下的速睡方",
+        "onboard_time": 1715528660,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193145,
+        "num": 193145,
+        "word": "周依然演技",
+        "onboard_time": 1715562198,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184165,
+        "num": 184165,
+        "word": "我的阿勒泰作者评价华晨宇",
+        "onboard_time": 1715523503,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181048,
+        "num": 181048,
+        "word": "全球首例猪肾移植患者死亡",
+        "onboard_time": 1715517023,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176341,
+        "num": 176341,
+        "word": "克里斯哭了",
+        "onboard_time": 1715559618,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169864,
+        "num": 169864,
+        "word": "滴滴回应女子突然收到天价订单",
+        "onboard_time": 1715560758,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165847,
+        "num": 165847,
+        "word": "惠英红 战长沙",
+        "onboard_time": 1715524522,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163273,
+        "num": 163273,
+        "word": "当i狗新交了e狗朋友",
+        "onboard_time": 1715561239,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159508,
+        "num": 159508,
+        "word": "明星最爱干的副业集体倒闭",
+        "onboard_time": 1715502376,
+        "rank": 44,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 156975,
+        "num": 156975,
+        "word": "女子挂P挡开不动车致堵车被罚还不服",
+        "onboard_time": 1715555294,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150745,
+        "num": 150745,
+        "word": "英子 你的红来了",
+        "onboard_time": 1715509522,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147239,
+        "num": 147239,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1715523803,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145790,
+        "num": 145790,
+        "word": "长期不刷牙可能引发败血症",
+        "onboard_time": 1715515342,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139348,
+        "num": 139348,
+        "word": "那英表情包",
+        "onboard_time": 1715557697,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何让学校思政课走新更走心#"
+    }
+  }
+}

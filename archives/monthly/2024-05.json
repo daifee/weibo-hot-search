@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715556863195,
+  "endTime": 1715563119039,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -625,6 +625,14 @@
       "onboard_time": 1715141122,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1811883,
+      "num": 1811883,
+      "word": "娄艺潇自荐歌手",
+      "onboard_time": 1715558178,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1788659,
@@ -1571,6 +1579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1256118,
+      "num": 830302,
+      "word": "A妹 歌手",
+      "onboard_time": 1715560518,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1255650,
       "num": 1224866,
       "word": "梅州高速塌方",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1715050639,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1229921,
+      "num": 535709,
+      "word": "Alin报名歌手",
+      "onboard_time": 1715556436,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 1227704,
@@ -3299,6 +3323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 860482,
+      "num": 860482,
+      "word": "斗鱼公告",
+      "onboard_time": 1715559439,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 860372,
       "num": 532165,
       "word": "黄子韬撩徐艺洋",
@@ -3609,6 +3641,14 @@
       "onboard_time": 1715058200,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 818156,
+      "num": 818156,
+      "word": "QQ微信上线地震预警功能",
+      "onboard_time": 1715558839,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 817992,
@@ -4324,7 +4364,7 @@
     },
     {
       "raw_hot": 729799,
-      "num": 339632,
+      "num": 352027,
       "word": "女子收滴滴7年前7分钟路程天价账单",
       "onboard_time": 1715550191,
       "rank": 11,
@@ -6107,6 +6147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580891,
+      "num": 282558,
+      "word": "刘雯去美国了",
+      "onboard_time": 1715561779,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579975,
       "num": 273299,
       "word": "杨幂ip在美国",
@@ -7305,6 +7353,14 @@
       "onboard_time": 1714691953,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501347,
+      "num": 501347,
+      "word": "我在北大学减肥",
+      "onboard_time": 1715557697,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 501309,
@@ -8649,6 +8705,14 @@
       "onboard_time": 1715226198,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431542,
+      "num": 431542,
+      "word": "张凌赫在伦敦吃火锅烧烤",
+      "onboard_time": 1715558297,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 431242,
@@ -10539,6 +10603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362902,
+      "num": 562374,
+      "word": "警方通报男子摸车被索赔1万",
+      "onboard_time": 1715562258,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362739,
       "num": 362739,
       "word": "BLG晋级MSI胜者组决赛",
@@ -10873,6 +10945,14 @@
       "onboard_time": 1714918581,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351150,
+      "num": 272533,
+      "word": "谭晶能返场上歌手吗",
+      "onboard_time": 1715557818,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 351063,
@@ -11219,6 +11299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 338896,
+      "num": 338896,
+      "word": "otto被封",
+      "onboard_time": 1715555957,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 338744,
       "num": 338744,
       "word": "徐园姐姐发声",
@@ -11521,14 +11609,6 @@
       "onboard_time": 1714551318,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 330622,
-      "num": 330622,
-      "word": "Alin报名歌手",
-      "onboard_time": 1715556436,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 330327,
@@ -12275,6 +12355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304711,
+      "num": 271222,
+      "word": "新华社发了王一博的给妈咪",
+      "onboard_time": 1715559738,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304475,
       "num": 304475,
       "word": "卓哥解说",
@@ -12963,6 +13051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284217,
+      "num": 284217,
+      "word": "普京任命绍伊古为俄安全会议秘书",
+      "onboard_time": 1715555835,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 284002,
       "num": 284002,
       "word": "干部被妻子举报婚内出轨前妻",
@@ -13433,6 +13529,14 @@
       "onboard_time": 1714967540,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274549,
+      "num": 274549,
+      "word": "地磁暴太阳耀斑不会影响身体健康",
+      "onboard_time": 1715559979,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 274515,
@@ -13947,6 +14051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263781,
+      "num": 263781,
+      "word": "成都吉普",
+      "onboard_time": 1715562618,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263675,
       "num": 233048,
       "word": "这种酸奶千万别喝",
@@ -14224,6 +14336,14 @@
       "word": "53岁保洁妈妈没工伤险被拒绝上门",
       "onboard_time": 1715308097,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258269,
+      "num": 258269,
+      "word": "男子KTV唱歌被咬伤商家称老鼠是自由的",
+      "onboard_time": 1715560279,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -14537,6 +14657,14 @@
       "onboard_time": 1715159180,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 250449,
+      "num": 250449,
+      "word": "近40%日企留用70岁以上的员工",
+      "onboard_time": 1715559317,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250386,
@@ -15049,14 +15177,6 @@
       "onboard_time": 1714549218,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 242182,
-      "num": 242182,
-      "word": "普京任命绍伊古为俄安全会议秘书",
-      "onboard_time": 1715555835,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 241712,
@@ -16035,6 +16155,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 226478,
+      "num": 226478,
+      "word": "马伊琍拍我的阿勒泰中途补拍繁花",
+      "onboard_time": 1715556675,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226424,
       "num": 226424,
       "word": "太湖湾音乐节",
@@ -16249,6 +16377,14 @@
       "onboard_time": 1715202670,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223505,
+      "num": 223505,
+      "word": "董明珠体验汉服",
+      "onboard_time": 1715559679,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 223146,
@@ -16913,14 +17049,6 @@
       "onboard_time": 1715059759,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214940,
-      "num": 214940,
-      "word": "otto被封",
-      "onboard_time": 1715555957,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 214781,
@@ -19659,6 +19787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193145,
+      "num": 193145,
+      "word": "周依然演技",
+      "onboard_time": 1715562198,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193091,
       "num": 193091,
       "word": "TES对战TL",
@@ -21763,6 +21899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176341,
+      "num": 176341,
+      "word": "克里斯哭了",
+      "onboard_time": 1715559618,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176307,
       "num": 176307,
       "word": "每个宿舍都有自己的空调姐",
@@ -22683,6 +22827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169864,
+      "num": 169864,
+      "word": "滴滴回应女子突然收到天价订单",
+      "onboard_time": 1715560758,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169747,
       "num": 169747,
       "word": "独行侠vs快船",
@@ -23577,6 +23729,14 @@
       "onboard_time": 1715358617,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163273,
+      "num": 163273,
+      "word": "当i狗新交了e狗朋友",
+      "onboard_time": 1715561239,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 163268,
@@ -26960,6 +27120,14 @@
       "word": "马嘉祺遇中戏考官",
       "onboard_time": 1715328079,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139348,
+      "num": 139348,
+      "word": "那英表情包",
+      "onboard_time": 1715557697,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -31659,6 +31827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97139,
+      "num": 421957,
+      "word": "妈妈带罕见病儿子走过100个城市",
+      "onboard_time": 1715555415,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96494,
       "num": 89842,
       "word": "为什么叶轻眉的人气那么高",
@@ -32323,14 +32499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 78342,
-      "num": 78342,
-      "word": "马伊琍拍我的阿勒泰中途补拍繁花",
-      "onboard_time": 1715556675,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77973,
       "num": 802601,
       "word": "上万塞铁欢呼声经久不息震撼场面",
@@ -32593,6 +32761,14 @@
       "onboard_time": 1714763112,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71167,
+      "num": 339069,
+      "word": "嗓子废了是职业病吗",
+      "onboard_time": 1715562019,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 71068,
@@ -33545,14 +33721,6 @@
       "onboard_time": 1715028190,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 43992,
-      "num": 345380,
-      "word": "妈妈带罕见病儿子走过100个城市",
-      "onboard_time": 1715555415,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43697,

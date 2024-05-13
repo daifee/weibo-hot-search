@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715556863195,
+  "endTime": 1715563119039,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -73,6 +73,14 @@
       "onboard_time": 1715444300,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1811883,
+      "num": 1811883,
+      "word": "娄艺潇自荐歌手",
+      "onboard_time": 1715558178,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1763556,
@@ -168,6 +176,22 @@
       "word": "亚当方否认上歌手",
       "onboard_time": 1715494398,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1256118,
+      "num": 830302,
+      "word": "A妹 歌手",
+      "onboard_time": 1715560518,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1229921,
+      "num": 535709,
+      "word": "Alin报名歌手",
+      "onboard_time": 1715556436,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -387,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 860482,
+      "num": 860482,
+      "word": "斗鱼公告",
+      "onboard_time": 1715559439,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 852189,
       "num": 486706,
       "word": "男子与16岁女孩相约开房涉嫌强奸二审改判",
@@ -449,6 +481,14 @@
       "onboard_time": 1715523503,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 818156,
+      "num": 818156,
+      "word": "QQ微信上线地震预警功能",
+      "onboard_time": 1715558839,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 809657,
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 729799,
-      "num": 339632,
+      "num": 352027,
       "word": "女子收滴滴7年前7分钟路程天价账单",
       "onboard_time": 1715550191,
       "rank": 11,
@@ -699,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580891,
+      "num": 282558,
+      "word": "刘雯去美国了",
+      "onboard_time": 1715561779,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574978,
       "num": 574978,
       "word": "EDG夺冠",
@@ -827,6 +875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 501347,
+      "num": 501347,
+      "word": "我在北大学减肥",
+      "onboard_time": 1715557697,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 501309,
       "num": 247431,
       "word": "歌手大点兵",
@@ -921,6 +977,14 @@
       "onboard_time": 1715434882,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 431542,
+      "num": 431542,
+      "word": "张凌赫在伦敦吃火锅烧烤",
+      "onboard_time": 1715558297,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 428694,
@@ -1091,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362902,
+      "num": 562374,
+      "word": "警方通报男子摸车被索赔1万",
+      "onboard_time": 1715562258,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362739,
       "num": 362739,
       "word": "BLG晋级MSI胜者组决赛",
@@ -1137,6 +1209,22 @@
       "onboard_time": 1715532676,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351932,
+      "num": 280570,
+      "word": "歌手2024",
+      "onboard_time": 1715561658,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 351150,
+      "num": 272533,
+      "word": "谭晶能返场上歌手吗",
+      "onboard_time": 1715557818,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 351063,
@@ -1187,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338896,
+      "num": 338896,
+      "word": "otto被封",
+      "onboard_time": 1715555957,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 335071,
       "num": 335071,
       "word": "游客模仿危险网红悬崖照吓到腿抖",
@@ -1217,14 +1313,6 @@
       "onboard_time": 1715506098,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 330622,
-      "num": 330622,
-      "word": "Alin报名歌手",
-      "onboard_time": 1715556436,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 329301,
@@ -1281,6 +1369,14 @@
       "onboard_time": 1715447536,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304711,
+      "num": 271222,
+      "word": "新华社发了王一博的给妈咪",
+      "onboard_time": 1715559738,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 303078,
@@ -1347,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284217,
+      "num": 284217,
+      "word": "普京任命绍伊古为俄安全会议秘书",
+      "onboard_time": 1715555835,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 281502,
       "num": 265592,
       "word": "姜汉娜拍的IU",
@@ -1377,6 +1481,14 @@
       "onboard_time": 1715521161,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274549,
+      "num": 274549,
+      "word": "地磁暴太阳耀斑不会影响身体健康",
+      "onboard_time": 1715559979,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 273568,
@@ -1443,6 +1555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263781,
+      "num": 263781,
+      "word": "成都吉普",
+      "onboard_time": 1715562618,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261996,
       "num": 261996,
       "word": "歌手2024导演不是洪涛",
@@ -1467,6 +1587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258269,
+      "num": 258269,
+      "word": "男子KTV唱歌被咬伤商家称老鼠是自由的",
+      "onboard_time": 1715560279,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257572,
+      "num": 257572,
+      "word": "恋与深空",
+      "onboard_time": 1715560880,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254247,
       "num": 254247,
       "word": "人气歌谣",
@@ -1489,6 +1625,14 @@
       "onboard_time": 1715516602,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250449,
+      "num": 250449,
+      "word": "近40%日企留用70岁以上的员工",
+      "onboard_time": 1715559317,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248163,
@@ -1537,14 +1681,6 @@
       "onboard_time": 1715484199,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242182,
-      "num": 242182,
-      "word": "普京任命绍伊古为俄安全会议秘书",
-      "onboard_time": 1715555835,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 236033,
@@ -1603,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226478,
+      "num": 226478,
+      "word": "马伊琍拍我的阿勒泰中途补拍繁花",
+      "onboard_time": 1715556675,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225080,
       "num": 399732,
       "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
@@ -1625,6 +1769,14 @@
       "onboard_time": 1715515221,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223505,
+      "num": 223505,
+      "word": "董明珠体验汉服",
+      "onboard_time": 1715559679,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 222703,
@@ -1673,14 +1825,6 @@
       "onboard_time": 1715472257,
       "rank": 25,
       "category": "音乐,自然"
-    },
-    {
-      "raw_hot": 214940,
-      "num": 214940,
-      "word": "otto被封",
-      "onboard_time": 1715555957,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 214159,
@@ -1825,6 +1969,14 @@
       "onboard_time": 1715427319,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193145,
+      "num": 193145,
+      "word": "周依然演技",
+      "onboard_time": 1715562198,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 193025,
@@ -1995,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176341,
+      "num": 176341,
+      "word": "克里斯哭了",
+      "onboard_time": 1715559618,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176150,
       "num": 176150,
       "word": "宋亚轩叫妈妈美女",
@@ -2049,6 +2209,14 @@
       "onboard_time": 1715508440,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169864,
+      "num": 169864,
+      "word": "滴滴回应女子突然收到天价订单",
+      "onboard_time": 1715560758,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169362,
@@ -2161,6 +2329,14 @@
       "onboard_time": 1715498599,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163273,
+      "num": 163273,
+      "word": "当i狗新交了e狗朋友",
+      "onboard_time": 1715561239,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 163242,
@@ -2481,6 +2657,14 @@
       "onboard_time": 1715421017,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139348,
+      "num": 139348,
+      "word": "那英表情包",
+      "onboard_time": 1715557697,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 139323,
@@ -3003,6 +3187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97139,
+      "num": 421957,
+      "word": "妈妈带罕见病儿子走过100个城市",
+      "onboard_time": 1715555415,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94658,
       "num": 94658,
       "word": "母亲节礼物",
@@ -3123,14 +3315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78342,
-      "num": 78342,
-      "word": "马伊琍拍我的阿勒泰中途补拍繁花",
-      "onboard_time": 1715556675,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77421,
       "num": 77421,
       "word": "陈丽君滤镜掉了",
@@ -3161,6 +3345,14 @@
       "onboard_time": 1715497218,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71167,
+      "num": 339069,
+      "word": "嗓子废了是职业病吗",
+      "onboard_time": 1715562019,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 71068,
@@ -3272,14 +3464,6 @@
       "word": "妈妈是最好哄的孩子",
       "onboard_time": 1715469193,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43992,
-      "num": 345380,
-      "word": "妈妈带罕见病儿子走过100个城市",
-      "onboard_time": 1715555415,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
