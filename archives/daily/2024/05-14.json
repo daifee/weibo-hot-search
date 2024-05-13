@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715627692395,
+  "endTime": 1715628884086,
   "band_list": [
     {
       "raw_hot": 1458496,
@@ -371,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 82832,
+      "num": 82832,
+      "word": "螺蛳粉官宣英文名",
+      "onboard_time": 1715625312,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 82600,
       "num": 111325,
       "word": "上班的累是来自情绪劳动而不是工作本身",
@@ -451,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52880,
-      "num": 52880,
-      "word": "螺蛳粉官宣英文名",
-      "onboard_time": 1715625312,
-      "rank": 13,
-      "category": "美食"
-    },
-    {
       "raw_hot": 49616,
       "num": 49616,
       "word": "网友曝李亚鹏拖欠工资",
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35310,
+      "num": 35310,
+      "word": "李承铉让Lucky等弟弟长大后再收拾",
+      "onboard_time": 1715626211,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34568,
       "num": 34568,
       "word": "章昊主打直拍",
@@ -499,12 +507,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 30356,
-      "num": 30355,
-      "word": "李承铉让Lucky等弟弟长大后再收拾",
-      "onboard_time": 1715626211,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 32074,
+      "num": 32074,
+      "word": "巴勒斯坦女子崩溃呼喊我太累了",
+      "onboard_time": 1715627413,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 23054,
@@ -531,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17601,
-      "num": 22528,
-      "word": "巴勒斯坦女子崩溃呼喊我太累了",
-      "onboard_time": 1715627413,
-      "rank": 48,
-      "category": "国外时政"
+      "raw_hot": 15620,
+      "num": 15620,
+      "word": "剧集新生",
+      "onboard_time": 1715627711,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 9492,

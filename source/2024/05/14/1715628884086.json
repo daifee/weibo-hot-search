@@ -1,0 +1,410 @@
+{
+  "runTime": 1715628884086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 155550,
+        "num": 155550,
+        "word": "欧阳娜娜回应",
+        "onboard_time": 1715612180,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136333,
+        "num": 136333,
+        "word": "中方决定不同意台湾地区参加今年世卫大会",
+        "onboard_time": 1715598198,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13888,
+        "num": 135932,
+        "word": "我国核电技术已进入世界第一方阵",
+        "onboard_time": 1715605459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135640,
+        "num": 135640,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82832,
+        "num": 82832,
+        "word": "螺蛳粉官宣英文名",
+        "onboard_time": 1715625312,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 64702,
+        "num": 64702,
+        "word": "院长被校内观光车撞死认定司机全责",
+        "onboard_time": 1715611638,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88748,
+        "num": 58656,
+        "word": "张杰曾为去歌手赔款",
+        "onboard_time": 1715611761,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50442,
+        "num": 50442,
+        "word": "赵露思直播的妆是自己化的",
+        "onboard_time": 1715613380,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44001,
+        "num": 44001,
+        "word": "芒果糯米饭",
+        "onboard_time": 1715619135,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 26092,
+        "num": 42943,
+        "word": "唐氏变脸女孩妈妈流泪发声",
+        "onboard_time": 1715609479,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93153,
+        "num": 41746,
+        "word": "麦当劳中国声明",
+        "onboard_time": 1715612479,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 67735,
+        "num": 40387,
+        "word": "海口近8吨死鱼将无害化处置",
+        "onboard_time": 1715620394,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46463,
+        "num": 38675,
+        "word": "贾静雯回应缺席苏有朋演唱会",
+        "onboard_time": 1715616259,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38569,
+        "num": 38569,
+        "word": "Uzi G2",
+        "onboard_time": 1715610441,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38301,
+        "num": 38301,
+        "word": "菲律宾",
+        "onboard_time": 1715619434,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38157,
+        "num": 38157,
+        "word": "辅导员没说清楚吗",
+        "onboard_time": 1715619915,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35310,
+        "num": 35310,
+        "word": "李承铉让Lucky等弟弟长大后再收拾",
+        "onboard_time": 1715626211,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32074,
+        "num": 32074,
+        "word": "巴勒斯坦女子崩溃呼喊我太累了",
+        "onboard_time": 1715627413,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35589,
+        "num": 31842,
+        "word": "歌手",
+        "onboard_time": 1715592560,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30141,
+        "num": 30141,
+        "word": "蛇哥退出老头杯",
+        "onboard_time": 1715605519,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44702,
+        "num": 30118,
+        "word": "韩系在中国为什么不火了",
+        "onboard_time": 1715614039,
+        "rank": 20,
+        "category": "财经,美妆"
+      },
+      {
+        "raw_hot": 43909,
+        "num": 30078,
+        "word": "每天只有3亿人发布朋友圈",
+        "onboard_time": 1715609721,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 40060,
+        "num": 30000,
+        "word": "喝水后有4种表现是肾脏在求救",
+        "onboard_time": 1715610920,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29920,
+        "num": 29920,
+        "word": "中医建议不要太频繁的刮痧",
+        "onboard_time": 1715589858,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29561,
+        "num": 29561,
+        "word": "国家电网回应6月1日电费涨价",
+        "onboard_time": 1715599938,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28023,
+        "num": 28023,
+        "word": "六道直播",
+        "onboard_time": 1715624592,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26779,
+        "num": 26779,
+        "word": "微信澄清11个谣言",
+        "onboard_time": 1715615058,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26692,
+        "num": 26692,
+        "word": "那英王菲 好嗑",
+        "onboard_time": 1715606361,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26225,
+        "num": 26225,
+        "word": "我的阿勒泰 意难平",
+        "onboard_time": 1715621172,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25290,
+        "num": 25290,
+        "word": "张铁林不和范伟合作演戏的原因",
+        "onboard_time": 1715615237,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24767,
+        "num": 24767,
+        "word": "市监回应麦当劳给过期食材换标签",
+        "onboard_time": 1715613439,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23552,
+        "num": 23552,
+        "word": "aespa概念",
+        "onboard_time": 1715612719,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22644,
+        "num": 22644,
+        "word": "宋茜ins宣传中国瓷器",
+        "onboard_time": 1715619015,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22548,
+        "num": 22548,
+        "word": "嬛嬛 朕能不能睡中间",
+        "onboard_time": 1715609059,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22267,
+        "num": 22267,
+        "word": "老头杯换人",
+        "onboard_time": 1715601679,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21779,
+        "num": 21779,
+        "word": "种地吧",
+        "onboard_time": 1715621653,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21644,
+        "num": 21644,
+        "word": "萧鼎修订诛仙",
+        "onboard_time": 1715603660,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 21214,
+        "num": 21214,
+        "word": "张翰凯丽 无声告别",
+        "onboard_time": 1715601560,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20400,
+        "num": 20400,
+        "word": "G2找Uzi约训练赛",
+        "onboard_time": 1715611042,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20032,
+        "num": 20032,
+        "word": "官方回应法官被指微信指挥庭审",
+        "onboard_time": 1715615359,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19569,
+        "num": 19569,
+        "word": "韩红拿了冠军还要发简历",
+        "onboard_time": 1715589858,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18822,
+        "num": 18822,
+        "word": "张凌赫伦敦看秀",
+        "onboard_time": 1715626391,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18699,
+        "num": 18699,
+        "word": "年轻人开始整顿上海相亲角了",
+        "onboard_time": 1715610559,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18229,
+        "num": 18229,
+        "word": "官方通报动物园20只东北虎死亡",
+        "onboard_time": 1715595077,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18161,
+        "num": 18161,
+        "word": "背着善宰跑",
+        "onboard_time": 1715603359,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17844,
+        "num": 17844,
+        "word": "网友曝李亚鹏拖欠工资",
+        "onboard_time": 1715598919,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16874,
+        "num": 16874,
+        "word": "夫妻车内吵架妻子经过收费站喊救命",
+        "onboard_time": 1715604259,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16770,
+        "num": 16770,
+        "word": "井柏然吃牛排",
+        "onboard_time": 1715608939,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16191,
+        "num": 16191,
+        "word": "难听",
+        "onboard_time": 1715592499,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15620,
+        "num": 15620,
+        "word": "剧集新生",
+        "onboard_time": 1715627711,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席欧洲之行发出和平团结合作强音#"
+    }
+  }
+}
