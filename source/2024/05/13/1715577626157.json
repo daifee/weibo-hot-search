@@ -1,0 +1,410 @@
+{
+  "runTime": 1715577626157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2177210,
+        "num": 2177210,
+        "word": "韩红报名方式错了",
+        "onboard_time": 1715568859,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1532686,
+        "num": 1532686,
+        "word": "男子中奖1000万瞒妻子给前妻买房",
+        "onboard_time": 1715572100,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91304,
+        "num": 1205153,
+        "word": "匈牙利百年建筑散发出浓浓中国味",
+        "onboard_time": 1715573781,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1537353,
+        "num": 1167159,
+        "word": "歌手报名名单",
+        "onboard_time": 1715571259,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1059110,
+        "num": 1059110,
+        "word": "南通车祸",
+        "onboard_time": 1715572699,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640680,
+        "num": 640680,
+        "word": "只休一天就上班真的好累啊",
+        "onboard_time": 1715565377,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1017345,
+        "num": 638649,
+        "word": "那英问汪苏泷你妈多大",
+        "onboard_time": 1715576060,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1012741,
+        "num": 603881,
+        "word": "张杰曾在offer谈被质疑假唱",
+        "onboard_time": 1715572580,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512697,
+        "num": 512697,
+        "word": "抑郁症患者会无意识做哪些事情",
+        "onboard_time": 1715570719,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148247,
+        "num": 487886,
+        "word": "护士小姐姐救人时突生神力",
+        "onboard_time": 1715567837,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 645791,
+        "num": 487004,
+        "word": "杨幂这一年在频繁自我对话",
+        "onboard_time": 1715574260,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478945,
+        "num": 478945,
+        "word": "时隔6年半韩国外长今起访华",
+        "onboard_time": 1715574381,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 740046,
+        "num": 476185,
+        "word": "张杰说唱live是歌手最基本的要求",
+        "onboard_time": 1715568978,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 465742,
+        "num": 465742,
+        "word": "颜如晶一个月腰围腿围减了10厘米",
+        "onboard_time": 1715574260,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407352,
+        "num": 407352,
+        "word": "南京林业大学宋凯",
+        "onboard_time": 1715576601,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398694,
+        "num": 398694,
+        "word": "WBG打野Tarzan",
+        "onboard_time": 1715575581,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 383190,
+        "num": 383190,
+        "word": "男生地铁上被女子偷拍追上硬刚",
+        "onboard_time": 1715573480,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373605,
+        "num": 373605,
+        "word": "KnowKnow自荐歌手",
+        "onboard_time": 1715570120,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291375,
+        "num": 291375,
+        "word": "偷感考研人vs装感考研人",
+        "onboard_time": 1715572159,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256117,
+        "num": 256117,
+        "word": "阜阳野生动物园回应20只东北虎死亡",
+        "onboard_time": 1715571560,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22511,
+        "num": 254019,
+        "word": "曾舜晞白月光的杀伤力",
+        "onboard_time": 1715576540,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477682,
+        "num": 249132,
+        "word": "迪丽热巴戴了唇环",
+        "onboard_time": 1715576782,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360453,
+        "num": 247054,
+        "word": "王鹤棣新综艺官宣",
+        "onboard_time": 1715574081,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340476,
+        "num": 242591,
+        "word": "多位歌手请战歌手2024",
+        "onboard_time": 1715569040,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238579,
+        "num": 238579,
+        "word": "身体4个异常说明骨头已变脆",
+        "onboard_time": 1715576121,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296528,
+        "num": 232293,
+        "word": "孟子义这是上电视能说的吗",
+        "onboard_time": 1715575522,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307186,
+        "num": 227882,
+        "word": "娄艺潇自荐歌手",
+        "onboard_time": 1715558178,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284277,
+        "num": 226925,
+        "word": "狐妖小红娘月红篇生性爱笑花絮",
+        "onboard_time": 1715576361,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223429,
+        "num": 223429,
+        "word": "最近四川人指甲都黄了",
+        "onboard_time": 1715567659,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275326,
+        "num": 222626,
+        "word": "Alin报名歌手",
+        "onboard_time": 1715556436,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224768,
+        "num": 222284,
+        "word": "王俊凯接触陷入我们的热恋",
+        "onboard_time": 1715572759,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221437,
+        "num": 221437,
+        "word": "张怡宁说反正最终都是咱们中国赢",
+        "onboard_time": 1715568919,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242146,
+        "num": 220985,
+        "word": "A妹 歌手",
+        "onboard_time": 1715560518,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219546,
+        "num": 219546,
+        "word": "孟子义当着戚薇的面唱如果爱忘了",
+        "onboard_time": 1715577319,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184299,
+        "num": 184299,
+        "word": "基金赚钱基民亏将成为过去时",
+        "onboard_time": 1715574442,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204080,
+        "num": 183907,
+        "word": "汪苏泷2024十万伏特巡回演唱会",
+        "onboard_time": 1715577560,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198594,
+        "num": 183534,
+        "word": "周深反深代词定档了",
+        "onboard_time": 1715577560,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421800,
+        "num": 183516,
+        "word": "殡仪馆回应市民为南通去世女孩送花",
+        "onboard_time": 1715571380,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183063,
+        "num": 183063,
+        "word": "梦之队投票预热",
+        "onboard_time": 1715576661,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180578,
+        "num": 180578,
+        "word": "原来机场显示屏上是PPT",
+        "onboard_time": 1715577140,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197077,
+        "num": 180238,
+        "word": "韩红请战歌手",
+        "onboard_time": 1715507299,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190301,
+        "num": 179623,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1715577200,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196314,
+        "num": 178602,
+        "word": "歌手2024请揭榜",
+        "onboard_time": 1715576182,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190995,
+        "num": 177324,
+        "word": "歌手官微回应",
+        "onboard_time": 1715515944,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176815,
+        "num": 176815,
+        "word": "向佐给向太郭碧婷过母亲节",
+        "onboard_time": 1715568919,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178944,
+        "num": 176756,
+        "word": "南通车祸现场救援者称只是做了该做的",
+        "onboard_time": 1715569818,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161234,
+        "num": 161234,
+        "word": "有人望梅止渴有人望妹止疯",
+        "onboard_time": 1715577500,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160865,
+        "num": 160865,
+        "word": "工作后择偶观都变了",
+        "onboard_time": 1715575041,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153148,
+        "num": 153148,
+        "word": "庆余年第二季开播倒计时3天",
+        "onboard_time": 1715573480,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152770,
+        "num": 152770,
+        "word": "改成绩事件涉事人员称是为救学生",
+        "onboard_time": 1715563998,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中欧关系稳定健康发展#"
+    }
+  }
+}

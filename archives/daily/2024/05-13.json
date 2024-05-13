@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715574969791,
+  "endTime": 1715577626157,
   "band_list": [
     {
       "raw_hot": 3155031,
@@ -123,7 +123,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1003835,
+      "raw_hot": 1017345,
+      "num": 638649,
+      "word": "那英问汪苏泷你妈多大",
+      "onboard_time": 1715576060,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1012741,
       "num": 795913,
       "word": "张杰曾在offer谈被质疑假唱",
       "onboard_time": 1715572580,
@@ -217,6 +225,14 @@
       "onboard_time": 1715570719,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 645791,
+      "num": 487004,
+      "word": "杨幂这一年在频繁自我对话",
+      "onboard_time": 1715574260,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 628145,
@@ -347,11 +363,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478945,
+      "num": 478945,
+      "word": "时隔6年半韩国外长今起访华",
+      "onboard_time": 1715574381,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 477887,
       "num": 243159,
       "word": "王晰报名",
       "onboard_time": 1715518461,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 477682,
+      "num": 249132,
+      "word": "迪丽热巴戴了唇环",
+      "onboard_time": 1715576782,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -361,6 +393,14 @@
       "onboard_time": 1715564897,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465742,
+      "num": 465742,
+      "word": "颜如晶一个月腰围腿围减了10厘米",
+      "onboard_time": 1715574260,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 452261,
@@ -384,6 +424,14 @@
       "word": "成都吉普",
       "onboard_time": 1715562618,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421800,
+      "num": 376073,
+      "word": "殡仪馆回应市民为南通去世女孩送花",
+      "onboard_time": 1715571380,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -411,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407352,
+      "num": 407352,
+      "word": "南京林业大学宋凯",
+      "onboard_time": 1715576601,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407084,
       "num": 407084,
       "word": "阜阳野生动物园回应20只东北虎死亡",
       "onboard_time": 1715571560,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398694,
+      "num": 398694,
+      "word": "WBG打野Tarzan",
+      "onboard_time": 1715575581,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 389096,
@@ -427,12 +491,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 387055,
-      "num": 387055,
-      "word": "时隔6年半韩国外长今起访华",
-      "onboard_time": 1715574381,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 383190,
+      "num": 383190,
+      "word": "男生地铁上被女子偷拍追上硬刚",
+      "onboard_time": 1715573480,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381120,
@@ -441,14 +505,6 @@
       "onboard_time": 1715567959,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376073,
-      "num": 376073,
-      "word": "殡仪馆回应市民为南通去世女孩送花",
-      "onboard_time": 1715571380,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371172,
@@ -531,14 +587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 338945,
-      "num": 292360,
-      "word": "杨幂这一年在频繁自我对话",
-      "onboard_time": 1715574260,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 338896,
       "num": 338896,
       "word": "otto被封",
@@ -577,14 +625,6 @@
       "onboard_time": 1715572159,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 319538,
-      "num": 279779,
-      "word": "颜如晶一个月腰围腿围减了10厘米",
-      "onboard_time": 1715574260,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 315193,
@@ -635,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296528,
+      "num": 232293,
+      "word": "孟子义这是上电视能说的吗",
+      "onboard_time": 1715575522,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288438,
       "num": 288438,
       "word": "鬼灭之刃",
@@ -657,6 +705,14 @@
       "onboard_time": 1715524042,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 284277,
+      "num": 226925,
+      "word": "狐妖小红娘月红篇生性爱笑花絮",
+      "onboard_time": 1715576361,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 284217,
@@ -771,12 +827,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 236484,
-      "num": 236484,
-      "word": "男生地铁上被女子偷拍追上硬刚",
-      "onboard_time": 1715573480,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 238579,
+      "num": 238579,
+      "word": "身体4个异常说明骨头已变脆",
+      "onboard_time": 1715576121,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 233943,
@@ -827,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219546,
+      "num": 219546,
+      "word": "孟子义当着戚薇的面唱如果爱忘了",
+      "onboard_time": 1715577319,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219393,
       "num": 219393,
       "word": "胡歌金靖首演兄妹",
@@ -859,6 +923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 204080,
+      "num": 183907,
+      "word": "汪苏泷2024十万伏特巡回演唱会",
+      "onboard_time": 1715577560,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204071,
       "num": 204071,
       "word": "长期不刷牙可能引发败血症",
@@ -867,11 +939,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198594,
+      "num": 183534,
+      "word": "周深反深代词定档了",
+      "onboard_time": 1715577560,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197642,
       "num": 197642,
       "word": "娄艺潇毕业于上戏音乐剧专业",
       "onboard_time": 1715563938,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196314,
+      "num": 178602,
+      "word": "歌手2024请揭榜",
+      "onboard_time": 1715576182,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -899,6 +987,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 190301,
+      "num": 179623,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1715577200,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186388,
       "num": 186388,
       "word": "歌手网传赛制",
@@ -923,12 +1019,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183063,
+      "num": 183063,
+      "word": "梦之队投票预热",
+      "onboard_time": 1715576661,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180929,
       "num": 180929,
       "word": "吃得少但不容易饿的方法",
       "onboard_time": 1715525242,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180578,
+      "num": 180578,
+      "word": "原来机场显示屏上是PPT",
+      "onboard_time": 1715577140,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 176341,
@@ -1009,6 +1121,22 @@
       "onboard_time": 1715563578,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161234,
+      "num": 161234,
+      "word": "有人望梅止渴有人望妹止疯",
+      "onboard_time": 1715577500,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160865,
+      "num": 160865,
+      "word": "工作后择偶观都变了",
+      "onboard_time": 1715575041,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 157561,
@@ -1291,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91304,
+      "num": 1686265,
+      "word": "匈牙利百年建筑散发出浓浓中国味",
+      "onboard_time": 1715573781,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90797,
       "num": 90797,
       "word": "西湖音乐节",
@@ -1329,14 +1465,6 @@
       "onboard_time": 1715543230,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 73390,
-      "num": 1686265,
-      "word": "匈牙利百年建筑散发出浓浓中国味",
-      "onboard_time": 1715573781,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68753,
@@ -1400,6 +1528,14 @@
       "word": "林俊杰陪地震后的小朋友过儿童节",
       "onboard_time": 1715539032,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22511,
+      "num": 254019,
+      "word": "曾舜晞白月光的杀伤力",
+      "onboard_time": 1715576540,
+      "rank": 20,
       "category": "艺人"
     },
     {

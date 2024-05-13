@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715574969791,
+  "endTime": 1715577626157,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -379,7 +379,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1003835,
+      "raw_hot": 1017345,
+      "num": 638649,
+      "word": "那英问汪苏泷你妈多大",
+      "onboard_time": 1715576060,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1012741,
       "num": 795913,
       "word": "张杰曾在offer谈被质疑假唱",
       "onboard_time": 1715572580,
@@ -755,6 +763,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 645791,
+      "num": 487004,
+      "word": "杨幂这一年在频繁自我对话",
+      "onboard_time": 1715574260,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 628145,
       "num": 628145,
       "word": "阿兰助攻",
@@ -1083,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478945,
+      "num": 478945,
+      "word": "时隔6年半韩国外长今起访华",
+      "onboard_time": 1715574381,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 478124,
       "num": 478124,
       "word": "班级成绩第一老师请全班吃烤全羊",
       "onboard_time": 1715465171,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477682,
+      "num": 249132,
+      "word": "迪丽热巴戴了唇环",
+      "onboard_time": 1715576782,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 477552,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1715564897,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465742,
+      "num": 465742,
+      "word": "颜如晶一个月腰围腿围减了10厘米",
+      "onboard_time": 1715574260,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 463921,
@@ -1195,6 +1235,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 421800,
+      "num": 376073,
+      "word": "殡仪馆回应市民为南通去世女孩送花",
+      "onboard_time": 1715571380,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420324,
       "num": 225760,
       "word": "母亲节礼物直接转账这届年轻人很实在",
@@ -1243,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407352,
+      "num": 407352,
+      "word": "南京林业大学宋凯",
+      "onboard_time": 1715576601,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407084,
       "num": 407084,
       "word": "阜阳野生动物园回应20只东北虎死亡",
@@ -1275,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398694,
+      "num": 398694,
+      "word": "WBG打野Tarzan",
+      "onboard_time": 1715575581,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 396568,
       "num": 396568,
       "word": "椰树直播间模特捂严实了",
@@ -1299,12 +1363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387055,
-      "num": 387055,
-      "word": "时隔6年半韩国外长今起访华",
-      "onboard_time": 1715574381,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 383190,
+      "num": 383190,
+      "word": "男生地铁上被女子偷拍追上硬刚",
+      "onboard_time": 1715573480,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381283,
@@ -1329,14 +1393,6 @@
       "onboard_time": 1715523742,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376073,
-      "num": 376073,
-      "word": "殡仪馆回应市民为南通去世女孩送花",
-      "onboard_time": 1715571380,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375277,
@@ -1515,14 +1571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338945,
-      "num": 292360,
-      "word": "杨幂这一年在频繁自我对话",
-      "onboard_time": 1715574260,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 338896,
       "num": 338896,
       "word": "otto被封",
@@ -1627,14 +1675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 319538,
-      "num": 279779,
-      "word": "颜如晶一个月腰围腿围减了10厘米",
-      "onboard_time": 1715574260,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318059,
       "num": 318059,
       "word": "极光",
@@ -1723,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296528,
+      "num": 232293,
+      "word": "孟子义这是上电视能说的吗",
+      "onboard_time": 1715575522,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294865,
       "num": 294865,
       "word": "张予曦撞脸黄子韬",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1715485277,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284277,
+      "num": 226925,
+      "word": "狐妖小红娘月红篇生性爱笑花絮",
+      "onboard_time": 1715576361,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 284217,
@@ -2019,12 +2075,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236484,
-      "num": 236484,
-      "word": "男生地铁上被女子偷拍追上硬刚",
-      "onboard_time": 1715573480,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 238579,
+      "num": 238579,
+      "word": "身体4个异常说明骨头已变脆",
+      "onboard_time": 1715576121,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 236033,
@@ -2179,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219546,
+      "num": 219546,
+      "word": "孟子义当着戚薇的面唱如果爱忘了",
+      "onboard_time": 1715577319,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219411,
       "num": 219411,
       "word": "江苏南通多地抢修红绿灯",
@@ -2267,6 +2331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 204080,
+      "num": 183907,
+      "word": "汪苏泷2024十万伏特巡回演唱会",
+      "onboard_time": 1715577560,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202768,
       "num": 202768,
       "word": "严浩翔被婴语为难住了",
@@ -2315,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198594,
+      "num": 183534,
+      "word": "周深反深代词定档了",
+      "onboard_time": 1715577560,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198125,
       "num": 158149,
       "word": "我的阿勒泰 爱会从眼里流出来",
@@ -2353,6 +2433,14 @@
       "onboard_time": 1715430259,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196314,
+      "num": 178602,
+      "word": "歌手2024请揭榜",
+      "onboard_time": 1715576182,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 193708,
@@ -2443,6 +2531,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 190301,
+      "num": 179623,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1715577200,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190054,
       "num": 190054,
       "word": "西湖音乐节",
@@ -2523,6 +2619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183063,
+      "num": 183063,
+      "word": "梦之队投票预热",
+      "onboard_time": 1715576661,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182862,
       "num": 182862,
       "word": "乘客在飞机上拍到紫色极光",
@@ -2545,6 +2649,14 @@
       "onboard_time": 1715480897,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180578,
+      "num": 180578,
+      "word": "原来机场显示屏上是PPT",
+      "onboard_time": 1715577140,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 178903,
@@ -2897,6 +3009,22 @@
       "onboard_time": 1715498778,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161234,
+      "num": 161234,
+      "word": "有人望梅止渴有人望妹止疯",
+      "onboard_time": 1715577500,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160865,
+      "num": 160865,
+      "word": "工作后择偶观都变了",
+      "onboard_time": 1715575041,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 159283,
@@ -3859,6 +3987,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 91304,
+      "num": 1686265,
+      "word": "匈牙利百年建筑散发出浓浓中国味",
+      "onboard_time": 1715573781,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90468,
       "num": 90468,
       "word": "母亲节快乐",
@@ -3969,14 +4105,6 @@
       "onboard_time": 1715491037,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73390,
-      "num": 1686265,
-      "word": "匈牙利百年建筑散发出浓浓中国味",
-      "onboard_time": 1715573781,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73174,
@@ -4145,6 +4273,14 @@
       "onboard_time": 1715484199,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22511,
+      "num": 254019,
+      "word": "曾舜晞白月光的杀伤力",
+      "onboard_time": 1715576540,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 22291,
