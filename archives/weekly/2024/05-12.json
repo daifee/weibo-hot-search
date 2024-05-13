@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715571277011,
+  "endTime": 1715574173667,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3155031,
+      "num": 2955797,
+      "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
+      "onboard_time": 1715569340,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3137336,
       "num": 519550,
       "word": "英子 你的红来了",
       "onboard_time": 1715509522,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2955797,
-      "num": 2955797,
-      "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
-      "onboard_time": 1715569340,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2933079,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1761211,
+      "num": 1761211,
+      "word": "男子中奖1000万瞒妻子给前妻买房",
+      "onboard_time": 1715572100,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1713269,
       "num": 441584,
       "word": "纪敏佳自荐歌手",
@@ -160,6 +168,14 @@
       "word": "断眉 歌手",
       "onboard_time": 1715475857,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1422579,
+      "num": 1422579,
+      "word": "歌手报名名单",
+      "onboard_time": 1715571259,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 1104603,
-      "num": 314658,
+      "num": 913302,
       "word": "只休一天就上班真的好累啊",
       "onboard_time": 1715565377,
       "rank": 20,
@@ -417,6 +433,14 @@
       "onboard_time": 1715483838,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 896257,
+      "num": 896257,
+      "word": "南通车祸",
+      "onboard_time": 1715572699,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 893700,
@@ -747,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 622505,
+      "num": 622505,
+      "word": "抑郁症患者会无意识做哪些事情",
+      "onboard_time": 1715570719,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 619734,
       "num": 349887,
       "word": "本周狗屎运最旺的星座",
@@ -793,6 +825,14 @@
       "onboard_time": 1715445378,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595889,
+      "num": 595889,
+      "word": "张杰曾在offer谈被质疑假唱",
+      "onboard_time": 1715572580,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 592895,
@@ -883,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551470,
+      "num": 551470,
+      "word": "KnowKnow自荐歌手",
+      "onboard_time": 1715570120,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538817,
       "num": 538817,
       "word": "mlxg与otto老头杯红温",
@@ -931,6 +979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 518529,
+      "num": 340213,
+      "word": "多位歌手请战歌手2024",
+      "onboard_time": 1715569040,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515892,
       "num": 247662,
       "word": "亚当 歌手",
@@ -948,7 +1004,7 @@
     },
     {
       "raw_hot": 505503,
-      "num": 351252,
+      "num": 437127,
       "word": "向佐给向太郭碧婷过母亲节",
       "onboard_time": 1715568919,
       "rank": 11,
@@ -1011,19 +1067,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487691,
+      "num": 487691,
+      "word": "张怡宁说反正最终都是咱们中国赢",
+      "onboard_time": 1715568919,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 486024,
       "num": 284168,
       "word": "陈建斌出战能给对手唱emo",
       "onboard_time": 1715565198,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 480865,
-      "num": 338167,
-      "word": "多位歌手请战歌手2024",
-      "onboard_time": 1715569040,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1187,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407084,
+      "num": 407084,
+      "word": "阜阳野生动物园回应20只东北虎死亡",
+      "onboard_time": 1715571560,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406702,
       "num": 307009,
       "word": "何洛洛0片约",
@@ -1217,14 +1281,6 @@
       "onboard_time": 1715510782,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 396475,
-      "num": 264632,
-      "word": "KnowKnow自荐歌手",
-      "onboard_time": 1715570120,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 392355,
@@ -1265,6 +1321,14 @@
       "onboard_time": 1715523742,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376073,
+      "num": 376073,
+      "word": "殡仪馆回应市民为南通去世女孩送花",
+      "onboard_time": 1715571380,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375277,
@@ -1347,12 +1411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352692,
-      "num": 352692,
-      "word": "张怡宁说反正最终都是咱们中国赢",
-      "onboard_time": 1715568919,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 353273,
+      "num": 275478,
+      "word": "王俊凯接触陷入我们的热恋",
+      "onboard_time": 1715572759,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 352052,
@@ -1443,6 +1507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 337381,
+      "num": 271867,
+      "word": "庆余年第二季开播倒计时3天",
+      "onboard_time": 1715573480,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335071,
       "num": 335071,
       "word": "游客模仿危险网红悬崖照吓到腿抖",
@@ -1481,6 +1553,14 @@
       "onboard_time": 1715513481,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329007,
+      "num": 271388,
+      "word": "那英跟韩红的反应真像",
+      "onboard_time": 1715570179,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 328461,
@@ -1619,14 +1699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289416,
-      "num": 227113,
-      "word": "那英跟韩红的反应真像",
-      "onboard_time": 1715570179,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287991,
       "num": 173356,
       "word": "黄妈实力",
@@ -1673,6 +1745,14 @@
       "onboard_time": 1715526981,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 280295,
+      "num": 280295,
+      "word": "偷感考研人vs装感考研人",
+      "onboard_time": 1715572159,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 279345,
@@ -1771,6 +1851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262820,
+      "num": 262820,
+      "word": "宋轶丞磊二搭了",
+      "onboard_time": 1715572159,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261996,
       "num": 261996,
       "word": "歌手2024导演不是洪涛",
@@ -1835,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250942,
+      "num": 250942,
+      "word": "小米宣布与京东全面深化战略合作",
+      "onboard_time": 1715570359,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 250449,
       "num": 250449,
       "word": "近40%日企留用70岁以上的员工",
@@ -1889,14 +1985,6 @@
       "onboard_time": 1715484199,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236734,
-      "num": 223340,
-      "word": "抑郁症患者会无意识做哪些事情",
-      "onboard_time": 1715570719,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 236033,
@@ -2099,6 +2187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211282,
+      "num": 211282,
+      "word": "男生地铁上被女子偷拍追上硬刚",
+      "onboard_time": 1715573480,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210308,
       "num": 204980,
       "word": "孙楠还会远吗",
@@ -2169,14 +2265,6 @@
       "onboard_time": 1715481977,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199882,
-      "num": 199882,
-      "word": "小米宣布与京东全面深化战略合作",
-      "onboard_time": 1715570359,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 198732,
@@ -2308,7 +2396,7 @@
     },
     {
       "raw_hot": 190316,
-      "num": 352023,
+      "num": 551983,
       "word": "护士小姐姐救人时突生神力",
       "onboard_time": 1715567837,
       "rank": 45,
@@ -2475,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175168,
+      "num": 175168,
+      "word": "出走半生归来仍是上班搭子",
+      "onboard_time": 1715571860,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175058,
       "num": 175058,
       "word": "新生代阿达娃申请出战",
@@ -2504,6 +2600,14 @@
       "word": "不敢全开麦无修音不全是艺人的问题",
       "onboard_time": 1715477057,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171917,
+      "num": 171917,
+      "word": "王鹤棣新综艺官宣",
+      "onboard_time": 1715574081,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -2617,6 +2721,14 @@
       "onboard_time": 1715524403,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164567,
+      "num": 164567,
+      "word": "学生时代的同学真的是人脉吗",
+      "onboard_time": 1715573601,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 164441,
@@ -2779,6 +2891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157561,
+      "num": 157561,
+      "word": "儿童智能手表变得越来越像手机",
+      "onboard_time": 1715571499,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157508,
       "num": 157508,
       "word": "洋葱是可以吃的心脏支架",
@@ -2889,6 +3009,14 @@
       "onboard_time": 1715435481,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147522,
+      "num": 147522,
+      "word": "还以为大爷带双胞胎散步呢",
+      "onboard_time": 1715573960,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 147348,
@@ -3019,14 +3147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139364,
-      "num": 117129,
-      "word": "歌手报名名单",
-      "onboard_time": 1715571259,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139348,
       "num": 139348,
       "word": "那英表情包",
@@ -3073,6 +3193,14 @@
       "onboard_time": 1715569279,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136539,
+      "num": 136539,
+      "word": "小猫偷溜进笼里陪猫爸做绝育",
+      "onboard_time": 1715574142,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 135976,
@@ -3921,6 +4049,14 @@
       "onboard_time": 1715468594,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 37067,
+      "num": 1569950,
+      "word": "匈牙利百年建筑散发出浓浓中国味",
+      "onboard_time": 1715573781,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28497,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1715574173667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2297226,
+        "num": 2297226,
+        "word": "韩红报名方式错了",
+        "onboard_time": 1715568859,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1761211,
+        "num": 1761211,
+        "word": "男子中奖1000万瞒妻子给前妻买房",
+        "onboard_time": 1715572100,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37067,
+        "num": 1569950,
+        "word": "匈牙利百年建筑散发出浓浓中国味",
+        "onboard_time": 1715573781,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1422579,
+        "num": 1422579,
+        "word": "歌手报名名单",
+        "onboard_time": 1715571259,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 913302,
+        "num": 913302,
+        "word": "只休一天就上班真的好累啊",
+        "onboard_time": 1715565377,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 896257,
+        "num": 896257,
+        "word": "南通车祸",
+        "onboard_time": 1715572699,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622505,
+        "num": 622505,
+        "word": "抑郁症患者会无意识做哪些事情",
+        "onboard_time": 1715570719,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 595889,
+        "num": 595889,
+        "word": "张杰曾在offer谈被质疑假唱",
+        "onboard_time": 1715572580,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559217,
+        "num": 559217,
+        "word": "南通车祸现场救援者称只是做了该做的",
+        "onboard_time": 1715569818,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164845,
+        "num": 551983,
+        "word": "护士小姐姐救人时突生神力",
+        "onboard_time": 1715567837,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 551470,
+        "num": 551470,
+        "word": "KnowKnow自荐歌手",
+        "onboard_time": 1715570120,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487691,
+        "num": 487691,
+        "word": "张怡宁说反正最终都是咱们中国赢",
+        "onboard_time": 1715568919,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437127,
+        "num": 437127,
+        "word": "向佐给向太郭碧婷过母亲节",
+        "onboard_time": 1715568919,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1182343,
+        "num": 435207,
+        "word": "张杰说唱live是歌手最基本的要求",
+        "onboard_time": 1715568978,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407084,
+        "num": 407084,
+        "word": "阜阳野生动物园回应20只东北虎死亡",
+        "onboard_time": 1715571560,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376073,
+        "num": 376073,
+        "word": "殡仪馆回应市民为南通去世女孩送花",
+        "onboard_time": 1715571380,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518529,
+        "num": 340213,
+        "word": "多位歌手请战歌手2024",
+        "onboard_time": 1715569040,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281303,
+        "num": 281303,
+        "word": "日晕",
+        "onboard_time": 1715570120,
+        "rank": 17,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 280295,
+        "num": 280295,
+        "word": "偷感考研人vs装感考研人",
+        "onboard_time": 1715572159,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 508007,
+        "num": 280275,
+        "word": "娄艺潇自荐歌手",
+        "onboard_time": 1715558178,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3155031,
+        "num": 278594,
+        "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
+        "onboard_time": 1715569340,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81759,
+        "num": 277458,
+        "word": "想跟金晨来一场citydrive吗",
+        "onboard_time": 1715569099,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484891,
+        "num": 276663,
+        "word": "韩红请战歌手",
+        "onboard_time": 1715507299,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152617,
+        "num": 275950,
+        "word": "智己L6爆品发布会",
+        "onboard_time": 1715569519,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 353273,
+        "num": 275478,
+        "word": "王俊凯接触陷入我们的热恋",
+        "onboard_time": 1715572759,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380487,
+        "num": 274184,
+        "word": "Alin报名歌手",
+        "onboard_time": 1715556436,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339375,
+        "num": 273520,
+        "word": "谢娜用预制调料包做菜",
+        "onboard_time": 1715568319,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337381,
+        "num": 271867,
+        "word": "庆余年第二季开播倒计时3天",
+        "onboard_time": 1715573480,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329007,
+        "num": 271388,
+        "word": "那英跟韩红的反应真像",
+        "onboard_time": 1715570179,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284657,
+        "num": 269884,
+        "word": "A妹 歌手",
+        "onboard_time": 1715560518,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269884,
+        "num": 269883,
+        "word": "TheShy叫板Ning",
+        "onboard_time": 1715570239,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 262820,
+        "num": 262820,
+        "word": "宋轶丞磊二搭了",
+        "onboard_time": 1715572159,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268659,
+        "num": 262604,
+        "word": "歌手官微回应",
+        "onboard_time": 1715515944,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262172,
+        "num": 262172,
+        "word": "改成绩事件涉事人员称是为救学生",
+        "onboard_time": 1715563998,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252800,
+        "num": 252800,
+        "word": "最近四川人指甲都黄了",
+        "onboard_time": 1715567659,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56743,
+        "num": 251483,
+        "word": "用裸眼3D打开福建舰",
+        "onboard_time": 1715567057,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250942,
+        "num": 250942,
+        "word": "小米宣布与京东全面深化战略合作",
+        "onboard_time": 1715570359,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211282,
+        "num": 211282,
+        "word": "男生地铁上被女子偷拍追上硬刚",
+        "onboard_time": 1715573480,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209833,
+        "num": 209833,
+        "word": "妇科检查的鸭嘴钳能不能对女性更友好",
+        "onboard_time": 1715525122,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195578,
+        "num": 195578,
+        "word": "大学时期的迪丽热巴",
+        "onboard_time": 1715567959,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175168,
+        "num": 175168,
+        "word": "出走半生归来仍是上班搭子",
+        "onboard_time": 1715571860,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171917,
+        "num": 171917,
+        "word": "王鹤棣新综艺官宣",
+        "onboard_time": 1715574081,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169467,
+        "num": 169467,
+        "word": "于适把周依然眼睛认成了娜然",
+        "onboard_time": 1715568678,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164567,
+        "num": 164567,
+        "word": "学生时代的同学真的是人脉吗",
+        "onboard_time": 1715573601,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160631,
+        "num": 160631,
+        "word": "歌手网传赛制",
+        "onboard_time": 1715569458,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159917,
+        "num": 159917,
+        "word": "演员严基俊结婚",
+        "onboard_time": 1715570058,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157561,
+        "num": 157561,
+        "word": "儿童智能手表变得越来越像手机",
+        "onboard_time": 1715571499,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147522,
+        "num": 147522,
+        "word": "还以为大爷带双胞胎散步呢",
+        "onboard_time": 1715573960,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143741,
+        "num": 143741,
+        "word": "斗鱼公告",
+        "onboard_time": 1715559439,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136539,
+        "num": 136539,
+        "word": "小猫偷溜进笼里陪猫爸做绝育",
+        "onboard_time": 1715574142,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中欧关系稳定健康发展#"
+    }
+  }
+}
