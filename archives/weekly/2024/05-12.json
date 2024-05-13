@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715567558627,
+  "endTime": 1715568168400,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1295992,
+      "num": 376821,
+      "word": "麦当劳给过期食材换标签续命",
+      "onboard_time": 1715563639,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1265491,
       "num": 477537,
       "word": "亚当方否认上歌手",
@@ -193,14 +201,6 @@
       "onboard_time": 1715556436,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1201119,
-      "num": 376821,
-      "word": "麦当劳给过期食材换标签续命",
-      "onboard_time": 1715563639,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 1191467,
@@ -249,6 +249,14 @@
       "onboard_time": 1715423240,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1104603,
+      "num": 218034,
+      "word": "只休一天就上班真的好累啊",
+      "onboard_time": 1715565377,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1098738,
@@ -321,14 +329,6 @@
       "onboard_time": 1715514142,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1011901,
-      "num": 218034,
-      "word": "只休一天就上班真的好累啊",
-      "onboard_time": 1715565377,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 997264,
@@ -587,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 738708,
+      "num": 357664,
+      "word": "抖音回应新规不再发布时政财经内容",
+      "onboard_time": 1715564597,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 735054,
       "num": 735054,
       "word": "芍药成花店顶流",
@@ -649,14 +657,6 @@
       "onboard_time": 1715475678,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 670439,
-      "num": 357664,
-      "word": "抖音回应新规不再发布时政财经内容",
-      "onboard_time": 1715564597,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 667854,
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 580891,
-      "num": 379850,
+      "num": 381623,
       "word": "刘雯去美国了",
       "onboard_time": 1715561779,
       "rank": 20,
@@ -987,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465971,
+      "num": 465971,
+      "word": "阜阳野生动物园多只动物非正常死亡",
+      "onboard_time": 1715564897,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463921,
       "num": 463921,
       "word": "上海文旅局答疑五月天演唱会",
@@ -1048,14 +1056,6 @@
       "word": "成都吉普",
       "onboard_time": 1715562618,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424287,
-      "num": 424287,
-      "word": "阜阳野生动物园多只动物非正常死亡",
-      "onboard_time": 1715564897,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1499,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287991,
+      "num": 173356,
+      "word": "黄妈实力",
+      "onboard_time": 1715565198,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286701,
       "num": 277363,
       "word": "陈楚生曾救场歌手",
@@ -1545,14 +1553,6 @@
       "onboard_time": 1715511622,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 277507,
-      "num": 165466,
-      "word": "黄妈实力",
-      "onboard_time": 1715565198,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 275017,
@@ -1755,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238561,
+      "num": 200955,
+      "word": "大学时期的迪丽热巴",
+      "onboard_time": 1715567959,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236033,
       "num": 236033,
       "word": "极限挑战",
@@ -1883,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219782,
+      "num": 192214,
+      "word": "背着善宰跑牵手",
+      "onboard_time": 1715567718,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219411,
       "num": 219411,
       "word": "江苏南通多地抢修红绿灯",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1715516721,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205765,
+      "num": 205765,
+      "word": "100块钱九道菜三碗面",
+      "onboard_time": 1715566759,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 202768,
@@ -2041,6 +2065,14 @@
       "onboard_time": 1715488938,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193579,
+      "num": 374393,
+      "word": "用裸眼3D打开福建舰",
+      "onboard_time": 1715567057,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193521,
@@ -2411,14 +2443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164286,
-      "num": 139880,
-      "word": "100块钱九道菜三碗面",
-      "onboard_time": 1715566759,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 164097,
       "num": 164097,
       "word": "李明德锦超接不住纪凌尘的戏",
@@ -2635,6 +2659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 149300,
+      "num": 149300,
+      "word": "最近四川人指甲都黄了",
+      "onboard_time": 1715567659,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148890,
       "num": 161733,
       "word": "过度防晒要小心骨质疏松",
@@ -2649,14 +2681,6 @@
       "onboard_time": 1715512042,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148156,
-      "num": 374393,
-      "word": "用裸眼3D打开福建舰",
-      "onboard_time": 1715567057,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 148014,
@@ -3153,6 +3177,14 @@
       "onboard_time": 1715498237,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113297,
+      "num": 113297,
+      "word": "护士小姐姐救人时突生神力",
+      "onboard_time": 1715567837,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 111599,
