@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715568168400,
+  "endTime": 1715570406882,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2369957,
+      "num": 2369957,
+      "word": "韩红报名方式错了",
+      "onboard_time": 1715568859,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2364982,
       "num": 2364982,
       "word": "茶百道以胖猫之名捐款100万",
@@ -472,6 +480,14 @@
       "word": "阜阳出现水泥封尸案嫌疑人已被抓",
       "onboard_time": 1715319680,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2008864,
+      "num": 2008864,
+      "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
+      "onboard_time": 1715569340,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1443,6 +1459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1299800,
+      "num": 1299800,
+      "word": "张杰说唱live是歌手最基本的要求",
+      "onboard_time": 1715568978,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1297768,
       "num": 452926,
       "word": "德基",
@@ -2116,7 +2140,7 @@
     },
     {
       "raw_hot": 1104603,
-      "num": 218034,
+      "num": 297890,
       "word": "只休一天就上班真的好累啊",
       "onboard_time": 1715565377,
       "rank": 20,
@@ -4097,6 +4121,14 @@
       "onboard_time": 1714985839,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 760501,
+      "num": 228854,
+      "word": "文俊辉代言茶百道",
+      "onboard_time": 1715568678,
+      "rank": 29,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 758400,
@@ -6139,6 +6171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 587057,
+      "num": 377335,
+      "word": "谢娜用预制调料包做菜",
+      "onboard_time": 1715568319,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585948,
       "num": 366973,
       "word": "让我们一起喝歌手",
@@ -7329,6 +7369,14 @@
       "onboard_time": 1715141302,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 505503,
+      "num": 301029,
+      "word": "向佐给向太郭碧婷过母亲节",
+      "onboard_time": 1715568919,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 503874,
@@ -10155,6 +10203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381120,
+      "num": 297575,
+      "word": "大学时期的迪丽热巴",
+      "onboard_time": 1715567959,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380263,
       "num": 380263,
       "word": "摩羯座都是情绪管理大师",
@@ -11147,6 +11203,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 346197,
+      "num": 297542,
+      "word": "多位歌手请战歌手2024",
+      "onboard_time": 1715569040,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345981,
       "num": 345981,
       "word": "俄罗斯一公交车坠河致7人死亡",
@@ -11723,6 +11787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328627,
+      "num": 328627,
+      "word": "张怡宁说反正最终都是咱们中国赢",
+      "onboard_time": 1715568919,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328461,
       "num": 328461,
       "word": "黄霄雲 要多努力才能改变一句评价",
@@ -12105,6 +12177,14 @@
       "onboard_time": 1714612698,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 315502,
+      "num": 299315,
+      "word": "南通车祸现场救援者称只是做了该做的",
+      "onboard_time": 1715569818,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315217,
@@ -12643,6 +12723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298203,
+      "num": 298203,
+      "word": "100块钱九道菜三碗面",
+      "onboard_time": 1715566759,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 298121,
       "num": 298121,
       "word": "任天堂新机",
@@ -12697,6 +12785,14 @@
       "onboard_time": 1715436020,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297157,
+      "num": 297157,
+      "word": "于适把周依然眼睛认成了娜然",
+      "onboard_time": 1715568678,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 296983,
@@ -13553,6 +13649,14 @@
       "onboard_time": 1715318781,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276338,
+      "num": 276338,
+      "word": "最近四川人指甲都黄了",
+      "onboard_time": 1715567659,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 275634,
@@ -15467,14 +15571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238561,
-      "num": 200955,
-      "word": "大学时期的迪丽热巴",
-      "onboard_time": 1715567959,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238368,
       "num": 238368,
       "word": "王鹤棣工作室出图了",
@@ -16067,6 +16163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 229084,
+      "num": 229084,
+      "word": "与晋长安官宣阵容",
+      "onboard_time": 1715568498,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228955,
       "num": 228955,
       "word": "张雅钦演技",
@@ -16313,6 +16417,14 @@
       "onboard_time": 1715304500,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225602,
+      "num": 225602,
+      "word": "TheShy叫板Ning",
+      "onboard_time": 1715570239,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 225541,
@@ -18019,14 +18131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205765,
-      "num": 205765,
-      "word": "100块钱九道菜三碗面",
-      "onboard_time": 1715566759,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 205758,
       "num": 205758,
       "word": "张杰从1到100的每一步",
@@ -19035,6 +19139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198211,
+      "num": 198211,
+      "word": "让黄丽玲插个队吧",
+      "onboard_time": 1715569519,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198126,
       "num": 198126,
       "word": "自信和不自信的区别到底有多大",
@@ -19169,6 +19281,14 @@
       "onboard_time": 1714837698,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197409,
+      "num": 197409,
+      "word": "KnowKnow自荐歌手",
+      "onboard_time": 1715570120,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 197404,
@@ -20787,6 +20907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187358,
+      "num": 187358,
+      "word": "那英跟韩红的反应真像",
+      "onboard_time": 1715570179,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187344,
       "num": 187344,
       "word": "璩静本人暂未回应离职传闻",
@@ -21049,6 +21177,14 @@
       "onboard_time": 1714626559,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185213,
+      "num": 185213,
+      "word": "日晕",
+      "onboard_time": 1715570120,
+      "rank": 38,
+      "category": "自然"
     },
     {
       "raw_hot": 185190,
@@ -21473,6 +21609,14 @@
       "onboard_time": 1715399538,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181417,
+      "num": 140620,
+      "word": "演员严基俊结婚",
+      "onboard_time": 1715570058,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 181226,
@@ -24443,6 +24587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158757,
+      "num": 297229,
+      "word": "智己L6爆品发布会",
+      "onboard_time": 1715569519,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 158718,
       "num": 158718,
       "word": "原来以前的书上什么都教过",
@@ -24889,6 +25041,14 @@
       "onboard_time": 1715216359,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155866,
+      "num": 301895,
+      "word": "护士小姐姐救人时突生神力",
+      "onboard_time": 1715567837,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 155839,
@@ -25785,14 +25945,6 @@
       "onboard_time": 1715148442,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149300,
-      "num": 149300,
-      "word": "最近四川人指甲都黄了",
-      "onboard_time": 1715567659,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 149270,
@@ -26787,6 +26939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142920,
+      "num": 142920,
+      "word": "掘金2比2森林狼",
+      "onboard_time": 1715568799,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142899,
       "num": 142899,
       "word": "刘涛摸秦岚的背",
@@ -27449,6 +27609,14 @@
       "onboard_time": 1715255358,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137615,
+      "num": 137615,
+      "word": "北向资金不再披露实时成交额",
+      "onboard_time": 1715569279,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 137581,
@@ -28265,6 +28433,14 @@
       "onboard_time": 1715481078,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132412,
+      "num": 132412,
+      "word": "胡歌金靖首演兄妹",
+      "onboard_time": 1715570300,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 132307,
@@ -30179,6 +30355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117285,
+      "num": 117285,
+      "word": "小米宣布与京东全面深化战略合作",
+      "onboard_time": 1715570359,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117237,
       "num": 117237,
       "word": "儿子的车被别的小朋友骑走了",
@@ -30633,14 +30817,6 @@
       "onboard_time": 1715498237,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113297,
-      "num": 113297,
-      "word": "护士小姐姐救人时突生神力",
-      "onboard_time": 1715567837,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 113286,
@@ -32595,6 +32771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80943,
+      "num": 298409,
+      "word": "想跟金晨来一场citydrive吗",
+      "onboard_time": 1715569099,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80872,
       "num": 80872,
       "word": "巴菲特或将透露投资的神秘股票",
@@ -32748,7 +32932,7 @@
     },
     {
       "raw_hot": 76782,
-      "num": 1266838,
+      "num": 1404681,
       "word": "世上最动听的两个字是妈妈",
       "onboard_time": 1715484678,
       "rank": 2,

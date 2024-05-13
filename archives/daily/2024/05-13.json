@@ -1,7 +1,23 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715568168400,
+  "endTime": 1715570406882,
   "band_list": [
+    {
+      "raw_hot": 2369957,
+      "num": 2369957,
+      "word": "韩红报名方式错了",
+      "onboard_time": 1715568859,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2008864,
+      "num": 2008864,
+      "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
+      "onboard_time": 1715569340,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1811883,
       "num": 1811883,
@@ -33,6 +49,14 @@
       "onboard_time": 1715517981,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1299800,
+      "num": 1299800,
+      "word": "张杰说唱live是歌手最基本的要求",
+      "onboard_time": 1715568978,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1295992,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 1104603,
-      "num": 218034,
+      "num": 297890,
       "word": "只休一天就上班真的好累啊",
       "onboard_time": 1715565377,
       "rank": 20,
@@ -121,6 +145,14 @@
       "onboard_time": 1715558839,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 760501,
+      "num": 228854,
+      "word": "文俊辉代言茶百道",
+      "onboard_time": 1715568678,
+      "rank": 29,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 738708,
@@ -187,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 587057,
+      "num": 377335,
+      "word": "谢娜用预制调料包做菜",
+      "onboard_time": 1715568319,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580891,
       "num": 381623,
       "word": "刘雯去美国了",
@@ -201,6 +241,14 @@
       "onboard_time": 1715509522,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505503,
+      "num": 301029,
+      "word": "向佐给向太郭碧婷过母亲节",
+      "onboard_time": 1715568919,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 501347,
@@ -291,6 +339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 381120,
+      "num": 297575,
+      "word": "大学时期的迪丽热巴",
+      "onboard_time": 1715567959,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371172,
       "num": 371172,
       "word": "中国南水北调原副总经济师樊新中被查",
@@ -339,6 +395,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 346197,
+      "num": 297542,
+      "word": "多位歌手请战歌手2024",
+      "onboard_time": 1715569040,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344598,
       "num": 247234,
       "word": "本周狗屎运最旺的星座",
@@ -355,11 +419,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 328627,
+      "num": 328627,
+      "word": "张怡宁说反正最终都是咱们中国赢",
+      "onboard_time": 1715568919,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327075,
       "num": 327075,
       "word": "外国教授借科研名义窃取我安全数据",
       "onboard_time": 1715564838,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315502,
+      "num": 299315,
+      "word": "南通车祸现场救援者称只是做了该做的",
+      "onboard_time": 1715569818,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -393,6 +473,22 @@
       "onboard_time": 1715527162,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298203,
+      "num": 298203,
+      "word": "100块钱九道菜三碗面",
+      "onboard_time": 1715566759,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 297157,
+      "num": 297157,
+      "word": "于适把周依然眼睛认成了娜然",
+      "onboard_time": 1715568678,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 288438,
@@ -433,6 +529,14 @@
       "onboard_time": 1715510063,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276338,
+      "num": 276338,
+      "word": "最近四川人指甲都黄了",
+      "onboard_time": 1715567659,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 274549,
@@ -507,12 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 238561,
-      "num": 200955,
-      "word": "大学时期的迪丽热巴",
-      "onboard_time": 1715567959,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 229084,
+      "num": 229084,
+      "word": "与晋长安官宣阵容",
+      "onboard_time": 1715568498,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 226478,
@@ -521,6 +625,14 @@
       "onboard_time": 1715556675,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225602,
+      "num": 225602,
+      "word": "TheShy叫板Ning",
+      "onboard_time": 1715570239,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 223505,
@@ -555,14 +667,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 205765,
-      "num": 205765,
-      "word": "100块钱九道菜三碗面",
-      "onboard_time": 1715566759,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 204071,
       "num": 204071,
       "word": "长期不刷牙可能引发败血症",
@@ -571,11 +675,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198211,
+      "num": 198211,
+      "word": "让黄丽玲插个队吧",
+      "onboard_time": 1715569519,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197642,
       "num": 197642,
       "word": "娄艺潇毕业于上戏音乐剧专业",
       "onboard_time": 1715563938,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197409,
+      "num": 197409,
+      "word": "KnowKnow自荐歌手",
+      "onboard_time": 1715570120,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -595,12 +715,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187358,
+      "num": 187358,
+      "word": "那英跟韩红的反应真像",
+      "onboard_time": 1715570179,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186141,
       "num": 186141,
       "word": "二手玫瑰松弛感",
       "onboard_time": 1715563639,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185213,
+      "num": 185213,
+      "word": "日晕",
+      "onboard_time": 1715570120,
+      "rank": 38,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 181417,
+      "num": 140620,
+      "word": "演员严基俊结婚",
+      "onboard_time": 1715570058,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 180929,
@@ -651,6 +795,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158757,
+      "num": 297229,
+      "word": "智己L6爆品发布会",
+      "onboard_time": 1715569519,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 155866,
+      "num": 301895,
+      "word": "护士小姐姐救人时突生神力",
+      "onboard_time": 1715567837,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 154809,
       "num": 154809,
       "word": "曼联0比1阿森纳",
@@ -683,14 +843,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 149300,
-      "num": 149300,
-      "word": "最近四川人指甲都黄了",
-      "onboard_time": 1715567659,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148088,
       "num": 237142,
       "word": "婚礼上的伴娘可能全是租的",
@@ -699,12 +851,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142920,
+      "num": 142920,
+      "word": "掘金2比2森林狼",
+      "onboard_time": 1715568799,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139348,
       "num": 139348,
       "word": "那英表情包",
       "onboard_time": 1715557697,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137615,
+      "num": 137615,
+      "word": "北向资金不再披露实时成交额",
+      "onboard_time": 1715569279,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 132412,
+      "num": 132412,
+      "word": "胡歌金靖首演兄妹",
+      "onboard_time": 1715570300,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 131108,
@@ -755,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117285,
+      "num": 117285,
+      "word": "小米宣布与京东全面深化战略合作",
+      "onboard_time": 1715570359,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114973,
       "num": 114973,
       "word": "王源什么时候毕业",
@@ -777,14 +961,6 @@
       "onboard_time": 1715554453,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113297,
-      "num": 113297,
-      "word": "护士小姐姐救人时突生神力",
-      "onboard_time": 1715567837,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 112366,
@@ -899,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80943,
+      "num": 298409,
+      "word": "想跟金晨来一场citydrive吗",
+      "onboard_time": 1715569099,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80065,
       "num": 78857,
       "word": "夜尿次数变多警惕肾脏疾病",
@@ -980,7 +1164,7 @@
     },
     {
       "raw_hot": 18218,
-      "num": 833281,
+      "num": 1404681,
       "word": "世上最动听的两个字是妈妈",
       "onboard_time": 1715484678,
       "rank": 2,
