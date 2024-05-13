@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715577626157,
+  "endTime": 1715578576656,
   "band_list": [
     {
       "raw_hot": 3155031,
@@ -83,6 +83,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1271843,
+      "num": 784914,
+      "word": "那英问汪苏泷你妈多大",
+      "onboard_time": 1715576060,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1256118,
       "num": 830302,
       "word": "A妹 歌手",
@@ -123,20 +131,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1017345,
-      "num": 638649,
-      "word": "那英问汪苏泷你妈多大",
-      "onboard_time": 1715576060,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1012741,
       "num": 795913,
       "word": "张杰曾在offer谈被质疑假唱",
       "onboard_time": 1715572580,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 987224,
+      "num": 987224,
+      "word": "南京林业大学宋凯",
+      "onboard_time": 1715576601,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 976296,
@@ -225,6 +233,14 @@
       "onboard_time": 1715570719,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 648307,
+      "num": 464229,
+      "word": "迪丽热巴戴了唇环",
+      "onboard_time": 1715576782,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 645791,
@@ -379,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 477682,
-      "num": 249132,
-      "word": "迪丽热巴戴了唇环",
-      "onboard_time": 1715576782,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 465971,
       "num": 465971,
       "word": "阜阳野生动物园多只动物非正常死亡",
@@ -459,19 +467,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407352,
-      "num": 407352,
-      "word": "南京林业大学宋凯",
-      "onboard_time": 1715576601,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407084,
       "num": 407084,
       "word": "阜阳野生动物园回应20只东北虎死亡",
       "onboard_time": 1715571560,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399641,
+      "num": 399641,
+      "word": "男生地铁上被女子偷拍追上硬刚",
+      "onboard_time": 1715573480,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -489,14 +497,6 @@
       "onboard_time": 1715526141,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 383190,
-      "num": 383190,
-      "word": "男生地铁上被女子偷拍追上硬刚",
-      "onboard_time": 1715573480,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381120,
@@ -771,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260507,
+      "num": 238579,
+      "word": "身体4个异常说明骨头已变脆",
+      "onboard_time": 1715576121,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 258269,
       "num": 258269,
       "word": "男子KTV唱歌被咬伤商家称老鼠是自由的",
@@ -785,6 +793,30 @@
       "onboard_time": 1715560880,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254919,
+      "num": 218520,
+      "word": "76岁林子祥当爷爷了",
+      "onboard_time": 1715578039,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 254513,
+      "num": 218781,
+      "word": "汪苏泷2024十万伏特巡回演唱会",
+      "onboard_time": 1715577560,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 254498,
+      "num": 219546,
+      "word": "孟子义当着戚薇的面唱如果爱忘了",
+      "onboard_time": 1715577319,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 250942,
@@ -819,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245027,
+      "num": 218593,
+      "word": "宋轶一番女主",
+      "onboard_time": 1715578339,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242736,
       "num": 242736,
       "word": "虎牙策划",
@@ -827,20 +867,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 238579,
-      "num": 238579,
-      "word": "身体4个异常说明骨头已变脆",
-      "onboard_time": 1715576121,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 233943,
       "num": 233943,
       "word": "让黄丽玲插个队吧",
       "onboard_time": 1715569519,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229614,
+      "num": 229614,
+      "word": "原来机场显示屏上是PPT",
+      "onboard_time": 1715577140,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 229084,
@@ -883,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219546,
-      "num": 219546,
-      "word": "孟子义当着戚薇的面唱如果爱忘了",
-      "onboard_time": 1715577319,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219393,
       "num": 219393,
       "word": "胡歌金靖首演兄妹",
@@ -905,6 +937,14 @@
       "onboard_time": 1715570058,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216210,
+      "num": 183418,
+      "word": "有人望梅止渴有人望妹止疯",
+      "onboard_time": 1715577500,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 207083,
@@ -923,12 +963,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 204080,
-      "num": 183907,
-      "word": "汪苏泷2024十万伏特巡回演唱会",
+      "raw_hot": 204966,
+      "num": 183534,
+      "word": "周深反深代词定档了",
       "onboard_time": 1715577560,
-      "rank": 35,
-      "category": "演出"
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 204071,
@@ -937,14 +977,6 @@
       "onboard_time": 1715515342,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 198594,
-      "num": 183534,
-      "word": "周深反深代词定档了",
-      "onboard_time": 1715577560,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 197642,
@@ -1019,6 +1051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183697,
+      "num": 183697,
+      "word": "高校回应教师因非升即走压力自杀",
+      "onboard_time": 1715578339,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183063,
       "num": 183063,
       "word": "梦之队投票预热",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1715525242,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 180578,
-      "num": 180578,
-      "word": "原来机场显示屏上是PPT",
-      "onboard_time": 1715577140,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 176341,
@@ -1123,14 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161234,
-      "num": 161234,
-      "word": "有人望梅止渴有人望妹止疯",
-      "onboard_time": 1715577500,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160865,
       "num": 160865,
       "word": "工作后择偶观都变了",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1715571499,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 156596,
+      "num": 156596,
+      "word": "鼓悦鸣音",
+      "onboard_time": 1715577741,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 155547,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1715568799,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141804,
+      "num": 141804,
+      "word": "恋与制作人 x11",
+      "onboard_time": 1715577799,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 140223,
@@ -1313,6 +1353,14 @@
       "onboard_time": 1715571079,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116161,
+      "num": 126188,
+      "word": "韩国人为什么厌娃",
+      "onboard_time": 1715578278,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114973,
@@ -1483,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63457,
+      "num": 254019,
+      "word": "曾舜晞白月光的杀伤力",
+      "onboard_time": 1715576540,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60764,
       "num": 99061,
       "word": "曼联vs阿森纳",
@@ -1528,14 +1584,6 @@
       "word": "林俊杰陪地震后的小朋友过儿童节",
       "onboard_time": 1715539032,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 22511,
-      "num": 254019,
-      "word": "曾舜晞白月光的杀伤力",
-      "onboard_time": 1715576540,
-      "rank": 20,
       "category": "艺人"
     },
     {

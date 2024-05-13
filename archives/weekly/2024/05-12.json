@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715577626157,
+  "endTime": 1715578576656,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -219,6 +219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1271843,
+      "num": 784914,
+      "word": "那英问汪苏泷你妈多大",
+      "onboard_time": 1715576060,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1265491,
       "num": 477537,
       "word": "亚当方否认上歌手",
@@ -379,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1017345,
-      "num": 638649,
-      "word": "那英问汪苏泷你妈多大",
-      "onboard_time": 1715576060,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1012741,
       "num": 795913,
       "word": "张杰曾在offer谈被质疑假唱",
@@ -401,6 +401,14 @@
       "onboard_time": 1715502376,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 987224,
+      "num": 987224,
+      "word": "南京林业大学宋凯",
+      "onboard_time": 1715576601,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 969566,
@@ -763,6 +771,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 648307,
+      "num": 464229,
+      "word": "迪丽热巴戴了唇环",
+      "onboard_time": 1715576782,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 645791,
       "num": 487004,
       "word": "杨幂这一年在频繁自我对话",
@@ -1115,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477682,
-      "num": 249132,
-      "word": "迪丽热巴戴了唇环",
-      "onboard_time": 1715576782,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 477552,
       "num": 281153,
       "word": "金智媛机场图",
@@ -1291,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407352,
-      "num": 407352,
-      "word": "南京林业大学宋凯",
-      "onboard_time": 1715576601,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407084,
       "num": 407084,
       "word": "阜阳野生动物园回应20只东北虎死亡",
@@ -1331,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399641,
+      "num": 399641,
+      "word": "男生地铁上被女子偷拍追上硬刚",
+      "onboard_time": 1715573480,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398694,
       "num": 398694,
       "word": "WBG打野Tarzan",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1715485818,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 383190,
-      "num": 383190,
-      "word": "男生地铁上被女子偷拍追上硬刚",
-      "onboard_time": 1715573480,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381283,
@@ -1963,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260507,
+      "num": 238579,
+      "word": "身体4个异常说明骨头已变脆",
+      "onboard_time": 1715576121,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 258299,
       "num": 224301,
       "word": "刘诗诗业内口碑",
@@ -1985,6 +1993,30 @@
       "onboard_time": 1715560880,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254919,
+      "num": 218520,
+      "word": "76岁林子祥当爷爷了",
+      "onboard_time": 1715578039,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 254513,
+      "num": 218781,
+      "word": "汪苏泷2024十万伏特巡回演唱会",
+      "onboard_time": 1715577560,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 254498,
+      "num": 219546,
+      "word": "孟子义当着戚薇的面唱如果爱忘了",
+      "onboard_time": 1715577319,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 254247,
@@ -2051,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245027,
+      "num": 218593,
+      "word": "宋轶一番女主",
+      "onboard_time": 1715578339,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243689,
       "num": 243689,
       "word": "工作后才尝到经济独立的甜头",
@@ -2073,14 +2113,6 @@
       "onboard_time": 1715484199,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238579,
-      "num": 238579,
-      "word": "身体4个异常说明骨头已变脆",
-      "onboard_time": 1715576121,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 236033,
@@ -2137,6 +2169,14 @@
       "onboard_time": 1715486958,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229614,
+      "num": 229614,
+      "word": "原来机场显示屏上是PPT",
+      "onboard_time": 1715577140,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 229084,
@@ -2235,14 +2275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219546,
-      "num": 219546,
-      "word": "孟子义当着戚薇的面唱如果爱忘了",
-      "onboard_time": 1715577319,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219411,
       "num": 219411,
       "word": "江苏南通多地抢修红绿灯",
@@ -2273,6 +2305,14 @@
       "onboard_time": 1715570058,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216210,
+      "num": 183418,
+      "word": "有人望梅止渴有人望妹止疯",
+      "onboard_time": 1715577500,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 214159,
@@ -2331,12 +2371,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 204080,
-      "num": 183907,
-      "word": "汪苏泷2024十万伏特巡回演唱会",
+      "raw_hot": 204966,
+      "num": 183534,
+      "word": "周深反深代词定档了",
       "onboard_time": 1715577560,
-      "rank": 35,
-      "category": "演出"
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 202768,
@@ -2385,14 +2425,6 @@
       "onboard_time": 1715429120,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198594,
-      "num": 183534,
-      "word": "周深反深代词定档了",
-      "onboard_time": 1715577560,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 198125,
@@ -2619,6 +2651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183697,
+      "num": 183697,
+      "word": "高校回应教师因非升即走压力自杀",
+      "onboard_time": 1715578339,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183063,
       "num": 183063,
       "word": "梦之队投票预热",
@@ -2649,14 +2689,6 @@
       "onboard_time": 1715480897,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180578,
-      "num": 180578,
-      "word": "原来机场显示屏上是PPT",
-      "onboard_time": 1715577140,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 178903,
@@ -3011,14 +3043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161234,
-      "num": 161234,
-      "word": "有人望梅止渴有人望妹止疯",
-      "onboard_time": 1715577500,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160865,
       "num": 160865,
       "word": "工作后择偶观都变了",
@@ -3097,6 +3121,14 @@
       "onboard_time": 1715479638,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156596,
+      "num": 156596,
+      "word": "鼓悦鸣音",
+      "onboard_time": 1715577741,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 156269,
@@ -3289,6 +3321,14 @@
       "onboard_time": 1715422758,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141804,
+      "num": 141804,
+      "word": "恋与制作人 x11",
+      "onboard_time": 1715577799,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 141406,
@@ -3681,6 +3721,14 @@
       "onboard_time": 1715519420,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116161,
+      "num": 126188,
+      "word": "韩国人为什么厌娃",
+      "onboard_time": 1715578278,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116079,
@@ -4171,6 +4219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63457,
+      "num": 254019,
+      "word": "曾舜晞白月光的杀伤力",
+      "onboard_time": 1715576540,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60775,
       "num": 74657,
       "word": "张镇麟打爆了",
@@ -4273,14 +4329,6 @@
       "onboard_time": 1715484199,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22511,
-      "num": 254019,
-      "word": "曾舜晞白月光的杀伤力",
-      "onboard_time": 1715576540,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 22291,
