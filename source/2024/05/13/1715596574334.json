@@ -1,0 +1,410 @@
+{
+  "runTime": 1715596574334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2285955,
+        "num": 2285955,
+        "word": "微笑 退赛",
+        "onboard_time": 1715592919,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1231911,
+        "num": 1231911,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140045,
+        "num": 1094707,
+        "word": "国家一级博物馆最全名单",
+        "onboard_time": 1715586979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070908,
+        "num": 1070908,
+        "word": "难听",
+        "onboard_time": 1715592499,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 828676,
+        "num": 828676,
+        "word": "官方通报动物园20只东北虎死亡",
+        "onboard_time": 1715595077,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740762,
+        "num": 740762,
+        "word": "南通女孩家属呼吁大家不要再点食物",
+        "onboard_time": 1715591420,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032946,
+        "num": 697265,
+        "word": "韩红拿了冠军还要发简历",
+        "onboard_time": 1715589858,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205631,
+        "num": 685454,
+        "word": "大熊猫保护研究中心原副主任张海清被查",
+        "onboard_time": 1715589139,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108010,
+        "num": 636335,
+        "word": "河南17名高中生拟保送清北",
+        "onboard_time": 1715592978,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180047,
+        "num": 583849,
+        "word": "记者北川直播白蝴蝶入镜6次",
+        "onboard_time": 1715593820,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555796,
+        "num": 555796,
+        "word": "群演曝李一桐打戏替身情况",
+        "onboard_time": 1715589200,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516297,
+        "num": 516297,
+        "word": "美国宣布全面禁止竞业禁止协议",
+        "onboard_time": 1715586499,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 507908,
+        "num": 507908,
+        "word": "那英摇人宣传片",
+        "onboard_time": 1715592439,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505692,
+        "num": 505692,
+        "word": "孟子义感谢苗苗救场",
+        "onboard_time": 1715594660,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403244,
+        "num": 403244,
+        "word": "动物园称死亡老虎不属于园方",
+        "onboard_time": 1715594477,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419301,
+        "num": 401988,
+        "word": "谢娜曾反对张杰去歌手",
+        "onboard_time": 1715580978,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341042,
+        "num": 341042,
+        "word": "aespa回归",
+        "onboard_time": 1715591120,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310180,
+        "num": 310180,
+        "word": "副镇长被举报半夜叫他人妻子去唱歌",
+        "onboard_time": 1715585839,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308987,
+        "num": 308987,
+        "word": "抄袭的是商家被嘲笑的却是我",
+        "onboard_time": 1715588779,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250478,
+        "num": 307210,
+        "word": "璩静离职后发声",
+        "onboard_time": 1715586619,
+        "rank": 19,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 522949,
+        "num": 304618,
+        "word": "中医建议不要太频繁的刮痧",
+        "onboard_time": 1715589858,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 339216,
+        "num": 301878,
+        "word": "庆余年林婉儿原型是林依晨",
+        "onboard_time": 1715584340,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333796,
+        "num": 300732,
+        "word": "空降",
+        "onboard_time": 1715595919,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298184,
+        "num": 298184,
+        "word": "我喜欢你 意思是我清楚地看见你",
+        "onboard_time": 1715587819,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281058,
+        "num": 281058,
+        "word": "歌手",
+        "onboard_time": 1715592560,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247589,
+        "num": 247589,
+        "word": "袁娅维憋不住了",
+        "onboard_time": 1715586438,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245382,
+        "num": 245382,
+        "word": "最苦的两个英子",
+        "onboard_time": 1715588600,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241848,
+        "num": 241848,
+        "word": "不满月的小米SU7坏了",
+        "onboard_time": 1715595440,
+        "rank": 27,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 237597,
+        "num": 237597,
+        "word": "aespa好癫的MV",
+        "onboard_time": 1715592259,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109489,
+        "num": 235156,
+        "word": "官方账号做霸总短剧杀疯了",
+        "onboard_time": 1715592679,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233993,
+        "num": 233993,
+        "word": "我发现大学生一旦过了11周",
+        "onboard_time": 1715593760,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227346,
+        "num": 227346,
+        "word": "谭晶回应去歌手",
+        "onboard_time": 1715584759,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220804,
+        "num": 220804,
+        "word": "今年以来油价最大跌幅来了",
+        "onboard_time": 1715592200,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219335,
+        "num": 219335,
+        "word": "星船 out",
+        "onboard_time": 1715588659,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216366,
+        "num": 216366,
+        "word": "韩红报名方式错了",
+        "onboard_time": 1715568859,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207533,
+        "num": 207533,
+        "word": "HYBE说要给NewJeans放一年半的假",
+        "onboard_time": 1715593639,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203179,
+        "num": 203179,
+        "word": "金多贤出演韩版那些年女主",
+        "onboard_time": 1715594238,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193970,
+        "num": 193970,
+        "word": "披荆斩棘的老头们",
+        "onboard_time": 1715596160,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190510,
+        "num": 190510,
+        "word": "博士毕业都从事了什么工作",
+        "onboard_time": 1715593100,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 182721,
+        "num": 182721,
+        "word": "年轻人还想买房吗",
+        "onboard_time": 1715584098,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197410,
+        "num": 182648,
+        "word": "欧阳娜娜 Diploma",
+        "onboard_time": 1715593459,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182014,
+        "num": 182014,
+        "word": "张杰唱了着魔",
+        "onboard_time": 1715595318,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170905,
+        "num": 170905,
+        "word": "杨幂既是女儿还是妈妈",
+        "onboard_time": 1715591360,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164343,
+        "num": 164343,
+        "word": "ENHYPEN空降成绩",
+        "onboard_time": 1715594839,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152039,
+        "num": 152039,
+        "word": "周杰伦官宣新音综",
+        "onboard_time": 1715585839,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147587,
+        "num": 147587,
+        "word": "男子中奖1000万瞒妻子给前妻买房",
+        "onboard_time": 1715572100,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140398,
+        "num": 140398,
+        "word": "阿勒泰旅游",
+        "onboard_time": 1715594540,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 135331,
+        "num": 140312,
+        "word": "心跳出现3个异常或是心梗猝死信号",
+        "onboard_time": 1715593699,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124645,
+        "num": 139977,
+        "word": "男子连吃3根生香蕉致肠梗阻",
+        "onboard_time": 1715580918,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122914,
+        "num": 139674,
+        "word": "线下的生活真的很贵",
+        "onboard_time": 1715596100,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中欧关系稳定健康发展#"
+    }
+  }
+}
