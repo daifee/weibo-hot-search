@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715639669118,
+  "endTime": 1715642318959,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -987,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669442,
+      "num": 669442,
+      "word": "院长被校内观光车撞死认定司机全责",
+      "onboard_time": 1715611638,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667854,
       "num": 667854,
       "word": "庐山瀑布",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1715574260,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 641829,
-      "num": 641829,
-      "word": "院长被校内观光车撞死认定司机全责",
-      "onboard_time": 1715611638,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638413,
@@ -1763,6 +1763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 416914,
+      "num": 194715,
+      "word": "巴勒斯坦女子崩溃呼喊我太累了",
+      "onboard_time": 1715627413,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 415704,
       "num": 415704,
       "word": "中国队兔子战术2.0太烧脑",
@@ -1777,6 +1785,14 @@
       "onboard_time": 1715503457,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414013,
+      "num": 315248,
+      "word": "贾静雯回应缺席苏有朋演唱会",
+      "onboard_time": 1715616259,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 411281,
@@ -1931,14 +1947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386194,
-      "num": 260181,
-      "word": "贾静雯回应缺席苏有朋演唱会",
-      "onboard_time": 1715616259,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 381512,
       "num": 381512,
       "word": "不满月的小米SU7坏了",
@@ -2091,6 +2099,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 356882,
+      "num": 313319,
+      "word": "张铁林不和范伟合作演戏的原因",
+      "onboard_time": 1715615237,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 356635,
       "num": 356635,
       "word": "陈楚生唱了压箱底的歌",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1715572759,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 352682,
+      "num": 190975,
+      "word": "李承铉让Lucky等弟弟长大后再收拾",
+      "onboard_time": 1715626211,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 352052,
@@ -2185,6 +2209,14 @@
       "onboard_time": 1715581578,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349570,
+      "num": 349570,
+      "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
+      "onboard_time": 1715627351,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348587,
@@ -2803,6 +2835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256291,
+      "num": 82871,
+      "word": "23点到1点是头发生长高峰期",
+      "onboard_time": 1715630830,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 255581,
       "num": 283466,
       "word": "短效避孕药的副作用有这些",
@@ -3027,6 +3067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233388,
+      "num": 233388,
+      "word": "菲方对中方的指责毫无根据纯属造谣",
+      "onboard_time": 1715619434,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 230880,
       "num": 230880,
       "word": "IVE香港演唱会时间",
@@ -3057,14 +3105,6 @@
       "onboard_time": 1715414538,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228660,
-      "num": 157421,
-      "word": "张铁林不和范伟合作演戏的原因",
-      "onboard_time": 1715615237,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 227283,
@@ -3353,6 +3393,14 @@
       "onboard_time": 1715591239,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206370,
+      "num": 188055,
+      "word": "徐怀钰演唱会上自己调侃上座率",
+      "onboard_time": 1715641514,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 206101,
@@ -3819,6 +3867,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 187248,
+      "num": 187248,
+      "word": "海口近8吨死鱼将无害化处置",
+      "onboard_time": 1715620394,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186961,
       "num": 186961,
       "word": "狼队进决赛",
@@ -4145,14 +4201,6 @@
       "onboard_time": 1715495299,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168284,
-      "num": 84589,
-      "word": "巴勒斯坦女子崩溃呼喊我太累了",
-      "onboard_time": 1715627413,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 168247,
@@ -4587,14 +4635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152748,
-      "num": 103633,
-      "word": "海口近8吨死鱼将无害化处置",
-      "onboard_time": 1715620394,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152691,
       "num": 152691,
       "word": "teeth好听",
@@ -4641,14 +4681,6 @@
       "onboard_time": 1715562019,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 149083,
-      "num": 76032,
-      "word": "李承铉让Lucky等弟弟长大后再收拾",
-      "onboard_time": 1715626211,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 148890,
@@ -4971,14 +5003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136903,
-      "num": 136903,
-      "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
-      "onboard_time": 1715627351,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136539,
       "num": 136539,
       "word": "小猫偷溜进笼里陪猫爸做绝育",
@@ -5251,6 +5275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123782,
+      "num": 82518,
+      "word": "我的阿勒泰 意难平",
+      "onboard_time": 1715621172,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122914,
       "num": 139674,
       "word": "线下的生活真的很贵",
@@ -5443,12 +5475,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 111627,
-      "num": 38252,
-      "word": "23点到1点是头发生长高峰期",
-      "onboard_time": 1715630830,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 112315,
+      "num": 82395,
+      "word": "医生告诉的摆脱腹部赘肉的方法",
+      "onboard_time": 1715639413,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 111599,
@@ -5579,6 +5611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104889,
+      "num": 104889,
+      "word": "穿搭博主对通勤是不是有什么误解",
+      "onboard_time": 1715631551,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 104699,
       "num": 104699,
       "word": "陈天润贺卡",
@@ -5641,6 +5681,14 @@
       "onboard_time": 1715506157,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101668,
+      "num": 101668,
+      "word": "OpenAI发布GPT4O",
+      "onboard_time": 1715641995,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 101261,
@@ -5812,7 +5860,7 @@
     },
     {
       "raw_hot": 86200,
-      "num": 539381,
+      "num": 578599,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
       "rank": 45,
@@ -5867,6 +5915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82100,
+      "num": 82100,
+      "word": "郁金香蛋糕也太好看了",
+      "onboard_time": 1715634550,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 80065,
       "num": 78857,
       "word": "夜尿次数变多警惕肾脏疾病",
@@ -5883,12 +5939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79603,
+      "num": 79603,
+      "word": "为了接近你不知用了多少谎言",
+      "onboard_time": 1715637911,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78245,
       "num": 75668,
       "word": "辅导员没说清楚吗",
       "onboard_time": 1715619915,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77658,
+      "num": 77658,
+      "word": "你为何不喜欢发朋友圈了",
+      "onboard_time": 1715641514,
+      "rank": 31,
+      "category": "情感,互联网"
     },
     {
       "raw_hot": 77421,
@@ -5979,6 +6051,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 65112,
+      "num": 65112,
+      "word": "种地吧",
+      "onboard_time": 1715621653,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 64054,
+      "num": 64054,
+      "word": "王一博渐变色外套",
+      "onboard_time": 1715639472,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 63524,
       "num": 63524,
       "word": "王楚钦笑得肆意爽朗",
@@ -5993,6 +6081,14 @@
       "onboard_time": 1715576540,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62713,
+      "num": 62713,
+      "word": "运动后身体变化时间轴",
+      "onboard_time": 1715636230,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 60775,
@@ -6027,28 +6123,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 55703,
-      "num": 49220,
-      "word": "我的阿勒泰 意难平",
-      "onboard_time": 1715621172,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54615,
-      "num": 37864,
+      "num": 47134,
       "word": "东北姥姥第一次见广东外孙",
       "onboard_time": 1715636112,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52504,
-      "num": 52504,
-      "word": "穿搭博主对通勤是不是有什么误解",
-      "onboard_time": 1715631551,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 52057,
@@ -6065,6 +6145,14 @@
       "onboard_time": 1715469134,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49622,
+      "num": 49622,
+      "word": "小孩哥出手有多阔绰",
+      "onboard_time": 1715636890,
+      "rank": 45,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 49394,
@@ -6091,14 +6179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48954,
-      "num": 48954,
-      "word": "郁金香蛋糕也太好看了",
-      "onboard_time": 1715634550,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 46950,
       "num": 380946,
       "word": "vivo发布蓝图影像",
@@ -6107,28 +6187,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 44340,
-      "num": 44340,
-      "word": "种地吧",
-      "onboard_time": 1715621653,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 41742,
-      "num": 37378,
-      "word": "运动后身体变化时间轴",
-      "onboard_time": 1715636230,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 41129,
       "num": 41129,
       "word": "NBA",
       "onboard_time": 1715461510,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40413,
+      "num": 47151,
+      "word": "GPT4o将免费使用",
+      "onboard_time": 1715642236,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 39463,
@@ -6171,22 +6243,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 31741,
-      "num": 31741,
-      "word": "为了接近你不知用了多少谎言",
-      "onboard_time": 1715637911,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 28571,
-      "num": 28571,
-      "word": "小孩哥出手有多阔绰",
-      "onboard_time": 1715636890,
-      "rank": 45,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 28497,
       "num": 34122,
       "word": "Uzi去AL基地集训",
@@ -6225,22 +6281,6 @@
       "onboard_time": 1715484199,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22498,
-      "num": 28338,
-      "word": "王一博渐变色外套",
-      "onboard_time": 1715639472,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 22350,
-      "num": 28327,
-      "word": "医生告诉的摆脱腹部赘肉的方法",
-      "onboard_time": 1715639413,
-      "rank": 48,
-      "category": "运动健身"
     },
     {
       "raw_hot": 22291,
