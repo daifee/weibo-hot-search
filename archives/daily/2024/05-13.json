@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715584683932,
+  "endTime": 1715585671589,
   "band_list": [
     {
       "raw_hot": 3155031,
@@ -283,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 636004,
+      "num": 331440,
+      "word": "谭晶回应去歌手",
+      "onboard_time": 1715584759,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628145,
       "num": 628145,
       "word": "阿兰助攻",
@@ -379,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 510786,
+      "num": 263733,
+      "word": "苗苗回应救场奔跑吧",
+      "onboard_time": 1715582719,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505503,
       "num": 437127,
       "word": "向佐给向太郭碧婷过母亲节",
       "onboard_time": 1715568919,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503298,
+      "num": 503298,
+      "word": "韩国各界呼吁政府尽快处理好对华关系",
+      "onboard_time": 1715582478,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 501347,
@@ -395,6 +419,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 500284,
+      "num": 500284,
+      "word": "71岁的奶奶身材堪比少女",
+      "onboard_time": 1715580679,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498121,
+      "num": 257639,
+      "word": "长期运动的人都啥样了",
+      "onboard_time": 1715581459,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 487691,
       "num": 487691,
       "word": "张怡宁说反正最终都是咱们中国赢",
@@ -403,19 +443,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 486202,
+      "num": 486202,
+      "word": "杨天真说鹿晗的朋友圈像个段子手",
+      "onboard_time": 1715583200,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486024,
       "num": 284168,
       "word": "陈建斌出战能给对手唱emo",
       "onboard_time": 1715565198,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 481883,
-      "num": 263733,
-      "word": "苗苗回应救场奔跑吧",
-      "onboard_time": 1715582719,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -459,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 457428,
-      "num": 257639,
-      "word": "长期运动的人都啥样了",
-      "onboard_time": 1715581459,
-      "rank": 48,
-      "category": "运动健身"
+      "raw_hot": 452724,
+      "num": 328277,
+      "word": "庆余年林婉儿原型是林依晨",
+      "onboard_time": 1715584340,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 452261,
@@ -480,6 +520,14 @@
       "word": "李一桐推荐欧豪报名歌手",
       "onboard_time": 1715581278,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 447827,
+      "num": 252397,
+      "word": "黄霄雲接洽歌手",
+      "onboard_time": 1715580918,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -523,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408688,
-      "num": 408688,
-      "word": "71岁的奶奶身材堪比少女",
-      "onboard_time": 1715580679,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407615,
       "num": 407615,
       "word": "全球首例猪肾移植患者死亡",
@@ -545,6 +585,14 @@
       "onboard_time": 1715571560,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401556,
+      "num": 251495,
+      "word": "A妹空降超话",
+      "onboard_time": 1715583318,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 399641,
@@ -603,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366009,
-      "num": 366009,
-      "word": "杨天真说鹿晗的朋友圈像个段子手",
-      "onboard_time": 1715583200,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 363329,
       "num": 261587,
       "word": "香港大学偶遇奚梦瑶上课",
@@ -627,20 +667,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353477,
+      "num": 190432,
+      "word": "张婧仪山根痣",
+      "onboard_time": 1715584639,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353273,
       "num": 286128,
       "word": "王俊凯接触陷入我们的热恋",
       "onboard_time": 1715572759,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352798,
-      "num": 352798,
-      "word": "韩国各界呼吁政府尽快处理好对华关系",
-      "onboard_time": 1715582478,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 352052,
@@ -699,14 +739,6 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 346444,
-      "num": 251495,
-      "word": "A妹空降超话",
-      "onboard_time": 1715583318,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 344598,
       "num": 247234,
       "word": "本周狗屎运最旺的星座",
@@ -745,6 +777,14 @@
       "onboard_time": 1715564838,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324378,
+      "num": 324378,
+      "word": "苹果要重做Siri了",
+      "onboard_time": 1715581098,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 321215,
@@ -809,14 +849,6 @@
       "onboard_time": 1715575522,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292461,
-      "num": 292461,
-      "word": "苹果要重做Siri了",
-      "onboard_time": 1715581098,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 288438,
@@ -1051,12 +1083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220828,
-      "num": 220828,
-      "word": "庆余年林婉儿原型是林依晨",
-      "onboard_time": 1715584340,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 220329,
+      "num": 220329,
+      "word": "年轻人还想买房吗",
+      "onboard_time": 1715584098,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219782,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1715515342,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197950,
+      "num": 189843,
+      "word": "弟弟犯错姐姐却被单独谈话",
+      "onboard_time": 1715585237,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 197642,
@@ -1379,14 +1419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155751,
-      "num": 155751,
-      "word": "年轻人还想买房吗",
-      "onboard_time": 1715584098,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155547,
       "num": 155547,
       "word": "李晨张真源车内上演rap节目",
@@ -1459,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142862,
+      "num": 142862,
+      "word": "现在做数码博主还来得及吗",
+      "onboard_time": 1715585480,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 141804,
       "num": 141804,
       "word": "恋与制作人 x11",
@@ -1515,14 +1555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135647,
-      "num": 129478,
-      "word": "张婧仪山根痣",
-      "onboard_time": 1715584639,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135613,
       "num": 135613,
       "word": "微博影像年",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1715513182,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126896,
+      "num": 124917,
+      "word": "二手玫瑰歌手vs音乐节",
+      "onboard_time": 1715585658,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 124409,
@@ -1587,6 +1627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 119822,
+      "num": 119822,
+      "word": "人体能当胶片用吗",
+      "onboard_time": 1715585060,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118534,
       "num": 235990,
       "word": "男孩街头猛扯母亲头发并施暴",
@@ -1627,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112786,
+      "num": 112786,
+      "word": "抗衰最好不要晚于45岁",
+      "onboard_time": 1715585300,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112366,
       "num": 112366,
       "word": "EDG夺冠",
@@ -1641,6 +1697,14 @@
       "onboard_time": 1715566098,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 108903,
+      "num": 108903,
+      "word": "去云南炫蘑菇牢记4个不吃",
+      "onboard_time": 1715584940,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 107469,

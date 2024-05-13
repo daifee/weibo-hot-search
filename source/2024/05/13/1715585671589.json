@@ -1,0 +1,410 @@
+{
+  "runTime": 1715585671589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1467797,
+        "num": 1467797,
+        "word": "谢娜曾反对张杰去歌手",
+        "onboard_time": 1715580978,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 746649,
+        "num": 746649,
+        "word": "男子连吃3根生香蕉致肠梗阻",
+        "onboard_time": 1715580918,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66274,
+        "num": 591710,
+        "word": "匈牙利百年建筑散发出浓浓中国味",
+        "onboard_time": 1715573781,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933811,
+        "num": 590261,
+        "word": "韩红报名方式错了",
+        "onboard_time": 1715568859,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579365,
+        "num": 579365,
+        "word": "男子中奖1000万瞒妻子给前妻买房",
+        "onboard_time": 1715572100,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503298,
+        "num": 503298,
+        "word": "韩国各界呼吁政府尽快处理好对华关系",
+        "onboard_time": 1715582478,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 500284,
+        "num": 500284,
+        "word": "71岁的奶奶身材堪比少女",
+        "onboard_time": 1715580679,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486202,
+        "num": 486202,
+        "word": "杨天真说鹿晗的朋友圈像个段子手",
+        "onboard_time": 1715583200,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442457,
+        "num": 442457,
+        "word": "南京林业大学宋凯",
+        "onboard_time": 1715576601,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96912,
+        "num": 335140,
+        "word": "护士小姐姐救人时突生神力",
+        "onboard_time": 1715567837,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 636004,
+        "num": 331440,
+        "word": "谭晶回应去歌手",
+        "onboard_time": 1715584759,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452724,
+        "num": 328277,
+        "word": "庆余年林婉儿原型是林依晨",
+        "onboard_time": 1715584340,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324378,
+        "num": 324378,
+        "word": "苹果要重做Siri了",
+        "onboard_time": 1715581098,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 452764,
+        "num": 321903,
+        "word": "那英问汪苏泷你妈多大",
+        "onboard_time": 1715576060,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287557,
+        "num": 287557,
+        "word": "抑郁症患者会无意识做哪些事情",
+        "onboard_time": 1715570719,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268926,
+        "num": 268926,
+        "word": "只休一天就上班真的好累啊",
+        "onboard_time": 1715565377,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 447827,
+        "num": 252397,
+        "word": "黄霄雲接洽歌手",
+        "onboard_time": 1715580918,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220329,
+        "num": 220329,
+        "word": "年轻人还想买房吗",
+        "onboard_time": 1715584098,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191034,
+        "num": 191034,
+        "word": "央行心形纪念币520上新",
+        "onboard_time": 1715581459,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 431805,
+        "num": 191016,
+        "word": "欧豪上吧 他好歹是个神",
+        "onboard_time": 1715582237,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1913703,
+        "num": 190892,
+        "word": "封进水泥的尸体是怎么被发现的",
+        "onboard_time": 1715579718,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 510786,
+        "num": 190825,
+        "word": "苗苗回应救场奔跑吧",
+        "onboard_time": 1715582719,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498121,
+        "num": 190701,
+        "word": "长期运动的人都啥样了",
+        "onboard_time": 1715581459,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 401556,
+        "num": 190590,
+        "word": "A妹空降超话",
+        "onboard_time": 1715583318,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392850,
+        "num": 190491,
+        "word": "李一桐推荐欧豪报名歌手",
+        "onboard_time": 1715581278,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353477,
+        "num": 190432,
+        "word": "张婧仪山根痣",
+        "onboard_time": 1715584639,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322106,
+        "num": 190290,
+        "word": "张杰说唱live是歌手最基本的要求",
+        "onboard_time": 1715568978,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 314751,
+        "num": 190195,
+        "word": "迪丽热巴戴了唇环",
+        "onboard_time": 1715576782,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202795,
+        "num": 190118,
+        "word": "身体4个异常说明骨头已变脆",
+        "onboard_time": 1715576121,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 306755,
+        "num": 189968,
+        "word": "歌手报名名单",
+        "onboard_time": 1715571259,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256591,
+        "num": 189889,
+        "word": "老默在庆余年里还是杀手",
+        "onboard_time": 1715581578,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197950,
+        "num": 189843,
+        "word": "弟弟犯错姐姐却被单独谈话",
+        "onboard_time": 1715585237,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189767,
+        "num": 189767,
+        "word": "小猫撒娇",
+        "onboard_time": 1715582898,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168163,
+        "num": 168163,
+        "word": "小沈阳说不敢想去踢馆歌手",
+        "onboard_time": 1715583859,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142919,
+        "num": 142919,
+        "word": "高校回应教师因非升即走压力自杀",
+        "onboard_time": 1715578339,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155672,
+        "num": 142899,
+        "word": "多位歌手请战歌手2024",
+        "onboard_time": 1715569040,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147002,
+        "num": 142886,
+        "word": "香港大学偶遇奚梦瑶上课",
+        "onboard_time": 1715578878,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142862,
+        "num": 142862,
+        "word": "现在做数码博主还来得及吗",
+        "onboard_time": 1715585480,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136140,
+        "num": 136140,
+        "word": "男生地铁上被女子偷拍追上硬刚",
+        "onboard_time": 1715573480,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125278,
+        "num": 125278,
+        "word": "WBG打野Tarzan",
+        "onboard_time": 1715575581,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145824,
+        "num": 125152,
+        "word": "杨幂这一年在频繁自我对话",
+        "onboard_time": 1715574260,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128739,
+        "num": 124990,
+        "word": "A妹 歌手",
+        "onboard_time": 1715560518,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126896,
+        "num": 124917,
+        "word": "二手玫瑰歌手vs音乐节",
+        "onboard_time": 1715585658,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124417,
+        "num": 124417,
+        "word": "mlxg和otto和解",
+        "onboard_time": 1715580739,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127147,
+        "num": 123957,
+        "word": "韩红请战歌手",
+        "onboard_time": 1715507299,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123378,
+        "num": 123378,
+        "word": "黄景瑜接受联合国新闻专访",
+        "onboard_time": 1715581038,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119822,
+        "num": 119822,
+        "word": "人体能当胶片用吗",
+        "onboard_time": 1715585060,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112786,
+        "num": 112786,
+        "word": "抗衰最好不要晚于45岁",
+        "onboard_time": 1715585300,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109743,
+        "num": 109743,
+        "word": "原来机场显示屏上是PPT",
+        "onboard_time": 1715577140,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108903,
+        "num": 108903,
+        "word": "去云南炫蘑菇牢记4个不吃",
+        "onboard_time": 1715584940,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平2024欧洲之行高光时刻#"
+    }
+  }
+}
