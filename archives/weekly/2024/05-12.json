@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715582301376,
+  "endTime": 1715584683932,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -168,6 +168,14 @@
       "word": "杨丞琳在家罚唱",
       "onboard_time": 1715524463,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1483564,
+      "num": 1483564,
+      "word": "谢娜曾反对张杰去歌手",
+      "onboard_time": 1715580978,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -467,14 +475,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 922980,
-      "num": 374876,
-      "word": "谢娜曾反对张杰去歌手",
-      "onboard_time": 1715580978,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 917569,
       "num": 450063,
       "word": "华语乐坛真没人能救救那英了吗",
@@ -513,6 +513,14 @@
       "onboard_time": 1715496738,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 866169,
+      "num": 866169,
+      "word": "男子连吃3根生香蕉致肠梗阻",
+      "onboard_time": 1715580918,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 860546,
@@ -747,6 +755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 688987,
+      "num": 676041,
+      "word": "黄霄云接洽歌手",
+      "onboard_time": 1715580918,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 686680,
       "num": 511500,
       "word": "二手玫瑰 整点邪的",
@@ -833,14 +849,6 @@
       "onboard_time": 1715496978,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 621788,
-      "num": 676041,
-      "word": "黄霄云接洽歌手",
-      "onboard_time": 1715580918,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 619734,
@@ -1035,6 +1043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 523791,
+      "num": 523791,
+      "word": "欧豪上吧 他好歹是个神",
+      "onboard_time": 1715582237,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518529,
       "num": 361884,
       "word": "多位歌手请战歌手2024",
@@ -1139,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481883,
+      "num": 263733,
+      "word": "苗苗回应救场奔跑吧",
+      "onboard_time": 1715582719,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478945,
       "num": 478945,
       "word": "时隔6年半韩国外长今起访华",
@@ -1203,12 +1227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457428,
+      "num": 257639,
+      "word": "长期运动的人都啥样了",
+      "onboard_time": 1715581459,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 452261,
       "num": 452261,
       "word": "日晕",
       "onboard_time": 1715570120,
       "rank": 38,
       "category": "自然"
+    },
+    {
+      "raw_hot": 451993,
+      "num": 390930,
+      "word": "李一桐推荐欧豪报名歌手",
+      "onboard_time": 1715581278,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 442451,
@@ -1323,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408688,
+      "num": 408688,
+      "word": "71岁的奶奶身材堪比少女",
+      "onboard_time": 1715580679,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407084,
       "num": 407084,
       "word": "阜阳野生动物园回应20只东北虎死亡",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1715503758,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 390930,
-      "num": 390930,
-      "word": "李一桐推荐欧豪报名歌手",
-      "onboard_time": 1715581278,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 388471,
@@ -1483,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366009,
+      "num": 366009,
+      "word": "杨天真说鹿晗的朋友圈像个段子手",
+      "onboard_time": 1715583200,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363329,
       "num": 261587,
       "word": "香港大学偶遇奚梦瑶上课",
@@ -1539,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352798,
+      "num": 352798,
+      "word": "韩国各界呼吁政府尽快处理好对华关系",
+      "onboard_time": 1715582478,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 352052,
       "num": 352052,
       "word": "南通女孩妈妈想找事故现场救援者",
@@ -1556,7 +1612,7 @@
     },
     {
       "raw_hot": 351763,
-      "num": 238579,
+      "num": 250033,
       "word": "身体4个异常说明骨头已变脆",
       "onboard_time": 1715576121,
       "rank": 24,
@@ -1579,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350330,
+      "num": 256262,
+      "word": "老默在庆余年里还是杀手",
+      "onboard_time": 1715581578,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348587,
       "num": 348587,
       "word": "TheShy叫板Ning",
@@ -1592,6 +1656,14 @@
       "word": "张桂源 停训",
       "onboard_time": 1715472375,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 346444,
+      "num": 251495,
+      "word": "A妹空降超话",
+      "onboard_time": 1715583318,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1843,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292461,
+      "num": 292461,
+      "word": "苹果要重做Siri了",
+      "onboard_time": 1715581098,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 287991,
       "num": 173356,
       "word": "黄妈实力",
@@ -2019,14 +2099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260216,
-      "num": 229798,
-      "word": "老默在庆余年里还是杀手",
-      "onboard_time": 1715581578,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258299,
       "num": 224301,
       "word": "刘诗诗业内口碑",
@@ -2179,14 +2251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240721,
-      "num": 240721,
-      "word": "苹果要重做Siri了",
-      "onboard_time": 1715581098,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 236033,
       "num": 236033,
       "word": "极限挑战",
@@ -2201,14 +2265,6 @@
       "onboard_time": 1715522781,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 235752,
-      "num": 235752,
-      "word": "男子连吃3根生香蕉致肠梗阻",
-      "onboard_time": 1715580918,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235721,
@@ -2283,14 +2339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225656,
-      "num": 225656,
-      "word": "长期运动的人都啥样了",
-      "onboard_time": 1715581459,
-      "rank": 48,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 225080,
       "num": 399732,
       "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
@@ -2353,6 +2401,14 @@
       "onboard_time": 1715519541,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220828,
+      "num": 220828,
+      "word": "庆余年林婉儿原型是林依晨",
+      "onboard_time": 1715584340,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 219782,
@@ -2441,6 +2497,14 @@
       "onboard_time": 1715449754,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207697,
+      "num": 207697,
+      "word": "央行心形纪念币520上新",
+      "onboard_time": 1715581459,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 207083,
@@ -2635,6 +2699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192550,
+      "num": 192550,
+      "word": "小猫撒娇",
+      "onboard_time": 1715582898,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192039,
       "num": 192039,
       "word": "网友喊话袁娅维支援歌手",
@@ -2649,6 +2721,14 @@
       "onboard_time": 1715484017,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190380,
+      "num": 190380,
+      "word": "小沈阳说不敢想去踢馆歌手",
+      "onboard_time": 1715583859,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 190316,
@@ -2705,14 +2785,6 @@
       "onboard_time": 1715524762,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 187249,
-      "num": 187249,
-      "word": "央行心形纪念币520上新",
-      "onboard_time": 1715581459,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 186961,
@@ -2947,12 +3019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169065,
+      "num": 169065,
+      "word": "网友问邓超会去参加歌手吗",
+      "onboard_time": 1715582359,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168677,
       "num": 168677,
       "word": "歌手玩梗",
       "onboard_time": 1715495299,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168236,
+      "num": 168236,
+      "word": "雷霆荣耀杯",
+      "onboard_time": 1715583798,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 167385,
@@ -3259,6 +3347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155751,
+      "num": 155751,
+      "word": "年轻人还想买房吗",
+      "onboard_time": 1715584098,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155547,
       "num": 155547,
       "word": "李晨张真源车内上演rap节目",
@@ -3281,14 +3377,6 @@
       "onboard_time": 1715490979,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153584,
-      "num": 153584,
-      "word": "71岁的奶奶身材堪比少女",
-      "onboard_time": 1715580679,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152188,
@@ -3579,6 +3667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135647,
+      "num": 129478,
+      "word": "张婧仪山根痣",
+      "onboard_time": 1715584639,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135613,
       "num": 135613,
       "word": "微博影像年",
@@ -3688,14 +3784,6 @@
       "word": "常思思 若有需召必来",
       "onboard_time": 1715528060,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 127541,
-      "num": 127541,
-      "word": "欧豪上吧 他好歹是个神",
-      "onboard_time": 1715582237,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -3809,6 +3897,14 @@
       "onboard_time": 1715438062,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122690,
+      "num": 122690,
+      "word": "一起打卡夏天里的中国",
+      "onboard_time": 1715583677,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 120760,
