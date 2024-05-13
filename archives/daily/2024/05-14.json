@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715620573988,
+  "endTime": 1715621729690,
   "band_list": [
     {
       "raw_hot": 1458496,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216749,
+      "num": 216749,
+      "word": "菲律宾",
+      "onboard_time": 1715619434,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 199756,
       "num": 199756,
       "word": "官方回应法官被指微信指挥庭审",
@@ -267,6 +275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125266,
+      "num": 125266,
+      "word": "芒果糯米饭",
+      "onboard_time": 1715619135,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 123006,
       "num": 123006,
       "word": "背着善宰跑",
@@ -283,14 +299,6 @@
       "category": "剧集,读书作家"
     },
     {
-      "raw_hot": 110617,
-      "num": 93657,
-      "word": "芒果糯米饭",
-      "onboard_time": 1715619135,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 110111,
       "num": 111526,
       "word": "韩红拿了冠军还要发简历",
@@ -305,6 +313,14 @@
       "onboard_time": 1715611401,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103633,
+      "num": 103633,
+      "word": "海口近8吨死鱼将无害化处置",
+      "onboard_time": 1715620394,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103275,
@@ -395,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 78245,
+      "num": 75668,
+      "word": "辅导员没说清楚吗",
+      "onboard_time": 1715619915,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67443,
       "num": 111112,
       "word": "南通女孩家属呼吁大家不要再点食物",
@@ -411,28 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65790,
-      "num": 100729,
-      "word": "菲律宾",
-      "onboard_time": 1715619434,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 63931,
       "num": 111188,
       "word": "围读剧本的杨幂",
       "onboard_time": 1715606839,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63437,
-      "num": 63437,
-      "word": "辅导员没说清楚吗",
-      "onboard_time": 1715619915,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 56853,
@@ -451,15 +459,23 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41349,
-      "num": 68786,
-      "word": "海口近8吨死鱼将无害化处置",
-      "onboard_time": 1715620394,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 49220,
+      "num": 49220,
+      "word": "我的阿勒泰 意难平",
+      "onboard_time": 1715621172,
+      "rank": 39,
+      "category": "剧集"
     },
     {
-      "raw_hot": 13203,
+      "raw_hot": 44340,
+      "num": 44340,
+      "word": "种地吧",
+      "onboard_time": 1715621653,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18245,
       "num": 539381,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
