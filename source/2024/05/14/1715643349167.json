@@ -1,0 +1,410 @@
+{
+  "runTime": 1715643349167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 946831,
+        "num": 946831,
+        "word": "中方决定不同意台湾地区参加今年世卫大会",
+        "onboard_time": 1715598198,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 765909,
+        "num": 765909,
+        "word": "院长被校内观光车撞死认定司机全责",
+        "onboard_time": 1715611638,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60006,
+        "num": 664654,
+        "word": "我国核电技术已进入世界第一方阵",
+        "onboard_time": 1715605459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619811,
+        "num": 619811,
+        "word": "张杰曾为去歌手赔款",
+        "onboard_time": 1715611761,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586646,
+        "num": 586646,
+        "word": "欧阳娜娜回应",
+        "onboard_time": 1715612180,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432835,
+        "num": 432835,
+        "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
+        "onboard_time": 1715627351,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439101,
+        "num": 428049,
+        "word": "李承铉让Lucky等弟弟长大后再收拾",
+        "onboard_time": 1715626211,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385341,
+        "num": 385341,
+        "word": "张铁林不和范伟合作演戏的原因",
+        "onboard_time": 1715615237,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361432,
+        "num": 361432,
+        "word": "菲方对中方的指责毫无根据纯属造谣",
+        "onboard_time": 1715619434,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216158,
+        "num": 216158,
+        "word": "唐氏变脸女孩妈妈流泪发声",
+        "onboard_time": 1715609479,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525203,
+        "num": 214729,
+        "word": "巴勒斯坦女子崩溃呼喊我太累了",
+        "onboard_time": 1715627413,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 487874,
+        "num": 213204,
+        "word": "麦当劳中国声明",
+        "onboard_time": 1715612479,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 368287,
+        "num": 211464,
+        "word": "贾静雯回应缺席苏有朋演唱会",
+        "onboard_time": 1715616259,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318219,
+        "num": 209019,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285147,
+        "num": 206987,
+        "word": "徐怀钰演唱会上自己调侃上座率",
+        "onboard_time": 1715641514,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205690,
+        "num": 205690,
+        "word": "海口近8吨死鱼将无害化处置",
+        "onboard_time": 1715620394,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185456,
+        "num": 185456,
+        "word": "你为何不喜欢发朋友圈了",
+        "onboard_time": 1715641514,
+        "rank": 16,
+        "category": "情感,互联网"
+      },
+      {
+        "raw_hot": 183142,
+        "num": 183142,
+        "word": "赵露思直播的妆是自己化的",
+        "onboard_time": 1715613380,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162667,
+        "num": 162667,
+        "word": "OpenAI发布GPT4O",
+        "onboard_time": 1715641995,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136210,
+        "num": 136210,
+        "word": "GPT4o将免费使用",
+        "onboard_time": 1715642236,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 366188,
+        "num": 135552,
+        "word": "国家电网回应6月1日电费涨价",
+        "onboard_time": 1715599938,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328217,
+        "num": 134844,
+        "word": "23点到1点是头发生长高峰期",
+        "onboard_time": 1715630830,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 291340,
+        "num": 134110,
+        "word": "韩系在中国为什么不火了",
+        "onboard_time": 1715614039,
+        "rank": 22,
+        "category": "财经,美妆"
+      },
+      {
+        "raw_hot": 205801,
+        "num": 133364,
+        "word": "每天只有3亿人发布朋友圈",
+        "onboard_time": 1715609721,
+        "rank": 23,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 132806,
+        "num": 132806,
+        "word": "穿搭博主对通勤是不是有什么误解",
+        "onboard_time": 1715631551,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 177101,
+        "num": 131212,
+        "word": "喝水后有4种表现是肾脏在求救",
+        "onboard_time": 1715610920,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145654,
+        "num": 130628,
+        "word": "我的阿勒泰 意难平",
+        "onboard_time": 1715621172,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129617,
+        "num": 129617,
+        "word": "医生告诉的摆脱腹部赘肉的方法",
+        "onboard_time": 1715639413,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 105359,
+        "num": 105359,
+        "word": "年轻人开始整顿上海相亲角了",
+        "onboard_time": 1715610559,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91881,
+        "num": 91881,
+        "word": "Uzi G2",
+        "onboard_time": 1715610441,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88816,
+        "num": 88816,
+        "word": "为了接近你不知用了多少谎言",
+        "onboard_time": 1715637911,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84202,
+        "num": 84202,
+        "word": "张翰凯丽 无声告别",
+        "onboard_time": 1715601560,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81589,
+        "num": 81589,
+        "word": "中医建议不要太频繁的刮痧",
+        "onboard_time": 1715589858,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77043,
+        "num": 77043,
+        "word": "种地吧",
+        "onboard_time": 1715621653,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70573,
+        "num": 70573,
+        "word": "郁金香蛋糕也太好看了",
+        "onboard_time": 1715634550,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 69739,
+        "num": 69739,
+        "word": "官方通报动物园20只东北虎死亡",
+        "onboard_time": 1715595077,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66428,
+        "num": 66428,
+        "word": "夫妻车内吵架妻子经过收费站喊救命",
+        "onboard_time": 1715604259,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65679,
+        "num": 65679,
+        "word": "螺蛳粉官宣英文名",
+        "onboard_time": 1715625312,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65476,
+        "num": 65476,
+        "word": "王一博渐变色外套",
+        "onboard_time": 1715639472,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 61500,
+        "num": 61500,
+        "word": "歌手导演",
+        "onboard_time": 1715608760,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57996,
+        "num": 57996,
+        "word": "小孩哥出手有多阔绰",
+        "onboard_time": 1715636890,
+        "rank": 40,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 56026,
+        "num": 56026,
+        "word": "萧鼎修订诛仙",
+        "onboard_time": 1715603660,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 55177,
+        "num": 55177,
+        "word": "专家称股票指数有40%受房地产影响",
+        "onboard_time": 1715642835,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54744,
+        "num": 54744,
+        "word": "aespa概念",
+        "onboard_time": 1715612719,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54165,
+        "num": 54165,
+        "word": "蛇哥退出老头杯",
+        "onboard_time": 1715605519,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51718,
+        "num": 54149,
+        "word": "运动后身体变化时间轴",
+        "onboard_time": 1715636230,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 51400,
+        "num": 54141,
+        "word": "官方回应法官被指微信指挥庭审",
+        "onboard_time": 1715615359,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46085,
+        "num": 54123,
+        "word": "网友曝李亚鹏拖欠工资",
+        "onboard_time": 1715598919,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45027,
+        "num": 54108,
+        "word": "歌手",
+        "onboard_time": 1715592560,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37945,
+        "num": 54088,
+        "word": "东北姥姥第一次见广东外孙",
+        "onboard_time": 1715636112,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#严守党的政治纪律和政治规矩#"
+    }
+  }
+}

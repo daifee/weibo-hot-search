@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715642318959,
+  "endTime": 1715643349167,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 765909,
+      "num": 765909,
+      "word": "院长被校内观光车撞死认定司机全责",
+      "onboard_time": 1715611638,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760501,
       "num": 228854,
       "word": "文俊辉代言茶百道",
@@ -984,14 +992,6 @@
       "word": "副镇长被举报半夜叫他人妻子去唱歌",
       "onboard_time": 1715585839,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 669442,
-      "num": 669442,
-      "word": "院长被校内观光车撞死认定司机全责",
-      "onboard_time": 1715611638,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1321,6 +1321,14 @@
       "onboard_time": 1715614039,
       "rank": 34,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 525203,
+      "num": 214729,
+      "word": "巴勒斯坦女子崩溃呼喊我太累了",
+      "onboard_time": 1715627413,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 525065,
@@ -1691,12 +1699,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 439101,
+      "num": 428049,
+      "word": "李承铉让Lucky等弟弟长大后再收拾",
+      "onboard_time": 1715626211,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436385,
       "num": 254224,
       "word": "星船 out",
       "onboard_time": 1715588659,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432835,
+      "num": 432835,
+      "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
+      "onboard_time": 1715627351,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431542,
@@ -1761,14 +1785,6 @@
       "onboard_time": 1715528660,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 416914,
-      "num": 194715,
-      "word": "巴勒斯坦女子崩溃呼喊我太累了",
-      "onboard_time": 1715627413,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 415704,
@@ -1947,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385341,
+      "num": 385341,
+      "word": "张铁林不和范伟合作演戏的原因",
+      "onboard_time": 1715615237,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 381512,
       "num": 381512,
       "word": "不满月的小米SU7坏了",
@@ -2067,6 +2091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 361432,
+      "num": 361432,
+      "word": "菲方对中方的指责毫无根据纯属造谣",
+      "onboard_time": 1715619434,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 360913,
       "num": 360913,
       "word": "张怡宁预测巴黎女乒竞争",
@@ -2099,14 +2131,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 356882,
-      "num": 313319,
-      "word": "张铁林不和范伟合作演戏的原因",
-      "onboard_time": 1715615237,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 356635,
       "num": 356635,
       "word": "陈楚生唱了压箱底的歌",
@@ -2137,14 +2161,6 @@
       "onboard_time": 1715572759,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352682,
-      "num": 190975,
-      "word": "李承铉让Lucky等弟弟长大后再收拾",
-      "onboard_time": 1715626211,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 352052,
@@ -2209,14 +2225,6 @@
       "onboard_time": 1715581578,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 349570,
-      "num": 349570,
-      "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
-      "onboard_time": 1715627351,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348587,
@@ -2361,6 +2369,14 @@
       "onboard_time": 1715584098,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328217,
+      "num": 134844,
+      "word": "23点到1点是头发生长高峰期",
+      "onboard_time": 1715630830,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 327348,
@@ -2611,6 +2627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285147,
+      "num": 206987,
+      "word": "徐怀钰演唱会上自己调侃上座率",
+      "onboard_time": 1715641514,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 284411,
       "num": 284411,
       "word": "汶川地震钢腿女孩悼念朋友",
@@ -2835,14 +2859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 256291,
-      "num": 82871,
-      "word": "23点到1点是头发生长高峰期",
-      "onboard_time": 1715630830,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 255581,
       "num": 283466,
       "word": "短效避孕药的副作用有这些",
@@ -3065,14 +3081,6 @@
       "onboard_time": 1715569519,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233388,
-      "num": 233388,
-      "word": "菲方对中方的指责毫无根据纯属造谣",
-      "onboard_time": 1715619434,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 230880,
@@ -3395,14 +3403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206370,
-      "num": 188055,
-      "word": "徐怀钰演唱会上自己调侃上座率",
-      "onboard_time": 1715641514,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 206101,
       "num": 206101,
       "word": "A股",
@@ -3425,6 +3425,14 @@
       "onboard_time": 1715516721,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205690,
+      "num": 205690,
+      "word": "海口近8吨死鱼将无害化处置",
+      "onboard_time": 1715620394,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204966,
@@ -3867,14 +3875,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 187248,
-      "num": 187248,
-      "word": "海口近8吨死鱼将无害化处置",
-      "onboard_time": 1715620394,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186961,
       "num": 186961,
       "word": "狼队进决赛",
@@ -3905,6 +3905,14 @@
       "onboard_time": 1715563639,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185456,
+      "num": 185456,
+      "word": "你为何不喜欢发朋友圈了",
+      "onboard_time": 1715641514,
+      "rank": 31,
+      "category": "情感,互联网"
     },
     {
       "raw_hot": 184556,
@@ -4403,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162667,
+      "num": 162667,
+      "word": "OpenAI发布GPT4O",
+      "onboard_time": 1715641995,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 162057,
       "num": 162057,
       "word": "张予曦晒妈妈跳舞视频",
@@ -4755,6 +4771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145654,
+      "num": 130628,
+      "word": "我的阿勒泰 意难平",
+      "onboard_time": 1715621172,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145033,
       "num": 145033,
       "word": "草莓音乐节大战格莱美",
@@ -5011,6 +5035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136210,
+      "num": 136210,
+      "word": "GPT4o将免费使用",
+      "onboard_time": 1715642236,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 135976,
       "num": 135976,
       "word": "丁太升问李荣浩不教教杨丞琳吗",
@@ -5075,6 +5107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 132806,
+      "num": 132806,
+      "word": "穿搭博主对通勤是不是有什么误解",
+      "onboard_time": 1715631551,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 132421,
       "num": 132421,
       "word": "16岁志愿军女兵嘴对嘴给伤员喂药",
@@ -5129,6 +5169,14 @@
       "onboard_time": 1715619135,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129617,
+      "num": 129617,
+      "word": "医生告诉的摆脱腹部赘肉的方法",
+      "onboard_time": 1715639413,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 129498,
@@ -5273,14 +5321,6 @@
       "onboard_time": 1715520021,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123782,
-      "num": 82518,
-      "word": "我的阿勒泰 意难平",
-      "onboard_time": 1715621172,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 122914,
@@ -5475,14 +5515,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 112315,
-      "num": 82395,
-      "word": "医生告诉的摆脱腹部赘肉的方法",
-      "onboard_time": 1715639413,
-      "rank": 48,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 111599,
       "num": 111599,
       "word": "独行侠2比1雷霆",
@@ -5611,14 +5643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104889,
-      "num": 104889,
-      "word": "穿搭博主对通勤是不是有什么误解",
-      "onboard_time": 1715631551,
-      "rank": 34,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 104699,
       "num": 104699,
       "word": "陈天润贺卡",
@@ -5681,14 +5705,6 @@
       "onboard_time": 1715506157,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101668,
-      "num": 101668,
-      "word": "OpenAI发布GPT4O",
-      "onboard_time": 1715641995,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 101261,
@@ -5835,6 +5851,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 88816,
+      "num": 88816,
+      "word": "为了接近你不知用了多少谎言",
+      "onboard_time": 1715637911,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87986,
       "num": 104764,
       "word": "豪猪宝宝的水果吃播",
@@ -5860,7 +5884,7 @@
     },
     {
       "raw_hot": 86200,
-      "num": 578599,
+      "num": 664654,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
       "rank": 45,
@@ -5939,14 +5963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79603,
-      "num": 79603,
-      "word": "为了接近你不知用了多少谎言",
-      "onboard_time": 1715637911,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 78245,
       "num": 75668,
       "word": "辅导员没说清楚吗",
@@ -5955,19 +5971,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 77658,
-      "num": 77658,
-      "word": "你为何不喜欢发朋友圈了",
-      "onboard_time": 1715641514,
-      "rank": 31,
-      "category": "情感,互联网"
-    },
-    {
       "raw_hot": 77421,
       "num": 77421,
       "word": "陈丽君滤镜掉了",
       "onboard_time": 1715429480,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77043,
+      "num": 77043,
+      "word": "种地吧",
+      "onboard_time": 1715621653,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -6043,28 +6059,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65476,
+      "num": 65476,
+      "word": "王一博渐变色外套",
+      "onboard_time": 1715639472,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 65460,
       "num": 472118,
       "word": "vivoX100Ultra影像灭霸",
       "onboard_time": 1715607319,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 65112,
-      "num": 65112,
-      "word": "种地吧",
-      "onboard_time": 1715621653,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 64054,
-      "num": 64054,
-      "word": "王一博渐变色外套",
-      "onboard_time": 1715639472,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 63524,
@@ -6107,6 +6115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57996,
+      "num": 57996,
+      "word": "小孩哥出手有多阔绰",
+      "onboard_time": 1715636890,
+      "rank": 45,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 57917,
       "num": 118224,
       "word": "一起追极光",
@@ -6123,8 +6139,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 55177,
+      "num": 55177,
+      "word": "专家称股票指数有40%受房地产影响",
+      "onboard_time": 1715642835,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 54615,
-      "num": 47134,
+      "num": 54088,
       "word": "东北姥姥第一次见广东外孙",
       "onboard_time": 1715636112,
       "rank": 25,
@@ -6145,14 +6169,6 @@
       "onboard_time": 1715469134,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49622,
-      "num": 49622,
-      "word": "小孩哥出手有多阔绰",
-      "onboard_time": 1715636890,
-      "rank": 45,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 49394,
@@ -6193,14 +6209,6 @@
       "onboard_time": 1715461510,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40413,
-      "num": 47151,
-      "word": "GPT4o将免费使用",
-      "onboard_time": 1715642236,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 39463,

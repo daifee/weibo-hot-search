@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715642318959,
+  "endTime": 1715643349167,
   "band_list": [
     {
       "raw_hot": 1458496,
@@ -35,28 +35,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 678831,
-      "num": 475704,
-      "word": "张杰曾为去歌手赔款",
-      "onboard_time": 1715611761,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 669442,
-      "num": 669442,
+      "raw_hot": 765909,
+      "num": 765909,
       "word": "院长被校内观光车撞死认定司机全责",
       "onboard_time": 1715611638,
       "rank": 4,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678831,
+      "num": 619811,
+      "word": "张杰曾为去歌手赔款",
+      "onboard_time": 1715611761,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527837,
-      "num": 126907,
+      "num": 134110,
       "word": "韩系在中国为什么不火了",
       "onboard_time": 1715614039,
       "rank": 21,
       "category": "财经,美妆"
+    },
+    {
+      "raw_hot": 525203,
+      "num": 214729,
+      "word": "巴勒斯坦女子崩溃呼喊我太累了",
+      "onboard_time": 1715627413,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 490415,
@@ -68,19 +76,27 @@
     },
     {
       "raw_hot": 485167,
-      "num": 127281,
+      "num": 133364,
       "word": "每天只有3亿人发布朋友圈",
       "onboard_time": 1715609721,
       "rank": 20,
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 416914,
-      "num": 194715,
-      "word": "巴勒斯坦女子崩溃呼喊我太累了",
-      "onboard_time": 1715627413,
-      "rank": 48,
-      "category": "国外时政"
+      "raw_hot": 439101,
+      "num": 428049,
+      "word": "李承铉让Lucky等弟弟长大后再收拾",
+      "onboard_time": 1715626211,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 432835,
+      "num": 432835,
+      "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
+      "onboard_time": 1715627351,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414013,
@@ -91,36 +107,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 356882,
-      "num": 313319,
+      "raw_hot": 385341,
+      "num": 385341,
       "word": "张铁林不和范伟合作演戏的原因",
       "onboard_time": 1715615237,
       "rank": 24,
       "category": "电影"
     },
     {
-      "raw_hot": 352682,
-      "num": 190975,
-      "word": "李承铉让Lucky等弟弟长大后再收拾",
-      "onboard_time": 1715626211,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 349570,
-      "num": 349570,
-      "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
-      "onboard_time": 1715627351,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348029,
-      "num": 126531,
+      "raw_hot": 366188,
+      "num": 135552,
       "word": "国家电网回应6月1日电费涨价",
       "onboard_time": 1715599938,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361432,
+      "num": 361432,
+      "word": "菲方对中方的指责毫无根据纯属造谣",
+      "onboard_time": 1715619434,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 340840,
@@ -132,11 +140,27 @@
     },
     {
       "raw_hot": 330586,
-      "num": 126460,
+      "num": 131212,
       "word": "喝水后有4种表现是肾脏在求救",
       "onboard_time": 1715610920,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 328217,
+      "num": 134844,
+      "word": "23点到1点是头发生长高峰期",
+      "onboard_time": 1715630830,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 285147,
+      "num": 206987,
+      "word": "徐怀钰演唱会上自己调侃上座率",
+      "onboard_time": 1715641514,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 285049,
@@ -171,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256291,
-      "num": 82871,
-      "word": "23点到1点是头发生长高峰期",
-      "onboard_time": 1715630830,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 247203,
       "num": 247203,
       "word": "微信澄清11个谣言",
@@ -193,14 +209,6 @@
       "onboard_time": 1715609059,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233388,
-      "num": 233388,
-      "word": "菲方对中方的指责毫无根据纯属造谣",
-      "onboard_time": 1715619434,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 224607,
@@ -219,12 +227,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 206370,
-      "num": 188055,
-      "word": "徐怀钰演唱会上自己调侃上座率",
-      "onboard_time": 1715641514,
-      "rank": 14,
-      "category": "演出"
+      "raw_hot": 216158,
+      "num": 240831,
+      "word": "唐氏变脸女孩妈妈流泪发声",
+      "onboard_time": 1715609479,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205690,
+      "num": 205690,
+      "word": "海口近8吨死鱼将无害化处置",
+      "onboard_time": 1715620394,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199756,
@@ -243,20 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195736,
-      "num": 240831,
-      "word": "唐氏变脸女孩妈妈流泪发声",
-      "onboard_time": 1715609479,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187248,
-      "num": 187248,
-      "word": "海口近8吨死鱼将无害化处置",
-      "onboard_time": 1715620394,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 185456,
+      "num": 185456,
+      "word": "你为何不喜欢发朋友圈了",
+      "onboard_time": 1715641514,
+      "rank": 31,
+      "category": "情感,互联网"
     },
     {
       "raw_hot": 174276,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162667,
+      "num": 162667,
+      "word": "OpenAI发布GPT4O",
+      "onboard_time": 1715641995,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149178,
       "num": 124212,
       "word": "中医建议不要太频繁的刮痧",
@@ -297,6 +313,14 @@
       "onboard_time": 1715592560,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145654,
+      "num": 130628,
+      "word": "我的阿勒泰 意难平",
+      "onboard_time": 1715621172,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 144463,
@@ -315,6 +339,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136210,
+      "num": 136210,
+      "word": "GPT4o将免费使用",
+      "onboard_time": 1715642236,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 132806,
+      "num": 132806,
+      "word": "穿搭博主对通勤是不是有什么误解",
+      "onboard_time": 1715631551,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 129854,
       "num": 129854,
       "word": "芒果糯米饭",
@@ -331,20 +371,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129617,
+      "num": 129617,
+      "word": "医生告诉的摆脱腹部赘肉的方法",
+      "onboard_time": 1715639413,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 127509,
       "num": 127509,
       "word": "蛇哥退出老头杯",
       "onboard_time": 1715605519,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123782,
-      "num": 82518,
-      "word": "我的阿勒泰 意难平",
-      "onboard_time": 1715621172,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 123006,
@@ -363,14 +403,6 @@
       "category": "剧集,读书作家"
     },
     {
-      "raw_hot": 112315,
-      "num": 82395,
-      "word": "医生告诉的摆脱腹部赘肉的方法",
-      "onboard_time": 1715639413,
-      "rank": 48,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 110111,
       "num": 111526,
       "word": "韩红拿了冠军还要发简历",
@@ -379,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104889,
-      "num": 104889,
-      "word": "穿搭博主对通勤是不是有什么误解",
-      "onboard_time": 1715631551,
-      "rank": 34,
-      "category": "时尚"
+      "raw_hot": 105359,
+      "num": 111690,
+      "word": "年轻人开始整顿上海相亲角了",
+      "onboard_time": 1715610559,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104056,
@@ -403,28 +435,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101668,
-      "num": 101668,
-      "word": "OpenAI发布GPT4O",
-      "onboard_time": 1715641995,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 101292,
       "num": 111591,
       "word": "歌手前八季热度破亿歌曲",
       "onboard_time": 1715599400,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98986,
-      "num": 111690,
-      "word": "年轻人开始整顿上海相亲角了",
-      "onboard_time": 1715610559,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94825,
@@ -441,6 +457,14 @@
       "onboard_time": 1715609842,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 88816,
+      "num": 88816,
+      "word": "为了接近你不知用了多少谎言",
+      "onboard_time": 1715637911,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 84921,
@@ -491,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79603,
-      "num": 79603,
-      "word": "为了接近你不知用了多少谎言",
-      "onboard_time": 1715637911,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 79275,
       "num": 115640,
       "word": "老头杯换人",
@@ -523,12 +539,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 77658,
-      "num": 77658,
-      "word": "你为何不喜欢发朋友圈了",
-      "onboard_time": 1715641514,
-      "rank": 31,
-      "category": "情感,互联网"
+      "raw_hot": 77043,
+      "num": 77043,
+      "word": "种地吧",
+      "onboard_time": 1715621653,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 67443,
@@ -547,16 +563,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65112,
-      "num": 65112,
-      "word": "种地吧",
-      "onboard_time": 1715621653,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 64054,
-      "num": 64054,
+      "raw_hot": 65476,
+      "num": 65476,
       "word": "王一博渐变色外套",
       "onboard_time": 1715639472,
       "rank": 47,
@@ -579,6 +587,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 60006,
+      "num": 664654,
+      "word": "我国核电技术已进入世界第一方阵",
+      "onboard_time": 1715605459,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57996,
+      "num": 57996,
+      "word": "小孩哥出手有多阔绰",
+      "onboard_time": 1715636890,
+      "rank": 45,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 56853,
       "num": 111053,
       "word": "71岁大爷山上开店1天卖出1000碗面",
@@ -587,44 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55177,
+      "num": 55177,
+      "word": "专家称股票指数有40%受房地产影响",
+      "onboard_time": 1715642835,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 54615,
-      "num": 47134,
+      "num": 54088,
       "word": "东北姥姥第一次见广东外孙",
       "onboard_time": 1715636112,
       "rank": 25,
       "category": "幽默"
     },
     {
-      "raw_hot": 54450,
-      "num": 578599,
-      "word": "我国核电技术已进入世界第一方阵",
-      "onboard_time": 1715605459,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49622,
-      "num": 49622,
-      "word": "小孩哥出手有多阔绰",
-      "onboard_time": 1715636890,
-      "rank": 45,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 49616,
-      "num": 49616,
+      "num": 54123,
       "word": "网友曝李亚鹏拖欠工资",
       "onboard_time": 1715598919,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40413,
-      "num": 47151,
-      "word": "GPT4o将免费使用",
-      "onboard_time": 1715642236,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 34568,
