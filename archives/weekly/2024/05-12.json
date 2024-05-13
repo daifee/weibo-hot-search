@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715603682484,
+  "endTime": 1715604572664,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1066749,
+      "num": 1066749,
+      "word": "国家电网回应6月1日电费涨价",
+      "onboard_time": 1715599938,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1041845,
       "num": 378338,
       "word": "A妹ip",
@@ -481,14 +489,6 @@
       "onboard_time": 1715502376,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 994020,
-      "num": 994020,
-      "word": "国家电网回应6月1日电费涨价",
-      "onboard_time": 1715599938,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 969566,
@@ -947,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 646549,
+      "num": 646549,
+      "word": "歌手前八季热度破亿歌曲",
+      "onboard_time": 1715599400,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 645791,
       "num": 487004,
       "word": "杨幂这一年在频繁自我对话",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1715496978,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 621446,
-      "num": 621446,
-      "word": "歌手前八季热度破亿歌曲",
-      "onboard_time": 1715599400,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 619734,
@@ -1235,19 +1235,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519353,
+      "num": 392348,
+      "word": "复旦教授评歌手称观众没必要跟着某些情绪走",
+      "onboard_time": 1715601679,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518529,
       "num": 361884,
       "word": "多位歌手请战歌手2024",
       "onboard_time": 1715569040,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 516492,
-      "num": 392348,
-      "word": "复旦教授评歌手称观众没必要跟着某些情绪走",
-      "onboard_time": 1715601679,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -1507,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443014,
+      "num": 387185,
+      "word": "张翰凯丽 无声告别",
+      "onboard_time": 1715601560,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442451,
       "num": 355998,
       "word": "BLACKPINK团队拍摄工作",
@@ -1603,6 +1611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 415704,
+      "num": 415704,
+      "word": "中国队兔子战术2.0太烧脑",
+      "onboard_time": 1715599039,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414262,
       "num": 414262,
       "word": "天价彩礼不断衍生出新变种",
@@ -1665,14 +1681,6 @@
       "onboard_time": 1715494099,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 403258,
-      "num": 403258,
-      "word": "中国队兔子战术2.0太烧脑",
-      "onboard_time": 1715599039,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 402233,
@@ -1763,12 +1771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386621,
-      "num": 386621,
-      "word": "张翰凯丽 无声告别",
-      "onboard_time": 1715601560,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 384091,
+      "num": 384091,
+      "word": "一孕傻三年的调侃掩盖了妈妈们的求救",
+      "onboard_time": 1715602939,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381512,
@@ -2203,6 +2211,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 309772,
+      "num": 309772,
+      "word": "结石姐关注香缇莫",
+      "onboard_time": 1715603478,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307621,
+      "num": 307621,
+      "word": "阴阳师",
+      "onboard_time": 1715603718,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 303078,
       "num": 286533,
       "word": "原来我们都错怪费可了",
@@ -2233,6 +2257,14 @@
       "onboard_time": 1715513182,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298276,
+      "num": 298276,
+      "word": "老头杯换人",
+      "onboard_time": 1715601679,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 297482,
@@ -2284,7 +2316,7 @@
     },
     {
       "raw_hot": 293111,
-      "num": 214534,
+      "num": 244036,
       "word": "张杰 郑州演唱会",
       "onboard_time": 1715601320,
       "rank": 23,
@@ -2329,6 +2361,14 @@
       "onboard_time": 1715555835,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 282647,
+      "num": 282647,
+      "word": "周深成都站售罄",
+      "onboard_time": 1715603540,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 281502,
@@ -2611,6 +2651,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 247274,
+      "num": 247274,
+      "word": "背着善宰跑",
+      "onboard_time": 1715603359,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247115,
       "num": 240140,
       "word": "潮汕偶遇鹿晗王勉",
@@ -2699,14 +2747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234120,
-      "num": 210618,
-      "word": "背着善宰跑",
-      "onboard_time": 1715603359,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233943,
       "num": 233943,
       "word": "让黄丽玲插个队吧",
@@ -2721,14 +2761,6 @@
       "onboard_time": 1715506338,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 230106,
-      "num": 230106,
-      "word": "老头杯换人",
-      "onboard_time": 1715601679,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 229727,
@@ -2785,14 +2817,6 @@
       "onboard_time": 1715525242,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 224392,
-      "num": 209393,
-      "word": "结石姐关注香缇莫",
-      "onboard_time": 1715603478,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 224364,
@@ -2947,14 +2971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213685,
-      "num": 213685,
-      "word": "一孕傻三年的调侃掩盖了妈妈们的求救",
-      "onboard_time": 1715602939,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213204,
       "num": 213204,
       "word": "歌手2024请揭榜",
@@ -3067,6 +3083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204065,
+      "num": 204065,
+      "word": "林俊杰兰州抢票",
+      "onboard_time": 1715602879,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202768,
       "num": 202768,
       "word": "严浩翔被婴语为难住了",
@@ -3100,7 +3124,7 @@
     },
     {
       "raw_hot": 201666,
-      "num": 165745,
+      "num": 187584,
       "word": "白鹿曾舜晞 两条蛄蛹者",
       "onboard_time": 1715601320,
       "rank": 31,
@@ -3131,6 +3155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200492,
+      "num": 200492,
+      "word": "鼠鼠热爱嘉年华",
+      "onboard_time": 1715604318,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200161,
       "num": 201147,
       "word": "陷入我们的热恋 男女主",
@@ -3139,12 +3171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199659,
-      "num": 164519,
-      "word": "林俊杰兰州抢票",
-      "onboard_time": 1715602879,
-      "rank": 32,
-      "category": "演出"
+      "raw_hot": 199946,
+      "num": 199946,
+      "word": "山东一地大罐车出事故不明液体外泄",
+      "onboard_time": 1715603660,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198732,
@@ -3331,6 +3363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190718,
+      "num": 190718,
+      "word": "夫妻车内吵架妻子经过收费站喊救命",
+      "onboard_time": 1715604259,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190510,
       "num": 190510,
       "word": "博士毕业都从事了什么工作",
@@ -3425,6 +3465,14 @@
       "onboard_time": 1715524762,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 187779,
+      "num": 187779,
+      "word": "孔雀明王臻藏皮肤",
+      "onboard_time": 1715604439,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 186961,
@@ -3547,6 +3595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177650,
+      "num": 177650,
+      "word": "萧鼎修订诛仙",
+      "onboard_time": 1715603660,
+      "rank": 48,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 177109,
       "num": 177109,
       "word": "WTT太原",
@@ -3665,14 +3721,6 @@
       "onboard_time": 1715475917,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171037,
-      "num": 162335,
-      "word": "周深成都站售罄",
-      "onboard_time": 1715603540,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 170024,
@@ -4083,6 +4131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156694,
+      "num": 156694,
+      "word": "只使用医保内物品的孕妇",
+      "onboard_time": 1715603359,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156596,
       "num": 156596,
       "word": "鼓悦鸣音",
@@ -4491,6 +4547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137533,
+      "num": 153550,
+      "word": "多个电力股涨停",
+      "onboard_time": 1715602939,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137276,
       "num": 137276,
       "word": "这个班级就业率好高",
@@ -4513,14 +4577,6 @@
       "onboard_time": 1715444239,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135924,
-      "num": 153550,
-      "word": "多个电力股涨停",
-      "onboard_time": 1715602939,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 135613,
@@ -4587,20 +4643,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132386,
+      "num": 132386,
+      "word": "易烊千玺时尚芭莎小票时间对应刘艳芬专辑",
+      "onboard_time": 1715600119,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132244,
       "num": 111827,
       "word": "那英看二手玫瑰舞台reaction",
       "onboard_time": 1715494340,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131855,
-      "num": 152346,
-      "word": "只使用医保内物品的孕妇",
-      "onboard_time": 1715603359,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 131280,
@@ -5083,14 +5139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103728,
-      "num": 146865,
-      "word": "萧鼎修订诛仙",
-      "onboard_time": 1715603660,
-      "rank": 48,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 102450,
       "num": 102450,
       "word": "aespa消失的方式",
@@ -5112,14 +5160,6 @@
       "word": "昆明斗南鲜花卖爆了",
       "onboard_time": 1715506157,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101913,
-      "num": 146755,
-      "word": "山东一地大罐车出事故不明液体外泄",
-      "onboard_time": 1715603660,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5476,7 +5516,7 @@
     },
     {
       "raw_hot": 49394,
-      "num": 994101,
+      "num": 1003748,
       "word": "中国黄岩岛4K航拍首次公布",
       "onboard_time": 1715586678,
       "rank": 2,

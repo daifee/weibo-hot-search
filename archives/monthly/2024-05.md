@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/13 20:34:42
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/13 20:49:32
 </p>
 </blockquote>
 <p>
@@ -1869,6 +1869,12 @@ mlxg退群（热度：1083466）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E5%9B%9E%E5%BA%946%E6%9C%881%E6%97%A5%E7%94%B5%E8%B4%B9%E6%B6%A8%E4%BB%B7%23" target="weibo">
+国家电网回应6月1日电费涨价（热度：1066749）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%9E%E4%BD%93Home%E9%94%AE%E5%B9%B3%E6%9D%BF%E4%B8%8B%E6%9E%B6%23" target="weibo">
 苹果实体Home键平板下架（热度：1066412）
 </a>
@@ -2057,12 +2063,6 @@ aespa回归（热度：1000997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9D%B4%E8%9D%B6%E5%81%9C%E5%9C%A8%E6%96%B0%E9%83%8E%E8%83%B8%E5%8F%A3%E9%82%A3%E4%B8%80%E5%88%BB%E5%BF%83%E9%9C%87%E4%BA%86%23" target="weibo">
 蝴蝶停在新郎胸口那一刻心震了（热度：995924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E5%9B%9E%E5%BA%946%E6%9C%881%E6%97%A5%E7%94%B5%E8%B4%B9%E6%B6%A8%E4%BB%B7%23" target="weibo">
-国家电网回应6月1日电费涨价（热度：994020）
 </a>
 </li>
 
@@ -4185,6 +4185,12 @@ Angelababy为冯德伦打call（热度：682788）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%89%8D%E5%85%AB%E5%AD%A3%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%BA%BF%E6%AD%8C%E6%9B%B2%23" target="weibo">
+歌手前八季热度破亿歌曲（热度：646549）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E6%86%8B%E6%B0%94%E7%BB%83%E4%B9%A0%E6%97%B6%E6%84%8F%E5%A4%96%E6%BA%BA%E4%BA%A1%23" target="weibo">
 游泳教练憋气练习时意外溺亡（热度：646054）
 </a>
@@ -4469,12 +4475,6 @@ BLACKPINK合约到期后首次回归（热度：625906）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%A6%82%E6%9E%9C%E7%88%B1%E5%BF%98%E4%BA%86%23" target="weibo">
 汪苏泷如果爱忘了（热度：621744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%89%8D%E5%85%AB%E5%AD%A3%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%BA%BF%E6%AD%8C%E6%9B%B2%23" target="weibo">
-歌手前八季热度破亿歌曲（热度：621446）
 </a>
 </li>
 
@@ -5595,6 +5595,12 @@ GEN对战TES（热度：537218）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%AF%84%E6%AD%8C%E6%89%8B%E7%A7%B0%E8%A7%82%E4%BC%97%E6%B2%A1%E5%BF%85%E8%A6%81%E8%B7%9F%E7%9D%80%E6%9F%90%E4%BA%9B%E6%83%85%E7%BB%AA%E8%B5%B0%23" target="weibo">
+复旦教授评歌手称观众没必要跟着某些情绪走（热度：519353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%94%B115%E5%88%86%E9%92%9F%E6%8A%8A%E5%A4%AA%E9%98%B3%E5%94%B1%E5%87%BA%E6%9D%A5%23" target="weibo">
 华晨宇唱15分钟把太阳唱出来（热度：518607）
 </a>
@@ -5627,12 +5633,6 @@ GEN对战TES（热度：537218）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%89%8D%E7%9A%84%E8%B7%91%E7%94%B7%E5%92%8C%E7%8E%B0%E5%9C%A8%E7%9A%84%E8%B7%91%E7%94%B7%23" target="weibo">
 以前的跑男和现在的跑男（热度：516918）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%AF%84%E6%AD%8C%E6%89%8B%E7%A7%B0%E8%A7%82%E4%BC%97%E6%B2%A1%E5%BF%85%E8%A6%81%E8%B7%9F%E7%9D%80%E6%9F%90%E4%BA%9B%E6%83%85%E7%BB%AA%E8%B5%B0%23" target="weibo">
-复旦教授评歌手称观众没必要跟着某些情绪走（热度：516492）
 </a>
 </li>
 
