@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715564345956,
+  "endTime": 1715567558627,
   "band_list": [
     {
       "raw_hot": 1811883,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1201119,
+      "num": 376821,
+      "word": "麦当劳给过期食材换标签续命",
+      "onboard_time": 1715563639,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1140233,
       "num": 619392,
       "word": "杨丞琳在家罚唱",
@@ -59,12 +67,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1011901,
+      "num": 218034,
+      "word": "只休一天就上班真的好累啊",
+      "onboard_time": 1715565377,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 976296,
       "num": 976296,
       "word": "mlxg退群",
       "onboard_time": 1715524163,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 963974,
+      "num": 963974,
+      "word": "改成绩事件涉事人员称是为救学生",
+      "onboard_time": 1715563998,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 875984,
@@ -115,6 +139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 670439,
+      "num": 357664,
+      "word": "抖音回应新规不再发布时政财经内容",
+      "onboard_time": 1715564597,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 628145,
       "num": 628145,
       "word": "阿兰助攻",
@@ -156,7 +188,7 @@
     },
     {
       "raw_hot": 580891,
-      "num": 302577,
+      "num": 379850,
       "word": "刘雯去美国了",
       "onboard_time": 1715561779,
       "rank": 20,
@@ -177,6 +209,14 @@
       "onboard_time": 1715557697,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 486024,
+      "num": 284168,
+      "word": "陈建斌出战能给对手唱emo",
+      "onboard_time": 1715565198,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 479883,
@@ -211,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424287,
+      "num": 424287,
+      "word": "阜阳野生动物园多只动物非正常死亡",
+      "onboard_time": 1715564897,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417996,
       "num": 417996,
       "word": "孙思邈留下的速睡方",
@@ -241,14 +289,6 @@
       "onboard_time": 1715526141,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 376821,
-      "num": 376821,
-      "word": "麦当劳给过期食材换标签续命",
-      "onboard_time": 1715563639,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 371172,
@@ -315,11 +355,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 337384,
-      "num": 337384,
-      "word": "改成绩事件涉事人员称是为救学生",
-      "onboard_time": 1715563998,
-      "rank": 17,
+      "raw_hot": 327075,
+      "num": 327075,
+      "word": "外国教授借科研名义窃取我安全数据",
+      "onboard_time": 1715564838,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -337,6 +377,14 @@
       "onboard_time": 1715531299,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299815,
+      "num": 194857,
+      "word": "在歌手唱好不是好歌手的唯一标准",
+      "onboard_time": 1715565617,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 299773,
@@ -375,6 +423,14 @@
       "num": 237474,
       "word": "歌手",
       "onboard_time": 1715510063,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 277507,
+      "num": 165466,
+      "word": "黄妈实力",
+      "onboard_time": 1715565198,
       "rank": 27,
       "category": "综艺"
     },
@@ -475,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206101,
+      "num": 206101,
+      "word": "A股",
+      "onboard_time": 1715565257,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 204071,
       "num": 204071,
       "word": "长期不刷牙可能引发败血症",
@@ -539,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164286,
+      "num": 139880,
+      "word": "100块钱九道菜三碗面",
+      "onboard_time": 1715566759,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 163273,
       "num": 163273,
       "word": "当i狗新交了e狗朋友",
@@ -587,6 +659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148156,
+      "num": 374393,
+      "word": "用裸眼3D打开福建舰",
+      "onboard_time": 1715567057,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148088,
       "num": 237142,
       "word": "婚礼上的伴娘可能全是租的",
@@ -625,6 +705,14 @@
       "onboard_time": 1715511443,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120643,
+      "num": 120643,
+      "word": "大D 秃子",
+      "onboard_time": 1715566037,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119831,
@@ -675,6 +763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109384,
+      "num": 109384,
+      "word": "腾讯回应上线地震预警功能",
+      "onboard_time": 1715566098,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107469,
       "num": 107469,
       "word": "安利李娟",
@@ -697,6 +793,14 @@
       "onboard_time": 1715500758,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104699,
+      "num": 104699,
+      "word": "陈天润贺卡",
+      "onboard_time": 1715567237,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 100102,
@@ -745,6 +849,14 @@
       "onboard_time": 1715519541,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87360,
+      "num": 107267,
+      "word": "贵州姑妈篮球赛太有意思了",
+      "onboard_time": 1715564538,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 84588,
