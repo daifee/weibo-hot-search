@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715606485486,
+  "endTime": 1715607334889,
   "band_list": [
     {
       "raw_hot": 3155031,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1150187,
+      "num": 1150187,
+      "word": "国家电网回应6月1日电费涨价",
+      "onboard_time": 1715599938,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1140233,
       "num": 619392,
       "word": "杨丞琳在家罚唱",
@@ -201,14 +209,6 @@
       "onboard_time": 1715589858,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1066749,
-      "num": 1066749,
-      "word": "国家电网回应6月1日电费涨价",
-      "onboard_time": 1715599938,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1012741,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 776271,
+      "num": 776271,
+      "word": "一孕傻三年的调侃掩盖了妈妈们的求救",
+      "onboard_time": 1715602939,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760501,
       "num": 228854,
       "word": "文俊辉代言茶百道",
@@ -344,14 +352,6 @@
       "word": "南通女孩家属呼吁大家不要再点食物",
       "onboard_time": 1715591420,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 740613,
-      "num": 740613,
-      "word": "一孕傻三年的调侃掩盖了妈妈们的求救",
-      "onboard_time": 1715602939,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570445,
+      "num": 257519,
+      "word": "夫妻车内吵架妻子经过收费站喊救命",
+      "onboard_time": 1715604259,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567476,
       "num": 396350,
       "word": "周杰伦官宣新音综",
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504598,
+      "num": 504598,
+      "word": "张翰凯丽 无声告别",
+      "onboard_time": 1715601560,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503298,
       "num": 503298,
       "word": "韩国各界呼吁政府尽快处理好对华关系",
@@ -635,12 +651,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 501314,
-      "num": 501314,
-      "word": "张翰凯丽 无声告别",
-      "onboard_time": 1715601560,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 500808,
+      "num": 384546,
+      "word": "那英王菲 好嗑",
+      "onboard_time": 1715606361,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 500284,
@@ -891,14 +907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 389410,
-      "num": 257519,
-      "word": "夫妻车内吵架妻子经过收费站喊救命",
-      "onboard_time": 1715604259,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389096,
       "num": 389096,
       "word": "老头杯",
@@ -937,6 +945,14 @@
       "onboard_time": 1715567959,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371477,
+      "num": 371477,
+      "word": "背着善宰跑",
+      "onboard_time": 1715603359,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 371172,
@@ -1155,20 +1171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311483,
+      "num": 216613,
+      "word": "围读剧本的杨幂",
+      "onboard_time": 1715606839,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309772,
       "num": 309772,
       "word": "结石姐关注香缇莫",
       "onboard_time": 1715603478,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308268,
-      "num": 308268,
-      "word": "背着善宰跑",
-      "onboard_time": 1715603359,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 307621,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1715575522,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296395,
+      "num": 231964,
+      "word": "张杰空降翻牌",
+      "onboard_time": 1715604680,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 293111,
@@ -1515,14 +1539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231964,
-      "num": 231964,
-      "word": "张杰空降翻牌",
-      "onboard_time": 1715604680,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229084,
       "num": 229084,
       "word": "与晋长安官宣阵容",
@@ -1784,6 +1800,14 @@
       "word": "陷入我们的热恋 男女主",
       "onboard_time": 1715590879,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199495,
+      "num": 199495,
+      "word": "酷云发文谈杨幂作为演员的可塑性",
+      "onboard_time": 1715607079,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -2155,6 +2179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163453,
+      "num": 163453,
+      "word": "aespa别念了",
+      "onboard_time": 1715602099,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163273,
       "num": 163273,
       "word": "当i狗新交了e狗朋友",
@@ -2236,7 +2268,7 @@
     },
     {
       "raw_hot": 156694,
-      "num": 156694,
+      "num": 168671,
       "word": "只使用医保内物品的孕妇",
       "onboard_time": 1715603359,
       "rank": 38,
@@ -2323,12 +2355,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 148422,
-      "num": 148422,
-      "word": "aespa别念了",
-      "onboard_time": 1715602099,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 148211,
+      "num": 168273,
+      "word": "这只大熊猫由周总理亲自命名",
+      "onboard_time": 1715605637,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148088,
@@ -2451,14 +2483,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 138359,
-      "num": 138359,
-      "word": "那英王菲 好嗑",
-      "onboard_time": 1715606361,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137615,
       "num": 137615,
       "word": "北向资金不再披露实时成交额",
@@ -2531,14 +2555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 132171,
-      "num": 132171,
-      "word": "这只大熊猫由周总理亲自命名",
-      "onboard_time": 1715605637,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131108,
       "num": 131108,
       "word": "网友cos迪丽热巴",
@@ -2580,7 +2596,7 @@
     },
     {
       "raw_hot": 122690,
-      "num": 923164,
+      "num": 929948,
       "word": "一起打卡夏天里的中国",
       "onboard_time": 1715583677,
       "rank": 47,
@@ -2931,12 +2947,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34039,
+      "num": 122061,
+      "word": "vivoX100Ultra影像灭霸",
+      "onboard_time": 1715607319,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 33550,
+      "num": 201998,
+      "word": "vivo发布蓝图影像",
+      "onboard_time": 1715606599,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 24668,
       "num": 27035,
       "word": "林俊杰陪地震后的小朋友过儿童节",
       "onboard_time": 1715539032,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24012,
+      "num": 212375,
+      "word": "vivoX100系列演唱会神器",
+      "onboard_time": 1715606599,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 21124,
