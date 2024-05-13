@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715592006468,
+  "endTime": 1715592942857,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 873747,
+      "num": 352932,
+      "word": "韩红拿了冠军还要发简历",
+      "onboard_time": 1715589858,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 869966,
       "num": 444770,
       "word": "男人肚子越来越大的5个原因",
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 822283,
-      "num": 337267,
+      "num": 351298,
       "word": "群演曝李一桐打戏替身情况",
       "onboard_time": 1715589200,
       "rank": 31,
@@ -672,14 +680,6 @@
       "word": "歌手第二期网传歌单",
       "onboard_time": 1715498957,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 787770,
-      "num": 329894,
-      "word": "韩红拿了冠军还要发简历",
-      "onboard_time": 1715589858,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -1219,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 502026,
+      "num": 254898,
+      "word": "中医建议不要太频繁的刮痧",
+      "onboard_time": 1715589858,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 501347,
       "num": 501347,
       "word": "我在北大学减肥",
@@ -1443,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 425824,
-      "num": 250688,
-      "word": "中医建议不要太频繁的刮痧",
-      "onboard_time": 1715589858,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 425636,
       "num": 425636,
       "word": "成都吉普",
@@ -1484,7 +1484,7 @@
     },
     {
       "raw_hot": 418734,
-      "num": 244301,
+      "num": 253892,
       "word": "最苦的两个英子",
       "onboard_time": 1715588600,
       "rank": 29,
@@ -1579,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399270,
+      "num": 254046,
+      "word": "aespa好癫的MV",
+      "onboard_time": 1715592259,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 398694,
       "num": 398694,
       "word": "WBG打野Tarzan",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1715503758,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 390298,
+      "num": 390298,
+      "word": "抄袭的是商家被嘲笑的却是我",
+      "onboard_time": 1715588779,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 388471,
@@ -1691,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365031,
+      "num": 286253,
+      "word": "南通女孩家属呼吁大家不要再点食物",
+      "onboard_time": 1715591420,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363329,
       "num": 261587,
       "word": "香港大学偶遇奚梦瑶上课",
@@ -1705,14 +1729,6 @@
       "onboard_time": 1715508921,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 361195,
-      "num": 361195,
-      "word": "抄袭的是商家被嘲笑的却是我",
-      "onboard_time": 1715588779,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 360913,
@@ -1980,7 +1996,7 @@
     },
     {
       "raw_hot": 323535,
-      "num": 233596,
+      "num": 251144,
       "word": "ENHYPEN回归",
       "onboard_time": 1715591120,
       "rank": 28,
@@ -2083,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297085,
+      "num": 251774,
+      "word": "苏醒不玩游戏失去社交权",
+      "onboard_time": 1715591480,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296528,
       "num": 232293,
       "word": "孟子义这是上电视能说的吗",
@@ -2105,6 +2129,14 @@
       "onboard_time": 1715433801,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293134,
+      "num": 251292,
+      "word": "难听",
+      "onboard_time": 1715592499,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 287991,
@@ -2283,14 +2315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259462,
-      "num": 229595,
-      "word": "苏醒不玩游戏失去社交权",
-      "onboard_time": 1715591480,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258299,
       "num": 224301,
       "word": "刘诗诗业内口碑",
@@ -2321,6 +2345,14 @@
       "onboard_time": 1715577140,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255581,
+      "num": 283466,
+      "word": "短效避孕药的副作用有这些",
+      "onboard_time": 1715586077,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254919,
@@ -2385,6 +2417,14 @@
       "onboard_time": 1715559317,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250303,
+      "num": 250303,
+      "word": "那英摇人宣传片",
+      "onboard_time": 1715592439,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 248163,
@@ -2603,6 +2643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221208,
+      "num": 221208,
+      "word": "杨幂既是女儿还是妈妈",
+      "onboard_time": 1715591360,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220169,
       "num": 278531,
       "word": "蓝田纪委回应副镇长半夜叫别人妻子唱歌",
@@ -2657,6 +2705,14 @@
       "onboard_time": 1715577500,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214227,
+      "num": 183318,
+      "word": "张艺兴韩国plog",
+      "onboard_time": 1715592621,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 214159,
@@ -2755,14 +2811,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 205540,
-      "num": 283466,
-      "word": "短效避孕药的副作用有这些",
-      "onboard_time": 1715586077,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 204966,
       "num": 183534,
       "word": "周深反深代词定档了",
@@ -2827,12 +2875,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200823,
-      "num": 200823,
-      "word": "杨幂既是女儿还是妈妈",
-      "onboard_time": 1715591360,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 200555,
+      "num": 181936,
+      "word": "supernova",
+      "onboard_time": 1715592798,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 200161,
@@ -3073,14 +3121,6 @@
       "onboard_time": 1715524762,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 187206,
-      "num": 275630,
-      "word": "南通女孩家属呼吁大家不要再点食物",
-      "onboard_time": 1715591420,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186961,
@@ -3443,6 +3483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164827,
+      "num": 255036,
+      "word": "今年以来油价最大跌幅来了",
+      "onboard_time": 1715592200,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 164567,
       "num": 164567,
       "word": "学生时代的同学真的是人脉吗",
@@ -3580,7 +3628,7 @@
     },
     {
       "raw_hot": 159176,
-      "num": 159176,
+      "num": 166965,
       "word": "现在的农村没有以前热闹了",
       "onboard_time": 1715589858,
       "rank": 45,
@@ -3596,7 +3644,7 @@
     },
     {
       "raw_hot": 158373,
-      "num": 158373,
+      "num": 167979,
       "word": "前程比爱情重要 爱情比前程难得",
       "onboard_time": 1715590819,
       "rank": 46,
@@ -4067,6 +4115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132246,
+      "num": 165853,
+      "word": "微笑 退赛",
+      "onboard_time": 1715592919,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132244,
       "num": 111827,
       "word": "那英看二手玫瑰舞台reaction",
@@ -4145,6 +4201,14 @@
       "onboard_time": 1715519001,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126139,
+      "num": 164386,
+      "word": "官方账号做霸总短剧杀疯了",
+      "onboard_time": 1715592679,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126089,
