@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715607334889,
+  "endTime": 1715609848965,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -265,6 +265,14 @@
       "onboard_time": 1715563639,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1291603,
+      "num": 1291603,
+      "word": "那英王菲 好嗑",
+      "onboard_time": 1715606361,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1271843,
@@ -980,7 +988,7 @@
     },
     {
       "raw_hot": 638413,
-      "num": 304618,
+      "num": 320965,
       "word": "中医建议不要太频繁的刮痧",
       "onboard_time": 1715589858,
       "rank": 24,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1715523803,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 618281,
+      "num": 321063,
+      "word": "夫妻车内吵架妻子经过收费站喊救命",
+      "onboard_time": 1715604259,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617156,
@@ -1113,14 +1129,6 @@
       "onboard_time": 1715522422,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 570445,
-      "num": 257519,
-      "word": "夫妻车内吵架妻子经过收费站喊救命",
-      "onboard_time": 1715604259,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 567476,
@@ -1371,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 500808,
-      "num": 384546,
-      "word": "那英王菲 好嗑",
-      "onboard_time": 1715606361,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 500284,
       "num": 500284,
       "word": "71岁的奶奶身材堪比少女",
@@ -1537,6 +1537,14 @@
       "onboard_time": 1715580918,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444149,
+      "num": 444149,
+      "word": "围读剧本的杨幂",
+      "onboard_time": 1715606839,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 442451,
@@ -1817,6 +1825,14 @@
       "onboard_time": 1715567959,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380562,
+      "num": 380562,
+      "word": "蛇哥退出老头杯",
+      "onboard_time": 1715605519,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 378620,
@@ -2187,12 +2203,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321295,
+      "num": 321295,
+      "word": "赵露思微醺甜杏妆",
+      "onboard_time": 1715608700,
+      "rank": 16,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 321215,
       "num": 321215,
       "word": "偷感考研人vs装感考研人",
       "onboard_time": 1715572159,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320844,
+      "num": 320844,
+      "word": "井柏然吃牛排",
+      "onboard_time": 1715608939,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 320653,
+      "num": 320653,
+      "word": "歌手导演",
+      "onboard_time": 1715608760,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 318059,
@@ -2233,14 +2273,6 @@
       "onboard_time": 1715447536,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 311483,
-      "num": 216613,
-      "word": "围读剧本的杨幂",
-      "onboard_time": 1715606839,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 309772,
@@ -2332,7 +2364,7 @@
     },
     {
       "raw_hot": 296395,
-      "num": 231964,
+      "num": 280871,
       "word": "张杰空降翻牌",
       "onboard_time": 1715604680,
       "rank": 28,
@@ -2457,6 +2489,14 @@
       "onboard_time": 1715559979,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 274332,
+      "num": 274332,
+      "word": "李娟 责编",
+      "onboard_time": 1715608939,
+      "rank": 30,
+      "category": "剧集,读书作家"
     },
     {
       "raw_hot": 273568,
@@ -2651,14 +2691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 252870,
-      "num": 252870,
-      "word": "蛇哥退出老头杯",
-      "onboard_time": 1715605519,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 251905,
       "num": 205163,
       "word": "dream个泰勒",
@@ -2851,6 +2883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228891,
+      "num": 228891,
+      "word": "嬛嬛 朕能不能睡中间",
+      "onboard_time": 1715609059,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227283,
       "num": 227283,
       "word": "黄景瑜接受联合国新闻专访",
@@ -2889,6 +2929,14 @@
       "onboard_time": 1715515221,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223968,
+      "num": 321103,
+      "word": "专家称房价下降会致国民资产缩水",
+      "onboard_time": 1715609240,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 223505,
@@ -3427,6 +3475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191730,
+      "num": 191730,
+      "word": "这只大熊猫由周总理亲自命名",
+      "onboard_time": 1715605637,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190790,
       "num": 190790,
       "word": "看个比赛 扣两次钱",
@@ -3497,6 +3553,14 @@
       "onboard_time": 1715591480,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189776,
+      "num": 189776,
+      "word": "唐氏变脸女孩妈妈流泪发声",
+      "onboard_time": 1715609479,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189571,
@@ -4347,12 +4411,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148211,
-      "num": 168273,
-      "word": "这只大熊猫由周总理亲自命名",
-      "onboard_time": 1715605637,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 148474,
+      "num": 148474,
+      "word": "kid队",
+      "onboard_time": 1715609659,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 148014,
@@ -4747,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131584,
+      "num": 131584,
+      "word": "每天只有3亿人发布朋友圈",
+      "onboard_time": 1715609721,
+      "rank": 48,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 131280,
       "num": 131280,
       "word": "汶川地震时一位母亲留下的短信",
@@ -4793,6 +4865,14 @@
       "onboard_time": 1715480777,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128306,
+      "num": 128306,
+      "word": "上班的累是来自情绪劳动而不是工作本身",
+      "onboard_time": 1715609601,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 128263,
@@ -4932,7 +5012,7 @@
     },
     {
       "raw_hot": 122690,
-      "num": 929948,
+      "num": 1154518,
       "word": "一起打卡夏天里的中国",
       "onboard_time": 1715583677,
       "rank": 47,
@@ -5603,6 +5683,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 56491,
+      "num": 381684,
+      "word": "vivoX100Ultra影像灭霸",
+      "onboard_time": 1715607319,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 56264,
       "num": 127070,
       "word": "字字不提妈妈句句都是母爱",
@@ -5643,6 +5731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46950,
+      "num": 380946,
+      "word": "vivo发布蓝图影像",
+      "onboard_time": 1715606599,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 44765,
+      "num": 303490,
+      "word": "vivo直屏党的白月光",
+      "onboard_time": 1715608219,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 41129,
       "num": 41129,
       "word": "NBA",
@@ -5667,20 +5771,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 34039,
-      "num": 122061,
-      "word": "vivoX100Ultra影像灭霸",
-      "onboard_time": 1715607319,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 33550,
-      "num": 201998,
-      "word": "vivo发布蓝图影像",
+      "raw_hot": 32765,
+      "num": 320710,
+      "word": "vivoX100系列演唱会神器",
       "onboard_time": 1715606599,
-      "rank": 30,
-      "category": "数码"
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 28497,
@@ -5697,14 +5793,6 @@
       "onboard_time": 1715539032,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24012,
-      "num": 212375,
-      "word": "vivoX100系列演唱会神器",
-      "onboard_time": 1715606599,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 22768,
