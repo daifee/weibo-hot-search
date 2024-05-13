@@ -1,0 +1,410 @@
+{
+  "runTime": 1715598941306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1784614,
+        "num": 1784614,
+        "word": "微笑 退赛",
+        "onboard_time": 1715592919,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1243735,
+        "num": 1243735,
+        "word": "中方决定不同意台湾地区参加今年世卫大会",
+        "onboard_time": 1715598198,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148128,
+        "num": 1111685,
+        "word": "国家一级博物馆最全名单",
+        "onboard_time": 1715586979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009911,
+        "num": 1009911,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 962534,
+        "num": 962534,
+        "word": "韩红拿了冠军还要发简历",
+        "onboard_time": 1715589858,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 849246,
+        "num": 849246,
+        "word": "官方通报动物园20只东北虎死亡",
+        "onboard_time": 1715595077,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873330,
+        "num": 813415,
+        "word": "空降",
+        "onboard_time": 1715595919,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 719259,
+        "num": 719259,
+        "word": "难听",
+        "onboard_time": 1715592499,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 505100,
+        "num": 505100,
+        "word": "南通女孩家属呼吁大家不要再点食物",
+        "onboard_time": 1715591420,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136843,
+        "num": 435371,
+        "word": "记者北川直播白蝴蝶入镜6次",
+        "onboard_time": 1715593820,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509812,
+        "num": 435115,
+        "word": "那英摇人宣传片",
+        "onboard_time": 1715592439,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416509,
+        "num": 416509,
+        "word": "孟子义感谢苗苗救场",
+        "onboard_time": 1715594660,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411281,
+        "num": 411281,
+        "word": "披荆斩棘的老头们",
+        "onboard_time": 1715596160,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 381512,
+        "num": 381512,
+        "word": "不满月的小米SU7坏了",
+        "onboard_time": 1715595440,
+        "rank": 13,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 342857,
+        "num": 342857,
+        "word": "庆余年林婉儿原型是林依晨",
+        "onboard_time": 1715584340,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333653,
+        "num": 333653,
+        "word": "Breathe加入WBG",
+        "onboard_time": 1715596939,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 333591,
+        "num": 333591,
+        "word": "群演曝李一桐打戏替身情况",
+        "onboard_time": 1715589200,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296846,
+        "num": 296846,
+        "word": "美国宣布全面禁止竞业禁止协议",
+        "onboard_time": 1715586499,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177083,
+        "num": 268310,
+        "word": "大熊猫保护研究中心原副主任张海清被查",
+        "onboard_time": 1715589139,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266970,
+        "num": 266970,
+        "word": "动物园称死亡老虎不属于园方",
+        "onboard_time": 1715594477,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638413,
+        "num": 265782,
+        "word": "中医建议不要太频繁的刮痧",
+        "onboard_time": 1715589858,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112833,
+        "num": 265143,
+        "word": "在微缩蛋糕上见到了去世前的爸爸",
+        "onboard_time": 1715598798,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85168,
+        "num": 263641,
+        "word": "河南17名高中生拟保送清北",
+        "onboard_time": 1715592978,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 294363,
+        "num": 261868,
+        "word": "谢娜曾反对张杰去歌手",
+        "onboard_time": 1715580978,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260614,
+        "num": 260614,
+        "word": "我喜欢你 意思是我清楚地看见你",
+        "onboard_time": 1715587819,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220716,
+        "num": 220716,
+        "word": "aespa回归",
+        "onboard_time": 1715591120,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219769,
+        "num": 219769,
+        "word": "副镇长被举报半夜叫他人妻子去唱歌",
+        "onboard_time": 1715585839,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218698,
+        "num": 218698,
+        "word": "袁娅维憋不住了",
+        "onboard_time": 1715586438,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217860,
+        "num": 217860,
+        "word": "歌手",
+        "onboard_time": 1715592560,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207115,
+        "num": 207115,
+        "word": "我发现大学生一旦过了11周",
+        "onboard_time": 1715593760,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197090,
+        "num": 197090,
+        "word": "郑钦文战胜大坂直美",
+        "onboard_time": 1715598499,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217431,
+        "num": 196316,
+        "word": "谭晶回应去歌手",
+        "onboard_time": 1715584759,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195482,
+        "num": 195482,
+        "word": "薛之谦演唱会抢票",
+        "onboard_time": 1715598078,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194487,
+        "num": 194487,
+        "word": "HYBE说要给NewJeans放一年半的假",
+        "onboard_time": 1715593639,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193578,
+        "num": 193578,
+        "word": "星船 out",
+        "onboard_time": 1715588659,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173021,
+        "num": 173021,
+        "word": "抄袭的是商家被嘲笑的却是我",
+        "onboard_time": 1715588779,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166154,
+        "num": 166154,
+        "word": "aespa好癫的MV",
+        "onboard_time": 1715592259,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162542,
+        "num": 162542,
+        "word": "璩静离职后发声",
+        "onboard_time": 1715586619,
+        "rank": 37,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 160568,
+        "num": 160568,
+        "word": "李栋旭快碎了",
+        "onboard_time": 1715597178,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159954,
+        "num": 159954,
+        "word": "韩红报名方式错了",
+        "onboard_time": 1715568859,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159648,
+        "num": 159648,
+        "word": "lucifer",
+        "onboard_time": 1715596759,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137998,
+        "num": 158257,
+        "word": "灭霸vivoX100Ultra发布",
+        "onboard_time": 1715598558,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157246,
+        "num": 157246,
+        "word": "欧阳娜娜 Diploma",
+        "onboard_time": 1715593459,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152691,
+        "num": 152691,
+        "word": "teeth好听",
+        "onboard_time": 1715597479,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152299,
+        "num": 152299,
+        "word": "网友曝李亚鹏拖欠工资",
+        "onboard_time": 1715598919,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145949,
+        "num": 145949,
+        "word": "aespa主打曲空降",
+        "onboard_time": 1715596818,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143729,
+        "num": 143729,
+        "word": "最苦的两个英子",
+        "onboard_time": 1715588600,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142198,
+        "num": 142198,
+        "word": "不如drama",
+        "onboard_time": 1715597239,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138753,
+        "num": 138753,
+        "word": "南部战区空军飞训大片来了",
+        "onboard_time": 1715598139,
+        "rank": 48,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 135475,
+        "num": 135475,
+        "word": "郑钦文晋级",
+        "onboard_time": 1715597239,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中欧关系稳定健康发展#"
+    }
+  }
+}
