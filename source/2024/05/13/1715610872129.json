@@ -1,0 +1,410 @@
+{
+  "runTime": 1715610872129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1839729,
+        "num": 1839729,
+        "word": "中方决定不同意台湾地区参加今年世卫大会",
+        "onboard_time": 1715598198,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1340125,
+        "num": 1340125,
+        "word": "那英王菲 好嗑",
+        "onboard_time": 1715606361,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22683,
+        "num": 1021258,
+        "word": "一起打卡夏天里的中国",
+        "onboard_time": 1715583677,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837211,
+        "num": 837211,
+        "word": "Uzi G2",
+        "onboard_time": 1715610441,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 723120,
+        "num": 723120,
+        "word": "国家电网回应6月1日电费涨价",
+        "onboard_time": 1715599938,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641221,
+        "num": 641221,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638403,
+        "num": 638403,
+        "word": "专家称房价下降会致国民资产缩水",
+        "onboard_time": 1715609240,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 594376,
+        "num": 594376,
+        "word": "微笑疑似退赛",
+        "onboard_time": 1715592919,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 498899,
+        "num": 498899,
+        "word": "网友曝李亚鹏拖欠工资",
+        "onboard_time": 1715598919,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374068,
+        "num": 476009,
+        "word": "唐氏变脸女孩妈妈流泪发声",
+        "onboard_time": 1715609479,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65460,
+        "num": 472118,
+        "word": "vivoX100Ultra影像灭霸",
+        "onboard_time": 1715607319,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 470086,
+        "num": 470086,
+        "word": "井柏然吃牛排",
+        "onboard_time": 1715608939,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434522,
+        "num": 434522,
+        "word": "围读剧本的杨幂",
+        "onboard_time": 1715606839,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431819,
+        "num": 431819,
+        "word": "歌手导演",
+        "onboard_time": 1715608760,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405828,
+        "num": 405828,
+        "word": "蛇哥退出老头杯",
+        "onboard_time": 1715605519,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 357618,
+        "num": 357618,
+        "word": "赵露思微醺甜杏妆",
+        "onboard_time": 1715608700,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 350722,
+        "num": 350722,
+        "word": "李娟 责编",
+        "onboard_time": 1715608939,
+        "rank": 16,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 286325,
+        "num": 286325,
+        "word": "官方通报动物园20只东北虎死亡",
+        "onboard_time": 1715595077,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229590,
+        "num": 229590,
+        "word": "南通女孩家属呼吁大家不要再点食物",
+        "onboard_time": 1715591420,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197809,
+        "num": 197809,
+        "word": "kid队",
+        "onboard_time": 1715609659,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 520644,
+        "num": 197792,
+        "word": "每天只有3亿人发布朋友圈",
+        "onboard_time": 1715609721,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 495633,
+        "num": 197765,
+        "word": "中医建议不要太频繁的刮痧",
+        "onboard_time": 1715589858,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 478096,
+        "num": 197729,
+        "word": "夫妻车内吵架妻子经过收费站喊救命",
+        "onboard_time": 1715604259,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311309,
+        "num": 197711,
+        "word": "嬛嬛 朕能不能睡中间",
+        "onboard_time": 1715609059,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307112,
+        "num": 197687,
+        "word": "背着善宰跑",
+        "onboard_time": 1715603359,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298260,
+        "num": 197647,
+        "word": "张翰凯丽 无声告别",
+        "onboard_time": 1715601560,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49377,
+        "num": 197612,
+        "word": "vivo直屏党的白月光",
+        "onboard_time": 1715608219,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 277885,
+        "num": 197609,
+        "word": "韩红拿了冠军还要发简历",
+        "onboard_time": 1715589858,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271283,
+        "num": 197573,
+        "word": "难听",
+        "onboard_time": 1715592499,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236983,
+        "num": 197527,
+        "word": "歌手前八季热度破亿歌曲",
+        "onboard_time": 1715599400,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328659,
+        "num": 197499,
+        "word": "TES发布海报",
+        "onboard_time": 1715610380,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221221,
+        "num": 197480,
+        "word": "歌手",
+        "onboard_time": 1715592560,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210354,
+        "num": 197463,
+        "word": "年轻人开始整顿上海相亲角了",
+        "onboard_time": 1715610559,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209660,
+        "num": 197437,
+        "word": "上班的累是来自情绪劳动而不是工作本身",
+        "onboard_time": 1715609601,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203826,
+        "num": 197393,
+        "word": "张杰空降翻牌",
+        "onboard_time": 1715604680,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43452,
+        "num": 197364,
+        "word": "vivo发布蓝图影像",
+        "onboard_time": 1715606599,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197355,
+        "num": 197355,
+        "word": "IU都暻秀合作",
+        "onboard_time": 1715609842,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192142,
+        "num": 192142,
+        "word": "苗苗用了李晨的化妆师",
+        "onboard_time": 1715610741,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180473,
+        "num": 180473,
+        "word": "庆余年林婉儿原型是林依晨",
+        "onboard_time": 1715584340,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172778,
+        "num": 172778,
+        "word": "这只大熊猫由周总理亲自命名",
+        "onboard_time": 1715605637,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166183,
+        "num": 166183,
+        "word": "谭晶回应去歌手",
+        "onboard_time": 1715584759,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161043,
+        "num": 161043,
+        "word": "广西百色一初中生校内坠亡",
+        "onboard_time": 1715601919,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148740,
+        "num": 148740,
+        "word": "群演曝李一桐打戏替身情况",
+        "onboard_time": 1715589200,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156265,
+        "num": 148639,
+        "word": "那英摇人宣传片",
+        "onboard_time": 1715592439,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148406,
+        "num": 148406,
+        "word": "老头杯换人",
+        "onboard_time": 1715601679,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147555,
+        "num": 147555,
+        "word": "在微缩蛋糕上见到了去世前的爸爸",
+        "onboard_time": 1715598798,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144368,
+        "num": 144368,
+        "word": "田曦薇蓝钿花古装造型",
+        "onboard_time": 1715605040,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141545,
+        "num": 141545,
+        "word": "徐若晗 种子选手",
+        "onboard_time": 1715610681,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136458,
+        "num": 136458,
+        "word": "我喜欢你 意思是我清楚地看见你",
+        "onboard_time": 1715587819,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30669,
+        "num": 136455,
+        "word": "vivoX100系列演唱会神器",
+        "onboard_time": 1715606599,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平2024欧洲之行高光时刻#"
+    }
+  }
+}

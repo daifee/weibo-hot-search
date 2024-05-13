@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715609848965,
+  "endTime": 1715610872129,
   "band_list": [
     {
       "raw_hot": 3155031,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1340125,
+      "num": 1340125,
+      "word": "那英王菲 好嗑",
+      "onboard_time": 1715606361,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1299800,
       "num": 1299800,
       "word": "张杰说唱live是歌手最基本的要求",
@@ -129,14 +137,6 @@
       "onboard_time": 1715563639,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1291603,
-      "num": 1291603,
-      "word": "那英王菲 好嗑",
-      "onboard_time": 1715606361,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 1271843,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 837211,
+      "num": 837211,
+      "word": "Uzi G2",
+      "onboard_time": 1715610441,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 826435,
       "num": 356887,
       "word": "我喜欢你 意思是我清楚地看见你",
@@ -459,6 +467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 638403,
+      "num": 638403,
+      "word": "专家称房价下降会致国民资产缩水",
+      "onboard_time": 1715609240,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 634453,
       "num": 349099,
       "word": "南通渣土车与大巴碰撞通报遭质疑",
@@ -505,6 +521,14 @@
       "onboard_time": 1715522841,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 594376,
+      "num": 594376,
+      "word": "微笑疑似退赛",
+      "onboard_time": 1715592919,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 592895,
@@ -577,6 +601,14 @@
       "onboard_time": 1715582237,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 520644,
+      "num": 197792,
+      "word": "每天只有3亿人发布朋友圈",
+      "onboard_time": 1715609721,
+      "rank": 48,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 519353,
@@ -731,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470086,
+      "num": 470086,
+      "word": "井柏然吃牛排",
+      "onboard_time": 1715608939,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469788,
       "num": 304595,
       "word": "歌手",
@@ -793,6 +833,14 @@
       "onboard_time": 1715588659,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431819,
+      "num": 431819,
+      "word": "歌手导演",
+      "onboard_time": 1715608760,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 431542,
@@ -875,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405828,
+      "num": 405828,
+      "word": "蛇哥退出老头杯",
+      "onboard_time": 1715605519,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 401556,
       "num": 251495,
       "word": "A妹空降超话",
@@ -955,12 +1011,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380562,
-      "num": 380562,
-      "word": "蛇哥退出老头杯",
-      "onboard_time": 1715605519,
-      "rank": 24,
-      "category": "电竞"
+      "raw_hot": 374068,
+      "num": 476009,
+      "word": "唐氏变脸女孩妈妈流泪发声",
+      "onboard_time": 1715609479,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371477,
@@ -1009,6 +1065,14 @@
       "onboard_time": 1715601919,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357618,
+      "num": 357618,
+      "word": "赵露思微醺甜杏妆",
+      "onboard_time": 1715608700,
+      "rank": 16,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 353477,
@@ -1065,6 +1129,14 @@
       "onboard_time": 1715589139,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350722,
+      "num": 350722,
+      "word": "李娟 责编",
+      "onboard_time": 1715608939,
+      "rank": 30,
+      "category": "剧集,读书作家"
     },
     {
       "raw_hot": 350330,
@@ -1131,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328659,
+      "num": 197499,
+      "word": "TES发布海报",
+      "onboard_time": 1715610380,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 328271,
       "num": 328271,
       "word": "年轻人还想买房吗",
@@ -1163,36 +1243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321295,
-      "num": 321295,
-      "word": "赵露思微醺甜杏妆",
-      "onboard_time": 1715608700,
-      "rank": 16,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 321215,
       "num": 321215,
       "word": "偷感考研人vs装感考研人",
       "onboard_time": 1715572159,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 320844,
-      "num": 320844,
-      "word": "井柏然吃牛排",
-      "onboard_time": 1715608939,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 320653,
-      "num": 320653,
-      "word": "歌手导演",
-      "onboard_time": 1715608760,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 315193,
@@ -1209,6 +1265,14 @@
       "onboard_time": 1715559738,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311309,
+      "num": 228891,
+      "word": "嬛嬛 朕能不能睡中间",
+      "onboard_time": 1715609059,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 309772,
@@ -1361,14 +1425,6 @@
       "onboard_time": 1715559979,
       "rank": 24,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 274332,
-      "num": 274332,
-      "word": "李娟 责编",
-      "onboard_time": 1715608939,
-      "rank": 30,
-      "category": "剧集,读书作家"
     },
     {
       "raw_hot": 272202,
@@ -1579,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228891,
-      "num": 228891,
-      "word": "嬛嬛 朕能不能睡中间",
-      "onboard_time": 1715609059,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227283,
       "num": 227283,
       "word": "黄景瑜接受联合国新闻专访",
@@ -1601,14 +1649,6 @@
       "onboard_time": 1715556675,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223968,
-      "num": 321103,
-      "word": "专家称房价下降会致国民资产缩水",
-      "onboard_time": 1715609240,
-      "rank": 19,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 223505,
@@ -1739,6 +1779,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210354,
+      "num": 197463,
+      "word": "年轻人开始整顿上海相亲角了",
+      "onboard_time": 1715610559,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209660,
+      "num": 197437,
+      "word": "上班的累是来自情绪劳动而不是工作本身",
+      "onboard_time": 1715609601,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207697,
       "num": 207697,
       "word": "央行心形纪念币520上新",
@@ -1867,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197809,
+      "num": 197809,
+      "word": "kid队",
+      "onboard_time": 1715609659,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197642,
       "num": 197642,
       "word": "娄艺潇毕业于上戏音乐剧专业",
@@ -1881,6 +1945,14 @@
       "onboard_time": 1715579359,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197355,
+      "num": 197355,
+      "word": "IU都暻秀合作",
+      "onboard_time": 1715609842,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 197090,
@@ -1929,6 +2001,14 @@
       "onboard_time": 1715582898,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192142,
+      "num": 192142,
+      "word": "苗苗用了李晨的化妆师",
+      "onboard_time": 1715610741,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 192111,
@@ -1993,14 +2073,6 @@
       "onboard_time": 1715591480,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189776,
-      "num": 189776,
-      "word": "唐氏变脸女孩妈妈流泪发声",
-      "onboard_time": 1715609479,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189414,
@@ -2419,14 +2491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 148474,
-      "num": 148474,
-      "word": "kid队",
-      "onboard_time": 1715609659,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 148088,
       "num": 237142,
       "word": "婚礼上的伴娘可能全是租的",
@@ -2497,6 +2561,14 @@
       "onboard_time": 1715577799,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141545,
+      "num": 141545,
+      "word": "徐若晗 种子选手",
+      "onboard_time": 1715610681,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 140872,
@@ -2619,28 +2691,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 131584,
-      "num": 131584,
-      "word": "每天只有3亿人发布朋友圈",
-      "onboard_time": 1715609721,
-      "rank": 48,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 131108,
       "num": 131108,
       "word": "网友cos迪丽热巴",
       "onboard_time": 1715513182,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128306,
-      "num": 128306,
-      "word": "上班的累是来自情绪劳动而不是工作本身",
-      "onboard_time": 1715609601,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 126139,
@@ -2971,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65460,
+      "num": 472118,
+      "word": "vivoX100Ultra影像灭霸",
+      "onboard_time": 1715607319,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 63457,
       "num": 254019,
       "word": "曾舜晞白月光的杀伤力",
@@ -2993,14 +3057,6 @@
       "onboard_time": 1715528060,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56491,
-      "num": 381684,
-      "word": "vivoX100Ultra影像灭霸",
-      "onboard_time": 1715607319,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 53466,
@@ -3027,19 +3083,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49377,
+      "num": 303490,
+      "word": "vivo直屏党的白月光",
+      "onboard_time": 1715608219,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46950,
       "num": 380946,
       "word": "vivo发布蓝图影像",
       "onboard_time": 1715606599,
       "rank": 30,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 44765,
-      "num": 303490,
-      "word": "vivo直屏党的白月光",
-      "onboard_time": 1715608219,
-      "rank": 27,
       "category": "数码"
     },
     {
