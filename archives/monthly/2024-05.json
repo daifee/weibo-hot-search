@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715621729690,
+  "endTime": 1715624537125,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -27219,6 +27219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152748,
+      "num": 103633,
+      "word": "海口近8吨死鱼将无害化处置",
+      "onboard_time": 1715620394,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152702,
       "num": 152702,
       "word": "赵露思甜品店",
@@ -30651,6 +30659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129854,
+      "num": 129854,
+      "word": "芒果糯米饭",
+      "onboard_time": 1715619135,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129788,
       "num": 188316,
       "word": "2024PEL春季赛",
@@ -31241,14 +31257,6 @@
       "onboard_time": 1714888698,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125266,
-      "num": 125266,
-      "word": "芒果糯米饭",
-      "onboard_time": 1715619135,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 125186,
@@ -33721,14 +33729,6 @@
       "onboard_time": 1715258778,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103633,
-      "num": 103633,
-      "word": "海口近8吨死鱼将无害化处置",
-      "onboard_time": 1715620394,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103566,
@@ -36459,6 +36459,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 34568,
+      "num": 34568,
+      "word": "章昊主打直拍",
+      "onboard_time": 1715623871,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 34426,
       "num": 34426,
       "word": "古天乐好帅",
@@ -36688,6 +36696,14 @@
       "word": "重生之我在爽文短剧里当演员",
       "onboard_time": 1714940292,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 22890,
+      "num": 30385,
+      "word": "这装修真把钱花在刀刃上了",
+      "onboard_time": 1715621952,
+      "rank": 49,
       "category": "幽默"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715621729690,
+  "endTime": 1715624537125,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -4579,6 +4579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152748,
+      "num": 103633,
+      "word": "海口近8吨死鱼将无害化处置",
+      "onboard_time": 1715620394,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152691,
       "num": 152691,
       "word": "teeth好听",
@@ -5067,6 +5075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129854,
+      "num": 129854,
+      "word": "芒果糯米饭",
+      "onboard_time": 1715619135,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129498,
       "num": 129498,
       "word": "世界级投资大佬西蒙斯去世",
@@ -5161,14 +5177,6 @@
       "onboard_time": 1715519841,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125266,
-      "num": 125266,
-      "word": "芒果糯米饭",
-      "onboard_time": 1715619135,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 124913,
@@ -5569,14 +5577,6 @@
       "onboard_time": 1715470576,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103633,
-      "num": 103633,
-      "word": "海口近8吨死鱼将无害化处置",
-      "onboard_time": 1715620394,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103275,
@@ -6075,6 +6075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 34568,
+      "num": 34568,
+      "word": "章昊主打直拍",
+      "onboard_time": 1715623871,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 32765,
       "num": 320710,
       "word": "vivoX100系列演唱会神器",
@@ -6097,6 +6105,14 @@
       "onboard_time": 1715539032,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22890,
+      "num": 30385,
+      "word": "这装修真把钱花在刀刃上了",
+      "onboard_time": 1715621952,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 22768,
