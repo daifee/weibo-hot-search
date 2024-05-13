@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715578576656,
+  "endTime": 1715581530802,
   "band_list": [
     {
       "raw_hot": 3155031,
@@ -17,6 +17,14 @@
       "onboard_time": 1715568859,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2039257,
+      "num": 1435851,
+      "word": "封进水泥的尸体是怎么被发现的",
+      "onboard_time": 1715579718,
+      "rank": 1,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1814093,
@@ -67,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1416171,
+      "num": 1416171,
+      "word": "南京林业大学宋凯",
+      "onboard_time": 1715576601,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1299800,
       "num": 1299800,
       "word": "张杰说唱live是歌手最基本的要求",
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1271843,
-      "num": 784914,
+      "num": 1123397,
       "word": "那英问汪苏泷你妈多大",
       "onboard_time": 1715576060,
       "rank": 6,
@@ -137,14 +153,6 @@
       "onboard_time": 1715572580,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 987224,
-      "num": 987224,
-      "word": "南京林业大学宋凯",
-      "onboard_time": 1715576601,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 976296,
@@ -395,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473494,
+      "num": 244811,
+      "word": "谢娜曾反对张杰去歌手",
+      "onboard_time": 1715580978,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465971,
       "num": 465971,
       "word": "阜阳野生动物园多只动物非正常死亡",
@@ -499,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 388367,
+      "num": 388367,
+      "word": "高校回应教师因非升即走压力自杀",
+      "onboard_time": 1715578339,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381120,
       "num": 310190,
       "word": "大学时期的迪丽热巴",
@@ -521,6 +545,14 @@
       "onboard_time": 1715574081,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363329,
+      "num": 261587,
+      "word": "香港大学偶遇奚梦瑶上课",
+      "onboard_time": 1715578878,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 361427,
@@ -587,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 343743,
+      "num": 269942,
+      "word": "黄霄云接洽歌手",
+      "onboard_time": 1715580918,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338896,
       "num": 338896,
       "word": "otto被封",
@@ -641,6 +681,14 @@
       "onboard_time": 1715559738,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307655,
+      "num": 238579,
+      "word": "身体4个异常说明骨头已变脆",
+      "onboard_time": 1715576121,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 303078,
@@ -771,14 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260507,
-      "num": 238579,
-      "word": "身体4个异常说明骨头已变脆",
-      "onboard_time": 1715576121,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 258269,
       "num": 258269,
       "word": "男子KTV唱歌被咬伤商家称老鼠是自由的",
@@ -867,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237961,
+      "num": 237961,
+      "word": "原来机场显示屏上是PPT",
+      "onboard_time": 1715577140,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 233943,
       "num": 233943,
       "word": "让黄丽玲插个队吧",
@@ -875,20 +923,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229614,
-      "num": 229614,
-      "word": "原来机场显示屏上是PPT",
-      "onboard_time": 1715577140,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 229084,
       "num": 229084,
       "word": "与晋长安官宣阵容",
       "onboard_time": 1715568498,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227283,
+      "num": 227283,
+      "word": "黄景瑜接受联合国新闻专访",
+      "onboard_time": 1715581038,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 226478,
@@ -905,6 +953,14 @@
       "onboard_time": 1715559679,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 221285,
+      "num": 221285,
+      "word": "李一桐推荐欧豪报名歌手",
+      "onboard_time": 1715581278,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 221094,
@@ -947,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213204,
+      "num": 213204,
+      "word": "歌手2024请揭榜",
+      "onboard_time": 1715576182,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207083,
       "num": 207083,
       "word": "基金赚钱基民亏将成为过去时",
@@ -987,12 +1051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196314,
-      "num": 178602,
-      "word": "歌手2024请揭榜",
-      "onboard_time": 1715576182,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 197547,
+      "num": 197547,
+      "word": "秦昊母亲节给伊能静转账8888",
+      "onboard_time": 1715579359,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 193579,
@@ -1051,14 +1115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183697,
-      "num": 183697,
-      "word": "高校回应教师因非升即走压力自杀",
-      "onboard_time": 1715578339,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183063,
       "num": 183063,
       "word": "梦之队投票预热",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1715525242,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 178997,
+      "num": 178997,
+      "word": "苹果要重做Siri了",
+      "onboard_time": 1715581098,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 176341,
@@ -1155,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161089,
+      "num": 161089,
+      "word": "韩国人为什么厌娃",
+      "onboard_time": 1715578278,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160865,
       "num": 160865,
       "word": "工作后择偶观都变了",
@@ -1219,6 +1291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 149064,
+      "num": 149064,
+      "word": "男子连吃3根生香蕉致肠梗阻",
+      "onboard_time": 1715580918,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148088,
       "num": 237142,
       "word": "婚礼上的伴娘可能全是租的",
@@ -1241,6 +1321,14 @@
       "onboard_time": 1715568799,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142020,
+      "num": 142020,
+      "word": "mlxg和otto和解",
+      "onboard_time": 1715580739,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 141804,
@@ -1291,6 +1379,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133221,
+      "num": 133221,
+      "word": "71岁的奶奶身材堪比少女",
+      "onboard_time": 1715580679,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133039,
+      "num": 133039,
+      "word": "郑合惠子 相信我们仍有无限可能",
+      "onboard_time": 1715580739,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132930,
       "num": 132930,
       "word": "俄居民楼遭袭坍塌事故已致15人死亡",
@@ -1305,6 +1409,22 @@
       "onboard_time": 1715513182,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129117,
+      "num": 129117,
+      "word": "微博影像年",
+      "onboard_time": 1715581338,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 126997,
+      "num": 126997,
+      "word": "央行心形纪念币520上新",
+      "onboard_time": 1715581459,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 124409,
@@ -1355,12 +1475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116161,
-      "num": 126188,
-      "word": "韩国人为什么厌娃",
-      "onboard_time": 1715578278,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 115546,
+      "num": 126849,
+      "word": "长期运动的人都啥样了",
+      "onboard_time": 1715581459,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 114973,
@@ -1433,6 +1553,14 @@
       "onboard_time": 1715567237,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100171,
+      "num": 126600,
+      "word": "打工人的心思已经在端午假期了",
+      "onboard_time": 1715579540,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 100102,
@@ -1623,6 +1751,9 @@
     },
     {
       "word": "#习近平2024欧洲之行高光时刻#"
+    },
+    {
+      "word": "#习近平主席欧洲之行发出和平团结合作强音#"
     }
   ]
 }
