@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715585671589,
+  "endTime": 1715588673796,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -371,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1083216,
+      "num": 1083216,
+      "word": "美国宣布全面禁止竞业禁止协议",
+      "onboard_time": 1715586499,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1082451,
       "num": 1082451,
       "word": "512",
@@ -465,6 +473,14 @@
       "onboard_time": 1715480657,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 933403,
+      "num": 933403,
+      "word": "谭晶回应去歌手",
+      "onboard_time": 1715584759,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 923595,
@@ -627,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 785595,
+      "num": 457180,
+      "word": "袁娅维憋不住了",
+      "onboard_time": 1715586438,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 785066,
       "num": 415273,
       "word": "歌手刚开始没邀请汪苏泷",
@@ -731,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719413,
+      "num": 452833,
+      "word": "庆余年林婉儿原型是林依晨",
+      "onboard_time": 1715584340,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 711888,
       "num": 711888,
       "word": "世界公认最丑的鱼",
@@ -779,6 +811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 670470,
+      "num": 670470,
+      "word": "副镇长被举报半夜叫他人妻子去唱歌",
+      "onboard_time": 1715585839,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667854,
       "num": 667854,
       "word": "庐山瀑布",
@@ -817,14 +857,6 @@
       "onboard_time": 1715574260,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 636004,
-      "num": 331440,
-      "word": "谭晶回应去歌手",
-      "onboard_time": 1715584759,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 628145,
@@ -945,6 +977,14 @@
       "onboard_time": 1715522422,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 567476,
+      "num": 396350,
+      "word": "周杰伦官宣新音综",
+      "onboard_time": 1715585839,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 566693,
@@ -1171,6 +1211,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 494918,
+      "num": 390689,
+      "word": "璩静离职后发声",
+      "onboard_time": 1715586619,
+      "rank": 12,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 494166,
       "num": 258640,
       "word": "我是中国歌手韩红",
@@ -1235,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477340,
+      "num": 379673,
+      "word": "歌手揭榜",
+      "onboard_time": 1715588180,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465971,
       "num": 465971,
       "word": "阜阳野生动物园多只动物非正常死亡",
@@ -1265,14 +1321,6 @@
       "onboard_time": 1715483418,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452724,
-      "num": 328277,
-      "word": "庆余年林婉儿原型是林依晨",
-      "onboard_time": 1715584340,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 452261,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1715434882,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 433874,
+      "num": 365775,
+      "word": "吴磊凌晨被老鼠赶出房间",
+      "onboard_time": 1715587339,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 431542,
@@ -1620,7 +1676,7 @@
     },
     {
       "raw_hot": 353477,
-      "num": 190432,
+      "num": 206722,
       "word": "张婧仪山根痣",
       "onboard_time": 1715584639,
       "rank": 44,
@@ -1851,6 +1907,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 317129,
+      "num": 317129,
+      "word": "年轻人还想买房吗",
+      "onboard_time": 1715584098,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315193,
       "num": 315193,
       "word": "100块钱九道菜三碗面",
@@ -1881,6 +1945,22 @@
       "onboard_time": 1715447536,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311423,
+      "num": 311423,
+      "word": "南通渣土车与大巴碰撞通报遭质疑",
+      "onboard_time": 1715587159,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309389,
+      "num": 204329,
+      "word": "我喜欢你 意思是我清楚地看见你",
+      "onboard_time": 1715587819,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 303078,
@@ -2283,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239336,
+      "num": 202735,
+      "word": "最苦的两个英子",
+      "onboard_time": 1715588600,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236033,
       "num": 236033,
       "word": "极限挑战",
@@ -2411,6 +2499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 222660,
+      "num": 200899,
+      "word": "二手玫瑰歌手vs音乐节",
+      "onboard_time": 1715585658,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222438,
       "num": 222438,
       "word": "江苏一名00后被终生禁驾",
@@ -2433,14 +2529,6 @@
       "onboard_time": 1715519541,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220329,
-      "num": 220329,
-      "word": "年轻人还想买房吗",
-      "onboard_time": 1715584098,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219782,
@@ -2628,7 +2716,7 @@
     },
     {
       "raw_hot": 197950,
-      "num": 189843,
+      "num": 190742,
       "word": "弟弟犯错姐姐却被单独谈话",
       "onboard_time": 1715585237,
       "rank": 31,
@@ -2745,6 +2833,14 @@
       "onboard_time": 1715582898,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192111,
+      "num": 192111,
+      "word": "威神V在爱宝乐园打工",
+      "onboard_time": 1715588059,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 192039,
@@ -2947,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176497,
+      "num": 953479,
+      "word": "国家一级博物馆最全名单",
+      "onboard_time": 1715586979,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176341,
       "num": 176341,
       "word": "克里斯哭了",
@@ -3081,6 +3185,14 @@
       "onboard_time": 1715583798,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167807,
+      "num": 192917,
+      "word": "没什么宠物是人类遛不了的",
+      "onboard_time": 1715586619,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 167385,
@@ -3291,6 +3403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160199,
+      "num": 192649,
+      "word": "蓝田纪委回应副镇长半夜叫别人妻子唱歌",
+      "onboard_time": 1715588239,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159283,
       "num": 159283,
       "word": "春游哥哥 我想我更勇敢了",
@@ -3363,12 +3483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156740,
+      "num": 156740,
+      "word": "华晨宇烟台演唱会燃爆地方文旅新热潮",
+      "onboard_time": 1715586979,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156596,
       "num": 156596,
       "word": "鼓悦鸣音",
       "onboard_time": 1715577741,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156483,
+      "num": 192594,
+      "word": "小基数越练瘦的越快",
+      "onboard_time": 1715586798,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 156269,
@@ -3411,6 +3547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153647,
+      "num": 153647,
+      "word": "苗苗说奔跑吧是意外惊喜",
+      "onboard_time": 1715586739,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152188,
       "num": 152188,
       "word": "第五人格",
@@ -3425,6 +3569,14 @@
       "onboard_time": 1715580739,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150972,
+      "num": 192178,
+      "word": "短效避孕药的副作用有这些",
+      "onboard_time": 1715586077,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150518,
@@ -3819,14 +3971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126896,
-      "num": 124917,
-      "word": "二手玫瑰歌手vs音乐节",
-      "onboard_time": 1715585658,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126845,
       "num": 116951,
       "word": "怪盗基德 帅得很稳定",
@@ -3921,6 +4065,14 @@
       "onboard_time": 1715485818,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124297,
+      "num": 124297,
+      "word": "星船 out",
+      "onboard_time": 1715588659,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 124233,

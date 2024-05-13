@@ -1,0 +1,410 @@
+{
+  "runTime": 1715588673796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1318731,
+        "num": 1318731,
+        "word": "谢娜曾反对张杰去歌手",
+        "onboard_time": 1715580978,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1083216,
+        "num": 1083216,
+        "word": "美国宣布全面禁止竞业禁止协议",
+        "onboard_time": 1715586499,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 176497,
+        "num": 953479,
+        "word": "国家一级博物馆最全名单",
+        "onboard_time": 1715586979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933403,
+        "num": 933403,
+        "word": "谭晶回应去歌手",
+        "onboard_time": 1715584759,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670470,
+        "num": 670470,
+        "word": "副镇长被举报半夜叫他人妻子去唱歌",
+        "onboard_time": 1715585839,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482336,
+        "num": 482336,
+        "word": "男子中奖1000万瞒妻子给前妻买房",
+        "onboard_time": 1715572100,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785595,
+        "num": 457180,
+        "word": "袁娅维憋不住了",
+        "onboard_time": 1715586438,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719413,
+        "num": 452833,
+        "word": "庆余年林婉儿原型是林依晨",
+        "onboard_time": 1715584340,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430156,
+        "num": 430156,
+        "word": "71岁的奶奶身材堪比少女",
+        "onboard_time": 1715580679,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85328,
+        "num": 425833,
+        "word": "护士小姐姐救人时突生神力",
+        "onboard_time": 1715567837,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 579762,
+        "num": 408131,
+        "word": "韩红报名方式错了",
+        "onboard_time": 1715568859,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567476,
+        "num": 396350,
+        "word": "周杰伦官宣新音综",
+        "onboard_time": 1715585839,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494918,
+        "num": 390689,
+        "word": "璩静离职后发声",
+        "onboard_time": 1715586619,
+        "rank": 12,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 477340,
+        "num": 379673,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433874,
+        "num": 365775,
+        "word": "吴磊凌晨被老鼠赶出房间",
+        "onboard_time": 1715587339,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356905,
+        "num": 356905,
+        "word": "韩国各界呼吁政府尽快处理好对华关系",
+        "onboard_time": 1715582478,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317129,
+        "num": 317129,
+        "word": "年轻人还想买房吗",
+        "onboard_time": 1715584098,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311423,
+        "num": 311423,
+        "word": "南通渣土车与大巴碰撞通报遭质疑",
+        "onboard_time": 1715587159,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251915,
+        "num": 251915,
+        "word": "南京林业大学宋凯",
+        "onboard_time": 1715576601,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209167,
+        "num": 209167,
+        "word": "抑郁症患者会无意识做哪些事情",
+        "onboard_time": 1715570719,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1366189,
+        "num": 209009,
+        "word": "封进水泥的尸体是怎么被发现的",
+        "onboard_time": 1715579718,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 401550,
+        "num": 208223,
+        "word": "男子连吃3根生香蕉致肠梗阻",
+        "onboard_time": 1715580918,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392752,
+        "num": 207187,
+        "word": "A妹空降超话",
+        "onboard_time": 1715583318,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344471,
+        "num": 206722,
+        "word": "张婧仪山根痣",
+        "onboard_time": 1715584639,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342709,
+        "num": 205982,
+        "word": "杨天真说鹿晗的朋友圈像个段子手",
+        "onboard_time": 1715583200,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339961,
+        "num": 205544,
+        "word": "苗苗回应救场奔跑吧",
+        "onboard_time": 1715582719,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313525,
+        "num": 204873,
+        "word": "欧豪上吧 他好歹是个神",
+        "onboard_time": 1715582237,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309389,
+        "num": 204329,
+        "word": "我喜欢你 意思是我清楚地看见你",
+        "onboard_time": 1715587819,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248738,
+        "num": 203467,
+        "word": "长期运动的人都啥样了",
+        "onboard_time": 1715581459,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 239336,
+        "num": 202735,
+        "word": "最苦的两个英子",
+        "onboard_time": 1715588600,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235855,
+        "num": 202083,
+        "word": "那英问汪苏泷你妈多大",
+        "onboard_time": 1715576060,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222660,
+        "num": 200899,
+        "word": "二手玫瑰歌手vs音乐节",
+        "onboard_time": 1715585658,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200899,
+        "num": 200898,
+        "word": "迪丽热巴戴了唇环",
+        "onboard_time": 1715576782,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214050,
+        "num": 197542,
+        "word": "张杰说唱live是歌手最基本的要求",
+        "onboard_time": 1715568978,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168370,
+        "num": 193322,
+        "word": "苹果要重做Siri了",
+        "onboard_time": 1715581098,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193108,
+        "num": 193108,
+        "word": "李一桐推荐欧豪报名歌手",
+        "onboard_time": 1715581278,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167807,
+        "num": 192917,
+        "word": "没什么宠物是人类遛不了的",
+        "onboard_time": 1715586619,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160199,
+        "num": 192649,
+        "word": "蓝田纪委回应副镇长半夜叫别人妻子唱歌",
+        "onboard_time": 1715588239,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156483,
+        "num": 192594,
+        "word": "小基数越练瘦的越快",
+        "onboard_time": 1715586798,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 150972,
+        "num": 192178,
+        "word": "短效避孕药的副作用有这些",
+        "onboard_time": 1715586077,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192111,
+        "num": 192111,
+        "word": "威神V在爱宝乐园打工",
+        "onboard_time": 1715588059,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190742,
+        "num": 190742,
+        "word": "弟弟犯错姐姐却被单独谈话",
+        "onboard_time": 1715585237,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178073,
+        "num": 178073,
+        "word": "歌手报名名单",
+        "onboard_time": 1715571259,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156740,
+        "num": 156740,
+        "word": "华晨宇烟台演唱会燃爆地方文旅新热潮",
+        "onboard_time": 1715586979,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153647,
+        "num": 153647,
+        "word": "苗苗说奔跑吧是意外惊喜",
+        "onboard_time": 1715586739,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157154,
+        "num": 151171,
+        "word": "黄霄雲接洽歌手",
+        "onboard_time": 1715580918,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141753,
+        "num": 141753,
+        "word": "只休一天就上班真的好累啊",
+        "onboard_time": 1715565377,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128450,
+        "num": 128450,
+        "word": "小猫撒娇",
+        "onboard_time": 1715582898,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127063,
+        "num": 127063,
+        "word": "身体4个异常说明骨头已变脆",
+        "onboard_time": 1715576121,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124297,
+        "num": 124297,
+        "word": "星船 out",
+        "onboard_time": 1715588659,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平2024欧洲之行高光时刻#"
+    }
+  }
+}
