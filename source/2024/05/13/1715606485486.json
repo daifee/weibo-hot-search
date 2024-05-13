@@ -1,0 +1,410 @@
+{
+  "runTime": 1715606485486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1974001,
+        "num": 1974001,
+        "word": "中方决定不同意台湾地区参加今年世卫大会",
+        "onboard_time": 1715598198,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1048170,
+        "num": 1048170,
+        "word": "国家电网回应6月1日电费涨价",
+        "onboard_time": 1715599938,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14908,
+        "num": 923164,
+        "word": "一起打卡夏天里的中国",
+        "onboard_time": 1715583677,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875416,
+        "num": 875416,
+        "word": "微笑 退赛",
+        "onboard_time": 1715592919,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 740613,
+        "num": 740613,
+        "word": "一孕傻三年的调侃掩盖了妈妈们的求救",
+        "onboard_time": 1715602939,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657353,
+        "num": 657353,
+        "word": "网友曝李亚鹏拖欠工资",
+        "onboard_time": 1715598919,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625221,
+        "num": 625221,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501314,
+        "num": 501314,
+        "word": "张翰凯丽 无声告别",
+        "onboard_time": 1715601560,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468987,
+        "num": 468987,
+        "word": "歌手前八季热度破亿歌曲",
+        "onboard_time": 1715599400,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195368,
+        "num": 426713,
+        "word": "在微缩蛋糕上见到了去世前的爸爸",
+        "onboard_time": 1715598798,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421858,
+        "num": 421858,
+        "word": "韩红拿了冠军还要发简历",
+        "onboard_time": 1715589858,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330677,
+        "num": 330677,
+        "word": "广西百色一初中生校内坠亡",
+        "onboard_time": 1715601919,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308268,
+        "num": 308268,
+        "word": "背着善宰跑",
+        "onboard_time": 1715603359,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297755,
+        "num": 297755,
+        "word": "老头杯换人",
+        "onboard_time": 1715601679,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295175,
+        "num": 295175,
+        "word": "那英摇人宣传片",
+        "onboard_time": 1715592439,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292173,
+        "num": 292173,
+        "word": "孙千备忘录",
+        "onboard_time": 1715600298,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285943,
+        "num": 285943,
+        "word": "中国队兔子战术2.0太烧脑",
+        "onboard_time": 1715599039,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281666,
+        "num": 281666,
+        "word": "南通女孩家属呼吁大家不要再点食物",
+        "onboard_time": 1715591420,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269824,
+        "num": 269824,
+        "word": "官方通报动物园20只东北虎死亡",
+        "onboard_time": 1715595077,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262624,
+        "num": 262624,
+        "word": "孔雀明王臻藏皮肤",
+        "onboard_time": 1715604439,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 505690,
+        "num": 260286,
+        "word": "难听",
+        "onboard_time": 1715592499,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 489507,
+        "num": 259574,
+        "word": "中医建议不要太频繁的刮痧",
+        "onboard_time": 1715589858,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 389410,
+        "num": 257519,
+        "word": "夫妻车内吵架妻子经过收费站喊救命",
+        "onboard_time": 1715604259,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272203,
+        "num": 253587,
+        "word": "结石姐关注香缇莫",
+        "onboard_time": 1715603478,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252870,
+        "num": 252870,
+        "word": "蛇哥退出老头杯",
+        "onboard_time": 1715605519,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249682,
+        "num": 249682,
+        "word": "田曦薇蓝钿花古装造型",
+        "onboard_time": 1715605040,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247671,
+        "num": 247671,
+        "word": "白鹿曾舜晞 两条蛄蛹者",
+        "onboard_time": 1715601320,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241096,
+        "num": 241096,
+        "word": "歌手",
+        "onboard_time": 1715592560,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231964,
+        "num": 231964,
+        "word": "张杰空降翻牌",
+        "onboard_time": 1715604680,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215256,
+        "num": 215256,
+        "word": "山东一地大罐车出事故不明液体外泄",
+        "onboard_time": 1715603660,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202450,
+        "num": 202450,
+        "word": "杨幂发文与关雪告别",
+        "onboard_time": 1715605277,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190539,
+        "num": 190539,
+        "word": "孟子义是被发配岭南了吗",
+        "onboard_time": 1715604800,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180006,
+        "num": 180006,
+        "word": "我喜欢你 意思是我清楚地看见你",
+        "onboard_time": 1715587819,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178445,
+        "num": 178445,
+        "word": "周深演唱会抢票",
+        "onboard_time": 1715604739,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177192,
+        "num": 177192,
+        "word": "阴阳师",
+        "onboard_time": 1715603718,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176797,
+        "num": 176797,
+        "word": "庆余年林婉儿原型是林依晨",
+        "onboard_time": 1715584340,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172476,
+        "num": 172476,
+        "word": "秦岚没张嘴但感觉话好密",
+        "onboard_time": 1715605758,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165373,
+        "num": 165373,
+        "word": "张杰 郑州演唱会",
+        "onboard_time": 1715601320,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149366,
+        "num": 149366,
+        "word": "萧鼎修订诛仙",
+        "onboard_time": 1715603660,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 142042,
+        "num": 142042,
+        "word": "只使用医保内物品的孕妇",
+        "onboard_time": 1715603359,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144257,
+        "num": 142005,
+        "word": "薛之谦再遇一个人来的",
+        "onboard_time": 1715600119,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141866,
+        "num": 141866,
+        "word": "aespa别念了",
+        "onboard_time": 1715602099,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138359,
+        "num": 138359,
+        "word": "那英王菲 好嗑",
+        "onboard_time": 1715606361,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129346,
+        "num": 133927,
+        "word": "披荆斩棘的老头们",
+        "onboard_time": 1715596160,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132623,
+        "num": 132623,
+        "word": "谭晶回应去歌手",
+        "onboard_time": 1715584759,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86200,
+        "num": 132375,
+        "word": "我国核电技术已进入世界第一方阵",
+        "onboard_time": 1715605459,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132171,
+        "num": 132171,
+        "word": "这只大熊猫由周总理亲自命名",
+        "onboard_time": 1715605637,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122358,
+        "num": 131024,
+        "word": "美国和欧洲的穿搭区别",
+        "onboard_time": 1715605999,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119508,
+        "num": 130116,
+        "word": "多个电力股涨停",
+        "onboard_time": 1715602939,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111015,
+        "num": 130105,
+        "word": "吃饭时被小狗这样看着",
+        "onboard_time": 1715605099,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席对法国第三次国事访问纪实#"
+    }
+  }
+}

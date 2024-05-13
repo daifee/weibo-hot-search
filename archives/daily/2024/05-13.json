@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715604572664,
+  "endTime": 1715606485486,
   "band_list": [
     {
       "raw_hot": 3155031,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740613,
+      "num": 740613,
+      "word": "一孕傻三年的调侃掩盖了妈妈们的求救",
+      "onboard_time": 1715602939,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738708,
       "num": 357664,
       "word": "抖音回应新规不再发布时政财经内容",
@@ -401,6 +409,14 @@
       "onboard_time": 1715585839,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657353,
+      "num": 657353,
+      "word": "网友曝李亚鹏拖欠工资",
+      "onboard_time": 1715598919,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 648307,
@@ -496,14 +512,6 @@
       "word": "刘雯去美国了",
       "onboard_time": 1715561779,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 577272,
-      "num": 577272,
-      "word": "网友曝李亚鹏拖欠工资",
-      "onboard_time": 1715598919,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -627,6 +635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 501314,
+      "num": 501314,
+      "word": "张翰凯丽 无声告别",
+      "onboard_time": 1715601560,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500284,
       "num": 500284,
       "word": "71岁的奶奶身材堪比少女",
@@ -744,14 +760,6 @@
       "word": "黄霄雲接洽歌手",
       "onboard_time": 1715580918,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 443014,
-      "num": 387185,
-      "word": "张翰凯丽 无声告别",
-      "onboard_time": 1715601560,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -883,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 389410,
+      "num": 257519,
+      "word": "夫妻车内吵架妻子经过收费站喊救命",
+      "onboard_time": 1715604259,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389096,
       "num": 389096,
       "word": "老头杯",
@@ -904,14 +920,6 @@
       "word": "高校回应教师因非升即走压力自杀",
       "onboard_time": 1715578339,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384091,
-      "num": 384091,
-      "word": "一孕傻三年的调侃掩盖了妈妈们的求救",
-      "onboard_time": 1715602939,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308268,
+      "num": 308268,
+      "word": "背着善宰跑",
+      "onboard_time": 1715603359,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307621,
       "num": 307621,
       "word": "阴阳师",
@@ -1323,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262624,
+      "num": 262624,
+      "word": "孔雀明王臻藏皮肤",
+      "onboard_time": 1715604439,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262351,
       "num": 262351,
       "word": "欧阳娜娜 Diploma",
@@ -1387,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252870,
+      "num": 252870,
+      "word": "蛇哥退出老头杯",
+      "onboard_time": 1715605519,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 251270,
       "num": 251270,
       "word": "金多贤出演韩版那些年女主",
@@ -1411,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249682,
+      "num": 249682,
+      "word": "田曦薇蓝钿花古装造型",
+      "onboard_time": 1715605040,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248265,
       "num": 248265,
       "word": "我发现大学生一旦过了11周",
@@ -1419,12 +1459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 247274,
-      "num": 247274,
-      "word": "背着善宰跑",
-      "onboard_time": 1715603359,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 247671,
+      "num": 247671,
+      "word": "白鹿曾舜晞 两条蛄蛹者",
+      "onboard_time": 1715601320,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247115,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1715569519,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231964,
+      "num": 231964,
+      "word": "张杰空降翻牌",
+      "onboard_time": 1715604680,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 229084,
@@ -1577,6 +1625,14 @@
       "onboard_time": 1715577500,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215256,
+      "num": 215256,
+      "word": "山东一地大罐车出事故不明液体外泄",
+      "onboard_time": 1715603660,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214227,
@@ -1691,12 +1747,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201666,
-      "num": 187584,
-      "word": "白鹿曾舜晞 两条蛄蛹者",
-      "onboard_time": 1715601320,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 202450,
+      "num": 202450,
+      "word": "杨幂发文与关雪告别",
+      "onboard_time": 1715605277,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 200881,
@@ -1729,14 +1785,6 @@
       "onboard_time": 1715590879,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199946,
-      "num": 199946,
-      "word": "山东一地大罐车出事故不明液体外泄",
-      "onboard_time": 1715603660,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197950,
@@ -1819,12 +1867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190718,
-      "num": 190718,
-      "word": "夫妻车内吵架妻子经过收费站喊救命",
-      "onboard_time": 1715604259,
+      "raw_hot": 190539,
+      "num": 190539,
+      "word": "孟子义是被发配岭南了吗",
+      "onboard_time": 1715604800,
       "rank": 31,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 190510,
@@ -1881,14 +1929,6 @@
       "onboard_time": 1715594839,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 187779,
-      "num": 187779,
-      "word": "孔雀明王臻藏皮肤",
-      "onboard_time": 1715604439,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 186388,
@@ -1955,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178445,
+      "num": 178445,
+      "word": "周深演唱会抢票",
+      "onboard_time": 1715604739,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177650,
       "num": 177650,
       "word": "萧鼎修订诛仙",
@@ -2001,6 +2049,14 @@
       "onboard_time": 1715555294,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172476,
+      "num": 172476,
+      "word": "秦岚没张嘴但感觉话好密",
+      "onboard_time": 1715605758,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 172026,
@@ -2395,6 +2451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138359,
+      "num": 138359,
+      "word": "那英王菲 好嗑",
+      "onboard_time": 1715606361,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137615,
       "num": 137615,
       "word": "北向资金不再披露实时成交额",
@@ -2467,6 +2531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132171,
+      "num": 132171,
+      "word": "这只大熊猫由周总理亲自命名",
+      "onboard_time": 1715605637,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131108,
       "num": 131108,
       "word": "网友cos迪丽热巴",
@@ -2508,11 +2580,19 @@
     },
     {
       "raw_hot": 122690,
-      "num": 122690,
+      "num": 923164,
       "word": "一起打卡夏天里的中国",
       "onboard_time": 1715583677,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 122358,
+      "num": 131024,
+      "word": "美国和欧洲的穿搭区别",
+      "onboard_time": 1715605999,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 121123,
@@ -2617,6 +2697,14 @@
       "onboard_time": 1715522422,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111015,
+      "num": 130105,
+      "word": "吃饭时被小狗这样看着",
+      "onboard_time": 1715605099,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 109384,
@@ -2745,6 +2833,14 @@
       "onboard_time": 1715564538,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86200,
+      "num": 132375,
+      "word": "我国核电技术已进入世界第一方阵",
+      "onboard_time": 1715605459,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84588,
@@ -2893,6 +2989,9 @@
     },
     {
       "word": "#严守党的政治纪律和政治规矩#"
+    },
+    {
+      "word": "#习近平主席对法国第三次国事访问纪实#"
     }
   ]
 }
