@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715628884086,
+  "endTime": 1715631530008,
   "band_list": [
     {
       "raw_hot": 1458496,
@@ -427,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71564,
+      "num": 43177,
+      "word": "巴勒斯坦女子崩溃呼喊我太累了",
+      "onboard_time": 1715627413,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 67443,
       "num": 111112,
       "word": "南通女孩家属呼吁大家不要再点食物",
@@ -483,8 +491,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35310,
-      "num": 35310,
+      "raw_hot": 44245,
+      "num": 44245,
       "word": "李承铉让Lucky等弟弟长大后再收拾",
       "onboard_time": 1715626211,
       "rank": 28,
@@ -505,14 +513,6 @@
       "onboard_time": 1715624592,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 32074,
-      "num": 32074,
-      "word": "巴勒斯坦女子崩溃呼喊我太累了",
-      "onboard_time": 1715627413,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 23054,
@@ -539,12 +539,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18302,
+      "num": 18302,
+      "word": "23点到1点是头发生长高峰期",
+      "onboard_time": 1715630830,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 15620,
       "num": 15620,
       "word": "剧集新生",
       "onboard_time": 1715627711,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13919,
+      "num": 15635,
+      "word": "去爱去生活去受伤",
+      "onboard_time": 1715625431,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12616,
+      "num": 15606,
+      "word": "华晨宇巡演又开四面台了",
+      "onboard_time": 1715629091,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 9492,
