@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715614513854,
+  "endTime": 1715617501908,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1043,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 641829,
+      "num": 641829,
+      "word": "院长被校内观光车撞死认定司机全责",
+      "onboard_time": 1715611638,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638413,
       "num": 320965,
       "word": "中医建议不要太频繁的刮痧",
@@ -1299,14 +1307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 532002,
-      "num": 532002,
-      "word": "院长被校内观光车撞死认定司机全责",
-      "onboard_time": 1715611638,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 531327,
       "num": 197395,
       "word": "那是姐的姓 红是姐的命",
@@ -1515,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490415,
+      "num": 280197,
+      "word": "赵露思直播的妆是自己化的",
+      "onboard_time": 1715613380,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487691,
       "num": 487691,
       "word": "张怡宁说反正最终都是咱们中国赢",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1715497758,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442163,
+      "num": 156608,
+      "word": "韩系在中国为什么不火了",
+      "onboard_time": 1715614039,
+      "rank": 34,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 441460,
@@ -2187,6 +2203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 343225,
+      "num": 221945,
+      "word": "贾静雯回应缺席苏有朋演唱会",
+      "onboard_time": 1715616259,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 343001,
       "num": 343001,
       "word": "知否作者发文向林徽因道歉",
@@ -2432,14 +2456,6 @@
       "word": "aespa概念",
       "onboard_time": 1715612719,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 303102,
-      "num": 205224,
-      "word": "赵露思直播的妆是自己化的",
-      "onboard_time": 1715613380,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -2923,6 +2939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245258,
+      "num": 245258,
+      "word": "微信澄清11个谣言",
+      "onboard_time": 1715615058,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 245027,
       "num": 218593,
       "word": "宋轶一番女主",
@@ -3033,6 +3057,14 @@
       "onboard_time": 1715414538,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228660,
+      "num": 126047,
+      "word": "张铁林不和范伟合作演戏的原因",
+      "onboard_time": 1715615237,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 227283,
@@ -3457,6 +3489,14 @@
       "onboard_time": 1715607079,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198899,
+      "num": 198899,
+      "word": "官方回应法官被指微信指挥庭审",
+      "onboard_time": 1715615359,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198732,
@@ -4089,14 +4129,6 @@
       "onboard_time": 1715495299,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168583,
-      "num": 156608,
-      "word": "韩系在中国为什么不火了",
-      "onboard_time": 1715614039,
-      "rank": 34,
-      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 168247,
@@ -5635,6 +5667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91796,
+      "num": 91796,
+      "word": "薛之谦汕头",
+      "onboard_time": 1715617158,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91547,
       "num": 91547,
       "word": "为什么跷二郎腿那么舒服",
@@ -5713,6 +5753,14 @@
       "onboard_time": 1715605459,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84921,
+      "num": 84921,
+      "word": "张艺兴汉江猫cha",
+      "onboard_time": 1715615237,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 84588,
