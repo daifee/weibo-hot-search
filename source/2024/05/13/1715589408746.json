@@ -1,0 +1,410 @@
+{
+  "runTime": 1715589408746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1155787,
+        "num": 1155787,
+        "word": "美国宣布全面禁止竞业禁止协议",
+        "onboard_time": 1715586499,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1086229,
+        "num": 1086229,
+        "word": "谢娜曾反对张杰去歌手",
+        "onboard_time": 1715580978,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205139,
+        "num": 1002087,
+        "word": "国家一级博物馆最全名单",
+        "onboard_time": 1715586979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958935,
+        "num": 958935,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 663211,
+        "num": 663211,
+        "word": "副镇长被举报半夜叫他人妻子去唱歌",
+        "onboard_time": 1715585839,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349099,
+        "num": 349099,
+        "word": "南通渣土车与大巴碰撞通报遭质疑",
+        "onboard_time": 1715587159,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858508,
+        "num": 345787,
+        "word": "谭晶回应去歌手",
+        "onboard_time": 1715584759,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763334,
+        "num": 343017,
+        "word": "袁娅维憋不住了",
+        "onboard_time": 1715586438,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328271,
+        "num": 328271,
+        "word": "年轻人还想买房吗",
+        "onboard_time": 1715584098,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77411,
+        "num": 324646,
+        "word": "护士小姐姐救人时突生神力",
+        "onboard_time": 1715567837,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 701278,
+        "num": 319196,
+        "word": "庆余年林婉儿原型是林依晨",
+        "onboard_time": 1715584340,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555609,
+        "num": 314068,
+        "word": "周杰伦官宣新音综",
+        "onboard_time": 1715585839,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547796,
+        "num": 311441,
+        "word": "韩红报名方式错了",
+        "onboard_time": 1715568859,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536073,
+        "num": 304057,
+        "word": "吴磊凌晨被老鼠赶出房间",
+        "onboard_time": 1715587339,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470161,
+        "num": 297670,
+        "word": "我喜欢你 意思是我清楚地看见你",
+        "onboard_time": 1715587819,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443439,
+        "num": 293493,
+        "word": "璩静离职后发声",
+        "onboard_time": 1715586619,
+        "rank": 15,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 291690,
+        "num": 291690,
+        "word": "韩国各界呼吁政府尽快处理好对华关系",
+        "onboard_time": 1715582478,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254261,
+        "num": 254261,
+        "word": "南京林业大学宋凯",
+        "onboard_time": 1715576601,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241144,
+        "num": 241144,
+        "word": "抄袭的是商家被嘲笑的却是我",
+        "onboard_time": 1715588779,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220169,
+        "num": 240746,
+        "word": "蓝田纪委回应副镇长半夜叫别人妻子唱歌",
+        "onboard_time": 1715588239,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441528,
+        "num": 240457,
+        "word": "男子中奖1000万瞒妻子给前妻买房",
+        "onboard_time": 1715572100,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402719,
+        "num": 240156,
+        "word": "71岁的奶奶身材堪比少女",
+        "onboard_time": 1715580679,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366228,
+        "num": 239897,
+        "word": "最苦的两个英子",
+        "onboard_time": 1715588600,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351546,
+        "num": 239461,
+        "word": "男子连吃3根生香蕉致肠梗阻",
+        "onboard_time": 1715580918,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337271,
+        "num": 239070,
+        "word": "张婧仪山根痣",
+        "onboard_time": 1715584639,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204939,
+        "num": 238681,
+        "word": "抑郁症患者会无意识做哪些事情",
+        "onboard_time": 1715570719,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 307092,
+        "num": 238074,
+        "word": "A妹空降超话",
+        "onboard_time": 1715583318,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280012,
+        "num": 237798,
+        "word": "杨天真说鹿晗的朋友圈像个段子手",
+        "onboard_time": 1715583200,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261576,
+        "num": 237146,
+        "word": "苗苗回应救场奔跑吧",
+        "onboard_time": 1715582719,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237087,
+        "num": 237087,
+        "word": "欧豪上吧 他好歹是个神",
+        "onboard_time": 1715582237,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232473,
+        "num": 232473,
+        "word": "星船 out",
+        "onboard_time": 1715588659,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218620,
+        "num": 218620,
+        "word": "群演曝李一桐打戏替身情况",
+        "onboard_time": 1715589200,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216970,
+        "num": 216970,
+        "word": "二手玫瑰歌手vs音乐节",
+        "onboard_time": 1715585658,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198099,
+        "num": 198099,
+        "word": "长期运动的人都啥样了",
+        "onboard_time": 1715581459,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 171754,
+        "num": 171754,
+        "word": "小基数越练瘦的越快",
+        "onboard_time": 1715586798,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 206647,
+        "num": 168958,
+        "word": "张杰说唱live是歌手最基本的要求",
+        "onboard_time": 1715568978,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179366,
+        "num": 166954,
+        "word": "迪丽热巴戴了唇环",
+        "onboard_time": 1715576782,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162540,
+        "num": 162540,
+        "word": "短效避孕药的副作用有这些",
+        "onboard_time": 1715586077,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191852,
+        "num": 161793,
+        "word": "那英问汪苏泷你妈多大",
+        "onboard_time": 1715576060,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156014,
+        "num": 156014,
+        "word": "大熊猫保护研究中心原副主任张海清被查",
+        "onboard_time": 1715589139,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162179,
+        "num": 155777,
+        "word": "弟弟犯错姐姐却被单独谈话",
+        "onboard_time": 1715585237,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152301,
+        "num": 152301,
+        "word": "歌手报名名单",
+        "onboard_time": 1715571259,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147049,
+        "num": 147049,
+        "word": "华晨宇烟台演唱会燃爆地方文旅新热潮",
+        "onboard_time": 1715586979,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146976,
+        "num": 146976,
+        "word": "李一桐推荐欧豪报名歌手",
+        "onboard_time": 1715581278,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141619,
+        "num": 141619,
+        "word": "苹果要重做Siri了",
+        "onboard_time": 1715581098,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132055,
+        "num": 132055,
+        "word": "教育部公示河南新增2所本科院校",
+        "onboard_time": 1715589379,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125953,
+        "num": 125953,
+        "word": "没什么宠物是人类遛不了的",
+        "onboard_time": 1715586619,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122709,
+        "num": 122709,
+        "word": "身体4个异常说明骨头已变脆",
+        "onboard_time": 1715576121,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121803,
+        "num": 121803,
+        "word": "只休一天就上班真的好累啊",
+        "onboard_time": 1715565377,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9543,
+        "num": 120701,
+        "word": "落日掉进我手机里了",
+        "onboard_time": 1715588900,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中欧关系稳定健康发展#"
+    }
+  }
+}

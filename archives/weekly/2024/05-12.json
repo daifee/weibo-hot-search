@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715588673796,
+  "endTime": 1715589408746,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1155787,
+      "num": 1155787,
+      "word": "美国宣布全面禁止竞业禁止协议",
+      "onboard_time": 1715586499,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1131050,
       "num": 1131050,
       "word": "歌手踢馆",
@@ -369,14 +377,6 @@
       "onboard_time": 1715524163,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1083216,
-      "num": 1083216,
-      "word": "美国宣布全面禁止竞业禁止协议",
-      "onboard_time": 1715586499,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1082451,
@@ -457,6 +457,14 @@
       "onboard_time": 1715563998,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958935,
+      "num": 958935,
+      "word": "歌手揭榜",
+      "onboard_time": 1715588180,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 958407,
@@ -1067,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536073,
+      "num": 365775,
+      "word": "吴磊凌晨被老鼠赶出房间",
+      "onboard_time": 1715587339,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531327,
       "num": 197395,
       "word": "那是姐的姓 红是姐的命",
@@ -1283,12 +1299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477340,
-      "num": 379673,
-      "word": "歌手揭榜",
-      "onboard_time": 1715588180,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 470161,
+      "num": 297670,
+      "word": "我喜欢你 意思是我清楚地看见你",
+      "onboard_time": 1715587819,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 465971,
@@ -1369,14 +1385,6 @@
       "onboard_time": 1715434882,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 433874,
-      "num": 365775,
-      "word": "吴磊凌晨被老鼠赶出房间",
-      "onboard_time": 1715587339,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 431542,
@@ -1627,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366228,
+      "num": 239897,
+      "word": "最苦的两个英子",
+      "onboard_time": 1715588600,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363329,
       "num": 261587,
       "word": "香港大学偶遇奚梦瑶上课",
@@ -1676,7 +1692,7 @@
     },
     {
       "raw_hot": 353477,
-      "num": 206722,
+      "num": 239070,
       "word": "张婧仪山根痣",
       "onboard_time": 1715584639,
       "rank": 44,
@@ -1737,6 +1753,14 @@
       "onboard_time": 1715581578,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349099,
+      "num": 349099,
+      "word": "南通渣土车与大巴碰撞通报遭质疑",
+      "onboard_time": 1715587159,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348587,
@@ -1859,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328271,
+      "num": 328271,
+      "word": "年轻人还想买房吗",
+      "onboard_time": 1715584098,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327348,
       "num": 205157,
       "word": "子宫受压或改变胎儿面貌",
@@ -1907,14 +1939,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 317129,
-      "num": 317129,
-      "word": "年轻人还想买房吗",
-      "onboard_time": 1715584098,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315193,
       "num": 315193,
       "word": "100块钱九道菜三碗面",
@@ -1945,22 +1969,6 @@
       "onboard_time": 1715447536,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 311423,
-      "num": 311423,
-      "word": "南通渣土车与大巴碰撞通报遭质疑",
-      "onboard_time": 1715587159,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309389,
-      "num": 204329,
-      "word": "我喜欢你 意思是我清楚地看见你",
-      "onboard_time": 1715587819,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 303078,
@@ -2363,12 +2371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239336,
-      "num": 202735,
-      "word": "最苦的两个英子",
-      "onboard_time": 1715588600,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 241144,
+      "num": 241144,
+      "word": "抄袭的是商家被嘲笑的却是我",
+      "onboard_time": 1715588779,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 236033,
@@ -2409,6 +2417,14 @@
       "onboard_time": 1715569519,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232473,
+      "num": 232473,
+      "word": "星船 out",
+      "onboard_time": 1715588659,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 230880,
@@ -2500,7 +2516,7 @@
     },
     {
       "raw_hot": 222660,
-      "num": 200899,
+      "num": 216970,
       "word": "二手玫瑰歌手vs音乐节",
       "onboard_time": 1715585658,
       "rank": 42,
@@ -2529,6 +2545,14 @@
       "onboard_time": 1715519541,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220169,
+      "num": 240746,
+      "word": "蓝田纪委回应副镇长半夜叫别人妻子唱歌",
+      "onboard_time": 1715588239,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219782,
@@ -2561,6 +2585,14 @@
       "onboard_time": 1715472257,
       "rank": 25,
       "category": "音乐,自然"
+    },
+    {
+      "raw_hot": 218620,
+      "num": 218620,
+      "word": "群演曝李一桐打戏替身情况",
+      "onboard_time": 1715589200,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 218511,
@@ -2649,6 +2681,14 @@
       "onboard_time": 1715516721,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205139,
+      "num": 1002087,
+      "word": "国家一级博物馆最全名单",
+      "onboard_time": 1715586979,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204966,
@@ -3043,14 +3083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176497,
-      "num": 953479,
-      "word": "国家一级博物馆最全名单",
-      "onboard_time": 1715586979,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176341,
       "num": 176341,
       "word": "克里斯哭了",
@@ -3121,6 +3153,14 @@
       "onboard_time": 1715477057,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171754,
+      "num": 192594,
+      "word": "小基数越练瘦的越快",
+      "onboard_time": 1715586798,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 171645,
@@ -3355,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162540,
+      "num": 192178,
+      "word": "短效避孕药的副作用有这些",
+      "onboard_time": 1715586077,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162057,
       "num": 162057,
       "word": "张予曦晒妈妈跳舞视频",
@@ -3401,14 +3449,6 @@
       "onboard_time": 1715575041,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160199,
-      "num": 192649,
-      "word": "蓝田纪委回应副镇长半夜叫别人妻子唱歌",
-      "onboard_time": 1715588239,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159283,
@@ -3499,14 +3539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156483,
-      "num": 192594,
-      "word": "小基数越练瘦的越快",
-      "onboard_time": 1715586798,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 156269,
       "num": 156269,
       "word": "人类幼崽打猫猫",
@@ -3521,6 +3553,14 @@
       "onboard_time": 1715509943,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156014,
+      "num": 156014,
+      "word": "大熊猫保护研究中心原副主任张海清被查",
+      "onboard_time": 1715589139,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155547,
@@ -3569,14 +3609,6 @@
       "onboard_time": 1715580739,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 150972,
-      "num": 192178,
-      "word": "短效避孕药的副作用有这些",
-      "onboard_time": 1715586077,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150518,
@@ -3915,6 +3947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132055,
+      "num": 132055,
+      "word": "教育部公示河南新增2所本科院校",
+      "onboard_time": 1715589379,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131280,
       "num": 131280,
       "word": "汶川地震时一位母亲留下的短信",
@@ -4065,14 +4105,6 @@
       "onboard_time": 1715485818,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124297,
-      "num": 124297,
-      "word": "星船 out",
-      "onboard_time": 1715588659,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 124233,
@@ -4841,6 +4873,14 @@
       "onboard_time": 1715525122,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9543,
+      "num": 120701,
+      "word": "落日掉进我手机里了",
+      "onboard_time": 1715588900,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

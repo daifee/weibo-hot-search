@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715588673796,
+  "endTime": 1715589408746,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1987,6 +1987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1155787,
+      "num": 1155787,
+      "word": "美国宣布全面禁止竞业禁止协议",
+      "onboard_time": 1715586499,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1155449,
       "num": 1155449,
       "word": "男演员骗88人到柬埔寨进行电信诈骗",
@@ -2369,14 +2377,6 @@
       "onboard_time": 1715524163,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1083216,
-      "num": 1083216,
-      "word": "美国宣布全面禁止竞业禁止协议",
-      "onboard_time": 1715586499,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1082451,
@@ -2801,6 +2801,14 @@
       "onboard_time": 1715161461,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 958935,
+      "num": 958935,
+      "word": "歌手揭榜",
+      "onboard_time": 1715588180,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 958407,
@@ -7075,6 +7083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 536073,
+      "num": 365775,
+      "word": "吴磊凌晨被老鼠赶出房间",
+      "onboard_time": 1715587339,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534794,
       "num": 534794,
       "word": "入职信息已婚填未婚遭公司解约",
@@ -8083,14 +8099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 477340,
-      "num": 379673,
-      "word": "歌手揭榜",
-      "onboard_time": 1715588180,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 477256,
       "num": 477256,
       "word": "他可是宝莲灯沉香",
@@ -8241,6 +8249,14 @@
       "onboard_time": 1715340077,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 470161,
+      "num": 297670,
+      "word": "我喜欢你 意思是我清楚地看见你",
+      "onboard_time": 1715587819,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 469733,
@@ -9025,14 +9041,6 @@
       "onboard_time": 1714962077,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 433874,
-      "num": 365775,
-      "word": "吴磊凌晨被老鼠赶出房间",
-      "onboard_time": 1715587339,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 433744,
@@ -10963,6 +10971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 366228,
+      "num": 239897,
+      "word": "最苦的两个英子",
+      "onboard_time": 1715588600,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366119,
       "num": 366119,
       "word": "王俊凯马嘉祺相似造型",
@@ -11316,7 +11332,7 @@
     },
     {
       "raw_hot": 353477,
-      "num": 206722,
+      "num": 239070,
       "word": "张婧仪山根痣",
       "onboard_time": 1715584639,
       "rank": 44,
@@ -11497,6 +11513,14 @@
       "onboard_time": 1715147842,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349099,
+      "num": 349099,
+      "word": "南通渣土车与大巴碰撞通报遭质疑",
+      "onboard_time": 1715587159,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348587,
@@ -12203,6 +12227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 328271,
+      "num": 328271,
+      "word": "年轻人还想买房吗",
+      "onboard_time": 1715584098,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328238,
       "num": 258456,
       "word": "张婧仪素颜",
@@ -12491,14 +12523,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 317129,
-      "num": 317129,
-      "word": "年轻人还想买房吗",
-      "onboard_time": 1715584098,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317050,
       "num": 317050,
       "word": "金莎看自己演风吹半夏哭了",
@@ -12747,14 +12771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311423,
-      "num": 311423,
-      "word": "南通渣土车与大巴碰撞通报遭质疑",
-      "onboard_time": 1715587159,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310350,
       "num": 310350,
       "word": "当年的华晨宇",
@@ -12793,14 +12809,6 @@
       "onboard_time": 1715336298,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309389,
-      "num": 204329,
-      "word": "我喜欢你 意思是我清楚地看见你",
-      "onboard_time": 1715587819,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 308776,
@@ -15891,6 +15899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241144,
+      "num": 241144,
+      "word": "抄袭的是商家被嘲笑的却是我",
+      "onboard_time": 1715588779,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 240979,
       "num": 177286,
       "word": "张拿铁受不了的amazing教育",
@@ -15985,14 +16001,6 @@
       "onboard_time": 1715387781,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239336,
-      "num": 202735,
-      "word": "最苦的两个英子",
-      "onboard_time": 1715588600,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 239299,
@@ -16481,6 +16489,14 @@
       "onboard_time": 1714918941,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232473,
+      "num": 232473,
+      "word": "星船 out",
+      "onboard_time": 1715588659,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 232419,
@@ -17124,7 +17140,7 @@
     },
     {
       "raw_hot": 222660,
-      "num": 200899,
+      "num": 216970,
       "word": "二手玫瑰歌手vs音乐节",
       "onboard_time": 1715585658,
       "rank": 42,
@@ -17280,6 +17296,14 @@
       "word": "官方回应宁夏交通事故致9死",
       "onboard_time": 1715228299,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220169,
+      "num": 240746,
+      "word": "蓝田纪委回应副镇长半夜叫别人妻子唱歌",
+      "onboard_time": 1715588239,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -17465,6 +17489,14 @@
       "onboard_time": 1715328139,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218620,
+      "num": 218620,
+      "word": "群演曝李一桐打戏替身情况",
+      "onboard_time": 1715589200,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 218561,
@@ -18769,6 +18801,14 @@
       "onboard_time": 1715402121,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205139,
+      "num": 1002087,
+      "word": "国家一级博物馆最全名单",
+      "onboard_time": 1715586979,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205032,
@@ -22755,14 +22795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176497,
-      "num": 953479,
-      "word": "国家一级博物馆最全名单",
-      "onboard_time": 1715586979,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176467,
       "num": 176467,
       "word": "胡一天动作指导朴烔植",
@@ -23497,6 +23529,14 @@
       "onboard_time": 1715160859,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171754,
+      "num": 192594,
+      "word": "小基数越练瘦的越快",
+      "onboard_time": 1715586798,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 171645,
@@ -24819,6 +24859,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 162540,
+      "num": 192178,
+      "word": "短效避孕药的副作用有这些",
+      "onboard_time": 1715586077,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162240,
       "num": 162240,
       "word": "瑞幸回应咖啡被曝冰块霉变",
@@ -25145,14 +25193,6 @@
       "onboard_time": 1714708039,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 160199,
-      "num": 192649,
-      "word": "蓝田纪委回应副镇长半夜叫别人妻子唱歌",
-      "onboard_time": 1715588239,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160187,
@@ -25651,14 +25691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 156483,
-      "num": 192594,
-      "word": "小基数越练瘦的越快",
-      "onboard_time": 1715586798,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 156407,
       "num": 156407,
       "word": "王楚钦鸿鹄之志",
@@ -25745,6 +25777,14 @@
       "onboard_time": 1714919482,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156014,
+      "num": 156014,
+      "word": "大熊猫保护研究中心原副主任张海清被查",
+      "onboard_time": 1715589139,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155989,
@@ -26449,14 +26489,6 @@
       "onboard_time": 1715580739,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 150972,
-      "num": 192178,
-      "word": "短效避孕药的副作用有这些",
-      "onboard_time": 1715586077,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150885,
@@ -29315,6 +29347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132055,
+      "num": 132055,
+      "word": "教育部公示河南新增2所本科院校",
+      "onboard_time": 1715589379,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 132008,
       "num": 132008,
       "word": "辽宁男篮1比0广东男篮",
@@ -30289,14 +30329,6 @@
       "onboard_time": 1714792700,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124297,
-      "num": 124297,
-      "word": "星船 out",
-      "onboard_time": 1715588659,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 124264,
@@ -35689,6 +35721,14 @@
       "onboard_time": 1715064978,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9543,
+      "num": 120701,
+      "word": "落日掉进我手机里了",
+      "onboard_time": 1715588900,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 4564,
