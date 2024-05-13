@@ -1,0 +1,410 @@
+{
+  "runTime": 1715603682484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2346987,
+        "num": 2346987,
+        "word": "中方决定不同意台湾地区参加今年世卫大会",
+        "onboard_time": 1715598198,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1015189,
+        "num": 1015189,
+        "word": "微笑 退赛",
+        "onboard_time": 1715592919,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49394,
+        "num": 994101,
+        "word": "中国黄岩岛4K航拍首次公布",
+        "onboard_time": 1715586678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994020,
+        "num": 994020,
+        "word": "国家电网回应6月1日电费涨价",
+        "onboard_time": 1715599938,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640212,
+        "num": 640212,
+        "word": "韩红拿了冠军还要发简历",
+        "onboard_time": 1715589858,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 621446,
+        "num": 621446,
+        "word": "歌手前八季热度破亿歌曲",
+        "onboard_time": 1715599400,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619731,
+        "num": 619731,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577272,
+        "num": 577272,
+        "word": "网友曝李亚鹏拖欠工资",
+        "onboard_time": 1715598919,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403258,
+        "num": 403258,
+        "word": "中国队兔子战术2.0太烧脑",
+        "onboard_time": 1715599039,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236534,
+        "num": 393537,
+        "word": "在微缩蛋糕上见到了去世前的爸爸",
+        "onboard_time": 1715598798,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 516492,
+        "num": 392348,
+        "word": "复旦教授评歌手称观众没必要跟着某些情绪走",
+        "onboard_time": 1715601679,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506868,
+        "num": 392167,
+        "word": "南通女孩家属呼吁大家不要再点食物",
+        "onboard_time": 1715591420,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388523,
+        "num": 388523,
+        "word": "孙千备忘录",
+        "onboard_time": 1715600298,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386621,
+        "num": 386621,
+        "word": "张翰凯丽 无声告别",
+        "onboard_time": 1715601560,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360488,
+        "num": 360488,
+        "word": "广西百色一初中生校内坠亡",
+        "onboard_time": 1715601919,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336785,
+        "num": 336785,
+        "word": "那英摇人宣传片",
+        "onboard_time": 1715592439,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311594,
+        "num": 311594,
+        "word": "官方通报动物园20只东北虎死亡",
+        "onboard_time": 1715595077,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230106,
+        "num": 230106,
+        "word": "老头杯换人",
+        "onboard_time": 1715601679,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220273,
+        "num": 220273,
+        "word": "披荆斩棘的老头们",
+        "onboard_time": 1715596160,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217549,
+        "num": 217549,
+        "word": "智己",
+        "onboard_time": 1715603058,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 698869,
+        "num": 217336,
+        "word": "难听",
+        "onboard_time": 1715592499,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 407676,
+        "num": 216489,
+        "word": "中医建议不要太频繁的刮痧",
+        "onboard_time": 1715589858,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304578,
+        "num": 214788,
+        "word": "空降",
+        "onboard_time": 1715595919,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293111,
+        "num": 214534,
+        "word": "张杰 郑州演唱会",
+        "onboard_time": 1715601320,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213685,
+        "num": 213685,
+        "word": "一孕傻三年的调侃掩盖了妈妈们的求救",
+        "onboard_time": 1715602939,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256364,
+        "num": 212546,
+        "word": "庆余年林婉儿原型是林依晨",
+        "onboard_time": 1715584340,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234120,
+        "num": 210618,
+        "word": "背着善宰跑",
+        "onboard_time": 1715603359,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224392,
+        "num": 209393,
+        "word": "结石姐关注香缇莫",
+        "onboard_time": 1715603478,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206064,
+        "num": 206064,
+        "word": "陶喆南宁抢票",
+        "onboard_time": 1715602699,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167980,
+        "num": 167980,
+        "word": "vivoX100系列发布会",
+        "onboard_time": 1715600058,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205544,
+        "num": 167265,
+        "word": "歌手",
+        "onboard_time": 1715592560,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201666,
+        "num": 165745,
+        "word": "白鹿曾舜晞 两条蛄蛹者",
+        "onboard_time": 1715601320,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199659,
+        "num": 164519,
+        "word": "林俊杰兰州抢票",
+        "onboard_time": 1715602879,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173320,
+        "num": 163032,
+        "word": "我喜欢你 意思是我清楚地看见你",
+        "onboard_time": 1715587819,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171037,
+        "num": 162335,
+        "word": "周深成都站售罄",
+        "onboard_time": 1715603540,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161439,
+        "num": 161439,
+        "word": "vivo",
+        "onboard_time": 1715600298,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153659,
+        "num": 153659,
+        "word": "不满月的小米SU7坏了",
+        "onboard_time": 1715595440,
+        "rank": 36,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 135924,
+        "num": 153550,
+        "word": "多个电力股涨停",
+        "onboard_time": 1715602939,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131855,
+        "num": 152346,
+        "word": "只使用医保内物品的孕妇",
+        "onboard_time": 1715603359,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126174,
+        "num": 151485,
+        "word": "Breathe加入WBG",
+        "onboard_time": 1715596939,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155033,
+        "num": 150901,
+        "word": "袁娅维憋不住了",
+        "onboard_time": 1715586438,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150496,
+        "num": 150496,
+        "word": "薛之谦再遇一个人来的",
+        "onboard_time": 1715600119,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150265,
+        "num": 150265,
+        "word": "刘忻张予曦 娜娜奈奈",
+        "onboard_time": 1715599279,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148422,
+        "num": 148422,
+        "word": "aespa别念了",
+        "onboard_time": 1715602099,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147137,
+        "num": 147137,
+        "word": "群演曝李一桐打戏替身情况",
+        "onboard_time": 1715589200,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121123,
+        "num": 147054,
+        "word": "日本的寿司店为什么那么难约",
+        "onboard_time": 1715602639,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116005,
+        "num": 147007,
+        "word": "熊猫吃到翘脚竹子",
+        "onboard_time": 1715601679,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110995,
+        "num": 146945,
+        "word": "我发现大学生一旦过了11周",
+        "onboard_time": 1715593760,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103728,
+        "num": 146865,
+        "word": "萧鼎修订诛仙",
+        "onboard_time": 1715603660,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 101913,
+        "num": 146755,
+        "word": "山东一地大罐车出事故不明液体外泄",
+        "onboard_time": 1715603660,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#严守党的政治纪律和政治规矩#"
+    }
+  }
+}
