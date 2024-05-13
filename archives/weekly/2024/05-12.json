@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715618328700,
+  "endTime": 1715620573988,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -4027,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174276,
+      "num": 135855,
+      "word": "宋茜ins宣传中国瓷器",
+      "onboard_time": 1715619015,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173214,
       "num": 173214,
       "word": "女子挂P挡开不动车致堵车被罚还不服",
@@ -5427,6 +5435,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 110617,
+      "num": 93657,
+      "word": "芒果糯米饭",
+      "onboard_time": 1715619135,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109657,
       "num": 109657,
       "word": "以防你没见过酒醉的蝴蝶",
@@ -5748,7 +5764,7 @@
     },
     {
       "raw_hot": 86200,
-      "num": 132375,
+      "num": 539381,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
       "rank": 45,
@@ -5891,6 +5907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65790,
+      "num": 100729,
+      "word": "菲律宾",
+      "onboard_time": 1715619434,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 65460,
       "num": 472118,
       "word": "vivoX100Ultra影像灭霸",
@@ -5913,6 +5937,14 @@
       "onboard_time": 1715576540,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63437,
+      "num": 63437,
+      "word": "辅导员没说清楚吗",
+      "onboard_time": 1715619915,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 60775,
@@ -5993,6 +6025,14 @@
       "onboard_time": 1715606599,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 41349,
+      "num": 68786,
+      "word": "海口近8吨死鱼将无害化处置",
+      "onboard_time": 1715620394,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41129,

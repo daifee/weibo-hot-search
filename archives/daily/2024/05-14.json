@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715618328700,
+  "endTime": 1715620573988,
   "band_list": [
     {
       "raw_hot": 1458496,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174276,
+      "num": 135855,
+      "word": "宋茜ins宣传中国瓷器",
+      "onboard_time": 1715619015,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172297,
       "num": 172297,
       "word": "市监回应麦当劳给过期食材换标签",
@@ -273,6 +281,14 @@
       "onboard_time": 1715608939,
       "rank": 34,
       "category": "剧集,读书作家"
+    },
+    {
+      "raw_hot": 110617,
+      "num": 93657,
+      "word": "芒果糯米饭",
+      "onboard_time": 1715619135,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 110111,
@@ -371,6 +387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79073,
+      "num": 79073,
+      "word": "难听",
+      "onboard_time": 1715592499,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 67443,
       "num": 111112,
       "word": "南通女孩家属呼吁大家不要再点食物",
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65790,
+      "num": 100729,
+      "word": "菲律宾",
+      "onboard_time": 1715619434,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 63931,
       "num": 111188,
       "word": "围读剧本的杨幂",
@@ -395,11 +427,43 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63437,
+      "num": 63437,
+      "word": "辅导员没说清楚吗",
+      "onboard_time": 1715619915,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 56853,
       "num": 111053,
       "word": "71岁大爷山上开店1天卖出1000碗面",
       "onboard_time": 1715611160,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49616,
+      "num": 49616,
+      "word": "网友曝李亚鹏拖欠工资",
+      "onboard_time": 1715598919,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41349,
+      "num": 68786,
+      "word": "海口近8吨死鱼将无害化处置",
+      "onboard_time": 1715620394,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13203,
+      "num": 539381,
+      "word": "我国核电技术已进入世界第一方阵",
+      "onboard_time": 1715605459,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
