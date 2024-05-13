@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715570406882,
+  "endTime": 1715571277011,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -169,6 +169,14 @@
       "onboard_time": 1714977378,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2955797,
+      "num": 2955797,
+      "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
+      "onboard_time": 1715569340,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2933079,
@@ -480,14 +488,6 @@
       "word": "阜阳出现水泥封尸案嫌疑人已被抓",
       "onboard_time": 1715319680,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2008864,
-      "num": 2008864,
-      "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
-      "onboard_time": 1715569340,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2140,7 +2140,7 @@
     },
     {
       "raw_hot": 1104603,
-      "num": 297890,
+      "num": 314658,
       "word": "只休一天就上班真的好累啊",
       "onboard_time": 1715565377,
       "rank": 20,
@@ -6123,6 +6123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 592895,
+      "num": 484269,
+      "word": "谢娜用预制调料包做菜",
+      "onboard_time": 1715568319,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 592629,
       "num": 592629,
       "word": "大巴黎淘汰",
@@ -6169,14 +6177,6 @@
       "onboard_time": 1714812139,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 587057,
-      "num": 377335,
-      "word": "谢娜用预制调料包做菜",
-      "onboard_time": 1715568319,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 585948,
@@ -6409,6 +6409,14 @@
       "onboard_time": 1714889477,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 564028,
+      "num": 564028,
+      "word": "南通车祸现场救援者称只是做了该做的",
+      "onboard_time": 1715569818,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 563552,
@@ -7372,7 +7380,7 @@
     },
     {
       "raw_hot": 505503,
-      "num": 301029,
+      "num": 351252,
       "word": "向佐给向太郭碧婷过母亲节",
       "onboard_time": 1715568919,
       "rank": 11,
@@ -7745,6 +7753,14 @@
       "onboard_time": 1714634838,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480865,
+      "num": 338167,
+      "word": "多位歌手请战歌手2024",
+      "onboard_time": 1715569040,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 480798,
@@ -8377,6 +8393,14 @@
       "onboard_time": 1714571599,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452261,
+      "num": 452261,
+      "word": "日晕",
+      "onboard_time": 1715570120,
+      "rank": 38,
+      "category": "自然"
     },
     {
       "raw_hot": 452047,
@@ -9803,6 +9827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 396475,
+      "num": 264632,
+      "word": "KnowKnow自荐歌手",
+      "onboard_time": 1715570120,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396155,
       "num": 396155,
       "word": "韩国游客爱上张家界九寨沟",
@@ -10204,7 +10236,7 @@
     },
     {
       "raw_hot": 381120,
-      "num": 297575,
+      "num": 310190,
       "word": "大学时期的迪丽热巴",
       "onboard_time": 1715567959,
       "rank": 22,
@@ -10987,6 +11019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 352692,
+      "num": 352692,
+      "word": "张怡宁说反正最终都是咱们中国赢",
+      "onboard_time": 1715568919,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352644,
       "num": 310464,
       "word": "做博主7年为什么突然停更",
@@ -11115,6 +11155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348587,
+      "num": 348587,
+      "word": "TheShy叫板Ning",
+      "onboard_time": 1715570239,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 348488,
       "num": 348488,
       "word": "恭候范闲归京",
@@ -11201,14 +11249,6 @@
       "onboard_time": 1714804458,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 346197,
-      "num": 297542,
-      "word": "多位歌手请战歌手2024",
-      "onboard_time": 1715569040,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 345981,
@@ -11787,14 +11827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328627,
-      "num": 328627,
-      "word": "张怡宁说反正最终都是咱们中国赢",
-      "onboard_time": 1715568919,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 328461,
       "num": 328461,
       "word": "黄霄雲 要多努力才能改变一句评价",
@@ -12179,20 +12211,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 315502,
-      "num": 299315,
-      "word": "南通车祸现场救援者称只是做了该做的",
-      "onboard_time": 1715569818,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315217,
       "num": 315217,
       "word": "张艺凡人长得美画画就算了",
       "onboard_time": 1714966760,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315193,
+      "num": 315193,
+      "word": "100块钱九道菜三碗面",
+      "onboard_time": 1715566759,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 314706,
@@ -12723,14 +12755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298203,
-      "num": 298203,
-      "word": "100块钱九道菜三碗面",
-      "onboard_time": 1715566759,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 298121,
       "num": 298121,
       "word": "任天堂新机",
@@ -13009,6 +13033,14 @@
       "onboard_time": 1715340259,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289416,
+      "num": 227113,
+      "word": "那英跟韩红的反应真像",
+      "onboard_time": 1715570179,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 289282,
@@ -15651,6 +15683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236734,
+      "num": 223340,
+      "word": "抑郁症患者会无意识做哪些事情",
+      "onboard_time": 1715570719,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 236644,
       "num": 236644,
       "word": "庆余年2哈哈哈海报",
@@ -15865,6 +15905,14 @@
       "onboard_time": 1715092461,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233943,
+      "num": 233943,
+      "word": "让黄丽玲插个队吧",
+      "onboard_time": 1715569519,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 233802,
@@ -16419,14 +16467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225602,
-      "num": 225602,
-      "word": "TheShy叫板Ning",
-      "onboard_time": 1715570239,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 225541,
       "num": 225541,
       "word": "秦岚说娜扎太容易被骗了",
@@ -16859,6 +16899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219393,
+      "num": 219393,
+      "word": "胡歌金靖首演兄妹",
+      "onboard_time": 1715570300,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219274,
       "num": 219274,
       "word": "五一日本成出境游最大赢家",
@@ -16945,6 +16993,14 @@
       "onboard_time": 1714655538,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 218511,
+      "num": 218511,
+      "word": "演员严基俊结婚",
+      "onboard_time": 1715570058,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 218482,
@@ -18915,6 +18971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199882,
+      "num": 199882,
+      "word": "小米宣布与京东全面深化战略合作",
+      "onboard_time": 1715570359,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199804,
       "num": 199804,
       "word": "苏打绿深圳抢票",
@@ -19139,14 +19203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198211,
-      "num": 198211,
-      "word": "让黄丽玲插个队吧",
-      "onboard_time": 1715569519,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198126,
       "num": 198126,
       "word": "自信和不自信的区别到底有多大",
@@ -19281,14 +19337,6 @@
       "onboard_time": 1714837698,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197409,
-      "num": 197409,
-      "word": "KnowKnow自荐歌手",
-      "onboard_time": 1715570120,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 197404,
@@ -20403,6 +20451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190316,
+      "num": 352023,
+      "word": "护士小姐姐救人时突生神力",
+      "onboard_time": 1715567837,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 190216,
       "num": 190216,
       "word": "新闻女王2微博选角",
@@ -20907,14 +20963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187358,
-      "num": 187358,
-      "word": "那英跟韩红的反应真像",
-      "onboard_time": 1715570179,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187344,
       "num": 187344,
       "word": "璩静本人暂未回应离职传闻",
@@ -21041,6 +21089,14 @@
       "onboard_time": 1714886239,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186388,
+      "num": 186388,
+      "word": "歌手网传赛制",
+      "onboard_time": 1715569458,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 186381,
@@ -21177,14 +21233,6 @@
       "onboard_time": 1714626559,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185213,
-      "num": 185213,
-      "word": "日晕",
-      "onboard_time": 1715570120,
-      "rank": 38,
-      "category": "自然"
     },
     {
       "raw_hot": 185190,
@@ -21609,14 +21657,6 @@
       "onboard_time": 1715399538,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181417,
-      "num": 140620,
-      "word": "演员严基俊结婚",
-      "onboard_time": 1715570058,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 181226,
@@ -23579,6 +23619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165927,
+      "num": 310437,
+      "word": "智己L6爆品发布会",
+      "onboard_time": 1715569519,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 165892,
       "num": 165892,
       "word": "马嘉祺做菜vlog",
@@ -24587,14 +24635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158757,
-      "num": 297229,
-      "word": "智己L6爆品发布会",
-      "onboard_time": 1715569519,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 158718,
       "num": 158718,
       "word": "原来以前的书上什么都教过",
@@ -25041,14 +25081,6 @@
       "onboard_time": 1715216359,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155866,
-      "num": 301895,
-      "word": "护士小姐姐救人时突生神力",
-      "onboard_time": 1715567837,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 155839,
@@ -27283,6 +27315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140223,
+      "num": 339007,
+      "word": "想跟金晨来一场citydrive吗",
+      "onboard_time": 1715569099,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140209,
       "num": 140209,
       "word": "朴灿烈将solo出道",
@@ -27435,6 +27475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139364,
+      "num": 117129,
+      "word": "歌手报名名单",
+      "onboard_time": 1715571259,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139348,
       "num": 139348,
       "word": "那英表情包",
@@ -27505,6 +27553,14 @@
       "onboard_time": 1715257459,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138590,
+      "num": 138590,
+      "word": "香蕉不能缓解便秘",
+      "onboard_time": 1715570659,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 138572,
@@ -28347,6 +28403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132930,
+      "num": 132930,
+      "word": "俄居民楼遭袭坍塌事故已致15人死亡",
+      "onboard_time": 1715570539,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 132865,
       "num": 132865,
       "word": "突然发现2杯奶茶可以买一件衣服",
@@ -28433,14 +28497,6 @@
       "onboard_time": 1715481078,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132412,
-      "num": 132412,
-      "word": "胡歌金靖首演兄妹",
-      "onboard_time": 1715570300,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 132307,
@@ -30259,6 +30315,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117785,
+      "num": 117785,
+      "word": "掘金2秒5分",
+      "onboard_time": 1715571079,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117743,
       "num": 117743,
       "word": "今天的想法都是三个字的",
@@ -30353,14 +30417,6 @@
       "onboard_time": 1714619417,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117285,
-      "num": 117285,
-      "word": "小米宣布与京东全面深化战略合作",
-      "onboard_time": 1715570359,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 117237,
@@ -32769,14 +32825,6 @@
       "onboard_time": 1714551378,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80943,
-      "num": 298409,
-      "word": "想跟金晨来一场citydrive吗",
-      "onboard_time": 1715569099,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 80872,

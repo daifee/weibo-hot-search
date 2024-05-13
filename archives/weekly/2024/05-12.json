@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715570406882,
+  "endTime": 1715571277011,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -25,6 +25,14 @@
       "onboard_time": 1715509522,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2955797,
+      "num": 2955797,
+      "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
+      "onboard_time": 1715569340,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2933079,
@@ -64,14 +72,6 @@
       "word": "512警报",
       "onboard_time": 1715480119,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2008864,
-      "num": 2008864,
-      "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
-      "onboard_time": 1715569340,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1104603,
-      "num": 297890,
+      "num": 314658,
       "word": "只休一天就上班真的好累啊",
       "onboard_time": 1715565377,
       "rank": 20,
@@ -795,8 +795,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 587057,
-      "num": 377335,
+      "raw_hot": 592895,
+      "num": 484269,
       "word": "谢娜用预制调料包做菜",
       "onboard_time": 1715568319,
       "rank": 6,
@@ -840,6 +840,14 @@
       "word": "全球首例猪肾移植患者死亡",
       "onboard_time": 1715517023,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564028,
+      "num": 564028,
+      "word": "南通车祸现场救援者称只是做了该做的",
+      "onboard_time": 1715569818,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -940,7 +948,7 @@
     },
     {
       "raw_hot": 505503,
-      "num": 301029,
+      "num": 351252,
       "word": "向佐给向太郭碧婷过母亲节",
       "onboard_time": 1715568919,
       "rank": 11,
@@ -1011,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480865,
+      "num": 338167,
+      "word": "多位歌手请战歌手2024",
+      "onboard_time": 1715569040,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478124,
       "num": 478124,
       "word": "班级成绩第一老师请全班吃烤全羊",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1715483418,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452261,
+      "num": 452261,
+      "word": "日晕",
+      "onboard_time": 1715570120,
+      "rank": 38,
+      "category": "自然"
     },
     {
       "raw_hot": 442451,
@@ -1195,6 +1219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 396475,
+      "num": 264632,
+      "word": "KnowKnow自荐歌手",
+      "onboard_time": 1715570120,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392355,
       "num": 448338,
       "word": "糯玉米会让血糖飙升",
@@ -1220,7 +1252,7 @@
     },
     {
       "raw_hot": 381120,
-      "num": 297575,
+      "num": 310190,
       "word": "大学时期的迪丽热巴",
       "onboard_time": 1715567959,
       "rank": 22,
@@ -1315,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352692,
+      "num": 352692,
+      "word": "张怡宁说反正最终都是咱们中国赢",
+      "onboard_time": 1715568919,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352052,
       "num": 352052,
       "word": "南通女孩妈妈想找事故现场救援者",
@@ -1347,20 +1387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348587,
+      "num": 348587,
+      "word": "TheShy叫板Ning",
+      "onboard_time": 1715570239,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 347900,
       "num": 309153,
       "word": "张桂源 停训",
       "onboard_time": 1715472375,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346197,
-      "num": 297542,
-      "word": "多位歌手请战歌手2024",
-      "onboard_time": 1715569040,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 343583,
@@ -1443,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328627,
-      "num": 328627,
-      "word": "张怡宁说反正最终都是咱们中国赢",
-      "onboard_time": 1715568919,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 328461,
       "num": 328461,
       "word": "黄霄雲 要多努力才能改变一句评价",
@@ -1491,12 +1523,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 315502,
-      "num": 299315,
-      "word": "南通车祸现场救援者称只是做了该做的",
-      "onboard_time": 1715569818,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 315193,
+      "num": 315193,
+      "word": "100块钱九道菜三碗面",
+      "onboard_time": 1715566759,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 314124,
@@ -1555,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298203,
-      "num": 298203,
-      "word": "100块钱九道菜三碗面",
-      "onboard_time": 1715566759,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 297482,
       "num": 254185,
       "word": "患癌老人乘机遭拒载次日去世其子否认不孝",
@@ -1593,6 +1617,14 @@
       "onboard_time": 1715433801,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289416,
+      "num": 227113,
+      "word": "那英跟韩红的反应真像",
+      "onboard_time": 1715570179,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 287991,
@@ -1859,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236734,
+      "num": 223340,
+      "word": "抑郁症患者会无意识做哪些事情",
+      "onboard_time": 1715570719,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 236033,
       "num": 236033,
       "word": "极限挑战",
@@ -1888,6 +1928,14 @@
       "word": "那英机位每一秒都是小品",
       "onboard_time": 1715500519,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233943,
+      "num": 233943,
+      "word": "让黄丽玲插个队吧",
+      "onboard_time": 1715569519,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1929,14 +1977,6 @@
       "onboard_time": 1715556675,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225602,
-      "num": 225602,
-      "word": "TheShy叫板Ning",
-      "onboard_time": 1715570239,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 225080,
@@ -2019,12 +2059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219393,
+      "num": 219393,
+      "word": "胡歌金靖首演兄妹",
+      "onboard_time": 1715570300,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219019,
       "num": 195175,
       "word": "周杰伦看到粉色极光想写歌了",
       "onboard_time": 1715472257,
       "rank": 25,
       "category": "音乐,自然"
+    },
+    {
+      "raw_hot": 218511,
+      "num": 218511,
+      "word": "演员严基俊结婚",
+      "onboard_time": 1715570058,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 214159,
@@ -2115,20 +2171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199882,
+      "num": 199882,
+      "word": "小米宣布与京东全面深化战略合作",
+      "onboard_time": 1715570359,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 198732,
       "num": 198732,
       "word": "陈梦女单冠军",
       "onboard_time": 1715429120,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198211,
-      "num": 198211,
-      "word": "让黄丽玲插个队吧",
-      "onboard_time": 1715569519,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 198125,
@@ -2160,14 +2216,6 @@
       "word": "娄艺潇毕业于上戏音乐剧专业",
       "onboard_time": 1715563938,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 197409,
-      "num": 197409,
-      "word": "KnowKnow自荐歌手",
-      "onboard_time": 1715570120,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -2259,6 +2307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190316,
+      "num": 352023,
+      "word": "护士小姐姐救人时突生神力",
+      "onboard_time": 1715567837,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 190054,
       "num": 190054,
       "word": "西湖音乐节",
@@ -2299,20 +2355,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 187358,
-      "num": 187358,
-      "word": "那英跟韩红的反应真像",
-      "onboard_time": 1715570179,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186961,
       "num": 186961,
       "word": "狼队进决赛",
       "onboard_time": 1715522122,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186388,
+      "num": 186388,
+      "word": "歌手网传赛制",
+      "onboard_time": 1715569458,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 186208,
@@ -2329,14 +2385,6 @@
       "onboard_time": 1715563639,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185213,
-      "num": 185213,
-      "word": "日晕",
-      "onboard_time": 1715570120,
-      "rank": 38,
-      "category": "自然"
     },
     {
       "raw_hot": 182862,
@@ -2361,14 +2409,6 @@
       "onboard_time": 1715480897,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181417,
-      "num": 140620,
-      "word": "演员严基俊结婚",
-      "onboard_time": 1715570058,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 178903,
@@ -2529,6 +2569,14 @@
       "onboard_time": 1715521461,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165927,
+      "num": 310437,
+      "word": "智己L6爆品发布会",
+      "onboard_time": 1715569519,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 165892,
@@ -2699,14 +2747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158757,
-      "num": 297229,
-      "word": "智己L6爆品发布会",
-      "onboard_time": 1715569519,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 158346,
       "num": 169002,
       "word": "妈妈是我和死神之间的一堵墙",
@@ -2769,14 +2809,6 @@
       "onboard_time": 1715509943,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155866,
-      "num": 301895,
-      "word": "护士小姐姐救人时突生神力",
-      "onboard_time": 1715567837,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 154809,
@@ -2971,12 +3003,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 140223,
+      "num": 339007,
+      "word": "想跟金晨来一场citydrive吗",
+      "onboard_time": 1715569099,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139416,
       "num": 539180,
       "word": "送这种花妈妈根本无法拒绝",
       "onboard_time": 1715421017,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139364,
+      "num": 117129,
+      "word": "歌手报名名单",
+      "onboard_time": 1715571259,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 139348,
@@ -3001,6 +3049,14 @@
       "onboard_time": 1715439561,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138590,
+      "num": 138590,
+      "word": "香蕉不能缓解便秘",
+      "onboard_time": 1715570659,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137828,
@@ -3051,20 +3107,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132930,
+      "num": 132930,
+      "word": "俄居民楼遭袭坍塌事故已致15人死亡",
+      "onboard_time": 1715570539,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 132421,
       "num": 132421,
       "word": "16岁志愿军女兵嘴对嘴给伤员喂药",
       "onboard_time": 1715481078,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132412,
-      "num": 132412,
-      "word": "胡歌金靖首演兄妹",
-      "onboard_time": 1715570300,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 132244,
@@ -3275,12 +3331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117285,
-      "num": 117285,
-      "word": "小米宣布与京东全面深化战略合作",
-      "onboard_time": 1715570359,
-      "rank": 48,
-      "category": "互联网"
+      "raw_hot": 117785,
+      "num": 117785,
+      "word": "掘金2秒5分",
+      "onboard_time": 1715571079,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 117108,
@@ -3681,14 +3737,6 @@
       "onboard_time": 1715507838,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 80943,
-      "num": 298409,
-      "word": "想跟金晨来一场citydrive吗",
-      "onboard_time": 1715569099,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 80065,

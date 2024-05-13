@@ -1,0 +1,410 @@
+{
+  "runTime": 1715571277011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2955797,
+        "num": 2955797,
+        "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
+        "onboard_time": 1715569340,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2305736,
+        "num": 2305736,
+        "word": "韩红报名方式错了",
+        "onboard_time": 1715568859,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12302,
+        "num": 1008941,
+        "word": "世上最动听的两个字是妈妈",
+        "onboard_time": 1715484678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564028,
+        "num": 564028,
+        "word": "南通车祸现场救援者称只是做了该做的",
+        "onboard_time": 1715569818,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1259057,
+        "num": 557942,
+        "word": "张杰说唱live是歌手最基本的要求",
+        "onboard_time": 1715568978,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 485875,
+        "num": 485875,
+        "word": "改成绩事件涉事人员称是为救学生",
+        "onboard_time": 1715563998,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592895,
+        "num": 484269,
+        "word": "谢娜用预制调料包做菜",
+        "onboard_time": 1715568319,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452261,
+        "num": 452261,
+        "word": "日晕",
+        "onboard_time": 1715570120,
+        "rank": 7,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 352692,
+        "num": 352692,
+        "word": "张怡宁说反正最终都是咱们中国赢",
+        "onboard_time": 1715568919,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190316,
+        "num": 352023,
+        "word": "护士小姐姐救人时突生神力",
+        "onboard_time": 1715567837,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 612996,
+        "num": 351710,
+        "word": "Alin报名歌手",
+        "onboard_time": 1715556436,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473546,
+        "num": 351252,
+        "word": "向佐给向太郭碧婷过母亲节",
+        "onboard_time": 1715568919,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425015,
+        "num": 350038,
+        "word": "抖音回应新规不再发布时政财经内容",
+        "onboard_time": 1715564597,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 580639,
+        "num": 349454,
+        "word": "娄艺潇自荐歌手",
+        "onboard_time": 1715558178,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399910,
+        "num": 348704,
+        "word": "妇科检查的鸭嘴钳能不能对女性更友好",
+        "onboard_time": 1715525122,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 348587,
+        "num": 348587,
+        "word": "TheShy叫板Ning",
+        "onboard_time": 1715570239,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140223,
+        "num": 339007,
+        "word": "想跟金晨来一场citydrive吗",
+        "onboard_time": 1715569099,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480865,
+        "num": 338167,
+        "word": "多位歌手请战歌手2024",
+        "onboard_time": 1715569040,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333807,
+        "num": 333807,
+        "word": "阜阳野生动物园多只动物非正常死亡",
+        "onboard_time": 1715564897,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315193,
+        "num": 315193,
+        "word": "100块钱九道菜三碗面",
+        "onboard_time": 1715566759,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 887085,
+        "num": 314658,
+        "word": "只休一天就上班真的好累啊",
+        "onboard_time": 1715565377,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 468085,
+        "num": 312553,
+        "word": "韩红请战歌手",
+        "onboard_time": 1715507299,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165927,
+        "num": 310437,
+        "word": "智己L6爆品发布会",
+        "onboard_time": 1715569519,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 310190,
+        "num": 310190,
+        "word": "大学时期的迪丽热巴",
+        "onboard_time": 1715567959,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431920,
+        "num": 297802,
+        "word": "A妹 歌手",
+        "onboard_time": 1715560518,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277272,
+        "num": 277272,
+        "word": "于适把周依然眼睛认成了娜然",
+        "onboard_time": 1715568678,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273727,
+        "num": 273727,
+        "word": "最近四川人指甲都黄了",
+        "onboard_time": 1715567659,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396475,
+        "num": 264632,
+        "word": "KnowKnow自荐歌手",
+        "onboard_time": 1715570120,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239100,
+        "num": 239100,
+        "word": "斗鱼公告",
+        "onboard_time": 1715559439,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233943,
+        "num": 233943,
+        "word": "让黄丽玲插个队吧",
+        "onboard_time": 1715569519,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289416,
+        "num": 227113,
+        "word": "那英跟韩红的反应真像",
+        "onboard_time": 1715570179,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268864,
+        "num": 223898,
+        "word": "歌手官微回应",
+        "onboard_time": 1715515944,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236734,
+        "num": 223340,
+        "word": "抑郁症患者会无意识做哪些事情",
+        "onboard_time": 1715570719,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219393,
+        "num": 219393,
+        "word": "胡歌金靖首演兄妹",
+        "onboard_time": 1715570300,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218511,
+        "num": 218511,
+        "word": "演员严基俊结婚",
+        "onboard_time": 1715570058,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199882,
+        "num": 199882,
+        "word": "小米宣布与京东全面深化战略合作",
+        "onboard_time": 1715570359,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196247,
+        "num": 196247,
+        "word": "与晋长安官宣阵容",
+        "onboard_time": 1715568498,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186388,
+        "num": 186388,
+        "word": "歌手网传赛制",
+        "onboard_time": 1715569458,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167398,
+        "num": 167398,
+        "word": "警方通报男子摸车被索赔1万",
+        "onboard_time": 1715562258,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138590,
+        "num": 138590,
+        "word": "香蕉不能缓解便秘",
+        "onboard_time": 1715570659,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186296,
+        "num": 137494,
+        "word": "刘雯去美国了",
+        "onboard_time": 1715561779,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163366,
+        "num": 136440,
+        "word": "杨丞琳在家罚唱",
+        "onboard_time": 1715524463,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132930,
+        "num": 132930,
+        "word": "俄居民楼遭袭坍塌事故已致15人死亡",
+        "onboard_time": 1715570539,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132186,
+        "num": 132186,
+        "word": "北向资金不再披露实时成交额",
+        "onboard_time": 1715569279,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145704,
+        "num": 131755,
+        "word": "在歌手唱好不是好歌手的唯一标准",
+        "onboard_time": 1715565617,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129836,
+        "num": 129836,
+        "word": "otto被封",
+        "onboard_time": 1715555957,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117785,
+        "num": 117785,
+        "word": "掘金2秒5分",
+        "onboard_time": 1715571079,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139364,
+        "num": 117129,
+        "word": "歌手报名名单",
+        "onboard_time": 1715571259,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115544,
+        "num": 115544,
+        "word": "外国教授借科研名义窃取我安全数据",
+        "onboard_time": 1715564838,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106253,
+        "num": 106253,
+        "word": "QQ微信上线地震预警功能",
+        "onboard_time": 1715558839,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何让学校思政课走新更走心#"
+    }
+  }
+}
