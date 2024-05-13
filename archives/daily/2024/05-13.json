@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715574173667,
+  "endTime": 1715574969791,
   "band_list": [
     {
       "raw_hot": 3155031,
@@ -11,12 +11,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2369957,
-      "num": 2369957,
+      "raw_hot": 2441093,
+      "num": 2441093,
       "word": "韩红报名方式错了",
       "onboard_time": 1715568859,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1814093,
+      "num": 1814093,
+      "word": "男子中奖1000万瞒妻子给前妻买房",
+      "onboard_time": 1715572100,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1811883,
@@ -35,12 +43,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1761211,
-      "num": 1761211,
-      "word": "男子中奖1000万瞒妻子给前妻买房",
-      "onboard_time": 1715572100,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 1657204,
+      "num": 1657204,
+      "word": "歌手报名名单",
+      "onboard_time": 1715571259,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 1651336,
@@ -56,14 +64,6 @@
       "word": "歌手在邀请了",
       "onboard_time": 1715517981,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1422579,
-      "num": 1422579,
-      "word": "歌手报名名单",
-      "onboard_time": 1715571259,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -107,12 +107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1107852,
+      "num": 1107852,
+      "word": "南通车祸",
+      "onboard_time": 1715572699,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1104603,
       "num": 913302,
       "word": "只休一天就上班真的好累啊",
       "onboard_time": 1715565377,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1003835,
+      "num": 795913,
+      "word": "张杰曾在offer谈被质疑假唱",
+      "onboard_time": 1715572580,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 976296,
@@ -128,14 +144,6 @@
       "word": "改成绩事件涉事人员称是为救学生",
       "onboard_time": 1715563998,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 896257,
-      "num": 896257,
-      "word": "南通车祸",
-      "onboard_time": 1715572699,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -203,20 +211,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 697453,
+      "num": 697453,
+      "word": "抑郁症患者会无意识做哪些事情",
+      "onboard_time": 1715570719,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 628145,
       "num": 628145,
       "word": "阿兰助攻",
       "onboard_time": 1715527520,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 622505,
-      "num": 622505,
-      "word": "抑郁症患者会无意识做哪些事情",
-      "onboard_time": 1715570719,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 607341,
@@ -241,14 +249,6 @@
       "onboard_time": 1715522841,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 595889,
-      "num": 595889,
-      "word": "张杰曾在offer谈被质疑假唱",
-      "onboard_time": 1715572580,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 592895,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 518529,
-      "num": 340213,
+      "num": 361884,
       "word": "多位歌手请战歌手2024",
       "onboard_time": 1715569040,
       "rank": 22,
@@ -427,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 387055,
+      "num": 387055,
+      "word": "时隔6年半韩国外长今起访华",
+      "onboard_time": 1715574381,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 381120,
       "num": 310190,
       "word": "大学时期的迪丽热巴",
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370059,
+      "num": 306219,
+      "word": "王鹤棣新综艺官宣",
+      "onboard_time": 1715574081,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361427,
       "num": 361427,
       "word": "黄霄云实力",
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 353273,
-      "num": 275478,
+      "num": 286128,
       "word": "王俊凯接触陷入我们的热恋",
       "onboard_time": 1715572759,
       "rank": 24,
@@ -515,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 338945,
+      "num": 292360,
+      "word": "杨幂这一年在频繁自我对话",
+      "onboard_time": 1715574260,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 338896,
       "num": 338896,
       "word": "otto被封",
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 337381,
-      "num": 271867,
+      "num": 283009,
       "word": "庆余年第二季开播倒计时3天",
       "onboard_time": 1715573480,
       "rank": 27,
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 329007,
-      "num": 271388,
+      "num": 284991,
       "word": "那英跟韩红的反应真像",
       "onboard_time": 1715570179,
       "rank": 36,
@@ -545,6 +569,22 @@
       "onboard_time": 1715564838,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321215,
+      "num": 321215,
+      "word": "偷感考研人vs装感考研人",
+      "onboard_time": 1715572159,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 319538,
+      "num": 279779,
+      "word": "颜如晶一个月腰围腿围减了10厘米",
+      "onboard_time": 1715574260,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 315193,
@@ -635,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280295,
-      "num": 280295,
-      "word": "偷感考研人vs装感考研人",
-      "onboard_time": 1715572159,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 276338,
       "num": 276338,
       "word": "最近四川人指甲都黄了",
@@ -700,7 +732,7 @@
     },
     {
       "raw_hot": 250942,
-      "num": 250942,
+      "num": 280806,
       "word": "小米宣布与京东全面深化战略合作",
       "onboard_time": 1715570359,
       "rank": 48,
@@ -737,6 +769,14 @@
       "onboard_time": 1715527103,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 236484,
+      "num": 236484,
+      "word": "男生地铁上被女子偷拍追上硬刚",
+      "onboard_time": 1715573480,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233943,
@@ -803,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211282,
-      "num": 211282,
-      "word": "男生地铁上被女子偷拍追上硬刚",
-      "onboard_time": 1715573480,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 207083,
+      "num": 207083,
+      "word": "基金赚钱基民亏将成为过去时",
+      "onboard_time": 1715574442,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 206101,
@@ -875,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184556,
+      "num": 184556,
+      "word": "威神V将公开中韩两版主打歌",
+      "onboard_time": 1715574621,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180929,
       "num": 180929,
       "word": "吃得少但不容易饿的方法",
@@ -889,6 +937,14 @@
       "onboard_time": 1715559618,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176025,
+      "num": 176025,
+      "word": "还以为大爷带双胞胎散步呢",
+      "onboard_time": 1715573960,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 175168,
@@ -907,20 +963,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171917,
-      "num": 171917,
-      "word": "王鹤棣新综艺官宣",
-      "onboard_time": 1715574081,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169864,
       "num": 169864,
       "word": "滴滴回应女子突然收到天价订单",
       "onboard_time": 1715560758,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169236,
+      "num": 169236,
+      "word": "龚俊又在黄晓明面前唱闹太套",
+      "onboard_time": 1715573000,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 165927,
@@ -963,6 +1019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155547,
+      "num": 155547,
+      "word": "李晨张真源车内上演rap节目",
+      "onboard_time": 1715574021,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154809,
       "num": 154809,
       "word": "曼联0比1阿森纳",
@@ -1003,12 +1067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147522,
-      "num": 147522,
-      "word": "还以为大爷带双胞胎散步呢",
-      "onboard_time": 1715573960,
+      "raw_hot": 143937,
+      "num": 143937,
+      "word": "白人饭不要吃成糊弄饭",
+      "onboard_time": 1715574801,
       "rank": 47,
-      "category": "情感"
+      "category": "美食"
     },
     {
       "raw_hot": 142920,
@@ -1267,6 +1331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 73390,
+      "num": 1686265,
+      "word": "匈牙利百年建筑散发出浓浓中国味",
+      "onboard_time": 1715573781,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68753,
       "num": 60989,
       "word": "散步是低成本的心理治疗",
@@ -1323,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37067,
-      "num": 1569950,
-      "word": "匈牙利百年建筑散发出浓浓中国味",
-      "onboard_time": 1715573781,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24668,
       "num": 27035,
       "word": "林俊杰陪地震后的小朋友过儿童节",
@@ -1372,6 +1436,9 @@
     },
     {
       "word": "#总书记与母亲的温暖瞬间#"
+    },
+    {
+      "word": "#习近平2024欧洲之行高光时刻#"
     }
   ]
 }
