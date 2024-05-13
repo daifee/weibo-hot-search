@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715635148537,
+  "endTime": 1715636081378,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -34427,6 +34427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92898,
+      "num": 21371,
+      "word": "23点到1点是头发生长高峰期",
+      "onboard_time": 1715630830,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 92828,
       "num": 92828,
       "word": "G2对战PSG",
@@ -34761,14 +34769,6 @@
       "onboard_time": 1715506157,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 84353,
-      "num": 19682,
-      "word": "23点到1点是头发生长高峰期",
-      "onboard_time": 1715630830,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 83948,
@@ -36155,6 +36155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 46940,
+      "num": 44245,
+      "word": "李承铉让Lucky等弟弟长大后再收拾",
+      "onboard_time": 1715626211,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46359,
       "num": 121142,
       "word": "如果我写家乡",
@@ -36248,14 +36256,6 @@
       "word": "那英蝶窦共鸣",
       "onboard_time": 1715352743,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 44245,
-      "num": 44245,
-      "word": "李承铉让Lucky等弟弟长大后再收拾",
-      "onboard_time": 1715626211,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -36659,6 +36659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27074,
+      "num": 27074,
+      "word": "穿搭博主对通勤是不是有什么误解",
+      "onboard_time": 1715631551,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 25773,
       "num": 27708,
       "word": "李沁拿鸡腿",
@@ -36681,14 +36689,6 @@
       "onboard_time": 1714480397,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25646,
-      "num": 25646,
-      "word": "穿搭博主对通勤是不是有什么误解",
-      "onboard_time": 1715631551,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 25495,
@@ -36859,6 +36859,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 20898,
+      "num": 20898,
+      "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
+      "onboard_time": 1715627351,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20473,
       "num": 20473,
       "word": "Alielie发文澄清",
@@ -36889,6 +36897,14 @@
       "onboard_time": 1715194391,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18442,
+      "num": 18442,
+      "word": "郁金香蛋糕也太好看了",
+      "onboard_time": 1715634550,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 18030,
@@ -36955,12 +36971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14160,
-      "num": 14160,
-      "word": "郁金香蛋糕也太好看了",
-      "onboard_time": 1715634550,
-      "rank": 41,
-      "category": "美食"
+      "raw_hot": 14836,
+      "num": 15204,
+      "word": "衣服的正确叠法",
+      "onboard_time": 1715633170,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 14087,
@@ -36969,14 +36985,6 @@
       "onboard_time": 1714937591,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 13957,
-      "num": 13957,
-      "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
-      "onboard_time": 1715627351,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13919,
@@ -37001,14 +37009,6 @@
       "onboard_time": 1714761372,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13515,
-      "num": 13957,
-      "word": "衣服的正确叠法",
-      "onboard_time": 1715633170,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 13435,
