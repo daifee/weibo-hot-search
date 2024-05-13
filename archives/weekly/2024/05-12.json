@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715592942857,
+  "endTime": 1715595598539,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -65,6 +65,14 @@
       "onboard_time": 1715568859,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2406183,
+      "num": 2406183,
+      "word": "微笑 退赛",
+      "onboard_time": 1715592919,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 2389196,
@@ -323,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1161811,
+      "num": 1161811,
+      "word": "难听",
+      "onboard_time": 1715592499,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1131050,
       "num": 1131050,
       "word": "歌手踢馆",
@@ -377,6 +393,14 @@
       "onboard_time": 1715494340,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1092049,
+      "num": 634430,
+      "word": "韩红拿了冠军还要发简历",
+      "onboard_time": 1715589858,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1083466,
@@ -539,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 873747,
-      "num": 352932,
-      "word": "韩红拿了冠军还要发简历",
-      "onboard_time": 1715589858,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 869966,
       "num": 444770,
       "word": "男人肚子越来越大的5个原因",
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 822283,
-      "num": 351298,
+      "num": 519286,
       "word": "群演曝李一桐打戏替身情况",
       "onboard_time": 1715589200,
       "rank": 31,
@@ -753,6 +769,14 @@
       "onboard_time": 1715484139,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 742141,
+      "num": 742141,
+      "word": "南通女孩家属呼吁大家不要再点食物",
+      "onboard_time": 1715591420,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 738708,
@@ -1171,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514090,
+      "num": 514090,
+      "word": "动物园称死亡老虎不属于园方",
+      "onboard_time": 1715594477,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510937,
       "num": 472671,
       "word": "五旬守国门三旬吃拉面",
@@ -1184,6 +1216,14 @@
       "word": "苗苗回应救场奔跑吧",
       "onboard_time": 1715582719,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 509459,
+      "num": 509459,
+      "word": "那英摇人宣传片",
+      "onboard_time": 1715592439,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1220,7 +1260,7 @@
     },
     {
       "raw_hot": 502026,
-      "num": 254898,
+      "num": 277503,
       "word": "中医建议不要太频繁的刮痧",
       "onboard_time": 1715589858,
       "rank": 24,
@@ -1484,7 +1524,7 @@
     },
     {
       "raw_hot": 418734,
-      "num": 253892,
+      "num": 262600,
       "word": "最苦的两个英子",
       "onboard_time": 1715588600,
       "rank": 29,
@@ -1580,7 +1620,7 @@
     },
     {
       "raw_hot": 399270,
-      "num": 254046,
+      "num": 275288,
       "word": "aespa好癫的MV",
       "onboard_time": 1715592259,
       "rank": 22,
@@ -1707,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365031,
-      "num": 286253,
-      "word": "南通女孩家属呼吁大家不要再点食物",
-      "onboard_time": 1715591420,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363329,
       "num": 261587,
       "word": "香港大学偶遇奚梦瑶上课",
@@ -1803,6 +1835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 351727,
+      "num": 351727,
+      "word": "官方通报动物园20只东北虎死亡",
+      "onboard_time": 1715595077,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351150,
       "num": 272533,
       "word": "谭晶能返场上歌手吗",
@@ -1812,7 +1852,7 @@
     },
     {
       "raw_hot": 351125,
-      "num": 351125,
+      "num": 603989,
       "word": "大熊猫保护研究中心原副主任张海清被查",
       "onboard_time": 1715589139,
       "rank": 39,
@@ -2003,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322638,
+      "num": 276107,
+      "word": "孟子义感谢苗苗救场",
+      "onboard_time": 1715594660,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321215,
       "num": 321215,
       "word": "偷感考研人vs装感考研人",
@@ -2131,14 +2179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293134,
-      "num": 251292,
-      "word": "难听",
-      "onboard_time": 1715592499,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287991,
       "num": 173356,
       "word": "黄妈实力",
@@ -2235,6 +2275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 272202,
+      "num": 272202,
+      "word": "今年以来油价最大跌幅来了",
+      "onboard_time": 1715592200,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 271761,
       "num": 271761,
       "word": "elk和on比心",
@@ -2297,6 +2345,14 @@
       "onboard_time": 1715572159,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262351,
+      "num": 262351,
+      "word": "欧阳娜娜 Diploma",
+      "onboard_time": 1715593459,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 261996,
@@ -2403,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251270,
+      "num": 251270,
+      "word": "金多贤出演韩版那些年女主",
+      "onboard_time": 1715594238,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250942,
       "num": 280806,
       "word": "小米宣布与京东全面深化战略合作",
@@ -2419,12 +2483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250303,
-      "num": 250303,
-      "word": "那英摇人宣传片",
-      "onboard_time": 1715592439,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 248265,
+      "num": 248265,
+      "word": "我发现大学生一旦过了11周",
+      "onboard_time": 1715593760,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 248163,
@@ -2724,7 +2788,7 @@
     },
     {
       "raw_hot": 213966,
-      "num": 1082744,
+      "num": 1184316,
       "word": "国家一级博物馆最全名单",
       "onboard_time": 1715586979,
       "rank": 2,
@@ -2737,6 +2801,14 @@
       "onboard_time": 1715576182,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212393,
+      "num": 212393,
+      "word": "HYBE说要给NewJeans放一年半的假",
+      "onboard_time": 1715593639,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 211283,
@@ -2955,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194921,
+      "num": 158171,
+      "word": "张杰唱了着魔",
+      "onboard_time": 1715595318,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193708,
       "num": 193708,
       "word": "中学男生偷拍女子裙底被抓现行",
@@ -3107,12 +3187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189414,
+      "num": 153431,
+      "word": "张杰杭州演唱会高光回顾",
+      "onboard_time": 1715594720,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189054,
       "num": 189054,
       "word": "向佐演变态",
       "onboard_time": 1715476098,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189033,
+      "num": 156524,
+      "word": "ENHYPEN空降成绩",
+      "onboard_time": 1715594839,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 188927,
@@ -3163,6 +3259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183402,
+      "num": 183402,
+      "word": "博士毕业都从事了什么工作",
+      "onboard_time": 1715593100,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 183063,
       "num": 183063,
       "word": "梦之队投票预热",
@@ -3177,6 +3281,14 @@
       "onboard_time": 1715513423,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182435,
+      "num": 155827,
+      "word": "ZB1主打",
+      "onboard_time": 1715594360,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 182266,
@@ -3483,14 +3595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164827,
-      "num": 255036,
-      "word": "今年以来油价最大跌幅来了",
-      "onboard_time": 1715592200,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 164567,
       "num": 164567,
       "word": "学生时代的同学真的是人脉吗",
@@ -3635,6 +3739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158901,
+      "num": 158901,
+      "word": "阿勒泰旅游",
+      "onboard_time": 1715594540,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 158890,
       "num": 158890,
       "word": "芒果的文案功底",
@@ -3771,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152489,
+      "num": 152489,
+      "word": "不满月的小米SU7坏了",
+      "onboard_time": 1715595440,
+      "rank": 46,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 152188,
       "num": 152188,
       "word": "第五人格",
@@ -3801,6 +3921,14 @@
       "onboard_time": 1715562019,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149298,
+      "num": 556508,
+      "word": "记者北川直播白蝴蝶入镜6次",
+      "onboard_time": 1715593820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148890,
@@ -3931,6 +4059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142158,
+      "num": 142158,
+      "word": "心跳出现3个异常或是心梗猝死信号",
+      "onboard_time": 1715593699,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141986,
       "num": 141986,
       "word": "白夜追凶2",
@@ -4051,6 +4187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137276,
+      "num": 137276,
+      "word": "这个班级就业率好高",
+      "onboard_time": 1715595381,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136539,
       "num": 136539,
       "word": "小猫偷溜进笼里陪猫爸做绝育",
@@ -4113,14 +4257,6 @@
       "onboard_time": 1715481078,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132246,
-      "num": 165853,
-      "word": "微笑 退赛",
-      "onboard_time": 1715592919,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 132244,
@@ -4204,7 +4340,7 @@
     },
     {
       "raw_hot": 126139,
-      "num": 164386,
+      "num": 262441,
       "word": "官方账号做霸总短剧杀疯了",
       "onboard_time": 1715592679,
       "rank": 48,
@@ -4321,6 +4457,14 @@
       "onboard_time": 1715476817,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120757,
+      "num": 570097,
+      "word": "河南17名高中生拟保送清北",
+      "onboard_time": 1715592978,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 120643,
