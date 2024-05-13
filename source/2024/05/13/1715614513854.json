@@ -1,0 +1,410 @@
+{
+  "runTime": 1715614513854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2100434,
+        "num": 2100434,
+        "word": "欧阳娜娜回应",
+        "onboard_time": 1715612180,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1532801,
+        "num": 1532801,
+        "word": "中方决定不同意台湾地区参加今年世卫大会",
+        "onboard_time": 1715598198,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21940,
+        "num": 833659,
+        "word": "一起打卡夏天里的中国",
+        "onboard_time": 1715583677,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823324,
+        "num": 823324,
+        "word": "张杰曾为去歌手赔款",
+        "onboard_time": 1715611761,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665284,
+        "num": 665284,
+        "word": "专家称房价下降会致国民资产缩水",
+        "onboard_time": 1715609240,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 569125,
+        "num": 569125,
+        "word": "Uzi G2",
+        "onboard_time": 1715610441,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 798883,
+        "num": 557104,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674371,
+        "num": 552309,
+        "word": "那英王菲 好嗑",
+        "onboard_time": 1715606361,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532002,
+        "num": 532002,
+        "word": "院长被校内观光车撞死认定司机全责",
+        "onboard_time": 1715611638,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255831,
+        "num": 514917,
+        "word": "唐氏变脸女孩妈妈流泪发声",
+        "onboard_time": 1715609479,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262079,
+        "num": 475326,
+        "word": "麦当劳中国声明",
+        "onboard_time": 1715612479,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 688781,
+        "num": 467063,
+        "word": "市监回应麦当劳给过期食材换标签",
+        "onboard_time": 1715613439,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578211,
+        "num": 428766,
+        "word": "苗苗用了李晨的化妆师",
+        "onboard_time": 1715610741,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413589,
+        "num": 413589,
+        "word": "歌手导演",
+        "onboard_time": 1715608760,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367440,
+        "num": 367440,
+        "word": "奔跑吧送了张真源21份生日礼物",
+        "onboard_time": 1715612000,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356035,
+        "num": 356035,
+        "word": "井柏然吃牛排",
+        "onboard_time": 1715608939,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262383,
+        "num": 262383,
+        "word": "官方通报动物园20只东北虎死亡",
+        "onboard_time": 1715595077,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231852,
+        "num": 231852,
+        "word": "G2找Uzi约训练赛",
+        "onboard_time": 1715611042,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222969,
+        "num": 222969,
+        "word": "八段锦动作分解教程",
+        "onboard_time": 1715612240,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 166081,
+        "num": 166081,
+        "word": "蛇哥退出老头杯",
+        "onboard_time": 1715605519,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 886354,
+        "num": 165522,
+        "word": "每天只有3亿人发布朋友圈",
+        "onboard_time": 1715609721,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 448295,
+        "num": 165235,
+        "word": "喝水后有4种表现是肾脏在求救",
+        "onboard_time": 1715610920,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 382747,
+        "num": 164409,
+        "word": "国家电网回应6月1日电费涨价",
+        "onboard_time": 1715599938,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303102,
+        "num": 163715,
+        "word": "赵露思直播的妆是自己化的",
+        "onboard_time": 1715613380,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294717,
+        "num": 163032,
+        "word": "嬛嬛 朕能不能睡中间",
+        "onboard_time": 1715609059,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251293,
+        "num": 162806,
+        "word": "aespa概念",
+        "onboard_time": 1715612719,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241813,
+        "num": 161570,
+        "word": "李娟 责编",
+        "onboard_time": 1715608939,
+        "rank": 26,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 234570,
+        "num": 161136,
+        "word": "中医建议不要太频繁的刮痧",
+        "onboard_time": 1715589858,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205324,
+        "num": 160825,
+        "word": "歌手",
+        "onboard_time": 1715592560,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198011,
+        "num": 159722,
+        "word": "年轻人开始整顿上海相亲角了",
+        "onboard_time": 1715610559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188169,
+        "num": 159346,
+        "word": "上班的累是来自情绪劳动而不是工作本身",
+        "onboard_time": 1715609601,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181633,
+        "num": 158480,
+        "word": "韩红拿了冠军还要发简历",
+        "onboard_time": 1715589858,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180364,
+        "num": 158268,
+        "word": "围读剧本的杨幂",
+        "onboard_time": 1715606839,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175681,
+        "num": 157308,
+        "word": "张凯丽让不扫兴的家长具像化",
+        "onboard_time": 1715611401,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168583,
+        "num": 156608,
+        "word": "韩系在中国为什么不火了",
+        "onboard_time": 1715614039,
+        "rank": 34,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 156364,
+        "num": 156364,
+        "word": "背着善宰跑",
+        "onboard_time": 1715603359,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151088,
+        "num": 151088,
+        "word": "张翰凯丽 无声告别",
+        "onboard_time": 1715601560,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161291,
+        "num": 150521,
+        "word": "杨幂因为关雪对镜头有了新的理解",
+        "onboard_time": 1715612300,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148841,
+        "num": 148841,
+        "word": "那英摇人宣传片",
+        "onboard_time": 1715592439,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114683,
+        "num": 135764,
+        "word": "夫妻车内吵架妻子经过收费站喊救命",
+        "onboard_time": 1715604259,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132218,
+        "num": 132218,
+        "word": "IU都暻秀合作",
+        "onboard_time": 1715609842,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129910,
+        "num": 129910,
+        "word": "歌手前八季热度破亿歌曲",
+        "onboard_time": 1715599400,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129334,
+        "num": 129334,
+        "word": "网友曝李亚鹏拖欠工资",
+        "onboard_time": 1715598919,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118288,
+        "num": 118288,
+        "word": "群演曝李一桐打戏替身情况",
+        "onboard_time": 1715589200,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111497,
+        "num": 111497,
+        "word": "老头杯换人",
+        "onboard_time": 1715601679,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107701,
+        "num": 107701,
+        "word": "庆余年林婉儿原型是林依晨",
+        "onboard_time": 1715584340,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105897,
+        "num": 105897,
+        "word": "微笑疑似退赛",
+        "onboard_time": 1715592919,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105806,
+        "num": 105806,
+        "word": "南通女孩家属呼吁大家不要再点食物",
+        "onboard_time": 1715591420,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87986,
+        "num": 104764,
+        "word": "豪猪宝宝的水果吃播",
+        "onboard_time": 1715613739,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83890,
+        "num": 104049,
+        "word": "71岁大爷山上开店1天卖出1000碗面",
+        "onboard_time": 1715611160,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平2024欧洲之行高光时刻#"
+    }
+  }
+}

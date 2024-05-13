@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715613605464,
+  "endTime": 1715614513854,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -89,6 +89,14 @@
       "onboard_time": 1715511382,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2100434,
+      "num": 2100434,
+      "word": "欧阳娜娜回应",
+      "onboard_time": 1715612180,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2089237,
@@ -195,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1495368,
-      "num": 1495368,
-      "word": "欧阳娜娜回应",
-      "onboard_time": 1715612180,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1483564,
       "num": 1483564,
       "word": "谢娜曾反对张杰去歌手",
@@ -297,6 +297,14 @@
       "onboard_time": 1715494398,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1262079,
+      "num": 519689,
+      "word": "麦当劳中国声明",
+      "onboard_time": 1715612479,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 1256118,
@@ -505,14 +513,6 @@
       "onboard_time": 1715502376,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 973632,
-      "num": 519689,
-      "word": "麦当劳中国声明",
-      "onboard_time": 1715612479,
-      "rank": 10,
-      "category": "美食"
     },
     {
       "raw_hot": 969566,
@@ -955,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688781,
+      "num": 467063,
+      "word": "市监回应麦当劳给过期食材换标签",
+      "onboard_time": 1715613439,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686680,
       "num": 511500,
       "word": "二手玫瑰 整点邪的",
@@ -1291,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532002,
+      "num": 532002,
+      "word": "院长被校内观光车撞死认定司机全责",
+      "onboard_time": 1715611638,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531327,
       "num": 197395,
       "word": "那是姐的姓 红是姐的命",
@@ -1552,14 +1568,6 @@
       "word": "美国变性女撞倒男子后先亲再捅9刀",
       "onboard_time": 1715500338,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472612,
-      "num": 472612,
-      "word": "院长被校内观光车撞死认定司机全责",
-      "onboard_time": 1715611638,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -2003,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367440,
+      "num": 367440,
+      "word": "奔跑吧送了张真源21份生日礼物",
+      "onboard_time": 1715612000,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363329,
       "num": 261587,
       "word": "香港大学偶遇奚梦瑶上课",
@@ -2017,14 +2033,6 @@
       "onboard_time": 1715508921,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 361511,
-      "num": 361511,
-      "word": "奔跑吧送了张真源21份生日礼物",
-      "onboard_time": 1715612000,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 360913,
@@ -2424,6 +2432,14 @@
       "word": "aespa概念",
       "onboard_time": 1715612719,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 303102,
+      "num": 205224,
+      "word": "赵露思直播的妆是自己化的",
+      "onboard_time": 1715613380,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -2939,14 +2955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237757,
-      "num": 205224,
-      "word": "赵露思直播的妆是自己化的",
-      "onboard_time": 1715613380,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236534,
       "num": 488313,
       "word": "在微缩蛋糕上见到了去世前的爸爸",
@@ -3073,6 +3081,14 @@
       "onboard_time": 1715559679,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 222969,
+      "num": 222969,
+      "word": "八段锦动作分解教程",
+      "onboard_time": 1715612240,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 222703,
@@ -3265,14 +3281,6 @@
       "onboard_time": 1715516481,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209050,
-      "num": 209050,
-      "word": "八段锦动作分解教程",
-      "onboard_time": 1715612240,
-      "rank": 17,
-      "category": "运动健身"
     },
     {
       "raw_hot": 208190,
@@ -4081,6 +4089,14 @@
       "onboard_time": 1715495299,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168583,
+      "num": 156608,
+      "word": "韩系在中国为什么不火了",
+      "onboard_time": 1715614039,
+      "rank": 34,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 168247,
@@ -5395,14 +5411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109501,
-      "num": 109501,
-      "word": "市监回应麦当劳给过期食材换标签",
-      "onboard_time": 1715613439,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109384,
       "num": 109384,
       "word": "腾讯回应上线地震预警功能",
@@ -5673,6 +5681,14 @@
       "onboard_time": 1715578878,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 87986,
+      "num": 104764,
+      "word": "豪猪宝宝的水果吃播",
+      "onboard_time": 1715613739,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 87821,
