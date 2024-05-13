@@ -1,6 +1,6 @@
 {
   "startTime": 1715530902232,
-  "endTime": 1715563119039,
+  "endTime": 1715564345956,
   "band_list": [
     {
       "raw_hot": 1811883,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1229921,
-      "num": 535709,
+      "num": 565103,
       "word": "Alin报名歌手",
       "onboard_time": 1715556436,
       "rank": 14,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 729799,
-      "num": 352027,
+      "num": 369722,
       "word": "女子收滴滴7年前7分钟路程天价账单",
       "onboard_time": 1715550191,
       "rank": 11,
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 607341,
-      "num": 291224,
+      "num": 329626,
       "word": "歌手官微回应",
       "onboard_time": 1715515944,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 597997,
+      "num": 597997,
+      "word": "警方通报男子摸车被索赔1万",
+      "onboard_time": 1715562258,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 597136,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 580891,
-      "num": 282558,
+      "num": 302577,
       "word": "刘雯去美国了",
       "onboard_time": 1715561779,
       "rank": 20,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 479883,
-      "num": 281740,
+      "num": 301319,
       "word": "女孩攒够10万后裸辞用利息生活",
       "onboard_time": 1715516602,
       "rank": 22,
@@ -193,6 +201,14 @@
       "onboard_time": 1715558297,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425636,
+      "num": 425636,
+      "word": "成都吉普",
+      "onboard_time": 1715562618,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417996,
@@ -227,19 +243,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 376821,
+      "num": 376821,
+      "word": "麦当劳给过期食材换标签续命",
+      "onboard_time": 1715563639,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 371172,
       "num": 371172,
       "word": "中国南水北调原副总经济师樊新中被查",
       "onboard_time": 1715551572,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362902,
-      "num": 562374,
-      "word": "警方通报男子摸车被索赔1万",
-      "onboard_time": 1715562258,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -299,8 +315,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 304711,
-      "num": 271222,
+      "raw_hot": 337384,
+      "num": 337384,
+      "word": "改成绩事件涉事人员称是为救学生",
+      "onboard_time": 1715563998,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314124,
+      "num": 314124,
       "word": "新华社发了王一博的给妈咪",
       "onboard_time": 1715559738,
       "rank": 26,
@@ -377,14 +401,6 @@
       "onboard_time": 1715537292,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 263781,
-      "num": 263781,
-      "word": "成都吉普",
-      "onboard_time": 1715562618,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258269,
@@ -467,12 +483,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 197642,
+      "num": 197642,
+      "word": "娄艺潇毕业于上戏音乐剧专业",
+      "onboard_time": 1715563938,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193145,
       "num": 193145,
       "word": "周依然演技",
       "onboard_time": 1715562198,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186141,
+      "num": 186141,
+      "word": "二手玫瑰松弛感",
+      "onboard_time": 1715563639,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 180929,
@@ -515,6 +547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161974,
+      "num": 161974,
+      "word": "掘金vs森林狼",
+      "onboard_time": 1715563578,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154809,
       "num": 154809,
       "word": "曼联0比1阿森纳",
@@ -529,6 +569,22 @@
       "onboard_time": 1715510782,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152188,
+      "num": 152188,
+      "word": "第五人格",
+      "onboard_time": 1715563817,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 149403,
+      "num": 364020,
+      "word": "嗓子废了是职业病吗",
+      "onboard_time": 1715562019,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148088,
@@ -553,6 +609,14 @@
       "onboard_time": 1715513182,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124409,
+      "num": 124409,
+      "word": "第五人格约瑟夫",
+      "onboard_time": 1715563217,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 123351,
@@ -699,14 +763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 71167,
-      "num": 339069,
-      "word": "嗓子废了是职业病吗",
-      "onboard_time": 1715562019,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 68753,
       "num": 60989,
       "word": "散步是低成本的心理治疗",
@@ -779,7 +835,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 13692,
+      "raw_hot": 18218,
       "num": 833281,
       "word": "世上最动听的两个字是妈妈",
       "onboard_time": 1715484678,
