@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715728665496,
+  "endTime": 1715729671763,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -6851,6 +6851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 600975,
+      "num": 508537,
+      "word": "西安科大威胁老师改成绩的学生家长身份成谜",
+      "onboard_time": 1715697438,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 600945,
       "num": 249699,
       "word": "阿里宣布杭州全球总部启用",
@@ -7113,6 +7121,14 @@
       "onboard_time": 1715383095,
       "rank": 19,
       "category": "自然"
+    },
+    {
+      "raw_hot": 576359,
+      "num": 576359,
+      "word": "河南3岁男童被恶犬咬伤18天后离世",
+      "onboard_time": 1715727794,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576314,
@@ -8313,14 +8329,6 @@
       "onboard_time": 1714879457,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 508537,
-      "num": 508537,
-      "word": "西安科大威胁老师改成绩的学生家长身份成谜",
-      "onboard_time": 1715697438,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 508441,
@@ -10187,6 +10195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 430870,
+      "num": 430870,
+      "word": "手机被监听一招就能解决",
+      "onboard_time": 1715713331,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 430725,
       "num": 430725,
       "word": "散步是一件亲密且暧昧的事",
@@ -11979,6 +11995,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 373476,
+      "num": 373476,
+      "word": "卷款3500万跑路网店关联公司已注销",
+      "onboard_time": 1715709552,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373393,
       "num": 373393,
       "word": "苗苗自己给自己化妆",
@@ -12859,14 +12883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 348586,
-      "num": 348586,
-      "word": "手机被监听一招就能解决",
-      "onboard_time": 1715713331,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 348488,
       "num": 348488,
       "word": "恭候范闲归京",
@@ -13033,14 +13049,6 @@
       "onboard_time": 1715149341,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343874,
-      "num": 343874,
-      "word": "卷款3500万跑路网店关联公司已注销",
-      "onboard_time": 1715709552,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343681,
@@ -13649,6 +13657,14 @@
       "onboard_time": 1715045358,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327090,
+      "num": 327090,
+      "word": "中国女排3比0韩国女排",
+      "onboard_time": 1715728274,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 327075,
@@ -14968,14 +14984,6 @@
       "word": "专家称高铁涨价是必要的",
       "onboard_time": 1714864935,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290666,
-      "num": 290666,
-      "word": "河南3岁男童被恶犬咬伤18天后离世",
-      "onboard_time": 1715727794,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -16811,6 +16819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 256790,
+      "num": 256790,
+      "word": "湖大回应留学生称南海诸岛是越南领土",
+      "onboard_time": 1715722150,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256254,
       "num": 248867,
       "word": "6万御林军没干过3万常州铁骑",
@@ -17771,6 +17787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241101,
+      "num": 241101,
+      "word": "沈小婷回国第一站跑男",
+      "onboard_time": 1715711292,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241082,
       "num": 241082,
       "word": "王楚钦孙颖莎奥运兼三项",
@@ -18065,14 +18089,6 @@
       "onboard_time": 1714886958,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236870,
-      "num": 236870,
-      "word": "湖大回应留学生称南海诸岛是越南领土",
-      "onboard_time": 1715722150,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236644,
@@ -20779,14 +20795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206539,
-      "num": 206539,
-      "word": "沈小婷回国第一站跑男",
-      "onboard_time": 1715711292,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206148,
       "num": 206148,
       "word": "杨紫ELLE女星销量第一",
@@ -22963,6 +22971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193538,
+      "num": 193538,
+      "word": "河南大风",
+      "onboard_time": 1715728935,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193534,
       "num": 193534,
       "word": "百想眼泪女王颗粒无收",
@@ -24859,14 +24875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181696,
-      "num": 181696,
-      "word": "中国女排3比0韩国女排",
-      "onboard_time": 1715728274,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181677,
       "num": 181677,
       "word": "珠海暴雨",
@@ -26281,6 +26289,14 @@
       "onboard_time": 1714618396,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171900,
+      "num": 171900,
+      "word": "陈晓杨子姗三搭",
+      "onboard_time": 1715714051,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 171889,
@@ -28835,6 +28851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155602,
+      "num": 155602,
+      "word": "多方回应青岛11岁女童疑遭误诊去世",
+      "onboard_time": 1715729116,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155571,
       "num": 155571,
       "word": "张颂文每年生日都有工作",
@@ -28867,11 +28891,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155367,
+      "num": 145969,
+      "word": "杨洋正午剧",
+      "onboard_time": 1715728995,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155324,
       "num": 155324,
       "word": "NBA",
       "onboard_time": 1714620379,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155270,
+      "num": 155270,
+      "word": "热刺0比2曼城",
+      "onboard_time": 1715728274,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -30609,14 +30649,6 @@
       "onboard_time": 1714695618,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144298,
-      "num": 144298,
-      "word": "陈晓杨子姗三搭",
-      "onboard_time": 1715714051,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 144266,
@@ -33211,6 +33243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127242,
+      "num": 117947,
+      "word": "哈兰德梅开二度",
+      "onboard_time": 1715729235,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127224,
       "num": 127224,
       "word": "鬼灭之刃第四季只有5集",
@@ -33531,6 +33571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125278,
+      "num": 125278,
+      "word": "希望职场少一些李亚鹏式老板",
+      "onboard_time": 1715727614,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125186,
       "num": 1030713,
       "word": "塞尔维亚在河流中建房子惊艳了",
@@ -33675,6 +33723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124408,
+      "num": 124408,
+      "word": "阿森纳球迷",
+      "onboard_time": 1715728514,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124391,
       "num": 213482,
       "word": "momo yaya",
@@ -33809,14 +33865,6 @@
       "onboard_time": 1715147001,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 123505,
-      "num": 123505,
-      "word": "热刺0比2曼城",
-      "onboard_time": 1715728274,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 123455,
@@ -34459,6 +34507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118858,
+      "num": 118858,
+      "word": "TES",
+      "onboard_time": 1715728155,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118818,
       "num": 118818,
       "word": "邓超是想了解鹿晗吗",
@@ -34929,6 +34985,14 @@
       "onboard_time": 1715218879,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115287,
+      "num": 115287,
+      "word": "新款iPadAir和Pro启用80%限度充电功能",
+      "onboard_time": 1715728935,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 115265,
@@ -35627,6 +35691,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 109640,
+      "num": 109640,
+      "word": "2024世界女排联赛",
+      "onboard_time": 1715728274,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109632,
       "num": 109632,
       "word": "Bin 继续赢下去吧",
@@ -35913,14 +35985,6 @@
       "onboard_time": 1715723710,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106884,
-      "num": 106884,
-      "word": "2024世界女排联赛",
-      "onboard_time": 1715728274,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 106871,
@@ -37107,6 +37171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88674,
+      "num": 88674,
+      "word": "郑州大风",
+      "onboard_time": 1715729536,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88523,
       "num": 91337,
       "word": "春色寄情人微博开分8.9",
@@ -37379,14 +37451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81089,
-      "num": 81089,
-      "word": "TES",
-      "onboard_time": 1715728155,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 80872,
       "num": 80872,
       "word": "巴菲特或将透露投资的神秘股票",
@@ -37537,6 +37601,14 @@
       "onboard_time": 1714648037,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76986,
+      "num": 76986,
+      "word": "秦岚简直是情绪价值的富翁",
+      "onboard_time": 1715713452,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 76917,
@@ -37691,6 +37763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74448,
+      "num": 74448,
+      "word": "杭盖大连演出主办方致歉",
+      "onboard_time": 1715726052,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73769,
       "num": 73769,
       "word": "那英说张颂文唱歌很难评",
@@ -37761,6 +37841,14 @@
       "onboard_time": 1714763112,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71269,
+      "num": 71269,
+      "word": "韩总统尹锡悦岳母服刑299天后获假释",
+      "onboard_time": 1715729476,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 71068,
@@ -37891,28 +37979,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 68753,
-      "num": 68753,
-      "word": "秦岚简直是情绪价值的富翁",
-      "onboard_time": 1715713452,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 68750,
       "num": 218800,
       "word": "今夏的第一双豆豆鞋",
       "onboard_time": 1715080158,
       "rank": 43,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 68546,
-      "num": 68546,
-      "word": "杭盖大连演出主办方致歉",
-      "onboard_time": 1715726052,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 68401,
@@ -37937,14 +38009,6 @@
       "onboard_time": 1714480578,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67447,
-      "num": 67447,
-      "word": "阿森纳球迷",
-      "onboard_time": 1715728514,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 67294,
@@ -38024,14 +38088,6 @@
       "word": "布拉德皮特60岁状态",
       "onboard_time": 1714843935,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 65481,
-      "num": 65481,
-      "word": "希望职场少一些李亚鹏式老板",
-      "onboard_time": 1715727614,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -38211,6 +38267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61409,
+      "num": 61409,
+      "word": "艾伦陈乔恩获金扫帚影帝后",
+      "onboard_time": 1715729657,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60764,
       "num": 99061,
       "word": "曼联vs阿森纳",
@@ -38377,6 +38441,14 @@
       "onboard_time": 1714725259,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56305,
+      "num": 56305,
+      "word": "国乒历届奥运P卡盘点",
+      "onboard_time": 1715727735,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 56292,
@@ -38827,14 +38899,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 45057,
-      "num": 45057,
-      "word": "国乒历届奥运P卡盘点",
-      "onboard_time": 1715727735,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 44961,
       "num": 375385,
       "word": "雷军五四青年节寄语",
@@ -38920,6 +38984,14 @@
       "word": "小时候妈妈教你走路现在再教一次",
       "onboard_time": 1714858151,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42235,
+      "num": 273876,
+      "word": "男子来派出所求助民警一眼认出是嫌疑人",
+      "onboard_time": 1715728095,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -39419,14 +39491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23243,
-      "num": 256717,
-      "word": "男子来派出所求助民警一眼认出是嫌疑人",
-      "onboard_time": 1715728095,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22967,
       "num": 45394,
       "word": "重生之我在爽文短剧里当演员",
@@ -39788,7 +39852,7 @@
     },
     {
       "raw_hot": 10522,
-      "num": 532168,
+      "num": 624787,
       "word": "累计飞行3500小时他将头盔交给95后徒弟",
       "onboard_time": 1715694079,
       "rank": 2,

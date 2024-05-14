@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715728665496,
+  "endTime": 1715729671763,
   "band_list": [
     {
       "raw_hot": 1126452,
@@ -11,6 +11,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 738391,
+      "num": 738391,
+      "word": "青岛一女童发热输液后死亡",
+      "onboard_time": 1715697020,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605991,
       "num": 605991,
       "word": "歌手报名 没档期",
@@ -19,11 +27,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 594970,
-      "num": 594970,
-      "word": "青岛一女童发热输液后死亡",
-      "onboard_time": 1715697020,
-      "rank": 5,
+      "raw_hot": 600975,
+      "num": 505584,
+      "word": "西安科大威胁老师改成绩的学生家长身份成谜",
+      "onboard_time": 1715697438,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576359,
+      "num": 576359,
+      "word": "河南3岁男童被恶犬咬伤18天后离世",
+      "onboard_time": 1715727794,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -35,14 +51,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 505584,
-      "num": 505584,
-      "word": "西安科大威胁老师改成绩的学生家长身份成谜",
-      "onboard_time": 1715697438,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 504511,
       "num": 504511,
       "word": "张韶涵造型团队没有瓶颈期",
@@ -51,12 +59,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 430870,
+      "num": 430870,
+      "word": "手机被监听一招就能解决",
+      "onboard_time": 1715713331,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 411570,
       "num": 411570,
       "word": "雨霖铃 杨洋",
       "onboard_time": 1715691019,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373476,
+      "num": 373476,
+      "word": "卷款3500万跑路网店关联公司已注销",
+      "onboard_time": 1715709552,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368099,
@@ -83,20 +107,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 348586,
-      "num": 348586,
-      "word": "手机被监听一招就能解决",
-      "onboard_time": 1715713331,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 343874,
-      "num": 343874,
-      "word": "卷款3500万跑路网店关联公司已注销",
-      "onboard_time": 1715709552,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 327090,
+      "num": 327090,
+      "word": "中国女排3比0韩国女排",
+      "onboard_time": 1715728274,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 319786,
@@ -131,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290666,
-      "num": 290666,
-      "word": "河南3岁男童被恶犬咬伤18天后离世",
-      "onboard_time": 1715727794,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278074,
       "num": 278074,
       "word": "心疼费可",
@@ -155,12 +163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236870,
-      "num": 236870,
+      "raw_hot": 256790,
+      "num": 256790,
       "word": "湖大回应留学生称南海诸岛是越南领土",
       "onboard_time": 1715722150,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241101,
+      "num": 241101,
+      "word": "沈小婷回国第一站跑男",
+      "onboard_time": 1715711292,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 236008,
@@ -187,12 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206539,
-      "num": 206539,
-      "word": "沈小婷回国第一站跑男",
-      "onboard_time": 1715711292,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 193538,
+      "num": 193538,
+      "word": "河南大风",
+      "onboard_time": 1715728935,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186373,
@@ -201,14 +217,6 @@
       "onboard_time": 1715697861,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181696,
-      "num": 181696,
-      "word": "中国女排3比0韩国女排",
-      "onboard_time": 1715728274,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 176849,
@@ -227,12 +235,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171900,
+      "num": 171900,
+      "word": "陈晓杨子姗三搭",
+      "onboard_time": 1715714051,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165844,
       "num": 165844,
       "word": "原来还有无刺榴莲",
       "onboard_time": 1715696121,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155602,
+      "num": 155602,
+      "word": "多方回应青岛11岁女童疑遭误诊去世",
+      "onboard_time": 1715729116,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155367,
+      "num": 145969,
+      "word": "杨洋正午剧",
+      "onboard_time": 1715728995,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155270,
+      "num": 155270,
+      "word": "热刺0比2曼城",
+      "onboard_time": 1715728274,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 149642,
@@ -249,14 +289,6 @@
       "onboard_time": 1715674759,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144298,
-      "num": 144298,
-      "word": "陈晓杨子姗三搭",
-      "onboard_time": 1715714051,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 140347,
@@ -307,11 +339,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123505,
-      "num": 123505,
-      "word": "热刺0比2曼城",
-      "onboard_time": 1715728274,
-      "rank": 19,
+      "raw_hot": 127242,
+      "num": 117947,
+      "word": "哈兰德梅开二度",
+      "onboard_time": 1715729235,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125278,
+      "num": 125278,
+      "word": "希望职场少一些李亚鹏式老板",
+      "onboard_time": 1715727614,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124408,
+      "num": 124408,
+      "word": "阿森纳球迷",
+      "onboard_time": 1715728514,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -323,12 +371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118858,
+      "num": 118858,
+      "word": "TES",
+      "onboard_time": 1715728155,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117642,
       "num": 117642,
       "word": "周深 少管我",
       "onboard_time": 1715672298,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115287,
+      "num": 115287,
+      "word": "新款iPadAir和Pro启用80%限度充电功能",
+      "onboard_time": 1715728935,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 114473,
@@ -347,20 +411,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109640,
+      "num": 109640,
+      "word": "2024世界女排联赛",
+      "onboard_time": 1715728274,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106893,
       "num": 106893,
       "word": "别告诉我你第一次听说迎客松会开花",
       "onboard_time": 1715723710,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106884,
-      "num": 106884,
-      "word": "2024世界女排联赛",
-      "onboard_time": 1715728274,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 104350,
@@ -371,20 +435,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100739,
+      "num": 100739,
+      "word": "60后老员工因不会线上请假被开除",
+      "onboard_time": 1715696240,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99564,
       "num": 99564,
       "word": "终于看懂尺寸的差别了",
       "onboard_time": 1715692879,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 98361,
-      "num": 98361,
-      "word": "60后老员工因不会线上请假被开除",
-      "onboard_time": 1715696240,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94888,
@@ -411,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88674,
+      "num": 88674,
+      "word": "郑州大风",
+      "onboard_time": 1715729536,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87549,
       "num": 87549,
       "word": "新生第十集",
@@ -419,20 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81089,
-      "num": 81089,
-      "word": "TES",
-      "onboard_time": 1715728155,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 77829,
       "num": 77829,
       "word": "TES 管泽元",
       "onboard_time": 1715683038,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76986,
+      "num": 76986,
+      "word": "秦岚简直是情绪价值的富翁",
+      "onboard_time": 1715713452,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 76705,
@@ -459,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74448,
+      "num": 74448,
+      "word": "杭盖大连演出主办方致歉",
+      "onboard_time": 1715726052,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73196,
       "num": 73196,
       "word": "12306客服回应高铁有2元矿泉水",
@@ -475,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71269,
+      "num": 71269,
+      "word": "韩总统尹锡悦岳母服刑299天后获假释",
+      "onboard_time": 1715729476,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 69233,
       "num": 69233,
       "word": "晚安大小姐打歌舞台",
@@ -483,36 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68753,
-      "num": 68753,
-      "word": "秦岚简直是情绪价值的富翁",
-      "onboard_time": 1715713452,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 68546,
-      "num": 68546,
-      "word": "杭盖大连演出主办方致歉",
-      "onboard_time": 1715726052,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 67447,
-      "num": 67447,
-      "word": "阿森纳球迷",
-      "onboard_time": 1715728514,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 65481,
-      "num": 65481,
-      "word": "希望职场少一些李亚鹏式老板",
-      "onboard_time": 1715727614,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 61409,
+      "num": 61409,
+      "word": "艾伦陈乔恩获金扫帚影帝后",
+      "onboard_time": 1715729657,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 56418,
@@ -521,6 +585,14 @@
       "onboard_time": 1715678661,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56305,
+      "num": 56305,
+      "word": "国乒历届奥运P卡盘点",
+      "onboard_time": 1715727735,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 53370,
@@ -555,12 +627,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 45057,
-      "num": 45057,
-      "word": "国乒历届奥运P卡盘点",
-      "onboard_time": 1715727735,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 42235,
+      "num": 273876,
+      "word": "男子来派出所求助民警一眼认出是嫌疑人",
+      "onboard_time": 1715728095,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27266,
@@ -593,14 +665,6 @@
       "onboard_time": 1715710031,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23243,
-      "num": 256717,
-      "word": "男子来派出所求助民警一眼认出是嫌疑人",
-      "onboard_time": 1715728095,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16268,
@@ -652,7 +716,7 @@
     },
     {
       "raw_hot": 10522,
-      "num": 532168,
+      "num": 624787,
       "word": "累计飞行3500小时他将头盔交给95后徒弟",
       "onboard_time": 1715694079,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1715729671763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 787423,
+        "num": 787423,
+        "word": "樊振东",
+        "onboard_time": 1715702598,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 738391,
+        "num": 738391,
+        "word": "青岛一女童发热输液后死亡",
+        "onboard_time": 1715697020,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10213,
+        "num": 624787,
+        "word": "累计飞行3500小时他将头盔交给95后徒弟",
+        "onboard_time": 1715694079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576359,
+        "num": 576359,
+        "word": "河南3岁男童被恶犬咬伤18天后离世",
+        "onboard_time": 1715727794,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430870,
+        "num": 430870,
+        "word": "手机被监听一招就能解决",
+        "onboard_time": 1715713331,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 373476,
+        "num": 373476,
+        "word": "卷款3500万跑路网店关联公司已注销",
+        "onboard_time": 1715709552,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354280,
+        "num": 354280,
+        "word": "歌手报名 没档期",
+        "onboard_time": 1715677340,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333993,
+        "num": 333993,
+        "word": "湖南一男子当街持刀杀害女子",
+        "onboard_time": 1715699238,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327090,
+        "num": 327090,
+        "word": "中国女排3比0韩国女排",
+        "onboard_time": 1715728274,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42235,
+        "num": 273876,
+        "word": "男子来派出所求助民警一眼认出是嫌疑人",
+        "onboard_time": 1715728095,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256790,
+        "num": 256790,
+        "word": "湖大回应留学生称南海诸岛是越南领土",
+        "onboard_time": 1715722150,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241101,
+        "num": 241101,
+        "word": "沈小婷回国第一站跑男",
+        "onboard_time": 1715711292,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202345,
+        "num": 202345,
+        "word": "张韶涵造型团队没有瓶颈期",
+        "onboard_time": 1715699000,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193538,
+        "num": 193538,
+        "word": "河南大风",
+        "onboard_time": 1715728935,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193484,
+        "num": 193484,
+        "word": "微信背景图",
+        "onboard_time": 1715674759,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178284,
+        "num": 178284,
+        "word": "雨霖铃 杨洋",
+        "onboard_time": 1715691019,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174922,
+        "num": 174922,
+        "word": "井柏然说和黄觉演对手要自然不刻意",
+        "onboard_time": 1715722330,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171900,
+        "num": 171900,
+        "word": "陈晓杨子姗三搭",
+        "onboard_time": 1715714051,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155602,
+        "num": 155602,
+        "word": "多方回应青岛11岁女童疑遭误诊去世",
+        "onboard_time": 1715729116,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155270,
+        "num": 155270,
+        "word": "热刺0比2曼城",
+        "onboard_time": 1715728274,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600975,
+        "num": 148018,
+        "word": "西安科大威胁老师改成绩的学生家长身份成谜",
+        "onboard_time": 1715697438,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228523,
+        "num": 147062,
+        "word": "女子大量咳血体内有个20岁肿瘤",
+        "onboard_time": 1715691557,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155367,
+        "num": 145969,
+        "word": "杨洋正午剧",
+        "onboard_time": 1715728995,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139691,
+        "num": 139691,
+        "word": "董明珠再回应玫瑰空调被吐槽",
+        "onboard_time": 1715697861,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136351,
+        "num": 136351,
+        "word": "难哄海报",
+        "onboard_time": 1715694979,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125278,
+        "num": 125278,
+        "word": "希望职场少一些李亚鹏式老板",
+        "onboard_time": 1715727614,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124408,
+        "num": 124408,
+        "word": "阿森纳球迷",
+        "onboard_time": 1715728514,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118858,
+        "num": 118858,
+        "word": "TES",
+        "onboard_time": 1715728155,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118693,
+        "num": 118693,
+        "word": "多地地铁电梯不再提倡左行右立",
+        "onboard_time": 1715693059,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118467,
+        "num": 118467,
+        "word": "IVE MV画面",
+        "onboard_time": 1715697680,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127242,
+        "num": 117947,
+        "word": "哈兰德梅开二度",
+        "onboard_time": 1715729235,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115287,
+        "num": 115287,
+        "word": "新款iPadAir和Pro启用80%限度充电功能",
+        "onboard_time": 1715728935,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109640,
+        "num": 109640,
+        "word": "2024世界女排联赛",
+        "onboard_time": 1715728274,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104493,
+        "num": 104493,
+        "word": "花少北 小号",
+        "onboard_time": 1715692279,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 100739,
+        "num": 100739,
+        "word": "60后老员工因不会线上请假被开除",
+        "onboard_time": 1715696240,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100543,
+        "num": 100543,
+        "word": "别告诉我你第一次听说迎客松会开花",
+        "onboard_time": 1715723710,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88674,
+        "num": 88674,
+        "word": "郑州大风",
+        "onboard_time": 1715729536,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87461,
+        "num": 87461,
+        "word": "奸淫幼女小学老师死刑上诉被驳回",
+        "onboard_time": 1715676799,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77077,
+        "num": 77077,
+        "word": "王自健张国立居然演上父子了",
+        "onboard_time": 1715700859,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76986,
+        "num": 76986,
+        "word": "秦岚简直是情绪价值的富翁",
+        "onboard_time": 1715713452,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76158,
+        "num": 76158,
+        "word": "第15届金扫帚奖获奖名单",
+        "onboard_time": 1715691798,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74448,
+        "num": 74448,
+        "word": "杭盖大连演出主办方致歉",
+        "onboard_time": 1715726052,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73779,
+        "num": 73779,
+        "word": "JackeyLove 管泽元",
+        "onboard_time": 1715688678,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71269,
+        "num": 71269,
+        "word": "韩总统尹锡悦岳母服刑299天后获假释",
+        "onboard_time": 1715729476,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 69400,
+        "num": 69400,
+        "word": "赵露思将参与巴黎奥运火炬传递",
+        "onboard_time": 1715697799,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68014,
+        "num": 68014,
+        "word": "终于看懂尺寸的差别了",
+        "onboard_time": 1715692879,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 65983,
+        "num": 65983,
+        "word": "王妈赵管家be了",
+        "onboard_time": 1715684597,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61409,
+        "num": 61409,
+        "word": "艾伦陈乔恩获金扫帚影帝后",
+        "onboard_time": 1715729657,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59914,
+        "num": 59914,
+        "word": "秦岚说赵丽颖是没有攻击性的女演员",
+        "onboard_time": 1715684297,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56305,
+        "num": 56305,
+        "word": "国乒历届奥运P卡盘点",
+        "onboard_time": 1715727735,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧合作为世界和平发展注入新动能#"
+    }
+  }
+}
