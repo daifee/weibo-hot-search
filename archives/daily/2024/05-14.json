@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715678398253,
+  "endTime": 1715679315792,
   "band_list": [
     {
       "raw_hot": 2577499,
@@ -57,6 +57,14 @@
       "onboard_time": 1715661562,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1672047,
+      "num": 1672047,
+      "word": "歌手报名 没档期",
+      "onboard_time": 1715677340,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1588486,
@@ -161,14 +169,6 @@
       "onboard_time": 1715598198,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 997444,
-      "num": 997444,
-      "word": "歌手报名 没档期",
-      "onboard_time": 1715677340,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 972569,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469735,
+      "num": 385656,
+      "word": "腾讯一季度净利润502.7亿",
+      "onboard_time": 1715677340,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 466754,
       "num": 466754,
       "word": "那英 小说",
@@ -587,6 +595,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 416780,
+      "num": 240838,
+      "word": "杭州退休人员接了个电话400万没了",
+      "onboard_time": 1715675897,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415057,
+      "num": 415057,
+      "word": "罗崇创被执行死刑",
+      "onboard_time": 1715677878,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414226,
       "num": 414226,
       "word": "马龙第四次征战奥运会",
@@ -609,14 +633,6 @@
       "onboard_time": 1715670437,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 405953,
-      "num": 240838,
-      "word": "杭州退休人员接了个电话400万没了",
-      "onboard_time": 1715675897,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404077,
@@ -745,14 +761,6 @@
       "onboard_time": 1715671040,
       "rank": 40,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 289473,
-      "num": 289473,
-      "word": "腾讯一季度净利润502.7亿",
-      "onboard_time": 1715677340,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 289025,
@@ -955,6 +963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243631,
+      "num": 243631,
+      "word": "疑因未刹车让道警车高速路逼停私家车",
+      "onboard_time": 1715676560,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241082,
       "num": 241082,
       "word": "王楚钦孙颖莎奥运兼三项",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1715674218,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232559,
-      "num": 232559,
-      "word": "罗崇创被执行死刑",
-      "onboard_time": 1715677878,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225988,
@@ -1099,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210923,
-      "num": 210923,
-      "word": "疑因未刹车让道警车高速路逼停私家车",
-      "onboard_time": 1715676560,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209385,
       "num": 209385,
       "word": "杨洋军装海报",
@@ -1129,6 +1129,14 @@
       "onboard_time": 1715620394,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205238,
+      "num": 205238,
+      "word": "时尚芭莎六月刊",
+      "onboard_time": 1715679139,
+      "rank": 26,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 204928,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1715651176,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203164,
+      "num": 203164,
+      "word": "G2对战TES",
+      "onboard_time": 1715678661,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 202315,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1715655738,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194893,
+      "num": 194893,
+      "word": "西安科技大学通报教师更改考试成绩",
+      "onboard_time": 1715678779,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 193922,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1715671699,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178201,
+      "num": 178201,
+      "word": "以为张凌赫下楼拿外卖",
+      "onboard_time": 1715677939,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177813,
@@ -1555,14 +1587,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 148534,
-      "num": 148534,
-      "word": "以为张凌赫下楼拿外卖",
-      "onboard_time": 1715677939,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 147569,
       "num": 123455,
       "word": "歌手",
@@ -1755,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128627,
+      "num": 128627,
+      "word": "我们是不是把日子过反了",
+      "onboard_time": 1715679020,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127509,
       "num": 127509,
       "word": "蛇哥退出老头杯",
@@ -1835,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120499,
+      "num": 120499,
+      "word": "12306客服回应高铁有2元矿泉水",
+      "onboard_time": 1715678899,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119100,
       "num": 119100,
       "word": "李娟 责编",
@@ -1873,6 +1913,22 @@
       "onboard_time": 1715643737,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111256,
+      "num": 1478419,
+      "word": "我国发现银河系晕里有一巨大磁环",
+      "onboard_time": 1715678120,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 111135,
+      "num": 111135,
+      "word": "广东一高速收费员称桃子未熟不能走绿通",
+      "onboard_time": 1715679198,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110991,
@@ -2107,6 +2163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54819,
+      "num": 1754877,
+      "word": "山海福建的大食物观",
+      "onboard_time": 1715678420,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54615,
       "num": 54088,
       "word": "东北姥姥第一次见广东外孙",
@@ -2137,14 +2201,6 @@
       "onboard_time": 1715623871,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 33792,
-      "num": 1478419,
-      "word": "我国发现银河系晕里有一巨大磁环",
-      "onboard_time": 1715678120,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 33433,
