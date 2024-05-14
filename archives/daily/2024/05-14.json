@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715667989654,
+  "endTime": 1715668698422,
   "band_list": [
     {
       "raw_hot": 2380658,
@@ -99,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1086300,
+      "num": 1086300,
+      "word": "南韩周也",
+      "onboard_time": 1715662580,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1009868,
       "num": 1009868,
       "word": "中方决定不同意台湾地区参加今年世卫大会",
       "onboard_time": 1715598198,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 972815,
-      "num": 972815,
-      "word": "南韩周也",
-      "onboard_time": 1715662580,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 962744,
@@ -163,11 +163,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 809202,
+      "num": 688341,
+      "word": "庆余年2",
+      "onboard_time": 1715665938,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 804034,
       "num": 804034,
       "word": "歌手揭榜",
       "onboard_time": 1715588180,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 794787,
+      "num": 634011,
+      "word": "综艺史上最潦草的官宣",
+      "onboard_time": 1715665160,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -177,6 +193,14 @@
       "onboard_time": 1715660121,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 788675,
+      "num": 788675,
+      "word": "张雪峰力挺老乡王曼昱",
+      "onboard_time": 1715661562,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 765909,
@@ -219,14 +243,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 714248,
-      "num": 643396,
-      "word": "庆余年2",
-      "onboard_time": 1715665938,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 678831,
       "num": 654807,
       "word": "张杰曾为去歌手赔款",
@@ -235,20 +251,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 678003,
+      "num": 678003,
+      "word": "男子谎称领养将小猫整排牙齿剪断",
+      "onboard_time": 1715664199,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668579,
       "num": 668579,
       "word": "TFBOYS给王源新歌宣传",
       "onboard_time": 1715656158,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 645770,
-      "num": 645770,
-      "word": "男子谎称领养将小猫整排牙齿剪断",
-      "onboard_time": 1715664199,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 639651,
@@ -289,14 +305,6 @@
       "onboard_time": 1715651658,
       "rank": 7,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 568804,
-      "num": 568804,
-      "word": "综艺史上最潦草的官宣",
-      "onboard_time": 1715665160,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 549525,
@@ -467,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 398795,
+      "num": 398795,
+      "word": "王曼昱是巴黎团体第三人不二人选",
+      "onboard_time": 1715667019,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 396581,
       "num": 396581,
       "word": "你为何不喜欢发朋友圈了",
@@ -547,12 +563,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 324987,
-      "num": 324987,
-      "word": "王曼昱是巴黎团体第三人不二人选",
-      "onboard_time": 1715667019,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 325332,
+      "num": 325332,
+      "word": "原来高铁上是有2元的矿泉水的",
+      "onboard_time": 1715667318,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 316735,
@@ -609,6 +625,22 @@
       "onboard_time": 1715610441,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 284214,
+      "num": 284214,
+      "word": "毛不易看与凤行找不到赵丽颖",
+      "onboard_time": 1715668159,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 282861,
+      "num": 282861,
+      "word": "那英 小说",
+      "onboard_time": 1715667501,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 280713,
@@ -723,6 +755,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 253879,
+      "num": 253879,
+      "word": "JINI加入H1KEY",
+      "onboard_time": 1715667858,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247203,
       "num": 247203,
       "word": "微信澄清11个谣言",
@@ -761,14 +801,6 @@
       "onboard_time": 1715609059,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232110,
-      "num": 232110,
-      "word": "那英 小说",
-      "onboard_time": 1715667501,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 225988,
@@ -825,6 +857,14 @@
       "onboard_time": 1715655738,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212200,
+      "num": 212200,
+      "word": "地磁暴是否影响睡眠尚未证实",
+      "onboard_time": 1715667139,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209385,
@@ -907,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198499,
+      "num": 198499,
+      "word": "庆余年2哈哈哈哈哈海报",
+      "onboard_time": 1715667258,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197946,
       "num": 124871,
       "word": "井柏然吃牛排",
@@ -921,14 +969,6 @@
       "onboard_time": 1715655738,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193969,
-      "num": 193969,
-      "word": "庆余年2哈哈哈哈哈海报",
-      "onboard_time": 1715667258,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 190543,
@@ -1003,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179508,
-      "num": 179508,
-      "word": "原来高铁上是有2元的矿泉水的",
-      "onboard_time": 1715667318,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 177813,
       "num": 177813,
       "word": "2024国际乒联第20周排名",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1715656999,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175088,
-      "num": 175088,
-      "word": "JINI加入H1KEY",
-      "onboard_time": 1715667858,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 174306,
@@ -1083,12 +1107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169875,
-      "num": 169875,
-      "word": "地磁暴是否影响睡眠尚未证实",
-      "onboard_time": 1715667139,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 169767,
+      "num": 169767,
+      "word": "凉山女子重度烧伤曾被丈夫多次家暴",
+      "onboard_time": 1715667979,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169406,
@@ -1195,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151979,
+      "num": 151979,
+      "word": "yaoyao被处罚",
+      "onboard_time": 1715668458,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151097,
       "num": 151097,
       "word": "电影援军明日到达定档",
@@ -1283,6 +1315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142503,
+      "num": 142503,
+      "word": "狗 有时候真的很想报警",
+      "onboard_time": 1715667677,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142344,
       "num": 142344,
       "word": "独行侠罚球",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1715658319,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139126,
+      "num": 139126,
+      "word": "比亚迪回应漏电传言",
+      "onboard_time": 1715668339,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 137533,
@@ -1347,12 +1395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131038,
-      "num": 131038,
-      "word": "狗 有时候真的很想报警",
-      "onboard_time": 1715667677,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 130276,
+      "num": 130276,
+      "word": "新版GPT可以和人视频互动",
+      "onboard_time": 1715667918,
+      "rank": 47,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 129854,
@@ -1387,28 +1435,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126229,
-      "num": 126229,
-      "word": "新版GPT可以和人视频互动",
-      "onboard_time": 1715667918,
-      "rank": 47,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 125494,
       "num": 125494,
       "word": "朵莉亚海诺心动手记皮肤",
       "onboard_time": 1715664857,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124862,
-      "num": 124862,
-      "word": "凉山女子重度烧伤曾被丈夫多次家暴",
-      "onboard_time": 1715667979,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124554,
@@ -1739,6 +1771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 28119,
+      "num": 326414,
+      "word": "悦鲜活急了",
+      "onboard_time": 1715667019,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24058,
       "num": 147784,
       "word": "如何用手机拍极光",
@@ -1755,8 +1795,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23260,
-      "num": 195261,
+      "raw_hot": 23535,
+      "num": 328559,
       "word": "520惊喜开箱华为门店",
       "onboard_time": 1715667139,
       "rank": 32,
@@ -1771,12 +1811,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21775,
-      "num": 207719,
-      "word": "悦鲜活急了",
-      "onboard_time": 1715667019,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 18862,
+      "num": 862189,
+      "word": "文化中国行",
+      "onboard_time": 1715667918,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15620,
@@ -1823,14 +1863,6 @@
       "num": 809318,
       "word": "一起打卡夏天里的中国",
       "onboard_time": 1715583677,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6737,
-      "num": 862189,
-      "word": "文化中国行",
-      "onboard_time": 1715667918,
       "rank": 2,
       "category": "社会新闻"
     }

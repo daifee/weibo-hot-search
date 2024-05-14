@@ -1,0 +1,410 @@
+{
+  "runTime": 1715668698422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1086300,
+        "num": 1086300,
+        "word": "南韩周也",
+        "onboard_time": 1715662580,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 788675,
+        "num": 788675,
+        "word": "张雪峰力挺老乡王曼昱",
+        "onboard_time": 1715661562,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18862,
+        "num": 693984,
+        "word": "文化中国行",
+        "onboard_time": 1715667918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809202,
+        "num": 688341,
+        "word": "庆余年2",
+        "onboard_time": 1715665938,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 678003,
+        "num": 678003,
+        "word": "男子谎称领养将小猫整排牙齿剪断",
+        "onboard_time": 1715664199,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644312,
+        "num": 644312,
+        "word": "丈夫婚检查出梅毒后妻子起诉撤销婚姻",
+        "onboard_time": 1715657958,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794787,
+        "num": 634011,
+        "word": "综艺史上最潦草的官宣",
+        "onboard_time": 1715665160,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724121,
+        "num": 611168,
+        "word": "歌手导演洪啸发文",
+        "onboard_time": 1715657359,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586861,
+        "num": 586861,
+        "word": "日本第一季度2万余人孤独死",
+        "onboard_time": 1715663539,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213673,
+        "num": 527596,
+        "word": "他甚至没来得及拍一张全家福",
+        "onboard_time": 1715659519,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514485,
+        "num": 514485,
+        "word": "王曼昱无缘巴黎奥运女单",
+        "onboard_time": 1715656339,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458098,
+        "num": 458098,
+        "word": "六道 花少北",
+        "onboard_time": 1715660121,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 444687,
+        "num": 444687,
+        "word": "巴勒斯坦男子用石头砸落无人机",
+        "onboard_time": 1715664320,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 436742,
+        "num": 436742,
+        "word": "马龙19年的玩笑话成真了",
+        "onboard_time": 1715662041,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414416,
+        "num": 414416,
+        "word": "张杰谈谢娜退出主持群原因",
+        "onboard_time": 1715653877,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398795,
+        "num": 398795,
+        "word": "王曼昱是巴黎团体第三人不二人选",
+        "onboard_time": 1715667019,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386655,
+        "num": 386655,
+        "word": "陈建宁詹雯婷出庭",
+        "onboard_time": 1715662639,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369354,
+        "num": 369354,
+        "word": "歌手2024首轮双揭榜歌手",
+        "onboard_time": 1715658499,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337492,
+        "num": 337492,
+        "word": "长期用吸管喝水可能会加深唇纹",
+        "onboard_time": 1715649978,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23535,
+        "num": 328559,
+        "word": "520惊喜开箱华为门店",
+        "onboard_time": 1715667139,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28119,
+        "num": 326414,
+        "word": "悦鲜活急了",
+        "onboard_time": 1715667019,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325332,
+        "num": 325332,
+        "word": "原来高铁上是有2元的矿泉水的",
+        "onboard_time": 1715667318,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 320271,
+        "num": 320271,
+        "word": "严禁教师漠视纵容学生欺凌",
+        "onboard_time": 1715662639,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300629,
+        "num": 300629,
+        "word": "男朋友无公积金该怎么一起买房",
+        "onboard_time": 1715651477,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284214,
+        "num": 284214,
+        "word": "毛不易看与凤行找不到赵丽颖",
+        "onboard_time": 1715668159,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282861,
+        "num": 282861,
+        "word": "那英 小说",
+        "onboard_time": 1715667501,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273234,
+        "num": 273234,
+        "word": "在浙江原来这个叫服务区啊",
+        "onboard_time": 1715663060,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270290,
+        "num": 270290,
+        "word": "情侣拒绝采访被主持人劝分手",
+        "onboard_time": 1715648599,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253879,
+        "num": 253879,
+        "word": "JINI加入H1KEY",
+        "onboard_time": 1715667858,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212200,
+        "num": 212200,
+        "word": "地磁暴是否影响睡眠尚未证实",
+        "onboard_time": 1715667139,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209759,
+        "num": 209759,
+        "word": "沈小婷将录制奔跑吧",
+        "onboard_time": 1715661861,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207395,
+        "num": 207395,
+        "word": "原来榴莲是这么采摘的",
+        "onboard_time": 1715662881,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 205415,
+        "num": 205415,
+        "word": "脑供血不足面部可能有4个表现",
+        "onboard_time": 1715651898,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201501,
+        "num": 201501,
+        "word": "EXO的前夜是刘宪华写的",
+        "onboard_time": 1715660961,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198499,
+        "num": 198499,
+        "word": "庆余年2哈哈哈哈哈海报",
+        "onboard_time": 1715667258,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190819,
+        "num": 190819,
+        "word": "七彩祥云",
+        "onboard_time": 1715663361,
+        "rank": 35,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 169767,
+        "num": 169767,
+        "word": "凉山女子重度烧伤曾被丈夫多次家暴",
+        "onboard_time": 1715667979,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167763,
+        "num": 167763,
+        "word": "诛仙女主陆雪琪",
+        "onboard_time": 1715643737,
+        "rank": 37,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 160027,
+        "num": 160027,
+        "word": "李亚鹏就欠薪道歉",
+        "onboard_time": 1715654721,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156457,
+        "num": 156457,
+        "word": "严禁以各种方式挤占课间10分钟",
+        "onboard_time": 1715659339,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151979,
+        "num": 151979,
+        "word": "yaoyao被处罚",
+        "onboard_time": 1715668458,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150773,
+        "num": 150773,
+        "word": "杭盖演唱会和歌手直播撞了",
+        "onboard_time": 1715663240,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148702,
+        "num": 148702,
+        "word": "诛仙碧瑶",
+        "onboard_time": 1715648299,
+        "rank": 42,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 147890,
+        "num": 147890,
+        "word": "非升即走下996的大学教师们",
+        "onboard_time": 1715664019,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 144318,
+        "num": 144318,
+        "word": "全世界都在偶遇鹿晗 除了我",
+        "onboard_time": 1715664620,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142503,
+        "num": 142503,
+        "word": "狗 有时候真的很想报警",
+        "onboard_time": 1715667677,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139126,
+        "num": 139126,
+        "word": "比亚迪回应漏电传言",
+        "onboard_time": 1715668339,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130916,
+        "num": 130916,
+        "word": "田曦薇李明德二搭",
+        "onboard_time": 1715658319,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130276,
+        "num": 130276,
+        "word": "新版GPT可以和人视频互动",
+        "onboard_time": 1715667918,
+        "rank": 48,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 125534,
+        "num": 125534,
+        "word": "TheShy谈mlxg与otto事件",
+        "onboard_time": 1715659519,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#严守党的政治纪律和政治规矩#"
+    }
+  }
+}
