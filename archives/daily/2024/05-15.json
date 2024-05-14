@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715722477388,
+  "endTime": 1715725148659,
   "band_list": [
     {
       "raw_hot": 1126452,
@@ -339,6 +339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84334,
+      "num": 84334,
+      "word": "沈小婷回国第一站跑男",
+      "onboard_time": 1715711292,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81757,
+      "num": 65653,
+      "word": "手机被监听一招就能解决",
+      "onboard_time": 1715713331,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 77829,
       "num": 77829,
       "word": "TES 管泽元",
@@ -395,20 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60949,
-      "num": 35050,
-      "word": "手机被监听一招就能解决",
-      "onboard_time": 1715713331,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 60776,
-      "num": 60776,
-      "word": "沈小婷回国第一站跑男",
-      "onboard_time": 1715711292,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 66970,
+      "num": 66970,
+      "word": "井柏然说和黄觉演对手要自然不刻意",
+      "onboard_time": 1715722330,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 56418,
@@ -419,12 +427,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55251,
+      "num": 55251,
+      "word": "湖大回应留学生称南海诸岛是越南领土",
+      "onboard_time": 1715722150,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53370,
       "num": 53370,
       "word": "花少北超话",
       "onboard_time": 1715698760,
       "rank": 49,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 50878,
+      "num": 50878,
+      "word": "陈晓杨子姗三搭",
+      "onboard_time": 1715714051,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 47542,
@@ -435,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40119,
+      "num": 40119,
+      "word": "热刺vs曼城",
+      "onboard_time": 1715710512,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36469,
       "num": 44236,
       "word": "仙剑与轩辕剑版权将被出售",
@@ -443,20 +475,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 36417,
-      "num": 36417,
-      "word": "热刺vs曼城",
-      "onboard_time": 1715710512,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 29333,
+      "num": 29333,
+      "word": "别告诉我你第一次听说迎客松会开花",
+      "onboard_time": 1715723710,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 29386,
-      "num": 29386,
-      "word": "陈晓杨子姗三搭",
-      "onboard_time": 1715714051,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 29197,
+      "num": 27468,
+      "word": "秦岚简直是情绪价值的富翁",
+      "onboard_time": 1715713452,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 27266,
@@ -465,14 +497,6 @@
       "onboard_time": 1715699119,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24872,
-      "num": 24872,
-      "word": "井柏然说和黄觉演对手要自然不刻意",
-      "onboard_time": 1715722330,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 24143,
@@ -491,20 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22315,
-      "num": 19312,
+      "raw_hot": 23999,
+      "num": 23999,
       "word": "留子打败老外靠的是无知",
       "onboard_time": 1715716811,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20369,
-      "num": 18804,
-      "word": "秦岚简直是情绪价值的富翁",
-      "onboard_time": 1715713452,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 16268,
@@ -515,20 +531,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 15033,
-      "num": 15033,
+      "raw_hot": 16050,
+      "num": 21202,
       "word": "眼皮跳可能是面肌痉挛的表现",
       "onboard_time": 1715719870,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 13601,
-      "num": 14891,
-      "word": "湖大回应留学生称南海诸岛是越南领土",
-      "onboard_time": 1715722150,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13506,
