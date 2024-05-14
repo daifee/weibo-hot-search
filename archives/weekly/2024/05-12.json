@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715726091690,
+  "endTime": 1715728665496,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3123,6 +3123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 348586,
+      "num": 348586,
+      "word": "手机被监听一招就能解决",
+      "onboard_time": 1715713331,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 347900,
       "num": 309153,
       "word": "张桂源 停训",
@@ -3137,6 +3145,14 @@
       "onboard_time": 1715696121,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 343874,
+      "num": 343874,
+      "word": "卷款3500万跑路网店关联公司已注销",
+      "onboard_time": 1715709552,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343583,
@@ -3601,6 +3617,14 @@
       "onboard_time": 1715689219,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290666,
+      "num": 290666,
+      "word": "河南3岁男童被恶犬咬伤18天后离世",
+      "onboard_time": 1715727794,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289025,
@@ -4291,6 +4315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 236870,
+      "num": 236870,
+      "word": "湖大回应留学生称南海诸岛是越南领土",
+      "onboard_time": 1715722150,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236534,
       "num": 488313,
       "word": "在微缩蛋糕上见到了去世前的爸爸",
@@ -4825,6 +4857,14 @@
       "onboard_time": 1715591239,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206539,
+      "num": 206539,
+      "word": "沈小婷回国第一站跑男",
+      "onboard_time": 1715711292,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 206101,
@@ -5651,6 +5691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181696,
+      "num": 181696,
+      "word": "中国女排3比0韩国女排",
+      "onboard_time": 1715728274,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180047,
       "num": 583849,
       "word": "记者北川直播白蝴蝶入镜6次",
@@ -5787,6 +5835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176299,
+      "num": 176299,
+      "word": "井柏然说和黄觉演对手要自然不刻意",
+      "onboard_time": 1715722330,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176256,
       "num": 176256,
       "word": "迪丽热巴6300机械姬",
@@ -5872,14 +5928,6 @@
       "word": "栏目组回应主持人采访情侣劝分手",
       "onboard_time": 1715673078,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173930,
-      "num": 173930,
-      "word": "卷款3500万跑路网店关联公司已注销",
-      "onboard_time": 1715709552,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -6827,6 +6875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144298,
+      "num": 144298,
+      "word": "陈晓杨子姗三搭",
+      "onboard_time": 1715714051,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144266,
       "num": 144266,
       "word": "给弟弟开家长会让和家长对视",
@@ -7515,6 +7571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 123505,
+      "num": 123505,
+      "word": "热刺0比2曼城",
+      "onboard_time": 1715728274,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122914,
       "num": 139674,
       "word": "线下的生活真的很贵",
@@ -7939,20 +8003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106893,
+      "num": 106893,
+      "word": "别告诉我你第一次听说迎客松会开花",
+      "onboard_time": 1715723710,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106884,
+      "num": 106884,
+      "word": "2024世界女排联赛",
+      "onboard_time": 1715728274,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106552,
       "num": 106552,
       "word": "狗妈妈得意的表情",
       "onboard_time": 1715492299,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106393,
-      "num": 85435,
-      "word": "手机被监听一招就能解决",
-      "onboard_time": 1715713331,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 105415,
@@ -8001,14 +8073,6 @@
       "onboard_time": 1715470576,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103434,
-      "num": 103434,
-      "word": "沈小婷回国第一站跑男",
-      "onboard_time": 1715711292,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 103275,
@@ -8187,14 +8251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91261,
-      "num": 85380,
-      "word": "湖大回应留学生称南海诸岛是越南领土",
-      "onboard_time": 1715722150,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90468,
       "num": 90468,
       "word": "母亲节快乐",
@@ -8275,14 +8331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85208,
-      "num": 85208,
-      "word": "井柏然说和黄觉演对手要自然不刻意",
-      "onboard_time": 1715722330,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84921,
       "num": 111295,
       "word": "张艺兴汉江猫cha",
@@ -8329,6 +8377,14 @@
       "onboard_time": 1715634550,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 81089,
+      "num": 81089,
+      "word": "TES",
+      "onboard_time": 1715728155,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 80065,
@@ -8403,14 +8459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 69216,
-      "num": 69216,
-      "word": "陈晓杨子姗三搭",
-      "onboard_time": 1715714051,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 69087,
       "num": 69087,
       "word": "头发蛋白矫正",
@@ -8449,6 +8497,38 @@
       "onboard_time": 1715533874,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68753,
+      "num": 68753,
+      "word": "秦岚简直是情绪价值的富翁",
+      "onboard_time": 1715713452,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 68546,
+      "num": 68546,
+      "word": "杭盖大连演出主办方致歉",
+      "onboard_time": 1715726052,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 67447,
+      "num": 67447,
+      "word": "阿森纳球迷",
+      "onboard_time": 1715728514,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65481,
+      "num": 65481,
+      "word": "希望职场少一些李亚鹏式老板",
+      "onboard_time": 1715727614,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 65476,
@@ -8579,6 +8659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51741,
+      "num": 51741,
+      "word": "热刺vs曼城",
+      "onboard_time": 1715710512,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51714,
       "num": 51714,
       "word": "东契奇22分15篮板",
@@ -8635,28 +8723,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 45057,
+      "num": 45057,
+      "word": "国乒历届奥运P卡盘点",
+      "onboard_time": 1715727735,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44800,
       "num": 489806,
       "word": "救援现场猫猫拳对决消防咏春",
       "onboard_time": 1715699119,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44450,
-      "num": 44450,
-      "word": "别告诉我你第一次听说迎客松会开花",
-      "onboard_time": 1715723710,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43268,
-      "num": 43268,
-      "word": "热刺vs曼城",
-      "onboard_time": 1715710512,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 41129,
@@ -8681,14 +8761,6 @@
       "onboard_time": 1715468594,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 38120,
-      "num": 38120,
-      "word": "秦岚简直是情绪价值的富翁",
-      "onboard_time": 1715713452,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 35413,
@@ -8803,6 +8875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23243,
+      "num": 256717,
+      "word": "男子来派出所求助民警一眼认出是嫌疑人",
+      "onboard_time": 1715728095,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22890,
       "num": 30385,
       "word": "这装修真把钱花在刀刃上了",
@@ -8849,14 +8929,6 @@
       "onboard_time": 1715524042,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16277,
-      "num": 25984,
-      "word": "杭盖大连演出主办方致歉",
-      "onboard_time": 1715726052,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 16268,
@@ -8956,7 +9028,7 @@
     },
     {
       "raw_hot": 10522,
-      "num": 180783,
+      "num": 532168,
       "word": "累计飞行3500小时他将头盔交给95后徒弟",
       "onboard_time": 1715694079,
       "rank": 2,
