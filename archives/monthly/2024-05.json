@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715721411938,
+  "endTime": 1715722477388,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -38963,6 +38963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36417,
+      "num": 36417,
+      "word": "热刺vs曼城",
+      "onboard_time": 1715710512,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36019,
       "num": 45541,
       "word": "高息存款正在消失吗",
@@ -38977,14 +38985,6 @@
       "onboard_time": 1714759993,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35638,
-      "num": 35638,
-      "word": "热刺vs曼城",
-      "onboard_time": 1715710512,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 35485,
@@ -39147,6 +39147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29386,
+      "num": 29386,
+      "word": "陈晓杨子姗三搭",
+      "onboard_time": 1715714051,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29308,
       "num": 87232,
       "word": "小鬼脸红星星妆",
@@ -39243,11 +39251,11 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 24983,
-      "num": 24983,
-      "word": "陈晓杨子姗三搭",
-      "onboard_time": 1715714051,
-      "rank": 49,
+      "raw_hot": 24872,
+      "num": 24872,
+      "word": "井柏然说和黄觉演对手要自然不刻意",
+      "onboard_time": 1715722330,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -39363,8 +39371,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21744,
-      "num": 17106,
+      "raw_hot": 22315,
+      "num": 19312,
       "word": "留子打败老外靠的是无知",
       "onboard_time": 1715716811,
       "rank": 32,
@@ -39531,6 +39539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15033,
+      "num": 15033,
+      "word": "眼皮跳可能是面肌痉挛的表现",
+      "onboard_time": 1715719870,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14999,
       "num": 14999,
       "word": "许凯子夜归杀青",
@@ -39579,8 +39595,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 13601,
+      "num": 14891,
+      "word": "湖大回应留学生称南海诸岛是越南领土",
+      "onboard_time": 1715722150,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13506,
-      "num": 14212,
+      "num": 14790,
       "word": "WTA1000",
       "onboard_time": 1715719031,
       "rank": 42,
@@ -39593,14 +39617,6 @@
       "onboard_time": 1714940110,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 12847,
-      "num": 14210,
-      "word": "眼皮跳可能是面肌痉挛的表现",
-      "onboard_time": 1715719870,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 12633,
