@@ -1,7 +1,15 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715675838179,
+  "endTime": 1715678398253,
   "band_list": [
+    {
+      "raw_hot": 2577499,
+      "num": 2577499,
+      "word": "周深 少管我",
+      "onboard_time": 1715672298,
+      "rank": 1,
+      "category": "音乐"
+    },
     {
       "raw_hot": 2380658,
       "num": 2380658,
@@ -16,6 +24,14 @@
       "word": "情侣拒绝采访被主持人劝分手",
       "onboard_time": 1715648599,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2040839,
+      "num": 2040839,
+      "word": "奸淫幼女小学老师死刑上诉被驳回",
+      "onboard_time": 1715676799,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -51,14 +67,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1575436,
-      "num": 1575436,
-      "word": "周深 少管我",
-      "onboard_time": 1715672298,
-      "rank": 1,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1571578,
       "num": 1571578,
       "word": "国乒巴黎奥运参赛大名单",
@@ -73,6 +81,14 @@
       "onboard_time": 1715612180,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1377458,
+      "num": 1377458,
+      "word": "微信背景图",
+      "onboard_time": 1715674759,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 1347604,
@@ -107,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1110122,
+      "num": 1110122,
+      "word": "拜登将宣布对中国电动汽车加征关税",
+      "onboard_time": 1715675538,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1105266,
       "num": 1105266,
       "word": "南韩周也",
@@ -123,12 +147,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1033035,
+      "num": 1033035,
+      "word": "詹雯婷发长文",
+      "onboard_time": 1715674759,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1009868,
       "num": 1009868,
       "word": "中方决定不同意台湾地区参加今年世卫大会",
       "onboard_time": 1715598198,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 997444,
+      "num": 997444,
+      "word": "歌手报名 没档期",
+      "onboard_time": 1715677340,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 972569,
@@ -185,14 +225,6 @@
       "onboard_time": 1715659339,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 834174,
-      "num": 514162,
-      "word": "詹雯婷发长文",
-      "onboard_time": 1715674759,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 809202,
@@ -403,14 +435,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 513165,
-      "num": 513165,
-      "word": "微信背景图",
-      "onboard_time": 1715674759,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 511961,
       "num": 511961,
       "word": "五十公里桃花坞4官宣",
@@ -587,6 +611,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405953,
+      "num": 240838,
+      "word": "杭州退休人员接了个电话400万没了",
+      "onboard_time": 1715675897,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404077,
+      "num": 404077,
+      "word": "海南6岁走失女童已溺水死亡",
+      "onboard_time": 1715675897,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396581,
       "num": 396581,
       "word": "你为何不喜欢发朋友圈了",
@@ -707,6 +747,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 289473,
+      "num": 289473,
+      "word": "腾讯一季度净利润502.7亿",
+      "onboard_time": 1715677340,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 289025,
       "num": 289025,
       "word": "迪丽热巴代言联想",
@@ -793,6 +841,14 @@
       "onboard_time": 1715609240,
       "rank": 11,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 270949,
+      "num": 270949,
+      "word": "李亚鹏欠薪事件当事人再发声",
+      "onboard_time": 1715675479,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 270707,
@@ -931,6 +987,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234469,
+      "num": 234469,
+      "word": "外交部回应拜登将宣布对中国电动汽车加征关税",
+      "onboard_time": 1715675718,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 232987,
+      "num": 232987,
+      "word": "我是歌手的梗",
+      "onboard_time": 1715674218,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232559,
+      "num": 232559,
+      "word": "罗崇创被执行死刑",
+      "onboard_time": 1715677878,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225988,
       "num": 225988,
       "word": "桃花坞",
@@ -1019,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210923,
+      "num": 210923,
+      "word": "疑因未刹车让道警车高速路逼停私家车",
+      "onboard_time": 1715676560,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209385,
       "num": 209385,
       "word": "杨洋军装海报",
@@ -1065,14 +1153,6 @@
       "onboard_time": 1715671338,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 203645,
-      "num": 203645,
-      "word": "我是歌手的梗",
-      "onboard_time": 1715674218,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 203203,
@@ -1145,14 +1225,6 @@
       "onboard_time": 1715655738,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195371,
-      "num": 195371,
-      "word": "李亚鹏欠薪事件当事人再发声",
-      "onboard_time": 1715675479,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 193922,
@@ -1283,6 +1355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174311,
+      "num": 174311,
+      "word": "徐明浩空耳",
+      "onboard_time": 1715676799,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174306,
       "num": 174306,
       "word": "黄奕又上恋综了",
@@ -1339,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168666,
+      "num": 168666,
+      "word": "新式神龙吟铃鹿御前",
+      "onboard_time": 1715675897,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168595,
       "num": 168595,
       "word": "梁靖崑王艺迪奥运P卡",
@@ -1387,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162859,
+      "num": 162859,
+      "word": "梁龙献唱庆余年2OST",
+      "onboard_time": 1715677398,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162667,
       "num": 162667,
       "word": "OpenAI发布GPT4O",
@@ -1409,14 +1505,6 @@
       "onboard_time": 1715656938,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158008,
-      "num": 158008,
-      "word": "拜登将宣布对中国电动汽车加征关税",
-      "onboard_time": 1715675538,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 156508,
@@ -1465,6 +1553,14 @@
       "onboard_time": 1715589858,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148534,
+      "num": 148534,
+      "word": "以为张凌赫下楼拿外卖",
+      "onboard_time": 1715677939,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147569,
@@ -1667,6 +1763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126654,
+      "num": 126654,
+      "word": "骑车遛狗能有多拉风",
+      "onboard_time": 1715677639,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125494,
       "num": 125494,
       "word": "朵莉亚海诺心动手记皮肤",
@@ -1697,6 +1801,14 @@
       "onboard_time": 1715603359,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122649,
+      "num": 122649,
+      "word": "浑身毛茸茸的小狗",
+      "onboard_time": 1715677821,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 121012,
@@ -1737,14 +1849,6 @@
       "onboard_time": 1715646018,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116148,
-      "num": 116148,
-      "word": "外交部回应拜登将宣布对中国电动汽车加征关税",
-      "onboard_time": 1715675718,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 115949,
@@ -2033,6 +2137,14 @@
       "onboard_time": 1715623871,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 33792,
+      "num": 1478419,
+      "word": "我国发现银河系晕里有一巨大磁环",
+      "onboard_time": 1715678120,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33433,
