@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715696263452,
+  "endTime": 1715697261694,
   "band_list": [
     {
       "raw_hot": 2609992,
@@ -483,6 +483,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 656002,
+      "num": 656002,
+      "word": "难哄海报",
+      "onboard_time": 1715694979,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 639651,
       "num": 639651,
       "word": "日本第一季度2万余人孤独死",
@@ -497,14 +505,6 @@
       "onboard_time": 1715651898,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 619541,
-      "num": 619541,
-      "word": "难哄海报",
-      "onboard_time": 1715694979,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 618568,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466435,
+      "num": 466435,
+      "word": "多地地铁电梯不再提倡左行右立",
+      "onboard_time": 1715693059,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466008,
       "num": 466008,
       "word": "巴勒斯坦男子用石头砸落无人机",
@@ -784,14 +792,6 @@
       "word": "南林大副教授首聘期不合格后自杀离世",
       "onboard_time": 1715655378,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427620,
-      "num": 427620,
-      "word": "多地地铁电梯不再提倡左行右立",
-      "onboard_time": 1715693059,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -947,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351000,
+      "num": 351000,
+      "word": "莫文蔚歌单泄露",
+      "onboard_time": 1715693299,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 350772,
       "num": 350772,
       "word": "耳帝推荐吴彤上歌手",
@@ -961,14 +969,6 @@
       "onboard_time": 1715606361,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 336281,
-      "num": 270644,
-      "word": "莫文蔚歌单泄露",
-      "onboard_time": 1715693299,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 333941,
@@ -987,6 +987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 330083,
+      "num": 266166,
+      "word": "终于看懂尺寸的差别了",
+      "onboard_time": 1715692879,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 323790,
       "num": 290253,
       "word": "淘宝天猫成交额双位数增长",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1715668999,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 323417,
-      "num": 266166,
-      "word": "终于看懂尺寸的差别了",
-      "onboard_time": 1715692879,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 321159,
@@ -1155,6 +1155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277436,
+      "num": 252899,
+      "word": "晚安大小姐打歌舞台",
+      "onboard_time": 1715695579,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275761,
       "num": 275761,
       "word": "许嵩南京抢票",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1715609240,
       "rank": 11,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 275195,
+      "num": 275195,
+      "word": "菲律宾",
+      "onboard_time": 1715619434,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 270949,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1715659519,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 265838,
+      "num": 265838,
+      "word": "原来还有无刺榴莲",
+      "onboard_time": 1715696121,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 261062,
@@ -1297,6 +1321,14 @@
       "onboard_time": 1715675058,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249167,
+      "num": 249167,
+      "word": "背着善宰跑第12集",
+      "onboard_time": 1715696301,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 248381,
@@ -1451,14 +1483,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 216749,
-      "num": 216749,
-      "word": "菲律宾",
-      "onboard_time": 1715619434,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 216735,
       "num": 216735,
       "word": "国乒教练组谈奥运名单",
@@ -1569,14 +1593,6 @@
       "onboard_time": 1715647160,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 204263,
-      "num": 204263,
-      "word": "晚安大小姐打歌舞台",
-      "onboard_time": 1715695579,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 204154,
@@ -1771,6 +1787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189241,
+      "num": 189241,
+      "word": "张之臻晋级罗马赛八强",
+      "onboard_time": 1715697141,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188240,
       "num": 188240,
       "word": "光遇复刻",
@@ -1883,6 +1907,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176509,
+      "num": 176509,
+      "word": "青岛一女童发热输液后死亡",
+      "onboard_time": 1715697020,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175628,
+      "num": 175628,
+      "word": "60后老员工因不会线上请假被开除",
+      "onboard_time": 1715696240,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175410,
       "num": 175410,
       "word": "Uzi说AJ想虐TheShy",
@@ -1929,14 +1969,6 @@
       "onboard_time": 1715613439,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171903,
-      "num": 171903,
-      "word": "原来还有无刺榴莲",
-      "onboard_time": 1715696121,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 171346,
@@ -2435,14 +2467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122752,
-      "num": 122752,
-      "word": "60后老员工因不会线上请假被开除",
-      "onboard_time": 1715696240,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122649,
       "num": 122649,
       "word": "浑身毛茸茸的小狗",
@@ -2489,6 +2513,14 @@
       "onboard_time": 1715646018,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116406,
+      "num": 116406,
+      "word": "叫花鸡里没有鸡商家停业整顿15日",
+      "onboard_time": 1715696842,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115949,
@@ -2771,6 +2803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 64293,
+      "num": 897386,
+      "word": "行进看中国",
+      "onboard_time": 1715694320,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63931,
       "num": 111188,
       "word": "围读剧本的杨幂",
@@ -2809,14 +2849,6 @@
       "onboard_time": 1715611160,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55668,
-      "num": 897386,
-      "word": "行进看中国",
-      "onboard_time": 1715694320,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55177,
@@ -2868,7 +2900,7 @@
     },
     {
       "raw_hot": 34259,
-      "num": 174926,
+      "num": 175796,
       "word": "阿里云AI收入三位数增长",
       "onboard_time": 1715693658,
       "rank": 49,

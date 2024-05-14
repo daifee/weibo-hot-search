@@ -1,0 +1,410 @@
+{
+  "runTime": 1715697261694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1344952,
+        "num": 1344952,
+        "word": "雨霖铃 杨洋",
+        "onboard_time": 1715691019,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 815790,
+        "num": 815790,
+        "word": "大满败",
+        "onboard_time": 1715685859,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64293,
+        "num": 811571,
+        "word": "行进看中国",
+        "onboard_time": 1715694320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 810839,
+        "num": 810839,
+        "word": "歌手报名 没档期",
+        "onboard_time": 1715677340,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694074,
+        "num": 694074,
+        "word": "花少北 小号",
+        "onboard_time": 1715692279,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 659068,
+        "num": 659068,
+        "word": "奸淫幼女小学老师死刑上诉被驳回",
+        "onboard_time": 1715676799,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656002,
+        "num": 656002,
+        "word": "难哄海报",
+        "onboard_time": 1715694979,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 618257,
+        "num": 618257,
+        "word": "退休银行职员被查出曾挪用储户存款被捕",
+        "onboard_time": 1715692939,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519062,
+        "num": 519062,
+        "word": "周深 少管我",
+        "onboard_time": 1715672298,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56177,
+        "num": 486745,
+        "word": "藏在博物馆里的文物显眼包",
+        "onboard_time": 1715691919,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466435,
+        "num": 466435,
+        "word": "多地地铁电梯不再提倡左行右立",
+        "onboard_time": 1715693059,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454116,
+        "num": 454116,
+        "word": "微信背景图",
+        "onboard_time": 1715674759,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 443512,
+        "num": 443512,
+        "word": "民政局回应女婴被人丢弃垃圾桶",
+        "onboard_time": 1715692398,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429142,
+        "num": 429142,
+        "word": "王妈赵管家be了",
+        "onboard_time": 1715684597,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426285,
+        "num": 426285,
+        "word": "十个勤天",
+        "onboard_time": 1715693059,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390123,
+        "num": 390123,
+        "word": "TES幽默",
+        "onboard_time": 1715680998,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 351000,
+        "num": 351000,
+        "word": "莫文蔚歌单泄露",
+        "onboard_time": 1715693299,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 336397,
+        "num": 336397,
+        "word": "秦岚说赵丽颖是没有攻击性的女演员",
+        "onboard_time": 1715684297,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275195,
+        "num": 275195,
+        "word": "菲律宾",
+        "onboard_time": 1715693959,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 265838,
+        "num": 265838,
+        "word": "原来还有无刺榴莲",
+        "onboard_time": 1715696121,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1007474,
+        "num": 262382,
+        "word": "女子大量咳血体内有个20岁肿瘤",
+        "onboard_time": 1715691557,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330083,
+        "num": 261440,
+        "word": "终于看懂尺寸的差别了",
+        "onboard_time": 1715692879,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 299595,
+        "num": 261425,
+        "word": "王源直播",
+        "onboard_time": 1715693959,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257390,
+        "num": 257390,
+        "word": "G2战胜TES",
+        "onboard_time": 1715685620,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295667,
+        "num": 254594,
+        "word": "歌手2024",
+        "onboard_time": 1715692340,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277436,
+        "num": 252899,
+        "word": "晚安大小姐打歌舞台",
+        "onboard_time": 1715695579,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249167,
+        "num": 249167,
+        "word": "背着善宰跑第12集",
+        "onboard_time": 1715696301,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248310,
+        "num": 248310,
+        "word": "詹雯婷发长文",
+        "onboard_time": 1715674759,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242082,
+        "num": 242082,
+        "word": "歌手歌单",
+        "onboard_time": 1715680759,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217597,
+        "num": 217597,
+        "word": "第15届金扫帚奖获奖名单",
+        "onboard_time": 1715691798,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215695,
+        "num": 215695,
+        "word": "湖大回应留学生称南海诸岛为越南领土",
+        "onboard_time": 1715687719,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189241,
+        "num": 189241,
+        "word": "张之臻晋级罗马赛八强",
+        "onboard_time": 1715697141,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187519,
+        "num": 187519,
+        "word": "蒋敦豪 田间的舞狮少年",
+        "onboard_time": 1715694320,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186938,
+        "num": 186938,
+        "word": "TheShy说我去G2有机会吗",
+        "onboard_time": 1715694799,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176509,
+        "num": 176509,
+        "word": "青岛一女童发热输液后死亡",
+        "onboard_time": 1715697020,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176301,
+        "num": 176301,
+        "word": "12306客服回应高铁有2元矿泉水",
+        "onboard_time": 1715678899,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33844,
+        "num": 175796,
+        "word": "阿里云AI收入三位数增长",
+        "onboard_time": 1715693658,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175628,
+        "num": 175628,
+        "word": "60后老员工因不会线上请假被开除",
+        "onboard_time": 1715696240,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164370,
+        "num": 164370,
+        "word": "新生第十集",
+        "onboard_time": 1715690358,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163658,
+        "num": 163658,
+        "word": "林巧稚 开始为女性加热鸭嘴钳",
+        "onboard_time": 1715689037,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151466,
+        "num": 151466,
+        "word": "脂肪如何才能排出体外的",
+        "onboard_time": 1715688619,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 141915,
+        "num": 141915,
+        "word": "JackeyLove 管泽元",
+        "onboard_time": 1715688678,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140974,
+        "num": 140974,
+        "word": "仙剑与轩辕剑版权将被出售",
+        "onboard_time": 1715691019,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138715,
+        "num": 138715,
+        "word": "射雕英雄传亮相戛纳电影市场",
+        "onboard_time": 1715689818,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138472,
+        "num": 138472,
+        "word": "那英王菲 搞笑姐妹花",
+        "onboard_time": 1715689757,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137522,
+        "num": 137522,
+        "word": "369 是我们自己的问题",
+        "onboard_time": 1715688678,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128495,
+        "num": 128495,
+        "word": "G2对战TES",
+        "onboard_time": 1715678661,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126480,
+        "num": 126480,
+        "word": "三周瘦肚子",
+        "onboard_time": 1715688559,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 124306,
+        "num": 124306,
+        "word": "微信及WeChat月活13.59亿",
+        "onboard_time": 1715684297,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116406,
+        "num": 116406,
+        "word": "叫花鸡里没有鸡商家停业整顿15日",
+        "onboard_time": 1715696842,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中欧班列高质量发展#"
+    }
+  }
+}
