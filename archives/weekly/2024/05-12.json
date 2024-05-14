@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715714085357,
+  "endTime": 1715715249398,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -8675,6 +8675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 31493,
+      "num": 31493,
+      "word": "手机被监听一招就能解决",
+      "onboard_time": 1715713331,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 30953,
       "num": 303939,
       "word": "逆天了智己L6创造麋鹿新纪录",
@@ -8747,14 +8755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23500,
-      "num": 23500,
-      "word": "手机被监听一招就能解决",
-      "onboard_time": 1715713331,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 22890,
       "num": 30385,
       "word": "这装修真把钱花在刀刃上了",
@@ -8787,7 +8787,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 18804,
+      "raw_hot": 20369,
       "num": 18804,
       "word": "秦岚简直是情绪价值的富翁",
       "onboard_time": 1715713452,
@@ -8811,20 +8811,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17624,
+      "num": 18400,
+      "word": "陈晓杨子姗三搭",
+      "onboard_time": 1715714051,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16268,
       "num": 18403,
       "word": "爱一个本身就很好的人",
       "onboard_time": 1715713990,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16047,
-      "num": 18400,
-      "word": "陈晓杨子姗三搭",
-      "onboard_time": 1715714051,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 15620,

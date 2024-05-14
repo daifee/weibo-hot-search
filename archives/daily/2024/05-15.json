@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715714085357,
+  "endTime": 1715715249398,
   "band_list": [
     {
       "raw_hot": 1126452,
@@ -435,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31493,
+      "num": 31493,
+      "word": "手机被监听一招就能解决",
+      "onboard_time": 1715713331,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28102,
       "num": 28102,
       "word": "热刺vs曼城",
@@ -467,20 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23500,
-      "num": 23500,
-      "word": "手机被监听一招就能解决",
-      "onboard_time": 1715713331,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 18804,
+      "raw_hot": 20369,
       "num": 18804,
       "word": "秦岚简直是情绪价值的富翁",
       "onboard_time": 1715713452,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17624,
+      "num": 18400,
+      "word": "陈晓杨子姗三搭",
+      "onboard_time": 1715714051,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 16268,
@@ -489,14 +497,6 @@
       "onboard_time": 1715713990,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16047,
-      "num": 18400,
-      "word": "陈晓杨子姗三搭",
-      "onboard_time": 1715714051,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 12494,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715714085357,
+  "endTime": 1715715249398,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -39067,6 +39067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31493,
+      "num": 31493,
+      "word": "手机被监听一招就能解决",
+      "onboard_time": 1715713331,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 31105,
       "num": 40906,
       "word": "和动画简直一模一样",
@@ -39291,14 +39299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23500,
-      "num": 23500,
-      "word": "手机被监听一招就能解决",
-      "onboard_time": 1715713331,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 22967,
       "num": 45394,
       "word": "重生之我在爽文短剧里当演员",
@@ -39419,7 +39419,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 18804,
+      "raw_hot": 20369,
       "num": 18804,
       "word": "秦岚简直是情绪价值的富翁",
       "onboard_time": 1715713452,
@@ -39467,6 +39467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17624,
+      "num": 18400,
+      "word": "陈晓杨子姗三搭",
+      "onboard_time": 1715714051,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17451,
       "num": 17451,
       "word": "新款iPadPro搭载M4芯片",
@@ -39489,14 +39497,6 @@
       "onboard_time": 1715713990,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16047,
-      "num": 18400,
-      "word": "陈晓杨子姗三搭",
-      "onboard_time": 1715714051,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 15620,
