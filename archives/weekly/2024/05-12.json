@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715656894628,
+  "endTime": 1715657724442,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -89,6 +89,14 @@
       "onboard_time": 1715511382,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2380658,
+      "num": 2380658,
+      "word": "王曼昱无缘巴黎奥运女单",
+      "onboard_time": 1715656339,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2100434,
@@ -195,20 +203,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1588486,
+      "num": 1588486,
+      "word": "张杰谈谢娜退出主持群原因",
+      "onboard_time": 1715653877,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1571578,
       "num": 1571578,
       "word": "国乒巴黎奥运参赛大名单",
       "onboard_time": 1715653577,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1553483,
-      "num": 1553483,
-      "word": "张杰谈谢娜退出主持群原因",
-      "onboard_time": 1715653877,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1535916,
@@ -249,14 +257,6 @@
       "onboard_time": 1715475857,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1427906,
-      "num": 1427906,
-      "word": "王曼昱无缘巴黎奥运女单",
-      "onboard_time": 1715656339,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1416171,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941757,
+      "num": 286472,
+      "word": "男朋友无公积金该怎么一起买房",
+      "onboard_time": 1715651477,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 933403,
       "num": 933403,
       "word": "谭晶回应去歌手",
@@ -657,14 +665,6 @@
       "onboard_time": 1715483838,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 916883,
-      "num": 286472,
-      "word": "男朋友无公积金该怎么一起买房",
-      "onboard_time": 1715651477,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 893700,
@@ -987,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731427,
+      "num": 731427,
+      "word": "李亚鹏就欠薪道歉",
+      "onboard_time": 1715654721,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 730615,
       "num": 480294,
       "word": "王菲和龚琳娜别打麻将啦",
@@ -1043,14 +1051,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 710624,
-      "num": 710624,
-      "word": "李亚鹏就欠薪道歉",
-      "onboard_time": 1715654721,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 708961,
       "num": 580071,
       "word": "高嘉朗 恳请歌手看看我",
@@ -1105,6 +1105,14 @@
       "onboard_time": 1715585839,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 668579,
+      "num": 668579,
+      "word": "TFBOYS给王源新歌宣传",
+      "onboard_time": 1715656158,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 667854,
@@ -1449,14 +1457,6 @@
       "onboard_time": 1715419880,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 528284,
-      "num": 528284,
-      "word": "TFBOYS给王源新歌宣传",
-      "onboard_time": 1715656158,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 527837,
@@ -1995,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414226,
+      "num": 414226,
+      "word": "马龙第四次征战奥运会",
+      "onboard_time": 1715655619,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414013,
       "num": 315248,
       "word": "贾静雯回应缺席苏有朋演唱会",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1715481317,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401939,
+      "num": 401939,
+      "word": "南林大副教授首聘期不合格后自杀离世",
+      "onboard_time": 1715655378,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401556,
@@ -2193,14 +2209,6 @@
       "onboard_time": 1715567959,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380103,
-      "num": 380103,
-      "word": "马龙第四次征战奥运会",
-      "onboard_time": 1715655619,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 378620,
@@ -2723,14 +2731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307522,
-      "num": 307522,
-      "word": "南林大副教授首聘期不合格后自杀离世",
-      "onboard_time": 1715655378,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304428,
       "num": 206107,
       "word": "aespa概念",
@@ -2859,12 +2859,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285866,
+      "num": 277919,
+      "word": "田曦薇李明德再合作",
+      "onboard_time": 1715656277,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285147,
       "num": 206987,
       "word": "徐怀钰演唱会上自己调侃上座率",
       "onboard_time": 1715641514,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 285147,
+      "num": 285147,
+      "word": "歌手导演洪啸发文",
+      "onboard_time": 1715657359,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 284411,
@@ -2961,6 +2977,14 @@
       "onboard_time": 1715498778,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 272203,
+      "num": 272203,
+      "word": "迪丽热巴代言联想",
+      "onboard_time": 1715656818,
+      "rank": 36,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 272202,
@@ -3299,6 +3323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238297,
+      "num": 238297,
+      "word": "亲人证实南林大自杀副教授患抑郁症",
+      "onboard_time": 1715655678,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236534,
       "num": 488313,
       "word": "在微缩蛋糕上见到了去世前的爸爸",
@@ -3353,14 +3385,6 @@
       "onboard_time": 1715506338,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 230123,
-      "num": 230123,
-      "word": "亲人证实南林大自杀副教授患抑郁症",
-      "onboard_time": 1715655678,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229727,
@@ -3579,6 +3603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216199,
+      "num": 216199,
+      "word": "爱萝莉",
+      "onboard_time": 1715656999,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 215256,
       "num": 215256,
       "word": "山东一地大罐车出事故不明液体外泄",
@@ -3753,14 +3785,6 @@
       "onboard_time": 1715647160,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 204755,
-      "num": 204755,
-      "word": "田曦薇李明德再合作",
-      "onboard_time": 1715656277,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 204205,
@@ -4323,6 +4347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181058,
+      "num": 181058,
+      "word": "何炅两次神级救场都是在歌手",
+      "onboard_time": 1715656818,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180047,
       "num": 583849,
       "word": "记者北川直播白蝴蝶入镜6次",
@@ -4451,6 +4483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175410,
+      "num": 175410,
+      "word": "Uzi说AJ想虐TheShy",
+      "onboard_time": 1715656999,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175168,
       "num": 175168,
       "word": "出走半生归来仍是上班搭子",
@@ -4529,6 +4569,14 @@
       "onboard_time": 1715475917,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171346,
+      "num": 171346,
+      "word": "ENHYPEN将七月回归",
+      "onboard_time": 1715656818,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 171318,
@@ -4907,6 +4955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158720,
+      "num": 158720,
+      "word": "南京林业大学称自杀副教授未被降职",
+      "onboard_time": 1715656938,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158373,
       "num": 167979,
       "word": "前程比爱情重要 爱情比前程难得",
@@ -5097,14 +5153,6 @@
       "onboard_time": 1715600119,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 149472,
-      "num": 149472,
-      "word": "迪丽热巴代言联想",
-      "onboard_time": 1715656818,
-      "rank": 36,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 149403,
@@ -5443,14 +5491,6 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 138691,
-      "num": 138691,
-      "word": "ENHYPEN将七月回归",
-      "onboard_time": 1715656818,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 138590,
       "num": 138590,
       "word": "香蕉不能缓解便秘",
@@ -5763,6 +5803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124554,
+      "num": 124554,
+      "word": "绝区零回应泄密",
+      "onboard_time": 1715657600,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124473,
       "num": 124473,
       "word": "五一后开始考公真的是刚刚好",
@@ -5809,14 +5857,6 @@
       "onboard_time": 1715625312,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 123241,
-      "num": 123241,
-      "word": "何炅两次神级救场都是在歌手",
-      "onboard_time": 1715656818,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 122914,

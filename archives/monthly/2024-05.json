@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715656894628,
+  "endTime": 1715657724442,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -353,6 +353,14 @@
       "onboard_time": 1715511382,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2380658,
+      "num": 2380658,
+      "word": "王曼昱无缘巴黎奥运女单",
+      "onboard_time": 1715656339,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2364982,
@@ -971,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1588486,
+      "num": 1588486,
+      "word": "张杰谈谢娜退出主持群原因",
+      "onboard_time": 1715653877,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1571578,
       "num": 1571578,
       "word": "国乒巴黎奥运参赛大名单",
@@ -1023,14 +1039,6 @@
       "num": 599723,
       "word": "迪丽热巴蓝发",
       "onboard_time": 1714964537,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1553483,
-      "num": 1553483,
-      "word": "张杰谈谢娜退出主持群原因",
-      "onboard_time": 1715653877,
       "rank": 10,
       "category": "综艺"
     },
@@ -1273,14 +1281,6 @@
       "onboard_time": 1715241799,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1427906,
-      "num": 1427906,
-      "word": "王曼昱无缘巴黎奥运女单",
-      "onboard_time": 1715656339,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1425489,
@@ -3035,6 +3035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 941757,
+      "num": 286472,
+      "word": "男朋友无公积金该怎么一起买房",
+      "onboard_time": 1715651477,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 937835,
       "num": 937835,
       "word": "演唱会是一个巨大的乌托邦",
@@ -3145,14 +3153,6 @@
       "onboard_time": 1715483838,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 916883,
-      "num": 286472,
-      "word": "男朋友无公积金该怎么一起买房",
-      "onboard_time": 1715651477,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 916718,
@@ -4747,6 +4747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 731427,
+      "num": 731427,
+      "word": "李亚鹏就欠薪道歉",
+      "onboard_time": 1715654721,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 730615,
       "num": 480294,
       "word": "王菲和龚琳娜别打麻将啦",
@@ -4905,14 +4913,6 @@
       "onboard_time": 1715057120,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 710624,
-      "num": 710624,
-      "word": "李亚鹏就欠薪道歉",
-      "onboard_time": 1715654721,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 710032,
@@ -5457,6 +5457,14 @@
       "onboard_time": 1714557078,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 668579,
+      "num": 668579,
+      "word": "TFBOYS给王源新歌宣传",
+      "onboard_time": 1715656158,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 667854,
@@ -7521,14 +7529,6 @@
       "onboard_time": 1715343799,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 528284,
-      "num": 528284,
-      "word": "TFBOYS给王源新歌宣传",
-      "onboard_time": 1715656158,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 528049,
@@ -10171,6 +10171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414226,
+      "num": 414226,
+      "word": "马龙第四次征战奥运会",
+      "onboard_time": 1715655619,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414013,
       "num": 315248,
       "word": "贾静雯回应缺席苏有朋演唱会",
@@ -10529,6 +10537,14 @@
       "onboard_time": 1715481317,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401939,
+      "num": 401939,
+      "word": "南林大副教授首聘期不合格后自杀离世",
+      "onboard_time": 1715655378,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401775,
@@ -11177,14 +11193,6 @@
       "onboard_time": 1714975998,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 380103,
-      "num": 380103,
-      "word": "马龙第四次征战奥运会",
-      "onboard_time": 1715655619,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 380079,
@@ -13635,14 +13643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307522,
-      "num": 307522,
-      "word": "南林大副教授首聘期不合格后自杀离世",
-      "onboard_time": 1715655378,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307032,
       "num": 307032,
       "word": "恋与深空",
@@ -14355,6 +14355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285866,
+      "num": 277919,
+      "word": "田曦薇李明德再合作",
+      "onboard_time": 1715656277,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285775,
       "num": 285775,
       "word": "林俊杰巡演",
@@ -14393,6 +14401,14 @@
       "onboard_time": 1715641514,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 285147,
+      "num": 285147,
+      "word": "歌手导演洪啸发文",
+      "onboard_time": 1715657359,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 285105,
@@ -15065,6 +15081,14 @@
       "onboard_time": 1715051900,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 272203,
+      "num": 272203,
+      "word": "迪丽热巴代言联想",
+      "onboard_time": 1715656818,
+      "rank": 36,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 272202,
@@ -16995,6 +17019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238297,
+      "num": 238297,
+      "word": "亲人证实南林大自杀副教授患抑郁症",
+      "onboard_time": 1715655678,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238066,
       "num": 238066,
       "word": "阿勒泰极光",
@@ -17497,14 +17529,6 @@
       "onboard_time": 1714828161,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 230123,
-      "num": 230123,
-      "word": "亲人证实南林大自杀副教授患抑郁症",
-      "onboard_time": 1715655678,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230069,
@@ -18649,6 +18673,14 @@
       "onboard_time": 1715577500,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216199,
+      "num": 216199,
+      "word": "爱萝莉",
+      "onboard_time": 1715656999,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 216120,
@@ -19897,14 +19929,6 @@
       "onboard_time": 1715180540,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204755,
-      "num": 204755,
-      "word": "田曦薇李明德再合作",
-      "onboard_time": 1715656277,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 204738,
@@ -23547,6 +23571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181058,
+      "num": 181058,
+      "word": "何炅两次神级救场都是在歌手",
+      "onboard_time": 1715656818,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181037,
       "num": 181037,
       "word": "童瑶发量",
@@ -24315,6 +24347,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 175410,
+      "num": 175410,
+      "word": "Uzi说AJ想虐TheShy",
+      "onboard_time": 1715656999,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175399,
       "num": 276932,
       "word": "一晚两场演唱会民警人海硬控忙不停",
@@ -24937,6 +24977,14 @@
       "onboard_time": 1714530377,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 171346,
+      "num": 171346,
+      "word": "ENHYPEN将七月回归",
+      "onboard_time": 1715656818,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 171318,
@@ -26763,6 +26811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158720,
+      "num": 158720,
+      "word": "南京林业大学称自杀副教授未被降职",
+      "onboard_time": 1715656938,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158718,
       "num": 158718,
       "word": "原来以前的书上什么都教过",
@@ -28169,14 +28225,6 @@
       "onboard_time": 1714575499,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149472,
-      "num": 149472,
-      "word": "迪丽热巴代言联想",
-      "onboard_time": 1715656818,
-      "rank": 36,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 149435,
@@ -29889,14 +29937,6 @@
       "onboard_time": 1715261060,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138691,
-      "num": 138691,
-      "word": "ENHYPEN将七月回归",
-      "onboard_time": 1715656818,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 138688,
@@ -31931,6 +31971,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124554,
+      "num": 124554,
+      "word": "绝区零回应泄密",
+      "onboard_time": 1715657600,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124470,
       "num": 124470,
       "word": "螺蛳粉的六种吃法",
@@ -32105,14 +32153,6 @@
       "onboard_time": 1714553418,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123241,
-      "num": 123241,
-      "word": "何炅两次神级救场都是在歌手",
-      "onboard_time": 1715656818,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 123224,

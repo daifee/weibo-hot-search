@@ -1,0 +1,410 @@
+{
+  "runTime": 1715657724442,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2380658,
+        "num": 2380658,
+        "word": "王曼昱无缘巴黎奥运女单",
+        "onboard_time": 1715656339,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1588486,
+        "num": 1588486,
+        "word": "张杰谈谢娜退出主持群原因",
+        "onboard_time": 1715653877,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40793,
+        "num": 1232106,
+        "word": "我国核电技术已进入世界第一方阵",
+        "onboard_time": 1715605459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047022,
+        "num": 1047022,
+        "word": "情侣拒绝采访被主持人劝分手",
+        "onboard_time": 1715648599,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015090,
+        "num": 1015090,
+        "word": "国乒巴黎奥运参赛大名单",
+        "onboard_time": 1715653577,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 731427,
+        "num": 731427,
+        "word": "李亚鹏就欠薪道歉",
+        "onboard_time": 1715654721,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679481,
+        "num": 679481,
+        "word": "长期用吸管喝水可能会加深唇纹",
+        "onboard_time": 1715649978,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 668579,
+        "num": 668579,
+        "word": "TFBOYS给王源新歌宣传",
+        "onboard_time": 1715656158,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 479666,
+        "num": 479666,
+        "word": "诛仙女主陆雪琪",
+        "onboard_time": 1715643737,
+        "rank": 8,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 127932,
+        "num": 468360,
+        "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
+        "onboard_time": 1715627351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457600,
+        "num": 457600,
+        "word": "五十公里桃花坞4官宣",
+        "onboard_time": 1715653577,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452748,
+        "num": 452748,
+        "word": "青春环游记5阵容官宣",
+        "onboard_time": 1715651058,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427816,
+        "num": 427816,
+        "word": "周深把少管我唱成歌了",
+        "onboard_time": 1715654477,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 418056,
+        "num": 418056,
+        "word": "南阳市委书记朱是西被查",
+        "onboard_time": 1715652919,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414226,
+        "num": 414226,
+        "word": "马龙第四次征战奥运会",
+        "onboard_time": 1715655619,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401939,
+        "num": 401939,
+        "word": "南林大副教授首聘期不合格后自杀离世",
+        "onboard_time": 1715655378,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365666,
+        "num": 365666,
+        "word": "中方决定不同意台湾地区参加今年世卫大会",
+        "onboard_time": 1715598198,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 342189,
+        "num": 342189,
+        "word": "巴黎奥运孙颖莎陈梦出战女单",
+        "onboard_time": 1715654058,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286763,
+        "num": 286763,
+        "word": "张凌赫王楚然G社生图",
+        "onboard_time": 1715651658,
+        "rank": 18,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 285147,
+        "num": 285147,
+        "word": "歌手导演洪啸发文",
+        "onboard_time": 1715657359,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 941757,
+        "num": 282748,
+        "word": "男朋友无公积金该怎么一起买房",
+        "onboard_time": 1715651477,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 613228,
+        "num": 280781,
+        "word": "脑供血不足面部可能有4个表现",
+        "onboard_time": 1715651898,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285866,
+        "num": 277919,
+        "word": "田曦薇李明德再合作",
+        "onboard_time": 1715656277,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272203,
+        "num": 272203,
+        "word": "迪丽热巴代言联想",
+        "onboard_time": 1715656818,
+        "rank": 23,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 266882,
+        "num": 266882,
+        "word": "杭州姑娘清理发霉衣柜肺部长霉菌",
+        "onboard_time": 1715644157,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249668,
+        "num": 249668,
+        "word": "诛仙碧瑶",
+        "onboard_time": 1715648299,
+        "rank": 25,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 243763,
+        "num": 243763,
+        "word": "导演说井柏然吃牛排镜头只拍了一次",
+        "onboard_time": 1715646980,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239278,
+        "num": 239278,
+        "word": "王楚钦孙颖莎奥运兼三项",
+        "onboard_time": 1715656039,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238297,
+        "num": 238297,
+        "word": "亲人证实南林大自杀副教授患抑郁症",
+        "onboard_time": 1715655678,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227629,
+        "num": 227629,
+        "word": "外卖买姨妈巾被冒犯到了",
+        "onboard_time": 1715651477,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216199,
+        "num": 216199,
+        "word": "爱萝莉",
+        "onboard_time": 1715656999,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186856,
+        "num": 186856,
+        "word": "苹果承认新款iPadPro存在渲染失常",
+        "onboard_time": 1715644217,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181058,
+        "num": 181058,
+        "word": "何炅两次神级救场都是在歌手",
+        "onboard_time": 1715656818,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180004,
+        "num": 180004,
+        "word": "孙颖莎世排第一9200分",
+        "onboard_time": 1715654058,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175410,
+        "num": 175410,
+        "word": "Uzi说AJ想虐TheShy",
+        "onboard_time": 1715656999,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171346,
+        "num": 171346,
+        "word": "ENHYPEN将七月回归",
+        "onboard_time": 1715656818,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167573,
+        "num": 167573,
+        "word": "陈梦第二次参加奥运会",
+        "onboard_time": 1715655738,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163703,
+        "num": 163703,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158720,
+        "num": 158720,
+        "word": "南京林业大学称自杀副教授未被降职",
+        "onboard_time": 1715656938,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156188,
+        "num": 156188,
+        "word": "印度30米高广告牌倒塌12人死亡",
+        "onboard_time": 1715651176,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153870,
+        "num": 153870,
+        "word": "耳帝推荐吴彤上歌手",
+        "onboard_time": 1715650219,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142872,
+        "num": 142872,
+        "word": "韩系在中国为什么不火了",
+        "onboard_time": 1715614039,
+        "rank": 41,
+        "category": "财经,美妆"
+      },
+      {
+        "raw_hot": 132660,
+        "num": 132660,
+        "word": "中国乒乓球协会",
+        "onboard_time": 1715655738,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151589,
+        "num": 130403,
+        "word": "歌手有国籍音乐无国界",
+        "onboard_time": 1715644518,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124554,
+        "num": 124554,
+        "word": "绝区零回应泄密",
+        "onboard_time": 1715657600,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124045,
+        "num": 124045,
+        "word": "王楚然李宏毅首搭",
+        "onboard_time": 1715653577,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123996,
+        "num": 123996,
+        "word": "NBA批准詹姆斯儿子参加选秀",
+        "onboard_time": 1715651176,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123846,
+        "num": 123846,
+        "word": "巴黎奥运乒乓项目7月27日开赛",
+        "onboard_time": 1715655918,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122516,
+        "num": 122516,
+        "word": "电影援军明日到达定档",
+        "onboard_time": 1715655438,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120845,
+        "num": 120845,
+        "word": "aespa造型",
+        "onboard_time": 1715651117,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席对法国第三次国事访问纪实#"
+    }
+  }
+}
