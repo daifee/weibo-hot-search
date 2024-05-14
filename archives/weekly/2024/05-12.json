@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715643349167,
+  "endTime": 1715649423724,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1324147,
+      "num": 711790,
+      "word": "诛仙女主陆雪琪",
+      "onboard_time": 1715643737,
+      "rank": 5,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 1299800,
       "num": 1299800,
       "word": "张杰说唱live是歌手最基本的要求",
@@ -313,6 +321,14 @@
       "onboard_time": 1715560518,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1246349,
+      "num": 1246349,
+      "word": "杭州姑娘清理发霉衣柜肺部长霉菌",
+      "onboard_time": 1715644157,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1240629,
@@ -443,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1088898,
+      "num": 1088898,
+      "word": "歌手有国籍音乐无国界",
+      "onboard_time": 1715644518,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1083466,
       "num": 1083466,
       "word": "mlxg退群",
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 956043,
-      "num": 207202,
+      "num": 243928,
       "word": "每天只有3亿人发布朋友圈",
       "onboard_time": 1715609721,
       "rank": 48,
@@ -931,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 716081,
+      "num": 716081,
+      "word": "苹果承认新款iPadPro存在渲染失常",
+      "onboard_time": 1715644217,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 711888,
       "num": 711888,
       "word": "世界公认最丑的鱼",
@@ -969,6 +1001,14 @@
       "onboard_time": 1715613439,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687336,
+      "num": 687336,
+      "word": "导演说井柏然吃牛排镜头只拍了一次",
+      "onboard_time": 1715646980,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 686680,
@@ -1107,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 618568,
+      "num": 618568,
+      "word": "打游戏被当反面教材的男孩4年后送父亲一辆车",
+      "onboard_time": 1715643377,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618281,
       "num": 321063,
       "word": "夫妻车内吵架妻子经过收费站喊救命",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1715522422,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 571653,
+      "num": 571653,
+      "word": "诛仙碧瑶",
+      "onboard_time": 1715648299,
+      "rank": 10,
+      "category": "读书作家"
     },
     {
       "raw_hot": 567476,
@@ -1316,7 +1372,7 @@
     },
     {
       "raw_hot": 527837,
-      "num": 156608,
+      "num": 274368,
       "word": "韩系在中国为什么不火了",
       "onboard_time": 1715614039,
       "rank": 34,
@@ -1324,7 +1380,7 @@
     },
     {
       "raw_hot": 525203,
-      "num": 214729,
+      "num": 404066,
       "word": "巴勒斯坦女子崩溃呼喊我太累了",
       "onboard_time": 1715627413,
       "rank": 48,
@@ -1531,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493718,
+      "num": 493718,
+      "word": "情侣拒绝采访被主持人劝分手",
+      "onboard_time": 1715648599,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490415,
       "num": 280197,
       "word": "赵露思直播的妆是自己化的",
@@ -1604,7 +1668,7 @@
     },
     {
       "raw_hot": 466300,
-      "num": 206941,
+      "num": 208193,
       "word": "喝水后有4种表现是肾脏在求救",
       "onboard_time": 1715610920,
       "rank": 21,
@@ -1716,7 +1780,7 @@
     },
     {
       "raw_hot": 432835,
-      "num": 432835,
+      "num": 575942,
       "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
       "onboard_time": 1715627351,
       "rank": 45,
@@ -1761,6 +1825,14 @@
       "onboard_time": 1715571380,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421230,
+      "num": 282014,
+      "word": "23点到1点是头发生长高峰期",
+      "onboard_time": 1715630830,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 420324,
@@ -1913,6 +1985,14 @@
       "onboard_time": 1715575581,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 396581,
+      "num": 396581,
+      "word": "你为何不喜欢发朋友圈了",
+      "onboard_time": 1715641514,
+      "rank": 31,
+      "category": "情感,互联网"
     },
     {
       "raw_hot": 396568,
@@ -2112,6 +2192,14 @@
       "word": "广西百色一初中生校内坠亡",
       "onboard_time": 1715601919,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360486,
+      "num": 360486,
+      "word": "315曝光的槽头肉企业被罚1287万",
+      "onboard_time": 1715644759,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -2369,14 +2457,6 @@
       "onboard_time": 1715584098,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328217,
-      "num": 134844,
-      "word": "23点到1点是头发生长高峰期",
-      "onboard_time": 1715630830,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 327348,
@@ -2827,6 +2907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258682,
+      "num": 258682,
+      "word": "富婆熊猫的水杯真是意想不到的大",
+      "onboard_time": 1715646437,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258299,
       "num": 224301,
       "word": "刘诗诗业内口碑",
@@ -2857,6 +2945,14 @@
       "onboard_time": 1715577140,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256832,
+      "num": 256832,
+      "word": "李秀满朴振英对待艺人的方式",
+      "onboard_time": 1715647400,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 255581,
@@ -3203,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221913,
+      "num": 221913,
+      "word": "67岁老人一年有300天都在出差",
+      "onboard_time": 1715648959,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221406,
       "num": 221406,
       "word": "内娱歌坛活了",
@@ -3441,6 +3545,14 @@
       "onboard_time": 1715577560,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204928,
+      "num": 204928,
+      "word": "郑合惠子大波浪",
+      "onboard_time": 1715647160,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204205,
@@ -3835,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189811,
+      "num": 189811,
+      "word": "GPT4o将免费使用",
+      "onboard_time": 1715642236,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 189571,
       "num": 156383,
       "word": "纪凌尘问答案之书能不能成为影帝",
@@ -3905,14 +4025,6 @@
       "onboard_time": 1715563639,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185456,
-      "num": 185456,
-      "word": "你为何不喜欢发朋友圈了",
-      "onboard_time": 1715641514,
-      "rank": 31,
-      "category": "情感,互联网"
     },
     {
       "raw_hot": 184556,
@@ -4009,6 +4121,14 @@
       "onboard_time": 1715495418,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177813,
+      "num": 177813,
+      "word": "2024国际乒联第20周排名",
+      "onboard_time": 1715647339,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 177650,
@@ -4353,6 +4473,14 @@
       "onboard_time": 1715508320,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163949,
+      "num": 163949,
+      "word": "中国海警位黄岩岛海域开展常态化训练",
+      "onboard_time": 1715644398,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163537,
@@ -4747,6 +4875,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147297,
+      "num": 147297,
+      "word": "G2邀请Uzi加入",
+      "onboard_time": 1715643377,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 147281,
+      "num": 147281,
+      "word": "我的阿勒泰 意难平",
+      "onboard_time": 1715621172,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146842,
       "num": 146842,
       "word": "宋亚轩表情包",
@@ -4763,20 +4907,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146591,
+      "num": 146591,
+      "word": "歌手2024鉴音团",
+      "onboard_time": 1715646800,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145949,
       "num": 145949,
       "word": "aespa主打曲空降",
       "onboard_time": 1715596818,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 145654,
-      "num": 130628,
-      "word": "我的阿勒泰 意难平",
-      "onboard_time": 1715621172,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 145033,
@@ -5019,6 +5163,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137533,
+      "num": 137533,
+      "word": "爱有用吗 爱当然有用",
+      "onboard_time": 1715647458,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 137341,
+      "num": 137341,
+      "word": "iOS17.5正式版发布",
+      "onboard_time": 1715643437,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 137276,
       "num": 137276,
       "word": "这个班级就业率好高",
@@ -5033,14 +5193,6 @@
       "onboard_time": 1715574142,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136210,
-      "num": 136210,
-      "word": "GPT4o将免费使用",
-      "onboard_time": 1715642236,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 135976,
@@ -5323,6 +5475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123634,
+      "num": 123634,
+      "word": "螺蛳粉官宣英文名",
+      "onboard_time": 1715625312,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122914,
       "num": 139674,
       "word": "线下的生活真的很贵",
@@ -5427,6 +5587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117010,
+      "num": 117010,
+      "word": "田曦薇饭撒",
+      "onboard_time": 1715646018,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116782,
       "num": 116782,
       "word": "71岁大爷山上开店1天卖出1000碗面",
@@ -5513,6 +5681,14 @@
       "onboard_time": 1715585300,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112520,
+      "num": 112520,
+      "word": "奔跑吧送张真源的生日礼物",
+      "onboard_time": 1715643737,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 111599,
@@ -5609,6 +5785,22 @@
       "onboard_time": 1715612360,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107955,
+      "num": 107955,
+      "word": "种地吧",
+      "onboard_time": 1715621653,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107884,
+      "num": 107884,
+      "word": "ChatGPT有桌面版本了",
+      "onboard_time": 1715649318,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 107807,
@@ -5883,8 +6075,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86200,
-      "num": 664654,
+      "raw_hot": 87052,
+      "num": 994972,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
       "rank": 45,
@@ -5921,14 +6113,6 @@
       "onboard_time": 1715417779,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 82832,
-      "num": 82832,
-      "word": "螺蛳粉官宣英文名",
-      "onboard_time": 1715625312,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 82602,
@@ -5976,14 +6160,6 @@
       "word": "陈丽君滤镜掉了",
       "onboard_time": 1715429480,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 77043,
-      "num": 77043,
-      "word": "种地吧",
-      "onboard_time": 1715621653,
-      "rank": 44,
       "category": "综艺"
     },
     {

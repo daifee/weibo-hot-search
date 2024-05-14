@@ -1,0 +1,410 @@
+{
+  "runTime": 1715649423724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1246349,
+        "num": 1246349,
+        "word": "杭州姑娘清理发霉衣柜肺部长霉菌",
+        "onboard_time": 1715644157,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088898,
+        "num": 1088898,
+        "word": "歌手有国籍音乐无国界",
+        "onboard_time": 1715644518,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87052,
+        "num": 994972,
+        "word": "我国核电技术已进入世界第一方阵",
+        "onboard_time": 1715605459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929854,
+        "num": 929854,
+        "word": "中方决定不同意台湾地区参加今年世卫大会",
+        "onboard_time": 1715598198,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 716081,
+        "num": 716081,
+        "word": "苹果承认新款iPadPro存在渲染失常",
+        "onboard_time": 1715644217,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1324147,
+        "num": 711790,
+        "word": "诛仙女主陆雪琪",
+        "onboard_time": 1715643737,
+        "rank": 5,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 687336,
+        "num": 687336,
+        "word": "导演说井柏然吃牛排镜头只拍了一次",
+        "onboard_time": 1715646980,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 654807,
+        "num": 654807,
+        "word": "张杰曾为去歌手赔款",
+        "onboard_time": 1715611761,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618568,
+        "num": 618568,
+        "word": "打游戏被当反面教材的男孩4年后送父亲一辆车",
+        "onboard_time": 1715643377,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304694,
+        "num": 575942,
+        "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
+        "onboard_time": 1715627351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571653,
+        "num": 571653,
+        "word": "诛仙碧瑶",
+        "onboard_time": 1715648299,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 550803,
+        "num": 550803,
+        "word": "院长被校内观光车撞死认定司机全责",
+        "onboard_time": 1715611638,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493718,
+        "num": 493718,
+        "word": "情侣拒绝采访被主持人劝分手",
+        "onboard_time": 1715648599,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404066,
+        "num": 404066,
+        "word": "巴勒斯坦女子崩溃呼喊我太累了",
+        "onboard_time": 1715627413,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 396581,
+        "num": 396581,
+        "word": "你为何不喜欢发朋友圈了",
+        "onboard_time": 1715641514,
+        "rank": 14,
+        "category": "情感,互联网"
+      },
+      {
+        "raw_hot": 396216,
+        "num": 396216,
+        "word": "麦当劳中国声明",
+        "onboard_time": 1715612479,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 376706,
+        "num": 376706,
+        "word": "欧阳娜娜回应",
+        "onboard_time": 1715612180,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360486,
+        "num": 360486,
+        "word": "315曝光的槽头肉企业被罚1287万",
+        "onboard_time": 1715644759,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310648,
+        "num": 310648,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286341,
+        "num": 286341,
+        "word": "李承铉让Lucky等弟弟长大后再收拾",
+        "onboard_time": 1715626211,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421230,
+        "num": 282014,
+        "word": "23点到1点是头发生长高峰期",
+        "onboard_time": 1715630830,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274368,
+        "num": 274368,
+        "word": "韩系在中国为什么不火了",
+        "onboard_time": 1715614039,
+        "rank": 21,
+        "category": "财经,美妆"
+      },
+      {
+        "raw_hot": 258682,
+        "num": 258682,
+        "word": "富婆熊猫的水杯真是意想不到的大",
+        "onboard_time": 1715646437,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256832,
+        "num": 256832,
+        "word": "李秀满朴振英对待艺人的方式",
+        "onboard_time": 1715647400,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256407,
+        "num": 256407,
+        "word": "赵露思直播的妆是自己化的",
+        "onboard_time": 1715613380,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243928,
+        "num": 243928,
+        "word": "每天只有3亿人发布朋友圈",
+        "onboard_time": 1715609721,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 221913,
+        "num": 221913,
+        "word": "67岁老人一年有300天都在出差",
+        "onboard_time": 1715648959,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208193,
+        "num": 208193,
+        "word": "喝水后有4种表现是肾脏在求救",
+        "onboard_time": 1715610920,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204928,
+        "num": 204928,
+        "word": "郑合惠子大波浪",
+        "onboard_time": 1715647160,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204505,
+        "num": 204505,
+        "word": "贾静雯回应缺席苏有朋演唱会",
+        "onboard_time": 1715616259,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204089,
+        "num": 204089,
+        "word": "张铁林不和范伟合作演戏的原因",
+        "onboard_time": 1715615237,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189811,
+        "num": 189811,
+        "word": "GPT4o将免费使用",
+        "onboard_time": 1715642236,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177813,
+        "num": 177813,
+        "word": "2024国际乒联第20周排名",
+        "onboard_time": 1715647339,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174611,
+        "num": 174611,
+        "word": "国家电网回应6月1日电费涨价",
+        "onboard_time": 1715599938,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163949,
+        "num": 163949,
+        "word": "中国海警位黄岩岛海域开展常态化训练",
+        "onboard_time": 1715644398,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147297,
+        "num": 147297,
+        "word": "G2邀请Uzi加入",
+        "onboard_time": 1715643377,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147281,
+        "num": 147281,
+        "word": "我的阿勒泰 意难平",
+        "onboard_time": 1715621172,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146591,
+        "num": 146591,
+        "word": "歌手2024鉴音团",
+        "onboard_time": 1715646800,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137533,
+        "num": 137533,
+        "word": "爱有用吗 爱当然有用",
+        "onboard_time": 1715647458,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137341,
+        "num": 137341,
+        "word": "iOS17.5正式版发布",
+        "onboard_time": 1715643437,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132879,
+        "num": 132879,
+        "word": "徐怀钰演唱会上自己调侃上座率",
+        "onboard_time": 1715641514,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123634,
+        "num": 123634,
+        "word": "螺蛳粉官宣英文名",
+        "onboard_time": 1715625312,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122744,
+        "num": 122744,
+        "word": "菲方对中方的指责毫无根据纯属造谣",
+        "onboard_time": 1715619434,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120639,
+        "num": 120639,
+        "word": "年轻人开始整顿上海相亲角了",
+        "onboard_time": 1715610559,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117010,
+        "num": 117010,
+        "word": "田曦薇饭撒",
+        "onboard_time": 1715646018,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112520,
+        "num": 112520,
+        "word": "奔跑吧送张真源的生日礼物",
+        "onboard_time": 1715643737,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110963,
+        "num": 110963,
+        "word": "医生告诉的摆脱腹部赘肉的方法",
+        "onboard_time": 1715639413,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 107955,
+        "num": 107955,
+        "word": "种地吧",
+        "onboard_time": 1715621653,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107884,
+        "num": 107884,
+        "word": "ChatGPT有桌面版本了",
+        "onboard_time": 1715649318,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107573,
+        "num": 107573,
+        "word": "海口近8吨死鱼将无害化处置",
+        "onboard_time": 1715620394,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#严守党的政治纪律和政治规矩#"
+    }
+  }
+}
