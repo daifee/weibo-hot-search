@@ -1,0 +1,410 @@
+{
+  "runTime": 1715682070798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1952817,
+        "num": 1952817,
+        "word": "周深 少管我",
+        "onboard_time": 1715672298,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1754539,
+        "num": 1754539,
+        "word": "奸淫幼女小学老师死刑上诉被驳回",
+        "onboard_time": 1715676799,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91575,
+        "num": 1683502,
+        "word": "山海福建的大食物观",
+        "onboard_time": 1715678420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1680971,
+        "num": 1680971,
+        "word": "歌手报名 没档期",
+        "onboard_time": 1715677340,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706042,
+        "num": 706042,
+        "word": "微信背景图",
+        "onboard_time": 1715674759,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 439551,
+        "num": 439551,
+        "word": "外交部回应拜登将对中国商品加征关税",
+        "onboard_time": 1715675538,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1212169,
+        "num": 438771,
+        "word": "歌手歌单",
+        "onboard_time": 1715680759,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605357,
+        "num": 438710,
+        "word": "詹雯婷发长文",
+        "onboard_time": 1715674759,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52307,
+        "num": 437798,
+        "word": "偏瘫女童说出完整祝词奶奶眼睛亮了",
+        "onboard_time": 1715680338,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66263,
+        "num": 436911,
+        "word": "赖树上的大熊猫宝宝被一把摘下来了",
+        "onboard_time": 1715679439,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 498221,
+        "num": 435860,
+        "word": "TES幽默",
+        "onboard_time": 1715680998,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 489634,
+        "num": 435594,
+        "word": "腾讯一季度净利润502.7亿",
+        "onboard_time": 1715677340,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 434864,
+        "num": 434864,
+        "word": "南通车祸遇难女孩已入土为安",
+        "onboard_time": 1715670138,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416786,
+        "num": 416786,
+        "word": "G2对战TES",
+        "onboard_time": 1715678661,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 408764,
+        "num": 408764,
+        "word": "华晨宇 山海",
+        "onboard_time": 1715679558,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387192,
+        "num": 387192,
+        "word": "广东一高速收费员称桃子未熟不能走绿通",
+        "onboard_time": 1715679198,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381728,
+        "num": 381728,
+        "word": "疑因未刹车让道警车高速路逼停私家车",
+        "onboard_time": 1715676560,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360451,
+        "num": 360451,
+        "word": "罗崇创被执行死刑",
+        "onboard_time": 1715677878,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341212,
+        "num": 341212,
+        "word": "王者荣耀",
+        "onboard_time": 1715681418,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296233,
+        "num": 296233,
+        "word": "南韩周也",
+        "onboard_time": 1715662580,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 343199,
+        "num": 295853,
+        "word": "杭州退休人员接了个电话400万没了",
+        "onboard_time": 1715675897,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290983,
+        "num": 290983,
+        "word": "海南6岁走失女童已溺水死亡",
+        "onboard_time": 1715675897,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275196,
+        "num": 275196,
+        "word": "丈夫婚检查出梅毒后妻子起诉撤销婚姻",
+        "onboard_time": 1715657958,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261460,
+        "num": 261460,
+        "word": "原来高铁上是有2元的矿泉水的",
+        "onboard_time": 1715667318,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 234181,
+        "num": 234181,
+        "word": "12306客服回应高铁有2元矿泉水",
+        "onboard_time": 1715678899,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219391,
+        "num": 219391,
+        "word": "春雪",
+        "onboard_time": 1715680878,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216145,
+        "num": 216145,
+        "word": "西安科大改成绩事件多人被处分",
+        "onboard_time": 1715673380,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 213597,
+        "num": 213597,
+        "word": "我们是不是把日子过反了",
+        "onboard_time": 1715679020,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205159,
+        "num": 205159,
+        "word": "G2不收徒",
+        "onboard_time": 1715681059,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201624,
+        "num": 201624,
+        "word": "原神4.6",
+        "onboard_time": 1715680579,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192542,
+        "num": 192542,
+        "word": "综艺史上最潦草的官宣",
+        "onboard_time": 1715665160,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185080,
+        "num": 185080,
+        "word": "庆余年2",
+        "onboard_time": 1715665938,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174901,
+        "num": 174901,
+        "word": "以为张凌赫下楼拿外卖",
+        "onboard_time": 1715677939,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169171,
+        "num": 169171,
+        "word": "西安科技大学通报教师更改考试成绩",
+        "onboard_time": 1715678779,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163720,
+        "num": 163720,
+        "word": "河南一商户发现欠燃气费近5亿",
+        "onboard_time": 1715669839,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162560,
+        "num": 162560,
+        "word": "李亚鹏欠薪事件当事人再发声",
+        "onboard_time": 1715675479,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148634,
+        "num": 148634,
+        "word": "王嘉尔希望35岁前成家",
+        "onboard_time": 1715672058,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148623,
+        "num": 148623,
+        "word": "Vernon拍电影",
+        "onboard_time": 1715679378,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148083,
+        "num": 148083,
+        "word": "肖战工作室掉落惊喜",
+        "onboard_time": 1715674519,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141481,
+        "num": 141481,
+        "word": "梁龙献唱庆余年2OST",
+        "onboard_time": 1715677398,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139633,
+        "num": 139633,
+        "word": "王曼昱无缘巴黎奥运女单",
+        "onboard_time": 1715656339,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135669,
+        "num": 135669,
+        "word": "我国发现银河系晕里有一巨大磁环",
+        "onboard_time": 1715678120,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135322,
+        "num": 135322,
+        "word": "时尚芭莎六月刊",
+        "onboard_time": 1715679139,
+        "rank": 42,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 126213,
+        "num": 126213,
+        "word": "为什么男人的花期很短",
+        "onboard_time": 1715675058,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121594,
+        "num": 121594,
+        "word": "白玉兰奖评委会全名单公布",
+        "onboard_time": 1715670437,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120400,
+        "num": 120400,
+        "word": "新冠变异株KP.2多国蔓延",
+        "onboard_time": 1715671159,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118673,
+        "num": 118673,
+        "word": "男子谎称领养将小猫整排牙齿剪断",
+        "onboard_time": 1715664199,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117768,
+        "num": 117768,
+        "word": "六道 花少北",
+        "onboard_time": 1715660121,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 116127,
+        "num": 116127,
+        "word": "普京将对华进行国事访问",
+        "onboard_time": 1715671099,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110163,
+        "num": 110163,
+        "word": "我是歌手的梗",
+        "onboard_time": 1715674218,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中欧班列高质量发展#"
+    }
+  }
+}
