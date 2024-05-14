@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715653772613,
+  "endTime": 1715654425769,
   "band_list": [
     {
       "raw_hot": 2067411,
@@ -9,6 +9,14 @@
       "onboard_time": 1715648599,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1566380,
+      "num": 1566380,
+      "word": "国乒巴黎奥运参赛大名单",
+      "onboard_time": 1715653577,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 1458496,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 916883,
-      "num": 222023,
+      "num": 257923,
       "word": "男朋友无公积金该怎么一起买房",
       "onboard_time": 1715651477,
       "rank": 20,
@@ -147,6 +155,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 543203,
+      "num": 470055,
+      "word": "张杰谈谢娜退出主持群原因",
+      "onboard_time": 1715653877,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527837,
       "num": 274368,
       "word": "韩系在中国为什么不火了",
@@ -161,6 +177,14 @@
       "onboard_time": 1715627413,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 508039,
+      "num": 256699,
+      "word": "脑供血不足面部可能有4个表现",
+      "onboard_time": 1715651898,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 501861,
@@ -235,12 +259,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 375604,
-      "num": 220137,
-      "word": "脑供血不足面部可能有4个表现",
-      "onboard_time": 1715651898,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 366289,
+      "num": 366289,
+      "word": "五十公里桃花坞4官宣",
+      "onboard_time": 1715653577,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 366188,
@@ -273,6 +297,14 @@
       "onboard_time": 1715650219,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344833,
+      "num": 344833,
+      "word": "南阳市委书记朱是西被查",
+      "onboard_time": 1715652919,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340840,
@@ -315,8 +347,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 278186,
-      "num": 216311,
+      "raw_hot": 279292,
+      "num": 255827,
       "word": "外卖买姨妈巾被冒犯到了",
       "onboard_time": 1715651477,
       "rank": 22,
@@ -379,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225988,
+      "num": 225988,
+      "word": "桃花坞",
+      "onboard_time": 1715653757,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224607,
       "num": 125712,
       "word": "官方通报动物园20只东北虎死亡",
@@ -387,12 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223195,
-      "num": 223195,
-      "word": "南阳市委书记朱是西被查",
-      "onboard_time": 1715652919,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 224060,
+      "num": 224060,
+      "word": "巴黎奥运孙颖莎陈梦出战女单",
+      "onboard_time": 1715654058,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217620,
+      "num": 217620,
+      "word": "新款iPad评测",
+      "onboard_time": 1715653998,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 216749,
@@ -435,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201674,
+      "num": 201674,
+      "word": "王楚然李宏毅首搭",
+      "onboard_time": 1715653577,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201612,
       "num": 201612,
       "word": "蒋依依吊带白裙",
@@ -459,28 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196563,
-      "num": 196563,
-      "word": "王楚然李宏毅首搭",
-      "onboard_time": 1715653577,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189811,
       "num": 189811,
       "word": "GPT4o将免费使用",
       "onboard_time": 1715642236,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 185635,
-      "num": 185635,
-      "word": "五十公里桃花坞4官宣",
-      "onboard_time": 1715653577,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 184096,
@@ -497,6 +537,14 @@
       "onboard_time": 1715647339,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176597,
+      "num": 176597,
+      "word": "缅怀焦裕禄",
+      "onboard_time": 1715653877,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174276,
@@ -563,14 +611,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 148936,
-      "num": 148936,
-      "word": "国乒巴黎奥运参赛大名单",
-      "onboard_time": 1715653577,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147569,
       "num": 123455,
       "word": "歌手",
@@ -595,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147168,
+      "num": 147168,
+      "word": "一次主动换来一辈子内向",
+      "onboard_time": 1715652740,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146591,
       "num": 146591,
       "word": "歌手2024鉴音团",
@@ -611,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144047,
+      "num": 144047,
+      "word": "孙颖莎世排第一9200分",
+      "onboard_time": 1715654058,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142816,
       "num": 123157,
       "word": "aespa概念",
@@ -625,14 +681,6 @@
       "onboard_time": 1715621653,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140244,
-      "num": 140244,
-      "word": "一次主动换来一辈子内向",
-      "onboard_time": 1715652740,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 137533,
@@ -771,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110991,
+      "num": 110991,
+      "word": "OpenAI发布会",
+      "onboard_time": 1715650939,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110111,
       "num": 111526,
       "word": "韩红拿了冠军还要发简历",
@@ -803,28 +859,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 103166,
-      "num": 103166,
-      "word": "桃花坞",
-      "onboard_time": 1715653757,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101292,
       "num": 111591,
       "word": "歌手前八季热度破亿歌曲",
       "onboard_time": 1715599400,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96950,
-      "num": 96950,
-      "word": "OpenAI发布会",
-      "onboard_time": 1715650939,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 94825,
@@ -852,7 +892,7 @@
     },
     {
       "raw_hot": 87052,
-      "num": 1033917,
+      "num": 1230299,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
       "rank": 2,

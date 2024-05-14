@@ -1,0 +1,410 @@
+{
+  "runTime": 1715654425769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1891890,
+        "num": 1891890,
+        "word": "情侣拒绝采访被主持人劝分手",
+        "onboard_time": 1715648599,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1566380,
+        "num": 1566380,
+        "word": "国乒巴黎奥运参赛大名单",
+        "onboard_time": 1715653577,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49900,
+        "num": 1230299,
+        "word": "我国核电技术已进入世界第一方阵",
+        "onboard_time": 1715605459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964896,
+        "num": 964896,
+        "word": "青春环游记5阵容官宣",
+        "onboard_time": 1715651058,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 940972,
+        "num": 940972,
+        "word": "长期用吸管喝水可能会加深唇纹",
+        "onboard_time": 1715649978,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 544824,
+        "num": 544824,
+        "word": "诛仙碧瑶",
+        "onboard_time": 1715648299,
+        "rank": 5,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 530474,
+        "num": 530474,
+        "word": "诛仙女主陆雪琪",
+        "onboard_time": 1715643737,
+        "rank": 6,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 518405,
+        "num": 518405,
+        "word": "杭州姑娘清理发霉衣柜肺部长霉菌",
+        "onboard_time": 1715644157,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517007,
+        "num": 517007,
+        "word": "张凌赫王楚然G社生图",
+        "onboard_time": 1715651658,
+        "rank": 8,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 161854,
+        "num": 475125,
+        "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
+        "onboard_time": 1715627351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543203,
+        "num": 470055,
+        "word": "张杰谈谢娜退出主持群原因",
+        "onboard_time": 1715653877,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458402,
+        "num": 458402,
+        "word": "导演说井柏然吃牛排镜头只拍了一次",
+        "onboard_time": 1715646980,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434478,
+        "num": 434478,
+        "word": "印度30米高广告牌倒塌12人死亡",
+        "onboard_time": 1715651176,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414039,
+        "num": 414039,
+        "word": "中方决定不同意台湾地区参加今年世卫大会",
+        "onboard_time": 1715598198,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366289,
+        "num": 366289,
+        "word": "五十公里桃花坞4官宣",
+        "onboard_time": 1715653577,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344833,
+        "num": 344833,
+        "word": "南阳市委书记朱是西被查",
+        "onboard_time": 1715652919,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318000,
+        "num": 318000,
+        "word": "耳帝推荐吴彤上歌手",
+        "onboard_time": 1715650219,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290911,
+        "num": 290911,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266095,
+        "num": 266095,
+        "word": "苹果承认新款iPadPro存在渲染失常",
+        "onboard_time": 1715644217,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 258817,
+        "num": 258817,
+        "word": "歌手有国籍音乐无国界",
+        "onboard_time": 1715644518,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874868,
+        "num": 257923,
+        "word": "男朋友无公积金该怎么一起买房",
+        "onboard_time": 1715651477,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 508039,
+        "num": 256699,
+        "word": "脑供血不足面部可能有4个表现",
+        "onboard_time": 1715651898,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279292,
+        "num": 255827,
+        "word": "外卖买姨妈巾被冒犯到了",
+        "onboard_time": 1715651477,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251327,
+        "num": 251327,
+        "word": "67岁老人一年有300天都在出差",
+        "onboard_time": 1715648959,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227719,
+        "num": 227719,
+        "word": "张杰曾为去歌手赔款",
+        "onboard_time": 1715611761,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225988,
+        "num": 225988,
+        "word": "桃花坞",
+        "onboard_time": 1715653757,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224060,
+        "num": 224060,
+        "word": "巴黎奥运孙颖莎陈梦出战女单",
+        "onboard_time": 1715654058,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217620,
+        "num": 217620,
+        "word": "新款iPad评测",
+        "onboard_time": 1715653998,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208382,
+        "num": 208382,
+        "word": "欧阳娜娜回应",
+        "onboard_time": 1715612180,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201674,
+        "num": 201674,
+        "word": "王楚然李宏毅首搭",
+        "onboard_time": 1715653577,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177385,
+        "num": 177385,
+        "word": "NBA批准詹姆斯儿子参加选秀",
+        "onboard_time": 1715651176,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176597,
+        "num": 176597,
+        "word": "缅怀焦裕禄",
+        "onboard_time": 1715653877,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172245,
+        "num": 172245,
+        "word": "麦当劳中国声明",
+        "onboard_time": 1715612479,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158784,
+        "num": 158784,
+        "word": "韩系在中国为什么不火了",
+        "onboard_time": 1715614039,
+        "rank": 33,
+        "category": "财经,美妆"
+      },
+      {
+        "raw_hot": 149838,
+        "num": 149838,
+        "word": "aespa造型",
+        "onboard_time": 1715651117,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147168,
+        "num": 147168,
+        "word": "一次主动换来一辈子内向",
+        "onboard_time": 1715652740,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144047,
+        "num": 144047,
+        "word": "孙颖莎世排第一9200分",
+        "onboard_time": 1715654058,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143820,
+        "num": 143820,
+        "word": "23点到1点是头发生长高峰期",
+        "onboard_time": 1715630830,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142853,
+        "num": 142853,
+        "word": "富婆熊猫的水杯真是意想不到的大",
+        "onboard_time": 1715646437,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140340,
+        "num": 140340,
+        "word": "每天只有3亿人发布朋友圈",
+        "onboard_time": 1715609721,
+        "rank": 39,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 139776,
+        "num": 139776,
+        "word": "烽影燃梅香阵容官宣",
+        "onboard_time": 1715653278,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132314,
+        "num": 132314,
+        "word": "喝水后有4种表现是肾脏在求救",
+        "onboard_time": 1715610920,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128040,
+        "num": 128040,
+        "word": "院长被校内观光车撞死认定司机全责",
+        "onboard_time": 1715611638,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119232,
+        "num": 119232,
+        "word": "蒋依依吊带白裙",
+        "onboard_time": 1715649859,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115251,
+        "num": 115251,
+        "word": "打游戏被当反面教材的男孩4年后送父亲一辆车",
+        "onboard_time": 1715643377,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114309,
+        "num": 114309,
+        "word": "ChatGPT有桌面版本了",
+        "onboard_time": 1715649318,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110991,
+        "num": 110991,
+        "word": "OpenAI发布会",
+        "onboard_time": 1715650939,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104681,
+        "num": 104681,
+        "word": "诛仙",
+        "onboard_time": 1715651597,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 101080,
+        "num": 101080,
+        "word": "3.1亿年前化石撞脸巧克力脆筒",
+        "onboard_time": 1715653219,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 96659,
+        "num": 96659,
+        "word": "2024国际乒联第20周排名",
+        "onboard_time": 1715647339,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席对法国第三次国事访问纪实#"
+    }
+  }
+}

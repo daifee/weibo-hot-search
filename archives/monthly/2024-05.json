@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715653772613,
+  "endTime": 1715654425769,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -977,6 +977,14 @@
       "onboard_time": 1714639518,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1566380,
+      "num": 1566380,
+      "word": "国乒巴黎奥运参赛大名单",
+      "onboard_time": 1715653577,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 1563229,
@@ -3124,7 +3132,7 @@
     },
     {
       "raw_hot": 916883,
-      "num": 222023,
+      "num": 257923,
       "word": "男朋友无公积金该怎么一起买房",
       "onboard_time": 1715651477,
       "rank": 20,
@@ -7243,6 +7251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 543203,
+      "num": 470055,
+      "word": "张杰谈谢娜退出主持群原因",
+      "onboard_time": 1715653877,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 541975,
       "num": 502123,
       "word": "歌手汪苏泷",
@@ -7889,6 +7905,14 @@
       "onboard_time": 1715245519,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 508039,
+      "num": 256699,
+      "word": "脑供血不足面部可能有4个表现",
+      "onboard_time": 1715651898,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 507845,
@@ -11171,14 +11195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 375604,
-      "num": 220137,
-      "word": "脑供血不足面部可能有4个表现",
-      "onboard_time": 1715651898,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 375518,
       "num": 375518,
       "word": "ILLIT翻跳NewJeans舞蹈",
@@ -11521,6 +11537,14 @@
       "onboard_time": 1715173580,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 366289,
+      "num": 366289,
+      "word": "五十公里桃花坞4官宣",
+      "onboard_time": 1715653577,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 366229,
@@ -12289,6 +12313,14 @@
       "onboard_time": 1715149341,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 344833,
+      "num": 344833,
+      "word": "南阳市委书记朱是西被查",
+      "onboard_time": 1715652919,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343681,
@@ -14683,6 +14715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 279292,
+      "num": 255827,
+      "word": "外卖买姨妈巾被冒犯到了",
+      "onboard_time": 1715651477,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279200,
       "num": 279200,
       "word": "向佐因暴雨错过时代少年团演唱会",
@@ -14745,14 +14785,6 @@
       "onboard_time": 1715177363,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 278186,
-      "num": 216311,
-      "word": "外卖买姨妈巾被冒犯到了",
-      "onboard_time": 1715651477,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 278084,
@@ -17715,6 +17747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225988,
+      "num": 225988,
+      "word": "桃花坞",
+      "onboard_time": 1715653757,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225950,
       "num": 225950,
       "word": "星穹铁道2.2",
@@ -17875,6 +17915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224060,
+      "num": 224060,
+      "word": "巴黎奥运孙颖莎陈梦出战女单",
+      "onboard_time": 1715654058,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224056,
       "num": 224056,
       "word": "沙特大满贯",
@@ -17913,14 +17961,6 @@
       "onboard_time": 1715559679,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 223195,
-      "num": 223195,
-      "word": "南阳市委书记朱是西被查",
-      "onboard_time": 1715652919,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223146,
@@ -18417,6 +18457,14 @@
       "onboard_time": 1715093000,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 217620,
+      "num": 217620,
+      "word": "新款iPad评测",
+      "onboard_time": 1715653998,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 217549,
@@ -20187,6 +20235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201674,
+      "num": 201674,
+      "word": "王楚然李宏毅首搭",
+      "onboard_time": 1715653577,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201627,
       "num": 201627,
       "word": "周鸿祎迈巴赫买家承认遇到了问题",
@@ -21113,14 +21169,6 @@
       "onboard_time": 1715145503,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196563,
-      "num": 196563,
-      "word": "王楚然李宏毅首搭",
-      "onboard_time": 1715653577,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 196562,
@@ -22891,14 +22939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185635,
-      "num": 185635,
-      "word": "五十公里桃花坞4官宣",
-      "onboard_time": 1715653577,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185551,
       "num": 185551,
       "word": "CCtalk公众号",
@@ -23969,6 +24009,14 @@
       "onboard_time": 1715519242,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176597,
+      "num": 176597,
+      "word": "缅怀焦裕禄",
+      "onboard_time": 1715653877,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176467,
@@ -28163,14 +28211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148936,
-      "num": 148936,
-      "word": "国乒巴黎奥运参赛大名单",
-      "onboard_time": 1715653577,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148890,
       "num": 161733,
       "word": "过度防晒要小心骨质疏松",
@@ -28425,6 +28465,14 @@
       "onboard_time": 1714976778,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147168,
+      "num": 147168,
+      "word": "一次主动换来一辈子内向",
+      "onboard_time": 1715652740,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 147120,
@@ -28913,6 +28961,14 @@
       "onboard_time": 1715271437,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144047,
+      "num": 144047,
+      "word": "孙颖莎世排第一9200分",
+      "onboard_time": 1715654058,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 144030,
@@ -29481,14 +29537,6 @@
       "onboard_time": 1715525840,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 140244,
-      "num": 140244,
-      "word": "一次主动换来一辈子内向",
-      "onboard_time": 1715652740,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 140234,
@@ -33547,6 +33595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110991,
+      "num": 110991,
+      "word": "OpenAI发布会",
+      "onboard_time": 1715650939,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110954,
       "num": 110954,
       "word": "母亲节红包",
@@ -34219,14 +34275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103166,
-      "num": 103166,
-      "word": "桃花坞",
-      "onboard_time": 1715653757,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 103088,
       "num": 103088,
       "word": "五一根本走不出四川",
@@ -34723,14 +34771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96950,
-      "num": 96950,
-      "word": "OpenAI发布会",
-      "onboard_time": 1715650939,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 96494,
       "num": 89842,
       "word": "为什么叶轻眉的人气那么高",
@@ -35164,7 +35204,7 @@
     },
     {
       "raw_hot": 87052,
-      "num": 1033917,
+      "num": 1230299,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
       "rank": 45,
