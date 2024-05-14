@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715657724442,
+  "endTime": 1715660474091,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1834398,
+      "num": 1834398,
+      "word": "歌手导演洪啸发文",
+      "onboard_time": 1715657359,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1814093,
       "num": 1814093,
       "word": "男子中奖1000万瞒妻子给前妻买房",
@@ -209,6 +217,14 @@
       "onboard_time": 1715653877,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1574689,
+      "num": 1574689,
+      "word": "丈夫婚检查出梅毒后妻子起诉撤销婚姻",
+      "onboard_time": 1715657958,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1571578,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 941757,
-      "num": 286472,
+      "num": 315468,
       "word": "男朋友无公积金该怎么一起买房",
       "onboard_time": 1715651477,
       "rank": 20,
@@ -809,6 +825,14 @@
       "onboard_time": 1715610441,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 836106,
+      "num": 738496,
+      "word": "歌手2024首轮双揭榜歌手",
+      "onboard_time": 1715658499,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 826435,
@@ -1059,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 705129,
+      "num": 705129,
+      "word": "严禁以各种方式挤占课间10分钟",
+      "onboard_time": 1715659339,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 697453,
       "num": 697453,
       "word": "抑郁症患者会无意识做哪些事情",
@@ -1188,7 +1220,7 @@
     },
     {
       "raw_hot": 630598,
-      "num": 285357,
+      "num": 314032,
       "word": "脑供血不足面部可能有4个表现",
       "onboard_time": 1715651898,
       "rank": 21,
@@ -1699,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 491029,
+      "num": 491029,
+      "word": "爱萝莉",
+      "onboard_time": 1715656999,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 490415,
       "num": 280197,
       "word": "赵露思直播的妆是自己化的",
@@ -1923,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427649,
+      "num": 427649,
+      "word": "南林大副教授首聘期不合格后自杀离世",
+      "onboard_time": 1715655378,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425636,
       "num": 425636,
       "word": "成都吉普",
@@ -1961,6 +2009,14 @@
       "onboard_time": 1715492957,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419913,
+      "num": 419913,
+      "word": "田曦薇李明德二搭",
+      "onboard_time": 1715658319,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 418734,
@@ -2081,14 +2137,6 @@
       "onboard_time": 1715481317,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401939,
-      "num": 401939,
-      "word": "南林大副教授首聘期不合格后自杀离世",
-      "onboard_time": 1715655378,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401556,
@@ -2731,6 +2779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304942,
+      "num": 304942,
+      "word": "杭盖乐队要去歌手了",
+      "onboard_time": 1715657719,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304428,
       "num": 206107,
       "word": "aespa概念",
@@ -2843,6 +2899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 289025,
+      "num": 289025,
+      "word": "迪丽热巴代言联想",
+      "onboard_time": 1715656818,
+      "rank": 36,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 287991,
       "num": 173356,
       "word": "黄妈实力",
@@ -2873,14 +2937,6 @@
       "onboard_time": 1715641514,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 285147,
-      "num": 285147,
-      "word": "歌手导演洪啸发文",
-      "onboard_time": 1715657359,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 284411,
@@ -2955,6 +3011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275761,
+      "num": 275761,
+      "word": "许嵩南京抢票",
+      "onboard_time": 1715658259,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 275017,
       "num": 209421,
       "word": "袁娅维假条批了吗",
@@ -2977,14 +3041,6 @@
       "onboard_time": 1715498778,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 272203,
-      "num": 272203,
-      "word": "迪丽热巴代言联想",
-      "onboard_time": 1715656818,
-      "rank": 36,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 272202,
@@ -3155,6 +3211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254646,
+      "num": 254646,
+      "word": "TheShy谈mlxg与otto事件",
+      "onboard_time": 1715659519,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254553,
       "num": 205400,
       "word": "上班的累是来自情绪劳动而不是工作本身",
@@ -3281,6 +3345,14 @@
       "onboard_time": 1715491519,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245992,
+      "num": 245992,
+      "word": "迪丽热巴 建模",
+      "onboard_time": 1715659939,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 245027,
@@ -3459,6 +3531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224011,
+      "num": 224011,
+      "word": "六道 花少北",
+      "onboard_time": 1715660121,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 223505,
       "num": 223505,
       "word": "董明珠体验汉服",
@@ -3481,6 +3561,14 @@
       "onboard_time": 1715507238,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222678,
+      "num": 222678,
+      "word": "东北独生猫的一天",
+      "onboard_time": 1715657898,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 222660,
@@ -3601,14 +3689,6 @@
       "onboard_time": 1715577500,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216199,
-      "num": 216199,
-      "word": "爱萝莉",
-      "onboard_time": 1715656999,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 215256,
@@ -3811,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202793,
+      "num": 202793,
+      "word": "杨洋军装海报",
+      "onboard_time": 1715660241,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202768,
       "num": 202768,
       "word": "严浩翔被婴语为难住了",
@@ -3889,6 +3977,14 @@
       "onboard_time": 1715591420,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200595,
+      "num": 200595,
+      "word": "何炅两次神级救场都是在歌手",
+      "onboard_time": 1715656818,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 200555,
@@ -4259,6 +4355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 187881,
+      "num": 187881,
+      "word": "胡锡进称不能轻视美国正在引领的AI革命",
+      "onboard_time": 1715659038,
+      "rank": 37,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 186961,
       "num": 186961,
       "word": "狼队进决赛",
@@ -4307,6 +4411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183304,
+      "num": 183304,
+      "word": "喜欢你5官宣全员入糖门",
+      "onboard_time": 1715659099,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183063,
       "num": 183063,
       "word": "梦之队投票预热",
@@ -4345,14 +4457,6 @@
       "onboard_time": 1715480897,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181058,
-      "num": 181058,
-      "word": "何炅两次神级救场都是在歌手",
-      "onboard_time": 1715656818,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 180047,
@@ -4803,6 +4907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163520,
+      "num": 163520,
+      "word": "井柏然回关张艺凡",
+      "onboard_time": 1715658739,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163453,
       "num": 163453,
       "word": "aespa别念了",
@@ -4889,6 +5001,14 @@
       "onboard_time": 1715517441,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 161596,
+      "num": 161596,
+      "word": "何浩楠代言方里",
+      "onboard_time": 1715660241,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 161439,
@@ -5049,6 +5169,14 @@
       "onboard_time": 1715577741,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156508,
+      "num": 156508,
+      "word": "Ailee男友曾出演单身即地狱",
+      "onboard_time": 1715658618,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 156269,
@@ -5347,6 +5475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142776,
+      "num": 517192,
+      "word": "他甚至没来得及拍一张全家福",
+      "onboard_time": 1715659519,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142198,
       "num": 142198,
       "word": "不如drama",
@@ -5401,6 +5537,14 @@
       "onboard_time": 1715518161,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141388,
+      "num": 141388,
+      "word": "STAYC全员开通个人ins",
+      "onboard_time": 1715658319,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 141205,
@@ -5657,6 +5801,14 @@
       "onboard_time": 1715494340,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131783,
+      "num": 131783,
+      "word": "国乒教练组谈奥运名单",
+      "onboard_time": 1715660419,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 131280,
@@ -6323,6 +6475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99857,
+      "num": 435882,
+      "word": "余额宝是懂年轻人存钱焦虑的",
+      "onboard_time": 1715659204,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99600,
       "num": 99600,
       "word": "春游哥哥发文悼念故友",
@@ -6476,7 +6636,7 @@
     },
     {
       "raw_hot": 87052,
-      "num": 1449957,
+      "num": 1629773,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
       "rank": 45,
@@ -6545,6 +6705,14 @@
       "onboard_time": 1715446997,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78644,
+      "num": 428148,
+      "word": "日产和某某di在一起了",
+      "onboard_time": 1715658259,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 78245,
@@ -6905,6 +7073,14 @@
       "onboard_time": 1715627711,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15147,
+      "num": 128573,
+      "word": "如何用手机拍极光",
+      "onboard_time": 1715660121,
+      "rank": 49,
+      "category": "休闲"
     },
     {
       "raw_hot": 14836,

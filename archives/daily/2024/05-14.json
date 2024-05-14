@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715657724442,
+  "endTime": 1715660474091,
   "band_list": [
     {
       "raw_hot": 2380658,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1834398,
+      "num": 1834398,
+      "word": "歌手导演洪啸发文",
+      "onboard_time": 1715657359,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1588486,
       "num": 1588486,
       "word": "张杰谈谢娜退出主持群原因",
       "onboard_time": 1715653877,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1574689,
+      "num": 1574689,
+      "word": "丈夫婚检查出梅毒后妻子起诉撤销婚姻",
+      "onboard_time": 1715657958,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1571578,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 941757,
-      "num": 286472,
+      "num": 315468,
       "word": "男朋友无公积金该怎么一起买房",
       "onboard_time": 1715651477,
       "rank": 20,
@@ -105,6 +121,14 @@
       "onboard_time": 1715612479,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 836106,
+      "num": 738496,
+      "word": "歌手2024首轮双揭榜歌手",
+      "onboard_time": 1715658499,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 804034,
@@ -155,6 +179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 705129,
+      "num": 705129,
+      "word": "严禁以各种方式挤占课间10分钟",
+      "onboard_time": 1715659339,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 678831,
       "num": 654807,
       "word": "张杰曾为去歌手赔款",
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 630598,
-      "num": 285357,
+      "num": 314032,
       "word": "脑供血不足面部可能有4个表现",
       "onboard_time": 1715651898,
       "rank": 21,
@@ -235,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 491029,
+      "num": 491029,
+      "word": "爱萝莉",
+      "onboard_time": 1715656999,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 490415,
       "num": 280197,
       "word": "赵露思直播的妆是自己化的",
@@ -283,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427649,
+      "num": 427649,
+      "word": "南林大副教授首聘期不合格后自杀离世",
+      "onboard_time": 1715655378,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421230,
       "num": 292660,
       "word": "23点到1点是头发生长高峰期",
       "onboard_time": 1715630830,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 419913,
+      "num": 419913,
+      "word": "田曦薇李明德二搭",
+      "onboard_time": 1715658319,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 414226,
@@ -305,14 +361,6 @@
       "onboard_time": 1715616259,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 401939,
-      "num": 401939,
-      "word": "南林大副教授首聘期不合格后自杀离世",
-      "onboard_time": 1715655378,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396581,
@@ -387,6 +435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304942,
+      "num": 304942,
+      "word": "杭盖乐队要去歌手了",
+      "onboard_time": 1715657719,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 289025,
+      "num": 289025,
+      "word": "迪丽热巴代言联想",
+      "onboard_time": 1715656818,
+      "rank": 36,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 285866,
       "num": 277919,
       "word": "田曦薇李明德再合作",
@@ -401,14 +465,6 @@
       "onboard_time": 1715641514,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 285147,
-      "num": 285147,
-      "word": "歌手导演洪啸发文",
-      "onboard_time": 1715657359,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 285049,
@@ -427,20 +483,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275761,
+      "num": 275761,
+      "word": "许嵩南京抢票",
+      "onboard_time": 1715658259,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 275616,
       "num": 226798,
       "word": "专家称房价下降会致国民资产缩水",
       "onboard_time": 1715609240,
       "rank": 11,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 272203,
-      "num": 272203,
-      "word": "迪丽热巴代言联想",
-      "onboard_time": 1715656818,
-      "rank": 36,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 270707,
@@ -475,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254646,
+      "num": 254646,
+      "word": "TheShy谈mlxg与otto事件",
+      "onboard_time": 1715659519,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247203,
       "num": 247203,
       "word": "微信澄清11个谣言",
       "onboard_time": 1715615058,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 245992,
+      "num": 245992,
+      "word": "迪丽热巴 建模",
+      "onboard_time": 1715659939,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 241082,
@@ -523,6 +595,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224011,
+      "num": 224011,
+      "word": "六道 花少北",
+      "onboard_time": 1715660121,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 222678,
+      "num": 222678,
+      "word": "东北独生猫的一天",
+      "onboard_time": 1715657898,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217620,
       "num": 217620,
       "word": "新款iPad评测",
@@ -537,14 +625,6 @@
       "onboard_time": 1715619434,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 216199,
-      "num": 216199,
-      "word": "爱萝莉",
-      "onboard_time": 1715656999,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 216158,
@@ -595,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202793,
+      "num": 202793,
+      "word": "杨洋军装海报",
+      "onboard_time": 1715660241,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201674,
       "num": 201674,
       "word": "王楚然李宏毅首搭",
@@ -609,6 +697,14 @@
       "onboard_time": 1715649859,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200595,
+      "num": 200595,
+      "word": "何炅两次神级救场都是在歌手",
+      "onboard_time": 1715656818,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 199756,
@@ -643,6 +739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 187881,
+      "num": 187881,
+      "word": "胡锡进称不能轻视美国正在引领的AI革命",
+      "onboard_time": 1715659038,
+      "rank": 37,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 184096,
       "num": 184096,
       "word": "烽影燃梅香阵容官宣",
@@ -651,11 +755,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181058,
-      "num": 181058,
-      "word": "何炅两次神级救场都是在歌手",
-      "onboard_time": 1715656818,
-      "rank": 45,
+      "raw_hot": 183304,
+      "num": 183304,
+      "word": "喜欢你5官宣全员入糖门",
+      "onboard_time": 1715659099,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -731,6 +835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163520,
+      "num": 163520,
+      "word": "井柏然回关张艺凡",
+      "onboard_time": 1715658739,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162667,
       "num": 162667,
       "word": "OpenAI发布GPT4O",
@@ -739,12 +851,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 161596,
+      "num": 161596,
+      "word": "何浩楠代言方里",
+      "onboard_time": 1715660241,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158720,
       "num": 158720,
       "word": "南京林业大学称自杀副教授未被降职",
       "onboard_time": 1715656938,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156508,
+      "num": 156508,
+      "word": "Ailee男友曾出演单身即地狱",
+      "onboard_time": 1715658618,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 153506,
@@ -835,12 +963,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142776,
+      "num": 517192,
+      "word": "他甚至没来得及拍一张全家福",
+      "onboard_time": 1715659519,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141544,
       "num": 141544,
       "word": "种地吧",
       "onboard_time": 1715621653,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141388,
+      "num": 141388,
+      "word": "STAYC全员开通个人ins",
+      "onboard_time": 1715658319,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 137533,
@@ -873,6 +1017,14 @@
       "onboard_time": 1715631551,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 131783,
+      "num": 131783,
+      "word": "国乒教练组谈奥运名单",
+      "onboard_time": 1715660419,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 129854,
@@ -1035,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99857,
+      "num": 435882,
+      "word": "余额宝是懂年轻人存钱焦虑的",
+      "onboard_time": 1715659204,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94825,
       "num": 111424,
       "word": "张翰凯丽 无声告别",
@@ -1060,7 +1220,7 @@
     },
     {
       "raw_hot": 87052,
-      "num": 1449957,
+      "num": 1629773,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
       "rank": 2,
@@ -1121,6 +1281,14 @@
       "onboard_time": 1715592499,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 78644,
+      "num": 428148,
+      "word": "日产和某某di在一起了",
+      "onboard_time": 1715658259,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 78245,
@@ -1249,6 +1417,14 @@
       "onboard_time": 1715627711,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15147,
+      "num": 128573,
+      "word": "如何用手机拍极光",
+      "onboard_time": 1715660121,
+      "rank": 49,
+      "category": "休闲"
     },
     {
       "raw_hot": 14836,
