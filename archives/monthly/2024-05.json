@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715660474091,
+  "endTime": 1715661262328,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -555,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1993504,
+      "num": 1993504,
+      "word": "歌手导演洪啸发文",
+      "onboard_time": 1715657359,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1985401,
       "num": 1985401,
       "word": "B站崩了",
@@ -691,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1834398,
-      "num": 1834398,
-      "word": "歌手导演洪啸发文",
-      "onboard_time": 1715657359,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1818309,
       "num": 1818309,
       "word": "专家建议让年轻人缴费为家乡父母养老",
@@ -761,6 +761,14 @@
       "onboard_time": 1715491819,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1759615,
+      "num": 1759615,
+      "word": "丈夫婚检查出梅毒后妻子起诉撤销婚姻",
+      "onboard_time": 1715657958,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1753531,
@@ -993,14 +1001,6 @@
       "onboard_time": 1715653877,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1574689,
-      "num": 1574689,
-      "word": "丈夫婚检查出梅毒后妻子起诉撤销婚姻",
-      "onboard_time": 1715657958,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1571578,
@@ -3052,7 +3052,7 @@
     },
     {
       "raw_hot": 941757,
-      "num": 315468,
+      "num": 375968,
       "word": "男朋友无公积金该怎么一起买房",
       "onboard_time": 1715651477,
       "rank": 20,
@@ -3097,6 +3097,14 @@
       "onboard_time": 1714547958,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 929093,
+      "num": 883089,
+      "word": "歌手2024首轮双揭榜歌手",
+      "onboard_time": 1715658499,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 927346,
@@ -3281,6 +3289,14 @@
       "onboard_time": 1715366711,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 896475,
+      "num": 896475,
+      "word": "严禁以各种方式挤占课间10分钟",
+      "onboard_time": 1715659339,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 895562,
@@ -3873,14 +3889,6 @@
       "onboard_time": 1715610441,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 836106,
-      "num": 738496,
-      "word": "歌手2024首轮双揭榜歌手",
-      "onboard_time": 1715658499,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 833538,
@@ -4995,14 +5003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 705129,
-      "num": 705129,
-      "word": "严禁以各种方式挤占课间10分钟",
-      "onboard_time": 1715659339,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 703730,
       "num": 359902,
       "word": "研究称胖男人生育力更差",
@@ -6068,7 +6068,7 @@
     },
     {
       "raw_hot": 630598,
-      "num": 314032,
+      "num": 366179,
       "word": "脑供血不足面部可能有4个表现",
       "onboard_time": 1715651898,
       "rank": 21,
@@ -6321,6 +6321,14 @@
       "onboard_time": 1714961417,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 616630,
+      "num": 504067,
+      "word": "六道 花少北",
+      "onboard_time": 1715660121,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 616412,
@@ -8323,6 +8331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 489966,
+      "num": 489966,
+      "word": "田曦薇李明德二搭",
+      "onboard_time": 1715658319,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 488796,
       "num": 488796,
       "word": "周深把少管我唱成歌了",
@@ -10035,14 +10051,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 419913,
-      "num": 419913,
-      "word": "田曦薇李明德二搭",
-      "onboard_time": 1715658319,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 419563,
       "num": 243070,
       "word": "亲戚劝我不要读博士要赶紧结婚",
@@ -10393,6 +10401,14 @@
       "onboard_time": 1714911859,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 409315,
+      "num": 409315,
+      "word": "EXO的前夜是刘宪华写的",
+      "onboard_time": 1715660961,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 409155,
@@ -12737,6 +12753,14 @@
       "onboard_time": 1715055080,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333941,
+      "num": 333941,
+      "word": "迪丽热巴 建模",
+      "onboard_time": 1715659939,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 333662,
@@ -15475,6 +15499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266202,
+      "num": 266202,
+      "word": "TheShy谈mlxg与otto事件",
+      "onboard_time": 1715659519,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 266150,
       "num": 204495,
       "word": "海来阿木回应唱腔太土",
@@ -16059,14 +16091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254646,
-      "num": 254646,
-      "word": "TheShy谈mlxg与otto事件",
-      "onboard_time": 1715659519,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 254630,
       "num": 242975,
       "word": "为什么男朋友总跟我追求公平",
@@ -16475,6 +16499,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 247138,
+      "num": 247138,
+      "word": "东北独生猫的一天",
+      "onboard_time": 1715657898,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247115,
       "num": 240140,
       "word": "潮汕偶遇鹿晗王勉",
@@ -16585,14 +16617,6 @@
       "onboard_time": 1715182640,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 245992,
-      "num": 245992,
-      "word": "迪丽热巴 建模",
-      "onboard_time": 1715659939,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 245792,
@@ -18099,20 +18123,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224011,
-      "num": 224011,
-      "word": "六道 花少北",
-      "onboard_time": 1715660121,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 223865,
       "num": 223865,
       "word": "维和防暴队",
       "onboard_time": 1714529477,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223660,
+      "num": 517192,
+      "word": "他甚至没来得及拍一张全家福",
+      "onboard_time": 1715659519,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223628,
@@ -18169,14 +18193,6 @@
       "onboard_time": 1714797317,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222678,
-      "num": 222678,
-      "word": "东北独生猫的一天",
-      "onboard_time": 1715657898,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 222660,
@@ -18705,6 +18721,14 @@
       "onboard_time": 1715619434,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 216735,
+      "num": 216735,
+      "word": "国乒教练组谈奥运名单",
+      "onboard_time": 1715660419,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 216549,
@@ -19385,6 +19409,14 @@
       "onboard_time": 1715062998,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209385,
+      "num": 209385,
+      "word": "杨洋军装海报",
+      "onboard_time": 1715660241,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 209245,
@@ -20281,14 +20313,6 @@
       "onboard_time": 1714707499,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 202793,
-      "num": 202793,
-      "word": "杨洋军装海报",
-      "onboard_time": 1715660241,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 202774,
@@ -22339,12 +22363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190543,
+      "num": 190543,
+      "word": "光遇",
+      "onboard_time": 1715660661,
+      "rank": 35,
+      "category": "游戏,电竞"
+    },
+    {
       "raw_hot": 190539,
       "num": 190539,
       "word": "孟子义是被发配岭南了吗",
       "onboard_time": 1715604800,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190523,
+      "num": 190523,
+      "word": "何浩楠代言方里",
+      "onboard_time": 1715660241,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 190510,
@@ -22721,6 +22761,14 @@
       "onboard_time": 1715052137,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188240,
+      "num": 188240,
+      "word": "光遇复刻",
+      "onboard_time": 1715660781,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 188219,
@@ -26475,6 +26523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162020,
+      "num": 439516,
+      "word": "余额宝是懂年轻人存钱焦虑的",
+      "onboard_time": 1715659204,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161974,
       "num": 161974,
       "word": "掘金vs森林狼",
@@ -26561,14 +26617,6 @@
       "onboard_time": 1714874058,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161596,
-      "num": 161596,
-      "word": "何浩楠代言方里",
-      "onboard_time": 1715660241,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 161560,
@@ -29483,14 +29531,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 142776,
-      "num": 517192,
-      "word": "他甚至没来得及拍一张全家福",
-      "onboard_time": 1715659519,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142764,
       "num": 146884,
       "word": "金店店长称从业20年这个五一生意最淡",
@@ -31193,14 +31233,6 @@
       "onboard_time": 1715179521,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131783,
-      "num": 131783,
-      "word": "国乒教练组谈奥运名单",
-      "onboard_time": 1715660419,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 131735,
@@ -34899,14 +34931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99857,
-      "num": 435882,
-      "word": "余额宝是懂年轻人存钱焦虑的",
-      "onboard_time": 1715659204,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 99613,
       "num": 99613,
       "word": "南雅是因为愧疚才嫁给徐毅",
@@ -37595,6 +37619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24058,
+      "num": 147784,
+      "word": "如何用手机拍极光",
+      "onboard_time": 1715660121,
+      "rank": 49,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 23732,
       "num": 28351,
       "word": "张凌赫伦敦看秀",
@@ -37801,14 +37833,6 @@
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15147,
-      "num": 128573,
-      "word": "如何用手机拍极光",
-      "onboard_time": 1715660121,
-      "rank": 49,
-      "category": "休闲"
     },
     {
       "raw_hot": 14999,
