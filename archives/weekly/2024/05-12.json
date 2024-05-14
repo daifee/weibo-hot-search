@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715668698422,
+  "endTime": 1715671118571,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1105266,
+      "num": 1105266,
+      "word": "南韩周也",
+      "onboard_time": 1715662580,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1104603,
       "num": 913302,
       "word": "只休一天就上班真的好累啊",
@@ -529,14 +537,6 @@
       "onboard_time": 1715644518,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1086300,
-      "num": 1086300,
-      "word": "南韩周也",
-      "onboard_time": 1715662580,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 1083466,
@@ -609,6 +609,14 @@
       "onboard_time": 1715502376,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 972569,
+      "num": 772814,
+      "word": "综艺史上最潦草的官宣",
+      "onboard_time": 1715665160,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 969566,
@@ -867,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 830332,
+      "num": 830332,
+      "word": "南通车祸遇难女孩已入土为安",
+      "onboard_time": 1715670138,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 826435,
       "num": 356887,
       "word": "我喜欢你 意思是我清楚地看见你",
@@ -928,14 +944,6 @@
       "word": "歌手第二期网传歌单",
       "onboard_time": 1715498957,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 794787,
-      "num": 634011,
-      "word": "综艺史上最潦草的官宣",
-      "onboard_time": 1715665160,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -1008,6 +1016,14 @@
       "word": "南通大巴与渣土车碰撞致1死",
       "onboard_time": 1715440941,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766680,
+      "num": 766680,
+      "word": "男子谎称领养将小猫整排牙齿剪断",
+      "onboard_time": 1715664199,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1187,14 +1203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 678003,
-      "num": 678003,
-      "word": "男子谎称领养将小猫整排牙齿剪断",
-      "onboard_time": 1715664199,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 670470,
       "num": 670470,
       "word": "副镇长被举报半夜叫他人妻子去唱歌",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1715512284,
       "rank": 27,
       "category": "自然"
+    },
+    {
+      "raw_hot": 652405,
+      "num": 325332,
+      "word": "原来高铁上是有2元的矿泉水的",
+      "onboard_time": 1715667318,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 648307,
@@ -1979,12 +1995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458764,
+      "num": 406142,
+      "word": "那英 小说",
+      "onboard_time": 1715667501,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457565,
       "num": 457565,
       "word": "汶川大地震16周年",
       "onboard_time": 1715483418,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452451,
+      "num": 452451,
+      "word": "王曼昱是巴黎团体第三人不二人选",
+      "onboard_time": 1715667019,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 452261,
@@ -2273,14 +2305,6 @@
       "onboard_time": 1715592259,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 398795,
-      "num": 398795,
-      "word": "王曼昱是巴黎团体第三人不二人选",
-      "onboard_time": 1715667019,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 398694,
@@ -2811,12 +2835,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 325332,
-      "num": 325332,
-      "word": "原来高铁上是有2元的矿泉水的",
-      "onboard_time": 1715667318,
-      "rank": 34,
-      "category": "幽默,情感"
+      "raw_hot": 325928,
+      "num": 325928,
+      "word": "河南一商户发现欠燃气费近5亿",
+      "onboard_time": 1715669839,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324378,
@@ -3123,14 +3147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282861,
-      "num": 282861,
-      "word": "那英 小说",
-      "onboard_time": 1715667501,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 282647,
       "num": 282647,
       "word": "周深成都站售罄",
@@ -3297,6 +3313,14 @@
       "onboard_time": 1715659204,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 266824,
+      "num": 266824,
+      "word": "出现和媒婆抗争的职业了",
+      "onboard_time": 1715668999,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 266202,
@@ -3537,6 +3561,14 @@
       "onboard_time": 1715472496,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 247861,
+      "num": 247861,
+      "word": "白玉兰奖评委会全名单公布",
+      "onboard_time": 1715670437,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 247671,
@@ -3867,6 +3899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218455,
+      "num": 218455,
+      "word": "非升即走下996的大学教师们",
+      "onboard_time": 1715664019,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 217620,
       "num": 217620,
       "word": "新款iPad评测",
@@ -3955,6 +3995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212545,
+      "num": 212545,
+      "word": "凉山女子重度烧伤曾被丈夫多次家暴",
+      "onboard_time": 1715667979,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212393,
       "num": 212393,
       "word": "HYBE说要给NewJeans放一年半的假",
@@ -3969,6 +4017,14 @@
       "onboard_time": 1715667139,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211455,
+      "num": 211455,
+      "word": "李健再唱庆余年OST",
+      "onboard_time": 1715669478,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 211283,
@@ -4169,6 +4225,14 @@
       "onboard_time": 1715605277,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202315,
+      "num": 202315,
+      "word": "yaoyao被处罚",
+      "onboard_time": 1715668458,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 202102,
@@ -4379,6 +4443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193922,
+      "num": 193922,
+      "word": "电影沙漏 校园霸凌",
+      "onboard_time": 1715669598,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193708,
       "num": 193708,
       "word": "中学男生偷拍女子裙底被抓现行",
@@ -4513,6 +4585,14 @@
       "onboard_time": 1715593100,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 190426,
+      "num": 190426,
+      "word": "白玉兰奖官方海报公布",
+      "onboard_time": 1715670738,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 190380,
@@ -4755,6 +4835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178863,
+      "num": 178863,
+      "word": "狗 有时候真的很想报警",
+      "onboard_time": 1715667677,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178756,
       "num": 173323,
       "word": "刘宇宁起名迪丽热巴",
@@ -4995,14 +5083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169767,
-      "num": 169767,
-      "word": "凉山女子重度烧伤曾被丈夫多次家暴",
-      "onboard_time": 1715667979,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169406,
       "num": 169406,
       "word": "王俊凯无名之辈路透",
@@ -5219,6 +5299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163656,
+      "num": 163656,
+      "word": "白玉兰",
+      "onboard_time": 1715670800,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163537,
       "num": 163537,
       "word": "制作人称很多音综不修音没法听",
@@ -5291,20 +5379,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 162233,
-      "num": 162233,
-      "word": "非升即走下996的大学教师们",
-      "onboard_time": 1715664019,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 162057,
       "num": 162057,
       "word": "张予曦晒妈妈跳舞视频",
       "onboard_time": 1715500637,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161986,
+      "num": 145632,
+      "word": "白玉兰评委有海清",
+      "onboard_time": 1715670618,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 161974,
@@ -5579,14 +5667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151979,
-      "num": 151979,
-      "word": "yaoyao被处罚",
-      "onboard_time": 1715668458,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 151097,
       "num": 151097,
       "word": "电影援军明日到达定档",
@@ -5731,6 +5811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145693,
+      "num": 145693,
+      "word": "病人喝自己的胆汁",
+      "onboard_time": 1715671040,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 145108,
       "num": 145108,
       "word": "巴黎奥运乒乓项目7月27日开赛",
@@ -5817,14 +5905,6 @@
       "onboard_time": 1715585480,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 142503,
-      "num": 142503,
-      "word": "狗 有时候真的很想报警",
-      "onboard_time": 1715667677,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 142344,
@@ -6417,6 +6497,14 @@
       "onboard_time": 1715605999,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 121840,
+      "num": 121840,
+      "word": "普京将对华进行国事访问",
+      "onboard_time": 1715671099,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121123,
@@ -7315,6 +7403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 41278,
+      "num": 862189,
+      "word": "文化中国行",
+      "onboard_time": 1715667918,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41129,
       "num": 41129,
       "word": "NBA",
@@ -7441,14 +7537,6 @@
       "onboard_time": 1715548212,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 18862,
-      "num": 862189,
-      "word": "文化中国行",
-      "onboard_time": 1715667918,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18771,

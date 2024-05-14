@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715668698422,
+  "endTime": 1715671118571,
   "band_list": [
     {
       "raw_hot": 2380658,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1105266,
+      "num": 1105266,
+      "word": "南韩周也",
+      "onboard_time": 1715662580,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1088898,
       "num": 1088898,
       "word": "歌手有国籍音乐无国界",
@@ -99,20 +107,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1086300,
-      "num": 1086300,
-      "word": "南韩周也",
-      "onboard_time": 1715662580,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1009868,
       "num": 1009868,
       "word": "中方决定不同意台湾地区参加今年世卫大会",
       "onboard_time": 1715598198,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 972569,
+      "num": 772814,
+      "word": "综艺史上最潦草的官宣",
+      "onboard_time": 1715665160,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 962744,
@@ -163,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 830332,
+      "num": 830332,
+      "word": "南通车祸遇难女孩已入土为安",
+      "onboard_time": 1715670138,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809202,
       "num": 688341,
       "word": "庆余年2",
@@ -176,14 +192,6 @@
       "word": "歌手揭榜",
       "onboard_time": 1715588180,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 794787,
-      "num": 634011,
-      "word": "综艺史上最潦草的官宣",
-      "onboard_time": 1715665160,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -201,6 +209,14 @@
       "onboard_time": 1715661562,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 766680,
+      "num": 766680,
+      "word": "男子谎称领养将小猫整排牙齿剪断",
+      "onboard_time": 1715664199,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 765909,
@@ -251,20 +267,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 678003,
-      "num": 678003,
-      "word": "男子谎称领养将小猫整排牙齿剪断",
-      "onboard_time": 1715664199,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 668579,
       "num": 668579,
       "word": "TFBOYS给王源新歌宣传",
       "onboard_time": 1715656158,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 652405,
+      "num": 325332,
+      "word": "原来高铁上是有2元的矿泉水的",
+      "onboard_time": 1715667318,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 639651,
@@ -427,6 +443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458764,
+      "num": 406142,
+      "word": "那英 小说",
+      "onboard_time": 1715667501,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 452451,
+      "num": 452451,
+      "word": "王曼昱是巴黎团体第三人不二人选",
+      "onboard_time": 1715667019,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 439101,
       "num": 428049,
       "word": "李承铉让Lucky等弟弟长大后再收拾",
@@ -473,14 +505,6 @@
       "onboard_time": 1715616259,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 398795,
-      "num": 398795,
-      "word": "王曼昱是巴黎团体第三人不二人选",
-      "onboard_time": 1715667019,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 396581,
@@ -563,12 +587,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 325332,
-      "num": 325332,
-      "word": "原来高铁上是有2元的矿泉水的",
-      "onboard_time": 1715667318,
-      "rank": 34,
-      "category": "幽默,情感"
+      "raw_hot": 325928,
+      "num": 325928,
+      "word": "河南一商户发现欠燃气费近5亿",
+      "onboard_time": 1715669839,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316735,
@@ -632,14 +656,6 @@
       "word": "毛不易看与凤行找不到赵丽颖",
       "onboard_time": 1715668159,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 282861,
-      "num": 282861,
-      "word": "那英 小说",
-      "onboard_time": 1715667501,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -715,6 +731,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 266824,
+      "num": 266824,
+      "word": "出现和媒婆抗争的职业了",
+      "onboard_time": 1715668999,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266202,
       "num": 266202,
       "word": "TheShy谈mlxg与otto事件",
@@ -761,6 +785,14 @@
       "onboard_time": 1715667858,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247861,
+      "num": 247861,
+      "word": "白玉兰奖评委会全名单公布",
+      "onboard_time": 1715670437,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 247203,
@@ -819,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218455,
+      "num": 218455,
+      "word": "非升即走下996的大学教师们",
+      "onboard_time": 1715664019,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 217620,
       "num": 217620,
       "word": "新款iPad评测",
@@ -859,12 +899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212545,
+      "num": 212545,
+      "word": "凉山女子重度烧伤曾被丈夫多次家暴",
+      "onboard_time": 1715667979,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212200,
       "num": 212200,
       "word": "地磁暴是否影响睡眠尚未证实",
       "onboard_time": 1715667139,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211455,
+      "num": 211455,
+      "word": "李健再唱庆余年OST",
+      "onboard_time": 1715669478,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 209385,
@@ -913,6 +969,14 @@
       "onboard_time": 1715651176,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202315,
+      "num": 202315,
+      "word": "yaoyao被处罚",
+      "onboard_time": 1715668458,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 201674,
@@ -971,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193922,
+      "num": 193922,
+      "word": "电影沙漏 校园霸凌",
+      "onboard_time": 1715669598,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190543,
       "num": 190543,
       "word": "光遇",
@@ -985,6 +1057,14 @@
       "onboard_time": 1715660241,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190426,
+      "num": 190426,
+      "word": "白玉兰奖官方海报公布",
+      "onboard_time": 1715670738,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 189811,
@@ -1041,6 +1121,14 @@
       "onboard_time": 1715659099,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178863,
+      "num": 178863,
+      "word": "狗 有时候真的很想报警",
+      "onboard_time": 1715667677,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 177813,
@@ -1107,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169767,
-      "num": 169767,
-      "word": "凉山女子重度烧伤曾被丈夫多次家暴",
-      "onboard_time": 1715667979,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169406,
       "num": 169406,
       "word": "王俊凯无名之辈路透",
@@ -1163,6 +1243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163656,
+      "num": 163656,
+      "word": "白玉兰",
+      "onboard_time": 1715670800,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163520,
       "num": 163520,
       "word": "井柏然回关张艺凡",
@@ -1179,12 +1267,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 162233,
-      "num": 162233,
-      "word": "非升即走下996的大学教师们",
-      "onboard_time": 1715664019,
-      "rank": 38,
-      "category": "社会新闻,教育"
+      "raw_hot": 161986,
+      "num": 145632,
+      "word": "白玉兰评委有海清",
+      "onboard_time": 1715670618,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 158720,
@@ -1217,14 +1305,6 @@
       "onboard_time": 1715661440,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151979,
-      "num": 151979,
-      "word": "yaoyao被处罚",
-      "onboard_time": 1715668458,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 151097,
@@ -1283,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145693,
+      "num": 145693,
+      "word": "病人喝自己的胆汁",
+      "onboard_time": 1715671040,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 145108,
       "num": 145108,
       "word": "巴黎奥运乒乓项目7月27日开赛",
@@ -1313,14 +1401,6 @@
       "onboard_time": 1715612719,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 142503,
-      "num": 142503,
-      "word": "狗 有时候真的很想报警",
-      "onboard_time": 1715667677,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 142344,
@@ -1465,6 +1545,14 @@
       "onboard_time": 1715603359,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121840,
+      "num": 121840,
+      "word": "普京将对华进行国事访问",
+      "onboard_time": 1715671099,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120639,
@@ -1755,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41278,
+      "num": 862189,
+      "word": "文化中国行",
+      "onboard_time": 1715667918,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34568,
       "num": 34568,
       "word": "章昊主打直拍",
@@ -1809,14 +1905,6 @@
       "onboard_time": 1715621952,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 18862,
-      "num": 862189,
-      "word": "文化中国行",
-      "onboard_time": 1715667918,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15620,
