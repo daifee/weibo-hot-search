@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715685347889,
+  "endTime": 1715686495931,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -49,6 +49,14 @@
       "onboard_time": 1715598198,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2609992,
+      "num": 2609992,
+      "word": "TES幽默",
+      "onboard_time": 1715680998,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 2595300,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1525751,
+      "num": 1525751,
+      "word": "G2战胜TES",
+      "onboard_time": 1715685620,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1483564,
       "num": 1483564,
       "word": "谢娜曾反对张杰去歌手",
@@ -291,20 +307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1477707,
+      "num": 1477707,
+      "word": "G2对战TES",
+      "onboard_time": 1715678661,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1453778,
       "num": 947854,
       "word": "曾指控五月天假唱博主再发声",
       "onboard_time": 1715483599,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1441812,
-      "num": 1441812,
-      "word": "TES幽默",
-      "onboard_time": 1715680998,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 1439767,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 1255519,
-      "num": 786506,
+      "num": 889720,
       "word": "歌手歌单",
       "onboard_time": 1715680759,
       "rank": 6,
@@ -683,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 994844,
+      "num": 994844,
+      "word": "北京晚霞",
+      "onboard_time": 1715685620,
+      "rank": 7,
+      "category": "自然"
+    },
+    {
       "raw_hot": 972569,
       "num": 876140,
       "word": "综艺史上最潦草的官宣",
@@ -771,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 928336,
+      "num": 928336,
+      "word": "TES 管泽元",
+      "onboard_time": 1715683038,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 923595,
       "num": 271570,
       "word": "1毫克就能致死的毒物可能在你厨房里",
@@ -835,12 +867,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 872986,
-      "num": 872986,
-      "word": "G2对战TES",
-      "onboard_time": 1715678661,
-      "rank": 27,
-      "category": "电竞"
+      "raw_hot": 872430,
+      "num": 872430,
+      "word": "王妈赵管家be了",
+      "onboard_time": 1715684597,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 869966,
@@ -1025,6 +1057,14 @@
       "onboard_time": 1715660121,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 791904,
+      "num": 791904,
+      "word": "G2不收徒",
+      "onboard_time": 1715681059,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 788675,
@@ -1731,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524052,
+      "num": 316333,
+      "word": "秦岚说赵丽颖是没有攻击性的女演员",
+      "onboard_time": 1715684297,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524000,
       "num": 364943,
       "word": "兮夜队友",
@@ -1777,14 +1825,6 @@
       "onboard_time": 1715594477,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 511994,
-      "num": 511994,
-      "word": "G2不收徒",
-      "onboard_time": 1715681059,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 511961,
@@ -2147,6 +2187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 461161,
+      "num": 461161,
+      "word": "大满败",
+      "onboard_time": 1715685859,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 460013,
       "num": 460013,
       "word": "陈建宁詹雯婷出庭",
@@ -2161,6 +2209,14 @@
       "onboard_time": 1715483418,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457553,
+      "num": 457553,
+      "word": "王者荣耀",
+      "onboard_time": 1715681418,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 452451,
@@ -2225,14 +2281,6 @@
       "onboard_time": 1715434882,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 441080,
-      "num": 441080,
-      "word": "王者荣耀",
-      "onboard_time": 1715681418,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 439551,
@@ -2363,14 +2411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415544,
-      "num": 415544,
-      "word": "王妈赵管家be了",
-      "onboard_time": 1715684597,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 415413,
       "num": 415413,
       "word": "罗崇创被执行死刑",
@@ -2472,14 +2512,6 @@
       "word": "蛇哥退出老头杯",
       "onboard_time": 1715605519,
       "rank": 24,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 405570,
-      "num": 405570,
-      "word": "TES 管泽元",
-      "onboard_time": 1715683038,
-      "rank": 14,
       "category": "电竞"
     },
     {
@@ -3107,12 +3139,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 318857,
-      "num": 294229,
-      "word": "秦岚说赵丽颖是没有攻击性的女演员",
-      "onboard_time": 1715684297,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 321159,
+      "num": 321159,
+      "word": "滔搏下路",
+      "onboard_time": 1715683697,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 318059,
@@ -3329,6 +3361,14 @@
       "onboard_time": 1715601320,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 292136,
+      "num": 292136,
+      "word": "微信及WeChat月活13.59亿",
+      "onboard_time": 1715684297,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 289025,
@@ -3577,6 +3617,14 @@
       "onboard_time": 1715435001,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268218,
+      "num": 268218,
+      "word": "G2说这是不是有点太简单",
+      "onboard_time": 1715685379,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 267026,
@@ -3889,14 +3937,6 @@
       "onboard_time": 1715578339,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244551,
-      "num": 244551,
-      "word": "滔搏下路",
-      "onboard_time": 1715683697,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 243689,
@@ -4313,14 +4353,6 @@
       "onboard_time": 1715679020,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213354,
-      "num": 213354,
-      "word": "微信及WeChat月活13.59亿",
-      "onboard_time": 1715684297,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 213212,
@@ -5091,6 +5123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187953,
+      "num": 1555075,
+      "word": "我国发现银河系晕里有一巨大磁环",
+      "onboard_time": 1715678120,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187881,
       "num": 187881,
       "word": "胡锡进称不能轻视美国正在引领的AI革命",
@@ -5297,14 +5337,6 @@
       "onboard_time": 1715482698,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176798,
-      "num": 1478419,
-      "word": "我国发现银河系晕里有一巨大磁环",
-      "onboard_time": 1715678120,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 176653,
@@ -6059,6 +6091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155079,
+      "num": 155079,
+      "word": "华晨宇想跟莫文蔚合作",
+      "onboard_time": 1715686219,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154809,
       "num": 154809,
       "word": "曼联0比1阿森纳",
@@ -6659,6 +6699,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135159,
+      "num": 135159,
+      "word": "落日8分钟效应",
+      "onboard_time": 1715684119,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134041,
+      "num": 134041,
+      "word": "六道算命算出花少北是贵人",
+      "onboard_time": 1715686159,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134019,
       "num": 188960,
       "word": "重庆绝美云瀑宛若滔天巨浪",
@@ -6689,14 +6745,6 @@
       "onboard_time": 1715498599,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133665,
-      "num": 133665,
-      "word": "落日8分钟效应",
-      "onboard_time": 1715684119,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 133583,
@@ -7548,7 +7596,7 @@
     },
     {
       "raw_hot": 96758,
-      "num": 522066,
+      "num": 931082,
       "word": "被西北大爷拍的变装视频炫到了",
       "onboard_time": 1715682197,
       "rank": 9,
@@ -7660,7 +7708,7 @@
     },
     {
       "raw_hot": 88192,
-      "num": 213379,
+      "num": 242250,
       "word": "零跑汽车将和玛莎拉蒂同框销售",
       "onboard_time": 1715683456,
       "rank": 27,
@@ -7859,6 +7907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65592,
+      "num": 944722,
+      "word": "阿勒泰连续两日出现极光",
+      "onboard_time": 1715685260,
+      "rank": 25,
+      "category": "自然"
+    },
+    {
       "raw_hot": 65476,
       "num": 65476,
       "word": "王一博渐变色外套",
@@ -8001,14 +8057,6 @@
       "onboard_time": 1715469193,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48680,
-      "num": 225059,
-      "word": "阿勒泰连续两日出现极光",
-      "onboard_time": 1715685260,
-      "rank": 25,
-      "category": "自然"
     },
     {
       "raw_hot": 46950,

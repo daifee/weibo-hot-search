@@ -1,0 +1,410 @@
+{
+  "runTime": 1715686495931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2609992,
+        "num": 2609992,
+        "word": "TES幽默",
+        "onboard_time": 1715680998,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1878375,
+        "num": 1878375,
+        "word": "奸淫幼女小学老师死刑上诉被驳回",
+        "onboard_time": 1715676799,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187953,
+        "num": 1555075,
+        "word": "我国发现银河系晕里有一巨大磁环",
+        "onboard_time": 1715678120,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1525751,
+        "num": 1525751,
+        "word": "G2战胜TES",
+        "onboard_time": 1715685620,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1477707,
+        "num": 1477707,
+        "word": "G2对战TES",
+        "onboard_time": 1715678661,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1297281,
+        "num": 1297281,
+        "word": "周深 少管我",
+        "onboard_time": 1715672298,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1142437,
+        "num": 1142437,
+        "word": "歌手报名 没档期",
+        "onboard_time": 1715677340,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 994844,
+        "num": 994844,
+        "word": "北京晚霞",
+        "onboard_time": 1715685620,
+        "rank": 7,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 65592,
+        "num": 944722,
+        "word": "阿勒泰连续两日出现极光",
+        "onboard_time": 1715685260,
+        "rank": 8,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 66406,
+        "num": 931082,
+        "word": "被西北大爷拍的变装视频炫到了",
+        "onboard_time": 1715682197,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928336,
+        "num": 928336,
+        "word": "TES 管泽元",
+        "onboard_time": 1715683038,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 889720,
+        "num": 889720,
+        "word": "歌手歌单",
+        "onboard_time": 1715680759,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 872430,
+        "num": 872430,
+        "word": "王妈赵管家be了",
+        "onboard_time": 1715684597,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 791904,
+        "num": 791904,
+        "word": "G2不收徒",
+        "onboard_time": 1715681059,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 461161,
+        "num": 461161,
+        "word": "大满败",
+        "onboard_time": 1715685859,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 457553,
+        "num": 457553,
+        "word": "王者荣耀",
+        "onboard_time": 1715681418,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 414369,
+        "num": 414369,
+        "word": "12306客服回应高铁有2元矿泉水",
+        "onboard_time": 1715678899,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376592,
+        "num": 376592,
+        "word": "微信背景图",
+        "onboard_time": 1715674759,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 339496,
+        "num": 339496,
+        "word": "广东一高速收费员称桃子未熟不能走绿通",
+        "onboard_time": 1715679198,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321159,
+        "num": 321159,
+        "word": "滔搏下路",
+        "onboard_time": 1715683697,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 558104,
+        "num": 319416,
+        "word": "詹雯婷发长文",
+        "onboard_time": 1715674759,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524052,
+        "num": 316333,
+        "word": "秦岚说赵丽颖是没有攻击性的女演员",
+        "onboard_time": 1715684297,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310286,
+        "num": 310286,
+        "word": "开播前雪中送炭 播出后锦上添花",
+        "onboard_time": 1715683217,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292136,
+        "num": 292136,
+        "word": "微信及WeChat月活13.59亿",
+        "onboard_time": 1715684297,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 270738,
+        "num": 270738,
+        "word": "腾讯一季度净利润502.7亿",
+        "onboard_time": 1715677340,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 268218,
+        "num": 268218,
+        "word": "G2说这是不是有点太简单",
+        "onboard_time": 1715685379,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70817,
+        "num": 242250,
+        "word": "零跑汽车将和玛莎拉蒂同框销售",
+        "onboard_time": 1715683456,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 237844,
+        "num": 237844,
+        "word": "南通车祸遇难女孩已入土为安",
+        "onboard_time": 1715670138,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218481,
+        "num": 218481,
+        "word": "杭州退休人员接了个电话400万没了",
+        "onboard_time": 1715675897,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216089,
+        "num": 216089,
+        "word": "华晨宇 山海",
+        "onboard_time": 1715679558,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185659,
+        "num": 185659,
+        "word": "日月山埋尸案罪犯马成被执行死刑",
+        "onboard_time": 1715683098,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176371,
+        "num": 176371,
+        "word": "于适 是金子总能发光",
+        "onboard_time": 1715685077,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173045,
+        "num": 173045,
+        "word": "海南6岁走失女童已溺水死亡",
+        "onboard_time": 1715675897,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168123,
+        "num": 168123,
+        "word": "西安科大改成绩事件多人被处分",
+        "onboard_time": 1715673380,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 159751,
+        "num": 159751,
+        "word": "南韩周也",
+        "onboard_time": 1715662580,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155079,
+        "num": 155079,
+        "word": "华晨宇想跟莫文蔚合作",
+        "onboard_time": 1715686219,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154057,
+        "num": 154057,
+        "word": "原来高铁上是有2元的矿泉水的",
+        "onboard_time": 1715667318,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 150192,
+        "num": 150192,
+        "word": "丈夫婚检查出梅毒后妻子起诉撤销婚姻",
+        "onboard_time": 1715657958,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140751,
+        "num": 140751,
+        "word": "你愿意让初恋忘记你吗",
+        "onboard_time": 1715682258,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140224,
+        "num": 140224,
+        "word": "背着善宰跑OST",
+        "onboard_time": 1715683697,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140026,
+        "num": 140026,
+        "word": "我们是不是把日子过反了",
+        "onboard_time": 1715679020,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135159,
+        "num": 135159,
+        "word": "落日8分钟效应",
+        "onboard_time": 1715684119,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134041,
+        "num": 134041,
+        "word": "六道算命算出花少北是贵人",
+        "onboard_time": 1715686159,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132359,
+        "num": 132359,
+        "word": "疑因未刹车让道警车高速路逼停私家车",
+        "onboard_time": 1715676560,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123359,
+        "num": 123359,
+        "word": "罗崇创被执行死刑",
+        "onboard_time": 1715677878,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122662,
+        "num": 122662,
+        "word": "以为张凌赫下楼拿外卖",
+        "onboard_time": 1715677939,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122269,
+        "num": 122269,
+        "word": "处女座越唠叨越爱你",
+        "onboard_time": 1715685200,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115881,
+        "num": 115881,
+        "word": "李亚鹏欠薪事件当事人再发声",
+        "onboard_time": 1715675479,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112946,
+        "num": 112946,
+        "word": "难哄站内预约破百万",
+        "onboard_time": 1715682858,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106911,
+        "num": 106911,
+        "word": "MSI胜败分组赛",
+        "onboard_time": 1715684297,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中欧班列高质量发展#"
+    }
+  }
+}
