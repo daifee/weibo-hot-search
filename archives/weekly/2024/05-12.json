@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715690114930,
+  "endTime": 1715691022346,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2771,6 +2771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368698,
+      "num": 216626,
+      "word": "369 是我们自己的问题",
+      "onboard_time": 1715688678,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 368613,
       "num": 368613,
       "word": "婚礼上的伴娘可能全是租的",
@@ -2787,6 +2795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367307,
+      "num": 631573,
+      "word": "湖大回应留学生称南海诸岛为越南领土",
+      "onboard_time": 1715687719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363329,
       "num": 261587,
       "word": "香港大学偶遇奚梦瑶上课",
@@ -2801,6 +2817,14 @@
       "onboard_time": 1715508921,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 361504,
+      "num": 361504,
+      "word": "繁花等带动腾讯长视频付费会员增至1.16亿",
+      "onboard_time": 1715689219,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 361432,
@@ -2969,14 +2993,6 @@
       "onboard_time": 1715472375,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347024,
-      "num": 216626,
-      "word": "369 是我们自己的问题",
-      "onboard_time": 1715688678,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 343583,
@@ -3299,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302571,
+      "num": 302571,
+      "word": "张予曦 我相信有真爱",
+      "onboard_time": 1715688199,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299815,
       "num": 194857,
       "word": "在歌手唱好不是好歌手的唯一标准",
@@ -3313,6 +3337,14 @@
       "onboard_time": 1715527162,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298840,
+      "num": 214239,
+      "word": "林巧稚 开始为女性加热鸭嘴钳",
+      "onboard_time": 1715689037,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 298838,
@@ -3497,14 +3529,6 @@
       "onboard_time": 1715663060,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280670,
-      "num": 261576,
-      "word": "张予曦 我相信有真爱",
-      "onboard_time": 1715688199,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 280604,
@@ -3715,14 +3739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 262363,
-      "num": 262363,
-      "word": "湖大回应留学生称南海诸岛为越南领土",
-      "onboard_time": 1715687719,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262351,
       "num": 262351,
       "word": "欧阳娜娜 Diploma",
@@ -3801,6 +3817,14 @@
       "onboard_time": 1715577140,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255586,
+      "num": 255586,
+      "word": "射雕英雄传亮相戛纳电影市场",
+      "onboard_time": 1715689818,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 255581,
@@ -4131,14 +4155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231501,
-      "num": 231501,
-      "word": "射雕英雄传亮相戛纳电影市场",
-      "onboard_time": 1715689818,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 230880,
       "num": 230880,
       "word": "IVE香港演唱会时间",
@@ -4393,14 +4409,6 @@
       "onboard_time": 1715603660,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214239,
-      "num": 214239,
-      "word": "林巧稚 开始为女性加热鸭嘴钳",
-      "onboard_time": 1715689037,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 214227,
@@ -4819,6 +4827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198253,
+      "num": 1555075,
+      "word": "我国发现银河系晕里有一巨大磁环",
+      "onboard_time": 1715678120,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 198125,
       "num": 158149,
       "word": "我的阿勒泰 爱会从眼里流出来",
@@ -4939,14 +4955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194458,
-      "num": 1555075,
-      "word": "我国发现银河系晕里有一巨大磁环",
-      "onboard_time": 1715678120,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 193922,
       "num": 193922,
       "word": "电影沙漏 校园霸凌",
@@ -4961,6 +4969,14 @@
       "onboard_time": 1715488938,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193625,
+      "num": 193625,
+      "word": "刘宇宁单依纯新歌未完待续",
+      "onboard_time": 1715689998,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 193579,
@@ -5731,6 +5747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167642,
+      "num": 167642,
+      "word": "新生第十集",
+      "onboard_time": 1715690358,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167385,
       "num": 167385,
       "word": "汶川震后生于古刹的孩子长大了",
@@ -5809,6 +5833,14 @@
       "onboard_time": 1715526742,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165287,
+      "num": 944722,
+      "word": "阿勒泰连续两日出现极光",
+      "onboard_time": 1715685260,
+      "rank": 25,
+      "category": "自然"
     },
     {
       "raw_hot": 165284,
@@ -6257,6 +6289,14 @@
       "onboard_time": 1715661440,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151619,
+      "num": 151619,
+      "word": "那英王菲 搞笑姐妹花",
+      "onboard_time": 1715689757,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151216,
@@ -6811,14 +6851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134145,
-      "num": 133758,
-      "word": "那英王菲 搞笑姐妹花",
-      "onboard_time": 1715689757,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 134019,
       "num": 188960,
       "word": "重庆绝美云瀑宛若滔天巨浪",
@@ -7259,14 +7291,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 118672,
-      "num": 118672,
-      "word": "刘宇宁单依纯新歌未完待续",
-      "onboard_time": 1715689998,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 117928,
       "num": 117928,
       "word": "王楚钦学会了与痛苦并肩作战",
@@ -7377,14 +7401,6 @@
       "onboard_time": 1715475137,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113982,
-      "num": 944722,
-      "word": "阿勒泰连续两日出现极光",
-      "onboard_time": 1715685260,
-      "rank": 25,
-      "category": "自然"
     },
     {
       "raw_hot": 113868,
@@ -7761,6 +7777,14 @@
       "onboard_time": 1715501719,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93134,
+      "num": 93134,
+      "word": "鬼灭之刃有自己的贵人鸟",
+      "onboard_time": 1715690899,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 92828,
@@ -8217,6 +8241,14 @@
       "onboard_time": 1715468594,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 35413,
+      "num": 414878,
+      "word": "脑瘫男孩比赛时摔倒却坚持完赛",
+      "onboard_time": 1715690478,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34568,

@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715690114930,
+  "endTime": 1715691022346,
   "band_list": [
     {
       "raw_hot": 2609992,
@@ -827,12 +827,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368698,
+      "num": 216626,
+      "word": "369 是我们自己的问题",
+      "onboard_time": 1715688678,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 367307,
+      "num": 631573,
+      "word": "湖大回应留学生称南海诸岛为越南领土",
+      "onboard_time": 1715687719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366188,
       "num": 174611,
       "word": "国家电网回应6月1日电费涨价",
       "onboard_time": 1715599938,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361504,
+      "num": 361504,
+      "word": "繁花等带动腾讯长视频付费会员增至1.16亿",
+      "onboard_time": 1715689219,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 361432,
@@ -857,14 +881,6 @@
       "onboard_time": 1715650219,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 347024,
-      "num": 216626,
-      "word": "369 是我们自己的问题",
-      "onboard_time": 1715688678,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 340840,
@@ -939,6 +955,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 302571,
+      "num": 302571,
+      "word": "张予曦 我相信有真爱",
+      "onboard_time": 1715688199,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 298840,
+      "num": 214239,
+      "word": "林巧稚 开始为女性加热鸭嘴钳",
+      "onboard_time": 1715689037,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 291478,
       "num": 291478,
       "word": "繁花等剧为腾讯带来1.16亿收入",
@@ -993,14 +1025,6 @@
       "onboard_time": 1715663060,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280670,
-      "num": 261576,
-      "word": "张予曦 我相信有真爱",
-      "onboard_time": 1715688199,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 280604,
@@ -1099,14 +1123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 262363,
-      "num": 262363,
-      "word": "湖大回应留学生称南海诸岛为越南领土",
-      "onboard_time": 1715687719,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261062,
       "num": 261062,
       "word": "华晨宇想跟莫文蔚合作",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1715610741,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255586,
+      "num": 255586,
+      "word": "射雕英雄传亮相戛纳电影市场",
+      "onboard_time": 1715689818,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 255245,
@@ -1259,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231501,
-      "num": 231501,
-      "word": "射雕英雄传亮相戛纳电影市场",
-      "onboard_time": 1715689818,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 225988,
       "num": 225988,
       "word": "桃花坞",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1715609479,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214239,
-      "num": 214239,
-      "word": "林巧稚 开始为女性加热鸭嘴钳",
-      "onboard_time": 1715689037,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 213597,
@@ -1499,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198253,
+      "num": 1555075,
+      "word": "我国发现银河系晕里有一巨大磁环",
+      "onboard_time": 1715678120,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 197946,
       "num": 124871,
       "word": "井柏然吃牛排",
@@ -1531,20 +1547,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194458,
-      "num": 1555075,
-      "word": "我国发现银河系晕里有一巨大磁环",
-      "onboard_time": 1715678120,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 193922,
       "num": 193922,
       "word": "电影沙漏 校园霸凌",
       "onboard_time": 1715669598,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193625,
+      "num": 193625,
+      "word": "刘宇宁单依纯新歌未完待续",
+      "onboard_time": 1715689998,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 192312,
@@ -1779,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167642,
+      "num": 167642,
+      "word": "新生第十集",
+      "onboard_time": 1715690358,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167171,
       "num": 167171,
       "word": "杭盖乐队回应大连演唱会延期",
@@ -1801,6 +1825,14 @@
       "onboard_time": 1715651117,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165287,
+      "num": 944722,
+      "word": "阿勒泰连续两日出现极光",
+      "onboard_time": 1715685260,
+      "rank": 25,
+      "category": "自然"
     },
     {
       "raw_hot": 164981,
@@ -1897,6 +1929,14 @@
       "onboard_time": 1715661440,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151619,
+      "num": 151619,
+      "word": "那英王菲 搞笑姐妹花",
+      "onboard_time": 1715689757,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151216,
@@ -2099,14 +2139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134145,
-      "num": 133758,
-      "word": "那英王菲 搞笑姐妹花",
-      "onboard_time": 1715689757,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 133583,
       "num": 133583,
       "word": "江浙沪爸爸人间理想",
@@ -2275,14 +2307,6 @@
       "category": "剧集,读书作家"
     },
     {
-      "raw_hot": 118672,
-      "num": 118672,
-      "word": "刘宇宁单依纯新歌未完待续",
-      "onboard_time": 1715689998,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 117010,
       "num": 117010,
       "word": "田曦薇饭撒",
@@ -2305,14 +2329,6 @@
       "onboard_time": 1715678420,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113982,
-      "num": 944722,
-      "word": "阿勒泰连续两日出现极光",
-      "onboard_time": 1715685260,
-      "rank": 25,
-      "category": "自然"
     },
     {
       "raw_hot": 113868,
@@ -2433,6 +2449,14 @@
       "onboard_time": 1715601560,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93134,
+      "num": 93134,
+      "word": "鬼灭之刃有自己的贵人鸟",
+      "onboard_time": 1715690899,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 91974,
@@ -2633,6 +2657,14 @@
       "onboard_time": 1715598919,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35413,
+      "num": 414878,
+      "word": "脑瘫男孩比赛时摔倒却坚持完赛",
+      "onboard_time": 1715690478,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34568,
