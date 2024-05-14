@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715664868459,
+  "endTime": 1715667989654,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -603,6 +603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 972815,
+      "num": 972815,
+      "word": "南韩周也",
+      "onboard_time": 1715662580,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 969566,
       "num": 360769,
       "word": "江映蓉请战歌手",
@@ -987,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 762302,
-      "num": 300642,
-      "word": "南韩周也",
-      "onboard_time": 1715662580,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 760501,
       "num": 228854,
       "word": "文俊辉代言茶百道",
@@ -1105,6 +1105,14 @@
       "onboard_time": 1715644217,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 714248,
+      "num": 643396,
+      "word": "庆余年2",
+      "onboard_time": 1715665938,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 711888,
@@ -1233,6 +1241,22 @@
       "onboard_time": 1715574260,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 645770,
+      "num": 645770,
+      "word": "男子谎称领养将小猫整排牙齿剪断",
+      "onboard_time": 1715664199,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639651,
+      "num": 639651,
+      "word": "日本第一季度2万余人孤独死",
+      "onboard_time": 1715663539,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638413,
@@ -1425,6 +1449,14 @@
       "onboard_time": 1715651658,
       "rank": 7,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 568804,
+      "num": 568804,
+      "word": "综艺史上最潦草的官宣",
+      "onboard_time": 1715665160,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 567476,
@@ -1899,6 +1931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 466008,
+      "num": 466008,
+      "word": "巴勒斯坦男子用石头砸落无人机",
+      "onboard_time": 1715664320,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 465971,
       "num": 465971,
       "word": "阜阳野生动物园多只动物非正常死亡",
@@ -2251,6 +2291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 393157,
+      "num": 393157,
+      "word": "严禁教师漠视纵容学生欺凌",
+      "onboard_time": 1715662639,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392355,
       "num": 448338,
       "word": "糯玉米会让血糖飙升",
@@ -2385,14 +2433,6 @@
       "onboard_time": 1715574081,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369616,
-      "num": 369616,
-      "word": "日本第一季度2万余人孤独死",
-      "onboard_time": 1715663539,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368613,
@@ -2755,6 +2795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 324987,
+      "num": 324987,
+      "word": "王曼昱是巴黎团体第三人不二人选",
+      "onboard_time": 1715667019,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324378,
       "num": 324378,
       "word": "苹果要重做Siri了",
@@ -2777,14 +2825,6 @@
       "onboard_time": 1715572159,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 320067,
-      "num": 320067,
-      "word": "严禁教师漠视纵容学生欺凌",
-      "onboard_time": 1715662639,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318059,
@@ -3075,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280713,
+      "num": 280713,
+      "word": "在浙江原来这个叫服务区啊",
+      "onboard_time": 1715663060,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280324,
       "num": 280324,
       "word": "丁晟 欣慰外国观众能看懂",
@@ -3339,6 +3387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 255245,
+      "num": 255245,
+      "word": "原来榴莲是这么采摘的",
+      "onboard_time": 1715662881,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 254919,
       "num": 218520,
       "word": "76岁林子祥当爷爷了",
@@ -3385,14 +3441,6 @@
       "onboard_time": 1715505858,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 253684,
-      "num": 253684,
-      "word": "巴勒斯坦男子用石头砸落无人机",
-      "onboard_time": 1715664320,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 251905,
@@ -3587,12 +3635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232345,
-      "num": 232345,
-      "word": "在浙江原来这个叫服务区啊",
-      "onboard_time": 1715663060,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 232110,
+      "num": 232110,
+      "word": "那英 小说",
+      "onboard_time": 1715667501,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 230880,
@@ -3921,14 +3969,6 @@
       "onboard_time": 1715660241,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 208877,
-      "num": 208877,
-      "word": "男子谎称领养将小猫整排牙齿剪断",
-      "onboard_time": 1715664199,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208346,
@@ -4291,20 +4331,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193969,
+      "num": 193969,
+      "word": "庆余年2哈哈哈哈哈海报",
+      "onboard_time": 1715667258,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193708,
       "num": 193708,
       "word": "中学男生偷拍女子裙底被抓现行",
       "onboard_time": 1715488938,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193600,
-      "num": 193600,
-      "word": "原来榴莲是这么采摘的",
-      "onboard_time": 1715662881,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 193579,
@@ -4659,6 +4699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179508,
+      "num": 179508,
+      "word": "原来高铁上是有2元的矿泉水的",
+      "onboard_time": 1715667318,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 179396,
       "num": 179396,
       "word": "刘忻张予曦 娜娜奈奈",
@@ -4795,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175088,
+      "num": 175088,
+      "word": "JINI加入H1KEY",
+      "onboard_time": 1715667858,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175058,
       "num": 175058,
       "word": "新生代阿达娃申请出战",
@@ -4905,6 +4961,14 @@
       "onboard_time": 1715508440,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169875,
+      "num": 169875,
+      "word": "地磁暴是否影响睡眠尚未证实",
+      "onboard_time": 1715667139,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169864,
@@ -6027,6 +6091,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 132496,
+      "num": 132496,
+      "word": "160余名从事离岸博彩中国公民被遣返",
+      "onboard_time": 1715665758,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132421,
       "num": 132421,
       "word": "16岁志愿军女兵嘴对嘴给伤员喂药",
@@ -6057,6 +6129,14 @@
       "onboard_time": 1715503999,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131038,
+      "num": 131038,
+      "word": "狗 有时候真的很想报警",
+      "onboard_time": 1715667677,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 131028,
@@ -6139,6 +6219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126229,
+      "num": 126229,
+      "word": "新版GPT可以和人视频互动",
+      "onboard_time": 1715667918,
+      "rank": 47,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 126139,
       "num": 262441,
       "word": "官方账号做霸总短剧杀疯了",
@@ -6201,6 +6289,14 @@
       "onboard_time": 1715439262,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124862,
+      "num": 124862,
+      "word": "凉山女子重度烧伤曾被丈夫多次家暴",
+      "onboard_time": 1715667979,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124554,
@@ -7267,6 +7363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23260,
+      "num": 195261,
+      "word": "520惊喜开箱华为门店",
+      "onboard_time": 1715667139,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22890,
       "num": 30385,
       "word": "这装修真把钱花在刀刃上了",
@@ -7288,6 +7392,14 @@
       "word": "周深能不能来歌手",
       "onboard_time": 1715440343,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21775,
+      "num": 207719,
+      "word": "悦鲜活急了",
+      "onboard_time": 1715667019,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -7321,6 +7433,14 @@
       "onboard_time": 1715627711,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15361,
+      "num": 495819,
+      "word": "中医药在匈牙利有多流行",
+      "onboard_time": 1715667739,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14836,
@@ -7361,6 +7481,14 @@
       "onboard_time": 1715588900,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 6737,
+      "num": 862189,
+      "word": "文化中国行",
+      "onboard_time": 1715667918,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -7393,6 +7521,9 @@
     },
     {
       "word": "#习近平主席对法国第三次国事访问纪实#"
+    },
+    {
+      "word": "#习近平欧洲之行纪实#"
     }
   ]
 }
