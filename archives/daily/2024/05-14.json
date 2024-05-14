@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715671118571,
+  "endTime": 1715672115726,
   "band_list": [
     {
       "raw_hot": 2380658,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1347604,
+      "num": 1347604,
+      "word": "南通车祸遇难女孩已入土为安",
+      "onboard_time": 1715670138,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1324147,
       "num": 738066,
       "word": "诛仙女主陆雪琪",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 972569,
-      "num": 772814,
+      "num": 876140,
       "word": "综艺史上最潦草的官宣",
       "onboard_time": 1715665160,
       "rank": 10,
@@ -171,14 +179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 830332,
-      "num": 830332,
-      "word": "南通车祸遇难女孩已入土为安",
-      "onboard_time": 1715670138,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 809202,
       "num": 688341,
       "word": "庆余年2",
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761324,
+      "num": 325332,
+      "word": "原来高铁上是有2元的矿泉水的",
+      "onboard_time": 1715667318,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 754448,
       "num": 754448,
       "word": "诛仙碧瑶",
@@ -259,6 +267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 709403,
+      "num": 709403,
+      "word": "普京将对华进行国事访问",
+      "onboard_time": 1715671099,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 678831,
       "num": 654807,
       "word": "张杰曾为去歌手赔款",
@@ -273,14 +289,6 @@
       "onboard_time": 1715656158,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 652405,
-      "num": 325332,
-      "word": "原来高铁上是有2元的矿泉水的",
-      "onboard_time": 1715667318,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 639651,
@@ -329,6 +337,14 @@
       "onboard_time": 1715661861,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 541787,
+      "num": 541787,
+      "word": "河南一商户发现欠燃气费近5亿",
+      "onboard_time": 1715669839,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527837,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466754,
+      "num": 466754,
+      "word": "那英 小说",
+      "onboard_time": 1715667501,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466008,
       "num": 466008,
       "word": "巴勒斯坦男子用石头砸落无人机",
@@ -441,14 +465,6 @@
       "onboard_time": 1715662639,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 458764,
-      "num": 406142,
-      "word": "那英 小说",
-      "onboard_time": 1715667501,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 452451,
@@ -505,6 +521,14 @@
       "onboard_time": 1715616259,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 406411,
+      "num": 406411,
+      "word": "白玉兰奖评委会全名单公布",
+      "onboard_time": 1715670437,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 396581,
@@ -587,14 +611,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 325928,
-      "num": 325928,
-      "word": "河南一商户发现欠燃气费近5亿",
-      "onboard_time": 1715669839,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316735,
       "num": 316735,
       "word": "67岁老人一年有300天都在出差",
@@ -667,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280604,
+      "num": 280604,
+      "word": "白玉兰奖官方海报公布",
+      "onboard_time": 1715670738,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 279292,
       "num": 255827,
       "word": "外卖买姨妈巾被冒犯到了",
@@ -697,6 +721,14 @@
       "onboard_time": 1715609240,
       "rank": 11,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 273307,
+      "num": 199987,
+      "word": "病人喝自己的胆汁",
+      "onboard_time": 1715671040,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 270707,
@@ -787,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247861,
-      "num": 247861,
-      "word": "白玉兰奖评委会全名单公布",
-      "onboard_time": 1715670437,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247203,
       "num": 247203,
       "word": "微信澄清11个谣言",
@@ -817,6 +841,22 @@
       "onboard_time": 1715656039,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240962,
+      "num": 240962,
+      "word": "新冠变异株KP.2多国蔓延",
+      "onboard_time": 1715671159,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 238641,
+      "num": 238641,
+      "word": "陈晓新剧人设又癫又疯批",
+      "onboard_time": 1715671699,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 238297,
@@ -963,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203795,
+      "num": 203795,
+      "word": "普京5月16日至17日访问中国",
+      "onboard_time": 1715671338,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 203203,
       "num": 203203,
       "word": "NBA批准詹姆斯儿子参加选秀",
@@ -1059,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190426,
-      "num": 190426,
-      "word": "白玉兰奖官方海报公布",
-      "onboard_time": 1715670738,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 189811,
       "num": 189811,
       "word": "GPT4o将免费使用",
@@ -1107,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184025,
+      "num": 184025,
+      "word": "白玉兰",
+      "onboard_time": 1715670800,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183728,
       "num": 183728,
       "word": "薛之谦徐州",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1715667677,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178722,
+      "num": 178722,
+      "word": "金智媛新加坡活动现场",
+      "onboard_time": 1715671699,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 177813,
@@ -1243,14 +1299,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 163656,
-      "num": 163656,
-      "word": "白玉兰",
-      "onboard_time": 1715670800,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163520,
       "num": 163520,
       "word": "井柏然回关张艺凡",
@@ -1361,14 +1409,6 @@
       "onboard_time": 1715646800,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145693,
-      "num": 145693,
-      "word": "病人喝自己的胆汁",
-      "onboard_time": 1715671040,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 145108,
@@ -1547,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121840,
-      "num": 121840,
-      "word": "普京将对华进行国事访问",
-      "onboard_time": 1715671099,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 120639,
       "num": 120639,
       "word": "年轻人开始整顿上海相亲角了",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1715649739,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119481,
+      "num": 119481,
+      "word": "王嘉尔希望35岁前成家",
+      "onboard_time": 1715672058,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119100,
@@ -1835,20 +1875,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50304,
+      "num": 879590,
+      "word": "文化中国行",
+      "onboard_time": 1715667918,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49616,
       "num": 54123,
       "word": "网友曝李亚鹏拖欠工资",
       "onboard_time": 1715598919,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41278,
-      "num": 862189,
-      "word": "文化中国行",
-      "onboard_time": 1715667918,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34568,
