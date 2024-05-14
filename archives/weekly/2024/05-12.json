@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715718020731,
+  "endTime": 1715718865033,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -8811,20 +8811,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17842,
+      "num": 17106,
+      "word": "留子打败老外靠的是无知",
+      "onboard_time": 1715716811,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17624,
       "num": 18400,
       "word": "陈晓杨子姗三搭",
       "onboard_time": 1715714051,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16782,
-      "num": 16782,
-      "word": "留子打败老外靠的是无知",
-      "onboard_time": 1715716811,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 16268,
@@ -8897,6 +8897,14 @@
       "onboard_time": 1715718011,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 11001,
+      "num": 15673,
+      "word": "巡特警全副武装送外卖是咋回事",
+      "onboard_time": 1715718790,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10522,
