@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715711783000,
+  "endTime": 1715714085357,
   "band_list": [
     {
       "raw_hot": 1126452,
@@ -179,6 +179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 164293,
+      "num": 164293,
+      "word": "卷款3500万跑路网店关联公司已注销",
+      "onboard_time": 1715709552,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149642,
       "num": 139690,
       "word": "G2战胜TES",
@@ -281,14 +289,6 @@
       "onboard_time": 1715688678,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 102204,
-      "num": 102204,
-      "word": "卷款3500万跑路网店关联公司已注销",
-      "onboard_time": 1715709552,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99564,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60776,
+      "num": 60776,
+      "word": "沈小婷回国第一站跑男",
+      "onboard_time": 1715711292,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56418,
       "num": 56418,
       "word": "G2对战TES",
@@ -427,14 +435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 31572,
-      "num": 31572,
-      "word": "沈小婷回国第一站跑男",
-      "onboard_time": 1715711292,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28102,
       "num": 28102,
       "word": "热刺vs曼城",
@@ -465,6 +465,38 @@
       "onboard_time": 1715710031,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23500,
+      "num": 23500,
+      "word": "手机被监听一招就能解决",
+      "onboard_time": 1715713331,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 18804,
+      "num": 18804,
+      "word": "秦岚简直是情绪价值的富翁",
+      "onboard_time": 1715713452,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 16268,
+      "num": 18403,
+      "word": "爱一个本身就很好的人",
+      "onboard_time": 1715713990,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 16047,
+      "num": 18400,
+      "word": "陈晓杨子姗三搭",
+      "onboard_time": 1715714051,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 12494,
