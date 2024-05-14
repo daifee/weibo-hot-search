@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715691022346,
+  "endTime": 1715692849037,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -764,7 +764,7 @@
     },
     {
       "raw_hot": 1778111,
-      "num": 1169853,
+      "num": 1382913,
       "word": "大满败",
       "onboard_time": 1715685859,
       "rank": 14,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1715241799,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1433013,
+      "num": 1433013,
+      "word": "雨霖铃 杨洋",
+      "onboard_time": 1715691019,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1425489,
@@ -4489,6 +4497,14 @@
       "onboard_time": 1715156000,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 783239,
+      "num": 289927,
+      "word": "女子大量咳血体内有个20岁肿瘤",
+      "onboard_time": 1715691557,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 782397,
@@ -8555,6 +8571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 494046,
+      "num": 631573,
+      "word": "湖大回应留学生称南海诸岛为越南领土",
+      "onboard_time": 1715687719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493961,
       "num": 493961,
       "word": "12306客服回应高铁有2元矿泉水",
@@ -10827,6 +10851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408419,
+      "num": 408419,
+      "word": "369 是我们自己的问题",
+      "onboard_time": 1715688678,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 408003,
       "num": 408003,
       "word": "云南恶性伤人事件亲历者发声",
@@ -11979,14 +12011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 368698,
-      "num": 216626,
-      "word": "369 是我们自己的问题",
-      "onboard_time": 1715688678,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 368613,
       "num": 368613,
       "word": "婚礼上的伴娘可能全是租的",
@@ -12041,14 +12065,6 @@
       "onboard_time": 1715612000,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367307,
-      "num": 631573,
-      "word": "湖大回应留学生称南海诸岛为越南领土",
-      "onboard_time": 1715687719,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367266,
@@ -13467,6 +13483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327643,
+      "num": 327643,
+      "word": "花少北 小号",
+      "onboard_time": 1715692279,
+      "rank": 17,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 327348,
       "num": 205157,
       "word": "子宫受压或改变胎儿面貌",
@@ -13545,6 +13569,14 @@
       "onboard_time": 1715388201,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 323790,
+      "num": 290253,
+      "word": "淘宝天猫成交额双位数增长",
+      "onboard_time": 1715691318,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 323540,
@@ -16864,6 +16896,14 @@
       "word": "宋慧乔颁奖",
       "onboard_time": 1715086759,
       "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251779,
+      "num": 251779,
+      "word": "那英王菲 搞笑姐妹花",
+      "onboard_time": 1715689757,
+      "rank": 40,
       "category": "作品衍生"
     },
     {
@@ -22195,6 +22235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196306,
+      "num": 196306,
+      "word": "新生第十集",
+      "onboard_time": 1715690358,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196278,
       "num": 196278,
       "word": "2024华晨宇火星演唱会",
@@ -22569,6 +22617,14 @@
       "onboard_time": 1714703597,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193946,
+      "num": 193946,
+      "word": "第15届金扫帚奖获奖名单",
+      "onboard_time": 1715691798,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 193922,
@@ -23659,6 +23715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187745,
+      "num": 187745,
+      "word": "Uzi说要找G2复仇",
+      "onboard_time": 1715691019,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187739,
       "num": 187739,
       "word": "金秀贤金智媛幕后牵手",
@@ -24539,6 +24603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181296,
+      "num": 181296,
+      "word": "脂肪如何才能排出体外的",
+      "onboard_time": 1715688619,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 181226,
       "num": 181226,
       "word": "我的阿勒泰 女导",
@@ -24753,6 +24825,14 @@
       "onboard_time": 1714889898,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179432,
+      "num": 179432,
+      "word": "仙剑与轩辕剑版权将被出售",
+      "onboard_time": 1715691019,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 179396,
@@ -25065,6 +25145,14 @@
       "onboard_time": 1715482698,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177058,
+      "num": 177058,
+      "word": "民政局回应女婴被人丢弃垃圾桶",
+      "onboard_time": 1715692398,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177051,
@@ -25449,6 +25537,14 @@
       "onboard_time": 1714553776,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174792,
+      "num": 174792,
+      "word": "三周瘦肚子",
+      "onboard_time": 1715688559,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 174752,
@@ -26547,14 +26643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167642,
-      "num": 167642,
-      "word": "新生第十集",
-      "onboard_time": 1715690358,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167589,
       "num": 167589,
       "word": "新疆喀什发生4.2级地震",
@@ -26921,14 +27009,6 @@
       "onboard_time": 1714841595,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164981,
-      "num": 164981,
-      "word": "脂肪如何才能排出体外的",
-      "onboard_time": 1715688619,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 164971,
@@ -29083,14 +29163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151619,
-      "num": 151619,
-      "word": "那英王菲 搞笑姐妹花",
-      "onboard_time": 1715689757,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 151558,
       "num": 151558,
       "word": "马龙",
@@ -29137,14 +29209,6 @@
       "onboard_time": 1715059278,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151143,
-      "num": 151143,
-      "word": "三周瘦肚子",
-      "onboard_time": 1715688559,
-      "rank": 35,
-      "category": "运动健身"
     },
     {
       "raw_hot": 151097,
@@ -32321,6 +32385,14 @@
       "onboard_time": 1715296576,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131549,
+      "num": 131549,
+      "word": "许嵩合肥抢票",
+      "onboard_time": 1715692158,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 131505,
@@ -37801,6 +37873,14 @@
       "onboard_time": 1714583894,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59062,
+      "num": 496576,
+      "word": "藏在博物馆里的文物显眼包",
+      "onboard_time": 1715691919,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58883,

@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715691022346,
+  "endTime": 1715692849037,
   "band_list": [
     {
       "raw_hot": 2609992,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1778111,
-      "num": 1169853,
+      "num": 1382913,
       "word": "大满败",
       "onboard_time": 1715685859,
       "rank": 14,
@@ -121,6 +121,14 @@
       "onboard_time": 1715612180,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1433013,
+      "num": 1433013,
+      "word": "雨霖铃 杨洋",
+      "onboard_time": 1715691019,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1377458,
@@ -329,6 +337,14 @@
       "onboard_time": 1715661562,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 783239,
+      "num": 289927,
+      "word": "女子大量咳血体内有个20岁肿瘤",
+      "onboard_time": 1715691557,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766680,
@@ -563,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494046,
+      "num": 631573,
+      "word": "湖大回应留学生称南海诸岛为越南领土",
+      "onboard_time": 1715687719,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493961,
       "num": 493961,
       "word": "12306客服回应高铁有2元矿泉水",
@@ -771,6 +795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 408419,
+      "num": 408419,
+      "word": "369 是我们自己的问题",
+      "onboard_time": 1715688678,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 406411,
       "num": 406411,
       "word": "白玉兰奖评委会全名单公布",
@@ -824,22 +856,6 @@
       "word": "疑因未刹车让道警车高速路逼停私家车",
       "onboard_time": 1715676560,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368698,
-      "num": 216626,
-      "word": "369 是我们自己的问题",
-      "onboard_time": 1715688678,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 367307,
-      "num": 631573,
-      "word": "湖大回应留学生称南海诸岛为越南领土",
-      "onboard_time": 1715687719,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -905,6 +921,22 @@
       "onboard_time": 1715610920,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 327643,
+      "num": 327643,
+      "word": "花少北 小号",
+      "onboard_time": 1715692279,
+      "rank": 17,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 323790,
+      "num": 290253,
+      "word": "淘宝天猫成交额双位数增长",
+      "onboard_time": 1715691318,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 323540,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1715675058,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251779,
+      "num": 251779,
+      "word": "那英王菲 搞笑姐妹花",
+      "onboard_time": 1715689757,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 248381,
@@ -1523,12 +1563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196306,
+      "num": 196306,
+      "word": "新生第十集",
+      "onboard_time": 1715690358,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195671,
       "num": 195671,
       "word": "中国乒乓球协会",
       "onboard_time": 1715655738,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195090,
+      "num": 195090,
+      "word": "歌手2024",
+      "onboard_time": 1715692340,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 194893,
@@ -1545,6 +1601,14 @@
       "onboard_time": 1715686159,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193946,
+      "num": 193946,
+      "word": "第15届金扫帚奖获奖名单",
+      "onboard_time": 1715691798,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 193922,
@@ -1627,6 +1691,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 187745,
+      "num": 187745,
+      "word": "Uzi说要找G2复仇",
+      "onboard_time": 1715691019,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187002,
       "num": 187002,
       "word": "新生",
@@ -1667,6 +1739,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181296,
+      "num": 181296,
+      "word": "脂肪如何才能排出体外的",
+      "onboard_time": 1715688619,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 179432,
+      "num": 179432,
+      "word": "仙剑与轩辕剑版权将被出售",
+      "onboard_time": 1715691019,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178863,
       "num": 178863,
       "word": "狗 有时候真的很想报警",
@@ -1691,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177058,
+      "num": 177058,
+      "word": "民政局回应女婴被人丢弃垃圾桶",
+      "onboard_time": 1715692398,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176597,
       "num": 176597,
       "word": "缅怀焦裕禄",
@@ -1705,6 +1801,14 @@
       "onboard_time": 1715656999,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174792,
+      "num": 174792,
+      "word": "三周瘦肚子",
+      "onboard_time": 1715688559,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 174311,
@@ -1795,14 +1899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167642,
-      "num": 167642,
-      "word": "新生第十集",
-      "onboard_time": 1715690358,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167171,
       "num": 167171,
       "word": "杭盖乐队回应大连演唱会延期",
@@ -1833,14 +1929,6 @@
       "onboard_time": 1715685260,
       "rank": 25,
       "category": "自然"
-    },
-    {
-      "raw_hot": 164981,
-      "num": 164981,
-      "word": "脂肪如何才能排出体外的",
-      "onboard_time": 1715688619,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 163949,
@@ -1931,28 +2019,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151619,
-      "num": 151619,
-      "word": "那英王菲 搞笑姐妹花",
-      "onboard_time": 1715689757,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 151216,
       "num": 151216,
       "word": "MSI成都最前线",
       "onboard_time": 1715682738,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151143,
-      "num": 151143,
-      "word": "三周瘦肚子",
-      "onboard_time": 1715688559,
-      "rank": 35,
-      "category": "运动健身"
     },
     {
       "raw_hot": 151097,
@@ -2161,6 +2233,14 @@
       "onboard_time": 1715665758,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131549,
+      "num": 131549,
+      "word": "许嵩合肥抢票",
+      "onboard_time": 1715692158,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 130733,
@@ -2609,6 +2689,14 @@
       "onboard_time": 1715636230,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 59062,
+      "num": 496576,
+      "word": "藏在博物馆里的文物显眼包",
+      "onboard_time": 1715691919,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57996,
