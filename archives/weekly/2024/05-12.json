@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715700912759,
+  "endTime": 1715703876032,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1235,6 +1235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 751416,
+      "num": 751416,
+      "word": "樊振东",
+      "onboard_time": 1715702598,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 742141,
       "num": 742141,
       "word": "南通女孩家属呼吁大家不要再点食物",
@@ -1723,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566312,
+      "num": 566312,
+      "word": "湖南一男子当街持刀杀害女子",
+      "onboard_time": 1715699238,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564028,
       "num": 564028,
       "word": "南通车祸现场救援者称只是做了该做的",
@@ -1995,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504511,
+      "num": 504511,
+      "word": "张韶涵造型团队没有瓶颈期",
+      "onboard_time": 1715699000,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 504421,
       "num": 504421,
       "word": "腾讯一季度净利润502.7亿",
@@ -2017,14 +2041,6 @@
       "onboard_time": 1715506639,
       "rank": 13,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 502475,
-      "num": 502475,
-      "word": "湖南一男子当街持刀杀害女子",
-      "onboard_time": 1715699238,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 502137,
@@ -2177,14 +2193,6 @@
       "onboard_time": 1715568919,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 486719,
-      "num": 486719,
-      "word": "张韶涵造型团队没有瓶颈期",
-      "onboard_time": 1715699000,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 486202,
@@ -3459,6 +3467,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 303747,
+      "num": 303747,
+      "word": "郑恺女儿也会跳FREAK吗",
+      "onboard_time": 1715700500,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303078,
       "num": 286533,
       "word": "原来我们都错怪费可了",
@@ -3611,14 +3627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286149,
-      "num": 286149,
-      "word": "郑恺女儿也会跳FREAK吗",
-      "onboard_time": 1715700500,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 285866,
       "num": 277919,
       "word": "田曦薇李明德再合作",
@@ -3723,6 +3731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278074,
+      "num": 278074,
+      "word": "心疼费可",
+      "onboard_time": 1715699900,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277818,
       "num": 277818,
       "word": "那英王菲 搞笑姐妹花",
@@ -3793,14 +3809,6 @@
       "onboard_time": 1715498778,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 273317,
-      "num": 269359,
-      "word": "心疼费可",
-      "onboard_time": 1715699900,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 272202,
@@ -4329,6 +4337,14 @@
       "onboard_time": 1715682258,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 234611,
+      "num": 159599,
+      "word": "金智媛和偶遇粉丝合照",
+      "onboard_time": 1715702418,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 234469,
@@ -7531,6 +7547,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 121561,
+      "num": 121561,
+      "word": "王自健张国立居然演上父子了",
+      "onboard_time": 1715700859,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121123,
       "num": 147054,
       "word": "日本的寿司店为什么那么难约",
@@ -7841,14 +7865,6 @@
       "onboard_time": 1715566098,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 109121,
-      "num": 109121,
-      "word": "王自健张国立居然演上父子了",
-      "onboard_time": 1715700859,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 108903,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715700912759,
+  "endTime": 1715703876032,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -4843,6 +4843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 751416,
+      "num": 751416,
+      "word": "樊振东",
+      "onboard_time": 1715702598,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 751270,
       "num": 697422,
       "word": "差点认不出来马伊琍",
@@ -7259,6 +7267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566312,
+      "num": 566312,
+      "word": "湖南一男子当街持刀杀害女子",
+      "onboard_time": 1715699238,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566111,
       "num": 566111,
       "word": "济南一对夫妻失联近一个月",
@@ -8403,6 +8419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504511,
+      "num": 504511,
+      "word": "张韶涵造型团队没有瓶颈期",
+      "onboard_time": 1715699000,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 504421,
       "num": 504421,
       "word": "腾讯一季度净利润502.7亿",
@@ -8441,14 +8465,6 @@
       "onboard_time": 1715506639,
       "rank": 13,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 502475,
-      "num": 502475,
-      "word": "湖南一男子当街持刀杀害女子",
-      "onboard_time": 1715699238,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 502137,
@@ -8809,14 +8825,6 @@
       "onboard_time": 1714521977,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 486719,
-      "num": 486719,
-      "word": "张韶涵造型团队没有瓶颈期",
-      "onboard_time": 1715699000,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 486202,
@@ -14467,6 +14475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303747,
+      "num": 303747,
+      "word": "郑恺女儿也会跳FREAK吗",
+      "onboard_time": 1715700500,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303221,
       "num": 276487,
       "word": "我的阿勒泰豆瓣开分8.5",
@@ -15075,14 +15091,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 286149,
-      "num": 286149,
-      "word": "郑恺女儿也会跳FREAK吗",
-      "onboard_time": 1715700500,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286142,
       "num": 286142,
       "word": "熊猫犬",
@@ -15627,6 +15635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278074,
+      "num": 278074,
+      "word": "心疼费可",
+      "onboard_time": 1715699900,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277909,
       "num": 277909,
       "word": "单依纯怎么没上歌手",
@@ -15825,14 +15841,6 @@
       "onboard_time": 1715498778,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 273317,
-      "num": 269359,
-      "word": "心疼费可",
-      "onboard_time": 1715699900,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 273004,
@@ -18185,6 +18193,14 @@
       "onboard_time": 1715123354,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234611,
+      "num": 159599,
+      "word": "金智媛和偶遇粉丝合照",
+      "onboard_time": 1715702418,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 234469,
@@ -33987,6 +34003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121561,
+      "num": 121561,
+      "word": "王自健张国立居然演上父子了",
+      "onboard_time": 1715700859,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121464,
       "num": 129076,
       "word": "张雨绮秒猜易烊千玺",
@@ -35585,14 +35609,6 @@
       "onboard_time": 1714794857,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109121,
-      "num": 109121,
-      "word": "王自健张国立居然演上父子了",
-      "onboard_time": 1715700859,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 109086,
