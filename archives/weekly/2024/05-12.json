@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715682070798,
+  "endTime": 1715683027307,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -299,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1441812,
+      "num": 1441812,
+      "word": "TES幽默",
+      "onboard_time": 1715680998,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1439767,
       "num": 1439767,
       "word": "断眉 歌手",
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1255519,
+      "num": 786506,
+      "word": "歌手歌单",
+      "onboard_time": 1715680759,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1251549,
       "num": 1251549,
       "word": "杭州姑娘清理发霉衣柜肺部长霉菌",
@@ -440,14 +456,6 @@
       "word": "Alin报名歌手",
       "onboard_time": 1715556436,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1212169,
-      "num": 438771,
-      "word": "歌手歌单",
-      "onboard_time": 1715680759,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -825,6 +833,14 @@
       "onboard_time": 1715595919,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 872986,
+      "num": 872986,
+      "word": "G2对战TES",
+      "onboard_time": 1715678661,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 869966,
@@ -1763,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511994,
+      "num": 511994,
+      "word": "G2不收徒",
+      "onboard_time": 1715681059,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 511961,
       "num": 511961,
       "word": "五十公里桃花坞4官宣",
@@ -1833,6 +1857,14 @@
       "onboard_time": 1715601560,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 504421,
+      "num": 504421,
+      "word": "腾讯一季度净利润502.7亿",
+      "onboard_time": 1715677340,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 503298,
@@ -1907,14 +1939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 498221,
-      "num": 435860,
-      "word": "TES幽默",
-      "onboard_time": 1715680998,
-      "rank": 10,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 498121,
       "num": 257639,
       "word": "长期运动的人都啥样了",
@@ -1977,14 +2001,6 @@
       "onboard_time": 1715658319,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 489634,
-      "num": 435594,
-      "word": "腾讯一季度净利润502.7亿",
-      "onboard_time": 1715677340,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 488796,
@@ -2073,6 +2089,14 @@
       "onboard_time": 1715667501,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466592,
+      "num": 466592,
+      "word": "广东一高速收费员称桃子未熟不能走绿通",
+      "onboard_time": 1715679198,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466300,
@@ -2195,6 +2219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 441080,
+      "num": 441080,
+      "word": "王者荣耀",
+      "onboard_time": 1715681418,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 439551,
       "num": 439551,
       "word": "外交部回应拜登将对中国商品加征关税",
@@ -2307,14 +2339,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 416786,
-      "num": 416786,
-      "word": "G2对战TES",
-      "onboard_time": 1715678661,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 416780,
       "num": 295853,
       "word": "杭州退休人员接了个电话400万没了",
@@ -2331,8 +2355,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415057,
-      "num": 415057,
+      "raw_hot": 415413,
+      "num": 415413,
       "word": "罗崇创被执行死刑",
       "onboard_time": 1715677878,
       "rank": 27,
@@ -2552,14 +2576,6 @@
       "word": "高校回应教师因非升即走压力自杀",
       "onboard_time": 1715578339,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387192,
-      "num": 387192,
-      "word": "广东一高速收费员称桃子未熟不能走绿通",
-      "onboard_time": 1715679198,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2897,14 +2913,6 @@
       "onboard_time": 1715426179,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 341212,
-      "num": 341212,
-      "word": "王者荣耀",
-      "onboard_time": 1715681418,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 338896,
@@ -3411,6 +3419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278690,
+      "num": 278690,
+      "word": "12306客服回应高铁有2元矿泉水",
+      "onboard_time": 1715678899,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276338,
       "num": 276338,
       "word": "最近四川人指甲都黄了",
@@ -3771,6 +3787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248381,
+      "num": 248381,
+      "word": "以为张凌赫下楼拿外卖",
+      "onboard_time": 1715677939,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248265,
       "num": 248265,
       "word": "我发现大学生一旦过了11周",
@@ -3923,20 +3947,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234804,
+      "num": 234804,
+      "word": "你愿意让初恋忘记你吗",
+      "onboard_time": 1715682258,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234469,
       "num": 234469,
       "word": "外交部回应拜登将宣布对中国电动汽车加征关税",
       "onboard_time": 1715675718,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 234181,
-      "num": 234181,
-      "word": "12306客服回应高铁有2元矿泉水",
-      "onboard_time": 1715678899,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233943,
@@ -4411,14 +4435,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 205159,
-      "num": 205159,
-      "word": "G2不收徒",
-      "onboard_time": 1715681059,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 204966,
       "num": 183534,
       "word": "周深反深代词定档了",
@@ -4843,6 +4859,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191840,
+      "num": 191840,
+      "word": "王者520心动手记皮肤主题曲",
+      "onboard_time": 1715682140,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191747,
+      "num": 191747,
+      "word": "难哄站内预约破百万",
+      "onboard_time": 1715682858,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191730,
       "num": 191730,
       "word": "这只大熊猫由周总理亲自命名",
@@ -5169,14 +5201,6 @@
       "onboard_time": 1715604739,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 178201,
-      "num": 178201,
-      "word": "以为张凌赫下楼拿外卖",
-      "onboard_time": 1715677939,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177987,
@@ -6019,6 +6043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151216,
+      "num": 151216,
+      "word": "MSI成都最前线",
+      "onboard_time": 1715682738,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151097,
       "num": 151097,
       "word": "电影援军明日到达定档",
@@ -6153,6 +6185,14 @@
       "onboard_time": 1715508921,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146671,
+      "num": 146671,
+      "word": "星穹铁道2.2",
+      "onboard_time": 1715682140,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 146591,
@@ -6507,7 +6547,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135669,
+      "raw_hot": 135844,
       "num": 1478419,
       "word": "我国发现银河系晕里有一巨大磁环",
       "onboard_time": 1715678120,
@@ -6561,6 +6601,14 @@
       "onboard_time": 1715498599,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133583,
+      "num": 133583,
+      "word": "江浙沪爸爸人间理想",
+      "onboard_time": 1715682140,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 132930,
@@ -7027,6 +7075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 115157,
+      "num": 1754877,
+      "word": "山海福建的大食物观",
+      "onboard_time": 1715678420,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114280,
       "num": 114280,
       "word": "那英说下周状态会更好",
@@ -7387,6 +7443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96758,
+      "num": 522066,
+      "word": "被西北大爷拍的变装视频炫到了",
+      "onboard_time": 1715682197,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95610,
+      "num": 436911,
+      "word": "赖树上的大熊猫宝宝被一把摘下来了",
+      "onboard_time": 1715679439,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94658,
       "num": 94658,
       "word": "母亲节礼物",
@@ -7419,11 +7491,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91575,
-      "num": 1754877,
-      "word": "山海福建的大食物观",
-      "onboard_time": 1715678420,
-      "rank": 2,
+      "raw_hot": 91974,
+      "num": 437798,
+      "word": "偏瘫女童说出完整祝词奶奶眼睛亮了",
+      "onboard_time": 1715680338,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -7675,14 +7747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 66263,
-      "num": 436911,
-      "word": "赖树上的大熊猫宝宝被一把摘下来了",
-      "onboard_time": 1715679439,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 65476,
       "num": 65476,
       "word": "王一博渐变色外套",
@@ -7777,14 +7841,6 @@
       "onboard_time": 1715636112,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52307,
-      "num": 437798,
-      "word": "偏瘫女童说出完整祝词奶奶眼睛亮了",
-      "onboard_time": 1715680338,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52057,
