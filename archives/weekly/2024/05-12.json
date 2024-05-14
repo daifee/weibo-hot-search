@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715654425769,
+  "endTime": 1715656894628,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -195,12 +195,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1566380,
-      "num": 1566380,
+      "raw_hot": 1571578,
+      "num": 1571578,
       "word": "国乒巴黎奥运参赛大名单",
       "onboard_time": 1715653577,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1553483,
+      "num": 1553483,
+      "word": "张杰谈谢娜退出主持群原因",
+      "onboard_time": 1715653877,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1535916,
@@ -241,6 +249,14 @@
       "onboard_time": 1715475857,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1427906,
+      "num": 1427906,
+      "word": "王曼昱无缘巴黎奥运女单",
+      "onboard_time": 1715656339,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1416171,
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 916883,
-      "num": 257923,
+      "num": 286472,
       "word": "男朋友无公积金该怎么一起买房",
       "onboard_time": 1715651477,
       "rank": 20,
@@ -1027,6 +1043,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 710624,
+      "num": 710624,
+      "word": "李亚鹏就欠薪道歉",
+      "onboard_time": 1715654721,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 708961,
       "num": 580071,
       "word": "高嘉朗 恳请歌手看看我",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1715587159,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630598,
+      "num": 285357,
+      "word": "脑供血不足面部可能有4个表现",
+      "onboard_time": 1715651898,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 628145,
@@ -1379,14 +1411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 543203,
-      "num": 470055,
-      "word": "张杰谈谢娜退出主持群原因",
-      "onboard_time": 1715653877,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 538817,
       "num": 538817,
       "word": "mlxg与otto老头杯红温",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1715419880,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528284,
+      "num": 528284,
+      "word": "TFBOYS给王源新歌宣传",
+      "onboard_time": 1715656158,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 527837,
@@ -1499,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511961,
+      "num": 511961,
+      "word": "五十公里桃花坞4官宣",
+      "onboard_time": 1715653577,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510937,
       "num": 472671,
       "word": "五旬守国门三旬吃拉面",
@@ -1529,14 +1569,6 @@
       "onboard_time": 1715592439,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 508039,
-      "num": 256699,
-      "word": "脑供血不足面部可能有4个表现",
-      "onboard_time": 1715651898,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 505692,
@@ -1659,12 +1691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493098,
+      "num": 493098,
+      "word": "巴黎奥运孙颖莎陈梦出战女单",
+      "onboard_time": 1715654058,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 490415,
       "num": 280197,
       "word": "赵露思直播的妆是自己化的",
       "onboard_time": 1715613380,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488796,
+      "num": 488796,
+      "word": "周深把少管我唱成歌了",
+      "onboard_time": 1715654477,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 487691,
@@ -1704,6 +1752,14 @@
       "word": "班级成绩第一老师请全班吃烤全羊",
       "onboard_time": 1715465171,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477798,
+      "num": 477798,
+      "word": "南阳市委书记朱是西被查",
+      "onboard_time": 1715652919,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2139,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380103,
+      "num": 380103,
+      "word": "马龙第四次征战奥运会",
+      "onboard_time": 1715655619,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378620,
       "num": 189954,
       "word": "网友给歌手P的海报",
@@ -2216,14 +2280,6 @@
       "word": "奔跑吧送了张真源21份生日礼物",
       "onboard_time": 1715612000,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 366289,
-      "num": 366289,
-      "word": "五十公里桃花坞4官宣",
-      "onboard_time": 1715653577,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -2409,14 +2465,6 @@
       "onboard_time": 1715472375,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344833,
-      "num": 344833,
-      "word": "南阳市委书记朱是西被查",
-      "onboard_time": 1715652919,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343583,
@@ -2673,6 +2721,14 @@
       "onboard_time": 1715603718,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 307522,
+      "num": 307522,
+      "word": "南林大副教授首聘期不合格后自杀离世",
+      "onboard_time": 1715655378,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304428,
@@ -3235,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241082,
+      "num": 241082,
+      "word": "王楚钦孙颖莎奥运兼三项",
+      "onboard_time": 1715656039,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236534,
       "num": 488313,
       "word": "在微缩蛋糕上见到了去世前的爸爸",
@@ -3289,6 +3353,14 @@
       "onboard_time": 1715506338,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230123,
+      "num": 230123,
+      "word": "亲人证实南林大自杀副教授患抑郁症",
+      "onboard_time": 1715655678,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229727,
@@ -3361,14 +3433,6 @@
       "onboard_time": 1715515221,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224060,
-      "num": 224060,
-      "word": "巴黎奥运孙颖莎陈梦出战女单",
-      "onboard_time": 1715654058,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 223505,
@@ -3547,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213212,
+      "num": 213212,
+      "word": "陈梦第二次参加奥运会",
+      "onboard_time": 1715655738,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213204,
       "num": 213204,
       "word": "歌手2024请揭榜",
@@ -3593,6 +3665,14 @@
       "onboard_time": 1715516481,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208346,
+      "num": 208346,
+      "word": "孙颖莎世排第一9200分",
+      "onboard_time": 1715654058,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 208190,
@@ -3673,6 +3753,14 @@
       "onboard_time": 1715647160,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204755,
+      "num": 204755,
+      "word": "田曦薇李明德再合作",
+      "onboard_time": 1715656277,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 204205,
@@ -3903,6 +3991,14 @@
       "num": 196612,
       "word": "孙颖莎 球不落地永不放弃",
       "onboard_time": 1715430259,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195671,
+      "num": 195671,
+      "word": "中国乒乓球协会",
+      "onboard_time": 1715655738,
       "rank": 32,
       "category": "体育"
     },
@@ -4971,6 +5067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151097,
+      "num": 151097,
+      "word": "电影援军明日到达定档",
+      "onboard_time": 1715655438,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151002,
       "num": 151002,
       "word": "mlxg和otto和解",
@@ -4993,6 +5097,14 @@
       "onboard_time": 1715600119,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149472,
+      "num": 149472,
+      "word": "迪丽热巴代言联想",
+      "onboard_time": 1715656818,
+      "rank": 36,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 149403,
@@ -5107,6 +5219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145108,
+      "num": 145108,
+      "word": "巴黎奥运乒乓项目7月27日开赛",
+      "onboard_time": 1715655918,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145033,
       "num": 145033,
       "word": "草莓音乐节大战格莱美",
@@ -5137,14 +5257,6 @@
       "onboard_time": 1715479459,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144047,
-      "num": 144047,
-      "word": "孙颖莎世排第一9200分",
-      "onboard_time": 1715654058,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 143937,
@@ -5329,6 +5441,14 @@
       "onboard_time": 1715598139,
       "rank": 48,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 138691,
+      "num": 138691,
+      "word": "ENHYPEN将七月回归",
+      "onboard_time": 1715656818,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 138590,
@@ -5689,6 +5809,14 @@
       "onboard_time": 1715625312,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123241,
+      "num": 123241,
+      "word": "何炅两次神级救场都是在歌手",
+      "onboard_time": 1715656818,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 122914,
@@ -6308,7 +6436,7 @@
     },
     {
       "raw_hot": 87052,
-      "num": 1230299,
+      "num": 1449957,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
       "rank": 45,
