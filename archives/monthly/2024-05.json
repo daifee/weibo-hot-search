@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715672115726,
+  "endTime": 1715675077354,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2217,6 +2217,14 @@
       "onboard_time": 1714696636,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1138143,
+      "num": 1138143,
+      "word": "周深 少管我",
+      "onboard_time": 1715672298,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1136481,
@@ -4779,6 +4787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739655,
+      "num": 739655,
+      "word": "河南一商户发现欠燃气费近5亿",
+      "onboard_time": 1715669839,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738816,
       "num": 684985,
       "word": "男子冒充胖猫事件女主被行政处罚",
@@ -5169,6 +5185,14 @@
       "onboard_time": 1715009239,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 698581,
+      "num": 698581,
+      "word": "王嘉尔希望35岁前成家",
+      "onboard_time": 1715672058,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 698428,
@@ -7443,14 +7467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 541787,
-      "num": 541787,
-      "word": "河南一商户发现欠燃气费近5亿",
-      "onboard_time": 1715669839,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 541627,
       "num": 541627,
       "word": "康辉担任巴黎奥运会火炬手",
@@ -8147,12 +8163,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 505638,
+      "num": 505638,
+      "word": "西安科大改成绩事件多人被处分",
+      "onboard_time": 1715673380,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 505503,
       "num": 437127,
       "word": "向佐给向太郭碧婷过母亲节",
       "onboard_time": 1715568919,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 505272,
+      "num": 505272,
+      "word": "新冠变异株KP.2多国蔓延",
+      "onboard_time": 1715671159,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 504598,
@@ -9979,6 +10011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425345,
+      "num": 425345,
+      "word": "詹雯婷发长文",
+      "onboard_time": 1715674759,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425297,
       "num": 425297,
       "word": "郭碧婷说刘忻才40岁还年轻",
@@ -10713,6 +10753,14 @@
       "onboard_time": 1714818798,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 403259,
+      "num": 264717,
+      "word": "肖战工作室掉落惊喜",
+      "onboard_time": 1715674519,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 403110,
@@ -13259,6 +13307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 323540,
+      "num": 323540,
+      "word": "出现和媒婆抗争的职业了",
+      "onboard_time": 1715668999,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323535,
       "num": 251144,
       "word": "ENHYPEN回归",
@@ -14443,6 +14499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291503,
+      "num": 264289,
+      "word": "病人喝自己的胆汁",
+      "onboard_time": 1715671040,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 290685,
       "num": 290685,
       "word": "专家称高铁涨价是必要的",
@@ -15307,14 +15371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 273307,
-      "num": 199987,
-      "word": "病人喝自己的胆汁",
-      "onboard_time": 1715671040,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 273004,
       "num": 273004,
       "word": "T1战胜G2",
@@ -15697,14 +15753,6 @@
       "onboard_time": 1714997418,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 266824,
-      "num": 266824,
-      "word": "出现和媒婆抗争的职业了",
-      "onboard_time": 1715668999,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 266375,
@@ -17193,14 +17241,6 @@
       "onboard_time": 1714825880,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 240962,
-      "num": 240962,
-      "word": "新冠变异株KP.2多国蔓延",
-      "onboard_time": 1715671159,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 240868,
@@ -23483,6 +23523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186240,
+      "num": 186240,
+      "word": "为什么男人的花期很短",
+      "onboard_time": 1715675058,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186141,
       "num": 186141,
       "word": "二手玫瑰松弛感",
@@ -23513,6 +23561,14 @@
       "onboard_time": 1714795038,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185903,
+      "num": 185903,
+      "word": "我是歌手的梗",
+      "onboard_time": 1715674218,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 185833,
@@ -24379,6 +24435,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 178574,
+      "num": 178574,
+      "word": "微信背景图",
+      "onboard_time": 1715674759,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 178558,
       "num": 178558,
       "word": "余景天翻跳smoothie",
@@ -25073,6 +25137,14 @@
       "onboard_time": 1715008520,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174140,
+      "num": 174140,
+      "word": "栏目组回应主持人采访情侣劝分手",
+      "onboard_time": 1715673078,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173994,
@@ -28113,6 +28185,14 @@
       "onboard_time": 1715341218,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154150,
+      "num": 154150,
+      "word": "这是猫中陈萍萍吧",
+      "onboard_time": 1715673919,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 154133,
@@ -31779,6 +31859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130733,
+      "num": 130733,
+      "word": "于正晒临江仙白鹿",
+      "onboard_time": 1715672358,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130646,
       "num": 130646,
       "word": "才发现港片还有这么俊的",
@@ -33099,6 +33187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 121012,
+      "num": 121012,
+      "word": "萌探版一闪一闪亮星星",
+      "onboard_time": 1715673618,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120902,
       "num": 120902,
       "word": "五一假期各地人流量现状",
@@ -33313,14 +33409,6 @@
       "onboard_time": 1714816819,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119481,
-      "num": 119481,
-      "word": "王嘉尔希望35岁前成家",
-      "onboard_time": 1715672058,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 119455,
@@ -34745,6 +34833,14 @@
       "onboard_time": 1714747042,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107768,
+      "num": 107768,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1715674098,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 107618,
@@ -37929,6 +38025,14 @@
       "onboard_time": 1714931592,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30953,
+      "num": 283787,
+      "word": "逆天了智己L6创造麋鹿新纪录",
+      "onboard_time": 1715672119,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 30479,

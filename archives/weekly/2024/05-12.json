@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715672115726,
+  "endTime": 1715675077354,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -457,6 +457,14 @@
       "onboard_time": 1715599938,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1138143,
+      "num": 1138143,
+      "word": "周深 少管我",
+      "onboard_time": 1715672298,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1131050,
@@ -1083,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739655,
+      "num": 739655,
+      "word": "河南一商户发现欠燃气费近5亿",
+      "onboard_time": 1715669839,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738708,
       "num": 357664,
       "word": "抖音回应新规不再发布时政财经内容",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1715440162,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 698581,
+      "num": 698581,
+      "word": "王嘉尔希望35岁前成家",
+      "onboard_time": 1715672058,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 697453,
@@ -1563,14 +1587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 541787,
-      "num": 541787,
-      "word": "河南一商户发现欠燃气费近5亿",
-      "onboard_time": 1715669839,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 538817,
       "num": 538817,
       "word": "mlxg与otto老头杯红温",
@@ -1739,12 +1755,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 505638,
+      "num": 505638,
+      "word": "西安科大改成绩事件多人被处分",
+      "onboard_time": 1715673380,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 505503,
       "num": 437127,
       "word": "向佐给向太郭碧婷过母亲节",
       "onboard_time": 1715568919,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 505272,
+      "num": 505272,
+      "word": "新冠变异株KP.2多国蔓延",
+      "onboard_time": 1715671159,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 504598,
@@ -2147,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425345,
+      "num": 425345,
+      "word": "詹雯婷发长文",
+      "onboard_time": 1715674759,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423691,
       "num": 423691,
       "word": "晚霞",
@@ -2297,6 +2337,14 @@
       "onboard_time": 1715494099,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 403259,
+      "num": 264717,
+      "word": "肖战工作室掉落惊喜",
+      "onboard_time": 1715674519,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 402233,
@@ -2867,6 +2915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 323540,
+      "num": 323540,
+      "word": "出现和媒婆抗争的职业了",
+      "onboard_time": 1715668999,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323535,
       "num": 251144,
       "word": "ENHYPEN回归",
@@ -3091,6 +3147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 291503,
+      "num": 264289,
+      "word": "病人喝自己的胆汁",
+      "onboard_time": 1715671040,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 289025,
       "num": 289025,
       "word": "迪丽热巴代言联想",
@@ -3267,14 +3331,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 273307,
-      "num": 199987,
-      "word": "病人喝自己的胆汁",
-      "onboard_time": 1715671040,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 272202,
       "num": 272202,
       "word": "今年以来油价最大跌幅来了",
@@ -3345,14 +3401,6 @@
       "onboard_time": 1715659204,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 266824,
-      "num": 266824,
-      "word": "出现和媒婆抗争的职业了",
-      "onboard_time": 1715668999,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 266202,
@@ -3673,14 +3721,6 @@
       "onboard_time": 1715656039,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240962,
-      "num": 240962,
-      "word": "新冠变异株KP.2多国蔓延",
-      "onboard_time": 1715671159,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 238641,
@@ -4763,6 +4803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186240,
+      "num": 186240,
+      "word": "为什么男人的花期很短",
+      "onboard_time": 1715675058,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186208,
       "num": 186208,
       "word": "南通",
@@ -4776,6 +4824,14 @@
       "word": "二手玫瑰松弛感",
       "onboard_time": 1715563639,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185903,
+      "num": 185903,
+      "word": "我是歌手的梗",
+      "onboard_time": 1715674218,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -4905,6 +4961,14 @@
       "onboard_time": 1715671699,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178574,
+      "num": 178574,
+      "word": "微信背景图",
+      "onboard_time": 1715674759,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 178445,
@@ -5049,6 +5113,14 @@
       "onboard_time": 1715619015,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174140,
+      "num": 174140,
+      "word": "栏目组回应主持人采访情侣劝分手",
+      "onboard_time": 1715673078,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173214,
@@ -5673,6 +5745,14 @@
       "onboard_time": 1715490979,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154150,
+      "num": 154150,
+      "word": "这是猫中陈萍萍吧",
+      "onboard_time": 1715673919,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 153647,
@@ -6307,6 +6387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130733,
+      "num": 130733,
+      "word": "于正晒临江仙白鹿",
+      "onboard_time": 1715672358,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130276,
       "num": 130276,
       "word": "新版GPT可以和人视频互动",
@@ -6547,6 +6635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 121012,
+      "num": 121012,
+      "word": "萌探版一闪一闪亮星星",
+      "onboard_time": 1715673618,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120760,
       "num": 120760,
       "word": "散步是一件特别有恋爱感的事",
@@ -6585,14 +6681,6 @@
       "onboard_time": 1715585060,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119481,
-      "num": 119481,
-      "word": "王嘉尔希望35岁前成家",
-      "onboard_time": 1715672058,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 118917,
@@ -6864,6 +6952,14 @@
       "word": "亚当兰伯特月底有演出",
       "onboard_time": 1715478317,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107768,
+      "num": 107768,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1715674098,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -7496,6 +7592,14 @@
       "word": "vivoX100系列演唱会神器",
       "onboard_time": 1715606599,
       "rank": 26,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 30953,
+      "num": 283787,
+      "word": "逆天了智己L6创造麋鹿新纪录",
+      "onboard_time": 1715672119,
+      "rank": 17,
       "category": "汽车"
     },
     {
