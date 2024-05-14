@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715683027307,
+  "endTime": 1715685347889,
   "band_list": [
     {
       "raw_hot": 2577499,
@@ -507,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493961,
+      "num": 493961,
+      "word": "12306客服回应高铁有2元矿泉水",
+      "onboard_time": 1715678899,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493098,
       "num": 493098,
       "word": "巴黎奥运孙颖莎陈梦出战女单",
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415544,
+      "num": 415544,
+      "word": "王妈赵管家be了",
+      "onboard_time": 1715684597,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 415413,
       "num": 415413,
       "word": "罗崇创被执行死刑",
@@ -699,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405570,
+      "num": 405570,
+      "word": "TES 管泽元",
+      "onboard_time": 1715683038,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 404077,
       "num": 404077,
       "word": "海南6岁走失女童已溺水死亡",
@@ -721,6 +745,14 @@
       "onboard_time": 1715662639,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392606,
+      "num": 392606,
+      "word": "开播前雪中送炭 播出后锦上添花",
+      "onboard_time": 1715683217,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 385341,
@@ -801,6 +833,14 @@
       "onboard_time": 1715668999,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 318857,
+      "num": 294229,
+      "word": "秦岚说赵丽颖是没有攻击性的女演员",
+      "onboard_time": 1715684297,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 316735,
@@ -897,14 +937,6 @@
       "onboard_time": 1715651477,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 278690,
-      "num": 278690,
-      "word": "12306客服回应高铁有2元矿泉水",
-      "onboard_time": 1715678899,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275761,
@@ -1051,12 +1083,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244551,
+      "num": 244551,
+      "word": "滔搏下路",
+      "onboard_time": 1715683697,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 241082,
       "num": 241082,
       "word": "王楚钦孙颖莎奥运兼三项",
       "onboard_time": 1715656039,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238955,
+      "num": 238955,
+      "word": "日月山埋尸案罪犯马成被执行死刑",
+      "onboard_time": 1715683098,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238641,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1715679020,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213354,
+      "num": 213354,
+      "word": "微信及WeChat月活13.59亿",
+      "onboard_time": 1715684297,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 213212,
@@ -1363,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192312,
+      "num": 192312,
+      "word": "于适 是金子总能发光",
+      "onboard_time": 1715685077,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191840,
       "num": 191840,
       "word": "王者520心动手记皮肤主题曲",
@@ -1483,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176798,
+      "num": 1478419,
+      "word": "我国发现银河系晕里有一巨大磁环",
+      "onboard_time": 1715678120,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176597,
       "num": 176597,
       "word": "缅怀焦裕禄",
@@ -1577,6 +1649,14 @@
       "onboard_time": 1715662881,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167842,
+      "num": 167842,
+      "word": "背着善宰跑OST",
+      "onboard_time": 1715683697,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 167171,
@@ -1697,6 +1777,14 @@
       "onboard_time": 1715655438,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150349,
+      "num": 150349,
+      "word": "处女座越唠叨越爱你",
+      "onboard_time": 1715685200,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 149178,
@@ -1851,12 +1939,20 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 135844,
-      "num": 1478419,
-      "word": "我国发现银河系晕里有一巨大磁环",
-      "onboard_time": 1715678120,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 135853,
+      "num": 135853,
+      "word": "MSI胜败分组赛",
+      "onboard_time": 1715684297,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 133665,
+      "num": 133665,
+      "word": "落日8分钟效应",
+      "onboard_time": 1715684119,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 133583,
@@ -2043,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113868,
+      "num": 113868,
+      "word": "追问是T人聊天的最高礼仪",
+      "onboard_time": 1715682619,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113320,
       "num": 113320,
       "word": "我要是有这样的嘴就好了",
@@ -2169,6 +2273,14 @@
       "onboard_time": 1715637911,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88192,
+      "num": 213379,
+      "word": "零跑汽车将和玛莎拉蒂同框销售",
+      "onboard_time": 1715683456,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 87052,
@@ -2337,6 +2449,14 @@
       "onboard_time": 1715598919,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48680,
+      "num": 225059,
+      "word": "阿勒泰连续两日出现极光",
+      "onboard_time": 1715685260,
+      "rank": 25,
+      "category": "自然"
     },
     {
       "raw_hot": 34568,

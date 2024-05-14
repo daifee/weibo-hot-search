@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715683027307,
+  "endTime": 1715685347889,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1971,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493961,
+      "num": 493961,
+      "word": "12306客服回应高铁有2元矿泉水",
+      "onboard_time": 1715678899,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493098,
       "num": 493098,
       "word": "巴黎奥运孙颖莎陈梦出战女单",
@@ -2355,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415544,
+      "num": 415544,
+      "word": "王妈赵管家be了",
+      "onboard_time": 1715684597,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 415413,
       "num": 415413,
       "word": "罗崇创被执行死刑",
@@ -2459,6 +2475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 405570,
+      "num": 405570,
+      "word": "TES 管泽元",
+      "onboard_time": 1715683038,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 404106,
       "num": 404106,
       "word": "腾格尔方声明",
@@ -2537,6 +2561,14 @@
       "onboard_time": 1715662639,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392606,
+      "num": 392606,
+      "word": "开播前雪中送炭 播出后锦上添花",
+      "onboard_time": 1715683217,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 392355,
@@ -3075,6 +3107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 318857,
+      "num": 294229,
+      "word": "秦岚说赵丽颖是没有攻击性的女演员",
+      "onboard_time": 1715684297,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318059,
       "num": 318059,
       "word": "极光",
@@ -3417,14 +3457,6 @@
       "onboard_time": 1715651477,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 278690,
-      "num": 278690,
-      "word": "12306客服回应高铁有2元矿泉水",
-      "onboard_time": 1715678899,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276338,
@@ -3859,6 +3891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244551,
+      "num": 244551,
+      "word": "滔搏下路",
+      "onboard_time": 1715683697,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 243689,
       "num": 243689,
       "word": "工作后才尝到经济独立的甜头",
@@ -3889,6 +3929,14 @@
       "onboard_time": 1715656039,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238955,
+      "num": 238955,
+      "word": "日月山埋尸案罪犯马成被执行死刑",
+      "onboard_time": 1715683098,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238641,
@@ -4265,6 +4313,14 @@
       "onboard_time": 1715679020,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213354,
+      "num": 213354,
+      "word": "微信及WeChat月活13.59亿",
+      "onboard_time": 1715684297,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 213212,
@@ -4843,6 +4899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192312,
+      "num": 192312,
+      "word": "于适 是金子总能发光",
+      "onboard_time": 1715685077,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192111,
       "num": 192111,
       "word": "威神V在爱宝乐园打工",
@@ -5235,6 +5299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176798,
+      "num": 1478419,
+      "word": "我国发现银河系晕里有一巨大磁环",
+      "onboard_time": 1715678120,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176653,
       "num": 370773,
       "word": "母亲说吴艳妮夺冠是最好的母亲节礼物",
@@ -5521,6 +5593,14 @@
       "onboard_time": 1715600058,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 167842,
+      "num": 167842,
+      "word": "背着善宰跑OST",
+      "onboard_time": 1715683697,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 167807,
@@ -6083,6 +6163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150349,
+      "num": 150349,
+      "word": "处女座越唠叨越爱你",
+      "onboard_time": 1715685200,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149403,
       "num": 364020,
       "word": "嗓子废了是职业病吗",
@@ -6547,12 +6635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135844,
-      "num": 1478419,
-      "word": "我国发现银河系晕里有一巨大磁环",
-      "onboard_time": 1715678120,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 135853,
+      "num": 135853,
+      "word": "MSI胜败分组赛",
+      "onboard_time": 1715684297,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 135613,
@@ -6601,6 +6689,14 @@
       "onboard_time": 1715498599,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133665,
+      "num": 133665,
+      "word": "落日8分钟效应",
+      "onboard_time": 1715684119,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 133583,
@@ -7115,6 +7211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113868,
+      "num": 113868,
+      "word": "追问是T人聊天的最高礼仪",
+      "onboard_time": 1715682619,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113682,
       "num": 113682,
       "word": "李承铉被错认为女士",
@@ -7555,6 +7659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88192,
+      "num": 213379,
+      "word": "零跑汽车将和玛莎拉蒂同框销售",
+      "onboard_time": 1715683456,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 87986,
       "num": 104764,
       "word": "豪猪宝宝的水果吃播",
@@ -7889,6 +8001,14 @@
       "onboard_time": 1715469193,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48680,
+      "num": 225059,
+      "word": "阿勒泰连续两日出现极光",
+      "onboard_time": 1715685260,
+      "rank": 25,
+      "category": "自然"
     },
     {
       "raw_hot": 46950,
