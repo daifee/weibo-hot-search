@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715675077354,
+  "endTime": 1715675838179,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1715653877,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1575436,
+      "num": 1575436,
+      "word": "周深 少管我",
+      "onboard_time": 1715672298,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1571578,
@@ -2217,14 +2225,6 @@
       "onboard_time": 1714696636,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1138143,
-      "num": 1138143,
-      "word": "周深 少管我",
-      "onboard_time": 1715672298,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1136481,
@@ -3939,6 +3939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 834174,
+      "num": 514162,
+      "word": "詹雯婷发长文",
+      "onboard_time": 1715674759,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 833538,
       "num": 833538,
       "word": "榴莲一斤跌破10元",
@@ -5187,8 +5195,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 698581,
-      "num": 698581,
+      "raw_hot": 698763,
+      "num": 698763,
       "word": "王嘉尔希望35岁前成家",
       "onboard_time": 1715672058,
       "rank": 48,
@@ -5697,6 +5705,14 @@
       "onboard_time": 1715419218,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 661165,
+      "num": 661165,
+      "word": "西安科大改成绩事件多人被处分",
+      "onboard_time": 1715673380,
+      "rank": 8,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 660616,
@@ -7155,6 +7171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557501,
+      "num": 557501,
+      "word": "新冠变异株KP.2多国蔓延",
+      "onboard_time": 1715671159,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 556592,
       "num": 376231,
       "word": "女子胎儿畸形引产后分手被要求退15万彩礼",
@@ -7979,6 +8003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513165,
+      "num": 513165,
+      "word": "微信背景图",
+      "onboard_time": 1715674759,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 511961,
       "num": 511961,
       "word": "五十公里桃花坞4官宣",
@@ -8163,28 +8195,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 505638,
-      "num": 505638,
-      "word": "西安科大改成绩事件多人被处分",
-      "onboard_time": 1715673380,
-      "rank": 8,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 505503,
       "num": 437127,
       "word": "向佐给向太郭碧婷过母亲节",
       "onboard_time": 1715568919,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 505272,
-      "num": 505272,
-      "word": "新冠变异株KP.2多国蔓延",
-      "onboard_time": 1715671159,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 504598,
@@ -8361,6 +8377,14 @@
       "onboard_time": 1714998379,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495509,
+      "num": 264717,
+      "word": "肖战工作室掉落惊喜",
+      "onboard_time": 1715674519,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 495262,
@@ -10011,14 +10035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425345,
-      "num": 425345,
-      "word": "詹雯婷发长文",
-      "onboard_time": 1715674759,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 425297,
       "num": 425297,
       "word": "郭碧婷说刘忻才40岁还年轻",
@@ -10753,14 +10769,6 @@
       "onboard_time": 1714818798,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 403259,
-      "num": 264717,
-      "word": "肖战工作室掉落惊喜",
-      "onboard_time": 1715674519,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 403110,
@@ -14043,6 +14051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304050,
+      "num": 264289,
+      "word": "病人喝自己的胆汁",
+      "onboard_time": 1715671040,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 304023,
       "num": 304023,
       "word": "汤唯金秀贤合影",
@@ -14497,14 +14513,6 @@
       "onboard_time": 1715266940,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291503,
-      "num": 264289,
-      "word": "病人喝自己的胆汁",
-      "onboard_time": 1715671040,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 290685,
@@ -16513,6 +16521,14 @@
       "onboard_time": 1715065339,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 252747,
+      "num": 252747,
+      "word": "为什么男人的花期很短",
+      "onboard_time": 1715675058,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 252589,
@@ -20555,6 +20571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203645,
+      "num": 203645,
+      "word": "我是歌手的梗",
+      "onboard_time": 1715674218,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203401,
       "num": 203401,
       "word": "张韶涵巡演官宣",
@@ -21945,6 +21969,14 @@
       "onboard_time": 1715227520,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195371,
+      "num": 195371,
+      "word": "李亚鹏欠薪事件当事人再发声",
+      "onboard_time": 1715675479,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 195344,
@@ -23523,14 +23555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186240,
-      "num": 186240,
-      "word": "为什么男人的花期很短",
-      "onboard_time": 1715675058,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186141,
       "num": 186141,
       "word": "二手玫瑰松弛感",
@@ -23561,14 +23585,6 @@
       "onboard_time": 1714795038,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185903,
-      "num": 185903,
-      "word": "我是歌手的梗",
-      "onboard_time": 1715674218,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 185833,
@@ -24433,14 +24449,6 @@
       "onboard_time": 1715054839,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 178574,
-      "num": 178574,
-      "word": "微信背景图",
-      "onboard_time": 1715674759,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 178558,
@@ -27577,6 +27585,14 @@
       "onboard_time": 1714613838,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158008,
+      "num": 158008,
+      "word": "拜登将宣布对中国电动汽车加征关税",
+      "onboard_time": 1715675538,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 157987,
@@ -32067,6 +32083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129233,
+      "num": 129233,
+      "word": "lesserafim用舞蹈代替live",
+      "onboard_time": 1715675119,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129213,
       "num": 129213,
       "word": "成家开机",
@@ -33851,6 +33875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116148,
+      "num": 116148,
+      "word": "外交部回应拜登将宣布对中国电动汽车加征关税",
+      "onboard_time": 1715675718,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116034,
       "num": 116034,
       "word": "没有辣椒的世界好像没了灵魂",
@@ -34505,6 +34537,14 @@
       "onboard_time": 1715445257,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 110923,
+      "num": 110923,
+      "word": "蓝花楹是初夏的限定浪漫",
+      "onboard_time": 1715675418,
+      "rank": 49,
+      "category": "自然"
     },
     {
       "raw_hot": 110915,
@@ -38028,7 +38068,7 @@
     },
     {
       "raw_hot": 30953,
-      "num": 283787,
+      "num": 303939,
       "word": "逆天了智己L6创造麋鹿新纪录",
       "onboard_time": 1715672119,
       "rank": 17,
