@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/15 00:24:36 ~ 2024/05/15 00:39:48
+本榜单时间：2024/05/15 00:24:36 ~ 2024/05/15 01:16:10
 </p>
 </blockquote>
 <p>
@@ -311,6 +311,12 @@ G2对战TES（热度：56418）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%8C%97%E8%B6%85%E8%AF%9D%23" target="weibo">
 花少北超话（热度：53370）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%94%9F%E7%AC%AC%E4%B9%9D%E9%9B%86%23" target="weibo">
+新生第九集（热度：47542）
 </a>
 </li>
 

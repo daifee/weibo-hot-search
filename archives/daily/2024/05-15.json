@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715704788974,
+  "endTime": 1715706970602,
   "band_list": [
     {
       "raw_hot": 1126452,
@@ -401,6 +401,14 @@
       "onboard_time": 1715698760,
       "rank": 49,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 47542,
+      "num": 47542,
+      "word": "新生第九集",
+      "onboard_time": 1715704875,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 27266,
