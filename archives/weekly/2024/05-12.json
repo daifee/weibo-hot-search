@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715693672890,
+  "endTime": 1715696263452,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1170722,
+      "num": 289927,
+      "word": "女子大量咳血体内有个20岁肿瘤",
+      "onboard_time": 1715691557,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1161811,
       "num": 1161811,
       "word": "难听",
@@ -593,14 +601,6 @@
       "onboard_time": 1715565377,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1103493,
-      "num": 289927,
-      "word": "女子大量咳血体内有个20岁肿瘤",
-      "onboard_time": 1715691557,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1098738,
@@ -969,6 +969,14 @@
       "onboard_time": 1715611761,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 845865,
+      "num": 845865,
+      "word": "花少北 小号",
+      "onboard_time": 1715692279,
+      "rank": 17,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 843809,
@@ -1379,6 +1387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 679083,
+      "num": 679083,
+      "word": "退休银行职员被查出曾挪用储户存款被捕",
+      "onboard_time": 1715692939,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675773,
       "num": 675773,
       "word": "北京火烧云",
@@ -1539,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 619541,
+      "num": 619541,
+      "word": "难哄海报",
+      "onboard_time": 1715694979,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 618568,
       "num": 618568,
       "word": "打游戏被当反面教材的男孩4年后送父亲一辆车",
@@ -1569,14 +1593,6 @@
       "onboard_time": 1715509584,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 614175,
-      "num": 614175,
-      "word": "花少北 小号",
-      "onboard_time": 1715692279,
-      "rank": 17,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 610604,
@@ -1753,6 +1769,14 @@
       "onboard_time": 1715661861,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546193,
+      "num": 546193,
+      "word": "民政局回应女婴被人丢弃垃圾桶",
+      "onboard_time": 1715692398,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538817,
@@ -2267,6 +2291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 457222,
+      "num": 457222,
+      "word": "十个勤天",
+      "onboard_time": 1715693059,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452451,
       "num": 452451,
       "word": "王曼昱是巴黎团体第三人不二人选",
@@ -2392,6 +2424,14 @@
       "word": "南林大副教授首聘期不合格后自杀离世",
       "onboard_time": 1715655378,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427620,
+      "num": 427620,
+      "word": "多地地铁电梯不再提倡左行右立",
+      "onboard_time": 1715693059,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2715,6 +2755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 384118,
+      "num": 384118,
+      "word": "王源直播",
+      "onboard_time": 1715693959,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381728,
       "num": 381728,
       "word": "疑因未刹车让道警车高速路逼停私家车",
@@ -2801,14 +2849,6 @@
       "onboard_time": 1715551572,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370532,
-      "num": 370532,
-      "word": "十个勤天",
-      "onboard_time": 1715693059,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 370059,
@@ -3075,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336281,
+      "num": 270644,
+      "word": "莫文蔚歌单泄露",
+      "onboard_time": 1715693299,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 335071,
       "num": 335071,
       "word": "游客模仿危险网红悬崖照吓到腿抖",
@@ -3217,6 +3265,14 @@
       "onboard_time": 1715591120,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323417,
+      "num": 266166,
+      "word": "终于看懂尺寸的差别了",
+      "onboard_time": 1715692879,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 321215,
@@ -3473,14 +3529,6 @@
       "onboard_time": 1715689219,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289098,
-      "num": 289098,
-      "word": "民政局回应女婴被人丢弃垃圾桶",
-      "onboard_time": 1715692398,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289025,
@@ -4211,14 +4259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231501,
-      "num": 213379,
-      "word": "退休银行职员被查出曾挪用储户存款被捕",
-      "onboard_time": 1715692939,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230880,
       "num": 230880,
       "word": "IVE香港演唱会时间",
@@ -4256,6 +4296,14 @@
       "word": "黄景瑜接受联合国新闻专访",
       "onboard_time": 1715581038,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 226795,
+      "num": 226795,
+      "word": "第15届金扫帚奖获奖名单",
+      "onboard_time": 1715691798,
+      "rank": 32,
       "category": "电影"
     },
     {
@@ -4363,6 +4411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220553,
+      "num": 203802,
+      "word": "TheShy说我去G2有机会吗",
+      "onboard_time": 1715694799,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220169,
       "num": 278531,
       "word": "蓝田纪委回应副镇长半夜叫别人妻子唱歌",
@@ -4459,14 +4515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216526,
-      "num": 216526,
-      "word": "第15届金扫帚奖获奖名单",
-      "onboard_time": 1715691798,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 216210,
       "num": 183418,
       "word": "有人望梅止渴有人望妹止疯",
@@ -4528,6 +4576,14 @@
       "word": "歌手2024请揭榜",
       "onboard_time": 1715576182,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213095,
+      "num": 213095,
+      "word": "蒋敦豪 田间的舞狮少年",
+      "onboard_time": 1715694320,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -4705,6 +4761,14 @@
       "onboard_time": 1715647160,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204263,
+      "num": 204263,
+      "word": "晚安大小姐打歌舞台",
+      "onboard_time": 1715695579,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 204205,
@@ -5499,14 +5563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178751,
-      "num": 214023,
-      "word": "多地地铁电梯不再提倡左行右立",
-      "onboard_time": 1715693059,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178722,
       "num": 178722,
       "word": "金智媛新加坡活动现场",
@@ -5713,6 +5769,14 @@
       "onboard_time": 1715589379,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 171903,
+      "num": 171903,
+      "word": "原来还有无刺榴莲",
+      "onboard_time": 1715696121,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 171754,
@@ -5969,14 +6033,6 @@
       "onboard_time": 1715578278,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164601,
-      "num": 164601,
-      "word": "莫文蔚歌单泄露",
-      "onboard_time": 1715693299,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 164567,
@@ -7307,6 +7363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122752,
+      "num": 122752,
+      "word": "60后老员工因不会线上请假被开除",
+      "onboard_time": 1715696240,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122690,
       "num": 1154518,
       "word": "一起打卡夏天里的中国",
@@ -7329,14 +7393,6 @@
       "onboard_time": 1715605999,
       "rank": 47,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 121485,
-      "num": 121485,
-      "word": "终于看懂尺寸的差别了",
-      "onboard_time": 1715692879,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 121123,
@@ -8236,7 +8292,7 @@
     },
     {
       "raw_hot": 60695,
-      "num": 506192,
+      "num": 552163,
       "word": "藏在博物馆里的文物显眼包",
       "onboard_time": 1715691919,
       "rank": 9,
@@ -8265,6 +8321,14 @@
       "onboard_time": 1715503758,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55668,
+      "num": 897386,
+      "word": "行进看中国",
+      "onboard_time": 1715694320,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55177,
@@ -8377,6 +8441,14 @@
       "onboard_time": 1715623871,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 34259,
+      "num": 174926,
+      "word": "阿里云AI收入三位数增长",
+      "onboard_time": 1715693658,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 33433,
@@ -8553,14 +8625,6 @@
       "onboard_time": 1715588900,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 8663,
-      "num": 111969,
-      "word": "阿里云AI收入三位数增长",
-      "onboard_time": 1715693658,
-      "rank": 49,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
