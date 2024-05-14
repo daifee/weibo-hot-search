@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715692849037,
+  "endTime": 1715693672890,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -267,6 +267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1617167,
+      "num": 1617167,
+      "word": "雨霖铃 杨洋",
+      "onboard_time": 1715691019,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1588486,
       "num": 1588486,
       "word": "张杰谈谢娜退出主持群原因",
@@ -337,14 +345,6 @@
       "onboard_time": 1715475857,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1433013,
-      "num": 1433013,
-      "word": "雨霖铃 杨洋",
-      "onboard_time": 1715691019,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1416171,
@@ -593,6 +593,14 @@
       "onboard_time": 1715565377,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1103493,
+      "num": 289927,
+      "word": "女子大量咳血体内有个20岁肿瘤",
+      "onboard_time": 1715691557,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1098738,
@@ -1107,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 783239,
-      "num": 289927,
-      "word": "女子大量咳血体内有个20岁肿瘤",
-      "onboard_time": 1715691557,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 780811,
       "num": 780811,
       "word": "这届格莱美要在长沙举办吗",
@@ -1569,6 +1569,14 @@
       "onboard_time": 1715509584,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 614175,
+      "num": 614175,
+      "word": "花少北 小号",
+      "onboard_time": 1715692279,
+      "rank": 17,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 610604,
@@ -2795,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370532,
+      "num": 370532,
+      "word": "十个勤天",
+      "onboard_time": 1715693059,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370059,
       "num": 306219,
       "word": "王鹤棣新综艺官宣",
@@ -2932,7 +2948,7 @@
     },
     {
       "raw_hot": 351932,
-      "num": 280570,
+      "num": 283373,
       "word": "歌手2024",
       "onboard_time": 1715561658,
       "rank": 22,
@@ -3145,14 +3161,6 @@
       "onboard_time": 1715584098,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327643,
-      "num": 327643,
-      "word": "花少北 小号",
-      "onboard_time": 1715692279,
-      "rank": 17,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 327348,
@@ -3467,6 +3475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289098,
+      "num": 289098,
+      "word": "民政局回应女婴被人丢弃垃圾桶",
+      "onboard_time": 1715692398,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289025,
       "num": 289025,
       "word": "迪丽热巴代言联想",
@@ -3593,6 +3609,14 @@
       "onboard_time": 1715651477,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277818,
+      "num": 277818,
+      "word": "那英王菲 搞笑姐妹花",
+      "onboard_time": 1715689757,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276338,
@@ -3947,14 +3971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251779,
-      "num": 251779,
-      "word": "那英王菲 搞笑姐妹花",
-      "onboard_time": 1715689757,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 251270,
       "num": 251270,
       "word": "金多贤出演韩版那些年女主",
@@ -4193,6 +4209,14 @@
       "onboard_time": 1715674218,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231501,
+      "num": 213379,
+      "word": "退休银行职员被查出曾挪用储户存款被捕",
+      "onboard_time": 1715692939,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230880,
@@ -4435,6 +4459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216526,
+      "num": 216526,
+      "word": "第15届金扫帚奖获奖名单",
+      "onboard_time": 1715691798,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216210,
       "num": 183418,
       "word": "有人望梅止渴有人望妹止疯",
@@ -4521,6 +4553,14 @@
       "onboard_time": 1715667139,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212147,
+      "num": 212147,
+      "word": "脂肪如何才能排出体外的",
+      "onboard_time": 1715688619,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 211455,
@@ -4827,6 +4867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200474,
+      "num": 1555075,
+      "word": "我国发现银河系晕里有一巨大磁环",
+      "onboard_time": 1715678120,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 200161,
       "num": 201147,
       "word": "陷入我们的热恋 男女主",
@@ -4865,14 +4913,6 @@
       "onboard_time": 1715667258,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198253,
-      "num": 1555075,
-      "word": "我国发现银河系晕里有一巨大磁环",
-      "onboard_time": 1715678120,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 198125,
@@ -5001,14 +5041,6 @@
       "onboard_time": 1715686159,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193946,
-      "num": 193946,
-      "word": "第15届金扫帚奖获奖名单",
-      "onboard_time": 1715691798,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 193922,
@@ -5419,14 +5451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181296,
-      "num": 181296,
-      "word": "脂肪如何才能排出体外的",
-      "onboard_time": 1715688619,
-      "rank": 33,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 180047,
       "num": 583849,
       "word": "记者北川直播白蝴蝶入镜6次",
@@ -5475,6 +5499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178751,
+      "num": 214023,
+      "word": "多地地铁电梯不再提倡左行右立",
+      "onboard_time": 1715693059,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178722,
       "num": 178722,
       "word": "金智媛新加坡活动现场",
@@ -5515,20 +5547,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 177378,
+      "num": 177378,
+      "word": "三周瘦肚子",
+      "onboard_time": 1715688559,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 177109,
       "num": 177109,
       "word": "WTT太原",
       "onboard_time": 1715482698,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177058,
-      "num": 177058,
-      "word": "民政局回应女婴被人丢弃垃圾桶",
-      "onboard_time": 1715692398,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176653,
@@ -5609,14 +5641,6 @@
       "onboard_time": 1715519781,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174792,
-      "num": 174792,
-      "word": "三周瘦肚子",
-      "onboard_time": 1715688559,
-      "rank": 35,
-      "category": "运动健身"
     },
     {
       "raw_hot": 174565,
@@ -5945,6 +5969,14 @@
       "onboard_time": 1715578278,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164601,
+      "num": 164601,
+      "word": "莫文蔚歌单泄露",
+      "onboard_time": 1715693299,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 164567,
@@ -7299,6 +7331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 121485,
+      "num": 121485,
+      "word": "终于看懂尺寸的差别了",
+      "onboard_time": 1715692879,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 121123,
       "num": 147054,
       "word": "日本的寿司店为什么那么难约",
@@ -8195,8 +8235,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59062,
-      "num": 496576,
+      "raw_hot": 60695,
+      "num": 506192,
       "word": "藏在博物馆里的文物显眼包",
       "onboard_time": 1715691919,
       "rank": 9,
@@ -8513,6 +8553,14 @@
       "onboard_time": 1715588900,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8663,
+      "num": 111969,
+      "word": "阿里云AI收入三位数增长",
+      "onboard_time": 1715693658,
+      "rank": 49,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
