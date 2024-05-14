@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715715249398,
+  "endTime": 1715718020731,
   "band_list": [
     {
       "raw_hot": 1126452,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60949,
+      "num": 35050,
+      "word": "手机被监听一招就能解决",
+      "onboard_time": 1715713331,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 60776,
       "num": 60776,
       "word": "沈小婷回国第一站跑男",
@@ -433,14 +441,6 @@
       "onboard_time": 1715691019,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31493,
-      "num": 31493,
-      "word": "手机被监听一招就能解决",
-      "onboard_time": 1715713331,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 28102,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16782,
+      "num": 16782,
+      "word": "留子打败老外靠的是无知",
+      "onboard_time": 1715716811,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16268,
       "num": 18403,
       "word": "爱一个本身就很好的人",
@@ -505,6 +513,14 @@
       "onboard_time": 1715707033,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11714,
+      "num": 15442,
+      "word": "嗓子出现4种变化及时就医",
+      "onboard_time": 1715718011,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 10522,
