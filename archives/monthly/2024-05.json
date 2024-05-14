@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715703876032,
+  "endTime": 1715704788974,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2369,6 +2369,14 @@
       "onboard_time": 1715328858,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1126452,
+      "num": 1126452,
+      "word": "樊振东",
+      "onboard_time": 1715702598,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1124790,
@@ -4841,14 +4849,6 @@
       "onboard_time": 1715093599,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 751416,
-      "num": 751416,
-      "word": "樊振东",
-      "onboard_time": 1715702598,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 751270,
@@ -18196,7 +18196,7 @@
     },
     {
       "raw_hot": 234611,
-      "num": 159599,
+      "num": 231530,
       "word": "金智媛和偶遇粉丝合照",
       "onboard_time": 1715702418,
       "rank": 21,
@@ -38361,6 +38361,14 @@
       "onboard_time": 1714757354,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53370,
+      "num": 53370,
+      "word": "花少北超话",
+      "onboard_time": 1715698760,
+      "rank": 49,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 52710,

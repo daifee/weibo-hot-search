@@ -1,0 +1,410 @@
+{
+  "runTime": 1715704788974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1126452,
+        "num": 1126452,
+        "word": "樊振东",
+        "onboard_time": 1715702598,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524203,
+        "num": 524203,
+        "word": "歌手报名 没档期",
+        "onboard_time": 1715677340,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19500,
+        "num": 474582,
+        "word": "行进看中国",
+        "onboard_time": 1715694320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 468444,
+        "num": 468444,
+        "word": "湖南一男子当街持刀杀害女子",
+        "onboard_time": 1715699238,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411397,
+        "num": 411397,
+        "word": "张韶涵造型团队没有瓶颈期",
+        "onboard_time": 1715699000,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342578,
+        "num": 342578,
+        "word": "西安科大威胁老师改成绩的学生家长身份成谜",
+        "onboard_time": 1715697438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335127,
+        "num": 335127,
+        "word": "雨霖铃 杨洋",
+        "onboard_time": 1715691019,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332886,
+        "num": 332886,
+        "word": "青岛一女童发热输液后死亡",
+        "onboard_time": 1715697020,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318138,
+        "num": 318138,
+        "word": "花少北 小号",
+        "onboard_time": 1715692279,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 19373,
+        "num": 299800,
+        "word": "救援现场猫猫拳对决消防咏春",
+        "onboard_time": 1715699119,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293671,
+        "num": 293671,
+        "word": "微信背景图",
+        "onboard_time": 1715674759,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274031,
+        "num": 274031,
+        "word": "IVE MV画面",
+        "onboard_time": 1715697680,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273058,
+        "num": 273058,
+        "word": "难哄海报",
+        "onboard_time": 1715694979,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231530,
+        "num": 231530,
+        "word": "金智媛和偶遇粉丝合照",
+        "onboard_time": 1715702418,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230807,
+        "num": 230807,
+        "word": "心疼费可",
+        "onboard_time": 1715699900,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212586,
+        "num": 212586,
+        "word": "TES幽默",
+        "onboard_time": 1715680998,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212207,
+        "num": 212207,
+        "word": "奸淫幼女小学老师死刑上诉被驳回",
+        "onboard_time": 1715676799,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199539,
+        "num": 199539,
+        "word": "王妈赵管家be了",
+        "onboard_time": 1715684597,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152136,
+        "num": 152136,
+        "word": "大满败",
+        "onboard_time": 1715685859,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151032,
+        "num": 151032,
+        "word": "董明珠再回应玫瑰空调被吐槽",
+        "onboard_time": 1715697861,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296680,
+        "num": 145949,
+        "word": "女子大量咳血体内有个20岁肿瘤",
+        "onboard_time": 1715691557,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194924,
+        "num": 142900,
+        "word": "郑恺女儿也会跳FREAK吗",
+        "onboard_time": 1715700500,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189058,
+        "num": 142339,
+        "word": "赵露思将参与巴黎奥运火炬传递",
+        "onboard_time": 1715697799,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139634,
+        "num": 139634,
+        "word": "G2战胜TES",
+        "onboard_time": 1715685620,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128199,
+        "num": 128199,
+        "word": "詹雯婷发长文",
+        "onboard_time": 1715674759,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124160,
+        "num": 124160,
+        "word": "歌手歌单",
+        "onboard_time": 1715680759,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115448,
+        "num": 115448,
+        "word": "这次轮到阿勒泰了",
+        "onboard_time": 1715699179,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113436,
+        "num": 113436,
+        "word": "王自健张国立居然演上父子了",
+        "onboard_time": 1715700859,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111253,
+        "num": 111253,
+        "word": "背着善宰跑第12集",
+        "onboard_time": 1715696301,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110330,
+        "num": 110330,
+        "word": "原来还有无刺榴莲",
+        "onboard_time": 1715696121,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105482,
+        "num": 105482,
+        "word": "十个勤天",
+        "onboard_time": 1715693059,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104383,
+        "num": 104383,
+        "word": "多地地铁电梯不再提倡左行右立",
+        "onboard_time": 1715693059,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99695,
+        "num": 99695,
+        "word": "JackeyLove 管泽元",
+        "onboard_time": 1715688678,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97329,
+        "num": 97329,
+        "word": "一天的疲惫突然就被治愈了",
+        "onboard_time": 1715698820,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93177,
+        "num": 93177,
+        "word": "秦岚说赵丽颖是没有攻击性的女演员",
+        "onboard_time": 1715684297,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91204,
+        "num": 91204,
+        "word": "周深 少管我",
+        "onboard_time": 1715672298,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89135,
+        "num": 89135,
+        "word": "终于看懂尺寸的差别了",
+        "onboard_time": 1715692879,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 83663,
+        "num": 83663,
+        "word": "莫文蔚歌单泄露",
+        "onboard_time": 1715693299,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79452,
+        "num": 79452,
+        "word": "60后老员工因不会线上请假被开除",
+        "onboard_time": 1715696240,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77153,
+        "num": 77153,
+        "word": "第15届金扫帚奖获奖名单",
+        "onboard_time": 1715691798,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75451,
+        "num": 75451,
+        "word": "新生第十集",
+        "onboard_time": 1715690358,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73760,
+        "num": 73760,
+        "word": "娜扎是江疏影的玩具吗",
+        "onboard_time": 1715697680,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69812,
+        "num": 69812,
+        "word": "TheShy说我去G2有机会吗",
+        "onboard_time": 1715694799,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66323,
+        "num": 66323,
+        "word": "王源直播",
+        "onboard_time": 1715693959,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57808,
+        "num": 57808,
+        "word": "晚安大小姐打歌舞台",
+        "onboard_time": 1715695579,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68732,
+        "num": 57788,
+        "word": "TES 管泽元",
+        "onboard_time": 1715683038,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57743,
+        "num": 57743,
+        "word": "蒋敦豪 田间的舞狮少年",
+        "onboard_time": 1715694320,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56574,
+        "num": 56574,
+        "word": "歌手2024",
+        "onboard_time": 1715692340,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56418,
+        "num": 56418,
+        "word": "G2对战TES",
+        "onboard_time": 1715678661,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53370,
+        "num": 53370,
+        "word": "花少北超话",
+        "onboard_time": 1715698760,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快陆海新通道空中丝绸之路建设#"
+    }
+  }
+}
