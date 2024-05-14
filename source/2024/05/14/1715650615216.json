@@ -1,0 +1,410 @@
+{
+  "runTime": 1715650615216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1648100,
+        "num": 1648100,
+        "word": "情侣拒绝采访被主持人劝分手",
+        "onboard_time": 1715648599,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1251549,
+        "num": 1251549,
+        "word": "杭州姑娘清理发霉衣柜肺部长霉菌",
+        "onboard_time": 1715644157,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70737,
+        "num": 924298,
+        "word": "我国核电技术已进入世界第一方阵",
+        "onboard_time": 1715605459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892481,
+        "num": 892481,
+        "word": "歌手有国籍音乐无国界",
+        "onboard_time": 1715644518,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 754448,
+        "num": 754448,
+        "word": "诛仙碧瑶",
+        "onboard_time": 1715648299,
+        "rank": 4,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 1195578,
+        "num": 738066,
+        "word": "诛仙女主陆雪琪",
+        "onboard_time": 1715643737,
+        "rank": 5,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 720692,
+        "num": 720692,
+        "word": "导演说井柏然吃牛排镜头只拍了一次",
+        "onboard_time": 1715646980,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 714765,
+        "num": 714765,
+        "word": "中方决定不同意台湾地区参加今年世卫大会",
+        "onboard_time": 1715598198,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 605302,
+        "num": 605302,
+        "word": "苹果承认新款iPadPro存在渲染失常",
+        "onboard_time": 1715644217,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243815,
+        "num": 496345,
+        "word": "广西媳妇远嫁浙江农村感叹幸福指数太高了",
+        "onboard_time": 1715627351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472786,
+        "num": 472786,
+        "word": "张杰曾为去歌手赔款",
+        "onboard_time": 1715611761,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444953,
+        "num": 444953,
+        "word": "院长被校内观光车撞死认定司机全责",
+        "onboard_time": 1715611638,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391005,
+        "num": 391005,
+        "word": "打游戏被当反面教材的男孩4年后送父亲一辆车",
+        "onboard_time": 1715643377,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360555,
+        "num": 360555,
+        "word": "长期用吸管喝水可能会加深唇纹",
+        "onboard_time": 1715649978,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 353103,
+        "num": 353103,
+        "word": "欧阳娜娜回应",
+        "onboard_time": 1715612180,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351080,
+        "num": 351080,
+        "word": "麦当劳中国声明",
+        "onboard_time": 1715612479,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 316735,
+        "num": 316735,
+        "word": "67岁老人一年有300天都在出差",
+        "onboard_time": 1715648959,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302524,
+        "num": 302524,
+        "word": "巴勒斯坦女子崩溃呼喊我太累了",
+        "onboard_time": 1715627413,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 294657,
+        "num": 294657,
+        "word": "你为何不喜欢发朋友圈了",
+        "onboard_time": 1715641514,
+        "rank": 18,
+        "category": "情感,互联网"
+      },
+      {
+        "raw_hot": 292972,
+        "num": 292972,
+        "word": "315曝光的槽头肉企业被罚1287万",
+        "onboard_time": 1715644759,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411846,
+        "num": 292660,
+        "word": "23点到1点是头发生长高峰期",
+        "onboard_time": 1715630830,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292156,
+        "num": 292156,
+        "word": "歌手揭榜",
+        "onboard_time": 1715588180,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259851,
+        "num": 259851,
+        "word": "李秀满朴振英对待艺人的方式",
+        "onboard_time": 1715647400,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257346,
+        "num": 257346,
+        "word": "韩系在中国为什么不火了",
+        "onboard_time": 1715614039,
+        "rank": 23,
+        "category": "财经,美妆"
+      },
+      {
+        "raw_hot": 252524,
+        "num": 252524,
+        "word": "每天只有3亿人发布朋友圈",
+        "onboard_time": 1715609721,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 250699,
+        "num": 250699,
+        "word": "富婆熊猫的水杯真是意想不到的大",
+        "onboard_time": 1715646437,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225749,
+        "num": 225749,
+        "word": "耳帝推荐吴彤上歌手",
+        "onboard_time": 1715650219,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201612,
+        "num": 201612,
+        "word": "蒋依依吊带白裙",
+        "onboard_time": 1715649859,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200273,
+        "num": 200273,
+        "word": "喝水后有4种表现是肾脏在求救",
+        "onboard_time": 1715610920,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194397,
+        "num": 194397,
+        "word": "李承铉让Lucky等弟弟长大后再收拾",
+        "onboard_time": 1715626211,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187913,
+        "num": 187913,
+        "word": "赵露思直播的妆是自己化的",
+        "onboard_time": 1715613380,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179837,
+        "num": 179837,
+        "word": "郑合惠子大波浪",
+        "onboard_time": 1715647160,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173878,
+        "num": 173878,
+        "word": "贾静雯回应缺席苏有朋演唱会",
+        "onboard_time": 1715616259,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158452,
+        "num": 158452,
+        "word": "2024国际乒联第20周排名",
+        "onboard_time": 1715647339,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153506,
+        "num": 153506,
+        "word": "ChatGPT有桌面版本了",
+        "onboard_time": 1715649318,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147809,
+        "num": 147809,
+        "word": "GPT4o将免费使用",
+        "onboard_time": 1715642236,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141544,
+        "num": 141544,
+        "word": "种地吧",
+        "onboard_time": 1715621653,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136277,
+        "num": 136277,
+        "word": "中国海警位黄岩岛海域开展常态化训练",
+        "onboard_time": 1715644398,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128900,
+        "num": 128900,
+        "word": "G2邀请Uzi加入",
+        "onboard_time": 1715643377,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127554,
+        "num": 127554,
+        "word": "歌手2024鉴音团",
+        "onboard_time": 1715646800,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123912,
+        "num": 123912,
+        "word": "爱有用吗 爱当然有用",
+        "onboard_time": 1715647458,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121981,
+        "num": 121981,
+        "word": "iOS17.5正式版发布",
+        "onboard_time": 1715643437,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121597,
+        "num": 121597,
+        "word": "张铁林不和范伟合作演戏的原因",
+        "onboard_time": 1715615237,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120532,
+        "num": 120532,
+        "word": "詹姆斯骑士主场观战",
+        "onboard_time": 1715649739,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118203,
+        "num": 118203,
+        "word": "菲方对中方的指责毫无根据纯属造谣",
+        "onboard_time": 1715619434,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115949,
+        "num": 115949,
+        "word": "M4版MacMini有望10月发布",
+        "onboard_time": 1715650458,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115419,
+        "num": 115419,
+        "word": "田曦薇饭撒",
+        "onboard_time": 1715646018,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114882,
+        "num": 114882,
+        "word": "螺蛳粉官宣英文名",
+        "onboard_time": 1715625312,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114750,
+        "num": 114750,
+        "word": "我的阿勒泰 意难平",
+        "onboard_time": 1715621172,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111211,
+        "num": 111211,
+        "word": "国家电网回应6月1日电费涨价",
+        "onboard_time": 1715599938,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#严守党的政治纪律和政治规矩#"
+    }
+  }
+}

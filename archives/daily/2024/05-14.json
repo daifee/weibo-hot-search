@@ -1,7 +1,15 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715649423724,
+  "endTime": 1715650615216,
   "band_list": [
+    {
+      "raw_hot": 1648100,
+      "num": 1648100,
+      "word": "情侣拒绝采访被主持人劝分手",
+      "onboard_time": 1715648599,
+      "rank": 12,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1458496,
       "num": 1458496,
@@ -12,15 +20,15 @@
     },
     {
       "raw_hot": 1324147,
-      "num": 711790,
+      "num": 738066,
       "word": "诛仙女主陆雪琪",
       "onboard_time": 1715643737,
       "rank": 5,
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 1246349,
-      "num": 1246349,
+      "raw_hot": 1251549,
+      "num": 1251549,
       "word": "杭州姑娘清理发霉衣柜肺部长霉菌",
       "onboard_time": 1715644157,
       "rank": 0,
@@ -67,20 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754448,
+      "num": 754448,
+      "word": "诛仙碧瑶",
+      "onboard_time": 1715648299,
+      "rank": 10,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 720692,
+      "num": 720692,
+      "word": "导演说井柏然吃牛排镜头只拍了一次",
+      "onboard_time": 1715646980,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 716081,
       "num": 716081,
       "word": "苹果承认新款iPadPro存在渲染失常",
       "onboard_time": 1715644217,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 687336,
-      "num": 687336,
-      "word": "导演说井柏然吃牛排镜头只拍了一次",
-      "onboard_time": 1715646980,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 678831,
@@ -99,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571653,
-      "num": 571653,
-      "word": "诛仙碧瑶",
-      "onboard_time": 1715648299,
-      "rank": 10,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 527837,
       "num": 274368,
       "word": "韩系在中国为什么不火了",
@@ -123,14 +131,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 493718,
-      "num": 493718,
-      "word": "情侣拒绝采访被主持人劝分手",
-      "onboard_time": 1715648599,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 490415,
       "num": 280197,
       "word": "赵露思直播的妆是自己化的",
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 485167,
-      "num": 243928,
+      "num": 252524,
       "word": "每天只有3亿人发布朋友圈",
       "onboard_time": 1715609721,
       "rank": 20,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 421230,
-      "num": 282014,
+      "num": 292660,
       "word": "23点到1点是头发生长高峰期",
       "onboard_time": 1715630830,
       "rank": 31,
@@ -211,6 +211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 360555,
+      "num": 360555,
+      "word": "长期用吸管喝水可能会加深唇纹",
+      "onboard_time": 1715649978,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 360486,
       "num": 360486,
       "word": "315曝光的槽头肉企业被罚1287万",
@@ -233,6 +241,14 @@
       "onboard_time": 1715610920,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 316735,
+      "num": 316735,
+      "word": "67岁老人一年有300天都在出差",
+      "onboard_time": 1715648959,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285147,
@@ -267,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259851,
+      "num": 259851,
+      "word": "李秀满朴振英对待艺人的方式",
+      "onboard_time": 1715647400,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258682,
       "num": 258682,
       "word": "富婆熊猫的水杯真是意想不到的大",
       "onboard_time": 1715646437,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256832,
-      "num": 256832,
-      "word": "李秀满朴振英对待艺人的方式",
-      "onboard_time": 1715647400,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 256473,
@@ -307,19 +323,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225749,
+      "num": 225749,
+      "word": "耳帝推荐吴彤上歌手",
+      "onboard_time": 1715650219,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224607,
       "num": 125712,
       "word": "官方通报动物园20只东北虎死亡",
       "onboard_time": 1715595077,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221913,
-      "num": 221913,
-      "word": "67岁老人一年有300天都在出差",
-      "onboard_time": 1715648959,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -353,6 +369,14 @@
       "onboard_time": 1715647160,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201612,
+      "num": 201612,
+      "word": "蒋依依吊带白裙",
+      "onboard_time": 1715649859,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199756,
@@ -427,6 +451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 153506,
+      "num": 153506,
+      "word": "ChatGPT有桌面版本了",
+      "onboard_time": 1715649318,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149178,
       "num": 124212,
       "word": "中医建议不要太频繁的刮痧",
@@ -481,6 +513,14 @@
       "onboard_time": 1715612719,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141544,
+      "num": 141544,
+      "word": "种地吧",
+      "onboard_time": 1715621653,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 137533,
@@ -563,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120532,
+      "num": 120532,
+      "word": "詹姆斯骑士主场观战",
+      "onboard_time": 1715649739,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119100,
       "num": 119100,
       "word": "李娟 责编",
@@ -579,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115949,
+      "num": 115949,
+      "word": "M4版MacMini有望10月发布",
+      "onboard_time": 1715650458,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 112520,
       "num": 112520,
       "word": "奔跑吧送张真源的生日礼物",
@@ -593,22 +649,6 @@
       "onboard_time": 1715589858,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107955,
-      "num": 107955,
-      "word": "种地吧",
-      "onboard_time": 1715621653,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 107884,
-      "num": 107884,
-      "word": "ChatGPT有桌面版本了",
-      "onboard_time": 1715649318,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 104056,
