@@ -1,6 +1,6 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715663916446,
+  "endTime": 1715664868459,
   "band_list": [
     {
       "raw_hot": 2380658,
@@ -139,6 +139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 906078,
+      "num": 906078,
+      "word": "断眉否认来中国",
+      "onboard_time": 1715663958,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 896475,
       "num": 896475,
       "word": "严禁以各种方式挤占课间10分钟",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762302,
+      "num": 300642,
+      "word": "南韩周也",
+      "onboard_time": 1715662580,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 754448,
       "num": 754448,
       "word": "诛仙碧瑶",
@@ -201,14 +217,6 @@
       "onboard_time": 1715644217,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 680890,
-      "num": 274548,
-      "word": "南韩周也",
-      "onboard_time": 1715662580,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 678831,
@@ -435,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 369616,
+      "num": 369616,
+      "word": "日本第一季度2万余人孤独死",
+      "onboard_time": 1715663539,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366188,
       "num": 174611,
       "word": "国家电网回应6月1日电费涨价",
@@ -491,12 +507,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 320067,
+      "num": 320067,
+      "word": "严禁教师漠视纵容学生欺凌",
+      "onboard_time": 1715662639,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316735,
       "num": 316735,
       "word": "67岁老人一年有300天都在出差",
       "onboard_time": 1715648959,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305155,
+      "num": 305155,
+      "word": "七彩祥云",
+      "onboard_time": 1715663361,
+      "rank": 28,
+      "category": "自然"
     },
     {
       "raw_hot": 304942,
@@ -587,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269502,
+      "num": 269502,
+      "word": "杭盖演唱会和歌手直播撞了",
+      "onboard_time": 1715663240,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267026,
       "num": 439516,
       "word": "余额宝是懂年轻人存钱焦虑的",
@@ -627,20 +667,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252156,
-      "num": 252156,
-      "word": "杭盖演唱会和歌手直播撞了",
-      "onboard_time": 1715663240,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 250748,
-      "num": 250748,
-      "word": "严禁教师漠视纵容学生欺凌",
-      "onboard_time": 1715662639,
+      "raw_hot": 253684,
+      "num": 253684,
+      "word": "巴勒斯坦男子用石头砸落无人机",
+      "onboard_time": 1715664320,
       "rank": 25,
-      "category": "社会新闻"
+      "category": "国外时政"
     },
     {
       "raw_hot": 247203,
@@ -683,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232345,
+      "num": 232345,
+      "word": "在浙江原来这个叫服务区啊",
+      "onboard_time": 1715663060,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225988,
       "num": 225988,
       "word": "桃花坞",
@@ -697,14 +737,6 @@
       "onboard_time": 1715595077,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221681,
-      "num": 221681,
-      "word": "七彩祥云",
-      "onboard_time": 1715663361,
-      "rank": 28,
-      "category": "自然"
     },
     {
       "raw_hot": 217620,
@@ -739,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214069,
-      "num": 214069,
-      "word": "日本第一季度2万余人孤独死",
-      "onboard_time": 1715663539,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213212,
       "num": 213212,
       "word": "陈梦第二次参加奥运会",
@@ -761,6 +785,14 @@
       "onboard_time": 1715660241,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208877,
+      "num": 208877,
+      "word": "男子谎称领养将小猫整排牙齿剪断",
+      "onboard_time": 1715664199,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208346,
@@ -801,14 +833,6 @@
       "onboard_time": 1715651176,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202396,
-      "num": 202396,
-      "word": "在浙江原来这个叫服务区啊",
-      "onboard_time": 1715663060,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201674,
@@ -857,6 +881,14 @@
       "onboard_time": 1715655738,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193600,
+      "num": 193600,
+      "word": "原来榴莲是这么采摘的",
+      "onboard_time": 1715662881,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 190543,
@@ -955,14 +987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 175332,
-      "num": 175332,
-      "word": "原来榴莲是这么采摘的",
-      "onboard_time": 1715662881,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 174306,
       "num": 174306,
       "word": "黄奕又上恋综了",
@@ -995,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170199,
+      "num": 170199,
+      "word": "全世界都在偶遇鹿晗 除了我",
+      "onboard_time": 1715664620,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169406,
       "num": 169406,
       "word": "王俊凯无名之辈路透",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1715662881,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167171,
+      "num": 167171,
+      "word": "杭盖乐队回应大连演唱会延期",
+      "onboard_time": 1715663781,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 166985,
@@ -1051,20 +1091,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 162233,
+      "num": 162233,
+      "word": "非升即走下996的大学教师们",
+      "onboard_time": 1715664019,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 158720,
       "num": 158720,
       "word": "南京林业大学称自杀副教授未被降职",
       "onboard_time": 1715656938,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157328,
-      "num": 157328,
-      "word": "杭盖乐队回应大连演唱会延期",
-      "onboard_time": 1715663781,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 156508,
@@ -1265,6 +1305,14 @@
       "onboard_time": 1715605519,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125494,
+      "num": 125494,
+      "word": "朵莉亚海诺心动手记皮肤",
+      "onboard_time": 1715664857,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 124554,

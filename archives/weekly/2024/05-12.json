@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715663916446,
+  "endTime": 1715664868459,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -699,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 906078,
+      "num": 906078,
+      "word": "断眉否认来中国",
+      "onboard_time": 1715663958,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 896475,
       "num": 896475,
       "word": "严禁以各种方式挤占课间10分钟",
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762302,
+      "num": 300642,
+      "word": "南韩周也",
+      "onboard_time": 1715662580,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 760501,
       "num": 228854,
       "word": "文俊辉代言茶百道",
@@ -1144,14 +1160,6 @@
       "word": "林俊杰别扫地了先支援歌手吧",
       "onboard_time": 1715475678,
       "rank": 7,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 680890,
-      "num": 274548,
-      "word": "南韩周也",
-      "onboard_time": 1715662580,
-      "rank": 20,
       "category": "演出"
     },
     {
@@ -2379,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369616,
+      "num": 369616,
+      "word": "日本第一季度2万余人孤独死",
+      "onboard_time": 1715663539,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368613,
       "num": 368613,
       "word": "婚礼上的伴娘可能全是租的",
@@ -2763,6 +2779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320067,
+      "num": 320067,
+      "word": "严禁教师漠视纵容学生欺凌",
+      "onboard_time": 1715662639,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318059,
       "num": 318059,
       "word": "极光",
@@ -2841,6 +2865,14 @@
       "onboard_time": 1715603718,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305155,
+      "num": 305155,
+      "word": "七彩祥云",
+      "onboard_time": 1715663361,
+      "rank": 28,
+      "category": "自然"
     },
     {
       "raw_hot": 304942,
@@ -3155,6 +3187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269502,
+      "num": 269502,
+      "word": "杭盖演唱会和歌手直播撞了",
+      "onboard_time": 1715663240,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269053,
       "num": 196784,
       "word": "华语乐坛",
@@ -3347,12 +3387,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 252156,
-      "num": 252156,
-      "word": "杭盖演唱会和歌手直播撞了",
-      "onboard_time": 1715663240,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 253684,
+      "num": 253684,
+      "word": "巴勒斯坦男子用石头砸落无人机",
+      "onboard_time": 1715664320,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 251905,
@@ -3377,14 +3417,6 @@
       "onboard_time": 1715570359,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 250748,
-      "num": 250748,
-      "word": "严禁教师漠视纵容学生欺凌",
-      "onboard_time": 1715662639,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250449,
@@ -3555,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232345,
+      "num": 232345,
+      "word": "在浙江原来这个叫服务区啊",
+      "onboard_time": 1715663060,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230880,
       "num": 230880,
       "word": "IVE香港演唱会时间",
@@ -3681,14 +3721,6 @@
       "onboard_time": 1715483297,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221681,
-      "num": 221681,
-      "word": "七彩祥云",
-      "onboard_time": 1715663361,
-      "rank": 28,
-      "category": "自然"
     },
     {
       "raw_hot": 221406,
@@ -3819,14 +3851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214069,
-      "num": 214069,
-      "word": "日本第一季度2万余人孤独死",
-      "onboard_time": 1715663539,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213966,
       "num": 1184316,
       "word": "国家一级博物馆最全名单",
@@ -3897,6 +3921,14 @@
       "onboard_time": 1715660241,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208877,
+      "num": 208877,
+      "word": "男子谎称领养将小猫整排牙齿剪断",
+      "onboard_time": 1715664199,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208346,
@@ -4057,14 +4089,6 @@
       "onboard_time": 1715605277,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202396,
-      "num": 202396,
-      "word": "在浙江原来这个叫服务区啊",
-      "onboard_time": 1715663060,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202102,
@@ -4273,6 +4297,14 @@
       "onboard_time": 1715488938,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193600,
+      "num": 193600,
+      "word": "原来榴莲是这么采摘的",
+      "onboard_time": 1715662881,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 193579,
@@ -4755,14 +4787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 175332,
-      "num": 175332,
-      "word": "原来榴莲是这么采摘的",
-      "onboard_time": 1715662881,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 175168,
       "num": 175168,
       "word": "出走半生归来仍是上班搭子",
@@ -4867,6 +4891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170199,
+      "num": 170199,
+      "word": "全世界都在偶遇鹿晗 除了我",
+      "onboard_time": 1715664620,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170024,
       "num": 170024,
       "word": "T1跌入败者组",
@@ -4969,6 +5001,14 @@
       "onboard_time": 1715504537,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167171,
+      "num": 167171,
+      "word": "杭盖乐队回应大连演唱会延期",
+      "onboard_time": 1715663781,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 166455,
@@ -5163,6 +5203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 162233,
+      "num": 162233,
+      "word": "非升即走下996的大学教师们",
+      "onboard_time": 1715664019,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 162057,
       "num": 162057,
       "word": "张予曦晒妈妈跳舞视频",
@@ -5321,14 +5369,6 @@
       "onboard_time": 1715512042,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 157328,
-      "num": 157328,
-      "word": "杭盖乐队回应大连演唱会延期",
-      "onboard_time": 1715663781,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 156939,
@@ -6145,6 +6185,14 @@
       "onboard_time": 1715519841,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125494,
+      "num": 125494,
+      "word": "朵莉亚海诺心动手记皮肤",
+      "onboard_time": 1715664857,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 124913,
