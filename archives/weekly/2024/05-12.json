@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715650615216,
+  "endTime": 1715653772613,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2067411,
+      "num": 2067411,
+      "word": "情侣拒绝采访被主持人劝分手",
+      "onboard_time": 1715648599,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1985401,
       "num": 1985401,
       "word": "B站崩了",
@@ -185,14 +193,6 @@
       "onboard_time": 1715522841,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1648100,
-      "num": 1648100,
-      "word": "情侣拒绝采访被主持人劝分手",
-      "onboard_time": 1715648599,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1535916,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1110375,
+      "num": 1110375,
+      "word": "青春环游记5阵容官宣",
+      "onboard_time": 1715651058,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1107852,
       "num": 1107852,
       "word": "南通车祸",
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 962744,
+      "num": 962744,
+      "word": "长期用吸管喝水可能会加深唇纹",
+      "onboard_time": 1715649978,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 958407,
       "num": 373099,
       "word": "江映蓉自荐歌手",
@@ -617,6 +633,14 @@
       "onboard_time": 1715483838,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 916883,
+      "num": 222023,
+      "word": "男朋友无公积金该怎么一起买房",
+      "onboard_time": 1715651477,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 893700,
@@ -1275,6 +1299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 571093,
+      "num": 571093,
+      "word": "张凌赫王楚然G社生图",
+      "onboard_time": 1715651658,
+      "rank": 7,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 567476,
       "num": 396350,
       "word": "周杰伦官宣新音综",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1715443760,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 501861,
+      "num": 501861,
+      "word": "印度30米高广告牌倒塌12人死亡",
+      "onboard_time": 1715651176,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501347,
@@ -2083,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375604,
+      "num": 220137,
+      "word": "脑供血不足面部可能有4个表现",
+      "onboard_time": 1715651898,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 375277,
       "num": 317746,
       "word": "俄军进攻乌克兰第二大城市",
@@ -2185,14 +2233,6 @@
       "onboard_time": 1715503818,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 360555,
-      "num": 360555,
-      "word": "长期用吸管喝水可能会加深唇纹",
-      "onboard_time": 1715649978,
-      "rank": 13,
-      "category": "科学科普"
     },
     {
       "raw_hot": 360488,
@@ -2305,6 +2345,14 @@
       "onboard_time": 1715513121,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350772,
+      "num": 350772,
+      "word": "耳帝推荐吴彤上歌手",
+      "onboard_time": 1715650219,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 350722,
@@ -2787,6 +2835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278186,
+      "num": 216311,
+      "word": "外卖买姨妈巾被冒犯到了",
+      "onboard_time": 1715651477,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276338,
       "num": 276338,
       "word": "最近四川人指甲都黄了",
@@ -3243,14 +3299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225749,
-      "num": 225749,
-      "word": "耳帝推荐吴彤上歌手",
-      "onboard_time": 1715650219,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225080,
       "num": 399732,
       "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
@@ -3281,6 +3329,14 @@
       "onboard_time": 1715559679,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 223195,
+      "num": 223195,
+      "word": "南阳市委书记朱是西被查",
+      "onboard_time": 1715652919,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222969,
@@ -3587,6 +3643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203203,
+      "num": 203203,
+      "word": "NBA批准詹姆斯儿子参加选秀",
+      "onboard_time": 1715651176,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202768,
       "num": 202768,
       "word": "严浩翔被婴语为难住了",
@@ -3785,6 +3849,14 @@
       "onboard_time": 1715430259,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196563,
+      "num": 196563,
+      "word": "王楚然李宏毅首搭",
+      "onboard_time": 1715653577,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 195482,
@@ -4051,12 +4123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185635,
+      "num": 185635,
+      "word": "五十公里桃花坞4官宣",
+      "onboard_time": 1715653577,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184556,
       "num": 184556,
       "word": "威神V将公开中韩两版主打歌",
       "onboard_time": 1715574621,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184096,
+      "num": 184096,
+      "word": "烽影燃梅香阵容官宣",
+      "onboard_time": 1715653278,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 183063,
@@ -4401,6 +4489,14 @@
       "onboard_time": 1715433981,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166043,
+      "num": 166043,
+      "word": "aespa造型",
+      "onboard_time": 1715651117,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 165971,
@@ -4859,6 +4955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148936,
+      "num": 148936,
+      "word": "国乒巴黎奥运参赛大名单",
+      "onboard_time": 1715653577,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148890,
       "num": 161733,
       "word": "过度防晒要小心骨质疏松",
@@ -5115,6 +5219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 140244,
+      "num": 140244,
+      "word": "一次主动换来一辈子内向",
+      "onboard_time": 1715652740,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140223,
       "num": 339007,
       "word": "想跟金晨来一场citydrive吗",
@@ -5225,6 +5337,14 @@
       "onboard_time": 1715595381,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136828,
+      "num": 136828,
+      "word": "诛仙",
+      "onboard_time": 1715651597,
+      "rank": 38,
+      "category": "读书作家"
     },
     {
       "raw_hot": 136539,
@@ -5731,6 +5851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113320,
+      "num": 113320,
+      "word": "我要是有这样的嘴就好了",
+      "onboard_time": 1715650699,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112786,
       "num": 112786,
       "word": "抗衰最好不要晚于45岁",
@@ -5827,6 +5955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108784,
+      "num": 108784,
+      "word": "3.1亿年前化石撞脸巧克力脆筒",
+      "onboard_time": 1715653219,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 108700,
       "num": 108700,
       "word": "不同克拉钻石戒指视觉效果",
@@ -5915,6 +6051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103166,
+      "num": 103166,
+      "word": "桃花坞",
+      "onboard_time": 1715653757,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102450,
       "num": 102450,
       "word": "aespa消失的方式",
@@ -6001,6 +6145,14 @@
       "onboard_time": 1715555415,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96950,
+      "num": 96950,
+      "word": "OpenAI发布会",
+      "onboard_time": 1715650939,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 94658,
@@ -6116,7 +6268,7 @@
     },
     {
       "raw_hot": 87052,
-      "num": 994972,
+      "num": 1033917,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
       "rank": 45,

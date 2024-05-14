@@ -1,10 +1,10 @@
 {
   "startTime": 1715617501908,
-  "endTime": 1715650615216,
+  "endTime": 1715653772613,
   "band_list": [
     {
-      "raw_hot": 1648100,
-      "num": 1648100,
+      "raw_hot": 2067411,
+      "num": 2067411,
       "word": "情侣拒绝采访被主持人劝分手",
       "onboard_time": 1715648599,
       "rank": 12,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1110375,
+      "num": 1110375,
+      "word": "青春环游记5阵容官宣",
+      "onboard_time": 1715651058,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1088898,
       "num": 1088898,
       "word": "歌手有国籍音乐无国界",
@@ -51,12 +59,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 962744,
+      "num": 962744,
+      "word": "长期用吸管喝水可能会加深唇纹",
+      "onboard_time": 1715649978,
+      "rank": 13,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 922507,
       "num": 396216,
       "word": "麦当劳中国声明",
       "onboard_time": 1715612479,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 916883,
+      "num": 222023,
+      "word": "男朋友无公积金该怎么一起买房",
+      "onboard_time": 1715651477,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 804034,
@@ -115,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571093,
+      "num": 571093,
+      "word": "张凌赫王楚然G社生图",
+      "onboard_time": 1715651658,
+      "rank": 7,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 527837,
       "num": 274368,
       "word": "韩系在中国为什么不火了",
@@ -129,6 +161,14 @@
       "onboard_time": 1715627413,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 501861,
+      "num": 501861,
+      "word": "印度30米高广告牌倒塌12人死亡",
+      "onboard_time": 1715651176,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490415,
@@ -195,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 375604,
+      "num": 220137,
+      "word": "脑供血不足面部可能有4个表现",
+      "onboard_time": 1715651898,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 366188,
       "num": 174611,
       "word": "国家电网回应6月1日电费涨价",
@@ -211,20 +259,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 360555,
-      "num": 360555,
-      "word": "长期用吸管喝水可能会加深唇纹",
-      "onboard_time": 1715649978,
-      "rank": 13,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 360486,
       "num": 360486,
       "word": "315曝光的槽头肉企业被罚1287万",
       "onboard_time": 1715644759,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350772,
+      "num": 350772,
+      "word": "耳帝推荐吴彤上歌手",
+      "onboard_time": 1715650219,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 340840,
@@ -265,6 +313,14 @@
       "onboard_time": 1715610441,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 278186,
+      "num": 216311,
+      "word": "外卖买姨妈巾被冒犯到了",
+      "onboard_time": 1715651477,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 275616,
@@ -323,19 +379,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225749,
-      "num": 225749,
-      "word": "耳帝推荐吴彤上歌手",
-      "onboard_time": 1715650219,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224607,
       "num": 125712,
       "word": "官方通报动物园20只东北虎死亡",
       "onboard_time": 1715595077,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223195,
+      "num": 223195,
+      "word": "南阳市委书记朱是西被查",
+      "onboard_time": 1715652919,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -371,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203203,
+      "num": 203203,
+      "word": "NBA批准詹姆斯儿子参加选秀",
+      "onboard_time": 1715651176,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201612,
       "num": 201612,
       "word": "蒋依依吊带白裙",
@@ -395,12 +459,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196563,
+      "num": 196563,
+      "word": "王楚然李宏毅首搭",
+      "onboard_time": 1715653577,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189811,
       "num": 189811,
       "word": "GPT4o将免费使用",
       "onboard_time": 1715642236,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 185635,
+      "num": 185635,
+      "word": "五十公里桃花坞4官宣",
+      "onboard_time": 1715653577,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184096,
+      "num": 184096,
+      "word": "烽影燃梅香阵容官宣",
+      "onboard_time": 1715653278,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 177813,
@@ -435,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166043,
+      "num": 166043,
+      "word": "aespa造型",
+      "onboard_time": 1715651117,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163949,
       "num": 163949,
       "word": "中国海警位黄岩岛海域开展常态化训练",
@@ -465,6 +561,14 @@
       "onboard_time": 1715589858,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148936,
+      "num": 148936,
+      "word": "国乒巴黎奥运参赛大名单",
+      "onboard_time": 1715653577,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 147569,
@@ -523,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140244,
+      "num": 140244,
+      "word": "一次主动换来一辈子内向",
+      "onboard_time": 1715652740,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137533,
       "num": 137533,
       "word": "爱有用吗 爱当然有用",
@@ -537,6 +649,14 @@
       "onboard_time": 1715643437,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136828,
+      "num": 136828,
+      "word": "诛仙",
+      "onboard_time": 1715651597,
+      "rank": 38,
+      "category": "读书作家"
     },
     {
       "raw_hot": 132806,
@@ -635,6 +755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 113320,
+      "num": 113320,
+      "word": "我要是有这样的嘴就好了",
+      "onboard_time": 1715650699,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112520,
       "num": 112520,
       "word": "奔跑吧送张真源的生日礼物",
@@ -649,6 +777,14 @@
       "onboard_time": 1715589858,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108784,
+      "num": 108784,
+      "word": "3.1亿年前化石撞脸巧克力脆筒",
+      "onboard_time": 1715653219,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 104056,
@@ -667,12 +803,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103166,
+      "num": 103166,
+      "word": "桃花坞",
+      "onboard_time": 1715653757,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101292,
       "num": 111591,
       "word": "歌手前八季热度破亿歌曲",
       "onboard_time": 1715599400,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96950,
+      "num": 96950,
+      "word": "OpenAI发布会",
+      "onboard_time": 1715650939,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 94825,
@@ -700,7 +852,7 @@
     },
     {
       "raw_hot": 87052,
-      "num": 994972,
+      "num": 1033917,
       "word": "我国核电技术已进入世界第一方阵",
       "onboard_time": 1715605459,
       "rank": 2,
