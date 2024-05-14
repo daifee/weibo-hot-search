@@ -1,0 +1,410 @@
+{
+  "runTime": 1715663916446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1721303,
+        "num": 1721303,
+        "word": "张雪峰说早晚请王曼昱当代言人",
+        "onboard_time": 1715661562,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1328041,
+        "num": 1328041,
+        "word": "歌手导演洪啸发文",
+        "onboard_time": 1715657359,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11365,
+        "num": 1288605,
+        "word": "我国核电技术已进入世界第一方阵",
+        "onboard_time": 1715605459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1280462,
+        "num": 1280462,
+        "word": "丈夫婚检查出梅毒后妻子起诉撤销婚姻",
+        "onboard_time": 1715657958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846399,
+        "num": 846399,
+        "word": "歌手2024首轮双揭榜歌手",
+        "onboard_time": 1715658499,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 792172,
+        "num": 792172,
+        "word": "六道 花少北",
+        "onboard_time": 1715660121,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 785326,
+        "num": 785326,
+        "word": "张杰谈谢娜退出主持群原因",
+        "onboard_time": 1715653877,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 774604,
+        "num": 774604,
+        "word": "王曼昱无缘巴黎奥运女单",
+        "onboard_time": 1715656339,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649851,
+        "num": 649851,
+        "word": "严禁以各种方式挤占课间10分钟",
+        "onboard_time": 1715659339,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 270434,
+        "num": 581387,
+        "word": "他甚至没来得及拍一张全家福",
+        "onboard_time": 1715659519,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580076,
+        "num": 580076,
+        "word": "马龙19年的玩笑话成真了",
+        "onboard_time": 1715662041,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549525,
+        "num": 549525,
+        "word": "沈小婷将录制奔跑吧",
+        "onboard_time": 1715661861,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509449,
+        "num": 509449,
+        "word": "情侣拒绝采访被主持人劝分手",
+        "onboard_time": 1715648599,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505641,
+        "num": 505641,
+        "word": "EXO的前夜是刘宪华写的",
+        "onboard_time": 1715660961,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 460013,
+        "num": 460013,
+        "word": "陈建宁詹雯婷出庭",
+        "onboard_time": 1715662639,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403584,
+        "num": 403584,
+        "word": "长期用吸管喝水可能会加深唇纹",
+        "onboard_time": 1715649978,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 369681,
+        "num": 369681,
+        "word": "田曦薇李明德二搭",
+        "onboard_time": 1715658319,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341834,
+        "num": 341834,
+        "word": "诛仙女主陆雪琪",
+        "onboard_time": 1715643737,
+        "rank": 17,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 282328,
+        "num": 282328,
+        "word": "李亚鹏就欠薪道歉",
+        "onboard_time": 1715654721,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275680,
+        "num": 275680,
+        "word": "南通车祸救援者再发声",
+        "onboard_time": 1715661261,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680890,
+        "num": 274548,
+        "word": "南韩周也",
+        "onboard_time": 1715662580,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 534122,
+        "num": 272133,
+        "word": "男朋友无公积金该怎么一起买房",
+        "onboard_time": 1715651477,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267026,
+        "num": 267026,
+        "word": "余额宝是懂年轻人存钱焦虑的",
+        "onboard_time": 1715659204,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 256051,
+        "num": 256051,
+        "word": "脑供血不足面部可能有4个表现",
+        "onboard_time": 1715651898,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252156,
+        "num": 252156,
+        "word": "杭盖演唱会和歌手直播撞了",
+        "onboard_time": 1715663240,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250748,
+        "num": 250748,
+        "word": "严禁教师漠视纵容学生欺凌",
+        "onboard_time": 1715662639,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235400,
+        "num": 235400,
+        "word": "迪丽热巴 建模",
+        "onboard_time": 1715659939,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232042,
+        "num": 232042,
+        "word": "爱萝莉",
+        "onboard_time": 1715656999,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221681,
+        "num": 221681,
+        "word": "七彩祥云",
+        "onboard_time": 1715663361,
+        "rank": 28,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 214069,
+        "num": 214069,
+        "word": "日本第一季度2万余人孤独死",
+        "onboard_time": 1715663539,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202396,
+        "num": 202396,
+        "word": "在浙江原来这个叫服务区啊",
+        "onboard_time": 1715663060,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197337,
+        "num": 197337,
+        "word": "TFBOYS给王源新歌宣传",
+        "onboard_time": 1715656158,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193858,
+        "num": 193858,
+        "word": "国乒教练组谈奥运名单",
+        "onboard_time": 1715660419,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193039,
+        "num": 193039,
+        "word": "南林大副教授首聘期不合格后自杀离世",
+        "onboard_time": 1715655378,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190189,
+        "num": 190189,
+        "word": "诛仙碧瑶",
+        "onboard_time": 1715648299,
+        "rank": 34,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 187002,
+        "num": 187002,
+        "word": "新生",
+        "onboard_time": 1715662940,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183728,
+        "num": 183728,
+        "word": "薛之谦徐州",
+        "onboard_time": 1715663361,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182025,
+        "num": 182025,
+        "word": "周深把少管我唱成歌了",
+        "onboard_time": 1715654477,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175332,
+        "num": 175332,
+        "word": "原来榴莲是这么采摘的",
+        "onboard_time": 1715662881,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 175107,
+        "num": 175107,
+        "word": "五十公里桃花坞4官宣",
+        "onboard_time": 1715653577,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174306,
+        "num": 174306,
+        "word": "黄奕又上恋综了",
+        "onboard_time": 1715663361,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174009,
+        "num": 174009,
+        "word": "青春环游记5阵容官宣",
+        "onboard_time": 1715651058,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169406,
+        "num": 169406,
+        "word": "王俊凯无名之辈路透",
+        "onboard_time": 1715662100,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168595,
+        "num": 168595,
+        "word": "梁靖崑王艺迪奥运P卡",
+        "onboard_time": 1715662881,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157328,
+        "num": 157328,
+        "word": "杭盖乐队回应大连演唱会延期",
+        "onboard_time": 1715663781,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152181,
+        "num": 152181,
+        "word": "黄宣揭榜歌手",
+        "onboard_time": 1715661440,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150939,
+        "num": 150939,
+        "word": "TheShy谈mlxg与otto事件",
+        "onboard_time": 1715659519,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148329,
+        "num": 148329,
+        "word": "东北独生猫的一天",
+        "onboard_time": 1715657898,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144997,
+        "num": 144997,
+        "word": "雅居乐股价大跌",
+        "onboard_time": 1715662701,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142344,
+        "num": 142344,
+        "word": "独行侠罚球",
+        "onboard_time": 1715661801,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#严守党的政治纪律和政治规矩#"
+    }
+  }
+}
