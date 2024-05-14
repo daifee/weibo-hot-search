@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715725148659,
+  "endTime": 1715726091690,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -25907,6 +25907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173930,
+      "num": 173930,
+      "word": "卷款3500万跑路网店关联公司已注销",
+      "onboard_time": 1715709552,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173914,
       "num": 236051,
       "word": "黄景瑜 怎么连吃带拿上了",
@@ -27353,14 +27361,6 @@
       "onboard_time": 1715699958,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164293,
-      "num": 164293,
-      "word": "卷款3500万跑路网店关联公司已注销",
-      "onboard_time": 1715709552,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164173,
@@ -35891,6 +35891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106393,
+      "num": 85435,
+      "word": "手机被监听一招就能解决",
+      "onboard_time": 1715713331,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106324,
       "num": 106324,
       "word": "结婚当天一对燕子在婚房比翼双飞",
@@ -36113,6 +36121,14 @@
       "onboard_time": 1714651518,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103434,
+      "num": 103434,
+      "word": "沈小婷回国第一站跑男",
+      "onboard_time": 1715711292,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 103275,
@@ -36891,6 +36907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91261,
+      "num": 85380,
+      "word": "湖大回应留学生称南海诸岛是越南领土",
+      "onboard_time": 1715722150,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91195,
       "num": 91195,
       "word": "边佑锡好帅",
@@ -37147,6 +37171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 85208,
+      "num": 85208,
+      "word": "井柏然说和黄觉演对手要自然不刻意",
+      "onboard_time": 1715722330,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85171,
       "num": 387113,
       "word": "奇瑞把豪华SUV价格打到了20万内",
@@ -37177,14 +37209,6 @@
       "onboard_time": 1715506157,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 84334,
-      "num": 84334,
-      "word": "沈小婷回国第一站跑男",
-      "onboard_time": 1715711292,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 83948,
@@ -37281,14 +37305,6 @@
       "onboard_time": 1715141724,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 81757,
-      "num": 65653,
-      "word": "手机被监听一招就能解决",
-      "onboard_time": 1715713331,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 81386,
@@ -37787,6 +37803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69216,
+      "num": 69216,
+      "word": "陈晓杨子姗三搭",
+      "onboard_time": 1715714051,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69087,
       "num": 69087,
       "word": "头发蛋白矫正",
@@ -37865,14 +37889,6 @@
       "onboard_time": 1714983259,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66970,
-      "num": 66970,
-      "word": "井柏然说和黄觉演对手要自然不刻意",
-      "onboard_time": 1715722330,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 66888,
@@ -38331,14 +38347,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 55251,
-      "num": 55251,
-      "word": "湖大回应留学生称南海诸岛是越南领土",
-      "onboard_time": 1715722150,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55177,
       "num": 55177,
       "word": "专家称股票指数有40%受房地产影响",
@@ -38489,14 +38497,6 @@
       "onboard_time": 1715382314,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50878,
-      "num": 50878,
-      "word": "陈晓杨子姗三搭",
-      "onboard_time": 1715714051,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 50763,
@@ -38771,6 +38771,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 44450,
+      "num": 44450,
+      "word": "别告诉我你第一次听说迎客松会开花",
+      "onboard_time": 1715723710,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44327,
       "num": 32201,
       "word": "那英蝶窦共鸣",
@@ -38825,6 +38833,14 @@
       "onboard_time": 1714858151,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43268,
+      "num": 43268,
+      "word": "热刺vs曼城",
+      "onboard_time": 1715710512,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 42100,
@@ -38891,14 +38907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40119,
-      "num": 40119,
-      "word": "热刺vs曼城",
-      "onboard_time": 1715710512,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39463,
       "num": 39463,
       "word": "地磁暴带着极光来了",
@@ -38953,6 +38961,14 @@
       "onboard_time": 1714929853,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38120,
+      "num": 38120,
+      "word": "秦岚简直是情绪价值的富翁",
+      "onboard_time": 1715713452,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 37594,
@@ -39171,28 +39187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29333,
-      "num": 29333,
-      "word": "别告诉我你第一次听说迎客松会开花",
-      "onboard_time": 1715723710,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29308,
       "num": 87232,
       "word": "小鬼脸红星星妆",
       "onboard_time": 1714761253,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 29197,
-      "num": 27468,
-      "word": "秦岚简直是情绪价值的富翁",
-      "onboard_time": 1715713452,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 28957,
@@ -39233,6 +39233,14 @@
       "onboard_time": 1714848433,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26714,
+      "num": 26714,
+      "word": "留子打败老外靠的是无知",
+      "onboard_time": 1715716811,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 25773,
@@ -39308,7 +39316,7 @@
     },
     {
       "raw_hot": 24130,
-      "num": 25787,
+      "num": 25990,
       "word": "陈赫小柔美弱逻辑",
       "onboard_time": 1715710031,
       "rank": 48,
@@ -39321,14 +39329,6 @@
       "onboard_time": 1715660121,
       "rank": 49,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 23999,
-      "num": 23999,
-      "word": "留子打败老外靠的是无知",
-      "onboard_time": 1715716811,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 23732,
@@ -39523,6 +39523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 16277,
+      "num": 25984,
+      "word": "杭盖大连演出主办方致歉",
+      "onboard_time": 1715726052,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16268,
       "num": 18403,
       "word": "爱一个本身就很好的人",
@@ -39708,7 +39716,7 @@
     },
     {
       "raw_hot": 10522,
-      "num": 147002,
+      "num": 180783,
       "word": "累计飞行3500小时他将头盔交给95后徒弟",
       "onboard_time": 1715694079,
       "rank": 2,

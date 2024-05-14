@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715725148659,
+  "endTime": 1715726091690,
   "band_list": [
     {
       "raw_hot": 1126452,
@@ -171,20 +171,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173930,
+      "num": 173930,
+      "word": "卷款3500万跑路网店关联公司已注销",
+      "onboard_time": 1715709552,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165844,
       "num": 165844,
       "word": "原来还有无刺榴莲",
       "onboard_time": 1715696121,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 164293,
-      "num": 164293,
-      "word": "卷款3500万跑路网店关联公司已注销",
-      "onboard_time": 1715709552,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149642,
@@ -283,12 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106393,
+      "num": 85435,
+      "word": "手机被监听一招就能解决",
+      "onboard_time": 1715713331,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104350,
       "num": 104350,
       "word": "JackeyLove 管泽元",
       "onboard_time": 1715688678,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103434,
+      "num": 103434,
+      "word": "沈小婷回国第一站跑男",
+      "onboard_time": 1715711292,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 99564,
@@ -315,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91261,
+      "num": 85380,
+      "word": "湖大回应留学生称南海诸岛是越南领土",
+      "onboard_time": 1715722150,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90579,
       "num": 90579,
       "word": "娜扎是江疏影的玩具吗",
@@ -339,20 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84334,
-      "num": 84334,
-      "word": "沈小婷回国第一站跑男",
-      "onboard_time": 1715711292,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 81757,
-      "num": 65653,
-      "word": "手机被监听一招就能解决",
-      "onboard_time": 1715713331,
-      "rank": 28,
-      "category": "数码"
+      "raw_hot": 85208,
+      "num": 85208,
+      "word": "井柏然说和黄觉演对手要自然不刻意",
+      "onboard_time": 1715722330,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 77829,
@@ -411,11 +427,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66970,
-      "num": 66970,
-      "word": "井柏然说和黄觉演对手要自然不刻意",
-      "onboard_time": 1715722330,
-      "rank": 18,
+      "raw_hot": 69216,
+      "num": 69216,
+      "word": "陈晓杨子姗三搭",
+      "onboard_time": 1715714051,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -427,28 +443,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 55251,
-      "num": 55251,
-      "word": "湖大回应留学生称南海诸岛是越南领土",
-      "onboard_time": 1715722150,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53370,
       "num": 53370,
       "word": "花少北超话",
       "onboard_time": 1715698760,
       "rank": 49,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 50878,
-      "num": 50878,
-      "word": "陈晓杨子姗三搭",
-      "onboard_time": 1715714051,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 47542,
@@ -459,12 +459,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40119,
-      "num": 40119,
+      "raw_hot": 44450,
+      "num": 44450,
+      "word": "别告诉我你第一次听说迎客松会开花",
+      "onboard_time": 1715723710,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43268,
+      "num": 43268,
       "word": "热刺vs曼城",
       "onboard_time": 1715710512,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38120,
+      "num": 38120,
+      "word": "秦岚简直是情绪价值的富翁",
+      "onboard_time": 1715713452,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 36469,
@@ -475,28 +491,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 29333,
-      "num": 29333,
-      "word": "别告诉我你第一次听说迎客松会开花",
-      "onboard_time": 1715723710,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29197,
-      "num": 27468,
-      "word": "秦岚简直是情绪价值的富翁",
-      "onboard_time": 1715713452,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 27266,
       "num": 360109,
       "word": "救援现场猫猫拳对决消防咏春",
       "onboard_time": 1715699119,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26714,
+      "num": 26714,
+      "word": "留子打败老外靠的是无知",
+      "onboard_time": 1715716811,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 24143,
@@ -508,19 +516,19 @@
     },
     {
       "raw_hot": 24130,
-      "num": 25787,
+      "num": 25990,
       "word": "陈赫小柔美弱逻辑",
       "onboard_time": 1715710031,
       "rank": 48,
       "category": "综艺"
     },
     {
-      "raw_hot": 23999,
-      "num": 23999,
-      "word": "留子打败老外靠的是无知",
-      "onboard_time": 1715716811,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 16277,
+      "num": 25984,
+      "word": "杭盖大连演出主办方致歉",
+      "onboard_time": 1715726052,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 16268,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 10522,
-      "num": 147002,
+      "num": 180783,
       "word": "累计飞行3500小时他将头盔交给95后徒弟",
       "onboard_time": 1715694079,
       "rank": 2,

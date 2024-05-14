@@ -1,0 +1,410 @@
+{
+  "runTime": 1715726091690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 622192,
+        "num": 622192,
+        "word": "樊振东",
+        "onboard_time": 1715702598,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234832,
+        "num": 234832,
+        "word": "西安科大威胁老师改成绩的学生家长身份成谜",
+        "onboard_time": 1715697438,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3705,
+        "num": 180783,
+        "word": "累计飞行3500小时他将头盔交给95后徒弟",
+        "onboard_time": 1715694079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175286,
+        "num": 175286,
+        "word": "湖南一男子当街持刀杀害女子",
+        "onboard_time": 1715699238,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173930,
+        "num": 173930,
+        "word": "卷款3500万跑路网店关联公司已注销",
+        "onboard_time": 1715709552,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141826,
+        "num": 141826,
+        "word": "歌手报名 没档期",
+        "onboard_time": 1715677340,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138921,
+        "num": 138921,
+        "word": "青岛一女童发热输液后死亡",
+        "onboard_time": 1715697020,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103434,
+        "num": 103434,
+        "word": "沈小婷回国第一站跑男",
+        "onboard_time": 1715711292,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87041,
+        "num": 87041,
+        "word": "张韶涵造型团队没有瓶颈期",
+        "onboard_time": 1715699000,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3006,
+        "num": 85601,
+        "word": "在浙里办摇专家的女生家沼虾上市了",
+        "onboard_time": 1715707033,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106393,
+        "num": 85435,
+        "word": "手机被监听一招就能解决",
+        "onboard_time": 1715713331,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91261,
+        "num": 85380,
+        "word": "湖大回应留学生称南海诸岛是越南领土",
+        "onboard_time": 1715722150,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85208,
+        "num": 85208,
+        "word": "井柏然说和黄觉演对手要自然不刻意",
+        "onboard_time": 1715722330,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75465,
+        "num": 75465,
+        "word": "雨霖铃 杨洋",
+        "onboard_time": 1715691019,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69216,
+        "num": 69216,
+        "word": "陈晓杨子姗三搭",
+        "onboard_time": 1715714051,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65090,
+        "num": 65090,
+        "word": "奸淫幼女小学老师死刑上诉被驳回",
+        "onboard_time": 1715676799,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63232,
+        "num": 63232,
+        "word": "微信背景图",
+        "onboard_time": 1715674759,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61696,
+        "num": 61696,
+        "word": "难哄海报",
+        "onboard_time": 1715694979,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56646,
+        "num": 56646,
+        "word": "多地地铁电梯不再提倡左行右立",
+        "onboard_time": 1715693059,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51486,
+        "num": 51486,
+        "word": "董明珠再回应玫瑰空调被吐槽",
+        "onboard_time": 1715697861,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91280,
+        "num": 50158,
+        "word": "女子大量咳血体内有个20岁肿瘤",
+        "onboard_time": 1715691557,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48610,
+        "num": 48610,
+        "word": "IVE MV画面",
+        "onboard_time": 1715697680,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48032,
+        "num": 48032,
+        "word": "花少北 小号",
+        "onboard_time": 1715692279,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 45767,
+        "num": 45767,
+        "word": "60后老员工因不会线上请假被开除",
+        "onboard_time": 1715696240,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44450,
+        "num": 44450,
+        "word": "别告诉我你第一次听说迎客松会开花",
+        "onboard_time": 1715723710,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43268,
+        "num": 43268,
+        "word": "热刺vs曼城",
+        "onboard_time": 1715710512,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42866,
+        "num": 42866,
+        "word": "第15届金扫帚奖获奖名单",
+        "onboard_time": 1715691798,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38120,
+        "num": 38120,
+        "word": "秦岚简直是情绪价值的富翁",
+        "onboard_time": 1715713452,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37501,
+        "num": 37501,
+        "word": "詹雯婷发长文",
+        "onboard_time": 1715674759,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35909,
+        "num": 35909,
+        "word": "娜扎是江疏影的玩具吗",
+        "onboard_time": 1715697680,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35217,
+        "num": 35217,
+        "word": "JackeyLove 管泽元",
+        "onboard_time": 1715688678,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34279,
+        "num": 34279,
+        "word": "赵露思将参与巴黎奥运火炬传递",
+        "onboard_time": 1715697799,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32488,
+        "num": 32488,
+        "word": "秦岚说赵丽颖是没有攻击性的女演员",
+        "onboard_time": 1715684297,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33604,
+        "num": 32338,
+        "word": "大满败",
+        "onboard_time": 1715685859,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32113,
+        "num": 32113,
+        "word": "心疼费可",
+        "onboard_time": 1715699900,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30508,
+        "num": 30508,
+        "word": "王自健张国立居然演上父子了",
+        "onboard_time": 1715700859,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29188,
+        "num": 29188,
+        "word": "这次轮到阿勒泰了",
+        "onboard_time": 1715699179,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 28594,
+        "num": 28594,
+        "word": "金智媛和偶遇粉丝合照",
+        "onboard_time": 1715702418,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27556,
+        "num": 27556,
+        "word": "终于看懂尺寸的差别了",
+        "onboard_time": 1715692879,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 26960,
+        "num": 26960,
+        "word": "王妈赵管家be了",
+        "onboard_time": 1715684597,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26714,
+        "num": 26714,
+        "word": "留子打败老外靠的是无知",
+        "onboard_time": 1715716811,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25997,
+        "num": 25997,
+        "word": "菲律宾",
+        "onboard_time": 1715693959,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 25255,
+        "num": 25996,
+        "word": "仙剑与轩辕剑版权将被出售",
+        "onboard_time": 1715691019,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23629,
+        "num": 25995,
+        "word": "歌手2024",
+        "onboard_time": 1715692340,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23105,
+        "num": 25993,
+        "word": "TES幽默",
+        "onboard_time": 1715680998,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20833,
+        "num": 25990,
+        "word": "陈赫小柔美弱逻辑",
+        "onboard_time": 1715710031,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18639,
+        "num": 25989,
+        "word": "背着善宰跑第12集",
+        "onboard_time": 1715696301,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20862,
+        "num": 25985,
+        "word": "G2战胜TES",
+        "onboard_time": 1715685620,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17079,
+        "num": 25985,
+        "word": "歌手歌单",
+        "onboard_time": 1715680759,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16277,
+        "num": 25984,
+        "word": "杭盖大连演出主办方致歉",
+        "onboard_time": 1715726052,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧合作为世界和平发展注入新动能#"
+    }
+  }
+}
