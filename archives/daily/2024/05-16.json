@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715800526055,
+  "endTime": 1715801660020,
   "band_list": [
     {
       "raw_hot": 1830305,
@@ -465,6 +465,14 @@
       "onboard_time": 1715798291,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17545,
+      "num": 17545,
+      "word": "睡眠真的是大脑在排毒吗",
+      "onboard_time": 1715801290,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 17040,
