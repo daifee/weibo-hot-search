@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715768405265,
+  "endTime": 1715769355087,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -235,7 +235,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 762660,
+      "raw_hot": 771648,
+      "num": 771648,
+      "word": "警方提级调查3岁男童被狗咬伤身亡",
+      "onboard_time": 1715764877,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771301,
       "num": 762660,
       "word": "真正的大女主都是水泥封心",
       "onboard_time": 1715766018,
@@ -267,8 +275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 697004,
-      "num": 201156,
+      "raw_hot": 699552,
+      "num": 233589,
       "word": "坚持跑步1个月身体将怎样变化",
       "onboard_time": 1715765418,
       "rank": 27,
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 622339,
+      "num": 232464,
+      "word": "正佳广场",
+      "onboard_time": 1715765178,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610682,
       "num": 610682,
       "word": "四月初八",
@@ -403,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558751,
-      "num": 199175,
-      "word": "正佳广场",
-      "onboard_time": 1715765178,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 551111,
       "num": 474741,
       "word": "于适 虚拟的网络何必那么认真",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 508657,
-      "num": 198048,
+      "num": 230707,
       "word": "你以为上班只是八小时",
       "onboard_time": 1715763438,
       "rank": 23,
@@ -491,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481569,
-      "num": 481569,
-      "word": "警方提级调查3岁男童被狗咬伤身亡",
-      "onboard_time": 1715764877,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 465702,
+      "num": 465702,
+      "word": "黄梦莹高干文女主脸",
+      "onboard_time": 1715767638,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 460953,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 375949,
-      "num": 194947,
+      "num": 225347,
       "word": "华为发布首款5000元档巨幕手机",
       "onboard_time": 1715765058,
       "rank": 28,
@@ -819,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306893,
+      "num": 216426,
+      "word": "关晓彤在努力扮演大人了",
+      "onboard_time": 1715767937,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306356,
       "num": 306356,
       "word": "韩总统尹锡悦岳母服刑299天后获假释",
@@ -857,6 +873,14 @@
       "onboard_time": 1715735658,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287829,
+      "num": 287829,
+      "word": "先秦淑女步",
+      "onboard_time": 1715766498,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 287287,
@@ -955,19 +979,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261396,
+      "num": 261396,
+      "word": "江疏影 我理想中的旅游搭子",
+      "onboard_time": 1715765838,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259257,
       "num": 250052,
       "word": "春花厌",
       "onboard_time": 1715737998,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 258851,
-      "num": 258851,
-      "word": "黄梦莹高干文女主脸",
-      "onboard_time": 1715767638,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -1027,14 +1051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 248442,
-      "num": 248442,
-      "word": "江疏影 我理想中的旅游搭子",
-      "onboard_time": 1715765838,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246080,
       "num": 233911,
       "word": "林俊杰歌手舞台曾帮唱张杰",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1715711292,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237307,
-      "num": 237307,
-      "word": "先秦淑女步",
-      "onboard_time": 1715766498,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 236008,
@@ -1105,6 +1113,14 @@
       "onboard_time": 1715750960,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230551,
+      "num": 410746,
+      "word": "荔枝型榴莲出肉率更高",
+      "onboard_time": 1715759779,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 230086,
@@ -1169,22 +1185,6 @@
       "onboard_time": 1715731157,
       "rank": 27,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 220047,
-      "num": 410746,
-      "word": "荔枝型榴莲出肉率更高",
-      "onboard_time": 1715759779,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 219470,
-      "num": 189729,
-      "word": "关晓彤在努力扮演大人了",
-      "onboard_time": 1715767937,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 218221,
@@ -1459,12 +1459,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191121,
+      "num": 191121,
+      "word": "男童被狗咬伤离世医院回应治疗不规范质疑",
+      "onboard_time": 1715767997,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191069,
       "num": 191069,
       "word": "种地吧直播",
       "onboard_time": 1715739197,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190362,
+      "num": 190362,
+      "word": "于适演技",
+      "onboard_time": 1715768538,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 190244,
@@ -1619,6 +1635,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 174146,
+      "num": 174146,
+      "word": "日本制铁公司熔钢锅内发现人骨",
+      "onboard_time": 1715768478,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173644,
       "num": 173644,
       "word": "刘诗诗大女主排面",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1715754317,
       "rank": 40,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 169201,
+      "num": 169201,
+      "word": "丁真被男团endingpose硬控了",
+      "onboard_time": 1715767877,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 167810,
@@ -1739,14 +1771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157127,
-      "num": 157127,
-      "word": "男童被狗咬伤离世医院回应治疗不规范质疑",
-      "onboard_time": 1715767997,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155602,
       "num": 155602,
       "word": "多方回应青岛11岁女童疑遭误诊去世",
@@ -1796,7 +1820,7 @@
     },
     {
       "raw_hot": 151281,
-      "num": 297892,
+      "num": 343645,
       "word": "刘翔好久不见",
       "onboard_time": 1715732959,
       "rank": 20,
@@ -1851,14 +1875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145125,
-      "num": 145125,
-      "word": "丁真被男团endingpose硬控了",
-      "onboard_time": 1715767877,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142315,
       "num": 142315,
       "word": "赵露思珠帘玉幕水下镜头",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1715738958,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138793,
+      "num": 138793,
+      "word": "我国住房空置率约为15%",
+      "onboard_time": 1715769018,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138499,
@@ -1985,6 +2009,14 @@
       "onboard_time": 1715735958,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129137,
+      "num": 129137,
+      "word": "暮月牵情",
+      "onboard_time": 1715768657,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 129003,
@@ -2201,6 +2233,14 @@
       "onboard_time": 1715723710,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105940,
+      "num": 105940,
+      "word": "贾跃亭回应法拉第未来飙涨",
+      "onboard_time": 1715769318,
+      "rank": 45,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 104350,
@@ -2433,6 +2473,14 @@
       "onboard_time": 1715710512,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50218,
+      "num": 271933,
+      "word": "如何解决父母居家养老安全隐患",
+      "onboard_time": 1715768418,
+      "rank": 17,
+      "category": "社会议题"
     },
     {
       "raw_hot": 47542,

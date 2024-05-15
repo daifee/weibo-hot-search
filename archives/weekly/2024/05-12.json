@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715768405265,
+  "endTime": 1715769355087,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1395,6 +1395,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771648,
+      "num": 771648,
+      "word": "警方提级调查3岁男童被狗咬伤身亡",
+      "onboard_time": 1715764877,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771301,
+      "num": 762660,
+      "word": "真正的大女主都是水泥封心",
+      "onboard_time": 1715766018,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 770678,
       "num": 770678,
       "word": "北京极光",
@@ -1425,14 +1441,6 @@
       "onboard_time": 1715611638,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 762660,
-      "num": 762660,
-      "word": "真正的大女主都是水泥封心",
-      "onboard_time": 1715766018,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 761324,
@@ -1611,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 699552,
+      "num": 233589,
+      "word": "坚持跑步1个月身体将怎样变化",
+      "onboard_time": 1715765418,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 698763,
       "num": 698763,
       "word": "王嘉尔希望35岁前成家",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1715570719,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 697004,
-      "num": 201156,
-      "word": "坚持跑步1个月身体将怎样变化",
-      "onboard_time": 1715765418,
-      "rank": 27,
-      "category": "运动健身"
     },
     {
       "raw_hot": 693483,
@@ -1899,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 622339,
+      "num": 232464,
+      "word": "正佳广场",
+      "onboard_time": 1715765178,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619734,
       "num": 349887,
       "word": "本周狗屎运最旺的星座",
@@ -2147,14 +2163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558751,
-      "num": 199175,
-      "word": "正佳广场",
-      "onboard_time": 1715765178,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557501,
       "num": 557501,
       "word": "新冠变异株KP.2多国蔓延",
@@ -2388,7 +2396,7 @@
     },
     {
       "raw_hot": 508657,
-      "num": 198048,
+      "num": 230707,
       "word": "你以为上班只是八小时",
       "onboard_time": 1715763438,
       "rank": 23,
@@ -2651,14 +2659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 481569,
-      "num": 481569,
-      "word": "警方提级调查3岁男童被狗咬伤身亡",
-      "onboard_time": 1715764877,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478945,
       "num": 478945,
       "word": "时隔6年半韩国外长今起访华",
@@ -2769,6 +2769,14 @@
       "onboard_time": 1715574260,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465702,
+      "num": 465702,
+      "word": "黄梦莹高干文女主脸",
+      "onboard_time": 1715767638,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 463921,
@@ -3484,7 +3492,7 @@
     },
     {
       "raw_hot": 375949,
-      "num": 194947,
+      "num": 225347,
       "word": "华为发布首款5000元档巨幕手机",
       "onboard_time": 1715765058,
       "rank": 28,
@@ -4147,6 +4155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 306893,
+      "num": 216426,
+      "word": "关晓彤在努力扮演大人了",
+      "onboard_time": 1715767937,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306356,
       "num": 306356,
       "word": "韩总统尹锡悦岳母服刑299天后获假释",
@@ -4353,6 +4369,14 @@
       "onboard_time": 1715565198,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287829,
+      "num": 287829,
+      "word": "先秦淑女步",
+      "onboard_time": 1715766498,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 287287,
@@ -4779,6 +4803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261396,
+      "num": 261396,
+      "word": "江疏影 我理想中的旅游搭子",
+      "onboard_time": 1715765838,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261062,
       "num": 261062,
       "word": "华晨宇想跟莫文蔚合作",
@@ -4800,14 +4832,6 @@
       "word": "春花厌",
       "onboard_time": 1715737998,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 258851,
-      "num": 258851,
-      "word": "黄梦莹高干文女主脸",
-      "onboard_time": 1715767638,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -5043,14 +5067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248442,
-      "num": 248442,
-      "word": "江疏影 我理想中的旅游搭子",
-      "onboard_time": 1715765838,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248381,
       "num": 248381,
       "word": "以为张凌赫下楼拿外卖",
@@ -5195,14 +5211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237307,
-      "num": 237307,
-      "word": "先秦淑女步",
-      "onboard_time": 1715766498,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237011,
       "num": 231218,
       "word": "JackeyLove 管泽元",
@@ -5321,6 +5329,14 @@
       "onboard_time": 1715750960,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230551,
+      "num": 410746,
+      "word": "荔枝型榴莲出肉率更高",
+      "onboard_time": 1715759779,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 230086,
@@ -5547,28 +5563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220047,
-      "num": 410746,
-      "word": "荔枝型榴莲出肉率更高",
-      "onboard_time": 1715759779,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 219782,
       "num": 192214,
       "word": "背着善宰跑牵手",
       "onboard_time": 1715567718,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219470,
-      "num": 189729,
-      "word": "关晓彤在努力扮演大人了",
-      "onboard_time": 1715767937,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 219411,
@@ -6619,6 +6619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191121,
+      "num": 191121,
+      "word": "男童被狗咬伤离世医院回应治疗不规范质疑",
+      "onboard_time": 1715767997,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191069,
       "num": 191069,
       "word": "种地吧直播",
@@ -6673,6 +6681,14 @@
       "onboard_time": 1715583859,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190362,
+      "num": 190362,
+      "word": "于适演技",
+      "onboard_time": 1715768538,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 190316,
@@ -7259,6 +7275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174146,
+      "num": 174146,
+      "word": "日本制铁公司熔钢锅内发现人骨",
+      "onboard_time": 1715768478,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174140,
       "num": 174140,
       "word": "栏目组回应主持人采访情侣劝分手",
@@ -7440,6 +7464,14 @@
       "word": "龚俊又在黄晓明面前唱闹太套",
       "onboard_time": 1715573000,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169201,
+      "num": 169201,
+      "word": "丁真被男团endingpose硬控了",
+      "onboard_time": 1715767877,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -7963,14 +7995,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 157127,
-      "num": 157127,
-      "word": "男童被狗咬伤离世医院回应治疗不规范质疑",
-      "onboard_time": 1715767997,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156939,
       "num": 156939,
       "word": "16年后的汶川生生不息",
@@ -8156,7 +8180,7 @@
     },
     {
       "raw_hot": 151281,
-      "num": 297892,
+      "num": 343645,
       "word": "刘翔好久不见",
       "onboard_time": 1715732959,
       "rank": 20,
@@ -8369,14 +8393,6 @@
       "onboard_time": 1715596818,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 145125,
-      "num": 145125,
-      "word": "丁真被男团endingpose硬控了",
-      "onboard_time": 1715767877,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 145108,
@@ -8649,6 +8665,14 @@
       "onboard_time": 1715668339,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 138793,
+      "num": 138793,
+      "word": "我国住房空置率约为15%",
+      "onboard_time": 1715769018,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138753,
@@ -9001,6 +9025,14 @@
       "onboard_time": 1715675119,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129137,
+      "num": 129137,
+      "word": "暮月牵情",
+      "onboard_time": 1715768657,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 128979,
@@ -9795,6 +9827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105940,
+      "num": 105940,
+      "word": "贾跃亭回应法拉第未来飙涨",
+      "onboard_time": 1715769318,
+      "rank": 45,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 105415,
       "num": 105415,
       "word": "何炅吴昕新综艺",
@@ -10505,6 +10545,14 @@
       "onboard_time": 1715667918,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50218,
+      "num": 271933,
+      "word": "如何解决父母居家养老安全隐患",
+      "onboard_time": 1715768418,
+      "rank": 17,
+      "category": "社会议题"
     },
     {
       "raw_hot": 49394,
