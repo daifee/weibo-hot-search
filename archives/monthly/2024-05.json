@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715798175330,
+  "endTime": 1715800526055,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -39947,6 +39947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 83162,
+      "num": 38947,
+      "word": "前夫出轨拒赔偿女子每年起诉要钱",
+      "onboard_time": 1715794933,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82602,
       "num": 1028140,
       "word": "我国成功发射试验二十三号卫星",
@@ -40561,14 +40569,6 @@
       "onboard_time": 1715455213,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 68908,
-      "num": 38947,
-      "word": "前夫出轨拒赔偿女子每年起诉要钱",
-      "onboard_time": 1715794933,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68802,
@@ -42403,6 +42403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17862,
+      "num": 17862,
+      "word": "在大学当高中生",
+      "onboard_time": 1715798291,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17451,
       "num": 17451,
       "word": "新款iPadPro搭载M4芯片",
@@ -42457,6 +42465,14 @@
       "onboard_time": 1715667739,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15082,
+      "num": 17785,
+      "word": "耶耶头部的含绒量",
+      "onboard_time": 1715800391,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 14999,

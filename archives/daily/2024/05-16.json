@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715798175330,
+  "endTime": 1715800526055,
   "band_list": [
     {
       "raw_hot": 1830305,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83162,
+      "num": 38947,
+      "word": "前夫出轨拒赔偿女子每年起诉要钱",
+      "onboard_time": 1715794933,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78051,
       "num": 78051,
       "word": "上海一餐厅特设肖战墙景位预约爆满",
@@ -411,14 +419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 68908,
-      "num": 38947,
-      "word": "前夫出轨拒赔偿女子每年起诉要钱",
-      "onboard_time": 1715794933,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61367,
       "num": 61367,
       "word": "新生",
@@ -459,12 +459,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 17862,
+      "num": 17862,
+      "word": "在大学当高中生",
+      "onboard_time": 1715798291,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17040,
       "num": 268803,
       "word": "2024年全球贸易投资促进峰会",
       "onboard_time": 1715780600,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15082,
+      "num": 17785,
+      "word": "耶耶头部的含绒量",
+      "onboard_time": 1715800391,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 10585,
