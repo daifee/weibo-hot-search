@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715764917526,
+  "endTime": 1715765674437,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -883,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 999872,
+      "num": 999872,
+      "word": "张杰回复了摔倒小男孩的妈妈",
+      "onboard_time": 1715761397,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 997264,
       "num": 997264,
       "word": "明星最爱干的副业集体倒闭",
@@ -929,14 +937,6 @@
       "onboard_time": 1715516183,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 968194,
-      "num": 968194,
-      "word": "张杰回复了摔倒小男孩的妈妈",
-      "onboard_time": 1715761397,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 965966,
@@ -1971,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594968,
+      "num": 419626,
+      "word": "生物学家称男性生子技术上讲有无限可能",
+      "onboard_time": 1715763438,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594376,
       "num": 594376,
       "word": "微笑疑似退赛",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1715570120,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551111,
+      "num": 474741,
+      "word": "于适 虚拟的网络何必那么认真",
+      "onboard_time": 1715763378,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 549525,
@@ -2345,6 +2361,14 @@
       "onboard_time": 1715592439,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 508657,
+      "num": 183517,
+      "word": "你以为上班只是八小时",
+      "onboard_time": 1715763438,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 508270,
@@ -2641,14 +2665,6 @@
       "onboard_time": 1715500338,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474741,
-      "num": 474741,
-      "word": "于适 虚拟的网络何必那么认真",
-      "onboard_time": 1715763378,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 471815,
@@ -3081,14 +3097,6 @@
       "onboard_time": 1715616259,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 413598,
-      "num": 179343,
-      "word": "你以为上班只是八小时",
-      "onboard_time": 1715763438,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 411281,
@@ -3729,14 +3737,6 @@
       "onboard_time": 1715581578,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 348964,
-      "num": 268575,
-      "word": "生物学家称男性生子技术上讲有无限可能",
-      "onboard_time": 1715763438,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348587,
@@ -5147,6 +5147,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 235677,
+      "num": 235677,
+      "word": "警方提级调查3岁男童被狗咬伤身亡",
+      "onboard_time": 1715764877,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235451,
       "num": 235451,
       "word": "赵今麦张凌赫古装cp感",
@@ -5235,6 +5243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229877,
+      "num": 183328,
+      "word": "张颂文 好严的一张嘴",
+      "onboard_time": 1715763258,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229727,
       "num": 207230,
       "word": "一顿火锅 对行业的警示作用",
@@ -5296,14 +5312,6 @@
       "word": "马伊琍拍我的阿勒泰中途补拍繁花",
       "onboard_time": 1715556675,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 226128,
-      "num": 177476,
-      "word": "张颂文 好严的一张嘴",
-      "onboard_time": 1715763258,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -5795,6 +5803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206912,
+      "num": 183223,
+      "word": "坚持跑步1个月身体将怎样变化",
+      "onboard_time": 1715765418,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 206815,
       "num": 206815,
       "word": "周深翻唱豆荚猫神曲",
@@ -5915,6 +5931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202834,
+      "num": 183117,
+      "word": "华为发布首款5000元档巨幕手机",
+      "onboard_time": 1715765058,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202768,
       "num": 202768,
       "word": "严浩翔被婴语为难住了",
@@ -6025,6 +6049,14 @@
       "onboard_time": 1715746100,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201488,
+      "num": 201488,
+      "word": "法拉第未来暴涨",
+      "onboard_time": 1715765058,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 201458,
@@ -6633,6 +6665,14 @@
       "onboard_time": 1715492838,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189490,
+      "num": 183076,
+      "word": "正佳广场",
+      "onboard_time": 1715765178,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189414,
@@ -8339,6 +8379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142339,
+      "num": 142339,
+      "word": "魏大勋王勉沟通偷感十足",
+      "onboard_time": 1715765477,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142315,
       "num": 142315,
       "word": "赵露思珠帘玉幕水下镜头",
@@ -9555,6 +9603,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 108747,
+      "num": 108747,
+      "word": "LGDNBW落予白歌星元",
+      "onboard_time": 1715762776,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108700,
       "num": 108700,
       "word": "不同克拉钻石戒指视觉效果",
@@ -9611,14 +9667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106539,
-      "num": 106539,
-      "word": "警方提级调查3岁男童被狗咬伤身亡",
-      "onboard_time": 1715764877,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105415,
       "num": 105415,
       "word": "何炅吴昕新综艺",
@@ -9673,6 +9721,14 @@
       "onboard_time": 1715617158,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103134,
+      "num": 191173,
+      "word": "为什么年轻人越来越Fit了",
+      "onboard_time": 1715762897,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 102450,
@@ -9969,14 +10025,6 @@
       "onboard_time": 1715417779,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83303,
-      "num": 181535,
-      "word": "为什么年轻人越来越Fit了",
-      "onboard_time": 1715762897,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 82602,
@@ -10588,7 +10636,7 @@
     },
     {
       "raw_hot": 20522,
-      "num": 180844,
+      "num": 183745,
       "word": "华为原野绿笔记本上新",
       "onboard_time": 1715762477,
       "rank": 20,
