@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715758477193,
+  "endTime": 1715761421283,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2222089,
+      "num": 1048218,
+      "word": "李溪芮拖鞋打伤代驾",
+      "onboard_time": 1715756477,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2215749,
       "num": 1326294,
       "word": "妹妹曝胖猫曾说他的老婆不需要上班",
@@ -657,14 +665,6 @@
       "onboard_time": 1715235557,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1958654,
-      "num": 1048218,
-      "word": "李溪芮拖鞋打伤代驾",
-      "onboard_time": 1715756477,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1954955,
@@ -1848,6 +1848,14 @@
       "word": "广东省委书记省长面向塌方地三鞠躬",
       "onboard_time": 1714636158,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1272438,
+      "num": 1272438,
+      "word": "专家称女性生孩子国家补贴房子是应该的",
+      "onboard_time": 1715757979,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -5627,6 +5635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 693483,
+      "num": 693483,
+      "word": "榴莲果核太大女子怀疑买到假金枕",
+      "onboard_time": 1715757018,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693178,
       "num": 693178,
       "word": "山东一公司4人窒息死亡事故调查报告",
@@ -7883,6 +7899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547640,
+      "num": 547640,
+      "word": "小沈阳用张杰谢娜结婚年份记事",
+      "onboard_time": 1715757498,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547585,
       "num": 461023,
       "word": "张真源是郑恺苗苗的爱情保安",
@@ -8193,6 +8217,14 @@
       "onboard_time": 1714549698,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 531992,
+      "num": 333116,
+      "word": "TikTok创作者集体起诉美国政府",
+      "onboard_time": 1715756839,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 531939,
@@ -8921,14 +8953,6 @@
       "onboard_time": 1715581459,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 497660,
-      "num": 334876,
-      "word": "榴莲果核太大女子怀疑买到假金枕",
-      "onboard_time": 1715757018,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496617,
@@ -11803,14 +11827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 394416,
-      "num": 333491,
-      "word": "小沈阳用张杰谢娜结婚年份记事",
-      "onboard_time": 1715757498,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394369,
       "num": 358398,
       "word": "邓超你关注下陶白白吧",
@@ -13899,14 +13915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333116,
-      "num": 333116,
-      "word": "TikTok创作者集体起诉美国政府",
-      "onboard_time": 1715756839,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 332815,
       "num": 332815,
       "word": "2024年巴黎奥运会",
@@ -14409,6 +14417,14 @@
       "onboard_time": 1715092641,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 319949,
+      "num": 319949,
+      "word": "变形计男主人公现状",
+      "onboard_time": 1715758997,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 319912,
@@ -15075,6 +15091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302142,
+      "num": 302142,
+      "word": "越来越多房东由卖转租",
+      "onboard_time": 1715759477,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301701,
       "num": 301701,
       "word": "杭州市内买房不再审核购房资格",
@@ -15129,6 +15153,14 @@
       "onboard_time": 1715133621,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 300768,
+      "num": 300768,
+      "word": "IVEMV疑似抄袭XG女团",
+      "onboard_time": 1715759659,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 300288,
@@ -19571,6 +19603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226018,
+      "num": 226018,
+      "word": "逆水寒 马尾",
+      "onboard_time": 1715758397,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225988,
       "num": 225988,
       "word": "桃花坞",
@@ -19633,14 +19673,6 @@
       "onboard_time": 1715076918,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225348,
-      "num": 225348,
-      "word": "专家称女性生孩子国家补贴房子是应该的",
-      "onboard_time": 1715757979,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225284,
@@ -20041,6 +20073,14 @@
       "onboard_time": 1715588239,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220047,
+      "num": 335823,
+      "word": "荔枝型榴莲出肉率更高",
+      "onboard_time": 1715759779,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 219958,
@@ -21579,6 +21619,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206490,
+      "num": 417732,
+      "word": "儿子打碎20多个瓜爸妈脸上笑哈哈",
+      "onboard_time": 1715754978,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206255,
+      "num": 206255,
+      "word": "张杰回复了摔倒小男孩的妈妈",
+      "onboard_time": 1715761397,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206148,
       "num": 206148,
       "word": "杨紫ELLE女星销量第一",
@@ -22169,6 +22225,14 @@
       "onboard_time": 1715522841,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202690,
+      "num": 202690,
+      "word": "DNF全新代言人",
+      "onboard_time": 1715760919,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 202661,
@@ -25987,6 +26051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180427,
+      "num": 180427,
+      "word": "杨洋反手握刀",
+      "onboard_time": 1715760197,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180370,
       "num": 180370,
       "word": "李承铉被Lucky激到徒手拿蜘蛛",
@@ -27377,14 +27449,6 @@
       "onboard_time": 1715475917,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171601,
-      "num": 417732,
-      "word": "儿子打碎20多个瓜爸妈脸上笑哈哈",
-      "onboard_time": 1715754978,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171563,
@@ -29251,6 +29315,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 160205,
+      "num": 160205,
+      "word": "外交部回应5艘渔船从菲驶向黄岩岛周围海域",
+      "onboard_time": 1715761279,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160187,
       "num": 160187,
       "word": "职场软刀子真捅心窝子",
@@ -30891,6 +30963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149860,
+      "num": 149860,
+      "word": "庆余年2庆庆佳人海报",
+      "onboard_time": 1715758819,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149859,
       "num": 149859,
       "word": "原来真有易容术",
@@ -31809,14 +31889,6 @@
       "onboard_time": 1714663101,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144440,
-      "num": 144440,
-      "word": "逆水寒 马尾",
-      "onboard_time": 1715758397,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 144404,
@@ -34107,6 +34179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129952,
+      "num": 129952,
+      "word": "以为是豪门原来是茶壶",
+      "onboard_time": 1715759418,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129902,
       "num": 217911,
       "word": "凤凰传奇军训",
@@ -34915,6 +34995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124664,
+      "num": 124664,
+      "word": "快乐老友记 两大群像",
+      "onboard_time": 1715761279,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124554,
       "num": 124554,
       "word": "绝区零回应泄密",
@@ -35065,6 +35153,14 @@
       "onboard_time": 1714722499,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123661,
+      "num": 123661,
+      "word": "考虑让地方政府购买尚未售出的存量住房",
+      "onboard_time": 1715761279,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 123634,
@@ -39099,6 +39195,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 72201,
+      "num": 153146,
+      "word": "余承东现身问界新M5交付活动",
+      "onboard_time": 1715759718,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 71771,
       "num": 82636,
       "word": "TWICE回归预告",
@@ -39681,6 +39785,14 @@
       "onboard_time": 1714742900,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56735,
+      "num": 241829,
+      "word": "余承东讲Pura70Ultra最顶影像",
+      "onboard_time": 1715760378,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 56507,
@@ -40521,6 +40633,14 @@
       "onboard_time": 1715624592,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 32788,
+      "num": 111483,
+      "word": "Rita要求姿态cos嫦娥",
+      "onboard_time": 1715761339,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 32765,
