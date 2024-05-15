@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715779251433,
+  "endTime": 1715780049822,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -27,8 +27,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1853089,
-      "num": 1853089,
+      "raw_hot": 2148013,
+      "num": 2148013,
       "word": "歌手2024揭榜歌手歌单",
       "onboard_time": 1715777538,
       "rank": 0,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779449,
+      "num": 255121,
+      "word": "1岁女婴被大伯母投毒致四肢瘫痪",
+      "onboard_time": 1715778077,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771301,
       "num": 762660,
       "word": "真正的大女主都是水泥封心",
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583453,
+      "num": 583453,
+      "word": "安徽一司机碾压小孩致身亡逃逸被抓",
+      "onboard_time": 1715776517,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576359,
       "num": 576359,
       "word": "河南3岁男童被恶犬咬伤18天后离世",
@@ -483,8 +499,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 541618,
-      "num": 497479,
+      "raw_hot": 543501,
+      "num": 543501,
       "word": "关晓彤鞠婧祎早期合照",
       "onboard_time": 1715774417,
       "rank": 7,
@@ -515,28 +531,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 531162,
-      "num": 531162,
-      "word": "安徽一司机碾压小孩致身亡逃逸被抓",
-      "onboard_time": 1715776517,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 524678,
       "num": 524678,
       "word": "酱园弄 戛纳",
       "onboard_time": 1715744959,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 511643,
-      "num": 255121,
-      "word": "1岁女婴被大伯母投毒致四肢瘫痪",
-      "onboard_time": 1715778077,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 508657,
@@ -851,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364916,
+      "num": 318220,
+      "word": "庆余年第二季开播倒计时1天",
+      "onboard_time": 1715777417,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362287,
       "num": 362287,
       "word": "花少北 小号",
@@ -899,14 +907,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 346030,
-      "num": 315327,
-      "word": "庆余年第二季开播倒计时1天",
-      "onboard_time": 1715777417,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 338748,
       "num": 338748,
       "word": "Uzi AL",
@@ -929,6 +929,14 @@
       "onboard_time": 1715728274,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 326567,
+      "num": 326567,
+      "word": "黄循财就任新加坡总理",
+      "onboard_time": 1715777237,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 321751,
@@ -955,12 +963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314890,
-      "num": 314890,
-      "word": "黄循财就任新加坡总理",
-      "onboard_time": 1715777237,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 316927,
+      "num": 316927,
+      "word": "费可死了",
+      "onboard_time": 1715779337,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 313005,
@@ -1195,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251075,
+      "num": 251075,
+      "word": "张杰与TF家族合体过",
+      "onboard_time": 1715778738,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249743,
       "num": 224988,
       "word": "IVE",
@@ -1225,6 +1241,22 @@
       "onboard_time": 1715772197,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 243826,
+      "num": 243826,
+      "word": "CBA总决赛",
+      "onboard_time": 1715778378,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 241859,
+      "num": 241859,
+      "word": "上海一餐厅特设肖战墙景位预约爆满",
+      "onboard_time": 1715779218,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 241101,
@@ -1355,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222606,
+      "num": 222606,
+      "word": "双鱼座的合群都是装的",
+      "onboard_time": 1715775197,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222065,
       "num": 222065,
       "word": "开推2全员跳晚安大小姐",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1715754918,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 208320,
-      "num": 208320,
-      "word": "张杰与TF家族合体过",
-      "onboard_time": 1715778738,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 207800,
@@ -1547,14 +1579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201109,
-      "num": 201109,
-      "word": "CBA总决赛",
-      "onboard_time": 1715778378,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201082,
       "num": 201082,
       "word": "新生彩蛋",
@@ -1617,14 +1641,6 @@
       "onboard_time": 1715749333,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197164,
-      "num": 197164,
-      "word": "上海一餐厅特设肖战墙景位预约爆满",
-      "onboard_time": 1715779218,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 197148,
@@ -1771,14 +1787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189257,
-      "num": 189257,
-      "word": "双鱼座的合群都是装的",
-      "onboard_time": 1715775197,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188886,
       "num": 188886,
       "word": "关晓彤担任法国尼斯旅游文化大使",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1715761279,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182321,
+      "num": 182321,
+      "word": "竹已三部曲都影视化了",
+      "onboard_time": 1715778438,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 182313,
@@ -1947,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172803,
+      "num": 172803,
+      "word": "张若昀好痛一滴泪",
+      "onboard_time": 1715779699,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171900,
       "num": 171900,
       "word": "陈晓杨子姗三搭",
@@ -1985,14 +2009,6 @@
       "onboard_time": 1715754317,
       "rank": 40,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 169095,
-      "num": 169095,
-      "word": "竹已三部曲都影视化了",
-      "onboard_time": 1715778438,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 167810,
@@ -2057,6 +2073,14 @@
       "onboard_time": 1715733438,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164549,
+      "num": 164549,
+      "word": "张艺兴四季惊喜夜",
+      "onboard_time": 1715779938,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 160878,
@@ -2131,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152680,
+      "num": 152680,
+      "word": "有人管管南方的烧烤吗",
+      "onboard_time": 1715778918,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151779,
       "num": 151779,
       "word": "攻玉",
@@ -2145,6 +2177,14 @@
       "onboard_time": 1715732959,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151266,
+      "num": 151266,
+      "word": "Tabe说可以帮Uzi点外卖了",
+      "onboard_time": 1715778860,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 149860,
@@ -2169,6 +2209,14 @@
       "onboard_time": 1715750420,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148915,
+      "num": 148915,
+      "word": "斯洛伐克总理遭枪击",
+      "onboard_time": 1715779938,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 148536,
@@ -2201,14 +2249,6 @@
       "onboard_time": 1715771357,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144124,
-      "num": 144124,
-      "word": "Tabe说可以帮Uzi点外卖了",
-      "onboard_time": 1715778860,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 143518,
@@ -2339,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131725,
+      "num": 239477,
+      "word": "乐道L60超长续航",
+      "onboard_time": 1715779577,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 131719,
       "num": 131719,
       "word": "游戏代练到底是谁在挣钱",
@@ -2379,14 +2427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129181,
-      "num": 129181,
-      "word": "有人管管南方的烧烤吗",
-      "onboard_time": 1715778918,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 129137,
       "num": 129137,
       "word": "暮月牵情",
@@ -2424,6 +2464,14 @@
       "word": "哈兰德梅开二度",
       "onboard_time": 1715729235,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126064,
+      "num": 126064,
+      "word": "辽篮",
+      "onboard_time": 1715779337,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2548,7 +2596,7 @@
     },
     {
       "raw_hot": 115317,
-      "num": 143495,
+      "num": 153447,
       "word": "朱一龙OPPO新机海报",
       "onboard_time": 1715778977,
       "rank": 38,
@@ -2993,6 +3041,14 @@
       "onboard_time": 1715773396,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 31233,
+      "num": 319875,
+      "word": "东北老铁被榴莲硬控住了",
+      "onboard_time": 1715779577,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 30653,

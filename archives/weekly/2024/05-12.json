@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715779251433,
+  "endTime": 1715780049822,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -139,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2148013,
+      "num": 2148013,
+      "word": "歌手2024揭榜歌手歌单",
+      "onboard_time": 1715777538,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2100434,
       "num": 2100434,
       "word": "欧阳娜娜回应",
@@ -201,14 +209,6 @@
       "onboard_time": 1715444300,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1853089,
-      "num": 1853089,
-      "word": "歌手2024揭榜歌手歌单",
-      "onboard_time": 1715777538,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1814093,
@@ -1419,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 779449,
+      "num": 255121,
+      "word": "1岁女婴被大伯母投毒致四肢瘫痪",
+      "onboard_time": 1715778077,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777909,
       "num": 777909,
       "word": "上海相亲条件已经卷到看会员了",
@@ -2075,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 583453,
+      "num": 583453,
+      "word": "安徽一司机碾压小孩致身亡逃逸被抓",
+      "onboard_time": 1715776517,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581700,
       "num": 262922,
       "word": "和庆余年2对打的是歌手2024吧",
@@ -2259,8 +2275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541618,
-      "num": 497479,
+      "raw_hot": 543501,
+      "num": 543501,
       "word": "关晓彤鞠婧祎早期合照",
       "onboard_time": 1715774417,
       "rank": 7,
@@ -2329,14 +2345,6 @@
       "onboard_time": 1715419880,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 531162,
-      "num": 531162,
-      "word": "安徽一司机碾压小孩致身亡逃逸被抓",
-      "onboard_time": 1715776517,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 527837,
@@ -2425,14 +2433,6 @@
       "onboard_time": 1715653577,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 511643,
-      "num": 255121,
-      "word": "1岁女婴被大伯母投毒致四肢瘫痪",
-      "onboard_time": 1715778077,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510937,
@@ -3715,6 +3715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364916,
+      "num": 318220,
+      "word": "庆余年第二季开播倒计时1天",
+      "onboard_time": 1715777417,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363329,
       "num": 261587,
       "word": "香港大学偶遇奚梦瑶上课",
@@ -3955,14 +3963,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 346030,
-      "num": 315327,
-      "word": "庆余年第二季开播倒计时1天",
-      "onboard_time": 1715777417,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 343583,
       "num": 343583,
       "word": "上海文旅局回应五月天假唱风波调查",
@@ -4155,6 +4155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 326567,
+      "num": 326567,
+      "word": "黄循财就任新加坡总理",
+      "onboard_time": 1715777237,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 324378,
       "num": 324378,
       "word": "苹果要重做Siri了",
@@ -4235,6 +4243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 316927,
+      "num": 316927,
+      "word": "费可死了",
+      "onboard_time": 1715779337,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316735,
       "num": 316735,
       "word": "67岁老人一年有300天都在出差",
@@ -4249,14 +4265,6 @@
       "onboard_time": 1715566759,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 314890,
-      "num": 314890,
-      "word": "黄循财就任新加坡总理",
-      "onboard_time": 1715777237,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 314124,
@@ -5179,6 +5187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251075,
+      "num": 251075,
+      "word": "张杰与TF家族合体过",
+      "onboard_time": 1715778738,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250942,
       "num": 280806,
       "word": "小米宣布与京东全面深化战略合作",
@@ -5315,6 +5331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 243826,
+      "num": 243826,
+      "word": "CBA总决赛",
+      "onboard_time": 1715778378,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243689,
       "num": 243689,
       "word": "工作后才尝到经济独立的甜头",
@@ -5337,6 +5361,14 @@
       "onboard_time": 1715484199,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241859,
+      "num": 241859,
+      "word": "上海一餐厅特设肖战墙景位预约爆满",
+      "onboard_time": 1715779218,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 241101,
@@ -5681,6 +5713,14 @@
       "onboard_time": 1715585658,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222606,
+      "num": 222606,
+      "word": "双鱼座的合群都是装的",
+      "onboard_time": 1715775197,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 222438,
@@ -6051,14 +6091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208320,
-      "num": 208320,
-      "word": "张杰与TF家族合体过",
-      "onboard_time": 1715778738,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208190,
       "num": 679076,
       "word": "中国的龙是loong",
@@ -6371,14 +6403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201109,
-      "num": 201109,
-      "word": "CBA总决赛",
-      "onboard_time": 1715778378,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201082,
       "num": 201082,
       "word": "新生彩蛋",
@@ -6585,14 +6609,6 @@
       "onboard_time": 1715609842,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197164,
-      "num": 197164,
-      "word": "上海一餐厅特设肖战墙景位预约爆满",
-      "onboard_time": 1715779218,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 197148,
@@ -7043,14 +7059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 189257,
-      "num": 189257,
-      "word": "双鱼座的合群都是装的",
-      "onboard_time": 1715775197,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189241,
       "num": 189241,
       "word": "张之臻晋级罗马赛八强",
@@ -7257,6 +7265,14 @@
       "onboard_time": 1715594360,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182321,
+      "num": 182321,
+      "word": "竹已三部曲都影视化了",
+      "onboard_time": 1715778438,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 182266,
@@ -7611,6 +7627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172803,
+      "num": 172803,
+      "word": "张若昀好痛一滴泪",
+      "onboard_time": 1715779699,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172476,
       "num": 172476,
       "word": "秦岚没张嘴但感觉话好密",
@@ -7753,14 +7777,6 @@
       "onboard_time": 1715573000,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169095,
-      "num": 169095,
-      "word": "竹已三部曲都影视化了",
-      "onboard_time": 1715778438,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 169065,
@@ -8001,6 +8017,14 @@
       "onboard_time": 1715573601,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164549,
+      "num": 164549,
+      "word": "张艺兴四季惊喜夜",
+      "onboard_time": 1715779938,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 164441,
@@ -8475,6 +8499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152680,
+      "num": 152680,
+      "word": "有人管管南方的烧烤吗",
+      "onboard_time": 1715778918,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152188,
       "num": 152188,
       "word": "第五人格",
@@ -8505,6 +8537,14 @@
       "onboard_time": 1715732959,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151266,
+      "num": 151266,
+      "word": "Tabe说可以帮Uzi点外卖了",
+      "onboard_time": 1715778860,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 151216,
@@ -8577,6 +8617,14 @@
       "onboard_time": 1715562019,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148915,
+      "num": 148915,
+      "word": "斯洛伐克总理遭枪击",
+      "onboard_time": 1715779938,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 148890,
@@ -8769,14 +8817,6 @@
       "onboard_time": 1715479459,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144124,
-      "num": 144124,
-      "word": "Tabe说可以帮Uzi点外卖了",
-      "onboard_time": 1715778860,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 143937,
@@ -9267,6 +9307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131725,
+      "num": 239477,
+      "word": "乐道L60超长续航",
+      "onboard_time": 1715779577,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 131719,
       "num": 131719,
       "word": "游戏代练到底是谁在挣钱",
@@ -9395,14 +9443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129181,
-      "num": 129181,
-      "word": "有人管管南方的烧烤吗",
-      "onboard_time": 1715778918,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 129137,
       "num": 129137,
       "word": "暮月牵情",
@@ -9513,6 +9553,14 @@
       "onboard_time": 1715437342,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126064,
+      "num": 126064,
+      "word": "辽篮",
+      "onboard_time": 1715779337,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 126055,
@@ -9916,7 +9964,7 @@
     },
     {
       "raw_hot": 115317,
-      "num": 143495,
+      "num": 153447,
       "word": "朱一龙OPPO新机海报",
       "onboard_time": 1715778977,
       "rank": 38,
@@ -11153,6 +11201,14 @@
       "onboard_time": 1715606599,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 31233,
+      "num": 319875,
+      "word": "东北老铁被榴莲硬控住了",
+      "onboard_time": 1715779577,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 30953,
