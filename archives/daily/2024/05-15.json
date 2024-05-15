@@ -1,9 +1,9 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715735855474,
+  "endTime": 1715737217181,
   "band_list": [
     {
-      "raw_hot": 2059651,
+      "raw_hot": 2162287,
       "num": 2059651,
       "word": "月薪两万不敢在商场买衣服",
       "onboard_time": 1715734099,
@@ -19,8 +19,8 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 1208726,
-      "num": 1208726,
+      "raw_hot": 1238890,
+      "num": 1238890,
       "word": "长城炮车主被车顶电动帐篷卡脖身亡",
       "onboard_time": 1715733200,
       "rank": 3,
@@ -35,8 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1038597,
-      "num": 1038597,
+      "raw_hot": 1103336,
+      "num": 1103336,
       "word": "死亡的20只东北虎有10只是幼虎",
       "onboard_time": 1715734398,
       "rank": 4,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 637688,
+      "num": 297121,
+      "word": "准备离职结果让我去出差",
+      "onboard_time": 1715731878,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 605991,
       "num": 605991,
       "word": "歌手报名 没档期",
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 587040,
-      "num": 297121,
-      "word": "准备离职结果让我去出差",
-      "onboard_time": 1715731878,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 576359,
       "num": 576359,
       "word": "河南3岁男童被恶犬咬伤18天后离世",
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541139,
+      "num": 541139,
+      "word": "歌手预测",
+      "onboard_time": 1715731639,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540736,
       "num": 540736,
       "word": "茶百道 文俊辉",
       "onboard_time": 1715731157,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 507797,
-      "num": 507797,
-      "word": "歌手预测",
-      "onboard_time": 1715731639,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 504511,
@@ -179,11 +179,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397399,
+      "num": 397399,
+      "word": "攻玉官微",
+      "onboard_time": 1715734340,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387820,
       "num": 387820,
       "word": "恶犬咬伤离世男童母亲发声",
       "onboard_time": 1715730918,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383648,
+      "num": 383648,
+      "word": "女子呼吁改进妇科检查的鸭嘴钳",
+      "onboard_time": 1715735478,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -225,6 +241,14 @@
       "onboard_time": 1715697680,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 328546,
+      "num": 328546,
+      "word": "金秀贤一口气发了42张图",
+      "onboard_time": 1715733678,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 327090,
@@ -283,12 +307,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294717,
-      "num": 294717,
-      "word": "攻玉官微",
-      "onboard_time": 1715734340,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 288973,
+      "num": 288973,
+      "word": "阴阳师",
+      "onboard_time": 1715735658,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 278074,
@@ -315,20 +339,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260291,
-      "num": 260291,
-      "word": "金秀贤一口气发了42张图",
-      "onboard_time": 1715733678,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256790,
       "num": 256790,
       "word": "湖大回应留学生称南海诸岛是越南领土",
       "onboard_time": 1715722150,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252926,
+      "num": 252926,
+      "word": "真的有很多人晚上在家不拉窗帘",
+      "onboard_time": 1715733379,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 241101,
@@ -363,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230086,
+      "num": 230086,
+      "word": "种地吧",
+      "onboard_time": 1715736917,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220637,
       "num": 220637,
       "word": "不吃饭先瘦死还是饿死",
@@ -379,12 +411,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205192,
-      "num": 205192,
-      "word": "真的有很多人晚上在家不拉窗帘",
-      "onboard_time": 1715733379,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 206025,
+      "num": 206025,
+      "word": "欧阳娜娜晒毕业照",
+      "onboard_time": 1715736317,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 202304,
@@ -411,8 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191470,
-      "num": 191470,
+      "raw_hot": 193331,
+      "num": 193331,
       "word": "云南蝴蝶大爆发将迎来最佳观赏期",
       "onboard_time": 1715735058,
       "rank": 34,
@@ -427,20 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186013,
-      "num": 186013,
-      "word": "阴阳师",
-      "onboard_time": 1715735658,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 185400,
+      "num": 185400,
+      "word": "管泽元",
+      "onboard_time": 1715731758,
+      "rank": 40,
+      "category": "电竞"
     },
     {
-      "raw_hot": 184441,
-      "num": 184441,
-      "word": "女子呼吁改进妇科检查的鸭嘴钳",
-      "onboard_time": 1715735478,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 182313,
+      "num": 182313,
+      "word": "歌手2024请揭榜",
+      "onboard_time": 1715731998,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 178493,
@@ -491,14 +523,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 169617,
-      "num": 169617,
-      "word": "管泽元",
-      "onboard_time": 1715731758,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 167512,
       "num": 167512,
       "word": "彭于晏戛纳红毯",
@@ -513,6 +537,14 @@
       "onboard_time": 1715696121,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 165071,
+      "num": 165071,
+      "word": "狗狗走失三年后被认出",
+      "onboard_time": 1715733438,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 155602,
@@ -531,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153135,
-      "num": 153135,
-      "word": "狗狗走失三年后被认出",
-      "onboard_time": 1715733438,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151281,
       "num": 297892,
       "word": "刘翔好久不见",
@@ -555,20 +579,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147901,
+      "num": 147901,
+      "word": "魏如萱也想去歌手",
+      "onboard_time": 1715736199,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146227,
       "num": 146227,
       "word": "詹雯婷发长文",
       "onboard_time": 1715674759,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145977,
-      "num": 140611,
-      "word": "歌手2024请揭榜",
-      "onboard_time": 1715731998,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 140347,
@@ -617,6 +641,14 @@
       "onboard_time": 1715696301,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129784,
+      "num": 129784,
+      "word": "阜阳野生动物园曾被发5次整改通知",
+      "onboard_time": 1715735958,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129003,
@@ -763,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88264,
+      "num": 555917,
+      "word": "二孩妈妈用22年从中专读到博士",
+      "onboard_time": 1715734278,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87549,
       "num": 87549,
       "word": "新生第十集",
@@ -777,14 +817,6 @@
       "onboard_time": 1715683038,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77189,
-      "num": 555917,
-      "word": "二孩妈妈用22年从中专读到博士",
-      "onboard_time": 1715734278,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76986,

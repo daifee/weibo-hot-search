@@ -1,0 +1,410 @@
+{
+  "runTime": 1715737217181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1238890,
+        "num": 1238890,
+        "word": "长城炮车主被车顶电动帐篷卡脖身亡",
+        "onboard_time": 1715733200,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103336,
+        "num": 1103336,
+        "word": "死亡的20只东北虎有10只是幼虎",
+        "onboard_time": 1715734398,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12308,
+        "num": 1086702,
+        "word": "累计飞行3500小时他将头盔交给95后徒弟",
+        "onboard_time": 1715694079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2162287,
+        "num": 1085259,
+        "word": "月薪两万不敢在商场买衣服",
+        "onboard_time": 1715734099,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1083767,
+        "num": 1083767,
+        "word": "香港一医院就误切女子子宫致歉",
+        "onboard_time": 1715729955,
+        "rank": 4,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 941427,
+        "num": 941427,
+        "word": "地磁暴的这几天你睡眠如何",
+        "onboard_time": 1715730737,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 583299,
+        "num": 583299,
+        "word": "00后试岗月薪15000住家保姆",
+        "onboard_time": 1715734099,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541139,
+        "num": 541139,
+        "word": "歌手预测",
+        "onboard_time": 1715731639,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523380,
+        "num": 523380,
+        "word": "艾伦陈乔恩获金扫帚影帝后",
+        "onboard_time": 1715729657,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88264,
+        "num": 458830,
+        "word": "二孩妈妈用22年从中专读到博士",
+        "onboard_time": 1715734278,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657186,
+        "num": 441038,
+        "word": "张杰谢娜吵架也要撒狗粮",
+        "onboard_time": 1715732240,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397399,
+        "num": 397399,
+        "word": "攻玉官微",
+        "onboard_time": 1715734340,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396402,
+        "num": 396402,
+        "word": "茶百道 文俊辉",
+        "onboard_time": 1715731157,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386985,
+        "num": 386985,
+        "word": "关晓彤戛纳红毯短发造型",
+        "onboard_time": 1715731038,
+        "rank": 13,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 385002,
+        "num": 385002,
+        "word": "戛纳红毯",
+        "onboard_time": 1715729837,
+        "rank": 14,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 383648,
+        "num": 383648,
+        "word": "女子呼吁改进妇科检查的鸭嘴钳",
+        "onboard_time": 1715735478,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360396,
+        "num": 360396,
+        "word": "恶犬咬伤离世男童母亲发声",
+        "onboard_time": 1715730918,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328546,
+        "num": 328546,
+        "word": "金秀贤一口气发了42张图",
+        "onboard_time": 1715733678,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288973,
+        "num": 288973,
+        "word": "阴阳师",
+        "onboard_time": 1715735658,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276645,
+        "num": 276645,
+        "word": "河南3岁男童被恶犬咬伤18天后离世",
+        "onboard_time": 1715727794,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130266,
+        "num": 276211,
+        "word": "刘翔好久不见",
+        "onboard_time": 1715732959,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 637688,
+        "num": 276084,
+        "word": "准备离职结果让我去出差",
+        "onboard_time": 1715731878,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275824,
+        "num": 275824,
+        "word": "庆余年",
+        "onboard_time": 1715733622,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252926,
+        "num": 252926,
+        "word": "真的有很多人晚上在家不拉窗帘",
+        "onboard_time": 1715733379,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230086,
+        "num": 230086,
+        "word": "种地吧",
+        "onboard_time": 1715736917,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225306,
+        "num": 225306,
+        "word": "杨洋正午剧",
+        "onboard_time": 1715728995,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206025,
+        "num": 206025,
+        "word": "欧阳娜娜晒毕业照",
+        "onboard_time": 1715736317,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97,
+        "num": 198975,
+        "word": "你的牛奶喝对了么",
+        "onboard_time": 1715731518,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193331,
+        "num": 193331,
+        "word": "云南蝴蝶大爆发将迎来最佳观赏期",
+        "onboard_time": 1715735058,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 192108,
+        "num": 192108,
+        "word": "手机被监听一招就能解决",
+        "onboard_time": 1715713331,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191796,
+        "num": 191796,
+        "word": "戛纳电影节",
+        "onboard_time": 1715731518,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186465,
+        "num": 186465,
+        "word": "地磁暴",
+        "onboard_time": 1715735538,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 185400,
+        "num": 185400,
+        "word": "管泽元",
+        "onboard_time": 1715731758,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182313,
+        "num": 182313,
+        "word": "歌手2024请揭榜",
+        "onboard_time": 1715731998,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176099,
+        "num": 176099,
+        "word": "离婚搭子好小众的文字",
+        "onboard_time": 1715730737,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172617,
+        "num": 172617,
+        "word": "IVE MV画面",
+        "onboard_time": 1715697680,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169333,
+        "num": 169333,
+        "word": "韩总统尹锡悦岳母服刑299天后获假释",
+        "onboard_time": 1715729476,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165817,
+        "num": 165817,
+        "word": "不吃饭先瘦死还是饿死",
+        "onboard_time": 1715731157,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 165071,
+        "num": 165071,
+        "word": "狗狗走失三年后被认出",
+        "onboard_time": 1715733438,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155961,
+        "num": 155961,
+        "word": "樊振东",
+        "onboard_time": 1715702598,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148918,
+        "num": 148918,
+        "word": "巩俐戛纳红毯气场",
+        "onboard_time": 1715734877,
+        "rank": 40,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 147901,
+        "num": 147901,
+        "word": "魏如萱也想去歌手",
+        "onboard_time": 1715736199,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144349,
+        "num": 144349,
+        "word": "青岛一女童发热输液后死亡",
+        "onboard_time": 1715697020,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140167,
+        "num": 140167,
+        "word": "张韶涵造型团队没有瓶颈期",
+        "onboard_time": 1715699000,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134482,
+        "num": 134482,
+        "word": "沈小婷回国第一站跑男",
+        "onboard_time": 1715711292,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131775,
+        "num": 131775,
+        "word": "鲁冰花原来有这么多颜色",
+        "onboard_time": 1715730075,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129784,
+        "num": 129784,
+        "word": "阜阳野生动物园曾被发5次整改通知",
+        "onboard_time": 1715735958,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129499,
+        "num": 129499,
+        "word": "爱丽丝门罗去世",
+        "onboard_time": 1715731038,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 124705,
+        "num": 124705,
+        "word": "西安科大威胁老师改成绩的学生家长身份成谜",
+        "onboard_time": 1715697438,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122366,
+        "num": 122366,
+        "word": "新款iPadAir和Pro启用80%限度充电功能",
+        "onboard_time": 1715728935,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧合作为世界和平发展注入新动能#"
+    }
+  }
+}
