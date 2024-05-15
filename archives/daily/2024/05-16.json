@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715815200038,
+  "endTime": 1715816060975,
   "band_list": [
     {
       "raw_hot": 1830305,
@@ -19,20 +19,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743195,
+      "num": 743195,
+      "word": "云南将迎1亿只以上蝴蝶大爆发",
+      "onboard_time": 1715803151,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734220,
+      "num": 734220,
+      "word": "俄罗斯总统普京抵达北京",
+      "onboard_time": 1715815155,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 704446,
-      "num": 268189,
+      "num": 334334,
       "word": "韩佩泉报名歌手成功",
       "onboard_time": 1715783538,
       "rank": 3,
       "category": "综艺"
     },
     {
-      "raw_hot": 622168,
-      "num": 622168,
-      "word": "云南将迎1亿只以上蝴蝶大爆发",
-      "onboard_time": 1715803151,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 685114,
+      "num": 685114,
+      "word": "普京开启访华之旅",
+      "onboard_time": 1715814734,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 515744,
@@ -51,6 +67,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 493952,
+      "num": 493952,
+      "word": "李溪芮张腾与代驾发生冲突全过程",
+      "onboard_time": 1715783659,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463764,
       "num": 257091,
       "word": "歌手2024揭榜歌手歌单",
@@ -59,28 +83,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 456831,
-      "num": 456831,
-      "word": "李溪芮张腾与代驾发生冲突全过程",
-      "onboard_time": 1715783659,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 411001,
       "num": 250195,
       "word": "尼格买提 莫奈花园",
       "onboard_time": 1715788278,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 406132,
-      "num": 406132,
-      "word": "普京开启访华之旅",
-      "onboard_time": 1715814734,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 400283,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 323572,
-      "num": 71042,
+      "num": 77295,
       "word": "开心消消乐",
       "onboard_time": 1715791036,
       "rank": 48,
@@ -131,8 +139,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287512,
+      "num": 287512,
+      "word": "普京访华",
+      "onboard_time": 1715815755,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 267115,
+      "num": 267115,
+      "word": "日本前大臣感慨日本太落后",
+      "onboard_time": 1715805850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 263884,
-      "num": 159162,
+      "num": 220999,
       "word": "张静初回应凹学霸人设",
       "onboard_time": 1715785099,
       "rank": 22,
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 261277,
-      "num": 177675,
+      "num": 259447,
       "word": "佟丽娅长发新中式",
       "onboard_time": 1715790555,
       "rank": 34,
@@ -155,12 +179,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 251637,
-      "num": 170439,
-      "word": "日本前大臣感慨日本太落后",
-      "onboard_time": 1715805850,
-      "rank": 13,
-      "category": "国外时政"
+      "raw_hot": 254070,
+      "num": 273214,
+      "word": "李雪琴 小树不长歪长点枝丫没问题",
+      "onboard_time": 1715788877,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 248278,
@@ -169,14 +193,6 @@
       "onboard_time": 1715784318,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 245177,
-      "num": 167647,
-      "word": "李雪琴 小树不长歪长点枝丫没问题",
-      "onboard_time": 1715788877,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 230150,
@@ -195,6 +211,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 221384,
+      "num": 87923,
+      "word": "前夫出轨拒赔偿女子每年起诉要钱",
+      "onboard_time": 1715794933,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216815,
+      "num": 87509,
+      "word": "睡眠真的是大脑在排毒吗",
+      "onboard_time": 1715801290,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 214877,
       "num": 148860,
       "word": "新生 烂尾",
@@ -211,28 +243,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204915,
-      "num": 80314,
-      "word": "前夫出轨拒赔偿女子每年起诉要钱",
-      "onboard_time": 1715794933,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182900,
-      "num": 182900,
+      "raw_hot": 185818,
+      "num": 185818,
       "word": "江西丰城一船舶4人窒息死亡",
       "onboard_time": 1715781198,
       "rank": 16,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175592,
-      "num": 79394,
-      "word": "睡眠真的是大脑在排毒吗",
-      "onboard_time": 1715801290,
-      "rank": 39,
-      "category": "科学科普"
+      "raw_hot": 173540,
+      "num": 86079,
+      "word": "肝不好真的会让人变丑",
+      "onboard_time": 1715815275,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172248,
@@ -241,6 +265,14 @@
       "onboard_time": 1715784019,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150505,
+      "num": 85318,
+      "word": "庆余年2",
+      "onboard_time": 1715815755,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 150154,
@@ -323,8 +355,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120762,
-      "num": 78762,
+      "raw_hot": 122183,
+      "num": 82364,
       "word": "甲状腺病患者能吃加碘盐吗",
       "onboard_time": 1715814074,
       "rank": 26,
@@ -372,11 +404,19 @@
     },
     {
       "raw_hot": 106325,
-      "num": 78099,
+      "num": 81358,
       "word": "佟丽娅刘涛高圆圆红衣同框",
       "onboard_time": 1715810592,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103328,
+      "num": 81732,
+      "word": "在仙侠剧看到女主强制爱男主",
+      "onboard_time": 1715813173,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 95181,
@@ -387,20 +427,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 91805,
+      "num": 91805,
+      "word": "曼联3比2纽卡斯尔联",
+      "onboard_time": 1715814615,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91503,
       "num": 91503,
       "word": "唐嫣璀璨亮片长裙",
       "onboard_time": 1715783600,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 91273,
-      "num": 91273,
-      "word": "曼联3比2纽卡斯尔联",
-      "onboard_time": 1715814615,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 88935,
@@ -427,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86264,
-      "num": 76616,
-      "word": "在仙侠剧看到女主强制爱男主",
-      "onboard_time": 1715813173,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85931,
-      "num": 76209,
+      "num": 79131,
       "word": "高血压孕妇拒用药产后确诊子痫",
       "onboard_time": 1715783058,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79166,
+      "num": 79166,
+      "word": "关晓彤在努力扮演大人了",
+      "onboard_time": 1715767937,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 78051,
@@ -464,6 +504,14 @@
       "word": "青春环游记",
       "onboard_time": 1715782640,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75215,
+      "num": 75215,
+      "word": "杨超越五年后跟谢涤葵再过招",
+      "onboard_time": 1715810231,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -491,12 +539,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 65074,
-      "num": 65074,
-      "word": "杨超越五年后跟谢涤葵再过招",
-      "onboard_time": 1715810231,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 68186,
+      "num": 68186,
+      "word": "终于知道为什么打工这么烦了",
+      "onboard_time": 1715815637,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 61435,
+      "num": 61435,
+      "word": "美国通胀迎来降温",
+      "onboard_time": 1715815035,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 61367,
@@ -505,14 +561,6 @@
       "onboard_time": 1715776336,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 47988,
-      "num": 47988,
-      "word": "俄罗斯总统普京抵达北京",
-      "onboard_time": 1715815155,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32588,
@@ -539,20 +587,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 22249,
+      "num": 734608,
+      "word": "2024年全球贸易投资促进峰会",
+      "onboard_time": 1715780600,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20198,
       "num": 26274,
       "word": "夏天最喜欢的几款香水",
       "onboard_time": 1715805671,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 19429,
-      "num": 482010,
-      "word": "2024年全球贸易投资促进峰会",
-      "onboard_time": 1715780600,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17862,
@@ -588,7 +636,7 @@
     },
     {
       "raw_hot": 10585,
-      "num": 179701,
+      "num": 267444,
       "word": "店家打烊遇拾荒老人果断开店送吃的",
       "onboard_time": 1715793253,
       "rank": 43,
