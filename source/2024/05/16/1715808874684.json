@@ -1,0 +1,410 @@
+{
+  "runTime": 1715808874684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 153019,
+        "num": 153019,
+        "word": "王力宏 歌手",
+        "onboard_time": 1715785819,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56065,
+        "num": 56065,
+        "word": "新华社专访普京",
+        "onboard_time": 1715791635,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 8439,
+        "num": 41916,
+        "word": "2024年全球贸易投资促进峰会",
+        "onboard_time": 1715780600,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82607,
+        "num": 39656,
+        "word": "李溪芮张腾与代驾发生冲突全过程",
+        "onboard_time": 1715783659,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32209,
+        "num": 32209,
+        "word": "江西丰城一船舶4人窒息死亡",
+        "onboard_time": 1715781198,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58220,
+        "num": 32158,
+        "word": "未婚女性不能使用精子库供精去父留子",
+        "onboard_time": 1715743519,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54163,
+        "num": 32128,
+        "word": "斯洛伐克总理遭枪击",
+        "onboard_time": 1715779938,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 51989,
+        "num": 32092,
+        "word": "韩佩泉报名歌手成功",
+        "onboard_time": 1715783538,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48755,
+        "num": 32016,
+        "word": "费可死了",
+        "onboard_time": 1715779337,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1437,
+        "num": 31969,
+        "word": "店家打烊遇拾荒老人果断开店送吃的",
+        "onboard_time": 1715793253,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96562,
+        "num": 31897,
+        "word": "云南将迎1亿只以上蝴蝶大爆发",
+        "onboard_time": 1715803151,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53552,
+        "num": 31852,
+        "word": "日本前大臣感慨日本太落后",
+        "onboard_time": 1715805850,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 48104,
+        "num": 31785,
+        "word": "李雪琴 小树不长歪长点枝丫没问题",
+        "onboard_time": 1715788877,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39798,
+        "num": 31707,
+        "word": "歌手2024揭榜歌手歌单",
+        "onboard_time": 1715777538,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35140,
+        "num": 31694,
+        "word": "佟丽娅长发新中式",
+        "onboard_time": 1715790555,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31649,
+        "num": 31649,
+        "word": "尼格买提 莫奈花园",
+        "onboard_time": 1715788278,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26287,
+        "num": 26287,
+        "word": "中国海警喊话警告非法侵闯黄岩岛船只",
+        "onboard_time": 1715793133,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22269,
+        "num": 22269,
+        "word": "咬伤3岁男童恶犬已被打死",
+        "onboard_time": 1715769857,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20723,
+        "num": 20723,
+        "word": "教育部拟同意设24所本科高校",
+        "onboard_time": 1715770698,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19955,
+        "num": 19955,
+        "word": "暖阳女友发博回应",
+        "onboard_time": 1715782758,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74909,
+        "num": 19941,
+        "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
+        "onboard_time": 1715785639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50109,
+        "num": 19910,
+        "word": "睡眠真的是大脑在排毒吗",
+        "onboard_time": 1715801290,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 47885,
+        "num": 19876,
+        "word": "美国18岁女罪犯因颜值超高爆红",
+        "onboard_time": 1715782458,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38894,
+        "num": 19847,
+        "word": "1岁女婴被大伯母投毒致四肢瘫痪",
+        "onboard_time": 1715778077,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32126,
+        "num": 19805,
+        "word": "开心消消乐",
+        "onboard_time": 1715791036,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29785,
+        "num": 19780,
+        "word": "前夫出轨拒赔偿女子每年起诉要钱",
+        "onboard_time": 1715794933,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29374,
+        "num": 19762,
+        "word": "王一博跳街舞",
+        "onboard_time": 1715780659,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23801,
+        "num": 19725,
+        "word": "发现和没上过班的人很难交流",
+        "onboard_time": 1715771357,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23307,
+        "num": 19681,
+        "word": "高血压孕妇拒用药产后确诊子痫",
+        "onboard_time": 1715783058,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22782,
+        "num": 19665,
+        "word": "张静初回应凹学霸人设",
+        "onboard_time": 1715785099,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21577,
+        "num": 19621,
+        "word": "原来张杰也会泰勒公式",
+        "onboard_time": 1715786898,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20017,
+        "num": 19591,
+        "word": "十个勤天去年底音乐节秀费超200万元",
+        "onboard_time": 1715786719,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19985,
+        "num": 19578,
+        "word": "上海一餐厅特设肖战墙景位预约爆满",
+        "onboard_time": 1715779218,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19556,
+        "num": 19556,
+        "word": "新生",
+        "onboard_time": 1715776336,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18714,
+        "num": 18714,
+        "word": "华为MatePad",
+        "onboard_time": 1715788757,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18419,
+        "num": 18419,
+        "word": "新生 强行上价值",
+        "onboard_time": 1715784318,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17602,
+        "num": 17602,
+        "word": "庆余年2先导plus预告",
+        "onboard_time": 1715773396,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17353,
+        "num": 17353,
+        "word": "鹿晗长沙",
+        "onboard_time": 1715781377,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16695,
+        "num": 17353,
+        "word": "坚持跑步1个月身体将怎样变化",
+        "onboard_time": 1715765418,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16129,
+        "num": 17353,
+        "word": "小学六年级的李惠仁",
+        "onboard_time": 1715784019,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15672,
+        "num": 17351,
+        "word": "关晓彤鞠婧祎早期合照",
+        "onboard_time": 1715774417,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14805,
+        "num": 17350,
+        "word": "Uzi不和G2打训练赛",
+        "onboard_time": 1715782879,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14759,
+        "num": 17350,
+        "word": "新生彩蛋",
+        "onboard_time": 1715770457,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14042,
+        "num": 17349,
+        "word": "夏天最喜欢的几款香水",
+        "onboard_time": 1715805671,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 14262,
+        "num": 17349,
+        "word": "新生 烂尾",
+        "onboard_time": 1715774718,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13971,
+        "num": 17347,
+        "word": "日本制铁公司熔钢锅内发现人骨",
+        "onboard_time": 1715768478,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13051,
+        "num": 17346,
+        "word": "心理咨询师打开患者心扉过程",
+        "onboard_time": 1715807230,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12949,
+        "num": 17346,
+        "word": "唐嫣璀璨亮片长裙",
+        "onboard_time": 1715783600,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12936,
+        "num": 17345,
+        "word": "奥运资格赛王一博观赛",
+        "onboard_time": 1715782819,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 12513,
+        "num": 17345,
+        "word": "全局BP",
+        "onboard_time": 1715784318,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励北京市八达岭长城脚下的乡亲们#"
+    }
+  }
+}
