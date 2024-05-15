@@ -1,0 +1,410 @@
+{
+  "runTime": 1715744122018,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1528252,
+        "num": 1528252,
+        "word": "造谣大陆吃不起茶叶蛋的人将被惩戒",
+        "onboard_time": 1715742797,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1335797,
+        "num": 1335797,
+        "word": "藏海传",
+        "onboard_time": 1715740037,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30653,
+        "num": 1182281,
+        "word": "阔步迈向网络强国",
+        "onboard_time": 1715741237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1338818,
+        "num": 1150749,
+        "word": "月薪两万不敢在商场买衣服",
+        "onboard_time": 1715734099,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1066663,
+        "num": 1066663,
+        "word": "这么小的榴莲却这么懂事",
+        "onboard_time": 1715738538,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 865671,
+        "num": 865671,
+        "word": "贾玲代言",
+        "onboard_time": 1715742919,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723341,
+        "num": 723341,
+        "word": "优酷官宣甄嬛传团综",
+        "onboard_time": 1715738658,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623507,
+        "num": 623507,
+        "word": "国际奥委会称马龙是奥运乒乓比赛史上最成功球员",
+        "onboard_time": 1715741119,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 623261,
+        "num": 623261,
+        "word": "优酷片单",
+        "onboard_time": 1715737758,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45506,
+        "num": 604834,
+        "word": "二孩妈妈用22年从中专读到博士",
+        "onboard_time": 1715734278,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602508,
+        "num": 602508,
+        "word": "致3岁男童死亡恶犬仍下落不明",
+        "onboard_time": 1715737338,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575747,
+        "num": 575747,
+        "word": "长安二十四计官宣",
+        "onboard_time": 1715740998,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515754,
+        "num": 515754,
+        "word": "香港一医院就误切女子子宫致歉",
+        "onboard_time": 1715729955,
+        "rank": 12,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 486324,
+        "num": 486324,
+        "word": "地磁暴的这几天你睡眠如何",
+        "onboard_time": 1715730737,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 450698,
+        "num": 450698,
+        "word": "杨洋一天三部",
+        "onboard_time": 1715743699,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433597,
+        "num": 433597,
+        "word": "小米SU7交付量破万创纪录",
+        "onboard_time": 1715739856,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 420803,
+        "num": 420803,
+        "word": "四月初八",
+        "onboard_time": 1715737219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378571,
+        "num": 378571,
+        "word": "死亡的20只东北虎有10只是幼虎",
+        "onboard_time": 1715734398,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372010,
+        "num": 372010,
+        "word": "未婚女性不能使用精子库供精去父留子",
+        "onboard_time": 1715743519,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55371,
+        "num": 371004,
+        "word": "雪王珍宝珠520官宣",
+        "onboard_time": 1715742977,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448940,
+        "num": 370877,
+        "word": "原来血型影响睡眠是真的",
+        "onboard_time": 1715740939,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370594,
+        "num": 370594,
+        "word": "长城炮回应车主被电动帐篷卡脖身亡",
+        "onboard_time": 1715741418,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356098,
+        "num": 356098,
+        "word": "00后试岗月薪15000住家保姆",
+        "onboard_time": 1715734099,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348200,
+        "num": 348200,
+        "word": "TheShy为下班暴虐Uzi队",
+        "onboard_time": 1715743038,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 342243,
+        "num": 342243,
+        "word": "这5种炎症可能会演变成癌症",
+        "onboard_time": 1715738057,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 314855,
+        "num": 314855,
+        "word": "刘诗诗面纱海报",
+        "onboard_time": 1715740699,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296789,
+        "num": 296789,
+        "word": "艾伦陈乔恩获金扫帚影帝后",
+        "onboard_time": 1715729657,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278382,
+        "num": 278382,
+        "word": "咏月风雅公测",
+        "onboard_time": 1715742797,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253094,
+        "num": 253094,
+        "word": "歌手预测",
+        "onboard_time": 1715731639,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36885,
+        "num": 250664,
+        "word": "百年之后的西游记",
+        "onboard_time": 1715742738,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 249384,
+        "num": 249384,
+        "word": "庆余年",
+        "onboard_time": 1715733622,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260018,
+        "num": 240955,
+        "word": "陈乔恩希望不再蝉联影后",
+        "onboard_time": 1715743400,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231371,
+        "num": 231371,
+        "word": "金秀贤一口气发了42张图",
+        "onboard_time": 1715733678,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220811,
+        "num": 220811,
+        "word": "周深唱出了范闲的精神状态",
+        "onboard_time": 1715743519,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214038,
+        "num": 214038,
+        "word": "成毅 一番男主",
+        "onboard_time": 1715743819,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208197,
+        "num": 208197,
+        "word": "关晓彤戛纳红毯短发造型",
+        "onboard_time": 1715731038,
+        "rank": 35,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 207619,
+        "num": 207619,
+        "word": "长城炮",
+        "onboard_time": 1715743338,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207560,
+        "num": 207560,
+        "word": "19岁的沈月",
+        "onboard_time": 1715742318,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207211,
+        "num": 207211,
+        "word": "黑夜告白",
+        "onboard_time": 1715743278,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203642,
+        "num": 203642,
+        "word": "张桂梅的学生入伍后再破纪录",
+        "onboard_time": 1715739197,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202860,
+        "num": 202860,
+        "word": "掌心首发全阵容",
+        "onboard_time": 1715742738,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202040,
+        "num": 202040,
+        "word": "张杰谢娜吵架也要撒狗粮",
+        "onboard_time": 1715732240,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180776,
+        "num": 180776,
+        "word": "咏月风雅福利礼包",
+        "onboard_time": 1715743819,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179539,
+        "num": 179539,
+        "word": "珠帘玉幕",
+        "onboard_time": 1715740098,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179285,
+        "num": 179285,
+        "word": "为什么江浙没有夜生活",
+        "onboard_time": 1715737818,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156139,
+        "num": 156139,
+        "word": "马克龙就囚车遇袭事件发声",
+        "onboard_time": 1715741778,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198884,
+        "num": 155859,
+        "word": "林俊杰歌手舞台曾帮唱张杰",
+        "onboard_time": 1715737398,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151813,
+        "num": 151813,
+        "word": "王源两部手机怕手滑点赞",
+        "onboard_time": 1715737698,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151714,
+        "num": 151714,
+        "word": "关晓彤担任法国尼斯旅游文化大使",
+        "onboard_time": 1715737698,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136109,
+        "num": 136109,
+        "word": "欧阳娜娜晒毕业照",
+        "onboard_time": 1715736317,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#建立绿色低碳循环经济体系#"
+    }
+  }
+}

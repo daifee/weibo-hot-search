@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715743405150,
+  "endTime": 1715744122018,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1715470395,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1528252,
+      "num": 1528252,
+      "word": "造谣大陆吃不起茶叶蛋的人将被惩戒",
+      "onboard_time": 1715742797,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1527290,
@@ -2771,6 +2779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1066663,
+      "num": 1066663,
+      "word": "这么小的榴莲却这么懂事",
+      "onboard_time": 1715738538,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1066412,
       "num": 1066412,
       "word": "苹果实体Home键平板下架",
@@ -2897,14 +2913,6 @@
       "onboard_time": 1714892358,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1036013,
-      "num": 1036013,
-      "word": "这么小的榴莲却这么懂事",
-      "onboard_time": 1715738538,
-      "rank": 10,
-      "category": "美食"
     },
     {
       "raw_hot": 1033035,
@@ -3849,6 +3857,14 @@
       "onboard_time": 1715580918,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 865671,
+      "num": 865671,
+      "word": "贾玲代言",
+      "onboard_time": 1715742919,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 864288,
@@ -6035,14 +6051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 657845,
-      "num": 657845,
-      "word": "造谣大陆吃不起茶叶蛋的人将被惩戒",
-      "onboard_time": 1715742797,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 657353,
       "num": 657353,
       "word": "网友曝李亚鹏拖欠工资",
@@ -6633,6 +6641,14 @@
       "onboard_time": 1714781056,
       "rank": 17,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 623507,
+      "num": 623507,
+      "word": "国际奥委会称马龙是奥运乒乓比赛史上最成功球员",
+      "onboard_time": 1715741119,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 622673,
@@ -9395,14 +9411,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 469124,
-      "num": 469124,
-      "word": "国际奥委会称马龙是奥运乒乓比赛史上最成功球员",
-      "onboard_time": 1715741119,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 468729,
       "num": 468729,
       "word": "疑理想汽车无人驾驶副驾坐着孩子",
@@ -9628,7 +9636,7 @@
     },
     {
       "raw_hot": 460953,
-      "num": 322511,
+      "num": 342243,
       "word": "这5种炎症可能会演变成癌症",
       "onboard_time": 1715738057,
       "rank": 21,
@@ -9891,6 +9899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 450698,
+      "num": 450698,
+      "word": "杨洋一天三部",
+      "onboard_time": 1715743699,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 450647,
       "num": 343666,
       "word": "郑秀妍晒与郑秀晶的合照",
@@ -9953,6 +9969,14 @@
       "onboard_time": 1714973239,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 448940,
+      "num": 370877,
+      "word": "原来血型影响睡眠是真的",
+      "onboard_time": 1715740939,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 447858,
@@ -12131,14 +12155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376004,
-      "num": 320157,
-      "word": "原来血型影响睡眠是真的",
-      "onboard_time": 1715740939,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 375864,
       "num": 375864,
       "word": "松原地震",
@@ -12283,6 +12299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 372010,
+      "num": 372010,
+      "word": "未婚女性不能使用精子库供精去父留子",
+      "onboard_time": 1715743519,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371931,
       "num": 371931,
       "word": "穿婚纱的王珞丹",
@@ -12305,14 +12329,6 @@
       "onboard_time": 1715344521,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 371526,
-      "num": 371526,
-      "word": "贾玲代言",
-      "onboard_time": 1715742919,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 371477,
@@ -13161,6 +13177,14 @@
       "onboard_time": 1714967601,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348200,
+      "num": 348200,
+      "word": "TheShy为下班暴虐Uzi队",
+      "onboard_time": 1715743038,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 348136,
@@ -15923,6 +15947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278382,
+      "num": 278382,
+      "word": "咏月风雅公测",
+      "onboard_time": 1715742797,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278359,
       "num": 278359,
       "word": "于适演技",
@@ -16257,14 +16289,6 @@
       "onboard_time": 1715303179,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 271884,
-      "num": 271884,
-      "word": "TheShy为下班暴虐Uzi队",
-      "onboard_time": 1715743038,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 271852,
@@ -16977,6 +17001,14 @@
       "onboard_time": 1715322859,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260018,
+      "num": 240955,
+      "word": "陈乔恩希望不再蝉联影后",
+      "onboard_time": 1715743400,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 259851,
@@ -19163,14 +19195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 227275,
-      "num": 227275,
-      "word": "咏月风雅公测",
-      "onboard_time": 1715742797,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 227259,
       "num": 227259,
       "word": "陈梦理论上锁定奥运女单席位",
@@ -19649,6 +19673,14 @@
       "onboard_time": 1714806079,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 220811,
+      "num": 220811,
+      "word": "周深唱出了范闲的精神状态",
+      "onboard_time": 1715743519,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 220776,
@@ -20339,6 +20371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214038,
+      "num": 214038,
+      "word": "成毅 一番男主",
+      "onboard_time": 1715743819,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213999,
       "num": 213999,
       "word": "癌症正在年轻化",
@@ -21019,6 +21059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 207619,
+      "num": 207619,
+      "word": "长城炮",
+      "onboard_time": 1715743338,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207348,
       "num": 189357,
       "word": "国羽第20次打入尤伯杯决赛",
@@ -21049,6 +21097,14 @@
       "onboard_time": 1714970782,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 207211,
+      "num": 207211,
+      "word": "黑夜告白",
+      "onboard_time": 1715743278,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 207201,
@@ -25393,6 +25449,14 @@
       "onboard_time": 1714749681,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180776,
+      "num": 180776,
+      "word": "咏月风雅福利礼包",
+      "onboard_time": 1715743819,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 180743,
@@ -30595,14 +30659,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 147908,
-      "num": 147908,
-      "word": "黑夜告白",
-      "onboard_time": 1715743278,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147901,
       "num": 147901,
       "word": "魏如萱也想去歌手",
@@ -30977,14 +31033,6 @@
       "onboard_time": 1714653739,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145575,
-      "num": 145575,
-      "word": "长城炮",
-      "onboard_time": 1715743338,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145510,
@@ -38892,7 +38940,7 @@
     },
     {
       "raw_hot": 60333,
-      "num": 213650,
+      "num": 371004,
       "word": "雪王珍宝珠520官宣",
       "onboard_time": 1715742977,
       "rank": 34,
@@ -39644,7 +39692,7 @@
     },
     {
       "raw_hot": 40913,
-      "num": 193398,
+      "num": 250664,
       "word": "百年之后的西游记",
       "onboard_time": 1715742738,
       "rank": 37,
@@ -39899,8 +39947,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 30546,
-      "num": 819962,
+      "raw_hot": 30653,
+      "num": 1182281,
       "word": "阔步迈向网络强国",
       "onboard_time": 1715741237,
       "rank": 2,
