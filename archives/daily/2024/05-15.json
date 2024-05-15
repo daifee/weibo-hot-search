@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715747767385,
+  "endTime": 1715750333721,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1340305,
+      "num": 1340305,
+      "word": "马天宇辣评歌手",
+      "onboard_time": 1715745739,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1238890,
       "num": 1238890,
       "word": "长城炮车主被车顶电动帐篷卡脖身亡",
@@ -99,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1091960,
-      "num": 1091960,
-      "word": "马天宇辣评歌手",
-      "onboard_time": 1715745739,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1066663,
       "num": 1066663,
       "word": "这么小的榴莲却这么懂事",
@@ -129,6 +129,14 @@
       "onboard_time": 1715738658,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 917249,
+      "num": 917249,
+      "word": "下班后回复微信算加班吗",
+      "onboard_time": 1715745441,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 875608,
@@ -155,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 790746,
+      "num": 790746,
+      "word": "西安山姆会员店变考古现场",
+      "onboard_time": 1715746822,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 757705,
       "num": 541431,
       "word": "张杰谢娜吵架也要撒狗粮",
@@ -176,6 +192,14 @@
       "word": "致3岁男童死亡恶犬仍下落不明",
       "onboard_time": 1715737338,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678781,
+      "num": 678781,
+      "word": "华理回应12岁女孩被男生隔空猥亵",
+      "onboard_time": 1715748381,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -233,14 +257,6 @@
       "onboard_time": 1715677340,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 605387,
-      "num": 605387,
-      "word": "下班后回复微信算加班吗",
-      "onboard_time": 1715745441,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 600975,
@@ -387,6 +403,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407314,
+      "num": 407314,
+      "word": "凤凰传奇二开",
+      "onboard_time": 1715747179,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 406122,
+      "num": 406122,
+      "word": "樊振东发博说最后一舞",
+      "onboard_time": 1715747301,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 397528,
+      "num": 397528,
+      "word": "Rookie爆料TheShy气走教练",
+      "onboard_time": 1715748321,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 397399,
       "num": 397399,
       "word": "攻玉官微",
@@ -507,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312289,
-      "num": 312289,
-      "word": "樊振东发博说最后一舞",
-      "onboard_time": 1715747301,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 306934,
       "num": 306934,
       "word": "难哄海报",
@@ -539,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292145,
-      "num": 292145,
-      "word": "西安山姆会员店变考古现场",
-      "onboard_time": 1715746822,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 291203,
+      "num": 549627,
+      "word": "余额宝 工资日翻番",
+      "onboard_time": 1715745620,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 288973,
@@ -601,14 +633,6 @@
       "onboard_time": 1715747240,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268223,
-      "num": 549627,
-      "word": "余额宝 工资日翻番",
-      "onboard_time": 1715745620,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 265377,
@@ -723,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225106,
-      "num": 225106,
-      "word": "凤凰传奇二开",
-      "onboard_time": 1715747179,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 223861,
       "num": 223861,
       "word": "王源两部手机怕手滑点赞",
@@ -843,12 +859,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198205,
+      "num": 198205,
+      "word": "张杰演唱会开盲盒模式",
+      "onboard_time": 1715750058,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197989,
       "num": 197989,
       "word": "小龙虾跌破10元每斤",
       "onboard_time": 1715745980,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 197620,
+      "num": 197620,
+      "word": "周依然演技",
+      "onboard_time": 1715749333,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 197148,
@@ -883,6 +915,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 193001,
+      "num": 193001,
+      "word": "刘诗诗盘发梦回任如意",
+      "onboard_time": 1715749759,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191069,
       "num": 191069,
       "word": "种地吧直播",
@@ -896,6 +936,14 @@
       "word": "新生 一场葬礼引出的骗局",
       "onboard_time": 1715745079,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189200,
+      "num": 178088,
+      "word": "苏晓彤一天官宣两部剧",
+      "onboard_time": 1715749522,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1003,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171805,
+      "num": 167143,
+      "word": "贾静雯晒幼儿园毕业照",
+      "onboard_time": 1715748321,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171141,
       "num": 171141,
       "word": "爱丽丝门罗去世",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1715733438,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163334,
+      "num": 163334,
+      "word": "约基奇军训戈贝尔",
+      "onboard_time": 1715750000,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 160878,
@@ -1459,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56480,
+      "num": 192743,
+      "word": "姿态Rita激情对线",
+      "onboard_time": 1715747301,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56418,
       "num": 56418,
       "word": "G2对战TES",
@@ -1489,14 +1561,6 @@
       "onboard_time": 1715710512,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49765,
-      "num": 192743,
-      "word": "姿态Rita激情对线",
-      "onboard_time": 1715747301,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 47542,
@@ -1553,6 +1617,14 @@
       "onboard_time": 1715716811,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 24256,
+      "num": 138991,
+      "word": "朵莉亚海诺主题曲绝美合唱",
+      "onboard_time": 1715750299,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 24143,
