@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715787276113,
+  "endTime": 1715790202705,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -755,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1830305,
+      "num": 1830305,
+      "word": "王力宏 歌手",
+      "onboard_time": 1715785819,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1818309,
       "num": 1818309,
       "word": "专家建议让年轻人缴费为家乡父母养老",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1714984339,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1598537,
-      "num": 1598537,
-      "word": "王力宏 歌手",
-      "onboard_time": 1715785819,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1597734,
@@ -3571,6 +3571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 918922,
+      "num": 269919,
+      "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
+      "onboard_time": 1715785639,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918132,
       "num": 319556,
       "word": "女子遭风筝线割喉一个动作救自己一命",
@@ -5369,14 +5377,6 @@
       "onboard_time": 1715239579,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 732980,
-      "num": 269919,
-      "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
-      "onboard_time": 1715785639,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 731427,
@@ -11979,6 +11979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400283,
+      "num": 251416,
+      "word": "原来张杰也会泰勒公式",
+      "onboard_time": 1715786898,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 400016,
       "num": 400016,
       "word": "文严文双人舞台",
@@ -12745,6 +12753,14 @@
       "onboard_time": 1715136559,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375820,
+      "num": 250195,
+      "word": "尼格买提 莫奈花园",
+      "onboard_time": 1715788278,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 375736,
@@ -14283,6 +14299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333778,
+      "num": 296218,
+      "word": "十个勤天去年底音乐节秀费超200万元",
+      "onboard_time": 1715786719,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 333662,
       "num": 333662,
       "word": "张若昀切范闲大号上线了",
@@ -15803,14 +15827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 296218,
-      "num": 296218,
-      "word": "十个勤天去年底音乐节秀费超200万元",
-      "onboard_time": 1715786719,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 296012,
       "num": 296012,
       "word": "CBA总决赛",
@@ -16553,6 +16569,14 @@
       "onboard_time": 1714905377,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279640,
+      "num": 279640,
+      "word": "官方通报60余名幼儿群体性流血不实",
+      "onboard_time": 1715784920,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279462,
@@ -17499,6 +17523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263884,
+      "num": 240867,
+      "word": "张静初回应凹学霸人设",
+      "onboard_time": 1715785099,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263675,
       "num": 233048,
       "word": "这种酸奶千万别喝",
@@ -18419,14 +18451,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 248840,
-      "num": 240867,
-      "word": "张静初回应凹学霸人设",
-      "onboard_time": 1715785099,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248723,
       "num": 248723,
       "word": "凤凰传奇荧光棒",
@@ -18465,6 +18489,14 @@
       "onboard_time": 1715033953,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248278,
+      "num": 279166,
+      "word": "全局BP",
+      "onboard_time": 1715784318,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 248273,
@@ -19049,14 +19081,6 @@
       "onboard_time": 1715408299,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 240150,
-      "num": 279166,
-      "word": "全局BP",
-      "onboard_time": 1715784318,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 240116,
@@ -25187,14 +25211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 190600,
-      "num": 190600,
-      "word": "原来张杰也会泰勒公式",
-      "onboard_time": 1715786898,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 190584,
       "num": 190584,
       "word": "广州暴雨地铁一处接触网被雷击",
@@ -31067,6 +31083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154363,
+      "num": 148570,
+      "word": "李雪琴 小树不长歪长点枝丫没问题",
+      "onboard_time": 1715788877,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154342,
       "num": 154342,
       "word": "张颂文拍综艺被导演送龟背竹地毯",
@@ -34091,6 +34115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136288,
+      "num": 136288,
+      "word": "专家称过度防晒或导致缺钙闷痘",
+      "onboard_time": 1715786178,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 136243,
       "num": 136243,
       "word": "奔跑吧海龟汤菜单",
@@ -34185,14 +34217,6 @@
       "onboard_time": 1715332699,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135648,
-      "num": 135648,
-      "word": "专家称过度防晒或导致缺钙闷痘",
-      "onboard_time": 1715786178,
-      "rank": 44,
-      "category": "美妆"
     },
     {
       "raw_hot": 135613,
@@ -35139,6 +35163,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 130211,
+      "num": 130211,
+      "word": "用利息生活是可行还是离谱",
+      "onboard_time": 1715786419,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130204,
       "num": 130204,
       "word": "淄博炒锅饼因人太多转线上销售了",
@@ -35649,6 +35681,14 @@
       "onboard_time": 1715261358,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 126760,
+      "num": 150034,
+      "word": "华为MatePad",
+      "onboard_time": 1715788757,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 126735,
@@ -36225,14 +36265,6 @@
       "onboard_time": 1714897458,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123097,
-      "num": 123097,
-      "word": "用利息生活是可行还是离谱",
-      "onboard_time": 1715786419,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 123080,
@@ -36913,6 +36945,14 @@
       "onboard_time": 1715317640,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118724,
+      "num": 118724,
+      "word": "经常吃海带还需吃碘盐补碘吗",
+      "onboard_time": 1715787378,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 118643,
@@ -39337,6 +39377,14 @@
       "onboard_time": 1714612159,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95181,
+      "num": 95181,
+      "word": "王源新歌fingerprints",
+      "onboard_time": 1715789296,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 95105,
