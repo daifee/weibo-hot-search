@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/16 00:23:22 ~ 2024/05/16 04:21:29
+本榜单时间：2024/05/16 00:23:22 ~ 2024/05/16 04:36:00
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@ Uzi不和G2打训练赛（热度：122830）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E6%98%AF%E5%A4%A7%E8%84%91%E5%9C%A8%E6%8E%92%E6%AF%92%E5%90%97%23" target="weibo">
+睡眠真的是大脑在排毒吗（热度：70978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%94%9F%23" target="weibo">
 新生（热度：61367）
 </a>
@@ -339,8 +345,8 @@ Uzi不和G2打训练赛（热度：122830）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E6%98%AF%E5%A4%A7%E8%84%91%E5%9C%A8%E6%8E%92%E6%AF%92%E5%90%97%23" target="weibo">
-睡眠真的是大脑在排毒吗（热度：53896）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B0%86%E8%BF%8E1%E4%BA%BF%E5%8F%AA%E4%BB%A5%E4%B8%8A%E8%9D%B4%E8%9D%B6%E5%A4%A7%E7%88%86%E5%8F%91%23" target="weibo">
+云南将迎1亿只以上蝴蝶大爆发（热度：43131）
 </a>
 </li>
 
@@ -353,12 +359,6 @@ Uzi不和G2打训练赛（热度：122830）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E6%AF%95%E4%B8%9A%E5%90%8E%E5%9B%9E%E4%B9%A1%E5%BD%93%E6%9D%91%E5%8C%BB%23" target="weibo">
 95后小伙毕业后回乡当村医（热度：31959）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B0%86%E8%BF%8E1%E4%BA%BF%E5%8F%AA%E4%BB%A5%E4%B8%8A%E8%9D%B4%E8%9D%B6%E5%A4%A7%E7%88%86%E5%8F%91%23" target="weibo">
-云南将迎1亿只以上蝴蝶大爆发（热度：24234）
 </a>
 </li>
 

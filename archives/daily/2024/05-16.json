@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715804489518,
+  "endTime": 1715805360085,
   "band_list": [
     {
       "raw_hot": 1830305,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70978,
+      "num": 24227,
+      "word": "睡眠真的是大脑在排毒吗",
+      "onboard_time": 1715801290,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 61367,
       "num": 61367,
       "word": "新生",
@@ -435,12 +443,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 53896,
-      "num": 18588,
-      "word": "睡眠真的是大脑在排毒吗",
-      "onboard_time": 1715801290,
-      "rank": 39,
-      "category": "科学科普"
+      "raw_hot": 43131,
+      "num": 28205,
+      "word": "云南将迎1亿只以上蝴蝶大爆发",
+      "onboard_time": 1715803151,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32588,
@@ -457,14 +465,6 @@
       "onboard_time": 1715784799,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 24234,
-      "num": 21212,
-      "word": "云南将迎1亿只以上蝴蝶大爆发",
-      "onboard_time": 1715803151,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23064,

@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715804489518,
+  "endTime": 1715805360085,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -11203,6 +11203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70978,
+      "num": 24227,
+      "word": "睡眠真的是大脑在排毒吗",
+      "onboard_time": 1715801290,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 69087,
       "num": 69087,
       "word": "头发蛋白矫正",
@@ -11411,14 +11419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 53896,
-      "num": 18588,
-      "word": "睡眠真的是大脑在排毒吗",
-      "onboard_time": 1715801290,
-      "rank": 39,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 53370,
       "num": 53370,
       "word": "花少北超话",
@@ -11529,6 +11529,14 @@
       "onboard_time": 1715761339,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43131,
+      "num": 28205,
+      "word": "云南将迎1亿只以上蝴蝶大爆发",
+      "onboard_time": 1715803151,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42235,
@@ -11705,14 +11713,6 @@
       "onboard_time": 1715539032,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24234,
-      "num": 21212,
-      "word": "云南将迎1亿只以上蝴蝶大爆发",
-      "onboard_time": 1715803151,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24130,
