@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715786310983,
+  "endTime": 1715787276113,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1059,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1598537,
+      "num": 1598537,
+      "word": "王力宏 歌手",
+      "onboard_time": 1715785819,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1597734,
       "num": 1597734,
       "word": "诺基亚回归",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1714556117,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1592141,
+      "num": 1399392,
+      "word": "韩佩泉报名歌手成功",
+      "onboard_time": 1715783538,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1590466,
@@ -1545,14 +1561,6 @@
       "onboard_time": 1715172560,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1399392,
-      "num": 1399392,
-      "word": "韩佩泉报名歌手成功",
-      "onboard_time": 1715783538,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 1397360,
@@ -5361,6 +5369,14 @@
       "onboard_time": 1715239579,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 732980,
+      "num": 269919,
+      "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
+      "onboard_time": 1715785639,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 731427,
@@ -9187,14 +9203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495291,
-      "num": 357278,
-      "word": "王力宏 歌手",
-      "onboard_time": 1715785819,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 495262,
       "num": 251501,
       "word": "王一博身份证掉了",
@@ -11595,6 +11603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 411444,
+      "num": 411444,
+      "word": "幼儿园被指甲醛超标致60多人流血",
+      "onboard_time": 1715784920,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411349,
       "num": 411349,
       "word": "苹果正在修复iPhone闹钟不响问题",
@@ -13001,14 +13017,6 @@
       "onboard_time": 1715394259,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368903,
-      "num": 368903,
-      "word": "幼儿园被指甲醛超标致60多人流血",
-      "onboard_time": 1715784920,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368613,
@@ -14587,14 +14595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326682,
-      "num": 269919,
-      "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
-      "onboard_time": 1715785639,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326572,
       "num": 326572,
       "word": "ZICO和Jennie合作曲初一位",
@@ -15801,6 +15801,14 @@
       "onboard_time": 1714567998,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 296218,
+      "num": 296218,
+      "word": "十个勤天去年底音乐节秀费超200万元",
+      "onboard_time": 1715786719,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 296012,
@@ -18411,6 +18419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 248840,
+      "num": 240867,
+      "word": "张静初回应凹学霸人设",
+      "onboard_time": 1715785099,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248723,
       "num": 248723,
       "word": "凤凰传奇荧光棒",
@@ -19009,14 +19025,6 @@
       "onboard_time": 1715168779,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240867,
-      "num": 240867,
-      "word": "张静初回应凹学霸人设",
-      "onboard_time": 1715785099,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 240659,
@@ -20379,6 +20387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 223272,
+      "num": 221805,
+      "word": "小学六年级的李惠仁",
+      "onboard_time": 1715784019,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223166,
       "num": 223166,
       "word": "周深唱出了范闲的精神状态",
@@ -20513,14 +20529,6 @@
       "onboard_time": 1715043739,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 221805,
-      "num": 221805,
-      "word": "小学六年级的李惠仁",
-      "onboard_time": 1715784019,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221610,
@@ -25176,6 +25184,14 @@
       "word": "华晨宇演唱会",
       "onboard_time": 1714533197,
       "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 190600,
+      "num": 190600,
+      "word": "原来张杰也会泰勒公式",
+      "onboard_time": 1715786898,
+      "rank": 29,
       "category": "演出"
     },
     {
@@ -32859,6 +32875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143802,
+      "num": 143802,
+      "word": "狗狗见到喜欢的狗狗",
+      "onboard_time": 1715786060,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143788,
       "num": 143788,
       "word": "海来阿木唱功",
@@ -34161,6 +34185,14 @@
       "onboard_time": 1715332699,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135648,
+      "num": 135648,
+      "word": "专家称过度防晒或导致缺钙闷痘",
+      "onboard_time": 1715786178,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 135613,
@@ -35699,14 +35731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126347,
-      "num": 126347,
-      "word": "专家称过度防晒或导致缺钙闷痘",
-      "onboard_time": 1715786178,
-      "rank": 44,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 126290,
       "num": 126290,
       "word": "高考后的那个晚上你在干嘛",
@@ -36203,6 +36227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123097,
+      "num": 123097,
+      "word": "用利息生活是可行还是离谱",
+      "onboard_time": 1715786419,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123080,
       "num": 123080,
       "word": "清水镇有自己的runningman",
@@ -36336,14 +36368,6 @@
       "word": "小狗也有起床气",
       "onboard_time": 1715133561,
       "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 122383,
-      "num": 122383,
-      "word": "狗狗见到喜欢的狗狗",
-      "onboard_time": 1715786060,
-      "rank": 48,
       "category": "幽默"
     },
     {
@@ -40843,6 +40867,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 60004,
+      "num": 396377,
+      "word": "乐道L60百公里电耗低至12.1",
+      "onboard_time": 1715781918,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 59704,
       "num": 59704,
       "word": "女子家中吊顶坍塌客厅秒变毛坯",
@@ -41025,14 +41057,6 @@
       "onboard_time": 1715401279,
       "rank": 49,
       "category": "自然"
-    },
-    {
-      "raw_hot": 55221,
-      "num": 396377,
-      "word": "乐道L60百公里电耗低至12.1",
-      "onboard_time": 1715781918,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 55177,
@@ -41235,6 +41259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50376,
+      "num": 388720,
+      "word": "95后小伙毕业后回乡当村医",
+      "onboard_time": 1715784799,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 50304,
       "num": 1003223,
       "word": "文化中国行",
@@ -41329,14 +41361,6 @@
       "onboard_time": 1714951755,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47990,
-      "num": 362874,
-      "word": "95后小伙毕业后回乡当村医",
-      "onboard_time": 1715784799,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 47903,
