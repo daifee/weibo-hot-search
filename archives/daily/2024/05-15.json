@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715780049822,
+  "endTime": 1715782719959,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -9,6 +9,14 @@
       "onboard_time": 1715743519,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2255761,
+      "num": 2255761,
+      "word": "歌手2024揭榜歌手歌单",
+      "onboard_time": 1715777538,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2222089,
@@ -25,14 +33,6 @@
       "onboard_time": 1715734099,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2148013,
-      "num": 2148013,
-      "word": "歌手2024揭榜歌手歌单",
-      "onboard_time": 1715777538,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1813280,
@@ -65,6 +65,14 @@
       "onboard_time": 1715774718,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1588411,
+      "num": 1588411,
+      "word": "斯洛伐克总理遭枪击",
+      "onboard_time": 1715779938,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1528252,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1075260,
+      "num": 1075260,
+      "word": "费可死了",
+      "onboard_time": 1715779337,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1066663,
       "num": 1066663,
       "word": "这么小的榴莲却这么懂事",
@@ -227,6 +243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 902413,
+      "num": 255121,
+      "word": "1岁女婴被大伯母投毒致四肢瘫痪",
+      "onboard_time": 1715778077,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875608,
       "num": 875608,
       "word": "戛纳 网红",
@@ -272,14 +296,6 @@
       "word": "未婚生育的女性将面临哪些困境",
       "onboard_time": 1715773038,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 779449,
-      "num": 255121,
-      "word": "1岁女婴被大伯母投毒致四肢瘫痪",
-      "onboard_time": 1715778077,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -393,6 +409,14 @@
       "onboard_time": 1715771357,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 630311,
+      "num": 518900,
+      "word": "王一博跳街舞",
+      "onboard_time": 1715780659,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 623507,
@@ -523,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536820,
+      "num": 408644,
+      "word": "张靓颖回应被网友喊话去歌手",
+      "onboard_time": 1715781438,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531992,
       "num": 399483,
       "word": "TikTok创作者集体起诉美国政府",
@@ -603,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463818,
+      "num": 406722,
+      "word": "鹿晗长沙",
+      "onboard_time": 1715781377,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460953,
       "num": 342243,
       "word": "这5种炎症可能会演变成癌症",
@@ -649,6 +689,14 @@
       "onboard_time": 1715769617,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 443371,
+      "num": 443371,
+      "word": "江西丰城一船舶4人窒息死亡",
+      "onboard_time": 1715781198,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440465,
@@ -755,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398745,
+      "num": 398745,
+      "word": "周也深V",
+      "onboard_time": 1715780718,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 397528,
       "num": 397528,
       "word": "Rookie爆料TheShy气走教练",
@@ -768,6 +824,14 @@
       "word": "攻玉官微",
       "onboard_time": 1715734340,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 397210,
+      "num": 397210,
+      "word": "庆余年第二季开播倒计时1天",
+      "onboard_time": 1715777417,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -851,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364916,
-      "num": 318220,
-      "word": "庆余年第二季开播倒计时1天",
-      "onboard_time": 1715777417,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 362287,
       "num": 362287,
       "word": "花少北 小号",
@@ -905,6 +961,14 @@
       "onboard_time": 1715774056,
       "rank": 8,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 343501,
+      "num": 343501,
+      "word": "园方回应60余名幼儿在校群体性流血",
+      "onboard_time": 1715780118,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338748,
@@ -963,20 +1027,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316927,
-      "num": 316927,
-      "word": "费可死了",
-      "onboard_time": 1715779337,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 313005,
       "num": 313005,
       "word": "奸淫幼女小学老师死刑上诉被驳回",
       "onboard_time": 1715676799,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310452,
+      "num": 215143,
+      "word": "彭于晏佟丽娅戛纳自拍",
+      "onboard_time": 1715780418,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 306934,
@@ -1019,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296012,
+      "num": 296012,
+      "word": "CBA总决赛",
+      "onboard_time": 1715778378,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291203,
       "num": 549627,
       "word": "余额宝 工资日翻番",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1715735658,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287638,
+      "num": 207225,
+      "word": "美国18岁女罪犯因颜值超高爆红",
+      "onboard_time": 1715782458,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287287,
@@ -1113,6 +1193,14 @@
       "onboard_time": 1715763438,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 266070,
+      "num": 251075,
+      "word": "张杰与TF家族合体过",
+      "onboard_time": 1715778738,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 265377,
@@ -1203,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251075,
-      "num": 251075,
-      "word": "张杰与TF家族合体过",
-      "onboard_time": 1715778738,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249743,
       "num": 224988,
       "word": "IVE",
@@ -1241,14 +1321,6 @@
       "onboard_time": 1715772197,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 243826,
-      "num": 243826,
-      "word": "CBA总决赛",
-      "onboard_time": 1715778378,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 241859,
@@ -1499,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206771,
+      "num": 206771,
+      "word": "齐麟犯规",
+      "onboard_time": 1715780538,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206490,
       "num": 417732,
       "word": "儿子打碎20多个瓜爸妈脸上笑哈哈",
@@ -1665,6 +1745,14 @@
       "onboard_time": 1715750898,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195526,
+      "num": 195526,
+      "word": "鱼缸成了树 树下埋着叔",
+      "onboard_time": 1715781377,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 195173,
@@ -1899,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179243,
+      "num": 179243,
+      "word": "张若昀好痛一滴泪",
+      "onboard_time": 1715779699,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178493,
       "num": 178493,
       "word": "巩俐戛纳红毯气场",
@@ -1960,14 +2056,6 @@
       "word": "藏海传筹谋在心版海报",
       "onboard_time": 1715740877,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 172803,
-      "num": 172803,
-      "word": "张若昀好痛一滴泪",
-      "onboard_time": 1715779699,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2107,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157456,
+      "num": 157456,
+      "word": "华晨宇看白举纲直播",
+      "onboard_time": 1715780838,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155602,
       "num": 155602,
       "word": "多方回应青岛11岁女童疑遭误诊去世",
@@ -2211,14 +2307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148915,
-      "num": 148915,
-      "word": "斯洛伐克总理遭枪击",
-      "onboard_time": 1715779938,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 148536,
       "num": 148536,
       "word": "度华年",
@@ -2249,6 +2337,14 @@
       "onboard_time": 1715771357,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145251,
+      "num": 145251,
+      "word": "青春环游记",
+      "onboard_time": 1715782640,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 143518,
@@ -2313,6 +2409,14 @@
       "onboard_time": 1715680759,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137721,
+      "num": 137721,
+      "word": "上海申花2比0青岛海牛",
+      "onboard_time": 1715782699,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 137418,
@@ -2409,6 +2513,14 @@
       "onboard_time": 1715770817,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 130516,
+      "num": 130516,
+      "word": "成毅首本五大女刊",
+      "onboard_time": 1715782401,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 129952,
@@ -2596,7 +2708,7 @@
     },
     {
       "raw_hot": 115317,
-      "num": 153447,
+      "num": 159629,
       "word": "朱一龙OPPO新机海报",
       "onboard_time": 1715778977,
       "rank": 38,
@@ -3043,6 +3155,30 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 34763,
+      "num": 363197,
+      "word": "乐道L60百公里电耗低至12.1",
+      "onboard_time": 1715781918,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 32536,
+      "num": 1175337,
+      "word": "2024年全球贸易投资促进峰会",
+      "onboard_time": 1715780600,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31357,
+      "num": 409175,
+      "word": "书本里铁汉柔情有了现实画面",
+      "onboard_time": 1715781979,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31233,
       "num": 319875,
       "word": "东北老铁被榴莲硬控住了",
@@ -3175,6 +3311,9 @@
     },
     {
       "word": "#建立绿色低碳循环经济体系#"
+    },
+    {
+      "word": "#习近平回信勉励北京市八达岭长城脚下的乡亲们#"
     }
   ]
 }
