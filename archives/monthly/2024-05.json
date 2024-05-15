@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715772879170,
+  "endTime": 1715776556076,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1611,6 +1611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1360186,
+      "num": 1360186,
+      "word": "新生 烂尾",
+      "onboard_time": 1715774718,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1356293,
       "num": 308734,
       "word": "百度副总裁璩静已离职",
@@ -2465,6 +2473,14 @@
       "onboard_time": 1715438541,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1130055,
+      "num": 1130055,
+      "word": "教育部拟同意设24所本科高校",
+      "onboard_time": 1715770698,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 1129942,
@@ -5427,14 +5443,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 715251,
-      "num": 715251,
-      "word": "教育部拟同意设24所本科高校",
-      "onboard_time": 1715770698,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 714702,
       "num": 714702,
       "word": "致3岁男童死亡恶犬仍下落不明",
@@ -6091,6 +6099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 668229,
+      "num": 330497,
+      "word": "未婚生育的女性将面临哪些困境",
+      "onboard_time": 1715773038,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667854,
       "num": 667854,
       "word": "庐山瀑布",
@@ -6225,6 +6241,14 @@
       "onboard_time": 1714793898,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 657942,
+      "num": 657942,
+      "word": "庆余年2先导plus预告",
+      "onboard_time": 1715773396,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 657850,
@@ -6665,6 +6689,14 @@
       "onboard_time": 1714732279,
       "rank": 34,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 634590,
+      "num": 216557,
+      "word": "发现和没上过班的人很难交流",
+      "onboard_time": 1715771357,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 634453,
@@ -9339,6 +9371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483109,
+      "num": 469772,
+      "word": "咬伤3岁男童恶犬已被打死",
+      "onboard_time": 1715769857,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482431,
       "num": 482431,
       "word": "德芙反式脂肪酸",
@@ -9665,14 +9705,6 @@
       "onboard_time": 1715608939,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 469772,
-      "num": 469772,
-      "word": "咬伤3岁男童恶犬已被打死",
-      "onboard_time": 1715769857,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469733,
@@ -10569,6 +10601,14 @@
       "onboard_time": 1715760919,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 437951,
+      "num": 367639,
+      "word": "金靖爆改黑皮体育生",
+      "onboard_time": 1715773337,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 437434,
@@ -11625,6 +11665,14 @@
       "onboard_time": 1715747301,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 406119,
+      "num": 363886,
+      "word": "关晓彤鞠婧祎早期合照",
+      "onboard_time": 1715774417,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 405931,
@@ -13553,6 +13601,14 @@
       "onboard_time": 1715134881,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 349704,
+      "num": 349704,
+      "word": "中国海警在黄岩岛海域常态开展维权执法活动",
+      "onboard_time": 1715774056,
+      "rank": 8,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 349275,
@@ -15593,6 +15649,14 @@
       "onboard_time": 1715067019,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294804,
+      "num": 294804,
+      "word": "乐道汽车",
+      "onboard_time": 1715773697,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 294798,
@@ -18123,20 +18187,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 249021,
+      "num": 249021,
+      "word": "奥运会资格系列赛明起举办",
+      "onboard_time": 1715774898,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248939,
       "num": 248939,
       "word": "疑似情感纠纷女子带人冲进办公室殴打女员工",
       "onboard_time": 1714491380,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248870,
-      "num": 197635,
-      "word": "发现和没上过班的人很难交流",
-      "onboard_time": 1715771357,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 248865,
@@ -18217,6 +18281,14 @@
       "onboard_time": 1714610896,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248116,
+      "num": 248116,
+      "word": "林高远ARENA杂志首封",
+      "onboard_time": 1715772437,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 247929,
@@ -19347,6 +19419,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 232653,
+      "num": 232653,
+      "word": "我国住房空置率约为15%",
+      "onboard_time": 1715769018,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232606,
       "num": 232606,
       "word": "严浩翔饭撒",
@@ -20233,6 +20313,14 @@
       "onboard_time": 1714902799,
       "rank": 18,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 221167,
+      "num": 221167,
+      "word": "乐道发布会",
+      "onboard_time": 1715772197,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 220921,
@@ -21225,6 +21313,14 @@
       "onboard_time": 1715235079,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 211561,
+      "num": 211561,
+      "word": "Ale加入AL",
+      "onboard_time": 1715774477,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 211558,
@@ -22257,14 +22353,6 @@
       "onboard_time": 1715602879,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204060,
-      "num": 204060,
-      "word": "乐道发布会",
-      "onboard_time": 1715772197,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 203999,
@@ -24035,14 +24123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194361,
-      "num": 194361,
-      "word": "林高远ARENA杂志首封",
-      "onboard_time": 1715772437,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194359,
       "num": 194359,
       "word": "才知道冷冻番茄能让鲜味倍增",
@@ -24297,6 +24377,14 @@
       "onboard_time": 1715172141,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 193359,
+      "num": 193359,
+      "word": "周深演唱会剧透",
+      "onboard_time": 1715775557,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 193337,
@@ -25699,14 +25787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185503,
-      "num": 185503,
-      "word": "我国住房空置率约为15%",
-      "onboard_time": 1715769018,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185457,
       "num": 185457,
       "word": "高铁踩点",
@@ -26489,6 +26569,14 @@
       "onboard_time": 1714886658,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179534,
+      "num": 179534,
+      "word": "我拿你当兄弟你拿我刷业绩",
+      "onboard_time": 1715771897,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 179477,
@@ -28547,6 +28635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 166851,
+      "num": 166851,
+      "word": "姜珮瑶一句话打开林家川眼泪开关",
+      "onboard_time": 1715776098,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166842,
       "num": 412033,
       "word": "武汉已进入人海模式",
@@ -29313,14 +29409,6 @@
       "onboard_time": 1715239158,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162227,
-      "num": 162227,
-      "word": "我拿你当兄弟你拿我刷业绩",
-      "onboard_time": 1715771897,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 162216,
@@ -30473,6 +30561,14 @@
       "onboard_time": 1715335758,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 155054,
+      "num": 155054,
+      "word": "广州地铁看了连夜加更标识",
+      "onboard_time": 1715773937,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 154995,
@@ -32403,6 +32499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143518,
+      "num": 143518,
+      "word": "白举纲直播",
+      "onboard_time": 1715773097,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143365,
       "num": 143365,
       "word": "babymonster日本粉丝见面会",
@@ -32633,6 +32737,14 @@
       "onboard_time": 1715322739,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141898,
+      "num": 141898,
+      "word": "杨紫黑粉手写信道歉",
+      "onboard_time": 1715774357,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 141856,
@@ -33449,6 +33561,14 @@
       "onboard_time": 1715220616,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136851,
+      "num": 136851,
+      "word": "加满一箱油将省9元",
+      "onboard_time": 1715775736,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 136828,
@@ -34425,6 +34545,14 @@
       "onboard_time": 1715503999,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131163,
+      "num": 131163,
+      "word": "双鱼座的合群都是装的",
+      "onboard_time": 1715775197,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 131141,
@@ -37187,6 +37315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112685,
+      "num": 112685,
+      "word": "EDG官宣Ale离队",
+      "onboard_time": 1715776398,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112682,
       "num": 108072,
       "word": "刘伟强说王一博动作戏很拼",
@@ -37505,6 +37641,14 @@
       "onboard_time": 1715728274,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109635,
+      "num": 146162,
+      "word": "乐道L60上市即享千座换电站",
+      "onboard_time": 1715776336,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 109632,
@@ -38137,6 +38281,14 @@
       "onboard_time": 1714615817,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 102879,
+      "num": 102879,
+      "word": "安徽一司机碾压小孩致身亡逃逸被抓",
+      "onboard_time": 1715776517,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102723,
@@ -41153,6 +41305,14 @@
       "onboard_time": 1715693658,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 34114,
+      "num": 335783,
+      "word": "00后武警战士路遇火情冲锋救火",
+      "onboard_time": 1715773396,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 34039,

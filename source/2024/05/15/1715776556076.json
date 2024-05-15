@@ -1,0 +1,410 @@
+{
+  "runTime": 1715776556076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1360186,
+        "num": 1360186,
+        "word": "新生 烂尾",
+        "onboard_time": 1715774718,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1130055,
+        "num": 1130055,
+        "word": "教育部拟同意设24所本科高校",
+        "onboard_time": 1715770698,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3273,
+        "num": 853949,
+        "word": "阔步迈向网络强国",
+        "onboard_time": 1715741237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657942,
+        "num": 657942,
+        "word": "庆余年2先导plus预告",
+        "onboard_time": 1715773396,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385833,
+        "num": 385833,
+        "word": "日本制铁公司熔钢锅内发现人骨",
+        "onboard_time": 1715768478,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887030,
+        "num": 372668,
+        "word": "未婚女性不能使用精子库供精去父留子",
+        "onboard_time": 1715743519,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437951,
+        "num": 367639,
+        "word": "金靖爆改黑皮体育生",
+        "onboard_time": 1715773337,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406119,
+        "num": 363886,
+        "word": "关晓彤鞠婧祎早期合照",
+        "onboard_time": 1715774417,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349704,
+        "num": 349704,
+        "word": "中国海警在黄岩岛海域常态开展维权执法活动",
+        "onboard_time": 1715774056,
+        "rank": 8,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 34114,
+        "num": 335783,
+        "word": "00后武警战士路遇火情冲锋救火",
+        "onboard_time": 1715773396,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 668229,
+        "num": 330497,
+        "word": "未婚生育的女性将面临哪些困境",
+        "onboard_time": 1715773038,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483109,
+        "num": 329642,
+        "word": "咬伤3岁男童恶犬已被打死",
+        "onboard_time": 1715769857,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323907,
+        "num": 323907,
+        "word": "张杰回复了摔倒小男孩的妈妈",
+        "onboard_time": 1715761397,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294804,
+        "num": 294804,
+        "word": "乐道汽车",
+        "onboard_time": 1715773697,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 249218,
+        "num": 249218,
+        "word": "Uzi AL",
+        "onboard_time": 1715767397,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249021,
+        "num": 249021,
+        "word": "奥运会资格系列赛明起举办",
+        "onboard_time": 1715774898,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248116,
+        "num": 248116,
+        "word": "林高远ARENA杂志首封",
+        "onboard_time": 1715772437,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232653,
+        "num": 232653,
+        "word": "我国住房空置率约为15%",
+        "onboard_time": 1715769018,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221167,
+        "num": 221167,
+        "word": "乐道发布会",
+        "onboard_time": 1715772197,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 218559,
+        "num": 218559,
+        "word": "鹿晗在路边吐了",
+        "onboard_time": 1715746279,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680245,
+        "num": 217976,
+        "word": "李溪芮拖鞋打伤代驾",
+        "onboard_time": 1715756477,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634590,
+        "num": 216557,
+        "word": "发现和没上过班的人很难交流",
+        "onboard_time": 1715771357,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359199,
+        "num": 214077,
+        "word": "黄梦莹高干文女主脸",
+        "onboard_time": 1715767638,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341317,
+        "num": 213108,
+        "word": "坚持跑步1个月身体将怎样变化",
+        "onboard_time": 1715765418,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 211561,
+        "num": 211561,
+        "word": "Ale加入AL",
+        "onboard_time": 1715774477,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252599,
+        "num": 205679,
+        "word": "真正的大女主都是水泥封心",
+        "onboard_time": 1715766018,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198209,
+        "num": 198209,
+        "word": "警方提级调查3岁男童被狗咬伤身亡",
+        "onboard_time": 1715764877,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193359,
+        "num": 193359,
+        "word": "周深演唱会剧透",
+        "onboard_time": 1715775557,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185303,
+        "num": 185303,
+        "word": "新生",
+        "onboard_time": 1715776336,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179534,
+        "num": 179534,
+        "word": "我拿你当兄弟你拿我刷业绩",
+        "onboard_time": 1715771897,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168519,
+        "num": 168519,
+        "word": "年薪百万的蔓越莓采摘工",
+        "onboard_time": 1715770578,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167341,
+        "num": 167341,
+        "word": "王金金报名歌手",
+        "onboard_time": 1715769617,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166851,
+        "num": 166851,
+        "word": "姜珮瑶一句话打开林家川眼泪开关",
+        "onboard_time": 1715776098,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165491,
+        "num": 165491,
+        "word": "丁真被男团endingpose硬控了",
+        "onboard_time": 1715767877,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158103,
+        "num": 158103,
+        "word": "正准备提离职结果被裁了",
+        "onboard_time": 1715752218,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155054,
+        "num": 155054,
+        "word": "广州地铁看了连夜加更标识",
+        "onboard_time": 1715773937,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154227,
+        "num": 154227,
+        "word": "李溪芮张腾与代驾发生冲突",
+        "onboard_time": 1715755937,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109635,
+        "num": 146162,
+        "word": "乐道L60上市即享千座换电站",
+        "onboard_time": 1715776336,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143518,
+        "num": 143518,
+        "word": "白举纲直播",
+        "onboard_time": 1715773097,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142203,
+        "num": 142203,
+        "word": "新生彩蛋",
+        "onboard_time": 1715770457,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141898,
+        "num": 141898,
+        "word": "杨紫黑粉手写信道歉",
+        "onboard_time": 1715774357,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140508,
+        "num": 140508,
+        "word": "小黑熊一激动认错妈了",
+        "onboard_time": 1715771417,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139365,
+        "num": 139365,
+        "word": "关晓彤在努力扮演大人了",
+        "onboard_time": 1715767937,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136851,
+        "num": 136851,
+        "word": "加满一箱油将省9元",
+        "onboard_time": 1715775736,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131163,
+        "num": 131163,
+        "word": "双鱼座的合群都是装的",
+        "onboard_time": 1715775197,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128783,
+        "num": 128783,
+        "word": "CBA",
+        "onboard_time": 1715773997,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121051,
+        "num": 121051,
+        "word": "张腾否认李溪芮扔拖鞋",
+        "onboard_time": 1715761638,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116506,
+        "num": 116506,
+        "word": "新生结局",
+        "onboard_time": 1715752458,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112685,
+        "num": 112685,
+        "word": "EDG官宣Ale离队",
+        "onboard_time": 1715776398,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102879,
+        "num": 102879,
+        "word": "安徽一司机碾压小孩致身亡逃逸被抓",
+        "onboard_time": 1715776517,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建立绿色低碳循环经济体系#"
+    }
+  }
+}

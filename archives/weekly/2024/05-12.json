@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715772879170,
+  "endTime": 1715776556076,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1360186,
+      "num": 1360186,
+      "word": "新生 烂尾",
+      "onboard_time": 1715774718,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1347604,
       "num": 1347604,
       "word": "南通车祸遇难女孩已入土为安",
@@ -673,6 +681,14 @@
       "onboard_time": 1715438541,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1130055,
+      "num": 1130055,
+      "word": "教育部拟同意设24所本科高校",
+      "onboard_time": 1715770698,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 1126452,
@@ -1587,14 +1603,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 715251,
-      "num": 715251,
-      "word": "教育部拟同意设24所本科高校",
-      "onboard_time": 1715770698,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 714702,
       "num": 714702,
       "word": "致3岁男童死亡恶犬仍下落不明",
@@ -1739,6 +1747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 668229,
+      "num": 330497,
+      "word": "未婚生育的女性将面临哪些困境",
+      "onboard_time": 1715773038,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667854,
       "num": 667854,
       "word": "庐山瀑布",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1715729837,
       "rank": 6,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 657942,
+      "num": 657942,
+      "word": "庆余年2先导plus预告",
+      "onboard_time": 1715773396,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 657353,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1715731878,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 634590,
+      "num": 216557,
+      "word": "发现和没上过班的人很难交流",
+      "onboard_time": 1715771357,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 634453,
@@ -2675,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483109,
+      "num": 469772,
+      "word": "咬伤3岁男童恶犬已被打死",
+      "onboard_time": 1715769857,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478945,
       "num": 478945,
       "word": "时隔6年半韩国外长今起访华",
@@ -2729,14 +2769,6 @@
       "onboard_time": 1715608939,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 469772,
-      "num": 469772,
-      "word": "咬伤3岁男童恶犬已被打死",
-      "onboard_time": 1715769857,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 466754,
@@ -3001,6 +3033,14 @@
       "onboard_time": 1715760919,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 437951,
+      "num": 367639,
+      "word": "金靖爆改黑皮体育生",
+      "onboard_time": 1715773337,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 436385,
@@ -3281,6 +3321,14 @@
       "onboard_time": 1715747301,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 406119,
+      "num": 363886,
+      "word": "关晓彤鞠婧祎早期合照",
+      "onboard_time": 1715774417,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 405931,
@@ -3843,6 +3891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349704,
+      "num": 349704,
+      "word": "中国海警在黄岩岛海域常态开展维权执法活动",
+      "onboard_time": 1715774056,
+      "rank": 8,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 348587,
       "num": 348587,
       "word": "TheShy叫板Ning",
@@ -4361,6 +4417,14 @@
       "onboard_time": 1715442320,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294804,
+      "num": 294804,
+      "word": "乐道汽车",
+      "onboard_time": 1715773697,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 293573,
@@ -5099,12 +5163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248870,
-      "num": 197635,
-      "word": "发现和没上过班的人很难交流",
-      "onboard_time": 1715771357,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 249021,
+      "num": 249021,
+      "word": "奥运会资格系列赛明起举办",
+      "onboard_time": 1715774898,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 248381,
@@ -5129,6 +5193,14 @@
       "onboard_time": 1715472496,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 248116,
+      "num": 248116,
+      "word": "林高远ARENA杂志首封",
+      "onboard_time": 1715772437,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 247671,
@@ -5353,6 +5425,14 @@
       "onboard_time": 1715674218,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232653,
+      "num": 232653,
+      "word": "我国住房空置率约为15%",
+      "onboard_time": 1715769018,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231213,
@@ -5585,6 +5665,14 @@
       "onboard_time": 1715591360,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221167,
+      "num": 221167,
+      "word": "乐道发布会",
+      "onboard_time": 1715772197,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 220637,
@@ -5835,6 +5923,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 211561,
+      "num": 211561,
+      "word": "Ale加入AL",
+      "onboard_time": 1715774477,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211455,
       "num": 211455,
       "word": "李健再唱庆余年OST",
@@ -6073,14 +6169,6 @@
       "onboard_time": 1715602879,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204060,
-      "num": 204060,
-      "word": "乐道发布会",
-      "onboard_time": 1715772197,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 203795,
@@ -6547,14 +6635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194361,
-      "num": 194361,
-      "word": "林高远ARENA杂志首封",
-      "onboard_time": 1715772437,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193922,
       "num": 193922,
       "word": "电影沙漏 校园霸凌",
@@ -6601,6 +6681,14 @@
       "onboard_time": 1715499858,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193359,
+      "num": 193359,
+      "word": "周深演唱会剧透",
+      "onboard_time": 1715775557,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 193331,
@@ -6971,14 +7059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185503,
-      "num": 185503,
-      "word": "我国住房空置率约为15%",
-      "onboard_time": 1715769018,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185400,
       "num": 185400,
       "word": "管泽元",
@@ -7129,6 +7209,14 @@
       "onboard_time": 1715593820,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179534,
+      "num": 179534,
+      "word": "我拿你当兄弟你拿我刷业绩",
+      "onboard_time": 1715771897,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 179432,
@@ -7675,6 +7763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 166851,
+      "num": 166851,
+      "word": "姜珮瑶一句话打开林家川眼泪开关",
+      "onboard_time": 1715776098,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166751,
       "num": 166751,
       "word": "不要低估小孩子的恶意",
@@ -7913,14 +8009,6 @@
       "onboard_time": 1715641995,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 162227,
-      "num": 162227,
-      "word": "我拿你当兄弟你拿我刷业绩",
-      "onboard_time": 1715771897,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 162057,
@@ -8185,6 +8273,14 @@
       "onboard_time": 1715728274,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155054,
+      "num": 155054,
+      "word": "广州地铁看了连夜加更标识",
+      "onboard_time": 1715773937,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 154809,
@@ -8587,6 +8683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143518,
+      "num": 143518,
+      "word": "白举纲直播",
+      "onboard_time": 1715773097,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142920,
       "num": 142920,
       "word": "掘金2比2森林狼",
@@ -8641,6 +8745,14 @@
       "onboard_time": 1715422758,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141898,
+      "num": 141898,
+      "word": "杨紫黑粉手写信道歉",
+      "onboard_time": 1715774357,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 141804,
@@ -8851,6 +8963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136851,
+      "num": 136851,
+      "word": "加满一箱油将省9元",
+      "onboard_time": 1715775736,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136828,
       "num": 136828,
       "word": "诛仙",
@@ -9051,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131163,
+      "num": 131163,
+      "word": "双鱼座的合群都是装的",
+      "onboard_time": 1715775197,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131141,
       "num": 131141,
       "word": "费翔于适侯雯元娜然合体封神团综",
@@ -9177,6 +9305,14 @@
       "onboard_time": 1715481618,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 128783,
+      "num": 128783,
+      "word": "CBA",
+      "onboard_time": 1715475137,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 128671,
@@ -9683,14 +9819,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 114082,
-      "num": 114082,
-      "word": "CBA",
-      "onboard_time": 1715475137,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113919,
       "num": 113919,
       "word": "霸王茶姬口令",
@@ -9753,6 +9881,14 @@
       "onboard_time": 1715585300,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112685,
+      "num": 112685,
+      "word": "EDG官宣Ale离队",
+      "onboard_time": 1715776398,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 112520,
@@ -9841,6 +9977,14 @@
       "onboard_time": 1715728274,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109635,
+      "num": 146162,
+      "word": "乐道L60上市即享千座换电站",
+      "onboard_time": 1715776336,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 109632,
@@ -10041,6 +10185,14 @@
       "onboard_time": 1715617158,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102879,
+      "num": 102879,
+      "word": "安徽一司机碾压小孩致身亡逃逸被抓",
+      "onboard_time": 1715776517,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102450,
@@ -10841,6 +10993,14 @@
       "onboard_time": 1715693658,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 34114,
+      "num": 335783,
+      "word": "00后武警战士路遇火情冲锋救火",
+      "onboard_time": 1715773396,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 33433,
