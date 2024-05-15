@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715790202705,
+  "endTime": 1715791109019,
   "band_list": [
     {
       "raw_hot": 1830305,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411001,
+      "num": 250195,
+      "word": "尼格买提 莫奈花园",
+      "onboard_time": 1715788278,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 400283,
       "num": 251416,
       "word": "原来张杰也会泰勒公式",
       "onboard_time": 1715786898,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 375820,
-      "num": 250195,
-      "word": "尼格买提 莫奈花园",
-      "onboard_time": 1715788278,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 350111,
@@ -91,19 +91,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 303268,
+      "num": 303268,
+      "word": "官方通报60余名幼儿群体性流血不实",
+      "onboard_time": 1715784920,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302902,
       "num": 255480,
       "word": "未婚女性不能使用精子库供精去父留子",
       "onboard_time": 1715743519,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279640,
-      "num": 279640,
-      "word": "官方通报60余名幼儿群体性流血不实",
-      "onboard_time": 1715784920,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -163,7 +163,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154363,
+      "raw_hot": 172191,
       "num": 148570,
       "word": "李雪琴 小树不长歪长点枝丫没问题",
       "onboard_time": 1715788877,
@@ -227,7 +227,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130211,
+      "raw_hot": 130339,
       "num": 130211,
       "word": "用利息生活是可行还是离谱",
       "onboard_time": 1715786419,
@@ -289,6 +289,14 @@
       "onboard_time": 1715765418,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 102560,
+      "num": 102560,
+      "word": "佟丽娅长发新中式",
+      "onboard_time": 1715790555,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 95181,
@@ -387,6 +395,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61367,
+      "num": 61367,
+      "word": "新生",
+      "onboard_time": 1715776336,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 60771,
+      "num": 60771,
+      "word": "开心消消乐",
+      "onboard_time": 1715791036,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31959,
       "num": 254539,
       "word": "95后小伙毕业后回乡当村医",
@@ -395,7 +419,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 16927,
+      "raw_hot": 17040,
       "num": 268803,
       "word": "2024年全球贸易投资促进峰会",
       "onboard_time": 1715780600,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#习近平回信勉励北京市八达岭长城脚下的乡亲们#"
+    },
+    {
+      "word": "#建立绿色低碳循环经济体系#"
     }
   ]
 }

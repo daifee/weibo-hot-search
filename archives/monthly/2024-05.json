@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715790202705,
+  "endTime": 1715791109019,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -11627,6 +11627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 411001,
+      "num": 250195,
+      "word": "尼格买提 莫奈花园",
+      "onboard_time": 1715788278,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 410712,
       "num": 410712,
       "word": "怎么写快乐家族最刀呢",
@@ -12753,14 +12761,6 @@
       "onboard_time": 1715136559,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375820,
-      "num": 250195,
-      "word": "尼格买提 莫奈花园",
-      "onboard_time": 1715788278,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 375736,
@@ -15507,6 +15507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303268,
+      "num": 303268,
+      "word": "官方通报60余名幼儿群体性流血不实",
+      "onboard_time": 1715784920,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303221,
       "num": 276487,
       "word": "我的阿勒泰豆瓣开分8.5",
@@ -16569,14 +16577,6 @@
       "onboard_time": 1714905377,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279640,
-      "num": 279640,
-      "word": "官方通报60余名幼儿群体性流血不实",
-      "onboard_time": 1715784920,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279462,
@@ -28179,6 +28179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172191,
+      "num": 148570,
+      "word": "李雪琴 小树不长歪长点枝丫没问题",
+      "onboard_time": 1715788877,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172151,
       "num": 172151,
       "word": "TES零封TL",
@@ -31081,14 +31089,6 @@
       "onboard_time": 1715490979,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154363,
-      "num": 148570,
-      "word": "李雪琴 小树不长歪长点枝丫没问题",
-      "onboard_time": 1715788877,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 154342,
@@ -35139,6 +35139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130339,
+      "num": 130211,
+      "word": "用利息生活是可行还是离谱",
+      "onboard_time": 1715786419,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130285,
       "num": 119154,
       "word": "Hanssama 这次我出大穿甲",
@@ -35161,14 +35169,6 @@
       "onboard_time": 1715667918,
       "rank": 47,
       "category": "互联网,数码"
-    },
-    {
-      "raw_hot": 130211,
-      "num": 130211,
-      "word": "用利息生活是可行还是离谱",
-      "onboard_time": 1715786419,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 130204,
@@ -38851,6 +38851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102560,
+      "num": 102560,
+      "word": "佟丽娅长发新中式",
+      "onboard_time": 1715790555,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102480,
       "num": 225052,
       "word": "海警位金门附近海域常态执法巡查",
@@ -40857,6 +40865,14 @@
       "onboard_time": 1714810759,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60771,
+      "num": 60771,
+      "word": "开心消消乐",
+      "onboard_time": 1715791036,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 60764,
