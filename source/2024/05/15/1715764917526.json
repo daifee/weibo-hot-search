@@ -1,0 +1,410 @@
+{
+  "runTime": 1715764917526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 968194,
+        "num": 968194,
+        "word": "张杰回复了摔倒小男孩的妈妈",
+        "onboard_time": 1715761397,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562464,
+        "num": 562464,
+        "word": "越来越多房东由卖转租",
+        "onboard_time": 1715759477,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44490,
+        "num": 507859,
+        "word": "首个适应气候变化工作进展报告发布",
+        "onboard_time": 1715761638,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474741,
+        "num": 474741,
+        "word": "于适 虚拟的网络何必那么认真",
+        "onboard_time": 1715763378,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448119,
+        "num": 448119,
+        "word": "外交部回应5艘渔船从菲驶向黄岩岛周围海域",
+        "onboard_time": 1715761279,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1230818,
+        "num": 444119,
+        "word": "未婚女性不能使用精子库供精去父留子",
+        "onboard_time": 1715743519,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438134,
+        "num": 438134,
+        "word": "DNF全新代言人",
+        "onboard_time": 1715760919,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 375712,
+        "num": 375712,
+        "word": "变形计男主人公现状",
+        "onboard_time": 1715758997,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278226,
+        "num": 278226,
+        "word": "新生结局",
+        "onboard_time": 1715752458,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159040,
+        "num": 277152,
+        "word": "荔枝型榴莲出肉率更高",
+        "onboard_time": 1715759779,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1268863,
+        "num": 275426,
+        "word": "张腾否认李溪芮扔拖鞋",
+        "onboard_time": 1715761638,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517186,
+        "num": 272282,
+        "word": "正准备提离职结果被裁了",
+        "onboard_time": 1715752218,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 459033,
+        "num": 272194,
+        "word": "鹿晗在路边吐了",
+        "onboard_time": 1715746279,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348964,
+        "num": 268575,
+        "word": "生物学家称男性生子技术上讲有无限可能",
+        "onboard_time": 1715763438,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268208,
+        "num": 268208,
+        "word": "华为天生会画APP开启公测",
+        "onboard_time": 1715763438,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223089,
+        "num": 223089,
+        "word": "小沈阳用张杰谢娜结婚年份记事",
+        "onboard_time": 1715757498,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214862,
+        "num": 214862,
+        "word": "戛纳 网红",
+        "onboard_time": 1715745140,
+        "rank": 16,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 42345,
+        "num": 187748,
+        "word": "余承东讲Pura70Ultra最顶影像",
+        "onboard_time": 1715760378,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181771,
+        "num": 181771,
+        "word": "华为发布会",
+        "onboard_time": 1715755518,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83303,
+        "num": 181535,
+        "word": "为什么年轻人越来越Fit了",
+        "onboard_time": 1715762897,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20522,
+        "num": 180844,
+        "word": "华为原野绿笔记本上新",
+        "onboard_time": 1715762477,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1368771,
+        "num": 180264,
+        "word": "李溪芮拖鞋打伤代驾",
+        "onboard_time": 1715756477,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1170001,
+        "num": 179855,
+        "word": "专家称女性生孩子国家补贴房子是应该的",
+        "onboard_time": 1715757979,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413598,
+        "num": 179343,
+        "word": "你以为上班只是八小时",
+        "onboard_time": 1715763438,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344497,
+        "num": 178668,
+        "word": "榴莲果核太大女子怀疑买到假金枕",
+        "onboard_time": 1715757018,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229298,
+        "num": 178440,
+        "word": "月薪两万不敢在商场买衣服",
+        "onboard_time": 1715734099,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178059,
+        "num": 178059,
+        "word": "考虑让地方政府购买尚未售出的存量住房",
+        "onboard_time": 1715761279,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 410826,
+        "num": 177986,
+        "word": "李溪芮张腾与代驾发生冲突",
+        "onboard_time": 1715755937,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226128,
+        "num": 177476,
+        "word": "张颂文 好严的一张嘴",
+        "onboard_time": 1715763258,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206178,
+        "num": 177266,
+        "word": "苗苗扎紧点漂亮",
+        "onboard_time": 1715752579,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187642,
+        "num": 176894,
+        "word": "女生退租被房东要求钢丝球刷地板",
+        "onboard_time": 1715755819,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176794,
+        "num": 176794,
+        "word": "戛纳 0特写",
+        "onboard_time": 1715745380,
+        "rank": 31,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 175739,
+        "num": 175739,
+        "word": "快乐老友记 两大群像",
+        "onboard_time": 1715761279,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174996,
+        "num": 174996,
+        "word": "排球少年初心cb",
+        "onboard_time": 1715763679,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 167810,
+        "num": 167810,
+        "word": "女明星成度小满贷款紧急联系人",
+        "onboard_time": 1715763438,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160653,
+        "num": 160653,
+        "word": "IVEMV疑似抄袭XG女团",
+        "onboard_time": 1715759659,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157164,
+        "num": 157164,
+        "word": "SEVENTEEN全员参加经纪人婚礼",
+        "onboard_time": 1715762117,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156710,
+        "num": 156710,
+        "word": "下班后回复微信算加班吗",
+        "onboard_time": 1715745441,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153687,
+        "num": 153687,
+        "word": "DNF手游",
+        "onboard_time": 1715763979,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137751,
+        "num": 137751,
+        "word": "杨洋反手握刀",
+        "onboard_time": 1715760197,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136189,
+        "num": 136189,
+        "word": "小狗和原住民猫的第一次见面",
+        "onboard_time": 1715764097,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132774,
+        "num": 132774,
+        "word": "专家建议A股采用50指数代替上证指数",
+        "onboard_time": 1715764578,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131719,
+        "num": 131719,
+        "word": "游戏代练到底是谁在挣钱",
+        "onboard_time": 1715764157,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131141,
+        "num": 131141,
+        "word": "费翔于适侯雯元娜然合体封神团综",
+        "onboard_time": 1715763979,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123687,
+        "num": 123687,
+        "word": "成毅 一番男主",
+        "onboard_time": 1715743819,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118697,
+        "num": 118697,
+        "word": "华理回应12岁女孩被男生隔空猥亵",
+        "onboard_time": 1715748381,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116823,
+        "num": 116823,
+        "word": "明日方舟",
+        "onboard_time": 1715763797,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113588,
+        "num": 113588,
+        "word": "儿子打碎20多个瓜爸妈脸上笑哈哈",
+        "onboard_time": 1715754978,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109520,
+        "num": 109520,
+        "word": "选个你们想吃又不想消费的",
+        "onboard_time": 1715761878,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106539,
+        "num": 106539,
+        "word": "警方提级调查3岁男童被狗咬伤身亡",
+        "onboard_time": 1715764877,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建立绿色低碳循环经济体系#"
+    }
+  }
+}
