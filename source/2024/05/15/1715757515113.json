@@ -1,0 +1,410 @@
+{
+  "runTime": 1715757515113,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1744680,
+        "num": 1744680,
+        "word": "李溪芮张腾与代驾发生冲突",
+        "onboard_time": 1715755937,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1704271,
+        "num": 1704271,
+        "word": "正准备提离职结果被裁了",
+        "onboard_time": 1715752218,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41198,
+        "num": 1133873,
+        "word": "重申红线把基础教育越办越好",
+        "onboard_time": 1715740637,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036743,
+        "num": 1036743,
+        "word": "未婚女性不能使用精子库供精去父留子",
+        "onboard_time": 1715743519,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566294,
+        "num": 566294,
+        "word": "华为发布会",
+        "onboard_time": 1715755518,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1231596,
+        "num": 531890,
+        "word": "李溪芮拖鞋打伤代驾",
+        "onboard_time": 1715756477,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 909999,
+        "num": 518265,
+        "word": "苗苗扎紧点漂亮",
+        "onboard_time": 1715752579,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436314,
+        "num": 436314,
+        "word": "月薪两万不敢在商场买衣服",
+        "onboard_time": 1715734099,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 435059,
+        "num": 435059,
+        "word": "韩国街道有种对生活的向往",
+        "onboard_time": 1715753899,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133948,
+        "num": 417732,
+        "word": "儿子打碎20多个瓜爸妈脸上笑哈哈",
+        "onboard_time": 1715754978,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736993,
+        "num": 414808,
+        "word": "鹿晗在路边吐了",
+        "onboard_time": 1715746279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408745,
+        "num": 408745,
+        "word": "偶像塌房险",
+        "onboard_time": 1715752279,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380272,
+        "num": 380272,
+        "word": "女生退租被房东要求钢丝球刷地板",
+        "onboard_time": 1715755819,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368138,
+        "num": 368138,
+        "word": "健身房又偶遇王俊凯",
+        "onboard_time": 1715751978,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367472,
+        "num": 367472,
+        "word": "下班后回复微信算加班吗",
+        "onboard_time": 1715745441,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 366285,
+        "num": 366285,
+        "word": "西安山姆会员店变考古现场",
+        "onboard_time": 1715746822,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360101,
+        "num": 360101,
+        "word": "新生结局",
+        "onboard_time": 1715752458,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352804,
+        "num": 352804,
+        "word": "A股",
+        "onboard_time": 1715754858,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 337319,
+        "num": 337319,
+        "word": "戛纳 0特写",
+        "onboard_time": 1715745380,
+        "rank": 18,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 268497,
+        "num": 268497,
+        "word": "造谣大陆吃不起茶叶蛋的人将被惩戒",
+        "onboard_time": 1715742797,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328755,
+        "num": 265307,
+        "word": "马天宇辣评歌手",
+        "onboard_time": 1715745739,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296318,
+        "num": 264466,
+        "word": "戛纳 网红",
+        "onboard_time": 1715745140,
+        "rank": 21,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 258408,
+        "num": 258408,
+        "word": "竟然在一只猫的脸上看到了班味",
+        "onboard_time": 1715756238,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249431,
+        "num": 249431,
+        "word": "华理回应12岁女孩被男生隔空猥亵",
+        "onboard_time": 1715748381,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248308,
+        "num": 248308,
+        "word": "TikTok创作者集体起诉美国政府",
+        "onboard_time": 1715756839,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237578,
+        "num": 237578,
+        "word": "D社确认方时赫无视Newjeans成员",
+        "onboard_time": 1715750778,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235451,
+        "num": 235451,
+        "word": "赵今麦张凌赫古装cp感",
+        "onboard_time": 1715756658,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219200,
+        "num": 219200,
+        "word": "因为追星被相亲对象拒绝",
+        "onboard_time": 1715752518,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207216,
+        "num": 207216,
+        "word": "以张杰为榜样的脑瘫少年摔倒后坚持朗诵",
+        "onboard_time": 1715756118,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 206552,
+        "num": 206552,
+        "word": "余承东公布180款设备可升级鸿蒙4.2",
+        "onboard_time": 1715757259,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263999,
+        "num": 203772,
+        "word": "榴莲果核太大女子怀疑买到假金枕",
+        "onboard_time": 1715757018,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184002,
+        "num": 184002,
+        "word": "成毅 一番男主",
+        "onboard_time": 1715743819,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165113,
+        "num": 165113,
+        "word": "清华大学30年来男女比例变化",
+        "onboard_time": 1715751859,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162265,
+        "num": 162265,
+        "word": "肖战如愿与晚霞太适配了",
+        "onboard_time": 1715754918,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157541,
+        "num": 157541,
+        "word": "贾玲代言",
+        "onboard_time": 1715742919,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155622,
+        "num": 155622,
+        "word": "Rookie爆料TheShy气走教练",
+        "onboard_time": 1715748321,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151779,
+        "num": 151779,
+        "word": "攻玉",
+        "onboard_time": 1715755819,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148175,
+        "num": 148175,
+        "word": "毛毛姐找张突然设计戛纳礼服",
+        "onboard_time": 1715754317,
+        "rank": 37,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 147011,
+        "num": 147011,
+        "word": "优酷是没有保险瓶颈期吗",
+        "onboard_time": 1715752637,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141969,
+        "num": 141969,
+        "word": "当代年轻人不生孩子的原因",
+        "onboard_time": 1715750960,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141334,
+        "num": 141334,
+        "word": "日系才是纯爱的天花板",
+        "onboard_time": 1715757378,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140943,
+        "num": 140943,
+        "word": "汪苏泷2024十万伏特巡回演唱会",
+        "onboard_time": 1715753119,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133785,
+        "num": 133785,
+        "word": "IVE",
+        "onboard_time": 1715751378,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130393,
+        "num": 130393,
+        "word": "世界之外",
+        "onboard_time": 1715752997,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129842,
+        "num": 129842,
+        "word": "大风吹倒路灯行人被砸身亡",
+        "onboard_time": 1715750898,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125578,
+        "num": 125578,
+        "word": "歌手",
+        "onboard_time": 1715754138,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123080,
+        "num": 123080,
+        "word": "花2万元拍一张写真",
+        "onboard_time": 1715751078,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 123036,
+        "num": 123036,
+        "word": "小沈阳用张杰谢娜结婚年份记事",
+        "onboard_time": 1715757498,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122334,
+        "num": 122334,
+        "word": "戛纳",
+        "onboard_time": 1715753298,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121679,
+        "num": 121679,
+        "word": "全副武装的防晒有必要吗",
+        "onboard_time": 1715757439,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#建立绿色低碳循环经济体系#"
+    }
+  }
+}
