@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715808874684,
+  "endTime": 1715811616477,
   "band_list": [
     {
       "raw_hot": 1830305,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144562,
+      "num": 70567,
+      "word": "云南将迎1亿只以上蝴蝶大爆发",
+      "onboard_time": 1715803151,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138762,
       "num": 138762,
       "word": "发现和没上过班的人很难交流",
@@ -283,6 +291,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 117522,
+      "num": 69415,
+      "word": "日本前大臣感慨日本太落后",
+      "onboard_time": 1715805850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 116988,
       "num": 116988,
       "word": "新生 强行上价值",
@@ -315,12 +331,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 96562,
-      "num": 31897,
-      "word": "云南将迎1亿只以上蝴蝶大爆发",
-      "onboard_time": 1715803151,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 101826,
+      "num": 101826,
+      "word": "新华社专访普京",
+      "onboard_time": 1715791635,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 95181,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 70978,
-      "num": 24227,
+      "num": 32635,
       "word": "睡眠真的是大脑在排毒吗",
       "onboard_time": 1715801290,
       "rank": 39,
@@ -443,20 +459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56065,
-      "num": 56065,
-      "word": "新华社专访普京",
-      "onboard_time": 1715791635,
-      "rank": 36,
-      "category": "国外时政"
+      "raw_hot": 42458,
+      "num": 31942,
+      "word": "杨超越五年后跟谢涤葵再过招",
+      "onboard_time": 1715810231,
+      "rank": 27,
+      "category": "综艺"
     },
     {
-      "raw_hot": 53552,
-      "num": 31852,
-      "word": "日本前大臣感慨日本太落后",
-      "onboard_time": 1715805850,
-      "rank": 13,
-      "category": "国外时政"
+      "raw_hot": 37719,
+      "num": 30982,
+      "word": "佟丽娅刘涛高圆圆红衣同框",
+      "onboard_time": 1715810592,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 32588,
@@ -483,6 +499,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 18926,
+      "num": 20948,
+      "word": "夏天最喜欢的几款香水",
+      "onboard_time": 1715805671,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 17862,
       "num": 17862,
       "word": "在大学当高中生",
@@ -505,14 +529,6 @@
       "onboard_time": 1715800391,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14042,
-      "num": 17349,
-      "word": "夏天最喜欢的几款香水",
-      "onboard_time": 1715805671,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 13051,
