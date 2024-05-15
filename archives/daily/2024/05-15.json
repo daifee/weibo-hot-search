@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715783707566,
+  "endTime": 1715786310983,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -97,6 +97,14 @@
       "onboard_time": 1715729955,
       "rank": 1,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 1399392,
+      "num": 1399392,
+      "word": "韩佩泉报名歌手成功",
+      "onboard_time": 1715783538,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1368743,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 902413,
-      "num": 255121,
+      "num": 273438,
       "word": "1岁女婴被大伯母投毒致四肢瘫痪",
       "onboard_time": 1715778077,
       "rank": 21,
@@ -313,6 +321,14 @@
       "onboard_time": 1715732240,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 747814,
+      "num": 277713,
+      "word": "美国18岁女罪犯因颜值超高爆红",
+      "onboard_time": 1715782458,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 741698,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 634590,
-      "num": 249670,
+      "num": 268273,
       "word": "发现和没上过班的人很难交流",
       "onboard_time": 1715771357,
       "rank": 32,
@@ -475,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589311,
-      "num": 240019,
-      "word": "美国18岁女罪犯因颜值超高爆红",
-      "onboard_time": 1715782458,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 588828,
+      "num": 508982,
+      "word": "李溪芮张腾与代驾发生冲突全过程",
+      "onboard_time": 1715783659,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 583453,
@@ -609,6 +625,14 @@
       "onboard_time": 1715699000,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 495291,
+      "num": 357278,
+      "word": "王力宏 歌手",
+      "onboard_time": 1715785819,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 490071,
@@ -923,6 +947,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 368903,
+      "num": 368903,
+      "word": "幼儿园被指甲醛超标致60多人流血",
+      "onboard_time": 1715784920,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368099,
       "num": 162614,
       "word": "女子大量咳血体内有个20岁肿瘤",
@@ -1003,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327433,
-      "num": 236656,
-      "word": "韩佩泉报名歌手成功",
-      "onboard_time": 1715783538,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 327090,
       "num": 327090,
       "word": "中国女排3比0韩国女排",
@@ -1019,12 +1043,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326682,
+      "num": 269919,
+      "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
+      "onboard_time": 1715785639,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326567,
       "num": 326567,
       "word": "黄循财就任新加坡总理",
       "onboard_time": 1715777237,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 322673,
+      "num": 322673,
+      "word": "暖阳女友发博回应",
+      "onboard_time": 1715782758,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 321751,
@@ -1363,6 +1403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240867,
+      "num": 240867,
+      "word": "张静初回应凹学霸人设",
+      "onboard_time": 1715785099,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 240150,
+      "num": 279166,
+      "word": "全局BP",
+      "onboard_time": 1715784318,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236008,
       "num": 236008,
       "word": "TES幽默",
@@ -1393,14 +1449,6 @@
       "onboard_time": 1715739197,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234248,
-      "num": 234248,
-      "word": "暖阳女友发博回应",
-      "onboard_time": 1715782758,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 234147,
@@ -1505,6 +1553,14 @@
       "onboard_time": 1715746939,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221805,
+      "num": 221805,
+      "word": "小学六年级的李惠仁",
+      "onboard_time": 1715784019,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220637,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1715750358,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200341,
+      "num": 200341,
+      "word": "高血压孕妇拒用药产后确诊子痫",
+      "onboard_time": 1715783058,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199618,
@@ -1987,6 +2051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 183814,
+      "num": 183814,
+      "word": "新生 强行上价值",
+      "onboard_time": 1715784318,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182940,
       "num": 182940,
       "word": "快乐老友记 两大群像",
@@ -2147,14 +2219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171701,
-      "num": 171701,
-      "word": "高血压孕妇拒用药产后确诊子痫",
-      "onboard_time": 1715783058,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171141,
       "num": 171141,
       "word": "爱丽丝门罗去世",
@@ -2291,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156466,
+      "num": 156466,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1715784619,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155602,
       "num": 155602,
       "word": "多方回应青岛11岁女童疑遭误诊去世",
@@ -2345,6 +2417,14 @@
       "onboard_time": 1715778918,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 152499,
+      "num": 152499,
+      "word": "微软回应中国AI团队被打包去美国",
+      "onboard_time": 1715783720,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 151779,
@@ -2491,6 +2571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138321,
+      "num": 138321,
+      "word": "李溪芮的拖鞋打伤代驾",
+      "onboard_time": 1715756477,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137721,
       "num": 137721,
       "word": "上海申花2比0青岛海牛",
@@ -2529,14 +2617,6 @@
       "onboard_time": 1715764097,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135020,
-      "num": 135020,
-      "word": "李溪芮张腾与代驾发生冲突全过程",
-      "onboard_time": 1715783659,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 132774,
@@ -2667,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126347,
+      "num": 126347,
+      "word": "专家称过度防晒或导致缺钙闷痘",
+      "onboard_time": 1715786178,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 126064,
       "num": 126064,
       "word": "辽篮",
@@ -2705,6 +2793,14 @@
       "onboard_time": 1715728514,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122383,
+      "num": 122383,
+      "word": "狗狗见到喜欢的狗狗",
+      "onboard_time": 1715786060,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 121679,
@@ -3163,7 +3259,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55174,
+      "raw_hot": 55221,
       "num": 396377,
       "word": "乐道L60百公里电耗低至12.1",
       "onboard_time": 1715781918,
@@ -3185,6 +3281,14 @@
       "onboard_time": 1715710512,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47990,
+      "num": 362874,
+      "word": "95后小伙毕业后回乡当村医",
+      "onboard_time": 1715784799,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 47542,
