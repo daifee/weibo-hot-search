@@ -1,0 +1,410 @@
+{
+  "runTime": 1715754278754,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1485155,
+        "num": 1485155,
+        "word": "正准备提离职结果被裁了",
+        "onboard_time": 1715752218,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1418119,
+        "num": 1418119,
+        "word": "未婚女性不能使用精子库供精去父留子",
+        "onboard_time": 1715743519,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19974,
+        "num": 1097318,
+        "word": "阔步迈向网络强国",
+        "onboard_time": 1715741237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982470,
+        "num": 982470,
+        "word": "苗苗扎紧点漂亮",
+        "onboard_time": 1715752579,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617996,
+        "num": 617996,
+        "word": "西安山姆会员店变考古现场",
+        "onboard_time": 1715746822,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593276,
+        "num": 593276,
+        "word": "马天宇辣评歌手",
+        "onboard_time": 1715745739,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532038,
+        "num": 532038,
+        "word": "月薪两万不敢在商场买衣服",
+        "onboard_time": 1715734099,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 512536,
+        "num": 512536,
+        "word": "华理回应12岁女孩被男生隔空猥亵",
+        "onboard_time": 1715748381,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478656,
+        "num": 478656,
+        "word": "健身房又偶遇王俊凯",
+        "onboard_time": 1715751978,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86034,
+        "num": 466872,
+        "word": "樊振东最后一舞舞个尽兴",
+        "onboard_time": 1715750420,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1032385,
+        "num": 464526,
+        "word": "鹿晗在路边吐了",
+        "onboard_time": 1715746279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460461,
+        "num": 460461,
+        "word": "戛纳 0特写",
+        "onboard_time": 1715745380,
+        "rank": 11,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 417772,
+        "num": 417772,
+        "word": "新生结局",
+        "onboard_time": 1715752458,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413995,
+        "num": 413995,
+        "word": "造谣大陆吃不起茶叶蛋的人将被惩戒",
+        "onboard_time": 1715742797,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394408,
+        "num": 394408,
+        "word": "戛纳 网红",
+        "onboard_time": 1715745140,
+        "rank": 14,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 381938,
+        "num": 381938,
+        "word": "D社确认方时赫无视Newjeans成员",
+        "onboard_time": 1715750778,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322973,
+        "num": 322973,
+        "word": "下班后回复微信算加班吗",
+        "onboard_time": 1715745441,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 284540,
+        "num": 284540,
+        "word": "世界之外",
+        "onboard_time": 1715752997,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266113,
+        "num": 266113,
+        "word": "Rookie爆料TheShy气走教练",
+        "onboard_time": 1715748321,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225153,
+        "num": 225153,
+        "word": "樊振东发博说最后一舞",
+        "onboard_time": 1715747301,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80002,
+        "num": 225138,
+        "word": "朵莉亚海诺主题曲绝美合唱",
+        "onboard_time": 1715750299,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327473,
+        "num": 225109,
+        "word": "偶像塌房险",
+        "onboard_time": 1715752279,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303300,
+        "num": 225081,
+        "word": "成毅 一番男主",
+        "onboard_time": 1715743819,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292454,
+        "num": 225067,
+        "word": "贾玲代言",
+        "onboard_time": 1715742919,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258063,
+        "num": 225036,
+        "word": "清华大学30年来男女比例变化",
+        "onboard_time": 1715751859,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251993,
+        "num": 225006,
+        "word": "因为追星被相亲对象拒绝",
+        "onboard_time": 1715752518,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249743,
+        "num": 224988,
+        "word": "IVE",
+        "onboard_time": 1715751378,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227413,
+        "num": 224972,
+        "word": "戛纳",
+        "onboard_time": 1715753298,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224947,
+        "num": 224947,
+        "word": "凤凰传奇二开",
+        "onboard_time": 1715747179,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206505,
+        "num": 206505,
+        "word": "地磁暴的这几天你睡眠如何",
+        "onboard_time": 1715730737,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 200896,
+        "num": 200896,
+        "word": "潘粤明王鹤棣演的师徒",
+        "onboard_time": 1715752879,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198127,
+        "num": 198127,
+        "word": "当代年轻人不生孩子的原因",
+        "onboard_time": 1715750960,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197360,
+        "num": 197360,
+        "word": "香港一医院就误切女子子宫致歉",
+        "onboard_time": 1715729955,
+        "rank": 32,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 196825,
+        "num": 196825,
+        "word": "优酷是没有保险瓶颈期吗",
+        "onboard_time": 1715752637,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196738,
+        "num": 196738,
+        "word": "汪苏泷2024十万伏特巡回演唱会",
+        "onboard_time": 1715753119,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193948,
+        "num": 193948,
+        "word": "死亡的20只东北虎有10只是幼虎",
+        "onboard_time": 1715734398,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191923,
+        "num": 191923,
+        "word": "大风吹倒路灯行人被砸身亡",
+        "onboard_time": 1715750898,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176453,
+        "num": 176453,
+        "word": "杨洋一天三部",
+        "onboard_time": 1715743699,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172940,
+        "num": 172940,
+        "word": "藏海传",
+        "onboard_time": 1715740037,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172741,
+        "num": 172741,
+        "word": "花2万元拍一张写真",
+        "onboard_time": 1715751078,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 160487,
+        "num": 160487,
+        "word": "酱园弄 戛纳",
+        "onboard_time": 1715744959,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159338,
+        "num": 159338,
+        "word": "这么小的榴莲却这么懂事",
+        "onboard_time": 1715738538,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159149,
+        "num": 159149,
+        "word": "韩国街道有种对生活的向往",
+        "onboard_time": 1715753899,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 155427,
+        "num": 155427,
+        "word": "歌手预测",
+        "onboard_time": 1715731639,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139193,
+        "num": 139193,
+        "word": "赵露思珠帘玉幕水下镜头",
+        "onboard_time": 1715751677,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130179,
+        "num": 130179,
+        "word": "跳远是一件很私密的事",
+        "onboard_time": 1715750717,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134854,
+        "num": 130160,
+        "word": "歌手",
+        "onboard_time": 1715754138,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129130,
+        "num": 129130,
+        "word": "张杰演唱会开盲盒模式",
+        "onboard_time": 1715750058,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125343,
+        "num": 125343,
+        "word": "陆军多型直升机跨昼夜飞训现场",
+        "onboard_time": 1715754078,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 124290,
+        "num": 124290,
+        "word": "苏晓彤一天官宣两部剧",
+        "onboard_time": 1715749522,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#建立绿色低碳循环经济体系#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715751271380,
+  "endTime": 1715754278754,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -345,6 +345,14 @@
       "onboard_time": 1715685620,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1485155,
+      "num": 1485155,
+      "word": "正准备提离职结果被裁了",
+      "onboard_time": 1715752218,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 1483564,
@@ -857,6 +865,14 @@
       "onboard_time": 1715730737,
       "rank": 5,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 982470,
+      "num": 982470,
+      "word": "苗苗扎紧点漂亮",
+      "onboard_time": 1715752579,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 972569,
@@ -2499,6 +2515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 478656,
+      "num": 478656,
+      "word": "健身房又偶遇王俊凯",
+      "onboard_time": 1715751978,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478124,
       "num": 478124,
       "word": "班级成绩第一老师请全班吃烤全羊",
@@ -2883,6 +2907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 417772,
+      "num": 417772,
+      "word": "新生结局",
+      "onboard_time": 1715752458,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416780,
       "num": 295853,
       "word": "杭州退休人员接了个电话400万没了",
@@ -3209,6 +3241,14 @@
       "onboard_time": 1715735478,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381938,
+      "num": 381938,
+      "word": "D社确认方时赫无视Newjeans成员",
+      "onboard_time": 1715750778,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 381728,
@@ -3715,6 +3755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327473,
+      "num": 225109,
+      "word": "偶像塌房险",
+      "onboard_time": 1715752279,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327348,
       "num": 205157,
       "word": "子宫受压或改变胎儿面貌",
@@ -3793,14 +3841,6 @@
       "onboard_time": 1715683697,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 320627,
-      "num": 244046,
-      "word": "D社确认方时赫无视Newjeans成员",
-      "onboard_time": 1715750778,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 319127,
@@ -4113,6 +4153,14 @@
       "onboard_time": 1715641514,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 284540,
+      "num": 284540,
+      "word": "世界之外",
+      "onboard_time": 1715752997,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 284411,
@@ -4531,6 +4579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258063,
+      "num": 225036,
+      "word": "清华大学30年来男女比例变化",
+      "onboard_time": 1715751859,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 257572,
       "num": 257572,
       "word": "恋与深空",
@@ -4659,6 +4715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251993,
+      "num": 225006,
+      "word": "因为追星被相亲对象拒绝",
+      "onboard_time": 1715752518,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251905,
       "num": 205163,
       "word": "dream个泰勒",
@@ -4697,6 +4761,14 @@
       "onboard_time": 1715559317,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249743,
+      "num": 224988,
+      "word": "IVE",
+      "onboard_time": 1715751378,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 249682,
@@ -5009,6 +5081,14 @@
       "onboard_time": 1715697861,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227413,
+      "num": 224972,
+      "word": "戛纳",
+      "onboard_time": 1715753298,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 227283,
@@ -5715,6 +5795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200896,
+      "num": 200896,
+      "word": "潘粤明王鹤棣演的师徒",
+      "onboard_time": 1715752879,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200881,
       "num": 200881,
       "word": "上海奥运会资格系列赛",
@@ -5915,6 +6003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196825,
+      "num": 196825,
+      "word": "优酷是没有保险瓶颈期吗",
+      "onboard_time": 1715752637,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196612,
       "num": 196612,
       "word": "孙颖莎 球不落地永不放弃",
@@ -6105,6 +6201,14 @@
       "onboard_time": 1715433740,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191923,
+      "num": 191923,
+      "word": "大风吹倒路灯行人被砸身亡",
+      "onboard_time": 1715750898,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191840,
@@ -6763,6 +6867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172741,
+      "num": 172741,
+      "word": "花2万元拍一张写真",
+      "onboard_time": 1715751078,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 172476,
       "num": 172476,
       "word": "秦岚没张嘴但感觉话好密",
@@ -7275,14 +7387,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 161439,
-      "num": 161439,
-      "word": "大风吹倒路灯行人被砸身亡",
-      "onboard_time": 1715750898,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161270,
       "num": 158293,
       "word": "终于知道为啥吃饭不让说话了",
@@ -7329,6 +7433,14 @@
       "onboard_time": 1715589858,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159149,
+      "num": 159149,
+      "word": "韩国街道有种对生活的向往",
+      "onboard_time": 1715753899,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 158901,
@@ -7636,7 +7748,7 @@
     },
     {
       "raw_hot": 149505,
-      "num": 258340,
+      "num": 466872,
       "word": "樊振东最后一舞舞个尽兴",
       "onboard_time": 1715750420,
       "rank": 18,
@@ -7665,14 +7777,6 @@
       "onboard_time": 1715679378,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148618,
-      "num": 148618,
-      "word": "花2万元拍一张写真",
-      "onboard_time": 1715751078,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 148538,
@@ -8027,6 +8131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139193,
+      "num": 139193,
+      "word": "赵露思珠帘玉幕水下镜头",
+      "onboard_time": 1715751677,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139184,
       "num": 284432,
       "word": "灭霸vivoX100Ultra发布",
@@ -8315,6 +8427,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 130179,
+      "num": 130179,
+      "word": "跳远是一件很私密的事",
+      "onboard_time": 1715750717,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129900,
       "num": 129900,
       "word": "我的阿勒泰",
@@ -8481,6 +8601,14 @@
       "onboard_time": 1715664857,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125343,
+      "num": 125343,
+      "word": "陆军多型直升机跨昼夜飞训现场",
+      "onboard_time": 1715754078,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 125278,
@@ -9435,6 +9563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 80002,
+      "num": 250494,
+      "word": "朵莉亚海诺主题曲绝美合唱",
+      "onboard_time": 1715750299,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79915,
       "num": 95038,
       "word": "周琦说想打G5确实身体撑不住",
@@ -9505,14 +9641,6 @@
       "onboard_time": 1715497218,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71543,
-      "num": 250494,
-      "word": "朵莉亚海诺主题曲绝美合唱",
-      "onboard_time": 1715750299,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 71068,

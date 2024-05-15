@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715751271380,
+  "endTime": 1715754278754,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -33,6 +33,14 @@
       "onboard_time": 1715742797,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1485155,
+      "num": 1485155,
+      "word": "正准备提离职结果被裁了",
+      "onboard_time": 1715752218,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 1405399,
@@ -121,6 +129,14 @@
       "onboard_time": 1715730737,
       "rank": 5,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 982470,
+      "num": 982470,
+      "word": "苗苗扎紧点漂亮",
+      "onboard_time": 1715752579,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 971930,
@@ -331,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 478656,
+      "num": 478656,
+      "word": "健身房又偶遇王俊凯",
+      "onboard_time": 1715751978,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460953,
       "num": 342243,
       "word": "这5种炎症可能会演变成癌症",
@@ -385,6 +409,14 @@
       "onboard_time": 1715743038,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 417772,
+      "num": 417772,
+      "word": "新生结局",
+      "onboard_time": 1715752458,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 411570,
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381938,
+      "num": 381938,
+      "word": "D社确认方时赫无视Newjeans成员",
+      "onboard_time": 1715750778,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381239,
       "num": 381239,
       "word": "戛纳电影节",
@@ -515,20 +555,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327473,
+      "num": 225109,
+      "word": "偶像塌房险",
+      "onboard_time": 1715752279,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327090,
       "num": 327090,
       "word": "中国女排3比0韩国女排",
       "onboard_time": 1715728274,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320627,
-      "num": 244046,
-      "word": "D社确认方时赫无视Newjeans成员",
-      "onboard_time": 1715750778,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 319786,
@@ -592,6 +632,14 @@
       "word": "阴阳师",
       "onboard_time": 1715735658,
       "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 284540,
+      "num": 284540,
+      "word": "世界之外",
+      "onboard_time": 1715752997,
+      "rank": 17,
       "category": "游戏"
     },
     {
@@ -667,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258063,
+      "num": 225036,
+      "word": "清华大学30年来男女比例变化",
+      "onboard_time": 1715751859,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 256790,
       "num": 256790,
       "word": "湖大回应留学生称南海诸岛是越南领土",
@@ -691,12 +747,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251993,
+      "num": 225006,
+      "word": "因为追星被相亲对象拒绝",
+      "onboard_time": 1715752518,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251348,
       "num": 251348,
       "word": "为什么江浙没有夜生活",
       "onboard_time": 1715737818,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249743,
+      "num": 224988,
+      "word": "IVE",
+      "onboard_time": 1715751378,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 246080,
@@ -761,6 +833,14 @@
       "onboard_time": 1715736917,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227413,
+      "num": 224972,
+      "word": "戛纳",
+      "onboard_time": 1715753298,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 223861,
@@ -875,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200896,
+      "num": 200896,
+      "word": "潘粤明王鹤棣演的师徒",
+      "onboard_time": 1715752879,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200782,
       "num": 200782,
       "word": "宋威龙鞠婧祎单人海报",
@@ -923,6 +1011,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196825,
+      "num": 196825,
+      "word": "优酷是没有保险瓶颈期吗",
+      "onboard_time": 1715752637,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196738,
+      "num": 196738,
+      "word": "汪苏泷2024十万伏特巡回演唱会",
+      "onboard_time": 1715753119,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195108,
       "num": 195108,
       "word": "地磁暴",
@@ -953,6 +1057,14 @@
       "onboard_time": 1715735058,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 191923,
+      "num": 191923,
+      "word": "大风吹倒路灯行人被砸身亡",
+      "onboard_time": 1715750898,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191069,
@@ -1083,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172741,
+      "num": 172741,
+      "word": "花2万元拍一张写真",
+      "onboard_time": 1715751078,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 171900,
       "num": 171900,
       "word": "陈晓杨子姗三搭",
@@ -1147,20 +1267,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161439,
-      "num": 161439,
-      "word": "大风吹倒路灯行人被砸身亡",
-      "onboard_time": 1715750898,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160878,
       "num": 160878,
       "word": "方里代言人何浩楠",
       "onboard_time": 1715744118,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159149,
+      "num": 159149,
+      "word": "韩国街道有种对生活的向往",
+      "onboard_time": 1715753899,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 155602,
@@ -1212,19 +1332,11 @@
     },
     {
       "raw_hot": 149505,
-      "num": 258340,
+      "num": 466872,
       "word": "樊振东最后一舞舞个尽兴",
       "onboard_time": 1715750420,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148618,
-      "num": 148618,
-      "word": "花2万元拍一张写真",
-      "onboard_time": 1715751078,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 148536,
@@ -1267,6 +1379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 139193,
+      "num": 139193,
+      "word": "赵露思珠帘玉幕水下镜头",
+      "onboard_time": 1715751677,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139156,
       "num": 139156,
       "word": "杨洋韩立踏山而来海报",
@@ -1299,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134854,
+      "num": 130160,
+      "word": "歌手",
+      "onboard_time": 1715754138,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132398,
       "num": 132398,
       "word": "狗狗Messi走戛纳红毯",
@@ -1313,6 +1441,14 @@
       "onboard_time": 1715696301,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130179,
+      "num": 130179,
+      "word": "跳远是一件很私密的事",
+      "onboard_time": 1715750717,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 129784,
@@ -1337,6 +1473,14 @@
       "onboard_time": 1715729235,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125343,
+      "num": 125343,
+      "word": "陆军多型直升机跨昼夜飞训现场",
+      "onboard_time": 1715754078,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 125278,
@@ -1515,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80002,
+      "num": 250494,
+      "word": "朵莉亚海诺主题曲绝美合唱",
+      "onboard_time": 1715750299,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 77829,
       "num": 77829,
       "word": "TES 管泽元",
@@ -1577,14 +1729,6 @@
       "onboard_time": 1715694320,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71543,
-      "num": 250494,
-      "word": "朵莉亚海诺主题曲绝美合唱",
-      "onboard_time": 1715750299,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 69233,
