@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715741019939,
+  "endTime": 1715743405150,
   "band_list": [
     {
       "raw_hot": 2162287,
@@ -17,6 +17,14 @@
       "onboard_time": 1715729955,
       "rank": 1,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 1368743,
+      "num": 1368743,
+      "word": "藏海传",
+      "onboard_time": 1715740037,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 1238890,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1036013,
+      "num": 1036013,
+      "word": "这么小的榴莲却这么懂事",
+      "onboard_time": 1715738538,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 993759,
       "num": 993759,
       "word": "地磁暴的这几天你睡眠如何",
@@ -60,18 +76,10 @@
     },
     {
       "raw_hot": 971930,
-      "num": 685895,
+      "num": 786892,
       "word": "优酷官宣甄嬛传团综",
       "onboard_time": 1715738658,
       "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 892530,
-      "num": 655547,
-      "word": "藏海传",
-      "onboard_time": 1715740037,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -91,12 +99,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 672224,
-      "num": 672224,
-      "word": "这么小的榴莲却这么懂事",
-      "onboard_time": 1715738538,
-      "rank": 10,
-      "category": "美食"
+      "raw_hot": 714702,
+      "num": 714702,
+      "word": "致3岁男童死亡恶犬仍下落不明",
+      "onboard_time": 1715737338,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678111,
+      "num": 678111,
+      "word": "长安二十四计官宣",
+      "onboard_time": 1715740998,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 659504,
@@ -105,6 +121,14 @@
       "onboard_time": 1715729837,
       "rank": 6,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 657845,
+      "num": 657845,
+      "word": "造谣大陆吃不起茶叶蛋的人将被惩戒",
+      "onboard_time": 1715742797,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 640917,
@@ -121,6 +145,14 @@
       "onboard_time": 1715731878,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 610682,
+      "num": 610682,
+      "word": "四月初八",
+      "onboard_time": 1715737219,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605991,
@@ -151,14 +183,6 @@
       "num": 576359,
       "word": "河南3岁男童被恶犬咬伤18天后离世",
       "onboard_time": 1715727794,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572194,
-      "num": 572194,
-      "word": "致3岁男童死亡恶犬仍下落不明",
-      "onboard_time": 1715737338,
       "rank": 8,
       "category": "社会新闻"
     },
@@ -195,12 +219,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 469124,
+      "num": 469124,
+      "word": "国际奥委会称马龙是奥运乒乓比赛史上最成功球员",
+      "onboard_time": 1715741119,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460953,
-      "num": 280620,
+      "num": 322511,
       "word": "这5种炎症可能会演变成癌症",
       "onboard_time": 1715738057,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 457595,
+      "num": 457595,
+      "word": "小米SU7交付量破万创纪录",
+      "onboard_time": 1715739856,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 447858,
@@ -211,11 +251,11 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 437257,
-      "num": 437257,
-      "word": "四月初八",
-      "onboard_time": 1715737219,
-      "rank": 18,
+      "raw_hot": 435808,
+      "num": 435808,
+      "word": "长城炮回应车主被电动帐篷卡脖身亡",
+      "onboard_time": 1715741418,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -275,12 +315,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 376004,
+      "num": 320157,
+      "word": "原来血型影响睡眠是真的",
+      "onboard_time": 1715740939,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 373476,
       "num": 373476,
       "word": "卷款3500万跑路网店关联公司已注销",
       "onboard_time": 1715709552,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371526,
+      "num": 371526,
+      "word": "贾玲代言",
+      "onboard_time": 1715742919,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 368099,
@@ -312,6 +368,14 @@
       "word": "庆余年",
       "onboard_time": 1715733622,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 355888,
+      "num": 355888,
+      "word": "刘诗诗面纱海报",
+      "onboard_time": 1715740699,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -363,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303160,
-      "num": 278874,
-      "word": "刘诗诗面纱海报",
-      "onboard_time": 1715740699,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 288973,
       "num": 288973,
       "word": "阴阳师",
@@ -379,19 +435,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 287398,
-      "num": 287398,
-      "word": "小米SU7交付量破万创纪录",
-      "onboard_time": 1715739856,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 278074,
       "num": 278074,
       "word": "心疼费可",
       "onboard_time": 1715699900,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277549,
+      "num": 277549,
+      "word": "掌心首发全阵容",
+      "onboard_time": 1715742738,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -411,12 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271884,
+      "num": 271884,
+      "word": "TheShy为下班暴虐Uzi队",
+      "onboard_time": 1715743038,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 265377,
       "num": 265377,
       "word": "珠帘玉幕",
       "onboard_time": 1715740098,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263939,
+      "num": 263939,
+      "word": "19岁的沈月",
+      "onboard_time": 1715742318,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 259257,
@@ -459,20 +531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246080,
+      "num": 233911,
+      "word": "林俊杰歌手舞台曾帮唱张杰",
+      "onboard_time": 1715737398,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241101,
       "num": 241101,
       "word": "沈小婷回国第一站跑男",
       "onboard_time": 1715711292,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240006,
-      "num": 240006,
-      "word": "长安二十四计官宣",
-      "onboard_time": 1715740998,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 236008,
@@ -491,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234394,
+      "num": 234394,
+      "word": "张桂梅的学生入伍后再破纪录",
+      "onboard_time": 1715739197,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233472,
       "num": 199539,
       "word": "王妈赵管家be了",
@@ -505,6 +585,14 @@
       "onboard_time": 1715736917,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227275,
+      "num": 227275,
+      "word": "咏月风雅公测",
+      "onboard_time": 1715742797,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 223861,
@@ -523,14 +611,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 215899,
-      "num": 215899,
-      "word": "林俊杰歌手舞台曾帮唱张杰",
-      "onboard_time": 1715737398,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214487,
       "num": 214487,
       "word": "离婚搭子好小众的文字",
@@ -545,14 +625,6 @@
       "onboard_time": 1715736317,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205357,
-      "num": 205357,
-      "word": "张桂梅的学生入伍后再破纪录",
-      "onboard_time": 1715739197,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202304,
@@ -633,6 +705,14 @@
       "onboard_time": 1715731758,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184126,
+      "num": 184126,
+      "word": "马克龙就囚车遇袭事件发声",
+      "onboard_time": 1715741778,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 182313,
@@ -739,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153452,
+      "num": 153452,
+      "word": "太阳爆发了X8.7级耀斑",
+      "onboard_time": 1715741119,
+      "rank": 43,
+      "category": "科学科普,社会新闻"
+    },
+    {
       "raw_hot": 151281,
       "num": 297892,
       "word": "刘翔好久不见",
@@ -755,6 +843,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148536,
+      "num": 148536,
+      "word": "度华年",
+      "onboard_time": 1715741898,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147908,
+      "num": 147908,
+      "word": "黑夜告白",
+      "onboard_time": 1715743278,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147901,
       "num": 147901,
       "word": "魏如萱也想去歌手",
@@ -769,6 +873,14 @@
       "onboard_time": 1715674759,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145575,
+      "num": 145575,
+      "word": "长城炮",
+      "onboard_time": 1715743338,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141307,
@@ -865,14 +977,6 @@
       "onboard_time": 1715727614,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124926,
-      "num": 124926,
-      "word": "原来血型影响睡眠是真的",
-      "onboard_time": 1715740939,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 124408,
@@ -1028,7 +1132,7 @@
     },
     {
       "raw_hot": 88264,
-      "num": 557013,
+      "num": 630802,
       "word": "二孩妈妈用22年从中专读到博士",
       "onboard_time": 1715734278,
       "rank": 9,
@@ -1115,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60333,
+      "num": 213650,
+      "word": "雪王珍宝珠520官宣",
+      "onboard_time": 1715742977,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56418,
       "num": 56418,
       "word": "G2对战TES",
@@ -1168,6 +1280,22 @@
       "word": "男子来派出所求助民警一眼认出是嫌疑人",
       "onboard_time": 1715728095,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40913,
+      "num": 193398,
+      "word": "百年之后的西游记",
+      "onboard_time": 1715742738,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 30546,
+      "num": 819962,
+      "word": "阔步迈向网络强国",
+      "onboard_time": 1715741237,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

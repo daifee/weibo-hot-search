@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715741019939,
+  "endTime": 1715743405150,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1539,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1368743,
+      "num": 1368743,
+      "word": "藏海传",
+      "onboard_time": 1715740037,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1362993,
       "num": 1362993,
       "word": "曝iPhone17将推Slim机型",
@@ -2891,6 +2899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1036013,
+      "num": 1036013,
+      "word": "这么小的榴莲却这么懂事",
+      "onboard_time": 1715738538,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1033035,
       "num": 1033035,
       "word": "詹雯婷发长文",
@@ -3092,7 +3108,7 @@
     },
     {
       "raw_hot": 971930,
-      "num": 685895,
+      "num": 786892,
       "word": "优酷官宣甄嬛传团综",
       "onboard_time": 1715738658,
       "rank": 4,
@@ -3545,14 +3561,6 @@
       "onboard_time": 1715511443,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 892530,
-      "num": 655547,
-      "word": "藏海传",
-      "onboard_time": 1715740037,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 892284,
@@ -5251,6 +5259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 714702,
+      "num": 714702,
+      "word": "致3岁男童死亡恶犬仍下落不明",
+      "onboard_time": 1715737338,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712529,
       "num": 712529,
       "word": "六月份上班好划算",
@@ -5739,6 +5755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678111,
+      "num": 678111,
+      "word": "长安二十四计官宣",
+      "onboard_time": 1715740998,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 678101,
       "num": 678101,
       "word": "44岁体操皇后刘璇再上平衡木",
@@ -5809,14 +5833,6 @@
       "onboard_time": 1714636278,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 672224,
-      "num": 672224,
-      "word": "这么小的榴莲却这么懂事",
-      "onboard_time": 1715738538,
-      "rank": 10,
-      "category": "美食"
     },
     {
       "raw_hot": 671952,
@@ -6017,6 +6033,14 @@
       "onboard_time": 1715233697,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 657845,
+      "num": 657845,
+      "word": "造谣大陆吃不起茶叶蛋的人将被惩戒",
+      "onboard_time": 1715742797,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 657353,
@@ -6835,6 +6859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610682,
+      "num": 610682,
+      "word": "四月初八",
+      "onboard_time": 1715737219,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610604,
       "num": 610604,
       "word": "苗苗用了李晨的化妆师",
@@ -7296,14 +7328,6 @@
       "word": "河南文物局已去河大礼堂现场",
       "onboard_time": 1714706357,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572194,
-      "num": 572194,
-      "word": "致3岁男童死亡恶犬仍下落不明",
-      "onboard_time": 1715737338,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -9371,6 +9395,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 469124,
+      "num": 469124,
+      "word": "国际奥委会称马龙是奥运乒乓比赛史上最成功球员",
+      "onboard_time": 1715741119,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468729,
       "num": 468729,
       "word": "疑理想汽车无人驾驶副驾坐着孩子",
@@ -9596,7 +9628,7 @@
     },
     {
       "raw_hot": 460953,
-      "num": 280620,
+      "num": 322511,
       "word": "这5种炎症可能会演变成癌症",
       "onboard_time": 1715738057,
       "rank": 21,
@@ -9705,6 +9737,14 @@
       "onboard_time": 1715050878,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 457595,
+      "num": 457595,
+      "word": "小米SU7交付量破万创纪录",
+      "onboard_time": 1715739856,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 457565,
@@ -10187,14 +10227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437257,
-      "num": 437257,
-      "word": "四月初八",
-      "onboard_time": 1715737219,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 437147,
       "num": 437147,
       "word": "肉放冷冻层保质期就是一辈子吗",
@@ -10225,6 +10257,14 @@
       "onboard_time": 1714974318,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 435808,
+      "num": 435808,
+      "word": "长城炮回应车主被电动帐篷卡脖身亡",
+      "onboard_time": 1715741418,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435331,
@@ -12091,6 +12131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376004,
+      "num": 320157,
+      "word": "原来血型影响睡眠是真的",
+      "onboard_time": 1715740939,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 375864,
       "num": 375864,
       "word": "松原地震",
@@ -12257,6 +12305,14 @@
       "onboard_time": 1715344521,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 371526,
+      "num": 371526,
+      "word": "贾玲代言",
+      "onboard_time": 1715742919,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 371477,
@@ -12816,6 +12872,14 @@
       "word": "庆余年",
       "onboard_time": 1714984939,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 355888,
+      "num": 355888,
+      "word": "刘诗诗面纱海报",
+      "onboard_time": 1715740699,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -14739,14 +14803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303160,
-      "num": 278874,
-      "word": "刘诗诗面纱海报",
-      "onboard_time": 1715740699,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 303078,
       "num": 286533,
       "word": "原来我们都错怪费可了",
@@ -15305,14 +15361,6 @@
       "onboard_time": 1715129422,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287398,
-      "num": 287398,
-      "word": "小米SU7交付量破万创纪录",
-      "onboard_time": 1715739856,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 287036,
@@ -15923,6 +15971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277549,
+      "num": 277549,
+      "word": "掌心首发全阵容",
+      "onboard_time": 1715742738,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277436,
       "num": 252899,
       "word": "晚安大小姐打歌舞台",
@@ -16201,6 +16257,14 @@
       "onboard_time": 1715303179,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 271884,
+      "num": 271884,
+      "word": "TheShy为下班暴虐Uzi队",
+      "onboard_time": 1715743038,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 271852,
@@ -16657,6 +16721,14 @@
       "onboard_time": 1715004982,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263939,
+      "num": 263939,
+      "word": "19岁的沈月",
+      "onboard_time": 1715742318,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 263675,
@@ -17763,6 +17835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 246080,
+      "num": 233911,
+      "word": "林俊杰歌手舞台曾帮唱张杰",
+      "onboard_time": 1715737398,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245792,
       "num": 801150,
       "word": "送这种花妈妈根本无法拒绝",
@@ -18129,14 +18209,6 @@
       "onboard_time": 1714636997,
       "rank": 23,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 240006,
-      "num": 240006,
-      "word": "长安二十四计官宣",
-      "onboard_time": 1715740998,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 239908,
@@ -18545,6 +18617,14 @@
       "onboard_time": 1715005160,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234394,
+      "num": 234394,
+      "word": "张桂梅的学生入伍后再破纪录",
+      "onboard_time": 1715739197,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234227,
@@ -19081,6 +19161,14 @@
       "onboard_time": 1715581038,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 227275,
+      "num": 227275,
+      "word": "咏月风雅公测",
+      "onboard_time": 1715742797,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 227259,
@@ -20073,14 +20161,6 @@
       "onboard_time": 1714956499,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215899,
-      "num": 215899,
-      "word": "林俊杰歌手舞台曾帮唱张杰",
-      "onboard_time": 1715737398,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 215665,
@@ -21297,14 +21377,6 @@
       "onboard_time": 1715087000,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 205357,
-      "num": 205357,
-      "word": "张桂梅的学生入伍后再破纪录",
-      "onboard_time": 1715739197,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205286,
@@ -24921,6 +24993,14 @@
       "onboard_time": 1715142623,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184126,
+      "num": 184126,
+      "word": "马克龙就囚车遇袭事件发声",
+      "onboard_time": 1715741778,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 184096,
@@ -29643,6 +29723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153452,
+      "num": 153452,
+      "word": "太阳爆发了X8.7级耀斑",
+      "onboard_time": 1715741119,
+      "rank": 43,
+      "category": "科学科普,社会新闻"
+    },
+    {
       "raw_hot": 153449,
       "num": 153449,
       "word": "河南一出租车坠河5人落水",
@@ -30427,6 +30515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148536,
+      "num": 148536,
+      "word": "度华年",
+      "onboard_time": 1715741898,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148497,
       "num": 148497,
       "word": "尼克斯2比0步行者",
@@ -30497,6 +30593,14 @@
       "onboard_time": 1714535477,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 147908,
+      "num": 147908,
+      "word": "黑夜告白",
+      "onboard_time": 1715743278,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 147901,
@@ -30873,6 +30977,14 @@
       "onboard_time": 1714653739,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145575,
+      "num": 145575,
+      "word": "长城炮",
+      "onboard_time": 1715743338,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145510,
@@ -34104,14 +34216,6 @@
       "word": "总是突然口干舌燥别以为是缺水",
       "onboard_time": 1714680250,
       "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 124926,
-      "num": 124926,
-      "word": "原来血型影响睡眠是真的",
-      "onboard_time": 1715740939,
-      "rank": 46,
       "category": "健康医疗"
     },
     {
@@ -37684,7 +37788,7 @@
     },
     {
       "raw_hot": 88264,
-      "num": 557013,
+      "num": 630802,
       "word": "二孩妈妈用22年从中专读到博士",
       "onboard_time": 1715734278,
       "rank": 9,
@@ -38787,6 +38891,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 60333,
+      "num": 213650,
+      "word": "雪王珍宝珠520官宣",
+      "onboard_time": 1715742977,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60220,
       "num": 949898,
       "word": "塞尔维亚路牌上有中文标识",
@@ -39531,6 +39643,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 40913,
+      "num": 193398,
+      "word": "百年之后的西游记",
+      "onboard_time": 1715742738,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 40731,
       "num": 46018,
       "word": "你家文旅真拼啊",
@@ -39777,6 +39897,14 @@
       "onboard_time": 1715672119,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 30546,
+      "num": 819962,
+      "word": "阔步迈向网络强国",
+      "onboard_time": 1715741237,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30479,
