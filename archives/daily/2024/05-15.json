@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715771756980,
+  "endTime": 1715772879170,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715251,
+      "num": 715251,
+      "word": "教育部拟同意设24所本科高校",
+      "onboard_time": 1715770698,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 714702,
       "num": 714702,
       "word": "致3岁男童死亡恶犬仍下落不明",
@@ -499,6 +507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488739,
+      "num": 488739,
+      "word": "日本制铁公司熔钢锅内发现人骨",
+      "onboard_time": 1715768478,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469772,
+      "num": 469772,
+      "word": "咬伤3岁男童恶犬已被打死",
+      "onboard_time": 1715769857,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465702,
       "num": 465702,
       "word": "黄梦莹高干文女主脸",
@@ -563,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 441930,
-      "num": 441930,
-      "word": "咬伤3岁男童恶犬已被打死",
-      "onboard_time": 1715769857,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440465,
       "num": 440465,
       "word": "韩国街道有种对生活的向往",
@@ -601,14 +617,6 @@
       "onboard_time": 1715713331,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 430267,
-      "num": 430267,
-      "word": "日本制铁公司熔钢锅内发现人骨",
-      "onboard_time": 1715768478,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426770,
@@ -739,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372214,
+      "num": 231776,
+      "word": "关晓彤在努力扮演大人了",
+      "onboard_time": 1715767937,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370947,
       "num": 370947,
       "word": "法拉第未来暴涨",
@@ -811,14 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327187,
-      "num": 231776,
-      "word": "关晓彤在努力扮演大人了",
-      "onboard_time": 1715767937,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 327090,
       "num": 327090,
       "word": "中国女排3比0韩国女排",
@@ -865,14 +873,6 @@
       "onboard_time": 1715729476,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 303957,
-      "num": 303957,
-      "word": "教育部拟同意设24所本科高校",
-      "onboard_time": 1715770698,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 303747,
@@ -1083,6 +1083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 248870,
+      "num": 197635,
+      "word": "发现和没上过班的人很难交流",
+      "onboard_time": 1715771357,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246080,
       "num": 233911,
       "word": "林俊杰歌手舞台曾帮唱张杰",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1715684597,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231213,
+      "num": 231213,
+      "word": "丁真被男团endingpose硬控了",
+      "onboard_time": 1715767877,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 230596,
@@ -1339,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204060,
+      "num": 204060,
+      "word": "乐道发布会",
+      "onboard_time": 1715772197,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 202591,
       "num": 202591,
       "word": "日系才是纯爱的天花板",
@@ -1483,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194361,
+      "num": 194361,
+      "word": "林高远ARENA杂志首封",
+      "onboard_time": 1715772437,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193538,
       "num": 193538,
       "word": "河南大风",
@@ -1537,14 +1569,6 @@
       "onboard_time": 1715739197,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190458,
-      "num": 190458,
-      "word": "发现和没上过班的人很难交流",
-      "onboard_time": 1715771357,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 190362,
@@ -1771,14 +1795,6 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 169201,
-      "num": 169201,
-      "word": "丁真被男团endingpose硬控了",
-      "onboard_time": 1715767877,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167810,
       "num": 167810,
       "word": "女明星成度小满贷款紧急联系人",
@@ -1835,12 +1851,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162227,
+      "num": 162227,
+      "word": "我拿你当兄弟你拿我刷业绩",
+      "onboard_time": 1715771897,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160878,
       "num": 160878,
       "word": "方里代言人何浩楠",
       "onboard_time": 1715744118,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159858,
+      "num": 159858,
+      "word": "小黑熊一激动认错妈了",
+      "onboard_time": 1715771417,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 158559,
@@ -2017,14 +2049,6 @@
       "onboard_time": 1715693059,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136643,
-      "num": 136643,
-      "word": "小黑熊一激动认错妈了",
-      "onboard_time": 1715771417,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 136201,
@@ -2251,6 +2275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115695,
+      "num": 115695,
+      "word": "云南野果能有多小众",
+      "onboard_time": 1715772017,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114473,
       "num": 114473,
       "word": "莫文蔚歌单泄露",
@@ -2313,6 +2345,14 @@
       "onboard_time": 1715762776,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107595,
+      "num": 107595,
+      "word": "每周跑够75分钟能激活抑癌基因",
+      "onboard_time": 1715772858,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 107158,
