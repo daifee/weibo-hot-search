@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715782719959,
+  "endTime": 1715783707566,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -147,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1199833,
+      "num": 1199833,
+      "word": "费可死了",
+      "onboard_time": 1715779337,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1130055,
       "num": 1130055,
       "word": "教育部拟同意设24所本科高校",
@@ -177,14 +185,6 @@
       "onboard_time": 1715734398,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1075260,
-      "num": 1075260,
-      "word": "费可死了",
-      "onboard_time": 1715779337,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 1066663,
@@ -313,6 +313,14 @@
       "onboard_time": 1715732240,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 741698,
+      "num": 507275,
+      "word": "张靓颖回应被网友喊话去歌手",
+      "onboard_time": 1715781438,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 738391,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589311,
+      "num": 240019,
+      "word": "美国18岁女罪犯因颜值超高爆红",
+      "onboard_time": 1715782458,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583453,
       "num": 583453,
       "word": "安徽一司机碾压小孩致身亡逃逸被抓",
@@ -547,12 +563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 536820,
-      "num": 408644,
-      "word": "张靓颖回应被网友喊话去歌手",
-      "onboard_time": 1715781438,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 538624,
+      "num": 412568,
+      "word": "鹿晗长沙",
+      "onboard_time": 1715781377,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 531992,
@@ -633,14 +649,6 @@
       "onboard_time": 1715766137,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463818,
-      "num": 406722,
-      "word": "鹿晗长沙",
-      "onboard_time": 1715781377,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 460953,
@@ -803,8 +811,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398745,
-      "num": 398745,
+      "raw_hot": 403920,
+      "num": 403920,
       "word": "周也深V",
       "onboard_time": 1715780718,
       "rank": 13,
@@ -833,6 +841,14 @@
       "onboard_time": 1715777417,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394625,
+      "num": 394625,
+      "word": "园方回应60余名幼儿在校群体性流血",
+      "onboard_time": 1715780118,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387820,
@@ -955,20 +971,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 350079,
+      "num": 350079,
+      "word": "Uzi不和G2打训练赛",
+      "onboard_time": 1715782879,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 349704,
       "num": 349704,
       "word": "中国海警在黄岩岛海域常态开展维权执法活动",
       "onboard_time": 1715774056,
       "rank": 8,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 343501,
-      "num": 343501,
-      "word": "园方回应60余名幼儿在校群体性流血",
-      "onboard_time": 1715780118,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338748,
@@ -985,6 +1001,14 @@
       "onboard_time": 1715746640,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327433,
+      "num": 236656,
+      "word": "韩佩泉报名歌手成功",
+      "onboard_time": 1715783538,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 327090,
@@ -1036,7 +1060,7 @@
     },
     {
       "raw_hot": 310452,
-      "num": 215143,
+      "num": 234445,
       "word": "彭于晏佟丽娅戛纳自拍",
       "onboard_time": 1715780418,
       "rank": 25,
@@ -1105,14 +1129,6 @@
       "onboard_time": 1715735658,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 287638,
-      "num": 207225,
-      "word": "美国18岁女罪犯因颜值超高爆红",
-      "onboard_time": 1715782458,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287287,
@@ -1307,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247932,
+      "num": 235313,
+      "word": "奥运资格赛王一博观赛",
+      "onboard_time": 1715782819,
+      "rank": 27,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 246080,
       "num": 233911,
       "word": "林俊杰歌手舞台曾帮唱张杰",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1715739197,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234248,
+      "num": 234248,
+      "word": "暖阳女友发博回应",
+      "onboard_time": 1715782758,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 234147,
@@ -1499,6 +1531,14 @@
       "category": "美食,动漫"
     },
     {
+      "raw_hot": 216223,
+      "num": 216223,
+      "word": "青春环游记",
+      "onboard_time": 1715782640,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214822,
       "num": 214822,
       "word": "成毅 ELLE封面",
@@ -1569,6 +1609,14 @@
       "onboard_time": 1715743278,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207164,
+      "num": 207164,
+      "word": "唐嫣璀璨亮片长裙",
+      "onboard_time": 1715783600,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 206771,
@@ -1697,6 +1745,14 @@
       "onboard_time": 1715739977,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198390,
+      "num": 198390,
+      "word": "国漫高分赛道卷起来了",
+      "onboard_time": 1715782758,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 198205,
@@ -1865,6 +1921,14 @@
       "onboard_time": 1715751259,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190135,
+      "num": 190135,
+      "word": "赵继伟发挥",
+      "onboard_time": 1715783239,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 189961,
@@ -2043,6 +2107,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 174987,
+      "num": 174987,
+      "word": "LPL",
+      "onboard_time": 1715783179,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173644,
       "num": 173644,
       "word": "刘诗诗大女主排面",
@@ -2075,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171701,
+      "num": 171701,
+      "word": "高血压孕妇拒用药产后确诊子痫",
+      "onboard_time": 1715783058,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171141,
       "num": 171141,
       "word": "爱丽丝门罗去世",
@@ -2097,6 +2177,14 @@
       "onboard_time": 1715754317,
       "rank": 40,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 170043,
+      "num": 170043,
+      "word": "我的阿勒泰",
+      "onboard_time": 1715783358,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 167810,
@@ -2339,14 +2427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145251,
-      "num": 145251,
-      "word": "青春环游记",
-      "onboard_time": 1715782640,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143518,
       "num": 143518,
       "word": "白举纲直播",
@@ -2449,6 +2529,14 @@
       "onboard_time": 1715764097,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135020,
+      "num": 135020,
+      "word": "李溪芮张腾与代驾发生冲突全过程",
+      "onboard_time": 1715783659,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 132774,
@@ -3075,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55174,
+      "num": 396377,
+      "word": "乐道L60百公里电耗低至12.1",
+      "onboard_time": 1715781918,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53370,
       "num": 53370,
       "word": "花少北超话",
@@ -3147,6 +3243,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 37264,
+      "num": 422157,
+      "word": "书本里铁汉柔情有了现实画面",
+      "onboard_time": 1715781979,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36061,
       "num": 335783,
       "word": "00后武警战士路遇火情冲锋救火",
@@ -3155,27 +3259,11 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 34763,
-      "num": 363197,
-      "word": "乐道L60百公里电耗低至12.1",
-      "onboard_time": 1715781918,
-      "rank": 15,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 32536,
-      "num": 1175337,
+      "num": 1268809,
       "word": "2024年全球贸易投资促进峰会",
       "onboard_time": 1715780600,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31357,
-      "num": 409175,
-      "word": "书本里铁汉柔情有了现实画面",
-      "onboard_time": 1715781979,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
