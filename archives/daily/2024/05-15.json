@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715776556076,
+  "endTime": 1715777434586,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1568593,
+      "num": 1568593,
+      "word": "新生 烂尾",
+      "onboard_time": 1715774718,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1528252,
       "num": 1528252,
       "word": "造谣大陆吃不起茶叶蛋的人将被惩戒",
@@ -80,14 +88,6 @@
       "word": "藏海传",
       "onboard_time": 1715740037,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1360186,
-      "num": 1360186,
-      "word": "新生 烂尾",
-      "onboard_time": 1715774718,
-      "rank": 0,
       "category": "剧集"
     },
     {
@@ -267,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 769809,
+      "num": 332479,
+      "word": "未婚生育的女性将面临哪些困境",
+      "onboard_time": 1715773038,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 757705,
       "num": 541431,
       "word": "张杰谢娜吵架也要撒狗粮",
@@ -323,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 668229,
-      "num": 330497,
-      "word": "未婚生育的女性将面临哪些困境",
-      "onboard_time": 1715773038,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 659504,
       "num": 659504,
       "word": "戛纳红毯",
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 634590,
-      "num": 216557,
+      "num": 223205,
       "word": "发现和没上过班的人很难交流",
       "onboard_time": 1715771357,
       "rank": 32,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462943,
+      "num": 376538,
+      "word": "关晓彤鞠婧祎早期合照",
+      "onboard_time": 1715774417,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 460953,
       "num": 342243,
       "word": "这5种炎症可能会演变成癌症",
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 437951,
-      "num": 367639,
+      "num": 376356,
       "word": "金靖爆改黑皮体育生",
       "onboard_time": 1715773337,
       "rank": 6,
@@ -715,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 406119,
-      "num": 363886,
-      "word": "关晓彤鞠婧祎早期合照",
-      "onboard_time": 1715774417,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 405931,
       "num": 405931,
       "word": "D社确认方时赫无视Newjeans成员",
@@ -753,6 +753,14 @@
       "onboard_time": 1715730918,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385581,
+      "num": 385581,
+      "word": "乐道汽车",
+      "onboard_time": 1715773697,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 383648,
@@ -891,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321751,
+      "num": 321751,
+      "word": "奥运会资格系列赛明起举办",
+      "onboard_time": 1715774898,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319786,
       "num": 319786,
       "word": "微信背景图",
@@ -953,14 +969,6 @@
       "onboard_time": 1715766498,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 294804,
-      "num": 294804,
-      "word": "乐道汽车",
-      "onboard_time": 1715773697,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 291203,
@@ -1115,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255968,
+      "num": 255968,
+      "word": "我国住房空置率约为15%",
+      "onboard_time": 1715769018,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255800,
       "num": 255800,
       "word": "外国旅游团乘坐邮轮入境免签",
@@ -1147,14 +1163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 249021,
-      "num": 249021,
-      "word": "奥运会资格系列赛明起举办",
-      "onboard_time": 1715774898,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248116,
       "num": 248116,
       "word": "林高远ARENA杂志首封",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1715737398,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243928,
+      "num": 243928,
+      "word": "乐道发布会",
+      "onboard_time": 1715772197,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 241101,
@@ -1211,20 +1227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234147,
+      "num": 234147,
+      "word": "姜珮瑶一句话打开林家川眼泪开关",
+      "onboard_time": 1715776098,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233472,
       "num": 199539,
       "word": "王妈赵管家be了",
       "onboard_time": 1715684597,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232653,
-      "num": 232653,
-      "word": "我国住房空置率约为15%",
-      "onboard_time": 1715769018,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231213,
@@ -1307,12 +1323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221167,
-      "num": 221167,
-      "word": "乐道发布会",
-      "onboard_time": 1715772197,
-      "rank": 24,
-      "category": "汽车"
+      "raw_hot": 221935,
+      "num": 221935,
+      "word": "安徽一司机碾压小孩致身亡逃逸被抓",
+      "onboard_time": 1715776517,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220637,
@@ -1715,11 +1731,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184817,
+      "num": 184817,
+      "word": "T1战胜TL",
+      "onboard_time": 1715777237,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184126,
       "num": 184126,
       "word": "马克龙就囚车遇袭事件发声",
       "onboard_time": 1715741778,
       "rank": 39,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 183879,
+      "num": 183879,
+      "word": "黄循财就任新加坡总理",
+      "onboard_time": 1715777237,
+      "rank": 30,
       "category": "国外时政"
     },
     {
@@ -1907,20 +1939,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 166851,
-      "num": 166851,
-      "word": "姜珮瑶一句话打开林家川眼泪开关",
-      "onboard_time": 1715776098,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166751,
       "num": 166751,
       "word": "不要低估小孩子的恶意",
       "onboard_time": 1715765898,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166747,
+      "num": 166747,
+      "word": "广州地铁看了连夜加更标识",
+      "onboard_time": 1715773937,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 165844,
@@ -1985,14 +2017,6 @@
       "onboard_time": 1715728274,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155054,
-      "num": 155054,
-      "word": "广州地铁看了连夜加更标识",
-      "onboard_time": 1715773937,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 153687,
@@ -2073,6 +2097,14 @@
       "onboard_time": 1715736199,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147576,
+      "num": 147576,
+      "word": "双鱼座的合群都是装的",
+      "onboard_time": 1715775197,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 146227,
@@ -2227,14 +2259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131163,
-      "num": 131163,
-      "word": "双鱼座的合群都是装的",
-      "onboard_time": 1715775197,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131141,
       "num": 131141,
       "word": "费翔于适侯雯元娜然合体封神团综",
@@ -2291,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127846,
+      "num": 127846,
+      "word": "CPI",
+      "onboard_time": 1715777417,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127242,
       "num": 117947,
       "word": "哈兰德梅开二度",
@@ -2344,6 +2376,14 @@
       "word": "王自健张国立居然演上父子了",
       "onboard_time": 1715700859,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120826,
+      "num": 120826,
+      "word": "庆余年第二季开播倒计时1天",
+      "onboard_time": 1715777417,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -2475,20 +2515,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 111029,
+      "num": 236235,
+      "word": "乐道L60上市即享千座换电站",
+      "onboard_time": 1715776336,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 109640,
       "num": 109640,
       "word": "2024世界女排联赛",
       "onboard_time": 1715728274,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109635,
-      "num": 146162,
-      "word": "乐道L60上市即享千座换电站",
-      "onboard_time": 1715776336,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 108747,
@@ -2552,14 +2592,6 @@
       "word": "82岁母亲背一书包雪饼看望53岁儿子",
       "onboard_time": 1715767218,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102879,
-      "num": 102879,
-      "word": "安徽一司机碾压小孩致身亡逃逸被抓",
-      "onboard_time": 1715776517,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2851,7 +2883,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 34114,
+      "raw_hot": 36061,
       "num": 335783,
       "word": "00后武警战士路遇火情冲锋救火",
       "onboard_time": 1715773396,
