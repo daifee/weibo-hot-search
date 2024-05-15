@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715757515113,
+  "endTime": 1715758477193,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1958654,
+      "num": 1048218,
+      "word": "李溪芮拖鞋打伤代驾",
+      "onboard_time": 1715756477,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1878034,
       "num": 1878034,
       "word": "母亲节",
@@ -201,6 +209,14 @@
       "onboard_time": 1715572100,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1813280,
+      "num": 1744680,
+      "word": "李溪芮张腾与代驾发生冲突",
+      "onboard_time": 1715755937,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1811883,
@@ -241,14 +257,6 @@
       "onboard_time": 1715657958,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1744680,
-      "num": 1744680,
-      "word": "李溪芮张腾与代驾发生冲突",
-      "onboard_time": 1715755937,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1721303,
@@ -568,14 +576,6 @@
       "word": "贾玲代言",
       "onboard_time": 1715742919,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1231596,
-      "num": 531890,
-      "word": "李溪芮拖鞋打伤代驾",
-      "onboard_time": 1715756477,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -1771,6 +1771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 638039,
+      "num": 638039,
+      "word": "女生退租被房东要求钢丝球刷地板",
+      "onboard_time": 1715755819,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637688,
       "num": 297121,
       "word": "准备离职结果让我去出差",
@@ -2427,6 +2435,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 497660,
+      "num": 334876,
+      "word": "榴莲果核太大女子怀疑买到假金枕",
+      "onboard_time": 1715757018,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495509,
       "num": 264717,
       "word": "肖战工作室掉落惊喜",
@@ -2795,6 +2811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 440465,
+      "num": 440465,
+      "word": "韩国街道有种对生活的向往",
+      "onboard_time": 1715753899,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 439551,
       "num": 439551,
       "word": "外交部回应拜登将对中国商品加征关税",
@@ -2825,14 +2849,6 @@
       "onboard_time": 1715741418,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435059,
-      "num": 435059,
-      "word": "韩国街道有种对生活的向往",
-      "onboard_time": 1715753899,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 432835,
@@ -3203,6 +3219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 394416,
+      "num": 333491,
+      "word": "小沈阳用张杰谢娜结婚年份记事",
+      "onboard_time": 1715757498,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393157,
       "num": 393157,
       "word": "严禁教师漠视纵容学生欺凌",
@@ -3329,14 +3353,6 @@
       "onboard_time": 1715567959,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380272,
-      "num": 380272,
-      "word": "女生退租被房东要求钢丝球刷地板",
-      "onboard_time": 1715755819,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378620,
@@ -3737,6 +3753,14 @@
       "onboard_time": 1715596939,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 333116,
+      "num": 333116,
+      "word": "TikTok创作者集体起诉美国政府",
+      "onboard_time": 1715756839,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 332648,
@@ -4539,14 +4563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 263999,
-      "num": 203772,
-      "word": "榴莲果核太大女子怀疑买到假金枕",
-      "onboard_time": 1715757018,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263939,
       "num": 263939,
       "word": "19岁的沈月",
@@ -4857,14 +4873,6 @@
       "onboard_time": 1715677939,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248308,
-      "num": 248308,
-      "word": "TikTok创作者集体起诉美国政府",
-      "onboard_time": 1715756839,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 248265,
@@ -5203,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225348,
+      "num": 225348,
+      "word": "专家称女性生孩子国家补贴房子是应该的",
+      "onboard_time": 1715757979,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225080,
       "num": 399732,
       "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
@@ -5385,6 +5401,14 @@
       "onboard_time": 1715664019,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 218221,
+      "num": 218221,
+      "word": "余承东公布180款设备可升级鸿蒙4.2",
+      "onboard_time": 1715757259,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 217620,
@@ -5667,14 +5691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206552,
-      "num": 206552,
-      "word": "余承东公布180款设备可升级鸿蒙4.2",
-      "onboard_time": 1715757259,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 206064,
       "num": 206064,
       "word": "陶喆南宁抢票",
@@ -5801,6 +5817,14 @@
       "onboard_time": 1715611401,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202591,
+      "num": 202591,
+      "word": "日系才是纯爱的天花板",
+      "onboard_time": 1715757378,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 202492,
@@ -6147,6 +6171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195173,
+      "num": 195173,
+      "word": "OPPO 朱一龙",
+      "onboard_time": 1715758220,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 195108,
       "num": 195108,
       "word": "地磁暴",
@@ -6273,6 +6305,14 @@
       "onboard_time": 1715474717,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192926,
+      "num": 192926,
+      "word": "明日方舟 全家福",
+      "onboard_time": 1715758037,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 192550,
@@ -6513,6 +6553,14 @@
       "onboard_time": 1715660781,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188119,
+      "num": 188119,
+      "word": "电商平台一运营人员1年受贿9200万",
+      "onboard_time": 1715757318,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 187881,
@@ -7017,6 +7065,14 @@
       "onboard_time": 1715475917,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171601,
+      "num": 417732,
+      "word": "儿子打碎20多个瓜爸妈脸上笑哈哈",
+      "onboard_time": 1715754978,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171346,
@@ -8043,6 +8099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144440,
+      "num": 144440,
+      "word": "逆水寒 马尾",
+      "onboard_time": 1715758397,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144266,
       "num": 144266,
       "word": "给弟弟开家长会让和家长对视",
@@ -8161,14 +8225,6 @@
       "onboard_time": 1715658319,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141334,
-      "num": 141334,
-      "word": "日系才是纯爱的天花板",
-      "onboard_time": 1715757378,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 141307,
@@ -8409,14 +8465,6 @@
       "onboard_time": 1715599039,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 133948,
-      "num": 417732,
-      "word": "儿子打碎20多个瓜爸妈脸上笑哈哈",
-      "onboard_time": 1715754978,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133842,
@@ -8819,14 +8867,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 123036,
-      "num": 123036,
-      "word": "小沈阳用张杰谢娜结婚年份记事",
-      "onboard_time": 1715757498,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122914,
       "num": 139674,
       "word": "线下的生活真的很贵",
@@ -8961,6 +9001,14 @@
       "onboard_time": 1715728155,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118613,
+      "num": 157895,
+      "word": "华为新平板支持天生会画App",
+      "onboard_time": 1715757858,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 118375,
@@ -10059,7 +10107,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41198,
+      "raw_hot": 41611,
       "num": 1133873,
       "word": "重申红线把基础教育越办越好",
       "onboard_time": 1715740637,

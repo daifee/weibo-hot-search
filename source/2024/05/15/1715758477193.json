@@ -1,0 +1,410 @@
+{
+  "runTime": 1715758477193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1185660,
+        "num": 1185660,
+        "word": "未婚女性不能使用精子库供精去父留子",
+        "onboard_time": 1715743519,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1958654,
+        "num": 1048218,
+        "word": "李溪芮拖鞋打伤代驾",
+        "onboard_time": 1715756477,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41611,
+        "num": 840126,
+        "word": "重申红线把基础教育越办越好",
+        "onboard_time": 1715740637,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809160,
+        "num": 809160,
+        "word": "苗苗扎紧点漂亮",
+        "onboard_time": 1715752579,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638039,
+        "num": 638039,
+        "word": "女生退租被房东要求钢丝球刷地板",
+        "onboard_time": 1715755819,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523079,
+        "num": 523079,
+        "word": "华为发布会",
+        "onboard_time": 1715755518,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 440465,
+        "num": 440465,
+        "word": "韩国街道有种对生活的向往",
+        "onboard_time": 1715753899,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 341214,
+        "num": 341214,
+        "word": "戛纳 0特写",
+        "onboard_time": 1715745380,
+        "rank": 7,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 1813280,
+        "num": 340854,
+        "word": "李溪芮张腾与代驾发生冲突",
+        "onboard_time": 1715755937,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171601,
+        "num": 339696,
+        "word": "儿子打碎20多个瓜爸妈脸上笑哈哈",
+        "onboard_time": 1715754978,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1295298,
+        "num": 337770,
+        "word": "正准备提离职结果被裁了",
+        "onboard_time": 1715752218,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 669059,
+        "num": 336152,
+        "word": "鹿晗在路边吐了",
+        "onboard_time": 1715746279,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497660,
+        "num": 334876,
+        "word": "榴莲果核太大女子怀疑买到假金枕",
+        "onboard_time": 1715757018,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394416,
+        "num": 333491,
+        "word": "小沈阳用张杰谢娜结婚年份记事",
+        "onboard_time": 1715757498,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333116,
+        "num": 333116,
+        "word": "TikTok创作者集体起诉美国政府",
+        "onboard_time": 1715756839,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 325200,
+        "num": 325200,
+        "word": "A股",
+        "onboard_time": 1715754858,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 318219,
+        "num": 325094,
+        "word": "新生结局",
+        "onboard_time": 1715752458,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325030,
+        "num": 325030,
+        "word": "下班后回复微信算加班吗",
+        "onboard_time": 1715745441,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 299747,
+        "num": 299747,
+        "word": "偶像塌房险",
+        "onboard_time": 1715752279,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292300,
+        "num": 292300,
+        "word": "西安山姆会员店变考古现场",
+        "onboard_time": 1715746822,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378060,
+        "num": 290644,
+        "word": "月薪两万不敢在商场买衣服",
+        "onboard_time": 1715734099,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296718,
+        "num": 290610,
+        "word": "马天宇辣评歌手",
+        "onboard_time": 1715745739,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287944,
+        "num": 287944,
+        "word": "健身房又偶遇王俊凯",
+        "onboard_time": 1715751978,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274192,
+        "num": 274192,
+        "word": "戛纳 网红",
+        "onboard_time": 1715745140,
+        "rank": 23,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 226652,
+        "num": 226652,
+        "word": "造谣大陆吃不起茶叶蛋的人将被惩戒",
+        "onboard_time": 1715742797,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225348,
+        "num": 225348,
+        "word": "专家称女性生孩子国家补贴房子是应该的",
+        "onboard_time": 1715757979,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224860,
+        "num": 224860,
+        "word": "竟然在一只猫的脸上看到了班味",
+        "onboard_time": 1715756238,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220648,
+        "num": 220648,
+        "word": "华理回应12岁女孩被男生隔空猥亵",
+        "onboard_time": 1715748381,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218221,
+        "num": 218221,
+        "word": "余承东公布180款设备可升级鸿蒙4.2",
+        "onboard_time": 1715757259,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202591,
+        "num": 202591,
+        "word": "日系才是纯爱的天花板",
+        "onboard_time": 1715757378,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 195173,
+        "num": 195173,
+        "word": "OPPO 朱一龙",
+        "onboard_time": 1715758220,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192926,
+        "num": 192926,
+        "word": "明日方舟 全家福",
+        "onboard_time": 1715758037,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188119,
+        "num": 188119,
+        "word": "电商平台一运营人员1年受贿9200万",
+        "onboard_time": 1715757318,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185010,
+        "num": 185010,
+        "word": "D社确认方时赫无视Newjeans成员",
+        "onboard_time": 1715750778,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184404,
+        "num": 184404,
+        "word": "因为追星被相亲对象拒绝",
+        "onboard_time": 1715752518,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169495,
+        "num": 169495,
+        "word": "赵今麦张凌赫古装cp感",
+        "onboard_time": 1715756658,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161998,
+        "num": 161998,
+        "word": "以张杰为榜样的脑瘫少年摔倒后坚持朗诵",
+        "onboard_time": 1715756118,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 160057,
+        "num": 160057,
+        "word": "成毅 一番男主",
+        "onboard_time": 1715743819,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118613,
+        "num": 157895,
+        "word": "华为新平板支持天生会画App",
+        "onboard_time": 1715757858,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157498,
+        "num": 157498,
+        "word": "肖战如愿与晚霞太适配了",
+        "onboard_time": 1715754918,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145399,
+        "num": 145399,
+        "word": "清华大学30年来男女比例变化",
+        "onboard_time": 1715751859,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144440,
+        "num": 144440,
+        "word": "逆水寒 马尾",
+        "onboard_time": 1715758397,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138700,
+        "num": 138700,
+        "word": "贾玲代言",
+        "onboard_time": 1715742919,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131875,
+        "num": 131875,
+        "word": "Rookie爆料TheShy气走教练",
+        "onboard_time": 1715748321,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123035,
+        "num": 123035,
+        "word": "汪苏泷2024十万伏特巡回演唱会",
+        "onboard_time": 1715753119,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121692,
+        "num": 121692,
+        "word": "优酷是没有保险瓶颈期吗",
+        "onboard_time": 1715752637,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120850,
+        "num": 120850,
+        "word": "当代年轻人不生孩子的原因",
+        "onboard_time": 1715750960,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119642,
+        "num": 119642,
+        "word": "攻玉",
+        "onboard_time": 1715755819,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118675,
+        "num": 118675,
+        "word": "IVE",
+        "onboard_time": 1715751378,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116954,
+        "num": 116954,
+        "word": "歌手",
+        "onboard_time": 1715754138,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#建立绿色低碳循环经济体系#"
+    }
+  }
+}
