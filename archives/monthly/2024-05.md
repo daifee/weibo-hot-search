@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/15 18:35:55
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/15 19:15:56
 </p>
 </blockquote>
 <p>
@@ -3387,6 +3387,12 @@ QQ微信上线地震预警功能（热度：818156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A53%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E8%BA%AB%E4%BA%A1%23" target="weibo">
+警方提级调查3岁男童被狗咬伤身亡（热度：811947）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%AE%8B%E6%85%A7%E4%B9%94%E5%B0%86%E5%90%8C%E6%A1%86%23" target="weibo">
 宋仲基宋慧乔将同框（热度：811447）
 </a>
@@ -3653,12 +3659,6 @@ G2不收徒（热度：791904）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B0%865%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E4%B8%BE%E8%BF%87%E5%A4%B4%E9%A1%B6%E5%BD%93%E4%BC%9E%23" target="weibo">
 爸爸将5个月宝宝举过头顶当伞（热度：771684）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A53%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E8%BA%AB%E4%BA%A1%23" target="weibo">
-警方提级调查3岁男童被狗咬伤身亡（热度：771648）
 </a>
 </li>
 

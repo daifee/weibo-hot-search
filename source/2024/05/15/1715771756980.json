@@ -1,0 +1,410 @@
+{
+  "runTime": 1715771756980,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 811947,
+        "num": 811947,
+        "word": "警方提级调查3岁男童被狗咬伤身亡",
+        "onboard_time": 1715764877,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498315,
+        "num": 498315,
+        "word": "张杰回复了摔倒小男孩的妈妈",
+        "onboard_time": 1715761397,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34743,
+        "num": 472050,
+        "word": "首个适应气候变化工作进展报告发布",
+        "onboard_time": 1715761638,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464145,
+        "num": 464145,
+        "word": "芒果妈妈微博发声",
+        "onboard_time": 1715766137,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447272,
+        "num": 447272,
+        "word": "王金金报名歌手",
+        "onboard_time": 1715769617,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 931509,
+        "num": 447104,
+        "word": "未婚女性不能使用精子库供精去父留子",
+        "onboard_time": 1715743519,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441930,
+        "num": 441930,
+        "word": "咬伤3岁男童恶犬已被打死",
+        "onboard_time": 1715769857,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394435,
+        "num": 433494,
+        "word": "黄梦莹高干文女主脸",
+        "onboard_time": 1715767638,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61340,
+        "num": 430888,
+        "word": "82岁母亲背一书包雪饼看望53岁儿子",
+        "onboard_time": 1715767218,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64382,
+        "num": 430370,
+        "word": "爸爸公主抱妈妈让小公主嫉妒了",
+        "onboard_time": 1715766737,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430267,
+        "num": 430267,
+        "word": "日本制铁公司熔钢锅内发现人骨",
+        "onboard_time": 1715768478,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26042,
+        "num": 416602,
+        "word": "刘翔好久不见",
+        "onboard_time": 1715732959,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414252,
+        "num": 414252,
+        "word": "生物学家称男性生子技术上讲有无限可能",
+        "onboard_time": 1715763438,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364511,
+        "num": 364511,
+        "word": "正准备提离职结果被裁了",
+        "onboard_time": 1715752218,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323255,
+        "num": 323255,
+        "word": "鹿晗在路边吐了",
+        "onboard_time": 1715746279,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303957,
+        "num": 303957,
+        "word": "教育部拟同意设24所本科高校",
+        "onboard_time": 1715770698,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 63282,
+        "num": 299931,
+        "word": "如何解决父母居家养老安全隐患",
+        "onboard_time": 1715768418,
+        "rank": 16,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 297966,
+        "num": 297966,
+        "word": "先秦淑女步",
+        "onboard_time": 1715766498,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269890,
+        "num": 269890,
+        "word": "Uzi AL",
+        "onboard_time": 1715767397,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239984,
+        "num": 239984,
+        "word": "新生结局",
+        "onboard_time": 1715752458,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 900454,
+        "num": 239958,
+        "word": "李溪芮拖鞋打伤代驾",
+        "onboard_time": 1715756477,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727965,
+        "num": 237253,
+        "word": "真正的大女主都是水泥封心",
+        "onboard_time": 1715766018,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 547420,
+        "num": 235792,
+        "word": "坚持跑步1个月身体将怎样变化",
+        "onboard_time": 1715765418,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 509791,
+        "num": 233321,
+        "word": "正佳广场",
+        "onboard_time": 1715765178,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327187,
+        "num": 231776,
+        "word": "关晓彤在努力扮演大人了",
+        "onboard_time": 1715767937,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271133,
+        "num": 230252,
+        "word": "华为发布首款5000元档巨幕手机",
+        "onboard_time": 1715765058,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 228355,
+        "num": 228355,
+        "word": "张腾否认李溪芮扔拖鞋",
+        "onboard_time": 1715761638,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214822,
+        "num": 214822,
+        "word": "成毅 ELLE封面",
+        "onboard_time": 1715769738,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201798,
+        "num": 201798,
+        "word": "法拉第未来暴涨",
+        "onboard_time": 1715765058,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201082,
+        "num": 201082,
+        "word": "新生彩蛋",
+        "onboard_time": 1715770457,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206160,
+        "num": 200463,
+        "word": "年薪百万的蔓越莓采摘工",
+        "onboard_time": 1715770578,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194567,
+        "num": 194567,
+        "word": "刘宇宁山水白袍",
+        "onboard_time": 1715770636,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190458,
+        "num": 190458,
+        "word": "发现和没上过班的人很难交流",
+        "onboard_time": 1715771357,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185503,
+        "num": 185503,
+        "word": "我国住房空置率约为15%",
+        "onboard_time": 1715769018,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168703,
+        "num": 168703,
+        "word": "丁真被男团endingpose硬控了",
+        "onboard_time": 1715767877,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168375,
+        "num": 168375,
+        "word": "你以为上班只是八小时",
+        "onboard_time": 1715763438,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167003,
+        "num": 167003,
+        "word": "度小满回应骚扰借贷人紧急联系人",
+        "onboard_time": 1715770876,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164321,
+        "num": 164321,
+        "word": "江疏影 我理想中的旅游搭子",
+        "onboard_time": 1715765838,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162719,
+        "num": 162719,
+        "word": "李溪芮张腾与代驾发生冲突",
+        "onboard_time": 1715755937,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146315,
+        "num": 146315,
+        "word": "魏大勋王勉沟通偷感十足",
+        "onboard_time": 1715765477,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146121,
+        "num": 146121,
+        "word": "辽宁男篮vs新疆男篮",
+        "onboard_time": 1715771357,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138785,
+        "num": 138785,
+        "word": "荔枝型榴莲出肉率更高",
+        "onboard_time": 1715759779,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136643,
+        "num": 136643,
+        "word": "小黑熊一激动认错妈了",
+        "onboard_time": 1715771417,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132195,
+        "num": 132195,
+        "word": "姿态直播间 Kitty阿芙",
+        "onboard_time": 1715770397,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131426,
+        "num": 131426,
+        "word": "于适演技",
+        "onboard_time": 1715768538,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130516,
+        "num": 130516,
+        "word": "微软",
+        "onboard_time": 1715770817,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119235,
+        "num": 119235,
+        "word": "苗苗扎紧点漂亮",
+        "onboard_time": 1715752579,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106536,
+        "num": 106536,
+        "word": "金泳勋 窝囊感",
+        "onboard_time": 1715767818,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97730,
+        "num": 97730,
+        "word": "不要低估小孩子的恶意",
+        "onboard_time": 1715765898,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91529,
+        "num": 91529,
+        "word": "娜扎 天选旅游搭子",
+        "onboard_time": 1715769378,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#建立绿色低碳循环经济体系#"
+    }
+  }
+}
