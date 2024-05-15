@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715765674437,
+  "endTime": 1715768405265,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -155,6 +155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1062207,
+      "num": 419626,
+      "word": "生物学家称男性生子技术上讲有无限可能",
+      "onboard_time": 1715763438,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1017285,
       "num": 1017285,
       "word": "苗苗扎紧点漂亮",
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762660,
+      "num": 762660,
+      "word": "真正的大女主都是水泥封心",
+      "onboard_time": 1715766018,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 757705,
       "num": 541431,
       "word": "张杰谢娜吵架也要撒狗粮",
@@ -249,6 +265,14 @@
       "onboard_time": 1715737338,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697004,
+      "num": 201156,
+      "word": "坚持跑步1个月身体将怎样变化",
+      "onboard_time": 1715765418,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 693483,
@@ -347,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594968,
-      "num": 419626,
-      "word": "生物学家称男性生子技术上讲有无限可能",
-      "onboard_time": 1715763438,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 576359,
       "num": 576359,
       "word": "河南3岁男童被恶犬咬伤18天后离世",
@@ -384,6 +400,14 @@
       "word": "越来越多房东由卖转租",
       "onboard_time": 1715759477,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558751,
+      "num": 199175,
+      "word": "正佳广场",
+      "onboard_time": 1715765178,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 508657,
-      "num": 183517,
+      "num": 198048,
       "word": "你以为上班只是八小时",
       "onboard_time": 1715763438,
       "rank": 23,
@@ -465,6 +489,14 @@
       "onboard_time": 1715751978,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481569,
+      "num": 481569,
+      "word": "警方提级调查3岁男童被狗咬伤身亡",
+      "onboard_time": 1715764877,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460953,
@@ -528,6 +560,14 @@
       "word": "长城炮回应车主被电动帐篷卡脖身亡",
       "onboard_time": 1715741418,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434659,
+      "num": 434659,
+      "word": "芒果妈妈微博发声",
+      "onboard_time": 1715766137,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -643,6 +683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 375949,
+      "num": 194947,
+      "word": "华为发布首款5000元档巨幕手机",
+      "onboard_time": 1715765058,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 375712,
       "num": 375712,
       "word": "变形计男主人公现状",
@@ -657,6 +705,14 @@
       "onboard_time": 1715709552,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370947,
+      "num": 370947,
+      "word": "法拉第未来暴涨",
+      "onboard_time": 1715765058,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 368099,
@@ -705,6 +761,14 @@
       "onboard_time": 1715754858,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 338748,
+      "num": 338748,
+      "word": "Uzi AL",
+      "onboard_time": 1715767397,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 331389,
@@ -851,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269152,
+      "num": 269152,
+      "word": "魏大勋王勉沟通偷感十足",
+      "onboard_time": 1715765477,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269145,
       "num": 269145,
       "word": "因为追星被相亲对象拒绝",
@@ -888,6 +960,14 @@
       "word": "春花厌",
       "onboard_time": 1715737998,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 258851,
+      "num": 258851,
+      "word": "黄梦莹高干文女主脸",
+      "onboard_time": 1715767638,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -947,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 248442,
+      "num": 248442,
+      "word": "江疏影 我理想中的旅游搭子",
+      "onboard_time": 1715765838,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246080,
       "num": 233911,
       "word": "林俊杰歌手舞台曾帮唱张杰",
@@ -963,20 +1051,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237307,
+      "num": 237307,
+      "word": "先秦淑女步",
+      "onboard_time": 1715766498,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236008,
       "num": 236008,
       "word": "TES幽默",
       "onboard_time": 1715680998,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 235677,
-      "num": 235677,
-      "word": "警方提级调查3岁男童被狗咬伤身亡",
-      "onboard_time": 1715764877,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235451,
@@ -1091,12 +1179,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 219470,
+      "num": 189729,
+      "word": "关晓彤在努力扮演大人了",
+      "onboard_time": 1715767937,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218221,
       "num": 218221,
       "word": "余承东公布180款设备可升级鸿蒙4.2",
       "onboard_time": 1715757259,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 217846,
+      "num": 114916,
+      "word": "必胜客 kitty",
+      "onboard_time": 1715767338,
+      "rank": 42,
+      "category": "美食,动漫"
     },
     {
       "raw_hot": 214487,
@@ -1155,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206912,
-      "num": 183223,
-      "word": "坚持跑步1个月身体将怎样变化",
-      "onboard_time": 1715765418,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 206490,
       "num": 417732,
       "word": "儿子打碎20多个瓜爸妈脸上笑哈哈",
@@ -1195,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202834,
-      "num": 183117,
-      "word": "华为发布首款5000元档巨幕手机",
-      "onboard_time": 1715765058,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 202591,
       "num": 202591,
       "word": "日系才是纯爱的天花板",
@@ -1225,14 +1313,6 @@
       "onboard_time": 1715746100,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201488,
-      "num": 201488,
-      "word": "法拉第未来暴涨",
-      "onboard_time": 1715765058,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 201458,
@@ -1401,14 +1481,6 @@
       "onboard_time": 1715745079,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189490,
-      "num": 183076,
-      "word": "正佳广场",
-      "onboard_time": 1715765178,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188886,
@@ -1619,6 +1691,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 166751,
+      "num": 166751,
+      "word": "不要低估小孩子的恶意",
+      "onboard_time": 1715765898,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165844,
       "num": 165844,
       "word": "原来还有无刺榴莲",
@@ -1657,6 +1737,14 @@
       "onboard_time": 1715754138,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157127,
+      "num": 157127,
+      "word": "男童被狗咬伤离世医院回应治疗不规范质疑",
+      "onboard_time": 1715767997,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155602,
@@ -1763,11 +1851,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142339,
-      "num": 142339,
-      "word": "魏大勋王勉沟通偷感十足",
-      "onboard_time": 1715765477,
-      "rank": 39,
+      "raw_hot": 145125,
+      "num": 145125,
+      "word": "丁真被男团endingpose硬控了",
+      "onboard_time": 1715767877,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1979,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119705,
+      "num": 119705,
+      "word": "关晓彤妆造",
+      "onboard_time": 1715766498,
+      "rank": 40,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 118858,
       "num": 118858,
       "word": "TES",
@@ -2035,6 +2131,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113594,
+      "num": 113594,
+      "word": "金泳勋 窝囊感",
+      "onboard_time": 1715767818,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113481,
+      "num": 113481,
+      "word": "00后宣传景区的脑洞有多大",
+      "onboard_time": 1715766978,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111744,
       "num": 111744,
       "word": "秦岚说赵丽颖是没有攻击性的女演员",
@@ -2067,6 +2179,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107158,
+      "num": 191173,
+      "word": "为什么年轻人越来越Fit了",
+      "onboard_time": 1715762897,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 107040,
+      "num": 107040,
+      "word": "3步掌握海姆立克急救法",
+      "onboard_time": 1715767038,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106893,
       "num": 106893,
       "word": "别告诉我你第一次听说迎客松会开花",
@@ -2083,12 +2211,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103134,
-      "num": 191173,
-      "word": "为什么年轻人越来越Fit了",
-      "onboard_time": 1715762897,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 103642,
+      "num": 361732,
+      "word": "82岁母亲背一书包雪饼看望53岁儿子",
+      "onboard_time": 1715767218,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100739,
@@ -2169,6 +2297,14 @@
       "onboard_time": 1715759718,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 79418,
+      "num": 366563,
+      "word": "爸爸公主抱妈妈让小公主嫉妒了",
+      "onboard_time": 1715766737,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77829,
