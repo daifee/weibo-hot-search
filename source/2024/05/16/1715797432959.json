@@ -1,0 +1,410 @@
+{
+  "runTime": 1715797432959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 317919,
+        "num": 317919,
+        "word": "王力宏 歌手",
+        "onboard_time": 1715785819,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121028,
+        "num": 121028,
+        "word": "中国海警喊话警告非法侵闯黄岩岛船只",
+        "onboard_time": 1715793133,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9300,
+        "num": 65674,
+        "word": "2024年全球贸易投资促进峰会",
+        "onboard_time": 1715780600,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131927,
+        "num": 64981,
+        "word": "韩佩泉报名歌手成功",
+        "onboard_time": 1715783538,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60728,
+        "num": 60728,
+        "word": "官方通报60余名幼儿群体性流血不实",
+        "onboard_time": 1715784920,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97957,
+        "num": 60667,
+        "word": "未婚女性不能使用精子库供精去父留子",
+        "onboard_time": 1715743519,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131277,
+        "num": 60542,
+        "word": "费可死了",
+        "onboard_time": 1715779337,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130210,
+        "num": 60216,
+        "word": "李溪芮张腾与代驾发生冲突全过程",
+        "onboard_time": 1715783659,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93338,
+        "num": 60008,
+        "word": "斯洛伐克总理遭枪击",
+        "onboard_time": 1715779938,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 8517,
+        "num": 59920,
+        "word": "店家打烊遇拾荒老人果断开店送吃的",
+        "onboard_time": 1715793253,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115227,
+        "num": 59722,
+        "word": "歌手2024揭榜歌手歌单",
+        "onboard_time": 1715777538,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95085,
+        "num": 59500,
+        "word": "佟丽娅长发新中式",
+        "onboard_time": 1715790555,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82558,
+        "num": 59387,
+        "word": "李雪琴 小树不长歪长点枝丫没问题",
+        "onboard_time": 1715788877,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82347,
+        "num": 59113,
+        "word": "尼格买提 莫奈花园",
+        "onboard_time": 1715788278,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59060,
+        "num": 59060,
+        "word": "暖阳女友发博回应",
+        "onboard_time": 1715782758,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44819,
+        "num": 44819,
+        "word": "全局BP",
+        "onboard_time": 1715784318,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41898,
+        "num": 41898,
+        "word": "江西丰城一船舶4人窒息死亡",
+        "onboard_time": 1715781198,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39405,
+        "num": 39405,
+        "word": "新华社专访普京",
+        "onboard_time": 1715791635,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35202,
+        "num": 39324,
+        "word": "华为MatePad",
+        "onboard_time": 1715788757,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 32928,
+        "num": 39210,
+        "word": "日本制铁公司熔钢锅内发现人骨",
+        "onboard_time": 1715768478,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164831,
+        "num": 39142,
+        "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
+        "onboard_time": 1715785639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101615,
+        "num": 39024,
+        "word": "开心消消乐",
+        "onboard_time": 1715791036,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89413,
+        "num": 38886,
+        "word": "美国18岁女罪犯因颜值超高爆红",
+        "onboard_time": 1715782458,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74921,
+        "num": 38795,
+        "word": "原来张杰也会泰勒公式",
+        "onboard_time": 1715786898,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65345,
+        "num": 38712,
+        "word": "十个勤天去年底音乐节秀费超200万元",
+        "onboard_time": 1715786719,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62582,
+        "num": 38615,
+        "word": "前夫出轨拒赔偿女子每年起诉要钱",
+        "onboard_time": 1715794933,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55046,
+        "num": 38511,
+        "word": "1岁女婴被大伯母投毒致四肢瘫痪",
+        "onboard_time": 1715778077,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52143,
+        "num": 38435,
+        "word": "新生 烂尾",
+        "onboard_time": 1715774718,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45449,
+        "num": 38346,
+        "word": "鹿晗长沙",
+        "onboard_time": 1715781377,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45021,
+        "num": 38241,
+        "word": "张静初回应凹学霸人设",
+        "onboard_time": 1715785099,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41343,
+        "num": 38140,
+        "word": "发现和没上过班的人很难交流",
+        "onboard_time": 1715771357,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39789,
+        "num": 38000,
+        "word": "庆余年第二季开播倒计时1天",
+        "onboard_time": 1715777417,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37949,
+        "num": 37949,
+        "word": "王一博跳街舞",
+        "onboard_time": 1715780659,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37617,
+        "num": 37617,
+        "word": "新生 强行上价值",
+        "onboard_time": 1715784318,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37271,
+        "num": 37271,
+        "word": "庆余年2先导plus预告",
+        "onboard_time": 1715773396,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31088,
+        "num": 31088,
+        "word": "新生彩蛋",
+        "onboard_time": 1715770457,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30775,
+        "num": 30775,
+        "word": "教育部拟同意设24所本科高校",
+        "onboard_time": 1715770698,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30781,
+        "num": 30531,
+        "word": "新生",
+        "onboard_time": 1715776336,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29994,
+        "num": 29994,
+        "word": "Uzi不和G2打训练赛",
+        "onboard_time": 1715782879,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28901,
+        "num": 28901,
+        "word": "小学六年级的李惠仁",
+        "onboard_time": 1715784019,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27873,
+        "num": 27873,
+        "word": "唐嫣璀璨亮片长裙",
+        "onboard_time": 1715783600,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27472,
+        "num": 27472,
+        "word": "坚持跑步1个月身体将怎样变化",
+        "onboard_time": 1715765418,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 26794,
+        "num": 26794,
+        "word": "咬伤3岁男童恶犬已被打死",
+        "onboard_time": 1715769857,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26728,
+        "num": 26728,
+        "word": "关晓彤鞠婧祎早期合照",
+        "onboard_time": 1715774417,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24329,
+        "num": 26721,
+        "word": "上海一餐厅特设肖战墙景位预约爆满",
+        "onboard_time": 1715779218,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22808,
+        "num": 26696,
+        "word": "一起看2024巴黎奥运会",
+        "onboard_time": 1715793913,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22780,
+        "num": 26686,
+        "word": "奥运资格赛王一博观赛",
+        "onboard_time": 1715782819,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 22246,
+        "num": 26667,
+        "word": "真正的大女主都是水泥封心",
+        "onboard_time": 1715766018,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22143,
+        "num": 26639,
+        "word": "给免胶假睫毛泼盆凉水",
+        "onboard_time": 1715796013,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 21737,
+        "num": 26619,
+        "word": "用利息生活是可行还是离谱",
+        "onboard_time": 1715786419,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#建立绿色低碳循环经济体系#"
+    }
+  }
+}
