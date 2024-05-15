@@ -1,0 +1,410 @@
+{
+  "runTime": 1715747767385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2723697,
+        "num": 2723697,
+        "word": "未婚女性不能使用精子库供精去父留子",
+        "onboard_time": 1715743519,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299265,
+        "num": 1299265,
+        "word": "造谣大陆吃不起茶叶蛋的人将被惩戒",
+        "onboard_time": 1715742797,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24124,
+        "num": 1161551,
+        "word": "阔步迈向网络强国",
+        "onboard_time": 1715741237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159582,
+        "num": 1159582,
+        "word": "月薪两万不敢在商场买衣服",
+        "onboard_time": 1715734099,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1107075,
+        "num": 1107075,
+        "word": "戛纳 0特写",
+        "onboard_time": 1715745380,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1091960,
+        "num": 1091960,
+        "word": "马天宇辣评歌手",
+        "onboard_time": 1715745739,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1009670,
+        "num": 1009670,
+        "word": "贾玲代言",
+        "onboard_time": 1715742919,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 875608,
+        "num": 875608,
+        "word": "戛纳 网红",
+        "onboard_time": 1715745140,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 744404,
+        "num": 744404,
+        "word": "成毅 一番男主",
+        "onboard_time": 1715743819,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153279,
+        "num": 730552,
+        "word": "失去爸妈11年后我终于赢了死神一次",
+        "onboard_time": 1715744658,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1699754,
+        "num": 730550,
+        "word": "鹿晗在路边吐了",
+        "onboard_time": 1715746279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729904,
+        "num": 729904,
+        "word": "杨洋一天三部",
+        "onboard_time": 1715743699,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682333,
+        "num": 682333,
+        "word": "藏海传",
+        "onboard_time": 1715740037,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 605387,
+        "num": 605387,
+        "word": "下班后回复微信算加班吗",
+        "onboard_time": 1715745441,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 268223,
+        "num": 529110,
+        "word": "余额宝 工资日翻番",
+        "onboard_time": 1715745620,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 506989,
+        "num": 506989,
+        "word": "陈乔恩希望不再蝉联影后",
+        "onboard_time": 1715743400,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 464102,
+        "num": 464102,
+        "word": "这么小的榴莲却这么懂事",
+        "onboard_time": 1715738538,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 413546,
+        "num": 413546,
+        "word": "香港一医院就误切女子子宫致歉",
+        "onboard_time": 1715729955,
+        "rank": 17,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 394194,
+        "num": 394194,
+        "word": "地磁暴的这几天你睡眠如何",
+        "onboard_time": 1715730737,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 387066,
+        "num": 387066,
+        "word": "TheShy为下班暴虐Uzi队",
+        "onboard_time": 1715743038,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 473587,
+        "num": 385845,
+        "word": "酱园弄 戛纳",
+        "onboard_time": 1715744959,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 364294,
+        "num": 364294,
+        "word": "国际奥委会称马龙是奥运乒乓比赛史上最成功球员",
+        "onboard_time": 1715741119,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331389,
+        "num": 331389,
+        "word": "肖战藏海传海报",
+        "onboard_time": 1715746640,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319127,
+        "num": 319127,
+        "word": "教育局通报太原二十九中考试舆情调查",
+        "onboard_time": 1715745859,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318623,
+        "num": 318623,
+        "word": "优酷官宣甄嬛传团综",
+        "onboard_time": 1715738658,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312289,
+        "num": 312289,
+        "word": "樊振东发博说最后一舞",
+        "onboard_time": 1715747301,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292145,
+        "num": 292145,
+        "word": "西安山姆会员店变考古现场",
+        "onboard_time": 1715746822,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291309,
+        "num": 291309,
+        "word": "歌手预测",
+        "onboard_time": 1715731639,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287576,
+        "num": 287576,
+        "word": "艾伦陈乔恩获金扫帚影帝后",
+        "onboard_time": 1715729657,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271790,
+        "num": 271790,
+        "word": "新生",
+        "onboard_time": 1715747240,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254951,
+        "num": 254951,
+        "word": "优酷片单",
+        "onboard_time": 1715737758,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225106,
+        "num": 225106,
+        "word": "凤凰传奇二开",
+        "onboard_time": 1715747179,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222065,
+        "num": 222065,
+        "word": "开推2全员跳晚安大小姐",
+        "onboard_time": 1715746939,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221139,
+        "num": 221139,
+        "word": "致3岁男童死亡恶犬仍下落不明",
+        "onboard_time": 1715737338,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216753,
+        "num": 216753,
+        "word": "周深唱出了范闲的精神状态",
+        "onboard_time": 1715743519,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209448,
+        "num": 209448,
+        "word": "法国一囚车遭劫致3名警察死亡",
+        "onboard_time": 1715746158,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 201458,
+        "num": 201458,
+        "word": "刘宪华PUA青环节目组",
+        "onboard_time": 1715747000,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197989,
+        "num": 197989,
+        "word": "小龙虾跌破10元每斤",
+        "onboard_time": 1715745980,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49765,
+        "num": 192743,
+        "word": "姿态Rita激情对线",
+        "onboard_time": 1715747301,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191740,
+        "num": 191740,
+        "word": "江疏影胡先煦JP分明",
+        "onboard_time": 1715744898,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191563,
+        "num": 191563,
+        "word": "时代少年团官宣高露洁代言",
+        "onboard_time": 1715746100,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188359,
+        "num": 188359,
+        "word": "长安二十四计官宣",
+        "onboard_time": 1715740998,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183592,
+        "num": 183592,
+        "word": "00后试岗月薪15000住家保姆",
+        "onboard_time": 1715734099,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182071,
+        "num": 182071,
+        "word": "水木年华说十个勤天不是一般人",
+        "onboard_time": 1715747600,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180009,
+        "num": 180009,
+        "word": "庆余年",
+        "onboard_time": 1715733622,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176780,
+        "num": 176780,
+        "word": "这5种炎症可能会演变成癌症",
+        "onboard_time": 1715738057,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169608,
+        "num": 169608,
+        "word": "死亡的20只东北虎有10只是幼虎",
+        "onboard_time": 1715734398,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168825,
+        "num": 168825,
+        "word": "新生 一场葬礼引出的骗局",
+        "onboard_time": 1715745079,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167520,
+        "num": 167520,
+        "word": "长城炮回应车主被电动帐篷卡脖身亡",
+        "onboard_time": 1715741418,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164172,
+        "num": 164172,
+        "word": "为什么江浙没有夜生活",
+        "onboard_time": 1715737818,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建立绿色低碳循环经济体系#"
+    }
+  }
+}

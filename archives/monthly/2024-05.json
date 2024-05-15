@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715746962811,
+  "endTime": 1715747767385,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2723697,
+      "num": 2723697,
+      "word": "未婚女性不能使用精子库供精去父留子",
+      "onboard_time": 1715743519,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2643026,
       "num": 1526777,
       "word": "未闻花名哭死",
@@ -265,14 +273,6 @@
       "onboard_time": 1715579718,
       "rank": 1,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 2584419,
-      "num": 2584419,
-      "word": "未婚女性不能使用精子库供精去父留子",
-      "onboard_time": 1715743519,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2577499,
@@ -865,6 +865,14 @@
       "onboard_time": 1714730358,
       "rank": 31,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1699754,
+      "num": 837018,
+      "word": "鹿晗在路边吐了",
+      "onboard_time": 1715746279,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1695633,
@@ -2515,6 +2523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1107075,
+      "num": 1107075,
+      "word": "戛纳 0特写",
+      "onboard_time": 1715745380,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1105266,
       "num": 1105266,
       "word": "南韩周也",
@@ -2675,6 +2691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1091960,
+      "num": 1091960,
+      "word": "马天宇辣评歌手",
+      "onboard_time": 1715745739,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1091321,
       "num": 1091321,
       "word": "Tiffany被年轻人抛弃了吗",
@@ -2729,14 +2753,6 @@
       "onboard_time": 1715524163,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1082956,
-      "num": 1082956,
-      "word": "戛纳 0特写",
-      "onboard_time": 1715745380,
-      "rank": 5,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1082451,
@@ -3747,6 +3763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 875608,
+      "num": 875608,
+      "word": "戛纳 网红",
+      "onboard_time": 1715745140,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 875547,
       "num": 659205,
       "word": "邓超居然参加过歌手",
@@ -4187,14 +4211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 840391,
-      "num": 840391,
-      "word": "戛纳 网红",
-      "onboard_time": 1715745140,
-      "rank": 8,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 838147,
       "num": 172892,
       "word": "茶百道开除涉事员工",
@@ -4209,14 +4225,6 @@
       "onboard_time": 1715610441,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 837018,
-      "num": 837018,
-      "word": "鹿晗在路边吐了",
-      "onboard_time": 1715746279,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 833538,
@@ -6715,14 +6723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 621577,
-      "num": 621577,
-      "word": "马天宇辣评歌手",
-      "onboard_time": 1715745739,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 621442,
       "num": 621442,
       "word": "华晨宇新歌弹错了12次",
@@ -6985,6 +6985,14 @@
       "onboard_time": 1714821138,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 605387,
+      "num": 605387,
+      "word": "下班后回复微信算加班吗",
+      "onboard_time": 1715745441,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 605182,
@@ -8617,6 +8625,14 @@
       "onboard_time": 1715092340,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506989,
+      "num": 506989,
+      "word": "陈乔恩希望不再蝉联影后",
+      "onboard_time": 1715743400,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 506611,
@@ -10491,14 +10507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 430680,
-      "num": 420903,
-      "word": "陈乔恩希望不再蝉联影后",
-      "onboard_time": 1715743400,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 430652,
       "num": 352994,
       "word": "警方通报太原一男子发表辱华言论",
@@ -11081,14 +11089,6 @@
       "onboard_time": 1714915760,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413634,
-      "num": 413634,
-      "word": "下班后回复微信算加班吗",
-      "onboard_time": 1715745441,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 413449,
@@ -13851,6 +13851,14 @@
       "category": "美食,动漫"
     },
     {
+      "raw_hot": 331389,
+      "num": 331389,
+      "word": "肖战藏海传海报",
+      "onboard_time": 1715746640,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331227,
       "num": 193978,
       "word": "向太夸郭碧婷是股清流",
@@ -14291,6 +14299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319127,
+      "num": 319127,
+      "word": "教育局通报太原二十九中考试舆情调查",
+      "onboard_time": 1715745859,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318855,
       "num": 261872,
       "word": "梁洁不能再瘦了",
@@ -14537,6 +14553,14 @@
       "onboard_time": 1714952117,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 312289,
+      "num": 312289,
+      "word": "樊振东发博说最后一舞",
+      "onboard_time": 1715747301,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 312287,
@@ -15331,6 +15355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 292145,
+      "num": 292145,
+      "word": "西安山姆会员店变考古现场",
+      "onboard_time": 1715746822,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292094,
       "num": 292094,
       "word": "我的阿勒泰 令人难忘的细节",
@@ -15801,14 +15833,6 @@
       "onboard_time": 1715327119,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281883,
-      "num": 281883,
-      "word": "教育局通报太原二十九中考试舆情调查",
-      "onboard_time": 1715745859,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281673,
@@ -16577,6 +16601,14 @@
       "onboard_time": 1714558099,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 268223,
+      "num": 549627,
+      "word": "余额宝 工资日翻番",
+      "onboard_time": 1715745620,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 268218,
@@ -19443,6 +19475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225106,
+      "num": 225106,
+      "word": "凤凰传奇二开",
+      "onboard_time": 1715747179,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225080,
       "num": 399732,
       "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
@@ -19649,6 +19689,14 @@
       "onboard_time": 1715313859,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 222065,
+      "num": 222065,
+      "word": "开推2全员跳晚安大小姐",
+      "onboard_time": 1715746939,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 221979,
@@ -20899,6 +20947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209448,
+      "num": 209448,
+      "word": "法国一囚车遭劫致3名警察死亡",
+      "onboard_time": 1715746158,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 209438,
       "num": 209438,
       "word": "庆余年第一季名场面回顾",
@@ -21209,14 +21265,6 @@
       "onboard_time": 1714570399,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207058,
-      "num": 207058,
-      "word": "肖战藏海传海报",
-      "onboard_time": 1715746640,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 207054,
@@ -22099,6 +22147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201458,
+      "num": 201458,
+      "word": "刘宪华PUA青环节目组",
+      "onboard_time": 1715747000,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201448,
       "num": 201448,
       "word": "刘雨昕 贵阳",
@@ -22683,6 +22739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197989,
+      "num": 197989,
+      "word": "小龙虾跌破10元每斤",
+      "onboard_time": 1715745980,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197984,
       "num": 197984,
       "word": "Uzi说TheShy老头杯没有对手",
@@ -23129,14 +23193,6 @@
       "onboard_time": 1714559598,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195856,
-      "num": 195856,
-      "word": "法国一囚车遭劫致3名警察死亡",
-      "onboard_time": 1715746158,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 195817,
@@ -25451,14 +25507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182406,
-      "num": 549627,
-      "word": "余额宝 工资日翻番",
-      "onboard_time": 1715745620,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 182377,
       "num": 182377,
       "word": "为什么刚学电脑时没人告诉我",
@@ -25481,6 +25529,14 @@
       "onboard_time": 1714576160,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182071,
+      "num": 182071,
+      "word": "水木年华说十个勤天不是一般人",
+      "onboard_time": 1715747600,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 181928,
@@ -26761,14 +26817,6 @@
       "onboard_time": 1714715419,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 173038,
-      "num": 173038,
-      "word": "小龙虾跌破10元每斤",
-      "onboard_time": 1715745980,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 173009,
@@ -29931,6 +29979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 153279,
+      "num": 837976,
+      "word": "失去爸妈11年后我终于赢了死神一次",
+      "onboard_time": 1715744658,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153258,
       "num": 153258,
       "word": "周深五四演讲",
@@ -30433,14 +30489,6 @@
       "onboard_time": 1714617196,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149921,
-      "num": 149921,
-      "word": "西安山姆会员店变考古现场",
-      "onboard_time": 1715746822,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149911,
@@ -31795,14 +31843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141611,
-      "num": 837976,
-      "word": "失去爸妈11年后我终于赢了死神一次",
-      "onboard_time": 1715744658,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141554,
       "num": 141554,
       "word": "你想好明天要做什么了吗",
@@ -32497,14 +32537,6 @@
       "onboard_time": 1714627217,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137348,
-      "num": 137348,
-      "word": "开推2全员跳晚安大小姐",
-      "onboard_time": 1715746939,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 137341,
@@ -39521,6 +39553,14 @@
       "onboard_time": 1715332278,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 49765,
+      "num": 192743,
+      "word": "姿态Rita激情对线",
+      "onboard_time": 1715747301,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 49733,
