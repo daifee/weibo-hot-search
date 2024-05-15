@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715811616477,
+  "endTime": 1715812716483,
   "band_list": [
     {
       "raw_hot": 1830305,
@@ -139,6 +139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247091,
+      "num": 247091,
+      "word": "云南将迎1亿只以上蝴蝶大爆发",
+      "onboard_time": 1715803151,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230150,
       "num": 148945,
       "word": "1岁女婴被大伯母投毒致四肢瘫痪",
@@ -211,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144562,
-      "num": 70567,
-      "word": "云南将迎1亿只以上蝴蝶大爆发",
-      "onboard_time": 1715803151,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 144353,
+      "num": 95788,
+      "word": "日本前大臣感慨日本太落后",
+      "onboard_time": 1715805850,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 138762,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129673,
+      "num": 129673,
+      "word": "新华社专访普京",
+      "onboard_time": 1715791635,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 126760,
       "num": 150034,
       "word": "华为MatePad",
@@ -289,14 +305,6 @@
       "onboard_time": 1715787378,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 117522,
-      "num": 69415,
-      "word": "日本前大臣感慨日本太落后",
-      "onboard_time": 1715805850,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 116988,
@@ -331,12 +339,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 101826,
-      "num": 101826,
-      "word": "新华社专访普京",
-      "onboard_time": 1715791635,
-      "rank": 36,
-      "category": "国外时政"
+      "raw_hot": 100962,
+      "num": 43531,
+      "word": "前夫出轨拒赔偿女子每年起诉要钱",
+      "onboard_time": 1715794933,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95181,
@@ -363,6 +371,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 88731,
+      "num": 42656,
+      "word": "睡眠真的是大脑在排毒吗",
+      "onboard_time": 1715801290,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 87600,
       "num": 87600,
       "word": "狗狗见到喜欢的狗狗",
@@ -376,14 +392,6 @@
       "word": "咬伤3岁男童恶犬已被打死",
       "onboard_time": 1715769857,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83162,
-      "num": 38947,
-      "word": "前夫出轨拒赔偿女子每年起诉要钱",
-      "onboard_time": 1715794933,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -443,12 +451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70978,
-      "num": 32635,
-      "word": "睡眠真的是大脑在排毒吗",
-      "onboard_time": 1715801290,
-      "rank": 39,
-      "category": "科学科普"
+      "raw_hot": 65920,
+      "num": 42025,
+      "word": "佟丽娅刘涛高圆圆红衣同框",
+      "onboard_time": 1715810592,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 62173,
+      "num": 41336,
+      "word": "杨超越五年后跟谢涤葵再过招",
+      "onboard_time": 1715810231,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 61367,
@@ -457,22 +473,6 @@
       "onboard_time": 1715776336,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42458,
-      "num": 31942,
-      "word": "杨超越五年后跟谢涤葵再过招",
-      "onboard_time": 1715810231,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 37719,
-      "num": 30982,
-      "word": "佟丽娅刘涛高圆圆红衣同框",
-      "onboard_time": 1715810592,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 32588,
@@ -499,8 +499,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 18926,
-      "num": 20948,
+      "raw_hot": 20198,
+      "num": 26274,
       "word": "夏天最喜欢的几款香水",
       "onboard_time": 1715805671,
       "rank": 45,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 10585,
-      "num": 95177,
+      "num": 98852,
       "word": "店家打烊遇拾荒老人果断开店送吃的",
       "onboard_time": 1715793253,
       "rank": 43,
