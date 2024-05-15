@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715801660020,
+  "endTime": 1715804489518,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -41203,6 +41203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53896,
+      "num": 18588,
+      "word": "睡眠真的是大脑在排毒吗",
+      "onboard_time": 1715801290,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 53572,
       "num": 142355,
       "word": "信一好帅",
@@ -42187,6 +42195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24234,
+      "num": 21212,
+      "word": "云南将迎1亿只以上蝴蝶大爆发",
+      "onboard_time": 1715803151,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24174,
       "num": 172609,
       "word": "球迷是这样过调休的",
@@ -42411,14 +42427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17545,
-      "num": 17545,
-      "word": "睡眠真的是大脑在排毒吗",
-      "onboard_time": 1715801290,
-      "rank": 39,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 17451,
       "num": 17451,
       "word": "新款iPadPro搭载M4芯片",
@@ -42577,6 +42585,14 @@
       "onboard_time": 1715707033,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12484,
+      "num": 13764,
+      "word": "戛纳青年电影之夜红毯",
+      "onboard_time": 1715800871,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 12362,
