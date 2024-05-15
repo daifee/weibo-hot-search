@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715761421283,
+  "endTime": 1715762172214,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1235,6 +1235,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 1515483,
+      "num": 1515483,
+      "word": "专家称女性生孩子国家补贴房子是应该的",
+      "onboard_time": 1715757979,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1515060,
       "num": 1515060,
       "word": "今年五一没人结婚吗",
@@ -1848,14 +1856,6 @@
       "word": "广东省委书记省长面向塌方地三鞠躬",
       "onboard_time": 1714636158,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1272438,
-      "num": 1272438,
-      "word": "专家称女性生孩子国家补贴房子是应该的",
-      "onboard_time": 1715757979,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2825,6 +2825,14 @@
       "onboard_time": 1715422758,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1074334,
+      "num": 736687,
+      "word": "张腾否认李溪芮扔拖鞋",
+      "onboard_time": 1715761638,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1073817,
@@ -8220,7 +8228,7 @@
     },
     {
       "raw_hot": 531992,
-      "num": 333116,
+      "num": 399483,
       "word": "TikTok创作者集体起诉美国政府",
       "onboard_time": 1715756839,
       "rank": 24,
@@ -9345,6 +9353,14 @@
       "onboard_time": 1714964058,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 478192,
+      "num": 478192,
+      "word": "越来越多房东由卖转租",
+      "onboard_time": 1715759477,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478124,
@@ -11947,6 +11963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 389007,
+      "num": 389007,
+      "word": "张杰回复了摔倒小男孩的妈妈",
+      "onboard_time": 1715761397,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388993,
       "num": 388993,
       "word": "龙门石窟游客惊叹到下巴脱臼",
@@ -12848,6 +12872,14 @@
       "word": "歌手2024全球直播发布会",
       "onboard_time": 1715231720,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 363385,
+      "num": 363385,
+      "word": "变形计男主人公现状",
+      "onboard_time": 1715758997,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -14227,6 +14259,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 324972,
+      "num": 324972,
+      "word": "外交部回应5艘渔船从菲驶向黄岩岛周围海域",
+      "onboard_time": 1715761279,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 324756,
       "num": 244944,
       "word": "童瑶自曝不好意思被张新成看",
@@ -14417,14 +14457,6 @@
       "onboard_time": 1715092641,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 319949,
-      "num": 319949,
-      "word": "变形计男主人公现状",
-      "onboard_time": 1715758997,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 319912,
@@ -15089,14 +15121,6 @@
       "onboard_time": 1715688199,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302142,
-      "num": 302142,
-      "word": "越来越多房东由卖转租",
-      "onboard_time": 1715759477,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301701,
@@ -18147,6 +18171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246274,
+      "num": 246274,
+      "word": "DNF全新代言人",
+      "onboard_time": 1715760919,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246158,
       "num": 246158,
       "word": "日本小学招不到新生招了只山羊",
@@ -20076,7 +20108,7 @@
     },
     {
       "raw_hot": 220047,
-      "num": 335823,
+      "num": 410746,
       "word": "荔枝型榴莲出肉率更高",
       "onboard_time": 1715759779,
       "rank": 9,
@@ -21627,14 +21659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206255,
-      "num": 206255,
-      "word": "张杰回复了摔倒小男孩的妈妈",
-      "onboard_time": 1715761397,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206148,
       "num": 206148,
       "word": "杨紫ELLE女星销量第一",
@@ -22225,14 +22249,6 @@
       "onboard_time": 1715522841,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202690,
-      "num": 202690,
-      "word": "DNF全新代言人",
-      "onboard_time": 1715760919,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 202661,
@@ -24091,6 +24107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193145,
+      "num": 193145,
+      "word": "考虑让地方政府购买尚未售出的存量住房",
+      "onboard_time": 1715761279,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193091,
       "num": 193091,
       "word": "TES对战TL",
@@ -24249,6 +24273,14 @@
       "onboard_time": 1715057660,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192171,
+      "num": 192171,
+      "word": "世界之外命运相遇",
+      "onboard_time": 1715761878,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 192111,
@@ -25779,6 +25811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 182940,
+      "num": 182940,
+      "word": "快乐老友记 两大群像",
+      "onboard_time": 1715761279,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182917,
       "num": 182917,
       "word": "井柏然好帅",
@@ -26601,6 +26641,14 @@
       "onboard_time": 1715212937,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176445,
+      "num": 176445,
+      "word": "SEVENTEEN全员参加经纪人婚礼",
+      "onboard_time": 1715762117,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 176352,
@@ -29313,14 +29361,6 @@
       "onboard_time": 1714708039,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 160205,
-      "num": 160205,
-      "word": "外交部回应5艘渔船从菲驶向黄岩岛周围海域",
-      "onboard_time": 1715761279,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 160187,
@@ -34939,6 +34979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 124887,
+      "num": 124887,
+      "word": "选个你们想吃又不想消费的",
+      "onboard_time": 1715761878,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124831,
       "num": 124831,
       "word": "AG对战DRG",
@@ -34993,14 +35041,6 @@
       "onboard_time": 1715686998,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124664,
-      "num": 124664,
-      "word": "快乐老友记 两大群像",
-      "onboard_time": 1715761279,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 124554,
@@ -35153,14 +35193,6 @@
       "onboard_time": 1714722499,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123661,
-      "num": 123661,
-      "word": "考虑让地方政府购买尚未售出的存量住房",
-      "onboard_time": 1715761279,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 123634,
@@ -35737,6 +35769,14 @@
       "onboard_time": 1714645519,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119730,
+      "num": 119730,
+      "word": "季风音乐会定档",
+      "onboard_time": 1715761998,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 119667,
@@ -38819,6 +38859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80956,
+      "num": 178849,
+      "word": "余承东现身问界新M5交付活动",
+      "onboard_time": 1715759718,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 80872,
       "num": 80872,
       "word": "巴菲特或将透露投资的神秘股票",
@@ -39195,14 +39243,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 72201,
-      "num": 153146,
-      "word": "余承东现身问界新M5交付活动",
-      "onboard_time": 1715759718,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 71771,
       "num": 82636,
       "word": "TWICE回归预告",
@@ -39563,6 +39603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63679,
+      "num": 285699,
+      "word": "余承东讲Pura70Ultra最顶影像",
+      "onboard_time": 1715760378,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 63524,
       "num": 63524,
       "word": "王楚钦笑得肆意爽朗",
@@ -39785,14 +39833,6 @@
       "onboard_time": 1714742900,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56735,
-      "num": 241829,
-      "word": "余承东讲Pura70Ultra最顶影像",
-      "onboard_time": 1715760378,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 56507,
@@ -40339,6 +40379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 43848,
+      "num": 116008,
+      "word": "Rita要求姿态cos嫦娥",
+      "onboard_time": 1715761339,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 43697,
       "num": 425395,
       "word": "时代少年团全员被整蛊",
@@ -40515,6 +40563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37756,
+      "num": 740086,
+      "word": "首个适应气候变化工作进展报告发布",
+      "onboard_time": 1715761638,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37594,
       "num": 69755,
       "word": "文淇发型 孙俪",
@@ -40633,14 +40689,6 @@
       "onboard_time": 1715624592,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 32788,
-      "num": 111483,
-      "word": "Rita要求姿态cos嫦娥",
-      "onboard_time": 1715761339,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 32765,
