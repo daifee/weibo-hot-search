@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715791109019,
+  "endTime": 1715793481260,
   "band_list": [
     {
       "raw_hot": 1830305,
@@ -91,6 +91,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 323572,
+      "num": 67831,
+      "word": "开心消消乐",
+      "onboard_time": 1715791036,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 303268,
       "num": 303268,
       "word": "官方通报60余名幼儿群体性流血不实",
@@ -169,6 +177,14 @@
       "onboard_time": 1715788877,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167683,
+      "num": 102560,
+      "word": "佟丽娅长发新中式",
+      "onboard_time": 1715790555,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 150154,
@@ -291,14 +307,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 102560,
-      "num": 102560,
-      "word": "佟丽娅长发新中式",
-      "onboard_time": 1715790555,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 95181,
       "num": 95181,
       "word": "王源新歌fingerprints",
@@ -403,12 +411,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60771,
-      "num": 60771,
-      "word": "开心消消乐",
-      "onboard_time": 1715791036,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 55763,
+      "num": 55763,
+      "word": "新华社专访普京",
+      "onboard_time": 1715791635,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 44197,
+      "num": 44197,
+      "word": "中国海警喊话警告非法侵闯黄岩岛船只",
+      "onboard_time": 1715793133,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31959,
@@ -424,6 +440,14 @@
       "word": "2024年全球贸易投资促进峰会",
       "onboard_time": 1715780600,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10585,
+      "num": 46007,
+      "word": "店家打烊遇拾荒老人果断开店送吃的",
+      "onboard_time": 1715793253,
+      "rank": 43,
       "category": "社会新闻"
     }
   ],
