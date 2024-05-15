@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715812716483,
+  "endTime": 1715815200038,
   "band_list": [
     {
       "raw_hot": 1830305,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 622168,
+      "num": 622168,
+      "word": "云南将迎1亿只以上蝴蝶大爆发",
+      "onboard_time": 1715803151,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515744,
       "num": 258220,
       "word": "费可死了",
@@ -51,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 424813,
-      "num": 253144,
+      "raw_hot": 456831,
+      "num": 456831,
       "word": "李溪芮张腾与代驾发生冲突全过程",
       "onboard_time": 1715783659,
       "rank": 10,
@@ -65,6 +73,14 @@
       "onboard_time": 1715788278,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 406132,
+      "num": 406132,
+      "word": "普京开启访华之旅",
+      "onboard_time": 1715814734,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 400283,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 323572,
-      "num": 67831,
+      "num": 71042,
       "word": "开心消消乐",
       "onboard_time": 1715791036,
       "rank": 48,
@@ -116,11 +132,19 @@
     },
     {
       "raw_hot": 263884,
-      "num": 149089,
+      "num": 159162,
       "word": "张静初回应凹学霸人设",
       "onboard_time": 1715785099,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261277,
+      "num": 177675,
+      "word": "佟丽娅长发新中式",
+      "onboard_time": 1715790555,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 260692,
@@ -131,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 251637,
+      "num": 170439,
+      "word": "日本前大臣感慨日本太落后",
+      "onboard_time": 1715805850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 248278,
       "num": 248278,
       "word": "全局BP",
@@ -139,12 +171,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 247091,
-      "num": 247091,
-      "word": "云南将迎1亿只以上蝴蝶大爆发",
-      "onboard_time": 1715803151,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 245177,
+      "num": 167647,
+      "word": "李雪琴 小树不长歪长点枝丫没问题",
+      "onboard_time": 1715788877,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 230150,
@@ -153,6 +185,14 @@
       "onboard_time": 1715778077,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224700,
+      "num": 224700,
+      "word": "新华社专访普京",
+      "onboard_time": 1715791635,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 214877,
@@ -171,28 +211,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204915,
+      "num": 80314,
+      "word": "前夫出轨拒赔偿女子每年起诉要钱",
+      "onboard_time": 1715794933,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182900,
+      "num": 182900,
+      "word": "江西丰城一船舶4人窒息死亡",
+      "onboard_time": 1715781198,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175592,
+      "num": 79394,
+      "word": "睡眠真的是大脑在排毒吗",
+      "onboard_time": 1715801290,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 172248,
       "num": 148684,
       "word": "小学六年级的李惠仁",
       "onboard_time": 1715784019,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172191,
-      "num": 148570,
-      "word": "李雪琴 小树不长歪长点枝丫没问题",
-      "onboard_time": 1715788877,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 167683,
-      "num": 102560,
-      "word": "佟丽娅长发新中式",
-      "onboard_time": 1715790555,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 150154,
@@ -203,28 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150088,
-      "num": 150088,
-      "word": "江西丰城一船舶4人窒息死亡",
-      "onboard_time": 1715781198,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148239,
       "num": 148239,
       "word": "庆余年第二季开播倒计时1天",
       "onboard_time": 1715777417,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144353,
-      "num": 95788,
-      "word": "日本前大臣感慨日本太落后",
-      "onboard_time": 1715805850,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 138762,
@@ -275,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129673,
-      "num": 129673,
-      "word": "新华社专访普京",
-      "onboard_time": 1715791635,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 126760,
       "num": 150034,
       "word": "华为MatePad",
@@ -297,6 +321,14 @@
       "onboard_time": 1715782879,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120762,
+      "num": 78762,
+      "word": "甲状腺病患者能吃加碘盐吗",
+      "onboard_time": 1715814074,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118724,
@@ -339,12 +371,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 100962,
-      "num": 43531,
-      "word": "前夫出轨拒赔偿女子每年起诉要钱",
-      "onboard_time": 1715794933,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 106325,
+      "num": 78099,
+      "word": "佟丽娅刘涛高圆圆红衣同框",
+      "onboard_time": 1715810592,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 95181,
@@ -363,20 +395,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91273,
+      "num": 91273,
+      "word": "曼联3比2纽卡斯尔联",
+      "onboard_time": 1715814615,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88935,
       "num": 88935,
       "word": "奥运资格赛王一博观赛",
       "onboard_time": 1715782819,
       "rank": 40,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 88731,
-      "num": 42656,
-      "word": "睡眠真的是大脑在排毒吗",
-      "onboard_time": 1715801290,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 87600,
@@ -395,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86264,
+      "num": 76616,
+      "word": "在仙侠剧看到女主强制爱男主",
+      "onboard_time": 1715813173,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85931,
+      "num": 76209,
+      "word": "高血压孕妇拒用药产后确诊子痫",
+      "onboard_time": 1715783058,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78051,
       "num": 78051,
       "word": "上海一餐厅特设肖战墙景位预约爆满",
@@ -409,14 +457,6 @@
       "onboard_time": 1715784619,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76209,
-      "num": 76209,
-      "word": "高血压孕妇拒用药产后确诊子痫",
-      "onboard_time": 1715783058,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75525,
@@ -451,16 +491,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 65920,
-      "num": 42025,
-      "word": "佟丽娅刘涛高圆圆红衣同框",
-      "onboard_time": 1715810592,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 62173,
-      "num": 41336,
+      "raw_hot": 65074,
+      "num": 65074,
       "word": "杨超越五年后跟谢涤葵再过招",
       "onboard_time": 1715810231,
       "rank": 27,
@@ -473,6 +505,14 @@
       "onboard_time": 1715776336,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47988,
+      "num": 47988,
+      "word": "俄罗斯总统普京抵达北京",
+      "onboard_time": 1715815155,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32588,
@@ -507,20 +547,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 19429,
+      "num": 482010,
+      "word": "2024年全球贸易投资促进峰会",
+      "onboard_time": 1715780600,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17862,
       "num": 17862,
       "word": "在大学当高中生",
       "onboard_time": 1715798291,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17040,
-      "num": 268803,
-      "word": "2024年全球贸易投资促进峰会",
-      "onboard_time": 1715780600,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15082,
@@ -548,7 +588,7 @@
     },
     {
       "raw_hot": 10585,
-      "num": 98852,
+      "num": 179701,
       "word": "店家打烊遇拾荒老人果断开店送吃的",
       "onboard_time": 1715793253,
       "rank": 43,
