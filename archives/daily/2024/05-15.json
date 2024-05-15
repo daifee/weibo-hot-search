@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715754278754,
+  "endTime": 1715755035180,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -19,6 +19,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1781240,
+      "num": 1781240,
+      "word": "正准备提离职结果被裁了",
+      "onboard_time": 1715752218,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1699754,
       "num": 837018,
       "word": "鹿晗在路边吐了",
@@ -33,14 +41,6 @@
       "onboard_time": 1715742797,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1485155,
-      "num": 1485155,
-      "word": "正准备提离职结果被裁了",
-      "onboard_time": 1715752218,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 1405399,
@@ -123,20 +123,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1017285,
+      "num": 1017285,
+      "word": "苗苗扎紧点漂亮",
+      "onboard_time": 1715752579,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 993759,
       "num": 993759,
       "word": "地磁暴的这几天你睡眠如何",
       "onboard_time": 1715730737,
       "rank": 5,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 982470,
-      "num": 982470,
-      "word": "苗苗扎紧点漂亮",
-      "onboard_time": 1715752579,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 971930,
@@ -347,8 +347,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 478656,
-      "num": 478656,
+      "raw_hot": 490071,
+      "num": 490071,
       "word": "健身房又偶遇王俊凯",
       "onboard_time": 1715751978,
       "rank": 8,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405931,
+      "num": 405931,
+      "word": "D社确认方时赫无视Newjeans成员",
+      "onboard_time": 1715750778,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397528,
       "num": 397528,
       "word": "Rookie爆料TheShy气走教练",
@@ -481,14 +489,6 @@
       "onboard_time": 1715735478,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381938,
-      "num": 381938,
-      "word": "D社确认方时赫无视Newjeans成员",
-      "onboard_time": 1715750778,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 381239,
@@ -547,20 +547,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345853,
+      "num": 282962,
+      "word": "偶像塌房险",
+      "onboard_time": 1715752279,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331389,
       "num": 331389,
       "word": "肖战藏海传海报",
       "onboard_time": 1715746640,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327473,
-      "num": 225109,
-      "word": "偶像塌房险",
-      "onboard_time": 1715752279,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 327090,
@@ -635,8 +635,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 284540,
-      "num": 284540,
+      "raw_hot": 287287,
+      "num": 287287,
       "word": "世界之外",
       "onboard_time": 1715752997,
       "rank": 17,
@@ -691,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269145,
+      "num": 269145,
+      "word": "因为追星被相亲对象拒绝",
+      "onboard_time": 1715752518,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265377,
       "num": 265377,
       "word": "珠帘玉幕",
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 258063,
-      "num": 225036,
+      "num": 244152,
       "word": "清华大学30年来男女比例变化",
       "onboard_time": 1715751859,
       "rank": 24,
@@ -744,14 +752,6 @@
       "word": "真的有很多人晚上在家不拉窗帘",
       "onboard_time": 1715733379,
       "rank": 29,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 251993,
-      "num": 225006,
-      "word": "因为追星被相亲对象拒绝",
-      "onboard_time": 1715752518,
-      "rank": 25,
       "category": "情感"
     },
     {
@@ -891,6 +891,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 208707,
+      "num": 208707,
+      "word": "肖战如愿与晚霞太适配了",
+      "onboard_time": 1715754918,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207800,
       "num": 207800,
       "word": "苏晓彤一天官宣两部剧",
@@ -921,6 +929,14 @@
       "onboard_time": 1715736317,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205667,
+      "num": 205667,
+      "word": "汪苏泷2024十万伏特巡回演唱会",
+      "onboard_time": 1715753119,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 204765,
@@ -1019,12 +1035,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196738,
-      "num": 196738,
-      "word": "汪苏泷2024十万伏特巡回演唱会",
-      "onboard_time": 1715753119,
-      "rank": 34,
-      "category": "演出"
+      "raw_hot": 196652,
+      "num": 196652,
+      "word": "大风吹倒路灯行人被砸身亡",
+      "onboard_time": 1715750898,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195108,
@@ -1043,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194538,
+      "num": 194538,
+      "word": "韩国街道有种对生活的向往",
+      "onboard_time": 1715753899,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 193538,
       "num": 193538,
       "word": "河南大风",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1715735058,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 191923,
-      "num": 191923,
-      "word": "大风吹倒路灯行人被砸身亡",
-      "onboard_time": 1715750898,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191069,
@@ -1139,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181757,
+      "num": 181757,
+      "word": "花2万元拍一张写真",
+      "onboard_time": 1715751078,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 180776,
       "num": 180776,
       "word": "咏月风雅福利礼包",
@@ -1195,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172741,
-      "num": 172741,
-      "word": "花2万元拍一张写真",
-      "onboard_time": 1715751078,
-      "rank": 49,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 171900,
       "num": 171900,
       "word": "陈晓杨子姗三搭",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1715751138,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170194,
+      "num": 170194,
+      "word": "毛毛姐找张突然设计戛纳礼服",
+      "onboard_time": 1715754317,
+      "rank": 40,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 167512,
@@ -1275,12 +1299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159149,
-      "num": 159149,
-      "word": "韩国街道有种对生活的向往",
-      "onboard_time": 1715753899,
-      "rank": 42,
-      "category": "旅游"
+      "raw_hot": 158559,
+      "num": 158559,
+      "word": "歌手",
+      "onboard_time": 1715754138,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 155602,
@@ -1339,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148977,
+      "num": 148977,
+      "word": "A股",
+      "onboard_time": 1715754858,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 148536,
       "num": 148536,
       "word": "度华年",
@@ -1363,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142315,
+      "num": 142315,
+      "word": "赵露思珠帘玉幕水下镜头",
+      "onboard_time": 1715751677,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141307,
       "num": 141307,
       "word": "墨雨云间",
@@ -1379,12 +1419,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 139193,
-      "num": 139193,
-      "word": "赵露思珠帘玉幕水下镜头",
-      "onboard_time": 1715751677,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 139980,
+      "num": 139980,
+      "word": "跳远是一件很私密的事",
+      "onboard_time": 1715750717,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 139156,
@@ -1419,14 +1459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134854,
-      "num": 130160,
-      "word": "歌手",
-      "onboard_time": 1715754138,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132398,
       "num": 132398,
       "word": "狗狗Messi走戛纳红毯",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1715696301,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130179,
-      "num": 130179,
-      "word": "跳远是一件很私密的事",
-      "onboard_time": 1715750717,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 129784,
@@ -1659,8 +1683,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80002,
-      "num": 250494,
+      "raw_hot": 83141,
+      "num": 211282,
+      "word": "儿子打碎20多个瓜爸妈脸上笑哈哈",
+      "onboard_time": 1715754978,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82101,
+      "num": 269301,
       "word": "朵莉亚海诺主题曲绝美合唱",
       "onboard_time": 1715750299,
       "rank": 48,
@@ -1860,7 +1892,7 @@
     },
     {
       "raw_hot": 22950,
-      "num": 693566,
+      "num": 1050169,
       "word": "重申红线把基础教育越办越好",
       "onboard_time": 1715740637,
       "rank": 2,
