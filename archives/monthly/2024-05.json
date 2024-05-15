@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715737217181,
+  "endTime": 1715740414930,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2051,6 +2051,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1215588,
+      "num": 1215588,
+      "word": "优酷片单",
+      "onboard_time": 1715737758,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1203159,
       "num": 1203159,
       "word": "海底捞回应4人含玻璃渣吃火锅敲诈",
@@ -3505,6 +3513,14 @@
       "onboard_time": 1715366711,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 903543,
+      "num": 642997,
+      "word": "优酷官宣甄嬛传团综",
+      "onboard_time": 1715738658,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 896475,
@@ -8315,6 +8331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512297,
+      "num": 512297,
+      "word": "致3岁男童死亡恶犬仍下落不明",
+      "onboard_time": 1715737338,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511961,
       "num": 511961,
       "word": "五十公里桃花坞4官宣",
@@ -8624,6 +8648,14 @@
       "word": "我在北大学减肥",
       "onboard_time": 1715557697,
       "rank": 7,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 501328,
+      "num": 501328,
+      "word": "这么小的榴莲却这么懂事",
+      "onboard_time": 1715738538,
+      "rank": 10,
       "category": "美食"
     },
     {
@@ -9553,6 +9585,14 @@
       "onboard_time": 1714877898,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460953,
+      "num": 253467,
+      "word": "这5种炎症可能会演变成癌症",
+      "onboard_time": 1715738057,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 460894,
@@ -11097,6 +11137,14 @@
       "onboard_time": 1715066539,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407567,
+      "num": 407567,
+      "word": "金秀贤一口气发了42张图",
+      "onboard_time": 1715733678,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 407410,
@@ -12747,6 +12795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356381,
+      "num": 356381,
+      "word": "庆余年",
+      "onboard_time": 1714984939,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355693,
       "num": 355693,
       "word": "汤杯决赛中国2比1印尼",
@@ -13739,14 +13795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 328546,
-      "num": 328546,
-      "word": "金秀贤一口气发了42张图",
-      "onboard_time": 1715733678,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328461,
       "num": 328461,
       "word": "黄霄雲 要多努力才能改变一句评价",
@@ -14699,14 +14747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302417,
-      "num": 302417,
-      "word": "庆余年",
-      "onboard_time": 1714984939,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 301701,
       "num": 301701,
       "word": "杭州市内买房不再审核购房资格",
@@ -14753,6 +14793,14 @@
       "onboard_time": 1715073379,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 301181,
+      "num": 301181,
+      "word": "藏海传",
+      "onboard_time": 1715740037,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 301029,
@@ -16539,6 +16587,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 265111,
+      "num": 265111,
+      "word": "四月初八",
+      "onboard_time": 1715737219,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264931,
       "num": 264931,
       "word": "美73岁儿科医生强奸8岁女童判50年",
@@ -16851,6 +16907,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 259257,
+      "num": 250052,
+      "word": "春花厌",
+      "onboard_time": 1715737998,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259188,
       "num": 704614,
       "word": "新疆2元一个的烤包子火了",
@@ -17033,6 +17097,14 @@
       "onboard_time": 1715314399,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255800,
+      "num": 255800,
+      "word": "外国旅游团乘坐邮轮入境免签",
+      "onboard_time": 1715738357,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 255638,
@@ -18779,6 +18851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229592,
+      "num": 229592,
+      "word": "为什么江浙没有夜生活",
+      "onboard_time": 1715737818,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229546,
       "num": 229546,
       "word": "这8个表现说明你已经瘦了",
@@ -19249,6 +19329,14 @@
       "onboard_time": 1714529477,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223861,
+      "num": 223861,
+      "word": "王源两部手机怕手滑点赞",
+      "onboard_time": 1715737698,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 223628,
@@ -19953,6 +20041,22 @@
       "onboard_time": 1714956499,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215899,
+      "num": 215899,
+      "word": "林俊杰歌手舞台曾帮唱张杰",
+      "onboard_time": 1715737398,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215809,
+      "num": 215809,
+      "word": "小米SU7交付量破万创纪录",
+      "onboard_time": 1715739856,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 215665,
@@ -21635,6 +21739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202237,
+      "num": 202237,
+      "word": "珠帘玉幕",
+      "onboard_time": 1715740098,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202158,
       "num": 202158,
       "word": "iPad 泡面盖",
@@ -22851,6 +22963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195422,
+      "num": 195422,
+      "word": "剧集凡人修仙传",
+      "onboard_time": 1715739917,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195414,
       "num": 193188,
       "word": "媒体评00后拟任副局长引争议",
@@ -22865,6 +22985,14 @@
       "onboard_time": 1714487478,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195253,
+      "num": 195253,
+      "word": "掌心",
+      "onboard_time": 1715739977,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 195221,
@@ -23627,6 +23755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191069,
+      "num": 191069,
+      "word": "种地吧直播",
+      "onboard_time": 1715306238,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191030,
       "num": 191030,
       "word": "刘畊宏美依礼芽跳本草纲目",
@@ -24051,6 +24187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188886,
+      "num": 188886,
+      "word": "关晓彤担任法国尼斯旅游文化大使",
+      "onboard_time": 1715737698,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188877,
       "num": 188877,
       "word": "讨厌不发信息直接弹语音电话的人",
@@ -24368,6 +24512,14 @@
       "word": "山西恒山景区回应落石砸伤游客",
       "onboard_time": 1714652657,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187099,
+      "num": 187099,
+      "word": "张桂梅的学生入伍后再破纪录",
+      "onboard_time": 1715739197,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -31411,6 +31563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 141307,
+      "num": 141307,
+      "word": "墨雨云间",
+      "onboard_time": 1715737758,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141291,
       "num": 141291,
       "word": "MRC对战HHDG",
@@ -31755,6 +31915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 139156,
+      "num": 139156,
+      "word": "杨洋韩立踏山而来海报",
+      "onboard_time": 1715738958,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139126,
       "num": 139126,
       "word": "比亚迪回应漏电传言",
@@ -32033,14 +32201,6 @@
       "onboard_time": 1715388140,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 137242,
-      "num": 137242,
-      "word": "种地吧直播",
-      "onboard_time": 1715306238,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 137075,
@@ -34515,6 +34675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 120784,
+      "num": 120784,
+      "word": "四川德阳发生3.0级地震",
+      "onboard_time": 1715737818,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120775,
       "num": 120775,
       "word": "狼队瓜瓜",
@@ -35793,6 +35961,14 @@
       "onboard_time": 1714872499,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111214,
+      "num": 111214,
+      "word": "江苏句容20万株鲁冰花绽放",
+      "onboard_time": 1715739077,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 111163,

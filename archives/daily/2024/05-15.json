@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715737217181,
+  "endTime": 1715740414930,
   "band_list": [
     {
       "raw_hot": 2162287,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1215588,
+      "num": 1215588,
+      "word": "优酷片单",
+      "onboard_time": 1715737758,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1126452,
       "num": 1126452,
       "word": "樊振东",
@@ -49,6 +57,14 @@
       "onboard_time": 1715730737,
       "rank": 5,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 903543,
+      "num": 642997,
+      "word": "优酷官宣甄嬛传团综",
+      "onboard_time": 1715738658,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 757705,
@@ -147,12 +163,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512297,
+      "num": 512297,
+      "word": "致3岁男童死亡恶犬仍下落不明",
+      "onboard_time": 1715737338,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504511,
       "num": 504511,
       "word": "张韶涵造型团队没有瓶颈期",
       "onboard_time": 1715699000,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 501328,
+      "num": 501328,
+      "word": "这么小的榴莲却这么懂事",
+      "onboard_time": 1715738538,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 460953,
+      "num": 253467,
+      "word": "这5种炎症可能会演变成癌症",
+      "onboard_time": 1715738057,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 447858,
@@ -177,6 +217,14 @@
       "onboard_time": 1715691019,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 407567,
+      "num": 407567,
+      "word": "金秀贤一口气发了42张图",
+      "onboard_time": 1715733678,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 397399,
@@ -243,12 +291,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 328546,
-      "num": 328546,
-      "word": "金秀贤一口气发了42张图",
-      "onboard_time": 1715733678,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 356381,
+      "num": 356381,
+      "word": "庆余年",
+      "onboard_time": 1715733622,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 327090,
@@ -299,11 +347,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302417,
-      "num": 302417,
-      "word": "庆余年",
-      "onboard_time": 1715733622,
-      "rank": 19,
+      "raw_hot": 301181,
+      "num": 301181,
+      "word": "藏海传",
+      "onboard_time": 1715740037,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -339,12 +387,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265111,
+      "num": 265111,
+      "word": "四月初八",
+      "onboard_time": 1715737219,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259257,
+      "num": 250052,
+      "word": "春花厌",
+      "onboard_time": 1715737998,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256790,
       "num": 256790,
       "word": "湖大回应留学生称南海诸岛是越南领土",
       "onboard_time": 1715722150,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255800,
+      "num": 255800,
+      "word": "外国旅游团乘坐邮轮入境免签",
+      "onboard_time": 1715738357,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 252926,
@@ -395,12 +467,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229592,
+      "num": 229592,
+      "word": "为什么江浙没有夜生活",
+      "onboard_time": 1715737818,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223861,
+      "num": 223861,
+      "word": "王源两部手机怕手滑点赞",
+      "onboard_time": 1715737698,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220637,
       "num": 220637,
       "word": "不吃饭先瘦死还是饿死",
       "onboard_time": 1715731157,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 215899,
+      "num": 215899,
+      "word": "林俊杰歌手舞台曾帮唱张杰",
+      "onboard_time": 1715737398,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215809,
+      "num": 215809,
+      "word": "小米SU7交付量破万创纪录",
+      "onboard_time": 1715739856,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 214487,
@@ -427,6 +531,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 202237,
+      "num": 202237,
+      "word": "珠帘玉幕",
+      "onboard_time": 1715740098,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195422,
+      "num": 195422,
+      "word": "剧集凡人修仙传",
+      "onboard_time": 1715739917,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195253,
+      "num": 195253,
+      "word": "掌心",
+      "onboard_time": 1715739977,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195108,
       "num": 195108,
       "word": "地磁暴",
@@ -449,6 +577,30 @@
       "onboard_time": 1715735058,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 191069,
+      "num": 191069,
+      "word": "种地吧直播",
+      "onboard_time": 1715739197,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188886,
+      "num": 188886,
+      "word": "关晓彤担任法国尼斯旅游文化大使",
+      "onboard_time": 1715737698,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187099,
+      "num": 187099,
+      "word": "张桂梅的学生入伍后再破纪录",
+      "onboard_time": 1715739197,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186373,
@@ -595,12 +747,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141307,
+      "num": 141307,
+      "word": "墨雨云间",
+      "onboard_time": 1715737758,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140347,
       "num": 140347,
       "word": "这次轮到阿勒泰了",
       "onboard_time": 1715699179,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 139156,
+      "num": 139156,
+      "word": "杨洋韩立踏山而来海报",
+      "onboard_time": 1715738958,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 138499,
@@ -691,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120784,
+      "num": 120784,
+      "word": "四川德阳发生3.0级地震",
+      "onboard_time": 1715737818,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118858,
       "num": 118858,
       "word": "TES",
@@ -721,6 +897,14 @@
       "onboard_time": 1715684297,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111214,
+      "num": 111214,
+      "word": "江苏句容20万株鲁冰花绽放",
+      "onboard_time": 1715739077,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 109640,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1715740414930,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1215588,
+        "num": 1215588,
+        "word": "优酷片单",
+        "onboard_time": 1715737758,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 823651,
+        "num": 823651,
+        "word": "死亡的20只东北虎有10只是幼虎",
+        "onboard_time": 1715734398,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10049,
+        "num": 667306,
+        "word": "累计飞行3500小时他将头盔交给95后徒弟",
+        "onboard_time": 1715694079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1675522,
+        "num": 646470,
+        "word": "月薪两万不敢在商场买衣服",
+        "onboard_time": 1715734099,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 903543,
+        "num": 642997,
+        "word": "优酷官宣甄嬛传团综",
+        "onboard_time": 1715738658,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 615510,
+        "num": 615510,
+        "word": "香港一医院就误切女子子宫致歉",
+        "onboard_time": 1715729955,
+        "rank": 5,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 577202,
+        "num": 577202,
+        "word": "地磁暴的这几天你睡眠如何",
+        "onboard_time": 1715730737,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 536692,
+        "num": 536692,
+        "word": "歌手预测",
+        "onboard_time": 1715731639,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512297,
+        "num": 512297,
+        "word": "致3岁男童死亡恶犬仍下落不明",
+        "onboard_time": 1715737338,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56997,
+        "num": 501820,
+        "word": "二孩妈妈用22年从中专读到博士",
+        "onboard_time": 1715734278,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501328,
+        "num": 501328,
+        "word": "这么小的榴莲却这么懂事",
+        "onboard_time": 1715738538,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 448568,
+        "num": 448568,
+        "word": "张杰谢娜吵架也要撒狗粮",
+        "onboard_time": 1715732240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433017,
+        "num": 433017,
+        "word": "00后试岗月薪15000住家保姆",
+        "onboard_time": 1715734099,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407567,
+        "num": 407567,
+        "word": "金秀贤一口气发了42张图",
+        "onboard_time": 1715733678,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356489,
+        "num": 356489,
+        "word": "女子呼吁改进妇科检查的鸭嘴钳",
+        "onboard_time": 1715735478,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356381,
+        "num": 356381,
+        "word": "庆余年",
+        "onboard_time": 1715733622,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308594,
+        "num": 308594,
+        "word": "艾伦陈乔恩获金扫帚影帝后",
+        "onboard_time": 1715729657,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 301181,
+        "num": 301181,
+        "word": "藏海传",
+        "onboard_time": 1715740037,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265111,
+        "num": 265111,
+        "word": "四月初八",
+        "onboard_time": 1715737219,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255800,
+        "num": 255800,
+        "word": "外国旅游团乘坐邮轮入境免签",
+        "onboard_time": 1715738357,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 794822,
+        "num": 254919,
+        "word": "长城炮车主被车顶电动帐篷卡脖身亡",
+        "onboard_time": 1715733200,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460953,
+        "num": 253467,
+        "word": "这5种炎症可能会演变成癌症",
+        "onboard_time": 1715738057,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 311218,
+        "num": 252306,
+        "word": "准备离职结果让我去出差",
+        "onboard_time": 1715731878,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279670,
+        "num": 251277,
+        "word": "关晓彤戛纳红毯短发造型",
+        "onboard_time": 1715731038,
+        "rank": 23,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 259257,
+        "num": 250052,
+        "word": "春花厌",
+        "onboard_time": 1715737998,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249259,
+        "num": 249259,
+        "word": "攻玉官微",
+        "onboard_time": 1715734340,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241191,
+        "num": 241191,
+        "word": "真的有很多人晚上在家不拉窗帘",
+        "onboard_time": 1715733379,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229592,
+        "num": 229592,
+        "word": "为什么江浙没有夜生活",
+        "onboard_time": 1715737818,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223861,
+        "num": 223861,
+        "word": "王源两部手机怕手滑点赞",
+        "onboard_time": 1715737698,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216652,
+        "num": 216652,
+        "word": "恶犬咬伤离世男童母亲发声",
+        "onboard_time": 1715730918,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215899,
+        "num": 215899,
+        "word": "林俊杰歌手舞台曾帮唱张杰",
+        "onboard_time": 1715737398,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215809,
+        "num": 215809,
+        "word": "小米SU7交付量破万创纪录",
+        "onboard_time": 1715739856,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 202237,
+        "num": 202237,
+        "word": "珠帘玉幕",
+        "onboard_time": 1715740098,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195422,
+        "num": 195422,
+        "word": "剧集凡人修仙传",
+        "onboard_time": 1715739917,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195253,
+        "num": 195253,
+        "word": "掌心",
+        "onboard_time": 1715739977,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191069,
+        "num": 191069,
+        "word": "种地吧直播",
+        "onboard_time": 1715739197,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188886,
+        "num": 188886,
+        "word": "关晓彤担任法国尼斯旅游文化大使",
+        "onboard_time": 1715737698,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187318,
+        "num": 187318,
+        "word": "欧阳娜娜晒毕业照",
+        "onboard_time": 1715736317,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187099,
+        "num": 187099,
+        "word": "张桂梅的学生入伍后再破纪录",
+        "onboard_time": 1715739197,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167039,
+        "num": 167039,
+        "word": "戛纳红毯",
+        "onboard_time": 1715729837,
+        "rank": 39,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 160463,
+        "num": 160463,
+        "word": "种地吧",
+        "onboard_time": 1715736917,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141307,
+        "num": 141307,
+        "word": "墨雨云间",
+        "onboard_time": 1715737758,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139724,
+        "num": 139724,
+        "word": "IVE MV画面",
+        "onboard_time": 1715697680,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139156,
+        "num": 139156,
+        "word": "杨洋韩立踏山而来海报",
+        "onboard_time": 1715738958,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127766,
+        "num": 127766,
+        "word": "云南蝴蝶大爆发将迎来最佳观赏期",
+        "onboard_time": 1715735058,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120784,
+        "num": 120784,
+        "word": "四川德阳发生3.0级地震",
+        "onboard_time": 1715737818,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120033,
+        "num": 120033,
+        "word": "手机被监听一招就能解决",
+        "onboard_time": 1715713331,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115591,
+        "num": 115591,
+        "word": "樊振东",
+        "onboard_time": 1715702598,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124264,
+        "num": 114069,
+        "word": "杨洋正午剧",
+        "onboard_time": 1715728995,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111214,
+        "num": 111214,
+        "word": "江苏句容20万株鲁冰花绽放",
+        "onboard_time": 1715739077,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中欧班列高质量发展#"
+    }
+  }
+}
