@@ -1,6 +1,6 @@
 {
   "startTime": 1715703876032,
-  "endTime": 1715750333721,
+  "endTime": 1715751271380,
   "band_list": [
     {
       "raw_hot": 2723697,
@@ -163,8 +163,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 790746,
-      "num": 790746,
+      "raw_hot": 834533,
+      "num": 834533,
       "word": "西安山姆会员店变考古现场",
       "onboard_time": 1715746822,
       "rank": 46,
@@ -523,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320627,
+      "num": 244046,
+      "word": "D社确认方时赫无视Newjeans成员",
+      "onboard_time": 1715750778,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319786,
       "num": 319786,
       "word": "微信背景图",
@@ -739,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230596,
+      "num": 230596,
+      "word": "当代年轻人不生孩子的原因",
+      "onboard_time": 1715750960,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230086,
       "num": 230086,
       "word": "种地吧",
@@ -793,6 +809,14 @@
       "onboard_time": 1715746158,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 207800,
+      "num": 207800,
+      "word": "苏晓彤一天官宣两部剧",
+      "onboard_time": 1715749522,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 207619,
@@ -851,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200782,
+      "num": 200782,
+      "word": "宋威龙鞠婧祎单人海报",
+      "onboard_time": 1715750358,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199618,
       "num": 199618,
       "word": "掌心",
@@ -899,6 +931,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 194731,
+      "num": 194731,
+      "word": "刘诗诗盘发梦回任如意",
+      "onboard_time": 1715749759,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193538,
       "num": 193538,
       "word": "河南大风",
@@ -915,14 +955,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 193001,
-      "num": 193001,
-      "word": "刘诗诗盘发梦回任如意",
-      "onboard_time": 1715749759,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191069,
       "num": 191069,
       "word": "种地吧直播",
@@ -931,19 +963,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190244,
+      "num": 190244,
+      "word": "张译蒋欣对手戏",
+      "onboard_time": 1715751259,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189961,
       "num": 189961,
       "word": "新生 一场葬礼引出的骗局",
       "onboard_time": 1715745079,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 189200,
-      "num": 178088,
-      "word": "苏晓彤一天官宣两部剧",
-      "onboard_time": 1715749522,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1035,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173644,
+      "num": 173644,
+      "word": "刘诗诗大女主排面",
+      "onboard_time": 1715750898,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173499,
       "num": 173499,
       "word": "藏海传筹谋在心版海报",
@@ -1067,6 +1107,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 170782,
+      "num": 170782,
+      "word": "掘金3比2森林狼",
+      "onboard_time": 1715751138,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167512,
       "num": 167512,
       "word": "彭于晏戛纳红毯",
@@ -1083,6 +1131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 165160,
+      "num": 170977,
+      "word": "约基奇军训戈贝尔",
+      "onboard_time": 1715750000,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165071,
       "num": 165071,
       "word": "狗狗走失三年后被认出",
@@ -1091,12 +1147,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163334,
-      "num": 163334,
-      "word": "约基奇军训戈贝尔",
-      "onboard_time": 1715750000,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 161439,
+      "num": 161439,
+      "word": "大风吹倒路灯行人被砸身亡",
+      "onboard_time": 1715750898,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160878,
@@ -1153,6 +1209,22 @@
       "onboard_time": 1715685620,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149505,
+      "num": 258340,
+      "word": "樊振东最后一舞舞个尽兴",
+      "onboard_time": 1715750420,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148618,
+      "num": 148618,
+      "word": "花2万元拍一张写真",
+      "onboard_time": 1715751078,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 148536,
@@ -1507,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71543,
+      "num": 250494,
+      "word": "朵莉亚海诺主题曲绝美合唱",
+      "onboard_time": 1715750299,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 69233,
       "num": 69233,
       "word": "晚安大小姐打歌舞台",
@@ -1617,14 +1697,6 @@
       "onboard_time": 1715716811,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 24256,
-      "num": 138991,
-      "word": "朵莉亚海诺主题曲绝美合唱",
-      "onboard_time": 1715750299,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 24143,
