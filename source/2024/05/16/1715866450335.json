@@ -1,0 +1,410 @@
+{
+  "runTime": 1715866450335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8032801,
+        "num": 8032801,
+        "word": "庆余年 剧王",
+        "onboard_time": 1715861296,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572141,
+        "num": 572141,
+        "word": "专家称只有房价不跌老百姓才会回归购房市场",
+        "onboard_time": 1715856798,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24714,
+        "num": 374071,
+        "word": "我国火箭发动机试验台上新了",
+        "onboard_time": 1715843778,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1051051,
+        "num": 373523,
+        "word": "腾讯视频会员",
+        "onboard_time": 1715864299,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370538,
+        "num": 370538,
+        "word": "BLG不敌GEN1比3落败",
+        "onboard_time": 1715863878,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 364752,
+        "num": 364752,
+        "word": "普京向人民英雄纪念碑敬献花圈",
+        "onboard_time": 1715860817,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1022414,
+        "num": 332113,
+        "word": "黄子韬只承认鹿晗比自己帅",
+        "onboard_time": 1715864419,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 972035,
+        "num": 304943,
+        "word": "杨幂包场庆余年",
+        "onboard_time": 1715864479,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271379,
+        "num": 271379,
+        "word": "医生建议榴莲1天最多吃1瓣",
+        "onboard_time": 1715841018,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54808,
+        "num": 270053,
+        "word": "网友新疆拍到隧道前后2种美景",
+        "onboard_time": 1715865800,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 846840,
+        "num": 266179,
+        "word": "李沁看得出是公主",
+        "onboard_time": 1715862619,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658879,
+        "num": 260022,
+        "word": "坐火车40小时没及时换卫生巾感染送医",
+        "onboard_time": 1715863758,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303949,
+        "num": 257609,
+        "word": "Bin哥辛苦了",
+        "onboard_time": 1715865260,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 624740,
+        "num": 253033,
+        "word": "庆余年 袁泉",
+        "onboard_time": 1715863819,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249705,
+        "num": 249705,
+        "word": "中国科协辟谣阿波罗登月造假",
+        "onboard_time": 1715859377,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244512,
+        "num": 244512,
+        "word": "4死16伤事故电梯未按规定实质性维保检验",
+        "onboard_time": 1715862137,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579993,
+        "num": 244497,
+        "word": "范闲一死叔圈大乱",
+        "onboard_time": 1715864899,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206978,
+        "num": 244354,
+        "word": "BLG跌入败者组",
+        "onboard_time": 1715863878,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164364,
+        "num": 244267,
+        "word": "左右手",
+        "onboard_time": 1715864539,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 548663,
+        "num": 244199,
+        "word": "言冰云",
+        "onboard_time": 1715845879,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 887010,
+        "num": 244039,
+        "word": "李佳琦称今年618大促是难的",
+        "onboard_time": 1715849237,
+        "rank": 20,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 543959,
+        "num": 243929,
+        "word": "花少北 p聊天记录",
+        "onboard_time": 1715853258,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 459939,
+        "num": 243821,
+        "word": "庆余年 你知道我这五年怎么过的吗",
+        "onboard_time": 1715854038,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421210,
+        "num": 243775,
+        "word": "你脸上的痘痘可能是吃出来的",
+        "onboard_time": 1715865319,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 312610,
+        "num": 243682,
+        "word": "那英唱了rap",
+        "onboard_time": 1715864720,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351326,
+        "num": 243597,
+        "word": "王启年 林小娘",
+        "onboard_time": 1715863998,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295678,
+        "num": 243502,
+        "word": "松本润独立",
+        "onboard_time": 1715865019,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253421,
+        "num": 243331,
+        "word": "民警高速亮证查车疑穿4400元T恤",
+        "onboard_time": 1715863219,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291447,
+        "num": 243319,
+        "word": "范闲更帅了",
+        "onboard_time": 1715862378,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160855,
+        "num": 243191,
+        "word": "GEN对战BLG",
+        "onboard_time": 1715853318,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243124,
+        "num": 243124,
+        "word": "花少北承认煎蛋恋情",
+        "onboard_time": 1715839219,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 284321,
+        "num": 242611,
+        "word": "李沁庆余年第一季vs第二季",
+        "onboard_time": 1715865260,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240210,
+        "num": 240210,
+        "word": "杨幂将出席酱园弄戛纳首映",
+        "onboard_time": 1715864299,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233658,
+        "num": 233658,
+        "word": "花少北道歉",
+        "onboard_time": 1715838978,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 164059,
+        "num": 230448,
+        "word": "高速上逼停小车的2民警被停职",
+        "onboard_time": 1715865440,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154575,
+        "num": 228582,
+        "word": "中俄元首检阅中国人民解放军仪仗队",
+        "onboard_time": 1715861536,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258109,
+        "num": 228565,
+        "word": "庆余年2剧本写了约3年",
+        "onboard_time": 1715857337,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228096,
+        "num": 228096,
+        "word": "迪丽热巴代言联想",
+        "onboard_time": 1715864779,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212971,
+        "num": 212971,
+        "word": "妈妈离去是张颂文一生的痛",
+        "onboard_time": 1715866039,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140118,
+        "num": 184347,
+        "word": "12306回应车厢吃东西被嫌味道大",
+        "onboard_time": 1715851218,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238503,
+        "num": 180916,
+        "word": "王楚然演的桑文",
+        "onboard_time": 1715866160,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171708,
+        "num": 171708,
+        "word": "成毅赴山海妆发",
+        "onboard_time": 1715865680,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168564,
+        "num": 168564,
+        "word": "大乔小乔",
+        "onboard_time": 1715857457,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204866,
+        "num": 160452,
+        "word": "庆余年2",
+        "onboard_time": 1715858657,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146645,
+        "num": 146645,
+        "word": "跟父母学消费降级后生活水平反而提高了",
+        "onboard_time": 1715861416,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141413,
+        "num": 141413,
+        "word": "lex 复活赛",
+        "onboard_time": 1715846418,
+        "rank": 45,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 191055,
+        "num": 140054,
+        "word": "柳如玉配音",
+        "onboard_time": 1715866340,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137116,
+        "num": 137116,
+        "word": "员工带薪如厕被解雇索赔20万元",
+        "onboard_time": 1715860276,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116766,
+        "num": 116766,
+        "word": "美国人开始流行坐月子",
+        "onboard_time": 1715849657,
+        "rank": 48,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 74280,
+        "num": 116749,
+        "word": "尊敬的普京总统我的老朋友",
+        "onboard_time": 1715850799,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京共同会见记者#"
+    }
+  }
+}

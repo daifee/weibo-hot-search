@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715865672840,
+  "endTime": 1715866450335,
   "band_list": [
     {
       "raw_hot": 9003287,
@@ -187,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1022414,
+      "num": 360937,
+      "word": "黄子韬只承认鹿晗比自己帅",
+      "onboard_time": 1715864419,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 993062,
       "num": 718802,
       "word": "尊敬的普京总统我的老朋友",
       "onboard_time": 1715850799,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 972035,
+      "num": 304943,
+      "word": "杨幂包场庆余年",
+      "onboard_time": 1715864479,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 958293,
@@ -219,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 939978,
-      "num": 360937,
-      "word": "黄子韬只承认鹿晗比自己帅",
-      "onboard_time": 1715864419,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 932928,
       "num": 932928,
       "word": "12306回应车厢吃东西被嫌味道大",
@@ -241,14 +249,6 @@
       "onboard_time": 1715856798,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 919506,
-      "num": 283013,
-      "word": "杨幂包场庆余年",
-      "onboard_time": 1715864479,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 918922,
@@ -411,6 +411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 658879,
+      "num": 281791,
+      "word": "坐火车40小时没及时换卫生巾感染送医",
+      "onboard_time": 1715863758,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650396,
       "num": 650396,
       "word": "庆余年 你知道我这五年怎么过的吗",
@@ -441,6 +449,14 @@
       "onboard_time": 1715836818,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 624740,
+      "num": 262966,
+      "word": "庆余年 袁泉",
+      "onboard_time": 1715863819,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 610069,
@@ -475,20 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 581192,
-      "num": 262966,
-      "word": "庆余年 袁泉",
-      "onboard_time": 1715863819,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 580529,
       "num": 580529,
       "word": "李玟无缘金曲奖特别贡献奖",
       "onboard_time": 1715845038,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 579993,
+      "num": 244497,
+      "word": "范闲一死叔圈大乱",
+      "onboard_time": 1715864899,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 579528,
@@ -536,14 +552,6 @@
       "word": "福宝",
       "onboard_time": 1715839457,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558299,
-      "num": 281791,
-      "word": "坐火车40小时没及时换卫生巾感染送医",
-      "onboard_time": 1715863758,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -763,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 421210,
+      "num": 243775,
+      "word": "你脸上的痘痘可能是吃出来的",
+      "onboard_time": 1715865319,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 415778,
       "num": 415778,
       "word": "于正当年差点拍庆余年",
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 413139,
-      "num": 199231,
+      "num": 243597,
       "word": "王启年 林小娘",
       "onboard_time": 1715863998,
       "rank": 22,
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 384467,
-      "num": 189136,
+      "num": 243319,
       "word": "范闲更帅了",
       "onboard_time": 1715862378,
       "rank": 33,
@@ -1003,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312610,
+      "num": 243682,
+      "word": "那英唱了rap",
+      "onboard_time": 1715864720,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310150,
       "num": 241438,
       "word": "终于知道为什么打工这么烦了",
@@ -1019,12 +1043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304363,
-      "num": 182046,
-      "word": "范闲一死叔圈大乱",
-      "onboard_time": 1715864899,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 303949,
+      "num": 257609,
+      "word": "Bin哥辛苦了",
+      "onboard_time": 1715865260,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 303268,
@@ -1059,6 +1083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 295678,
+      "num": 243502,
+      "word": "松本润独立",
+      "onboard_time": 1715865019,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294892,
       "num": 294892,
       "word": "庆余年是张若昀主动争取来的",
@@ -1083,12 +1115,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 282758,
-      "num": 179180,
-      "word": "你脸上的痘痘可能是吃出来的",
-      "onboard_time": 1715865319,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 284321,
+      "num": 242611,
+      "word": "李沁庆余年第一季vs第二季",
+      "onboard_time": 1715865260,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 282080,
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 276855,
-      "num": 188199,
+      "num": 240210,
       "word": "杨幂将出席酱园弄戛纳首映",
       "onboard_time": 1715864299,
       "rank": 26,
@@ -1121,14 +1153,6 @@
       "onboard_time": 1715863878,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 275595,
-      "num": 183645,
-      "word": "那英唱了rap",
-      "onboard_time": 1715864720,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 273947,
@@ -1180,7 +1204,7 @@
     },
     {
       "raw_hot": 264399,
-      "num": 178671,
+      "num": 243331,
       "word": "民警高速亮证查车疑穿4400元T恤",
       "onboard_time": 1715863219,
       "rank": 27,
@@ -1260,7 +1284,7 @@
     },
     {
       "raw_hot": 246821,
-      "num": 178027,
+      "num": 228096,
       "word": "迪丽热巴代言联想",
       "onboard_time": 1715864779,
       "rank": 33,
@@ -1281,14 +1305,6 @@
       "onboard_time": 1715843478,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 242604,
-      "num": 177518,
-      "word": "松本润独立",
-      "onboard_time": 1715865019,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 242074,
@@ -1339,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238503,
+      "num": 180916,
+      "word": "王楚然演的桑文",
+      "onboard_time": 1715866160,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235093,
       "num": 235093,
       "word": "TF家族出道战",
@@ -1380,7 +1404,7 @@
     },
     {
       "raw_hot": 227866,
-      "num": 227866,
+      "num": 228582,
       "word": "中俄元首检阅中国人民解放军仪仗队",
       "onboard_time": 1715861536,
       "rank": 18,
@@ -1499,6 +1523,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 212971,
+      "num": 212971,
+      "word": "妈妈离去是张颂文一生的痛",
+      "onboard_time": 1715866039,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212943,
       "num": 212943,
       "word": "暖阳女友发博回应",
@@ -1524,7 +1556,7 @@
     },
     {
       "raw_hot": 211102,
-      "num": 211102,
+      "num": 244267,
       "word": "左右手",
       "onboard_time": 1715864539,
       "rank": 18,
@@ -1553,14 +1585,6 @@
       "onboard_time": 1715851578,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 208644,
-      "num": 171094,
-      "word": "Bin哥辛苦了",
-      "onboard_time": 1715865260,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 207445,
@@ -1787,20 +1811,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191055,
+      "num": 140054,
+      "word": "柳如玉配音",
+      "onboard_time": 1715866340,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190637,
       "num": 190637,
       "word": "五条悟 复活赛",
       "onboard_time": 1715836039,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 189915,
-      "num": 142626,
-      "word": "李沁庆余年第一季vs第二季",
-      "onboard_time": 1715865260,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 189860,
@@ -1955,6 +1979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171708,
+      "num": 171708,
+      "word": "成毅赴山海妆发",
+      "onboard_time": 1715865680,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171013,
       "num": 171013,
       "word": "大卫科波菲尔被指控性侵",
@@ -2033,6 +2065,14 @@
       "onboard_time": 1715822538,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164059,
+      "num": 230448,
+      "word": "高速上逼停小车的2民警被停职",
+      "onboard_time": 1715865440,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162712,
@@ -2555,14 +2595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 94456,
-      "num": 138123,
-      "word": "高速上逼停小车的2民警被停职",
-      "onboard_time": 1715865440,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91827,
       "num": 539910,
       "word": "给你的外卖做个营养体检",
@@ -2777,6 +2809,14 @@
       "onboard_time": 1715851878,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54808,
+      "num": 270053,
+      "word": "网友新疆拍到隧道前后2种美景",
+      "onboard_time": 1715865800,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 54336,
