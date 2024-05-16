@@ -1,0 +1,410 @@
+{
+  "runTime": 1715833130194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1965593,
+        "num": 1965593,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1715829678,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1212090,
+        "num": 1212090,
+        "word": "女子遭色诱沦陷拉丈夫同做间谍",
+        "onboard_time": 1715827397,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4779,
+        "num": 1150839,
+        "word": "阔步迈向网络强国",
+        "onboard_time": 1715741237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132835,
+        "num": 1132835,
+        "word": "郝蕾二宝",
+        "onboard_time": 1715830999,
+        "rank": 3,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 1089260,
+        "num": 1089260,
+        "word": "金玟庭吸入浓烟中止录制",
+        "onboard_time": 1715827697,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763134,
+        "num": 763134,
+        "word": "单身女性迎来买房热潮",
+        "onboard_time": 1715828057,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530440,
+        "num": 530440,
+        "word": "康师傅方便面即将全线涨价",
+        "onboard_time": 1715830758,
+        "rank": 6,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 1091782,
+        "num": 518486,
+        "word": "现在我是小姨妈的男朋友了",
+        "onboard_time": 1715826138,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 645151,
+        "num": 505186,
+        "word": "戛纳 玉皇大帝",
+        "onboard_time": 1715828419,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108561,
+        "num": 501777,
+        "word": "莎出重围圆梦巴黎",
+        "onboard_time": 1715831597,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599526,
+        "num": 477230,
+        "word": "中岛美嘉 歌手",
+        "onboard_time": 1715831838,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554317,
+        "num": 473948,
+        "word": "韩红 最牛伸手党",
+        "onboard_time": 1715821399,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460152,
+        "num": 460152,
+        "word": "Jennie以粉丝名义捐赠1亿韩元",
+        "onboard_time": 1715831181,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446317,
+        "num": 446317,
+        "word": "普京访华",
+        "onboard_time": 1715815755,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162822,
+        "num": 440101,
+        "word": "起猛了余额宝翻番也轮到我了",
+        "onboard_time": 1715832020,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 435309,
+        "num": 435309,
+        "word": "17岁体育生左膝长骨瘤医生错切右膝",
+        "onboard_time": 1715822417,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112280,
+        "num": 423634,
+        "word": "王者吃鸡玩法首曝",
+        "onboard_time": 1715830218,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42226,
+        "num": 417982,
+        "word": "给你的外卖做个营养体检",
+        "onboard_time": 1715832259,
+        "rank": 17,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 415778,
+        "num": 415778,
+        "word": "于正当年差点拍庆余年",
+        "onboard_time": 1715827579,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28837,
+        "num": 403853,
+        "word": "5月新番西游笔绘西行",
+        "onboard_time": 1715828837,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 492511,
+        "num": 403210,
+        "word": "健身房塌起房来比娱乐圈还猛",
+        "onboard_time": 1715826857,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 398939,
+        "num": 398939,
+        "word": "广州消防通报一批发市场发生火灾",
+        "onboard_time": 1715830639,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397931,
+        "num": 397931,
+        "word": "菲律宾冲闯黄岩岛闹剧开场",
+        "onboard_time": 1715832619,
+        "rank": 22,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 396268,
+        "num": 396268,
+        "word": "庆余年2",
+        "onboard_time": 1715815755,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352865,
+        "num": 352865,
+        "word": "iPhone16ProMax机模曝光",
+        "onboard_time": 1715823738,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 319987,
+        "num": 319987,
+        "word": "二手玫瑰乐队吉他手姚澜暂别演出",
+        "onboard_time": 1715829259,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 307477,
+        "num": 307477,
+        "word": "麻辣烫建议放一会再吃",
+        "onboard_time": 1715824097,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 64291,
+        "num": 297904,
+        "word": "5月20号天猫618现货开卖",
+        "onboard_time": 1715832259,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 295673,
+        "num": 295673,
+        "word": "关晓彤黑天鹅高定",
+        "onboard_time": 1715817617,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294892,
+        "num": 294892,
+        "word": "庆余年是张若昀主动争取来的",
+        "onboard_time": 1715831597,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288965,
+        "num": 288965,
+        "word": "王力宏 歌手",
+        "onboard_time": 1715785819,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284151,
+        "num": 284151,
+        "word": "广州十三行",
+        "onboard_time": 1715832559,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254397,
+        "num": 254397,
+        "word": "中方对菲律宾的善意和耐心不是无止境的",
+        "onboard_time": 1715823019,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 239160,
+        "num": 239160,
+        "word": "唐嫣戛纳官方镜头特写",
+        "onboard_time": 1715827458,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225964,
+        "num": 225964,
+        "word": "广州一批发市场起火疑有人失联",
+        "onboard_time": 1715832020,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222005,
+        "num": 222005,
+        "word": "约70%卵巢癌患者发现即晚期",
+        "onboard_time": 1715823797,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217923,
+        "num": 217923,
+        "word": "姚明回应为什么很难再出姚明",
+        "onboard_time": 1715830758,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216619,
+        "num": 216619,
+        "word": "欧阳娜娜工作室严正声明",
+        "onboard_time": 1715830999,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42706,
+        "num": 216352,
+        "word": "兔兔爆金币",
+        "onboard_time": 1715831539,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41031,
+        "num": 216317,
+        "word": "小龙虾也有简历了",
+        "onboard_time": 1715832020,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216305,
+        "num": 216305,
+        "word": "霸王茶姬 睡不着",
+        "onboard_time": 1715832438,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197760,
+        "num": 197760,
+        "word": "独行侠3比2雷霆",
+        "onboard_time": 1715832918,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189793,
+        "num": 189793,
+        "word": "大睿睿小马甲有宝宝了",
+        "onboard_time": 1715828777,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181073,
+        "num": 181073,
+        "word": "沈小婷续约",
+        "onboard_time": 1715823318,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170227,
+        "num": 170227,
+        "word": "杨迪朋友圈到底有多少艺人",
+        "onboard_time": 1715828538,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169986,
+        "num": 169986,
+        "word": "用大白话来形容香水",
+        "onboard_time": 1715831960,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 169295,
+        "num": 169295,
+        "word": "韩红想要郝蕾的孩子",
+        "onboard_time": 1715819238,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163272,
+        "num": 163272,
+        "word": "迪丽热巴地下城与勇士预热",
+        "onboard_time": 1715826079,
+        "rank": 47,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 162230,
+        "num": 162230,
+        "word": "新华社专访普京",
+        "onboard_time": 1715791635,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152300,
+        "num": 152300,
+        "word": "刺杀斯洛伐克总理枪手身份曝光",
+        "onboard_time": 1715825178,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励北京市八达岭长城脚下的乡亲们#"
+    }
+  }
+}

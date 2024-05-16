@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715830510173,
+  "endTime": 1715833130194,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2227,8 +2227,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1208506,
-      "num": 1208506,
+      "raw_hot": 1212090,
+      "num": 1212090,
       "word": "女子遭色诱沦陷拉丈夫同做间谍",
       "onboard_time": 1715827397,
       "rank": 4,
@@ -2561,6 +2561,14 @@
       "onboard_time": 1715211677,
       "rank": 3,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 1132835,
+      "num": 1132835,
+      "word": "郝蕾二宝",
+      "onboard_time": 1715830999,
+      "rank": 3,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1132771,
@@ -5115,6 +5123,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 763134,
+      "num": 763134,
+      "word": "单身女性迎来买房热潮",
+      "onboard_time": 1715828057,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 761384,
       "num": 761384,
       "word": "关雪 晴川",
@@ -5392,14 +5408,6 @@
       "word": "河南一商户发现欠燃气费近5亿",
       "onboard_time": 1715669839,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739369,
-      "num": 739369,
-      "word": "单身女性迎来买房热潮",
-      "onboard_time": 1715828057,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -6691,6 +6699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 645151,
+      "num": 634098,
+      "word": "戛纳 玉皇大帝",
+      "onboard_time": 1715828419,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 645102,
       "num": 645102,
       "word": "陈奕迅 安可",
@@ -6921,14 +6937,6 @@
       "onboard_time": 1715587159,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634098,
-      "num": 634098,
-      "word": "戛纳 玉皇大帝",
-      "onboard_time": 1715828419,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 632934,
@@ -7497,6 +7505,14 @@
       "onboard_time": 1715734099,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599526,
+      "num": 477230,
+      "word": "中岛美嘉 歌手",
+      "onboard_time": 1715831838,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 599179,
@@ -8675,6 +8691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 530440,
+      "num": 530440,
+      "word": "康师傅方便面即将全线涨价",
+      "onboard_time": 1715830758,
+      "rank": 6,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 528965,
       "num": 368582,
       "word": "杨紫直播",
@@ -9507,6 +9531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 492511,
+      "num": 403210,
+      "word": "健身房塌起房来比娱乐圈还猛",
+      "onboard_time": 1715826857,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 491595,
       "num": 491595,
       "word": "阿信说让我一场一场把路人唱回来",
@@ -10259,14 +10291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 462699,
-      "num": 365226,
-      "word": "健身房塌起房来比娱乐圈还猛",
-      "onboard_time": 1715826857,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 462389,
       "num": 245642,
       "word": "徐艺洋管狗狗叫黄子韬",
@@ -10345,6 +10369,14 @@
       "onboard_time": 1715148379,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460152,
+      "num": 460152,
+      "word": "Jennie以粉丝名义捐赠1亿韩元",
+      "onboard_time": 1715831181,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 460046,
@@ -10721,6 +10753,14 @@
       "onboard_time": 1714568359,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446317,
+      "num": 446317,
+      "word": "普京访华",
+      "onboard_time": 1715815755,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 445839,
@@ -11491,14 +11531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 420446,
-      "num": 420446,
-      "word": "普京访华",
-      "onboard_time": 1715815755,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 420324,
       "num": 225760,
       "word": "母亲节礼物直接转账这届年轻人很实在",
@@ -11641,6 +11673,14 @@
       "onboard_time": 1715331497,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415778,
+      "num": 415778,
+      "word": "于正当年差点拍庆余年",
+      "onboard_time": 1715827579,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 415704,
@@ -12315,6 +12355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398939,
+      "num": 398939,
+      "word": "广州消防通报一批发市场发生火灾",
+      "onboard_time": 1715830639,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398694,
       "num": 398694,
       "word": "WBG打野Tarzan",
@@ -12337,6 +12385,14 @@
       "onboard_time": 1714953018,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397931,
+      "num": 397931,
+      "word": "菲律宾冲闯黄岩岛闹剧开场",
+      "onboard_time": 1715832619,
+      "rank": 22,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 397826,
@@ -13211,14 +13267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371701,
-      "num": 371701,
-      "word": "于正当年差点拍庆余年",
-      "onboard_time": 1715827579,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 371632,
       "num": 371632,
       "word": "婚后才知道什么是隐形家务",
@@ -13476,7 +13524,7 @@
     },
     {
       "raw_hot": 365347,
-      "num": 290828,
+      "num": 319987,
       "word": "二手玫瑰乐队吉他手姚澜暂别演出",
       "onboard_time": 1715829259,
       "rank": 29,
@@ -16179,6 +16227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294892,
+      "num": 294892,
+      "word": "庆余年是张若昀主动争取来的",
+      "onboard_time": 1715831597,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294865,
       "num": 294865,
       "word": "张予曦撞脸黄子韬",
@@ -16649,6 +16705,14 @@
       "onboard_time": 1715668159,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284151,
+      "num": 284151,
+      "word": "广州十三行",
+      "onboard_time": 1715832559,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284002,
@@ -20611,6 +20675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225964,
+      "num": 225964,
+      "word": "广州一批发市场起火疑有人失联",
+      "onboard_time": 1715832020,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225950,
       "num": 225950,
       "word": "星穹铁道2.2",
@@ -21387,6 +21459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217923,
+      "num": 217923,
+      "word": "姚明回应为什么很难再出姚明",
+      "onboard_time": 1715830758,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217919,
       "num": 217919,
       "word": "毕业四年很多同事都转行了",
@@ -21499,6 +21579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216619,
+      "num": 216619,
+      "word": "欧阳娜娜工作室严正声明",
+      "onboard_time": 1715830999,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216549,
       "num": 216549,
       "word": "喻言演唱会",
@@ -21537,6 +21625,14 @@
       "onboard_time": 1714648999,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216305,
+      "num": 216305,
+      "word": "霸王茶姬 睡不着",
+      "onboard_time": 1715832438,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 216223,
@@ -24265,6 +24361,14 @@
       "onboard_time": 1715609659,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197760,
+      "num": 197760,
+      "word": "独行侠3比2雷霆",
+      "onboard_time": 1715832918,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 197714,
@@ -29067,6 +29171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169986,
+      "num": 169986,
+      "word": "用大白话来形容香水",
+      "onboard_time": 1715831960,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 169960,
       "num": 191876,
       "word": "带97岁的曾祖母试小裙子",
@@ -30345,6 +30457,14 @@
       "onboard_time": 1715315300,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162822,
+      "num": 440101,
+      "word": "起猛了余额宝翻番也轮到我了",
+      "onboard_time": 1715832020,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 162815,
@@ -38563,6 +38683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112280,
+      "num": 423634,
+      "word": "王者吃鸡玩法首曝",
+      "onboard_time": 1715830218,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112252,
       "num": 112252,
       "word": "高铁商务座的小桌板",
@@ -38977,6 +39105,14 @@
       "onboard_time": 1714803858,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108561,
+      "num": 501777,
+      "word": "莎出重围圆梦巴黎",
+      "onboard_time": 1715831597,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 108425,
@@ -40539,14 +40675,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 85171,
-      "num": 165896,
-      "word": "王者吃鸡玩法首曝",
-      "onboard_time": 1715830218,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 84921,
       "num": 111295,
       "word": "张艺兴汉江猫cha",
@@ -40724,7 +40852,7 @@
     },
     {
       "raw_hot": 80221,
-      "num": 372155,
+      "num": 403853,
       "word": "5月新番西游笔绘西行",
       "onboard_time": 1715828837,
       "rank": 18,
@@ -41457,6 +41585,14 @@
       "onboard_time": 1715694320,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64291,
+      "num": 297904,
+      "word": "5月20号天猫618现货开卖",
+      "onboard_time": 1715832259,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 63892,
@@ -42331,12 +42467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42706,
+      "num": 216352,
+      "word": "兔兔爆金币",
+      "onboard_time": 1715831539,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 42235,
       "num": 273876,
       "word": "男子来派出所求助民警一眼认出是嫌疑人",
       "onboard_time": 1715728095,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42226,
+      "num": 417982,
+      "word": "给你的外卖做个营养体检",
+      "onboard_time": 1715832259,
+      "rank": 17,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 42100,
@@ -42393,6 +42545,14 @@
       "onboard_time": 1715742738,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 41031,
+      "num": 216317,
+      "word": "小龙虾也有简历了",
+      "onboard_time": 1715832020,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 40940,
