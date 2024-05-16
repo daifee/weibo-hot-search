@@ -1,0 +1,410 @@
+{
+  "runTime": 1715844850876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1807261,
+        "num": 1807261,
+        "word": "花少北道歉",
+        "onboard_time": 1715838978,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1497273,
+        "num": 1497273,
+        "word": "医生建议榴莲1天最多吃1瓣",
+        "onboard_time": 1715841018,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18708,
+        "num": 1038045,
+        "word": "发现最美铁路",
+        "onboard_time": 1715844498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826381,
+        "num": 826381,
+        "word": "歌手导演洪涛选张杰逆战的原因",
+        "onboard_time": 1715842337,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 797711,
+        "num": 797711,
+        "word": "林更新别更新关晓彤关了吧",
+        "onboard_time": 1715839519,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561442,
+        "num": 761260,
+        "word": "北大教授称未来几年房价或会明显上涨",
+        "onboard_time": 1715840538,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746456,
+        "num": 746456,
+        "word": "花少北承认煎蛋恋情",
+        "onboard_time": 1715839219,
+        "rank": 6,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 741202,
+        "num": 741202,
+        "word": "韩红小号",
+        "onboard_time": 1715837539,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529193,
+        "num": 529193,
+        "word": "福宝",
+        "onboard_time": 1715839457,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267886,
+        "num": 470633,
+        "word": "我海警依法对菲非法聚集船只现场管制",
+        "onboard_time": 1715843237,
+        "rank": 9,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 465399,
+        "num": 465399,
+        "word": "12306回应火车票改签也要收手续费",
+        "onboard_time": 1715835740,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434591,
+        "num": 434591,
+        "word": "林孝埈把世锦赛金牌献给河北",
+        "onboard_time": 1715842817,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420979,
+        "num": 420979,
+        "word": "康辉近距离感受欢迎普京仪式现场",
+        "onboard_time": 1715836818,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400542,
+        "num": 400542,
+        "word": "苏运莹入围",
+        "onboard_time": 1715842638,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 371955,
+        "num": 371955,
+        "word": "于正说庆余年剧宣low",
+        "onboard_time": 1715843418,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354416,
+        "num": 354416,
+        "word": "五旬男子吊脖锻炼意外身亡",
+        "onboard_time": 1715835019,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61570,
+        "num": 350259,
+        "word": "福宝一点窝头渣都没浪费",
+        "onboard_time": 1715844619,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347731,
+        "num": 347731,
+        "word": "我叫范闲 我重生了",
+        "onboard_time": 1715834599,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346052,
+        "num": 346052,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1715829678,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98470,
+        "num": 334569,
+        "word": "迪丽热巴代言DNF",
+        "onboard_time": 1715841256,
+        "rank": 19,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 404856,
+        "num": 334402,
+        "word": "康师傅方便面即将全线涨价",
+        "onboard_time": 1715830758,
+        "rank": 20,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 333709,
+        "num": 333709,
+        "word": "残疾女孩街头直播遭陌生男子拍屁股",
+        "onboard_time": 1715839817,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331599,
+        "num": 331599,
+        "word": "蔡依林演唱会嘉宾 王俊凯",
+        "onboard_time": 1715840057,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 325289,
+        "num": 325289,
+        "word": "庆余年",
+        "onboard_time": 1715841858,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305775,
+        "num": 305775,
+        "word": "法院拍卖被执行人270只避孕套",
+        "onboard_time": 1715837478,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289229,
+        "num": 289229,
+        "word": "现在我是小姨妈的男朋友了",
+        "onboard_time": 1715826138,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273947,
+        "num": 273947,
+        "word": "福宝下午呼呼大睡晚上嘎嘎炫饭",
+        "onboard_time": 1715843658,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263947,
+        "num": 263947,
+        "word": "山东一村集体3000多万元征地补偿款被理财",
+        "onboard_time": 1715843837,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231804,
+        "num": 231804,
+        "word": "金玟庭吸入浓烟中止录制",
+        "onboard_time": 1715827697,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45389,
+        "num": 220349,
+        "word": "男子找到去世父亲照片连连抹泪",
+        "onboard_time": 1715844259,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218257,
+        "num": 218257,
+        "word": "误打误撞进了想干到退休的公司",
+        "onboard_time": 1715840419,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214953,
+        "num": 214953,
+        "word": "松鼠偷吃了遗留在户外发酵的梨子",
+        "onboard_time": 1715841858,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200156,
+        "num": 200156,
+        "word": "迪丽热巴刘宇宁张凌赫抱团",
+        "onboard_time": 1715838438,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21536,
+        "num": 199593,
+        "word": "王阳自驾露营好治愈",
+        "onboard_time": 1715843778,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199125,
+        "num": 199125,
+        "word": "建议讨好型人格每日读十遍",
+        "onboard_time": 1715843478,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195883,
+        "num": 195883,
+        "word": "林俊杰提名金曲奖最佳男歌手",
+        "onboard_time": 1715842878,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182086,
+        "num": 182086,
+        "word": "泽连斯基签署退出独联体国家法令",
+        "onboard_time": 1715840238,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 57171,
+        "num": 177724,
+        "word": "我国火箭发动机试验台上新了",
+        "onboard_time": 1715843778,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174494,
+        "num": 174494,
+        "word": "健身房塌起房来比娱乐圈还猛",
+        "onboard_time": 1715826857,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 172825,
+        "num": 172825,
+        "word": "菲律宾冲闯黄岩岛闹剧开场",
+        "onboard_time": 1715832619,
+        "rank": 39,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 142390,
+        "num": 142390,
+        "word": "金曲奖直播",
+        "onboard_time": 1715839457,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139964,
+        "num": 139964,
+        "word": "咒术回战 五条悟疑似复活",
+        "onboard_time": 1715833160,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139458,
+        "num": 139458,
+        "word": "郝蕾二宝",
+        "onboard_time": 1715830999,
+        "rank": 42,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 136337,
+        "num": 136337,
+        "word": "女子遭色诱沦陷拉丈夫同做间谍",
+        "onboard_time": 1715827397,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135295,
+        "num": 135295,
+        "word": "王源长沙",
+        "onboard_time": 1715839279,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129148,
+        "num": 129148,
+        "word": "中岛美嘉 歌手",
+        "onboard_time": 1715831838,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128821,
+        "num": 128821,
+        "word": "武艺拆散一对算一对",
+        "onboard_time": 1715841679,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126497,
+        "num": 126497,
+        "word": "金曲奖",
+        "onboard_time": 1715834060,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126983,
+        "num": 126197,
+        "word": "请不要给我建议",
+        "onboard_time": 1715839398,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124805,
+        "num": 124805,
+        "word": "吴幸键重拍了庆余年的结尾",
+        "onboard_time": 1715843298,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同俄罗斯总统普京会谈#"
+    }
+  }
+}
