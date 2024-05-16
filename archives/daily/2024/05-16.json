@@ -1,7 +1,15 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715859274793,
+  "endTime": 1715862906254,
   "band_list": [
+    {
+      "raw_hot": 8888184,
+      "num": 8888184,
+      "word": "庆余年 剧王",
+      "onboard_time": 1715861296,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 3876491,
       "num": 3876491,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 926785,
+      "num": 926785,
+      "word": "专家称只有房价不跌老百姓才会回归购房市场",
+      "onboard_time": 1715856798,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918922,
       "num": 338965,
       "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
@@ -347,14 +363,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 677014,
-      "num": 677014,
-      "word": "专家称只有房价不跌老百姓才会回归购房市场",
-      "onboard_time": 1715856798,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 672867,
       "num": 664920,
       "word": "女子在广州正佳广场跳楼",
@@ -449,6 +457,14 @@
       "onboard_time": 1715824097,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 571810,
+      "num": 571810,
+      "word": "GEN对战BLG",
+      "onboard_time": 1715853318,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 570464,
@@ -635,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 452056,
+      "num": 452056,
+      "word": "普京向人民英雄纪念碑敬献花圈",
+      "onboard_time": 1715860817,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 448024,
       "num": 284381,
       "word": "张杰张若昀都不舍得吼女儿",
@@ -752,6 +776,14 @@
       "word": "广州消防通报一批发市场发生火灾",
       "onboard_time": 1715830639,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398938,
+      "num": 398938,
+      "word": "中国科协辟谣阿波罗登月造假",
+      "onboard_time": 1715859377,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -963,6 +995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 281331,
+      "num": 190112,
+      "word": "范闲死了没",
+      "onboard_time": 1715860456,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273947,
       "num": 273947,
       "word": "福宝下午呼呼大睡晚上嘎嘎炫饭",
@@ -1011,6 +1051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 264786,
+      "num": 238726,
+      "word": "庆余年2剧本写了约3年",
+      "onboard_time": 1715857337,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263947,
       "num": 263947,
       "word": "山东一村集体3000多万元征地补偿款被理财",
@@ -1051,20 +1099,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 259528,
+      "num": 185053,
+      "word": "李沁看得出是公主",
+      "onboard_time": 1715862619,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254070,
       "num": 273214,
       "word": "李雪琴 小树不长歪长点枝丫没问题",
       "onboard_time": 1715788877,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252936,
-      "num": 252936,
-      "word": "GEN对战BLG",
-      "onboard_time": 1715853318,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 248278,
@@ -1131,20 +1179,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240676,
+      "num": 240676,
+      "word": "4死16伤事故电梯未按规定实质性维保检验",
+      "onboard_time": 1715862137,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239384,
+      "num": 186777,
+      "word": "员工带薪如厕被解雇索赔20万元",
+      "onboard_time": 1715860276,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238753,
       "num": 238753,
       "word": "奔跑吧终于下水了",
       "onboard_time": 1715848398,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238726,
-      "num": 238726,
-      "word": "庆余年2剧本写了约3年",
-      "onboard_time": 1715857337,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 235093,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1715836520,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227866,
+      "num": 227866,
+      "word": "中俄元首检阅中国人民解放军仪仗队",
+      "onboard_time": 1715861536,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 227572,
@@ -1339,6 +1403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207547,
+      "num": 178379,
+      "word": "范闲更帅了",
+      "onboard_time": 1715862378,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207445,
       "num": 440101,
       "word": "起猛了余额宝翻番也轮到我了",
@@ -1483,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196276,
+      "num": 167928,
+      "word": "范闲的灰",
+      "onboard_time": 1715860696,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195385,
       "num": 195385,
       "word": "XG新MV",
@@ -1547,6 +1627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 189860,
+      "num": 186205,
+      "word": "狮子座比起被爱更需要尊重",
+      "onboard_time": 1715861536,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189726,
       "num": 189726,
       "word": "白鹿萧邦品牌大使",
@@ -1585,6 +1673,22 @@
       "onboard_time": 1715853559,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184836,
+      "num": 184836,
+      "word": "那英想唱林俊杰的歌",
+      "onboard_time": 1715862619,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184716,
+      "num": 184716,
+      "word": "逆水寒手游",
+      "onboard_time": 1715861896,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 184436,
@@ -1691,6 +1795,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170727,
+      "num": 352552,
+      "word": "88VIP开抢618大额消费券",
+      "onboard_time": 1715860817,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 170128,
+      "num": 170128,
+      "word": "丞磊 第一次和镇宇哥搭戏",
+      "onboard_time": 1715861477,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169986,
       "num": 169986,
       "word": "用大白话来形容香水",
@@ -1721,6 +1841,14 @@
       "onboard_time": 1715845638,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169152,
+      "num": 169152,
+      "word": "跟父母学消费降级后生活水平反而提高了",
+      "onboard_time": 1715861416,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 167760,
@@ -1761,6 +1889,14 @@
       "onboard_time": 1715818099,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159513,
+      "num": 128716,
+      "word": "庆余年2 启动",
+      "onboard_time": 1715859616,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 157214,
@@ -1833,6 +1969,14 @@
       "onboard_time": 1715850139,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 144879,
+      "num": 119671,
+      "word": "父仇者联盟",
+      "onboard_time": 1715860696,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 144640,
@@ -2049,6 +2193,14 @@
       "onboard_time": 1715787378,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 117761,
+      "num": 117761,
+      "word": "wvscon抢票",
+      "onboard_time": 1715861956,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 116988,
