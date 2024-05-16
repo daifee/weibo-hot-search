@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715834060705,
+  "endTime": 1715836670992,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -385,6 +385,14 @@
       "onboard_time": 1715653577,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1557258,
+      "num": 1557258,
+      "word": "康师傅方便面即将全线涨价",
+      "onboard_time": 1715830758,
+      "rank": 6,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 1535916,
@@ -1107,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 958293,
+      "num": 958293,
+      "word": "菲律宾冲闯黄岩岛闹剧开场",
+      "onboard_time": 1715832619,
+      "rank": 22,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 956043,
       "num": 252524,
       "word": "每天只有3亿人发布朋友圈",
@@ -1211,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 900072,
+      "num": 900072,
+      "word": "中岛美嘉 歌手",
+      "onboard_time": 1715831838,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 896475,
       "num": 896475,
       "word": "严禁以各种方式挤占课间10分钟",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1715823738,
       "rank": 10,
       "category": "数码"
-    },
-    {
-      "raw_hot": 894706,
-      "num": 894706,
-      "word": "康师傅方便面即将全线涨价",
-      "onboard_time": 1715830758,
-      "rank": 6,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 893700,
@@ -1337,14 +1353,6 @@
       "onboard_time": 1715559439,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 853532,
-      "num": 853532,
-      "word": "中岛美嘉 歌手",
-      "onboard_time": 1715831838,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 852189,
@@ -1513,14 +1521,6 @@
       "onboard_time": 1715498957,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 805395,
-      "num": 805395,
-      "word": "菲律宾冲闯黄岩岛闹剧开场",
-      "onboard_time": 1715832619,
-      "rank": 22,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 804062,
@@ -1851,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706639,
+      "num": 706639,
+      "word": "华为发布会被指造假",
+      "onboard_time": 1715833400,
+      "rank": 28,
+      "category": "数码,科学科普"
+    },
+    {
       "raw_hot": 705982,
       "num": 282508,
       "word": "肝不好真的会让人变丑",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1715731878,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 635231,
+      "num": 635231,
+      "word": "我叫范闲 我重生了",
+      "onboard_time": 1715834599,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 634590,
@@ -2435,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 567718,
+      "num": 567718,
+      "word": "广州十三行",
+      "onboard_time": 1715832559,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567476,
       "num": 396350,
       "word": "周杰伦官宣新音综",
@@ -2721,6 +2745,14 @@
       "onboard_time": 1715516721,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 515625,
+      "num": 515625,
+      "word": "咒术回战 五条悟疑似复活",
+      "onboard_time": 1715833160,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 514090,
@@ -3531,14 +3563,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 422966,
-      "num": 422966,
-      "word": "广州十三行",
-      "onboard_time": 1715832559,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421800,
       "num": 376073,
       "word": "殡仪馆回应市民为南通去世女孩送花",
@@ -3601,14 +3625,6 @@
       "onboard_time": 1715827579,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 415750,
-      "num": 415750,
-      "word": "咒术回战 五条悟疑似复活",
-      "onboard_time": 1715833160,
-      "rank": 19,
-      "category": "动漫"
     },
     {
       "raw_hot": 415704,
@@ -3745,6 +3761,14 @@
       "onboard_time": 1715733678,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407352,
+      "num": 407352,
+      "word": "12306回应火车票改签也要收手续费",
+      "onboard_time": 1715835740,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407314,
@@ -4192,6 +4216,14 @@
       "word": "婚礼上的伴娘可能全是租的",
       "onboard_time": 1715519181,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368208,
+      "num": 325275,
+      "word": "五旬男子吊脖锻炼意外身亡",
+      "onboard_time": 1715835019,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -4835,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309262,
+      "num": 309262,
+      "word": "庆余年2的取景是5A级景区",
+      "onboard_time": 1715834960,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307621,
       "num": 307621,
       "word": "阴阳师",
@@ -4849,14 +4889,6 @@
       "onboard_time": 1715729476,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 306232,
-      "num": 306232,
-      "word": "华为发布会被指造假",
-      "onboard_time": 1715833400,
-      "rank": 28,
-      "category": "数码,科学科普"
     },
     {
       "raw_hot": 305155,
@@ -5123,6 +5155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285555,
+      "num": 285555,
+      "word": "金曲奖",
+      "onboard_time": 1715834060,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 285147,
       "num": 206987,
       "word": "徐怀钰演唱会上自己调侃上座率",
@@ -5273,6 +5313,14 @@
       "onboard_time": 1715695579,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276389,
+      "num": 276389,
+      "word": "霸王茶姬 睡不着",
+      "onboard_time": 1715832438,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 276338,
@@ -5433,6 +5481,14 @@
       "onboard_time": 1715487078,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268849,
+      "num": 268849,
+      "word": "泰国旅游局送中国游客一车米其林",
+      "onboard_time": 1715835500,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268539,
@@ -6099,14 +6155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236417,
-      "num": 236417,
-      "word": "霸王茶姬 睡不着",
-      "onboard_time": 1715832438,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 236033,
       "num": 236033,
       "word": "极限挑战",
@@ -6185,6 +6233,14 @@
       "onboard_time": 1715776098,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234021,
+      "num": 234021,
+      "word": "檀健次直播状态",
+      "onboard_time": 1715834060,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 233943,
@@ -6547,6 +6603,14 @@
       "category": "音乐,自然"
     },
     {
+      "raw_hot": 218994,
+      "num": 218994,
+      "word": "于适留在阿勒泰的遗憾",
+      "onboard_time": 1715836520,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218738,
       "num": 218738,
       "word": "王一博任奥运资格赛上海站推广大使",
@@ -6843,6 +6907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208869,
+      "num": 208869,
+      "word": "张天爱行李箱丢了",
+      "onboard_time": 1715835920,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208707,
       "num": 208707,
       "word": "肖战如愿与晚霞太适配了",
@@ -7057,6 +7129,14 @@
       "onboard_time": 1715744898,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204474,
+      "num": 204474,
+      "word": "直击广州十三行火灾救援现场",
+      "onboard_time": 1715833820,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204205,
@@ -7313,14 +7393,6 @@
       "onboard_time": 1715590879,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199974,
-      "num": 199974,
-      "word": "直击广州十三行火灾救援现场",
-      "onboard_time": 1715833820,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199756,
@@ -7817,6 +7889,14 @@
       "onboard_time": 1715484017,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190637,
+      "num": 190637,
+      "word": "五条悟 复活赛",
+      "onboard_time": 1715836039,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 190543,
@@ -9172,7 +9252,7 @@
     },
     {
       "raw_hot": 162292,
-      "num": 196522,
+      "num": 622118,
       "word": "霸王茶姬现代东方茶",
       "onboard_time": 1715833882,
       "rank": 44,
@@ -9689,6 +9769,14 @@
       "onboard_time": 1715518280,
       "rank": 45,
       "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 148819,
+      "num": 148819,
+      "word": "TheShy问Ning要加班费",
+      "onboard_time": 1715835859,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 148623,
@@ -11435,6 +11523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107750,
+      "num": 625086,
+      "word": "东北大姨就差把房产证也掏给你了",
+      "onboard_time": 1715833461,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107595,
       "num": 107595,
       "word": "每周跑够75分钟能激活抑癌基因",
@@ -11675,14 +11771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96365,
-      "num": 618513,
-      "word": "东北大姨就差把房产证也掏给你了",
-      "onboard_time": 1715833461,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95610,
       "num": 436911,
       "word": "赖树上的大熊猫宝宝被一把摘下来了",
@@ -11745,6 +11833,14 @@
       "onboard_time": 1715680338,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91827,
+      "num": 539910,
+      "word": "给你的外卖做个营养体检",
+      "onboard_time": 1715832259,
+      "rank": 17,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 91805,
@@ -12235,14 +12331,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 57061,
-      "num": 420517,
-      "word": "给你的外卖做个营养体检",
-      "onboard_time": 1715832259,
-      "rank": 17,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 56480,
       "num": 192743,
       "word": "姿态Rita激情对线",
@@ -12553,6 +12641,14 @@
       "onboard_time": 1715741237,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28566,
+      "num": 326201,
+      "word": "王者新游拜把子",
+      "onboard_time": 1715835258,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 28497,

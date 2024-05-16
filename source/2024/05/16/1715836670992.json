@@ -1,0 +1,410 @@
+{
+  "runTime": 1715836670992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557258,
+        "num": 1557258,
+        "word": "康师傅方便面即将全线涨价",
+        "onboard_time": 1715830758,
+        "rank": 0,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 1009982,
+        "num": 1009982,
+        "word": "女子遭色诱沦陷拉丈夫同做间谍",
+        "onboard_time": 1715827397,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3569,
+        "num": 965530,
+        "word": "阔步迈向网络强国",
+        "onboard_time": 1715741237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958293,
+        "num": 958293,
+        "word": "菲律宾冲闯黄岩岛闹剧开场",
+        "onboard_time": 1715832619,
+        "rank": 3,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 900072,
+        "num": 900072,
+        "word": "中岛美嘉 歌手",
+        "onboard_time": 1715831838,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 849887,
+        "num": 849887,
+        "word": "郝蕾二宝",
+        "onboard_time": 1715830999,
+        "rank": 5,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 794281,
+        "num": 794281,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1715829678,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 706639,
+        "num": 706639,
+        "word": "华为发布会被指造假",
+        "onboard_time": 1715833400,
+        "rank": 7,
+        "category": "数码,科学科普"
+      },
+      {
+        "raw_hot": 635231,
+        "num": 635231,
+        "word": "我叫范闲 我重生了",
+        "onboard_time": 1715834599,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107750,
+        "num": 625086,
+        "word": "东北大姨就差把房产证也掏给你了",
+        "onboard_time": 1715833461,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86228,
+        "num": 622118,
+        "word": "霸王茶姬现代东方茶",
+        "onboard_time": 1715833882,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 621711,
+        "num": 621711,
+        "word": "金玟庭吸入浓烟中止录制",
+        "onboard_time": 1715827697,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567718,
+        "num": 567718,
+        "word": "广州十三行",
+        "onboard_time": 1715832559,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91827,
+        "num": 539910,
+        "word": "给你的外卖做个营养体检",
+        "onboard_time": 1715832259,
+        "rank": 13,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 515625,
+        "num": 515625,
+        "word": "咒术回战 五条悟疑似复活",
+        "onboard_time": 1715833160,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 426130,
+        "num": 426130,
+        "word": "单身女性迎来买房热潮",
+        "onboard_time": 1715828057,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407352,
+        "num": 407352,
+        "word": "12306回应火车票改签也要收手续费",
+        "onboard_time": 1715835740,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388482,
+        "num": 388482,
+        "word": "韩红 最牛伸手党",
+        "onboard_time": 1715821399,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332950,
+        "num": 332950,
+        "word": "17岁体育生左膝长骨瘤医生错切右膝",
+        "onboard_time": 1715822417,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28566,
+        "num": 326201,
+        "word": "王者新游拜把子",
+        "onboard_time": 1715835258,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1005279,
+        "num": 325527,
+        "word": "现在我是小姨妈的男朋友了",
+        "onboard_time": 1715826138,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368208,
+        "num": 325275,
+        "word": "五旬男子吊脖锻炼意外身亡",
+        "onboard_time": 1715835019,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322416,
+        "num": 322416,
+        "word": "Jennie以粉丝名义捐赠1亿韩元",
+        "onboard_time": 1715831181,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309262,
+        "num": 309262,
+        "word": "庆余年2的取景是5A级景区",
+        "onboard_time": 1715834960,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308676,
+        "num": 308676,
+        "word": "普京访华",
+        "onboard_time": 1715815755,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285555,
+        "num": 285555,
+        "word": "金曲奖",
+        "onboard_time": 1715834060,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278556,
+        "num": 278556,
+        "word": "关晓彤黑天鹅高定",
+        "onboard_time": 1715817617,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47229,
+        "num": 277360,
+        "word": "5月20号天猫618现货开卖",
+        "onboard_time": 1715832259,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 276389,
+        "num": 276389,
+        "word": "霸王茶姬 睡不着",
+        "onboard_time": 1715832438,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 268849,
+        "num": 268849,
+        "word": "泰国旅游局送中国游客一车米其林",
+        "onboard_time": 1715835500,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259313,
+        "num": 259313,
+        "word": "戛纳 玉皇大帝",
+        "onboard_time": 1715828419,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255948,
+        "num": 255948,
+        "word": "于正当年差点拍庆余年",
+        "onboard_time": 1715827579,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234021,
+        "num": 234021,
+        "word": "檀健次直播状态",
+        "onboard_time": 1715834060,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218994,
+        "num": 218994,
+        "word": "于适留在阿勒泰的遗憾",
+        "onboard_time": 1715836520,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209315,
+        "num": 209315,
+        "word": "健身房塌起房来比娱乐圈还猛",
+        "onboard_time": 1715826857,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 208869,
+        "num": 208869,
+        "word": "张天爱行李箱丢了",
+        "onboard_time": 1715835920,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208560,
+        "num": 208560,
+        "word": "庆余年是张若昀主动争取来的",
+        "onboard_time": 1715831597,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204927,
+        "num": 204927,
+        "word": "iPhone16ProMax机模曝光",
+        "onboard_time": 1715823738,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204474,
+        "num": 204474,
+        "word": "直击广州十三行火灾救援现场",
+        "onboard_time": 1715833820,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196703,
+        "num": 196703,
+        "word": "起猛了余额宝翻番也轮到我了",
+        "onboard_time": 1715832020,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192293,
+        "num": 192293,
+        "word": "王力宏 歌手",
+        "onboard_time": 1715785819,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190637,
+        "num": 190637,
+        "word": "五条悟 复活赛",
+        "onboard_time": 1715836039,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180592,
+        "num": 180592,
+        "word": "麻辣烫建议放一会再吃",
+        "onboard_time": 1715824097,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170747,
+        "num": 170747,
+        "word": "二手玫瑰乐队吉他手姚澜暂别演出",
+        "onboard_time": 1715829259,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161335,
+        "num": 161335,
+        "word": "约70%卵巢癌患者发现即晚期",
+        "onboard_time": 1715823797,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158094,
+        "num": 158094,
+        "word": "唐嫣戛纳官方镜头特写",
+        "onboard_time": 1715827458,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152755,
+        "num": 152755,
+        "word": "肖战伦敦墙绘",
+        "onboard_time": 1715833519,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151956,
+        "num": 151956,
+        "word": "庆余年2",
+        "onboard_time": 1715815755,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148819,
+        "num": 148819,
+        "word": "TheShy问Ning要加班费",
+        "onboard_time": 1715835859,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134336,
+        "num": 134336,
+        "word": "中方对菲律宾的善意和耐心不是无止境的",
+        "onboard_time": 1715823019,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励北京市八达岭长城脚下的乡亲们#"
+    }
+  }
+}
