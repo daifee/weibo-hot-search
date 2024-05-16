@@ -1,0 +1,410 @@
+{
+  "runTime": 1715859274793,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2528660,
+        "num": 2528660,
+        "word": "庆余年2",
+        "onboard_time": 1715858657,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1430354,
+        "num": 1430354,
+        "word": "李佳琦称今年618大促是难的",
+        "onboard_time": 1715849237,
+        "rank": 1,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 16486,
+        "num": 1258636,
+        "word": "我国火箭发动机试验台上新了",
+        "onboard_time": 1715843778,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093517,
+        "num": 1093517,
+        "word": "花少北 p聊天记录",
+        "onboard_time": 1715853258,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 801679,
+        "num": 801679,
+        "word": "理想汽车将裁员5600人",
+        "onboard_time": 1715855716,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 677014,
+        "num": 677014,
+        "word": "专家称只有房价不跌老百姓才会回归购房市场",
+        "onboard_time": 1715856798,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784504,
+        "num": 670575,
+        "word": "李佳琦618红包",
+        "onboard_time": 1715857396,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 650396,
+        "num": 650396,
+        "word": "庆余年 你知道我这五年怎么过的吗",
+        "onboard_time": 1715854038,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59473,
+        "num": 642636,
+        "word": "退伍兵公主抱温柔救下轻生女孩",
+        "onboard_time": 1715855538,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100603,
+        "num": 639893,
+        "word": "主人生病猫咪叼来猫粮放进粥里",
+        "onboard_time": 1715856198,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 687591,
+        "num": 639452,
+        "word": "庆余年",
+        "onboard_time": 1715841858,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 637592,
+        "num": 637592,
+        "word": "医生建议榴莲1天最多吃1瓣",
+        "onboard_time": 1715841018,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 637310,
+        "num": 637310,
+        "word": "花少北道歉",
+        "onboard_time": 1715838978,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 603950,
+        "num": 603950,
+        "word": "艾薇儿进村了",
+        "onboard_time": 1715856318,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 563781,
+        "num": 563781,
+        "word": "天水麻辣烫店开始扎堆倒闭",
+        "onboard_time": 1715848218,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542097,
+        "num": 542097,
+        "word": "歌手2024彩排直击",
+        "onboard_time": 1715855538,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515597,
+        "num": 515597,
+        "word": "原来张若昀春晚就在预热庆余年2",
+        "onboard_time": 1715855476,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507012,
+        "num": 507012,
+        "word": "大乔小乔",
+        "onboard_time": 1715857457,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496970,
+        "num": 496970,
+        "word": "言冰云",
+        "onboard_time": 1715845879,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478711,
+        "num": 478711,
+        "word": "12306回应车厢吃东西被嫌味道大",
+        "onboard_time": 1715851218,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534251,
+        "num": 478434,
+        "word": "花少北承认煎蛋恋情",
+        "onboard_time": 1715839219,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 476365,
+        "num": 476365,
+        "word": "尊敬的普京总统我的老朋友",
+        "onboard_time": 1715850799,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 356925,
+        "num": 356925,
+        "word": "家庭唯一用车买电车还是买油车",
+        "onboard_time": 1715853318,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 311985,
+        "num": 311985,
+        "word": "美国人开始流行坐月子",
+        "onboard_time": 1715849657,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 275512,
+        "num": 275512,
+        "word": "周依然经纪人",
+        "onboard_time": 1715851878,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269005,
+        "num": 269005,
+        "word": "雷军官宣将在5月18日直播",
+        "onboard_time": 1715857877,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 256739,
+        "num": 256739,
+        "word": "lex 复活赛",
+        "onboard_time": 1715846418,
+        "rank": 26,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 252936,
+        "num": 252936,
+        "word": "GEN对战BLG",
+        "onboard_time": 1715853318,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 248307,
+        "num": 248307,
+        "word": "于正说庆余年剧宣low",
+        "onboard_time": 1715843418,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189929,
+        "num": 237185,
+        "word": "马来西亚一男子开车撞死老虎",
+        "onboard_time": 1715854637,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235439,
+        "num": 235439,
+        "word": "aespa打歌",
+        "onboard_time": 1715855897,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 42043,
+        "num": 218015,
+        "word": "鸿星尔克的国货温度",
+        "onboard_time": 1715858537,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 217026,
+        "num": 217026,
+        "word": "黄好厉害",
+        "onboard_time": 1715848097,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 202699,
+        "num": 202699,
+        "word": "迪丽热巴留洋千金",
+        "onboard_time": 1715853918,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201920,
+        "num": 201920,
+        "word": "范闲庆1假死镜头重拍",
+        "onboard_time": 1715858176,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172757,
+        "num": 172757,
+        "word": "周杰伦福州演唱会",
+        "onboard_time": 1715856738,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167760,
+        "num": 167760,
+        "word": "流星",
+        "onboard_time": 1715858597,
+        "rank": 36,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 162145,
+        "num": 162145,
+        "word": "华晨宇为花傲天入股LGD",
+        "onboard_time": 1715857097,
+        "rank": 37,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 55991,
+        "num": 149673,
+        "word": "荣耀雅顾",
+        "onboard_time": 1715854338,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142208,
+        "num": 142208,
+        "word": "康辉近距离感受欢迎普京仪式现场",
+        "onboard_time": 1715836818,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47549,
+        "num": 128391,
+        "word": "发现最美铁路",
+        "onboard_time": 1715844498,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152552,
+        "num": 127448,
+        "word": "林更新别更新关晓彤关了吧",
+        "onboard_time": 1715839519,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125748,
+        "num": 125748,
+        "word": "张杰张若昀都不舍得吼女儿",
+        "onboard_time": 1715847918,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125536,
+        "num": 125536,
+        "word": "周也穿了套QQ秀",
+        "onboard_time": 1715846418,
+        "rank": 43,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 123064,
+        "num": 123064,
+        "word": "杨紫5月两本五大",
+        "onboard_time": 1715851578,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122721,
+        "num": 122721,
+        "word": "韩路投诉新疆和田机场",
+        "onboard_time": 1715857396,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 119802,
+        "num": 119802,
+        "word": "王源丁程鑫敖子逸都在长沙录综艺",
+        "onboard_time": 1715851697,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114031,
+        "num": 114031,
+        "word": "歌手导演洪涛选张杰逆战的原因",
+        "onboard_time": 1715842337,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109490,
+        "num": 109490,
+        "word": "中俄元首出席中俄文化年开幕式",
+        "onboard_time": 1715856258,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101866,
+        "num": 101866,
+        "word": "五条悟 全球趋势第一",
+        "onboard_time": 1715851819,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥中俄各自优势实现彼此成就#"
+    }
+  }
+}

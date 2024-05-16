@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715858163435,
+  "endTime": 1715859274793,
   "band_list": [
     {
       "raw_hot": 3876491,
@@ -17,6 +17,14 @@
       "onboard_time": 1715838978,
       "rank": 0,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 2528660,
+      "num": 2528660,
+      "word": "庆余年2",
+      "onboard_time": 1715815755,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 2380011,
@@ -259,6 +267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 801679,
+      "num": 801679,
+      "word": "理想汽车将裁员5600人",
+      "onboard_time": 1715855716,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 789632,
       "num": 746387,
       "word": "华为发布会被指造假",
@@ -307,12 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 701540,
-      "num": 701540,
-      "word": "理想汽车将裁员5600人",
-      "onboard_time": 1715855716,
-      "rank": 48,
-      "category": "汽车"
+      "raw_hot": 687591,
+      "num": 639452,
+      "word": "庆余年",
+      "onboard_time": 1715841858,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 685114,
@@ -323,20 +339,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 680188,
-      "num": 611052,
-      "word": "庆余年2",
-      "onboard_time": 1715815755,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 679044,
       "num": 679044,
       "word": "刺杀斯洛伐克总理枪手身份曝光",
       "onboard_time": 1715825178,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 677014,
+      "num": 677014,
+      "word": "专家称只有房价不跌老百姓才会回归购房市场",
+      "onboard_time": 1715856798,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672867,
@@ -353,6 +369,14 @@
       "onboard_time": 1715819178,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 650396,
+      "num": 650396,
+      "word": "庆余年 你知道我这五年怎么过的吗",
+      "onboard_time": 1715854038,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 645151,
@@ -395,20 +419,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 599137,
-      "num": 599137,
-      "word": "庆余年 你知道我这五年怎么过的吗",
-      "onboard_time": 1715854038,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 592145,
-      "num": 507857,
-      "word": "庆余年",
-      "onboard_time": 1715841858,
+      "raw_hot": 603950,
+      "num": 603950,
+      "word": "艾薇儿进村了",
+      "onboard_time": 1715856318,
       "rank": 17,
-      "category": "剧集"
+      "category": "音乐"
     },
     {
       "raw_hot": 588591,
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542097,
+      "num": 542097,
+      "word": "歌手2024彩排直击",
+      "onboard_time": 1715855538,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524335,
       "num": 460122,
       "word": "猫 车顶有学员通过",
@@ -499,20 +523,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 515597,
+      "num": 515597,
+      "word": "原来张若昀春晚就在预热庆余年2",
+      "onboard_time": 1715855476,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513504,
       "num": 241600,
       "word": "怀疑是肿瘤没想到是花生米作祟",
       "onboard_time": 1715816176,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 512615,
-      "num": 512615,
-      "word": "歌手2024彩排直击",
-      "onboard_time": 1715855538,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 507725,
@@ -529,6 +553,14 @@
       "onboard_time": 1715818158,
       "rank": 5,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 507012,
+      "num": 507012,
+      "word": "大乔小乔",
+      "onboard_time": 1715857457,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 498493,
@@ -651,14 +683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 423223,
-      "num": 399124,
-      "word": "原来张若昀春晚就在预热庆余年2",
-      "onboard_time": 1715855476,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 415778,
       "num": 415778,
       "word": "于正当年差点拍庆余年",
@@ -723,14 +747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 400058,
-      "num": 400058,
-      "word": "艾薇儿进村了",
-      "onboard_time": 1715856318,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 398939,
       "num": 398939,
       "word": "广州消防通报一批发市场发生火灾",
@@ -753,14 +769,6 @@
       "onboard_time": 1715853918,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388765,
-      "num": 388765,
-      "word": "专家称只有房价不跌老百姓才会回归购房市场",
-      "onboard_time": 1715856798,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387182,
@@ -891,14 +899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 304937,
-      "num": 304937,
-      "word": "大乔小乔",
-      "onboard_time": 1715857457,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 304587,
       "num": 304587,
       "word": "王源丁程鑫敖子逸都在长沙录综艺",
@@ -979,6 +979,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 269005,
+      "num": 269005,
+      "word": "雷军官宣将在5月18日直播",
+      "onboard_time": 1715857877,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 268849,
       "num": 268849,
       "word": "泰国旅游局送中国游客一车米其林",
@@ -1051,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252936,
+      "num": 252936,
+      "word": "GEN对战BLG",
+      "onboard_time": 1715853318,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 248278,
       "num": 248278,
       "word": "全局BP",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1715851819,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 242898,
-      "num": 242898,
-      "word": "GEN对战BLG",
-      "onboard_time": 1715853318,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 242823,
@@ -1372,7 +1380,7 @@
     },
     {
       "raw_hot": 205233,
-      "num": 233262,
+      "num": 237185,
       "word": "马来西亚一男子开车撞死老虎",
       "onboard_time": 1715854637,
       "rank": 47,
@@ -1409,6 +1417,14 @@
       "onboard_time": 1715846658,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201920,
+      "num": 201920,
+      "word": "范闲庆1假死镜头重拍",
+      "onboard_time": 1715858176,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 201575,
@@ -1643,14 +1659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176370,
-      "num": 176370,
-      "word": "雷军官宣将在5月18日直播",
-      "onboard_time": 1715857877,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 173885,
       "num": 173885,
       "word": "不栓绳或成恶犬伤人最大诱因",
@@ -1715,6 +1723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167760,
+      "num": 167760,
+      "word": "流星",
+      "onboard_time": 1715858597,
+      "rank": 36,
+      "category": "自然"
+    },
+    {
       "raw_hot": 164785,
       "num": 164785,
       "word": "布朗尼13分",
@@ -1764,7 +1780,7 @@
     },
     {
       "raw_hot": 155138,
-      "num": 236269,
+      "num": 642636,
       "word": "退伍兵公主抱温柔救下轻生女孩",
       "onboard_time": 1715855538,
       "rank": 20,
@@ -2099,6 +2115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109490,
+      "num": 109490,
+      "word": "中俄元首出席中俄文化年开幕式",
+      "onboard_time": 1715856258,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108561,
       "num": 501777,
       "word": "莎出重围圆梦巴黎",
@@ -2372,7 +2396,7 @@
     },
     {
       "raw_hot": 57171,
-      "num": 177724,
+      "num": 1258636,
       "word": "我国火箭发动机试验台上新了",
       "onboard_time": 1715843778,
       "rank": 37,
@@ -2425,6 +2449,14 @@
       "onboard_time": 1715853918,
       "rank": 30,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 42043,
+      "num": 218015,
+      "word": "鸿星尔克的国货温度",
+      "onboard_time": 1715858537,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 37632,
@@ -2567,6 +2599,9 @@
     },
     {
       "word": "#习近平举行仪式欢迎普京访华#"
+    },
+    {
+      "word": "#发挥中俄各自优势实现彼此成就#"
     }
   ]
 }
