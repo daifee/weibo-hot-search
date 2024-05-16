@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715895277655,
+  "endTime": 1715897961471,
   "band_list": [
     {
       "raw_hot": 1742910,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1379929,
-      "num": 258567,
+      "num": 299704,
       "word": "王楚然演技 尴尬",
       "onboard_time": 1715869220,
       "rank": 6,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 183449,
-      "num": 67924,
+      "num": 82268,
       "word": "庆余年2老金头下线",
       "onboard_time": 1715877976,
       "rank": 31,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115501,
+      "num": 115501,
+      "word": "妇科检查之痛要怪鸭嘴钳吗",
+      "onboard_time": 1715885831,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112976,
       "num": 112976,
       "word": "Bin哥辛苦了",
@@ -403,6 +411,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 85608,
+      "num": 85608,
+      "word": "女排",
+      "onboard_time": 1715890510,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85523,
       "num": 78948,
       "word": "陆虎在机场捡了个活儿",
@@ -411,20 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74683,
-      "num": 74683,
-      "word": "女排",
-      "onboard_time": 1715890510,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 61906,
-      "num": 61906,
-      "word": "妇科检查之痛要怪鸭嘴钳吗",
-      "onboard_time": 1715885831,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 56185,
+      "num": 32471,
+      "word": "孩子张嘴睡觉被家长贴封口贴险缺氧",
+      "onboard_time": 1715896032,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46296,
@@ -440,6 +448,14 @@
       "word": "吴镇宇说丞磊这样子拍不了武侠",
       "onboard_time": 1715880733,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42187,
+      "num": 32288,
+      "word": "杨迪说和贾玲一起旅行很开心",
+      "onboard_time": 1715894590,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -499,12 +515,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 30511,
+      "num": 24103,
+      "word": "李沁薄纱抹胸裙",
+      "onboard_time": 1715894351,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24874,
+      "num": 24874,
+      "word": "李娟 我的讨好型人格",
+      "onboard_time": 1715889610,
+      "rank": 34,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 21259,
       "num": 37048,
       "word": "两个IVE斗舞",
       "onboard_time": 1715884812,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20898,
+      "num": 24146,
+      "word": "这猫像极了找工作的我",
+      "onboard_time": 1715891710,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 20816,
@@ -515,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19880,
-      "num": 19880,
-      "word": "杨迪说和贾玲一起旅行很开心",
-      "onboard_time": 1715894590,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 19470,
       "num": 63131,
       "word": "博主想用叶子换饭听障摊主写下我请你",
@@ -531,28 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17918,
-      "num": 19485,
-      "word": "李娟 我的讨好型人格",
-      "onboard_time": 1715889610,
-      "rank": 34,
-      "category": "读书作家"
-    },
-    {
-      "raw_hot": 16030,
-      "num": 17744,
-      "word": "李沁薄纱抹胸裙",
-      "onboard_time": 1715894351,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 13949,
-      "num": 17811,
-      "word": "这猫像极了找工作的我",
-      "onboard_time": 1715891710,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 17654,
+      "num": 24123,
+      "word": "檀健次说新专辑快出了",
+      "onboard_time": 1715896390,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 13166,
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 9159,
-      "num": 45060,
+      "num": 96992,
       "word": "环卫工剐蹭宝马后原地等待车主",
       "onboard_time": 1715884572,
       "rank": 13,
