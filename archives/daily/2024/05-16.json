@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715869104658,
+  "endTime": 1715872756051,
   "band_list": [
     {
       "raw_hot": 9003287,
@@ -27,6 +27,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 2595629,
+      "num": 390777,
+      "word": "周杰伦哭了",
+      "onboard_time": 1715870779,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2528660,
       "num": 2528660,
       "word": "庆余年2",
@@ -41,6 +49,14 @@
       "onboard_time": 1715849237,
       "rank": 0,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 1835758,
+      "num": 308520,
+      "word": "王楚然演技 尴尬",
+      "onboard_time": 1715869220,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1830305,
@@ -384,6 +400,14 @@
       "word": "范闲一死叔圈大乱",
       "onboard_time": 1715864899,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 726305,
+      "num": 227746,
+      "word": "范思辙胖了",
+      "onboard_time": 1715869940,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -1075,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311977,
+      "num": 311977,
+      "word": "警方通报残疾女子街头直播遭拍臀",
+      "onboard_time": 1715867599,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310150,
       "num": 241438,
       "word": "终于知道为什么打工这么烦了",
@@ -1115,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302270,
+      "num": 184941,
+      "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
+      "onboard_time": 1715870541,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 301198,
       "num": 238726,
       "word": "庆余年2剧本写了约3年",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1715826016,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 297154,
-      "num": 297154,
-      "word": "警方通报残疾女子街头直播遭拍臀",
-      "onboard_time": 1715867599,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295678,
@@ -1331,12 +1363,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 259131,
+      "num": 183081,
+      "word": "庆余年的扣开始系了",
+      "onboard_time": 1715870541,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258886,
       "num": 258886,
       "word": "教育厅回应大学转设致学生毕业证无法发放",
       "onboard_time": 1715866820,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 254720,
+      "num": 184448,
+      "word": "杭州天空疑似掉陨石了",
+      "onboard_time": 1715869760,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254070,
@@ -1427,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240088,
+      "num": 184017,
+      "word": "大凉山血色彩礼30多万元涉两条人命",
+      "onboard_time": 1715869341,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239384,
       "num": 186777,
       "word": "员工带薪如厕被解雇索赔20万元",
@@ -1475,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231121,
+      "num": 183897,
+      "word": "狐妖小红娘月红篇预约量破500万",
+      "onboard_time": 1715869220,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230150,
       "num": 148945,
       "word": "1岁女婴被大伯母投毒致四肢瘫痪",
@@ -1507,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227284,
+      "num": 227284,
+      "word": "无畏回应转会",
+      "onboard_time": 1715872159,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225964,
       "num": 225964,
       "word": "广州一批发市场起火疑有人失联",
@@ -1529,6 +1601,22 @@
       "onboard_time": 1715791635,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 223523,
+      "num": 223523,
+      "word": "美国家庭财务状况正持续恶化",
+      "onboard_time": 1715871380,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 222895,
+      "num": 170964,
+      "word": "被腾讯装到了",
+      "onboard_time": 1715869100,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 221628,
@@ -1593,6 +1681,14 @@
       "onboard_time": 1715830999,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215468,
+      "num": 183154,
+      "word": "那英说文俊辉太能撒谎了",
+      "onboard_time": 1715869760,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 214877,
@@ -1947,6 +2043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188111,
+      "num": 177291,
+      "word": "文俊辉认证NCT铁粉",
+      "onboard_time": 1715871498,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187287,
       "num": 187287,
       "word": "郑兴0提",
@@ -2001,6 +2105,22 @@
       "onboard_time": 1715837298,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183093,
+      "num": 183093,
+      "word": "女子100多元买到报仇榴莲",
+      "onboard_time": 1715870360,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182693,
+      "num": 182693,
+      "word": "菲律宾船只受中方震慑已驶离",
+      "onboard_time": 1715872400,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180849,
@@ -2155,6 +2275,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 165318,
+      "num": 165318,
+      "word": "王源敖子逸同框照",
+      "onboard_time": 1715870599,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164785,
       "num": 164785,
       "word": "布朗尼13分",
@@ -2233,6 +2361,14 @@
       "onboard_time": 1715853859,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 151111,
+      "num": 151111,
+      "word": "相似度高的人更容易成为伴侣",
+      "onboard_time": 1715871979,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 150154,
@@ -2667,6 +2803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105538,
+      "num": 230235,
+      "word": "爷爷给奶奶买了店里最贵的雪糕",
+      "onboard_time": 1715869100,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103328,
       "num": 81732,
       "word": "在仙侠剧看到女主强制爱男主",
@@ -2923,6 +3067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55176,
+      "num": 391373,
+      "word": "中国有约",
+      "onboard_time": 1715867300,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54839,
       "num": 719240,
       "word": "藏在文创里的博物馆宝藏",
@@ -2945,14 +3097,6 @@
       "onboard_time": 1715832020,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 50282,
-      "num": 386835,
-      "word": "中国有约",
-      "onboard_time": 1715867300,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 45389,

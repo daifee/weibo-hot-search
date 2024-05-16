@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715869104658,
+  "endTime": 1715872756051,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -289,6 +289,14 @@
       "onboard_time": 1715680998,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2595629,
+      "num": 390777,
+      "word": "周杰伦哭了",
+      "onboard_time": 1715870779,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 2595300,
@@ -793,6 +801,14 @@
       "onboard_time": 1715047939,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1835758,
+      "num": 308520,
+      "word": "王楚然演技 尴尬",
+      "onboard_time": 1715869220,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1830305,
@@ -5809,6 +5825,14 @@
       "onboard_time": 1715402360,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 726305,
+      "num": 227746,
+      "word": "范思辙胖了",
+      "onboard_time": 1715869940,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 726053,
@@ -16115,6 +16139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311977,
+      "num": 311977,
+      "word": "警方通报残疾女子街头直播遭拍臀",
+      "onboard_time": 1715867599,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311909,
       "num": 311909,
       "word": "Mayumi背叛了JackeyLove",
@@ -16515,6 +16547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302270,
+      "num": 184941,
+      "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
+      "onboard_time": 1715870541,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 301701,
       "num": 301701,
       "word": "杭州市内买房不再审核购房资格",
@@ -16761,14 +16801,6 @@
       "onboard_time": 1715568678,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297154,
-      "num": 297154,
-      "word": "警方通报残疾女子街头直播遭拍臀",
-      "onboard_time": 1715867599,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297085,
@@ -19003,6 +19035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259131,
+      "num": 183081,
+      "word": "庆余年的扣开始系了",
+      "onboard_time": 1715870541,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258886,
       "num": 258886,
       "word": "教育厅回应大学转设致学生毕业证无法发放",
@@ -19265,6 +19305,14 @@
       "onboard_time": 1715578039,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254720,
+      "num": 184448,
+      "word": "杭州天空疑似掉陨石了",
+      "onboard_time": 1715869760,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254630,
@@ -20339,6 +20387,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 240088,
+      "num": 184017,
+      "word": "大凉山血色彩礼30多万元涉两条人命",
+      "onboard_time": 1715869341,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239908,
       "num": 239908,
       "word": "25岁是个长胖分水岭",
@@ -21059,6 +21115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231121,
+      "num": 183897,
+      "word": "狐妖小红娘月红篇预约量破500万",
+      "onboard_time": 1715869220,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231006,
       "num": 231006,
       "word": "汪苏泷排名",
@@ -21411,6 +21475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227284,
+      "num": 227284,
+      "word": "无畏回应转会",
+      "onboard_time": 1715872159,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227283,
       "num": 227283,
       "word": "黄景瑜接受联合国新闻专访",
@@ -21747,6 +21819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223523,
+      "num": 223523,
+      "word": "美国家庭财务状况正持续恶化",
+      "onboard_time": 1715871380,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 223505,
       "num": 223505,
       "word": "董明珠体验汉服",
@@ -21785,6 +21865,14 @@
       "onboard_time": 1715612240,
       "rank": 17,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 222895,
+      "num": 170964,
+      "word": "被腾讯装到了",
+      "onboard_time": 1715869100,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 222778,
@@ -22601,6 +22689,14 @@
       "onboard_time": 1714987039,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215468,
+      "num": 183154,
+      "word": "那英说文俊辉太能撒谎了",
+      "onboard_time": 1715869760,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 215460,
@@ -27443,6 +27539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 188111,
+      "num": 177291,
+      "word": "文俊辉认证NCT铁粉",
+      "onboard_time": 1715871498,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188034,
       "num": 188034,
       "word": "KSG晋级败者组决赛",
@@ -28275,6 +28379,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 183093,
+      "num": 183093,
+      "word": "女子100多元买到报仇榴莲",
+      "onboard_time": 1715870360,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183088,
       "num": 183088,
       "word": "当两天伴娘给了18块钱红包",
@@ -28361,6 +28473,14 @@
       "onboard_time": 1715092881,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182693,
+      "num": 182693,
+      "word": "菲律宾船只受中方震慑已驶离",
+      "onboard_time": 1715872400,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 182667,
@@ -31163,6 +31283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165318,
+      "num": 165318,
+      "word": "王源敖子逸同框照",
+      "onboard_time": 1715870599,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165287,
       "num": 944722,
       "word": "阿勒泰连续两日出现极光",
@@ -33641,6 +33769,14 @@
       "onboard_time": 1715059278,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151111,
+      "num": 151111,
+      "word": "相似度高的人更容易成为伴侣",
+      "onboard_time": 1715871979,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 151097,
@@ -40923,6 +41059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105538,
+      "num": 230235,
+      "word": "爷爷给奶奶买了店里最贵的雪糕",
+      "onboard_time": 1715869100,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105415,
       "num": 105415,
       "word": "何炅吴昕新综艺",
@@ -43563,6 +43707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55176,
+      "num": 391373,
+      "word": "中国有约",
+      "onboard_time": 1715867300,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55090,
       "num": 217901,
       "word": "逐花归海首秀首胜",
@@ -43793,14 +43945,6 @@
       "onboard_time": 1713927617,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50282,
-      "num": 386835,
-      "word": "中国有约",
-      "onboard_time": 1715867300,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50088,
