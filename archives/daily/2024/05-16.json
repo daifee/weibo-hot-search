@@ -1,7 +1,15 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715829759666,
+  "endTime": 1715830510173,
   "band_list": [
+    {
+      "raw_hot": 3876491,
+      "num": 3876491,
+      "word": "霸王茶姬免单",
+      "onboard_time": 1715829678,
+      "rank": 0,
+      "category": "美食"
+    },
     {
       "raw_hot": 1830305,
       "num": 1830305,
@@ -17,14 +25,6 @@
       "onboard_time": 1715821399,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1416684,
-      "num": 1416684,
-      "word": "霸王茶姬免单",
-      "onboard_time": 1715829678,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 1382761,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1208506,
+      "num": 1208506,
+      "word": "女子遭色诱沦陷拉丈夫同做间谍",
+      "onboard_time": 1715827397,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1206840,
       "num": 550307,
       "word": "曝iOS17.5恢复已删除多年照片",
@@ -64,14 +72,6 @@
       "word": "17岁体育生左膝长骨瘤医生错切右膝",
       "onboard_time": 1715822417,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1144609,
-      "num": 1144609,
-      "word": "女子遭色诱沦陷拉丈夫同做间谍",
-      "onboard_time": 1715827397,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -112,6 +112,14 @@
       "word": "云南将迎1亿只以上蝴蝶大爆发",
       "onboard_time": 1715803151,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739369,
+      "num": 739369,
+      "word": "单身女性迎来买房热潮",
+      "onboard_time": 1715828057,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -171,12 +179,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 621754,
-      "num": 621754,
-      "word": "单身女性迎来买房热潮",
-      "onboard_time": 1715828057,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 634098,
+      "num": 634098,
+      "word": "戛纳 玉皇大帝",
+      "onboard_time": 1715828419,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 608515,
@@ -267,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 469937,
-      "num": 469937,
-      "word": "戛纳 玉皇大帝",
-      "onboard_time": 1715828419,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 463764,
       "num": 257091,
       "word": "歌手2024揭榜歌手歌单",
@@ -283,7 +283,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 454222,
+      "raw_hot": 462699,
       "num": 365226,
       "word": "健身房塌起房来比娱乐圈还猛",
       "onboard_time": 1715826857,
@@ -363,12 +363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367344,
-      "num": 367344,
+      "raw_hot": 371701,
+      "num": 371701,
       "word": "于正当年差点拍庆余年",
       "onboard_time": 1715827579,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365347,
+      "num": 290828,
+      "word": "二手玫瑰乐队吉他手姚澜暂别演出",
+      "onboard_time": 1715829259,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 350111,
@@ -427,12 +435,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 283151,
-      "num": 283151,
+      "raw_hot": 285075,
+      "num": 285075,
       "word": "唐嫣戛纳官方镜头特写",
       "onboard_time": 1715827458,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 282080,
+      "num": 282080,
+      "word": "大睿睿小马甲有宝宝了",
+      "onboard_time": 1715828777,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 272227,
@@ -465,14 +481,6 @@
       "onboard_time": 1715790555,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 261008,
-      "num": 261008,
-      "word": "大睿睿小马甲有宝宝了",
-      "onboard_time": 1715828777,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 260692,
@@ -523,14 +531,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 241387,
-      "num": 241387,
-      "word": "二手玫瑰乐队吉他手姚澜暂别演出",
-      "onboard_time": 1715829259,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 241165,
       "num": 241165,
       "word": "谁懂吴彦姝父亲这句儿多母苦的含金量",
@@ -539,8 +539,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233876,
-      "num": 233876,
+      "raw_hot": 240697,
+      "num": 240697,
       "word": "杨迪朋友圈到底有多少艺人",
       "onboard_time": 1715828538,
       "rank": 30,
@@ -915,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114208,
+      "num": 114208,
+      "word": "青环5首轮飞行阵容",
+      "onboard_time": 1715830039,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111462,
       "num": 149591,
       "word": "日本制铁公司熔钢锅内发现人骨",
@@ -953,6 +961,14 @@
       "onboard_time": 1715813173,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101499,
+      "num": 101499,
+      "word": "有些水果很久没见到了",
+      "onboard_time": 1715830399,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 95181,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1715783058,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85171,
+      "num": 165896,
+      "word": "王者吃鸡玩法首曝",
+      "onboard_time": 1715830218,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 80221,
@@ -1191,6 +1215,14 @@
       "num": 1229492,
       "word": "高质量发展调研行",
       "onboard_time": 1715829678,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2586,
+      "num": 1237257,
+      "word": "阔步迈向网络强国",
+      "onboard_time": 1715741237,
       "rank": 2,
       "category": "社会新闻"
     }
