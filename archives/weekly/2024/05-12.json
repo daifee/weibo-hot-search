@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715884540253,
+  "endTime": 1715886888084,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -14531,6 +14531,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 24036,
+      "num": 37847,
+      "word": "iPhone数据安全遭网友质疑",
+      "onboard_time": 1715886492,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 23732,
       "num": 28351,
       "word": "张凌赫伦敦看秀",
@@ -14577,6 +14585,14 @@
       "onboard_time": 1715440343,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21259,
+      "num": 37048,
+      "word": "两个IVE斗舞",
+      "onboard_time": 1715884812,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 21124,

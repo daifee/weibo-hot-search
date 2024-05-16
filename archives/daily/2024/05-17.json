@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715884540253,
+  "endTime": 1715886888084,
   "band_list": [
     {
       "raw_hot": 1742910,
@@ -473,6 +473,22 @@
       "onboard_time": 1715880552,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 24036,
+      "num": 37847,
+      "word": "iPhone数据安全遭网友质疑",
+      "onboard_time": 1715886492,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 21259,
+      "num": 37048,
+      "word": "两个IVE斗舞",
+      "onboard_time": 1715884812,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 20816,
