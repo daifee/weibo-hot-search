@@ -1,0 +1,410 @@
+{
+  "runTime": 1715901518195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 740332,
+        "num": 740332,
+        "word": "王楚然演技 尴尬",
+        "onboard_time": 1715869220,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 600301,
+        "num": 600301,
+        "word": "大凉山血色彩礼30多万元涉两条人命",
+        "onboard_time": 1715869341,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26506,
+        "num": 516956,
+        "word": "中国有约",
+        "onboard_time": 1715867300,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 506313,
+        "num": 506313,
+        "word": "周杰伦哭了",
+        "onboard_time": 1715870779,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 401723,
+        "num": 401723,
+        "word": "高速上逼停小车的2民警被停职",
+        "onboard_time": 1715865440,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273828,
+        "num": 273828,
+        "word": "妇科检查之痛要怪鸭嘴钳吗",
+        "onboard_time": 1715885831,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 429818,
+        "num": 261352,
+        "word": "庆余年2的观后感",
+        "onboard_time": 1715874559,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232665,
+        "num": 232665,
+        "word": "菲律宾船只受中方震慑已驶离",
+        "onboard_time": 1715872400,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192755,
+        "num": 192755,
+        "word": "中国女排3比1美国女排",
+        "onboard_time": 1715900955,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44917,
+        "num": 192679,
+        "word": "山东大馒头有自己的莫奈花园",
+        "onboard_time": 1715900534,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 400257,
+        "num": 192467,
+        "word": "坐火车40小时没及时换卫生巾感染送医",
+        "onboard_time": 1715863758,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306700,
+        "num": 192086,
+        "word": "庆余年 剧王",
+        "onboard_time": 1715861296,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207935,
+        "num": 191734,
+        "word": "谁能认得出这是小鬼",
+        "onboard_time": 1715881693,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191701,
+        "num": 191701,
+        "word": "中国女排巴西站两连胜",
+        "onboard_time": 1715900895,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269544,
+        "num": 191674,
+        "word": "王启年女儿",
+        "onboard_time": 1715898972,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191640,
+        "num": 191640,
+        "word": "成毅工作室文笔",
+        "onboard_time": 1715900895,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188331,
+        "num": 188331,
+        "word": "从西安买7斤普罗旺斯西红柿回广州",
+        "onboard_time": 1715875818,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193721,
+        "num": 185992,
+        "word": "腾讯视频会员",
+        "onboard_time": 1715864299,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183171,
+        "num": 183171,
+        "word": "男童狂犬病病毒免疫失败一串问号需要解答",
+        "onboard_time": 1715874199,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132244,
+        "num": 132244,
+        "word": "普京向人民英雄纪念碑敬献花圈",
+        "onboard_time": 1715860817,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 396583,
+        "num": 131808,
+        "word": "孩子张嘴睡觉被家长贴封口贴险缺氧",
+        "onboard_time": 1715896032,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287103,
+        "num": 130375,
+        "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
+        "onboard_time": 1715870541,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275638,
+        "num": 127803,
+        "word": "李佳琦称今年618大促是难的",
+        "onboard_time": 1715849237,
+        "rank": 22,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 185878,
+        "num": 125468,
+        "word": "庆余年2老金头下线",
+        "onboard_time": 1715877976,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124829,
+        "num": 124829,
+        "word": "女排",
+        "onboard_time": 1715890510,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118585,
+        "num": 118585,
+        "word": "民警高速亮证查车疑穿4400元T恤",
+        "onboard_time": 1715863219,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151703,
+        "num": 117290,
+        "word": "庆余年收视率",
+        "onboard_time": 1715866580,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115644,
+        "num": 115644,
+        "word": "你脸上的痘痘可能是吃出来的",
+        "onboard_time": 1715865319,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112056,
+        "num": 112056,
+        "word": "中国科协辟谣阿波罗登月造假",
+        "onboard_time": 1715859377,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143630,
+        "num": 108712,
+        "word": "范思辙胖了",
+        "onboard_time": 1715869940,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89822,
+        "num": 89822,
+        "word": "专家称只有房价不跌老百姓才会回归购房市场",
+        "onboard_time": 1715856798,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79480,
+        "num": 79480,
+        "word": "医生建议榴莲1天最多吃1瓣",
+        "onboard_time": 1715841018,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97010,
+        "num": 79414,
+        "word": "杨幂包场庆余年",
+        "onboard_time": 1715864479,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78555,
+        "num": 78555,
+        "word": "162只南极磷虾才能提取1滴油",
+        "onboard_time": 1715900534,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75797,
+        "num": 75797,
+        "word": "杭州天空疑似掉陨石了",
+        "onboard_time": 1715869760,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92638,
+        "num": 75322,
+        "word": "范闲一死叔圈大乱",
+        "onboard_time": 1715864899,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73829,
+        "num": 73829,
+        "word": "陆虎在机场捡了个活儿",
+        "onboard_time": 1715877316,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73434,
+        "num": 73434,
+        "word": "原来河南高考统一配备考试文具",
+        "onboard_time": 1715897652,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88883,
+        "num": 71325,
+        "word": "王楚然 假笑",
+        "onboard_time": 1715867480,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67078,
+        "num": 67078,
+        "word": "女子100多元买到报仇榴莲",
+        "onboard_time": 1715870360,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65934,
+        "num": 65934,
+        "word": "庆余年2刷屏这些上市公司或受益",
+        "onboard_time": 1715901136,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87292,
+        "num": 64946,
+        "word": "三皇子 甲方",
+        "onboard_time": 1715874679,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62457,
+        "num": 62457,
+        "word": "黄子韬只承认鹿晗比自己帅",
+        "onboard_time": 1715864419,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58444,
+        "num": 58444,
+        "word": "相似度高的人更容易成为伴侣",
+        "onboard_time": 1715871979,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74219,
+        "num": 58376,
+        "word": "李沁看得出是公主",
+        "onboard_time": 1715862619,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58170,
+        "num": 58170,
+        "word": "警方通报残疾女子街头直播遭拍臀",
+        "onboard_time": 1715867599,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56499,
+        "num": 56499,
+        "word": "杨迪说和贾玲一起旅行很开心",
+        "onboard_time": 1715894590,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63849,
+        "num": 56377,
+        "word": "言冰云",
+        "onboard_time": 1715845879,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55379,
+        "num": 55379,
+        "word": "这6种早餐吃法伤身体",
+        "onboard_time": 1715899874,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54980,
+        "num": 54980,
+        "word": "花少北 p聊天记录",
+        "onboard_time": 1715853258,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#为中俄友好的世代传承注入新动力#"
+    }
+  }
+}
