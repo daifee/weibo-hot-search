@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715852075516,
+  "endTime": 1715854772874,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2380011,
+      "num": 2380011,
+      "word": "李佳琦称今年618大促是难的",
+      "onboard_time": 1715849237,
+      "rank": 0,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 2364982,
       "num": 2364982,
       "word": "茶百道以胖猫之名捐款100万",
@@ -689,14 +697,6 @@
       "onboard_time": 1715235557,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1959483,
-      "num": 1959483,
-      "word": "李佳琦称今年618大促是难的",
-      "onboard_time": 1715849237,
-      "rank": 0,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 1954955,
@@ -1865,6 +1865,14 @@
       "onboard_time": 1715415318,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1311818,
+      "num": 1311818,
+      "word": "花少北 p聊天记录",
+      "onboard_time": 1715853258,
+      "rank": 1,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1311315,
@@ -3369,6 +3377,14 @@
       "onboard_time": 1715730737,
       "rank": 5,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 993062,
+      "num": 718802,
+      "word": "尊敬的普京总统我的老朋友",
+      "onboard_time": 1715850799,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 992296,
@@ -5200,6 +5216,14 @@
       "word": "南通大巴与渣土车碰撞致1死",
       "onboard_time": 1715440941,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 767590,
+      "num": 767590,
+      "word": "12306回应车厢吃东西被嫌味道大",
+      "onboard_time": 1715851218,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -7515,6 +7539,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 610069,
+      "num": 610069,
+      "word": "周依然经纪人",
+      "onboard_time": 1715851878,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 609408,
       "num": 609408,
       "word": "对河南大学大礼堂火灾事故挂牌督办",
@@ -9691,14 +9723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492855,
-      "num": 411998,
-      "word": "尊敬的普京总统我的老朋友",
-      "onboard_time": 1715850799,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 492801,
       "num": 492801,
       "word": "我的阿勒泰 新疆宣传片",
@@ -10641,6 +10665,14 @@
       "onboard_time": 1715050878,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 458048,
+      "num": 458048,
+      "word": "庆余年",
+      "onboard_time": 1714984939,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 457595,
@@ -14083,14 +14115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356381,
-      "num": 356381,
-      "word": "庆余年",
-      "onboard_time": 1714984939,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 355888,
       "num": 355888,
       "word": "刘诗诗面纱海报",
@@ -14507,6 +14531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345631,
+      "num": 296629,
+      "word": "家庭唯一用车买电车还是买油车",
+      "onboard_time": 1715853318,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 345547,
       "num": 345547,
       "word": "赵继伟牛",
@@ -14569,6 +14601,14 @@
       "onboard_time": 1715149341,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 344376,
+      "num": 344376,
+      "word": "迪丽热巴留洋千金",
+      "onboard_time": 1715853918,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 343681,
@@ -14681,6 +14721,14 @@
       "onboard_time": 1715394560,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 341045,
+      "num": 341045,
+      "word": "庆余年 你知道我这五年怎么过的吗",
+      "onboard_time": 1715854038,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 339805,
@@ -15065,6 +15113,14 @@
       "onboard_time": 1715746640,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331386,
+      "num": 331386,
+      "word": "杨紫5月两本五大",
+      "onboard_time": 1715851578,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 331227,
@@ -16075,6 +16131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304587,
+      "num": 304587,
+      "word": "王源丁程鑫敖子逸都在长沙录综艺",
+      "onboard_time": 1715851697,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304475,
       "num": 304475,
       "word": "卓哥解说",
@@ -16817,14 +16881,6 @@
       "onboard_time": 1715408239,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286266,
-      "num": 286266,
-      "word": "王源丁程鑫敖子逸都在长沙录综艺",
-      "onboard_time": 1715851697,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 286257,
@@ -18851,14 +18907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254677,
-      "num": 254677,
-      "word": "杨紫5月两本五大",
-      "onboard_time": 1715851578,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 254630,
       "num": 242975,
       "word": "为什么男朋友总跟我追求公平",
@@ -19627,6 +19675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244421,
+      "num": 244421,
+      "word": "五条悟 全球趋势第一",
+      "onboard_time": 1715851819,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 244309,
       "num": 242651,
       "word": "深圳的天是漏了吗",
@@ -19713,6 +19769,14 @@
       "onboard_time": 1715388501,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 242898,
+      "num": 242898,
+      "word": "GEN对战BLG",
+      "onboard_time": 1715853318,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 242888,
@@ -23259,14 +23323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206661,
-      "num": 210857,
-      "word": "12306回应车厢吃东西被嫌味道大",
-      "onboard_time": 1715851218,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206659,
       "num": 206659,
       "word": "猫妈 这是我生的",
@@ -23441,6 +23497,14 @@
       "onboard_time": 1714538057,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205778,
+      "num": 205778,
+      "word": "MCD",
+      "onboard_time": 1714644497,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 205767,
@@ -23801,14 +23865,6 @@
       "onboard_time": 1715671338,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 203794,
-      "num": 203794,
-      "word": "MCD",
-      "onboard_time": 1714644497,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 203733,
@@ -26257,14 +26313,6 @@
       "onboard_time": 1715142683,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 191259,
-      "num": 191259,
-      "word": "周依然经纪人",
-      "onboard_time": 1715851878,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 191233,
@@ -32195,14 +32243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155952,
-      "num": 155952,
-      "word": "五条悟 全球趋势第一",
-      "onboard_time": 1715851819,
-      "rank": 41,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 155946,
       "num": 155946,
       "word": "KSG对战狼队",
@@ -32665,6 +32705,14 @@
       "onboard_time": 1715358378,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153360,
+      "num": 153360,
+      "word": "外交部回应美方指责中方向俄提供武器制造材料",
+      "onboard_time": 1715853859,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153279,
@@ -35619,6 +35667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135967,
+      "num": 135967,
+      "word": "法拉第未来四天涨超1600%",
+      "onboard_time": 1715852178,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 135856,
       "num": 135856,
       "word": "厕所会庇佑每一个实习生",
@@ -37691,6 +37747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123986,
+      "num": 123986,
+      "word": "马来西亚一男子开车撞死老虎",
+      "onboard_time": 1715854637,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123949,
       "num": 123949,
       "word": "男子闯女厕索要微信发淫秽信息被拘",
@@ -38833,6 +38897,14 @@
       "onboard_time": 1715340439,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116178,
+      "num": 718852,
+      "word": "赤狐闯进公安局还打包带走了1块肉",
+      "onboard_time": 1715853618,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116156,
@@ -42939,6 +43011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51769,
+      "num": 165522,
+      "word": "荣耀雅顾",
+      "onboard_time": 1715854338,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 51741,
       "num": 51741,
       "word": "热刺vs曼城",
@@ -43108,7 +43188,7 @@
     },
     {
       "raw_hot": 48034,
-      "num": 340647,
+      "num": 719240,
       "word": "藏在文创里的博物馆宝藏",
       "onboard_time": 1715851878,
       "rank": 15,
@@ -43329,6 +43409,14 @@
       "onboard_time": 1714858151,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42368,
+      "num": 208088,
+      "word": "红旗EH7带你领略慢生活的美好",
+      "onboard_time": 1715853918,
+      "rank": 30,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 42235,

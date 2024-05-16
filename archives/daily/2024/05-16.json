@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715852075516,
+  "endTime": 1715854772874,
   "band_list": [
     {
       "raw_hot": 3876491,
@@ -19,8 +19,8 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 1959483,
-      "num": 1959483,
+      "raw_hot": 2380011,
+      "num": 2380011,
       "word": "李佳琦称今年618大促是难的",
       "onboard_time": 1715849237,
       "rank": 0,
@@ -81,6 +81,14 @@
       "onboard_time": 1715817617,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1311818,
+      "num": 1311818,
+      "word": "花少北 p聊天记录",
+      "onboard_time": 1715853258,
+      "rank": 1,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1289692,
@@ -153,6 +161,14 @@
       "onboard_time": 1715835740,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 993062,
+      "num": 718802,
+      "word": "尊敬的普京总统我的老朋友",
+      "onboard_time": 1715850799,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 958293,
@@ -233,6 +249,14 @@
       "onboard_time": 1715833400,
       "rank": 28,
       "category": "数码,科学科普"
+    },
+    {
+      "raw_hot": 767590,
+      "num": 767590,
+      "word": "12306回应车厢吃东西被嫌味道大",
+      "onboard_time": 1715851218,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 763134,
@@ -337,6 +361,14 @@
       "onboard_time": 1715836818,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 610069,
+      "num": 610069,
+      "word": "周依然经纪人",
+      "onboard_time": 1715851878,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 608515,
@@ -467,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 492855,
-      "num": 411998,
-      "word": "尊敬的普京总统我的老朋友",
-      "onboard_time": 1715850799,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 492511,
       "num": 403210,
       "word": "健身房塌起房来比娱乐圈还猛",
@@ -529,6 +553,14 @@
       "onboard_time": 1715831181,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458048,
+      "num": 458048,
+      "word": "庆余年",
+      "onboard_time": 1715841858,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 448024,
@@ -715,12 +747,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345631,
+      "num": 296629,
+      "word": "家庭唯一用车买电车还是买油车",
+      "onboard_time": 1715853318,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 344376,
+      "num": 344376,
+      "word": "迪丽热巴留洋千金",
+      "onboard_time": 1715853918,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341503,
       "num": 341503,
       "word": "金曲奖",
       "onboard_time": 1715834060,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 341045,
+      "num": 341045,
+      "word": "庆余年 你知道我这五年怎么过的吗",
+      "onboard_time": 1715854038,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 336495,
@@ -755,12 +811,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 326583,
-      "num": 326583,
-      "word": "庆余年",
-      "onboard_time": 1715841858,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 331386,
+      "num": 331386,
+      "word": "杨紫5月两本五大",
+      "onboard_time": 1715851578,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 323572,
@@ -777,6 +833,14 @@
       "onboard_time": 1715815637,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304587,
+      "num": 304587,
+      "word": "王源丁程鑫敖子逸都在长沙录综艺",
+      "onboard_time": 1715851697,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 303268,
@@ -817,14 +881,6 @@
       "onboard_time": 1715851458,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 286266,
-      "num": 286266,
-      "word": "王源丁程鑫敖子逸都在长沙录综艺",
-      "onboard_time": 1715851697,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 285075,
@@ -923,14 +979,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 254677,
-      "num": 254677,
-      "word": "杨紫5月两本五大",
-      "onboard_time": 1715851578,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 254070,
       "num": 273214,
       "word": "李雪琴 小树不长歪长点枝丫没问题",
@@ -953,6 +1001,22 @@
       "onboard_time": 1715821697,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 244421,
+      "num": 244421,
+      "word": "五条悟 全球趋势第一",
+      "onboard_time": 1715851819,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 242898,
+      "num": 242898,
+      "word": "GEN对战BLG",
+      "onboard_time": 1715853318,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 242823,
@@ -1219,20 +1283,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206661,
-      "num": 210857,
-      "word": "12306回应车厢吃东西被嫌味道大",
-      "onboard_time": 1715851218,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206353,
       "num": 206353,
       "word": "这口红色号是越来越难懂了",
       "onboard_time": 1715818938,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 205778,
+      "num": 205778,
+      "word": "MCD",
+      "onboard_time": 1715853918,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 205199,
@@ -1363,14 +1427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191259,
-      "num": 191259,
-      "word": "周依然经纪人",
-      "onboard_time": 1715851878,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190637,
       "num": 190637,
       "word": "五条悟 复活赛",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1715781198,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185711,
+      "num": 185711,
+      "word": "MSI",
+      "onboard_time": 1715853559,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 184436,
@@ -1579,20 +1643,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 155952,
-      "num": 155952,
-      "word": "五条悟 全球趋势第一",
-      "onboard_time": 1715851819,
-      "rank": 41,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 153740,
       "num": 153740,
       "word": "吴幸键重拍了庆余年的结尾",
       "onboard_time": 1715843298,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153360,
+      "num": 153360,
+      "word": "外交部回应美方指责中方向俄提供武器制造材料",
+      "onboard_time": 1715853859,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150154,
@@ -1707,6 +1771,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 135967,
+      "num": 135967,
+      "word": "法拉第未来四天涨超1600%",
+      "onboard_time": 1715852178,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 135118,
       "num": 135118,
       "word": "庆余年2先导plus预告",
@@ -1803,6 +1875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 123986,
+      "num": 123986,
+      "word": "马来西亚一男子开车撞死老虎",
+      "onboard_time": 1715854637,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122830,
       "num": 149779,
       "word": "Uzi不和G2打训练赛",
@@ -1833,6 +1913,14 @@
       "onboard_time": 1715784318,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116178,
+      "num": 718852,
+      "word": "赤狐闯进公安局还打包带走了1块肉",
+      "onboard_time": 1715853618,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114208,
@@ -2147,8 +2235,16 @@
       "category": "美食"
     },
     {
+      "raw_hot": 51769,
+      "num": 165522,
+      "word": "荣耀雅顾",
+      "onboard_time": 1715854338,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 48034,
-      "num": 340647,
+      "num": 719240,
       "word": "藏在文创里的博物馆宝藏",
       "onboard_time": 1715851878,
       "rank": 15,
@@ -2161,6 +2257,14 @@
       "onboard_time": 1715844259,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42368,
+      "num": 208088,
+      "word": "红旗EH7带你领略慢生活的美好",
+      "onboard_time": 1715853918,
+      "rank": 30,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 37632,

@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715852075516,
+  "endTime": 1715854772874,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2380011,
+      "num": 2380011,
+      "word": "李佳琦称今年618大促是难的",
+      "onboard_time": 1715849237,
+      "rank": 0,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 2255761,
       "num": 2255761,
       "word": "歌手2024揭榜歌手歌单",
@@ -217,14 +225,6 @@
       "onboard_time": 1715588180,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1959483,
-      "num": 1959483,
-      "word": "李佳琦称今年618大促是难的",
-      "onboard_time": 1715849237,
-      "rank": 0,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 1878034,
@@ -601,6 +601,14 @@
       "onboard_time": 1715643737,
       "rank": 5,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 1311818,
+      "num": 1311818,
+      "word": "花少北 p聊天记录",
+      "onboard_time": 1715853258,
+      "rank": 1,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1299800,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1715730737,
       "rank": 5,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 993062,
+      "num": 718802,
+      "word": "尊敬的普京总统我的老朋友",
+      "onboard_time": 1715850799,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 972569,
@@ -1720,6 +1736,14 @@
       "word": "南通大巴与渣土车碰撞致1死",
       "onboard_time": 1715440941,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 767590,
+      "num": 767590,
+      "word": "12306回应车厢吃东西被嫌味道大",
+      "onboard_time": 1715851218,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2393,6 +2417,14 @@
       "onboard_time": 1715610741,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 610069,
+      "num": 610069,
+      "word": "周依然经纪人",
+      "onboard_time": 1715851878,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 608515,
@@ -3155,14 +3187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492855,
-      "num": 411998,
-      "word": "尊敬的普京总统我的老朋友",
-      "onboard_time": 1715850799,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 492511,
       "num": 403210,
       "word": "健身房塌起房来比娱乐圈还猛",
@@ -3441,6 +3465,14 @@
       "onboard_time": 1715662639,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458048,
+      "num": 458048,
+      "word": "庆余年",
+      "onboard_time": 1715515221,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 457595,
@@ -4539,14 +4571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 356381,
-      "num": 356381,
-      "word": "庆余年",
-      "onboard_time": 1715515221,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 355888,
       "num": 355888,
       "word": "刘诗诗面纱海报",
@@ -4723,6 +4747,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345631,
+      "num": 296629,
+      "word": "家庭唯一用车买电车还是买油车",
+      "onboard_time": 1715853318,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 344376,
+      "num": 344376,
+      "word": "迪丽热巴留洋千金",
+      "onboard_time": 1715853918,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343583,
       "num": 343583,
       "word": "上海文旅局回应五月天假唱风波调查",
@@ -4761,6 +4801,14 @@
       "onboard_time": 1715834060,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 341045,
+      "num": 341045,
+      "word": "庆余年 你知道我这五年怎么过的吗",
+      "onboard_time": 1715854038,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 338896,
@@ -4873,6 +4921,14 @@
       "onboard_time": 1715746640,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331386,
+      "num": 331386,
+      "word": "杨紫5月两本五大",
+      "onboard_time": 1715851578,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 330083,
@@ -5163,6 +5219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304587,
+      "num": 304587,
+      "word": "王源丁程鑫敖子逸都在长沙录综艺",
+      "onboard_time": 1715851697,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304428,
       "num": 206107,
       "word": "aespa概念",
@@ -5408,14 +5472,6 @@
       "word": "陈楚生曾救场歌手",
       "onboard_time": 1715486358,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 286266,
-      "num": 286266,
-      "word": "王源丁程鑫敖子逸都在长沙录综艺",
-      "onboard_time": 1715851697,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -6067,14 +6123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254677,
-      "num": 254677,
-      "word": "杨紫5月两本五大",
-      "onboard_time": 1715851578,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 254553,
       "num": 205400,
       "word": "上班的累是来自情绪劳动而不是工作本身",
@@ -6323,6 +6371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244421,
+      "num": 244421,
+      "word": "五条悟 全球趋势第一",
+      "onboard_time": 1715851819,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 243928,
       "num": 243928,
       "word": "乐道发布会",
@@ -6337,6 +6393,14 @@
       "onboard_time": 1715518401,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242898,
+      "num": 242898,
+      "word": "GEN对战BLG",
+      "onboard_time": 1715853318,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 242823,
@@ -7419,14 +7483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206661,
-      "num": 210857,
-      "word": "12306回应车厢吃东西被嫌味道大",
-      "onboard_time": 1715851218,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206490,
       "num": 417732,
       "word": "儿子打碎20多个瓜爸妈脸上笑哈哈",
@@ -7481,6 +7537,14 @@
       "onboard_time": 1715777597,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 205778,
+      "num": 205778,
+      "word": "MCD",
+      "onboard_time": 1715853918,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 205690,
@@ -8339,14 +8403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191259,
-      "num": 191259,
-      "word": "周依然经纪人",
-      "onboard_time": 1715851878,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191121,
       "num": 191121,
       "word": "男童被狗咬伤离世医院回应治疗不规范质疑",
@@ -8641,6 +8697,14 @@
       "onboard_time": 1715563639,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185711,
+      "num": 185711,
+      "word": "MSI",
+      "onboard_time": 1715853559,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 185400,
@@ -10067,14 +10131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155952,
-      "num": 155952,
-      "word": "五条悟 全球趋势第一",
-      "onboard_time": 1715851819,
-      "rank": 41,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 155602,
       "num": 155602,
       "word": "多方回应青岛11岁女童疑遭误诊去世",
@@ -10169,6 +10225,14 @@
       "onboard_time": 1715741119,
       "rank": 43,
       "category": "科学科普,社会新闻"
+    },
+    {
+      "raw_hot": 153360,
+      "num": 153360,
+      "word": "外交部回应美方指责中方向俄提供武器制造材料",
+      "onboard_time": 1715853859,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153279,
@@ -10971,6 +11035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135967,
+      "num": 135967,
+      "word": "法拉第未来四天涨超1600%",
+      "onboard_time": 1715852178,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 135853,
       "num": 135853,
       "word": "MSI胜败分组赛",
@@ -11571,6 +11643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123986,
+      "num": 123986,
+      "word": "马来西亚一男子开车撞死老虎",
+      "onboard_time": 1715854637,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123634,
       "num": 123634,
       "word": "螺蛳粉官宣英文名",
@@ -11833,6 +11913,14 @@
       "onboard_time": 1715519420,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116178,
+      "num": 718852,
+      "word": "赤狐闯进公安局还打包带走了1块肉",
+      "onboard_time": 1715853618,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116005,
@@ -13107,6 +13195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51769,
+      "num": 165522,
+      "word": "荣耀雅顾",
+      "onboard_time": 1715854338,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 51741,
       "num": 51741,
       "word": "热刺vs曼城",
@@ -13164,7 +13260,7 @@
     },
     {
       "raw_hot": 48034,
-      "num": 340647,
+      "num": 719240,
       "word": "藏在文创里的博物馆宝藏",
       "onboard_time": 1715851878,
       "rank": 15,
@@ -13217,6 +13313,14 @@
       "onboard_time": 1715761339,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42368,
+      "num": 208088,
+      "word": "红旗EH7带你领略慢生活的美好",
+      "onboard_time": 1715853918,
+      "rank": 30,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 42235,
