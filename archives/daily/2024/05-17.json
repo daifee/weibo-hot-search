@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715876576069,
+  "endTime": 1715877460974,
   "band_list": [
     {
       "raw_hot": 1742910,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1486938,
-      "num": 325341,
+      "num": 375205,
       "word": "周杰伦哭了",
       "onboard_time": 1715870779,
       "rank": 3,
@@ -33,6 +33,14 @@
       "onboard_time": 1715870541,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 577792,
+      "num": 165342,
+      "word": "庆余年2的观后感",
+      "onboard_time": 1715874559,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 573241,
@@ -67,6 +75,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 447102,
+      "num": 161594,
+      "word": "三皇子 甲方",
+      "onboard_time": 1715874679,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 442737,
+      "num": 182470,
+      "word": "男童狂犬病病毒免疫失败一串问号需要解答",
+      "onboard_time": 1715874199,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439449,
       "num": 185970,
       "word": "黄子韬只承认鹿晗比自己帅",
@@ -80,22 +104,6 @@
       "word": "庆余年收视率",
       "onboard_time": 1715866580,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 404843,
-      "num": 165342,
-      "word": "庆余年2的观后感",
-      "onboard_time": 1715874559,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 396524,
-      "num": 161594,
-      "word": "三皇子 甲方",
-      "onboard_time": 1715874679,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -115,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359658,
+      "num": 359658,
+      "word": "大凉山血色彩礼30多万元涉两条人命",
+      "onboard_time": 1715869341,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356861,
       "num": 130850,
       "word": "李沁看得出是公主",
@@ -123,28 +139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 338307,
-      "num": 182470,
-      "word": "男童狂犬病病毒免疫失败一串问号需要解答",
-      "onboard_time": 1715874199,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308416,
       "num": 130051,
       "word": "王楚然 假笑",
       "onboard_time": 1715867480,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304864,
-      "num": 304864,
-      "word": "大凉山血色彩礼30多万元涉两条人命",
-      "onboard_time": 1715869341,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300161,
@@ -251,6 +251,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163268,
+      "num": 161066,
+      "word": "从西安买7斤普罗旺斯西红柿回广州",
+      "onboard_time": 1715875818,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160662,
+      "num": 105425,
+      "word": "成毅分享会优酷独播",
+      "onboard_time": 1715876358,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157070,
       "num": 157070,
       "word": "相似度高的人更容易成为伴侣",
@@ -315,28 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119519,
-      "num": 119519,
-      "word": "从西安买7斤普罗旺斯西红柿回广州",
-      "onboard_time": 1715875818,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112976,
       "num": 112976,
       "word": "Bin哥辛苦了",
       "onboard_time": 1715865260,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98187,
-      "num": 96849,
-      "word": "成毅分享会优酷独播",
-      "onboard_time": 1715876358,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 97300,
@@ -387,6 +387,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 78948,
+      "num": 78948,
+      "word": "陆虎在机场捡了个活儿",
+      "onboard_time": 1715877316,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39346,
       "num": 191067,
       "word": "爷爷给奶奶买了店里最贵的雪糕",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 34697,
-      "num": 331500,
+      "num": 376336,
       "word": "中国有约",
       "onboard_time": 1715867300,
       "rank": 2,
