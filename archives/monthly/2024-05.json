@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715883740283,
+  "endTime": 1715884540253,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -41475,6 +41475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 101969,
+      "num": 57560,
+      "word": "谁能认得出这是小鬼",
+      "onboard_time": 1715881693,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101854,
       "num": 101854,
       "word": "60秒看星河流转有多惊艳",
@@ -42633,14 +42641,6 @@
       "onboard_time": 1714790177,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80856,
-      "num": 57560,
-      "word": "谁能认得出这是小鬼",
-      "onboard_time": 1715881693,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 80560,
