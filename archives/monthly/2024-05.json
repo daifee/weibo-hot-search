@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715826651353,
+  "endTime": 1715827293612,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3667,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 913397,
+      "num": 913397,
+      "word": "现在我是小姨妈的男朋友了",
+      "onboard_time": 1715826138,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 911287,
       "num": 911287,
       "word": "马琳",
@@ -6203,6 +6211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 672867,
+      "num": 664920,
+      "word": "女子在广州正佳广场跳楼",
+      "onboard_time": 1715824218,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672805,
       "num": 334112,
       "word": "梅龙高速塌方亲历者在路塌前冲了过去",
@@ -6337,14 +6353,6 @@
       "onboard_time": 1714823239,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 664920,
-      "num": 664920,
-      "word": "女子在广州正佳广场跳楼",
-      "onboard_time": 1715824218,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 663885,
@@ -9297,14 +9305,6 @@
       "onboard_time": 1714967420,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 500072,
-      "num": 500072,
-      "word": "现在我是小姨妈的男朋友了",
-      "onboard_time": 1715826138,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 499339,
@@ -12315,6 +12315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397318,
+      "num": 397318,
+      "word": "aespa预录舞台着火",
+      "onboard_time": 1715822897,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 397210,
       "num": 397210,
       "word": "庆余年第二季开播倒计时1天",
@@ -13779,6 +13787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353348,
+      "num": 275989,
+      "word": "麻辣烫建议放一会再吃",
+      "onboard_time": 1715824097,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 353273,
       "num": 286128,
       "word": "王俊凯接触陷入我们的热恋",
@@ -13817,14 +13833,6 @@
       "onboard_time": 1715305518,
       "rank": 30,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 352517,
-      "num": 352517,
-      "word": "aespa预录舞台着火",
-      "onboard_time": 1715822897,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 352262,
@@ -15355,14 +15363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 312832,
-      "num": 275989,
-      "word": "麻辣烫建议放一会再吃",
-      "onboard_time": 1715824097,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 312733,
       "num": 312733,
       "word": "空包叫花鸡店主称临时工错拿样品",
@@ -16217,6 +16217,14 @@
       "onboard_time": 1714695017,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 292354,
+      "num": 292354,
+      "word": "斯洛伐克总理身中多枪",
+      "onboard_time": 1715826016,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 292178,
@@ -17179,6 +17187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273869,
+      "num": 222577,
+      "word": "健身房塌起房来比娱乐圈还猛",
+      "onboard_time": 1715826857,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 273568,
       "num": 273568,
       "word": "BLG对阵T1",
@@ -17233,6 +17249,14 @@
       "onboard_time": 1714814957,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272227,
+      "num": 261842,
+      "word": "迪丽热巴地下城与勇士预热",
+      "onboard_time": 1715826079,
+      "rank": 25,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 272226,
@@ -17945,14 +17969,6 @@
       "onboard_time": 1714729338,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261842,
-      "num": 261842,
-      "word": "迪丽热巴地下城与勇士预热",
-      "onboard_time": 1715826079,
-      "rank": 25,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 261655,
@@ -26659,6 +26675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184436,
+      "num": 184436,
+      "word": "阿勒泰治好了我的精神内耗",
+      "onboard_time": 1715826138,
+      "rank": 33,
+      "category": "作品衍生,旅游"
+    },
+    {
       "raw_hot": 184430,
       "num": 184430,
       "word": "过度旅游正在击穿日本旅游业",
@@ -27057,14 +27081,6 @@
       "onboard_time": 1715344098,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 181908,
-      "num": 181908,
-      "word": "斯洛伐克总理身中多枪",
-      "onboard_time": 1715826016,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 181874,
@@ -28787,6 +28803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171013,
+      "num": 171013,
+      "word": "大卫科波菲尔被指控性侵",
+      "onboard_time": 1715826618,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170998,
       "num": 156499,
       "word": "新生里怎么老有人吐",
@@ -28961,6 +28985,14 @@
       "onboard_time": 1714617438,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169727,
+      "num": 169727,
+      "word": "周笔畅心态好稳",
+      "onboard_time": 1715826437,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 169625,
@@ -29529,14 +29561,6 @@
       "onboard_time": 1714623138,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 166178,
-      "num": 166178,
-      "word": "阿勒泰治好了我的精神内耗",
-      "onboard_time": 1715826138,
-      "rank": 33,
-      "category": "作品衍生,旅游"
     },
     {
       "raw_hot": 166153,
@@ -36011,6 +36035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127404,
+      "num": 551598,
+      "word": "全班23人考研20人上岸",
+      "onboard_time": 1715824339,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 127389,
       "num": 127389,
       "word": "中式婚礼惊现西式硬菜",
@@ -36465,14 +36497,6 @@
       "onboard_time": 1715761878,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124872,
-      "num": 124872,
-      "word": "周笔畅心态好稳",
-      "onboard_time": 1715826437,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 124831,
@@ -38595,14 +38619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110114,
-      "num": 551598,
-      "word": "全班23人考研20人上岸",
-      "onboard_time": 1715824339,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 110012,
       "num": 142749,
       "word": "潘玮柏演唱会大屏上的一家三口",
@@ -39035,14 +39051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106416,
-      "num": 106416,
-      "word": "大卫科波菲尔被指控性侵",
-      "onboard_time": 1715826618,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106325,
       "num": 81358,
       "word": "佟丽娅刘涛高圆圆红衣同框",
@@ -39169,6 +39177,14 @@
       "onboard_time": 1714869616,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104799,
+      "num": 104799,
+      "word": "苹果在iPhone和iPad推出眼动追踪功能",
+      "onboard_time": 1715827218,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 104699,

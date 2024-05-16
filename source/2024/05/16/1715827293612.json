@@ -1,0 +1,410 @@
+{
+  "runTime": 1715827293612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1386381,
+        "num": 1386381,
+        "word": "韩红 最牛伸手党",
+        "onboard_time": 1715821399,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1071451,
+        "num": 1071451,
+        "word": "17岁体育生左膝长骨瘤医生错切右膝",
+        "onboard_time": 1715822417,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16615,
+        "num": 956192,
+        "word": "2024年全球贸易投资促进峰会",
+        "onboard_time": 1715780600,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913397,
+        "num": 913397,
+        "word": "现在我是小姨妈的男朋友了",
+        "onboard_time": 1715826138,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 754431,
+        "num": 754431,
+        "word": "约70%卵巢癌患者发现即晚期",
+        "onboard_time": 1715823797,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 672327,
+        "num": 672327,
+        "word": "刺杀斯洛伐克总理枪手身份曝光",
+        "onboard_time": 1715825178,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 595886,
+        "num": 595886,
+        "word": "中方对菲律宾的善意和耐心不是无止境的",
+        "onboard_time": 1715823019,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 564083,
+        "num": 564083,
+        "word": "关晓彤黑天鹅高定",
+        "onboard_time": 1715817617,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 554077,
+        "num": 554077,
+        "word": "庆余年2",
+        "onboard_time": 1715815755,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127404,
+        "num": 485010,
+        "word": "全班23人考研20人上岸",
+        "onboard_time": 1715824339,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 865492,
+        "num": 480932,
+        "word": "iPhone16ProMax机模曝光",
+        "onboard_time": 1715823738,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 474357,
+        "num": 474357,
+        "word": "曝iOS17.5恢复已删除多年照片",
+        "onboard_time": 1715820197,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 415266,
+        "num": 415266,
+        "word": "王力宏 歌手",
+        "onboard_time": 1715785819,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397318,
+        "num": 397318,
+        "word": "aespa预录舞台着火",
+        "onboard_time": 1715822897,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390877,
+        "num": 390877,
+        "word": "沈小婷续约",
+        "onboard_time": 1715823318,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294489,
+        "num": 294489,
+        "word": "何炅曾说歌手对张杰是内心的历练",
+        "onboard_time": 1715819238,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292354,
+        "num": 292354,
+        "word": "斯洛伐克总理身中多枪",
+        "onboard_time": 1715826016,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 287592,
+        "num": 287592,
+        "word": "陕西全面取消普通高中跨市招生",
+        "onboard_time": 1715819178,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262209,
+        "num": 262209,
+        "word": "俄罗斯总统普京抵达北京",
+        "onboard_time": 1715815155,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234986,
+        "num": 234986,
+        "word": "猫 车顶有学员通过",
+        "onboard_time": 1715818938,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 461169,
+        "num": 234182,
+        "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
+        "onboard_time": 1715785639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358828,
+        "num": 232109,
+        "word": "每天洗头有什么危害吗",
+        "onboard_time": 1715821879,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 353348,
+        "num": 229091,
+        "word": "麻辣烫建议放一会再吃",
+        "onboard_time": 1715824097,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 313858,
+        "num": 224674,
+        "word": "肝不好真的会让人变丑",
+        "onboard_time": 1715815275,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 273869,
+        "num": 222577,
+        "word": "健身房塌起房来比娱乐圈还猛",
+        "onboard_time": 1715826857,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 672867,
+        "num": 221059,
+        "word": "女子在广州正佳广场跳楼",
+        "onboard_time": 1715824218,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272227,
+        "num": 219241,
+        "word": "迪丽热巴地下城与勇士预热",
+        "onboard_time": 1715826079,
+        "rank": 26,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 216684,
+        "num": 216684,
+        "word": "十个勤天算不算歌手",
+        "onboard_time": 1715820619,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214936,
+        "num": 214936,
+        "word": "kep1er续约将七人组活动",
+        "onboard_time": 1715821098,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202436,
+        "num": 202436,
+        "word": "普京访华",
+        "onboard_time": 1715815755,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199556,
+        "num": 199556,
+        "word": "韩红想要郝蕾的孩子",
+        "onboard_time": 1715819238,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184436,
+        "num": 184436,
+        "word": "阿勒泰治好了我的精神内耗",
+        "onboard_time": 1715826138,
+        "rank": 31,
+        "category": "作品衍生,旅游"
+      },
+      {
+        "raw_hot": 171013,
+        "num": 171013,
+        "word": "大卫科波菲尔被指控性侵",
+        "onboard_time": 1715826618,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169727,
+        "num": 169727,
+        "word": "周笔畅心态好稳",
+        "onboard_time": 1715826437,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153976,
+        "num": 153976,
+        "word": "刘雨昕奥运会资格系列赛表演",
+        "onboard_time": 1715821277,
+        "rank": 34,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 153016,
+        "num": 153016,
+        "word": "三星调侃苹果iPadPro宣传视频翻车",
+        "onboard_time": 1715824818,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147629,
+        "num": 147629,
+        "word": "佟丽娅关晓彤唐嫣戛纳同框",
+        "onboard_time": 1715818518,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136890,
+        "num": 136890,
+        "word": "王者大司命新皮肤",
+        "onboard_time": 1715823258,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145409,
+        "num": 135532,
+        "word": "G社拍的佟丽娅关晓彤唐嫣",
+        "onboard_time": 1715821697,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132743,
+        "num": 132743,
+        "word": "新华社专访普京",
+        "onboard_time": 1715791635,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127501,
+        "num": 127501,
+        "word": "网友吐槽长沙机场一份蒸蛋32元",
+        "onboard_time": 1715818158,
+        "rank": 40,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 122682,
+        "num": 122682,
+        "word": "日本女排爆冷击败土耳其",
+        "onboard_time": 1715823557,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116552,
+        "num": 116552,
+        "word": "韩佩泉报名歌手成功",
+        "onboard_time": 1715783538,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116131,
+        "num": 116131,
+        "word": "王者荣耀",
+        "onboard_time": 1715823617,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113994,
+        "num": 113994,
+        "word": "云南将迎1亿只以上蝴蝶大爆发",
+        "onboard_time": 1715803151,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107037,
+        "num": 107037,
+        "word": "Jennie素颜vs化妆",
+        "onboard_time": 1715816176,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106649,
+        "num": 106649,
+        "word": "肿瘤医院外化疗宝宝排队领汤看哭",
+        "onboard_time": 1715818579,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106202,
+        "num": 106202,
+        "word": "美国18岁女罪犯因颜值超高爆红",
+        "onboard_time": 1715782458,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104799,
+        "num": 104799,
+        "word": "苹果在iPhone和iPad推出眼动追踪功能",
+        "onboard_time": 1715827218,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101298,
+        "num": 104642,
+        "word": "费可死了",
+        "onboard_time": 1715779337,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励北京市八达岭长城脚下的乡亲们#"
+    }
+  }
+}
