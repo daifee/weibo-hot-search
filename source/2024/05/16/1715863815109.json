@@ -1,0 +1,410 @@
+{
+  "runTime": 1715863815109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8278946,
+        "num": 8278946,
+        "word": "庆余年 剧王",
+        "onboard_time": 1715861296,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 895463,
+        "num": 895463,
+        "word": "专家称只有房价不跌老百姓才会回归购房市场",
+        "onboard_time": 1715856798,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27873,
+        "num": 792402,
+        "word": "我国火箭发动机试验台上新了",
+        "onboard_time": 1715843778,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787689,
+        "num": 787689,
+        "word": "庆余年2",
+        "onboard_time": 1715858657,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558365,
+        "num": 558365,
+        "word": "GEN对战BLG",
+        "onboard_time": 1715853318,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 431621,
+        "num": 431621,
+        "word": "普京向人民英雄纪念碑敬献花圈",
+        "onboard_time": 1715860817,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 641847,
+        "num": 428040,
+        "word": "李沁看得出是公主",
+        "onboard_time": 1715862619,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413486,
+        "num": 413486,
+        "word": "中国科协辟谣阿波罗登月造假",
+        "onboard_time": 1715859377,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334950,
+        "num": 334950,
+        "word": "4死16伤事故电梯未按规定实质性维保检验",
+        "onboard_time": 1715862137,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61607,
+        "num": 332222,
+        "word": "主人生病猫咪叼来猫粮放进粥里",
+        "onboard_time": 1715856198,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479369,
+        "num": 331381,
+        "word": "庆余年",
+        "onboard_time": 1715841858,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330067,
+        "num": 330067,
+        "word": "大乔小乔",
+        "onboard_time": 1715857457,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285406,
+        "num": 285406,
+        "word": "医生建议榴莲1天最多吃1瓣",
+        "onboard_time": 1715841018,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 640909,
+        "num": 271134,
+        "word": "言冰云",
+        "onboard_time": 1715845879,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199324,
+        "num": 199324,
+        "word": "88VIP开抢618大额消费券",
+        "onboard_time": 1715860817,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223072,
+        "num": 197084,
+        "word": "中俄元首检阅中国人民解放军仪仗队",
+        "onboard_time": 1715861536,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 443593,
+        "num": 192924,
+        "word": "庆余年 你知道我这五年怎么过的吗",
+        "onboard_time": 1715854038,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187110,
+        "num": 187110,
+        "word": "lex 复活赛",
+        "onboard_time": 1715846418,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 167529,
+        "num": 167529,
+        "word": "美国人开始流行坐月子",
+        "onboard_time": 1715849657,
+        "rank": 18,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 992344,
+        "num": 167492,
+        "word": "花少北 p聊天记录",
+        "onboard_time": 1715853258,
+        "rank": 19,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1241918,
+        "num": 167144,
+        "word": "李佳琦称今年618大促是难的",
+        "onboard_time": 1715849237,
+        "rank": 20,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 415239,
+        "num": 166493,
+        "word": "花少北道歉",
+        "onboard_time": 1715838978,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 375821,
+        "num": 166451,
+        "word": "范闲更帅了",
+        "onboard_time": 1715862378,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353171,
+        "num": 166119,
+        "word": "花少北承认煎蛋恋情",
+        "onboard_time": 1715839219,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 294321,
+        "num": 165456,
+        "word": "艾薇儿进村了",
+        "onboard_time": 1715856318,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292763,
+        "num": 165149,
+        "word": "原来张若昀春晚就在预热庆余年2",
+        "onboard_time": 1715855476,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231696,
+        "num": 164823,
+        "word": "员工带薪如厕被解雇索赔20万元",
+        "onboard_time": 1715860276,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204124,
+        "num": 164706,
+        "word": "民警高速亮证查车疑穿4400元T恤",
+        "onboard_time": 1715863219,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232605,
+        "num": 164391,
+        "word": "庆余年2剧本写了约3年",
+        "onboard_time": 1715857337,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202035,
+        "num": 164059,
+        "word": "歌手2024彩排直击",
+        "onboard_time": 1715855538,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182398,
+        "num": 163620,
+        "word": "那英想唱林俊杰的歌",
+        "onboard_time": 1715862619,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220896,
+        "num": 163030,
+        "word": "范闲死了没",
+        "onboard_time": 1715860456,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163021,
+        "num": 163021,
+        "word": "丞磊 第一次和镇宇哥搭戏",
+        "onboard_time": 1715861477,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159181,
+        "num": 159181,
+        "word": "跟父母学消费降级后生活水平反而提高了",
+        "onboard_time": 1715861416,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202001,
+        "num": 157484,
+        "word": "庆学家",
+        "onboard_time": 1715863458,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144394,
+        "num": 144394,
+        "word": "黄好厉害",
+        "onboard_time": 1715848097,
+        "rank": 35,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 141745,
+        "num": 141745,
+        "word": "12306回应车厢吃东西被嫌味道大",
+        "onboard_time": 1715851218,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200755,
+        "num": 140713,
+        "word": "王启年 霸霸",
+        "onboard_time": 1715863158,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138797,
+        "num": 138797,
+        "word": "狮子座比起被爱更需要尊重",
+        "onboard_time": 1715861536,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136833,
+        "num": 136833,
+        "word": "MSI",
+        "onboard_time": 1715853559,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191346,
+        "num": 135033,
+        "word": "范闲庆1假死镜头重拍",
+        "onboard_time": 1715858176,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132009,
+        "num": 132009,
+        "word": "张真源绿色破洞套装造型",
+        "onboard_time": 1715862979,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130513,
+        "num": 130513,
+        "word": "张杰张若昀都不舍得吼女儿",
+        "onboard_time": 1715847918,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150440,
+        "num": 129678,
+        "word": "范闲的灰",
+        "onboard_time": 1715860696,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125665,
+        "num": 125665,
+        "word": "逆水寒手游",
+        "onboard_time": 1715861896,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115608,
+        "num": 115608,
+        "word": "雪糕为何越来越贵了",
+        "onboard_time": 1715862919,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144450,
+        "num": 115431,
+        "word": "庆余年2先导plus预告",
+        "onboard_time": 1715773396,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114173,
+        "num": 114173,
+        "word": "小龙虾的虾黄是它的消化器官",
+        "onboard_time": 1715863579,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102146,
+        "num": 102146,
+        "word": "坐火车40小时没及时换卫生巾感染送医",
+        "onboard_time": 1715863758,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99696,
+        "num": 99696,
+        "word": "尊敬的普京总统我的老朋友",
+        "onboard_time": 1715850799,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京共同会见记者#"
+    }
+  }
+}

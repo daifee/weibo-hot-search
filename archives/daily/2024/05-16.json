@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715862906254,
+  "endTime": 1715863815109,
   "band_list": [
     {
       "raw_hot": 8888184,
@@ -395,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 641847,
+      "num": 428040,
+      "word": "李沁看得出是公主",
+      "onboard_time": 1715862619,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 632211,
       "num": 632211,
       "word": "于正说庆余年剧宣low",
@@ -715,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413486,
+      "num": 413486,
+      "word": "中国科协辟谣阿波罗登月造假",
+      "onboard_time": 1715859377,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413222,
       "num": 279367,
       "word": "每天洗头有什么危害吗",
@@ -779,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398938,
-      "num": 398938,
-      "word": "中国科协辟谣阿波罗登月造假",
-      "onboard_time": 1715859377,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397318,
       "num": 397318,
       "word": "aespa预录舞台着火",
@@ -817,6 +825,14 @@
       "onboard_time": 1715818579,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375821,
+      "num": 178379,
+      "word": "范闲更帅了",
+      "onboard_time": 1715862378,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 370905,
@@ -888,6 +904,14 @@
       "word": "残疾女孩街头直播遭陌生男子拍屁股",
       "onboard_time": 1715839817,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334950,
+      "num": 334950,
+      "word": "4死16伤事故电梯未按规定实质性维保检验",
+      "onboard_time": 1715862137,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1099,14 +1123,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 259528,
-      "num": 185053,
-      "word": "李沁看得出是公主",
-      "onboard_time": 1715862619,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254070,
       "num": 273214,
       "word": "李雪琴 小树不长歪长点枝丫没问题",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1715828538,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240676,
-      "num": 240676,
-      "word": "4死16伤事故电梯未按规定实质性维保检验",
-      "onboard_time": 1715862137,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239384,
@@ -1403,14 +1411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207547,
-      "num": 178379,
-      "word": "范闲更帅了",
-      "onboard_time": 1715862378,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207445,
       "num": 440101,
       "word": "起猛了余额宝翻番也轮到我了",
@@ -1483,12 +1483,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204124,
+      "num": 164706,
+      "word": "民警高速亮证查车疑穿4400元T恤",
+      "onboard_time": 1715863219,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204021,
       "num": 204021,
       "word": "敖子逸路透",
       "onboard_time": 1715846658,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202001,
+      "num": 157484,
+      "word": "庆学家",
+      "onboard_time": 1715863458,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 201920,
@@ -1513,6 +1529,22 @@
       "onboard_time": 1715839279,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200755,
+      "num": 140713,
+      "word": "王启年 霸霸",
+      "onboard_time": 1715863158,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199324,
+      "num": 352552,
+      "word": "88VIP开抢618大额消费券",
+      "onboard_time": 1715860817,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 198520,
@@ -1795,14 +1827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170727,
-      "num": 352552,
-      "word": "88VIP开抢618大额消费券",
-      "onboard_time": 1715860817,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 170128,
       "num": 170128,
       "word": "丞磊 第一次和镇宇哥搭戏",
@@ -1987,6 +2011,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 144450,
+      "num": 135118,
+      "word": "庆余年2先导plus预告",
+      "onboard_time": 1715773396,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141812,
       "num": 141812,
       "word": "鸽了八年的游戏真的要上线了",
@@ -2067,14 +2099,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 135118,
-      "num": 135118,
-      "word": "庆余年2先导plus预告",
-      "onboard_time": 1715773396,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132928,
       "num": 132928,
       "word": "王一博跳街舞",
@@ -2089,6 +2113,14 @@
       "onboard_time": 1715839639,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132009,
+      "num": 132009,
+      "word": "张真源绿色破洞套装造型",
+      "onboard_time": 1715862979,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131850,
@@ -2227,12 +2259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115608,
+      "num": 115608,
+      "word": "雪糕为何越来越贵了",
+      "onboard_time": 1715862919,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114208,
       "num": 114208,
       "word": "青环5首轮飞行阵容",
       "onboard_time": 1715830039,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114173,
+      "num": 114173,
+      "word": "小龙虾的虾黄是它的消化器官",
+      "onboard_time": 1715863579,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 114074,
@@ -2329,6 +2377,14 @@
       "onboard_time": 1715856198,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102146,
+      "num": 102146,
+      "word": "坐火车40小时没及时换卫生巾感染送医",
+      "onboard_time": 1715863758,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101499,
@@ -2754,6 +2810,9 @@
     },
     {
       "word": "#发挥中俄各自优势实现彼此成就#"
+    },
+    {
+      "word": "#习近平同普京共同会见记者#"
     }
   ]
 }
