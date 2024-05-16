@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715879873309,
+  "endTime": 1715881006310,
   "band_list": [
     {
       "raw_hot": 1742910,
@@ -227,6 +227,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 183449,
+      "num": 67924,
+      "word": "庆余年2老金头下线",
+      "onboard_time": 1715877976,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182894,
       "num": 89747,
       "word": "庆余年 你知道我这五年怎么过的吗",
@@ -281,14 +289,6 @@
       "onboard_time": 1715868560,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145932,
-      "num": 67924,
-      "word": "庆余年2老金头下线",
-      "onboard_time": 1715877976,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 144368,
@@ -403,6 +403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44024,
+      "num": 44024,
+      "word": "吴镇宇说丞磊这样子拍不了武侠",
+      "onboard_time": 1715880733,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 40695,
+      "num": 40695,
+      "word": "周杰伦福州演唱会",
+      "onboard_time": 1715856738,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 39346,
       "num": 191067,
       "word": "爷爷给奶奶买了店里最贵的雪糕",
@@ -419,11 +435,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18165,
+      "raw_hot": 20816,
       "num": 106748,
       "word": "他把家改造成山里娃的24小时书屋",
       "onboard_time": 1715878215,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19470,
+      "num": 44207,
+      "word": "博主想用叶子换饭听障摊主写下我请你",
+      "onboard_time": 1715879415,
+      "rank": 42,
       "category": "社会新闻"
     }
   ],
