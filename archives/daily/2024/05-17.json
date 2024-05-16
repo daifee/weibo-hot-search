@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715901518195,
+  "endTime": 1715902471430,
   "band_list": [
     {
       "raw_hot": 1742910,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1486938,
-      "num": 506313,
+      "num": 582711,
       "word": "周杰伦哭了",
       "onboard_time": 1715870779,
       "rank": 3,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1379929,
-      "num": 740332,
+      "num": 884697,
       "word": "王楚然演技 尴尬",
       "onboard_time": 1715869220,
       "rank": 6,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 754503,
-      "num": 163783,
+      "num": 165305,
       "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
       "onboard_time": 1715870541,
       "rank": 20,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 600301,
-      "num": 600301,
+      "raw_hot": 704859,
+      "num": 704859,
       "word": "大凉山血色彩礼30多万元涉两条人命",
       "onboard_time": 1715869341,
       "rank": 4,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 577792,
-      "num": 261352,
+      "num": 324402,
       "word": "庆余年2的观后感",
       "onboard_time": 1715874559,
       "rank": 19,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 567082,
-      "num": 188882,
+      "num": 198499,
       "word": "腾讯视频会员",
       "onboard_time": 1715864299,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 525575,
-      "num": 192467,
+      "num": 253027,
       "word": "坐火车40小时没及时换卫生巾感染送医",
       "onboard_time": 1715863758,
       "rank": 11,
@@ -81,6 +81,14 @@
       "onboard_time": 1715869940,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 479010,
+      "num": 479010,
+      "word": "高速上逼停小车的2民警被停职",
+      "onboard_time": 1715865440,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447102,
@@ -115,16 +123,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401723,
-      "num": 401723,
-      "word": "高速上逼停小车的2民警被停职",
-      "onboard_time": 1715865440,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 403476,
+      "num": 242296,
+      "word": "王启年女儿",
+      "onboard_time": 1715898972,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 396583,
-      "num": 131808,
+      "num": 169472,
       "word": "孩子张嘴睡觉被家长贴封口贴险缺氧",
       "onboard_time": 1715896032,
       "rank": 23,
@@ -155,6 +163,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334912,
+      "num": 334912,
+      "word": "妇科检查之痛要怪鸭嘴钳吗",
+      "onboard_time": 1715885831,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 308932,
+      "num": 241103,
+      "word": "成毅工作室文笔",
+      "onboard_time": 1715900895,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308416,
       "num": 130051,
       "word": "王楚然 假笑",
@@ -179,20 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273828,
-      "num": 273828,
-      "word": "妇科检查之痛要怪鸭嘴钳吗",
-      "onboard_time": 1715885831,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 269544,
-      "num": 191674,
-      "word": "王启年女儿",
-      "onboard_time": 1715898972,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 270463,
+      "num": 270463,
+      "word": "中国女排3比1美国女排",
+      "onboard_time": 1715900955,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 268835,
@@ -211,6 +227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 232035,
+      "num": 232035,
+      "word": "连云港海鲜市场",
+      "onboard_time": 1715901555,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215905,
       "num": 215905,
       "word": "医生建议榴莲1天最多吃1瓣",
@@ -219,12 +243,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213501,
+      "num": 213501,
+      "word": "中国女排巴西站两连胜",
+      "onboard_time": 1715900895,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207935,
-      "num": 191734,
+      "num": 200304,
       "word": "谁能认得出这是小鬼",
       "onboard_time": 1715881693,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199109,
+      "num": 145121,
+      "word": "庆余年2老金头下线",
+      "onboard_time": 1715877976,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 199007,
@@ -243,30 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192755,
-      "num": 192755,
-      "word": "中国女排3比1美国女排",
-      "onboard_time": 1715900955,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 191701,
-      "num": 191701,
-      "word": "中国女排巴西站两连胜",
-      "onboard_time": 1715900895,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 191640,
-      "num": 191640,
-      "word": "成毅工作室文笔",
-      "onboard_time": 1715900895,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191579,
       "num": 191579,
       "word": "无畏回应转会",
@@ -281,14 +297,6 @@
       "onboard_time": 1715853258,
       "rank": 24,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 185878,
-      "num": 125468,
-      "word": "庆余年2老金头下线",
-      "onboard_time": 1715877976,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 182894,
@@ -387,20 +395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126787,
+      "num": 126787,
+      "word": "庆余年2刷屏这些上市公司或受益",
+      "onboard_time": 1715901136,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124143,
+      "num": 124143,
+      "word": "民警高速亮证查车疑穿4400元T恤",
+      "onboard_time": 1715863219,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123380,
       "num": 120016,
       "word": "那英说文俊辉太能撒谎了",
       "onboard_time": 1715869760,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120556,
-      "num": 120556,
-      "word": "民警高速亮证查车疑穿4400元T恤",
-      "onboard_time": 1715863219,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112976,
@@ -411,11 +427,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97300,
-      "num": 97300,
+      "raw_hot": 107282,
+      "num": 107282,
       "word": "专家称只有房价不跌老百姓才会回归购房市场",
       "onboard_time": 1715856798,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104391,
+      "num": 104391,
+      "word": "162只南极磷虾才能提取1滴油",
+      "onboard_time": 1715900534,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -460,35 +484,35 @@
     },
     {
       "raw_hot": 85523,
-      "num": 78948,
+      "num": 83577,
       "word": "陆虎在机场捡了个活儿",
       "onboard_time": 1715877316,
       "rank": 43,
       "category": "综艺"
     },
     {
-      "raw_hot": 78555,
-      "num": 78555,
-      "word": "162只南极磷虾才能提取1滴油",
-      "onboard_time": 1715900534,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73434,
-      "num": 73434,
+      "raw_hot": 82938,
+      "num": 82938,
       "word": "原来河南高考统一配备考试文具",
       "onboard_time": 1715897652,
       "rank": 42,
       "category": "教育"
     },
     {
-      "raw_hot": 65934,
-      "num": 65934,
-      "word": "庆余年2刷屏这些上市公司或受益",
-      "onboard_time": 1715901136,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 81112,
+      "num": 81112,
+      "word": "中俄两国元首边走边谈",
+      "onboard_time": 1715902335,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 75443,
+      "num": 75443,
+      "word": "这6种早餐吃法伤身体",
+      "onboard_time": 1715899874,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 56499,
@@ -499,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55379,
-      "num": 55379,
-      "word": "这6种早餐吃法伤身体",
-      "onboard_time": 1715899874,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 54649,
+      "num": 263992,
+      "word": "山东大馒头有自己的莫奈花园",
+      "onboard_time": 1715900534,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 46296,
@@ -513,14 +537,6 @@
       "onboard_time": 1715858657,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44917,
-      "num": 192679,
-      "word": "山东大馒头有自己的莫奈花园",
-      "onboard_time": 1715900534,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 44024,
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 34697,
-      "num": 516956,
+      "num": 604642,
       "word": "中国有约",
       "onboard_time": 1715867300,
       "rank": 2,
