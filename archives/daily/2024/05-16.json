@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715844850876,
+  "endTime": 1715847558144,
   "band_list": [
     {
       "raw_hot": 3876491,
@@ -27,20 +27,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1564883,
+      "num": 1564883,
+      "word": "医生建议榴莲1天最多吃1瓣",
+      "onboard_time": 1715841018,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1557258,
       "num": 1557258,
       "word": "康师傅方便面即将全线涨价",
       "onboard_time": 1715830758,
       "rank": 6,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 1497273,
-      "num": 1497273,
-      "word": "医生建议榴莲1天最多吃1瓣",
-      "onboard_time": 1715841018,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1457217,
@@ -123,6 +123,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 1094032,
+      "num": 1094032,
+      "word": "言冰云",
+      "onboard_time": 1715845879,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1060563,
       "num": 1060563,
       "word": "12306回应火车票改签也要收手续费",
@@ -171,20 +179,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 860947,
+      "num": 860947,
+      "word": "歌手导演洪涛选张杰逆战的原因",
+      "onboard_time": 1715842337,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 829075,
       "num": 829075,
       "word": "约70%卵巢癌患者发现即晚期",
       "onboard_time": 1715823797,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 826381,
-      "num": 826381,
-      "word": "歌手导演洪涛选张杰逆战的原因",
-      "onboard_time": 1715842337,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 809500,
@@ -289,6 +297,14 @@
       "onboard_time": 1715828419,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 632211,
+      "num": 632211,
+      "word": "于正说庆余年剧宣low",
+      "onboard_time": 1715843418,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 627221,
@@ -411,6 +427,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 501592,
+      "num": 501592,
+      "word": "李玟无缘金曲奖特别贡献奖",
+      "onboard_time": 1715845038,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 493952,
       "num": 493952,
       "word": "李溪芮张腾与代驾发生冲突全过程",
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405449,
+      "num": 405449,
+      "word": "lex 复活赛",
+      "onboard_time": 1715846418,
+      "rank": 8,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 400623,
       "num": 400623,
       "word": "迪丽热巴刘宇宁张凌赫抱团",
@@ -579,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371955,
-      "num": 371955,
-      "word": "于正说庆余年剧宣low",
-      "onboard_time": 1715843418,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 370905,
       "num": 370905,
       "word": "霸王茶姬 睡不着",
@@ -616,6 +640,14 @@
       "word": "庆余年2的取景是5A级景区",
       "onboard_time": 1715834960,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 344559,
+      "num": 344559,
+      "word": "滕梓荆OUT",
+      "onboard_time": 1715845278,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -651,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 333026,
+      "num": 333026,
+      "word": "周也穿了套QQ秀",
+      "onboard_time": 1715846418,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 331599,
       "num": 331599,
       "word": "蔡依林演唱会嘉宾 王俊凯",
@@ -673,6 +713,14 @@
       "onboard_time": 1715791036,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 317829,
+      "num": 470633,
+      "word": "我海警依法对菲非法聚集船只现场管制",
+      "onboard_time": 1715843237,
+      "rank": 26,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 310150,
@@ -755,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267886,
-      "num": 470633,
-      "word": "我海警依法对菲非法聚集船只现场管制",
-      "onboard_time": 1715843237,
-      "rank": 26,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 267115,
       "num": 267115,
       "word": "日本前大臣感慨日本太落后",
@@ -835,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242823,
+      "num": 242823,
+      "word": "建议讨好型人格每日读十遍",
+      "onboard_time": 1715843478,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241755,
       "num": 241755,
       "word": "焦点访谈揭小升初暗自掐尖招生",
@@ -857,6 +905,14 @@
       "onboard_time": 1715828538,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235093,
+      "num": 235093,
+      "word": "TF家族出道战",
+      "onboard_time": 1715847138,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 234021,
@@ -1051,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204021,
+      "num": 204021,
+      "word": "敖子逸路透",
+      "onboard_time": 1715846658,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201575,
       "num": 201575,
       "word": "中俄元首外交",
@@ -1065,14 +1129,6 @@
       "onboard_time": 1715839279,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199125,
-      "num": 199125,
-      "word": "建议讨好型人格每日读十遍",
-      "onboard_time": 1715843478,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 198520,
@@ -1099,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195362,
+      "num": 195362,
+      "word": "陈楚生和他的麻吉兄弟",
+      "onboard_time": 1715847138,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194774,
       "num": 194774,
       "word": "外国小哥挑战吃完一整箱的草莓",
@@ -1121,6 +1185,22 @@
       "onboard_time": 1715828658,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192143,
+      "num": 192143,
+      "word": "白鹿一秒猜出自己的表情包",
+      "onboard_time": 1715847017,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191992,
+      "num": 191992,
+      "word": "明道亲了包贝尔一口",
+      "onboard_time": 1715845337,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 190637,
@@ -1275,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169479,
+      "num": 169479,
+      "word": "林俊杰回应金曲奖入围",
+      "onboard_time": 1715845638,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164785,
       "num": 164785,
       "word": "布朗尼13分",
@@ -1303,6 +1391,14 @@
       "num": 162019,
       "word": "王金金 歌手",
       "onboard_time": 1715818099,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157215,
+      "num": 157215,
+      "word": "向佐女儿跟郭碧婷说你老公找你",
+      "onboard_time": 1715845697,
       "rank": 42,
       "category": "综艺"
     },
@@ -1345,6 +1441,22 @@
       "onboard_time": 1715777417,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144640,
+      "num": 144640,
+      "word": "这穿搭真的让人眼前一亮又一亮",
+      "onboard_time": 1715841078,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 143110,
+      "num": 143110,
+      "word": "魅族21note",
+      "onboard_time": 1715847498,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 140909,
@@ -1467,6 +1579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 124790,
+      "num": 124790,
+      "word": "若菲方一意孤行中方将采取必要措施",
+      "onboard_time": 1715845337,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122830,
       "num": 149779,
       "word": "Uzi不和G2打训练赛",
@@ -1481,14 +1601,6 @@
       "onboard_time": 1715814074,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 121431,
-      "num": 121431,
-      "word": "这穿搭真的让人眼前一亮又一亮",
-      "onboard_time": 1715841078,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 118724,
@@ -1635,6 +1747,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 88090,
+      "num": 1209971,
+      "word": "发现最美铁路",
+      "onboard_time": 1715844498,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87600,
       "num": 87600,
       "word": "狗狗见到喜欢的狗狗",
@@ -1739,20 +1859,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71739,
+      "num": 392242,
+      "word": "福宝一点窝头渣都没浪费",
+      "onboard_time": 1715844619,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64291,
       "num": 356065,
       "word": "5月20号天猫618现货开卖",
       "onboard_time": 1715832259,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 61570,
-      "num": 350259,
-      "word": "福宝一点窝头渣都没浪费",
-      "onboard_time": 1715844619,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61435,
@@ -1803,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37632,
+      "num": 333992,
+      "word": "小范大人新动作",
+      "onboard_time": 1715846358,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36846,
       "num": 341802,
       "word": "王者新游拜把子",
@@ -1827,6 +1955,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 28759,
+      "num": 218606,
+      "word": "王阳自驾露营好治愈",
+      "onboard_time": 1715843778,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26244,
+      "num": 123415,
+      "word": "师父又被妖怪抓走了",
+      "onboard_time": 1715845998,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 25854,
       "num": 956192,
       "word": "2024年全球贸易投资促进峰会",
@@ -1843,28 +1987,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 21536,
-      "num": 199593,
-      "word": "王阳自驾露营好治愈",
-      "onboard_time": 1715843778,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20198,
       "num": 26274,
       "word": "夏天最喜欢的几款香水",
       "onboard_time": 1715805671,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 18708,
-      "num": 1038045,
-      "word": "发现最美铁路",
-      "onboard_time": 1715844498,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17862,
