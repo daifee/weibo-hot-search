@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715837647051,
+  "endTime": 1715840527626,
   "band_list": [
     {
       "raw_hot": 3876491,
@@ -9,6 +9,14 @@
       "onboard_time": 1715829678,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 3069284,
+      "num": 3069284,
+      "word": "花少北道歉",
+      "onboard_time": 1715838978,
+      "rank": 0,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1830305,
@@ -51,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1289692,
+      "num": 1289692,
+      "word": "韩红小号",
+      "onboard_time": 1715837539,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1252929,
       "num": 1252929,
       "word": "女子遭色诱沦陷拉丈夫同做间谍",
@@ -65,6 +81,14 @@
       "onboard_time": 1715827697,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1210222,
+      "num": 1210222,
+      "word": "花少北承认煎蛋恋情",
+      "onboard_time": 1715839219,
+      "rank": 3,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1206840,
@@ -89,6 +113,14 @@
       "onboard_time": 1715830999,
       "rank": 3,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 1060563,
+      "num": 1060563,
+      "word": "12306回应火车票改签也要收手续费",
+      "onboard_time": 1715835740,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 958293,
@@ -169,14 +201,6 @@
       "onboard_time": 1715834599,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 730172,
-      "num": 730172,
-      "word": "12306回应火车票改签也要收手续费",
-      "onboard_time": 1715835740,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 705982,
@@ -299,6 +323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 523114,
+      "num": 523114,
+      "word": "五旬男子吊脖锻炼意外身亡",
+      "onboard_time": 1715835019,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515744,
       "num": 258220,
       "word": "费可死了",
@@ -347,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493903,
+      "num": 493903,
+      "word": "林更新别更新关晓彤关了吧",
+      "onboard_time": 1715839519,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492511,
       "num": 403210,
       "word": "健身房塌起房来比娱乐圈还猛",
@@ -361,14 +401,6 @@
       "onboard_time": 1715819238,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 473656,
-      "num": 340785,
-      "word": "五旬男子吊脖锻炼意外身亡",
-      "onboard_time": 1715835019,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463764,
@@ -393,6 +425,14 @@
       "onboard_time": 1715815755,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 445816,
+      "num": 314323,
+      "word": "法院拍卖被执行人270只避孕套",
+      "onboard_time": 1715837478,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442261,
@@ -443,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400623,
+      "num": 400623,
+      "word": "迪丽热巴刘宇宁张凌赫抱团",
+      "onboard_time": 1715838438,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400283,
       "num": 251416,
       "word": "原来张杰也会泰勒公式",
@@ -473,6 +521,14 @@
       "onboard_time": 1715818579,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371526,
+      "num": 371526,
+      "word": "金曲奖直播",
+      "onboard_time": 1715839457,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 370905,
@@ -507,12 +563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344575,
+      "num": 344575,
+      "word": "福宝",
+      "onboard_time": 1715839457,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341503,
       "num": 341503,
       "word": "金曲奖",
       "onboard_time": 1715834060,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 336495,
+      "num": 336495,
+      "word": "福宝逐步适应群体生活",
+      "onboard_time": 1715837958,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333778,
@@ -755,6 +827,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 218180,
+      "num": 218180,
+      "word": "蔡依林演唱会嘉宾 王俊凯",
+      "onboard_time": 1715840057,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 217923,
       "num": 217923,
       "word": "姚明回应为什么很难再出姚明",
@@ -819,12 +899,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 207150,
+      "num": 207150,
+      "word": "残疾女孩街头直播遭陌生男子拍屁股",
+      "onboard_time": 1715839817,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207112,
       "num": 207112,
       "word": "咒术回战",
       "onboard_time": 1715833699,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 206775,
+      "num": 206775,
+      "word": "庆帝让范闲滚",
+      "onboard_time": 1715838798,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 206353,
@@ -859,6 +955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200811,
+      "num": 200811,
+      "word": "王源长沙",
+      "onboard_time": 1715839279,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198186,
       "num": 198186,
       "word": "电影传说定档",
@@ -867,12 +971,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195055,
-      "num": 195055,
-      "word": "韩红小号",
-      "onboard_time": 1715837539,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 196329,
+      "num": 196329,
+      "word": "周扬青好甜",
+      "onboard_time": 1715837898,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 194774,
@@ -921,6 +1025,14 @@
       "onboard_time": 1715837238,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187287,
+      "num": 187287,
+      "word": "郑兴0提",
+      "onboard_time": 1715839398,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 185818,
@@ -1027,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169210,
+      "num": 169210,
+      "word": "裘德入围",
+      "onboard_time": 1715840298,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164785,
       "num": 164785,
       "word": "布朗尼13分",
@@ -1059,6 +1179,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157214,
+      "num": 157214,
+      "word": "蔡依林金曲奖入围",
+      "onboard_time": 1715838258,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 155975,
+      "num": 155975,
+      "word": "误打误撞进了想干到退休的公司",
+      "onboard_time": 1715840419,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 150224,
+      "num": 150224,
+      "word": "泽连斯基签署退出独联体国家法令",
+      "onboard_time": 1715840238,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 150154,
       "num": 148345,
       "word": "鹿晗长沙",
@@ -1075,20 +1219,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 148420,
-      "num": 148420,
-      "word": "法院拍卖被执行人270只避孕套",
-      "onboard_time": 1715837478,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148239,
       "num": 148239,
       "word": "庆余年第二季开播倒计时1天",
       "onboard_time": 1715777417,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139862,
+      "num": 139862,
+      "word": "火车票改签也要收手续费",
+      "onboard_time": 1715838919,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138762,
@@ -1121,6 +1265,14 @@
       "onboard_time": 1715780659,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132182,
+      "num": 132182,
+      "word": "康师傅多平台客服回应方便面将涨价",
+      "onboard_time": 1715839639,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131850,
@@ -1385,6 +1537,14 @@
       "onboard_time": 1715779218,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77794,
+      "num": 284536,
+      "word": "请不要给我建议",
+      "onboard_time": 1715839398,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 77513,
