@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715881006310,
+  "endTime": 1715883740283,
   "band_list": [
     {
       "raw_hot": 1742910,
@@ -403,8 +403,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80856,
+      "num": 57560,
+      "word": "谁能认得出这是小鬼",
+      "onboard_time": 1715881693,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46296,
+      "num": 46296,
+      "word": "庆余年2",
+      "onboard_time": 1715858657,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44024,
-      "num": 44024,
+      "num": 56772,
       "word": "吴镇宇说丞磊这样子拍不了武侠",
       "onboard_time": 1715880733,
       "rank": 45,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 40695,
-      "num": 40695,
+      "num": 45066,
       "word": "周杰伦福州演唱会",
       "onboard_time": 1715856738,
       "rank": 47,
@@ -435,6 +451,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32428,
+      "num": 50659,
+      "word": "电影传说",
+      "onboard_time": 1715883132,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 32041,
+      "num": 47441,
+      "word": "武艺 综艺感的神",
+      "onboard_time": 1715881393,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31376,
+      "num": 56958,
+      "word": "富士新品",
+      "onboard_time": 1715880552,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 20816,
       "num": 106748,
       "word": "他把家改造成山里娃的24小时书屋",
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 19470,
-      "num": 44207,
+      "num": 63131,
       "word": "博主想用叶子换饭听障摊主写下我请你",
       "onboard_time": 1715879415,
       "rank": 42,
