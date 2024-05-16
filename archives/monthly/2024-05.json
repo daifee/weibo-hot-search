@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715840527626,
+  "endTime": 1715841260738,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -155,20 +155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3125548,
+      "num": 3125548,
+      "word": "花少北道歉",
+      "onboard_time": 1715838978,
+      "rank": 0,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 3073690,
       "num": 3073690,
       "word": "一顿火锅撤档",
       "onboard_time": 1714882879,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3069284,
-      "num": 3069284,
-      "word": "花少北道歉",
-      "onboard_time": 1715838978,
-      "rank": 0,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 3042749,
@@ -6035,6 +6035,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 689843,
+      "num": 689843,
+      "word": "林更新别更新关晓彤关了吧",
+      "onboard_time": 1715839519,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688987,
       "num": 676041,
       "word": "黄霄云接洽歌手",
@@ -9595,14 +9603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 493903,
-      "num": 493903,
-      "word": "林更新别更新关晓彤关了吧",
-      "onboard_time": 1715839519,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 493509,
       "num": 493509,
       "word": "灵隐寺的七叶古树开花了",
@@ -10387,6 +10387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 462755,
+      "num": 314323,
+      "word": "法院拍卖被执行人270只避孕套",
+      "onboard_time": 1715837478,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462389,
       "num": 245642,
       "word": "徐艺洋管狗狗叫黄子韬",
@@ -10867,14 +10875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 445816,
-      "num": 314323,
-      "word": "法院拍卖被执行人270只避孕套",
-      "onboard_time": 1715837478,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445750,
       "num": 324070,
       "word": "阿娇 突然就汪了出来",
@@ -11161,6 +11161,14 @@
       "onboard_time": 1715320580,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 434792,
+      "num": 434792,
+      "word": "金曲奖直播",
+      "onboard_time": 1715839457,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 434755,
@@ -13377,14 +13385,6 @@
       "onboard_time": 1715344521,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 371526,
-      "num": 371526,
-      "word": "金曲奖直播",
-      "onboard_time": 1715839457,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 371477,
@@ -15705,6 +15705,14 @@
       "onboard_time": 1715780418,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 310377,
+      "num": 310377,
+      "word": "蔡依林演唱会嘉宾 王俊凯",
+      "onboard_time": 1715840057,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 310350,
@@ -18363,6 +18371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259863,
+      "num": 259863,
+      "word": "残疾女孩街头直播遭陌生男子拍屁股",
+      "onboard_time": 1715839817,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259851,
       "num": 259851,
       "word": "李秀满朴振英对待艺人的方式",
@@ -20339,6 +20355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 232510,
+      "num": 232510,
+      "word": "误打误撞进了想干到退休的公司",
+      "onboard_time": 1715840419,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232419,
       "num": 232419,
       "word": "尼克斯淘汰76人",
@@ -21459,6 +21483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219171,
+      "num": 219171,
+      "word": "北大教授称未来几年房价或会明显上涨",
+      "onboard_time": 1715840538,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219147,
       "num": 219147,
       "word": "秦岚45岁身材管理",
@@ -21601,14 +21633,6 @@
       "onboard_time": 1714878917,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 218180,
-      "num": 218180,
-      "word": "蔡依林演唱会嘉宾 王俊凯",
-      "onboard_time": 1715840057,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 218138,
@@ -22849,14 +22873,6 @@
       "onboard_time": 1715783600,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207150,
-      "num": 207150,
-      "word": "残疾女孩街头直播遭陌生男子拍屁股",
-      "onboard_time": 1715839817,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207126,
@@ -26491,6 +26507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188372,
+      "num": 188372,
+      "word": "泽连斯基签署退出独联体国家法令",
+      "onboard_time": 1715840238,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 188314,
       "num": 188314,
       "word": "孙颖莎说和大头的配合越来越默契",
@@ -28009,6 +28033,14 @@
       "onboard_time": 1714625718,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178232,
+      "num": 178232,
+      "word": "裘德入围",
+      "onboard_time": 1715840298,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 178170,
@@ -29571,14 +29603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169210,
-      "num": 169210,
-      "word": "裘德入围",
-      "onboard_time": 1715840298,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 169131,
       "num": 169131,
       "word": "严浩翔向大爷求助小灵通怎么用",
@@ -31083,6 +31107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160797,
+      "num": 160797,
+      "word": "医生建议榴莲1天最多吃1瓣",
+      "onboard_time": 1715841018,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 160758,
       "num": 160758,
       "word": "KSG out",
@@ -31817,14 +31849,6 @@
       "onboard_time": 1714654999,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155975,
-      "num": 155975,
-      "word": "误打误撞进了想干到退休的公司",
-      "onboard_time": 1715840419,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 155957,
@@ -32793,14 +32817,6 @@
       "onboard_time": 1714717518,
       "rank": 37,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 150224,
-      "num": 150224,
-      "word": "泽连斯基签署退出独联体国家法令",
-      "onboard_time": 1715840238,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 150192,
@@ -34385,6 +34401,14 @@
       "onboard_time": 1714722320,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140909,
+      "num": 140909,
+      "word": "初夏的阿勒泰美成了壁纸",
+      "onboard_time": 1715840597,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 140906,
@@ -37593,6 +37617,14 @@
       "onboard_time": 1715398279,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121431,
+      "num": 121431,
+      "word": "这穿搭真的让人眼前一亮又一亮",
+      "onboard_time": 1715841078,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 121388,
@@ -40931,6 +40963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87504,
+      "num": 284536,
+      "word": "请不要给我建议",
+      "onboard_time": 1715839398,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87360,
       "num": 107267,
       "word": "贵州姑妈篮球赛太有意思了",
@@ -41321,14 +41361,6 @@
       "onboard_time": 1715345958,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77794,
-      "num": 284536,
-      "word": "请不要给我建议",
-      "onboard_time": 1715839398,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 77728,
