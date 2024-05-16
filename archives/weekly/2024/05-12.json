@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715872756051,
+  "endTime": 1715873703736,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2595629,
-      "num": 390777,
+      "num": 408043,
       "word": "周杰伦哭了",
       "onboard_time": 1715870779,
       "rank": 3,
@@ -251,20 +251,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1906610,
+      "num": 361401,
+      "word": "王楚然演技 尴尬",
+      "onboard_time": 1715869220,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1878034,
       "num": 1878034,
       "word": "母亲节",
       "onboard_time": 1715444300,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1835758,
-      "num": 308520,
-      "word": "王楚然演技 尴尬",
-      "onboard_time": 1715869220,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 1830305,
@@ -1635,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 832562,
+      "num": 318903,
+      "word": "范思辙胖了",
+      "onboard_time": 1715869940,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 829075,
       "num": 829075,
       "word": "约70%卵巢癌患者发现即晚期",
@@ -2025,14 +2033,6 @@
       "onboard_time": 1715514442,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 726305,
-      "num": 227746,
-      "word": "范思辙胖了",
-      "onboard_time": 1715869940,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 720692,
@@ -3803,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447185,
+      "num": 184941,
+      "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
+      "onboard_time": 1715870541,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 446317,
       "num": 446317,
       "word": "普京访华",
@@ -4515,6 +4523,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 387115,
+      "num": 387115,
+      "word": "无畏回应转会",
+      "onboard_time": 1715872159,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 385581,
       "num": 385581,
       "word": "乐道汽车",
@@ -4721,6 +4737,14 @@
       "onboard_time": 1715574081,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369385,
+      "num": 369385,
+      "word": "菲律宾船只受中方震慑已驶离",
+      "onboard_time": 1715872400,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 368613,
@@ -5563,14 +5587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302270,
-      "num": 184941,
-      "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
-      "onboard_time": 1715870541,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 301198,
       "num": 238726,
       "word": "庆余年2剧本写了约3年",
@@ -5769,6 +5785,14 @@
       "onboard_time": 1715565198,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287565,
+      "num": 287565,
+      "word": "美国家庭财务状况正持续恶化",
+      "onboard_time": 1715871380,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 287287,
@@ -7123,6 +7147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 230188,
+      "num": 172689,
+      "word": "被腾讯装到了",
+      "onboard_time": 1715869100,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230128,
       "num": 230128,
       "word": "于适留在阿勒泰的遗憾",
@@ -7201,14 +7233,6 @@
       "onboard_time": 1715753298,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 227284,
-      "num": 227284,
-      "word": "无畏回应转会",
-      "onboard_time": 1715872159,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 227283,
@@ -7299,14 +7323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223523,
-      "num": 223523,
-      "word": "美国家庭财务状况正持续恶化",
-      "onboard_time": 1715871380,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 223505,
       "num": 223505,
       "word": "董明珠体验汉服",
@@ -7337,14 +7353,6 @@
       "onboard_time": 1715612240,
       "rank": 17,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 222895,
-      "num": 170964,
-      "word": "被腾讯装到了",
-      "onboard_time": 1715869100,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 222703,
@@ -9171,6 +9179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189191,
+      "num": 183093,
+      "word": "女子100多元买到报仇榴莲",
+      "onboard_time": 1715870360,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189054,
       "num": 189054,
       "word": "向佐演变态",
@@ -9201,6 +9217,14 @@
       "onboard_time": 1715737698,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188707,
+      "num": 123587,
+      "word": "抿嘴",
+      "onboard_time": 1715873120,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 188297,
@@ -9411,14 +9435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183093,
-      "num": 183093,
-      "word": "女子100多元买到报仇榴莲",
-      "onboard_time": 1715870360,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183063,
       "num": 183063,
       "word": "梦之队投票预热",
@@ -9441,14 +9457,6 @@
       "onboard_time": 1715513423,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182693,
-      "num": 182693,
-      "word": "菲律宾船只受中方震慑已驶离",
-      "onboard_time": 1715872400,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 182435,
@@ -9881,6 +9889,14 @@
       "onboard_time": 1715740877,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173419,
+      "num": 173419,
+      "word": "相似度高的人更容易成为伴侣",
+      "onboard_time": 1715871979,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 173214,
@@ -11017,14 +11033,6 @@
       "onboard_time": 1715682738,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151111,
-      "num": 151111,
-      "word": "相似度高的人更容易成为伴侣",
-      "onboard_time": 1715871979,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 151097,
@@ -12987,6 +12995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 108931,
+      "num": 116648,
+      "word": "朋友的感情是流动的",
+      "onboard_time": 1715871681,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108903,
       "num": 108903,
       "word": "去云南炫蘑菇牢记4个不吃",
@@ -13148,7 +13164,7 @@
     },
     {
       "raw_hot": 105538,
-      "num": 230235,
+      "num": 324228,
       "word": "爷爷给奶奶买了店里最贵的雪糕",
       "onboard_time": 1715869100,
       "rank": 9,
@@ -13449,6 +13465,14 @@
       "onboard_time": 1715769378,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91499,
+      "num": 173806,
+      "word": "如何自制驱蚊虫神器",
+      "onboard_time": 1715872940,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 91304,
@@ -13996,7 +14020,7 @@
     },
     {
       "raw_hot": 55176,
-      "num": 391373,
+      "num": 424073,
       "word": "中国有约",
       "onboard_time": 1715867300,
       "rank": 2,
