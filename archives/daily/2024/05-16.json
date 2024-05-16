@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715836670992,
+  "endTime": 1715837647051,
   "band_list": [
     {
       "raw_hot": 3876491,
@@ -99,6 +99,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 945585,
+      "num": 945585,
+      "word": "中岛美嘉 歌手",
+      "onboard_time": 1715831838,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 918922,
       "num": 338965,
       "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
@@ -113,14 +121,6 @@
       "onboard_time": 1715815155,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 900072,
-      "num": 900072,
-      "word": "中岛美嘉 歌手",
-      "onboard_time": 1715831838,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 895661,
@@ -139,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 789632,
+      "num": 746387,
+      "word": "华为发布会被指造假",
+      "onboard_time": 1715833400,
+      "rank": 28,
+      "category": "数码,科学科普"
+    },
+    {
       "raw_hot": 763134,
       "num": 763134,
       "word": "单身女性迎来买房热潮",
@@ -155,12 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 706639,
-      "num": 706639,
-      "word": "华为发布会被指造假",
-      "onboard_time": 1715833400,
-      "rank": 28,
-      "category": "数码,科学科普"
+      "raw_hot": 740694,
+      "num": 728991,
+      "word": "我叫范闲 我重生了",
+      "onboard_time": 1715834599,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 730172,
+      "num": 730172,
+      "word": "12306回应火车票改签也要收手续费",
+      "onboard_time": 1715835740,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 705982,
@@ -227,12 +243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 635231,
-      "num": 635231,
-      "word": "我叫范闲 我重生了",
-      "onboard_time": 1715834599,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 627221,
+      "num": 627221,
+      "word": "康辉近距离感受欢迎普京仪式现场",
+      "onboard_time": 1715836818,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 608515,
@@ -347,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473656,
+      "num": 340785,
+      "word": "五旬男子吊脖锻炼意外身亡",
+      "onboard_time": 1715835019,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463764,
       "num": 257091,
       "word": "歌手2024揭榜歌手歌单",
@@ -419,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407352,
-      "num": 407352,
-      "word": "12306回应火车票改签也要收手续费",
-      "onboard_time": 1715835740,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400283,
       "num": 251416,
       "word": "原来张杰也会泰勒公式",
@@ -459,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368208,
-      "num": 325275,
-      "word": "五旬男子吊脖锻炼意外身亡",
-      "onboard_time": 1715835019,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 370905,
+      "num": 370905,
+      "word": "霸王茶姬 睡不着",
+      "onboard_time": 1715832438,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 365347,
@@ -481,6 +497,22 @@
       "onboard_time": 1715782458,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346353,
+      "num": 346353,
+      "word": "庆余年2的取景是5A级景区",
+      "onboard_time": 1715834960,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 341503,
+      "num": 341503,
+      "word": "金曲奖",
+      "onboard_time": 1715834060,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 333778,
@@ -505,14 +537,6 @@
       "onboard_time": 1715815637,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 309262,
-      "num": 309262,
-      "word": "庆余年2的取景是5A级景区",
-      "onboard_time": 1715834960,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 303268,
@@ -547,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285555,
-      "num": 285555,
-      "word": "金曲奖",
-      "onboard_time": 1715834060,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 285075,
       "num": 285075,
       "word": "唐嫣戛纳官方镜头特写",
@@ -569,14 +585,6 @@
       "onboard_time": 1715828777,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 276389,
-      "num": 276389,
-      "word": "霸王茶姬 睡不着",
-      "onboard_time": 1715832438,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 272227,
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230128,
+      "num": 230128,
+      "word": "于适留在阿勒泰的遗憾",
+      "onboard_time": 1715836520,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225964,
       "num": 225964,
       "word": "广州一批发市场起火疑有人失联",
@@ -729,14 +745,6 @@
       "onboard_time": 1715816176,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 218994,
-      "num": 218994,
-      "word": "于适留在阿勒泰的遗憾",
-      "onboard_time": 1715836520,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 218738,
@@ -859,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195055,
+      "num": 195055,
+      "word": "韩红小号",
+      "onboard_time": 1715837539,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194774,
       "num": 194774,
       "word": "外国小哥挑战吃完一整箱的草莓",
@@ -899,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188297,
+      "num": 188297,
+      "word": "成龙张艺兴再合作",
+      "onboard_time": 1715837238,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185818,
       "num": 185818,
       "word": "江西丰城一船舶4人窒息死亡",
@@ -913,6 +937,14 @@
       "onboard_time": 1715826138,
       "rank": 33,
       "category": "作品衍生,旅游"
+    },
+    {
+      "raw_hot": 183565,
+      "num": 183565,
+      "word": "关晓彤造型师向收藏家借礼服",
+      "onboard_time": 1715837298,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179857,
@@ -1012,7 +1044,7 @@
     },
     {
       "raw_hot": 162292,
-      "num": 622118,
+      "num": 703560,
       "word": "霸王茶姬现代东方茶",
       "onboard_time": 1715833882,
       "rank": 44,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1715835859,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148420,
+      "num": 148420,
+      "word": "法院拍卖被执行人270只避孕套",
+      "onboard_time": 1715837478,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148239,
@@ -1212,7 +1252,7 @@
     },
     {
       "raw_hot": 107750,
-      "num": 625086,
+      "num": 708370,
       "word": "东北大姨就差把房产证也掏给你了",
       "onboard_time": 1715833461,
       "rank": 9,
@@ -1435,6 +1475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 36846,
+      "num": 341802,
+      "word": "王者新游拜把子",
+      "onboard_time": 1715835258,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 32588,
       "num": 41714,
       "word": "一起看2024巴黎奥运会",
@@ -1449,14 +1497,6 @@
       "onboard_time": 1715784799,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 28566,
-      "num": 326201,
-      "word": "王者新游拜把子",
-      "onboard_time": 1715835258,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 25854,

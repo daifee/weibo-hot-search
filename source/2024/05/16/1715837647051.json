@@ -1,0 +1,410 @@
+{
+  "runTime": 1715837647051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1516581,
+        "num": 1516581,
+        "word": "康师傅方便面即将全线涨价",
+        "onboard_time": 1715830758,
+        "rank": 0,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 945585,
+        "num": 945585,
+        "word": "中岛美嘉 歌手",
+        "onboard_time": 1715831838,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3873,
+        "num": 802829,
+        "word": "阔步迈向网络强国",
+        "onboard_time": 1715741237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755012,
+        "num": 755012,
+        "word": "郝蕾二宝",
+        "onboard_time": 1715830999,
+        "rank": 3,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 789632,
+        "num": 746387,
+        "word": "华为发布会被指造假",
+        "onboard_time": 1715833400,
+        "rank": 4,
+        "category": "数码,科学科普"
+      },
+      {
+        "raw_hot": 730172,
+        "num": 730172,
+        "word": "12306回应火车票改签也要收手续费",
+        "onboard_time": 1715835740,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740694,
+        "num": 728991,
+        "word": "我叫范闲 我重生了",
+        "onboard_time": 1715834599,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 727355,
+        "num": 727355,
+        "word": "女子遭色诱沦陷拉丈夫同做间谍",
+        "onboard_time": 1715827397,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715527,
+        "num": 715527,
+        "word": "菲律宾冲闯黄岩岛闹剧开场",
+        "onboard_time": 1715832619,
+        "rank": 8,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 99729,
+        "num": 708370,
+        "word": "东北大姨就差把房产证也掏给你了",
+        "onboard_time": 1715833461,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92456,
+        "num": 703560,
+        "word": "霸王茶姬现代东方茶",
+        "onboard_time": 1715833882,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 703149,
+        "num": 703149,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1715829678,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 627221,
+        "num": 627221,
+        "word": "康辉近距离感受欢迎普京仪式现场",
+        "onboard_time": 1715836818,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 517219,
+        "num": 517219,
+        "word": "金玟庭吸入浓烟中止录制",
+        "onboard_time": 1715827697,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515916,
+        "num": 515916,
+        "word": "广州十三行",
+        "onboard_time": 1715832559,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466138,
+        "num": 466138,
+        "word": "咒术回战 五条悟疑似复活",
+        "onboard_time": 1715833160,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 370905,
+        "num": 370905,
+        "word": "霸王茶姬 睡不着",
+        "onboard_time": 1715832438,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 346353,
+        "num": 346353,
+        "word": "庆余年2的取景是5A级景区",
+        "onboard_time": 1715834960,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36846,
+        "num": 341802,
+        "word": "王者新游拜把子",
+        "onboard_time": 1715835258,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 341503,
+        "num": 341503,
+        "word": "金曲奖",
+        "onboard_time": 1715834060,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 793747,
+        "num": 341111,
+        "word": "现在我是小姨妈的男朋友了",
+        "onboard_time": 1715826138,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473656,
+        "num": 340785,
+        "word": "五旬男子吊脖锻炼意外身亡",
+        "onboard_time": 1715835019,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339925,
+        "num": 339925,
+        "word": "单身女性迎来买房热潮",
+        "onboard_time": 1715828057,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332985,
+        "num": 332985,
+        "word": "韩红 最牛伸手党",
+        "onboard_time": 1715821399,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303316,
+        "num": 303316,
+        "word": "17岁体育生左膝长骨瘤医生错切右膝",
+        "onboard_time": 1715822417,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291500,
+        "num": 291500,
+        "word": "关晓彤黑天鹅高定",
+        "onboard_time": 1715817617,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255815,
+        "num": 255815,
+        "word": "Jennie以粉丝名义捐赠1亿韩元",
+        "onboard_time": 1715831181,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254879,
+        "num": 254879,
+        "word": "普京访华",
+        "onboard_time": 1715815755,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245964,
+        "num": 245964,
+        "word": "泰国旅游局送中国游客一车米其林",
+        "onboard_time": 1715835500,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230128,
+        "num": 230128,
+        "word": "于适留在阿勒泰的遗憾",
+        "onboard_time": 1715836520,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219779,
+        "num": 219779,
+        "word": "戛纳 玉皇大帝",
+        "onboard_time": 1715828419,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217548,
+        "num": 217548,
+        "word": "iPhone16ProMax机模曝光",
+        "onboard_time": 1715823738,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215571,
+        "num": 215571,
+        "word": "于正当年差点拍庆余年",
+        "onboard_time": 1715827579,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207530,
+        "num": 207530,
+        "word": "张天爱行李箱丢了",
+        "onboard_time": 1715835920,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205235,
+        "num": 205235,
+        "word": "檀健次直播状态",
+        "onboard_time": 1715834060,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195055,
+        "num": 195055,
+        "word": "韩红小号",
+        "onboard_time": 1715837539,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188297,
+        "num": 188297,
+        "word": "成龙张艺兴再合作",
+        "onboard_time": 1715837238,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183565,
+        "num": 183565,
+        "word": "关晓彤造型师向收藏家借礼服",
+        "onboard_time": 1715837298,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80306,
+        "num": 182476,
+        "word": "给你的外卖做个营养体检",
+        "onboard_time": 1715832259,
+        "rank": 38,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 182430,
+        "num": 182430,
+        "word": "健身房塌起房来比娱乐圈还猛",
+        "onboard_time": 1715826857,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 172189,
+        "num": 172189,
+        "word": "约70%卵巢癌患者发现即晚期",
+        "onboard_time": 1715823797,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167706,
+        "num": 167706,
+        "word": "直击广州十三行火灾救援现场",
+        "onboard_time": 1715833820,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162522,
+        "num": 162522,
+        "word": "五条悟 复活赛",
+        "onboard_time": 1715836039,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 162440,
+        "num": 162440,
+        "word": "庆余年是张若昀主动争取来的",
+        "onboard_time": 1715831597,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159929,
+        "num": 159929,
+        "word": "麻辣烫建议放一会再吃",
+        "onboard_time": 1715824097,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152092,
+        "num": 152092,
+        "word": "王力宏 歌手",
+        "onboard_time": 1715785819,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148420,
+        "num": 148420,
+        "word": "法院拍卖被执行人270只避孕套",
+        "onboard_time": 1715837478,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147587,
+        "num": 147587,
+        "word": "起猛了余额宝翻番也轮到我了",
+        "onboard_time": 1715832020,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145659,
+        "num": 145659,
+        "word": "TheShy问Ning要加班费",
+        "onboard_time": 1715835859,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139936,
+        "num": 139936,
+        "word": "唐嫣戛纳官方镜头特写",
+        "onboard_time": 1715827458,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励北京市八达岭长城脚下的乡亲们#"
+    }
+  }
+}
