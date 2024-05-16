@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1715863815109,
+  "endTime": 1715865672840,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -339,6 +339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 9003287,
+      "num": 9003287,
+      "word": "庆余年 剧王",
+      "onboard_time": 1715861296,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 8995172,
       "num": 8995172,
       "word": "日本地震",
@@ -361,14 +369,6 @@
       "onboard_time": 1707482890,
       "rank": 3,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 8888184,
-      "num": 8888184,
-      "word": "庆余年 剧王",
-      "onboard_time": 1715861296,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 8795205,

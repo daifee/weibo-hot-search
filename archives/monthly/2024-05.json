@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715863815109,
+  "endTime": 1715865672840,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 8888184,
-      "num": 8888184,
+      "raw_hot": 9003287,
+      "num": 9003287,
       "word": "庆余年 剧王",
       "onboard_time": 1715861296,
       "rank": 0,
@@ -2995,6 +2995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1085585,
+      "num": 488531,
+      "word": "腾讯视频会员",
+      "onboard_time": 1715864299,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1084408,
       "num": 914742,
       "word": "高铁三大酷刑",
@@ -3587,6 +3595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 952423,
+      "num": 428040,
+      "word": "李沁看得出是公主",
+      "onboard_time": 1715862619,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 952203,
       "num": 952203,
       "word": "丈夫伪造100万存单被妻子拿去银行",
@@ -3649,6 +3665,14 @@
       "onboard_time": 1715651477,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 939978,
+      "num": 360937,
+      "word": "黄子韬只承认鹿晗比自己帅",
+      "onboard_time": 1715864419,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 937835,
@@ -3777,6 +3801,14 @@
       "onboard_time": 1715171660,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 919506,
+      "num": 283013,
+      "word": "杨幂包场庆余年",
+      "onboard_time": 1715864479,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 918922,
@@ -6987,14 +7019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 641847,
-      "num": 428040,
-      "word": "李沁看得出是公主",
-      "onboard_time": 1715862619,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 640917,
       "num": 640917,
       "word": "艾伦陈乔恩获金扫帚影帝后",
@@ -7979,6 +8003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 581192,
+      "num": 262966,
+      "word": "庆余年 袁泉",
+      "onboard_time": 1715863819,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 581137,
       "num": 581137,
       "word": "官方回应电费从3毛涨到6毛8",
@@ -8344,6 +8376,14 @@
       "word": "江西女子因琐事刺死男友被刑拘",
       "onboard_time": 1715485757,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558299,
+      "num": 281791,
+      "word": "坐火车40小时没及时换卫生巾感染送医",
+      "onboard_time": 1715863758,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -11003,6 +11043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 448426,
+      "num": 448426,
+      "word": "BLG不敌GEN1比3落败",
+      "onboard_time": 1715863878,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 448119,
       "num": 448119,
       "word": "外交部回应5艘渔船从菲驶向黄岩岛周围海域",
@@ -12187,6 +12235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 413139,
+      "num": 199231,
+      "word": "王启年 林小娘",
+      "onboard_time": 1715863998,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 413098,
       "num": 413098,
       "word": "感觉秦岚要碎掉了",
@@ -13235,6 +13291,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 384467,
+      "num": 189136,
+      "word": "范闲更帅了",
+      "onboard_time": 1715862378,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384118,
       "num": 384118,
       "word": "王源直播",
@@ -13481,14 +13545,6 @@
       "onboard_time": 1715136559,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375821,
-      "num": 178379,
-      "word": "范闲更帅了",
-      "onboard_time": 1715862378,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 375736,
@@ -16283,6 +16339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304363,
+      "num": 182046,
+      "word": "范闲一死叔圈大乱",
+      "onboard_time": 1715864899,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304321,
       "num": 304321,
       "word": "MetGala红毯",
@@ -16425,6 +16489,14 @@
       "onboard_time": 1715073379,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 301198,
+      "num": 238726,
+      "word": "庆余年2剧本写了约3年",
+      "onboard_time": 1715857337,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 301029,
@@ -17291,6 +17363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282758,
+      "num": 179180,
+      "word": "你脸上的痘痘可能是吃出来的",
+      "onboard_time": 1715865319,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 282647,
       "num": 282647,
       "word": "周深成都站售罄",
@@ -17675,6 +17755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276855,
+      "num": 188199,
+      "word": "杨幂将出席酱园弄戛纳首映",
+      "onboard_time": 1715864299,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276676,
       "num": 210200,
       "word": "卖不动的钻戒开始背叛爱情了",
@@ -17689,6 +17777,14 @@
       "onboard_time": 1715567659,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 276090,
+      "num": 276090,
+      "word": "BLG跌入败者组",
+      "onboard_time": 1715863878,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 275827,
@@ -17721,6 +17817,14 @@
       "onboard_time": 1714654819,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275595,
+      "num": 183645,
+      "word": "那英唱了rap",
+      "onboard_time": 1715864720,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 275195,
@@ -18419,14 +18523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 264786,
-      "num": 238726,
-      "word": "庆余年2剧本写了约3年",
-      "onboard_time": 1715857337,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264774,
       "num": 264774,
       "word": "GEN战胜TES",
@@ -18449,6 +18545,14 @@
       "onboard_time": 1715004982,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264399,
+      "num": 178671,
+      "word": "民警高速亮证查车疑穿4400元T恤",
+      "onboard_time": 1715863219,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263947,
@@ -19219,6 +19323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252529,
+      "num": 176574,
+      "word": "庆学家",
+      "onboard_time": 1715863458,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252429,
       "num": 252429,
       "word": "张新成去埃及了",
@@ -19953,6 +20065,14 @@
       "onboard_time": 1715484199,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242604,
+      "num": 177518,
+      "word": "松本润独立",
+      "onboard_time": 1715865019,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 242399,
@@ -21667,6 +21787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 221628,
+      "num": 171183,
+      "word": "用古诗共庆余年",
+      "onboard_time": 1715844858,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221610,
       "num": 221610,
       "word": "酱园弄",
@@ -22867,6 +22995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 211102,
+      "num": 211102,
+      "word": "左右手",
+      "onboard_time": 1715864539,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211093,
       "num": 211093,
       "word": "都是一个坟头的不用鞠躬",
@@ -23137,6 +23273,14 @@
       "onboard_time": 1714906759,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 208644,
+      "num": 171094,
+      "word": "Bin哥辛苦了",
+      "onboard_time": 1715865260,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 208613,
@@ -23939,14 +24083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204124,
-      "num": 164706,
-      "word": "民警高速亮证查车疑穿4400元T恤",
-      "onboard_time": 1715863219,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204079,
       "num": 204079,
       "word": "Angelababy明媚",
@@ -24273,14 +24409,6 @@
       "onboard_time": 1715519420,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202001,
-      "num": 157484,
-      "word": "庆学家",
-      "onboard_time": 1715863458,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 201920,
@@ -26816,6 +26944,14 @@
       "word": "新生 一场葬礼引出的骗局",
       "onboard_time": 1715745079,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189915,
+      "num": 142626,
+      "word": "李沁庆余年第一季vs第二季",
+      "onboard_time": 1715865260,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -40931,14 +41067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102146,
-      "num": 102146,
-      "word": "坐火车40小时没及时换卫生巾感染送医",
-      "onboard_time": 1715863758,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102093,
       "num": 102093,
       "word": "2024F1迈阿密大奖赛",
@@ -41473,6 +41601,14 @@
       "onboard_time": 1715258418,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94456,
+      "num": 138123,
+      "word": "高速上逼停小车的2民警被停职",
+      "onboard_time": 1715865440,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94277,

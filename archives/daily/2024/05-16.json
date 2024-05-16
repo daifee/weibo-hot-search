@@ -1,10 +1,10 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715863815109,
+  "endTime": 1715865672840,
   "band_list": [
     {
-      "raw_hot": 8888184,
-      "num": 8888184,
+      "raw_hot": 9003287,
+      "num": 9003287,
       "word": "庆余年 剧王",
       "onboard_time": 1715861296,
       "rank": 0,
@@ -171,6 +171,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 1085585,
+      "num": 488531,
+      "word": "腾讯视频会员",
+      "onboard_time": 1715864299,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1060563,
       "num": 1060563,
       "word": "12306回应火车票改签也要收手续费",
@@ -195,11 +203,27 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 952423,
+      "num": 428040,
+      "word": "李沁看得出是公主",
+      "onboard_time": 1715862619,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 945585,
       "num": 945585,
       "word": "中岛美嘉 歌手",
       "onboard_time": 1715831838,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 939978,
+      "num": 360937,
+      "word": "黄子韬只承认鹿晗比自己帅",
+      "onboard_time": 1715864419,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -217,6 +241,14 @@
       "onboard_time": 1715856798,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919506,
+      "num": 283013,
+      "word": "杨幂包场庆余年",
+      "onboard_time": 1715864479,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 918922,
@@ -395,14 +427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 641847,
-      "num": 428040,
-      "word": "李沁看得出是公主",
-      "onboard_time": 1715862619,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 632211,
       "num": 632211,
       "word": "于正说庆余年剧宣low",
@@ -449,6 +473,14 @@
       "onboard_time": 1715819238,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 581192,
+      "num": 262966,
+      "word": "庆余年 袁泉",
+      "onboard_time": 1715863819,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 580529,
@@ -504,6 +536,14 @@
       "word": "福宝",
       "onboard_time": 1715839457,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558299,
+      "num": 281791,
+      "word": "坐火车40小时没及时换卫生巾感染送医",
+      "onboard_time": 1715863758,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -667,6 +707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 448426,
+      "num": 448426,
+      "word": "BLG不敌GEN1比3落败",
+      "onboard_time": 1715863878,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 448024,
       "num": 284381,
       "word": "张杰张若昀都不舍得吼女儿",
@@ -737,6 +785,14 @@
       "onboard_time": 1715821879,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 413139,
+      "num": 199231,
+      "word": "王启年 林小娘",
+      "onboard_time": 1715863998,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 411001,
@@ -819,20 +875,20 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 384467,
+      "num": 189136,
+      "word": "范闲更帅了",
+      "onboard_time": 1715862378,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378365,
       "num": 378365,
       "word": "肿瘤医院外化疗宝宝排队领汤看哭",
       "onboard_time": 1715818579,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375821,
-      "num": 178379,
-      "word": "范闲更帅了",
-      "onboard_time": 1715862378,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 370905,
@@ -963,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304363,
+      "num": 182046,
+      "word": "范闲一死叔圈大乱",
+      "onboard_time": 1715864899,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303268,
       "num": 303268,
       "word": "官方通报60余名幼儿群体性流血不实",
@@ -977,6 +1041,14 @@
       "onboard_time": 1715743519,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301198,
+      "num": 238726,
+      "word": "庆余年2剧本写了约3年",
+      "onboard_time": 1715857337,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 297316,
@@ -1011,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 282758,
+      "num": 179180,
+      "word": "你脸上的痘痘可能是吃出来的",
+      "onboard_time": 1715865319,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 282080,
       "num": 282080,
       "word": "大睿睿小马甲有宝宝了",
@@ -1025,6 +1105,30 @@
       "onboard_time": 1715860456,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276855,
+      "num": 188199,
+      "word": "杨幂将出席酱园弄戛纳首映",
+      "onboard_time": 1715864299,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 276090,
+      "num": 276090,
+      "word": "BLG跌入败者组",
+      "onboard_time": 1715863878,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 275595,
+      "num": 183645,
+      "word": "那英唱了rap",
+      "onboard_time": 1715864720,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 273947,
@@ -1075,12 +1179,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 264786,
-      "num": 238726,
-      "word": "庆余年2剧本写了约3年",
-      "onboard_time": 1715857337,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 264399,
+      "num": 178671,
+      "word": "民警高速亮证查车疑穿4400元T恤",
+      "onboard_time": 1715863219,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263947,
@@ -1131,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252529,
+      "num": 176574,
+      "word": "庆学家",
+      "onboard_time": 1715863458,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248278,
       "num": 248278,
       "word": "全局BP",
@@ -1147,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246821,
+      "num": 178027,
+      "word": "迪丽热巴代言联想",
+      "onboard_time": 1715864779,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244421,
       "num": 244421,
       "word": "五条悟 全球趋势第一",
@@ -1161,6 +1281,14 @@
       "onboard_time": 1715843478,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242604,
+      "num": 177518,
+      "word": "松本润独立",
+      "onboard_time": 1715865019,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 242074,
@@ -1291,6 +1419,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 221628,
+      "num": 171183,
+      "word": "用古诗共庆余年",
+      "onboard_time": 1715844858,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221384,
       "num": 135384,
       "word": "前夫出轨拒赔偿女子每年起诉要钱",
@@ -1387,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211102,
+      "num": 211102,
+      "word": "左右手",
+      "onboard_time": 1715864539,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210264,
       "num": 210264,
       "word": "喜欢开榴莲胜过了吃榴莲",
@@ -1409,6 +1553,14 @@
       "onboard_time": 1715851578,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208644,
+      "num": 171094,
+      "word": "Bin哥辛苦了",
+      "onboard_time": 1715865260,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 207445,
@@ -1483,28 +1635,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204124,
-      "num": 164706,
-      "word": "民警高速亮证查车疑穿4400元T恤",
-      "onboard_time": 1715863219,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204021,
       "num": 204021,
       "word": "敖子逸路透",
       "onboard_time": 1715846658,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202001,
-      "num": 157484,
-      "word": "庆学家",
-      "onboard_time": 1715863458,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 201920,
@@ -1657,6 +1793,14 @@
       "onboard_time": 1715836039,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 189915,
+      "num": 142626,
+      "word": "李沁庆余年第一季vs第二季",
+      "onboard_time": 1715865260,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 189860,
@@ -2379,14 +2523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102146,
-      "num": 102146,
-      "word": "坐火车40小时没及时换卫生巾感染送医",
-      "onboard_time": 1715863758,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101499,
       "num": 101499,
       "word": "有些水果很久没见到了",
@@ -2417,6 +2553,14 @@
       "onboard_time": 1715789296,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 94456,
+      "num": 138123,
+      "word": "高速上逼停小车的2民警被停职",
+      "onboard_time": 1715865440,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91827,
