@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715854772874,
+  "endTime": 1715855753316,
   "band_list": [
     {
       "raw_hot": 3876491,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1447579,
+      "num": 1447579,
+      "word": "花少北 p聊天记录",
+      "onboard_time": 1715853258,
+      "rank": 1,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1443731,
       "num": 1443731,
       "word": "天水麻辣烫店开始扎堆倒闭",
@@ -81,14 +89,6 @@
       "onboard_time": 1715817617,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1311818,
-      "num": 1311818,
-      "word": "花少北 p聊天记录",
-      "onboard_time": 1715853258,
-      "rank": 1,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1289692,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 932928,
+      "num": 932928,
+      "word": "12306回应车厢吃东西被嫌味道大",
+      "onboard_time": 1715851218,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918922,
       "num": 338965,
       "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
@@ -249,14 +257,6 @@
       "onboard_time": 1715833400,
       "rank": 28,
       "category": "数码,科学科普"
-    },
-    {
-      "raw_hot": 767590,
-      "num": 767590,
-      "word": "12306回应车厢吃东西被嫌味道大",
-      "onboard_time": 1715851218,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 763134,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585265,
+      "num": 585265,
+      "word": "庆余年 你知道我这五年怎么过的吗",
+      "onboard_time": 1715854038,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 580529,
       "num": 580529,
       "word": "李玟无缘金曲奖特别贡献奖",
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469423,
+      "num": 469423,
+      "word": "庆余年",
+      "onboard_time": 1715841858,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 467108,
       "num": 465543,
       "word": "周也穿了套QQ秀",
@@ -555,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 458048,
-      "num": 458048,
-      "word": "庆余年",
-      "onboard_time": 1715841858,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 457207,
+      "num": 457207,
+      "word": "家庭唯一用车买电车还是买油车",
+      "onboard_time": 1715853318,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 448024,
@@ -691,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 391378,
+      "num": 391378,
+      "word": "迪丽热巴留洋千金",
+      "onboard_time": 1715853918,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387182,
       "num": 663180,
       "word": "我海警依法对菲非法聚集船只现场管制",
@@ -747,36 +771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 345631,
-      "num": 296629,
-      "word": "家庭唯一用车买电车还是买油车",
-      "onboard_time": 1715853318,
-      "rank": 21,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 344376,
-      "num": 344376,
-      "word": "迪丽热巴留洋千金",
-      "onboard_time": 1715853918,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341503,
       "num": 341503,
       "word": "金曲奖",
       "onboard_time": 1715834060,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 341045,
-      "num": 341045,
-      "word": "庆余年 你知道我这五年怎么过的吗",
-      "onboard_time": 1715854038,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 336495,
@@ -1299,6 +1299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205233,
+      "num": 205233,
+      "word": "马来西亚一男子开车撞死老虎",
+      "onboard_time": 1715854637,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205199,
       "num": 205199,
       "word": "独行侠3比2雷霆",
@@ -1384,6 +1392,14 @@
       "word": "Baolan 还是做不到吗义进",
       "onboard_time": 1715850859,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 195385,
+      "num": 195385,
+      "word": "XG新MV",
+      "onboard_time": 1715855298,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -1539,6 +1555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175015,
+      "num": 175015,
+      "word": "歌手2024彩排直击",
+      "onboard_time": 1715855538,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173885,
       "num": 173885,
       "word": "不栓绳或成恶犬伤人最大诱因",
@@ -1641,6 +1665,22 @@
       "onboard_time": 1715838258,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155643,
+      "num": 223601,
+      "word": "蔚来多品牌战略落地",
+      "onboard_time": 1715855538,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 155138,
+      "num": 236269,
+      "word": "退伍兵公主抱温柔救下轻生女孩",
+      "onboard_time": 1715855538,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153740,
@@ -1811,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130615,
+      "num": 130104,
+      "word": "原来张若昀春晚就在预热庆余年2",
+      "onboard_time": 1715855476,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130339,
       "num": 130211,
       "word": "用利息生活是可行还是离谱",
@@ -1875,14 +1923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 123986,
-      "num": 123986,
-      "word": "马来西亚一男子开车撞死老虎",
-      "onboard_time": 1715854637,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122830,
       "num": 149779,
       "word": "Uzi不和G2打训练赛",
@@ -1907,12 +1947,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 117729,
+      "num": 117729,
+      "word": "理想汽车将裁员5600人",
+      "onboard_time": 1715855716,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116988,
       "num": 116988,
       "word": "新生 强行上价值",
       "onboard_time": 1715784318,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116301,
+      "num": 116301,
+      "word": "RedmiBuds6",
+      "onboard_time": 1715854698,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 116178,
@@ -2227,28 +2283,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 54336,
-      "num": 216317,
-      "word": "小龙虾也有简历了",
-      "onboard_time": 1715832020,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 51769,
-      "num": 165522,
+      "raw_hot": 55456,
+      "num": 235928,
       "word": "荣耀雅顾",
       "onboard_time": 1715854338,
       "rank": 36,
       "category": "数码"
     },
     {
-      "raw_hot": 48034,
+      "raw_hot": 54839,
       "num": 719240,
       "word": "藏在文创里的博物馆宝藏",
       "onboard_time": 1715851878,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54336,
+      "num": 216317,
+      "word": "小龙虾也有简历了",
+      "onboard_time": 1715832020,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 45389,

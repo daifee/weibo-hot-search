@@ -1,0 +1,410 @@
+{
+  "runTime": 1715855753316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1999001,
+        "num": 1999001,
+        "word": "李佳琦称今年618大促是难的",
+        "onboard_time": 1715849237,
+        "rank": 0,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 1447579,
+        "num": 1447579,
+        "word": "花少北 p聊天记录",
+        "onboard_time": 1715853258,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 65789,
+        "num": 964462,
+        "word": "发现最美铁路",
+        "onboard_time": 1715844498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932928,
+        "num": 932928,
+        "word": "12306回应车厢吃东西被嫌味道大",
+        "onboard_time": 1715851218,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814420,
+        "num": 814420,
+        "word": "天水麻辣烫店开始扎堆倒闭",
+        "onboard_time": 1715848218,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743876,
+        "num": 743876,
+        "word": "医生建议榴莲1天最多吃1瓣",
+        "onboard_time": 1715841018,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 725991,
+        "num": 725991,
+        "word": "花少北道歉",
+        "onboard_time": 1715838978,
+        "rank": 6,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 665137,
+        "num": 665137,
+        "word": "言冰云",
+        "onboard_time": 1715845879,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 647794,
+        "num": 647794,
+        "word": "美国人开始流行坐月子",
+        "onboard_time": 1715849657,
+        "rank": 8,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 68141,
+        "num": 587645,
+        "word": "赤狐闯进公安局还打包带走了1块肉",
+        "onboard_time": 1715853618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884363,
+        "num": 587269,
+        "word": "尊敬的普京总统我的老朋友",
+        "onboard_time": 1715850799,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 585265,
+        "num": 585265,
+        "word": "庆余年 你知道我这五年怎么过的吗",
+        "onboard_time": 1715854038,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578643,
+        "num": 578643,
+        "word": "周依然经纪人",
+        "onboard_time": 1715851878,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 469423,
+        "num": 469423,
+        "word": "庆余年",
+        "onboard_time": 1715841858,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457207,
+        "num": 457207,
+        "word": "家庭唯一用车买电车还是买油车",
+        "onboard_time": 1715853318,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 391378,
+        "num": 391378,
+        "word": "迪丽热巴留洋千金",
+        "onboard_time": 1715853918,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302631,
+        "num": 302631,
+        "word": "于正说庆余年剧宣low",
+        "onboard_time": 1715843418,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298856,
+        "num": 298856,
+        "word": "黄好厉害",
+        "onboard_time": 1715848097,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 283006,
+        "num": 283006,
+        "word": "杨紫5月两本五大",
+        "onboard_time": 1715851578,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 281427,
+        "num": 281427,
+        "word": "王源丁程鑫敖子逸都在长沙录综艺",
+        "onboard_time": 1715851697,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155138,
+        "num": 236269,
+        "word": "退伍兵公主抱温柔救下轻生女孩",
+        "onboard_time": 1715855538,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55456,
+        "num": 235928,
+        "word": "荣耀雅顾",
+        "onboard_time": 1715854338,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 667174,
+        "num": 235823,
+        "word": "花少北承认煎蛋恋情",
+        "onboard_time": 1715839219,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 235694,
+        "num": 235694,
+        "word": "lex 复活赛",
+        "onboard_time": 1715846418,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 155643,
+        "num": 223601,
+        "word": "蔚来多品牌战略落地",
+        "onboard_time": 1715855538,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 219923,
+        "num": 219923,
+        "word": "康辉近距离感受欢迎普京仪式现场",
+        "onboard_time": 1715836818,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54839,
+        "num": 213659,
+        "word": "藏在文创里的博物馆宝藏",
+        "onboard_time": 1715851878,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210727,
+        "num": 210727,
+        "word": "五条悟 全球趋势第一",
+        "onboard_time": 1715851819,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 205539,
+        "num": 205539,
+        "word": "歌手导演洪涛选张杰逆战的原因",
+        "onboard_time": 1715842337,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205233,
+        "num": 205233,
+        "word": "马来西亚一男子开车撞死老虎",
+        "onboard_time": 1715854637,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22389,
+        "num": 199748,
+        "word": "红旗EH7带你领略慢生活的美好",
+        "onboard_time": 1715853918,
+        "rank": 30,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 195385,
+        "num": 195385,
+        "word": "XG新MV",
+        "onboard_time": 1715855298,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195156,
+        "num": 195156,
+        "word": "周也穿了套QQ秀",
+        "onboard_time": 1715846418,
+        "rank": 32,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 198187,
+        "num": 192703,
+        "word": "张杰张若昀都不舍得吼女儿",
+        "onboard_time": 1715847918,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186769,
+        "num": 186769,
+        "word": "GEN对战BLG",
+        "onboard_time": 1715853318,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175015,
+        "num": 175015,
+        "word": "歌手2024彩排直击",
+        "onboard_time": 1715855538,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173011,
+        "num": 173011,
+        "word": "奔跑吧终于下水了",
+        "onboard_time": 1715848398,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169247,
+        "num": 169247,
+        "word": "喜欢开榴莲胜过了吃榴莲",
+        "onboard_time": 1715850799,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162481,
+        "num": 162481,
+        "word": "谢可寅短发好帅",
+        "onboard_time": 1715850377,
+        "rank": 38,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 157883,
+        "num": 157883,
+        "word": "蔡依林演唱会嘉宾 王俊凯",
+        "onboard_time": 1715840057,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153766,
+        "num": 153766,
+        "word": "林更新别更新关晓彤关了吧",
+        "onboard_time": 1715839519,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146669,
+        "num": 146669,
+        "word": "外交部回应美方指责中方向俄提供武器制造材料",
+        "onboard_time": 1715853859,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139207,
+        "num": 139207,
+        "word": "NEWJEANS海粼生咖小纸条",
+        "onboard_time": 1715850258,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134465,
+        "num": 134465,
+        "word": "成毅ELLE首封",
+        "onboard_time": 1715851458,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133576,
+        "num": 133576,
+        "word": "我叫范闲 我重生了",
+        "onboard_time": 1715834599,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130426,
+        "num": 130426,
+        "word": "MCD",
+        "onboard_time": 1715853918,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130615,
+        "num": 130104,
+        "word": "原来张若昀春晚就在预热庆余年2",
+        "onboard_time": 1715855476,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128721,
+        "num": 128721,
+        "word": "五旬男子吊脖锻炼意外身亡",
+        "onboard_time": 1715835019,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117729,
+        "num": 117729,
+        "word": "理想汽车将裁员5600人",
+        "onboard_time": 1715855716,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 116301,
+        "num": 116301,
+        "word": "RedmiBuds6",
+        "onboard_time": 1715854698,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同俄罗斯总统普京会谈#"
+    }
+  }
+}
