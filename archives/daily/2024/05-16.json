@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715841260738,
+  "endTime": 1715843686656,
   "band_list": [
     {
       "raw_hot": 3876491,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 942837,
+      "num": 942837,
+      "word": "医生建议榴莲1天最多吃1瓣",
+      "onboard_time": 1715841018,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 918922,
       "num": 338965,
       "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
@@ -169,6 +177,14 @@
       "onboard_time": 1715823797,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 809500,
+      "num": 809500,
+      "word": "林更新别更新关晓彤关了吧",
+      "onboard_time": 1715839519,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 789632,
@@ -217,14 +233,6 @@
       "onboard_time": 1715783538,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 689843,
-      "num": 689843,
-      "word": "林更新别更新关晓彤关了吧",
-      "onboard_time": 1715839519,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 685114,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542013,
+      "num": 271709,
+      "word": "歌手导演洪涛选张杰逆战的原因",
+      "onboard_time": 1715842337,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524335,
       "num": 460122,
       "word": "猫 车顶有学员通过",
@@ -401,6 +417,14 @@
       "onboard_time": 1715826857,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 492072,
+      "num": 492072,
+      "word": "北大教授称未来几年房价或会明显上涨",
+      "onboard_time": 1715840538,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487140,
@@ -531,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 392887,
+      "num": 392887,
+      "word": "林孝埈把世锦赛金牌献给河北",
+      "onboard_time": 1715842817,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378365,
       "num": 378365,
       "word": "肿瘤医院外化疗宝宝排队领汤看哭",
@@ -587,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335088,
+      "num": 335088,
+      "word": "残疾女孩街头直播遭陌生男子拍屁股",
+      "onboard_time": 1715839817,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333778,
       "num": 248821,
       "word": "十个勤天去年底音乐节秀费超200万元",
@@ -595,20 +635,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327177,
+      "num": 327177,
+      "word": "蔡依林演唱会嘉宾 王俊凯",
+      "onboard_time": 1715840057,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 326583,
+      "num": 326583,
+      "word": "庆余年",
+      "onboard_time": 1715841858,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323572,
       "num": 77295,
       "word": "开心消消乐",
       "onboard_time": 1715791036,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 310377,
-      "num": 310377,
-      "word": "蔡依林演唱会嘉宾 王俊凯",
-      "onboard_time": 1715840057,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 310150,
@@ -723,14 +771,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 259863,
-      "num": 259863,
-      "word": "残疾女孩街头直播遭陌生男子拍屁股",
-      "onboard_time": 1715839817,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254070,
       "num": 273214,
       "word": "李雪琴 小树不长歪长点枝丫没问题",
@@ -779,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238411,
+      "num": 238411,
+      "word": "我海警依法对菲非法聚集船只现场管制",
+      "onboard_time": 1715843237,
+      "rank": 26,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 234021,
       "num": 234021,
       "word": "檀健次直播状态",
@@ -809,6 +857,14 @@
       "onboard_time": 1715836520,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228230,
+      "num": 228230,
+      "word": "苏运莹入围",
+      "onboard_time": 1715842638,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 225964,
@@ -843,20 +899,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219171,
-      "num": 219171,
-      "word": "北大教授称未来几年房价或会明显上涨",
-      "onboard_time": 1715840538,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218738,
       "num": 218738,
       "word": "王一博任奥运资格赛上海站推广大使",
       "onboard_time": 1715819778,
       "rank": 33,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 218259,
+      "num": 218259,
+      "word": "松鼠偷吃了遗留在户外发酵的梨子",
+      "onboard_time": 1715841858,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 217923,
@@ -889,6 +945,14 @@
       "onboard_time": 1715774718,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213576,
+      "num": 213576,
+      "word": "泽连斯基签署退出独联体国家法令",
+      "onboard_time": 1715840238,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 212943,
@@ -979,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198520,
+      "num": 198520,
+      "word": "林俊杰提名金曲奖最佳男歌手",
+      "onboard_time": 1715842878,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198186,
       "num": 198186,
       "word": "电影传说定档",
@@ -1035,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188372,
-      "num": 188372,
-      "word": "泽连斯基签署退出独联体国家法令",
-      "onboard_time": 1715840238,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 188297,
       "num": 188297,
       "word": "成龙张艺兴再合作",
@@ -1083,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180849,
+      "num": 284536,
+      "word": "请不要给我建议",
+      "onboard_time": 1715839398,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179857,
       "num": 179857,
       "word": "再就业男团首次唱电影主题曲",
@@ -1097,6 +1169,14 @@
       "onboard_time": 1715840298,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178201,
+      "num": 178201,
+      "word": "于正说庆余年剧宣low",
+      "onboard_time": 1715843418,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 177731,
@@ -1203,20 +1283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160797,
-      "num": 160797,
-      "word": "医生建议榴莲1天最多吃1瓣",
-      "onboard_time": 1715841018,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 157214,
       "num": 157214,
       "word": "蔡依林金曲奖入围",
       "onboard_time": 1715838258,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153740,
+      "num": 153740,
+      "word": "吴幸键重拍了庆余年的结尾",
+      "onboard_time": 1715843298,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 150154,
@@ -1243,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144564,
+      "num": 144564,
+      "word": "建议讨好型人格每日读十遍",
+      "onboard_time": 1715843478,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140909,
       "num": 140909,
       "word": "初夏的阿勒泰美成了壁纸",
@@ -1265,6 +1353,14 @@
       "onboard_time": 1715771357,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136480,
+      "num": 136480,
+      "word": "武艺拆散一对算一对",
+      "onboard_time": 1715841679,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 136288,
@@ -1353,6 +1449,14 @@
       "onboard_time": 1715788757,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124702,
+      "num": 124702,
+      "word": "福宝下午呼呼大睡晚上嘎嘎炫饭",
+      "onboard_time": 1715843658,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122830,
@@ -1523,14 +1627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87504,
-      "num": 284536,
-      "word": "请不要给我建议",
-      "onboard_time": 1715839398,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 86644,
       "num": 86644,
       "word": "咬伤3岁男童恶犬已被打死",
@@ -1625,6 +1721,14 @@
       "onboard_time": 1715766018,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65272,
+      "num": 450547,
+      "word": "迪丽热巴代言DNF",
+      "onboard_time": 1715841256,
+      "rank": 11,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 64291,
@@ -1763,7 +1867,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4779,
+      "raw_hot": 4781,
       "num": 1237257,
       "word": "阔步迈向网络强国",
       "onboard_time": 1715741237,
