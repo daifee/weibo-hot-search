@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715816060975,
+  "endTime": 1715822256015,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1326766,
+      "num": 1326766,
+      "word": "关晓彤黑天鹅高定",
+      "onboard_time": 1715817617,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1324147,
       "num": 738066,
       "word": "诛仙女主陆雪琪",
@@ -649,6 +657,14 @@
       "onboard_time": 1715737758,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1206840,
+      "num": 494771,
+      "word": "曝iOS17.5恢复已删除多年照片",
+      "onboard_time": 1715820197,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 1199833,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1715778077,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 900821,
+      "num": 900821,
+      "word": "俄罗斯总统普京抵达北京",
+      "onboard_time": 1715815155,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 896475,
@@ -1627,14 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 734220,
-      "num": 734220,
-      "word": "俄罗斯总统普京抵达北京",
-      "onboard_time": 1715815155,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 731427,
       "num": 731427,
       "word": "李亚鹏就欠薪道歉",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1715440162,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 705982,
+      "num": 241709,
+      "word": "肝不好真的会让人变丑",
+      "onboard_time": 1715815275,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 699552,
@@ -2059,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620121,
+      "num": 620121,
+      "word": "陕西全面取消普通高中跨市招生",
+      "onboard_time": 1715819178,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 619734,
       "num": 349887,
       "word": "本周狗屎运最旺的星座",
@@ -2179,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584928,
+      "num": 505206,
+      "word": "韩红想要郝蕾的孩子",
+      "onboard_time": 1715819238,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 583453,
       "num": 583453,
       "word": "安徽一司机碾压小孩致身亡逃逸被抓",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1715651658,
       "rank": 7,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 570464,
+      "num": 503731,
+      "word": "kep1er续约将七人组活动",
+      "onboard_time": 1715821098,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 567476,
@@ -2531,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513504,
+      "num": 241600,
+      "word": "怀疑是肿瘤没想到是花生米作祟",
+      "onboard_time": 1715816176,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 511961,
       "num": 511961,
       "word": "五十公里桃花坞4官宣",
@@ -2585,6 +2641,14 @@
       "onboard_time": 1715697799,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507160,
+      "num": 507160,
+      "word": "网友吐槽长沙机场一份蒸蛋32元",
+      "onboard_time": 1715818158,
+      "rank": 5,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 506989,
@@ -2737,6 +2801,14 @@
       "onboard_time": 1715586619,
       "rank": 12,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 494768,
+      "num": 494768,
+      "word": "韩红 最牛伸手党",
+      "onboard_time": 1715821399,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 494166,
@@ -2971,6 +3043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465625,
+      "num": 465625,
+      "word": "何炅曾说歌手对张杰是内心的历练",
+      "onboard_time": 1715819238,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 464145,
       "num": 464145,
       "word": "芒果妈妈微博发声",
@@ -2993,6 +3073,14 @@
       "onboard_time": 1715738057,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 460122,
+      "num": 460122,
+      "word": "猫 车顶有学员通过",
+      "onboard_time": 1715818938,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 460013,
@@ -3201,6 +3289,14 @@
       "onboard_time": 1715741418,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433145,
+      "num": 433145,
+      "word": "佟丽娅关晓彤唐嫣戛纳同框",
+      "onboard_time": 1715818518,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 432835,
@@ -3499,6 +3595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 405801,
+      "num": 241562,
+      "word": "十个勤天算不算歌手",
+      "onboard_time": 1715820619,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404106,
       "num": 404106,
       "word": "腾格尔方声明",
@@ -3761,6 +3865,14 @@
       "onboard_time": 1715523742,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378365,
+      "num": 378365,
+      "word": "肿瘤医院外化疗宝宝排队领汤看哭",
+      "onboard_time": 1715818579,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375949,
@@ -4483,6 +4595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 310150,
+      "num": 241438,
+      "word": "终于知道为什么打工这么烦了",
+      "onboard_time": 1715815637,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 309772,
       "num": 309772,
       "word": "结石姐关注香缇莫",
@@ -5115,6 +5235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265485,
+      "num": 241195,
+      "word": "每天洗头有什么危害吗",
+      "onboard_time": 1715821879,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 265377,
       "num": 265377,
       "word": "珠帘玉幕",
@@ -5209,6 +5337,14 @@
       "onboard_time": 1715686219,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 260395,
+      "num": 260395,
+      "word": "iPad用户换机周期逐年增加",
+      "onboard_time": 1715816597,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 259851,
@@ -5619,6 +5755,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241755,
+      "num": 241755,
+      "word": "焦点访谈揭小升初暗自掐尖招生",
+      "onboard_time": 1715818879,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 241165,
+      "num": 241165,
+      "word": "谁懂吴彦姝父亲这句儿多母苦的含金量",
+      "onboard_time": 1715817078,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241101,
       "num": 241101,
       "word": "沈小婷回国第一站跑男",
@@ -6020,7 +6172,7 @@
     },
     {
       "raw_hot": 221384,
-      "num": 87923,
+      "num": 135384,
       "word": "前夫出轨拒赔偿女子每年起诉要钱",
       "onboard_time": 1715794933,
       "rank": 25,
@@ -6033,6 +6185,14 @@
       "onboard_time": 1715591360,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220922,
+      "num": 220922,
+      "word": "Jennie素颜vs化妆",
+      "onboard_time": 1715816176,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220637,
@@ -6067,6 +6227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219424,
+      "num": 219424,
+      "word": "G社拍的佟丽娅关晓彤唐嫣",
+      "onboard_time": 1715821697,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219411,
       "num": 219411,
       "word": "江苏南通多地抢修红绿灯",
@@ -6097,6 +6265,14 @@
       "onboard_time": 1715472257,
       "rank": 25,
       "category": "音乐,自然"
+    },
+    {
+      "raw_hot": 218738,
+      "num": 218738,
+      "word": "王一博任奥运资格赛上海站推广大使",
+      "onboard_time": 1715819778,
+      "rank": 33,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 218511,
@@ -6467,6 +6643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206353,
+      "num": 206353,
+      "word": "这口红色号是越来越难懂了",
+      "onboard_time": 1715818938,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 206160,
       "num": 200463,
       "word": "年薪百万的蔓越莓采摘工",
@@ -6697,6 +6881,14 @@
       "onboard_time": 1715746100,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201575,
+      "num": 201575,
+      "word": "中俄元首外交",
+      "onboard_time": 1715820259,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201458,
@@ -7955,20 +8147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173885,
+      "num": 173885,
+      "word": "不栓绳或成恶犬伤人最大诱因",
+      "onboard_time": 1715821938,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173644,
       "num": 173644,
       "word": "刘诗诗大女主排面",
       "onboard_time": 1715750898,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173540,
-      "num": 86079,
-      "word": "肝不好真的会让人变丑",
-      "onboard_time": 1715815275,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173499,
@@ -8065,6 +8257,14 @@
       "onboard_time": 1715731038,
       "rank": 39,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 170880,
+      "num": 170880,
+      "word": "金智媛机场人气",
+      "onboard_time": 1715820798,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 170782,
@@ -8225,6 +8425,14 @@
       "onboard_time": 1715586619,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167655,
+      "num": 167655,
+      "word": "刘雨昕奥运会资格系列赛表演",
+      "onboard_time": 1715821277,
+      "rank": 39,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 167512,
@@ -8521,6 +8729,14 @@
       "onboard_time": 1715500637,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162019,
+      "num": 162019,
+      "word": "王金金 歌手",
+      "onboard_time": 1715818099,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 161986,
@@ -9915,6 +10131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128512,
+      "num": 128512,
+      "word": "石凯直播",
+      "onboard_time": 1715821578,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128263,
       "num": 128263,
       "word": "常思思 若有需召必来",
@@ -11251,6 +11475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77031,
+      "num": 494775,
+      "word": "花花的霸姐气质藏不住了",
+      "onboard_time": 1715820138,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76986,
       "num": 76986,
       "word": "秦岚简直是情绪价值的富翁",
@@ -11344,14 +11576,6 @@
       "word": "散步是低成本的心理治疗",
       "onboard_time": 1715533874,
       "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 68186,
-      "num": 68186,
-      "word": "终于知道为什么打工这么烦了",
-      "onboard_time": 1715815637,
-      "rank": 41,
       "category": "情感"
     },
     {
