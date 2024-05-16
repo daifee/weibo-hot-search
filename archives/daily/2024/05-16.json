@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715827293612,
+  "endTime": 1715829759666,
   "band_list": [
     {
       "raw_hot": 1830305,
@@ -19,12 +19,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1416684,
+      "num": 1416684,
+      "word": "霸王茶姬免单",
+      "onboard_time": 1715829678,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1382761,
+      "num": 1382761,
+      "word": "现在我是小姨妈的男朋友了",
+      "onboard_time": 1715826138,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1326766,
       "num": 1326766,
       "word": "关晓彤黑天鹅高定",
       "onboard_time": 1715817617,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1220189,
+      "num": 1220189,
+      "word": "金玟庭吸入浓烟中止录制",
+      "onboard_time": 1715827697,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1206840,
@@ -43,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1144609,
+      "num": 1144609,
+      "word": "女子遭色诱沦陷拉丈夫同做间谍",
+      "onboard_time": 1715827397,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918922,
-      "num": 285589,
+      "num": 338965,
       "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
       "onboard_time": 1715785639,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913397,
-      "num": 913397,
-      "word": "现在我是小姨妈的男朋友了",
-      "onboard_time": 1715826138,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 900821,
@@ -147,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 621754,
+      "num": 621754,
+      "word": "单身女性迎来买房热潮",
+      "onboard_time": 1715828057,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608515,
       "num": 608515,
       "word": "中方对菲律宾的善意和耐心不是无止境的",
@@ -161,6 +193,14 @@
       "onboard_time": 1715819238,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579528,
+      "num": 365305,
+      "word": "麻辣烫建议放一会再吃",
+      "onboard_time": 1715824097,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 570464,
@@ -227,12 +267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469937,
+      "num": 469937,
+      "word": "戛纳 玉皇大帝",
+      "onboard_time": 1715828419,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 463764,
       "num": 257091,
       "word": "歌手2024揭榜歌手歌单",
       "onboard_time": 1715777538,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 454222,
+      "num": 365226,
+      "word": "健身房塌起房来比娱乐圈还猛",
+      "onboard_time": 1715826857,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 442261,
@@ -249,6 +305,14 @@
       "onboard_time": 1715818518,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 420446,
+      "num": 420446,
+      "word": "普京访华",
+      "onboard_time": 1715815755,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 413222,
@@ -299,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353348,
-      "num": 275989,
-      "word": "麻辣烫建议放一会再吃",
-      "onboard_time": 1715824097,
-      "rank": 23,
-      "category": "美食"
+      "raw_hot": 367344,
+      "num": 367344,
+      "word": "于正当年差点拍庆余年",
+      "onboard_time": 1715827579,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 350111,
@@ -355,28 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292354,
-      "num": 292354,
+      "raw_hot": 297316,
+      "num": 297316,
       "word": "斯洛伐克总理身中多枪",
       "onboard_time": 1715826016,
       "rank": 30,
       "category": "国外时政"
     },
     {
-      "raw_hot": 287512,
-      "num": 287512,
-      "word": "普京访华",
-      "onboard_time": 1715815755,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 273869,
-      "num": 222577,
-      "word": "健身房塌起房来比娱乐圈还猛",
-      "onboard_time": 1715826857,
-      "rank": 24,
-      "category": "运动健身"
+      "raw_hot": 283151,
+      "num": 283151,
+      "word": "唐嫣戛纳官方镜头特写",
+      "onboard_time": 1715827458,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 272227,
@@ -409,6 +465,14 @@
       "onboard_time": 1715790555,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261008,
+      "num": 261008,
+      "word": "大睿睿小马甲有宝宝了",
+      "onboard_time": 1715828777,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 260692,
@@ -459,10 +523,26 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 241387,
+      "num": 241387,
+      "word": "二手玫瑰乐队吉他手姚澜暂别演出",
+      "onboard_time": 1715829259,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 241165,
       "num": 241165,
       "word": "谁懂吴彦姝父亲这句儿多母苦的含金量",
       "onboard_time": 1715817078,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233876,
+      "num": 233876,
+      "word": "杨迪朋友圈到底有多少艺人",
+      "onboard_time": 1715828538,
       "rank": 30,
       "category": "综艺"
     },
@@ -547,12 +627,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 198186,
+      "num": 198186,
+      "word": "电影传说定档",
+      "onboard_time": 1715828117,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194774,
+      "num": 194774,
+      "word": "外国小哥挑战吃完一整箱的草莓",
+      "onboard_time": 1715828718,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193066,
       "num": 193066,
       "word": "刘雨昕奥运会资格系列赛表演",
       "onboard_time": 1715821277,
       "rank": 39,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 192996,
+      "num": 192996,
+      "word": "马嘉祺说灿烂的花园救了我",
+      "onboard_time": 1715828658,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189726,
+      "num": 189726,
+      "word": "白鹿萧邦品牌大使",
+      "onboard_time": 1715827937,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 185818,
@@ -571,12 +683,28 @@
       "category": "作品衍生,旅游"
     },
     {
+      "raw_hot": 179857,
+      "num": 179857,
+      "word": "再就业男团首次唱电影主题曲",
+      "onboard_time": 1715827998,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177731,
       "num": 177731,
       "word": "三星调侃苹果iPadPro宣传视频翻车",
       "onboard_time": 1715824818,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 177207,
+      "num": 177207,
+      "word": "李健献唱庆余年2OST有生之年",
+      "onboard_time": 1715828240,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 176877,
@@ -633,6 +761,14 @@
       "onboard_time": 1715822538,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162712,
+      "num": 162712,
+      "word": "苹果在iPhone和iPad推出眼动追踪功能",
+      "onboard_time": 1715827218,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 162019,
@@ -811,14 +947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 104799,
-      "num": 104799,
-      "word": "苹果在iPhone和iPad推出眼动追踪功能",
-      "onboard_time": 1715827218,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 103328,
       "num": 81732,
       "word": "在仙侠剧看到女主强制爱男主",
@@ -881,6 +1009,14 @@
       "onboard_time": 1715783058,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80221,
+      "num": 372155,
+      "word": "5月新番西游笔绘西行",
+      "onboard_time": 1715828837,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 79463,
@@ -1048,6 +1184,14 @@
       "word": "店家打烊遇拾荒老人果断开店送吃的",
       "onboard_time": 1715793253,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7372,
+      "num": 1229492,
+      "word": "高质量发展调研行",
+      "onboard_time": 1715829678,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],

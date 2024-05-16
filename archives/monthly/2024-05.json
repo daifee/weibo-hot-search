@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715827293612,
+  "endTime": 1715829759666,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1507,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1416684,
+      "num": 1416684,
+      "word": "霸王茶姬免单",
+      "onboard_time": 1715829678,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1416658,
       "num": 1416658,
       "word": "香飘飘董事长现身机场接赴日回国员工",
@@ -1609,6 +1617,14 @@
       "onboard_time": 1715213900,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1382761,
+      "num": 1382761,
+      "word": "现在我是小姨妈的男朋友了",
+      "onboard_time": 1715826138,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1377458,
@@ -2195,6 +2211,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1220189,
+      "num": 1220189,
+      "word": "金玟庭吸入浓烟中止录制",
+      "onboard_time": 1715827697,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1215588,
       "num": 1215588,
       "word": "优酷片单",
@@ -2489,6 +2513,14 @@
       "onboard_time": 1715297655,
       "rank": 33,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 1144609,
+      "num": 1144609,
+      "word": "女子遭色诱沦陷拉丈夫同做间谍",
+      "onboard_time": 1715827397,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1142394,
@@ -3604,7 +3636,7 @@
     },
     {
       "raw_hot": 918922,
-      "num": 285589,
+      "num": 338965,
       "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
       "onboard_time": 1715785639,
       "rank": 22,
@@ -3665,14 +3697,6 @@
       "onboard_time": 1715053640,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913397,
-      "num": 913397,
-      "word": "现在我是小姨妈的男朋友了",
-      "onboard_time": 1715826138,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 911287,
@@ -7083,6 +7107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621754,
+      "num": 621754,
+      "word": "单身女性迎来买房热潮",
+      "onboard_time": 1715828057,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621744,
       "num": 460470,
       "word": "汪苏泷如果爱忘了",
@@ -7721,6 +7753,14 @@
       "onboard_time": 1715138781,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 579528,
+      "num": 365305,
+      "word": "麻辣烫建议放一会再吃",
+      "onboard_time": 1715824097,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 579071,
@@ -9987,6 +10027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469937,
+      "num": 469937,
+      "word": "戛纳 玉皇大帝",
+      "onboard_time": 1715828419,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 469733,
       "num": 469733,
       "word": "林更新不敢和张雨绮十指紧扣",
@@ -10457,6 +10505,14 @@
       "onboard_time": 1714828161,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 454222,
+      "num": 365226,
+      "word": "健身房塌起房来比娱乐圈还猛",
+      "onboard_time": 1715826857,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 453494,
@@ -11433,6 +11489,14 @@
       "onboard_time": 1715335700,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420446,
+      "num": 420446,
+      "word": "普京访华",
+      "onboard_time": 1715815755,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 420324,
@@ -13307,6 +13371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367344,
+      "num": 367344,
+      "word": "于正当年差点拍庆余年",
+      "onboard_time": 1715827579,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367266,
       "num": 367266,
       "word": "年龄六岁 工龄三年",
@@ -13785,14 +13857,6 @@
       "onboard_time": 1715584639,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353348,
-      "num": 275989,
-      "word": "麻辣烫建议放一会再吃",
-      "onboard_time": 1715824097,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 353273,
@@ -15987,6 +16051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297316,
+      "num": 297316,
+      "word": "斯洛伐克总理身中多枪",
+      "onboard_time": 1715826016,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 297274,
       "num": 297274,
       "word": "肖战藏海传扶人下马车路透",
@@ -16219,14 +16291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 292354,
-      "num": 292354,
-      "word": "斯洛伐克总理身中多枪",
-      "onboard_time": 1715826016,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 292178,
       "num": 242453,
       "word": "石凯白发",
@@ -16361,14 +16425,6 @@
       "onboard_time": 1715129422,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287512,
-      "num": 287512,
-      "word": "普京访华",
-      "onboard_time": 1715815755,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 287287,
@@ -16649,6 +16705,14 @@
       "onboard_time": 1715259018,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283151,
+      "num": 283151,
+      "word": "唐嫣戛纳官方镜头特写",
+      "onboard_time": 1715827458,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 283119,
@@ -17185,14 +17249,6 @@
       "onboard_time": 1714984640,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273869,
-      "num": 222577,
-      "word": "健身房塌起房来比娱乐圈还猛",
-      "onboard_time": 1715826857,
-      "rank": 24,
-      "category": "运动健身"
     },
     {
       "raw_hot": 273568,
@@ -18041,6 +18097,14 @@
       "onboard_time": 1715686219,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261008,
+      "num": 261008,
+      "word": "大睿睿小马甲有宝宝了",
+      "onboard_time": 1715828777,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 260892,
@@ -19323,6 +19387,14 @@
       "category": "运动健身,健康医疗"
     },
     {
+      "raw_hot": 241387,
+      "num": 241387,
+      "word": "二手玫瑰乐队吉他手姚澜暂别演出",
+      "onboard_time": 1715829259,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 241304,
       "num": 241304,
       "word": "杜锋说为周琦受伤感到寒心",
@@ -19928,6 +20000,14 @@
       "word": "让黄丽玲插个队吧",
       "onboard_time": 1715569519,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233876,
+      "num": 233876,
+      "word": "杨迪朋友圈到底有多少艺人",
+      "onboard_time": 1715828538,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -24091,6 +24171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198186,
+      "num": 198186,
+      "word": "电影传说定档",
+      "onboard_time": 1715828117,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198126,
       "num": 198126,
       "word": "自信和不自信的区别到底有多大",
@@ -24787,6 +24875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194774,
+      "num": 194774,
+      "word": "外国小哥挑战吃完一整箱的草莓",
+      "onboard_time": 1715828718,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194731,
       "num": 194731,
       "word": "刘诗诗盘发梦回任如意",
@@ -25225,6 +25321,14 @@
       "onboard_time": 1715474717,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192996,
+      "num": 192996,
+      "word": "马嘉祺说灿烂的花园救了我",
+      "onboard_time": 1715828658,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 192971,
@@ -25809,6 +25913,14 @@
       "onboard_time": 1715310258,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189726,
+      "num": 189726,
+      "word": "白鹿萧邦品牌大使",
+      "onboard_time": 1715827937,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 189691,
@@ -27323,6 +27435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179857,
+      "num": 179857,
+      "word": "再就业男团首次唱电影主题曲",
+      "onboard_time": 1715827998,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179755,
       "num": 179755,
       "word": "赵丽颖与凤行有效播剧",
@@ -27689,6 +27809,14 @@
       "onboard_time": 1715339900,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177207,
+      "num": 177207,
+      "word": "李健献唱庆余年2OST有生之年",
+      "onboard_time": 1715828240,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 177141,
@@ -30241,6 +30369,14 @@
       "onboard_time": 1714903878,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162712,
+      "num": 162712,
+      "word": "苹果在iPhone和iPad推出眼动追踪功能",
+      "onboard_time": 1715827218,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 162711,
@@ -39179,14 +39315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104799,
-      "num": 104799,
-      "word": "苹果在iPhone和iPad推出眼动追踪功能",
-      "onboard_time": 1715827218,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 104699,
       "num": 104699,
       "word": "陈天润贺卡",
@@ -40569,6 +40697,14 @@
       "onboard_time": 1714655659,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80221,
+      "num": 372155,
+      "word": "5月新番西游笔绘西行",
+      "onboard_time": 1715828837,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 80216,
@@ -43185,6 +43321,14 @@
       "onboard_time": 1715588900,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 7372,
+      "num": 1229492,
+      "word": "高质量发展调研行",
+      "onboard_time": 1715829678,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4564,

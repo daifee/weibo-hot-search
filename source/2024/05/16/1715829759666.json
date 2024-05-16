@@ -1,0 +1,410 @@
+{
+  "runTime": 1715829759666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1416684,
+        "num": 1416684,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1715829678,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1382761,
+        "num": 1382761,
+        "word": "现在我是小姨妈的男朋友了",
+        "onboard_time": 1715826138,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7372,
+        "num": 1229492,
+        "word": "高质量发展调研行",
+        "onboard_time": 1715829678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220189,
+        "num": 1220189,
+        "word": "金玟庭吸入浓烟中止录制",
+        "onboard_time": 1715827697,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1144609,
+        "num": 1144609,
+        "word": "女子遭色诱沦陷拉丈夫同做间谍",
+        "onboard_time": 1715827397,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659630,
+        "num": 659630,
+        "word": "17岁体育生左膝长骨瘤医生错切右膝",
+        "onboard_time": 1715822417,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848586,
+        "num": 650084,
+        "word": "韩红 最牛伸手党",
+        "onboard_time": 1715821399,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621754,
+        "num": 621754,
+        "word": "单身女性迎来买房热潮",
+        "onboard_time": 1715828057,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547213,
+        "num": 547213,
+        "word": "庆余年2",
+        "onboard_time": 1715815755,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126931,
+        "num": 489594,
+        "word": "全班23人考研20人上岸",
+        "onboard_time": 1715824339,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12985,
+        "num": 474000,
+        "word": "2024年全球贸易投资促进峰会",
+        "onboard_time": 1715780600,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628827,
+        "num": 473606,
+        "word": "iPhone16ProMax机模曝光",
+        "onboard_time": 1715823738,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 469937,
+        "num": 469937,
+        "word": "戛纳 玉皇大帝",
+        "onboard_time": 1715828419,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467492,
+        "num": 467492,
+        "word": "约70%卵巢癌患者发现即晚期",
+        "onboard_time": 1715823797,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 433069,
+        "num": 433069,
+        "word": "刺杀斯洛伐克总理枪手身份曝光",
+        "onboard_time": 1715825178,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 428107,
+        "num": 428107,
+        "word": "关晓彤黑天鹅高定",
+        "onboard_time": 1715817617,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 420446,
+        "num": 420446,
+        "word": "普京访华",
+        "onboard_time": 1715815755,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395128,
+        "num": 395128,
+        "word": "王力宏 歌手",
+        "onboard_time": 1715785819,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80221,
+        "num": 372155,
+        "word": "5月新番西游笔绘西行",
+        "onboard_time": 1715828837,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 367344,
+        "num": 367344,
+        "word": "于正当年差点拍庆余年",
+        "onboard_time": 1715827579,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579528,
+        "num": 365305,
+        "word": "麻辣烫建议放一会再吃",
+        "onboard_time": 1715824097,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 454222,
+        "num": 365226,
+        "word": "健身房塌起房来比娱乐圈还猛",
+        "onboard_time": 1715826857,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 363124,
+        "num": 363124,
+        "word": "中方对菲律宾的善意和耐心不是无止境的",
+        "onboard_time": 1715823019,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 338965,
+        "num": 338965,
+        "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
+        "onboard_time": 1715785639,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297316,
+        "num": 297316,
+        "word": "斯洛伐克总理身中多枪",
+        "onboard_time": 1715826016,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 283151,
+        "num": 283151,
+        "word": "唐嫣戛纳官方镜头特写",
+        "onboard_time": 1715827458,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278065,
+        "num": 278065,
+        "word": "曝iOS17.5恢复已删除多年照片",
+        "onboard_time": 1715820197,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 261008,
+        "num": 261008,
+        "word": "大睿睿小马甲有宝宝了",
+        "onboard_time": 1715828777,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241799,
+        "num": 241799,
+        "word": "沈小婷续约",
+        "onboard_time": 1715823318,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241387,
+        "num": 241387,
+        "word": "二手玫瑰乐队吉他手姚澜暂别演出",
+        "onboard_time": 1715829259,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233876,
+        "num": 233876,
+        "word": "杨迪朋友圈到底有多少艺人",
+        "onboard_time": 1715828538,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223890,
+        "num": 223890,
+        "word": "何炅曾说歌手对张杰是内心的历练",
+        "onboard_time": 1715819238,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221502,
+        "num": 221502,
+        "word": "aespa预录舞台着火",
+        "onboard_time": 1715822897,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215602,
+        "num": 215602,
+        "word": "新华社专访普京",
+        "onboard_time": 1715791635,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 204788,
+        "num": 204788,
+        "word": "每天洗头有什么危害吗",
+        "onboard_time": 1715821879,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201036,
+        "num": 201036,
+        "word": "肝不好真的会让人变丑",
+        "onboard_time": 1715815275,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198987,
+        "num": 198987,
+        "word": "迪丽热巴地下城与勇士预热",
+        "onboard_time": 1715826079,
+        "rank": 36,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 198186,
+        "num": 198186,
+        "word": "电影传说定档",
+        "onboard_time": 1715828117,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194774,
+        "num": 194774,
+        "word": "外国小哥挑战吃完一整箱的草莓",
+        "onboard_time": 1715828718,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192996,
+        "num": 192996,
+        "word": "马嘉祺说灿烂的花园救了我",
+        "onboard_time": 1715828658,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189726,
+        "num": 189726,
+        "word": "白鹿萧邦品牌大使",
+        "onboard_time": 1715827937,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179857,
+        "num": 179857,
+        "word": "再就业男团首次唱电影主题曲",
+        "onboard_time": 1715827998,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177207,
+        "num": 177207,
+        "word": "李健献唱庆余年2OST有生之年",
+        "onboard_time": 1715828240,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174174,
+        "num": 174174,
+        "word": "阿勒泰治好了我的精神内耗",
+        "onboard_time": 1715826138,
+        "rank": 43,
+        "category": "作品衍生,旅游"
+      },
+      {
+        "raw_hot": 162712,
+        "num": 162712,
+        "word": "苹果在iPhone和iPad推出眼动追踪功能",
+        "onboard_time": 1715827218,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145230,
+        "num": 145230,
+        "word": "俄罗斯总统普京抵达北京",
+        "onboard_time": 1715815155,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139529,
+        "num": 139529,
+        "word": "十个勤天算不算歌手",
+        "onboard_time": 1715820619,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134152,
+        "num": 134152,
+        "word": "韩红想要郝蕾的孩子",
+        "onboard_time": 1715819238,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128790,
+        "num": 128790,
+        "word": "陕西全面取消普通高中跨市招生",
+        "onboard_time": 1715819178,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115958,
+        "num": 115958,
+        "word": "大卫科波菲尔被指控性侵",
+        "onboard_time": 1715826618,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励北京市八达岭长城脚下的乡亲们#"
+    }
+  }
+}

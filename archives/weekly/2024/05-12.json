@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715827293612,
+  "endTime": 1715829759666,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1416684,
+      "num": 1416684,
+      "word": "霸王茶姬免单",
+      "onboard_time": 1715829678,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1416171,
       "num": 1416171,
       "word": "南京林业大学宋凯",
@@ -473,6 +481,14 @@
       "onboard_time": 1715729955,
       "rank": 1,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 1382761,
+      "num": 1382761,
+      "word": "现在我是小姨妈的男朋友了",
+      "onboard_time": 1715826138,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1377458,
@@ -659,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1220189,
+      "num": 1220189,
+      "word": "金玟庭吸入浓烟中止录制",
+      "onboard_time": 1715827697,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1215588,
       "num": 1215588,
       "word": "优酷片单",
@@ -744,6 +768,14 @@
       "word": "国家电网回应6月1日电费涨价",
       "onboard_time": 1715599938,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1144609,
+      "num": 1144609,
+      "word": "女子遭色诱沦陷拉丈夫同做间谍",
+      "onboard_time": 1715827397,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 918922,
-      "num": 285589,
+      "num": 338965,
       "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
       "onboard_time": 1715785639,
       "rank": 22,
@@ -1145,14 +1177,6 @@
       "onboard_time": 1715745441,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 913397,
-      "num": 913397,
-      "word": "现在我是小姨妈的男朋友了",
-      "onboard_time": 1715826138,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 906078,
@@ -2147,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621754,
+      "num": 621754,
+      "word": "单身女性迎来买房热潮",
+      "onboard_time": 1715828057,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619734,
       "num": 349887,
       "word": "本周狗屎运最旺的星座",
@@ -2321,6 +2353,14 @@
       "onboard_time": 1715662041,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 579528,
+      "num": 365305,
+      "word": "麻辣烫建议放一会再吃",
+      "onboard_time": 1715824097,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 576359,
@@ -3051,6 +3091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469937,
+      "num": 469937,
+      "word": "戛纳 玉皇大帝",
+      "onboard_time": 1715828419,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 466754,
       "num": 466754,
       "word": "那英 小说",
@@ -3177,6 +3225,14 @@
       "onboard_time": 1715693059,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 454222,
+      "num": 365226,
+      "word": "健身房塌起房来比娱乐圈还猛",
+      "onboard_time": 1715826857,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 452451,
@@ -3441,6 +3497,14 @@
       "onboard_time": 1715630830,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 420446,
+      "num": 420446,
+      "word": "普京访华",
+      "onboard_time": 1715815755,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 420324,
@@ -4067,6 +4131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367344,
+      "num": 367344,
+      "word": "于正当年差点拍庆余年",
+      "onboard_time": 1715827579,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363329,
       "num": 261587,
       "word": "香港大学偶遇奚梦瑶上课",
@@ -4177,14 +4249,6 @@
       "onboard_time": 1715584639,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353348,
-      "num": 275989,
-      "word": "麻辣烫建议放一会再吃",
-      "onboard_time": 1715824097,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 353273,
@@ -4843,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297316,
+      "num": 297316,
+      "word": "斯洛伐克总理身中多枪",
+      "onboard_time": 1715826016,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 297157,
       "num": 297157,
       "word": "于适把周依然眼睛认成了娜然",
@@ -4907,14 +4979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 292354,
-      "num": 292354,
-      "word": "斯洛伐克总理身中多枪",
-      "onboard_time": 1715826016,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 291478,
       "num": 291478,
       "word": "繁花等剧为腾讯带来1.16亿收入",
@@ -4945,14 +5009,6 @@
       "onboard_time": 1715565198,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287512,
-      "num": 287512,
-      "word": "普京访华",
-      "onboard_time": 1715815755,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 287287,
@@ -5017,6 +5073,14 @@
       "onboard_time": 1715668159,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283151,
+      "num": 283151,
+      "word": "唐嫣戛纳官方镜头特写",
+      "onboard_time": 1715827458,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 282647,
@@ -5169,14 +5233,6 @@
       "onboard_time": 1715559979,
       "rank": 24,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 273869,
-      "num": 222577,
-      "word": "健身房塌起房来比娱乐圈还猛",
-      "onboard_time": 1715826857,
-      "rank": 24,
-      "category": "运动健身"
     },
     {
       "raw_hot": 273568,
@@ -5441,6 +5497,14 @@
       "onboard_time": 1715686219,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261008,
+      "num": 261008,
+      "word": "大睿睿小马甲有宝宝了",
+      "onboard_time": 1715828777,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 260395,
@@ -5875,6 +5939,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 241387,
+      "num": 241387,
+      "word": "二手玫瑰乐队吉他手姚澜暂别演出",
+      "onboard_time": 1715829259,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 241165,
       "num": 241165,
       "word": "谁懂吴彦姝父亲这句儿多母苦的含金量",
@@ -6024,6 +6096,14 @@
       "word": "让黄丽玲插个队吧",
       "onboard_time": 1715569519,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233876,
+      "num": 233876,
+      "word": "杨迪朋友圈到底有多少艺人",
+      "onboard_time": 1715828538,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -7147,6 +7227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198186,
+      "num": 198186,
+      "word": "电影传说定档",
+      "onboard_time": 1715828117,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198125,
       "num": 158149,
       "word": "我的阿勒泰 爱会从眼里流出来",
@@ -7331,6 +7419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 194774,
+      "num": 194774,
+      "word": "外国小哥挑战吃完一整箱的草莓",
+      "onboard_time": 1715828718,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194731,
       "num": 194731,
       "word": "刘诗诗盘发梦回任如意",
@@ -7465,6 +7561,14 @@
       "onboard_time": 1715474717,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192996,
+      "num": 192996,
+      "word": "马嘉祺说灿烂的花园救了我",
+      "onboard_time": 1715828658,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 192926,
@@ -7681,6 +7785,14 @@
       "onboard_time": 1715642236,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 189726,
+      "num": 189726,
+      "word": "白鹿萧邦品牌大使",
+      "onboard_time": 1715827937,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 189571,
@@ -7987,6 +8099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179857,
+      "num": 179857,
+      "word": "再就业男团首次唱电影主题曲",
+      "onboard_time": 1715827998,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179534,
       "num": 179534,
       "word": "我拿你当兄弟你拿我刷业绩",
@@ -8105,6 +8225,14 @@
       "onboard_time": 1715688559,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 177207,
+      "num": 177207,
+      "word": "李健献唱庆余年2OST有生之年",
+      "onboard_time": 1715828240,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 177109,
@@ -8865,6 +8993,14 @@
       "onboard_time": 1715677398,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162712,
+      "num": 162712,
+      "word": "苹果在iPhone和iPad推出眼动追踪功能",
+      "onboard_time": 1715827218,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 162667,
@@ -11187,14 +11323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 104799,
-      "num": 104799,
-      "word": "苹果在iPhone和iPad推出眼动追踪功能",
-      "onboard_time": 1715827218,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 104699,
       "num": 104699,
       "word": "陈天润贺卡",
@@ -11601,6 +11729,14 @@
       "onboard_time": 1715759718,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 80221,
+      "num": 372155,
+      "word": "5月新番西游笔绘西行",
+      "onboard_time": 1715828837,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 80065,
@@ -12465,6 +12601,14 @@
       "onboard_time": 1715588900,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 7372,
+      "num": 1229492,
+      "word": "高质量发展调研行",
+      "onboard_time": 1715829678,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522,
