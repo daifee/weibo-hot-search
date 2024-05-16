@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715822256015,
+  "endTime": 1715823489445,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -697,6 +697,14 @@
       "onboard_time": 1715508921,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1174959,
+      "num": 709535,
+      "word": "韩红 最牛伸手党",
+      "onboard_time": 1715821399,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1173964,
@@ -1435,6 +1443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 799360,
+      "num": 799360,
+      "word": "17岁体育生左膝长骨瘤医生错切右膝",
+      "onboard_time": 1715822417,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 792172,
       "num": 792172,
       "word": "六道 花少北",
@@ -1875,6 +1891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 668215,
+      "num": 668215,
+      "word": "陕西全面取消普通高中跨市招生",
+      "onboard_time": 1715819178,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 667854,
       "num": 667854,
       "word": "庐山瀑布",
@@ -2083,14 +2107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620121,
-      "num": 620121,
-      "word": "陕西全面取消普通高中跨市招生",
-      "onboard_time": 1715819178,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 619734,
       "num": 349887,
       "word": "本周狗屎运最旺的星座",
@@ -2211,7 +2227,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 584928,
+      "raw_hot": 588591,
       "num": 505206,
       "word": "韩红想要郝蕾的孩子",
       "onboard_time": 1715819238,
@@ -2531,6 +2547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 524335,
+      "num": 460122,
+      "word": "猫 车顶有学员通过",
+      "onboard_time": 1715818938,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 524000,
       "num": 364943,
       "word": "兮夜队友",
@@ -2803,14 +2827,6 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 494768,
-      "num": 494768,
-      "word": "韩红 最牛伸手党",
-      "onboard_time": 1715821399,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 494166,
       "num": 258640,
       "word": "我是中国歌手韩红",
@@ -2897,6 +2913,14 @@
       "onboard_time": 1715568919,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 487140,
+      "num": 465625,
+      "word": "何炅曾说歌手对张杰是内心的历练",
+      "onboard_time": 1715819238,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 486202,
@@ -3043,14 +3067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 465625,
-      "num": 465625,
-      "word": "何炅曾说歌手对张杰是内心的历练",
-      "onboard_time": 1715819238,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 464145,
       "num": 464145,
       "word": "芒果妈妈微博发声",
@@ -3073,14 +3089,6 @@
       "onboard_time": 1715738057,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 460122,
-      "num": 460122,
-      "word": "猫 车顶有学员通过",
-      "onboard_time": 1715818938,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 460013,
@@ -3459,6 +3467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 413222,
+      "num": 241195,
+      "word": "每天洗头有什么危害吗",
+      "onboard_time": 1715821879,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 411444,
       "num": 411444,
       "word": "幼儿园被指甲醛超标致60多人流血",
@@ -3531,6 +3547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 408068,
+      "num": 354008,
+      "word": "十个勤天算不算歌手",
+      "onboard_time": 1715820619,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407567,
       "num": 407567,
       "word": "金秀贤一口气发了42张图",
@@ -3593,14 +3617,6 @@
       "onboard_time": 1715605519,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 405801,
-      "num": 241562,
-      "word": "十个勤天算不算歌手",
-      "onboard_time": 1715820619,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 404106,
@@ -5235,14 +5251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265485,
-      "num": 241195,
-      "word": "每天洗头有什么危害吗",
-      "onboard_time": 1715821879,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 265377,
       "num": 265377,
       "word": "珠帘玉幕",
@@ -5315,6 +5323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261435,
+      "num": 199267,
+      "word": "aespa预录舞台着火",
+      "onboard_time": 1715822897,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 261396,
       "num": 261396,
       "word": "江疏影 我理想中的旅游搭子",
@@ -5361,6 +5377,14 @@
       "onboard_time": 1715737998,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259253,
+      "num": 259253,
+      "word": "中方对菲律宾的善意和耐心不是无止境的",
+      "onboard_time": 1715823019,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 258682,
@@ -5657,6 +5681,14 @@
       "onboard_time": 1715782819,
       "rank": 27,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 247742,
+      "num": 219424,
+      "word": "G社拍的佟丽娅关晓彤唐嫣",
+      "onboard_time": 1715821697,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247671,
@@ -6225,14 +6257,6 @@
       "onboard_time": 1715567718,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219424,
-      "num": 219424,
-      "word": "G社拍的佟丽娅关晓彤唐嫣",
-      "onboard_time": 1715821697,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 219411,
@@ -7867,6 +7891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179796,
+      "num": 179796,
+      "word": "刘雨昕奥运会资格系列赛表演",
+      "onboard_time": 1715821277,
+      "rank": 39,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 179534,
       "num": 179534,
       "word": "我拿你当兄弟你拿我刷业绩",
@@ -7945,6 +7977,14 @@
       "onboard_time": 1715604739,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178149,
+      "num": 178149,
+      "word": "沈小婷续约",
+      "onboard_time": 1715823318,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 177987,
@@ -8427,14 +8467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167655,
-      "num": 167655,
-      "word": "刘雨昕奥运会资格系列赛表演",
-      "onboard_time": 1715821277,
-      "rank": 39,
-      "category": "作品衍生,体育"
-    },
-    {
       "raw_hot": 167512,
       "num": 167512,
       "word": "彭于晏戛纳红毯",
@@ -8585,6 +8617,14 @@
       "onboard_time": 1715733438,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164785,
+      "num": 164785,
+      "word": "布朗尼13分",
+      "onboard_time": 1715822538,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 164567,
@@ -9985,6 +10025,14 @@
       "onboard_time": 1715491699,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130948,
+      "num": 130948,
+      "word": "王者大司命新皮肤",
+      "onboard_time": 1715823258,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 130733,
@@ -11443,6 +11491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79463,
+      "num": 494775,
+      "word": "花花的霸姐气质藏不住了",
+      "onboard_time": 1715820138,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79418,
       "num": 430370,
       "word": "爸爸公主抱妈妈让小公主嫉妒了",
@@ -11473,14 +11529,6 @@
       "onboard_time": 1715429480,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77031,
-      "num": 494775,
-      "word": "花花的霸姐气质藏不住了",
-      "onboard_time": 1715820138,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76986,

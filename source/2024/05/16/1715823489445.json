@@ -1,0 +1,410 @@
+{
+  "runTime": 1715823489445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1227024,
+        "num": 1227024,
+        "word": "关晓彤黑天鹅高定",
+        "onboard_time": 1715817617,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 799360,
+        "num": 799360,
+        "word": "17岁体育生左膝长骨瘤医生错切右膝",
+        "onboard_time": 1715822417,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20467,
+        "num": 729323,
+        "word": "2024年全球贸易投资促进峰会",
+        "onboard_time": 1715780600,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174959,
+        "num": 709535,
+        "word": "韩红 最牛伸手党",
+        "onboard_time": 1715821399,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681837,
+        "num": 681837,
+        "word": "俄罗斯总统普京抵达北京",
+        "onboard_time": 1715815155,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 668215,
+        "num": 668215,
+        "word": "陕西全面取消普通高中跨市招生",
+        "onboard_time": 1715819178,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 729373,
+        "num": 619975,
+        "word": "王力宏 歌手",
+        "onboard_time": 1715785819,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680188,
+        "num": 583625,
+        "word": "庆余年2",
+        "onboard_time": 1715815755,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403008,
+        "num": 403008,
+        "word": "网友吐槽长沙机场一份蒸蛋32元",
+        "onboard_time": 1715818158,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 79463,
+        "num": 399454,
+        "word": "花花的霸姐气质藏不住了",
+        "onboard_time": 1715820138,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095133,
+        "num": 393120,
+        "word": "曝iOS17.5恢复已删除多年照片",
+        "onboard_time": 1715820197,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 588591,
+        "num": 385171,
+        "word": "韩红想要郝蕾的孩子",
+        "onboard_time": 1715819238,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524335,
+        "num": 377733,
+        "word": "猫 车顶有学员通过",
+        "onboard_time": 1715818938,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 509467,
+        "num": 369003,
+        "word": "kep1er续约将七人组活动",
+        "onboard_time": 1715821098,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487140,
+        "num": 365852,
+        "word": "何炅曾说歌手对张杰是内心的历练",
+        "onboard_time": 1715819238,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408068,
+        "num": 354008,
+        "word": "十个勤天算不算歌手",
+        "onboard_time": 1715820619,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352142,
+        "num": 352142,
+        "word": "肿瘤医院外化疗宝宝排队领汤看哭",
+        "onboard_time": 1715818579,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324326,
+        "num": 324326,
+        "word": "云南将迎1亿只以上蝴蝶大爆发",
+        "onboard_time": 1715803151,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259253,
+        "num": 259253,
+        "word": "中方对菲律宾的善意和耐心不是无止境的",
+        "onboard_time": 1715823019,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206467,
+        "num": 206467,
+        "word": "普京访华",
+        "onboard_time": 1715815755,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 629117,
+        "num": 205278,
+        "word": "肝不好真的会让人变丑",
+        "onboard_time": 1715815275,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 528378,
+        "num": 204880,
+        "word": "16岁女孩洗澡时浴屏爆裂缝合20多针",
+        "onboard_time": 1715785639,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413222,
+        "num": 203197,
+        "word": "每天洗头有什么危害吗",
+        "onboard_time": 1715821879,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 394307,
+        "num": 201205,
+        "word": "怀疑是肿瘤没想到是花生米作祟",
+        "onboard_time": 1715816176,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 318885,
+        "num": 199422,
+        "word": "佟丽娅关晓彤唐嫣戛纳同框",
+        "onboard_time": 1715818518,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261435,
+        "num": 199267,
+        "word": "aespa预录舞台着火",
+        "onboard_time": 1715822897,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247742,
+        "num": 197889,
+        "word": "G社拍的佟丽娅关晓彤唐嫣",
+        "onboard_time": 1715821697,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236862,
+        "num": 195990,
+        "word": "李溪芮张腾与代驾发生冲突全过程",
+        "onboard_time": 1715783659,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225012,
+        "num": 194406,
+        "word": "美国18岁女罪犯因颜值超高爆红",
+        "onboard_time": 1715782458,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220256,
+        "num": 193133,
+        "word": "韩佩泉报名歌手成功",
+        "onboard_time": 1715783538,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219418,
+        "num": 191032,
+        "word": "终于知道为什么打工这么烦了",
+        "onboard_time": 1715815637,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210714,
+        "num": 189575,
+        "word": "费可死了",
+        "onboard_time": 1715779337,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189455,
+        "num": 189455,
+        "word": "iPad用户换机周期逐年增加",
+        "onboard_time": 1715816597,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179796,
+        "num": 179796,
+        "word": "刘雨昕奥运会资格系列赛表演",
+        "onboard_time": 1715821277,
+        "rank": 33,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 178149,
+        "num": 178149,
+        "word": "沈小婷续约",
+        "onboard_time": 1715823318,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174854,
+        "num": 174854,
+        "word": "Jennie素颜vs化妆",
+        "onboard_time": 1715816176,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171637,
+        "num": 171637,
+        "word": "焦点访谈揭小升初暗自掐尖招生",
+        "onboard_time": 1715818879,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 170952,
+        "num": 170952,
+        "word": "王一博任奥运资格赛上海站推广大使",
+        "onboard_time": 1715819778,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 170163,
+        "num": 170163,
+        "word": "中俄元首外交",
+        "onboard_time": 1715820259,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164785,
+        "num": 164785,
+        "word": "布朗尼13分",
+        "onboard_time": 1715822538,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164296,
+        "num": 164296,
+        "word": "这口红色号是越来越难懂了",
+        "onboard_time": 1715818938,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148021,
+        "num": 148021,
+        "word": "谁懂吴彦姝父亲这句儿多母苦的含金量",
+        "onboard_time": 1715817078,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143206,
+        "num": 143206,
+        "word": "王金金 歌手",
+        "onboard_time": 1715818099,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139113,
+        "num": 139113,
+        "word": "新华社专访普京",
+        "onboard_time": 1715791635,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137990,
+        "num": 137990,
+        "word": "金智媛机场人气",
+        "onboard_time": 1715820798,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137401,
+        "num": 137401,
+        "word": "不栓绳或成恶犬伤人最大诱因",
+        "onboard_time": 1715821938,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137023,
+        "num": 137023,
+        "word": "歌手2024揭榜歌手歌单",
+        "onboard_time": 1715777538,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132212,
+        "num": 132212,
+        "word": "尼格买提 莫奈花园",
+        "onboard_time": 1715788278,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130948,
+        "num": 130948,
+        "word": "王者大司命新皮肤",
+        "onboard_time": 1715823258,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130632,
+        "num": 130632,
+        "word": "斯洛伐克总理遭枪击",
+        "onboard_time": 1715779938,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#建立绿色低碳循环经济体系#"
+    }
+  }
+}
