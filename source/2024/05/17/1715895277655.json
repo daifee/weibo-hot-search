@@ -1,0 +1,410 @@
+{
+  "runTime": 1715895277655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 119476,
+        "num": 119476,
+        "word": "王楚然演技 尴尬",
+        "onboard_time": 1715869220,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95777,
+        "num": 95777,
+        "word": "大凉山血色彩礼30多万元涉两条人命",
+        "onboard_time": 1715869341,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11482,
+        "num": 78732,
+        "word": "中国有约",
+        "onboard_time": 1715867300,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96248,
+        "num": 77595,
+        "word": "庆余年 剧王",
+        "onboard_time": 1715861296,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74683,
+        "num": 74683,
+        "word": "女排",
+        "onboard_time": 1715890510,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68732,
+        "num": 68732,
+        "word": "菲律宾船只受中方震慑已驶离",
+        "onboard_time": 1715872400,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93826,
+        "num": 66681,
+        "word": "庆余年2的观后感",
+        "onboard_time": 1715874559,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88508,
+        "num": 65608,
+        "word": "周杰伦哭了",
+        "onboard_time": 1715870779,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61906,
+        "num": 61906,
+        "word": "妇科检查之痛要怪鸭嘴钳吗",
+        "onboard_time": 1715885831,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53571,
+        "num": 53571,
+        "word": "高速上逼停小车的2民警被停职",
+        "onboard_time": 1715865440,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85173,
+        "num": 53010,
+        "word": "坐火车40小时没及时换卫生巾感染送医",
+        "onboard_time": 1715863758,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50136,
+        "num": 50136,
+        "word": "男童狂犬病病毒免疫失败一串问号需要解答",
+        "onboard_time": 1715874199,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48968,
+        "num": 48968,
+        "word": "从西安买7斤普罗旺斯西红柿回广州",
+        "onboard_time": 1715875818,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8419,
+        "num": 45060,
+        "word": "环卫工剐蹭宝马后原地等待车主",
+        "onboard_time": 1715884572,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44307,
+        "num": 44307,
+        "word": "庆余年收视率",
+        "onboard_time": 1715866580,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40584,
+        "num": 40584,
+        "word": "普京向人民英雄纪念碑敬献花圈",
+        "onboard_time": 1715860817,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39872,
+        "num": 39872,
+        "word": "谁能认得出这是小鬼",
+        "onboard_time": 1715881693,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41028,
+        "num": 36231,
+        "word": "腾讯视频会员",
+        "onboard_time": 1715864299,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32306,
+        "num": 32306,
+        "word": "中国科协辟谣阿波罗登月造假",
+        "onboard_time": 1715859377,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19808,
+        "num": 31426,
+        "word": "警方通报残疾女子街头直播遭拍臀",
+        "onboard_time": 1715867599,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69681,
+        "num": 31118,
+        "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
+        "onboard_time": 1715870541,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46879,
+        "num": 28993,
+        "word": "李佳琦称今年618大促是难的",
+        "onboard_time": 1715849237,
+        "rank": 21,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 37225,
+        "num": 27735,
+        "word": "庆余年2老金头下线",
+        "onboard_time": 1715877976,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27573,
+        "num": 27573,
+        "word": "民警高速亮证查车疑穿4400元T恤",
+        "onboard_time": 1715863219,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25875,
+        "num": 25875,
+        "word": "花少北 p聊天记录",
+        "onboard_time": 1715853258,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 35164,
+        "num": 25457,
+        "word": "三皇子 甲方",
+        "onboard_time": 1715874679,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27586,
+        "num": 25269,
+        "word": "黄子韬只承认鹿晗比自己帅",
+        "onboard_time": 1715864419,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23655,
+        "num": 23655,
+        "word": "专家称只有房价不跌老百姓才会回归购房市场",
+        "onboard_time": 1715856798,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34411,
+        "num": 23055,
+        "word": "李沁看得出是公主",
+        "onboard_time": 1715862619,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8884,
+        "num": 22016,
+        "word": "他把家改造成山里娃的24小时书屋",
+        "onboard_time": 1715878215,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21885,
+        "num": 21885,
+        "word": "你脸上的痘痘可能是吃出来的",
+        "onboard_time": 1715865319,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32121,
+        "num": 21131,
+        "word": "言冰云",
+        "onboard_time": 1715845879,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20217,
+        "num": 20217,
+        "word": "杭州天空疑似掉陨石了",
+        "onboard_time": 1715869760,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19880,
+        "num": 19880,
+        "word": "杨迪说和贾玲一起旅行很开心",
+        "onboard_time": 1715894590,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29537,
+        "num": 19838,
+        "word": "杨幂包场庆余年",
+        "onboard_time": 1715864479,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19077,
+        "num": 19077,
+        "word": "女子100多元买到报仇榴莲",
+        "onboard_time": 1715870360,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18991,
+        "num": 18991,
+        "word": "医生建议榴莲1天最多吃1瓣",
+        "onboard_time": 1715841018,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27785,
+        "num": 18623,
+        "word": "范思辙胖了",
+        "onboard_time": 1715869940,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17918,
+        "num": 17918,
+        "word": "李娟 我的讨好型人格",
+        "onboard_time": 1715889610,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 16351,
+        "num": 17914,
+        "word": "相似度高的人更容易成为伴侣",
+        "onboard_time": 1715871979,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26029,
+        "num": 17900,
+        "word": "范闲一死叔圈大乱",
+        "onboard_time": 1715864899,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16004,
+        "num": 17872,
+        "word": "陆虎在机场捡了个活儿",
+        "onboard_time": 1715877316,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14596,
+        "num": 17861,
+        "word": "iPhone数据安全遭网友质疑",
+        "onboard_time": 1715886492,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 24002,
+        "num": 17835,
+        "word": "王楚然 假笑",
+        "onboard_time": 1715867480,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13961,
+        "num": 17815,
+        "word": "电影传说",
+        "onboard_time": 1715883132,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13949,
+        "num": 17811,
+        "word": "这猫像极了找工作的我",
+        "onboard_time": 1715891710,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20592,
+        "num": 17782,
+        "word": "庆余年2",
+        "onboard_time": 1715858657,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13515,
+        "num": 17767,
+        "word": "周杰伦福州演唱会",
+        "onboard_time": 1715856738,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12524,
+        "num": 17751,
+        "word": "BLG不敌GEN1比3落败",
+        "onboard_time": 1715863878,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16030,
+        "num": 17744,
+        "word": "李沁薄纱抹胸裙",
+        "onboard_time": 1715894351,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#为中俄友好的世代传承注入新动力#"
+    }
+  }
+}
