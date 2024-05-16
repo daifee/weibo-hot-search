@@ -1,0 +1,410 @@
+{
+  "runTime": 1715848532209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1386244,
+        "num": 1386244,
+        "word": "医生建议榴莲1天最多吃1瓣",
+        "onboard_time": 1715841018,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1164330,
+        "num": 1164330,
+        "word": "花少北道歉",
+        "onboard_time": 1715838978,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 97260,
+        "num": 873560,
+        "word": "发现最美铁路",
+        "onboard_time": 1715844498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219940,
+        "num": 850353,
+        "word": "言冰云",
+        "onboard_time": 1715845879,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 749623,
+        "num": 749623,
+        "word": "歌手导演洪涛选张杰逆战的原因",
+        "onboard_time": 1715842337,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387182,
+        "num": 663180,
+        "word": "我海警依法对菲非法聚集船只现场管制",
+        "onboard_time": 1715843237,
+        "rank": 5,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 589200,
+        "num": 589200,
+        "word": "于正说庆余年剧宣low",
+        "onboard_time": 1715843418,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580529,
+        "num": 580529,
+        "word": "李玟无缘金曲奖特别贡献奖",
+        "onboard_time": 1715845038,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 465902,
+        "num": 465902,
+        "word": "lex 复活赛",
+        "onboard_time": 1715846418,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 73131,
+        "num": 465612,
+        "word": "福宝一点窝头渣都没浪费",
+        "onboard_time": 1715844619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822999,
+        "num": 465599,
+        "word": "花少北承认煎蛋恋情",
+        "onboard_time": 1715839219,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 467108,
+        "num": 465543,
+        "word": "周也穿了套QQ秀",
+        "onboard_time": 1715846418,
+        "rank": 11,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 465365,
+        "num": 465365,
+        "word": "韩红小号",
+        "onboard_time": 1715837539,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378303,
+        "num": 378303,
+        "word": "康辉近距离感受欢迎普京仪式现场",
+        "onboard_time": 1715836818,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 407426,
+        "num": 376970,
+        "word": "北大教授称未来几年房价或会明显上涨",
+        "onboard_time": 1715840538,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34714,
+        "num": 363996,
+        "word": "小范大人新动作",
+        "onboard_time": 1715846358,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363958,
+        "num": 363958,
+        "word": "12306回应火车票改签也要收手续费",
+        "onboard_time": 1715835740,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354138,
+        "num": 354138,
+        "word": "林更新别更新关晓彤关了吧",
+        "onboard_time": 1715839519,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353862,
+        "num": 353862,
+        "word": "滕梓荆OUT",
+        "onboard_time": 1715845278,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285155,
+        "num": 285155,
+        "word": "五旬男子吊脖锻炼意外身亡",
+        "onboard_time": 1715835019,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278268,
+        "num": 278268,
+        "word": "残疾女孩街头直播遭陌生男子拍屁股",
+        "onboard_time": 1715839817,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266009,
+        "num": 266009,
+        "word": "福宝",
+        "onboard_time": 1715839457,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250750,
+        "num": 250750,
+        "word": "苏运莹入围",
+        "onboard_time": 1715842638,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244632,
+        "num": 244632,
+        "word": "庆余年",
+        "onboard_time": 1715841858,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235391,
+        "num": 235391,
+        "word": "法院拍卖被执行人270只避孕套",
+        "onboard_time": 1715837478,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235293,
+        "num": 235293,
+        "word": "康师傅方便面即将全线涨价",
+        "onboard_time": 1715830758,
+        "rank": 25,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 232253,
+        "num": 232253,
+        "word": "张杰张若昀都不舍得吼女儿",
+        "onboard_time": 1715847918,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230644,
+        "num": 230644,
+        "word": "建议讨好型人格每日读十遍",
+        "onboard_time": 1715843478,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227207,
+        "num": 227207,
+        "word": "我叫范闲 我重生了",
+        "onboard_time": 1715834599,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217012,
+        "num": 217012,
+        "word": "黄好厉害",
+        "onboard_time": 1715848097,
+        "rank": 29,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 216008,
+        "num": 216008,
+        "word": "福宝下午呼呼大睡晚上嘎嘎炫饭",
+        "onboard_time": 1715843658,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55871,
+        "num": 214088,
+        "word": "艾铁成称乐道L60订单量远超预期",
+        "onboard_time": 1715847557,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 213548,
+        "num": 213548,
+        "word": "山东一村集体3000多万元征地补偿款被理财",
+        "onboard_time": 1715843837,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212616,
+        "num": 212616,
+        "word": "白鹿一秒猜出自己的表情包",
+        "onboard_time": 1715847017,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201829,
+        "num": 201829,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1715829678,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197017,
+        "num": 197017,
+        "word": "魅族21note",
+        "onboard_time": 1715847498,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194263,
+        "num": 194263,
+        "word": "现在我是小姨妈的男朋友了",
+        "onboard_time": 1715826138,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191688,
+        "num": 191688,
+        "word": "天水麻辣烫店开始扎堆倒闭",
+        "onboard_time": 1715848218,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181915,
+        "num": 181915,
+        "word": "林孝埈把世锦赛金牌献给河北",
+        "onboard_time": 1715842817,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178829,
+        "num": 178829,
+        "word": "TF家族出道战",
+        "onboard_time": 1715847138,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169635,
+        "num": 169635,
+        "word": "向佐女儿跟郭碧婷说你老公找你",
+        "onboard_time": 1715845697,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168353,
+        "num": 168353,
+        "word": "松鼠偷吃了遗留在户外发酵的梨子",
+        "onboard_time": 1715841858,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167751,
+        "num": 167751,
+        "word": "蔡依林演唱会嘉宾 王俊凯",
+        "onboard_time": 1715840057,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166730,
+        "num": 166730,
+        "word": "林俊杰回应金曲奖入围",
+        "onboard_time": 1715845638,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152301,
+        "num": 152301,
+        "word": "奔跑吧终于下水了",
+        "onboard_time": 1715848398,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150339,
+        "num": 150339,
+        "word": "陈楚生和他的麻吉兄弟",
+        "onboard_time": 1715847138,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147973,
+        "num": 147973,
+        "word": "误打误撞进了想干到退休的公司",
+        "onboard_time": 1715840419,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140287,
+        "num": 140287,
+        "word": "袁娅维巡演",
+        "onboard_time": 1715847857,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127231,
+        "num": 127231,
+        "word": "健身房塌起房来比娱乐圈还猛",
+        "onboard_time": 1715826857,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 126290,
+        "num": 126290,
+        "word": "敖子逸路透",
+        "onboard_time": 1715846658,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎普京访华#"
+    }
+  }
+}

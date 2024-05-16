@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715847558144,
+  "endTime": 1715848532209,
   "band_list": [
     {
       "raw_hot": 3876491,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1219940,
+      "num": 1094032,
+      "word": "言冰云",
+      "onboard_time": 1715845879,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1210222,
       "num": 1210222,
       "word": "花少北承认煎蛋恋情",
@@ -121,14 +129,6 @@
       "onboard_time": 1715830999,
       "rank": 3,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 1094032,
-      "num": 1094032,
-      "word": "言冰云",
-      "onboard_time": 1715845879,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1060563,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 580529,
+      "num": 580529,
+      "word": "李玟无缘金曲奖特别贡献奖",
+      "onboard_time": 1715845038,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 579528,
       "num": 365305,
       "word": "麻辣烫建议放一会再吃",
@@ -427,14 +435,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 501592,
-      "num": 501592,
-      "word": "李玟无缘金曲奖特别贡献奖",
-      "onboard_time": 1715845038,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 493952,
       "num": 493952,
       "word": "李溪芮张腾与代驾发生冲突全过程",
@@ -457,6 +457,22 @@
       "onboard_time": 1715819238,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467108,
+      "num": 465543,
+      "word": "周也穿了套QQ秀",
+      "onboard_time": 1715846418,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 465902,
+      "num": 465902,
+      "word": "lex 复活赛",
+      "onboard_time": 1715846418,
+      "rank": 8,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 463764,
@@ -555,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 405449,
-      "num": 405449,
-      "word": "lex 复活赛",
-      "onboard_time": 1715846418,
-      "rank": 8,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 400623,
       "num": 400623,
       "word": "迪丽热巴刘宇宁张凌赫抱团",
@@ -603,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 387182,
+      "num": 663180,
+      "word": "我海警依法对菲非法聚集船只现场管制",
+      "onboard_time": 1715843237,
+      "rank": 26,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 378365,
       "num": 378365,
       "word": "肿瘤医院外化疗宝宝排队领汤看哭",
@@ -627,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 353862,
+      "num": 353862,
+      "word": "滕梓荆OUT",
+      "onboard_time": 1715845278,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350111,
       "num": 241275,
       "word": "美国18岁女罪犯因颜值超高爆红",
@@ -640,14 +664,6 @@
       "word": "庆余年2的取景是5A级景区",
       "onboard_time": 1715834960,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 344559,
-      "num": 344559,
-      "word": "滕梓荆OUT",
-      "onboard_time": 1715845278,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -683,14 +699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 333026,
-      "num": 333026,
-      "word": "周也穿了套QQ秀",
-      "onboard_time": 1715846418,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 331599,
       "num": 331599,
       "word": "蔡依林演唱会嘉宾 王俊凯",
@@ -713,14 +721,6 @@
       "onboard_time": 1715791036,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 317829,
-      "num": 470633,
-      "word": "我海警依法对菲非法聚集船只现场管制",
-      "onboard_time": 1715843237,
-      "rank": 26,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 310150,
@@ -931,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232253,
+      "num": 232253,
+      "word": "张杰张若昀都不舍得吼女儿",
+      "onboard_time": 1715847918,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230150,
       "num": 148945,
       "word": "1岁女婴被大伯母投毒致四肢瘫痪",
@@ -1003,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217012,
+      "num": 217012,
+      "word": "黄好厉害",
+      "onboard_time": 1715848097,
+      "rank": 29,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 216815,
       "num": 87509,
       "word": "睡眠真的是大脑在排毒吗",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1715782758,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212616,
+      "num": 212616,
+      "word": "白鹿一秒猜出自己的表情包",
+      "onboard_time": 1715847017,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 212223,
@@ -1147,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197017,
+      "num": 197017,
+      "word": "魅族21note",
+      "onboard_time": 1715847498,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196329,
       "num": 196329,
       "word": "周扬青好甜",
@@ -1187,20 +1219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192143,
-      "num": 192143,
-      "word": "白鹿一秒猜出自己的表情包",
-      "onboard_time": 1715847017,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191992,
       "num": 191992,
       "word": "明道亲了包贝尔一口",
       "onboard_time": 1715845337,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191688,
+      "num": 191688,
+      "word": "天水麻辣烫店开始扎堆倒闭",
+      "onboard_time": 1715848218,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190637,
@@ -1355,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169635,
+      "num": 169635,
+      "word": "向佐女儿跟郭碧婷说你老公找你",
+      "onboard_time": 1715845697,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169479,
       "num": 169479,
       "word": "林俊杰回应金曲奖入围",
@@ -1395,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157215,
-      "num": 157215,
-      "word": "向佐女儿跟郭碧婷说你老公找你",
-      "onboard_time": 1715845697,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157214,
       "num": 157214,
       "word": "蔡依林金曲奖入围",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1715843298,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152301,
+      "num": 152301,
+      "word": "奔跑吧终于下水了",
+      "onboard_time": 1715848398,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 150154,
@@ -1451,20 +1491,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 143110,
-      "num": 143110,
-      "word": "魅族21note",
-      "onboard_time": 1715847498,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 140909,
       "num": 140909,
       "word": "初夏的阿勒泰美成了壁纸",
       "onboard_time": 1715840597,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 140287,
+      "num": 140287,
+      "word": "袁娅维巡演",
+      "onboard_time": 1715847857,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 139862,
@@ -1707,6 +1747,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 97260,
+      "num": 1209971,
+      "word": "发现最美铁路",
+      "onboard_time": 1715844498,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95181,
       "num": 95181,
       "word": "王源新歌fingerprints",
@@ -1745,14 +1793,6 @@
       "onboard_time": 1715782819,
       "rank": 40,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 88090,
-      "num": 1209971,
-      "word": "发现最美铁路",
-      "onboard_time": 1715844498,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87600,
@@ -1859,8 +1899,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71739,
-      "num": 392242,
+      "raw_hot": 73131,
+      "num": 465612,
       "word": "福宝一点窝头渣都没浪费",
       "onboard_time": 1715844619,
       "rank": 16,
@@ -1899,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55871,
+      "num": 214088,
+      "word": "艾铁成称乐道L60订单量远超预期",
+      "onboard_time": 1715847557,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55774,
       "num": 216352,
       "word": "兔兔爆金币",
@@ -1924,7 +1972,7 @@
     },
     {
       "raw_hot": 37632,
-      "num": 333992,
+      "num": 363996,
       "word": "小范大人新动作",
       "onboard_time": 1715846358,
       "rank": 16,
@@ -2060,6 +2108,9 @@
     },
     {
       "word": "#习近平同俄罗斯总统普京会谈#"
+    },
+    {
+      "word": "#习近平举行仪式欢迎普京访华#"
     }
   ]
 }
