@@ -1,6 +1,6 @@
 {
   "startTime": 1715790202705,
-  "endTime": 1715851172455,
+  "endTime": 1715852075516,
   "band_list": [
     {
       "raw_hot": 3876491,
@@ -19,20 +19,20 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1959483,
+      "num": 1959483,
+      "word": "李佳琦称今年618大促是难的",
+      "onboard_time": 1715849237,
+      "rank": 0,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 1830305,
       "num": 1830305,
       "word": "王力宏 歌手",
       "onboard_time": 1715785819,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1618773,
-      "num": 1618773,
-      "word": "李佳琦称今年618大促是难的",
-      "onboard_time": 1715849237,
-      "rank": 0,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 1564883,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1443731,
+      "num": 1443731,
+      "word": "天水麻辣烫店开始扎堆倒闭",
+      "onboard_time": 1715848218,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1382761,
       "num": 1382761,
       "word": "现在我是小姨妈的男朋友了",
@@ -73,14 +81,6 @@
       "onboard_time": 1715817617,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1324118,
-      "num": 1324118,
-      "word": "天水麻辣烫店开始扎堆倒闭",
-      "onboard_time": 1715848218,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1289692,
@@ -211,6 +211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 819358,
+      "num": 819358,
+      "word": "美国人开始流行坐月子",
+      "onboard_time": 1715849657,
+      "rank": 10,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 809500,
       "num": 809500,
       "word": "林更新别更新关晓彤关了吧",
@@ -321,14 +329,6 @@
       "onboard_time": 1715843418,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 631912,
-      "num": 474760,
-      "word": "美国人开始流行坐月子",
-      "onboard_time": 1715849657,
-      "rank": 10,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 627221,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492855,
+      "num": 411998,
+      "word": "尊敬的普京总统我的老朋友",
+      "onboard_time": 1715850799,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 492511,
       "num": 403210,
       "word": "健身房塌起房来比娱乐圈还猛",
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 448024,
-      "num": 251186,
+      "num": 284381,
       "word": "张杰张若昀都不舍得吼女儿",
       "onboard_time": 1715847918,
       "rank": 26,
@@ -593,6 +601,14 @@
       "onboard_time": 1715788278,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 410965,
+      "num": 410965,
+      "word": "黄好厉害",
+      "onboard_time": 1715848097,
+      "rank": 29,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 408068,
@@ -673,14 +689,6 @@
       "onboard_time": 1715829259,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 359232,
-      "num": 359232,
-      "word": "黄好厉害",
-      "onboard_time": 1715848097,
-      "rank": 29,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 353862,
@@ -803,6 +811,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293140,
+      "num": 293140,
+      "word": "成毅ELLE首封",
+      "onboard_time": 1715851458,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 286266,
+      "num": 286266,
+      "word": "王源丁程鑫敖子逸都在长沙录综艺",
+      "onboard_time": 1715851697,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285075,
       "num": 285075,
       "word": "唐嫣戛纳官方镜头特写",
@@ -899,6 +923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 254677,
+      "num": 254677,
+      "word": "杨紫5月两本五大",
+      "onboard_time": 1715851578,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 254070,
       "num": 273214,
       "word": "李雪琴 小树不长歪长点枝丫没问题",
@@ -963,20 +995,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238753,
+      "num": 238753,
+      "word": "奔跑吧终于下水了",
+      "onboard_time": 1715848398,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235093,
       "num": 235093,
       "word": "TF家族出道战",
       "onboard_time": 1715847138,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235077,
-      "num": 235077,
-      "word": "奔跑吧终于下水了",
-      "onboard_time": 1715848398,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 234021,
@@ -1139,12 +1171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210264,
+      "num": 210264,
+      "word": "喜欢开榴莲胜过了吃榴莲",
+      "onboard_time": 1715850799,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 208869,
       "num": 208869,
       "word": "张天爱行李箱丢了",
       "onboard_time": 1715835920,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208862,
+      "num": 208862,
+      "word": "李马克solo曲MV",
+      "onboard_time": 1715851578,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 207445,
@@ -1171,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206661,
+      "num": 210857,
+      "word": "12306回应车厢吃东西被嫌味道大",
+      "onboard_time": 1715851218,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206353,
       "num": 206353,
       "word": "这口红色号是越来越难懂了",
@@ -1195,20 +1251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204209,
+      "num": 204209,
+      "word": "徐英浩三里屯",
+      "onboard_time": 1715851098,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204021,
       "num": 204021,
       "word": "敖子逸路透",
       "onboard_time": 1715846658,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202857,
-      "num": 230313,
-      "word": "尊敬的普京总统我的老朋友",
-      "onboard_time": 1715850799,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 201575,
@@ -1259,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196288,
+      "num": 196288,
+      "word": "Baolan 还是做不到吗义进",
+      "onboard_time": 1715850859,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195362,
       "num": 195362,
       "word": "陈楚生和他的麻吉兄弟",
@@ -1299,20 +1363,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191259,
+      "num": 191259,
+      "word": "周依然经纪人",
+      "onboard_time": 1715851878,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190637,
       "num": 190637,
       "word": "五条悟 复活赛",
       "onboard_time": 1715836039,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 190321,
-      "num": 190321,
-      "word": "Baolan 还是做不到吗义进",
-      "onboard_time": 1715850859,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 189726,
@@ -1515,20 +1579,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155952,
+      "num": 155952,
+      "word": "五条悟 全球趋势第一",
+      "onboard_time": 1715851819,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 153740,
       "num": 153740,
       "word": "吴幸键重拍了庆余年的结尾",
       "onboard_time": 1715843298,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153566,
-      "num": 153566,
-      "word": "喜欢开榴莲胜过了吃榴莲",
-      "onboard_time": 1715850799,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 150154,
@@ -1753,14 +1817,6 @@
       "onboard_time": 1715814074,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 120995,
-      "num": 120995,
-      "word": "徐英浩三里屯",
-      "onboard_time": 1715851098,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 118724,
@@ -2089,6 +2145,14 @@
       "onboard_time": 1715832020,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 48034,
+      "num": 340647,
+      "word": "藏在文创里的博物馆宝藏",
+      "onboard_time": 1715851878,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45389,

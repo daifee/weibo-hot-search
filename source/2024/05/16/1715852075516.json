@@ -1,0 +1,410 @@
+{
+  "runTime": 1715852075516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1959483,
+        "num": 1959483,
+        "word": "李佳琦称今年618大促是难的",
+        "onboard_time": 1715849237,
+        "rank": 0,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 1443731,
+        "num": 1443731,
+        "word": "天水麻辣烫店开始扎堆倒闭",
+        "onboard_time": 1715848218,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69954,
+        "num": 942770,
+        "word": "发现最美铁路",
+        "onboard_time": 1715844498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933676,
+        "num": 933676,
+        "word": "言冰云",
+        "onboard_time": 1715845879,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 918906,
+        "num": 918906,
+        "word": "医生建议榴莲1天最多吃1瓣",
+        "onboard_time": 1715841018,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 819358,
+        "num": 819358,
+        "word": "美国人开始流行坐月子",
+        "onboard_time": 1715849657,
+        "rank": 5,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 723215,
+        "num": 723215,
+        "word": "花少北道歉",
+        "onboard_time": 1715838978,
+        "rank": 6,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 425985,
+        "num": 425985,
+        "word": "歌手导演洪涛选张杰逆战的原因",
+        "onboard_time": 1715842337,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369767,
+        "num": 414611,
+        "word": "康辉近距离感受欢迎普京仪式现场",
+        "onboard_time": 1715836818,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222322,
+        "num": 412089,
+        "word": "我海警依法对菲非法聚集船只现场管制",
+        "onboard_time": 1715843237,
+        "rank": 9,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 492855,
+        "num": 411998,
+        "word": "尊敬的普京总统我的老朋友",
+        "onboard_time": 1715850799,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410965,
+        "num": 410965,
+        "word": "黄好厉害",
+        "onboard_time": 1715848097,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 397406,
+        "num": 397406,
+        "word": "于正说庆余年剧宣low",
+        "onboard_time": 1715843418,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393617,
+        "num": 393617,
+        "word": "周也穿了套QQ秀",
+        "onboard_time": 1715846418,
+        "rank": 13,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 363138,
+        "num": 363138,
+        "word": "林更新别更新关晓彤关了吧",
+        "onboard_time": 1715839519,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48034,
+        "num": 340647,
+        "word": "藏在文创里的博物馆宝藏",
+        "onboard_time": 1715851878,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327554,
+        "num": 327554,
+        "word": "lex 复活赛",
+        "onboard_time": 1715846418,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 296792,
+        "num": 296792,
+        "word": "庆余年",
+        "onboard_time": 1715841858,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293140,
+        "num": 293140,
+        "word": "成毅ELLE首封",
+        "onboard_time": 1715851458,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 286266,
+        "num": 286266,
+        "word": "王源丁程鑫敖子逸都在长沙录综艺",
+        "onboard_time": 1715851697,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 899657,
+        "num": 285362,
+        "word": "花少北承认煎蛋恋情",
+        "onboard_time": 1715839219,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 446848,
+        "num": 284381,
+        "word": "张杰张若昀都不舍得吼女儿",
+        "onboard_time": 1715847918,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365920,
+        "num": 283791,
+        "word": "北大教授称未来几年房价或会明显上涨",
+        "onboard_time": 1715840538,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277322,
+        "num": 277322,
+        "word": "12306回应火车票改签也要收手续费",
+        "onboard_time": 1715835740,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254677,
+        "num": 254677,
+        "word": "杨紫5月两本五大",
+        "onboard_time": 1715851578,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 36676,
+        "num": 244871,
+        "word": "艾铁成称乐道L60订单量远超预期",
+        "onboard_time": 1715847557,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 238753,
+        "num": 238753,
+        "word": "奔跑吧终于下水了",
+        "onboard_time": 1715848398,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215522,
+        "num": 215522,
+        "word": "李玟无缘金曲奖特别贡献奖",
+        "onboard_time": 1715845038,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213582,
+        "num": 213582,
+        "word": "NEWJEANS海粼生咖小纸条",
+        "onboard_time": 1715850258,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206661,
+        "num": 210857,
+        "word": "12306回应车厢吃东西被嫌味道大",
+        "onboard_time": 1715851218,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210264,
+        "num": 210264,
+        "word": "喜欢开榴莲胜过了吃榴莲",
+        "onboard_time": 1715850799,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 47871,
+        "num": 209443,
+        "word": "仿佛看到了青春最美好的模样",
+        "onboard_time": 1715849177,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208862,
+        "num": 208862,
+        "word": "李马克solo曲MV",
+        "onboard_time": 1715851578,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204209,
+        "num": 204209,
+        "word": "徐英浩三里屯",
+        "onboard_time": 1715851098,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203955,
+        "num": 203955,
+        "word": "高桥一生饭丰万理江结婚",
+        "onboard_time": 1715849657,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199245,
+        "num": 199245,
+        "word": "谢可寅短发好帅",
+        "onboard_time": 1715850377,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196288,
+        "num": 196288,
+        "word": "Baolan 还是做不到吗义进",
+        "onboard_time": 1715850859,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191259,
+        "num": 191259,
+        "word": "周依然经纪人",
+        "onboard_time": 1715851878,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168996,
+        "num": 168996,
+        "word": "韩红AKAXXXL",
+        "onboard_time": 1715837539,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161809,
+        "num": 161809,
+        "word": "五旬男子吊脖锻炼意外身亡",
+        "onboard_time": 1715835019,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157182,
+        "num": 157182,
+        "word": "滕梓荆OUT",
+        "onboard_time": 1715845278,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155952,
+        "num": 155952,
+        "word": "五条悟 全球趋势第一",
+        "onboard_time": 1715851819,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155951,
+        "num": 155951,
+        "word": "现在我是小姨妈的男朋友了",
+        "onboard_time": 1715826138,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155790,
+        "num": 155790,
+        "word": "建议讨好型人格每日读十遍",
+        "onboard_time": 1715843478,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154258,
+        "num": 154258,
+        "word": "我叫范闲 我重生了",
+        "onboard_time": 1715834599,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147574,
+        "num": 147574,
+        "word": "残疾女孩街头直播遭陌生男子拍屁股",
+        "onboard_time": 1715839817,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144258,
+        "num": 144258,
+        "word": "法院拍卖被执行人270只避孕套",
+        "onboard_time": 1715837478,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142801,
+        "num": 142801,
+        "word": "白鹿一秒猜出自己的表情包",
+        "onboard_time": 1715847017,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131290,
+        "num": 131290,
+        "word": "福宝下午呼呼大睡晚上嘎嘎炫饭",
+        "onboard_time": 1715843658,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128084,
+        "num": 128084,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1715829678,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎普京访华#"
+    }
+  }
+}
