@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715966269937,
+  "endTime": 1715967266224,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -16035,6 +16035,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 340152,
+      "num": 340152,
+      "word": "张若昀 还可以更狂一点",
+      "onboard_time": 1715964436,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340056,
       "num": 340056,
       "word": "aespa打歌",
@@ -22609,14 +22617,6 @@
       "onboard_time": 1715506338,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 230801,
-      "num": 132226,
-      "word": "张若昀 还可以更狂一点",
-      "onboard_time": 1715964436,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 230737,
@@ -42059,6 +42059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116100,
+      "num": 131939,
+      "word": "女朋友的情绪价值过于饱满了",
+      "onboard_time": 1715965815,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116034,
       "num": 116034,
       "word": "没有辣椒的世界好像没了灵魂",
@@ -44307,6 +44315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96449,
+      "num": 93440,
+      "word": "Faouzia回应第一",
+      "onboard_time": 1715967015,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96026,
       "num": 1995354,
       "word": "嫦娥家族奔月路每秒都热血沸腾",
@@ -45955,14 +45971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64740,
-      "num": 131939,
-      "word": "女朋友的情绪价值过于饱满了",
-      "onboard_time": 1715965815,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 64357,
       "num": 64357,
       "word": "路人偶遇郭碧婷",
@@ -47329,6 +47337,14 @@
       "onboard_time": 1714759993,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35919,
+      "num": 93813,
+      "word": "重庆地铁电子屏惊现雷人字幕",
+      "onboard_time": 1715966835,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35656,

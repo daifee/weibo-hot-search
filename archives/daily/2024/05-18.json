@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1715966269937,
+  "endTime": 1715967266224,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -163,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340152,
+      "num": 340152,
+      "word": "张若昀 还可以更狂一点",
+      "onboard_time": 1715964436,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314194,
       "num": 314194,
       "word": "京城大师赛",
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230801,
-      "num": 132226,
-      "word": "张若昀 还可以更狂一点",
-      "onboard_time": 1715964436,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176426,
       "num": 219862,
       "word": "戚薇就算再被打脸也不愿退一步",
@@ -323,6 +323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116100,
+      "num": 131939,
+      "word": "女朋友的情绪价值过于饱满了",
+      "onboard_time": 1715965815,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111632,
       "num": 270492,
       "word": "这些景区居然是私人的",
@@ -345,6 +353,14 @@
       "onboard_time": 1715958742,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96449,
+      "num": 93440,
+      "word": "Faouzia回应第一",
+      "onboard_time": 1715967015,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 95730,
@@ -411,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67844,
+      "num": 93243,
+      "word": "章子怡 戛纳",
+      "onboard_time": 1715944457,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 66749,
       "num": 264804,
       "word": "公积金",
       "onboard_time": 1715923641,
       "rank": 29,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 64740,
-      "num": 131939,
-      "word": "女朋友的情绪价值过于饱满了",
-      "onboard_time": 1715965815,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 57103,
@@ -465,6 +481,14 @@
       "onboard_time": 1715964436,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35919,
+      "num": 93813,
+      "word": "重庆地铁电子屏惊现雷人字幕",
+      "onboard_time": 1715966835,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35799,

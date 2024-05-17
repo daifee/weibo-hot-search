@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715966269937,
+  "endTime": 1715967266224,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -6131,6 +6131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340152,
+      "num": 340152,
+      "word": "张若昀 还可以更狂一点",
+      "onboard_time": 1715964436,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340056,
       "num": 340056,
       "word": "aespa打歌",
@@ -8601,14 +8609,6 @@
       "onboard_time": 1715506338,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 230801,
-      "num": 132226,
-      "word": "张若昀 还可以更狂一点",
-      "onboard_time": 1715964436,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 230596,
@@ -15131,6 +15131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116100,
+      "num": 131939,
+      "word": "女朋友的情绪价值过于饱满了",
+      "onboard_time": 1715965815,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116005,
       "num": 147007,
       "word": "熊猫吃到翘脚竹子",
@@ -15939,6 +15947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96449,
+      "num": 93440,
+      "word": "Faouzia回应第一",
+      "onboard_time": 1715967015,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95885,
       "num": 560281,
       "word": "你们DNF玩家算是玩嗨了",
@@ -16571,14 +16587,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 64740,
-      "num": 131939,
-      "word": "女朋友的情绪价值过于饱满了",
-      "onboard_time": 1715965815,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 64293,
       "num": 897386,
       "word": "行进看中国",
@@ -17161,6 +17169,14 @@
       "onboard_time": 1715773396,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 35919,
+      "num": 93813,
+      "word": "重庆地铁电子屏惊现雷人字幕",
+      "onboard_time": 1715966835,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35656,
