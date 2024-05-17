@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715981695046,
+  "endTime": 1715984281554,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -16523,6 +16523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 71437,
+      "num": 39095,
+      "word": "频繁塞牙是牙齿发出的警报",
+      "onboard_time": 1715973192,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71068,
       "num": 94925,
       "word": "陈楚生弹壳合唱醉",
@@ -16939,6 +16947,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 50363,
+      "num": 36846,
+      "word": "房贷新政买房人能省多少钱",
+      "onboard_time": 1715981831,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50304,
       "num": 879590,
       "word": "文化中国行",
@@ -16977,14 +16993,6 @@
       "onboard_time": 1715972352,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48503,
-      "num": 39095,
-      "word": "频繁塞牙是牙齿发出的警报",
-      "onboard_time": 1715973192,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 48378,
@@ -17187,6 +17195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37115,
+      "num": 39586,
+      "word": "公积金真的有用吗",
+      "onboard_time": 1715971752,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 36846,
       "num": 341802,
       "word": "王者新游拜把子",
@@ -17241,14 +17257,6 @@
       "onboard_time": 1715624592,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 33190,
-      "num": 39586,
-      "word": "公积金真的有用吗",
-      "onboard_time": 1715971752,
-      "rank": 29,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 32765,
@@ -17331,6 +17339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29750,
+      "num": 29750,
+      "word": "老外在中国玩嗨了",
+      "onboard_time": 1715975412,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28759,
       "num": 218606,
       "word": "王阳自驾露营好治愈",
@@ -17361,14 +17377,6 @@
       "onboard_time": 1715716811,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 26382,
-      "num": 25655,
-      "word": "老外在中国玩嗨了",
-      "onboard_time": 1715975412,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26244,
@@ -17480,6 +17488,14 @@
       "word": "周深能不能来歌手",
       "onboard_time": 1715440343,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22142,
+      "num": 24852,
+      "word": "男世一",
+      "onboard_time": 1715983992,
+      "rank": 44,
       "category": "综艺"
     },
     {
