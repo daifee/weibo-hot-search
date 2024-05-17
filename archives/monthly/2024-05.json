@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715908670260,
+  "endTime": 1715909867953,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -531,6 +531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2194009,
+      "num": 2194009,
+      "word": "下个月你工资或将多一笔钱",
+      "onboard_time": 1715905818,
+      "rank": 0,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 2187658,
       "num": 1952738,
       "word": "那英 紧张",
@@ -1011,14 +1019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1664147,
-      "num": 1664147,
-      "word": "下个月你工资或将多一笔钱",
-      "onboard_time": 1715905818,
-      "rank": 0,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1658499,
       "num": 1658499,
       "word": "建议一次食用小龙虾不超10只",
@@ -1112,6 +1112,14 @@
       "word": "椰树涉擦边广告被罚40万",
       "onboard_time": 1715136979,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1623442,
+      "num": 1623442,
+      "word": "市监局回应连云港海鲜市场事件",
+      "onboard_time": 1715908219,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -3929,6 +3937,14 @@
       "onboard_time": 1714952061,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 914570,
+      "num": 914570,
+      "word": "台湾首现2例日本脑炎病例1人死亡",
+      "onboard_time": 1715907198,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 914238,
@@ -6891,14 +6907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 653777,
-      "num": 653777,
-      "word": "台湾首现2例日本脑炎病例1人死亡",
-      "onboard_time": 1715907198,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 653625,
       "num": 627004,
       "word": "歌手抓紧摇人吧",
@@ -7467,14 +7475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 625050,
-      "num": 625050,
-      "word": "市监局回应连云港海鲜市场事件",
-      "onboard_time": 1715908219,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 624740,
       "num": 262966,
       "word": "庆余年 袁泉",
@@ -7681,6 +7681,14 @@
       "onboard_time": 1715334080,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 614189,
+      "num": 614189,
+      "word": "王一博 得宝",
+      "onboard_time": 1715908640,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 613898,
@@ -9129,6 +9137,14 @@
       "onboard_time": 1714549698,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532868,
+      "num": 532868,
+      "word": "沙溢问时代少年团什么时候解散",
+      "onboard_time": 1715907558,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 531992,
@@ -11363,6 +11379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445162,
+      "num": 445162,
+      "word": "煎蛋",
+      "onboard_time": 1715905639,
+      "rank": 17,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 445074,
       "num": 445074,
       "word": "专家称年轻人租房不影响结婚生娃",
@@ -11969,14 +11993,6 @@
       "onboard_time": 1714728979,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 424335,
-      "num": 424335,
-      "word": "煎蛋",
-      "onboard_time": 1715905639,
-      "rank": 17,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 424254,
@@ -14499,6 +14515,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 357270,
+      "num": 274717,
+      "word": "娄烨",
+      "onboard_time": 1715907798,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 357158,
       "num": 357158,
       "word": "莲花楼 关于风",
@@ -14595,6 +14619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353959,
+      "num": 273716,
+      "word": "Kpop选秀史上第一位脱北练习生",
+      "onboard_time": 1715908939,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353862,
       "num": 353862,
       "word": "滕梓荆OUT",
@@ -14665,14 +14697,6 @@
       "onboard_time": 1715147301,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352167,
-      "num": 352167,
-      "word": "沙溢问时代少年团什么时候解散",
-      "onboard_time": 1715907558,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 352099,
@@ -17387,6 +17411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287274,
+      "num": 286007,
+      "word": "二皇子又不穿袜子",
+      "onboard_time": 1715907619,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287036,
       "num": 287036,
       "word": "赵奕欢快碎了",
@@ -17441,14 +17473,6 @@
       "onboard_time": 1715436201,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286007,
-      "num": 286007,
-      "word": "二皇子又不穿袜子",
-      "onboard_time": 1715907619,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 285866,
@@ -18169,6 +18193,14 @@
       "onboard_time": 1714654819,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275587,
+      "num": 275587,
+      "word": "鬼称",
+      "onboard_time": 1715908998,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275195,
@@ -19481,14 +19513,6 @@
       "onboard_time": 1715314399,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255894,
-      "num": 255894,
-      "word": "娄烨",
-      "onboard_time": 1715907798,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 255800,
@@ -21539,6 +21563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229405,
+      "num": 229405,
+      "word": "身上发现隐翅虫千万不要拍打",
+      "onboard_time": 1715906478,
+      "rank": 29,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 229390,
       "num": 208159,
       "word": "易烊千玺工作室出图了",
@@ -22035,14 +22067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223966,
-      "num": 223966,
-      "word": "身上发现隐翅虫千万不要拍打",
-      "onboard_time": 1715906478,
-      "rank": 29,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 223865,
       "num": 223865,
       "word": "维和防暴队",
@@ -22065,6 +22089,14 @@
       "onboard_time": 1715202670,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223599,
+      "num": 223599,
+      "word": "隐翅虫",
+      "onboard_time": 1715909178,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 223505,
@@ -23321,6 +23353,14 @@
       "onboard_time": 1715667139,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212183,
+      "num": 212183,
+      "word": "韩红 中国第一女rapper",
+      "onboard_time": 1715909357,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 212147,
@@ -27091,6 +27131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191781,
+      "num": 191781,
+      "word": "强大的肠胃简直是一种资产",
+      "onboard_time": 1715908340,
+      "rank": 40,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 191747,
       "num": 191747,
       "word": "难哄站内预约破百万",
@@ -29147,14 +29195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179653,
-      "num": 179653,
-      "word": "王一博 得宝",
-      "onboard_time": 1715908640,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179599,
       "num": 179599,
       "word": "黑粉向杨洋致歉",
@@ -29521,6 +29561,14 @@
       "onboard_time": 1715828240,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177203,
+      "num": 177203,
+      "word": "内娱综艺名场面又多了一个",
+      "onboard_time": 1715908577,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 177141,
@@ -30289,14 +30337,6 @@
       "onboard_time": 1714715419,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 173085,
-      "num": 173085,
-      "word": "强大的肠胃简直是一种资产",
-      "onboard_time": 1715908340,
-      "rank": 40,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 173009,
@@ -31105,6 +31145,14 @@
       "onboard_time": 1715662881,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168368,
+      "num": 158312,
+      "word": "庆余年2 黑色幽默",
+      "onboard_time": 1715909840,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 168338,
@@ -33881,6 +33929,14 @@
       "onboard_time": 1714805597,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152427,
+      "num": 144860,
+      "word": "王倦 搞笑原创",
+      "onboard_time": 1715909058,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 152386,
@@ -44124,7 +44180,7 @@
     },
     {
       "raw_hot": 55176,
-      "num": 1108877,
+      "num": 1230344,
       "word": "中国有约",
       "onboard_time": 1715867300,
       "rank": 2,

@@ -1,7 +1,15 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715908670260,
+  "endTime": 1715909867953,
   "band_list": [
+    {
+      "raw_hot": 2194009,
+      "num": 2194009,
+      "word": "下个月你工资或将多一笔钱",
+      "onboard_time": 1715905818,
+      "rank": 0,
+      "category": "财经,社会新闻"
+    },
     {
       "raw_hot": 1742910,
       "num": 1742910,
@@ -11,12 +19,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1664147,
-      "num": 1664147,
-      "word": "下个月你工资或将多一笔钱",
-      "onboard_time": 1715905818,
-      "rank": 0,
-      "category": "财经,社会新闻"
+      "raw_hot": 1623442,
+      "num": 1623442,
+      "word": "市监局回应连云港海鲜市场事件",
+      "onboard_time": 1715908219,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1486938,
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 914570,
+      "num": 914570,
+      "word": "台湾首现2例日本脑炎病例1人死亡",
+      "onboard_time": 1715907198,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754503,
       "num": 371919,
       "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
@@ -83,14 +99,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 653777,
-      "num": 653777,
-      "word": "台湾首现2例日本脑炎病例1人死亡",
-      "onboard_time": 1715907198,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 651372,
       "num": 651372,
       "word": "胡海泉出任高校院长",
@@ -99,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 625050,
-      "num": 625050,
-      "word": "市监局回应连云港海鲜市场事件",
-      "onboard_time": 1715908219,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 614189,
+      "num": 614189,
+      "word": "王一博 得宝",
+      "onboard_time": 1715908640,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 577792,
@@ -147,6 +155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 532868,
+      "num": 532868,
+      "word": "沙溢问时代少年团什么时候解散",
+      "onboard_time": 1715907558,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525575,
       "num": 362029,
       "word": "坐火车40小时没及时换卫生巾感染送医",
@@ -179,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445162,
+      "num": 445162,
+      "word": "煎蛋",
+      "onboard_time": 1715905639,
+      "rank": 17,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 442737,
       "num": 417702,
       "word": "男童狂犬病病毒免疫失败一串问号需要解答",
@@ -193,14 +217,6 @@
       "onboard_time": 1715864419,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 424335,
-      "num": 424335,
-      "word": "煎蛋",
-      "onboard_time": 1715905639,
-      "rank": 17,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 418332,
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357270,
+      "num": 274717,
+      "word": "娄烨",
+      "onboard_time": 1715907798,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 356861,
       "num": 130850,
       "word": "李沁看得出是公主",
@@ -267,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 352167,
-      "num": 352167,
-      "word": "沙溢问时代少年团什么时候解散",
-      "onboard_time": 1715907558,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 353959,
+      "num": 273716,
+      "word": "Kpop选秀史上第一位脱北练习生",
+      "onboard_time": 1715908939,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 336015,
@@ -323,12 +347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286007,
+      "raw_hot": 287274,
       "num": 286007,
       "word": "二皇子又不穿袜子",
       "onboard_time": 1715907619,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275587,
+      "num": 275587,
+      "word": "鬼称",
+      "onboard_time": 1715908998,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275178,
@@ -355,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255894,
-      "num": 255894,
-      "word": "娄烨",
-      "onboard_time": 1715907798,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 247101,
       "num": 160307,
       "word": "你脸上的痘痘可能是吃出来的",
@@ -371,12 +395,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 223966,
-      "num": 223966,
+      "raw_hot": 229405,
+      "num": 229405,
       "word": "身上发现隐翅虫千万不要拍打",
       "onboard_time": 1715906478,
       "rank": 29,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 223599,
+      "num": 223599,
+      "word": "隐翅虫",
+      "onboard_time": 1715909178,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 215905,
@@ -393,6 +425,14 @@
       "onboard_time": 1715900895,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212183,
+      "num": 212183,
+      "word": "韩红 中国第一女rapper",
+      "onboard_time": 1715909357,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 209160,
@@ -435,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191781,
+      "num": 191781,
+      "word": "强大的肠胃简直是一种资产",
+      "onboard_time": 1715908340,
+      "rank": 40,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 191579,
       "num": 191579,
       "word": "无畏回应转会",
       "onboard_time": 1715872159,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190498,
+      "num": 190498,
+      "word": "王曼昱是巴黎团体第三人不二人选",
+      "onboard_time": 1715906418,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 189787,
@@ -475,20 +531,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 180839,
-      "num": 180839,
-      "word": "王曼昱是巴黎团体第三人不二人选",
-      "onboard_time": 1715906418,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 179653,
-      "num": 179653,
-      "word": "王一博 得宝",
-      "onboard_time": 1715908640,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 177203,
+      "num": 177203,
+      "word": "内娱综艺名场面又多了一个",
+      "onboard_time": 1715908577,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 175628,
@@ -497,14 +545,6 @@
       "onboard_time": 1715902335,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 173085,
-      "num": 173085,
-      "word": "强大的肠胃简直是一种资产",
-      "onboard_time": 1715908340,
-      "rank": 40,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 172343,
@@ -521,6 +561,14 @@
       "onboard_time": 1715902696,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168368,
+      "num": 158312,
+      "word": "庆余年2 黑色幽默",
+      "onboard_time": 1715909840,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 166157,
@@ -569,6 +617,14 @@
       "onboard_time": 1715868560,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152427,
+      "num": 144860,
+      "word": "王倦 搞笑原创",
+      "onboard_time": 1715909058,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 144368,
@@ -755,20 +811,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45397,
+      "num": 1230344,
+      "word": "中国有约",
+      "onboard_time": 1715867300,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44024,
       "num": 56772,
       "word": "吴镇宇说丞磊这样子拍不了武侠",
       "onboard_time": 1715880733,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42705,
-      "num": 1108877,
-      "word": "中国有约",
-      "onboard_time": 1715867300,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40695,
