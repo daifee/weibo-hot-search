@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715916871351,
+  "endTime": 1715919737583,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -169,6 +169,14 @@
       "onboard_time": 1715849237,
       "rank": 0,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 2269801,
+      "num": 556251,
+      "word": "英国将允许艾滋病感染者捐精捐卵",
+      "onboard_time": 1715916258,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2255761,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1485613,
+      "num": 1485613,
+      "word": "田曦薇 维密",
+      "onboard_time": 1715915298,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1483564,
       "num": 1483564,
       "word": "谢娜曾反对张杰去歌手",
@@ -609,14 +625,6 @@
       "onboard_time": 1715674759,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1374249,
-      "num": 1374249,
-      "word": "田曦薇 维密",
-      "onboard_time": 1715915298,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1374031,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1715644518,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1088437,
+      "num": 1088437,
+      "word": "车主撞死小狗后推倒狗主致其死亡",
+      "onboard_time": 1715916678,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1083466,
@@ -2435,14 +2451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 656068,
-      "num": 272983,
-      "word": "英国将允许艾滋病感染者捐精捐卵",
-      "onboard_time": 1715916258,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 656002,
       "num": 656002,
       "word": "难哄海报",
@@ -2755,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600936,
+      "num": 600936,
+      "word": "腾讯四部热度破30000剧集",
+      "onboard_time": 1715915418,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 600549,
       "num": 600549,
       "word": "00后试岗月薪15000住家保姆",
@@ -2817,6 +2833,14 @@
       "onboard_time": 1715819238,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 587134,
+      "num": 587134,
+      "word": "垫底辣孩戛纳红毯",
+      "onboard_time": 1715915298,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 583453,
@@ -3091,6 +3115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 548401,
+      "num": 548401,
+      "word": "张钰琪报名歌手",
+      "onboard_time": 1715918539,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547640,
       "num": 547640,
       "word": "小沈阳用张杰谢娜结婚年份记事",
@@ -3305,14 +3337,6 @@
       "onboard_time": 1715569040,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 516227,
-      "num": 406522,
-      "word": "垫底辣孩戛纳红毯",
-      "onboard_time": 1715915298,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 515892,
@@ -3673,6 +3697,14 @@
       "onboard_time": 1715768478,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488438,
+      "num": 488438,
+      "word": "kep1er续约确认失败",
+      "onboard_time": 1715919260,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 487691,
@@ -4225,6 +4257,14 @@
       "onboard_time": 1715713331,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 429165,
+      "num": 429165,
+      "word": "腾讯视频客服回应庆余年2剧集被倒卖",
+      "onboard_time": 1715918539,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 428694,
@@ -5171,14 +5211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354557,
-      "num": 270967,
-      "word": "腾讯四部热度破30000剧集",
-      "onboard_time": 1715915418,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 353862,
       "num": 353862,
       "word": "滕梓荆OUT",
@@ -5513,6 +5545,14 @@
       "onboard_time": 1715596939,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 333298,
+      "num": 333298,
+      "word": "买一台冰箱意外获得双开门",
+      "onboard_time": 1715918179,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 332648,
@@ -7899,12 +7939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219806,
+      "num": 219806,
+      "word": "8个姐姐排队给弟弟弟媳挂钱1人1万",
+      "onboard_time": 1715917999,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219782,
       "num": 192214,
       "word": "背着善宰跑牵手",
       "onboard_time": 1715567718,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219764,
+      "num": 219764,
+      "word": "江西11岁男孩留遗书跳楼案二审",
+      "onboard_time": 1715916559,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219411,
@@ -8787,14 +8843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201265,
-      "num": 201265,
-      "word": "车主撞死小狗后推倒狗主致其死亡",
-      "onboard_time": 1715916678,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201082,
       "num": 201082,
       "word": "新生彩蛋",
@@ -9001,6 +9049,14 @@
       "onboard_time": 1715828117,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198135,
+      "num": 198135,
+      "word": "江西多地四五十万元年薪招聘任制公务员",
+      "onboard_time": 1715919321,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198125,
@@ -9299,6 +9355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193671,
+      "num": 193671,
+      "word": "这个周五等的我好苦",
+      "onboard_time": 1715915778,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193625,
       "num": 193625,
       "word": "刘宇宁单依纯新歌未完待续",
@@ -9465,6 +9529,14 @@
       "onboard_time": 1715682140,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191797,
+      "num": 191797,
+      "word": "乘风2024三公分组",
+      "onboard_time": 1715917999,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 191781,
@@ -9715,6 +9787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188965,
+      "num": 188965,
+      "word": "河南多所高校公布暑假时间",
+      "onboard_time": 1715919260,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188927,
       "num": 188927,
       "word": "怪不得老祖宗爱出门看花灯",
@@ -9843,20 +9923,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 185417,
-      "num": 185417,
-      "word": "江西11岁男孩留遗书跳楼案二审",
-      "onboard_time": 1715916559,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185400,
       "num": 185400,
       "word": "管泽元",
       "onboard_time": 1715731758,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185155,
+      "num": 185155,
+      "word": "这下子关晓彤无法直视狍子了",
+      "onboard_time": 1715919139,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 184836,
@@ -10041,6 +10121,14 @@
       "onboard_time": 1715751078,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 181386,
+      "num": 1430541,
+      "word": "博物馆里一眼惊艳的文物",
+      "onboard_time": 1715915298,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180849,
@@ -10443,6 +10531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173522,
+      "num": 173522,
+      "word": "我的阿勒泰火了",
+      "onboard_time": 1715913738,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173499,
       "num": 173499,
       "word": "藏海传筹谋在心版海报",
@@ -10577,14 +10673,6 @@
       "onboard_time": 1715751138,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170673,
-      "num": 170673,
-      "word": "我的阿勒泰火了",
-      "onboard_time": 1715913738,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 170385,
@@ -12083,14 +12171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141491,
-      "num": 141491,
-      "word": "这个周五等的我好苦",
-      "onboard_time": 1715915778,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141406,
       "num": 161479,
       "word": "也就德国人会把花菜整颗煮了",
@@ -12145,6 +12225,14 @@
       "onboard_time": 1715580739,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140741,
+      "num": 140741,
+      "word": "鬼灭之刃第四季确认引进",
+      "onboard_time": 1715916919,
+      "rank": 43,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 140494,
@@ -13049,14 +13137,6 @@
       "onboard_time": 1715625312,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 123182,
-      "num": 1430541,
-      "word": "博物馆里一眼惊艳的文物",
-      "onboard_time": 1715915298,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122914,
@@ -14507,6 +14587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70676,
+      "num": 383617,
+      "word": "玉面狐狸特效绝杀",
+      "onboard_time": 1715915358,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 69087,
       "num": 69087,
       "word": "头发蛋白矫正",
@@ -14867,14 +14955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49625,
-      "num": 275002,
-      "word": "玉面狐狸特效绝杀",
-      "onboard_time": 1715915358,
-      "rank": 27,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 49394,
       "num": 1003748,
       "word": "中国黄岩岛4K航拍首次公布",
@@ -14937,6 +15017,14 @@
       "onboard_time": 1715761638,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44099,
+      "num": 558022,
+      "word": "库布其沙漠惊现绿色长城",
+      "onboard_time": 1715918179,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 44024,
@@ -15201,6 +15289,14 @@
       "onboard_time": 1715845998,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 26076,
+      "num": 124557,
+      "word": "田曦薇露腹肌了",
+      "onboard_time": 1715919440,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 24874,

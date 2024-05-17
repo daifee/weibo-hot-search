@@ -1,0 +1,410 @@
+{
+  "runTime": 1715919737583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1485613,
+        "num": 1485613,
+        "word": "田曦薇 维密",
+        "onboard_time": 1715915298,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1088437,
+        "num": 1088437,
+        "word": "车主撞死小狗后推倒狗主致其死亡",
+        "onboard_time": 1715916678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181386,
+        "num": 1053424,
+        "word": "博物馆里一眼惊艳的文物",
+        "onboard_time": 1715915298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038142,
+        "num": 1038142,
+        "word": "下个月你工资或将多一笔钱",
+        "onboard_time": 1715905818,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 834173,
+        "num": 834173,
+        "word": "连云港鬼秤商贩已被清出市场",
+        "onboard_time": 1715914818,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795162,
+        "num": 795162,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1715911457,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 682242,
+        "num": 682242,
+        "word": "叶轻眉给庆帝带的运动鞋",
+        "onboard_time": 1715911939,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 600936,
+        "num": 600936,
+        "word": "腾讯四部热度破30000剧集",
+        "onboard_time": 1715915418,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 587134,
+        "num": 587134,
+        "word": "垫底辣孩戛纳红毯",
+        "onboard_time": 1715915298,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44099,
+        "num": 558022,
+        "word": "库布其沙漠惊现绿色长城",
+        "onboard_time": 1715918179,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 2269801,
+        "num": 556251,
+        "word": "英国将允许艾滋病感染者捐精捐卵",
+        "onboard_time": 1715916258,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548401,
+        "num": 548401,
+        "word": "张钰琪报名歌手",
+        "onboard_time": 1715918539,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507562,
+        "num": 507562,
+        "word": "爹爹撞撞奔向你",
+        "onboard_time": 1715910317,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488438,
+        "num": 488438,
+        "word": "kep1er续约确认失败",
+        "onboard_time": 1715919260,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 429165,
+        "num": 429165,
+        "word": "腾讯视频客服回应庆余年2剧集被倒卖",
+        "onboard_time": 1715918539,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416719,
+        "num": 416719,
+        "word": "台湾首现2例日本脑炎病例1人死亡",
+        "onboard_time": 1715907198,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70676,
+        "num": 383617,
+        "word": "玉面狐狸特效绝杀",
+        "onboard_time": 1715915358,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 380954,
+        "num": 380954,
+        "word": "赵樱子提醒关晓彤看镜头",
+        "onboard_time": 1715911276,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360625,
+        "num": 360625,
+        "word": "人在什么时候最舒服",
+        "onboard_time": 1715911216,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333298,
+        "num": 333298,
+        "word": "买一台冰箱意外获得双开门",
+        "onboard_time": 1715918179,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337289,
+        "num": 330113,
+        "word": "周杰伦 哥平常是不随便流泪的",
+        "onboard_time": 1715902997,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 335990,
+        "num": 328002,
+        "word": "陆仙人 戛纳",
+        "onboard_time": 1715914398,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325800,
+        "num": 325800,
+        "word": "王楚然演技 尴尬",
+        "onboard_time": 1715869220,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299289,
+        "num": 299289,
+        "word": "国安部发文披露航天领域间谍案",
+        "onboard_time": 1715915119,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 284356,
+        "num": 284356,
+        "word": "市监局回应连云港海鲜市场事件",
+        "onboard_time": 1715908219,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291872,
+        "num": 268268,
+        "word": "五竹叔",
+        "onboard_time": 1715911216,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245644,
+        "num": 245644,
+        "word": "狂飙兄弟",
+        "onboard_time": 1715905279,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219806,
+        "num": 219806,
+        "word": "8个姐姐排队给弟弟弟媳挂钱1人1万",
+        "onboard_time": 1715917999,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275286,
+        "num": 219792,
+        "word": "庆余年 剧王",
+        "onboard_time": 1715861296,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219764,
+        "num": 219764,
+        "word": "江西11岁男孩留遗书跳楼案二审",
+        "onboard_time": 1715916559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202834,
+        "num": 202834,
+        "word": "连云港海鲜市场",
+        "onboard_time": 1715901555,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260844,
+        "num": 202313,
+        "word": "匪我思存吐槽庆余年2广告多",
+        "onboard_time": 1715902576,
+        "rank": 31,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 198135,
+        "num": 198135,
+        "word": "江西多地四五十万元年薪招聘任制公务员",
+        "onboard_time": 1715919321,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193671,
+        "num": 193671,
+        "word": "这个周五等的我好苦",
+        "onboard_time": 1715915778,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221773,
+        "num": 193240,
+        "word": "庆余年2 黑色幽默",
+        "onboard_time": 1715909840,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191797,
+        "num": 191797,
+        "word": "乘风2024三公分组",
+        "onboard_time": 1715917999,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188965,
+        "num": 188965,
+        "word": "河南多所高校公布暑假时间",
+        "onboard_time": 1715919260,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185155,
+        "num": 185155,
+        "word": "这下子关晓彤无法直视狍子了",
+        "onboard_time": 1715919139,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183038,
+        "num": 183038,
+        "word": "电影她的小梨涡定档七夕",
+        "onboard_time": 1715916440,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176204,
+        "num": 176204,
+        "word": "Kpop选秀史上第一位脱北练习生",
+        "onboard_time": 1715908939,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174396,
+        "num": 174396,
+        "word": "歌手",
+        "onboard_time": 1715908398,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173522,
+        "num": 173522,
+        "word": "我的阿勒泰火了",
+        "onboard_time": 1715913738,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147683,
+        "num": 147683,
+        "word": "森林狼3比3掘金",
+        "onboard_time": 1715915418,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140741,
+        "num": 140741,
+        "word": "鬼灭之刃第四季确认引进",
+        "onboard_time": 1715916919,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 136226,
+        "num": 136226,
+        "word": "韩红 中国第一女rapper",
+        "onboard_time": 1715909357,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132978,
+        "num": 132978,
+        "word": "十个勤天",
+        "onboard_time": 1715915838,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132845,
+        "num": 132845,
+        "word": "A股",
+        "onboard_time": 1715919081,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130031,
+        "num": 130031,
+        "word": "街道办回应连云港海鲜市场事件",
+        "onboard_time": 1715915958,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124701,
+        "num": 124701,
+        "word": "爱奇艺股价暴涨12%",
+        "onboard_time": 1715911039,
+        "rank": 48,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 26076,
+        "num": 124557,
+        "word": "田曦薇露腹肌了",
+        "onboard_time": 1715919440,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥中俄各自优势实现彼此成就#"
+    }
+  }
+}

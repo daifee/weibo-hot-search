@@ -1,7 +1,15 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715916871351,
+  "endTime": 1715919737583,
   "band_list": [
+    {
+      "raw_hot": 2269801,
+      "num": 556251,
+      "word": "英国将允许艾滋病感染者捐精捐卵",
+      "onboard_time": 1715916258,
+      "rank": 20,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2194009,
       "num": 2194009,
@@ -43,6 +51,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1485613,
+      "num": 1485613,
+      "word": "田曦薇 维密",
+      "onboard_time": 1715915298,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1409475,
       "num": 1409475,
       "word": "连云港鬼秤商贩已被清出市场",
@@ -59,14 +75,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1374249,
-      "num": 1374249,
-      "word": "田曦薇 维密",
-      "onboard_time": 1715915298,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1213156,
       "num": 1213156,
       "word": "匪我思存吐槽庆余年2广告多",
@@ -81,6 +89,14 @@
       "onboard_time": 1715905279,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1088437,
+      "num": 1088437,
+      "word": "车主撞死小狗后推倒狗主致其死亡",
+      "onboard_time": 1715916678,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1036406,
@@ -155,14 +171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 656068,
-      "num": 272983,
-      "word": "英国将允许艾滋病感染者捐精捐卵",
-      "onboard_time": 1715916258,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 651372,
       "num": 651372,
       "word": "胡海泉出任高校院长",
@@ -184,6 +192,22 @@
       "word": "陆仙人 戛纳",
       "onboard_time": 1715914398,
       "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 600936,
+      "num": 600936,
+      "word": "腾讯四部热度破30000剧集",
+      "onboard_time": 1715915418,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 587134,
+      "num": 587134,
+      "word": "垫底辣孩戛纳红毯",
+      "onboard_time": 1715915298,
+      "rank": 21,
       "category": "电影"
     },
     {
@@ -227,6 +251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 548401,
+      "num": 548401,
+      "word": "张钰琪报名歌手",
+      "onboard_time": 1715918539,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546407,
       "num": 371151,
       "word": "韩红 中国第一女rapper",
@@ -259,20 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 516227,
-      "num": 406522,
-      "word": "垫底辣孩戛纳红毯",
-      "onboard_time": 1715915298,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 507060,
       "num": 183880,
       "word": "范思辙胖了",
       "onboard_time": 1715869940,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 488438,
+      "num": 488438,
+      "word": "kep1er续约确认失败",
+      "onboard_time": 1715919260,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 479462,
@@ -329,6 +361,14 @@
       "onboard_time": 1715864419,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429165,
+      "num": 429165,
+      "word": "腾讯视频客服回应庆余年2剧集被倒卖",
+      "onboard_time": 1715918539,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 418332,
@@ -419,14 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 354557,
-      "num": 270967,
-      "word": "腾讯四部热度破30000剧集",
-      "onboard_time": 1715915418,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 336015,
       "num": 652385,
       "word": "菲组织单方面宣布成功是坑蒙拐骗",
@@ -449,6 +481,14 @@
       "onboard_time": 1715916440,
       "rank": 15,
       "category": "互联网,综艺"
+    },
+    {
+      "raw_hot": 333298,
+      "num": 333298,
+      "word": "买一台冰箱意外获得双开门",
+      "onboard_time": 1715918179,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 321549,
@@ -595,6 +635,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219806,
+      "num": 219806,
+      "word": "8个姐姐排队给弟弟弟媳挂钱1人1万",
+      "onboard_time": 1715917999,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219764,
+      "num": 219764,
+      "word": "江西11岁男孩留遗书跳楼案二审",
+      "onboard_time": 1715916559,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215905,
       "num": 215905,
       "word": "医生建议榴莲1天最多吃1瓣",
@@ -627,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201265,
-      "num": 201265,
-      "word": "车主撞死小狗后推倒狗主致其死亡",
-      "onboard_time": 1715916678,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199869,
       "num": 199869,
       "word": "电影她的小梨涡定档七夕",
@@ -659,12 +707,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198135,
+      "num": 198135,
+      "word": "江西多地四五十万元年薪招聘任制公务员",
+      "onboard_time": 1715919321,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197294,
       "num": 188331,
       "word": "从西安买7斤普罗旺斯西红柿回广州",
       "onboard_time": 1715875818,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193671,
+      "num": 193671,
+      "word": "这个周五等的我好苦",
+      "onboard_time": 1715915778,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 191797,
+      "num": 191797,
+      "word": "乘风2024三公分组",
+      "onboard_time": 1715917999,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 191781,
@@ -707,6 +779,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 188965,
+      "num": 188965,
+      "word": "河南多所高校公布暑假时间",
+      "onboard_time": 1715919260,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186329,
       "num": 186329,
       "word": "掘金vs森林狼",
@@ -715,12 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185417,
-      "num": 185417,
-      "word": "江西11岁男孩留遗书跳楼案二审",
-      "onboard_time": 1715916559,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 185155,
+      "num": 185155,
+      "word": "这下子关晓彤无法直视狍子了",
+      "onboard_time": 1715919139,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 182894,
@@ -747,6 +827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181386,
+      "num": 1430541,
+      "word": "博物馆里一眼惊艳的文物",
+      "onboard_time": 1715915298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178195,
       "num": 178195,
       "word": "爱德华兹太生猛了",
@@ -771,6 +859,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174396,
+      "num": 174396,
+      "word": "歌手",
+      "onboard_time": 1715908398,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173522,
+      "num": 173522,
+      "word": "我的阿勒泰火了",
+      "onboard_time": 1715913738,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172343,
       "num": 172343,
       "word": "中国科协辟谣阿波罗登月造假",
@@ -785,14 +889,6 @@
       "onboard_time": 1715915838,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170673,
-      "num": 170673,
-      "word": "我的阿勒泰火了",
-      "onboard_time": 1715913738,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 170385,
@@ -891,20 +987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141491,
-      "num": 141491,
-      "word": "这个周五等的我好苦",
-      "onboard_time": 1715915778,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 140291,
-      "num": 140291,
-      "word": "歌手",
-      "onboard_time": 1715908398,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 140741,
+      "num": 140741,
+      "word": "鬼灭之刃第四季确认引进",
+      "onboard_time": 1715916919,
+      "rank": 43,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 135388,
@@ -921,6 +1009,14 @@
       "onboard_time": 1715911638,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132845,
+      "num": 132845,
+      "word": "A股",
+      "onboard_time": 1715919081,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 131420,
@@ -969,14 +1065,6 @@
       "onboard_time": 1715869760,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123182,
-      "num": 1430541,
-      "word": "博物馆里一眼惊艳的文物",
-      "onboard_time": 1715915298,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114778,
@@ -1107,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70676,
+      "num": 383617,
+      "word": "玉面狐狸特效绝杀",
+      "onboard_time": 1715915358,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 56499,
       "num": 56499,
       "word": "杨迪说和贾玲一起旅行很开心",
@@ -1139,14 +1235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 49625,
-      "num": 275002,
-      "word": "玉面狐狸特效绝杀",
-      "onboard_time": 1715915358,
-      "rank": 27,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 46296,
       "num": 46296,
       "word": "庆余年2",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1715867300,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44099,
+      "num": 558022,
+      "word": "库布其沙漠惊现绿色长城",
+      "onboard_time": 1715918179,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 44024,
@@ -1225,6 +1321,14 @@
       "onboard_time": 1715894351,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26076,
+      "num": 124557,
+      "word": "田曦薇露腹肌了",
+      "onboard_time": 1715919440,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 24874,
