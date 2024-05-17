@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715919737583,
+  "endTime": 1715920536953,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -883,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1198349,
+      "num": 1198349,
+      "word": "车主撞死小狗后推倒狗主致其死亡",
+      "onboard_time": 1715916678,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1191545,
       "num": 1191545,
       "word": "17岁体育生左膝长骨瘤医生错切右膝",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1715644518,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1088437,
-      "num": 1088437,
-      "word": "车主撞死小狗后推倒狗主致其死亡",
-      "onboard_time": 1715916678,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1083466,
@@ -2291,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 686878,
+      "num": 686878,
+      "word": "kep1er续约确认失败",
+      "onboard_time": 1715919260,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 686680,
       "num": 511500,
       "word": "二手玫瑰 整点邪的",
@@ -2603,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 627651,
+      "num": 627651,
+      "word": "张钰琪报名歌手",
+      "onboard_time": 1715918539,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 627221,
       "num": 627221,
       "word": "康辉近距离感受欢迎普京仪式现场",
@@ -2747,6 +2763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 605650,
+      "num": 605650,
+      "word": "腾讯四部热度破30000剧集",
+      "onboard_time": 1715915418,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 603950,
       "num": 603950,
       "word": "艾薇儿进村了",
@@ -2761,14 +2785,6 @@
       "onboard_time": 1715697438,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600936,
-      "num": 600936,
-      "word": "腾讯四部热度破30000剧集",
-      "onboard_time": 1715915418,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 600549,
@@ -3113,14 +3129,6 @@
       "onboard_time": 1715904078,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 548401,
-      "num": 548401,
-      "word": "张钰琪报名歌手",
-      "onboard_time": 1715918539,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 547640,
@@ -3699,14 +3707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 488438,
-      "num": 488438,
-      "word": "kep1er续约确认失败",
-      "onboard_time": 1715919260,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 487691,
       "num": 487691,
       "word": "张怡宁说反正最终都是咱们中国赢",
@@ -3753,6 +3753,14 @@
       "onboard_time": 1715907798,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 479324,
+      "num": 479324,
+      "word": "腾讯视频客服回应庆余年2剧集被倒卖",
+      "onboard_time": 1715918539,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 478945,
@@ -4257,14 +4265,6 @@
       "onboard_time": 1715713331,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 429165,
-      "num": 429165,
-      "word": "腾讯视频客服回应庆余年2剧集被倒卖",
-      "onboard_time": 1715918539,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 428694,
@@ -5763,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318735,
+      "num": 299388,
+      "word": "江西多地四五十万元年薪招聘任制公务员",
+      "onboard_time": 1715919321,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318059,
       "num": 318059,
       "word": "极光",
@@ -6209,6 +6217,14 @@
       "onboard_time": 1715907619,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287255,
+      "num": 287255,
+      "word": "这下子关晓彤无法直视狍子了",
+      "onboard_time": 1715919139,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 286701,
@@ -6859,6 +6875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 260243,
+      "num": 291902,
+      "word": "8个姐姐排队给弟弟弟媳挂钱1人1万",
+      "onboard_time": 1715917999,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259851,
       "num": 259851,
       "word": "李秀满朴振英对待艺人的方式",
@@ -7265,6 +7289,14 @@
       "onboard_time": 1715578339,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245009,
+      "num": 226796,
+      "word": "刘宪华时隔11年再跳trap",
+      "onboard_time": 1715920041,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 244421,
@@ -7715,6 +7747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226042,
+      "num": 226042,
+      "word": "躺了五年还给范闲躺漏气了",
+      "onboard_time": 1715919981,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226018,
       "num": 226018,
       "word": "逆水寒 马尾",
@@ -7936,14 +7976,6 @@
       "word": "蓝田纪委回应副镇长半夜叫别人妻子唱歌",
       "onboard_time": 1715588239,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219806,
-      "num": 219806,
-      "word": "8个姐姐排队给弟弟弟媳挂钱1人1万",
-      "onboard_time": 1715917999,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -9051,14 +9083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198135,
-      "num": 198135,
-      "word": "江西多地四五十万元年薪招聘任制公务员",
-      "onboard_time": 1715919321,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198125,
       "num": 158149,
       "word": "我的阿勒泰 爱会从眼里流出来",
@@ -9339,6 +9363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194457,
+      "num": 194457,
+      "word": "这个周五等的我好苦",
+      "onboard_time": 1715915778,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193922,
       "num": 193922,
       "word": "电影沙漏 校园霸凌",
@@ -9353,14 +9385,6 @@
       "onboard_time": 1715488938,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193671,
-      "num": 193671,
-      "word": "这个周五等的我好苦",
-      "onboard_time": 1715915778,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 193625,
@@ -9931,14 +9955,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 185155,
-      "num": 185155,
-      "word": "这下子关晓彤无法直视狍子了",
-      "onboard_time": 1715919139,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184836,
       "num": 184836,
       "word": "那英想唱林俊杰的歌",
@@ -10033,6 +10049,14 @@
       "onboard_time": 1715837298,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183540,
+      "num": 183540,
+      "word": "儿童电话手表专治父母脾气",
+      "onboard_time": 1715919741,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 183304,
@@ -10169,6 +10193,14 @@
       "onboard_time": 1715593820,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179984,
+      "num": 179984,
+      "word": "我的阿勒泰火了",
+      "onboard_time": 1715913738,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 179857,
@@ -10528,14 +10560,6 @@
       "word": "刘诗诗大女主排面",
       "onboard_time": 1715750898,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 173522,
-      "num": 173522,
-      "word": "我的阿勒泰火了",
-      "onboard_time": 1715913738,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -10929,6 +10953,14 @@
       "onboard_time": 1715770876,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 166829,
+      "num": 166829,
+      "word": "鬼灭之刃第四季确认引进",
+      "onboard_time": 1715916919,
+      "rank": 43,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 166751,
@@ -12225,14 +12257,6 @@
       "onboard_time": 1715580739,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140741,
-      "num": 140741,
-      "word": "鬼灭之刃第四季确认引进",
-      "onboard_time": 1715916919,
-      "rank": 43,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 140494,
@@ -15203,6 +15227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32322,
+      "num": 227209,
+      "word": "田曦薇露腹肌了",
+      "onboard_time": 1715919440,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32041,
       "num": 47441,
       "word": "武艺 综艺感的神",
@@ -15289,14 +15321,6 @@
       "onboard_time": 1715845998,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 26076,
-      "num": 124557,
-      "word": "田曦薇露腹肌了",
-      "onboard_time": 1715919440,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 24874,
