@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1715945648472,
+  "endTime": 1715949201215,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -369,6 +369,14 @@
       "onboard_time": 1707482890,
       "rank": 3,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 8838186,
+      "num": 8838186,
+      "word": "歌手直播",
+      "onboard_time": 1715341399,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 8795205,
@@ -1440,14 +1448,6 @@
       "word": "开场好热闹",
       "onboard_time": 1707480766,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3637663,
-      "num": 3637663,
-      "word": "歌手直播",
-      "onboard_time": 1715341399,
-      "rank": 0,
       "category": "综艺"
     },
     {

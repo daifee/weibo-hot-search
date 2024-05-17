@@ -1,7 +1,15 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715945648472,
+  "endTime": 1715949201215,
   "band_list": [
+    {
+      "raw_hot": 8838186,
+      "num": 8838186,
+      "word": "歌手直播",
+      "onboard_time": 1715945897,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2547711,
       "num": 2547711,
@@ -67,6 +75,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1534762,
+      "num": 385913,
+      "word": "歌手大战庆余年",
+      "onboard_time": 1715945358,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1496052,
+      "num": 374976,
+      "word": "那英 不在",
+      "onboard_time": 1715948240,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1486938,
       "num": 582711,
       "word": "周杰伦哭了",
@@ -107,6 +131,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 1254007,
+      "num": 295141,
+      "word": "杭盖怎么敢的",
+      "onboard_time": 1715948599,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1213156,
       "num": 1213156,
       "word": "匪我思存吐槽庆余年2广告多",
@@ -145,6 +177,14 @@
       "onboard_time": 1715928378,
       "rank": 11,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1012641,
+      "num": 271361,
+      "word": "双揭榜 双淘汰",
+      "onboard_time": 1715948119,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1001248,
@@ -228,7 +268,7 @@
     },
     {
       "raw_hot": 707844,
-      "num": 288334,
+      "num": 340017,
       "word": "章子怡 戛纳",
       "onboard_time": 1715944457,
       "rank": 32,
@@ -483,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508992,
+      "num": 288065,
+      "word": "杨紫直播",
+      "onboard_time": 1715947998,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508634,
       "num": 508634,
       "word": "歌手2024第二期歌单海报",
@@ -635,14 +683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 414311,
-      "num": 229579,
-      "word": "歌手大战庆余年",
-      "onboard_time": 1715945358,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 414224,
       "num": 177402,
       "word": "庆余年收视率",
@@ -659,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 407447,
+      "num": 280168,
+      "word": "庆余年2",
+      "onboard_time": 1715858657,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403476,
       "num": 242296,
       "word": "王启年女儿",
@@ -673,6 +721,14 @@
       "onboard_time": 1715909840,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 399713,
+      "num": 195036,
+      "word": "歌手2024",
+      "onboard_time": 1715948840,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 396583,
@@ -723,6 +779,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 382782,
+      "num": 382782,
+      "word": "狂飙兄弟被抢手机已还回",
+      "onboard_time": 1715946018,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376031,
+      "num": 376031,
+      "word": "华侨大学回应孕期女老师非升即走被解聘",
+      "onboard_time": 1715943557,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372109,
       "num": 372109,
       "word": "毛晓彤真美",
@@ -755,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358633,
-      "num": 225469,
-      "word": "华侨大学回应孕期女老师非升即走被解聘",
-      "onboard_time": 1715943557,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 357114,
       "num": 124426,
       "word": "蜜雪冰城免单",
@@ -777,6 +841,14 @@
       "onboard_time": 1715862619,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354480,
+      "num": 213605,
+      "word": "成毅直播",
+      "onboard_time": 1715944757,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 346015,
@@ -891,6 +963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 304336,
+      "num": 304336,
+      "word": "咖啡口味为什么越来越卷",
+      "onboard_time": 1715947098,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 301735,
       "num": 287255,
       "word": "这下子关晓彤无法直视狍子了",
@@ -920,6 +1000,14 @@
       "word": "那英今晚唱挣脱",
       "onboard_time": 1715924840,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 291724,
+      "num": 213566,
+      "word": "时间煮雨没郭碧婷我不看",
+      "onboard_time": 1715945358,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -971,14 +1059,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 275779,
-      "num": 213605,
-      "word": "成毅直播",
-      "onboard_time": 1715944757,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275587,
       "num": 275587,
       "word": "鬼称",
@@ -1009,6 +1089,14 @@
       "onboard_time": 1715900955,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268911,
+      "num": 268911,
+      "word": "LPL获得第四个S赛名额",
+      "onboard_time": 1715947818,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 268835,
@@ -1043,6 +1131,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257242,
+      "num": 257242,
+      "word": "老人300万房产送水果摊主二审宣判",
+      "onboard_time": 1715943197,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256425,
+      "num": 261185,
+      "word": "取消全国房贷利率下限对购房者有何影响",
+      "onboard_time": 1715944757,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251946,
       "num": 242444,
       "word": "张若昀希望第三季范闲能平安",
@@ -1075,20 +1179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244453,
-      "num": 213566,
-      "word": "时间煮雨没郭碧婷我不看",
-      "onboard_time": 1715945358,
-      "rank": 25,
+      "raw_hot": 241459,
+      "num": 139629,
+      "word": "歌手歌单",
+      "onboard_time": 1715948420,
+      "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240440,
-      "num": 219112,
-      "word": "老人300万房产送水果摊主二审宣判",
-      "onboard_time": 1715943197,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238996,
@@ -1179,6 +1275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 215601,
+      "num": 139040,
+      "word": "马思纯 开心最重要",
+      "onboard_time": 1715942597,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215456,
       "num": 215456,
       "word": "成毅直播别再仅自己可见了",
@@ -1211,12 +1315,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209613,
+      "num": 209613,
+      "word": "厂长小杨哥解说MSI决赛",
+      "onboard_time": 1715947818,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209160,
       "num": 209160,
       "word": "跟父亲做同事是什么体验",
       "onboard_time": 1715907198,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208888,
+      "num": 138158,
+      "word": "所有人都穿白裤子不告诉魏大勋",
+      "onboard_time": 1715947397,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 208160,
@@ -1251,12 +1371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204441,
-      "num": 204441,
-      "word": "取消全国房贷利率下限对购房者有何影响",
-      "onboard_time": 1715944757,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 204351,
+      "num": 138065,
+      "word": "supernova",
+      "onboard_time": 1715948299,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 203223,
@@ -1353,6 +1473,22 @@
       "onboard_time": 1715875818,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195275,
+      "num": 195275,
+      "word": "T1战胜G2",
+      "onboard_time": 1715945897,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 194828,
+      "num": 194828,
+      "word": "女朋友效应",
+      "onboard_time": 1715946319,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 194549,
@@ -1513,6 +1649,14 @@
       "onboard_time": 1715940019,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180180,
+      "num": 131633,
+      "word": "刘宇宁下播就去录天行健OST",
+      "onboard_time": 1715948058,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 179984,
@@ -1699,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159034,
+      "num": 119471,
+      "word": "朝云暮雨",
+      "onboard_time": 1715948779,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157070,
       "num": 157070,
       "word": "相似度高的人更容易成为伴侣",
@@ -1721,6 +1873,14 @@
       "onboard_time": 1715944998,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154540,
+      "num": 150295,
+      "word": "庆余年 神金翻译",
+      "onboard_time": 1715944097,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 153979,
@@ -1747,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153201,
+      "num": 118800,
+      "word": "香缇莫被挑战",
+      "onboard_time": 1715949141,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152427,
       "num": 144860,
       "word": "王倦 搞笑原创",
@@ -1761,14 +1929,6 @@
       "onboard_time": 1715915958,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150295,
-      "num": 150295,
-      "word": "庆余年 神金翻译",
-      "onboard_time": 1715944097,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 149715,
@@ -1849,6 +2009,14 @@
       "onboard_time": 1715932819,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139990,
+      "num": 139990,
+      "word": "CBA总决赛",
+      "onboard_time": 1715947217,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 139454,
@@ -1939,6 +2107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130809,
+      "num": 130809,
+      "word": "Gumayusi要3比0战胜BLG",
+      "onboard_time": 1715948420,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130061,
       "num": 130061,
       "word": "警方通报残疾女子街头直播遭拍臀",
@@ -1953,6 +2129,14 @@
       "onboard_time": 1715870360,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128742,
+      "num": 128742,
+      "word": "G2发博告别MSI",
+      "onboard_time": 1715948659,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 128525,
@@ -2003,6 +2187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118612,
+      "num": 118612,
+      "word": "死亡笔记 天使L",
+      "onboard_time": 1715947638,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 118092,
       "num": 118092,
       "word": "刘俊谦跪求古天乐拍九龙第二部",
@@ -2017,6 +2209,14 @@
       "onboard_time": 1715903236,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114198,
+      "num": 114198,
+      "word": "郭艾伦采访",
+      "onboard_time": 1715948719,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 113492,
@@ -2048,6 +2248,14 @@
       "word": "谷爱凌学霸家庭都是这么聊天的",
       "onboard_time": 1715943317,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108377,
+      "num": 108377,
+      "word": "辽疆大战",
+      "onboard_time": 1715946378,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -2299,20 +2507,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48378,
+      "num": 303263,
+      "word": "男子地铁晕倒小伙跨车厢飞奔救援",
+      "onboard_time": 1715945419,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47525,
       "num": 298938,
       "word": "勇敢鸭鸭排队跳巢",
       "onboard_time": 1715939540,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46296,
-      "num": 46296,
-      "word": "庆余年2",
-      "onboard_time": 1715858657,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 46015,
@@ -2369,14 +2577,6 @@
       "onboard_time": 1715869100,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 38860,
-      "num": 220114,
-      "word": "男子地铁晕倒小伙跨车厢飞奔救援",
-      "onboard_time": 1715945419,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35656,
