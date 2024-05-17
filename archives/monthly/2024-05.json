@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715931270466,
+  "endTime": 1715934183607,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3435,6 +3435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1016414,
+      "num": 1016414,
+      "word": "取消全国层面一二套个人住房贷款利率下限",
+      "onboard_time": 1715928378,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1015492,
       "num": 416955,
       "word": "梅州高速塌方目击者发声",
@@ -4169,14 +4177,6 @@
       "onboard_time": 1715430139,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 894975,
-      "num": 894975,
-      "word": "取消全国层面一二套个人住房贷款利率下限",
-      "onboard_time": 1715928378,
-      "rank": 11,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 893700,
@@ -6065,6 +6065,14 @@
       "onboard_time": 1715644217,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 715704,
+      "num": 261133,
+      "word": "1岁女孩坐飞机遇到了人生crush",
+      "onboard_time": 1715928079,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 714702,
@@ -8347,6 +8355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582818,
+      "num": 255097,
+      "word": "iPhone7系列用户可获苹果赔偿",
+      "onboard_time": 1715931438,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 581700,
       "num": 262922,
       "word": "和庆余年2对打的是歌手2024吧",
@@ -8675,6 +8691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 562634,
+      "num": 562634,
+      "word": "42岁网红奶茶创始人2年亏损千万",
+      "onboard_time": 1715930659,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 562586,
       "num": 2451083,
       "word": "马龙说现在是王楚钦带着我",
@@ -8753,14 +8777,6 @@
       "onboard_time": 1715485757,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558918,
-      "num": 245139,
-      "word": "1岁女孩坐飞机遇到了人生crush",
-      "onboard_time": 1715928079,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 557501,
@@ -12875,6 +12891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 411161,
+      "num": 411161,
+      "word": "乌尔善回应封神2上映时间",
+      "onboard_time": 1715930779,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 411001,
       "num": 250195,
       "word": "尼格买提 莫奈花园",
@@ -14377,6 +14401,14 @@
       "onboard_time": 1715832438,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 370796,
+      "num": 370796,
+      "word": "官方通报连云港海鲜市场事件",
+      "onboard_time": 1715932877,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370722,
@@ -16779,14 +16811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 310408,
-      "num": 310408,
-      "word": "42岁网红奶茶创始人2年亏损千万",
-      "onboard_time": 1715930659,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 310350,
       "num": 310350,
       "word": "当年的华晨宇",
@@ -18987,14 +19011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269688,
-      "num": 269688,
-      "word": "乌尔善回应封神2上映时间",
-      "onboard_time": 1715930779,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 269550,
       "num": 269550,
       "word": "价格大降榴莲自由要来了吗",
@@ -20555,6 +20571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247517,
+      "num": 247517,
+      "word": "刘敏涛黑化不靠化妆靠演技",
+      "onboard_time": 1715932580,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247241,
       "num": 247241,
       "word": "新人订婚双方狗狗差点打一架",
@@ -22089,6 +22113,14 @@
       "onboard_time": 1715050338,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 229106,
+      "num": 229106,
+      "word": "毛利兰 辉夜姬公主",
+      "onboard_time": 1715932159,
+      "rank": 25,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 229084,
@@ -25251,12 +25283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203118,
+      "num": 203118,
+      "word": "房贷",
+      "onboard_time": 1715928858,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 203108,
       "num": 203108,
       "word": "相信音乐",
       "onboard_time": 1714557678,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202997,
+      "num": 205842,
+      "word": "打卡AAAAA景点叶修",
+      "onboard_time": 1715930479,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 202975,
@@ -25673,14 +25721,6 @@
       "onboard_time": 1715399119,
       "rank": 30,
       "category": "自然"
-    },
-    {
-      "raw_hot": 201064,
-      "num": 201064,
-      "word": "房贷",
-      "onboard_time": 1715928858,
-      "rank": 32,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 201042,
@@ -27161,6 +27201,14 @@
       "onboard_time": 1714548319,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194261,
+      "num": 194261,
+      "word": "成毅直播别再仅自己可见了",
+      "onboard_time": 1715932277,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 194249,
@@ -31395,6 +31443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170914,
+      "num": 170914,
+      "word": "戚薇回应排名第一",
+      "onboard_time": 1715930598,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170880,
       "num": 170880,
       "word": "金智媛机场人气",
@@ -31712,14 +31768,6 @@
       "word": "网友问邓超会去参加歌手吗",
       "onboard_time": 1715582359,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 169044,
-      "num": 169044,
-      "word": "戚薇回应排名第一",
-      "onboard_time": 1715930598,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -32713,6 +32761,14 @@
       "onboard_time": 1714800196,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163642,
+      "num": 163642,
+      "word": "娄艺潇为邓家佳庆生",
+      "onboard_time": 1715932580,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 163557,
@@ -33891,6 +33947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156523,
+      "num": 156523,
+      "word": "女孩子学化妆有多重要",
+      "onboard_time": 1715928079,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 156508,
       "num": 156508,
       "word": "Ailee男友曾出演单身即地狱",
@@ -34235,14 +34299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154715,
-      "num": 154715,
-      "word": "女孩子学化妆有多重要",
-      "onboard_time": 1715928079,
-      "rank": 40,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 154675,
       "num": 154675,
       "word": "王楚钦0511生日快乐",
@@ -34353,6 +34409,14 @@
       "onboard_time": 1715127139,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153979,
+      "num": 153979,
+      "word": "刘端端追着张若昀刺杀了三部剧",
+      "onboard_time": 1715931378,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 153958,
@@ -37547,6 +37611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 135877,
+      "num": 135877,
+      "word": "2024年成都混合团体世界杯",
+      "onboard_time": 1715932941,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135856,
       "num": 135856,
       "word": "厕所会庇佑每一个实习生",
@@ -37977,6 +38049,14 @@
       "onboard_time": 1715438661,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133773,
+      "num": 133773,
+      "word": "闵熙珍拒绝给newjeans注水",
+      "onboard_time": 1715932819,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 133756,
@@ -40009,14 +40089,6 @@
       "onboard_time": 1715700859,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121479,
-      "num": 169142,
-      "word": "打卡AAAAA景点叶修",
-      "onboard_time": 1715930479,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 121464,
@@ -42275,6 +42347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105527,
+      "num": 273970,
+      "word": "可乐加藿香谁能不上头",
+      "onboard_time": 1715933059,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105415,
       "num": 105415,
       "word": "何炅吴昕新综艺",
@@ -42803,6 +42883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100026,
+      "num": 134118,
+      "word": "福建舰航行试验是建造过程中的正常安排",
+      "onboard_time": 1715934140,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 99613,
       "num": 99613,
       "word": "南雅是因为愧疚才嫁给徐毅",
@@ -43329,6 +43417,14 @@
       "onboard_time": 1714520894,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91171,
+      "num": 264495,
+      "word": "宁德时代boss坐什么车",
+      "onboard_time": 1715930179,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 91083,
@@ -44171,14 +44267,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 73445,
-      "num": 243649,
-      "word": "宁德时代boss坐什么车",
-      "onboard_time": 1715930179,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 73430,
       "num": 73430,
       "word": "范闲暴揍范思辙",
@@ -44209,6 +44297,14 @@
       "onboard_time": 1715497218,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73141,
+      "num": 207705,
+      "word": "外国人在河南品尝宋朝美食",
+      "onboard_time": 1715934140,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 73131,
@@ -44745,6 +44841,14 @@
       "onboard_time": 1715325739,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 60410,
+      "num": 214827,
+      "word": "文化中国行看博物馆之宝",
+      "onboard_time": 1715931378,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60333,
