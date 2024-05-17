@@ -1,0 +1,410 @@
+{
+  "runTime": 1715937638098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1587478,
+        "num": 1587478,
+        "word": "那英爆料因歌手直播崩溃",
+        "onboard_time": 1715928438,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 602975,
+        "num": 602975,
+        "word": "公积金",
+        "onboard_time": 1715923641,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 108173,
+        "num": 560572,
+        "word": "逛博物馆比逛菜市场还挤",
+        "onboard_time": 1715934319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631713,
+        "num": 557689,
+        "word": "papi酱已退出因广告违法被罚公司",
+        "onboard_time": 1715921542,
+        "rank": 3,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 553143,
+        "num": 553143,
+        "word": "央行将设3000亿保障性住房再贷款",
+        "onboard_time": 1715935398,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 433822,
+        "num": 433822,
+        "word": "42岁网红奶茶创始人2年亏损千万",
+        "onboard_time": 1715930659,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 420422,
+        "num": 420422,
+        "word": "取消全国层面一二套个人住房贷款利率下限",
+        "onboard_time": 1715928378,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 402574,
+        "num": 402574,
+        "word": "易烊千仔",
+        "onboard_time": 1715936478,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395843,
+        "num": 395843,
+        "word": "100万公积金房贷30年可节省4.8万元",
+        "onboard_time": 1715927299,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69612,
+        "num": 376687,
+        "word": "文化中国行看博物馆之宝",
+        "onboard_time": 1715931378,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451099,
+        "num": 376651,
+        "word": "英国将允许艾滋病感染者捐精捐卵",
+        "onboard_time": 1715916258,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435499,
+        "num": 374049,
+        "word": "韦神改名otto被mlxg骂",
+        "onboard_time": 1715934260,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 361101,
+        "num": 361101,
+        "word": "YG或将重组2NE1",
+        "onboard_time": 1715935219,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329641,
+        "num": 329641,
+        "word": "歌手2024第二期歌单海报",
+        "onboard_time": 1715927419,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320566,
+        "num": 320566,
+        "word": "毛利兰 辉夜姬公主",
+        "onboard_time": 1715932159,
+        "rank": 14,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 290494,
+        "num": 290494,
+        "word": "官方通报连云港海鲜市场事件",
+        "onboard_time": 1715932877,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286923,
+        "num": 286923,
+        "word": "刘敏涛黑化不靠化妆靠演技",
+        "onboard_time": 1715932580,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274909,
+        "num": 274909,
+        "word": "B太被加油站举报",
+        "onboard_time": 1715929279,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266283,
+        "num": 266283,
+        "word": "田曦薇 维密",
+        "onboard_time": 1715915298,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253026,
+        "num": 253026,
+        "word": "车主撞死小狗后推倒狗主致其死亡",
+        "onboard_time": 1715916678,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850223,
+        "num": 252105,
+        "word": "鹿晗银发剪短了",
+        "onboard_time": 1715936059,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 515279,
+        "num": 250311,
+        "word": "iPhone7系列用户可获苹果赔偿",
+        "onboard_time": 1715931438,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 434796,
+        "num": 248651,
+        "word": "1岁女孩坐飞机遇到了人生crush",
+        "onboard_time": 1715928079,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363846,
+        "num": 245838,
+        "word": "身体两处发痒或是肝癌征兆",
+        "onboard_time": 1715920762,
+        "rank": 23,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 245100,
+        "num": 245100,
+        "word": "乌尔善回应封神2上映时间",
+        "onboard_time": 1715930779,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242444,
+        "num": 242444,
+        "word": "张若昀希望第三季范闲能平安",
+        "onboard_time": 1715934558,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238996,
+        "num": 238996,
+        "word": "Yamy淘汰万妮达哭了",
+        "onboard_time": 1715935819,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227318,
+        "num": 227318,
+        "word": "警犬考试不及格的小德牧",
+        "onboard_time": 1715935158,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215992,
+        "num": 215992,
+        "word": "周也 谢可寅",
+        "onboard_time": 1715926158,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208160,
+        "num": 208160,
+        "word": "王源生图",
+        "onboard_time": 1715936839,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216813,
+        "num": 207540,
+        "word": "张拿铁 我只是要面子",
+        "onboard_time": 1715936478,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205791,
+        "num": 205791,
+        "word": "马思纯 瘦身后",
+        "onboard_time": 1715921960,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192473,
+        "num": 192473,
+        "word": "监控下喊孙女名字后老人自杀离世",
+        "onboard_time": 1715927060,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 171830,
+        "num": 171830,
+        "word": "韩国大学食堂真的适合减肥",
+        "onboard_time": 1715935459,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167147,
+        "num": 167147,
+        "word": "那英今晚唱挣脱",
+        "onboard_time": 1715924840,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159763,
+        "num": 159763,
+        "word": "下班前开会",
+        "onboard_time": 1715936959,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155014,
+        "num": 155014,
+        "word": "工资涨了一倍是什么体验",
+        "onboard_time": 1715927539,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149715,
+        "num": 149715,
+        "word": "专家称老百姓购房意愿不强是因为房价没跌到位",
+        "onboard_time": 1715934977,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 145498,
+        "num": 145498,
+        "word": "成毅直播别再仅自己可见了",
+        "onboard_time": 1715932277,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135542,
+        "num": 135542,
+        "word": "新华社专访华晨宇",
+        "onboard_time": 1715935639,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134800,
+        "num": 134800,
+        "word": "支持地方国企收购已建成未出售商品房",
+        "onboard_time": 1715935941,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132559,
+        "num": 132559,
+        "word": "下个月你工资或将多一笔钱",
+        "onboard_time": 1715905818,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 131405,
+        "num": 131405,
+        "word": "奶茶酸奶都卷向壮阳了",
+        "onboard_time": 1715936598,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129627,
+        "num": 129627,
+        "word": "胡歌演抠脚大汉",
+        "onboard_time": 1715937258,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129168,
+        "num": 129168,
+        "word": "娄艺潇为邓家佳庆生",
+        "onboard_time": 1715932580,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120494,
+        "num": 120494,
+        "word": "直播国务院政策例行吹风会",
+        "onboard_time": 1715936238,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114068,
+        "num": 114068,
+        "word": "闵熙珍拒绝给newjeans注水",
+        "onboard_time": 1715932819,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113093,
+        "num": 113093,
+        "word": "张钰琪报名歌手",
+        "onboard_time": 1715918539,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112962,
+        "num": 112962,
+        "word": "央行房贷政策三连发影响多大",
+        "onboard_time": 1715934546,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110199,
+        "num": 110199,
+        "word": "G2对战T1",
+        "onboard_time": 1715934679,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行小范围会晤#"
+    }
+  }
+}
