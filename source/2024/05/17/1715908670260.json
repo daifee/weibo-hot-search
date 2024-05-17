@@ -1,0 +1,410 @@
+{
+  "runTime": 1715908670260,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1664147,
+        "num": 1664147,
+        "word": "下个月你工资或将多一笔钱",
+        "onboard_time": 1715905818,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1213156,
+        "num": 1213156,
+        "word": "匪我思存吐槽庆余年2广告多",
+        "onboard_time": 1715902576,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42705,
+        "num": 1108877,
+        "word": "中国有约",
+        "onboard_time": 1715867300,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1102792,
+        "num": 1102792,
+        "word": "狂飙兄弟",
+        "onboard_time": 1715905279,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 922086,
+        "num": 922086,
+        "word": "连云港海鲜市场",
+        "onboard_time": 1715901555,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653777,
+        "num": 653777,
+        "word": "台湾首现2例日本脑炎病例1人死亡",
+        "onboard_time": 1715907198,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861856,
+        "num": 653736,
+        "word": "王楚然演技 尴尬",
+        "onboard_time": 1715869220,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 661795,
+        "num": 652764,
+        "word": "周杰伦 哥平常是不随便流泪的",
+        "onboard_time": 1715902997,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 336015,
+        "num": 652385,
+        "word": "菲组织单方面宣布成功是坑蒙拐骗",
+        "onboard_time": 1715903297,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98742,
+        "num": 651416,
+        "word": "女警一会儿笑嘻嘻一会儿哭唧唧",
+        "onboard_time": 1715905398,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651372,
+        "num": 651372,
+        "word": "胡海泉出任高校院长",
+        "onboard_time": 1715905218,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19057,
+        "num": 626009,
+        "word": "常温奶和鲜奶的区别大么",
+        "onboard_time": 1715906118,
+        "rank": 11,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 625050,
+        "num": 625050,
+        "word": "市监局回应连云港海鲜市场事件",
+        "onboard_time": 1715908219,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549459,
+        "num": 549459,
+        "word": "江西高考不再区分一本和二本",
+        "onboard_time": 1715904078,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 540811,
+        "num": 540811,
+        "word": "爱奇艺每季度不再公布会员数",
+        "onboard_time": 1715904378,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 530406,
+        "num": 530406,
+        "word": "庆余年 剧王",
+        "onboard_time": 1715861296,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459391,
+        "num": 459391,
+        "word": "高速上逼停小车的2民警被停职",
+        "onboard_time": 1715865440,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424335,
+        "num": 424335,
+        "word": "煎蛋",
+        "onboard_time": 1715905639,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 405959,
+        "num": 405959,
+        "word": "庆余年2的观后感",
+        "onboard_time": 1715874559,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372109,
+        "num": 372109,
+        "word": "毛晓彤真美",
+        "onboard_time": 1715902576,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418332,
+        "num": 372045,
+        "word": "彩礼纠纷致父子持刀杀害前亲家",
+        "onboard_time": 1715869341,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371919,
+        "num": 371919,
+        "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
+        "onboard_time": 1715870541,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 362029,
+        "num": 362029,
+        "word": "坐火车40小时没及时换卫生巾感染送医",
+        "onboard_time": 1715863758,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352167,
+        "num": 352167,
+        "word": "沙溢问时代少年团什么时候解散",
+        "onboard_time": 1715907558,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327274,
+        "num": 327274,
+        "word": "周杰伦哭了",
+        "onboard_time": 1715870779,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296312,
+        "num": 296312,
+        "word": "妇科检查之痛要怪鸭嘴钳吗",
+        "onboard_time": 1715885831,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287873,
+        "num": 287873,
+        "word": "张真源最想鹿晗回归跑男",
+        "onboard_time": 1715907258,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286007,
+        "num": 286007,
+        "word": "二皇子又不穿袜子",
+        "onboard_time": 1715907619,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255894,
+        "num": 255894,
+        "word": "娄烨",
+        "onboard_time": 1715907798,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223966,
+        "num": 223966,
+        "word": "身上发现隐翅虫千万不要拍打",
+        "onboard_time": 1715906478,
+        "rank": 29,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 255907,
+        "num": 221281,
+        "word": "王启年女儿",
+        "onboard_time": 1715898972,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216065,
+        "num": 216065,
+        "word": "菲律宾船只受中方震慑已驶离",
+        "onboard_time": 1715872400,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209160,
+        "num": 209160,
+        "word": "跟父亲做同事是什么体验",
+        "onboard_time": 1715907198,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254142,
+        "num": 208466,
+        "word": "腾讯视频会员",
+        "onboard_time": 1715864299,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182131,
+        "num": 182131,
+        "word": "谁能认得出这是小鬼",
+        "onboard_time": 1715881693,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180839,
+        "num": 180839,
+        "word": "王曼昱是巴黎团体第三人不二人选",
+        "onboard_time": 1715906418,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205470,
+        "num": 180658,
+        "word": "范思辙胖了",
+        "onboard_time": 1715869940,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179653,
+        "num": 179653,
+        "word": "王一博 得宝",
+        "onboard_time": 1715908640,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175628,
+        "num": 175628,
+        "word": "中俄两国元首边走边谈",
+        "onboard_time": 1715902335,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182666,
+        "num": 175067,
+        "word": "庆余年2刷屏这些上市公司或受益",
+        "onboard_time": 1715901136,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173085,
+        "num": 173085,
+        "word": "强大的肠胃简直是一种资产",
+        "onboard_time": 1715908340,
+        "rank": 40,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 170385,
+        "num": 170385,
+        "word": "相亲总是被男方盯着我的房子问",
+        "onboard_time": 1715902696,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165853,
+        "num": 165853,
+        "word": "海关查获47管人体血液样本",
+        "onboard_time": 1715905099,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163985,
+        "num": 163985,
+        "word": "钟楚曦戛纳的妆是自己化的",
+        "onboard_time": 1715902576,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140291,
+        "num": 140291,
+        "word": "歌手",
+        "onboard_time": 1715908398,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139140,
+        "num": 139140,
+        "word": "中国女排3比1美国女排",
+        "onboard_time": 1715900955,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135771,
+        "num": 135771,
+        "word": "孩子张嘴睡觉被家长贴封口贴险缺氧",
+        "onboard_time": 1715896032,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133595,
+        "num": 133595,
+        "word": "庆余年收视率",
+        "onboard_time": 1715866580,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132003,
+        "num": 132003,
+        "word": "李佳琦称今年618大促是难的",
+        "onboard_time": 1715849237,
+        "rank": 48,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 131785,
+        "num": 131785,
+        "word": "成毅工作室文笔",
+        "onboard_time": 1715900895,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京共同会见记者#"
+    }
+  }
+}

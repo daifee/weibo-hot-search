@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715902471430,
+  "endTime": 1715908670260,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -361,6 +361,14 @@
       "onboard_time": 1715677340,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1664147,
+      "num": 1664147,
+      "word": "下个月你工资或将多一笔钱",
+      "onboard_time": 1715905818,
+      "rank": 0,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1657700,
@@ -803,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1213156,
+      "num": 1213156,
+      "word": "匪我思存吐槽庆余年2广告多",
+      "onboard_time": 1715902576,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1210222,
       "num": 1210222,
       "word": "花少北承认煎蛋恋情",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1715734398,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1102792,
+      "num": 1102792,
+      "word": "狂飙兄弟",
+      "onboard_time": 1715905279,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1098738,
@@ -1268,7 +1292,7 @@
     },
     {
       "raw_hot": 956627,
-      "num": 308818,
+      "num": 362029,
       "word": "坐火车40小时没及时换卫生巾感染送医",
       "onboard_time": 1715863758,
       "rank": 48,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1715503699,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 922086,
+      "num": 922086,
+      "word": "连云港海鲜市场",
+      "onboard_time": 1715901555,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 918922,
@@ -1916,7 +1948,7 @@
     },
     {
       "raw_hot": 754503,
-      "num": 184941,
+      "num": 371919,
       "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
       "onboard_time": 1715870541,
       "rank": 23,
@@ -2291,6 +2323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 661795,
+      "num": 652764,
+      "word": "周杰伦 哥平常是不随便流泪的",
+      "onboard_time": 1715902997,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 661165,
       "num": 661165,
       "word": "西安科大改成绩事件多人被处分",
@@ -2331,12 +2371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 653777,
+      "num": 653777,
+      "word": "台湾首现2例日本脑炎病例1人死亡",
+      "onboard_time": 1715907198,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652998,
       "num": 652998,
       "word": "火烧云",
       "onboard_time": 1715512284,
       "rank": 27,
       "category": "自然"
+    },
+    {
+      "raw_hot": 651372,
+      "num": 651372,
+      "word": "胡海泉出任高校院长",
+      "onboard_time": 1715905218,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 650396,
@@ -2489,6 +2545,14 @@
       "onboard_time": 1715499078,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 625050,
+      "num": 625050,
+      "word": "市监局回应连云港海鲜市场事件",
+      "onboard_time": 1715908219,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 624740,
@@ -2732,7 +2796,7 @@
     },
     {
       "raw_hot": 577792,
-      "num": 324402,
+      "num": 405959,
       "word": "庆余年2的观后感",
       "onboard_time": 1715874559,
       "rank": 19,
@@ -2931,6 +2995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549459,
+      "num": 549459,
+      "word": "江西高考不再区分一本和二本",
+      "onboard_time": 1715904078,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 547640,
       "num": 547640,
       "word": "小沈阳用张杰谢娜结婚年份记事",
@@ -2977,6 +3049,14 @@
       "onboard_time": 1715731639,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 540811,
+      "num": 540811,
+      "word": "爱奇艺每季度不再公布会员数",
+      "onboard_time": 1715904378,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 540736,
@@ -4043,6 +4123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424335,
+      "num": 424335,
+      "word": "煎蛋",
+      "onboard_time": 1715905639,
+      "rank": 17,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 423691,
       "num": 423691,
       "word": "晚霞",
@@ -4081,6 +4169,14 @@
       "onboard_time": 1715588600,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418332,
+      "num": 372045,
+      "word": "彩礼纠纷致父子持刀杀害前亲家",
+      "onboard_time": 1715869341,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417996,
@@ -4747,6 +4843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 372109,
+      "num": 372109,
+      "word": "毛晓彤真美",
+      "onboard_time": 1715902576,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371477,
       "num": 371477,
       "word": "背着善宰跑",
@@ -4945,6 +5049,14 @@
       "onboard_time": 1715565257,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 352167,
+      "num": 352167,
+      "word": "沙溢问时代少年团什么时候解散",
+      "onboard_time": 1715907558,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 352052,
@@ -5168,6 +5280,14 @@
       "word": "福宝逐步适应群体生活",
       "onboard_time": 1715837958,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336015,
+      "num": 652385,
+      "word": "菲组织单方面宣布成功是坑蒙拐骗",
+      "onboard_time": 1715903297,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -5851,6 +5971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287873,
+      "num": 287873,
+      "word": "张真源最想鹿晗回归跑男",
+      "onboard_time": 1715907258,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287565,
       "num": 287565,
       "word": "美国家庭财务状况正持续恶化",
@@ -5873,6 +6001,14 @@
       "onboard_time": 1715486358,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286007,
+      "num": 286007,
+      "word": "二皇子又不穿袜子",
+      "onboard_time": 1715907619,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 285866,
@@ -6587,6 +6723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255894,
+      "num": 255894,
+      "word": "娄烨",
+      "onboard_time": 1715907798,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 255800,
       "num": 255800,
       "word": "外国旅游团乘坐邮轮入境免签",
@@ -7179,14 +7323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 232035,
-      "num": 232035,
-      "word": "连云港海鲜市场",
-      "onboard_time": 1715901555,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231213,
       "num": 231213,
       "word": "丁真被男团endingpose硬控了",
@@ -7393,6 +7529,14 @@
       "onboard_time": 1715791635,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 223966,
+      "num": 223966,
+      "word": "身上发现隐翅虫千万不要拍打",
+      "onboard_time": 1715906478,
+      "rank": 29,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 223861,
@@ -7945,6 +8089,14 @@
       "onboard_time": 1715660241,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209160,
+      "num": 209160,
+      "word": "跟父亲做同事是什么体验",
+      "onboard_time": 1715907198,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 208869,
@@ -9579,6 +9731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182666,
+      "num": 175067,
+      "word": "庆余年2刷屏这些上市公司或受益",
+      "onboard_time": 1715901136,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182435,
       "num": 155827,
       "word": "ZB1主打",
@@ -9673,6 +9833,14 @@
       "onboard_time": 1715827998,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179653,
+      "num": 179653,
+      "word": "王一博 得宝",
+      "onboard_time": 1715908640,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 179534,
@@ -9907,6 +10075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175628,
+      "num": 175628,
+      "word": "中俄两国元首边走边谈",
+      "onboard_time": 1715902335,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 175410,
       "num": 175410,
       "word": "Uzi说AJ想虐TheShy",
@@ -10027,6 +10203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173085,
+      "num": 173085,
+      "word": "强大的肠胃简直是一种资产",
+      "onboard_time": 1715908340,
+      "rank": 40,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 172871,
       "num": 172871,
       "word": "不敢全开麦无修音不全是艺人的问题",
@@ -10137,6 +10321,14 @@
       "onboard_time": 1715751138,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170385,
+      "num": 170385,
+      "word": "相亲总是被男方盯着我的房子问",
+      "onboard_time": 1715902696,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 170324,
@@ -10435,6 +10627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165853,
+      "num": 165853,
+      "word": "海关查获47管人体血液样本",
+      "onboard_time": 1715905099,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165835,
       "num": 165835,
       "word": "hala madrid",
@@ -10561,6 +10761,14 @@
       "onboard_time": 1715508320,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163985,
+      "num": 163985,
+      "word": "钟楚曦戛纳的妆是自己化的",
+      "onboard_time": 1715902576,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 163949,
@@ -12331,14 +12539,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 126787,
-      "num": 126787,
-      "word": "庆余年2刷屏这些上市公司或受益",
-      "onboard_time": 1715901136,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126760,
       "num": 150034,
       "word": "华为MatePad",
@@ -13467,6 +13667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98742,
+      "num": 651416,
+      "word": "女警一会儿笑嘻嘻一会儿哭唧唧",
+      "onboard_time": 1715905398,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98542,
       "num": 98542,
       "word": "护士节",
@@ -13801,14 +14009,6 @@
       "onboard_time": 1715634550,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 81112,
-      "num": 81112,
-      "word": "中俄两国元首边走边谈",
-      "onboard_time": 1715902335,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 80956,
@@ -14212,7 +14412,7 @@
     },
     {
       "raw_hot": 55176,
-      "num": 604642,
+      "num": 1108877,
       "word": "中国有约",
       "onboard_time": 1715867300,
       "rank": 2,
@@ -14777,6 +14977,14 @@
       "onboard_time": 1715879415,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19057,
+      "num": 626009,
+      "word": "常温奶和鲜奶的区别大么",
+      "onboard_time": 1715906118,
+      "rank": 11,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 18771,
