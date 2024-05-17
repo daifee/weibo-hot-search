@@ -1,0 +1,410 @@
+{
+  "runTime": 1715988881536,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 835063,
+        "num": 835063,
+        "word": "英子守不住了",
+        "onboard_time": 1715958623,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576797,
+        "num": 576797,
+        "word": "重庆地铁电子屏惊现雷人字幕",
+        "onboard_time": 1715966835,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29755,
+        "num": 505408,
+        "word": "盘点中国知名体育博物馆",
+        "onboard_time": 1715954554,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487320,
+        "num": 487320,
+        "word": "亚当真来歌手了",
+        "onboard_time": 1715956647,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344481,
+        "num": 344481,
+        "word": "中国女排1比3加拿大女排",
+        "onboard_time": 1715987715,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322268,
+        "num": 322268,
+        "word": "如何看待能在床上躺一天的舍友",
+        "onboard_time": 1715956766,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 472347,
+        "num": 308199,
+        "word": "杨丞琳二手玫瑰淘汰",
+        "onboard_time": 1715956766,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285482,
+        "num": 285482,
+        "word": "张若昀 还可以更狂一点",
+        "onboard_time": 1715964436,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168237,
+        "num": 168237,
+        "word": "男童母亲称要看到照片才相信狗已被打死",
+        "onboard_time": 1715956948,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139033,
+        "num": 139033,
+        "word": "取消全国房贷利率下限对购房者有何影响",
+        "onboard_time": 1715944757,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376841,
+        "num": 138165,
+        "word": "肖战工作室发了两个肖战",
+        "onboard_time": 1715987534,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320031,
+        "num": 136815,
+        "word": "杨丞琳 开口跑调",
+        "onboard_time": 1715953343,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311384,
+        "num": 136044,
+        "word": "那英吗 田震吧",
+        "onboard_time": 1715954426,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289842,
+        "num": 135125,
+        "word": "王力宏 歌手",
+        "onboard_time": 1715961320,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112506,
+        "num": 133681,
+        "word": "妈妈被问了五次才想起来自己就是自己",
+        "onboard_time": 1715988014,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51010,
+        "num": 132477,
+        "word": "30岁小伙被裁岳母和女儿在门口迎接",
+        "onboard_time": 1715987474,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131941,
+        "num": 131941,
+        "word": "任何人周五晚上上班都得疯",
+        "onboard_time": 1715958742,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121658,
+        "num": 121658,
+        "word": "这些景区居然是私人的",
+        "onboard_time": 1715952383,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103161,
+        "num": 103161,
+        "word": "连云港",
+        "onboard_time": 1715960300,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102157,
+        "num": 102157,
+        "word": "公积金真的有用吗",
+        "onboard_time": 1715971752,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 273726,
+        "num": 101191,
+        "word": "汪苏泷 我祝他成功",
+        "onboard_time": 1715954126,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254785,
+        "num": 100164,
+        "word": "张韶涵 阿刁",
+        "onboard_time": 1715960241,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224200,
+        "num": 99508,
+        "word": "杨丞琳回应淘汰",
+        "onboard_time": 1715988076,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216099,
+        "num": 98721,
+        "word": "亚当 张玮",
+        "onboard_time": 1715961740,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137042,
+        "num": 97948,
+        "word": "频繁塞牙是牙齿发出的警报",
+        "onboard_time": 1715973192,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194447,
+        "num": 96758,
+        "word": "歌手直播",
+        "onboard_time": 1715945897,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181934,
+        "num": 96039,
+        "word": "周杰伦唱了倒带",
+        "onboard_time": 1715957604,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174133,
+        "num": 95033,
+        "word": "汪苏泷 表现",
+        "onboard_time": 1715956409,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172268,
+        "num": 93717,
+        "word": "歌手",
+        "onboard_time": 1715987474,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120144,
+        "num": 93044,
+        "word": "每周饿2天可减轻脂肪肝",
+        "onboard_time": 1715956409,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151468,
+        "num": 91856,
+        "word": "李小冉晒庆余年四美聚会照",
+        "onboard_time": 1715959761,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127034,
+        "num": 90458,
+        "word": "歌手排名",
+        "onboard_time": 1715954789,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90024,
+        "num": 90024,
+        "word": "房贷新政买房人能省多少钱",
+        "onboard_time": 1715981831,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76583,
+        "num": 76583,
+        "word": "男孩想念去世妈妈给二姨打视频电话",
+        "onboard_time": 1715988555,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72340,
+        "num": 72340,
+        "word": "不吃晚饭和每餐七分饱哪个减肥效果好",
+        "onboard_time": 1715987474,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81905,
+        "num": 71633,
+        "word": "章子怡 戛纳",
+        "onboard_time": 1715944457,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77913,
+        "num": 71335,
+        "word": "鹿晗秦皇岛",
+        "onboard_time": 1715960001,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70559,
+        "num": 70559,
+        "word": "女朋友的情绪价值过于饱满了",
+        "onboard_time": 1715965815,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65429,
+        "num": 65429,
+        "word": "狂飙兄弟被抢手机已还回",
+        "onboard_time": 1715946018,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55110,
+        "num": 55110,
+        "word": "传下去王妈把赵管家忘了",
+        "onboard_time": 1715987474,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66143,
+        "num": 55072,
+        "word": "张若昀说庆余年2比预想晚了好多",
+        "onboard_time": 1715969893,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63281,
+        "num": 55048,
+        "word": "耳帝怒赞那英挣脱",
+        "onboard_time": 1715988435,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54964,
+        "num": 54964,
+        "word": "一句一句发的时候就是急了",
+        "onboard_time": 1715987474,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50388,
+        "num": 50388,
+        "word": "周深演唱会",
+        "onboard_time": 1715958742,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48158,
+        "num": 48158,
+        "word": "LPL获得第四个S赛名额",
+        "onboard_time": 1715947818,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47464,
+        "num": 47464,
+        "word": "歌手大战庆余年",
+        "onboard_time": 1715945358,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45711,
+        "num": 45711,
+        "word": "三只狗带了一只流浪猫回家",
+        "onboard_time": 1715952383,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44690,
+        "num": 44690,
+        "word": "赵樱子镂空透视裙",
+        "onboard_time": 1715988736,
+        "rank": 47,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 44252,
+        "num": 44252,
+        "word": "王媛媛8拦网",
+        "onboard_time": 1715986753,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40267,
+        "num": 40267,
+        "word": "云南一茶厂土方坍塌致3人死亡",
+        "onboard_time": 1715988855,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对旅游工作作出重要指示#"
+    }
+  }
+}
