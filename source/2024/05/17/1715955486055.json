@@ -1,0 +1,410 @@
+{
+  "runTime": 1715955486055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11549712,
+        "num": 11549712,
+        "word": "歌手直播",
+        "onboard_time": 1715945897,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571867,
+        "num": 571867,
+        "word": "狂飙兄弟被抢手机已还回",
+        "onboard_time": 1715946018,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41870,
+        "num": 435497,
+        "word": "盘点中国知名体育博物馆",
+        "onboard_time": 1715954554,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8185110,
+        "num": 416027,
+        "word": "那英吗 田震吧",
+        "onboard_time": 1715954426,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328651,
+        "num": 328651,
+        "word": "得了带状疱疹有多疼",
+        "onboard_time": 1715949920,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281995,
+        "num": 281995,
+        "word": "CBA总决赛",
+        "onboard_time": 1715947217,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5875585,
+        "num": 280410,
+        "word": "英子忘词了",
+        "onboard_time": 1715954186,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684757,
+        "num": 279336,
+        "word": "鹿晗回应剪发",
+        "onboard_time": 1715950221,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276941,
+        "num": 276941,
+        "word": "辽疆大战",
+        "onboard_time": 1715946378,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45819,
+        "num": 274827,
+        "word": "男子救助被撞小猫全网寻领养",
+        "onboard_time": 1715950943,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5369607,
+        "num": 268364,
+        "word": "杨丞琳 开口跑调",
+        "onboard_time": 1715953343,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2047156,
+        "num": 264948,
+        "word": "歌手排名",
+        "onboard_time": 1715954789,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1889763,
+        "num": 255533,
+        "word": "海来阿木请神请到了杨坤",
+        "onboard_time": 1715952443,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1569139,
+        "num": 252001,
+        "word": "杭盖 牛",
+        "onboard_time": 1715949321,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250089,
+        "num": 250089,
+        "word": "张镇麟怒摔球衣",
+        "onboard_time": 1715952264,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98868,
+        "num": 234297,
+        "word": "领克07价格",
+        "onboard_time": 1715952983,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 227353,
+        "num": 227353,
+        "word": "辽宁男篮2比0新疆男篮",
+        "onboard_time": 1715954366,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203940,
+        "num": 203940,
+        "word": "咖啡口味为什么越来越卷",
+        "onboard_time": 1715947098,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191874,
+        "num": 191874,
+        "word": "杨帆开场2分钟染红",
+        "onboard_time": 1715954668,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190800,
+        "num": 190800,
+        "word": "公积金",
+        "onboard_time": 1715923641,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1205385,
+        "num": 190771,
+        "word": "双揭榜 双淘汰",
+        "onboard_time": 1715948119,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1181075,
+        "num": 190586,
+        "word": "那英 不在",
+        "onboard_time": 1715948240,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18552,
+        "num": 190189,
+        "word": "今天歌手现场vivo赢麻了",
+        "onboard_time": 1715952204,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190148,
+        "num": 190148,
+        "word": "市场称抢狂飙兄弟手机男子系保安",
+        "onboard_time": 1715953283,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160947,
+        "num": 190129,
+        "word": "英子别紧张",
+        "onboard_time": 1715949260,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 988214,
+        "num": 188822,
+        "word": "歌手大战庆余年",
+        "onboard_time": 1715945358,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718467,
+        "num": 187884,
+        "word": "凡希亚真的强",
+        "onboard_time": 1715954848,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605725,
+        "num": 187173,
+        "word": "沈梦辰在歌手录跑男",
+        "onboard_time": 1715952983,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224210,
+        "num": 186780,
+        "word": "领克07",
+        "onboard_time": 1715955203,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148626,
+        "num": 185960,
+        "word": "取消全国房贷利率下限对购房者有何影响",
+        "onboard_time": 1715944757,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478021,
+        "num": 185292,
+        "word": "庆余年2",
+        "onboard_time": 1715947277,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 819323,
+        "num": 184606,
+        "word": "亚亚秒了",
+        "onboard_time": 1715954789,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1089887,
+        "num": 183738,
+        "word": "黄宣 投票",
+        "onboard_time": 1715949260,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183278,
+        "num": 183278,
+        "word": "女朋友效应",
+        "onboard_time": 1715946319,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171959,
+        "num": 171959,
+        "word": "英国将允许艾滋病感染者捐精捐卵",
+        "onboard_time": 1715916258,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314867,
+        "num": 165886,
+        "word": "章子怡 戛纳",
+        "onboard_time": 1715944457,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293605,
+        "num": 164600,
+        "word": "鹿晗银发剪短了",
+        "onboard_time": 1715936059,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259060,
+        "num": 162588,
+        "word": "龚俊 戛纳电影节",
+        "onboard_time": 1715950522,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157939,
+        "num": 157939,
+        "word": "这些景区居然是私人的",
+        "onboard_time": 1715952383,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154288,
+        "num": 154288,
+        "word": "未婚女性不能使用精子库供精去父留子",
+        "onboard_time": 1715954006,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239027,
+        "num": 154087,
+        "word": "杨紫直播",
+        "onboard_time": 1715947998,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231520,
+        "num": 153959,
+        "word": "成毅直播",
+        "onboard_time": 1715944757,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194329,
+        "num": 153885,
+        "word": "KTV感",
+        "onboard_time": 1715955445,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153771,
+        "num": 153771,
+        "word": "三只狗带了一只流浪猫回家",
+        "onboard_time": 1715952383,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138676,
+        "num": 153768,
+        "word": "LPL获得第四个S赛名额",
+        "onboard_time": 1715947818,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133722,
+        "num": 153447,
+        "word": "死亡笔记 天使L",
+        "onboard_time": 1715947638,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118791,
+        "num": 153040,
+        "word": "印尼裁判吹罚CBA总决赛",
+        "onboard_time": 1715950882,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109346,
+        "num": 152690,
+        "word": "00后打卡博物馆的新方式",
+        "onboard_time": 1715953825,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 92549,
+        "num": 152460,
+        "word": "不愧是敏捷冠军边牧宝宝",
+        "onboard_time": 1715954489,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91842,
+        "num": 152220,
+        "word": "微距镜头下看灵芝播撒孢子瞬间",
+        "onboard_time": 1715955144,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首北京会晤看点#"
+    }
+  }
+}

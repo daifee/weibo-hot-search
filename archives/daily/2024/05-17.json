@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715952875332,
+  "endTime": 1715955486055,
   "band_list": [
     {
       "raw_hot": 12502247,
@@ -8,6 +8,30 @@
       "word": "歌手直播",
       "onboard_time": 1715945897,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 8185110,
+      "num": 416027,
+      "word": "那英吗 田震吧",
+      "onboard_time": 1715954426,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5875585,
+      "num": 280410,
+      "word": "英子忘词了",
+      "onboard_time": 1715954186,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5369607,
+      "num": 268364,
+      "word": "杨丞琳 开口跑调",
+      "onboard_time": 1715953343,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -59,12 +83,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 2047156,
+      "num": 264948,
+      "word": "歌手排名",
+      "onboard_time": 1715954789,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1901893,
       "num": 1901893,
       "word": "霸王茶姬口令",
       "onboard_time": 1715911457,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1889763,
+      "num": 450307,
+      "word": "海来阿木请神请到了杨坤",
+      "onboard_time": 1715952443,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1749550,
@@ -179,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1279218,
-      "num": 450307,
-      "word": "海来阿木请神请到了杨坤",
-      "onboard_time": 1715952443,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1254007,
       "num": 295141,
       "word": "杭盖怎么敢的",
@@ -217,6 +249,14 @@
       "onboard_time": 1715916678,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1160947,
+      "num": 190129,
+      "word": "英子别紧张",
+      "onboard_time": 1715949260,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1102792,
@@ -275,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 819323,
+      "num": 184606,
+      "word": "亚亚秒了",
+      "onboard_time": 1715954789,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 804497,
       "num": 293313,
       "word": "马思纯 不要老关注着胖瘦",
@@ -321,6 +369,14 @@
       "onboard_time": 1715927299,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 718467,
+      "num": 187884,
+      "word": "凡希亚真的强",
+      "onboard_time": 1715954848,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 715704,
@@ -491,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 605725,
+      "num": 187173,
+      "word": "沈梦辰在歌手录跑男",
+      "onboard_time": 1715952983,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605650,
       "num": 605650,
       "word": "腾讯四部热度破30000剧集",
@@ -529,6 +593,14 @@
       "onboard_time": 1715872400,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 571867,
+      "num": 571867,
+      "word": "狂飙兄弟被抢手机已还回",
+      "onboard_time": 1715946018,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567082,
@@ -619,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517540,
-      "num": 517540,
-      "word": "狂飙兄弟被抢手机已还回",
-      "onboard_time": 1715946018,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 508992,
       "num": 415664,
       "word": "杨紫直播",
@@ -675,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478021,
+      "num": 443472,
+      "word": "庆余年2",
+      "onboard_time": 1715858657,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459332,
       "num": 262911,
       "word": "警犬考试不及格的小德牧",
@@ -705,14 +777,6 @@
       "onboard_time": 1715905639,
       "rank": 17,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 443472,
-      "num": 443472,
-      "word": "庆余年2",
-      "onboard_time": 1715858657,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 442956,
@@ -1019,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328651,
+      "num": 465030,
+      "word": "得了带状疱疹有多疼",
+      "onboard_time": 1715949920,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 324600,
       "num": 288458,
       "word": "HYBE曝NewJeans被闵熙珍PUA",
@@ -1187,12 +1259,20 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 279401,
-      "num": 153003,
-      "word": "英子别紧张",
-      "onboard_time": 1715949260,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 281995,
+      "num": 463449,
+      "word": "CBA总决赛",
+      "onboard_time": 1715947217,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 276941,
+      "num": 457099,
+      "word": "辽疆大战",
+      "onboard_time": 1715946378,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 275587,
@@ -1299,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250089,
+      "num": 335473,
+      "word": "张镇麟怒摔球衣",
+      "onboard_time": 1715952264,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247101,
       "num": 160307,
       "word": "你脸上的痘痘可能是吃出来的",
@@ -1379,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227353,
+      "num": 227353,
+      "word": "辽宁男篮2比0新疆男篮",
+      "onboard_time": 1715954366,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225605,
       "num": 201379,
       "word": "中版恋爱兄妹",
@@ -1393,6 +1489,14 @@
       "onboard_time": 1715930479,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 224210,
+      "num": 186780,
+      "word": "领克07",
+      "onboard_time": 1715955203,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 220278,
@@ -1675,12 +1779,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194329,
+      "num": 153885,
+      "word": "KTV感",
+      "onboard_time": 1715955445,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192699,
       "num": 192699,
       "word": "柳智敏Supernova直拍",
       "onboard_time": 1715943918,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191874,
+      "num": 191874,
+      "word": "杨帆开场2分钟染红",
+      "onboard_time": 1715954668,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 191797,
@@ -1721,6 +1841,14 @@
       "onboard_time": 1715906418,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190148,
+      "num": 190148,
+      "word": "市场称抢狂飙兄弟手机男子系保安",
+      "onboard_time": 1715953283,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189787,
@@ -1867,14 +1995,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 174701,
-      "num": 465030,
-      "word": "得了带状疱疹有多疼",
-      "onboard_time": 1715949920,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 174396,
       "num": 174396,
       "word": "歌手",
@@ -1889,14 +2009,6 @@
       "onboard_time": 1715934546,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 172790,
-      "num": 463449,
-      "word": "CBA总决赛",
-      "onboard_time": 1715947217,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 172343,
@@ -2091,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154288,
+      "num": 154288,
+      "word": "未婚女性不能使用精子库供精去父留子",
+      "onboard_time": 1715954006,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153979,
       "num": 153979,
       "word": "刘端端追着张若昀刺杀了三部剧",
@@ -2203,14 +2323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140692,
-      "num": 457099,
-      "word": "辽疆大战",
-      "onboard_time": 1715946378,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140304,
       "num": 140304,
       "word": "闵熙珍拒绝给newjeans注水",
@@ -2241,14 +2353,6 @@
       "onboard_time": 1715944038,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136158,
-      "num": 335473,
-      "word": "张镇麟怒摔球衣",
-      "onboard_time": 1715952264,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 135877,
@@ -2403,6 +2507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118791,
+      "num": 335310,
+      "word": "印尼裁判吹罚CBA总决赛",
+      "onboard_time": 1715950882,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118092,
       "num": 118092,
       "word": "刘俊谦跪求古天乐拍九龙第二部",
@@ -2443,20 +2555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111478,
-      "num": 335310,
-      "word": "印尼裁判吹罚CBA总决赛",
-      "onboard_time": 1715950882,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111433,
       "num": 111433,
       "word": "谷爱凌学霸家庭都是这么聊天的",
       "onboard_time": 1715943317,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109346,
+      "num": 152690,
+      "word": "00后打卡博物馆的新方式",
+      "onboard_time": 1715953825,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 108173,
@@ -2523,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98868,
+      "num": 234297,
+      "word": "领克07价格",
+      "onboard_time": 1715952983,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 98742,
       "num": 651416,
       "word": "女警一会儿笑嘻嘻一会儿哭唧唧",
@@ -2561,6 +2681,22 @@
       "onboard_time": 1715934140,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 92549,
+      "num": 152460,
+      "word": "不愧是敏捷冠军边牧宝宝",
+      "onboard_time": 1715954489,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 91842,
+      "num": 152220,
+      "word": "微距镜头下看灵芝播撒孢子瞬间",
+      "onboard_time": 1715955144,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 91603,
@@ -2747,6 +2883,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 45819,
+      "num": 479477,
+      "word": "男子救助被撞小猫全网寻领养",
+      "onboard_time": 1715950943,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45397,
       "num": 1230344,
       "word": "中国有约",
@@ -2761,14 +2905,6 @@
       "onboard_time": 1715926578,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45173,
-      "num": 479477,
-      "word": "男子救助被撞小猫全网寻领养",
-      "onboard_time": 1715950943,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44468,
@@ -2793,6 +2929,14 @@
       "onboard_time": 1715880733,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41870,
+      "num": 435497,
+      "word": "盘点中国知名体育博物馆",
+      "onboard_time": 1715954554,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40695,
@@ -2992,6 +3136,9 @@
     },
     {
       "word": "#习近平对旅游工作作出重要指示#"
+    },
+    {
+      "word": "#中俄元首北京会晤看点#"
     }
   ]
 }
