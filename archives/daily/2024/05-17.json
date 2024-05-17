@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715952019589,
+  "endTime": 1715952875332,
   "band_list": [
     {
       "raw_hot": 12502247,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2878444,
-      "num": 480342,
+      "num": 486311,
       "word": "黄宣 投票",
       "onboard_time": 1715949260,
       "rank": 13,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2448824,
-      "num": 450881,
+      "num": 476773,
       "word": "那英 不在",
       "onboard_time": 1715948240,
       "rank": 6,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1707136,
+      "num": 473152,
+      "word": "二手玫瑰是要把嫂子送走么",
+      "onboard_time": 1715952144,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1623442,
       "num": 1623442,
       "word": "市监局回应连云港海鲜市场事件",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1534762,
-      "num": 414430,
+      "num": 447737,
       "word": "歌手大战庆余年",
       "onboard_time": 1715945358,
       "rank": 11,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1475879,
-      "num": 444112,
+      "num": 452581,
       "word": "双揭榜 双淘汰",
       "onboard_time": 1715948119,
       "rank": 13,
@@ -155,6 +163,30 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 1347132,
+      "num": 471913,
+      "word": "黄宣 叫你一声老太婆",
+      "onboard_time": 1715951844,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1314272,
+      "num": 468546,
+      "word": "黄宣太松弛了",
+      "onboard_time": 1715951424,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1279218,
+      "num": 450307,
+      "word": "海来阿木请神请到了杨坤",
+      "onboard_time": 1715952443,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1254007,
       "num": 295141,
       "word": "杭盖怎么敢的",
@@ -164,18 +196,10 @@
     },
     {
       "raw_hot": 1246337,
-      "num": 437182,
+      "num": 449117,
       "word": "汪苏泷 煽情",
       "onboard_time": 1715950882,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1237748,
-      "num": 428252,
-      "word": "黄宣太松弛了",
-      "onboard_time": 1715951424,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -267,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 760248,
-      "num": 414270,
-      "word": "黄宣 叫你一声老太婆",
-      "onboard_time": 1715951844,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 754503,
       "num": 371919,
       "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 715704,
-      "num": 261133,
+      "num": 334136,
       "word": "1岁女孩坐飞机遇到了人生crush",
       "onboard_time": 1715928079,
       "rank": 21,
@@ -337,6 +353,14 @@
       "onboard_time": 1715924360,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693768,
+      "num": 483160,
+      "word": "鹿晗回应剪发",
+      "onboard_time": 1715950221,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 693472,
@@ -403,19 +427,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 651856,
+      "num": 389289,
+      "word": "那英他的手好胖哦",
+      "onboard_time": 1715952204,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 651372,
       "num": 651372,
       "word": "胡海泉出任高校院长",
       "onboard_time": 1715905218,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 638186,
-      "num": 476435,
-      "word": "鹿晗回应剪发",
-      "onboard_time": 1715950221,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 613591,
-      "num": 290730,
+      "num": 334660,
       "word": "iPhone7系列用户可获苹果赔偿",
       "onboard_time": 1715931438,
       "rank": 22,
@@ -683,6 +707,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 443472,
+      "num": 443472,
+      "word": "庆余年2",
+      "onboard_time": 1715858657,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 442956,
       "num": 442956,
       "word": "戚薇二公排名第一",
@@ -704,6 +736,14 @@
       "word": "黄子韬只承认鹿晗比自己帅",
       "onboard_time": 1715864419,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 437357,
+      "num": 335979,
+      "word": "蒙古铁骑支援叶赫那拉",
+      "onboard_time": 1715951363,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -776,14 +816,6 @@
       "word": "庆余年收视率",
       "onboard_time": 1715866580,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 412816,
-      "num": 412816,
-      "word": "庆余年2",
-      "onboard_time": 1715858657,
-      "rank": 46,
       "category": "剧集"
     },
     {
@@ -924,7 +956,7 @@
     },
     {
       "raw_hot": 354480,
-      "num": 290659,
+      "num": 334988,
       "word": "成毅直播",
       "onboard_time": 1715944757,
       "rank": 24,
@@ -987,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327074,
-      "num": 327074,
-      "word": "蒙古铁骑支援叶赫那拉",
-      "onboard_time": 1715951363,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 324600,
       "num": 288458,
       "word": "HYBE曝NewJeans被闵熙珍PUA",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1715919321,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310267,
+      "num": 335842,
+      "word": "嫂子送",
+      "onboard_time": 1715952743,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 308932,
@@ -1188,7 +1220,7 @@
     },
     {
       "raw_hot": 270513,
-      "num": 270513,
+      "num": 334952,
       "word": "龚俊 戛纳电影节",
       "onboard_time": 1715950522,
       "rank": 41,
@@ -1244,7 +1276,7 @@
     },
     {
       "raw_hot": 257242,
-      "num": 290867,
+      "num": 334163,
       "word": "老人300万房产送水果摊主二审宣判",
       "onboard_time": 1715943197,
       "rank": 19,
@@ -1252,7 +1284,7 @@
     },
     {
       "raw_hot": 256425,
-      "num": 413843,
+      "num": 414459,
       "word": "取消全国房贷利率下限对购房者有何影响",
       "onboard_time": 1715944757,
       "rank": 29,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1715921903,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245230,
+      "num": 490460,
+      "word": "女朋友效应",
+      "onboard_time": 1715946319,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 245009,
@@ -1332,7 +1372,7 @@
     },
     {
       "raw_hot": 228514,
-      "num": 228514,
+      "num": 334547,
       "word": "刘宇宁下播就去录天行健OST",
       "onboard_time": 1715948058,
       "rank": 36,
@@ -1353,14 +1393,6 @@
       "onboard_time": 1715930479,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 223764,
-      "num": 416078,
-      "word": "女朋友效应",
-      "onboard_time": 1715946319,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 220278,
@@ -1444,7 +1476,7 @@
     },
     {
       "raw_hot": 209613,
-      "num": 415337,
+      "num": 425816,
       "word": "厂长小杨哥解说MSI决赛",
       "onboard_time": 1715947818,
       "rank": 18,
@@ -1536,6 +1568,14 @@
       "word": "想牵手上厕所的有福了",
       "onboard_time": 1715921781,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 200958,
+      "num": 336172,
+      "word": "三只狗带了一只流浪猫回家",
+      "onboard_time": 1715952383,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -1787,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178931,
+      "num": 335759,
+      "word": "这些景区居然是私人的",
+      "onboard_time": 1715952383,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178195,
       "num": 178195,
       "word": "爱德华兹太生猛了",
@@ -1819,6 +1867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174701,
+      "num": 465030,
+      "word": "得了带状疱疹有多疼",
+      "onboard_time": 1715949920,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174396,
       "num": 174396,
       "word": "歌手",
@@ -1833,6 +1889,14 @@
       "onboard_time": 1715934546,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 172790,
+      "num": 463449,
+      "word": "CBA总决赛",
+      "onboard_time": 1715947217,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 172343,
@@ -1947,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163532,
+      "num": 459712,
+      "word": "死亡笔记 天使L",
+      "onboard_time": 1715947638,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 162333,
       "num": 162333,
       "word": "A股",
@@ -1955,16 +2027,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 161655,
-      "num": 415128,
-      "word": "得了带状疱疹有多疼",
-      "onboard_time": 1715949920,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 161097,
-      "num": 414653,
+      "num": 430245,
       "word": "解说33上线",
       "onboard_time": 1715951243,
       "rank": 19,
@@ -1988,7 +2052,7 @@
     },
     {
       "raw_hot": 158320,
-      "num": 303729,
+      "num": 336445,
       "word": "Gumayusi要3比0战胜BLG",
       "onboard_time": 1715948420,
       "rank": 37,
@@ -2009,14 +2073,6 @@
       "onboard_time": 1715928079,
       "rank": 40,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 155323,
-      "num": 413454,
-      "word": "死亡笔记 天使L",
-      "onboard_time": 1715947638,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 154924,
@@ -2115,14 +2171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144931,
-      "num": 381893,
-      "word": "CBA总决赛",
-      "onboard_time": 1715947217,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144368,
       "num": 87667,
       "word": "被腾讯装到了",
@@ -2155,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140692,
+      "num": 457099,
+      "word": "辽疆大战",
+      "onboard_time": 1715946378,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140304,
       "num": 140304,
       "word": "闵熙珍拒绝给newjeans注水",
@@ -2185,6 +2241,14 @@
       "onboard_time": 1715944038,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136158,
+      "num": 335473,
+      "word": "张镇麟怒摔球衣",
+      "onboard_time": 1715952264,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 135877,
@@ -2276,7 +2340,7 @@
     },
     {
       "raw_hot": 128902,
-      "num": 199594,
+      "num": 333728,
       "word": "郭艾伦采访",
       "onboard_time": 1715948719,
       "rank": 46,
@@ -2347,14 +2411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117302,
-      "num": 301642,
-      "word": "辽疆大战",
-      "onboard_time": 1715946378,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114778,
       "num": 128416,
       "word": "朵莉亚皮肤",
@@ -2388,7 +2444,7 @@
     },
     {
       "raw_hot": 111478,
-      "num": 290667,
+      "num": 335310,
       "word": "印尼裁判吹罚CBA总决赛",
       "onboard_time": 1715950882,
       "rank": 39,
@@ -2579,6 +2635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78870,
+      "num": 333927,
+      "word": "WBG春决第一鸡",
+      "onboard_time": 1715950341,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75443,
       "num": 75443,
       "word": "这6种早餐吃法伤身体",
@@ -2699,12 +2763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45123,
-      "num": 462032,
+      "raw_hot": 45173,
+      "num": 479477,
       "word": "男子救助被撞小猫全网寻领养",
       "onboard_time": 1715950943,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44468,
+      "num": 391888,
+      "word": "今天歌手现场vivo赢麻了",
+      "onboard_time": 1715952204,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 44099,
@@ -2917,6 +2989,9 @@
     },
     {
       "word": "#习近平向第八届中俄博览会致贺信#"
+    },
+    {
+      "word": "#习近平对旅游工作作出重要指示#"
     }
   ]
 }
