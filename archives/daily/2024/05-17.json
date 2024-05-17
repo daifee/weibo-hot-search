@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715937638098,
+  "endTime": 1715938475144,
   "band_list": [
     {
       "raw_hot": 2547711,
@@ -163,7 +163,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 850223,
+      "raw_hot": 897035,
       "num": 252105,
       "word": "鹿晗银发剪短了",
       "onboard_time": 1715936059,
@@ -257,6 +257,14 @@
       "onboard_time": 1715910317,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 666664,
+      "num": 666664,
+      "word": "央行将设3000亿保障性住房再贷款",
+      "onboard_time": 1715935398,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 661795,
@@ -387,12 +395,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 553143,
-      "num": 553143,
-      "word": "央行将设3000亿保障性住房再贷款",
-      "onboard_time": 1715935398,
-      "rank": 4,
-      "category": "财经"
+      "raw_hot": 553278,
+      "num": 402574,
+      "word": "易烊千仔",
+      "onboard_time": 1715936478,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 549459,
@@ -601,14 +609,6 @@
       "onboard_time": 1715898972,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 402574,
-      "num": 402574,
-      "word": "易烊千仔",
-      "onboard_time": 1715936478,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 400646,
@@ -915,6 +915,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265315,
+      "num": 265315,
+      "word": "人民文娱评吴磊骑有此理",
+      "onboard_time": 1715938278,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 262911,
+      "num": 262911,
+      "word": "警犬考试不及格的小德牧",
+      "onboard_time": 1715935158,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260243,
       "num": 291902,
       "word": "8个姐姐排队给弟弟弟媳挂钱1人1万",
@@ -936,6 +952,14 @@
       "word": "李沁庆余年2戏份",
       "onboard_time": 1715925199,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 251946,
+      "num": 242444,
+      "word": "张若昀希望第三季范闲能平安",
+      "onboard_time": 1715934558,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -963,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242444,
-      "num": 242444,
-      "word": "张若昀希望第三季范闲能平安",
-      "onboard_time": 1715934558,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238996,
       "num": 238996,
       "word": "Yamy淘汰万妮达哭了",
@@ -993,14 +1009,6 @@
       "onboard_time": 1715906478,
       "rank": 29,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 227318,
-      "num": 227318,
-      "word": "警犬考试不及格的小德牧",
-      "onboard_time": 1715935158,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 225605,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1715900895,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213048,
+      "num": 213048,
+      "word": "逆水寒沧澜实机",
+      "onboard_time": 1715938038,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 209160,
@@ -1675,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134259,
+      "num": 134259,
+      "word": "胡歌演抠脚大汉",
+      "onboard_time": 1715937258,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133961,
       "num": 133961,
       "word": "刘耀文说时代少年团可以在一起到40岁",
@@ -1713,14 +1737,6 @@
       "onboard_time": 1715870360,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129627,
-      "num": 129627,
-      "word": "胡歌演抠脚大汉",
-      "onboard_time": 1715937258,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 128525,
@@ -1883,6 +1899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 90225,
+      "num": 376687,
+      "word": "文化中国行看博物馆之宝",
+      "onboard_time": 1715931378,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87672,
       "num": 87672,
       "word": "教育厅回应大学转设致学生毕业证无法发放",
@@ -1955,12 +1979,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 69612,
-      "num": 376687,
-      "word": "文化中国行看博物馆之宝",
-      "onboard_time": 1715931378,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 63081,
+      "num": 126853,
+      "word": "vivoX100s销量翻了近8倍",
+      "onboard_time": 1715938398,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 56605,
