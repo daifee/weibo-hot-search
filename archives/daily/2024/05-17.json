@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715930262006,
+  "endTime": 1715931270466,
   "band_list": [
     {
       "raw_hot": 2547711,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2269801,
-      "num": 556251,
+      "num": 563574,
       "word": "英国将允许艾滋病感染者捐精捐卵",
       "onboard_time": 1715916258,
       "rank": 20,
@@ -35,20 +35,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1749550,
+      "num": 1749550,
+      "word": "那英爆料因歌手直播崩溃",
+      "onboard_time": 1715928438,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1742910,
       "num": 1742910,
       "word": "庆余年 剧王",
       "onboard_time": 1715861296,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1676522,
-      "num": 1676522,
-      "word": "那英爆料因歌手直播崩溃",
-      "onboard_time": 1715928438,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1623442,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 894975,
+      "num": 894975,
+      "word": "取消全国层面一二套个人住房贷款利率下限",
+      "onboard_time": 1715928378,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 754503,
       "num": 371919,
       "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
@@ -171,8 +179,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 718499,
-      "num": 718499,
+      "raw_hot": 720931,
+      "num": 720931,
       "word": "100万公积金房贷30年可节省4.8万元",
       "onboard_time": 1715927299,
       "rank": 40,
@@ -193,14 +201,6 @@
       "onboard_time": 1715924360,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699426,
-      "num": 422386,
-      "word": "取消全国层面一二套个人住房贷款利率下限",
-      "onboard_time": 1715928378,
-      "rank": 11,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 693472,
@@ -249,6 +249,14 @@
       "onboard_time": 1715902997,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 658627,
+      "num": 658627,
+      "word": "B太被加油站举报",
+      "onboard_time": 1715929279,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 651372,
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 558918,
+      "num": 245139,
+      "word": "1岁女孩坐飞机遇到了人生crush",
+      "onboard_time": 1715928079,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 555182,
       "num": 555182,
       "word": "人在什么时候最舒服",
@@ -371,6 +387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 540509,
+      "num": 540509,
+      "word": "封神第二部无缘暑假档",
+      "onboard_time": 1715929999,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 532868,
       "num": 532868,
       "word": "沙溢问时代少年团什么时候解散",
@@ -387,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508634,
+      "num": 508634,
+      "word": "歌手2024第二期歌单海报",
+      "onboard_time": 1715927419,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507060,
       "num": 183880,
       "word": "范思辙胖了",
       "onboard_time": 1715869940,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 484895,
-      "num": 243564,
-      "word": "1岁女孩坐飞机遇到了人生crush",
-      "onboard_time": 1715928079,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 479462,
@@ -424,14 +448,6 @@
       "word": "高速上逼停小车的2民警被停职",
       "onboard_time": 1715865440,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474233,
-      "num": 474233,
-      "word": "B太被加油站举报",
-      "onboard_time": 1715929279,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -529,14 +545,6 @@
       "onboard_time": 1715866580,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 411131,
-      "num": 411131,
-      "word": "歌手2024第二期歌单海报",
-      "onboard_time": 1715927419,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 403476,
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310408,
+      "num": 310408,
+      "word": "42岁网红奶茶创始人2年亏损千万",
+      "onboard_time": 1715930659,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 308932,
       "num": 241103,
       "word": "成毅工作室文笔",
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 295210,
-      "num": 238274,
+      "num": 240314,
       "word": "监控下喊孙女名字后老人自杀离世",
       "onboard_time": 1715927060,
       "rank": 49,
@@ -811,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269688,
+      "num": 269688,
+      "word": "乌尔善回应封神2上映时间",
+      "onboard_time": 1715930779,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268835,
       "num": 97104,
       "word": "二皇子范闲 嗑了",
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 259503,
-      "num": 233850,
+      "num": 238270,
       "word": "工资涨了一倍是什么体验",
       "onboard_time": 1715927539,
       "rank": 42,
@@ -899,20 +923,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220260,
+      "num": 219738,
+      "word": "辛芷蕾海棠朵朵人气",
+      "onboard_time": 1715929639,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219764,
       "num": 238452,
       "word": "江西11岁男孩留遗书跳楼案二审",
       "onboard_time": 1715916559,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219738,
-      "num": 219738,
-      "word": "辛芷蕾海棠朵朵人气",
-      "onboard_time": 1715929639,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 215905,
@@ -987,20 +1011,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 200770,
-      "num": 200770,
-      "word": "封神第二部无缘暑假档",
-      "onboard_time": 1715929999,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 199869,
       "num": 199869,
       "word": "电影她的小梨涡定档七夕",
       "onboard_time": 1715916440,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199814,
+      "num": 199814,
+      "word": "首套二套房首付比例均降至历史最低",
+      "onboard_time": 1715930719,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 199109,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1715921661,
       "rank": 45,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 197411,
+      "num": 197411,
+      "word": "2024MSI",
+      "onboard_time": 1715930598,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 197294,
@@ -1243,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169044,
+      "num": 169044,
+      "word": "戚薇回应排名第一",
+      "onboard_time": 1715930598,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168622,
       "num": 134064,
       "word": "陛下在穿运动鞋",
@@ -1387,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143691,
+      "num": 143691,
+      "word": "十个勤天518",
+      "onboard_time": 1715929759,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139454,
       "num": 139454,
       "word": "柴犬最适合的cos出现了",
@@ -1404,7 +1452,7 @@
     },
     {
       "raw_hot": 135118,
-      "num": 422808,
+      "num": 566375,
       "word": "寻找博物馆里的龙文物",
       "onboard_time": 1715928858,
       "rank": 9,
@@ -1416,14 +1464,6 @@
       "word": "刘耀文说时代少年团可以在一起到40岁",
       "onboard_time": 1715911638,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 133910,
-      "num": 133910,
-      "word": "十个勤天518",
-      "onboard_time": 1715929759,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1473,6 +1513,14 @@
       "onboard_time": 1715869760,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121479,
+      "num": 169142,
+      "word": "打卡AAAAA景点叶修",
+      "onboard_time": 1715930479,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 114778,
@@ -1620,7 +1668,7 @@
     },
     {
       "raw_hot": 73445,
-      "num": 133923,
+      "num": 243649,
       "word": "宁德时代boss坐什么车",
       "onboard_time": 1715930179,
       "rank": 48,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1715915358,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 56605,
+      "num": 202197,
+      "word": "迪丽热巴的AI搭子",
+      "onboard_time": 1715929399,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 56499,
@@ -1665,14 +1721,6 @@
       "onboard_time": 1715900534,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 52432,
-      "num": 202197,
-      "word": "迪丽热巴的AI搭子",
-      "onboard_time": 1715929399,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 50478,
@@ -1867,7 +1915,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5692,
+      "raw_hot": 7226,
       "num": 1009823,
       "word": "发现最美铁路",
       "onboard_time": 1715844498,
