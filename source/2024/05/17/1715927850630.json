@@ -1,0 +1,410 @@
+{
+  "runTime": 1715927850630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2090023,
+        "num": 2090023,
+        "word": "个人住房公积金贷款利率下调0.25%",
+        "onboard_time": 1715923521,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1564105,
+        "num": 1564105,
+        "word": "公积金",
+        "onboard_time": 1715923641,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 146341,
+        "num": 1149925,
+        "word": "博物馆里一眼惊艳的文物",
+        "onboard_time": 1715915298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120529,
+        "num": 1120529,
+        "word": "papi酱已退出因广告违法被罚公司",
+        "onboard_time": 1715921542,
+        "rank": 3,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 704145,
+        "num": 704145,
+        "word": "房地产",
+        "onboard_time": 1715924360,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686020,
+        "num": 686020,
+        "word": "周也 谢可寅",
+        "onboard_time": 1715926158,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574621,
+        "num": 574621,
+        "word": "连云港",
+        "onboard_time": 1715923041,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545929,
+        "num": 545929,
+        "word": "田曦薇 维密",
+        "onboard_time": 1715915298,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 529126,
+        "num": 529126,
+        "word": "车主撞死小狗后推倒狗主致其死亡",
+        "onboard_time": 1715916678,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73675,
+        "num": 499085,
+        "word": "被小小猫头鹰认真吃饭喝水萌到",
+        "onboard_time": 1715923461,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 973269,
+        "num": 496148,
+        "word": "英国将允许艾滋病感染者捐精捐卵",
+        "onboard_time": 1715916258,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493003,
+        "num": 493003,
+        "word": "马思纯 瘦身后",
+        "onboard_time": 1715921960,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432933,
+        "num": 432933,
+        "word": "海鲜市场鬼秤事件附近商户发声",
+        "onboard_time": 1715926100,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382459,
+        "num": 382459,
+        "word": "戚薇二公排名第一",
+        "onboard_time": 1715924060,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334185,
+        "num": 334185,
+        "word": "下个月你工资或将多一笔钱",
+        "onboard_time": 1715905818,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 327727,
+        "num": 327727,
+        "word": "叶轻眉给庆帝带的运动鞋",
+        "onboard_time": 1715911939,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287705,
+        "num": 287705,
+        "word": "躺了五年还给范闲躺漏气了",
+        "onboard_time": 1715919981,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286250,
+        "num": 286250,
+        "word": "连云港鬼秤商贩已被清出市场",
+        "onboard_time": 1715914818,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280754,
+        "num": 280754,
+        "word": "那英今晚唱挣脱",
+        "onboard_time": 1715924840,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177504,
+        "num": 177504,
+        "word": "市监局回应连云港海鲜市场事件",
+        "onboard_time": 1715908219,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45231,
+        "num": 177023,
+        "word": "安慕酸酪也在等范闲重生",
+        "onboard_time": 1715926578,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 679914,
+        "num": 176197,
+        "word": "身体两处发痒或是肝癌征兆",
+        "onboard_time": 1715920762,
+        "rank": 21,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 264884,
+        "num": 175412,
+        "word": "惠英红 易烊千玺在后面赶紧去",
+        "onboard_time": 1715922500,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248414,
+        "num": 174754,
+        "word": "李沁庆余年2戏份",
+        "onboard_time": 1715925199,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247708,
+        "num": 174340,
+        "word": "张钰琪报名歌手",
+        "onboard_time": 1715918539,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237252,
+        "num": 173545,
+        "word": "歌手2024第二期歌单海报",
+        "onboard_time": 1715927419,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213566,
+        "num": 172755,
+        "word": "kep1er续约确认失败",
+        "onboard_time": 1715919260,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194580,
+        "num": 172453,
+        "word": "你购房是公积金贷还是商贷",
+        "onboard_time": 1715927299,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 194196,
+        "num": 171329,
+        "word": "三件小事最耗气血",
+        "onboard_time": 1715921661,
+        "rank": 28,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 88995,
+        "num": 171013,
+        "word": "江西11岁男孩留遗书跳楼案二审",
+        "onboard_time": 1715916559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205827,
+        "num": 170225,
+        "word": "监控下喊孙女名字后老人自杀离世",
+        "onboard_time": 1715927060,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 191759,
+        "num": 169163,
+        "word": "HYBE曝NewJeans被闵熙珍PUA",
+        "onboard_time": 1715922860,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189598,
+        "num": 168373,
+        "word": "靳梦佳淘汰",
+        "onboard_time": 1715927659,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188763,
+        "num": 167723,
+        "word": "爱一个事事有回应的人什么体验",
+        "onboard_time": 1715926639,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124714,
+        "num": 167256,
+        "word": "向不吃榴莲的人致敬",
+        "onboard_time": 1715922561,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184133,
+        "num": 166582,
+        "word": "周杰伦说华语说唱少说英文",
+        "onboard_time": 1715923942,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186037,
+        "num": 165471,
+        "word": "范闲范思辙 肉不会消失只会转移",
+        "onboard_time": 1715925620,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182645,
+        "num": 164888,
+        "word": "为何年轻人爱上了老年人用品",
+        "onboard_time": 1715927118,
+        "rank": 37,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 164602,
+        "num": 164602,
+        "word": "想牵手上厕所的有福了",
+        "onboard_time": 1715921781,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163170,
+        "num": 163170,
+        "word": "腾讯四部热度破30000剧集",
+        "onboard_time": 1715915418,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155097,
+        "num": 155097,
+        "word": "100万公积金房贷30年可节省4.8万元",
+        "onboard_time": 1715927299,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153541,
+        "num": 153541,
+        "word": "工资翻番治好了我的精神内耗",
+        "onboard_time": 1715927480,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150489,
+        "num": 150489,
+        "word": "工资涨了一倍是什么体验",
+        "onboard_time": 1715927539,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139594,
+        "num": 139594,
+        "word": "垫底辣孩戛纳红毯",
+        "onboard_time": 1715915298,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138080,
+        "num": 138080,
+        "word": "腾讯视频客服回应庆余年2剧集被倒卖",
+        "onboard_time": 1715918539,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131436,
+        "num": 131436,
+        "word": "林允的第一部大女主戏",
+        "onboard_time": 1715923041,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128398,
+        "num": 128398,
+        "word": "周杰伦 哥平常是不随便流泪的",
+        "onboard_time": 1715902997,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124144,
+        "num": 124144,
+        "word": "庆余年 剧王",
+        "onboard_time": 1715861296,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123747,
+        "num": 123747,
+        "word": "这下子关晓彤无法直视狍子了",
+        "onboard_time": 1715919139,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112003,
+        "num": 112003,
+        "word": "8个姐姐排队给弟弟弟媳挂钱1人1万",
+        "onboard_time": 1715917999,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为中俄友好的世代传承注入新动力#"
+    }
+  }
+}
