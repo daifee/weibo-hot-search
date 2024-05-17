@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1715963920643,
+  "endTime": 1715966269937,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230801,
+      "num": 132226,
+      "word": "张若昀 还可以更狂一点",
+      "onboard_time": 1715964436,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176426,
       "num": 219862,
       "word": "戚薇就算再被打脸也不愿退一步",
@@ -339,6 +347,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95730,
+      "num": 122949,
+      "word": "张真源变张真火",
+      "onboard_time": 1715964616,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92996,
+      "num": 114464,
+      "word": "英子别紧张",
+      "onboard_time": 1715949260,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91753,
       "num": 260166,
       "word": "每天吃一个西红柿或能收获4种好处",
@@ -361,6 +385,14 @@
       "onboard_time": 1715959401,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 83762,
+      "num": 122757,
+      "word": "王鹤棣音综从嘻嘻到不嘻嘻",
+      "onboard_time": 1715964856,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 82361,
@@ -387,6 +419,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 64740,
+      "num": 131939,
+      "word": "女朋友的情绪价值过于饱满了",
+      "onboard_time": 1715965815,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57103,
       "num": 219339,
       "word": "别以为躲窗帘后边就抽不到你",
@@ -403,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51281,
+      "num": 220045,
+      "word": "张镇麟怒摔球衣",
+      "onboard_time": 1715952264,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46024,
       "num": 259161,
       "word": "弗格34分",
@@ -411,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45251,
-      "num": 220045,
-      "word": "张镇麟怒摔球衣",
-      "onboard_time": 1715952264,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 43476,
+      "num": 114257,
+      "word": "他走了20公里来看病",
+      "onboard_time": 1715964436,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 35799,
@@ -425,6 +473,14 @@
       "onboard_time": 1715954554,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29779,
+      "num": 114244,
+      "word": "CBA总决赛",
+      "onboard_time": 1715947217,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715963920643,
+  "endTime": 1715966269937,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -22611,6 +22611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230801,
+      "num": 132226,
+      "word": "张若昀 还可以更狂一点",
+      "onboard_time": 1715964436,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230737,
       "num": 201412,
       "word": "璩静离职24小时",
@@ -44339,6 +44347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95730,
+      "num": 122949,
+      "word": "张真源变张真火",
+      "onboard_time": 1715964616,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95676,
       "num": 95676,
       "word": "让人快速变老变丑的5个坏习惯",
@@ -44985,6 +45001,14 @@
       "onboard_time": 1715225358,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83762,
+      "num": 122757,
+      "word": "王鹤棣音综从嘻嘻到不嘻嘻",
+      "onboard_time": 1715964856,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 83620,
@@ -45929,6 +45953,14 @@
       "onboard_time": 1715203391,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64740,
+      "num": 131939,
+      "word": "女朋友的情绪价值过于饱满了",
+      "onboard_time": 1715965815,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 64357,
@@ -47017,6 +47049,14 @@
       "onboard_time": 1714705157,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43476,
+      "num": 114257,
+      "word": "他走了20公里来看病",
+      "onboard_time": 1715964436,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 43304,
