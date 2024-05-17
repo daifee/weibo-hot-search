@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715920536953,
+  "endTime": 1715923146929,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1923,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777027,
+      "num": 216774,
+      "word": "papi酱已退出因广告违法被罚公司",
+      "onboard_time": 1715921542,
+      "rank": 20,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 776271,
       "num": 776271,
       "word": "一孕傻三年的调侃掩盖了妈妈们的求救",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1715757018,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693472,
+      "num": 214696,
+      "word": "身体两处发痒或是肝癌征兆",
+      "onboard_time": 1715920762,
+      "rank": 22,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 689080,
@@ -2777,6 +2793,14 @@
       "onboard_time": 1715856318,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 602914,
+      "num": 432100,
+      "word": "马思纯 瘦身后",
+      "onboard_time": 1715921960,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 600975,
@@ -4331,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420252,
+      "num": 420252,
+      "word": "躺了五年还给范闲躺漏气了",
+      "onboard_time": 1715919981,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418734,
       "num": 262600,
       "word": "最苦的两个英子",
@@ -5371,6 +5403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345445,
+      "num": 345445,
+      "word": "那英马甲线",
+      "onboard_time": 1715922079,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344056,
       "num": 201318,
       "word": "蒲熠星眼睛",
@@ -5803,6 +5843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 315148,
+      "num": 214388,
+      "word": "惠英红 易烊千玺在后面赶紧去",
+      "onboard_time": 1715922500,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314124,
       "num": 314124,
       "word": "新华社发了王一博的给妈咪",
@@ -5939,6 +5987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304190,
+      "num": 212689,
+      "word": "HYBE曝NewJeans被闵熙珍PUA",
+      "onboard_time": 1715922860,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304050,
       "num": 264289,
       "word": "病人喝自己的胆汁",
@@ -5984,6 +6040,14 @@
       "word": "张予曦 我相信有真爱",
       "onboard_time": 1715688199,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301735,
+      "num": 287255,
+      "word": "这下子关晓彤无法直视狍子了",
+      "onboard_time": 1715919139,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -6217,14 +6281,6 @@
       "onboard_time": 1715907619,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287255,
-      "num": 287255,
-      "word": "这下子关晓彤无法直视狍子了",
-      "onboard_time": 1715919139,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 286701,
@@ -7283,6 +7339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246033,
+      "num": 206716,
+      "word": "张若昀接到庆余年剧本时是第八稿",
+      "onboard_time": 1715921903,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245027,
       "num": 218593,
       "word": "宋轶一番女主",
@@ -7667,6 +7731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229527,
+      "num": 213204,
+      "word": "歌手2024请揭榜",
+      "onboard_time": 1715576182,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229405,
       "num": 229405,
       "word": "身上发现隐翅虫千万不要拍打",
@@ -7744,14 +7816,6 @@
       "word": "马伊琍拍我的阿勒泰中途补拍繁花",
       "onboard_time": 1715556675,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 226042,
-      "num": 226042,
-      "word": "躺了五年还给范闲躺漏气了",
-      "onboard_time": 1715919981,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -8233,14 +8297,6 @@
       "onboard_time": 1715655738,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213204,
-      "num": 213204,
-      "word": "歌手2024请揭榜",
-      "onboard_time": 1715576182,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 213095,
@@ -8793,6 +8849,14 @@
       "onboard_time": 1715728935,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 202304,
+      "num": 202304,
+      "word": "想牵手上厕所的有福了",
+      "onboard_time": 1715921781,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 202102,
@@ -9363,6 +9427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194549,
+      "num": 194549,
+      "word": "儿童电话手表专治父母脾气",
+      "onboard_time": 1715919741,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194457,
       "num": 194457,
       "word": "这个周五等的我好苦",
@@ -9907,6 +9979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186645,
+      "num": 186645,
+      "word": "林允的第一部大女主戏",
+      "onboard_time": 1715923041,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186388,
       "num": 186388,
       "word": "歌手网传赛制",
@@ -10049,14 +10129,6 @@
       "onboard_time": 1715837298,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183540,
-      "num": 183540,
-      "word": "儿童电话手表专治父母脾气",
-      "onboard_time": 1715919741,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 183304,
@@ -11403,6 +11475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158805,
+      "num": 158805,
+      "word": "三件小事最耗气血",
+      "onboard_time": 1715921661,
+      "rank": 45,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 158720,
       "num": 158720,
       "word": "南京林业大学称自杀副教授未被降职",
@@ -12083,6 +12163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 143934,
+      "num": 143934,
+      "word": "连云港",
+      "onboard_time": 1715923041,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143802,
       "num": 143802,
       "word": "狗狗见到喜欢的狗狗",
@@ -12289,6 +12377,14 @@
       "onboard_time": 1715569099,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140065,
+      "num": 187116,
+      "word": "向不吃榴莲的人致敬",
+      "onboard_time": 1715922561,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 139980,
@@ -14595,6 +14691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72571,
+      "num": 227209,
+      "word": "田曦薇露腹肌了",
+      "onboard_time": 1715919440,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71692,
       "num": 391073,
       "word": "荣耀雅顾",
@@ -15225,14 +15329,6 @@
       "onboard_time": 1715883132,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 32322,
-      "num": 227209,
-      "word": "田曦薇露腹肌了",
-      "onboard_time": 1715919440,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 32041,
