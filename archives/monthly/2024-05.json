@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715970306505,
+  "endTime": 1715971043395,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -32259,6 +32259,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 171500,
+      "num": 171500,
+      "word": "重庆地铁电子屏惊现雷人字幕",
+      "onboard_time": 1715966835,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171487,
       "num": 171487,
       "word": "我的阿勒泰壁纸",
@@ -34809,14 +34817,6 @@
       "onboard_time": 1715838258,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157176,
-      "num": 157176,
-      "word": "重庆地铁电子屏惊现雷人字幕",
-      "onboard_time": 1715966835,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157167,
@@ -46219,6 +46219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59150,
+      "num": 51793,
+      "word": "张若昀说庆余年2比预想晚了好多",
+      "onboard_time": 1715969893,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59090,
       "num": 59090,
       "word": "热心市民龚俊黄景瑜",
@@ -46625,14 +46633,6 @@
       "onboard_time": 1715439262,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51793,
-      "num": 51793,
-      "word": "张若昀说庆余年2比预想晚了好多",
-      "onboard_time": 1715969893,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 51741,
@@ -47801,6 +47801,14 @@
       "onboard_time": 1715621952,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22860,
+      "num": 47276,
+      "word": "原神4.6版本",
+      "onboard_time": 1715970553,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 22771,

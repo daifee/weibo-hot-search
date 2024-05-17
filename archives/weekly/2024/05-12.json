@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715970306505,
+  "endTime": 1715971043395,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -12011,6 +12011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171500,
+      "num": 171500,
+      "word": "重庆地铁电子屏惊现雷人字幕",
+      "onboard_time": 1715966835,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171346,
       "num": 171346,
       "word": "ENHYPEN将七月回归",
@@ -12929,14 +12937,6 @@
       "onboard_time": 1715838258,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157176,
-      "num": 157176,
-      "word": "重庆地铁电子屏惊现雷人字幕",
-      "onboard_time": 1715966835,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156939,
@@ -16723,6 +16723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59150,
+      "num": 51793,
+      "word": "张若昀说庆余年2比预想晚了好多",
+      "onboard_time": 1715969893,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57996,
       "num": 57996,
       "word": "小孩哥出手有多阔绰",
@@ -16897,14 +16905,6 @@
       "onboard_time": 1715439262,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51793,
-      "num": 51793,
-      "word": "张若昀说庆余年2比预想晚了好多",
-      "onboard_time": 1715969893,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 51741,
@@ -17417,6 +17417,14 @@
       "onboard_time": 1715621952,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22860,
+      "num": 47276,
+      "word": "原神4.6版本",
+      "onboard_time": 1715970553,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 22771,

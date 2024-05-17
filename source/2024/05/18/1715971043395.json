@@ -1,0 +1,410 @@
+{
+  "runTime": 1715971043395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 470504,
+        "num": 470504,
+        "word": "亚当真来歌手了",
+        "onboard_time": 1715956647,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403960,
+        "num": 403960,
+        "word": "汪苏泷 表现",
+        "onboard_time": 1715956409,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12879,
+        "num": 364313,
+        "word": "盘点中国知名体育博物馆",
+        "onboard_time": 1715954554,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360390,
+        "num": 360390,
+        "word": "杨丞琳 开口跑调",
+        "onboard_time": 1715953343,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224071,
+        "num": 224071,
+        "word": "张若昀 还可以更狂一点",
+        "onboard_time": 1715964436,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171500,
+        "num": 171500,
+        "word": "重庆地铁电子屏惊现雷人字幕",
+        "onboard_time": 1715966835,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164610,
+        "num": 164610,
+        "word": "周杰伦唱了倒带",
+        "onboard_time": 1715957604,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110335,
+        "num": 110335,
+        "word": "连云港",
+        "onboard_time": 1715960300,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79697,
+        "num": 79697,
+        "word": "如何看待能在床上躺一天的舍友",
+        "onboard_time": 1715956766,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8001,
+        "num": 78751,
+        "word": "高中女生俩月考出执照成全国最小飞行员",
+        "onboard_time": 1715959401,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290924,
+        "num": 73212,
+        "word": "Faouzia回应第一",
+        "onboard_time": 1715967015,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279854,
+        "num": 68233,
+        "word": "英子守不住了",
+        "onboard_time": 1715958623,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262208,
+        "num": 62372,
+        "word": "王力宏 歌手",
+        "onboard_time": 1715961320,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99327,
+        "num": 55871,
+        "word": "女朋友的情绪价值过于饱满了",
+        "onboard_time": 1715965815,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55233,
+        "num": 55233,
+        "word": "LPL获得第四个S赛名额",
+        "onboard_time": 1715947818,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51787,
+        "num": 51787,
+        "word": "男童母亲称要看到照片才相信狗已被打死",
+        "onboard_time": 1715956948,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48486,
+        "num": 48486,
+        "word": "毛利兰生日为什么是518",
+        "onboard_time": 1715960722,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 45512,
+        "num": 48451,
+        "word": "不是哥们你娶的宋小宝啊",
+        "onboard_time": 1715959584,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37536,
+        "num": 48431,
+        "word": "任何人周五晚上上班都得疯",
+        "onboard_time": 1715958742,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37282,
+        "num": 48382,
+        "word": "取消全国房贷利率下限对购房者有何影响",
+        "onboard_time": 1715944757,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250976,
+        "num": 48338,
+        "word": "杨丞琳二手玫瑰淘汰",
+        "onboard_time": 1715956766,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240216,
+        "num": 48274,
+        "word": "那英吗 田震吧",
+        "onboard_time": 1715954426,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231107,
+        "num": 48227,
+        "word": "歌手直播",
+        "onboard_time": 1715945897,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187748,
+        "num": 48199,
+        "word": "张韶涵 阿刁",
+        "onboard_time": 1715960241,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43195,
+        "num": 48145,
+        "word": "每周饿2天可减轻脂肪肝",
+        "onboard_time": 1715956409,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137538,
+        "num": 48122,
+        "word": "亚当 张玮",
+        "onboard_time": 1715961740,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124304,
+        "num": 48065,
+        "word": "歌手排名",
+        "onboard_time": 1715954789,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112359,
+        "num": 48032,
+        "word": "林俊杰 不为谁而作的歌",
+        "onboard_time": 1715959042,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37246,
+        "num": 47957,
+        "word": "狂飙兄弟被抢手机已还回",
+        "onboard_time": 1715946018,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31297,
+        "num": 47937,
+        "word": "XG全员寸头",
+        "onboard_time": 1715958368,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86852,
+        "num": 47900,
+        "word": "歌手大战庆余年",
+        "onboard_time": 1715945358,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69281,
+        "num": 47817,
+        "word": "庆余年2",
+        "onboard_time": 1715947277,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65927,
+        "num": 47794,
+        "word": "鹿晗秦皇岛",
+        "onboard_time": 1715960001,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30624,
+        "num": 47762,
+        "word": "惹到萨摩耶算是惹到棉花了",
+        "onboard_time": 1715958742,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29067,
+        "num": 47695,
+        "word": "这些景区居然是私人的",
+        "onboard_time": 1715952383,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59915,
+        "num": 47654,
+        "word": "结石姐要来中国开巡演",
+        "onboard_time": 1715961201,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59150,
+        "num": 47616,
+        "word": "张若昀说庆余年2比预想晚了好多",
+        "onboard_time": 1715969893,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27264,
+        "num": 47561,
+        "word": "三只狗带了一只流浪猫回家",
+        "onboard_time": 1715952383,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22788,
+        "num": 47532,
+        "word": "张镇麟怒摔球衣",
+        "onboard_time": 1715952264,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18709,
+        "num": 47481,
+        "word": "CBA总决赛",
+        "onboard_time": 1715947217,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53129,
+        "num": 47434,
+        "word": "李小冉晒庆余年四美聚会照",
+        "onboard_time": 1715959761,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47407,
+        "num": 47407,
+        "word": "耳帝上班",
+        "onboard_time": 1715959163,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43801,
+        "num": 47400,
+        "word": "周深演唱会",
+        "onboard_time": 1715958742,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40616,
+        "num": 47374,
+        "word": "章子怡 戛纳",
+        "onboard_time": 1715944457,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18348,
+        "num": 47343,
+        "word": "辽疆大战",
+        "onboard_time": 1715946378,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39529,
+        "num": 47320,
+        "word": "鹿晗回应剪发",
+        "onboard_time": 1715950221,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24890,
+        "num": 47289,
+        "word": "他走了20公里来看病",
+        "onboard_time": 1715964436,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22860,
+        "num": 47276,
+        "word": "原神4.6版本",
+        "onboard_time": 1715970553,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22586,
+        "num": 47234,
+        "word": "学新闻专业的他感觉要碎掉了",
+        "onboard_time": 1715959102,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21801,
+        "num": 47220,
+        "word": "京城大师赛",
+        "onboard_time": 1715961080,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第八届中俄博览会致贺信#"
+    }
+  }
+}
