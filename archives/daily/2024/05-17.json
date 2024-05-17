@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715909867953,
+  "endTime": 1715913005040,
   "band_list": [
     {
       "raw_hot": 2194009,
@@ -59,6 +59,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 980662,
+      "num": 914570,
+      "word": "台湾首现2例日本脑炎病例1人死亡",
+      "onboard_time": 1715907198,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 922086,
       "num": 922086,
       "word": "连云港海鲜市场",
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 914570,
-      "num": 914570,
-      "word": "台湾首现2例日本脑炎病例1人死亡",
-      "onboard_time": 1715907198,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 876736,
+      "num": 876736,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1715911457,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 754503,
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 578169,
+      "num": 361370,
+      "word": "叶轻眉给庆帝带的运动鞋",
+      "onboard_time": 1715911939,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 577792,
       "num": 405959,
       "word": "庆余年2的观后感",
@@ -139,12 +155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 565730,
+      "num": 354914,
+      "word": "五竹叔",
+      "onboard_time": 1715911216,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 549459,
       "num": 549459,
       "word": "江西高考不再区分一本和二本",
       "onboard_time": 1715904078,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 546407,
+      "num": 371151,
+      "word": "韩红 中国第一女rapper",
+      "onboard_time": 1715909357,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 540811,
@@ -179,12 +211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479462,
+      "num": 367726,
+      "word": "娄烨",
+      "onboard_time": 1715907798,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 479010,
       "num": 479010,
       "word": "高速上逼停小车的2民警被停职",
       "onboard_time": 1715865440,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459203,
+      "num": 356921,
+      "word": "Kpop选秀史上第一位脱北练习生",
+      "onboard_time": 1715908939,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 447102,
@@ -235,11 +283,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410505,
+      "num": 280048,
+      "word": "赵樱子提醒关晓彤看镜头",
+      "onboard_time": 1715911276,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 403476,
       "num": 242296,
       "word": "王启年女儿",
       "onboard_time": 1715898972,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 400646,
+      "num": 275875,
+      "word": "庆余年2 黑色幽默",
+      "onboard_time": 1715909840,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -267,20 +331,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383309,
+      "num": 383309,
+      "word": "隐翅虫",
+      "onboard_time": 1715909178,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 372109,
       "num": 372109,
       "word": "毛晓彤真美",
       "onboard_time": 1715902576,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 357270,
-      "num": 274717,
-      "word": "娄烨",
-      "onboard_time": 1715907798,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 356861,
@@ -291,12 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 353959,
-      "num": 273716,
-      "word": "Kpop选秀史上第一位脱北练习生",
-      "onboard_time": 1715908939,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 356280,
+      "num": 356280,
+      "word": "鬼秤",
+      "onboard_time": 1715908998,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336015,
@@ -339,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291558,
+      "num": 185102,
+      "word": "爹爹撞撞奔向你",
+      "onboard_time": 1715910317,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287873,
       "num": 287873,
       "word": "张真源最想鹿晗回归跑男",
@@ -353,6 +425,14 @@
       "onboard_time": 1715907619,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283677,
+      "num": 273213,
+      "word": "爱奇艺股价暴涨12%",
+      "onboard_time": 1715911039,
+      "rank": 25,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 275587,
@@ -403,14 +483,6 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 223599,
-      "num": 223599,
-      "word": "隐翅虫",
-      "onboard_time": 1715909178,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 215905,
       "num": 215905,
       "word": "医生建议榴莲1天最多吃1瓣",
@@ -425,14 +497,6 @@
       "onboard_time": 1715900895,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212183,
-      "num": 212183,
-      "word": "韩红 中国第一女rapper",
-      "onboard_time": 1715909357,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 209160,
@@ -467,12 +531,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197342,
+      "num": 183011,
+      "word": "钟楚曦发了G社图",
+      "onboard_time": 1715912179,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197294,
       "num": 188331,
       "word": "从西安买7斤普罗旺斯西红柿回广州",
       "onboard_time": 1715875818,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195803,
+      "num": 182514,
+      "word": "中版恋爱兄妹",
+      "onboard_time": 1715912419,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 191781,
@@ -505,6 +585,14 @@
       "onboard_time": 1715853258,
       "rank": 24,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 186113,
+      "num": 186113,
+      "word": "人在什么时候最舒服",
+      "onboard_time": 1715911216,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 182894,
@@ -561,14 +649,6 @@
       "onboard_time": 1715902696,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168368,
-      "num": 158312,
-      "word": "庆余年2 黑色幽默",
-      "onboard_time": 1715909840,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 166157,
@@ -640,6 +720,22 @@
       "word": "歌手",
       "onboard_time": 1715908398,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 136413,
+      "num": 136413,
+      "word": "陈奕迅杭州抢票",
+      "onboard_time": 1715912898,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 133961,
+      "num": 133961,
+      "word": "刘耀文说时代少年团可以在一起到40岁",
+      "onboard_time": 1715911638,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -715,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101121,
+      "num": 129322,
+      "word": "NBA季后赛",
+      "onboard_time": 1715912299,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98742,
       "num": 651416,
       "word": "女警一会儿笑嘻嘻一会儿哭唧唧",
@@ -745,6 +849,14 @@
       "onboard_time": 1715866460,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 89539,
+      "num": 128416,
+      "word": "朵莉亚皮肤",
+      "onboard_time": 1715903236,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 87672,
@@ -787,12 +899,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 72654,
+      "num": 376584,
+      "word": "老师跳河救人后满身泥泞回校上班",
+      "onboard_time": 1715910078,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56499,
       "num": 56499,
       "word": "杨迪说和贾玲一起旅行很开心",
       "onboard_time": 1715894590,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54946,
+      "num": 274875,
+      "word": "徐霞客的阿勒泰是长江源",
+      "onboard_time": 1715911276,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54649,
