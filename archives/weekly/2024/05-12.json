@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715942150743,
+  "endTime": 1715944589567,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1483,6 +1483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 927992,
+      "num": 927992,
+      "word": "李佳琦红包",
+      "onboard_time": 1715942898,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 926785,
       "num": 926785,
       "word": "专家称只有房价不跌老百姓才会回归购房市场",
@@ -2329,6 +2337,14 @@
       "onboard_time": 1715570719,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 694355,
+      "num": 285876,
+      "word": "马思纯 不要老关注着胖瘦",
+      "onboard_time": 1715942597,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 693483,
@@ -5051,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391133,
+      "num": 391133,
+      "word": "监控下喊孙女名字后老人自杀离世",
+      "onboard_time": 1715927060,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 390298,
       "num": 390298,
       "word": "抄袭的是商家被嘲笑的却是我",
@@ -5787,6 +5811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 334646,
+      "num": 274834,
+      "word": "陈萍萍轮椅按钮",
+      "onboard_time": 1715940316,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334214,
       "num": 205531,
       "word": "能不能让李佳薇来",
@@ -6425,14 +6457,6 @@
       "onboard_time": 1715865019,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295210,
-      "num": 253606,
-      "word": "监控下喊孙女名字后老人自杀离世",
-      "onboard_time": 1715927060,
-      "rank": 49,
-      "category": "社会负面"
     },
     {
       "raw_hot": 294892,
@@ -7699,14 +7723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 242759,
-      "num": 242759,
-      "word": "陈萍萍轮椅按钮",
-      "onboard_time": 1715940316,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242736,
       "num": 242736,
       "word": "虎牙策划",
@@ -8611,6 +8627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214199,
+      "num": 214199,
+      "word": "周杰伦 不要再说感性的话了",
+      "onboard_time": 1715943257,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214159,
       "num": 214159,
       "word": "有县城男方娶妻成本或上百万元",
@@ -9059,6 +9083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205409,
+      "num": 161921,
+      "word": "华侨大学回应孕期女老师非升即走被解聘",
+      "onboard_time": 1715943557,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205238,
       "num": 205238,
       "word": "时尚芭莎六月刊",
@@ -9161,6 +9193,14 @@
       "onboard_time": 1715671338,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 203223,
+      "num": 196750,
+      "word": "Yamy 我三年没当队长了",
+      "onboard_time": 1715942838,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 203203,
@@ -9995,6 +10035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192699,
+      "num": 192699,
+      "word": "柳智敏Supernova直拍",
+      "onboard_time": 1715943918,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192550,
       "num": 192550,
       "word": "小猫撒娇",
@@ -10521,6 +10569,14 @@
       "onboard_time": 1715826138,
       "rank": 33,
       "category": "作品衍生,旅游"
+    },
+    {
+      "raw_hot": 184141,
+      "num": 184141,
+      "word": "这种水果很甜热量却很低",
+      "onboard_time": 1715941758,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 184126,
@@ -11899,6 +11955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160975,
+      "num": 210542,
+      "word": "老人300万房产送水果摊主二审宣判",
+      "onboard_time": 1715943197,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160878,
       "num": 160878,
       "word": "方里代言人何浩楠",
@@ -12291,6 +12355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152878,
+      "num": 152878,
+      "word": "章子怡 戛纳",
+      "onboard_time": 1715944457,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152691,
       "num": 152691,
       "word": "teeth好听",
@@ -12625,6 +12697,14 @@
       "onboard_time": 1715850139,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145307,
+      "num": 145307,
+      "word": "恋爱兄妹",
+      "onboard_time": 1715943138,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 145258,
@@ -13243,6 +13323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135210,
+      "num": 135210,
+      "word": "范闲海棠朵朵绯闻",
+      "onboard_time": 1715944218,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135159,
       "num": 135159,
       "word": "落日8分钟效应",
@@ -13443,6 +13531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131431,
+      "num": 124807,
+      "word": "第一次见和死神抢女人的男主",
+      "onboard_time": 1715944038,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131405,
       "num": 131405,
       "word": "奶茶酸奶都卷向壮阳了",
@@ -13465,6 +13561,14 @@
       "onboard_time": 1715763979,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131067,
+      "num": 123603,
+      "word": "庆余年 神金翻译",
+      "onboard_time": 1715944097,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 131028,
@@ -13769,6 +13873,14 @@
       "onboard_time": 1715519841,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125623,
+      "num": 125623,
+      "word": "阿尼亚虚假的狗vs真的狗",
+      "onboard_time": 1715943377,
+      "rank": 39,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 125494,
@@ -14417,6 +14529,14 @@
       "onboard_time": 1715856079,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111433,
+      "num": 111433,
+      "word": "谷爱凌学霸家庭都是这么聊天的",
+      "onboard_time": 1715943317,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 111214,
@@ -15875,6 +15995,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 45508,
+      "num": 280818,
+      "word": "男子被压车底头盔侠们出手了",
+      "onboard_time": 1715941938,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 45389,
       "num": 220349,
       "word": "男子找到去世父亲照片连连抹泪",
@@ -15929,14 +16057,6 @@
       "onboard_time": 1715761339,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 43731,
-      "num": 245504,
-      "word": "男子被压车底头盔侠们出手了",
-      "onboard_time": 1715941938,
-      "rank": 17,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 42368,
@@ -16417,6 +16537,14 @@
       "onboard_time": 1715633170,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 14834,
+      "num": 271275,
+      "word": "被梦车硬控N秒",
+      "onboard_time": 1715943617,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 14035,
