@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715944589567,
+  "endTime": 1715945648472,
   "band_list": [
     {
       "raw_hot": 2547711,
@@ -147,20 +147,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1001248,
+      "num": 1001248,
+      "word": "李佳琦红包",
+      "onboard_time": 1715942898,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 980662,
       "num": 914570,
       "word": "台湾首现2例日本脑炎病例1人死亡",
       "onboard_time": 1715907198,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 927992,
-      "num": 927992,
-      "word": "李佳琦红包",
-      "onboard_time": 1715942898,
-      "rank": 0,
-      "category": "网红"
     },
     {
       "raw_hot": 922086,
@@ -177,6 +177,14 @@
       "onboard_time": 1715936059,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 804497,
+      "num": 293313,
+      "word": "马思纯 不要老关注着胖瘦",
+      "onboard_time": 1715942597,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 766156,
@@ -219,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 707844,
+      "num": 288334,
+      "word": "章子怡 戛纳",
+      "onboard_time": 1715944457,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 704859,
       "num": 704859,
       "word": "大凉山血色彩礼30多万元涉两条人命",
@@ -233,14 +249,6 @@
       "onboard_time": 1715924360,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 694355,
-      "num": 285876,
-      "word": "马思纯 不要老关注着胖瘦",
-      "onboard_time": 1715942597,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 693472,
@@ -627,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 414311,
+      "num": 229579,
+      "word": "歌手大战庆余年",
+      "onboard_time": 1715945358,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414224,
       "num": 177402,
       "word": "庆余年收视率",
@@ -739,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358633,
+      "num": 225469,
+      "word": "华侨大学回应孕期女老师非升即走被解聘",
+      "onboard_time": 1715943557,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357114,
       "num": 124426,
       "word": "蜜雪冰城免单",
@@ -801,6 +825,14 @@
       "onboard_time": 1715918179,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 332739,
+      "num": 223924,
+      "word": "周杰伦 不要再说感性的话了",
+      "onboard_time": 1715943257,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 324600,
@@ -939,6 +971,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 275779,
+      "num": 213605,
+      "word": "成毅直播",
+      "onboard_time": 1715944757,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275587,
       "num": 275587,
       "word": "鬼称",
@@ -1035,12 +1075,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244453,
+      "num": 213566,
+      "word": "时间煮雨没郭碧婷我不看",
+      "onboard_time": 1715945358,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240440,
+      "num": 219112,
+      "word": "老人300万房产送水果摊主二审宣判",
+      "onboard_time": 1715943197,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238996,
       "num": 238996,
       "word": "Yamy淘汰万妮达哭了",
       "onboard_time": 1715935819,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232126,
+      "num": 232126,
+      "word": "G2对战T1",
+      "onboard_time": 1715934679,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 229527,
@@ -1131,14 +1195,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 214199,
-      "num": 214199,
-      "word": "周杰伦 不要再说感性的话了",
-      "onboard_time": 1715943257,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213501,
       "num": 213501,
       "word": "中国女排巴西站两连胜",
@@ -1195,16 +1251,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205409,
-      "num": 161921,
-      "word": "华侨大学回应孕期女老师非升即走被解聘",
-      "onboard_time": 1715943557,
-      "rank": 30,
+      "raw_hot": 204441,
+      "num": 204441,
+      "word": "取消全国房贷利率下限对购房者有何影响",
+      "onboard_time": 1715944757,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
       "raw_hot": 203223,
-      "num": 196750,
+      "num": 200831,
       "word": "Yamy 我三年没当队长了",
       "onboard_time": 1715942838,
       "rank": 24,
@@ -1225,6 +1281,14 @@
       "onboard_time": 1715921781,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200524,
+      "num": 200524,
+      "word": "九龙城寨三部曲官宣",
+      "onboard_time": 1715944818,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 200460,
@@ -1547,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170218,
+      "num": 170218,
+      "word": "恋爱兄妹",
+      "onboard_time": 1715943138,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168622,
       "num": 134064,
       "word": "陛下在穿运动鞋",
@@ -1611,14 +1683,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 160975,
-      "num": 210542,
-      "word": "老人300万房产送水果摊主二审宣判",
-      "onboard_time": 1715943197,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160662,
       "num": 105425,
       "word": "成毅分享会优酷独播",
@@ -1651,6 +1715,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 154924,
+      "num": 154924,
+      "word": "当老板到学校跟老师开会",
+      "onboard_time": 1715944998,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153979,
       "num": 153979,
       "word": "刘端端追着张若昀刺杀了三部剧",
@@ -1675,14 +1747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152878,
-      "num": 152878,
-      "word": "章子怡 戛纳",
-      "onboard_time": 1715944457,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 152427,
       "num": 144860,
       "word": "王倦 搞笑原创",
@@ -1697,6 +1761,14 @@
       "onboard_time": 1715915958,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150295,
+      "num": 150295,
+      "word": "庆余年 神金翻译",
+      "onboard_time": 1715944097,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 149715,
@@ -1715,20 +1787,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149009,
+      "num": 135210,
+      "word": "范闲海棠朵朵绯闻",
+      "onboard_time": 1715944218,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147994,
       "num": 324951,
       "word": "向不吃榴莲的人致敬",
       "onboard_time": 1715922561,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 145307,
-      "num": 145307,
-      "word": "恋爱兄妹",
-      "onboard_time": 1715943138,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 145258,
@@ -1787,12 +1859,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137176,
-      "num": 137176,
-      "word": "G2对战T1",
-      "onboard_time": 1715934679,
-      "rank": 44,
-      "category": "电竞"
+      "raw_hot": 137588,
+      "num": 137588,
+      "word": "第一次见和死神抢女人的男主",
+      "onboard_time": 1715944038,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 135877,
@@ -1817,14 +1889,6 @@
       "onboard_time": 1715913257,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135210,
-      "num": 135210,
-      "word": "范闲海棠朵朵绯闻",
-      "onboard_time": 1715944218,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 135118,
@@ -1859,14 +1923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131431,
-      "num": 124807,
-      "word": "第一次见和死神抢女人的男主",
-      "onboard_time": 1715944038,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131420,
       "num": 131420,
       "word": "杭州天空疑似掉陨石了",
@@ -1881,14 +1937,6 @@
       "onboard_time": 1715936598,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 131067,
-      "num": 123603,
-      "word": "庆余年 神金翻译",
-      "onboard_time": 1715944097,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 130061,
@@ -1921,6 +1969,14 @@
       "onboard_time": 1715943377,
       "rank": 39,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 125305,
+      "num": 125305,
+      "word": "Faker沙皇偷家",
+      "onboard_time": 1715945419,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 124143,
@@ -2041,6 +2097,14 @@
       "onboard_time": 1715900534,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103296,
+      "num": 103296,
+      "word": "迷您甜甜圈",
+      "onboard_time": 1715944698,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 101121,
@@ -2251,7 +2315,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45508,
+      "raw_hot": 46015,
       "num": 280818,
       "word": "男子被压车底头盔侠们出手了",
       "onboard_time": 1715941938,
@@ -2305,6 +2369,14 @@
       "onboard_time": 1715869100,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38860,
+      "num": 220114,
+      "word": "男子地铁晕倒小伙跨车厢飞奔救援",
+      "onboard_time": 1715945419,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35656,
@@ -2363,6 +2435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22771,
+      "num": 271275,
+      "word": "被梦车硬控N秒",
+      "onboard_time": 1715943617,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 21259,
       "num": 37048,
       "word": "两个IVE斗舞",
@@ -2409,14 +2489,6 @@
       "onboard_time": 1715896390,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 14834,
-      "num": 271275,
-      "word": "被梦车硬控N秒",
-      "onboard_time": 1715943617,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 13166,
@@ -2482,6 +2554,9 @@
     },
     {
       "word": "#习近平同普京举行小范围会晤#"
+    },
+    {
+      "word": "#习近平向第八届中俄博览会致贺信#"
     }
   ]
 }

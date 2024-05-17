@@ -1,0 +1,410 @@
+{
+  "runTime": 1715945648472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1001248,
+        "num": 1001248,
+        "word": "李佳琦红包",
+        "onboard_time": 1715942898,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 588743,
+        "num": 588743,
+        "word": "公积金",
+        "onboard_time": 1715923641,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 21906,
+        "num": 475786,
+        "word": "逛博物馆比逛菜市场还挤",
+        "onboard_time": 1715934319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907312,
+        "num": 468931,
+        "word": "那英爆料因歌手直播崩溃",
+        "onboard_time": 1715928438,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389016,
+        "num": 389016,
+        "word": "监控下喊孙女名字后老人自杀离世",
+        "onboard_time": 1715927060,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 312866,
+        "num": 312866,
+        "word": "取消全国层面一二套个人住房贷款利率下限",
+        "onboard_time": 1715928378,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 804497,
+        "num": 293313,
+        "word": "马思纯 不要老关注着胖瘦",
+        "onboard_time": 1715942597,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707844,
+        "num": 288334,
+        "word": "章子怡 戛纳",
+        "onboard_time": 1715944457,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232126,
+        "num": 232126,
+        "word": "G2对战T1",
+        "onboard_time": 1715934679,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46015,
+        "num": 230159,
+        "word": "男子被压车底头盔侠们出手了",
+        "onboard_time": 1715941938,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 570135,
+        "num": 230066,
+        "word": "人民文娱评吴磊骑有此理",
+        "onboard_time": 1715938278,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414311,
+        "num": 229579,
+        "word": "歌手大战庆余年",
+        "onboard_time": 1715945358,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229047,
+        "num": 229047,
+        "word": "100万公积金房贷30年可节省4.8万元",
+        "onboard_time": 1715927299,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 385635,
+        "num": 227508,
+        "word": "papi酱已退出因广告违法被罚公司",
+        "onboard_time": 1715921542,
+        "rank": 13,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 22771,
+        "num": 226254,
+        "word": "被梦车硬控N秒",
+        "onboard_time": 1715943617,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 358633,
+        "num": 225469,
+        "word": "华侨大学回应孕期女老师非升即走被解聘",
+        "onboard_time": 1715943557,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332739,
+        "num": 223924,
+        "word": "周杰伦 不要再说感性的话了",
+        "onboard_time": 1715943257,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323737,
+        "num": 221392,
+        "word": "英国将允许艾滋病感染者捐精捐卵",
+        "onboard_time": 1715916258,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38860,
+        "num": 220114,
+        "word": "男子地铁晕倒小伙跨车厢飞奔救援",
+        "onboard_time": 1715945419,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240440,
+        "num": 219112,
+        "word": "老人300万房产送水果摊主二审宣判",
+        "onboard_time": 1715943197,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435312,
+        "num": 217007,
+        "word": "鹿晗银发剪短了",
+        "onboard_time": 1715936059,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326071,
+        "num": 215915,
+        "word": "陈萍萍轮椅按钮",
+        "onboard_time": 1715940316,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288595,
+        "num": 213774,
+        "word": "戚薇称体重",
+        "onboard_time": 1715939779,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213657,
+        "num": 213657,
+        "word": "42岁网红奶茶创始人2年亏损千万",
+        "onboard_time": 1715930659,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 275779,
+        "num": 213605,
+        "word": "成毅直播",
+        "onboard_time": 1715944757,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244453,
+        "num": 213566,
+        "word": "时间煮雨没郭碧婷我不看",
+        "onboard_time": 1715945358,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271659,
+        "num": 213508,
+        "word": "娜扎 赴山海",
+        "onboard_time": 1715940498,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36157,
+        "num": 213469,
+        "word": "勇敢鸭鸭排队跳巢",
+        "onboard_time": 1715939540,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213440,
+        "num": 213440,
+        "word": "1岁女孩坐飞机遇到了人生crush",
+        "onboard_time": 1715928079,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204441,
+        "num": 204441,
+        "word": "取消全国房贷利率下限对购房者有何影响",
+        "onboard_time": 1715944757,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204406,
+        "num": 204406,
+        "word": "Bin说全华班需要一个S赛冠军",
+        "onboard_time": 1715939599,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200831,
+        "num": 200831,
+        "word": "Yamy 我三年没当队长了",
+        "onboard_time": 1715942838,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200524,
+        "num": 200524,
+        "word": "九龙城寨三部曲官宣",
+        "onboard_time": 1715944818,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191347,
+        "num": 191347,
+        "word": "那英今晚唱挣脱",
+        "onboard_time": 1715924840,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170218,
+        "num": 170218,
+        "word": "恋爱兄妹",
+        "onboard_time": 1715943138,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167317,
+        "num": 167317,
+        "word": "这种水果很甜热量却很低",
+        "onboard_time": 1715941758,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 163114,
+        "num": 163114,
+        "word": "柳智敏Supernova直拍",
+        "onboard_time": 1715943918,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162891,
+        "num": 162891,
+        "word": "iPhone7系列用户可获苹果赔偿",
+        "onboard_time": 1715931438,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156444,
+        "num": 156444,
+        "word": "歌手2024第二期歌单海报",
+        "onboard_time": 1715927419,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154924,
+        "num": 154924,
+        "word": "当老板到学校跟老师开会",
+        "onboard_time": 1715944998,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150295,
+        "num": 150295,
+        "word": "庆余年 神金翻译",
+        "onboard_time": 1715944097,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137588,
+        "num": 137588,
+        "word": "第一次见和死神抢女人的男主",
+        "onboard_time": 1715944038,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133119,
+        "num": 133119,
+        "word": "易烊千仔",
+        "onboard_time": 1715936478,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149009,
+        "num": 132284,
+        "word": "范闲海棠朵朵绯闻",
+        "onboard_time": 1715944218,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125901,
+        "num": 125901,
+        "word": "官方通报连云港海鲜市场事件",
+        "onboard_time": 1715932877,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125305,
+        "num": 125305,
+        "word": "Faker沙皇偷家",
+        "onboard_time": 1715945419,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121995,
+        "num": 121995,
+        "word": "田曦薇 维密",
+        "onboard_time": 1715915298,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120698,
+        "num": 120698,
+        "word": "身体两处发痒或是肝癌征兆",
+        "onboard_time": 1715920762,
+        "rank": 47,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 109523,
+        "num": 109523,
+        "word": "谷爱凌学霸家庭都是这么聊天的",
+        "onboard_time": 1715943317,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103296,
+        "num": 103296,
+        "word": "迷您甜甜圈",
+        "onboard_time": 1715944698,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第八届中俄博览会致贺信#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715944589567,
+  "endTime": 1715945648472,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1267,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1001248,
+      "num": 1001248,
+      "word": "李佳琦红包",
+      "onboard_time": 1715942898,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1000997,
       "num": 1000997,
       "word": "aespa回归",
@@ -1481,14 +1489,6 @@
       "onboard_time": 1715683038,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 927992,
-      "num": 927992,
-      "word": "李佳琦红包",
-      "onboard_time": 1715942898,
-      "rank": 0,
-      "category": "网红"
     },
     {
       "raw_hot": 926785,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1715498957,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 804497,
+      "num": 293313,
+      "word": "马思纯 不要老关注着胖瘦",
+      "onboard_time": 1715942597,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 804062,
@@ -2291,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 707844,
+      "num": 288334,
+      "word": "章子怡 戛纳",
+      "onboard_time": 1715944457,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 705982,
       "num": 282508,
       "word": "肝不好真的会让人变丑",
@@ -2337,14 +2353,6 @@
       "onboard_time": 1715570719,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 694355,
-      "num": 285876,
-      "word": "马思纯 不要老关注着胖瘦",
-      "onboard_time": 1715942597,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 693483,
@@ -4643,6 +4651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414311,
+      "num": 229579,
+      "word": "歌手大战庆余年",
+      "onboard_time": 1715945358,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414262,
       "num": 414262,
       "word": "天价彩礼不断衍生出新变种",
@@ -5459,6 +5475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358633,
+      "num": 225469,
+      "word": "华侨大学回应孕期女老师非升即走被解聘",
+      "onboard_time": 1715943557,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357618,
       "num": 357618,
       "word": "赵露思微醺甜杏妆",
@@ -5865,6 +5889,14 @@
       "onboard_time": 1715918179,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 332739,
+      "num": 223924,
+      "word": "周杰伦 不要再说感性的话了",
+      "onboard_time": 1715943257,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 332648,
@@ -6827,6 +6859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275779,
+      "num": 213605,
+      "word": "成毅直播",
+      "onboard_time": 1715944757,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275761,
       "num": 275761,
       "word": "许嵩南京抢票",
@@ -7691,6 +7731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244453,
+      "num": 213566,
+      "word": "时间煮雨没郭碧婷我不看",
+      "onboard_time": 1715945358,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244421,
       "num": 244421,
       "word": "五条悟 全球趋势第一",
@@ -7793,6 +7841,14 @@
       "onboard_time": 1715828538,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240440,
+      "num": 219112,
+      "word": "老人300万房产送水果摊主二审宣判",
+      "onboard_time": 1715943197,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239384,
@@ -7985,6 +8041,14 @@
       "onboard_time": 1715840419,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232126,
+      "num": 232126,
+      "word": "G2对战T1",
+      "onboard_time": 1715934679,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 231213,
@@ -8627,14 +8691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214199,
-      "num": 214199,
-      "word": "周杰伦 不要再说感性的话了",
-      "onboard_time": 1715943257,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214159,
       "num": 214159,
       "word": "有县城男方娶妻成本或上百万元",
@@ -9083,14 +9139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205409,
-      "num": 161921,
-      "word": "华侨大学回应孕期女老师非升即走被解聘",
-      "onboard_time": 1715943557,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205238,
       "num": 205238,
       "word": "时尚芭莎六月刊",
@@ -9147,6 +9195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204441,
+      "num": 204441,
+      "word": "取消全国房贷利率下限对购房者有何影响",
+      "onboard_time": 1715944757,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204209,
       "num": 204209,
       "word": "徐英浩三里屯",
@@ -9196,7 +9252,7 @@
     },
     {
       "raw_hot": 203223,
-      "num": 196750,
+      "num": 200831,
       "word": "Yamy 我三年没当队长了",
       "onboard_time": 1715942838,
       "rank": 24,
@@ -9449,6 +9505,14 @@
       "onboard_time": 1715592798,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200524,
+      "num": 200524,
+      "word": "九龙城寨三部曲官宣",
+      "onboard_time": 1715944818,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 200492,
@@ -11331,6 +11395,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 170218,
+      "num": 170218,
+      "word": "恋爱兄妹",
+      "onboard_time": 1715943138,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170199,
       "num": 170199,
       "word": "全世界都在偶遇鹿晗 除了我",
@@ -11955,14 +12027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160975,
-      "num": 210542,
-      "word": "老人300万房产送水果摊主二审宣判",
-      "onboard_time": 1715943197,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160878,
       "num": 160878,
       "word": "方里代言人何浩楠",
@@ -12243,6 +12307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154924,
+      "num": 154924,
+      "word": "当老板到学校跟老师开会",
+      "onboard_time": 1715944998,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154809,
       "num": 154809,
       "word": "曼联0比1阿森纳",
@@ -12353,14 +12425,6 @@
       "onboard_time": 1715686577,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 152878,
-      "num": 152878,
-      "word": "章子怡 戛纳",
-      "onboard_time": 1715944457,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 152691,
@@ -12491,6 +12555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150295,
+      "num": 150295,
+      "word": "庆余年 神金翻译",
+      "onboard_time": 1715944097,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149860,
       "num": 149860,
       "word": "庆余年2庆庆佳人海报",
@@ -12529,6 +12601,14 @@
       "onboard_time": 1715562019,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149009,
+      "num": 135210,
+      "word": "范闲海棠朵朵绯闻",
+      "onboard_time": 1715944218,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 148890,
@@ -12697,14 +12777,6 @@
       "onboard_time": 1715850139,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 145307,
-      "num": 145307,
-      "word": "恋爱兄妹",
-      "onboard_time": 1715943138,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 145258,
@@ -13171,6 +13243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137588,
+      "num": 137588,
+      "word": "第一次见和死神抢女人的男主",
+      "onboard_time": 1715944038,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137533,
       "num": 153550,
       "word": "多个电力股涨停",
@@ -13201,14 +13281,6 @@
       "onboard_time": 1715595381,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137176,
-      "num": 137176,
-      "word": "G2对战T1",
-      "onboard_time": 1715934679,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 136851,
@@ -13321,14 +13393,6 @@
       "onboard_time": 1715913257,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135210,
-      "num": 135210,
-      "word": "范闲海棠朵朵绯闻",
-      "onboard_time": 1715944218,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 135159,
@@ -13531,14 +13595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131431,
-      "num": 124807,
-      "word": "第一次见和死神抢女人的男主",
-      "onboard_time": 1715944038,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131405,
       "num": 131405,
       "word": "奶茶酸奶都卷向壮阳了",
@@ -13561,14 +13617,6 @@
       "onboard_time": 1715763979,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131067,
-      "num": 123603,
-      "word": "庆余年 神金翻译",
-      "onboard_time": 1715944097,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 131028,
@@ -13897,6 +13945,14 @@
       "onboard_time": 1715754078,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 125305,
+      "num": 125305,
+      "word": "Faker沙皇偷家",
+      "onboard_time": 1715945419,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 125278,
@@ -14921,6 +14977,14 @@
       "onboard_time": 1715813173,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103296,
+      "num": 103296,
+      "word": "迷您甜甜圈",
+      "onboard_time": 1715944698,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 103275,
@@ -15995,7 +16059,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 45508,
+      "raw_hot": 46015,
       "num": 280818,
       "word": "男子被压车底头盔侠们出手了",
       "onboard_time": 1715941938,
@@ -16105,6 +16169,14 @@
       "onboard_time": 1715451615,
       "rank": 44,
       "category": "自然,科学科普"
+    },
+    {
+      "raw_hot": 38860,
+      "num": 220114,
+      "word": "男子地铁晕倒小伙跨车厢飞奔救援",
+      "onboard_time": 1715945419,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38365,
@@ -16379,6 +16451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22771,
+      "num": 271275,
+      "word": "被梦车硬控N秒",
+      "onboard_time": 1715943617,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 22768,
       "num": 672432,
       "word": "在布达佩斯感受中匈友谊之桥",
@@ -16537,14 +16617,6 @@
       "onboard_time": 1715633170,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 14834,
-      "num": 271275,
-      "word": "被梦车硬控N秒",
-      "onboard_time": 1715943617,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 14035,
@@ -16760,6 +16832,9 @@
     },
     {
       "word": "#习近平同普京举行小范围会晤#"
+    },
+    {
+      "word": "#习近平向第八届中俄博览会致贺信#"
     }
   ]
 }

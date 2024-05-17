@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715944589567,
+  "endTime": 1715945648472,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3499,6 +3499,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1001248,
+      "num": 1001248,
+      "word": "李佳琦红包",
+      "onboard_time": 1715942898,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1000997,
       "num": 1000997,
       "word": "aespa回归",
@@ -3913,14 +3921,6 @@
       "onboard_time": 1715683038,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 927992,
-      "num": 927992,
-      "word": "李佳琦红包",
-      "onboard_time": 1715942898,
-      "rank": 0,
-      "category": "网红"
     },
     {
       "raw_hot": 927346,
@@ -5163,6 +5163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804497,
+      "num": 293313,
+      "word": "马思纯 不要老关注着胖瘦",
+      "onboard_time": 1715942597,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804062,
       "num": 804062,
       "word": "IVE MV画面",
@@ -6171,6 +6179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 707844,
+      "num": 288334,
+      "word": "章子怡 戛纳",
+      "onboard_time": 1715944457,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 707740,
       "num": 258237,
       "word": "偶遇Angelababy小海绵遛狗",
@@ -6377,14 +6393,6 @@
       "onboard_time": 1714646657,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 694355,
-      "num": 285876,
-      "word": "马思纯 不要老关注着胖瘦",
-      "onboard_time": 1715942597,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 693483,
@@ -12779,6 +12787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414311,
+      "num": 229579,
+      "word": "歌手大战庆余年",
+      "onboard_time": 1715945358,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414262,
       "num": 414262,
       "word": "天价彩礼不断衍生出新变种",
@@ -14955,6 +14971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358633,
+      "num": 225469,
+      "word": "华侨大学回应孕期女老师非升即走被解聘",
+      "onboard_time": 1715943557,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358454,
       "num": 358454,
       "word": "StrayKids疑似被歧视",
@@ -15993,6 +16017,14 @@
       "onboard_time": 1714551137,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 332739,
+      "num": 223924,
+      "word": "周杰伦 不要再说感性的话了",
+      "onboard_time": 1715943257,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 332648,
@@ -18747,6 +18779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275779,
+      "num": 213605,
+      "word": "成毅直播",
+      "onboard_time": 1715944757,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275761,
       "num": 275761,
       "word": "许嵩南京抢票",
@@ -20995,6 +21035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244453,
+      "num": 213566,
+      "word": "时间煮雨没郭碧婷我不看",
+      "onboard_time": 1715945358,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244421,
       "num": 244421,
       "word": "五条悟 全球趋势第一",
@@ -21265,6 +21313,14 @@
       "onboard_time": 1714489279,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 240440,
+      "num": 219112,
+      "word": "老人300万房产送水果摊主二审宣判",
+      "onboard_time": 1715943197,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240304,
@@ -23787,14 +23843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214199,
-      "num": 214199,
-      "word": "周杰伦 不要再说感性的话了",
-      "onboard_time": 1715943257,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214187,
       "num": 214187,
       "word": "喜欢周五的人有福了",
@@ -25099,14 +25147,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 205409,
-      "num": 161921,
-      "word": "华侨大学回应孕期女老师非升即走被解聘",
-      "onboard_time": 1715943557,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205390,
       "num": 205390,
       "word": "Tian让apa闭嘴",
@@ -25275,6 +25315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204441,
+      "num": 204441,
+      "word": "取消全国房贷利率下限对购房者有何影响",
+      "onboard_time": 1715944757,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204429,
       "num": 204429,
       "word": "王鹤棣自转",
@@ -25436,7 +25484,7 @@
     },
     {
       "raw_hot": 203223,
-      "num": 196750,
+      "num": 200831,
       "word": "Yamy 我三年没当队长了",
       "onboard_time": 1715942838,
       "rank": 24,
@@ -26065,6 +26113,14 @@
       "onboard_time": 1715592798,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200524,
+      "num": 200524,
+      "word": "九龙城寨三部曲官宣",
+      "onboard_time": 1715944818,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 200493,
@@ -33475,14 +33531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160975,
-      "num": 210542,
-      "word": "老人300万房产送水果摊主二审宣判",
-      "onboard_time": 1715943197,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160960,
       "num": 160960,
       "word": "杨紫时隔八年再登ELLE",
@@ -34475,6 +34523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154924,
+      "num": 154924,
+      "word": "当老板到学校跟老师开会",
+      "onboard_time": 1715944998,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154844,
       "num": 154844,
       "word": "央视boys把我说馋了",
@@ -34865,14 +34921,6 @@
       "onboard_time": 1714994119,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 152878,
-      "num": 152878,
-      "word": "章子怡 戛纳",
-      "onboard_time": 1715944457,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 152876,
@@ -35307,6 +35355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150295,
+      "num": 150295,
+      "word": "庆余年 神金翻译",
+      "onboard_time": 1715944097,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150293,
       "num": 150293,
       "word": "李一桐书卷一梦开机vlog",
@@ -35601,6 +35657,14 @@
       "onboard_time": 1715326759,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149009,
+      "num": 135210,
+      "word": "范闲海棠朵朵绯闻",
+      "onboard_time": 1715944218,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 148971,
@@ -37603,6 +37667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137588,
+      "num": 137588,
+      "word": "第一次见和死神抢女人的男主",
+      "onboard_time": 1715944038,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137581,
       "num": 137581,
       "word": "女厕需要更多的坑位",
@@ -38057,14 +38129,6 @@
       "onboard_time": 1715333180,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135210,
-      "num": 135210,
-      "word": "范闲海棠朵朵绯闻",
-      "onboard_time": 1715944218,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 135200,
@@ -38819,14 +38883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131431,
-      "num": 124807,
-      "word": "第一次见和死神抢女人的男主",
-      "onboard_time": 1715944038,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131405,
       "num": 131405,
       "word": "奶茶酸奶都卷向壮阳了",
@@ -38857,14 +38913,6 @@
       "onboard_time": 1715763979,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131067,
-      "num": 123603,
-      "word": "庆余年 神金翻译",
-      "onboard_time": 1715944097,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 131028,
@@ -39825,6 +39873,14 @@
       "onboard_time": 1714888698,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125305,
+      "num": 125305,
+      "word": "Faker沙皇偷家",
+      "onboard_time": 1715945419,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 125278,
@@ -42923,6 +42979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103296,
+      "num": 103296,
+      "word": "迷您甜甜圈",
+      "onboard_time": 1715944698,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103275,
       "num": 111801,
       "word": "薛之谦汕头",
@@ -45947,20 +46011,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46015,
+      "num": 280818,
+      "word": "男子被压车底头盔侠们出手了",
+      "onboard_time": 1715941938,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 45587,
       "num": 45587,
       "word": "脸基尼",
       "onboard_time": 1714863733,
       "rank": 40,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 45508,
-      "num": 280818,
-      "word": "男子被压车底头盔侠们出手了",
-      "onboard_time": 1715941938,
-      "rank": 17,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 45419,
@@ -46233,6 +46297,14 @@
       "onboard_time": 1715105471,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38860,
+      "num": 220114,
+      "word": "男子地铁晕倒小伙跨车厢飞奔救援",
+      "onboard_time": 1715945419,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38795,
@@ -46811,6 +46883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22771,
+      "num": 271275,
+      "word": "被梦车硬控N秒",
+      "onboard_time": 1715943617,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 22768,
       "num": 672432,
       "word": "在布达佩斯感受中匈友谊之桥",
@@ -47105,14 +47185,6 @@
       "onboard_time": 1715633170,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 14834,
-      "num": 271275,
-      "word": "被梦车硬控N秒",
-      "onboard_time": 1715943617,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 14087,
@@ -47599,6 +47671,9 @@
     },
     {
       "word": "#习近平同普京举行小范围会晤#"
+    },
+    {
+      "word": "#习近平向第八届中俄博览会致贺信#"
     }
   ]
 }
