@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1715950135170,
+  "endTime": 1715952019589,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12502247,
+      "num": 12502247,
+      "word": "歌手直播",
+      "onboard_time": 1715341399,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 12430154,
       "num": 12430154,
       "word": "刘谦真的会魔法",
@@ -137,14 +145,6 @@
       "onboard_time": 1710684039,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11367856,
-      "num": 11367856,
-      "word": "歌手直播",
-      "onboard_time": 1715341399,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 11170879,
@@ -1868,7 +1868,7 @@
     },
     {
       "raw_hot": 3206662,
-      "num": 370501,
+      "num": 505985,
       "word": "杭盖 牛",
       "onboard_time": 1715949321,
       "rank": 3,

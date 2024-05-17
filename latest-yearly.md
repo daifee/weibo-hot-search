@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/05/17 20:48:55
+本榜单时间：2024/01/01 00:21:05 ~ 2024/05/17 21:20:19
 </p>
 </blockquote>
 <p>
@@ -93,6 +93,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
+歌手直播（热度：12502247）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%B0%A6%E7%9C%9F%E7%9A%84%E4%BC%9A%E9%AD%94%E6%B3%95%23" target="weibo">
 刘谦真的会魔法（热度：12430154）
 </a>
@@ -113,12 +119,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E9%82%AF%E9%83%B8%E9%80%9A%E6%8A%A5%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%23" target="weibo">
 河北邯郸通报初中生被杀害案（热度：11692231）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
-歌手直播（热度：11367856）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1715952019589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12502247,
+        "num": 12502247,
+        "word": "歌手直播",
+        "onboard_time": 1715945897,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517540,
+        "num": 517540,
+        "word": "狂飙兄弟被抢手机已还回",
+        "onboard_time": 1715946018,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15076,
+        "num": 510838,
+        "word": "逛博物馆比逛菜市场还挤",
+        "onboard_time": 1715934319,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3116794,
+        "num": 505985,
+        "word": "杭盖 牛",
+        "onboard_time": 1715949321,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263235,
+        "num": 495960,
+        "word": "公积金",
+        "onboard_time": 1715923641,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 232210,
+        "num": 491809,
+        "word": "咖啡口味为什么越来越卷",
+        "onboard_time": 1715947098,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2878444,
+        "num": 480342,
+        "word": "黄宣 投票",
+        "onboard_time": 1715949260,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638186,
+        "num": 476435,
+        "word": "鹿晗回应剪发",
+        "onboard_time": 1715950221,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225871,
+        "num": 467490,
+        "word": "LPL获得第四个S赛名额",
+        "onboard_time": 1715947818,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45123,
+        "num": 462032,
+        "word": "男子救助被撞小猫全网寻领养",
+        "onboard_time": 1715950943,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2059019,
+        "num": 450881,
+        "word": "那英 不在",
+        "onboard_time": 1715948240,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1475879,
+        "num": 444112,
+        "word": "双揭榜 双淘汰",
+        "onboard_time": 1715948119,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1246337,
+        "num": 437182,
+        "word": "汪苏泷 煽情",
+        "onboard_time": 1715950882,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1237748,
+        "num": 428252,
+        "word": "黄宣太松弛了",
+        "onboard_time": 1715951424,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223764,
+        "num": 416078,
+        "word": "女朋友效应",
+        "onboard_time": 1715946319,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 415664,
+        "num": 415664,
+        "word": "杨紫直播",
+        "onboard_time": 1715947998,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170310,
+        "num": 415534,
+        "word": "英国将允许艾滋病感染者捐精捐卵",
+        "onboard_time": 1715916258,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168271,
+        "num": 415337,
+        "word": "厂长小杨哥解说MSI决赛",
+        "onboard_time": 1715947818,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161655,
+        "num": 415128,
+        "word": "得了带状疱疹有多疼",
+        "onboard_time": 1715949920,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161097,
+        "num": 414653,
+        "word": "解说33上线",
+        "onboard_time": 1715951243,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1181462,
+        "num": 414430,
+        "word": "歌手大战庆余年",
+        "onboard_time": 1715945358,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 760248,
+        "num": 414270,
+        "word": "黄宣 叫你一声老太婆",
+        "onboard_time": 1715951844,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638291,
+        "num": 414096,
+        "word": "香缇莫被挑战",
+        "onboard_time": 1715949141,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158978,
+        "num": 413843,
+        "word": "取消全国房贷利率下限对购房者有何影响",
+        "onboard_time": 1715944757,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155323,
+        "num": 413454,
+        "word": "死亡笔记 天使L",
+        "onboard_time": 1715947638,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 630650,
+        "num": 413147,
+        "word": "那英爆料因歌手直播崩溃",
+        "onboard_time": 1715928438,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557435,
+        "num": 412960,
+        "word": "黄宣reaction",
+        "onboard_time": 1715951183,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412816,
+        "num": 412816,
+        "word": "庆余年2",
+        "onboard_time": 1715947277,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144931,
+        "num": 381893,
+        "word": "CBA总决赛",
+        "onboard_time": 1715947217,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123406,
+        "num": 367551,
+        "word": "华侨大学回应孕期女老师非升即走被解聘",
+        "onboard_time": 1715943557,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359913,
+        "num": 359913,
+        "word": "鹿晗银发剪短了",
+        "onboard_time": 1715936059,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334245,
+        "num": 334245,
+        "word": "章子怡 戛纳",
+        "onboard_time": 1715944457,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327074,
+        "num": 327074,
+        "word": "蒙古铁骑支援叶赫那拉",
+        "onboard_time": 1715951363,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135575,
+        "num": 303729,
+        "word": "Gumayusi要3比0战胜BLG",
+        "onboard_time": 1715948420,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117302,
+        "num": 301642,
+        "word": "辽疆大战",
+        "onboard_time": 1715946378,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 526154,
+        "num": 301255,
+        "word": "superwoman好听",
+        "onboard_time": 1715949981,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300867,
+        "num": 300867,
+        "word": "歌手收视率",
+        "onboard_time": 1715951724,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115855,
+        "num": 290867,
+        "word": "老人300万房产送水果摊主二审宣判",
+        "onboard_time": 1715943197,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115475,
+        "num": 290730,
+        "word": "iPhone7系列用户可获苹果赔偿",
+        "onboard_time": 1715931438,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111478,
+        "num": 290667,
+        "word": "印尼裁判吹罚CBA总决赛",
+        "onboard_time": 1715950882,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290659,
+        "num": 290659,
+        "word": "成毅直播",
+        "onboard_time": 1715944757,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270513,
+        "num": 270513,
+        "word": "龚俊 戛纳电影节",
+        "onboard_time": 1715950522,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228514,
+        "num": 228514,
+        "word": "刘宇宁下播就去录天行健OST",
+        "onboard_time": 1715948058,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202537,
+        "num": 202537,
+        "word": "金晨演的叶灵儿",
+        "onboard_time": 1715950703,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139161,
+        "num": 202437,
+        "word": "林宥嘉推荐周菲戈上歌手",
+        "onboard_time": 1715947037,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96135,
+        "num": 201312,
+        "word": "1岁女孩坐飞机遇到了人生crush",
+        "onboard_time": 1715928079,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84199,
+        "num": 199594,
+        "word": "郭艾伦采访",
+        "onboard_time": 1715948719,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83053,
+        "num": 199232,
+        "word": "T1战胜G2",
+        "onboard_time": 1715945897,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71870,
+        "num": 197927,
+        "word": "官方通报连云港海鲜市场事件",
+        "onboard_time": 1715932877,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424245,
+        "num": 196815,
+        "word": "杭盖 民族的就是世界的",
+        "onboard_time": 1715949680,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行小范围会晤#"
+    }
+  }
+}
