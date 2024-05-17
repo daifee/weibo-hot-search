@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715927850630,
+  "endTime": 1715930262006,
   "band_list": [
     {
       "raw_hot": 2547711,
@@ -41,6 +41,14 @@
       "onboard_time": 1715861296,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1676522,
+      "num": 1676522,
+      "word": "那英爆料因歌手直播崩溃",
+      "onboard_time": 1715928438,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1623442,
@@ -163,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 718499,
+      "num": 718499,
+      "word": "100万公积金房贷30年可节省4.8万元",
+      "onboard_time": 1715927299,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 704859,
       "num": 704859,
       "word": "大凉山血色彩礼30多万元涉两条人命",
@@ -177,6 +193,14 @@
       "onboard_time": 1715924360,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699426,
+      "num": 422386,
+      "word": "取消全国层面一二套个人住房贷款利率下限",
+      "onboard_time": 1715928378,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 693472,
@@ -371,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484895,
+      "num": 243564,
+      "word": "1岁女孩坐飞机遇到了人生crush",
+      "onboard_time": 1715928079,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 479462,
       "num": 367726,
       "word": "娄烨",
@@ -392,6 +424,14 @@
       "word": "高速上逼停小车的2民警被停职",
       "onboard_time": 1715865440,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474233,
+      "num": 474233,
+      "word": "B太被加油站举报",
+      "onboard_time": 1715929279,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -467,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422039,
+      "num": 422039,
+      "word": "你购房是公积金贷还是商贷",
+      "onboard_time": 1715927299,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 418332,
       "num": 372045,
       "word": "彩礼纠纷致父子持刀杀害前亲家",
@@ -481,6 +529,14 @@
       "onboard_time": 1715866580,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411131,
+      "num": 411131,
+      "word": "歌手2024第二期歌单海报",
+      "onboard_time": 1715927419,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 403476,
@@ -675,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295210,
+      "num": 238274,
+      "word": "监控下喊孙女名字后老人自杀离世",
+      "onboard_time": 1715927060,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 292080,
       "num": 292080,
       "word": "那英今晚唱挣脱",
@@ -763,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259503,
+      "num": 233850,
+      "word": "工资涨了一倍是什么体验",
+      "onboard_time": 1715927539,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258230,
       "num": 258230,
       "word": "李沁庆余年2戏份",
@@ -792,14 +864,6 @@
       "word": "刘宪华时隔11年再跳trap",
       "onboard_time": 1715920041,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 237252,
-      "num": 173545,
-      "word": "歌手2024第二期歌单海报",
-      "onboard_time": 1715927419,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -843,12 +907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219738,
+      "num": 219738,
+      "word": "辛芷蕾海棠朵朵人气",
+      "onboard_time": 1715929639,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215905,
       "num": 215905,
       "word": "医生建议榴莲1天最多吃1瓣",
       "onboard_time": 1715841018,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214757,
+      "num": 214757,
+      "word": "首付",
+      "onboard_time": 1715928799,
+      "rank": 27,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 213501,
@@ -891,20 +971,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205827,
-      "num": 170225,
-      "word": "监控下喊孙女名字后老人自杀离世",
-      "onboard_time": 1715927060,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 202304,
       "num": 202304,
       "word": "想牵手上厕所的有福了",
       "onboard_time": 1715921781,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201064,
+      "num": 201064,
+      "word": "房贷",
+      "onboard_time": 1715928858,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 200770,
+      "num": 200770,
+      "word": "封神第二部无缘暑假档",
+      "onboard_time": 1715929999,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 199869,
@@ -945,14 +1033,6 @@
       "onboard_time": 1715875818,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194580,
-      "num": 172453,
-      "word": "你购房是公积金贷还是商贷",
-      "onboard_time": 1715927299,
-      "rank": 27,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 194549,
@@ -1107,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177779,
+      "num": 177779,
+      "word": "杰伦记住这个感觉 去写歌",
+      "onboard_time": 1715929098,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177203,
       "num": 177203,
       "word": "内娱综艺名场面又多了一个",
@@ -1187,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164310,
+      "num": 164310,
+      "word": "连云港围堵顾客商家存在短斤少两",
+      "onboard_time": 1715928258,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163985,
       "num": 163985,
       "word": "钟楚曦戛纳的妆是自己化的",
@@ -1219,12 +1315,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155097,
-      "num": 155097,
-      "word": "100万公积金房贷30年可节省4.8万元",
-      "onboard_time": 1715927299,
+      "raw_hot": 154715,
+      "num": 154715,
+      "word": "女孩子学化妆有多重要",
+      "onboard_time": 1715928079,
       "rank": 40,
-      "category": "财经"
+      "category": "美妆"
     },
     {
       "raw_hot": 153717,
@@ -1259,12 +1355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150489,
-      "num": 150489,
-      "word": "工资涨了一倍是什么体验",
-      "onboard_time": 1715927539,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 149583,
+      "num": 149583,
+      "word": "连云港海鲜市场抢夺手机工作人员被辞退",
+      "onboard_time": 1715929520,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147994,
@@ -1307,11 +1403,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135118,
+      "num": 422808,
+      "word": "寻找博物馆里的龙文物",
+      "onboard_time": 1715928858,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 133961,
       "num": 133961,
       "word": "刘耀文说时代少年团可以在一起到40岁",
       "onboard_time": 1715911638,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133910,
+      "num": 133910,
+      "word": "十个勤天518",
+      "onboard_time": 1715929759,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1507,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73445,
+      "num": 133923,
+      "word": "宁德时代boss坐什么车",
+      "onboard_time": 1715930179,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72571,
       "num": 227209,
       "word": "田曦薇露腹肌了",
@@ -1545,6 +1665,14 @@
       "onboard_time": 1715900534,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 52432,
+      "num": 202197,
+      "word": "迪丽热巴的AI搭子",
+      "onboard_time": 1715929399,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 50478,
@@ -1736,6 +1864,14 @@
       "word": "神仙导师管你的学术也管你的胃",
       "onboard_time": 1715886251,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5692,
+      "num": 1009823,
+      "word": "发现最美铁路",
+      "onboard_time": 1715844498,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],

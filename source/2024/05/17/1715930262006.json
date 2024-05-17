@@ -1,0 +1,410 @@
+{
+  "runTime": 1715930262006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1676522,
+        "num": 1676522,
+        "word": "那英爆料因歌手直播崩溃",
+        "onboard_time": 1715928438,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1216291,
+        "num": 1216291,
+        "word": "个人住房公积金贷款利率下调0.25%",
+        "onboard_time": 1715923521,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 5692,
+        "num": 1009823,
+        "word": "发现最美铁路",
+        "onboard_time": 1715844498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907167,
+        "num": 907167,
+        "word": "papi酱已退出因广告违法被罚公司",
+        "onboard_time": 1715921542,
+        "rank": 3,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 885366,
+        "num": 885366,
+        "word": "公积金",
+        "onboard_time": 1715923641,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 718499,
+        "num": 718499,
+        "word": "100万公积金房贷30年可节省4.8万元",
+        "onboard_time": 1715927299,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 672826,
+        "num": 672826,
+        "word": "周也 谢可寅",
+        "onboard_time": 1715926158,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474233,
+        "num": 474233,
+        "word": "B太被加油站举报",
+        "onboard_time": 1715929279,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447960,
+        "num": 447960,
+        "word": "车主撞死小狗后推倒狗主致其死亡",
+        "onboard_time": 1715916678,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135118,
+        "num": 422808,
+        "word": "寻找博物馆里的龙文物",
+        "onboard_time": 1715928858,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 803361,
+        "num": 422646,
+        "word": "英国将允许艾滋病感染者捐精捐卵",
+        "onboard_time": 1715916258,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699426,
+        "num": 422386,
+        "word": "取消全国层面一二套个人住房贷款利率下限",
+        "onboard_time": 1715928378,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 422039,
+        "num": 422039,
+        "word": "你购房是公积金贷还是商贷",
+        "onboard_time": 1715927299,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 411131,
+        "num": 411131,
+        "word": "歌手2024第二期歌单海报",
+        "onboard_time": 1715927419,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406047,
+        "num": 406047,
+        "word": "马思纯 瘦身后",
+        "onboard_time": 1715921960,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386510,
+        "num": 386510,
+        "word": "田曦薇 维密",
+        "onboard_time": 1715915298,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371337,
+        "num": 371337,
+        "word": "房地产",
+        "onboard_time": 1715924360,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308926,
+        "num": 308926,
+        "word": "海鲜市场鬼秤事件附近商户发声",
+        "onboard_time": 1715926100,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279244,
+        "num": 279244,
+        "word": "叶轻眉给庆帝带的运动鞋",
+        "onboard_time": 1715911939,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247571,
+        "num": 247571,
+        "word": "那英今晚唱挣脱",
+        "onboard_time": 1715924840,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507627,
+        "num": 247328,
+        "word": "身体两处发痒或是肝癌征兆",
+        "onboard_time": 1715920762,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 484895,
+        "num": 243564,
+        "word": "1岁女孩坐飞机遇到了人生crush",
+        "onboard_time": 1715928079,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295210,
+        "num": 238274,
+        "word": "监控下喊孙女名字后老人自杀离世",
+        "onboard_time": 1715927060,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 259503,
+        "num": 233850,
+        "word": "工资涨了一倍是什么体验",
+        "onboard_time": 1715927539,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233725,
+        "num": 233725,
+        "word": "躺了五年还给范闲躺漏气了",
+        "onboard_time": 1715919981,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228303,
+        "num": 228303,
+        "word": "下个月你工资或将多一笔钱",
+        "onboard_time": 1715905818,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 219738,
+        "num": 219738,
+        "word": "辛芷蕾海棠朵朵人气",
+        "onboard_time": 1715929639,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214757,
+        "num": 214757,
+        "word": "首付",
+        "onboard_time": 1715928799,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 212493,
+        "num": 212493,
+        "word": "连云港",
+        "onboard_time": 1715923041,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92282,
+        "num": 203735,
+        "word": "博物馆里一眼惊艳的文物",
+        "onboard_time": 1715915298,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52432,
+        "num": 202197,
+        "word": "迪丽热巴的AI搭子",
+        "onboard_time": 1715929399,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201947,
+        "num": 201947,
+        "word": "李沁庆余年2戏份",
+        "onboard_time": 1715925199,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201064,
+        "num": 201064,
+        "word": "房贷",
+        "onboard_time": 1715928858,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 200770,
+        "num": 200770,
+        "word": "封神第二部无缘暑假档",
+        "onboard_time": 1715929999,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177779,
+        "num": 177779,
+        "word": "杰伦记住这个感觉 去写歌",
+        "onboard_time": 1715929098,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173953,
+        "num": 173953,
+        "word": "连云港鬼秤商贩已被清出市场",
+        "onboard_time": 1715914818,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171887,
+        "num": 171887,
+        "word": "张钰琪报名歌手",
+        "onboard_time": 1715918539,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164310,
+        "num": 164310,
+        "word": "连云港围堵顾客商家存在短斤少两",
+        "onboard_time": 1715928258,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160994,
+        "num": 160994,
+        "word": "为何年轻人爱上了老年人用品",
+        "onboard_time": 1715927118,
+        "rank": 38,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 156627,
+        "num": 156627,
+        "word": "惠英红 易烊千玺在后面赶紧去",
+        "onboard_time": 1715922500,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154715,
+        "num": 154715,
+        "word": "女孩子学化妆有多重要",
+        "onboard_time": 1715928079,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 149583,
+        "num": 149583,
+        "word": "连云港海鲜市场抢夺手机工作人员被辞退",
+        "onboard_time": 1715929520,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147500,
+        "num": 147500,
+        "word": "范闲范思辙 肉不会消失只会转移",
+        "onboard_time": 1715925620,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143447,
+        "num": 143447,
+        "word": "戚薇二公排名第一",
+        "onboard_time": 1715924060,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136861,
+        "num": 136861,
+        "word": "三件小事最耗气血",
+        "onboard_time": 1715921661,
+        "rank": 44,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 136339,
+        "num": 136339,
+        "word": "腾讯四部热度破30000剧集",
+        "onboard_time": 1715915418,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135211,
+        "num": 135211,
+        "word": "HYBE曝NewJeans被闵熙珍PUA",
+        "onboard_time": 1715922860,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134156,
+        "num": 134156,
+        "word": "靳梦佳淘汰",
+        "onboard_time": 1715927659,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73445,
+        "num": 133923,
+        "word": "宁德时代boss坐什么车",
+        "onboard_time": 1715930179,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133910,
+        "num": 133910,
+        "word": "十个勤天518",
+        "onboard_time": 1715929759,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#为中俄友好的世代传承注入新动力#"
+    }
+  }
+}
