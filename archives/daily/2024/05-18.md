@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/18 00:22:12 ~ 2024/05/18 04:20:16
+本榜单时间：2024/05/18 00:22:12 ~ 2024/05/18 04:34:28
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@ LPL获得第四个S赛名额（热度：82361）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%91%E7%B9%81%E5%A1%9E%E7%89%99%E6%98%AF%E7%89%99%E9%BD%BF%E5%8F%91%E5%87%BA%E7%9A%84%E8%AD%A6%E6%8A%A5%23" target="weibo">
+频繁塞牙是牙齿发出的警报（热度：46971）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%97%E6%A0%BC34%E5%88%86%23" target="weibo">
 弗格34分（热度：46024）
 </a>
@@ -389,12 +395,6 @@ LPL获得第四个S赛名额（热度：82361）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E8%B5%B0%E4%BA%8620%E5%85%AC%E9%87%8C%E6%9D%A5%E7%9C%8B%E7%97%85%23" target="weibo">
 他走了20公里来看病（热度：43476）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%91%E7%B9%81%E5%A1%9E%E7%89%99%E6%98%AF%E7%89%99%E9%BD%BF%E5%8F%91%E5%87%BA%E7%9A%84%E8%AD%A6%E6%8A%A5%23" target="weibo">
-频繁塞牙是牙齿发出的警报（热度：41643）
 </a>
 </li>
 
@@ -423,14 +423,14 @@ CBA总决赛（热度：29779）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.6%E7%89%88%E6%9C%AC%23" target="weibo">
-原神4.6版本（热度：22860）
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%8E%A9%E5%97%A8%E4%BA%86%23" target="weibo">
+老外在中国玩嗨了（热度：23530）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%8E%A9%E5%97%A8%E4%BA%86%23" target="weibo">
-老外在中国玩嗨了（热度：21975）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.6%E7%89%88%E6%9C%AC%23" target="weibo">
+原神4.6版本（热度：22860）
 </a>
 </li>
 
