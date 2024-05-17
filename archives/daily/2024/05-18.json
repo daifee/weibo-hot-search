@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1715967266224,
+  "endTime": 1715970306505,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331906,
+      "num": 93440,
+      "word": "Faouzia回应第一",
+      "onboard_time": 1715967015,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314194,
       "num": 314194,
       "word": "京城大师赛",
@@ -275,12 +283,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161763,
+      "num": 131939,
+      "word": "女朋友的情绪价值过于饱满了",
+      "onboard_time": 1715965815,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161044,
       "num": 161044,
       "word": "齐舞女团aespa",
       "onboard_time": 1715957367,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157176,
+      "num": 157176,
+      "word": "重庆地铁电子屏惊现雷人字幕",
+      "onboard_time": 1715966835,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154934,
@@ -323,14 +347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116100,
-      "num": 131939,
-      "word": "女朋友的情绪价值过于饱满了",
-      "onboard_time": 1715965815,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111632,
       "num": 270492,
       "word": "这些景区居然是私人的",
@@ -353,14 +369,6 @@
       "onboard_time": 1715958742,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96449,
-      "num": 93440,
-      "word": "Faouzia回应第一",
-      "onboard_time": 1715967015,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 95730,
@@ -459,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51793,
+      "num": 51793,
+      "word": "张若昀说庆余年2比预想晚了好多",
+      "onboard_time": 1715969893,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51281,
       "num": 220045,
       "word": "张镇麟怒摔球衣",
@@ -483,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 35919,
-      "num": 93813,
-      "word": "重庆地铁电子屏惊现雷人字幕",
-      "onboard_time": 1715966835,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35799,
       "num": 1742966,
       "word": "盘点中国知名体育博物馆",
@@ -505,6 +513,14 @@
       "onboard_time": 1715947217,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27569,
+      "num": 55067,
+      "word": "三只狗带了一只流浪猫回家",
+      "onboard_time": 1715952383,
+      "rank": 37,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
