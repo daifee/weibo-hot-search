@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715949201215,
+  "endTime": 1715950135170,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -11,20 +11,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 11367856,
+      "num": 11367856,
+      "word": "歌手直播",
+      "onboard_time": 1715341399,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9003287,
       "num": 9003287,
       "word": "庆余年 剧王",
       "onboard_time": 1715861296,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8838186,
-      "num": 8838186,
-      "word": "歌手直播",
-      "onboard_time": 1715341399,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 8327499,
@@ -145,6 +145,14 @@
       "onboard_time": 1714691414,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 3206662,
+      "num": 370501,
+      "word": "杭盖 牛",
+      "onboard_time": 1715949321,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 3155031,
@@ -393,6 +401,14 @@
       "onboard_time": 1714656380,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2448824,
+      "num": 374976,
+      "word": "那英 不在",
+      "onboard_time": 1715948240,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2441093,
@@ -1467,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1496052,
-      "num": 374976,
-      "word": "那英 不在",
-      "onboard_time": 1715948240,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1494772,
       "num": 753225,
       "word": "牛约堡致歉",
@@ -2433,6 +2441,14 @@
       "onboard_time": 1715845879,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1219566,
+      "num": 271361,
+      "word": "双揭榜 双淘汰",
+      "onboard_time": 1715948119,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1215588,
@@ -3483,14 +3499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1012641,
-      "num": 271361,
-      "word": "双揭榜 双淘汰",
-      "onboard_time": 1715948119,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1011493,
       "num": 755973,
       "word": "又一种新冠新毒株突袭多国",
@@ -3617,6 +3625,14 @@
       "onboard_time": 1714625058,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 987680,
+      "num": 258550,
+      "word": "黄宣 投票",
+      "onboard_time": 1715949260,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 984312,
@@ -5945,6 +5961,14 @@
       "onboard_time": 1715046679,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 735892,
+      "num": 258007,
+      "word": "香缇莫被挑战",
+      "onboard_time": 1715949141,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 735054,
@@ -10579,6 +10603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486142,
+      "num": 486142,
+      "word": "狂飙兄弟被抢手机已还回",
+      "onboard_time": 1715946018,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486084,
       "num": 334708,
       "word": "河大一研究生论文曾指出礼堂消防隐患",
@@ -12161,6 +12193,14 @@
       "onboard_time": 1715388859,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432303,
+      "num": 178611,
+      "word": "杭盖 民族的就是世界的",
+      "onboard_time": 1715949680,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 432281,
@@ -14073,14 +14113,6 @@
       "onboard_time": 1715083219,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382782,
-      "num": 382782,
-      "word": "狂飙兄弟被抢手机已还回",
-      "onboard_time": 1715946018,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382293,
@@ -18585,6 +18617,14 @@
       "onboard_time": 1715097557,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279401,
+      "num": 153003,
+      "word": "英子别紧张",
+      "onboard_time": 1715949260,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 279398,
@@ -25547,6 +25587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203443,
+      "num": 203443,
+      "word": "女朋友效应",
+      "onboard_time": 1715946319,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203401,
       "num": 203401,
       "word": "张韶涵巡演官宣",
@@ -25979,6 +26027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201240,
+      "num": 131633,
+      "word": "刘宇宁下播就去录天行健OST",
+      "onboard_time": 1715948058,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201188,
       "num": 201188,
       "word": "元气森林音乐节",
@@ -26185,6 +26241,14 @@
       "onboard_time": 1714882879,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200541,
+      "num": 120104,
+      "word": "superwoman好听",
+      "onboard_time": 1715949981,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 200524,
@@ -27393,14 +27457,6 @@
       "onboard_time": 1714994297,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194828,
-      "num": 194828,
-      "word": "女朋友效应",
-      "onboard_time": 1715946319,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 194775,
@@ -30139,14 +30195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180180,
-      "num": 131633,
-      "word": "刘宇宁下播就去录天行健OST",
-      "onboard_time": 1715948058,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180174,
       "num": 180174,
       "word": "TES开启MSI首战",
@@ -32627,6 +32675,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 166282,
+      "num": 119471,
+      "word": "朝云暮雨",
+      "onboard_time": 1715948779,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166153,
       "num": 166153,
       "word": "白鹿藏了一天没被发现",
@@ -33883,14 +33939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159034,
-      "num": 119471,
-      "word": "朝云暮雨",
-      "onboard_time": 1715948779,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 158990,
       "num": 158990,
       "word": "汪东城你小子是真热假热",
@@ -34041,6 +34089,14 @@
       "onboard_time": 1714534878,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 158320,
+      "num": 158320,
+      "word": "Gumayusi要3比0战胜BLG",
+      "onboard_time": 1715948420,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 158209,
@@ -34993,14 +35049,6 @@
       "onboard_time": 1715686577,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 153201,
-      "num": 118800,
-      "word": "香缇莫被挑战",
-      "onboard_time": 1715949141,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 153173,
@@ -39059,14 +39107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 130809,
-      "num": 130809,
-      "word": "Gumayusi要3比0战胜BLG",
-      "onboard_time": 1715948420,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 130780,
       "num": 130780,
       "word": "王楚钦孙颖莎进大满贯决赛",
@@ -39417,6 +39457,14 @@
       "onboard_time": 1715848877,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128902,
+      "num": 128902,
+      "word": "郭艾伦采访",
+      "onboard_time": 1715948719,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 128878,
@@ -41403,6 +41451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116352,
+      "num": 116352,
+      "word": "得了带状疱疹有多疼",
+      "onboard_time": 1715949920,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116344,
       "num": 116344,
       "word": "燃起来了",
@@ -41769,14 +41825,6 @@
       "onboard_time": 1715830039,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114198,
-      "num": 114198,
-      "word": "郭艾伦采访",
-      "onboard_time": 1715948719,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 114188,
@@ -42588,7 +42636,7 @@
     },
     {
       "raw_hot": 108377,
-      "num": 108377,
+      "num": 114348,
       "word": "辽疆大战",
       "onboard_time": 1715946378,
       "rank": 47,
@@ -43801,6 +43849,14 @@
       "onboard_time": 1715258418,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94642,
+      "num": 113400,
+      "word": "梅州客家vs成都蓉城",
+      "onboard_time": 1715949620,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 94277,
