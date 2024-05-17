@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1715985289180,
+  "endTime": 1715987996133,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 878246,
-      "num": 411459,
+      "num": 724948,
       "word": "英子守不住了",
       "onboard_time": 1715958623,
       "rank": 24,
@@ -129,6 +129,14 @@
       "onboard_time": 1715961201,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 476000,
+      "num": 476000,
+      "word": "重庆地铁电子屏惊现雷人字幕",
+      "onboard_time": 1715966835,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454678,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291581,
+      "num": 291581,
+      "word": "如何看待能在床上躺一天的舍友",
+      "onboard_time": 1715956766,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280418,
       "num": 280418,
       "word": "男童母亲称要看到照片才相信狗已被打死",
@@ -235,19 +251,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271522,
-      "num": 271522,
-      "word": "如何看待能在床上躺一天的舍友",
-      "onboard_time": 1715956766,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 258801,
       "num": 258801,
       "word": "鹿晗秦皇岛",
       "onboard_time": 1715960001,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237635,
+      "num": 58113,
+      "word": "肖战工作室发了两个肖战",
+      "onboard_time": 1715987534,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -259,12 +275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199814,
-      "num": 199814,
-      "word": "重庆地铁电子屏惊现雷人字幕",
-      "onboard_time": 1715966835,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 196786,
+      "num": 57866,
+      "word": "歌手",
+      "onboard_time": 1715987474,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189646,
+      "num": 189646,
+      "word": "中国女排1比3加拿大女排",
+      "onboard_time": 1715987715,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 176426,
@@ -313,6 +337,14 @@
       "onboard_time": 1715957187,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146006,
+      "num": 57522,
+      "word": "频繁塞牙是牙齿发出的警报",
+      "onboard_time": 1715973192,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141994,
@@ -387,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92353,
+      "num": 56768,
+      "word": "房贷新政买房人能省多少钱",
+      "onboard_time": 1715981831,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91753,
       "num": 260166,
       "word": "每天吃一个西红柿或能收获4种好处",
@@ -411,12 +451,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 87367,
-      "num": 39535,
-      "word": "频繁塞牙是牙齿发出的警报",
-      "onboard_time": 1715973192,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 86569,
+      "num": 86569,
+      "word": "公积金真的有用吗",
+      "onboard_time": 1715971752,
+      "rank": 29,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 83762,
@@ -443,7 +483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67844,
+      "raw_hot": 76420,
       "num": 93243,
       "word": "章子怡 戛纳",
       "onboard_time": 1715944457,
@@ -459,20 +499,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 63236,
-      "num": 38465,
-      "word": "房贷新政买房人能省多少钱",
-      "onboard_time": 1715981831,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59150,
       "num": 51793,
       "word": "张若昀说庆余年2比预想晚了好多",
       "onboard_time": 1715969893,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57975,
+      "num": 50796,
+      "word": "Adele就是Adele",
+      "onboard_time": 1715987654,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 57103,
@@ -499,6 +539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50835,
+      "num": 55067,
+      "word": "三只狗带了一只流浪猫回家",
+      "onboard_time": 1715952383,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 50761,
+      "num": 50761,
+      "word": "一句一句发的时候就是急了",
+      "onboard_time": 1715987474,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48563,
       "num": 39509,
       "word": "哈哈哈哈哈",
@@ -507,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48251,
-      "num": 48251,
-      "word": "公积金真的有用吗",
-      "onboard_time": 1715971752,
-      "rank": 29,
-      "category": "财经,社会新闻"
+      "raw_hot": 48190,
+      "num": 48190,
+      "word": "不吃晚饭和每餐七分饱哪个减肥效果好",
+      "onboard_time": 1715987474,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 46024,
@@ -529,6 +585,38 @@
       "onboard_time": 1715964436,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 42014,
+      "num": 42014,
+      "word": "传下去王妈把赵管家忘了",
+      "onboard_time": 1715987474,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 41465,
+      "num": 154698,
+      "word": "30岁小伙被裁岳母和女儿在门口迎接",
+      "onboard_time": 1715987474,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40657,
+      "num": 40657,
+      "word": "王媛媛8拦网",
+      "onboard_time": 1715986753,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38758,
+      "num": 38758,
+      "word": "爸爸抱女儿睡觉围观群众反应好暖心",
+      "onboard_time": 1715987955,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35799,
@@ -553,14 +641,6 @@
       "onboard_time": 1715947217,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28058,
-      "num": 55067,
-      "word": "三只狗带了一只流浪猫回家",
-      "onboard_time": 1715952383,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 22860,

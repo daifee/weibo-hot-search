@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715985289180,
+  "endTime": 1715987996133,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1828,7 +1828,7 @@
     },
     {
       "raw_hot": 878246,
-      "num": 564828,
+      "num": 724948,
       "word": "英子守不住了",
       "onboard_time": 1715958623,
       "rank": 26,
@@ -4336,6 +4336,14 @@
       "word": "美国变性女撞倒男子后先亲再捅9刀",
       "onboard_time": 1715500338,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476000,
+      "num": 476000,
+      "word": "重庆地铁电子屏惊现雷人字幕",
+      "onboard_time": 1715966835,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -8443,6 +8451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237635,
+      "num": 58113,
+      "word": "肖战工作室发了两个肖战",
+      "onboard_time": 1715987534,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237011,
       "num": 231218,
       "word": "JackeyLove 管泽元",
@@ -10187,14 +10203,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 199814,
-      "num": 199814,
-      "word": "重庆地铁电子屏惊现雷人字幕",
-      "onboard_time": 1715966835,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199756,
       "num": 199756,
       "word": "官方回应法官被指微信指挥庭审",
@@ -11033,6 +11041,14 @@
       "onboard_time": 1715827937,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189646,
+      "num": 189646,
+      "word": "中国女排1比3加拿大女排",
+      "onboard_time": 1715987715,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 189598,
@@ -13513,6 +13529,14 @@
       "onboard_time": 1715771357,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146006,
+      "num": 57522,
+      "word": "频繁塞牙是牙齿发出的警报",
+      "onboard_time": 1715973192,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145949,
@@ -16067,6 +16091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92353,
+      "num": 56768,
+      "word": "房贷新政买房人能省多少钱",
+      "onboard_time": 1715981831,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91974,
       "num": 437798,
       "word": "偏瘫女童说出完整祝词奶奶眼睛亮了",
@@ -16235,14 +16267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87367,
-      "num": 39535,
-      "word": "频繁塞牙是牙齿发出的警报",
-      "onboard_time": 1715973192,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 87360,
       "num": 107267,
       "word": "贵州姑妈篮球赛太有意思了",
@@ -16257,6 +16281,14 @@
       "onboard_time": 1715605459,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86569,
+      "num": 86569,
+      "word": "公积金真的有用吗",
+      "onboard_time": 1715971752,
+      "rank": 29,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 85523,
@@ -16651,14 +16683,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 63236,
-      "num": 38465,
-      "word": "房贷新政买房人能省多少钱",
-      "onboard_time": 1715981831,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63081,
       "num": 185756,
       "word": "vivoX100s销量翻了近8倍",
@@ -16753,6 +16777,14 @@
       "onboard_time": 1715636890,
       "rank": 45,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 57975,
+      "num": 50796,
+      "word": "Adele就是Adele",
+      "onboard_time": 1715987654,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 57956,
@@ -16939,6 +16971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50761,
+      "num": 50761,
+      "word": "一句一句发的时候就是急了",
+      "onboard_time": 1715987474,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 50478,
       "num": 343371,
       "word": "陆仙人戛纳红毯首秀",
@@ -17003,12 +17043,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48251,
-      "num": 48251,
-      "word": "公积金真的有用吗",
-      "onboard_time": 1715971752,
-      "rank": 29,
-      "category": "财经,社会新闻"
+      "raw_hot": 48190,
+      "num": 48190,
+      "word": "不吃晚饭和每餐七分饱哪个减肥效果好",
+      "onboard_time": 1715987474,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 47542,
@@ -17155,11 +17195,27 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 42014,
+      "num": 42014,
+      "word": "传下去王妈把赵管家忘了",
+      "onboard_time": 1715987474,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 41611,
       "num": 1133873,
       "word": "重申红线把基础教育越办越好",
       "onboard_time": 1715740637,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41465,
+      "num": 154698,
+      "word": "30岁小伙被裁岳母和女儿在门口迎接",
+      "onboard_time": 1715987474,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -17171,12 +17227,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 40657,
+      "num": 40657,
+      "word": "王媛媛8拦网",
+      "onboard_time": 1715986753,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39463,
       "num": 39463,
       "word": "地磁暴带着极光来了",
       "onboard_time": 1715451615,
       "rank": 44,
       "category": "自然,科学科普"
+    },
+    {
+      "raw_hot": 38758,
+      "num": 38758,
+      "word": "爸爸抱女儿睡觉围观群众反应好暖心",
+      "onboard_time": 1715987955,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38365,
