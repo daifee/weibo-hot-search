@@ -1,0 +1,410 @@
+{
+  "runTime": 1715916871351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1830376,
+        "num": 1830376,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1715911457,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1444162,
+        "num": 1444162,
+        "word": "下个月你工资或将多一笔钱",
+        "onboard_time": 1715905818,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 123182,
+        "num": 1405946,
+        "word": "博物馆里一眼惊艳的文物",
+        "onboard_time": 1715915298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1374249,
+        "num": 1374249,
+        "word": "田曦薇 维密",
+        "onboard_time": 1715915298,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1354808,
+        "num": 1354808,
+        "word": "连云港鬼秤商贩已被清出市场",
+        "onboard_time": 1715914818,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936266,
+        "num": 936266,
+        "word": "叶轻眉给庆帝带的运动鞋",
+        "onboard_time": 1715911939,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626738,
+        "num": 626738,
+        "word": "赵樱子提醒关晓彤看镜头",
+        "onboard_time": 1715911276,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 555182,
+        "num": 555182,
+        "word": "人在什么时候最舒服",
+        "onboard_time": 1715911216,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 562709,
+        "num": 555106,
+        "word": "爹爹撞撞奔向你",
+        "onboard_time": 1715910317,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54288,
+        "num": 554621,
+        "word": "老师跳河救人后满身泥泞回校上班",
+        "onboard_time": 1715910078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729325,
+        "num": 554621,
+        "word": "台湾首现2例日本脑炎病例1人死亡",
+        "onboard_time": 1715907198,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554611,
+        "num": 554611,
+        "word": "陆仙人 戛纳",
+        "onboard_time": 1715914398,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441848,
+        "num": 441848,
+        "word": "五竹叔",
+        "onboard_time": 1715911216,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516227,
+        "num": 406522,
+        "word": "垫底辣孩戛纳红毯",
+        "onboard_time": 1715915298,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50478,
+        "num": 335231,
+        "word": "陆仙人戛纳红毯首秀",
+        "onboard_time": 1715914938,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333995,
+        "num": 333995,
+        "word": "雷军歌手摇人榜第一",
+        "onboard_time": 1715916440,
+        "rank": 15,
+        "category": "互联网,综艺"
+      },
+      {
+        "raw_hot": 308746,
+        "num": 308746,
+        "word": "市监局回应连云港海鲜市场事件",
+        "onboard_time": 1715908219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308416,
+        "num": 308416,
+        "word": "国安部发文披露航天领域间谍案",
+        "onboard_time": 1715915119,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275381,
+        "num": 275381,
+        "word": "森林狼3比3掘金",
+        "onboard_time": 1715915418,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49625,
+        "num": 275002,
+        "word": "玉面狐狸特效绝杀",
+        "onboard_time": 1715915358,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 656068,
+        "num": 272983,
+        "word": "英国将允许艾滋病感染者捐精捐卵",
+        "onboard_time": 1715916258,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400594,
+        "num": 271462,
+        "word": "王楚然演技 尴尬",
+        "onboard_time": 1715869220,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354557,
+        "num": 270967,
+        "word": "腾讯四部热度破30000剧集",
+        "onboard_time": 1715915418,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333447,
+        "num": 269206,
+        "word": "周杰伦 哥平常是不随便流泪的",
+        "onboard_time": 1715902997,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 323026,
+        "num": 268287,
+        "word": "匪我思存吐槽庆余年2广告多",
+        "onboard_time": 1715902576,
+        "rank": 24,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 280876,
+        "num": 265783,
+        "word": "狂飙兄弟",
+        "onboard_time": 1715905279,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 265481,
+        "num": 265481,
+        "word": "Kpop选秀史上第一位脱北练习生",
+        "onboard_time": 1715908939,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302753,
+        "num": 265040,
+        "word": "庆余年 剧王",
+        "onboard_time": 1715861296,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262434,
+        "num": 262434,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1715829678,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213660,
+        "num": 213660,
+        "word": "掘金 森林狼",
+        "onboard_time": 1715914156,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257761,
+        "num": 211504,
+        "word": "庆余年2 黑色幽默",
+        "onboard_time": 1715909840,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228407,
+        "num": 209261,
+        "word": "韩红 中国第一女rapper",
+        "onboard_time": 1715909357,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204521,
+        "num": 204521,
+        "word": "爱奇艺股价暴涨12%",
+        "onboard_time": 1715911039,
+        "rank": 32,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 201265,
+        "num": 201265,
+        "word": "车主撞死小狗后推倒狗主致其死亡",
+        "onboard_time": 1715916678,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199869,
+        "num": 199869,
+        "word": "电影她的小梨涡定档七夕",
+        "onboard_time": 1715916440,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185821,
+        "num": 185821,
+        "word": "沙溢问时代少年团什么时候解散",
+        "onboard_time": 1715907558,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185417,
+        "num": 185417,
+        "word": "江西11岁男孩留遗书跳楼案二审",
+        "onboard_time": 1715916559,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183845,
+        "num": 183845,
+        "word": "中版恋爱兄妹",
+        "onboard_time": 1715912419,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180104,
+        "num": 180104,
+        "word": "隐翅虫",
+        "onboard_time": 1715909178,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 175370,
+        "num": 175370,
+        "word": "连云港海鲜市场",
+        "onboard_time": 1715901555,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171045,
+        "num": 171045,
+        "word": "十个勤天",
+        "onboard_time": 1715915838,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170673,
+        "num": 170673,
+        "word": "我的阿勒泰火了",
+        "onboard_time": 1715913738,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160943,
+        "num": 160943,
+        "word": "周杰伦上一次哭还是在AE86",
+        "onboard_time": 1715913499,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152241,
+        "num": 152241,
+        "word": "街道办回应连云港海鲜市场事件",
+        "onboard_time": 1715915958,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150067,
+        "num": 150067,
+        "word": "爱奇艺每季度不再公布会员数",
+        "onboard_time": 1715904378,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149549,
+        "num": 149549,
+        "word": "爱德华兹太生猛了",
+        "onboard_time": 1715915238,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148406,
+        "num": 148406,
+        "word": "煎蛋",
+        "onboard_time": 1715905639,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 145838,
+        "num": 145838,
+        "word": "周杰伦哭了",
+        "onboard_time": 1715870779,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141491,
+        "num": 141491,
+        "word": "这个周五等的我好苦",
+        "onboard_time": 1715915778,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141268,
+        "num": 141268,
+        "word": "钟楚曦发了G社图",
+        "onboard_time": 1715912179,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首出席中俄文化年开幕式#"
+    }
+  }
+}

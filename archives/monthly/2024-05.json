@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715916015556,
+  "endTime": 1715916871351,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1715391679,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1374249,
+      "num": 1374249,
+      "word": "田曦薇 维密",
+      "onboard_time": 1715915298,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1374031,
@@ -5827,14 +5835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 734229,
-      "num": 734229,
-      "word": "田曦薇 维密",
-      "onboard_time": 1715915298,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 733783,
       "num": 466041,
       "word": "侯雯元想了一夜钟楚曦",
@@ -6904,6 +6904,14 @@
       "word": "男子称订婚给34万彩礼后女方退婚不退钱",
       "onboard_time": 1715221937,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656068,
+      "num": 272983,
+      "word": "英国将允许艾滋病感染者捐精捐卵",
+      "onboard_time": 1715916258,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -8659,6 +8667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555182,
+      "num": 555182,
+      "word": "人在什么时候最舒服",
+      "onboard_time": 1715911216,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 554952,
       "num": 554952,
       "word": "国务院安委会派督导组赴河南",
@@ -9531,6 +9547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 516227,
+      "num": 406522,
+      "word": "垫底辣孩戛纳红毯",
+      "onboard_time": 1715915298,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 516041,
       "num": 516041,
       "word": "山东10个馄饨250克吃懵南方人",
@@ -9561,14 +9585,6 @@
       "onboard_time": 1715855476,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 514455,
-      "num": 514455,
-      "word": "人在什么时候最舒服",
-      "onboard_time": 1715911216,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 514090,
@@ -14131,14 +14147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 371224,
-      "num": 248650,
-      "word": "垫底辣孩戛纳红毯",
-      "onboard_time": 1715915298,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 371172,
       "num": 371172,
       "word": "中国南水北调原副总经济师樊新中被查",
@@ -14736,6 +14744,14 @@
       "word": "新生",
       "onboard_time": 1715044159,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 354557,
+      "num": 270967,
+      "word": "腾讯四部热度破30000剧集",
+      "onboard_time": 1715915418,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -15561,6 +15577,14 @@
       "onboard_time": 1715055080,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333995,
+      "num": 333995,
+      "word": "雷军歌手摇人榜第一",
+      "onboard_time": 1715916440,
+      "rank": 15,
+      "category": "互联网,综艺"
     },
     {
       "raw_hot": 333941,
@@ -16609,6 +16633,14 @@
       "onboard_time": 1714808719,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308416,
+      "num": 308416,
+      "word": "国安部发文披露航天领域间谍案",
+      "onboard_time": 1715915119,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 308362,
@@ -18331,6 +18363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275381,
+      "num": 275381,
+      "word": "森林狼3比3掘金",
+      "onboard_time": 1715915418,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275195,
       "num": 275195,
       "word": "菲律宾",
@@ -18881,14 +18921,6 @@
       "onboard_time": 1715407879,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267439,
-      "num": 214251,
-      "word": "腾讯四部热度破30000剧集",
-      "onboard_time": 1715915418,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 267115,
@@ -20305,14 +20337,6 @@
       "onboard_time": 1715306898,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246621,
-      "num": 246621,
-      "word": "国安部发文披露航天领域间谍案",
-      "onboard_time": 1715915119,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 246552,
@@ -23203,14 +23227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214526,
-      "num": 214526,
-      "word": "森林狼3比3掘金",
-      "onboard_time": 1715915418,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214487,
       "num": 214487,
       "word": "离婚搭子好小众的文字",
@@ -25219,6 +25235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201265,
+      "num": 201265,
+      "word": "车主撞死小狗后推倒狗主致其死亡",
+      "onboard_time": 1715916678,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201252,
       "num": 201252,
       "word": "郭艾伦说很想和大家一起上",
@@ -25569,6 +25593,14 @@
       "onboard_time": 1715422218,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199869,
+      "num": 199869,
+      "word": "电影她的小梨涡定档七夕",
+      "onboard_time": 1715916440,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 199804,
@@ -28507,6 +28539,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 185417,
+      "num": 185417,
+      "word": "江西11岁男孩留遗书跳楼案二审",
+      "onboard_time": 1715916559,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185400,
       "num": 185400,
       "word": "管泽元",
@@ -30915,6 +30955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170673,
+      "num": 170673,
+      "word": "我的阿勒泰火了",
+      "onboard_time": 1715913738,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170608,
       "num": 170608,
       "word": "KPL",
@@ -32273,14 +32321,6 @@
       "onboard_time": 1714821558,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163324,
-      "num": 163324,
-      "word": "我的阿勒泰火了",
-      "onboard_time": 1715913738,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 163302,
@@ -34129,6 +34169,14 @@
       "onboard_time": 1714631357,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152241,
+      "num": 152241,
+      "word": "街道办回应连云港海鲜市场事件",
+      "onboard_time": 1715915958,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152225,
@@ -36033,6 +36081,14 @@
       "onboard_time": 1715091322,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141491,
+      "num": 141491,
+      "word": "这个周五等的我好苦",
+      "onboard_time": 1715915778,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 141437,
@@ -39179,6 +39235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123182,
+      "num": 1430541,
+      "word": "博物馆里一眼惊艳的文物",
+      "onboard_time": 1715915298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123080,
       "num": 123080,
       "word": "清水镇有自己的runningman",
@@ -39801,14 +39865,6 @@
       "onboard_time": 1715317640,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119251,
-      "num": 119251,
-      "word": "这个周五等的我好苦",
-      "onboard_time": 1715915778,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 119114,
@@ -41161,14 +41217,6 @@
       "onboard_time": 1715779158,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 109781,
-      "num": 109781,
-      "word": "街道办回应连云港海鲜市场事件",
-      "onboard_time": 1715915958,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109686,
@@ -43532,7 +43580,7 @@
     },
     {
       "raw_hot": 75025,
-      "num": 550872,
+      "num": 554621,
       "word": "老师跳河救人后满身泥泞回校上班",
       "onboard_time": 1715910078,
       "rank": 9,
@@ -43729,14 +43777,6 @@
       "onboard_time": 1715124798,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69979,
-      "num": 1430541,
-      "word": "博物馆里一眼惊艳的文物",
-      "onboard_time": 1715915298,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69955,
@@ -44643,6 +44683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50478,
+      "num": 343371,
+      "word": "陆仙人戛纳红毯首秀",
+      "onboard_time": 1715914938,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50419,
       "num": 867195,
       "word": "文化中国行感受非遗魅力",
@@ -44697,6 +44745,14 @@
       "onboard_time": 1714670115,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49625,
+      "num": 275002,
+      "word": "玉面狐狸特效绝杀",
+      "onboard_time": 1715915358,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 49394,
@@ -45131,14 +45187,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 38163,
-      "num": 343371,
-      "word": "陆仙人戛纳红毯首秀",
-      "onboard_time": 1715914938,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 38128,
       "num": 45839,
       "word": "切尔西vs西汉姆联",
@@ -45265,14 +45313,6 @@
       "onboard_time": 1715623871,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34568,
-      "num": 227104,
-      "word": "玉面狐狸特效绝杀",
-      "onboard_time": 1715915358,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 34426,
