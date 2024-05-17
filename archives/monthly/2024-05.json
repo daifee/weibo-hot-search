@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715959189720,
+  "endTime": 1715960067088,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3331,6 +3331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1084176,
+      "num": 1084176,
+      "word": "林俊杰 不为谁而作的歌",
+      "onboard_time": 1715959042,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1083466,
       "num": 1083466,
       "word": "mlxg退群",
@@ -5025,6 +5033,14 @@
       "onboard_time": 1715746822,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 834341,
+      "num": 564828,
+      "word": "英子守不住了",
+      "onboard_time": 1715958623,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 833538,
@@ -8995,14 +9011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 564828,
-      "num": 564828,
-      "word": "英子守不住了",
-      "onboard_time": 1715958623,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 564028,
       "num": 564028,
       "word": "南通车祸现场救援者称只是做了该做的",
@@ -9081,6 +9089,14 @@
       "onboard_time": 1715244920,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 560563,
+      "num": 562160,
+      "word": "耳帝上班",
+      "onboard_time": 1715959163,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 560464,
@@ -17203,14 +17219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313183,
-      "num": 562528,
-      "word": "林俊杰 不为谁而作的歌",
-      "onboard_time": 1715959042,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 313016,
       "num": 887411,
       "word": "塞尔维亚首都街头飘扬中国红",
@@ -19555,6 +19563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270221,
+      "num": 560224,
+      "word": "周深演唱会",
+      "onboard_time": 1715088859,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 270206,
       "num": 270206,
       "word": "五一到底哪里没人啊",
@@ -20803,14 +20819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253100,
-      "num": 562160,
-      "word": "耳帝上班",
-      "onboard_time": 1715959163,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 252938,
       "num": 252938,
       "word": "2千买的迪士尼门票被用过平台补偿30",
@@ -21089,14 +21097,6 @@
       "onboard_time": 1714659020,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248412,
-      "num": 560224,
-      "word": "周深演唱会",
-      "onboard_time": 1715088859,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 248381,
@@ -21801,6 +21801,14 @@
       "onboard_time": 1715421198,
       "rank": 29,
       "category": "运动健身,科学科普"
+    },
+    {
+      "raw_hot": 239731,
+      "num": 313242,
+      "word": "李小冉晒庆余年四美聚会照",
+      "onboard_time": 1715959761,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 239458,
@@ -30931,6 +30939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178084,
+      "num": 313000,
+      "word": "鹿晗秦皇岛",
+      "onboard_time": 1715960001,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177987,
       "num": 177987,
       "word": "G2战胜PSG",
@@ -32104,6 +32120,14 @@
       "word": "韩国大学食堂真的适合减肥",
       "onboard_time": 1715935459,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 171812,
+      "num": 582472,
+      "word": "学新闻专业的他感觉要碎掉了",
+      "onboard_time": 1715959102,
+      "rank": 17,
       "category": "幽默"
     },
     {
@@ -39179,14 +39203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133008,
-      "num": 582472,
-      "word": "学新闻专业的他感觉要碎掉了",
-      "onboard_time": 1715959102,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133006,
       "num": 133006,
       "word": "张艺兴戏腔",
@@ -41025,6 +41041,14 @@
       "onboard_time": 1715814074,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122174,
+      "num": 314035,
+      "word": "不是哥们你娶的宋小宝啊",
+      "onboard_time": 1715959584,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 121889,
@@ -44339,6 +44363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94187,
+      "num": 312805,
+      "word": "人类为了吃蒜有多努力",
+      "onboard_time": 1715959401,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 94094,
       "num": 94094,
       "word": "莎头是冠军",
@@ -44849,6 +44881,14 @@
       "onboard_time": 1715877316,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85385,
+      "num": 312658,
+      "word": "减肥的快乐又回来了",
+      "onboard_time": 1715959642,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 85171,
@@ -45819,6 +45859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64862,
+      "num": 318225,
+      "word": "高中女生俩月考出执照成全国最小飞行员",
+      "onboard_time": 1715959401,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64793,
       "num": 72655,
       "word": "杨紫请国色芳华吃承欢记定制雪糕",
@@ -46051,6 +46099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59520,
+      "num": 5137232,
+      "word": "盘点中国知名体育博物馆",
+      "onboard_time": 1715954554,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59356,
       "num": 1079169,
       "word": "打开青春的N种方式",
@@ -46113,6 +46169,14 @@
       "onboard_time": 1715636890,
       "rank": 45,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 57956,
+      "num": 311969,
+      "word": "中超疯狂星期五",
+      "onboard_time": 1715959822,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 57917,
@@ -46225,14 +46289,6 @@
       "onboard_time": 1715847557,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 55869,
-      "num": 5137232,
-      "word": "盘点中国知名体育博物馆",
-      "onboard_time": 1715954554,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55806,
