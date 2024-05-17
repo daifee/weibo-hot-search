@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715934183607,
+  "endTime": 1715934936648,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2811,12 +2811,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 615017,
+      "num": 615017,
+      "word": "42岁网红奶茶创始人2年亏损千万",
+      "onboard_time": 1715930659,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 614189,
       "num": 614189,
       "word": "王一博 得宝",
       "onboard_time": 1715908640,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 613591,
+      "num": 255097,
+      "word": "iPhone7系列用户可获苹果赔偿",
+      "onboard_time": 1715931438,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 610682,
@@ -2961,14 +2977,6 @@
       "onboard_time": 1715776517,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 582818,
-      "num": 255097,
-      "word": "iPhone7系列用户可获苹果赔偿",
-      "onboard_time": 1715931438,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 581700,
@@ -3145,14 +3153,6 @@
       "onboard_time": 1715526141,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 562634,
-      "num": 562634,
-      "word": "42岁网红奶茶创始人2年亏损千万",
-      "onboard_time": 1715930659,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 562464,
@@ -5611,6 +5611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342716,
+      "num": 342716,
+      "word": "韦神改名otto被mlxg骂",
+      "onboard_time": 1715934260,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 342602,
       "num": 342602,
       "word": "歌手奔跑吧收视率第一",
@@ -7531,6 +7539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246931,
+      "num": 246931,
+      "word": "毛利兰 辉夜姬公主",
+      "onboard_time": 1715932159,
+      "rank": 25,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 246888,
       "num": 213996,
       "word": "于正说春色寄情人拍的很好",
@@ -7955,14 +7971,6 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 229106,
-      "num": 229106,
-      "word": "毛利兰 辉夜姬公主",
-      "onboard_time": 1715932159,
-      "rank": 25,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 229084,
       "num": 229084,
       "word": "与晋长安官宣阵容",
@@ -8073,6 +8081,14 @@
       "onboard_time": 1715912419,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225285,
+      "num": 205842,
+      "word": "打卡AAAAA景点叶修",
+      "onboard_time": 1715930479,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 225080,
@@ -8433,6 +8449,14 @@
       "onboard_time": 1715869760,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215456,
+      "num": 215456,
+      "word": "成毅直播别再仅自己可见了",
+      "onboard_time": 1715932277,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 215256,
@@ -9033,14 +9057,6 @@
       "onboard_time": 1715928858,
       "rank": 32,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 202997,
-      "num": 205842,
-      "word": "打卡AAAAA景点叶修",
-      "onboard_time": 1715930479,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 202768,
@@ -9729,14 +9745,6 @@
       "onboard_time": 1715915778,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194261,
-      "num": 194261,
-      "word": "成毅直播别再仅自己可见了",
-      "onboard_time": 1715932277,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 193922,
@@ -10979,6 +10987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173117,
+      "num": 173117,
+      "word": "央行房贷政策三连发影响多大",
+      "onboard_time": 1715934546,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 172871,
       "num": 172871,
       "word": "不敢全开麦无修音不全是艺人的问题",
@@ -11377,6 +11393,14 @@
       "onboard_time": 1715773937,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166611,
+      "num": 166611,
+      "word": "张若昀希望第三季范闲能平安",
+      "onboard_time": 1715934558,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 166455,
@@ -12731,6 +12755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140304,
+      "num": 140304,
+      "word": "闵熙珍拒绝给newjeans注水",
+      "onboard_time": 1715932819,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140287,
       "num": 140287,
       "word": "袁娅维巡演",
@@ -12923,6 +12955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137176,
+      "num": 137176,
+      "word": "G2对战T1",
+      "onboard_time": 1715934679,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136851,
       "num": 136851,
       "word": "加满一箱油将省9元",
@@ -13073,14 +13113,6 @@
       "onboard_time": 1715438661,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133773,
-      "num": 133773,
-      "word": "闵熙珍拒绝给newjeans注水",
-      "onboard_time": 1715932819,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 133756,
@@ -14387,6 +14419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107233,
+      "num": 170819,
+      "word": "福建舰航行试验是建造过程中的正常安排",
+      "onboard_time": 1715934140,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107158,
       "num": 191173,
       "word": "为什么年轻人越来越Fit了",
@@ -14611,14 +14651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100026,
-      "num": 134118,
-      "word": "福建舰航行试验是建造过程中的正常安排",
-      "onboard_time": 1715934140,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 99600,
       "num": 99600,
       "word": "春游哥哥发文悼念故友",
@@ -14745,6 +14777,14 @@
       "onboard_time": 1715531537,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92560,
+      "num": 353755,
+      "word": "外国人在河南品尝宋朝美食",
+      "onboard_time": 1715934140,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 91974,
@@ -15121,14 +15161,6 @@
       "onboard_time": 1715497218,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73141,
-      "num": 207705,
-      "word": "外国人在河南品尝宋朝美食",
-      "onboard_time": 1715934140,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 73131,
@@ -15851,6 +15883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29610,
+      "num": 679563,
+      "word": "逛博物馆比逛菜市场还挤",
+      "onboard_time": 1715934319,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28759,
       "num": 218606,
       "word": "王阳自驾露营好治愈",
@@ -16325,6 +16365,9 @@
     },
     {
       "word": "#中俄元首出席中俄文化年开幕式#"
+    },
+    {
+      "word": "#习近平同普京举行小范围会晤#"
     }
   ]
 }
