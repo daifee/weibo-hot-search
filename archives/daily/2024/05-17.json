@@ -1,7 +1,15 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715924298246,
+  "endTime": 1715927102445,
   "band_list": [
+    {
+      "raw_hot": 2547711,
+      "num": 2547711,
+      "word": "个人住房公积金贷款利率下调0.25%",
+      "onboard_time": 1715923521,
+      "rank": 0,
+      "category": "财经"
+    },
     {
       "raw_hot": 2269801,
       "num": 556251,
@@ -25,14 +33,6 @@
       "onboard_time": 1715911457,
       "rank": 1,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1792521,
-      "num": 1792521,
-      "word": "个人住房公积金贷款利率下调0.25%",
-      "onboard_time": 1715923521,
-      "rank": 0,
-      "category": "财经"
     },
     {
       "raw_hot": 1742910,
@@ -91,6 +91,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 1348942,
+      "num": 1348942,
+      "word": "公积金",
+      "onboard_time": 1715923641,
+      "rank": 3,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1213156,
       "num": 1213156,
       "word": "匪我思存吐槽庆余年2广告多",
@@ -121,14 +129,6 @@
       "onboard_time": 1715911939,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 984080,
-      "num": 984080,
-      "word": "公积金",
-      "onboard_time": 1715923641,
-      "rank": 3,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 980662,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 693472,
-      "num": 295188,
+      "num": 301067,
       "word": "身体两处发痒或是肝癌征兆",
       "onboard_time": 1715920762,
       "rank": 22,
@@ -265,6 +265,14 @@
       "onboard_time": 1715915298,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 579667,
+      "num": 579667,
+      "word": "房地产",
+      "onboard_time": 1715924360,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577792,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469053,
+      "num": 469053,
+      "word": "连云港",
+      "onboard_time": 1715923041,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459203,
       "num": 356921,
       "word": "Kpop选秀史上第一位脱北练习生",
@@ -393,6 +409,14 @@
       "onboard_time": 1715905639,
       "rank": 17,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 442956,
+      "num": 442956,
+      "word": "戚薇二公排名第一",
+      "onboard_time": 1715924060,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 442737,
@@ -435,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418324,
-      "num": 418324,
-      "word": "连云港",
-      "onboard_time": 1715923041,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414224,
       "num": 177402,
       "word": "庆余年收视率",
@@ -465,6 +481,14 @@
       "onboard_time": 1715909840,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 398589,
+      "num": 398589,
+      "word": "周也 谢可寅",
+      "onboard_time": 1715926158,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 396583,
@@ -513,6 +537,14 @@
       "onboard_time": 1715902576,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357114,
+      "num": 124426,
+      "word": "蜜雪冰城免单",
+      "onboard_time": 1715925079,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 356861,
@@ -571,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322320,
+      "num": 322320,
+      "word": "海鲜市场鬼秤事件附近商户发声",
+      "onboard_time": 1715926100,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321549,
       "num": 321549,
       "word": "霸王茶姬免单",
@@ -611,14 +651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 307067,
-      "num": 286062,
-      "word": "戚薇二公排名第一",
-      "onboard_time": 1715924060,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301735,
       "num": 287255,
       "word": "这下子关晓彤无法直视狍子了",
@@ -641,6 +673,14 @@
       "onboard_time": 1715923041,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292080,
+      "num": 292080,
+      "word": "那英今晚唱挣脱",
+      "onboard_time": 1715924840,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 287873,
@@ -721,6 +761,14 @@
       "onboard_time": 1715917999,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258230,
+      "num": 258230,
+      "word": "李沁庆余年2戏份",
+      "onboard_time": 1715925199,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 247101,
@@ -827,6 +875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205863,
+      "num": 205863,
+      "word": "范闲范思辙 肉不会消失只会转移",
+      "onboard_time": 1715925620,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202304,
       "num": 202304,
       "word": "想牵手上厕所的有福了",
@@ -857,6 +913,14 @@
       "onboard_time": 1715874979,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198389,
+      "num": 198389,
+      "word": "三件小事最耗气血",
+      "onboard_time": 1715921661,
+      "rank": 45,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 197294,
@@ -1075,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164323,
-      "num": 186631,
-      "word": "三件小事最耗气血",
-      "onboard_time": 1715921661,
-      "rank": 45,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 163985,
       "num": 163985,
       "word": "钟楚曦戛纳的妆是自己化的",
@@ -1140,7 +1196,7 @@
     },
     {
       "raw_hot": 147994,
-      "num": 301373,
+      "num": 324951,
       "word": "向不吃榴莲的人致敬",
       "onboard_time": 1715922561,
       "rank": 42,
@@ -1169,6 +1225,14 @@
       "onboard_time": 1715923399,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139339,
+      "num": 139339,
+      "word": "爱一个事事有回应的人什么体验",
+      "onboard_time": 1715926639,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 135388,
@@ -1243,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113492,
+      "num": 113492,
+      "word": "纸嫁衣7真的来了",
+      "onboard_time": 1715924300,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112976,
       "num": 112976,
       "word": "Bin哥辛苦了",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1715900534,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104341,
+      "num": 104341,
+      "word": "监控下喊孙女名字后老人自杀离世",
+      "onboard_time": 1715927060,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 101121,
@@ -1457,6 +1537,14 @@
       "onboard_time": 1715856738,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39693,
+      "num": 148918,
+      "word": "安慕酸酪也在等范闲重生",
+      "onboard_time": 1715926578,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 39346,
