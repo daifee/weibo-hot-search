@@ -1,0 +1,410 @@
+{
+  "runTime": 1715913638185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1841175,
+        "num": 1841175,
+        "word": "下个月你工资或将多一笔钱",
+        "onboard_time": 1715905818,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 955156,
+        "num": 955156,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1715911457,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35271,
+        "num": 853346,
+        "word": "中国有约",
+        "onboard_time": 1715867300,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 849001,
+        "num": 849001,
+        "word": "叶轻眉给庆帝带的运动鞋",
+        "onboard_time": 1715911939,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 688700,
+        "num": 688700,
+        "word": "市监局回应连云港海鲜市场事件",
+        "onboard_time": 1715908219,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393395,
+        "num": 393395,
+        "word": "鬼秤",
+        "onboard_time": 1715908998,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689080,
+        "num": 386328,
+        "word": "五竹叔",
+        "onboard_time": 1715911216,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 559597,
+        "num": 382974,
+        "word": "狂飙兄弟",
+        "onboard_time": 1715905279,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164847,
+        "num": 371728,
+        "word": "菲组织单方面宣布成功是坑蒙拐骗",
+        "onboard_time": 1715903297,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75025,
+        "num": 366660,
+        "word": "老师跳河救人后满身泥泞回校上班",
+        "onboard_time": 1715910078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884862,
+        "num": 356141,
+        "word": "台湾首现2例日本脑炎病例1人死亡",
+        "onboard_time": 1715907198,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581696,
+        "num": 349392,
+        "word": "王楚然演技 尴尬",
+        "onboard_time": 1715869220,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539335,
+        "num": 341949,
+        "word": "赵樱子提醒关晓彤看镜头",
+        "onboard_time": 1715911276,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 517916,
+        "num": 334571,
+        "word": "韩红 中国第一女rapper",
+        "onboard_time": 1715909357,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534249,
+        "num": 324093,
+        "word": "匪我思存吐槽庆余年2广告多",
+        "onboard_time": 1715902576,
+        "rank": 14,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 445039,
+        "num": 318678,
+        "word": "Kpop选秀史上第一位脱北练习生",
+        "onboard_time": 1715908939,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311435,
+        "num": 311435,
+        "word": "隐翅虫",
+        "onboard_time": 1715909178,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 280579,
+        "num": 280579,
+        "word": "煎蛋",
+        "onboard_time": 1715905639,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 262419,
+        "num": 262419,
+        "word": "爱奇艺每季度不再公布会员数",
+        "onboard_time": 1715904378,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 248655,
+        "num": 248655,
+        "word": "连云港海鲜市场",
+        "onboard_time": 1715901555,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382872,
+        "num": 247843,
+        "word": "娄烨",
+        "onboard_time": 1715907798,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374916,
+        "num": 242640,
+        "word": "周杰伦 哥平常是不随便流泪的",
+        "onboard_time": 1715902997,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 366169,
+        "num": 239706,
+        "word": "沙溢问时代少年团什么时候解散",
+        "onboard_time": 1715907558,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53429,
+        "num": 236562,
+        "word": "徐霞客的阿勒泰是长江源",
+        "onboard_time": 1715911276,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353969,
+        "num": 234039,
+        "word": "庆余年2 黑色幽默",
+        "onboard_time": 1715909840,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259959,
+        "num": 229557,
+        "word": "爱奇艺股价暴涨12%",
+        "onboard_time": 1715911039,
+        "rank": 25,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 226956,
+        "num": 226956,
+        "word": "胡海泉出任高校院长",
+        "onboard_time": 1715905218,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329968,
+        "num": 226647,
+        "word": "庆余年 剧王",
+        "onboard_time": 1715861296,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207490,
+        "num": 207490,
+        "word": "人在什么时候最舒服",
+        "onboard_time": 1715911216,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142064,
+        "num": 206715,
+        "word": "身上发现隐翅虫千万不要拍打",
+        "onboard_time": 1715906478,
+        "rank": 29,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 326405,
+        "num": 203895,
+        "word": "爹爹撞撞奔向你",
+        "onboard_time": 1715910317,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225605,
+        "num": 201379,
+        "word": "中版恋爱兄妹",
+        "onboard_time": 1715912419,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220278,
+        "num": 197596,
+        "word": "钟楚曦发了G社图",
+        "onboard_time": 1715912179,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196256,
+        "num": 196256,
+        "word": "毛晓彤真美",
+        "onboard_time": 1715902576,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168585,
+        "num": 194091,
+        "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
+        "onboard_time": 1715870541,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192262,
+        "num": 192262,
+        "word": "周杰伦哭了",
+        "onboard_time": 1715870779,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175853,
+        "num": 175853,
+        "word": "张真源最想鹿晗回归跑男",
+        "onboard_time": 1715907258,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165119,
+        "num": 165119,
+        "word": "强大的肠胃简直是一种资产",
+        "onboard_time": 1715908340,
+        "rank": 37,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 138609,
+        "num": 138609,
+        "word": "江西高考不再区分一本和二本",
+        "onboard_time": 1715904078,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135388,
+        "num": 135388,
+        "word": "韩国女排29连败",
+        "onboard_time": 1715913257,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168622,
+        "num": 134064,
+        "word": "陛下在穿运动鞋",
+        "onboard_time": 1715913377,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150163,
+        "num": 129252,
+        "word": "周杰伦上一次哭还是在AE86",
+        "onboard_time": 1715913499,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145258,
+        "num": 123608,
+        "word": "陈奕迅杭州抢票",
+        "onboard_time": 1715912898,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148510,
+        "num": 119744,
+        "word": "二皇子又不穿袜子",
+        "onboard_time": 1715907619,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114778,
+        "num": 114778,
+        "word": "朵莉亚皮肤",
+        "onboard_time": 1715903236,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113674,
+        "num": 113674,
+        "word": "妇科检查之痛要怪鸭嘴钳吗",
+        "onboard_time": 1715885831,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134794,
+        "num": 113570,
+        "word": "范思辙胖了",
+        "onboard_time": 1715869940,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112531,
+        "num": 112531,
+        "word": "NBA",
+        "onboard_time": 1715913377,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103055,
+        "num": 111781,
+        "word": "菲律宾船只受中方震慑已驶离",
+        "onboard_time": 1715872400,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100511,
+        "num": 111320,
+        "word": "高速上逼停小车的2民警被停职",
+        "onboard_time": 1715865440,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥中俄各自优势实现彼此成就#"
+    }
+  }
+}

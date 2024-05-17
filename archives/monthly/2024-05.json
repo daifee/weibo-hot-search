@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715913005040,
+  "endTime": 1715913638185,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3675,6 +3675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 955156,
+      "num": 955156,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1715740998,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 952870,
       "num": 952870,
       "word": "家有儿女小演员今昔对比",
@@ -4251,14 +4259,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 876736,
-      "num": 876736,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1715740998,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 875608,
       "num": 875608,
       "word": "戛纳 网红",
@@ -4593,6 +4593,14 @@
       "onboard_time": 1715595077,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849001,
+      "num": 849001,
+      "word": "叶轻眉给庆帝带的运动鞋",
+      "onboard_time": 1715911939,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 848894,
@@ -6305,6 +6313,14 @@
       "onboard_time": 1714932133,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 689080,
+      "num": 386328,
+      "word": "五竹叔",
+      "onboard_time": 1715911216,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 688987,
@@ -8219,14 +8235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 578169,
-      "num": 361370,
-      "word": "叶轻眉给庆帝带的运动鞋",
-      "onboard_time": 1715911939,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 577792,
       "num": 405959,
       "word": "庆余年2的观后感",
@@ -8465,14 +8473,6 @@
       "onboard_time": 1714889477,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 565730,
-      "num": 354914,
-      "word": "五竹叔",
-      "onboard_time": 1715911216,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 564028,
@@ -9057,6 +9057,14 @@
       "onboard_time": 1715311938,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539335,
+      "num": 341949,
+      "word": "赵樱子提醒关晓彤看镜头",
+      "onboard_time": 1715911276,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 539248,
@@ -12627,14 +12635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410505,
-      "num": 280048,
-      "word": "赵樱子提醒关晓彤看镜头",
-      "onboard_time": 1715911276,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 410010,
       "num": 200935,
       "word": "看脸就知道五脏好坏",
@@ -13256,6 +13256,14 @@
       "word": "梅州全力做好梅大高速塌方相关调查",
       "onboard_time": 1714819818,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393395,
+      "num": 393395,
+      "word": "鬼秤",
+      "onboard_time": 1715908998,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -14635,14 +14643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356280,
-      "num": 356280,
-      "word": "鬼秤",
-      "onboard_time": 1715908998,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355888,
       "num": 355888,
       "word": "刘诗诗面纱海报",
@@ -15873,6 +15873,14 @@
       "onboard_time": 1715777237,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 326405,
+      "num": 203895,
+      "word": "爹爹撞撞奔向你",
+      "onboard_time": 1715910317,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 326085,
@@ -17328,14 +17336,6 @@
       "word": "我的阿勒泰 令人难忘的细节",
       "onboard_time": 1715266940,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 291558,
-      "num": 185102,
-      "word": "爹爹撞撞奔向你",
-      "onboard_time": 1715910317,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -22011,6 +22011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225605,
+      "num": 201379,
+      "word": "中版恋爱兄妹",
+      "onboard_time": 1715912419,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225541,
       "num": 225541,
       "word": "秦岚说娜扎太容易被骗了",
@@ -22441,6 +22449,14 @@
       "onboard_time": 1715694799,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220278,
+      "num": 197596,
+      "word": "钟楚曦发了G社图",
+      "onboard_time": 1715912179,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 220271,
@@ -23985,6 +24001,14 @@
       "onboard_time": 1715743338,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207490,
+      "num": 207490,
+      "word": "人在什么时候最舒服",
+      "onboard_time": 1715911216,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 207445,
@@ -26003,14 +26027,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197342,
-      "num": 183011,
-      "word": "钟楚曦发了G社图",
-      "onboard_time": 1715912179,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 197294,
       "num": 188331,
       "word": "从西安买7斤普罗旺斯西红柿回广州",
@@ -26353,14 +26369,6 @@
       "onboard_time": 1714993578,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195803,
-      "num": 182514,
-      "word": "中版恋爱兄妹",
-      "onboard_time": 1715912419,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 195784,
@@ -28353,14 +28361,6 @@
       "onboard_time": 1715563639,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186113,
-      "num": 186113,
-      "word": "人在什么时候最舒服",
-      "onboard_time": 1715911216,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 186015,
@@ -31225,6 +31225,14 @@
       "onboard_time": 1714553838,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168622,
+      "num": 134064,
+      "word": "陛下在穿运动鞋",
+      "onboard_time": 1715913377,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 168595,
@@ -34419,6 +34427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150163,
+      "num": 129252,
+      "word": "周杰伦上一次哭还是在AE86",
+      "onboard_time": 1715913499,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150125,
       "num": 150125,
       "word": "计算机二级成绩",
@@ -35281,6 +35297,14 @@
       "onboard_time": 1714747762,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145258,
+      "num": 136413,
+      "word": "陈奕迅杭州抢票",
+      "onboard_time": 1715912898,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 145227,
@@ -36795,14 +36819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136413,
-      "num": 136413,
-      "word": "陈奕迅杭州抢票",
-      "onboard_time": 1715912898,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 136400,
       "num": 136400,
       "word": "IVE新歌MV正确打开方式",
@@ -37000,6 +37016,14 @@
       "word": "爱德华兹太像乔丹了",
       "onboard_time": 1714873939,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135388,
+      "num": 135388,
+      "word": "韩国女排29连败",
+      "onboard_time": 1715913257,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -40379,6 +40403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114778,
+      "num": 128416,
+      "word": "朵莉亚皮肤",
+      "onboard_time": 1715903236,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114732,
       "num": 114732,
       "word": "云南怎么什么节日都有",
@@ -42707,14 +42739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89539,
-      "num": 128416,
-      "word": "朵莉亚皮肤",
-      "onboard_time": 1715903236,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 89422,
       "num": 89422,
       "word": "奥运会在即塞纳河还是臭的",
@@ -43411,6 +43435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75025,
+      "num": 376584,
+      "word": "老师跳河救人后满身泥泞回校上班",
+      "onboard_time": 1715910078,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74938,
       "num": 74938,
       "word": "迪丽热巴美得摄人心魄",
@@ -43505,14 +43537,6 @@
       "onboard_time": 1714938191,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 72654,
-      "num": 376584,
-      "word": "老师跳河救人后满身泥泞回校上班",
-      "onboard_time": 1715910078,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71771,

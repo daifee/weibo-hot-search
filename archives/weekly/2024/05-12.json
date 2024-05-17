@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715913005040,
+  "endTime": 1715913638185,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1323,6 +1323,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 955156,
+      "num": 955156,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1715740998,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 952423,
       "num": 428040,
       "word": "李沁看得出是公主",
@@ -1507,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 876736,
-      "num": 876736,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1715740998,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 875608,
       "num": 875608,
       "word": "戛纳 网红",
@@ -1625,6 +1625,14 @@
       "onboard_time": 1715595077,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849001,
+      "num": 849001,
+      "word": "叶轻眉给庆帝带的运动鞋",
+      "onboard_time": 1715911939,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 848894,
@@ -2209,6 +2217,14 @@
       "onboard_time": 1715757018,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689080,
+      "num": 386328,
+      "word": "五竹叔",
+      "onboard_time": 1715911216,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 688987,
@@ -2811,14 +2827,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 578169,
-      "num": 361370,
-      "word": "叶轻眉给庆帝带的运动鞋",
-      "onboard_time": 1715911939,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 577792,
       "num": 405959,
       "word": "庆余年2的观后感",
@@ -2913,14 +2921,6 @@
       "onboard_time": 1715755518,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 565730,
-      "num": 354914,
-      "word": "五竹叔",
-      "onboard_time": 1715911216,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 564028,
@@ -3105,6 +3105,14 @@
       "onboard_time": 1715731157,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 539335,
+      "num": 341949,
+      "word": "赵樱子提醒关晓彤看镜头",
+      "onboard_time": 1715911276,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 538817,
@@ -4371,14 +4379,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 410505,
-      "num": 280048,
-      "word": "赵樱子提醒关晓彤看镜头",
-      "onboard_time": 1715911276,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 410010,
       "num": 200935,
       "word": "看脸就知道五脏好坏",
@@ -4672,6 +4672,14 @@
       "word": "园方回应60余名幼儿在校群体性流血",
       "onboard_time": 1715780118,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393395,
+      "num": 393395,
+      "word": "鬼秤",
+      "onboard_time": 1715908998,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -5089,14 +5097,6 @@
       "onboard_time": 1715443881,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 356280,
-      "num": 356280,
-      "word": "鬼秤",
-      "onboard_time": 1715908998,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355888,
@@ -5571,6 +5571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 326405,
+      "num": 203895,
+      "word": "爹爹撞撞奔向你",
+      "onboard_time": 1715910317,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324378,
       "num": 324378,
       "word": "苹果要重做Siri了",
@@ -6025,14 +6033,6 @@
       "onboard_time": 1715601320,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 291558,
-      "num": 185102,
-      "word": "爹爹撞撞奔向你",
-      "onboard_time": 1715910317,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 291478,
@@ -7619,6 +7619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225605,
+      "num": 201379,
+      "word": "中版恋爱兄妹",
+      "onboard_time": 1715912419,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225080,
       "num": 399732,
       "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
@@ -7785,6 +7793,14 @@
       "onboard_time": 1715694799,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220278,
+      "num": 197596,
+      "word": "钟楚曦发了G社图",
+      "onboard_time": 1715912179,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 220169,
@@ -8273,6 +8289,14 @@
       "onboard_time": 1715743338,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207490,
+      "num": 207490,
+      "word": "人在什么时候最舒服",
+      "onboard_time": 1715911216,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 207445,
@@ -8963,14 +8987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197342,
-      "num": 183011,
-      "word": "钟楚曦发了G社图",
-      "onboard_time": 1715912179,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 197294,
       "num": 188331,
       "word": "从西安买7斤普罗旺斯西红柿回广州",
@@ -9057,14 +9073,6 @@
       "onboard_time": 1715860696,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195803,
-      "num": 182514,
-      "word": "中版恋爱兄妹",
-      "onboard_time": 1715912419,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 195671,
@@ -9713,14 +9721,6 @@
       "onboard_time": 1715563639,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186113,
-      "num": 186113,
-      "word": "人在什么时候最舒服",
-      "onboard_time": 1715911216,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 185711,
@@ -10601,6 +10601,14 @@
       "onboard_time": 1715675897,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168622,
+      "num": 134064,
+      "word": "陛下在穿运动鞋",
+      "onboard_time": 1715913377,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 168595,
@@ -11547,6 +11555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150163,
+      "num": 129252,
+      "word": "周杰伦上一次哭还是在AE86",
+      "onboard_time": 1715913499,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149860,
       "num": 149860,
       "word": "庆余年2庆庆佳人海报",
@@ -11729,6 +11745,14 @@
       "onboard_time": 1715850139,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145258,
+      "num": 136413,
+      "word": "陈奕迅杭州抢票",
+      "onboard_time": 1715912898,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 145108,
@@ -12211,14 +12235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136413,
-      "num": 136413,
-      "word": "陈奕迅杭州抢票",
-      "onboard_time": 1715912898,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 136288,
       "num": 136288,
       "word": "专家称过度防晒或导致缺钙闷痘",
@@ -12272,6 +12288,14 @@
       "word": "郑钦文晋级",
       "onboard_time": 1715442199,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135388,
+      "num": 135388,
+      "word": "韩国女排29连败",
+      "onboard_time": 1715913257,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -13227,6 +13251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114778,
+      "num": 128416,
+      "word": "朵莉亚皮肤",
+      "onboard_time": 1715903236,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114280,
       "num": 114280,
       "word": "那英说下周状态会更好",
@@ -13345,6 +13377,14 @@
       "onboard_time": 1715855236,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112531,
+      "num": 112531,
+      "word": "NBA",
+      "onboard_time": 1715461510,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 112520,
@@ -14019,14 +14059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89539,
-      "num": 128416,
-      "word": "朵莉亚皮肤",
-      "onboard_time": 1715903236,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 88845,
       "num": 114271,
       "word": "祖国大好河山每个角度都很美",
@@ -14283,6 +14315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75025,
+      "num": 376584,
+      "word": "老师跳河救人后满身泥泞回校上班",
+      "onboard_time": 1715910078,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74448,
       "num": 74448,
       "word": "杭盖大连演出主办方致歉",
@@ -14304,14 +14344,6 @@
       "word": "福宝一点窝头渣都没浪费",
       "onboard_time": 1715844619,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72654,
-      "num": 376584,
-      "word": "老师跳河救人后满身泥泞回校上班",
-      "onboard_time": 1715910078,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -14793,14 +14825,6 @@
       "onboard_time": 1715740637,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41129,
-      "num": 41129,
-      "word": "NBA",
-      "onboard_time": 1715461510,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 41059,
