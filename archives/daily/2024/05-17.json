@@ -1,6 +1,6 @@
 {
   "startTime": 1715876576069,
-  "endTime": 1715923146929,
+  "endTime": 1715924298246,
   "band_list": [
     {
       "raw_hot": 2269801,
@@ -25,6 +25,14 @@
       "onboard_time": 1715911457,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1792521,
+      "num": 1792521,
+      "word": "个人住房公积金贷款利率下调0.25%",
+      "onboard_time": 1715923521,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1742910,
@@ -75,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1352367,
+      "num": 1352367,
+      "word": "papi酱已退出因广告违法被罚公司",
+      "onboard_time": 1715921542,
+      "rank": 20,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 1213156,
       "num": 1213156,
       "word": "匪我思存吐槽庆余年2广告多",
@@ -107,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 984080,
+      "num": 984080,
+      "word": "公积金",
+      "onboard_time": 1715923641,
+      "rank": 3,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 980662,
       "num": 914570,
       "word": "台湾首现2例日本脑炎病例1人死亡",
@@ -121,14 +145,6 @@
       "onboard_time": 1715901555,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 777027,
-      "num": 216774,
-      "word": "papi酱已退出因广告违法被罚公司",
-      "onboard_time": 1715921542,
-      "rank": 20,
-      "category": "网红,互联网"
     },
     {
       "raw_hot": 754503,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 693472,
-      "num": 214696,
+      "num": 295188,
       "word": "身体两处发痒或是肝癌征兆",
       "onboard_time": 1715920762,
       "rank": 22,
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628079,
+      "num": 432100,
+      "word": "马思纯 瘦身后",
+      "onboard_time": 1715921960,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 627651,
       "num": 627651,
       "word": "张钰琪报名歌手",
@@ -233,14 +257,6 @@
       "onboard_time": 1715915418,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 602914,
-      "num": 432100,
-      "word": "马思纯 瘦身后",
-      "onboard_time": 1715921960,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 587134,
@@ -395,12 +411,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 420252,
-      "num": 420252,
+      "raw_hot": 429261,
+      "num": 429261,
       "word": "躺了五年还给范闲躺漏气了",
       "onboard_time": 1715919981,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427016,
+      "num": 427016,
+      "word": "惠英红 易烊千玺在后面赶紧去",
+      "onboard_time": 1715922500,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 418332,
@@ -408,6 +432,14 @@
       "word": "彩礼纠纷致父子持刀杀害前亲家",
       "onboard_time": 1715869341,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418324,
+      "num": 418324,
+      "word": "连云港",
+      "onboard_time": 1715923041,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -491,7 +523,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 345445,
+      "raw_hot": 346015,
       "num": 345445,
       "word": "那英马甲线",
       "onboard_time": 1715922079,
@@ -531,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324600,
+      "num": 288458,
+      "word": "HYBE曝NewJeans被闵熙珍PUA",
+      "onboard_time": 1715922860,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321549,
       "num": 321549,
       "word": "霸王茶姬免单",
@@ -545,14 +585,6 @@
       "onboard_time": 1715919321,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315148,
-      "num": 214388,
-      "word": "惠英红 易烊千玺在后面赶紧去",
-      "onboard_time": 1715922500,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 308932,
@@ -579,12 +611,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 304190,
-      "num": 212689,
-      "word": "HYBE曝NewJeans被闵熙珍PUA",
-      "onboard_time": 1715922860,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 307067,
+      "num": 286062,
+      "word": "戚薇二公排名第一",
+      "onboard_time": 1715924060,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 301735,
@@ -600,6 +632,14 @@
       "word": "杨幂包场庆余年",
       "onboard_time": 1715864479,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 297953,
+      "num": 282690,
+      "word": "林允的第一部大女主戏",
+      "onboard_time": 1715923041,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -708,7 +748,7 @@
     },
     {
       "raw_hot": 229527,
-      "num": 205215,
+      "num": 212207,
       "word": "歌手2024请揭榜",
       "onboard_time": 1715920520,
       "rank": 37,
@@ -740,7 +780,7 @@
     },
     {
       "raw_hot": 219764,
-      "num": 219764,
+      "num": 238452,
       "word": "江西11岁男孩留遗书跳楼案二审",
       "onboard_time": 1715916559,
       "rank": 36,
@@ -777,6 +817,14 @@
       "onboard_time": 1715881693,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206641,
+      "num": 206641,
+      "word": "周杰伦说华语说唱少说英文",
+      "onboard_time": 1715923942,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 202304,
@@ -889,14 +937,6 @@
       "onboard_time": 1715919260,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 186645,
-      "num": 186645,
-      "word": "林允的第一部大女主戏",
-      "onboard_time": 1715923041,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 186329,
@@ -1035,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164323,
+      "num": 186631,
+      "word": "三件小事最耗气血",
+      "onboard_time": 1715921661,
+      "rank": 45,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 163985,
       "num": 163985,
       "word": "钟楚曦戛纳的妆是自己化的",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1715876358,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158805,
-      "num": 158805,
-      "word": "三件小事最耗气血",
-      "onboard_time": 1715921661,
-      "rank": 45,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 157070,
@@ -1099,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147994,
+      "num": 301373,
+      "word": "向不吃榴莲的人致敬",
+      "onboard_time": 1715922561,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145258,
       "num": 136413,
       "word": "陈奕迅杭州抢票",
@@ -1115,20 +1163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143934,
-      "num": 143934,
-      "word": "连云港",
-      "onboard_time": 1715923041,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140065,
-      "num": 187116,
-      "word": "向不吃榴莲的人致敬",
-      "onboard_time": 1715922561,
-      "rank": 42,
-      "category": "美食"
+      "raw_hot": 139454,
+      "num": 139454,
+      "word": "柴犬最适合的cos出现了",
+      "onboard_time": 1715923399,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 135388,
@@ -1305,6 +1345,14 @@
       "onboard_time": 1715897652,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 79293,
+      "num": 431275,
+      "word": "被小小猫头鹰认真吃饭喝水萌到",
+      "onboard_time": 1715923461,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 75443,

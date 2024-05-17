@@ -1,0 +1,410 @@
+{
+  "runTime": 1715924298246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1792521,
+        "num": 1792521,
+        "word": "个人住房公积金贷款利率下调0.25%",
+        "onboard_time": 1715923521,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1352367,
+        "num": 1352367,
+        "word": "papi酱已退出因广告违法被罚公司",
+        "onboard_time": 1715921542,
+        "rank": 1,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 127773,
+        "num": 1097806,
+        "word": "博物馆里一眼惊艳的文物",
+        "onboard_time": 1715915298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984080,
+        "num": 984080,
+        "word": "公积金",
+        "onboard_time": 1715923641,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 927022,
+        "num": 927022,
+        "word": "田曦薇 维密",
+        "onboard_time": 1715915298,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 747740,
+        "num": 747740,
+        "word": "车主撞死小狗后推倒狗主致其死亡",
+        "onboard_time": 1715916678,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481509,
+        "num": 481509,
+        "word": "下个月你工资或将多一笔钱",
+        "onboard_time": 1715905818,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 472359,
+        "num": 472359,
+        "word": "张钰琪报名歌手",
+        "onboard_time": 1715918539,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463843,
+        "num": 463843,
+        "word": "叶轻眉给庆帝带的运动鞋",
+        "onboard_time": 1715911939,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79293,
+        "num": 431275,
+        "word": "被小小猫头鹰认真吃饭喝水萌到",
+        "onboard_time": 1715923461,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1182837,
+        "num": 430939,
+        "word": "英国将允许艾滋病感染者捐精捐卵",
+        "onboard_time": 1715916258,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628079,
+        "num": 430522,
+        "word": "马思纯 瘦身后",
+        "onboard_time": 1715921960,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429649,
+        "num": 429649,
+        "word": "连云港鬼秤商贩已被清出市场",
+        "onboard_time": 1715914818,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429261,
+        "num": 429261,
+        "word": "躺了五年还给范闲躺漏气了",
+        "onboard_time": 1715919981,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427016,
+        "num": 427016,
+        "word": "惠英红 易烊千玺在后面赶紧去",
+        "onboard_time": 1715922500,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418324,
+        "num": 418324,
+        "word": "连云港",
+        "onboard_time": 1715923041,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402966,
+        "num": 402966,
+        "word": "腾讯四部热度破30000剧集",
+        "onboard_time": 1715915418,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394592,
+        "num": 394592,
+        "word": "kep1er续约确认失败",
+        "onboard_time": 1715919260,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147994,
+        "num": 301373,
+        "word": "向不吃榴莲的人致敬",
+        "onboard_time": 1715922561,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 297522,
+        "num": 297522,
+        "word": "市监局回应连云港海鲜市场事件",
+        "onboard_time": 1715908219,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623858,
+        "num": 295188,
+        "word": "身体两处发痒或是肝癌征兆",
+        "onboard_time": 1715920762,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 346015,
+        "num": 292083,
+        "word": "那英马甲线",
+        "onboard_time": 1715922079,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324600,
+        "num": 288458,
+        "word": "HYBE曝NewJeans被闵熙珍PUA",
+        "onboard_time": 1715922860,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307067,
+        "num": 286062,
+        "word": "戚薇二公排名第一",
+        "onboard_time": 1715924060,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297953,
+        "num": 282690,
+        "word": "林允的第一部大女主戏",
+        "onboard_time": 1715923041,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279218,
+        "num": 279218,
+        "word": "爹爹撞撞奔向你",
+        "onboard_time": 1715910317,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261541,
+        "num": 261541,
+        "word": "垫底辣孩戛纳红毯",
+        "onboard_time": 1715915298,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259582,
+        "num": 259582,
+        "word": "买一台冰箱意外获得双开门",
+        "onboard_time": 1715918179,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249844,
+        "num": 249844,
+        "word": "腾讯视频客服回应庆余年2剧集被倒卖",
+        "onboard_time": 1715918539,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134003,
+        "num": 238452,
+        "word": "江西11岁男孩留遗书跳楼案二审",
+        "onboard_time": 1715916559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234320,
+        "num": 234320,
+        "word": "周杰伦 哥平常是不随便流泪的",
+        "onboard_time": 1715902997,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223629,
+        "num": 223629,
+        "word": "这下子关晓彤无法直视狍子了",
+        "onboard_time": 1715919139,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215598,
+        "num": 215598,
+        "word": "台湾首现2例日本脑炎病例1人死亡",
+        "onboard_time": 1715907198,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212457,
+        "num": 212457,
+        "word": "江西多地四五十万元年薪招聘任制公务员",
+        "onboard_time": 1715919321,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212207,
+        "num": 212207,
+        "word": "歌手2024请揭榜",
+        "onboard_time": 1715920520,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206641,
+        "num": 206641,
+        "word": "周杰伦说华语说唱少说英文",
+        "onboard_time": 1715923942,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192535,
+        "num": 192535,
+        "word": "8个姐姐排队给弟弟弟媳挂钱1人1万",
+        "onboard_time": 1715917999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189152,
+        "num": 189152,
+        "word": "刘宪华时隔11年再跳trap",
+        "onboard_time": 1715920041,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187185,
+        "num": 187185,
+        "word": "人在什么时候最舒服",
+        "onboard_time": 1715911216,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164323,
+        "num": 186631,
+        "word": "三件小事最耗气血",
+        "onboard_time": 1715921661,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 186498,
+        "num": 186498,
+        "word": "张若昀接到庆余年剧本时是第八稿",
+        "onboard_time": 1715921903,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182344,
+        "num": 182344,
+        "word": "陆仙人 戛纳",
+        "onboard_time": 1715914398,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163687,
+        "num": 163687,
+        "word": "连云港海鲜市场",
+        "onboard_time": 1715901555,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174726,
+        "num": 160745,
+        "word": "王楚然演技 尴尬",
+        "onboard_time": 1715869220,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157637,
+        "num": 157637,
+        "word": "儿童电话手表专治父母脾气",
+        "onboard_time": 1715919741,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147946,
+        "num": 147946,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1715911457,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174604,
+        "num": 147608,
+        "word": "庆余年 剧王",
+        "onboard_time": 1715861296,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139454,
+        "num": 139454,
+        "word": "柴犬最适合的cos出现了",
+        "onboard_time": 1715923399,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130047,
+        "num": 130047,
+        "word": "想牵手上厕所的有福了",
+        "onboard_time": 1715921781,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163397,
+        "num": 129033,
+        "word": "匪我思存吐槽庆余年2广告多",
+        "onboard_time": 1715902576,
+        "rank": 49,
+        "category": "剧集,读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#为中俄友好的世代传承注入新动力#"
+    }
+  }
+}
