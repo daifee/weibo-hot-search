@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1715955486055,
+  "endTime": 1715956483558,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -48,6 +48,14 @@
       "word": "尼格买提穿帮",
       "onboard_time": 1707485192,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15100313,
+      "num": 15100313,
+      "word": "歌手直播",
+      "onboard_time": 1715341399,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -104,14 +112,6 @@
       "word": "春晚节目单",
       "onboard_time": 1706853631,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 12502247,
-      "num": 12502247,
-      "word": "歌手直播",
-      "onboard_time": 1715341399,
-      "rank": 0,
       "category": "综艺"
     },
     {
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 8278730,
+      "num": 554755,
+      "word": "汪苏泷 表现",
+      "onboard_time": 1715956409,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8220945,
       "num": 8805323,
       "word": "邯郸初中生被杀害案嫌疑人全部抓获",
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 8185110,
-      "num": 416027,
+      "num": 548460,
       "word": "那英吗 田震吧",
       "onboard_time": 1715954426,
       "rank": 3,
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 5875585,
-      "num": 280410,
+      "num": 540932,
       "word": "英子忘词了",
       "onboard_time": 1715954186,
       "rank": 6,
@@ -867,8 +875,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5369607,
-      "num": 268364,
+      "raw_hot": 5388280,
+      "num": 547462,
       "word": "杨丞琳 开口跑调",
       "onboard_time": 1715953343,
       "rank": 10,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1708345178,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 4339017,
+      "num": 541607,
+      "word": "歌手排名",
+      "onboard_time": 1715411479,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 4312482,
@@ -1892,7 +1908,7 @@
     },
     {
       "raw_hot": 3206662,
-      "num": 505985,
+      "num": 538098,
       "word": "杭盖 牛",
       "onboard_time": 1715949321,
       "rank": 3,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1711944082,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2935651,
-      "num": 2935651,
-      "word": "肯德基爆单",
-      "onboard_time": 1709203834,
-      "rank": 0,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 2935144,
-      "num": 2935144,
-      "word": "陈梦vs张本美和",
-      "onboard_time": 1708783476,
-      "rank": 4,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
