@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715913638185,
+  "endTime": 1715916015556,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -265,6 +265,14 @@
       "onboard_time": 1715869220,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1901893,
+      "num": 1901893,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1715740998,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 1878034,
@@ -568,6 +576,14 @@
       "word": "南京林业大学宋凯",
       "onboard_time": 1715576601,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1409475,
+      "num": 1409475,
+      "word": "连云港鬼秤商贩已被清出市场",
+      "onboard_time": 1715914818,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1139,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1036406,
+      "num": 1036406,
+      "word": "叶轻眉给庆帝带的运动鞋",
+      "onboard_time": 1715911939,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1033035,
       "num": 1033035,
       "word": "詹雯婷发长文",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1715609721,
       "rank": 48,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 955156,
-      "num": 955156,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1715740998,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 952423,
@@ -1625,14 +1641,6 @@
       "onboard_time": 1715595077,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 849001,
-      "num": 849001,
-      "word": "叶轻眉给庆帝带的运动鞋",
-      "onboard_time": 1715911939,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 848894,
@@ -2067,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734229,
+      "num": 734229,
+      "word": "田曦薇 维密",
+      "onboard_time": 1715915298,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 733560,
       "num": 258102,
       "word": "范闲一死叔圈大乱",
@@ -2105,6 +2121,14 @@
       "onboard_time": 1715514442,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723379,
+      "num": 723379,
+      "word": "赵樱子提醒关晓彤看镜头",
+      "onboard_time": 1715911276,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 720692,
@@ -2220,7 +2244,7 @@
     },
     {
       "raw_hot": 689080,
-      "num": 386328,
+      "num": 545811,
       "word": "五竹叔",
       "onboard_time": 1715911216,
       "rank": 16,
@@ -2321,6 +2345,14 @@
       "onboard_time": 1715824218,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670508,
+      "num": 670508,
+      "word": "爹爹撞撞奔向你",
+      "onboard_time": 1715910317,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 670470,
@@ -2689,6 +2721,14 @@
       "onboard_time": 1715823019,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 606654,
+      "num": 606654,
+      "word": "陆仙人 戛纳",
+      "onboard_time": 1715914398,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 603950,
@@ -3107,14 +3147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 539335,
-      "num": 341949,
-      "word": "赵樱子提醒关晓彤看镜头",
-      "onboard_time": 1715911276,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 538817,
       "num": 538817,
       "word": "mlxg与otto老头杯红温",
@@ -3281,6 +3313,14 @@
       "onboard_time": 1715855476,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514455,
+      "num": 514455,
+      "word": "人在什么时候最舒服",
+      "onboard_time": 1715911216,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 514090,
@@ -4963,6 +5003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371224,
+      "num": 248650,
+      "word": "垫底辣孩戛纳红毯",
+      "onboard_time": 1715915298,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 371172,
       "num": 371172,
       "word": "中国南水北调原副总经济师樊新中被查",
@@ -5571,14 +5619,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 326405,
-      "num": 203895,
-      "word": "爹爹撞撞奔向你",
-      "onboard_time": 1715910317,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 324378,
       "num": 324378,
       "word": "苹果要重做Siri了",
@@ -6131,6 +6171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 284449,
+      "num": 284449,
+      "word": "掘金 森林狼",
+      "onboard_time": 1715914156,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284411,
       "num": 284411,
       "word": "汶川地震钢腿女孩悼念朋友",
@@ -6561,6 +6609,14 @@
       "onboard_time": 1715763438,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 267439,
+      "num": 214251,
+      "word": "腾讯四部热度破30000剧集",
+      "onboard_time": 1715915418,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 267115,
@@ -7121,6 +7177,14 @@
       "onboard_time": 1715491519,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246621,
+      "num": 246621,
+      "word": "国安部发文披露航天领域间谍案",
+      "onboard_time": 1715915119,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 246080,
@@ -7995,6 +8059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214526,
+      "num": 214526,
+      "word": "森林狼3比3掘金",
+      "onboard_time": 1715915418,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214487,
       "num": 214487,
       "word": "离婚搭子好小众的文字",
@@ -8289,14 +8361,6 @@
       "onboard_time": 1715743338,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207490,
-      "num": 207490,
-      "word": "人在什么时候最舒服",
-      "onboard_time": 1715911216,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 207445,
@@ -9411,6 +9475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191048,
+      "num": 191048,
+      "word": "周杰伦上一次哭还是在AE86",
+      "onboard_time": 1715913499,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190790,
       "num": 190790,
       "word": "看个比赛 扣两次钱",
@@ -9705,6 +9777,14 @@
       "onboard_time": 1715569458,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186329,
+      "num": 186329,
+      "word": "掘金vs森林狼",
+      "onboard_time": 1715563578,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 186208,
@@ -10057,6 +10137,14 @@
       "onboard_time": 1715840298,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178195,
+      "num": 178195,
+      "word": "爱德华兹太生猛了",
+      "onboard_time": 1715915238,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 177987,
@@ -10939,6 +11027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163324,
+      "num": 163324,
+      "word": "我的阿勒泰火了",
+      "onboard_time": 1715913738,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163273,
       "num": 163273,
       "word": "当i狗新交了e狗朋友",
@@ -11033,14 +11129,6 @@
       "onboard_time": 1715670618,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161974,
-      "num": 161974,
-      "word": "掘金vs森林狼",
-      "onboard_time": 1715563578,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 161873,
@@ -11553,14 +11641,6 @@
       "onboard_time": 1715685200,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150163,
-      "num": 129252,
-      "word": "周杰伦上一次哭还是在AE86",
-      "onboard_time": 1715913499,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 149860,
@@ -13059,6 +13139,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 119251,
+      "num": 119251,
+      "word": "这个周五等的我好苦",
+      "onboard_time": 1715915778,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118917,
       "num": 118917,
       "word": "平时熬的夜周末能补回来",
@@ -13481,6 +13569,14 @@
       "onboard_time": 1715779158,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 109781,
+      "num": 109781,
+      "word": "街道办回应连云港海鲜市场事件",
+      "onboard_time": 1715915958,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109657,
@@ -14316,7 +14412,7 @@
     },
     {
       "raw_hot": 75025,
-      "num": 376584,
+      "num": 550872,
       "word": "老师跳河救人后满身泥泞回校上班",
       "onboard_time": 1715910078,
       "rank": 9,
@@ -14361,6 +14457,14 @@
       "onboard_time": 1715445857,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 69979,
+      "num": 1430541,
+      "word": "博物馆里一眼惊艳的文物",
+      "onboard_time": 1715915298,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69087,
@@ -14851,6 +14955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 38163,
+      "num": 343371,
+      "word": "陆仙人戛纳红毯首秀",
+      "onboard_time": 1715914938,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37632,
       "num": 363996,
       "word": "小范大人新动作",
@@ -14905,6 +15017,14 @@
       "onboard_time": 1715623871,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 34568,
+      "num": 227104,
+      "word": "玉面狐狸特效绝杀",
+      "onboard_time": 1715915358,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 34259,

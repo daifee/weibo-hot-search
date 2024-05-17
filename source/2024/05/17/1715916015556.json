@@ -1,0 +1,410 @@
+{
+  "runTime": 1715916015556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1901893,
+        "num": 1901893,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1715911457,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1628560,
+        "num": 1628560,
+        "word": "下个月你工资或将多一笔钱",
+        "onboard_time": 1715905818,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 69979,
+        "num": 1430541,
+        "word": "博物馆里一眼惊艳的文物",
+        "onboard_time": 1715915298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409475,
+        "num": 1409475,
+        "word": "连云港鬼秤商贩已被清出市场",
+        "onboard_time": 1715914818,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036406,
+        "num": 1036406,
+        "word": "叶轻眉给庆帝带的运动鞋",
+        "onboard_time": 1715911939,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 734229,
+        "num": 734229,
+        "word": "田曦薇 维密",
+        "onboard_time": 1715915298,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 723379,
+        "num": 723379,
+        "word": "赵樱子提醒关晓彤看镜头",
+        "onboard_time": 1715911276,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 670508,
+        "num": 670508,
+        "word": "爹爹撞撞奔向你",
+        "onboard_time": 1715910317,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606654,
+        "num": 606654,
+        "word": "陆仙人 戛纳",
+        "onboard_time": 1715914398,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60541,
+        "num": 550872,
+        "word": "老师跳河救人后满身泥泞回校上班",
+        "onboard_time": 1715910078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792266,
+        "num": 550138,
+        "word": "台湾首现2例日本脑炎病例1人死亡",
+        "onboard_time": 1715907198,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545811,
+        "num": 545811,
+        "word": "五竹叔",
+        "onboard_time": 1715911216,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514455,
+        "num": 514455,
+        "word": "人在什么时候最舒服",
+        "onboard_time": 1715911216,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381926,
+        "num": 381926,
+        "word": "市监局回应连云港海鲜市场事件",
+        "onboard_time": 1715908219,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38163,
+        "num": 343371,
+        "word": "陆仙人戛纳红毯首秀",
+        "onboard_time": 1715914938,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 471715,
+        "num": 334202,
+        "word": "王楚然演技 尴尬",
+        "onboard_time": 1715869220,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321549,
+        "num": 321549,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1715829678,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 284449,
+        "num": 284449,
+        "word": "掘金 森林狼",
+        "onboard_time": 1715914156,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253203,
+        "num": 253203,
+        "word": "爱奇艺股价暴涨12%",
+        "onboard_time": 1715911039,
+        "rank": 18,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 249597,
+        "num": 249597,
+        "word": "隐翅虫",
+        "onboard_time": 1715909178,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 381690,
+        "num": 249520,
+        "word": "匪我思存吐槽庆余年2广告多",
+        "onboard_time": 1715902576,
+        "rank": 20,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 371224,
+        "num": 248650,
+        "word": "垫底辣孩戛纳红毯",
+        "onboard_time": 1715915298,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342745,
+        "num": 247458,
+        "word": "狂飙兄弟",
+        "onboard_time": 1715905279,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 330480,
+        "num": 246699,
+        "word": "Kpop选秀史上第一位脱北练习生",
+        "onboard_time": 1715908939,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246621,
+        "num": 246621,
+        "word": "国安部发文披露航天领域间谍案",
+        "onboard_time": 1715915119,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330273,
+        "num": 246089,
+        "word": "周杰伦 哥平常是不随便流泪的",
+        "onboard_time": 1715902997,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 311862,
+        "num": 237006,
+        "word": "韩红 中国第一女rapper",
+        "onboard_time": 1715909357,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34568,
+        "num": 227104,
+        "word": "玉面狐狸特效绝杀",
+        "onboard_time": 1715915358,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 295875,
+        "num": 221481,
+        "word": "庆余年 剧王",
+        "onboard_time": 1715861296,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214526,
+        "num": 214526,
+        "word": "森林狼3比3掘金",
+        "onboard_time": 1715915418,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267439,
+        "num": 214251,
+        "word": "腾讯四部热度破30000剧集",
+        "onboard_time": 1715915418,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270928,
+        "num": 214020,
+        "word": "庆余年2 黑色幽默",
+        "onboard_time": 1715909840,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211013,
+        "num": 211013,
+        "word": "沙溢问时代少年团什么时候解散",
+        "onboard_time": 1715907558,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203357,
+        "num": 203357,
+        "word": "爱奇艺每季度不再公布会员数",
+        "onboard_time": 1715904378,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195133,
+        "num": 195133,
+        "word": "鬼秤",
+        "onboard_time": 1715908998,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191048,
+        "num": 191048,
+        "word": "周杰伦上一次哭还是在AE86",
+        "onboard_time": 1715913499,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190754,
+        "num": 190754,
+        "word": "连云港海鲜市场",
+        "onboard_time": 1715901555,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186329,
+        "num": 186329,
+        "word": "掘金vs森林狼",
+        "onboard_time": 1715914938,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185437,
+        "num": 185437,
+        "word": "中版恋爱兄妹",
+        "onboard_time": 1715912419,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178195,
+        "num": 178195,
+        "word": "爱德华兹太生猛了",
+        "onboard_time": 1715915238,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173388,
+        "num": 173388,
+        "word": "娄烨",
+        "onboard_time": 1715907798,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171788,
+        "num": 171788,
+        "word": "煎蛋",
+        "onboard_time": 1715905639,
+        "rank": 41,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 164355,
+        "num": 164355,
+        "word": "喜欢睡前玩手机的人警惕5个毛病找上门",
+        "onboard_time": 1715870541,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163324,
+        "num": 163324,
+        "word": "我的阿勒泰火了",
+        "onboard_time": 1715913738,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161025,
+        "num": 161025,
+        "word": "钟楚曦发了G社图",
+        "onboard_time": 1715912179,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151508,
+        "num": 151508,
+        "word": "周杰伦哭了",
+        "onboard_time": 1715870779,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133047,
+        "num": 133047,
+        "word": "十个勤天",
+        "onboard_time": 1715915838,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131906,
+        "num": 131906,
+        "word": "菲组织单方面宣布成功是坑蒙拐骗",
+        "onboard_time": 1715903297,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119251,
+        "num": 119251,
+        "word": "这个周五等的我好苦",
+        "onboard_time": 1715915778,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109781,
+        "num": 109781,
+        "word": "街道办回应连云港海鲜市场事件",
+        "onboard_time": 1715915958,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为中俄友好的世代传承注入新动力#"
+    }
+  }
+}

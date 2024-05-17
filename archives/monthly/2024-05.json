@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1715913638185,
+  "endTime": 1715916015556,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -761,6 +761,14 @@
       "onboard_time": 1715869220,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1901893,
+      "num": 1901893,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1715740998,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 1899163,
@@ -1641,6 +1649,14 @@
       "onboard_time": 1714827799,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1409475,
+      "num": 1409475,
+      "word": "连云港鬼秤商贩已被清出市场",
+      "onboard_time": 1715914818,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1405824,
@@ -3283,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1036406,
+      "num": 1036406,
+      "word": "叶轻眉给庆帝带的运动鞋",
+      "onboard_time": 1715911939,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1036386,
       "num": 1036386,
       "word": "我也退出五一档了",
@@ -3673,14 +3697,6 @@
       "onboard_time": 1715136261,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 955156,
-      "num": 955156,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1715740998,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 952870,
@@ -4593,14 +4609,6 @@
       "onboard_time": 1715595077,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 849001,
-      "num": 849001,
-      "word": "叶轻眉给庆帝带的运动鞋",
-      "onboard_time": 1715911939,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 848894,
@@ -5819,6 +5827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734229,
+      "num": 734229,
+      "word": "田曦薇 维密",
+      "onboard_time": 1715915298,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 733783,
       "num": 466041,
       "word": "侯雯元想了一夜钟楚曦",
@@ -5945,6 +5961,14 @@
       "onboard_time": 1714612517,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723379,
+      "num": 723379,
+      "word": "赵樱子提醒关晓彤看镜头",
+      "onboard_time": 1715911276,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 720692,
@@ -6316,7 +6340,7 @@
     },
     {
       "raw_hot": 689080,
-      "num": 386328,
+      "num": 545811,
       "word": "五竹叔",
       "onboard_time": 1715911216,
       "rank": 16,
@@ -6664,6 +6688,14 @@
       "word": "清水镇的水是脏水的水",
       "onboard_time": 1714956741,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 670508,
+      "num": 670508,
+      "word": "爹爹撞撞奔向你",
+      "onboard_time": 1715910317,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -7841,6 +7873,14 @@
       "onboard_time": 1714821138,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 606654,
+      "num": 606654,
+      "word": "陆仙人 戛纳",
+      "onboard_time": 1715914398,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 605182,
@@ -9059,14 +9099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 539335,
-      "num": 341949,
-      "word": "赵樱子提醒关晓彤看镜头",
-      "onboard_time": 1715911276,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 539248,
       "num": 539248,
       "word": "一诺微博粉丝数400万了",
@@ -9529,6 +9561,14 @@
       "onboard_time": 1715855476,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514455,
+      "num": 514455,
+      "word": "人在什么时候最舒服",
+      "onboard_time": 1715911216,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 514090,
@@ -14091,6 +14131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 371224,
+      "num": 248650,
+      "word": "垫底辣孩戛纳红毯",
+      "onboard_time": 1715915298,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 371172,
       "num": 371172,
       "word": "中国南水北调原副总经济师樊新中被查",
@@ -15875,14 +15923,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 326405,
-      "num": 203895,
-      "word": "爹爹撞撞奔向你",
-      "onboard_time": 1715910317,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 326085,
       "num": 326085,
       "word": "梁靖崑林高远男双止步8强",
@@ -17651,6 +17691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284449,
+      "num": 284449,
+      "word": "掘金 森林狼",
+      "onboard_time": 1715914156,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284433,
       "num": 249076,
       "word": "女子被虫咬后从发病到死亡仅7天",
@@ -18833,6 +18881,14 @@
       "onboard_time": 1715407879,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267439,
+      "num": 214251,
+      "word": "腾讯四部热度破30000剧集",
+      "onboard_time": 1715915418,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 267115,
@@ -20249,6 +20305,14 @@
       "onboard_time": 1715306898,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246621,
+      "num": 246621,
+      "word": "国安部发文披露航天领域间谍案",
+      "onboard_time": 1715915119,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 246552,
@@ -23139,6 +23203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214526,
+      "num": 214526,
+      "word": "森林狼3比3掘金",
+      "onboard_time": 1715915418,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214487,
       "num": 214487,
       "word": "离婚搭子好小众的文字",
@@ -24001,14 +24073,6 @@
       "onboard_time": 1715743338,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207490,
-      "num": 207490,
-      "word": "人在什么时候最舒服",
-      "onboard_time": 1715911216,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 207445,
@@ -27355,6 +27419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191048,
+      "num": 191048,
+      "word": "周杰伦上一次哭还是在AE86",
+      "onboard_time": 1715913499,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191030,
       "num": 191030,
       "word": "刘畊宏美依礼芽跳本草纲目",
@@ -28337,6 +28409,14 @@
       "onboard_time": 1715303778,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186329,
+      "num": 186329,
+      "word": "掘金vs森林狼",
+      "onboard_time": 1715563578,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 186294,
@@ -29473,6 +29553,14 @@
       "onboard_time": 1715840298,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178195,
+      "num": 178195,
+      "word": "爱德华兹太生猛了",
+      "onboard_time": 1715915238,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 178170,
@@ -32187,6 +32275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163324,
+      "num": 163324,
+      "word": "我的阿勒泰火了",
+      "onboard_time": 1715913738,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163302,
       "num": 349738,
       "word": "孙颖莎陈梦会师WTT女单决赛",
@@ -32425,14 +32521,6 @@
       "onboard_time": 1715670618,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161974,
-      "num": 161974,
-      "word": "掘金vs森林狼",
-      "onboard_time": 1715563578,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 161963,
@@ -34425,14 +34513,6 @@
       "onboard_time": 1715131580,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150163,
-      "num": 129252,
-      "word": "周杰伦上一次哭还是在AE86",
-      "onboard_time": 1715913499,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 150125,
@@ -39723,6 +39803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119251,
+      "num": 119251,
+      "word": "这个周五等的我好苦",
+      "onboard_time": 1715915778,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119114,
       "num": 119114,
       "word": "原神海维",
@@ -41073,6 +41161,14 @@
       "onboard_time": 1715779158,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 109781,
+      "num": 109781,
+      "word": "街道办回应连云港海鲜市场事件",
+      "onboard_time": 1715915958,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109686,
@@ -43436,7 +43532,7 @@
     },
     {
       "raw_hot": 75025,
-      "num": 376584,
+      "num": 550872,
       "word": "老师跳河救人后满身泥泞回校上班",
       "onboard_time": 1715910078,
       "rank": 9,
@@ -43633,6 +43729,14 @@
       "onboard_time": 1715124798,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69979,
+      "num": 1430541,
+      "word": "博物馆里一眼惊艳的文物",
+      "onboard_time": 1715915298,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69955,
@@ -45027,6 +45131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38163,
+      "num": 343371,
+      "word": "陆仙人戛纳红毯首秀",
+      "onboard_time": 1715914938,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38128,
       "num": 45839,
       "word": "切尔西vs西汉姆联",
@@ -45153,6 +45265,14 @@
       "onboard_time": 1715623871,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 34568,
+      "num": 227104,
+      "word": "玉面狐狸特效绝杀",
+      "onboard_time": 1715915358,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 34426,
