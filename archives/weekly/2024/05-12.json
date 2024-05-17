@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715974472684,
+  "endTime": 1715977216427,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -17131,6 +17131,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 41643,
+      "num": 39095,
+      "word": "频繁塞牙是牙齿发出的警报",
+      "onboard_time": 1715973192,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41611,
       "num": 1133873,
       "word": "重申红线把基础教育越办越好",
@@ -17235,12 +17243,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 33403,
-      "num": 39095,
-      "word": "频繁塞牙是牙齿发出的警报",
-      "onboard_time": 1715973192,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 33190,
+      "num": 39586,
+      "word": "公积金真的有用吗",
+      "onboard_time": 1715971752,
+      "rank": 29,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 32765,
@@ -17321,14 +17329,6 @@
       "onboard_time": 1715894351,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29496,
-      "num": 39586,
-      "word": "公积金真的有用吗",
-      "onboard_time": 1715971752,
-      "rank": 29,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 28759,
@@ -17473,6 +17473,14 @@
       "onboard_time": 1715440343,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21975,
+      "num": 22528,
+      "word": "老外在中国玩嗨了",
+      "onboard_time": 1715975412,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21259,
