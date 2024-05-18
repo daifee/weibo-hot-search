@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1716039249911,
+  "endTime": 1716041807603,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1147,6 +1147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1214726,
+      "num": 1214726,
+      "word": "警方回应知名主持人被曝私生活混乱",
+      "onboard_time": 1716037820,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1213156,
       "num": 1213156,
       "word": "匪我思存吐槽庆余年2广告多",
@@ -1240,6 +1248,14 @@
       "word": "女子大量咳血体内有个20岁肿瘤",
       "onboard_time": 1715691557,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1167818,
+      "num": 1167818,
+      "word": "幼态审美盯上女生的牙齿",
+      "onboard_time": 1716034758,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1561,14 +1577,6 @@
       "onboard_time": 1715674759,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1029295,
-      "num": 329497,
-      "word": "幼态审美盯上女生的牙齿",
-      "onboard_time": 1716034758,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1029263,
@@ -1977,6 +1985,14 @@
       "onboard_time": 1715778077,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 901508,
+      "num": 901508,
+      "word": "歌手第三期网传歌单",
+      "onboard_time": 1716039800,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 900821,
@@ -3467,6 +3483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 620664,
+      "num": 620664,
+      "word": "韩国政府因newjeans制定编舞著作权方针",
+      "onboard_time": 1716039499,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619734,
       "num": 349887,
       "word": "本周狗屎运最旺的星座",
@@ -4179,14 +4203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 536431,
-      "num": 536431,
-      "word": "警方回应知名主持人被曝私生活混乱",
-      "onboard_time": 1716037820,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 536073,
       "num": 365775,
       "word": "吴磊凌晨被老鼠赶出房间",
@@ -4233,6 +4249,14 @@
       "onboard_time": 1716025037,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 528850,
+      "num": 528850,
+      "word": "95后亿万富豪被罚1.33亿元",
+      "onboard_time": 1716036198,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527837,
@@ -5747,6 +5771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411551,
+      "num": 411551,
+      "word": "早就说了我邀请的是断眉亚当",
+      "onboard_time": 1716039259,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411444,
       "num": 411444,
       "word": "幼儿园被指甲醛超标致60多人流血",
@@ -6587,6 +6619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361031,
+      "num": 361031,
+      "word": "范闲骂得声音好大好超前",
+      "onboard_time": 1716033257,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360913,
       "num": 360913,
       "word": "张怡宁预测巴黎女乒竞争",
@@ -6945,14 +6985,6 @@
       "onboard_time": 1715426179,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 341504,
-      "num": 315866,
-      "word": "范闲骂得声音好大好超前",
-      "onboard_time": 1716033257,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 341503,
@@ -7785,6 +7817,14 @@
       "onboard_time": 1715513182,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298615,
+      "num": 298615,
+      "word": "巅峰对决",
+      "onboard_time": 1716041420,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 298276,
@@ -8667,14 +8707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 264446,
-      "num": 264446,
-      "word": "95后亿万富豪被罚1.33亿元",
-      "onboard_time": 1716036198,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264399,
       "num": 243331,
       "word": "民警高速亮证查车疑穿4400元T恤",
@@ -8913,6 +8945,14 @@
       "onboard_time": 1715944757,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256283,
+      "num": 256283,
+      "word": "毛晓彤庆余年2奶凶奶凶的",
+      "onboard_time": 1716040760,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 256191,
@@ -9659,6 +9699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232866,
+      "num": 232866,
+      "word": "一诺单杀小胖",
+      "onboard_time": 1716040580,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 232533,
       "num": 143833,
       "word": "小鬼 本人成年了请叫我帅哥",
@@ -9811,6 +9859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 227668,
+      "num": 234547,
+      "word": "丈夫家暴妻子获刑10个月",
+      "onboard_time": 1716040399,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227572,
       "num": 227572,
       "word": "NEWJEANS海粼生咖小纸条",
@@ -9849,6 +9905,14 @@
       "onboard_time": 1715691798,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226693,
+      "num": 226693,
+      "word": "沈梦瑶舞台",
+      "onboard_time": 1716040339,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 226478,
@@ -10593,6 +10657,14 @@
       "onboard_time": 1715590280,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210399,
+      "num": 210399,
+      "word": "黄俊捷工作室发声明",
+      "onboard_time": 1716041600,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 210354,
@@ -12707,6 +12779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183888,
+      "num": 183888,
+      "word": "范闲 我想吃鱼了",
+      "onboard_time": 1716041299,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183814,
       "num": 183814,
       "word": "新生 强行上价值",
@@ -12857,6 +12937,14 @@
       "onboard_time": 1715480897,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181844,
+      "num": 181844,
+      "word": "文俊辉直播",
+      "onboard_time": 1716041600,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 181757,
@@ -13081,6 +13169,14 @@
       "onboard_time": 1715915238,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178025,
+      "num": 156021,
+      "word": "成毅给村民送礼物",
+      "onboard_time": 1716040699,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 177987,
@@ -14371,6 +14467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160110,
+      "num": 160110,
+      "word": "369好好学",
+      "onboard_time": 1716039918,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159858,
       "num": 159858,
       "word": "小黑熊一激动认错妈了",
@@ -14891,6 +14995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151644,
+      "num": 151644,
+      "word": "Bin要3比0战胜GEN",
+      "onboard_time": 1716041181,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151281,
       "num": 416602,
       "word": "刘翔好久不见",
@@ -14929,6 +15041,14 @@
       "onboard_time": 1715580739,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150662,
+      "num": 150662,
+      "word": "张艺兴抵达戛纳",
+      "onboard_time": 1716040039,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 150518,
@@ -15385,6 +15505,14 @@
       "onboard_time": 1715999657,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142654,
+      "num": 233098,
+      "word": "原来唐朝就有生鲜快递了",
+      "onboard_time": 1716039978,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142446,
@@ -16235,6 +16363,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 129980,
+      "num": 135773,
+      "word": "阿兰梅开二度",
+      "onboard_time": 1716041299,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129952,
       "num": 129952,
       "word": "以为是豪门原来是茶壶",
@@ -16276,7 +16412,7 @@
     },
     {
       "raw_hot": 129470,
-      "num": 129470,
+      "num": 135558,
       "word": "吃榴莲后要注意多喝水",
       "onboard_time": 1716038959,
       "rank": 47,
@@ -18291,6 +18427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 82827,
+      "num": 503499,
+      "word": "女子地铁发病僵直摔倒场面惊心",
+      "onboard_time": 1716036618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82602,
       "num": 1028140,
       "word": "我国成功发射试验二十三号卫星",
@@ -18641,14 +18785,6 @@
       "onboard_time": 1715607319,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 64426,
-      "num": 503499,
-      "word": "女子地铁发病僵直摔倒场面惊心",
-      "onboard_time": 1716036618,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64293,
