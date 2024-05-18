@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1716023959372,
+  "endTime": 1716024862892,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1715737758,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1213208,
+      "num": 1213208,
+      "word": "女子试戴金戒不慎摔落被索赔1250",
+      "onboard_time": 1716021618,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1213156,
@@ -2987,14 +2995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 676608,
-      "num": 565716,
-      "word": "女子试戴金戒不慎摔落被索赔1250",
-      "onboard_time": 1716021618,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 675773,
       "num": 675773,
       "word": "北京火烧云",
@@ -3099,6 +3099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 658729,
+      "num": 655711,
+      "word": "沈腾没入围",
+      "onboard_time": 1716021798,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 658627,
       "num": 658627,
       "word": "B太被加油站举报",
@@ -3129,14 +3137,6 @@
       "onboard_time": 1715694979,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 655711,
-      "num": 655711,
-      "word": "沈腾没入围",
-      "onboard_time": 1716021798,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 652998,
@@ -4651,6 +4651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483923,
+      "num": 483923,
+      "word": "易烊千玺入围百花奖最佳男主角初评",
+      "onboard_time": 1716022759,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 483503,
       "num": 476742,
       "word": "iPhone17后置摄像头或移至顶部中心",
@@ -5153,14 +5161,6 @@
       "onboard_time": 1715753899,
       "rank": 42,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 440445,
-      "num": 440445,
-      "word": "易烊千玺入围百花奖最佳男主角初评",
-      "onboard_time": 1716022759,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 439551,
@@ -5739,6 +5739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402715,
+      "num": 402715,
+      "word": "雪糕店老板进口雪糕都不进货了",
+      "onboard_time": 1716020359,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 402233,
       "num": 402233,
       "word": "那英十年前的回旋镖",
@@ -5944,14 +5952,6 @@
       "word": "任何人周五晚上上班都得疯",
       "onboard_time": 1715958742,
       "rank": 13,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 391478,
-      "num": 391478,
-      "word": "雪糕店老板进口雪糕都不进货了",
-      "onboard_time": 1716020359,
-      "rank": 48,
       "category": "幽默"
     },
     {
@@ -7691,6 +7691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 291181,
+      "num": 291181,
+      "word": "十个勤天帆布包",
+      "onboard_time": 1716024137,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289336,
       "num": 219736,
       "word": "十个勤天草莓酱 来点不一样的",
@@ -9131,6 +9139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240492,
+      "num": 196211,
+      "word": "偶遇叶珂参加婚礼",
+      "onboard_time": 1716023599,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239384,
       "num": 186777,
       "word": "员工带薪如厕被解雇索赔20万元",
@@ -9369,6 +9385,14 @@
       "onboard_time": 1715934679,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 231592,
+      "num": 231592,
+      "word": "广东人将挑战暴雨上班30天",
+      "onboard_time": 1716021318,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231213,
@@ -10379,14 +10403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208054,
-      "num": 208054,
-      "word": "广东人将挑战暴雨上班30天",
-      "onboard_time": 1716021318,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207935,
       "num": 200304,
       "word": "谁能认得出这是小鬼",
@@ -10955,14 +10971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200816,
-      "num": 174676,
-      "word": "偶遇叶珂参加婚礼",
-      "onboard_time": 1716023599,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200811,
       "num": 200811,
       "word": "王源长沙",
@@ -11211,6 +11219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197809,
+      "num": 144940,
+      "word": "王俊凯入围百花奖最佳男主角初评",
+      "onboard_time": 1716024677,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197674,
       "num": 141699,
       "word": "关晓彤纯欲风",
@@ -11361,6 +11377,14 @@
       "onboard_time": 1715860696,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195997,
+      "num": 195997,
+      "word": "MSI",
+      "onboard_time": 1715853559,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 195671,
@@ -12201,14 +12225,6 @@
       "onboard_time": 1715563639,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185711,
-      "num": 185711,
-      "word": "MSI",
-      "onboard_time": 1715853559,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 185400,
@@ -14211,6 +14227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154550,
+      "num": 134587,
+      "word": "回到那一天演唱会",
+      "onboard_time": 1716024618,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154540,
       "num": 150295,
       "word": "庆余年 神金翻译",
@@ -15307,6 +15331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136038,
+      "num": 136038,
+      "word": "T1对战BLG",
+      "onboard_time": 1716023718,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135976,
       "num": 135976,
       "word": "丁太升问李荣浩不教教杨丞琳吗",
@@ -16131,14 +16163,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 122263,
-      "num": 122263,
-      "word": "T1对战BLG",
-      "onboard_time": 1716023718,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 122183,
       "num": 82364,
       "word": "甲状腺病患者能吃加碘盐吗",
@@ -16628,7 +16652,7 @@
     },
     {
       "raw_hot": 112327,
-      "num": 112327,
+      "num": 132062,
       "word": "KPL春决",
       "onboard_time": 1716022998,
       "rank": 48,
@@ -17532,7 +17556,7 @@
     },
     {
       "raw_hot": 90225,
-      "num": 802846,
+      "num": 900739,
       "word": "文化中国行看博物馆之宝",
       "onboard_time": 1715931378,
       "rank": 27,
@@ -18091,20 +18115,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 62500,
+      "num": 570788,
+      "word": "小学女生为同学做海姆立克",
+      "onboard_time": 1716020538,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 61435,
       "num": 61435,
       "word": "美国通胀迎来降温",
       "onboard_time": 1715815035,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 60993,
-      "num": 570788,
-      "word": "小学女生为同学做海姆立克",
-      "onboard_time": 1716020538,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 60775,
