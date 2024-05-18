@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716063553586,
+  "endTime": 1716064458980,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -50081,6 +50081,14 @@
       "onboard_time": 1716057013,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 33120,
+      "num": 33120,
+      "word": "陈丽君跳BangBang很适配",
+      "onboard_time": 1716063612,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 32765,

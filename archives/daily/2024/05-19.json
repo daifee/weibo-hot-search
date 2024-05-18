@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716063553586,
+  "endTime": 1716064458980,
   "band_list": [
     {
       "raw_hot": 865357,
@@ -515,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 33120,
+      "num": 33120,
+      "word": "陈丽君跳BangBang很适配",
+      "onboard_time": 1716063612,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25658,
       "num": 25658,
       "word": "薛之谦乌鲁木齐",
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19555,
+      "num": 19555,
+      "word": "2024MSI",
+      "onboard_time": 1716039678,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 17985,
       "num": 80938,
       "word": "豹警官减肥2个月瘦不了一点",
@@ -539,8 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17784,
-      "num": 17784,
+      "raw_hot": 17910,
+      "num": 17910,
       "word": "KPL",
       "onboard_time": 1716034818,
       "rank": 42,
