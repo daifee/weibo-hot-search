@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1716032062451,
+  "endTime": 1716035530532,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -299,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 739415,
+      "num": 571350,
+      "word": "她的小梨涡",
+      "onboard_time": 1716030738,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 733345,
       "num": 398783,
       "word": "王力宏回应去歌手",
@@ -393,6 +401,14 @@
       "onboard_time": 1716008599,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 660640,
+      "num": 274137,
+      "word": "瘦30斤五官的变化",
+      "onboard_time": 1716030437,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 659338,
@@ -499,20 +515,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 534323,
-      "num": 274137,
-      "word": "瘦30斤五官的变化",
-      "onboard_time": 1716030437,
-      "rank": 26,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 530682,
       "num": 431322,
       "word": "赵露思英文采访",
       "onboard_time": 1716025037,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529639,
+      "num": 205584,
+      "word": "不要低估了小孩子的聪明程度",
+      "onboard_time": 1716032236,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 524091,
@@ -531,12 +547,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 515242,
+      "num": 515242,
+      "word": "向12岁女孩要裸照男大学生已被刑拘",
+      "onboard_time": 1716033738,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511190,
       "num": 511190,
       "word": "泰国预计榴莲减产40%至60%",
       "onboard_time": 1716028577,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510699,
+      "num": 481929,
+      "word": "关晓彤陈赫 破碎的妹无助的哥",
+      "onboard_time": 1716032538,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 508458,
@@ -571,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487449,
+      "num": 487449,
+      "word": "越共中央建议苏林担任国家主席",
+      "onboard_time": 1716034158,
+      "rank": 5,
+      "category": "国外时政,国外时政"
+    },
+    {
       "raw_hot": 483923,
       "num": 483923,
       "word": "易烊千玺入围百花奖最佳男主角初评",
@@ -600,6 +640,14 @@
       "word": "庆余年2或在本月收官",
       "onboard_time": 1716023118,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 474551,
+      "num": 474551,
+      "word": "周深演唱会庆余年联动开场",
+      "onboard_time": 1716034158,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -891,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328846,
-      "num": 328846,
-      "word": "她的小梨涡",
-      "onboard_time": 1716030738,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 325247,
       "num": 325247,
       "word": "AG剧透",
@@ -987,6 +1027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 308259,
+      "num": 308259,
+      "word": "刘端端 庆2大家瘦了是因为太卷",
+      "onboard_time": 1716034637,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302722,
       "num": 223996,
       "word": "赴山海开机",
@@ -1035,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292207,
+      "num": 292207,
+      "word": "范闲骂得声音好大好超前",
+      "onboard_time": 1716033257,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289336,
       "num": 219736,
       "word": "十个勤天草莓酱 来点不一样的",
@@ -1067,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279826,
+      "num": 200495,
+      "word": "幼态审美盯上女生的牙齿",
+      "onboard_time": 1716034758,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278610,
       "num": 135826,
       "word": "汪苏泷 我祝他成功",
@@ -1091,12 +1155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273727,
+      "num": 273727,
+      "word": "T1对战BLG",
+      "onboard_time": 1716023718,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 270586,
       "num": 270586,
       "word": "那英听到凡希亚第一的反应",
       "onboard_time": 1716022218,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267105,
+      "num": 267105,
+      "word": "张杰现场",
+      "onboard_time": 1716034698,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 258801,
@@ -1177,14 +1257,6 @@
       "onboard_time": 1716015618,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 237773,
-      "num": 237773,
-      "word": "T1对战BLG",
-      "onboard_time": 1716023718,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 237166,
@@ -1299,12 +1371,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 207675,
+      "num": 207675,
+      "word": "约尔每次亲亲黄昏都闭眼",
+      "onboard_time": 1716034758,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 207420,
       "num": 205842,
       "word": "黄俊捷 赴山海",
       "onboard_time": 1716005178,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206251,
+      "num": 197794,
+      "word": "娜扎站在马上镜头",
+      "onboard_time": 1716034338,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 205588,
@@ -1339,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200952,
+      "num": 200952,
+      "word": "xun的蔚",
+      "onboard_time": 1716034818,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200227,
       "num": 200227,
       "word": "成毅一人分饰三角",
@@ -1353,6 +1449,14 @@
       "onboard_time": 1716019459,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197544,
+      "num": 197544,
+      "word": "歌手也可以把陈昊宇抓走",
+      "onboard_time": 1716034458,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 196789,
@@ -1377,6 +1481,14 @@
       "onboard_time": 1716023899,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194439,
+      "num": 194439,
+      "word": "许嵩演唱会",
+      "onboard_time": 1716033436,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 194365,
@@ -1763,6 +1875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 153497,
+      "num": 153497,
+      "word": "青春环游记",
+      "onboard_time": 1716035238,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147435,
       "num": 126807,
       "word": "戚薇蔡文静给你的自由过了火",
@@ -1899,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138210,
+      "num": 138210,
+      "word": "黑执事 精致丑",
+      "onboard_time": 1716034578,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 136936,
       "num": 136936,
       "word": "不吃晚饭和每餐七分饱哪个减肥效果好",
@@ -1947,6 +2075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125731,
+      "num": 281720,
+      "word": "十个勤天在天猫618卖断货",
+      "onboard_time": 1716033618,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125034,
       "num": 125034,
       "word": "黄子弘凡pa没关",
@@ -1985,6 +2121,14 @@
       "onboard_time": 1716017599,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114474,
+      "num": 118619,
+      "word": "中国女排vs塞尔维亚女排",
+      "onboard_time": 1716033797,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 113596,
@@ -2097,6 +2241,14 @@
       "onboard_time": 1716013878,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93924,
+      "num": 118311,
+      "word": "林孝埈说用行动打造冰雪新未来",
+      "onboard_time": 1716032117,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 92996,
@@ -2353,6 +2505,14 @@
       "onboard_time": 1715952383,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 49678,
+      "num": 350340,
+      "word": "在传统纹样里看见中式美学",
+      "onboard_time": 1716035000,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 48563,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1716035530532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 940050,
+        "num": 940050,
+        "word": "张韶涵回应那英需要你",
+        "onboard_time": 1716028519,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 731552,
+        "num": 731552,
+        "word": "女子试戴金戒不慎摔落被索赔1250",
+        "onboard_time": 1716021618,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6391,
+        "num": 608923,
+        "word": "文化中国行看博物馆之宝",
+        "onboard_time": 1715931378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739415,
+        "num": 571350,
+        "word": "她的小梨涡",
+        "onboard_time": 1716030738,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 515242,
+        "num": 515242,
+        "word": "向12岁女孩要裸照男大学生已被刑拘",
+        "onboard_time": 1716033738,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487449,
+        "num": 487449,
+        "word": "越共中央建议苏林担任国家主席",
+        "onboard_time": 1716034158,
+        "rank": 5,
+        "category": "国外时政,国外时政"
+      },
+      {
+        "raw_hot": 510699,
+        "num": 481929,
+        "word": "关晓彤陈赫 破碎的妹无助的哥",
+        "onboard_time": 1716032538,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474551,
+        "num": 474551,
+        "word": "周深演唱会庆余年联动开场",
+        "onboard_time": 1716034158,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382086,
+        "num": 382086,
+        "word": "泰国预计榴莲减产40%至60%",
+        "onboard_time": 1716028577,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49678,
+        "num": 350340,
+        "word": "在传统纹样里看见中式美学",
+        "onboard_time": 1716035000,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 829083,
+        "num": 350207,
+        "word": "华东理工大学回应男生向12岁女孩要裸照",
+        "onboard_time": 1716027078,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330328,
+        "num": 330328,
+        "word": "2岁宝宝疑因奶奶嚼碎喂食感染梅毒",
+        "onboard_time": 1716016578,
+        "rank": 11,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 308259,
+        "num": 308259,
+        "word": "刘端端 庆2大家瘦了是因为太卷",
+        "onboard_time": 1716034637,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292207,
+        "num": 292207,
+        "word": "范闲骂得声音好大好超前",
+        "onboard_time": 1716033257,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125731,
+        "num": 281720,
+        "word": "十个勤天在天猫618卖断货",
+        "onboard_time": 1716033618,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281564,
+        "num": 281564,
+        "word": "AG剧透",
+        "onboard_time": 1716031458,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273727,
+        "num": 273727,
+        "word": "T1对战BLG",
+        "onboard_time": 1716023718,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267105,
+        "num": 267105,
+        "word": "张杰现场",
+        "onboard_time": 1716034698,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254963,
+        "num": 254963,
+        "word": "普京拍拍肚子说烤鸭太香了再吃一块",
+        "onboard_time": 1716015558,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207675,
+        "num": 207675,
+        "word": "约尔每次亲亲黄昏都闭眼",
+        "onboard_time": 1716034758,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 660640,
+        "num": 206932,
+        "word": "瘦30斤五官的变化",
+        "onboard_time": 1716030437,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 529639,
+        "num": 205584,
+        "word": "不要低估了小孩子的聪明程度",
+        "onboard_time": 1716032236,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265260,
+        "num": 203619,
+        "word": "赴山海阵容官宣",
+        "onboard_time": 1716029896,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415622,
+        "num": 202540,
+        "word": "男子嫖娼被抓妻子选择原谅回家养牛",
+        "onboard_time": 1716000077,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200952,
+        "num": 200952,
+        "word": "xun的蔚",
+        "onboard_time": 1716034818,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 279826,
+        "num": 200495,
+        "word": "幼态审美盯上女生的牙齿",
+        "onboard_time": 1716034758,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270023,
+        "num": 200108,
+        "word": "突然发现今年520好有意义",
+        "onboard_time": 1716024918,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245521,
+        "num": 198944,
+        "word": "赵露思英文采访",
+        "onboard_time": 1716025037,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227142,
+        "num": 198385,
+        "word": "陈赫录节目血栓甲状腺全通了",
+        "onboard_time": 1716013097,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206251,
+        "num": 197794,
+        "word": "娜扎站在马上镜头",
+        "onboard_time": 1716034338,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197544,
+        "num": 197544,
+        "word": "歌手也可以把陈昊宇抓走",
+        "onboard_time": 1716034458,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196190,
+        "num": 196190,
+        "word": "广东人将挑战暴雨上班30天",
+        "onboard_time": 1716021318,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194439,
+        "num": 194439,
+        "word": "许嵩演唱会",
+        "onboard_time": 1716033436,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190078,
+        "num": 190078,
+        "word": "KPL",
+        "onboard_time": 1716034818,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189394,
+        "num": 189394,
+        "word": "赵露思火炬手造型",
+        "onboard_time": 1716019758,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186778,
+        "num": 186778,
+        "word": "时代少年团优酸乳直播",
+        "onboard_time": 1716030617,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174660,
+        "num": 174660,
+        "word": "AG对战狼队",
+        "onboard_time": 1716027199,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173155,
+        "num": 173155,
+        "word": "沈腾没入围",
+        "onboard_time": 1716021798,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165339,
+        "num": 165339,
+        "word": "沈梦辰情商",
+        "onboard_time": 1716031276,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158051,
+        "num": 158051,
+        "word": "庆余年2或在本月收官",
+        "onboard_time": 1716023118,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153812,
+        "num": 153812,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1716030677,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153497,
+        "num": 153497,
+        "word": "青春环游记",
+        "onboard_time": 1716035238,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148069,
+        "num": 148069,
+        "word": "十个勤天小卖铺",
+        "onboard_time": 1716015918,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150385,
+        "num": 147611,
+        "word": "赵丽颖帮朱梓骁追星",
+        "onboard_time": 1716030257,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144137,
+        "num": 144137,
+        "word": "狼队藏东西了",
+        "onboard_time": 1716030677,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138210,
+        "num": 138210,
+        "word": "黑执事 精致丑",
+        "onboard_time": 1716034578,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132112,
+        "num": 132112,
+        "word": "易烊千玺入围百花奖最佳男主角初评",
+        "onboard_time": 1716022759,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119089,
+        "num": 119089,
+        "word": "蔡徐坤小香风",
+        "onboard_time": 1716013279,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114474,
+        "num": 118619,
+        "word": "中国女排vs塞尔维亚女排",
+        "onboard_time": 1716033797,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93924,
+        "num": 118311,
+        "word": "林孝埈说用行动打造冰雪新未来",
+        "onboard_time": 1716032117,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与普京在北京的一天#"
+    }
+  }
+}
