@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1716021326928,
+  "endTime": 1716023959372,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1621970,
+      "num": 1621970,
+      "word": "赵露思火炬手造型",
+      "onboard_time": 1716019758,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1596803,
       "num": 1596803,
       "word": "十个勤天小卖铺",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1455936,
-      "num": 284525,
+      "num": 325762,
       "word": "男子嫖娼被抓妻子选择原谅回家养牛",
       "onboard_time": 1716000077,
       "rank": 20,
@@ -139,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1053871,
-      "num": 1053871,
-      "word": "赵露思火炬手造型",
-      "onboard_time": 1716019758,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1040983,
       "num": 1040983,
       "word": "汪苏泷 你不是真的心疼我",
@@ -193,6 +193,14 @@
       "onboard_time": 1715960241,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 952200,
+      "num": 952200,
+      "word": "唐仁健被查",
+      "onboard_time": 1716020359,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 923010,
@@ -363,12 +371,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 676608,
+      "num": 565716,
+      "word": "女子试戴金戒不慎摔落被索赔1250",
+      "onboard_time": 1716021618,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659338,
       "num": 659338,
       "word": "李沁暗示庆余年第三季",
       "onboard_time": 1716014357,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655711,
+      "num": 655711,
+      "word": "沈腾没入围",
+      "onboard_time": 1716021798,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 641609,
@@ -387,14 +411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 612344,
-      "num": 612344,
-      "word": "唐仁健被查",
-      "onboard_time": 1716020359,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603671,
       "num": 402037,
       "word": "付辛博 大皇子",
@@ -409,6 +425,14 @@
       "onboard_time": 1715966835,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576492,
+      "num": 576492,
+      "word": "泽连斯基拒绝奥运会期间休战",
+      "onboard_time": 1716018978,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 561641,
@@ -571,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440445,
+      "num": 440445,
+      "word": "易烊千玺入围百花奖最佳男主角初评",
+      "onboard_time": 1716022759,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 429482,
       "num": 1232917,
       "word": "张雪峰再捐款150万",
       "onboard_time": 1716005059,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424071,
-      "num": 424071,
-      "word": "泽连斯基拒绝奥运会期间休战",
-      "onboard_time": 1716018978,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 422944,
@@ -649,6 +673,14 @@
       "onboard_time": 1715998758,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 391478,
+      "num": 391478,
+      "word": "雪糕店老板进口雪糕都不进货了",
+      "onboard_time": 1716020359,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 384024,
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 292873,
-      "num": 242808,
+      "num": 271510,
       "word": "范闲 这下吃到甄嬛的苦了",
       "onboard_time": 1716012857,
       "rank": 31,
@@ -899,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280031,
+      "num": 280031,
+      "word": "庆余年2或在本月收官",
+      "onboard_time": 1716023118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278610,
       "num": 135826,
       "word": "汪苏泷 我祝他成功",
@@ -921,6 +961,14 @@
       "onboard_time": 1716019279,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270586,
+      "num": 270586,
+      "word": "那英听到凡希亚第一的反应",
+      "onboard_time": 1716022218,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 258801,
@@ -1011,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221699,
-      "num": 241312,
-      "word": "雪糕店老板进口雪糕都不进货了",
-      "onboard_time": 1716020359,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221694,
       "num": 207283,
       "word": "杨和苏 1元购",
@@ -1083,6 +1123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 208054,
+      "num": 208054,
+      "word": "广东人将挑战暴雨上班30天",
+      "onboard_time": 1716021318,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207420,
       "num": 205842,
       "word": "黄俊捷 赴山海",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1716020718,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200816,
+      "num": 174676,
+      "word": "偶遇叶珂参加婚礼",
+      "onboard_time": 1716023599,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 200227,
@@ -1169,6 +1225,14 @@
       "onboard_time": 1716008239,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189866,
+      "num": 202365,
+      "word": "错切17岁体育生右膝医生被撤职",
+      "onboard_time": 1716020718,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188672,
@@ -1331,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169918,
+      "num": 123031,
+      "word": "百花奖投票",
+      "onboard_time": 1716022518,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169806,
       "num": 169806,
       "word": "胸口刺痛几秒是猝死信号吗",
@@ -1385,14 +1457,6 @@
       "onboard_time": 1715965815,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161522,
-      "num": 202365,
-      "word": "错切17岁体育生右膝医生被撤职",
-      "onboard_time": 1716020718,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161044,
@@ -1595,6 +1659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 122263,
+      "num": 122263,
+      "word": "T1对战BLG",
+      "onboard_time": 1716023718,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121658,
       "num": 270492,
       "word": "这些景区居然是私人的",
@@ -1611,12 +1683,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118402,
+      "num": 118402,
+      "word": "MSI",
+      "onboard_time": 1716023899,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116482,
       "num": 116482,
       "word": "狗阵",
       "onboard_time": 1716017599,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112327,
+      "num": 112327,
+      "word": "KPL春决",
+      "onboard_time": 1716022998,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 109488,
@@ -1867,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60993,
+      "num": 570788,
+      "word": "小学女生为同学做海姆立克",
+      "onboard_time": 1716020538,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 57975,
       "num": 50796,
       "word": "Adele就是Adele",
@@ -1971,14 +2067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44084,
-      "num": 570788,
-      "word": "小学女生为同学做海姆立克",
-      "onboard_time": 1716020538,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 43476,
       "num": 114257,
       "word": "他走了20公里来看病",
@@ -2067,7 +2155,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18305,
+      "raw_hot": 18920,
       "num": 802846,
       "word": "文化中国行看博物馆之宝",
       "onboard_time": 1715931378,

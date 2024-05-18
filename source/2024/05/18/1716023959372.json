@@ -1,0 +1,410 @@
+{
+  "runTime": 1716023959372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1621970,
+        "num": 1621970,
+        "word": "赵露思火炬手造型",
+        "onboard_time": 1716019758,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 952200,
+        "num": 952200,
+        "word": "唐仁健被查",
+        "onboard_time": 1716020359,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18920,
+        "num": 673562,
+        "word": "文化中国行看博物馆之宝",
+        "onboard_time": 1715931378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655711,
+        "num": 655711,
+        "word": "沈腾没入围",
+        "onboard_time": 1716021798,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 653887,
+        "num": 653887,
+        "word": "2岁宝宝疑因奶奶嚼碎喂食感染梅毒",
+        "onboard_time": 1716016578,
+        "rank": 4,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 594564,
+        "num": 594564,
+        "word": "普京拍拍肚子说烤鸭太香了再吃一块",
+        "onboard_time": 1716015558,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619934,
+        "num": 586400,
+        "word": "陈赫录节目血栓甲状腺全通了",
+        "onboard_time": 1716013097,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596268,
+        "num": 583223,
+        "word": "廖骏雄去世",
+        "onboard_time": 1716019218,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576492,
+        "num": 576492,
+        "word": "泽连斯基拒绝奥运会期间休战",
+        "onboard_time": 1716018978,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 60993,
+        "num": 567958,
+        "word": "小学女生为同学做海姆立克",
+        "onboard_time": 1716020538,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 676608,
+        "num": 565716,
+        "word": "女子试戴金戒不慎摔落被索赔1250",
+        "onboard_time": 1716021618,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559760,
+        "num": 559760,
+        "word": "十个勤天小卖铺",
+        "onboard_time": 1716015918,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440445,
+        "num": 440445,
+        "word": "易烊千玺入围百花奖最佳男主角初评",
+        "onboard_time": 1716022759,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 431796,
+        "num": 431796,
+        "word": "江西坠河失联女老师遗体在水中被发现",
+        "onboard_time": 1716019038,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391478,
+        "num": 391478,
+        "word": "雪糕店老板进口雪糕都不进货了",
+        "onboard_time": 1716020359,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387663,
+        "num": 387663,
+        "word": "汪苏泷 还不如让我走了呢",
+        "onboard_time": 1715989635,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373684,
+        "num": 373684,
+        "word": "老板怒斥员工朝9晚6按时上下班",
+        "onboard_time": 1716014478,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349882,
+        "num": 349882,
+        "word": "赵丽颖郝秀萍百花奖入围",
+        "onboard_time": 1716018078,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281892,
+        "num": 335020,
+        "word": "普京首次公开俄军意图",
+        "onboard_time": 1716016157,
+        "rank": 18,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 219580,
+        "num": 325851,
+        "word": "浙江一2岁宝宝得梅毒",
+        "onboard_time": 1716008719,
+        "rank": 19,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 527620,
+        "num": 325762,
+        "word": "男子嫖娼被抓妻子选择原谅回家养牛",
+        "onboard_time": 1716000077,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324979,
+        "num": 324979,
+        "word": "李沁暗示庆余年第三季",
+        "onboard_time": 1716014357,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299920,
+        "num": 299920,
+        "word": "蔡徐坤小香风",
+        "onboard_time": 1716013279,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293543,
+        "num": 293543,
+        "word": "赵丽颖 只有一件事情能够令人兴奋",
+        "onboard_time": 1716009078,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280031,
+        "num": 280031,
+        "word": "庆余年2或在本月收官",
+        "onboard_time": 1716023118,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271510,
+        "num": 271510,
+        "word": "范闲 这下吃到甄嬛的苦了",
+        "onboard_time": 1716012857,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270586,
+        "num": 270586,
+        "word": "那英听到凡希亚第一的反应",
+        "onboard_time": 1716022218,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239605,
+        "num": 239605,
+        "word": "杨丞琳淘汰后李莎旻子的发言",
+        "onboard_time": 1716002059,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208054,
+        "num": 208054,
+        "word": "广东人将挑战暴雨上班30天",
+        "onboard_time": 1716021318,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189866,
+        "num": 189866,
+        "word": "错切17岁体育生右膝医生被撤职",
+        "onboard_time": 1716020718,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233208,
+        "num": 186988,
+        "word": "汪苏泷 你不是真的心疼我",
+        "onboard_time": 1716008659,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228360,
+        "num": 182344,
+        "word": "庆帝 反派",
+        "onboard_time": 1716011057,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200816,
+        "num": 174676,
+        "word": "偶遇叶珂参加婚礼",
+        "onboard_time": 1716023599,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163342,
+        "num": 163342,
+        "word": "iPhone17后置摄像头或移至顶部中心",
+        "onboard_time": 1716005777,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150054,
+        "num": 150054,
+        "word": "为什么我们的手机都用黑体",
+        "onboard_time": 1716018078,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190577,
+        "num": 149365,
+        "word": "十个勤天直播",
+        "onboard_time": 1716007698,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186296,
+        "num": 147091,
+        "word": "杨幂 戛纳",
+        "onboard_time": 1715990117,
+        "rank": 36,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 182916,
+        "num": 146203,
+        "word": "迪丽热巴自拍也很OKKK",
+        "onboard_time": 1716019279,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137609,
+        "num": 137609,
+        "word": "金饰价格一夜每克涨12元",
+        "onboard_time": 1716015140,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127300,
+        "num": 127300,
+        "word": "中国女排积分被扣11.01",
+        "onboard_time": 1716018738,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181151,
+        "num": 126734,
+        "word": "种地吧",
+        "onboard_time": 1716016219,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179867,
+        "num": 126275,
+        "word": "歌手来把胡彦斌抓走吧",
+        "onboard_time": 1716016278,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177483,
+        "num": 124310,
+        "word": "张艺兴入围百花奖最佳男主角初评",
+        "onboard_time": 1716018257,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115740,
+        "num": 123355,
+        "word": "留学生一份柿子汤吃7天",
+        "onboard_time": 1716014478,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169918,
+        "num": 123031,
+        "word": "百花奖投票",
+        "onboard_time": 1716022518,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122263,
+        "num": 122263,
+        "word": "T1对战BLG",
+        "onboard_time": 1716023718,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118402,
+        "num": 118402,
+        "word": "MSI",
+        "onboard_time": 1716023899,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115676,
+        "num": 115676,
+        "word": "37岁男子娶19岁越南新娘",
+        "onboard_time": 1716006257,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112327,
+        "num": 112327,
+        "word": "KPL春决",
+        "onboard_time": 1716022998,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100947,
+        "num": 100947,
+        "word": "初会",
+        "onboard_time": 1715999657,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#博物致知#"
+    }
+  }
+}
