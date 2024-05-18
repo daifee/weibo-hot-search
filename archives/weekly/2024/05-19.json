@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716050162281,
+  "endTime": 1716052512509,
   "band_list": [
     {
       "raw_hot": 865357,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 621201,
-      "num": 180067,
+      "num": 416853,
       "word": "三胞胎兄弟居然有胎内记忆",
       "onboard_time": 1716044360,
       "rank": 21,
@@ -155,6 +155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 244132,
+      "num": 244132,
+      "word": "krd",
+      "onboard_time": 1716048557,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221012,
       "num": 221012,
       "word": "庆余年太子给打工人一些震撼",
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211914,
+      "num": 211914,
+      "word": "三皇子 年轻人觉多",
+      "onboard_time": 1716051436,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208761,
       "num": 208761,
       "word": "95后亿万富豪被罚1.33亿元",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 200287,
-      "num": 176125,
+      "num": 181487,
       "word": "钟楚曦 我的电子闺蜜",
       "onboard_time": 1716047297,
       "rank": 25,
@@ -201,6 +217,14 @@
       "onboard_time": 1716044119,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184330,
+      "num": 184330,
+      "word": "郑合惠子抹胸粉裙",
+      "onboard_time": 1716050717,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181327,
@@ -225,14 +249,6 @@
       "onboard_time": 1716044001,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 164743,
-      "num": 164743,
-      "word": "krd",
-      "onboard_time": 1716048557,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 164491,
@@ -339,12 +355,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121705,
+      "num": 110825,
+      "word": "散步是一种最被低估的运动",
+      "onboard_time": 1716051675,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 121483,
       "num": 121483,
       "word": "王栎鑫演唱会",
       "onboard_time": 1716045018,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117016,
+      "num": 113407,
+      "word": "姑娘翻出一堆施华洛世奇后悔没买黄金",
+      "onboard_time": 1716051375,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115852,
@@ -379,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108945,
+      "num": 108945,
+      "word": "亚当曾说想和蔡依林合作",
+      "onboard_time": 1716051555,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108916,
       "num": 108916,
       "word": "G2问Bin收徒吗",
@@ -387,12 +427,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105964,
+      "num": 105964,
+      "word": "持修 血肉",
+      "onboard_time": 1716050657,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 97281,
+      "num": 97281,
+      "word": "歌手2024鉴音团",
+      "onboard_time": 1716051315,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87842,
       "num": 104812,
       "word": "德甲联赛",
       "onboard_time": 1716048557,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85757,
+      "num": 85757,
+      "word": "纽约中央公园偶遇网红凤姐",
+      "onboard_time": 1716052395,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 75911,
+      "num": 75911,
+      "word": "Bin说三比零T1",
+      "onboard_time": 1716029057,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 59305,
@@ -409,6 +481,14 @@
       "onboard_time": 1716045679,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20573,
+      "num": 106670,
+      "word": "大四学生拍毕业照意外与婚纱照同框",
+      "onboard_time": 1716052094,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6688,
