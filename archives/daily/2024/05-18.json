@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1716002412832,
+  "endTime": 1716003262527,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -43,7 +43,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1446256,
+      "raw_hot": 1455936,
       "num": 284525,
       "word": "男子嫖娼被抓妻子选择原谅回家养牛",
       "onboard_time": 1716000077,
@@ -72,6 +72,14 @@
       "word": "杨丞琳二手玫瑰淘汰",
       "onboard_time": 1715956766,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1219188,
+      "num": 587337,
+      "word": "杨丞琳淘汰后李莎旻子的发言",
+      "onboard_time": 1716002059,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 747104,
-      "num": 408111,
+      "num": 452801,
       "word": "杨幂 戛纳",
       "onboard_time": 1715990117,
       "rank": 7,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 733345,
-      "num": 361862,
+      "num": 398783,
       "word": "王力宏回应去歌手",
       "onboard_time": 1715989216,
       "rank": 10,
@@ -168,6 +176,14 @@
       "word": "女子建议车厢厕所改成女播音员",
       "onboard_time": 1715990597,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704979,
+      "num": 704979,
+      "word": "夫妻离婚拒养患抑郁症女儿被判不准离",
+      "onboard_time": 1715998816,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -203,16 +219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 663026,
-      "num": 663026,
-      "word": "夫妻离婚拒养患抑郁症女儿被判不准离",
-      "onboard_time": 1715998816,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603671,
-      "num": 362196,
+      "num": 402037,
       "word": "付辛博 大皇子",
       "onboard_time": 1715995758,
       "rank": 28,
@@ -225,6 +233,14 @@
       "onboard_time": 1715966835,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561641,
+      "num": 561641,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1716002958,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 556078,
@@ -249,14 +265,6 @@
       "onboard_time": 1715961201,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 500166,
-      "num": 320029,
-      "word": "杨丞琳淘汰后李莎旻子的发言",
-      "onboard_time": 1716002059,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 466847,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409368,
+      "num": 395724,
+      "word": "三亚机场回应航班不开空调",
+      "onboard_time": 1716000917,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404954,
       "num": 276758,
       "word": "鹿晗状态回春",
@@ -323,12 +339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403649,
+      "num": 271246,
+      "word": "亚当踢馆是什么概念",
+      "onboard_time": 1716000738,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401478,
       "num": 281810,
       "word": "成毅赴山海开机现场人气",
       "onboard_time": 1715999057,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395354,
+      "num": 395354,
+      "word": "中国博物馆已经是nextlevel了",
+      "onboard_time": 1715998758,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 385007,
@@ -347,14 +379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 383745,
-      "num": 383745,
-      "word": "中国博物馆已经是nextlevel了",
-      "onboard_time": 1715998758,
-      "rank": 24,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 376841,
       "num": 152715,
       "word": "肖战工作室发了两个肖战",
@@ -363,7 +387,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349881,
+      "raw_hot": 364310,
       "num": 276869,
       "word": "张若昀的台词从牙缝里挤出来",
       "onboard_time": 1716000498,
@@ -419,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 319573,
-      "num": 271246,
-      "word": "亚当踢馆是什么概念",
-      "onboard_time": 1716000738,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 314690,
       "num": 150276,
       "word": "两个人合不合适吃顿饭就知道",
@@ -451,12 +467,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 308466,
-      "num": 308466,
-      "word": "三亚机场回应航班不开空调",
-      "onboard_time": 1716000917,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 312549,
+      "num": 312549,
+      "word": "为什么肝癌一发现多是晚期",
+      "onboard_time": 1715999597,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 302683,
@@ -491,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285769,
-      "num": 285769,
-      "word": "为什么肝癌一发现多是晚期",
-      "onboard_time": 1715999597,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 283298,
       "num": 211810,
       "word": "机构回应女生考研政治97分被疑造假",
@@ -528,6 +536,14 @@
       "word": "李小冉晒庆余年四美聚会照",
       "onboard_time": 1715959761,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272222,
+      "num": 253008,
+      "word": "庆余年2哥哥只有一个弟弟可以有很多",
+      "onboard_time": 1716002779,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -627,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188845,
+      "num": 188845,
+      "word": "武契奇收到死亡威胁",
+      "onboard_time": 1716002539,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 187946,
       "num": 187946,
       "word": "谢娜曾反对张杰第一个逆战",
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 176338,
-      "num": 111873,
+      "num": 157472,
       "word": "奔跑吧下期有陈哲远章若楠",
       "onboard_time": 1716001158,
       "rank": 40,
@@ -705,6 +729,14 @@
       "onboard_time": 1715958742,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165912,
+      "num": 165912,
+      "word": "马勇 押题",
+      "onboard_time": 1716001938,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 161763,
@@ -811,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131454,
+      "num": 107499,
+      "word": "赴山海开机",
+      "onboard_time": 1716003199,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131071,
       "num": 219535,
       "word": "陈奕迅杭州演唱会",
@@ -851,14 +891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112577,
-      "num": 112577,
-      "word": "马勇 押题",
-      "onboard_time": 1716001938,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 102157,
       "num": 115641,
       "word": "公积金真的有用吗",
@@ -881,6 +913,14 @@
       "onboard_time": 1715958742,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96912,
+      "num": 96912,
+      "word": "毛利兰 永远的小兰姐姐",
+      "onboard_time": 1716002898,
+      "rank": 48,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 95730,
@@ -1019,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61762,
+      "num": 405264,
+      "word": "她车都没停稳开门冲出去救人",
+      "onboard_time": 1715999478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57975,
       "num": 50796,
       "word": "Adele就是Adele",
@@ -1128,6 +1176,14 @@
       "word": "云南一茶厂土方坍塌致3人死亡",
       "onboard_time": 1715988855,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39548,
+      "num": 107145,
+      "word": "安徽的浪漫和诗词里一样",
+      "onboard_time": 1716003017,
+      "rank": 44,
       "category": "社会新闻"
     },
     {

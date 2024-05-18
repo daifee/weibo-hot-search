@@ -1,0 +1,410 @@
+{
+  "runTime": 1716003262527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1774319,
+        "num": 1774319,
+        "word": "汪苏泷 还不如让我走了呢",
+        "onboard_time": 1715989635,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704979,
+        "num": 704979,
+        "word": "夫妻离婚拒养患抑郁症女儿被判不准离",
+        "onboard_time": 1715998816,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20676,
+        "num": 608815,
+        "word": "盘点中国知名体育博物馆",
+        "onboard_time": 1715954554,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219188,
+        "num": 587337,
+        "word": "杨丞琳淘汰后李莎旻子的发言",
+        "onboard_time": 1716002059,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561641,
+        "num": 561641,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1716002958,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 465995,
+        "num": 465995,
+        "word": "妇科医生谈鸭嘴钳",
+        "onboard_time": 1715995939,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 953490,
+        "num": 454905,
+        "word": "歌手2024第一爆",
+        "onboard_time": 1715992038,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633637,
+        "num": 452801,
+        "word": "杨幂 戛纳",
+        "onboard_time": 1715990117,
+        "rank": 7,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 405550,
+        "num": 405550,
+        "word": "初会",
+        "onboard_time": 1715999657,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 61762,
+        "num": 405264,
+        "word": "她车都没停稳开门冲出去救人",
+        "onboard_time": 1715999478,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833986,
+        "num": 403486,
+        "word": "那英 这一辈子没选错职业",
+        "onboard_time": 1715995939,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439760,
+        "num": 402037,
+        "word": "付辛博 大皇子",
+        "onboard_time": 1715995758,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420395,
+        "num": 398783,
+        "word": "王力宏回应去歌手",
+        "onboard_time": 1715989216,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411952,
+        "num": 398594,
+        "word": "杨丞琳回应淘汰",
+        "onboard_time": 1715988076,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409368,
+        "num": 395724,
+        "word": "三亚机场回应航班不开空调",
+        "onboard_time": 1716000917,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395354,
+        "num": 395354,
+        "word": "中国博物馆已经是nextlevel了",
+        "onboard_time": 1715998758,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 360116,
+        "num": 360116,
+        "word": "突然发现吃饭是很私密的事",
+        "onboard_time": 1715992639,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312549,
+        "num": 312549,
+        "word": "为什么肝癌一发现多是晚期",
+        "onboard_time": 1715999597,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33585,
+        "num": 286123,
+        "word": "霸王茶姬产品身份证上杯贴了",
+        "onboard_time": 1715999657,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 263758,
+        "num": 263758,
+        "word": "女子建议车厢厕所改成女播音员",
+        "onboard_time": 1715990597,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1455936,
+        "num": 263129,
+        "word": "男子嫖娼被抓妻子选择原谅回家养牛",
+        "onboard_time": 1716000077,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403649,
+        "num": 261812,
+        "word": "亚当踢馆是什么概念",
+        "onboard_time": 1716000738,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365568,
+        "num": 260796,
+        "word": "成毅赴山海开机现场人气",
+        "onboard_time": 1715999057,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364310,
+        "num": 258301,
+        "word": "张若昀的台词从牙缝里挤出来",
+        "onboard_time": 1716000498,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258073,
+        "num": 258073,
+        "word": "路边茶叶店五金店没人去为啥还不倒闭",
+        "onboard_time": 1715992098,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313598,
+        "num": 253063,
+        "word": "鹿晗 阿那亚",
+        "onboard_time": 1715997078,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272222,
+        "num": 253008,
+        "word": "庆余年2哥哥只有一个弟弟可以有很多",
+        "onboard_time": 1716002779,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246265,
+        "num": 246265,
+        "word": "亚当真来歌手了",
+        "onboard_time": 1715956647,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245381,
+        "num": 245381,
+        "word": "英子守不住了",
+        "onboard_time": 1715958623,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197786,
+        "num": 197786,
+        "word": "深圳新房住宅成交量上涨40%",
+        "onboard_time": 1715997139,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214759,
+        "num": 197485,
+        "word": "庆余年歌手收视率",
+        "onboard_time": 1715992398,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209975,
+        "num": 196151,
+        "word": "那英 保四争三",
+        "onboard_time": 1715993717,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205605,
+        "num": 193946,
+        "word": "赴山海",
+        "onboard_time": 1715991258,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188845,
+        "num": 188845,
+        "word": "武契奇收到死亡威胁",
+        "onboard_time": 1716002539,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165912,
+        "num": 165912,
+        "word": "马勇 押题",
+        "onboard_time": 1716001938,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191354,
+        "num": 164804,
+        "word": "汪苏泷 表现",
+        "onboard_time": 1715956409,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173749,
+        "num": 157472,
+        "word": "奔跑吧下期有陈哲远章若楠",
+        "onboard_time": 1716001158,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139484,
+        "num": 139484,
+        "word": "学生劝乘客小声通话无果扔其手机",
+        "onboard_time": 1715999478,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113228,
+        "num": 113228,
+        "word": "BLG熬夜备战败决",
+        "onboard_time": 1715999597,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109600,
+        "num": 109600,
+        "word": "连云港",
+        "onboard_time": 1715960300,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143208,
+        "num": 109284,
+        "word": "似锦",
+        "onboard_time": 1716001219,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142852,
+        "num": 108834,
+        "word": "成毅连发11条微博",
+        "onboard_time": 1715993058,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128439,
+        "num": 108354,
+        "word": "你好星期六全员动物塑",
+        "onboard_time": 1716001338,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131454,
+        "num": 107499,
+        "word": "赴山海开机",
+        "onboard_time": 1716003199,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39548,
+        "num": 107145,
+        "word": "安徽的浪漫和诗词里一样",
+        "onboard_time": 1716003017,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122400,
+        "num": 106180,
+        "word": "周杰伦唱了倒带",
+        "onboard_time": 1715957604,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105976,
+        "num": 105976,
+        "word": "男朋友在和别的女生打电话吗",
+        "onboard_time": 1715989937,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105688,
+        "num": 105688,
+        "word": "海关查获120张Switch游戏卡",
+        "onboard_time": 1715989937,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96912,
+        "num": 96912,
+        "word": "毛利兰 永远的小兰姐姐",
+        "onboard_time": 1716002898,
+        "rank": 48,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 95503,
+        "num": 95503,
+        "word": "中国女排1比3加拿大女排",
+        "onboard_time": 1715987715,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首北京会晤看点#"
+    }
+  }
+}
