@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716036455761,
+  "endTime": 1716038362195,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -649,6 +649,14 @@
       "onboard_time": 1715344521,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2183555,
+      "num": 2183555,
+      "word": "神bin天降",
+      "onboard_time": 1716037400,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 2162287,
@@ -3443,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1078929,
+      "num": 1078929,
+      "word": "向12岁女孩要裸照男大学生已被刑拘",
+      "onboard_time": 1716033738,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1078805,
       "num": 622517,
       "word": "滁州警方回应水泥块中挖出尸体",
@@ -3691,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1028709,
+      "num": 1028709,
+      "word": "T1对战BLG",
+      "onboard_time": 1716023718,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1028548,
       "num": 1028548,
       "word": "高铁涨价",
@@ -3929,6 +3953,14 @@
       "onboard_time": 1715907198,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 980155,
+      "num": 980155,
+      "word": "BLG战胜T1",
+      "onboard_time": 1715507299,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 972744,
@@ -4435,6 +4467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 911160,
+      "num": 483553,
+      "word": "Bin说三比零T1",
+      "onboard_time": 1716029057,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 910512,
       "num": 910512,
       "word": "三亚出现椰子狸尾巴比身长",
@@ -4601,6 +4641,14 @@
       "onboard_time": 1714991359,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 888685,
+      "num": 329497,
+      "word": "幼态审美盯上女生的牙齿",
+      "onboard_time": 1716034758,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 888455,
@@ -5721,6 +5769,14 @@
       "onboard_time": 1715661562,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 786737,
+      "num": 482167,
+      "word": "南阳一男童被狗咬伤离世调查结果公布",
+      "onboard_time": 1716036016,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 786104,
@@ -7003,14 +7059,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 688078,
-      "num": 688078,
-      "word": "向12岁女孩要裸照男大学生已被刑拘",
-      "onboard_time": 1716033738,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 687591,
       "num": 639452,
       "word": "庆余年",
@@ -7532,7 +7580,7 @@
     },
     {
       "raw_hot": 660640,
-      "num": 274137,
+      "num": 326218,
       "word": "瘦30斤五官的变化",
       "onboard_time": 1716030437,
       "rank": 26,
@@ -8844,7 +8892,7 @@
     },
     {
       "raw_hot": 596900,
-      "num": 481929,
+      "num": 580965,
       "word": "关晓彤陈赫 破碎的妹无助的哥",
       "onboard_time": 1716032538,
       "rank": 6,
@@ -9401,14 +9449,6 @@
       "onboard_time": 1715569818,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 563552,
-      "num": 563552,
-      "word": "BLG战胜T1",
-      "onboard_time": 1715507299,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 562586,
@@ -10156,7 +10196,7 @@
     },
     {
       "raw_hot": 533651,
-      "num": 215619,
+      "num": 301461,
       "word": "不要低估了小孩子的聪明程度",
       "onboard_time": 1716032236,
       "rank": 21,
@@ -10745,6 +10785,14 @@
       "onboard_time": 1714693454,
       "rank": 15,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 508327,
+      "num": 508327,
+      "word": "结石姐歌手宣传大使",
+      "onboard_time": 1716035897,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 508270,
@@ -11451,14 +11499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 481051,
-      "num": 215521,
-      "word": "幼态审美盯上女生的牙齿",
-      "onboard_time": 1716034758,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480999,
       "num": 473734,
       "word": "专家称梅大高速坍塌前或有征兆",
@@ -11627,6 +11667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 476621,
+      "num": 476621,
+      "word": "五月天嘉宾陈绮贞",
+      "onboard_time": 1716036317,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 476385,
       "num": 476385,
       "word": "河大礼堂起火时疑有施工队在休息",
@@ -11769,6 +11817,14 @@
       "onboard_time": 1714546158,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 470229,
+      "num": 470229,
+      "word": "刘端端 庆2大家瘦了是因为太卷",
+      "onboard_time": 1716034637,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 470167,
@@ -13611,6 +13667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416687,
+      "num": 416687,
+      "word": "迪丽热巴深V白裙",
+      "onboard_time": 1716037158,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 416676,
       "num": 416676,
       "word": "杨幂认为红发是一种警告",
@@ -14340,7 +14404,7 @@
     },
     {
       "raw_hot": 400760,
-      "num": 299669,
+      "num": 307746,
       "word": "张杰现场",
       "onboard_time": 1716034698,
       "rank": 17,
@@ -15507,14 +15571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371116,
-      "num": 308259,
-      "word": "刘端端 庆2大家瘦了是因为太卷",
-      "onboard_time": 1716034637,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 371079,
       "num": 371079,
       "word": "刘谦回应春晚小尼牌没对上",
@@ -16561,14 +16617,6 @@
       "onboard_time": 1715834960,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 346339,
-      "num": 293854,
-      "word": "南阳一男童被狗咬伤离世调查结果公布",
-      "onboard_time": 1716036016,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346015,
@@ -17971,6 +18019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 315866,
+      "num": 315866,
+      "word": "范闲骂得声音好大好超前",
+      "onboard_time": 1716033257,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315508,
       "num": 315508,
       "word": "淄博八大局500米走半小时",
@@ -18177,14 +18233,6 @@
       "onboard_time": 1715447536,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 311781,
-      "num": 287003,
-      "word": "结石姐歌手宣传大使",
-      "onboard_time": 1716035897,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 311562,
@@ -18753,14 +18801,6 @@
       "onboard_time": 1714524856,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 299742,
-      "num": 292207,
-      "word": "范闲骂得声音好大好超前",
-      "onboard_time": 1716033257,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 299300,
@@ -20307,14 +20347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273727,
-      "num": 273727,
-      "word": "T1对战BLG",
-      "onboard_time": 1716023718,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 273568,
       "num": 273568,
       "word": "BLG对阵T1",
@@ -20993,6 +21025,14 @@
       "onboard_time": 1714488980,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264446,
+      "num": 264446,
+      "word": "95后亿万富豪被罚1.33亿元",
+      "onboard_time": 1716036198,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264424,
@@ -22539,6 +22579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244474,
+      "num": 244474,
+      "word": "警方回应知名主持人被曝私生活混乱",
+      "onboard_time": 1716037820,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244421,
       "num": 244421,
       "word": "五条悟 全球趋势第一",
@@ -23345,6 +23393,14 @@
       "onboard_time": 1715396181,
       "rank": 30,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 234211,
+      "num": 234211,
+      "word": "雷军回应歌手摇人榜排第一",
+      "onboard_time": 1716036978,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 234168,
@@ -27811,6 +27867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200659,
+      "num": 200659,
+      "word": "BLG对战T1决胜局",
+      "onboard_time": 1716035537,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200657,
       "num": 200657,
       "word": "新闻女王",
@@ -29099,14 +29163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194797,
-      "num": 194797,
-      "word": "五月天嘉宾陈绮贞",
-      "onboard_time": 1716036317,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 194775,
       "num": 194775,
       "word": "蓝羽易烊千玺CHC影迷电影频道宣传片",
@@ -29129,6 +29185,14 @@
       "onboard_time": 1715749759,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194653,
+      "num": 194653,
+      "word": "Cat现场施压",
+      "onboard_time": 1716037279,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 194631,
@@ -32105,6 +32169,14 @@
       "onboard_time": 1715827998,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179773,
+      "num": 179773,
+      "word": "钟意一分镜",
+      "onboard_time": 1716038117,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 179755,
@@ -38321,14 +38393,6 @@
       "onboard_time": 1714993158,
       "rank": 39,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 146674,
-      "num": 146674,
-      "word": "BLG对战T1决胜局",
-      "onboard_time": 1716035537,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 146591,
@@ -45163,14 +45227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106772,
-      "num": 127191,
-      "word": "95后亿万富豪被罚1.33亿元",
-      "onboard_time": 1716036198,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106765,
       "num": 106765,
       "word": "周星驰阿信合照",
@@ -46588,7 +46644,7 @@
     },
     {
       "raw_hot": 90225,
-      "num": 975998,
+      "num": 1045190,
       "word": "文化中国行看博物馆之宝",
       "onboard_time": 1715931378,
       "rank": 27,
@@ -48803,6 +48859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47560,
+      "num": 489892,
+      "word": "女子地铁发病僵直摔倒场面惊心",
+      "onboard_time": 1716036618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47542,
       "num": 47542,
       "word": "新生第九集",
@@ -49801,6 +49865,14 @@
       "onboard_time": 1715660121,
       "rank": 49,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 24011,
+      "num": 434590,
+      "word": "李雪琴领到天猫618红包",
+      "onboard_time": 1716037218,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23732,
