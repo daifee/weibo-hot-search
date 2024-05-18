@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1716010456769,
+  "endTime": 1716013397400,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 938300,
+      "num": 1233679,
+      "word": "浙江一2岁宝宝得梅毒",
+      "onboard_time": 1716008719,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 923010,
       "num": 538963,
       "word": "那英 这一辈子没选错职业",
@@ -225,14 +233,6 @@
       "onboard_time": 1715990597,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 709925,
-      "num": 1233679,
-      "word": "浙江一2岁宝宝得梅毒",
-      "onboard_time": 1716008719,
-      "rank": 30,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 704979,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 544897,
+      "num": 250390,
+      "word": "庆帝 反派",
+      "onboard_time": 1716011057,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 508458,
       "num": 401320,
       "word": "结石姐要来中国开巡演",
@@ -361,6 +369,14 @@
       "onboard_time": 1716005178,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 490342,
+      "num": 490342,
+      "word": "专家称新政后1000万房子首付仅需150万",
+      "onboard_time": 1716008059,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483503,
@@ -515,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371373,
+      "num": 200285,
+      "word": "陈赫录节目血栓甲状腺全通了",
+      "onboard_time": 1716013097,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364310,
       "num": 276869,
       "word": "张若昀的台词从牙缝里挤出来",
@@ -553,6 +577,14 @@
       "onboard_time": 1715989937,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 342762,
+      "num": 135320,
+      "word": "十个勤天 虾虾虾",
+      "onboard_time": 1716011297,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 340152,
@@ -739,6 +771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249589,
+      "num": 127217,
+      "word": "她们孕期离婚选择独自成为母亲",
+      "onboard_time": 1716012739,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245029,
       "num": 245029,
       "word": "男孩想念去世妈妈给二姨打视频电话",
@@ -819,14 +859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 215515,
-      "num": 215515,
-      "word": "专家称新政后1000万房子首付仅需150万",
-      "onboard_time": 1716008059,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214829,
       "num": 214829,
       "word": "女生一定要学会投资自己",
@@ -851,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211760,
+      "num": 127165,
+      "word": "范闲 这下吃到甄嬛的苦了",
+      "onboard_time": 1716012857,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211156,
       "num": 200236,
       "word": "雷军宣布小米SU7Pro提前交付",
@@ -865,6 +905,14 @@
       "onboard_time": 1716005178,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203529,
+      "num": 127105,
+      "word": "陈昊宇唱歌",
+      "onboard_time": 1716013157,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 200227,
@@ -987,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174601,
+      "num": 127020,
+      "word": "蔡徐坤小香风",
+      "onboard_time": 1716013279,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173327,
       "num": 265023,
       "word": "每周饿2天可减轻脂肪肝",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1716003498,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168277,
+      "num": 126843,
+      "word": "陈钰琪赴山海",
+      "onboard_time": 1716013038,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 167831,
@@ -1081,6 +1145,14 @@
       "onboard_time": 1716003498,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147435,
+      "num": 126807,
+      "word": "戚薇蔡文静给你的自由过了火",
+      "onboard_time": 1716011417,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 146006,
@@ -1331,6 +1403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85538,
+      "num": 126776,
+      "word": "你今年买银饰了吗",
+      "onboard_time": 1716012617,
+      "rank": 44,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 83762,
       "num": 122757,
       "word": "王鹤棣音综从嘻嘻到不嘻嘻",
@@ -1371,6 +1451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78478,
+      "num": 126658,
+      "word": "詹俊说利物浦的球迷是幸福的",
+      "onboard_time": 1716011956,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78468,
       "num": 152555,
       "word": "榴莲价格普降超3成",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1715959401,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68177,
+      "num": 126611,
+      "word": "好像发现了攀岩最适合的穿搭",
+      "onboard_time": 1716012918,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 66749,
@@ -1561,6 +1657,14 @@
       "onboard_time": 1715947217,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26536,
+      "num": 285041,
+      "word": "巩俐台前幕后",
+      "onboard_time": 1716011537,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 22860,

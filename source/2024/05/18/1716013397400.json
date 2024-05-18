@@ -1,0 +1,410 @@
+{
+  "runTime": 1716013397400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 804976,
+        "num": 804976,
+        "word": "霸王茶姬",
+        "onboard_time": 1716003618,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1054833,
+        "num": 800476,
+        "word": "汪苏泷 还不如让我走了呢",
+        "onboard_time": 1715989635,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81749,
+        "num": 710541,
+        "word": "博物致知",
+        "onboard_time": 1716003799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964256,
+        "num": 643407,
+        "word": "赵丽颖 只有一件事情能够令人兴奋",
+        "onboard_time": 1716009078,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 938300,
+        "num": 500587,
+        "word": "浙江一2岁宝宝得梅毒",
+        "onboard_time": 1716008719,
+        "rank": 4,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 490342,
+        "num": 490342,
+        "word": "专家称新政后1000万房子首付仅需150万",
+        "onboard_time": 1716008059,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916028,
+        "num": 469281,
+        "word": "杨丞琳淘汰后李莎旻子的发言",
+        "onboard_time": 1716002059,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 897577,
+        "num": 433705,
+        "word": "汪苏泷 你不是真的心疼我",
+        "onboard_time": 1716008659,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365738,
+        "num": 365738,
+        "word": "iPhone17后置摄像头或移至顶部中心",
+        "onboard_time": 1716005777,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63247,
+        "num": 358187,
+        "word": "朝鲜族院长跳火回族老师编的蒙古舞",
+        "onboard_time": 1716007758,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 887976,
+        "num": 312904,
+        "word": "邓超通通取关",
+        "onboard_time": 1716007099,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26536,
+        "num": 285041,
+        "word": "巩俐台前幕后",
+        "onboard_time": 1716011537,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 544897,
+        "num": 250390,
+        "word": "庆帝 反派",
+        "onboard_time": 1716011057,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434516,
+        "num": 246828,
+        "word": "歌手 小孩姐",
+        "onboard_time": 1716005718,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371373,
+        "num": 200285,
+        "word": "陈赫录节目血栓甲状腺全通了",
+        "onboard_time": 1716013097,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191255,
+        "num": 191255,
+        "word": "突然发现吃饭是很私密的事",
+        "onboard_time": 1715992639,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188350,
+        "num": 188350,
+        "word": "妇科医生谈鸭嘴钳",
+        "onboard_time": 1715995939,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174792,
+        "num": 174792,
+        "word": "山东事业编",
+        "onboard_time": 1716009378,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157647,
+        "num": 157647,
+        "word": "张雪峰再捐款150万",
+        "onboard_time": 1716005059,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144026,
+        "num": 144026,
+        "word": "夫妻离婚拒养患抑郁症女儿被判不准离",
+        "onboard_time": 1715998816,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334134,
+        "num": 141826,
+        "word": "庆余年 这不是家宴是血淋淋的祭台",
+        "onboard_time": 1716005178,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 647294,
+        "num": 140389,
+        "word": "男子嫖娼被抓妻子选择原谅回家养牛",
+        "onboard_time": 1716000077,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497722,
+        "num": 137558,
+        "word": "37岁男子娶19岁越南新娘",
+        "onboard_time": 1716006257,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342762,
+        "num": 135320,
+        "word": "十个勤天 虾虾虾",
+        "onboard_time": 1716011297,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324287,
+        "num": 132278,
+        "word": "刘卓回应那英乐队失误质疑",
+        "onboard_time": 1716008839,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296316,
+        "num": 130068,
+        "word": "歌手2024第一爆",
+        "onboard_time": 1715992038,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294739,
+        "num": 128329,
+        "word": "杨幂 戛纳",
+        "onboard_time": 1715990117,
+        "rank": 26,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 127273,
+        "num": 127273,
+        "word": "成都爆改MSI之都",
+        "onboard_time": 1716009020,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278764,
+        "num": 127263,
+        "word": "邓超还没关注张远就取关了",
+        "onboard_time": 1716006979,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249589,
+        "num": 127217,
+        "word": "她们孕期离婚选择独自成为母亲",
+        "onboard_time": 1716012739,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270502,
+        "num": 127197,
+        "word": "赴山海女主是娜扎",
+        "onboard_time": 1716006858,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211760,
+        "num": 127165,
+        "word": "范闲 这下吃到甄嬛的苦了",
+        "onboard_time": 1716012857,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207755,
+        "num": 127142,
+        "word": "张玮老婆",
+        "onboard_time": 1716005538,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203529,
+        "num": 127105,
+        "word": "陈昊宇唱歌",
+        "onboard_time": 1716013157,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116363,
+        "num": 127060,
+        "word": "胸口刺痛几秒是猝死信号吗",
+        "onboard_time": 1716003498,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189193,
+        "num": 127035,
+        "word": "陈绮贞 鸟巢",
+        "onboard_time": 1716009259,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174601,
+        "num": 127020,
+        "word": "蔡徐坤小香风",
+        "onboard_time": 1716013279,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96220,
+        "num": 126986,
+        "word": "武契奇收到死亡威胁",
+        "onboard_time": 1716002539,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 90768,
+        "num": 126947,
+        "word": "一辈子抠抠搜搜地花了很多钱",
+        "onboard_time": 1716003498,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89672,
+        "num": 126911,
+        "word": "初会",
+        "onboard_time": 1715999657,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166926,
+        "num": 126874,
+        "word": "亚当直播回应参加歌手",
+        "onboard_time": 1716004998,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168277,
+        "num": 126843,
+        "word": "陈钰琪赴山海",
+        "onboard_time": 1716013038,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159094,
+        "num": 126825,
+        "word": "张若昀的台词从牙缝里挤出来",
+        "onboard_time": 1716000498,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147435,
+        "num": 126807,
+        "word": "戚薇蔡文静给你的自由过了火",
+        "onboard_time": 1716011417,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85538,
+        "num": 126776,
+        "word": "你今年买银饰了吗",
+        "onboard_time": 1716012617,
+        "rank": 44,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 83809,
+        "num": 126736,
+        "word": "为什么肝癌一发现多是晚期",
+        "onboard_time": 1715999597,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81661,
+        "num": 126706,
+        "word": "恋与深空",
+        "onboard_time": 1716008239,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78478,
+        "num": 126658,
+        "word": "詹俊说利物浦的球迷是幸福的",
+        "onboard_time": 1716011956,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68375,
+        "num": 126646,
+        "word": "三亚机场回应航班不开空调",
+        "onboard_time": 1716000917,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68177,
+        "num": 126611,
+        "word": "好像发现了攀岩最适合的穿搭",
+        "onboard_time": 1716012918,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对旅游工作作出重要指示#"
+    }
+  }
+}

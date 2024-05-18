@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1716010456769,
+  "endTime": 1716013397400,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1747,6 +1747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 938300,
+      "num": 1233679,
+      "word": "浙江一2岁宝宝得梅毒",
+      "onboard_time": 1716008719,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 933403,
       "num": 933403,
       "word": "谭晶回应去歌手",
@@ -2657,14 +2665,6 @@
       "onboard_time": 1715481078,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 709925,
-      "num": 1233679,
-      "word": "浙江一2岁宝宝得梅毒",
-      "onboard_time": 1716008719,
-      "rank": 30,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 709403,
@@ -3859,6 +3859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544897,
+      "num": 250390,
+      "word": "庆帝 反派",
+      "onboard_time": 1716011057,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543501,
       "num": 543501,
       "word": "关晓彤鞠婧祎早期合照",
@@ -4433,6 +4441,14 @@
       "onboard_time": 1715613380,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490342,
+      "num": 490342,
+      "word": "专家称新政后1000万房子首付仅需150万",
+      "onboard_time": 1716008059,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490071,
@@ -6043,6 +6059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371373,
+      "num": 200285,
+      "word": "陈赫录节目血栓甲状腺全通了",
+      "onboard_time": 1716013097,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371366,
       "num": 371366,
       "word": "吴艳妮回应夺冠",
@@ -6489,6 +6513,14 @@
       "onboard_time": 1715438600,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342762,
+      "num": 135320,
+      "word": "十个勤天 虾虾虾",
+      "onboard_time": 1716011297,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 342602,
@@ -8611,6 +8643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249589,
+      "num": 127217,
+      "word": "她们孕期离婚选择独自成为母亲",
+      "onboard_time": 1716012739,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249167,
       "num": 249167,
       "word": "背着善宰跑第12集",
@@ -9739,14 +9779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215515,
-      "num": 215515,
-      "word": "专家称新政后1000万房子首付仅需150万",
-      "onboard_time": 1716008059,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215468,
       "num": 183154,
       "word": "那英说文俊辉太能撒谎了",
@@ -9953,6 +9985,14 @@
       "onboard_time": 1715993058,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211760,
+      "num": 127165,
+      "word": "范闲 这下吃到甄嬛的苦了",
+      "onboard_time": 1716012857,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 211561,
@@ -10433,6 +10473,14 @@
       "onboard_time": 1715671338,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 203529,
+      "num": 127105,
+      "word": "陈昊宇唱歌",
+      "onboard_time": 1716013157,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 203223,
@@ -12523,6 +12571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174601,
+      "num": 127020,
+      "word": "蔡徐坤小香风",
+      "onboard_time": 1716013279,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174565,
       "num": 174565,
       "word": "张凌赫早期照片",
@@ -12929,6 +12985,14 @@
       "onboard_time": 1715662881,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168277,
+      "num": 126843,
+      "word": "陈钰琪赴山海",
+      "onboard_time": 1716013038,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 168247,
@@ -14169,6 +14233,14 @@
       "onboard_time": 1715435481,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147435,
+      "num": 126807,
+      "word": "戚薇蔡文静给你的自由过了火",
+      "onboard_time": 1716011417,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 147348,
@@ -17115,6 +17187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85538,
+      "num": 126776,
+      "word": "你今年买银饰了吗",
+      "onboard_time": 1716012617,
+      "rank": 44,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 85523,
       "num": 83577,
       "word": "陆虎在机场捡了个活儿",
@@ -17291,6 +17371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78478,
+      "num": 126658,
+      "word": "詹俊说利物浦的球迷是幸福的",
+      "onboard_time": 1716011956,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78468,
       "num": 152555,
       "word": "榴莲价格普降超3成",
@@ -17465,6 +17553,14 @@
       "onboard_time": 1715533874,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68177,
+      "num": 126611,
+      "word": "好像发现了攀岩最适合的穿搭",
+      "onboard_time": 1716012918,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 66143,
@@ -18321,6 +18417,14 @@
       "onboard_time": 1715716811,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26536,
+      "num": 285041,
+      "word": "巩俐台前幕后",
+      "onboard_time": 1716011537,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 26244,
