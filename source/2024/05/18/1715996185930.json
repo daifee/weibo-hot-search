@@ -1,0 +1,410 @@
+{
+  "runTime": 1715996185930,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2833011,
+        "num": 2833011,
+        "word": "汪苏泷 还不如让我走了呢",
+        "onboard_time": 1715989635,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351330,
+        "num": 351330,
+        "word": "路边茶叶店五金店没人去为啥还不倒闭",
+        "onboard_time": 1715992098,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43439,
+        "num": 343139,
+        "word": "盘点中国知名体育博物馆",
+        "onboard_time": 1715954554,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1293507,
+        "num": 342894,
+        "word": "歌手2024第一爆",
+        "onboard_time": 1715992038,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721159,
+        "num": 342272,
+        "word": "女子建议车厢厕所改成女播音员",
+        "onboard_time": 1715990597,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340739,
+        "num": 340739,
+        "word": "妈妈被问了五次才想起来自己就是自己",
+        "onboard_time": 1715988014,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065634,
+        "num": 313102,
+        "word": "杨丞琳回应淘汰",
+        "onboard_time": 1715988076,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712701,
+        "num": 281446,
+        "word": "杨幂 戛纳",
+        "onboard_time": 1715990117,
+        "rank": 7,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 220360,
+        "num": 220360,
+        "word": "如何看待能在床上躺一天的舍友",
+        "onboard_time": 1715956766,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214829,
+        "num": 214829,
+        "word": "女生一定要学会投资自己",
+        "onboard_time": 1715992758,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 687424,
+        "num": 214403,
+        "word": "王力宏回应去歌手",
+        "onboard_time": 1715989216,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571369,
+        "num": 213994,
+        "word": "英子守不住了",
+        "onboard_time": 1715958623,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556078,
+        "num": 212996,
+        "word": "那英 保四争三",
+        "onboard_time": 1715993717,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553449,
+        "num": 211917,
+        "word": "庆余年歌手收视率",
+        "onboard_time": 1715992398,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211820,
+        "num": 211820,
+        "word": "中国女排1比3加拿大女排",
+        "onboard_time": 1715987715,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283298,
+        "num": 211810,
+        "word": "机构回应女生考研政治97分被疑造假",
+        "onboard_time": 1715991318,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 211760,
+        "num": 211760,
+        "word": "海关查获120张Switch游戏卡",
+        "onboard_time": 1715989937,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208082,
+        "num": 208082,
+        "word": "男孩想念去世妈妈给二姨打视频电话",
+        "onboard_time": 1715988555,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180586,
+        "num": 180586,
+        "word": "大学生毕设把电价打下来了",
+        "onboard_time": 1715990956,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152171,
+        "num": 152171,
+        "word": "连云港",
+        "onboard_time": 1715960300,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455264,
+        "num": 151806,
+        "word": "亚当真来歌手了",
+        "onboard_time": 1715956647,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404954,
+        "num": 151143,
+        "word": "鹿晗状态回春",
+        "onboard_time": 1715992758,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361624,
+        "num": 150856,
+        "word": "中岛美嘉 歌手",
+        "onboard_time": 1715991618,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314690,
+        "num": 150276,
+        "word": "两个人合不合适吃顿饭就知道",
+        "onboard_time": 1715993958,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295596,
+        "num": 149540,
+        "word": "范闲断脐而生",
+        "onboard_time": 1715990717,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282019,
+        "num": 148786,
+        "word": "汪苏泷 表现",
+        "onboard_time": 1715956409,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280724,
+        "num": 148369,
+        "word": "男朋友在和别的女生打电话吗",
+        "onboard_time": 1715989937,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263221,
+        "num": 147444,
+        "word": "那英吗 田震吧",
+        "onboard_time": 1715954426,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256182,
+        "num": 147094,
+        "word": "付辛博 大皇子",
+        "onboard_time": 1715995758,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170408,
+        "num": 145945,
+        "word": "突然发现吃饭是很私密的事",
+        "onboard_time": 1715992639,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274593,
+        "num": 145493,
+        "word": "妇科医生谈鸭嘴钳",
+        "onboard_time": 1715995939,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 234118,
+        "num": 145135,
+        "word": "歌手直播",
+        "onboard_time": 1715945897,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221801,
+        "num": 144440,
+        "word": "杨丞琳 开口跑调",
+        "onboard_time": 1715953343,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220307,
+        "num": 143833,
+        "word": "小鬼 本人成年了请叫我帅哥",
+        "onboard_time": 1715993538,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143419,
+        "num": 143419,
+        "word": "雷军直播",
+        "onboard_time": 1715995699,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217156,
+        "num": 142898,
+        "word": "肖战工作室发了两个肖战",
+        "onboard_time": 1715987534,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203238,
+        "num": 140784,
+        "word": "歌手排名",
+        "onboard_time": 1715954789,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196807,
+        "num": 140568,
+        "word": "成毅连发11条微博",
+        "onboard_time": 1715993058,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130340,
+        "num": 130340,
+        "word": "30岁小伙被裁岳母和女儿在门口迎接",
+        "onboard_time": 1715987474,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127578,
+        "num": 127578,
+        "word": "和很好的相亲对象说了再见",
+        "onboard_time": 1715993598,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170543,
+        "num": 127410,
+        "word": "谢娜曾反对张杰第一个逆战",
+        "onboard_time": 1715995038,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166921,
+        "num": 120402,
+        "word": "胡海泉自己上吧",
+        "onboard_time": 1715994199,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166905,
+        "num": 118406,
+        "word": "周杰伦唱了倒带",
+        "onboard_time": 1715957604,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109870,
+        "num": 109870,
+        "word": "不吃晚饭和每餐七分饱哪个减肥效果好",
+        "onboard_time": 1715987474,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186655,
+        "num": 107801,
+        "word": "汪苏泷 我祝他成功",
+        "onboard_time": 1715954126,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104988,
+        "num": 104988,
+        "word": "男童母亲称要看到照片才相信狗已被打死",
+        "onboard_time": 1715956948,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101824,
+        "num": 101824,
+        "word": "每周饿2天可减轻脂肪肝",
+        "onboard_time": 1715956409,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92076,
+        "num": 101630,
+        "word": "频繁塞牙是牙齿发出的警报",
+        "onboard_time": 1715973192,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84171,
+        "num": 101257,
+        "word": "不是哥们你娶的宋小宝啊",
+        "onboard_time": 1715959584,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79201,
+        "num": 101183,
+        "word": "有一个不健康的习惯叫穷思竭虑",
+        "onboard_time": 1715992517,
+        "rank": 49,
+        "category": "情感,其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首北京会晤看点#"
+    }
+  }
+}
