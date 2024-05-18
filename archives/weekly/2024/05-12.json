@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1716045593476,
+  "endTime": 1716046465833,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -5627,6 +5627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424113,
+      "num": 424113,
+      "word": "毛晓彤庆余年2奶凶奶凶的",
+      "onboard_time": 1716040760,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 423691,
       "num": 423691,
       "word": "晚霞",
@@ -5649,6 +5657,14 @@
       "onboard_time": 1715571380,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421696,
+      "num": 421696,
+      "word": "向鱼感谢女朋友",
+      "onboard_time": 1716044838,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 421230,
@@ -6115,14 +6131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 398944,
-      "num": 398944,
-      "word": "毛晓彤庆余年2奶凶奶凶的",
-      "onboard_time": 1716040760,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 398939,
       "num": 398939,
       "word": "广州消防通报一批发市场发生火灾",
@@ -6393,6 +6401,14 @@
       "onboard_time": 1715676560,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381723,
+      "num": 381723,
+      "word": "老林哭了",
+      "onboard_time": 1716044718,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 381512,
@@ -6729,14 +6745,6 @@
       "onboard_time": 1715925079,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 357028,
-      "num": 357028,
-      "word": "老林哭了",
-      "onboard_time": 1716044718,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 356901,
@@ -7121,6 +7129,14 @@
       "onboard_time": 1715903297,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335866,
+      "num": 292487,
+      "word": "中年人的婚外情为何不会通往离婚",
+      "onboard_time": 1716042201,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 335088,
@@ -7531,14 +7547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 315770,
-      "num": 292487,
-      "word": "中年人的婚外情为何不会通往离婚",
-      "onboard_time": 1716042201,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 315193,
       "num": 315193,
       "word": "100块钱九道菜三碗面",
@@ -7625,14 +7633,6 @@
       "onboard_time": 1715447536,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 311591,
-      "num": 311591,
-      "word": "向鱼感谢女朋友",
-      "onboard_time": 1716044838,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 311309,
@@ -8963,6 +8963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258335,
+      "num": 237777,
+      "word": "三胞胎兄弟居然有胎内记忆",
+      "onboard_time": 1716044360,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258299,
       "num": 224301,
       "word": "刘诗诗业内口碑",
@@ -9225,6 +9233,14 @@
       "onboard_time": 1715594238,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251167,
+      "num": 251167,
+      "word": "十个勤天真把我们当自己人",
+      "onboard_time": 1716043759,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 250942,
@@ -10067,14 +10083,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 224721,
-      "num": 224721,
-      "word": "十个勤天真把我们当自己人",
-      "onboard_time": 1716043759,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224700,
       "num": 224700,
       "word": "新华社专访普京",
@@ -10281,6 +10289,14 @@
       "onboard_time": 1715588239,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219971,
+      "num": 219971,
+      "word": "李宇春 你是如此难以忘记",
+      "onboard_time": 1716045978,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 219782,
@@ -10600,14 +10616,6 @@
       "word": "国家一级博物馆最全名单",
       "onboard_time": 1715586979,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213750,
-      "num": 225442,
-      "word": "三胞胎兄弟居然有胎内记忆",
-      "onboard_time": 1716044360,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -11617,6 +11625,14 @@
       "onboard_time": 1715590879,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199962,
+      "num": 199962,
+      "word": "lovecd冠军教练",
+      "onboard_time": 1716045799,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 199869,
@@ -15363,6 +15379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 147955,
+      "num": 147955,
+      "word": "赵露思带粉丝China",
+      "onboard_time": 1716046399,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147901,
       "num": 147901,
       "word": "魏如萱也想去歌手",
@@ -15721,6 +15745,14 @@
       "onboard_time": 1715751677,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142311,
+      "num": 145786,
+      "word": "罗伊斯主场谢幕战破门",
+      "onboard_time": 1716045738,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 142198,
@@ -18891,6 +18923,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 70019,
+      "num": 424856,
+      "word": "5000年前老祖宗就拿捏了粘土特效",
+      "onboard_time": 1716045679,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69278,
       "num": 383888,
       "word": "88岁医生成为大体老师重回母校",
@@ -20083,6 +20123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 16081,
+      "num": 156205,
+      "word": "最会咕自己的人出现了",
+      "onboard_time": 1716045080,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16050,
       "num": 21202,
       "word": "眼皮跳可能是面肌痉挛的表现",
@@ -20177,14 +20225,6 @@
       "onboard_time": 1715629091,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12611,
-      "num": 156205,
-      "word": "最会咕自己的人出现了",
-      "onboard_time": 1716045080,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 12494,
