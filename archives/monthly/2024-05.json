@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716049306339,
+  "endTime": 1716050162281,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -8915,6 +8915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600073,
+      "num": 600073,
+      "word": "elk吐了",
+      "onboard_time": 1716046637,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 599179,
       "num": 599179,
       "word": "官方通报摊贩6两蓝莓当1斤卖称都这样",
@@ -10217,14 +10225,6 @@
       "onboard_time": 1715045478,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 536972,
-      "num": 536972,
-      "word": "elk吐了",
-      "onboard_time": 1716046637,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 536076,
@@ -13411,6 +13411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 425842,
+      "num": 425842,
+      "word": "老林哭了",
+      "onboard_time": 1716044718,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 425780,
       "num": 425780,
       "word": "姆巴佩宣布离队",
@@ -14961,14 +14969,6 @@
       "onboard_time": 1715485818,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388465,
-      "num": 388465,
-      "word": "老林哭了",
-      "onboard_time": 1716044718,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 388367,
@@ -17123,6 +17123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 336914,
+      "num": 336914,
+      "word": "AG",
+      "onboard_time": 1716049157,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 336495,
       "num": 336495,
       "word": "福宝逐步适应群体生活",
@@ -17632,6 +17640,14 @@
       "word": "张婧仪素颜",
       "onboard_time": 1714546579,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 327900,
+      "num": 179458,
+      "word": "赵露思带粉丝China",
+      "onboard_time": 1716046399,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -18577,14 +18593,6 @@
       "onboard_time": 1715176341,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306699,
-      "num": 179458,
-      "word": "赵露思带粉丝China",
-      "onboard_time": 1716046399,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 306518,
@@ -24843,6 +24851,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 221012,
+      "num": 221012,
+      "word": "庆余年太子给打工人一些震撼",
+      "onboard_time": 1716045258,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220922,
       "num": 220922,
       "word": "Jennie素颜vs化妆",
@@ -24889,14 +24905,6 @@
       "onboard_time": 1715731157,
       "rank": 27,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 220635,
-      "num": 220635,
-      "word": "庆余年太子给打工人一些震撼",
-      "onboard_time": 1716045258,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 220553,
@@ -35339,6 +35347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164743,
+      "num": 164743,
+      "word": "krd",
+      "onboard_time": 1716048557,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164734,
       "num": 164734,
       "word": "新款iPad被吐槽涨价降配",
@@ -35929,6 +35945,14 @@
       "onboard_time": 1715078958,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 161947,
+      "num": 161947,
+      "word": "周杰伦福州演唱会带来泼天富贵",
+      "onboard_time": 1716049876,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 161845,
@@ -38601,14 +38625,6 @@
       "onboard_time": 1714560258,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147514,
-      "num": 147514,
-      "word": "AG",
-      "onboard_time": 1716049157,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 147501,
@@ -41379,6 +41395,14 @@
       "category": "科学科普,情感"
     },
     {
+      "raw_hot": 133336,
+      "num": 165209,
+      "word": "李娟为什么是李娟",
+      "onboard_time": 1716048199,
+      "rank": 29,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "新款iPadPro仍不支持息屏常显",
@@ -41441,14 +41465,6 @@
       "onboard_time": 1715339298,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132958,
-      "num": 132958,
-      "word": "krd",
-      "onboard_time": 1716048557,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 132930,
@@ -41689,14 +41705,6 @@
       "onboard_time": 1715823557,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131756,
-      "num": 165209,
-      "word": "李娟为什么是李娟",
-      "onboard_time": 1716048199,
-      "rank": 29,
-      "category": "读书作家"
     },
     {
       "raw_hot": 131735,

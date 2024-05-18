@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716049306339,
+  "endTime": 1716050162281,
   "band_list": [
     {
       "raw_hot": 865357,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536972,
-      "num": 536972,
+      "raw_hot": 600073,
+      "num": 600073,
       "word": "elk吐了",
       "onboard_time": 1716046637,
       "rank": 4,
@@ -49,6 +49,14 @@
       "onboard_time": 1716042319,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 425842,
+      "num": 425842,
+      "word": "老林哭了",
+      "onboard_time": 1716044718,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 417519,
@@ -67,16 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 388465,
-      "num": 388465,
-      "word": "老林哭了",
-      "onboard_time": 1716044718,
-      "rank": 10,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 370837,
-      "num": 391491,
+      "raw_hot": 400580,
+      "num": 400580,
       "word": "向12岁女孩要裸照男大学生已被刑拘",
       "onboard_time": 1716033738,
       "rank": 8,
@@ -99,20 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336914,
+      "num": 336914,
+      "word": "AG",
+      "onboard_time": 1716049157,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 327900,
+      "num": 179458,
+      "word": "赵露思带粉丝China",
+      "onboard_time": 1716046399,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321175,
       "num": 321175,
       "word": "歌手第三期网传歌单",
       "onboard_time": 1716039800,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306699,
-      "num": 179458,
-      "word": "赵露思带粉丝China",
-      "onboard_time": 1716046399,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 278948,
@@ -147,8 +155,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 220635,
-      "num": 220635,
+      "raw_hot": 221012,
+      "num": 221012,
       "word": "庆余年太子给打工人一些震撼",
       "onboard_time": 1716045258,
       "rank": 16,
@@ -219,12 +227,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 164743,
+      "num": 164743,
+      "word": "krd",
+      "onboard_time": 1716048557,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164491,
       "num": 164491,
       "word": "神bin天降",
       "onboard_time": 1716037400,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161947,
+      "num": 161947,
+      "word": "周杰伦福州演唱会带来泼天富贵",
+      "onboard_time": 1716049876,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 158135,
@@ -267,14 +291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147514,
-      "num": 147514,
-      "word": "AG",
-      "onboard_time": 1716049157,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 145053,
       "num": 145053,
       "word": "十个勤天真把我们当自己人",
@@ -299,12 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132958,
-      "num": 132958,
-      "word": "krd",
-      "onboard_time": 1716048557,
-      "rank": 40,
-      "category": "电竞"
+      "raw_hot": 133336,
+      "num": 165209,
+      "word": "李娟为什么是李娟",
+      "onboard_time": 1716048199,
+      "rank": 29,
+      "category": "读书作家"
     },
     {
       "raw_hot": 131877,
@@ -313,14 +329,6 @@
       "onboard_time": 1716037158,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 131756,
-      "num": 165209,
-      "word": "李娟为什么是李娟",
-      "onboard_time": 1716048199,
-      "rank": 29,
-      "category": "读书作家"
     },
     {
       "raw_hot": 125010,
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59305,
+      "num": 91019,
+      "word": "巴黎奥运会火炬传递上演中国接力",
+      "onboard_time": 1716043699,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47124,
       "num": 389477,
       "word": "5000年前老祖宗就拿捏了粘土特效",
@@ -395,7 +411,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 6022,
+      "raw_hot": 6688,
       "num": 543266,
       "word": "文化中国行看博物馆之宝",
       "onboard_time": 1715931378,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#视频看习近平的绿色足迹#"
+    },
+    {
+      "word": "#习近平与普京在北京的一天#"
     }
   ]
 }
