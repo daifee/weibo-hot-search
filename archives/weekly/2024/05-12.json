@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1716038362195,
+  "endTime": 1716039249911,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2449832,
+      "num": 2449832,
+      "word": "神bin天降",
+      "onboard_time": 1716037400,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2448824,
       "num": 476773,
       "word": "那英 不在",
@@ -305,14 +313,6 @@
       "onboard_time": 1715905818,
       "rank": 0,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 2183555,
-      "num": 2183555,
-      "word": "神bin天降",
-      "onboard_time": 1716037400,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 2162287,
@@ -721,6 +721,14 @@
       "onboard_time": 1715757979,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1506763,
+      "num": 1506763,
+      "word": "BLG战胜T1",
+      "onboard_time": 1715507299,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 1485613,
@@ -1555,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1029295,
+      "num": 329497,
+      "word": "幼态审美盯上女生的牙齿",
+      "onboard_time": 1716034758,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1029263,
       "num": 363580,
       "word": "歌手有难八方来援",
@@ -1681,14 +1697,6 @@
       "onboard_time": 1715907198,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 980155,
-      "num": 980155,
-      "word": "BLG战胜T1",
-      "onboard_time": 1715507299,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 972569,
@@ -1948,7 +1956,7 @@
     },
     {
       "raw_hot": 911160,
-      "num": 483553,
+      "num": 503401,
       "word": "Bin说三比零T1",
       "onboard_time": 1716029057,
       "rank": 10,
@@ -2016,14 +2024,6 @@
       "word": "婆婆赠300万房产离婚时儿媳分60万",
       "onboard_time": 1715500758,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 888685,
-      "num": 329497,
-      "word": "幼态审美盯上女生的牙齿",
-      "onboard_time": 1716034758,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2396,7 +2396,7 @@
     },
     {
       "raw_hot": 786737,
-      "num": 482167,
+      "num": 503420,
       "word": "南阳一男童被狗咬伤离世调查结果公布",
       "onboard_time": 1716036016,
       "rank": 13,
@@ -4179,6 +4179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536431,
+      "num": 536431,
+      "word": "警方回应知名主持人被曝私生活混乱",
+      "onboard_time": 1716037820,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536073,
       "num": 365775,
       "word": "吴磊凌晨被老鼠赶出房间",
@@ -5115,6 +5123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459184,
+      "num": 459184,
+      "word": "迪丽热巴深V白裙",
+      "onboard_time": 1716037158,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 457595,
       "num": 457595,
       "word": "小米SU7交付量破万创纪录",
@@ -5633,14 +5649,6 @@
       "onboard_time": 1715675897,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416687,
-      "num": 416687,
-      "word": "迪丽热巴深V白裙",
-      "onboard_time": 1716037158,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 416047,
@@ -6939,6 +6947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341504,
+      "num": 315866,
+      "word": "范闲骂得声音好大好超前",
+      "onboard_time": 1716033257,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341503,
       "num": 341503,
       "word": "金曲奖",
@@ -7425,14 +7441,6 @@
       "onboard_time": 1716030677,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 315866,
-      "num": 315866,
-      "word": "范闲骂得声音好大好超前",
-      "onboard_time": 1716033257,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 315193,
@@ -8153,6 +8161,14 @@
       "onboard_time": 1715860456,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280814,
+      "num": 234211,
+      "word": "雷军回应歌手摇人榜排第一",
+      "onboard_time": 1716036978,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 280713,
@@ -9299,14 +9315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244474,
-      "num": 244474,
-      "word": "警方回应知名主持人被曝私生活混乱",
-      "onboard_time": 1716037820,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 244421,
       "num": 244421,
       "word": "五条悟 全球趋势第一",
@@ -9601,14 +9609,6 @@
       "onboard_time": 1715739197,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234211,
-      "num": 234211,
-      "word": "雷军回应歌手摇人榜排第一",
-      "onboard_time": 1716036978,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 234147,
@@ -10313,6 +10313,14 @@
       "onboard_time": 1715942597,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215584,
+      "num": 215584,
+      "word": "Cat现场施压",
+      "onboard_time": 1716037279,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 215468,
@@ -11075,6 +11083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202741,
+      "num": 202741,
+      "word": "BLG晋级MSI决赛",
+      "onboard_time": 1716038477,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202723,
       "num": 192989,
       "word": "朱一龙入围百花奖最佳男主角初评",
@@ -11169,6 +11185,14 @@
       "onboard_time": 1715921781,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202209,
+      "num": 202209,
+      "word": "Bin的青钢影",
+      "onboard_time": 1716038477,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 202208,
@@ -11825,14 +11849,6 @@
       "onboard_time": 1715749759,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194653,
-      "num": 194653,
-      "word": "Cat现场施压",
-      "onboard_time": 1716037279,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 194623,
@@ -13555,6 +13571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170792,
+      "num": 170792,
+      "word": "用了很久才知道隐藏功能破防了",
+      "onboard_time": 1716038779,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170782,
       "num": 170782,
       "word": "掘金3比2森林狼",
@@ -15075,6 +15099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147408,
+      "num": 147408,
+      "word": "BLG决赛对战GEN",
+      "onboard_time": 1716038897,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147348,
       "num": 147348,
       "word": "母亲节文案",
@@ -16243,6 +16275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129470,
+      "num": 129470,
+      "word": "吃榴莲后要注意多喝水",
+      "onboard_time": 1716038959,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129233,
       "num": 129233,
       "word": "lesserafim用舞蹈代替live",
@@ -17339,6 +17379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109058,
+      "num": 124363,
+      "word": "青岛西海岸半场1比3上海海港",
+      "onboard_time": 1716038779,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108931,
       "num": 116648,
       "word": "朋友的感情是流动的",
@@ -18084,7 +18132,7 @@
     },
     {
       "raw_hot": 90225,
-      "num": 1045190,
+      "num": 1253131,
       "word": "文化中国行看博物馆之宝",
       "onboard_time": 1715931378,
       "rank": 27,
@@ -18595,6 +18643,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 64426,
+      "num": 503499,
+      "word": "女子地铁发病僵直摔倒场面惊心",
+      "onboard_time": 1716036618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64293,
       "num": 897386,
       "word": "行进看中国",
@@ -19043,14 +19099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47560,
-      "num": 489892,
-      "word": "女子地铁发病僵直摔倒场面惊心",
-      "onboard_time": 1716036618,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47542,
       "num": 47542,
       "word": "新生第九集",
@@ -19419,6 +19467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 31111,
+      "num": 439901,
+      "word": "李雪琴领到天猫618红包",
+      "onboard_time": 1716037218,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30953,
       "num": 303939,
       "word": "逆天了智己L6创造麋鹿新纪录",
@@ -19521,14 +19577,6 @@
       "onboard_time": 1715660121,
       "rank": 49,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 24011,
-      "num": 434590,
-      "word": "李雪琴领到天猫618红包",
-      "onboard_time": 1716037218,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23732,

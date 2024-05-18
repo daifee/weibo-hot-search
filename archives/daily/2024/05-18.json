@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1716038362195,
+  "endTime": 1716039249911,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2183555,
-      "num": 2183555,
+      "raw_hot": 2449832,
+      "num": 2449832,
       "word": "神bin天降",
       "onboard_time": 1716037400,
       "rank": 0,
@@ -81,6 +81,14 @@
       "onboard_time": 1715945897,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1506763,
+      "num": 1506763,
+      "word": "BLG战胜T1",
+      "onboard_time": 1716038059,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 1455936,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1029295,
+      "num": 329497,
+      "word": "幼态审美盯上女生的牙齿",
+      "onboard_time": 1716034758,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1028709,
       "num": 1028709,
       "word": "T1对战BLG",
@@ -209,14 +225,6 @@
       "onboard_time": 1716007099,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 980155,
-      "num": 980155,
-      "word": "BLG战胜T1",
-      "onboard_time": 1716038059,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 972373,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 911160,
-      "num": 483553,
+      "num": 503401,
       "word": "Bin说三比零T1",
       "onboard_time": 1716029057,
       "rank": 10,
@@ -281,14 +289,6 @@
       "onboard_time": 1715961320,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 888685,
-      "num": 329497,
-      "word": "幼态审美盯上女生的牙齿",
-      "onboard_time": 1716034758,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 878246,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 786737,
-      "num": 482167,
+      "num": 503420,
       "word": "南阳一男童被狗咬伤离世调查结果公布",
       "onboard_time": 1716036016,
       "rank": 13,
@@ -579,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 536431,
+      "num": 536431,
+      "word": "警方回应知名主持人被曝私生活混乱",
+      "onboard_time": 1716037820,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533651,
       "num": 301461,
       "word": "不要低估了小孩子的聪明程度",
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459184,
+      "num": 459184,
+      "word": "迪丽热巴深V白裙",
+      "onboard_time": 1716037158,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 454678,
       "num": 263836,
       "word": "歌手大战庆余年",
@@ -833,14 +849,6 @@
       "onboard_time": 1715997078,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 416687,
-      "num": 416687,
-      "word": "迪丽热巴深V白裙",
-      "onboard_time": 1716037158,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 415388,
@@ -1003,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341504,
+      "num": 315866,
+      "word": "范闲骂得声音好大好超前",
+      "onboard_time": 1716033257,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340152,
       "num": 340152,
       "word": "张若昀 还可以更狂一点",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1716030677,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 315866,
-      "num": 315866,
-      "word": "范闲骂得声音好大好超前",
-      "onboard_time": 1716033257,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 314690,
@@ -1195,6 +1203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 280814,
+      "num": 234211,
+      "word": "雷军回应歌手摇人榜排第一",
+      "onboard_time": 1716036978,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280418,
       "num": 280418,
       "word": "男童母亲称要看到照片才相信狗已被打死",
@@ -1299,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244474,
-      "num": 244474,
-      "word": "警方回应知名主持人被曝私生活混乱",
-      "onboard_time": 1716037820,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243338,
       "num": 243338,
       "word": "王俊凯入围百花奖最佳男主角初评",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1716004758,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234211,
-      "num": 234211,
-      "word": "雷军回应歌手摇人榜排第一",
-      "onboard_time": 1716036978,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 233583,
@@ -1416,6 +1416,14 @@
       "word": "KPL",
       "onboard_time": 1716006138,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 215584,
+      "num": 215584,
+      "word": "Cat现场施压",
+      "onboard_time": 1716037279,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -1507,6 +1515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202741,
+      "num": 202741,
+      "word": "BLG晋级MSI决赛",
+      "onboard_time": 1716038477,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202723,
       "num": 192989,
       "word": "朱一龙入围百花奖最佳男主角初评",
@@ -1520,6 +1536,14 @@
       "word": "AG阵容",
       "onboard_time": 1716030317,
       "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 202209,
+      "num": 202209,
+      "word": "Bin的青钢影",
+      "onboard_time": 1716038477,
+      "rank": 33,
       "category": "电竞"
     },
     {
@@ -1592,14 +1616,6 @@
       "word": "MSI",
       "onboard_time": 1716023899,
       "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 194653,
-      "num": 194653,
-      "word": "Cat现场施压",
-      "onboard_time": 1716037279,
-      "rank": 31,
       "category": "电竞"
     },
     {
@@ -1851,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170792,
+      "num": 170792,
+      "word": "用了很久才知道隐藏功能破防了",
+      "onboard_time": 1716038779,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170652,
       "num": 170652,
       "word": "种地吧文旅专场直播",
@@ -2027,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147408,
+      "num": 147408,
+      "word": "BLG决赛对战GEN",
+      "onboard_time": 1716038897,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146885,
       "num": 146885,
       "word": "济南打雷",
@@ -2187,6 +2219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129470,
+      "num": 129470,
+      "word": "吃榴莲后要注意多喝水",
+      "onboard_time": 1716038959,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128972,
       "num": 262105,
       "word": "XG全员寸头",
@@ -2281,6 +2321,14 @@
       "onboard_time": 1715999478,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109058,
+      "num": 124363,
+      "word": "青岛西海岸半场1比3上海海港",
+      "onboard_time": 1716038779,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108018,
@@ -2547,6 +2595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64426,
+      "num": 503499,
+      "word": "女子地铁发病僵直摔倒场面惊心",
+      "onboard_time": 1716036618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63281,
       "num": 55048,
       "word": "耳帝怒赞那英挣脱",
@@ -2651,14 +2707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47560,
-      "num": 489892,
-      "word": "女子地铁发病僵直摔倒场面惊心",
-      "onboard_time": 1716036618,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46024,
       "num": 259161,
       "word": "弗格34分",
@@ -2747,20 +2795,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 31111,
+      "num": 439901,
+      "word": "李雪琴领到天猫618红包",
+      "onboard_time": 1716037218,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29779,
       "num": 114244,
       "word": "CBA总决赛",
       "onboard_time": 1715947217,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24011,
-      "num": 434590,
-      "word": "李雪琴领到天猫618红包",
-      "onboard_time": 1716037218,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22860,
@@ -2780,7 +2828,7 @@
     },
     {
       "raw_hot": 18920,
-      "num": 1045190,
+      "num": 1253131,
       "word": "文化中国行看博物馆之宝",
       "onboard_time": 1715931378,
       "rank": 2,
