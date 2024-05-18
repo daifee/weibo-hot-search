@@ -1,0 +1,410 @@
+{
+  "runTime": 1716017650689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1596803,
+        "num": 1596803,
+        "word": "十个勤天小卖铺",
+        "onboard_time": 1716015918,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 751355,
+        "num": 751355,
+        "word": "老板怒斥员工朝9晚6按时上下班",
+        "onboard_time": 1716014478,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86791,
+        "num": 727623,
+        "word": "博物致知",
+        "onboard_time": 1716003799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864947,
+        "num": 726956,
+        "word": "陈赫录节目血栓甲状腺全通了",
+        "onboard_time": 1716013097,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723225,
+        "num": 723225,
+        "word": "浙江一2岁宝宝得梅毒",
+        "onboard_time": 1716008719,
+        "rank": 4,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 695213,
+        "num": 695213,
+        "word": "普京拍拍肚子说烤鸭太香了再吃一块",
+        "onboard_time": 1716015558,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659338,
+        "num": 659338,
+        "word": "李沁暗示庆余年第三季",
+        "onboard_time": 1716014357,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 623387,
+        "num": 623387,
+        "word": "赵丽颖 只有一件事情能够令人兴奋",
+        "onboard_time": 1716009078,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281482,
+        "num": 281482,
+        "word": "霸王茶姬",
+        "onboard_time": 1716003618,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 262815,
+        "num": 262815,
+        "word": "专家称新政后1000万房子首付仅需150万",
+        "onboard_time": 1716008059,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606205,
+        "num": 262044,
+        "word": "种地吧",
+        "onboard_time": 1716016219,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594663,
+        "num": 260907,
+        "word": "汪苏泷 还不如让我走了呢",
+        "onboard_time": 1715989635,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594270,
+        "num": 258001,
+        "word": "蔡徐坤小香风",
+        "onboard_time": 1716013279,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71263,
+        "num": 257663,
+        "word": "朝鲜族院长回应与学生共跳蒙古舞走红",
+        "onboard_time": 1716013878,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373230,
+        "num": 255663,
+        "word": "普京首次公开俄军意图",
+        "onboard_time": 1716016157,
+        "rank": 14,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 328603,
+        "num": 253301,
+        "word": "留学生一份柿子汤吃7天",
+        "onboard_time": 1716014478,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 543450,
+        "num": 252489,
+        "word": "汪苏泷 你不是真的心疼我",
+        "onboard_time": 1716008659,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250888,
+        "num": 250888,
+        "word": "iPhone17后置摄像头或移至顶部中心",
+        "onboard_time": 1716005777,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182573,
+        "num": 182573,
+        "word": "市监局联合B太打假加油站",
+        "onboard_time": 1716015618,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52919,
+        "num": 182571,
+        "word": "广州塔由4A景区升级520景区",
+        "onboard_time": 1716015739,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564371,
+        "num": 182566,
+        "word": "男子嫖娼被抓妻子选择原谅回家养牛",
+        "onboard_time": 1716000077,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496803,
+        "num": 182561,
+        "word": "杨丞琳淘汰后李莎旻子的发言",
+        "onboard_time": 1716002059,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465446,
+        "num": 182556,
+        "word": "十个勤天直播",
+        "onboard_time": 1716007698,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137591,
+        "num": 182551,
+        "word": "山东事业编",
+        "onboard_time": 1716009378,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 456638,
+        "num": 182548,
+        "word": "庆帝 反派",
+        "onboard_time": 1716011057,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403791,
+        "num": 182541,
+        "word": "杨幂 戛纳",
+        "onboard_time": 1715990117,
+        "rank": 25,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 393416,
+        "num": 182539,
+        "word": "她们孕期离婚选择独自成为母亲",
+        "onboard_time": 1716012739,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330245,
+        "num": 182532,
+        "word": "37岁男子娶19岁越南新娘",
+        "onboard_time": 1716006257,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288234,
+        "num": 182530,
+        "word": "范闲 这下吃到甄嬛的苦了",
+        "onboard_time": 1716012857,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67936,
+        "num": 182521,
+        "word": "00后大学生带着妈妈弟弟一起上学",
+        "onboard_time": 1716016339,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 282774,
+        "num": 182517,
+        "word": "金饰价格一夜每克涨12元",
+        "onboard_time": 1716015140,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 244116,
+        "num": 182517,
+        "word": "邓超通通取关",
+        "onboard_time": 1716007099,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239948,
+        "num": 182510,
+        "word": "歌手来把胡彦斌抓走吧",
+        "onboard_time": 1716016278,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238009,
+        "num": 182503,
+        "word": "百花奖",
+        "onboard_time": 1716015618,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229626,
+        "num": 182503,
+        "word": "陈昊宇唱歌",
+        "onboard_time": 1716013157,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212265,
+        "num": 182497,
+        "word": "2岁宝宝疑因奶奶嚼碎喂食感染梅毒",
+        "onboard_time": 1716016578,
+        "rank": 35,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 193773,
+        "num": 182490,
+        "word": "歌手2024第一爆",
+        "onboard_time": 1715992038,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182489,
+        "num": 182489,
+        "word": "陈丽君小考",
+        "onboard_time": 1716016339,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170350,
+        "num": 170350,
+        "word": "李嘉格 因为我是一个歌手",
+        "onboard_time": 1716017119,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139138,
+        "num": 166132,
+        "word": "恋与深空满赠",
+        "onboard_time": 1716016518,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165252,
+        "num": 165252,
+        "word": "十个勤天 虾虾虾",
+        "onboard_time": 1716011297,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164915,
+        "num": 164915,
+        "word": "庆余年 这不是家宴是血淋淋的祭台",
+        "onboard_time": 1716005178,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165194,
+        "num": 161993,
+        "word": "成毅黄俊捷都演过张起灵",
+        "onboard_time": 1716017418,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158113,
+        "num": 158113,
+        "word": "歌手 小孩姐",
+        "onboard_time": 1716005718,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130516,
+        "num": 130516,
+        "word": "许凯胡子",
+        "onboard_time": 1716015379,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124412,
+        "num": 124412,
+        "word": "你今年买银饰了吗",
+        "onboard_time": 1716012617,
+        "rank": 45,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 116482,
+        "num": 116482,
+        "word": "狗阵",
+        "onboard_time": 1716017599,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107467,
+        "num": 107467,
+        "word": "陈绮贞 鸟巢",
+        "onboard_time": 1716009259,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99191,
+        "num": 99191,
+        "word": "突然发现吃饭是很私密的事",
+        "onboard_time": 1715992639,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92236,
+        "num": 99169,
+        "word": "罗小黑君清篇 流年",
+        "onboard_time": 1716017119,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对旅游工作作出重要指示#"
+    }
+  }
+}
