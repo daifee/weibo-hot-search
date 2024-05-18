@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716074274815,
+  "endTime": 1716075327772,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -9019,6 +9019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594418,
+      "num": 535813,
+      "word": "姑娘翻出一堆施华洛世奇后悔没买黄金",
+      "onboard_time": 1716051375,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594376,
       "num": 594376,
       "word": "微笑疑似退赛",
@@ -10241,14 +10249,6 @@
       "onboard_time": 1715587339,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535813,
-      "num": 535813,
-      "word": "姑娘翻出一堆施华洛世奇后悔没买黄金",
-      "onboard_time": 1716051375,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534794,
@@ -11883,6 +11883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 471517,
+      "num": 471517,
+      "word": "郭碧婷直播关美颜",
+      "onboard_time": 1716074474,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471485,
       "num": 471485,
       "word": "杨幂业内口碑",
@@ -12001,6 +12009,14 @@
       "onboard_time": 1714828100,
       "rank": 17,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 468115,
+      "num": 468115,
+      "word": "大同地震",
+      "onboard_time": 1716074415,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467108,
@@ -13947,6 +13963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 414173,
+      "num": 414173,
+      "word": "纽约中央公园偶遇网红凤姐",
+      "onboard_time": 1716052395,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 414013,
       "num": 315248,
       "word": "贾静雯回应缺席苏有朋演唱会",
@@ -15777,14 +15801,6 @@
       "onboard_time": 1715394259,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368993,
-      "num": 368993,
-      "word": "纽约中央公园偶遇网红凤姐",
-      "onboard_time": 1716052395,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 368613,
@@ -24387,6 +24403,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 226172,
+      "num": 122663,
+      "word": "散步是一种最被低估的运动",
+      "onboard_time": 1716051675,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 226103,
       "num": 226103,
       "word": "BLG战胜PSG",
@@ -27953,14 +27977,6 @@
       "onboard_time": 1714659859,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201432,
-      "num": 122663,
-      "word": "散步是一种最被低估的运动",
-      "onboard_time": 1716051675,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 201252,
@@ -38171,6 +38187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150118,
+      "num": 150118,
+      "word": "中国女排巴西站三胜收官",
+      "onboard_time": 1716074714,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150029,
       "num": 150029,
       "word": "杨幂特写哭戏镜头",
@@ -41059,6 +41083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135175,
+      "num": 135175,
+      "word": "种地吧第二届麦田音乐会",
+      "onboard_time": 1716074415,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135159,
       "num": 135159,
       "word": "落日8分钟效应",
@@ -42097,6 +42129,14 @@
       "onboard_time": 1715619135,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129834,
+      "num": 129834,
+      "word": "北京震感",
+      "onboard_time": 1716074834,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129788,
@@ -47611,6 +47651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81323,
+      "num": 81323,
+      "word": "长期戴眼镜会让眼睛变凸吗",
+      "onboard_time": 1716075255,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 81266,
       "num": 1133159,
       "word": "花开种花家",
@@ -47841,6 +47889,14 @@
       "onboard_time": 1715317521,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77661,
+      "num": 77661,
+      "word": "庆余年作者谈原著改编影视剧",
+      "onboard_time": 1716075195,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 77593,
@@ -48139,6 +48195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 71649,
+      "num": 71649,
+      "word": "张若昀看到霸霸嘴角比AK还难压",
+      "onboard_time": 1716070210,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71526,
       "num": 71526,
       "word": "被橘子洲600元的双向奔赴暖到了",
@@ -48323,6 +48387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68283,
+      "num": 68283,
+      "word": "雷军谈华为",
+      "onboard_time": 1716074474,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68177,
       "num": 126611,
       "word": "好像发现了攀岩最适合的穿搭",
@@ -48353,6 +48425,14 @@
       "onboard_time": 1714783937,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 67219,
+      "num": 67219,
+      "word": "范闲受委屈被王启年安慰",
+      "onboard_time": 1716072372,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 67060,
@@ -48851,6 +48931,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 57879,
+      "num": 57879,
+      "word": "汪苏泷机场状态",
+      "onboard_time": 1716058452,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57402,
       "num": 385288,
       "word": "音乐节防晒神穿搭",
@@ -49091,14 +49179,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 54710,
-      "num": 54710,
-      "word": "范闲受委屈被王启年安慰",
-      "onboard_time": 1716072372,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54649,
       "num": 263992,
       "word": "山东大馒头有自己的莫奈花园",
@@ -49249,22 +49329,6 @@
       "onboard_time": 1715382314,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51491,
-      "num": 51491,
-      "word": "汪苏泷机场状态",
-      "onboard_time": 1716058452,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 51171,
-      "num": 51171,
-      "word": "张若昀看到霸霸嘴角比AK还难压",
-      "onboard_time": 1716070210,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 50763,
@@ -49435,6 +49499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48421,
+      "num": 48421,
+      "word": "巨掉秤的减脂餐",
+      "onboard_time": 1716074535,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 48378,
       "num": 303263,
       "word": "男子地铁晕倒小伙跨车厢飞奔救援",
@@ -49459,6 +49531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47889,
+      "num": 47889,
+      "word": "郭有才被聘为菏泽文旅推荐官",
+      "onboard_time": 1716065591,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47542,
       "num": 47542,
       "word": "新生第九集",
@@ -49473,6 +49553,14 @@
       "onboard_time": 1715939540,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 47448,
+      "num": 47448,
+      "word": "12306回应高铁买靠窗座位没有窗",
+      "onboard_time": 1716075255,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47329,
@@ -49497,6 +49585,14 @@
       "onboard_time": 1715606599,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46445,
+      "num": 46445,
+      "word": "马嘉祺 歌手编外",
+      "onboard_time": 1716075014,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 46359,
@@ -49585,6 +49681,14 @@
       "onboard_time": 1715844259,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45301,
+      "num": 45301,
+      "word": "参加了一场只有一个人的婚礼",
+      "onboard_time": 1716074714,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 45249,
@@ -49707,6 +49811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43969,
+      "num": 43969,
+      "word": "鹿晗和张远两个人凑不出一个胆",
+      "onboard_time": 1716066491,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43848,
       "num": 116008,
       "word": "Rita要求姿态cos嫦娥",
@@ -49755,11 +49867,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42537,
-      "num": 42537,
-      "word": "郭有才被聘为菏泽文旅推荐官",
-      "onboard_time": 1716065591,
-      "rank": 30,
+      "raw_hot": 42643,
+      "num": 42643,
+      "word": "官方通报失联女老师遗体被找到",
+      "onboard_time": 1716075255,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -49835,6 +49947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41128,
+      "num": 41128,
+      "word": "上海你不要太超前",
+      "onboard_time": 1716074415,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 41059,
       "num": 250664,
       "word": "百年之后的西游记",
@@ -49865,14 +49985,6 @@
       "onboard_time": 1715184019,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40489,
-      "num": 34758,
-      "word": "鹿晗和张远两个人凑不出一个胆",
-      "onboard_time": 1716066491,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 40267,
@@ -50267,6 +50379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 30931,
+      "num": 466500,
+      "word": "首届全国职工马拉松",
+      "onboard_time": 1716040339,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30653,
       "num": 1285697,
       "word": "阔步迈向网络强国",
@@ -50515,14 +50635,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 23982,
-      "num": 386597,
-      "word": "首届全国职工马拉松",
-      "onboard_time": 1716040339,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23732,
       "num": 28351,
       "word": "张凌赫伦敦看秀",
@@ -50744,6 +50856,14 @@
       "word": "博主想用叶子换饭听障摊主写下我请你",
       "onboard_time": 1715879415,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19184,
+      "num": 90027,
+      "word": "用色卡的方式打开文物",
+      "onboard_time": 1716075134,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
