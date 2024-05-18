@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/18 11:34:22
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/18 12:21:42
 </p>
 </blockquote>
 <p>
@@ -749,6 +749,12 @@ B站崩了（热度：1985401）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B0%B1%E9%87%8D%E5%BA%86%E7%A9%BA%E5%8C%85%E8%87%B4%E6%AD%89%23" target="weibo">
 蜜雪冰城就重庆空包致歉（热度：1788659）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%B7%98%E6%B1%B0%E5%90%8E%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E7%9A%84%E5%8F%91%E8%A8%80%23" target="weibo">
+杨丞琳淘汰后李莎旻子的发言（热度：1782094）
 </a>
 </li>
 
@@ -1961,12 +1967,6 @@ Alin报名歌手（热度：1229921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A8%80%E5%86%B0%E4%BA%91%23" target="weibo">
 言冰云（热度：1219940）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%B7%98%E6%B1%B0%E5%90%8E%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E7%9A%84%E5%8F%91%E8%A8%80%23" target="weibo">
-杨丞琳淘汰后李莎旻子的发言（热度：1219188）
 </a>
 </li>
 
@@ -4605,6 +4605,12 @@ G2不收徒（热度：791904）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%23" target="weibo">
+霸王茶姬（热度：740586）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E5%85%B3%E9%83%A8%E9%97%A8%E8%BE%9F%E8%B0%A3%E9%9F%A9%E5%9B%BD%E9%A3%9E%E5%BE%80%E9%9D%92%E5%B2%9B%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%9C%BA%23" target="weibo">
 相关部门辟谣韩国飞往青岛飞机坠机（热度：740503）
 </a>
@@ -5721,6 +5727,12 @@ B太被加油站举报（热度：658627）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A8%85%E7%BB%B4%E6%98%A8%E6%99%9A%E5%B0%B1%E5%9C%A8%E6%AD%8C%E6%89%8B%E5%90%8E%E5%8F%B0%23" target="weibo">
+袁娅维昨晚就在歌手后台（热度：647157）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%89%8D%E5%85%AB%E5%AD%A3%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%BA%BF%E6%AD%8C%E6%9B%B2%23" target="weibo">
 歌手前八季热度破亿歌曲（热度：646549）
 </a>
@@ -5999,18 +6011,6 @@ lex 复活赛（热度：629257）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%85%B0%E5%8A%A9%E6%94%BB%23" target="weibo">
 阿兰助攻（热度：628145）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%20%E7%98%A6%E8%BA%AB%E5%90%8E%23" target="weibo">
-马思纯 瘦身后（热度：628079）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E6%8A%A5%E5%90%8D%E6%AD%8C%E6%89%8B%23" target="weibo">
-张钰琪报名歌手（热度：627651）
 </a>
 </li>
 

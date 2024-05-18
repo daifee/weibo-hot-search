@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1716003262527,
+  "endTime": 1716006102121,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -432,6 +432,14 @@
       "word": "娄艺潇自荐歌手",
       "onboard_time": 1715558178,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1782094,
+      "num": 1782094,
+      "word": "杨丞琳淘汰后李莎旻子的发言",
+      "onboard_time": 1716002059,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1073,14 +1081,6 @@
       "onboard_time": 1715845879,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1219188,
-      "num": 587337,
-      "word": "杨丞琳淘汰后李莎旻子的发言",
-      "onboard_time": 1716002059,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1215588,
@@ -2443,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 740586,
+      "num": 740586,
+      "word": "霸王茶姬",
+      "onboard_time": 1716003618,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 739655,
       "num": 739655,
       "word": "河南一商户发现欠燃气费近5亿",
@@ -3000,6 +3008,14 @@
       "word": "迪丽热巴戴了唇环",
       "onboard_time": 1715576782,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 647157,
+      "num": 382080,
+      "word": "袁娅维昨晚就在歌手后台",
+      "onboard_time": 1716003799,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -4707,6 +4723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 450624,
+      "num": 377985,
+      "word": "亚当踢馆是什么概念",
+      "onboard_time": 1716000738,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448940,
       "num": 370877,
       "word": "原来血型影响睡眠是真的",
@@ -5163,6 +5187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415388,
+      "num": 415388,
+      "word": "三亚机场回应航班不开空调",
+      "onboard_time": 1716000917,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414262,
       "num": 414262,
       "word": "天价彩礼不断衍生出新变种",
@@ -5257,14 +5289,6 @@
       "onboard_time": 1715472676,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 409368,
-      "num": 395724,
-      "word": "三亚机场回应航班不开空调",
-      "onboard_time": 1716000917,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408914,
@@ -5409,14 +5433,6 @@
       "onboard_time": 1715780718,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 403649,
-      "num": 271246,
-      "word": "亚当踢馆是什么概念",
-      "onboard_time": 1716000738,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 403476,
@@ -5616,6 +5632,14 @@
       "word": "开播前雪中送炭 播出后锦上添花",
       "onboard_time": 1715683217,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 392376,
+      "num": 376772,
+      "word": "张玮老婆",
+      "onboard_time": 1716005538,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -6067,6 +6091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359186,
+      "num": 229925,
+      "word": "亚当直播回应参加歌手",
+      "onboard_time": 1716004998,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358131,
       "num": 358131,
       "word": "红白喜事民间队碰到正规军",
@@ -6281,6 +6313,14 @@
       "onboard_time": 1715696121,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 346421,
+      "num": 253008,
+      "word": "庆余年2哥哥只有一个弟弟可以有很多",
+      "onboard_time": 1716002779,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 346353,
@@ -7051,6 +7091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302722,
+      "num": 223996,
+      "word": "赴山海开机",
+      "onboard_time": 1716003199,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302683,
       "num": 302683,
       "word": "毛利兰生日为什么是518",
@@ -7297,6 +7345,14 @@
       "onboard_time": 1715745620,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 289336,
+      "num": 219736,
+      "word": "十个勤天草莓酱 来点不一样的",
+      "onboard_time": 1716004099,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 289025,
@@ -7721,14 +7777,6 @@
       "onboard_time": 1715826079,
       "rank": 25,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 272222,
-      "num": 253008,
-      "word": "庆余年2哥哥只有一个弟弟可以有很多",
-      "onboard_time": 1716002779,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 272202,
@@ -8187,6 +8235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 257596,
+      "num": 257596,
+      "word": "张雪峰再捐款150万",
+      "onboard_time": 1716005059,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257572,
       "num": 257572,
       "word": "恋与深空",
@@ -8361,6 +8417,14 @@
       "onboard_time": 1715675058,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252703,
+      "num": 190094,
+      "word": "歌手 小孩姐",
+      "onboard_time": 1716005718,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 252529,
@@ -8747,6 +8811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237586,
+      "num": 183989,
+      "word": "庆余年 这不是家宴是血淋淋的祭台",
+      "onboard_time": 1716005178,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237166,
+      "num": 225988,
+      "word": "桃花坞",
+      "onboard_time": 1715653757,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237011,
       "num": 231218,
       "word": "JackeyLove 管泽元",
@@ -8785,6 +8865,14 @@
       "onboard_time": 1715512522,
       "rank": 19,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 235650,
+      "num": 235650,
+      "word": "山东三支一扶",
+      "onboard_time": 1716004758,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235451,
@@ -9107,14 +9195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225988,
-      "num": 225988,
-      "word": "桃花坞",
-      "onboard_time": 1715653757,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225964,
       "num": 225964,
       "word": "广州一批发市场起火疑有人失联",
@@ -9393,6 +9473,14 @@
       "onboard_time": 1715680878,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 219147,
+      "num": 219147,
+      "word": "武契奇收到死亡威胁",
+      "onboard_time": 1716002539,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 219019,
@@ -9937,6 +10025,14 @@
       "onboard_time": 1715832020,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 207420,
+      "num": 147506,
+      "word": "黄俊捷 赴山海",
+      "onboard_time": 1716005178,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 207216,
@@ -11467,14 +11563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188845,
-      "num": 188845,
-      "word": "武契奇收到死亡威胁",
-      "onboard_time": 1716002539,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 188763,
       "num": 167723,
       "word": "爱一个事事有回应的人什么体验",
@@ -11488,6 +11576,14 @@
       "word": "抿嘴",
       "onboard_time": 1715873120,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188672,
+      "num": 131175,
+      "word": "于适染了蓝色头发",
+      "onboard_time": 1716003919,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -12563,6 +12659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169806,
+      "num": 169806,
+      "word": "胸口刺痛几秒是猝死信号吗",
+      "onboard_time": 1716003498,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169727,
       "num": 169727,
       "word": "周笔畅心态好稳",
@@ -13555,6 +13659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153803,
+      "num": 153803,
+      "word": "一辈子抠抠搜搜地花了很多钱",
+      "onboard_time": 1716003498,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153740,
       "num": 153740,
       "word": "吴幸键重拍了庆余年的结尾",
@@ -13691,6 +13803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151669,
+      "num": 126444,
+      "word": "杨和苏 1元购",
+      "onboard_time": 1716006078,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151281,
       "num": 416602,
       "word": "刘翔好久不见",
@@ -13729,6 +13849,14 @@
       "onboard_time": 1715580739,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150560,
+      "num": 125293,
+      "word": "时代少年团GQ",
+      "onboard_time": 1716006078,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150518,
@@ -14107,6 +14235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143589,
+      "num": 578213,
+      "word": "博物致知",
+      "onboard_time": 1716003799,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143518,
       "num": 143518,
       "word": "白举纲直播",
@@ -14457,6 +14593,14 @@
       "onboard_time": 1715782699,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137697,
+      "num": 137697,
+      "word": "iPhone17后置摄像头或移至顶部中心",
+      "onboard_time": 1716005777,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 137615,
@@ -14833,14 +14977,6 @@
       "onboard_time": 1715692158,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 131454,
-      "num": 107499,
-      "word": "赴山海开机",
-      "onboard_time": 1716003199,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 131405,
@@ -15345,6 +15481,14 @@
       "onboard_time": 1715625312,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123444,
+      "num": 123444,
+      "word": "初会答案",
+      "onboard_time": 1716005118,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 122914,
@@ -15985,6 +16129,14 @@
       "onboard_time": 1715856258,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 109488,
+      "num": 405264,
+      "word": "她车都没停稳开门冲出去救人",
+      "onboard_time": 1715999478,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109384,
@@ -17235,14 +17387,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 61762,
-      "num": 405264,
-      "word": "她车都没停稳开门冲出去救人",
-      "onboard_time": 1715999478,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61435,
       "num": 61435,
       "word": "美国通胀迎来降温",
@@ -18113,6 +18257,14 @@
       "onboard_time": 1715983992,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21984,
+      "num": 124032,
+      "word": "终于有人带我去阿勒泰了",
+      "onboard_time": 1716005839,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 21259,
