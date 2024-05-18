@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716071668163,
+  "endTime": 1716074274815,
   "band_list": [
     {
       "raw_hot": 865357,
@@ -43,6 +43,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 535813,
+      "num": 535813,
+      "word": "姑娘翻出一堆施华洛世奇后悔没买黄金",
+      "onboard_time": 1716051375,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441685,
       "num": 441685,
       "word": "张杰唱了默",
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368993,
+      "num": 368993,
+      "word": "纽约中央公园偶遇网红凤姐",
+      "onboard_time": 1716052395,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 360769,
       "num": 360769,
       "word": "毛晓彤庆余年2奶凶奶凶的",
@@ -121,14 +137,6 @@
       "onboard_time": 1716039800,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318497,
-      "num": 318497,
-      "word": "姑娘翻出一堆施华洛世奇后悔没买黄金",
-      "onboard_time": 1716051375,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278948,
@@ -203,20 +211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201432,
+      "num": 122663,
+      "word": "散步是一种最被低估的运动",
+      "onboard_time": 1716051675,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 200287,
       "num": 181487,
       "word": "钟楚曦 我的电子闺蜜",
       "onboard_time": 1716047297,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 197656,
-      "num": 197656,
-      "word": "纽约中央公园偶遇网红凤姐",
-      "onboard_time": 1716052395,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 194390,
@@ -315,14 +323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155511,
-      "num": 122663,
-      "word": "散步是一种最被低估的运动",
-      "onboard_time": 1716051675,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 152159,
       "num": 152159,
       "word": "男子被蜱虫咬几天后做足疗时发现",
@@ -361,6 +361,14 @@
       "onboard_time": 1716033436,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136987,
+      "num": 136987,
+      "word": "理想汽车将裁员5600人",
+      "onboard_time": 1716069611,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 136100,
@@ -459,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97321,
+      "num": 97321,
+      "word": "田嘉瑞 我何德何能去救那姐",
+      "onboard_time": 1716067752,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87842,
       "num": 104812,
       "word": "德甲联赛",
@@ -483,16 +499,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73398,
-      "num": 73398,
-      "word": "田嘉瑞 我何德何能去救那姐",
-      "onboard_time": 1716067752,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 60888,
-      "num": 60888,
+      "raw_hot": 70221,
+      "num": 70221,
       "word": "陈丽君跳BangBang很适配",
       "onboard_time": 1716063612,
       "rank": 13,
@@ -507,20 +515,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51294,
-      "num": 51294,
-      "word": "理想汽车将裁员5600人",
-      "onboard_time": 1716069611,
-      "rank": 32,
-      "category": "汽车"
+      "raw_hot": 54710,
+      "num": 54710,
+      "word": "范闲受委屈被王启年安慰",
+      "onboard_time": 1716072372,
+      "rank": 26,
+      "category": "剧集"
     },
     {
-      "raw_hot": 47819,
-      "num": 46869,
+      "raw_hot": 51491,
+      "num": 51491,
       "word": "汪苏泷机场状态",
       "onboard_time": 1716058452,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51171,
+      "num": 51171,
+      "word": "张若昀看到霸霸嘴角比AK还难压",
+      "onboard_time": 1716070210,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48109,
+      "num": 48109,
+      "word": "再见了爸爸今晚范思辙要远航",
+      "onboard_time": 1716065051,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 47124,
@@ -531,16 +555,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46196,
-      "num": 32064,
-      "word": "张若昀看到霸霸嘴角比AK还难压",
-      "onboard_time": 1716070210,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 42537,
+      "num": 42537,
+      "word": "郭有才被聘为菏泽文旅推荐官",
+      "onboard_time": 1716065591,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40489,
-      "num": 32056,
+      "num": 34758,
       "word": "鹿晗和张远两个人凑不出一个胆",
       "onboard_time": 1716066491,
       "rank": 42,
@@ -555,28 +579,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 31226,
-      "num": 31226,
-      "word": "郭有才被聘为菏泽文旅推荐官",
-      "onboard_time": 1716065591,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30678,
-      "num": 29575,
-      "word": "再见了爸爸今晚范思辙要远航",
-      "onboard_time": 1716065051,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 26649,
-      "num": 26649,
+      "raw_hot": 32664,
+      "num": 34784,
       "word": "林更新与学妹合照",
       "onboard_time": 1716068651,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26085,
+      "num": 34730,
+      "word": "牙齿就是这么坏掉的",
+      "onboard_time": 1716074233,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 25658,
@@ -585,6 +601,14 @@
       "onboard_time": 1716058152,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23982,
+      "num": 386597,
+      "word": "首届全国职工马拉松",
+      "onboard_time": 1716040339,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23627,
@@ -617,14 +641,6 @@
       "onboard_time": 1716034818,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 9059,
-      "num": 215026,
-      "word": "首届全国职工马拉松",
-      "onboard_time": 1716040339,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8766,
