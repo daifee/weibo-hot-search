@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716070575460,
+  "endTime": 1716071668163,
   "band_list": [
     {
       "raw_hot": 865357,
@@ -123,8 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281244,
-      "num": 240653,
+      "raw_hot": 318497,
+      "num": 318497,
       "word": "姑娘翻出一堆施华洛世奇后悔没买黄金",
       "onboard_time": 1716051375,
       "rank": 27,
@@ -209,6 +209,14 @@
       "onboard_time": 1716047297,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197656,
+      "num": 197656,
+      "word": "纽约中央公园偶遇网红凤姐",
+      "onboard_time": 1716052395,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 194390,
@@ -337,14 +345,6 @@
       "onboard_time": 1716034158,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 149778,
-      "num": 133066,
-      "word": "纽约中央公园偶遇网红凤姐",
-      "onboard_time": 1716052395,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 145053,
@@ -491,12 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60888,
+      "num": 60888,
+      "word": "陈丽君跳BangBang很适配",
+      "onboard_time": 1716063612,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59305,
       "num": 91019,
       "word": "巴黎奥运会火炬传递上演中国接力",
       "onboard_time": 1716043699,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51294,
+      "num": 51294,
+      "word": "理想汽车将裁员5600人",
+      "onboard_time": 1716069611,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 47819,
@@ -507,20 +523,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47755,
-      "num": 47755,
-      "word": "陈丽君跳BangBang很适配",
-      "onboard_time": 1716063612,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 47124,
       "num": 389477,
       "word": "5000年前老祖宗就拿捏了粘土特效",
       "onboard_time": 1716045679,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46196,
+      "num": 32064,
+      "word": "张若昀看到霸霸嘴角比AK还难压",
+      "onboard_time": 1716070210,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40489,
+      "num": 32056,
+      "word": "鹿晗和张远两个人凑不出一个胆",
+      "onboard_time": 1716066491,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 33240,
@@ -531,36 +555,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 30678,
-      "num": 28052,
-      "word": "再见了爸爸今晚范思辙要远航",
-      "onboard_time": 1716065051,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 28516,
-      "num": 27919,
-      "word": "鹿晗和张远两个人凑不出一个胆",
-      "onboard_time": 1716066491,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 27442,
-      "num": 27442,
+      "raw_hot": 31226,
+      "num": 31226,
       "word": "郭有才被聘为菏泽文旅推荐官",
       "onboard_time": 1716065591,
       "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26386,
-      "num": 26386,
-      "word": "理想汽车将裁员5600人",
-      "onboard_time": 1716069611,
-      "rank": 32,
-      "category": "汽车"
+      "raw_hot": 30678,
+      "num": 29575,
+      "word": "再见了爸爸今晚范思辙要远航",
+      "onboard_time": 1716065051,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26649,
+      "num": 26649,
+      "word": "林更新与学妹合照",
+      "onboard_time": 1716068651,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 25658,
@@ -577,22 +593,6 @@
       "onboard_time": 1716052094,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22085,
-      "num": 22085,
-      "word": "林更新与学妹合照",
-      "onboard_time": 1716068651,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 21666,
-      "num": 21666,
-      "word": "张若昀看到霸霸嘴角比AK还难压",
-      "onboard_time": 1716070210,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 19555,
@@ -617,6 +617,14 @@
       "onboard_time": 1716034818,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 9059,
+      "num": 215026,
+      "word": "首届全国职工马拉松",
+      "onboard_time": 1716040339,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8766,
