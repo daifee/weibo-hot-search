@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1716027484735,
+  "endTime": 1716028452430,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2411,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766162,
+      "num": 766162,
+      "word": "华东理工大学回应男生向12岁女孩要裸照",
+      "onboard_time": 1716027078,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 766156,
       "num": 522741,
       "word": "人民文娱评吴磊骑有此理",
@@ -3395,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618211,
+      "num": 270917,
+      "word": "突然发现今年520好有意义",
+      "onboard_time": 1716024918,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 617899,
       "num": 408469,
       "word": "蔡徐坤小香风",
@@ -4116,7 +4132,7 @@
     },
     {
       "raw_hot": 530682,
-      "num": 360554,
+      "num": 384041,
       "word": "赵露思英文采访",
       "onboard_time": 1716025037,
       "rank": 6,
@@ -4739,6 +4755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476374,
+      "num": 383998,
+      "word": "庆余年2或在本月收官",
+      "onboard_time": 1716023118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471815,
       "num": 471815,
       "word": "JackeyLove超话",
@@ -4939,14 +4963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 457614,
-      "num": 270917,
-      "word": "突然发现今年520好有意义",
-      "onboard_time": 1716024918,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 457595,
       "num": 457595,
       "word": "小米SU7交付量破万创纪录",
@@ -4980,7 +4996,7 @@
     },
     {
       "raw_hot": 453600,
-      "num": 334894,
+      "num": 383703,
       "word": "十个勤天上错链接",
       "onboard_time": 1716024918,
       "rank": 12,
@@ -6051,14 +6067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 385730,
-      "num": 330987,
-      "word": "庆余年2或在本月收官",
-      "onboard_time": 1716023118,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 385581,
       "num": 385581,
       "word": "乐道汽车",
@@ -6089,6 +6097,14 @@
       "onboard_time": 1715693959,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384098,
+      "num": 384098,
+      "word": "广东人将挑战暴雨上班30天",
+      "onboard_time": 1716021318,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383648,
@@ -6272,14 +6288,6 @@
       "word": "中国南水北调原副总经济师樊新中被查",
       "onboard_time": 1715551572,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371054,
-      "num": 371054,
-      "word": "广东人将挑战暴雨上班30天",
-      "onboard_time": 1716021318,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -6468,7 +6476,7 @@
     },
     {
       "raw_hot": 356065,
-      "num": 291181,
+      "num": 344262,
       "word": "十个勤天帆布包",
       "onboard_time": 1716024137,
       "rank": 17,
@@ -7169,14 +7177,6 @@
       "onboard_time": 1715683697,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 321000,
-      "num": 321000,
-      "word": "华东理工大学回应男生向12岁女孩要裸照",
-      "onboard_time": 1716027078,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320947,
@@ -9259,6 +9259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 237773,
+      "num": 237773,
+      "word": "T1对战BLG",
+      "onboard_time": 1716023718,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237166,
       "num": 225988,
       "word": "桃花坞",
@@ -10715,14 +10723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204372,
-      "num": 204372,
-      "word": "T1对战BLG",
-      "onboard_time": 1716023718,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 204351,
       "num": 181936,
       "word": "supernova",
@@ -10985,6 +10985,14 @@
       "onboard_time": 1715747000,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201308,
+      "num": 201308,
+      "word": "AG对战狼队",
+      "onboard_time": 1716027199,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 201082,
@@ -12539,6 +12547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180945,
+      "num": 180945,
+      "word": "我使馆为在菲海域被查商船上中国船员提供协助",
+      "onboard_time": 1716027378,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180849,
       "num": 284536,
       "word": "请不要给我建议",
@@ -12929,6 +12945,14 @@
       "onboard_time": 1715571860,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175156,
+      "num": 175156,
+      "word": "恋爱兄妹 宰亨智媛",
+      "onboard_time": 1716027318,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 175058,
@@ -13545,6 +13569,14 @@
       "onboard_time": 1715948779,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166224,
+      "num": 166224,
+      "word": "十个勤天小卖铺粉丝突破百万",
+      "onboard_time": 1716027918,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 166155,
@@ -14363,14 +14395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153683,
-      "num": 153683,
-      "word": "AG对战狼队",
-      "onboard_time": 1716027199,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 153676,
       "num": 202214,
       "word": "为什么我们的手机都用黑体",
@@ -14699,6 +14723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147427,
+      "num": 142234,
+      "word": "肖战纯黑U领内搭",
+      "onboard_time": 1716027557,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147348,
       "num": 147348,
       "word": "母亲节文案",
@@ -14875,6 +14907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144223,
+      "num": 144223,
+      "word": "炒菜时尽量别爆炒",
+      "onboard_time": 1716025278,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143937,
       "num": 143937,
       "word": "白人饭不要吃成糊弄饭",
@@ -14961,6 +15001,14 @@
       "onboard_time": 1715999657,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142446,
+      "num": 142446,
+      "word": "杭州人的cos已经是nextlevel了",
+      "onboard_time": 1716027738,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 142344,
@@ -15283,14 +15331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137958,
-      "num": 137958,
-      "word": "恋爱兄妹 宰亨智媛",
-      "onboard_time": 1716027318,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137828,
       "num": 137828,
       "word": "茶百道新品一口入海",
@@ -15595,6 +15635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132613,
+      "num": 132613,
+      "word": "黄宣 必胜客广告",
+      "onboard_time": 1716028278,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132496,
       "num": 132496,
       "word": "160余名从事离岸博彩中国公民被遣返",
@@ -15739,14 +15787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130725,
-      "num": 130725,
-      "word": "我使馆为在菲海域被查商船上中国船员提供协助",
-      "onboard_time": 1716027378,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 130516,
       "num": 130516,
       "word": "微软",
@@ -15761,14 +15801,6 @@
       "onboard_time": 1715782401,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 130403,
-      "num": 130403,
-      "word": "炒菜时尽量别爆炒",
-      "onboard_time": 1716025278,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 130339,
@@ -17988,7 +18020,7 @@
     },
     {
       "raw_hot": 76030,
-      "num": 347818,
+      "num": 383915,
       "word": "被宋朝的降温神器种草了",
       "onboard_time": 1716025579,
       "rank": 9,
@@ -18073,6 +18105,14 @@
       "onboard_time": 1715915358,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 69278,
+      "num": 383888,
+      "word": "88岁医生成为大体老师重回母校",
+      "onboard_time": 1716027138,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69087,
@@ -18209,14 +18249,6 @@
       "onboard_time": 1715938398,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 62750,
-      "num": 349407,
-      "word": "88岁医生成为大体老师重回母校",
-      "onboard_time": 1716027138,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62713,

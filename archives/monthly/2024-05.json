@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716027484735,
+  "endTime": 1716028452430,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -5883,6 +5883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766162,
+      "num": 766162,
+      "word": "华东理工大学回应男生向12岁女孩要裸照",
+      "onboard_time": 1716027078,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 766156,
       "num": 522741,
       "word": "人民文娱评吴磊骑有此理",
@@ -8387,6 +8395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618211,
+      "num": 270917,
+      "word": "突然发现今年520好有意义",
+      "onboard_time": 1716024918,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 617992,
       "num": 383001,
       "word": "易梦玲 头包脸",
@@ -10156,7 +10172,7 @@
     },
     {
       "raw_hot": 530682,
-      "num": 360554,
+      "num": 384041,
       "word": "赵露思英文采访",
       "onboard_time": 1716025037,
       "rank": 6,
@@ -11531,6 +11547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476374,
+      "num": 383998,
+      "word": "庆余年2或在本月收官",
+      "onboard_time": 1716023118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 475630,
       "num": 475630,
       "word": "张翰两句话得罪三个人",
@@ -12123,14 +12147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 457614,
-      "num": 270917,
-      "word": "突然发现今年520好有意义",
-      "onboard_time": 1716024918,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 457595,
       "num": 457595,
       "word": "小米SU7交付量破万创纪录",
@@ -12228,7 +12244,7 @@
     },
     {
       "raw_hot": 453600,
-      "num": 334894,
+      "num": 383703,
       "word": "十个勤天上错链接",
       "onboard_time": 1716024918,
       "rank": 12,
@@ -14811,14 +14827,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 385730,
-      "num": 330987,
-      "word": "庆余年2或在本月收官",
-      "onboard_time": 1716023118,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 385631,
       "num": 385631,
       "word": "BABYMONSTER打歌初一位",
@@ -14889,6 +14897,14 @@
       "onboard_time": 1715693959,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384098,
+      "num": 384098,
+      "word": "广东人将挑战暴雨上班30天",
+      "onboard_time": 1716021318,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384077,
@@ -15385,14 +15401,6 @@
       "onboard_time": 1715433559,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 371054,
-      "num": 371054,
-      "word": "广东人将挑战暴雨上班30天",
-      "onboard_time": 1716021318,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370947,
@@ -15988,7 +15996,7 @@
     },
     {
       "raw_hot": 356065,
-      "num": 291181,
+      "num": 344262,
       "word": "十个勤天帆布包",
       "onboard_time": 1716024137,
       "rank": 17,
@@ -17585,14 +17593,6 @@
       "onboard_time": 1714622418,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 321000,
-      "num": 321000,
-      "word": "华东理工大学回应男生向12岁女孩要裸照",
-      "onboard_time": 1716027078,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320947,
@@ -22891,6 +22891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237773,
+      "num": 237773,
+      "word": "T1对战BLG",
+      "onboard_time": 1716023718,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237350,
       "num": 237350,
       "word": "JackeyLove辛苦了",
@@ -26841,14 +26849,6 @@
       "onboard_time": 1714833201,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204372,
-      "num": 204372,
-      "word": "T1对战BLG",
-      "onboard_time": 1716023718,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 204351,
@@ -31619,6 +31619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180945,
+      "num": 180945,
+      "word": "我使馆为在菲海域被查商船上中国船员提供协助",
+      "onboard_time": 1716027378,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180871,
       "num": 180871,
       "word": "狗坏猫好",
@@ -32705,6 +32713,14 @@
       "onboard_time": 1715571860,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175156,
+      "num": 175156,
+      "word": "恋爱兄妹 宰亨智媛",
+      "onboard_time": 1716027318,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 175149,
@@ -34361,6 +34377,14 @@
       "onboard_time": 1715948779,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166224,
+      "num": 166224,
+      "word": "十个勤天小卖铺粉丝突破百万",
+      "onboard_time": 1716027918,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 166155,
@@ -37875,6 +37899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147427,
+      "num": 142234,
+      "word": "肖战纯黑U领内搭",
+      "onboard_time": 1716027557,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147348,
       "num": 147348,
       "word": "母亲节文案",
@@ -38451,6 +38483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144223,
+      "num": 144223,
+      "word": "炒菜时尽量别爆炒",
+      "onboard_time": 1716025278,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144201,
       "num": 344647,
       "word": "102岁奶奶补办身份证女警手舞足蹈引导",
@@ -38793,6 +38833,14 @@
       "onboard_time": 1714820960,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142446,
+      "num": 142446,
+      "word": "杭州人的cos已经是nextlevel了",
+      "onboard_time": 1716027738,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 142344,
@@ -39625,14 +39673,6 @@
       "onboard_time": 1714537998,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137958,
-      "num": 137958,
-      "word": "恋爱兄妹 宰亨智媛",
-      "onboard_time": 1716027318,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 137956,
@@ -40683,6 +40723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132613,
+      "num": 132613,
+      "word": "黄宣 必胜客广告",
+      "onboard_time": 1716028278,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132591,
       "num": 132591,
       "word": "毛不易震惊脸",
@@ -41019,14 +41067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130725,
-      "num": 130725,
-      "word": "我使馆为在菲海域被查商船上中国船员提供协助",
-      "onboard_time": 1716027378,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 130646,
       "num": 130646,
       "word": "才发现港片还有这么俊的",
@@ -41065,14 +41105,6 @@
       "onboard_time": 1714720819,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130403,
-      "num": 130403,
-      "word": "炒菜时尽量别爆炒",
-      "onboard_time": 1716025278,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 130339,
@@ -46956,7 +46988,7 @@
     },
     {
       "raw_hot": 76030,
-      "num": 347818,
+      "num": 383915,
       "word": "被宋朝的降温神器种草了",
       "onboard_time": 1716025579,
       "rank": 9,
@@ -47272,6 +47304,14 @@
       "word": "广东139个暴雨预警生效中",
       "onboard_time": 1714847833,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69278,
+      "num": 383888,
+      "word": "88岁医生成为大体老师重回母校",
+      "onboard_time": 1716027138,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -47609,14 +47649,6 @@
       "onboard_time": 1714489041,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 62750,
-      "num": 349407,
-      "word": "88岁医生成为大体老师重回母校",
-      "onboard_time": 1716027138,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62742,
