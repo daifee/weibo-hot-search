@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1716024862892,
+  "endTime": 1716027484735,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1589946,
+      "num": 1589946,
+      "word": "女子试戴金戒不慎摔落被索赔1250",
+      "onboard_time": 1716021618,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1563904,
       "num": 269458,
       "word": "歌手直播",
@@ -113,14 +121,6 @@
       "onboard_time": 1715956766,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1213208,
-      "num": 1213208,
-      "word": "女子试戴金戒不慎摔落被索赔1250",
-      "onboard_time": 1716021618,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1110357,
@@ -475,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 530682,
+      "num": 360554,
+      "word": "赵露思英文采访",
+      "onboard_time": 1716025037,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 524091,
       "num": 585224,
       "word": "江西坠河失联女老师遗体在水中被发现",
@@ -571,11 +579,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457614,
+      "num": 270917,
+      "word": "突然发现今年520好有意义",
+      "onboard_time": 1716024918,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 454678,
       "num": 263836,
       "word": "歌手大战庆余年",
       "onboard_time": 1715945358,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 453600,
+      "num": 334894,
+      "word": "十个勤天上错链接",
+      "onboard_time": 1716024918,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -683,6 +707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 385730,
+      "num": 330987,
+      "word": "庆余年2或在本月收官",
+      "onboard_time": 1716023118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384024,
       "num": 263588,
       "word": "耳帝上班",
@@ -699,12 +731,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371054,
+      "num": 371054,
+      "word": "广东人将挑战暴雨上班30天",
+      "onboard_time": 1716021318,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364310,
       "num": 276869,
       "word": "张若昀的台词从牙缝里挤出来",
       "onboard_time": 1716000498,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360665,
+      "num": 360665,
+      "word": "Faker小炮",
+      "onboard_time": 1716025878,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 356065,
+      "num": 291181,
+      "word": "十个勤天帆布包",
+      "onboard_time": 1716024137,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 349553,
@@ -785,6 +841,14 @@
       "onboard_time": 1715956766,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 321000,
+      "num": 321000,
+      "word": "华东理工大学回应男生向12岁女孩要裸照",
+      "onboard_time": 1716027078,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320947,
@@ -899,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291181,
-      "num": 291181,
-      "word": "十个勤天帆布包",
-      "onboard_time": 1716024137,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289336,
       "num": 219736,
       "word": "十个勤天草莓酱 来点不一样的",
@@ -937,14 +993,6 @@
       "onboard_time": 1715956948,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280031,
-      "num": 280031,
-      "word": "庆余年2或在本月收官",
-      "onboard_time": 1716023118,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 278610,
@@ -1019,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243338,
+      "num": 243338,
+      "word": "王俊凯入围百花奖最佳男主角初评",
+      "onboard_time": 1716024677,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240492,
       "num": 196211,
       "word": "偶遇叶珂参加婚礼",
@@ -1065,14 +1121,6 @@
       "onboard_time": 1715993538,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231592,
-      "num": 231592,
-      "word": "广东人将挑战暴雨上班30天",
-      "onboard_time": 1716021318,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231039,
@@ -1163,6 +1211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 204372,
+      "num": 204372,
+      "word": "T1对战BLG",
+      "onboard_time": 1716023718,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202723,
       "num": 192989,
       "word": "朱一龙入围百花奖最佳男主角初评",
@@ -1185,14 +1241,6 @@
       "onboard_time": 1716008359,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197809,
-      "num": 144940,
-      "word": "王俊凯入围百花奖最佳男主角初评",
-      "onboard_time": 1716024677,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 197674,
@@ -1387,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174440,
+      "num": 174440,
+      "word": "徐冬冬怒批贩卖走光照牟利行为",
+      "onboard_time": 1716025878,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174262,
       "num": 130404,
       "word": "蒲熠星新歌",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1716015379,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170652,
+      "num": 170652,
+      "word": "种地吧文旅专场直播",
+      "onboard_time": 1716027017,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 169918,
@@ -1539,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153683,
+      "num": 153683,
+      "word": "AG对战狼队",
+      "onboard_time": 1716027199,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153676,
       "num": 202214,
       "word": "为什么我们的手机都用黑体",
@@ -1611,6 +1683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140520,
+      "num": 140520,
+      "word": "小孩姐身上有我羡慕的松弛感",
+      "onboard_time": 1716027078,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139314,
       "num": 271021,
       "word": "取消全国房贷利率下限对购房者有何影响",
@@ -1635,20 +1715,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137958,
+      "num": 137958,
+      "word": "恋爱兄妹 宰亨智媛",
+      "onboard_time": 1716027318,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136936,
       "num": 136936,
       "word": "不吃晚饭和每餐七分饱哪个减肥效果好",
       "onboard_time": 1715987474,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 136038,
-      "num": 136038,
-      "word": "T1对战BLG",
-      "onboard_time": 1716023718,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 134432,
@@ -1665,6 +1745,22 @@
       "onboard_time": 1715961800,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130725,
+      "num": 130725,
+      "word": "我使馆为在菲海域被查商船上中国船员提供协助",
+      "onboard_time": 1716027378,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 130403,
+      "num": 130403,
+      "word": "炒菜时尽量别爆炒",
+      "onboard_time": 1716025278,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 128972,
@@ -1947,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76030,
+      "num": 347818,
+      "word": "被宋朝的降温神器种草了",
+      "onboard_time": 1716025579,
+      "rank": 9,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 68177,
       "num": 126611,
       "word": "好像发现了攀岩最适合的穿搭",
@@ -1977,6 +2081,14 @@
       "onboard_time": 1715988435,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62750,
+      "num": 349407,
+      "word": "88岁医生成为大体老师重回母校",
+      "onboard_time": 1716027138,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62500,
