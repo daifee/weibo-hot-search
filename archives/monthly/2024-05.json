@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716066972907,
+  "endTime": 1716068064810,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -50291,6 +50291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28623,
+      "num": 23644,
+      "word": "田嘉瑞 我何德何能去救那姐",
+      "onboard_time": 1716067752,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28497,
       "num": 34122,
       "word": "Uzi去AL基地集训",
@@ -50329,6 +50337,14 @@
       "onboard_time": 1715716811,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26427,
+      "num": 23952,
+      "word": "再见了爸爸今晚范思辙要远航",
+      "onboard_time": 1716065051,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 26244,
@@ -50451,14 +50467,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 23952,
-      "num": 23952,
-      "word": "再见了爸爸今晚范思辙要远航",
-      "onboard_time": 1716065051,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 23732,
       "num": 28351,
       "word": "张凌赫伦敦看秀",
@@ -50577,6 +50585,14 @@
       "onboard_time": 1716065591,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21773,
+      "num": 21773,
+      "word": "鹿晗和张远两个人凑不出一个胆",
+      "onboard_time": 1716066491,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 21727,
@@ -50801,14 +50817,6 @@
       "onboard_time": 1715719870,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 16000,
-      "num": 16000,
-      "word": "鹿晗和张远两个人凑不出一个胆",
-      "onboard_time": 1716066491,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 15620,
@@ -51060,7 +51068,7 @@
     },
     {
       "raw_hot": 8766,
-      "num": 30306,
+      "num": 32664,
       "word": "栗喉蜂虎夏日薄荷曼波色ootd好仙",
       "onboard_time": 1716061151,
       "rank": 15,
