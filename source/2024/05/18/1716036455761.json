@@ -1,0 +1,410 @@
+{
+  "runTime": 1716036455761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 901134,
+        "num": 901134,
+        "word": "张韶涵回应那英需要你",
+        "onboard_time": 1716028519,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 690641,
+        "num": 690641,
+        "word": "女子试戴金戒不慎摔落被索赔1250",
+        "onboard_time": 1716021618,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7788,
+        "num": 688685,
+        "word": "文化中国行看博物馆之宝",
+        "onboard_time": 1715931378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688078,
+        "num": 688078,
+        "word": "向12岁女孩要裸照男大学生已被刑拘",
+        "onboard_time": 1716033738,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614482,
+        "num": 614482,
+        "word": "她的小梨涡",
+        "onboard_time": 1716030738,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495362,
+        "num": 495362,
+        "word": "越共中央建议苏林担任国家主席",
+        "onboard_time": 1716034158,
+        "rank": 5,
+        "category": "国外时政,国外时政"
+      },
+      {
+        "raw_hot": 596900,
+        "num": 479179,
+        "word": "关晓彤陈赫 破碎的妹无助的哥",
+        "onboard_time": 1716032538,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431741,
+        "num": 431741,
+        "word": "周深演唱会庆余年联动开场",
+        "onboard_time": 1716034158,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309465,
+        "num": 309465,
+        "word": "泰国预计榴莲减产40%至60%",
+        "onboard_time": 1716028577,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35277,
+        "num": 305867,
+        "word": "在传统纹样里看见中式美学",
+        "onboard_time": 1716035000,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 813870,
+        "num": 305368,
+        "word": "华东理工大学回应男生向12岁女孩要裸照",
+        "onboard_time": 1716027078,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400760,
+        "num": 299669,
+        "word": "张杰现场",
+        "onboard_time": 1716034698,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371116,
+        "num": 296259,
+        "word": "刘端端 庆2大家瘦了是因为太卷",
+        "onboard_time": 1716034637,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346339,
+        "num": 293854,
+        "word": "南阳一男童被狗咬伤离世调查结果公布",
+        "onboard_time": 1716036016,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190509,
+        "num": 289652,
+        "word": "十个勤天在天猫618卖断货",
+        "onboard_time": 1716033618,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311781,
+        "num": 287003,
+        "word": "结石姐歌手宣传大使",
+        "onboard_time": 1716035897,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283460,
+        "num": 283460,
+        "word": "2岁宝宝疑因奶奶嚼碎喂食感染梅毒",
+        "onboard_time": 1716016578,
+        "rank": 16,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 248693,
+        "num": 248693,
+        "word": "T1对战BLG",
+        "onboard_time": 1716023718,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243457,
+        "num": 243457,
+        "word": "AG剧透",
+        "onboard_time": 1716031458,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215705,
+        "num": 215705,
+        "word": "普京拍拍肚子说烤鸭太香了再吃一块",
+        "onboard_time": 1716015558,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538604,
+        "num": 215671,
+        "word": "瘦30斤五官的变化",
+        "onboard_time": 1716030437,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 533651,
+        "num": 215619,
+        "word": "不要低估了小孩子的聪明程度",
+        "onboard_time": 1716032236,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 481051,
+        "num": 215521,
+        "word": "幼态审美盯上女生的牙齿",
+        "onboard_time": 1716034758,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365712,
+        "num": 215433,
+        "word": "男子嫖娼被抓妻子选择原谅回家养牛",
+        "onboard_time": 1716000077,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299742,
+        "num": 215432,
+        "word": "范闲骂得声音好大好超前",
+        "onboard_time": 1716033257,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259523,
+        "num": 215358,
+        "word": "突然发现今年520好有意义",
+        "onboard_time": 1716024918,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253548,
+        "num": 215277,
+        "word": "娜扎站在马上镜头",
+        "onboard_time": 1716034338,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215230,
+        "num": 215230,
+        "word": "许嵩演唱会",
+        "onboard_time": 1716033436,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208129,
+        "num": 208129,
+        "word": "青春环游记",
+        "onboard_time": 1716035238,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203005,
+        "num": 203005,
+        "word": "赵露思英文采访",
+        "onboard_time": 1716025037,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205935,
+        "num": 202796,
+        "word": "西法现场观赛KPL春决",
+        "onboard_time": 1716035717,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202364,
+        "num": 202364,
+        "word": "陈赫录节目血栓甲状腺全通了",
+        "onboard_time": 1716013097,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194797,
+        "num": 194797,
+        "word": "五月天嘉宾陈绮贞",
+        "onboard_time": 1716036317,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194762,
+        "num": 194762,
+        "word": "歌手也可以把陈昊宇抓走",
+        "onboard_time": 1716034458,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188590,
+        "num": 188590,
+        "word": "赵露思火炬手造型",
+        "onboard_time": 1716019758,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188446,
+        "num": 188446,
+        "word": "赴山海阵容官宣",
+        "onboard_time": 1716029896,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179266,
+        "num": 179266,
+        "word": "十个勤天小卖铺",
+        "onboard_time": 1716015918,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173554,
+        "num": 173554,
+        "word": "AG对战狼队",
+        "onboard_time": 1716027199,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168539,
+        "num": 168539,
+        "word": "xun的蔚",
+        "onboard_time": 1716034818,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144073,
+        "num": 160420,
+        "word": "广东人将挑战暴雨上班30天",
+        "onboard_time": 1716021318,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154673,
+        "num": 154673,
+        "word": "沈腾没入围",
+        "onboard_time": 1716021798,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146674,
+        "num": 146674,
+        "word": "BLG对战T1决胜局",
+        "onboard_time": 1716035537,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139452,
+        "num": 139452,
+        "word": "时代少年团优酸乳直播",
+        "onboard_time": 1716030617,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136539,
+        "num": 136539,
+        "word": "庆余年2或在本月收官",
+        "onboard_time": 1716023118,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135383,
+        "num": 135383,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1716030677,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134022,
+        "num": 134022,
+        "word": "沈梦辰情商",
+        "onboard_time": 1716031276,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129500,
+        "num": 129500,
+        "word": "黑执事 精致丑",
+        "onboard_time": 1716034578,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127921,
+        "num": 127921,
+        "word": "女爱豆们的爱用香水",
+        "onboard_time": 1716036437,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110867,
+        "num": 127869,
+        "word": "中国女排vs塞尔维亚女排",
+        "onboard_time": 1716033797,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106772,
+        "num": 127191,
+        "word": "95后亿万富豪被罚1.33亿元",
+        "onboard_time": 1716036198,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#视频看习近平的绿色足迹#"
+    }
+  }
+}

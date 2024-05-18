@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1716035530532,
+  "endTime": 1716036455761,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 739415,
-      "num": 571350,
+      "num": 614482,
       "word": "她的小梨涡",
       "onboard_time": 1716030738,
       "rank": 42,
@@ -361,6 +361,14 @@
       "onboard_time": 1716016219,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 688078,
+      "num": 688078,
+      "word": "向12岁女孩要裸照男大学生已被刑拘",
+      "onboard_time": 1716033738,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686063,
@@ -459,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 596900,
+      "num": 481929,
+      "word": "关晓彤陈赫 破碎的妹无助的哥",
+      "onboard_time": 1716032538,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 576797,
       "num": 576797,
       "word": "重庆地铁电子屏惊现雷人字幕",
@@ -515,20 +531,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 533651,
+      "num": 215619,
+      "word": "不要低估了小孩子的聪明程度",
+      "onboard_time": 1716032236,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 530682,
       "num": 431322,
       "word": "赵露思英文采访",
       "onboard_time": 1716025037,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 529639,
-      "num": 205584,
-      "word": "不要低估了小孩子的聪明程度",
-      "onboard_time": 1716032236,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 524091,
@@ -547,28 +563,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 515242,
-      "num": 515242,
-      "word": "向12岁女孩要裸照男大学生已被刑拘",
-      "onboard_time": 1716033738,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511190,
       "num": 511190,
       "word": "泰国预计榴莲减产40%至60%",
       "onboard_time": 1716028577,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510699,
-      "num": 481929,
-      "word": "关晓彤陈赫 破碎的妹无助的哥",
-      "onboard_time": 1716032538,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 508458,
@@ -595,20 +595,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 495362,
+      "num": 495362,
+      "word": "越共中央建议苏林担任国家主席",
+      "onboard_time": 1716034158,
+      "rank": 5,
+      "category": "国外时政,国外时政"
+    },
+    {
       "raw_hot": 490342,
       "num": 490342,
       "word": "专家称新政后1000万房子首付仅需150万",
       "onboard_time": 1716008059,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487449,
-      "num": 487449,
-      "word": "越共中央建议苏林担任国家主席",
-      "onboard_time": 1716034158,
-      "rank": 5,
-      "category": "国外时政,国外时政"
     },
     {
       "raw_hot": 483923,
@@ -625,6 +625,14 @@
       "onboard_time": 1716005777,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 481051,
+      "num": 215521,
+      "word": "幼态审美盯上女生的牙齿",
+      "onboard_time": 1716034758,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476743,
@@ -803,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400760,
+      "num": 299669,
+      "word": "张杰现场",
+      "onboard_time": 1716034698,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 395354,
       "num": 395354,
       "word": "中国博物馆已经是nextlevel了",
@@ -843,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371116,
+      "num": 308259,
+      "word": "刘端端 庆2大家瘦了是因为太卷",
+      "onboard_time": 1716034637,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364310,
       "num": 276869,
       "word": "张若昀的台词从牙缝里挤出来",
@@ -881,6 +905,14 @@
       "onboard_time": 1716002779,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 346339,
+      "num": 293854,
+      "word": "南阳一男童被狗咬伤离世调查结果公布",
+      "onboard_time": 1716036016,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344481,
@@ -1019,20 +1051,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 311781,
+      "num": 287003,
+      "word": "结石姐歌手宣传大使",
+      "onboard_time": 1716035897,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308269,
       "num": 244465,
       "word": "张艺兴入围百花奖最佳男主角初评",
       "onboard_time": 1716018257,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 308259,
-      "num": 308259,
-      "word": "刘端端 庆2大家瘦了是因为太卷",
-      "onboard_time": 1716034637,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 302722,
@@ -1059,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299742,
+      "num": 292207,
+      "word": "范闲骂得声音好大好超前",
+      "onboard_time": 1716033257,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297131,
       "num": 297131,
       "word": "任何人周五晚上上班都得疯",
@@ -1080,14 +1120,6 @@
       "word": "范闲 这下吃到甄嬛的苦了",
       "onboard_time": 1716012857,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 292207,
-      "num": 292207,
-      "word": "范闲骂得声音好大好超前",
-      "onboard_time": 1716033257,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -1120,14 +1152,6 @@
       "word": "男童母亲称要看到照片才相信狗已被打死",
       "onboard_time": 1715956948,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279826,
-      "num": 200495,
-      "word": "幼态审美盯上女生的牙齿",
-      "onboard_time": 1716034758,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1171,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267105,
-      "num": 267105,
-      "word": "张杰现场",
-      "onboard_time": 1716034698,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 258801,
       "num": 258801,
       "word": "鹿晗秦皇岛",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1715997139,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 253548,
+      "num": 215277,
+      "word": "娜扎站在马上镜头",
+      "onboard_time": 1716034338,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 252520,
@@ -1331,6 +1355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215230,
+      "num": 215230,
+      "word": "许嵩演唱会",
+      "onboard_time": 1716033436,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215009,
       "num": 215009,
       "word": "沈梦辰情商",
@@ -1371,6 +1403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 208129,
+      "num": 208129,
+      "word": "青春环游记",
+      "onboard_time": 1716035238,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207675,
       "num": 207675,
       "word": "约尔每次亲亲黄昏都闭眼",
@@ -1387,12 +1427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206251,
-      "num": 197794,
-      "word": "娜扎站在马上镜头",
-      "onboard_time": 1716034338,
-      "rank": 29,
-      "category": "电影"
+      "raw_hot": 205935,
+      "num": 202796,
+      "word": "西法现场观赛KPL春决",
+      "onboard_time": 1716035717,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 205588,
@@ -1483,10 +1523,10 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194439,
-      "num": 194439,
-      "word": "许嵩演唱会",
-      "onboard_time": 1716033436,
+      "raw_hot": 194797,
+      "num": 194797,
+      "word": "五月天嘉宾陈绮贞",
+      "onboard_time": 1716036317,
       "rank": 32,
       "category": "演出"
     },
@@ -1504,6 +1544,14 @@
       "word": "你好星期六全员动物塑",
       "onboard_time": 1716001338,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190509,
+      "num": 289652,
+      "word": "十个勤天在天猫618卖断货",
+      "onboard_time": 1716033618,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -1875,14 +1923,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 153497,
-      "num": 153497,
-      "word": "青春环游记",
-      "onboard_time": 1716035238,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147435,
       "num": 126807,
       "word": "戚薇蔡文静给你的自由过了火",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1716031638,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146674,
+      "num": 146674,
+      "word": "BLG对战T1决胜局",
+      "onboard_time": 1716035537,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 146006,
@@ -2067,20 +2115,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127921,
+      "num": 127921,
+      "word": "女爱豆们的爱用香水",
+      "onboard_time": 1716036437,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 126288,
       "num": 126288,
       "word": "BLG熬夜备战败决",
       "onboard_time": 1715999597,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125731,
-      "num": 281720,
-      "word": "十个勤天在天猫618卖断货",
-      "onboard_time": 1716033618,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 125034,
@@ -2124,7 +2172,7 @@
     },
     {
       "raw_hot": 114474,
-      "num": 118619,
+      "num": 127869,
       "word": "中国女排vs塞尔维亚女排",
       "onboard_time": 1716033797,
       "rank": 48,
@@ -2161,6 +2209,14 @@
       "onboard_time": 1716015319,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106772,
+      "num": 127191,
+      "word": "95后亿万富豪被罚1.33亿元",
+      "onboard_time": 1716036198,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102861,
