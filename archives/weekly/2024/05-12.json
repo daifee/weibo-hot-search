@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1716041807603,
+  "endTime": 1716042843796,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -883,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1355351,
+      "num": 1355351,
+      "word": "警方回应知名主持人被曝私生活混乱",
+      "onboard_time": 1716037820,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1352367,
       "num": 1352367,
       "word": "papi酱已退出因广告违法被罚公司",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1715737758,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1214726,
-      "num": 1214726,
-      "word": "警方回应知名主持人被曝私生活混乱",
-      "onboard_time": 1716037820,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 1213156,
@@ -4259,6 +4259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528008,
+      "num": 528008,
+      "word": "AG对战狼队",
+      "onboard_time": 1716027199,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 527837,
       "num": 274368,
       "word": "韩系在中国为什么不火了",
@@ -4339,14 +4347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 521567,
-      "num": 521567,
-      "word": "AG对战狼队",
-      "onboard_time": 1716027199,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 519353,
       "num": 392348,
       "word": "复旦教授评歌手称观众没必要跟着某些情绪走",
@@ -4385,6 +4385,14 @@
       "onboard_time": 1715855476,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514417,
+      "num": 514417,
+      "word": "巅峰对决",
+      "onboard_time": 1716041420,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 514090,
@@ -4931,6 +4939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476161,
+      "num": 476161,
+      "word": "早就说了我邀请的是断眉亚当",
+      "onboard_time": 1716039259,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474551,
       "num": 474551,
       "word": "周深演唱会庆余年联动开场",
@@ -4945,6 +4961,14 @@
       "onboard_time": 1715687117,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 471001,
+      "num": 471001,
+      "word": "黄俊捷工作室发声明",
+      "onboard_time": 1716041600,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 470229,
@@ -5643,6 +5667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418170,
+      "num": 418170,
+      "word": "张杰唱了默",
+      "onboard_time": 1716042319,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 417996,
       "num": 417996,
       "word": "孙思邈留下的速睡方",
@@ -5769,14 +5801,6 @@
       "onboard_time": 1716006858,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 411551,
-      "num": 411551,
-      "word": "早就说了我邀请的是断眉亚当",
-      "onboard_time": 1716039259,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 411444,
@@ -7211,6 +7235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 331172,
+      "num": 258339,
+      "word": "毛晓彤庆余年2奶凶奶凶的",
+      "onboard_time": 1716040760,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330083,
       "num": 266166,
       "word": "终于看懂尺寸的差别了",
@@ -7817,14 +7849,6 @@
       "onboard_time": 1715513182,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298615,
-      "num": 298615,
-      "word": "巅峰对决",
-      "onboard_time": 1716041420,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 298276,
@@ -8843,6 +8867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259178,
+      "num": 203913,
+      "word": "G2问Bin收徒吗",
+      "onboard_time": 1716042201,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 259131,
       "num": 183081,
       "word": "庆余年的扣开始系了",
@@ -8945,14 +8977,6 @@
       "onboard_time": 1715944757,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256283,
-      "num": 256283,
-      "word": "毛晓彤庆余年2奶凶奶凶的",
-      "onboard_time": 1716040760,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 256191,
@@ -9081,6 +9105,14 @@
       "onboard_time": 1716034338,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 253319,
+      "num": 253319,
+      "word": "丈夫家暴妻子获刑10个月",
+      "onboard_time": 1716040399,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252926,
@@ -9859,14 +9891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 227668,
-      "num": 234547,
-      "word": "丈夫家暴妻子获刑10个月",
-      "onboard_time": 1716040399,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227572,
       "num": 227572,
       "word": "NEWJEANS海粼生咖小纸条",
@@ -10081,6 +10105,14 @@
       "onboard_time": 1715746939,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221789,
+      "num": 221789,
+      "word": "范闲 我想吃鱼了",
+      "onboard_time": 1716041299,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 221694,
@@ -10659,14 +10691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 210399,
-      "num": 210399,
-      "word": "黄俊捷工作室发声明",
-      "onboard_time": 1716041600,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210354,
       "num": 204759,
       "word": "年轻人开始整顿上海相亲角了",
@@ -11145,6 +11169,14 @@
       "onboard_time": 1715928858,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 202886,
+      "num": 202886,
+      "word": "中年人的婚外情为何不会通往离婚",
+      "onboard_time": 1716042201,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 202768,
@@ -12075,6 +12107,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 193051,
+      "num": 193051,
+      "word": "文俊辉直播",
+      "onboard_time": 1716041600,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193025,
       "num": 193025,
       "word": "王楚钦三冠王",
@@ -12779,14 +12819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183888,
-      "num": 183888,
-      "word": "范闲 我想吃鱼了",
-      "onboard_time": 1716041299,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183814,
       "num": 183814,
       "word": "新生 强行上价值",
@@ -12801,6 +12833,14 @@
       "onboard_time": 1715663361,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183634,
+      "num": 183634,
+      "word": "小胖三连MVP",
+      "onboard_time": 1716041900,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 183570,
@@ -12939,14 +12979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181844,
-      "num": 181844,
-      "word": "文俊辉直播",
-      "onboard_time": 1716041600,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181757,
       "num": 181757,
       "word": "花2万元拍一张写真",
@@ -13041,6 +13073,14 @@
       "onboard_time": 1715913738,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179900,
+      "num": 179900,
+      "word": "镜头下的笑容",
+      "onboard_time": 1716042440,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 179857,
@@ -15035,6 +15075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151045,
+      "num": 151045,
+      "word": "AG全员自带名刀",
+      "onboard_time": 1716042080,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151002,
       "num": 151002,
       "word": "mlxg和otto和解",
@@ -15497,6 +15545,14 @@
       "onboard_time": 1715585480,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142830,
+      "num": 180043,
+      "word": "罗伊斯进球",
+      "onboard_time": 1716042679,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 142789,
@@ -16019,6 +16075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135793,
+      "num": 193131,
+      "word": "吃榴莲后要注意多喝水",
+      "onboard_time": 1716038959,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135613,
       "num": 135613,
       "word": "微博影像年",
@@ -16409,14 +16473,6 @@
       "onboard_time": 1715482877,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129470,
-      "num": 135558,
-      "word": "吃榴莲后要注意多喝水",
-      "onboard_time": 1716038959,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 129233,

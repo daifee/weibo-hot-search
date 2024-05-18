@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1716041807603,
+  "endTime": 1716042843796,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1355351,
+      "num": 1355351,
+      "word": "警方回应知名主持人被曝私生活混乱",
+      "onboard_time": 1716037820,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1337330,
       "num": 614290,
       "word": "歌手2024第一爆",
@@ -137,14 +145,6 @@
       "onboard_time": 1715956766,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1214726,
-      "num": 1214726,
-      "word": "警方回应知名主持人被曝私生活混乱",
-      "onboard_time": 1716037820,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 1167818,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528008,
+      "num": 528008,
+      "word": "AG对战狼队",
+      "onboard_time": 1716027199,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 524091,
       "num": 585224,
       "word": "江西坠河失联女老师遗体在水中被发现",
@@ -635,11 +643,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 521567,
-      "num": 521567,
-      "word": "AG对战狼队",
-      "onboard_time": 1716027199,
-      "rank": 39,
+      "raw_hot": 514417,
+      "num": 514417,
+      "word": "巅峰对决",
+      "onboard_time": 1716041420,
+      "rank": 18,
       "category": "电竞"
     },
     {
@@ -739,12 +747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476161,
+      "num": 476161,
+      "word": "早就说了我邀请的是断眉亚当",
+      "onboard_time": 1716039259,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474551,
       "num": 474551,
       "word": "周深演唱会庆余年联动开场",
       "onboard_time": 1716034158,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 471001,
+      "num": 471001,
+      "word": "黄俊捷工作室发声明",
+      "onboard_time": 1716041600,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 470229,
@@ -867,6 +891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 418170,
+      "num": 418170,
+      "word": "张杰唱了默",
+      "onboard_time": 1716042319,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 417543,
       "num": 360250,
       "word": "鹿晗 阿那亚",
@@ -889,14 +921,6 @@
       "onboard_time": 1716006858,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 411551,
-      "num": 411551,
-      "word": "早就说了我邀请的是断眉亚当",
-      "onboard_time": 1716039259,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 404954,
@@ -1075,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331172,
+      "num": 258339,
+      "word": "毛晓彤庆余年2奶凶奶凶的",
+      "onboard_time": 1716040760,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325247,
       "num": 325247,
       "word": "AG剧透",
@@ -1187,14 +1219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 298615,
-      "num": 298615,
-      "word": "巅峰对决",
-      "onboard_time": 1716041420,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 297131,
       "num": 297131,
       "word": "任何人周五晚上上班都得疯",
@@ -1291,20 +1315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259178,
+      "num": 203913,
+      "word": "G2问Bin收徒吗",
+      "onboard_time": 1716042201,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 258801,
       "num": 258801,
       "word": "鹿晗秦皇岛",
       "onboard_time": 1715960001,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256283,
-      "num": 256283,
-      "word": "毛晓彤庆余年2奶凶奶凶的",
-      "onboard_time": 1716040760,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 256191,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1716034338,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 253319,
+      "num": 253319,
+      "word": "丈夫家暴妻子获刑10个月",
+      "onboard_time": 1716040399,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252520,
@@ -1435,20 +1467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227668,
-      "num": 234547,
-      "word": "丈夫家暴妻子获刑10个月",
-      "onboard_time": 1716040399,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226693,
       "num": 226693,
       "word": "沈梦瑶舞台",
       "onboard_time": 1716040339,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221789,
+      "num": 221789,
+      "word": "范闲 我想吃鱼了",
+      "onboard_time": 1716041299,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 221694,
@@ -1539,14 +1571,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 210399,
-      "num": 210399,
-      "word": "黄俊捷工作室发声明",
-      "onboard_time": 1716041600,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208129,
       "num": 208129,
       "word": "青春环游记",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1716009378,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202886,
+      "num": 202886,
+      "word": "中年人的婚外情为何不会通往离婚",
+      "onboard_time": 1716042201,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 202741,
@@ -1707,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193051,
+      "num": 193051,
+      "word": "文俊辉直播",
+      "onboard_time": 1716041600,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190509,
       "num": 289652,
       "word": "十个勤天在天猫618卖断货",
@@ -1795,12 +1835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183888,
-      "num": 183888,
-      "word": "范闲 我想吃鱼了",
-      "onboard_time": 1716041299,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 183634,
+      "num": 183634,
+      "word": "小胖三连MVP",
+      "onboard_time": 1716041900,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 183570,
@@ -1843,14 +1883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181844,
-      "num": 181844,
-      "word": "文俊辉直播",
-      "onboard_time": 1716041600,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180945,
       "num": 180945,
       "word": "我使馆为在菲海域被查商船上中国船员提供协助",
@@ -1864,6 +1896,14 @@
       "word": "大学生毕设把电价打下来了",
       "onboard_time": 1715990956,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 179900,
+      "num": 179900,
+      "word": "镜头下的笑容",
+      "onboard_time": 1716042440,
+      "rank": 41,
       "category": "幽默"
     },
     {
@@ -2147,6 +2187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151045,
+      "num": 151045,
+      "word": "AG全员自带名刀",
+      "onboard_time": 1716042080,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150662,
       "num": 150662,
       "word": "张艺兴抵达戛纳",
@@ -2217,6 +2265,14 @@
       "onboard_time": 1716003799,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142830,
+      "num": 180043,
+      "word": "罗伊斯进球",
+      "onboard_time": 1716042679,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 142789,
@@ -2323,6 +2379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 135793,
+      "num": 193131,
+      "word": "吃榴莲后要注意多喝水",
+      "onboard_time": 1716038959,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 134432,
       "num": 194451,
       "word": "看好了我520想要这个礼物",
@@ -2353,14 +2417,6 @@
       "onboard_time": 1716041299,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129470,
-      "num": 135558,
-      "word": "吃榴莲后要注意多喝水",
-      "onboard_time": 1716038959,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 128972,
