@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716030877037,
+  "endTime": 1716032062451,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3139,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113814,
+      "num": 1113814,
+      "word": "张韶涵回应那英需要你",
+      "onboard_time": 1716028519,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1110812,
       "num": 266493,
       "word": "张馨予何捷 云南",
@@ -3633,14 +3641,6 @@
       "onboard_time": 1716008659,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1040697,
-      "num": 1040697,
-      "word": "张韶涵回应那英需要你",
-      "onboard_time": 1716028519,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 1040108,
@@ -10107,6 +10107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534323,
+      "num": 274137,
+      "word": "瘦30斤五官的变化",
+      "onboard_time": 1716030437,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 534255,
       "num": 534255,
       "word": "卡塔尔准备接受美国要求将哈马斯领导人驱逐",
@@ -10387,6 +10395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521567,
+      "num": 1079845,
+      "word": "AG对战狼队",
+      "onboard_time": 1715342058,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 521286,
       "num": 521286,
       "word": "土耳其宣布停止与以色列所有贸易",
@@ -10561,6 +10577,14 @@
       "onboard_time": 1714788498,
       "rank": 15,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 511190,
+      "num": 511190,
+      "word": "泰国预计榴莲减产40%至60%",
+      "onboard_time": 1716028577,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510937,
@@ -11537,6 +11561,14 @@
       "onboard_time": 1715259619,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 476743,
+      "num": 476743,
+      "word": "赴山海阵容官宣",
+      "onboard_time": 1716029896,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 476714,
@@ -14787,6 +14819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386868,
+      "num": 386868,
+      "word": "时代少年团优酸乳直播",
+      "onboard_time": 1716030617,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386670,
       "num": 285690,
       "word": "李维嘉为谢娜庆生",
@@ -15353,14 +15393,6 @@
       "onboard_time": 1715050699,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371828,
-      "num": 227721,
-      "word": "泰国预计榴莲减产40%至60%",
-      "onboard_time": 1716028577,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371760,
@@ -17084,7 +17116,7 @@
     },
     {
       "raw_hot": 332648,
-      "num": 304197,
+      "num": 328846,
       "word": "她的小梨涡",
       "onboard_time": 1715443460,
       "rank": 26,
@@ -17416,6 +17448,14 @@
       "word": "微笑 爱萝莉",
       "onboard_time": 1715237959,
       "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 325247,
+      "num": 325247,
+      "word": "AG剧透",
+      "onboard_time": 1716031458,
+      "rank": 16,
       "category": "电竞"
     },
     {
@@ -17849,6 +17889,14 @@
       "onboard_time": 1714905318,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 316018,
+      "num": 316018,
+      "word": "狼队藏东西了",
+      "onboard_time": 1716030677,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 315508,
@@ -19289,14 +19337,6 @@
       "onboard_time": 1715348420,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 285386,
-      "num": 224981,
-      "word": "赴山海阵容官宣",
-      "onboard_time": 1716029896,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 285375,
@@ -21796,14 +21836,6 @@
     },
     {
       "raw_hot": 251348,
-      "num": 1079845,
-      "word": "AG对战狼队",
-      "onboard_time": 1715342058,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 251348,
       "num": 251348,
       "word": "为什么江浙没有夜生活",
       "onboard_time": 1715737818,
@@ -22065,6 +22097,14 @@
       "onboard_time": 1715252298,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247776,
+      "num": 247776,
+      "word": "赵丽颖帮朱梓骁追星",
+      "onboard_time": 1716030257,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 247742,
@@ -22865,6 +22905,14 @@
       "onboard_time": 1715001079,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238445,
+      "num": 238445,
+      "word": "十个勤天的店也太难抢了",
+      "onboard_time": 1716031276,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 238368,
@@ -24155,14 +24203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224655,
-      "num": 208935,
-      "word": "瘦30斤五官的变化",
-      "onboard_time": 1716030437,
-      "rank": 26,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 224540,
       "num": 224540,
       "word": "一番大奶主",
@@ -25240,6 +25280,14 @@
       "word": "迪丽热巴莫名其妙的综艺效果",
       "onboard_time": 1715059759,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215009,
+      "num": 215009,
+      "word": "沈梦辰情商",
+      "onboard_time": 1716031276,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -28779,14 +28827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195494,
-      "num": 195494,
-      "word": "狼队藏东西了",
-      "onboard_time": 1716030677,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 195485,
       "num": 195485,
       "word": "云南镇雄持刀行凶案嫌犯已被捕",
@@ -29299,14 +29339,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 193362,
-      "num": 193362,
-      "word": "时代少年团优酸乳直播",
-      "onboard_time": 1716030617,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193359,
       "num": 193359,
       "word": "周深演唱会剧透",
@@ -29441,14 +29473,6 @@
       "onboard_time": 1715009299,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192954,
-      "num": 192954,
-      "word": "赵丽颖帮朱梓骁追星",
-      "onboard_time": 1716030257,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 192926,
@@ -32873,6 +32897,14 @@
       "onboard_time": 1715009420,
       "rank": 42,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 174652,
+      "num": 174652,
+      "word": "五月天鸟巢演唱会",
+      "onboard_time": 1716030677,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 174601,
@@ -37803,14 +37835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148415,
-      "num": 148415,
-      "word": "五月天鸟巢演唱会",
-      "onboard_time": 1716030677,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 148382,
       "num": 148382,
       "word": "独行侠3比2快船",
@@ -38081,6 +38105,14 @@
       "onboard_time": 1715088859,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146885,
+      "num": 146885,
+      "word": "济南打雷",
+      "onboard_time": 1716031638,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146842,
@@ -39169,6 +39201,14 @@
       "onboard_time": 1714562358,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141249,
+      "num": 145741,
+      "word": "第一次见这么聪明的猴",
+      "onboard_time": 1716030257,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 141205,
@@ -47507,6 +47547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66568,
+      "num": 355038,
+      "word": "女生挑战中式元素变装惊艳了",
+      "onboard_time": 1716030738,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66461,
       "num": 738827,
       "word": "匈牙利人学会用中医养生",
@@ -47993,14 +48041,6 @@
       "onboard_time": 1715843778,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57163,
-      "num": 216168,
-      "word": "女生挑战中式元素变装惊艳了",
-      "onboard_time": 1716030738,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 57103,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1716032062451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1113814,
+        "num": 1113814,
+        "word": "张韶涵回应那英需要你",
+        "onboard_time": 1716028519,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1034609,
+        "num": 1034609,
+        "word": "女子试戴金戒不慎摔落被索赔1250",
+        "onboard_time": 1716021618,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6625,
+        "num": 911603,
+        "word": "文化中国行看博物馆之宝",
+        "onboard_time": 1715931378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852404,
+        "num": 852404,
+        "word": "华东理工大学回应男生向12岁女孩要裸照",
+        "onboard_time": 1716027078,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521567,
+        "num": 521567,
+        "word": "AG对战狼队",
+        "onboard_time": 1716027199,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 511190,
+        "num": 511190,
+        "word": "泰国预计榴莲减产40%至60%",
+        "onboard_time": 1716028577,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476743,
+        "num": 476743,
+        "word": "赴山海阵容官宣",
+        "onboard_time": 1716029896,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386868,
+        "num": 386868,
+        "word": "时代少年团优酸乳直播",
+        "onboard_time": 1716030617,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62396,
+        "num": 365722,
+        "word": "88岁医生成为大体老师重回母校",
+        "onboard_time": 1716027138,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66568,
+        "num": 355038,
+        "word": "女生挑战中式元素变装惊艳了",
+        "onboard_time": 1716030738,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409260,
+        "num": 352181,
+        "word": "普京拍拍肚子说烤鸭太香了再吃一块",
+        "onboard_time": 1716015558,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348161,
+        "num": 348161,
+        "word": "陈赫录节目血栓甲状腺全通了",
+        "onboard_time": 1716013097,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345516,
+        "num": 345516,
+        "word": "2岁宝宝疑因奶奶嚼碎喂食感染梅毒",
+        "onboard_time": 1716016578,
+        "rank": 12,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 338771,
+        "num": 338771,
+        "word": "赵露思英文采访",
+        "onboard_time": 1716025037,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328846,
+        "num": 328846,
+        "word": "她的小梨涡",
+        "onboard_time": 1716030738,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327999,
+        "num": 327999,
+        "word": "汪苏泷 还不如让我走了呢",
+        "onboard_time": 1715989635,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325247,
+        "num": 325247,
+        "word": "AG剧透",
+        "onboard_time": 1716031458,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 316018,
+        "num": 316018,
+        "word": "狼队藏东西了",
+        "onboard_time": 1716030677,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308117,
+        "num": 308117,
+        "word": "赵露思火炬手造型",
+        "onboard_time": 1716019758,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274505,
+        "num": 274505,
+        "word": "广东人将挑战暴雨上班30天",
+        "onboard_time": 1716021318,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534323,
+        "num": 274137,
+        "word": "瘦30斤五官的变化",
+        "onboard_time": 1716030437,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 467550,
+        "num": 266359,
+        "word": "突然发现今年520好有意义",
+        "onboard_time": 1716024918,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 460011,
+        "num": 260965,
+        "word": "男子嫖娼被抓妻子选择原谅回家养牛",
+        "onboard_time": 1716000077,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292224,
+        "num": 254640,
+        "word": "庆余年2或在本月收官",
+        "onboard_time": 1716023118,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253180,
+        "num": 253180,
+        "word": "沈腾没入围",
+        "onboard_time": 1716021798,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247776,
+        "num": 247776,
+        "word": "赵丽颖帮朱梓骁追星",
+        "onboard_time": 1716030257,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238445,
+        "num": 238445,
+        "word": "十个勤天的店也太难抢了",
+        "onboard_time": 1716031276,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215009,
+        "num": 215009,
+        "word": "沈梦辰情商",
+        "onboard_time": 1716031276,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209455,
+        "num": 209455,
+        "word": "十个勤天上错链接",
+        "onboard_time": 1716024918,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168962,
+        "num": 204815,
+        "word": "老板怒斥员工朝9晚6按时上下班",
+        "onboard_time": 1716014478,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200310,
+        "num": 200310,
+        "word": "T1对战BLG",
+        "onboard_time": 1716023718,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200250,
+        "num": 200250,
+        "word": "十个勤天小卖铺",
+        "onboard_time": 1716015918,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191084,
+        "num": 191084,
+        "word": "泽连斯基拒绝奥运会期间休战",
+        "onboard_time": 1716018978,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175660,
+        "num": 175660,
+        "word": "易烊千玺入围百花奖最佳男主角初评",
+        "onboard_time": 1716022759,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174652,
+        "num": 174652,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1716030677,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167770,
+        "num": 167770,
+        "word": "蔡徐坤小香风",
+        "onboard_time": 1716013279,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154624,
+        "num": 154624,
+        "word": "王俊凯入围百花奖最佳男主角初评",
+        "onboard_time": 1716024677,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154139,
+        "num": 154139,
+        "word": "时代少年团GQ是BLACKPINK团队拍的",
+        "onboard_time": 1716030738,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146885,
+        "num": 146885,
+        "word": "济南打雷",
+        "onboard_time": 1716031638,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141249,
+        "num": 145741,
+        "word": "第一次见这么聪明的猴",
+        "onboard_time": 1716030257,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148877,
+        "num": 145741,
+        "word": "恋爱兄妹 宰亨智媛",
+        "onboard_time": 1716027318,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145245,
+        "num": 145245,
+        "word": "十个勤天帆布包",
+        "onboard_time": 1716024137,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143100,
+        "num": 143100,
+        "word": "庆帝 反派",
+        "onboard_time": 1716011057,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141327,
+        "num": 141327,
+        "word": "赵丽颖 只有一件事情能够令人兴奋",
+        "onboard_time": 1716009078,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138009,
+        "num": 138009,
+        "word": "廖骏雄去世",
+        "onboard_time": 1716019218,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133829,
+        "num": 133829,
+        "word": "AG阵容",
+        "onboard_time": 1716030317,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125078,
+        "num": 125078,
+        "word": "elk状态",
+        "onboard_time": 1716028638,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124206,
+        "num": 124206,
+        "word": "Faker小炮",
+        "onboard_time": 1716025878,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109223,
+        "num": 124081,
+        "word": "你的阿勒泰壁纸",
+        "onboard_time": 1716030378,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 103637,
+        "num": 123687,
+        "word": "炒菜时尽量别爆炒",
+        "onboard_time": 1716025278,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与普京在北京的一天#"
+    }
+  }
+}

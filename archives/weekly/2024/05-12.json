@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1716030877037,
+  "endTime": 1716032062451,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1315,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1113814,
+      "num": 1113814,
+      "word": "张韶涵回应那英需要你",
+      "onboard_time": 1716028519,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1110375,
       "num": 1110375,
       "word": "青春环游记5阵容官宣",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1716008659,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1040697,
-      "num": 1040697,
-      "word": "张韶涵回应那英需要你",
-      "onboard_time": 1716028519,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 1040108,
@@ -4115,6 +4115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534323,
+      "num": 274137,
+      "word": "瘦30斤五官的变化",
+      "onboard_time": 1716030437,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 532868,
       "num": 532868,
       "word": "沙溢问时代少年团什么时候解散",
@@ -4227,6 +4235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521567,
+      "num": 521567,
+      "word": "AG对战狼队",
+      "onboard_time": 1716027199,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 519353,
       "num": 392348,
       "word": "复旦教授评歌手称观众没必要跟着某些情绪走",
@@ -4289,6 +4305,14 @@
       "onboard_time": 1715653577,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511190,
+      "num": 511190,
+      "word": "泰国预计榴莲减产40%至60%",
+      "onboard_time": 1716028577,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510937,
@@ -4761,6 +4785,14 @@
       "onboard_time": 1715500338,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476743,
+      "num": 476743,
+      "word": "赴山海阵容官宣",
+      "onboard_time": 1716029896,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 476374,
@@ -6075,6 +6107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 386868,
+      "num": 386868,
+      "word": "时代少年团优酸乳直播",
+      "onboard_time": 1716030617,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385581,
       "num": 385581,
       "word": "乐道汽车",
@@ -6273,14 +6313,6 @@
       "onboard_time": 1715902576,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371828,
-      "num": 227721,
-      "word": "泰国预计榴莲减产40%至60%",
-      "onboard_time": 1716028577,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371477,
@@ -6964,7 +6996,7 @@
     },
     {
       "raw_hot": 332648,
-      "num": 304197,
+      "num": 328846,
       "word": "她的小梨涡",
       "onboard_time": 1715443460,
       "rank": 26,
@@ -7115,6 +7147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 325247,
+      "num": 325247,
+      "word": "AG剧透",
+      "onboard_time": 1716031458,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 324600,
       "num": 288458,
       "word": "HYBE曝NewJeans被闵熙珍PUA",
@@ -7257,6 +7297,14 @@
       "onboard_time": 1715648959,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316018,
+      "num": 316018,
+      "word": "狼队藏东西了",
+      "onboard_time": 1716030677,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 315193,
@@ -7856,14 +7904,6 @@
       "word": "田曦薇李明德再合作",
       "onboard_time": 1715656277,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 285386,
-      "num": 224981,
-      "word": "赴山海阵容官宣",
-      "onboard_time": 1716029896,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -9011,6 +9051,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 247776,
+      "num": 247776,
+      "word": "赵丽颖帮朱梓骁追星",
+      "onboard_time": 1716030257,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247742,
       "num": 219424,
       "word": "G社拍的佟丽娅关晓彤唐嫣",
@@ -9265,6 +9313,14 @@
       "onboard_time": 1715671699,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238445,
+      "num": 238445,
+      "word": "十个勤天的店也太难抢了",
+      "onboard_time": 1716031276,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 238297,
@@ -9699,14 +9755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224923,
-      "num": 224923,
-      "word": "AG对战狼队",
-      "onboard_time": 1716027199,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 224826,
       "num": 224826,
       "word": "吃得少但不容易饿的方法",
@@ -9721,14 +9769,6 @@
       "onboard_time": 1715791635,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 224655,
-      "num": 208935,
-      "word": "瘦30斤五官的变化",
-      "onboard_time": 1716030437,
-      "rank": 26,
-      "category": "运动健身"
     },
     {
       "raw_hot": 224210,
@@ -10145,6 +10185,14 @@
       "onboard_time": 1715603660,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215009,
+      "num": 215009,
+      "word": "沈梦辰情商",
+      "onboard_time": 1716031276,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 214829,
@@ -11499,14 +11547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195494,
-      "num": 195494,
-      "word": "狼队藏东西了",
-      "onboard_time": 1716030677,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 195482,
       "num": 195482,
       "word": "薛之谦演唱会抢票",
@@ -11699,14 +11739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193362,
-      "num": 193362,
-      "word": "时代少年团优酸乳直播",
-      "onboard_time": 1716030617,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193359,
       "num": 193359,
       "word": "周深演唱会剧透",
@@ -11768,14 +11800,6 @@
       "word": "马嘉祺说灿烂的花园救了我",
       "onboard_time": 1715828658,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192954,
-      "num": 192954,
-      "word": "赵丽颖帮朱梓骁追星",
-      "onboard_time": 1716030257,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -13041,6 +13065,14 @@
       "onboard_time": 1715783179,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174652,
+      "num": 174652,
+      "word": "五月天鸟巢演唱会",
+      "onboard_time": 1716030677,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 174565,
@@ -14755,14 +14787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148415,
-      "num": 148415,
-      "word": "五月天鸟巢演唱会",
-      "onboard_time": 1716030677,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 148014,
       "num": 633012,
       "word": "一朵最娇艳的花送给最爱的母亲",
@@ -14849,6 +14873,14 @@
       "onboard_time": 1715652740,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146885,
+      "num": 146885,
+      "word": "济南打雷",
+      "onboard_time": 1716031638,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146842,
@@ -15216,6 +15248,14 @@
       "word": "金丝熊的嘴巴能塞多少东西",
       "onboard_time": 1715850979,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 141249,
+      "num": 145741,
+      "word": "第一次见这么聪明的猴",
+      "onboard_time": 1716030257,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -18259,6 +18299,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 66568,
+      "num": 355038,
+      "word": "女生挑战中式元素变装惊艳了",
+      "onboard_time": 1716030738,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66143,
       "num": 55072,
       "word": "张若昀说庆余年2比预想晚了好多",
@@ -18465,14 +18513,6 @@
       "onboard_time": 1715843778,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57163,
-      "num": 216168,
-      "word": "女生挑战中式元素变装惊艳了",
-      "onboard_time": 1716030738,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 57103,
