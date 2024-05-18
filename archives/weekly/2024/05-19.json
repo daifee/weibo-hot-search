@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716056590177,
+  "endTime": 1716057300241,
   "band_list": [
     {
       "raw_hot": 865357,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194390,
+      "num": 173348,
+      "word": "李佳薇 煎熬",
+      "onboard_time": 1716053952,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193963,
       "num": 193963,
       "word": "勒沃库森德甲不败夺冠",
@@ -241,14 +249,6 @@
       "onboard_time": 1716050717,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182029,
-      "num": 173348,
-      "word": "李佳薇 煎熬",
-      "onboard_time": 1716053952,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 181327,
@@ -499,11 +499,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33240,
+      "num": 33240,
+      "word": "xg新曲MV预告",
+      "onboard_time": 1716057013,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 23627,
       "num": 175029,
       "word": "大四学生拍毕业照意外与婚纱照同框",
       "onboard_time": 1716052094,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17985,
+      "num": 69052,
+      "word": "豹警官减肥2个月瘦不了一点",
+      "onboard_time": 1716057073,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
