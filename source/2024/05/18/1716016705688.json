@@ -1,0 +1,410 @@
+{
+  "runTime": 1716016705688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1577816,
+        "num": 1577816,
+        "word": "十个勤天小卖铺",
+        "onboard_time": 1716015918,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613564,
+        "num": 613564,
+        "word": "老板怒斥员工朝9晚6按时上下班",
+        "onboard_time": 1716014478,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86675,
+        "num": 456306,
+        "word": "博物致知",
+        "onboard_time": 1716003799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1066890,
+        "num": 425938,
+        "word": "陈赫录节目血栓甲状腺全通了",
+        "onboard_time": 1716013097,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 847788,
+        "num": 413969,
+        "word": "浙江一2岁宝宝得梅毒",
+        "onboard_time": 1716008719,
+        "rank": 4,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 376296,
+        "num": 376296,
+        "word": "霸王茶姬",
+        "onboard_time": 1716003618,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 824265,
+        "num": 339050,
+        "word": "赵丽颖 只有一件事情能够令人兴奋",
+        "onboard_time": 1716009078,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692252,
+        "num": 338533,
+        "word": "种地吧",
+        "onboard_time": 1716016219,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292472,
+        "num": 292472,
+        "word": "专家称新政后1000万房子首付仅需150万",
+        "onboard_time": 1716008059,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94054,
+        "num": 290570,
+        "word": "朝鲜族院长回应与学生共跳蒙古舞走红",
+        "onboard_time": 1716013878,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625956,
+        "num": 287772,
+        "word": "汪苏泷 还不如让我走了呢",
+        "onboard_time": 1715989635,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617899,
+        "num": 283028,
+        "word": "蔡徐坤小香风",
+        "onboard_time": 1716013279,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 582400,
+        "num": 279828,
+        "word": "杨丞琳淘汰后李莎旻子的发言",
+        "onboard_time": 1716002059,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375205,
+        "num": 275270,
+        "word": "普京拍拍肚子说烤鸭太香了再吃一块",
+        "onboard_time": 1716015558,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299394,
+        "num": 269295,
+        "word": "留学生一份柿子汤吃7天",
+        "onboard_time": 1716014478,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 606971,
+        "num": 265269,
+        "word": "汪苏泷 你不是真的心疼我",
+        "onboard_time": 1716008659,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265068,
+        "num": 265068,
+        "word": "iPhone17后置摄像头或移至顶部中心",
+        "onboard_time": 1716005777,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170554,
+        "num": 170554,
+        "word": "山东事业编",
+        "onboard_time": 1716009378,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168473,
+        "num": 168473,
+        "word": "市监局联合B太打假加油站",
+        "onboard_time": 1716015618,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135492,
+        "num": 135492,
+        "word": "普京首次公开俄军意图",
+        "onboard_time": 1716016157,
+        "rank": 19,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 552221,
+        "num": 135422,
+        "word": "男子嫖娼被抓妻子选择原谅回家养牛",
+        "onboard_time": 1716000077,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507616,
+        "num": 134156,
+        "word": "李沁暗示庆余年第三季",
+        "onboard_time": 1716014357,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486285,
+        "num": 132537,
+        "word": "庆帝 反派",
+        "onboard_time": 1716011057,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461492,
+        "num": 131351,
+        "word": "她们孕期离婚选择独自成为母亲",
+        "onboard_time": 1716012739,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393295,
+        "num": 129251,
+        "word": "十个勤天直播",
+        "onboard_time": 1716007698,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129101,
+        "num": 129101,
+        "word": "突然发现吃饭是很私密的事",
+        "onboard_time": 1715992639,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383998,
+        "num": 128552,
+        "word": "邓超通通取关",
+        "onboard_time": 1716007099,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377266,
+        "num": 127899,
+        "word": "杨幂 戛纳",
+        "onboard_time": 1715990117,
+        "rank": 27,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 333577,
+        "num": 127307,
+        "word": "37岁男子娶19岁越南新娘",
+        "onboard_time": 1716006257,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296051,
+        "num": 126588,
+        "word": "陈昊宇唱歌",
+        "onboard_time": 1716013157,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40148,
+        "num": 125697,
+        "word": "广州塔由4A景区升级520景区",
+        "onboard_time": 1716015739,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279447,
+        "num": 124688,
+        "word": "范闲 这下吃到甄嬛的苦了",
+        "onboard_time": 1716012857,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262797,
+        "num": 124052,
+        "word": "金饰价格一夜每克涨12元",
+        "onboard_time": 1716015140,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252585,
+        "num": 123209,
+        "word": "十个勤天 虾虾虾",
+        "onboard_time": 1716011297,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230075,
+        "num": 122176,
+        "word": "歌手 小孩姐",
+        "onboard_time": 1716005718,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222523,
+        "num": 121626,
+        "word": "百花奖",
+        "onboard_time": 1716015618,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205886,
+        "num": 120621,
+        "word": "歌手2024第一爆",
+        "onboard_time": 1715992038,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190875,
+        "num": 120471,
+        "word": "庆余年 这不是家宴是血淋淋的祭台",
+        "onboard_time": 1716005178,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141673,
+        "num": 119414,
+        "word": "你今年买银饰了吗",
+        "onboard_time": 1716012617,
+        "rank": 38,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 133803,
+        "num": 118791,
+        "word": "恋与深空满赠",
+        "onboard_time": 1716016518,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179374,
+        "num": 117587,
+        "word": "种地吧518爱侬日",
+        "onboard_time": 1716015739,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177481,
+        "num": 117121,
+        "word": "歌手来把胡彦斌抓走吧",
+        "onboard_time": 1716016278,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173053,
+        "num": 116328,
+        "word": "许凯胡子",
+        "onboard_time": 1716015379,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147221,
+        "num": 115497,
+        "word": "刘卓回应那英乐队失误质疑",
+        "onboard_time": 1716008839,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145596,
+        "num": 114979,
+        "word": "陈丽君小考",
+        "onboard_time": 1716016339,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114446,
+        "num": 114446,
+        "word": "妇科医生谈鸭嘴钳",
+        "onboard_time": 1715995939,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86762,
+        "num": 109882,
+        "word": "00后大学生带着妈妈弟弟一起上学",
+        "onboard_time": 1716016339,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109760,
+        "num": 109760,
+        "word": "2岁宝宝疑因奶奶嚼碎喂食感染梅毒",
+        "onboard_time": 1716016578,
+        "rank": 47,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 108018,
+        "num": 108018,
+        "word": "原来爱真的可以治愈一切",
+        "onboard_time": 1716015319,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93456,
+        "num": 107737,
+        "word": "胸口刺痛几秒是猝死信号吗",
+        "onboard_time": 1716003498,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与普京在北京的一天#"
+    }
+  }
+}
