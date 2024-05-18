@@ -1,12 +1,20 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1715988881536,
+  "endTime": 1715995010459,
   "band_list": [
     {
       "raw_hot": 3996294,
       "num": 3996294,
       "word": "亚当真来歌手了",
       "onboard_time": 1715956647,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2904100,
+      "num": 2904100,
+      "word": "汪苏泷 还不如让我走了呢",
+      "onboard_time": 1715989635,
       "rank": 0,
       "category": "综艺"
     },
@@ -43,11 +51,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1337330,
+      "num": 614290,
+      "word": "歌手2024第一爆",
+      "onboard_time": 1715992038,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1224970,
       "num": 308199,
       "word": "杨丞琳二手玫瑰淘汰",
       "onboard_time": 1715956766,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1110357,
+      "num": 249756,
+      "word": "杨丞琳回应淘汰",
+      "onboard_time": 1715988076,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -99,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 747104,
+      "num": 248114,
+      "word": "杨幂 戛纳",
+      "onboard_time": 1715990117,
+      "rank": 7,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 742118,
       "num": 742118,
       "word": "周杰伦唱了倒带",
       "onboard_time": 1715957604,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 733345,
+      "num": 187772,
+      "word": "王力宏回应去歌手",
+      "onboard_time": 1715989216,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 704732,
@@ -123,6 +163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 685379,
+      "num": 685379,
+      "word": "妈妈被问了五次才想起来自己就是自己",
+      "onboard_time": 1715988014,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584629,
+      "num": 584629,
+      "word": "女子建议车厢厕所改成女播音员",
+      "onboard_time": 1715990597,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576797,
       "num": 576797,
       "word": "重庆地铁电子屏惊现雷人字幕",
@@ -139,11 +195,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 496009,
+      "num": 181367,
+      "word": "庆余年歌手收视率",
+      "onboard_time": 1715992398,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 468288,
+      "num": 173916,
+      "word": "那英 保四争三",
+      "onboard_time": 1715993717,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 454678,
       "num": 263836,
       "word": "歌手大战庆余年",
       "onboard_time": 1715945358,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 442281,
+      "num": 136902,
+      "word": "中岛美嘉 歌手",
+      "onboard_time": 1715991618,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -187,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344231,
+      "num": 136379,
+      "word": "男朋友在和别的女生打电话吗",
+      "onboard_time": 1715989937,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 340152,
       "num": 340152,
       "word": "张若昀 还可以更狂一点",
@@ -203,12 +291,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323969,
+      "num": 169109,
+      "word": "路边茶叶店五金店没人去为啥还不倒闭",
+      "onboard_time": 1715992098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322268,
       "num": 322268,
       "word": "如何看待能在床上躺一天的舍友",
       "onboard_time": 1715956766,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320947,
+      "num": 136357,
+      "word": "范闲断脐而生",
+      "onboard_time": 1715990717,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 314194,
@@ -251,12 +355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282558,
+      "num": 136154,
+      "word": "鹿晗状态回春",
+      "onboard_time": 1715992758,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280418,
       "num": 280418,
       "word": "男童母亲称要看到照片才相信狗已被打死",
       "onboard_time": 1715956948,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278610,
+      "num": 135826,
+      "word": "汪苏泷 我祝他成功",
+      "onboard_time": 1715954126,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 277771,
@@ -267,20 +387,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273726,
-      "num": 101191,
-      "word": "汪苏泷 我祝他成功",
-      "onboard_time": 1715954126,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258801,
       "num": 258801,
       "word": "鹿晗秦皇岛",
       "onboard_time": 1715960001,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247129,
+      "num": 166255,
+      "word": "机构回应女生考研政治97分被疑造假",
+      "onboard_time": 1715991318,
+      "rank": 15,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 245029,
+      "num": 245029,
+      "word": "男孩想念去世妈妈给二姨打视频电话",
+      "onboard_time": 1715988555,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232533,
+      "num": 128787,
+      "word": "小鬼 本人成年了请叫我帅哥",
+      "onboard_time": 1715993538,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 231039,
@@ -291,12 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224200,
-      "num": 99508,
-      "word": "杨丞琳回应淘汰",
-      "onboard_time": 1715988076,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 212055,
+      "num": 128616,
+      "word": "成毅连发11条微博",
+      "onboard_time": 1715993058,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211801,
+      "num": 162971,
+      "word": "海关查获120张Switch游戏卡",
+      "onboard_time": 1715989937,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 196786,
@@ -304,6 +448,22 @@
       "word": "歌手",
       "onboard_time": 1715987474,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186674,
+      "num": 128276,
+      "word": "毛晓彤演技",
+      "onboard_time": 1715991378,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184688,
+      "num": 121506,
+      "word": "胡海泉自己上吧",
+      "onboard_time": 1715994199,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -331,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163481,
+      "num": 135276,
+      "word": "突然发现吃饭是很私密的事",
+      "onboard_time": 1715992639,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161763,
       "num": 131939,
       "word": "女朋友的情绪价值过于饱满了",
@@ -347,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159621,
+      "num": 159621,
+      "word": "30岁小伙被裁岳母和女儿在门口迎接",
+      "onboard_time": 1715987474,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154934,
       "num": 154934,
       "word": "歌手倒数第一竞争激烈",
@@ -355,8 +531,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154374,
+      "num": 135104,
+      "word": "和很好的相亲对象说了再见",
+      "onboard_time": 1715993598,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146006,
-      "num": 97948,
+      "num": 119160,
       "word": "频繁塞牙是牙齿发出的警报",
       "onboard_time": 1715973192,
       "rank": 49,
@@ -379,6 +563,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138356,
+      "num": 120057,
+      "word": "庆余年",
+      "onboard_time": 1715994499,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137858,
+      "num": 137858,
+      "word": "女生一定要学会投资自己",
+      "onboard_time": 1715992758,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 136936,
+      "num": 136936,
+      "word": "不吃晚饭和每餐七分饱哪个减肥效果好",
+      "onboard_time": 1715987474,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134434,
+      "num": 134434,
+      "word": "大学生毕设把电价打下来了",
+      "onboard_time": 1715990956,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131071,
       "num": 219535,
       "word": "陈奕迅杭州演唱会",
@@ -395,6 +611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127856,
+      "num": 127856,
+      "word": "两个人合不合适吃顿饭就知道",
+      "onboard_time": 1715993958,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121658,
       "num": 270492,
       "word": "这些景区居然是私人的",
@@ -403,16 +627,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112506,
-      "num": 133681,
-      "word": "妈妈被问了五次才想起来自己就是自己",
-      "onboard_time": 1715988014,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102157,
-      "num": 102157,
+      "num": 115641,
       "word": "公积金真的有用吗",
       "onboard_time": 1715971752,
       "rank": 29,
@@ -507,28 +723,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 81052,
+      "num": 118652,
+      "word": "有一个不健康的习惯叫穷思竭虑",
+      "onboard_time": 1715992517,
+      "rank": 46,
+      "category": "情感,其它"
+    },
+    {
       "raw_hot": 78143,
       "num": 302638,
       "word": "高中女生俩月考出执照成全国最小飞行员",
       "onboard_time": 1715959401,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76583,
-      "num": 76583,
-      "word": "男孩想念去世妈妈给二姨打视频电话",
-      "onboard_time": 1715988555,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72340,
-      "num": 72340,
-      "word": "不吃晚饭和每餐七分饱哪个减肥效果好",
-      "onboard_time": 1715987474,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 66749,
@@ -603,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51010,
-      "num": 154698,
-      "word": "30岁小伙被裁岳母和女儿在门口迎接",
-      "onboard_time": 1715987474,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50835,
       "num": 55067,
       "word": "三只狗带了一只流浪猫回家",
@@ -659,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41589,
+      "num": 1742966,
+      "word": "盘点中国知名体育博物馆",
+      "onboard_time": 1715954554,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40267,
       "num": 40267,
       "word": "云南一茶厂土方坍塌致3人死亡",
@@ -672,14 +880,6 @@
       "word": "爸爸抱女儿睡觉围观群众反应好暖心",
       "onboard_time": 1715987955,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35799,
-      "num": 1742966,
-      "word": "盘点中国知名体育博物馆",
-      "onboard_time": 1715954554,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -724,6 +924,9 @@
     },
     {
       "word": "#习近平对旅游工作作出重要指示#"
+    },
+    {
+      "word": "#博物致知#"
     }
   ]
 }

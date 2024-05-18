@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715988881536,
+  "endTime": 1715995010459,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -128,6 +128,14 @@
       "word": "歌手在邀请了",
       "onboard_time": 1715517981,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2904100,
+      "num": 2904100,
+      "word": "汪苏泷 还不如让我走了呢",
+      "onboard_time": 1715989635,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1337330,
+      "num": 614290,
+      "word": "歌手2024第一爆",
+      "onboard_time": 1715992038,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1326766,
       "num": 1326766,
       "word": "关晓彤黑天鹅高定",
@@ -1248,6 +1264,14 @@
       "word": "青春环游记5阵容官宣",
       "onboard_time": 1715651058,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1110357,
+      "num": 249756,
+      "word": "杨丞琳回应淘汰",
+      "onboard_time": 1715988076,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -2355,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747104,
+      "num": 248114,
+      "word": "杨幂 戛纳",
+      "onboard_time": 1715990117,
+      "rank": 7,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 743195,
       "num": 743195,
       "word": "云南将迎1亿只以上蝴蝶大爆发",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1715864899,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 733345,
+      "num": 187772,
+      "word": "王力宏回应去歌手",
+      "onboard_time": 1715989216,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 731427,
@@ -2689,6 +2729,14 @@
       "onboard_time": 1715926158,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 685379,
+      "num": 685379,
+      "word": "妈妈被问了五次才想起来自己就是自己",
+      "onboard_time": 1715988014,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 685114,
@@ -3297,6 +3345,14 @@
       "onboard_time": 1715915298,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 584629,
+      "num": 584629,
+      "word": "女子建议车厢厕所改成女播音员",
+      "onboard_time": 1715990597,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583453,
@@ -4147,6 +4203,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 496009,
+      "num": 181367,
+      "word": "庆余年歌手收视率",
+      "onboard_time": 1715992398,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 495509,
       "num": 264717,
       "word": "肖战工作室掉落惊喜",
@@ -4361,6 +4425,14 @@
       "onboard_time": 1715608939,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 468288,
+      "num": 173916,
+      "word": "那英 保四争三",
+      "onboard_time": 1715993717,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 467108,
@@ -6107,6 +6179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344231,
+      "num": 136379,
+      "word": "男朋友在和别的女生打电话吗",
+      "onboard_time": 1715989937,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 344056,
       "num": 201318,
       "word": "蒲熠星眼睛",
@@ -6491,6 +6571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 323969,
+      "num": 169109,
+      "word": "路边茶叶店五金店没人去为啥还不倒闭",
+      "onboard_time": 1715992098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323790,
       "num": 290253,
       "word": "淘宝天猫成交额双位数增长",
@@ -6553,6 +6641,14 @@
       "onboard_time": 1715683697,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 320947,
+      "num": 136357,
+      "word": "范闲断脐而生",
+      "onboard_time": 1715990717,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 320566,
@@ -7219,6 +7315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 282558,
+      "num": 136154,
+      "word": "鹿晗状态回春",
+      "onboard_time": 1715992758,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282080,
       "num": 282080,
       "word": "大睿睿小马甲有宝宝了",
@@ -7297,6 +7401,14 @@
       "onboard_time": 1715651477,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278610,
+      "num": 135826,
+      "word": "汪苏泷 我祝他成功",
+      "onboard_time": 1715954126,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 278382,
@@ -7449,14 +7561,6 @@
       "onboard_time": 1715843658,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273726,
-      "num": 101191,
-      "word": "汪苏泷 我祝他成功",
-      "onboard_time": 1715954126,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 273568,
@@ -8267,6 +8371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247129,
+      "num": 166255,
+      "word": "机构回应女生考研政治97分被疑造假",
+      "onboard_time": 1715991318,
+      "rank": 15,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 247115,
       "num": 240140,
       "word": "潮汕偶遇鹿晗王勉",
@@ -8305,6 +8417,14 @@
       "onboard_time": 1715946319,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 245029,
+      "num": 245029,
+      "word": "男孩想念去世妈妈给二姨打视频电话",
+      "onboard_time": 1715988555,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245027,
@@ -8611,6 +8731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232533,
+      "num": 128787,
+      "word": "小鬼 本人成年了请叫我帅哥",
+      "onboard_time": 1715993538,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232510,
       "num": 232510,
       "word": "误打误撞进了想干到退休的公司",
@@ -8889,14 +9017,6 @@
       "onboard_time": 1715955203,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 224200,
-      "num": 99508,
-      "word": "杨丞琳回应淘汰",
-      "onboard_time": 1715988076,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 223861,
@@ -9433,6 +9553,22 @@
       "onboard_time": 1715688619,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 212055,
+      "num": 128616,
+      "word": "成毅连发11条微博",
+      "onboard_time": 1715993058,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211801,
+      "num": 162971,
+      "word": "海关查获120张Switch游戏卡",
+      "onboard_time": 1715989937,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 211561,
@@ -11235,6 +11371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186674,
+      "num": 128276,
+      "word": "毛晓彤演技",
+      "onboard_time": 1715991378,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186388,
       "num": 186388,
       "word": "歌手网传赛制",
@@ -11305,6 +11449,14 @@
       "onboard_time": 1715861896,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184688,
+      "num": 121506,
+      "word": "胡海泉自己上吧",
+      "onboard_time": 1715994199,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 184675,
@@ -12635,6 +12787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163481,
+      "num": 135276,
+      "word": "突然发现吃饭是很私密的事",
+      "onboard_time": 1715992639,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163453,
       "num": 163453,
       "word": "aespa别念了",
@@ -12841,6 +13001,14 @@
       "onboard_time": 1715596759,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159621,
+      "num": 159621,
+      "word": "30岁小伙被裁岳母和女儿在门口迎接",
+      "onboard_time": 1715987474,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159513,
@@ -13121,6 +13289,14 @@
       "onboard_time": 1715944097,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154374,
+      "num": 135104,
+      "word": "和很好的相亲对象说了再见",
+      "onboard_time": 1715993598,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 154371,
@@ -13548,7 +13724,7 @@
     },
     {
       "raw_hot": 146006,
-      "num": 97948,
+      "num": 119160,
       "word": "频繁塞牙是牙齿发出的警报",
       "onboard_time": 1715973192,
       "rank": 49,
@@ -14011,6 +14187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137858,
+      "num": 137858,
+      "word": "女生一定要学会投资自己",
+      "onboard_time": 1715992758,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137828,
       "num": 137828,
       "word": "茶百道新品一口入海",
@@ -14081,6 +14265,14 @@
       "onboard_time": 1715595381,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136936,
+      "num": 136936,
+      "word": "不吃晚饭和每餐七分饱哪个减肥效果好",
+      "onboard_time": 1715987474,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136851,
@@ -14217,6 +14409,14 @@
       "onboard_time": 1715935941,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134434,
+      "num": 134434,
+      "word": "大学生毕设把电价打下来了",
+      "onboard_time": 1715990956,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 134259,
@@ -14633,6 +14833,14 @@
       "onboard_time": 1715857396,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 127856,
+      "num": 127856,
+      "word": "两个人合不合适吃顿饭就知道",
+      "onboard_time": 1715993958,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 127846,
@@ -15395,14 +15603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112506,
-      "num": 133681,
-      "word": "妈妈被问了五次才想起来自己就是自己",
-      "onboard_time": 1715988014,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111599,
       "num": 111599,
       "word": "独行侠2比1雷霆",
@@ -15892,7 +16092,7 @@
     },
     {
       "raw_hot": 102157,
-      "num": 102157,
+      "num": 115641,
       "word": "公积金真的有用吗",
       "onboard_time": 1715971752,
       "rank": 29,
@@ -16403,6 +16603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81052,
+      "num": 118652,
+      "word": "有一个不健康的习惯叫穷思竭虑",
+      "onboard_time": 1715992517,
+      "rank": 46,
+      "category": "情感,其它"
+    },
+    {
       "raw_hot": 80956,
       "num": 178849,
       "word": "余承东现身问界新M5交付活动",
@@ -16515,14 +16723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76583,
-      "num": 76583,
-      "word": "男孩想念去世妈妈给二姨打视频电话",
-      "onboard_time": 1715988555,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76451,
       "num": 76451,
       "word": "陈梦大满贯双冠",
@@ -16585,14 +16785,6 @@
       "onboard_time": 1715919440,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72340,
-      "num": 72340,
-      "word": "不吃晚饭和每餐七分饱哪个减肥效果好",
-      "onboard_time": 1715987474,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 71692,
@@ -17033,14 +17225,6 @@
       "onboard_time": 1715469134,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51010,
-      "num": 154698,
-      "word": "30岁小伙被裁岳母和女儿在门口迎接",
-      "onboard_time": 1715987474,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50478,
@@ -17993,6 +18177,9 @@
     },
     {
       "word": "#中俄元首北京会晤看点#"
+    },
+    {
+      "word": "#博物致知#"
     }
   ]
 }
