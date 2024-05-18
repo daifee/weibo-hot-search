@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716046465833,
+  "endTime": 1716049306339,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -7028,7 +7028,7 @@
     },
     {
       "raw_hot": 692252,
-      "num": 338533,
+      "num": 405223,
       "word": "种地吧",
       "onboard_time": 1714652059,
       "rank": 25,
@@ -8449,6 +8449,14 @@
       "onboard_time": 1715324478,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 621201,
+      "num": 237777,
+      "word": "三胞胎兄弟居然有胎内记忆",
+      "onboard_time": 1716044360,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621001,
@@ -10209,6 +10217,14 @@
       "onboard_time": 1715045478,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 536972,
+      "num": 536972,
+      "word": "elk吐了",
+      "onboard_time": 1716046637,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 536076,
@@ -14947,6 +14963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388465,
+      "num": 388465,
+      "word": "老林哭了",
+      "onboard_time": 1716044718,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 388367,
       "num": 388367,
       "word": "高校回应教师因非升即走压力自杀",
@@ -15257,14 +15281,6 @@
       "onboard_time": 1715676560,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381723,
-      "num": 381723,
-      "word": "老林哭了",
-      "onboard_time": 1716044718,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 381686,
@@ -18563,6 +18579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306699,
+      "num": 179458,
+      "word": "赵露思带粉丝China",
+      "onboard_time": 1716046399,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306518,
       "num": 270656,
       "word": "刮刮乐不敢敞开卖了",
@@ -21585,14 +21609,6 @@
       "onboard_time": 1714611498,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258335,
-      "num": 237777,
-      "word": "三胞胎兄弟居然有胎内记忆",
-      "onboard_time": 1716044360,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258330,
@@ -24873,6 +24889,14 @@
       "onboard_time": 1715731157,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 220635,
+      "num": 220635,
+      "word": "庆余年太子给打工人一些震撼",
+      "onboard_time": 1716045258,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 220553,
@@ -28219,6 +28243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200287,
+      "num": 176125,
+      "word": "钟楚曦 我的电子闺蜜",
+      "onboard_time": 1716047297,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200270,
       "num": 200270,
       "word": "卡西法演我不想上班",
@@ -29625,6 +29657,14 @@
       "onboard_time": 1714703597,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193963,
+      "num": 193963,
+      "word": "勒沃库森德甲不败夺冠",
+      "onboard_time": 1716048259,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 193922,
@@ -31491,14 +31531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185261,
-      "num": 185261,
-      "word": "庆余年太子给打工人一些震撼",
-      "onboard_time": 1716045258,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185230,
       "num": 185230,
       "word": "JDG官宣战马加入",
@@ -33353,6 +33385,14 @@
       "onboard_time": 1715763679,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 174994,
+      "num": 174994,
+      "word": "周深蓝发",
+      "onboard_time": 1716046577,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174987,
@@ -37651,6 +37691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152159,
+      "num": 152159,
+      "word": "男子被蜱虫咬几天后做足疗时发现",
+      "onboard_time": 1716042140,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152106,
       "num": 152106,
       "word": "水贝金饰加工费大跳水",
@@ -38459,14 +38507,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 147955,
-      "num": 147955,
-      "word": "赵露思带粉丝China",
-      "onboard_time": 1716046399,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147901,
       "num": 147901,
       "word": "魏如萱也想去歌手",
@@ -38561,6 +38601,14 @@
       "onboard_time": 1714560258,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147514,
+      "num": 147514,
+      "word": "AG",
+      "onboard_time": 1716049157,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 147501,
@@ -41395,6 +41443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132958,
+      "num": 132958,
+      "word": "krd",
+      "onboard_time": 1716048557,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132930,
       "num": 132930,
       "word": "俄居民楼遭袭坍塌事故已致15人死亡",
@@ -41633,6 +41689,14 @@
       "onboard_time": 1715823557,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131756,
+      "num": 165209,
+      "word": "李娟为什么是李娟",
+      "onboard_time": 1716048199,
+      "rank": 29,
+      "category": "读书作家"
     },
     {
       "raw_hot": 131735,
@@ -45131,6 +45195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110112,
+      "num": 110112,
+      "word": "王星越中插代表作第一人",
+      "onboard_time": 1716047537,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110012,
       "num": 142749,
       "word": "潘玮柏演唱会大屏上的一家三口",
@@ -47153,6 +47225,14 @@
       "onboard_time": 1715613739,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87842,
+      "num": 104812,
+      "word": "德甲联赛",
+      "onboard_time": 1716048557,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87821,

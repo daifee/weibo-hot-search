@@ -1,0 +1,411 @@
+{
+  "startTime": 1716049306339,
+  "endTime": 1716049306339,
+  "band_list": [
+    {
+      "raw_hot": 865357,
+      "num": 865357,
+      "word": "警方回应知名主持人被曝私生活混乱",
+      "onboard_time": 1716037820,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 757230,
+      "num": 540293,
+      "word": "幼态审美盯上女生的牙齿",
+      "onboard_time": 1716034758,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 650622,
+      "num": 650622,
+      "word": "狼队战胜AG",
+      "onboard_time": 1716044180,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 621201,
+      "num": 180067,
+      "word": "三胞胎兄弟居然有胎内记忆",
+      "onboard_time": 1716044360,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536972,
+      "num": 536972,
+      "word": "elk吐了",
+      "onboard_time": 1716046637,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 441685,
+      "num": 441685,
+      "word": "张杰唱了默",
+      "onboard_time": 1716042319,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 417519,
+      "num": 417519,
+      "word": "早就说了我邀请的是断眉亚当",
+      "onboard_time": 1716039259,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 405223,
+      "num": 405223,
+      "word": "种地吧",
+      "onboard_time": 1716046577,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 388465,
+      "num": 388465,
+      "word": "老林哭了",
+      "onboard_time": 1716044718,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 370837,
+      "num": 391491,
+      "word": "向12岁女孩要裸照男大学生已被刑拘",
+      "onboard_time": 1716033738,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360769,
+      "num": 360769,
+      "word": "毛晓彤庆余年2奶凶奶凶的",
+      "onboard_time": 1716040760,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 341023,
+      "num": 341023,
+      "word": "女子试戴金戒不慎摔落被索赔1250",
+      "onboard_time": 1716021618,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321175,
+      "num": 321175,
+      "word": "歌手第三期网传歌单",
+      "onboard_time": 1716039800,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 306699,
+      "num": 179458,
+      "word": "赵露思带粉丝China",
+      "onboard_time": 1716046399,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 278948,
+      "num": 178044,
+      "word": "中年人的婚外情为何不会通往离婚",
+      "onboard_time": 1716042201,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 273254,
+      "num": 177022,
+      "word": "瘦30斤五官的变化",
+      "onboard_time": 1716030437,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 256013,
+      "num": 256013,
+      "word": "张韶涵回应那英需要你",
+      "onboard_time": 1716028519,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 246316,
+      "num": 246316,
+      "word": "向鱼感谢女朋友",
+      "onboard_time": 1716044838,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 220635,
+      "num": 220635,
+      "word": "庆余年太子给打工人一些震撼",
+      "onboard_time": 1716045258,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216323,
+      "num": 181144,
+      "word": "黄俊捷工作室发声明",
+      "onboard_time": 1716041600,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208761,
+      "num": 208761,
+      "word": "95后亿万富豪被罚1.33亿元",
+      "onboard_time": 1716036198,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200287,
+      "num": 176125,
+      "word": "钟楚曦 我的电子闺蜜",
+      "onboard_time": 1716047297,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193963,
+      "num": 193963,
+      "word": "勒沃库森德甲不败夺冠",
+      "onboard_time": 1716048259,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189691,
+      "num": 175342,
+      "word": "孙俪超市购物被偶遇",
+      "onboard_time": 1716044119,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181327,
+      "num": 181327,
+      "word": "狼队十冠王",
+      "onboard_time": 1716043639,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 174994,
+      "num": 174994,
+      "word": "周深蓝发",
+      "onboard_time": 1716046577,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168586,
+      "num": 168586,
+      "word": "19天 影子",
+      "onboard_time": 1716044001,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 164491,
+      "num": 164491,
+      "word": "神bin天降",
+      "onboard_time": 1716037400,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 158135,
+      "num": 158135,
+      "word": "AG对战狼队",
+      "onboard_time": 1716027199,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 155591,
+      "num": 155591,
+      "word": "BLG战胜T1",
+      "onboard_time": 1716038059,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 152159,
+      "num": 152159,
+      "word": "男子被蜱虫咬几天后做足疗时发现",
+      "onboard_time": 1716042140,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150913,
+      "num": 150913,
+      "word": "五月天嘉宾陈绮贞",
+      "onboard_time": 1716036317,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 150351,
+      "num": 150351,
+      "word": "周深演唱会庆余年联动开场",
+      "onboard_time": 1716034158,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 147514,
+      "num": 147514,
+      "word": "AG",
+      "onboard_time": 1716049157,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 145053,
+      "num": 145053,
+      "word": "十个勤天真把我们当自己人",
+      "onboard_time": 1716043759,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143913,
+      "num": 143913,
+      "word": "许嵩演唱会",
+      "onboard_time": 1716033436,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 136100,
+      "num": 136100,
+      "word": "范闲骂得声音好大好超前",
+      "onboard_time": 1716033257,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132958,
+      "num": 132958,
+      "word": "krd",
+      "onboard_time": 1716048557,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 131877,
+      "num": 131877,
+      "word": "迪丽热巴深V白裙",
+      "onboard_time": 1716037158,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131756,
+      "num": 165209,
+      "word": "李娟为什么是李娟",
+      "onboard_time": 1716048199,
+      "rank": 29,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 125010,
+      "num": 125010,
+      "word": "小胖FMVP",
+      "onboard_time": 1716044180,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 121483,
+      "num": 121483,
+      "word": "王栎鑫演唱会",
+      "onboard_time": 1716045018,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 115852,
+      "num": 115852,
+      "word": "张艺兴祝福Red女团",
+      "onboard_time": 1716044540,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 113966,
+      "num": 113966,
+      "word": "韩国政府因newjeans制定编舞著作权方针",
+      "onboard_time": 1716039499,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111945,
+      "num": 111945,
+      "word": "范闲 我想吃鱼了",
+      "onboard_time": 1716041299,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110112,
+      "num": 110112,
+      "word": "王星越中插代表作第一人",
+      "onboard_time": 1716047537,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108916,
+      "num": 108916,
+      "word": "G2问Bin收徒吗",
+      "onboard_time": 1716042201,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 87842,
+      "num": 104812,
+      "word": "德甲联赛",
+      "onboard_time": 1716048557,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47124,
+      "num": 389477,
+      "word": "5000年前老祖宗就拿捏了粘土特效",
+      "onboard_time": 1716045679,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 6022,
+      "num": 543266,
+      "word": "文化中国行看博物馆之宝",
+      "onboard_time": 1715931378,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#视频看习近平的绿色足迹#"
+    }
+  ]
+}
