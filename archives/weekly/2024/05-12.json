@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1715999400106,
+  "endTime": 1716000025238,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2731,6 +2731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 686063,
+      "num": 426113,
+      "word": "妇科医生谈鸭嘴钳",
+      "onboard_time": 1715995939,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 686020,
       "num": 686020,
       "word": "周也 谢可寅",
@@ -2801,14 +2809,6 @@
       "onboard_time": 1715686518,
       "rank": 8,
       "category": "自然"
-    },
-    {
-      "raw_hot": 673378,
-      "num": 426113,
-      "word": "妇科医生谈鸭嘴钳",
-      "onboard_time": 1715995939,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 672867,
@@ -2929,6 +2929,14 @@
       "onboard_time": 1715694979,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655418,
+      "num": 369891,
+      "word": "那英 这一辈子没选错职业",
+      "onboard_time": 1715995939,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 652998,
@@ -3081,14 +3089,6 @@
       "onboard_time": 1715527520,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 628083,
-      "num": 362397,
-      "word": "那英 这一辈子没选错职业",
-      "onboard_time": 1715995939,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 628079,
@@ -5083,6 +5083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417543,
+      "num": 360250,
+      "word": "鹿晗 阿那亚",
+      "onboard_time": 1715997078,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416780,
       "num": 295853,
       "word": "杭州退休人员接了个电话400万没了",
@@ -5651,6 +5659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 385007,
+      "num": 385007,
+      "word": "突然发现吃饭是很私密的事",
+      "onboard_time": 1715992639,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384467,
       "num": 243319,
       "word": "范闲更帅了",
@@ -5883,14 +5899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369483,
-      "num": 360250,
-      "word": "鹿晗 阿那亚",
-      "onboard_time": 1715997078,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 368613,
       "num": 368613,
       "word": "婚礼上的伴娘可能全是租的",
@@ -5937,14 +5945,6 @@
       "onboard_time": 1715508921,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 362662,
-      "num": 362662,
-      "word": "突然发现吃饭是很私密的事",
-      "onboard_time": 1715992639,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 361504,
@@ -6763,6 +6763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314290,
+      "num": 284410,
+      "word": "赴山海",
+      "onboard_time": 1715991258,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314194,
       "num": 314194,
       "word": "京城大师赛",
@@ -6785,6 +6793,14 @@
       "onboard_time": 1715864720,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312413,
+      "num": 312413,
+      "word": "夫妻离婚拒养患抑郁症女儿被判不准离",
+      "onboard_time": 1715998816,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312184,
@@ -6977,6 +6993,14 @@
       "onboard_time": 1715688199,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301806,
+      "num": 301806,
+      "word": "初会",
+      "onboard_time": 1715999657,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 301735,
@@ -7321,14 +7345,6 @@
       "onboard_time": 1715485277,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284410,
-      "num": 284410,
-      "word": "赴山海",
-      "onboard_time": 1715991258,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 284321,
@@ -7889,6 +7905,14 @@
       "onboard_time": 1715537292,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 264573,
+      "num": 314698,
+      "word": "中国博物馆已经是nextlevel了",
+      "onboard_time": 1715998758,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 264399,
@@ -8467,6 +8491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245358,
+      "num": 187681,
+      "word": "成毅赴山海开机现场人气",
+      "onboard_time": 1715999057,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245230,
       "num": 490460,
       "word": "女朋友效应",
@@ -8777,6 +8809,14 @@
       "onboard_time": 1715569519,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233583,
+      "num": 361824,
+      "word": "海关查获120张Switch游戏卡",
+      "onboard_time": 1715989937,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 232987,
@@ -9435,14 +9475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215536,
-      "num": 361824,
-      "word": "海关查获120张Switch游戏卡",
-      "onboard_time": 1715989937,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 215468,
       "num": 183154,
       "word": "那英说文俊辉太能撒谎了",
@@ -9705,14 +9737,6 @@
       "onboard_time": 1715850799,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 209747,
-      "num": 314698,
-      "word": "中国博物馆已经是nextlevel了",
-      "onboard_time": 1715998758,
-      "rank": 24,
-      "category": "旅游"
     },
     {
       "raw_hot": 209613,
@@ -10137,14 +10161,6 @@
       "onboard_time": 1715928858,
       "rank": 32,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 203021,
-      "num": 203021,
-      "word": "夫妻离婚拒养患抑郁症女儿被判不准离",
-      "onboard_time": 1715998816,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202768,
@@ -10729,6 +10745,14 @@
       "onboard_time": 1715860696,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196166,
+      "num": 139321,
+      "word": "为什么肝癌一发现多是晚期",
+      "onboard_time": 1715999597,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 195671,
@@ -11449,14 +11473,6 @@
       "onboard_time": 1715691019,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 187681,
-      "num": 187681,
-      "word": "成毅赴山海开机现场人气",
-      "onboard_time": 1715999057,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 187287,
@@ -12193,6 +12209,14 @@
       "onboard_time": 1715673078,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173985,
+      "num": 360873,
+      "word": "深圳新房住宅成交量上涨40%",
+      "onboard_time": 1715997139,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 173885,
@@ -13683,14 +13707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 149104,
-      "num": 360873,
-      "word": "深圳新房住宅成交量上涨40%",
-      "onboard_time": 1715997139,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 149009,
       "num": 135210,
       "word": "范闲海棠朵朵绯闻",
@@ -14025,6 +14041,14 @@
       "onboard_time": 1715585480,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142789,
+      "num": 138135,
+      "word": "霸王茶姬产品身份证上杯贴了",
+      "onboard_time": 1715999657,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 142344,
@@ -14531,6 +14555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134432,
+      "num": 194451,
+      "word": "看好了我520想要这个礼物",
+      "onboard_time": 1715999057,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134259,
       "num": 134259,
       "word": "胡歌演抠脚大汉",
@@ -14593,6 +14625,14 @@
       "onboard_time": 1715570539,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 132828,
+      "num": 132828,
+      "word": "学生劝乘客小声通话无果扔其手机",
+      "onboard_time": 1715999478,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132806,
@@ -15003,6 +15043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126288,
+      "num": 126288,
+      "word": "BLG熬夜备战败决",
+      "onboard_time": 1715999597,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126139,
       "num": 262441,
       "word": "官方账号做霸总短剧杀疯了",
@@ -15097,6 +15145,14 @@
       "onboard_time": 1715727614,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125034,
+      "num": 125034,
+      "word": "黄子弘凡pa没关",
+      "onboard_time": 1715999958,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 124913,
@@ -15233,14 +15289,6 @@
       "onboard_time": 1715605999,
       "rank": 47,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 122356,
-      "num": 194451,
-      "word": "看好了我520想要这个礼物",
-      "onboard_time": 1715999057,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 122183,
