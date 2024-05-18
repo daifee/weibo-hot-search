@@ -1,6 +1,6 @@
 {
   "startTime": 1715962932132,
-  "endTime": 1715996185930,
+  "endTime": 1715999400106,
   "band_list": [
     {
       "raw_hot": 3996294,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1110357,
-      "num": 313102,
+      "num": 411210,
       "word": "杨丞琳回应淘汰",
       "onboard_time": 1715988076,
       "rank": 22,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 747104,
-      "num": 281446,
+      "num": 408111,
       "word": "杨幂 戛纳",
       "onboard_time": 1715990117,
       "rank": 7,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 733345,
-      "num": 214403,
+      "num": 361862,
       "word": "王力宏回应去歌手",
       "onboard_time": 1715989216,
       "rank": 10,
@@ -179,6 +179,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673378,
+      "num": 426113,
+      "word": "妇科医生谈鸭嘴钳",
+      "onboard_time": 1715995939,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 628083,
+      "num": 362397,
+      "word": "那英 这一辈子没选错职业",
+      "onboard_time": 1715995939,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 603671,
+      "num": 362196,
+      "word": "付辛博 大皇子",
+      "onboard_time": 1715995758,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 576797,
       "num": 576797,
       "word": "重庆地铁电子屏惊现雷人字幕",
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 556078,
-      "num": 212996,
+      "num": 361321,
       "word": "那英 保四争三",
       "onboard_time": 1715993717,
       "rank": 13,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 553449,
-      "num": 211917,
+      "num": 360379,
       "word": "庆余年歌手收视率",
       "onboard_time": 1715992398,
       "rank": 12,
@@ -211,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 466847,
+      "num": 466847,
+      "word": "路边茶叶店五金店没人去为啥还不倒闭",
+      "onboard_time": 1715992098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454678,
       "num": 263836,
       "word": "歌手大战庆余年",
@@ -220,7 +252,7 @@
     },
     {
       "raw_hot": 442281,
-      "num": 150856,
+      "num": 196660,
       "word": "中岛美嘉 歌手",
       "onboard_time": 1715991618,
       "rank": 20,
@@ -244,7 +276,7 @@
     },
     {
       "raw_hot": 404954,
-      "num": 151143,
+      "num": 276758,
       "word": "鹿晗状态回春",
       "onboard_time": 1715992758,
       "rank": 24,
@@ -260,23 +292,31 @@
     },
     {
       "raw_hot": 376841,
-      "num": 142898,
+      "num": 152715,
       "word": "肖战工作室发了两个肖战",
       "onboard_time": 1715987534,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 351330,
-      "num": 351330,
-      "word": "路边茶叶店五金店没人去为啥还不倒闭",
-      "onboard_time": 1715992098,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 369483,
+      "num": 360250,
+      "word": "鹿晗 阿那亚",
+      "onboard_time": 1715997078,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362662,
+      "num": 362662,
+      "word": "突然发现吃饭是很私密的事",
+      "onboard_time": 1715992639,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 344481,
-      "num": 344481,
+      "num": 361583,
       "word": "中国女排1比3加拿大女排",
       "onboard_time": 1715987715,
       "rank": 5,
@@ -284,7 +324,7 @@
     },
     {
       "raw_hot": 344231,
-      "num": 148369,
+      "num": 197425,
       "word": "男朋友在和别的女生打电话吗",
       "onboard_time": 1715989937,
       "rank": 22,
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 322268,
-      "num": 322268,
+      "num": 361208,
       "word": "如何看待能在床上躺一天的舍友",
       "onboard_time": 1715956766,
       "rank": 16,
@@ -371,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284410,
+      "num": 284410,
+      "word": "赴山海",
+      "onboard_time": 1715991258,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283298,
       "num": 211810,
       "word": "机构回应女生考研政治97分被疑造假",
@@ -403,28 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274593,
-      "num": 145493,
-      "word": "妇科医生谈鸭嘴钳",
-      "onboard_time": 1715995939,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 258801,
       "num": 258801,
       "word": "鹿晗秦皇岛",
       "onboard_time": 1715960001,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256182,
-      "num": 147094,
-      "word": "付辛博 大皇子",
-      "onboard_time": 1715995758,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 245029,
@@ -451,6 +483,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220362,
+      "num": 166902,
+      "word": "雷军直播",
+      "onboard_time": 1715995699,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 215536,
+      "num": 361824,
+      "word": "海关查获120张Switch游戏卡",
+      "onboard_time": 1715989937,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214829,
       "num": 214829,
       "word": "女生一定要学会投资自己",
@@ -460,19 +508,27 @@
     },
     {
       "raw_hot": 212055,
-      "num": 140568,
+      "num": 181762,
       "word": "成毅连发11条微博",
       "onboard_time": 1715993058,
       "rank": 36,
       "category": "艺人"
     },
     {
-      "raw_hot": 211801,
-      "num": 211760,
-      "word": "海关查获120张Switch游戏卡",
-      "onboard_time": 1715989937,
-      "rank": 16,
-      "category": "游戏"
+      "raw_hot": 209747,
+      "num": 314698,
+      "word": "中国博物馆已经是nextlevel了",
+      "onboard_time": 1715998758,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 203021,
+      "num": 203021,
+      "word": "夫妻离婚拒养患抑郁症女儿被判不准离",
+      "onboard_time": 1715998816,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196786,
@@ -481,6 +537,30 @@
       "onboard_time": 1715987474,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194365,
+      "num": 194365,
+      "word": "洪啸是怎么做到的",
+      "onboard_time": 1715996539,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187946,
+      "num": 187946,
+      "word": "谢娜曾反对张杰第一个逆战",
+      "onboard_time": 1715995038,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 187681,
+      "num": 187681,
+      "word": "成毅赴山海开机现场人气",
+      "onboard_time": 1715999057,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 186674,
@@ -500,7 +580,7 @@
     },
     {
       "raw_hot": 180586,
-      "num": 180586,
+      "num": 360625,
       "word": "大学生毕设把电价打下来了",
       "onboard_time": 1715990956,
       "rank": 33,
@@ -523,20 +603,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 170543,
-      "num": 127410,
-      "word": "谢娜曾反对张杰第一个逆战",
-      "onboard_time": 1715995038,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 170408,
-      "num": 145945,
-      "word": "突然发现吃饭是很私密的事",
-      "onboard_time": 1715992639,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 167831,
+      "num": 167831,
+      "word": "蔡文静连问戚薇两遍干什么",
+      "onboard_time": 1715998337,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 166821,
@@ -564,7 +636,7 @@
     },
     {
       "raw_hot": 159621,
-      "num": 159621,
+      "num": 182063,
       "word": "30岁小伙被裁岳母和女儿在门口迎接",
       "onboard_time": 1715987474,
       "rank": 9,
@@ -580,27 +652,27 @@
     },
     {
       "raw_hot": 154374,
-      "num": 135104,
+      "num": 194710,
       "word": "和很好的相亲对象说了再见",
       "onboard_time": 1715993598,
       "rank": 29,
       "category": "情感"
     },
     {
+      "raw_hot": 149104,
+      "num": 360873,
+      "word": "深圳新房住宅成交量上涨40%",
+      "onboard_time": 1715997139,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146006,
-      "num": 119160,
+      "num": 152655,
       "word": "频繁塞牙是牙齿发出的警报",
       "onboard_time": 1715973192,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 143419,
-      "num": 143419,
-      "word": "雷军直播",
-      "onboard_time": 1715995699,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 141994,
@@ -649,6 +721,14 @@
       "onboard_time": 1715958368,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122356,
+      "num": 194451,
+      "word": "看好了我520想要这个礼物",
+      "onboard_time": 1715999057,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 121658,
@@ -761,6 +841,22 @@
       "onboard_time": 1715992517,
       "rank": 46,
       "category": "情感,其它"
+    },
+    {
+      "raw_hot": 80495,
+      "num": 152596,
+      "word": "城镇非私营单位年平均工资120698元",
+      "onboard_time": 1715997617,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 78468,
+      "num": 152555,
+      "word": "榴莲价格普降超3成",
+      "onboard_time": 1715996838,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 78143,
