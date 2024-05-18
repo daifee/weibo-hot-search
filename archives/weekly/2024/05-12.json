@@ -1,6 +1,6 @@
 {
   "startTime": 1715444486758,
-  "endTime": 1716028452430,
+  "endTime": 1716030877037,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1507,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1040697,
+      "num": 1040697,
+      "word": "张韶涵回应那英需要你",
+      "onboard_time": 1716028519,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1040108,
       "num": 287958,
       "word": "停训",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1715665160,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 972373,
+      "num": 972373,
+      "word": "华东理工大学回应男生向12岁女孩要裸照",
+      "onboard_time": 1716027078,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 972035,
@@ -2408,14 +2424,6 @@
       "word": "男子谎称领养将小猫整排牙齿剪断",
       "onboard_time": 1715664199,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 766162,
-      "num": 766162,
-      "word": "华东理工大学回应男生向12岁女孩要裸照",
-      "onboard_time": 1716027078,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -3379,6 +3387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620859,
+      "num": 270917,
+      "word": "突然发现今年520好有意义",
+      "onboard_time": 1716024918,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 619734,
       "num": 349887,
       "word": "本周狗屎运最旺的星座",
@@ -3401,14 +3417,6 @@
       "onboard_time": 1715604259,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 618211,
-      "num": 270917,
-      "word": "突然发现今年520好有意义",
-      "onboard_time": 1716024918,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 617899,
@@ -4132,7 +4140,7 @@
     },
     {
       "raw_hot": 530682,
-      "num": 384041,
+      "num": 431322,
       "word": "赵露思英文采访",
       "onboard_time": 1716025037,
       "rank": 6,
@@ -6267,6 +6275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371828,
+      "num": 227721,
+      "word": "泰国预计榴莲减产40%至60%",
+      "onboard_time": 1716028577,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371477,
       "num": 371477,
       "word": "背着善宰跑",
@@ -7840,6 +7856,14 @@
       "word": "田曦薇李明德再合作",
       "onboard_time": 1715656277,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 285386,
+      "num": 224981,
+      "word": "赴山海阵容官宣",
+      "onboard_time": 1716029896,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -9675,6 +9699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224923,
+      "num": 224923,
+      "word": "AG对战狼队",
+      "onboard_time": 1716027199,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224826,
       "num": 224826,
       "word": "吃得少但不容易饿的方法",
@@ -9689,6 +9721,14 @@
       "onboard_time": 1715791635,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 224655,
+      "num": 208935,
+      "word": "瘦30斤五官的变化",
+      "onboard_time": 1716030437,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 224210,
@@ -10851,6 +10891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202514,
+      "num": 202514,
+      "word": "AG阵容",
+      "onboard_time": 1716030317,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202492,
       "num": 202492,
       "word": "龚琳娜别跳了",
@@ -10985,14 +11033,6 @@
       "onboard_time": 1715747000,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201308,
-      "num": 201308,
-      "word": "AG对战狼队",
-      "onboard_time": 1716027199,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 201082,
@@ -11459,6 +11499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195494,
+      "num": 195494,
+      "word": "狼队藏东西了",
+      "onboard_time": 1716030677,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195482,
       "num": 195482,
       "word": "薛之谦演唱会抢票",
@@ -11651,6 +11699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193362,
+      "num": 193362,
+      "word": "时代少年团优酸乳直播",
+      "onboard_time": 1716030617,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193359,
       "num": 193359,
       "word": "周深演唱会剧透",
@@ -11712,6 +11768,14 @@
       "word": "马嘉祺说灿烂的花园救了我",
       "onboard_time": 1715828658,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192954,
+      "num": 192954,
+      "word": "赵丽颖帮朱梓骁追星",
+      "onboard_time": 1716030257,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -12515,6 +12579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181888,
+      "num": 181888,
+      "word": "恋爱兄妹 宰亨智媛",
+      "onboard_time": 1716027318,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181874,
       "num": 181874,
       "word": "汶川地震饲养员生死狂奔转移大熊猫",
@@ -12945,14 +13017,6 @@
       "onboard_time": 1715571860,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175156,
-      "num": 175156,
-      "word": "恋爱兄妹 宰亨智媛",
-      "onboard_time": 1716027318,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 175058,
@@ -13505,6 +13569,14 @@
       "onboard_time": 1715734459,
       "rank": 43,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 167500,
+      "num": 167500,
+      "word": "时代少年团GQ是BLACKPINK团队拍的",
+      "onboard_time": 1716030738,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167385,
@@ -14355,6 +14427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154185,
+      "num": 154185,
+      "word": "elk状态",
+      "onboard_time": 1716028638,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154150,
       "num": 154150,
       "word": "这是猫中陈萍萍吧",
@@ -14673,6 +14753,14 @@
       "onboard_time": 1715741898,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148415,
+      "num": 148415,
+      "word": "五月天鸟巢演唱会",
+      "onboard_time": 1716030677,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 148014,
@@ -16699,6 +16787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113596,
+      "num": 138307,
+      "word": "你的阿勒泰壁纸",
+      "onboard_time": 1716030378,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 113594,
       "num": 113594,
       "word": "金泳勋 窝囊感",
@@ -17684,7 +17780,7 @@
     },
     {
       "raw_hot": 90225,
-      "num": 900739,
+      "num": 975998,
       "word": "文化中国行看博物馆之宝",
       "onboard_time": 1715931378,
       "rank": 27,
@@ -18369,6 +18465,14 @@
       "onboard_time": 1715843778,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57163,
+      "num": 216168,
+      "word": "女生挑战中式元素变装惊艳了",
+      "onboard_time": 1716030738,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 57103,
