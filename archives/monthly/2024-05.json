@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716042843796,
+  "endTime": 1716045593476,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -321,6 +321,14 @@
       "onboard_time": 1715743519,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2677043,
+      "num": 2677043,
+      "word": "狼队战胜AG",
+      "onboard_time": 1716044180,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 2651162,
@@ -2769,6 +2777,14 @@
       "onboard_time": 1715497697,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1190065,
+      "num": 1190065,
+      "word": "狼队十冠王",
+      "onboard_time": 1716043639,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 1189334,
@@ -6651,6 +6667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713353,
+      "num": 1079845,
+      "word": "AG对战狼队",
+      "onboard_time": 1715342058,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 712833,
       "num": 712833,
       "word": "2岁宝宝疑因奶奶嚼碎喂食感染梅毒",
@@ -7353,6 +7377,14 @@
       "onboard_time": 1715409559,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675277,
+      "num": 675277,
+      "word": "张杰唱了默",
+      "onboard_time": 1716042319,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 674521,
@@ -10321,14 +10353,6 @@
       "onboard_time": 1715150601,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 528008,
-      "num": 1079845,
-      "word": "AG对战狼队",
-      "onboard_time": 1715342058,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 527837,
@@ -13675,14 +13699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418170,
-      "num": 418170,
-      "word": "张杰唱了默",
-      "onboard_time": 1716042319,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 417996,
       "num": 417996,
       "word": "孙思邈留下的速睡方",
@@ -14561,6 +14577,14 @@
       "onboard_time": 1714549998,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398944,
+      "num": 398944,
+      "word": "毛晓彤庆余年2奶凶奶凶的",
+      "onboard_time": 1716040760,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 398939,
@@ -16203,6 +16227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 357028,
+      "num": 357028,
+      "word": "老林哭了",
+      "onboard_time": 1716044718,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 356993,
       "num": 356993,
       "word": "王曼昱vs巴特拉",
@@ -17419,14 +17451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331172,
-      "num": 258339,
-      "word": "毛晓彤庆余年2奶凶奶凶的",
-      "onboard_time": 1716040760,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331060,
       "num": 331060,
       "word": "不久后他身上就没烟味了",
@@ -18099,6 +18123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 315770,
+      "num": 292487,
+      "word": "中年人的婚外情为何不会通往离婚",
+      "onboard_time": 1716042201,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 315508,
       "num": 315508,
       "word": "淄博八大局500米走半小时",
@@ -18305,6 +18337,14 @@
       "onboard_time": 1715447536,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311591,
+      "num": 311591,
+      "word": "向鱼感谢女朋友",
+      "onboard_time": 1716044838,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 311562,
@@ -18553,6 +18593,14 @@
       "onboard_time": 1715175561,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 305331,
+      "num": 305331,
+      "word": "小胖FMVP",
+      "onboard_time": 1716044180,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 305155,
@@ -22683,6 +22731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244306,
+      "num": 244306,
+      "word": "AG诚C2000淘汰颁奖",
+      "onboard_time": 1716043820,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 244126,
       "num": 244126,
       "word": "原来经常去音乐节的人是这样的",
@@ -24179,6 +24235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226974,
+      "num": 226974,
+      "word": "孙俪超市购物被偶遇",
+      "onboard_time": 1716044119,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226835,
       "num": 226835,
       "word": "华晨宇日出演唱会会有日出吗",
@@ -24427,6 +24491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224721,
+      "num": 224721,
+      "word": "十个勤天真把我们当自己人",
+      "onboard_time": 1716043759,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224700,
       "num": 224700,
       "word": "新华社专访普京",
@@ -24555,6 +24627,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 222808,
+      "num": 222808,
+      "word": "范闲 我想吃鱼了",
+      "onboard_time": 1716041299,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222778,
       "num": 222778,
       "word": "阿水与gumayusi交换队服",
@@ -24665,14 +24745,6 @@
       "onboard_time": 1715043739,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 221789,
-      "num": 221789,
-      "word": "范闲 我想吃鱼了",
-      "onboard_time": 1716041299,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 221694,
@@ -25697,6 +25769,14 @@
       "onboard_time": 1714806799,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 213750,
+      "num": 225442,
+      "word": "三胞胎兄弟居然有胎内记忆",
+      "onboard_time": 1716044360,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213619,
@@ -26787,6 +26867,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 206164,
+      "num": 206164,
+      "word": "王栎鑫演唱会",
+      "onboard_time": 1716045018,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206160,
       "num": 200463,
       "word": "年薪百万的蔓越莓采摘工",
@@ -27417,14 +27505,6 @@
       "onboard_time": 1714713497,
       "rank": 33,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 202886,
-      "num": 202886,
-      "word": "中年人的婚外情为何不会通往离婚",
-      "onboard_time": 1716042201,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 202862,
@@ -28105,6 +28185,14 @@
       "onboard_time": 1715441360,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200437,
+      "num": 200437,
+      "word": "张艺兴祝福Red女团",
+      "onboard_time": 1716044540,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 200344,
@@ -29491,6 +29579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194112,
+      "num": 194112,
+      "word": "阿信又幸福了",
+      "onboard_time": 1716044360,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194081,
       "num": 194081,
       "word": "火锅排片",
@@ -30715,6 +30811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188762,
+      "num": 188762,
+      "word": "AG 心态",
+      "onboard_time": 1716039978,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188761,
       "num": 188761,
       "word": "重庆警方通报17岁少年被刺伤致死",
@@ -31371,6 +31475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185261,
+      "num": 185261,
+      "word": "庆余年太子给打工人一些震撼",
+      "onboard_time": 1716045258,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185230,
       "num": 185230,
       "word": "JDG官宣战马加入",
@@ -31633,6 +31745,14 @@
       "onboard_time": 1715784318,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183804,
+      "num": 193251,
+      "word": "F1",
+      "onboard_time": 1714938191,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 183742,
@@ -34193,6 +34313,14 @@
       "onboard_time": 1715560758,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169808,
+      "num": 169808,
+      "word": "19天 影子",
+      "onboard_time": 1716044001,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 169806,
@@ -37651,6 +37779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151395,
+      "num": 180043,
+      "word": "罗伊斯进球",
+      "onboard_time": 1716042679,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151392,
       "num": 147934,
       "word": "杨蓉当经纪人话术一套一套的",
@@ -39313,14 +39449,6 @@
       "onboard_time": 1715585480,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 142830,
-      "num": 180043,
-      "word": "罗伊斯进球",
-      "onboard_time": 1716042679,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 142797,
@@ -42729,6 +42857,14 @@
       "onboard_time": 1715686998,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124624,
+      "num": 209060,
+      "word": "巴黎奥运会火炬传递上演中国接力",
+      "onboard_time": 1716043699,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 124554,
@@ -47787,14 +47923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72952,
-      "num": 72952,
-      "word": "F1",
-      "onboard_time": 1714938191,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 72571,
       "num": 227209,
       "word": "田曦薇露腹肌了",
@@ -50545,6 +50673,14 @@
       "onboard_time": 1715629091,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12611,
+      "num": 156205,
+      "word": "最会咕自己的人出现了",
+      "onboard_time": 1716045080,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 12494,

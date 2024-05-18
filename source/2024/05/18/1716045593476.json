@@ -1,0 +1,410 @@
+{
+  "runTime": 1716045593476,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2677043,
+        "num": 2677043,
+        "word": "狼队战胜AG",
+        "onboard_time": 1716044180,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1190065,
+        "num": 1190065,
+        "word": "狼队十冠王",
+        "onboard_time": 1716043639,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11223,
+        "num": 1045085,
+        "word": "文化中国行看博物馆之宝",
+        "onboard_time": 1715931378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956498,
+        "num": 956498,
+        "word": "警方回应知名主持人被曝私生活混乱",
+        "onboard_time": 1716037820,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822792,
+        "num": 822792,
+        "word": "幼态审美盯上女生的牙齿",
+        "onboard_time": 1716034758,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713353,
+        "num": 713353,
+        "word": "AG对战狼队",
+        "onboard_time": 1716027199,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 681292,
+        "num": 681292,
+        "word": "歌手第三期网传歌单",
+        "onboard_time": 1716039800,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 675277,
+        "num": 675277,
+        "word": "张杰唱了默",
+        "onboard_time": 1716042319,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 466147,
+        "num": 466147,
+        "word": "早就说了我邀请的是断眉亚当",
+        "onboard_time": 1716039259,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60268,
+        "num": 443102,
+        "word": "女子地铁发病僵直摔倒场面惊心",
+        "onboard_time": 1716036618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427391,
+        "num": 427391,
+        "word": "神bin天降",
+        "onboard_time": 1716037400,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 398944,
+        "num": 398944,
+        "word": "毛晓彤庆余年2奶凶奶凶的",
+        "onboard_time": 1716040760,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372863,
+        "num": 372863,
+        "word": "黄俊捷工作室发声明",
+        "onboard_time": 1716041600,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369636,
+        "num": 369636,
+        "word": "巅峰对决",
+        "onboard_time": 1716041420,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 357028,
+        "num": 357028,
+        "word": "老林哭了",
+        "onboard_time": 1716044718,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 350987,
+        "num": 350987,
+        "word": "女子试戴金戒不慎摔落被索赔1250",
+        "onboard_time": 1716021618,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322069,
+        "num": 322069,
+        "word": "向12岁女孩要裸照男大学生已被刑拘",
+        "onboard_time": 1716033738,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312532,
+        "num": 312532,
+        "word": "韩国政府因newjeans制定编舞著作权方针",
+        "onboard_time": 1716039499,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311591,
+        "num": 311591,
+        "word": "向鱼感谢女朋友",
+        "onboard_time": 1716044838,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 305331,
+        "num": 305331,
+        "word": "小胖FMVP",
+        "onboard_time": 1716044180,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 358282,
+        "num": 293823,
+        "word": "瘦30斤五官的变化",
+        "onboard_time": 1716030437,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 315770,
+        "num": 292487,
+        "word": "中年人的婚外情为何不会通往离婚",
+        "onboard_time": 1716042201,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274689,
+        "num": 274689,
+        "word": "范闲骂得声音好大好超前",
+        "onboard_time": 1716033257,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269804,
+        "num": 269804,
+        "word": "95后亿万富豪被罚1.33亿元",
+        "onboard_time": 1716036198,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267865,
+        "num": 267865,
+        "word": "张韶涵回应那英需要你",
+        "onboard_time": 1716028519,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256101,
+        "num": 256101,
+        "word": "AG剧透",
+        "onboard_time": 1716031458,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244306,
+        "num": 244306,
+        "word": "AG诚C2000淘汰颁奖",
+        "onboard_time": 1716043820,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237354,
+        "num": 237354,
+        "word": "BLG战胜T1",
+        "onboard_time": 1716038059,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226974,
+        "num": 226974,
+        "word": "孙俪超市购物被偶遇",
+        "onboard_time": 1716044119,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213750,
+        "num": 225442,
+        "word": "三胞胎兄弟居然有胎内记忆",
+        "onboard_time": 1716044360,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224721,
+        "num": 224721,
+        "word": "十个勤天真把我们当自己人",
+        "onboard_time": 1716043759,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222808,
+        "num": 222808,
+        "word": "范闲 我想吃鱼了",
+        "onboard_time": 1716041299,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215380,
+        "num": 215380,
+        "word": "五月天嘉宾陈绮贞",
+        "onboard_time": 1716036317,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124624,
+        "num": 209060,
+        "word": "巴黎奥运会火炬传递上演中国接力",
+        "onboard_time": 1716043699,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208666,
+        "num": 208666,
+        "word": "迪丽热巴深V白裙",
+        "onboard_time": 1716037158,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206164,
+        "num": 206164,
+        "word": "王栎鑫演唱会",
+        "onboard_time": 1716045018,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200437,
+        "num": 200437,
+        "word": "张艺兴祝福Red女团",
+        "onboard_time": 1716044540,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197904,
+        "num": 197904,
+        "word": "一诺单杀小胖",
+        "onboard_time": 1716040580,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194112,
+        "num": 194112,
+        "word": "阿信又幸福了",
+        "onboard_time": 1716044360,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183804,
+        "num": 193251,
+        "word": "F1",
+        "onboard_time": 1716044418,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192498,
+        "num": 192498,
+        "word": "南阳一男童被狗咬伤离世调查结果公布",
+        "onboard_time": 1716036016,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192482,
+        "num": 192482,
+        "word": "G2问Bin收徒吗",
+        "onboard_time": 1716042201,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188762,
+        "num": 188762,
+        "word": "AG 心态",
+        "onboard_time": 1716039978,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185261,
+        "num": 185261,
+        "word": "庆余年太子给打工人一些震撼",
+        "onboard_time": 1716045258,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173753,
+        "num": 173753,
+        "word": "赵露思火炬手造型",
+        "onboard_time": 1716019758,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171714,
+        "num": 171714,
+        "word": "许嵩演唱会",
+        "onboard_time": 1716033436,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169808,
+        "num": 169808,
+        "word": "19天 影子",
+        "onboard_time": 1716044001,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 151395,
+        "num": 159327,
+        "word": "罗伊斯进球",
+        "onboard_time": 1716042679,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135963,
+        "num": 156402,
+        "word": "丈夫家暴妻子获刑10个月",
+        "onboard_time": 1716040399,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12611,
+        "num": 156205,
+        "word": "最会咕自己的人出现了",
+        "onboard_time": 1716045080,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#视频看习近平的绿色足迹#"
+    }
+  }
+}
