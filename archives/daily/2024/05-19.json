@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716088911734,
+  "endTime": 1716089646610,
   "band_list": [
     {
       "raw_hot": 1525446,
@@ -17,6 +17,14 @@
       "onboard_time": 1716074474,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 908850,
+      "num": 908850,
+      "word": "第一批快递小哥退休了",
+      "onboard_time": 1716085998,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 865357,
@@ -40,14 +48,6 @@
       "word": "12306回应高铁买靠窗座位没有窗",
       "onboard_time": 1716075255,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 794238,
-      "num": 794238,
-      "word": "第一批快递小哥退休了",
-      "onboard_time": 1716085998,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -139,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 560601,
+      "num": 560601,
+      "word": "赵丽颖黄色针织短袖",
+      "onboard_time": 1716088577,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 529341,
       "num": 504701,
       "word": "刘宪华5年后重返综艺",
@@ -153,6 +161,14 @@
       "onboard_time": 1716080116,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463233,
+      "num": 463233,
+      "word": "北大回应网传破格录取郭有才",
+      "onboard_time": 1716086898,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459472,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398768,
+      "num": 260222,
+      "word": "普通人的钱真的是抠出来的",
+      "onboard_time": 1716086719,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374218,
       "num": 374218,
       "word": "当伴郎的陈伟霆",
@@ -259,36 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 347651,
-      "num": 347651,
-      "word": "北大回应网传破格录取郭有才",
-      "onboard_time": 1716086898,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343080,
-      "num": 260222,
-      "word": "普通人的钱真的是抠出来的",
-      "onboard_time": 1716086719,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 341023,
       "num": 341023,
       "word": "女子试戴金戒不慎摔落被索赔1250",
       "onboard_time": 1716021618,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339109,
-      "num": 339109,
-      "word": "赵丽颖黄色针织短袖",
-      "onboard_time": 1716088577,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 336914,
@@ -403,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253010,
+      "num": 253010,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1716089177,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246316,
       "num": 246316,
       "word": "向鱼感谢女朋友",
@@ -449,6 +457,14 @@
       "onboard_time": 1716087138,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 224965,
+      "num": 224965,
+      "word": "尚雯婕和朱丹儿子抢萌兰",
+      "onboard_time": 1716089476,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 221012,
@@ -515,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193882,
+      "num": 193882,
+      "word": "业内人士力挺黄俊捷",
+      "onboard_time": 1716089416,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193610,
       "num": 193610,
       "word": "肖战工作室九宫格营业",
@@ -561,6 +585,14 @@
       "onboard_time": 1716077896,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179370,
+      "num": 179370,
+      "word": "庆帝皇后挥之不去的恐惧是什么",
+      "onboard_time": 1716089177,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 177895,
@@ -811,6 +843,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 139340,
+      "num": 139340,
+      "word": "南宁遭暴雨侵袭多车被淹",
+      "onboard_time": 1716088156,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136100,
       "num": 136100,
       "word": "范闲骂得声音好大好超前",
@@ -843,14 +883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130960,
-      "num": 130960,
-      "word": "南宁遭暴雨侵袭多车被淹",
-      "onboard_time": 1716088156,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130604,
       "num": 130604,
       "word": "独行侠4比2雷霆",
@@ -865,6 +897,14 @@
       "onboard_time": 1716085637,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127241,
+      "num": 127241,
+      "word": "锦绣安宁张晚意任敏合拍",
+      "onboard_time": 1716088696,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 125010,
@@ -947,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113800,
+      "num": 113800,
+      "word": "亚历山大致命犯规",
+      "onboard_time": 1716089177,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111945,
       "num": 111945,
       "word": "范闲 我想吃鱼了",
@@ -1003,12 +1051,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 102887,
-      "num": 102887,
-      "word": "锦绣安宁张晚意任敏合拍",
-      "onboard_time": 1716088696,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 100767,
+      "num": 100767,
+      "word": "当问我520想要什么礼物",
+      "onboard_time": 1716089416,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 99849,
@@ -1123,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61373,
+      "num": 848864,
+      "word": "14处课本上学过的祖国宝藏风光",
+      "onboard_time": 1716088876,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59305,
       "num": 91019,
       "word": "巴黎奥运会火炬传递上演中国接力",
@@ -1219,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35280,
+      "num": 143305,
+      "word": "618谁能省得过拼多多啊",
+      "onboard_time": 1716089238,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 33240,
       "num": 33240,
       "word": "xg新曲MV预告",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1716068651,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31690,
+      "num": 867619,
+      "word": "旅游胜地的中华文化有多绝",
+      "onboard_time": 1716079336,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26085,
@@ -1289,14 +1361,6 @@
       "onboard_time": 1716034818,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14804,
-      "num": 848864,
-      "word": "14处课本上学过的祖国宝藏风光",
-      "onboard_time": 1716088876,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8766,
