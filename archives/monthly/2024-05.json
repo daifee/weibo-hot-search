@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716121964346,
+  "endTime": 1716122827390,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3240,6 +3240,14 @@
       "word": "青岛一女童发热输液后死亡",
       "onboard_time": 1715697020,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1122641,
+      "num": 308112,
+      "word": "日本女子挺9个月孕肚为老公准备30天量晚饭",
+      "onboard_time": 1716122657,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -6963,6 +6971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707385,
+      "num": 707385,
+      "word": "王骁 三十岁选择到华尔街闯一闯",
+      "onboard_time": 1716119238,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 707269,
       "num": 707269,
       "word": "澳洲玫瑰变二手玫瑰",
@@ -7337,14 +7353,6 @@
       "onboard_time": 1714984939,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 687410,
-      "num": 687410,
-      "word": "王骁 三十岁选择到华尔街闯一闯",
-      "onboard_time": 1716119238,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 687318,
@@ -8073,6 +8081,14 @@
       "onboard_time": 1715512284,
       "rank": 27,
       "category": "自然"
+    },
+    {
+      "raw_hot": 652862,
+      "num": 392604,
+      "word": "辽宁1辆120被撞翻多人甩出车外",
+      "onboard_time": 1716120197,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 652302,
@@ -9377,6 +9393,14 @@
       "onboard_time": 1715345240,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 588724,
+      "num": 376384,
+      "word": "网红130万整形嘴弯眼斜",
+      "onboard_time": 1716120976,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 588591,
@@ -12371,14 +12395,6 @@
       "category": "汽车,社会新闻"
     },
     {
-      "raw_hot": 468601,
-      "num": 392604,
-      "word": "辽宁1辆120被撞翻多人甩出车外",
-      "onboard_time": 1716120197,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468291,
       "num": 468291,
       "word": "杨怡",
@@ -14129,14 +14145,6 @@
       "onboard_time": 1715059099,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 419888,
-      "num": 376384,
-      "word": "网红130万整形嘴弯眼斜",
-      "onboard_time": 1716120976,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 419563,
@@ -19307,6 +19315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 305315,
+      "num": 305315,
+      "word": "黑神话悟空",
+      "onboard_time": 1716122058,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305279,
       "num": 305279,
       "word": "郭有才",
@@ -19865,6 +19881,14 @@
       "onboard_time": 1715058499,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295003,
+      "num": 295003,
+      "word": "BLG能不能让二追三",
+      "onboard_time": 1716118276,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 294892,
@@ -22915,14 +22939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 251713,
-      "num": 251713,
-      "word": "BLG能不能让二追三",
-      "onboard_time": 1716118276,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 251670,
       "num": 251670,
       "word": "全国仅7地未全面取消住房限购",
@@ -25803,6 +25819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220495,
+      "num": 308415,
+      "word": "男子被狗划伤后因狂犬病去世",
+      "onboard_time": 1716116298,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220362,
       "num": 166902,
       "word": "雷军直播",
@@ -26065,14 +26089,6 @@
       "onboard_time": 1715328139,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218617,
-      "num": 218617,
-      "word": "男子被狗划伤后因狂犬病去世",
-      "onboard_time": 1716116298,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218561,
@@ -31179,6 +31195,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 192052,
+      "num": 192052,
+      "word": "时代少年团纪录片重归预告",
+      "onboard_time": 1716122237,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192039,
       "num": 192039,
       "word": "网友喊话袁娅维支援歌手",
@@ -33281,6 +33305,14 @@
       "onboard_time": 1714797079,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181502,
+      "num": 181502,
+      "word": "原来小猫是这样挖鼻孔的",
+      "onboard_time": 1716121458,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 181490,
@@ -38939,14 +38971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152376,
-      "num": 152376,
-      "word": "原来小猫是这样挖鼻孔的",
-      "onboard_time": 1716121458,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 152245,
       "num": 152245,
       "word": "五一火车上的大学生强得可怕",
@@ -40059,6 +40083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147069,
+      "num": 147069,
+      "word": "WeGame2024游戏之夜",
+      "onboard_time": 1716121997,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147049,
       "num": 147049,
       "word": "马嘉祺回忆发小父亲去世细节哽咽",
@@ -40657,6 +40689,14 @@
       "onboard_time": 1715574801,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143911,
+      "num": 143911,
+      "word": "黄家强",
+      "onboard_time": 1716120197,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 143863,
@@ -41515,14 +41555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 139944,
-      "num": 139944,
-      "word": "黄家强",
-      "onboard_time": 1716120197,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139933,
       "num": 139933,
       "word": "AI忽然叫我全名了",
@@ -41649,6 +41681,14 @@
       "onboard_time": 1715384596,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139427,
+      "num": 139427,
+      "word": "南京手冲咖啡阿姨主业是卖甘蔗汁",
+      "onboard_time": 1716122117,
+      "rank": 36,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 139381,
@@ -41817,6 +41857,14 @@
       "onboard_time": 1714717639,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138532,
+      "num": 138532,
+      "word": "白鹿说少骂点姚译添吧",
+      "onboard_time": 1716122358,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 138507,
@@ -43259,6 +43307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131314,
+      "num": 131314,
+      "word": "六公主报道赵露思",
+      "onboard_time": 1716122657,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131280,
       "num": 131280,
       "word": "汶川地震时一位母亲留下的短信",
@@ -43625,6 +43681,14 @@
       "onboard_time": 1715078179,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129399,
+      "num": 403998,
+      "word": "为什么建议你夏天吃点樱桃",
+      "onboard_time": 1716121518,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 129321,
@@ -46123,6 +46187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115491,
+      "num": 358685,
+      "word": "美妆超级券",
+      "onboard_time": 1716120018,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 115355,
       "num": 115355,
       "word": "郑合惠子面试",
@@ -48587,14 +48659,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 96871,
-      "num": 403998,
-      "word": "为什么建议你夏天吃点樱桃",
-      "onboard_time": 1716121518,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 96758,
       "num": 931082,
       "word": "被西北大爷拍的变装视频炫到了",
@@ -49281,14 +49345,6 @@
       "onboard_time": 1714781956,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86913,
-      "num": 358685,
-      "word": "美妆超级券",
-      "onboard_time": 1716120018,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 86762,

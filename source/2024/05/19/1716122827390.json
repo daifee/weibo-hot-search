@@ -1,0 +1,410 @@
+{
+  "runTime": 1716122827390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1460792,
+        "num": 1460792,
+        "word": "突然发现六月只要上19天班",
+        "onboard_time": 1716110058,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 733475,
+        "num": 733475,
+        "word": "陈丽君急性肠胃炎晕倒",
+        "onboard_time": 1716115217,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59843,
+        "num": 708715,
+        "word": "当代年轻人花式旅游图鉴",
+        "onboard_time": 1716107418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707385,
+        "num": 707385,
+        "word": "王骁 三十岁选择到华尔街闯一闯",
+        "onboard_time": 1716119238,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 572116,
+        "num": 572116,
+        "word": "连云港鬼秤事件5人被行拘",
+        "onboard_time": 1716115757,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383189,
+        "num": 383189,
+        "word": "10元网红咖啡大姨忙的要碎掉了",
+        "onboard_time": 1716114437,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588724,
+        "num": 365270,
+        "word": "网红130万整形嘴弯眼斜",
+        "onboard_time": 1716120976,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 459089,
+        "num": 361562,
+        "word": "庆余年2",
+        "onboard_time": 1716121335,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345238,
+        "num": 345238,
+        "word": "虐泉五杀",
+        "onboard_time": 1716116958,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129399,
+        "num": 345151,
+        "word": "为什么建议你夏天吃点樱桃",
+        "onboard_time": 1716121518,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 652862,
+        "num": 343832,
+        "word": "辽宁1辆120被撞翻多人甩出车外",
+        "onboard_time": 1716120197,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480748,
+        "num": 343334,
+        "word": "空ban",
+        "onboard_time": 1716117738,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 406620,
+        "num": 342883,
+        "word": "汪苏泷谈参加歌手竞演收获",
+        "onboard_time": 1716115637,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390585,
+        "num": 341970,
+        "word": "你好星期六 TFBOYS",
+        "onboard_time": 1716101716,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115491,
+        "num": 340987,
+        "word": "美妆超级券",
+        "onboard_time": 1716120018,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 340847,
+        "num": 340847,
+        "word": "GEN对战BLG",
+        "onboard_time": 1716108619,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 337566,
+        "num": 337566,
+        "word": "今年能吃到荔枝就不错了",
+        "onboard_time": 1716102857,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 323588,
+        "num": 323588,
+        "word": "王俊凯出发蔡依林演唱会彩排",
+        "onboard_time": 1716102498,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 319937,
+        "num": 319937,
+        "word": "歌手2024",
+        "onboard_time": 1716117738,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220495,
+        "num": 308415,
+        "word": "男子被狗划伤后因狂犬病去世",
+        "onboard_time": 1716116298,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122641,
+        "num": 308112,
+        "word": "日本女子挺9个月孕肚为老公准备30天量晚饭",
+        "onboard_time": 1716122657,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305315,
+        "num": 305315,
+        "word": "黑神话悟空",
+        "onboard_time": 1716122058,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295003,
+        "num": 295003,
+        "word": "BLG能不能让二追三",
+        "onboard_time": 1716118276,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241038,
+        "num": 241038,
+        "word": "范闲的腰",
+        "onboard_time": 1716115816,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210367,
+        "num": 210367,
+        "word": "英国年度最性感男人",
+        "onboard_time": 1716114555,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 204622,
+        "num": 204622,
+        "word": "长期不换的筷子会致癌吗",
+        "onboard_time": 1716118097,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 192052,
+        "num": 192052,
+        "word": "时代少年团纪录片重归预告",
+        "onboard_time": 1716122237,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185907,
+        "num": 185907,
+        "word": "乌军王牌飞行员阵亡",
+        "onboard_time": 1716119836,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181502,
+        "num": 181502,
+        "word": "原来小猫是这样挖鼻孔的",
+        "onboard_time": 1716121458,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177049,
+        "num": 177049,
+        "word": "BLG决赛扳回一城",
+        "onboard_time": 1716120018,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35845,
+        "num": 161027,
+        "word": "DNF给了我一整个青春",
+        "onboard_time": 1716120378,
+        "rank": 30,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 598581,
+        "num": 160700,
+        "word": "黄家驹墓碑遗照被砸坏",
+        "onboard_time": 1716103878,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158621,
+        "num": 158621,
+        "word": "王一博到达桂林",
+        "onboard_time": 1716118758,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13227,
+        "num": 151737,
+        "word": "乐见潮向现场超出片",
+        "onboard_time": 1716118518,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147069,
+        "num": 147069,
+        "word": "WeGame2024游戏之夜",
+        "onboard_time": 1716121997,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143911,
+        "num": 143911,
+        "word": "黄家强",
+        "onboard_time": 1716120197,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139427,
+        "num": 139427,
+        "word": "南京手冲咖啡阿姨主业是卖甘蔗汁",
+        "onboard_time": 1716122117,
+        "rank": 36,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 138532,
+        "num": 138532,
+        "word": "白鹿说少骂点姚译添吧",
+        "onboard_time": 1716122358,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137294,
+        "num": 137294,
+        "word": "孟子义上学时被拉到女厕所打头",
+        "onboard_time": 1716105438,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135008,
+        "num": 135008,
+        "word": "王俊凯彩排花絮",
+        "onboard_time": 1716120858,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133516,
+        "num": 133516,
+        "word": "陈少熙直播聊新歌",
+        "onboard_time": 1716121335,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131314,
+        "num": 131314,
+        "word": "六公主报道赵露思",
+        "onboard_time": 1716122657,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118793,
+        "num": 118793,
+        "word": "on的塔姆",
+        "onboard_time": 1716121217,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170761,
+        "num": 118370,
+        "word": "为了买房半年和对象存了5万",
+        "onboard_time": 1716112517,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 116886,
+        "num": 116886,
+        "word": "杭州知名主持人决定送父母去养老院",
+        "onboard_time": 1716111797,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113856,
+        "num": 113856,
+        "word": "王俊凯柠檬草的味道彩排",
+        "onboard_time": 1716108378,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109617,
+        "num": 109617,
+        "word": "张杰抛话筒",
+        "onboard_time": 1716118337,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106802,
+        "num": 106802,
+        "word": "鼠鼠一觉醒来全身酸痛",
+        "onboard_time": 1716109336,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103824,
+        "num": 103824,
+        "word": "美妆券",
+        "onboard_time": 1716121097,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 101712,
+        "num": 101712,
+        "word": "许嵩粉丝包合肥全城毛肚火锅",
+        "onboard_time": 1716118877,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对旅游工作作出重要指示#"
+    }
+  }
+}
