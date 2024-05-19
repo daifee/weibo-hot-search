@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716117328117,
+  "endTime": 1716118445957,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1131,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1701955,
+      "num": 1701955,
+      "word": "突然发现六月只要上19天班",
+      "onboard_time": 1716110058,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1701498,
       "num": 471809,
       "word": "胖猫跳江事发地摆满鲜花汉堡",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1714639518,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1570057,
-      "num": 1570057,
-      "word": "突然发现六月只要上19天班",
-      "onboard_time": 1716110058,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 1564883,
@@ -2091,6 +2091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1360784,
+      "num": 1360784,
+      "word": "连云港鬼秤事件5人被行拘",
+      "onboard_time": 1716115757,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1356293,
       "num": 308734,
       "word": "百度副总裁璩静已离职",
@@ -2377,14 +2385,6 @@
       "onboard_time": 1715362094,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1282224,
-      "num": 1282224,
-      "word": "连云港鬼秤事件5人被行拘",
-      "onboard_time": 1716115757,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1280606,
@@ -4219,6 +4219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 958635,
+      "num": 958635,
+      "word": "陈丽君急性肠胃炎晕倒",
+      "onboard_time": 1716115217,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 958407,
       "num": 373099,
       "word": "江映蓉自荐歌手",
@@ -4705,14 +4713,6 @@
       "onboard_time": 1715815155,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 897988,
-      "num": 897988,
-      "word": "陈丽君急性肠胃炎晕倒",
-      "onboard_time": 1716115217,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 897035,
@@ -6761,6 +6761,14 @@
       "onboard_time": 1714913599,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 724768,
+      "num": 724768,
+      "word": "虐泉五杀",
+      "onboard_time": 1716116958,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 724564,
@@ -11027,6 +11035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513524,
+      "num": 513524,
+      "word": "汪苏泷谈参加歌手竞演收获",
+      "onboard_time": 1716115637,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513504,
       "num": 241600,
       "word": "怀疑是肿瘤没想到是花生米作祟",
@@ -12001,14 +12017,6 @@
       "onboard_time": 1715135900,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 478413,
-      "num": 478413,
-      "word": "汪苏泷谈参加歌手竞演收获",
-      "onboard_time": 1716115637,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 478217,
@@ -13795,6 +13803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426958,
+      "num": 426958,
+      "word": "10元网红咖啡大姨忙的要碎掉了",
+      "onboard_time": 1716114437,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426770,
       "num": 426770,
       "word": "TheShy为下班暴虐Uzi队",
@@ -14313,6 +14329,14 @@
       "onboard_time": 1716000917,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415324,
+      "num": 415324,
+      "word": "英国年度最性感男人",
+      "onboard_time": 1716114555,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 415187,
@@ -16803,14 +16827,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 356506,
-      "num": 356506,
-      "word": "英国年度最性感男人",
-      "onboard_time": 1716114555,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 356414,
       "num": 365518,
       "word": "男子打球被球友看出面相不对救了一命",
@@ -17281,6 +17297,14 @@
       "onboard_time": 1715411118,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345714,
+      "num": 345714,
+      "word": "范闲的腰",
+      "onboard_time": 1716115816,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 345547,
@@ -17793,6 +17817,14 @@
       "onboard_time": 1715151981,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 334803,
+      "num": 334803,
+      "word": "空ban",
+      "onboard_time": 1716117738,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 334658,
@@ -18712,14 +18744,6 @@
       "word": "财务瞒天过海12年炒股亏光公司1350万",
       "onboard_time": 1714723222,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316326,
-      "num": 316326,
-      "word": "10元网红咖啡大姨忙的要碎掉了",
-      "onboard_time": 1716114437,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -21121,14 +21145,6 @@
       "onboard_time": 1715915418,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275270,
-      "num": 275270,
-      "word": "范闲的腰",
-      "onboard_time": 1716115816,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 275195,
@@ -26019,6 +26035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218617,
+      "num": 218617,
+      "word": "男子被狗划伤后因狂犬病去世",
+      "onboard_time": 1716116298,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218561,
       "num": 218561,
       "word": "拜登声称中俄印日经济停滞是因排外",
@@ -27224,14 +27248,6 @@
       "word": "AG逆风翻盘",
       "onboard_time": 1714740141,
       "rank": 24,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 209221,
-      "num": 209221,
-      "word": "虐泉五杀",
-      "onboard_time": 1716116958,
-      "rank": 28,
       "category": "电竞"
     },
     {
@@ -34035,14 +34051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176696,
-      "num": 176696,
-      "word": "男子被狗划伤后因狂犬病去世",
-      "onboard_time": 1716116298,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176653,
       "num": 370773,
       "word": "母亲说吴艳妮夺冠是最好的母亲节礼物",
@@ -36027,6 +36035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 166995,
+      "num": 166995,
+      "word": "长期不换的筷子会致癌吗",
+      "onboard_time": 1716118097,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 166963,
       "num": 166963,
       "word": "五月的天 刚诞生的夏天",
@@ -36193,6 +36209,14 @@
       "onboard_time": 1715651117,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166002,
+      "num": 166002,
+      "word": "BLG能不能让二追三",
+      "onboard_time": 1716118276,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 165971,
@@ -38257,6 +38281,14 @@
       "onboard_time": 1714553658,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155167,
+      "num": 155167,
+      "word": "Lehends机器人",
+      "onboard_time": 1716117438,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 155160,
@@ -43963,6 +43995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126627,
+      "num": 126627,
+      "word": "破坏黄家驹墓碑男子被扒出不雅前科",
+      "onboard_time": 1716117857,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126613,
       "num": 126613,
       "word": "鸟巢 收音",
@@ -47499,6 +47539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105538,
+      "num": 227384,
+      "word": "巴赫欢迎废墟上重生女孩来巴黎",
+      "onboard_time": 1716116837,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105527,
       "num": 273970,
       "word": "可乐加藿香谁能不上头",
@@ -48313,6 +48361,14 @@
       "onboard_time": 1714729520,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97987,
+      "num": 97987,
+      "word": "张杰抛话筒",
+      "onboard_time": 1716118337,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 97889,
@@ -49492,7 +49548,7 @@
     },
     {
       "raw_hot": 78794,
-      "num": 177914,
+      "num": 187543,
       "word": "iPhone15官旗折扣价将至历史最低",
       "onboard_time": 1716116776,
       "rank": 32,
@@ -50281,14 +50337,6 @@
       "onboard_time": 1715607319,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 65405,
-      "num": 119825,
-      "word": "巴赫欢迎废墟上重生女孩来巴黎",
-      "onboard_time": 1716116837,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 65383,

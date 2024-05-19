@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716117328117,
+  "endTime": 1716118445957,
   "band_list": [
     {
       "raw_hot": 1987575,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1570057,
-      "num": 1570057,
+      "raw_hot": 1701955,
+      "num": 1701955,
       "word": "突然发现六月只要上19天班",
       "onboard_time": 1716110058,
       "rank": 27,
@@ -51,20 +51,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1360784,
+      "num": 1360784,
+      "word": "连云港鬼秤事件5人被行拘",
+      "onboard_time": 1716115757,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1320135,
       "num": 1320135,
       "word": "黄贯中",
       "onboard_time": 1716111137,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1282224,
-      "num": 1282224,
-      "word": "连云港鬼秤事件5人被行拘",
-      "onboard_time": 1716115757,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1207245,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 897988,
-      "num": 897988,
+      "raw_hot": 958635,
+      "num": 958635,
       "word": "陈丽君急性肠胃炎晕倒",
       "onboard_time": 1716115217,
       "rank": 4,
@@ -201,6 +201,14 @@
       "onboard_time": 1716083117,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724768,
+      "num": 724768,
+      "word": "虐泉五杀",
+      "onboard_time": 1716116958,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 714067,
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 513524,
+      "num": 513524,
+      "word": "汪苏泷谈参加歌手竞演收获",
+      "onboard_time": 1716115637,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507496,
       "num": 507496,
       "word": "杭州200万以内老破小吃香",
@@ -409,14 +425,6 @@
       "onboard_time": 1716091037,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478413,
-      "num": 478413,
-      "word": "汪苏泷谈参加歌手竞演收获",
-      "onboard_time": 1716115637,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 472638,
@@ -475,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 426958,
+      "num": 426958,
+      "word": "10元网红咖啡大姨忙的要碎掉了",
+      "onboard_time": 1716114437,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425842,
       "num": 425842,
       "word": "老林哭了",
@@ -505,6 +521,14 @@
       "onboard_time": 1716039259,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415324,
+      "num": 415324,
+      "word": "英国年度最性感男人",
+      "onboard_time": 1716114555,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 414173,
@@ -619,12 +643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 356506,
-      "num": 356506,
-      "word": "英国年度最性感男人",
-      "onboard_time": 1716114555,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 345714,
+      "num": 345714,
+      "word": "范闲的腰",
+      "onboard_time": 1716115816,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 341294,
@@ -672,6 +696,14 @@
       "word": "AG",
       "onboard_time": 1716049157,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 334803,
+      "num": 334803,
+      "word": "空ban",
+      "onboard_time": 1716117738,
+      "rank": 16,
       "category": "电竞"
     },
     {
@@ -737,14 +769,6 @@
       "onboard_time": 1716087077,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316326,
-      "num": 316326,
-      "word": "10元网红咖啡大姨忙的要碎掉了",
-      "onboard_time": 1716114437,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315561,
@@ -865,14 +889,6 @@
       "onboard_time": 1716051675,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 275270,
-      "num": 275270,
-      "word": "范闲的腰",
-      "onboard_time": 1716115816,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 273748,
@@ -1003,6 +1019,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 229239,
+      "num": 229239,
+      "word": "歌手2024",
+      "onboard_time": 1716117738,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224529,
       "num": 180450,
       "word": "原来扇贝游泳是用走的",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1716117198,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218617,
+      "num": 218617,
+      "word": "男子被狗划伤后因狂犬病去世",
+      "onboard_time": 1716116298,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217314,
@@ -1057,14 +1089,6 @@
       "onboard_time": 1716100158,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209221,
-      "num": 209221,
-      "word": "虐泉五杀",
-      "onboard_time": 1716116958,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 208761,
@@ -1299,14 +1323,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 176696,
-      "num": 176696,
-      "word": "男子被狗划伤后因狂犬病去世",
-      "onboard_time": 1716116298,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174994,
       "num": 174994,
       "word": "周深蓝发",
@@ -1369,6 +1385,22 @@
       "onboard_time": 1716096797,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166995,
+      "num": 166995,
+      "word": "长期不换的筷子会致癌吗",
+      "onboard_time": 1716118097,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 166002,
+      "num": 166002,
+      "word": "BLG能不能让二追三",
+      "onboard_time": 1716118276,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 165096,
@@ -1488,6 +1520,14 @@
       "word": "BLG战胜T1",
       "onboard_time": 1716038059,
       "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 155167,
+      "num": 155167,
+      "word": "Lehends机器人",
+      "onboard_time": 1716117438,
+      "rank": 35,
       "category": "电竞"
     },
     {
@@ -1785,6 +1825,14 @@
       "onboard_time": 1716088696,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126627,
+      "num": 126627,
+      "word": "破坏黄家驹墓碑男子被扒出不雅前科",
+      "onboard_time": 1716117857,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 125706,
@@ -2131,6 +2179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105538,
+      "num": 227384,
+      "word": "巴赫欢迎废墟上重生女孩来巴黎",
+      "onboard_time": 1716116837,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104632,
       "num": 146588,
       "word": "中国选手让我有种攀岩很容易的错觉",
@@ -2243,6 +2299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 97987,
+      "num": 97987,
+      "word": "张杰抛话筒",
+      "onboard_time": 1716118337,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97321,
       "num": 97321,
       "word": "田嘉瑞 我何德何能去救那姐",
@@ -2292,7 +2356,7 @@
     },
     {
       "raw_hot": 78794,
-      "num": 177914,
+      "num": 187543,
       "word": "iPhone15官旗折扣价将至历史最低",
       "onboard_time": 1716116776,
       "rank": 32,
@@ -2393,14 +2457,6 @@
       "onboard_time": 1716101296,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65405,
-      "num": 119825,
-      "word": "巴赫欢迎废墟上重生女孩来巴黎",
-      "onboard_time": 1716116837,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 62720,
