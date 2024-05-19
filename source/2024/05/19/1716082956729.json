@@ -1,0 +1,410 @@
+{
+  "runTime": 1716082956729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1188922,
+        "num": 1188922,
+        "word": "郭碧婷直播关美颜",
+        "onboard_time": 1716074474,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 802995,
+        "num": 802995,
+        "word": "12306回应高铁买靠窗座位没有窗",
+        "onboard_time": 1716075255,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39998,
+        "num": 615516,
+        "word": "首届全国职工马拉松",
+        "onboard_time": 1716040339,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614761,
+        "num": 614761,
+        "word": "苗苗染红发",
+        "onboard_time": 1716080298,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459472,
+        "num": 459472,
+        "word": "今年520521刚好是1314",
+        "onboard_time": 1716077655,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443617,
+        "num": 443617,
+        "word": "大同地震",
+        "onboard_time": 1716074415,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529341,
+        "num": 408755,
+        "word": "刘宪华5年后重返综艺",
+        "onboard_time": 1716078135,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454952,
+        "num": 399956,
+        "word": "亚当歌手选曲",
+        "onboard_time": 1716080116,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334361,
+        "num": 334361,
+        "word": "官方通报失联女老师遗体被找到",
+        "onboard_time": 1716075255,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244435,
+        "num": 244435,
+        "word": "北京震感",
+        "onboard_time": 1716074834,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753804,
+        "num": 244415,
+        "word": "三胞胎兄弟居然有胎内记忆",
+        "onboard_time": 1716044360,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546772,
+        "num": 244317,
+        "word": "长期戴眼镜会让眼睛变凸吗",
+        "onboard_time": 1716075255,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 341615,
+        "num": 244096,
+        "word": "警方回应知名主持人被曝私生活混乱",
+        "onboard_time": 1716037820,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304080,
+        "num": 243985,
+        "word": "谢帝又被diss了",
+        "onboard_time": 1716081316,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76534,
+        "num": 243872,
+        "word": "00后视障男孩做播客还带了徒弟",
+        "onboard_time": 1716082697,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243851,
+        "num": 243851,
+        "word": "北京打雷",
+        "onboard_time": 1716077296,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288263,
+        "num": 243824,
+        "word": "三皇子 年轻人觉多",
+        "onboard_time": 1716051436,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243441,
+        "num": 243441,
+        "word": "纽约中央公园偶遇网红凤姐",
+        "onboard_time": 1716052395,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234416,
+        "num": 234416,
+        "word": "男子被蜱虫咬几天后做足疗时发现",
+        "onboard_time": 1716042140,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229153,
+        "num": 229153,
+        "word": "交警路边查戴头盔遇老外直接放行",
+        "onboard_time": 1716079757,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293483,
+        "num": 228276,
+        "word": "姑娘翻出一堆施华洛世奇后悔没买黄金",
+        "onboard_time": 1716051375,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249553,
+        "num": 227019,
+        "word": "散步是一种最被低估的运动",
+        "onboard_time": 1716051675,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 202654,
+        "num": 202654,
+        "word": "幼态审美盯上女生的牙齿",
+        "onboard_time": 1716034758,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189769,
+        "num": 189769,
+        "word": "汪苏泷 吃饱饭继续奋斗",
+        "onboard_time": 1716077057,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67466,
+        "num": 180658,
+        "word": "鲜奶的免疫秘密是什么",
+        "onboard_time": 1716080897,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176635,
+        "num": 176635,
+        "word": "BLG回应Elk身体不适",
+        "onboard_time": 1716077715,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169343,
+        "num": 169343,
+        "word": "男子挪车时开走路边同款宝马",
+        "onboard_time": 1716077896,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168531,
+        "num": 168531,
+        "word": "制片人谢晓虎力挺黄俊捷",
+        "onboard_time": 1716082036,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166918,
+        "num": 166918,
+        "word": "庆余年作者谈原著改编影视剧",
+        "onboard_time": 1716075195,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157362,
+        "num": 157362,
+        "word": "为什么大家越来越爱看丑猫",
+        "onboard_time": 1716078677,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205245,
+        "num": 157308,
+        "word": "女生一定要远离习惯性无助",
+        "onboard_time": 1716082636,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156002,
+        "num": 156002,
+        "word": "马嘉祺 歌手编外",
+        "onboard_time": 1716075014,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150684,
+        "num": 150684,
+        "word": "早就说了我邀请的是断眉亚当",
+        "onboard_time": 1716039259,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47632,
+        "num": 149622,
+        "word": "你的旅行心愿是什么",
+        "onboard_time": 1716079637,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 148926,
+        "num": 148926,
+        "word": "深圳住房公积金贷款利率下调",
+        "onboard_time": 1716079155,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148827,
+        "num": 148827,
+        "word": "当整个宿舍明天要出去玩时",
+        "onboard_time": 1716078737,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145911,
+        "num": 145911,
+        "word": "十年开一次的帝王凤梨开花了",
+        "onboard_time": 1716081138,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142253,
+        "num": 142253,
+        "word": "我的阿勒泰",
+        "onboard_time": 1716079037,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138459,
+        "num": 138459,
+        "word": "南宁暴雨",
+        "onboard_time": 1716080538,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137723,
+        "num": 137723,
+        "word": "种地吧第二届麦田音乐会",
+        "onboard_time": 1716074415,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134710,
+        "num": 134710,
+        "word": "毛晓彤庆余年2奶凶奶凶的",
+        "onboard_time": 1716040760,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129887,
+        "num": 129887,
+        "word": "东京食尸鬼 那个夏天回来了",
+        "onboard_time": 1716078556,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124129,
+        "num": 124129,
+        "word": "送礼判官终于出现了",
+        "onboard_time": 1716082636,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121566,
+        "num": 121566,
+        "word": "年轻人需要自己的多巴胺搭子",
+        "onboard_time": 1716078677,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120076,
+        "num": 120076,
+        "word": "6样护肤品没必要别买贵的",
+        "onboard_time": 1716079998,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 117801,
+        "num": 117801,
+        "word": "狼队战胜AG",
+        "onboard_time": 1716044180,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116337,
+        "num": 116337,
+        "word": "刘雨昕成都",
+        "onboard_time": 1716082276,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114891,
+        "num": 114891,
+        "word": "今天全国助残日",
+        "onboard_time": 1716082578,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 111568,
+        "num": 111568,
+        "word": "中年人的婚外情为何不会通往离婚",
+        "onboard_time": 1716042201,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110762,
+        "num": 110762,
+        "word": "NBA",
+        "onboard_time": 1716081376,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#博物致知#"
+    }
+  }
+}

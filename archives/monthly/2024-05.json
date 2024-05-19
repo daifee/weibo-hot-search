@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716081733146,
+  "endTime": 1716082956729,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -5675,6 +5675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802995,
+      "num": 802995,
+      "word": "12306回应高铁买靠窗座位没有窗",
+      "onboard_time": 1716075255,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802806,
       "num": 445752,
       "word": "刘亦菲金色高定",
@@ -5992,14 +6000,6 @@
       "word": "南通大巴与渣土车碰撞致1死",
       "onboard_time": 1715440941,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 767384,
-      "num": 767384,
-      "word": "12306回应高铁买靠窗座位没有窗",
-      "onboard_time": 1716075255,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -8643,6 +8643,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 614761,
+      "num": 614761,
+      "word": "苗苗染红发",
+      "onboard_time": 1716080298,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614727,
       "num": 614727,
       "word": "周琦缺席",
@@ -10387,6 +10395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 529341,
+      "num": 504701,
+      "word": "刘宪华5年后重返综艺",
+      "onboard_time": 1716078135,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528965,
       "num": 559539,
       "word": "杨紫直播",
@@ -11017,14 +11033,6 @@
       "onboard_time": 1715568919,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 504701,
-      "num": 504701,
-      "word": "刘宪华5年后重返综艺",
-      "onboard_time": 1716078135,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 504598,
@@ -12371,6 +12379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459472,
+      "num": 459472,
+      "word": "今年520521刚好是1314",
+      "onboard_time": 1716077655,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 459350,
       "num": 414705,
       "word": "成都顶楼水泥封人视频系拼接",
@@ -12505,6 +12521,14 @@
       "onboard_time": 1715057842,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 454952,
+      "num": 399956,
+      "word": "亚当歌手选曲",
+      "onboard_time": 1716080116,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 454931,
@@ -12865,14 +12889,6 @@
       "onboard_time": 1715423000,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 444382,
-      "num": 373048,
-      "word": "苗苗染红发",
-      "onboard_time": 1716080298,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 444149,
@@ -15489,14 +15505,6 @@
       "onboard_time": 1715818579,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378033,
-      "num": 378033,
-      "word": "今年520521刚好是1314",
-      "onboard_time": 1716077655,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 376841,
@@ -18659,14 +18667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307061,
-      "num": 307061,
-      "word": "亚当歌手选曲",
-      "onboard_time": 1716080116,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307004,
       "num": 307004,
       "word": "王楚钦孙颖莎3比0德赛戈尔帕德",
@@ -18801,6 +18801,14 @@
       "onboard_time": 1714632798,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304080,
+      "num": 243985,
+      "word": "谢帝又被diss了",
+      "onboard_time": 1716081316,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 304052,
@@ -19553,6 +19561,14 @@
       "onboard_time": 1714833501,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 288263,
+      "num": 243824,
+      "word": "三皇子 年轻人觉多",
+      "onboard_time": 1716051436,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 288132,
@@ -20420,7 +20436,7 @@
     },
     {
       "raw_hot": 277066,
-      "num": 212449,
+      "num": 227019,
       "word": "散步是一种最被低估的运动",
       "onboard_time": 1716051675,
       "rank": 30,
@@ -22923,6 +22939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 243851,
+      "num": 243851,
+      "word": "北京打雷",
+      "onboard_time": 1716077296,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243787,
       "num": 243787,
       "word": "李彦宏称优秀员工才代表真实的百度",
@@ -22945,14 +22969,6 @@
       "onboard_time": 1714529598,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 243596,
-      "num": 223884,
-      "word": "三皇子 年轻人觉多",
-      "onboard_time": 1716051436,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 243377,
@@ -23971,14 +23987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231974,
-      "num": 231974,
-      "word": "北京打雷",
-      "onboard_time": 1716077296,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231513,
       "num": 231513,
       "word": "继女对后妈是种什么样的情感",
@@ -24208,6 +24216,14 @@
       "word": "五四青年节",
       "onboard_time": 1714778293,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229153,
+      "num": 229153,
+      "word": "交警路边查戴头盔遇老外直接放行",
+      "onboard_time": 1716079757,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -25676,7 +25692,7 @@
     },
     {
       "raw_hot": 215773,
-      "num": 156479,
+      "num": 176635,
       "word": "BLG回应Elk身体不适",
       "onboard_time": 1716077715,
       "rank": 30,
@@ -27315,12 +27331,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 205265,
-      "num": 205265,
-      "word": "交警路边查戴头盔遇老外直接放行",
-      "onboard_time": 1716079757,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 205245,
+      "num": 157308,
+      "word": "女生一定要远离习惯性无助",
+      "onboard_time": 1716082636,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 205238,
@@ -34851,6 +34867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168531,
+      "num": 168531,
+      "word": "制片人谢晓虎力挺黄俊捷",
+      "onboard_time": 1716082036,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168338,
       "num": 1085085,
       "word": "从五一假期看流动的中国",
@@ -36883,6 +36907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157362,
+      "num": 157362,
+      "word": "为什么大家越来越爱看丑猫",
+      "onboard_time": 1716078677,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157340,
       "num": 157340,
       "word": "嫦娥六号发射定在5月3日",
@@ -37145,6 +37177,14 @@
       "onboard_time": 1714919482,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156002,
+      "num": 156002,
+      "word": "马嘉祺 歌手编外",
+      "onboard_time": 1716075014,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 155989,
@@ -38395,14 +38435,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 149739,
-      "num": 149739,
-      "word": "为什么大家越来越爱看丑猫",
-      "onboard_time": 1716078677,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149715,
       "num": 149715,
       "word": "专家称老百姓购房意愿不强是因为房价没跌到位",
@@ -38609,6 +38641,14 @@
       "onboard_time": 1715518280,
       "rank": 45,
       "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 148827,
+      "num": 148827,
+      "word": "当整个宿舍明天要出去玩时",
+      "onboard_time": 1716078737,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 148826,
@@ -39147,6 +39187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145911,
+      "num": 145911,
+      "word": "十年开一次的帝王凤梨开花了",
+      "onboard_time": 1716081138,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145868,
       "num": 145868,
       "word": "张杰要得第一篇章预告",
@@ -39312,14 +39360,6 @@
       "word": "草莓音乐节大战格莱美",
       "onboard_time": 1715490078,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145008,
-      "num": 145008,
-      "word": "马嘉祺 歌手编外",
-      "onboard_time": 1716075014,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -40729,14 +40769,6 @@
       "onboard_time": 1715477238,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 137776,
-      "num": 137776,
-      "word": "当整个宿舍明天要出去玩时",
-      "onboard_time": 1716078737,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 137725,
@@ -42883,14 +42915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126479,
-      "num": 126479,
-      "word": "十年开一次的帝王凤梨开花了",
-      "onboard_time": 1716081138,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 126444,
       "num": 126444,
       "word": "TTG对战BOA",
@@ -43337,6 +43361,14 @@
       "onboard_time": 1714539857,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124129,
+      "num": 124129,
+      "word": "送礼判官终于出现了",
+      "onboard_time": 1716082636,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 124056,
@@ -43809,14 +43841,6 @@
       "onboard_time": 1714649717,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 120881,
-      "num": 120881,
-      "word": "谢帝又被diss了",
-      "onboard_time": 1716081316,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 120784,
@@ -44555,6 +44579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116337,
+      "num": 116337,
+      "word": "刘雨昕成都",
+      "onboard_time": 1716082276,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116301,
       "num": 116301,
       "word": "RedmiBuds6",
@@ -44801,6 +44833,14 @@
       "onboard_time": 1714536317,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114891,
+      "num": 114891,
+      "word": "今天全国助残日",
+      "onboard_time": 1716082578,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 114778,
@@ -48147,6 +48187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76534,
+      "num": 243872,
+      "word": "00后视障男孩做播客还带了徒弟",
+      "onboard_time": 1716082697,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76525,
       "num": 76525,
       "word": "五一的杭州西湖边",
@@ -48609,6 +48657,14 @@
       "onboard_time": 1714480578,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67466,
+      "num": 180658,
+      "word": "鲜奶的免疫秘密是什么",
+      "onboard_time": 1716080897,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 67294,
@@ -49731,6 +49787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47632,
+      "num": 342603,
+      "word": "你的旅行心愿是什么",
+      "onboard_time": 1716079637,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 47542,
       "num": 47542,
       "word": "新生第九集",
@@ -49769,14 +49833,6 @@
       "onboard_time": 1715606599,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 46454,
-      "num": 173413,
-      "word": "鲜奶的免疫秘密是什么",
-      "onboard_time": 1716080897,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 46359,
@@ -50025,14 +50081,6 @@
       "onboard_time": 1714705157,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43487,
-      "num": 342603,
-      "word": "你的旅行心愿是什么",
-      "onboard_time": 1716079637,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 43476,

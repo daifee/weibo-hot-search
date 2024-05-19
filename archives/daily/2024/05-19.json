@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716081733146,
+  "endTime": 1716082956729,
   "band_list": [
     {
       "raw_hot": 1207245,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 767384,
-      "num": 767384,
+      "raw_hot": 802995,
+      "num": 802995,
       "word": "12306回应高铁买靠窗座位没有窗",
       "onboard_time": 1716075255,
       "rank": 42,
@@ -49,6 +49,14 @@
       "onboard_time": 1716044180,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 614761,
+      "num": 614761,
+      "word": "苗苗染红发",
+      "onboard_time": 1716080298,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 600659,
@@ -83,7 +91,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 504701,
+      "raw_hot": 529341,
       "num": 504701,
       "word": "刘宪华5年后重返综艺",
       "onboard_time": 1716078135,
@@ -91,11 +99,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 444382,
-      "num": 373048,
-      "word": "苗苗染红发",
-      "onboard_time": 1716080298,
-      "rank": 6,
+      "raw_hot": 459472,
+      "num": 459472,
+      "word": "今年520521刚好是1314",
+      "onboard_time": 1716077655,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 454952,
+      "num": 399956,
+      "word": "亚当歌手选曲",
+      "onboard_time": 1716080116,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378033,
-      "num": 378033,
-      "word": "今年520521刚好是1314",
-      "onboard_time": 1716077655,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 367776,
       "num": 367776,
       "word": "官方通报失联女老师遗体被找到",
@@ -203,12 +211,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307061,
-      "num": 307061,
-      "word": "亚当歌手选曲",
-      "onboard_time": 1716080116,
-      "rank": 13,
+      "raw_hot": 304080,
+      "num": 243985,
+      "word": "谢帝又被diss了",
+      "onboard_time": 1716081316,
+      "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288263,
+      "num": 243824,
+      "word": "三皇子 年轻人觉多",
+      "onboard_time": 1716051436,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 279539,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 277066,
-      "num": 212449,
+      "num": 227019,
       "word": "散步是一种最被低估的运动",
       "onboard_time": 1716051675,
       "rank": 30,
@@ -275,12 +291,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 243596,
-      "num": 223884,
-      "word": "三皇子 年轻人觉多",
-      "onboard_time": 1716051436,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 243851,
+      "num": 243851,
+      "word": "北京打雷",
+      "onboard_time": 1716077296,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242137,
@@ -291,11 +307,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231974,
-      "num": 231974,
-      "word": "北京打雷",
-      "onboard_time": 1716077296,
-      "rank": 18,
+      "raw_hot": 229153,
+      "num": 229153,
+      "word": "交警路边查戴头盔遇老外直接放行",
+      "onboard_time": 1716079757,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 215773,
-      "num": 156479,
+      "num": 176635,
       "word": "BLG回应Elk身体不适",
       "onboard_time": 1716077715,
       "rank": 30,
@@ -331,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205265,
-      "num": 205265,
-      "word": "交警路边查戴头盔遇老外直接放行",
-      "onboard_time": 1716079757,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 205245,
+      "num": 157308,
+      "word": "女生一定要远离习惯性无助",
+      "onboard_time": 1716082636,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 200287,
@@ -435,6 +451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 168531,
+      "num": 168531,
+      "word": "制片人谢晓虎力挺黄俊捷",
+      "onboard_time": 1716082036,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164491,
       "num": 164491,
       "word": "神bin天降",
@@ -467,11 +491,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157362,
+      "num": 157362,
+      "word": "为什么大家越来越爱看丑猫",
+      "onboard_time": 1716078677,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157252,
       "num": 157252,
       "word": "种地吧第二届麦田音乐会",
       "onboard_time": 1716074415,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156002,
+      "num": 156002,
+      "word": "马嘉祺 歌手编外",
+      "onboard_time": 1716075014,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -515,11 +555,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149739,
-      "num": 149739,
-      "word": "为什么大家越来越爱看丑猫",
-      "onboard_time": 1716078677,
-      "rank": 32,
+      "raw_hot": 148827,
+      "num": 148827,
+      "word": "当整个宿舍明天要出去玩时",
+      "onboard_time": 1716078737,
+      "rank": 37,
       "category": "幽默"
     },
     {
@@ -539,19 +579,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145911,
+      "num": 145911,
+      "word": "十年开一次的帝王凤梨开花了",
+      "onboard_time": 1716081138,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145053,
       "num": 145053,
       "word": "十个勤天真把我们当自己人",
       "onboard_time": 1716043759,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145008,
-      "num": 145008,
-      "word": "马嘉祺 歌手编外",
-      "onboard_time": 1716075014,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -569,14 +609,6 @@
       "onboard_time": 1716079998,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 137776,
-      "num": 137776,
-      "word": "当整个宿舍明天要出去玩时",
-      "onboard_time": 1716078737,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 136100,
@@ -611,20 +643,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126479,
-      "num": 126479,
-      "word": "十年开一次的帝王凤梨开花了",
-      "onboard_time": 1716081138,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125010,
       "num": 125010,
       "word": "小胖FMVP",
       "onboard_time": 1716044180,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124129,
+      "num": 124129,
+      "word": "送礼判官终于出现了",
+      "onboard_time": 1716082636,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 121483,
@@ -635,12 +667,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120881,
-      "num": 120881,
-      "word": "谢帝又被diss了",
-      "onboard_time": 1716081316,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 116337,
+      "num": 116337,
+      "word": "刘雨昕成都",
+      "onboard_time": 1716082276,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 115852,
@@ -649,6 +681,14 @@
       "onboard_time": 1716044540,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114891,
+      "num": 114891,
+      "word": "今天全国助残日",
+      "onboard_time": 1716082578,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 113966,
@@ -675,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110762,
+      "num": 110762,
+      "word": "NBA",
+      "onboard_time": 1716081376,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110112,
       "num": 110112,
       "word": "王星越中插代表作第一人",
@@ -689,14 +737,6 @@
       "onboard_time": 1716042201,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108479,
-      "num": 108479,
-      "word": "NBA",
-      "onboard_time": 1716081376,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 105964,
@@ -747,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76534,
+      "num": 243872,
+      "word": "00后视障男孩做播客还带了徒弟",
+      "onboard_time": 1716082697,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75911,
       "num": 75911,
       "word": "Bin说三比零T1",
@@ -785,6 +833,14 @@
       "onboard_time": 1716074474,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 67466,
+      "num": 180658,
+      "word": "鲜奶的免疫秘密是什么",
+      "onboard_time": 1716080897,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 67219,
@@ -835,20 +891,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47632,
+      "num": 342603,
+      "word": "你的旅行心愿是什么",
+      "onboard_time": 1716079637,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 47124,
       "num": 389477,
       "word": "5000年前老祖宗就拿捏了粘土特效",
       "onboard_time": 1716045679,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46454,
-      "num": 173413,
-      "word": "鲜奶的免疫秘密是什么",
-      "onboard_time": 1716080897,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 45301,
@@ -873,14 +929,6 @@
       "onboard_time": 1716040339,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43487,
-      "num": 342603,
-      "word": "你的旅行心愿是什么",
-      "onboard_time": 1716079637,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 41128,
