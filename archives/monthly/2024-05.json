@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716122827390,
+  "endTime": 1716124726108,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -17,6 +17,14 @@
       "onboard_time": 1715341399,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14034440,
+      "num": 14034440,
+      "word": "警方通报胖猫与谭某经济往来情况",
+      "onboard_time": 1716123377,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 10971603,
@@ -177,6 +185,14 @@
       "onboard_time": 1715440581,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3347215,
+      "num": 3347215,
+      "word": "GEN夺冠",
+      "onboard_time": 1716123739,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 3292604,
@@ -3163,6 +3179,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 1134288,
+      "num": 1134288,
+      "word": "GEN对战BLG",
+      "onboard_time": 1715853318,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1132835,
       "num": 1132835,
       "word": "郝蕾二宝",
@@ -3244,7 +3268,7 @@
     },
     {
       "raw_hot": 1122641,
-      "num": 308112,
+      "num": 438792,
       "word": "日本女子挺9个月孕肚为老公准备30天量晚饭",
       "onboard_time": 1716122657,
       "rank": 20,
@@ -4465,6 +4489,14 @@
       "onboard_time": 1714706719,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 927130,
+      "num": 535048,
+      "word": "BLG能不能让二追三",
+      "onboard_time": 1716118276,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 926785,
@@ -8084,7 +8116,7 @@
     },
     {
       "raw_hot": 652862,
-      "num": 392604,
+      "num": 438959,
       "word": "辽宁1辆120被撞翻多人甩出车外",
       "onboard_time": 1716120197,
       "rank": 11,
@@ -9396,7 +9428,7 @@
     },
     {
       "raw_hot": 588724,
-      "num": 376384,
+      "num": 540929,
       "word": "网红130万整形嘴弯眼斜",
       "onboard_time": 1716120976,
       "rank": 12,
@@ -9683,14 +9715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571810,
-      "num": 571810,
-      "word": "GEN对战BLG",
-      "onboard_time": 1715853318,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 571449,
       "num": 569483,
       "word": "孙丞潇说喜欢郑合惠子",
@@ -9721,6 +9745,14 @@
       "onboard_time": 1715078118,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570945,
+      "num": 438625,
+      "word": "朴志效说队内都是商业关系",
+      "onboard_time": 1716123558,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 570761,
@@ -18051,6 +18083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 331918,
+      "num": 331918,
+      "word": "黑神话悟空",
+      "onboard_time": 1716122058,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331906,
       "num": 93440,
       "word": "Faouzia回应第一",
@@ -19139,6 +19179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309374,
+      "num": 309374,
+      "word": "偷家",
+      "onboard_time": 1716124340,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 308932,
       "num": 241103,
       "word": "成毅工作室文笔",
@@ -19313,14 +19361,6 @@
       "onboard_time": 1716044180,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 305315,
-      "num": 305315,
-      "word": "黑神话悟空",
-      "onboard_time": 1716122058,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 305279,
@@ -19883,14 +19923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295003,
-      "num": 295003,
-      "word": "BLG能不能让二追三",
-      "onboard_time": 1716118276,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 294892,
       "num": 294892,
       "word": "庆余年是张若昀主动争取来的",
@@ -20257,6 +20289,14 @@
       "onboard_time": 1715486358,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286664,
+      "num": 286664,
+      "word": "黑神话悟空定价公布",
+      "onboard_time": 1716122898,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 286662,
@@ -26995,6 +27035,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 211974,
+      "num": 211974,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1716124400,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211916,
       "num": 211916,
       "word": "咒术回战259",
@@ -31067,6 +31115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192702,
+      "num": 192702,
+      "word": "白鹿说少骂点姚译添吧",
+      "onboard_time": 1716122358,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192699,
       "num": 192699,
       "word": "柳智敏Supernova直拍",
@@ -32763,6 +32819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184541,
+      "num": 184541,
+      "word": "原来小猫是这样挖鼻孔的",
+      "onboard_time": 1716121458,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184519,
       "num": 184519,
       "word": "时代峰峻的八百米体测",
@@ -33307,14 +33371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181502,
-      "num": 181502,
-      "word": "原来小猫是这样挖鼻孔的",
-      "onboard_time": 1716121458,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181490,
       "num": 181490,
       "word": "你好星期六全员玩明白了卧底局",
@@ -33348,7 +33404,7 @@
     },
     {
       "raw_hot": 181026,
-      "num": 156284,
+      "num": 162806,
       "word": "on的塔姆",
       "onboard_time": 1716121217,
       "rank": 33,
@@ -35081,6 +35137,14 @@
       "onboard_time": 1714881199,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172424,
+      "num": 403998,
+      "word": "为什么建议你夏天吃点樱桃",
+      "onboard_time": 1716121518,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 172364,
@@ -37507,6 +37571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159885,
+      "num": 159885,
+      "word": "六公主报道赵露思",
+      "onboard_time": 1716122657,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159858,
       "num": 159858,
       "word": "小黑熊一激动认错妈了",
@@ -37825,6 +37897,14 @@
       "onboard_time": 1714613838,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158020,
+      "num": 158020,
+      "word": "外国人难以理解的韩国特有文化",
+      "onboard_time": 1716124522,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 157987,
@@ -40603,6 +40683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144402,
+      "num": 144402,
+      "word": "南京手冲咖啡阿姨主业是卖甘蔗汁",
+      "onboard_time": 1716122117,
+      "rank": 36,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 144266,
       "num": 144266,
       "word": "给弟弟开家长会让和家长对视",
@@ -41683,14 +41771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139427,
-      "num": 139427,
-      "word": "南京手冲咖啡阿姨主业是卖甘蔗汁",
-      "onboard_time": 1716122117,
-      "rank": 36,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 139381,
       "num": 139381,
       "word": "一诺敖隐小龙王",
@@ -41857,14 +41937,6 @@
       "onboard_time": 1714717639,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138532,
-      "num": 138532,
-      "word": "白鹿说少骂点姚译添吧",
-      "onboard_time": 1716122358,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 138507,
@@ -43307,14 +43379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131314,
-      "num": 131314,
-      "word": "六公主报道赵露思",
-      "onboard_time": 1716122657,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131280,
       "num": 131280,
       "word": "汶川地震时一位母亲留下的短信",
@@ -43681,14 +43745,6 @@
       "onboard_time": 1715078179,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129399,
-      "num": 403998,
-      "word": "为什么建议你夏天吃点樱桃",
-      "onboard_time": 1716121518,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 129321,
@@ -44137,6 +44193,14 @@
       "onboard_time": 1715788757,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 126760,
+      "num": 126760,
+      "word": "凤凰花开的路口",
+      "onboard_time": 1716124522,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 126735,
@@ -45017,6 +45081,14 @@
       "onboard_time": 1715124497,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121833,
+      "num": 121833,
+      "word": "央视网采访Bin",
+      "onboard_time": 1716124282,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 121819,
@@ -47996,7 +48068,7 @@
     },
     {
       "raw_hot": 103229,
-      "num": 1286222,
+      "num": 1459602,
       "word": "当代年轻人花式旅游图鉴",
       "onboard_time": 1716107418,
       "rank": 2,
@@ -50945,6 +51017,14 @@
       "onboard_time": 1716058452,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57879,
+      "num": 173441,
+      "word": "何同学飞上万公里取快递",
+      "onboard_time": 1716123077,
+      "rank": 29,
+      "category": "汽车,数码"
     },
     {
       "raw_hot": 57402,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1716122827390,
+  "endTime": 1716124726108,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -65,6 +65,14 @@
       "onboard_time": 1707812616,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14034440,
+      "num": 14034440,
+      "word": "警方通报胖猫与谭某经济往来情况",
+      "onboard_time": 1716123377,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 13951260,
@@ -1771,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3347215,
+      "num": 3347215,
+      "word": "GEN夺冠",
+      "onboard_time": 1716123739,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 3340955,
       "num": 350854,
       "word": "网传白敬亭换衣服的原因",
@@ -2384,22 +2400,6 @@
       "word": "25岁规培女医生刎颈自杀",
       "onboard_time": 1710412411,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2954348,
-      "num": 2954348,
-      "word": "刘诗诗首登央视春晚",
-      "onboard_time": 1707479676,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2947527,
-      "num": 2947527,
-      "word": "日本海啸",
-      "onboard_time": 1712104650,
-      "rank": 4,
       "category": "社会新闻"
     }
   ],
