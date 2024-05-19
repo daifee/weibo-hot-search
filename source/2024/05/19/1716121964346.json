@@ -1,0 +1,410 @@
+{
+  "runTime": 1716121964346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1449713,
+        "num": 1449713,
+        "word": "突然发现六月只要上19天班",
+        "onboard_time": 1716110058,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 801647,
+        "num": 801647,
+        "word": "陈丽君急性肠胃炎晕倒",
+        "onboard_time": 1716115217,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58550,
+        "num": 719585,
+        "word": "当代年轻人花式旅游图鉴",
+        "onboard_time": 1716107418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687410,
+        "num": 687410,
+        "word": "王骁 三十岁选择到华尔街闯一闯",
+        "onboard_time": 1716119238,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 663591,
+        "num": 663591,
+        "word": "连云港鬼秤事件5人被行拘",
+        "onboard_time": 1716115757,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422874,
+        "num": 422874,
+        "word": "10元网红咖啡大姨忙的要碎掉了",
+        "onboard_time": 1716114437,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502825,
+        "num": 422668,
+        "word": "汪苏泷谈参加歌手竞演收获",
+        "onboard_time": 1716115637,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430063,
+        "num": 420803,
+        "word": "你好星期六 TFBOYS",
+        "onboard_time": 1716101716,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413350,
+        "num": 413350,
+        "word": "虐泉五杀",
+        "onboard_time": 1716116958,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96871,
+        "num": 403998,
+        "word": "为什么建议你夏天吃点樱桃",
+        "onboard_time": 1716121518,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 559534,
+        "num": 394621,
+        "word": "空ban",
+        "onboard_time": 1716117738,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 468601,
+        "num": 392604,
+        "word": "辽宁1辆120被撞翻多人甩出车外",
+        "onboard_time": 1716120197,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419888,
+        "num": 376384,
+        "word": "网红130万整形嘴弯眼斜",
+        "onboard_time": 1716120976,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 374988,
+        "num": 374988,
+        "word": "今年能吃到荔枝就不错了",
+        "onboard_time": 1716102857,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86913,
+        "num": 358685,
+        "word": "美妆超级券",
+        "onboard_time": 1716120018,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 356789,
+        "num": 356789,
+        "word": "王俊凯出发蔡依林演唱会彩排",
+        "onboard_time": 1716102498,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 346430,
+        "num": 346430,
+        "word": "歌手2024",
+        "onboard_time": 1716117738,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320646,
+        "num": 320646,
+        "word": "庆余年2",
+        "onboard_time": 1716121335,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251713,
+        "num": 251713,
+        "word": "BLG能不能让二追三",
+        "onboard_time": 1716118276,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232708,
+        "num": 249318,
+        "word": "英国年度最性感男人",
+        "onboard_time": 1716114555,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 263331,
+        "num": 249282,
+        "word": "范闲的腰",
+        "onboard_time": 1716115816,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249160,
+        "num": 249160,
+        "word": "GEN对战BLG",
+        "onboard_time": 1716108619,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218241,
+        "num": 218241,
+        "word": "男子被狗划伤后因狂犬病去世",
+        "onboard_time": 1716116298,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205994,
+        "num": 205994,
+        "word": "陈少熙直播聊新歌",
+        "onboard_time": 1716121335,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205794,
+        "num": 205794,
+        "word": "长期不换的筷子会致癌吗",
+        "onboard_time": 1716118097,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 202697,
+        "num": 202697,
+        "word": "BLG决赛扳回一城",
+        "onboard_time": 1716120018,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193605,
+        "num": 193605,
+        "word": "乌军王牌飞行员阵亡",
+        "onboard_time": 1716119836,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193211,
+        "num": 193211,
+        "word": "王俊凯彩排花絮",
+        "onboard_time": 1716120858,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189456,
+        "num": 189456,
+        "word": "为了买房半年和对象存了5万",
+        "onboard_time": 1716112517,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 179975,
+        "num": 179975,
+        "word": "王一博到达桂林",
+        "onboard_time": 1716118758,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38158,
+        "num": 177549,
+        "word": "DNF给了我一整个青春",
+        "onboard_time": 1716120378,
+        "rank": 30,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 14419,
+        "num": 169266,
+        "word": "乐见潮向现场超出片",
+        "onboard_time": 1716118518,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 710061,
+        "num": 162427,
+        "word": "黄家驹墓碑遗照被砸坏",
+        "onboard_time": 1716103878,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181026,
+        "num": 156284,
+        "word": "on的塔姆",
+        "onboard_time": 1716121217,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152376,
+        "num": 152376,
+        "word": "原来小猫是这样挖鼻孔的",
+        "onboard_time": 1716121458,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144231,
+        "num": 144231,
+        "word": "孟子义上学时被拉到女厕所打头",
+        "onboard_time": 1716105438,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142803,
+        "num": 142803,
+        "word": "张杰抛话筒",
+        "onboard_time": 1716118337,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139944,
+        "num": 139944,
+        "word": "黄家强",
+        "onboard_time": 1716120197,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133859,
+        "num": 133859,
+        "word": "美妆券",
+        "onboard_time": 1716121097,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 111929,
+        "num": 133603,
+        "word": "杭州知名主持人决定送父母去养老院",
+        "onboard_time": 1716111797,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133509,
+        "num": 133509,
+        "word": "章昊 未满24岁全款拿下第一杯杨枝甘露",
+        "onboard_time": 1716102197,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125604,
+        "num": 125604,
+        "word": "小狗跑起来怎么乱七八糟的",
+        "onboard_time": 1716121217,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121447,
+        "num": 121447,
+        "word": "许嵩粉丝包合肥全城毛肚火锅",
+        "onboard_time": 1716118877,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120531,
+        "num": 120531,
+        "word": "王俊凯柠檬草的味道彩排",
+        "onboard_time": 1716108378,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116781,
+        "num": 116781,
+        "word": "鼠鼠一觉醒来全身酸痛",
+        "onboard_time": 1716109336,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113240,
+        "num": 113240,
+        "word": "WBG明明独狼吃鸡",
+        "onboard_time": 1716120917,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103470,
+        "num": 103470,
+        "word": "TFBOYS快本首秀要十周年了",
+        "onboard_time": 1716105978,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95805,
+        "num": 95805,
+        "word": "为什么我们很少见到盲人",
+        "onboard_time": 1716109996,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80586,
+        "num": 94988,
+        "word": "林徽因终于拿到了迟到100年的学位证",
+        "onboard_time": 1716102016,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94268,
+        "num": 94268,
+        "word": "救助了一只句句有回应的小猫",
+        "onboard_time": 1716119659,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#要督促落实全面从严治党责任#"
+    }
+  }
+}

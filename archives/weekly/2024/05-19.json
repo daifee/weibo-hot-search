@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716118445957,
+  "endTime": 1716121964346,
   "band_list": [
     {
       "raw_hot": 1987575,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687410,
+      "num": 687410,
+      "word": "王骁 三十岁选择到华尔街闯一闯",
+      "onboard_time": 1716119238,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 684586,
       "num": 684586,
       "word": "苗苗染红发",
@@ -355,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 559534,
+      "num": 394621,
+      "word": "空ban",
+      "onboard_time": 1716117738,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 556554,
       "num": 556554,
       "word": "GEN对战BLG",
@@ -435,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468601,
+      "num": 392604,
+      "word": "辽宁1辆120被撞翻多人甩出车外",
+      "onboard_time": 1716120197,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461079,
       "num": 423626,
       "word": "TFBOYS快本首秀要十周年了",
@@ -505,6 +529,14 @@
       "onboard_time": 1716083476,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419888,
+      "num": 376384,
+      "word": "网红130万整形嘴弯眼斜",
+      "onboard_time": 1716120976,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 419269,
@@ -643,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346430,
+      "num": 346430,
+      "word": "歌手2024",
+      "onboard_time": 1716117738,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345714,
       "num": 345714,
       "word": "范闲的腰",
@@ -696,14 +736,6 @@
       "word": "AG",
       "onboard_time": 1716049157,
       "rank": 36,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 334803,
-      "num": 334803,
-      "word": "空ban",
-      "onboard_time": 1716117738,
-      "rank": 16,
       "category": "电竞"
     },
     {
@@ -761,6 +793,14 @@
       "onboard_time": 1716039800,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320646,
+      "num": 320646,
+      "word": "庆余年2",
+      "onboard_time": 1716084858,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 317010,
@@ -931,6 +971,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 251713,
+      "num": 251713,
+      "word": "BLG能不能让二追三",
+      "onboard_time": 1716118276,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 251652,
       "num": 251652,
       "word": "南玉卿心定档",
@@ -1019,14 +1067,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 229239,
-      "num": 229239,
-      "word": "歌手2024",
-      "onboard_time": 1716117738,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224529,
       "num": 180450,
       "word": "原来扇贝游泳是用走的",
@@ -1099,6 +1139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205994,
+      "num": 205994,
+      "word": "陈少熙直播聊新歌",
+      "onboard_time": 1716121335,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 205794,
+      "num": 205794,
+      "word": "长期不换的筷子会致癌吗",
+      "onboard_time": 1716118097,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 205754,
       "num": 205754,
       "word": "张天爱找回戛纳丢失行李",
@@ -1137,6 +1193,14 @@
       "onboard_time": 1716110299,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202697,
+      "num": 202697,
+      "word": "BLG决赛扳回一城",
+      "onboard_time": 1716120018,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 201009,
@@ -1227,6 +1291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193605,
+      "num": 193605,
+      "word": "乌军王牌飞行员阵亡",
+      "onboard_time": 1716119836,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 193211,
+      "num": 193211,
+      "word": "王俊凯彩排花絮",
+      "onboard_time": 1716120858,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191531,
       "num": 154499,
       "word": "画室的白猫被摸成黑猫了",
@@ -1275,6 +1355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181026,
+      "num": 156284,
+      "word": "on的塔姆",
+      "onboard_time": 1716121217,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180052,
       "num": 180052,
       "word": "男子挪车时开走路边同款宝马",
@@ -1289,6 +1377,14 @@
       "onboard_time": 1716111017,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179975,
+      "num": 179975,
+      "word": "王一博到达桂林",
+      "onboard_time": 1716118758,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 177895,
@@ -1385,22 +1481,6 @@
       "onboard_time": 1716096797,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 166995,
-      "num": 166995,
-      "word": "长期不换的筷子会致癌吗",
-      "onboard_time": 1716118097,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 166002,
-      "num": 166002,
-      "word": "BLG能不能让二追三",
-      "onboard_time": 1716118276,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 165096,
@@ -1529,6 +1609,14 @@
       "onboard_time": 1716117438,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152376,
+      "num": 152376,
+      "word": "原来小猫是这样挖鼻孔的",
+      "onboard_time": 1716121458,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 152032,
@@ -1675,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142803,
+      "num": 142803,
+      "word": "张杰抛话筒",
+      "onboard_time": 1716118337,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141932,
       "num": 141932,
       "word": "6样护肤品没必要别买贵的",
@@ -1689,6 +1785,14 @@
       "onboard_time": 1716111017,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139944,
+      "num": 139944,
+      "word": "黄家强",
+      "onboard_time": 1716120197,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 139802,
@@ -1753,6 +1857,14 @@
       "onboard_time": 1716096137,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133859,
+      "num": 133859,
+      "word": "美妆券",
+      "onboard_time": 1716121097,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 133336,
@@ -1843,6 +1955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125604,
+      "num": 125604,
+      "word": "小狗跑起来怎么乱七八糟的",
+      "onboard_time": 1716121217,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125010,
       "num": 125010,
       "word": "小胖FMVP",
@@ -1880,6 +2000,14 @@
       "word": "王栎鑫演唱会",
       "onboard_time": 1716045018,
       "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 121447,
+      "num": 121447,
+      "word": "许嵩粉丝包合肥全城毛肚火锅",
+      "onboard_time": 1716118877,
+      "rank": 42,
       "category": "演出"
     },
     {
@@ -1961,14 +2089,6 @@
       "onboard_time": 1716087677,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 117447,
-      "num": 117447,
-      "word": "庆余年2",
-      "onboard_time": 1716084858,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 117353,
@@ -2097,6 +2217,14 @@
       "onboard_time": 1716110058,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 113240,
+      "num": 113240,
+      "word": "WBG明明独狼吃鸡",
+      "onboard_time": 1716120917,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 111945,
@@ -2299,14 +2427,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 97987,
-      "num": 97987,
-      "word": "张杰抛话筒",
-      "onboard_time": 1716118337,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 97321,
       "num": 97321,
       "word": "田嘉瑞 我何德何能去救那姐",
@@ -2315,12 +2435,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96871,
+      "num": 403998,
+      "word": "为什么建议你夏天吃点樱桃",
+      "onboard_time": 1716121518,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 94268,
+      "num": 94268,
+      "word": "救助了一只句句有回应的小猫",
+      "onboard_time": 1716119659,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87842,
       "num": 104812,
       "word": "德甲联赛",
       "onboard_time": 1716048557,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86913,
+      "num": 358685,
+      "word": "美妆超级券",
+      "onboard_time": 1716120018,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 84473,
@@ -2579,6 +2723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 38158,
+      "num": 177549,
+      "word": "DNF给了我一整个青春",
+      "onboard_time": 1716120378,
+      "rank": 30,
+      "category": "游戏,音乐"
+    },
+    {
       "raw_hot": 35326,
       "num": 107285,
       "word": "导盲犬从不说不给予无限自由",
@@ -2673,6 +2825,14 @@
       "onboard_time": 1716034818,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14419,
+      "num": 169266,
+      "word": "乐见潮向现场超出片",
+      "onboard_time": 1716118518,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 8766,
