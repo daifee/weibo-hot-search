@@ -1,0 +1,410 @@
+{
+  "runTime": 1716096844721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 847729,
+        "num": 847729,
+        "word": "第一批快递小哥退休了",
+        "onboard_time": 1716085998,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546077,
+        "num": 546077,
+        "word": "iPhone15官旗降至第三方渠道价",
+        "onboard_time": 1716084616,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36424,
+        "num": 537546,
+        "word": "行走美丽中国",
+        "onboard_time": 1716091037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532434,
+        "num": 532434,
+        "word": "郭碧婷直播关美颜",
+        "onboard_time": 1716074474,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459806,
+        "num": 459806,
+        "word": "台大教授称大陆是台湾发展最大保证",
+        "onboard_time": 1716092956,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 429071,
+        "num": 429071,
+        "word": "尚雯婕和朱丹儿子抢萌兰",
+        "onboard_time": 1716089476,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419678,
+        "num": 419678,
+        "word": "广西特大暴雨雨强破纪录",
+        "onboard_time": 1716091037,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376645,
+        "num": 376645,
+        "word": "庆帝皇后挥之不去的恐惧是什么",
+        "onboard_time": 1716089177,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327505,
+        "num": 327505,
+        "word": "猫腻 张若昀就是范闲模板",
+        "onboard_time": 1716091097,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79395,
+        "num": 301694,
+        "word": "巧克力大爷跳海救人都要争抢",
+        "onboard_time": 1716095777,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49269,
+        "num": 287020,
+        "word": "迪丽热巴打戏流畅度",
+        "onboard_time": 1716095417,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1362082,
+        "num": 285040,
+        "word": "霸王茶姬忙碌了一天营业额为0",
+        "onboard_time": 1716095898,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 282288,
+        "num": 282288,
+        "word": "刘浩存在日落黄昏时",
+        "onboard_time": 1716093436,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265483,
+        "num": 265483,
+        "word": "杨迪呼吁不要占座",
+        "onboard_time": 1716090857,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90911,
+        "num": 261063,
+        "word": "618谁能省得过拼多多啊",
+        "onboard_time": 1716089238,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 259647,
+        "num": 259647,
+        "word": "戛纳晚宴上的张艺兴",
+        "onboard_time": 1716084977,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246406,
+        "num": 246406,
+        "word": "张真源跑男陪小朋友打篮球",
+        "onboard_time": 1716091756,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231416,
+        "num": 231416,
+        "word": "中央气象台升级发布暴雨橙色预警",
+        "onboard_time": 1716095716,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223098,
+        "num": 223098,
+        "word": "北大回应网传破格录取郭有才",
+        "onboard_time": 1716086898,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222514,
+        "num": 222514,
+        "word": "老人吃饱喝足后突然倒仰离世",
+        "onboard_time": 1716085817,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21606,
+        "num": 222500,
+        "word": "赵丽颖原声旁白感染力",
+        "onboard_time": 1716095297,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296104,
+        "num": 221572,
+        "word": "普通人的钱真的是抠出来的",
+        "onboard_time": 1716086719,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249350,
+        "num": 220983,
+        "word": "女生一定要远离习惯性无助",
+        "onboard_time": 1716082636,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224633,
+        "num": 220661,
+        "word": "庾澄庆晒与儿子合照",
+        "onboard_time": 1716096677,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220399,
+        "num": 220399,
+        "word": "南玉卿心定档",
+        "onboard_time": 1716093917,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215714,
+        "num": 215714,
+        "word": "长期戴眼镜会让眼睛变凸吗",
+        "onboard_time": 1716075255,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207303,
+        "num": 207303,
+        "word": "首套公积金房贷100万30年利息将减少4.85万",
+        "onboard_time": 1716095417,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178127,
+        "num": 178127,
+        "word": "已发放的公积金贷款明年起执行新利率",
+        "onboard_time": 1716084677,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176485,
+        "num": 176485,
+        "word": "三胞胎兄弟居然有胎内记忆",
+        "onboard_time": 1716044360,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169730,
+        "num": 169730,
+        "word": "赵丽颖黄色针织短袖",
+        "onboard_time": 1716088577,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167857,
+        "num": 167857,
+        "word": "李宇春红色流苏短裙",
+        "onboard_time": 1716096797,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156761,
+        "num": 156761,
+        "word": "不同食物在冰箱的最佳位置",
+        "onboard_time": 1716095716,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154499,
+        "num": 154499,
+        "word": "画室的白猫被摸成黑猫了",
+        "onboard_time": 1716095417,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151958,
+        "num": 151958,
+        "word": "当伴郎的陈伟霆",
+        "onboard_time": 1716086417,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145620,
+        "num": 145620,
+        "word": "南京官方通报网友举报鬼秤被摔手机",
+        "onboard_time": 1716083117,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145236,
+        "num": 145236,
+        "word": "杭州200万以内老破小吃香",
+        "onboard_time": 1716096196,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144437,
+        "num": 144437,
+        "word": "年轻人结婚不买钻戒了",
+        "onboard_time": 1716096137,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138596,
+        "num": 138596,
+        "word": "亚当歌手选曲",
+        "onboard_time": 1716080116,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134435,
+        "num": 134435,
+        "word": "徐明浩大喇喊话不要插队",
+        "onboard_time": 1716096137,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128569,
+        "num": 128569,
+        "word": "KPL年总新赛制大师轮换",
+        "onboard_time": 1716093018,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124992,
+        "num": 124992,
+        "word": "食欲突然大增当心寄生虫感染",
+        "onboard_time": 1716096137,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122212,
+        "num": 122212,
+        "word": "今年520521刚好是1314",
+        "onboard_time": 1716077655,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120427,
+        "num": 120427,
+        "word": "苗苗染红发",
+        "onboard_time": 1716080298,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110250,
+        "num": 110250,
+        "word": "12306回应高铁买靠窗座位没有窗",
+        "onboard_time": 1716075255,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108738,
+        "num": 108738,
+        "word": "被热议的县城贵妇到底是什么人",
+        "onboard_time": 1716096497,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103341,
+        "num": 103341,
+        "word": "年轻人为什么不爱网红品牌了",
+        "onboard_time": 1716089716,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 103180,
+        "num": 103180,
+        "word": "范闲连崩溃都很体面",
+        "onboard_time": 1716083476,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102982,
+        "num": 102982,
+        "word": "南阳举办纪念诸葛亮仙逝1790周年座谈会",
+        "onboard_time": 1716095057,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101780,
+        "num": 101780,
+        "word": "小狗被冤枉急得快说话了",
+        "onboard_time": 1716094517,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100715,
+        "num": 100715,
+        "word": "张远这下从主唱变和声了",
+        "onboard_time": 1716096797,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为旅游发展划重点#"
+    }
+  }
+}
