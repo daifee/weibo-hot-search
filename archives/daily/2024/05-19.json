@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716085963658,
+  "endTime": 1716086566545,
   "band_list": [
     {
       "raw_hot": 1207245,
@@ -9,6 +9,14 @@
       "onboard_time": 1716074474,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1005491,
+      "num": 1005491,
+      "word": "iPhone15官旗降至第三方渠道价",
+      "onboard_time": 1716084616,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 865357,
@@ -35,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779738,
+      "num": 236224,
+      "word": "女生一定要远离习惯性无助",
+      "onboard_time": 1716082636,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 757230,
       "num": 540293,
       "word": "幼态审美盯上女生的牙齿",
@@ -43,24 +59,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 722112,
-      "num": 236224,
-      "word": "女生一定要远离习惯性无助",
-      "onboard_time": 1716082636,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 704146,
-      "num": 704146,
+      "raw_hot": 727970,
+      "num": 727970,
       "word": "南京官方通报网友举报鬼秤被摔手机",
       "onboard_time": 1716083117,
       "rank": 1,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 675148,
-      "num": 675148,
+      "raw_hot": 684586,
+      "num": 684586,
       "word": "苗苗染红发",
       "onboard_time": 1716080298,
       "rank": 6,
@@ -73,14 +81,6 @@
       "onboard_time": 1716044180,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 631584,
-      "num": 631584,
-      "word": "iPhone15官旗降至第三方渠道价",
-      "onboard_time": 1716084616,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 600659,
@@ -115,12 +115,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 541329,
+      "num": 515979,
+      "word": "戛纳晚宴上的张艺兴",
+      "onboard_time": 1716084977,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 529341,
       "num": 504701,
       "word": "刘宪华5年后重返综艺",
       "onboard_time": 1716078135,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 506893,
+      "num": 506893,
+      "word": "已发放的公积金贷款明年起执行新利率",
+      "onboard_time": 1716084677,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 489460,
@@ -139,14 +155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 453334,
-      "num": 453334,
-      "word": "已发放的公积金贷款明年起执行新利率",
-      "onboard_time": 1716084677,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 441685,
       "num": 441685,
       "word": "张杰唱了默",
@@ -163,12 +171,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 417778,
-      "num": 417778,
-      "word": "戛纳晚宴上的张艺兴",
-      "onboard_time": 1716084977,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 421093,
+      "num": 421093,
+      "word": "范闲连崩溃都很体面",
+      "onboard_time": 1716083476,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 417519,
@@ -203,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395716,
-      "num": 321216,
-      "word": "范闲连崩溃都很体面",
-      "onboard_time": 1716083476,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 369450,
+      "num": 231182,
+      "word": "玩手机时到底要不要戴眼镜",
+      "onboard_time": 1716083957,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 367776,
@@ -217,14 +225,6 @@
       "onboard_time": 1716075255,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362733,
-      "num": 231182,
-      "word": "玩手机时到底要不要戴眼镜",
-      "onboard_time": 1716083957,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 360769,
@@ -251,6 +251,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 330966,
+      "num": 317074,
+      "word": "老人吃饱喝足后突然倒仰离世",
+      "onboard_time": 1716085817,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327919,
+      "num": 316015,
+      "word": "谢帝又被diss了",
+      "onboard_time": 1716081316,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327900,
       "num": 179458,
       "word": "赵露思带粉丝China",
@@ -267,16 +283,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304230,
-      "num": 304230,
-      "word": "谢帝又被diss了",
-      "onboard_time": 1716081316,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 304048,
-      "num": 304048,
+      "raw_hot": 315561,
+      "num": 315561,
       "word": "种地吧 仲麟",
       "onboard_time": 1716083657,
       "rank": 15,
@@ -459,14 +467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184323,
-      "num": 184323,
-      "word": "老人吃饱喝足后突然倒仰离世",
-      "onboard_time": 1716085817,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181327,
       "num": 181327,
       "word": "狼队十冠王",
@@ -481,6 +481,22 @@
       "onboard_time": 1716077896,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177895,
+      "num": 177895,
+      "word": "周深新专辑销量",
+      "onboard_time": 1716086057,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 177341,
+      "num": 177341,
+      "word": "年轻人开始恶补生活技能",
+      "onboard_time": 1716083537,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 176961,
@@ -539,12 +555,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 163589,
-      "num": 163589,
-      "word": "年轻人开始恶补生活技能",
-      "onboard_time": 1716083537,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 162735,
+      "num": 162735,
+      "word": "第一批快递小哥退休了",
+      "onboard_time": 1716085998,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161947,
@@ -707,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134363,
+      "num": 134363,
+      "word": "容祖儿 华语歌手中总有你喜欢的",
+      "onboard_time": 1716086238,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133336,
       "num": 165209,
       "word": "李娟为什么是李娟",
@@ -723,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128463,
+      "num": 128463,
+      "word": "我可以不看但电视必须开着",
+      "onboard_time": 1716085637,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125010,
       "num": 125010,
       "word": "小胖FMVP",
@@ -737,6 +769,14 @@
       "onboard_time": 1716082636,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122963,
+      "num": 122963,
+      "word": "陆虎十多年乙方没白当",
+      "onboard_time": 1716086417,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121483,
@@ -843,20 +883,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106317,
+      "num": 106317,
+      "word": "当伴郎的陈伟霆",
+      "onboard_time": 1716086417,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105964,
       "num": 105964,
       "word": "持修 血肉",
       "onboard_time": 1716050657,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 104438,
-      "num": 104438,
-      "word": "我可以不看但电视必须开着",
-      "onboard_time": 1716085637,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 99849,
@@ -908,7 +948,7 @@
     },
     {
       "raw_hot": 83930,
-      "num": 304060,
+      "num": 318618,
       "word": "00后视障男孩做播客还带了徒弟",
       "onboard_time": 1716082697,
       "rank": 14,
@@ -1044,7 +1084,7 @@
     },
     {
       "raw_hot": 43710,
-      "num": 682446,
+      "num": 790057,
       "word": "首届全国职工马拉松",
       "onboard_time": 1716040339,
       "rank": 2,
