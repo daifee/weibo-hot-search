@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716111324638,
+  "endTime": 1716113866572,
   "band_list": [
     {
       "raw_hot": 1987575,
@@ -73,6 +73,22 @@
       "onboard_time": 1716098717,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 992381,
+      "num": 992381,
+      "word": "黄贯中",
+      "onboard_time": 1716111137,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 966637,
+      "num": 229533,
+      "word": "突然发现六月只要上19天班",
+      "onboard_time": 1716110058,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 865357,
@@ -227,6 +243,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 640341,
+      "num": 426963,
+      "word": "印度男子与亡妻妹妹结婚被捕后身亡",
+      "onboard_time": 1716111317,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630731,
+      "num": 418674,
+      "word": "胖猫事件不予立案",
+      "onboard_time": 1716113179,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 600659,
       "num": 600659,
       "word": "大同地震",
@@ -315,6 +347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 498071,
+      "num": 498071,
+      "word": "鼠鼠一觉醒来全身酸痛",
+      "onboard_time": 1716109336,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 489460,
       "num": 489460,
       "word": "亚当歌手选曲",
@@ -363,20 +403,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 457637,
+      "num": 457637,
+      "word": "xun在干嘛",
+      "onboard_time": 1716113237,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 455193,
       "num": 202446,
       "word": "年轻人结婚不买钻戒了",
       "onboard_time": 1716096137,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 452449,
-      "num": 229533,
-      "word": "突然发现六月只要上19天班",
-      "onboard_time": 1716110058,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 441685,
@@ -425,6 +465,14 @@
       "onboard_time": 1716039259,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 414780,
+      "num": 414780,
+      "word": "为什么我们很少见到盲人",
+      "onboard_time": 1716109996,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 414173,
@@ -524,7 +572,7 @@
     },
     {
       "raw_hot": 341294,
-      "num": 341294,
+      "num": 478574,
       "word": "菏泽南站",
       "onboard_time": 1716107957,
       "rank": 18,
@@ -577,14 +625,6 @@
       "onboard_time": 1716108378,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 331016,
-      "num": 331016,
-      "word": "鼠鼠一觉醒来全身酸痛",
-      "onboard_time": 1716109336,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 330064,
@@ -683,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285250,
+      "num": 215077,
+      "word": "为了买房半年和对象存了5万",
+      "onboard_time": 1716112517,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 284129,
       "num": 284129,
       "word": "陆虎十多年乙方没白当",
@@ -779,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253717,
+      "num": 253717,
+      "word": "小杨哥解说",
+      "onboard_time": 1716109817,
+      "rank": 33,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 251652,
       "num": 251652,
       "word": "南玉卿心定档",
@@ -835,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240906,
-      "num": 240906,
-      "word": "小杨哥解说",
-      "onboard_time": 1716109817,
-      "rank": 33,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 237305,
       "num": 237305,
       "word": "学校回应女教师让学生轮流打同学",
@@ -859,12 +907,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231292,
-      "num": 231292,
-      "word": "为什么我们很少见到盲人",
-      "onboard_time": 1716109996,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 231845,
+      "num": 214583,
+      "word": "杭州知名主持人决定送父母去养老院",
+      "onboard_time": 1716111797,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229696,
@@ -995,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199509,
+      "num": 199509,
+      "word": "aespa打歌",
+      "onboard_time": 1716111197,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198056,
       "num": 198056,
       "word": "叶世荣回应黄家驹墓碑被砸",
@@ -1051,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191123,
+      "num": 191123,
+      "word": "520怎么过",
+      "onboard_time": 1716112817,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189691,
       "num": 175342,
       "word": "孙俪超市购物被偶遇",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1716051555,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187148,
+      "num": 187148,
+      "word": "BLG零封GEN一周年",
+      "onboard_time": 1716110597,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 184330,
@@ -1283,6 +1355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152032,
+      "num": 152032,
+      "word": "刘畊宏脚踝受伤跳操请假",
+      "onboard_time": 1716112758,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150913,
       "num": 150913,
       "word": "五月天嘉宾陈绮贞",
@@ -1337,6 +1417,14 @@
       "onboard_time": 1716080538,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147462,
+      "num": 147462,
+      "word": "阚清子10分钟度假妆",
+      "onboard_time": 1716111317,
+      "rank": 36,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 147341,
@@ -1483,12 +1571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134488,
-      "num": 134488,
-      "word": "黄贯中",
-      "onboard_time": 1716111137,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 134583,
+      "num": 134583,
+      "word": "冰淇淋和雪糕的区别居然是空气",
+      "onboard_time": 1716111017,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 134435,
@@ -1521,6 +1609,14 @@
       "onboard_time": 1716087377,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130158,
+      "num": 130158,
+      "word": "GEN决赛先下一城",
+      "onboard_time": 1716113778,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 129865,
@@ -1635,12 +1731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119982,
+      "num": 119982,
+      "word": "周深歌词 仙品",
+      "onboard_time": 1716111558,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 119387,
       "num": 119387,
       "word": "被热议的县城贵妇到底是什么人",
       "onboard_time": 1716096497,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119043,
+      "num": 119043,
+      "word": "老李家是个巨大的疯人院",
+      "onboard_time": 1716112697,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 118912,
@@ -1667,20 +1779,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118175,
-      "num": 118175,
-      "word": "aespa打歌",
-      "onboard_time": 1716111197,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 117447,
       "num": 117447,
       "word": "庆余年2",
       "onboard_time": 1716084858,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117353,
+      "num": 117353,
+      "word": "Uzi厂长水晶哥合照",
+      "onboard_time": 1716112998,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 117335,
@@ -1796,7 +1908,7 @@
     },
     {
       "raw_hot": 113388,
-      "num": 415800,
+      "num": 441694,
       "word": "女孩路上捡个快递帮挽回19万损失",
       "onboard_time": 1716110058,
       "rank": 9,
@@ -1891,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103729,
+      "num": 103729,
+      "word": "分不清减脂博主和美食博主",
+      "onboard_time": 1716113597,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 103307,
       "num": 103307,
       "word": "阿Sa一开口青春回来了",
@@ -1905,14 +2025,6 @@
       "onboard_time": 1716107418,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102950,
-      "num": 102950,
-      "word": "冰淇淋和雪糕的区别居然是空气",
-      "onboard_time": 1716111017,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 102609,
@@ -2036,7 +2148,7 @@
     },
     {
       "raw_hot": 76517,
-      "num": 198095,
+      "num": 447438,
       "word": "1个盲人求助一群志愿者疯狂抢单",
       "onboard_time": 1716107536,
       "rank": 20,
@@ -2370,6 +2482,9 @@
     },
     {
       "word": "#习近平对旅游工作作出重要指示#"
+    },
+    {
+      "word": "#要督促落实全面从严治党责任#"
     }
   ]
 }
