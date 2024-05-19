@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716110391531,
+  "endTime": 1716111324638,
   "band_list": [
     {
       "raw_hot": 1987575,
@@ -27,19 +27,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1393522,
+      "num": 1393522,
+      "word": "今年能吃到荔枝就不错了",
+      "onboard_time": 1716102857,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1362082,
       "num": 285040,
       "word": "霸王茶姬忙碌了一天营业额为0",
       "onboard_time": 1716095898,
       "rank": 11,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 1283369,
-      "num": 1283369,
-      "word": "今年能吃到荔枝就不错了",
-      "onboard_time": 1716102857,
-      "rank": 49,
       "category": "美食"
     },
     {
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 775258,
+      "num": 775258,
+      "word": "终于等来了榴莲1斤1字打头",
+      "onboard_time": 1716107477,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 771482,
       "num": 669133,
       "word": "王俊凯出发蔡依林演唱会彩排",
@@ -185,14 +193,6 @@
       "onboard_time": 1716102016,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703298,
-      "num": 703298,
-      "word": "终于等来了榴莲1斤1字打头",
-      "onboard_time": 1716107477,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 684586,
@@ -371,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 452449,
+      "num": 229533,
+      "word": "突然发现六月只要上19天班",
+      "onboard_time": 1716110058,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 441685,
       "num": 441685,
       "word": "张杰唱了默",
@@ -401,6 +409,14 @@
       "onboard_time": 1716083476,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419269,
+      "num": 228883,
+      "word": "年龄25工龄30",
+      "onboard_time": 1716108318,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 417519,
@@ -507,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341294,
+      "num": 341294,
+      "word": "菏泽南站",
+      "onboard_time": 1716107957,
+      "rank": 18,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 341023,
       "num": 341023,
       "word": "女子试戴金戒不慎摔落被索赔1250",
@@ -555,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 331016,
+      "num": 331016,
+      "word": "鼠鼠一觉醒来全身酸痛",
+      "onboard_time": 1716109336,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 330064,
       "num": 207303,
       "word": "首套公积金房贷100万30年利息将减少4.85万",
@@ -585,14 +617,6 @@
       "onboard_time": 1716091097,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324373,
-      "num": 198090,
-      "word": "年龄25工龄30",
-      "onboard_time": 1716108318,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 324055,
@@ -755,14 +779,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 253693,
-      "num": 253693,
-      "word": "菏泽南站",
-      "onboard_time": 1716107957,
-      "rank": 18,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 251652,
       "num": 251652,
       "word": "南玉卿心定档",
@@ -819,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240906,
+      "num": 240906,
+      "word": "小杨哥解说",
+      "onboard_time": 1716109817,
+      "rank": 33,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 237305,
       "num": 237305,
       "word": "学校回应女教师让学生轮流打同学",
@@ -835,12 +859,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232187,
-      "num": 232187,
-      "word": "鼠鼠一觉醒来全身酸痛",
-      "onboard_time": 1716109336,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 231292,
+      "num": 231292,
+      "word": "为什么我们很少见到盲人",
+      "onboard_time": 1716109996,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 229696,
@@ -867,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217314,
+      "num": 217314,
+      "word": "杨紫时尚芭莎封面预告",
+      "onboard_time": 1716109877,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216323,
       "num": 181144,
       "word": "黄俊捷工作室发声明",
@@ -883,14 +915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 214274,
-      "num": 214274,
-      "word": "杨紫时尚芭莎封面预告",
-      "onboard_time": 1716109877,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 211527,
       "num": 179470,
       "word": "周深演唱会",
@@ -905,6 +929,14 @@
       "onboard_time": 1716036198,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205754,
+      "num": 205754,
+      "word": "张天爱找回戛纳丢失行李",
+      "onboard_time": 1716110477,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 204508,
@@ -931,12 +963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202092,
-      "num": 202092,
-      "word": "突然发现六月只要上19天班",
-      "onboard_time": 1716110058,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 202916,
+      "num": 202916,
+      "word": "刘宇宁单侧耳钉",
+      "onboard_time": 1716110299,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 201009,
@@ -1027,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188397,
-      "num": 188397,
-      "word": "小杨哥解说",
-      "onboard_time": 1716109817,
-      "rank": 33,
-      "category": "电竞,网红"
-    },
-    {
       "raw_hot": 187831,
       "num": 187831,
       "word": "亚当曾说想和蔡依林合作",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1716077896,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180050,
+      "num": 180050,
+      "word": "雷霆荣耀杯选手名单公布",
+      "onboard_time": 1716111017,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 177895,
@@ -1220,7 +1252,7 @@
     },
     {
       "raw_hot": 157174,
-      "num": 198161,
+      "num": 202923,
       "word": "中国人民大学首届深圳金融论坛",
       "onboard_time": 1716106998,
       "rank": 27,
@@ -1451,12 +1483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134633,
-      "num": 134633,
-      "word": "为什么我们很少见到盲人",
-      "onboard_time": 1716109996,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 134488,
+      "num": 134488,
+      "word": "黄贯中",
+      "onboard_time": 1716111137,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 134435,
@@ -1635,6 +1667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118175,
+      "num": 118175,
+      "word": "aespa打歌",
+      "onboard_time": 1716111197,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117447,
       "num": 117447,
       "word": "庆余年2",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1716103638,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117162,
+      "num": 117162,
+      "word": "吃了小龙虾头晕目眩怎么回事",
+      "onboard_time": 1716111077,
+      "rank": 42,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 116768,
@@ -1747,6 +1795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 113388,
+      "num": 415800,
+      "word": "女孩路上捡个快递帮挽回19万损失",
+      "onboard_time": 1716110058,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 111945,
       "num": 111945,
       "word": "范闲 我想吃鱼了",
@@ -1819,14 +1875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106306,
-      "num": 106306,
-      "word": "刘宇宁单侧耳钉",
-      "onboard_time": 1716110299,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105964,
       "num": 105964,
       "word": "持修 血肉",
@@ -1849,6 +1897,22 @@
       "onboard_time": 1716093738,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103229,
+      "num": 1141182,
+      "word": "当代年轻人花式旅游图鉴",
+      "onboard_time": 1716107418,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102950,
+      "num": 102950,
+      "word": "冰淇淋和雪糕的区别居然是空气",
+      "onboard_time": 1716111017,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 102609,
@@ -1931,14 +1995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89944,
-      "num": 1141182,
-      "word": "当代年轻人花式旅游图鉴",
-      "onboard_time": 1716107418,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87842,
       "num": 104812,
       "word": "德甲联赛",
@@ -1961,14 +2017,6 @@
       "onboard_time": 1716082697,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82056,
-      "num": 415800,
-      "word": "女孩路上捡个快递帮挽回19万损失",
-      "onboard_time": 1716110058,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 79395,
