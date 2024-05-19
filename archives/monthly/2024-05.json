@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716114841327,
+  "endTime": 1716117328117,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1435,6 +1435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1570057,
+      "num": 1570057,
+      "word": "突然发现六月只要上19天班",
+      "onboard_time": 1716110058,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1564883,
       "num": 1564883,
       "word": "医生建议榴莲1天最多吃1瓣",
@@ -2369,6 +2377,14 @@
       "onboard_time": 1715362094,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1282224,
+      "num": 1282224,
+      "word": "连云港鬼秤事件5人被行拘",
+      "onboard_time": 1716115757,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1280606,
@@ -3715,14 +3731,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1052601,
-      "num": 229533,
-      "word": "突然发现六月只要上19天班",
-      "onboard_time": 1716110058,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1051172,
       "num": 1051172,
       "word": "专家称要支持60至70岁老年人再就业需求",
@@ -4697,6 +4705,14 @@
       "onboard_time": 1715815155,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 897988,
+      "num": 897988,
+      "word": "陈丽君急性肠胃炎晕倒",
+      "onboard_time": 1716115217,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 897035,
@@ -6979,6 +6995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 705273,
+      "num": 705273,
+      "word": "xun在干嘛",
+      "onboard_time": 1716113237,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 704979,
       "num": 704979,
       "word": "夫妻离婚拒养患抑郁症女儿被判不准离",
@@ -8476,7 +8500,7 @@
     },
     {
       "raw_hot": 630731,
-      "num": 418674,
+      "num": 575493,
       "word": "胖猫事件不予立案",
       "onboard_time": 1716113179,
       "rank": 11,
@@ -9753,14 +9777,6 @@
       "onboard_time": 1715699238,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566302,
-      "num": 566302,
-      "word": "xun在干嘛",
-      "onboard_time": 1716113237,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 566294,
@@ -11985,6 +12001,14 @@
       "onboard_time": 1715135900,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 478413,
+      "num": 478413,
+      "word": "汪苏泷谈参加歌手竞演收获",
+      "onboard_time": 1716115637,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 478217,
@@ -14907,6 +14931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 401637,
+      "num": 277483,
+      "word": "为了买房半年和对象存了5万",
+      "onboard_time": 1716112517,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 401567,
       "num": 401567,
       "word": "南宫珉百想视帝",
@@ -15867,6 +15899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377338,
+      "num": 377338,
+      "word": "沙溢说时代少年团一生都有交集",
+      "onboard_time": 1716115097,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376841,
       "num": 152715,
       "word": "肖战工作室发了两个肖战",
@@ -16761,6 +16801,14 @@
       "onboard_time": 1715143464,
       "rank": 12,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 356506,
+      "num": 356506,
+      "word": "英国年度最性感男人",
+      "onboard_time": 1716114555,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 356414,
@@ -18227,14 +18275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326924,
-      "num": 215077,
-      "word": "为了买房半年和对象存了5万",
-      "onboard_time": 1716112517,
-      "rank": 23,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 326572,
       "num": 326572,
       "word": "ZICO和Jennie合作曲初一位",
@@ -18672,6 +18712,14 @@
       "word": "财务瞒天过海12年炒股亏光公司1350万",
       "onboard_time": 1714723222,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316326,
+      "num": 316326,
+      "word": "10元网红咖啡大姨忙的要碎掉了",
+      "onboard_time": 1716114437,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -20483,6 +20531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282856,
+      "num": 282856,
+      "word": "BLG零封GEN一周年",
+      "onboard_time": 1716110597,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 282774,
       "num": 239705,
       "word": "金饰价格一夜每克涨12元",
@@ -21065,6 +21121,14 @@
       "onboard_time": 1715915418,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275270,
+      "num": 275270,
+      "word": "范闲的腰",
+      "onboard_time": 1716115816,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 275195,
@@ -25675,6 +25739,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 220592,
+      "num": 220592,
+      "word": "GEN决赛拿到赛点",
+      "onboard_time": 1716117198,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220553,
       "num": 203802,
       "word": "TheShy说我去G2有机会吗",
@@ -27152,6 +27224,14 @@
       "word": "AG逆风翻盘",
       "onboard_time": 1714740141,
       "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 209221,
+      "num": 209221,
+      "word": "虐泉五杀",
+      "onboard_time": 1716116958,
+      "rank": 28,
       "category": "电竞"
     },
     {
@@ -29747,6 +29827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197287,
+      "num": 197287,
+      "word": "BLG节奏",
+      "onboard_time": 1716113956,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197210,
       "num": 197210,
       "word": "赵奕欢终于被肯定了",
@@ -32163,14 +32251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 187148,
-      "num": 187148,
-      "word": "BLG零封GEN一周年",
-      "onboard_time": 1716110597,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 187092,
       "num": 185846,
       "word": "时代少年团 天津",
@@ -33827,6 +33907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177329,
+      "num": 177329,
+      "word": "PEL春决冠军夜",
+      "onboard_time": 1716116357,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177309,
       "num": 177309,
       "word": "迪丽热巴别把周柯宇扇感冒了",
@@ -33945,6 +34033,14 @@
       "onboard_time": 1715314520,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176696,
+      "num": 176696,
+      "word": "男子被狗划伤后因狂犬病去世",
+      "onboard_time": 1716116298,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176653,
@@ -34929,6 +35025,14 @@
       "onboard_time": 1714618396,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171930,
+      "num": 171930,
+      "word": "连云港鬼秤商户和主办方被罚款",
+      "onboard_time": 1716116657,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171900,
@@ -41187,14 +41291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140307,
-      "num": 140307,
-      "word": "英国年度最性感男人",
-      "onboard_time": 1716114555,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 140304,
       "num": 140304,
       "word": "西安人的城墙下全都不是西安人",
@@ -41873,14 +41969,6 @@
       "onboard_time": 1715220616,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136861,
-      "num": 136861,
-      "word": "BLG节奏",
-      "onboard_time": 1716113956,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 136851,
@@ -42859,14 +42947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 132342,
-      "num": 132342,
-      "word": "10元网红咖啡大姨忙的要碎掉了",
-      "onboard_time": 1716114437,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132307,
       "num": 275488,
       "word": "墨西哥60年来超过11万人失踪",
@@ -43059,6 +43139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131133,
+      "num": 131133,
+      "word": "起码还有我王启年",
+      "onboard_time": 1716114555,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131071,
       "num": 219535,
       "word": "陈奕迅杭州演唱会",
@@ -43179,6 +43267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130371,
+      "num": 130371,
+      "word": "GEN决赛先下一城",
+      "onboard_time": 1716113778,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130339,
       "num": 130211,
       "word": "用利息生活是可行还是离谱",
@@ -43225,14 +43321,6 @@
       "onboard_time": 1714908259,
       "rank": 44,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 130158,
-      "num": 130158,
-      "word": "GEN决赛先下一城",
-      "onboard_time": 1716113778,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 130135,
@@ -45123,14 +45211,6 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 119681,
-      "num": 119681,
-      "word": "起码还有我王启年",
-      "onboard_time": 1716114555,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119667,
       "num": 119667,
       "word": "这30平小家就是独居梦中情房",
@@ -46300,7 +46380,7 @@
     },
     {
       "raw_hot": 113388,
-      "num": 441694,
+      "num": 580950,
       "word": "女孩路上捡个快递帮挽回19万损失",
       "onboard_time": 1716110058,
       "rank": 9,
@@ -47668,7 +47748,7 @@
     },
     {
       "raw_hot": 103229,
-      "num": 1141182,
+      "num": 1286222,
       "word": "当代年轻人花式旅游图鉴",
       "onboard_time": 1716107418,
       "rank": 2,
@@ -49147,6 +49227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 82981,
+      "num": 577196,
+      "word": "南宁暴雨中的暖心瞬间",
+      "onboard_time": 1716116537,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82938,
       "num": 82938,
       "word": "原来河南高考统一配备考试文具",
@@ -49401,6 +49489,14 @@
       "onboard_time": 1715950341,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78794,
+      "num": 177914,
+      "word": "iPhone15官旗折扣价将至历史最低",
+      "onboard_time": 1716116776,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 78778,
@@ -50185,6 +50281,14 @@
       "onboard_time": 1715607319,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 65405,
+      "num": 119825,
+      "word": "巴赫欢迎废墟上重生女孩来巴黎",
+      "onboard_time": 1716116837,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 65383,

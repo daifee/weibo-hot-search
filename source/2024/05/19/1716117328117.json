@@ -1,0 +1,410 @@
+{
+  "runTime": 1716117328117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1570057,
+        "num": 1570057,
+        "word": "突然发现六月只要上19天班",
+        "onboard_time": 1716110058,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1316239,
+        "num": 1316239,
+        "word": "黄贯中",
+        "onboard_time": 1716111137,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81635,
+        "num": 1286222,
+        "word": "当代年轻人花式旅游图鉴",
+        "onboard_time": 1716107418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1282224,
+        "num": 1282224,
+        "word": "连云港鬼秤事件5人被行拘",
+        "onboard_time": 1716115757,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897988,
+        "num": 897988,
+        "word": "陈丽君急性肠胃炎晕倒",
+        "onboard_time": 1716115217,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708724,
+        "num": 708724,
+        "word": "李佳琦红包",
+        "onboard_time": 1716116357,
+        "rank": 5,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 705273,
+        "num": 705273,
+        "word": "xun在干嘛",
+        "onboard_time": 1716113237,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 617412,
+        "num": 617412,
+        "word": "印度男子与亡妻妹妹结婚被捕后身亡",
+        "onboard_time": 1716111317,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55481,
+        "num": 580950,
+        "word": "女孩路上捡个快递帮挽回19万损失",
+        "onboard_time": 1716110058,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 82981,
+        "num": 577196,
+        "word": "南宁暴雨中的暖心瞬间",
+        "onboard_time": 1716116537,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575493,
+        "num": 575493,
+        "word": "胖猫事件不予立案",
+        "onboard_time": 1716113179,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 556554,
+        "num": 556554,
+        "word": "GEN对战BLG",
+        "onboard_time": 1716108619,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 535532,
+        "num": 535532,
+        "word": "今年能吃到荔枝就不错了",
+        "onboard_time": 1716102857,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 504571,
+        "num": 504571,
+        "word": "你好星期六 TFBOYS",
+        "onboard_time": 1716101716,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478413,
+        "num": 478413,
+        "word": "汪苏泷谈参加歌手竞演收获",
+        "onboard_time": 1716115637,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377338,
+        "num": 377338,
+        "word": "沙溢说时代少年团一生都有交集",
+        "onboard_time": 1716115097,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356506,
+        "num": 356506,
+        "word": "英国年度最性感男人",
+        "onboard_time": 1716114555,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 316326,
+        "num": 316326,
+        "word": "10元网红咖啡大姨忙的要碎掉了",
+        "onboard_time": 1716114437,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282856,
+        "num": 282856,
+        "word": "BLG零封GEN一周年",
+        "onboard_time": 1716110597,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 282137,
+        "num": 282137,
+        "word": "王俊凯出发蔡依林演唱会彩排",
+        "onboard_time": 1716102498,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 747026,
+        "num": 279198,
+        "word": "黄家驹墓碑遗照被砸坏",
+        "onboard_time": 1716103878,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401637,
+        "num": 277483,
+        "word": "为了买房半年和对象存了5万",
+        "onboard_time": 1716112517,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 275270,
+        "num": 275270,
+        "word": "范闲的腰",
+        "onboard_time": 1716115816,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253240,
+        "num": 253240,
+        "word": "死歌太夸张了",
+        "onboard_time": 1716114137,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250841,
+        "num": 250841,
+        "word": "为什么我们很少见到盲人",
+        "onboard_time": 1716109996,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246638,
+        "num": 246638,
+        "word": "鼠鼠一觉醒来全身酸痛",
+        "onboard_time": 1716109336,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220592,
+        "num": 220592,
+        "word": "GEN决赛拿到赛点",
+        "onboard_time": 1716117198,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214852,
+        "num": 214852,
+        "word": "孟子义上学时被拉到女厕所打头",
+        "onboard_time": 1716105438,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209221,
+        "num": 209221,
+        "word": "虐泉五杀",
+        "onboard_time": 1716116958,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197287,
+        "num": 197287,
+        "word": "BLG节奏",
+        "onboard_time": 1716113956,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185440,
+        "num": 185440,
+        "word": "杭州知名主持人决定送父母去养老院",
+        "onboard_time": 1716111797,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179022,
+        "num": 179022,
+        "word": "终于等来了榴莲1斤1字打头",
+        "onboard_time": 1716107477,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78794,
+        "num": 177914,
+        "word": "iPhone15官旗折扣价将至历史最低",
+        "onboard_time": 1716116776,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177329,
+        "num": 177329,
+        "word": "PEL春决冠军夜",
+        "onboard_time": 1716116357,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176696,
+        "num": 176696,
+        "word": "男子被狗划伤后因狂犬病去世",
+        "onboard_time": 1716116298,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172650,
+        "num": 172650,
+        "word": "林徽因终于拿到了迟到100年的学位证",
+        "onboard_time": 1716102016,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171930,
+        "num": 171930,
+        "word": "连云港鬼秤商户和主办方被罚款",
+        "onboard_time": 1716116657,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143546,
+        "num": 143546,
+        "word": "TFBOYS快本首秀要十周年了",
+        "onboard_time": 1716105978,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131133,
+        "num": 131133,
+        "word": "起码还有我王启年",
+        "onboard_time": 1716114555,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130371,
+        "num": 130371,
+        "word": "GEN决赛先下一城",
+        "onboard_time": 1716113778,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129324,
+        "num": 129324,
+        "word": "阚清子10分钟度假妆",
+        "onboard_time": 1716111317,
+        "rank": 40,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 126302,
+        "num": 126302,
+        "word": "aespa打歌",
+        "onboard_time": 1716111197,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122052,
+        "num": 122052,
+        "word": "王俊凯柠檬草的味道彩排",
+        "onboard_time": 1716108378,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65405,
+        "num": 119825,
+        "word": "巴赫欢迎废墟上重生女孩来巴黎",
+        "onboard_time": 1716116837,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118392,
+        "num": 118392,
+        "word": "宣传1年的连云港被一个皮皮虾偷家了",
+        "onboard_time": 1716100276,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116795,
+        "num": 116795,
+        "word": "小杨哥解说",
+        "onboard_time": 1716109817,
+        "rank": 45,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 116455,
+        "num": 116455,
+        "word": "章昊 未满24岁全款拿下第一杯杨枝甘露",
+        "onboard_time": 1716102197,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113787,
+        "num": 113787,
+        "word": "菏泽南站",
+        "onboard_time": 1716107957,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 112822,
+        "num": 112822,
+        "word": "年龄25工龄30",
+        "onboard_time": 1716108318,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110902,
+        "num": 110902,
+        "word": "冰淇淋和雪糕的区别居然是空气",
+        "onboard_time": 1716111017,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对旅游工作作出重要指示#"
+    }
+  }
+}

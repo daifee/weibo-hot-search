@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716114841327,
+  "endTime": 1716117328117,
   "band_list": [
     {
       "raw_hot": 1987575,
@@ -9,6 +9,14 @@
       "onboard_time": 1716103878,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1570057,
+      "num": 1570057,
+      "word": "突然发现六月只要上19天班",
+      "onboard_time": 1716110058,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 1525446,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1282224,
+      "num": 1282224,
+      "word": "连云港鬼秤事件5人被行拘",
+      "onboard_time": 1716115757,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1207245,
       "num": 1207245,
       "word": "郭碧婷直播关美颜",
@@ -75,20 +91,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1052601,
-      "num": 229533,
-      "word": "突然发现六月只要上19天班",
-      "onboard_time": 1716110058,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1051172,
       "num": 1051172,
       "word": "专家称要支持60至70岁老年人再就业需求",
       "onboard_time": 1716098717,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 897988,
+      "num": 897988,
+      "word": "陈丽君急性肠胃炎晕倒",
+      "onboard_time": 1716115217,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 865357,
@@ -195,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708724,
+      "num": 708724,
+      "word": "李佳琦红包",
+      "onboard_time": 1716116357,
+      "rank": 5,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 705734,
       "num": 705734,
       "word": "已发放的公积金贷款明年起执行新利率",
       "onboard_time": 1716084677,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 705273,
+      "num": 705273,
+      "word": "xun在干嘛",
+      "onboard_time": 1716113237,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 704448,
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 630731,
-      "num": 418674,
+      "num": 575493,
       "word": "胖猫事件不予立案",
       "onboard_time": 1716113179,
       "rank": 11,
@@ -307,20 +339,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 566302,
-      "num": 566302,
-      "word": "xun在干嘛",
-      "onboard_time": 1716113237,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 560601,
       "num": 560601,
       "word": "赵丽颖黄色针织短袖",
       "onboard_time": 1716088577,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 556554,
+      "num": 556554,
+      "word": "GEN对战BLG",
+      "onboard_time": 1716108619,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 546957,
@@ -379,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478413,
+      "num": 478413,
+      "word": "汪苏泷谈参加歌手竞演收获",
+      "onboard_time": 1716115637,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472638,
       "num": 184435,
       "word": "应采儿尊重Jasper不去饭局",
@@ -433,14 +473,6 @@
       "onboard_time": 1716042319,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 427584,
-      "num": 427584,
-      "word": "GEN对战BLG",
-      "onboard_time": 1716108619,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 425842,
@@ -515,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401637,
+      "num": 277483,
+      "word": "为了买房半年和对象存了5万",
+      "onboard_time": 1716112517,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 400580,
       "num": 400580,
       "word": "向12岁女孩要裸照男大学生已被刑拘",
@@ -529,6 +569,14 @@
       "onboard_time": 1716099137,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377338,
+      "num": 377338,
+      "word": "沙溢说时代少年团一生都有交集",
+      "onboard_time": 1716115097,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 374218,
@@ -569,6 +617,14 @@
       "onboard_time": 1716040760,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 356506,
+      "num": 356506,
+      "word": "英国年度最性感男人",
+      "onboard_time": 1716114555,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341294,
@@ -659,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 326924,
-      "num": 215077,
-      "word": "为了买房半年和对象存了5万",
-      "onboard_time": 1716112517,
-      "rank": 23,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 324055,
       "num": 324055,
       "word": "中央气象台升级发布暴雨橙色预警",
@@ -689,6 +737,14 @@
       "onboard_time": 1716087077,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316326,
+      "num": 316326,
+      "word": "10元网红咖啡大姨忙的要碎掉了",
+      "onboard_time": 1716114437,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315561,
@@ -737,6 +793,14 @@
       "onboard_time": 1716086417,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282856,
+      "num": 282856,
+      "word": "BLG零封GEN一周年",
+      "onboard_time": 1716110597,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 282288,
@@ -801,6 +865,14 @@
       "onboard_time": 1716051675,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 275270,
+      "num": 275270,
+      "word": "范闲的腰",
+      "onboard_time": 1716115816,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 273748,
@@ -947,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220592,
+      "num": 220592,
+      "word": "GEN决赛拿到赛点",
+      "onboard_time": 1716117198,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 217314,
       "num": 217314,
       "word": "杨紫时尚芭莎封面预告",
@@ -977,6 +1057,14 @@
       "onboard_time": 1716100158,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209221,
+      "num": 209221,
+      "word": "虐泉五杀",
+      "onboard_time": 1716116958,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 208761,
@@ -1067,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197287,
+      "num": 197287,
+      "word": "BLG节奏",
+      "onboard_time": 1716113956,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197189,
       "num": 197189,
       "word": "MSI决赛",
@@ -1139,14 +1235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187148,
-      "num": 187148,
-      "word": "BLG零封GEN一周年",
-      "onboard_time": 1716110597,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 184330,
       "num": 184330,
       "word": "郑合惠子抹胸粉裙",
@@ -1195,12 +1283,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177329,
+      "num": 177329,
+      "word": "PEL春决冠军夜",
+      "onboard_time": 1716116357,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176961,
       "num": 176961,
       "word": "东京食尸鬼 那个夏天回来了",
       "onboard_time": 1716078556,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176696,
+      "num": 176696,
+      "word": "男子被狗划伤后因狂犬病去世",
+      "onboard_time": 1716116298,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174994,
@@ -1225,6 +1329,14 @@
       "onboard_time": 1716075195,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171930,
+      "num": 171930,
+      "word": "连云港鬼秤商户和主办方被罚款",
+      "onboard_time": 1716116657,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168586,
@@ -1539,14 +1651,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 140307,
-      "num": 140307,
-      "word": "英国年度最性感男人",
-      "onboard_time": 1716114555,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139802,
       "num": 139802,
       "word": "戛纳街头偶遇钟楚曦侯雯元",
@@ -1577,14 +1681,6 @@
       "onboard_time": 1716097816,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136861,
-      "num": 136861,
-      "word": "BLG节奏",
-      "onboard_time": 1716113956,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 136100,
@@ -1627,20 +1723,20 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 132342,
-      "num": 132342,
-      "word": "10元网红咖啡大姨忙的要碎掉了",
-      "onboard_time": 1716114437,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131877,
       "num": 131877,
       "word": "迪丽热巴深V白裙",
       "onboard_time": 1716037158,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131133,
+      "num": 131133,
+      "word": "起码还有我王启年",
+      "onboard_time": 1716114555,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 130604,
@@ -1651,8 +1747,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130158,
-      "num": 130158,
+      "raw_hot": 130371,
+      "num": 130371,
       "word": "GEN决赛先下一城",
       "onboard_time": 1716113778,
       "rank": 39,
@@ -1777,14 +1873,6 @@
       "onboard_time": 1716111558,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 119681,
-      "num": 119681,
-      "word": "起码还有我王启年",
-      "onboard_time": 1716114555,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 119387,
@@ -1956,7 +2044,7 @@
     },
     {
       "raw_hot": 113388,
-      "num": 441694,
+      "num": 580950,
       "word": "女孩路上捡个快递帮挽回19万损失",
       "onboard_time": 1716110058,
       "rank": 9,
@@ -2068,7 +2156,7 @@
     },
     {
       "raw_hot": 103229,
-      "num": 1141182,
+      "num": 1286222,
       "word": "当代年轻人花式旅游图鉴",
       "onboard_time": 1716107418,
       "rank": 2,
@@ -2187,12 +2275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82981,
+      "num": 577196,
+      "word": "南宁暴雨中的暖心瞬间",
+      "onboard_time": 1716116537,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79395,
       "num": 321746,
       "word": "巧克力大爷跳海救人都要争抢",
       "onboard_time": 1716095777,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78794,
+      "num": 177914,
+      "word": "iPhone15官旗折扣价将至历史最低",
+      "onboard_time": 1716116776,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 77418,
@@ -2289,6 +2393,14 @@
       "onboard_time": 1716101296,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65405,
+      "num": 119825,
+      "word": "巴赫欢迎废墟上重生女孩来巴黎",
+      "onboard_time": 1716116837,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 62720,
