@@ -1,7 +1,15 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716104059028,
+  "endTime": 1716106883008,
   "band_list": [
+    {
+      "raw_hot": 1871786,
+      "num": 1871786,
+      "word": "黄家驹墓碑遗照被砸坏",
+      "onboard_time": 1716103878,
+      "rank": 37,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1525446,
       "num": 1525446,
@@ -41,6 +49,14 @@
       "onboard_time": 1716085998,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1062680,
+      "num": 1062680,
+      "word": "今年能吃到荔枝就不错了",
+      "onboard_time": 1716102857,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 1055713,
@@ -131,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719668,
+      "num": 603106,
+      "word": "孟子义上学时被拉到女厕所打头",
+      "onboard_time": 1716105438,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 714067,
       "num": 714067,
       "word": "专家建议允许个人自愿选择退休年龄",
@@ -153,6 +177,14 @@
       "onboard_time": 1716096677,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 703954,
+      "num": 703954,
+      "word": "林徽因终于拿到了迟到100年的学位证",
+      "onboard_time": 1716102016,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684586,
@@ -243,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532877,
+      "num": 532877,
+      "word": "吴艳妮12秒80再夺一冠",
+      "onboard_time": 1716105017,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 529341,
       "num": 504701,
       "word": "刘宪华5年后重返综艺",
@@ -273,14 +313,6 @@
       "onboard_time": 1716080116,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 485885,
-      "num": 485885,
-      "word": "林徽因终于拿到了迟到100年的学位证",
-      "onboard_time": 1716102016,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484497,
@@ -515,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323694,
+      "num": 323694,
+      "word": "为什么吃冰淇淋会突然头痛一下",
+      "onboard_time": 1716103578,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 321175,
       "num": 321175,
       "word": "歌手第三期网传歌单",
@@ -547,20 +587,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 296819,
+      "num": 296819,
+      "word": "长生 菜了就是菜了",
+      "onboard_time": 1716103578,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 288263,
       "num": 243824,
       "word": "三皇子 年轻人觉多",
       "onboard_time": 1716051436,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287754,
-      "num": 287754,
-      "word": "今年能吃到荔枝就不错了",
-      "onboard_time": 1716102857,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 284129,
@@ -593,6 +633,14 @@
       "onboard_time": 1716074834,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279506,
+      "num": 279506,
+      "word": "TFBOYS快本首秀要十周年了",
+      "onboard_time": 1716105978,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 278948,
@@ -705,6 +753,22 @@
       "onboard_time": 1716077057,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237150,
+      "num": 199172,
+      "word": "易烊千玺小网站更新照片",
+      "onboard_time": 1716104058,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 235322,
+      "num": 193349,
+      "word": "唐嫣活动生图",
+      "onboard_time": 1716106278,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 229696,
@@ -995,6 +1059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160841,
+      "num": 136955,
+      "word": "砸坏黄家驹墓碑2男子已被逮捕",
+      "onboard_time": 1716106397,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158135,
       "num": 158135,
       "word": "AG对战狼队",
@@ -1091,14 +1163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148574,
-      "num": 148574,
-      "word": "长生 菜了就是菜了",
-      "onboard_time": 1716103578,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 148460,
       "num": 148460,
       "word": "诗词大会总冠军是清华工科博士",
@@ -1179,6 +1243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 143419,
+      "num": 129797,
+      "word": "叶世荣回应黄家驹墓碑被砸",
+      "onboard_time": 1716106038,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143069,
       "num": 161063,
       "word": "哲学教授说谈恋爱不能太卑微",
@@ -1217,14 +1289,6 @@
       "onboard_time": 1716088156,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138374,
-      "num": 138374,
-      "word": "为什么吃冰淇淋会突然头痛一下",
-      "onboard_time": 1716103578,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 137550,
@@ -1296,14 +1360,6 @@
       "word": "迪丽热巴打戏流畅度",
       "onboard_time": 1716095417,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 129733,
-      "num": 129733,
-      "word": "黄家驹墓碑遗照被砸坏",
-      "onboard_time": 1716103878,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1515,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114124,
+      "num": 137098,
+      "word": "吴艳妮刷新赛季最佳成绩",
+      "onboard_time": 1716105557,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113966,
       "num": 113966,
       "word": "韩国政府因newjeans制定编舞著作权方针",
@@ -1529,6 +1593,14 @@
       "onboard_time": 1716089177,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113444,
+      "num": 130228,
+      "word": "雷军赴南京为SU7车主交车",
+      "onboard_time": 1716104058,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 111945,
@@ -1609,6 +1681,14 @@
       "onboard_time": 1716050657,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104632,
+      "num": 129810,
+      "word": "中国选手让我有种攀岩很容易的错觉",
+      "onboard_time": 1716104298,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 103307,
@@ -1715,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77418,
+      "num": 77418,
+      "word": "周娅菲速度攀岩6秒54夺冠",
+      "onboard_time": 1716105857,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75911,
       "num": 75911,
       "word": "Bin说三比零T1",
@@ -1729,6 +1817,14 @@
       "onboard_time": 1716040580,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72673,
+      "num": 75984,
+      "word": "蜡烛拒绝了你的愿望",
+      "onboard_time": 1716105078,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 71649,
@@ -1785,6 +1881,14 @@
       "onboard_time": 1716101296,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62720,
+      "num": 454109,
+      "word": "年轻人在河南解锁新型减肥方式",
+      "onboard_time": 1716105857,
+      "rank": 9,
+      "category": "运动健身"
     },
     {
       "raw_hot": 61373,

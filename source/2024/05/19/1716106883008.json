@@ -1,0 +1,410 @@
+{
+  "runTime": 1716106883008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1871786,
+        "num": 1871786,
+        "word": "黄家驹墓碑遗照被砸坏",
+        "onboard_time": 1716103878,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1062680,
+        "num": 1062680,
+        "word": "今年能吃到荔枝就不错了",
+        "onboard_time": 1716102857,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 30786,
+        "num": 739943,
+        "word": "行走美丽中国",
+        "onboard_time": 1716091037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263188,
+        "num": 732294,
+        "word": "你好星期六 TFBOYS",
+        "onboard_time": 1716101716,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 703954,
+        "num": 703954,
+        "word": "林徽因终于拿到了迟到100年的学位证",
+        "onboard_time": 1716102016,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615191,
+        "num": 615191,
+        "word": "专家建议允许个人自愿选择退休年龄",
+        "onboard_time": 1716100458,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724617,
+        "num": 609928,
+        "word": "章昊 未满24岁全款拿下第一杯杨枝甘露",
+        "onboard_time": 1716102197,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719668,
+        "num": 603106,
+        "word": "孟子义上学时被拉到女厕所打头",
+        "onboard_time": 1716105438,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532877,
+        "num": 532877,
+        "word": "吴艳妮12秒80再夺一冠",
+        "onboard_time": 1716105017,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62720,
+        "num": 454109,
+        "word": "年轻人在河南解锁新型减肥方式",
+        "onboard_time": 1716105857,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 628177,
+        "num": 447122,
+        "word": "王俊凯出发蔡依林演唱会彩排",
+        "onboard_time": 1716102498,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 429263,
+        "num": 429263,
+        "word": "汪苏泷有41首百万收藏",
+        "onboard_time": 1716097576,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 355352,
+        "num": 355352,
+        "word": "张予曦回应网红脸",
+        "onboard_time": 1716100518,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345757,
+        "num": 345757,
+        "word": "高度近视戴不戴眼镜眼球都会变形",
+        "onboard_time": 1716100817,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 323694,
+        "num": 323694,
+        "word": "为什么吃冰淇淋会突然头痛一下",
+        "onboard_time": 1716103578,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 306494,
+        "num": 306494,
+        "word": "iPhone15官旗降至第三方渠道价",
+        "onboard_time": 1716084616,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 296819,
+        "num": 296819,
+        "word": "长生 菜了就是菜了",
+        "onboard_time": 1716103578,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 280229,
+        "num": 280229,
+        "word": "专家称要支持60至70岁老年人再就业需求",
+        "onboard_time": 1716098717,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279506,
+        "num": 279506,
+        "word": "TFBOYS快本首秀要十周年了",
+        "onboard_time": 1716105978,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216896,
+        "num": 216896,
+        "word": "宣传1年的连云港被一个皮皮虾偷家了",
+        "onboard_time": 1716100276,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269339,
+        "num": 202900,
+        "word": "陈丽君抹眉心变妆练了近万遍",
+        "onboard_time": 1716102498,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237150,
+        "num": 199172,
+        "word": "易烊千玺小网站更新照片",
+        "onboard_time": 1716104058,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235322,
+        "num": 193349,
+        "word": "唐嫣活动生图",
+        "onboard_time": 1716106278,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178559,
+        "num": 178559,
+        "word": "这样跳绳10分钟等于慢跑半小时",
+        "onboard_time": 1716098357,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 171835,
+        "num": 171835,
+        "word": "庾澄庆晒与儿子合照",
+        "onboard_time": 1716096677,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155830,
+        "num": 155830,
+        "word": "年轻人结婚不买钻戒了",
+        "onboard_time": 1716096137,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153191,
+        "num": 153191,
+        "word": "第一批快递小哥退休了",
+        "onboard_time": 1716085998,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150364,
+        "num": 150364,
+        "word": "任嘉伦凤凰台上大婚路透",
+        "onboard_time": 1716103578,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146332,
+        "num": 146332,
+        "word": "应采儿尊重Jasper不去饭局",
+        "onboard_time": 1716100876,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114124,
+        "num": 137098,
+        "word": "吴艳妮刷新赛季最佳成绩",
+        "onboard_time": 1716105557,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160841,
+        "num": 136955,
+        "word": "砸坏黄家驹墓碑2男子已被逮捕",
+        "onboard_time": 1716106397,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131988,
+        "num": 131988,
+        "word": "鞠婧祎蝴蝶耳钉",
+        "onboard_time": 1716099137,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131390,
+        "num": 131390,
+        "word": "白鹿梵高星空蝴蝶裙",
+        "onboard_time": 1716102917,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113444,
+        "num": 130228,
+        "word": "雷军赴南京为SU7车主交车",
+        "onboard_time": 1716104058,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104632,
+        "num": 129810,
+        "word": "中国选手让我有种攀岩很容易的错觉",
+        "onboard_time": 1716104298,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143419,
+        "num": 129797,
+        "word": "叶世荣回应黄家驹墓碑被砸",
+        "onboard_time": 1716106038,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129439,
+        "num": 129439,
+        "word": "金钟大中国首封",
+        "onboard_time": 1716099616,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125817,
+        "num": 125817,
+        "word": "赵露思奥运会火炬手",
+        "onboard_time": 1716103157,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 117153,
+        "num": 117153,
+        "word": "庆帝皇后挥之不去的恐惧是什么",
+        "onboard_time": 1716089177,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95413,
+        "num": 95413,
+        "word": "普通人的钱真的是抠出来的",
+        "onboard_time": 1716086719,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92425,
+        "num": 92425,
+        "word": "原来扇贝游泳是用走的",
+        "onboard_time": 1716100158,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92096,
+        "num": 92096,
+        "word": "猫腻 张若昀就是范闲模板",
+        "onboard_time": 1716091097,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89702,
+        "num": 89702,
+        "word": "周深演唱会",
+        "onboard_time": 1716100158,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86453,
+        "num": 86453,
+        "word": "杭州200万以内老破小吃香",
+        "onboard_time": 1716096196,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83322,
+        "num": 83322,
+        "word": "广西暴雨市民抡锤砸墙放水",
+        "onboard_time": 1716098836,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82229,
+        "num": 82229,
+        "word": "MISBHV 虞书欣",
+        "onboard_time": 1716100817,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81383,
+        "num": 81383,
+        "word": "戛纳晚宴上的张艺兴",
+        "onboard_time": 1716084977,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79223,
+        "num": 79223,
+        "word": "广西特大暴雨雨强破纪录",
+        "onboard_time": 1716091037,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77418,
+        "num": 77418,
+        "word": "周娅菲速度攀岩6秒54夺冠",
+        "onboard_time": 1716105857,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72673,
+        "num": 75984,
+        "word": "蜡烛拒绝了你的愿望",
+        "onboard_time": 1716105078,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#博物致知#"
+    }
+  }
+}
