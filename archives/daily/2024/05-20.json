@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716147249487,
+  "endTime": 1716149973875,
   "band_list": [
     {
       "raw_hot": 6373884,
@@ -489,6 +489,14 @@
       "onboard_time": 1716132500,
       "rank": 11,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 15305,
+      "num": 18165,
+      "word": "李嘉格 金棕豹系妆",
+      "onboard_time": 1716148631,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 12115,

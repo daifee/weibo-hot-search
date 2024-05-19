@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716147249487,
+  "endTime": 1716149973875,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -3497,6 +3497,14 @@
       "onboard_time": 1716034818,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15305,
+      "num": 18165,
+      "word": "李嘉格 金棕豹系妆",
+      "onboard_time": 1716148631,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 14419,
