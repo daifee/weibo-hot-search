@@ -1,10 +1,10 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716106883008,
+  "endTime": 1716107708540,
   "band_list": [
     {
-      "raw_hot": 1871786,
-      "num": 1871786,
+      "raw_hot": 1987575,
+      "num": 1987575,
       "word": "黄家驹墓碑遗照被砸坏",
       "onboard_time": 1716103878,
       "rank": 37,
@@ -43,20 +43,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1181338,
+      "num": 1181338,
+      "word": "今年能吃到荔枝就不错了",
+      "onboard_time": 1716102857,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1177077,
       "num": 1177077,
       "word": "第一批快递小哥退休了",
       "onboard_time": 1716085998,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1062680,
-      "num": 1062680,
-      "word": "今年能吃到荔枝就不错了",
-      "onboard_time": 1716102857,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 1055713,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783411,
+      "num": 603106,
+      "word": "孟子义上学时被拉到女厕所打头",
+      "onboard_time": 1716105438,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 779738,
       "num": 261812,
       "word": "女生一定要远离习惯性无助",
@@ -145,14 +153,6 @@
       "onboard_time": 1716083117,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 719668,
-      "num": 603106,
-      "word": "孟子义上学时被拉到女厕所打头",
-      "onboard_time": 1716105438,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 714067,
@@ -259,6 +259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 571061,
+      "num": 571061,
+      "word": "吴艳妮12秒80再夺一冠",
+      "onboard_time": 1716105017,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 560601,
       "num": 560601,
       "word": "赵丽颖黄色针织短袖",
@@ -273,14 +281,6 @@
       "onboard_time": 1716089476,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 532877,
-      "num": 532877,
-      "word": "吴艳妮12秒80再夺一冠",
-      "onboard_time": 1716105017,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 529341,
@@ -329,6 +329,14 @@
       "onboard_time": 1716100876,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 461079,
+      "num": 374297,
+      "word": "TFBOYS快本首秀要十周年了",
+      "onboard_time": 1716105978,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 459806,
@@ -393,6 +401,14 @@
       "onboard_time": 1716052395,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 406771,
+      "num": 406771,
+      "word": "为什么吃冰淇淋会突然头痛一下",
+      "onboard_time": 1716103578,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 406735,
@@ -499,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337845,
+      "num": 337845,
+      "word": "唐嫣活动生图",
+      "onboard_time": 1716106278,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336914,
       "num": 336914,
       "word": "AG",
@@ -547,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323694,
-      "num": 323694,
-      "word": "为什么吃冰淇淋会突然头痛一下",
-      "onboard_time": 1716103578,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 321175,
       "num": 321175,
       "word": "歌手第三期网传歌单",
@@ -587,8 +603,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 296819,
-      "num": 296819,
+      "raw_hot": 307905,
+      "num": 307905,
       "word": "长生 菜了就是菜了",
       "onboard_time": 1716103578,
       "rank": 30,
@@ -633,14 +649,6 @@
       "onboard_time": 1716074834,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279506,
-      "num": 279506,
-      "word": "TFBOYS快本首秀要十周年了",
-      "onboard_time": 1716105978,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 278948,
@@ -760,14 +768,6 @@
       "word": "易烊千玺小网站更新照片",
       "onboard_time": 1716104058,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 235322,
-      "num": 193349,
-      "word": "唐嫣活动生图",
-      "onboard_time": 1716106278,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1027,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165905,
+      "num": 165905,
+      "word": "荔枝好贵",
+      "onboard_time": 1716107058,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165096,
       "num": 165096,
       "word": "广西暴雨市民抡锤砸墙放水",
@@ -1060,7 +1068,7 @@
     },
     {
       "raw_hot": 160841,
-      "num": 136955,
+      "num": 144235,
       "word": "砸坏黄家驹墓碑2男子已被逮捕",
       "onboard_time": 1716106397,
       "rank": 30,
@@ -1179,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147924,
+      "num": 147924,
+      "word": "中国人民大学首届深圳金融论坛",
+      "onboard_time": 1716106998,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147341,
       "num": 147341,
       "word": "下半场的欧文",
@@ -1211,6 +1227,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 145551,
+      "num": 129797,
+      "word": "叶世荣回应黄家驹墓碑被砸",
+      "onboard_time": 1716106038,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145053,
       "num": 145053,
       "word": "十个勤天真把我们当自己人",
@@ -1241,14 +1265,6 @@
       "onboard_time": 1716089238,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 143419,
-      "num": 129797,
-      "word": "叶世荣回应黄家驹墓碑被砸",
-      "onboard_time": 1716106038,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 143069,
@@ -1603,6 +1619,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 112853,
+      "num": 112853,
+      "word": "终于等来了榴莲1斤1字打头",
+      "onboard_time": 1716107477,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 111945,
       "num": 111945,
       "word": "范闲 我想吃鱼了",
@@ -1659,6 +1683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108587,
+      "num": 108587,
+      "word": "郭有才",
+      "onboard_time": 1716107358,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 108069,
       "num": 108069,
       "word": "小狗被冤枉急得快说话了",
@@ -1684,7 +1716,7 @@
     },
     {
       "raw_hot": 104632,
-      "num": 129810,
+      "num": 146588,
       "word": "中国选手让我有种攀岩很容易的错觉",
       "onboard_time": 1716104298,
       "rank": 34,
@@ -1915,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56106,
+      "num": 165393,
+      "word": "1个盲人求助一群志愿者疯狂抢单",
+      "onboard_time": 1716107536,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48421,
       "num": 48421,
       "word": "巨掉秤的减脂餐",
@@ -2097,6 +2137,14 @@
       "onboard_time": 1716034818,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14336,
+      "num": 1141182,
+      "word": "当代年轻人花式旅游图鉴",
+      "onboard_time": 1716107418,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8766,
