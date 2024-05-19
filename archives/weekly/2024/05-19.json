@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716125722473,
+  "endTime": 1716128200102,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -8,6 +8,14 @@
       "word": "警方通报胖猫与谭某经济往来情况",
       "onboard_time": 1716123377,
       "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 4293126,
+      "num": 240680,
+      "word": "胖猫通报里的三个关键点",
+      "onboard_time": 1716126141,
+      "rank": 21,
       "category": "社会新闻,网红"
     },
     {
@@ -25,6 +33,14 @@
       "onboard_time": 1716103878,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1708985,
+      "num": 1708985,
+      "word": "王俊凯蔡依林同台",
+      "onboard_time": 1716126261,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 1701955,
@@ -155,6 +171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 921470,
+      "num": 921470,
+      "word": "载有伊朗总统的直升机硬着陆",
+      "onboard_time": 1716125602,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 865357,
       "num": 865357,
       "word": "警方回应知名主持人被曝私生活混乱",
@@ -267,8 +291,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 709405,
-      "num": 709405,
+      "raw_hot": 710625,
+      "num": 710625,
       "word": "偷家",
       "onboard_time": 1716124340,
       "rank": 18,
@@ -331,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 683355,
+      "num": 456892,
+      "word": "朴志效说队内都是商业关系",
+      "onboard_time": 1716123558,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 668805,
       "num": 668805,
       "word": "张予曦回应网红脸",
@@ -339,12 +371,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 662176,
-      "num": 456892,
-      "word": "朴志效说队内都是商业关系",
-      "onboard_time": 1716123558,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 666483,
+      "num": 666483,
+      "word": "奔跑吧全员现身周深演唱会",
+      "onboard_time": 1716126981,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 653371,
@@ -1091,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244881,
+      "num": 240536,
+      "word": "龚俊首次执导女主是麦迪娜",
+      "onboard_time": 1716126743,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244132,
       "num": 244132,
       "word": "krd",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1716121518,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 240442,
+      "num": 240442,
+      "word": "五月天嘉宾",
+      "onboard_time": 1716127761,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 237305,
@@ -1203,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216222,
-      "num": 216222,
-      "word": "载有伊朗总统的直升机硬着陆",
-      "onboard_time": 1716125602,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 215773,
       "num": 176635,
       "word": "BLG回应Elk身体不适",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1716110477,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205125,
+      "num": 205125,
+      "word": "GEN直通S14",
+      "onboard_time": 1716127401,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 204508,
@@ -1307,12 +1355,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201441,
+      "num": 201441,
+      "word": "居然还有竖着跑的马拉松",
+      "onboard_time": 1716127523,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 201425,
+      "num": 201425,
+      "word": "陈赫见证天霸PEL夺冠",
+      "onboard_time": 1716126981,
+      "rank": 28,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 201009,
       "num": 201009,
       "word": "独行侠淘汰雷霆",
       "onboard_time": 1716088458,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200998,
+      "num": 200998,
+      "word": "Bin尽力了",
+      "onboard_time": 1716127162,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 200380,
@@ -1339,12 +1411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199804,
+      "num": 199804,
+      "word": "严浩翔三十米外盲踢射门",
+      "onboard_time": 1716127761,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199509,
       "num": 199509,
       "word": "aespa打歌",
       "onboard_time": 1716111197,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199494,
+      "num": 199494,
+      "word": "考研失败却过上更好的生活",
+      "onboard_time": 1716126202,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 198056,
@@ -1459,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190284,
+      "num": 190284,
+      "word": "邓子越演得真好",
+      "onboard_time": 1716127342,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189691,
       "num": 175342,
       "word": "孙俪超市购物被偶遇",
@@ -1473,6 +1569,14 @@
       "onboard_time": 1716124522,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188283,
+      "num": 188283,
+      "word": "天霸PEL双冠王",
+      "onboard_time": 1716127761,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 187831,
@@ -2043,6 +2147,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 131968,
+      "num": 131968,
+      "word": "LCK时隔七年再夺MSI冠军",
+      "onboard_time": 1716126862,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131877,
       "num": 131877,
       "word": "迪丽热巴深V白裙",
@@ -2161,6 +2273,14 @@
       "onboard_time": 1716082636,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123373,
+      "num": 123373,
+      "word": "Lehends获得FMVP",
+      "onboard_time": 1716125782,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 121483,
@@ -2619,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96146,
+      "num": 457775,
+      "word": "聋哑夫妻直播带货年入过百万",
+      "onboard_time": 1716124821,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94268,
       "num": 94268,
       "word": "救助了一只句句有回应的小猫",
@@ -2811,11 +2939,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51745,
-      "num": 457775,
-      "word": "聋哑夫妻直播带货年入过百万",
-      "onboard_time": 1716124821,
-      "rank": 9,
+      "raw_hot": 55523,
+      "num": 978165,
+      "word": "收到暴雨预警后应该怎么做",
+      "onboard_time": 1716127523,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3009,6 +3137,14 @@
       "onboard_time": 1716034818,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15376,
+      "num": 244074,
+      "word": "易烊千玺好上加好",
+      "onboard_time": 1716127463,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 14419,

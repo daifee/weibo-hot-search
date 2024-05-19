@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716125722473,
+  "endTime": 1716128200102,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -137,6 +137,14 @@
       "onboard_time": 1715411479,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4293126,
+      "num": 240680,
+      "word": "胖猫通报里的三个关键点",
+      "onboard_time": 1716126141,
+      "rank": 21,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 4276914,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1715511382,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1708985,
+      "num": 1708985,
+      "word": "王俊凯蔡依林同台",
+      "onboard_time": 1716126261,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 1707136,
@@ -4571,6 +4587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921470,
+      "num": 921470,
+      "word": "载有伊朗总统的直升机硬着陆",
+      "onboard_time": 1716125602,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 920141,
       "num": 920141,
       "word": "第一次去见家长就分手了",
@@ -6963,20 +6987,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 710625,
+      "num": 710625,
+      "word": "偷家",
+      "onboard_time": 1716124340,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 710032,
       "num": 710032,
       "word": "章子怡酱园弄剧照",
       "onboard_time": 1714916902,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 709405,
-      "num": 709405,
-      "word": "偷家",
-      "onboard_time": 1716124340,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 709403,
@@ -7539,6 +7563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 683355,
+      "num": 456892,
+      "word": "朴志效说队内都是商业关系",
+      "onboard_time": 1716123558,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683342,
       "num": 683342,
       "word": "仅有6条高铁线路盈利",
@@ -7875,6 +7907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 666483,
+      "num": 666483,
+      "word": "奔跑吧全员现身周深演唱会",
+      "onboard_time": 1716126981,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 665759,
       "num": 531048,
       "word": "张杰看到情侣求婚的反应",
@@ -7912,14 +7952,6 @@
       "word": "孙怡素颜泳装照",
       "onboard_time": 1714565598,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 662176,
-      "num": 456892,
-      "word": "朴志效说队内都是商业关系",
-      "onboard_time": 1716123558,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -23619,6 +23651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244881,
+      "num": 240536,
+      "word": "龚俊首次执导女主是麦迪娜",
+      "onboard_time": 1716126743,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244825,
       "num": 244825,
       "word": "Faouzia实力",
@@ -23977,6 +24017,14 @@
       "onboard_time": 1716023599,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240442,
+      "num": 240442,
+      "word": "五月天嘉宾",
+      "onboard_time": 1716127761,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 240304,
@@ -26459,14 +26507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216222,
-      "num": 216222,
-      "word": "载有伊朗总统的直升机硬着陆",
-      "onboard_time": 1716125602,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 216219,
       "num": 216219,
       "word": "2024国考补录人数涨幅超20%",
@@ -28227,6 +28267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205125,
+      "num": 205125,
+      "word": "GEN直通S14",
+      "onboard_time": 1716127401,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205032,
       "num": 205032,
       "word": "乐华男团从哇唧唧哇到时代峰峻",
@@ -29003,6 +29051,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201441,
+      "num": 201441,
+      "word": "居然还有竖着跑的马拉松",
+      "onboard_time": 1716127523,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 201425,
+      "num": 201425,
+      "word": "陈赫见证天霸PEL夺冠",
+      "onboard_time": 1716126981,
+      "rank": 28,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 201252,
       "num": 201252,
       "word": "郭艾伦说很想和大家一起上",
@@ -29089,6 +29153,14 @@
       "onboard_time": 1716088458,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200998,
+      "num": 200998,
+      "word": "Bin尽力了",
+      "onboard_time": 1716127162,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 200960,
@@ -29451,6 +29523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199804,
+      "num": 199804,
+      "word": "严浩翔三十米外盲踢射门",
+      "onboard_time": 1716127761,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199768,
       "num": 199768,
       "word": "爱马适",
@@ -29505,6 +29585,14 @@
       "onboard_time": 1715607079,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199494,
+      "num": 199494,
+      "word": "考研失败却过上更好的生活",
+      "onboard_time": 1716126202,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 199486,
@@ -31699,6 +31787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190284,
+      "num": 190284,
+      "word": "邓子越演得真好",
+      "onboard_time": 1716127342,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190244,
       "num": 190244,
       "word": "张译蒋欣对手戏",
@@ -32161,6 +32257,14 @@
       "onboard_time": 1715837238,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188283,
+      "num": 188283,
+      "word": "天霸PEL双冠王",
+      "onboard_time": 1716127761,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 188267,
@@ -43331,6 +43435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131968,
+      "num": 131968,
+      "word": "LCK时隔七年再夺MSI冠军",
+      "onboard_time": 1716126862,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131883,
       "num": 131883,
       "word": "风箫状态",
@@ -44905,6 +45017,14 @@
       "onboard_time": 1716005118,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123373,
+      "num": 123373,
+      "word": "Lehends获得FMVP",
+      "onboard_time": 1716125782,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 123274,
@@ -48787,6 +48907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96146,
+      "num": 457775,
+      "word": "聋哑夫妻直播带货年入过百万",
+      "onboard_time": 1716124821,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96026,
       "num": 1995354,
       "word": "嫦娥家族奔月路每秒都热血沸腾",
@@ -51219,6 +51347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55523,
+      "num": 978165,
+      "word": "收到暴雨预警后应该怎么做",
+      "onboard_time": 1716127523,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55434,
       "num": 152901,
       "word": "晒晒我拍到的极光",
@@ -51433,14 +51569,6 @@
       "onboard_time": 1715439262,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51745,
-      "num": 457775,
-      "word": "聋哑夫妻直播带货年入过百万",
-      "onboard_time": 1716124821,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51741,
@@ -53161,6 +53289,14 @@
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15376,
+      "num": 244074,
+      "word": "易烊千玺好上加好",
+      "onboard_time": 1716127463,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 15361,
