@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716160808277,
+  "endTime": 1716161682523,
   "band_list": [
     {
       "raw_hot": 6373884,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 3071739,
-      "num": 281907,
+      "num": 393720,
       "word": "胖猫姐姐刘某操控舆论",
       "onboard_time": 1716129921,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1528434,
+      "num": 1528434,
+      "word": "伊朗外交部就总统直升机发生事故发表声明",
+      "onboard_time": 1716160635,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1417547,
@@ -25,6 +33,22 @@
       "onboard_time": 1716126141,
       "rank": 3,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1210728,
+      "num": 1210728,
+      "word": "伊朗总统",
+      "onboard_time": 1716160274,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1050402,
+      "num": 872361,
+      "word": "伊朗内政部长证实载有总统的直升机队发生事故",
+      "onboard_time": 1716160155,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 938201,
@@ -43,6 +67,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 870579,
+      "num": 870579,
+      "word": "小满",
+      "onboard_time": 1716160393,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754883,
       "num": 197984,
       "word": "谭某未以恋爱为名骗取胖猫财物",
@@ -57,14 +89,6 @@
       "onboard_time": 1716130881,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 715906,
-      "num": 715906,
-      "word": "伊朗内政部长证实载有总统的直升机队发生事故",
-      "onboard_time": 1716160155,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 562906,
@@ -83,6 +107,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 507680,
+      "num": 389516,
+      "word": "吴艳妮母亲回应女儿再次夺冠",
+      "onboard_time": 1716155891,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 473020,
       "num": 473020,
       "word": "蔡依林问王俊凯的理想型",
@@ -97,14 +129,6 @@
       "onboard_time": 1716132500,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 459944,
-      "num": 230997,
-      "word": "吴艳妮母亲回应女儿再次夺冠",
-      "onboard_time": 1716155891,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 442292,
@@ -123,28 +147,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 401821,
-      "num": 401821,
-      "word": "伊朗总统",
-      "onboard_time": 1716160274,
-      "rank": 6,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 384692,
-      "num": 384692,
-      "word": "小满",
-      "onboard_time": 1716160393,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373334,
       "num": 373334,
       "word": "狐妖小红娘月红篇",
       "onboard_time": 1716136697,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371687,
+      "num": 371687,
+      "word": "伊朗",
+      "onboard_time": 1716160875,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 371575,
@@ -155,20 +171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369660,
+      "num": 180791,
+      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
+      "onboard_time": 1716140712,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321890,
+      "num": 321890,
+      "word": "日本女子挺9个月孕肚为老公准备30天量晚饭",
+      "onboard_time": 1716122657,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317504,
       "num": 264642,
       "word": "王俊凯蔡依林同台",
       "onboard_time": 1716126261,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 312581,
-      "num": 261281,
-      "word": "日本女子挺9个月孕肚为老公准备30天量晚饭",
-      "onboard_time": 1716122657,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284360,
@@ -187,14 +211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 253738,
-      "num": 180791,
-      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
-      "onboard_time": 1716140712,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242134,
       "num": 242134,
       "word": "王俊凯蔡依林五年后再唱心引力",
@@ -211,20 +227,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 236519,
+      "num": 236519,
+      "word": "外媒评关晓彤戛纳最佳造型",
+      "onboard_time": 1716128602,
+      "rank": 33,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 236007,
       "num": 236007,
       "word": "朴志效说队内都是商业关系",
       "onboard_time": 1716123558,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233763,
-      "num": 233763,
-      "word": "外媒评关晓彤戛纳最佳造型",
-      "onboard_time": 1716128602,
-      "rank": 33,
-      "category": "电影,时尚"
     },
     {
       "raw_hot": 207493,
@@ -259,12 +275,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 184345,
-      "num": 184345,
-      "word": "伊朗外交部就总统直升机发生事故发表声明",
-      "onboard_time": 1716160635,
-      "rank": 15,
-      "category": "国外时政"
+      "raw_hot": 165292,
+      "num": 165292,
+      "word": "塑料椅中间圆圆的洞是什么作用",
+      "onboard_time": 1716156611,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 159272,
@@ -273,14 +289,6 @@
       "onboard_time": 1716131062,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 156480,
-      "num": 156480,
-      "word": "塑料椅中间圆圆的洞是什么作用",
-      "onboard_time": 1716156611,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 153009,
@@ -297,6 +305,14 @@
       "onboard_time": 1716126743,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148691,
+      "num": 148691,
+      "word": "人生小满胜万全",
+      "onboard_time": 1716161056,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 144383,
@@ -363,12 +379,36 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 124501,
+      "num": 124501,
+      "word": "伊朗对载有总统的事故直升机全力搜救",
+      "onboard_time": 1716161597,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 124418,
       "num": 124418,
       "word": "你好星期六 TFBOYS",
       "onboard_time": 1716101716,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112163,
+      "num": 112163,
+      "word": "小满恰逢520",
+      "onboard_time": 1716160515,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108939,
+      "num": 108939,
+      "word": "黄贯中发博谈黄家驹墓碑被砸事件",
+      "onboard_time": 1716159614,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 108083,
@@ -387,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102429,
+      "num": 102429,
+      "word": "频繁聊天真的会产生爱的错觉吗",
+      "onboard_time": 1716142572,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102077,
       "num": 120276,
       "word": "10元网红咖啡大姨忙的要碎掉了",
@@ -403,15 +451,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100648,
-      "num": 100648,
-      "word": "频繁聊天真的会产生爱的错觉吗",
-      "onboard_time": 1716142572,
-      "rank": 40,
+      "raw_hot": 101007,
+      "num": 101007,
+      "word": "当星空撞上520",
+      "onboard_time": 1716161475,
+      "rank": 30,
       "category": "情感"
     },
     {
-      "raw_hot": 97506,
+      "raw_hot": 98911,
       "num": 120274,
       "word": "王骁 三十岁选择到华尔街闯一闯",
       "onboard_time": 1716119238,
@@ -435,11 +483,27 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89273,
-      "num": 89272,
+      "raw_hot": 92600,
+      "num": 92600,
       "word": "曼城夺得英超冠军",
       "onboard_time": 1716141014,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90086,
+      "num": 90086,
+      "word": "南大毕业生论文致谢第一句很特殊",
+      "onboard_time": 1716160635,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 88955,
+      "num": 88955,
+      "word": "步行者晋级东部决赛",
+      "onboard_time": 1716160755,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -459,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86225,
-      "num": 86225,
-      "word": "黄贯中发博谈黄家驹墓碑被砸事件",
-      "onboard_time": 1716159614,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85253,
       "num": 120268,
       "word": "刘端端晒先秦淑女步",
@@ -475,20 +531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80105,
+      "num": 396665,
+      "word": "小满小满爱意加满",
+      "onboard_time": 1716160574,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79543,
       "num": 120267,
       "word": "利物浦vs狼队",
       "onboard_time": 1716135137,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73265,
-      "num": 73265,
-      "word": "小满恰逢520",
-      "onboard_time": 1716160515,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70592,
@@ -515,28 +571,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 67484,
-      "num": 67484,
-      "word": "南大毕业生论文致谢第一句很特殊",
-      "onboard_time": 1716160635,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 63804,
-      "num": 128408,
-      "word": "小满小满爱意加满",
-      "onboard_time": 1716160574,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62526,
-      "num": 62526,
-      "word": "步行者晋级东部决赛",
-      "onboard_time": 1716160755,
-      "rank": 37,
+      "raw_hot": 62631,
+      "num": 62631,
+      "word": "阿森纳2比1埃弗顿",
+      "onboard_time": 1716160936,
+      "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59324,
+      "num": 59324,
+      "word": "张艺兴金发走戛纳红毯",
+      "onboard_time": 1716161417,
+      "rank": 47,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 53270,
@@ -643,8 +691,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4611,
-      "num": 723104,
+      "raw_hot": 6316,
+      "num": 1270484,
       "word": "行走美丽中国",
       "onboard_time": 1716091037,
       "rank": 2,
