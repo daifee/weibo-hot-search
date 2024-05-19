@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716128200102,
+  "endTime": 1716129238297,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -16,6 +16,14 @@
       "word": "胖猫通报里的三个关键点",
       "onboard_time": 1716126141,
       "rank": 21,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 3542478,
+      "num": 244656,
+      "word": "谭某未以恋爱为名骗取胖猫财物",
+      "onboard_time": 1716129142,
+      "rank": 20,
       "category": "社会新闻,网红"
     },
     {
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1038463,
+      "num": 1038463,
+      "word": "载有伊朗总统的直升机硬着陆",
+      "onboard_time": 1716125602,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 958635,
       "num": 958635,
       "word": "陈丽君急性肠胃炎晕倒",
@@ -169,14 +185,6 @@
       "onboard_time": 1716118276,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 921470,
-      "num": 921470,
-      "word": "载有伊朗总统的直升机硬着陆",
-      "onboard_time": 1716125602,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 865357,
@@ -257,6 +265,14 @@
       "onboard_time": 1716034758,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738376,
+      "num": 738376,
+      "word": "奔跑吧全员现身周深演唱会",
+      "onboard_time": 1716126981,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 737034,
@@ -369,14 +385,6 @@
       "onboard_time": 1716100518,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 666483,
-      "num": 666483,
-      "word": "奔跑吧全员现身周深演唱会",
-      "onboard_time": 1716126981,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 653371,
@@ -787,6 +795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 348506,
+      "num": 348506,
+      "word": "五月天嘉宾",
+      "onboard_time": 1716127761,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 346430,
       "num": 346430,
       "word": "歌手2024",
@@ -1067,6 +1083,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 260035,
+      "num": 244561,
+      "word": "龚俊首次执导女主是麦迪娜",
+      "onboard_time": 1716126743,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259839,
       "num": 259839,
       "word": "宣传1年的连云港被一个皮皮虾偷家了",
@@ -1099,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248995,
+      "num": 248995,
+      "word": "考研失败却过上更好的生活",
+      "onboard_time": 1716126202,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 246406,
       "num": 246406,
       "word": "张真源跑男陪小朋友打篮球",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1716079757,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244881,
-      "num": 240536,
-      "word": "龚俊首次执导女主是麦迪娜",
-      "onboard_time": 1716126743,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 244132,
@@ -1161,14 +1185,6 @@
       "onboard_time": 1716121518,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 240442,
-      "num": 240442,
-      "word": "五月天嘉宾",
-      "onboard_time": 1716127761,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 237305,
@@ -1267,12 +1283,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211025,
+      "num": 211025,
+      "word": "外媒评关晓彤戛纳最佳造型",
+      "onboard_time": 1716128602,
+      "rank": 24,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 208761,
       "num": 208761,
       "word": "95后亿万富豪被罚1.33亿元",
       "onboard_time": 1716036198,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208252,
+      "num": 208252,
+      "word": "刘端端晒先秦淑女步",
+      "onboard_time": 1716128602,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 205994,
@@ -1427,14 +1459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199494,
-      "num": 199494,
-      "word": "考研失败却过上更好的生活",
-      "onboard_time": 1716126202,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 198056,
       "num": 198056,
       "word": "叶世荣回应黄家驹墓碑被砸",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1716109457,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195776,
+      "num": 195776,
+      "word": "阿信talking",
+      "onboard_time": 1716128242,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 194390,
@@ -2099,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137415,
+      "num": 137415,
+      "word": "青稚FMVP",
+      "onboard_time": 1716128480,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136100,
       "num": 136100,
       "word": "范闲骂得声音好大好超前",
@@ -2283,6 +2323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121574,
+      "num": 121574,
+      "word": "医院的规定都是有原因的",
+      "onboard_time": 1716126922,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121483,
       "num": 121483,
       "word": "王栎鑫演唱会",
@@ -2369,6 +2417,14 @@
       "onboard_time": 1716091816,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118887,
+      "num": 118887,
+      "word": "变装1分钟硬控60秒",
+      "onboard_time": 1716129200,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 118803,
@@ -2587,6 +2643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108835,
+      "num": 1234652,
+      "word": "收到暴雨预警后应该怎么做",
+      "onboard_time": 1716127523,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108069,
       "num": 108069,
       "word": "小狗被冤枉急得快说话了",
@@ -2739,7 +2803,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96146,
+      "raw_hot": 96773,
       "num": 457775,
       "word": "聋哑夫妻直播带货年入过百万",
       "onboard_time": 1716124821,
@@ -2939,14 +3003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55523,
-      "num": 978165,
-      "word": "收到暴雨预警后应该怎么做",
-      "onboard_time": 1716127523,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48421,
       "num": 48421,
       "word": "巨掉秤的减脂餐",
@@ -3091,6 +3147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25547,
+      "num": 359968,
+      "word": "易烊千玺好上加好",
+      "onboard_time": 1716127463,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24337,
       "num": 222500,
       "word": "赵丽颖原声旁白感染力",
@@ -3137,14 +3201,6 @@
       "onboard_time": 1716034818,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 15376,
-      "num": 244074,
-      "word": "易烊千玺好上加好",
-      "onboard_time": 1716127463,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 14419,
