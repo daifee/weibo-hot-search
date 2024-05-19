@@ -1,0 +1,410 @@
+{
+  "runTime": 1716131904909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10501032,
+        "num": 10501032,
+        "word": "警方通报胖猫与谭某经济往来情况",
+        "onboard_time": 1716123377,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 955452,
+        "num": 955452,
+        "word": "王俊凯蔡依林同台",
+        "onboard_time": 1716126261,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140541,
+        "num": 867037,
+        "word": "收到暴雨预警后应该怎么做",
+        "onboard_time": 1716127523,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6410930,
+        "num": 863187,
+        "word": "胖猫姐姐刘某操控舆论",
+        "onboard_time": 1716129921,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 812146,
+        "num": 812146,
+        "word": "载有伊朗总统的直升机硬着陆",
+        "onboard_time": 1716125602,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 588156,
+        "num": 588156,
+        "word": "突然发现六月只要上19天班",
+        "onboard_time": 1716110058,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 849491,
+        "num": 570351,
+        "word": "蔡依林问王俊凯的理想型",
+        "onboard_time": 1716129802,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 671123,
+        "num": 562268,
+        "word": "庆余年2第九集封神",
+        "onboard_time": 1716130881,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527170,
+        "num": 527170,
+        "word": "蒲熠星南大",
+        "onboard_time": 1716129441,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56994,
+        "num": 494595,
+        "word": "聋哑夫妻直播带货年入过百万",
+        "onboard_time": 1716124821,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16021,
+        "num": 487933,
+        "word": "易烊千玺好上加好",
+        "onboard_time": 1716127463,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1909933,
+        "num": 487896,
+        "word": "胖猫通报里的三个关键点",
+        "onboard_time": 1716126141,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 487578,
+        "num": 487578,
+        "word": "奔跑吧全员现身周深演唱会",
+        "onboard_time": 1716126981,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 455226,
+        "num": 455226,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1716131361,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414463,
+        "num": 414463,
+        "word": "日本女子挺9个月孕肚为老公准备30天量晚饭",
+        "onboard_time": 1716122657,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355555,
+        "num": 355555,
+        "word": "朴志效说队内都是商业关系",
+        "onboard_time": 1716123558,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345390,
+        "num": 345390,
+        "word": "外媒评关晓彤戛纳最佳造型",
+        "onboard_time": 1716128602,
+        "rank": 16,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 320437,
+        "num": 320437,
+        "word": "GEN夺冠",
+        "onboard_time": 1716123739,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308608,
+        "num": 308608,
+        "word": "考研失败却过上更好的生活",
+        "onboard_time": 1716126202,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 308090,
+        "num": 308090,
+        "word": "龚俊首次执导女主是麦迪娜",
+        "onboard_time": 1716126743,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1578677,
+        "num": 301237,
+        "word": "谭某未以恋爱为名骗取胖猫财物",
+        "onboard_time": 1716129142,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1256422,
+        "num": 295991,
+        "word": "警方通报胖猫事件",
+        "onboard_time": 1716129862,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1046276,
+        "num": 295613,
+        "word": "比流量更重要的是真相",
+        "onboard_time": 1716130640,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 289996,
+        "num": 289996,
+        "word": "五月天嘉宾",
+        "onboard_time": 1716127761,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224520,
+        "num": 256805,
+        "word": "连云港鬼秤事件5人被行拘",
+        "onboard_time": 1716115757,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245700,
+        "num": 245700,
+        "word": "陈丽君急性肠胃炎晕倒",
+        "onboard_time": 1716115217,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244118,
+        "num": 244118,
+        "word": "周深直播",
+        "onboard_time": 1716130282,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222095,
+        "num": 222095,
+        "word": "庆余年2",
+        "onboard_time": 1716121335,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220047,
+        "num": 220047,
+        "word": "白桃星座",
+        "onboard_time": 1716131540,
+        "rank": 28,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 211062,
+        "num": 217901,
+        "word": "偷家",
+        "onboard_time": 1716124340,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236503,
+        "num": 217838,
+        "word": "Bin说MSI不是结尾",
+        "onboard_time": 1716131062,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217550,
+        "num": 217550,
+        "word": "戴珍珠耳环的少女 意外的颜料",
+        "onboard_time": 1716129501,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 211231,
+        "num": 211231,
+        "word": "刘端端晒先秦淑女步",
+        "onboard_time": 1716128602,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209234,
+        "num": 209234,
+        "word": "你好星期六 TFBOYS",
+        "onboard_time": 1716101716,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196598,
+        "num": 196598,
+        "word": "阿森纳vs埃弗顿",
+        "onboard_time": 1716131301,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195051,
+        "num": 195051,
+        "word": "网红130万整形嘴弯眼斜",
+        "onboard_time": 1716120976,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187584,
+        "num": 187584,
+        "word": "英超",
+        "onboard_time": 1716131422,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179196,
+        "num": 179196,
+        "word": "曼城vs西汉姆联",
+        "onboard_time": 1716129321,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172601,
+        "num": 172601,
+        "word": "10元网红咖啡大姨忙的要碎掉了",
+        "onboard_time": 1716114437,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160391,
+        "num": 160391,
+        "word": "陈赫见证天霸PEL夺冠",
+        "onboard_time": 1716126981,
+        "rank": 39,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 157946,
+        "num": 157946,
+        "word": "Bin尽力了",
+        "onboard_time": 1716127162,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156574,
+        "num": 156574,
+        "word": "邓子越演得真好",
+        "onboard_time": 1716127342,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156431,
+        "num": 156431,
+        "word": "王骁 三十岁选择到华尔街闯一闯",
+        "onboard_time": 1716119238,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140346,
+        "num": 140346,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1716124400,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140250,
+        "num": 140250,
+        "word": "BLG可惜",
+        "onboard_time": 1716125661,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129863,
+        "num": 129863,
+        "word": "GEN对战BLG",
+        "onboard_time": 1716108619,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126268,
+        "num": 126268,
+        "word": "总要去一趟南昌吧",
+        "onboard_time": 1716131181,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121508,
+        "num": 121508,
+        "word": "今年能吃到荔枝就不错了",
+        "onboard_time": 1716102857,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119612,
+        "num": 119612,
+        "word": "为什么建议你夏天吃点樱桃",
+        "onboard_time": 1716121518,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 118278,
+        "num": 118278,
+        "word": "F1伊莫拉站维斯塔潘冠军",
+        "onboard_time": 1716131840,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#古老文物活起来现代生活精彩不断#"
+    }
+  }
+}
