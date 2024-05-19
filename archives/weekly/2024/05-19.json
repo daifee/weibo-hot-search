@@ -1,7 +1,15 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716075327772,
+  "endTime": 1716081733146,
   "band_list": [
+    {
+      "raw_hot": 1207245,
+      "num": 1207245,
+      "word": "郭碧婷直播关美颜",
+      "onboard_time": 1716074474,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 865357,
       "num": 865357,
@@ -9,6 +17,22 @@
       "onboard_time": 1716037820,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 832265,
+      "num": 416853,
+      "word": "三胞胎兄弟居然有胎内记忆",
+      "onboard_time": 1716044360,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 767384,
+      "num": 767384,
+      "word": "12306回应高铁买靠窗座位没有窗",
+      "onboard_time": 1716075255,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 757230,
@@ -27,11 +51,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 621201,
-      "num": 416853,
-      "word": "三胞胎兄弟居然有胎内记忆",
-      "onboard_time": 1716044360,
-      "rank": 21,
+      "raw_hot": 600659,
+      "num": 600659,
+      "word": "大同地震",
+      "onboard_time": 1716074415,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -51,20 +75,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471517,
-      "num": 471517,
-      "word": "郭碧婷直播关美颜",
-      "onboard_time": 1716074474,
-      "rank": 0,
+      "raw_hot": 583189,
+      "num": 340796,
+      "word": "长期戴眼镜会让眼睛变凸吗",
+      "onboard_time": 1716075255,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 504701,
+      "num": 504701,
+      "word": "刘宪华5年后重返综艺",
+      "onboard_time": 1716078135,
+      "rank": 4,
       "category": "综艺"
     },
     {
-      "raw_hot": 468115,
-      "num": 468115,
-      "word": "大同地震",
-      "onboard_time": 1716074415,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 444382,
+      "num": 373048,
+      "word": "苗苗染红发",
+      "onboard_time": 1716080298,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 441685,
@@ -115,6 +147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378033,
+      "num": 378033,
+      "word": "今年520521刚好是1314",
+      "onboard_time": 1716077655,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 367776,
+      "num": 367776,
+      "word": "官方通报失联女老师遗体被找到",
+      "onboard_time": 1716075255,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360769,
       "num": 360769,
       "word": "毛晓彤庆余年2奶凶奶凶的",
@@ -155,12 +203,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307061,
+      "num": 307061,
+      "word": "亚当歌手选曲",
+      "onboard_time": 1716080116,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279539,
+      "num": 279539,
+      "word": "北京震感",
+      "onboard_time": 1716074834,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278948,
       "num": 178044,
       "word": "中年人的婚外情为何不会通往离婚",
       "onboard_time": 1716042201,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278488,
+      "num": 278488,
+      "word": "男子被蜱虫咬几天后做足疗时发现",
+      "onboard_time": 1716042140,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277066,
+      "num": 212449,
+      "word": "散步是一种最被低估的运动",
+      "onboard_time": 1716051675,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 273254,
@@ -196,19 +276,27 @@
     },
     {
       "raw_hot": 243596,
-      "num": 211914,
+      "num": 223884,
       "word": "三皇子 年轻人觉多",
       "onboard_time": 1716051436,
       "rank": 11,
       "category": "剧集"
     },
     {
-      "raw_hot": 226172,
-      "num": 122663,
-      "word": "散步是一种最被低估的运动",
-      "onboard_time": 1716051675,
-      "rank": 30,
-      "category": "运动健身"
+      "raw_hot": 242137,
+      "num": 242137,
+      "word": "汪苏泷 吃饱饭继续奋斗",
+      "onboard_time": 1716077057,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231974,
+      "num": 231974,
+      "word": "北京打雷",
+      "onboard_time": 1716077296,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221012,
@@ -227,11 +315,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215773,
+      "num": 156479,
+      "word": "BLG回应Elk身体不适",
+      "onboard_time": 1716077715,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208761,
       "num": 208761,
       "word": "95后亿万富豪被罚1.33亿元",
       "onboard_time": 1716036198,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205265,
+      "num": 205265,
+      "word": "交警路边查戴头盔遇老外直接放行",
+      "onboard_time": 1716079757,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -291,12 +395,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180052,
+      "num": 180052,
+      "word": "男子挪车时开走路边同款宝马",
+      "onboard_time": 1716077896,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176961,
+      "num": 176961,
+      "word": "东京食尸鬼 那个夏天回来了",
+      "onboard_time": 1716078556,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 174994,
       "num": 174994,
       "word": "周深蓝发",
       "onboard_time": 1716046577,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173150,
+      "num": 173150,
+      "word": "庆余年作者谈原著改编影视剧",
+      "onboard_time": 1716075195,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 168586,
@@ -339,20 +467,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157252,
+      "num": 157252,
+      "word": "种地吧第二届麦田音乐会",
+      "onboard_time": 1716074415,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155591,
       "num": 155591,
       "word": "BLG战胜T1",
       "onboard_time": 1716038059,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152159,
-      "num": 152159,
-      "word": "男子被蜱虫咬几天后做足疗时发现",
-      "onboard_time": 1716042140,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150913,
@@ -379,11 +507,51 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150015,
+      "num": 150015,
+      "word": "深圳住房公积金贷款利率下调",
+      "onboard_time": 1716079155,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149739,
+      "num": 149739,
+      "word": "为什么大家越来越爱看丑猫",
+      "onboard_time": 1716078677,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 148158,
+      "num": 148158,
+      "word": "南宁暴雨",
+      "onboard_time": 1716080538,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146573,
+      "num": 146573,
+      "word": "我的阿勒泰",
+      "onboard_time": 1716079037,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145053,
       "num": 145053,
       "word": "十个勤天真把我们当自己人",
       "onboard_time": 1716043759,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145008,
+      "num": 145008,
+      "word": "马嘉祺 歌手编外",
+      "onboard_time": 1716075014,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -395,6 +563,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141932,
+      "num": 141932,
+      "word": "6样护肤品没必要别买贵的",
+      "onboard_time": 1716079998,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 137776,
+      "num": 137776,
+      "word": "当整个宿舍明天要出去玩时",
+      "onboard_time": 1716078737,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136100,
       "num": 136100,
       "word": "范闲骂得声音好大好超前",
@@ -403,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135175,
-      "num": 135175,
-      "word": "种地吧第二届麦田音乐会",
-      "onboard_time": 1716074415,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 134718,
+      "num": 134718,
+      "word": "年轻人需要自己的多巴胺搭子",
+      "onboard_time": 1716078677,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 133336,
@@ -427,12 +611,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129834,
-      "num": 129834,
-      "word": "北京震感",
-      "onboard_time": 1716074834,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 126479,
+      "num": 126479,
+      "word": "十年开一次的帝王凤梨开花了",
+      "onboard_time": 1716081138,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 125010,
@@ -449,6 +633,14 @@
       "onboard_time": 1716045018,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120881,
+      "num": 120881,
+      "word": "谢帝又被diss了",
+      "onboard_time": 1716081316,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 115852,
@@ -475,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111116,
+      "num": 111116,
+      "word": "蔡依林唱了听说爱情回来过",
+      "onboard_time": 1716076394,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110112,
       "num": 110112,
       "word": "王星越中插代表作第一人",
@@ -491,6 +691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108479,
+      "num": 108479,
+      "word": "NBA",
+      "onboard_time": 1716081376,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105964,
       "num": 105964,
       "word": "持修 血肉",
@@ -499,12 +707,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99849,
+      "num": 99849,
+      "word": "雷霆vs独行侠",
+      "onboard_time": 1716079876,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99299,
       "num": 99299,
       "word": "歌手2024鉴音团",
       "onboard_time": 1716051315,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98821,
+      "num": 98821,
+      "word": "许嵩合肥演唱会的嘉宾是无人机",
+      "onboard_time": 1716078496,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 97321,
@@ -521,22 +745,6 @@
       "onboard_time": 1716048557,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81323,
-      "num": 81323,
-      "word": "长期戴眼镜会让眼睛变凸吗",
-      "onboard_time": 1716075255,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 77661,
-      "num": 77661,
-      "word": "庆余年作者谈原著改编影视剧",
-      "onboard_time": 1716075195,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 75911,
@@ -627,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47448,
-      "num": 47448,
-      "word": "12306回应高铁买靠窗座位没有窗",
-      "onboard_time": 1716075255,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47124,
       "num": 389477,
       "word": "5000年前老祖宗就拿捏了粘土特效",
@@ -643,12 +843,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46445,
-      "num": 46445,
-      "word": "马嘉祺 歌手编外",
-      "onboard_time": 1716075014,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 46454,
+      "num": 173413,
+      "word": "鲜奶的免疫秘密是什么",
+      "onboard_time": 1716080897,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 45301,
@@ -667,12 +867,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42643,
-      "num": 42643,
-      "word": "官方通报失联女老师遗体被找到",
-      "onboard_time": 1716075255,
-      "rank": 47,
+      "raw_hot": 43710,
+      "num": 670486,
+      "word": "首届全国职工马拉松",
+      "onboard_time": 1716040339,
+      "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43487,
+      "num": 342603,
+      "word": "你的旅行心愿是什么",
+      "onboard_time": 1716079637,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 41128,
@@ -681,6 +889,14 @@
       "onboard_time": 1716074415,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 35326,
+      "num": 107285,
+      "word": "导盲犬从不说不给予无限自由",
+      "onboard_time": 1716079397,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33240,
@@ -697,14 +913,6 @@
       "onboard_time": 1716068651,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30931,
-      "num": 466500,
-      "word": "首届全国职工马拉松",
-      "onboard_time": 1716040339,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26085,
