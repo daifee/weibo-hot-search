@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716154470026,
+  "endTime": 1716157160498,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -3051,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85010,
+      "num": 85010,
+      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
+      "onboard_time": 1716140712,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84473,
       "num": 406151,
       "word": "AAB是四川美食的接头暗号",
@@ -3073,14 +3081,6 @@
       "onboard_time": 1716116537,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80591,
-      "num": 60341,
-      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
-      "onboard_time": 1716140712,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 79543,
@@ -3209,6 +3209,14 @@
       "onboard_time": 1716072372,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66652,
+      "num": 66652,
+      "word": "吴艳妮母亲回应女儿再次夺冠",
+      "onboard_time": 1716155891,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 66257,
@@ -3387,6 +3395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32783,
+      "num": 32783,
+      "word": "张艺兴亮相戛纳红毯",
+      "onboard_time": 1716140233,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32664,
       "num": 34784,
       "word": "林更新与学妹合照",
@@ -3403,12 +3419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29912,
-      "num": 32550,
-      "word": "张艺兴亮相戛纳红毯",
-      "onboard_time": 1716140233,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 30100,
+      "num": 30100,
+      "word": "汪苏泷2024十万伏特巡回演唱会",
+      "onboard_time": 1716153850,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 29665,
@@ -3467,12 +3483,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21064,
-      "num": 20471,
+      "raw_hot": 23445,
+      "num": 23445,
       "word": "小狗偷吃被流浪猫追着打",
       "onboard_time": 1716150191,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 21783,
+      "num": 21783,
+      "word": "减肥必备的万能减脂餐",
+      "onboard_time": 1716152050,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 21410,
+      "num": 21410,
+      "word": "塑料椅中间圆圆的洞是什么作用",
+      "onboard_time": 1716156611,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 19555,
@@ -3491,14 +3523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19175,
-      "num": 19175,
-      "word": "汪苏泷2024十万伏特巡回演唱会",
-      "onboard_time": 1716153850,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 17985,
       "num": 80938,
       "word": "豹警官减肥2个月瘦不了一点",
@@ -3513,14 +3537,6 @@
       "onboard_time": 1716034818,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 15631,
-      "num": 17138,
-      "word": "减肥必备的万能减脂餐",
-      "onboard_time": 1716152050,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 15305,
@@ -3540,7 +3556,7 @@
     },
     {
       "raw_hot": 12115,
-      "num": 47027,
+      "num": 66969,
       "word": "父亲怕41岁女儿迷路手绘回家地图",
       "onboard_time": 1716142813,
       "rank": 32,
