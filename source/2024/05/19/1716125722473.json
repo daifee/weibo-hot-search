@@ -1,0 +1,410 @@
+{
+  "runTime": 1716125722473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15346908,
+        "num": 15346908,
+        "word": "警方通报胖猫与谭某经济往来情况",
+        "onboard_time": 1716123377,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2550234,
+        "num": 2550234,
+        "word": "GEN夺冠",
+        "onboard_time": 1716123739,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56448,
+        "num": 1548050,
+        "word": "当代年轻人花式旅游图鉴",
+        "onboard_time": 1716107418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846918,
+        "num": 846918,
+        "word": "突然发现六月只要上19天班",
+        "onboard_time": 1716110058,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 800467,
+        "num": 800467,
+        "word": "GEN对战BLG",
+        "onboard_time": 1716108619,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 709405,
+        "num": 709405,
+        "word": "偷家",
+        "onboard_time": 1716124340,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 526364,
+        "num": 526364,
+        "word": "网红130万整形嘴弯眼斜",
+        "onboard_time": 1716120976,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 490982,
+        "num": 490982,
+        "word": "王骁 三十岁选择到华尔街闯一闯",
+        "onboard_time": 1716119238,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484211,
+        "num": 484211,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1716124400,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51745,
+        "num": 457775,
+        "word": "聋哑夫妻直播带货年入过百万",
+        "onboard_time": 1716124821,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662176,
+        "num": 456892,
+        "word": "朴志效说队内都是商业关系",
+        "onboard_time": 1716123558,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574819,
+        "num": 455363,
+        "word": "日本女子挺9个月孕肚为老公准备30天量晚饭",
+        "onboard_time": 1716122657,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446828,
+        "num": 446828,
+        "word": "庆余年2",
+        "onboard_time": 1716121335,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426481,
+        "num": 426481,
+        "word": "陈丽君急性肠胃炎晕倒",
+        "onboard_time": 1716115217,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 374414,
+        "num": 374414,
+        "word": "连云港鬼秤事件5人被行拘",
+        "onboard_time": 1716115757,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352359,
+        "num": 352359,
+        "word": "BLG可惜",
+        "onboard_time": 1716125661,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 350478,
+        "num": 350478,
+        "word": "王俊凯出发蔡依林演唱会彩排",
+        "onboard_time": 1716102498,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 314286,
+        "num": 314286,
+        "word": "辽宁1辆120被撞翻多人甩出车外",
+        "onboard_time": 1716120197,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294406,
+        "num": 294406,
+        "word": "虐泉五杀",
+        "onboard_time": 1716116958,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 284059,
+        "num": 284059,
+        "word": "BLG零封GEN一周年",
+        "onboard_time": 1716110597,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114720,
+        "num": 283971,
+        "word": "奥运场上的满级小孩哥",
+        "onboard_time": 1716124881,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1135318,
+        "num": 283970,
+        "word": "茶百道",
+        "onboard_time": 1716125240,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 619472,
+        "num": 283968,
+        "word": "BLG能不能让二追三",
+        "onboard_time": 1716118276,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 283962,
+        "num": 283962,
+        "word": "你好星期六 TFBOYS",
+        "onboard_time": 1716101716,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265508,
+        "num": 265508,
+        "word": "黑神话悟空",
+        "onboard_time": 1716122058,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252656,
+        "num": 252656,
+        "word": "10元网红咖啡大姨忙的要碎掉了",
+        "onboard_time": 1716114437,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247795,
+        "num": 247795,
+        "word": "空ban",
+        "onboard_time": 1716117738,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241164,
+        "num": 241164,
+        "word": "为什么建议你夏天吃点樱桃",
+        "onboard_time": 1716121518,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 63950,
+        "num": 230910,
+        "word": "何同学飞上万公里取快递",
+        "onboard_time": 1716123077,
+        "rank": 28,
+        "category": "汽车,数码"
+      },
+      {
+        "raw_hot": 225850,
+        "num": 225850,
+        "word": "今年能吃到荔枝就不错了",
+        "onboard_time": 1716102857,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 255122,
+        "num": 223408,
+        "word": "黄家驹墓碑遗照被砸坏",
+        "onboard_time": 1716103878,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216222,
+        "num": 216222,
+        "word": "载有伊朗总统的直升机硬着陆",
+        "onboard_time": 1716125602,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 202722,
+        "num": 202722,
+        "word": "六公主报道赵露思",
+        "onboard_time": 1716122657,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199856,
+        "num": 199856,
+        "word": "白鹿说少骂点姚译添吧",
+        "onboard_time": 1716122358,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192114,
+        "num": 192114,
+        "word": "canyon大满贯",
+        "onboard_time": 1716125299,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191579,
+        "num": 191579,
+        "word": "央视网采访Bin",
+        "onboard_time": 1716124282,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188917,
+        "num": 188917,
+        "word": "外国人难以理解的韩国特有文化",
+        "onboard_time": 1716124522,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183388,
+        "num": 183388,
+        "word": "范闲的腰",
+        "onboard_time": 1716115816,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173912,
+        "num": 173912,
+        "word": "黑神话悟空定价公布",
+        "onboard_time": 1716122898,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170779,
+        "num": 170779,
+        "word": "汪苏泷谈参加歌手竞演收获",
+        "onboard_time": 1716115637,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170201,
+        "num": 170201,
+        "word": "原来小猫是这样挖鼻孔的",
+        "onboard_time": 1716121458,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146166,
+        "num": 146166,
+        "word": "凤凰花开的路口",
+        "onboard_time": 1716124522,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 135678,
+        "num": 135678,
+        "word": "男子被狗划伤后因狂犬病去世",
+        "onboard_time": 1716116298,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133138,
+        "num": 133138,
+        "word": "南京手冲咖啡阿姨主业是卖甘蔗汁",
+        "onboard_time": 1716122117,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 132242,
+        "num": 132242,
+        "word": "BLG节奏",
+        "onboard_time": 1716113956,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123270,
+        "num": 123270,
+        "word": "王一博到达桂林",
+        "onboard_time": 1716118758,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121422,
+        "num": 121422,
+        "word": "王俊凯柠檬草的味道彩排",
+        "onboard_time": 1716108378,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116757,
+        "num": 116757,
+        "word": "孟子义上学时被拉到女厕所打头",
+        "onboard_time": 1716105438,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115935,
+        "num": 115935,
+        "word": "乌军王牌飞行员阵亡",
+        "onboard_time": 1716119836,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 114783,
+        "num": 114783,
+        "word": "黄家强",
+        "onboard_time": 1716120197,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#要督促落实全面从严治党责任#"
+    }
+  }
+}
