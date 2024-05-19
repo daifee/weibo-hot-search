@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716113866572,
+  "endTime": 1716114841327,
   "band_list": [
     {
       "raw_hot": 1987575,
@@ -43,6 +43,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1320135,
+      "num": 1320135,
+      "word": "黄贯中",
+      "onboard_time": 1716111137,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1207245,
       "num": 1207245,
       "word": "郭碧婷直播关美颜",
@@ -67,28 +75,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1052601,
+      "num": 229533,
+      "word": "突然发现六月只要上19天班",
+      "onboard_time": 1716110058,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1051172,
       "num": 1051172,
       "word": "专家称要支持60至70岁老年人再就业需求",
       "onboard_time": 1716098717,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 992381,
-      "num": 992381,
-      "word": "黄贯中",
-      "onboard_time": 1716111137,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 966637,
-      "num": 229533,
-      "word": "突然发现六月只要上19天班",
-      "onboard_time": 1716110058,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 865357,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737034,
+      "num": 737034,
+      "word": "印度男子与亡妻妹妹结婚被捕后身亡",
+      "onboard_time": 1716111317,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727970,
       "num": 727970,
       "word": "南京官方通报网友举报鬼秤被摔手机",
@@ -243,14 +251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 640341,
-      "num": 426963,
-      "word": "印度男子与亡妻妹妹结婚被捕后身亡",
-      "onboard_time": 1716111317,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 630731,
       "num": 418674,
       "word": "胖猫事件不予立案",
@@ -305,6 +305,14 @@
       "onboard_time": 1716105017,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 566302,
+      "num": 566302,
+      "word": "xun在干嘛",
+      "onboard_time": 1716113237,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 560601,
@@ -403,19 +411,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 457637,
-      "num": 457637,
-      "word": "xun在干嘛",
-      "onboard_time": 1716113237,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 455193,
       "num": 202446,
       "word": "年轻人结婚不买钻戒了",
       "onboard_time": 1716096137,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 447772,
+      "num": 447772,
+      "word": "为什么我们很少见到盲人",
+      "onboard_time": 1716109996,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -465,14 +473,6 @@
       "onboard_time": 1716039259,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 414780,
-      "num": 414780,
-      "word": "为什么我们很少见到盲人",
-      "onboard_time": 1716109996,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 414173,
@@ -659,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326924,
+      "num": 215077,
+      "word": "为了买房半年和对象存了5万",
+      "onboard_time": 1716112517,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 324055,
       "num": 324055,
       "word": "中央气象台升级发布暴雨橙色预警",
@@ -723,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285250,
-      "num": 215077,
-      "word": "为了买房半年和对象存了5万",
-      "onboard_time": 1716112517,
-      "rank": 23,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 284129,
       "num": 284129,
       "word": "陆虎十多年乙方没白当",
@@ -745,6 +745,14 @@
       "onboard_time": 1716093436,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280248,
+      "num": 280248,
+      "word": "死歌太夸张了",
+      "onboard_time": 1716114137,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 279561,
@@ -1235,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167977,
+      "num": 167977,
+      "word": "阚清子10分钟度假妆",
+      "onboard_time": 1716111317,
+      "rank": 36,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 167857,
       "num": 167857,
       "word": "李宇春红色流苏短裙",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1716106397,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158321,
+      "num": 158321,
+      "word": "ZICO和Jennie合作曲再获人歌一位",
+      "onboard_time": 1716114377,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 158135,
@@ -1419,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147462,
-      "num": 147462,
-      "word": "阚清子10分钟度假妆",
-      "onboard_time": 1716111317,
-      "rank": 36,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 147341,
       "num": 147341,
       "word": "下半场的欧文",
@@ -1515,6 +1531,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 141434,
+      "num": 141434,
+      "word": "冰淇淋和雪糕的区别居然是空气",
+      "onboard_time": 1716111017,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 140307,
+      "num": 140307,
+      "word": "英国年度最性感男人",
+      "onboard_time": 1716114555,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139802,
       "num": 139802,
       "word": "戛纳街头偶遇钟楚曦侯雯元",
@@ -1547,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136861,
+      "num": 136861,
+      "word": "BLG节奏",
+      "onboard_time": 1716113956,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136100,
       "num": 136100,
       "word": "范闲骂得声音好大好超前",
@@ -1571,14 +1611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134583,
-      "num": 134583,
-      "word": "冰淇淋和雪糕的区别居然是空气",
-      "onboard_time": 1716111017,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 134435,
       "num": 134435,
       "word": "徐明浩大喇喊话不要插队",
@@ -1593,6 +1625,14 @@
       "onboard_time": 1716048199,
       "rank": 29,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 132342,
+      "num": 132342,
+      "word": "10元网红咖啡大姨忙的要碎掉了",
+      "onboard_time": 1716114437,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131877,
@@ -1737,6 +1777,14 @@
       "onboard_time": 1716111558,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119681,
+      "num": 119681,
+      "word": "起码还有我王启年",
+      "onboard_time": 1716114555,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 119387,
@@ -2025,6 +2073,14 @@
       "onboard_time": 1716107418,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103202,
+      "num": 103202,
+      "word": "白袋鼠",
+      "onboard_time": 1716114737,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 102609,

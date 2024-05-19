@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716113866572,
+  "endTime": 1716114841327,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2259,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1320135,
+      "num": 1320135,
+      "word": "黄贯中",
+      "onboard_time": 1716111137,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1315511,
       "num": 589397,
       "word": "南通",
@@ -3707,6 +3715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1052601,
+      "num": 229533,
+      "word": "突然发现六月只要上19天班",
+      "onboard_time": 1716110058,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1051172,
       "num": 1051172,
       "word": "专家称要支持60至70岁老年人再就业需求",
@@ -4019,14 +4035,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 992381,
-      "num": 992381,
-      "word": "黄贯中",
-      "onboard_time": 1716111137,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 992296,
       "num": 992296,
       "word": "李娟",
@@ -4161,14 +4169,6 @@
       "onboard_time": 1715428878,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 966637,
-      "num": 229533,
-      "word": "突然发现六月只要上19天班",
-      "onboard_time": 1716110058,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 963974,
@@ -6571,6 +6571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 737034,
+      "num": 737034,
+      "word": "印度男子与亡妻妹妹结婚被捕后身亡",
+      "onboard_time": 1716111317,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 736769,
       "num": 370359,
       "word": "新款iPad也不附赠充电器了",
@@ -8283,14 +8291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 640341,
-      "num": 426963,
-      "word": "印度男子与亡妻妹妹结婚被捕后身亡",
-      "onboard_time": 1716111317,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 639815,
       "num": 559962,
       "word": "IVE能不能把中国结摘下来",
@@ -9753,6 +9753,14 @@
       "onboard_time": 1715699238,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566302,
+      "num": 566302,
+      "word": "xun在干嘛",
+      "onboard_time": 1716113237,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 566294,
@@ -12763,14 +12771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 457637,
-      "num": 457637,
-      "word": "xun在干嘛",
-      "onboard_time": 1716113237,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 457595,
       "num": 457595,
       "word": "小米SU7交付量破万创纪录",
@@ -13065,6 +13065,14 @@
       "onboard_time": 1715580918,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447772,
+      "num": 447772,
+      "word": "为什么我们很少见到盲人",
+      "onboard_time": 1716109996,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 447641,
@@ -14304,14 +14312,6 @@
       "word": "年轻人流行辞职去种地",
       "onboard_time": 1715050338,
       "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 414780,
-      "num": 414780,
-      "word": "为什么我们很少见到盲人",
-      "onboard_time": 1716109996,
-      "rank": 37,
       "category": "情感"
     },
     {
@@ -18227,6 +18227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326924,
+      "num": 215077,
+      "word": "为了买房半年和对象存了5万",
+      "onboard_time": 1716112517,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 326572,
       "num": 326572,
       "word": "ZICO和Jennie合作曲初一位",
@@ -20211,14 +20219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285250,
-      "num": 215077,
-      "word": "为了买房半年和对象存了5万",
-      "onboard_time": 1716112517,
-      "rank": 23,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 285241,
       "num": 285241,
       "word": "中等生为什么成绩上不去",
@@ -20657,6 +20657,14 @@
       "onboard_time": 1715526981,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 280248,
+      "num": 280248,
+      "word": "死歌太夸张了",
+      "onboard_time": 1716114137,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 279981,
@@ -35699,6 +35707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 167977,
+      "num": 167977,
+      "word": "阚清子10分钟度假妆",
+      "onboard_time": 1716111317,
+      "rank": 36,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 167943,
       "num": 167943,
       "word": "今天有好多电影上映",
@@ -37529,6 +37545,14 @@
       "onboard_time": 1714534878,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 158321,
+      "num": 158321,
+      "word": "ZICO和Jennie合作曲再获人歌一位",
+      "onboard_time": 1716114377,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 158320,
@@ -39715,14 +39739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 147462,
-      "num": 147462,
-      "word": "阚清子10分钟度假妆",
-      "onboard_time": 1716111317,
-      "rank": 36,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 147435,
       "num": 126807,
       "word": "戚薇蔡文静给你的自由过了火",
@@ -40947,6 +40963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141434,
+      "num": 141434,
+      "word": "冰淇淋和雪糕的区别居然是空气",
+      "onboard_time": 1716111017,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141433,
       "num": 141433,
       "word": "i人不露脸的拍照姿势",
@@ -41161,6 +41185,14 @@
       "onboard_time": 1714900760,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140307,
+      "num": 140307,
+      "word": "英国年度最性感男人",
+      "onboard_time": 1716114555,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140304,
@@ -41843,6 +41875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136861,
+      "num": 136861,
+      "word": "BLG节奏",
+      "onboard_time": 1716113956,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136851,
       "num": 136851,
       "word": "加满一箱油将省9元",
@@ -42339,14 +42379,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 134583,
-      "num": 134583,
-      "word": "冰淇淋和雪糕的区别居然是空气",
-      "onboard_time": 1716111017,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 134447,
       "num": 134447,
       "word": "五一文案",
@@ -42825,6 +42857,14 @@
       "onboard_time": 1715600119,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132342,
+      "num": 132342,
+      "word": "10元网红咖啡大姨忙的要碎掉了",
+      "onboard_time": 1716114437,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132307,
@@ -45081,6 +45121,14 @@
       "onboard_time": 1715766498,
       "rank": 40,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 119681,
+      "num": 119681,
+      "word": "起码还有我王启年",
+      "onboard_time": 1716114555,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 119667,
@@ -47625,6 +47673,14 @@
       "onboard_time": 1716107418,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103202,
+      "num": 103202,
+      "word": "白袋鼠",
+      "onboard_time": 1716114737,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 103153,
