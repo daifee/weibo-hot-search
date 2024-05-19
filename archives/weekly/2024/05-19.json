@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716136642018,
+  "endTime": 1716138984428,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -748,7 +748,7 @@
     },
     {
       "raw_hot": 408250,
-      "num": 269445,
+      "num": 281510,
       "word": "戴珍珠耳环的少女 意外的颜料",
       "onboard_time": 1716129501,
       "rank": 31,
@@ -833,6 +833,22 @@
       "onboard_time": 1716086417,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373334,
+      "num": 373334,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1716136697,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 371575,
+      "num": 371575,
+      "word": "曼城vs西汉姆联",
+      "onboard_time": 1716129321,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 369450,
@@ -1275,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242134,
+      "num": 242134,
+      "word": "王俊凯蔡依林五年后再唱心引力",
+      "onboard_time": 1716133279,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 241164,
       "num": 403998,
       "word": "为什么建议你夏天吃点樱桃",
@@ -1329,14 +1353,6 @@
       "onboard_time": 1716100158,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 222863,
-      "num": 213807,
-      "word": "王俊凯蔡依林五年后再唱心引力",
-      "onboard_time": 1716133279,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 221012,
@@ -1409,6 +1425,14 @@
       "onboard_time": 1716036198,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207081,
+      "num": 207081,
+      "word": "阿森纳vs埃弗顿",
+      "onboard_time": 1716131301,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 205994,
@@ -1595,14 +1619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196598,
-      "num": 196598,
-      "word": "阿森纳vs埃弗顿",
-      "onboard_time": 1716131301,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195776,
       "num": 195776,
       "word": "阿信talking",
@@ -1697,14 +1713,6 @@
       "onboard_time": 1716112817,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190590,
-      "num": 190590,
-      "word": "曼城vs西汉姆联",
-      "onboard_time": 1716129321,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 190284,
@@ -3139,6 +3147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69420,
+      "num": 69420,
+      "word": "薛之谦 总有条船不远万里",
+      "onboard_time": 1716137836,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 68793,
       "num": 944395,
       "word": "行走美丽中国",
@@ -3355,8 +3371,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28814,
-      "num": 241041,
+      "raw_hot": 29665,
+      "num": 282263,
       "word": "这是更适合中国宝宝体质的女团",
       "onboard_time": 1716135496,
       "rank": 37,

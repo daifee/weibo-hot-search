@@ -1,0 +1,410 @@
+{
+  "runTime": 1716138984428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2147324,
+        "num": 2147324,
+        "word": "警方通报胖猫与谭某经济往来情况",
+        "onboard_time": 1716123377,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 770986,
+        "num": 770986,
+        "word": "载有伊朗总统的直升机硬着陆",
+        "onboard_time": 1716125602,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38441,
+        "num": 460328,
+        "word": "收到暴雨预警后应该怎么做",
+        "onboard_time": 1716127523,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929346,
+        "num": 440123,
+        "word": "胖猫通报里的三个关键点",
+        "onboard_time": 1716126141,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 411036,
+        "num": 411036,
+        "word": "庆余年2第九集封神",
+        "onboard_time": 1716130881,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373334,
+        "num": 373334,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1716136697,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371575,
+        "num": 371575,
+        "word": "曼城vs西汉姆联",
+        "onboard_time": 1716129321,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325969,
+        "num": 325969,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1716131361,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285151,
+        "num": 285151,
+        "word": "突然发现六月只要上19天班",
+        "onboard_time": 1716110058,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29665,
+        "num": 282263,
+        "word": "这是更适合中国宝宝体质的女团",
+        "onboard_time": 1716135496,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248743,
+        "num": 281907,
+        "word": "胖猫姐姐刘某操控舆论",
+        "onboard_time": 1716129921,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 281510,
+        "num": 281510,
+        "word": "戴珍珠耳环的少女 意外的颜料",
+        "onboard_time": 1716129501,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 272433,
+        "num": 272433,
+        "word": "五年了 还得是张若昀",
+        "onboard_time": 1716132500,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242134,
+        "num": 242134,
+        "word": "王俊凯蔡依林五年后再唱心引力",
+        "onboard_time": 1716133279,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234048,
+        "num": 234048,
+        "word": "日本女子挺9个月孕肚为老公准备30天量晚饭",
+        "onboard_time": 1716122657,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207081,
+        "num": 207081,
+        "word": "阿森纳vs埃弗顿",
+        "onboard_time": 1716131301,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185035,
+        "num": 185035,
+        "word": "许凯 金刚芭比",
+        "onboard_time": 1716134238,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162000,
+        "num": 162000,
+        "word": "朴志效说队内都是商业关系",
+        "onboard_time": 1716123558,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179585,
+        "num": 151167,
+        "word": "蔡依林问王俊凯的理想型",
+        "onboard_time": 1716129802,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137951,
+        "num": 137951,
+        "word": "GEN夺冠",
+        "onboard_time": 1716123739,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 661694,
+        "num": 136452,
+        "word": "谭某未以恋爱为名骗取胖猫财物",
+        "onboard_time": 1716129142,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 550729,
+        "num": 135604,
+        "word": "警方通报胖猫事件",
+        "onboard_time": 1716129862,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 387675,
+        "num": 133604,
+        "word": "比流量更重要的是真相",
+        "onboard_time": 1716130640,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 143476,
+        "num": 132783,
+        "word": "王俊凯蔡依林同台",
+        "onboard_time": 1716126261,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131483,
+        "num": 131483,
+        "word": "白桃星座",
+        "onboard_time": 1716131540,
+        "rank": 24,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 108048,
+        "num": 108048,
+        "word": "英超",
+        "onboard_time": 1716131422,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106034,
+        "num": 106034,
+        "word": "蒲熠星南大",
+        "onboard_time": 1716129441,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102343,
+        "num": 102343,
+        "word": "减肥期间正确称体重的方法",
+        "onboard_time": 1716134897,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 100863,
+        "num": 100863,
+        "word": "Bin说MSI不是结尾",
+        "onboard_time": 1716131062,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99011,
+        "num": 99011,
+        "word": "龚俊首次执导女主是麦迪娜",
+        "onboard_time": 1716126743,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95486,
+        "num": 95486,
+        "word": "奔跑吧全员现身周深演唱会",
+        "onboard_time": 1716126981,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83674,
+        "num": 83674,
+        "word": "考研失败却过上更好的生活",
+        "onboard_time": 1716126202,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80250,
+        "num": 80250,
+        "word": "外媒评关晓彤戛纳最佳造型",
+        "onboard_time": 1716128602,
+        "rank": 32,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 79242,
+        "num": 79242,
+        "word": "你好星期六 TFBOYS",
+        "onboard_time": 1716101716,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79063,
+        "num": 79063,
+        "word": "英雄联盟名人堂",
+        "onboard_time": 1716134358,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77119,
+        "num": 77119,
+        "word": "网红130万整形嘴弯眼斜",
+        "onboard_time": 1716120976,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73588,
+        "num": 73588,
+        "word": "言冰云一团冰包裹着的火",
+        "onboard_time": 1716132918,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73314,
+        "num": 73314,
+        "word": "陈丽君急性肠胃炎晕倒",
+        "onboard_time": 1716115217,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72673,
+        "num": 72673,
+        "word": "连云港鬼秤事件5人被行拘",
+        "onboard_time": 1716115757,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71663,
+        "num": 71663,
+        "word": "庆余年2",
+        "onboard_time": 1716121335,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70819,
+        "num": 70819,
+        "word": "什么东西是纯正的垃圾食品",
+        "onboard_time": 1716132200,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 69420,
+        "num": 69420,
+        "word": "薛之谦 总有条船不远万里",
+        "onboard_time": 1716137836,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68498,
+        "num": 68498,
+        "word": "从今以后我就是你的靠山",
+        "onboard_time": 1716134539,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67879,
+        "num": 67879,
+        "word": "BLG可惜",
+        "onboard_time": 1716125661,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66195,
+        "num": 66195,
+        "word": "邓子越演得真好",
+        "onboard_time": 1716127342,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64805,
+        "num": 64805,
+        "word": "五月天嘉宾",
+        "onboard_time": 1716127761,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56747,
+        "num": 64789,
+        "word": "周深演唱会若梦大合唱",
+        "onboard_time": 1716136337,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55836,
+        "num": 64756,
+        "word": "seventeen演唱会",
+        "onboard_time": 1716132019,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53270,
+        "num": 64732,
+        "word": "GEN对战BLG",
+        "onboard_time": 1716108619,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49545,
+        "num": 64721,
+        "word": "王骁 三十岁选择到华尔街闯一闯",
+        "onboard_time": 1716119238,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对旅游工作作出重要指示#"
+    }
+  }
+}

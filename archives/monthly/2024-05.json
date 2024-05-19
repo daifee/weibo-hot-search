@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716136642018,
+  "endTime": 1716138984428,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -14868,7 +14868,7 @@
     },
     {
       "raw_hot": 408250,
-      "num": 269445,
+      "num": 281510,
       "word": "戴珍珠耳环的少女 意外的颜料",
       "onboard_time": 1716129501,
       "rank": 31,
@@ -16307,6 +16307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373334,
+      "num": 373334,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1715265979,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373052,
       "num": 373052,
       "word": "井柏然演技",
@@ -16369,6 +16377,14 @@
       "onboard_time": 1715344521,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 371575,
+      "num": 371575,
+      "word": "曼城vs西汉姆联",
+      "onboard_time": 1716129321,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 371477,
@@ -22683,14 +22699,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 257886,
-      "num": 257886,
-      "word": "狐妖小红娘月红篇",
-      "onboard_time": 1715265979,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 257842,
       "num": 257842,
       "word": "肖战那英唱的心动",
@@ -23977,6 +23985,14 @@
       "onboard_time": 1716077057,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242134,
+      "num": 242134,
+      "word": "王俊凯蔡依林五年后再唱心引力",
+      "onboard_time": 1716133279,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 242074,
@@ -25777,14 +25793,6 @@
       "onboard_time": 1715612240,
       "rank": 17,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 222863,
-      "num": 213807,
-      "word": "王俊凯蔡依林五年后再唱心引力",
-      "onboard_time": 1716133279,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 222808,
@@ -27937,6 +27945,14 @@
       "onboard_time": 1715574442,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 207081,
+      "num": 207081,
+      "word": "阿森纳vs埃弗顿",
+      "onboard_time": 1716131301,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 207069,
@@ -30419,14 +30435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196598,
-      "num": 196598,
-      "word": "阿森纳vs埃弗顿",
-      "onboard_time": 1716131301,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196574,
       "num": 196574,
       "word": "theboyz青岛签售",
@@ -31825,14 +31833,6 @@
       "onboard_time": 1715836039,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 190590,
-      "num": 190590,
-      "word": "曼城vs西汉姆联",
-      "onboard_time": 1716129321,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 190584,
@@ -50795,6 +50795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69420,
+      "num": 69420,
+      "word": "薛之谦 总有条船不远万里",
+      "onboard_time": 1716137836,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 69417,
       "num": 69417,
       "word": "广东139个暴雨预警生效中",
@@ -52971,6 +52979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29665,
+      "num": 282263,
+      "word": "这是更适合中国宝宝体质的女团",
+      "onboard_time": 1716135496,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29540,
       "num": 29540,
       "word": "欧洲德比",
@@ -53009,14 +53025,6 @@
       "onboard_time": 1714859111,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28814,
-      "num": 241041,
-      "word": "这是更适合中国宝宝体质的女团",
-      "onboard_time": 1716135496,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28759,

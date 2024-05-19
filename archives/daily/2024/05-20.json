@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716136642018,
+  "endTime": 1716138984428,
   "band_list": [
     {
       "raw_hot": 6373884,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3071739,
-      "num": 279748,
+      "num": 281907,
       "word": "胖猫姐姐刘某操控舆论",
       "onboard_time": 1716129921,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 408250,
-      "num": 269445,
+      "num": 281510,
       "word": "戴珍珠耳环的少女 意外的颜料",
       "onboard_time": 1716129501,
       "rank": 12,
@@ -105,6 +105,22 @@
       "onboard_time": 1716110058,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 373334,
+      "num": 373334,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1716136697,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 371575,
+      "num": 371575,
+      "word": "曼城vs西汉姆联",
+      "onboard_time": 1716129321,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 317504,
@@ -139,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242134,
+      "num": 242134,
+      "word": "王俊凯蔡依林五年后再唱心引力",
+      "onboard_time": 1716133279,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237651,
       "num": 237651,
       "word": "奔跑吧全员现身周深演唱会",
@@ -155,20 +179,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222863,
-      "num": 213807,
-      "word": "王俊凯蔡依林五年后再唱心引力",
-      "onboard_time": 1716133279,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 207493,
       "num": 207493,
       "word": "GEN夺冠",
       "onboard_time": 1716123739,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 207081,
+      "num": 207081,
+      "word": "阿森纳vs埃弗顿",
+      "onboard_time": 1716131301,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 189670,
@@ -235,14 +259,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 140721,
-      "num": 140721,
-      "word": "阿森纳vs埃弗顿",
-      "onboard_time": 1716131301,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131535,
       "num": 131535,
       "word": "言冰云一团冰包裹着的火",
@@ -283,14 +299,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 126236,
-      "num": 126236,
-      "word": "曼城vs西汉姆联",
-      "onboard_time": 1716129321,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124418,
       "num": 124418,
       "word": "你好星期六 TFBOYS",
@@ -313,6 +321,14 @@
       "onboard_time": 1716134539,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108048,
+      "num": 108048,
+      "word": "英超",
+      "onboard_time": 1716131422,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 102077,
@@ -379,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81332,
-      "num": 92046,
-      "word": "英超",
-      "onboard_time": 1716131422,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79543,
       "num": 120267,
       "word": "利物浦vs狼队",
@@ -403,8 +411,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28814,
-      "num": 241041,
+      "raw_hot": 69420,
+      "num": 69420,
+      "word": "薛之谦 总有条船不远万里",
+      "onboard_time": 1716137836,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 53270,
+      "num": 64732,
+      "word": "GEN对战BLG",
+      "onboard_time": 1716108619,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 29665,
+      "num": 282263,
       "word": "这是更适合中国宝宝体质的女团",
       "onboard_time": 1716135496,
       "rank": 37,
@@ -425,6 +449,9 @@
     },
     {
       "word": "#要督促落实全面从严治党责任#"
+    },
+    {
+      "word": "#习近平对旅游工作作出重要指示#"
     }
   ]
 }
