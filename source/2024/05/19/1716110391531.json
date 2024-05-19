@@ -1,0 +1,410 @@
+{
+  "runTime": 1716110391531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1768584,
+        "num": 1768584,
+        "word": "黄家驹墓碑遗照被砸坏",
+        "onboard_time": 1716103878,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1283369,
+        "num": 1283369,
+        "word": "今年能吃到荔枝就不错了",
+        "onboard_time": 1716102857,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89944,
+        "num": 1077824,
+        "word": "当代年轻人花式旅游图鉴",
+        "onboard_time": 1716107418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892756,
+        "num": 892756,
+        "word": "你好星期六 TFBOYS",
+        "onboard_time": 1716101716,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 703298,
+        "num": 703298,
+        "word": "终于等来了榴莲1斤1字打头",
+        "onboard_time": 1716107477,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 443648,
+        "num": 443648,
+        "word": "吴艳妮12秒80再夺一冠",
+        "onboard_time": 1716105017,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 580924,
+        "num": 440713,
+        "word": "孟子义上学时被拉到女厕所打头",
+        "onboard_time": 1716105438,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427584,
+        "num": 427584,
+        "word": "GEN对战BLG",
+        "onboard_time": 1716108619,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 423626,
+        "num": 423626,
+        "word": "TFBOYS快本首秀要十周年了",
+        "onboard_time": 1716105978,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82056,
+        "num": 415800,
+        "word": "女孩路上捡个快递帮挽回19万损失",
+        "onboard_time": 1716110058,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 408432,
+        "num": 408432,
+        "word": "王俊凯出发蔡依林演唱会彩排",
+        "onboard_time": 1716102498,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 405974,
+        "num": 405974,
+        "word": "专家建议允许个人自愿选择退休年龄",
+        "onboard_time": 1716100458,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387899,
+        "num": 387899,
+        "word": "章昊 未满24岁全款拿下第一杯杨枝甘露",
+        "onboard_time": 1716102197,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373473,
+        "num": 373473,
+        "word": "为什么吃冰淇淋会突然头痛一下",
+        "onboard_time": 1716103578,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 332388,
+        "num": 332388,
+        "word": "林徽因终于拿到了迟到100年的学位证",
+        "onboard_time": 1716102016,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333383,
+        "num": 319202,
+        "word": "王俊凯柠檬草的味道彩排",
+        "onboard_time": 1716108378,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305279,
+        "num": 305279,
+        "word": "郭有才",
+        "onboard_time": 1716107358,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 273748,
+        "num": 273748,
+        "word": "荔枝好贵",
+        "onboard_time": 1716107058,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253693,
+        "num": 253693,
+        "word": "菏泽南站",
+        "onboard_time": 1716107957,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 250831,
+        "num": 250831,
+        "word": "iPhone15官旗降至第三方渠道价",
+        "onboard_time": 1716084616,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263771,
+        "num": 247749,
+        "word": "唐嫣活动生图",
+        "onboard_time": 1716106278,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237305,
+        "num": 237305,
+        "word": "学校回应女教师让学生轮流打同学",
+        "onboard_time": 1716108078,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232187,
+        "num": 232187,
+        "word": "鼠鼠一觉醒来全身酸痛",
+        "onboard_time": 1716109336,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217242,
+        "num": 217242,
+        "word": "长生 菜了就是菜了",
+        "onboard_time": 1716103578,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215199,
+        "num": 215199,
+        "word": "陈丽君抹眉心变妆练了近万遍",
+        "onboard_time": 1716102498,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214274,
+        "num": 214274,
+        "word": "杨紫时尚芭莎封面预告",
+        "onboard_time": 1716109877,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206177,
+        "num": 206177,
+        "word": "汪苏泷有41首百万收藏",
+        "onboard_time": 1716097576,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202092,
+        "num": 202092,
+        "word": "突然发现六月只要上19天班",
+        "onboard_time": 1716110058,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157174,
+        "num": 198161,
+        "word": "中国人民大学首届深圳金融论坛",
+        "onboard_time": 1716106998,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76517,
+        "num": 198095,
+        "word": "1个盲人求助一群志愿者疯狂抢单",
+        "onboard_time": 1716107536,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324373,
+        "num": 198090,
+        "word": "年龄25工龄30",
+        "onboard_time": 1716108318,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198056,
+        "num": 198056,
+        "word": "叶世荣回应黄家驹墓碑被砸",
+        "onboard_time": 1716106038,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197189,
+        "num": 197189,
+        "word": "MSI决赛",
+        "onboard_time": 1716109457,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188397,
+        "num": 188397,
+        "word": "小杨哥解说",
+        "onboard_time": 1716109817,
+        "rank": 33,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 171607,
+        "num": 171607,
+        "word": "张予曦回应网红脸",
+        "onboard_time": 1716100518,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157392,
+        "num": 157392,
+        "word": "长大后更要学会在美妆上省钱",
+        "onboard_time": 1716107897,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139592,
+        "num": 139592,
+        "word": "小狗午睡",
+        "onboard_time": 1716109037,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134633,
+        "num": 134633,
+        "word": "为什么我们很少见到盲人",
+        "onboard_time": 1716109996,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130822,
+        "num": 130822,
+        "word": "易烊千玺小网站更新照片",
+        "onboard_time": 1716104058,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130581,
+        "num": 130581,
+        "word": "庾澄庆晒与儿子合照",
+        "onboard_time": 1716096677,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129433,
+        "num": 129433,
+        "word": "宣传1年的连云港被一个皮皮虾偷家了",
+        "onboard_time": 1716100276,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123898,
+        "num": 123898,
+        "word": "高度近视戴不戴眼镜眼球都会变形",
+        "onboard_time": 1716100817,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114643,
+        "num": 114643,
+        "word": "萨摩耶误入密室逃脱间",
+        "onboard_time": 1716109156,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110303,
+        "num": 110303,
+        "word": "专家称要支持60至70岁老年人再就业需求",
+        "onboard_time": 1716098717,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109732,
+        "num": 109732,
+        "word": "任嘉伦凤凰台上大婚路透",
+        "onboard_time": 1716103578,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106306,
+        "num": 106306,
+        "word": "刘宇宁单侧耳钉",
+        "onboard_time": 1716110299,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102609,
+        "num": 102609,
+        "word": "吉克隽逸诺米合作舞台翻车",
+        "onboard_time": 1716108019,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102264,
+        "num": 102264,
+        "word": "年轻人结婚不买钻戒了",
+        "onboard_time": 1716096137,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100605,
+        "num": 100605,
+        "word": "洲际巡回赛",
+        "onboard_time": 1716109336,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99358,
+        "num": 99358,
+        "word": "白鹿梵高星空蝴蝶裙",
+        "onboard_time": 1716102917,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对旅游工作作出重要指示#"
+    }
+  }
+}
