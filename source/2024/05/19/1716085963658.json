@@ -1,0 +1,410 @@
+{
+  "runTime": 1716085963658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1156864,
+        "num": 1156864,
+        "word": "郭碧婷直播关美颜",
+        "onboard_time": 1716074474,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704146,
+        "num": 704146,
+        "word": "南京官方通报网友举报鬼秤被摔手机",
+        "onboard_time": 1716083117,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39646,
+        "num": 682446,
+        "word": "首届全国职工马拉松",
+        "onboard_time": 1716040339,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675148,
+        "num": 675148,
+        "word": "苗苗染红发",
+        "onboard_time": 1716080298,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631584,
+        "num": 631584,
+        "word": "iPhone15官旗降至第三方渠道价",
+        "onboard_time": 1716084616,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 614355,
+        "num": 614355,
+        "word": "12306回应高铁买靠窗座位没有窗",
+        "onboard_time": 1716075255,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489460,
+        "num": 489460,
+        "word": "亚当歌手选曲",
+        "onboard_time": 1716080116,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453334,
+        "num": 453334,
+        "word": "已发放的公积金贷款明年起执行新利率",
+        "onboard_time": 1716084677,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 417778,
+        "num": 417778,
+        "word": "戛纳晚宴上的张艺兴",
+        "onboard_time": 1716084977,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337931,
+        "num": 337931,
+        "word": "今年520521刚好是1314",
+        "onboard_time": 1716077655,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 515552,
+        "num": 325961,
+        "word": "长期戴眼镜会让眼睛变凸吗",
+        "onboard_time": 1716075255,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 456561,
+        "num": 323656,
+        "word": "三胞胎兄弟居然有胎内记忆",
+        "onboard_time": 1716044360,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395716,
+        "num": 321216,
+        "word": "范闲连崩溃都很体面",
+        "onboard_time": 1716083476,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304230,
+        "num": 304230,
+        "word": "谢帝又被diss了",
+        "onboard_time": 1716081316,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83930,
+        "num": 304060,
+        "word": "00后视障男孩做播客还带了徒弟",
+        "onboard_time": 1716082697,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304048,
+        "num": 304048,
+        "word": "种地吧 仲麟",
+        "onboard_time": 1716083657,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286556,
+        "num": 286556,
+        "word": "警方回应知名主持人被曝私生活混乱",
+        "onboard_time": 1716037820,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275405,
+        "num": 275405,
+        "word": "大同地震",
+        "onboard_time": 1716074415,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245613,
+        "num": 245613,
+        "word": "交警路边查戴头盔遇老外直接放行",
+        "onboard_time": 1716079757,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244436,
+        "num": 244436,
+        "word": "散步是一种最被低估的运动",
+        "onboard_time": 1716051675,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 722112,
+        "num": 236224,
+        "word": "女生一定要远离习惯性无助",
+        "onboard_time": 1716082636,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362733,
+        "num": 231182,
+        "word": "玩手机时到底要不要戴眼镜",
+        "onboard_time": 1716083957,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269913,
+        "num": 228698,
+        "word": "刘宪华5年后重返综艺",
+        "onboard_time": 1716078135,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223665,
+        "num": 223665,
+        "word": "姑娘翻出一堆施华洛世奇后悔没买黄金",
+        "onboard_time": 1716051375,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208087,
+        "num": 208087,
+        "word": "三皇子 年轻人觉多",
+        "onboard_time": 1716051436,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184323,
+        "num": 184323,
+        "word": "老人吃饱喝足后突然倒仰离世",
+        "onboard_time": 1716085817,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169367,
+        "num": 169367,
+        "word": "官方通报失联女老师遗体被找到",
+        "onboard_time": 1716075255,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163589,
+        "num": 163589,
+        "word": "年轻人开始恶补生活技能",
+        "onboard_time": 1716083537,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143069,
+        "num": 161063,
+        "word": "哲学教授说谈恋爱不能太卑微",
+        "onboard_time": 1716083837,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84473,
+        "num": 159908,
+        "word": "AAB是四川美食的接头暗号",
+        "onboard_time": 1716084918,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159733,
+        "num": 159733,
+        "word": "北京震感",
+        "onboard_time": 1716074834,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137021,
+        "num": 137021,
+        "word": "当整个宿舍明天要出去玩时",
+        "onboard_time": 1716078737,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128128,
+        "num": 128128,
+        "word": "马嘉祺 歌手编外",
+        "onboard_time": 1716075014,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125295,
+        "num": 125295,
+        "word": "南宁暴雨",
+        "onboard_time": 1716080538,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123358,
+        "num": 123358,
+        "word": "BLG回应Elk身体不适",
+        "onboard_time": 1716077715,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123068,
+        "num": 123068,
+        "word": "纽约中央公园偶遇网红凤姐",
+        "onboard_time": 1716052395,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120012,
+        "num": 120012,
+        "word": "种地吧第二届麦田音乐会",
+        "onboard_time": 1716074415,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119141,
+        "num": 119141,
+        "word": "幼态审美盯上女生的牙齿",
+        "onboard_time": 1716034758,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118912,
+        "num": 118912,
+        "word": "南京东山第二农贸市场鬼称加砸手机",
+        "onboard_time": 1716085456,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117447,
+        "num": 117447,
+        "word": "庆余年2",
+        "onboard_time": 1716084858,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115917,
+        "num": 115917,
+        "word": "男子挪车时开走路边同款宝马",
+        "onboard_time": 1716077896,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108886,
+        "num": 108886,
+        "word": "你早恋被父母抓包过吗",
+        "onboard_time": 1716084858,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107489,
+        "num": 107489,
+        "word": "庆余年作者谈原著改编影视剧",
+        "onboard_time": 1716075195,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107237,
+        "num": 107237,
+        "word": "男子被蜱虫咬几天后做足疗时发现",
+        "onboard_time": 1716042140,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104438,
+        "num": 104438,
+        "word": "我可以不看但电视必须开着",
+        "onboard_time": 1716085637,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103136,
+        "num": 103136,
+        "word": "为什么大家越来越爱看丑猫",
+        "onboard_time": 1716078677,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101783,
+        "num": 101783,
+        "word": "制片人谢晓虎力挺黄俊捷",
+        "onboard_time": 1716082036,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99638,
+        "num": 99638,
+        "word": "十年开一次的帝王凤梨开花了",
+        "onboard_time": 1716081138,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95862,
+        "num": 95862,
+        "word": "深圳住房公积金贷款利率下调",
+        "onboard_time": 1716079155,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93967,
+        "num": 93967,
+        "word": "汪苏泷 吃饱饭继续奋斗",
+        "onboard_time": 1716077057,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#博物致知#"
+    }
+  }
+}

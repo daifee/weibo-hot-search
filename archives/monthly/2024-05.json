@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716082956729,
+  "endTime": 1716085963658,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -6619,6 +6619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 722112,
+      "num": 236224,
+      "word": "女生一定要远离习惯性无助",
+      "onboard_time": 1716082636,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 721159,
       "num": 584629,
       "word": "女子建议车厢厕所改成女播音员",
@@ -6832,6 +6840,14 @@
       "word": "大凉山血色彩礼30多万元涉两条人命",
       "onboard_time": 1715869341,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704146,
+      "num": 704146,
+      "word": "南京官方通报网友举报鬼秤被摔手机",
+      "onboard_time": 1716083117,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -7409,6 +7425,14 @@
       "onboard_time": 1716042319,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 675148,
+      "num": 675148,
+      "word": "苗苗染红发",
+      "onboard_time": 1716080298,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 674521,
@@ -8259,6 +8283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631584,
+      "num": 631584,
+      "word": "iPhone15官旗降至第三方渠道价",
+      "onboard_time": 1716084616,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 631355,
       "num": 631355,
       "word": "杭州一醉汉被当成尸体法医都出动了",
@@ -8641,14 +8673,6 @@
       "onboard_time": 1715930659,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 614761,
-      "num": 614761,
-      "word": "苗苗染红发",
-      "onboard_time": 1716080298,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 614727,
@@ -11427,6 +11451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489460,
+      "num": 489460,
+      "word": "亚当歌手选曲",
+      "onboard_time": 1716080116,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488796,
       "num": 488796,
       "word": "周深把少管我唱成歌了",
@@ -12523,14 +12555,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 454952,
-      "num": 399956,
-      "word": "亚当歌手选曲",
-      "onboard_time": 1716080116,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 454931,
       "num": 454931,
       "word": "王楚钦vs吉村真晴",
@@ -12585,6 +12609,14 @@
       "onboard_time": 1715224338,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453334,
+      "num": 453334,
+      "word": "已发放的公积金贷款明年起执行新利率",
+      "onboard_time": 1716084677,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 452993,
@@ -13819,6 +13851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 417778,
+      "num": 417778,
+      "word": "戛纳晚宴上的张艺兴",
+      "onboard_time": 1716084977,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 417772,
       "num": 417772,
       "word": "新生结局",
@@ -14833,6 +14873,14 @@
       "onboard_time": 1714783037,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 395716,
+      "num": 321216,
+      "word": "范闲连崩溃都很体面",
+      "onboard_time": 1716083476,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 395551,
@@ -16121,6 +16169,14 @@
       "onboard_time": 1715508921,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 362733,
+      "num": 231182,
+      "word": "玩手机时到底要不要戴眼镜",
+      "onboard_time": 1716083957,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 362651,
@@ -18795,20 +18851,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 304230,
+      "num": 304230,
+      "word": "谢帝又被diss了",
+      "onboard_time": 1716081316,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304148,
       "num": 204137,
       "word": "黄轩回天水两天变成了黄干",
       "onboard_time": 1714632798,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304080,
-      "num": 243985,
-      "word": "谢帝又被diss了",
-      "onboard_time": 1716081316,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 304052,
@@ -18825,6 +18881,14 @@
       "onboard_time": 1715671040,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 304048,
+      "num": 304048,
+      "word": "种地吧 仲麟",
+      "onboard_time": 1716083657,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 304023,
@@ -20436,7 +20500,7 @@
     },
     {
       "raw_hot": 277066,
-      "num": 227019,
+      "num": 244436,
       "word": "散步是一种最被低估的运动",
       "onboard_time": 1716051675,
       "rank": 30,
@@ -22763,6 +22827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245613,
+      "num": 245613,
+      "word": "交警路边查戴头盔遇老外直接放行",
+      "onboard_time": 1716079757,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245508,
       "num": 238873,
       "word": "范丞丞唱了NINEPERCENT",
@@ -24216,14 +24288,6 @@
       "word": "五四青年节",
       "onboard_time": 1714778293,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229153,
-      "num": 229153,
-      "word": "交警路边查戴头盔遇老外直接放行",
-      "onboard_time": 1716079757,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -27329,14 +27393,6 @@
       "onboard_time": 1715062038,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 205245,
-      "num": 157308,
-      "word": "女生一定要远离习惯性无助",
-      "onboard_time": 1716082636,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 205238,
@@ -31899,6 +31955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184323,
+      "num": 184323,
+      "word": "老人吃饱喝足后突然倒仰离世",
+      "onboard_time": 1716085817,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184279,
       "num": 184279,
       "word": "Doinb说老头杯mlxg先红温",
@@ -35817,6 +35881,14 @@
       "onboard_time": 1715932580,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163589,
+      "num": 163589,
+      "word": "年轻人开始恶补生活技能",
+      "onboard_time": 1716083537,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 163557,
@@ -39761,6 +39833,14 @@
       "onboard_time": 1715129001,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143069,
+      "num": 161063,
+      "word": "哲学教授说谈恋爱不能太卑微",
+      "onboard_time": 1716083837,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 143018,
@@ -44155,6 +44235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118912,
+      "num": 118912,
+      "word": "南京东山第二农贸市场鬼称加砸手机",
+      "onboard_time": 1716085456,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118858,
       "num": 118858,
       "word": "TES",
@@ -45747,6 +45835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108886,
+      "num": 108886,
+      "word": "你早恋被父母抓包过吗",
+      "onboard_time": 1716084858,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108880,
       "num": 108880,
       "word": "16年前汶川妈妈的天堂短信",
@@ -46265,6 +46361,14 @@
       "onboard_time": 1715123895,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 104438,
+      "num": 104438,
+      "word": "我可以不看但电视必须开着",
+      "onboard_time": 1716085637,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 104409,
@@ -47755,11 +47859,27 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 84473,
+      "num": 159908,
+      "word": "AAB是四川美食的接头暗号",
+      "onboard_time": 1716084918,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 83948,
       "num": 808314,
       "word": "匈牙利为何被称为最西边的东方国家",
       "onboard_time": 1715225358,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83930,
+      "num": 304060,
+      "word": "00后视障男孩做播客还带了徒弟",
+      "onboard_time": 1716082697,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -48185,14 +48305,6 @@
       "onboard_time": 1715297596,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76534,
-      "num": 243872,
-      "word": "00后视障男孩做播客还带了徒弟",
-      "onboard_time": 1716082697,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76525,
@@ -50068,7 +50180,7 @@
     },
     {
       "raw_hot": 43710,
-      "num": 670486,
+      "num": 682446,
       "word": "首届全国职工马拉松",
       "onboard_time": 1716040339,
       "rank": 2,
