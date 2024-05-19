@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716089646610,
+  "endTime": 1716092543358,
   "band_list": [
     {
       "raw_hot": 1525446,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 908850,
-      "num": 908850,
+      "raw_hot": 1004627,
+      "num": 1004627,
       "word": "第一批快递小哥退休了",
       "onboard_time": 1716085998,
       "rank": 28,
@@ -40,6 +40,14 @@
       "word": "三胞胎兄弟居然有胎内记忆",
       "onboard_time": 1716044360,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826061,
+      "num": 826061,
+      "word": "北大回应网传破格录取郭有才",
+      "onboard_time": 1716086898,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588257,
+      "num": 260222,
+      "word": "普通人的钱真的是抠出来的",
+      "onboard_time": 1716086719,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 583189,
       "num": 371301,
       "word": "长期戴眼镜会让眼睛变凸吗",
@@ -145,6 +161,14 @@
       "onboard_time": 1716088577,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 546957,
+      "num": 546957,
+      "word": "尚雯婕和朱丹儿子抢萌兰",
+      "onboard_time": 1716089476,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 529341,
@@ -163,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 463233,
-      "num": 463233,
-      "word": "北大回应网传破格录取郭有才",
-      "onboard_time": 1716086898,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 467537,
+      "num": 467537,
+      "word": "庆帝皇后挥之不去的恐惧是什么",
+      "onboard_time": 1716089177,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 459472,
@@ -243,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398768,
-      "num": 260222,
-      "word": "普通人的钱真的是抠出来的",
-      "onboard_time": 1716086719,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 374218,
       "num": 374218,
       "word": "当伴郎的陈伟霆",
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322849,
+      "num": 322849,
+      "word": "杨迪呼吁不要占座",
+      "onboard_time": 1716090857,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321175,
       "num": 321175,
       "word": "歌手第三期网传歌单",
@@ -337,6 +361,14 @@
       "onboard_time": 1716083657,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312837,
+      "num": 312837,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1716089177,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 288263,
@@ -403,14 +435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 253010,
-      "num": 253010,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1716089177,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 246316,
       "num": 246316,
       "word": "向鱼感谢女朋友",
@@ -459,12 +483,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 224965,
-      "num": 224965,
-      "word": "尚雯婕和朱丹儿子抢萌兰",
-      "onboard_time": 1716089476,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 227842,
+      "num": 227842,
+      "word": "广西特大暴雨雨强破纪录",
+      "onboard_time": 1716091037,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227432,
+      "num": 227432,
+      "word": "猫腻 张若昀就是范闲模板",
+      "onboard_time": 1716091097,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 221012,
@@ -547,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192555,
+      "num": 192555,
+      "word": "张真源跑男陪小朋友打篮球",
+      "onboard_time": 1716091756,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189691,
       "num": 175342,
       "word": "孙俪超市购物被偶遇",
@@ -585,14 +625,6 @@
       "onboard_time": 1716077896,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179370,
-      "num": 179370,
-      "word": "庆帝皇后挥之不去的恐惧是什么",
-      "onboard_time": 1716089177,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 177895,
@@ -851,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136485,
+      "num": 136485,
+      "word": "年轻人为什么不爱网红品牌了",
+      "onboard_time": 1716089716,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 136100,
       "num": 136100,
       "word": "范闲骂得声音好大好超前",
@@ -873,6 +913,14 @@
       "onboard_time": 1716048199,
       "rank": 29,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 132711,
+      "num": 132711,
+      "word": "丞磊田嘉瑞 哥弟相爱相杀",
+      "onboard_time": 1716091637,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 131877,
@@ -907,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125706,
+      "num": 125706,
+      "word": "蔡依林洛阳",
+      "onboard_time": 1716091877,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125010,
       "num": 125010,
       "word": "小胖FMVP",
@@ -931,12 +987,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119988,
+      "num": 119988,
+      "word": "孟子义桃花坞ootd",
+      "onboard_time": 1716092117,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118912,
       "num": 118912,
       "word": "南京东山第二农贸市场鬼称加砸手机",
       "onboard_time": 1716085456,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118909,
+      "num": 119950,
+      "word": "中国女排3比1塞尔维亚女排",
+      "onboard_time": 1716091816,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 118803,
@@ -1027,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109315,
+      "num": 316598,
+      "word": "618谁能省得过拼多多啊",
+      "onboard_time": 1716089238,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 108916,
       "num": 108916,
       "word": "G2问Bin收徒吗",
@@ -1049,6 +1129,14 @@
       "onboard_time": 1716050657,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 101082,
+      "num": 101082,
+      "word": "肖战低V针织内搭",
+      "onboard_time": 1716089957,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 100767,
@@ -1145,6 +1233,14 @@
       "onboard_time": 1716063612,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68793,
+      "num": 893327,
+      "word": "行走美丽中国",
+      "onboard_time": 1716091037,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68283,
@@ -1259,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41148,
+      "num": 349874,
+      "word": "男子到派出所求助查找去世父亲照片",
+      "onboard_time": 1716090556,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41128,
       "num": 41128,
       "word": "上海你不要太超前",
@@ -1273,14 +1377,6 @@
       "onboard_time": 1716079397,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35280,
-      "num": 143305,
-      "word": "618谁能省得过拼多多啊",
-      "onboard_time": 1716089238,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 33240,
@@ -1305,6 +1401,14 @@
       "onboard_time": 1716079336,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26999,
+      "num": 313706,
+      "word": "聪明女生都在天天秒杀抢好货",
+      "onboard_time": 1716091216,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 26085,
