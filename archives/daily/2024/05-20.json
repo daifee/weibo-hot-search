@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716143694716,
+  "endTime": 1716146057437,
   "band_list": [
     {
       "raw_hot": 6373884,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80591,
+      "num": 60341,
+      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
+      "onboard_time": 1716140712,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79543,
       "num": 120267,
       "word": "利物浦vs狼队",
@@ -435,15 +443,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60341,
-      "num": 60341,
-      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
-      "onboard_time": 1716140712,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 54005,
+      "raw_hot": 62495,
       "num": 54005,
       "word": "频繁聊天真的会产生爱的错觉吗",
       "onboard_time": 1716142572,
@@ -499,7 +499,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2031,
+      "raw_hot": 11052,
+      "num": 53670,
+      "word": "当全班最e的囡遇见上春山",
+      "onboard_time": 1716143232,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2128,
       "num": 244425,
       "word": "行走美丽中国",
       "onboard_time": 1716091037,

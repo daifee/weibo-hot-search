@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716143694716,
+  "endTime": 1716146057437,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -3075,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80591,
+      "num": 60341,
+      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
+      "onboard_time": 1716140712,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79543,
       "num": 120267,
       "word": "利物浦vs狼队",
@@ -3227,20 +3235,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 62495,
+      "num": 54005,
+      "word": "频繁聊天真的会产生爱的错觉吗",
+      "onboard_time": 1716142572,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 61373,
       "num": 848864,
       "word": "14处课本上学过的祖国宝藏风光",
       "onboard_time": 1716088876,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60341,
-      "num": 60341,
-      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
-      "onboard_time": 1716140712,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 59305,
@@ -3257,14 +3265,6 @@
       "onboard_time": 1716058452,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54005,
-      "num": 54005,
-      "word": "频繁聊天真的会产生爱的错觉吗",
-      "onboard_time": 1716142572,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 53512,
@@ -3512,6 +3512,14 @@
       "word": "父亲怕41岁女儿迷路手绘回家地图",
       "onboard_time": 1716142813,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11052,
+      "num": 53670,
+      "word": "当全班最e的囡遇见上春山",
+      "onboard_time": 1716143232,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
