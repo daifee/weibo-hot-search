@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716096844721,
+  "endTime": 1716099800643,
   "band_list": [
     {
       "raw_hot": 1525446,
@@ -99,6 +99,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 704448,
+      "num": 279966,
+      "word": "庾澄庆晒与儿子合照",
+      "onboard_time": 1716096677,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 684586,
       "num": 684586,
       "word": "苗苗染红发",
@@ -195,6 +203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 503835,
+      "num": 503835,
+      "word": "杭州200万以内老破小吃香",
+      "onboard_time": 1716096196,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 491193,
+      "num": 491193,
+      "word": "汪苏泷有41首百万收藏",
+      "onboard_time": 1716097576,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 489460,
       "num": 489460,
       "word": "亚当歌手选曲",
@@ -249,6 +273,14 @@
       "onboard_time": 1716083476,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420579,
+      "num": 152814,
+      "word": "年轻人结婚不买钻戒了",
+      "onboard_time": 1716096137,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 417519,
@@ -371,6 +403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324096,
+      "num": 207303,
+      "word": "首套公积金房贷100万30年利息将减少4.85万",
+      "onboard_time": 1716095417,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324055,
+      "num": 324055,
+      "word": "中央气象台升级发布暴雨橙色预警",
+      "onboard_time": 1716095716,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321175,
       "num": 321175,
       "word": "歌手第三期网传歌单",
@@ -427,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279561,
+      "num": 279561,
+      "word": "中国选手一眨眼的功夫就夺冠了",
+      "onboard_time": 1716097097,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279539,
       "num": 279539,
       "word": "北京震感",
@@ -473,6 +529,14 @@
       "onboard_time": 1716028519,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 255095,
+      "num": 255095,
+      "word": "这样跳绳10分钟等于慢跑半小时",
+      "onboard_time": 1716098357,
+      "rank": 15,
+      "category": "运动健身"
     },
     {
       "raw_hot": 251652,
@@ -531,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231416,
-      "num": 231416,
-      "word": "中央气象台升级发布暴雨橙色预警",
-      "onboard_time": 1716095716,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 233757,
+      "num": 233757,
+      "word": "鞠婧祎蝴蝶耳钉",
+      "onboard_time": 1716099137,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 229696,
@@ -545,14 +609,6 @@
       "onboard_time": 1716087138,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 224633,
-      "num": 220661,
-      "word": "庾澄庆晒与儿子合照",
-      "onboard_time": 1716096677,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 221012,
@@ -584,14 +640,6 @@
       "word": "95后亿万富豪被罚1.33亿元",
       "onboard_time": 1716036198,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207303,
-      "num": 207303,
-      "word": "首套公积金房贷100万30年利息将减少4.85万",
-      "onboard_time": 1716095417,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -657,6 +705,14 @@
       "onboard_time": 1716095417,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189692,
+      "num": 149256,
+      "word": "金钟大中国首封",
+      "onboard_time": 1716099616,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189691,
@@ -819,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157155,
+      "num": 148889,
+      "word": "邓超洗上澡了",
+      "onboard_time": 1716098116,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156761,
       "num": 156761,
       "word": "不同食物在冰箱的最佳位置",
@@ -841,6 +905,14 @@
       "onboard_time": 1716038059,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154924,
+      "num": 154924,
+      "word": "专家称要支持60至70岁老年人再就业需求",
+      "onboard_time": 1716098717,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150913,
@@ -915,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146292,
+      "num": 146292,
+      "word": "广西暴雨市民抡锤砸墙放水",
+      "onboard_time": 1716098836,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145911,
       "num": 145911,
       "word": "十年开一次的帝王凤梨开花了",
@@ -931,14 +1011,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 145236,
-      "num": 145236,
-      "word": "杭州200万以内老破小吃香",
-      "onboard_time": 1716096196,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 145053,
       "num": 145053,
       "word": "十个勤天真把我们当自己人",
@@ -953,14 +1025,6 @@
       "onboard_time": 1716087017,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144437,
-      "num": 144437,
-      "word": "年轻人结婚不买钻戒了",
-      "onboard_time": 1716096137,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 143913,
@@ -1009,6 +1073,14 @@
       "onboard_time": 1716088156,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137550,
+      "num": 137550,
+      "word": "爸爸当家",
+      "onboard_time": 1716097816,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 136100,
@@ -1139,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120233,
+      "num": 120233,
+      "word": "范闲跳过大坑复活指标完成",
+      "onboard_time": 1716098298,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120096,
       "num": 120096,
       "word": "楼市为何现在要去库存",
@@ -1203,12 +1283,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115811,
+      "num": 115811,
+      "word": "张远这下从主唱变和声了",
+      "onboard_time": 1716096797,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114891,
       "num": 114891,
       "word": "今天全国助残日",
       "onboard_time": 1716082578,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 114401,
+      "num": 114401,
+      "word": "陈若琳陈梦同框",
+      "onboard_time": 1716099017,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 113966,
@@ -1339,14 +1435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100715,
-      "num": 100715,
-      "word": "张远这下从主唱变和声了",
-      "onboard_time": 1716096797,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99849,
       "num": 99849,
       "word": "雷霆vs独行侠",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1716048557,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84772,
+      "num": 260894,
+      "word": "天猫王炸全家桶周一见",
+      "onboard_time": 1716098416,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 84473,
