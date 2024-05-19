@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716149973875,
+  "endTime": 1716150931131,
   "band_list": [
     {
       "raw_hot": 6373884,
@@ -497,6 +497,14 @@
       "onboard_time": 1716148631,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 14413,
+      "num": 14413,
+      "word": "小狗偷吃被流浪猫追着打",
+      "onboard_time": 1716150191,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 12115,
