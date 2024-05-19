@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716158091234,
+  "endTime": 1716160808277,
   "band_list": [
     {
       "raw_hot": 6373884,
@@ -27,8 +27,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 925853,
-      "num": 925853,
+      "raw_hot": 938201,
+      "num": 938201,
       "word": "载有伊朗总统的直升机硬着陆",
       "onboard_time": 1716125602,
       "rank": 1,
@@ -57,6 +57,14 @@
       "onboard_time": 1716130881,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 715906,
+      "num": 715906,
+      "word": "伊朗内政部长证实载有总统的直升机队发生事故",
+      "onboard_time": 1716160155,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 562906,
@@ -91,6 +99,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459944,
+      "num": 230997,
+      "word": "吴艳妮母亲回应女儿再次夺冠",
+      "onboard_time": 1716155891,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 442292,
+      "num": 442292,
+      "word": "突然发现六月只要上19天班",
+      "onboard_time": 1716110058,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 408250,
       "num": 281510,
       "word": "戴珍珠耳环的少女 意外的颜料",
@@ -99,12 +123,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 399809,
-      "num": 399809,
-      "word": "突然发现六月只要上19天班",
-      "onboard_time": 1716110058,
-      "rank": 8,
-      "category": "幽默"
+      "raw_hot": 401821,
+      "num": 401821,
+      "word": "伊朗总统",
+      "onboard_time": 1716160274,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 384692,
+      "num": 384692,
+      "word": "小满",
+      "onboard_time": 1716160393,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373334,
@@ -155,6 +187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253738,
+      "num": 180791,
+      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
+      "onboard_time": 1716140712,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242134,
       "num": 242134,
       "word": "王俊凯蔡依林五年后再唱心引力",
@@ -179,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233763,
+      "num": 233763,
+      "word": "外媒评关晓彤戛纳最佳造型",
+      "onboard_time": 1716128602,
+      "rank": 33,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 207493,
       "num": 207493,
       "word": "GEN夺冠",
@@ -195,14 +243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189685,
-      "num": 94955,
-      "word": "吴艳妮母亲回应女儿再次夺冠",
-      "onboard_time": 1716155891,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189670,
       "num": 189670,
       "word": "许凯 金刚芭比",
@@ -211,12 +251,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188552,
+      "num": 188552,
+      "word": "网红130万整形嘴弯眼斜",
+      "onboard_time": 1716120976,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 184345,
+      "num": 184345,
+      "word": "伊朗外交部就总统直升机发生事故发表声明",
+      "onboard_time": 1716160635,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 159272,
       "num": 159272,
       "word": "Bin说MSI不是结尾",
       "onboard_time": 1716131062,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156480,
+      "num": 156480,
+      "word": "塑料椅中间圆圆的洞是什么作用",
+      "onboard_time": 1716156611,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 153009,
@@ -275,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129332,
-      "num": 129332,
-      "word": "外媒评关晓彤戛纳最佳造型",
-      "onboard_time": 1716128602,
-      "rank": 33,
-      "category": "电影,时尚"
-    },
-    {
       "raw_hot": 128596,
       "num": 128596,
       "word": "seventeen演唱会",
@@ -315,22 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121623,
-      "num": 121623,
-      "word": "网红130万整形嘴弯眼斜",
-      "onboard_time": 1716120976,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 116895,
-      "num": 116895,
-      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
-      "onboard_time": 1716140712,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108083,
       "num": 120277,
       "word": "从今以后我就是你的靠山",
@@ -361,6 +401,14 @@
       "onboard_time": 1716127342,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100648,
+      "num": 100648,
+      "word": "频繁聊天真的会产生爱的错觉吗",
+      "onboard_time": 1716142572,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 97506,
@@ -411,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86225,
+      "num": 86225,
+      "word": "黄贯中发博谈黄家驹墓碑被砸事件",
+      "onboard_time": 1716159614,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85253,
       "num": 120268,
       "word": "刘端端晒先秦淑女步",
@@ -425,6 +481,14 @@
       "onboard_time": 1716135137,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73265,
+      "num": 73265,
+      "word": "小满恰逢520",
+      "onboard_time": 1716160515,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70592,
@@ -451,12 +515,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 62495,
-      "num": 57289,
-      "word": "频繁聊天真的会产生爱的错觉吗",
-      "onboard_time": 1716142572,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 67484,
+      "num": 67484,
+      "word": "南大毕业生论文致谢第一句很特殊",
+      "onboard_time": 1716160635,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 63804,
+      "num": 128408,
+      "word": "小满小满爱意加满",
+      "onboard_time": 1716160574,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62526,
+      "num": 62526,
+      "word": "步行者晋级东部决赛",
+      "onboard_time": 1716160755,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 53270,
@@ -467,12 +547,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 44094,
-      "num": 44094,
-      "word": "塑料椅中间圆圆的洞是什么作用",
-      "onboard_time": 1716156611,
-      "rank": 45,
-      "category": "科学科普"
+      "raw_hot": 41758,
+      "num": 41758,
+      "word": "DNF手游",
+      "onboard_time": 1716160035,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 41344,
+      "num": 41344,
+      "word": "黄家强",
+      "onboard_time": 1716120197,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 33656,
@@ -555,8 +643,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3533,
-      "num": 451807,
+      "raw_hot": 4611,
+      "num": 723104,
       "word": "行走美丽中国",
       "onboard_time": 1716091037,
       "rank": 2,

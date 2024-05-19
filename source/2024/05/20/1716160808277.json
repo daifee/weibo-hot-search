@@ -1,0 +1,410 @@
+{
+  "runTime": 1716160808277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1205693,
+        "num": 1205693,
+        "word": "警方通报胖猫与谭某经济往来情况",
+        "onboard_time": 1716123377,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 938201,
+        "num": 938201,
+        "word": "载有伊朗总统的直升机硬着陆",
+        "onboard_time": 1716125602,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 4611,
+        "num": 723104,
+        "word": "行走美丽中国",
+        "onboard_time": 1716091037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715906,
+        "num": 715906,
+        "word": "伊朗内政部长证实载有总统的直升机队发生事故",
+        "onboard_time": 1716160155,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 598807,
+        "num": 598807,
+        "word": "胖猫通报里的三个关键点",
+        "onboard_time": 1716126141,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 442292,
+        "num": 442292,
+        "word": "突然发现六月只要上19天班",
+        "onboard_time": 1716110058,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401821,
+        "num": 401821,
+        "word": "伊朗总统",
+        "onboard_time": 1716160274,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 384692,
+        "num": 384692,
+        "word": "小满",
+        "onboard_time": 1716160393,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314155,
+        "num": 314155,
+        "word": "庆余年2第九集封神",
+        "onboard_time": 1716130881,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233763,
+        "num": 233763,
+        "word": "外媒评关晓彤戛纳最佳造型",
+        "onboard_time": 1716128602,
+        "rank": 9,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 792184,
+        "num": 233053,
+        "word": "胖猫姐姐刘某操控舆论",
+        "onboard_time": 1716129921,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 459944,
+        "num": 230997,
+        "word": "吴艳妮母亲回应女儿再次夺冠",
+        "onboard_time": 1716155891,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252052,
+        "num": 226439,
+        "word": "日本女子挺9个月孕肚为老公准备30天量晚饭",
+        "onboard_time": 1716122657,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214918,
+        "num": 214918,
+        "word": "戴珍珠耳环的少女 意外的颜料",
+        "onboard_time": 1716129501,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 188552,
+        "num": 188552,
+        "word": "网红130万整形嘴弯眼斜",
+        "onboard_time": 1716120976,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184345,
+        "num": 184345,
+        "word": "伊朗外交部就总统直升机发生事故发表声明",
+        "onboard_time": 1716160635,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 253738,
+        "num": 180791,
+        "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
+        "onboard_time": 1716140712,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166104,
+        "num": 166104,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1716131361,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156480,
+        "num": 156480,
+        "word": "塑料椅中间圆圆的洞是什么作用",
+        "onboard_time": 1716156611,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 128941,
+        "num": 128941,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1716136697,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63804,
+        "num": 128408,
+        "word": "小满小满爱意加满",
+        "onboard_time": 1716160574,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305622,
+        "num": 118987,
+        "word": "谭某未以恋爱为名骗取胖猫财物",
+        "onboard_time": 1716129142,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 300333,
+        "num": 117030,
+        "word": "警方通报胖猫事件",
+        "onboard_time": 1716129862,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 209146,
+        "num": 111604,
+        "word": "比流量更重要的是真相",
+        "onboard_time": 1716130640,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 108390,
+        "num": 108390,
+        "word": "连云港鬼秤事件5人被行拘",
+        "onboard_time": 1716115757,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100648,
+        "num": 100648,
+        "word": "频繁聊天真的会产生爱的错觉吗",
+        "onboard_time": 1716142572,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9695,
+        "num": 96498,
+        "word": "父亲怕41岁女儿迷路手绘回家地图",
+        "onboard_time": 1716142813,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94097,
+        "num": 94097,
+        "word": "蔡依林问王俊凯的理想型",
+        "onboard_time": 1716129802,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86225,
+        "num": 86225,
+        "word": "黄贯中发博谈黄家驹墓碑被砸事件",
+        "onboard_time": 1716159614,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78089,
+        "num": 78089,
+        "word": "考研失败却过上更好的生活",
+        "onboard_time": 1716126202,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 75256,
+        "num": 75256,
+        "word": "王骁 三十岁选择到华尔街闯一闯",
+        "onboard_time": 1716119238,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73265,
+        "num": 73265,
+        "word": "小满恰逢520",
+        "onboard_time": 1716160515,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72591,
+        "num": 72591,
+        "word": "陈丽君急性肠胃炎晕倒",
+        "onboard_time": 1716115217,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69184,
+        "num": 69184,
+        "word": "奔跑吧全员现身周深演唱会",
+        "onboard_time": 1716126981,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68918,
+        "num": 68918,
+        "word": "曼城夺得英超冠军",
+        "onboard_time": 1716141014,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67484,
+        "num": 67484,
+        "word": "南大毕业生论文致谢第一句很特殊",
+        "onboard_time": 1716160635,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 65170,
+        "num": 65170,
+        "word": "减肥期间正确称体重的方法",
+        "onboard_time": 1716134897,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 62526,
+        "num": 62526,
+        "word": "步行者晋级东部决赛",
+        "onboard_time": 1716160755,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62009,
+        "num": 62009,
+        "word": "朴志效说队内都是商业关系",
+        "onboard_time": 1716123558,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61764,
+        "num": 61764,
+        "word": "王俊凯蔡依林同台",
+        "onboard_time": 1716126261,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60136,
+        "num": 60136,
+        "word": "蒲熠星南大",
+        "onboard_time": 1716129441,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54950,
+        "num": 54950,
+        "word": "五年了 还得是张若昀",
+        "onboard_time": 1716132500,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51426,
+        "num": 51426,
+        "word": "GEN夺冠",
+        "onboard_time": 1716123739,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50012,
+        "num": 50012,
+        "word": "白桃星座",
+        "onboard_time": 1716131540,
+        "rank": 43,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 50468,
+        "num": 49645,
+        "word": "王俊凯蔡依林五年后再唱心引力",
+        "onboard_time": 1716133279,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48195,
+        "num": 48195,
+        "word": "邓子越演得真好",
+        "onboard_time": 1716127342,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43397,
+        "num": 43397,
+        "word": "阿森纳vs埃弗顿",
+        "onboard_time": 1716131301,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41758,
+        "num": 41758,
+        "word": "DNF手游",
+        "onboard_time": 1716160035,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41344,
+        "num": 41344,
+        "word": "黄家强",
+        "onboard_time": 1716120197,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41075,
+        "num": 41075,
+        "word": "许凯 金刚芭比",
+        "onboard_time": 1716134238,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#要督促落实全面从严治党责任#"
+    }
+  }
+}
