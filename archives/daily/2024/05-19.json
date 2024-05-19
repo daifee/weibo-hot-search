@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716100550006,
+  "endTime": 1716102957974,
   "band_list": [
     {
       "raw_hot": 1525446,
@@ -33,6 +33,30 @@
       "onboard_time": 1716085998,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1055713,
+      "num": 1055713,
+      "word": "汪苏泷有41首百万收藏",
+      "onboard_time": 1716097576,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1051172,
+      "num": 1051172,
+      "word": "专家称要支持60至70岁老年人再就业需求",
+      "onboard_time": 1716098717,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 900810,
+      "num": 900810,
+      "word": "你好星期六 TFBOYS",
+      "onboard_time": 1716101716,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 865357,
@@ -83,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 735885,
-      "num": 735885,
-      "word": "汪苏泷有41首百万收藏",
-      "onboard_time": 1716097576,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 727970,
       "num": 727970,
       "word": "南京官方通报网友举报鬼秤被摔手机",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 704448,
-      "num": 321745,
+      "num": 349577,
       "word": "庾澄庆晒与儿子合照",
       "onboard_time": 1716096677,
       "rank": 23,
@@ -121,6 +137,14 @@
       "onboard_time": 1716080298,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 656791,
+      "num": 398397,
+      "word": "张予曦回应网红脸",
+      "onboard_time": 1716100518,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 653371,
@@ -179,6 +203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 581313,
+      "num": 581313,
+      "word": "专家建议允许个人自愿选择退休年龄",
+      "onboard_time": 1716100458,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560601,
       "num": 560601,
       "word": "赵丽颖黄色针织短袖",
@@ -233,6 +265,22 @@
       "onboard_time": 1716091037,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482107,
+      "num": 385997,
+      "word": "章昊 未满24岁全款拿下第一杯杨枝甘露",
+      "onboard_time": 1716102197,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 472638,
+      "num": 184435,
+      "word": "应采儿尊重Jasper不去饭局",
+      "onboard_time": 1716100876,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 459806,
@@ -299,6 +347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 406735,
+      "num": 406735,
+      "word": "这样跳绳10分钟等于慢跑半小时",
+      "onboard_time": 1716098357,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 405223,
       "num": 405223,
       "word": "种地吧",
@@ -321,6 +377,14 @@
       "onboard_time": 1716033738,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396309,
+      "num": 349377,
+      "word": "王俊凯出发蔡依林演唱会彩排",
+      "onboard_time": 1716102498,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 393881,
@@ -353,14 +417,6 @@
       "onboard_time": 1716075255,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364777,
-      "num": 364777,
-      "word": "这样跳绳10分钟等于慢跑半小时",
-      "onboard_time": 1716098357,
-      "rank": 15,
-      "category": "运动健身"
     },
     {
       "raw_hot": 360769,
@@ -427,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324789,
-      "num": 324789,
-      "word": "专家称要支持60至70岁老年人再就业需求",
-      "onboard_time": 1716098717,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324055,
       "num": 324055,
       "word": "中央气象台升级发布暴雨橙色预警",
@@ -473,6 +521,22 @@
       "onboard_time": 1716089177,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 292340,
+      "num": 292340,
+      "word": "陈丽君抹眉心变妆练了近万遍",
+      "onboard_time": 1716102498,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 289466,
+      "num": 289466,
+      "word": "高度近视戴不戴眼镜眼球都会变形",
+      "onboard_time": 1716100817,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 288263,
@@ -555,6 +619,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 261890,
+      "num": 261890,
+      "word": "林徽因终于拿到了迟到100年的学位证",
+      "onboard_time": 1716102016,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256013,
       "num": 256013,
       "word": "张韶涵回应那英需要你",
@@ -627,12 +699,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 223862,
-      "num": 223862,
-      "word": "张予曦回应网红脸",
-      "onboard_time": 1716100518,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 224529,
+      "num": 180450,
+      "word": "原来扇贝游泳是用走的",
+      "onboard_time": 1716100158,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 221012,
@@ -755,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185975,
+      "num": 185975,
+      "word": "宣传1年的连云港被一个皮皮虾偷家了",
+      "onboard_time": 1716100276,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184330,
       "num": 184330,
       "word": "郑合惠子抹胸粉裙",
@@ -825,6 +905,14 @@
       "onboard_time": 1716075195,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170780,
+      "num": 170780,
+      "word": "白鹿梵高星空蝴蝶裙",
+      "onboard_time": 1716102917,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 168586,
@@ -971,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149973,
-      "num": 149973,
-      "word": "原来扇贝游泳是用走的",
-      "onboard_time": 1716100158,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148827,
       "num": 148827,
       "word": "当整个宿舍明天要出去玩时",
@@ -1097,14 +1177,6 @@
       "onboard_time": 1716099857,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139476,
-      "num": 139476,
-      "word": "专家建议允许个人自愿选择退休年龄",
-      "onboard_time": 1716100458,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139340,
@@ -1235,6 +1307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 124475,
+      "num": 124475,
+      "word": "建议夏天把冰箱温度调高点",
+      "onboard_time": 1716101478,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124129,
       "num": 124129,
       "word": "送礼判官终于出现了",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1716045018,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120632,
+      "num": 120632,
+      "word": "背课文免门票参考答案汇总",
+      "onboard_time": 1716101178,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 120233,
@@ -1313,6 +1401,22 @@
       "onboard_time": 1716084858,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117335,
+      "num": 117335,
+      "word": "MISBHV 虞书欣",
+      "onboard_time": 1716100817,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116768,
+      "num": 116768,
+      "word": "奶牛耳朵上带的标签是什么意思",
+      "onboard_time": 1716101178,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 116337,
@@ -1459,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101842,
+      "num": 101842,
+      "word": "范丞丞吐槽杨迪新发型",
+      "onboard_time": 1716100756,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101082,
       "num": 101082,
       "word": "肖战低V针织内搭",
@@ -1515,20 +1627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93622,
-      "num": 93622,
-      "word": "宣传1年的连云港被一个皮皮虾偷家了",
-      "onboard_time": 1716100276,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87842,
       "num": 104812,
       "word": "德甲联赛",
       "onboard_time": 1716048557,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85326,
+      "num": 85326,
+      "word": "今年能吃到荔枝就不错了",
+      "onboard_time": 1716102857,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 84473,
@@ -1588,7 +1700,7 @@
     },
     {
       "raw_hot": 68793,
-      "num": 893327,
+      "num": 944395,
       "word": "行走美丽中国",
       "onboard_time": 1716091037,
       "rank": 2,
@@ -1617,6 +1729,14 @@
       "onboard_time": 1716072372,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66257,
+      "num": 349604,
+      "word": "大学生买药文旅副局长闪现买单",
+      "onboard_time": 1716101296,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61373,
