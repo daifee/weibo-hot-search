@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716157160498,
+  "endTime": 1716158091234,
   "band_list": [
     {
       "raw_hot": 6373884,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189685,
+      "num": 94955,
+      "word": "吴艳妮母亲回应女儿再次夺冠",
+      "onboard_time": 1716155891,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189670,
       "num": 189670,
       "word": "许凯 金刚芭比",
@@ -315,6 +323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 116895,
+      "num": 116895,
+      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
+      "onboard_time": 1716140712,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108083,
       "num": 120277,
       "word": "从今以后我就是你的靠山",
@@ -403,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85010,
-      "num": 85010,
-      "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
-      "onboard_time": 1716140712,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79543,
       "num": 120267,
       "word": "利物浦vs狼队",
@@ -443,16 +451,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 66652,
-      "num": 66652,
-      "word": "吴艳妮母亲回应女儿再次夺冠",
-      "onboard_time": 1716155891,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 62495,
-      "num": 54005,
+      "num": 57289,
       "word": "频繁聊天真的会产生爱的错觉吗",
       "onboard_time": 1716142572,
       "rank": 40,
@@ -467,20 +467,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 32783,
-      "num": 32783,
-      "word": "张艺兴亮相戛纳红毯",
-      "onboard_time": 1716140233,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 44094,
+      "num": 44094,
+      "word": "塑料椅中间圆圆的洞是什么作用",
+      "onboard_time": 1716156611,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
-      "raw_hot": 30100,
-      "num": 30100,
+      "raw_hot": 33656,
+      "num": 33656,
       "word": "汪苏泷2024十万伏特巡回演唱会",
       "onboard_time": 1716153850,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33233,
+      "num": 33233,
+      "word": "张艺兴亮相戛纳红毯",
+      "onboard_time": 1716140233,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 29665,
@@ -507,28 +515,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 23445,
-      "num": 23445,
-      "word": "小狗偷吃被流浪猫追着打",
-      "onboard_time": 1716150191,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 21783,
-      "num": 21783,
+      "raw_hot": 26608,
+      "num": 26608,
       "word": "减肥必备的万能减脂餐",
       "onboard_time": 1716152050,
       "rank": 45,
       "category": "运动健身"
     },
     {
-      "raw_hot": 21410,
-      "num": 21410,
-      "word": "塑料椅中间圆圆的洞是什么作用",
-      "onboard_time": 1716156611,
-      "rank": 45,
-      "category": "科学科普"
+      "raw_hot": 25021,
+      "num": 25021,
+      "word": "小狗偷吃被流浪猫追着打",
+      "onboard_time": 1716150191,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 15305,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 12115,
-      "num": 66969,
+      "num": 104596,
       "word": "父亲怕41岁女儿迷路手绘回家地图",
       "onboard_time": 1716142813,
       "rank": 32,
@@ -555,8 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2527,
-      "num": 337279,
+      "raw_hot": 3533,
+      "num": 451807,
       "word": "行走美丽中国",
       "onboard_time": 1716091037,
       "rank": 2,
