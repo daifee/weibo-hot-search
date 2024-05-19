@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716131904909,
+  "endTime": 1716132869678,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 6410930,
-      "num": 863187,
+      "num": 1017946,
       "word": "胖猫姐姐刘某操控舆论",
       "onboard_time": 1716129921,
       "rank": 3,
@@ -171,6 +171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1052876,
+      "num": 1052876,
+      "word": "载有伊朗总统的直升机硬着陆",
+      "onboard_time": 1716125602,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1051172,
       "num": 1051172,
       "word": "专家称要支持60至70岁老年人再就业需求",
@@ -187,12 +195,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1038463,
-      "num": 1038463,
-      "word": "载有伊朗总统的直升机硬着陆",
-      "onboard_time": 1716125602,
-      "rank": 31,
-      "category": "国外时政"
+      "raw_hot": 993692,
+      "num": 993692,
+      "word": "庆余年2第九集封神",
+      "onboard_time": 1716130881,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 958635,
@@ -411,20 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 671123,
-      "num": 562268,
-      "word": "庆余年2第九集封神",
-      "onboard_time": 1716130881,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 668805,
       "num": 668805,
       "word": "张予曦回应网红脸",
       "onboard_time": 1716100518,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 655661,
+      "num": 655661,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1716131361,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 653371,
@@ -651,14 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 455226,
-      "num": 455226,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1716131361,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 455193,
       "num": 202446,
       "word": "年轻人结婚不买钻戒了",
@@ -801,6 +801,14 @@
       "onboard_time": 1716115097,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377225,
+      "num": 377225,
+      "word": "白桃星座",
+      "onboard_time": 1716131540,
+      "rank": 28,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 374218,
@@ -1179,6 +1187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 254299,
+      "num": 254299,
+      "word": "戴珍珠耳环的少女 意外的颜料",
+      "onboard_time": 1716129501,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 253717,
       "num": 253717,
       "word": "小杨哥解说",
@@ -1331,22 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220047,
-      "num": 220047,
-      "word": "白桃星座",
-      "onboard_time": 1716131540,
-      "rank": 28,
-      "category": "情感,网红"
-    },
-    {
-      "raw_hot": 217550,
-      "num": 217550,
-      "word": "戴珍珠耳环的少女 意外的颜料",
-      "onboard_time": 1716129501,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 217314,
       "num": 217314,
       "word": "杨紫时尚芭莎封面预告",
@@ -1425,6 +1425,14 @@
       "onboard_time": 1716127401,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204567,
+      "num": 204567,
+      "word": "seventeen演唱会",
+      "onboard_time": 1716132019,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 204508,
@@ -1675,6 +1683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190590,
+      "num": 190590,
+      "word": "曼城vs西汉姆联",
+      "onboard_time": 1716129321,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190284,
       "num": 190284,
       "word": "邓子越演得真好",
@@ -1779,14 +1795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179196,
-      "num": 179196,
-      "word": "曼城vs西汉姆联",
-      "onboard_time": 1716129321,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177895,
       "num": 177895,
       "word": "周深新专辑销量",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1716078556,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 175614,
+      "num": 175614,
+      "word": "五年了 还得是张若昀",
+      "onboard_time": 1716132500,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 174994,
@@ -2369,6 +2385,14 @@
       "onboard_time": 1716085637,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127984,
+      "num": 127984,
+      "word": "什么东西是纯正的垃圾食品",
+      "onboard_time": 1716132200,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 127241,
@@ -3129,6 +3153,14 @@
       "onboard_time": 1716058452,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53512,
+      "num": 368336,
+      "word": "在杭州遇见科幻版希望的田野",
+      "onboard_time": 1716132500,
+      "rank": 11,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 48421,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716131904909,
+  "endTime": 1716132869678,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 6410930,
-      "num": 863187,
+      "num": 1017946,
       "word": "胖猫姐姐刘某操控舆论",
       "onboard_time": 1716129921,
       "rank": 3,
@@ -3811,6 +3811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1052876,
+      "num": 1052876,
+      "word": "载有伊朗总统的直升机硬着陆",
+      "onboard_time": 1716125602,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1051172,
       "num": 1051172,
       "word": "专家称要支持60至70岁老年人再就业需求",
@@ -3897,14 +3905,6 @@
       "onboard_time": 1714778653,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1038463,
-      "num": 1038463,
-      "word": "载有伊朗总统的直升机硬着陆",
-      "onboard_time": 1716125602,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1036406,
@@ -4129,6 +4129,14 @@
       "onboard_time": 1715730737,
       "rank": 5,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 993692,
+      "num": 993692,
+      "word": "庆余年2第九集封神",
+      "onboard_time": 1716130881,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 993062,
@@ -7851,14 +7859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 671123,
-      "num": 562268,
-      "word": "庆余年2第九集封神",
-      "onboard_time": 1716130881,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 670939,
       "num": 670939,
       "word": "清水镇的水是脏水的水",
@@ -8137,6 +8137,14 @@
       "onboard_time": 1715694979,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655661,
+      "num": 655661,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1715523803,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 655554,
@@ -8929,14 +8937,6 @@
       "onboard_time": 1714817119,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 619734,
-      "num": 455226,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1715523803,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 619566,
@@ -22923,6 +22923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254299,
+      "num": 254299,
+      "word": "戴珍珠耳环的少女 意外的颜料",
+      "onboard_time": 1716129501,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 254285,
       "num": 254285,
       "word": "央八将独播庆余年第一季精编版",
@@ -26443,14 +26451,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 217550,
-      "num": 217550,
-      "word": "戴珍珠耳环的少女 意外的颜料",
-      "onboard_time": 1716129501,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 217549,
       "num": 217549,
       "word": "智己",
@@ -28473,6 +28473,14 @@
       "onboard_time": 1715047639,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 204567,
+      "num": 204567,
+      "word": "seventeen演唱会",
+      "onboard_time": 1716132019,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 204508,
@@ -31803,6 +31811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 190590,
+      "num": 190590,
+      "word": "曼城vs西汉姆联",
+      "onboard_time": 1716129321,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190584,
       "num": 190584,
       "word": "广州暴雨地铁一处接触网被雷击",
@@ -34075,14 +34091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179196,
-      "num": 179196,
-      "word": "曼城vs西汉姆联",
-      "onboard_time": 1716129321,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179106,
       "num": 117993,
       "word": "似锦",
@@ -34745,6 +34753,14 @@
       "onboard_time": 1715902335,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 175614,
+      "num": 175614,
+      "word": "五年了 还得是张若昀",
+      "onboard_time": 1716132500,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 175578,
@@ -44267,6 +44283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127984,
+      "num": 127984,
+      "word": "什么东西是纯正的垃圾食品",
+      "onboard_time": 1716132200,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 127928,
       "num": 127928,
       "word": "seventeen新歌与青环5好搭",
@@ -51665,6 +51689,14 @@
       "onboard_time": 1714757354,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53512,
+      "num": 368336,
+      "word": "在杭州遇见科幻版希望的田野",
+      "onboard_time": 1716132500,
+      "rank": 11,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 53370,
