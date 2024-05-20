@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716186334045,
+  "endTime": 1716187088415,
   "band_list": [
     {
       "raw_hot": 11623813,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 691798,
+      "num": 324477,
+      "word": "马龙破防了",
+      "onboard_time": 1716182899,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 673598,
       "num": 673598,
       "word": "金价",
@@ -305,14 +313,6 @@
       "onboard_time": 1716160515,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 606858,
-      "num": 324477,
-      "word": "马龙破防了",
-      "onboard_time": 1716182899,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 603256,
@@ -435,7 +435,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 446492,
+      "raw_hot": 453610,
       "num": 332261,
       "word": "教授建议18到25岁要多谈恋爱",
       "onboard_time": 1716182480,
@@ -497,6 +497,14 @@
       "onboard_time": 1716182480,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 411084,
+      "num": 411084,
+      "word": "九成00后女性认为夫妻该承担同样家务",
+      "onboard_time": 1716185182,
+      "rank": 13,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 408250,
@@ -595,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 335190,
-      "num": 335190,
-      "word": "九成00后女性认为夫妻该承担同样家务",
-      "onboard_time": 1716185182,
-      "rank": 13,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 326229,
       "num": 326229,
       "word": "刘浩存生日照",
@@ -641,6 +641,14 @@
       "onboard_time": 1716170419,
       "rank": 29,
       "category": "互联网,作品衍生"
+    },
+    {
+      "raw_hot": 302032,
+      "num": 302032,
+      "word": "NewJeans被指抄袭墨西哥女团",
+      "onboard_time": 1716186738,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 298812,
@@ -747,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269663,
+      "num": 269663,
+      "word": "张艺兴2024世界巡演官宣",
+      "onboard_time": 1716185479,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 265674,
       "num": 265674,
       "word": "张若昀天天被人问第二季什么时候播",
@@ -784,14 +800,6 @@
       "word": "十个勤天演唱会",
       "onboard_time": 1716181282,
       "rank": 37,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 247319,
-      "num": 247319,
-      "word": "张艺兴2024世界巡演官宣",
-      "onboard_time": 1716185479,
-      "rank": 17,
       "category": "演出"
     },
     {
@@ -841,6 +849,14 @@
       "onboard_time": 1716123558,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227100,
+      "num": 227100,
+      "word": "周翊然人长得那么帅画画就算了",
+      "onboard_time": 1716186439,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222374,
@@ -923,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206721,
+      "num": 206721,
+      "word": "狐妖月红篇定档官宣",
+      "onboard_time": 1716186439,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206586,
       "num": 206586,
       "word": "郭敬明晒与陈都灵合照",
@@ -963,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199010,
+      "num": 199010,
+      "word": "哈梅内伊",
+      "onboard_time": 1716183919,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 198856,
       "num": 198856,
       "word": "胡彦斌歌手爆改月老",
@@ -977,14 +1009,6 @@
       "onboard_time": 1716160574,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198252,
-      "num": 198252,
-      "word": "哈梅内伊",
-      "onboard_time": 1716183919,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 196869,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1716184098,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184862,
+      "num": 184862,
+      "word": "芭莎主编说杨紫长大了",
+      "onboard_time": 1716186319,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184456,
@@ -1131,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145942,
+      "num": 145942,
+      "word": "猴子已进化到石器时代了吗",
+      "onboard_time": 1716186738,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 144383,
       "num": 144383,
       "word": "五月天嘉宾",
@@ -1209,14 +1249,6 @@
       "onboard_time": 1716132918,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128829,
-      "num": 128829,
-      "word": "芭莎主编说杨紫长大了",
-      "onboard_time": 1716186319,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 128596,
@@ -1523,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 42391,
+      "num": 199164,
+      "word": "今年就做早款人",
+      "onboard_time": 1716186559,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41758,
       "num": 41758,
       "word": "DNF手游",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1716120197,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38022,
+      "num": 310806,
+      "word": "宝泉悬崖户外运动燃爆了",
+      "onboard_time": 1716184819,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 33656,
@@ -1569,14 +1617,6 @@
       "onboard_time": 1716135496,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27706,
-      "num": 310500,
-      "word": "宝泉悬崖户外运动燃爆了",
-      "onboard_time": 1716184819,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 27323,

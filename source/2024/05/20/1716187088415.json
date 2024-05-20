@@ -1,0 +1,410 @@
+{
+  "runTime": 1716187088415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5179789,
+        "num": 5179789,
+        "word": "伊朗总统遇难",
+        "onboard_time": 1716178103,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1189255,
+        "num": 1189255,
+        "word": "加纳总统车队发生车祸",
+        "onboard_time": 1716181165,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33536,
+        "num": 1061993,
+        "word": "小满恰逢520",
+        "onboard_time": 1716160515,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275738,
+        "num": 1061670,
+        "word": "曝涂磊私生活混乱网友道歉",
+        "onboard_time": 1716183201,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014267,
+        "num": 1014267,
+        "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
+        "onboard_time": 1716174739,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 714452,
+        "num": 714452,
+        "word": "李胜利拖拽女性视频",
+        "onboard_time": 1716170778,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651638,
+        "num": 651638,
+        "word": "金价",
+        "onboard_time": 1716183260,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 638882,
+        "num": 638882,
+        "word": "短发杨紫",
+        "onboard_time": 1716184519,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 539155,
+        "num": 539155,
+        "word": "警方通报胖猫与谭某经济往来情况",
+        "onboard_time": 1716123377,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 155051,
+        "num": 467852,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1582832,
+        "num": 460576,
+        "word": "以色列发文嘲讽伊朗总统直升机事故",
+        "onboard_time": 1716178163,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 411084,
+        "num": 411084,
+        "word": "九成00后女性认为夫妻该承担同样家务",
+        "onboard_time": 1716185182,
+        "rank": 11,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 399268,
+        "num": 399268,
+        "word": "微信转账520和1314能要回吗",
+        "onboard_time": 1716168438,
+        "rank": 12,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 335081,
+        "num": 335081,
+        "word": "美官员回应伊朗直升机事故",
+        "onboard_time": 1716183020,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38022,
+        "num": 310806,
+        "word": "宝泉悬崖户外运动燃爆了",
+        "onboard_time": 1716184819,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 302032,
+        "num": 302032,
+        "word": "NewJeans被指抄袭墨西哥女团",
+        "onboard_time": 1716186738,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274616,
+        "num": 274616,
+        "word": "首饰金价突破742元每克",
+        "onboard_time": 1716181043,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 269663,
+        "num": 269663,
+        "word": "张艺兴2024世界巡演官宣",
+        "onboard_time": 1716185479,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250498,
+        "num": 250498,
+        "word": "蔡依林回复王俊凯去南昌跳舞",
+        "onboard_time": 1716182480,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243178,
+        "num": 243178,
+        "word": "胖猫姐姐多平台账号被封",
+        "onboard_time": 1716166459,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 691798,
+        "num": 242352,
+        "word": "马龙破防了",
+        "onboard_time": 1716182899,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658234,
+        "num": 241040,
+        "word": "为什么避孕套都放在收银台",
+        "onboard_time": 1716165019,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 453610,
+        "num": 239212,
+        "word": "教授建议18到25岁要多谈恋爱",
+        "onboard_time": 1716182480,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235277,
+        "num": 235277,
+        "word": "付辛博官宣签约爱奇艺",
+        "onboard_time": 1716182300,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227100,
+        "num": 227100,
+        "word": "周翊然人长得那么帅画画就算了",
+        "onboard_time": 1716186439,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213194,
+        "num": 213194,
+        "word": "具荷拉在胜利事件里帮记者找线索",
+        "onboard_time": 1716172758,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212824,
+        "num": 212824,
+        "word": "伊朗总统外交部长都在事故直升机上",
+        "onboard_time": 1716165139,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206721,
+        "num": 206721,
+        "word": "狐妖月红篇定档官宣",
+        "onboard_time": 1716186439,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199984,
+        "num": 199984,
+        "word": "WTT",
+        "onboard_time": 1716185721,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42391,
+        "num": 199164,
+        "word": "今年就做早款人",
+        "onboard_time": 1716186559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199010,
+        "num": 199010,
+        "word": "哈梅内伊",
+        "onboard_time": 1716183919,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198976,
+        "num": 198976,
+        "word": "日本偶遇比伯海莉度假",
+        "onboard_time": 1716184220,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189547,
+        "num": 189547,
+        "word": "胖猫姐姐刘某操控舆论",
+        "onboard_time": 1716129921,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 184862,
+        "num": 184862,
+        "word": "芭莎主编说杨紫长大了",
+        "onboard_time": 1716186319,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181683,
+        "num": 181683,
+        "word": "杨幂一个月播两部剧",
+        "onboard_time": 1716181642,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179986,
+        "num": 179986,
+        "word": "汪苏泷武汉 抢票",
+        "onboard_time": 1716182480,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169487,
+        "num": 169487,
+        "word": "neinei轩轩一起游迪士尼",
+        "onboard_time": 1716184098,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163802,
+        "num": 163802,
+        "word": "ZICO",
+        "onboard_time": 1716178523,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162908,
+        "num": 162908,
+        "word": "新疆阿图什发生5.2级地震",
+        "onboard_time": 1716183081,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161396,
+        "num": 161396,
+        "word": "伊朗外交部就总统直升机发生事故发表声明",
+        "onboard_time": 1716160635,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156119,
+        "num": 156119,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1716181282,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153020,
+        "num": 153020,
+        "word": "陈都灵黄裙海报",
+        "onboard_time": 1716185060,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150067,
+        "num": 150067,
+        "word": "胖猫通报里的三个关键点",
+        "onboard_time": 1716126141,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 148462,
+        "num": 148462,
+        "word": "儿子回家时被狗狗选中了",
+        "onboard_time": 1716180084,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145942,
+        "num": 145942,
+        "word": "猴子已进化到石器时代了吗",
+        "onboard_time": 1716186738,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145358,
+        "num": 145358,
+        "word": "伊朗总统直升机残骸已找到",
+        "onboard_time": 1716175700,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 144306,
+        "num": 144306,
+        "word": "以为是格莱美结果是歌手",
+        "onboard_time": 1716181821,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139201,
+        "num": 139201,
+        "word": "王俊凯最可爱美丽的Jolin姐姐",
+        "onboard_time": 1716183260,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137339,
+        "num": 137339,
+        "word": "伊朗总统所乘直升机螺旋桨及驾驶舱被烧毁",
+        "onboard_time": 1716182300,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130760,
+        "num": 130760,
+        "word": "谭某未以恋爱为名骗取胖猫财物",
+        "onboard_time": 1716129142,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#古老文物活起来现代生活精彩不断#"
+    }
+  }
+}
