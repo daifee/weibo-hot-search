@@ -1,0 +1,410 @@
+{
+  "runTime": 1716189557870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2702000,
+        "num": 2702000,
+        "word": "伊朗总统遇难",
+        "onboard_time": 1716178103,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1995910,
+        "num": 1995910,
+        "word": "马龙退赛",
+        "onboard_time": 1716187279,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21341,
+        "num": 1123092,
+        "word": "小满恰逢520",
+        "onboard_time": 1716160515,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865055,
+        "num": 865055,
+        "word": "加纳总统车队发生车祸",
+        "onboard_time": 1716181165,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 725584,
+        "num": 725584,
+        "word": "曝涂磊私生活混乱网友道歉",
+        "onboard_time": 1716183201,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674098,
+        "num": 674098,
+        "word": "九成00后女性认为夫妻该承担同样家务",
+        "onboard_time": 1716185182,
+        "rank": 5,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 597304,
+        "num": 597304,
+        "word": "伊朗第一副总统将承担总统权力职能",
+        "onboard_time": 1716188420,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 582768,
+        "num": 582768,
+        "word": "伊朗总统直升机事故遇难者搜寻结束",
+        "onboard_time": 1716187879,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 542591,
+        "num": 542591,
+        "word": "李胜利拖拽女性视频",
+        "onboard_time": 1716170778,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147911,
+        "num": 504128,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29335,
+        "num": 499423,
+        "word": "听杨紫的好好爱自己",
+        "onboard_time": 1716187879,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1212543,
+        "num": 499330,
+        "word": "以色列发文嘲讽伊朗总统直升机事故",
+        "onboard_time": 1716178163,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 499100,
+        "num": 499100,
+        "word": "金价",
+        "onboard_time": 1716183260,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 482849,
+        "num": 482849,
+        "word": "警方通报胖猫与谭某经济往来情况",
+        "onboard_time": 1716123377,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 13898,
+        "num": 449823,
+        "word": "懂事的520礼物是会自己送上门的",
+        "onboard_time": 1716189380,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446498,
+        "num": 446498,
+        "word": "教授建议18到25岁要多谈恋爱",
+        "onboard_time": 1716182480,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422116,
+        "num": 422116,
+        "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
+        "onboard_time": 1716174739,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 417676,
+        "num": 417676,
+        "word": "NewJeans被指抄袭墨西哥女团",
+        "onboard_time": 1716186738,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417243,
+        "num": 417243,
+        "word": "杨幂 古偶",
+        "onboard_time": 1716188179,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386904,
+        "num": 386904,
+        "word": "狐妖月红篇定档官宣",
+        "onboard_time": 1716186439,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 660947,
+        "num": 385766,
+        "word": "马龙破防了",
+        "onboard_time": 1716182899,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636606,
+        "num": 382155,
+        "word": "为什么避孕套都放在收银台",
+        "onboard_time": 1716165019,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 378371,
+        "num": 378371,
+        "word": "短发杨紫",
+        "onboard_time": 1716184519,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 366903,
+        "num": 366903,
+        "word": "王一博 9785",
+        "onboard_time": 1716188179,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358633,
+        "num": 358633,
+        "word": "微信转账520和1314能要回吗",
+        "onboard_time": 1716168438,
+        "rank": 24,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 316442,
+        "num": 316442,
+        "word": "BBC纪录片揭露韩星双重生活",
+        "onboard_time": 1716187099,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231430,
+        "num": 231430,
+        "word": "蔡依林被王俊凯牵住时的反应",
+        "onboard_time": 1716189079,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230565,
+        "num": 230565,
+        "word": "美官员回应伊朗直升机事故",
+        "onboard_time": 1716183020,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 227865,
+        "num": 227865,
+        "word": "姚政520卡点1314发婚纱照",
+        "onboard_time": 1716188840,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72964,
+        "num": 219279,
+        "word": "今年就做早款人",
+        "onboard_time": 1716186559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218361,
+        "num": 218361,
+        "word": "年少缺钱缺爱长大豪门阔太",
+        "onboard_time": 1716188059,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219799,
+        "num": 215424,
+        "word": "蔡依林回复王俊凯去南昌跳舞",
+        "onboard_time": 1716182480,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200468,
+        "num": 200468,
+        "word": "易烊千玺 浪漫男人",
+        "onboard_time": 1716188780,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193816,
+        "num": 193816,
+        "word": "周翊然人长得那么帅画画就算了",
+        "onboard_time": 1716186439,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169993,
+        "num": 169993,
+        "word": "胖猫姐姐刘某操控舆论",
+        "onboard_time": 1716129921,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 169728,
+        "num": 169728,
+        "word": "哈梅内伊",
+        "onboard_time": 1716183919,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158995,
+        "num": 158995,
+        "word": "伊朗总统外交部长都在事故直升机上",
+        "onboard_time": 1716165139,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145495,
+        "num": 145495,
+        "word": "芭莎主编说杨紫长大了",
+        "onboard_time": 1716186319,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136624,
+        "num": 136624,
+        "word": "张艺兴2024世界巡演官宣",
+        "onboard_time": 1716185479,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136068,
+        "num": 136068,
+        "word": "具荷拉在胜利事件里帮记者找线索",
+        "onboard_time": 1716172758,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135882,
+        "num": 135882,
+        "word": "胖猫通报里的三个关键点",
+        "onboard_time": 1716126141,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 135488,
+        "num": 135488,
+        "word": "胖猫姐姐多平台账号被封",
+        "onboard_time": 1716166459,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 129233,
+        "num": 129233,
+        "word": "黄子弘凡新歌称为",
+        "onboard_time": 1716188240,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122323,
+        "num": 122323,
+        "word": "三观不同成年轻人分手最高频原因",
+        "onboard_time": 1716189439,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117532,
+        "num": 117532,
+        "word": "伊朗外交部就总统直升机发生事故发表声明",
+        "onboard_time": 1716160635,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 116771,
+        "num": 116771,
+        "word": "伊朗总统直升机残骸已找到",
+        "onboard_time": 1716175700,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 113747,
+        "num": 113747,
+        "word": "猴子已进化到石器时代了吗",
+        "onboard_time": 1716186738,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 113503,
+        "num": 113503,
+        "word": "伊媒公布伊朗总统事故直升机上9人名单",
+        "onboard_time": 1716189259,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 111008,
+        "num": 111008,
+        "word": "谭某未以恋爱为名骗取胖猫财物",
+        "onboard_time": 1716129142,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 105602,
+        "num": 105602,
+        "word": "杨幂一个月播两部剧",
+        "onboard_time": 1716181642,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#古老文物活起来现代生活精彩不断#"
+    }
+  }
+}

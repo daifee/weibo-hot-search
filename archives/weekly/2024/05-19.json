@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716187088415,
+  "endTime": 1716189557870,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -89,6 +89,14 @@
       "onboard_time": 1716165019,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1995910,
+      "num": 1995910,
+      "word": "马龙退赛",
+      "onboard_time": 1716187279,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1987575,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 691798,
-      "num": 324477,
+      "num": 385766,
       "word": "马龙破防了",
       "onboard_time": 1716182899,
       "rank": 24,
@@ -641,6 +649,14 @@
       "onboard_time": 1716123558,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 674098,
+      "num": 674098,
+      "word": "九成00后女性认为夫妻该承担同样家务",
+      "onboard_time": 1716185182,
+      "rank": 13,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 673598,
@@ -747,6 +763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 597304,
+      "num": 597304,
+      "word": "伊朗第一副总统将承担总统权力职能",
+      "onboard_time": 1716188420,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 594418,
       "num": 535813,
       "word": "姑娘翻出一堆施华洛世奇后悔没买黄金",
@@ -777,6 +801,14 @@
       "onboard_time": 1716075255,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 582768,
+      "num": 582768,
+      "word": "伊朗总统直升机事故遇难者搜寻结束",
+      "onboard_time": 1716187879,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 578807,
@@ -1020,7 +1052,7 @@
     },
     {
       "raw_hot": 453610,
-      "num": 332261,
+      "num": 446498,
       "word": "教授建议18到25岁要多谈恋爱",
       "onboard_time": 1716182480,
       "rank": 21,
@@ -1115,12 +1147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417676,
+      "num": 417676,
+      "word": "NewJeans被指抄袭墨西哥女团",
+      "onboard_time": 1716186738,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417519,
       "num": 417519,
       "word": "早就说了我邀请的是断眉亚当",
       "onboard_time": 1716039259,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417243,
+      "num": 417243,
+      "word": "杨幂 古偶",
+      "onboard_time": 1716188179,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 415324,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1716182480,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 411084,
-      "num": 411084,
-      "word": "九成00后女性认为夫妻该承担同样家务",
-      "onboard_time": 1716185182,
-      "rank": 13,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 408250,
@@ -1243,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386904,
+      "num": 386904,
+      "word": "狐妖月红篇定档官宣",
+      "onboard_time": 1716186439,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377338,
       "num": 377338,
       "word": "沙溢说时代少年团一生都有交集",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1716075255,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366903,
+      "num": 366903,
+      "word": "王一博 9785",
+      "onboard_time": 1716188179,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 365440,
@@ -1547,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316442,
+      "num": 316442,
+      "word": "BBC纪录片揭露韩星双重生活",
+      "onboard_time": 1716187099,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315561,
       "num": 315561,
       "word": "种地吧 仲麟",
@@ -1593,14 +1657,6 @@
       "onboard_time": 1716107358,
       "rank": 42,
       "category": "网红"
-    },
-    {
-      "raw_hot": 302032,
-      "num": 302032,
-      "word": "NewJeans被指抄袭墨西哥女团",
-      "onboard_time": 1716186738,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 298812,
@@ -2003,12 +2059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231430,
+      "num": 231430,
+      "word": "蔡依林被王俊凯牵住时的反应",
+      "onboard_time": 1716189079,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229696,
       "num": 229696,
       "word": "李佳琦直播预告",
       "onboard_time": 1716087138,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 227865,
+      "num": 227865,
+      "word": "姚政520卡点1314发婚纱照",
+      "onboard_time": 1716188840,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 227100,
@@ -2073,6 +2145,14 @@
       "onboard_time": 1716184220,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218361,
+      "num": 218361,
+      "word": "年少缺钱缺爱长大豪门阔太",
+      "onboard_time": 1716188059,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 217804,
@@ -2169,14 +2249,6 @@
       "onboard_time": 1716131301,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206721,
-      "num": 206721,
-      "word": "狐妖月红篇定档官宣",
-      "onboard_time": 1716186439,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 206586,
@@ -2337,6 +2409,14 @@
       "onboard_time": 1716127162,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200468,
+      "num": 200468,
+      "word": "易烊千玺 浪漫男人",
+      "onboard_time": 1716188780,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 200380,
@@ -3379,6 +3459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129233,
+      "num": 129233,
+      "word": "黄子弘凡新歌称为",
+      "onboard_time": 1716188240,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128588,
       "num": 128588,
       "word": "失恋后如何减退爱的感觉",
@@ -3497,6 +3585,14 @@
       "onboard_time": 1716172698,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122323,
+      "num": 122323,
+      "word": "三观不同成年轻人分手最高频原因",
+      "onboard_time": 1716189439,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 121832,
@@ -3769,6 +3865,14 @@
       "onboard_time": 1716089177,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113503,
+      "num": 113503,
+      "word": "伊媒公布伊朗总统事故直升机上9人名单",
+      "onboard_time": 1716189259,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 113444,
@@ -4203,6 +4307,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 72964,
+      "num": 219279,
+      "word": "今年就做早款人",
+      "onboard_time": 1716186559,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72673,
       "num": 75984,
       "word": "蜡烛拒绝了你的愿望",
@@ -4443,14 +4555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42391,
-      "num": 199164,
-      "word": "今年就做早款人",
-      "onboard_time": 1716186559,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41758,
       "num": 41758,
       "word": "DNF手游",
@@ -4553,6 +4657,14 @@
       "onboard_time": 1716135496,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29335,
+      "num": 499423,
+      "word": "听杨紫的好好爱自己",
+      "onboard_time": 1716187879,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27323,
@@ -4665,6 +4777,14 @@
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13898,
+      "num": 449823,
+      "word": "懂事的520礼物是会自己送上门的",
+      "onboard_time": 1716189380,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 12115,
