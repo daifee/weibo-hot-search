@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716219306473,
+  "endTime": 1716222236030,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3185,6 +3185,14 @@
       "onboard_time": 1715523322,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1173833,
+      "num": 1173833,
+      "word": "疯产姐妹复更",
+      "onboard_time": 1716219619,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 1172965,
@@ -12755,6 +12763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478735,
+      "num": 368914,
+      "word": "那英高叶 不良少女版",
+      "onboard_time": 1716217880,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478677,
       "num": 478677,
       "word": "何炅客串了难哄",
@@ -15995,14 +16011,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 399662,
-      "num": 368914,
-      "word": "那英高叶 不良少女版",
-      "onboard_time": 1716217880,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 399641,
       "num": 399641,
       "word": "男生地铁上被女子偷拍追上硬刚",
@@ -16736,6 +16744,14 @@
       "word": "官方介入调查空包外卖",
       "onboard_time": 1714806019,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382036,
+      "num": 258909,
+      "word": "男子5点20出发为妻子跑出1314520",
+      "onboard_time": 1716217700,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -19865,6 +19881,14 @@
       "onboard_time": 1716170419,
       "rank": 29,
       "category": "互联网,作品衍生"
+    },
+    {
+      "raw_hot": 317076,
+      "num": 256920,
+      "word": "张若昀",
+      "onboard_time": 1716219559,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 317050,
@@ -24033,14 +24057,6 @@
       "onboard_time": 1715689818,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 255584,
-      "num": 255584,
-      "word": "男子5点20出发为妻子跑出1314520",
-      "onboard_time": 1716217700,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255583,
@@ -40731,6 +40747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154508,
+      "num": 154508,
+      "word": "给李诗恩封神",
+      "onboard_time": 1716217940,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154477,
       "num": 154477,
       "word": "JYP新男团",
@@ -42001,14 +42025,6 @@
       "onboard_time": 1714732220,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 148384,
-      "num": 148384,
-      "word": "给李诗恩封神",
-      "onboard_time": 1716217940,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 148382,
@@ -52059,6 +52075,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88053,
+      "num": 88053,
+      "word": "王一博抵达广西录制纪录片",
+      "onboard_time": 1716221418,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87986,
       "num": 104764,
       "word": "豪猪宝宝的水果吃播",
@@ -53187,6 +53211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69139,
+      "num": 85519,
+      "word": "总决赛门票就是最强假条",
+      "onboard_time": 1716220636,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69087,
       "num": 69087,
       "word": "头发蛋白矫正",
@@ -54041,6 +54073,14 @@
       "onboard_time": 1715401279,
       "rank": 49,
       "category": "自然"
+    },
+    {
+      "raw_hot": 55338,
+      "num": 85406,
+      "word": "小满文案",
+      "onboard_time": 1716220818,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55240,
