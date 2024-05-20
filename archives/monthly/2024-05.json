@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716212060522,
+  "endTime": 1716214711124,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -857,6 +857,14 @@
       "onboard_time": 1714675092,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2020439,
+      "num": 615346,
+      "word": "农夫山泉报案",
+      "onboard_time": 1716210501,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2014368,
@@ -3099,6 +3107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1183790,
+      "num": 249257,
+      "word": "不生孩子是怎么流行开的",
+      "onboard_time": 1716208277,
+      "rank": 23,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1182644,
       "num": 274856,
       "word": "关晓彤徐梓钧是同学",
@@ -3267,14 +3283,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 1153611,
-      "num": 249257,
-      "word": "不生孩子是怎么流行开的",
-      "onboard_time": 1716208277,
-      "rank": 23,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 1152300,
       "num": 348578,
       "word": "大学男生冒充小学生骗取女生骑大马",
@@ -3345,6 +3353,14 @@
       "onboard_time": 1715297655,
       "rank": 33,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 1143128,
+      "num": 1143128,
+      "word": "黄俊捷不参演赴山海",
+      "onboard_time": 1716212299,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1142394,
@@ -7515,6 +7531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701794,
+      "num": 199070,
+      "word": "榴莲今年为什么越来越便宜",
+      "onboard_time": 1716211520,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 700774,
       "num": 700774,
       "word": "雷军回应不建议给年轻人太多建议",
@@ -9377,14 +9401,6 @@
       "onboard_time": 1715509584,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 615346,
-      "num": 615346,
-      "word": "农夫山泉报案",
-      "onboard_time": 1716210501,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 615017,
@@ -12011,6 +12027,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 502653,
+      "num": 502653,
+      "word": "1200元最贵看台票几乎看不到周杰伦",
+      "onboard_time": 1716210619,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 502159,
       "num": 294966,
       "word": "亚当直播回应参加歌手",
@@ -12457,6 +12481,14 @@
       "onboard_time": 1714908499,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487464,
+      "num": 487464,
+      "word": "酵色",
+      "onboard_time": 1716211099,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 487140,
@@ -14185,6 +14217,14 @@
       "onboard_time": 1715760919,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 438111,
+      "num": 438111,
+      "word": "赴山海",
+      "onboard_time": 1715005941,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 437951,
@@ -18635,6 +18675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337906,
+      "num": 337906,
+      "word": "赵露思深V碎花裙",
+      "onboard_time": 1716213320,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 337845,
       "num": 337845,
       "word": "唐嫣活动生图",
@@ -19947,14 +19995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314290,
-      "num": 284410,
-      "word": "赴山海",
-      "onboard_time": 1715005941,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 314194,
       "num": 314194,
       "word": "京城大师赛",
@@ -20563,6 +20603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302449,
+      "num": 529782,
+      "word": "CBA总决赛",
+      "onboard_time": 1715778378,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301735,
       "num": 287255,
       "word": "这下子关晓彤无法直视狍子了",
@@ -20921,14 +20969,6 @@
       "onboard_time": 1714567998,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296012,
-      "num": 529782,
-      "word": "CBA总决赛",
-      "onboard_time": 1715778378,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 295678,
@@ -24291,6 +24331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 250758,
+      "num": 234779,
+      "word": "指甲出现这4个异常可能是大病先兆",
+      "onboard_time": 1716208938,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 250449,
       "num": 250449,
       "word": "近40%日企留用70岁以上的员工",
@@ -24377,14 +24425,6 @@
       "onboard_time": 1715696301,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249099,
-      "num": 249099,
-      "word": "1200元最贵看台票几乎看不到周杰伦",
-      "onboard_time": 1716210619,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 249061,
@@ -25001,6 +25041,14 @@
       "onboard_time": 1714529598,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 243468,
+      "num": 243468,
+      "word": "林凯不参演赴山海",
+      "onboard_time": 1716213741,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 243377,
@@ -25659,6 +25707,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 235708,
+      "num": 235708,
+      "word": "庆余年2朝堂激辩",
+      "onboard_time": 1716213140,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235701,
       "num": 235701,
       "word": "女子担心被扣费手抖输错密码躲过电诈",
@@ -25761,14 +25817,6 @@
       "onboard_time": 1714900880,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 234779,
-      "num": 234779,
-      "word": "指甲出现这4个异常可能是大病先兆",
-      "onboard_time": 1716208938,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 234772,
@@ -28539,6 +28587,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 211260,
+      "num": 197559,
+      "word": "白敬亭丝带当腰带",
+      "onboard_time": 1716212480,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211251,
       "num": 211251,
       "word": "樊振东vs博格斯",
@@ -28665,6 +28721,14 @@
       "onboard_time": 1715268020,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210475,
+      "num": 210475,
+      "word": "辽篮",
+      "onboard_time": 1715779337,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 210384,
@@ -31331,6 +31395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198147,
+      "num": 192749,
+      "word": "王俊凯倒着走给蔡依林唱歌",
+      "onboard_time": 1716211158,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198126,
       "num": 198126,
       "word": "自信和不自信的区别到底有多大",
@@ -31521,6 +31593,14 @@
       "onboard_time": 1716034458,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197523,
+      "num": 197523,
+      "word": "夏之光直播",
+      "onboard_time": 1716212120,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 197437,
@@ -31977,14 +32057,6 @@
       "onboard_time": 1715655738,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195641,
-      "num": 195641,
-      "word": "酵色",
-      "onboard_time": 1716211099,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 195590,
@@ -32753,14 +32825,6 @@
       "onboard_time": 1715437822,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192749,
-      "num": 192749,
-      "word": "王俊凯倒着走给蔡依林唱歌",
-      "onboard_time": 1716211158,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 192706,
@@ -33633,14 +33697,6 @@
       "onboard_time": 1715594839,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 189028,
-      "num": 189028,
-      "word": "榴莲今年为什么越来越便宜",
-      "onboard_time": 1716211520,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 189026,
@@ -38515,6 +38571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164780,
+      "num": 164780,
+      "word": "陈赫郑恺 阑尾兄弟",
+      "onboard_time": 1716212359,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164734,
       "num": 164734,
       "word": "新款iPad被吐槽涨价降配",
@@ -39657,6 +39721,14 @@
       "onboard_time": 1715253618,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158646,
+      "num": 158646,
+      "word": "第五人格联名",
+      "onboard_time": 1716213020,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 158598,
@@ -41841,6 +41913,14 @@
       "onboard_time": 1716080538,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148133,
+      "num": 148133,
+      "word": "情侣之间情绪稳定真的很重要",
+      "onboard_time": 1716209839,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 148014,
@@ -44835,6 +44915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134219,
+      "num": 134219,
+      "word": "世界之外强强联动",
+      "onboard_time": 1716212780,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134209,
       "num": 134209,
       "word": "高考倒计时38天独立解出导数第三问",
@@ -45033,6 +45121,14 @@
       "onboard_time": 1714617496,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133548,
+      "num": 133548,
+      "word": "范闲邓子越对峙",
+      "onboard_time": 1716214460,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 133501,
@@ -46515,14 +46611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126064,
-      "num": 126064,
-      "word": "辽篮",
-      "onboard_time": 1715779337,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126055,
       "num": 126055,
       "word": "学校回应男生偷拍女子裙底被现场抓包",
@@ -47865,14 +47953,6 @@
       "onboard_time": 1716112697,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119013,
-      "num": 119013,
-      "word": "情侣之间情绪稳定真的很重要",
-      "onboard_time": 1716209839,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 118952,
@@ -50083,6 +50163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106162,
+      "num": 106162,
+      "word": "范闲的泪是滚烫的",
+      "onboard_time": 1716214641,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106098,
       "num": 106098,
       "word": "12岁萌娃准备的家长会零食太炸裂",
@@ -50184,6 +50272,14 @@
       "word": "可乐加藿香谁能不上头",
       "onboard_time": 1715933059,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105483,
+      "num": 805643,
+      "word": "小满的一幕幕画面太有爱了",
+      "onboard_time": 1716213560,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -50353,6 +50449,14 @@
       "onboard_time": 1715470576,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103826,
+      "num": 103826,
+      "word": "丈夫称想在去世20年妻子面前大哭一场",
+      "onboard_time": 1716214699,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103729,
@@ -50913,6 +51017,14 @@
       "onboard_time": 1716078496,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98766,
+      "num": 139489,
+      "word": "范志毅520教你开车",
+      "onboard_time": 1716214280,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 98742,
@@ -53472,6 +53584,14 @@
       "word": "乐道L60百公里电耗低至12.1",
       "onboard_time": 1715781918,
       "rank": 15,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 59806,
+      "num": 174799,
+      "word": "新车发布还能现场砍价",
+      "onboard_time": 1716213920,
+      "rank": 28,
       "category": "汽车"
     },
     {
