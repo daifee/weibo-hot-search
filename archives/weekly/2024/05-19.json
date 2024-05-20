@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716194161034,
+  "endTime": 1716196961213,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 8787148,
-      "num": 457875,
+      "num": 462068,
       "word": "汪峰承认恋情",
       "onboard_time": 1716191360,
       "rank": 5,
@@ -195,6 +195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1409747,
+      "num": 396466,
+      "word": "江西贵溪发生恶性伤人事件",
+      "onboard_time": 1716192922,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1393522,
       "num": 1393522,
       "word": "今年能吃到荔枝就不错了",
@@ -273,14 +281,6 @@
       "onboard_time": 1716085998,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1137438,
-      "num": 357232,
-      "word": "江西贵溪发生恶性伤人事件",
-      "onboard_time": 1716192922,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1135318,
@@ -955,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508736,
+      "num": 396197,
+      "word": "贵溪恶性伤人事件已致5伤",
+      "onboard_time": 1716196160,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 507680,
       "num": 389516,
       "word": "吴艳妮母亲回应女儿再次夺冠",
@@ -1043,12 +1051,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466189,
+      "num": 466189,
+      "word": "贵溪警方通报一小学发生伤人案",
+      "onboard_time": 1716196340,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465768,
       "num": 465768,
       "word": "五年了 还得是张若昀",
       "onboard_time": 1716132500,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 462809,
+      "num": 462809,
+      "word": "国台办发言人就台湾地区领导人讲话表态",
+      "onboard_time": 1716195022,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 461079,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1716109996,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 444687,
+      "num": 444687,
+      "word": "李胜利",
+      "onboard_time": 1716195141,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 441685,
@@ -1259,6 +1291,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 406568,
+      "num": 406568,
+      "word": "520 垃圾桶",
+      "onboard_time": 1716196101,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405223,
       "num": 405223,
       "word": "种地吧",
@@ -1313,6 +1353,14 @@
       "onboard_time": 1716175159,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395052,
+      "num": 395052,
+      "word": "汪文斌驳斥赖清德言论",
+      "onboard_time": 1716195981,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 393881,
@@ -1625,6 +1673,14 @@
       "onboard_time": 1716095716,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322018,
+      "num": 322018,
+      "word": "具荷拉好勇敢",
+      "onboard_time": 1716193701,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 321175,
@@ -2059,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247873,
+      "num": 247873,
+      "word": "台独是死路一条",
+      "onboard_time": 1716194181,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 247255,
       "num": 247255,
       "word": "她不是不疼只是习惯了忍",
@@ -2139,6 +2203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242010,
+      "num": 187629,
+      "word": "伊朗最高领袖哈梅内伊发声",
+      "onboard_time": 1716196040,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 241164,
       "num": 403998,
       "word": "为什么建议你夏天吃点樱桃",
@@ -2195,12 +2267,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 227678,
-      "num": 227678,
-      "word": "具荷拉好勇敢",
-      "onboard_time": 1716193701,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 227848,
+      "num": 227848,
+      "word": "专家称十年后房子不可能卖白菜价",
+      "onboard_time": 1716193581,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 227100,
@@ -2329,6 +2401,14 @@
       "onboard_time": 1716191060,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 213431,
+      "num": 213431,
+      "word": "教育局通报初中女生被打",
+      "onboard_time": 1716194061,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213368,
@@ -2787,6 +2867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188183,
+      "num": 188183,
+      "word": "普通女孩给男朋友准备的520礼物",
+      "onboard_time": 1716195801,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187831,
       "num": 187831,
       "word": "亚当曾说想和蔡依林合作",
@@ -2801,6 +2889,14 @@
       "onboard_time": 1716131422,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186927,
+      "num": 186927,
+      "word": "张凌赫徐若晗 脑补一本小说",
+      "onboard_time": 1716194661,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 186615,
@@ -2947,6 +3043,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172569,
+      "num": 172569,
+      "word": "520很多人把花扔了",
+      "onboard_time": 1716195381,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 172447,
+      "num": 172447,
+      "word": "希林娜依高 今年不劝分",
+      "onboard_time": 1716194962,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172314,
       "num": 172314,
       "word": "三观不同成年轻人分手最高频原因",
@@ -3001,14 +3113,6 @@
       "onboard_time": 1716096797,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 167785,
-      "num": 167785,
-      "word": "专家称十年后房子不可能卖白菜价",
-      "onboard_time": 1716193581,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 167722,
@@ -3233,6 +3337,14 @@
       "onboard_time": 1716189259,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 151551,
+      "num": 151551,
+      "word": "金价明升暗降疯狂囤金理智吗",
+      "onboard_time": 1716195861,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 150913,
@@ -3467,20 +3579,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 141886,
-      "num": 141886,
-      "word": "教育局通报初中女生被打",
-      "onboard_time": 1716194061,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141434,
       "num": 141434,
       "word": "冰淇淋和雪糕的区别居然是空气",
       "onboard_time": 1716111017,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141046,
+      "num": 118043,
+      "word": "520官宣一下我的crush",
+      "onboard_time": 1716196340,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 140909,
@@ -3771,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125070,
+      "num": 125070,
+      "word": "今年618美妆品牌在价格上卷起来了",
+      "onboard_time": 1716196759,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 125010,
       "num": 125010,
       "word": "小胖FMVP",
@@ -3913,6 +4033,14 @@
       "onboard_time": 1716096497,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119145,
+      "num": 119145,
+      "word": "2个拉伸动作放松腿部肌肉",
+      "onboard_time": 1716196701,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 119043,
@@ -4121,6 +4249,14 @@
       "onboard_time": 1716120917,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111949,
+      "num": 111949,
+      "word": "JYP新男团",
+      "onboard_time": 1716194303,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 111945,

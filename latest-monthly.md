@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/20 16:36:01
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/20 17:22:41
 </p>
 </blockquote>
 <p>
@@ -1581,6 +1581,12 @@ G2对战TES（热度：1477707）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%B4%B5%E6%BA%AA%E5%8F%91%E7%94%9F%E6%81%B6%E6%80%A7%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+江西贵溪发生恶性伤人事件（热度：1409747）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E4%BA%91%E6%B8%AF%E9%AC%BC%E7%A7%A4%E5%95%86%E8%B4%A9%E5%B7%B2%E8%A2%AB%E6%B8%85%E5%87%BA%E5%B8%82%E5%9C%BA%23" target="weibo">
 连云港鬼秤商贩已被清出市场（热度：1409475）
 </a>
@@ -2507,12 +2513,6 @@ IVE打歌将佩戴中国结（热度：1142394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%A2%93%E6%99%A8%20%E7%BF%BB%E7%BA%A2%23" target="weibo">
 刘梓晨 翻红（热度：1139081）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%B4%B5%E6%BA%AA%E5%8F%91%E7%94%9F%E6%81%B6%E6%80%A7%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
-江西贵溪发生恶性伤人事件（热度：1137438）
 </a>
 </li>
 
