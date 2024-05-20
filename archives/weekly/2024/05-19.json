@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716229466512,
+  "endTime": 1716230201428,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -5547,6 +5547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83704,
+      "num": 65647,
+      "word": "辛巴快手号直播权限解封",
+      "onboard_time": 1716227951,
+      "rank": 12,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 82981,
       "num": 577196,
       "word": "南宁暴雨中的暖心瞬间",
@@ -5713,14 +5721,6 @@
       "onboard_time": 1716174319,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 68825,
-      "num": 65647,
-      "word": "辛巴快手号直播权限解封",
-      "onboard_time": 1716227951,
-      "rank": 12,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 68793,
@@ -5963,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43622,
+      "num": 47336,
+      "word": "黄俊捷林凯赴山海特邀嘉宾",
+      "onboard_time": 1716228971,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41758,
       "num": 41758,
       "word": "DNF手游",
@@ -5985,14 +5993,6 @@
       "onboard_time": 1716225074,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40737,
-      "num": 47336,
-      "word": "黄俊捷林凯赴山海特邀嘉宾",
-      "onboard_time": 1716228971,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 39841,
@@ -6121,6 +6121,14 @@
       "onboard_time": 1716135496,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27331,
+      "num": 27331,
+      "word": "张若昀腰围62",
+      "onboard_time": 1716229630,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27323,
