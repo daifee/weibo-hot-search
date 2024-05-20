@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716225549120,
+  "endTime": 1716226463421,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -1395,6 +1395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 426505,
+      "num": 426505,
+      "word": "房价会不会报复性上涨",
+      "onboard_time": 1716222497,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425842,
       "num": 425842,
       "word": "老林哭了",
@@ -1489,14 +1497,6 @@
       "onboard_time": 1716129501,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 408056,
-      "num": 408056,
-      "word": "房价会不会报复性上涨",
-      "onboard_time": 1716222497,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406771,
@@ -5931,6 +5931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44144,
+      "num": 139287,
+      "word": "王启年的回旋镖镖镖扎心",
+      "onboard_time": 1716225074,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43969,
       "num": 43969,
       "word": "鹿晗和张远两个人凑不出一个胆",
@@ -5953,14 +5961,6 @@
       "onboard_time": 1716160035,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 41368,
-      "num": 139287,
-      "word": "王启年的回旋镖镖镖扎心",
-      "onboard_time": 1716225074,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 41128,
@@ -6025,6 +6025,14 @@
       "onboard_time": 1716189380,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34039,
+      "num": 90474,
+      "word": "光遇",
+      "onboard_time": 1716226153,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 33656,

@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716225549120,
+  "endTime": 1716226463421,
   "band_list": [
     {
       "raw_hot": 1182657,
@@ -67,19 +67,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426505,
+      "num": 426505,
+      "word": "房价会不会报复性上涨",
+      "onboard_time": 1716222497,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420206,
       "num": 149529,
       "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
       "onboard_time": 1716216320,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408056,
-      "num": 408056,
-      "word": "房价会不会报复性上涨",
-      "onboard_time": 1716222497,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -411,12 +411,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41368,
+      "raw_hot": 44144,
       "num": 139287,
       "word": "王启年的回旋镖镖镖扎心",
       "onboard_time": 1716225074,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41940,
+      "num": 90303,
+      "word": "王者520新英雄少司缘",
+      "onboard_time": 1716209118,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 41121,
@@ -431,6 +439,14 @@
       "num": 138891,
       "word": "恋与深空",
       "onboard_time": 1716224294,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 34039,
+      "num": 90474,
+      "word": "光遇",
+      "onboard_time": 1716226153,
       "rank": 44,
       "category": "游戏"
     }

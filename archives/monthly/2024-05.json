@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716225549120,
+  "endTime": 1716226463421,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -14707,6 +14707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 426505,
+      "num": 426505,
+      "word": "房价会不会报复性上涨",
+      "onboard_time": 1716222497,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425842,
       "num": 425842,
       "word": "老林哭了",
@@ -15601,14 +15609,6 @@
       "onboard_time": 1715820619,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408056,
-      "num": 408056,
-      "word": "房价会不会报复性上涨",
-      "onboard_time": 1716222497,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408003,
@@ -54803,6 +54803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44144,
+      "num": 139287,
+      "word": "王启年的回旋镖镖镖扎心",
+      "onboard_time": 1716225074,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44120,
       "num": 44120,
       "word": "抗抑郁食物清单",
@@ -54961,14 +54969,6 @@
       "onboard_time": 1715311637,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41368,
-      "num": 139287,
-      "word": "王启年的回旋镖镖镖扎心",
-      "onboard_time": 1716225074,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 41128,
