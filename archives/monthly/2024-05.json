@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716200448474,
+  "endTime": 1716201410900,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1619,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1557786,
+      "num": 1557786,
+      "word": "520 垃圾桶",
+      "onboard_time": 1716196101,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1557364,
       "num": 1557364,
       "word": "央视喊话袁娅维支援歌手",
@@ -1672,14 +1680,6 @@
       "word": "云南镇雄持刀伤人案致21伤2死",
       "onboard_time": 1715064739,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1539065,
-      "num": 1539065,
-      "word": "520 垃圾桶",
-      "onboard_time": 1716196101,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -10427,6 +10427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 558022,
+      "num": 494380,
+      "word": "到处说前任死了违法吗",
+      "onboard_time": 1716198140,
+      "rank": 5,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 557501,
       "num": 557501,
       "word": "新冠变异株KP.2多国蔓延",
@@ -11979,6 +11987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 502027,
+      "num": 344297,
+      "word": "李艾的腿被小朋友以为踩了高跷",
+      "onboard_time": 1716198620,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501861,
       "num": 501861,
       "word": "印度30米高广告牌倒塌12人死亡",
@@ -12193,14 +12209,6 @@
       "onboard_time": 1715219597,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 494380,
-      "num": 494380,
-      "word": "到处说前任死了违法吗",
-      "onboard_time": 1716198140,
-      "rank": 5,
-      "category": "科学科普"
     },
     {
       "raw_hot": 494166,
@@ -13033,14 +13041,6 @@
       "onboard_time": 1715679198,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466519,
-      "num": 344297,
-      "word": "李艾的腿被小朋友以为踩了高跷",
-      "onboard_time": 1716198620,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 466435,
@@ -19779,6 +19779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 314753,
+      "num": 314753,
+      "word": "伊朗最高领袖哈梅内伊发声",
+      "onboard_time": 1716196040,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 314706,
       "num": 314706,
       "word": "iPhone在华市场份额跌出前5",
@@ -20235,14 +20243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306005,
-      "num": 306005,
-      "word": "伊朗最高领袖哈梅内伊发声",
-      "onboard_time": 1716196040,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 305588,
       "num": 305588,
       "word": "体制内可以干的兼职",
@@ -20281,6 +20281,14 @@
       "onboard_time": 1715260218,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305105,
+      "num": 305105,
+      "word": "白鹿曾经试戏过如懿传",
+      "onboard_time": 1716199700,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 304942,
@@ -20675,6 +20683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297702,
+      "num": 227927,
+      "word": "今年520朋友圈怎么没人秀恩爱了",
+      "onboard_time": 1716200300,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 297684,
       "num": 297684,
       "word": "盗墓笔记 四美",
@@ -21001,14 +21017,6 @@
       "onboard_time": 1715924840,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292078,
-      "num": 292078,
-      "word": "白鹿曾经试戏过如懿传",
-      "onboard_time": 1716199700,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 291724,
@@ -25113,14 +25121,6 @@
       "onboard_time": 1715408299,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 240262,
-      "num": 213914,
-      "word": "今年520朋友圈怎么没人秀恩爱了",
-      "onboard_time": 1716200300,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 240116,
@@ -29555,6 +29555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204796,
+      "num": 204796,
+      "word": "BLG选手深夜骑行",
+      "onboard_time": 1716200419,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204765,
       "num": 204765,
       "word": "江疏影胡先煦JP分明",
@@ -32049,14 +32057,6 @@
       "onboard_time": 1714984518,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 194355,
-      "num": 194355,
-      "word": "BLG选手深夜骑行",
-      "onboard_time": 1716200419,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 194329,
@@ -42171,6 +42171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145182,
+      "num": 366600,
+      "word": "为什么西地那非这么受欢迎",
+      "onboard_time": 1716197300,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 145108,
       "num": 145108,
       "word": "巴黎奥运乒乓项目7月27日开赛",
@@ -43667,6 +43675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138360,
+      "num": 138360,
+      "word": "ZICO歌词 掌柜",
+      "onboard_time": 1716197721,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138339,
       "num": 138339,
       "word": "五一假期多地旅游收入",
@@ -43705,6 +43721,14 @@
       "onboard_time": 1715405839,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138120,
+      "num": 138120,
+      "word": "为什么卫生巾非得搞成组合装",
+      "onboard_time": 1716200779,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 138072,
@@ -46019,14 +46043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126624,
-      "num": 126624,
-      "word": "ZICO歌词 掌柜",
-      "onboard_time": 1716197721,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 126613,
       "num": 126613,
       "word": "鸟巢 收音",
@@ -46793,6 +46809,14 @@
       "onboard_time": 1714549578,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122713,
+      "num": 122713,
+      "word": "春日氛围妆容必备彩妆",
+      "onboard_time": 1716200900,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 122695,
@@ -48067,14 +48091,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 116021,
-      "num": 366600,
-      "word": "为什么西地那非这么受欢迎",
-      "onboard_time": 1716197300,
-      "rank": 46,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 116005,
       "num": 147007,
       "word": "熊猫吃到翘脚竹子",
@@ -48857,6 +48873,14 @@
       "onboard_time": 1714633758,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111999,
+      "num": 111999,
+      "word": "迈克马龙破防了",
+      "onboard_time": 1716182899,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111782,
@@ -53043,6 +53067,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 59147,
+      "num": 212737,
+      "word": "真低价不躲猫猫",
+      "onboard_time": 1716199879,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 59090,
       "num": 59090,
       "word": "热心市民龚俊黄景瑜",
@@ -53457,14 +53489,6 @@
       "onboard_time": 1715698760,
       "rank": 49,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 53224,
-      "num": 212737,
-      "word": "真低价不躲猫猫",
-      "onboard_time": 1716199879,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 52710,
