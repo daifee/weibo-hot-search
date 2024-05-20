@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716209441186,
+  "endTime": 1716211310083,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1131,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1807466,
+      "num": 1807466,
+      "word": "以色列总理涉嫌战争罪被申请逮捕令",
+      "onboard_time": 1716206777,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1788659,
       "num": 885408,
       "word": "蜜雪冰城就重庆空包致歉",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1714975339,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1752393,
-      "num": 1752393,
-      "word": "以色列总理涉嫌战争罪被申请逮捕令",
-      "onboard_time": 1716206777,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1749550,
@@ -4793,6 +4793,14 @@
       "onboard_time": 1715405120,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 926214,
+      "num": 249257,
+      "word": "不生孩子是怎么流行开的",
+      "onboard_time": 1716208277,
+      "rank": 23,
+      "category": "社会议题"
     },
     {
       "raw_hot": 923670,
@@ -12860,7 +12868,7 @@
     },
     {
       "raw_hot": 474232,
-      "num": 273896,
+      "num": 307613,
       "word": "曝李胜利欠款百万不归还",
       "onboard_time": 1716204798,
       "rank": 35,
@@ -13209,6 +13217,14 @@
       "onboard_time": 1715992639,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 464729,
+      "num": 464729,
+      "word": "背着善宰跑",
+      "onboard_time": 1714524317,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 464635,
@@ -15659,6 +15675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404056,
+      "num": 404056,
+      "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
+      "onboard_time": 1716208458,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403920,
       "num": 403920,
       "word": "周也深V",
@@ -16073,6 +16097,14 @@
       "onboard_time": 1714783037,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 396068,
+      "num": 396068,
+      "word": "阴阳师",
+      "onboard_time": 1715330599,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 395551,
@@ -17025,14 +17057,6 @@
       "onboard_time": 1716129321,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371477,
-      "num": 371477,
-      "word": "背着善宰跑",
-      "onboard_time": 1714524317,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 371366,
@@ -18235,6 +18259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345477,
+      "num": 345477,
+      "word": "王俊凯的内搭和蔡依林的裙子",
+      "onboard_time": 1716205878,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345460,
       "num": 345460,
       "word": "嫦娥六号奔月",
@@ -18305,14 +18337,6 @@
       "onboard_time": 1715868560,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343950,
-      "num": 261348,
-      "word": "王俊凯的内搭和蔡依林的裙子",
-      "onboard_time": 1716205878,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 343681,
@@ -19395,14 +19419,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 323655,
-      "num": 174484,
-      "word": "不生孩子是怎么流行开的",
-      "onboard_time": 1716208277,
-      "rank": 23,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 323572,
       "num": 77295,
       "word": "开心消消乐",
@@ -19979,6 +19995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 312824,
+      "num": 306928,
+      "word": "王者520新英雄少司缘",
+      "onboard_time": 1716209118,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312733,
       "num": 312733,
       "word": "空包叫花鸡店主称临时工错拿样品",
@@ -20281,14 +20305,6 @@
       "onboard_time": 1714998258,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 307621,
-      "num": 307621,
-      "word": "阴阳师",
-      "onboard_time": 1715330599,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 307004,
@@ -23323,6 +23339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262422,
+      "num": 262422,
+      "word": "第五人格",
+      "onboard_time": 1715258118,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262421,
       "num": 262421,
       "word": "五哈",
@@ -24331,6 +24355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249229,
+      "num": 249229,
+      "word": "520文案",
+      "onboard_time": 1716209657,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249167,
       "num": 249167,
       "word": "背着善宰跑第12集",
@@ -24953,14 +24985,6 @@
       "onboard_time": 1714529598,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 243409,
-      "num": 243409,
-      "word": "王者520新英雄少司缘",
-      "onboard_time": 1716209118,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 243377,
@@ -26340,7 +26364,7 @@
     },
     {
       "raw_hot": 228778,
-      "num": 144389,
+      "num": 228077,
       "word": "老乡鸡回应葱油鸡重量少15克",
       "onboard_time": 1716208219,
       "rank": 30,
@@ -26361,6 +26385,14 @@
       "onboard_time": 1715948058,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228365,
+      "num": 228365,
+      "word": "指甲出现这4个异常可能是大病先兆",
+      "onboard_time": 1716208938,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 228305,
@@ -26857,6 +26889,14 @@
       "onboard_time": 1715737698,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223645,
+      "num": 223645,
+      "word": "农夫山泉报案",
+      "onboard_time": 1716210501,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223628,
@@ -30563,14 +30603,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200972,
-      "num": 142788,
-      "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
-      "onboard_time": 1716208458,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200960,
       "num": 193127,
       "word": "张杰高飞舞台",
@@ -33283,6 +33315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190072,
+      "num": 190072,
+      "word": "1200元最贵看台票几乎看不到周杰伦",
+      "onboard_time": 1716210619,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190054,
       "num": 190054,
       "word": "西湖音乐节",
@@ -34243,6 +34283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186063,
+      "num": 186063,
+      "word": "魏大勋掰loopy的牙",
+      "onboard_time": 1716208578,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186015,
       "num": 180133,
       "word": "导演回应一顿火锅撤档",
@@ -34641,6 +34689,14 @@
       "onboard_time": 1714938191,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 183772,
+      "num": 249271,
+      "word": "618电商平台卷到半价卖车了",
+      "onboard_time": 1716207498,
+      "rank": 20,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 183742,
@@ -36355,6 +36411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174854,
+      "num": 174854,
+      "word": "杨紫奢牌待遇",
+      "onboard_time": 1716208398,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174752,
       "num": 174752,
       "word": "月球背面",
@@ -37049,14 +37113,6 @@
       "onboard_time": 1715234178,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171387,
-      "num": 171387,
-      "word": "杨紫奢牌待遇",
-      "onboard_time": 1716208398,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171382,
@@ -38217,6 +38273,14 @@
       "onboard_time": 1715324000,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165705,
+      "num": 165705,
+      "word": "黄金狂飙后钻石大降近30%",
+      "onboard_time": 1716210740,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 165700,
@@ -40779,14 +40843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152916,
-      "num": 152916,
-      "word": "指甲出现这4个异常可能是大病先兆",
-      "onboard_time": 1716208938,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 152876,
       "num": 152876,
       "word": "宋茜把假睫毛搓掉了",
@@ -40905,14 +40961,6 @@
       "onboard_time": 1714539679,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152188,
-      "num": 152188,
-      "word": "第五人格",
-      "onboard_time": 1715258118,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 152181,
@@ -42387,6 +42435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145101,
+      "num": 145101,
+      "word": "gemini才是KPL真顶流",
+      "onboard_time": 1716209178,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145091,
       "num": 190145,
       "word": "残疾女子直播遭拍臀涉事男子被行拘",
@@ -43459,6 +43515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140310,
+      "num": 310702,
+      "word": "这届年轻人520的健康互动姿势",
+      "onboard_time": 1716210138,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140304,
       "num": 140304,
       "word": "西安人的城墙下全都不是西安人",
@@ -44203,6 +44267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136559,
+      "num": 136559,
+      "word": "林更新赵又廷 所以和黑粉结拜了",
+      "onboard_time": 1716210078,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136539,
       "num": 136539,
       "word": "小猫偷溜进笼里陪猫爸做绝育",
@@ -44721,14 +44793,6 @@
       "onboard_time": 1715937258,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134212,
-      "num": 134212,
-      "word": "gemini才是KPL真顶流",
-      "onboard_time": 1716209178,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 134209,
@@ -45745,14 +45809,6 @@
       "onboard_time": 1714644918,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129411,
-      "num": 129411,
-      "word": "魏大勋掰loopy的牙",
-      "onboard_time": 1716208578,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 129404,
@@ -47147,6 +47203,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 122318,
+      "num": 122318,
+      "word": "王俊凯倒着走给蔡依林唱歌",
+      "onboard_time": 1716211158,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122295,
       "num": 122295,
       "word": "红烧牛肉做法",
@@ -47529,6 +47593,14 @@
       "onboard_time": 1714829780,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120177,
+      "num": 120177,
+      "word": "酵色",
+      "onboard_time": 1716211099,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 120153,
@@ -50363,6 +50435,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 102797,
+      "num": 102797,
+      "word": "情侣之间情绪稳定真的很重要",
+      "onboard_time": 1716209839,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102723,
       "num": 126079,
       "word": "陈哲远娜扎cp感",
@@ -50753,14 +50833,6 @@
       "onboard_time": 1714615339,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 99286,
-      "num": 174528,
-      "word": "618电商平台卷到半价卖车了",
-      "onboard_time": 1716207498,
-      "rank": 20,
-      "category": "互联网,汽车"
     },
     {
       "raw_hot": 99228,
@@ -51265,6 +51337,14 @@
       "onboard_time": 1715257937,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93704,
+      "num": 93704,
+      "word": "莫兰德犯规",
+      "onboard_time": 1716209959,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 93628,
@@ -54921,6 +55001,14 @@
       "onboard_time": 1715780600,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32492,
+      "num": 252109,
+      "word": "DNF手游520发布会真的能打",
+      "onboard_time": 1716210259,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 32428,
