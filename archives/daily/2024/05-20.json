@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716189557870,
+  "endTime": 1716190467636,
   "band_list": [
     {
       "raw_hot": 11623813,
@@ -275,6 +275,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 753186,
+      "num": 753186,
+      "word": "九成00后女性认为夫妻该承担同样家务",
+      "onboard_time": 1716185182,
+      "rank": 13,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 727701,
       "num": 727701,
       "word": "庆余年2第九集封神",
@@ -291,12 +299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 674098,
-      "num": 674098,
-      "word": "九成00后女性认为夫妻该承担同样家务",
-      "onboard_time": 1716185182,
-      "rank": 13,
-      "category": "情感,社会新闻"
+      "raw_hot": 687393,
+      "num": 687393,
+      "word": "杨幂 古偶",
+      "onboard_time": 1716188179,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 684080,
+      "num": 684080,
+      "word": "伊朗第一副总统将承担总统权力职能",
+      "onboard_time": 1716188420,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 673598,
@@ -337,14 +353,6 @@
       "onboard_time": 1716162738,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 597304,
-      "num": 597304,
-      "word": "伊朗第一副总统将承担总统权力职能",
-      "onboard_time": 1716188420,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 582768,
@@ -467,8 +475,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460851,
+      "num": 460851,
+      "word": "王一博 9785",
+      "onboard_time": 1716188179,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 453610,
-      "num": 446498,
+      "num": 449270,
       "word": "教授建议18到25岁要多谈恋爱",
       "onboard_time": 1716182480,
       "rank": 21,
@@ -529,14 +545,6 @@
       "onboard_time": 1716186738,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 417243,
-      "num": 417243,
-      "word": "杨幂 古偶",
-      "onboard_time": 1716188179,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 411371,
@@ -609,14 +617,6 @@
       "onboard_time": 1716140712,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366903,
-      "num": 366903,
-      "word": "王一博 9785",
-      "onboard_time": 1716188179,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 365440,
@@ -763,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280210,
+      "num": 261501,
+      "word": "姚政520卡点1314发婚纱照",
+      "onboard_time": 1716188840,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277121,
       "num": 277121,
       "word": "周一 很需要撒一把糯米",
@@ -851,6 +859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256659,
+      "num": 256659,
+      "word": "蔡依林被王俊凯牵住时的反应",
+      "onboard_time": 1716189079,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255583,
       "num": 255583,
       "word": "十个勤天演唱会",
@@ -904,22 +920,6 @@
       "word": "朴志效说队内都是商业关系",
       "onboard_time": 1716123558,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 231430,
-      "num": 231430,
-      "word": "蔡依林被王俊凯牵住时的反应",
-      "onboard_time": 1716189079,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 227865,
-      "num": 227865,
-      "word": "姚政520卡点1314发婚纱照",
-      "onboard_time": 1716188840,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -987,6 +987,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 213368,
+      "num": 213368,
+      "word": "易烊千玺 浪漫男人",
+      "onboard_time": 1716188780,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209509,
       "num": 209509,
       "word": "俄罗斯将协助搜救伊朗事故直升机",
@@ -1035,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204265,
+      "num": 204265,
+      "word": "贾玲 百花奖",
+      "onboard_time": 1716190039,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203737,
       "num": 397518,
       "word": "郎平官宣新身份",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1716168078,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200468,
-      "num": 200468,
-      "word": "易烊千玺 浪漫男人",
-      "onboard_time": 1716188780,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 199010,
@@ -1147,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172314,
+      "num": 172314,
+      "word": "三观不同成年轻人分手最高频原因",
+      "onboard_time": 1716189439,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171050,
       "num": 171050,
       "word": "520和521恰逢农历1314",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1716167661,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 160384,
+      "num": 160384,
+      "word": "A股",
+      "onboard_time": 1716189679,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 159272,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1716186738,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 145282,
+      "num": 145282,
+      "word": "为什么男性天生屁股更翘",
+      "onboard_time": 1716189799,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144383,
@@ -1363,6 +1395,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 126555,
+      "num": 126555,
+      "word": "脱口秀演员演出结束遭人追打",
+      "onboard_time": 1716190280,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125367,
+      "num": 125367,
+      "word": "种地吧观后感",
+      "onboard_time": 1716189978,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124418,
       "num": 124418,
       "word": "你好星期六 TFBOYS",
@@ -1387,14 +1435,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 122323,
-      "num": 122323,
-      "word": "三观不同成年轻人分手最高频原因",
-      "onboard_time": 1716189439,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121832,
       "num": 121832,
       "word": "为何阿嬷手作10元咖啡爆火",
@@ -1411,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118938,
+      "num": 118938,
+      "word": "伊媒公布伊朗总统事故直升机上9人名单",
+      "onboard_time": 1716189259,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 117205,
       "num": 141471,
       "word": "尹净汉全圆佑双人小分队",
@@ -1419,20 +1467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113503,
-      "num": 113503,
-      "word": "伊媒公布伊朗总统事故直升机上9人名单",
-      "onboard_time": 1716189259,
-      "rank": 47,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 109452,
       "num": 560205,
       "word": "鲜奶是如何提升身体保护力的",
       "onboard_time": 1716170597,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109389,
+      "num": 109389,
+      "word": "李嘉格 想红是因为没红过",
+      "onboard_time": 1716190400,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 109216,
@@ -1579,20 +1627,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76638,
+      "num": 219279,
+      "word": "今年就做早款人",
+      "onboard_time": 1716186559,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73592,
       "num": 607463,
       "word": "当华为全家桶遇上520",
       "onboard_time": 1716178103,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 72964,
-      "num": 219279,
-      "word": "今年就做早款人",
-      "onboard_time": 1716186559,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70592,
@@ -1683,12 +1731,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38087,
+      "num": 499423,
+      "word": "听杨紫的好好爱自己",
+      "onboard_time": 1716187879,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 38022,
       "num": 310806,
       "word": "宝泉悬崖户外运动燃爆了",
       "onboard_time": 1716184819,
       "rank": 14,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 34164,
+      "num": 463135,
+      "word": "懂事的520礼物是会自己送上门的",
+      "onboard_time": 1716189380,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 33656,
@@ -1721,14 +1785,6 @@
       "onboard_time": 1716135496,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29335,
-      "num": 499423,
-      "word": "听杨紫的好好爱自己",
-      "onboard_time": 1716187879,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27323,
@@ -1777,14 +1833,6 @@
       "onboard_time": 1716091037,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13898,
-      "num": 449823,
-      "word": "懂事的520礼物是会自己送上门的",
-      "onboard_time": 1716189380,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 12115,
