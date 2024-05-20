@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716179890317,
+  "endTime": 1716182379895,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1625,6 +1625,14 @@
       "onboard_time": 1715956045,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1548508,
+      "num": 1548508,
+      "word": "加纳总统车队发生车祸",
+      "onboard_time": 1716181165,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1545383,
@@ -4403,6 +4411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 967147,
+      "num": 908297,
+      "word": "以色列",
+      "onboard_time": 1714731679,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 967028,
       "num": 967028,
       "word": "孙颖莎vs陈梦",
@@ -6881,14 +6897,6 @@
       "onboard_time": 1714999759,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 737392,
-      "num": 908297,
-      "word": "以色列",
-      "onboard_time": 1714731679,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 737084,
@@ -13419,6 +13427,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 452057,
+      "num": 452057,
+      "word": "首饰金价突破742元每克",
+      "onboard_time": 1716181043,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 452056,
       "num": 452056,
       "word": "普京向人民英雄纪念碑敬献花圈",
@@ -14401,6 +14417,14 @@
       "onboard_time": 1714728979,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 424274,
+      "num": 424274,
+      "word": "伊朗以色列",
+      "onboard_time": 1716180504,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 424254,
@@ -20283,6 +20307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298812,
+      "num": 298812,
+      "word": "杨幂一个月播两部剧",
+      "onboard_time": 1716181642,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298669,
       "num": 298669,
       "word": "让脂肪下降的8个小动作",
@@ -21403,6 +21435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280340,
+      "num": 280340,
+      "word": "儿子回家时被狗狗选中了",
+      "onboard_time": 1716180084,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280324,
       "num": 280324,
       "word": "丁晟 欣慰外国观众能看懂",
@@ -22387,6 +22427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 268217,
+      "num": 268217,
+      "word": "付辛博官宣签约爱奇艺",
+      "onboard_time": 1716182300,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268208,
       "num": 268208,
       "word": "华为天生会画APP开启公测",
@@ -22489,6 +22537,14 @@
       "onboard_time": 1714997418,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 266976,
+      "num": 266976,
+      "word": "以为是格莱美结果是歌手",
+      "onboard_time": 1716181821,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 266375,
@@ -23321,6 +23377,14 @@
       "onboard_time": 1715689818,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 255583,
+      "num": 255583,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1716181282,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 255581,
@@ -26347,6 +26411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222374,
+      "num": 222374,
+      "word": "伊媒称伊朗总统直升机撞山坠毁",
+      "onboard_time": 1716181941,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 222212,
       "num": 609253,
       "word": "护士喊话妈妈医院不是我家开的",
@@ -26953,6 +27025,14 @@
       "onboard_time": 1715767338,
       "rank": 42,
       "category": "美食,动漫"
+    },
+    {
+      "raw_hot": 217804,
+      "num": 217804,
+      "word": "这土豆花非送不可吗",
+      "onboard_time": 1716181821,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 217620,
@@ -29211,6 +29291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 203737,
+      "num": 397518,
+      "word": "郎平官宣新身份",
+      "onboard_time": 1716178824,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203733,
       "num": 483045,
       "word": "小鸟努力把自己美成了花鸟图",
@@ -30395,6 +30483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198856,
+      "num": 198856,
+      "word": "胡彦斌歌手爆改月老",
+      "onboard_time": 1716180622,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198811,
       "num": 198811,
       "word": "阿勒泰绚丽极光",
@@ -31105,6 +31201,14 @@
       "onboard_time": 1714558999,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196031,
+      "num": 196031,
+      "word": "伊朗总统所乘直升机螺旋桨及驾驶舱被烧毁",
+      "onboard_time": 1716182300,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 195862,
@@ -39107,14 +39211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156390,
-      "num": 397518,
-      "word": "郎平官宣新身份",
-      "onboard_time": 1716178824,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156295,
       "num": 156295,
       "word": "张杰演唱会百场幕后采访预告",
@@ -43465,6 +43561,14 @@
       "onboard_time": 1715442199,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135427,
+      "num": 614310,
+      "word": "肖战透视蕾丝造型",
+      "onboard_time": 1716177982,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135417,
@@ -51315,6 +51419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 73592,
+      "num": 607463,
+      "word": "当华为全家桶遇上520",
+      "onboard_time": 1716178103,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73430,
       "num": 73430,
       "word": "范闲暴揍范思辙",
@@ -52083,14 +52195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60318,
-      "num": 607463,
-      "word": "当华为全家桶遇上520",
-      "onboard_time": 1716178103,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 60220,
       "num": 949898,
       "word": "塞尔维亚路牌上有中文标识",
@@ -52409,14 +52513,6 @@
       "onboard_time": 1716005839,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 55212,
-      "num": 614310,
-      "word": "肖战透视蕾丝造型",
-      "onboard_time": 1716177982,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 55177,
@@ -53097,6 +53193,14 @@
       "onboard_time": 1715986753,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44219,
+      "num": 405851,
+      "word": "什么是618里的省金人",
+      "onboard_time": 1716179725,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 44204,
@@ -54681,14 +54785,6 @@
       "onboard_time": 1715886251,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7704,
-      "num": 237664,
-      "word": "什么是618里的省金人",
-      "onboard_time": 1716179725,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 7372,

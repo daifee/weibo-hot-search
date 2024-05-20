@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716179890317,
+  "endTime": 1716182379895,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -129,6 +129,14 @@
       "onboard_time": 1716110058,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1548508,
+      "num": 1548508,
+      "word": "加纳总统车队发生车祸",
+      "onboard_time": 1716181165,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1528434,
@@ -329,6 +337,14 @@
       "onboard_time": 1716164899,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 967147,
+      "num": 452334,
+      "word": "以色列",
+      "onboard_time": 1716179486,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 958635,
@@ -955,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 452057,
+      "num": 452057,
+      "word": "首饰金价突破742元每克",
+      "onboard_time": 1716181043,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 447772,
       "num": 447772,
       "word": "为什么我们很少见到盲人",
@@ -1011,6 +1035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 424274,
+      "num": 424274,
+      "word": "伊朗以色列",
+      "onboard_time": 1716180504,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 421093,
       "num": 421093,
       "word": "范闲连崩溃都很体面",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1716039259,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 416797,
-      "num": 416797,
-      "word": "以色列",
-      "onboard_time": 1716179486,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 415324,
@@ -1483,6 +1507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 298812,
+      "num": 298812,
+      "word": "杨幂一个月播两部剧",
+      "onboard_time": 1716181642,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291521,
       "num": 291521,
       "word": "大连一救护车和小轿车相撞致2死1伤",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1716093436,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280340,
+      "num": 280340,
+      "word": "儿子回家时被狗狗选中了",
+      "onboard_time": 1716180084,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 280248,
@@ -1659,6 +1699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268217,
+      "num": 268217,
+      "word": "付辛博官宣签约爱奇艺",
+      "onboard_time": 1716182300,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266976,
+      "num": 266976,
+      "word": "以为是格莱美结果是歌手",
+      "onboard_time": 1716181821,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265674,
       "num": 265674,
       "word": "张若昀天天被人问第二季什么时候播",
@@ -1696,6 +1752,14 @@
       "word": "张韶涵回应那英需要你",
       "onboard_time": 1716028519,
       "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 255583,
+      "num": 255583,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1716181282,
+      "rank": 37,
       "category": "演出"
     },
     {
@@ -1851,6 +1915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222374,
+      "num": 222374,
+      "word": "伊媒称伊朗总统直升机撞山坠毁",
+      "onboard_time": 1716181941,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 221012,
       "num": 221012,
       "word": "庆余年太子给打工人一些震撼",
@@ -1881,6 +1953,14 @@
       "onboard_time": 1716116298,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217804,
+      "num": 217804,
+      "word": "这土豆花非送不可吗",
+      "onboard_time": 1716181821,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 217314,
@@ -2027,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203737,
+      "num": 397518,
+      "word": "郎平官宣新身份",
+      "onboard_time": 1716178824,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203505,
       "num": 174244,
       "word": "白鹿梵高星空蝴蝶裙",
@@ -2147,6 +2235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198856,
+      "num": 198856,
+      "word": "胡彦斌歌手爆改月老",
+      "onboard_time": 1716180622,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198373,
       "num": 620151,
       "word": "小满小满爱意加满",
@@ -2177,6 +2273,14 @@
       "onboard_time": 1716109457,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196031,
+      "num": 196031,
+      "word": "伊朗总统所乘直升机螺旋桨及驾驶舱被烧毁",
+      "onboard_time": 1716182300,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 195776,
@@ -2627,14 +2731,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 156390,
-      "num": 397518,
-      "word": "郎平官宣新身份",
-      "onboard_time": 1716178824,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156002,
       "num": 156002,
       "word": "马嘉祺 歌手编外",
@@ -2969,6 +3065,14 @@
       "onboard_time": 1716174020,
       "rank": 14,
       "category": "美食,互联网"
+    },
+    {
+      "raw_hot": 135427,
+      "num": 614310,
+      "word": "肖战透视蕾丝造型",
+      "onboard_time": 1716177982,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134718,
@@ -3875,6 +3979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73592,
+      "num": 607463,
+      "word": "当华为全家桶遇上520",
+      "onboard_time": 1716178103,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 72673,
       "num": 75984,
       "word": "蜡烛拒绝了你的愿望",
@@ -4011,14 +4123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60318,
-      "num": 607463,
-      "word": "当华为全家桶遇上520",
-      "onboard_time": 1716178103,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 59324,
       "num": 59324,
       "word": "张艺兴金发走戛纳红毯",
@@ -4041,14 +4145,6 @@
       "onboard_time": 1716058452,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55212,
-      "num": 614310,
-      "word": "肖战透视蕾丝造型",
-      "onboard_time": 1716177982,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 53512,
@@ -4113,6 +4209,14 @@
       "onboard_time": 1716074714,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44219,
+      "num": 405851,
+      "word": "什么是618里的省金人",
+      "onboard_time": 1716179725,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 43969,
@@ -4361,14 +4465,6 @@
       "onboard_time": 1716061151,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7704,
-      "num": 237664,
-      "word": "什么是618里的省金人",
-      "onboard_time": 1716179725,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 6688,
