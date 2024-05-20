@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716243420980,
+  "endTime": 1716244535118,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -44267,6 +44267,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 138190,
+      "num": 65387,
+      "word": "西班牙召回驻阿根廷大使",
+      "onboard_time": 1716239529,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 138189,
       "num": 138189,
       "word": "韩网评IVE国风争议",
@@ -49667,6 +49675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110891,
+      "num": 65224,
+      "word": "一百年前国外的婴儿车",
+      "onboard_time": 1716232151,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 110871,
       "num": 110871,
       "word": "丁程鑫讹到导演组头上了",
@@ -50153,6 +50169,14 @@
       "onboard_time": 1715478317,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107803,
+      "num": 107803,
+      "word": "辛巴快手号直播权限解封",
+      "onboard_time": 1716227951,
+      "rank": 12,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 107790,
@@ -51515,14 +51539,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 95613,
-      "num": 95613,
-      "word": "辛巴快手号直播权限解封",
-      "onboard_time": 1716227951,
-      "rank": 12,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 95610,
       "num": 436911,
       "word": "赖树上的大熊猫宝宝被一把摘下来了",
@@ -52155,14 +52171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87261,
-      "num": 56976,
-      "word": "西班牙召回驻阿根廷大使",
-      "onboard_time": 1716239529,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 87233,
       "num": 87233,
       "word": "杨丞琳排名",
@@ -52345,14 +52353,6 @@
       "onboard_time": 1716116537,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82956,
-      "num": 56802,
-      "word": "一百年前国外的婴儿车",
-      "onboard_time": 1716232151,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 82938,
@@ -55051,6 +55051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40570,
+      "num": 40570,
+      "word": "原来小猫用头撞人是这个意思",
+      "onboard_time": 1716236530,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 40267,
       "num": 40267,
       "word": "云南一茶厂土方坍塌致3人死亡",
@@ -55161,6 +55169,14 @@
       "onboard_time": 1716120378,
       "rank": 30,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 38141,
+      "num": 38141,
+      "word": "刘亦菲520开屏",
+      "onboard_time": 1716232930,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 38128,
@@ -55467,6 +55483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31885,
+      "num": 31885,
+      "word": "杨紫请大家喝奶茶",
+      "onboard_time": 1716240911,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31690,
       "num": 867619,
       "word": "旅游胜地的中华文化有多绝",
@@ -55515,14 +55539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 31030,
-      "num": 31030,
-      "word": "刘亦菲520开屏",
-      "onboard_time": 1716232930,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 31009,
       "num": 31009,
       "word": "眼泪女王",
@@ -55561,14 +55577,6 @@
       "onboard_time": 1714769590,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 30235,
-      "num": 25531,
-      "word": "原来小猫用头撞人是这个意思",
-      "onboard_time": 1716236530,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 29825,
@@ -55656,14 +55664,6 @@
       "word": "杨紫节后开工妆",
       "onboard_time": 1714970901,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27766,
-      "num": 27766,
-      "word": "杨紫请大家喝奶茶",
-      "onboard_time": 1716240911,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -55761,6 +55761,14 @@
       "onboard_time": 1714571239,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25348,
+      "num": 29154,
+      "word": "大梦归离",
+      "onboard_time": 1716240492,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 25309,
@@ -56059,6 +56067,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 19493,
+      "num": 31659,
+      "word": "你这小猫怎么獭里獭气的",
+      "onboard_time": 1716231552,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19473,
       "num": 190633,
       "word": "阿胶桂圆羹范若若的保养秘方",
@@ -56073,14 +56089,6 @@
       "onboard_time": 1715879415,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19275,
-      "num": 24281,
-      "word": "大梦归离",
-      "onboard_time": 1716240492,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 19184,
@@ -56155,6 +56163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 17671,
+      "num": 29022,
+      "word": "这些人不适合服用短效避孕药",
+      "onboard_time": 1716236469,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 17654,
       "num": 24123,
       "word": "檀健次说新专辑快出了",
@@ -56177,22 +56193,6 @@
       "onboard_time": 1714508171,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 16500,
-      "num": 31659,
-      "word": "你这小猫怎么獭里獭气的",
-      "onboard_time": 1716231552,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 16434,
-      "num": 25119,
-      "word": "这些人不适合服用短效避孕药",
-      "onboard_time": 1716236469,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16268,
@@ -56225,6 +56225,14 @@
       "onboard_time": 1715719870,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15833,
+      "num": 28974,
+      "word": "今天这条视频爱意拉满",
+      "onboard_time": 1716226752,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15620,
@@ -56289,14 +56297,6 @@
       "onboard_time": 1715633170,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 14565,
-      "num": 25116,
-      "word": "今天这条视频爱意拉满",
-      "onboard_time": 1716226752,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14419,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1716244535118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 424406,
+        "num": 424406,
+        "word": "房价会不会报复性上涨",
+        "onboard_time": 1716222497,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292031,
+        "num": 292031,
+        "word": "疯产姐妹复更",
+        "onboard_time": 1716219619,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21752,
+        "num": 263011,
+        "word": "小满的一幕幕画面太有爱了",
+        "onboard_time": 1716213560,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249539,
+        "num": 249539,
+        "word": "3名大学生爬长城被雷击",
+        "onboard_time": 1716215959,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147244,
+        "num": 147244,
+        "word": "以色列总理涉嫌战争罪被申请逮捕令",
+        "onboard_time": 1716206777,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 131062,
+        "num": 131062,
+        "word": "与凤行 庆功宴",
+        "onboard_time": 1716217400,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112998,
+        "num": 112998,
+        "word": "1200元最贵看台票几乎看不到周杰伦",
+        "onboard_time": 1716210619,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107803,
+        "num": 107803,
+        "word": "辛巴快手号直播权限解封",
+        "onboard_time": 1716227951,
+        "rank": 7,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 65448,
+        "num": 65448,
+        "word": "伊朗总统遇难",
+        "onboard_time": 1716178103,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 20970,
+        "num": 65425,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138190,
+        "num": 65387,
+        "word": "西班牙召回驻阿根廷大使",
+        "onboard_time": 1716239529,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121941,
+        "num": 65314,
+        "word": "那英高叶 不良少女版",
+        "onboard_time": 1716217880,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121001,
+        "num": 65270,
+        "word": "张若昀",
+        "onboard_time": 1716219559,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110891,
+        "num": 65224,
+        "word": "一百年前国外的婴儿车",
+        "onboard_time": 1716232151,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 94297,
+        "num": 65216,
+        "word": "男子5点20出发为妻子跑出1314520",
+        "onboard_time": 1716217700,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72555,
+        "num": 65132,
+        "word": "胃病向胃癌转变有这5个征兆",
+        "onboard_time": 1716215300,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65128,
+        "num": 65128,
+        "word": "李佳琦618不用难了",
+        "onboard_time": 1716203240,
+        "rank": 16,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 58720,
+        "num": 58720,
+        "word": "小满胜万全",
+        "onboard_time": 1716214999,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45354,
+        "num": 57979,
+        "word": "黄俊捷不参演赴山海",
+        "onboard_time": 1716212299,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43183,
+        "num": 55634,
+        "word": "520 垃圾桶",
+        "onboard_time": 1716196101,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109197,
+        "num": 53549,
+        "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
+        "onboard_time": 1716216320,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216701,
+        "num": 51898,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72039,
+        "num": 50226,
+        "word": "不生孩子是怎么流行开的",
+        "onboard_time": 1716208277,
+        "rank": 22,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 48951,
+        "num": 48951,
+        "word": "今年520朋友圈怎么没人秀恩爱了",
+        "onboard_time": 1716200300,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45713,
+        "num": 45713,
+        "word": "榴莲今年为什么越来越便宜",
+        "onboard_time": 1716211520,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 45193,
+        "num": 45193,
+        "word": "指甲出现这4个异常可能是大病先兆",
+        "onboard_time": 1716208938,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40570,
+        "num": 40570,
+        "word": "原来小猫用头撞人是这个意思",
+        "onboard_time": 1716236530,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39703,
+        "num": 39703,
+        "word": "总决赛门票就是最强假条",
+        "onboard_time": 1716220636,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39508,
+        "num": 39508,
+        "word": "丈夫称想在去世20年妻子面前大哭一场",
+        "onboard_time": 1716214699,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38141,
+        "num": 38141,
+        "word": "刘亦菲520开屏",
+        "onboard_time": 1716232930,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35195,
+        "num": 35195,
+        "word": "王一博抵达广西录制纪录片",
+        "onboard_time": 1716221418,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33488,
+        "num": 33488,
+        "word": "王启年的回旋镖镖镖扎心",
+        "onboard_time": 1716225074,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33458,
+        "num": 33458,
+        "word": "成毅赴山海",
+        "onboard_time": 1716217341,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32490,
+        "num": 32490,
+        "word": "张若昀腰围62",
+        "onboard_time": 1716229630,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31885,
+        "num": 31885,
+        "word": "杨紫请大家喝奶茶",
+        "onboard_time": 1716240911,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31557,
+        "num": 31557,
+        "word": "杭州机场打车已经是nextlevel了",
+        "onboard_time": 1716226814,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30040,
+        "num": 30040,
+        "word": "曝李胜利欠款百万不归还",
+        "onboard_time": 1716204798,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29186,
+        "num": 29186,
+        "word": "王俊凯的内搭和蔡依林的裙子",
+        "onboard_time": 1716205878,
+        "rank": 37,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 26282,
+        "num": 29172,
+        "word": "陈赫郑恺 阑尾兄弟",
+        "onboard_time": 1716212359,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25348,
+        "num": 29154,
+        "word": "大梦归离",
+        "onboard_time": 1716240492,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25072,
+        "num": 29127,
+        "word": "有水果市场一天卖出1.5亿元榴莲",
+        "onboard_time": 1716218838,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24335,
+        "num": 29115,
+        "word": "情侣之间情绪稳定真的很重要",
+        "onboard_time": 1716209839,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23603,
+        "num": 29104,
+        "word": "背着善宰跑",
+        "onboard_time": 1716208757,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22896,
+        "num": 29079,
+        "word": "赴山海",
+        "onboard_time": 1716212419,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21784,
+        "num": 29052,
+        "word": "汪文斌驳斥赖清德言论",
+        "onboard_time": 1716195981,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19493,
+        "num": 29042,
+        "word": "你这小猫怎么獭里獭气的",
+        "onboard_time": 1716231552,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17671,
+        "num": 29022,
+        "word": "这些人不适合服用短效避孕药",
+        "onboard_time": 1716236469,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16342,
+        "num": 28993,
+        "word": "李胜利",
+        "onboard_time": 1716195141,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15833,
+        "num": 28974,
+        "word": "今天这条视频爱意拉满",
+        "onboard_time": 1716226752,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15571,
+        "num": 28965,
+        "word": "小满",
+        "onboard_time": 1716198919,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续打造市场化法治化国际化营商环境#"
+    }
+  }
+}
