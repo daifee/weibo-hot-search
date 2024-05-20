@@ -1,0 +1,410 @@
+{
+  "runTime": 1716219306473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1192778,
+        "num": 1192778,
+        "word": "与凤行 庆功宴",
+        "onboard_time": 1716217400,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 906999,
+        "num": 906999,
+        "word": "以色列总理涉嫌战争罪被申请逮捕令",
+        "onboard_time": 1716206777,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 122136,
+        "num": 564435,
+        "word": "小满的一幕幕画面太有爱了",
+        "onboard_time": 1716213560,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013811,
+        "num": 549155,
+        "word": "3名大学生爬长城被雷击",
+        "onboard_time": 1716215959,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506801,
+        "num": 506801,
+        "word": "黄俊捷不参演赴山海",
+        "onboard_time": 1716212299,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419010,
+        "num": 419010,
+        "word": "伊朗总统遇难",
+        "onboard_time": 1716178103,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 469253,
+        "num": 418921,
+        "word": "1200元最贵看台票几乎看不到周杰伦",
+        "onboard_time": 1716210619,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 399335,
+        "num": 399335,
+        "word": "小满胜万全",
+        "onboard_time": 1716214999,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382900,
+        "num": 382900,
+        "word": "老乡鸡葱油鸡已加量20g",
+        "onboard_time": 1716216438,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172577,
+        "num": 379562,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826674,
+        "num": 378363,
+        "word": "胃病向胃癌转变有这5个征兆",
+        "onboard_time": 1716215300,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1540205,
+        "num": 375310,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399662,
+        "num": 368914,
+        "word": "那英高叶 不良少女版",
+        "onboard_time": 1716217880,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651866,
+        "num": 368666,
+        "word": "520 垃圾桶",
+        "onboard_time": 1716196101,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365265,
+        "num": 365265,
+        "word": "李佳琦618不用难了",
+        "onboard_time": 1716203240,
+        "rank": 14,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 317805,
+        "num": 317805,
+        "word": "成毅赴山海",
+        "onboard_time": 1716217341,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266214,
+        "num": 266214,
+        "word": "赵露思深V碎花裙",
+        "onboard_time": 1716213320,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 311575,
+        "num": 263494,
+        "word": "酵色",
+        "onboard_time": 1716211099,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 255584,
+        "num": 255584,
+        "word": "男子5点20出发为妻子跑出1314520",
+        "onboard_time": 1716217700,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235606,
+        "num": 235606,
+        "word": "邓科晒与林更新背影照",
+        "onboard_time": 1716217880,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 876427,
+        "num": 230625,
+        "word": "不生孩子是怎么流行开的",
+        "onboard_time": 1716208277,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 566978,
+        "num": 225295,
+        "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
+        "onboard_time": 1716216320,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311099,
+        "num": 219404,
+        "word": "榴莲今年为什么越来越便宜",
+        "onboard_time": 1716211520,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239240,
+        "num": 214762,
+        "word": "丈夫称想在去世20年妻子面前大哭一场",
+        "onboard_time": 1716214699,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208879,
+        "num": 208879,
+        "word": "庆余年2朝堂激辩",
+        "onboard_time": 1716213140,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165772,
+        "num": 165772,
+        "word": "王俊凯的内搭和蔡依林的裙子",
+        "onboard_time": 1716205878,
+        "rank": 25,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 161291,
+        "num": 161291,
+        "word": "指甲出现这4个异常可能是大病先兆",
+        "onboard_time": 1716208938,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159206,
+        "num": 159206,
+        "word": "背着善宰跑",
+        "onboard_time": 1716208757,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147372,
+        "num": 147372,
+        "word": "白敬亭丝带当腰带",
+        "onboard_time": 1716212480,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146487,
+        "num": 146487,
+        "word": "邱宇辰黄宏轩challenge",
+        "onboard_time": 1716218060,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146155,
+        "num": 146155,
+        "word": "给李诗恩封神",
+        "onboard_time": 1716217940,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137482,
+        "num": 137482,
+        "word": "何小鹏回应与小米竞争",
+        "onboard_time": 1716216799,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122727,
+        "num": 122727,
+        "word": "林凯不参演赴山海",
+        "onboard_time": 1716213741,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119134,
+        "num": 119134,
+        "word": "庆余年林相 新郎不急老丈人急",
+        "onboard_time": 1716206777,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116653,
+        "num": 116653,
+        "word": "情侣之间情绪稳定真的很重要",
+        "onboard_time": 1716209839,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62023,
+        "num": 116168,
+        "word": "范志毅520教你开车",
+        "onboard_time": 1716214280,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115819,
+        "num": 115819,
+        "word": "王俊凯倒着走给蔡依林唱歌",
+        "onboard_time": 1716211158,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111284,
+        "num": 111284,
+        "word": "赴山海",
+        "onboard_time": 1716212419,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110863,
+        "num": 110863,
+        "word": "赵磊520给夏之光刷礼物",
+        "onboard_time": 1716218720,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109288,
+        "num": 109288,
+        "word": "辽宁男篮冠军点",
+        "onboard_time": 1716215719,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108039,
+        "num": 108039,
+        "word": "小满",
+        "onboard_time": 1716198919,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106939,
+        "num": 106939,
+        "word": "陈赫郑恺 阑尾兄弟",
+        "onboard_time": 1716212359,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101131,
+        "num": 101131,
+        "word": "郭艾伦 还有一场",
+        "onboard_time": 1716217341,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98025,
+        "num": 98025,
+        "word": "有水果市场一天卖出1.5亿元榴莲",
+        "onboard_time": 1716218838,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95805,
+        "num": 95805,
+        "word": "曝李胜利欠款百万不归还",
+        "onboard_time": 1716204798,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95331,
+        "num": 95331,
+        "word": "李艾的腿被小朋友以为踩了高跷",
+        "onboard_time": 1716198620,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86214,
+        "num": 95331,
+        "word": "CBA总决赛",
+        "onboard_time": 1716213440,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82729,
+        "num": 95327,
+        "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
+        "onboard_time": 1716208458,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82211,
+        "num": 95322,
+        "word": "第五人格联名",
+        "onboard_time": 1716213020,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81355,
+        "num": 95320,
+        "word": "汪文斌驳斥赖清德言论",
+        "onboard_time": 1716195981,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向伊朗第一副总统穆赫贝尔致唁电#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716218435124,
+  "endTime": 1716219306473,
   "band_list": [
     {
       "raw_hot": 11623813,
@@ -187,6 +187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1192778,
+      "num": 1192778,
+      "word": "与凤行 庆功宴",
+      "onboard_time": 1716217400,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1185466,
       "num": 1089677,
       "word": "具荷拉在胜利事件里帮记者找线索",
@@ -235,12 +243,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 979284,
-      "num": 979284,
-      "word": "与凤行 庆功宴",
-      "onboard_time": 1716217400,
-      "rank": 1,
-      "category": "剧集"
+      "raw_hot": 1013811,
+      "num": 772080,
+      "word": "3名大学生爬长城被雷击",
+      "onboard_time": 1716215959,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 972816,
@@ -331,20 +339,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 825068,
+      "raw_hot": 826674,
       "num": 392881,
       "word": "胃病向胃癌转变有这5个征兆",
       "onboard_time": 1716215300,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 772080,
-      "num": 772080,
-      "word": "3名大学生爬长城被雷击",
-      "onboard_time": 1716215959,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 757401,
@@ -505,6 +505,14 @@
       "onboard_time": 1716202280,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566978,
+      "num": 237547,
+      "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
+      "onboard_time": 1716216320,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562906,
@@ -715,14 +723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 451487,
-      "num": 237547,
-      "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
-      "onboard_time": 1716216320,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 444687,
       "num": 444687,
       "word": "李胜利",
@@ -843,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 399662,
+      "num": 368914,
+      "word": "那英高叶 不良少女版",
+      "onboard_time": 1716217880,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398464,
       "num": 332177,
       "word": "付辛博官宣签约爱奇艺",
@@ -891,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382900,
+      "num": 382900,
+      "word": "老乡鸡葱油鸡已加量20g",
+      "onboard_time": 1716216438,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373334,
       "num": 373334,
       "word": "狐妖小红娘月红篇",
@@ -905,14 +921,6 @@
       "onboard_time": 1716129321,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370072,
-      "num": 370072,
-      "word": "老乡鸡葱油鸡已加量20g",
-      "onboard_time": 1716216438,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369660,
@@ -1379,6 +1387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255584,
+      "num": 255584,
+      "word": "男子5点20出发为妻子跑出1314520",
+      "onboard_time": 1716217700,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255583,
       "num": 255583,
       "word": "十个勤天演唱会",
@@ -1497,14 +1513,6 @@
       "onboard_time": 1716195801,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 230066,
-      "num": 230066,
-      "word": "那英高叶 不良少女版",
-      "onboard_time": 1716217880,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 228778,
@@ -1987,14 +1995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170449,
-      "num": 170449,
-      "word": "男子5点20出发为妻子跑出1314520",
-      "onboard_time": 1716217700,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167722,
       "num": 167722,
       "word": "陈都灵黄裙海报",
@@ -2171,20 +2171,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146487,
+      "num": 146487,
+      "word": "邱宇辰黄宏轩challenge",
+      "onboard_time": 1716218060,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146426,
       "num": 146426,
       "word": "世界之外",
       "onboard_time": 1716170177,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146116,
-      "num": 146116,
-      "word": "邱宇辰黄宏轩challenge",
-      "onboard_time": 1716218060,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 145942,
@@ -2611,12 +2611,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110863,
+      "num": 110863,
+      "word": "赵磊520给夏之光刷礼物",
+      "onboard_time": 1716218720,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109452,
       "num": 560205,
       "word": "鲜奶是如何提升身体保护力的",
       "onboard_time": 1716170597,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109288,
+      "num": 109288,
+      "word": "辽宁男篮冠军点",
+      "onboard_time": 1716215719,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 109256,
@@ -2737,6 +2753,14 @@
       "onboard_time": 1716214280,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98025,
+      "num": 98025,
+      "word": "有水果市场一天卖出1.5亿元榴莲",
+      "onboard_time": 1716218838,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 97745,
