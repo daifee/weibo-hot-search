@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716247154289,
+  "endTime": 1716248065030,
   "band_list": [
     {
       "raw_hot": 1182657,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 993368,
-      "num": 993368,
+      "raw_hot": 995106,
+      "num": 995106,
       "word": "房价会不会报复性上涨",
       "onboard_time": 1716222497,
       "rank": 29,
@@ -40,6 +40,14 @@
       "word": "与凤行 庆功宴",
       "onboard_time": 1716217400,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 636094,
+      "num": 358673,
+      "word": "庆帝灰飞烟灭让人毛骨悚然",
+      "onboard_time": 1716246855,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428118,
+      "num": 178579,
+      "word": "BBC曝光李胜利郑俊英崔钟训视频",
+      "onboard_time": 1716246616,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420206,
       "num": 149529,
       "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
@@ -107,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 320293,
+      "num": 174501,
+      "word": "刘亦菲罗马造型",
+      "onboard_time": 1716246675,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 291036,
       "num": 291036,
       "word": "李佳琦618不用难了",
@@ -131,14 +155,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 257878,
-      "num": 257878,
-      "word": "庆帝灰飞烟灭让人毛骨悚然",
-      "onboard_time": 1716246855,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255789,
       "num": 255789,
       "word": "老乡鸡葱油鸡已加量20g",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 233098,
-      "num": 147590,
+      "num": 182722,
       "word": "西班牙召回驻阿根廷大使",
       "onboard_time": 1716239529,
       "rank": 48,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 232097,
-      "num": 145183,
+      "num": 154936,
       "word": "一百年前国外的婴儿车",
       "onboard_time": 1716232151,
       "rank": 44,
@@ -219,28 +235,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 136257,
-      "num": 136257,
-      "word": "刘亦菲罗马造型",
-      "onboard_time": 1716246675,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 135368,
       "num": 141384,
       "word": "榴莲今年为什么越来越便宜",
       "onboard_time": 1716211520,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 132126,
-      "num": 132126,
-      "word": "BBC曝光李胜利郑俊英崔钟训视频",
-      "onboard_time": 1716246616,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 127338,
@@ -259,6 +259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125610,
+      "num": 125610,
+      "word": "院方通报广西17岁体育生错切右膝",
+      "onboard_time": 1716246795,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118668,
       "num": 118668,
       "word": "辛巴快手号直播权限解封",
@@ -275,12 +283,44 @@
       "category": "演出,时尚"
     },
     {
+      "raw_hot": 113436,
+      "num": 113436,
+      "word": "您的外卖已由特警送达",
+      "onboard_time": 1716246915,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110513,
+      "num": 110513,
+      "word": "中国人均带薪假6.29天",
+      "onboard_time": 1716246795,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105970,
       "num": 140937,
       "word": "背着善宰跑",
       "onboard_time": 1716208757,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103739,
+      "num": 103739,
+      "word": "爱因斯坦又双叒叕对了",
+      "onboard_time": 1716247335,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 103458,
+      "num": 103458,
+      "word": "从小被偏心的孩子长大怎么抑郁了",
+      "onboard_time": 1716246795,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 99511,
@@ -387,6 +427,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79736,
+      "num": 79736,
+      "word": "朴志效泡泡照搬周子瑜",
+      "onboard_time": 1716246795,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79735,
+      "num": 149322,
+      "word": "小胖墩减肥要遵循两个原则",
+      "onboard_time": 1716246616,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 79067,
+      "num": 79067,
+      "word": "3岁男童被咬伤离世当地养狗现状",
+      "onboard_time": 1716246795,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78072,
       "num": 139854,
       "word": "王俊凯倒着走给蔡依林唱歌",
@@ -395,20 +459,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 67912,
-      "num": 67912,
-      "word": "您的外卖已由特警送达",
-      "onboard_time": 1716246915,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 74595,
+      "num": 74595,
+      "word": "加沙小女孩遇空袭捂住耳朵告诉妈妈不想死",
+      "onboard_time": 1716246616,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
-      "raw_hot": 67376,
-      "num": 67376,
-      "word": "从小被偏心的孩子长大怎么抑郁了",
-      "onboard_time": 1716246795,
-      "rank": 30,
-      "category": "母婴育儿"
+      "raw_hot": 73526,
+      "num": 73526,
+      "word": "减肥可以这样称体重",
+      "onboard_time": 1716246915,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 66896,
@@ -427,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 65565,
+      "num": 65565,
+      "word": "原来小猫用头撞人是这个意思",
+      "onboard_time": 1716236530,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63235,
       "num": 139604,
       "word": "庆余年",
@@ -443,19 +515,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 59614,
-      "num": 59614,
-      "word": "原来小猫用头撞人是这个意思",
-      "onboard_time": 1716236530,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 59375,
-      "num": 59375,
-      "word": "3岁男童被咬伤离世当地养狗现状",
-      "onboard_time": 1716246795,
-      "rank": 33,
+      "raw_hot": 58985,
+      "num": 58985,
+      "word": "怀柔文旅回应3名大学生爬长城被雷击",
+      "onboard_time": 1716247455,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -467,36 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57877,
-      "num": 57877,
-      "word": "朴志效泡泡照搬周子瑜",
-      "onboard_time": 1716246795,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 57694,
-      "num": 57694,
-      "word": "减肥可以这样称体重",
-      "onboard_time": 1716246915,
-      "rank": 36,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 57675,
       "num": 138755,
       "word": "陈赫郑恺 阑尾兄弟",
       "onboard_time": 1716212359,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57070,
-      "num": 149322,
-      "word": "小胖墩减肥要遵循两个原则",
-      "onboard_time": 1716246616,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 56535,
@@ -547,22 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47352,
-      "num": 47352,
-      "word": "中国人均带薪假6.29天",
-      "onboard_time": 1716246795,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47124,
-      "num": 47124,
-      "word": "院方通报广西17岁体育生错切右膝",
-      "onboard_time": 1716246795,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44021,
       "num": 44021,
       "word": "南大校庆表白已经是nextlevel了",
@@ -585,14 +609,6 @@
       "onboard_time": 1716209118,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 41800,
-      "num": 41800,
-      "word": "加沙小女孩遇空袭捂住耳朵告诉妈妈不想死",
-      "onboard_time": 1716246616,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 41121,
@@ -641,6 +657,14 @@
       "onboard_time": 1716231552,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18889,
+      "num": 169272,
+      "word": "奶奶不懂520但知道关心和爱要表达",
+      "onboard_time": 1716247515,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 17671,
