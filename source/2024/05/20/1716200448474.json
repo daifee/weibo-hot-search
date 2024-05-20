@@ -1,0 +1,410 @@
+{
+  "runTime": 1716200448474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1539065,
+        "num": 1539065,
+        "word": "520 垃圾桶",
+        "onboard_time": 1716196101,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1198876,
+        "num": 1198876,
+        "word": "伊朗总统遇难",
+        "onboard_time": 1716178103,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40525,
+        "num": 545494,
+        "word": "文化中国行小满节气课",
+        "onboard_time": 1716193701,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5764573,
+        "num": 542375,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532908,
+        "num": 532908,
+        "word": "贵溪警方通报一小学发生伤人案",
+        "onboard_time": 1716196340,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494380,
+        "num": 494380,
+        "word": "到处说前任死了违法吗",
+        "onboard_time": 1716198140,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 410502,
+        "num": 410502,
+        "word": "国台办发言人就台湾地区领导人讲话表态",
+        "onboard_time": 1716195022,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 385195,
+        "num": 385195,
+        "word": "李胜利",
+        "onboard_time": 1716195141,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59412,
+        "num": 382675,
+        "word": "520还得是兵哥哥的比心最硬核",
+        "onboard_time": 1716193282,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 144377,
+        "num": 377624,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116021,
+        "num": 366600,
+        "word": "为什么西地那非这么受欢迎",
+        "onboard_time": 1716197300,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 620592,
+        "num": 363549,
+        "word": "江西贵溪发生恶性伤人事件",
+        "onboard_time": 1716192922,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 478820,
+        "num": 354864,
+        "word": "江西贵溪恶性伤人事件致2人死亡",
+        "onboard_time": 1716197179,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 466519,
+        "num": 344297,
+        "word": "李艾的腿被小朋友以为踩了高跷",
+        "onboard_time": 1716198620,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406351,
+        "num": 337937,
+        "word": "马龙退出wtt重庆冠军赛2024",
+        "onboard_time": 1716187279,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336272,
+        "num": 336272,
+        "word": "汪文斌驳斥赖清德言论",
+        "onboard_time": 1716195981,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306005,
+        "num": 306005,
+        "word": "伊朗最高领袖哈梅内伊发声",
+        "onboard_time": 1716196040,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 292078,
+        "num": 292078,
+        "word": "白鹿曾经试戏过如懿传",
+        "onboard_time": 1716199700,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269634,
+        "num": 269634,
+        "word": "杨幂 古偶",
+        "onboard_time": 1716188179,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255710,
+        "num": 255710,
+        "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
+        "onboard_time": 1716174739,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 287172,
+        "num": 253258,
+        "word": "为什么避孕套都放在收银台",
+        "onboard_time": 1716165019,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249120,
+        "num": 249120,
+        "word": "李胜利拖拽女性视频",
+        "onboard_time": 1716170778,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242280,
+        "num": 242280,
+        "word": "520很多人把花扔了",
+        "onboard_time": 1716195381,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215064,
+        "num": 215064,
+        "word": "2块钱以下的雪糕回来了",
+        "onboard_time": 1716192020,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240262,
+        "num": 213914,
+        "word": "今年520朋友圈怎么没人秀恩爱了",
+        "onboard_time": 1716200300,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53224,
+        "num": 212737,
+        "word": "真低价不躲猫猫",
+        "onboard_time": 1716199879,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212010,
+        "num": 212010,
+        "word": "金价明升暗降疯狂囤金理智吗",
+        "onboard_time": 1716195861,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198746,
+        "num": 198746,
+        "word": "贵溪恶性伤人事件已致5伤",
+        "onboard_time": 1716196160,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 194355,
+        "num": 194355,
+        "word": "BLG选手深夜骑行",
+        "onboard_time": 1716200419,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234772,
+        "num": 193435,
+        "word": "普通女孩给男朋友准备的520礼物",
+        "onboard_time": 1716195801,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192490,
+        "num": 192490,
+        "word": "具荷拉好勇敢",
+        "onboard_time": 1716193701,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188285,
+        "num": 188285,
+        "word": "陈奕迅恭喜林俊杰入围",
+        "onboard_time": 1716193341,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180948,
+        "num": 180948,
+        "word": "小满",
+        "onboard_time": 1716198919,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177748,
+        "num": 177748,
+        "word": "马龙破防了",
+        "onboard_time": 1716182899,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177208,
+        "num": 177208,
+        "word": "金价",
+        "onboard_time": 1716183260,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176788,
+        "num": 176788,
+        "word": "陈瑶狐妖撑伞绝美镜头",
+        "onboard_time": 1716198559,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175524,
+        "num": 175524,
+        "word": "专家称十年后房子不可能卖白菜价",
+        "onboard_time": 1716193581,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166803,
+        "num": 166803,
+        "word": "i人和e人坐姿的区别",
+        "onboard_time": 1716192263,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157122,
+        "num": 157122,
+        "word": "王一博 9785",
+        "onboard_time": 1716188179,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155837,
+        "num": 155837,
+        "word": "刘忻 摇滚版楼外楼",
+        "onboard_time": 1716199520,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153206,
+        "num": 153206,
+        "word": "谈恋爱重要的是过程还是结果",
+        "onboard_time": 1716199460,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151977,
+        "num": 151977,
+        "word": "教育局通报初中女生被打",
+        "onboard_time": 1716194061,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144536,
+        "num": 144536,
+        "word": "伊朗第一副总统将承担总统权力职能",
+        "onboard_time": 1716188420,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141890,
+        "num": 141890,
+        "word": "南京山姆榴莲30元一斤半天售罄",
+        "onboard_time": 1716192263,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133320,
+        "num": 133320,
+        "word": "张凌赫徐若晗 脑补一本小说",
+        "onboard_time": 1716194661,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127565,
+        "num": 127565,
+        "word": "老头杯",
+        "onboard_time": 1716197120,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126670,
+        "num": 126670,
+        "word": "JYP新男团",
+        "onboard_time": 1716194303,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126624,
+        "num": 126624,
+        "word": "ZICO歌词 掌柜",
+        "onboard_time": 1716197721,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124138,
+        "num": 124138,
+        "word": "贾玲 百花奖",
+        "onboard_time": 1716190039,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122309,
+        "num": 122309,
+        "word": "今年618美妆品牌在价格上卷起来了",
+        "onboard_time": 1716196759,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续打造市场化法治化国际化营商环境#"
+    }
+  }
+}

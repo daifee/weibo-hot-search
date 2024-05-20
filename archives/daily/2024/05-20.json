@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716197726510,
+  "endTime": 1716200448474,
   "band_list": [
     {
       "raw_hot": 11623813,
@@ -113,6 +113,14 @@
       "onboard_time": 1716181165,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1539065,
+      "num": 1539065,
+      "word": "520 垃圾桶",
+      "onboard_time": 1716196101,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1528434,
@@ -347,14 +355,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 677393,
-      "num": 677393,
-      "word": "520 垃圾桶",
-      "onboard_time": 1716196101,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 673598,
       "num": 673598,
       "word": "金价",
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 560955,
-      "num": 335228,
+      "num": 354864,
       "word": "江西贵溪恶性伤人事件致2人死亡",
       "onboard_time": 1716197179,
       "rank": 12,
@@ -507,6 +507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 494380,
+      "num": 494380,
+      "word": "到处说前任死了违法吗",
+      "onboard_time": 1716198140,
+      "rank": 5,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 481349,
       "num": 481349,
       "word": "王俊凯蔡依林手拉手",
@@ -529,6 +537,14 @@
       "onboard_time": 1716129802,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 466519,
+      "num": 344297,
+      "word": "李艾的腿被小朋友以为踩了高跷",
+      "onboard_time": 1716198620,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 465768,
@@ -641,6 +657,14 @@
       "onboard_time": 1716129501,
       "rank": 12,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 406351,
+      "num": 337937,
+      "word": "马龙退出wtt重庆冠军赛2024",
+      "onboard_time": 1716187279,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 402325,
@@ -843,6 +867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 306005,
+      "num": 306005,
+      "word": "伊朗最高领袖哈梅内伊发声",
+      "onboard_time": 1716196040,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 298812,
       "num": 298812,
       "word": "杨幂一个月播两部剧",
@@ -857,6 +889,14 @@
       "onboard_time": 1716193402,
       "rank": 38,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 292078,
+      "num": 292078,
+      "word": "白鹿曾经试戏过如懿传",
+      "onboard_time": 1716199700,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 291521,
@@ -1027,14 +1067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 257534,
-      "num": 198484,
-      "word": "伊朗最高领袖哈梅内伊发声",
-      "onboard_time": 1716196040,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 257165,
       "num": 257165,
       "word": "专家称十年后房子不可能卖白菜价",
@@ -1107,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240262,
+      "num": 213914,
+      "word": "今年520朋友圈怎么没人秀恩爱了",
+      "onboard_time": 1716200300,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237651,
       "num": 237651,
       "word": "奔跑吧全员现身周深演唱会",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1716123558,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234772,
+      "num": 193435,
+      "word": "普通女孩给男朋友准备的520礼物",
+      "onboard_time": 1716195801,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 227100,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1716188780,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212010,
+      "num": 212010,
+      "word": "金价明升暗降疯狂囤金理智吗",
+      "onboard_time": 1716195861,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 209509,
@@ -1339,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194355,
+      "num": 194355,
+      "word": "BLG选手深夜骑行",
+      "onboard_time": 1716200419,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189670,
       "num": 189670,
       "word": "许凯 金刚芭比",
@@ -1353,14 +1417,6 @@
       "onboard_time": 1716120976,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 188183,
-      "num": 188183,
-      "word": "普通女孩给男朋友准备的520礼物",
-      "onboard_time": 1716195801,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 186927,
@@ -1419,6 +1475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 176788,
+      "num": 176788,
+      "word": "陈瑶狐妖撑伞绝美镜头",
+      "onboard_time": 1716198559,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172314,
       "num": 172314,
       "word": "三观不同成年轻人分手最高频原因",
@@ -1433,14 +1497,6 @@
       "onboard_time": 1716164957,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170070,
-      "num": 170070,
-      "word": "金价明升暗降疯狂囤金理智吗",
-      "onboard_time": 1716195861,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 167722,
@@ -1523,12 +1579,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155837,
+      "num": 155837,
+      "word": "刘忻 摇滚版楼外楼",
+      "onboard_time": 1716199520,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154477,
       "num": 154477,
       "word": "JYP新男团",
       "onboard_time": 1716194303,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153206,
+      "num": 153206,
+      "word": "谈恋爱重要的是过程还是结果",
+      "onboard_time": 1716199460,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 153009,
@@ -1652,7 +1724,7 @@
     },
     {
       "raw_hot": 137635,
-      "num": 257859,
+      "num": 382675,
       "word": "520还得是兵哥哥的比心最硬核",
       "onboard_time": 1716193282,
       "rank": 22,
@@ -1739,6 +1811,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 126624,
+      "num": 126624,
+      "word": "ZICO歌词 掌柜",
+      "onboard_time": 1716197721,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126555,
       "num": 126555,
       "word": "脱口秀演员演出结束遭人追打",
@@ -1817,6 +1897,14 @@
       "onboard_time": 1716172459,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116021,
+      "num": 366600,
+      "word": "为什么西地那非这么受欢迎",
+      "onboard_time": 1716197300,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 109452,
@@ -2091,12 +2179,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52561,
-      "num": 140284,
-      "word": "为什么西地那非这么受欢迎",
-      "onboard_time": 1716197300,
-      "rank": 46,
-      "category": "科学科普"
+      "raw_hot": 53224,
+      "num": 212737,
+      "word": "真低价不躲猫猫",
+      "onboard_time": 1716199879,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 41758,
