@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716172411685,
+  "endTime": 1716173034516,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3542478,
-      "num": 381806,
+      "num": 385667,
       "word": "谭某未以恋爱为名骗取胖猫财物",
       "onboard_time": 1716129142,
       "rank": 20,
@@ -43,6 +43,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2412376,
+      "num": 2412376,
+      "word": "李胜利拖拽女性视频",
+      "onboard_time": 1716170778,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2259076,
       "num": 2259076,
       "word": "伊朗总统外交部长都在事故直升机上",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 2048923,
-      "num": 386773,
+      "num": 400905,
       "word": "为什么避孕套都放在收银台",
       "onboard_time": 1716165019,
       "rank": 20,
@@ -64,14 +72,6 @@
       "word": "黄家驹墓碑遗照被砸坏",
       "onboard_time": 1716103878,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1985396,
-      "num": 1985396,
-      "word": "李胜利拖拽女性视频",
-      "onboard_time": 1716170778,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 956495,
+      "num": 956495,
+      "word": "费翔的母亲去世",
+      "onboard_time": 1716171078,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 927130,
       "num": 535048,
       "word": "BLG能不能让二追三",
@@ -305,6 +313,14 @@
       "onboard_time": 1716167779,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 912361,
+      "num": 912361,
+      "word": "辞去双休工作后我变成了全年无休",
+      "onboard_time": 1716168137,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 870579,
@@ -385,22 +401,6 @@
       "onboard_time": 1716082636,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 779383,
-      "num": 779383,
-      "word": "费翔的母亲去世",
-      "onboard_time": 1716171078,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 778227,
-      "num": 778227,
-      "word": "辞去双休工作后我变成了全年无休",
-      "onboard_time": 1716168137,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 775258,
@@ -537,6 +537,14 @@
       "onboard_time": 1716123558,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669035,
+      "num": 669035,
+      "word": "桃花坞4官宣阵容",
+      "onboard_time": 1716171678,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 668805,
@@ -843,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 453409,
+      "num": 453409,
+      "word": "大雾影响伊朗总统直升机救援",
+      "onboard_time": 1716161716,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 447772,
       "num": 447772,
       "word": "为什么我们很少见到盲人",
@@ -947,6 +963,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 406472,
+      "num": 406472,
+      "word": "伊朗媒体称找到总统莱希的直升机",
+      "onboard_time": 1716170897,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 405223,
       "num": 405223,
       "word": "种地吧",
@@ -977,22 +1001,6 @@
       "onboard_time": 1716033738,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397401,
-      "num": 397401,
-      "word": "桃花坞4官宣阵容",
-      "onboard_time": 1716171678,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 397003,
-      "num": 397003,
-      "word": "大雾影响伊朗总统直升机救援",
-      "onboard_time": 1716161716,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 393881,
@@ -1251,20 +1259,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317265,
+      "num": 317265,
+      "word": "腾讯客服回应庆余年SVIP被指VIP套娃",
+      "onboard_time": 1716170419,
+      "rank": 29,
+      "category": "互联网,作品衍生"
+    },
+    {
       "raw_hot": 317010,
       "num": 317010,
       "word": "独行侠晋级西决",
       "onboard_time": 1716087077,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316381,
-      "num": 316381,
-      "word": "伊朗媒体称找到总统莱希的直升机",
-      "onboard_time": 1716170897,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 315561,
@@ -1281,6 +1289,14 @@
       "onboard_time": 1716089177,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 310672,
+      "num": 310672,
+      "word": "具荷拉在胜利事件里帮记者找线索",
+      "onboard_time": 1716172758,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 308608,
@@ -1313,14 +1329,6 @@
       "onboard_time": 1716107358,
       "rank": 42,
       "category": "网红"
-    },
-    {
-      "raw_hot": 303926,
-      "num": 303926,
-      "word": "腾讯客服回应庆余年SVIP被指VIP套娃",
-      "onboard_time": 1716170419,
-      "rank": 29,
-      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 298237,
@@ -1481,6 +1489,14 @@
       "onboard_time": 1716170237,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263405,
+      "num": 263405,
+      "word": "森林狼vs掘金",
+      "onboard_time": 1716166579,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 259839,
@@ -2163,14 +2179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178572,
-      "num": 178572,
-      "word": "森林狼vs掘金",
-      "onboard_time": 1716166579,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177895,
       "num": 177895,
       "word": "周深新专辑销量",
@@ -2772,7 +2780,7 @@
     },
     {
       "raw_hot": 132436,
-      "num": 137644,
+      "num": 141486,
       "word": "薛之谦惊讶新疆作息时间",
       "onboard_time": 1716169338,
       "rank": 47,
@@ -2947,6 +2955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123339,
+      "num": 141496,
+      "word": "一夜好眠的8条睡眠建议",
+      "onboard_time": 1716172698,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121832,
       "num": 121832,
       "word": "为何阿嬷手作10元咖啡爆火",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1716103638,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117205,
+      "num": 141471,
+      "word": "尹净汉全圆佑双人小分队",
+      "onboard_time": 1716172459,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 117162,
@@ -3284,7 +3308,7 @@
     },
     {
       "raw_hot": 109452,
-      "num": 387532,
+      "num": 400920,
       "word": "鲜奶是如何提升身体保护力的",
       "onboard_time": 1716170597,
       "rank": 20,
@@ -3755,20 +3779,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54974,
+      "num": 411039,
+      "word": "你心动的都在京东",
+      "onboard_time": 1716170778,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 53512,
       "num": 368336,
       "word": "在杭州遇见科幻版希望的田野",
       "onboard_time": 1716132500,
       "rank": 11,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 50720,
-      "num": 397481,
-      "word": "你心动的都在京东",
-      "onboard_time": 1716170778,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 48421,
