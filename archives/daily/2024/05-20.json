@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716215728525,
+  "endTime": 1716218435124,
   "band_list": [
     {
       "raw_hot": 11623813,
@@ -235,6 +235,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 979284,
+      "num": 979284,
+      "word": "与凤行 庆功宴",
+      "onboard_time": 1716217400,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 972816,
       "num": 972816,
       "word": "年轻人为啥愿意花几千买一个捏捏",
@@ -321,6 +329,22 @@
       "onboard_time": 1716161716,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 825068,
+      "num": 392881,
+      "word": "胃病向胃癌转变有这5个征兆",
+      "onboard_time": 1716215300,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 772080,
+      "num": 772080,
+      "word": "3名大学生爬长城被雷击",
+      "onboard_time": 1716215959,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 757401,
@@ -539,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531533,
+      "num": 531533,
+      "word": "小满胜万全",
+      "onboard_time": 1716214999,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 528599,
       "num": 528599,
       "word": "杨幂涂山红红落泪镜头",
@@ -585,14 +617,6 @@
       "onboard_time": 1716198620,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 498157,
-      "num": 498157,
-      "word": "小满胜万全",
-      "onboard_time": 1716214999,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 498028,
@@ -689,6 +713,14 @@
       "onboard_time": 1716182480,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 451487,
+      "num": 237547,
+      "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
+      "onboard_time": 1716216320,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444687,
@@ -875,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370072,
+      "num": 370072,
+      "word": "老乡鸡葱油鸡已加量20g",
+      "onboard_time": 1716216438,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369660,
       "num": 192519,
       "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
@@ -889,6 +929,14 @@
       "onboard_time": 1716183020,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 358643,
+      "num": 358643,
+      "word": "成毅赴山海",
+      "onboard_time": 1716217341,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 348632,
@@ -1403,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240656,
+      "num": 240656,
+      "word": "邓科晒与林更新背影照",
+      "onboard_time": 1716217880,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237651,
       "num": 237651,
       "word": "奔跑吧全员现身周深演唱会",
@@ -1441,6 +1497,14 @@
       "onboard_time": 1716195801,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230066,
+      "num": 230066,
+      "word": "那英高叶 不良少女版",
+      "onboard_time": 1716217880,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 228778,
@@ -1907,12 +1971,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171597,
+      "num": 171597,
+      "word": "何小鹏回应与小米竞争",
+      "onboard_time": 1716216799,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 171050,
       "num": 171050,
       "word": "520和521恰逢农历1314",
       "onboard_time": 1716164957,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170449,
+      "num": 170449,
+      "word": "男子5点20出发为妻子跑出1314520",
+      "onboard_time": 1716217700,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167722,
@@ -1969,14 +2049,6 @@
       "onboard_time": 1716167661,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 162552,
-      "num": 162552,
-      "word": "胃病向胃癌转变有这5个征兆",
-      "onboard_time": 1716215300,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 161596,
@@ -2091,12 +2163,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148384,
+      "num": 148384,
+      "word": "给李诗恩封神",
+      "onboard_time": 1716217940,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146426,
       "num": 146426,
       "word": "世界之外",
       "onboard_time": 1716170177,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146116,
+      "num": 146116,
+      "word": "邱宇辰黄宏轩challenge",
+      "onboard_time": 1716218060,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 145942,
@@ -2259,6 +2347,14 @@
       "category": "美食,互联网"
     },
     {
+      "raw_hot": 135451,
+      "num": 811277,
+      "word": "小满的一幕幕画面太有爱了",
+      "onboard_time": 1716213560,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135223,
       "num": 135223,
       "word": "范闲邓子越对峙",
@@ -2273,14 +2369,6 @@
       "onboard_time": 1716208039,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134264,
-      "num": 805643,
-      "word": "小满的一幕幕画面太有爱了",
-      "onboard_time": 1716213560,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134219,
@@ -2459,6 +2547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120975,
+      "num": 120975,
+      "word": "郭艾伦 还有一场",
+      "onboard_time": 1716217341,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120908,
       "num": 120908,
       "word": "如果高铁上可以带小猫",
@@ -2571,6 +2667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102283,
+      "num": 102283,
+      "word": "拍到了童话世界才有的场景",
+      "onboard_time": 1716217341,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102077,
       "num": 120276,
       "word": "10元网红咖啡大姨忙的要碎掉了",
@@ -2628,7 +2732,7 @@
     },
     {
       "raw_hot": 98766,
-      "num": 247409,
+      "num": 252796,
       "word": "范志毅520教你开车",
       "onboard_time": 1716214280,
       "rank": 39,
