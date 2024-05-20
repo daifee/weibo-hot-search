@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716176048705,
+  "endTime": 1716178970165,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -11,20 +11,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 11260173,
+      "num": 11260173,
+      "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
+      "onboard_time": 1716174739,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 9586267,
+      "num": 10836267,
+      "word": "伊朗总统遇难",
+      "onboard_time": 1716178103,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 6410930,
       "num": 1017946,
       "word": "胖猫姐姐刘某操控舆论",
       "onboard_time": 1716129921,
       "rank": 3,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 5132627,
-      "num": 5132627,
-      "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
-      "onboard_time": 1716174739,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 4293126,
@@ -251,7 +259,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1080476,
+      "raw_hot": 1105756,
       "num": 1080476,
       "word": "伊朗总统直升机残骸已找到",
       "onboard_time": 1716175700,
@@ -329,6 +337,14 @@
       "onboard_time": 1716171078,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 951769,
+      "num": 758106,
+      "word": "以色列发文嘲讽伊朗总统直升机事故",
+      "onboard_time": 1716178163,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 927130,
@@ -755,12 +771,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 542814,
+      "num": 788687,
+      "word": "Hush报名歌手",
+      "onboard_time": 1716176541,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529341,
       "num": 504701,
       "word": "刘宪华5年后重返综艺",
       "onboard_time": 1716078135,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528599,
+      "num": 528599,
+      "word": "杨幂涂山红红落泪镜头",
+      "onboard_time": 1716177322,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 527170,
@@ -971,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 418882,
+      "num": 380805,
+      "word": "杨幂工作室换涂山红红头像背景",
+      "onboard_time": 1716178042,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417519,
       "num": 417519,
       "word": "早就说了我邀请的是断眉亚当",
@@ -1051,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396463,
+      "num": 396463,
+      "word": "张杰能精准判断谢娜下一句",
+      "onboard_time": 1716176541,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393881,
       "num": 393881,
       "word": "鞠婧祎蝴蝶耳钉",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1716175159,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377458,
+      "num": 377458,
+      "word": "ZICO",
+      "onboard_time": 1716178523,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 377338,
@@ -1108,7 +1164,7 @@
     },
     {
       "raw_hot": 370246,
-      "num": 370246,
+      "num": 4317702,
       "word": "小满恰逢520",
       "onboard_time": 1716160515,
       "rank": 31,
@@ -1321,6 +1377,14 @@
       "onboard_time": 1716174439,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326162,
+      "num": 326162,
+      "word": "永夜星河",
+      "onboard_time": 1716177621,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 324055,
@@ -1659,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243109,
+      "num": 243109,
+      "word": "杨幂龚俊520海报",
+      "onboard_time": 1716178764,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242137,
       "num": 242137,
       "word": "汪苏泷 吃饱饭继续奋斗",
@@ -1723,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230518,
+      "num": 230518,
+      "word": "杨紫多面角色芭莎大片",
+      "onboard_time": 1716177802,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 229696,
       "num": 229696,
       "word": "李佳琦直播预告",
@@ -1745,6 +1825,14 @@
       "onboard_time": 1716045258,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220917,
+      "num": 220917,
+      "word": "许嵩成都",
+      "onboard_time": 1716176722,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 220592,
@@ -3451,6 +3539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106772,
+      "num": 221339,
+      "word": "郎平官宣新身份",
+      "onboard_time": 1716178824,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106339,
       "num": 106339,
       "word": "南阳举办纪念诸葛亮仙逝1790周年座谈会",
@@ -3595,6 +3691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 97745,
+      "num": 1093790,
+      "word": "再晚就抢不到DNF手游ID了",
+      "onboard_time": 1716174319,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97321,
       "num": 97321,
       "word": "田嘉瑞 我何德何能去救那姐",
@@ -3707,14 +3811,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 78704,
-      "num": 1093790,
-      "word": "再晚就抢不到DNF手游ID了",
-      "onboard_time": 1716174319,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 77418,
       "num": 77418,
       "word": "周娅菲速度攀岩6秒54夺冠",
@@ -3787,6 +3883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69024,
+      "num": 410613,
+      "word": "被Pura70镜头下的倪妮惊艳了",
+      "onboard_time": 1716174319,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68793,
       "num": 2948947,
       "word": "行走美丽中国",
@@ -3833,6 +3937,14 @@
       "onboard_time": 1716101296,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64090,
+      "num": 846834,
+      "word": "情感主播向辛巴道歉",
+      "onboard_time": 1716174921,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 63950,
@@ -3883,28 +3995,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59032,
-      "num": 846834,
-      "word": "情感主播向辛巴道歉",
-      "onboard_time": 1716174921,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 57879,
       "num": 57879,
       "word": "汪苏泷机场状态",
       "onboard_time": 1716058452,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54171,
-      "num": 410613,
-      "word": "被Pura70镜头下的倪妮惊艳了",
-      "onboard_time": 1716174319,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 53512,
@@ -4075,12 +4171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30730,
+      "num": 607463,
+      "word": "当华为全家桶遇上520",
+      "onboard_time": 1716178103,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 29665,
       "num": 282263,
       "word": "这是更适合中国宝宝体质的女团",
       "onboard_time": 1716135496,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29277,
+      "num": 375524,
+      "word": "肖战透视蕾丝造型",
+      "onboard_time": 1716177982,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27323,

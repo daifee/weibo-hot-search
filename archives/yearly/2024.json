@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1716176048705,
+  "endTime": 1716178970165,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11260173,
+      "num": 11260173,
+      "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
+      "onboard_time": 1716174739,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 11170879,
       "num": 11170879,
       "word": "沈腾也嘴瓢了",
@@ -273,6 +281,14 @@
       "onboard_time": 1710498581,
       "rank": 8,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 9586267,
+      "num": 10836267,
+      "word": "伊朗总统遇难",
+      "onboard_time": 1716178103,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 9583581,
@@ -961,14 +977,6 @@
       "onboard_time": 1707551436,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 5132627,
-      "num": 5132627,
-      "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
-      "onboard_time": 1716174739,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 5083654,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708653993,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2976929,
-      "num": 505600,
-      "word": "宋家腾为白敬亭发声",
-      "onboard_time": 1707995676,
-      "rank": 41,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

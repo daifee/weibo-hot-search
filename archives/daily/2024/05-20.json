@@ -1,7 +1,23 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716176048705,
+  "endTime": 1716178970165,
   "band_list": [
+    {
+      "raw_hot": 11260173,
+      "num": 11260173,
+      "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
+      "onboard_time": 1716174739,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 9586267,
+      "num": 10836267,
+      "word": "伊朗总统遇难",
+      "onboard_time": 1716178103,
+      "rank": 1,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 6373884,
       "num": 6373884,
@@ -9,14 +25,6 @@
       "onboard_time": 1716123377,
       "rank": 0,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 5132627,
-      "num": 5132627,
-      "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
-      "onboard_time": 1716174739,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 3395646,
@@ -115,7 +123,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1080476,
+      "raw_hot": 1105756,
       "num": 1080476,
       "word": "伊朗总统直升机残骸已找到",
       "onboard_time": 1716175700,
@@ -145,6 +153,14 @@
       "onboard_time": 1716171078,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 951769,
+      "num": 758106,
+      "word": "以色列发文嘲讽伊朗总统直升机事故",
+      "onboard_time": 1716178163,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 938201,
@@ -283,6 +299,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 542814,
+      "num": 788687,
+      "word": "Hush报名歌手",
+      "onboard_time": 1716176541,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 528599,
+      "num": 528599,
+      "word": "杨幂涂山红红落泪镜头",
+      "onboard_time": 1716177322,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 518378,
       "num": 518378,
       "word": "王俊凯发文感谢蔡依林",
@@ -347,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 418882,
+      "num": 380805,
+      "word": "杨幂工作室换涂山红红头像背景",
+      "onboard_time": 1716178042,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408250,
       "num": 281510,
       "word": "戴珍珠耳环的少女 意外的颜料",
@@ -355,12 +395,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 396463,
+      "num": 396463,
+      "word": "张杰能精准判断谢娜下一句",
+      "onboard_time": 1716176541,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382898,
       "num": 382898,
       "word": "宝石老舅真成老救了",
       "onboard_time": 1716175159,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377458,
+      "num": 377458,
+      "word": "ZICO",
+      "onboard_time": 1716178523,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 373334,
@@ -380,7 +436,7 @@
     },
     {
       "raw_hot": 370246,
-      "num": 370246,
+      "num": 4317702,
       "word": "小满恰逢520",
       "onboard_time": 1716160515,
       "rank": 31,
@@ -425,6 +481,14 @@
       "onboard_time": 1716174439,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326162,
+      "num": 326162,
+      "word": "永夜星河",
+      "onboard_time": 1716177621,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 321890,
@@ -531,6 +595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243109,
+      "num": 243109,
+      "word": "杨幂龚俊520海报",
+      "onboard_time": 1716178764,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242134,
       "num": 242134,
       "word": "王俊凯蔡依林五年后再唱心引力",
@@ -569,6 +641,22 @@
       "onboard_time": 1716123558,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230518,
+      "num": 230518,
+      "word": "杨紫多面角色芭莎大片",
+      "onboard_time": 1716177802,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 220917,
+      "num": 220917,
+      "word": "许嵩成都",
+      "onboard_time": 1716176722,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 217020,
@@ -923,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106772,
+      "num": 221339,
+      "word": "郎平官宣新身份",
+      "onboard_time": 1716178824,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102077,
       "num": 120276,
       "word": "10元网红咖啡大姨忙的要碎掉了",
@@ -953,6 +1049,14 @@
       "onboard_time": 1716119238,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 97745,
+      "num": 1093790,
+      "word": "再晚就抢不到DNF手游ID了",
+      "onboard_time": 1716174319,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 96971,
@@ -1019,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78704,
-      "num": 1093790,
-      "word": "再晚就抢不到DNF手游ID了",
-      "onboard_time": 1716174319,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 70592,
       "num": 70592,
       "word": "苏打绿郑州",
@@ -1051,12 +1147,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69024,
+      "num": 410613,
+      "word": "被Pura70镜头下的倪妮惊艳了",
+      "onboard_time": 1716174319,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68003,
       "num": 693833,
       "word": "你心动的都在京东",
       "onboard_time": 1716170778,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 64090,
+      "num": 846834,
+      "word": "情感主播向辛巴道歉",
+      "onboard_time": 1716174921,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 62631,
@@ -1073,22 +1185,6 @@
       "onboard_time": 1716161417,
       "rank": 47,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 59032,
-      "num": 846834,
-      "word": "情感主播向辛巴道歉",
-      "onboard_time": 1716174921,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 54171,
-      "num": 410613,
-      "word": "被Pura70镜头下的倪妮惊艳了",
-      "onboard_time": 1716174319,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 53270,
@@ -1139,12 +1235,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30730,
+      "num": 607463,
+      "word": "当华为全家桶遇上520",
+      "onboard_time": 1716178103,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 29665,
       "num": 282263,
       "word": "这是更适合中国宝宝体质的女团",
       "onboard_time": 1716135496,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29277,
+      "num": 375524,
+      "word": "肖战透视蕾丝造型",
+      "onboard_time": 1716177982,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27323,
