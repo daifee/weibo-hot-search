@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716223137957,
+  "endTime": 1716225549120,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -931,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 586546,
+      "num": 256920,
+      "word": "张若昀",
+      "onboard_time": 1716219559,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 583189,
       "num": 371301,
       "word": "长期戴眼镜会让眼睛变凸吗",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1716115637,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 510552,
-      "num": 256920,
-      "word": "张若昀",
-      "onboard_time": 1716219559,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 508736,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1716129501,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 408056,
+      "num": 408056,
+      "word": "房价会不会报复性上涨",
+      "onboard_time": 1716222497,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406771,
@@ -5412,7 +5420,7 @@
     },
     {
       "raw_hot": 98025,
-      "num": 98025,
+      "num": 139376,
       "word": "有水果市场一天卖出1.5亿元榴莲",
       "onboard_time": 1716218838,
       "rank": 43,
@@ -5476,7 +5484,7 @@
     },
     {
       "raw_hot": 92951,
-      "num": 88185,
+      "num": 140376,
       "word": "总决赛门票就是最强假条",
       "onboard_time": 1716220636,
       "rank": 40,
@@ -5507,16 +5515,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88558,
-      "num": 88558,
-      "word": "房价会不会报复性上涨",
-      "onboard_time": 1716222497,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88053,
-      "num": 88053,
+      "num": 139759,
       "word": "王一博抵达广西录制纪录片",
       "onboard_time": 1716221418,
       "rank": 35,
@@ -5788,7 +5788,7 @@
     },
     {
       "raw_hot": 63235,
-      "num": 85447,
+      "num": 139604,
       "word": "庆余年",
       "onboard_time": 1716221119,
       "rank": 44,
@@ -5955,12 +5955,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41368,
+      "num": 139287,
+      "word": "王启年的回旋镖镖镖扎心",
+      "onboard_time": 1716225074,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41128,
       "num": 41128,
       "word": "上海你不要太超前",
       "onboard_time": 1716074415,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 41121,
+      "num": 139161,
+      "word": "说出心底的爱",
+      "onboard_time": 1716225074,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39841,
+      "num": 138891,
+      "word": "恋与深空",
+      "onboard_time": 1716224294,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 38926,
