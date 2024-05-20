@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716178970165,
+  "endTime": 1716179890317,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -11,16 +11,16 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 11260173,
-      "num": 11260173,
+      "raw_hot": 11623813,
+      "num": 11623813,
       "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
       "onboard_time": 1716174739,
       "rank": 3,
       "category": "国外时政"
     },
     {
-      "raw_hot": 9586267,
-      "num": 10836267,
+      "raw_hot": 10432398,
+      "num": 11103995,
       "word": "伊朗总统遇难",
       "onboard_time": 1716178103,
       "rank": 1,
@@ -73,6 +73,14 @@
       "onboard_time": 1716170778,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2051376,
+      "num": 2051376,
+      "word": "以色列发文嘲讽伊朗总统直升机事故",
+      "onboard_time": 1716178163,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2048923,
@@ -337,14 +345,6 @@
       "onboard_time": 1716171078,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 951769,
-      "num": 758106,
-      "word": "以色列发文嘲讽伊朗总统直升机事故",
-      "onboard_time": 1716178163,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 927130,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632316,
+      "num": 5300097,
+      "word": "小满恰逢520",
+      "onboard_time": 1716160515,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630731,
       "num": 575493,
       "word": "胖猫事件不予立案",
@@ -753,6 +761,14 @@
       "onboard_time": 1716117738,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 547541,
+      "num": 547541,
+      "word": "ZICO",
+      "onboard_time": 1716178523,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 546957,
@@ -955,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 439375,
+      "num": 439375,
+      "word": "我的阿勒泰新浪扫楼",
+      "onboard_time": 1716179125,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435318,
       "num": 435318,
       "word": "伊朗对载有总统的事故直升机全力搜救",
@@ -1019,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416797,
+      "num": 416797,
+      "word": "以色列",
+      "onboard_time": 1716179486,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 415324,
       "num": 415324,
       "word": "英国年度最性感男人",
@@ -1075,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402325,
+      "num": 402325,
+      "word": "张杰能精准判断谢娜下一句",
+      "onboard_time": 1716176541,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401637,
       "num": 277483,
       "word": "为了买房半年和对象存了5万",
@@ -1091,11 +1131,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396463,
-      "num": 396463,
-      "word": "张杰能精准判断谢娜下一句",
-      "onboard_time": 1716176541,
-      "rank": 25,
+      "raw_hot": 396251,
+      "num": 396251,
+      "word": "宝石老舅真成老救了",
+      "onboard_time": 1716175159,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1104,22 +1144,6 @@
       "word": "鞠婧祎蝴蝶耳钉",
       "onboard_time": 1716099137,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 382898,
-      "num": 382898,
-      "word": "宝石老舅真成老救了",
-      "onboard_time": 1716175159,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 377458,
-      "num": 377458,
-      "word": "ZICO",
-      "onboard_time": 1716178523,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1161,14 +1185,6 @@
       "onboard_time": 1716129321,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370246,
-      "num": 4317702,
-      "word": "小满恰逢520",
-      "onboard_time": 1716160515,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369660,
@@ -1611,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273922,
+      "num": 273922,
+      "word": "杨幂龚俊520海报",
+      "onboard_time": 1716178764,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273748,
       "num": 273748,
       "word": "荔枝好贵",
@@ -1635,12 +1659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265674,
+      "num": 265674,
+      "word": "张若昀天天被人问第二季什么时候播",
+      "onboard_time": 1716179725,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263405,
       "num": 263405,
       "word": "森林狼vs掘金",
       "onboard_time": 1716166579,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262045,
+      "num": 262045,
+      "word": "光与夜之恋",
+      "onboard_time": 1716179665,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 259839,
@@ -1691,6 +1731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 246080,
+      "num": 246080,
+      "word": "杨紫多面角色芭莎大片",
+      "onboard_time": 1716177802,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 245613,
       "num": 245613,
       "word": "交警路边查戴头盔遇老外直接放行",
@@ -1721,14 +1769,6 @@
       "onboard_time": 1716077296,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243109,
-      "num": 243109,
-      "word": "杨幂龚俊520海报",
-      "onboard_time": 1716178764,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 242137,
@@ -1793,14 +1833,6 @@
       "onboard_time": 1716111797,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230518,
-      "num": 230518,
-      "word": "杨紫多面角色芭莎大片",
-      "onboard_time": 1716177802,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 229696,
@@ -2593,6 +2625,14 @@
       "onboard_time": 1716095716,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 156390,
+      "num": 397518,
+      "word": "郎平官宣新身份",
+      "onboard_time": 1716178824,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 156002,
@@ -3539,14 +3579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106772,
-      "num": 221339,
-      "word": "郎平官宣新身份",
-      "onboard_time": 1716178824,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106339,
       "num": 106339,
       "word": "南阳举办纪念诸葛亮仙逝1790周年座谈会",
@@ -3979,6 +4011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60318,
+      "num": 607463,
+      "word": "当华为全家桶遇上520",
+      "onboard_time": 1716178103,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 59324,
       "num": 59324,
       "word": "张艺兴金发走戛纳红毯",
@@ -4001,6 +4041,14 @@
       "onboard_time": 1716058452,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55212,
+      "num": 614310,
+      "word": "肖战透视蕾丝造型",
+      "onboard_time": 1716177982,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 53512,
@@ -4171,28 +4219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30730,
-      "num": 607463,
-      "word": "当华为全家桶遇上520",
-      "onboard_time": 1716178103,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 29665,
       "num": 282263,
       "word": "这是更适合中国宝宝体质的女团",
       "onboard_time": 1716135496,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29277,
-      "num": 375524,
-      "word": "肖战透视蕾丝造型",
-      "onboard_time": 1716177982,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27323,
@@ -4329,6 +4361,14 @@
       "onboard_time": 1716061151,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7704,
+      "num": 237664,
+      "word": "什么是618里的省金人",
+      "onboard_time": 1716179725,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 6688,

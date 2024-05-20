@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716178970165,
+  "endTime": 1716179890317,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 11260173,
-      "num": 11260173,
+      "raw_hot": 11623813,
+      "num": 11623813,
       "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
       "onboard_time": 1716174739,
       "rank": 3,
@@ -43,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 9586267,
-      "num": 10836267,
+      "raw_hot": 10432398,
+      "num": 11103995,
       "word": "伊朗总统遇难",
       "onboard_time": 1716178103,
       "rank": 1,
@@ -809,6 +809,14 @@
       "onboard_time": 1715215760,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2051376,
+      "num": 2051376,
+      "word": "以色列发文嘲讽伊朗总统直升机事故",
+      "onboard_time": 1716178163,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2048923,
@@ -4553,14 +4561,6 @@
       "onboard_time": 1716020359,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 951769,
-      "num": 758106,
-      "word": "以色列发文嘲讽伊朗总统直升机事故",
-      "onboard_time": 1716178163,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 950056,
@@ -8835,6 +8835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632316,
+      "num": 5300097,
+      "word": "小满恰逢520",
+      "onboard_time": 1716160515,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632211,
       "num": 632211,
       "word": "于正说庆余年剧宣low",
@@ -10585,6 +10593,14 @@
       "onboard_time": 1715351061,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 547541,
+      "num": 547541,
+      "word": "ZICO",
+      "onboard_time": 1716178523,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 546957,
@@ -13867,6 +13883,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 439375,
+      "num": 439375,
+      "word": "我的阿勒泰新浪扫楼",
+      "onboard_time": 1716179125,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 439101,
       "num": 428049,
       "word": "李承铉让Lucky等弟弟长大后再收拾",
@@ -15427,6 +15451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 402325,
+      "num": 402325,
+      "word": "张杰能精准判断谢娜下一句",
+      "onboard_time": 1716176541,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402233,
       "num": 402233,
       "word": "那英十年前的回旋镖",
@@ -15723,11 +15755,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 396463,
-      "num": 396463,
-      "word": "张杰能精准判断谢娜下一句",
-      "onboard_time": 1716176541,
-      "rank": 25,
+      "raw_hot": 396251,
+      "num": 396251,
+      "word": "宝石老舅真成老救了",
+      "onboard_time": 1716175159,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -16243,14 +16275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 382898,
-      "num": 382898,
-      "word": "宝石老舅真成老救了",
-      "onboard_time": 1716175159,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 382293,
       "num": 337388,
       "word": "官方介入调查空包外卖",
@@ -16425,14 +16449,6 @@
       "onboard_time": 1715818579,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377458,
-      "num": 377458,
-      "word": "ZICO",
-      "onboard_time": 1716178523,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 377338,
@@ -16777,14 +16793,6 @@
       "onboard_time": 1715402721,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370246,
-      "num": 4317702,
-      "word": "小满恰逢520",
-      "onboard_time": 1716160515,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370059,
@@ -21931,6 +21939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273922,
+      "num": 273922,
+      "word": "杨幂龚俊520海报",
+      "onboard_time": 1716178764,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273748,
       "num": 273748,
       "word": "荔枝好贵",
@@ -22539,6 +22555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265674,
+      "num": 265674,
+      "word": "张若昀天天被人问第二季什么时候播",
+      "onboard_time": 1716179725,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265565,
       "num": 265565,
       "word": "王力宏音乐节",
@@ -22817,6 +22841,14 @@
       "onboard_time": 1715396359,
       "rank": 24,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 262045,
+      "num": 262045,
+      "word": "光与夜之恋",
+      "onboard_time": 1714884079,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 261996,
@@ -24059,6 +24091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246080,
+      "num": 246080,
+      "word": "杨紫多面角色芭莎大片",
+      "onboard_time": 1716177802,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 246033,
       "num": 206716,
       "word": "张若昀接到庆余年剧本时是第八稿",
@@ -24352,14 +24392,6 @@
       "word": "于适这两个镜头真的封神",
       "onboard_time": 1715350942,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 243109,
-      "num": 243109,
-      "word": "杨幂龚俊520海报",
-      "onboard_time": 1716178764,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -25497,14 +25529,6 @@
       "onboard_time": 1715759779,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 230518,
-      "num": 230518,
-      "word": "杨紫多面角色芭莎大片",
-      "onboard_time": 1716177802,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 230468,
@@ -27233,14 +27257,6 @@
       "onboard_time": 1715869760,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215460,
-      "num": 215460,
-      "word": "光与夜之恋",
-      "onboard_time": 1714884079,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 215456,
@@ -39091,6 +39107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156390,
+      "num": 397518,
+      "word": "郎平官宣新身份",
+      "onboard_time": 1716178824,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156295,
       "num": 156295,
       "word": "张杰演唱会百场幕后采访预告",
@@ -48731,14 +48755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106772,
-      "num": 221339,
-      "word": "郎平官宣新身份",
-      "onboard_time": 1716178824,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106765,
       "num": 106765,
       "word": "周星驰阿信合照",
@@ -52067,6 +52083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60318,
+      "num": 607463,
+      "word": "当华为全家桶遇上520",
+      "onboard_time": 1716178103,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 60220,
       "num": 949898,
       "word": "塞尔维亚路牌上有中文标识",
@@ -52385,6 +52409,14 @@
       "onboard_time": 1716005839,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 55212,
+      "num": 614310,
+      "word": "肖战透视蕾丝造型",
+      "onboard_time": 1716177982,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 55177,
@@ -53715,14 +53747,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 30730,
-      "num": 607463,
-      "word": "当华为全家桶遇上520",
-      "onboard_time": 1716178103,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 30653,
       "num": 1285697,
       "word": "阔步迈向网络强国",
@@ -53792,14 +53816,6 @@
       "word": "小鬼脸红星星妆",
       "onboard_time": 1714761253,
       "rank": 48,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 29277,
-      "num": 375524,
-      "word": "肖战透视蕾丝造型",
-      "onboard_time": 1716177982,
-      "rank": 29,
       "category": "作品衍生"
     },
     {
@@ -54665,6 +54681,14 @@
       "onboard_time": 1715886251,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7704,
+      "num": 237664,
+      "word": "什么是618里的省金人",
+      "onboard_time": 1716179725,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 7372,
