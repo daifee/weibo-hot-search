@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716230201428,
+  "endTime": 1716232491233,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -5523,6 +5523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87964,
+      "num": 65647,
+      "word": "辛巴快手号直播权限解封",
+      "onboard_time": 1716227951,
+      "rank": 12,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 87842,
       "num": 104812,
       "word": "德甲联赛",
@@ -5545,14 +5553,6 @@
       "onboard_time": 1716082697,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83704,
-      "num": 65647,
-      "word": "辛巴快手号直播权限解封",
-      "onboard_time": 1716227951,
-      "rank": 12,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 82981,
@@ -6003,6 +6003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39293,
+      "num": 36683,
+      "word": "张若昀腰围62",
+      "onboard_time": 1716229630,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39026,
       "num": 47325,
       "word": "杭州机场打车已经是nextlevel了",
@@ -6123,14 +6131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27331,
-      "num": 27331,
-      "word": "张若昀腰围62",
-      "onboard_time": 1716229630,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 27323,
       "num": 29190,
       "word": "曼城英超四连冠",
@@ -6235,12 +6235,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 15856,
+      "num": 31678,
+      "word": "一百年前国外的婴儿车",
+      "onboard_time": 1716232151,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 15305,
       "num": 18165,
       "word": "李嘉格 金棕豹系妆",
       "onboard_time": 1716148631,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 15159,
+      "num": 31659,
+      "word": "你这小猫怎么獭里獭气的",
+      "onboard_time": 1716231552,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 14419,
