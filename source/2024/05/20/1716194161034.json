@@ -1,0 +1,410 @@
+{
+  "runTime": 1716194161034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9523997,
+        "num": 9523997,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1792094,
+        "num": 1792094,
+        "word": "伊朗总统遇难",
+        "onboard_time": 1716178103,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 53650,
+        "num": 740157,
+        "word": "文化中国行小满节气课",
+        "onboard_time": 1716193701,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725039,
+        "num": 725039,
+        "word": "马龙退赛",
+        "onboard_time": 1716187279,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448977,
+        "num": 448977,
+        "word": "加纳总统车队发生车祸",
+        "onboard_time": 1716181165,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 8174970,
+        "num": 435814,
+        "word": "汪峰承认恋情",
+        "onboard_time": 1716191360,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553376,
+        "num": 430486,
+        "word": "杨幂 古偶",
+        "onboard_time": 1716188179,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405818,
+        "num": 405818,
+        "word": "伊朗第一副总统将承担总统权力职能",
+        "onboard_time": 1716188420,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 381763,
+        "num": 381763,
+        "word": "李胜利拖拽女性视频",
+        "onboard_time": 1716170778,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281677,
+        "num": 281677,
+        "word": "教授建议18到25岁要多谈恋爱",
+        "onboard_time": 1716182480,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1137438,
+        "num": 280958,
+        "word": "江西贵溪发生恶性伤人事件",
+        "onboard_time": 1716192922,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 481307,
+        "num": 280417,
+        "word": "鹰潭",
+        "onboard_time": 1716192621,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 364038,
+        "num": 278634,
+        "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
+        "onboard_time": 1716174739,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 317592,
+        "num": 278559,
+        "word": "贾玲 百花奖",
+        "onboard_time": 1716190039,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127683,
+        "num": 277127,
+        "word": "天猫618王炸全家桶狠香",
+        "onboard_time": 1716192020,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 295392,
+        "num": 276478,
+        "word": "B太测老乡鸡葱油鸡重量少15克",
+        "onboard_time": 1716193402,
+        "rank": 15,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 275468,
+        "num": 275468,
+        "word": "王一博 9785",
+        "onboard_time": 1716188179,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267038,
+        "num": 267038,
+        "word": "陈奕迅恭喜林俊杰入围",
+        "onboard_time": 1716193341,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251253,
+        "num": 251253,
+        "word": "九成00后女性认为夫妻该承担同样家务",
+        "onboard_time": 1716185182,
+        "rank": 18,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 209755,
+        "num": 251199,
+        "word": "金价",
+        "onboard_time": 1716183260,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 384634,
+        "num": 249760,
+        "word": "为什么避孕套都放在收银台",
+        "onboard_time": 1716165019,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330482,
+        "num": 247342,
+        "word": "为什么男性天生屁股更翘",
+        "onboard_time": 1716189799,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126578,
+        "num": 245515,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312540,
+        "num": 244762,
+        "word": "2块钱以下的雪糕回来了",
+        "onboard_time": 1716192020,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 302421,
+        "num": 243795,
+        "word": "i人和e人坐姿的区别",
+        "onboard_time": 1716192263,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137635,
+        "num": 241928,
+        "word": "520还得是兵哥哥的比心最硬核",
+        "onboard_time": 1716193282,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 270053,
+        "num": 240825,
+        "word": "南京山姆榴莲30元一斤半天售罄",
+        "onboard_time": 1716192263,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 258503,
+        "num": 238341,
+        "word": "许凯拽田曦薇vs王鹤棣拽田曦薇",
+        "onboard_time": 1716190821,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73803,
+        "num": 237232,
+        "word": "李银河让我又相信爱了",
+        "onboard_time": 1716192200,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254269,
+        "num": 235686,
+        "word": "李嘉格 想红是因为没红过",
+        "onboard_time": 1716190400,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235056,
+        "num": 235056,
+        "word": "她不是不疼只是习惯了忍",
+        "onboard_time": 1716192502,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232297,
+        "num": 232297,
+        "word": "蔡依林被王俊凯牵住时的反应",
+        "onboard_time": 1716189079,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229496,
+        "num": 229496,
+        "word": "马龙破防了",
+        "onboard_time": 1716182899,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227678,
+        "num": 227678,
+        "word": "具荷拉好勇敢",
+        "onboard_time": 1716193701,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219696,
+        "num": 219696,
+        "word": "曝涂磊私生活混乱网友道歉",
+        "onboard_time": 1716183201,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196990,
+        "num": 196990,
+        "word": "易烊千玺 浪漫男人",
+        "onboard_time": 1716188780,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190918,
+        "num": 190918,
+        "word": "徐冬冬尹子维婚礼前的最后一个520",
+        "onboard_time": 1716191241,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179169,
+        "num": 179169,
+        "word": "欧盟对伊朗总统莱希等人遇难表示哀悼",
+        "onboard_time": 1716191060,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167785,
+        "num": 167785,
+        "word": "专家称十年后房子不可能卖白菜价",
+        "onboard_time": 1716193581,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167684,
+        "num": 167684,
+        "word": "姚政520卡点1314发婚纱照",
+        "onboard_time": 1716188840,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172034,
+        "num": 166877,
+        "word": "伊朗总统直升机事故遇难者搜寻结束",
+        "onboard_time": 1716187879,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164237,
+        "num": 164237,
+        "word": "NewJeans被指抄袭墨西哥女团",
+        "onboard_time": 1716186738,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161596,
+        "num": 161596,
+        "word": "马龙排名世界第三",
+        "onboard_time": 1716193761,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153610,
+        "num": 153610,
+        "word": "王源cos财神",
+        "onboard_time": 1716193040,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151995,
+        "num": 151995,
+        "word": "伊媒公布伊朗总统事故直升机上9人名单",
+        "onboard_time": 1716189259,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 69158,
+        "num": 148021,
+        "word": "北京三号C星星座发射成功",
+        "onboard_time": 1716193162,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147768,
+        "num": 147768,
+        "word": "微信转账520和1314能要回吗",
+        "onboard_time": 1716168438,
+        "rank": 46,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 144318,
+        "num": 144318,
+        "word": "WTT重庆冠军赛2024",
+        "onboard_time": 1716190880,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141886,
+        "num": 141886,
+        "word": "教育局通报初中女生被打",
+        "onboard_time": 1716194061,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139662,
+        "num": 139662,
+        "word": "狐妖月红篇定档官宣",
+        "onboard_time": 1716186439,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续打造市场化法治化国际化营商环境#"
+    }
+  }
+}
