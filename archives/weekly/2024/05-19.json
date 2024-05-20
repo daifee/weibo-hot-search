@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716236383520,
+  "endTime": 1716237333850,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -5931,6 +5931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 45446,
+      "num": 31678,
+      "word": "一百年前国外的婴儿车",
+      "onboard_time": 1716232151,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 45301,
       "num": 45301,
       "word": "参加了一场只有一个人的婚礼",
@@ -5993,14 +6001,6 @@
       "onboard_time": 1716225074,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40869,
-      "num": 31678,
-      "word": "一百年前国外的婴儿车",
-      "onboard_time": 1716232151,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 39841,
@@ -6243,6 +6243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 16540,
+      "num": 17990,
+      "word": "原来小猫用头撞人是这个意思",
+      "onboard_time": 1716236530,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 16115,
       "num": 277599,
       "word": "爱在EX30小满大满足",
@@ -6267,6 +6275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 14844,
+      "num": 17959,
+      "word": "今天穿什么",
+      "onboard_time": 1716236351,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 14419,
       "num": 169266,
       "word": "乐见潮向现场超出片",
@@ -6283,20 +6299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12964,
+      "num": 17902,
+      "word": "这些人不适合服用短效避孕药",
+      "onboard_time": 1716236469,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 12115,
       "num": 104596,
       "word": "父亲怕41岁女儿迷路手绘回家地图",
       "onboard_time": 1716142813,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11843,
-      "num": 17859,
-      "word": "今天穿什么",
-      "onboard_time": 1716236351,
-      "rank": 46,
-      "category": "时尚"
     },
     {
       "raw_hot": 11636,

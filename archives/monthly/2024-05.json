@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716236383520,
+  "endTime": 1716237333850,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -54691,6 +54691,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 45446,
+      "num": 31678,
+      "word": "一百年前国外的婴儿车",
+      "onboard_time": 1716232151,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 45419,
       "num": 267177,
       "word": "匈牙利学生说中文绕口令有多溜",
@@ -55017,14 +55025,6 @@
       "onboard_time": 1715108171,
       "rank": 28,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 40869,
-      "num": 31678,
-      "word": "一百年前国外的婴儿车",
-      "onboard_time": 1716232151,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 40731,
@@ -56147,6 +56147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 16540,
+      "num": 17990,
+      "word": "原来小猫用头撞人是这个意思",
+      "onboard_time": 1716236530,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 16268,
       "num": 18403,
       "word": "爱一个本身就很好的人",
@@ -56233,6 +56241,14 @@
       "onboard_time": 1715288531,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14844,
+      "num": 17959,
+      "word": "今天穿什么",
+      "onboard_time": 1716236351,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 14836,
@@ -56331,6 +56347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 12964,
+      "num": 17902,
+      "word": "这些人不适合服用短效避孕药",
+      "onboard_time": 1716236469,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 12633,
       "num": 14259,
       "word": "曾一鸣评论区",
@@ -56393,14 +56417,6 @@
       "onboard_time": 1715027650,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11843,
-      "num": 17859,
-      "word": "今天穿什么",
-      "onboard_time": 1716236351,
-      "rank": 46,
-      "category": "时尚"
     },
     {
       "raw_hot": 11714,
