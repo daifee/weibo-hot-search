@@ -1,0 +1,410 @@
+{
+  "runTime": 1716236383520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 97460,
+        "num": 97460,
+        "word": "房价会不会报复性上涨",
+        "onboard_time": 1716222497,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86733,
+        "num": 86733,
+        "word": "疯产姐妹复更",
+        "onboard_time": 1716219619,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 10553,
+        "num": 69737,
+        "word": "小满的一幕幕画面太有爱了",
+        "onboard_time": 1716213560,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60408,
+        "num": 60408,
+        "word": "3名大学生爬长城被雷击",
+        "onboard_time": 1716215959,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41148,
+        "num": 41148,
+        "word": "李佳琦618不用难了",
+        "onboard_time": 1716203240,
+        "rank": 4,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 39421,
+        "num": 39421,
+        "word": "以色列总理涉嫌战争罪被申请逮捕令",
+        "onboard_time": 1716206777,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 30132,
+        "num": 30132,
+        "word": "与凤行 庆功宴",
+        "onboard_time": 1716217400,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28519,
+        "num": 28519,
+        "word": "张若昀腰围62",
+        "onboard_time": 1716229630,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28356,
+        "num": 28356,
+        "word": "伊朗总统遇难",
+        "onboard_time": 1716178103,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 16658,
+        "num": 27991,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49344,
+        "num": 27534,
+        "word": "辛巴快手号直播权限解封",
+        "onboard_time": 1716227951,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 40869,
+        "num": 27160,
+        "word": "一百年前国外的婴儿车",
+        "onboard_time": 1716232151,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 87651,
+        "num": 26894,
+        "word": "张若昀",
+        "onboard_time": 1716219559,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29629,
+        "num": 26669,
+        "word": "胃病向胃癌转变有这5个征兆",
+        "onboard_time": 1716215300,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28743,
+        "num": 25954,
+        "word": "那英高叶 不良少女版",
+        "onboard_time": 1716217880,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25867,
+        "num": 25867,
+        "word": "男子5点20出发为妻子跑出1314520",
+        "onboard_time": 1716217700,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25443,
+        "num": 25443,
+        "word": "520 垃圾桶",
+        "onboard_time": 1716196101,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24142,
+        "num": 24142,
+        "word": "小满胜万全",
+        "onboard_time": 1716214999,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23291,
+        "num": 23291,
+        "word": "1200元最贵看台票几乎看不到周杰伦",
+        "onboard_time": 1716210619,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21934,
+        "num": 21934,
+        "word": "黄俊捷不参演赴山海",
+        "onboard_time": 1716212299,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79385,
+        "num": 21399,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36055,
+        "num": 20653,
+        "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
+        "onboard_time": 1716216320,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26081,
+        "num": 20525,
+        "word": "不生孩子是怎么流行开的",
+        "onboard_time": 1716208277,
+        "rank": 22,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 19433,
+        "num": 19433,
+        "word": "指甲出现这4个异常可能是大病先兆",
+        "onboard_time": 1716208938,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19104,
+        "num": 19104,
+        "word": "榴莲今年为什么越来越便宜",
+        "onboard_time": 1716211520,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19029,
+        "num": 19029,
+        "word": "刘亦菲520开屏",
+        "onboard_time": 1716232930,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18859,
+        "num": 18859,
+        "word": "曝李胜利欠款百万不归还",
+        "onboard_time": 1716204798,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18197,
+        "num": 18197,
+        "word": "今年520朋友圈怎么没人秀恩爱了",
+        "onboard_time": 1716200300,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18006,
+        "num": 18006,
+        "word": "成毅赴山海",
+        "onboard_time": 1716217341,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15887,
+        "num": 17999,
+        "word": "总决赛门票就是最强假条",
+        "onboard_time": 1716220636,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15424,
+        "num": 17997,
+        "word": "赴山海",
+        "onboard_time": 1716212419,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14984,
+        "num": 17987,
+        "word": "丈夫称想在去世20年妻子面前大哭一场",
+        "onboard_time": 1716214699,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14818,
+        "num": 17977,
+        "word": "小满",
+        "onboard_time": 1716198919,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14594,
+        "num": 17971,
+        "word": "情侣之间情绪稳定真的很重要",
+        "onboard_time": 1716209839,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14033,
+        "num": 17960,
+        "word": "杭州机场打车已经是nextlevel了",
+        "onboard_time": 1716226814,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13986,
+        "num": 17953,
+        "word": "有水果市场一天卖出1.5亿元榴莲",
+        "onboard_time": 1716218838,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13876,
+        "num": 17947,
+        "word": "王一博抵达广西录制纪录片",
+        "onboard_time": 1716221418,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13817,
+        "num": 17937,
+        "word": "李胜利",
+        "onboard_time": 1716195141,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13741,
+        "num": 17924,
+        "word": "王俊凯的内搭和蔡依林的裙子",
+        "onboard_time": 1716205878,
+        "rank": 38,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 13378,
+        "num": 17915,
+        "word": "你这小猫怎么獭里獭气的",
+        "onboard_time": 1716231552,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13153,
+        "num": 17912,
+        "word": "今天这条视频爱意拉满",
+        "onboard_time": 1716226752,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12992,
+        "num": 17905,
+        "word": "陈赫郑恺 阑尾兄弟",
+        "onboard_time": 1716212359,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12802,
+        "num": 17889,
+        "word": "王启年的回旋镖镖镖扎心",
+        "onboard_time": 1716225074,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12593,
+        "num": 17888,
+        "word": "酵色",
+        "onboard_time": 1716211099,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 12077,
+        "num": 17876,
+        "word": "庆余年2朝堂激辩",
+        "onboard_time": 1716213140,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11850,
+        "num": 17871,
+        "word": "光遇",
+        "onboard_time": 1716226153,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11843,
+        "num": 17859,
+        "word": "今天穿什么",
+        "onboard_time": 1716236351,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 11762,
+        "num": 17850,
+        "word": "庆余年",
+        "onboard_time": 1716221119,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11636,
+        "num": 17840,
+        "word": "我的阿勒泰售后营业",
+        "onboard_time": 1716235930,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11533,
+        "num": 17834,
+        "word": "赵露思深V碎花裙",
+        "onboard_time": 1716213320,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向伊朗第一副总统穆赫贝尔致唁电#"
+    }
+  }
+}

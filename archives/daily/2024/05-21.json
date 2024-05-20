@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716233740111,
+  "endTime": 1716236383520,
   "band_list": [
     {
       "raw_hot": 1182657,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40869,
+      "num": 31678,
+      "word": "一百年前国外的婴儿车",
+      "onboard_time": 1716232151,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 39841,
       "num": 138891,
       "word": "恋与深空",
@@ -483,15 +491,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21870,
-      "num": 31678,
-      "word": "一百年前国外的婴儿车",
-      "onboard_time": 1716232151,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 16881,
+      "raw_hot": 19029,
       "num": 21842,
       "word": "刘亦菲520开屏",
       "onboard_time": 1716232930,
@@ -521,6 +521,22 @@
       "onboard_time": 1716226752,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11843,
+      "num": 17859,
+      "word": "今天穿什么",
+      "onboard_time": 1716236351,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 11636,
+      "num": 17840,
+      "word": "我的阿勒泰售后营业",
+      "onboard_time": 1716235930,
+      "rank": 48,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
