@@ -1,0 +1,410 @@
+{
+  "runTime": 1716212060522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1687924,
+        "num": 1687924,
+        "word": "以色列总理涉嫌战争罪被申请逮捕令",
+        "onboard_time": 1716206777,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 682141,
+        "num": 682141,
+        "word": "伊朗总统遇难",
+        "onboard_time": 1716178103,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31452,
+        "num": 621452,
+        "word": "北京三号C星星座发射成功",
+        "onboard_time": 1716193162,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2113974,
+        "num": 619339,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615346,
+        "num": 615346,
+        "word": "农夫山泉报案",
+        "onboard_time": 1716210501,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478011,
+        "num": 478011,
+        "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
+        "onboard_time": 1716208458,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459425,
+        "num": 459425,
+        "word": "背着善宰跑",
+        "onboard_time": 1716208757,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411432,
+        "num": 411432,
+        "word": "李佳琦618不用难了",
+        "onboard_time": 1716203240,
+        "rank": 7,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 356725,
+        "num": 356725,
+        "word": "庆余年林相 新郎不急老丈人急",
+        "onboard_time": 1716206777,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183220,
+        "num": 325867,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140681,
+        "num": 323664,
+        "word": "这届年轻人520的健康互动姿势",
+        "onboard_time": 1716210138,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322538,
+        "num": 322538,
+        "word": "王俊凯的内搭和蔡依林的裙子",
+        "onboard_time": 1716205878,
+        "rank": 11,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 632452,
+        "num": 312697,
+        "word": "520 垃圾桶",
+        "onboard_time": 1716196101,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299777,
+        "num": 299777,
+        "word": "阴阳师",
+        "onboard_time": 1716210679,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315484,
+        "num": 289433,
+        "word": "王者520新英雄少司缘",
+        "onboard_time": 1716209118,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276908,
+        "num": 276908,
+        "word": "曝李胜利欠款百万不归还",
+        "onboard_time": 1716204798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254572,
+        "num": 254572,
+        "word": "到处说前任死了违法吗",
+        "onboard_time": 1716198140,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 28949,
+        "num": 249351,
+        "word": "DNF手游520发布会真的能打",
+        "onboard_time": 1716210259,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194485,
+        "num": 249144,
+        "word": "618电商平台卷到半价卖车了",
+        "onboard_time": 1716207498,
+        "rank": 18,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 249099,
+        "num": 249099,
+        "word": "1200元最贵看台票几乎看不到周杰伦",
+        "onboard_time": 1716210619,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238686,
+        "num": 238686,
+        "word": "520文案",
+        "onboard_time": 1716209657,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1153611,
+        "num": 238621,
+        "word": "不生孩子是怎么流行开的",
+        "onboard_time": 1716208277,
+        "rank": 21,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 237649,
+        "num": 237649,
+        "word": "网易游戏",
+        "onboard_time": 1716207677,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234779,
+        "num": 234779,
+        "word": "指甲出现这4个异常可能是大病先兆",
+        "onboard_time": 1716208938,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230985,
+        "num": 230985,
+        "word": "第五人格",
+        "onboard_time": 1716205338,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199921,
+        "num": 199921,
+        "word": "老乡鸡回应葱油鸡重量少15克",
+        "onboard_time": 1716208219,
+        "rank": 25,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 199491,
+        "num": 199491,
+        "word": "魏大勋掰loopy的牙",
+        "onboard_time": 1716208578,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198904,
+        "num": 198904,
+        "word": "黄金狂飙后钻石大降近30%",
+        "onboard_time": 1716210740,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195641,
+        "num": 195641,
+        "word": "酵色",
+        "onboard_time": 1716211099,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 192749,
+        "num": 192749,
+        "word": "王俊凯倒着走给蔡依林唱歌",
+        "onboard_time": 1716211158,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190896,
+        "num": 190896,
+        "word": "杨幂 古偶",
+        "onboard_time": 1716188179,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189028,
+        "num": 189028,
+        "word": "榴莲今年为什么越来越便宜",
+        "onboard_time": 1716211520,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178439,
+        "num": 178439,
+        "word": "阴阳师520发布会",
+        "onboard_time": 1716211700,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178431,
+        "num": 178431,
+        "word": "阴阳师夏目友人帐联动",
+        "onboard_time": 1716211640,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172342,
+        "num": 172342,
+        "word": "小米回应SU7保费比玛莎拉蒂更贵",
+        "onboard_time": 1716203479,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166799,
+        "num": 166799,
+        "word": "杨紫奢牌待遇",
+        "onboard_time": 1716208398,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152850,
+        "num": 152850,
+        "word": "李艾的腿被小朋友以为踩了高跷",
+        "onboard_time": 1716198620,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151992,
+        "num": 151992,
+        "word": "国台办发言人就台湾地区领导人讲话表态",
+        "onboard_time": 1716195022,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146870,
+        "num": 146870,
+        "word": "小满",
+        "onboard_time": 1716198919,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141918,
+        "num": 141918,
+        "word": "魏大勋又赶上跑男泥潭了",
+        "onboard_time": 1716202280,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140714,
+        "num": 140714,
+        "word": "林更新赵又廷 所以和黑粉结拜了",
+        "onboard_time": 1716210078,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132445,
+        "num": 132445,
+        "word": "gemini才是KPL真顶流",
+        "onboard_time": 1716209178,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124317,
+        "num": 124317,
+        "word": "李胜利拖拽女性视频",
+        "onboard_time": 1716170778,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121504,
+        "num": 121504,
+        "word": "汪文斌驳斥赖清德言论",
+        "onboard_time": 1716195981,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119013,
+        "num": 119013,
+        "word": "情侣之间情绪稳定真的很重要",
+        "onboard_time": 1716209839,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109786,
+        "num": 109786,
+        "word": "新疆男篮vs辽宁男篮",
+        "onboard_time": 1716207617,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109175,
+        "num": 109175,
+        "word": "伊朗最高领袖哈梅内伊发声",
+        "onboard_time": 1716196040,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110517,
+        "num": 109165,
+        "word": "李胜利",
+        "onboard_time": 1716195141,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101086,
+        "num": 109108,
+        "word": "i人和e人坐姿的区别",
+        "onboard_time": 1716192263,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98428,
+        "num": 109052,
+        "word": "惠英红 选五个人帮表白",
+        "onboard_time": 1716206476,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续打造市场化法治化国际化营商环境#"
+    }
+  }
+}

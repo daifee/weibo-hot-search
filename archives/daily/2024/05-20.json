@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716211310083,
+  "endTime": 1716212060522,
   "band_list": [
     {
       "raw_hot": 11623813,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1153611,
+      "num": 249257,
+      "word": "不生孩子是怎么流行开的",
+      "onboard_time": 1716208277,
+      "rank": 23,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1121835,
       "num": 1121835,
       "word": "微信已开放520元红包",
@@ -241,14 +249,6 @@
       "onboard_time": 1716125602,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 926214,
-      "num": 249257,
-      "word": "不生孩子是怎么流行开的",
-      "onboard_time": 1716208277,
-      "rank": 23,
-      "category": "社会议题"
     },
     {
       "raw_hot": 920036,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615346,
+      "num": 615346,
+      "word": "农夫山泉报案",
+      "onboard_time": 1716210501,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603256,
       "num": 603256,
       "word": "G社拍的张艺兴林允儿",
@@ -579,6 +587,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 478011,
+      "num": 478011,
+      "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
+      "onboard_time": 1716208458,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474232,
       "num": 307613,
       "word": "曝李胜利欠款百万不归还",
@@ -729,14 +745,6 @@
       "onboard_time": 1716187279,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 404056,
-      "num": 404056,
-      "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
-      "onboard_time": 1716208458,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402325,
@@ -979,7 +987,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312824,
+      "raw_hot": 315484,
       "num": 306928,
       "word": "王者520新英雄少司缘",
       "onboard_time": 1716209118,
@@ -1251,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249099,
+      "num": 249099,
+      "word": "1200元最贵看台票几乎看不到周杰伦",
+      "onboard_time": 1716210619,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 247873,
       "num": 247873,
       "word": "台独是死路一条",
@@ -1331,6 +1347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 234779,
+      "num": 234779,
+      "word": "指甲出现这4个异常可能是大病先兆",
+      "onboard_time": 1716208938,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 234772,
       "num": 193435,
       "word": "普通女孩给男朋友准备的520礼物",
@@ -1347,28 +1371,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 228365,
-      "num": 228365,
-      "word": "指甲出现这4个异常可能是大病先兆",
-      "onboard_time": 1716208938,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 227100,
       "num": 227100,
       "word": "周翊然人长得那么帅画画就算了",
       "onboard_time": 1716186439,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 223645,
-      "num": 223645,
-      "word": "农夫山泉报案",
-      "onboard_time": 1716210501,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222374,
@@ -1563,12 +1571,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199491,
+      "num": 199491,
+      "word": "魏大勋掰loopy的牙",
+      "onboard_time": 1716208578,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199010,
       "num": 199010,
       "word": "哈梅内伊",
       "onboard_time": 1716183919,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 198904,
+      "num": 198904,
+      "word": "黄金狂飙后钻石大降近30%",
+      "onboard_time": 1716210740,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 198856,
@@ -1595,11 +1619,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190072,
-      "num": 190072,
-      "word": "1200元最贵看台票几乎看不到周杰伦",
-      "onboard_time": 1716210619,
-      "rank": 26,
+      "raw_hot": 195641,
+      "num": 195641,
+      "word": "酵色",
+      "onboard_time": 1716211099,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 194485,
+      "num": 249271,
+      "word": "618电商平台卷到半价卖车了",
+      "onboard_time": 1716207498,
+      "rank": 20,
+      "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 192749,
+      "num": 192749,
+      "word": "王俊凯倒着走给蔡依林唱歌",
+      "onboard_time": 1716211158,
+      "rank": 38,
       "category": "演出"
     },
     {
@@ -1609,6 +1649,14 @@
       "onboard_time": 1716134238,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189028,
+      "num": 189028,
+      "word": "榴莲今年为什么越来越便宜",
+      "onboard_time": 1716211520,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 188552,
@@ -1635,14 +1683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186063,
-      "num": 186063,
-      "word": "魏大勋掰loopy的牙",
-      "onboard_time": 1716208578,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185867,
       "num": 185867,
       "word": "neinei轩轩一起游迪士尼",
@@ -1667,14 +1707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 183772,
-      "num": 249271,
-      "word": "618电商平台卷到半价卖车了",
-      "onboard_time": 1716207498,
-      "rank": 20,
-      "category": "互联网,汽车"
-    },
-    {
       "raw_hot": 182319,
       "num": 182319,
       "word": "希林娜依高 今年不劝分",
@@ -1697,6 +1729,22 @@
       "onboard_time": 1716207617,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178439,
+      "num": 178439,
+      "word": "阴阳师520发布会",
+      "onboard_time": 1716211700,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 178431,
+      "num": 178431,
+      "word": "阴阳师夏目友人帐联动",
+      "onboard_time": 1716211640,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 176788,
@@ -1769,14 +1817,6 @@
       "onboard_time": 1716193040,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165705,
-      "num": 165705,
-      "word": "黄金狂飙后钻石大降近30%",
-      "onboard_time": 1716210740,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 165292,
@@ -2019,8 +2059,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 140310,
-      "num": 310702,
+      "raw_hot": 140714,
+      "num": 140714,
+      "word": "林更新赵又廷 所以和黑粉结拜了",
+      "onboard_time": 1716210078,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140681,
+      "num": 323664,
       "word": "这届年轻人520的健康互动姿势",
       "onboard_time": 1716210138,
       "rank": 12,
@@ -2049,14 +2097,6 @@
       "onboard_time": 1716197062,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136559,
-      "num": 136559,
-      "word": "林更新赵又廷 所以和黑粉结拜了",
-      "onboard_time": 1716210078,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 135952,
@@ -2219,14 +2259,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 122318,
-      "num": 122318,
-      "word": "王俊凯倒着走给蔡依林唱歌",
-      "onboard_time": 1716211158,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 122295,
       "num": 122295,
       "word": "红烧牛肉做法",
@@ -2267,20 +2299,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120177,
-      "num": 120177,
-      "word": "酵色",
-      "onboard_time": 1716211099,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 119145,
       "num": 119145,
       "word": "2个拉伸动作放松腿部肌肉",
       "onboard_time": 1716196701,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 119013,
+      "num": 119013,
+      "word": "情侣之间情绪稳定真的很重要",
+      "onboard_time": 1716209839,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 117205,
@@ -2369,14 +2401,6 @@
       "onboard_time": 1716208818,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 102797,
-      "num": 102797,
-      "word": "情侣之间情绪稳定真的很重要",
-      "onboard_time": 1716209839,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 102077,
