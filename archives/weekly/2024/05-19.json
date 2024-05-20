@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716203794814,
+  "endTime": 1716204863768,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -891,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 570081,
+      "num": 570081,
+      "word": "李佳琦618不用难了",
+      "onboard_time": 1716203240,
+      "rank": 6,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 560955,
       "num": 354864,
       "word": "江西贵溪恶性伤人事件致2人死亡",
@@ -1056,6 +1064,14 @@
       "word": "亚当歌手选曲",
       "onboard_time": 1716080116,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 486234,
+      "num": 486234,
+      "word": "姚PD回应孟子义没赶上跑男录制",
+      "onboard_time": 1716203299,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -1459,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 370383,
-      "num": 333986,
-      "word": "姚PD回应孟子义没赶上跑男录制",
-      "onboard_time": 1716203299,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 369660,
       "num": 192519,
       "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
@@ -1489,14 +1497,6 @@
       "onboard_time": 1716075255,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365723,
-      "num": 365723,
-      "word": "李佳琦618不用难了",
-      "onboard_time": 1716203240,
-      "rank": 6,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 365440,
@@ -1627,6 +1627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 338984,
+      "num": 329917,
+      "word": "白鹿曾经试戏过如懿传",
+      "onboard_time": 1716199700,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 338093,
       "num": 338093,
       "word": "森林狼4比3掘金",
@@ -1675,14 +1683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329917,
-      "num": 329917,
-      "word": "白鹿曾经试戏过如懿传",
-      "onboard_time": 1716199700,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 327919,
       "num": 316015,
       "word": "谢帝又被diss了",
@@ -1705,6 +1705,14 @@
       "onboard_time": 1716091097,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326474,
+      "num": 303980,
+      "word": "记者因报道郑俊英事件流产2次",
+      "onboard_time": 1716201559,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 326229,
@@ -1771,6 +1779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317615,
+      "num": 317615,
+      "word": "伊朗最高领袖哈梅内伊发声",
+      "onboard_time": 1716196040,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 317265,
       "num": 317265,
       "word": "腾讯客服回应庆余年SVIP被指VIP套娃",
@@ -1801,14 +1817,6 @@
       "onboard_time": 1716083657,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314753,
-      "num": 314753,
-      "word": "伊朗最高领袖哈梅内伊发声",
-      "onboard_time": 1716196040,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 312837,
@@ -1868,7 +1876,7 @@
     },
     {
       "raw_hot": 297702,
-      "num": 256980,
+      "num": 260457,
       "word": "今年520朋友圈怎么没人秀恩爱了",
       "onboard_time": 1716200300,
       "rank": 24,
@@ -1881,14 +1889,6 @@
       "onboard_time": 1716193402,
       "rank": 38,
       "category": "网红,美食"
-    },
-    {
-      "raw_hot": 293472,
-      "num": 293472,
-      "word": "记者因报道郑俊英事件流产2次",
-      "onboard_time": 1716201559,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 291521,
@@ -2099,6 +2099,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 271648,
+      "num": 271648,
+      "word": "贵溪一小学持刀伤人案嫌犯被控制",
+      "onboard_time": 1716203479,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271196,
       "num": 271196,
       "word": "已婚女与男友举办婚礼遭丈夫揭穿被捕",
@@ -2153,6 +2161,14 @@
       "onboard_time": 1716179665,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 261281,
+      "num": 261281,
+      "word": "狂飙兄弟再返连云港拿鬼秤事件结果",
+      "onboard_time": 1716202638,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259839,
@@ -2225,14 +2241,6 @@
       "onboard_time": 1716192502,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247081,
-      "num": 247081,
-      "word": "狂飙兄弟再返连云港拿鬼秤事件结果",
-      "onboard_time": 1716202638,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246891,
@@ -2355,6 +2363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235492,
+      "num": 235492,
+      "word": "为什么卫生巾非得搞成组合装",
+      "onboard_time": 1716200779,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 234772,
       "num": 193435,
       "word": "普通女孩给男朋友准备的520礼物",
@@ -2377,14 +2393,6 @@
       "onboard_time": 1716087138,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 227335,
-      "num": 227335,
-      "word": "贵溪一小学持刀伤人案嫌犯被控制",
-      "onboard_time": 1716203479,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227100,
@@ -2537,6 +2545,14 @@
       "onboard_time": 1716188780,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212316,
+      "num": 212316,
+      "word": "小米回应SU7保费比玛莎拉蒂更贵",
+      "onboard_time": 1716203479,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 212010,
@@ -2715,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202818,
+      "num": 202818,
+      "word": "时代少年团520营业",
+      "onboard_time": 1716204138,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202722,
       "num": 202722,
       "word": "六公主报道赵露思",
@@ -2873,14 +2897,6 @@
       "onboard_time": 1716128242,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 195673,
-      "num": 195673,
-      "word": "为什么卫生巾非得搞成组合装",
-      "onboard_time": 1716200779,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 194390,
@@ -3835,14 +3851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138323,
-      "num": 138323,
-      "word": "小米回应SU7保费比玛莎拉蒂更贵",
-      "onboard_time": 1716203479,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 137635,
       "num": 382675,
       "word": "520还得是兵哥哥的比心最硬核",
@@ -3929,6 +3937,14 @@
       "onboard_time": 1716121097,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 133580,
+      "num": 133580,
+      "word": "曝李胜利欠款百万不归还",
+      "onboard_time": 1716204798,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 133336,
@@ -4097,6 +4113,14 @@
       "onboard_time": 1716189978,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125155,
+      "num": 125155,
+      "word": "原来清洗洗衣机这么简单",
+      "onboard_time": 1716204319,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 125070,
@@ -4731,6 +4755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98962,
+      "num": 311662,
+      "word": "618想省钱还得看天猫",
+      "onboard_time": 1716202820,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 98821,
       "num": 98821,
       "word": "许嵩合肥演唱会的嘉宾是无人机",
@@ -4945,14 +4977,6 @@
       "onboard_time": 1716105078,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72382,
-      "num": 311662,
-      "word": "618想省钱还得看天猫",
-      "onboard_time": 1716202820,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 71649,
@@ -5275,6 +5299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 33414,
+      "num": 311822,
+      "word": "我去成都找王一博",
+      "onboard_time": 1716203058,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33266,
       "num": 483052,
       "word": "什么鲜奶活性蛋白才高",
@@ -5387,14 +5419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19730,
-      "num": 200460,
-      "word": "我去成都找王一博",
-      "onboard_time": 1716203058,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 19555,
       "num": 19555,
       "word": "2024MSI",
@@ -5427,6 +5451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 16115,
+      "num": 277599,
+      "word": "爱在EX30小满大满足",
+      "onboard_time": 1716202519,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 15305,
       "num": 18165,
       "word": "李嘉格 金棕豹系妆",
@@ -5441,14 +5473,6 @@
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13522,
-      "num": 257277,
-      "word": "爱在EX30小满大满足",
-      "onboard_time": 1716202519,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 12115,

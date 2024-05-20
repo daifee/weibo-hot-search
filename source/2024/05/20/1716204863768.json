@@ -1,0 +1,410 @@
+{
+  "runTime": 1716204863768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1064046,
+        "num": 1064046,
+        "word": "伊朗总统遇难",
+        "onboard_time": 1716178103,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 573514,
+        "num": 573514,
+        "word": "魏大勋又赶上跑男泥潭了",
+        "onboard_time": 1716202280,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35945,
+        "num": 571797,
+        "word": "文化中国行小满节气课",
+        "onboard_time": 1716193701,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3406926,
+        "num": 571459,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570081,
+        "num": 570081,
+        "word": "李佳琦618不用难了",
+        "onboard_time": 1716203240,
+        "rank": 4,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 523567,
+        "num": 523567,
+        "word": "到处说前任死了违法吗",
+        "onboard_time": 1716198140,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 486234,
+        "num": 486234,
+        "word": "姚PD回应孟子义没赶上跑男录制",
+        "onboard_time": 1716203299,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317615,
+        "num": 317615,
+        "word": "伊朗最高领袖哈梅内伊发声",
+        "onboard_time": 1716196040,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29730,
+        "num": 316015,
+        "word": "520还得是兵哥哥的比心最硬核",
+        "onboard_time": 1716193282,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 148056,
+        "num": 314180,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415874,
+        "num": 312259,
+        "word": "江西贵溪发生恶性伤人事件",
+        "onboard_time": 1716192922,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 33414,
+        "num": 311822,
+        "word": "我去成都找王一博",
+        "onboard_time": 1716203058,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1199449,
+        "num": 309974,
+        "word": "520 垃圾桶",
+        "onboard_time": 1716196101,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338984,
+        "num": 307691,
+        "word": "白鹿曾经试戏过如懿传",
+        "onboard_time": 1716199700,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98962,
+        "num": 304699,
+        "word": "618想省钱还得看天猫",
+        "onboard_time": 1716202820,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 326474,
+        "num": 303980,
+        "word": "记者因报道郑俊英事件流产2次",
+        "onboard_time": 1716201559,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302452,
+        "num": 302452,
+        "word": "贵溪警方通报一小学发生伤人案",
+        "onboard_time": 1716196340,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 285802,
+        "num": 285802,
+        "word": "李艾的腿被小朋友以为踩了高跷",
+        "onboard_time": 1716198620,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16115,
+        "num": 277599,
+        "word": "爱在EX30小满大满足",
+        "onboard_time": 1716202519,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 271648,
+        "num": 271648,
+        "word": "贵溪一小学持刀伤人案嫌犯被控制",
+        "onboard_time": 1716203479,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261281,
+        "num": 261281,
+        "word": "狂飙兄弟再返连云港拿鬼秤事件结果",
+        "onboard_time": 1716202638,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260457,
+        "num": 260457,
+        "word": "今年520朋友圈怎么没人秀恩爱了",
+        "onboard_time": 1716200300,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248713,
+        "num": 248713,
+        "word": "国台办发言人就台湾地区领导人讲话表态",
+        "onboard_time": 1716195022,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245534,
+        "num": 245534,
+        "word": "杨幂 古偶",
+        "onboard_time": 1716188179,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235492,
+        "num": 235492,
+        "word": "为什么卫生巾非得搞成组合装",
+        "onboard_time": 1716200779,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232679,
+        "num": 232679,
+        "word": "李胜利",
+        "onboard_time": 1716195141,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212316,
+        "num": 212316,
+        "word": "小米回应SU7保费比玛莎拉蒂更贵",
+        "onboard_time": 1716203479,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 202818,
+        "num": 202818,
+        "word": "时代少年团520营业",
+        "onboard_time": 1716204138,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185775,
+        "num": 185775,
+        "word": "为什么避孕套都放在收银台",
+        "onboard_time": 1716165019,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169316,
+        "num": 169316,
+        "word": "汪文斌驳斥赖清德言论",
+        "onboard_time": 1716195981,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178111,
+        "num": 168207,
+        "word": "李胜利拖拽女性视频",
+        "onboard_time": 1716170778,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150269,
+        "num": 150269,
+        "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
+        "onboard_time": 1716174739,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146131,
+        "num": 146131,
+        "word": "小满",
+        "onboard_time": 1716198919,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138508,
+        "num": 138508,
+        "word": "涵艺爆料wink加入EDG",
+        "onboard_time": 1716202938,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134673,
+        "num": 134673,
+        "word": "i人和e人坐姿的区别",
+        "onboard_time": 1716192263,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133580,
+        "num": 133580,
+        "word": "曝李胜利欠款百万不归还",
+        "onboard_time": 1716204798,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133244,
+        "num": 133244,
+        "word": "南京山姆榴莲30元一斤半天售罄",
+        "onboard_time": 1716192263,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131046,
+        "num": 131046,
+        "word": "马龙退出wtt重庆冠军赛2024",
+        "onboard_time": 1716187279,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127047,
+        "num": 127047,
+        "word": "蔡依林被王俊凯牵住时的反应",
+        "onboard_time": 1716189079,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125155,
+        "num": 125155,
+        "word": "原来清洗洗衣机这么简单",
+        "onboard_time": 1716204319,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 124195,
+        "num": 124195,
+        "word": "江西贵溪恶性伤人事件致2人死亡",
+        "onboard_time": 1716197179,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 122464,
+        "num": 122464,
+        "word": "BLG选手深夜骑行",
+        "onboard_time": 1716200419,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117419,
+        "num": 117419,
+        "word": "具荷拉好勇敢",
+        "onboard_time": 1716193701,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111424,
+        "num": 111424,
+        "word": "王一博 9785",
+        "onboard_time": 1716188179,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109049,
+        "num": 109049,
+        "word": "伊朗第一副总统将承担总统权力职能",
+        "onboard_time": 1716188420,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 108102,
+        "num": 108102,
+        "word": "在吃饭和睡觉中选择了在饭里睡觉",
+        "onboard_time": 1716201859,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105610,
+        "num": 105610,
+        "word": "2块钱以下的雪糕回来了",
+        "onboard_time": 1716192020,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102556,
+        "num": 102556,
+        "word": "客家小吃有自己的撞色美",
+        "onboard_time": 1716202759,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70059,
+        "num": 99934,
+        "word": "真低价不躲猫猫",
+        "onboard_time": 1716199879,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98352,
+        "num": 98352,
+        "word": "红烧牛肉做法",
+        "onboard_time": 1716203118,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续打造市场化法治化国际化营商环境#"
+    }
+  }
+}
