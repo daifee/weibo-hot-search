@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716196961213,
+  "endTime": 1716197726510,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -195,7 +195,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1409747,
+      "raw_hot": 1419911,
       "num": 396466,
       "word": "江西贵溪发生恶性伤人事件",
       "onboard_time": 1716192922,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711567,
+      "num": 711567,
+      "word": "贵溪警方通报一小学发生伤人案",
+      "onboard_time": 1716196340,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 710625,
       "num": 710625,
       "word": "偷家",
@@ -697,6 +705,14 @@
       "onboard_time": 1716123558,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 677393,
+      "num": 677393,
+      "word": "520 垃圾桶",
+      "onboard_time": 1716196101,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673598,
@@ -857,6 +873,14 @@
       "onboard_time": 1716105017,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 560955,
+      "num": 335228,
+      "word": "江西贵溪恶性伤人事件致2人死亡",
+      "onboard_time": 1716197179,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 560601,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1716100876,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 466189,
-      "num": 466189,
-      "word": "贵溪警方通报一小学发生伤人案",
-      "onboard_time": 1716196340,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465768,
@@ -1291,14 +1307,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 406568,
-      "num": 406568,
-      "word": "520 垃圾桶",
-      "onboard_time": 1716196101,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405223,
       "num": 405223,
       "word": "种地吧",
@@ -1347,20 +1355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398270,
+      "num": 395052,
+      "word": "汪文斌驳斥赖清德言论",
+      "onboard_time": 1716195981,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 396251,
       "num": 396251,
       "word": "宝石老舅真成老救了",
       "onboard_time": 1716175159,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395052,
-      "num": 395052,
-      "word": "汪文斌驳斥赖清德言论",
-      "onboard_time": 1716195981,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 393881,
@@ -1675,8 +1683,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322018,
-      "num": 322018,
+      "raw_hot": 324008,
+      "num": 324008,
+      "word": "陈奕迅恭喜林俊杰入围",
+      "onboard_time": 1716193341,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 323569,
+      "num": 323569,
       "word": "具荷拉好勇敢",
       "onboard_time": 1716193701,
       "rank": 33,
@@ -2027,14 +2043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 267038,
-      "num": 267038,
-      "word": "陈奕迅恭喜林俊杰入围",
-      "onboard_time": 1716193341,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 265674,
       "num": 265674,
       "word": "张若昀天天被人问第二季什么时候播",
@@ -2073,6 +2081,22 @@
       "onboard_time": 1716100276,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257534,
+      "num": 198484,
+      "word": "伊朗最高领袖哈梅内伊发声",
+      "onboard_time": 1716196040,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 257165,
+      "num": 257165,
+      "word": "专家称十年后房子不可能卖白菜价",
+      "onboard_time": 1716193581,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 256659,
@@ -2129,6 +2153,14 @@
       "onboard_time": 1716192502,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246891,
+      "num": 246891,
+      "word": "520很多人把花扔了",
+      "onboard_time": 1716195381,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 246406,
@@ -2203,14 +2235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 242010,
-      "num": 187629,
-      "word": "伊朗最高领袖哈梅内伊发声",
-      "onboard_time": 1716196040,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 241164,
       "num": 403998,
       "word": "为什么建议你夏天吃点樱桃",
@@ -2267,14 +2291,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 227848,
-      "num": 227848,
-      "word": "专家称十年后房子不可能卖白菜价",
-      "onboard_time": 1716193581,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 227100,
       "num": 227100,
       "word": "周翊然人长得那么帅画画就算了",
@@ -2329,6 +2345,14 @@
       "onboard_time": 1716116298,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219854,
+      "num": 219854,
+      "word": "老头杯",
+      "onboard_time": 1716197120,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 219360,
@@ -2947,6 +2971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182319,
+      "num": 182319,
+      "word": "希林娜依高 今年不劝分",
+      "onboard_time": 1716194962,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181327,
       "num": 181327,
       "word": "狼队十冠王",
@@ -2961,6 +2993,14 @@
       "onboard_time": 1716121217,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180345,
+      "num": 180345,
+      "word": "雷军组团赴蔚来围观乐道L60",
+      "onboard_time": 1716197421,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 180052,
@@ -3043,22 +3083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172569,
-      "num": 172569,
-      "word": "520很多人把花扔了",
-      "onboard_time": 1716195381,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 172447,
-      "num": 172447,
-      "word": "希林娜依高 今年不劝分",
-      "onboard_time": 1716194962,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172314,
       "num": 172314,
       "word": "三观不同成年轻人分手最高频原因",
@@ -3081,6 +3105,14 @@
       "onboard_time": 1716164957,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170070,
+      "num": 170070,
+      "word": "金价明升暗降疯狂囤金理智吗",
+      "onboard_time": 1716195861,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 168586,
@@ -3315,6 +3347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154477,
+      "num": 154477,
+      "word": "JYP新男团",
+      "onboard_time": 1716194303,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 152705,
       "num": 614310,
       "word": "肖战透视蕾丝造型",
@@ -3337,14 +3377,6 @@
       "onboard_time": 1716189259,
       "rank": 47,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 151551,
-      "num": 151551,
-      "word": "金价明升暗降疯狂囤金理智吗",
-      "onboard_time": 1716195861,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 150913,
@@ -3657,6 +3689,14 @@
       "onboard_time": 1716128480,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136903,
+      "num": 136903,
+      "word": "网易520节目单",
+      "onboard_time": 1716197062,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 136100,
@@ -4249,14 +4289,6 @@
       "onboard_time": 1716120917,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111949,
-      "num": 111949,
-      "word": "JYP新男团",
-      "onboard_time": 1716194303,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 111945,
@@ -4873,6 +4905,14 @@
       "onboard_time": 1716132500,
       "rank": 11,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 52561,
+      "num": 140284,
+      "word": "为什么西地那非这么受欢迎",
+      "onboard_time": 1716197300,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 48421,
