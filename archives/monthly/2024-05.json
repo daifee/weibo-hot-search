@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716222236030,
+  "endTime": 1716223137957,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3123,6 +3123,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1182657,
+      "num": 1182657,
+      "word": "疯产姐妹复更",
+      "onboard_time": 1716219619,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1182644,
       "num": 274856,
       "word": "关晓彤徐梓钧是同学",
@@ -3185,14 +3193,6 @@
       "onboard_time": 1715523322,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1173833,
-      "num": 1173833,
-      "word": "疯产姐妹复更",
-      "onboard_time": 1716219619,
-      "rank": 0,
-      "category": "网红"
     },
     {
       "raw_hot": 1172965,
@@ -11795,6 +11795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 510552,
+      "num": 256920,
+      "word": "张若昀",
+      "onboard_time": 1716219559,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510322,
       "num": 510322,
       "word": "井柏然赛道",
@@ -19881,14 +19889,6 @@
       "onboard_time": 1716170419,
       "rank": 29,
       "category": "互联网,作品衍生"
-    },
-    {
-      "raw_hot": 317076,
-      "num": 256920,
-      "word": "张若昀",
-      "onboard_time": 1716219559,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 317050,
@@ -51715,6 +51715,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 92951,
+      "num": 88185,
+      "word": "总决赛门票就是最强假条",
+      "onboard_time": 1716220636,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92828,
       "num": 92828,
       "word": "G2对战PSG",
@@ -52048,6 +52056,14 @@
       "word": "郑州大风",
       "onboard_time": 1715729536,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88558,
+      "num": 88558,
+      "word": "房价会不会报复性上涨",
+      "onboard_time": 1716222497,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -53209,14 +53225,6 @@
       "onboard_time": 1716193162,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69139,
-      "num": 85519,
-      "word": "总决赛门票就是最强假条",
-      "onboard_time": 1716220636,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 69087,
