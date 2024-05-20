@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716182379895,
+  "endTime": 1716183340996,
   "band_list": [
     {
       "raw_hot": 11623813,
@@ -83,8 +83,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1548508,
-      "num": 1548508,
+      "raw_hot": 1774784,
+      "num": 1774784,
       "word": "加纳总统车队发生车祸",
       "onboard_time": 1716181165,
       "rank": 4,
@@ -363,6 +363,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 506581,
+      "num": 506581,
+      "word": "汪苏泷武汉 抢票",
+      "onboard_time": 1716182480,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 498028,
+      "num": 498028,
+      "word": "首饰金价突破742元每克",
+      "onboard_time": 1716181043,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 481349,
       "num": 481349,
       "word": "王俊凯蔡依林手拉手",
@@ -385,14 +401,6 @@
       "onboard_time": 1716132500,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 452057,
-      "num": 452057,
-      "word": "首饰金价突破742元每克",
-      "onboard_time": 1716181043,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 442292,
@@ -443,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411371,
+      "num": 411371,
+      "word": "蔡依林回复王俊凯去南昌跳舞",
+      "onboard_time": 1716182480,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 408250,
       "num": 281510,
       "word": "戴珍珠耳环的少女 意外的颜料",
@@ -457,6 +473,22 @@
       "onboard_time": 1716176541,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400149,
+      "num": 332261,
+      "word": "教授建议18到25岁要多谈恋爱",
+      "onboard_time": 1716182480,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 398464,
+      "num": 332177,
+      "word": "付辛博官宣签约爱奇艺",
+      "onboard_time": 1716182300,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 396251,
@@ -499,6 +531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 342357,
+      "num": 342357,
+      "word": "新疆阿图什发生5.2级地震",
+      "onboard_time": 1716183081,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339618,
       "num": 339618,
       "word": "中方将为伊方救援提供一切必要支持和协助",
@@ -529,6 +569,14 @@
       "onboard_time": 1716177621,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324477,
+      "num": 324477,
+      "word": "马龙破防了",
+      "onboard_time": 1716182899,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 321890,
@@ -577,6 +625,14 @@
       "onboard_time": 1716166159,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290062,
+      "num": 269908,
+      "word": "伊朗总统所乘直升机螺旋桨及驾驶舱被烧毁",
+      "onboard_time": 1716182300,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 285859,
@@ -643,20 +699,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268217,
-      "num": 268217,
-      "word": "付辛博官宣签约爱奇艺",
-      "onboard_time": 1716182300,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 266976,
-      "num": 266976,
+      "raw_hot": 270459,
+      "num": 270459,
       "word": "以为是格莱美结果是歌手",
       "onboard_time": 1716181821,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268441,
+      "num": 268441,
+      "word": "美官员回应伊朗直升机事故",
+      "onboard_time": 1716183020,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 268340,
+      "num": 268340,
+      "word": "曝涂磊私生活混乱网友道歉",
+      "onboard_time": 1716183201,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 265674,
@@ -771,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217311,
+      "num": 217311,
+      "word": "杨幂第四次演狐狸",
+      "onboard_time": 1716181223,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217020,
       "num": 217020,
       "word": "南大毕业生论文致谢第一句很特殊",
@@ -859,12 +931,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196031,
-      "num": 196031,
-      "word": "伊朗总统所乘直升机螺旋桨及驾驶舱被烧毁",
-      "onboard_time": 1716182300,
-      "rank": 49,
-      "category": "国外时政"
+      "raw_hot": 190612,
+      "num": 190612,
+      "word": "金价",
+      "onboard_time": 1716183260,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 189670,
@@ -881,6 +953,22 @@
       "onboard_time": 1716120976,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 186615,
+      "num": 186615,
+      "word": "年轻人真的封心锁爱了吗",
+      "onboard_time": 1716183201,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 184456,
+      "num": 184456,
+      "word": "王俊凯最可爱美丽的Jolin姐姐",
+      "onboard_time": 1716183260,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 171050,
@@ -937,6 +1025,14 @@
       "onboard_time": 1716115757,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152705,
+      "num": 614310,
+      "word": "肖战透视蕾丝造型",
+      "onboard_time": 1716177982,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151115,
@@ -1017,14 +1113,6 @@
       "onboard_time": 1716174020,
       "rank": 14,
       "category": "美食,互联网"
-    },
-    {
-      "raw_hot": 135427,
-      "num": 614310,
-      "word": "肖战透视蕾丝造型",
-      "onboard_time": 1716177982,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 132436,
@@ -1259,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76915,
+      "num": 405851,
+      "word": "什么是618里的省金人",
+      "onboard_time": 1716179725,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 73592,
       "num": 607463,
       "word": "当华为全家桶遇上520",
@@ -1337,14 +1433,6 @@
       "onboard_time": 1716108619,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 44219,
-      "num": 405851,
-      "word": "什么是618里的省金人",
-      "onboard_time": 1716179725,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 41758,

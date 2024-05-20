@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/20 13:19:39
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/20 13:35:40
 </p>
 </blockquote>
 <p>
@@ -873,6 +873,12 @@ B站崩了（热度：1985401）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E6%80%BB%E7%BB%9F%E8%BD%A6%E9%98%9F%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%23" target="weibo">
+加纳总统车队发生车祸（热度：1774784）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%8C%97%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
 花少北聊天记录（热度：1771069）
 </a>
@@ -1229,12 +1235,6 @@ otto骂人（热度：1651113）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E6%95%B0%E6%8F%90%E8%AF%8D%E5%99%A8%23" target="weibo">
 那英 数提词器（热度：1549361）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E6%80%BB%E7%BB%9F%E8%BD%A6%E9%98%9F%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%23" target="weibo">
-加纳总统车队发生车祸（热度：1548508）
 </a>
 </li>
 
