@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716232491233,
+  "endTime": 1716233740111,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -55051,20 +55051,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39534,
+      "num": 39534,
+      "word": "张若昀腰围62",
+      "onboard_time": 1716229630,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39463,
       "num": 39463,
       "word": "地磁暴带着极光来了",
       "onboard_time": 1715451615,
       "rank": 44,
       "category": "自然,科学科普"
-    },
-    {
-      "raw_hot": 39293,
-      "num": 36683,
-      "word": "张若昀腰围62",
-      "onboard_time": 1716229630,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 39244,
@@ -55923,6 +55923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21870,
+      "num": 31678,
+      "word": "一百年前国外的婴儿车",
+      "onboard_time": 1716232151,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 21727,
       "num": 212205,
       "word": "陶昕然邀甄学家们答题免单",
@@ -56131,6 +56139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 16881,
+      "num": 21842,
+      "word": "刘亦菲520开屏",
+      "onboard_time": 1716232930,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 16268,
       "num": 18403,
       "word": "爱一个本身就很好的人",
@@ -56161,14 +56177,6 @@
       "onboard_time": 1715719870,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15856,
-      "num": 31678,
-      "word": "一百年前国外的婴儿车",
-      "onboard_time": 1716232151,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 15620,
@@ -56297,6 +56305,14 @@
       "onboard_time": 1714940110,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 13183,
+      "num": 21789,
+      "word": "今天这条视频爱意拉满",
+      "onboard_time": 1716226752,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13166,
