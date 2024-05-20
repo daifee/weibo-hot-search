@@ -1,0 +1,410 @@
+{
+  "runTime": 1716208593746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563947,
+        "num": 1563947,
+        "word": "以色列总理涉嫌战争罪被申请逮捕令",
+        "onboard_time": 1716206777,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 789703,
+        "num": 789703,
+        "word": "伊朗总统遇难",
+        "onboard_time": 1716178103,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 15230,
+        "num": 678731,
+        "word": "北京三号C星星座发射成功",
+        "onboard_time": 1716193162,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2247509,
+        "num": 673525,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657139,
+        "num": 657139,
+        "word": "李佳琦618不用难了",
+        "onboard_time": 1716203240,
+        "rank": 4,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 359429,
+        "num": 359429,
+        "word": "庆余年林相 新郎不急老丈人急",
+        "onboard_time": 1716206777,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290801,
+        "num": 290801,
+        "word": "到处说前任死了违法吗",
+        "onboard_time": 1716198140,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 281005,
+        "num": 281005,
+        "word": "网易游戏",
+        "onboard_time": 1716207677,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279128,
+        "num": 279128,
+        "word": "魏大勋又赶上跑男泥潭了",
+        "onboard_time": 1716202280,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167085,
+        "num": 276894,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474232,
+        "num": 268510,
+        "word": "曝李胜利欠款百万不归还",
+        "onboard_time": 1716204798,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1484203,
+        "num": 264652,
+        "word": "520 垃圾桶",
+        "onboard_time": 1716196101,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325683,
+        "num": 261348,
+        "word": "王俊凯的内搭和蔡依林的裙子",
+        "onboard_time": 1716205878,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279794,
+        "num": 253152,
+        "word": "小米回应SU7保费比玛莎拉蒂更贵",
+        "onboard_time": 1716203479,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 250728,
+        "num": 250728,
+        "word": "姚PD回应孟子义没赶上跑男录制",
+        "onboard_time": 1716203299,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246092,
+        "num": 246092,
+        "word": "伊朗最高领袖哈梅内伊发声",
+        "onboard_time": 1716196040,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 211024,
+        "num": 211024,
+        "word": "狂飙兄弟再返连云港拿鬼秤事件结果",
+        "onboard_time": 1716202638,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198667,
+        "num": 198667,
+        "word": "国台办发言人就台湾地区领导人讲话表态",
+        "onboard_time": 1716195022,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178651,
+        "num": 178651,
+        "word": "新疆男篮vs辽宁男篮",
+        "onboard_time": 1716207617,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168566,
+        "num": 168566,
+        "word": "杨幂 古偶",
+        "onboard_time": 1716188179,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94723,
+        "num": 161341,
+        "word": "618电商平台卷到半价卖车了",
+        "onboard_time": 1716207498,
+        "rank": 20,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 240863,
+        "num": 161129,
+        "word": "今年520朋友圈怎么没人秀恩爱了",
+        "onboard_time": 1716200300,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160668,
+        "num": 160668,
+        "word": "记者因报道郑俊英事件流产2次",
+        "onboard_time": 1716201559,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160476,
+        "num": 160476,
+        "word": "不生孩子是怎么流行开的",
+        "onboard_time": 1716208277,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 153758,
+        "num": 153758,
+        "word": "惠英红 选五个人帮表白",
+        "onboard_time": 1716206476,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82709,
+        "num": 152052,
+        "word": "我去成都找王一博",
+        "onboard_time": 1716203058,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151234,
+        "num": 151234,
+        "word": "李艾的腿被小朋友以为踩了高跷",
+        "onboard_time": 1716198620,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149096,
+        "num": 149096,
+        "word": "汪文斌驳斥赖清德言论",
+        "onboard_time": 1716195981,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139835,
+        "num": 139835,
+        "word": "李胜利",
+        "onboard_time": 1716195141,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138003,
+        "num": 138003,
+        "word": "小满",
+        "onboard_time": 1716198919,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196597,
+        "num": 136602,
+        "word": "老乡鸡回应葱油鸡重量少15克",
+        "onboard_time": 1716208219,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 134315,
+        "num": 134315,
+        "word": "网易游戏520十周年福利",
+        "onboard_time": 1716208039,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127595,
+        "num": 127595,
+        "word": "感受到了提前准备的优势",
+        "onboard_time": 1716207918,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128909,
+        "num": 126382,
+        "word": "李胜利拖拽女性视频",
+        "onboard_time": 1716170778,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124166,
+        "num": 124166,
+        "word": "超9成网友希望电商大促不超2周",
+        "onboard_time": 1716205578,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122163,
+        "num": 122163,
+        "word": "杨紫奢牌待遇",
+        "onboard_time": 1716208398,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120246,
+        "num": 120246,
+        "word": "商家是懂猝不及防的",
+        "onboard_time": 1716207677,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118696,
+        "num": 118696,
+        "word": "白鹿曾经试戏过如懿传",
+        "onboard_time": 1716199700,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116646,
+        "num": 116646,
+        "word": "赞达亚的发量为什么这么多",
+        "onboard_time": 1716205458,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109256,
+        "num": 109256,
+        "word": "CBA",
+        "onboard_time": 1716207197,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107768,
+        "num": 107768,
+        "word": "i人和e人坐姿的区别",
+        "onboard_time": 1716192263,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104364,
+        "num": 104364,
+        "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
+        "onboard_time": 1716208458,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129329,
+        "num": 104296,
+        "word": "沈梦瑶今天的520营业",
+        "onboard_time": 1716206897,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103486,
+        "num": 103486,
+        "word": "为什么卫生巾非得搞成组合装",
+        "onboard_time": 1716200779,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99891,
+        "num": 99891,
+        "word": "辽疆大战",
+        "onboard_time": 1716208039,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98049,
+        "num": 98049,
+        "word": "具荷拉好勇敢",
+        "onboard_time": 1716193701,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97027,
+        "num": 97027,
+        "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
+        "onboard_time": 1716174739,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 93201,
+        "num": 93201,
+        "word": "南京山姆榴莲30元一斤半天售罄",
+        "onboard_time": 1716192263,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90640,
+        "num": 90640,
+        "word": "中医药大学的汤一定有它的道理",
+        "onboard_time": 1716208097,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89575,
+        "num": 89575,
+        "word": "魏大勋掰loopy的牙",
+        "onboard_time": 1716208578,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续打造市场化法治化国际化营商环境#"
+    }
+  }
+}

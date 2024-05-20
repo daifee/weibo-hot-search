@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716204863768,
+  "endTime": 1716208593746,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1715923641,
       "rank": 3,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1563947,
+      "num": 1563947,
+      "word": "以色列总理涉嫌战争罪被申请逮捕令",
+      "onboard_time": 1716206777,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1563229,
@@ -8427,6 +8435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 657139,
+      "num": 657139,
+      "word": "李佳琦618不用难了",
+      "onboard_time": 1716203240,
+      "rank": 6,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 656113,
       "num": 361376,
       "word": "男子称订婚给34万彩礼后女方退婚不退钱",
@@ -10217,14 +10233,6 @@
       "onboard_time": 1715821098,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 570081,
-      "num": 570081,
-      "word": "李佳琦618不用难了",
-      "onboard_time": 1716203240,
-      "rank": 6,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 570018,
@@ -12849,6 +12857,14 @@
       "onboard_time": 1715088020,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 474232,
+      "num": 268510,
+      "word": "曝李胜利欠款百万不归还",
+      "onboard_time": 1716204798,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 473510,
@@ -17579,6 +17595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 359429,
+      "num": 359429,
+      "word": "庆余年林相 新郎不急老丈人急",
+      "onboard_time": 1716206777,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359307,
       "num": 170886,
       "word": "网友曾在泰妍家住宿",
@@ -19265,6 +19289,14 @@
       "onboard_time": 1715161400,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325683,
+      "num": 261348,
+      "word": "王俊凯的内搭和蔡依林的裙子",
+      "onboard_time": 1716205878,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325355,
@@ -21779,6 +21811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281005,
+      "num": 281005,
+      "word": "网易游戏",
+      "onboard_time": 1716207677,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280814,
       "num": 234211,
       "word": "雷军回应歌手摇人榜排第一",
@@ -21881,6 +21921,14 @@
       "onboard_time": 1714905377,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279794,
+      "num": 253152,
+      "word": "小米回应SU7保费比玛莎拉蒂更贵",
+      "onboard_time": 1716203479,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 279561,
@@ -28291,14 +28339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 212316,
-      "num": 212316,
-      "word": "小米回应SU7保费比玛莎拉蒂更贵",
-      "onboard_time": 1716203479,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 212223,
       "num": 212223,
       "word": "肖战伦敦墙绘",
@@ -31657,6 +31697,14 @@
       "onboard_time": 1715430440,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196597,
+      "num": 136602,
+      "word": "老乡鸡回应葱油鸡重量少15克",
+      "onboard_time": 1716208219,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 196574,
@@ -35475,6 +35523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 178651,
+      "num": 178651,
+      "word": "新疆男篮vs辽宁男篮",
+      "onboard_time": 1716207617,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178558,
       "num": 178558,
       "word": "余景天翻跳smoothie",
@@ -39235,6 +39291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 160476,
+      "num": 160476,
+      "word": "不生孩子是怎么流行开的",
+      "onboard_time": 1716208277,
+      "rank": 23,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 160187,
       "num": 160187,
       "word": "职场软刀子真捅心窝子",
@@ -40489,6 +40553,14 @@
       "onboard_time": 1716003498,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153758,
+      "num": 153758,
+      "word": "惠英红 选五个人帮表白",
+      "onboard_time": 1716206476,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 153755,
@@ -44595,6 +44667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134315,
+      "num": 134315,
+      "word": "网易游戏520十周年福利",
+      "onboard_time": 1716208039,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134259,
       "num": 134259,
       "word": "胡歌演抠脚大汉",
@@ -44793,14 +44873,6 @@
       "onboard_time": 1715682140,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133580,
-      "num": 133580,
-      "word": "曝李胜利欠款百万不归还",
-      "onboard_time": 1716204798,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 133551,
@@ -45635,6 +45707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129329,
+      "num": 104296,
+      "word": "沈梦瑶今天的520营业",
+      "onboard_time": 1716206897,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129321,
       "num": 129321,
       "word": "王心凌为分手一天粉丝点歌",
@@ -45929,6 +46009,14 @@
       "onboard_time": 1714729638,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 127595,
+      "num": 127595,
+      "word": "感受到了提前准备的优势",
+      "onboard_time": 1716207918,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 127463,
@@ -46707,6 +46795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124166,
+      "num": 124166,
+      "word": "超9成网友希望电商大促不超2周",
+      "onboard_time": 1716205578,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 124145,
       "num": 124145,
       "word": "因为布置工位被领导约谈了",
@@ -47051,6 +47147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122163,
+      "num": 122163,
+      "word": "杨紫奢牌待遇",
+      "onboard_time": 1716208398,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121889,
       "num": 121889,
       "word": "宝宝 你是一只香菇",
@@ -47361,6 +47465,14 @@
       "onboard_time": 1714750161,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120246,
+      "num": 120246,
+      "word": "商家是懂猝不及防的",
+      "onboard_time": 1716207677,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 120233,
@@ -48105,6 +48217,14 @@
       "onboard_time": 1714924698,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116646,
+      "num": 116646,
+      "word": "赞达亚的发量为什么这么多",
+      "onboard_time": 1716205458,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 116482,
@@ -50027,6 +50147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104364,
+      "num": 104364,
+      "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
+      "onboard_time": 1716208458,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104341,
       "num": 104502,
       "word": "苏翊鸣英文讲述上大学的生活",
@@ -50995,6 +51123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94723,
+      "num": 161341,
+      "word": "618电商平台卷到半价卖车了",
+      "onboard_time": 1716207498,
+      "rank": 20,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 94642,
       "num": 113400,
       "word": "梅州客家vs成都蓉城",
@@ -51331,6 +51467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90640,
+      "num": 90640,
+      "word": "中医药大学的汤一定有它的道理",
+      "onboard_time": 1716208097,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 90468,
       "num": 90468,
       "word": "母亲节快乐",
@@ -51393,6 +51537,14 @@
       "onboard_time": 1714951275,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89575,
+      "num": 89575,
+      "word": "魏大勋掰loopy的牙",
+      "onboard_time": 1716208578,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 89422,
@@ -51729,6 +51881,14 @@
       "onboard_time": 1716036618,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82709,
+      "num": 311822,
+      "word": "我去成都找王一博",
+      "onboard_time": 1716203058,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 82602,
@@ -54657,14 +54817,6 @@
       "onboard_time": 1715624592,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 33414,
-      "num": 311822,
-      "word": "我去成都找王一博",
-      "onboard_time": 1716203058,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 33266,
