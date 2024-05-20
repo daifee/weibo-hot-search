@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716201410900,
+  "endTime": 1716203794814,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -571,6 +571,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 747860,
+      "num": 573094,
+      "word": "到处说前任死了违法吗",
+      "onboard_time": 1716198140,
+      "rank": 5,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 738376,
       "num": 738376,
       "word": "奔跑吧全员现身周深演唱会",
@@ -867,6 +875,14 @@
       "category": "国外时政,财经"
     },
     {
+      "raw_hot": 574356,
+      "num": 574356,
+      "word": "魏大勋又赶上跑男泥潭了",
+      "onboard_time": 1716202280,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 571061,
       "num": 571061,
       "word": "吴艳妮12秒80再夺一冠",
@@ -897,14 +913,6 @@
       "onboard_time": 1716117738,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 558022,
-      "num": 494380,
-      "word": "到处说前任死了违法吗",
-      "onboard_time": 1716198140,
-      "rank": 5,
-      "category": "科学科普"
     },
     {
       "raw_hot": 547541,
@@ -1451,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370383,
+      "num": 333986,
+      "word": "姚PD回应孟子义没赶上跑男录制",
+      "onboard_time": 1716203299,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369660,
       "num": 192519,
       "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1716075255,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365723,
+      "num": 365723,
+      "word": "李佳琦618不用难了",
+      "onboard_time": 1716203240,
+      "rank": 6,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 365440,
@@ -1651,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329917,
+      "num": 329917,
+      "word": "白鹿曾经试戏过如懿传",
+      "onboard_time": 1716199700,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327919,
       "num": 316015,
       "word": "谢帝又被diss了",
@@ -1827,14 +1859,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 305105,
-      "num": 305105,
-      "word": "白鹿曾经试戏过如懿传",
-      "onboard_time": 1716199700,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 298812,
       "num": 298812,
       "word": "杨幂一个月播两部剧",
@@ -1844,7 +1868,7 @@
     },
     {
       "raw_hot": 297702,
-      "num": 227927,
+      "num": 256980,
       "word": "今年520朋友圈怎么没人秀恩爱了",
       "onboard_time": 1716200300,
       "rank": 24,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1716193402,
       "rank": 38,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 293472,
+      "num": 293472,
+      "word": "记者因报道郑俊英事件流产2次",
+      "onboard_time": 1716201559,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 291521,
@@ -2195,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247081,
+      "num": 247081,
+      "word": "狂飙兄弟再返连云港拿鬼秤事件结果",
+      "onboard_time": 1716202638,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246891,
       "num": 246891,
       "word": "520很多人把花扔了",
@@ -2337,6 +2377,14 @@
       "onboard_time": 1716087138,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 227335,
+      "num": 227335,
+      "word": "贵溪一小学持刀伤人案嫌犯被控制",
+      "onboard_time": 1716203479,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227100,
@@ -2827,6 +2875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195673,
+      "num": 195673,
+      "word": "为什么卫生巾非得搞成组合装",
+      "onboard_time": 1716200779,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 194390,
       "num": 173348,
       "word": "李佳薇 煎熬",
@@ -3131,6 +3187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174939,
+      "num": 174939,
+      "word": "涵艺爆料wink加入EDG",
+      "onboard_time": 1716202938,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174009,
       "num": 212736,
       "word": "KPL年总新赛制大师轮换",
@@ -3145,6 +3209,14 @@
       "onboard_time": 1716075195,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172494,
+      "num": 172494,
+      "word": "客家小吃有自己的撞色美",
+      "onboard_time": 1716202759,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 172314,
@@ -3337,6 +3409,14 @@
       "onboard_time": 1716098116,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157445,
+      "num": 141452,
+      "word": "马嘉祺 520大测试",
+      "onboard_time": 1716202218,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 157392,
@@ -3755,12 +3835,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138120,
-      "num": 138120,
-      "word": "为什么卫生巾非得搞成组合装",
-      "onboard_time": 1716200779,
+      "raw_hot": 138323,
+      "num": 138323,
+      "word": "小米回应SU7保费比玛莎拉蒂更贵",
+      "onboard_time": 1716203479,
       "rank": 38,
-      "category": "互联网"
+      "category": "汽车"
     },
     {
       "raw_hot": 137635,
@@ -4091,6 +4171,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 122295,
+      "num": 122295,
+      "word": "红烧牛肉做法",
+      "onboard_time": 1716203118,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 121938,
       "num": 121938,
       "word": "明日方舟",
@@ -4417,6 +4505,14 @@
       "onboard_time": 1716041299,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111797,
+      "num": 118986,
+      "word": "在吃饭和睡觉中选择了在饭里睡觉",
+      "onboard_time": 1716201859,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 111116,
@@ -4747,6 +4843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80620,
+      "num": 228181,
+      "word": "真低价不躲猫猫",
+      "onboard_time": 1716199879,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 79543,
       "num": 120267,
       "word": "利物浦vs狼队",
@@ -4841,6 +4945,14 @@
       "onboard_time": 1716105078,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72382,
+      "num": 311662,
+      "word": "618想省钱还得看天猫",
+      "onboard_time": 1716202820,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 71649,
@@ -4995,14 +5107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59147,
-      "num": 212737,
-      "word": "真低价不躲猫猫",
-      "onboard_time": 1716199879,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 57879,
       "num": 57879,
       "word": "汪苏泷机场状态",
@@ -5020,7 +5124,7 @@
     },
     {
       "raw_hot": 53650,
-      "num": 740157,
+      "num": 743014,
       "word": "文化中国行小满节气课",
       "onboard_time": 1716193701,
       "rank": 2,
@@ -5283,6 +5387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19730,
+      "num": 200460,
+      "word": "我去成都找王一博",
+      "onboard_time": 1716203058,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19555,
       "num": 19555,
       "word": "2024MSI",
@@ -5329,6 +5441,14 @@
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13522,
+      "num": 257277,
+      "word": "爱在EX30小满大满足",
+      "onboard_time": 1716202519,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 12115,
