@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716208593746,
+  "endTime": 1716209441186,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -147,6 +147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1752393,
+      "num": 1752393,
+      "word": "以色列总理涉嫌战争罪被申请逮捕令",
+      "onboard_time": 1716206777,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1708985,
       "num": 1708985,
       "word": "王俊凯蔡依林同台",
@@ -161,14 +169,6 @@
       "onboard_time": 1716110058,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1563947,
-      "num": 1563947,
-      "word": "以色列总理涉嫌战争罪被申请逮捕令",
-      "onboard_time": 1716206777,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1557786,
@@ -1116,7 +1116,7 @@
     },
     {
       "raw_hot": 474232,
-      "num": 268510,
+      "num": 273896,
       "word": "曝李胜利欠款百万不归还",
       "onboard_time": 1716204798,
       "rank": 35,
@@ -1283,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419844,
+      "num": 419844,
+      "word": "庆余年林相 新郎不急老丈人急",
+      "onboard_time": 1716206777,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419269,
       "num": 228883,
       "word": "年龄25工龄30",
@@ -1393,6 +1401,14 @@
       "onboard_time": 1716176541,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402093,
+      "num": 402093,
+      "word": "网易游戏",
+      "onboard_time": 1716207677,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 401637,
@@ -1539,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359429,
-      "num": 359429,
-      "word": "庆余年林相 新郎不急老丈人急",
-      "onboard_time": 1716206777,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 352359,
       "num": 352359,
       "word": "BLG可惜",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1716128602,
       "rank": 24,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 343950,
+      "num": 261348,
+      "word": "王俊凯的内搭和蔡依林的裙子",
+      "onboard_time": 1716205878,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 342357,
@@ -1755,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 325683,
-      "num": 261348,
-      "word": "王俊凯的内搭和蔡依林的裙子",
-      "onboard_time": 1716205878,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 324528,
       "num": 324528,
       "word": "贾玲 百花奖",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1716193341,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 323655,
+      "num": 174484,
+      "word": "不生孩子是怎么流行开的",
+      "onboard_time": 1716208277,
+      "rank": 23,
+      "category": "社会议题"
     },
     {
       "raw_hot": 323569,
@@ -1899,6 +1915,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 299802,
+      "num": 299802,
+      "word": "小米回应SU7保费比玛莎拉蒂更贵",
+      "onboard_time": 1716203479,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 298812,
       "num": 298812,
       "word": "杨幂一个月播两部剧",
@@ -2011,14 +2035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281005,
-      "num": 281005,
-      "word": "网易游戏",
-      "onboard_time": 1716207677,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 280340,
       "num": 280340,
       "word": "儿子回家时被狗狗选中了",
@@ -2041,14 +2057,6 @@
       "onboard_time": 1716188840,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279794,
-      "num": 253152,
-      "word": "小米回应SU7保费比玛莎拉蒂更贵",
-      "onboard_time": 1716203479,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 279561,
@@ -2355,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243409,
+      "num": 243409,
+      "word": "王者520新英雄少司缘",
+      "onboard_time": 1716209118,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242137,
       "num": 242137,
       "word": "汪苏泷 吃饱饭继续奋斗",
@@ -2441,6 +2457,14 @@
       "onboard_time": 1716087138,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 228778,
+      "num": 144389,
+      "word": "老乡鸡回应葱油鸡重量少15克",
+      "onboard_time": 1716208219,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 227100,
@@ -2835,6 +2859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200972,
+      "num": 142788,
+      "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
+      "onboard_time": 1716208458,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200380,
       "num": 200380,
       "word": "奔跑吧",
@@ -2929,14 +2961,6 @@
       "onboard_time": 1716185182,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196597,
-      "num": 136602,
-      "word": "老乡鸡回应葱油鸡重量少15克",
-      "onboard_time": 1716208219,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 195776,
@@ -3171,6 +3195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180780,
+      "num": 180780,
+      "word": "背着善宰跑",
+      "onboard_time": 1716208757,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180345,
       "num": 180345,
       "word": "雷军组团赴蔚来围观乐道L60",
@@ -3275,6 +3307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173978,
+      "num": 173978,
+      "word": "惠英红 选五个人帮表白",
+      "onboard_time": 1716206476,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173150,
       "num": 173150,
       "word": "庆余年作者谈原著改编影视剧",
@@ -3305,6 +3345,14 @@
       "onboard_time": 1716116657,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171387,
+      "num": 171387,
+      "word": "杨紫奢牌待遇",
+      "onboard_time": 1716208398,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171050,
@@ -3443,14 +3491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160476,
-      "num": 160476,
-      "word": "不生孩子是怎么流行开的",
-      "onboard_time": 1716208277,
-      "rank": 23,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 160384,
       "num": 160384,
       "word": "A股",
@@ -3579,20 +3619,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 153758,
-      "num": 153758,
-      "word": "惠英红 选五个人帮表白",
-      "onboard_time": 1716206476,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153206,
       "num": 153206,
       "word": "谈恋爱重要的是过程还是结果",
       "onboard_time": 1716199460,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152916,
+      "num": 152916,
+      "word": "指甲出现这4个异常可能是大病先兆",
+      "onboard_time": 1716208938,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152705,
@@ -3769,6 +3809,14 @@
       "onboard_time": 1716087017,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144758,
+      "num": 144758,
+      "word": "感受到了提前准备的优势",
+      "onboard_time": 1716207918,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 144402,
@@ -4011,6 +4059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134212,
+      "num": 134212,
+      "word": "gemini才是KPL真顶流",
+      "onboard_time": 1716209178,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133859,
       "num": 133859,
       "word": "美妆券",
@@ -4091,6 +4147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129411,
+      "num": 129411,
+      "word": "魏大勋掰loopy的牙",
+      "onboard_time": 1716208578,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129329,
       "num": 104296,
       "word": "沈梦瑶今天的520营业",
@@ -4129,14 +4193,6 @@
       "onboard_time": 1716192020,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 127595,
-      "num": 127595,
-      "word": "感受到了提前准备的优势",
-      "onboard_time": 1716207918,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 127241,
@@ -4297,14 +4353,6 @@
       "onboard_time": 1716203118,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 122163,
-      "num": 122163,
-      "word": "杨紫奢牌待遇",
-      "onboard_time": 1716208398,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 121938,
@@ -4763,6 +4811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106084,
+      "num": 106084,
+      "word": "薛兆丰谈情侣AA制",
+      "onboard_time": 1716208818,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105964,
       "num": 105964,
       "word": "持修 血肉",
@@ -4785,14 +4841,6 @@
       "onboard_time": 1716104298,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104364,
-      "num": 104364,
-      "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
-      "onboard_time": 1716208458,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103729,
@@ -4899,6 +4947,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99286,
+      "num": 174528,
+      "word": "618电商平台卷到半价卖车了",
+      "onboard_time": 1716207498,
+      "rank": 20,
+      "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 99228,
+      "num": 99228,
+      "word": "2024网易游戏发布会",
+      "onboard_time": 1716209178,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98962,
       "num": 311662,
       "word": "618想省钱还得看天猫",
@@ -4955,14 +5019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94723,
-      "num": 161341,
-      "word": "618电商平台卷到半价卖车了",
-      "onboard_time": 1716207498,
-      "rank": 20,
-      "category": "互联网,汽车"
-    },
-    {
       "raw_hot": 94268,
       "num": 94268,
       "word": "救助了一只句句有回应的小猫",
@@ -4993,14 +5049,6 @@
       "onboard_time": 1716208097,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 89575,
-      "num": 89575,
-      "word": "魏大勋掰loopy的牙",
-      "onboard_time": 1716208578,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 88955,

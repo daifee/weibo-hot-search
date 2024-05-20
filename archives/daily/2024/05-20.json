@@ -1,6 +1,6 @@
 {
   "startTime": 1716135726910,
-  "endTime": 1716208593746,
+  "endTime": 1716209441186,
   "band_list": [
     {
       "raw_hot": 11623813,
@@ -115,8 +115,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1563947,
-      "num": 1563947,
+      "raw_hot": 1752393,
+      "num": 1752393,
       "word": "以色列总理涉嫌战争罪被申请逮捕令",
       "onboard_time": 1716206777,
       "rank": 0,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 474232,
-      "num": 268510,
+      "num": 273896,
       "word": "曝李胜利欠款百万不归还",
       "onboard_time": 1716204798,
       "rank": 35,
@@ -667,6 +667,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 419844,
+      "num": 419844,
+      "word": "庆余年林相 新郎不急老丈人急",
+      "onboard_time": 1716206777,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418882,
       "num": 380805,
       "word": "杨幂工作室换涂山红红头像背景",
@@ -713,6 +721,14 @@
       "onboard_time": 1716176541,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402093,
+      "num": 402093,
+      "word": "网易游戏",
+      "onboard_time": 1716207677,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 398464,
@@ -779,14 +795,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 359429,
-      "num": 359429,
-      "word": "庆余年林相 新郎不急老丈人急",
-      "onboard_time": 1716206777,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 348632,
       "num": 348632,
       "word": "伊朗总统所乘直升机位置被发现",
@@ -801,6 +809,14 @@
       "onboard_time": 1716189799,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 343950,
+      "num": 261348,
+      "word": "王俊凯的内搭和蔡依林的裙子",
+      "onboard_time": 1716205878,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 342357,
@@ -859,14 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 325683,
-      "num": 261348,
-      "word": "王俊凯的内搭和蔡依林的裙子",
-      "onboard_time": 1716205878,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 324528,
       "num": 324528,
       "word": "贾玲 百花奖",
@@ -881,6 +889,14 @@
       "onboard_time": 1716193341,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 323655,
+      "num": 174484,
+      "word": "不生孩子是怎么流行开的",
+      "onboard_time": 1716208277,
+      "rank": 23,
+      "category": "社会议题"
     },
     {
       "raw_hot": 323569,
@@ -945,6 +961,14 @@
       "onboard_time": 1716192020,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 299802,
+      "num": 299802,
+      "word": "小米回应SU7保费比玛莎拉蒂更贵",
+      "onboard_time": 1716203479,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 298812,
@@ -1027,14 +1051,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 281005,
-      "num": 281005,
-      "word": "网易游戏",
-      "onboard_time": 1716207677,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 280340,
       "num": 280340,
       "word": "儿子回家时被狗狗选中了",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1716188840,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279794,
-      "num": 253152,
-      "word": "小米回应SU7保费比玛莎拉蒂更贵",
-      "onboard_time": 1716203479,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 277121,
@@ -1227,6 +1235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 243409,
+      "num": 243409,
+      "word": "王者520新英雄少司缘",
+      "onboard_time": 1716209118,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242134,
       "num": 242134,
       "word": "王俊凯蔡依林五年后再唱心引力",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1716195801,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228778,
+      "num": 144389,
+      "word": "老乡鸡回应葱油鸡重量少15克",
+      "onboard_time": 1716208219,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 227100,
@@ -1483,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200972,
+      "num": 142788,
+      "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
+      "onboard_time": 1716208458,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199010,
       "num": 199010,
       "word": "哈梅内伊",
@@ -1513,14 +1545,6 @@
       "onboard_time": 1716185182,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196597,
-      "num": 136602,
-      "word": "老乡鸡回应葱油鸡重量少15克",
-      "onboard_time": 1716208219,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 189670,
@@ -1587,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180780,
+      "num": 180780,
+      "word": "背着善宰跑",
+      "onboard_time": 1716208757,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180345,
       "num": 180345,
       "word": "雷军组团赴蔚来围观乐道L60",
@@ -1619,6 +1651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173978,
+      "num": 173978,
+      "word": "惠英红 选五个人帮表白",
+      "onboard_time": 1716206476,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172494,
       "num": 172494,
       "word": "客家小吃有自己的撞色美",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1716189439,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171387,
+      "num": 171387,
+      "word": "杨紫奢牌待遇",
+      "onboard_time": 1716208398,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171050,
@@ -1699,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160476,
-      "num": 160476,
-      "word": "不生孩子是怎么流行开的",
-      "onboard_time": 1716208277,
-      "rank": 23,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 160384,
       "num": 160384,
       "word": "A股",
@@ -1755,14 +1795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 153758,
-      "num": 153758,
-      "word": "惠英红 选五个人帮表白",
-      "onboard_time": 1716206476,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153206,
       "num": 153206,
       "word": "谈恋爱重要的是过程还是结果",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1716115757,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152916,
+      "num": 152916,
+      "word": "指甲出现这4个异常可能是大病先兆",
+      "onboard_time": 1716208938,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152705,
@@ -1833,6 +1873,14 @@
       "onboard_time": 1716197300,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 144758,
+      "num": 144758,
+      "word": "感受到了提前准备的优势",
+      "onboard_time": 1716207918,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 144383,
@@ -1947,6 +1995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134212,
+      "num": 134212,
+      "word": "gemini才是KPL真顶流",
+      "onboard_time": 1716209178,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132436,
       "num": 141486,
       "word": "薛之谦惊讶新疆作息时间",
@@ -1961,6 +2017,14 @@
       "onboard_time": 1716132918,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129411,
+      "num": 129411,
+      "word": "魏大勋掰loopy的牙",
+      "onboard_time": 1716208578,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 129329,
@@ -2001,14 +2065,6 @@
       "onboard_time": 1716121335,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127595,
-      "num": 127595,
-      "word": "感受到了提前准备的优势",
-      "onboard_time": 1716207918,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 127014,
@@ -2097,14 +2153,6 @@
       "onboard_time": 1716203118,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 122163,
-      "num": 122163,
-      "word": "杨紫奢牌待遇",
-      "onboard_time": 1716208398,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 121938,
@@ -2227,12 +2275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104364,
-      "num": 104364,
-      "word": "日本男子涉嫌杀害女友3岁女儿未遂被捕",
-      "onboard_time": 1716208458,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 106084,
+      "num": 106084,
+      "word": "薛兆丰谈情侣AA制",
+      "onboard_time": 1716208818,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 102077,
@@ -2267,6 +2315,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99286,
+      "num": 174528,
+      "word": "618电商平台卷到半价卖车了",
+      "onboard_time": 1716207498,
+      "rank": 20,
+      "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 99228,
+      "num": 99228,
+      "word": "2024网易游戏发布会",
+      "onboard_time": 1716209178,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98962,
       "num": 311662,
       "word": "618想省钱还得看天猫",
@@ -2299,14 +2363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94723,
-      "num": 161341,
-      "word": "618电商平台卷到半价卖车了",
-      "onboard_time": 1716207498,
-      "rank": 20,
-      "category": "互联网,汽车"
-    },
-    {
       "raw_hot": 93258,
       "num": 93258,
       "word": "周深演唱会若梦大合唱",
@@ -2329,14 +2385,6 @@
       "onboard_time": 1716208097,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 89575,
-      "num": 89575,
-      "word": "魏大勋掰loopy的牙",
-      "onboard_time": 1716208578,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 88955,
