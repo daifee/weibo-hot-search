@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716244535118,
+  "endTime": 1716247154289,
   "band_list": [
     {
       "raw_hot": 1182657,
@@ -17,6 +17,14 @@
       "onboard_time": 1716191300,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 993368,
+      "num": 993368,
+      "word": "房价会不会报复性上涨",
+      "onboard_time": 1716222497,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 851391,
@@ -65,14 +73,6 @@
       "onboard_time": 1716217880,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 426505,
-      "num": 426505,
-      "word": "房价会不会报复性上涨",
-      "onboard_time": 1716222497,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 420206,
@@ -131,6 +131,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 257878,
+      "num": 257878,
+      "word": "庆帝灰飞烟灭让人毛骨悚然",
+      "onboard_time": 1716246855,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255789,
       "num": 255789,
       "word": "老乡鸡葱油鸡已加量20g",
@@ -145,6 +153,22 @@
       "onboard_time": 1716196101,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233098,
+      "num": 147590,
+      "word": "西班牙召回驻阿根廷大使",
+      "onboard_time": 1716239529,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 232097,
+      "num": 145183,
+      "word": "一百年前国外的婴儿车",
+      "onboard_time": 1716232151,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 178319,
@@ -195,12 +219,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 138190,
-      "num": 65387,
-      "word": "西班牙召回驻阿根廷大使",
-      "onboard_time": 1716239529,
-      "rank": 48,
-      "category": "国外时政"
+      "raw_hot": 136257,
+      "num": 136257,
+      "word": "刘亦菲罗马造型",
+      "onboard_time": 1716246675,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 135368,
@@ -209,6 +233,14 @@
       "onboard_time": 1716211520,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132126,
+      "num": 132126,
+      "word": "BBC曝光李胜利郑俊英崔钟训视频",
+      "onboard_time": 1716246616,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 127338,
@@ -227,28 +259,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118668,
+      "num": 118668,
+      "word": "辛巴快手号直播权限解封",
+      "onboard_time": 1716227951,
+      "rank": 12,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 114136,
       "num": 141202,
       "word": "王俊凯的内搭和蔡依林的裙子",
       "onboard_time": 1716205878,
       "rank": 27,
       "category": "演出,时尚"
-    },
-    {
-      "raw_hot": 110891,
-      "num": 65224,
-      "word": "一百年前国外的婴儿车",
-      "onboard_time": 1716232151,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 107803,
-      "num": 107803,
-      "word": "辛巴快手号直播权限解封",
-      "onboard_time": 1716227951,
-      "rank": 12,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 105970,
@@ -371,6 +395,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67912,
+      "num": 67912,
+      "word": "您的外卖已由特警送达",
+      "onboard_time": 1716246915,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67376,
+      "num": 67376,
+      "word": "从小被偏心的孩子长大怎么抑郁了",
+      "onboard_time": 1716246795,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 66896,
       "num": 138417,
       "word": "赴山海",
@@ -395,6 +435,54 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61084,
+      "num": 61084,
+      "word": "刘亦菲520开屏",
+      "onboard_time": 1716232930,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 59614,
+      "num": 59614,
+      "word": "原来小猫用头撞人是这个意思",
+      "onboard_time": 1716236530,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 59375,
+      "num": 59375,
+      "word": "3岁男童被咬伤离世当地养狗现状",
+      "onboard_time": 1716246795,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58930,
+      "num": 58930,
+      "word": "杨紫请大家喝奶茶",
+      "onboard_time": 1716240911,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57877,
+      "num": 57877,
+      "word": "朴志效泡泡照搬周子瑜",
+      "onboard_time": 1716246795,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57694,
+      "num": 57694,
+      "word": "减肥可以这样称体重",
+      "onboard_time": 1716246915,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 57675,
       "num": 138755,
       "word": "陈赫郑恺 阑尾兄弟",
@@ -403,12 +491,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57070,
+      "num": 149322,
+      "word": "小胖墩减肥要遵循两个原则",
+      "onboard_time": 1716246616,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 56535,
+      "num": 139287,
+      "word": "王启年的回旋镖镖镖扎心",
+      "onboard_time": 1716225074,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55338,
       "num": 85406,
       "word": "小满文案",
       "onboard_time": 1716220818,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53772,
+      "num": 53772,
+      "word": "张若昀腰围62",
+      "onboard_time": 1716229630,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 53757,
@@ -435,12 +547,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44144,
-      "num": 139287,
-      "word": "王启年的回旋镖镖镖扎心",
-      "onboard_time": 1716225074,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 47352,
+      "num": 47352,
+      "word": "中国人均带薪假6.29天",
+      "onboard_time": 1716246795,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47124,
+      "num": 47124,
+      "word": "院方通报广西17岁体育生错切右膝",
+      "onboard_time": 1716246795,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44021,
+      "num": 44021,
+      "word": "南大校庆表白已经是nextlevel了",
+      "onboard_time": 1716246384,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43622,
@@ -459,20 +587,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41800,
+      "num": 41800,
+      "word": "加沙小女孩遇空袭捂住耳朵告诉妈妈不想死",
+      "onboard_time": 1716246616,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 41121,
       "num": 139161,
       "word": "说出心底的爱",
       "onboard_time": 1716225074,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40570,
-      "num": 40570,
-      "word": "原来小猫用头撞人是这个意思",
-      "onboard_time": 1716236530,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 39841,
@@ -483,14 +611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39534,
-      "num": 39534,
-      "word": "张若昀腰围62",
-      "onboard_time": 1716229630,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 39026,
       "num": 47325,
       "word": "杭州机场打车已经是nextlevel了",
@@ -499,28 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38141,
-      "num": 38141,
-      "word": "刘亦菲520开屏",
-      "onboard_time": 1716232930,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 34039,
       "num": 90474,
       "word": "光遇",
       "onboard_time": 1716226153,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31885,
-      "num": 31885,
-      "word": "杨紫请大家喝奶茶",
-      "onboard_time": 1716240911,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 25348,
