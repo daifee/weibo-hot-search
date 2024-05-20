@@ -1,0 +1,410 @@
+{
+  "runTime": 1716176048705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5132627,
+        "num": 5132627,
+        "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
+        "onboard_time": 1716174739,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 3395646,
+        "num": 3395646,
+        "word": "伊朗总统外交部长都在事故直升机上",
+        "onboard_time": 1716165139,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 14608,
+        "num": 2948947,
+        "word": "行走美丽中国",
+        "onboard_time": 1716091037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2565424,
+        "num": 2565424,
+        "word": "李胜利拖拽女性视频",
+        "onboard_time": 1716170778,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1442285,
+        "num": 1442285,
+        "word": "救援队接近伊朗总统直升机事故现场",
+        "onboard_time": 1716173718,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1317230,
+        "num": 1317230,
+        "word": "微信转账520和1314能要回吗",
+        "onboard_time": 1716168438,
+        "rank": 5,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1148662,
+        "num": 1148662,
+        "word": "警方通报胖猫与谭某经济往来情况",
+        "onboard_time": 1716123377,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 809867,
+        "num": 1142752,
+        "word": "胖猫姐姐多平台账号被封",
+        "onboard_time": 1716166459,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 788893,
+        "num": 1134981,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749798,
+        "num": 1115263,
+        "word": "费翔的母亲去世",
+        "onboard_time": 1716171078,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1306705,
+        "num": 1105921,
+        "word": "伊朗外交部就总统直升机发生事故发表声明",
+        "onboard_time": 1716160635,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 78704,
+        "num": 1093790,
+        "word": "再晚就抢不到DNF手游ID了",
+        "onboard_time": 1716174319,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1185466,
+        "num": 1089677,
+        "word": "具荷拉在胜利事件里帮记者找线索",
+        "onboard_time": 1716172758,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1080476,
+        "num": 1080476,
+        "word": "伊朗总统直升机残骸已找到",
+        "onboard_time": 1716175700,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135649,
+        "num": 978705,
+        "word": "支付宝520送我一年奶茶",
+        "onboard_time": 1716174020,
+        "rank": 14,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 938799,
+        "num": 938799,
+        "word": "伊朗内政部长证实载有总统的直升机队发生事故",
+        "onboard_time": 1716160155,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 891070,
+        "num": 891070,
+        "word": "伊朗媒体称找到总统莱希的直升机",
+        "onboard_time": 1716170897,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 54586,
+        "num": 846834,
+        "word": "情感主播向辛巴道歉",
+        "onboard_time": 1716174921,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 836759,
+        "num": 836759,
+        "word": "大雾影响伊朗总统直升机救援",
+        "onboard_time": 1716161716,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 695104,
+        "num": 695104,
+        "word": "胖猫姐姐刘某操控舆论",
+        "onboard_time": 1716129921,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1325855,
+        "num": 688432,
+        "word": "为什么避孕套都放在收银台",
+        "onboard_time": 1716165019,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 670565,
+        "num": 670565,
+        "word": "载有伊朗总统的直升机硬着陆",
+        "onboard_time": 1716125602,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 589641,
+        "num": 589641,
+        "word": "伊媒称伊朗总统直升机事故地点确认",
+        "onboard_time": 1716167779,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 536122,
+        "num": 536122,
+        "word": "桃花坞4官宣阵容",
+        "onboard_time": 1716171678,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533708,
+        "num": 533708,
+        "word": "伊朗",
+        "onboard_time": 1716160875,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 502825,
+        "num": 502825,
+        "word": "胖猫通报里的三个关键点",
+        "onboard_time": 1716126141,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 439257,
+        "num": 439257,
+        "word": "谭某未以恋爱为名骗取胖猫财物",
+        "onboard_time": 1716129142,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 435318,
+        "num": 435318,
+        "word": "伊朗对载有总统的事故直升机全力搜救",
+        "onboard_time": 1716161597,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 426583,
+        "num": 426583,
+        "word": "辞去双休工作后我变成了全年无休",
+        "onboard_time": 1716168137,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426103,
+        "num": 426103,
+        "word": "警方通报胖猫事件",
+        "onboard_time": 1716129862,
+        "rank": 29,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 54171,
+        "num": 410613,
+        "word": "被Pura70镜头下的倪妮惊艳了",
+        "onboard_time": 1716174319,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408726,
+        "num": 408726,
+        "word": "年轻人为啥愿意花几千买一个捏捏",
+        "onboard_time": 1716164899,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96208,
+        "num": 392915,
+        "word": "521原来是国际茶日",
+        "onboard_time": 1716175219,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 392107,
+        "num": 392107,
+        "word": "伊朗总统",
+        "onboard_time": 1716160274,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 382898,
+        "num": 382898,
+        "word": "宝石老舅真成老救了",
+        "onboard_time": 1716175159,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370246,
+        "num": 370246,
+        "word": "小满恰逢520",
+        "onboard_time": 1716160515,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345455,
+        "num": 345455,
+        "word": "王俊凯发文感谢蔡依林",
+        "onboard_time": 1716170297,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 343133,
+        "num": 343133,
+        "word": "伊朗总统所乘直升机位置被发现",
+        "onboard_time": 1716173597,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 333505,
+        "num": 333505,
+        "word": "G社拍的张艺兴林允儿",
+        "onboard_time": 1716162738,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324220,
+        "num": 324220,
+        "word": "刘浩存生日照",
+        "onboard_time": 1716174439,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292938,
+        "num": 292938,
+        "word": "森林狼4比3掘金",
+        "onboard_time": 1716173238,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272458,
+        "num": 272458,
+        "word": "腾讯客服回应庆余年SVIP被指VIP套娃",
+        "onboard_time": 1716170419,
+        "rank": 41,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 257733,
+        "num": 257733,
+        "word": "周一 很需要撒一把糯米",
+        "onboard_time": 1716170237,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252347,
+        "num": 252347,
+        "word": "狐妖小红娘真搬到民政局了",
+        "onboard_time": 1716173298,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68003,
+        "num": 246815,
+        "word": "你心动的都在京东",
+        "onboard_time": 1716170778,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244831,
+        "num": 244831,
+        "word": "庆余年2第九集封神",
+        "onboard_time": 1716130881,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44629,
+        "num": 231840,
+        "word": "鲜奶是如何提升身体保护力的",
+        "onboard_time": 1716170597,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228399,
+        "num": 228399,
+        "word": "陈丽君因病缺席邮票首发式签名会",
+        "onboard_time": 1716174559,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 206384,
+        "num": 206384,
+        "word": "狐妖小红娘",
+        "onboard_time": 1716176000,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205662,
+        "num": 205662,
+        "word": "微信已开放520元红包",
+        "onboard_time": 1716162496,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#古老文物活起来现代生活精彩不断#"
+    }
+  }
+}
