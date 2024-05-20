@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716214711124,
+  "endTime": 1716215728525,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -643,6 +643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 717803,
+      "num": 235370,
+      "word": "榴莲今年为什么越来越便宜",
+      "onboard_time": 1716211520,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 714067,
       "num": 714067,
       "word": "专家建议允许个人自愿选择退休年龄",
@@ -713,14 +721,6 @@
       "onboard_time": 1716102016,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 701794,
-      "num": 199070,
-      "word": "榴莲今年为什么越来越便宜",
-      "onboard_time": 1716211520,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 691798,
@@ -923,6 +923,14 @@
       "category": "国外时政,财经"
     },
     {
+      "raw_hot": 577900,
+      "num": 577900,
+      "word": "酵色",
+      "onboard_time": 1716211099,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 574356,
       "num": 574356,
       "word": "魏大勋又赶上跑男泥潭了",
@@ -985,6 +993,14 @@
       "onboard_time": 1716160875,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 543893,
+      "num": 543893,
+      "word": "1200元最贵看台票几乎看不到周杰伦",
+      "onboard_time": 1716210619,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 542814,
@@ -1075,20 +1091,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 502653,
-      "num": 502653,
-      "word": "1200元最贵看台票几乎看不到周杰伦",
-      "onboard_time": 1716210619,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 502027,
       "num": 344297,
       "word": "李艾的腿被小朋友以为踩了高跷",
       "onboard_time": 1716198620,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498157,
+      "num": 498157,
+      "word": "小满胜万全",
+      "onboard_time": 1716214999,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 498071,
@@ -1113,14 +1129,6 @@
       "onboard_time": 1716080116,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 487464,
-      "num": 487464,
-      "word": "酵色",
-      "onboard_time": 1716211099,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 486234,
@@ -1539,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388355,
+      "num": 337906,
+      "word": "赵露思深V碎花裙",
+      "onboard_time": 1716213320,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 386904,
       "num": 386904,
       "word": "狐妖月红篇定档官宣",
@@ -1763,14 +1779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 337906,
-      "num": 337906,
-      "word": "赵露思深V碎花裙",
-      "onboard_time": 1716213320,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 337845,
       "num": 337845,
       "word": "唐嫣活动生图",
@@ -1809,6 +1817,22 @@
       "onboard_time": 1716095417,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329407,
+      "num": 329407,
+      "word": "林凯不参演赴山海",
+      "onboard_time": 1716213741,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 328292,
+      "num": 328292,
+      "word": "CBA总决赛",
+      "onboard_time": 1716213440,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 327919,
@@ -2001,14 +2025,6 @@
       "onboard_time": 1716107358,
       "rank": 42,
       "category": "网红"
-    },
-    {
-      "raw_hot": 302449,
-      "num": 302449,
-      "word": "CBA总决赛",
-      "onboard_time": 1716213440,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 299802,
@@ -2275,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270034,
+      "num": 270034,
+      "word": "庆余年2朝堂激辩",
+      "onboard_time": 1716213140,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269663,
       "num": 269663,
       "word": "张艺兴2024世界巡演官宣",
@@ -2297,6 +2321,14 @@
       "onboard_time": 1716190821,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265237,
+      "num": 232127,
+      "word": "丈夫称想在去世20年妻子面前大哭一场",
+      "onboard_time": 1716214699,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263405,
@@ -2483,14 +2515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243468,
-      "num": 243468,
-      "word": "林凯不参演赴山海",
-      "onboard_time": 1716213741,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242137,
       "num": 242137,
       "word": "汪苏泷 吃饱饭继续奋斗",
@@ -2545,14 +2569,6 @@
       "onboard_time": 1716131062,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 235708,
-      "num": 235708,
-      "word": "庆余年2朝堂激辩",
-      "onboard_time": 1716213140,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 235492,
@@ -3003,6 +3019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200857,
+      "num": 256199,
+      "word": "弗格微波炉",
+      "onboard_time": 1716214940,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200380,
       "num": 200380,
       "word": "奔跑吧",
@@ -3145,6 +3169,14 @@
       "onboard_time": 1716207498,
       "rank": 20,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 194417,
+      "num": 194417,
+      "word": "背着善宰跑第13集",
+      "onboard_time": 1716215300,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 194390,
@@ -3515,6 +3547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172754,
+      "num": 172754,
+      "word": "情侣之间情绪稳定真的很重要",
+      "onboard_time": 1716209839,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172494,
       "num": 172494,
       "word": "客家小吃有自己的撞色美",
@@ -3657,6 +3697,14 @@
       "onboard_time": 1716167661,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 162552,
+      "num": 162552,
+      "word": "胃病向胃癌转变有这5个征兆",
+      "onboard_time": 1716215300,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161947,
@@ -3915,14 +3963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148133,
-      "num": 148133,
-      "word": "情侣之间情绪稳定真的很重要",
-      "onboard_time": 1716209839,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147341,
       "num": 147341,
       "word": "下半场的欧文",
@@ -3985,6 +4025,14 @@
       "onboard_time": 1716089716,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 145633,
+      "num": 145633,
+      "word": "范闲的泪是滚烫的",
+      "onboard_time": 1716214641,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 145182,
@@ -4259,6 +4307,14 @@
       "category": "美食,互联网"
     },
     {
+      "raw_hot": 135223,
+      "num": 135223,
+      "word": "范闲邓子越对峙",
+      "onboard_time": 1716214460,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134718,
       "num": 134718,
       "word": "年轻人需要自己的多巴胺搭子",
@@ -4283,6 +4339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134264,
+      "num": 805643,
+      "word": "小满的一幕幕画面太有爱了",
+      "onboard_time": 1716213560,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134219,
       "num": 134219,
       "word": "世界之外强强联动",
@@ -4297,14 +4361,6 @@
       "onboard_time": 1716121097,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 133548,
-      "num": 133548,
-      "word": "范闲邓子越对峙",
-      "onboard_time": 1716214460,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 133336,
@@ -4345,6 +4401,14 @@
       "onboard_time": 1716132918,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131183,
+      "num": 131183,
+      "word": "辽宁男篮3比0新疆男篮",
+      "onboard_time": 1716215479,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 131133,
@@ -5035,14 +5099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106162,
-      "num": 106162,
-      "word": "范闲的泪是滚烫的",
-      "onboard_time": 1716214641,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106084,
       "num": 106084,
       "word": "薛兆丰谈情侣AA制",
@@ -5067,28 +5123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105483,
-      "num": 805643,
-      "word": "小满的一幕幕画面太有爱了",
-      "onboard_time": 1716213560,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104632,
       "num": 146588,
       "word": "中国选手让我有种攀岩很容易的错觉",
       "onboard_time": 1716104298,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103826,
-      "num": 103826,
-      "word": "丈夫称想在去世20年妻子面前大哭一场",
-      "onboard_time": 1716214699,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103729,
@@ -5220,7 +5260,7 @@
     },
     {
       "raw_hot": 98766,
-      "num": 139489,
+      "num": 247409,
       "word": "范志毅520教你开车",
       "onboard_time": 1716214280,
       "rank": 39,
@@ -5531,6 +5571,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 67879,
+      "num": 191452,
+      "word": "新车发布还能现场砍价",
+      "onboard_time": 1716213920,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67466,
       "num": 180658,
       "word": "鲜奶的免疫秘密是什么",
@@ -5593,14 +5641,6 @@
       "onboard_time": 1716088876,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59806,
-      "num": 174799,
-      "word": "新车发布还能现场砍价",
-      "onboard_time": 1716213920,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 59324,
@@ -6019,6 +6059,9 @@
     },
     {
       "word": "#持续打造市场化法治化国际化营商环境#"
+    },
+    {
+      "word": "#习近平向伊朗第一副总统穆赫贝尔致唁电#"
     }
   ]
 }
