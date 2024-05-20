@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716161682523,
+  "endTime": 1716167871192,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3542478,
-      "num": 301237,
+      "num": 377103,
       "word": "谭某未以恋爱为名骗取胖猫财物",
       "onboard_time": 1716129142,
       "rank": 20,
@@ -41,6 +41,22 @@
       "onboard_time": 1716123739,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2259076,
+      "num": 2259076,
+      "word": "伊朗总统外交部长都在事故直升机上",
+      "onboard_time": 1716165139,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 2048923,
+      "num": 377988,
+      "word": "为什么避孕套都放在收银台",
+      "onboard_time": 1716165019,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1987575,
@@ -65,6 +81,14 @@
       "onboard_time": 1716110058,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1659551,
+      "num": 1659551,
+      "word": "胖猫姐姐多平台账号被封",
+      "onboard_time": 1716166459,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1528434,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 1256422,
-      "num": 295991,
+      "num": 356851,
       "word": "警方通报胖猫事件",
       "onboard_time": 1716129862,
       "rank": 21,
@@ -177,6 +201,14 @@
       "onboard_time": 1716122657,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1121835,
+      "num": 1121835,
+      "word": "微信已开放520元红包",
+      "onboard_time": 1716162496,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 1055713,
@@ -257,6 +289,14 @@
       "onboard_time": 1716037820,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 855965,
+      "num": 855965,
+      "word": "年轻人为啥愿意花几千买一个捏捏",
+      "onboard_time": 1716164899,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 849491,
@@ -499,6 +539,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 603256,
+      "num": 603256,
+      "word": "G社拍的张艺兴林允儿",
+      "onboard_time": 1716162738,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 600659,
       "num": 600659,
       "word": "大同地震",
@@ -545,6 +593,14 @@
       "onboard_time": 1716075255,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 578807,
+      "num": 578807,
+      "word": "俄罗斯没收德国最大银行在俄资产",
+      "onboard_time": 1716165139,
+      "rank": 13,
+      "category": "国外时政,财经"
     },
     {
       "raw_hot": 571061,
@@ -739,12 +795,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426639,
+      "num": 426639,
+      "word": "韩素希戛纳红毯状态",
+      "onboard_time": 1716163399,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 425842,
       "num": 425842,
       "word": "老林哭了",
       "onboard_time": 1716044718,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 423041,
+      "num": 423041,
+      "word": "王俊凯蔡依林手拉手",
+      "onboard_time": 1716164177,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 421093,
@@ -843,12 +915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397397,
+      "num": 397397,
+      "word": "谷歌杀妻工程师卖凶宅售价1500万",
+      "onboard_time": 1716166639,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393881,
       "num": 393881,
       "word": "鞠婧祎蝴蝶耳钉",
       "onboard_time": 1716099137,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379185,
+      "num": 379185,
+      "word": "伊媒称伊朗总统直升机事故地点确认",
+      "onboard_time": 1716167779,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 377338,
@@ -900,7 +988,7 @@
     },
     {
       "raw_hot": 369660,
-      "num": 180791,
+      "num": 192519,
       "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
       "onboard_time": 1716140712,
       "rank": 23,
@@ -1115,6 +1203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 310411,
+      "num": 310411,
+      "word": "大雾影响伊朗总统直升机救援",
+      "onboard_time": 1716161716,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 308608,
       "num": 308608,
       "word": "考研失败却过上更好的生活",
@@ -1145,6 +1241,22 @@
       "onboard_time": 1716107358,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 298237,
+      "num": 298237,
+      "word": "伊朗对载有总统的事故直升机全力搜救",
+      "onboard_time": 1716161597,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 291521,
+      "num": 291521,
+      "word": "大连一救护车和小轿车相撞致2死1伤",
+      "onboard_time": 1716166579,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288263,
@@ -1219,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278827,
+      "num": 278827,
+      "word": "杜华说周扬青没练到位",
+      "onboard_time": 1716166159,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278488,
       "num": 278488,
       "word": "男子被蜱虫咬几天后做足疗时发现",
@@ -1243,6 +1363,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 274371,
+      "num": 274371,
+      "word": "上海地铁12号线",
+      "onboard_time": 1716167479,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273748,
       "num": 273748,
       "word": "荔枝好贵",
@@ -1257,6 +1385,14 @@
       "onboard_time": 1716030437,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 271196,
+      "num": 271196,
+      "word": "已婚女与男友举办婚礼遭丈夫揭穿被捕",
+      "onboard_time": 1716163758,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259839,
@@ -1363,6 +1499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 241161,
+      "num": 241161,
+      "word": "520撞上周一是什么感觉",
+      "onboard_time": 1716165560,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237305,
       "num": 237305,
       "word": "学校回应女教师让学生轮流打同学",
@@ -1443,6 +1587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 217020,
+      "num": 217020,
+      "word": "南大毕业生论文致谢第一句很特殊",
+      "onboard_time": 1716160635,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 216323,
       "num": 181144,
       "word": "黄俊捷工作室发声明",
@@ -1489,6 +1641,14 @@
       "onboard_time": 1716131301,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206586,
+      "num": 206586,
+      "word": "郭敬明晒与陈都灵合照",
+      "onboard_time": 1716164418,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 205994,
@@ -1561,6 +1721,14 @@
       "onboard_time": 1716110299,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202861,
+      "num": 202861,
+      "word": "大连警方通报救护车和小车碰撞",
+      "onboard_time": 1716166038,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202722,
@@ -1827,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186982,
+      "num": 620151,
+      "word": "小满小满爱意加满",
+      "onboard_time": 1716160574,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184541,
       "num": 184541,
       "word": "原来小猫是这样挖鼻孔的",
@@ -1881,6 +2057,14 @@
       "onboard_time": 1716118758,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178572,
+      "num": 178572,
+      "word": "森林狼vs掘金",
+      "onboard_time": 1716166579,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 177895,
@@ -1945,6 +2129,14 @@
       "onboard_time": 1716116657,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171050,
+      "num": 171050,
+      "word": "520和521恰逢农历1314",
+      "onboard_time": 1716164957,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 168586,
@@ -2307,6 +2499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142388,
+      "num": 142388,
+      "word": "浙江小百花越剧院致歉",
+      "onboard_time": 1716167178,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141953,
       "num": 141953,
       "word": "什么东西是纯正的垃圾食品",
@@ -2563,20 +2763,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 124501,
-      "num": 124501,
-      "word": "伊朗对载有总统的事故直升机全力搜救",
-      "onboard_time": 1716161597,
-      "rank": 25,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 124475,
       "num": 124475,
       "word": "建议夏天把冰箱温度调高点",
       "onboard_time": 1716101478,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124381,
+      "num": 124381,
+      "word": "频繁聊天真的会产生爱的错觉吗",
+      "onboard_time": 1716142572,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 124129,
@@ -2593,6 +2793,14 @@
       "onboard_time": 1716125782,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121832,
+      "num": 121832,
+      "word": "为何阿嬷手作10元咖啡爆火",
+      "onboard_time": 1716166398,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 121574,
@@ -2617,6 +2825,14 @@
       "onboard_time": 1716118877,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120908,
+      "num": 120908,
+      "word": "如果高铁上可以带小猫",
+      "onboard_time": 1716167598,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 120632,
@@ -3027,14 +3243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 102429,
-      "num": 102429,
-      "word": "频繁聊天真的会产生爱的错觉吗",
-      "onboard_time": 1716142572,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 101842,
       "num": 101842,
       "word": "范丞丞吐槽杨迪新发型",
@@ -3155,14 +3363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90086,
-      "num": 90086,
-      "word": "南大毕业生论文致谢第一句很特殊",
-      "onboard_time": 1716160635,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 88955,
       "num": 88955,
       "word": "步行者晋级东部决赛",
@@ -3200,14 +3400,6 @@
       "word": "南宁暴雨中的暖心瞬间",
       "onboard_time": 1716116537,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80105,
-      "num": 396665,
-      "word": "小满小满爱意加满",
-      "onboard_time": 1716160574,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -3308,7 +3500,7 @@
     },
     {
       "raw_hot": 68793,
-      "num": 1270484,
+      "num": 1452232,
       "word": "行走美丽中国",
       "onboard_time": 1716091037,
       "rank": 2,
@@ -3529,6 +3721,14 @@
       "onboard_time": 1716153850,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33266,
+      "num": 143051,
+      "word": "什么鲜奶活性蛋白才高",
+      "onboard_time": 1716167538,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 33240,
