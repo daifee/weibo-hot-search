@@ -1,0 +1,410 @@
+{
+  "runTime": 1716169115679,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2104168,
+        "num": 2104168,
+        "word": "伊朗总统外交部长都在事故直升机上",
+        "onboard_time": 1716165139,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1858263,
+        "num": 1858263,
+        "word": "胖猫姐姐多平台账号被封",
+        "onboard_time": 1716166459,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 11855,
+        "num": 1302591,
+        "word": "行走美丽中国",
+        "onboard_time": 1716091037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1225378,
+        "num": 1225378,
+        "word": "警方通报胖猫与谭某经济往来情况",
+        "onboard_time": 1716123377,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 972816,
+        "num": 972816,
+        "word": "年轻人为啥愿意花几千买一个捏捏",
+        "onboard_time": 1716164899,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 920036,
+        "num": 920036,
+        "word": "伊媒称伊朗总统直升机事故地点确认",
+        "onboard_time": 1716167779,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 867107,
+        "num": 867107,
+        "word": "小满",
+        "onboard_time": 1716160393,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851456,
+        "num": 851456,
+        "word": "微信已开放520元红包",
+        "onboard_time": 1716162496,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 636175,
+        "num": 636175,
+        "word": "谷歌杀妻工程师卖凶宅售价1500万",
+        "onboard_time": 1716166639,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577915,
+        "num": 577915,
+        "word": "G社拍的张艺兴林允儿",
+        "onboard_time": 1716162738,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 831046,
+        "num": 576735,
+        "word": "胖猫姐姐刘某操控舆论",
+        "onboard_time": 1716129921,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 749736,
+        "num": 575041,
+        "word": "微信转账520和1314能要回吗",
+        "onboard_time": 1716168438,
+        "rank": 11,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 572358,
+        "num": 572358,
+        "word": "伊朗外交部就总统直升机发生事故发表声明",
+        "onboard_time": 1716160635,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 531020,
+        "num": 531020,
+        "word": "俄罗斯没收德国最大银行在俄资产",
+        "onboard_time": 1716165139,
+        "rank": 13,
+        "category": "国外时政,财经"
+      },
+      {
+        "raw_hot": 516053,
+        "num": 516053,
+        "word": "伊朗内政部长证实载有总统的直升机队发生事故",
+        "onboard_time": 1716160155,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 30650,
+        "num": 483052,
+        "word": "什么鲜奶活性蛋白才高",
+        "onboard_time": 1716167538,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 481349,
+        "num": 481349,
+        "word": "王俊凯蔡依林手拉手",
+        "onboard_time": 1716164177,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 441600,
+        "num": 441600,
+        "word": "伊朗总统",
+        "onboard_time": 1716160274,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 358513,
+        "num": 358513,
+        "word": "庆余年2第九集封神",
+        "onboard_time": 1716130881,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344606,
+        "num": 344606,
+        "word": "载有伊朗总统的直升机硬着陆",
+        "onboard_time": 1716125602,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1953486,
+        "num": 340306,
+        "word": "为什么避孕套都放在收银台",
+        "onboard_time": 1716165019,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 715221,
+        "num": 335951,
+        "word": "胖猫通报里的三个关键点",
+        "onboard_time": 1716126141,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 324140,
+        "num": 324140,
+        "word": "今天520",
+        "onboard_time": 1716168678,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559349,
+        "num": 323496,
+        "word": "谭某未以恋爱为名骗取胖猫财物",
+        "onboard_time": 1716129142,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 538610,
+        "num": 323177,
+        "word": "警方通报胖猫事件",
+        "onboard_time": 1716129862,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 198373,
+        "num": 322636,
+        "word": "小满小满爱意加满",
+        "onboard_time": 1716160574,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322322,
+        "num": 322322,
+        "word": "韩素希戛纳红毯状态",
+        "onboard_time": 1716163399,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 304690,
+        "num": 304690,
+        "word": "辞去双休工作后我变成了全年无休",
+        "onboard_time": 1716168137,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290796,
+        "num": 290796,
+        "word": "杜华说周扬青没练到位",
+        "onboard_time": 1716166159,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287101,
+        "num": 287101,
+        "word": "大雾影响伊朗总统直升机救援",
+        "onboard_time": 1716161716,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 256516,
+        "num": 256516,
+        "word": "大连一救护车和小轿车相撞致2死1伤",
+        "onboard_time": 1716166579,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246419,
+        "num": 246419,
+        "word": "突然发现六月只要上19天班",
+        "onboard_time": 1716110058,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244698,
+        "num": 244698,
+        "word": "上海地铁12号线",
+        "onboard_time": 1716167479,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231768,
+        "num": 231768,
+        "word": "伊朗对载有总统的事故直升机全力搜救",
+        "onboard_time": 1716161597,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206825,
+        "num": 206825,
+        "word": "已婚女与男友举办婚礼遭丈夫揭穿被捕",
+        "onboard_time": 1716163758,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206601,
+        "num": 206601,
+        "word": "伊朗",
+        "onboard_time": 1716160875,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 202203,
+        "num": 202203,
+        "word": "520撞上周一是什么感觉",
+        "onboard_time": 1716165560,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198822,
+        "num": 198822,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1716136697,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201909,
+        "num": 188892,
+        "word": "易烊千玺520明信片",
+        "onboard_time": 1716168078,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168381,
+        "num": 168381,
+        "word": "吴艳妮母亲回应女儿再次夺冠",
+        "onboard_time": 1716155891,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162743,
+        "num": 162743,
+        "word": "什么叫直升机硬着陆",
+        "onboard_time": 1716167661,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 160168,
+        "num": 160168,
+        "word": "郭敬明晒与陈都灵合照",
+        "onboard_time": 1716164418,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154711,
+        "num": 154711,
+        "word": "南大毕业生论文致谢第一句很特殊",
+        "onboard_time": 1716160635,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 150270,
+        "num": 150270,
+        "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
+        "onboard_time": 1716140712,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140909,
+        "num": 140909,
+        "word": "气血不足最怕的三个动作",
+        "onboard_time": 1716167479,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137695,
+        "num": 137695,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1716131361,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131340,
+        "num": 131340,
+        "word": "日本女子挺9个月孕肚为老公准备30天量晚饭",
+        "onboard_time": 1716122657,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130729,
+        "num": 130729,
+        "word": "五年了 还得是张若昀",
+        "onboard_time": 1716132500,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128168,
+        "num": 128168,
+        "word": "森林狼vs掘金",
+        "onboard_time": 1716166579,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126211,
+        "num": 126211,
+        "word": "王俊凯蔡依林同台",
+        "onboard_time": 1716126261,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#要督促落实全面从严治党责任#"
+    }
+  }
+}
