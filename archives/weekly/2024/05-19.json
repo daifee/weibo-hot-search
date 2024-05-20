@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716239811435,
+  "endTime": 1716240880448,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -5923,20 +5923,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 47467,
+      "num": 31678,
+      "word": "一百年前国外的婴儿车",
+      "onboard_time": 1716232151,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 47124,
       "num": 389477,
       "word": "5000年前老祖宗就拿捏了粘土特效",
       "onboard_time": 1716045679,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 45471,
-      "num": 31678,
-      "word": "一百年前国外的婴儿车",
-      "onboard_time": 1716232151,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 45301,
@@ -6211,6 +6211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21733,
+      "num": 25121,
+      "word": "刘亦菲520开屏",
+      "onboard_time": 1716232930,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20817,
+      "num": 25116,
+      "word": "西班牙召回驻阿根廷大使",
+      "onboard_time": 1716239529,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 19555,
       "num": 19555,
       "word": "2024MSI",
@@ -6225,14 +6241,6 @@
       "onboard_time": 1716075134,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19029,
-      "num": 25121,
-      "word": "刘亦菲520开屏",
-      "onboard_time": 1716232930,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 17985,
@@ -6283,20 +6291,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 14658,
+      "num": 25119,
+      "word": "这些人不适合服用短效避孕药",
+      "onboard_time": 1716236469,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14419,
       "num": 169266,
       "word": "乐见潮向现场超出片",
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13338,
-      "num": 25119,
-      "word": "这些人不适合服用短效避孕药",
-      "onboard_time": 1716236469,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13183,
@@ -6313,14 +6321,6 @@
       "onboard_time": 1716142813,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11839,
-      "num": 25116,
-      "word": "西班牙召回驻阿根廷大使",
-      "onboard_time": 1716239529,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 11636,

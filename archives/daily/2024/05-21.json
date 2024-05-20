@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716239811435,
+  "endTime": 1716240880448,
   "band_list": [
     {
       "raw_hot": 1182657,
@@ -419,7 +419,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45471,
+      "raw_hot": 47467,
       "num": 31678,
       "word": "一百年前国外的婴儿车",
       "onboard_time": 1716232151,
@@ -499,12 +499,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 19029,
+      "raw_hot": 21733,
       "num": 25121,
       "word": "刘亦菲520开屏",
       "onboard_time": 1716232930,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20817,
+      "num": 25116,
+      "word": "西班牙召回驻阿根廷大使",
+      "onboard_time": 1716239529,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 15159,
@@ -531,7 +539,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 13338,
+      "raw_hot": 14658,
       "num": 25119,
       "word": "这些人不适合服用短效避孕药",
       "onboard_time": 1716236469,
@@ -545,14 +553,6 @@
       "onboard_time": 1716226752,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11839,
-      "num": 25116,
-      "word": "西班牙召回驻阿根廷大使",
-      "onboard_time": 1716239529,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 11636,
