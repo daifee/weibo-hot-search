@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716258672695,
+  "endTime": 1716259321039,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -4873,6 +4873,14 @@
       "onboard_time": 1715405120,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 925890,
+      "num": 925890,
+      "word": "你的核酸检测费退了吗",
+      "onboard_time": 1716257722,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 923670,
@@ -11691,6 +11699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 517886,
+      "num": 225988,
+      "word": "你昨晚睡了几小时",
+      "onboard_time": 1716257900,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 517722,
       "num": 291764,
       "word": "邓超问孙俪能回家了吗",
@@ -12363,6 +12379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495494,
+      "num": 495494,
+      "word": "DNF手游补偿公告",
+      "onboard_time": 1716257418,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 495362,
       "num": 495362,
       "word": "越共中央建议苏林担任国家主席",
@@ -12723,14 +12747,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 483421,
-      "num": 304511,
-      "word": "DNF手游补偿公告",
-      "onboard_time": 1716257418,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 483109,
       "num": 469772,
       "word": "咬伤3岁男童恶犬已被打死",
@@ -12897,14 +12913,6 @@
       "onboard_time": 1714964058,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 478127,
-      "num": 299596,
-      "word": "你的核酸检测费退了吗",
-      "onboard_time": 1716257722,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 478124,
@@ -16187,6 +16195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398695,
+      "num": 398695,
+      "word": "谁敢相信这是魏大勋啊",
+      "onboard_time": 1716258020,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398694,
       "num": 398694,
       "word": "WBG打野Tarzan",
@@ -18265,6 +18281,14 @@
       "onboard_time": 1715147121,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 350903,
+      "num": 350903,
+      "word": "郭有才为啥火",
+      "onboard_time": 1716258081,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 350900,
@@ -22483,14 +22507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278011,
-      "num": 278011,
-      "word": "谁敢相信这是魏大勋啊",
-      "onboard_time": 1716258020,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 277909,
       "num": 277909,
       "word": "单依纯怎么没上歌手",
@@ -23937,14 +23953,6 @@
       "onboard_time": 1715917999,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260044,
-      "num": 220999,
-      "word": "你昨晚睡了几小时",
-      "onboard_time": 1716257900,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 259851,
@@ -25713,14 +25721,6 @@
       "onboard_time": 1714576818,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 239432,
-      "num": 239432,
-      "word": "郭有才为啥火",
-      "onboard_time": 1716258081,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 239392,
@@ -33819,6 +33819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190299,
+      "num": 234822,
+      "word": "一个普通女孩的考公七年之路",
+      "onboard_time": 1716258199,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190284,
       "num": 190284,
       "word": "邓子越演得真好",
@@ -35625,6 +35633,14 @@
       "onboard_time": 1715480897,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181796,
+      "num": 181796,
+      "word": "关晓彤代言的天然呆成老赖",
+      "onboard_time": 1716258859,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 181757,
@@ -43315,14 +43331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144262,
-      "num": 144262,
-      "word": "一个普通女孩的考公七年之路",
-      "onboard_time": 1716258199,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144245,
       "num": 144245,
       "word": "迪丽热巴开推2内场路透",
@@ -45243,6 +45251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135455,
+      "num": 135455,
+      "word": "小伙夜跑多看一眼救下女孩",
+      "onboard_time": 1716254600,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 135451,
       "num": 1249791,
       "word": "小满的一幕幕画面太有爱了",
@@ -45265,14 +45281,6 @@
       "onboard_time": 1715913257,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135369,
-      "num": 135369,
-      "word": "小伙夜跑多看一眼救下女孩",
-      "onboard_time": 1716254600,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 135329,
@@ -47713,6 +47721,14 @@
       "onboard_time": 1715625312,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123558,
+      "num": 123558,
+      "word": "88VIP这波大额券诚意拉满",
+      "onboard_time": 1716259159,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 123546,
@@ -50723,6 +50739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106874,
+      "num": 106874,
+      "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
+      "onboard_time": 1716259100,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106871,
       "num": 166243,
       "word": "支付宝回应用户网购保险被远程录屏",
@@ -51915,6 +51939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96520,
+      "num": 96520,
+      "word": "宋亚轩被错认成鹿晗",
+      "onboard_time": 1716259219,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96494,
       "num": 89842,
       "word": "为什么叶轻眉的人气那么高",
@@ -52017,6 +52049,14 @@
       "onboard_time": 1714523476,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 95023,
+      "num": 95023,
+      "word": "南京10元咖啡",
+      "onboard_time": 1716259278,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 95016,
