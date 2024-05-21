@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716291349544,
+  "endTime": 1716294876929,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -57,6 +57,14 @@
       "onboard_time": 1716126141,
       "rank": 21,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 3798478,
+      "num": 3798478,
+      "word": "蔡徐坤范思哲全球品牌代言人",
+      "onboard_time": 1716291198,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3542478,
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1144080,
+      "num": 1144080,
+      "word": "新航客机死亡上升至2人",
+      "onboard_time": 1716290718,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1143128,
       "num": 1143128,
       "word": "黄俊捷不参演赴山海",
@@ -507,20 +523,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1110447,
-      "num": 1110447,
-      "word": "新航客机死亡上升至2人",
-      "onboard_time": 1716290718,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1105756,
       "num": 1080476,
       "word": "伊朗总统直升机残骸已找到",
       "onboard_time": 1716175700,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1096210,
+      "num": 1096210,
+      "word": "王婆说媒相亲已婚男已离婚",
+      "onboard_time": 1716291318,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1085291,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1716171678,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 668877,
+      "num": 528863,
+      "word": "Jennie曾拒绝李胜利的邀请",
+      "onboard_time": 1716294018,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 668805,
@@ -1979,12 +2003,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 410425,
+      "num": 410425,
+      "word": "中国终将实现完全统一",
+      "onboard_time": 1716294318,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 408250,
       "num": 281510,
       "word": "戴珍珠耳环的少女 意外的颜料",
       "onboard_time": 1716129501,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 407744,
+      "num": 407744,
+      "word": "外交部回应布林肯祝贺赖清德就职",
+      "onboard_time": 1716292037,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 406771,
@@ -3099,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270672,
+      "num": 270672,
+      "word": "赵昭仪 姐你上楼梯呢",
+      "onboard_time": 1716293779,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270459,
       "num": 270459,
       "word": "以为是格莱美结果是歌手",
@@ -3257,6 +3305,14 @@
       "onboard_time": 1716181282,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 254381,
+      "num": 254381,
+      "word": "香缇莫唱周杰伦最长的电影",
+      "onboard_time": 1716294137,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 253746,
@@ -3617,6 +3673,14 @@
       "onboard_time": 1716100158,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223260,
+      "num": 223260,
+      "word": "武功山失温遇难女孩同伴曾打电话求救",
+      "onboard_time": 1716294318,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222482,
@@ -4403,6 +4467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193896,
+      "num": 193896,
+      "word": "钟楚曦侯雯元 戛纳",
+      "onboard_time": 1716291437,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193882,
       "num": 193882,
       "word": "业内人士力挺黄俊捷",
@@ -4521,6 +4593,14 @@
       "onboard_time": 1716124522,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188720,
+      "num": 188720,
+      "word": "4小孩河边洗澡两人溺亡同行人获刑11年",
+      "onboard_time": 1716294438,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188283,
@@ -5995,6 +6075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134680,
+      "num": 134680,
+      "word": "2024LPL",
+      "onboard_time": 1716294739,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134435,
       "num": 134435,
       "word": "徐明浩大喇喊话不要插队",
@@ -6091,6 +6179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131733,
+      "num": 131733,
+      "word": "黄子韬孙千徐志胜自拍",
+      "onboard_time": 1716293900,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131535,
       "num": 131535,
       "word": "言冰云一团冰包裹着的火",
@@ -6177,6 +6273,14 @@
       "onboard_time": 1716188240,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128891,
+      "num": 128891,
+      "word": "薛之谦广州",
+      "onboard_time": 1716292457,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 128588,
@@ -6328,6 +6432,14 @@
       "word": "种地吧观后感",
       "onboard_time": 1716189978,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125234,
+      "num": 125234,
+      "word": "宋雨琦沈小婷跑男同框",
+      "onboard_time": 1716293420,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -6569,6 +6681,14 @@
       "onboard_time": 1716093077,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 120065,
+      "num": 120065,
+      "word": "新生儿减少幼儿园改办托老所",
+      "onboard_time": 1716292819,
+      "rank": 42,
+      "category": "社会议题"
     },
     {
       "raw_hot": 119988,
@@ -7051,6 +7171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 108279,
+      "num": 108279,
+      "word": "又幸福了纯爱大皇子",
+      "onboard_time": 1716294857,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108083,
       "num": 120277,
       "word": "从今以后我就是你的靠山",
@@ -7073,14 +7201,6 @@
       "onboard_time": 1716273260,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107027,
-      "num": 107027,
-      "word": "王婆说媒相亲已婚男已离婚",
-      "onboard_time": 1716291318,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106514,
@@ -7129,6 +7249,14 @@
       "onboard_time": 1716104298,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104429,
+      "num": 483301,
+      "word": "嫌室友9元买1个西瓜太贵背来3麻袋",
+      "onboard_time": 1716294378,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103739,
@@ -7297,6 +7425,14 @@
       "onboard_time": 1716209178,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99068,
+      "num": 311921,
+      "word": "因为我是你 所以我爱你",
+      "onboard_time": 1716292819,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98962,
@@ -8417,6 +8553,14 @@
       "onboard_time": 1716061151,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7726,
+      "num": 95206,
+      "word": "鸣潮也有自己的商务殷语",
+      "onboard_time": 1716294857,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 6688,

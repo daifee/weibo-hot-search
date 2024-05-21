@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/05/21 19:35:49
+本榜单时间：2024/01/01 00:21:05 ~ 2024/05/21 20:34:36
 </p>
 </blockquote>
 <p>
@@ -1125,6 +1125,12 @@ SM承认柳智敏恋情（热度：4051630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%8C%83%E6%80%9D%E5%93%B2%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%23" target="weibo">
+蔡徐坤范思哲全球品牌代言人（热度：3798478）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E6%95%99%E6%8E%88%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E4%B8%8D%E5%AE%9E%23" target="weibo">
 华中农大教授回应学生举报不实（热度：3794387）
 </a>
@@ -1805,12 +1811,6 @@ Prada玄学（热度：3331937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B0%81%E4%B8%8011%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8KTV%E8%A2%AB%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%BC%BA%E6%9A%B4%23" target="weibo">
 开封一11岁女生在KTV被未成年人强暴（热度：2996543）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%85%8D%E5%8D%95%23" target="weibo">
-淘宝免单（热度：2994807）
 </a>
 </li>
 

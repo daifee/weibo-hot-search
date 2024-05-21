@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1716291349544,
+  "endTime": 1716294876929,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1483,6 +1483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 3798478,
+      "num": 3798478,
+      "word": "蔡徐坤范思哲全球品牌代言人",
+      "onboard_time": 1716291198,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3794387,
       "num": 873503,
       "word": "华中农大教授回应学生举报不实",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704202593,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2994807,
-      "num": 2994807,
-      "word": "淘宝免单",
-      "onboard_time": 1714977378,
-      "rank": 49,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
