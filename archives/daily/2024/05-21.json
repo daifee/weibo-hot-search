@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716301089862,
+  "endTime": 1716302085387,
   "band_list": [
     {
       "raw_hot": 3798478,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1542568,
+      "num": 716303,
+      "word": "李佳琦回应参加披哥",
+      "onboard_time": 1716297620,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1498895,
       "num": 1498895,
       "word": "医院通知退核酸检测费市民怀疑是诈骗",
@@ -97,14 +105,6 @@
       "onboard_time": 1716269360,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1429900,
-      "num": 716303,
-      "word": "李佳琦回应参加披哥",
-      "onboard_time": 1716297620,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 1405997,
@@ -211,6 +211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1077420,
+      "num": 542714,
+      "word": "中方要求以色列立即停止军事进攻拉法",
+      "onboard_time": 1716297679,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1021270,
       "num": 815612,
       "word": "刘亦菲回复舒淇",
@@ -241,14 +249,6 @@
       "onboard_time": 1716278299,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 875185,
-      "num": 542714,
-      "word": "中方要求以色列立即停止军事进攻拉法",
-      "onboard_time": 1716297679,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 856787,
@@ -507,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 500398,
+      "num": 500398,
+      "word": "二皇子人设",
+      "onboard_time": 1716300801,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 499720,
       "num": 499720,
       "word": "有个叫范闲的人要做我靠山",
@@ -561,6 +569,14 @@
       "onboard_time": 1716253819,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 473468,
+      "num": 473468,
+      "word": "请问这是男生女生拿命来吗",
+      "onboard_time": 1716296660,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 469898,
@@ -747,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371643,
+      "num": 337557,
+      "word": "舒淇穿洞洞鞋",
+      "onboard_time": 1716298940,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 360267,
       "num": 360267,
       "word": "奔跑吧宋雨琦",
@@ -827,28 +851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326735,
-      "num": 326735,
-      "word": "请问这是男生女生拿命来吗",
-      "onboard_time": 1716296660,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 321305,
       "num": 321305,
       "word": "蒋敦豪 赫马佛洛狄忒斯",
       "onboard_time": 1716263238,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 321154,
-      "num": 321154,
-      "word": "舒淇穿洞洞鞋",
-      "onboard_time": 1716298940,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 320293,
@@ -873,6 +881,14 @@
       "onboard_time": 1716281539,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318619,
+      "num": 318619,
+      "word": "赵丽颖T恤印的是狗头",
+      "onboard_time": 1716301760,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317303,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1716275358,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277138,
+      "num": 277138,
+      "word": "四川自贡一公交车上发生伤人事件",
+      "onboard_time": 1716300921,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 274323,
@@ -1179,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234153,
+      "num": 234153,
+      "word": "蔡徐坤同款售罄",
+      "onboard_time": 1716301340,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233098,
       "num": 182722,
       "word": "西班牙召回驻阿根廷大使",
@@ -1193,6 +1225,14 @@
       "onboard_time": 1716286999,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232598,
+      "num": 232598,
+      "word": "付辛博演技",
+      "onboard_time": 1716301760,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 232097,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1716269477,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216585,
+      "num": 216585,
+      "word": "台湾地铁发生持刀伤人事件",
+      "onboard_time": 1716300621,
+      "rank": 40,
+      "category": "社会负面"
     },
     {
       "raw_hot": 213251,
@@ -1379,14 +1427,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 200352,
-      "num": 200352,
-      "word": "二皇子人设",
-      "onboard_time": 1716300801,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198100,
       "num": 198100,
       "word": "张本智和称莎头是最棒的",
@@ -1499,6 +1539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193789,
+      "num": 193789,
+      "word": "指甲的半月痕多少代表着什么",
+      "onboard_time": 1716299359,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193296,
       "num": 193296,
       "word": "莫文蔚鸟巢",
@@ -1561,14 +1609,6 @@
       "onboard_time": 1716282619,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 183743,
-      "num": 183743,
-      "word": "指甲的半月痕多少代表着什么",
-      "onboard_time": 1716299359,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 183024,
@@ -1691,6 +1731,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 167147,
+      "num": 167147,
+      "word": "范闲高马尾大波浪",
+      "onboard_time": 1716301101,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166971,
       "num": 166971,
       "word": "奔跑吧飞椅又回归了",
@@ -1755,6 +1803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 161185,
+      "num": 161185,
+      "word": "张若昀为什么不能改名叫张姐",
+      "onboard_time": 1716301700,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159906,
       "num": 159906,
       "word": "背着善宰跑直播",
@@ -1817,14 +1873,6 @@
       "onboard_time": 1716269780,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155290,
-      "num": 155290,
-      "word": "台湾地铁发生持刀伤人事件",
-      "onboard_time": 1716300621,
-      "rank": 40,
-      "category": "社会负面"
     },
     {
       "raw_hot": 154565,
@@ -1979,8 +2027,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 145923,
-      "num": 145923,
+      "raw_hot": 146625,
+      "num": 146625,
       "word": "留学生半个小时做三道菜",
       "onboard_time": 1716298699,
       "rank": 42,
@@ -2027,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142942,
+      "num": 142942,
+      "word": "重生之我在爽剧里当演员",
+      "onboard_time": 1716301280,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142757,
       "num": 142757,
       "word": "头一次见这么用心的礼物",
@@ -2049,14 +2105,6 @@
       "onboard_time": 1716262759,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141326,
-      "num": 141326,
-      "word": "四川自贡一公交车上发生伤人事件",
-      "onboard_time": 1716300921,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 140986,
@@ -2083,6 +2131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135804,
+      "num": 135804,
+      "word": "天津津门虎1比1山东泰山",
+      "onboard_time": 1716302001,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135455,
       "num": 135455,
       "word": "小伙夜跑多看一眼救下女孩",
@@ -2097,6 +2153,14 @@
       "onboard_time": 1716211520,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 133854,
+      "num": 133854,
+      "word": "蕾哈娜直播带货",
+      "onboard_time": 1716302060,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 133822,
@@ -2121,6 +2185,14 @@
       "onboard_time": 1716259820,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132852,
+      "num": 1041868,
+      "word": "港珠澳大桥今年出入境客流破1000万人次",
+      "onboard_time": 1716298040,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132726,
@@ -2313,14 +2385,6 @@
       "onboard_time": 1716272719,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123374,
-      "num": 1041868,
-      "word": "港珠澳大桥今年出入境客流破1000万人次",
-      "onboard_time": 1716298040,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122853,
