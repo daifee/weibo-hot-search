@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716322827497,
+  "endTime": 1716323680420,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -58931,6 +58931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14878,
+      "num": 16523,
+      "word": "奶奶把小狗举起对着监控",
+      "onboard_time": 1716317711,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14844,
       "num": 25118,
       "word": "今天穿什么",
@@ -58947,12 +58955,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 14652,
-      "num": 15461,
-      "word": "奶奶把小狗举起对着监控",
-      "onboard_time": 1716317711,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 14655,
+      "num": 16511,
+      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
+      "onboard_time": 1716322570,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 14419,
@@ -59017,14 +59025,6 @@
       "onboard_time": 1714940110,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 13258,
-      "num": 15457,
-      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
-      "onboard_time": 1716322570,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 13166,
@@ -59104,6 +59104,14 @@
       "word": "父亲怕41岁女儿迷路手绘回家地图",
       "onboard_time": 1716142813,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12098,
+      "num": 16476,
+      "word": "为新生鸟宝宝命名",
+      "onboard_time": 1716323590,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

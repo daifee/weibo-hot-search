@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716322827497,
+  "endTime": 1716323680420,
   "band_list": [
     {
       "raw_hot": 1284659,
@@ -475,16 +475,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14652,
-      "num": 15461,
+      "raw_hot": 14878,
+      "num": 16523,
       "word": "奶奶把小狗举起对着监控",
       "onboard_time": 1716317711,
       "rank": 42,
       "category": "幽默"
     },
     {
-      "raw_hot": 13258,
-      "num": 15457,
+      "raw_hot": 14655,
+      "num": 16511,
       "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
       "onboard_time": 1716322570,
       "rank": 47,
@@ -496,6 +496,14 @@
       "word": "单亲爸爸思念妻子泪如雨下",
       "onboard_time": 1716312313,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12098,
+      "num": 16476,
+      "word": "为新生鸟宝宝命名",
+      "onboard_time": 1716323590,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
