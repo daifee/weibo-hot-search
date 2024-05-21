@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716302085387,
+  "endTime": 1716304807423,
   "band_list": [
     {
       "raw_hot": 3798478,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2275807,
+      "num": 471620,
+      "word": "森林北回应",
+      "onboard_time": 1716302781,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2272282,
       "num": 2272282,
       "word": "哥哥想替过世妹妹见周杰伦遭大麦拒绝",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1542568,
-      "num": 716303,
+      "num": 840042,
       "word": "李佳琦回应参加披哥",
       "onboard_time": 1716297620,
       "rank": 22,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1077420,
-      "num": 542714,
+      "num": 890464,
       "word": "中方要求以色列立即停止军事进攻拉法",
       "onboard_time": 1716297679,
       "rank": 40,
@@ -291,6 +299,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 830900,
+      "num": 830900,
+      "word": "夫妻俩因为同一个习惯双双确诊结直肠癌",
+      "onboard_time": 1716303200,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803629,
       "num": 803629,
       "word": "微信转账流行备注自愿赠与了吗",
@@ -329,6 +345,14 @@
       "onboard_time": 1716268521,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756502,
+      "num": 536242,
+      "word": "二皇子人设",
+      "onboard_time": 1716300801,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 756355,
@@ -507,14 +531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 500398,
-      "num": 500398,
-      "word": "二皇子人设",
-      "onboard_time": 1716300801,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 499720,
       "num": 499720,
       "word": "有个叫范闲的人要做我靠山",
@@ -641,6 +657,14 @@
       "onboard_time": 1716262399,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 423305,
+      "num": 423305,
+      "word": "赵丽颖T恤印的是狗头",
+      "onboard_time": 1716301760,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 420206,
@@ -819,6 +843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 339849,
+      "num": 247073,
+      "word": "蕾哈娜直播带货",
+      "onboard_time": 1716302060,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333426,
       "num": 333426,
       "word": "伊朗总统葬礼23日举行",
@@ -851,6 +883,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327278,
+      "num": 240832,
+      "word": "付辛博演技",
+      "onboard_time": 1716301760,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 322895,
+      "num": 244902,
+      "word": "迪丽热巴祝赵昭仪生日大快乐",
+      "onboard_time": 1716303439,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321305,
       "num": 321305,
       "word": "蒋敦豪 赫马佛洛狄忒斯",
@@ -881,14 +929,6 @@
       "onboard_time": 1716281539,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318619,
-      "num": 318619,
-      "word": "赵丽颖T恤印的是狗头",
-      "onboard_time": 1716301760,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 317303,
@@ -1227,14 +1267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 232598,
-      "num": 232598,
-      "word": "付辛博演技",
-      "onboard_time": 1716301760,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232097,
       "num": 154936,
       "word": "一百年前国外的婴儿车",
@@ -1523,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194035,
+      "num": 194035,
+      "word": "指甲的半月痕多少代表着什么",
+      "onboard_time": 1716299359,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193962,
       "num": 193962,
       "word": "您的外卖已由特警送达",
@@ -1537,14 +1577,6 @@
       "onboard_time": 1716291437,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 193789,
-      "num": 193789,
-      "word": "指甲的半月痕多少代表着什么",
-      "onboard_time": 1716299359,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 193296,
@@ -1593,6 +1625,14 @@
       "onboard_time": 1716294739,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184556,
+      "num": 184556,
+      "word": "起猛了以为李峋回来了",
+      "onboard_time": 1716304040,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 183970,
@@ -1667,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177506,
+      "num": 177506,
+      "word": "林婉儿温柔风暴修罗场",
+      "onboard_time": 1716303019,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176280,
       "num": 176280,
       "word": "狐妖小红娘月红篇",
@@ -1691,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175521,
+      "num": 175521,
+      "word": "张若昀为什么不能改名叫张姐",
+      "onboard_time": 1716301700,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175191,
       "num": 175191,
       "word": "成毅赴山海",
@@ -1713,6 +1769,14 @@
       "onboard_time": 1716250760,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172233,
+      "num": 172233,
+      "word": "决战考研",
+      "onboard_time": 1716304161,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 169099,
@@ -1801,14 +1865,6 @@
       "onboard_time": 1716266901,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 161185,
-      "num": 161185,
-      "word": "张若昀为什么不能改名叫张姐",
-      "onboard_time": 1716301700,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 159906,
@@ -2028,7 +2084,7 @@
     },
     {
       "raw_hot": 146625,
-      "num": 146625,
+      "num": 172223,
       "word": "留学生半个小时做三道菜",
       "onboard_time": 1716298699,
       "rank": 42,
@@ -2153,14 +2209,6 @@
       "onboard_time": 1716211520,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 133854,
-      "num": 133854,
-      "word": "蕾哈娜直播带货",
-      "onboard_time": 1716302060,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 133822,
@@ -2427,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119772,
+      "num": 172211,
+      "word": "汪峰承认恋情",
+      "onboard_time": 1716191360,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119743,
       "num": 119743,
       "word": "易烊千玺牛仔衬衫西装叠搭造型",
@@ -2465,6 +2521,14 @@
       "onboard_time": 1716278658,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118400,
+      "num": 172208,
+      "word": "WE大名单",
+      "onboard_time": 1716302721,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 116299,

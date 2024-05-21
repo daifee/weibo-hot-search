@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716302085387,
+  "endTime": 1716304807423,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -705,6 +705,14 @@
       "onboard_time": 1716250400,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2275807,
+      "num": 471620,
+      "word": "森林北回应",
+      "onboard_time": 1716302781,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2272282,
@@ -1764,7 +1772,7 @@
     },
     {
       "raw_hot": 1542568,
-      "num": 716303,
+      "num": 840042,
       "word": "李佳琦回应参加披哥",
       "onboard_time": 1716297620,
       "rank": 22,
@@ -4068,7 +4076,7 @@
     },
     {
       "raw_hot": 1077420,
-      "num": 542714,
+      "num": 890464,
       "word": "中方要求以色列立即停止军事进攻拉法",
       "onboard_time": 1716297679,
       "rank": 40,
@@ -6131,6 +6139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 830900,
+      "num": 830900,
+      "word": "夫妻俩因为同一个习惯双双确诊结直肠癌",
+      "onboard_time": 1716303200,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 830385,
       "num": 830385,
       "word": "福建舰也太太太太太太大了",
@@ -7009,6 +7025,14 @@
       "onboard_time": 1715425040,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 756502,
+      "num": 536242,
+      "word": "二皇子人设",
+      "onboard_time": 1716300801,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 756363,
@@ -12627,14 +12651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 500398,
-      "num": 500398,
-      "word": "二皇子人设",
-      "onboard_time": 1716300801,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 500284,
       "num": 500284,
       "word": "71岁的奶奶身材堪比少女",
@@ -15408,6 +15424,14 @@
       "word": "汪涵cue王一博",
       "onboard_time": 1715354420,
       "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 423305,
+      "num": 423305,
+      "word": "赵丽颖T恤印的是狗头",
+      "onboard_time": 1716301760,
+      "rank": 23,
       "category": "作品衍生"
     },
     {
@@ -19379,6 +19403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339849,
+      "num": 247073,
+      "word": "蕾哈娜直播带货",
+      "onboard_time": 1716302060,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339805,
       "num": 339805,
       "word": "王曼昱1比3巴特拉",
@@ -20163,6 +20195,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 327278,
+      "num": 240832,
+      "word": "付辛博演技",
+      "onboard_time": 1716301760,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327139,
       "num": 327139,
       "word": "刘雯MetGala",
@@ -20369,6 +20409,14 @@
       "onboard_time": 1715438062,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 322895,
+      "num": 244902,
+      "word": "迪丽热巴祝赵昭仪生日大快乐",
+      "onboard_time": 1716303439,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 322796,
@@ -20625,14 +20673,6 @@
       "onboard_time": 1715919321,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318619,
-      "num": 318619,
-      "word": "赵丽颖T恤印的是狗头",
-      "onboard_time": 1716301760,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 317703,
@@ -27265,14 +27305,6 @@
       "onboard_time": 1714823239,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 232598,
-      "num": 232598,
-      "word": "付辛博演技",
-      "onboard_time": 1716301760,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 232533,
@@ -33939,6 +33971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194035,
+      "num": 194035,
+      "word": "指甲的半月痕多少代表着什么",
+      "onboard_time": 1716299359,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194025,
       "num": 194025,
       "word": "狼队第五人格",
@@ -34001,14 +34041,6 @@
       "onboard_time": 1715256018,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193789,
-      "num": 193789,
-      "word": "指甲的半月痕多少代表着什么",
-      "onboard_time": 1716299359,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 193786,
@@ -36163,6 +36195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184556,
+      "num": 184556,
+      "word": "起猛了以为李峋回来了",
+      "onboard_time": 1716304040,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184541,
       "num": 184541,
       "word": "5天说没就没",
@@ -37539,6 +37579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177506,
+      "num": 177506,
+      "word": "林婉儿温柔风暴修罗场",
+      "onboard_time": 1716303019,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177389,
       "num": 177389,
       "word": "LWX 老头杯",
@@ -37961,6 +38009,14 @@
       "onboard_time": 1715259678,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175521,
+      "num": 175521,
+      "word": "张若昀为什么不能改名叫张姐",
+      "onboard_time": 1716301700,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175475,
@@ -38721,6 +38777,14 @@
       "onboard_time": 1715094381,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 172233,
+      "num": 172233,
+      "word": "决战考研",
+      "onboard_time": 1716304161,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 172198,
@@ -41089,14 +41153,6 @@
       "onboard_time": 1714878137,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161185,
-      "num": 161185,
-      "word": "张若昀为什么不能改名叫张姐",
-      "onboard_time": 1716301700,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161149,
@@ -44196,7 +44252,7 @@
     },
     {
       "raw_hot": 146625,
-      "num": 146625,
+      "num": 172223,
       "word": "留学生半个小时做三道菜",
       "onboard_time": 1716298699,
       "rank": 42,
@@ -47121,14 +47177,6 @@
       "onboard_time": 1716121097,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 133854,
-      "num": 133854,
-      "word": "蕾哈娜直播带货",
-      "onboard_time": 1716302060,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 133842,
@@ -50472,6 +50520,14 @@
       "word": "MSI赛程",
       "onboard_time": 1714921880,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 118400,
+      "num": 172208,
+      "word": "WE大名单",
+      "onboard_time": 1716302721,
+      "rank": 47,
       "category": "电竞"
     },
     {
