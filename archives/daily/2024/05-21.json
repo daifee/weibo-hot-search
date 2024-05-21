@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716298453780,
+  "endTime": 1716301089862,
   "band_list": [
     {
       "raw_hot": 3798478,
@@ -97,6 +97,14 @@
       "onboard_time": 1716269360,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1429900,
+      "num": 716303,
+      "word": "李佳琦回应参加披哥",
+      "onboard_time": 1716297620,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1405997,
@@ -233,6 +241,14 @@
       "onboard_time": 1716278299,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 875185,
+      "num": 542714,
+      "word": "中方要求以色列立即停止军事进攻拉法",
+      "onboard_time": 1716297679,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 856787,
@@ -403,14 +419,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 606338,
-      "num": 606338,
-      "word": "李佳琦回应参加披哥",
-      "onboard_time": 1716297620,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 603740,
       "num": 603740,
       "word": "电视开机率下降到不足三成",
@@ -475,6 +483,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 514314,
+      "num": 514314,
+      "word": "又幸福了纯爱大皇子",
+      "onboard_time": 1716294857,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511275,
       "num": 511275,
       "word": "马龙退赛粉丝要求大麦退票",
@@ -521,14 +537,6 @@
       "onboard_time": 1716259700,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 483388,
-      "num": 483388,
-      "word": "又幸福了纯爱大皇子",
-      "onboard_time": 1716294857,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 478735,
@@ -675,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 400570,
+      "num": 400570,
+      "word": "RNG 别虐泉",
+      "onboard_time": 1716297499,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 399588,
       "num": 399588,
       "word": "赵昭仪 姐你上楼梯呢",
@@ -811,12 +827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326735,
+      "num": 326735,
+      "word": "请问这是男生女生拿命来吗",
+      "onboard_time": 1716296660,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 321305,
       "num": 321305,
       "word": "蒋敦豪 赫马佛洛狄忒斯",
       "onboard_time": 1716263238,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321154,
+      "num": 321154,
+      "word": "舒淇穿洞洞鞋",
+      "onboard_time": 1716298940,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 320293,
@@ -889,14 +921,6 @@
       "onboard_time": 1716265821,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301043,
-      "num": 186935,
-      "word": "中方要求以色列立即停止军事进攻拉法",
-      "onboard_time": 1716297679,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 298933,
@@ -1004,7 +1028,7 @@
     },
     {
       "raw_hot": 265570,
-      "num": 221706,
+      "num": 256976,
       "word": "朱丹赛道被颖儿闯进去了",
       "onboard_time": 1716296958,
       "rank": 32,
@@ -1059,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255343,
+      "num": 255343,
+      "word": "蕾哈娜 潍坊的爱",
+      "onboard_time": 1716299120,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254381,
       "num": 254381,
       "word": "香缇莫唱周杰伦最长的电影",
@@ -1076,7 +1108,7 @@
     },
     {
       "raw_hot": 252313,
-      "num": 509653,
+      "num": 543491,
       "word": "嫌室友9元买1个西瓜太贵背来3麻袋",
       "onboard_time": 1716294378,
       "rank": 9,
@@ -1145,14 +1177,6 @@
       "onboard_time": 1716259219,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235325,
-      "num": 192779,
-      "word": "RNG 别虐泉",
-      "onboard_time": 1716297499,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 233098,
@@ -1235,12 +1259,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 219257,
-      "num": 202231,
-      "word": "请问这是男生女生拿命来吗",
-      "onboard_time": 1716296660,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 213251,
+      "num": 213251,
+      "word": "背着善宰跑14集",
+      "onboard_time": 1716299600,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 211344,
@@ -1353,6 +1377,14 @@
       "onboard_time": 1716259278,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 200352,
+      "num": 200352,
+      "word": "二皇子人设",
+      "onboard_time": 1716300801,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 198100,
@@ -1499,6 +1531,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 185034,
+      "num": 185034,
+      "word": "青岛海牛1比1北京国安",
+      "onboard_time": 1716300440,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184794,
       "num": 184794,
       "word": "2024LPL",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1716282619,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 183743,
+      "num": 183743,
+      "word": "指甲的半月痕多少代表着什么",
+      "onboard_time": 1716299359,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 183024,
@@ -1771,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155290,
+      "num": 155290,
+      "word": "台湾地铁发生持刀伤人事件",
+      "onboard_time": 1716300621,
+      "rank": 40,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 154565,
       "num": 154565,
       "word": "花儿与少年",
@@ -1809,6 +1865,14 @@
       "onboard_time": 1716276500,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152504,
+      "num": 152504,
+      "word": "舒淇花期好长",
+      "onboard_time": 1716299420,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152145,
@@ -1915,6 +1979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 145923,
+      "num": 145923,
+      "word": "留学生半个小时做三道菜",
+      "onboard_time": 1716298699,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145314,
       "num": 145314,
       "word": "陈萍萍轮椅里的绝世神兵",
@@ -1977,6 +2049,14 @@
       "onboard_time": 1716262759,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141326,
+      "num": 141326,
+      "word": "四川自贡一公交车上发生伤人事件",
+      "onboard_time": 1716300921,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 140986,
@@ -2049,6 +2129,14 @@
       "onboard_time": 1716267260,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132122,
+      "num": 132122,
+      "word": "庆余年2",
+      "onboard_time": 1716298338,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 131733,
@@ -2227,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123374,
+      "num": 1041868,
+      "word": "港珠澳大桥今年出入境客流破1000万人次",
+      "onboard_time": 1716298040,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122853,
       "num": 122853,
       "word": "葡萄牙队公布欧洲杯大名单",
@@ -2256,6 +2352,14 @@
       "word": "谈恋爱就耽误我成为独立女性了吗",
       "onboard_time": 1716282737,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120136,
+      "num": 120136,
+      "word": "女子水龙头过滤器发现蠕动活虫",
+      "onboard_time": 1716299300,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2337,14 +2441,6 @@
       "onboard_time": 1716281360,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 113500,
-      "num": 113500,
-      "word": "庆余年2",
-      "onboard_time": 1716298338,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 111963,
@@ -2833,14 +2929,6 @@
       "onboard_time": 1716265521,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 35676,
-      "num": 1041868,
-      "word": "港珠澳大桥今年出入境客流破1000万人次",
-      "onboard_time": 1716298040,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34480,

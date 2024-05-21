@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716298453780,
+  "endTime": 1716301089862,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2153,6 +2153,14 @@
       "onboard_time": 1715241799,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1429900,
+      "num": 716303,
+      "word": "李佳琦回应参加披哥",
+      "onboard_time": 1716297620,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1425489,
@@ -5529,6 +5537,14 @@
       "onboard_time": 1715416758,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 875185,
+      "num": 542714,
+      "word": "中方要求以色列立即停止军事进攻拉法",
+      "onboard_time": 1716297679,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 874708,
@@ -9963,14 +9979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 606338,
-      "num": 606338,
-      "word": "李佳琦回应参加披哥",
-      "onboard_time": 1716297620,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 605725,
       "num": 560753,
       "word": "沈梦辰在歌手录跑男",
@@ -12107,6 +12115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 514314,
+      "num": 514314,
+      "word": "又幸福了纯爱大皇子",
+      "onboard_time": 1716294857,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 514090,
       "num": 514090,
       "word": "动物园称死亡老虎不属于园方",
@@ -13105,14 +13121,6 @@
       "onboard_time": 1716005777,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 483388,
-      "num": 483388,
-      "word": "又幸福了纯爱大皇子",
-      "onboard_time": 1716294857,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 483109,
@@ -16569,6 +16577,14 @@
       "onboard_time": 1715838438,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400570,
+      "num": 400570,
+      "word": "RNG 别虐泉",
+      "onboard_time": 1716297499,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 400542,
@@ -20147,6 +20163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326735,
+      "num": 326735,
+      "word": "请问这是男生女生拿命来吗",
+      "onboard_time": 1716296660,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326572,
       "num": 326572,
       "word": "ZICO和Jennie合作曲初一位",
@@ -20433,6 +20457,14 @@
       "onboard_time": 1715683697,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 321154,
+      "num": 321154,
+      "word": "舒淇穿洞洞鞋",
+      "onboard_time": 1716298940,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 321090,
@@ -21545,14 +21577,6 @@
       "onboard_time": 1715857337,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301043,
-      "num": 186935,
-      "word": "中方要求以色列立即停止军事进攻拉法",
-      "onboard_time": 1716297679,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 301029,
@@ -24124,7 +24148,7 @@
     },
     {
       "raw_hot": 265570,
-      "num": 221706,
+      "num": 256976,
       "word": "朱丹赛道被颖儿闯进去了",
       "onboard_time": 1716296958,
       "rank": 32,
@@ -24995,6 +25019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255343,
+      "num": 255343,
+      "word": "蕾哈娜 潍坊的爱",
+      "onboard_time": 1716299120,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255245,
       "num": 255245,
       "word": "原来榴莲是这么采摘的",
@@ -25260,7 +25292,7 @@
     },
     {
       "raw_hot": 252313,
-      "num": 509653,
+      "num": 543491,
       "word": "嫌室友9元买1个西瓜太贵背来3麻袋",
       "onboard_time": 1716294378,
       "rank": 9,
@@ -26857,14 +26889,6 @@
       "onboard_time": 1715152159,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 235325,
-      "num": 192779,
-      "word": "RNG 别虐泉",
-      "onboard_time": 1716297499,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 235314,
@@ -28651,14 +28675,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 219257,
-      "num": 202231,
-      "word": "请问这是男生女生拿命来吗",
-      "onboard_time": 1716296660,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 219246,
       "num": 219246,
       "word": "第60届百想艺术大赏",
@@ -29497,6 +29513,14 @@
       "onboard_time": 1716188780,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213251,
+      "num": 213251,
+      "word": "背着善宰跑14集",
+      "onboard_time": 1716299600,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 213223,
@@ -32217,6 +32241,14 @@
       "onboard_time": 1716259278,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 200352,
+      "num": 200352,
+      "word": "二皇子人设",
+      "onboard_time": 1716300801,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 200344,
@@ -35979,6 +36011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185034,
+      "num": 185034,
+      "word": "青岛海牛1比1北京国安",
+      "onboard_time": 1716300440,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184862,
       "num": 184862,
       "word": "芭莎主编说杨紫长大了",
@@ -36265,6 +36305,14 @@
       "onboard_time": 1716282619,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 183743,
+      "num": 183743,
+      "word": "指甲的半月痕多少代表着什么",
+      "onboard_time": 1716299359,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 183742,
@@ -42131,6 +42179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155290,
+      "num": 155290,
+      "word": "台湾地铁发生持刀伤人事件",
+      "onboard_time": 1716300621,
+      "rank": 40,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 155270,
       "num": 155270,
       "word": "热刺0比2曼城",
@@ -42753,6 +42809,14 @@
       "onboard_time": 1715130561,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152504,
+      "num": 152504,
+      "word": "舒淇花期好长",
+      "onboard_time": 1716299420,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152499,
@@ -44211,6 +44275,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 145923,
+      "num": 145923,
+      "word": "留学生半个小时做三道菜",
+      "onboard_time": 1716298699,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145911,
       "num": 145911,
       "word": "十年开一次的帝王凤梨开花了",
@@ -45329,6 +45401,14 @@
       "onboard_time": 1715328382,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 141326,
+      "num": 141326,
+      "word": "四川自贡一公交车上发生伤人事件",
+      "onboard_time": 1716300921,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 141307,
@@ -49283,6 +49363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123374,
+      "num": 1041868,
+      "word": "港珠澳大桥今年出入境客流破1000万人次",
+      "onboard_time": 1716298040,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123373,
       "num": 123373,
       "word": "Lehends获得FMVP",
@@ -49905,6 +49993,14 @@
       "onboard_time": 1714875378,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120136,
+      "num": 120136,
+      "word": "女子水龙头过滤器发现蠕动活虫",
+      "onboard_time": 1716299300,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120112,
@@ -57545,14 +57641,6 @@
       "onboard_time": 1714759993,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35676,
-      "num": 1041868,
-      "word": "港珠澳大桥今年出入境客流破1000万人次",
-      "onboard_time": 1716298040,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35656,

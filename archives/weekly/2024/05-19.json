@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716298453780,
+  "endTime": 1716301089862,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -313,6 +313,14 @@
       "onboard_time": 1716173718,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1429900,
+      "num": 716303,
+      "word": "李佳琦回应参加披哥",
+      "onboard_time": 1716297620,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1419911,
@@ -713,6 +721,14 @@
       "onboard_time": 1716278299,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 875185,
+      "num": 542714,
+      "word": "中方要求以色列立即停止军事进攻拉法",
+      "onboard_time": 1716297679,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 870579,
@@ -1251,14 +1267,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 606338,
-      "num": 606338,
-      "word": "李佳琦回应参加披哥",
-      "onboard_time": 1716297620,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 603740,
       "num": 603740,
       "word": "电视开机率下降到不足三成",
@@ -1523,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514314,
+      "num": 514314,
+      "word": "又幸福了纯爱大皇子",
+      "onboard_time": 1716294857,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513524,
       "num": 513524,
       "word": "汪苏泷谈参加歌手竞演收获",
@@ -1665,14 +1681,6 @@
       "onboard_time": 1716124400,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 483388,
-      "num": 483388,
-      "word": "又幸福了纯爱大皇子",
-      "onboard_time": 1716294857,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 481349,
@@ -2163,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400570,
+      "num": 400570,
+      "word": "RNG 别虐泉",
+      "onboard_time": 1716297499,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 399588,
       "num": 399588,
       "word": "赵昭仪 姐你上楼梯呢",
@@ -2651,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326735,
+      "num": 326735,
+      "word": "请问这是男生女生拿命来吗",
+      "onboard_time": 1716296660,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326474,
       "num": 303980,
       "word": "记者因报道郑俊英事件流产2次",
@@ -2721,6 +2745,14 @@
       "onboard_time": 1716039800,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321154,
+      "num": 321154,
+      "word": "舒淇穿洞洞鞋",
+      "onboard_time": 1716298940,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 320293,
@@ -2881,14 +2913,6 @@
       "onboard_time": 1716265821,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301043,
-      "num": 186935,
-      "word": "中方要求以色列立即停止军事进攻拉法",
-      "onboard_time": 1716297679,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 299802,
@@ -3268,7 +3292,7 @@
     },
     {
       "raw_hot": 265570,
-      "num": 221706,
+      "num": 256976,
       "word": "朱丹赛道被颖儿闯进去了",
       "onboard_time": 1716296958,
       "rank": 32,
@@ -3395,6 +3419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255343,
+      "num": 255343,
+      "word": "蕾哈娜 潍坊的爱",
+      "onboard_time": 1716299120,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254381,
       "num": 254381,
       "word": "香缇莫唱周杰伦最长的电影",
@@ -3420,7 +3452,7 @@
     },
     {
       "raw_hot": 252313,
-      "num": 509653,
+      "num": 543491,
       "word": "嫌室友9元买1个西瓜太贵背来3麻袋",
       "onboard_time": 1716294378,
       "rank": 9,
@@ -3659,14 +3691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235325,
-      "num": 192779,
-      "word": "RNG 别虐泉",
-      "onboard_time": 1716297499,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 234772,
       "num": 193435,
       "word": "普通女孩给男朋友准备的520礼物",
@@ -3851,14 +3875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219257,
-      "num": 202231,
-      "word": "请问这是男生女生拿命来吗",
-      "onboard_time": 1716296660,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218361,
       "num": 218361,
       "word": "年少缺钱缺爱长大豪门阔太",
@@ -3937,6 +3953,14 @@
       "onboard_time": 1716188780,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213251,
+      "num": 213251,
+      "word": "背着善宰跑14集",
+      "onboard_time": 1716299600,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 212010,
@@ -4321,6 +4345,14 @@
       "onboard_time": 1716259278,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 200352,
+      "num": 200352,
+      "word": "二皇子人设",
+      "onboard_time": 1716300801,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 200287,
@@ -4779,6 +4811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185034,
+      "num": 185034,
+      "word": "青岛海牛1比1北京国安",
+      "onboard_time": 1716300440,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184862,
       "num": 184862,
       "word": "芭莎主编说杨紫长大了",
@@ -4833,6 +4873,14 @@
       "onboard_time": 1716282619,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 183743,
+      "num": 183743,
+      "word": "指甲的半月痕多少代表着什么",
+      "onboard_time": 1716299359,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 183024,
@@ -5531,6 +5579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155290,
+      "num": 155290,
+      "word": "台湾地铁发生持刀伤人事件",
+      "onboard_time": 1716300621,
+      "rank": 40,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 155167,
       "num": 155167,
       "word": "Lehends机器人",
@@ -5592,6 +5648,14 @@
       "word": "肖战透视蕾丝造型",
       "onboard_time": 1716177982,
       "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152504,
+      "num": 152504,
+      "word": "舒淇花期好长",
+      "onboard_time": 1716299420,
+      "rank": 41,
       "category": "作品衍生"
     },
     {
@@ -5819,6 +5883,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 145923,
+      "num": 145923,
+      "word": "留学生半个小时做三道菜",
+      "onboard_time": 1716298699,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145911,
       "num": 145911,
       "word": "十年开一次的帝王凤梨开花了",
@@ -6033,6 +6105,14 @@
       "onboard_time": 1716111017,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141326,
+      "num": 141326,
+      "word": "四川自贡一公交车上发生伤人事件",
+      "onboard_time": 1716300921,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 141046,
@@ -6699,6 +6779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123374,
+      "num": 1041868,
+      "word": "港珠澳大桥今年出入境客流破1000万人次",
+      "onboard_time": 1716298040,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123373,
       "num": 123373,
       "word": "Lehends获得FMVP",
@@ -6841,6 +6929,14 @@
       "onboard_time": 1716098298,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120136,
+      "num": 120136,
+      "word": "女子水龙头过滤器发现蠕动活虫",
+      "onboard_time": 1716299300,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120096,
@@ -8361,14 +8457,6 @@
       "onboard_time": 1716265521,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 35676,
-      "num": 1041868,
-      "word": "港珠澳大桥今年出入境客流破1000万人次",
-      "onboard_time": 1716298040,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35326,
