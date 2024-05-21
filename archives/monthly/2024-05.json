@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716272780723,
+  "endTime": 1716273523771,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1979,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1471128,
+      "num": 1471128,
+      "word": "第一次意识到1万块这么有质感",
+      "onboard_time": 1716269360,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1465317,
       "num": 1465317,
       "word": "台湾附近5.3级左右地震",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1715417779,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1422096,
-      "num": 1422096,
-      "word": "第一次意识到1万块这么有质感",
-      "onboard_time": 1716269360,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 1421271,
@@ -6395,6 +6395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 793787,
+      "num": 793787,
+      "word": "具荷拉 振聋发聩的伟大发声",
+      "onboard_time": 1716269360,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 792172,
       "num": 792172,
       "word": "六道 花少北",
@@ -8411,14 +8419,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 667959,
-      "num": 667959,
-      "word": "具荷拉 振聋发聩的伟大发声",
-      "onboard_time": 1716269360,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 667854,
       "num": 667854,
       "word": "庐山瀑布",
@@ -8872,6 +8872,14 @@
       "word": "游泳教练憋气练习时意外溺亡",
       "onboard_time": 1714886418,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645965,
+      "num": 645965,
+      "word": "从美国进口血液制品致英国3万人感染艾滋等",
+      "onboard_time": 1716270979,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -10017,14 +10025,6 @@
       "onboard_time": 1714969221,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 593349,
-      "num": 593349,
-      "word": "从美国进口血液制品致英国3万人感染艾滋等",
-      "onboard_time": 1716270979,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592895,
@@ -16435,6 +16435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396609,
+      "num": 396609,
+      "word": "26岁女留学生在美失踪5天",
+      "onboard_time": 1716271399,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396588,
       "num": 396588,
       "word": "龚俊爱豆妆",
@@ -17243,6 +17251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376163,
+      "num": 376163,
+      "word": "郴州",
+      "onboard_time": 1716269900,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376031,
       "num": 376031,
       "word": "华侨大学回应孕期女老师非升即走被解聘",
@@ -18017,6 +18033,14 @@
       "onboard_time": 1714539079,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 360267,
+      "num": 360267,
+      "word": "奔跑吧宋雨琦",
+      "onboard_time": 1716271460,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 360172,
@@ -19947,14 +19971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 322450,
-      "num": 322450,
-      "word": "奔跑吧宋雨琦",
-      "onboard_time": 1716271460,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322440,
       "num": 322440,
       "word": "INB100",
@@ -21035,14 +21051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303090,
-      "num": 303090,
-      "word": "26岁女留学生在美失踪5天",
-      "onboard_time": 1716271399,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303078,
       "num": 286533,
       "word": "原来我们都错怪费可了",
@@ -22033,14 +22041,6 @@
       "onboard_time": 1715140942,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 284876,
-      "num": 284876,
-      "word": "郴州",
-      "onboard_time": 1716269900,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284874,
@@ -23937,6 +23937,14 @@
       "onboard_time": 1715604439,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262606,
+      "num": 262606,
+      "word": "美歌手持枪拍视频意外自杀",
+      "onboard_time": 1716272001,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262422,
@@ -26211,6 +26219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236613,
+      "num": 236613,
+      "word": "小S回应赵正平叫小曲线",
+      "onboard_time": 1716273318,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236570,
       "num": 236570,
       "word": "中国主持人在法国辩论节目舌战群儒",
@@ -26985,6 +27001,14 @@
       "onboard_time": 1714778293,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229193,
+      "num": 200445,
+      "word": "建议大家做事提前5分钟准备",
+      "onboard_time": 1716271818,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 229147,
@@ -31587,14 +31611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200445,
-      "num": 200445,
-      "word": "建议大家做事提前5分钟准备",
-      "onboard_time": 1716271818,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200437,
       "num": 200437,
       "word": "张艺兴祝福Red女团",
@@ -33451,6 +33467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193296,
+      "num": 193296,
+      "word": "莫文蔚鸟巢",
+      "onboard_time": 1716273080,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193224,
       "num": 193224,
       "word": "Twins巡演",
@@ -35291,6 +35315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184874,
+      "num": 184874,
+      "word": "大大方方的抠门并不丢人",
+      "onboard_time": 1716271818,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184862,
       "num": 184862,
       "word": "芭莎主编说杨紫长大了",
@@ -36713,14 +36745,6 @@
       "onboard_time": 1714954760,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177512,
-      "num": 177512,
-      "word": "美歌手持枪拍视频意外自杀",
-      "onboard_time": 1716272001,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177389,
@@ -38507,6 +38531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169099,
+      "num": 169099,
+      "word": "尤长靖参加披哥",
+      "onboard_time": 1716269959,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169090,
       "num": 99389,
       "word": "饭后散步和不散步的人有什么区别",
@@ -39473,14 +39505,6 @@
       "onboard_time": 1715005041,
       "rank": 49,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 164522,
-      "num": 164522,
-      "word": "尤长靖参加披哥",
-      "onboard_time": 1716269959,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 164444,
@@ -47427,14 +47451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127111,
-      "num": 127111,
-      "word": "大大方方的抠门并不丢人",
-      "onboard_time": 1716271818,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127044,
       "num": 127044,
       "word": "音律联觉",
@@ -48217,6 +48233,14 @@
       "onboard_time": 1715147001,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123466,
+      "num": 123466,
+      "word": "庆余年2五子齐海报",
+      "onboard_time": 1716272719,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 123455,
@@ -52891,14 +52915,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 91338,
-      "num": 91338,
-      "word": "庆余年2五子齐海报",
-      "onboard_time": 1716272719,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91304,
       "num": 1686265,
       "word": "匈牙利百年建筑散发出浓浓中国味",
@@ -53033,6 +53049,14 @@
       "onboard_time": 1714722320,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89229,
+      "num": 206051,
+      "word": "开什么车去相亲比较靠谱",
+      "onboard_time": 1716271520,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89102,
@@ -53873,14 +53897,6 @@
       "onboard_time": 1715240719,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 76156,
-      "num": 206051,
-      "word": "开什么车去相亲比较靠谱",
-      "onboard_time": 1716271520,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76141,
@@ -56283,6 +56299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38127,
+      "num": 363458,
+      "word": "中学生体考神器潜在风险不容忽视",
+      "onboard_time": 1716273080,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38022,
       "num": 310806,
       "word": "宝泉悬崖户外运动燃爆了",
@@ -56419,6 +56443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35383,
+      "num": 231767,
+      "word": "梦回08年DNF上线",
+      "onboard_time": 1716271520,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 35326,
       "num": 107285,
       "word": "导盲犬从不说不给予无限自由",
@@ -56473,14 +56505,6 @@
       "onboard_time": 1714758973,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 33553,
-      "num": 231767,
-      "word": "梦回08年DNF上线",
-      "onboard_time": 1716271520,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 33465,
@@ -56915,6 +56939,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 24900,
+      "num": 154509,
+      "word": "鸣潮比女娲会捏",
+      "onboard_time": 1716272659,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 24877,
+      "num": 96572,
+      "word": "你能认出哪张是2万一张的写真吗",
+      "onboard_time": 1716272419,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24874,
       "num": 29835,
       "word": "李娟 我的讨好型人格",
@@ -57057,14 +57097,6 @@
       "onboard_time": 1714515733,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22519,
-      "num": 93210,
-      "word": "鸣潮比女娲会捏",
-      "onboard_time": 1716272659,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 22501,
@@ -57529,14 +57561,6 @@
       "onboard_time": 1715629091,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12608,
-      "num": 90578,
-      "word": "你能认出哪张是2万一张的写真吗",
-      "onboard_time": 1716272419,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12494,

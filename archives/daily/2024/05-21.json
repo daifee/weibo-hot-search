@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716272780723,
+  "endTime": 1716273523771,
   "band_list": [
     {
       "raw_hot": 3347213,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1422096,
-      "num": 1422096,
+      "raw_hot": 1471128,
+      "num": 1471128,
       "word": "第一次意识到1万块这么有质感",
       "onboard_time": 1716269360,
       "rank": 3,
@@ -131,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 793787,
+      "num": 793787,
+      "word": "具荷拉 振聋发聩的伟大发声",
+      "onboard_time": 1716269360,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 765339,
       "num": 765339,
       "word": "湖南郴州一公园发生刑案致3死2伤",
@@ -163,12 +171,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 667959,
-      "num": 667959,
-      "word": "具荷拉 振聋发聩的伟大发声",
-      "onboard_time": 1716269360,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 645965,
+      "num": 645965,
+      "word": "从美国进口血液制品致英国3万人感染艾滋等",
+      "onboard_time": 1716270979,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 636094,
@@ -177,14 +185,6 @@
       "onboard_time": 1716246855,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 593349,
-      "num": 593349,
-      "word": "从美国进口血液制品致英国3万人感染艾滋等",
-      "onboard_time": 1716270979,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592489,
@@ -355,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 396609,
+      "num": 396609,
+      "word": "26岁女留学生在美失踪5天",
+      "onboard_time": 1716271399,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390006,
       "num": 390006,
       "word": "舒淇顶级高定",
@@ -369,6 +377,22 @@
       "onboard_time": 1716217700,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376163,
+      "num": 376163,
+      "word": "郴州",
+      "onboard_time": 1716269900,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360267,
+      "num": 360267,
+      "word": "奔跑吧宋雨琦",
+      "onboard_time": 1716271460,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 358657,
@@ -409,14 +433,6 @@
       "onboard_time": 1716210619,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 322450,
-      "num": 322450,
-      "word": "奔跑吧宋雨琦",
-      "onboard_time": 1716271460,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 321305,
@@ -475,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303090,
-      "num": 303090,
-      "word": "26岁女留学生在美失踪5天",
-      "onboard_time": 1716271399,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298933,
       "num": 221885,
       "word": "外包父母月入四万",
@@ -513,14 +521,6 @@
       "onboard_time": 1716268161,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284876,
-      "num": 284876,
-      "word": "郴州",
-      "onboard_time": 1716269900,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284514,
@@ -561,6 +561,14 @@
       "onboard_time": 1716253339,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262606,
+      "num": 262606,
+      "word": "美歌手持枪拍视频意外自杀",
+      "onboard_time": 1716272001,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261861,
@@ -611,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236613,
+      "num": 236613,
+      "word": "小S回应赵正平叫小曲线",
+      "onboard_time": 1716273318,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236143,
       "num": 236143,
       "word": "院方通报广西17岁体育生错切右膝",
@@ -641,6 +657,14 @@
       "onboard_time": 1716232151,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 229193,
+      "num": 200445,
+      "word": "建议大家做事提前5分钟准备",
+      "onboard_time": 1716271818,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 229096,
@@ -723,14 +747,6 @@
       "category": "剧集,音乐"
     },
     {
-      "raw_hot": 200445,
-      "num": 200445,
-      "word": "建议大家做事提前5分钟准备",
-      "onboard_time": 1716271818,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200370,
       "num": 200370,
       "word": "南京10元咖啡",
@@ -795,12 +811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193296,
+      "num": 193296,
+      "word": "莫文蔚鸟巢",
+      "onboard_time": 1716273080,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186557,
       "num": 186557,
       "word": "没睡好觉是怎样弄垮健康的",
       "onboard_time": 1716249377,
       "rank": 32,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 184874,
+      "num": 184874,
+      "word": "大大方方的抠门并不丢人",
+      "onboard_time": 1716271818,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 183970,
@@ -835,14 +867,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 177512,
-      "num": 177512,
-      "word": "美歌手持枪拍视频意外自杀",
-      "onboard_time": 1716272001,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175605,
       "num": 175605,
       "word": "庆余年2第十集好爽",
@@ -867,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169099,
+      "num": 169099,
+      "word": "尤长靖参加披哥",
+      "onboard_time": 1716269959,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165781,
       "num": 165781,
       "word": "虞书欣林一费启鸣手势舞",
@@ -881,14 +913,6 @@
       "onboard_time": 1716260600,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 164522,
-      "num": 164522,
-      "word": "尤长靖参加披哥",
-      "onboard_time": 1716269959,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 164396,
@@ -1139,20 +1163,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 127111,
-      "num": 127111,
-      "word": "大大方方的抠门并不丢人",
-      "onboard_time": 1716271818,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124297,
       "num": 140335,
       "word": "鸣潮",
       "onboard_time": 1716264620,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123466,
+      "num": 123466,
+      "word": "庆余年2五子齐海报",
+      "onboard_time": 1716272719,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 121862,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1716272539,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107496,
+      "num": 107496,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1716273260,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 106514,
@@ -1323,20 +1355,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 91338,
-      "num": 91338,
-      "word": "庆余年2五子齐海报",
-      "onboard_time": 1716272719,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90027,
       "num": 139376,
       "word": "有水果市场一天卖出1.5亿元榴莲",
       "onboard_time": 1716218838,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89229,
+      "num": 206051,
+      "word": "开什么车去相亲比较靠谱",
+      "onboard_time": 1716271520,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88374,
@@ -1425,14 +1457,6 @@
       "onboard_time": 1716211158,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 76156,
-      "num": 206051,
-      "word": "开什么车去相亲比较靠谱",
-      "onboard_time": 1716271520,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74595,
@@ -1627,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38127,
+      "num": 363458,
+      "word": "中学生体考神器潜在风险不容忽视",
+      "onboard_time": 1716273080,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36124,
       "num": 325970,
       "word": "龚俊想在戛纳开串串店",
@@ -1635,19 +1667,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 35383,
+      "num": 231767,
+      "word": "梦回08年DNF上线",
+      "onboard_time": 1716271520,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34039,
       "num": 90474,
       "word": "光遇",
       "onboard_time": 1716226153,
       "rank": 44,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 33553,
-      "num": 231767,
-      "word": "梦回08年DNF上线",
-      "onboard_time": 1716271520,
-      "rank": 18,
       "category": "游戏"
     },
     {
@@ -1675,12 +1707,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22519,
-      "num": 93210,
+      "raw_hot": 24900,
+      "num": 154509,
       "word": "鸣潮比女娲会捏",
       "onboard_time": 1716272659,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24877,
+      "num": 96572,
+      "word": "你能认出哪张是2万一张的写真吗",
+      "onboard_time": 1716272419,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19493,
@@ -1729,14 +1769,6 @@
       "onboard_time": 1716236351,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 12608,
-      "num": 90578,
-      "word": "你能认出哪张是2万一张的写真吗",
-      "onboard_time": 1716272419,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11636,

@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716272780723,
+  "endTime": 1716273523771,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1471128,
+      "num": 1471128,
+      "word": "第一次意识到1万块这么有质感",
+      "onboard_time": 1716269360,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1458289,
       "num": 1458289,
       "word": "你好星期六 TFBOYS",
@@ -257,14 +265,6 @@
       "onboard_time": 1716173718,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1422096,
-      "num": 1422096,
-      "word": "第一次意识到1万块这么有质感",
-      "onboard_time": 1716269360,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 1419911,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 793787,
+      "num": 793787,
+      "word": "具荷拉 振聋发聩的伟大发声",
+      "onboard_time": 1716269360,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 783411,
       "num": 603106,
       "word": "孟子义上学时被拉到女厕所打头",
@@ -947,14 +955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 667959,
-      "num": 667959,
-      "word": "具荷拉 振聋发聩的伟大发声",
-      "onboard_time": 1716269360,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 657139,
       "num": 657139,
       "word": "李佳琦618不用难了",
@@ -993,6 +993,14 @@
       "onboard_time": 1716044180,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 645965,
+      "num": 645965,
+      "word": "从美国进口血液制品致英国3万人感染艾滋等",
+      "onboard_time": 1716270979,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 636175,
@@ -1056,14 +1064,6 @@
       "word": "姑娘翻出一堆施华洛世奇后悔没买黄金",
       "onboard_time": 1716051375,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 593349,
-      "num": 593349,
-      "word": "从美国进口血液制品致英国3万人感染艾滋等",
-      "onboard_time": 1716270979,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1859,6 +1859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 396609,
+      "num": 396609,
+      "word": "26岁女留学生在美失踪5天",
+      "onboard_time": 1716271399,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396251,
       "num": 396251,
       "word": "宝石老舅真成老救了",
@@ -1939,6 +1947,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 376163,
+      "num": 376163,
+      "word": "郴州",
+      "onboard_time": 1716269900,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374218,
       "num": 374218,
       "word": "当伴郎的陈伟霆",
@@ -2009,6 +2025,14 @@
       "onboard_time": 1716040760,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360267,
+      "num": 360267,
+      "word": "奔跑吧宋雨琦",
+      "onboard_time": 1716271460,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 358657,
@@ -2307,14 +2331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322450,
-      "num": 322450,
-      "word": "奔跑吧宋雨琦",
-      "onboard_time": 1716271460,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 321305,
       "num": 321305,
       "word": "蒋敦豪 赫马佛洛狄忒斯",
@@ -2475,14 +2491,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 303090,
-      "num": 303090,
-      "word": "26岁女留学生在美失踪5天",
-      "onboard_time": 1716271399,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299802,
       "num": 299802,
       "word": "小米回应SU7保费比玛莎拉蒂更贵",
@@ -2593,14 +2601,6 @@
       "onboard_time": 1716174559,
       "rank": 40,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 284876,
-      "num": 284876,
-      "word": "郴州",
-      "onboard_time": 1716269900,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284874,
@@ -2859,6 +2859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262606,
+      "num": 262606,
+      "word": "美歌手持枪拍视频意外自杀",
+      "onboard_time": 1716272001,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262422,
       "num": 262422,
       "word": "第五人格",
@@ -3115,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236613,
+      "num": 236613,
+      "word": "小S回应赵正平叫小曲线",
+      "onboard_time": 1716273318,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236503,
       "num": 217838,
       "word": "Bin说MSI不是结尾",
@@ -3185,6 +3201,14 @@
       "onboard_time": 1716087138,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 229193,
+      "num": 200445,
+      "word": "建议大家做事提前5分钟准备",
+      "onboard_time": 1716271818,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 229096,
@@ -3691,14 +3715,6 @@
       "category": "剧集,音乐"
     },
     {
-      "raw_hot": 200445,
-      "num": 200445,
-      "word": "建议大家做事提前5分钟准备",
-      "onboard_time": 1716271818,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200380,
       "num": 200380,
       "word": "奔跑吧",
@@ -3955,6 +3971,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 193296,
+      "num": 193296,
+      "word": "莫文蔚鸟巢",
+      "onboard_time": 1716273080,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193211,
       "num": 193211,
       "word": "王俊凯彩排花絮",
@@ -4089,6 +4113,14 @@
       "onboard_time": 1716184098,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184874,
+      "num": 184874,
+      "word": "大大方方的抠门并不丢人",
+      "onboard_time": 1716271818,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 184862,
@@ -4235,14 +4267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177512,
-      "num": 177512,
-      "word": "美歌手持枪拍视频意外自杀",
-      "onboard_time": 1716272001,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177341,
       "num": 177341,
       "word": "年轻人开始恶补生活技能",
@@ -4387,6 +4411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169099,
+      "num": 169099,
+      "word": "尤长靖参加披哥",
+      "onboard_time": 1716269959,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168586,
       "num": 168586,
       "word": "19天 影子",
@@ -4481,14 +4513,6 @@
       "onboard_time": 1716260600,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 164522,
-      "num": 164522,
-      "word": "尤长靖参加披哥",
-      "onboard_time": 1716269959,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 164491,
@@ -5507,14 +5531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127111,
-      "num": 127111,
-      "word": "大大方方的抠门并不丢人",
-      "onboard_time": 1716271818,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127014,
       "num": 127014,
       "word": "减肥期间正确称体重的方法",
@@ -5641,6 +5657,14 @@
       "onboard_time": 1716082636,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123466,
+      "num": 123466,
+      "word": "庆余年2五子齐海报",
+      "onboard_time": 1716272719,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 123373,
@@ -6203,6 +6227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107496,
+      "num": 107496,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1716273260,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106514,
       "num": 106514,
       "word": "多家出版社抵制618图书大促",
@@ -6523,20 +6555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91338,
-      "num": 91338,
-      "word": "庆余年2五子齐海报",
-      "onboard_time": 1716272719,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90640,
       "num": 90640,
       "word": "中医药大学的汤一定有它的道理",
       "onboard_time": 1716208097,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 89229,
+      "num": 206051,
+      "word": "开什么车去相亲比较靠谱",
+      "onboard_time": 1716271520,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88955,
@@ -6688,14 +6720,6 @@
       "word": "1个盲人求助一群志愿者疯狂抢单",
       "onboard_time": 1716107536,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76156,
-      "num": 206051,
-      "word": "开什么车去相亲比较靠谱",
-      "onboard_time": 1716271520,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -7171,6 +7195,14 @@
       "category": "游戏,音乐"
     },
     {
+      "raw_hot": 38127,
+      "num": 363458,
+      "word": "中学生体考神器潜在风险不容忽视",
+      "onboard_time": 1716273080,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38022,
       "num": 310806,
       "word": "宝泉悬崖户外运动燃爆了",
@@ -7185,6 +7217,14 @@
       "onboard_time": 1716265521,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35383,
+      "num": 231767,
+      "word": "梦回08年DNF上线",
+      "onboard_time": 1716271520,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 35326,
@@ -7217,14 +7257,6 @@
       "onboard_time": 1716153850,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 33553,
-      "num": 231767,
-      "word": "梦回08年DNF上线",
-      "onboard_time": 1716271520,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 33465,
@@ -7355,6 +7387,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 24900,
+      "num": 154509,
+      "word": "鸣潮比女娲会捏",
+      "onboard_time": 1716272659,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 24877,
+      "num": 96572,
+      "word": "你能认出哪张是2万一张的写真吗",
+      "onboard_time": 1716272419,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24337,
       "num": 222500,
       "word": "赵丽颖原声旁白感染力",
@@ -7369,14 +7417,6 @@
       "onboard_time": 1716052094,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22519,
-      "num": 93210,
-      "word": "鸣潮比女娲会捏",
-      "onboard_time": 1716272659,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 19555,
@@ -7473,14 +7513,6 @@
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12608,
-      "num": 90578,
-      "word": "你能认出哪张是2万一张的写真吗",
-      "onboard_time": 1716272419,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12115,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1716273523771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1471128,
+        "num": 1471128,
+        "word": "第一次意识到1万块这么有质感",
+        "onboard_time": 1716269360,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 945525,
+        "num": 945525,
+        "word": "你昨晚睡了几小时",
+        "onboard_time": 1716257900,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75764,
+        "num": 815052,
+        "word": "中国茶文化知识点",
+        "onboard_time": 1716261138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793787,
+        "num": 793787,
+        "word": "具荷拉 振聋发聩的伟大发声",
+        "onboard_time": 1716269360,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675022,
+        "num": 675022,
+        "word": "湖南郴州一公园发生刑案致3死2伤",
+        "onboard_time": 1716268521,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645965,
+        "num": 645965,
+        "word": "从美国进口血液制品致英国3万人感染艾滋等",
+        "onboard_time": 1716270979,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469605,
+        "num": 469605,
+        "word": "有个叫范闲的人要做我靠山",
+        "onboard_time": 1716269360,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396609,
+        "num": 396609,
+        "word": "26岁女留学生在美失踪5天",
+        "onboard_time": 1716271399,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376163,
+        "num": 376163,
+        "word": "郴州",
+        "onboard_time": 1716269900,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38127,
+        "num": 363458,
+        "word": "中学生体考神器潜在风险不容忽视",
+        "onboard_time": 1716273080,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549691,
+        "num": 362849,
+        "word": "向佐 那英",
+        "onboard_time": 1716263059,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360267,
+        "num": 360267,
+        "word": "奔跑吧宋雨琦",
+        "onboard_time": 1716271460,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298343,
+        "num": 298343,
+        "word": "微信转账流行备注自愿赠与了吗",
+        "onboard_time": 1716253941,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 287951,
+        "num": 287951,
+        "word": "警方回应上官正义曝小红书有人领养孩子",
+        "onboard_time": 1716266661,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262606,
+        "num": 262606,
+        "word": "美歌手持枪拍视频意外自杀",
+        "onboard_time": 1716272001,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260275,
+        "num": 260275,
+        "word": "伊朗总统坠机细节公开",
+        "onboard_time": 1716263420,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 250015,
+        "num": 250015,
+        "word": "三本女生上岸211和偶像成校友",
+        "onboard_time": 1716259399,
+        "rank": 16,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 236613,
+        "num": 236613,
+        "word": "小S回应赵正平叫小曲线",
+        "onboard_time": 1716273318,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199070,
+        "num": 199070,
+        "word": "沈小婷沈阳",
+        "onboard_time": 1716268161,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35383,
+        "num": 198194,
+        "word": "梦回08年DNF上线",
+        "onboard_time": 1716271520,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1213966,
+        "num": 196959,
+        "word": "必须割掉危害孩子这颗全民网红毒瘤",
+        "onboard_time": 1716257121,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89229,
+        "num": 195697,
+        "word": "开什么车去相亲比较靠谱",
+        "onboard_time": 1716271520,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705802,
+        "num": 194776,
+        "word": "女朋友要把彩礼存死期",
+        "onboard_time": 1716269119,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229193,
+        "num": 193797,
+        "word": "建议大家做事提前5分钟准备",
+        "onboard_time": 1716271818,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193296,
+        "num": 193296,
+        "word": "莫文蔚鸟巢",
+        "onboard_time": 1716273080,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84610,
+        "num": 188209,
+        "word": "牙白对颜值影响有多大",
+        "onboard_time": 1716268100,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 184874,
+        "num": 184874,
+        "word": "大大方方的抠门并不丢人",
+        "onboard_time": 1716271818,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179805,
+        "num": 179805,
+        "word": "郭有才为啥火",
+        "onboard_time": 1716258081,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169099,
+        "num": 169099,
+        "word": "尤长靖参加披哥",
+        "onboard_time": 1716269959,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165626,
+        "num": 165626,
+        "word": "辛芷蕾给赵昭仪庆生",
+        "onboard_time": 1716272240,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158515,
+        "num": 158515,
+        "word": "虞书欣林一费启鸣手势舞",
+        "onboard_time": 1716268881,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156808,
+        "num": 156808,
+        "word": "上岸不到一年想回大厂了",
+        "onboard_time": 1716267021,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24900,
+        "num": 154509,
+        "word": "鸣潮比女娲会捏",
+        "onboard_time": 1716272659,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153971,
+        "num": 153971,
+        "word": "aespa新歌supernova日冠",
+        "onboard_time": 1716269477,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150824,
+        "num": 150824,
+        "word": "那英 摔倒",
+        "onboard_time": 1716250400,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146176,
+        "num": 146176,
+        "word": "南城宴定档",
+        "onboard_time": 1716269780,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137349,
+        "num": 137349,
+        "word": "午睡也有最佳时长",
+        "onboard_time": 1716268818,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 123466,
+        "num": 123466,
+        "word": "庆余年2五子齐海报",
+        "onboard_time": 1716272719,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118438,
+        "num": 118438,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118023,
+        "num": 118023,
+        "word": "易烊千玺牛仔衬衫西装叠搭造型",
+        "onboard_time": 1716270380,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117948,
+        "num": 117948,
+        "word": "谁敢相信这是魏大勋啊",
+        "onboard_time": 1716258020,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112659,
+        "num": 112659,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1716253819,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109753,
+        "num": 109753,
+        "word": "现在的黄金都这么超前了吗",
+        "onboard_time": 1716267260,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107585,
+        "num": 107585,
+        "word": "福宝香香喀秋莎有个共享奶爸",
+        "onboard_time": 1716272539,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107496,
+        "num": 107496,
+        "word": "花儿与少年好友记",
+        "onboard_time": 1716273260,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105426,
+        "num": 105426,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1716264680,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69286,
+        "num": 103952,
+        "word": "多地提醒慎入网约车行业",
+        "onboard_time": 1716260420,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103620,
+        "num": 103620,
+        "word": "一个普通女孩的考公七年之路",
+        "onboard_time": 1716258199,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102164,
+        "num": 102164,
+        "word": "LPL夏季赛分组抽签",
+        "onboard_time": 1716266959,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24877,
+        "num": 96572,
+        "word": "你能认出哪张是2万一张的写真吗",
+        "onboard_time": 1716272419,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续打造市场化法治化国际化营商环境#"
+    }
+  }
+}
