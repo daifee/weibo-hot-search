@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716312880678,
+  "endTime": 1716315851031,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -8579,6 +8579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41566,
+      "num": 39614,
+      "word": "姚PD感谢苗苗救场跑男",
+      "onboard_time": 1716314711,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41128,
       "num": 41128,
       "word": "上海你不要太超前",
@@ -8593,6 +8601,14 @@
       "onboard_time": 1716225074,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40785,
+      "num": 59724,
+      "word": "infp会喜欢什么样的人",
+      "onboard_time": 1716312852,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 39841,
@@ -8811,14 +8827,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 26588,
-      "num": 59724,
-      "word": "infp会喜欢什么样的人",
-      "onboard_time": 1716312852,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 26085,
       "num": 34730,
       "word": "牙齿就是这么坏掉的",
@@ -8985,6 +8993,14 @@
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12588,
+      "num": 108877,
+      "word": "单亲爸爸思念妻子泪如雨下",
+      "onboard_time": 1716312313,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12115,
