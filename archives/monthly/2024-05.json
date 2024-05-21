@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716279801143,
+  "endTime": 1716280578737,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1723,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1548385,
+      "num": 1548385,
+      "word": "海南海边发现骨架2米不明生物尸体",
+      "onboard_time": 1716275119,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1545383,
       "num": 657851,
       "word": "下午三点离职五点整个部门涨薪了",
@@ -3065,14 +3073,6 @@
       "onboard_time": 1715839219,
       "rank": 3,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1209320,
-      "num": 1209320,
-      "word": "海南海边发现骨架2米不明生物尸体",
-      "onboard_time": 1716275119,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1207245,
@@ -4899,6 +4899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 929648,
+      "num": 929648,
+      "word": "哥哥想替过世妹妹见周杰伦遭大麦拒绝",
+      "onboard_time": 1716279439,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 929093,
       "num": 883089,
       "word": "歌手2024首轮双揭榜歌手",
@@ -5281,6 +5289,14 @@
       "onboard_time": 1714991359,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 888663,
+      "num": 888663,
+      "word": "刘亦菲换了腰封",
+      "onboard_time": 1716278299,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 888455,
@@ -6873,14 +6889,6 @@
       "onboard_time": 1716270979,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755400,
-      "num": 372876,
-      "word": "刘亦菲换了腰封",
-      "onboard_time": 1716278299,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 755251,
@@ -13875,6 +13883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 458741,
+      "num": 371148,
+      "word": "在美失踪26岁女留学生遗体被找到",
+      "onboard_time": 1716276679,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458679,
       "num": 276916,
       "word": "王楚然笑容消失术",
@@ -14241,14 +14257,6 @@
       "onboard_time": 1716109996,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 447710,
-      "num": 368551,
-      "word": "在美失踪26岁女留学生遗体被找到",
-      "onboard_time": 1716276679,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447641,
@@ -18027,14 +18035,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 361320,
-      "num": 361320,
-      "word": "哥哥想替过世妹妹见周杰伦遭大麦拒绝",
-      "onboard_time": 1716279439,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 361308,
       "num": 280128,
       "word": "边伯贤SM新厂牌logo相似",
@@ -19825,6 +19825,14 @@
       "onboard_time": 1714864574,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327696,
+      "num": 327696,
+      "word": "男子起诉前女友返还61.4万转账被驳回",
+      "onboard_time": 1716275299,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327505,
@@ -24283,6 +24291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260099,
+      "num": 234143,
+      "word": "普通人一定对钱要有概念",
+      "onboard_time": 1716276258,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259851,
       "num": 259851,
       "word": "李秀满朴振英对待艺人的方式",
@@ -24321,14 +24337,6 @@
       "onboard_time": 1714541358,
       "rank": 24,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 259426,
-      "num": 259426,
-      "word": "男子起诉前女友返还61.4万转账被驳回",
-      "onboard_time": 1716275299,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259257,
@@ -25297,6 +25305,14 @@
       "onboard_time": 1715601320,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247610,
+      "num": 384675,
+      "word": "电视开机率下降到不足三成",
+      "onboard_time": 1716278418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247255,
@@ -26625,14 +26641,6 @@
       "onboard_time": 1715776098,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234143,
-      "num": 234143,
-      "word": "普通人一定对钱要有概念",
-      "onboard_time": 1716276258,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 234073,
@@ -33075,6 +33083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195227,
+      "num": 195227,
+      "word": "我在横店打篮球",
+      "onboard_time": 1716278780,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195221,
       "num": 195221,
       "word": "阿勒泰 夏牧场",
@@ -35403,6 +35419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185602,
+      "num": 185602,
+      "word": "沈月这是上恋综还是上课",
+      "onboard_time": 1716279680,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185551,
       "num": 185551,
       "word": "CCtalk公众号",
@@ -35649,6 +35673,14 @@
       "onboard_time": 1715058980,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184273,
+      "num": 184273,
+      "word": "小红书回应平台可领养孩子",
+      "onboard_time": 1716279439,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 184271,
@@ -36177,14 +36209,6 @@
       "onboard_time": 1714797079,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181563,
-      "num": 181563,
-      "word": "我在横店打篮球",
-      "onboard_time": 1716278780,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 181490,
@@ -36761,6 +36785,14 @@
       "onboard_time": 1714625718,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178249,
+      "num": 178249,
+      "word": "朱婷抵达澳门",
+      "onboard_time": 1716279680,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 178232,
@@ -38857,6 +38889,14 @@
       "onboard_time": 1715913377,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168618,
+      "num": 168618,
+      "word": "阿勒泰出圈带火硬核防晒",
+      "onboard_time": 1716279918,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 168595,
@@ -42097,6 +42137,14 @@
       "onboard_time": 1714871478,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153126,
+      "num": 153126,
+      "word": "刘亦菲15岁时的采访",
+      "onboard_time": 1716279860,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 153089,
@@ -47003,6 +47051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130736,
+      "num": 130736,
+      "word": "碧蓝航线 开门",
+      "onboard_time": 1716280280,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130733,
       "num": 130733,
       "word": "于正晒临江仙白鹿",
@@ -47467,14 +47523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128343,
-      "num": 128343,
-      "word": "小红书回应平台可领养孩子",
-      "onboard_time": 1716279439,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 128340,
       "num": 128340,
       "word": "蝴蝶停新郎胸口胸花并非鲜花",
@@ -47601,6 +47649,14 @@
       "onboard_time": 1716272539,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127732,
+      "num": 279480,
+      "word": "霸王茶姬的朋友圈太牛了",
+      "onboard_time": 1716276379,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 127694,
@@ -47929,14 +47985,6 @@
       "onboard_time": 1716131181,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 126227,
-      "num": 279480,
-      "word": "霸王茶姬的朋友圈太牛了",
-      "onboard_time": 1716276379,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 126224,
@@ -48883,14 +48931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121553,
-      "num": 384675,
-      "word": "电视开机率下降到不足三成",
-      "onboard_time": 1716278418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121496,
       "num": 121496,
       "word": "AG狼队决赛首发名单",
@@ -49363,14 +49403,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 119361,
-      "num": 119361,
-      "word": "朱婷抵达澳门",
-      "onboard_time": 1716279680,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119355,
       "num": 126624,
       "word": "诺奖得主研发最新抗衰技术",
@@ -49715,14 +49747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 117707,
-      "num": 117707,
-      "word": "沈月这是上恋综还是上课",
-      "onboard_time": 1716279680,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117677,
       "num": 117677,
       "word": "王楚钦孙颖莎对阵黄镇廷杜凯琹",
@@ -49993,6 +50017,14 @@
       "onboard_time": 1715854698,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 116299,
+      "num": 116299,
+      "word": "郭有才翻唱歌曲几乎都面临版权问题",
+      "onboard_time": 1716278058,
+      "rank": 45,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 116273,
@@ -50763,14 +50795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112389,
-      "num": 112389,
-      "word": "郭有才翻唱歌曲几乎都面临版权问题",
-      "onboard_time": 1716278058,
-      "rank": 45,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 112336,
       "num": 124083,
       "word": "eStar战胜RW",
@@ -50801,6 +50825,14 @@
       "onboard_time": 1714577478,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112120,
+      "num": 112120,
+      "word": "A股又见神预言卡点涨停",
+      "onboard_time": 1716280457,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 112103,
@@ -53673,6 +53705,14 @@
       "onboard_time": 1716084918,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 84327,
+      "num": 130227,
+      "word": "90后创始人带中国茶走向世界",
+      "onboard_time": 1716280280,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83948,
@@ -57060,7 +57100,7 @@
     },
     {
       "raw_hot": 30225,
-      "num": 968988,
+      "num": 1041189,
       "word": "长城长皆同往",
       "onboard_time": 1716261020,
       "rank": 2,

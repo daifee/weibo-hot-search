@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716279801143,
+  "endTime": 1716280578737,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1548385,
+      "num": 1548385,
+      "word": "海南海边发现骨架2米不明生物尸体",
+      "onboard_time": 1716275119,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1528434,
       "num": 1528434,
       "word": "伊朗外交部就总统直升机发生事故发表声明",
@@ -369,14 +377,6 @@
       "onboard_time": 1716160274,
       "rank": 6,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1209320,
-      "num": 1209320,
-      "word": "海南海边发现骨架2米不明生物尸体",
-      "onboard_time": 1716275119,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1207245,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 929648,
+      "num": 929648,
+      "word": "哥哥想替过世妹妹见周杰伦遭大麦拒绝",
+      "onboard_time": 1716279439,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 927130,
       "num": 535048,
       "word": "BLG能不能让二追三",
@@ -609,6 +617,14 @@
       "onboard_time": 1716170897,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 888663,
+      "num": 888663,
+      "word": "刘亦菲换了腰封",
+      "onboard_time": 1716278299,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 870579,
@@ -785,14 +801,6 @@
       "onboard_time": 1716270979,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755400,
-      "num": 372876,
-      "word": "刘亦菲换了腰封",
-      "onboard_time": 1716278299,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 753186,
@@ -1603,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458741,
+      "num": 371148,
+      "word": "在美失踪26岁女留学生遗体被找到",
+      "onboard_time": 1716276679,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455193,
       "num": 202446,
       "word": "年轻人结婚不买钻戒了",
@@ -1649,14 +1665,6 @@
       "onboard_time": 1716109996,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 447710,
-      "num": 368551,
-      "word": "在美失踪26岁女留学生遗体被找到",
-      "onboard_time": 1716276679,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444687,
@@ -2091,14 +2099,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 361320,
-      "num": 361320,
-      "word": "哥哥想替过世妹妹见周杰伦遭大麦拒绝",
-      "onboard_time": 1716279439,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 360908,
       "num": 360908,
       "word": "高度近视戴不戴眼镜眼球都会变形",
@@ -2361,6 +2361,14 @@
       "onboard_time": 1716046399,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327696,
+      "num": 327696,
+      "word": "男子起诉前女友返还61.4万转账被驳回",
+      "onboard_time": 1716275299,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327505,
@@ -3019,19 +3027,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260099,
+      "num": 234143,
+      "word": "普通人一定对钱要有概念",
+      "onboard_time": 1716276258,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259839,
       "num": 259839,
       "word": "宣传1年的连云港被一个皮皮虾偷家了",
       "onboard_time": 1716100276,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259426,
-      "num": 259426,
-      "word": "男子起诉前女友返还61.4万转账被驳回",
-      "onboard_time": 1716275299,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -3113,6 +3121,14 @@
       "onboard_time": 1716194181,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 247610,
+      "num": 384675,
+      "word": "电视开机率下降到不足三成",
+      "onboard_time": 1716278418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247255,
@@ -3304,14 +3320,6 @@
       "word": "普通女孩给男朋友准备的520礼物",
       "onboard_time": 1716195801,
       "rank": 29,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 234143,
-      "num": 234143,
-      "word": "普通人一定对钱要有概念",
-      "onboard_time": 1716276258,
-      "rank": 47,
       "category": "情感"
     },
     {
@@ -4075,6 +4083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195227,
+      "num": 195227,
+      "word": "我在横店打篮球",
+      "onboard_time": 1716278780,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194485,
       "num": 249271,
       "word": "618电商平台卷到半价卖车了",
@@ -4291,6 +4307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185602,
+      "num": 185602,
+      "word": "沈月这是上恋综还是上课",
+      "onboard_time": 1716279680,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184862,
       "num": 184862,
       "word": "芭莎主编说杨紫长大了",
@@ -4323,6 +4347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184273,
+      "num": 184273,
+      "word": "小红书回应平台可领养孩子",
+      "onboard_time": 1716279439,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 183970,
       "num": 183970,
       "word": "泸定地震",
@@ -4353,14 +4385,6 @@
       "onboard_time": 1716266959,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181563,
-      "num": 181563,
-      "word": "我在横店打篮球",
-      "onboard_time": 1716278780,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 181327,
@@ -4441,6 +4465,14 @@
       "onboard_time": 1716211640,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178249,
+      "num": 178249,
+      "word": "朱婷抵达澳门",
+      "onboard_time": 1716279680,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 177895,
@@ -4617,6 +4649,14 @@
       "onboard_time": 1716269959,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168618,
+      "num": 168618,
+      "word": "阿勒泰出圈带火硬核防晒",
+      "onboard_time": 1716279918,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 168586,
@@ -4993,6 +5033,14 @@
       "onboard_time": 1716199460,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153126,
+      "num": 153126,
+      "word": "刘亦菲15岁时的采访",
+      "onboard_time": 1716279860,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 153089,
@@ -5691,6 +5739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130736,
+      "num": 130736,
+      "word": "碧蓝航线 开门",
+      "onboard_time": 1716280280,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130604,
       "num": 130604,
       "word": "独行侠4比2雷霆",
@@ -5763,20 +5819,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128343,
-      "num": 128343,
-      "word": "小红书回应平台可领养孩子",
-      "onboard_time": 1716279439,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 127776,
       "num": 126962,
       "word": "福宝香香喀秋莎有个共享奶爸",
       "onboard_time": 1716272539,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127732,
+      "num": 279480,
+      "word": "霸王茶姬的朋友圈太牛了",
+      "onboard_time": 1716276379,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 127694,
@@ -5841,14 +5897,6 @@
       "onboard_time": 1716131181,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 126227,
-      "num": 279480,
-      "word": "霸王茶姬的朋友圈太牛了",
-      "onboard_time": 1716276379,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 125706,
@@ -6027,14 +6075,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121553,
-      "num": 384675,
-      "word": "电视开机率下降到不足三成",
-      "onboard_time": 1716278418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121483,
       "num": 121483,
       "word": "王栎鑫演唱会",
@@ -6147,14 +6187,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 119361,
-      "num": 119361,
-      "word": "朱婷抵达澳门",
-      "onboard_time": 1716279680,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119145,
       "num": 119145,
       "word": "2个拉伸动作放松腿部肌肉",
@@ -6227,14 +6259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117707,
-      "num": 117707,
-      "word": "沈月这是上恋综还是上课",
-      "onboard_time": 1716279680,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117353,
       "num": 117353,
       "word": "Uzi厂长水晶哥合照",
@@ -6297,6 +6321,14 @@
       "onboard_time": 1716082276,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116299,
+      "num": 116299,
+      "word": "郭有才翻唱歌曲几乎都面临版权问题",
+      "onboard_time": 1716278058,
+      "rank": 45,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 115852,
@@ -6403,12 +6435,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112389,
-      "num": 112389,
-      "word": "郭有才翻唱歌曲几乎都面临版权问题",
-      "onboard_time": 1716278058,
-      "rank": 45,
-      "category": "网红,社会新闻"
+      "raw_hot": 112120,
+      "num": 112120,
+      "word": "A股又见神预言卡点涨停",
+      "onboard_time": 1716280457,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 111999,
@@ -6953,6 +6985,14 @@
       "onboard_time": 1716084918,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 84327,
+      "num": 130227,
+      "word": "90后创始人带中国茶走向世界",
+      "onboard_time": 1716280280,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83930,
@@ -7660,7 +7700,7 @@
     },
     {
       "raw_hot": 30225,
-      "num": 968988,
+      "num": 1041189,
       "word": "长城长皆同往",
       "onboard_time": 1716261020,
       "rank": 2,
