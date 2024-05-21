@@ -1,0 +1,410 @@
+{
+  "runTime": 1716258672695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2161047,
+        "num": 2161047,
+        "word": "必须割掉危害孩子这颗全民网红毒瘤",
+        "onboard_time": 1716257121,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283776,
+        "num": 1283776,
+        "word": "那英 摔倒",
+        "onboard_time": 1716250400,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58441,
+        "num": 1249791,
+        "word": "小满的一幕幕画面太有爱了",
+        "onboard_time": 1716213560,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220712,
+        "num": 1220712,
+        "word": "医院通知退核酸检测费市民怀疑是诈骗",
+        "onboard_time": 1716252200,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803629,
+        "num": 803629,
+        "word": "微信转账流行备注自愿赠与了吗",
+        "onboard_time": 1716253941,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 478476,
+        "num": 478476,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1716253819,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429315,
+        "num": 429315,
+        "word": "年轻人撕裂般胸痛千万别忍",
+        "onboard_time": 1716252621,
+        "rank": 6,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 406992,
+        "num": 406992,
+        "word": "dnf",
+        "onboard_time": 1716253279,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381704,
+        "num": 381704,
+        "word": "跑男总导演等孟子义航班一整晚",
+        "onboard_time": 1716248297,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179456,
+        "num": 304684,
+        "word": "上岸第一件事就是迎娶意中人",
+        "onboard_time": 1716253699,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 483421,
+        "num": 304511,
+        "word": "DNF手游补偿公告",
+        "onboard_time": 1716257418,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 478127,
+        "num": 299596,
+        "word": "你的核酸检测费退了吗",
+        "onboard_time": 1716257722,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291217,
+        "num": 291217,
+        "word": "刘亦菲安妮海瑟薇同框热聊",
+        "onboard_time": 1716251721,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278011,
+        "num": 278011,
+        "word": "谁敢相信这是魏大勋啊",
+        "onboard_time": 1716258020,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267576,
+        "num": 267576,
+        "word": "徐海乔 披荆斩棘的哥哥",
+        "onboard_time": 1716254900,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254184,
+        "num": 254184,
+        "word": "庆帝灰飞烟灭让人毛骨悚然",
+        "onboard_time": 1716246855,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241129,
+        "num": 241129,
+        "word": "马龙退赛粉丝要求大麦退票",
+        "onboard_time": 1716249559,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239432,
+        "num": 239432,
+        "word": "郭有才为啥火",
+        "onboard_time": 1716258081,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 224269,
+        "num": 224269,
+        "word": "市监局局长就连云港鬼秤事件道歉",
+        "onboard_time": 1716251420,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182632,
+        "num": 223644,
+        "word": "上海套内51平米的家",
+        "onboard_time": 1716250339,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330299,
+        "num": 222747,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298933,
+        "num": 221885,
+        "word": "外包父母月入四万",
+        "onboard_time": 1716254481,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260044,
+        "num": 220999,
+        "word": "你昨晚睡了几小时",
+        "onboard_time": 1716257900,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1389,
+        "num": 219484,
+        "word": "你选鲜奶会看标签吗",
+        "onboard_time": 1716255321,
+        "rank": 23,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 233062,
+        "num": 219260,
+        "word": "上着班突然通知被裁了",
+        "onboard_time": 1716253339,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229155,
+        "num": 217871,
+        "word": "舒淇顶级高定",
+        "onboard_time": 1716249498,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217536,
+        "num": 217536,
+        "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
+        "onboard_time": 1716216320,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205828,
+        "num": 205828,
+        "word": "李克勤 合久必婚",
+        "onboard_time": 1716254841,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208588,
+        "num": 197736,
+        "word": "BBC曝光李胜利郑俊英崔钟训视频",
+        "onboard_time": 1716246616,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182202,
+        "num": 182202,
+        "word": "发烧后要多喝的是电解质水",
+        "onboard_time": 1716249739,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175605,
+        "num": 175605,
+        "word": "庆余年2第十集好爽",
+        "onboard_time": 1716256280,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153277,
+        "num": 153277,
+        "word": "年轻人为什么越来越爱爬山",
+        "onboard_time": 1716257121,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 152285,
+        "num": 152285,
+        "word": "手把手教你自测脊柱弯曲异常",
+        "onboard_time": 1716253339,
+        "rank": 32,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 149504,
+        "num": 149504,
+        "word": "刘亦菲罗马造型",
+        "onboard_time": 1716246675,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144262,
+        "num": 144262,
+        "word": "一个普通女孩的考公七年之路",
+        "onboard_time": 1716258199,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139952,
+        "num": 139952,
+        "word": "iPhone15系列再次大降价最多便宜两千多",
+        "onboard_time": 1716248536,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133849,
+        "num": 133849,
+        "word": "官方对周杰伦福州演唱会开展督导检查",
+        "onboard_time": 1716252439,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133292,
+        "num": 133292,
+        "word": "小伙夜跑多看一眼救下女孩",
+        "onboard_time": 1716254600,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 130049,
+        "num": 130049,
+        "word": "泸定地震",
+        "onboard_time": 1716249800,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118591,
+        "num": 118591,
+        "word": "新款iPhoneSE或明年发布",
+        "onboard_time": 1716255140,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113856,
+        "num": 113856,
+        "word": "与凤行 庆功宴",
+        "onboard_time": 1716217400,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113809,
+        "num": 113809,
+        "word": "赵一博何浩楠",
+        "onboard_time": 1716250760,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113748,
+        "num": 113748,
+        "word": "G社拍的舒淇刘亦菲",
+        "onboard_time": 1716250819,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111558,
+        "num": 111558,
+        "word": "伊朗总统葬礼23日举行",
+        "onboard_time": 1716248536,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110341,
+        "num": 110341,
+        "word": "中国人均带薪假6.29天",
+        "onboard_time": 1716246795,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109686,
+        "num": 109686,
+        "word": "Rihanna 山东天后",
+        "onboard_time": 1716251180,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106211,
+        "num": 106211,
+        "word": "伊朗新任总统选举定于6月28日举行",
+        "onboard_time": 1716250339,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 102796,
+        "num": 102796,
+        "word": "2024国际乒联第21周排名",
+        "onboard_time": 1716257418,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102502,
+        "num": 102502,
+        "word": "没睡好觉是怎样弄垮健康的",
+        "onboard_time": 1716249377,
+        "rank": 48,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 100227,
+        "num": 100227,
+        "word": "吃到了蕾哈娜亲手摊的煎饼果子",
+        "onboard_time": 1716248718,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向伊朗第一副总统穆赫贝尔致唁电#"
+    }
+  }
+}

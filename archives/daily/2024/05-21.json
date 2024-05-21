@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716255456327,
+  "endTime": 1716258672695,
   "band_list": [
     {
       "raw_hot": 2287053,
@@ -9,6 +9,14 @@
       "onboard_time": 1716250400,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2161047,
+      "num": 2161047,
+      "word": "必须割掉危害孩子这颗全民网红毒瘤",
+      "onboard_time": 1716257121,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1498895,
@@ -49,6 +57,14 @@
       "onboard_time": 1716215959,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803629,
+      "num": 803629,
+      "word": "微信转账流行备注自愿赠与了吗",
+      "onboard_time": 1716253941,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 746785,
@@ -115,12 +131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 507310,
-      "num": 507310,
-      "word": "微信转账流行备注自愿赠与了吗",
-      "onboard_time": 1716253941,
-      "rank": 36,
-      "category": "互联网"
+      "raw_hot": 483421,
+      "num": 304511,
+      "word": "DNF手游补偿公告",
+      "onboard_time": 1716257418,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 478735,
@@ -137,6 +153,22 @@
       "onboard_time": 1716252621,
       "rank": 9,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 478476,
+      "num": 478476,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1716253819,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 478127,
+      "num": 299596,
+      "word": "你的核酸检测费退了吗",
+      "onboard_time": 1716257722,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453248,
@@ -177,14 +209,6 @@
       "onboard_time": 1716249498,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 383387,
-      "num": 383387,
-      "word": "披荆斩棘的哥哥",
-      "onboard_time": 1716253819,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 382036,
@@ -251,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298933,
+      "num": 221885,
+      "word": "外包父母月入四万",
+      "onboard_time": 1716254481,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291036,
       "num": 291036,
       "word": "李佳琦618不用难了",
@@ -273,6 +305,22 @@
       "onboard_time": 1716248536,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 278011,
+      "num": 278011,
+      "word": "谁敢相信这是魏大勋啊",
+      "onboard_time": 1716258020,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267576,
+      "num": 267576,
+      "word": "徐海乔 披荆斩棘的哥哥",
+      "onboard_time": 1716254900,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 265735,
@@ -307,19 +355,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 260044,
+      "num": 220999,
+      "word": "你昨晚睡了几小时",
+      "onboard_time": 1716257900,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255789,
       "num": 255789,
       "word": "老乡鸡葱油鸡已加量20g",
       "onboard_time": 1716216438,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253821,
-      "num": 184826,
-      "word": "外包父母月入四万",
-      "onboard_time": 1716254481,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -339,12 +387,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 240007,
-      "num": 240007,
-      "word": "徐海乔 披荆斩棘的哥哥",
-      "onboard_time": 1716254900,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 239432,
+      "num": 239432,
+      "word": "郭有才为啥火",
+      "onboard_time": 1716258081,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 236143,
@@ -403,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205828,
+      "num": 205828,
+      "word": "李克勤 合久必婚",
+      "onboard_time": 1716254841,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193962,
       "num": 193962,
       "word": "您的外卖已由特警送达",
@@ -435,20 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178456,
-      "num": 178456,
-      "word": "李克勤 合久必婚",
-      "onboard_time": 1716254841,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 178319,
       "num": 140677,
       "word": "酵色",
       "onboard_time": 1716211099,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 175605,
+      "num": 175605,
+      "word": "庆余年2第十集好爽",
+      "onboard_time": 1716256280,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 175191,
@@ -491,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153277,
+      "num": 153277,
+      "word": "年轻人为什么越来越爱爬山",
+      "onboard_time": 1716257121,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 153254,
       "num": 153254,
       "word": "何小鹏回应与小米竞争",
@@ -529,6 +593,14 @@
       "onboard_time": 1716248958,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144262,
+      "num": 144262,
+      "word": "一个普通女孩的考公七年之路",
+      "onboard_time": 1716258199,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 135369,
@@ -617,6 +689,14 @@
       "onboard_time": 1716246795,
       "rank": 30,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 102796,
+      "num": 102796,
+      "word": "2024国际乒联第21周排名",
+      "onboard_time": 1716257418,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 99511,
@@ -708,7 +788,7 @@
     },
     {
       "raw_hot": 85632,
-      "num": 873336,
+      "num": 1249791,
       "word": "小满的一幕幕画面太有爱了",
       "onboard_time": 1716213560,
       "rank": 2,
@@ -940,7 +1020,7 @@
     },
     {
       "raw_hot": 33465,
-      "num": 135507,
+      "num": 219484,
       "word": "你选鲜奶会看标签吗",
       "onboard_time": 1716255321,
       "rank": 44,
