@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716262550943,
+  "endTime": 1716265305850,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -409,6 +409,14 @@
       "onboard_time": 1715432901,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2744326,
+      "num": 2744326,
+      "word": "你昨晚睡了几小时",
+      "onboard_time": 1716257900,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 2723697,
@@ -1369,14 +1377,6 @@
       "onboard_time": 1715677340,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1667059,
-      "num": 1667059,
-      "word": "你昨晚睡了几小时",
-      "onboard_time": 1716257900,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 1665237,
@@ -2731,6 +2731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1259191,
+      "num": 1259191,
+      "word": "多地提醒慎入网约车行业",
+      "onboard_time": 1716260420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1257572,
       "num": 1257572,
       "word": "嫦娥六号发射圆满成功",
@@ -3249,6 +3257,14 @@
       "onboard_time": 1715691557,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1170384,
+      "num": 1170384,
+      "word": "向佐 那英",
+      "onboard_time": 1716263059,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1169450,
@@ -4121,6 +4137,14 @@
       "onboard_time": 1716130640,
       "rank": 22,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1045546,
+      "num": 1045546,
+      "word": "伊朗总统坠机细节公开",
+      "onboard_time": 1716263420,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1042097,
@@ -5865,6 +5889,14 @@
       "onboard_time": 1715610441,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 834953,
+      "num": 834953,
+      "word": "三本女生上岸211和偶像成校友",
+      "onboard_time": 1716259399,
+      "rank": 16,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 834533,
@@ -9321,14 +9353,6 @@
       "onboard_time": 1715741119,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 623182,
-      "num": 623182,
-      "word": "三本女生上岸211和偶像成校友",
-      "onboard_time": 1716259399,
-      "rank": 16,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 622673,
@@ -13819,14 +13843,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 455340,
-      "num": 455340,
-      "word": "多地提醒慎入网约车行业",
-      "onboard_time": 1716260420,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 455193,
       "num": 202446,
       "word": "年轻人结婚不买钻戒了",
@@ -14795,6 +14811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 428383,
+      "num": 428383,
+      "word": "大麦回应马龙退赛粉丝退票遭拒",
+      "onboard_time": 1716262399,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427983,
       "num": 427983,
       "word": "IU捐赠1亿韩元",
@@ -15219,6 +15243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418881,
+      "num": 418881,
+      "word": "郭有才为啥火",
+      "onboard_time": 1716258081,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 418734,
       "num": 262600,
       "word": "最苦的两个英子",
@@ -15473,14 +15505,6 @@
       "onboard_time": 1715616259,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 413954,
-      "num": 413954,
-      "word": "郭有才为啥火",
-      "onboard_time": 1716258081,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 413875,
@@ -19483,6 +19507,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 329503,
+      "num": 329503,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1714814359,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 329407,
       "num": 329407,
       "word": "林凯不参演赴山海",
@@ -19881,6 +19913,14 @@
       "onboard_time": 1715774898,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321305,
+      "num": 321305,
+      "word": "蒋敦豪 赫马佛洛狄忒斯",
+      "onboard_time": 1716263238,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 321279,
@@ -33187,14 +33227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193434,
-      "num": 193434,
-      "word": "凤凰传奇演唱会",
-      "onboard_time": 1714814359,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193367,
       "num": 193367,
       "word": "05女大学生兼职化妆",
@@ -42563,6 +42595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148266,
+      "num": 148266,
+      "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
+      "onboard_time": 1716259100,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148158,
       "num": 148158,
       "word": "南宁暴雨",
@@ -43441,6 +43481,14 @@
       "onboard_time": 1714625058,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144243,
+      "num": 144243,
+      "word": "勇士回不去家",
+      "onboard_time": 1716262818,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 144223,
@@ -45195,14 +45243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135890,
-      "num": 135890,
-      "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
-      "onboard_time": 1716259100,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135877,
       "num": 135877,
       "word": "2024年成都混合团体世界杯",
@@ -45907,14 +45947,6 @@
       "category": "社会新闻,汽车"
     },
     {
-      "raw_hot": 133157,
-      "num": 133157,
-      "word": "大麦回应马龙退赛粉丝退票遭拒",
-      "onboard_time": 1716262399,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133151,
       "num": 133151,
       "word": "林俊杰交换余生天降宿命感",
@@ -45961,6 +45993,14 @@
       "onboard_time": 1716259820,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132975,
+      "num": 142043,
+      "word": "河北一地泥狮子爆红却被质疑长相",
+      "onboard_time": 1716264199,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132930,
@@ -48121,6 +48161,14 @@
       "onboard_time": 1715814074,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122032,
+      "num": 140335,
+      "word": "鸣潮",
+      "onboard_time": 1716264620,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 121889,
@@ -50785,6 +50833,14 @@
       "onboard_time": 1715833461,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107709,
+      "num": 140323,
+      "word": "张曼玉当年在戛纳",
+      "onboard_time": 1716265222,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 107618,
@@ -54427,6 +54483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60974,
+      "num": 183208,
+      "word": "成年人现在流行重养自己",
+      "onboard_time": 1716264260,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60764,
       "num": 99061,
       "word": "曼联vs阿森纳",
@@ -56305,6 +56369,14 @@
       "onboard_time": 1714761253,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 29158,
+      "num": 144250,
+      "word": "小鹏OTA速度或将超越手机",
+      "onboard_time": 1716263120,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 28957,

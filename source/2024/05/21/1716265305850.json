@@ -1,0 +1,410 @@
+{
+  "runTime": 1716265305850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2744326,
+        "num": 2744326,
+        "word": "你昨晚睡了几小时",
+        "onboard_time": 1716257900,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1259191,
+        "num": 1259191,
+        "word": "多地提醒慎入网约车行业",
+        "onboard_time": 1716260420,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106444,
+        "num": 1199996,
+        "word": "中国茶文化知识点",
+        "onboard_time": 1716261138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170384,
+        "num": 1170384,
+        "word": "向佐 那英",
+        "onboard_time": 1716263059,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1045546,
+        "num": 1045546,
+        "word": "伊朗总统坠机细节公开",
+        "onboard_time": 1716263420,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 834953,
+        "num": 834953,
+        "word": "三本女生上岸211和偶像成校友",
+        "onboard_time": 1716259399,
+        "rank": 5,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 507730,
+        "num": 507730,
+        "word": "微信转账流行备注自愿赠与了吗",
+        "onboard_time": 1716253941,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 428383,
+        "num": 428383,
+        "word": "大麦回应马龙退赛粉丝退票遭拒",
+        "onboard_time": 1716262399,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 721361,
+        "num": 424732,
+        "word": "那英 摔倒",
+        "onboard_time": 1716250400,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418881,
+        "num": 418881,
+        "word": "郭有才为啥火",
+        "onboard_time": 1716258081,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2056880,
+        "num": 390635,
+        "word": "必须割掉危害孩子这颗全民网红毒瘤",
+        "onboard_time": 1716257121,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337408,
+        "num": 337408,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1716253819,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329503,
+        "num": 329503,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1716264680,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321305,
+        "num": 321305,
+        "word": "蒋敦豪 赫马佛洛狄忒斯",
+        "onboard_time": 1716263238,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308602,
+        "num": 308602,
+        "word": "一个普通女孩的考公七年之路",
+        "onboard_time": 1716258199,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273182,
+        "num": 273182,
+        "word": "那英摔倒后起身继续录节目",
+        "onboard_time": 1716259700,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271329,
+        "num": 271329,
+        "word": "谁敢相信这是魏大勋啊",
+        "onboard_time": 1716258020,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199558,
+        "num": 254207,
+        "word": "医院通知退核酸检测费市民怀疑是诈骗",
+        "onboard_time": 1716252200,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184899,
+        "num": 251896,
+        "word": "DNF手游补偿公告",
+        "onboard_time": 1716257418,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169102,
+        "num": 251820,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1716261559,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251763,
+        "num": 251763,
+        "word": "跑男总导演等孟子义航班一整晚",
+        "onboard_time": 1716248297,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238256,
+        "num": 238256,
+        "word": "刘德华演唱会",
+        "onboard_time": 1716261559,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194000,
+        "num": 194000,
+        "word": "外包父母月入四万",
+        "onboard_time": 1716254481,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193131,
+        "num": 193131,
+        "word": "关晓彤代言的天然呆成老赖",
+        "onboard_time": 1716258859,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188744,
+        "num": 188744,
+        "word": "庆帝灰飞烟灭让人毛骨悚然",
+        "onboard_time": 1716246855,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60974,
+        "num": 183208,
+        "word": "成年人现在流行重养自己",
+        "onboard_time": 1716264260,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178651,
+        "num": 178651,
+        "word": "二皇子妈见打典中典",
+        "onboard_time": 1716259399,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161134,
+        "num": 161134,
+        "word": "这年头摇个奶茶都这么e了吗",
+        "onboard_time": 1716259460,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156265,
+        "num": 156265,
+        "word": "年轻人为什么越来越爱爬山",
+        "onboard_time": 1716257121,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16247,
+        "num": 154902,
+        "word": "霸王茶姬为521国际茶日上大分",
+        "onboard_time": 1716260660,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154256,
+        "num": 154256,
+        "word": "刘亦菲安妮海瑟薇同框热聊",
+        "onboard_time": 1716251721,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152623,
+        "num": 152623,
+        "word": "宋亚轩被错认成鹿晗",
+        "onboard_time": 1716259219,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148266,
+        "num": 148266,
+        "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
+        "onboard_time": 1716259100,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145403,
+        "num": 145403,
+        "word": "舒淇顶级高定",
+        "onboard_time": 1716249498,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144521,
+        "num": 144521,
+        "word": "上着班突然通知被裁了",
+        "onboard_time": 1716253339,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55506,
+        "num": 144281,
+        "word": "余承东称自己一直在开智界S7",
+        "onboard_time": 1716260240,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29158,
+        "num": 144250,
+        "word": "小鹏OTA速度或将超越手机",
+        "onboard_time": 1716263120,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144243,
+        "num": 144243,
+        "word": "勇士回不去家",
+        "onboard_time": 1716262818,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142490,
+        "num": 142490,
+        "word": "张杰周深献唱狐妖月红篇OST",
+        "onboard_time": 1716259579,
+        "rank": 38,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 132975,
+        "num": 142043,
+        "word": "河北一地泥狮子爆红却被质疑长相",
+        "onboard_time": 1716264199,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141702,
+        "num": 141702,
+        "word": "奔跑吧",
+        "onboard_time": 1716262759,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140350,
+        "num": 140350,
+        "word": "年轻人撕裂般胸痛千万别忍",
+        "onboard_time": 1716252621,
+        "rank": 41,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 127560,
+        "num": 140349,
+        "word": "BBC曝光李胜利郑俊英崔钟训视频",
+        "onboard_time": 1716246616,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125313,
+        "num": 140338,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122032,
+        "num": 140335,
+        "word": "鸣潮",
+        "onboard_time": 1716264620,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117084,
+        "num": 140329,
+        "word": "徐海乔 披荆斩棘的哥哥",
+        "onboard_time": 1716254900,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107709,
+        "num": 140323,
+        "word": "张曼玉当年在戛纳",
+        "onboard_time": 1716265222,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104221,
+        "num": 140315,
+        "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
+        "onboard_time": 1716216320,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88600,
+        "num": 140314,
+        "word": "市监局局长就连云港鬼秤事件道歉",
+        "onboard_time": 1716251420,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107414,
+        "num": 140305,
+        "word": "iPhone15系列再次大降价最多便宜两千多",
+        "onboard_time": 1716248536,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#更加广泛地开展同各国的文化交流#"
+    }
+  }
+}
