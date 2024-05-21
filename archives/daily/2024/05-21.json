@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716283259984,
+  "endTime": 1716284109167,
   "band_list": [
     {
       "raw_hot": 3347213,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2440645,
-      "num": 452557,
+      "num": 460578,
       "word": "公职人员出轨不雅照被张贴车上",
       "onboard_time": 1716274998,
       "rank": 30,
@@ -243,6 +243,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 617254,
+      "num": 617254,
+      "word": "小红书回应平台可领养孩子",
+      "onboard_time": 1716279439,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 603740,
+      "num": 603740,
+      "word": "电视开机率下降到不足三成",
+      "onboard_time": 1716278418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592489,
       "num": 592489,
       "word": "以色列总理涉嫌战争罪被申请逮捕令",
@@ -289,14 +305,6 @@
       "onboard_time": 1716249559,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 509333,
-      "num": 509333,
-      "word": "电视开机率下降到不足三成",
-      "onboard_time": 1716278418,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 507549,
@@ -401,14 +409,6 @@
       "onboard_time": 1716251420,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451445,
-      "num": 451445,
-      "word": "小红书回应平台可领养孩子",
-      "onboard_time": 1716279439,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 448983,
@@ -537,6 +537,14 @@
       "onboard_time": 1716215300,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 344484,
+      "num": 344484,
+      "word": "奔跑吧撕名牌全员大混战",
+      "onboard_time": 1716283579,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 333426,
@@ -899,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218713,
+      "num": 218713,
+      "word": "刘端端演了一个情绪稳定的疯子",
+      "onboard_time": 1716281779,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211344,
       "num": 211344,
       "word": "同事为了不回群消息换了老人机",
@@ -971,12 +987,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 199675,
-      "num": 199675,
-      "word": "刘端端演了一个情绪稳定的疯子",
-      "onboard_time": 1716281779,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 198100,
+      "num": 198100,
+      "word": "张本智和称莎头是最棒的",
+      "onboard_time": 1716281659,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 197966,
@@ -1075,20 +1091,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183803,
+      "num": 183803,
+      "word": "中方对美国会前议员采取反制措施",
+      "onboard_time": 1716282619,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182759,
       "num": 182759,
       "word": "白敬亭神转场",
       "onboard_time": 1716275839,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182553,
-      "num": 182553,
-      "word": "张本智和称莎头是最棒的",
-      "onboard_time": 1716281659,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 181971,
@@ -1225,14 +1241,6 @@
       "onboard_time": 1716266901,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 160241,
-      "num": 161957,
-      "word": "中方对美国会前议员采取反制措施",
-      "onboard_time": 1716282619,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 158910,
@@ -1451,6 +1459,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140986,
+      "num": 140986,
+      "word": "云合",
+      "onboard_time": 1716283639,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139481,
+      "num": 854727,
+      "word": "这届年轻人爱喝茶",
+      "onboard_time": 1716281059,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135455,
       "num": 135455,
       "word": "小伙夜跑多看一眼救下女孩",
@@ -1472,6 +1496,14 @@
       "word": "中国茶文化知识点",
       "onboard_time": 1716261138,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133126,
+      "num": 133126,
+      "word": "05后女生聊天聊出一首歌",
+      "onboard_time": 1716283878,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1571,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126664,
+      "num": 126664,
+      "word": "于适什么大风大浪没见过",
+      "onboard_time": 1716283758,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124297,
       "num": 140335,
       "word": "鸣潮",
@@ -1643,20 +1683,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117188,
-      "num": 849712,
-      "word": "这届年轻人爱喝茶",
-      "onboard_time": 1716281059,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116299,
       "num": 116299,
       "word": "郭有才翻唱歌曲几乎都面临版权问题",
       "onboard_time": 1716278058,
       "rank": 45,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 114535,
+      "num": 114535,
+      "word": "猫咪吃醋的反应",
+      "onboard_time": 1716283219,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 114136,
@@ -1673,6 +1713,14 @@
       "onboard_time": 1716281360,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 112361,
+      "num": 112361,
+      "word": "TheShy发博为OP队老头杯加油",
+      "onboard_time": 1716284059,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 110434,
@@ -1747,12 +1795,28 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 103430,
+      "num": 456465,
+      "word": "90后创始人带中国茶走向世界",
+      "onboard_time": 1716280280,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102796,
       "num": 102796,
       "word": "2024国际乒联第21周排名",
       "onboard_time": 1716257418,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101724,
+      "num": 101724,
+      "word": "披荆斩棘4名单",
+      "onboard_time": 1716284059,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 101368,
@@ -1793,14 +1857,6 @@
       "onboard_time": 1716168678,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94548,
-      "num": 101361,
-      "word": "猫咪吃醋的反应",
-      "onboard_time": 1716283219,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 93782,
@@ -1899,11 +1955,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84327,
-      "num": 456465,
-      "word": "90后创始人带中国茶走向世界",
-      "onboard_time": 1716280280,
-      "rank": 41,
+      "raw_hot": 80744,
+      "num": 468439,
+      "word": "谈恋爱就耽误我成为独立女性了吗",
+      "onboard_time": 1716282737,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2139,14 +2195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37402,
-      "num": 458887,
-      "word": "谈恋爱就耽误我成为独立女性了吗",
-      "onboard_time": 1716282737,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36912,
       "num": 231767,
       "word": "梦回08年DNF上线",
@@ -2284,6 +2332,9 @@
     },
     {
       "word": "#更加广泛地开展同各国的文化交流#"
+    },
+    {
+      "word": "#习近平眼中的金叶子#"
     }
   ]
 }

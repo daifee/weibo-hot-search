@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716283259984,
+  "endTime": 1716284109167,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2440645,
-      "num": 452557,
+      "num": 460578,
       "word": "公职人员出轨不雅照被张贴车上",
       "onboard_time": 1716274998,
       "rank": 30,
@@ -1091,6 +1091,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 617254,
+      "num": 617254,
+      "word": "小红书回应平台可领养孩子",
+      "onboard_time": 1716279439,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 603740,
+      "num": 603740,
+      "word": "电视开机率下降到不足三成",
+      "onboard_time": 1716278418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603256,
       "num": 603256,
       "word": "G社拍的张艺兴林允儿",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1716249559,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 509333,
-      "num": 509333,
-      "word": "电视开机率下降到不足三成",
-      "onboard_time": 1716278418,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 508736,
@@ -1665,14 +1673,6 @@
       "onboard_time": 1716251420,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451445,
-      "num": 451445,
-      "word": "小红书回应平台可领养孩子",
-      "onboard_time": 1716279439,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 448983,
@@ -2241,6 +2241,14 @@
       "onboard_time": 1716128602,
       "rank": 24,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 344484,
+      "num": 344484,
+      "word": "奔跑吧撕名牌全员大混战",
+      "onboard_time": 1716283579,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 342357,
@@ -3515,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218713,
+      "num": 218713,
+      "word": "刘端端演了一个情绪稳定的疯子",
+      "onboard_time": 1716281779,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218361,
       "num": 218361,
       "word": "年少缺钱缺爱长大豪门阔太",
@@ -3963,14 +3979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199675,
-      "num": 199675,
-      "word": "刘端端演了一个情绪稳定的疯子",
-      "onboard_time": 1716281779,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199509,
       "num": 199509,
       "word": "aespa打歌",
@@ -4025,6 +4033,14 @@
       "onboard_time": 1716211158,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198100,
+      "num": 198100,
+      "word": "张本智和称莎头是最棒的",
+      "onboard_time": 1716281659,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 198056,
@@ -4387,20 +4403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183803,
+      "num": 183803,
+      "word": "中方对美国会前议员采取反制措施",
+      "onboard_time": 1716282619,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182759,
       "num": 182759,
       "word": "白敬亭神转场",
       "onboard_time": 1716275839,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182553,
-      "num": 182553,
-      "word": "张本智和称莎头是最棒的",
-      "onboard_time": 1716281659,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 182319,
@@ -4881,14 +4897,6 @@
       "onboard_time": 1716189679,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 160241,
-      "num": 161957,
-      "word": "中方对美国会前议员采取反制措施",
-      "onboard_time": 1716282619,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 158910,
@@ -5523,6 +5531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140986,
+      "num": 140986,
+      "word": "云合",
+      "onboard_time": 1716283639,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140909,
       "num": 140909,
       "word": "气血不足最怕的三个动作",
@@ -5569,6 +5585,14 @@
       "onboard_time": 1716109037,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139481,
+      "num": 854727,
+      "word": "这届年轻人爱喝茶",
+      "onboard_time": 1716281059,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139340,
@@ -5729,6 +5753,14 @@
       "onboard_time": 1716048199,
       "rank": 29,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 133126,
+      "num": 133126,
+      "word": "05后女生聊天聊出一首歌",
+      "onboard_time": 1716283878,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132981,
@@ -5937,6 +5969,14 @@
       "onboard_time": 1716134897,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 126664,
+      "num": 126664,
+      "word": "于适什么大风大浪没见过",
+      "onboard_time": 1716283758,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 126627,
@@ -6355,14 +6395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117188,
-      "num": 849712,
-      "word": "这届年轻人爱喝茶",
-      "onboard_time": 1716281059,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117162,
       "num": 117162,
       "word": "吃了小龙虾头晕目眩怎么回事",
@@ -6451,6 +6483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114535,
+      "num": 114535,
+      "word": "猫咪吃醋的反应",
+      "onboard_time": 1716283219,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114401,
       "num": 114401,
       "word": "陈若琳陈梦同框",
@@ -6512,6 +6552,14 @@
       "word": "WBG明明独狼吃鸡",
       "onboard_time": 1716120917,
       "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 112361,
+      "num": 112361,
+      "word": "TheShy发博为OP队老头杯加油",
+      "onboard_time": 1716284059,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -6763,6 +6811,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 103430,
+      "num": 456465,
+      "word": "90后创始人带中国茶走向世界",
+      "onboard_time": 1716280280,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103307,
       "num": 103307,
       "word": "阿Sa一开口青春回来了",
@@ -6816,6 +6872,14 @@
       "word": "范丞丞吐槽杨迪新发型",
       "onboard_time": 1716100756,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101724,
+      "num": 101724,
+      "word": "披荆斩棘4名单",
+      "onboard_time": 1716284059,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -6971,14 +7035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94548,
-      "num": 101361,
-      "word": "猫咪吃醋的反应",
-      "onboard_time": 1716283219,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94268,
       "num": 94268,
       "word": "救助了一只句句有回应的小猫",
@@ -7075,14 +7131,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 84327,
-      "num": 456465,
-      "word": "90后创始人带中国茶走向世界",
-      "onboard_time": 1716280280,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83930,
       "num": 318618,
       "word": "00后视障男孩做播客还带了徒弟",
@@ -7105,6 +7153,14 @@
       "onboard_time": 1716203058,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80744,
+      "num": 468439,
+      "word": "谈恋爱就耽误我成为独立女性了吗",
+      "onboard_time": 1716282737,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80620,
@@ -7683,14 +7739,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 37402,
-      "num": 458887,
-      "word": "谈恋爱就耽误我成为独立女性了吗",
-      "onboard_time": 1716282737,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36912,
       "num": 231767,
       "word": "梦回08年DNF上线",
@@ -8073,6 +8121,9 @@
     },
     {
       "word": "#更加广泛地开展同各国的文化交流#"
+    },
+    {
+      "word": "#习近平眼中的金叶子#"
     }
   ]
 }
