@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716315851031,
+  "endTime": 1716316607640,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -57531,6 +57531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41764,
+      "num": 39614,
+      "word": "姚PD感谢苗苗救场跑男",
+      "onboard_time": 1716314711,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41611,
       "num": 1133873,
       "word": "重申红线把基础教育越办越好",
@@ -57545,14 +57553,6 @@
       "onboard_time": 1715295675,
       "rank": 46,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 41566,
-      "num": 39614,
-      "word": "姚PD感谢苗苗救场跑男",
-      "onboard_time": 1716314711,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 41426,
@@ -58227,6 +58227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 29264,
+      "num": 33525,
+      "word": "刘亦菲高级珠宝",
+      "onboard_time": 1716316451,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28957,
       "num": 28957,
       "word": "四川的猫咪自带松弛感",
@@ -58289,6 +58297,14 @@
       "onboard_time": 1716140893,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27308,
+      "num": 33508,
+      "word": "陈立农新专辑",
+      "onboard_time": 1716316331,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 26714,
@@ -59104,6 +59120,14 @@
       "word": "被1只撩水的大熊猫撩到了",
       "onboard_time": 1715199491,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11228,
+      "num": 33488,
+      "word": "脑瘫小伙每天下班后做兼职努力赚钱",
+      "onboard_time": 1716313873,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
