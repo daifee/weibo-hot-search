@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716294876929,
+  "endTime": 1716295854832,
   "band_list": [
     {
       "raw_hot": 3798478,
@@ -107,6 +107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1339229,
+      "num": 1339229,
+      "word": "王婆说媒相亲已婚男已离婚",
+      "onboard_time": 1716291318,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1333716,
       "num": 1317394,
       "word": "向佐 那英",
@@ -171,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1096210,
-      "num": 1096210,
-      "word": "王婆说媒相亲已婚男已离婚",
-      "onboard_time": 1716291318,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 1104033,
+      "num": 1104033,
+      "word": "Jennie曾拒绝李胜利的邀请",
+      "onboard_time": 1716294018,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1085291,
@@ -185,6 +193,14 @@
       "onboard_time": 1716263420,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1000945,
+      "num": 1000945,
+      "word": "中国终将实现完全统一",
+      "onboard_time": 1716294318,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 995106,
@@ -313,14 +329,6 @@
       "onboard_time": 1716269119,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 668877,
-      "num": 528863,
-      "word": "Jennie曾拒绝李胜利的邀请",
-      "onboard_time": 1716294018,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 666722,
@@ -595,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410425,
-      "num": 410425,
-      "word": "中国终将实现完全统一",
-      "onboard_time": 1716294318,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 407744,
       "num": 407744,
       "word": "外交部回应布林肯祝贺赖清德就职",
@@ -625,6 +625,14 @@
       "onboard_time": 1716258199,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 392510,
+      "num": 392510,
+      "word": "武功山失温遇难女孩同伴曾打电话求救",
+      "onboard_time": 1716294318,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390006,
@@ -689,6 +697,14 @@
       "onboard_time": 1716266362,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357701,
+      "num": 357701,
+      "word": "赵昭仪 姐你上楼梯呢",
+      "onboard_time": 1716293779,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 347256,
@@ -827,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298232,
+      "num": 298232,
+      "word": "4小孩河边洗澡两人溺亡同行人获刑11年",
+      "onboard_time": 1716294438,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296200,
       "num": 296200,
       "word": "这年头摇个奶茶都这么e了吗",
@@ -899,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270672,
-      "num": 270672,
-      "word": "赵昭仪 姐你上楼梯呢",
-      "onboard_time": 1716293779,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267576,
       "num": 267576,
       "word": "徐海乔 披荆斩棘的哥哥",
@@ -920,6 +936,14 @@
       "word": "黄俊捷不参演赴山海",
       "onboard_time": 1716212299,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 265316,
+      "num": 265316,
+      "word": "又幸福了纯爱大皇子",
+      "onboard_time": 1716294857,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -1115,14 +1139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223260,
-      "num": 223260,
-      "word": "武功山失温遇难女孩同伴曾打电话求救",
-      "onboard_time": 1716294318,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222482,
       "num": 222482,
       "word": "原神未行之路",
@@ -1145,6 +1161,22 @@
       "onboard_time": 1716276559,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210575,
+      "num": 210575,
+      "word": "EDG分组",
+      "onboard_time": 1716294979,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 210378,
+      "num": 210378,
+      "word": "李耕耘对蒋敦豪一口一个哥哥",
+      "onboard_time": 1716295759,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 208981,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1716254841,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205333,
+      "num": 205333,
+      "word": "LPL抽签结果",
+      "onboard_time": 1716295219,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 205310,
@@ -1363,14 +1403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188720,
-      "num": 188720,
-      "word": "4小孩河边洗澡两人溺亡同行人获刑11年",
-      "onboard_time": 1716294438,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187864,
       "num": 187864,
       "word": "坚决反对建交国与台湾官方往来",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1716249377,
       "rank": 32,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 184794,
+      "num": 184794,
+      "word": "2024LPL",
+      "onboard_time": 1716294739,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 183970,
@@ -1795,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143943,
+      "num": 143943,
+      "word": "原来火车上遇到大臭被是可以换的",
+      "onboard_time": 1716295698,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143572,
       "num": 143572,
       "word": "河北一地泥狮子爆红却被质疑长相",
@@ -1867,14 +1915,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 134680,
-      "num": 134680,
-      "word": "2024LPL",
-      "onboard_time": 1716294739,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 133822,
       "num": 1447860,
       "word": "中国茶文化知识点",
@@ -1921,6 +1961,14 @@
       "onboard_time": 1716280280,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130288,
+      "num": 386010,
+      "word": "因为我是你 所以我爱你",
+      "onboard_time": 1716292819,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130007,
@@ -2019,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126937,
+      "num": 126937,
+      "word": "新生儿减少幼儿园改办托老所",
+      "onboard_time": 1716292819,
+      "rank": 42,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 126664,
       "num": 126664,
       "word": "于适什么大风大浪没见过",
@@ -2027,8 +2083,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125234,
-      "num": 125234,
+      "raw_hot": 126277,
+      "num": 126277,
       "word": "宋雨琦沈小婷跑男同框",
       "onboard_time": 1716293420,
       "rank": 40,
@@ -2091,14 +2147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120065,
-      "num": 120065,
-      "word": "新生儿减少幼儿园改办托老所",
-      "onboard_time": 1716292819,
-      "rank": 42,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 119743,
       "num": 119743,
       "word": "易烊千玺牛仔衬衫西装叠搭造型",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1716278658,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117165,
+      "num": 117165,
+      "word": "小狗同意你摸摸头的意思",
+      "onboard_time": 1716295038,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 116299,
@@ -2187,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110798,
+      "num": 483301,
+      "word": "嫌室友9元买1个西瓜太贵背来3麻袋",
+      "onboard_time": 1716294378,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110434,
       "num": 110434,
       "word": "别人过520我去过521",
@@ -2219,14 +2283,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 108279,
-      "num": 108279,
-      "word": "又幸福了纯爱大皇子",
-      "onboard_time": 1716294857,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107496,
       "num": 107496,
       "word": "花儿与少年好友记",
@@ -2249,14 +2305,6 @@
       "onboard_time": 1716208757,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104429,
-      "num": 483301,
-      "word": "嫌室友9元买1个西瓜太贵背来3麻袋",
-      "onboard_time": 1716294378,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103739,
@@ -2313,14 +2361,6 @@
       "onboard_time": 1716212480,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99068,
-      "num": 311921,
-      "word": "因为我是你 所以我爱你",
-      "onboard_time": 1716292819,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97682,
@@ -2795,20 +2835,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 12787,
+      "num": 132782,
+      "word": "鸣潮也有自己的商务殷语",
+      "onboard_time": 1716294857,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 11636,
       "num": 17840,
       "word": "我的阿勒泰售后营业",
       "onboard_time": 1716235930,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 7726,
-      "num": 95206,
-      "word": "鸣潮也有自己的商务殷语",
-      "onboard_time": 1716294857,
-      "rank": 49,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
