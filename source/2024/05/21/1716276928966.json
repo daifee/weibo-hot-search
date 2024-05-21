@@ -1,0 +1,410 @@
+{
+  "runTime": 1716276928966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200385,
+        "num": 1200385,
+        "word": "第一次意识到1万块这么有质感",
+        "onboard_time": 1716269360,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 839536,
+        "num": 839536,
+        "word": "那英回应摔倒",
+        "onboard_time": 1716274998,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29168,
+        "num": 723339,
+        "word": "长城长皆同往",
+        "onboard_time": 1716261020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674656,
+        "num": 674656,
+        "word": "具荷拉 振聋发聩的伟大发声",
+        "onboard_time": 1716269360,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666409,
+        "num": 666409,
+        "word": "从美国进口血液制品致英国3万人感染艾滋等",
+        "onboard_time": 1716270979,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484225,
+        "num": 484225,
+        "word": "你昨晚睡了几小时",
+        "onboard_time": 1716257900,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 655161,
+        "num": 453455,
+        "word": "闵熙珍说NewJeans成员胖得跟猪一样",
+        "onboard_time": 1716275119,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393471,
+        "num": 393471,
+        "word": "笨蛋美人 腹黑权臣",
+        "onboard_time": 1716275179,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355644,
+        "num": 355644,
+        "word": "26岁女留学生在美失踪5天",
+        "onboard_time": 1716271399,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275758,
+        "num": 275758,
+        "word": "郴州",
+        "onboard_time": 1716269900,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2440645,
+        "num": 274450,
+        "word": "公职人员出轨不雅照被张贴车上",
+        "onboard_time": 1716274998,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319873,
+        "num": 272545,
+        "word": "美歌手持枪拍视频意外自杀",
+        "onboard_time": 1716272001,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267575,
+        "num": 267575,
+        "word": "湖南郴州一公园发生刑案致3死2伤",
+        "onboard_time": 1716268521,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265030,
+        "num": 265030,
+        "word": "伊能静文案",
+        "onboard_time": 1716275358,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239544,
+        "num": 260850,
+        "word": "中学生体考神器潜在风险不容忽视",
+        "onboard_time": 1716273080,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258773,
+        "num": 258773,
+        "word": "一用户在近200份外卖中都吃到头发钢丝",
+        "onboard_time": 1716274819,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262546,
+        "num": 258713,
+        "word": "小S回应赵正平叫小曲线",
+        "onboard_time": 1716273318,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257238,
+        "num": 257238,
+        "word": "奔跑吧宋雨琦",
+        "onboard_time": 1716271460,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240081,
+        "num": 240081,
+        "word": "有个叫范闲的人要做我靠山",
+        "onboard_time": 1716269360,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231789,
+        "num": 231789,
+        "word": "警方回应女孩武功山徒步遇难",
+        "onboard_time": 1716274939,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703642,
+        "num": 231119,
+        "word": "必须割掉危害孩子这颗全民网红毒瘤",
+        "onboard_time": 1716257121,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453768,
+        "num": 230155,
+        "word": "海南海边发现骨架2米不明生物尸体",
+        "onboard_time": 1716275119,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239549,
+        "num": 229436,
+        "word": "秦岚为赵昭仪庆生",
+        "onboard_time": 1716276140,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418744,
+        "num": 227842,
+        "word": "女朋友要把彩礼存死期",
+        "onboard_time": 1716269119,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227529,
+        "num": 227529,
+        "word": "微信转账流行备注自愿赠与了吗",
+        "onboard_time": 1716253941,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 220021,
+        "num": 220021,
+        "word": "大大方方的抠门并不丢人",
+        "onboard_time": 1716271818,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208981,
+        "num": 208981,
+        "word": "刘亦菲许愿池的少女",
+        "onboard_time": 1716275479,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195560,
+        "num": 195560,
+        "word": "张艺兴海滩唱跳",
+        "onboard_time": 1716275719,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183063,
+        "num": 183063,
+        "word": "向佐把那英扑倒了",
+        "onboard_time": 1716263059,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182759,
+        "num": 182759,
+        "word": "白敬亭神转场",
+        "onboard_time": 1716275839,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168729,
+        "num": 168729,
+        "word": "三本女生上岸211和偶像成校友",
+        "onboard_time": 1716259399,
+        "rank": 30,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 166359,
+        "num": 166359,
+        "word": "伊朗总统坠机细节公开",
+        "onboard_time": 1716263420,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162635,
+        "num": 162635,
+        "word": "同事为了不回群消息换了老人机",
+        "onboard_time": 1716276559,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27860,
+        "num": 159864,
+        "word": "鸣潮比女娲会捏",
+        "onboard_time": 1716272659,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158339,
+        "num": 158339,
+        "word": "建议大家做事提前5分钟准备",
+        "onboard_time": 1716271818,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60197,
+        "num": 147982,
+        "word": "霸王茶姬的朋友圈太牛了",
+        "onboard_time": 1716276379,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144979,
+        "num": 144979,
+        "word": "离婚感",
+        "onboard_time": 1716271279,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138835,
+        "num": 138835,
+        "word": "男子起诉前女友返还61.4万转账被驳回",
+        "onboard_time": 1716275299,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137437,
+        "num": 137437,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130609,
+        "num": 130609,
+        "word": "在美失踪26岁女留学生遗体被找到",
+        "onboard_time": 1716276679,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128036,
+        "num": 128036,
+        "word": "突然理解了下班后打游戏的人",
+        "onboard_time": 1716276500,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127066,
+        "num": 127066,
+        "word": "横篮惊喜友谊赛直播",
+        "onboard_time": 1716276258,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127776,
+        "num": 126962,
+        "word": "福宝香香喀秋莎有个共享奶爸",
+        "onboard_time": 1716272539,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126841,
+        "num": 126841,
+        "word": "头一次见这么用心的礼物",
+        "onboard_time": 1716275600,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125825,
+        "num": 125825,
+        "word": "郭有才为啥火",
+        "onboard_time": 1716258081,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119632,
+        "num": 119632,
+        "word": "喜欢趁没人时玩滑梯的猫咪",
+        "onboard_time": 1716276739,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119054,
+        "num": 119054,
+        "word": "庆余年2五子齐海报",
+        "onboard_time": 1716272719,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111636,
+        "num": 111636,
+        "word": "普通人一定对钱要有概念",
+        "onboard_time": 1716276258,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106182,
+        "num": 106182,
+        "word": "一诺在线拉票",
+        "onboard_time": 1716274159,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105580,
+        "num": 105580,
+        "word": "午睡也有最佳时长",
+        "onboard_time": 1716268818,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#更加广泛地开展同各国的文化交流#"
+    }
+  }
+}

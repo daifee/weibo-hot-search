@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716275892823,
+  "endTime": 1716276928966,
   "band_list": [
     {
       "raw_hot": 3347213,
@@ -17,6 +17,14 @@
       "onboard_time": 1716257900,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2440645,
+      "num": 274450,
+      "word": "公职人员出轨不雅照被张贴车上",
+      "onboard_time": 1716274998,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2287053,
@@ -107,20 +115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 945879,
-      "num": 160519,
-      "word": "公职人员出轨不雅照被张贴车上",
-      "onboard_time": 1716274998,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 851391,
       "num": 379497,
       "word": "3名大学生爬长城被雷击",
       "onboard_time": 1716215959,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839536,
+      "num": 839536,
+      "word": "那英回应摔倒",
+      "onboard_time": 1716274998,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 834953,
@@ -180,11 +188,19 @@
     },
     {
       "raw_hot": 718315,
-      "num": 224994,
+      "num": 227842,
       "word": "女朋友要把彩礼存死期",
       "onboard_time": 1716269119,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 655161,
+      "num": 453455,
+      "word": "闵熙珍说NewJeans成员胖得跟猪一样",
+      "onboard_time": 1716275119,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 636094,
@@ -209,14 +225,6 @@
       "onboard_time": 1716219559,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 581046,
-      "num": 581046,
-      "word": "那英回应摔倒",
-      "onboard_time": 1716274998,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 567289,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453768,
+      "num": 230155,
+      "word": "海南海边发现骨架2米不明生物尸体",
+      "onboard_time": 1716275119,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453248,
       "num": 453248,
       "word": "BBC曝光李胜利郑俊英崔钟训视频",
@@ -379,12 +395,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 391867,
-      "num": 391867,
-      "word": "闵熙珍说NewJeans成员胖得跟猪一样",
-      "onboard_time": 1716275119,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 393471,
+      "num": 393471,
+      "word": "笨蛋美人 腹黑权臣",
+      "onboard_time": 1716275179,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 390006,
@@ -489,14 +505,6 @@
       "onboard_time": 1716246675,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 317349,
-      "num": 224222,
-      "word": "海南海边发现骨架2米不明生物尸体",
-      "onboard_time": 1716275119,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317303,
@@ -611,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265030,
+      "num": 265030,
+      "word": "伊能静文案",
+      "onboard_time": 1716275358,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263065,
       "num": 229996,
       "word": "上着班突然通知被裁了",
@@ -633,6 +649,14 @@
       "onboard_time": 1716178103,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 258773,
+      "num": 377764,
+      "word": "一用户在近200份外卖中都吃到头发钢丝",
+      "onboard_time": 1716274819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255789,
@@ -667,6 +691,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239549,
+      "num": 229436,
+      "word": "秦岚为赵昭仪庆生",
+      "onboard_time": 1716276140,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239544,
+      "num": 363458,
+      "word": "中学生体考神器潜在风险不容忽视",
+      "onboard_time": 1716273080,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236143,
       "num": 236143,
       "word": "院方通报广西17岁体育生错切右膝",
@@ -699,6 +739,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 231789,
+      "num": 231789,
+      "word": "警方回应女孩武功山徒步遇难",
+      "onboard_time": 1716274939,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230691,
       "num": 224078,
       "word": "大大方方的抠门并不丢人",
@@ -723,14 +771,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 226642,
-      "num": 363458,
-      "word": "中学生体考神器潜在风险不容忽视",
-      "onboard_time": 1716273080,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225139,
       "num": 225139,
       "word": "官方对周杰伦福州演唱会开展督导检查",
@@ -747,14 +787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223670,
-      "num": 223670,
-      "word": "笨蛋美人 腹黑权臣",
-      "onboard_time": 1716275179,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222482,
       "num": 222482,
       "word": "原神未行之路",
@@ -769,6 +801,14 @@
       "onboard_time": 1716269477,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208981,
+      "num": 208981,
+      "word": "刘亦菲许愿池的少女",
+      "onboard_time": 1716275479,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 207829,
@@ -793,14 +833,6 @@
       "onboard_time": 1716254841,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204905,
-      "num": 204905,
-      "word": "伊能静文案",
-      "onboard_time": 1716275358,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 201002,
@@ -867,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195560,
+      "num": 195560,
+      "word": "张艺兴海滩唱跳",
+      "onboard_time": 1716275719,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194124,
       "num": 194124,
       "word": "辛芷蕾给赵昭仪庆生",
@@ -891,14 +931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188504,
-      "num": 188504,
-      "word": "警方回应女孩武功山徒步遇难",
-      "onboard_time": 1716274939,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186557,
       "num": 186557,
       "word": "没睡好觉是怎样弄垮健康的",
@@ -913,6 +945,14 @@
       "onboard_time": 1716249800,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182759,
+      "num": 182759,
+      "word": "白敬亭神转场",
+      "onboard_time": 1716275839,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 181971,
@@ -993,6 +1033,14 @@
       "onboard_time": 1716252679,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162635,
+      "num": 162635,
+      "word": "同事为了不回群消息换了老人机",
+      "onboard_time": 1716276559,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 162344,
@@ -1139,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144979,
+      "num": 144979,
+      "word": "离婚感",
+      "onboard_time": 1716271279,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144243,
       "num": 144243,
       "word": "勇士回不去家",
@@ -1153,14 +1209,6 @@
       "onboard_time": 1716264199,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143351,
-      "num": 143351,
-      "word": "刘亦菲许愿池的少女",
-      "onboard_time": 1716275479,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 142757,
@@ -1179,12 +1227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139082,
-      "num": 139082,
-      "word": "张艺兴海滩唱跳",
-      "onboard_time": 1716275719,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 138835,
+      "num": 138835,
+      "word": "男子起诉前女友返还61.4万转账被驳回",
+      "onboard_time": 1716275299,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135455,
@@ -1227,6 +1275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130609,
+      "num": 130609,
+      "word": "在美失踪26岁女留学生遗体被找到",
+      "onboard_time": 1716276679,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130007,
       "num": 130007,
       "word": "DNF手游能玩了",
@@ -1241,6 +1297,22 @@
       "onboard_time": 1716268818,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128036,
+      "num": 128036,
+      "word": "突然理解了下班后打游戏的人",
+      "onboard_time": 1716276500,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 127776,
+      "num": 126962,
+      "word": "福宝香香喀秋莎有个共享奶爸",
+      "onboard_time": 1716272539,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127694,
@@ -1267,6 +1339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127066,
+      "num": 127066,
+      "word": "横篮惊喜友谊赛直播",
+      "onboard_time": 1716276258,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124297,
       "num": 140335,
       "word": "鸣潮",
@@ -1281,14 +1361,6 @@
       "onboard_time": 1716272719,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123458,
-      "num": 377764,
-      "word": "一用户在近200份外卖中都吃到头发钢丝",
-      "onboard_time": 1716274819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122673,
@@ -1315,6 +1387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119632,
+      "num": 119632,
+      "word": "喜欢趁没人时玩滑梯的猫咪",
+      "onboard_time": 1716276739,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119559,
       "num": 119559,
       "word": "杨幂520捧花",
@@ -1331,20 +1411,20 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 117216,
-      "num": 117216,
-      "word": "福宝香香喀秋莎有个共享奶爸",
-      "onboard_time": 1716272539,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114136,
       "num": 141202,
       "word": "王俊凯的内搭和蔡依林的裙子",
       "onboard_time": 1716205878,
       "rank": 27,
       "category": "演出,时尚"
+    },
+    {
+      "raw_hot": 111636,
+      "num": 111636,
+      "word": "普通人一定对钱要有概念",
+      "onboard_time": 1716276258,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 110434,
@@ -1361,14 +1441,6 @@
       "onboard_time": 1716273798,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110000,
-      "num": 110000,
-      "word": "白敬亭神转场",
-      "onboard_time": 1716275839,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 108643,
@@ -1667,6 +1739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60197,
+      "num": 147982,
+      "word": "霸王茶姬的朋友圈太牛了",
+      "onboard_time": 1716276379,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 58985,
       "num": 58985,
       "word": "怀柔文旅回应3名大学生爬长城被雷击",
@@ -1836,7 +1916,7 @@
     },
     {
       "raw_hot": 28793,
-      "num": 154509,
+      "num": 159864,
       "word": "鸣潮比女娲会捏",
       "onboard_time": 1716272659,
       "rank": 46,
