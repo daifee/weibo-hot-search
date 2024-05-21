@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716280578737,
+  "endTime": 1716283259984,
   "band_list": [
     {
       "raw_hot": 3347213,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2440645,
-      "num": 378352,
+      "num": 452557,
       "word": "公职人员出轨不雅照被张贴车上",
       "onboard_time": 1716274998,
       "rank": 30,
@@ -33,6 +33,14 @@
       "onboard_time": 1716250400,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2272282,
+      "num": 2272282,
+      "word": "哥哥想替过世妹妹见周杰伦遭大麦拒绝",
+      "onboard_time": 1716279439,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 2161047,
@@ -129,14 +137,6 @@
       "onboard_time": 1716222497,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 929648,
-      "num": 929648,
-      "word": "哥哥想替过世妹妹见周杰伦遭大麦拒绝",
-      "onboard_time": 1716279439,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 888663,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 509333,
+      "num": 509333,
+      "word": "电视开机率下降到不足三成",
+      "onboard_time": 1716278418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507549,
       "num": 507549,
       "word": "凤凰传奇演唱会",
@@ -363,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462949,
+      "num": 462949,
+      "word": "郭有才",
+      "onboard_time": 1716280038,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 458741,
       "num": 371148,
       "word": "在美失踪26岁女留学生遗体被找到",
@@ -385,6 +401,14 @@
       "onboard_time": 1716251420,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451445,
+      "num": 451445,
+      "word": "小红书回应平台可领养孩子",
+      "onboard_time": 1716279439,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 448983,
@@ -563,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319265,
+      "num": 232924,
+      "word": "文俊辉 成都",
+      "onboard_time": 1716281539,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317303,
       "num": 230012,
       "word": "中国人均带薪假6.29天",
@@ -739,14 +771,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 247610,
-      "num": 384675,
-      "word": "电视开机率下降到不足三成",
-      "onboard_time": 1716278418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241471,
       "num": 241471,
       "word": "520 垃圾桶",
@@ -777,6 +801,14 @@
       "onboard_time": 1716273080,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238224,
+      "num": 238224,
+      "word": "沈月这是上恋综还是上课",
+      "onboard_time": 1716279680,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 236143,
@@ -883,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208418,
-      "num": 208418,
-      "word": "郭有才",
-      "onboard_time": 1716280038,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 207829,
       "num": 207829,
       "word": "Rihanna 山东天后",
@@ -915,6 +939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201364,
+      "num": 201364,
+      "word": "A股又见神预言卡点涨停",
+      "onboard_time": 1716280457,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 201002,
       "num": 201002,
       "word": "张曼玉当年在戛纳",
@@ -937,6 +969,14 @@
       "onboard_time": 1716259278,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 199675,
+      "num": 199675,
+      "word": "刘端端演了一个情绪稳定的疯子",
+      "onboard_time": 1716281779,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 197966,
@@ -1027,22 +1067,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 185602,
-      "num": 185602,
-      "word": "沈月这是上恋综还是上课",
-      "onboard_time": 1716279680,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 184273,
-      "num": 184273,
-      "word": "小红书回应平台可领养孩子",
-      "onboard_time": 1716279439,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 183970,
       "num": 183970,
       "word": "泸定地震",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1716275839,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182553,
+      "num": 182553,
+      "word": "张本智和称莎头是最棒的",
+      "onboard_time": 1716281659,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 181971,
@@ -1155,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165167,
+      "num": 165167,
+      "word": "第一次见电梯里还有扶手的",
+      "onboard_time": 1716281240,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164657,
       "num": 164657,
       "word": "余承东称享界S9舒适超迈巴赫",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1716266901,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 160241,
+      "num": 161957,
+      "word": "中方对美国会前议员采取反制措施",
+      "onboard_time": 1716282619,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158910,
@@ -1339,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146661,
+      "num": 146661,
+      "word": "小红书治理非法领养违规内容",
+      "onboard_time": 1716282198,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145314,
       "num": 145314,
       "word": "陈萍萍轮椅里的绝世神兵",
@@ -1491,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127307,
+      "num": 127307,
+      "word": "中华白海豚干饭前一套小连招",
+      "onboard_time": 1716282979,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127158,
       "num": 141359,
       "word": "指甲出现这4个异常可能是大病先兆",
@@ -1579,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117188,
+      "num": 849712,
+      "word": "这届年轻人爱喝茶",
+      "onboard_time": 1716281059,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116299,
       "num": 116299,
       "word": "郭有才翻唱歌曲几乎都面临版权问题",
@@ -1595,12 +1667,12 @@
       "category": "演出,时尚"
     },
     {
-      "raw_hot": 112120,
-      "num": 112120,
-      "word": "A股又见神预言卡点涨停",
-      "onboard_time": 1716280457,
-      "rank": 47,
-      "category": "财经"
+      "raw_hot": 113662,
+      "num": 113662,
+      "word": "小红书客服回应崩了",
+      "onboard_time": 1716281360,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 110434,
@@ -1617,6 +1689,14 @@
       "onboard_time": 1716273798,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109467,
+      "num": 109467,
+      "word": "一生要强的萨摩耶主人",
+      "onboard_time": 1716281718,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 108643,
@@ -1675,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101368,
+      "num": 101368,
+      "word": "两只狗狗的高效工作",
+      "onboard_time": 1716279739,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100518,
       "num": 100518,
       "word": "龙虾馄饨",
@@ -1707,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94548,
+      "num": 101361,
+      "word": "猫咪吃醋的反应",
+      "onboard_time": 1716283219,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93782,
       "num": 139510,
       "word": "丈夫称想在去世20年妻子面前大哭一场",
@@ -1737,14 +1833,6 @@
       "onboard_time": 1716268100,
       "rank": 32,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 92445,
-      "num": 92445,
-      "word": "两只狗狗的高效工作",
-      "onboard_time": 1716279739,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 90027,
@@ -1812,7 +1900,7 @@
     },
     {
       "raw_hot": 84327,
-      "num": 130227,
+      "num": 456465,
       "word": "90后创始人带中国茶走向世界",
       "onboard_time": 1716280280,
       "rank": 41,
@@ -2048,6 +2136,14 @@
       "word": "杭州机场打车已经是nextlevel了",
       "onboard_time": 1716226814,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37402,
+      "num": 458887,
+      "word": "谈恋爱就耽误我成为独立女性了吗",
+      "onboard_time": 1716282737,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
