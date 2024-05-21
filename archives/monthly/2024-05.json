@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716308574072,
+  "endTime": 1716309469296,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -21099,6 +21099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311426,
+      "num": 311426,
+      "word": "年轻人为什么喜欢养寄居蟹了",
+      "onboard_time": 1716305601,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311309,
       "num": 228891,
       "word": "嬛嬛 朕能不能睡中间",
@@ -28113,14 +28121,6 @@
       "onboard_time": 1714733600,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 225026,
-      "num": 225026,
-      "word": "年轻人为什么喜欢养寄居蟹了",
-      "onboard_time": 1716305601,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224945,
@@ -36011,6 +36011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185876,
+      "num": 174652,
+      "word": "五月天鸟巢演唱会",
+      "onboard_time": 1716030677,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185867,
       "num": 185867,
       "word": "neinei轩轩一起游迪士尼",
@@ -37267,6 +37275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179137,
+      "num": 161358,
+      "word": "建议大家工作后都准备两个微信",
+      "onboard_time": 1716307339,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179106,
       "num": 117993,
       "word": "似锦",
@@ -38265,14 +38281,6 @@
       "onboard_time": 1715009420,
       "rank": 42,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 174652,
-      "num": 174652,
-      "word": "五月天鸟巢演唱会",
-      "onboard_time": 1716030677,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 174601,
@@ -41137,14 +41145,6 @@
       "onboard_time": 1714632017,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161358,
-      "num": 161358,
-      "word": "建议大家工作后都准备两个微信",
-      "onboard_time": 1716307339,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 161306,
@@ -54643,6 +54643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 85931,
+      "num": 118368,
+      "word": "袁爷爷吴爷爷我们好想你们",
+      "onboard_time": 1716308117,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85523,
       "num": 83577,
       "word": "陆虎在机场捡了个活儿",
@@ -55905,14 +55913,6 @@
       "onboard_time": 1715969893,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66096,
-      "num": 118368,
-      "word": "袁爷爷吴爷爷我们好想你们",
-      "onboard_time": 1716308117,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65944,
