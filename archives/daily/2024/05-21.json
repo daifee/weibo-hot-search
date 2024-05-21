@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716284109167,
+  "endTime": 1716286790489,
   "band_list": [
     {
       "raw_hot": 3347213,
@@ -81,6 +81,14 @@
       "onboard_time": 1716277399,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1384074,
+      "num": 480508,
+      "word": "大麦回应出示死亡证明仍拒变更观演人",
+      "onboard_time": 1716284779,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1333716,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 771842,
+      "num": 397859,
+      "word": "张艺兴晒了与林允儿合照",
+      "onboard_time": 1716285799,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 765339,
       "num": 765339,
       "word": "湖南郴州一公园发生刑案致3死2伤",
@@ -235,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650521,
+      "num": 267835,
+      "word": "小三收25万向原配秀恩爱被全部索回",
+      "onboard_time": 1716284179,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636094,
       "num": 508451,
       "word": "庆帝灰飞烟灭让人毛骨悚然",
@@ -281,6 +305,14 @@
       "onboard_time": 1716275179,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 569875,
+      "num": 398698,
+      "word": "奔跑吧撕名牌全员大混战",
+      "onboard_time": 1716283579,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 567289,
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348119,
+      "num": 348119,
+      "word": "新加坡航空一客机紧急迫降曼谷机场",
+      "onboard_time": 1716286518,
+      "rank": 14,
+      "category": "国外时政,国外时政"
+    },
+    {
       "raw_hot": 347256,
       "num": 347256,
       "word": "向佐把那英扑倒了",
@@ -537,14 +577,6 @@
       "onboard_time": 1716215300,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 344484,
-      "num": 344484,
-      "word": "奔跑吧撕名牌全员大混战",
-      "onboard_time": 1716283579,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 333426,
@@ -601,6 +633,14 @@
       "onboard_time": 1716281539,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319264,
+      "num": 319264,
+      "word": "大麦",
+      "onboard_time": 1716286039,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317303,
@@ -715,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274277,
+      "num": 274277,
+      "word": "李胜利百万欠款的来龙去脉",
+      "onboard_time": 1716285979,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267576,
       "num": 267576,
       "word": "徐海乔 披荆斩棘的哥哥",
@@ -763,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258857,
+      "num": 258857,
+      "word": "TheShy发博为OP队老头杯加油",
+      "onboard_time": 1716284059,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 255789,
       "num": 255789,
       "word": "老乡鸡葱油鸡已加量20g",
@@ -777,6 +833,14 @@
       "onboard_time": 1716267021,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 246787,
+      "num": 246787,
+      "word": "刘端端演了一个情绪稳定的疯子",
+      "onboard_time": 1716281779,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 241471,
@@ -907,14 +971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 218713,
-      "num": 218713,
-      "word": "刘端端演了一个情绪稳定的疯子",
-      "onboard_time": 1716281779,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211344,
       "num": 211344,
       "word": "同事为了不回群消息换了老人机",
@@ -955,12 +1011,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205103,
+      "num": 205103,
+      "word": "林更新刘亦菲互关了",
+      "onboard_time": 1716284298,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201364,
       "num": 201364,
       "word": "A股又见神预言卡点涨停",
       "onboard_time": 1716280457,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 201329,
+      "num": 201329,
+      "word": "薛之谦巡演官宣徐州站",
+      "onboard_time": 1716285739,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 201002,
@@ -1051,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194430,
+      "num": 194430,
+      "word": "张真源 撕名牌易如反掌",
+      "onboard_time": 1716286039,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194124,
       "num": 194124,
       "word": "辛芷蕾给赵昭仪庆生",
@@ -1081,6 +1161,14 @@
       "onboard_time": 1716249377,
       "rank": 32,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 185560,
+      "num": 185560,
+      "word": "披荆斩棘4名单",
+      "onboard_time": 1716284059,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 183970,
@@ -1139,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176280,
+      "num": 176280,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1716285320,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175630,
       "num": 175630,
       "word": "薛凯琪床上蹦迪为汪苏泷打call",
@@ -1193,6 +1289,14 @@
       "onboard_time": 1716279918,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 165931,
+      "num": 170638,
+      "word": "叙利亚总统夫人被诊断患白血病",
+      "onboard_time": 1716286640,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 165781,
@@ -1331,6 +1435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152037,
+      "num": 152037,
+      "word": "发现大学生把上班看得很可怕",
+      "onboard_time": 1716286400,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151253,
       "num": 151253,
       "word": "新款iPhoneSE或明年发布",
@@ -1449,6 +1561,22 @@
       "onboard_time": 1716275600,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141917,
+      "num": 141917,
+      "word": "李秀满将重启韩国娱乐事业",
+      "onboard_time": 1716286580,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141869,
+      "num": 141869,
+      "word": "官方通报公职人员出轨不雅照被贴车上",
+      "onboard_time": 1716285559,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141702,
@@ -1643,6 +1771,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 120899,
+      "num": 468439,
+      "word": "谈恋爱就耽误我成为独立女性了吗",
+      "onboard_time": 1716282737,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119743,
       "num": 119743,
       "word": "易烊千玺牛仔衬衫西装叠搭造型",
@@ -1715,14 +1851,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 112361,
-      "num": 112361,
-      "word": "TheShy发博为OP队老头杯加油",
-      "onboard_time": 1716284059,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 110434,
       "num": 110434,
       "word": "别人过520我去过521",
@@ -1745,6 +1873,14 @@
       "onboard_time": 1716281718,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108841,
+      "num": 108841,
+      "word": "DNF手游登顶iOS免费榜畅销榜",
+      "onboard_time": 1716286758,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 108643,
@@ -1809,14 +1945,6 @@
       "onboard_time": 1716257418,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101724,
-      "num": 101724,
-      "word": "披荆斩棘4名单",
-      "onboard_time": 1716284059,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 101368,
@@ -1955,14 +2083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80744,
-      "num": 468439,
-      "word": "谈恋爱就耽误我成为独立女性了吗",
-      "onboard_time": 1716282737,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79736,
       "num": 79736,
       "word": "朴志效泡泡照搬周子瑜",
@@ -2041,6 +2161,14 @@
       "onboard_time": 1716236530,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64303,
+      "num": 278472,
+      "word": "拼多多618毫无新意",
+      "onboard_time": 1716285199,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 63923,
