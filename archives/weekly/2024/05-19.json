@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716268717622,
+  "endTime": 1716269699008,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -707,6 +707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 765339,
+      "num": 765339,
+      "word": "湖南郴州一公园发生刑案致3死2伤",
+      "onboard_time": 1716268521,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 757401,
       "num": 757401,
       "word": "短发杨紫",
@@ -857,6 +865,14 @@
       "onboard_time": 1716102016,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700864,
+      "num": 700864,
+      "word": "第一次意识到1万块这么有质感",
+      "onboard_time": 1716269360,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 691798,
@@ -1523,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448983,
+      "num": 448983,
+      "word": "警方回应上官正义曝小红书有人领养孩子",
+      "onboard_time": 1716266661,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447772,
       "num": 447772,
       "word": "为什么我们很少见到盲人",
@@ -1553,14 +1577,6 @@
       "onboard_time": 1716179125,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 439070,
-      "num": 439070,
-      "word": "警方回应上官正义曝小红书有人领养孩子",
-      "onboard_time": 1716266661,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 438111,
@@ -2507,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288039,
+      "num": 288039,
+      "word": "沈小婷沈阳",
+      "onboard_time": 1716268161,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286664,
       "num": 286664,
       "word": "黑神话悟空定价公布",
@@ -2852,7 +2876,7 @@
     },
     {
       "raw_hot": 253746,
-      "num": 214274,
+      "num": 218883,
       "word": "上岸不到一年想回大厂了",
       "onboard_time": 1716267021,
       "rank": 20,
@@ -3203,12 +3227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220208,
+      "num": 220208,
+      "word": "女朋友要把彩礼存死期",
+      "onboard_time": 1716269119,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219854,
       "num": 219854,
       "word": "老头杯",
       "onboard_time": 1716197120,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219411,
+      "num": 219411,
+      "word": "aespa新歌supernova日冠",
+      "onboard_time": 1716269477,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 219360,
@@ -3537,14 +3577,6 @@
       "onboard_time": 1716120018,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202470,
-      "num": 202470,
-      "word": "沈小婷沈阳",
-      "onboard_time": 1716268161,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 201909,
@@ -4219,6 +4251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173873,
+      "num": 173873,
+      "word": "具荷拉 振聋发聩的伟大发声",
+      "onboard_time": 1716269360,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173421,
       "num": 173421,
       "word": "赵一博何浩楠",
@@ -4257,6 +4297,14 @@
       "onboard_time": 1716189439,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172293,
+      "num": 172293,
+      "word": "有个叫范闲的人要做我靠山",
+      "onboard_time": 1716269360,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 171930,
@@ -4329,6 +4377,14 @@
       "onboard_time": 1716193040,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165781,
+      "num": 165781,
+      "word": "虞书欣林一费启鸣手势舞",
+      "onboard_time": 1716268881,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 165292,
@@ -4409,6 +4465,14 @@
       "onboard_time": 1716167661,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 162344,
+      "num": 162344,
+      "word": "每天上班我只做七件事",
+      "onboard_time": 1716265759,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 161947,
@@ -4497,6 +4561,14 @@
       "onboard_time": 1716190519,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158041,
+      "num": 158041,
+      "word": "午睡也有最佳时长",
+      "onboard_time": 1716268818,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 157715,
@@ -4720,14 +4792,6 @@
       "word": "人生小满胜万全",
       "onboard_time": 1716161056,
       "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 148523,
-      "num": 148523,
-      "word": "每天上班我只做七件事",
-      "onboard_time": 1716265759,
-      "rank": 37,
       "category": "情感"
     },
     {
@@ -5323,14 +5387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128590,
-      "num": 128590,
-      "word": "湖南郴州一公园发生刑案致3死2伤",
-      "onboard_time": 1716268521,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128588,
       "num": 128588,
       "word": "失恋后如何减退爱的感觉",
@@ -5345,6 +5401,14 @@
       "onboard_time": 1716085637,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128379,
+      "num": 128379,
+      "word": "笑点低的人当不了老师是有原因的",
+      "onboard_time": 1716268818,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 127694,
@@ -6988,7 +7052,7 @@
     },
     {
       "raw_hot": 36124,
-      "num": 291058,
+      "num": 325970,
       "word": "龚俊想在戛纳开串串店",
       "onboard_time": 1716265521,
       "rank": 35,
@@ -7001,6 +7065,14 @@
       "onboard_time": 1716079397,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34319,
+      "num": 254007,
+      "word": "牙白对颜值影响有多大",
+      "onboard_time": 1716268100,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 34164,
@@ -7248,14 +7320,6 @@
       "word": "李嘉格 金棕豹系妆",
       "onboard_time": 1716148631,
       "rank": 44,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 14986,
-      "num": 157435,
-      "word": "牙白对颜值影响有多大",
-      "onboard_time": 1716268100,
-      "rank": 32,
       "category": "美妆"
     },
     {

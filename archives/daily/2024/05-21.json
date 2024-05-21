@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716268717622,
+  "endTime": 1716269699008,
   "band_list": [
     {
       "raw_hot": 3347213,
@@ -123,6 +123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 765339,
+      "num": 765339,
+      "word": "湖南郴州一公园发生刑案致3死2伤",
+      "onboard_time": 1716268521,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746785,
       "num": 373411,
       "word": "与凤行 庆功宴",
@@ -137,6 +145,14 @@
       "onboard_time": 1716248297,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 700864,
+      "num": 700864,
+      "word": "第一次意识到1万块这么有质感",
+      "onboard_time": 1716269360,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 636094,
@@ -259,8 +275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439070,
-      "num": 439070,
+      "raw_hot": 448983,
+      "num": 448983,
       "word": "警方回应上官正义曝小红书有人领养孩子",
       "onboard_time": 1716266661,
       "rank": 4,
@@ -443,6 +459,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 288039,
+      "num": 288039,
+      "word": "沈小婷沈阳",
+      "onboard_time": 1716268161,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284514,
       "num": 284514,
       "word": "吃到了蕾哈娜亲手摊的煎饼果子",
@@ -508,7 +532,7 @@
     },
     {
       "raw_hot": 253746,
-      "num": 214274,
+      "num": 218883,
       "word": "上岸不到一年想回大厂了",
       "onboard_time": 1716267021,
       "rank": 20,
@@ -595,6 +619,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220208,
+      "num": 220208,
+      "word": "女朋友要把彩礼存死期",
+      "onboard_time": 1716269119,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 219411,
+      "num": 219411,
+      "word": "aespa新歌supernova日冠",
+      "onboard_time": 1716269477,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207829,
       "num": 207829,
       "word": "Rihanna 山东天后",
@@ -617,14 +657,6 @@
       "onboard_time": 1716254841,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202470,
-      "num": 202470,
-      "word": "沈小婷沈阳",
-      "onboard_time": 1716268161,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 201002,
@@ -755,12 +787,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173873,
+      "num": 173873,
+      "word": "具荷拉 振聋发聩的伟大发声",
+      "onboard_time": 1716269360,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173421,
       "num": 173421,
       "word": "赵一博何浩楠",
       "onboard_time": 1716250760,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172293,
+      "num": 172293,
+      "word": "有个叫范闲的人要做我靠山",
+      "onboard_time": 1716269360,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165781,
+      "num": 165781,
+      "word": "虞书欣林一费启鸣手势舞",
+      "onboard_time": 1716268881,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 164657,
@@ -777,6 +833,14 @@
       "onboard_time": 1716252679,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162344,
+      "num": 162344,
+      "word": "每天上班我只做七件事",
+      "onboard_time": 1716265759,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 161540,
@@ -801,6 +865,14 @@
       "onboard_time": 1716268161,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158041,
+      "num": 158041,
+      "word": "午睡也有最佳时长",
+      "onboard_time": 1716268818,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 157537,
@@ -873,14 +945,6 @@
       "onboard_time": 1716213320,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 148523,
-      "num": 148523,
-      "word": "每天上班我只做七件事",
-      "onboard_time": 1716265759,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 148266,
@@ -971,12 +1035,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128590,
-      "num": 128590,
-      "word": "湖南郴州一公园发生刑案致3死2伤",
-      "onboard_time": 1716268521,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 128379,
+      "num": 128379,
+      "word": "笑点低的人当不了老师是有原因的",
+      "onboard_time": 1716268818,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 127694,
@@ -1436,11 +1500,19 @@
     },
     {
       "raw_hot": 36124,
-      "num": 291058,
+      "num": 325970,
       "word": "龚俊想在戛纳开串串店",
       "onboard_time": 1716265521,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 34319,
+      "num": 254007,
+      "word": "牙白对颜值影响有多大",
+      "onboard_time": 1716268100,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 34039,
@@ -1513,14 +1585,6 @@
       "onboard_time": 1716198919,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14986,
-      "num": 157435,
-      "word": "牙白对颜值影响有多大",
-      "onboard_time": 1716268100,
-      "rank": 32,
-      "category": "美妆"
     },
     {
       "raw_hot": 14844,
