@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716327342033,
+  "endTime": 1716329861137,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -8587,6 +8587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41507,
+      "num": 41507,
+      "word": "小猫拒绝了同伴的握手申请",
+      "onboard_time": 1716325812,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 41128,
       "num": 41128,
       "word": "上海你不要太超前",
@@ -8649,6 +8657,14 @@
       "onboard_time": 1716184819,
       "rank": 14,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 37105,
+      "num": 37105,
+      "word": "徐梦洁用两年时间重回舞台",
+      "onboard_time": 1716325091,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 36912,
@@ -8796,7 +8812,7 @@
     },
     {
       "raw_hot": 29911,
-      "num": 33525,
+      "num": 34205,
       "word": "刘亦菲高级珠宝",
       "onboard_time": 1716316451,
       "rank": 40,
@@ -8849,6 +8865,14 @@
       "onboard_time": 1716074233,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25700,
+      "num": 34235,
+      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
+      "onboard_time": 1716322570,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 25658,
@@ -8907,30 +8931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22082,
-      "num": 22082,
-      "word": "小猫拒绝了同伴的握手申请",
-      "onboard_time": 1716325812,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 21455,
-      "num": 21455,
-      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
-      "onboard_time": 1716322570,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 19945,
-      "num": 19945,
-      "word": "徐梦洁用两年时间重回舞台",
-      "onboard_time": 1716325091,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 19555,
       "num": 19555,
       "word": "2024MSI",
@@ -8953,6 +8953,14 @@
       "onboard_time": 1716075134,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19122,
+      "num": 34168,
+      "word": "奶奶把小狗举起对着监控",
+      "onboard_time": 1716317711,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 18889,
@@ -9017,14 +9025,6 @@
       "onboard_time": 1716148631,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 14878,
-      "num": 19073,
-      "word": "奶奶把小狗举起对着监控",
-      "onboard_time": 1716317711,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 14844,
