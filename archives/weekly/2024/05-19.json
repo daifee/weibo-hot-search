@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716323680420,
+  "endTime": 1716326269095,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -8923,6 +8923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19252,
+      "num": 19252,
+      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
+      "onboard_time": 1716322570,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19184,
       "num": 90027,
       "word": "用色卡的方式打开文物",
@@ -8995,8 +9003,16 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 15148,
+      "num": 18084,
+      "word": "徐梦洁用两年时间重回舞台",
+      "onboard_time": 1716325091,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 14878,
-      "num": 16523,
+      "num": 18072,
       "word": "奶奶把小狗举起对着监控",
       "onboard_time": 1716317711,
       "rank": 42,
@@ -9011,20 +9027,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 14655,
-      "num": 16511,
-      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
-      "onboard_time": 1716322570,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 14419,
       "num": 169266,
       "word": "乐见潮向现场超出片",
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13661,
+      "num": 18060,
+      "word": "小猫拒绝了同伴的握手申请",
+      "onboard_time": 1716325812,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 12588,
