@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716295854832,
+  "endTime": 1716297826688,
   "band_list": [
     {
       "raw_hot": 3798478,
@@ -155,6 +155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1144724,
+      "num": 1144724,
+      "word": "中国终将实现完全统一",
+      "onboard_time": 1716294318,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1144080,
       "num": 1144080,
       "word": "新航客机死亡上升至2人",
@@ -195,12 +203,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1000945,
-      "num": 1000945,
-      "word": "中国终将实现完全统一",
-      "onboard_time": 1716294318,
-      "rank": 12,
-      "category": "国内时政"
+      "raw_hot": 1021270,
+      "num": 768697,
+      "word": "刘亦菲回复舒淇",
+      "onboard_time": 1716295999,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 995106,
@@ -265,6 +273,14 @@
       "onboard_time": 1716253941,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 795198,
+      "num": 795198,
+      "word": "武功山失温遇难女孩同伴曾打电话求救",
+      "onboard_time": 1716294318,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 793787,
@@ -385,6 +401,14 @@
       "onboard_time": 1716289699,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 594751,
+      "num": 594751,
+      "word": "4小孩河边洗澡两人溺亡同行人获刑11年",
+      "onboard_time": 1716294438,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592489,
@@ -515,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468339,
+      "num": 468339,
+      "word": "又幸福了纯爱大皇子",
+      "onboard_time": 1716294857,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462949,
       "num": 462949,
       "word": "郭有才",
@@ -627,12 +659,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 392510,
-      "num": 392510,
-      "word": "武功山失温遇难女孩同伴曾打电话求救",
-      "onboard_time": 1716294318,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 399588,
+      "num": 399588,
+      "word": "赵昭仪 姐你上楼梯呢",
+      "onboard_time": 1716293779,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 390006,
@@ -649,6 +681,14 @@
       "onboard_time": 1716269900,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382587,
+      "num": 382587,
+      "word": "LPL抽签结果",
+      "onboard_time": 1716295219,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 382036,
@@ -699,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357701,
-      "num": 357701,
-      "word": "赵昭仪 姐你上楼梯呢",
-      "onboard_time": 1716293779,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 347256,
       "num": 347256,
       "word": "向佐把那英扑倒了",
@@ -721,6 +753,14 @@
       "onboard_time": 1716215300,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 343983,
+      "num": 279329,
+      "word": "赵丽颖去了与凤行庆功宴",
+      "onboard_time": 1716297380,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 333426,
@@ -803,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307871,
+      "num": 278973,
+      "word": "李佳琦回应参加披哥",
+      "onboard_time": 1716297620,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307834,
       "num": 307834,
       "word": "关晓彤代言的天然呆成老赖",
@@ -841,14 +889,6 @@
       "onboard_time": 1716286820,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298232,
-      "num": 298232,
-      "word": "4小孩河边洗澡两人溺亡同行人获刑11年",
-      "onboard_time": 1716294438,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296200,
@@ -907,6 +947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 278184,
+      "num": 278184,
+      "word": "李耕耘对蒋敦豪一口一个哥哥",
+      "onboard_time": 1716295759,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277650,
       "num": 277650,
       "word": "伊能静文案",
@@ -939,11 +987,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265316,
-      "num": 265316,
-      "word": "又幸福了纯爱大皇子",
-      "onboard_time": 1716294857,
-      "rank": 46,
+      "raw_hot": 265084,
+      "num": 242754,
+      "word": "赵丽颖工作室剪的西游记风与凤行",
+      "onboard_time": 1716297260,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1009,6 +1057,14 @@
       "onboard_time": 1716267021,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 252313,
+      "num": 483301,
+      "word": "嫌室友9元买1个西瓜太贵背来3麻袋",
+      "onboard_time": 1716294378,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246787,
@@ -1171,14 +1227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 210378,
-      "num": 210378,
-      "word": "李耕耘对蒋敦豪一口一个哥哥",
-      "onboard_time": 1716295759,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208981,
       "num": 208981,
       "word": "刘亦菲许愿池的少女",
@@ -1219,14 +1267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205333,
-      "num": 205333,
-      "word": "LPL抽签结果",
-      "onboard_time": 1716295219,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 205310,
       "num": 205310,
       "word": "披荆斩棘4名单",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1716284298,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202231,
+      "num": 202231,
+      "word": "请问这是男生女生拿命来吗",
+      "onboard_time": 1716296660,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 201364,
@@ -1339,6 +1387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195268,
+      "num": 195268,
+      "word": "朱丹赛道被颖儿闯进去了",
+      "onboard_time": 1716296958,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195227,
       "num": 195227,
       "word": "我在横店打篮球",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1716273080,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192779,
+      "num": 192779,
+      "word": "RNG 别虐泉",
+      "onboard_time": 1716297499,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 191957,
@@ -1587,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164992,
+      "num": 164992,
+      "word": "原来火车上遇到大臭被是可以换的",
+      "onboard_time": 1716295698,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164657,
       "num": 164657,
       "word": "余承东称享界S9舒适超迈巴赫",
@@ -1707,6 +1779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152937,
+      "num": 152937,
+      "word": "中方要求以色列立即停止军事进攻拉法",
+      "onboard_time": 1716297679,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152145,
       "num": 196393,
       "word": "88VIP这波大额券诚意拉满",
@@ -1721,6 +1801,14 @@
       "onboard_time": 1716255140,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150135,
+      "num": 150135,
+      "word": "花儿与少年",
+      "onboard_time": 1716296118,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 150093,
@@ -1803,6 +1891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 145757,
+      "num": 145757,
+      "word": "背着善宰跑直播",
+      "onboard_time": 1716297439,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145314,
       "num": 145314,
       "word": "陈萍萍轮椅里的绝世神兵",
@@ -1833,14 +1929,6 @@
       "onboard_time": 1716279020,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143943,
-      "num": 143943,
-      "word": "原来火车上遇到大臭被是可以换的",
-      "onboard_time": 1716295698,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 143572,
@@ -2115,6 +2203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 124012,
+      "num": 124012,
+      "word": "小狗同意你摸摸头的意思",
+      "onboard_time": 1716295038,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123466,
       "num": 123466,
       "word": "庆余年2五子齐海报",
@@ -2187,14 +2283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117165,
-      "num": 117165,
-      "word": "小狗同意你摸摸头的意思",
-      "onboard_time": 1716295038,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116299,
       "num": 116299,
       "word": "郭有才翻唱歌曲几乎都面临版权问题",
@@ -2240,14 +2328,6 @@
       "word": "SQ321",
       "onboard_time": 1716291318,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110798,
-      "num": 483301,
-      "word": "嫌室友9元买1个西瓜太贵背来3麻袋",
-      "onboard_time": 1716294378,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2611,6 +2691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57103,
+      "num": 581799,
+      "word": "我国GDP千亿县达57个",
+      "onboard_time": 1716296420,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 56535,
       "num": 139287,
       "word": "王启年的回旋镖镖镖扎心",
@@ -2787,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21985,
+      "num": 1152538,
+      "word": "我国4颗卫星成功发射",
+      "onboard_time": 1716297499,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19493,
       "num": 31659,
       "word": "你这小猫怎么獭里獭气的",
@@ -2811,6 +2907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 16192,
+      "num": 182046,
+      "word": "鸣潮也有自己的商务殷语",
+      "onboard_time": 1716294857,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15833,
       "num": 28974,
       "word": "今天这条视频爱意拉满",
@@ -2833,14 +2937,6 @@
       "onboard_time": 1716236351,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 12787,
-      "num": 132782,
-      "word": "鸣潮也有自己的商务殷语",
-      "onboard_time": 1716294857,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 11636,
