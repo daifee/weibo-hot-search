@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716333588411,
+  "endTime": 1716334482676,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -793,6 +793,14 @@
       "onboard_time": 1716129802,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 845755,
+      "num": 101725,
+      "word": "网红王红权星被各社交平台封禁",
+      "onboard_time": 1716334156,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 839536,
@@ -2267,6 +2275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 395360,
+      "num": 395360,
+      "word": "朱丹赛道被颖儿闯进去了",
+      "onboard_time": 1716296958,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 393881,
       "num": 393881,
       "word": "鞠婧祎蝴蝶耳钉",
@@ -2651,11 +2667,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 336472,
-      "num": 336472,
-      "word": "朱丹赛道被颖儿闯进去了",
-      "onboard_time": 1716296958,
-      "rank": 32,
+      "raw_hot": 336490,
+      "num": 336490,
+      "word": "刘亦菲紫色高定",
+      "onboard_time": 1716333556,
+      "rank": 19,
       "category": "作品衍生"
     },
     {
@@ -3553,6 +3569,14 @@
       "onboard_time": 1716208938,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 249950,
+      "num": 161358,
+      "word": "建议大家工作后都准备两个微信",
+      "onboard_time": 1716307339,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 249229,
@@ -4555,14 +4579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198012,
-      "num": 161358,
-      "word": "建议大家工作后都准备两个微信",
-      "onboard_time": 1716307339,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197966,
       "num": 197966,
       "word": "外婆说我给孩子买的衣服很怪",
@@ -4859,6 +4875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189338,
+      "num": 189338,
+      "word": "林更新穿兔子T恤",
+      "onboard_time": 1716333675,
+      "rank": 16,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 188917,
       "num": 188917,
       "word": "外国人难以理解的韩国特有文化",
@@ -4921,6 +4945,14 @@
       "onboard_time": 1716249377,
       "rank": 32,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 186515,
+      "num": 119782,
+      "word": "媳妇买了一双和地砖撞色的鞋",
+      "onboard_time": 1716334156,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 185876,
@@ -6731,6 +6763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127429,
+      "num": 127429,
+      "word": "波切蒂诺离任切尔西",
+      "onboard_time": 1716334456,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127307,
       "num": 127307,
       "word": "中华白海豚干饭前一套小连招",
@@ -6745,6 +6785,14 @@
       "onboard_time": 1716088696,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127067,
+      "num": 127067,
+      "word": "学生偶遇的萌兽竟是二级保护动物",
+      "onboard_time": 1716331094,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 127066,
@@ -7419,6 +7467,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113003,
+      "num": 199863,
+      "word": "双星陨落3周年",
+      "onboard_time": 1716334276,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112193,
+      "num": 112193,
+      "word": "为什么民宿越来越不流行了",
+      "onboard_time": 1716334156,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 111999,
       "num": 111999,
       "word": "迈克马龙破防了",
@@ -7739,6 +7803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102186,
+      "num": 102186,
+      "word": "郭有才上月刚注销名下传媒公司",
+      "onboard_time": 1716332775,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 101842,
       "num": 101842,
       "word": "范丞丞吐槽杨迪新发型",
@@ -7777,14 +7849,6 @@
       "onboard_time": 1716089416,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100645,
-      "num": 100645,
-      "word": "刘亦菲紫色高定",
-      "onboard_time": 1716333556,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 100605,
@@ -7907,6 +7971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94969,
+      "num": 94969,
+      "word": "原来演唱会的字幕是PPT",
+      "onboard_time": 1716334217,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 94268,
       "num": 94268,
       "word": "救助了一只句句有回应的小猫",
@@ -7995,20 +8067,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87515,
+      "num": 87515,
+      "word": "王启年 在下邓子越",
+      "onboard_time": 1716309796,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85931,
       "num": 118368,
       "word": "袁爷爷吴爷爷我们好想你们",
       "onboard_time": 1716308117,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85005,
-      "num": 85005,
-      "word": "学生偶遇的萌兽竟是二级保护动物",
-      "onboard_time": 1716331094,
-      "rank": 26,
-      "category": "科学科普"
     },
     {
       "raw_hot": 84473,
@@ -8083,14 +8155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79213,
-      "num": 86515,
-      "word": "王启年 在下邓子越",
-      "onboard_time": 1716309796,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79093,
       "num": 199945,
       "word": "霸王茶姬为521国际茶日上大分",
@@ -8121,6 +8185,14 @@
       "onboard_time": 1716105857,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77083,
+      "num": 77083,
+      "word": "小猫拒绝了同伴的握手申请",
+      "onboard_time": 1716325812,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 76915,
@@ -8211,28 +8283,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 71698,
-      "num": 71698,
-      "word": "小猫拒绝了同伴的握手申请",
-      "onboard_time": 1716325812,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 71649,
       "num": 71649,
       "word": "张若昀看到霸霸嘴角比AK还难压",
       "onboard_time": 1716070210,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70673,
-      "num": 70673,
-      "word": "郭有才上月刚注销名下传媒公司",
-      "onboard_time": 1716332775,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 70592,
@@ -8249,6 +8305,14 @@
       "onboard_time": 1716063612,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70203,
+      "num": 70203,
+      "word": "袁隆平把一生浸在稻田里",
+      "onboard_time": 1716334456,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69431,
@@ -8371,6 +8435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62902,
+      "num": 62902,
+      "word": "陈丽君报平安",
+      "onboard_time": 1716333976,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62720,
       "num": 454109,
       "word": "年轻人在河南解锁新型减肥方式",
@@ -8395,6 +8467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61368,
+      "num": 61368,
+      "word": "口腔出现4种迹象或是癌症在靠近",
+      "onboard_time": 1716334156,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 61084,
       "num": 61084,
       "word": "刘亦菲520开屏",
@@ -8409,6 +8489,14 @@
       "onboard_time": 1716264260,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 59777,
+      "num": 59777,
+      "word": "WE官宣Zoom加入",
+      "onboard_time": 1716334456,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 59324,
@@ -8505,6 +8593,14 @@
       "onboard_time": 1716132500,
       "rank": 11,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 50898,
+      "num": 72663,
+      "word": "赶紧问问消防员旁边那个秃头女人是谁",
+      "onboard_time": 1716334217,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49202,
@@ -8960,6 +9056,14 @@
       "word": "大四学生拍毕业照意外与婚纱照同框",
       "onboard_time": 1716052094,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22275,
+      "num": 103748,
+      "word": "舞蹈演员机场整活大秀基本功",
+      "onboard_time": 1716333734,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
