@@ -1,0 +1,410 @@
+{
+  "runTime": 1716291349544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1619202,
+        "num": 1619202,
+        "word": "大麦回应出示死亡证明仍拒变更观演人",
+        "onboard_time": 1716284779,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1474733,
+        "num": 1474733,
+        "word": "新加坡航空飞机紧急迫降1死30伤",
+        "onboard_time": 1716286999,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40788,
+        "num": 1283883,
+        "word": "这届年轻人爱喝茶",
+        "onboard_time": 1716281059,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234403,
+        "num": 1234403,
+        "word": "叙利亚总统夫人被诊断患白血病",
+        "onboard_time": 1716286640,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1110447,
+        "num": 1110447,
+        "word": "新航客机死亡上升至2人",
+        "onboard_time": 1716290718,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845096,
+        "num": 845096,
+        "word": "张艺兴晒了与林允儿合照",
+        "onboard_time": 1716285799,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 834699,
+        "num": 834699,
+        "word": "新加坡航空",
+        "onboard_time": 1716287179,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771178,
+        "num": 771178,
+        "word": "为什么女生的身上莫名出现淤青",
+        "onboard_time": 1716288018,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 62486,
+        "num": 687571,
+        "word": "谈恋爱就耽误我成为独立女性了吗",
+        "onboard_time": 1716282737,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31029,
+        "num": 669041,
+        "word": "你会跟着爆火影视剧旅游吗",
+        "onboard_time": 1716290117,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 666722,
+        "num": 666722,
+        "word": "蔡徐坤范思哲全球品牌大使",
+        "onboard_time": 1716291198,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630165,
+        "num": 630165,
+        "word": "哥哥想替过世妹妹见周杰伦遭大麦拒绝",
+        "onboard_time": 1716279439,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 600502,
+        "num": 600502,
+        "word": "克罗斯宣布退役",
+        "onboard_time": 1716289699,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418332,
+        "num": 418332,
+        "word": "海南海边发现骨架2米不明生物尸体",
+        "onboard_time": 1716275119,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124236,
+        "num": 415869,
+        "word": "拼多多618毫无新意",
+        "onboard_time": 1716285199,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 414795,
+        "num": 414795,
+        "word": "刘亦菲换了腰封",
+        "onboard_time": 1716278299,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 366349,
+        "num": 366349,
+        "word": "李秀满将重启韩国娱乐事业",
+        "onboard_time": 1716286580,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330699,
+        "num": 330699,
+        "word": "杨紫真累了也会喊不想干了",
+        "onboard_time": 1716289939,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298688,
+        "num": 298688,
+        "word": "张新成 晚安大小姐cha",
+        "onboard_time": 1716286820,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289190,
+        "num": 289190,
+        "word": "广州到上海仅需3小时",
+        "onboard_time": 1716289759,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073292,
+        "num": 288099,
+        "word": "公职人员出轨不雅照被张贴车上",
+        "onboard_time": 1716274998,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398156,
+        "num": 286134,
+        "word": "小三收25万向原配秀恩爱被全部索回",
+        "onboard_time": 1716284179,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255876,
+        "num": 255876,
+        "word": "第一次意识到1万块这么有质感",
+        "onboard_time": 1716269360,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232488,
+        "num": 232488,
+        "word": "李胜利百万欠款的来龙去脉",
+        "onboard_time": 1716285979,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218017,
+        "num": 218017,
+        "word": "距离高考21天我妈说不用考了",
+        "onboard_time": 1716286999,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215905,
+        "num": 215905,
+        "word": "奔跑吧撕名牌全员大混战",
+        "onboard_time": 1716283579,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198873,
+        "num": 198873,
+        "word": "新加坡航空一客机紧急迫降曼谷机场",
+        "onboard_time": 1716286518,
+        "rank": 26,
+        "category": "国外时政,国外时政"
+      },
+      {
+        "raw_hot": 189313,
+        "num": 189313,
+        "word": "鞠婧祎的小挂件",
+        "onboard_time": 1716288319,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184265,
+        "num": 184265,
+        "word": "小红书崩了",
+        "onboard_time": 1716277399,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178438,
+        "num": 178438,
+        "word": "范闲祺贵人 权臣后妃",
+        "onboard_time": 1716288618,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176732,
+        "num": 176732,
+        "word": "必须割掉危害孩子这颗全民网红毒瘤",
+        "onboard_time": 1716257121,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176228,
+        "num": 176228,
+        "word": "舒淇被挤到耸肩",
+        "onboard_time": 1716288138,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174183,
+        "num": 174183,
+        "word": "天秤座认定的感情只修不换",
+        "onboard_time": 1716289699,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166971,
+        "num": 166971,
+        "word": "奔跑吧飞椅又回归了",
+        "onboard_time": 1716290117,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160548,
+        "num": 160548,
+        "word": "伊能静文案",
+        "onboard_time": 1716275358,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157069,
+        "num": 157069,
+        "word": "大麦",
+        "onboard_time": 1716286039,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149882,
+        "num": 149882,
+        "word": "发现大学生把上班看得很可怕",
+        "onboard_time": 1716286400,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149405,
+        "num": 149405,
+        "word": "孟美岐cos梦中情猫",
+        "onboard_time": 1716288678,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148224,
+        "num": 148224,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1716285320,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138455,
+        "num": 138455,
+        "word": "坚决反对建交国与台湾官方往来",
+        "onboard_time": 1716287659,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131725,
+        "num": 131725,
+        "word": "披荆斩棘4名单",
+        "onboard_time": 1716284059,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127506,
+        "num": 127506,
+        "word": "和以前的朋友见面经常会有这种感觉",
+        "onboard_time": 1716290539,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125624,
+        "num": 125624,
+        "word": "DNF手游评分",
+        "onboard_time": 1716289459,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121439,
+        "num": 121439,
+        "word": "舒淇刘亦菲许愿池贴贴",
+        "onboard_time": 1716287299,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120045,
+        "num": 120045,
+        "word": "智能门锁带摄像头被邻居告了",
+        "onboard_time": 1716288799,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113739,
+        "num": 113739,
+        "word": "笨蛋美人 腹黑权臣",
+        "onboard_time": 1716275179,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183383,
+        "num": 113550,
+        "word": "那英回应摔倒",
+        "onboard_time": 1716274998,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111963,
+        "num": 111963,
+        "word": "SQ321",
+        "onboard_time": 1716291318,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107161,
+        "num": 107161,
+        "word": "你昨晚睡了几小时",
+        "onboard_time": 1716257900,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107027,
+        "num": 107027,
+        "word": "王婆说媒相亲已婚男已离婚",
+        "onboard_time": 1716291318,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平眼中的金叶子#"
+    }
+  }
+}

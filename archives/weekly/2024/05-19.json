@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716290227649,
+  "endTime": 1716291349544,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -395,8 +395,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1212896,
-      "num": 1212896,
+      "raw_hot": 1234403,
+      "num": 1234403,
       "word": "叙利亚总统夫人被诊断患白血病",
       "onboard_time": 1716286640,
       "rank": 34,
@@ -505,6 +505,14 @@
       "onboard_time": 1716285799,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1110447,
+      "num": 1110447,
+      "word": "新航客机死亡上升至2人",
+      "onboard_time": 1716290718,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1105756,
@@ -819,8 +827,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 771178,
+      "num": 771178,
+      "word": "为什么女生的身上莫名出现淤青",
+      "onboard_time": 1716288018,
+      "rank": 11,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 770600,
-      "num": 277967,
+      "num": 286134,
       "word": "小三收25万向原配秀恩爱被全部索回",
       "onboard_time": 1716284179,
       "rank": 20,
@@ -1067,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 666722,
+      "num": 666722,
+      "word": "蔡徐坤范思哲全球品牌大使",
+      "onboard_time": 1716291198,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657139,
       "num": 657139,
       "word": "李佳琦618不用难了",
@@ -1179,20 +1203,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 601503,
-      "num": 388495,
-      "word": "为什么女生的身上莫名出现淤青",
-      "onboard_time": 1716288018,
-      "rank": 11,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 600659,
       "num": 600659,
       "word": "大同地震",
       "onboard_time": 1716074415,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600502,
+      "num": 600502,
+      "word": "克罗斯宣布退役",
+      "onboard_time": 1716289699,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 600073,
@@ -2451,6 +2475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 330699,
+      "num": 330699,
+      "word": "杨紫真累了也会喊不想干了",
+      "onboard_time": 1716289939,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 330064,
       "num": 207303,
       "word": "首套公积金房贷100万30年利息将减少4.85万",
@@ -2675,14 +2707,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 311156,
-      "num": 311156,
-      "word": "克罗斯宣布退役",
-      "onboard_time": 1716289699,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 308608,
       "num": 308608,
       "word": "考研失败却过上更好的生活",
@@ -2763,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298688,
+      "num": 298688,
+      "word": "张新成 晚安大小姐cha",
+      "onboard_time": 1716286820,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297702,
       "num": 260457,
       "word": "今年520朋友圈怎么没人秀恩爱了",
@@ -2817,6 +2849,14 @@
       "onboard_time": 1716182300,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 289190,
+      "num": 289190,
+      "word": "广州到上海仅需3小时",
+      "onboard_time": 1716289759,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288969,
@@ -3041,14 +3081,6 @@
       "onboard_time": 1716030437,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 273008,
-      "num": 273008,
-      "word": "张新成 晚安大小姐cha",
-      "onboard_time": 1716286820,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 271648,
@@ -3713,14 +3745,6 @@
       "onboard_time": 1716077715,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 215325,
-      "num": 215325,
-      "word": "杨紫真累了也会喊不想干了",
-      "onboard_time": 1716289939,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215149,
@@ -4715,6 +4739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178438,
+      "num": 178438,
+      "word": "范闲祺贵人 权臣后妃",
+      "onboard_time": 1716288618,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178431,
       "num": 178431,
       "word": "阴阳师夏目友人帐联动",
@@ -4809,14 +4841,6 @@
       "onboard_time": 1716208398,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174085,
-      "num": 174085,
-      "word": "广州到上海仅需3小时",
-      "onboard_time": 1716289759,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174009,
@@ -4961,6 +4985,14 @@
       "onboard_time": 1716185060,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166971,
+      "num": 166971,
+      "word": "奔跑吧飞椅又回归了",
+      "onboard_time": 1716290117,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 166702,
@@ -5411,6 +5443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 149405,
+      "num": 149405,
+      "word": "孟美岐cos梦中情猫",
+      "onboard_time": 1716288678,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149337,
       "num": 149337,
       "word": "9块9咖啡是年轻人冲淡班味的续命水",
@@ -5707,14 +5747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142822,
-      "num": 142822,
-      "word": "范闲祺贵人 权臣后妃",
-      "onboard_time": 1716288618,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142803,
       "num": 142803,
       "word": "张杰抛话筒",
@@ -5761,14 +5793,6 @@
       "onboard_time": 1716285559,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141647,
-      "num": 141647,
-      "word": "孟美岐cos梦中情猫",
-      "onboard_time": 1716288678,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 141434,
@@ -6211,6 +6235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127506,
+      "num": 127506,
+      "word": "和以前的朋友见面经常会有这种感觉",
+      "onboard_time": 1716290539,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127307,
       "num": 127307,
       "word": "中华白海豚干饭前一套小连招",
@@ -6363,6 +6395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124236,
+      "num": 415869,
+      "word": "拼多多618毫无新意",
+      "onboard_time": 1716285199,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 124166,
       "num": 124166,
       "word": "超9成网友希望电商大促不超2周",
@@ -6468,7 +6508,7 @@
     },
     {
       "raw_hot": 121465,
-      "num": 528353,
+      "num": 687571,
       "word": "谈恋爱就耽误我成为独立女性了吗",
       "onboard_time": 1716282737,
       "rank": 9,
@@ -6505,14 +6545,6 @@
       "onboard_time": 1716101178,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 120330,
-      "num": 120330,
-      "word": "奔跑吧飞椅又回归了",
-      "onboard_time": 1716290117,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 120246,
@@ -6553,14 +6585,6 @@
       "onboard_time": 1716111558,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 119747,
-      "num": 375321,
-      "word": "拼多多618毫无新意",
-      "onboard_time": 1716285199,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 119743,
@@ -6875,6 +6899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111963,
+      "num": 111963,
+      "word": "SQ321",
+      "onboard_time": 1716291318,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111945,
       "num": 111945,
       "word": "范闲 我想吃鱼了",
@@ -7041,6 +7073,14 @@
       "onboard_time": 1716273260,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107027,
+      "num": 107027,
+      "word": "王婆说媒相亲已婚男已离婚",
+      "onboard_time": 1716291318,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106514,
@@ -8131,6 +8171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31029,
+      "num": 669041,
+      "word": "你会跟着爆火影视剧旅游吗",
+      "onboard_time": 1716290117,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 30225,
       "num": 1041189,
       "word": "长城长皆同往",
@@ -8337,14 +8385,6 @@
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12145,
-      "num": 398261,
-      "word": "你会跟着爆火影视剧旅游吗",
-      "onboard_time": 1716290117,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 12115,
