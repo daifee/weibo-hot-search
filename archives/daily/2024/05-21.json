@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716254250364,
+  "endTime": 1716255456327,
   "band_list": [
     {
       "raw_hot": 2287053,
@@ -11,20 +11,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1498895,
+      "num": 1498895,
+      "word": "医院通知退核酸检测费市民怀疑是诈骗",
+      "onboard_time": 1716252200,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1182657,
       "num": 1182657,
       "word": "疯产姐妹复更",
       "onboard_time": 1716219619,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1148815,
-      "num": 1148815,
-      "word": "医院通知退核酸检测费市民怀疑是诈骗",
-      "onboard_time": 1716252200,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1109576,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 567289,
+      "num": 567289,
+      "word": "dnf",
+      "onboard_time": 1716253279,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 515088,
       "num": 163998,
       "word": "不生孩子是怎么流行开的",
@@ -107,12 +115,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 507310,
+      "num": 507310,
+      "word": "微信转账流行备注自愿赠与了吗",
+      "onboard_time": 1716253941,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 478735,
       "num": 259321,
       "word": "那英高叶 不良少女版",
       "onboard_time": 1716217880,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 478476,
+      "num": 478476,
+      "word": "年轻人撕裂般胸痛千万别忍",
+      "onboard_time": 1716252621,
+      "rank": 9,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 453248,
@@ -131,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432391,
+      "num": 432391,
+      "word": "刘亦菲安妮海瑟薇同框热聊",
+      "onboard_time": 1716251721,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420206,
       "num": 232644,
       "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
@@ -139,28 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408565,
-      "num": 390944,
-      "word": "刘亦菲安妮海瑟薇同框热聊",
-      "onboard_time": 1716251721,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 391882,
-      "num": 391882,
-      "word": "年轻人撕裂般胸痛千万别忍",
-      "onboard_time": 1716252621,
-      "rank": 9,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 390006,
       "num": 390006,
       "word": "舒淇顶级高定",
       "onboard_time": 1716249498,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 383387,
+      "num": 383387,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1716253819,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 382036,
@@ -219,8 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302465,
-      "num": 193940,
+      "raw_hot": 308001,
+      "num": 308001,
       "word": "上海套内51平米的家",
       "onboard_time": 1716250339,
       "rank": 30,
@@ -259,12 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263858,
-      "num": 263858,
-      "word": "dnf",
-      "onboard_time": 1716253279,
-      "rank": 17,
-      "category": "游戏"
+      "raw_hot": 263065,
+      "num": 229996,
+      "word": "上着班突然通知被裁了",
+      "onboard_time": 1716253339,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 261861,
@@ -291,12 +315,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253821,
+      "num": 184826,
+      "word": "外包父母月入四万",
+      "onboard_time": 1716254481,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241471,
       "num": 241471,
       "word": "520 垃圾桶",
       "onboard_time": 1716196101,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240126,
+      "num": 435303,
+      "word": "上岸第一件事就是迎娶意中人",
+      "onboard_time": 1716253699,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 240007,
+      "num": 240007,
+      "word": "徐海乔 披荆斩棘的哥哥",
+      "onboard_time": 1716254900,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 236143,
@@ -323,6 +371,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 229096,
+      "num": 390109,
+      "word": "手把手教你自测脊柱弯曲异常",
+      "onboard_time": 1716253339,
+      "rank": 11,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 225139,
       "num": 225139,
       "word": "官方对周杰伦福州演唱会开展督导检查",
@@ -345,22 +401,6 @@
       "onboard_time": 1716251180,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201718,
-      "num": 201718,
-      "word": "披荆斩棘的哥哥",
-      "onboard_time": 1716253819,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 198838,
-      "num": 198838,
-      "word": "上着班突然通知被裁了",
-      "onboard_time": 1716253339,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 193962,
@@ -395,20 +435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178456,
+      "num": 178456,
+      "word": "李克勤 合久必婚",
+      "onboard_time": 1716254841,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178319,
       "num": 140677,
       "word": "酵色",
       "onboard_time": 1716211099,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 175511,
-      "num": 390109,
-      "word": "手把手教你自测脊柱弯曲异常",
-      "onboard_time": 1716253339,
-      "rank": 11,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 175191,
@@ -419,28 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174494,
-      "num": 174494,
-      "word": "微信转账流行备注自愿赠与了吗",
-      "onboard_time": 1716253941,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 173421,
       "num": 173421,
       "word": "赵一博何浩楠",
       "onboard_time": 1716250760,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164854,
-      "num": 164854,
-      "word": "上岸第一件事就是迎娶意中人",
-      "onboard_time": 1716253699,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 164396,
@@ -475,6 +499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 151253,
+      "num": 151253,
+      "word": "新款iPhoneSE或明年发布",
+      "onboard_time": 1716255140,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 150093,
       "num": 150093,
       "word": "小满胜万全",
@@ -497,6 +529,14 @@
       "onboard_time": 1716248958,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135369,
+      "num": 135369,
+      "word": "小伙夜跑多看一眼救下女孩",
+      "onboard_time": 1716254600,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 135368,
@@ -897,6 +937,14 @@
       "onboard_time": 1716226153,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 33465,
+      "num": 135507,
+      "word": "你选鲜奶会看标签吗",
+      "onboard_time": 1716255321,
+      "rank": 44,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 25348,

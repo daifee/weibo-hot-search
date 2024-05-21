@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/21 09:17:30
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/21 09:37:36
 </p>
 </blockquote>
 <p>
@@ -1401,6 +1401,12 @@ BLG战胜T1（热度：1506763）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%80%9A%E7%9F%A5%E9%80%80%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E8%B4%B9%E5%B8%82%E6%B0%91%E6%80%80%E7%96%91%E6%98%AF%E8%AF%88%E9%AA%97%23" target="weibo">
+医院通知退核酸检测费市民怀疑是诈骗（热度：1498895）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%9B%E7%BA%A6%E5%A0%A1%E8%87%B4%E6%AD%89%23" target="weibo">
 牛约堡致歉（热度：1494772）
 </a>
@@ -2531,12 +2537,6 @@ Alin报名歌手（热度：1229921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%9A%84%E4%BD%9C%E6%81%AF%E6%97%B6%E9%97%B4%E5%A4%AA%E9%80%82%E5%90%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%BA%86%23" target="weibo">
 新疆的作息时间太适合年轻人了（热度：1148901）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%80%9A%E7%9F%A5%E9%80%80%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E8%B4%B9%E5%B8%82%E6%B0%91%E6%80%80%E7%96%91%E6%98%AF%E8%AF%88%E9%AA%97%23" target="weibo">
-医院通知退核酸检测费市民怀疑是诈骗（热度：1148815）
 </a>
 </li>
 
