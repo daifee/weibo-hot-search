@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716329861137,
+  "endTime": 1716330837910,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -8427,6 +8427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56213,
+      "num": 56213,
+      "word": "小猫拒绝了同伴的握手申请",
+      "onboard_time": 1716325812,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55338,
       "num": 85406,
       "word": "小满文案",
@@ -8523,6 +8531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46798,
+      "num": 46798,
+      "word": "徐梦洁用两年时间重回舞台",
+      "onboard_time": 1716325091,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 46534,
       "num": 85930,
       "word": "这5类人要少吃榴莲",
@@ -8587,14 +8603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 41507,
-      "num": 41507,
-      "word": "小猫拒绝了同伴的握手申请",
-      "onboard_time": 1716325812,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 41128,
       "num": 41128,
       "word": "上海你不要太超前",
@@ -8657,14 +8665,6 @@
       "onboard_time": 1716184819,
       "rank": 14,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 37105,
-      "num": 37105,
-      "word": "徐梦洁用两年时间重回舞台",
-      "onboard_time": 1716325091,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 36912,
@@ -8812,7 +8812,7 @@
     },
     {
       "raw_hot": 29911,
-      "num": 34205,
+      "num": 46721,
       "word": "刘亦菲高级珠宝",
       "onboard_time": 1716316451,
       "rank": 40,
@@ -8833,6 +8833,14 @@
       "onboard_time": 1716272659,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27495,
+      "num": 46742,
+      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
+      "onboard_time": 1716322570,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 27323,
@@ -8865,14 +8873,6 @@
       "onboard_time": 1716074233,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 25700,
-      "num": 34235,
-      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
-      "onboard_time": 1716322570,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 25658,
@@ -8931,6 +8931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22276,
+      "num": 46693,
+      "word": "奶奶把小狗举起对着监控",
+      "onboard_time": 1716317711,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19555,
       "num": 19555,
       "word": "2024MSI",
@@ -8953,14 +8961,6 @@
       "onboard_time": 1716075134,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19122,
-      "num": 34168,
-      "word": "奶奶把小狗举起对着监控",
-      "onboard_time": 1716317711,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 18889,
@@ -9044,7 +9044,7 @@
     },
     {
       "raw_hot": 12588,
-      "num": 108877,
+      "num": 109145,
       "word": "单亲爸爸思念妻子泪如雨下",
       "onboard_time": 1716312313,
       "rank": 9,
