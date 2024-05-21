@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716311827022,
+  "endTime": 1716312880678,
   "band_list": [
     {
       "raw_hot": 1284659,
@@ -411,7 +411,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 41066,
+      "raw_hot": 46534,
       "num": 85930,
       "word": "这5类人要少吃榴莲",
       "onboard_time": 1716311415,
@@ -433,6 +433,14 @@
       "onboard_time": 1716307578,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26588,
+      "num": 59724,
+      "word": "infp会喜欢什么样的人",
+      "onboard_time": 1716312852,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

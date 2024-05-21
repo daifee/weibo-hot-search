@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/22 00:22:54 ~ 2024/05/22 01:17:07
+本榜单时间：2024/05/22 00:22:54 ~ 2024/05/22 01:34:40
 </p>
 </blockquote>
 <p>
@@ -322,7 +322,7 @@ RNG 别虐泉（热度：132098）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%995%E7%B1%BB%E4%BA%BA%E8%A6%81%E5%B0%91%E5%90%83%E6%A6%B4%E8%8E%B2%23" target="weibo">
-这5类人要少吃榴莲（热度：41066）
+这5类人要少吃榴莲（热度：46534）
 </a>
 </li>
 
@@ -335,6 +335,12 @@ RNG 别虐泉（热度：132098）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AD%9F%E8%B6%85%E7%94%9F%E5%89%8D%E7%8F%8D%E8%B4%B5%E7%94%BB%E9%9D%A2%23" target="weibo">
 吴孟超生前珍贵画面（热度：35184）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23infp%E4%BC%9A%E5%96%9C%E6%AC%A2%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%23" target="weibo">
+infp会喜欢什么样的人（热度：26588）
 </a>
 </li>
 
