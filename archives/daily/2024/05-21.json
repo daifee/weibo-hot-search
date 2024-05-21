@@ -1,7 +1,15 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716248065030,
+  "endTime": 1716254250364,
   "band_list": [
+    {
+      "raw_hot": 2287053,
+      "num": 2287053,
+      "word": "那英 摔倒",
+      "onboard_time": 1716250400,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1182657,
       "num": 1182657,
@@ -11,8 +19,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1148815,
+      "num": 1148815,
+      "word": "医院通知退核酸检测费市民怀疑是诈骗",
+      "onboard_time": 1716252200,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1109576,
-      "num": 149986,
+      "num": 235324,
       "word": "汪峰520官宣",
       "onboard_time": 1716191300,
       "rank": 20,
@@ -43,8 +59,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 739665,
+      "num": 739665,
+      "word": "跑男总导演等孟子义航班一整晚",
+      "onboard_time": 1716248297,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 636094,
-      "num": 358673,
+      "num": 508451,
       "word": "庆帝灰飞烟灭让人毛骨悚然",
       "onboard_time": 1716246855,
       "rank": 5,
@@ -68,11 +92,19 @@
     },
     {
       "raw_hot": 515088,
-      "num": 149620,
+      "num": 163998,
       "word": "不生孩子是怎么流行开的",
       "onboard_time": 1716208277,
       "rank": 21,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 511275,
+      "num": 511275,
+      "word": "马龙退赛粉丝要求大麦退票",
+      "onboard_time": 1716249559,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 478735,
@@ -83,20 +115,52 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 428118,
-      "num": 178579,
+      "raw_hot": 453248,
+      "num": 453248,
       "word": "BBC曝光李胜利郑俊英崔钟训视频",
       "onboard_time": 1716246616,
       "rank": 17,
       "category": "艺人"
     },
     {
+      "raw_hot": 451639,
+      "num": 451639,
+      "word": "市监局局长就连云港鬼秤事件道歉",
+      "onboard_time": 1716251420,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420206,
-      "num": 149529,
+      "num": 232644,
       "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
       "onboard_time": 1716216320,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408565,
+      "num": 390944,
+      "word": "刘亦菲安妮海瑟薇同框热聊",
+      "onboard_time": 1716251721,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 391882,
+      "num": 391882,
+      "word": "年轻人撕裂般胸痛千万别忍",
+      "onboard_time": 1716252621,
+      "rank": 9,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 390006,
+      "num": 390006,
+      "word": "舒淇顶级高定",
+      "onboard_time": 1716249498,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 382036,
@@ -107,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358657,
+      "num": 358657,
+      "word": "发烧后要多喝的是电解质水",
+      "onboard_time": 1716249739,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 345156,
       "num": 258005,
       "word": "胃病向胃癌转变有这5个征兆",
       "onboard_time": 1716215300,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 333426,
+      "num": 333426,
+      "word": "伊朗总统葬礼23日举行",
+      "onboard_time": 1716248536,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 332198,
@@ -124,11 +204,27 @@
     },
     {
       "raw_hot": 320293,
-      "num": 174501,
+      "num": 308512,
       "word": "刘亦菲罗马造型",
       "onboard_time": 1716246675,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 317303,
+      "num": 230012,
+      "word": "中国人均带薪假6.29天",
+      "onboard_time": 1716246795,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302465,
+      "num": 193940,
+      "word": "上海套内51平米的家",
+      "onboard_time": 1716250339,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 291036,
@@ -139,12 +235,44 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 284514,
+      "num": 284514,
+      "word": "吃到了蕾哈娜亲手摊的煎饼果子",
+      "onboard_time": 1716248718,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281360,
+      "num": 226238,
+      "word": "iPhone15系列再次大降价最多便宜两千多",
+      "onboard_time": 1716248536,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 265735,
       "num": 265735,
       "word": "黄俊捷不参演赴山海",
       "onboard_time": 1716212299,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263858,
+      "num": 263858,
+      "word": "dnf",
+      "onboard_time": 1716253279,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 261861,
+      "num": 261861,
+      "word": "伊朗新任总统选举定于6月28日举行",
+      "onboard_time": 1716250339,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 261471,
@@ -171,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236143,
+      "num": 236143,
+      "word": "院方通报广西17岁体育生错切右膝",
+      "onboard_time": 1716246795,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233098,
       "num": 182722,
       "word": "西班牙召回驻阿根廷大使",
@@ -187,6 +323,78 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 225139,
+      "num": 225139,
+      "word": "官方对周杰伦福州演唱会开展督导检查",
+      "onboard_time": 1716252439,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 224675,
+      "num": 224675,
+      "word": "小猫咪不懂什么是品种猫",
+      "onboard_time": 1716250099,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 207829,
+      "num": 207829,
+      "word": "Rihanna 山东天后",
+      "onboard_time": 1716251180,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201718,
+      "num": 201718,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1716253819,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198838,
+      "num": 198838,
+      "word": "上着班突然通知被裁了",
+      "onboard_time": 1716253339,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193962,
+      "num": 193962,
+      "word": "您的外卖已由特警送达",
+      "onboard_time": 1716246915,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186557,
+      "num": 186557,
+      "word": "没睡好觉是怎样弄垮健康的",
+      "onboard_time": 1716249377,
+      "rank": 32,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 183970,
+      "num": 183970,
+      "word": "泸定地震",
+      "onboard_time": 1716249800,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179002,
+      "num": 179002,
+      "word": "bella身材",
+      "onboard_time": 1716251180,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178319,
       "num": 140677,
       "word": "酵色",
@@ -195,12 +403,60 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 175511,
+      "num": 390109,
+      "word": "手把手教你自测脊柱弯曲异常",
+      "onboard_time": 1716253339,
+      "rank": 11,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 175191,
       "num": 175191,
       "word": "成毅赴山海",
       "onboard_time": 1716217341,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174494,
+      "num": 174494,
+      "word": "微信转账流行备注自愿赠与了吗",
+      "onboard_time": 1716253941,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 173421,
+      "num": 173421,
+      "word": "赵一博何浩楠",
+      "onboard_time": 1716250760,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164854,
+      "num": 164854,
+      "word": "上岸第一件事就是迎娶意中人",
+      "onboard_time": 1716253699,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164396,
+      "num": 164396,
+      "word": "舒奕橙镜头下的金靖",
+      "onboard_time": 1716252679,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158910,
+      "num": 158910,
+      "word": "G社拍的舒淇刘亦菲",
+      "onboard_time": 1716250819,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154508,
@@ -235,12 +491,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145314,
+      "num": 145314,
+      "word": "陈萍萍轮椅里的绝世神兵",
+      "onboard_time": 1716248958,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135368,
       "num": 141384,
       "word": "榴莲今年为什么越来越便宜",
       "onboard_time": 1716211520,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 127694,
+      "num": 127694,
+      "word": "521不是恋人专属",
+      "onboard_time": 1716248297,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 127338,
@@ -259,12 +531,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 125610,
-      "num": 125610,
-      "word": "院方通报广西17岁体育生错切右膝",
-      "onboard_time": 1716246795,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 119559,
+      "num": 119559,
+      "word": "杨幂520捧花",
+      "onboard_time": 1716249319,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 118668,
@@ -281,22 +553,6 @@
       "onboard_time": 1716205878,
       "rank": 27,
       "category": "演出,时尚"
-    },
-    {
-      "raw_hot": 113436,
-      "num": 113436,
-      "word": "您的外卖已由特警送达",
-      "onboard_time": 1716246915,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110513,
-      "num": 110513,
-      "word": "中国人均带薪假6.29天",
-      "onboard_time": 1716246795,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105970,
@@ -411,20 +667,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85632,
+      "num": 873336,
+      "word": "小满的一幕幕画面太有爱了",
+      "onboard_time": 1716213560,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85562,
       "num": 138336,
       "word": "庆余年林相 新郎不急老丈人急",
       "onboard_time": 1716206777,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80213,
-      "num": 428717,
-      "word": "小满的一幕幕画面太有爱了",
-      "onboard_time": 1716213560,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79736,

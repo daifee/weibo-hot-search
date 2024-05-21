@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716248065030,
+  "endTime": 1716254250364,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -89,6 +89,14 @@
       "onboard_time": 1716170778,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2287053,
+      "num": 2287053,
+      "word": "那英 摔倒",
+      "onboard_time": 1716250400,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2051376,
@@ -328,6 +336,14 @@
       "word": "第一批快递小哥退休了",
       "onboard_time": 1716085998,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1148815,
+      "num": 1148815,
+      "word": "医院通知退核酸检测费市民怀疑是诈骗",
+      "onboard_time": 1716252200,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -651,6 +667,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 739665,
+      "num": 739665,
+      "word": "跑男总导演等孟子义航班一整晚",
+      "onboard_time": 1716248297,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 738376,
       "num": 738376,
       "word": "奔跑吧全员现身周深演唱会",
@@ -876,7 +900,7 @@
     },
     {
       "raw_hot": 636094,
-      "num": 358673,
+      "num": 508451,
       "word": "庆帝灰飞烟灭让人毛骨悚然",
       "onboard_time": 1716246855,
       "rank": 5,
@@ -1131,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511275,
+      "num": 511275,
+      "word": "马龙退赛粉丝要求大麦退票",
+      "onboard_time": 1716249559,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 508736,
       "num": 396197,
       "word": "贵溪恶性伤人事件已致5伤",
@@ -1347,6 +1379,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 453248,
+      "num": 453248,
+      "word": "BBC曝光李胜利郑俊英崔钟训视频",
+      "onboard_time": 1716246616,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 451639,
+      "num": 451639,
+      "word": "市监局局长就连云港鬼秤事件道歉",
+      "onboard_time": 1716251420,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447772,
       "num": 447772,
       "word": "为什么我们很少见到盲人",
@@ -1393,14 +1441,6 @@
       "onboard_time": 1716161597,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 428118,
-      "num": 178579,
-      "word": "BBC曝光李胜利郑俊英崔钟训视频",
-      "onboard_time": 1716246616,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 426958,
@@ -1505,6 +1545,14 @@
       "onboard_time": 1716182480,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 408565,
+      "num": 390944,
+      "word": "刘亦菲安妮海瑟薇同框热聊",
+      "onboard_time": 1716251721,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 408250,
@@ -1627,6 +1675,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391882,
+      "num": 391882,
+      "word": "年轻人撕裂般胸痛千万别忍",
+      "onboard_time": 1716252621,
+      "rank": 9,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 390006,
+      "num": 390006,
+      "word": "舒淇顶级高定",
+      "onboard_time": 1716249498,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 388355,
       "num": 337906,
       "word": "赵露思深V碎花裙",
@@ -1745,6 +1809,14 @@
       "onboard_time": 1716040760,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 358657,
+      "num": 358657,
+      "word": "发烧后要多喝的是电解质水",
+      "onboard_time": 1716249739,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 358643,
@@ -1899,6 +1971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 333426,
+      "num": 333426,
+      "word": "伊朗总统葬礼23日举行",
+      "onboard_time": 1716248536,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 333383,
       "num": 319202,
       "word": "王俊凯柠檬草的味道彩排",
@@ -2028,7 +2108,7 @@
     },
     {
       "raw_hot": 320293,
-      "num": 174501,
+      "num": 308512,
       "word": "刘亦菲罗马造型",
       "onboard_time": 1716246675,
       "rank": 16,
@@ -2049,6 +2129,14 @@
       "onboard_time": 1716196040,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 317303,
+      "num": 230012,
+      "word": "中国人均带薪假6.29天",
+      "onboard_time": 1716246795,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317265,
@@ -2137,6 +2225,14 @@
       "onboard_time": 1716107358,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 302465,
+      "num": 193940,
+      "word": "上海套内51平米的家",
+      "onboard_time": 1716250339,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 299802,
@@ -2235,6 +2331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284514,
+      "num": 284514,
+      "word": "吃到了蕾哈娜亲手摊的煎饼果子",
+      "onboard_time": 1716248718,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284129,
       "num": 284129,
       "word": "陆虎十多年乙方没白当",
@@ -2257,6 +2361,14 @@
       "onboard_time": 1716093436,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281360,
+      "num": 226238,
+      "word": "iPhone15系列再次大降价最多便宜两千多",
+      "onboard_time": 1716248536,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 280340,
@@ -2443,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263858,
+      "num": 263858,
+      "word": "dnf",
+      "onboard_time": 1716253279,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263405,
       "num": 263405,
       "word": "森林狼vs掘金",
@@ -2465,6 +2585,14 @@
       "onboard_time": 1716179665,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 261861,
+      "num": 261861,
+      "word": "伊朗新任总统选举定于6月28日举行",
+      "onboard_time": 1716250339,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 261281,
@@ -2691,6 +2819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 236143,
+      "num": 236143,
+      "word": "院方通报广西17岁体育生错切右膝",
+      "onboard_time": 1716246795,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235492,
       "num": 235492,
       "word": "为什么卫生巾非得搞成组合装",
@@ -2753,6 +2889,22 @@
       "onboard_time": 1716186439,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225139,
+      "num": 225139,
+      "word": "官方对周杰伦福州演唱会开展督导检查",
+      "onboard_time": 1716252439,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 224675,
+      "num": 224675,
+      "word": "小猫咪不懂什么是品种猫",
+      "onboard_time": 1716250099,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 224529,
@@ -2971,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207829,
+      "num": 207829,
+      "word": "Rihanna 山东天后",
+      "onboard_time": 1716251180,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207081,
       "num": 207081,
       "word": "阿森纳vs埃弗顿",
@@ -3123,6 +3283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201718,
+      "num": 201718,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1716253819,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201441,
       "num": 201441,
       "word": "居然还有竖着跑的马拉松",
@@ -3235,6 +3403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198838,
+      "num": 198838,
+      "word": "上着班突然通知被裁了",
+      "onboard_time": 1716253339,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198373,
       "num": 620151,
       "word": "小满小满爱意加满",
@@ -3329,6 +3505,14 @@
       "onboard_time": 1716048259,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193962,
+      "num": 193962,
+      "word": "您的外卖已由特警送达",
+      "onboard_time": 1716246915,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193882,
@@ -3475,6 +3659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186557,
+      "num": 186557,
+      "word": "没睡好觉是怎样弄垮健康的",
+      "onboard_time": 1716249377,
+      "rank": 32,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 185867,
       "num": 185867,
       "word": "neinei轩轩一起游迪士尼",
@@ -3513,6 +3705,14 @@
       "onboard_time": 1716050717,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183970,
+      "num": 183970,
+      "word": "泸定地震",
+      "onboard_time": 1716249800,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182319,
@@ -3568,6 +3768,14 @@
       "word": "王一博到达桂林",
       "onboard_time": 1716118758,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179002,
+      "num": 179002,
+      "word": "bella身材",
+      "onboard_time": 1716251180,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -3635,6 +3843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175511,
+      "num": 390109,
+      "word": "手把手教你自测脊柱弯曲异常",
+      "onboard_time": 1716253339,
+      "rank": 11,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 174994,
       "num": 174994,
       "word": "周深蓝发",
@@ -3659,6 +3875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174494,
+      "num": 174494,
+      "word": "微信转账流行备注自愿赠与了吗",
+      "onboard_time": 1716253941,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 174009,
       "num": 212736,
       "word": "KPL年总新赛制大师轮换",
@@ -3673,6 +3897,14 @@
       "onboard_time": 1716206476,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173421,
+      "num": 173421,
+      "word": "赵一博何浩楠",
+      "onboard_time": 1716250760,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 173150,
@@ -3803,6 +4035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164854,
+      "num": 164854,
+      "word": "上岸第一件事就是迎娶意中人",
+      "onboard_time": 1716253699,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164780,
       "num": 164780,
       "word": "陈赫郑恺 阑尾兄弟",
@@ -3817,6 +4057,14 @@
       "onboard_time": 1716037400,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164396,
+      "num": 164396,
+      "word": "舒奕橙镜头下的金靖",
+      "onboard_time": 1716252679,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 163966,
@@ -3873,6 +4121,14 @@
       "onboard_time": 1716189679,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158910,
+      "num": 158910,
+      "word": "G社拍的舒淇刘亦菲",
+      "onboard_time": 1716250819,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158646,
@@ -4187,6 +4443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145314,
+      "num": 145314,
+      "word": "陈萍萍轮椅里的绝世神兵",
+      "onboard_time": 1716248958,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145182,
       "num": 366600,
       "word": "为什么西地那非这么受欢迎",
@@ -4460,7 +4724,7 @@
     },
     {
       "raw_hot": 135451,
-      "num": 811277,
+      "num": 873336,
       "word": "小满的一幕幕画面太有爱了",
       "onboard_time": 1716213560,
       "rank": 2,
@@ -4627,6 +4891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127694,
+      "num": 127694,
+      "word": "521不是恋人专属",
+      "onboard_time": 1716248297,
+      "rank": 48,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 127683,
       "num": 324530,
       "word": "天猫618王炸全家桶狠香",
@@ -4681,14 +4953,6 @@
       "onboard_time": 1716091877,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125610,
-      "num": 125610,
-      "word": "院方通报广西17岁体育生错切右膝",
-      "onboard_time": 1716246795,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125604,
@@ -4905,6 +5169,14 @@
       "onboard_time": 1716111558,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119559,
+      "num": 119559,
+      "word": "杨幂520捧花",
+      "onboard_time": 1716249319,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 119387,
@@ -5131,14 +5403,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 113436,
-      "num": 113436,
-      "word": "您的外卖已由特警送达",
-      "onboard_time": 1716246915,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113388,
       "num": 580950,
       "word": "女孩路上捡个快递帮挽回19万损失",
@@ -5201,14 +5465,6 @@
       "onboard_time": 1716081376,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110513,
-      "num": 110513,
-      "word": "中国人均带薪假6.29天",
-      "onboard_time": 1716246795,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110112,
