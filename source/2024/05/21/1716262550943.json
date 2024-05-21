@@ -1,0 +1,410 @@
+{
+  "runTime": 1716262550943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1993419,
+        "num": 1993419,
+        "word": "必须割掉危害孩子这颗全民网红毒瘤",
+        "onboard_time": 1716257121,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1667059,
+        "num": 1667059,
+        "word": "你昨晚睡了几小时",
+        "onboard_time": 1716257900,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133822,
+        "num": 1447860,
+        "word": "中国茶文化知识点",
+        "onboard_time": 1716261138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237612,
+        "num": 1237612,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1716261559,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 787502,
+        "num": 787502,
+        "word": "那英 摔倒",
+        "onboard_time": 1716250400,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623182,
+        "num": 623182,
+        "word": "三本女生上岸211和偶像成校友",
+        "onboard_time": 1716259399,
+        "rank": 5,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 473079,
+        "num": 473079,
+        "word": "微信转账流行备注自愿赠与了吗",
+        "onboard_time": 1716253941,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 455340,
+        "num": 455340,
+        "word": "多地提醒慎入网约车行业",
+        "onboard_time": 1716260420,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449538,
+        "num": 449538,
+        "word": "谁敢相信这是魏大勋啊",
+        "onboard_time": 1716258020,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482084,
+        "num": 445163,
+        "word": "那英摔倒后起身继续录节目",
+        "onboard_time": 1716259700,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401130,
+        "num": 401130,
+        "word": "一个普通女孩的考公七年之路",
+        "onboard_time": 1716258199,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377975,
+        "num": 377975,
+        "word": "郭有才为啥火",
+        "onboard_time": 1716258081,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 361501,
+        "num": 361501,
+        "word": "DNF手游补偿公告",
+        "onboard_time": 1716257418,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 333138,
+        "num": 333138,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1716253819,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307357,
+        "num": 307357,
+        "word": "刘德华演唱会",
+        "onboard_time": 1716261559,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300648,
+        "num": 300648,
+        "word": "跑男总导演等孟子义航班一整晚",
+        "onboard_time": 1716248297,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296200,
+        "num": 296200,
+        "word": "这年头摇个奶茶都这么e了吗",
+        "onboard_time": 1716259460,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63923,
+        "num": 267051,
+        "word": "余承东称自己一直在开智界S7",
+        "onboard_time": 1716260240,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260030,
+        "num": 260030,
+        "word": "关晓彤代言的天然呆成老赖",
+        "onboard_time": 1716258859,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212238,
+        "num": 212238,
+        "word": "医院通知退核酸检测费市民怀疑是诈骗",
+        "onboard_time": 1716252200,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65646,
+        "num": 199945,
+        "word": "霸王茶姬为521国际茶日上大分",
+        "onboard_time": 1716260660,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228784,
+        "num": 198317,
+        "word": "庆帝灰飞烟灭让人毛骨悚然",
+        "onboard_time": 1716246855,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196632,
+        "num": 196632,
+        "word": "年轻人为什么越来越爱爬山",
+        "onboard_time": 1716257121,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196559,
+        "num": 196559,
+        "word": "二皇子妈见打典中典",
+        "onboard_time": 1716259399,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192511,
+        "num": 192511,
+        "word": "宋亚轩被错认成鹿晗",
+        "onboard_time": 1716259219,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189566,
+        "num": 189566,
+        "word": "张杰周深献唱狐妖月红篇OST",
+        "onboard_time": 1716259579,
+        "rank": 25,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 188335,
+        "num": 188335,
+        "word": "外包父母月入四万",
+        "onboard_time": 1716254481,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187712,
+        "num": 187712,
+        "word": "年轻人撕裂般胸痛千万别忍",
+        "onboard_time": 1716252621,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 93475,
+        "num": 179393,
+        "word": "88VIP这波大额券诚意拉满",
+        "onboard_time": 1716259159,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151099,
+        "num": 178511,
+        "word": "八旬老人被毒蛇咬后忍痛打死带去医院",
+        "onboard_time": 1716216320,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178386,
+        "num": 178386,
+        "word": "南京10元咖啡",
+        "onboard_time": 1716259278,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151841,
+        "num": 151841,
+        "word": "刘亦菲安妮海瑟薇同框热聊",
+        "onboard_time": 1716251721,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146815,
+        "num": 146815,
+        "word": "徐海乔 披荆斩棘的哥哥",
+        "onboard_time": 1716254900,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138459,
+        "num": 138459,
+        "word": "余承东称享界S9舒适超迈巴赫",
+        "onboard_time": 1716260600,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136591,
+        "num": 136591,
+        "word": "舒淇顶级高定",
+        "onboard_time": 1716249498,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135890,
+        "num": 135890,
+        "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
+        "onboard_time": 1716259100,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134357,
+        "num": 134357,
+        "word": "庆余年2第十集好爽",
+        "onboard_time": 1716256280,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134195,
+        "num": 134195,
+        "word": "BBC曝光李胜利郑俊英崔钟训视频",
+        "onboard_time": 1716246616,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133157,
+        "num": 133157,
+        "word": "大麦回应马龙退赛粉丝退票遭拒",
+        "onboard_time": 1716262399,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131804,
+        "num": 131804,
+        "word": "iPhone15系列再次大降价最多便宜两千多",
+        "onboard_time": 1716248536,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130196,
+        "num": 130196,
+        "word": "上着班突然通知被裁了",
+        "onboard_time": 1716253339,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124285,
+        "num": 124285,
+        "word": "时代少年团重庆演唱会专辑",
+        "onboard_time": 1716260839,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117943,
+        "num": 117943,
+        "word": "市监局局长就连云港鬼秤事件道歉",
+        "onboard_time": 1716251420,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112894,
+        "num": 112894,
+        "word": "刘亦菲罗马造型",
+        "onboard_time": 1716246675,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110612,
+        "num": 110612,
+        "word": "上岸第一件事就是迎娶意中人",
+        "onboard_time": 1716253699,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108643,
+        "num": 110611,
+        "word": "网红奶爸和MCN解约的原因",
+        "onboard_time": 1716262279,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108476,
+        "num": 110607,
+        "word": "李克勤 合久必婚",
+        "onboard_time": 1716254841,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96668,
+        "num": 110605,
+        "word": "DNF手游能玩了",
+        "onboard_time": 1716260660,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93729,
+        "num": 110600,
+        "word": "有楼盘周末开盘卖了近15亿",
+        "onboard_time": 1716259999,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 90469,
+        "num": 110597,
+        "word": "赵一博何浩楠",
+        "onboard_time": 1716250760,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#更加广泛地开展同各国的文化交流#"
+    }
+  }
+}
