@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716259321039,
+  "endTime": 1716261690315,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -81,6 +81,14 @@
       "onboard_time": 1716123739,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 3347213,
+      "num": 1663571,
+      "word": "你的核酸检测费退了吗",
+      "onboard_time": 1716257722,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2814625,
@@ -257,6 +265,14 @@
       "onboard_time": 1716102857,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1369474,
+      "num": 243220,
+      "word": "你昨晚睡了几小时",
+      "onboard_time": 1716257900,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 1365569,
@@ -505,14 +521,6 @@
       "onboard_time": 1716118276,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 925890,
-      "num": 925890,
-      "word": "你的核酸检测费退了吗",
-      "onboard_time": 1716257722,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 920036,
@@ -1035,6 +1043,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 577006,
+      "num": 577006,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1716089177,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 574356,
       "num": 574356,
       "word": "魏大勋又赶上跑男泥潭了",
@@ -1171,14 +1187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 517886,
-      "num": 225988,
-      "word": "你昨晚睡了几小时",
-      "onboard_time": 1716257900,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 516673,
       "num": 516673,
       "word": "庆帝皇后挥之不去的恐惧是什么",
@@ -1283,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485848,
+      "num": 408406,
+      "word": "那英摔倒后起身继续录节目",
+      "onboard_time": 1716259700,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484497,
       "num": 484497,
       "word": "广西特大暴雨雨强破纪录",
@@ -1360,6 +1376,14 @@
       "word": "应采儿尊重Jasper不去饭局",
       "onboard_time": 1716100876,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 469898,
+      "num": 469898,
+      "word": "谁敢相信这是魏大勋啊",
+      "onboard_time": 1716258020,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -1611,6 +1635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 413954,
+      "num": 413954,
+      "word": "郭有才为啥火",
+      "onboard_time": 1716258081,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 411371,
       "num": 411371,
       "word": "蔡依林回复王俊凯去南昌跳舞",
@@ -1697,14 +1729,6 @@
       "onboard_time": 1716033738,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398695,
-      "num": 398695,
-      "word": "谁敢相信这是魏大勋啊",
-      "onboard_time": 1716258020,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 398464,
@@ -1827,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370825,
+      "num": 370825,
+      "word": "一个普通女孩的考公七年之路",
+      "onboard_time": 1716258199,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369660,
       "num": 192519,
       "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
@@ -1897,14 +1929,6 @@
       "onboard_time": 1716125661,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 350903,
-      "num": 350903,
-      "word": "郭有才为啥火",
-      "onboard_time": 1716258081,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 348632,
@@ -2251,14 +2275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 312837,
-      "num": 312837,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1716089177,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 312540,
       "num": 252441,
       "word": "2块钱以下的雪糕回来了",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1716103578,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 307834,
+      "num": 307834,
+      "word": "关晓彤代言的天然呆成老赖",
+      "onboard_time": 1716258859,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 305279,
@@ -2345,6 +2369,22 @@
       "onboard_time": 1716193402,
       "rank": 38,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 294101,
+      "num": 294101,
+      "word": "三本女生上岸211和偶像成校友",
+      "onboard_time": 1716259399,
+      "rank": 16,
+      "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 292679,
+      "num": 385917,
+      "word": "多地提醒慎入网约车行业",
+      "onboard_time": 1716260420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291521,
@@ -2449,6 +2489,14 @@
       "onboard_time": 1716248536,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 280811,
+      "num": 280811,
+      "word": "这年头摇个奶茶都这么e了吗",
+      "onboard_time": 1716259460,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 280340,
@@ -2929,6 +2977,14 @@
       "onboard_time": 1716200779,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 235354,
+      "num": 235354,
+      "word": "宋亚轩被错认成鹿晗",
+      "onboard_time": 1716259219,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 234772,
@@ -3435,12 +3491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200804,
+      "num": 200804,
+      "word": "张杰周深献唱狐妖月红篇OST",
+      "onboard_time": 1716259579,
+      "rank": 24,
+      "category": "剧集,音乐"
+    },
+    {
       "raw_hot": 200380,
       "num": 200380,
       "word": "奔跑吧",
       "onboard_time": 1716092838,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200370,
+      "num": 200370,
+      "word": "南京10元咖啡",
+      "onboard_time": 1716259278,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 200287,
@@ -3481,6 +3553,14 @@
       "onboard_time": 1716208578,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199161,
+      "num": 199161,
+      "word": "刘德华演唱会",
+      "onboard_time": 1716261559,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 199010,
@@ -3555,12 +3635,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197046,
+      "num": 197046,
+      "word": "年轻人为什么越来越爱爬山",
+      "onboard_time": 1716257121,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 196869,
       "num": 196869,
       "word": "子夜归",
       "onboard_time": 1716185182,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195931,
+      "num": 195931,
+      "word": "时代少年团重庆演唱会专辑",
+      "onboard_time": 1716260839,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 195776,
@@ -3680,14 +3776,6 @@
       "word": "520怎么过",
       "onboard_time": 1716112817,
       "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 190299,
-      "num": 234822,
-      "word": "一个普通女孩的考公七年之路",
-      "onboard_time": 1716258199,
-      "rank": 34,
       "category": "情感"
     },
     {
@@ -3827,14 +3915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181796,
-      "num": 181796,
-      "word": "关晓彤代言的天然呆成老赖",
-      "onboard_time": 1716258859,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181327,
       "num": 181327,
       "word": "狼队十冠王",
@@ -3960,6 +4040,14 @@
       "word": "庆余年2第十集好爽",
       "onboard_time": 1716256280,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175369,
+      "num": 175369,
+      "word": "二皇子妈见打典中典",
+      "onboard_time": 1716259399,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -4145,6 +4233,14 @@
       "onboard_time": 1716212359,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164657,
+      "num": 164657,
+      "word": "余承东称享界S9舒适超迈巴赫",
+      "onboard_time": 1716260600,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 164491,
@@ -4363,14 +4459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 153277,
-      "num": 153277,
-      "word": "年轻人为什么越来越爱爬山",
-      "onboard_time": 1716257121,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 153206,
       "num": 153206,
       "word": "谈恋爱重要的是过程还是结果",
@@ -4385,6 +4473,14 @@
       "onboard_time": 1716177982,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152145,
+      "num": 196393,
+      "word": "88VIP这波大额券诚意拉满",
+      "onboard_time": 1716259159,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 152032,
@@ -4907,6 +5003,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 132981,
+      "num": 132981,
+      "word": "dnf手游开服挤爆服务器",
+      "onboard_time": 1716259820,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132436,
       "num": 141486,
       "word": "薛之谦惊讶新疆作息时间",
@@ -4971,6 +5075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130007,
+      "num": 130007,
+      "word": "DNF手游能玩了",
+      "onboard_time": 1716260660,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129865,
       "num": 321739,
       "word": "迪丽热巴打戏流畅度",
@@ -4993,6 +5105,14 @@
       "onboard_time": 1716188240,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129144,
+      "num": 129144,
+      "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
+      "onboard_time": 1716259100,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 128588,
@@ -5155,14 +5275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123558,
-      "num": 123558,
-      "word": "88VIP这波大额券诚意拉满",
-      "onboard_time": 1716259159,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 123373,
       "num": 123373,
       "word": "Lehends获得FMVP",
@@ -5203,12 +5315,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121862,
+      "num": 121862,
+      "word": "有楼盘周末开盘卖了近15亿",
+      "onboard_time": 1716259999,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 121832,
       "num": 121832,
       "word": "为何阿嬷手作10元咖啡爆火",
       "onboard_time": 1716166398,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 121724,
+      "num": 1137218,
+      "word": "中国茶文化知识点",
+      "onboard_time": 1716261138,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121574,
@@ -5683,14 +5811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106874,
-      "num": 106874,
-      "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
-      "onboard_time": 1716259100,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 106339,
       "num": 106339,
       "word": "南阳举办纪念诸葛亮仙逝1790周年座谈会",
@@ -5947,22 +6067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96520,
-      "num": 96520,
-      "word": "宋亚轩被错认成鹿晗",
-      "onboard_time": 1716259219,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 95023,
-      "num": 95023,
-      "word": "南京10元咖啡",
-      "onboard_time": 1716259278,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 94268,
       "num": 94268,
       "word": "救助了一只句句有回应的小猫",
@@ -6105,6 +6209,14 @@
       "onboard_time": 1716095777,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79093,
+      "num": 196121,
+      "word": "霸王茶姬为521国际茶日上大分",
+      "onboard_time": 1716260660,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 79067,
@@ -6513,6 +6625,14 @@
       "onboard_time": 1716045679,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46497,
+      "num": 246301,
+      "word": "余承东称自己一直在开智界S7",
+      "onboard_time": 1716260240,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 45301,

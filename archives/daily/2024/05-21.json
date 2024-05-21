@@ -1,7 +1,15 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716259321039,
+  "endTime": 1716261690315,
   "band_list": [
+    {
+      "raw_hot": 3347213,
+      "num": 1663571,
+      "word": "你的核酸检测费退了吗",
+      "onboard_time": 1716257722,
+      "rank": 11,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2287053,
       "num": 2287053,
@@ -27,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1369474,
+      "num": 243220,
+      "word": "你昨晚睡了几小时",
+      "onboard_time": 1716257900,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1182657,
       "num": 1182657,
       "word": "疯产姐妹复更",
@@ -48,14 +64,6 @@
       "word": "房价会不会报复性上涨",
       "onboard_time": 1716222497,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 925890,
-      "num": 925890,
-      "word": "你的核酸检测费退了吗",
-      "onboard_time": 1716257722,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -115,20 +123,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 577006,
+      "num": 577006,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1716261559,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 567289,
       "num": 567289,
       "word": "dnf",
       "onboard_time": 1716253279,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 517886,
-      "num": 225988,
-      "word": "你昨晚睡了几小时",
-      "onboard_time": 1716257900,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 515088,
@@ -155,6 +163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 485848,
+      "num": 408406,
+      "word": "那英摔倒后起身继续录节目",
+      "onboard_time": 1716259700,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478735,
       "num": 259321,
       "word": "那英高叶 不良少女版",
@@ -176,6 +192,14 @@
       "word": "披荆斩棘的哥哥",
       "onboard_time": 1716253819,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 469898,
+      "num": 469898,
+      "word": "谁敢相信这是魏大勋啊",
+      "onboard_time": 1716258020,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -211,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398695,
-      "num": 398695,
-      "word": "谁敢相信这是魏大勋啊",
-      "onboard_time": 1716258020,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 413954,
+      "num": 413954,
+      "word": "郭有才为啥火",
+      "onboard_time": 1716258081,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 390006,
@@ -235,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370825,
+      "num": 370825,
+      "word": "一个普通女孩的考公七年之路",
+      "onboard_time": 1716258199,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 358657,
       "num": 358657,
       "word": "发烧后要多喝的是电解质水",
       "onboard_time": 1716249739,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 350903,
-      "num": 350903,
-      "word": "郭有才为啥火",
-      "onboard_time": 1716258081,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 345156,
@@ -299,11 +323,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307834,
+      "num": 307834,
+      "word": "关晓彤代言的天然呆成老赖",
+      "onboard_time": 1716258859,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298933,
       "num": 221885,
       "word": "外包父母月入四万",
       "onboard_time": 1716254481,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294101,
+      "num": 294101,
+      "word": "三本女生上岸211和偶像成校友",
+      "onboard_time": 1716259399,
+      "rank": 16,
+      "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 292679,
+      "num": 385917,
+      "word": "多地提醒慎入网约车行业",
+      "onboard_time": 1716260420,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -329,6 +377,14 @@
       "onboard_time": 1716248536,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 280811,
+      "num": 280811,
+      "word": "这年头摇个奶茶都这么e了吗",
+      "onboard_time": 1716259460,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 267576,
@@ -403,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235354,
+      "num": 235354,
+      "word": "宋亚轩被错认成鹿晗",
+      "onboard_time": 1716259219,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233098,
       "num": 182722,
       "word": "西班牙召回驻阿根廷大使",
@@ -459,20 +523,52 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200804,
+      "num": 200804,
+      "word": "张杰周深献唱狐妖月红篇OST",
+      "onboard_time": 1716259579,
+      "rank": 24,
+      "category": "剧集,音乐"
+    },
+    {
+      "raw_hot": 200370,
+      "num": 200370,
+      "word": "南京10元咖啡",
+      "onboard_time": 1716259278,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 199161,
+      "num": 199161,
+      "word": "刘德华演唱会",
+      "onboard_time": 1716261559,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 197046,
+      "num": 197046,
+      "word": "年轻人为什么越来越爱爬山",
+      "onboard_time": 1716257121,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 195931,
+      "num": 195931,
+      "word": "时代少年团重庆演唱会专辑",
+      "onboard_time": 1716260839,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193962,
       "num": 193962,
       "word": "您的外卖已由特警送达",
       "onboard_time": 1716246915,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190299,
-      "num": 234822,
-      "word": "一个普通女孩的考公七年之路",
-      "onboard_time": 1716258199,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 186557,
@@ -489,14 +585,6 @@
       "onboard_time": 1716249800,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181796,
-      "num": 181796,
-      "word": "关晓彤代言的天然呆成老赖",
-      "onboard_time": 1716258859,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 179002,
@@ -523,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175369,
+      "num": 175369,
+      "word": "二皇子妈见打典中典",
+      "onboard_time": 1716259399,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175191,
       "num": 175191,
       "word": "成毅赴山海",
@@ -537,6 +633,14 @@
       "onboard_time": 1716250760,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164657,
+      "num": 164657,
+      "word": "余承东称享界S9舒适超迈巴赫",
+      "onboard_time": 1716260600,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 164396,
@@ -563,20 +667,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153277,
-      "num": 153277,
-      "word": "年轻人为什么越来越爱爬山",
-      "onboard_time": 1716257121,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 153254,
       "num": 153254,
       "word": "何小鹏回应与小米竞争",
       "onboard_time": 1716216799,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 152145,
+      "num": 196393,
+      "word": "88VIP这波大额券诚意拉满",
+      "onboard_time": 1716259159,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 151253,
@@ -627,6 +731,30 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132981,
+      "num": 132981,
+      "word": "dnf手游开服挤爆服务器",
+      "onboard_time": 1716259820,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 130007,
+      "num": 130007,
+      "word": "DNF手游能玩了",
+      "onboard_time": 1716260660,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 129144,
+      "num": 129144,
+      "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
+      "onboard_time": 1716259100,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127694,
       "num": 127694,
       "word": "521不是恋人专属",
@@ -651,12 +779,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 123558,
-      "num": 123558,
-      "word": "88VIP这波大额券诚意拉满",
-      "onboard_time": 1716259159,
-      "rank": 36,
-      "category": "互联网"
+      "raw_hot": 121862,
+      "num": 121862,
+      "word": "有楼盘周末开盘卖了近15亿",
+      "onboard_time": 1716259999,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 121724,
+      "num": 1137218,
+      "word": "中国茶文化知识点",
+      "onboard_time": 1716261138,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119559,
@@ -681,14 +817,6 @@
       "onboard_time": 1716205878,
       "rank": 27,
       "category": "演出,时尚"
-    },
-    {
-      "raw_hot": 106874,
-      "num": 106874,
-      "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
-      "onboard_time": 1716259100,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 105970,
@@ -745,22 +873,6 @@
       "onboard_time": 1716168678,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96520,
-      "num": 96520,
-      "word": "宋亚轩被错认成鹿晗",
-      "onboard_time": 1716259219,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 95023,
-      "num": 95023,
-      "word": "南京10元咖啡",
-      "onboard_time": 1716259278,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 93782,
@@ -857,6 +969,14 @@
       "onboard_time": 1716246616,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 79093,
+      "num": 196121,
+      "word": "霸王茶姬为521国际茶日上大分",
+      "onboard_time": 1716260660,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 79067,
@@ -1001,6 +1121,14 @@
       "onboard_time": 1716213741,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46497,
+      "num": 246301,
+      "word": "余承东称自己一直在开智界S7",
+      "onboard_time": 1716260240,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 44021,

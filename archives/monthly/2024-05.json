@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716259321039,
+  "endTime": 1716261690315,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -257,6 +257,14 @@
       "onboard_time": 1716123739,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 3347213,
+      "num": 1663571,
+      "word": "你的核酸检测费退了吗",
+      "onboard_time": 1716257722,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3292604,
@@ -2273,6 +2281,14 @@
       "onboard_time": 1715240659,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1369474,
+      "num": 243220,
+      "word": "你昨晚睡了几小时",
+      "onboard_time": 1716257900,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 1368743,
@@ -4873,14 +4889,6 @@
       "onboard_time": 1715405120,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 925890,
-      "num": 925890,
-      "word": "你的核酸检测费退了吗",
-      "onboard_time": 1716257722,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 923670,
@@ -11699,14 +11707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 517886,
-      "num": 225988,
-      "word": "你昨晚睡了几小时",
-      "onboard_time": 1716257900,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 517722,
       "num": 291764,
       "word": "邓超问孙俪能回家了吗",
@@ -12691,6 +12691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485848,
+      "num": 408406,
+      "word": "那英摔倒后起身继续录节目",
+      "onboard_time": 1716259700,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485059,
       "num": 464448,
       "word": "成龙回应满头白发",
@@ -13217,6 +13225,14 @@
       "onboard_time": 1715608939,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 469898,
+      "num": 469898,
+      "word": "谁敢相信这是魏大勋啊",
+      "onboard_time": 1716258020,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 469733,
@@ -15443,6 +15459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 413954,
+      "num": 413954,
+      "word": "郭有才为啥火",
+      "onboard_time": 1716258081,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 413875,
       "num": 315370,
       "word": "朱珠方发文谴责倒卖门票商品行为",
@@ -16193,14 +16217,6 @@
       "onboard_time": 1715830639,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398695,
-      "num": 398695,
-      "word": "谁敢相信这是魏大勋啊",
-      "onboard_time": 1716258020,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 398694,
@@ -17395,6 +17411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 370825,
+      "num": 370825,
+      "word": "一个普通女孩的考公七年之路",
+      "onboard_time": 1716258199,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 370796,
       "num": 370796,
       "word": "官方通报连云港海鲜市场事件",
@@ -18281,14 +18305,6 @@
       "onboard_time": 1715147121,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 350903,
-      "num": 350903,
-      "word": "郭有才为啥火",
-      "onboard_time": 1716258081,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 350900,
@@ -20651,6 +20667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 307834,
+      "num": 307834,
+      "word": "关晓彤代言的天然呆成老赖",
+      "onboard_time": 1716258859,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307801,
       "num": 348617,
       "word": "陶喆南京 抢票",
@@ -21363,6 +21387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294101,
+      "num": 294101,
+      "word": "三本女生上岸211和偶像成校友",
+      "onboard_time": 1716259399,
+      "rank": 16,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 293880,
       "num": 293880,
       "word": "南方连面包都给切了",
@@ -21425,6 +21457,14 @@
       "onboard_time": 1716012857,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292679,
+      "num": 385917,
+      "word": "多地提醒慎入网约车行业",
+      "onboard_time": 1716260420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292637,
@@ -22225,6 +22265,14 @@
       "onboard_time": 1716036978,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280811,
+      "num": 280811,
+      "word": "这年头摇个奶茶都这么e了吗",
+      "onboard_time": 1716259460,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 280713,
@@ -26121,6 +26169,14 @@
       "onboard_time": 1715756658,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235354,
+      "num": 235354,
+      "word": "宋亚轩被错认成鹿晗",
+      "onboard_time": 1716259219,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 235339,
@@ -31187,6 +31243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200804,
+      "num": 200804,
+      "word": "张杰周深献唱狐妖月红篇OST",
+      "onboard_time": 1716259579,
+      "rank": 24,
+      "category": "剧集,音乐"
+    },
+    {
       "raw_hot": 200782,
       "num": 200782,
       "word": "宋威龙鞠婧祎单人海报",
@@ -31337,6 +31401,14 @@
       "onboard_time": 1716044540,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200370,
+      "num": 200370,
+      "word": "南京10元咖啡",
+      "onboard_time": 1716259278,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 200344,
@@ -31601,6 +31673,14 @@
       "onboard_time": 1715163621,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199161,
+      "num": 199161,
+      "word": "刘德华演唱会",
+      "onboard_time": 1716261559,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 199134,
@@ -32163,6 +32243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197046,
+      "num": 197046,
+      "word": "年轻人为什么越来越爱爬山",
+      "onboard_time": 1716257121,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 197023,
       "num": 197023,
       "word": "涵艺爆料wink暂别赛场",
@@ -32433,6 +32521,14 @@
       "onboard_time": 1714558999,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195931,
+      "num": 195931,
+      "word": "时代少年团重庆演唱会专辑",
+      "onboard_time": 1716260839,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 195862,
@@ -33817,14 +33913,6 @@
       "onboard_time": 1716008239,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190299,
-      "num": 234822,
-      "word": "一个普通女孩的考公七年之路",
-      "onboard_time": 1716258199,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 190284,
@@ -35635,14 +35723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181796,
-      "num": 181796,
-      "word": "关晓彤代言的天然呆成老赖",
-      "onboard_time": 1716258859,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181757,
       "num": 181757,
       "word": "花2万元拍一张写真",
@@ -36873,6 +36953,14 @@
       "onboard_time": 1715955984,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175369,
+      "num": 175369,
+      "word": "二皇子妈见打典中典",
+      "onboard_time": 1716259399,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 175366,
@@ -39121,6 +39209,14 @@
       "onboard_time": 1714709959,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164657,
+      "num": 164657,
+      "word": "余承东称享界S9舒适超迈巴赫",
+      "onboard_time": 1716260600,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 164567,
@@ -41443,14 +41539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153277,
-      "num": 153277,
-      "word": "年轻人为什么越来越爱爬山",
-      "onboard_time": 1716257121,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 153258,
       "num": 153258,
       "word": "周深五四演讲",
@@ -41633,6 +41721,14 @@
       "onboard_time": 1715661440,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152145,
+      "num": 196393,
+      "word": "88VIP这波大额券诚意拉满",
+      "onboard_time": 1716259159,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 152106,
@@ -45835,6 +45931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132981,
+      "num": 132981,
+      "word": "dnf手游开服挤爆服务器",
+      "onboard_time": 1716259820,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132930,
       "num": 132930,
       "word": "俄居民楼遭袭坍塌事故已致15人死亡",
@@ -46403,6 +46507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130007,
+      "num": 130007,
+      "word": "DNF手游能玩了",
+      "onboard_time": 1716260660,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129995,
       "num": 129995,
       "word": "毛坯旅游vs精装朋友圈",
@@ -46601,6 +46713,14 @@
       "onboard_time": 1715328018,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129144,
+      "num": 129144,
+      "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
+      "onboard_time": 1716259100,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 129139,
@@ -47723,14 +47843,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 123558,
-      "num": 123558,
-      "word": "88VIP这波大额券诚意拉满",
-      "onboard_time": 1716259159,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 123546,
       "num": 134277,
       "word": "北京国安2比1成都蓉城",
@@ -48011,6 +48123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121862,
+      "num": 121862,
+      "word": "有楼盘周末开盘卖了近15亿",
+      "onboard_time": 1716259999,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 121832,
       "num": 121832,
       "word": "为何阿嬷手作10元咖啡爆火",
@@ -48033,6 +48153,14 @@
       "onboard_time": 1715083580,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121724,
+      "num": 1137218,
+      "word": "中国茶文化知识点",
+      "onboard_time": 1716261138,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121679,
@@ -50739,14 +50867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106874,
-      "num": 106874,
-      "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
-      "onboard_time": 1716259100,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 106871,
       "num": 166243,
       "word": "支付宝回应用户网购保险被远程录屏",
@@ -51939,14 +52059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96520,
-      "num": 96520,
-      "word": "宋亚轩被错认成鹿晗",
-      "onboard_time": 1716259219,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96494,
       "num": 89842,
       "word": "为什么叶轻眉的人气那么高",
@@ -52049,14 +52161,6 @@
       "onboard_time": 1714523476,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 95023,
-      "num": 95023,
-      "word": "南京10元咖啡",
-      "onboard_time": 1716259278,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 95016,
@@ -53121,6 +53225,14 @@
       "onboard_time": 1715923461,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79093,
+      "num": 196121,
+      "word": "霸王茶姬为521国际茶日上大分",
+      "onboard_time": 1716260660,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 79067,
@@ -55201,6 +55313,14 @@
       "onboard_time": 1715606599,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46497,
+      "num": 246301,
+      "word": "余承东称自己一直在开智界S7",
+      "onboard_time": 1716260240,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 46359,
