@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716269699008,
+  "endTime": 1716272780723,
   "band_list": [
     {
       "raw_hot": 3347213,
@@ -41,6 +41,14 @@
       "onboard_time": 1716252200,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1422096,
+      "num": 1422096,
+      "word": "第一次意识到1万块这么有质感",
+      "onboard_time": 1716269360,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1333716,
@@ -147,12 +155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 700864,
-      "num": 700864,
-      "word": "第一次意识到1万块这么有质感",
+      "raw_hot": 718315,
+      "num": 220208,
+      "word": "女朋友要把彩礼存死期",
+      "onboard_time": 1716269119,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 667959,
+      "num": 667959,
+      "word": "具荷拉 振聋发聩的伟大发声",
       "onboard_time": 1716269360,
-      "rank": 3,
-      "category": "幽默"
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 636094,
@@ -161,6 +177,14 @@
       "onboard_time": 1716246855,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 593349,
+      "num": 593349,
+      "word": "从美国进口血液制品致英国3万人感染艾滋等",
+      "onboard_time": 1716270979,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592489,
@@ -209,6 +233,14 @@
       "onboard_time": 1716264680,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 499720,
+      "num": 499720,
+      "word": "有个叫范闲的人要做我靠山",
+      "onboard_time": 1716269360,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 495494,
@@ -379,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 322450,
+      "num": 322450,
+      "word": "奔跑吧宋雨琦",
+      "onboard_time": 1716271460,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321305,
       "num": 321305,
       "word": "蒋敦豪 赫马佛洛狄忒斯",
@@ -435,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303090,
+      "num": 303090,
+      "word": "26岁女留学生在美失踪5天",
+      "onboard_time": 1716271399,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298933,
       "num": 221885,
       "word": "外包父母月入四万",
@@ -465,6 +513,14 @@
       "onboard_time": 1716268161,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284876,
+      "num": 284876,
+      "word": "郴州",
+      "onboard_time": 1716269900,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284514,
@@ -619,14 +675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220208,
-      "num": 220208,
-      "word": "女朋友要把彩礼存死期",
-      "onboard_time": 1716269119,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219411,
       "num": 219411,
       "word": "aespa新歌supernova日冠",
@@ -673,6 +721,14 @@
       "onboard_time": 1716259579,
       "rank": 24,
       "category": "剧集,音乐"
+    },
+    {
+      "raw_hot": 200445,
+      "num": 200445,
+      "word": "建议大家做事提前5分钟准备",
+      "onboard_time": 1716271818,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 200370,
@@ -723,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194124,
+      "num": 194124,
+      "word": "辛芷蕾给赵昭仪庆生",
+      "onboard_time": 1716272240,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193962,
       "num": 193962,
       "word": "您的外卖已由特警送达",
@@ -771,6 +835,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 177512,
+      "num": 177512,
+      "word": "美歌手持枪拍视频意外自杀",
+      "onboard_time": 1716272001,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175605,
       "num": 175605,
       "word": "庆余年2第十集好爽",
@@ -787,28 +859,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173873,
-      "num": 173873,
-      "word": "具荷拉 振聋发聩的伟大发声",
-      "onboard_time": 1716269360,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173421,
       "num": 173421,
       "word": "赵一博何浩楠",
       "onboard_time": 1716250760,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172293,
-      "num": 172293,
-      "word": "有个叫范闲的人要做我靠山",
-      "onboard_time": 1716269360,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 165781,
@@ -825,6 +881,14 @@
       "onboard_time": 1716260600,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 164522,
+      "num": 164522,
+      "word": "尤长靖参加披哥",
+      "onboard_time": 1716269959,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 164396,
@@ -881,6 +945,14 @@
       "onboard_time": 1716265880,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157171,
+      "num": 157171,
+      "word": "南城宴定档",
+      "onboard_time": 1716269780,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 154508,
@@ -1067,6 +1139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127111,
+      "num": 127111,
+      "word": "大大方方的抠门并不丢人",
+      "onboard_time": 1716271818,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124297,
       "num": 140335,
       "word": "鸣潮",
@@ -1081,6 +1161,14 @@
       "onboard_time": 1716259999,
       "rank": 47,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 119743,
+      "num": 119743,
+      "word": "易烊千玺牛仔衬衫西装叠搭造型",
+      "onboard_time": 1716270380,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119559,
@@ -1123,6 +1211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 108112,
+      "num": 108112,
+      "word": "福宝香香喀秋莎有个共享奶爸",
+      "onboard_time": 1716272539,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106514,
       "num": 106514,
       "word": "多家出版社抵制618图书大促",
@@ -1161,6 +1257,14 @@
       "onboard_time": 1716257418,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100518,
+      "num": 100518,
+      "word": "龙虾馄饨",
+      "onboard_time": 1716272357,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 99511,
@@ -1208,6 +1312,22 @@
       "word": "庆余年2朝堂激辩",
       "onboard_time": 1716213140,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92819,
+      "num": 292188,
+      "word": "牙白对颜值影响有多大",
+      "onboard_time": 1716268100,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 91338,
+      "num": 91338,
+      "word": "庆余年2五子齐海报",
+      "onboard_time": 1716272719,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1305,6 +1425,14 @@
       "onboard_time": 1716211158,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76156,
+      "num": 206051,
+      "word": "开什么车去相亲比较靠谱",
+      "onboard_time": 1716271520,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74595,
@@ -1507,19 +1635,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 34319,
-      "num": 254007,
-      "word": "牙白对颜值影响有多大",
-      "onboard_time": 1716268100,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 34039,
       "num": 90474,
       "word": "光遇",
       "onboard_time": 1716226153,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 33553,
+      "num": 231767,
+      "word": "梦回08年DNF上线",
+      "onboard_time": 1716271520,
+      "rank": 18,
       "category": "游戏"
     },
     {
@@ -1545,6 +1673,14 @@
       "onboard_time": 1716240492,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22519,
+      "num": 93210,
+      "word": "鸣潮比女娲会捏",
+      "onboard_time": 1716272659,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 19493,
@@ -1593,6 +1729,14 @@
       "onboard_time": 1716236351,
       "rank": 46,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 12608,
+      "num": 90578,
+      "word": "你能认出哪张是2万一张的写真吗",
+      "onboard_time": 1716272419,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11636,
