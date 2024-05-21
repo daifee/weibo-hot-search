@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716330837910,
+  "endTime": 1716333588411,
   "band_list": [
     {
       "raw_hot": 1284659,
@@ -43,20 +43,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492550,
+      "num": 492550,
+      "word": "中国终将实现完全统一",
+      "onboard_time": 1716294318,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 462518,
       "num": 198477,
       "word": "公职人员出轨不雅照被张贴车上",
       "onboard_time": 1716274998,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410895,
-      "num": 410895,
-      "word": "中国终将实现完全统一",
-      "onboard_time": 1716294318,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 409635,
@@ -73,6 +73,14 @@
       "onboard_time": 1716297679,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 385495,
+      "num": 385495,
+      "word": "4小孩河边洗澡两人溺亡同行人获刑11年",
+      "onboard_time": 1716294438,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375762,
@@ -97,6 +105,22 @@
       "onboard_time": 1716294018,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336472,
+      "num": 336472,
+      "word": "朱丹赛道被颖儿闯进去了",
+      "onboard_time": 1716296958,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336178,
+      "num": 336178,
+      "word": "武功山失温遇难女孩同伴曾打电话求救",
+      "onboard_time": 1716294318,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331163,
@@ -147,8 +171,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239322,
+      "num": 239322,
+      "word": "海南海边发现骨架2米不明生物尸体",
+      "onboard_time": 1716275119,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238916,
-      "num": 197797,
+      "num": 199550,
       "word": "大麦回应出示死亡证明仍拒变更观演人",
       "onboard_time": 1716284779,
       "rank": 22,
@@ -163,14 +195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 213798,
-      "num": 213798,
-      "word": "海南海边发现骨架2米不明生物尸体",
-      "onboard_time": 1716275119,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206641,
       "num": 196286,
       "word": "起猛了以为李峋回来了",
@@ -179,12 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199050,
-      "num": 199050,
-      "word": "武功山失温遇难女孩同伴曾打电话求救",
-      "onboard_time": 1716294318,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 198012,
+      "num": 161358,
+      "word": "建议大家工作后都准备两个微信",
+      "onboard_time": 1716307339,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 196214,
@@ -201,22 +225,6 @@
       "onboard_time": 1716308776,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 181672,
-      "num": 181672,
-      "word": "4小孩河边洗澡两人溺亡同行人获刑11年",
-      "onboard_time": 1716294438,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179137,
-      "num": 161358,
-      "word": "建议大家工作后都准备两个微信",
-      "onboard_time": 1716307339,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 174802,
@@ -315,6 +323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 100645,
+      "num": 100645,
+      "word": "刘亦菲紫色高定",
+      "onboard_time": 1716333556,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 96238,
       "num": 118558,
       "word": "第一次意识到1万块这么有质感",
@@ -328,14 +344,6 @@
       "word": "舒淇穿洞洞鞋",
       "onboard_time": 1716298940,
       "rank": 42,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 92585,
-      "num": 118464,
-      "word": "朱丹赛道被颖儿闯进去了",
-      "onboard_time": 1716296958,
-      "rank": 43,
       "category": "作品衍生"
     },
     {
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85005,
+      "num": 85005,
+      "word": "学生偶遇的萌兽竟是二级保护动物",
+      "onboard_time": 1716331094,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 84323,
       "num": 118411,
       "word": "请问这是男生女生拿命来吗",
@@ -387,6 +403,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71698,
+      "num": 71698,
+      "word": "小猫拒绝了同伴的握手申请",
+      "onboard_time": 1716325812,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 70673,
+      "num": 70673,
+      "word": "郭有才上月刚注销名下传媒公司",
+      "onboard_time": 1716332775,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 69526,
       "num": 118351,
       "word": "广州到上海仅需3小时",
@@ -395,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56213,
-      "num": 56213,
-      "word": "小猫拒绝了同伴的握手申请",
-      "onboard_time": 1716325812,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 56908,
+      "num": 85930,
+      "word": "这5类人要少吃榴莲",
+      "onboard_time": 1716311415,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 55475,
@@ -419,20 +451,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 46798,
-      "num": 46798,
+      "raw_hot": 47568,
+      "num": 67266,
       "word": "徐梦洁用两年时间重回舞台",
       "onboard_time": 1716325091,
       "rank": 40,
       "category": "演出"
     },
     {
-      "raw_hot": 46534,
-      "num": 85930,
-      "word": "这5类人要少吃榴莲",
-      "onboard_time": 1716311415,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 44837,
+      "num": 67216,
+      "word": "刘亦菲高级珠宝",
+      "onboard_time": 1716316451,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 41764,
@@ -441,6 +473,14 @@
       "onboard_time": 1716314711,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41509,
+      "num": 67162,
+      "word": "奶奶把小狗举起对着监控",
+      "onboard_time": 1716317711,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 40785,
@@ -459,28 +499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37515,
+      "num": 67126,
+      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
+      "onboard_time": 1716322570,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 35184,
       "num": 363724,
       "word": "吴孟超生前珍贵画面",
       "onboard_time": 1716307578,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29911,
-      "num": 46721,
-      "word": "刘亦菲高级珠宝",
-      "onboard_time": 1716316451,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27495,
-      "num": 46742,
-      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
-      "onboard_time": 1716322570,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 27308,
@@ -499,16 +531,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22276,
-      "num": 46693,
-      "word": "奶奶把小狗举起对着监控",
-      "onboard_time": 1716317711,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 12588,
-      "num": 109145,
+      "num": 140159,
       "word": "单亲爸爸思念妻子泪如雨下",
       "onboard_time": 1716312313,
       "rank": 9,

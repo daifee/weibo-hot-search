@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716330837910,
+  "endTime": 1716333588411,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -2651,6 +2651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 336472,
+      "num": 336472,
+      "word": "朱丹赛道被颖儿闯进去了",
+      "onboard_time": 1716296958,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 333426,
       "num": 333426,
       "word": "伊朗总统葬礼23日举行",
@@ -3369,14 +3377,6 @@
       "onboard_time": 1716179725,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265570,
-      "num": 256976,
-      "word": "朱丹赛道被颖儿闯进去了",
-      "onboard_time": 1716296958,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 265322,
@@ -4555,6 +4555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198012,
+      "num": 161358,
+      "word": "建议大家工作后都准备两个微信",
+      "onboard_time": 1716307339,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197966,
       "num": 197966,
       "word": "外婆说我给孩子买的衣服很怪",
@@ -5073,14 +5081,6 @@
       "onboard_time": 1716118758,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179137,
-      "num": 161358,
-      "word": "建议大家工作后都准备两个微信",
-      "onboard_time": 1716307339,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 179002,
@@ -7779,6 +7779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100645,
+      "num": 100645,
+      "word": "刘亦菲紫色高定",
+      "onboard_time": 1716333556,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100605,
       "num": 100605,
       "word": "洲际巡回赛",
@@ -7995,6 +8003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85005,
+      "num": 85005,
+      "word": "学生偶遇的萌兽竟是二级保护动物",
+      "onboard_time": 1716331094,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 84473,
       "num": 406151,
       "word": "AAB是四川美食的接头暗号",
@@ -8195,12 +8211,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 71698,
+      "num": 71698,
+      "word": "小猫拒绝了同伴的握手申请",
+      "onboard_time": 1716325812,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71649,
       "num": 71649,
       "word": "张若昀看到霸霸嘴角比AK还难压",
       "onboard_time": 1716070210,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70673,
+      "num": 70673,
+      "word": "郭有才上月刚注销名下传媒公司",
+      "onboard_time": 1716332775,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 70592,
@@ -8419,20 +8451,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56908,
+      "num": 85930,
+      "word": "这5类人要少吃榴莲",
+      "onboard_time": 1716311415,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 56535,
       "num": 139287,
       "word": "王启年的回旋镖镖镖扎心",
       "onboard_time": 1716225074,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56213,
-      "num": 56213,
-      "word": "小猫拒绝了同伴的握手申请",
-      "onboard_time": 1716325812,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 55338,
@@ -8523,6 +8555,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 47568,
+      "num": 67266,
+      "word": "徐梦洁用两年时间重回舞台",
+      "onboard_time": 1716325091,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 47124,
       "num": 389477,
       "word": "5000年前老祖宗就拿捏了粘土特效",
@@ -8531,28 +8571,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46798,
-      "num": 46798,
-      "word": "徐梦洁用两年时间重回舞台",
-      "onboard_time": 1716325091,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 46534,
-      "num": 85930,
-      "word": "这5类人要少吃榴莲",
-      "onboard_time": 1716311415,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 45301,
       "num": 45301,
       "word": "参加了一场只有一个人的婚礼",
       "onboard_time": 1716074714,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44837,
+      "num": 67216,
+      "word": "刘亦菲高级珠宝",
+      "onboard_time": 1716316451,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 44021,
@@ -8601,6 +8633,14 @@
       "onboard_time": 1716160035,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 41509,
+      "num": 67162,
+      "word": "奶奶把小狗举起对着监控",
+      "onboard_time": 1716317711,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 41128,
@@ -8665,6 +8705,14 @@
       "onboard_time": 1716184819,
       "rank": 14,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 37515,
+      "num": 67126,
+      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
+      "onboard_time": 1716322570,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 36912,
@@ -8811,14 +8859,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 29911,
-      "num": 46721,
-      "word": "刘亦菲高级珠宝",
-      "onboard_time": 1716316451,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29665,
       "num": 282263,
       "word": "这是更适合中国宝宝体质的女团",
@@ -8833,14 +8873,6 @@
       "onboard_time": 1716272659,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27495,
-      "num": 46742,
-      "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
-      "onboard_time": 1716322570,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 27323,
@@ -8929,14 +8961,6 @@
       "onboard_time": 1716052094,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22276,
-      "num": 46693,
-      "word": "奶奶把小狗举起对着监控",
-      "onboard_time": 1716317711,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 19555,
@@ -9044,7 +9068,7 @@
     },
     {
       "raw_hot": 12588,
-      "num": 109145,
+      "num": 140159,
       "word": "单亲爸爸思念妻子泪如雨下",
       "onboard_time": 1716312313,
       "rank": 9,
