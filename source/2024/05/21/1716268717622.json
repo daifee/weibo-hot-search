@@ -1,0 +1,410 @@
+{
+  "runTime": 1716268717622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1909754,
+        "num": 1909754,
+        "word": "你昨晚睡了几小时",
+        "onboard_time": 1716257900,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 756411,
+        "num": 756411,
+        "word": "伊朗总统坠机细节公开",
+        "onboard_time": 1716263420,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 93186,
+        "num": 482487,
+        "word": "中国茶文化知识点",
+        "onboard_time": 1716261138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461719,
+        "num": 461719,
+        "word": "三本女生上岸211和偶像成校友",
+        "onboard_time": 1716259399,
+        "rank": 3,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 439070,
+        "num": 439070,
+        "word": "警方回应上官正义曝小红书有人领养孩子",
+        "onboard_time": 1716266661,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435801,
+        "num": 435801,
+        "word": "微信转账流行备注自愿赠与了吗",
+        "onboard_time": 1716253941,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 428143,
+        "num": 428143,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1716264680,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 357985,
+        "num": 357985,
+        "word": "黑龙江兴安煤矿安全事故5人遇难",
+        "onboard_time": 1716266362,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306988,
+        "num": 306988,
+        "word": "没人扶那英还在拍",
+        "onboard_time": 1716265821,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204945,
+        "num": 293501,
+        "word": "多地提醒慎入网约车行业",
+        "onboard_time": 1716260420,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19164,
+        "num": 291058,
+        "word": "龚俊想在戛纳开串串店",
+        "onboard_time": 1716265521,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1390932,
+        "num": 290763,
+        "word": "必须割掉危害孩子这颗全民网红毒瘤",
+        "onboard_time": 1716257121,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288712,
+        "num": 288712,
+        "word": "大麦回应马龙退赛粉丝退票遭拒",
+        "onboard_time": 1716262399,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1333716,
+        "num": 285956,
+        "word": "向佐 那英",
+        "onboard_time": 1716263059,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277559,
+        "num": 277559,
+        "word": "郭有才为啥火",
+        "onboard_time": 1716258081,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 268642,
+        "num": 268642,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1716253819,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231055,
+        "num": 231055,
+        "word": "一个普通女孩的考公七年之路",
+        "onboard_time": 1716258199,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222791,
+        "num": 222791,
+        "word": "蒋敦豪 赫马佛洛狄忒斯",
+        "onboard_time": 1716263238,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 571832,
+        "num": 222714,
+        "word": "那英 摔倒",
+        "onboard_time": 1716250400,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222482,
+        "num": 222482,
+        "word": "原神未行之路",
+        "onboard_time": 1716266959,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253746,
+        "num": 214274,
+        "word": "上岸不到一年想回大厂了",
+        "onboard_time": 1716267021,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205853,
+        "num": 205853,
+        "word": "破坏黄家驹墓碑者今日提审",
+        "onboard_time": 1716267500,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202470,
+        "num": 202470,
+        "word": "沈小婷沈阳",
+        "onboard_time": 1716268161,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197966,
+        "num": 197966,
+        "word": "外婆说我给孩子买的衣服很怪",
+        "onboard_time": 1716265821,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197523,
+        "num": 197523,
+        "word": "谁敢相信这是魏大勋啊",
+        "onboard_time": 1716258020,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181971,
+        "num": 181971,
+        "word": "LPL夏季赛分组抽签",
+        "onboard_time": 1716266959,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165461,
+        "num": 165461,
+        "word": "跑男总导演等孟子义航班一整晚",
+        "onboard_time": 1716248297,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19230,
+        "num": 164113,
+        "word": "成年人现在流行重养自己",
+        "onboard_time": 1716264260,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163877,
+        "num": 163877,
+        "word": "外包父母月入四万",
+        "onboard_time": 1716254481,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160689,
+        "num": 160689,
+        "word": "刘亦菲安妮海瑟薇同框热聊",
+        "onboard_time": 1716251721,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158447,
+        "num": 158447,
+        "word": "DNF手游微信区服务器已修复",
+        "onboard_time": 1716268161,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157537,
+        "num": 157537,
+        "word": "肖战饭制互动游戏预告首发",
+        "onboard_time": 1716265880,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14986,
+        "num": 157435,
+        "word": "牙白对颜值影响有多大",
+        "onboard_time": 1716268100,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 157390,
+        "num": 157390,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153554,
+        "num": 153554,
+        "word": "庆帝灰飞烟灭让人毛骨悚然",
+        "onboard_time": 1716246855,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151487,
+        "num": 151487,
+        "word": "张曼玉当年在戛纳",
+        "onboard_time": 1716265222,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149431,
+        "num": 149431,
+        "word": "余承东称传统车企流量根本干不过小米",
+        "onboard_time": 1716265941,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149337,
+        "num": 149337,
+        "word": "9块9咖啡是年轻人冲淡班味的续命水",
+        "onboard_time": 1716266300,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 161540,
+        "num": 149130,
+        "word": "阿里通义大模型降价97%",
+        "onboard_time": 1716266901,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148523,
+        "num": 148523,
+        "word": "每天上班我只做七件事",
+        "onboard_time": 1716265759,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134950,
+        "num": 134950,
+        "word": "舒淇顶级高定",
+        "onboard_time": 1716249498,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132726,
+        "num": 132726,
+        "word": "现在的黄金都这么超前了吗",
+        "onboard_time": 1716267260,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128590,
+        "num": 128590,
+        "word": "湖南郴州一公园发生刑案致3死2伤",
+        "onboard_time": 1716268521,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119743,
+        "num": 119743,
+        "word": "年轻人撕裂般胸痛千万别忍",
+        "onboard_time": 1716252621,
+        "rank": 43,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 115407,
+        "num": 115407,
+        "word": "上着班突然通知被裁了",
+        "onboard_time": 1716253339,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111341,
+        "num": 111341,
+        "word": "DNF手游补偿公告",
+        "onboard_time": 1716257418,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110434,
+        "num": 110434,
+        "word": "别人过520我去过521",
+        "onboard_time": 1716268460,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109283,
+        "num": 109283,
+        "word": "年轻人为什么越来越爱爬山",
+        "onboard_time": 1716257121,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108579,
+        "num": 108579,
+        "word": "BBC曝光李胜利郑俊英崔钟训视频",
+        "onboard_time": 1716246616,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106514,
+        "num": 106514,
+        "word": "多家出版社抵制618图书大促",
+        "onboard_time": 1716268639,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续打造市场化法治化国际化营商环境#"
+    }
+  }
+}

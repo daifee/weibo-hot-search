@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716266108405,
+  "endTime": 1716268717622,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -299,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1333716,
+      "num": 1317394,
+      "word": "向佐 那英",
+      "onboard_time": 1716263059,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1320135,
       "num": 1320135,
       "word": "黄贯中",
       "onboard_time": 1716111137,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1317394,
-      "num": 1317394,
-      "word": "向佐 那英",
-      "onboard_time": 1716263059,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1259191,
@@ -1555,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439070,
+      "num": 439070,
+      "word": "警方回应上官正义曝小红书有人领养孩子",
+      "onboard_time": 1716266661,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438111,
       "num": 438111,
       "word": "赴山海",
@@ -1969,6 +1977,14 @@
       "onboard_time": 1716217341,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357985,
+      "num": 357985,
+      "word": "黑龙江兴安煤矿安全事故5人遇难",
+      "onboard_time": 1716266362,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352359,
@@ -2387,6 +2403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306988,
+      "num": 306988,
+      "word": "没人扶那英还在拍",
+      "onboard_time": 1716265821,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305279,
       "num": 305279,
       "word": "郭有才",
@@ -2497,14 +2521,6 @@
       "onboard_time": 1716174559,
       "rank": 40,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 285711,
-      "num": 285711,
-      "word": "没人扶那英还在拍",
-      "onboard_time": 1716265821,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 284874,
@@ -2835,6 +2851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253746,
+      "num": 214274,
+      "word": "上岸不到一年想回大厂了",
+      "onboard_time": 1716267021,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 253717,
       "num": 253717,
       "word": "小杨哥解说",
@@ -3131,6 +3155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222482,
+      "num": 222482,
+      "word": "原神未行之路",
+      "onboard_time": 1716266959,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222374,
       "num": 222374,
       "word": "伊媒称伊朗总统直升机撞山坠毁",
@@ -3379,6 +3411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205853,
+      "num": 205853,
+      "word": "破坏黄家驹墓碑者今日提审",
+      "onboard_time": 1716267500,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205828,
       "num": 205828,
       "word": "李克勤 合久必婚",
@@ -3497,6 +3537,14 @@
       "onboard_time": 1716120018,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202470,
+      "num": 202470,
+      "word": "沈小婷沈阳",
+      "onboard_time": 1716268161,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 201909,
@@ -3667,20 +3715,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197966,
+      "num": 197966,
+      "word": "外婆说我给孩子买的衣服很怪",
+      "onboard_time": 1716265821,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197523,
       "num": 197523,
       "word": "夏之光直播",
       "onboard_time": 1716212120,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197345,
-      "num": 163820,
-      "word": "外婆说我给孩子买的衣服很怪",
-      "onboard_time": 1716265821,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 197287,
@@ -3993,6 +4041,14 @@
       "onboard_time": 1716194962,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181971,
+      "num": 181971,
+      "word": "LPL夏季赛分组抽签",
+      "onboard_time": 1716266959,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 181327,
@@ -4371,6 +4427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161540,
+      "num": 149130,
+      "word": "阿里通义大模型降价97%",
+      "onboard_time": 1716266901,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 160841,
       "num": 144235,
       "word": "砸坏黄家驹墓碑2男子已被逮捕",
@@ -4400,6 +4464,14 @@
       "word": "第五人格联名",
       "onboard_time": 1716213020,
       "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 158447,
+      "num": 158447,
+      "word": "DNF手游微信区服务器已修复",
+      "onboard_time": 1716268161,
+      "rank": 30,
       "category": "游戏"
     },
     {
@@ -4433,6 +4505,14 @@
       "onboard_time": 1716098116,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157537,
+      "num": 157537,
+      "word": "肖战饭制互动游戏预告首发",
+      "onboard_time": 1716265880,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 157445,
@@ -4611,6 +4691,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149431,
+      "num": 149431,
+      "word": "余承东称传统车企流量根本干不过小米",
+      "onboard_time": 1716265941,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 149337,
+      "num": 149337,
+      "word": "9块9咖啡是年轻人冲淡班味的续命水",
+      "onboard_time": 1716266300,
+      "rank": 37,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 148827,
       "num": 148827,
       "word": "当整个宿舍明天要出去玩时",
@@ -4624,6 +4720,14 @@
       "word": "人生小满胜万全",
       "onboard_time": 1716161056,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148523,
+      "num": 148523,
+      "word": "每天上班我只做七件事",
+      "onboard_time": 1716265759,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -4657,14 +4761,6 @@
       "onboard_time": 1716088337,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147125,
-      "num": 147125,
-      "word": "每天上班我只做七件事",
-      "onboard_time": 1716265759,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 147069,
@@ -4931,14 +5027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140549,
-      "num": 140549,
-      "word": "肖战饭制互动游戏预告首发",
-      "onboard_time": 1716265880,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140541,
       "num": 1234652,
       "word": "收到暴雨预警后应该怎么做",
@@ -5131,6 +5219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132726,
+      "num": 132726,
+      "word": "现在的黄金都这么超前了吗",
+      "onboard_time": 1716267260,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132436,
       "num": 141486,
       "word": "薛之谦惊讶新疆作息时间",
@@ -5225,6 +5321,14 @@
       "onboard_time": 1716188240,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128590,
+      "num": 128590,
+      "word": "湖南郴州一公园发生刑案致3死2伤",
+      "onboard_time": 1716268521,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128588,
@@ -5497,14 +5601,6 @@
       "onboard_time": 1716101178,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 120267,
-      "num": 120267,
-      "word": "余承东称传统车企流量根本干不过小米",
-      "onboard_time": 1716265941,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 120246,
@@ -5843,6 +5939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110434,
+      "num": 110434,
+      "word": "别人过520我去过521",
+      "onboard_time": 1716268460,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110112,
       "num": 110112,
       "word": "王星越中插代表作第一人",
@@ -5937,6 +6041,14 @@
       "onboard_time": 1716094517,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106514,
+      "num": 106514,
+      "word": "多家出版社抵制618图书大促",
+      "onboard_time": 1716268639,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 106339,
@@ -6876,7 +6988,7 @@
     },
     {
       "raw_hot": 36124,
-      "num": 147229,
+      "num": 291058,
       "word": "龚俊想在戛纳开串串店",
       "onboard_time": 1716265521,
       "rank": 35,
@@ -7136,6 +7248,14 @@
       "word": "李嘉格 金棕豹系妆",
       "onboard_time": 1716148631,
       "rank": 44,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 14986,
+      "num": 157435,
+      "word": "牙白对颜值影响有多大",
+      "onboard_time": 1716268100,
+      "rank": 32,
       "category": "美妆"
     },
     {
