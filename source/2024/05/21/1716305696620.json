@@ -1,0 +1,410 @@
+{
+  "runTime": 1716305696620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1538974,
+        "num": 1538974,
+        "word": "蔡徐坤范思哲全球品牌代言人",
+        "onboard_time": 1716291198,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1322157,
+        "num": 1322157,
+        "word": "夫妻俩因为同一个习惯双双确诊结直肠癌",
+        "onboard_time": 1716303200,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63037,
+        "num": 1066537,
+        "word": "港珠澳大桥今年出入境客流破1000万人次",
+        "onboard_time": 1716298040,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833549,
+        "num": 833549,
+        "word": "李佳琦回应参加披哥",
+        "onboard_time": 1716297620,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648547,
+        "num": 648547,
+        "word": "中方要求以色列立即停止军事进攻拉法",
+        "onboard_time": 1716297679,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 500110,
+        "num": 500110,
+        "word": "新航客机死亡上升至2人",
+        "onboard_time": 1716290718,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709317,
+        "num": 487896,
+        "word": "二皇子人设",
+        "onboard_time": 1716300801,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513896,
+        "num": 485879,
+        "word": "Jennie曾拒绝李胜利的邀请",
+        "onboard_time": 1716294018,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469994,
+        "num": 469994,
+        "word": "中国终将实现完全统一",
+        "onboard_time": 1716294318,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56974,
+        "num": 395664,
+        "word": "嫌室友9元买1个西瓜太贵背来3麻袋",
+        "onboard_time": 1716294378,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1887652,
+        "num": 390578,
+        "word": "森林北回应",
+        "onboard_time": 1716302781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381928,
+        "num": 381928,
+        "word": "赵丽颖T恤印的是狗头",
+        "onboard_time": 1716301760,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378505,
+        "num": 378505,
+        "word": "蕾哈娜直播带货",
+        "onboard_time": 1716302060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375935,
+        "num": 375935,
+        "word": "王婆说媒相亲已婚男已离婚",
+        "onboard_time": 1716291318,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373506,
+        "num": 373506,
+        "word": "为什么女生的身上莫名出现淤青",
+        "onboard_time": 1716288018,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 323131,
+        "num": 323131,
+        "word": "又幸福了纯爱大皇子",
+        "onboard_time": 1716294857,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270585,
+        "num": 270585,
+        "word": "武功山失温遇难女孩同伴曾打电话求救",
+        "onboard_time": 1716294318,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232569,
+        "num": 232569,
+        "word": "4小孩河边洗澡两人溺亡同行人获刑11年",
+        "onboard_time": 1716294438,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217459,
+        "num": 217459,
+        "word": "叙利亚总统夫人被诊断患白血病",
+        "onboard_time": 1716286640,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 205845,
+        "num": 205845,
+        "word": "海南海边发现骨架2米不明生物尸体",
+        "onboard_time": 1716275119,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322714,
+        "num": 205824,
+        "word": "大麦回应出示死亡证明仍拒变更观演人",
+        "onboard_time": 1716284779,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 677121,
+        "num": 203224,
+        "word": "公职人员出轨不雅照被张贴车上",
+        "onboard_time": 1716274998,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319284,
+        "num": 198486,
+        "word": "刘亦菲回复舒淇",
+        "onboard_time": 1716295999,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286486,
+        "num": 198003,
+        "word": "付辛博演技",
+        "onboard_time": 1716301760,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284112,
+        "num": 194548,
+        "word": "迪丽热巴祝赵昭仪生日大快乐",
+        "onboard_time": 1716303439,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281866,
+        "num": 191602,
+        "word": "哥哥想替过世妹妹见周杰伦遭大麦拒绝",
+        "onboard_time": 1716279439,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265145,
+        "num": 189077,
+        "word": "赵丽颖去了与凤行庆功宴",
+        "onboard_time": 1716297380,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244346,
+        "num": 186730,
+        "word": "张颂文说小白不好管了",
+        "onboard_time": 1716305120,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217079,
+        "num": 183033,
+        "word": "决战考研",
+        "onboard_time": 1716304161,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182854,
+        "num": 182854,
+        "word": "请问这是男生女生拿命来吗",
+        "onboard_time": 1716296660,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210002,
+        "num": 182611,
+        "word": "起猛了以为李峋回来了",
+        "onboard_time": 1716304040,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200948,
+        "num": 182548,
+        "word": "张艺兴晒了与林允儿合照",
+        "onboard_time": 1716285799,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181985,
+        "num": 181985,
+        "word": "RNG 别虐泉",
+        "onboard_time": 1716297499,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179348,
+        "num": 179348,
+        "word": "年轻人为什么喜欢养寄居蟹了",
+        "onboard_time": 1716305601,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166045,
+        "num": 166045,
+        "word": "舒淇穿洞洞鞋",
+        "onboard_time": 1716298940,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164069,
+        "num": 164069,
+        "word": "外交部回应布林肯祝贺赖清德就职",
+        "onboard_time": 1716292037,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160471,
+        "num": 160471,
+        "word": "背着善宰跑14集",
+        "onboard_time": 1716299600,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156884,
+        "num": 156884,
+        "word": "第一次意识到1万块这么有质感",
+        "onboard_time": 1716269360,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154828,
+        "num": 154828,
+        "word": "指甲的半月痕多少代表着什么",
+        "onboard_time": 1716299359,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151414,
+        "num": 151414,
+        "word": "张若昀为什么不能改名叫张姐",
+        "onboard_time": 1716301700,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145817,
+        "num": 145817,
+        "word": "李胜利百万欠款的来龙去脉",
+        "onboard_time": 1716285979,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136537,
+        "num": 145803,
+        "word": "林婉儿温柔风暴修罗场",
+        "onboard_time": 1716303019,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134473,
+        "num": 145729,
+        "word": "蕾哈娜 潍坊的爱",
+        "onboard_time": 1716299120,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133347,
+        "num": 145727,
+        "word": "四川自贡一公交车上发生伤人事件",
+        "onboard_time": 1716300921,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 124212,
+        "num": 145672,
+        "word": "蔡徐坤同款售罄",
+        "onboard_time": 1716301340,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119755,
+        "num": 145596,
+        "word": "汪峰承认恋情",
+        "onboard_time": 1716191360,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117147,
+        "num": 145565,
+        "word": "留学生半个小时做三道菜",
+        "onboard_time": 1716298699,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106630,
+        "num": 145538,
+        "word": "台湾地铁发生持刀伤人事件",
+        "onboard_time": 1716300621,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 101788,
+        "num": 145492,
+        "word": "WE大名单",
+        "onboard_time": 1716302721,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99351,
+        "num": 145436,
+        "word": "克罗斯宣布退役",
+        "onboard_time": 1716289699,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平眼中的金叶子#"
+    }
+  }
+}

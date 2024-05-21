@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716304807423,
+  "endTime": 1716305696620,
   "band_list": [
     {
       "raw_hot": 3798478,
@@ -137,6 +137,14 @@
       "onboard_time": 1716263059,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1322157,
+      "num": 1322157,
+      "word": "夫妻俩因为同一个习惯双双确诊结直肠癌",
+      "onboard_time": 1716303200,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1259191,
@@ -297,14 +305,6 @@
       "onboard_time": 1716259399,
       "rank": 16,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 830900,
-      "num": 830900,
-      "word": "夫妻俩因为同一个习惯双双确诊结直肠癌",
-      "onboard_time": 1716303200,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 803629,
@@ -771,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378505,
+      "num": 378505,
+      "word": "蕾哈娜直播带货",
+      "onboard_time": 1716302060,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377621,
       "num": 377621,
       "word": "美歌手持枪拍视频意外自杀",
@@ -841,14 +849,6 @@
       "onboard_time": 1716215300,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 339849,
-      "num": 247073,
-      "word": "蕾哈娜直播带货",
-      "onboard_time": 1716302060,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 333426,
@@ -1187,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244346,
+      "num": 186730,
+      "word": "张颂文说小白不好管了",
+      "onboard_time": 1716305120,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241471,
       "num": 241471,
       "word": "520 垃圾桶",
@@ -1331,6 +1339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217079,
+      "num": 183033,
+      "word": "决战考研",
+      "onboard_time": 1716304161,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 216585,
       "num": 216585,
       "word": "台湾地铁发生持刀伤人事件",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1716294979,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 210002,
+      "num": 184556,
+      "word": "起猛了以为李峋回来了",
+      "onboard_time": 1716304040,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 208981,
@@ -1627,14 +1651,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184556,
-      "num": 184556,
-      "word": "起猛了以为李峋回来了",
-      "onboard_time": 1716304040,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183970,
       "num": 183970,
       "word": "泸定地震",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1716266959,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179348,
+      "num": 179348,
+      "word": "年轻人为什么喜欢养寄居蟹了",
+      "onboard_time": 1716305601,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179002,
@@ -1769,14 +1793,6 @@
       "onboard_time": 1716250760,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172233,
-      "num": 172233,
-      "word": "决战考研",
-      "onboard_time": 1716304161,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 169099,
@@ -2236,7 +2252,7 @@
     },
     {
       "raw_hot": 132852,
-      "num": 1041868,
+      "num": 1066537,
       "word": "港珠澳大桥今年出入境客流破1000万人次",
       "onboard_time": 1716298040,
       "rank": 2,
