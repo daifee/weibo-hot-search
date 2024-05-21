@@ -1,6 +1,6 @@
 {
   "startTime": 1716222236030,
-  "endTime": 1716297826688,
+  "endTime": 1716298453780,
   "band_list": [
     {
       "raw_hot": 3798478,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1021270,
-      "num": 768697,
+      "num": 815612,
       "word": "刘亦菲回复舒淇",
       "onboard_time": 1716295999,
       "rank": 6,
@@ -233,6 +233,14 @@
       "onboard_time": 1716278299,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 856787,
+      "num": 856787,
+      "word": "武功山失温遇难女孩同伴曾打电话求救",
+      "onboard_time": 1716294318,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 853409,
@@ -273,14 +281,6 @@
       "onboard_time": 1716253941,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 795198,
-      "num": 795198,
-      "word": "武功山失温遇难女孩同伴曾打电话求救",
-      "onboard_time": 1716294318,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 793787,
@@ -371,11 +371,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 638062,
+      "num": 638062,
+      "word": "4小孩河边洗澡两人溺亡同行人获刑11年",
+      "onboard_time": 1716294438,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636094,
       "num": 508451,
       "word": "庆帝灰飞烟灭让人毛骨悚然",
       "onboard_time": 1716246855,
       "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 619283,
+      "num": 619283,
+      "word": "赵丽颖去了与凤行庆功宴",
+      "onboard_time": 1716297380,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -385,6 +401,14 @@
       "onboard_time": 1716279439,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 606338,
+      "num": 606338,
+      "word": "李佳琦回应参加披哥",
+      "onboard_time": 1716297620,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 603740,
@@ -401,14 +425,6 @@
       "onboard_time": 1716289699,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 594751,
-      "num": 594751,
-      "word": "4小孩河边洗澡两人溺亡同行人获刑11年",
-      "onboard_time": 1716294438,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592489,
@@ -507,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483388,
+      "num": 483388,
+      "word": "又幸福了纯爱大皇子",
+      "onboard_time": 1716294857,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 478735,
       "num": 259321,
       "word": "那英高叶 不良少女版",
@@ -537,14 +561,6 @@
       "onboard_time": 1716258020,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 468339,
-      "num": 468339,
-      "word": "又幸福了纯爱大皇子",
-      "onboard_time": 1716294857,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 462949,
@@ -739,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351270,
+      "num": 242754,
+      "word": "赵丽颖工作室剪的西游记风与凤行",
+      "onboard_time": 1716297260,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347256,
       "num": 347256,
       "word": "向佐把那英扑倒了",
@@ -753,14 +777,6 @@
       "onboard_time": 1716215300,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 343983,
-      "num": 279329,
-      "word": "赵丽颖去了与凤行庆功宴",
-      "onboard_time": 1716297380,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 333426,
@@ -835,20 +851,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311501,
+      "num": 278184,
+      "word": "李耕耘对蒋敦豪一口一个哥哥",
+      "onboard_time": 1716295759,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308001,
       "num": 308001,
       "word": "上海套内51平米的家",
       "onboard_time": 1716250339,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 307871,
-      "num": 278973,
-      "word": "李佳琦回应参加披哥",
-      "onboard_time": 1716297620,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 307834,
@@ -873,6 +889,14 @@
       "onboard_time": 1716265821,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301043,
+      "num": 186935,
+      "word": "中方要求以色列立即停止军事进攻拉法",
+      "onboard_time": 1716297679,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 298933,
@@ -947,14 +971,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 278184,
-      "num": 278184,
-      "word": "李耕耘对蒋敦豪一口一个哥哥",
-      "onboard_time": 1716295759,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277650,
       "num": 277650,
       "word": "伊能静文案",
@@ -987,12 +1003,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265084,
-      "num": 242754,
-      "word": "赵丽颖工作室剪的西游记风与凤行",
-      "onboard_time": 1716297260,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 265570,
+      "num": 221706,
+      "word": "朱丹赛道被颖儿闯进去了",
+      "onboard_time": 1716296958,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 263065,
@@ -1060,7 +1076,7 @@
     },
     {
       "raw_hot": 252313,
-      "num": 483301,
+      "num": 509653,
       "word": "嫌室友9元买1个西瓜太贵背来3麻袋",
       "onboard_time": 1716294378,
       "rank": 9,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1716259219,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235325,
+      "num": 192779,
+      "word": "RNG 别虐泉",
+      "onboard_time": 1716297499,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 233098,
@@ -1211,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219257,
+      "num": 202231,
+      "word": "请问这是男生女生拿命来吗",
+      "onboard_time": 1716296660,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211344,
       "num": 211344,
       "word": "同事为了不回群消息换了老人机",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1716284298,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202231,
-      "num": 202231,
-      "word": "请问这是男生女生拿命来吗",
-      "onboard_time": 1716296660,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 201364,
@@ -1387,20 +1411,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 195268,
-      "num": 195268,
-      "word": "朱丹赛道被颖儿闯进去了",
-      "onboard_time": 1716296958,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 195227,
       "num": 195227,
       "word": "我在横店打篮球",
       "onboard_time": 1716278780,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194529,
+      "num": 174621,
+      "word": "女孩遭男子持棍挟持众人合力解救",
+      "onboard_time": 1716298218,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194456,
@@ -1449,14 +1473,6 @@
       "onboard_time": 1716273080,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 192779,
-      "num": 192779,
-      "word": "RNG 别虐泉",
-      "onboard_time": 1716297499,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 191957,
@@ -1691,6 +1707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 159906,
+      "num": 159906,
+      "word": "背着善宰跑直播",
+      "onboard_time": 1716297439,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158910,
       "num": 158910,
       "word": "G社拍的舒淇刘亦菲",
@@ -1747,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154565,
+      "num": 154565,
+      "word": "花儿与少年",
+      "onboard_time": 1716296118,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154508,
       "num": 154508,
       "word": "给李诗恩封神",
@@ -1779,14 +1811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152937,
-      "num": 152937,
-      "word": "中方要求以色列立即停止军事进攻拉法",
-      "onboard_time": 1716297679,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 152145,
       "num": 196393,
       "word": "88VIP这波大额券诚意拉满",
@@ -1803,20 +1827,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 150135,
-      "num": 150135,
-      "word": "花儿与少年",
-      "onboard_time": 1716296118,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150093,
       "num": 150093,
       "word": "小满胜万全",
       "onboard_time": 1716214999,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149737,
+      "num": 149737,
+      "word": "小狗同意你摸摸头的意思",
+      "onboard_time": 1716295038,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 149431,
@@ -1889,14 +1913,6 @@
       "onboard_time": 1716282198,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 145757,
-      "num": 145757,
-      "word": "背着善宰跑直播",
-      "onboard_time": 1716297439,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 145314,
@@ -2203,20 +2219,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 124012,
-      "num": 124012,
-      "word": "小狗同意你摸摸头的意思",
-      "onboard_time": 1716295038,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123466,
       "num": 123466,
       "word": "庆余年2五子齐海报",
       "onboard_time": 1716272719,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122853,
+      "num": 122853,
+      "word": "葡萄牙队公布欧洲杯大名单",
+      "onboard_time": 1716297199,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 122673,
@@ -2321,6 +2337,14 @@
       "onboard_time": 1716281360,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 113500,
+      "num": 113500,
+      "word": "庆余年2",
+      "onboard_time": 1716298338,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 111963,
@@ -2611,6 +2635,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 71742,
+      "num": 581799,
+      "word": "我国GDP千亿县达57个",
+      "onboard_time": 1716296420,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 66896,
       "num": 138417,
       "word": "赴山海",
@@ -2689,14 +2721,6 @@
       "onboard_time": 1716212359,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57103,
-      "num": 581799,
-      "word": "我国GDP千亿县达57个",
-      "onboard_time": 1716296420,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 56535,
@@ -2811,6 +2835,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 35676,
+      "num": 1041868,
+      "word": "港珠澳大桥今年出入境客流破1000万人次",
+      "onboard_time": 1716298040,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34480,
+      "num": 1152538,
+      "word": "我国4颗卫星成功发射",
+      "onboard_time": 1716297499,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34039,
       "num": 90474,
       "word": "光遇",
@@ -2875,14 +2915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21985,
-      "num": 1152538,
-      "word": "我国4颗卫星成功发射",
-      "onboard_time": 1716297499,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19493,
       "num": 31659,
       "word": "你这小猫怎么獭里獭气的",
@@ -2907,7 +2939,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 16192,
+      "raw_hot": 16627,
       "num": 182046,
       "word": "鸣潮也有自己的商务殷语",
       "onboard_time": 1716294857,

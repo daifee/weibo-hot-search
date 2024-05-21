@@ -1,0 +1,410 @@
+{
+  "runTime": 1716298453780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2169531,
+        "num": 2169531,
+        "word": "蔡徐坤范思哲全球品牌代言人",
+        "onboard_time": 1716291198,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1147456,
+        "num": 1147456,
+        "word": "王婆说媒相亲已婚男已离婚",
+        "onboard_time": 1716291318,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35676,
+        "num": 1041868,
+        "word": "港珠澳大桥今年出入境客流破1000万人次",
+        "onboard_time": 1716298040,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008960,
+        "num": 1008960,
+        "word": "Jennie曾拒绝李胜利的邀请",
+        "onboard_time": 1716294018,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 973767,
+        "num": 973767,
+        "word": "中国终将实现完全统一",
+        "onboard_time": 1716294318,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 856787,
+        "num": 856787,
+        "word": "武功山失温遇难女孩同伴曾打电话求救",
+        "onboard_time": 1716294318,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982893,
+        "num": 815612,
+        "word": "刘亦菲回复舒淇",
+        "onboard_time": 1716295999,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 721786,
+        "num": 721786,
+        "word": "新航客机死亡上升至2人",
+        "onboard_time": 1716290718,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638062,
+        "num": 638062,
+        "word": "4小孩河边洗澡两人溺亡同行人获刑11年",
+        "onboard_time": 1716294438,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619283,
+        "num": 619283,
+        "word": "赵丽颖去了与凤行庆功宴",
+        "onboard_time": 1716297380,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606338,
+        "num": 606338,
+        "word": "李佳琦回应参加披哥",
+        "onboard_time": 1716297620,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540036,
+        "num": 540036,
+        "word": "大麦回应出示死亡证明仍拒变更观演人",
+        "onboard_time": 1716284779,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226533,
+        "num": 509653,
+        "word": "嫌室友9元买1个西瓜太贵背来3麻袋",
+        "onboard_time": 1716294378,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496439,
+        "num": 496439,
+        "word": "哥哥想替过世妹妹见周杰伦遭大麦拒绝",
+        "onboard_time": 1716279439,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 483388,
+        "num": 483388,
+        "word": "又幸福了纯爱大皇子",
+        "onboard_time": 1716294857,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451157,
+        "num": 451157,
+        "word": "叙利亚总统夫人被诊断患白血病",
+        "onboard_time": 1716286640,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 416035,
+        "num": 416035,
+        "word": "为什么女生的身上莫名出现淤青",
+        "onboard_time": 1716288018,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 345821,
+        "num": 345821,
+        "word": "LPL抽签结果",
+        "onboard_time": 1716295219,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 290401,
+        "num": 290401,
+        "word": "新加坡航空飞机紧急迫降1死30伤",
+        "onboard_time": 1716286999,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243041,
+        "num": 243041,
+        "word": "外交部回应布林肯祝贺赖清德就职",
+        "onboard_time": 1716292037,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 743821,
+        "num": 241440,
+        "word": "公职人员出轨不雅照被张贴车上",
+        "onboard_time": 1716274998,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379042,
+        "num": 236616,
+        "word": "赵昭仪 姐你上楼梯呢",
+        "onboard_time": 1716293779,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373634,
+        "num": 234958,
+        "word": "张艺兴晒了与林允儿合照",
+        "onboard_time": 1716285799,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351270,
+        "num": 228388,
+        "word": "赵丽颖工作室剪的西游记风与凤行",
+        "onboard_time": 1716297260,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311501,
+        "num": 227668,
+        "word": "李耕耘对蒋敦豪一口一个哥哥",
+        "onboard_time": 1716295759,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265570,
+        "num": 221706,
+        "word": "朱丹赛道被颖儿闯进去了",
+        "onboard_time": 1716296958,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220174,
+        "num": 220174,
+        "word": "刘亦菲换了腰封",
+        "onboard_time": 1716278299,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219021,
+        "num": 219021,
+        "word": "海南海边发现骨架2米不明生物尸体",
+        "onboard_time": 1716275119,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207206,
+        "num": 207206,
+        "word": "第一次意识到1万块这么有质感",
+        "onboard_time": 1716269360,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194392,
+        "num": 194392,
+        "word": "李胜利百万欠款的来龙去脉",
+        "onboard_time": 1716285979,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71742,
+        "num": 192144,
+        "word": "我国GDP千亿县达57个",
+        "onboard_time": 1716296420,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 301043,
+        "num": 186935,
+        "word": "中方要求以色列立即停止军事进攻拉法",
+        "onboard_time": 1716297679,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235325,
+        "num": 184257,
+        "word": "RNG 别虐泉",
+        "onboard_time": 1716297499,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219257,
+        "num": 178698,
+        "word": "请问这是男生女生拿命来吗",
+        "onboard_time": 1716296660,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194529,
+        "num": 174621,
+        "word": "女孩遭男子持棍挟持众人合力解救",
+        "onboard_time": 1716298218,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16627,
+        "num": 172223,
+        "word": "鸣潮也有自己的商务殷语",
+        "onboard_time": 1716294857,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168107,
+        "num": 168107,
+        "word": "克罗斯宣布退役",
+        "onboard_time": 1716289699,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160431,
+        "num": 160431,
+        "word": "钟楚曦侯雯元 戛纳",
+        "onboard_time": 1716291437,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159906,
+        "num": 159906,
+        "word": "背着善宰跑直播",
+        "onboard_time": 1716297439,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34480,
+        "num": 159338,
+        "word": "我国4颗卫星成功发射",
+        "onboard_time": 1716297499,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159214,
+        "num": 159214,
+        "word": "广州到上海仅需3小时",
+        "onboard_time": 1716289759,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154565,
+        "num": 154565,
+        "word": "花儿与少年",
+        "onboard_time": 1716296118,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149737,
+        "num": 149737,
+        "word": "小狗同意你摸摸头的意思",
+        "onboard_time": 1716295038,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148919,
+        "num": 148919,
+        "word": "原来火车上遇到大臭被是可以换的",
+        "onboard_time": 1716295698,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138073,
+        "num": 138073,
+        "word": "小红书崩了",
+        "onboard_time": 1716277399,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134604,
+        "num": 134604,
+        "word": "香缇莫唱周杰伦最长的电影",
+        "onboard_time": 1716294137,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126707,
+        "num": 126707,
+        "word": "杨紫真累了也会喊不想干了",
+        "onboard_time": 1716289939,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122853,
+        "num": 122853,
+        "word": "葡萄牙队公布欧洲杯大名单",
+        "onboard_time": 1716297199,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119696,
+        "num": 119696,
+        "word": "舒淇被挤到耸肩",
+        "onboard_time": 1716288138,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113500,
+        "num": 113500,
+        "word": "庆余年2",
+        "onboard_time": 1716298338,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#更加广泛地开展同各国的文化交流#"
+    }
+  }
+}
