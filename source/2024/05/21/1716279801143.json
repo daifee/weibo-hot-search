@@ -1,0 +1,410 @@
+{
+  "runTime": 1716279801143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1405997,
+        "num": 1405997,
+        "word": "小红书崩了",
+        "onboard_time": 1716277399,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1209320,
+        "num": 1209320,
+        "word": "海南海边发现骨架2米不明生物尸体",
+        "onboard_time": 1716275119,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30225,
+        "num": 968988,
+        "word": "长城长皆同往",
+        "onboard_time": 1716261020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832865,
+        "num": 832865,
+        "word": "第一次意识到1万块这么有质感",
+        "onboard_time": 1716269360,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 786006,
+        "num": 786006,
+        "word": "那英回应摔倒",
+        "onboard_time": 1716274998,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585690,
+        "num": 585690,
+        "word": "笨蛋美人 腹黑权臣",
+        "onboard_time": 1716275179,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496741,
+        "num": 496741,
+        "word": "警方回应女孩武功山徒步遇难",
+        "onboard_time": 1716274939,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390750,
+        "num": 390750,
+        "word": "你昨晚睡了几小时",
+        "onboard_time": 1716257900,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 400448,
+        "num": 387759,
+        "word": "具荷拉 振聋发聩的伟大发声",
+        "onboard_time": 1716269360,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121553,
+        "num": 384675,
+        "word": "电视开机率下降到不足三成",
+        "onboard_time": 1716278418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2422560,
+        "num": 378352,
+        "word": "公职人员出轨不雅照被张贴车上",
+        "onboard_time": 1716274998,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755400,
+        "num": 372876,
+        "word": "刘亦菲换了腰封",
+        "onboard_time": 1716278299,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 447710,
+        "num": 368551,
+        "word": "在美失踪26岁女留学生遗体被找到",
+        "onboard_time": 1716276679,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367836,
+        "num": 367836,
+        "word": "闵熙珍说NewJeans成员胖得跟猪一样",
+        "onboard_time": 1716275119,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361320,
+        "num": 361320,
+        "word": "哥哥想替过世妹妹见周杰伦遭大麦拒绝",
+        "onboard_time": 1716279439,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 319582,
+        "num": 319582,
+        "word": "一用户在近200份外卖中都吃到头发钢丝",
+        "onboard_time": 1716274819,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292751,
+        "num": 292751,
+        "word": "从美国进口血液制品致英国3万人染艾滋丙肝",
+        "onboard_time": 1716270979,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126227,
+        "num": 279480,
+        "word": "霸王茶姬的朋友圈太牛了",
+        "onboard_time": 1716276379,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 277650,
+        "num": 277650,
+        "word": "伊能静文案",
+        "onboard_time": 1716275358,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259426,
+        "num": 259426,
+        "word": "男子起诉前女友返还61.4万转账被驳回",
+        "onboard_time": 1716275299,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427462,
+        "num": 258018,
+        "word": "必须割掉危害孩子这颗全民网红毒瘤",
+        "onboard_time": 1716257121,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274446,
+        "num": 255868,
+        "word": "女朋友要把彩礼存死期",
+        "onboard_time": 1716269119,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234143,
+        "num": 234143,
+        "word": "普通人一定对钱要有概念",
+        "onboard_time": 1716276258,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220610,
+        "num": 220610,
+        "word": "美歌手持枪拍视频意外自杀",
+        "onboard_time": 1716272001,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217003,
+        "num": 217003,
+        "word": "秦岚为赵昭仪庆生",
+        "onboard_time": 1716276140,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211344,
+        "num": 211344,
+        "word": "同事为了不回群消息换了老人机",
+        "onboard_time": 1716276559,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181563,
+        "num": 181563,
+        "word": "我在横店打篮球",
+        "onboard_time": 1716278780,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175630,
+        "num": 175630,
+        "word": "薛凯琪床上蹦迪为汪苏泷打call",
+        "onboard_time": 1716279199,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173976,
+        "num": 173976,
+        "word": "朱一龙 悟空赶海",
+        "onboard_time": 1716277698,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170407,
+        "num": 170407,
+        "word": "大大方方的抠门并不丢人",
+        "onboard_time": 1716271818,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164378,
+        "num": 164378,
+        "word": "中学生体考神器潜在风险不容忽视",
+        "onboard_time": 1716273080,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157740,
+        "num": 157740,
+        "word": "宋亚轩刘耀文 你点的歌救了我",
+        "onboard_time": 1716276919,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153089,
+        "num": 153089,
+        "word": "突然理解了下班后打游戏的人",
+        "onboard_time": 1716276500,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148739,
+        "num": 148739,
+        "word": "宋亚轩521卡点1314",
+        "onboard_time": 1716279320,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144137,
+        "num": 144137,
+        "word": "林高远热血乒乓大片",
+        "onboard_time": 1716279020,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140744,
+        "num": 140744,
+        "word": "伊朗总统坠机细节公开",
+        "onboard_time": 1716263420,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139155,
+        "num": 139155,
+        "word": "刘亦菲许愿池的少女",
+        "onboard_time": 1716275479,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136847,
+        "num": 136847,
+        "word": "湖南郴州一公园发生刑案致3死2伤",
+        "onboard_time": 1716268521,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128343,
+        "num": 128343,
+        "word": "小红书回应平台可领养孩子",
+        "onboard_time": 1716279439,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127204,
+        "num": 127204,
+        "word": "小S回应赵正平叫小曲线",
+        "onboard_time": 1716273318,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127102,
+        "num": 127102,
+        "word": "有个叫范闲的人要做我靠山",
+        "onboard_time": 1716269360,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120365,
+        "num": 120365,
+        "word": "白敬亭神转场",
+        "onboard_time": 1716275839,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119361,
+        "num": 119361,
+        "word": "朱婷抵达澳门",
+        "onboard_time": 1716279680,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118599,
+        "num": 118599,
+        "word": "人际关系最难的一点",
+        "onboard_time": 1716278658,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117707,
+        "num": 117707,
+        "word": "沈月这是上恋综还是上课",
+        "onboard_time": 1716279680,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112389,
+        "num": 112389,
+        "word": "郭有才翻唱歌曲几乎都面临版权问题",
+        "onboard_time": 1716278058,
+        "rank": 45,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 99304,
+        "num": 99304,
+        "word": "微信转账流行备注自愿赠与了吗",
+        "onboard_time": 1716253941,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95370,
+        "num": 95370,
+        "word": "奔跑吧宋雨琦",
+        "onboard_time": 1716271460,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93758,
+        "num": 93758,
+        "word": "汪峰520官宣",
+        "onboard_time": 1716191300,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92445,
+        "num": 92445,
+        "word": "两只狗狗的高效工作",
+        "onboard_time": 1716279739,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向伊朗第一副总统穆赫贝尔致唁电#"
+    }
+  }
+}
