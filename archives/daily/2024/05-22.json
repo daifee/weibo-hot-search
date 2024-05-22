@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716362275775,
+  "endTime": 1716363308215,
   "band_list": [
     {
       "raw_hot": 1956860,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965415,
+      "num": 965415,
+      "word": "挪威承认巴勒斯坦国",
+      "onboard_time": 1716361038,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 951825,
       "num": 951825,
       "word": "毛晓彤付辛博大大方方营业",
@@ -219,6 +227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 708982,
+      "num": 708982,
+      "word": "半数银行人均薪酬下降",
+      "onboard_time": 1716359418,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 703072,
       "num": 703072,
       "word": "周杰伦三开",
@@ -233,14 +249,6 @@
       "onboard_time": 1716343457,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 630790,
-      "num": 630790,
-      "word": "挪威承认巴勒斯坦国",
-      "onboard_time": 1716361038,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 629139,
@@ -315,14 +323,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 575095,
-      "num": 575095,
-      "word": "半数银行人均薪酬下降",
-      "onboard_time": 1716359418,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 565824,
       "num": 259144,
       "word": "银行客户经理月薪从过万降至到手不足1000",
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 537058,
-      "num": 447463,
+      "num": 462146,
       "word": "孙俪 甄嬛传团综",
       "onboard_time": 1716360079,
       "rank": 10,
@@ -409,6 +409,14 @@
       "onboard_time": 1716297679,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 453278,
+      "num": 363393,
+      "word": "HPV疫苗价格大跳水",
+      "onboard_time": 1716362779,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 452184,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 401761,
-      "num": 280796,
+      "num": 359609,
       "word": "付辛博颖儿 好嗑",
       "onboard_time": 1716359597,
       "rank": 33,
@@ -577,6 +585,14 @@
       "onboard_time": 1716339078,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343482,
+      "num": 343482,
+      "word": "蒲熠星天崩开局",
+      "onboard_time": 1716362719,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 339955,
@@ -673,6 +689,14 @@
       "onboard_time": 1716301760,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282507,
+      "num": 226171,
+      "word": "郑俊英准备移民",
+      "onboard_time": 1716363079,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 281833,
@@ -931,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201508,
+      "num": 201508,
+      "word": "为什么喝速溶咖啡的人变少了",
+      "onboard_time": 1716361458,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "实探王红权星线下奢侈品店权星汇",
@@ -1051,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178075,
+      "num": 178075,
+      "word": "TFBOYS写给四叶草的一封家书",
+      "onboard_time": 1716362419,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177623,
       "num": 177623,
       "word": "刘宪华 超级双开门",
@@ -1099,20 +1139,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172640,
+      "num": 172640,
+      "word": "伊能静的文字",
+      "onboard_time": 1716361938,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172393,
       "num": 172393,
       "word": "熊猫家园直播",
       "onboard_time": 1716354080,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170040,
-      "num": 170040,
-      "word": "为什么喝速溶咖啡的人变少了",
-      "onboard_time": 1716361458,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 169802,
@@ -1299,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145487,
-      "num": 145487,
-      "word": "伊能静的文字",
-      "onboard_time": 1716361938,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 144050,
       "num": 144050,
       "word": "东北的独生子女地位有多高",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1716360797,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141777,
+      "num": 141777,
+      "word": "上海大师赛抢票",
+      "onboard_time": 1716359958,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 141710,
@@ -1507,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124298,
+      "num": 124298,
+      "word": "墨雨云间 浪姐再就业",
+      "onboard_time": 1716362538,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124008,
       "num": 143069,
       "word": "泰式薄荷脆皮鸡",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1716191360,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91217,
+      "num": 448138,
+      "word": "图书价格战是否还要继续打",
+      "onboard_time": 1716361340,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87515,
@@ -1771,20 +1827,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 48402,
+      "num": 370720,
+      "word": "如何高效远离垮脸",
+      "onboard_time": 1716361519,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 47568,
       "num": 67266,
       "word": "徐梦洁用两年时间重回舞台",
       "onboard_time": 1716325091,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 46329,
-      "num": 448138,
-      "word": "图书价格战是否还要继续打",
-      "onboard_time": 1716361340,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45948,
@@ -1849,14 +1905,6 @@
       "onboard_time": 1716307578,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34430,
-      "num": 159962,
-      "word": "如何高效远离垮脸",
-      "onboard_time": 1716361519,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 27308,
