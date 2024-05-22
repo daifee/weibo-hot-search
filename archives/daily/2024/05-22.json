@@ -1,7 +1,15 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716382217393,
+  "endTime": 1716384083750,
   "band_list": [
+    {
+      "raw_hot": 2279071,
+      "num": 2279071,
+      "word": "庆余年 杀疯了",
+      "onboard_time": 1716381318,
+      "rank": 3,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2119424,
       "num": 2119424,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1105009,
-      "num": 592475,
+      "num": 842556,
       "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
       "onboard_time": 1716372018,
       "rank": 20,
@@ -153,14 +161,6 @@
       "onboard_time": 1716353841,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1022851,
-      "num": 429841,
-      "word": "庆余年 杀疯了",
-      "onboard_time": 1716381318,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 989031,
@@ -363,8 +363,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 656345,
+      "num": 236272,
+      "word": "我让老公经历了断崖式离婚",
+      "onboard_time": 1716381678,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 643200,
-      "num": 374715,
+      "num": 387984,
       "word": "孙千身材",
       "onboard_time": 1716377297,
       "rank": 17,
@@ -377,6 +385,14 @@
       "onboard_time": 1716340580,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 609766,
+      "num": 389364,
+      "word": "亚当吃米粉",
+      "onboard_time": 1716382878,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 608923,
@@ -611,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437698,
+      "num": 437698,
+      "word": "拼多多总市值超越阿里巴巴",
+      "onboard_time": 1716378977,
+      "rank": 17,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 437507,
       "num": 437507,
       "word": "2人殴打水烫同学被刑拘",
@@ -731,12 +755,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 394764,
-      "num": 220538,
-      "word": "我让老公经历了断崖式离婚",
-      "onboard_time": 1716381678,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 392209,
+      "num": 392209,
+      "word": "杨幂说争取不让动漫粉失望",
+      "onboard_time": 1716383299,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 391945,
@@ -843,6 +867,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347467,
+      "num": 347467,
+      "word": "安室透 安陵容",
+      "onboard_time": 1716383477,
+      "rank": 13,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 345500,
+      "num": 327263,
+      "word": "亚当 甘露寺美甲",
+      "onboard_time": 1716382758,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344931,
       "num": 261037,
       "word": "庆余年 渐入佳境",
@@ -921,14 +961,6 @@
       "onboard_time": 1716305601,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320594,
-      "num": 320594,
-      "word": "拼多多总市值超越阿里巴巴",
-      "onboard_time": 1716378977,
-      "rank": 17,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 313958,
@@ -1155,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242999,
+      "num": 392428,
+      "word": "女子姐弟恋差17岁只比准婆婆小1岁",
+      "onboard_time": 1716382458,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242389,
       "num": 242389,
       "word": "日本前首相痛批岸田政府挑衅中国",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1716284779,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 238806,
+      "num": 238806,
+      "word": "CBA",
+      "onboard_time": 1716379218,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 237294,
@@ -1280,6 +1328,14 @@
       "word": "宣璐弥补了与凤行的遗憾",
       "onboard_time": 1716373999,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218355,
+      "num": 218355,
+      "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
+      "onboard_time": 1716381197,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -1427,14 +1483,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 200032,
-      "num": 209281,
-      "word": "CBA",
-      "onboard_time": 1716379218,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199438,
       "num": 199438,
       "word": "左航 人生来就该是自由的",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1716353121,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188149,
+      "num": 188149,
+      "word": "陈丽君杭州出发",
+      "onboard_time": 1716383060,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 187657,
@@ -1939,6 +1995,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 152356,
+      "num": 152356,
+      "word": "宁艺卓直拍",
+      "onboard_time": 1716382219,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151731,
       "num": 151731,
       "word": "张颂文说小白不好管了",
@@ -1955,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150387,
+      "num": 174137,
+      "word": "马立奥现场看CBA总决赛",
+      "onboard_time": 1716382698,
+      "rank": 29,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 149404,
       "num": 149404,
       "word": "喜欢你5开播",
@@ -1969,14 +2041,6 @@
       "onboard_time": 1716367098,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148137,
-      "num": 144871,
-      "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
-      "onboard_time": 1716381197,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 148087,
@@ -2105,6 +2169,14 @@
       "onboard_time": 1716359418,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136736,
+      "num": 136736,
+      "word": "原来膝盖的形状和脸型一样",
+      "onboard_time": 1716383299,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 136725,
@@ -2323,6 +2395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 123802,
+      "num": 374912,
+      "word": "炫富网红炫的是畸形价值观",
+      "onboard_time": 1716378137,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121907,
       "num": 121907,
       "word": "培训机构不会告诉你的网站",
@@ -2361,14 +2441,6 @@
       "onboard_time": 1716301700,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117944,
-      "num": 374912,
-      "word": "炫富网红炫的是畸形价值观",
-      "onboard_time": 1716378137,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117856,
@@ -2537,6 +2609,14 @@
       "onboard_time": 1716296660,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79039,
+      "num": 863296,
+      "word": "我国有345个国家级夜间文化和旅游消费集聚区",
+      "onboard_time": 1716382399,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78585,

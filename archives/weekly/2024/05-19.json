@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716382217393,
+  "endTime": 1716384083750,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -129,6 +129,14 @@
       "onboard_time": 1716250400,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2279071,
+      "num": 2279071,
+      "word": "庆余年 杀疯了",
+      "onboard_time": 1716381318,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2275807,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 1105009,
-      "num": 592475,
+      "num": 842556,
       "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
       "onboard_time": 1716372018,
       "rank": 20,
@@ -769,14 +777,6 @@
       "onboard_time": 1716130640,
       "rank": 22,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1022851,
-      "num": 429841,
-      "word": "庆余年 杀疯了",
-      "onboard_time": 1716381318,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1021270,
@@ -1523,6 +1523,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 656345,
+      "num": 236272,
+      "word": "我让老公经历了断崖式离婚",
+      "onboard_time": 1716381678,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 656052,
       "num": 656052,
       "word": "新加坡航空一客机紧急迫降曼谷机场",
@@ -1572,7 +1580,7 @@
     },
     {
       "raw_hot": 643200,
-      "num": 374715,
+      "num": 387984,
       "word": "孙千身材",
       "onboard_time": 1716377297,
       "rank": 17,
@@ -1641,6 +1649,14 @@
       "onboard_time": 1716279439,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 609766,
+      "num": 389364,
+      "word": "亚当吃米粉",
+      "onboard_time": 1716382878,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 608923,
@@ -2491,6 +2507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 437698,
+      "num": 437698,
+      "word": "拼多多总市值超越阿里巴巴",
+      "onboard_time": 1716378977,
+      "rank": 17,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 437507,
       "num": 437507,
       "word": "2人殴打水烫同学被刑拘",
@@ -2915,20 +2939,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 394764,
-      "num": 220538,
-      "word": "我让老公经历了断崖式离婚",
-      "onboard_time": 1716381678,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 393881,
       "num": 393881,
       "word": "鞠婧祎蝴蝶耳钉",
       "onboard_time": 1716099137,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392209,
+      "num": 392209,
+      "word": "杨幂说争取不让动漫粉失望",
+      "onboard_time": 1716383299,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 391945,
@@ -3251,6 +3275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 347467,
+      "num": 347467,
+      "word": "安室透 安陵容",
+      "onboard_time": 1716383477,
+      "rank": 13,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 347256,
       "num": 347256,
       "word": "向佐把那英扑倒了",
@@ -3273,6 +3305,14 @@
       "onboard_time": 1716115816,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 345500,
+      "num": 327263,
+      "word": "亚当 甘露寺美甲",
+      "onboard_time": 1716382758,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 345477,
@@ -3609,14 +3649,6 @@
       "onboard_time": 1716039800,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320594,
-      "num": 320594,
-      "word": "拼多多总市值超越阿里巴巴",
-      "onboard_time": 1716378977,
-      "rank": 17,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 320293,
@@ -4627,6 +4659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242999,
+      "num": 392428,
+      "word": "女子姐弟恋差17岁只比准婆婆小1岁",
+      "onboard_time": 1716382458,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242389,
       "num": 242389,
       "word": "日本前首相痛批岸田政府挑衅中国",
@@ -4697,6 +4737,14 @@
       "onboard_time": 1716273080,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238806,
+      "num": 238806,
+      "word": "CBA",
+      "onboard_time": 1716207197,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 238224,
@@ -5056,6 +5104,14 @@
       "word": "年少缺钱缺爱长大豪门阔太",
       "onboard_time": 1716188059,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218355,
+      "num": 218355,
+      "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
+      "onboard_time": 1716381197,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -5667,14 +5723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200032,
-      "num": 209281,
-      "word": "CBA",
-      "onboard_time": 1716207197,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199856,
       "num": 199856,
       "word": "白鹿说少骂点姚译添吧",
@@ -6193,6 +6241,14 @@
       "onboard_time": 1716127761,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188149,
+      "num": 188149,
+      "word": "陈丽君杭州出发",
+      "onboard_time": 1716383060,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 187864,
@@ -7459,6 +7515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152356,
+      "num": 152356,
+      "word": "宁艺卓直拍",
+      "onboard_time": 1716382219,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152145,
       "num": 196393,
       "word": "88VIP这波大额券诚意拉满",
@@ -7505,6 +7569,14 @@
       "onboard_time": 1716036317,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150387,
+      "num": 174137,
+      "word": "马立奥现场看CBA总决赛",
+      "onboard_time": 1716382698,
+      "rank": 29,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 150351,
@@ -7633,14 +7705,6 @@
       "onboard_time": 1716080538,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148137,
-      "num": 144871,
-      "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
-      "onboard_time": 1716381197,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 148087,
@@ -8185,6 +8249,14 @@
       "onboard_time": 1716197062,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136736,
+      "num": 136736,
+      "word": "原来膝盖的形状和脸型一样",
+      "onboard_time": 1716383299,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 136725,
@@ -8931,6 +9003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 123802,
+      "num": 374912,
+      "word": "炫富网红炫的是畸形价值观",
+      "onboard_time": 1716378137,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123466,
       "num": 123466,
       "word": "庆余年2五子齐海报",
@@ -9249,14 +9329,6 @@
       "onboard_time": 1716131840,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117944,
-      "num": 374912,
-      "word": "炫富网红炫的是畸形价值观",
-      "onboard_time": 1716378137,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117856,
@@ -10208,6 +10280,14 @@
       "word": "3岁男童被咬伤离世当地养狗现状",
       "onboard_time": 1716246795,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79039,
+      "num": 863296,
+      "word": "我国有345个国家级夜间文化和旅游消费集聚区",
+      "onboard_time": 1716382399,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

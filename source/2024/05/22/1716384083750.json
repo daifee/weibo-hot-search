@@ -1,0 +1,410 @@
+{
+  "runTime": 1716384083750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2279071,
+        "num": 2279071,
+        "word": "庆余年 杀疯了",
+        "onboard_time": 1716381318,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 975868,
+        "num": 975868,
+        "word": "轻断食一天吃了11根玉米",
+        "onboard_time": 1716375978,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 79039,
+        "num": 863296,
+        "word": "我国有345个国家级夜间文化和旅游消费集聚区",
+        "onboard_time": 1716382399,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842556,
+        "num": 842556,
+        "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
+        "onboard_time": 1716372018,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669744,
+        "num": 669744,
+        "word": "付辛博颖儿的恋爱合同",
+        "onboard_time": 1716373758,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437698,
+        "num": 437698,
+        "word": "拼多多总市值超越阿里巴巴",
+        "onboard_time": 1716378977,
+        "rank": 5,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 499980,
+        "num": 421168,
+        "word": "徐海乔宣璐手拉手",
+        "onboard_time": 1716363500,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203043,
+        "num": 397005,
+        "word": "中方回应梵蒂冈希望在北京设办事处",
+        "onboard_time": 1716368719,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242999,
+        "num": 392428,
+        "word": "女子姐弟恋差17岁只比准婆婆小1岁",
+        "onboard_time": 1716382458,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392209,
+        "num": 392209,
+        "word": "杨幂说争取不让动漫粉失望",
+        "onboard_time": 1716383299,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 609766,
+        "num": 389364,
+        "word": "亚当吃米粉",
+        "onboard_time": 1716382878,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 592496,
+        "num": 387984,
+        "word": "孙千身材",
+        "onboard_time": 1716377297,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384378,
+        "num": 384378,
+        "word": "微信扫一扫加好友有讲究吗",
+        "onboard_time": 1716370038,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 347467,
+        "num": 347467,
+        "word": "安室透 安陵容",
+        "onboard_time": 1716383477,
+        "rank": 13,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 337807,
+        "num": 337807,
+        "word": "赵丽颖林更新2个人3个耶",
+        "onboard_time": 1716378497,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345500,
+        "num": 327263,
+        "word": "亚当 甘露寺美甲",
+        "onboard_time": 1716382758,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257473,
+        "num": 257473,
+        "word": "HPV疫苗价格大跳水",
+        "onboard_time": 1716362779,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250559,
+        "num": 250559,
+        "word": "周鸿祎将购买7辆国产新能源车",
+        "onboard_time": 1716377057,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 238806,
+        "num": 238806,
+        "word": "CBA",
+        "onboard_time": 1716379218,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207401,
+        "num": 237688,
+        "word": "妈妈五十岁了还在买娃娃",
+        "onboard_time": 1716374479,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 656345,
+        "num": 236272,
+        "word": "我让老公经历了断崖式离婚",
+        "onboard_time": 1716381678,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295081,
+        "num": 235386,
+        "word": "田田小阿姨抖音账号搜索不到",
+        "onboard_time": 1716371298,
+        "rank": 21,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 290180,
+        "num": 233727,
+        "word": "易烊千玺参加文艺志愿者晚会",
+        "onboard_time": 1716379458,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278474,
+        "num": 233299,
+        "word": "明显感觉到大学逐渐高中化",
+        "onboard_time": 1716370879,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232366,
+        "num": 232366,
+        "word": "李惠利和IVE合拍",
+        "onboard_time": 1716376278,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231442,
+        "num": 231442,
+        "word": "杨幂涂山红红穿红",
+        "onboard_time": 1716376698,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218355,
+        "num": 218355,
+        "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
+        "onboard_time": 1716381197,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188149,
+        "num": 188149,
+        "word": "陈丽君杭州出发",
+        "onboard_time": 1716383060,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183437,
+        "num": 183437,
+        "word": "亚当爆改张震岳",
+        "onboard_time": 1716365720,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150387,
+        "num": 174137,
+        "word": "马立奥现场看CBA总决赛",
+        "onboard_time": 1716382698,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 171502,
+        "num": 171502,
+        "word": "aespa造型",
+        "onboard_time": 1716376938,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165293,
+        "num": 165293,
+        "word": "花少 行李超重",
+        "onboard_time": 1716378798,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163410,
+        "num": 163410,
+        "word": "赵丽颖工作室换头像了",
+        "onboard_time": 1716380058,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123432,
+        "num": 159506,
+        "word": "炫富成为一门生意尽头是带货",
+        "onboard_time": 1716380958,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123802,
+        "num": 156335,
+        "word": "炫富网红炫的是畸形价值观",
+        "onboard_time": 1716378137,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156219,
+        "num": 156219,
+        "word": "九尾直播",
+        "onboard_time": 1716380837,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152356,
+        "num": 152356,
+        "word": "宁艺卓直拍",
+        "onboard_time": 1716382219,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150707,
+        "num": 150707,
+        "word": "歌手2024袭榜赛制",
+        "onboard_time": 1716374058,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147247,
+        "num": 147247,
+        "word": "短发的刘亦菲",
+        "onboard_time": 1716346579,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 138064,
+        "num": 138064,
+        "word": "狮子座的先来后到",
+        "onboard_time": 1716379818,
+        "rank": 39,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 144716,
+        "num": 137716,
+        "word": "陈哲远 跑男",
+        "onboard_time": 1716379218,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137357,
+        "num": 137357,
+        "word": "眼泪女王新婚纱照",
+        "onboard_time": 1716381318,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136750,
+        "num": 136750,
+        "word": "林俊杰苏州 抢票",
+        "onboard_time": 1716380657,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136736,
+        "num": 136736,
+        "word": "原来膝盖的形状和脸型一样",
+        "onboard_time": 1716383299,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134488,
+        "num": 134488,
+        "word": "庆余年",
+        "onboard_time": 1716379638,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134425,
+        "num": 134425,
+        "word": "王红权星二手奢侈品店仍在营业",
+        "onboard_time": 1716377539,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103832,
+        "num": 134383,
+        "word": "官方通报贵州一烤肉店给肉串喷漆",
+        "onboard_time": 1716369858,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97791,
+        "num": 134314,
+        "word": "他俩感情没问题是我眼睛有问题",
+        "onboard_time": 1716376398,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96623,
+        "num": 134218,
+        "word": "新疆男篮vs辽宁男篮",
+        "onboard_time": 1716377598,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83714,
+        "num": 134144,
+        "word": "银渐层 妈你可真牛",
+        "onboard_time": 1716370278,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第14届中美旅游高层对话开幕致信#"
+    }
+  }
+}
