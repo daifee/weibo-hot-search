@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716405307367,
+  "endTime": 1716406475676,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -10204,7 +10204,7 @@
     },
     {
       "raw_hot": 105437,
-      "num": 60505,
+      "num": 88511,
       "word": "女子带婴儿到网吧打游戏",
       "onboard_time": 1716400872,
       "rank": 19,
@@ -10971,6 +10971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66325,
+      "num": 66325,
+      "word": "论文查重",
+      "onboard_time": 1716401652,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 66257,
       "num": 501194,
       "word": "大学生买药文旅副局长闪现买单",
@@ -11017,14 +11025,6 @@
       "onboard_time": 1716260240,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 63514,
-      "num": 63514,
-      "word": "论文查重",
-      "onboard_time": 1716401652,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 62902,
@@ -11707,6 +11707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22546,
+      "num": 22546,
+      "word": "有点难为杨幂了",
+      "onboard_time": 1716405613,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22275,
       "num": 103748,
       "word": "舞蹈演员机场整活大秀基本功",
@@ -11721,6 +11729,22 @@
       "onboard_time": 1716397935,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20370,
+      "num": 20370,
+      "word": "亚特兰大vs勒沃库森",
+      "onboard_time": 1716405850,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19948,
+      "num": 20259,
+      "word": "总睡不够是缺维生素D吗",
+      "onboard_time": 1716404411,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 19555,
@@ -11747,6 +11771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18917,
+      "num": 20260,
+      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
+      "onboard_time": 1716404711,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18889,
       "num": 169272,
       "word": "奶奶不懂520但知道关心和爱要表达",
@@ -11755,28 +11787,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 18837,
-      "num": 20260,
-      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
-      "onboard_time": 1716404711,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 18369,
       "num": 349175,
       "word": "中国文化遗产有多绝",
       "onboard_time": 1716382219,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18194,
-      "num": 20259,
-      "word": "总睡不够是缺维生素D吗",
-      "onboard_time": 1716404411,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 17985,
@@ -11793,6 +11809,14 @@
       "onboard_time": 1716034818,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17808,
+      "num": 18875,
+      "word": "人老了苦日子才刚刚开始",
+      "onboard_time": 1716405971,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 17671,
@@ -11915,7 +11939,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6178,
+      "raw_hot": 6224,
       "num": 47321,
       "word": "珠海师生将同餐同菜同价",
       "onboard_time": 1716403032,
