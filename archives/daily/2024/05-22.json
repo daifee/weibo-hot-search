@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716352575937,
+  "endTime": 1716355164724,
   "band_list": [
     {
       "raw_hot": 1894524,
@@ -59,12 +59,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1089722,
+      "num": 898478,
+      "word": "曝男生被同学用11盆开水烫伤霸凌",
+      "onboard_time": 1716350241,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1070233,
       "num": 1070233,
       "word": "亚当到长沙了",
       "onboard_time": 1716350840,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1058333,
+      "num": 627974,
+      "word": "生理性喜欢",
+      "onboard_time": 1716353841,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 989031,
@@ -91,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 904856,
+      "num": 612841,
+      "word": "云南一中学生被同学砍杀身亡",
+      "onboard_time": 1716352522,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 877795,
+      "num": 877795,
+      "word": "法国人都要来中国买LV",
+      "onboard_time": 1716352941,
+      "rank": 4,
+      "category": "时尚,社会新闻"
+    },
+    {
       "raw_hot": 866166,
       "num": 866166,
       "word": "麦当劳对讲机",
@@ -99,20 +131,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 861874,
-      "num": 560238,
-      "word": "曝男生被同学用11盆开水烫伤霸凌",
-      "onboard_time": 1716350241,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 845386,
       "num": 683412,
       "word": "王红权星曾称全身没8位数不出门",
       "onboard_time": 1716340039,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 838359,
+      "num": 838359,
+      "word": "毛晓彤付辛博大大方方营业",
+      "onboard_time": 1716352040,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 827637,
@@ -145,6 +177,14 @@
       "onboard_time": 1716347539,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 703072,
+      "num": 703072,
+      "word": "周杰伦三开",
+      "onboard_time": 1716353782,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 662901,
@@ -203,6 +243,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 580753,
+      "num": 580753,
+      "word": "韩玖诺回应叶灵儿被换角",
+      "onboard_time": 1716349158,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 575231,
       "num": 575231,
       "word": "中国终将实现完全统一",
@@ -227,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 547045,
-      "num": 547045,
-      "word": "韩玖诺回应叶灵儿被换角",
-      "onboard_time": 1716349158,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 554562,
+      "num": 554562,
+      "word": "多名炫富网红被封号",
+      "onboard_time": 1716352880,
+      "rank": 14,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 530464,
@@ -305,6 +353,22 @@
       "onboard_time": 1716338601,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 447329,
+      "num": 447329,
+      "word": "张艺兴回应加入国家话剧院",
+      "onboard_time": 1716354080,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 437507,
+      "num": 437507,
+      "word": "2人殴打水烫同学被刑拘",
+      "onboard_time": 1716354201,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433532,
@@ -451,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325581,
+      "num": 325581,
+      "word": "杨幂三套造型",
+      "onboard_time": 1716353841,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322145,
       "num": 322145,
       "word": "年轻人为什么喜欢养寄居蟹了",
@@ -521,14 +593,6 @@
       "onboard_time": 1716334817,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275505,
-      "num": 204268,
-      "word": "毛晓彤付辛博大大方方营业",
-      "onboard_time": 1716352040,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 275221,
@@ -603,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242402,
+      "num": 242402,
+      "word": "江浙沪人是先天留学圣体",
+      "onboard_time": 1716352941,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238916,
       "num": 210348,
       "word": "大麦回应出示死亡证明仍拒变更观演人",
@@ -633,6 +705,14 @@
       "onboard_time": 1716295999,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229002,
+      "num": 229002,
+      "word": "原神4.7版本直播",
+      "onboard_time": 1716352761,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 226981,
@@ -683,6 +763,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 207601,
+      "num": 207601,
+      "word": "官方通报广西一男生遭同学开水烫伤",
+      "onboard_time": 1716354800,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206641,
       "num": 196286,
       "word": "起猛了以为李峋回来了",
@@ -705,6 +793,14 @@
       "onboard_time": 1716350960,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202169,
+      "num": 202169,
+      "word": "当大学生发现高考和端午撞了",
+      "onboard_time": 1716354859,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 201174,
@@ -763,6 +859,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 188470,
+      "num": 188470,
+      "word": "吴幸键 朱亚文黄轩之子",
+      "onboard_time": 1716353121,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186727,
       "num": 186727,
       "word": "奔跑吧舞台直拍",
@@ -819,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176038,
+      "num": 176038,
+      "word": "鲍鱼家姐全网被禁",
+      "onboard_time": 1716348621,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 175322,
       "num": 175322,
       "word": "张艺兴首尔站官宣",
@@ -833,6 +945,14 @@
       "onboard_time": 1716279439,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172393,
+      "num": 172393,
+      "word": "熊猫家园直播",
+      "onboard_time": 1716354080,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169802,
@@ -895,6 +1015,14 @@
       "num": 411083,
       "word": "大熊猫老来小吃药全靠哄",
       "onboard_time": 1716340939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159845,
+      "num": 443534,
+      "word": "儿童误用防晒喷雾易导致白肺",
+      "onboard_time": 1716350420,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -979,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143431,
+      "num": 143431,
+      "word": "陈萍萍你让我感到陌生",
+      "onboard_time": 1716355098,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141710,
       "num": 141710,
       "word": "张艺兴晒了与林允儿合照",
@@ -1041,14 +1177,6 @@
       "onboard_time": 1716297499,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132015,
-      "num": 443534,
-      "word": "儿童误用防晒喷雾易导致白肺",
-      "onboard_time": 1716350420,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131738,
@@ -1195,6 +1323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110209,
+      "num": 232050,
+      "word": "鸣潮忌炎",
+      "onboard_time": 1716354679,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109694,
       "num": 118529,
       "word": "这跟看符龙飞朋友圈有什么区别",
@@ -1211,7 +1347,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103556,
+      "raw_hot": 105255,
       "num": 1094150,
       "word": "去大熊猫家做客",
       "onboard_time": 1716348621,
@@ -1257,14 +1393,6 @@
       "onboard_time": 1716191360,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90772,
-      "num": 142950,
-      "word": "云南一中学生被同学砍杀身亡",
-      "onboard_time": 1716352522,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87515,
@@ -1457,6 +1585,14 @@
       "onboard_time": 1716322570,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 37340,
+      "num": 632607,
+      "word": "他们还在守护袁爷爷的梦",
+      "onboard_time": 1716354621,
+      "rank": 9,
+      "category": "社会新闻,社会正能量"
     },
     {
       "raw_hot": 35184,
