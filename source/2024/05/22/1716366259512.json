@@ -1,0 +1,410 @@
+{
+  "runTime": 1716366259512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2119424,
+        "num": 2119424,
+        "word": "徐海乔宣璐手拉手",
+        "onboard_time": 1716363500,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1373159,
+        "num": 1373159,
+        "word": "HPV疫苗价格大跳水",
+        "onboard_time": 1716362779,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 7040,
+        "num": 1248506,
+        "word": "玲龙一号主控室正式启动",
+        "onboard_time": 1716366140,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146588,
+        "num": 1146588,
+        "word": "巴勒斯坦",
+        "onboard_time": 1716363679,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 778562,
+        "num": 778562,
+        "word": "赵丽颖 赵监制",
+        "onboard_time": 1716359418,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 679361,
+        "num": 679361,
+        "word": "台湾从来不是一个国家也永远不会成为一个国家",
+        "onboard_time": 1716340099,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509298,
+        "num": 509298,
+        "word": "西班牙和爱尔兰承认巴勒斯坦国",
+        "onboard_time": 1716363318,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 505826,
+        "num": 505826,
+        "word": "挪威承认巴勒斯坦国",
+        "onboard_time": 1716361038,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 479712,
+        "num": 479712,
+        "word": "亚当美甲都卸了",
+        "onboard_time": 1716356780,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437070,
+        "num": 437070,
+        "word": "半数银行人均薪酬下降",
+        "onboard_time": 1716359418,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 64427,
+        "num": 430692,
+        "word": "如何高效远离垮脸",
+        "onboard_time": 1716361519,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 444043,
+        "num": 429785,
+        "word": "短发的刘亦菲",
+        "onboard_time": 1716346579,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 427738,
+        "num": 427738,
+        "word": "郑俊英准备移民",
+        "onboard_time": 1716363079,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413627,
+        "num": 413627,
+        "word": "云南一中学生被同学砍杀身亡",
+        "onboard_time": 1716352522,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366357,
+        "num": 366357,
+        "word": "多名炫富网红被封号",
+        "onboard_time": 1716352880,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 36785,
+        "num": 365245,
+        "word": "珍爱我们的共同家园",
+        "onboard_time": 1716365720,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364985,
+        "num": 364985,
+        "word": "福宝将在近期择机对外展出",
+        "onboard_time": 1716360079,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351659,
+        "num": 351659,
+        "word": "曝男生被同学用11盆开水烫伤霸凌",
+        "onboard_time": 1716350241,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348265,
+        "num": 348265,
+        "word": "网红cici删除鲍鱼家姐相关视频",
+        "onboard_time": 1716364879,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 341983,
+        "num": 341983,
+        "word": "浪姐也搞直播了",
+        "onboard_time": 1716364879,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337896,
+        "num": 337896,
+        "word": "SM给aespa买的蛋糕有多难吃",
+        "onboard_time": 1716363920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326160,
+        "num": 326160,
+        "word": "孙俪 甄嬛传团综",
+        "onboard_time": 1716360079,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304163,
+        "num": 304163,
+        "word": "TFBOYS写给四叶草的一封家书",
+        "onboard_time": 1716362419,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279839,
+        "num": 279839,
+        "word": "为什么喝速溶咖啡的人变少了",
+        "onboard_time": 1716361458,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 262113,
+        "num": 262113,
+        "word": "亚当爆改张震岳",
+        "onboard_time": 1716365720,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246735,
+        "num": 246735,
+        "word": "张艺兴回应加入国家话剧院",
+        "onboard_time": 1716354080,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244061,
+        "num": 244061,
+        "word": "毛晓彤付辛博大大方方营业",
+        "onboard_time": 1716352040,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242389,
+        "num": 242389,
+        "word": "日本前首相痛批岸田政府挑衅中国",
+        "onboard_time": 1716364218,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 229744,
+        "num": 229744,
+        "word": "刘亦菲祖母绿高珠",
+        "onboard_time": 1716364999,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226857,
+        "num": 226857,
+        "word": "生理性喜欢",
+        "onboard_time": 1716353841,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268592,
+        "num": 225340,
+        "word": "徐海乔转发回复赵丽颖",
+        "onboard_time": 1716365599,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220202,
+        "num": 220202,
+        "word": "田田小阿姨删除王红权星相关视频",
+        "onboard_time": 1716346939,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 210576,
+        "num": 210576,
+        "word": "二皇子 潮鞋收藏家",
+        "onboard_time": 1716364339,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206227,
+        "num": 206227,
+        "word": "付辛博颖儿 好嗑",
+        "onboard_time": 1716359597,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192453,
+        "num": 192453,
+        "word": "亚当 喝中药",
+        "onboard_time": 1716366019,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186685,
+        "num": 186685,
+        "word": "十年前的花少跟拍用的是DV机",
+        "onboard_time": 1716364698,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176104,
+        "num": 176104,
+        "word": "蒲熠星天崩开局",
+        "onboard_time": 1716362719,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170102,
+        "num": 170102,
+        "word": "当大学生发现高考和端午撞了",
+        "onboard_time": 1716354859,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157125,
+        "num": 157125,
+        "word": "没想到论文查重要查AI率了",
+        "onboard_time": 1716365479,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155673,
+        "num": 155673,
+        "word": "亚当到长沙了",
+        "onboard_time": 1716350840,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150511,
+        "num": 150511,
+        "word": "法国人都要来中国买LV",
+        "onboard_time": 1716352941,
+        "rank": 40,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 148414,
+        "num": 148414,
+        "word": "25块一只的烤鸭到底什么来历",
+        "onboard_time": 1716357019,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147694,
+        "num": 147694,
+        "word": "陈萍萍你让我感到陌生",
+        "onboard_time": 1716355098,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147296,
+        "num": 147296,
+        "word": "杨幂给粉丝送奶茶",
+        "onboard_time": 1716363379,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58270,
+        "num": 145608,
+        "word": "去大熊猫家做客",
+        "onboard_time": 1716348621,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144462,
+        "num": 144462,
+        "word": "歌手网传第3期歌单",
+        "onboard_time": 1716348858,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127625,
+        "num": 127625,
+        "word": "白海豚妈妈驮着夭折宝宝游了5天",
+        "onboard_time": 1716357619,
+        "rank": 46,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 125088,
+        "num": 125088,
+        "word": "周杰伦三开",
+        "onboard_time": 1716353782,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123828,
+        "num": 123828,
+        "word": "TikTok拟本周裁员",
+        "onboard_time": 1716365958,
+        "rank": 48,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 119860,
+        "num": 119860,
+        "word": "姜爷爷谈福宝择偶标准",
+        "onboard_time": 1716357558,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设清洁美丽的世界#"
+    }
+  }
+}

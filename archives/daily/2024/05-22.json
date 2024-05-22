@@ -1,7 +1,15 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716363308215,
+  "endTime": 1716366259512,
   "band_list": [
+    {
+      "raw_hot": 2119424,
+      "num": 2119424,
+      "word": "徐海乔宣璐手拉手",
+      "onboard_time": 1716363500,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1956860,
       "num": 1956860,
@@ -43,6 +51,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1373159,
+      "num": 1373159,
+      "word": "HPV疫苗价格大跳水",
+      "onboard_time": 1716362779,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1296287,
       "num": 1296287,
       "word": "亚当美甲都卸了",
@@ -73,6 +89,14 @@
       "onboard_time": 1716303200,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1146588,
+      "num": 1146588,
+      "word": "巴勒斯坦",
+      "onboard_time": 1716363679,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1116371,
@@ -371,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 509298,
+      "num": 509298,
+      "word": "西班牙和爱尔兰承认巴勒斯坦国",
+      "onboard_time": 1716363318,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 488870,
       "num": 488870,
       "word": "庆余年2央视收视夺冠",
@@ -411,14 +443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 453278,
-      "num": 363393,
-      "word": "HPV疫苗价格大跳水",
-      "onboard_time": 1716362779,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 452184,
       "num": 277182,
       "word": "闲泽党已死",
@@ -457,6 +481,14 @@
       "onboard_time": 1716334938,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 427738,
+      "num": 427738,
+      "word": "郑俊英准备移民",
+      "onboard_time": 1716363079,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 424717,
@@ -555,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364985,
+      "num": 364985,
+      "word": "福宝将在近期择机对外展出",
+      "onboard_time": 1716360079,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363923,
       "num": 363923,
       "word": "武功山失温遇难女孩同伴曾打电话求救",
@@ -579,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348265,
+      "num": 348265,
+      "word": "网红cici删除鲍鱼家姐相关视频",
+      "onboard_time": 1716364879,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 344931,
       "num": 261037,
       "word": "庆余年 渐入佳境",
@@ -595,12 +643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341983,
+      "num": 341983,
+      "word": "浪姐也搞直播了",
+      "onboard_time": 1716364879,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339955,
       "num": 339955,
       "word": "郭麒麟真不是贾静雯的托儿",
       "onboard_time": 1716356718,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337896,
+      "num": 337896,
+      "word": "SM给aespa买的蛋糕有多难吃",
+      "onboard_time": 1716363920,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 331163,
@@ -651,6 +715,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 304163,
+      "num": 304163,
+      "word": "TFBOYS写给四叶草的一封家书",
+      "onboard_time": 1716362419,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302447,
       "num": 258295,
       "word": "媳妇买了一双和地砖撞色的鞋",
@@ -691,20 +763,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 282507,
-      "num": 226171,
-      "word": "郑俊英准备移民",
-      "onboard_time": 1716363079,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281833,
       "num": 281833,
       "word": "云南地震",
       "onboard_time": 1716334817,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279839,
+      "num": 279839,
+      "word": "为什么喝速溶咖啡的人变少了",
+      "onboard_time": 1716361458,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 279172,
@@ -721,6 +793,22 @@
       "onboard_time": 1716343938,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 268592,
+      "num": 225340,
+      "word": "徐海乔转发回复赵丽颖",
+      "onboard_time": 1716365599,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 262113,
+      "num": 262113,
+      "word": "亚当爆改张震岳",
+      "onboard_time": 1716365720,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 261909,
@@ -771,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247989,
-      "num": 247989,
-      "word": "福宝将在近期择机对外展出",
-      "onboard_time": 1716360079,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247450,
       "num": 215476,
       "word": "少吃和运动哪个更容易减肥",
@@ -809,6 +889,14 @@
       "onboard_time": 1716294857,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242389,
+      "num": 242389,
+      "word": "日本前首相痛批岸田政府挑衅中国",
+      "onboard_time": 1716364218,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 238916,
@@ -859,6 +947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229744,
+      "num": 229744,
+      "word": "刘亦菲祖母绿高珠",
+      "onboard_time": 1716364999,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229002,
       "num": 229002,
       "word": "原神4.7版本直播",
@@ -907,6 +1003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 210576,
+      "num": 210576,
+      "word": "二皇子 潮鞋收藏家",
+      "onboard_time": 1716364339,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208518,
       "num": 208518,
       "word": "中国统一大势不可逆",
@@ -953,14 +1057,6 @@
       "onboard_time": 1716350960,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201508,
-      "num": 201508,
-      "word": "为什么喝速溶咖啡的人变少了",
-      "onboard_time": 1716361458,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 201174,
@@ -1019,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192453,
+      "num": 192453,
+      "word": "亚当 喝中药",
+      "onboard_time": 1716366019,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189829,
       "num": 189829,
       "word": "为什么民宿越来越不流行了",
@@ -1051,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186685,
+      "num": 186685,
+      "word": "十年前的花少跟拍用的是DV机",
+      "onboard_time": 1716364698,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186678,
       "num": 186678,
       "word": "庆余年太会拍",
@@ -1080,14 +1192,6 @@
       "word": "ILLIT公司起诉闵熙珍",
       "onboard_time": 1716350420,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 178075,
-      "num": 178075,
-      "word": "TFBOYS写给四叶草的一封家书",
-      "onboard_time": 1716362419,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1259,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157125,
+      "num": 157125,
+      "word": "没想到论文查重要查AI率了",
+      "onboard_time": 1716365479,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 156288,
       "num": 188446,
       "word": "HPV疫苗接种成本降低",
@@ -1329,6 +1441,14 @@
       "onboard_time": 1716356958,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147296,
+      "num": 147296,
+      "word": "杨幂给粉丝送奶茶",
+      "onboard_time": 1716363379,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 145848,
@@ -1563,6 +1683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 123828,
+      "num": 123828,
+      "word": "TikTok拟本周裁员",
+      "onboard_time": 1716365958,
+      "rank": 48,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 121907,
       "num": 121907,
       "word": "培训机构不会告诉你的网站",
@@ -1779,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64427,
+      "num": 430692,
+      "word": "如何高效远离垮脸",
+      "onboard_time": 1716361519,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 62902,
       "num": 62902,
       "word": "陈丽君报平安",
@@ -1825,14 +1961,6 @@
       "onboard_time": 1716310095,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 48402,
-      "num": 370720,
-      "word": "如何高效远离垮脸",
-      "onboard_time": 1716361519,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 47568,
@@ -1899,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 36785,
+      "num": 365245,
+      "word": "珍爱我们的共同家园",
+      "onboard_time": 1716365720,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35184,
       "num": 363724,
       "word": "吴孟超生前珍贵画面",
@@ -1952,6 +2088,14 @@
       "word": "脑瘫小伙每天下班后做兼职努力赚钱",
       "onboard_time": 1716313873,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7040,
+      "num": 1248506,
+      "word": "玲龙一号主控室正式启动",
+      "onboard_time": 1716366140,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
