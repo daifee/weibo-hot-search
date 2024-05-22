@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716341907657,
+  "endTime": 1716345099720,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -235,6 +235,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1771860,
+      "num": 1771860,
+      "word": "台湾从来不是一个国家也永远不会成为一个国家",
+      "onboard_time": 1716340099,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1708985,
       "num": 1708985,
       "word": "王俊凯蔡依林同台",
@@ -385,14 +393,6 @@
       "onboard_time": 1716115757,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1354962,
-      "num": 1354962,
-      "word": "台湾从来不是一个国家也永远不会成为一个国家",
-      "onboard_time": 1716340099,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1339229,
@@ -1227,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662901,
+      "num": 662901,
+      "word": "IVE零一位",
+      "onboard_time": 1716343457,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 657139,
       "num": 657139,
       "word": "李佳琦618不用难了",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1716113179,
       "rank": 11,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 629139,
+      "num": 346626,
+      "word": "本科毕业论文何以成一些师生共同的痛苦",
+      "onboard_time": 1716340580,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 619283,
@@ -1507,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565824,
+      "num": 259144,
+      "word": "银行客户经理月薪从过万降至到手不足1000",
+      "onboard_time": 1716340099,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565813,
       "num": 565813,
       "word": "林婉儿好像恋综主持人",
@@ -1603,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 527700,
+      "num": 358397,
+      "word": "叶灵儿",
+      "onboard_time": 1716342258,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 527170,
       "num": 527170,
       "word": "蒲熠星南大",
@@ -1641,14 +1673,6 @@
       "onboard_time": 1716115637,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 511987,
-      "num": 259144,
-      "word": "银行客户经理月薪从过万降至到手不足1000",
-      "onboard_time": 1716340099,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 511275,
@@ -1883,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468586,
+      "num": 279585,
+      "word": "职高生代写博士生论文",
+      "onboard_time": 1716342678,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 465768,
       "num": 465768,
       "word": "五年了 还得是张若昀",
@@ -2115,6 +2147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 425644,
+      "num": 277182,
+      "word": "闲泽党已死",
+      "onboard_time": 1716341238,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 424717,
       "num": 424717,
       "word": "刘端端演技",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1716302060,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409413,
+      "num": 274017,
+      "word": "TFBOYS给五月天送花篮",
+      "onboard_time": 1716341598,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 408250,
@@ -2427,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391945,
+      "num": 272876,
+      "word": "刘亦菲井柏然民国剧照",
+      "onboard_time": 1716340339,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390006,
       "num": 390006,
       "word": "舒淇顶级高定",
@@ -2595,6 +2651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 362859,
+      "num": 238586,
+      "word": "毛晓彤垂耳兔公主",
+      "onboard_time": 1716344478,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360908,
       "num": 360908,
       "word": "高度近视戴不戴眼镜眼球都会变形",
@@ -2643,14 +2707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354391,
-      "num": 211626,
-      "word": "刘亦菲井柏然民国剧照",
-      "onboard_time": 1716340339,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 352359,
       "num": 352359,
       "word": "BLG可惜",
@@ -2697,14 +2753,6 @@
       "onboard_time": 1716263059,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346626,
-      "num": 346626,
-      "word": "本科毕业论文何以成一些师生共同的痛苦",
-      "onboard_time": 1716340580,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 346430,
@@ -3179,14 +3227,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 299280,
-      "num": 206339,
-      "word": "TFBOYS给五月天送花篮",
-      "onboard_time": 1716341598,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 298933,
       "num": 221885,
       "word": "外包父母月入四万",
@@ -3521,6 +3561,14 @@
       "onboard_time": 1716203479,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271636,
+      "num": 271636,
+      "word": "京东员工回应出版社联合抵制618",
+      "onboard_time": 1716342258,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 271196,
@@ -3947,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237148,
+      "num": 237148,
+      "word": "iPhone五大痛点",
+      "onboard_time": 1716343938,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 236503,
       "num": 217838,
       "word": "Bin说MSI不是结尾",
@@ -4097,14 +4153,6 @@
       "onboard_time": 1716100158,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 223360,
-      "num": 205293,
-      "word": "闲泽党已死",
-      "onboard_time": 1716341238,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 222482,
@@ -4313,6 +4361,14 @@
       "onboard_time": 1716128602,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210608,
+      "num": 210608,
+      "word": "一汽与蔚来官宣换电合作",
+      "onboard_time": 1716343938,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 210575,
@@ -4867,6 +4923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195182,
+      "num": 195182,
+      "word": "王倦编剧",
+      "onboard_time": 1716343217,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194529,
       "num": 174621,
       "word": "女孩遭男子持棍挟持众人合力解救",
@@ -5123,6 +5187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187139,
+      "num": 187139,
+      "word": "图书馆也癫了",
+      "onboard_time": 1716341418,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186927,
       "num": 186927,
       "word": "张凌赫徐若晗 脑补一本小说",
@@ -5257,6 +5329,14 @@
       "onboard_time": 1716266959,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181759,
+      "num": 240089,
+      "word": "苏林当选越南国家主席",
+      "onboard_time": 1716344719,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 181327,
@@ -5555,6 +5635,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169802,
+      "num": 169802,
+      "word": "为什么新出的冰箱门吸不住冰箱贴",
+      "onboard_time": 1716343099,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 169159,
+      "num": 169159,
+      "word": "长期晚上不吃饭身体会发生什么",
+      "onboard_time": 1716344478,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169099,
       "num": 169099,
       "word": "尤长靖参加披哥",
@@ -5649,6 +5745,14 @@
       "onboard_time": 1716268881,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165558,
+      "num": 165558,
+      "word": "今天听听它们的独白",
+      "onboard_time": 1716344778,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165292,
@@ -5785,6 +5889,14 @@
       "onboard_time": 1716106397,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160385,
+      "num": 411083,
+      "word": "大熊猫老来小吃药全靠哄",
+      "onboard_time": 1716340939,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160384,
@@ -6003,6 +6115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154353,
+      "num": 154353,
+      "word": "意外发现瘦大腿的方法",
+      "onboard_time": 1716341898,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 153206,
       "num": 153206,
       "word": "谈恋爱重要的是过程还是结果",
@@ -6203,6 +6323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147494,
+      "num": 147494,
+      "word": "袁爷爷离开我们3年了",
+      "onboard_time": 1716344478,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147341,
       "num": 147341,
       "word": "下半场的欧文",
@@ -6387,6 +6515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144050,
+      "num": 144050,
+      "word": "东北的独生子女地位有多高",
+      "onboard_time": 1716342319,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143913,
       "num": 143913,
       "word": "许嵩演唱会",
@@ -6497,6 +6633,14 @@
       "onboard_time": 1716111017,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141124,
+      "num": 141124,
+      "word": "江疏影东北雨姐的行动力",
+      "onboard_time": 1716341957,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 141046,
@@ -6715,14 +6859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134522,
-      "num": 134522,
-      "word": "图书馆也癫了",
-      "onboard_time": 1716341418,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134435,
       "num": 134435,
       "word": "徐明浩大喇喊话不要插队",
@@ -6753,6 +6889,14 @@
       "onboard_time": 1716212780,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133881,
+      "num": 133881,
+      "word": "Uzi说约不到训练赛",
+      "onboard_time": 1716342319,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 133859,
@@ -6913,6 +7057,14 @@
       "onboard_time": 1716292819,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130200,
+      "num": 130200,
+      "word": "当你有个脱离东亚文化的弟弟",
+      "onboard_time": 1716344957,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 130007,
@@ -7987,14 +8139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 105593,
-      "num": 105593,
-      "word": "意外发现瘦大腿的方法",
-      "onboard_time": 1716341898,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 105538,
       "num": 227384,
       "word": "巴赫欢迎废墟上重生女孩来巴黎",
@@ -8267,6 +8411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93889,
+      "num": 283951,
+      "word": "天上有2颗星在说好好吃饭健康长大",
+      "onboard_time": 1716343518,
+      "rank": 9,
+      "category": "社会新闻,社会正能量"
+    },
+    {
       "raw_hot": 93704,
       "num": 93704,
       "word": "莫兰德犯规",
@@ -8281,14 +8433,6 @@
       "onboard_time": 1716136337,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 93188,
-      "num": 411083,
-      "word": "大熊猫老来小吃药全靠哄",
-      "onboard_time": 1716340939,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92951,
@@ -8889,6 +9033,14 @@
       "onboard_time": 1716132500,
       "rank": 11,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 52519,
+      "num": 134238,
+      "word": "冷知识CHA竟然是世界语言",
+      "onboard_time": 1716345017,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49202,

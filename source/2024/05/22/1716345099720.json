@@ -1,0 +1,410 @@
+{
+  "runTime": 1716345099720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1771860,
+        "num": 1771860,
+        "word": "台湾从来不是一个国家也永远不会成为一个国家",
+        "onboard_time": 1716340099,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1063146,
+        "num": 1063146,
+        "word": "网红王红权星被各社交平台封禁",
+        "onboard_time": 1716334156,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48971,
+        "num": 839185,
+        "word": "港珠澳大桥今年出入境客流破1000万人次",
+        "onboard_time": 1716298040,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747739,
+        "num": 747739,
+        "word": "很酷 不聊天",
+        "onboard_time": 1716339498,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 662901,
+        "num": 662901,
+        "word": "IVE零一位",
+        "onboard_time": 1716343457,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 404350,
+        "num": 404350,
+        "word": "有卖家因制作捏捏致身体不适闭店",
+        "onboard_time": 1716337100,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609141,
+        "num": 375110,
+        "word": "王红权星曾称全身没8位数不出门",
+        "onboard_time": 1716340039,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 527700,
+        "num": 358397,
+        "word": "叶灵儿",
+        "onboard_time": 1716342258,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284857,
+        "num": 284857,
+        "word": "想袁爷爷吴爷爷了",
+        "onboard_time": 1716340099,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93889,
+        "num": 283951,
+        "word": "天上有2颗星在说好好吃饭健康长大",
+        "onboard_time": 1716343518,
+        "rank": 9,
+        "category": "社会新闻,社会正能量"
+      },
+      {
+        "raw_hot": 662242,
+        "num": 282858,
+        "word": "长期保持体重的吃喝习惯",
+        "onboard_time": 1716338840,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 629139,
+        "num": 280056,
+        "word": "本科毕业论文何以成一些师生共同的痛苦",
+        "onboard_time": 1716340580,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 468586,
+        "num": 279585,
+        "word": "职高生代写博士生论文",
+        "onboard_time": 1716342678,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 425644,
+        "num": 277182,
+        "word": "闲泽党已死",
+        "onboard_time": 1716341238,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409995,
+        "num": 275281,
+        "word": "陈飞宇庄达菲情侣写真",
+        "onboard_time": 1716338601,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409413,
+        "num": 274017,
+        "word": "TFBOYS给五月天送花篮",
+        "onboard_time": 1716341598,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 391945,
+        "num": 272876,
+        "word": "刘亦菲井柏然民国剧照",
+        "onboard_time": 1716340339,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271636,
+        "num": 271636,
+        "word": "京东员工回应出版社联合抵制618",
+        "onboard_time": 1716342258,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240141,
+        "num": 240141,
+        "word": "原来演唱会的字幕是PPT",
+        "onboard_time": 1716334217,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 181759,
+        "num": 240089,
+        "word": "苏林当选越南国家主席",
+        "onboard_time": 1716344719,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 565824,
+        "num": 239448,
+        "word": "银行客户经理月薪从过万降至到手不足1000",
+        "onboard_time": 1716340099,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362859,
+        "num": 238586,
+        "word": "毛晓彤垂耳兔公主",
+        "onboard_time": 1716344478,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326338,
+        "num": 238255,
+        "word": "医生呼吁这几种早餐尽量别贪吃",
+        "onboard_time": 1716338840,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 291786,
+        "num": 237424,
+        "word": "林婉儿好像恋综主持人",
+        "onboard_time": 1716335839,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237148,
+        "num": 237148,
+        "word": "iPhone五大痛点",
+        "onboard_time": 1716343938,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177374,
+        "num": 230386,
+        "word": "伊朗方面披露总统直升机事故细节",
+        "onboard_time": 1716338601,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226846,
+        "num": 226846,
+        "word": "刘亦菲紫色高定",
+        "onboard_time": 1716333556,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223673,
+        "num": 223673,
+        "word": "庆余年2央视收视夺冠",
+        "onboard_time": 1716337699,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210608,
+        "num": 210608,
+        "word": "一汽与蔚来官宣换电合作",
+        "onboard_time": 1716343938,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195182,
+        "num": 195182,
+        "word": "王倦编剧",
+        "onboard_time": 1716343217,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189839,
+        "num": 189839,
+        "word": "大麦就拒绝更换观演人致歉",
+        "onboard_time": 1716338359,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187139,
+        "num": 187139,
+        "word": "图书馆也癫了",
+        "onboard_time": 1716341418,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186488,
+        "num": 186488,
+        "word": "夫妻俩因为同一个习惯双双确诊结直肠癌",
+        "onboard_time": 1716303200,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176953,
+        "num": 176953,
+        "word": "庆余年 渐入佳境",
+        "onboard_time": 1716339078,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175911,
+        "num": 175911,
+        "word": "刘端端演技",
+        "onboard_time": 1716335717,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169802,
+        "num": 169802,
+        "word": "为什么新出的冰箱门吸不住冰箱贴",
+        "onboard_time": 1716343099,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169159,
+        "num": 169159,
+        "word": "长期晚上不吃饭身体会发生什么",
+        "onboard_time": 1716344478,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165558,
+        "num": 165558,
+        "word": "今天听听它们的独白",
+        "onboard_time": 1716344778,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160385,
+        "num": 160385,
+        "word": "大熊猫老来小吃药全靠哄",
+        "onboard_time": 1716340939,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154353,
+        "num": 154353,
+        "word": "意外发现瘦大腿的方法",
+        "onboard_time": 1716341898,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 153177,
+        "num": 153177,
+        "word": "小米SU7充满73.6度电池费了87.86度电",
+        "onboard_time": 1716334938,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147494,
+        "num": 147494,
+        "word": "袁爷爷离开我们3年了",
+        "onboard_time": 1716344478,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144684,
+        "num": 144684,
+        "word": "张康阳失去国米",
+        "onboard_time": 1716341837,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144050,
+        "num": 144050,
+        "word": "东北的独生子女地位有多高",
+        "onboard_time": 1716342319,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141182,
+        "num": 141182,
+        "word": "林更新穿兔子T恤",
+        "onboard_time": 1716333675,
+        "rank": 44,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 141124,
+        "num": 141124,
+        "word": "江疏影东北雨姐的行动力",
+        "onboard_time": 1716341957,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135880,
+        "num": 135880,
+        "word": "李佳琦回应参加披哥",
+        "onboard_time": 1716297620,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52519,
+        "num": 134238,
+        "word": "冷知识CHA竟然是世界语言",
+        "onboard_time": 1716345017,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133881,
+        "num": 133881,
+        "word": "Uzi说约不到训练赛",
+        "onboard_time": 1716342319,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130200,
+        "num": 130200,
+        "word": "当你有个脱离东亚文化的弟弟",
+        "onboard_time": 1716344957,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#更加广泛地开展同各国的文化交流#"
+    }
+  }
+}
