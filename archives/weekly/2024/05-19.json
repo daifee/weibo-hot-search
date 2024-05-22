@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716417238184,
+  "endTime": 1716420025902,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -2267,6 +2267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 497357,
+      "num": 497357,
+      "word": "李承泽未承受半分恩泽",
+      "onboard_time": 1716395356,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497162,
       "num": 454436,
       "word": "关晓彤出道23年归来才27岁",
@@ -2499,6 +2507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 460158,
+      "num": 460158,
+      "word": "教授建议18到25岁要多谈恋爱",
+      "onboard_time": 1716182480,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 459806,
       "num": 459806,
       "word": "台大教授称大陆是台湾发展最大保证",
@@ -2545,14 +2561,6 @@
       "onboard_time": 1716388941,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 453610,
-      "num": 449270,
-      "word": "教授建议18到25岁要多谈恋爱",
-      "onboard_time": 1716182480,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 453248,
@@ -3195,6 +3203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378304,
+      "num": 378304,
+      "word": "女子带婴儿到网吧打游戏",
+      "onboard_time": 1716400872,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377621,
       "num": 377621,
       "word": "美歌手持枪拍视频意外自杀",
@@ -3377,6 +3393,14 @@
       "onboard_time": 1716376698,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 354282,
+      "num": 354282,
+      "word": "阮经天妈妈去世",
+      "onboard_time": 1716419955,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 353284,
@@ -3908,7 +3932,7 @@
     },
     {
       "raw_hot": 312091,
-      "num": 220850,
+      "num": 265949,
       "word": "林更新偷了赵丽颖的图",
       "onboard_time": 1716387260,
       "rank": 41,
@@ -4161,14 +4185,6 @@
       "onboard_time": 1716122898,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286179,
-      "num": 286179,
-      "word": "李承泽未承受半分恩泽",
-      "onboard_time": 1716395356,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 285859,
@@ -6147,6 +6163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194791,
+      "num": 194791,
+      "word": "专家回应不少大人孩子近来嗓子疼",
+      "onboard_time": 1716417554,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 194529,
       "num": 174621,
       "word": "女孩遭男子持棍挟持众人合力解救",
@@ -6457,14 +6481,6 @@
       "onboard_time": 1716124522,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188678,
-      "num": 188678,
-      "word": "女子带婴儿到网吧打游戏",
-      "onboard_time": 1716400872,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188470,
@@ -7033,6 +7049,14 @@
       "onboard_time": 1716357799,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173197,
+      "num": 69348,
+      "word": "杨幂机场出发戛纳",
+      "onboard_time": 1716419715,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 173150,
@@ -7801,6 +7825,14 @@
       "onboard_time": 1716351982,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 153916,
+      "num": 153916,
+      "word": "有点难为杨幂了",
+      "onboard_time": 1716405613,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153812,
@@ -8859,6 +8891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131793,
+      "num": 122957,
+      "word": "同年同月同日生的鉴察院双子星",
+      "onboard_time": 1716394517,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131738,
       "num": 131738,
       "word": "随机舞蹈不再添加IVE歌曲",
@@ -9393,14 +9433,6 @@
       "onboard_time": 1716378137,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123579,
-      "num": 122957,
-      "word": "同年同月同日生的鉴察院双子星",
-      "onboard_time": 1716394517,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 123466,
@@ -10155,6 +10187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107668,
+      "num": 107668,
+      "word": "亚特兰大3比0勒沃库森",
+      "onboard_time": 1716419596,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107496,
       "num": 107496,
       "word": "花儿与少年好友记",
@@ -10409,6 +10449,14 @@
       "onboard_time": 1716051315,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99243,
+      "num": 99243,
+      "word": "辛芷蕾海棠朵朵来了",
+      "onboard_time": 1716418273,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 99228,
@@ -10779,14 +10827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 75513,
-      "num": 75513,
-      "word": "有点难为杨幂了",
-      "onboard_time": 1716405613,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 74595,
       "num": 74595,
       "word": "加沙小女孩遇空袭捂住耳朵告诉妈妈不想死",
@@ -10891,6 +10931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69571,
+      "num": 69571,
+      "word": "左航老奶奶",
+      "onboard_time": 1716420016,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69431,
       "num": 69431,
       "word": "薛之谦 总有条船不远万里",
@@ -10923,6 +10971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68532,
+      "num": 68532,
+      "word": "付辛博改名周二围吧",
+      "onboard_time": 1716417793,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68283,
       "num": 68283,
       "word": "雷军谈华为",
@@ -10937,6 +10993,14 @@
       "onboard_time": 1716350780,
       "rank": 28,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 68059,
+      "num": 68059,
+      "word": "过度健身可能会导致显老",
+      "onboard_time": 1716419415,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 68003,
@@ -11035,6 +11099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 63539,
+      "num": 63539,
+      "word": "英伟达",
+      "onboard_time": 1716420016,
+      "rank": 34,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 62902,
       "num": 62902,
       "word": "陈丽君报平安",
@@ -11057,6 +11129,14 @@
       "onboard_time": 1716160936,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61950,
+      "num": 61950,
+      "word": "总睡不够是缺维生素D吗",
+      "onboard_time": 1716404411,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 61373,
@@ -11147,6 +11227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58261,
+      "num": 58261,
+      "word": "杨幂抠书式还原涂山红红",
+      "onboard_time": 1716409031,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57999,
       "num": 387430,
       "word": "李玫瑾称霸凌和未成年犯罪不是一回事",
@@ -11177,6 +11265,22 @@
       "onboard_time": 1716225074,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56069,
+      "num": 56069,
+      "word": "玩乙女游戏突然变暗的画面",
+      "onboard_time": 1716419955,
+      "rank": 40,
+      "category": "游戏,情感"
+    },
+    {
+      "raw_hot": 55398,
+      "num": 55398,
+      "word": "钟楚曦金色人鱼裙",
+      "onboard_time": 1716413712,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 55338,
@@ -11219,6 +11323,30 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 52349,
+      "num": 52349,
+      "word": "人老了苦日子才刚刚开始",
+      "onboard_time": 1716405971,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 51156,
+      "num": 51156,
+      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
+      "onboard_time": 1716404711,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50603,
+      "num": 50603,
+      "word": "张若昀演出了范闲的失望",
+      "onboard_time": 1716411790,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49202,
       "num": 86058,
       "word": "在东京吃雪人儿肉",
@@ -11233,14 +11361,6 @@
       "onboard_time": 1716074535,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 48410,
-      "num": 36830,
-      "word": "张若昀演出了范闲的失望",
-      "onboard_time": 1716411790,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 48123,
@@ -11419,6 +11539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40315,
+      "num": 476571,
+      "word": "中国文化遗产有多绝",
+      "onboard_time": 1716382219,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39841,
       "num": 138891,
       "word": "恋与深空",
@@ -11441,14 +11569,6 @@
       "onboard_time": 1716091216,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 38353,
-      "num": 36707,
-      "word": "人老了苦日子才刚刚开始",
-      "onboard_time": 1716405971,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 38158,
@@ -11491,27 +11611,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36703,
-      "num": 36703,
-      "word": "杨幂抠书式还原涂山红红",
-      "onboard_time": 1716409031,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 36124,
       "num": 325970,
       "word": "龚俊想在戛纳开串串店",
       "onboard_time": 1716265521,
       "rank": 35,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 35845,
-      "num": 35845,
-      "word": "钟楚曦金色人鱼裙",
-      "onboard_time": 1716413712,
-      "rank": 34,
       "category": "电影"
     },
     {
@@ -11651,14 +11755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29001,
-      "num": 29001,
-      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
-      "onboard_time": 1716404711,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28793,
       "num": 159864,
       "word": "鸣潮比女娲会捏",
@@ -11681,14 +11777,6 @@
       "onboard_time": 1716316331,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 26701,
-      "num": 26701,
-      "word": "总睡不够是缺维生素D吗",
-      "onboard_time": 1716404411,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 26608,
@@ -11784,14 +11872,6 @@
       "word": "舞蹈演员机场整活大秀基本功",
       "onboard_time": 1716333734,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21406,
-      "num": 349175,
-      "word": "中国文化遗产有多绝",
-      "onboard_time": 1716382219,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -11921,6 +12001,14 @@
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14304,
+      "num": 225911,
+      "word": "穿越机视角看万马奔腾好震撼",
+      "onboard_time": 1716419475,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12843,
