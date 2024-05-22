@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716384083750,
+  "endTime": 1716384869716,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -123,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2391576,
+      "num": 2391576,
+      "word": "庆余年 杀疯了",
+      "onboard_time": 1716381318,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2287053,
       "num": 2287053,
       "word": "那英 摔倒",
       "onboard_time": 1716250400,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2279071,
-      "num": 2279071,
-      "word": "庆余年 杀疯了",
-      "onboard_time": 1716381318,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 2275807,
@@ -1275,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729026,
+      "num": 729026,
+      "word": "亚当吃米粉",
+      "onboard_time": 1716382878,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 727970,
       "num": 727970,
       "word": "南京官方通报网友举报鬼秤被摔手机",
@@ -1428,7 +1436,7 @@
     },
     {
       "raw_hot": 688733,
-      "num": 590249,
+      "num": 614676,
       "word": "中方回应梵蒂冈希望在北京设办事处",
       "onboard_time": 1716368719,
       "rank": 14,
@@ -1467,12 +1475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681610,
+      "num": 681610,
+      "word": "杨鸣被驱逐",
+      "onboard_time": 1716384499,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 678945,
       "num": 609240,
       "word": "网红cici删除鲍鱼家姐相关视频",
       "onboard_time": 1716364879,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 673773,
+      "num": 673773,
+      "word": "安室透 安陵容",
+      "onboard_time": 1716383477,
+      "rank": 13,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 673598,
@@ -1580,7 +1604,7 @@
     },
     {
       "raw_hot": 643200,
-      "num": 387984,
+      "num": 557168,
       "word": "孙千身材",
       "onboard_time": 1716377297,
       "rank": 17,
@@ -1619,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631527,
+      "num": 631527,
+      "word": "杨幂说争取不让动漫粉失望",
+      "onboard_time": 1716383299,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 630731,
       "num": 575493,
       "word": "胖猫事件不予立案",
@@ -1649,14 +1681,6 @@
       "onboard_time": 1716279439,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 609766,
-      "num": 389364,
-      "word": "亚当吃米粉",
-      "onboard_time": 1716382878,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 608923,
@@ -2315,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468971,
+      "num": 468971,
+      "word": "CBA",
+      "onboard_time": 1716207197,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465768,
       "num": 465768,
       "word": "五年了 还得是张若昀",
@@ -2947,20 +2979,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392209,
-      "num": 392209,
-      "word": "杨幂说争取不让动漫粉失望",
-      "onboard_time": 1716383299,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 391945,
       "num": 272876,
       "word": "刘亦菲井柏然民国剧照",
       "onboard_time": 1716340339,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 390199,
+      "num": 390199,
+      "word": "亚当 甘露寺美甲",
+      "onboard_time": 1716382758,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 390006,
@@ -3275,14 +3307,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 347467,
-      "num": 347467,
-      "word": "安室透 安陵容",
-      "onboard_time": 1716383477,
-      "rank": 13,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 347256,
       "num": 347256,
       "word": "向佐把那英扑倒了",
@@ -3305,14 +3329,6 @@
       "onboard_time": 1716115816,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 345500,
-      "num": 327263,
-      "word": "亚当 甘露寺美甲",
-      "onboard_time": 1716382758,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 345477,
@@ -3737,6 +3753,14 @@
       "onboard_time": 1716209118,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 314182,
+      "num": 314182,
+      "word": "张凌赫徐若晗车内吻戏",
+      "onboard_time": 1716384319,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 312540,
@@ -4195,6 +4219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276401,
+      "num": 190967,
+      "word": "杨幂说和郭晓婷很难对视",
+      "onboard_time": 1716384619,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275221,
       "num": 246997,
       "word": "iPhone五大痛点",
@@ -4321,6 +4353,14 @@
       "onboard_time": 1716214699,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264098,
+      "num": 189707,
+      "word": "庆帝 我要diss你",
+      "onboard_time": 1716384499,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 263405,
@@ -4507,6 +4547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251754,
+      "num": 604307,
+      "word": "女子姐弟恋差17岁只比准婆婆小1岁",
+      "onboard_time": 1716382458,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251652,
       "num": 251652,
       "word": "南玉卿心定档",
@@ -4659,14 +4707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242999,
-      "num": 392428,
-      "word": "女子姐弟恋差17岁只比准婆婆小1岁",
-      "onboard_time": 1716382458,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242389,
       "num": 242389,
       "word": "日本前首相痛批岸田政府挑衅中国",
@@ -4737,14 +4777,6 @@
       "onboard_time": 1716273080,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238806,
-      "num": 238806,
-      "word": "CBA",
-      "onboard_time": 1716207197,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 238224,
@@ -5099,19 +5131,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219221,
+      "num": 218355,
+      "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
+      "onboard_time": 1716381197,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218361,
       "num": 218361,
       "word": "年少缺钱缺爱长大豪门阔太",
       "onboard_time": 1716188059,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 218355,
-      "num": 218355,
-      "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
-      "onboard_time": 1716381197,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -6523,6 +6555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179302,
+      "num": 179302,
+      "word": "原来膝盖的形状和脸型一样",
+      "onboard_time": 1716383299,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 179002,
       "num": 179002,
       "word": "bella身材",
@@ -7091,6 +7131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162396,
+      "num": 162396,
+      "word": "范无救被捕",
+      "onboard_time": 1716384800,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162344,
       "num": 162344,
       "word": "每天上班我只做七件事",
@@ -7121,6 +7169,14 @@
       "onboard_time": 1716193761,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161560,
+      "num": 183701,
+      "word": "马立奥现场看CBA总决赛",
+      "onboard_time": 1716382698,
+      "rank": 29,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 161540,
@@ -7355,6 +7411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 156332,
+      "num": 156332,
+      "word": "辽宁男篮犯规",
+      "onboard_time": 1716384438,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156288,
       "num": 188446,
       "word": "HPV疫苗接种成本降低",
@@ -7569,14 +7633,6 @@
       "onboard_time": 1716036317,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150387,
-      "num": 174137,
-      "word": "马立奥现场看CBA总决赛",
-      "onboard_time": 1716382698,
-      "rank": 29,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 150351,
@@ -8251,14 +8307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 136736,
-      "num": 136736,
-      "word": "原来膝盖的形状和脸型一样",
-      "onboard_time": 1716383299,
-      "rank": 43,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 136725,
       "num": 136725,
       "word": "出道前退出ILLIT的成员",
@@ -8385,6 +8433,14 @@
       "onboard_time": 1716212780,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134135,
+      "num": 134135,
+      "word": "边伯贤澳门",
+      "onboard_time": 1716384800,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 133997,
@@ -8761,6 +8817,14 @@
       "onboard_time": 1716088696,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127127,
+      "num": 127127,
+      "word": "CBA 裁判",
+      "onboard_time": 1716384800,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 127067,
@@ -10187,6 +10251,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86538,
+      "num": 182053,
+      "word": "美妆界最近是要年中考核吗",
+      "onboard_time": 1716384138,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 86346,
+      "num": 863296,
+      "word": "我国有345个国家级夜间文化和旅游消费集聚区",
+      "onboard_time": 1716382399,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85931,
       "num": 118368,
       "word": "袁爷爷吴爷爷我们好想你们",
@@ -10280,14 +10360,6 @@
       "word": "3岁男童被咬伤离世当地养狗现状",
       "onboard_time": 1716246795,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79039,
-      "num": 863296,
-      "word": "我国有345个国家级夜间文化和旅游消费集聚区",
-      "onboard_time": 1716382399,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
