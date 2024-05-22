@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716373192755,
+  "endTime": 1716374174352,
   "band_list": [
     {
       "raw_hot": 2119424,
@@ -43,20 +43,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1499408,
+      "num": 1499408,
+      "word": "微信扫一扫加好友有讲究吗",
+      "onboard_time": 1716370038,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1456307,
       "num": 1456307,
       "word": "HPV疫苗价格大跳水",
       "onboard_time": 1716362779,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1396639,
-      "num": 1396639,
-      "word": "微信扫一扫加好友有讲究吗",
-      "onboard_time": 1716370038,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 1383802,
@@ -219,6 +219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 833008,
+      "num": 292961,
+      "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
+      "onboard_time": 1716372018,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827637,
       "num": 827637,
       "word": "很酷 不聊天",
@@ -243,7 +251,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 771796,
+      "raw_hot": 791948,
       "num": 771796,
       "word": "银渐层 妈你可真牛",
       "onboard_time": 1716370278,
@@ -313,14 +321,6 @@
       "onboard_time": 1716364879,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 663064,
-      "num": 292961,
-      "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
-      "onboard_time": 1716372018,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 662901,
@@ -395,12 +395,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 580847,
+      "num": 580847,
+      "word": "田田小阿姨抖音账号搜索不到",
+      "onboard_time": 1716371298,
+      "rank": 11,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 580753,
       "num": 580753,
       "word": "韩玖诺回应叶灵儿被换角",
       "onboard_time": 1716349158,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 577943,
+      "num": 285749,
+      "word": "明显感觉到大学逐渐高中化",
+      "onboard_time": 1716370879,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 575231,
@@ -435,14 +451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 556385,
-      "num": 556385,
-      "word": "田田小阿姨抖音账号搜索不到",
-      "onboard_time": 1716371298,
-      "rank": 11,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 539525,
       "num": 539525,
       "word": "以色列宣布召回驻挪威和爱尔兰大使",
@@ -473,14 +481,6 @@
       "onboard_time": 1716297620,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 515629,
-      "num": 285749,
-      "word": "明显感觉到大学逐渐高中化",
-      "onboard_time": 1716370879,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 515581,
@@ -537,6 +537,14 @@
       "onboard_time": 1716297679,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 454436,
+      "num": 454436,
+      "word": "关晓彤出道23年归来才27岁",
+      "onboard_time": 1716372739,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 452184,
@@ -784,14 +792,6 @@
       "word": "SM给aespa买的蛋糕有多难吃",
       "onboard_time": 1716363920,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 337314,
-      "num": 337314,
-      "word": "关晓彤出道23年归来才27岁",
-      "onboard_time": 1716372739,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1059,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236961,
+      "num": 228604,
+      "word": "实习六个月后不让转正",
+      "onboard_time": 1716373340,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236254,
       "num": 236254,
       "word": "何炅魏大勋双向奔赴",
@@ -1099,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228230,
+      "num": 228230,
+      "word": "李荣浩也看眼泪女王了",
+      "onboard_time": 1716373459,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226981,
       "num": 194853,
       "word": "鞠婧祎助理号",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1716350060,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215557,
+      "num": 215557,
+      "word": "付辛博颖儿的恋爱合同",
+      "onboard_time": 1716373758,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 211455,
@@ -1187,8 +1211,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203752,
-      "num": 203752,
+      "raw_hot": 204171,
+      "num": 204171,
       "word": "灵儿清融破碎感大片",
       "onboard_time": 1716372979,
       "rank": 29,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1716350960,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201656,
+      "num": 201656,
+      "word": "zzr盲僧",
+      "onboard_time": 1716372678,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 201174,
@@ -1251,6 +1283,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 193504,
+      "num": 193504,
+      "word": "杨幂盘扣新中式",
+      "onboard_time": 1716373398,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193282,
       "num": 193282,
       "word": "图书馆也癫了",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1716353121,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188079,
+      "num": 188079,
+      "word": "歌手2024袭榜赛制",
+      "onboard_time": 1716374058,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 187657,
@@ -1363,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178699,
+      "num": 178699,
+      "word": "外交部反制美军工企业及高级管理人员",
+      "onboard_time": 1716373698,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177623,
       "num": 177623,
       "word": "刘宪华 超级双开门",
@@ -1393,14 +1449,6 @@
       "onboard_time": 1716348621,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 175729,
-      "num": 175729,
-      "word": "zzr盲僧",
-      "onboard_time": 1716372678,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 175322,
@@ -1531,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160649,
+      "num": 160649,
+      "word": "网传一烤肉店给肉串竹签喷漆",
+      "onboard_time": 1716372797,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160385,
       "num": 411083,
       "word": "大熊猫老来小吃药全靠哄",
@@ -1560,14 +1616,6 @@
       "word": "市监局通报女子景区遇天价冰粉",
       "onboard_time": 1716356899,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157615,
-      "num": 157615,
-      "word": "网传一烤肉店给肉串竹签喷漆",
-      "onboard_time": 1716372797,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1803,12 +1851,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133572,
+      "num": 133572,
+      "word": "2024KPL夏季赛赛制公布",
+      "onboard_time": 1716373459,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132917,
       "num": 132917,
       "word": "一看就是爸爸宠大的女鹅",
       "onboard_time": 1716336739,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132349,
+      "num": 132349,
+      "word": "宣璐弥补了与凤行的遗憾",
+      "onboard_time": 1716373999,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 132098,
@@ -2051,20 +2115,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 100582,
+      "num": 590432,
+      "word": "福宝的美人痣是睡出来的",
+      "onboard_time": 1716370578,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96238,
       "num": 118558,
       "word": "第一次意识到1万块这么有质感",
       "onboard_time": 1716269360,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95987,
-      "num": 590432,
-      "word": "福宝的美人痣是睡出来的",
-      "onboard_time": 1716370578,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93566,
@@ -2235,6 +2299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 56357,
+      "num": 590273,
+      "word": "李玫瑾谈未成年人犯罪",
+      "onboard_time": 1716372319,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55475,
       "num": 118340,
       "word": "留学生半个小时做三道菜",
@@ -2305,14 +2377,6 @@
       "onboard_time": 1716312852,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 38271,
-      "num": 590273,
-      "word": "李玫瑾谈未成年人犯罪",
-      "onboard_time": 1716372319,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37515,

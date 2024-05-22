@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716373192755,
+  "endTime": 1716374174352,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1971,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1499408,
+      "num": 1499408,
+      "word": "微信扫一扫加好友有讲究吗",
+      "onboard_time": 1716370038,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1498895,
       "num": 1498895,
       "word": "医院通知退核酸检测费市民怀疑是诈骗",
@@ -2337,14 +2345,6 @@
       "onboard_time": 1715304138,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1396639,
-      "num": 1396639,
-      "word": "微信扫一扫加好友有讲究吗",
-      "onboard_time": 1716370038,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 1393522,
@@ -6291,6 +6291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 833008,
+      "num": 292961,
+      "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
+      "onboard_time": 1716372018,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 832901,
       "num": 490952,
       "word": "1995年5月1日中国人开始双休",
@@ -6811,6 +6819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 791948,
+      "num": 771796,
+      "word": "银渐层 妈你可真牛",
+      "onboard_time": 1716370278,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 791904,
       "num": 791904,
       "word": "G2不收徒",
@@ -7017,14 +7033,6 @@
       "onboard_time": 1714972699,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 771796,
-      "num": 771796,
-      "word": "银渐层 妈你可真牛",
-      "onboard_time": 1716370278,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 771684,
@@ -9011,14 +9019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 663064,
-      "num": 292961,
-      "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
-      "onboard_time": 1716372018,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 662901,
       "num": 662901,
       "word": "IVE零一位",
@@ -10867,6 +10867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 580847,
+      "num": 580847,
+      "word": "田田小阿姨抖音账号搜索不到",
+      "onboard_time": 1716371298,
+      "rank": 11,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 580753,
       "num": 580753,
       "word": "韩玖诺回应叶灵儿被换角",
@@ -10921,6 +10929,14 @@
       "onboard_time": 1716165139,
       "rank": 13,
       "category": "国外时政,财经"
+    },
+    {
+      "raw_hot": 577943,
+      "num": 285749,
+      "word": "明显感觉到大学逐渐高中化",
+      "onboard_time": 1716370879,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 577900,
@@ -11409,14 +11425,6 @@
       "onboard_time": 1714787958,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 556385,
-      "num": 556385,
-      "word": "田田小阿姨抖音账号搜索不到",
-      "onboard_time": 1716371298,
-      "rank": 11,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 556078,
@@ -12529,14 +12537,6 @@
       "onboard_time": 1715516721,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 515629,
-      "num": 285749,
-      "word": "明显感觉到大学逐渐高中化",
-      "onboard_time": 1716370879,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 515625,
@@ -14721,6 +14721,14 @@
       "onboard_time": 1714980979,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 454436,
+      "num": 454436,
+      "word": "关晓彤出道23年归来才27岁",
+      "onboard_time": 1716372739,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 454410,
@@ -20217,14 +20225,6 @@
       "onboard_time": 1715573480,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337314,
-      "num": 337314,
-      "word": "关晓彤出道23年归来才27岁",
-      "onboard_time": 1716372739,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 337072,
@@ -27675,6 +27675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 236961,
+      "num": 228604,
+      "word": "实习六个月后不让转正",
+      "onboard_time": 1716373340,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236898,
       "num": 236898,
       "word": "陈赫从五哈团单飞了",
@@ -28625,6 +28633,14 @@
       "onboard_time": 1714993340,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228230,
+      "num": 228230,
+      "word": "李荣浩也看眼泪女王了",
+      "onboard_time": 1716373459,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 228076,
@@ -30217,6 +30233,14 @@
       "onboard_time": 1716037279,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 215557,
+      "num": 215557,
+      "word": "付辛博颖儿的恋爱合同",
+      "onboard_time": 1716373758,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 215531,
@@ -32283,6 +32307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204171,
+      "num": 204171,
+      "word": "灵儿清融破碎感大片",
+      "onboard_time": 1716372979,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204133,
       "num": 204133,
       "word": "华晨宇日出演唱会",
@@ -32385,14 +32417,6 @@
       "onboard_time": 1715671338,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 203752,
-      "num": 203752,
-      "word": "灵儿清融破碎感大片",
-      "onboard_time": 1716372979,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 203737,
@@ -32833,6 +32857,14 @@
       "onboard_time": 1715653577,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201656,
+      "num": 201656,
+      "word": "zzr盲僧",
+      "onboard_time": 1716372678,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 201627,
@@ -35203,6 +35235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193504,
+      "num": 193504,
+      "word": "杨幂盘扣新中式",
+      "onboard_time": 1716373398,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193503,
       "num": 193503,
       "word": "李现cos孙悟空",
@@ -36568,6 +36608,14 @@
       "word": "文俊辉认证NCT铁粉",
       "onboard_time": 1715871498,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188079,
+      "num": 188079,
+      "word": "歌手2024袭榜赛制",
+      "onboard_time": 1716374058,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -38467,6 +38515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178699,
+      "num": 178699,
+      "word": "外交部反制美军工企业及高级管理人员",
+      "onboard_time": 1716373698,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178672,
       "num": 178672,
       "word": "新闻女王2 狠过man姐的女人",
@@ -39113,14 +39169,6 @@
       "onboard_time": 1714877598,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 175729,
-      "num": 175729,
-      "word": "zzr盲僧",
-      "onboard_time": 1716372678,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 175691,
@@ -42547,6 +42595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160649,
+      "num": 160649,
+      "word": "网传一烤肉店给肉串竹签喷漆",
+      "onboard_time": 1716372797,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160634,
       "num": 160634,
       "word": "芍药这么美还是中药换谁不迷糊",
@@ -43089,14 +43145,6 @@
       "onboard_time": 1715433740,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 157615,
-      "num": 157615,
-      "word": "网传一烤肉店给肉串竹签喷漆",
-      "onboard_time": 1716372797,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157574,
@@ -48779,6 +48827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133572,
+      "num": 133572,
+      "word": "2024KPL夏季赛赛制公布",
+      "onboard_time": 1716373459,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133551,
       "num": 133551,
       "word": "张真源谈十岁进公司训练的经历",
@@ -49089,6 +49145,14 @@
       "onboard_time": 1715600119,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132349,
+      "num": 132349,
+      "word": "宣璐弥补了与凤行的遗憾",
+      "onboard_time": 1716373999,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 132307,
@@ -55123,6 +55187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100582,
+      "num": 590432,
+      "word": "福宝的美人痣是睡出来的",
+      "onboard_time": 1716370578,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100548,
       "num": 100548,
       "word": "男演员的台词有女主创的灵魂",
@@ -55552,14 +55624,6 @@
       "word": "嫦娥家族奔月路每秒都热血沸腾",
       "onboard_time": 1714707021,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95987,
-      "num": 590432,
-      "word": "福宝的美人痣是睡出来的",
-      "onboard_time": 1716370578,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -58347,6 +58411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56357,
+      "num": 590273,
+      "word": "李玫瑾谈未成年人犯罪",
+      "onboard_time": 1716372319,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56305,
       "num": 56305,
       "word": "国乒历届奥运P卡盘点",
@@ -59529,14 +59601,6 @@
       "onboard_time": 1715349922,
       "rank": 22,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 38271,
-      "num": 590273,
-      "word": "李玫瑾谈未成年人犯罪",
-      "onboard_time": 1716372319,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38158,
