@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716412791370,
+  "endTime": 1716413660832,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -61171,6 +61171,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 25041,
+      "num": 25041,
+      "word": "美妆圈的信息茧房有多恐怖",
+      "onboard_time": 1716407171,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 25021,
       "num": 25021,
       "word": "小狗偷吃被流浪猫追着打",
@@ -61251,14 +61259,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 24035,
-      "num": 24035,
-      "word": "美妆圈的信息茧房有多恐怖",
-      "onboard_time": 1716407171,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 23732,
       "num": 28351,
       "word": "张凌赫伦敦看秀",
@@ -61299,6 +61299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22966,
+      "num": 22966,
+      "word": "亚特兰大vs勒沃库森",
+      "onboard_time": 1716405850,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22890,
       "num": 30385,
       "word": "这装修真把钱花在刀刃上了",
@@ -61313,14 +61321,6 @@
       "onboard_time": 1715970553,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 22781,
-      "num": 22781,
-      "word": "亚特兰大vs勒沃库森",
-      "onboard_time": 1716405850,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 22771,
@@ -61401,6 +61401,14 @@
       "onboard_time": 1714764312,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 21504,
+      "num": 21504,
+      "word": "杨幂抠书式还原涂山红红",
+      "onboard_time": 1716409031,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 21318,
@@ -61547,6 +61555,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 19024,
+      "num": 19024,
+      "word": "张若昀演出了范闲的失望",
+      "onboard_time": 1716411790,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18917,
       "num": 20260,
       "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
@@ -61619,14 +61635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17922,
-      "num": 17922,
-      "word": "杨幂抠书式还原涂山红红",
-      "onboard_time": 1716409031,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17862,
       "num": 17862,
       "word": "在大学当高中生",
@@ -61665,14 +61673,6 @@
       "onboard_time": 1714508171,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 16882,
-      "num": 16882,
-      "word": "张若昀演出了范闲的失望",
-      "onboard_time": 1716411790,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 16627,
@@ -61795,6 +61795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14250,
+      "num": 16479,
+      "word": "全国吃辣battle",
+      "onboard_time": 1716409631,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 14087,
       "num": 17311,
       "word": "轿车爆胎翻车16辆过路车紧急救援",
@@ -61867,16 +61875,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 12930,
-      "num": 14342,
-      "word": "全国吃辣battle",
-      "onboard_time": 1716409631,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 12843,
-      "num": 14339,
+      "num": 16475,
       "word": "袁隆平生前唱歌唱祖国",
       "onboard_time": 1716411131,
       "rank": 49,

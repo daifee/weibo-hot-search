@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/23 00:24:54 ~ 2024/05/23 05:19:51
+本榜单时间：2024/05/23 00:24:54 ~ 2024/05/23 05:34:20
 </p>
 </blockquote>
 <p>
@@ -255,6 +255,12 @@ HPV疫苗价格大跳水（热度：188408）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE18%E5%88%B025%E5%B2%81%E8%A6%81%E5%A4%9A%E8%B0%88%E6%81%8B%E7%88%B1%23" target="weibo">
+教授建议18到25岁要多谈恋爱（热度：96662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%B6%8A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%23" target="weibo">
 拼多多总市值超越阿里巴巴（热度：93144）
 </a>
@@ -287,12 +293,6 @@ chatgpt崩了（热度：84680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23aespa%E9%80%A0%E5%9E%8B%23" target="weibo">
 aespa造型（热度：83914）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE18%E5%88%B025%E5%B2%81%E8%A6%81%E5%A4%9A%E8%B0%88%E6%81%8B%E7%88%B1%23" target="weibo">
-教授建议18到25岁要多谈恋爱（热度：80580）
 </a>
 </li>
 
@@ -358,13 +358,19 @@ B站社区与产品负责人道歉（热度：73581）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A6%86%E5%9C%88%E7%9A%84%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E6%9C%89%E5%A4%9A%E6%81%90%E6%80%96%23" target="weibo">
-美妆圈的信息茧房有多恐怖（热度：24035）
+美妆圈的信息茧房有多恐怖（热度：25041）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7vs%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE%23" target="weibo">
-亚特兰大vs勒沃库森（热度：22781）
+亚特兰大vs勒沃库森（热度：22966）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%8A%A0%E4%B9%A6%E5%BC%8F%E8%BF%98%E5%8E%9F%E6%B6%82%E5%B1%B1%E7%BA%A2%E7%BA%A2%23" target="weibo">
+杨幂抠书式还原涂山红红（热度：21504）
 </a>
 </li>
 
@@ -387,6 +393,12 @@ B站社区与产品负责人道歉（热度：73581）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E6%BC%94%E5%87%BA%E4%BA%86%E8%8C%83%E9%97%B2%E7%9A%84%E5%A4%B1%E6%9C%9B%23" target="weibo">
+张若昀演出了范闲的失望（热度：19024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%A7%B0%E4%B8%8A%E6%8A%AB%E5%93%A5%E5%B8%AE%E9%83%AD%E7%A2%A7%E5%A9%B7%E4%B8%80%E8%B5%B7%E8%B5%9A%E5%A5%B6%E7%B2%89%E9%92%B1%23" target="weibo">
 向佐称上披哥帮郭碧婷一起赚奶粉钱（热度：18917）
 </a>
@@ -399,20 +411,8 @@ B站社区与产品负责人道歉（热度：73581）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%8A%A0%E4%B9%A6%E5%BC%8F%E8%BF%98%E5%8E%9F%E6%B6%82%E5%B1%B1%E7%BA%A2%E7%BA%A2%23" target="weibo">
-杨幂抠书式还原涂山红红（热度：17922）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E6%BC%94%E5%87%BA%E4%BA%86%E8%8C%83%E9%97%B2%E7%9A%84%E5%A4%B1%E6%9C%9B%23" target="weibo">
-张若昀演出了范闲的失望（热度：16882）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%83%E8%BE%A3battle%23" target="weibo">
-全国吃辣battle（热度：12930）
+全国吃辣battle（热度：14250）
 </a>
 </li>
 
