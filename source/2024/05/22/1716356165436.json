@@ -1,0 +1,410 @@
+{
+  "runTime": 1716356165436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1518387,
+        "num": 1518387,
+        "word": "台湾从来不是一个国家也永远不会成为一个国家",
+        "onboard_time": 1716340099,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1040161,
+        "num": 1040161,
+        "word": "亚当到长沙了",
+        "onboard_time": 1716350840,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89614,
+        "num": 959280,
+        "word": "去大熊猫家做客",
+        "onboard_time": 1716348621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1111624,
+        "num": 957940,
+        "word": "曝男生被同学用11盆开水烫伤霸凌",
+        "onboard_time": 1716350241,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951825,
+        "num": 951825,
+        "word": "毛晓彤付辛博大大方方营业",
+        "onboard_time": 1716352040,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 752892,
+        "num": 752892,
+        "word": "法国人都要来中国买LV",
+        "onboard_time": 1716352941,
+        "rank": 5,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 713050,
+        "num": 713050,
+        "word": "多名炫富网红被封号",
+        "onboard_time": 1716352880,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 701332,
+        "num": 701332,
+        "word": "短发的刘亦菲",
+        "onboard_time": 1716346579,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 701066,
+        "num": 701066,
+        "word": "田田小阿姨删除王红权星相关视频",
+        "onboard_time": 1716346939,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 45948,
+        "num": 699477,
+        "word": "他们还在守护袁爷爷的梦",
+        "onboard_time": 1716354621,
+        "rank": 9,
+        "category": "社会新闻,社会正能量"
+      },
+      {
+        "raw_hot": 999909,
+        "num": 696114,
+        "word": "生理性喜欢",
+        "onboard_time": 1716353841,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 827997,
+        "num": 693378,
+        "word": "云南一中学生被同学砍杀身亡",
+        "onboard_time": 1716352522,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125813,
+        "num": 687365,
+        "word": "鸣潮忌炎",
+        "onboard_time": 1716354679,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 687172,
+        "num": 687172,
+        "word": "张艺兴回应加入国家话剧院",
+        "onboard_time": 1716354080,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 565819,
+        "num": 565819,
+        "word": "周杰伦三开",
+        "onboard_time": 1716353782,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 487652,
+        "num": 487652,
+        "word": "韩玖诺回应叶灵儿被换角",
+        "onboard_time": 1716349158,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464405,
+        "num": 464405,
+        "word": "歌手网传第3期歌单",
+        "onboard_time": 1716348858,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390854,
+        "num": 390854,
+        "word": "张踩铃晕倒",
+        "onboard_time": 1716345738,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 382934,
+        "num": 382934,
+        "word": "2人殴打水烫同学被刑拘",
+        "onboard_time": 1716354201,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291849,
+        "num": 291849,
+        "word": "英国首相就污染血丑闻事件公开致歉",
+        "onboard_time": 1716347718,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 369371,
+        "num": 290741,
+        "word": "陈萍萍你让我感到陌生",
+        "onboard_time": 1716355098,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322332,
+        "num": 289944,
+        "word": "杨幂三套造型",
+        "onboard_time": 1716353841,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316519,
+        "num": 288641,
+        "word": "王红权星曾称全身没8位数不出门",
+        "onboard_time": 1716340039,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 286440,
+        "num": 286440,
+        "word": "银行还是令人羡慕的工作吗",
+        "onboard_time": 1716346758,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282641,
+        "num": 282641,
+        "word": "当大学生发现高考和端午撞了",
+        "onboard_time": 1716354859,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272404,
+        "num": 272404,
+        "word": "京东被曝严查考勤",
+        "onboard_time": 1716355399,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 267884,
+        "num": 267884,
+        "word": "长期保持体重的吃喝习惯",
+        "onboard_time": 1716338840,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 256574,
+        "num": 256574,
+        "word": "江浙沪人是先天留学圣体",
+        "onboard_time": 1716352941,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246117,
+        "num": 246117,
+        "word": "官方通报广西一男生遭同学开水烫伤",
+        "onboard_time": 1716354800,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225317,
+        "num": 225317,
+        "word": "很酷 不聊天",
+        "onboard_time": 1716339498,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213984,
+        "num": 213984,
+        "word": "付辛博是第二个拥有愧疚粉的人",
+        "onboard_time": 1716347539,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213207,
+        "num": 213207,
+        "word": "IVE零一位",
+        "onboard_time": 1716343457,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194409,
+        "num": 194409,
+        "word": "职高生代写博士生论文",
+        "onboard_time": 1716342678,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178492,
+        "num": 178492,
+        "word": "刘亦菲被单膝送花",
+        "onboard_time": 1716348078,
+        "rank": 33,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 164575,
+        "num": 164575,
+        "word": "告诉孩子这就是不能踩井盖的原因",
+        "onboard_time": 1716355699,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156988,
+        "num": 156988,
+        "word": "庆余年太子 大智若愚",
+        "onboard_time": 1716350960,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156195,
+        "num": 156195,
+        "word": "网红王红权星被各社交平台封禁",
+        "onboard_time": 1716334156,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155537,
+        "num": 155537,
+        "word": "iPhone五大痛点",
+        "onboard_time": 1716343938,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146411,
+        "num": 146411,
+        "word": "儿童误用防晒喷雾易导致白肺",
+        "onboard_time": 1716350420,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145645,
+        "num": 145645,
+        "word": "王红权星",
+        "onboard_time": 1716345978,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144393,
+        "num": 144393,
+        "word": "背着善宰跑收视率",
+        "onboard_time": 1716350060,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143504,
+        "num": 143504,
+        "word": "吴幸键 朱亚文黄轩之子",
+        "onboard_time": 1716353121,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142696,
+        "num": 142696,
+        "word": "TFBOYS给五月天送花篮",
+        "onboard_time": 1716341598,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138008,
+        "num": 138008,
+        "word": "熊猫家园直播",
+        "onboard_time": 1716354080,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136944,
+        "num": 136944,
+        "word": "麦当劳APP崩了",
+        "onboard_time": 1716346698,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133353,
+        "num": 133353,
+        "word": "狐妖小红娘月红篇今天发布会",
+        "onboard_time": 1716351319,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130704,
+        "num": 130704,
+        "word": "鲍鱼家姐全网被禁",
+        "onboard_time": 1716348621,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124410,
+        "num": 124410,
+        "word": "原来商战真的是偷秘方",
+        "onboard_time": 1716355339,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111814,
+        "num": 111814,
+        "word": "有卖家因制作捏捏致身体不适闭店",
+        "onboard_time": 1716337100,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110951,
+        "num": 110951,
+        "word": "刘雯回归戛纳",
+        "onboard_time": 1716349518,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设清洁美丽的世界#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716355164724,
+  "endTime": 1716356165436,
   "band_list": [
     {
       "raw_hot": 1894524,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1089722,
-      "num": 898478,
+      "raw_hot": 1111624,
+      "num": 957940,
       "word": "曝男生被同学用11盆开水烫伤霸凌",
       "onboard_time": 1716350241,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1058333,
-      "num": 627974,
+      "num": 696114,
       "word": "生理性喜欢",
       "onboard_time": 1716353841,
       "rank": 10,
@@ -107,8 +107,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951825,
+      "num": 951825,
+      "word": "毛晓彤付辛博大大方方营业",
+      "onboard_time": 1716352040,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 904856,
-      "num": 612841,
+      "num": 693378,
       "word": "云南一中学生被同学砍杀身亡",
       "onboard_time": 1716352522,
       "rank": 49,
@@ -137,14 +145,6 @@
       "onboard_time": 1716340039,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 838359,
-      "num": 838359,
-      "word": "毛晓彤付辛博大大方方营业",
-      "onboard_time": 1716352040,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 827637,
@@ -179,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 713050,
+      "num": 713050,
+      "word": "多名炫富网红被封号",
+      "onboard_time": 1716352880,
+      "rank": 14,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 703072,
       "num": 703072,
       "word": "周杰伦三开",
       "onboard_time": 1716353782,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 687172,
+      "num": 687172,
+      "word": "张艺兴回应加入国家话剧院",
+      "onboard_time": 1716354080,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 662901,
@@ -275,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 554562,
-      "num": 554562,
-      "word": "多名炫富网红被封号",
-      "onboard_time": 1716352880,
-      "rank": 14,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 530464,
       "num": 530464,
       "word": "二皇子人设",
@@ -353,14 +361,6 @@
       "onboard_time": 1716338601,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 447329,
-      "num": 447329,
-      "word": "张艺兴回应加入国家话剧院",
-      "onboard_time": 1716354080,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 437507,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369371,
+      "num": 290741,
+      "word": "陈萍萍你让我感到陌生",
+      "onboard_time": 1716355098,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363923,
       "num": 363923,
       "word": "武功山失温遇难女孩同伴曾打电话求救",
@@ -587,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 282641,
+      "num": 282641,
+      "word": "当大学生发现高考和端午撞了",
+      "onboard_time": 1716354859,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281833,
       "num": 281833,
       "word": "云南地震",
@@ -603,6 +619,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 272404,
+      "num": 272404,
+      "word": "京东被曝严查考勤",
+      "onboard_time": 1716355399,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 261909,
       "num": 253386,
       "word": "长期晚上不吃饭身体会发生什么",
@@ -617,6 +641,14 @@
       "onboard_time": 1716307339,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 256574,
+      "num": 256574,
+      "word": "江浙沪人是先天留学圣体",
+      "onboard_time": 1716352941,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 253291,
@@ -651,6 +683,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 246117,
+      "num": 246117,
+      "word": "官方通报广西一男生遭同学开水烫伤",
+      "onboard_time": 1716354800,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244303,
       "num": 244303,
       "word": "王婆说媒相亲已婚男已离婚",
@@ -665,14 +705,6 @@
       "onboard_time": 1716294857,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242402,
-      "num": 242402,
-      "word": "江浙沪人是先天留学圣体",
-      "onboard_time": 1716352941,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 238916,
@@ -763,14 +795,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 207601,
-      "num": 207601,
-      "word": "官方通报广西一男生遭同学开水烫伤",
-      "onboard_time": 1716354800,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206641,
       "num": 196286,
       "word": "起猛了以为李峋回来了",
@@ -793,14 +817,6 @@
       "onboard_time": 1716350960,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202169,
-      "num": 202169,
-      "word": "当大学生发现高考和端午撞了",
-      "onboard_time": 1716354859,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 201174,
@@ -979,6 +995,14 @@
       "category": "社会新闻,社会正能量"
     },
     {
+      "raw_hot": 164575,
+      "num": 164575,
+      "word": "告诉孩子这就是不能踩井盖的原因",
+      "onboard_time": 1716355699,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 163909,
       "num": 163909,
       "word": "意外发现瘦大腿的方法",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1716342319,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143431,
-      "num": 143431,
-      "word": "陈萍萍你让我感到陌生",
-      "onboard_time": 1716355098,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 141710,
@@ -1251,12 +1267,28 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 125813,
+      "num": 687365,
+      "word": "鸣潮忌炎",
+      "onboard_time": 1716354679,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125018,
       "num": 125018,
       "word": "背着善宰跑14集",
       "onboard_time": 1716299600,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124410,
+      "num": 124410,
+      "word": "原来商战真的是偷秘方",
+      "onboard_time": 1716355339,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 124008,
@@ -1321,14 +1353,6 @@
       "onboard_time": 1716351018,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 110209,
-      "num": 232050,
-      "word": "鸣潮忌炎",
-      "onboard_time": 1716354679,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 109694,
@@ -1539,6 +1563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 45948,
+      "num": 699477,
+      "word": "他们还在守护袁爷爷的梦",
+      "onboard_time": 1716354621,
+      "rank": 9,
+      "category": "社会新闻,社会正能量"
+    },
+    {
       "raw_hot": 44837,
       "num": 67216,
       "word": "刘亦菲高级珠宝",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1716322570,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 37340,
-      "num": 632607,
-      "word": "他们还在守护袁爷爷的梦",
-      "onboard_time": 1716354621,
-      "rank": 9,
-      "category": "社会新闻,社会正能量"
     },
     {
       "raw_hot": 35184,
