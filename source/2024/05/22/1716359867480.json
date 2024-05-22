@@ -1,0 +1,410 @@
+{
+  "runTime": 1716359867480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1956860,
+        "num": 1956860,
+        "word": "核酸检测费可以退",
+        "onboard_time": 1716358279,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1265950,
+        "num": 1265950,
+        "word": "亚当美甲都卸了",
+        "onboard_time": 1716356780,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74008,
+        "num": 1078264,
+        "word": "去大熊猫家做客",
+        "onboard_time": 1716348621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971166,
+        "num": 971166,
+        "word": "台湾从来不是一个国家也永远不会成为一个国家",
+        "onboard_time": 1716340099,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 729739,
+        "num": 729739,
+        "word": "毛晓彤付辛博大大方方营业",
+        "onboard_time": 1716352040,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628779,
+        "num": 628779,
+        "word": "曝男生被同学用11盆开水烫伤霸凌",
+        "onboard_time": 1716350241,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636313,
+        "num": 626492,
+        "word": "张艺兴回应加入国家话剧院",
+        "onboard_time": 1716354080,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 610474,
+        "num": 610474,
+        "word": "多名炫富网红被封号",
+        "onboard_time": 1716352880,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 484806,
+        "num": 597053,
+        "word": "陈萍萍你让我感到陌生",
+        "onboard_time": 1716355098,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480810,
+        "num": 584362,
+        "word": "短发的刘亦菲",
+        "onboard_time": 1716346579,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 584105,
+        "num": 584105,
+        "word": "云南一中学生被同学砍杀身亡",
+        "onboard_time": 1716352522,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549411,
+        "num": 549411,
+        "word": "生理性喜欢",
+        "onboard_time": 1716353841,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 539720,
+        "num": 539720,
+        "word": "京东被曝严查考勤",
+        "onboard_time": 1716355399,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 231542,
+        "num": 457710,
+        "word": "白海豚妈妈驮着夭折宝宝游了5天",
+        "onboard_time": 1716357619,
+        "rank": 13,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 426341,
+        "num": 426341,
+        "word": "赵丽颖 赵监制",
+        "onboard_time": 1716359418,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361219,
+        "num": 361219,
+        "word": "田田小阿姨删除王红权星相关视频",
+        "onboard_time": 1716346939,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 339955,
+        "num": 339955,
+        "word": "郭麒麟真不是贾静雯的托儿",
+        "onboard_time": 1716356718,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318140,
+        "num": 318140,
+        "word": "亚当到长沙了",
+        "onboard_time": 1716350840,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301627,
+        "num": 301627,
+        "word": "法国人都要来中国买LV",
+        "onboard_time": 1716352941,
+        "rank": 18,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 133997,
+        "num": 278908,
+        "word": "鸣潮忌炎",
+        "onboard_time": 1716354679,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311212,
+        "num": 276599,
+        "word": "当大学生发现高考和端午撞了",
+        "onboard_time": 1716354859,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256586,
+        "num": 256586,
+        "word": "周杰伦三开",
+        "onboard_time": 1716353782,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250598,
+        "num": 250598,
+        "word": "歌手网传第3期歌单",
+        "onboard_time": 1716348858,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245364,
+        "num": 245364,
+        "word": "韩玖诺回应叶灵儿被换角",
+        "onboard_time": 1716349158,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216963,
+        "num": 216963,
+        "word": "姜爷爷谈福宝择偶标准",
+        "onboard_time": 1716357558,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221872,
+        "num": 208827,
+        "word": "王红权星曾称全身没8位数不出门",
+        "onboard_time": 1716340039,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200127,
+        "num": 200127,
+        "word": "江浙沪人是先天留学圣体",
+        "onboard_time": 1716352941,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198288,
+        "num": 198288,
+        "word": "不是现在的难看而是以前的糠太细",
+        "onboard_time": 1716357078,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195517,
+        "num": 195517,
+        "word": "25块一只的烤鸭到底什么来历",
+        "onboard_time": 1716357019,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193207,
+        "num": 193207,
+        "word": "长期保持体重的吃喝习惯",
+        "onboard_time": 1716338840,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 186748,
+        "num": 186748,
+        "word": "杨幂三套造型",
+        "onboard_time": 1716353841,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186432,
+        "num": 186432,
+        "word": "发现小狗抓了一晚上蚊子",
+        "onboard_time": 1716357138,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184623,
+        "num": 184623,
+        "word": "张踩铃晕倒",
+        "onboard_time": 1716345738,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182975,
+        "num": 182975,
+        "word": "付辛博颖儿 好嗑",
+        "onboard_time": 1716359597,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173516,
+        "num": 173516,
+        "word": "半数银行人均薪酬下降",
+        "onboard_time": 1716359418,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 171455,
+        "num": 171455,
+        "word": "职高生代写博士生论文",
+        "onboard_time": 1716342678,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164511,
+        "num": 164511,
+        "word": "娜扎半夜收拾行李",
+        "onboard_time": 1716356238,
+        "rank": 36,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 162920,
+        "num": 162920,
+        "word": "入青云",
+        "onboard_time": 1716358158,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161711,
+        "num": 161711,
+        "word": "上班第一天被上一任同事安慰了",
+        "onboard_time": 1716357799,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159546,
+        "num": 159546,
+        "word": "IVE零一位",
+        "onboard_time": 1716343457,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159180,
+        "num": 159180,
+        "word": "市监局通报女子景区遇天价冰粉",
+        "onboard_time": 1716356899,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155819,
+        "num": 155819,
+        "word": "白鲸帮人类捡拾落水的手机",
+        "onboard_time": 1716358518,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145992,
+        "num": 145992,
+        "word": "iPhone五大痛点",
+        "onboard_time": 1716343938,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143144,
+        "num": 143144,
+        "word": "王红权星",
+        "onboard_time": 1716345978,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 137752,
+        "num": 137752,
+        "word": "TTG为梦之队投票火力全开",
+        "onboard_time": 1716359418,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136029,
+        "num": 136029,
+        "word": "袁爷爷离开我们3年了",
+        "onboard_time": 1716344478,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132082,
+        "num": 132082,
+        "word": "2人殴打水烫同学被刑拘",
+        "onboard_time": 1716354201,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131232,
+        "num": 131232,
+        "word": "很酷 不聊天",
+        "onboard_time": 1716339498,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127076,
+        "num": 127076,
+        "word": "刘亦菲被单膝送花",
+        "onboard_time": 1716348078,
+        "rank": 48,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 109051,
+        "num": 120080,
+        "word": "喜欢你5开播",
+        "onboard_time": 1716356958,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设清洁美丽的世界#"
+    }
+  }
+}

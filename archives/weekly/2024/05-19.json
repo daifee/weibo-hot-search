@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716359118468,
+  "endTime": 1716359867480,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -193,6 +193,14 @@
       "onboard_time": 1716103878,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1956860,
+      "num": 1956860,
+      "word": "核酸检测费可以退",
+      "onboard_time": 1716358279,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1916060,
@@ -985,14 +993,6 @@
       "onboard_time": 1716338840,
       "rank": 10,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 819466,
-      "num": 819466,
-      "word": "核酸检测费可以退",
-      "onboard_time": 1716358279,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 811137,
@@ -2339,6 +2339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 426341,
+      "num": 426341,
+      "word": "赵丽颖 赵监制",
+      "onboard_time": 1716359418,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 425842,
       "num": 425842,
       "word": "老林哭了",
@@ -3035,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339955,
+      "num": 339955,
+      "word": "郭麒麟真不是贾静雯的托儿",
+      "onboard_time": 1716356718,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339618,
       "num": 339618,
       "word": "中方将为伊方救援提供一切必要支持和协助",
@@ -3363,6 +3379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311212,
+      "num": 284824,
+      "word": "当大学生发现高考和端午撞了",
+      "onboard_time": 1716354859,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 308608,
       "num": 308608,
       "word": "考研失败却过上更好的生活",
@@ -3603,14 +3627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284824,
-      "num": 284824,
-      "word": "当大学生发现高考和端午撞了",
-      "onboard_time": 1716354859,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 284514,
       "num": 284514,
       "word": "吃到了蕾哈娜亲手摊的煎饼果子",
@@ -3697,14 +3713,6 @@
       "onboard_time": 1716074834,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279346,
-      "num": 279346,
-      "word": "郭麒麟真不是贾静雯的托儿",
-      "onboard_time": 1716356718,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 278948,
@@ -4395,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231542,
+      "num": 639601,
+      "word": "白海豚妈妈驮着夭折宝宝游了5天",
+      "onboard_time": 1716357619,
+      "rank": 9,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 231074,
       "num": 566233,
       "word": "袁爷爷离开我们3年了",
@@ -4601,6 +4617,14 @@
       "onboard_time": 1716160635,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 216963,
+      "num": 216963,
+      "word": "姜爷爷谈福宝择偶标准",
+      "onboard_time": 1716357558,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216585,
@@ -5299,6 +5323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195517,
+      "num": 195517,
+      "word": "25块一只的烤鸭到底什么来历",
+      "onboard_time": 1716357019,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195227,
       "num": 195227,
       "word": "我在横店打篮球",
@@ -5313,14 +5345,6 @@
       "onboard_time": 1716343217,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194741,
-      "num": 194741,
-      "word": "25块一只的烤鸭到底什么来历",
-      "onboard_time": 1716357019,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 194529,
@@ -5619,14 +5643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187353,
-      "num": 195171,
-      "word": "姜爷爷谈福宝择偶标准",
-      "onboard_time": 1716357558,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186927,
       "num": 186927,
       "word": "张凌赫徐若晗 脑补一本小说",
@@ -5753,6 +5769,14 @@
       "onboard_time": 1716288138,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 182975,
+      "num": 182975,
+      "word": "付辛博颖儿 好嗑",
+      "onboard_time": 1716359597,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 182759,
@@ -6033,6 +6057,14 @@
       "onboard_time": 1716277698,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173516,
+      "num": 173516,
+      "word": "半数银行人均薪酬下降",
+      "onboard_time": 1716359418,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 173421,
@@ -6331,6 +6363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162920,
+      "num": 162920,
+      "word": "入青云",
+      "onboard_time": 1716358158,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162743,
       "num": 162743,
       "word": "什么叫直升机硬着陆",
@@ -6435,12 +6475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158974,
-      "num": 158974,
-      "word": "入青云",
-      "onboard_time": 1716358158,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 159180,
+      "num": 159180,
+      "word": "市监局通报女子景区遇天价冰粉",
+      "onboard_time": 1716356899,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158910,
@@ -6611,6 +6651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155819,
+      "num": 155819,
+      "word": "白鲸帮人类捡拾落水的手机",
+      "onboard_time": 1716358518,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 155591,
       "num": 155591,
       "word": "BLG战胜T1",
@@ -6713,14 +6761,6 @@
       "onboard_time": 1716299420,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 152413,
-      "num": 152413,
-      "word": "白鲸帮人类捡拾落水的手机",
-      "onboard_time": 1716358518,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 152145,
@@ -6937,14 +6977,6 @@
       "onboard_time": 1716079037,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146533,
-      "num": 146533,
-      "word": "市监局通报女子景区遇天价冰粉",
-      "onboard_time": 1716356899,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146487,
@@ -7331,6 +7363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137752,
+      "num": 137752,
+      "word": "TTG为梦之队投票火力全开",
+      "onboard_time": 1716359418,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137635,
       "num": 382675,
       "word": "520还得是兵哥哥的比心最硬核",
@@ -7475,6 +7515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133997,
+      "num": 687365,
+      "word": "鸣潮忌炎",
+      "onboard_time": 1716354679,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133881,
       "num": 133881,
       "word": "Uzi说约不到训练赛",
@@ -7609,14 +7657,6 @@
       "onboard_time": 1716114555,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130834,
-      "num": 639601,
-      "word": "白海豚妈妈驮着夭折宝宝游了5天",
-      "onboard_time": 1716357619,
-      "rank": 9,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 130736,
@@ -7905,14 +7945,6 @@
       "onboard_time": 1716336319,
       "rank": 46,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 125813,
-      "num": 687365,
-      "word": "鸣潮忌炎",
-      "onboard_time": 1716354679,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 125706,
