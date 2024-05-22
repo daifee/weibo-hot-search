@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716399341042,
+  "endTime": 1716402269433,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -11339,6 +11339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41756,
+      "num": 41756,
+      "word": "为什么说女性更应该大口吃肉",
+      "onboard_time": 1716399493,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41509,
       "num": 67162,
       "word": "奶奶把小狗举起对着监控",
@@ -11385,6 +11393,14 @@
       "onboard_time": 1716224294,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39721,
+      "num": 46023,
+      "word": "女子带婴儿到网吧打游戏",
+      "onboard_time": 1716400872,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39026,
@@ -11627,6 +11643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 25736,
+      "num": 30534,
+      "word": "论文查重",
+      "onboard_time": 1716401652,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 25658,
       "num": 25658,
       "word": "薛之谦乌鲁木齐",
@@ -11731,6 +11755,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 18369,
+      "num": 349175,
+      "word": "中国文化遗产有多绝",
+      "onboard_time": 1716382219,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17985,
       "num": 80938,
       "word": "豹警官减肥2个月瘦不了一点",
@@ -11761,14 +11793,6 @@
       "onboard_time": 1716294857,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16144,
-      "num": 349175,
-      "word": "中国文化遗产有多绝",
-      "onboard_time": 1716382219,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16115,
