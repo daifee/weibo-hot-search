@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716410068786,
+  "endTime": 1716412791370,
   "band_list": [
     {
       "raw_hot": 1222790,
@@ -371,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 80580,
+      "num": 80580,
+      "word": "教授建议18到25岁要多谈恋爱",
+      "onboard_time": 1716407710,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73581,
       "num": 83898,
       "word": "B站社区与产品负责人道歉",
@@ -411,14 +419,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 50615,
-      "num": 50615,
-      "word": "教授建议18到25岁要多谈恋爱",
-      "onboard_time": 1716407710,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 46271,
       "num": 665924,
       "word": "我国有345个国家级夜间文化和旅游消费集聚区",
@@ -443,8 +443,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 31423,
-      "num": 31423,
+      "raw_hot": 34192,
+      "num": 34192,
       "word": "有点难为杨幂了",
       "onboard_time": 1716405613,
       "rank": 25,
@@ -457,6 +457,22 @@
       "onboard_time": 1716371298,
       "rank": 40,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 24035,
+      "num": 24035,
+      "word": "美妆圈的信息茧房有多恐怖",
+      "onboard_time": 1716407171,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 22781,
+      "num": 22781,
+      "word": "亚特兰大vs勒沃库森",
+      "onboard_time": 1716405850,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 21285,
@@ -475,28 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20370,
-      "num": 20370,
-      "word": "亚特兰大vs勒沃库森",
-      "onboard_time": 1716405850,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19948,
       "num": 20259,
       "word": "总睡不够是缺维生素D吗",
       "onboard_time": 1716404411,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 19282,
-      "num": 19282,
-      "word": "美妆圈的信息茧房有多恐怖",
-      "onboard_time": 1716407171,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 18917,
@@ -515,12 +515,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15496,
-      "num": 16021,
+      "raw_hot": 17922,
+      "num": 17922,
       "word": "杨幂抠书式还原涂山红红",
       "onboard_time": 1716409031,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16882,
+      "num": 16882,
+      "word": "张若昀演出了范闲的失望",
+      "onboard_time": 1716411790,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12930,
+      "num": 14342,
+      "word": "全国吃辣battle",
+      "onboard_time": 1716409631,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 12843,
+      "num": 14339,
+      "word": "袁隆平生前唱歌唱祖国",
+      "onboard_time": 1716411131,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6224,

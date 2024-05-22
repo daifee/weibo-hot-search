@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716410068786,
+  "endTime": 1716412791370,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -60683,6 +60683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 34192,
+      "num": 34192,
+      "word": "有点难为杨幂了",
+      "onboard_time": 1716405613,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 34164,
       "num": 463135,
       "word": "懂事的520礼物是会自己送上门的",
@@ -60841,14 +60849,6 @@
       "onboard_time": 1714511952,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31423,
-      "num": 31423,
-      "word": "有点难为杨幂了",
-      "onboard_time": 1716405613,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 31376,
@@ -61251,6 +61251,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 24035,
+      "num": 24035,
+      "word": "美妆圈的信息茧房有多恐怖",
+      "onboard_time": 1716407171,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 23732,
       "num": 28351,
       "word": "张凌赫伦敦看秀",
@@ -61305,6 +61313,14 @@
       "onboard_time": 1715970553,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22781,
+      "num": 22781,
+      "word": "亚特兰大vs勒沃库森",
+      "onboard_time": 1716405850,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 22771,
@@ -61475,14 +61491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 20370,
-      "num": 20370,
-      "word": "亚特兰大vs勒沃库森",
-      "onboard_time": 1716405850,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20198,
       "num": 26274,
       "word": "夏天最喜欢的几款香水",
@@ -61521,14 +61529,6 @@
       "onboard_time": 1715879415,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19282,
-      "num": 19282,
-      "word": "美妆圈的信息茧房有多恐怖",
-      "onboard_time": 1716407171,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 19184,
@@ -61619,6 +61619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17922,
+      "num": 17922,
+      "word": "杨幂抠书式还原涂山红红",
+      "onboard_time": 1716409031,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17862,
       "num": 17862,
       "word": "在大学当高中生",
@@ -61657,6 +61665,14 @@
       "onboard_time": 1714508171,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 16882,
+      "num": 16882,
+      "word": "张若昀演出了范闲的失望",
+      "onboard_time": 1716411790,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 16627,
@@ -61721,14 +61737,6 @@
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15496,
-      "num": 16021,
-      "word": "杨幂抠书式还原涂山红红",
-      "onboard_time": 1716409031,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 15361,
@@ -61857,6 +61865,22 @@
       "onboard_time": 1715807230,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12930,
+      "num": 14342,
+      "word": "全国吃辣battle",
+      "onboard_time": 1716409631,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 12843,
+      "num": 14339,
+      "word": "袁隆平生前唱歌唱祖国",
+      "onboard_time": 1716411131,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12633,
