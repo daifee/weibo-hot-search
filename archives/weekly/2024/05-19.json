@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716398194595,
+  "endTime": 1716399341042,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -11691,6 +11691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21185,
+      "num": 132837,
+      "word": "龙生龙凤生凤七仔的儿子疑心重",
+      "onboard_time": 1716397935,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19555,
       "num": 19555,
       "word": "2024MSI",
@@ -11721,14 +11729,6 @@
       "onboard_time": 1716247515,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 18046,
-      "num": 55772,
-      "word": "龙生龙凤生凤七仔的儿子疑心重",
-      "onboard_time": 1716397935,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17985,
@@ -11763,20 +11763,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 16144,
+      "num": 349175,
+      "word": "中国文化遗产有多绝",
+      "onboard_time": 1716382219,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16115,
       "num": 277599,
       "word": "爱在EX30小满大满足",
       "onboard_time": 1716202519,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 15860,
-      "num": 349175,
-      "word": "中国文化遗产有多绝",
-      "onboard_time": 1716382219,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15833,
