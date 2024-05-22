@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716406475676,
+  "endTime": 1716409190666,
   "band_list": [
     {
       "raw_hot": 1222790,
@@ -435,6 +435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 31444,
+      "num": 31444,
+      "word": "教授建议18到25岁要多谈恋爱",
+      "onboard_time": 1716407710,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 28926,
       "num": 30540,
       "word": "田田小阿姨抖音账号搜索不到",
@@ -443,12 +451,20 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 22546,
-      "num": 22546,
+      "raw_hot": 28042,
+      "num": 28042,
       "word": "有点难为杨幂了",
       "onboard_time": 1716405613,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21285,
+      "num": 21285,
+      "word": "人老了苦日子才刚刚开始",
+      "onboard_time": 1716405971,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 21185,
@@ -491,12 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17808,
-      "num": 18875,
-      "word": "人老了苦日子才刚刚开始",
-      "onboard_time": 1716405971,
+      "raw_hot": 17930,
+      "num": 17930,
+      "word": "美妆圈的信息茧房有多恐怖",
+      "onboard_time": 1716407171,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 14294,
+      "num": 16021,
+      "word": "杨幂抠书式还原涂山红红",
+      "onboard_time": 1716409031,
       "rank": 44,
-      "category": "情感"
+      "category": "剧集"
     },
     {
       "raw_hot": 6224,

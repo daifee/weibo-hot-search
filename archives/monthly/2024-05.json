@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716406475676,
+  "endTime": 1716409190666,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -61027,6 +61027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28042,
+      "num": 28042,
+      "word": "有点难为杨幂了",
+      "onboard_time": 1716405613,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27961,
       "num": 334939,
       "word": "杨紫节后开工妆",
@@ -61323,14 +61331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22546,
-      "num": 22546,
-      "word": "有点难为杨幂了",
-      "onboard_time": 1716405613,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 22501,
       "num": 27691,
       "word": "章鱼的智慧",
@@ -61393,6 +61393,14 @@
       "onboard_time": 1715418858,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21285,
+      "num": 21285,
+      "word": "人老了苦日子才刚刚开始",
+      "onboard_time": 1716405971,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 21259,
@@ -61603,20 +61611,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17930,
+      "num": 17930,
+      "word": "美妆圈的信息茧房有多恐怖",
+      "onboard_time": 1716407171,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 17862,
       "num": 17862,
       "word": "在大学当高中生",
       "onboard_time": 1715798291,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17808,
-      "num": 18875,
-      "word": "人老了苦日子才刚刚开始",
-      "onboard_time": 1716405971,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 17671,
@@ -61769,6 +61777,14 @@
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14294,
+      "num": 16021,
+      "word": "杨幂抠书式还原涂山红红",
+      "onboard_time": 1716409031,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 14087,
