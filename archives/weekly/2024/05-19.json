@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716356165436,
+  "endTime": 1716359118468,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -433,6 +433,14 @@
       "onboard_time": 1716111137,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1296287,
+      "num": 1296287,
+      "word": "亚当美甲都卸了",
+      "onboard_time": 1716356780,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1259191,
@@ -979,6 +987,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 819466,
+      "num": 819466,
+      "word": "核酸检测费可以退",
+      "onboard_time": 1716358279,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811137,
       "num": 811137,
       "word": "麦当劳APP崩了",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1716268521,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759464,
+      "num": 759464,
+      "word": "多名炫富网红被封号",
+      "onboard_time": 1716352880,
+      "rank": 14,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 757401,
@@ -1195,12 +1219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 713050,
-      "num": 713050,
-      "word": "多名炫富网红被封号",
-      "onboard_time": 1716352880,
-      "rank": 14,
-      "category": "社会新闻,网红"
+      "raw_hot": 713057,
+      "num": 713057,
+      "word": "张艺兴回应加入国家话剧院",
+      "onboard_time": 1716354080,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 711567,
@@ -1289,14 +1313,6 @@
       "onboard_time": 1716188179,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 687172,
-      "num": 687172,
-      "word": "张艺兴回应加入国家话剧院",
-      "onboard_time": 1716354080,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 684586,
@@ -1563,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589135,
+      "num": 589135,
+      "word": "京东被曝严查考勤",
+      "onboard_time": 1716355399,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 588724,
       "num": 540929,
       "word": "网红130万整形嘴弯眼斜",
@@ -1808,6 +1832,14 @@
       "word": "庆帝皇后挥之不去的恐惧是什么",
       "onboard_time": 1716089177,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 515581,
+      "num": 663930,
+      "word": "陈萍萍你让我感到陌生",
+      "onboard_time": 1716355098,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -2803,14 +2835,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 369371,
-      "num": 290741,
-      "word": "陈萍萍你让我感到陌生",
-      "onboard_time": 1716355098,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 367776,
       "num": 367776,
       "word": "官方通报失联女老师遗体被找到",
@@ -3579,6 +3603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284824,
+      "num": 284824,
+      "word": "当大学生发现高考和端午撞了",
+      "onboard_time": 1716354859,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284514,
       "num": 284514,
       "word": "吃到了蕾哈娜亲手摊的煎饼果子",
@@ -3601,14 +3633,6 @@
       "onboard_time": 1716110597,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 282641,
-      "num": 282641,
-      "word": "当大学生发现高考和端午撞了",
-      "onboard_time": 1716354859,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 282288,
@@ -3673,6 +3697,14 @@
       "onboard_time": 1716074834,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279346,
+      "num": 279346,
+      "word": "郭麒麟真不是贾静雯的托儿",
+      "onboard_time": 1716356718,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 278948,
@@ -3785,14 +3817,6 @@
       "onboard_time": 1716030437,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 272404,
-      "num": 272404,
-      "word": "京东被曝严查考勤",
-      "onboard_time": 1716355399,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 271648,
@@ -4265,6 +4289,14 @@
       "onboard_time": 1716108078,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237203,
+      "num": 237203,
+      "word": "不是现在的难看而是以前的糠太细",
+      "onboard_time": 1716357078,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 237150,
@@ -5115,6 +5147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199174,
+      "num": 199174,
+      "word": "娜扎半夜收拾行李",
+      "onboard_time": 1716356238,
+      "rank": 28,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 199010,
       "num": 199010,
       "word": "哈梅内伊",
@@ -5273,6 +5313,14 @@
       "onboard_time": 1716343217,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194741,
+      "num": 194741,
+      "word": "25块一只的烤鸭到底什么来历",
+      "onboard_time": 1716357019,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 194529,
@@ -5467,6 +5515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191423,
+      "num": 191423,
+      "word": "发现小狗抓了一晚上蚊子",
+      "onboard_time": 1716357138,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191123,
       "num": 191123,
       "word": "520怎么过",
@@ -5561,6 +5617,14 @@
       "onboard_time": 1716131422,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187353,
+      "num": 195171,
+      "word": "姜爷爷谈福宝择偶标准",
+      "onboard_time": 1716357558,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186927,
@@ -5979,6 +6043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173376,
+      "num": 173376,
+      "word": "上班第一天被上一任同事安慰了",
+      "onboard_time": 1716357799,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173150,
       "num": 173150,
       "word": "庆余年作者谈原著改编影视剧",
@@ -6363,6 +6435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158974,
+      "num": 158974,
+      "word": "入青云",
+      "onboard_time": 1716358158,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158910,
       "num": 158910,
       "word": "G社拍的舒淇刘亦菲",
@@ -6635,6 +6715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152413,
+      "num": 152413,
+      "word": "白鲸帮人类捡拾落水的手机",
+      "onboard_time": 1716358518,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 152145,
       "num": 196393,
       "word": "88VIP这波大额券诚意拉满",
@@ -6729,6 +6817,14 @@
       "onboard_time": 1716288678,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149404,
+      "num": 149404,
+      "word": "喜欢你5开播",
+      "onboard_time": 1716356958,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 149337,
@@ -6841,6 +6937,14 @@
       "onboard_time": 1716079037,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146533,
+      "num": 146533,
+      "word": "市监局通报女子景区遇天价冰粉",
+      "onboard_time": 1716356899,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146487,
@@ -7505,6 +7609,14 @@
       "onboard_time": 1716114555,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130834,
+      "num": 639601,
+      "word": "白海豚妈妈驮着夭折宝宝游了5天",
+      "onboard_time": 1716357619,
+      "rank": 9,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 130736,

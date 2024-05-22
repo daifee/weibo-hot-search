@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716356165436,
+  "endTime": 1716359118468,
   "band_list": [
     {
       "raw_hot": 1894524,
@@ -25,6 +25,14 @@
       "onboard_time": 1716346579,
       "rank": 8,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1296287,
+      "num": 1296287,
+      "word": "亚当美甲都卸了",
+      "onboard_time": 1716356780,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1284659,
@@ -163,12 +171,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 819466,
+      "num": 819466,
+      "word": "核酸检测费可以退",
+      "onboard_time": 1716358279,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811137,
       "num": 811137,
       "word": "麦当劳APP崩了",
       "onboard_time": 1716346698,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 759464,
+      "num": 759464,
+      "word": "多名炫富网红被封号",
+      "onboard_time": 1716352880,
+      "rank": 14,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 720833,
@@ -179,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 713050,
-      "num": 713050,
-      "word": "多名炫富网红被封号",
-      "onboard_time": 1716352880,
-      "rank": 14,
-      "category": "社会新闻,网红"
+      "raw_hot": 713057,
+      "num": 713057,
+      "word": "张艺兴回应加入国家话剧院",
+      "onboard_time": 1716354080,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 703072,
@@ -193,14 +217,6 @@
       "onboard_time": 1716353782,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 687172,
-      "num": 687172,
-      "word": "张艺兴回应加入国家话剧院",
-      "onboard_time": 1716354080,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 662901,
@@ -249,6 +265,14 @@
       "onboard_time": 1716342258,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 589135,
+      "num": 589135,
+      "word": "京东被曝严查考勤",
+      "onboard_time": 1716355399,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 584729,
@@ -305,6 +329,14 @@
       "onboard_time": 1716297620,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 515581,
+      "num": 663930,
+      "word": "陈萍萍你让我感到陌生",
+      "onboard_time": 1716355098,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 488870,
@@ -475,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 369371,
-      "num": 290741,
-      "word": "陈萍萍你让我感到陌生",
-      "onboard_time": 1716355098,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 363923,
       "num": 363923,
       "word": "武功山失温遇难女孩同伴曾打电话求救",
@@ -595,8 +619,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 282641,
-      "num": 282641,
+      "raw_hot": 284824,
+      "num": 284824,
       "word": "当大学生发现高考和端午撞了",
       "onboard_time": 1716354859,
       "rank": 32,
@@ -611,20 +635,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279346,
+      "num": 279346,
+      "word": "郭麒麟真不是贾静雯的托儿",
+      "onboard_time": 1716356718,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275221,
       "num": 246997,
       "word": "iPhone五大痛点",
       "onboard_time": 1716343938,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 272404,
-      "num": 272404,
-      "word": "京东被曝严查考勤",
-      "onboard_time": 1716355399,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 261909,
@@ -713,6 +737,14 @@
       "onboard_time": 1716284779,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237203,
+      "num": 237203,
+      "word": "不是现在的难看而是以前的糠太细",
+      "onboard_time": 1716357078,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 232340,
@@ -827,12 +859,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 199174,
+      "num": 199174,
+      "word": "娜扎半夜收拾行李",
+      "onboard_time": 1716356238,
+      "rank": 28,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 195182,
       "num": 195182,
       "word": "王倦编剧",
       "onboard_time": 1716343217,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194741,
+      "num": 194741,
+      "word": "25块一只的烤鸭到底什么来历",
+      "onboard_time": 1716357019,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 194333,
@@ -859,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191423,
+      "num": 191423,
+      "word": "发现小狗抓了一晚上蚊子",
+      "onboard_time": 1716357138,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189829,
       "num": 189829,
       "word": "为什么民宿越来越不流行了",
@@ -881,6 +937,14 @@
       "onboard_time": 1716353121,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187353,
+      "num": 195171,
+      "word": "姜爷爷谈福宝择偶标准",
+      "onboard_time": 1716357558,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186727,
@@ -961,6 +1025,14 @@
       "onboard_time": 1716279439,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173376,
+      "num": 173376,
+      "word": "上班第一天被上一任同事安慰了",
+      "onboard_time": 1716357799,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 172393,
@@ -1059,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158974,
+      "num": 158974,
+      "word": "入青云",
+      "onboard_time": 1716358158,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156288,
       "num": 188446,
       "word": "HPV疫苗接种成本降低",
@@ -1099,6 +1179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 152413,
+      "num": 152413,
+      "word": "白鲸帮人类捡拾落水的手机",
+      "onboard_time": 1716358518,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 151731,
       "num": 151731,
       "word": "张颂文说小白不好管了",
@@ -1112,6 +1200,22 @@
       "word": "武汉现大学毕业答辩真香现场",
       "onboard_time": 1716351620,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149404,
+      "num": 149404,
+      "word": "喜欢你5开播",
+      "onboard_time": 1716356958,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146533,
+      "num": 146533,
+      "word": "市监局通报女子景区遇天价冰粉",
+      "onboard_time": 1716356899,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1201,6 +1305,14 @@
       "onboard_time": 1716336980,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130834,
+      "num": 639601,
+      "word": "白海豚妈妈驮着夭折宝宝游了5天",
+      "onboard_time": 1716357619,
+      "rank": 9,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 130200,
