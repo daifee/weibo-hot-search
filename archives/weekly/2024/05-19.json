@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716402269433,
+  "endTime": 1716403022340,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -11067,6 +11067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60505,
+      "num": 60505,
+      "word": "女子带婴儿到网吧打游戏",
+      "onboard_time": 1716400872,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59777,
       "num": 59777,
       "word": "WE官宣Zoom加入",
@@ -11395,14 +11403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39721,
-      "num": 46023,
-      "word": "女子带婴儿到网吧打游戏",
-      "onboard_time": 1716400872,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39026,
       "num": 47325,
       "word": "杭州机场打车已经是nextlevel了",
@@ -11417,6 +11417,14 @@
       "onboard_time": 1716091216,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 38525,
+      "num": 38525,
+      "word": "论文查重",
+      "onboard_time": 1716401652,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 38158,
@@ -11641,14 +11649,6 @@
       "onboard_time": 1716074233,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 25736,
-      "num": 30534,
-      "word": "论文查重",
-      "onboard_time": 1716401652,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 25658,

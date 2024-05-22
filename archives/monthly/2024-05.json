@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716402269433,
+  "endTime": 1716403022340,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -58931,6 +58931,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 60505,
+      "num": 60505,
+      "word": "女子带婴儿到网吧打游戏",
+      "onboard_time": 1716400872,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60333,
       "num": 371004,
       "word": "雪王珍宝珠520官宣",
@@ -60355,14 +60363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39721,
-      "num": 46023,
-      "word": "女子带婴儿到网吧打游戏",
-      "onboard_time": 1716400872,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39548,
       "num": 107145,
       "word": "安徽的浪漫和诗词里一样",
@@ -60433,6 +60433,14 @@
       "onboard_time": 1715283191,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38525,
+      "num": 38525,
+      "word": "论文查重",
+      "onboard_time": 1716401652,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 38365,
@@ -61089,14 +61097,6 @@
       "onboard_time": 1715019252,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25736,
-      "num": 30534,
-      "word": "论文查重",
-      "onboard_time": 1716401652,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 25694,
