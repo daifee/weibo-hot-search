@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716384869716,
+  "endTime": 1716387452529,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -715,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2284336,
+      "num": 2284336,
+      "word": "杨鸣被驱逐",
+      "onboard_time": 1716384499,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2275807,
       "num": 471620,
       "word": "森林北回应",
@@ -1088,6 +1096,14 @@
       "word": "擦边球",
       "onboard_time": 1715431698,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1924480,
+      "num": 1924480,
+      "word": "辽宁男篮CBA三连冠",
+      "onboard_time": 1716385641,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -6731,6 +6747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 803207,
+      "num": 803207,
+      "word": "杨幂说争取不让动漫粉失望",
+      "onboard_time": 1716383299,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 803158,
       "num": 803158,
       "word": "内蒙古1.2万切糕事件反转",
@@ -7113,6 +7137,14 @@
       "onboard_time": 1714615158,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770271,
+      "num": 694712,
+      "word": "庆帝 我要diss你",
+      "onboard_time": 1716384499,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 769314,
@@ -8179,6 +8211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703758,
+      "num": 703758,
+      "word": "女子姐弟恋差17岁只比准婆婆小1岁",
+      "onboard_time": 1716382458,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703730,
       "num": 359902,
       "word": "研究称胖男人生育力更差",
@@ -8691,12 +8731,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 681610,
-      "num": 681610,
-      "word": "杨鸣被驱逐",
-      "onboard_time": 1716384499,
-      "rank": 5,
-      "category": "体育"
+      "raw_hot": 681586,
+      "num": 681586,
+      "word": "庆帝赶紧死",
+      "onboard_time": 1716385700,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 681453,
@@ -9212,7 +9252,7 @@
     },
     {
       "raw_hot": 656345,
-      "num": 236272,
+      "num": 302432,
       "word": "我让老公经历了断崖式离婚",
       "onboard_time": 1716381678,
       "rank": 21,
@@ -9449,6 +9489,14 @@
       "onboard_time": 1715576782,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 647712,
+      "num": 647712,
+      "word": "中疾控发布重大疾病预警",
+      "onboard_time": 1716386479,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647158,
@@ -9809,14 +9857,6 @@
       "onboard_time": 1715430139,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 631527,
-      "num": 631527,
-      "word": "杨幂说争取不让动漫粉失望",
-      "onboard_time": 1716383299,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 631355,
@@ -10273,6 +10313,14 @@
       "onboard_time": 1714990518,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 612879,
+      "num": 612879,
+      "word": "张凌赫徐若晗车内吻戏",
+      "onboard_time": 1716384319,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 612869,
@@ -13155,6 +13203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500873,
+      "num": 500873,
+      "word": "杨幂说和郭晓婷很难对视",
+      "onboard_time": 1716384619,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500606,
       "num": 500606,
       "word": "庆余年 这不是家宴是血淋淋的祭台",
@@ -15499,6 +15555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436669,
+      "num": 390199,
+      "word": "亚当 甘露寺美甲",
+      "onboard_time": 1716382758,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436385,
       "num": 254224,
       "word": "星船 out",
@@ -17499,6 +17563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397108,
+      "num": 397108,
+      "word": "郭艾伦直播",
+      "onboard_time": 1716386600,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 396830,
       "num": 396830,
       "word": "我的阿勒泰 让我演两集",
@@ -17753,14 +17825,6 @@
       "onboard_time": 1715588779,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 390199,
-      "num": 390199,
-      "word": "亚当 甘露寺美甲",
-      "onboard_time": 1716382758,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 390006,
@@ -20779,6 +20843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 331272,
+      "num": 283724,
+      "word": "杨幂挽龚俊出场",
+      "onboard_time": 1716384319,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331227,
       "num": 193978,
       "word": "向太夸郭碧婷是股清流",
@@ -21769,14 +21841,6 @@
       "onboard_time": 1714563078,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 314182,
-      "num": 314182,
-      "word": "张凌赫徐若晗车内吻戏",
-      "onboard_time": 1716384319,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 314124,
@@ -24307,14 +24371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 276401,
-      "num": 190967,
-      "word": "杨幂说和郭晓婷很难对视",
-      "onboard_time": 1716384619,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276338,
       "num": 276338,
       "word": "最近四川人指甲都黄了",
@@ -25289,14 +25345,6 @@
       "onboard_time": 1715863219,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264098,
-      "num": 189707,
-      "word": "庆帝 我要diss你",
-      "onboard_time": 1716384499,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 263947,
@@ -26393,14 +26441,6 @@
       "onboard_time": 1715086759,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251754,
-      "num": 604307,
-      "word": "女子姐弟恋差17岁只比准婆婆小1岁",
-      "onboard_time": 1716382458,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251670,
@@ -32411,6 +32451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204837,
+      "num": 204837,
+      "word": "左邓读信",
+      "onboard_time": 1716384919,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204796,
       "num": 204796,
       "word": "BLG选手深夜骑行",
@@ -35811,6 +35859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192307,
+      "num": 192307,
+      "word": "边伯贤澳门",
+      "onboard_time": 1716384800,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192251,
       "num": 192251,
       "word": "鹿晗也去吃淄博烧烤了",
@@ -36456,6 +36512,14 @@
       "word": "庄智渊3比0林昀儒",
       "onboard_time": 1714828759,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189776,
+      "num": 189776,
+      "word": "赵继伟采访",
+      "onboard_time": 1716386899,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -38483,6 +38547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 180327,
+      "num": 180327,
+      "word": "中医认为半月痕是五脏六腑的警示器",
+      "onboard_time": 1716386299,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 180295,
       "num": 180295,
       "word": "涵艺爆料Ale加入AL",
@@ -40491,6 +40563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171470,
+      "num": 171470,
+      "word": "庆余年15集",
+      "onboard_time": 1716387079,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171417,
       "num": 171417,
       "word": "樱花树下的刘浩存",
@@ -40633,6 +40713,14 @@
       "onboard_time": 1716038779,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170788,
+      "num": 183701,
+      "word": "马立奥现场看CBA总决赛",
+      "onboard_time": 1716382698,
+      "rank": 29,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 170782,
@@ -41193,6 +41281,14 @@
       "onboard_time": 1715153060,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168020,
+      "num": 168020,
+      "word": "罗云熙 不要活在任何人的口舌之中",
+      "onboard_time": 1716385340,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 167984,
@@ -42715,14 +42811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161560,
-      "num": 183701,
-      "word": "马立奥现场看CBA总决赛",
-      "onboard_time": 1716382698,
-      "rank": 29,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 161540,
       "num": 149130,
       "word": "阿里通义大模型降价97%",
@@ -42969,6 +43057,14 @@
       "onboard_time": 1714708039,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 160427,
+      "num": 160427,
+      "word": "赖御史太惨",
+      "onboard_time": 1716386059,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 160385,
@@ -44232,6 +44328,14 @@
       "word": "给李诗恩封神",
       "onboard_time": 1716217940,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154508,
+      "num": 154508,
+      "word": "林更新偷了赵丽颖的图",
+      "onboard_time": 1716387260,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -47355,6 +47459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141343,
+      "num": 141343,
+      "word": "CBA 裁判",
+      "onboard_time": 1716384800,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141341,
       "num": 141341,
       "word": "真没修图不是AI",
@@ -49027,14 +49139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134135,
-      "num": 134135,
-      "word": "边伯贤澳门",
-      "onboard_time": 1716384800,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 134118,
       "num": 134118,
       "word": "耙耙柑的耙字怎么读",
@@ -50673,14 +50777,6 @@
       "onboard_time": 1714718479,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127127,
-      "num": 127127,
-      "word": "CBA 裁判",
-      "onboard_time": 1716384800,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 127067,
@@ -54779,6 +54875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106972,
+      "num": 1936594,
+      "word": "我国有345个国家级夜间文化和旅游消费集聚区",
+      "onboard_time": 1716382399,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106945,
       "num": 106945,
       "word": "让人瞬间理解领养代替购买",
@@ -56835,14 +56939,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 86346,
-      "num": 863296,
-      "word": "我国有345个国家级夜间文化和旅游消费集聚区",
-      "onboard_time": 1716382399,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86307,
       "num": 86307,
       "word": "济南偶遇吴倩",
@@ -57129,6 +57225,14 @@
       "onboard_time": 1714790177,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80769,
+      "num": 651755,
+      "word": "主播扎堆背后的流量之祸",
+      "onboard_time": 1716385760,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80620,

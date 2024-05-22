@@ -1,0 +1,410 @@
+{
+  "runTime": 1716387452529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2284336,
+        "num": 2284336,
+        "word": "杨鸣被驱逐",
+        "onboard_time": 1716384499,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2145540,
+        "num": 2145540,
+        "word": "庆余年 杀疯了",
+        "onboard_time": 1716381318,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106972,
+        "num": 1936594,
+        "word": "我国有345个国家级夜间文化和旅游消费集聚区",
+        "onboard_time": 1716382399,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1924480,
+        "num": 1924480,
+        "word": "辽宁男篮CBA三连冠",
+        "onboard_time": 1716385641,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 803207,
+        "num": 803207,
+        "word": "杨幂说争取不让动漫粉失望",
+        "onboard_time": 1716383299,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 703758,
+        "num": 703758,
+        "word": "女子姐弟恋差17岁只比准婆婆小1岁",
+        "onboard_time": 1716382458,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770271,
+        "num": 694712,
+        "word": "庆帝 我要diss你",
+        "onboard_time": 1716384499,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 681586,
+        "num": 681586,
+        "word": "庆帝赶紧死",
+        "onboard_time": 1716385700,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 657325,
+        "num": 657325,
+        "word": "轻断食一天吃了11根玉米",
+        "onboard_time": 1716375978,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80769,
+        "num": 651755,
+        "word": "主播扎堆背后的流量之祸",
+        "onboard_time": 1716385760,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673283,
+        "num": 651232,
+        "word": "亚当吃米粉",
+        "onboard_time": 1716382878,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 647712,
+        "num": 647712,
+        "word": "中疾控发布重大疾病预警",
+        "onboard_time": 1716386479,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612879,
+        "num": 612879,
+        "word": "张凌赫徐若晗车内吻戏",
+        "onboard_time": 1716384319,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 604771,
+        "num": 604771,
+        "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
+        "onboard_time": 1716372018,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554909,
+        "num": 554909,
+        "word": "安室透 安陵容",
+        "onboard_time": 1716383477,
+        "rank": 14,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 500873,
+        "num": 500873,
+        "word": "杨幂说和郭晓婷很难对视",
+        "onboard_time": 1716384619,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484485,
+        "num": 484485,
+        "word": "徐海乔宣璐手拉手",
+        "onboard_time": 1716363500,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397108,
+        "num": 397108,
+        "word": "郭艾伦直播",
+        "onboard_time": 1716386600,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375908,
+        "num": 375908,
+        "word": "微信扫一扫加好友有讲究吗",
+        "onboard_time": 1716370038,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 303711,
+        "num": 303711,
+        "word": "拼多多总市值超越阿里巴巴",
+        "onboard_time": 1716378977,
+        "rank": 19,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 467166,
+        "num": 302432,
+        "word": "我让老公经历了断崖式离婚",
+        "onboard_time": 1716381678,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436669,
+        "num": 295007,
+        "word": "亚当 甘露寺美甲",
+        "onboard_time": 1716382758,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406147,
+        "num": 290589,
+        "word": "付辛博颖儿的恋爱合同",
+        "onboard_time": 1716373758,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331272,
+        "num": 283724,
+        "word": "杨幂挽龚俊出场",
+        "onboard_time": 1716384319,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283167,
+        "num": 283167,
+        "word": "孙千身材",
+        "onboard_time": 1716377297,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266094,
+        "num": 266094,
+        "word": "CBA",
+        "onboard_time": 1716379218,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218995,
+        "num": 218995,
+        "word": "CBA总决赛",
+        "onboard_time": 1716384919,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204837,
+        "num": 204837,
+        "word": "左邓读信",
+        "onboard_time": 1716384919,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203773,
+        "num": 203773,
+        "word": "赵丽颖林更新2个人3个耶",
+        "onboard_time": 1716378497,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112286,
+        "num": 197315,
+        "word": "中方回应梵蒂冈希望在北京设办事处",
+        "onboard_time": 1716368719,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195753,
+        "num": 195753,
+        "word": "田田小阿姨抖音账号搜索不到",
+        "onboard_time": 1716371298,
+        "rank": 30,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 192307,
+        "num": 192307,
+        "word": "边伯贤澳门",
+        "onboard_time": 1716384800,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189776,
+        "num": 189776,
+        "word": "赵继伟采访",
+        "onboard_time": 1716386899,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187799,
+        "num": 187799,
+        "word": "明显感觉到大学逐渐高中化",
+        "onboard_time": 1716370879,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180327,
+        "num": 180327,
+        "word": "中医认为半月痕是五脏六腑的警示器",
+        "onboard_time": 1716386299,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171470,
+        "num": 171470,
+        "word": "庆余年15集",
+        "onboard_time": 1716387079,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171452,
+        "num": 171452,
+        "word": "HPV疫苗价格大跳水",
+        "onboard_time": 1716362779,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170788,
+        "num": 170788,
+        "word": "马立奥现场看CBA总决赛",
+        "onboard_time": 1716382698,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 168020,
+        "num": 168020,
+        "word": "罗云熙 不要活在任何人的口舌之中",
+        "onboard_time": 1716385340,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162537,
+        "num": 162537,
+        "word": "短发的刘亦菲",
+        "onboard_time": 1716346579,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 160427,
+        "num": 160427,
+        "word": "赖御史太惨",
+        "onboard_time": 1716386059,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154508,
+        "num": 154508,
+        "word": "林更新偷了赵丽颖的图",
+        "onboard_time": 1716387260,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153521,
+        "num": 153521,
+        "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
+        "onboard_time": 1716381197,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147325,
+        "num": 147325,
+        "word": "李惠利和IVE合拍",
+        "onboard_time": 1716376278,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141413,
+        "num": 141413,
+        "word": "原来膝盖的形状和脸型一样",
+        "onboard_time": 1716383299,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 141343,
+        "num": 141343,
+        "word": "CBA 裁判",
+        "onboard_time": 1716384800,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138747,
+        "num": 138747,
+        "word": "aespa造型",
+        "onboard_time": 1716376938,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124857,
+        "num": 124857,
+        "word": "眼泪女王新婚纱照",
+        "onboard_time": 1716381318,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124510,
+        "num": 124510,
+        "word": "关晓彤出道23年归来才27岁",
+        "onboard_time": 1716372739,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111598,
+        "num": 122048,
+        "word": "辽宁男篮犯规",
+        "onboard_time": 1716384438,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设清洁美丽的世界#"
+    }
+  }
+}
