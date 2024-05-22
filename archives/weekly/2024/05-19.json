@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716391251019,
+  "endTime": 1716392057430,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -1187,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 782489,
+      "num": 631011,
+      "word": "五月天演唱会回应假唱争议",
+      "onboard_time": 1716388880,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 779738,
       "num": 261812,
       "word": "女生一定要远离习惯性无助",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1716268521,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 765076,
-      "num": 631011,
-      "word": "五月天演唱会回应假唱争议",
-      "onboard_time": 1716388880,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 759464,
@@ -1313,6 +1313,14 @@
       "onboard_time": 1716198140,
       "rank": 5,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 745181,
+      "num": 576211,
+      "word": "六公主回应被认成亚当",
+      "onboard_time": 1716389541,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 739665,
@@ -2083,14 +2091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 530993,
-      "num": 530993,
-      "word": "六公主回应被认成亚当",
-      "onboard_time": 1716389541,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 529341,
       "num": 504701,
       "word": "刘宪华5年后重返综艺",
@@ -2435,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466618,
+      "num": 439805,
+      "word": "范闲的失败是角色的成功",
+      "onboard_time": 1716387800,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 465768,
       "num": 465768,
       "word": "五年了 还得是张若昀",
@@ -2603,20 +2611,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442336,
+      "num": 243450,
+      "word": "8岁男童4小时吃光整瓶60粒叶黄素",
+      "onboard_time": 1716390081,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441685,
       "num": 441685,
       "word": "张杰唱了默",
       "onboard_time": 1716042319,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 439805,
-      "num": 439805,
-      "word": "范闲的失败是角色的成功",
-      "onboard_time": 1716387800,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 439375,
@@ -3361,14 +3369,6 @@
       "onboard_time": 1716376698,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 356207,
-      "num": 223086,
-      "word": "8岁男童4小时吃光整瓶60粒叶黄素",
-      "onboard_time": 1716390081,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353284,
@@ -4537,6 +4537,14 @@
       "onboard_time": 1716202638,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260532,
+      "num": 260532,
+      "word": "B站取消播放时长指标外显改版",
+      "onboard_time": 1716391460,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 260099,
@@ -6643,6 +6651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183300,
+      "num": 183300,
+      "word": "罗云熙直播说羡慕刘宇宁",
+      "onboard_time": 1716391999,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183024,
       "num": 183024,
       "word": "舒淇被挤到耸肩",
@@ -6731,6 +6747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180017,
+      "num": 180017,
+      "word": "庆帝个老登",
+      "onboard_time": 1716389481,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179975,
       "num": 179975,
       "word": "王一博到达桂林",
@@ -6801,6 +6825,14 @@
       "onboard_time": 1716279680,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177945,
+      "num": 177945,
+      "word": "内塔尼亚胡称美国一年2万人饿死",
+      "onboard_time": 1716390200,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 177895,
@@ -6971,14 +7003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 173607,
-      "num": 173607,
-      "word": "内塔尼亚胡称美国一年2万人饿死",
-      "onboard_time": 1716390200,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 173421,
       "num": 173421,
       "word": "赵一博何浩楠",
@@ -7073,14 +7097,6 @@
       "onboard_time": 1716382698,
       "rank": 29,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 170000,
-      "num": 170000,
-      "word": "庆帝个老登",
-      "onboard_time": 1716389481,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 169802,
@@ -7771,6 +7787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 153812,
+      "num": 153812,
+      "word": "怦然4被霸凌的女孩和温暖的他",
+      "onboard_time": 1716391099,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153811,
       "num": 153811,
       "word": "中通客车涨停预言者身份公开",
@@ -7987,6 +8011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148321,
+      "num": 148321,
+      "word": "李晓旭 受伤祭旗",
+      "onboard_time": 1716391220,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148266,
       "num": 148266,
       "word": "对未来不确定是年轻人不生育甚至不结婚的重要原因",
@@ -8193,6 +8225,14 @@
       "onboard_time": 1716207918,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144512,
+      "num": 144512,
+      "word": "B站社区与产品负责人道歉",
+      "onboard_time": 1716390740,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 144402,
@@ -8652,7 +8692,7 @@
     },
     {
       "raw_hot": 134680,
-      "num": 134680,
+      "num": 135835,
       "word": "张镇麟采访",
       "onboard_time": 1716389959,
       "rank": 43,
@@ -8785,14 +8825,6 @@
       "onboard_time": 1716169338,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 132035,
-      "num": 132035,
-      "word": "B站社区与产品负责人道歉",
-      "onboard_time": 1716390740,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 131968,
@@ -8977,14 +9009,6 @@
       "onboard_time": 1716268818,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127986,
-      "num": 127986,
-      "word": "怦然4被霸凌的女孩和温暖的他",
-      "onboard_time": 1716391099,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 127846,
@@ -9172,7 +9196,7 @@
     },
     {
       "raw_hot": 125947,
-      "num": 125947,
+      "num": 135987,
       "word": "伊能静好会写",
       "onboard_time": 1716388399,
       "rank": 48,
@@ -10017,14 +10041,6 @@
       "onboard_time": 1716306918,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109638,
-      "num": 109638,
-      "word": "李晓旭 受伤祭旗",
-      "onboard_time": 1716391220,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 109467,
