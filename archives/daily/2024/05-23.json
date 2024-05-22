@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716395983209,
+  "endTime": 1716398194595,
   "band_list": [
     {
       "raw_hot": 1222790,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286179,
+      "num": 286179,
+      "word": "李承泽未承受半分恩泽",
+      "onboard_time": 1716395356,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235777,
       "num": 235777,
       "word": "杨幂说争取不让动漫粉失望",
@@ -203,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131713,
-      "num": 131713,
-      "word": "李承泽未承受半分恩泽",
-      "onboard_time": 1716395356,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130252,
       "num": 130252,
       "word": "这一刻范闲像有家长撑腰的孩子",
@@ -227,7 +227,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122957,
+      "raw_hot": 123579,
       "num": 122957,
       "word": "同年同月同日生的鉴察院双子星",
       "onboard_time": 1716394517,
@@ -409,6 +409,22 @@
       "onboard_time": 1716392538,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 18046,
+      "num": 55772,
+      "word": "龙生龙凤生凤七仔的儿子疑心重",
+      "onboard_time": 1716397935,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15860,
+      "num": 349175,
+      "word": "中国文化遗产有多绝",
+      "onboard_time": 1716382219,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
