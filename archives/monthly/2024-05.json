@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716345099720,
+  "endTime": 1716345740553,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1107,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1894524,
+      "num": 1894524,
+      "word": "台湾从来不是一个国家也永远不会成为一个国家",
+      "onboard_time": 1716340099,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1889763,
       "num": 582222,
       "word": "海来阿木请神请到了杨坤",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1716181165,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1771860,
-      "num": 1771860,
-      "word": "台湾从来不是一个国家也永远不会成为一个国家",
-      "onboard_time": 1716340099,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1771069,
@@ -8371,6 +8371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 683412,
+      "num": 683412,
+      "word": "王红权星曾称全身没8位数不出门",
+      "onboard_time": 1716340039,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 683355,
       "num": 456892,
       "word": "朴志效说队内都是商业关系",
@@ -8617,14 +8625,6 @@
       "onboard_time": 1714956741,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 670756,
-      "num": 448729,
-      "word": "王红权星曾称全身没8位数不出门",
-      "onboard_time": 1716340039,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 670508,
@@ -10307,6 +10307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 595618,
+      "num": 360047,
+      "word": "叶灵儿",
+      "onboard_time": 1714973900,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 595106,
       "num": 595106,
       "word": "黄好厉害",
@@ -11931,14 +11939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 527700,
-      "num": 358397,
-      "word": "叶灵儿",
-      "onboard_time": 1714973900,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 527466,
       "num": 509244,
       "word": "迪丽热巴旗袍",
@@ -12233,6 +12233,14 @@
       "onboard_time": 1715855476,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514591,
+      "num": 279585,
+      "word": "职高生代写博士生论文",
+      "onboard_time": 1716342678,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 514417,
@@ -13795,14 +13803,6 @@
       "category": "汽车,社会新闻"
     },
     {
-      "raw_hot": 468586,
-      "num": 279585,
-      "word": "职高生代写博士生论文",
-      "onboard_time": 1716342678,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 468291,
       "num": 468291,
       "word": "杨怡",
@@ -14457,6 +14457,14 @@
       "onboard_time": 1715570120,
       "rank": 38,
       "category": "自然"
+    },
+    {
+      "raw_hot": 452184,
+      "num": 277182,
+      "word": "闲泽党已死",
+      "onboard_time": 1716341238,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 452056,
@@ -15467,14 +15475,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 425644,
-      "num": 277182,
-      "word": "闲泽党已死",
-      "onboard_time": 1716341238,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 425636,
       "num": 425636,
       "word": "成都吉普",
@@ -16051,6 +16051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414291,
+      "num": 273087,
+      "word": "毛晓彤垂耳兔公主",
+      "onboard_time": 1716344478,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414262,
       "num": 414262,
       "word": "天价彩礼不断衍生出新变种",
@@ -16145,6 +16153,14 @@
       "onboard_time": 1715091981,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 413143,
+      "num": 274017,
+      "word": "TFBOYS给五月天送花篮",
+      "onboard_time": 1716341598,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 413139,
@@ -16313,14 +16329,6 @@
       "onboard_time": 1716302060,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409413,
-      "num": 274017,
-      "word": "TFBOYS给五月天送花篮",
-      "onboard_time": 1716341598,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 409155,
@@ -18513,14 +18521,6 @@
       "onboard_time": 1714631357,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 362859,
-      "num": 238586,
-      "word": "毛晓彤垂耳兔公主",
-      "onboard_time": 1716344478,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 362739,
@@ -24795,6 +24795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261909,
+      "num": 253386,
+      "word": "长期晚上不吃饭身体会发生什么",
+      "onboard_time": 1716344478,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 261873,
       "num": 107658,
       "word": "贡茶发文谴责外卖空包的行为",
@@ -26275,6 +26283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245411,
+      "num": 245411,
+      "word": "iPhone五大痛点",
+      "onboard_time": 1716343938,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245230,
       "num": 490460,
       "word": "女朋友效应",
@@ -27043,14 +27059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237148,
-      "num": 237148,
-      "word": "iPhone五大痛点",
-      "onboard_time": 1716343938,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 237142,
       "num": 237142,
       "word": "李耕耘古装",
@@ -27609,6 +27617,14 @@
       "onboard_time": 1714709239,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232340,
+      "num": 256715,
+      "word": "苏林当选越南国家主席",
+      "onboard_time": 1716344719,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 232262,
@@ -34163,6 +34179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194333,
+      "num": 194333,
+      "word": "你知道增加的体重有多难减掉吗",
+      "onboard_time": 1716345138,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 194329,
       "num": 153885,
       "word": "KTV感",
@@ -34537,6 +34561,14 @@
       "onboard_time": 1716273080,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193282,
+      "num": 193282,
+      "word": "图书馆也癫了",
+      "onboard_time": 1716341418,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 193224,
@@ -36067,14 +36099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 187139,
-      "num": 187139,
-      "word": "图书馆也癫了",
-      "onboard_time": 1716341418,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187092,
       "num": 185846,
       "word": "时代少年团 天津",
@@ -37121,14 +37145,6 @@
       "onboard_time": 1715480897,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181759,
-      "num": 240089,
-      "word": "苏林当选越南国家主席",
-      "onboard_time": 1716344719,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 181757,
@@ -39411,6 +39427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170876,
+      "num": 283904,
+      "word": "今天听听它们的独白",
+      "onboard_time": 1716344778,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170792,
       "num": 170792,
       "word": "用了很久才知道隐藏功能破防了",
@@ -39729,14 +39753,6 @@
       "onboard_time": 1715573000,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169159,
-      "num": 169159,
-      "word": "长期晚上不吃饭身体会发生什么",
-      "onboard_time": 1716344478,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 169152,
@@ -40371,6 +40387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166258,
+      "num": 283951,
+      "word": "天上有2颗星在说好好吃饭健康长大",
+      "onboard_time": 1716343518,
+      "rank": 9,
+      "category": "社会新闻,社会正能量"
+    },
+    {
       "raw_hot": 166224,
       "num": 166224,
       "word": "十个勤天小卖铺粉丝突破百万",
@@ -40529,14 +40553,6 @@
       "onboard_time": 1714730599,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165558,
-      "num": 165558,
-      "word": "今天听听它们的独白",
-      "onboard_time": 1716344778,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165423,
@@ -40913,6 +40929,14 @@
       "onboard_time": 1715644398,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163909,
+      "num": 163909,
+      "word": "意外发现瘦大腿的方法",
+      "onboard_time": 1716341898,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 163904,
@@ -42897,14 +42921,6 @@
       "onboard_time": 1715490979,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154353,
-      "num": 154353,
-      "word": "意外发现瘦大腿的方法",
-      "onboard_time": 1716341898,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 154342,
@@ -49403,6 +49419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126012,
+      "num": 126012,
+      "word": "步行者vs凯尔特人",
+      "onboard_time": 1716343578,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125855,
       "num": 125855,
       "word": "墨西哥jeans回应newjeans抄袭",
@@ -54547,14 +54571,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 93889,
-      "num": 283951,
-      "word": "天上有2颗星在说好好吃饭健康长大",
-      "onboard_time": 1716343518,
-      "rank": 9,
-      "category": "社会新闻,社会正能量"
-    },
-    {
       "raw_hot": 93886,
       "num": 93886,
       "word": "这4种菜被列入致癌名单",
@@ -56819,6 +56835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60550,
+      "num": 210975,
+      "word": "冷知识CHA竟然是世界语言",
+      "onboard_time": 1716345017,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60520,
       "num": 317719,
       "word": "姐姐美白易如反掌",
@@ -57401,14 +57425,6 @@
       "onboard_time": 1714692554,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 52519,
-      "num": 134238,
-      "word": "冷知识CHA竟然是世界语言",
-      "onboard_time": 1716345017,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52272,

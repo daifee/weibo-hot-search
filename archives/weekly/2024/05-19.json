@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716345099720,
+  "endTime": 1716345740553,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -203,6 +203,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1894524,
+      "num": 1894524,
+      "word": "台湾从来不是一个国家也永远不会成为一个国家",
+      "onboard_time": 1716340099,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1858263,
       "num": 1858263,
       "word": "胖猫姐姐多平台账号被封",
@@ -233,14 +241,6 @@
       "onboard_time": 1716181165,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1771860,
-      "num": 1771860,
-      "word": "台湾从来不是一个国家也永远不会成为一个国家",
-      "onboard_time": 1716340099,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1708985,
@@ -1179,6 +1179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 683412,
+      "num": 683412,
+      "word": "王红权星曾称全身没8位数不出门",
+      "onboard_time": 1716340039,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 683355,
       "num": 456892,
       "word": "朴志效说队内都是商业关系",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1716183260,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 670756,
-      "num": 448729,
-      "word": "王红权星曾称全身没8位数不出门",
-      "onboard_time": 1716340039,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 669035,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1716046637,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 595618,
+      "num": 360047,
+      "word": "叶灵儿",
+      "onboard_time": 1716342258,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 594418,
@@ -1627,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 527700,
-      "num": 358397,
-      "word": "叶灵儿",
-      "onboard_time": 1716342258,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 527170,
       "num": 527170,
       "word": "蒲熠星南大",
@@ -1657,6 +1657,14 @@
       "onboard_time": 1716089177,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514591,
+      "num": 279585,
+      "word": "职高生代写博士生论文",
+      "onboard_time": 1716342678,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 514314,
@@ -1907,14 +1915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 468586,
-      "num": 279585,
-      "word": "职高生代写博士生论文",
-      "onboard_time": 1716342678,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 465768,
       "num": 465768,
       "word": "五年了 还得是张若昀",
@@ -2017,6 +2017,14 @@
       "onboard_time": 1716246616,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452184,
+      "num": 277182,
+      "word": "闲泽党已死",
+      "onboard_time": 1716341238,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 451639,
@@ -2147,14 +2155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 425644,
-      "num": 277182,
-      "word": "闲泽党已死",
-      "onboard_time": 1716341238,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 424717,
       "num": 424717,
       "word": "刘端端演技",
@@ -2251,6 +2251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 414291,
+      "num": 273087,
+      "word": "毛晓彤垂耳兔公主",
+      "onboard_time": 1716344478,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414173,
       "num": 414173,
       "word": "纽约中央公园偶遇网红凤姐",
@@ -2267,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413143,
+      "num": 274017,
+      "word": "TFBOYS给五月天送花篮",
+      "onboard_time": 1716341598,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 411371,
       "num": 411371,
       "word": "蔡依林回复王俊凯去南昌跳舞",
@@ -2281,14 +2297,6 @@
       "onboard_time": 1716302060,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409413,
-      "num": 274017,
-      "word": "TFBOYS给五月天送花篮",
-      "onboard_time": 1716341598,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 408250,
@@ -2649,14 +2657,6 @@
       "onboard_time": 1716304161,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 362859,
-      "num": 238586,
-      "word": "毛晓彤垂耳兔公主",
-      "onboard_time": 1716344478,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 360908,
@@ -3667,6 +3667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261909,
+      "num": 253386,
+      "word": "长期晚上不吃饭身体会发生什么",
+      "onboard_time": 1716344478,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 261861,
       "num": 261861,
       "word": "伊朗新任总统选举定于6月28日举行",
@@ -3875,6 +3883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245411,
+      "num": 245411,
+      "word": "iPhone五大痛点",
+      "onboard_time": 1716343938,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 244346,
       "num": 186730,
       "word": "张颂文说小白不好管了",
@@ -3995,14 +4011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237148,
-      "num": 237148,
-      "word": "iPhone五大痛点",
-      "onboard_time": 1716343938,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 236503,
       "num": 217838,
       "word": "Bin说MSI不是结尾",
@@ -4065,6 +4073,14 @@
       "onboard_time": 1716286999,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232340,
+      "num": 256715,
+      "word": "苏林当选越南国家主席",
+      "onboard_time": 1716344719,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 232097,
@@ -4979,6 +4995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194333,
+      "num": 194333,
+      "word": "你知道增加的体重有多难减掉吗",
+      "onboard_time": 1716345138,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 194124,
       "num": 194124,
       "word": "辛芷蕾给赵昭仪庆生",
@@ -5049,6 +5073,14 @@
       "onboard_time": 1716273080,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193282,
+      "num": 193282,
+      "word": "图书馆也癫了",
+      "onboard_time": 1716341418,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 193211,
@@ -5187,14 +5219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187139,
-      "num": 187139,
-      "word": "图书馆也癫了",
-      "onboard_time": 1716341418,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186927,
       "num": 186927,
       "word": "张凌赫徐若晗 脑补一本小说",
@@ -5329,14 +5353,6 @@
       "onboard_time": 1716266959,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181759,
-      "num": 240089,
-      "word": "苏林当选越南国家主席",
-      "onboard_time": 1716344719,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 181327,
@@ -5635,20 +5651,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170876,
+      "num": 283904,
+      "word": "今天听听它们的独白",
+      "onboard_time": 1716344778,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169802,
       "num": 169802,
       "word": "为什么新出的冰箱门吸不住冰箱贴",
       "onboard_time": 1716343099,
       "rank": 35,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 169159,
-      "num": 169159,
-      "word": "长期晚上不吃饭身体会发生什么",
-      "onboard_time": 1716344478,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 169099,
@@ -5739,20 +5755,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166258,
+      "num": 283951,
+      "word": "天上有2颗星在说好好吃饭健康长大",
+      "onboard_time": 1716343518,
+      "rank": 9,
+      "category": "社会新闻,社会正能量"
+    },
+    {
       "raw_hot": 165781,
       "num": 165781,
       "word": "虞书欣林一费启鸣手势舞",
       "onboard_time": 1716268881,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165558,
-      "num": 165558,
-      "word": "今天听听它们的独白",
-      "onboard_time": 1716344778,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165292,
@@ -5833,6 +5849,14 @@
       "onboard_time": 1716069611,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 163909,
+      "num": 163909,
+      "word": "意外发现瘦大腿的方法",
+      "onboard_time": 1716341898,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 163243,
@@ -6113,14 +6137,6 @@
       "onboard_time": 1716194303,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 154353,
-      "num": 154353,
-      "word": "意外发现瘦大腿的方法",
-      "onboard_time": 1716341898,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 153206,
@@ -7275,6 +7291,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 126012,
+      "num": 126012,
+      "word": "步行者vs凯尔特人",
+      "onboard_time": 1716343578,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125855,
       "num": 125855,
       "word": "墨西哥jeans回应newjeans抄袭",
@@ -8411,14 +8435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93889,
-      "num": 283951,
-      "word": "天上有2颗星在说好好吃饭健康长大",
-      "onboard_time": 1716343518,
-      "rank": 9,
-      "category": "社会新闻,社会正能量"
-    },
-    {
       "raw_hot": 93704,
       "num": 93704,
       "word": "莫兰德犯规",
@@ -8931,6 +8947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60550,
+      "num": 210975,
+      "word": "冷知识CHA竟然是世界语言",
+      "onboard_time": 1716345017,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59777,
       "num": 59777,
       "word": "WE官宣Zoom加入",
@@ -9033,14 +9057,6 @@
       "onboard_time": 1716132500,
       "rank": 11,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 52519,
-      "num": 134238,
-      "word": "冷知识CHA竟然是世界语言",
-      "onboard_time": 1716345017,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49202,
