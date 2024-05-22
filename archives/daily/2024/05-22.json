@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716348136101,
+  "endTime": 1716348913207,
   "band_list": [
     {
       "raw_hot": 1894524,
@@ -19,6 +19,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1383802,
+      "num": 973863,
+      "word": "短发的刘亦菲",
+      "onboard_time": 1716346579,
+      "rank": 8,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1284659,
       "num": 198959,
       "word": "森林北回应",
@@ -27,12 +35,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1214158,
-      "num": 549108,
-      "word": "短发的刘亦菲",
-      "onboard_time": 1716346579,
-      "rank": 8,
-      "category": "美妆"
+      "raw_hot": 1258800,
+      "num": 1258800,
+      "word": "田田小阿姨删除王红权星相关视频",
+      "onboard_time": 1716346939,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1202943,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 989031,
-      "num": 877107,
+      "num": 930139,
       "word": "张踩铃晕倒",
       "onboard_time": 1716345738,
       "rank": 3,
@@ -67,20 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 880492,
-      "num": 542940,
-      "word": "田田小阿姨删除王红权星相关视频",
-      "onboard_time": 1716346939,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 866166,
       "num": 866166,
       "word": "麦当劳对讲机",
       "onboard_time": 1716347000,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 845386,
+      "num": 683412,
+      "word": "王红权星曾称全身没8位数不出门",
+      "onboard_time": 1716340039,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 827637,
@@ -105,14 +113,6 @@
       "onboard_time": 1716346698,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 683412,
-      "num": 683412,
-      "word": "王红权星曾称全身没8位数不出门",
-      "onboard_time": 1716340039,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 662901,
@@ -161,6 +161,14 @@
       "onboard_time": 1716334217,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 584721,
+      "num": 584721,
+      "word": "付辛博是第二个拥有愧疚粉的人",
+      "onboard_time": 1716347539,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 575231,
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449574,
+      "num": 449574,
+      "word": "英国首相就污染血丑闻事件公开致歉",
+      "onboard_time": 1716347718,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 448363,
       "num": 448363,
       "word": "伊朗方面披露总统直升机事故细节",
@@ -257,14 +273,6 @@
       "onboard_time": 1716333556,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 430521,
-      "num": 430521,
-      "word": "付辛博是第二个拥有愧疚粉的人",
-      "onboard_time": 1716347539,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 429869,
@@ -419,8 +427,32 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 298225,
+      "num": 298225,
+      "word": "刘亦菲被单膝送花",
+      "onboard_time": 1716348078,
+      "rank": 45,
+      "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 297100,
+      "num": 506398,
+      "word": "今天听听它们的独白",
+      "onboard_time": 1716344778,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287647,
+      "num": 396003,
+      "word": "凯尔特人10倍罚球",
+      "onboard_time": 1716347359,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285497,
-      "num": 285497,
+      "num": 395846,
       "word": "京东员工回应出版社联合抵制618",
       "onboard_time": 1716342258,
       "rank": 17,
@@ -444,19 +476,11 @@
     },
     {
       "raw_hot": 275221,
-      "num": 245411,
+      "num": 246997,
       "word": "iPhone五大痛点",
       "onboard_time": 1716343938,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 274722,
-      "num": 283904,
-      "word": "今天听听它们的独白",
-      "onboard_time": 1716344778,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261909,
@@ -465,6 +489,14 @@
       "onboard_time": 1716344478,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 258782,
+      "num": 258782,
+      "word": "歌手网传第3期歌单",
+      "onboard_time": 1716348858,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 257388,
@@ -523,14 +555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 232756,
-      "num": 232756,
-      "word": "凯尔特人10倍罚球",
-      "onboard_time": 1716347359,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 232340,
       "num": 256715,
       "word": "苏林当选越南国家主席",
@@ -555,14 +579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 220743,
-      "num": 220743,
-      "word": "英国首相就污染血丑闻事件公开致歉",
-      "onboard_time": 1716347718,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 210608,
       "num": 210608,
       "word": "一汽与蔚来官宣换电合作",
@@ -577,6 +593,14 @@
       "onboard_time": 1716338958,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207636,
+      "num": 207636,
+      "word": "王红权星",
+      "onboard_time": 1716345978,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 206641,
@@ -595,11 +619,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198634,
-      "num": 198634,
-      "word": "王红权星",
-      "onboard_time": 1716345978,
-      "rank": 31,
+      "raw_hot": 201174,
+      "num": 201174,
+      "word": "实探王红权星线下奢侈品店权星汇",
+      "onboard_time": 1716347899,
+      "rank": 42,
       "category": "网红"
     },
     {
@@ -609,6 +633,14 @@
       "onboard_time": 1716343217,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194853,
+      "num": 194853,
+      "word": "鞠婧祎助理号",
+      "onboard_time": 1716346517,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 194333,
@@ -627,14 +659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189833,
-      "num": 189833,
-      "word": "鞠婧祎助理号",
-      "onboard_time": 1716346517,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189829,
       "num": 189829,
       "word": "为什么民宿越来越不流行了",
@@ -649,6 +673,22 @@
       "onboard_time": 1716333675,
       "rank": 16,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 186727,
+      "num": 186727,
+      "word": "奔跑吧舞台直拍",
+      "onboard_time": 1716348438,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186678,
+      "num": 186678,
+      "word": "庆余年太会拍",
+      "onboard_time": 1716346459,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 185876,
@@ -675,20 +715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177532,
-      "num": 177532,
-      "word": "庆余年太会拍",
-      "onboard_time": 1716346459,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176867,
       "num": 176867,
       "word": "阴阳师",
       "onboard_time": 1716341658,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175322,
+      "num": 175322,
+      "word": "张艺兴首尔站官宣",
+      "onboard_time": 1716348318,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 174802,
@@ -771,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154293,
+      "num": 154293,
+      "word": "王红权星曾因炫富走红",
+      "onboard_time": 1716346158,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 151731,
       "num": 151731,
       "word": "张颂文说小白不好管了",
@@ -779,20 +827,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151204,
-      "num": 151204,
-      "word": "王红权星曾因炫富走红",
-      "onboard_time": 1716346158,
-      "rank": 37,
-      "category": "网红"
-    },
-    {
       "raw_hot": 144050,
       "num": 144050,
       "word": "东北的独生子女地位有多高",
       "onboard_time": 1716342319,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143022,
+      "num": 143022,
+      "word": "鲍鱼家姐",
+      "onboard_time": 1716348621,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 141710,
@@ -817,14 +865,6 @@
       "onboard_time": 1716340397,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137235,
-      "num": 137235,
-      "word": "实探王红权星线下奢侈品店权星汇",
-      "onboard_time": 1716347899,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 136725,
@@ -859,14 +899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132582,
-      "num": 132582,
-      "word": "刘亦菲被单膝送花",
-      "onboard_time": 1716348078,
-      "rank": 45,
-      "category": "艺人,剧集"
-    },
-    {
       "raw_hot": 132098,
       "num": 132098,
       "word": "RNG 别虐泉",
@@ -891,6 +923,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127846,
+      "num": 544998,
+      "word": "今天一起为人类的朋友发条微博",
+      "onboard_time": 1716346819,
+      "rank": 9,
+      "category": "社会新闻,社会正能量"
+    },
+    {
+      "raw_hot": 127828,
+      "num": 127828,
+      "word": "三井寿 最帅体育生",
+      "onboard_time": 1716348679,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 127429,
       "num": 127429,
       "word": "波切蒂诺离任切尔西",
@@ -905,6 +953,14 @@
       "onboard_time": 1716331094,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 127009,
+      "num": 127009,
+      "word": "杰伦布朗绝平三分",
+      "onboard_time": 1716348379,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 126012,
@@ -1059,14 +1115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 78428,
-      "num": 544998,
-      "word": "今天一起为人类的朋友发条微博",
-      "onboard_time": 1716346819,
-      "rank": 9,
-      "category": "社会新闻,社会正能量"
-    },
-    {
       "raw_hot": 77083,
       "num": 77083,
       "word": "小猫拒绝了同伴的握手申请",
@@ -1139,6 +1187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57780,
+      "num": 486327,
+      "word": "去大熊猫家做客",
+      "onboard_time": 1716348621,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56908,
       "num": 85930,
       "word": "这5类人要少吃榴莲",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1716317711,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 41225,
+      "num": 1000092,
+      "word": "5月22日是国际生物多样性日",
+      "onboard_time": 1716348799,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40785,
@@ -1273,6 +1337,9 @@
     },
     {
       "word": "#习近平眼中的金叶子#"
+    },
+    {
+      "word": "#共同建设清洁美丽的世界#"
     }
   ]
 }
