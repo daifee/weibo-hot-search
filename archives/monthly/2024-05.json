@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716359867480,
+  "endTime": 1716362275775,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1665,6 +1665,14 @@
       "onboard_time": 1716021618,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1588917,
+      "num": 1588917,
+      "word": "赵丽颖 赵监制",
+      "onboard_time": 1716359418,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 1588486,
@@ -9659,6 +9667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630790,
+      "num": 630790,
+      "word": "挪威承认巴勒斯坦国",
+      "onboard_time": 1716361038,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 630731,
       "num": 575493,
       "word": "胖猫事件不予立案",
@@ -10891,6 +10907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575095,
+      "num": 575095,
+      "word": "半数银行人均薪酬下降",
+      "onboard_time": 1716359418,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 574978,
       "num": 574978,
       "word": "EDG夺冠",
@@ -11913,6 +11937,14 @@
       "onboard_time": 1715415619,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 537058,
+      "num": 447463,
+      "word": "孙俪 甄嬛传团综",
+      "onboard_time": 1716360079,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 536995,
@@ -15643,14 +15675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 426341,
-      "num": 426341,
-      "word": "赵丽颖 赵监制",
-      "onboard_time": 1716359418,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 425842,
       "num": 425842,
       "word": "老林哭了",
@@ -16929,6 +16953,14 @@
       "onboard_time": 1714617738,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 401761,
+      "num": 280796,
+      "word": "付辛博颖儿 好嗑",
+      "onboard_time": 1716359597,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 401637,
@@ -23627,6 +23659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279172,
+      "num": 639601,
+      "word": "白海豚妈妈驮着夭折宝宝游了5天",
+      "onboard_time": 1716357619,
+      "rank": 9,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 279030,
       "num": 279030,
       "word": "戚薇 好怕我们会得第一名",
@@ -26243,6 +26283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247989,
+      "num": 247989,
+      "word": "福宝将在近期择机对外展出",
+      "onboard_time": 1716360079,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247932,
       "num": 235313,
       "word": "奥运资格赛王一博观赛",
@@ -27323,6 +27371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237294,
+      "num": 237294,
+      "word": "25块一只的烤鸭到底什么来历",
+      "onboard_time": 1716357019,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 237248,
       "num": 237248,
       "word": "何超莲晒生日合照",
@@ -27961,14 +28017,6 @@
       "onboard_time": 1716111797,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231542,
-      "num": 639601,
-      "word": "白海豚妈妈驮着夭折宝宝游了5天",
-      "onboard_time": 1716357619,
-      "rank": 9,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 231513,
@@ -30504,6 +30552,14 @@
       "word": "李健再唱庆余年OST",
       "onboard_time": 1715669478,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211455,
+      "num": 211455,
+      "word": "赵丽颖晒与凤行庆功宴合照",
+      "onboard_time": 1716360438,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -33635,6 +33691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197782,
+      "num": 197782,
+      "word": "发现小狗抓了一晚上蚊子",
+      "onboard_time": 1716357138,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197714,
       "num": 197714,
       "word": "河大礼堂着火后房顶基本坍塌",
@@ -34257,14 +34321,6 @@
       "onboard_time": 1715781377,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195517,
-      "num": 195517,
-      "word": "25块一只的烤鸭到底什么来历",
-      "onboard_time": 1716357019,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 195485,
@@ -35417,14 +35473,6 @@
       "onboard_time": 1715328439,
       "rank": 34,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 191423,
-      "num": 191423,
-      "word": "发现小狗抓了一晚上蚊子",
-      "onboard_time": 1716357138,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 191277,
@@ -37353,14 +37401,6 @@
       "onboard_time": 1716288138,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 182975,
-      "num": 182975,
-      "word": "付辛博颖儿 好嗑",
-      "onboard_time": 1716359597,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 182940,
@@ -39307,14 +39347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173516,
-      "num": 173516,
-      "word": "半数银行人均薪酬下降",
-      "onboard_time": 1716359418,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 173499,
       "num": 173499,
       "word": "藏海传筹谋在心版海报",
@@ -40033,6 +40065,14 @@
       "onboard_time": 1715861477,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170040,
+      "num": 170040,
+      "word": "为什么喝速溶咖啡的人变少了",
+      "onboard_time": 1716361458,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 170031,
@@ -45475,6 +45515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145487,
+      "num": 145487,
+      "word": "伊能静的文字",
+      "onboard_time": 1716361938,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145421,
       "num": 145421,
       "word": "奔跑吧明晚尖叫连连",
@@ -46329,6 +46377,14 @@
       "onboard_time": 1715593699,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142020,
+      "num": 142020,
+      "word": "黄忠怒海争锋皮肤",
+      "onboard_time": 1716360797,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 141953,
@@ -47873,6 +47929,14 @@
       "onboard_time": 1715049078,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135319,
+      "num": 135319,
+      "word": "杨幂龚俊狐妖采访",
+      "onboard_time": 1716361699,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 135296,
@@ -49625,6 +49689,14 @@
       "onboard_time": 1714729638,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 127559,
+      "num": 127559,
+      "word": "福宝就快出来营业了",
+      "onboard_time": 1716362118,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127506,
@@ -58451,6 +58523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46329,
+      "num": 448138,
+      "word": "图书价格战是否还要继续打",
+      "onboard_time": 1716361340,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46263,
       "num": 1152695,
       "word": "文化中国行发现节气之美",
@@ -59201,6 +59281,14 @@
       "onboard_time": 1716297499,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34430,
+      "num": 159962,
+      "word": "如何高效远离垮脸",
+      "onboard_time": 1716361519,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 34426,

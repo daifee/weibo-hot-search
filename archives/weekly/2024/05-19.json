@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716359867480,
+  "endTime": 1716362275775,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -273,6 +273,14 @@
       "onboard_time": 1716334156,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1588917,
+      "num": 1588917,
+      "word": "赵丽颖 赵监制",
+      "onboard_time": 1716359418,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 1557786,
@@ -1467,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630790,
+      "num": 630790,
+      "word": "挪威承认巴勒斯坦国",
+      "onboard_time": 1716361038,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 630731,
       "num": 575493,
       "word": "胖猫事件不予立案",
@@ -1667,6 +1683,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 575095,
+      "num": 575095,
+      "word": "半数银行人均薪酬下降",
+      "onboard_time": 1716359418,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 574356,
       "num": 574356,
       "word": "魏大勋又赶上跑男泥潭了",
@@ -1784,6 +1808,14 @@
       "word": "Hush报名歌手",
       "onboard_time": 1716176541,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 537058,
+      "num": 447463,
+      "word": "孙俪 甄嬛传团综",
+      "onboard_time": 1716360079,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -2339,14 +2371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 426341,
-      "num": 426341,
-      "word": "赵丽颖 赵监制",
-      "onboard_time": 1716359418,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 425842,
       "num": 425842,
       "word": "老林哭了",
@@ -2585,6 +2609,14 @@
       "onboard_time": 1716207677,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 401761,
+      "num": 280796,
+      "word": "付辛博颖儿 好嗑",
+      "onboard_time": 1716359597,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 401637,
@@ -3715,6 +3747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279172,
+      "num": 639601,
+      "word": "白海豚妈妈驮着夭折宝宝游了5天",
+      "onboard_time": 1716357619,
+      "rank": 9,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 278948,
       "num": 178044,
       "word": "中年人的婚外情为何不会通往离婚",
@@ -4107,6 +4147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247989,
+      "num": 247989,
+      "word": "福宝将在近期择机对外展出",
+      "onboard_time": 1716360079,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247873,
       "num": 247873,
       "word": "台独是死路一条",
@@ -4299,6 +4347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237294,
+      "num": 237294,
+      "word": "25块一只的烤鸭到底什么来历",
+      "onboard_time": 1716357019,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 237203,
       "num": 237203,
       "word": "不是现在的难看而是以前的糠太细",
@@ -4401,14 +4457,6 @@
       "onboard_time": 1716111797,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231542,
-      "num": 639601,
-      "word": "白海豚妈妈驮着夭折宝宝游了5天",
-      "onboard_time": 1716357619,
-      "rank": 9,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 231074,
@@ -4705,6 +4753,14 @@
       "onboard_time": 1716100158,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211455,
+      "num": 211455,
+      "word": "赵丽颖晒与凤行庆功宴合照",
+      "onboard_time": 1716360438,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 211344,
@@ -5243,6 +5299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197782,
+      "num": 197782,
+      "word": "发现小狗抓了一晚上蚊子",
+      "onboard_time": 1716357138,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197523,
       "num": 197523,
       "word": "夏之光直播",
@@ -5321,14 +5385,6 @@
       "onboard_time": 1716275719,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195517,
-      "num": 195517,
-      "word": "25块一只的烤鸭到底什么来历",
-      "onboard_time": 1716357019,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 195227,
@@ -5537,14 +5593,6 @@
       "onboard_time": 1716095417,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191423,
-      "num": 191423,
-      "word": "发现小狗抓了一晚上蚊子",
-      "onboard_time": 1716357138,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 191123,
@@ -5769,14 +5817,6 @@
       "onboard_time": 1716288138,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 182975,
-      "num": 182975,
-      "word": "付辛博颖儿 好嗑",
-      "onboard_time": 1716359597,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 182759,
@@ -6059,14 +6099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 173516,
-      "num": 173516,
-      "word": "半数银行人均薪酬下降",
-      "onboard_time": 1716359418,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 173421,
       "num": 173421,
       "word": "赵一博何浩楠",
@@ -6145,6 +6177,14 @@
       "onboard_time": 1716164957,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170040,
+      "num": 170040,
+      "word": "为什么喝速溶咖啡的人变少了",
+      "onboard_time": 1716361458,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 169802,
@@ -7043,6 +7083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145487,
+      "num": 145487,
+      "word": "伊能静的文字",
+      "onboard_time": 1716361938,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145314,
       "num": 145314,
       "word": "陈萍萍轮椅里的绝世神兵",
@@ -7217,6 +7265,14 @@
       "onboard_time": 1716167178,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142020,
+      "num": 142020,
+      "word": "黄忠怒海争锋皮肤",
+      "onboard_time": 1716360797,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 141953,
@@ -7465,6 +7521,14 @@
       "onboard_time": 1716213560,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135319,
+      "num": 135319,
+      "word": "杨幂龚俊狐妖采访",
+      "onboard_time": 1716361699,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 135223,
@@ -7817,6 +7881,14 @@
       "onboard_time": 1716192020,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127559,
+      "num": 127559,
+      "word": "福宝就快出来营业了",
+      "onboard_time": 1716362118,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127506,
@@ -9803,6 +9875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46329,
+      "num": 448138,
+      "word": "图书价格战是否还要继续打",
+      "onboard_time": 1716361340,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45948,
       "num": 699477,
       "word": "他们还在守护袁爷爷的梦",
@@ -10001,6 +10081,14 @@
       "onboard_time": 1716297499,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34430,
+      "num": 159962,
+      "word": "如何高效远离垮脸",
+      "onboard_time": 1716361519,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 34164,
