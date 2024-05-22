@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716348913207,
+  "endTime": 1716351789254,
   "band_list": [
     {
       "raw_hot": 1894524,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1383802,
-      "num": 973863,
+      "num": 1079194,
       "word": "短发的刘亦菲",
       "onboard_time": 1716346579,
       "rank": 8,
@@ -49,6 +49,14 @@
       "onboard_time": 1716303200,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1116371,
+      "num": 1116371,
+      "word": "歌手网传第3期歌单",
+      "onboard_time": 1716348858,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 989031,
@@ -115,12 +123,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 754579,
+      "num": 422129,
+      "word": "曝男生被同学用11盆开水烫伤霸凌",
+      "onboard_time": 1716350241,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720833,
+      "num": 584721,
+      "word": "付辛博是第二个拥有愧疚粉的人",
+      "onboard_time": 1716347539,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 662901,
       "num": 662901,
       "word": "IVE零一位",
       "onboard_time": 1716343457,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 655291,
+      "num": 396798,
+      "word": "亚当到长沙了",
+      "onboard_time": 1716350840,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 629139,
@@ -137,6 +169,14 @@
       "onboard_time": 1716338601,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 606314,
+      "num": 606314,
+      "word": "英国首相就污染血丑闻事件公开致歉",
+      "onboard_time": 1716347718,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 603986,
@@ -161,14 +201,6 @@
       "onboard_time": 1716334217,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 584721,
-      "num": 584721,
-      "word": "付辛博是第二个拥有愧疚粉的人",
-      "onboard_time": 1716347539,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 575231,
@@ -211,12 +243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513452,
+      "num": 371302,
+      "word": "韩玖诺回应叶灵儿被换角",
+      "onboard_time": 1716349158,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 488870,
       "num": 488870,
       "word": "庆余年2央视收视夺冠",
       "onboard_time": 1716337699,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477837,
+      "num": 334856,
+      "word": "鲍鱼家姐",
+      "onboard_time": 1716348621,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 469904,
@@ -249,14 +297,6 @@
       "onboard_time": 1716341238,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 449574,
-      "num": 449574,
-      "word": "英国首相就污染血丑闻事件公开致歉",
-      "onboard_time": 1716347718,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 448363,
@@ -403,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324258,
+      "num": 324258,
+      "word": "银行还是令人羡慕的工作吗",
+      "onboard_time": 1716346758,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 322145,
       "num": 322145,
       "word": "年轻人为什么喜欢养寄居蟹了",
@@ -491,14 +539,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 258782,
-      "num": 258782,
-      "word": "歌手网传第3期歌单",
-      "onboard_time": 1716348858,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 257388,
       "num": 257388,
       "word": "建议大家工作后都准备两个微信",
@@ -579,12 +619,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 226981,
+      "num": 194853,
+      "word": "鞠婧祎助理号",
+      "onboard_time": 1716346517,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215162,
+      "num": 192776,
+      "word": "狐妖小红娘月红篇今天发布会",
+      "onboard_time": 1716351319,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210608,
       "num": 210608,
       "word": "一汽与蔚来官宣换电合作",
       "onboard_time": 1716343938,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 208627,
+      "num": 189440,
+      "word": "背着善宰跑收视率",
+      "onboard_time": 1716350060,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 208197,
@@ -619,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202863,
+      "num": 188043,
+      "word": "庆余年太子 大智若愚",
+      "onboard_time": 1716350960,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "实探王红权星线下奢侈品店权星汇",
@@ -633,14 +705,6 @@
       "onboard_time": 1716343217,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194853,
-      "num": 194853,
-      "word": "鞠婧祎助理号",
-      "onboard_time": 1716346517,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 194333,
@@ -707,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180217,
+      "num": 180217,
+      "word": "刘雯回归戛纳",
+      "onboard_time": 1716349518,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177623,
       "num": 177623,
       "word": "刘宪华 超级双开门",
@@ -737,6 +809,22 @@
       "onboard_time": 1716279439,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172799,
+      "num": 180220,
+      "word": "中国统一大势不可逆",
+      "onboard_time": 1716349699,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 171250,
+      "num": 171250,
+      "word": "ILLIT公司起诉闵熙珍",
+      "onboard_time": 1716350420,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 169802,
@@ -779,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161514,
+      "num": 161514,
+      "word": "徐明浩被粉丝认出很幸福",
+      "onboard_time": 1716350899,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160906,
       "num": 160906,
       "word": "庆余年辛大人撞脸憨豆先生",
@@ -811,6 +907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155413,
+      "num": 175910,
+      "word": "小米回应博主控诉空调售后差",
+      "onboard_time": 1716349280,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 154293,
       "num": 154293,
       "word": "王红权星曾因炫富走红",
@@ -827,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145848,
+      "num": 145848,
+      "word": "玫瑰的故事 预告呢",
+      "onboard_time": 1716350660,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144050,
       "num": 144050,
       "word": "东北的独生子女地位有多高",
@@ -835,12 +947,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143022,
-      "num": 143022,
-      "word": "鲍鱼家姐",
-      "onboard_time": 1716348621,
-      "rank": 43,
-      "category": "网红"
+      "raw_hot": 141731,
+      "num": 175903,
+      "word": "HPV疫苗接种成本降低",
+      "onboard_time": 1716351260,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141710,
@@ -931,8 +1043,8 @@
       "category": "社会新闻,社会正能量"
     },
     {
-      "raw_hot": 127828,
-      "num": 127828,
+      "raw_hot": 127834,
+      "num": 145645,
       "word": "三井寿 最帅体育生",
       "onboard_time": 1716348679,
       "rank": 48,
@@ -1027,6 +1139,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115049,
+      "num": 145386,
+      "word": "国足大名单",
+      "onboard_time": 1716349098,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113600,
+      "num": 145199,
+      "word": "小程序崩了麦麦对讲机暂无法销售",
+      "onboard_time": 1716351018,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109694,
       "num": 118529,
       "word": "这跟看符龙飞朋友圈有什么区别",
@@ -1107,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85455,
+      "num": 1094150,
+      "word": "去大熊猫家做客",
+      "onboard_time": 1716348621,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84323,
       "num": 118411,
       "word": "请问这是男生女生拿命来吗",
@@ -1139,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71143,
+      "num": 443534,
+      "word": "儿童误用防晒喷雾易导致白肺",
+      "onboard_time": 1716350420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70203,
       "num": 70203,
       "word": "袁隆平把一生浸在稻田里",
@@ -1153,6 +1297,14 @@
       "onboard_time": 1716289759,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68278,
+      "num": 192336,
+      "word": "和妈妈做姐妹是什么体验",
+      "onboard_time": 1716350780,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 64972,
@@ -1185,14 +1337,6 @@
       "onboard_time": 1716334456,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 57780,
-      "num": 486327,
-      "word": "去大熊猫家做客",
-      "onboard_time": 1716348621,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56908,

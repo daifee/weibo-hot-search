@@ -1,0 +1,410 @@
+{
+  "runTime": 1716351789254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1739793,
+        "num": 1739793,
+        "word": "台湾从来不是一个国家也永远不会成为一个国家",
+        "onboard_time": 1716340099,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1116371,
+        "num": 1116371,
+        "word": "歌手网传第3期歌单",
+        "onboard_time": 1716348858,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85455,
+        "num": 1094150,
+        "word": "去大熊猫家做客",
+        "onboard_time": 1716348621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1173764,
+        "num": 1093821,
+        "word": "田田小阿姨删除王红权星相关视频",
+        "onboard_time": 1716346939,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1079194,
+        "num": 1079194,
+        "word": "短发的刘亦菲",
+        "onboard_time": 1716346579,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 606314,
+        "num": 606314,
+        "word": "英国首相就污染血丑闻事件公开致歉",
+        "onboard_time": 1716347718,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 720833,
+        "num": 531009,
+        "word": "付辛博是第二个拥有愧疚粉的人",
+        "onboard_time": 1716347539,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710505,
+        "num": 495824,
+        "word": "张踩铃晕倒",
+        "onboard_time": 1716345738,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 450640,
+        "num": 450640,
+        "word": "职高生代写博士生论文",
+        "onboard_time": 1716342678,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 71143,
+        "num": 443534,
+        "word": "儿童误用防晒喷雾易导致白肺",
+        "onboard_time": 1716350420,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754579,
+        "num": 422129,
+        "word": "曝男生被同学用11盆开水烫伤霸凌",
+        "onboard_time": 1716350241,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655291,
+        "num": 396798,
+        "word": "亚当到长沙了",
+        "onboard_time": 1716350840,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623007,
+        "num": 373036,
+        "word": "王红权星曾称全身没8位数不出门",
+        "onboard_time": 1716340039,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 513452,
+        "num": 371302,
+        "word": "韩玖诺回应叶灵儿被换角",
+        "onboard_time": 1716349158,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477837,
+        "num": 334856,
+        "word": "鲍鱼家姐",
+        "onboard_time": 1716348621,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 332910,
+        "num": 332910,
+        "word": "麦当劳APP崩了",
+        "onboard_time": 1716346698,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 324258,
+        "num": 324258,
+        "word": "银行还是令人羡慕的工作吗",
+        "onboard_time": 1716346758,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243470,
+        "num": 243470,
+        "word": "凯尔特人10倍罚球",
+        "onboard_time": 1716347359,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224682,
+        "num": 224682,
+        "word": "有卖家因制作捏捏致身体不适闭店",
+        "onboard_time": 1716337100,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195753,
+        "num": 195753,
+        "word": "袁爷爷离开我们3年了",
+        "onboard_time": 1716344478,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536909,
+        "num": 195494,
+        "word": "很酷 不聊天",
+        "onboard_time": 1716339498,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365703,
+        "num": 194999,
+        "word": "长期保持体重的吃喝习惯",
+        "onboard_time": 1716338840,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 359379,
+        "num": 194822,
+        "word": "网红王红权星被各社交平台封禁",
+        "onboard_time": 1716334156,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 301124,
+        "num": 194527,
+        "word": "IVE零一位",
+        "onboard_time": 1716343457,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297831,
+        "num": 194042,
+        "word": "刘亦菲被单膝送花",
+        "onboard_time": 1716348078,
+        "rank": 24,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 229329,
+        "num": 193716,
+        "word": "毛晓彤垂耳兔公主",
+        "onboard_time": 1716344478,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226981,
+        "num": 193143,
+        "word": "鞠婧祎助理号",
+        "onboard_time": 1716346517,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215162,
+        "num": 192776,
+        "word": "狐妖小红娘月红篇今天发布会",
+        "onboard_time": 1716351319,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68278,
+        "num": 192336,
+        "word": "和妈妈做姐妹是什么体验",
+        "onboard_time": 1716350780,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 192196,
+        "num": 192196,
+        "word": "今天听听它们的独白",
+        "onboard_time": 1716344778,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208627,
+        "num": 189440,
+        "word": "背着善宰跑收视率",
+        "onboard_time": 1716350060,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202863,
+        "num": 188043,
+        "word": "庆余年太子 大智若愚",
+        "onboard_time": 1716350960,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194517,
+        "num": 186332,
+        "word": "大皇子大公主 皇室联姻搞纯爱",
+        "onboard_time": 1716346218,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180256,
+        "num": 180256,
+        "word": "iPhone五大痛点",
+        "onboard_time": 1716343938,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172799,
+        "num": 180220,
+        "word": "中国统一大势不可逆",
+        "onboard_time": 1716349699,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194145,
+        "num": 180220,
+        "word": "王红权星",
+        "onboard_time": 1716345978,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180217,
+        "num": 180217,
+        "word": "刘雯回归戛纳",
+        "onboard_time": 1716349518,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176529,
+        "num": 176529,
+        "word": "庆余年太会拍",
+        "onboard_time": 1716346459,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155413,
+        "num": 175910,
+        "word": "小米回应博主控诉空调售后差",
+        "onboard_time": 1716349280,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141731,
+        "num": 175903,
+        "word": "HPV疫苗接种成本降低",
+        "onboard_time": 1716351260,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175898,
+        "num": 175898,
+        "word": "叶灵儿",
+        "onboard_time": 1716342258,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171250,
+        "num": 171250,
+        "word": "ILLIT公司起诉闵熙珍",
+        "onboard_time": 1716350420,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161514,
+        "num": 161514,
+        "word": "徐明浩被粉丝认出很幸福",
+        "onboard_time": 1716350899,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147568,
+        "num": 147568,
+        "word": "TFBOYS给五月天送花篮",
+        "onboard_time": 1716341598,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145848,
+        "num": 145848,
+        "word": "玫瑰的故事 预告呢",
+        "onboard_time": 1716350660,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126936,
+        "num": 145808,
+        "word": "京东员工回应出版社联合抵制618",
+        "onboard_time": 1716342258,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127834,
+        "num": 145645,
+        "word": "三井寿 最帅体育生",
+        "onboard_time": 1716348679,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115049,
+        "num": 145386,
+        "word": "国足大名单",
+        "onboard_time": 1716349098,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113600,
+        "num": 145199,
+        "word": "小程序崩了麦麦对讲机暂无法销售",
+        "onboard_time": 1716351018,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111977,
+        "num": 145055,
+        "word": "今天一起为人类的朋友发条微博",
+        "onboard_time": 1716346819,
+        "rank": 49,
+        "category": "社会新闻,社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设清洁美丽的世界#"
+    }
+  }
+}
