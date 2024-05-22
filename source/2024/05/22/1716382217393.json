@@ -1,0 +1,410 @@
+{
+  "runTime": 1716382217393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1126678,
+        "num": 1126678,
+        "word": "轻断食一天吃了11根玉米",
+        "onboard_time": 1716375978,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 734661,
+        "num": 734661,
+        "word": "付辛博颖儿的恋爱合同",
+        "onboard_time": 1716373758,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22552,
+        "num": 436492,
+        "word": "珍爱我们的共同家园",
+        "onboard_time": 1716365720,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022851,
+        "num": 429841,
+        "word": "庆余年 杀疯了",
+        "onboard_time": 1716381318,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 999300,
+        "num": 425742,
+        "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
+        "onboard_time": 1716372018,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416483,
+        "num": 416483,
+        "word": "微信扫一扫加好友有讲究吗",
+        "onboard_time": 1716370038,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 534676,
+        "num": 407809,
+        "word": "徐海乔宣璐手拉手",
+        "onboard_time": 1716363500,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451854,
+        "num": 401392,
+        "word": "赵丽颖林更新2个人3个耶",
+        "onboard_time": 1716378497,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384968,
+        "num": 384968,
+        "word": "周鸿祎将购买7辆国产新能源车",
+        "onboard_time": 1716377057,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117944,
+        "num": 365175,
+        "word": "炫富网红炫的是畸形价值观",
+        "onboard_time": 1716378137,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617364,
+        "num": 358343,
+        "word": "孙千身材",
+        "onboard_time": 1716377297,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349833,
+        "num": 349833,
+        "word": "田田小阿姨抖音账号搜索不到",
+        "onboard_time": 1716371298,
+        "rank": 11,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 347185,
+        "num": 347185,
+        "word": "李惠利和IVE合拍",
+        "onboard_time": 1716376278,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 341831,
+        "num": 341831,
+        "word": "杨幂涂山红红穿红",
+        "onboard_time": 1716376698,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320594,
+        "num": 320594,
+        "word": "拼多多总市值超越阿里巴巴",
+        "onboard_time": 1716378977,
+        "rank": 14,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 296782,
+        "num": 296782,
+        "word": "HPV疫苗价格大跳水",
+        "onboard_time": 1716362779,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269204,
+        "num": 269204,
+        "word": "妈妈五十岁了还在买娃娃",
+        "onboard_time": 1716374479,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246496,
+        "num": 246496,
+        "word": "九尾直播",
+        "onboard_time": 1716380837,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232329,
+        "num": 232329,
+        "word": "中方回应梵蒂冈希望在北京设办事处",
+        "onboard_time": 1716368719,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177317,
+        "num": 231938,
+        "word": "官方通报贵州一烤肉店给肉串喷漆",
+        "onboard_time": 1716369858,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338092,
+        "num": 227503,
+        "word": "易烊千玺参加文艺志愿者晚会",
+        "onboard_time": 1716379458,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394764,
+        "num": 220538,
+        "word": "我让老公经历了断崖式离婚",
+        "onboard_time": 1716381678,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345214,
+        "num": 216846,
+        "word": "明显感觉到大学逐渐高中化",
+        "onboard_time": 1716370879,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271444,
+        "num": 212463,
+        "word": "aespa造型",
+        "onboard_time": 1716376938,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249196,
+        "num": 211027,
+        "word": "亚当爆改张震岳",
+        "onboard_time": 1716365720,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206815,
+        "num": 206815,
+        "word": "歌手2024袭榜赛制",
+        "onboard_time": 1716374058,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205745,
+        "num": 205745,
+        "word": "花少 行李超重",
+        "onboard_time": 1716378798,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191255,
+        "num": 191255,
+        "word": "赵丽颖工作室换头像了",
+        "onboard_time": 1716380058,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149819,
+        "num": 185059,
+        "word": "台湾从来不是一个国家也永远不会成为一个国家",
+        "onboard_time": 1716340099,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133567,
+        "num": 181850,
+        "word": "CBA",
+        "onboard_time": 1716379218,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180727,
+        "num": 180727,
+        "word": "林俊杰苏州 抢票",
+        "onboard_time": 1716380657,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175733,
+        "num": 175733,
+        "word": "炫富成为一门生意尽头是带货",
+        "onboard_time": 1716380958,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175392,
+        "num": 175392,
+        "word": "王红权星二手奢侈品店仍在营业",
+        "onboard_time": 1716377539,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172562,
+        "num": 172562,
+        "word": "陈哲远 跑男",
+        "onboard_time": 1716379218,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170923,
+        "num": 170923,
+        "word": "庆余年",
+        "onboard_time": 1716379638,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167304,
+        "num": 167304,
+        "word": "眼泪女王新婚纱照",
+        "onboard_time": 1716381318,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167614,
+        "num": 164868,
+        "word": "狮子座的先来后到",
+        "onboard_time": 1716379818,
+        "rank": 36,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 161946,
+        "num": 161946,
+        "word": "狐妖小红娘",
+        "onboard_time": 1716374238,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157582,
+        "num": 157582,
+        "word": "他俩感情没问题是我眼睛有问题",
+        "onboard_time": 1716376398,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147864,
+        "num": 147864,
+        "word": "短发的刘亦菲",
+        "onboard_time": 1716346579,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148137,
+        "num": 144871,
+        "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
+        "onboard_time": 1716381197,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138112,
+        "num": 138112,
+        "word": "杨幂龚俊发布会同框",
+        "onboard_time": 1716381858,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134873,
+        "num": 134873,
+        "word": "关晓彤出道23年归来才27岁",
+        "onboard_time": 1716372739,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101898,
+        "num": 128629,
+        "word": "国家宝藏第四季首发阵容",
+        "onboard_time": 1716382038,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126154,
+        "num": 126154,
+        "word": "银渐层 妈你可真牛",
+        "onboard_time": 1716370278,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121235,
+        "num": 121235,
+        "word": "赵丽颖 赵监制",
+        "onboard_time": 1716359418,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115512,
+        "num": 115512,
+        "word": "龚俊在片场嘴巴没停过",
+        "onboard_time": 1716378197,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108506,
+        "num": 108506,
+        "word": "社区大清早打电话问我怀孕了没",
+        "onboard_time": 1716366318,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104557,
+        "num": 104557,
+        "word": "巴勒斯坦",
+        "onboard_time": 1716363679,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 96344,
+        "num": 96344,
+        "word": "弗格5分钟三次犯规",
+        "onboard_time": 1716381919,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向越南新任国家主席苏林致贺电#"
+    }
+  }
+}

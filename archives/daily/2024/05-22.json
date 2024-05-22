@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716381309011,
+  "endTime": 1716382217393,
   "band_list": [
     {
       "raw_hot": 2119424,
@@ -153,6 +153,14 @@
       "onboard_time": 1716353841,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1022851,
+      "num": 429841,
+      "word": "庆余年 杀疯了",
+      "onboard_time": 1716381318,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 989031,
@@ -579,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451854,
+      "num": 414632,
+      "word": "赵丽颖林更新2个人3个耶",
+      "onboard_time": 1716378497,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 448363,
       "num": 448363,
       "word": "伊朗方面披露总统直升机事故细节",
@@ -667,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414632,
-      "num": 414632,
-      "word": "赵丽颖林更新2个人3个耶",
-      "onboard_time": 1716378497,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 413143,
       "num": 274017,
       "word": "TFBOYS给五月天送花篮",
@@ -723,12 +731,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 394764,
+      "num": 220538,
+      "word": "我让老公经历了断崖式离婚",
+      "onboard_time": 1716381678,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 391945,
       "num": 272876,
       "word": "刘亦菲井柏然民国剧照",
       "onboard_time": 1716340339,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384968,
+      "num": 384968,
+      "word": "周鸿祎将购买7辆国产新能源车",
+      "onboard_time": 1716377057,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 380434,
@@ -753,14 +777,6 @@
       "onboard_time": 1716303439,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375470,
-      "num": 375470,
-      "word": "周鸿祎将购买7辆国产新能源车",
-      "onboard_time": 1716377057,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 365232,
@@ -859,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338092,
+      "num": 311082,
+      "word": "易烊千玺参加文艺志愿者晚会",
+      "onboard_time": 1716379458,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337928,
       "num": 337928,
       "word": "妈妈五十岁了还在买娃娃",
@@ -899,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320594,
+      "num": 320594,
+      "word": "拼多多总市值超越阿里巴巴",
+      "onboard_time": 1716378977,
+      "rank": 17,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 313958,
       "num": 313958,
       "word": "为什么女生的身上莫名出现淤青",
@@ -913,14 +945,6 @@
       "onboard_time": 1716354859,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 311082,
-      "num": 311082,
-      "word": "易烊千玺参加文艺志愿者晚会",
-      "onboard_time": 1716379458,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 307178,
@@ -1075,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250465,
-      "num": 250465,
-      "word": "拼多多总市值超越阿里巴巴",
-      "onboard_time": 1716378977,
-      "rank": 17,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 250323,
       "num": 250323,
       "word": "海南海边发现骨架2米不明生物尸体",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1716347598,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 246496,
+      "num": 246496,
+      "word": "九尾直播",
+      "onboard_time": 1716380837,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 246117,
@@ -1185,14 +1209,6 @@
       "onboard_time": 1716344719,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 231953,
-      "num": 231953,
-      "word": "九尾直播",
-      "onboard_time": 1716380837,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 231074,
@@ -1651,6 +1667,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 175733,
+      "num": 175733,
+      "word": "炫富成为一门生意尽头是带货",
+      "onboard_time": 1716380958,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175322,
       "num": 175322,
       "word": "张艺兴首尔站官宣",
@@ -1721,6 +1745,14 @@
       "onboard_time": 1716366559,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167304,
+      "num": 167304,
+      "word": "眼泪女王新婚纱照",
+      "onboard_time": 1716381318,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 166258,
@@ -1939,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148137,
+      "num": 144871,
+      "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
+      "onboard_time": 1716381197,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148087,
       "num": 148087,
       "word": "林更新曾把王彦霖导到墓园",
@@ -2041,6 +2081,14 @@
       "onboard_time": 1716377598,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138112,
+      "num": 138112,
+      "word": "杨幂龚俊发布会同框",
+      "onboard_time": 1716381858,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137941,
@@ -2161,14 +2209,6 @@
       "onboard_time": 1716369380,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129264,
-      "num": 129264,
-      "word": "炫富成为一门生意尽头是带货",
-      "onboard_time": 1716380958,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127846,
@@ -2323,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117944,
+      "num": 374912,
+      "word": "炫富网红炫的是畸形价值观",
+      "onboard_time": 1716378137,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117856,
       "num": 117856,
       "word": "曾敬骅演技",
@@ -2403,6 +2451,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 101898,
+      "num": 128629,
+      "word": "国家宝藏第四季首发阵容",
+      "onboard_time": 1716382038,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100582,
       "num": 590432,
       "word": "福宝的美人痣是睡出来的",
@@ -2411,20 +2467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96344,
+      "num": 96344,
+      "word": "弗格5分钟三次犯规",
+      "onboard_time": 1716381919,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96238,
       "num": 118558,
       "word": "第一次意识到1万块这么有质感",
       "onboard_time": 1716269360,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94268,
-      "num": 374912,
-      "word": "炫富网红炫的是畸形价值观",
-      "onboard_time": 1716378137,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93566,
@@ -2449,14 +2505,6 @@
       "onboard_time": 1716361340,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89447,
-      "num": 107173,
-      "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
-      "onboard_time": 1716381197,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 87515,
@@ -2775,6 +2823,9 @@
     },
     {
       "word": "#习近平向第14届中美旅游高层对话开幕致信#"
+    },
+    {
+      "word": "#习近平向越南新任国家主席苏林致贺电#"
     }
   ]
 }
