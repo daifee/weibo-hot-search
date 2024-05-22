@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716413660832,
+  "endTime": 1716416242224,
   "band_list": [
     {
       "raw_hot": 1222790,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152772,
+      "num": 152772,
+      "word": "教授建议18到25岁要多谈恋爱",
+      "onboard_time": 1716407710,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145539,
       "num": 145539,
       "word": "付辛博颖儿的恋爱合同",
@@ -209,6 +217,14 @@
       "onboard_time": 1716388580,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140348,
+      "num": 140348,
+      "word": "女子带婴儿到网吧打游戏",
+      "onboard_time": 1716400872,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130252,
@@ -291,14 +307,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 105437,
-      "num": 88511,
-      "word": "女子带婴儿到网吧打游戏",
-      "onboard_time": 1716400872,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104805,
       "num": 123028,
       "word": "辽宁男篮CBA三连冠",
@@ -320,14 +328,6 @@
       "word": "明显感觉到大学逐渐高中化",
       "onboard_time": 1716370879,
       "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 96662,
-      "num": 96662,
-      "word": "教授建议18到25岁要多谈恋爱",
-      "onboard_time": 1716407710,
-      "rank": 11,
       "category": "情感"
     },
     {
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44939,
+      "num": 44939,
+      "word": "有点难为杨幂了",
+      "onboard_time": 1716405613,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 42438,
       "num": 359810,
       "word": "一人一句为中高考学子打气",
@@ -443,20 +451,44 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 34192,
-      "num": 34192,
-      "word": "有点难为杨幂了",
-      "onboard_time": 1716405613,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 36286,
+      "num": 31225,
+      "word": "张若昀演出了范闲的失望",
+      "onboard_time": 1716411790,
+      "rank": 35,
+      "category": "剧集"
     },
     {
-      "raw_hot": 28926,
+      "raw_hot": 32281,
+      "num": 31082,
+      "word": "人老了苦日子才刚刚开始",
+      "onboard_time": 1716405971,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 30703,
+      "num": 30703,
+      "word": "杨幂抠书式还原涂山红红",
+      "onboard_time": 1716409031,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30434,
       "num": 30540,
       "word": "田田小阿姨抖音账号搜索不到",
       "onboard_time": 1716371298,
       "rank": 40,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 26968,
+      "num": 26968,
+      "word": "钟楚曦金色人鱼裙",
+      "onboard_time": 1716413712,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 25041,
@@ -467,28 +499,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 22966,
-      "num": 22966,
+      "raw_hot": 24237,
+      "num": 24237,
       "word": "亚特兰大vs勒沃库森",
       "onboard_time": 1716405850,
       "rank": 29,
       "category": "体育"
     },
     {
-      "raw_hot": 21504,
-      "num": 21504,
-      "word": "杨幂抠书式还原涂山红红",
-      "onboard_time": 1716409031,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 21285,
-      "num": 21285,
-      "word": "人老了苦日子才刚刚开始",
-      "onboard_time": 1716405971,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 23062,
+      "num": 23062,
+      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
+      "onboard_time": 1716404711,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 21185,
@@ -500,27 +524,11 @@
     },
     {
       "raw_hot": 19948,
-      "num": 20259,
+      "num": 20611,
       "word": "总睡不够是缺维生素D吗",
       "onboard_time": 1716404411,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 19024,
-      "num": 19024,
-      "word": "张若昀演出了范闲的失望",
-      "onboard_time": 1716411790,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18917,
-      "num": 20260,
-      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
-      "onboard_time": 1716404711,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 18369,
@@ -531,8 +539,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14250,
-      "num": 16479,
+      "raw_hot": 18017,
+      "num": 20599,
       "word": "全国吃辣battle",
       "onboard_time": 1716409631,
       "rank": 48,

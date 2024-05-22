@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716413660832,
+  "endTime": 1716416242224,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -8491,6 +8491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140348,
+      "num": 140348,
+      "word": "女子带婴儿到网吧打游戏",
+      "onboard_time": 1716400872,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139802,
       "num": 139802,
       "word": "戛纳街头偶遇钟楚曦侯雯元",
@@ -10203,14 +10211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105437,
-      "num": 88511,
-      "word": "女子带婴儿到网吧打游戏",
-      "onboard_time": 1716400872,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105255,
       "num": 1094150,
       "word": "去大熊猫家做客",
@@ -11291,6 +11291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44939,
+      "num": 44939,
+      "word": "有点难为杨幂了",
+      "onboard_time": 1716405613,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 44837,
       "num": 67216,
       "word": "刘亦菲高级珠宝",
@@ -11467,6 +11475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36286,
+      "num": 31225,
+      "word": "张若昀演出了范闲的失望",
+      "onboard_time": 1716411790,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36124,
       "num": 325970,
       "word": "龚俊想在戛纳开串串店",
@@ -11497,14 +11513,6 @@
       "onboard_time": 1716297499,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34192,
-      "num": 34192,
-      "word": "有点难为杨幂了",
-      "onboard_time": 1716405613,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34164,
@@ -11579,6 +11587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 32281,
+      "num": 31082,
+      "word": "人老了苦日子才刚刚开始",
+      "onboard_time": 1716405971,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31690,
       "num": 867619,
       "word": "旅游胜地的中华文化有多绝",
@@ -11593,6 +11609,14 @@
       "onboard_time": 1716290117,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 30703,
+      "num": 30703,
+      "word": "杨幂抠书式还原涂山红红",
+      "onboard_time": 1716409031,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 30225,
@@ -11641,6 +11665,14 @@
       "onboard_time": 1716316331,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 26968,
+      "num": 26968,
+      "word": "钟楚曦金色人鱼裙",
+      "onboard_time": 1716413712,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 26608,
@@ -11715,6 +11747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24237,
+      "num": 24237,
+      "word": "亚特兰大vs勒沃库森",
+      "onboard_time": 1716405850,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23627,
       "num": 175029,
       "word": "大四学生拍毕业照意外与婚纱照同框",
@@ -11723,12 +11763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22966,
-      "num": 22966,
-      "word": "亚特兰大vs勒沃库森",
-      "onboard_time": 1716405850,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 23062,
+      "num": 23062,
+      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
+      "onboard_time": 1716404711,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 22275,
@@ -11737,22 +11777,6 @@
       "onboard_time": 1716333734,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21504,
-      "num": 21504,
-      "word": "杨幂抠书式还原涂山红红",
-      "onboard_time": 1716409031,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 21285,
-      "num": 21285,
-      "word": "人老了苦日子才刚刚开始",
-      "onboard_time": 1716405971,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 21185,
@@ -11764,7 +11788,7 @@
     },
     {
       "raw_hot": 19948,
-      "num": 20259,
+      "num": 20611,
       "word": "总睡不够是缺维生素D吗",
       "onboard_time": 1716404411,
       "rank": 45,
@@ -11795,22 +11819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19024,
-      "num": 19024,
-      "word": "张若昀演出了范闲的失望",
-      "onboard_time": 1716411790,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18917,
-      "num": 20260,
-      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
-      "onboard_time": 1716404711,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 18889,
       "num": 169272,
       "word": "奶奶不懂520但知道关心和爱要表达",
@@ -11825,6 +11833,14 @@
       "onboard_time": 1716382219,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18017,
+      "num": 20599,
+      "word": "全国吃辣battle",
+      "onboard_time": 1716409631,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 17985,
@@ -11897,14 +11913,6 @@
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14250,
-      "num": 16479,
-      "word": "全国吃辣battle",
-      "onboard_time": 1716409631,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 12843,
