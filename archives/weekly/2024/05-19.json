@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716370470258,
+  "endTime": 1716373192755,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -392,6 +392,14 @@
       "word": "小红书崩了",
       "onboard_time": 1716277399,
       "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1396639,
+      "num": 1396639,
+      "word": "微信扫一扫加好友有讲究吗",
+      "onboard_time": 1716370038,
+      "rank": 32,
       "category": "互联网"
     },
     {
@@ -1107,6 +1115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 771796,
+      "num": 771796,
+      "word": "银渐层 妈你可真牛",
+      "onboard_time": 1716370278,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 771482,
       "num": 669133,
       "word": "王俊凯出发蔡依林演唱会彩排",
@@ -1372,7 +1388,7 @@
     },
     {
       "raw_hot": 688733,
-      "num": 485606,
+      "num": 590249,
       "word": "中方回应梵蒂冈希望在北京设办事处",
       "onboard_time": 1716368719,
       "rank": 14,
@@ -1412,7 +1428,7 @@
     },
     {
       "raw_hot": 678945,
-      "num": 583817,
+      "num": 609240,
       "word": "网红cici删除鲍鱼家姐相关视频",
       "onboard_time": 1716364879,
       "rank": 18,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1716291198,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663064,
+      "num": 292961,
+      "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
+      "onboard_time": 1716372018,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662901,
@@ -1843,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 556385,
+      "num": 556385,
+      "word": "田田小阿姨抖音账号搜索不到",
+      "onboard_time": 1716371298,
+      "rank": 11,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 547541,
       "num": 547541,
       "word": "ZICO",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1716089177,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 515629,
+      "num": 285749,
+      "word": "明显感觉到大学逐渐高中化",
+      "onboard_time": 1716370879,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 515581,
@@ -3179,6 +3219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341297,
+      "num": 341297,
+      "word": "张若昀演黑狐的时候都没上桌吗",
+      "onboard_time": 1716368058,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341294,
       "num": 478574,
       "word": "菏泽南站",
@@ -3256,6 +3304,14 @@
       "word": "唐嫣活动生图",
       "onboard_time": 1716106278,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 337314,
+      "num": 337314,
+      "word": "关晓彤出道23年归来才27岁",
+      "onboard_time": 1716372739,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -3755,14 +3811,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 288638,
-      "num": 197182,
-      "word": "银渐层 妈你可真牛",
-      "onboard_time": 1716370278,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 288263,
       "num": 243824,
       "word": "三皇子 年轻人觉多",
@@ -3993,14 +4041,6 @@
       "onboard_time": 1716343938,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 274563,
-      "num": 274563,
-      "word": "张若昀演黑狐的时候都没上桌吗",
-      "onboard_time": 1716368058,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 274371,
@@ -4235,6 +4275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256019,
+      "num": 256019,
+      "word": "官方通报贵州一烤肉店给肉串喷漆",
+      "onboard_time": 1716369858,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256013,
       "num": 256013,
       "word": "张韶涵回应那英需要你",
@@ -4249,6 +4297,14 @@
       "onboard_time": 1716181282,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 255376,
+      "num": 255376,
+      "word": "刘亦菲露腰T恤",
+      "onboard_time": 1716370399,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255343,
@@ -4827,14 +4883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217836,
-      "num": 217836,
-      "word": "官方通报贵州一烤肉店给肉串喷漆",
-      "onboard_time": 1716369858,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217804,
       "num": 217804,
       "word": "这土豆花非送不可吗",
@@ -5227,6 +5275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203752,
+      "num": 203752,
+      "word": "灵儿清融破碎感大片",
+      "onboard_time": 1716372979,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203737,
       "num": 397518,
       "word": "郎平官宣新身份",
@@ -5432,6 +5488,14 @@
       "word": "魏大勋掰loopy的牙",
       "onboard_time": 1716208578,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199438,
+      "num": 199438,
+      "word": "左航 人生来就该是自由的",
+      "onboard_time": 1716372258,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -5851,6 +5915,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 188948,
+      "num": 188948,
+      "word": "汪苏泷看了都得愣一下",
+      "onboard_time": 1716371359,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188917,
       "num": 188917,
       "word": "外国人难以理解的韩国特有文化",
@@ -5889,6 +5961,14 @@
       "onboard_time": 1716051555,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187657,
+      "num": 187657,
+      "word": "杨幂狐妖发布会出发图",
+      "onboard_time": 1716369380,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 187584,
@@ -5993,14 +6073,6 @@
       "onboard_time": 1716294739,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 184643,
-      "num": 184643,
-      "word": "微信扫一扫加好友有讲究吗",
-      "onboard_time": 1716370038,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 184541,
@@ -6257,6 +6329,14 @@
       "onboard_time": 1716348621,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 175729,
+      "num": 175729,
+      "word": "zzr盲僧",
+      "onboard_time": 1716372678,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 175630,
@@ -6859,6 +6939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157615,
+      "num": 157615,
+      "word": "网传一烤肉店给肉串竹签喷漆",
+      "onboard_time": 1716372797,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157537,
       "num": 157537,
       "word": "肖战饭制互动游戏预告首发",
@@ -7363,6 +7451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145793,
+      "num": 145793,
+      "word": "国米结束苏宁时代",
+      "onboard_time": 1716372979,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145686,
       "num": 145686,
       "word": "年轻人为什么不爱网红品牌了",
@@ -7851,14 +7947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134565,
-      "num": 134565,
-      "word": "杨幂狐妖发布会出发图",
-      "onboard_time": 1716369380,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134435,
       "num": 134435,
       "word": "徐明浩大喇喊话不要插队",
@@ -8153,14 +8241,6 @@
       "onboard_time": 1716268818,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127929,
-      "num": 127929,
-      "word": "刘亦菲露腰T恤",
-      "onboard_time": 1716370399,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127846,
@@ -8577,6 +8657,14 @@
       "onboard_time": 1716166398,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 121719,
+      "num": 121719,
+      "word": "魏大勋关节戒",
+      "onboard_time": 1716372499,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 121574,
@@ -9523,6 +9611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95987,
+      "num": 590432,
+      "word": "福宝的美人痣是睡出来的",
+      "onboard_time": 1716370578,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94268,
       "num": 94268,
       "word": "救助了一只句句有回应的小猫",
@@ -10385,6 +10481,14 @@
       "onboard_time": 1716091216,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 38271,
+      "num": 590273,
+      "word": "李玫瑾谈未成年人犯罪",
+      "onboard_time": 1716372319,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38158,

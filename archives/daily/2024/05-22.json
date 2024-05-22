@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716370470258,
+  "endTime": 1716373192755,
   "band_list": [
     {
       "raw_hot": 2119424,
@@ -49,6 +49,14 @@
       "onboard_time": 1716362779,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1396639,
+      "num": 1396639,
+      "word": "微信扫一扫加好友有讲究吗",
+      "onboard_time": 1716370038,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 1383802,
@@ -235,6 +243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 771796,
+      "num": 771796,
+      "word": "银渐层 妈你可真牛",
+      "onboard_time": 1716370278,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 759464,
       "num": 759464,
       "word": "多名炫富网红被封号",
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 688733,
-      "num": 485606,
+      "num": 590249,
       "word": "中方回应梵蒂冈希望在北京设办事处",
       "onboard_time": 1716368719,
       "rank": 14,
@@ -292,11 +308,19 @@
     },
     {
       "raw_hot": 678945,
-      "num": 583817,
+      "num": 609240,
       "word": "网红cici删除鲍鱼家姐相关视频",
       "onboard_time": 1716364879,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 663064,
+      "num": 292961,
+      "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
+      "onboard_time": 1716372018,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662901,
@@ -411,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 556385,
+      "num": 556385,
+      "word": "田田小阿姨抖音账号搜索不到",
+      "onboard_time": 1716371298,
+      "rank": 11,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 539525,
       "num": 539525,
       "word": "以色列宣布召回驻挪威和爱尔兰大使",
@@ -441,6 +473,14 @@
       "onboard_time": 1716297620,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 515629,
+      "num": 285749,
+      "word": "明显感觉到大学逐渐高中化",
+      "onboard_time": 1716370879,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 515581,
@@ -723,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341297,
+      "num": 341297,
+      "word": "张若昀演黑狐的时候都没上桌吗",
+      "onboard_time": 1716368058,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339955,
       "num": 339955,
       "word": "郭麒麟真不是贾静雯的托儿",
@@ -736,6 +784,14 @@
       "word": "SM给aespa买的蛋糕有多难吃",
       "onboard_time": 1716363920,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 337314,
+      "num": 337314,
+      "word": "关晓彤出道23年归来才27岁",
+      "onboard_time": 1716372739,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -811,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288638,
-      "num": 197182,
-      "word": "银渐层 妈你可真牛",
-      "onboard_time": 1716370278,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 287647,
       "num": 396003,
       "word": "凯尔特人10倍罚球",
@@ -875,14 +923,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 274563,
-      "num": 274563,
-      "word": "张若昀演黑狐的时候都没上桌吗",
-      "onboard_time": 1716368058,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 266293,
       "num": 266293,
       "word": "刘亦菲祖母绿高珠",
@@ -913,6 +953,22 @@
       "onboard_time": 1716352941,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256019,
+      "num": 256019,
+      "word": "官方通报贵州一烤肉店给肉串喷漆",
+      "onboard_time": 1716369858,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255376,
+      "num": 255376,
+      "word": "刘亦菲露腰T恤",
+      "onboard_time": 1716370399,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 253291,
@@ -1051,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217836,
-      "num": 217836,
-      "word": "官方通报贵州一烤肉店给肉串喷漆",
-      "onboard_time": 1716369858,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216963,
       "num": 216963,
       "word": "姜爷爷谈福宝择偶标准",
@@ -1139,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203752,
+      "num": 203752,
+      "word": "灵儿清融破碎感大片",
+      "onboard_time": 1716372979,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202863,
       "num": 200375,
       "word": "庆余年太子 大智若愚",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1716347899,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 199438,
+      "num": 199438,
+      "word": "左航 人生来就该是自由的",
+      "onboard_time": 1716372258,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 199174,
@@ -1219,12 +1283,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 188948,
+      "num": 188948,
+      "word": "汪苏泷看了都得愣一下",
+      "onboard_time": 1716371359,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188470,
       "num": 188470,
       "word": "吴幸键 朱亚文黄轩之子",
       "onboard_time": 1716353121,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187657,
+      "num": 187657,
+      "word": "杨幂狐妖发布会出发图",
+      "onboard_time": 1716369380,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 187516,
@@ -1265,14 +1345,6 @@
       "onboard_time": 1716366798,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184643,
-      "num": 184643,
-      "word": "微信扫一扫加好友有讲究吗",
-      "onboard_time": 1716370038,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 180782,
@@ -1321,6 +1393,14 @@
       "onboard_time": 1716348621,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 175729,
+      "num": 175729,
+      "word": "zzr盲僧",
+      "onboard_time": 1716372678,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 175322,
@@ -1483,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157615,
+      "num": 157615,
+      "word": "网传一烤肉店给肉串竹签喷漆",
+      "onboard_time": 1716372797,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156288,
       "num": 188446,
       "word": "HPV疫苗接种成本降低",
@@ -1603,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145793,
+      "num": 145793,
+      "word": "国米结束苏宁时代",
+      "onboard_time": 1716372979,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144050,
       "num": 144050,
       "word": "东北的独生子女地位有多高",
@@ -1683,14 +1779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134565,
-      "num": 134565,
-      "word": "杨幂狐妖发布会出发图",
-      "onboard_time": 1716369380,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134333,
       "num": 134333,
       "word": "袁隆平逝世3周年",
@@ -1753,14 +1841,6 @@
       "onboard_time": 1716369380,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127929,
-      "num": 127929,
-      "word": "刘亦菲露腰T恤",
-      "onboard_time": 1716370399,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127846,
@@ -1875,6 +1955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121719,
+      "num": 121719,
+      "word": "魏大勋关节戒",
+      "onboard_time": 1716372499,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120092,
       "num": 120092,
       "word": "李胜利百万欠款的来龙去脉",
@@ -1969,6 +2057,14 @@
       "onboard_time": 1716269360,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95987,
+      "num": 590432,
+      "word": "福宝的美人痣是睡出来的",
+      "onboard_time": 1716370578,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93566,
@@ -2209,6 +2305,14 @@
       "onboard_time": 1716312852,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38271,
+      "num": 590273,
+      "word": "李玫瑾谈未成年人犯罪",
+      "onboard_time": 1716372319,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37515,
