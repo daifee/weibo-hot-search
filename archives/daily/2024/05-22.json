@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716387452529,
+  "endTime": 1716388493250,
   "band_list": [
     {
       "raw_hot": 2391576,
@@ -81,6 +81,14 @@
       "onboard_time": 1716362779,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1411388,
+      "num": 1411388,
+      "word": "中疾控发布重大疾病预警",
+      "onboard_time": 1716386479,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1383802,
@@ -339,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 727609,
+      "num": 727609,
+      "word": "张凌赫徐若晗车内吻戏",
+      "onboard_time": 1716384319,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 720833,
       "num": 584721,
       "word": "付辛博是第二个拥有愧疚粉的人",
@@ -435,14 +451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 647712,
-      "num": 647712,
-      "word": "中疾控发布重大疾病预警",
-      "onboard_time": 1716386479,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 643200,
       "num": 557168,
       "word": "孙千身材",
@@ -457,14 +465,6 @@
       "onboard_time": 1716340580,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 612879,
-      "num": 612879,
-      "word": "张凌赫徐若晗车内吻戏",
-      "onboard_time": 1716384319,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 608923,
@@ -593,6 +593,14 @@
       "onboard_time": 1716300801,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 523958,
+      "num": 523958,
+      "word": "郭艾伦直播",
+      "onboard_time": 1716386600,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 523056,
@@ -835,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397108,
-      "num": 397108,
-      "word": "郭艾伦直播",
-      "onboard_time": 1716386600,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 395591,
       "num": 395591,
       "word": "大麦就拒绝更换观演人致歉",
@@ -1059,6 +1059,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 312091,
+      "num": 216195,
+      "word": "林更新偷了赵丽颖的图",
+      "onboard_time": 1716387260,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311212,
       "num": 284824,
       "word": "当大学生发现高考和端午撞了",
@@ -1179,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263218,
+      "num": 202223,
+      "word": "杨鸣夺冠采访没了",
+      "onboard_time": 1716387620,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261909,
       "num": 253386,
       "word": "长期晚上不吃饭身体会发生什么",
@@ -1272,6 +1288,14 @@
       "word": "又幸福了纯爱大皇子",
       "onboard_time": 1716294857,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 243687,
+      "num": 213098,
+      "word": "范闲的失败是角色的成功",
+      "onboard_time": 1716387800,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1387,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221597,
+      "num": 221597,
+      "word": "辽篮队史首个三连冠",
+      "onboard_time": 1716387981,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220632,
       "num": 220632,
       "word": "狮子座的先来后到",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1716360438,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211447,
+      "num": 211447,
+      "word": "中医认为半月痕是五脏六腑的警示器",
+      "onboard_time": 1716386299,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 210608,
@@ -1539,6 +1579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204029,
+      "num": 204029,
+      "word": "弗格FMVP",
+      "onboard_time": 1716387981,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203134,
       "num": 203134,
       "word": "林俊杰苏州 抢票",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1716350960,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202524,
+      "num": 202524,
+      "word": "辽篮王朝",
+      "onboard_time": 1716387981,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 201656,
@@ -1641,6 +1697,14 @@
       "onboard_time": 1716349518,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192856,
+      "num": 192856,
+      "word": "庆余年15集",
+      "onboard_time": 1716387079,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 192307,
@@ -1779,14 +1843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180327,
-      "num": 180327,
-      "word": "中医认为半月痕是五脏六腑的警示器",
-      "onboard_time": 1716386299,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 180113,
       "num": 180113,
       "word": "ILLIT公司起诉闵熙珍",
@@ -1899,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171470,
-      "num": 171470,
-      "word": "庆余年15集",
-      "onboard_time": 1716387079,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170788,
       "num": 183701,
       "word": "马立奥现场看CBA总决赛",
@@ -2017,6 +2065,14 @@
       "onboard_time": 1716374538,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161696,
+      "num": 161696,
+      "word": "姚明颁奖",
+      "onboard_time": 1716388160,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 161514,
@@ -2137,14 +2193,6 @@
       "onboard_time": 1716365958,
       "rank": 48,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 154508,
-      "num": 154508,
-      "word": "林更新偷了赵丽颖的图",
-      "onboard_time": 1716387260,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 154293,
@@ -2531,6 +2579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124723,
+      "num": 124723,
+      "word": "夏天痛经 至暗时刻",
+      "onboard_time": 1716387741,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124410,
       "num": 124410,
       "word": "原来商战真的是偷秘方",
@@ -2643,12 +2699,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114288,
+      "num": 114288,
+      "word": "伊能静好会写",
+      "onboard_time": 1716388399,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113600,
       "num": 145199,
       "word": "小程序崩了麦麦对讲机暂无法销售",
       "onboard_time": 1716351018,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 112272,
+      "num": 112272,
+      "word": "上海海港2比0成都蓉城",
+      "onboard_time": 1716388460,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109694,
@@ -2731,6 +2803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94470,
+      "num": 654653,
+      "word": "主播扎堆背后的流量之祸",
+      "onboard_time": 1716385760,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93566,
       "num": 118477,
       "word": "舒淇穿洞洞鞋",
@@ -2793,14 +2873,6 @@
       "onboard_time": 1716296660,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80769,
-      "num": 651755,
-      "word": "主播扎堆背后的流量之祸",
-      "onboard_time": 1716385760,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78585,

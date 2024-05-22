@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716387452529,
+  "endTime": 1716388493250,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2304,6 +2304,14 @@
       "word": "网购7700元迪士尼套餐最终民警护送入园",
       "onboard_time": 1714910658,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1411388,
+      "num": 1411388,
+      "word": "中疾控发布重大疾病预警",
+      "onboard_time": 1716386479,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -7811,6 +7819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727609,
+      "num": 727609,
+      "word": "张凌赫徐若晗车内吻戏",
+      "onboard_time": 1716384319,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 726790,
       "num": 726790,
       "word": "迪丽热巴编发红玫瑰",
@@ -9491,14 +9507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 647712,
-      "num": 647712,
-      "word": "中疾控发布重大疾病预警",
-      "onboard_time": 1716386479,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 647158,
       "num": 647158,
       "word": "华晨宇演唱会唱到日出",
@@ -10313,14 +10321,6 @@
       "onboard_time": 1714990518,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 612879,
-      "num": 612879,
-      "word": "张凌赫徐若晗车内吻戏",
-      "onboard_time": 1716384319,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 612869,
@@ -12481,6 +12481,14 @@
       "onboard_time": 1715523923,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 523958,
+      "num": 523958,
+      "word": "郭艾伦直播",
+      "onboard_time": 1716386600,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 523791,
@@ -17563,14 +17571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397108,
-      "num": 397108,
-      "word": "郭艾伦直播",
-      "onboard_time": 1716386600,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 396830,
       "num": 396830,
       "word": "我的阿勒泰 让我演两集",
@@ -21955,6 +21955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312091,
+      "num": 216195,
+      "word": "林更新偷了赵丽颖的图",
+      "onboard_time": 1716387260,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311977,
       "num": 311977,
       "word": "警方通报残疾女子街头直播遭拍臀",
@@ -25411,6 +25419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263218,
+      "num": 202223,
+      "word": "杨鸣夺冠采访没了",
+      "onboard_time": 1716387620,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263215,
       "num": 249734,
       "word": "赵丽颖18年56个角色",
@@ -27273,6 +27289,14 @@
       "onboard_time": 1715518401,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243687,
+      "num": 213098,
+      "word": "范闲的失败是角色的成功",
+      "onboard_time": 1716387800,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 243621,
@@ -29603,6 +29627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 221597,
+      "num": 221597,
+      "word": "辽篮队史首个三连冠",
+      "onboard_time": 1716387981,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221532,
       "num": 221532,
       "word": "太阳爆发X级耀斑",
@@ -31105,6 +31137,14 @@
       "onboard_time": 1716360438,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211447,
+      "num": 211447,
+      "word": "中医认为半月痕是五脏六腑的警示器",
+      "onboard_time": 1716386299,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 211434,
@@ -32635,6 +32675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204029,
+      "num": 204029,
+      "word": "弗格FMVP",
+      "onboard_time": 1716387981,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204021,
       "num": 204021,
       "word": "敖子逸路透",
@@ -32977,6 +33025,14 @@
       "onboard_time": 1715950703,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202524,
+      "num": 202524,
+      "word": "辽篮王朝",
+      "onboard_time": 1716387981,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 202516,
@@ -35771,6 +35827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192856,
+      "num": 192856,
+      "word": "庆余年15集",
+      "onboard_time": 1716387079,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192775,
       "num": 192775,
       "word": "TTG止步四强",
@@ -38547,14 +38611,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 180327,
-      "num": 180327,
-      "word": "中医认为半月痕是五脏六腑的警示器",
-      "onboard_time": 1716386299,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 180295,
       "num": 180295,
       "word": "涵艺爆料Ale加入AL",
@@ -40560,14 +40616,6 @@
       "word": "我的阿勒泰壁纸",
       "onboard_time": 1715267719,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 171470,
-      "num": 171470,
-      "word": "庆余年15集",
-      "onboard_time": 1716387079,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -42771,6 +42819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161696,
+      "num": 161696,
+      "word": "姚明颁奖",
+      "onboard_time": 1716388160,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161680,
       "num": 161680,
       "word": "全力做好现场救援伤员救治",
@@ -44328,14 +44384,6 @@
       "word": "给李诗恩封神",
       "onboard_time": 1716217940,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 154508,
-      "num": 154508,
-      "word": "林更新偷了赵丽颖的图",
-      "onboard_time": 1716387260,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -51403,6 +51451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124723,
+      "num": 124723,
+      "word": "夏天痛经 至暗时刻",
+      "onboard_time": 1716387741,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124687,
       "num": 124687,
       "word": "TES告别MSI",
@@ -53587,6 +53643,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 114288,
+      "num": 114288,
+      "word": "伊能静好会写",
+      "onboard_time": 1716388399,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114287,
       "num": 244695,
       "word": "极氪赴美IPO",
@@ -54041,6 +54105,14 @@
       "onboard_time": 1714536977,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112272,
+      "num": 112272,
+      "word": "上海海港2比0成都蓉城",
+      "onboard_time": 1716388460,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 112252,
@@ -56291,6 +56363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94470,
+      "num": 654653,
+      "word": "主播扎堆背后的流量之祸",
+      "onboard_time": 1716385760,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94277,
       "num": 94277,
       "word": "自闭症孩子的99岁老师说要尊重孩子",
@@ -57225,14 +57305,6 @@
       "onboard_time": 1714790177,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80769,
-      "num": 651755,
-      "word": "主播扎堆背后的流量之祸",
-      "onboard_time": 1716385760,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80620,
