@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716377735899,
+  "endTime": 1716381309011,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1269731,
+      "num": 1269731,
+      "word": "轻断食一天吃了11根玉米",
+      "onboard_time": 1716375978,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1259191,
       "num": 1259191,
       "word": "多地提醒慎入网约车行业",
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 1105009,
-      "num": 414223,
+      "num": 592475,
       "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
       "onboard_time": 1716372018,
       "rank": 20,
@@ -769,14 +777,6 @@
       "onboard_time": 1716295999,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1016368,
-      "num": 720419,
-      "word": "轻断食一天吃了11根玉米",
-      "onboard_time": 1716375978,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 1013811,
@@ -1003,6 +1003,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 839916,
+      "num": 839916,
+      "word": "付辛博颖儿的恋爱合同",
+      "onboard_time": 1716373758,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 839536,
       "num": 839536,
       "word": "那英回应摔倒",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1716259399,
       "rank": 16,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 833035,
-      "num": 833035,
-      "word": "付辛博颖儿的恋爱合同",
-      "onboard_time": 1716373758,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 832265,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1716044180,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 643200,
+      "num": 374715,
+      "word": "孙千身材",
+      "onboard_time": 1716377297,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 638062,
@@ -2667,6 +2675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 414632,
+      "num": 414632,
+      "word": "赵丽颖林更新2个人3个耶",
+      "onboard_time": 1716378497,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414173,
       "num": 414173,
       "word": "纽约中央公园偶遇网红凤姐",
@@ -3003,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375470,
+      "num": 375470,
+      "word": "周鸿祎将购买7辆国产新能源车",
+      "onboard_time": 1716377057,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 374603,
       "num": 374603,
       "word": "李秀满将重启韩国娱乐事业",
@@ -3145,6 +3169,14 @@
       "onboard_time": 1716266362,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357416,
+      "num": 357416,
+      "word": "杨幂涂山红红穿红",
+      "onboard_time": 1716376698,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 353284,
@@ -3369,14 +3401,6 @@
       "onboard_time": 1716049157,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 334029,
-      "num": 334029,
-      "word": "孙千身材",
-      "onboard_time": 1716377297,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 333426,
@@ -3675,6 +3699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 311082,
+      "num": 311082,
+      "word": "易烊千玺参加文艺志愿者晚会",
+      "onboard_time": 1716379458,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308608,
       "num": 308608,
       "word": "考研失败却过上更好的生活",
@@ -3969,6 +4001,14 @@
       "onboard_time": 1716334817,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281518,
+      "num": 250851,
+      "word": "aespa造型",
+      "onboard_time": 1716376938,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 281360,
@@ -4419,20 +4459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250851,
-      "num": 250851,
-      "word": "aespa造型",
-      "onboard_time": 1716376938,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 250758,
       "num": 234779,
       "word": "指甲出现这4个异常可能是大病先兆",
       "onboard_time": 1716208938,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 250465,
+      "num": 250465,
+      "word": "拼多多总市值超越阿里巴巴",
+      "onboard_time": 1716378977,
+      "rank": 17,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 249229,
@@ -4771,6 +4811,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 231953,
+      "num": 231953,
+      "word": "九尾直播",
+      "onboard_time": 1716380837,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231845,
       "num": 214583,
       "word": "杭州知名主持人决定送父母去养老院",
@@ -4907,6 +4955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 221713,
+      "num": 217264,
+      "word": "庆余年",
+      "onboard_time": 1716221119,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221012,
       "num": 221012,
       "word": "庆余年太子给打工人一些震撼",
@@ -4921,6 +4977,14 @@
       "onboard_time": 1716176722,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 220632,
+      "num": 220632,
+      "word": "狮子座的先来后到",
+      "onboard_time": 1716379818,
+      "rank": 22,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 220592,
@@ -5083,6 +5147,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212178,
+      "num": 212178,
+      "word": "赵丽颖工作室换头像了",
+      "onboard_time": 1716380058,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212177,
+      "num": 212177,
+      "word": "花少 行李超重",
+      "onboard_time": 1716378798,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212010,
       "num": 212010,
       "word": "金价明升暗降疯狂囤金理智吗",
@@ -5232,6 +5312,14 @@
       "word": "张馨予戴假睫毛vs不戴",
       "onboard_time": 1716338958,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208181,
+      "num": 208181,
+      "word": "王红权星二手奢侈品店仍在营业",
+      "onboard_time": 1716377539,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -5385,6 +5473,14 @@
       "onboard_time": 1716102917,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203134,
+      "num": 203134,
+      "word": "林俊杰苏州 抢票",
+      "onboard_time": 1716380657,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 202916,
@@ -5553,6 +5649,14 @@
       "onboard_time": 1716047297,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200032,
+      "num": 209281,
+      "word": "CBA",
+      "onboard_time": 1716207197,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 199856,
@@ -5724,7 +5828,7 @@
     },
     {
       "raw_hot": 196349,
-      "num": 168415,
+      "num": 180832,
       "word": "他俩感情没问题是我眼睛有问题",
       "onboard_time": 1716376398,
       "rank": 42,
@@ -6243,6 +6347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183461,
+      "num": 183461,
+      "word": "陈哲远 跑男",
+      "onboard_time": 1716379218,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183024,
       "num": 183024,
       "word": "舒淇被挤到耸肩",
@@ -6273,14 +6385,6 @@
       "onboard_time": 1716266959,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181647,
-      "num": 181647,
-      "word": "杨幂涂山红红穿红",
-      "onboard_time": 1716376698,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 181327,
@@ -7459,14 +7563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148804,
-      "num": 148804,
-      "word": "王红权星二手奢侈品店仍在营业",
-      "onboard_time": 1716377539,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148739,
       "num": 148739,
       "word": "宋亚轩521卡点1314",
@@ -7601,14 +7697,6 @@
       "onboard_time": 1716186738,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 145931,
-      "num": 145931,
-      "word": "周鸿祎将购买7辆国产新能源车",
-      "onboard_time": 1716377057,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 145911,
@@ -7995,6 +8083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137941,
+      "num": 137941,
+      "word": "拼多多第一季度净利润306亿元",
+      "onboard_time": 1716379758,
+      "rank": 40,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 137882,
       "num": 137882,
       "word": "DNF手游评分",
@@ -8379,6 +8475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129606,
+      "num": 129606,
+      "word": "龚俊在片场嘴巴没停过",
+      "onboard_time": 1716378197,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129370,
       "num": 129370,
       "word": "徐明浩这是想起DK了吧",
@@ -8401,6 +8505,14 @@
       "onboard_time": 1716206897,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129264,
+      "num": 129264,
+      "word": "炫富成为一门生意尽头是带货",
+      "onboard_time": 1716380958,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129233,
@@ -8987,6 +9099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119642,
+      "num": 119642,
+      "word": "孙千黑色蕾丝吊带",
+      "onboard_time": 1716378377,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119632,
       "num": 119632,
       "word": "喜欢趁没人时玩滑梯的猫咪",
@@ -9451,14 +9571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109256,
-      "num": 109256,
-      "word": "CBA",
-      "onboard_time": 1716207197,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109216,
       "num": 392915,
       "word": "521原来是国际茶日",
@@ -9843,6 +9955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94268,
+      "num": 374912,
+      "word": "炫富网红炫的是畸形价值观",
+      "onboard_time": 1716378137,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93704,
       "num": 93704,
       "word": "莫兰德犯规",
@@ -9897,6 +10017,14 @@
       "onboard_time": 1716208097,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 89447,
+      "num": 107173,
+      "word": "陈萍萍在范闲身上看到了叶轻眉的影子",
+      "onboard_time": 1716381197,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 89229,
@@ -10323,14 +10451,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 63235,
-      "num": 139604,
-      "word": "庆余年",
-      "onboard_time": 1716221119,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62902,
       "num": 62902,
       "word": "陈丽君报平安",
@@ -10748,7 +10868,7 @@
     },
     {
       "raw_hot": 36785,
-      "num": 365245,
+      "num": 598379,
       "word": "珍爱我们的共同家园",
       "onboard_time": 1716365720,
       "rank": 15,
