@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716334482676,
+  "endTime": 1716340686926,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1715299760,
       "rank": 10,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1691058,
+      "num": 1691058,
+      "word": "网红王红权星被各社交平台封禁",
+      "onboard_time": 1716334156,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 1683461,
@@ -4699,6 +4707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 971540,
+      "num": 971540,
+      "word": "有卖家因制作捏捏致身体不适闭店",
+      "onboard_time": 1716337100,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 971055,
       "num": 971055,
       "word": "花少北手机壳",
@@ -5979,14 +5995,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 845755,
-      "num": 101725,
-      "word": "网红王红权星被各社交平台封禁",
-      "onboard_time": 1716334156,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 845373,
       "num": 845373,
       "word": "广东通报一家五口海边游玩落水致4死",
@@ -6257,6 +6265,14 @@
       "onboard_time": 1714569199,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 821617,
+      "num": 448981,
+      "word": "长期保持体重的吃喝习惯",
+      "onboard_time": 1716338840,
+      "rank": 10,
+      "category": "运动健身"
     },
     {
       "raw_hot": 820905,
@@ -10443,6 +10459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 584729,
+      "num": 584729,
+      "word": "原来演唱会的字幕是PPT",
+      "onboard_time": 1716334217,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 583784,
       "num": 583784,
       "word": "女性排卵期这4种身体变化容易被误解",
@@ -10873,6 +10897,14 @@
       "onboard_time": 1714889477,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 565813,
+      "num": 565813,
+      "word": "林婉儿好像恋综主持人",
+      "onboard_time": 1716335839,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 564028,
@@ -12155,6 +12187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514166,
+      "num": 448729,
+      "word": "王红权星曾称全身没8位数不出门",
+      "onboard_time": 1716340039,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 514090,
       "num": 514090,
       "word": "动物园称死亡老虎不属于园方",
@@ -12481,6 +12521,14 @@
       "onboard_time": 1716182480,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 505800,
+      "num": 485535,
+      "word": "陈飞宇庄达菲情侣写真",
+      "onboard_time": 1716338601,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 505692,
@@ -13057,6 +13105,14 @@
       "onboard_time": 1714521977,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 486688,
+      "num": 486688,
+      "word": "很酷 不聊天",
+      "onboard_time": 1716339498,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 486234,
@@ -14035,6 +14091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460609,
+      "num": 460609,
+      "word": "台湾从来不是一个国家也永远不会成为一个国家",
+      "onboard_time": 1716340099,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 460399,
       "num": 460399,
       "word": "受辱的闺女窝囊的爹",
@@ -14211,6 +14275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456276,
+      "num": 261915,
+      "word": "医生呼吁这几种早餐尽量别贪吃",
+      "onboard_time": 1716338840,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 455763,
       "num": 333843,
       "word": "那英 当打之年",
@@ -14257,6 +14329,14 @@
       "onboard_time": 1714901959,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 454778,
+      "num": 454778,
+      "word": "庆余年2央视收视夺冠",
+      "onboard_time": 1716337699,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 454487,
@@ -14473,6 +14553,14 @@
       "onboard_time": 1715863878,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 448363,
+      "num": 448363,
+      "word": "伊朗方面披露总统直升机事故细节",
+      "onboard_time": 1716338601,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 448119,
@@ -15003,6 +15091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 433532,
+      "num": 433532,
+      "word": "刘亦菲紫色高定",
+      "onboard_time": 1716333556,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 433145,
       "num": 433145,
       "word": "佟丽娅关晓彤唐嫣戛纳同框",
@@ -15161,6 +15257,14 @@
       "onboard_time": 1714740442,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429869,
+      "num": 261626,
+      "word": "小米SU7充满73.6度电池费了87.86度电",
+      "onboard_time": 1716334938,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 429482,
@@ -15361,6 +15465,14 @@
       "onboard_time": 1714810279,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424717,
+      "num": 424717,
+      "word": "刘端端演技",
+      "onboard_time": 1716335717,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 424526,
@@ -16889,6 +17001,14 @@
       "onboard_time": 1715330599,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 395591,
+      "num": 395591,
+      "word": "大麦就拒绝更换观演人致歉",
+      "onboard_time": 1716338359,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 395551,
@@ -19243,6 +19363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344931,
+      "num": 261037,
+      "word": "庆余年 渐入佳境",
+      "onboard_time": 1716339078,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344481,
       "num": 361583,
       "word": "中国女排1比3加拿大女排",
@@ -19617,14 +19745,6 @@
       "onboard_time": 1715837958,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 336490,
-      "num": 336490,
-      "word": "刘亦菲紫色高定",
-      "onboard_time": 1716333556,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 336015,
@@ -21603,12 +21723,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 302673,
+      "num": 259144,
+      "word": "银行客户经理月薪从过万降至到手不足1000",
+      "onboard_time": 1716340099,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302571,
       "num": 302571,
       "word": "张予曦 我相信有真爱",
       "onboard_time": 1715688199,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302447,
+      "num": 258295,
+      "word": "媳妇买了一双和地砖撞色的鞋",
+      "onboard_time": 1716334156,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 301735,
@@ -22905,6 +23041,14 @@
       "onboard_time": 1715327119,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281833,
+      "num": 281833,
+      "word": "云南地震",
+      "onboard_time": 1716334817,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281673,
@@ -24523,6 +24667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262418,
+      "num": 262418,
+      "word": "想袁爷爷吴爷爷了",
+      "onboard_time": 1716340099,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262356,
       "num": 244083,
       "word": "想睡就睡是个很强大的能力",
@@ -24945,6 +25097,14 @@
       "onboard_time": 1714520416,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 257388,
+      "num": 257388,
+      "word": "建议大家工作后都准备两个微信",
+      "onboard_time": 1716307339,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 257315,
@@ -25537,14 +25697,6 @@
       "onboard_time": 1715952264,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249950,
-      "num": 161358,
-      "word": "建议大家工作后都准备两个微信",
-      "onboard_time": 1716307339,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 249743,
@@ -29891,6 +30043,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 211626,
+      "num": 211626,
+      "word": "刘亦菲井柏然民国剧照",
+      "onboard_time": 1716340339,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211561,
       "num": 211561,
       "word": "Ale加入AL",
@@ -30441,6 +30601,14 @@
       "onboard_time": 1715405540,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 208197,
+      "num": 208197,
+      "word": "张馨予戴假睫毛vs不戴",
+      "onboard_time": 1716338958,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 208190,
@@ -35115,6 +35283,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 189829,
+      "num": 189829,
+      "word": "为什么民宿越来越不流行了",
+      "onboard_time": 1716334156,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 189811,
       "num": 189811,
       "word": "GPT4o将免费使用",
@@ -35953,14 +36129,6 @@
       "onboard_time": 1716249377,
       "rank": 32,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 186515,
-      "num": 119782,
-      "word": "媳妇买了一双和地砖撞色的鞋",
-      "onboard_time": 1716334156,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 186506,
@@ -39523,6 +39691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168806,
+      "num": 168806,
+      "word": "刘宪华 超级双开门",
+      "onboard_time": 1716340217,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168762,
       "num": 168762,
       "word": "星穹铁道知更鸟",
@@ -39609,6 +39785,14 @@
       "onboard_time": 1716082036,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168394,
+      "num": 199863,
+      "word": "双星陨落3周年",
+      "onboard_time": 1716334276,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168338,
@@ -46547,6 +46731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136725,
+      "num": 136725,
+      "word": "出道前退出ILLIT的成员",
+      "onboard_time": 1716335058,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136563,
       "num": 136563,
       "word": "梁洁杀回现偶",
@@ -47091,6 +47283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134333,
+      "num": 134333,
+      "word": "袁隆平逝世3周年",
+      "onboard_time": 1716335839,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134315,
       "num": 134315,
       "word": "网易游戏520十周年福利",
@@ -47457,6 +47657,14 @@
       "onboard_time": 1715570539,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 132917,
+      "num": 132917,
+      "word": "一看就是爸爸宠大的女鹅",
+      "onboard_time": 1716336739,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 132865,
@@ -48691,6 +48899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127164,
+      "num": 127164,
+      "word": "随机舞蹈不再添加IVE歌曲",
+      "onboard_time": 1716336980,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127067,
       "num": 127067,
       "word": "学生偶遇的萌兽竟是二级保护动物",
@@ -48993,6 +49209,14 @@
       "onboard_time": 1715488638,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125855,
+      "num": 125855,
+      "word": "墨西哥jeans回应newjeans抄袭",
+      "onboard_time": 1716336319,
+      "rank": 46,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 125844,
@@ -49649,6 +49873,14 @@
       "onboard_time": 1716297199,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122809,
+      "num": 122809,
+      "word": "小熊猫打劫",
+      "onboard_time": 1716340397,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 122790,
@@ -50739,6 +50971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117681,
+      "num": 117681,
+      "word": "本科毕业论文何以成一些师生共同的痛苦",
+      "onboard_time": 1716340580,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117677,
       "num": 117677,
       "word": "王楚钦孙颖莎对阵黄镇廷杜凯琹",
@@ -51683,14 +51923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113003,
-      "num": 199863,
-      "word": "双星陨落3周年",
-      "onboard_time": 1716334276,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112977,
       "num": 324000,
       "word": "妈妈是第一个挺你的人",
@@ -51849,14 +52081,6 @@
       "onboard_time": 1714577478,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112193,
-      "num": 112193,
-      "word": "为什么民宿越来越不流行了",
-      "onboard_time": 1716334156,
-      "rank": 25,
-      "category": "旅游"
     },
     {
       "raw_hot": 112103,
@@ -54043,14 +54267,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 94969,
-      "num": 94969,
-      "word": "原来演唱会的字幕是PPT",
-      "onboard_time": 1716334217,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 94836,
       "num": 213378,
       "word": "简单三步让颈纹消失",
@@ -55619,6 +55835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72467,
+      "num": 449138,
+      "word": "赶紧问问消防员旁边那个秃头女人是谁",
+      "onboard_time": 1716334217,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71771,
       "num": 82636,
       "word": "TWICE回归预告",
@@ -57032,14 +57256,6 @@
       "word": "派出所为哭到泪崩的73岁老人做了一件事",
       "onboard_time": 1715382314,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50898,
-      "num": 72663,
-      "word": "赶紧问问消防员旁边那个秃头女人是谁",
-      "onboard_time": 1716334217,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
