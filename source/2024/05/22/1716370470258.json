@@ -1,0 +1,410 @@
+{
+  "runTime": 1716370470258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1523409,
+        "num": 1523409,
+        "word": "徐海乔宣璐手拉手",
+        "onboard_time": 1716363500,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 917167,
+        "num": 917167,
+        "word": "HPV疫苗价格大跳水",
+        "onboard_time": 1716362779,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57589,
+        "num": 618178,
+        "word": "玲龙一号主控室正式启动",
+        "onboard_time": 1716366140,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942355,
+        "num": 614984,
+        "word": "亚当爆改张震岳",
+        "onboard_time": 1716365720,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 609417,
+        "num": 609417,
+        "word": "台湾从来不是一个国家也永远不会成为一个国家",
+        "onboard_time": 1716340099,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 596256,
+        "num": 596256,
+        "word": "小米退地",
+        "onboard_time": 1716367640,
+        "rank": 5,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 636753,
+        "num": 575601,
+        "word": "网红cici删除鲍鱼家姐相关视频",
+        "onboard_time": 1716364879,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 540943,
+        "num": 540943,
+        "word": "社区大清早打电话问我怀孕了没",
+        "onboard_time": 1716366318,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 509583,
+        "num": 509583,
+        "word": "以色列宣布召回驻挪威和爱尔兰大使",
+        "onboard_time": 1716366979,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 82345,
+        "num": 488033,
+        "word": "半数银行人均薪酬下降",
+        "onboard_time": 1716359418,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 688733,
+        "num": 485606,
+        "word": "中方回应梵蒂冈希望在北京设办事处",
+        "onboard_time": 1716368719,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 481233,
+        "num": 481233,
+        "word": "短发的刘亦菲",
+        "onboard_time": 1716346579,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 442226,
+        "num": 442226,
+        "word": "赵丽颖 赵监制",
+        "onboard_time": 1716359418,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431579,
+        "num": 431579,
+        "word": "巴勒斯坦",
+        "onboard_time": 1716363679,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 380434,
+        "num": 380434,
+        "word": "林更新拉邓科爬山迷路",
+        "onboard_time": 1716368358,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379897,
+        "num": 379897,
+        "word": "以色列",
+        "onboard_time": 1716368778,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 379272,
+        "num": 379272,
+        "word": "曝男生被同学用11盆开水烫伤霸凌",
+        "onboard_time": 1716350241,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342719,
+        "num": 342719,
+        "word": "云南一中学生被同学砍杀身亡",
+        "onboard_time": 1716352522,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319321,
+        "num": 319321,
+        "word": "多名炫富网红被封号",
+        "onboard_time": 1716352880,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 274563,
+        "num": 274563,
+        "word": "张若昀演黑狐的时候都没上桌吗",
+        "onboard_time": 1716368058,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 690750,
+        "num": 273066,
+        "word": "亚当 喝中药",
+        "onboard_time": 1716366019,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266293,
+        "num": 266293,
+        "word": "刘亦菲祖母绿高珠",
+        "onboard_time": 1716364999,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236254,
+        "num": 236254,
+        "word": "何炅魏大勋双向奔赴",
+        "onboard_time": 1716370038,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234966,
+        "num": 234966,
+        "word": "毛晓彤付辛博大大方方营业",
+        "onboard_time": 1716352040,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217836,
+        "num": 217836,
+        "word": "官方通报贵州一烤肉店给肉串喷漆",
+        "onboard_time": 1716369858,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256626,
+        "num": 217824,
+        "word": "亚当美甲都卸了",
+        "onboard_time": 1716356780,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217637,
+        "num": 217637,
+        "word": "徐海乔转发回复赵丽颖",
+        "onboard_time": 1716365599,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200989,
+        "num": 200989,
+        "word": "张艺兴回应加入国家话剧院",
+        "onboard_time": 1716354080,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198927,
+        "num": 198927,
+        "word": "SM给aespa买的蛋糕有多难吃",
+        "onboard_time": 1716363920,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59703,
+        "num": 197219,
+        "word": "手机拍成这样可以收费吗",
+        "onboard_time": 1716367579,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 288638,
+        "num": 197182,
+        "word": "银渐层 妈你可真牛",
+        "onboard_time": 1716370278,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196883,
+        "num": 196883,
+        "word": "郑俊英准备移民",
+        "onboard_time": 1716363079,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184643,
+        "num": 184643,
+        "word": "微信扫一扫加好友有讲究吗",
+        "onboard_time": 1716370038,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178023,
+        "num": 178023,
+        "word": "浪姐也搞直播了",
+        "onboard_time": 1716364879,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176679,
+        "num": 176679,
+        "word": "为什么喝速溶咖啡的人变少了",
+        "onboard_time": 1716361458,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174722,
+        "num": 174722,
+        "word": "生理性喜欢",
+        "onboard_time": 1716353841,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151617,
+        "num": 151617,
+        "word": "中通客车涨停预言者身份公开",
+        "onboard_time": 1716366798,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 151320,
+        "num": 151320,
+        "word": "付辛博颖儿 好嗑",
+        "onboard_time": 1716359597,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150102,
+        "num": 150102,
+        "word": "台湾花莲海域再发5.0级地震",
+        "onboard_time": 1716368898,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146494,
+        "num": 146494,
+        "word": "国羽公示巴黎奥运参赛名单",
+        "onboard_time": 1716367098,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145003,
+        "num": 145003,
+        "word": "孙俪 甄嬛传团综",
+        "onboard_time": 1716360079,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143728,
+        "num": 143728,
+        "word": "田田小阿姨删除王红权星相关视频",
+        "onboard_time": 1716346939,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138203,
+        "num": 138203,
+        "word": "西班牙和爱尔兰承认巴勒斯坦国",
+        "onboard_time": 1716363318,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134565,
+        "num": 134565,
+        "word": "杨幂狐妖发布会出发图",
+        "onboard_time": 1716369380,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127929,
+        "num": 127929,
+        "word": "刘亦菲露腰T恤",
+        "onboard_time": 1716370399,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127078,
+        "num": 127078,
+        "word": "日本前首相痛批岸田政府挑衅中国",
+        "onboard_time": 1716364218,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126541,
+        "num": 126541,
+        "word": "二皇子 潮鞋收藏家",
+        "onboard_time": 1716364339,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123638,
+        "num": 123638,
+        "word": "当大学生发现高考和端午撞了",
+        "onboard_time": 1716354859,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123047,
+        "num": 123047,
+        "word": "徐明浩这是想起DK了吧",
+        "onboard_time": 1716369380,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121715,
+        "num": 121715,
+        "word": "法国人都要来中国买LV",
+        "onboard_time": 1716352941,
+        "rank": 49,
+        "category": "时尚,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设清洁美丽的世界#"
+    }
+  }
+}

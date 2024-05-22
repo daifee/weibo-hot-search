@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716369670231,
+  "endTime": 1716370470258,
   "band_list": [
     {
       "raw_hot": 2119424,
@@ -171,7 +171,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 925439,
+      "raw_hot": 942355,
       "num": 925439,
       "word": "亚当爆改张震岳",
       "onboard_time": 1716365720,
@@ -283,6 +283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 688733,
+      "num": 485606,
+      "word": "中方回应梵蒂冈希望在北京设办事处",
+      "onboard_time": 1716368719,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 678945,
       "num": 583817,
       "word": "网红cici删除鲍鱼家姐相关视频",
@@ -331,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 596256,
+      "num": 596256,
+      "word": "小米退地",
+      "onboard_time": 1716367640,
+      "rank": 5,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 595618,
       "num": 551593,
       "word": "叶灵儿",
@@ -345,14 +361,6 @@
       "onboard_time": 1716355399,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 588882,
-      "num": 588882,
-      "word": "小米退地",
-      "onboard_time": 1716367640,
-      "rank": 5,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 584729,
@@ -627,12 +635,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 376101,
-      "num": 376101,
-      "word": "中方回应梵蒂冈希望在北京设办事处",
-      "onboard_time": 1716368719,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 380434,
+      "num": 380434,
+      "word": "林更新拉邓科爬山迷路",
+      "onboard_time": 1716368358,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379897,
+      "num": 379897,
+      "word": "以色列",
+      "onboard_time": 1716368778,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 375762,
@@ -795,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288638,
+      "num": 197182,
+      "word": "银渐层 妈你可真牛",
+      "onboard_time": 1716370278,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 287647,
       "num": 396003,
       "word": "凯尔特人10倍罚球",
@@ -851,11 +875,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 274302,
-      "num": 274302,
-      "word": "林更新拉邓科爬山迷路",
-      "onboard_time": 1716368358,
-      "rank": 18,
+      "raw_hot": 274563,
+      "num": 274563,
+      "word": "张若昀演黑狐的时候都没上桌吗",
+      "onboard_time": 1716368058,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266293,
+      "num": 266293,
+      "word": "刘亦菲祖母绿高珠",
+      "onboard_time": 1716364999,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -881,22 +913,6 @@
       "onboard_time": 1716352941,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 256293,
-      "num": 256293,
-      "word": "以色列",
-      "onboard_time": 1716368778,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 256219,
-      "num": 256219,
-      "word": "刘亦菲祖母绿高珠",
-      "onboard_time": 1716364999,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 253291,
@@ -955,14 +971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242942,
-      "num": 242942,
-      "word": "张若昀演黑狐的时候都没上桌吗",
-      "onboard_time": 1716368058,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242389,
       "num": 242389,
       "word": "日本前首相痛批岸田政府挑衅中国",
@@ -993,6 +1001,14 @@
       "onboard_time": 1716357078,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236254,
+      "num": 236254,
+      "word": "何炅魏大勋双向奔赴",
+      "onboard_time": 1716370038,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 232340,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1716346517,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217836,
+      "num": 217836,
+      "word": "官方通报贵州一烤肉店给肉串喷漆",
+      "onboard_time": 1716369858,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216963,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1716366798,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184643,
+      "num": 184643,
+      "word": "微信扫一扫加好友有讲究吗",
+      "onboard_time": 1716370038,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 180782,
@@ -1651,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134565,
+      "num": 134565,
+      "word": "杨幂狐妖发布会出发图",
+      "onboard_time": 1716369380,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134333,
       "num": 134333,
       "word": "袁隆平逝世3周年",
@@ -1715,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127929,
+      "num": 127929,
+      "word": "刘亦菲露腰T恤",
+      "onboard_time": 1716370399,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 127846,
       "num": 544998,
       "word": "今天一起为人类的朋友发条微博",
@@ -1753,14 +1801,6 @@
       "onboard_time": 1716334456,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127101,
-      "num": 127101,
-      "word": "杨幂狐妖发布会出发图",
-      "onboard_time": 1716369380,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 127067,
@@ -2075,6 +2115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59703,
+      "num": 197242,
+      "word": "手机拍成这样可以收费吗",
+      "onboard_time": 1716367579,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 58441,
       "num": 1248506,
       "word": "玲龙一号主控室正式启动",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1716311415,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 55871,
-      "num": 197242,
-      "word": "手机拍成这样可以收费吗",
-      "onboard_time": 1716367579,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 55475,
