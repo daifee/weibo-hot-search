@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716416242224,
+  "endTime": 1716417238184,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -6459,6 +6459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188678,
+      "num": 188678,
+      "word": "女子带婴儿到网吧打游戏",
+      "onboard_time": 1716400872,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188470,
       "num": 188470,
       "word": "吴幸键 朱亚文黄轩之子",
@@ -8489,14 +8497,6 @@
       "onboard_time": 1716340397,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140348,
-      "num": 140348,
-      "word": "女子带婴儿到网吧打游戏",
-      "onboard_time": 1716400872,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139802,
@@ -10779,6 +10779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75513,
+      "num": 75513,
+      "word": "有点难为杨幂了",
+      "onboard_time": 1716405613,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 74595,
       "num": 74595,
       "word": "加沙小女孩遇空袭捂住耳朵告诉妈妈不想死",
@@ -11227,6 +11235,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 48410,
+      "num": 36830,
+      "word": "张若昀演出了范闲的失望",
+      "onboard_time": 1716411790,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48123,
       "num": 349874,
       "word": "男子到派出所求助查找去世父亲照片",
@@ -11289,14 +11305,6 @@
       "onboard_time": 1716074714,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 44939,
-      "num": 44939,
-      "word": "有点难为杨幂了",
-      "onboard_time": 1716405613,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 44837,
@@ -11435,6 +11443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 38353,
+      "num": 36707,
+      "word": "人老了苦日子才刚刚开始",
+      "onboard_time": 1716405971,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 38158,
       "num": 177549,
       "word": "DNF给了我一整个青春",
@@ -11475,11 +11491,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36286,
-      "num": 31225,
-      "word": "张若昀演出了范闲的失望",
-      "onboard_time": 1716411790,
-      "rank": 35,
+      "raw_hot": 36703,
+      "num": 36703,
+      "word": "杨幂抠书式还原涂山红红",
+      "onboard_time": 1716409031,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -11488,6 +11504,14 @@
       "word": "龚俊想在戛纳开串串店",
       "onboard_time": 1716265521,
       "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 35845,
+      "num": 35845,
+      "word": "钟楚曦金色人鱼裙",
+      "onboard_time": 1716413712,
+      "rank": 34,
       "category": "电影"
     },
     {
@@ -11587,14 +11611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32281,
-      "num": 31082,
-      "word": "人老了苦日子才刚刚开始",
-      "onboard_time": 1716405971,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 31690,
       "num": 867619,
       "word": "旅游胜地的中华文化有多绝",
@@ -11609,14 +11625,6 @@
       "onboard_time": 1716290117,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 30703,
-      "num": 30703,
-      "word": "杨幂抠书式还原涂山红红",
-      "onboard_time": 1716409031,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 30225,
@@ -11643,6 +11651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29001,
+      "num": 29001,
+      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
+      "onboard_time": 1716404711,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28793,
       "num": 159864,
       "word": "鸣潮比女娲会捏",
@@ -11667,12 +11683,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 26968,
-      "num": 26968,
-      "word": "钟楚曦金色人鱼裙",
-      "onboard_time": 1716413712,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 26701,
+      "num": 26701,
+      "word": "总睡不够是缺维生素D吗",
+      "onboard_time": 1716404411,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 26608,
@@ -11763,19 +11779,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23062,
-      "num": 23062,
-      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
-      "onboard_time": 1716404711,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 22275,
       "num": 103748,
       "word": "舞蹈演员机场整活大秀基本功",
       "onboard_time": 1716333734,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21406,
+      "num": 349175,
+      "word": "中国文化遗产有多绝",
+      "onboard_time": 1716382219,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -11787,12 +11803,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19948,
-      "num": 20611,
-      "word": "总睡不够是缺维生素D吗",
-      "onboard_time": 1716404411,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 20391,
+      "num": 23269,
+      "word": "宁波这口鲜甜上市了",
+      "onboard_time": 1716416592,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 19687,
+      "num": 23188,
+      "word": "全国吃辣battle",
+      "onboard_time": 1716409631,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 19555,
@@ -11825,22 +11849,6 @@
       "onboard_time": 1716247515,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 18369,
-      "num": 349175,
-      "word": "中国文化遗产有多绝",
-      "onboard_time": 1716382219,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18017,
-      "num": 20599,
-      "word": "全国吃辣battle",
-      "onboard_time": 1716409631,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 17985,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716416242224,
+  "endTime": 1716417238184,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -36947,6 +36947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188678,
+      "num": 188678,
+      "word": "女子带婴儿到网吧打游戏",
+      "onboard_time": 1716400872,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188672,
       "num": 175504,
       "word": "于适染了蓝色头发",
@@ -47891,14 +47899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140348,
-      "num": 140348,
-      "word": "女子带婴儿到网吧打游戏",
-      "onboard_time": 1716400872,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140346,
       "num": 140346,
       "word": "太阳耀斑",
@@ -57947,6 +57947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75513,
+      "num": 75513,
+      "word": "有点难为杨幂了",
+      "onboard_time": 1716405613,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75449,
       "num": 75449,
       "word": "苹果和安卓手机APP消费差距那么大",
@@ -59787,6 +59795,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 48410,
+      "num": 36830,
+      "word": "张若昀演出了范闲的失望",
+      "onboard_time": 1716411790,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48378,
       "num": 303263,
       "word": "男子地铁晕倒小伙跨车厢飞奔救援",
@@ -60017,14 +60033,6 @@
       "onboard_time": 1714593851,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 44939,
-      "num": 44939,
-      "word": "有点难为杨幂了",
-      "onboard_time": 1716405613,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 44837,
@@ -60459,6 +60467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 38353,
+      "num": 36707,
+      "word": "人老了苦日子才刚刚开始",
+      "onboard_time": 1716405971,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 38284,
       "num": 482632,
       "word": "海狮07EV电机卷到23000转",
@@ -60579,11 +60595,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36286,
-      "num": 31225,
-      "word": "张若昀演出了范闲的失望",
-      "onboard_time": 1716411790,
-      "rank": 35,
+      "raw_hot": 36703,
+      "num": 36703,
+      "word": "杨幂抠书式还原涂山红红",
+      "onboard_time": 1716409031,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -60617,6 +60633,14 @@
       "onboard_time": 1714759993,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35845,
+      "num": 35845,
+      "word": "钟楚曦金色人鱼裙",
+      "onboard_time": 1716413712,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 35656,
@@ -60835,14 +60859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32281,
-      "num": 31082,
-      "word": "人老了苦日子才刚刚开始",
-      "onboard_time": 1716405971,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 32041,
       "num": 47441,
       "word": "武艺 综艺感的神",
@@ -60921,14 +60937,6 @@
       "onboard_time": 1715672119,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 30703,
-      "num": 30703,
-      "word": "杨幂抠书式还原涂山红红",
-      "onboard_time": 1716409031,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 30653,
@@ -61019,6 +61027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 29001,
+      "num": 29001,
+      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
+      "onboard_time": 1716404711,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28957,
       "num": 28957,
       "word": "四川的猫咪自带松弛感",
@@ -61091,20 +61107,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 26968,
-      "num": 26968,
-      "word": "钟楚曦金色人鱼裙",
-      "onboard_time": 1716413712,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 26714,
       "num": 26714,
       "word": "留子打败老外靠的是无知",
       "onboard_time": 1715716811,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26701,
+      "num": 26701,
+      "word": "总睡不够是缺维生素D吗",
+      "onboard_time": 1716404411,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 26608,
@@ -61331,14 +61347,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 23062,
-      "num": 23062,
-      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
-      "onboard_time": 1716404711,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 22967,
       "num": 45394,
       "word": "重生之我在爽文短剧里当演员",
@@ -61443,6 +61451,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 21406,
+      "num": 349175,
+      "word": "中国文化遗产有多绝",
+      "onboard_time": 1716382219,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21318,
       "num": 337484,
       "word": "中国建成行星际闪烁监测望远镜",
@@ -61523,6 +61539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 20391,
+      "num": 23269,
+      "word": "宁波这口鲜甜上市了",
+      "onboard_time": 1716416592,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 20198,
       "num": 26274,
       "word": "夏天最喜欢的几款香水",
@@ -61531,12 +61555,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 19948,
-      "num": 20611,
-      "word": "总睡不够是缺维生素D吗",
-      "onboard_time": 1716404411,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 19687,
+      "num": 23188,
+      "word": "全国吃辣battle",
+      "onboard_time": 1716409631,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 19493,
@@ -61611,14 +61635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18369,
-      "num": 349175,
-      "word": "中国文化遗产有多绝",
-      "onboard_time": 1716382219,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18030,
       "num": 1733068,
       "word": "亚洲首艘圆筒型海上油气加工厂启运",
@@ -61633,14 +61649,6 @@
       "onboard_time": 1715282470,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18017,
-      "num": 20599,
-      "word": "全国吃辣battle",
-      "onboard_time": 1716409631,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 17985,

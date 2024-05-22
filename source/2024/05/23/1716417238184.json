@@ -1,0 +1,410 @@
+{
+  "runTime": 1716417238184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 301824,
+        "num": 301824,
+        "word": "B站取消播放时长指标外显改版",
+        "onboard_time": 1716391460,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207770,
+        "num": 207770,
+        "word": "教授建议18到25岁要多谈恋爱",
+        "onboard_time": 1716407710,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21406,
+        "num": 197398,
+        "word": "中国文化遗产有多绝",
+        "onboard_time": 1716382219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195789,
+        "num": 195789,
+        "word": "李承泽未承受半分恩泽",
+        "onboard_time": 1716395356,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188678,
+        "num": 188678,
+        "word": "女子带婴儿到网吧打游戏",
+        "onboard_time": 1716400872,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167617,
+        "num": 167617,
+        "word": "庆余年 杀疯了",
+        "onboard_time": 1716381318,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137476,
+        "num": 137476,
+        "word": "林更新偷了赵丽颖的图",
+        "onboard_time": 1716387260,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126069,
+        "num": 126069,
+        "word": "女子姐弟恋差17岁只比准婆婆小1岁",
+        "onboard_time": 1716382458,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93577,
+        "num": 93577,
+        "word": "庆帝赶紧死",
+        "onboard_time": 1716385700,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3150,
+        "num": 84804,
+        "word": "一人一句为中高考学子打气",
+        "onboard_time": 1716392538,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84103,
+        "num": 84103,
+        "word": "微信扫一扫加好友有讲究吗",
+        "onboard_time": 1716370038,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82303,
+        "num": 82303,
+        "word": "内塔尼亚胡称美国一年2万人饿死",
+        "onboard_time": 1716390200,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 78947,
+        "num": 78947,
+        "word": "六公主回应被认成亚当",
+        "onboard_time": 1716389541,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77892,
+        "num": 77892,
+        "word": "杨鸣被驱逐",
+        "onboard_time": 1716384499,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75513,
+        "num": 75513,
+        "word": "有点难为杨幂了",
+        "onboard_time": 1716405613,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74025,
+        "num": 74025,
+        "word": "付辛博颖儿的恋爱合同",
+        "onboard_time": 1716373758,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69706,
+        "num": 69706,
+        "word": "轻断食一天吃了11根玉米",
+        "onboard_time": 1716375978,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 69685,
+        "num": 69685,
+        "word": "同年同月同日生的鉴察院双子星",
+        "onboard_time": 1716394517,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40035,
+        "num": 40035,
+        "word": "安室透 安陵容",
+        "onboard_time": 1716383477,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 36943,
+        "num": 36943,
+        "word": "杨鸣夺冠采访没了",
+        "onboard_time": 1716387620,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126452,
+        "num": 36943,
+        "word": "8岁男童4小时吃光整瓶60粒叶黄素",
+        "onboard_time": 1716390081,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80258,
+        "num": 36916,
+        "word": "我让老公经历了断崖式离婚",
+        "onboard_time": 1716381678,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53773,
+        "num": 36886,
+        "word": "徐海乔宣璐手拉手",
+        "onboard_time": 1716363500,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51278,
+        "num": 36870,
+        "word": "中医认为半月痕是五脏六腑的警示器",
+        "onboard_time": 1716386299,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48410,
+        "num": 36830,
+        "word": "张若昀演出了范闲的失望",
+        "onboard_time": 1716411790,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42846,
+        "num": 36810,
+        "word": "杨幂说和郭晓婷很难对视",
+        "onboard_time": 1716384619,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41337,
+        "num": 36791,
+        "word": "罗云熙直播说羡慕刘宇宁",
+        "onboard_time": 1716391999,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39983,
+        "num": 36770,
+        "word": "张凌赫徐若晗车内吻戏",
+        "onboard_time": 1716384319,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39423,
+        "num": 36736,
+        "word": "田田小阿姨抖音账号搜索不到",
+        "onboard_time": 1716371298,
+        "rank": 28,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 38353,
+        "num": 36707,
+        "word": "人老了苦日子才刚刚开始",
+        "onboard_time": 1716405971,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36703,
+        "num": 36703,
+        "word": "杨幂抠书式还原涂山红红",
+        "onboard_time": 1716409031,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35845,
+        "num": 35845,
+        "word": "钟楚曦金色人鱼裙",
+        "onboard_time": 1716413712,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35162,
+        "num": 35162,
+        "word": "明显感觉到大学逐渐高中化",
+        "onboard_time": 1716370879,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33294,
+        "num": 33294,
+        "word": "辽宁男篮CBA三连冠",
+        "onboard_time": 1716385641,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33247,
+        "num": 33247,
+        "word": "伊能静好会写",
+        "onboard_time": 1716388399,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32597,
+        "num": 32597,
+        "word": "HPV疫苗价格大跳水",
+        "onboard_time": 1716362779,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31342,
+        "num": 31342,
+        "word": "章子怡抵达戛纳",
+        "onboard_time": 1716388941,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31042,
+        "num": 31042,
+        "word": "亚当 甘露寺美甲",
+        "onboard_time": 1716382758,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29001,
+        "num": 29001,
+        "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
+        "onboard_time": 1716404711,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26701,
+        "num": 26701,
+        "word": "总睡不够是缺维生素D吗",
+        "onboard_time": 1716404411,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25763,
+        "num": 25763,
+        "word": "拼多多总市值超越阿里巴巴",
+        "onboard_time": 1716378977,
+        "rank": 40,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 24579,
+        "num": 24579,
+        "word": "赵继伟哭了",
+        "onboard_time": 1716388580,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25320,
+        "num": 24251,
+        "word": "亚当吃米粉",
+        "onboard_time": 1716382878,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23863,
+        "num": 23863,
+        "word": "美妆圈的信息茧房有多恐怖",
+        "onboard_time": 1716407171,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 23440,
+        "num": 23440,
+        "word": "郭艾伦直播",
+        "onboard_time": 1716386600,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23375,
+        "num": 23375,
+        "word": "亚特兰大vs勒沃库森",
+        "onboard_time": 1716405850,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22055,
+        "num": 23327,
+        "word": "庆帝 我要diss你",
+        "onboard_time": 1716384499,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20391,
+        "num": 23269,
+        "word": "宁波这口鲜甜上市了",
+        "onboard_time": 1716416592,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19687,
+        "num": 23188,
+        "word": "全国吃辣battle",
+        "onboard_time": 1716409631,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19331,
+        "num": 23155,
+        "word": "B站社区与产品负责人道歉",
+        "onboard_time": 1716390740,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第14届中美旅游高层对话开幕致信#"
+    }
+  }
+}

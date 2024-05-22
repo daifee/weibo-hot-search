@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716416242224,
+  "endTime": 1716417238184,
   "band_list": [
     {
       "raw_hot": 1222790,
@@ -131,6 +131,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207770,
+      "num": 207770,
+      "word": "教授建议18到25岁要多谈恋爱",
+      "onboard_time": 1716407710,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 188678,
+      "num": 188678,
+      "word": "女子带婴儿到网吧打游戏",
+      "onboard_time": 1716400872,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188408,
       "num": 188408,
       "word": "HPV疫苗价格大跳水",
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152772,
-      "num": 152772,
-      "word": "教授建议18到25岁要多谈恋爱",
-      "onboard_time": 1716407710,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145539,
       "num": 145539,
       "word": "付辛博颖儿的恋爱合同",
@@ -217,14 +225,6 @@
       "onboard_time": 1716388580,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140348,
-      "num": 140348,
-      "word": "女子带婴儿到网吧打游戏",
-      "onboard_time": 1716400872,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130252,
@@ -379,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 75513,
+      "num": 75513,
+      "word": "有点难为杨幂了",
+      "onboard_time": 1716405613,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 73581,
       "num": 83898,
       "word": "B站社区与产品负责人道歉",
@@ -419,20 +427,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 48410,
+      "num": 36830,
+      "word": "张若昀演出了范闲的失望",
+      "onboard_time": 1716411790,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46271,
       "num": 665924,
       "word": "我国有345个国家级夜间文化和旅游消费集聚区",
       "onboard_time": 1716382399,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44939,
-      "num": 44939,
-      "word": "有点难为杨幂了",
-      "onboard_time": 1716405613,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 42438,
@@ -451,44 +459,52 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 36286,
-      "num": 31225,
-      "word": "张若昀演出了范闲的失望",
-      "onboard_time": 1716411790,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 32281,
-      "num": 31082,
-      "word": "人老了苦日子才刚刚开始",
-      "onboard_time": 1716405971,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 30703,
-      "num": 30703,
-      "word": "杨幂抠书式还原涂山红红",
-      "onboard_time": 1716409031,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 30434,
-      "num": 30540,
+      "raw_hot": 39423,
+      "num": 36736,
       "word": "田田小阿姨抖音账号搜索不到",
       "onboard_time": 1716371298,
       "rank": 40,
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 26968,
-      "num": 26968,
+      "raw_hot": 38353,
+      "num": 36707,
+      "word": "人老了苦日子才刚刚开始",
+      "onboard_time": 1716405971,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 36703,
+      "num": 36703,
+      "word": "杨幂抠书式还原涂山红红",
+      "onboard_time": 1716409031,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 35845,
+      "num": 35845,
       "word": "钟楚曦金色人鱼裙",
       "onboard_time": 1716413712,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 29001,
+      "num": 29001,
+      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
+      "onboard_time": 1716404711,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26701,
+      "num": 26701,
+      "word": "总睡不够是缺维生素D吗",
+      "onboard_time": 1716404411,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 25041,
@@ -507,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23062,
-      "num": 23062,
-      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
-      "onboard_time": 1716404711,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 21406,
+      "num": 349175,
+      "word": "中国文化遗产有多绝",
+      "onboard_time": 1716382219,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21185,
@@ -523,24 +539,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19948,
-      "num": 20611,
-      "word": "总睡不够是缺维生素D吗",
-      "onboard_time": 1716404411,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 20391,
+      "num": 23269,
+      "word": "宁波这口鲜甜上市了",
+      "onboard_time": 1716416592,
+      "rank": 47,
+      "category": "美食"
     },
     {
-      "raw_hot": 18369,
-      "num": 349175,
-      "word": "中国文化遗产有多绝",
-      "onboard_time": 1716382219,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18017,
-      "num": 20599,
+      "raw_hot": 19687,
+      "num": 23188,
       "word": "全国吃辣battle",
       "onboard_time": 1716409631,
       "rank": 48,
