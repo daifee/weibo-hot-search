@@ -1,0 +1,410 @@
+{
+  "runTime": 1716348136101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1554839,
+        "num": 1554839,
+        "word": "台湾从来不是一个国家也永远不会成为一个国家",
+        "onboard_time": 1716340099,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 913393,
+        "num": 913393,
+        "word": "网红王红权星被各社交平台封禁",
+        "onboard_time": 1716334156,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40727,
+        "num": 881047,
+        "word": "港珠澳大桥今年出入境客流破1000万人次",
+        "onboard_time": 1716298040,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989031,
+        "num": 877107,
+        "word": "张踩铃晕倒",
+        "onboard_time": 1716345738,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 866166,
+        "num": 866166,
+        "word": "麦当劳对讲机",
+        "onboard_time": 1716347000,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 811137,
+        "num": 811137,
+        "word": "麦当劳APP崩了",
+        "onboard_time": 1716346698,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 603986,
+        "num": 603986,
+        "word": "职高生代写博士生论文",
+        "onboard_time": 1716342678,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 551593,
+        "num": 551593,
+        "word": "叶灵儿",
+        "onboard_time": 1716342258,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1214158,
+        "num": 549108,
+        "word": "短发的刘亦菲",
+        "onboard_time": 1716346579,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 78428,
+        "num": 544998,
+        "word": "今天一起为人类的朋友发条微博",
+        "onboard_time": 1716346819,
+        "rank": 9,
+        "category": "社会新闻,社会正能量"
+      },
+      {
+        "raw_hot": 880492,
+        "num": 542940,
+        "word": "田田小阿姨删除王红权星相关视频",
+        "onboard_time": 1716346939,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159355,
+        "num": 538578,
+        "word": "冷知识CHA竟然是世界语言",
+        "onboard_time": 1716345017,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599863,
+        "num": 533860,
+        "word": "王红权星曾称全身没8位数不出门",
+        "onboard_time": 1716340039,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 533232,
+        "num": 533232,
+        "word": "IVE零一位",
+        "onboard_time": 1716343457,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 430521,
+        "num": 430521,
+        "word": "付辛博是第二个拥有愧疚粉的人",
+        "onboard_time": 1716347539,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424672,
+        "num": 424672,
+        "word": "毛晓彤垂耳兔公主",
+        "onboard_time": 1716344478,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288818,
+        "num": 288818,
+        "word": "有卖家因制作捏捏致身体不适闭店",
+        "onboard_time": 1716337100,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285497,
+        "num": 285497,
+        "word": "京东员工回应出版社联合抵制618",
+        "onboard_time": 1716342258,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274722,
+        "num": 274722,
+        "word": "今天听听它们的独白",
+        "onboard_time": 1716344778,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232756,
+        "num": 232756,
+        "word": "凯尔特人10倍罚球",
+        "onboard_time": 1716347359,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 580938,
+        "num": 232754,
+        "word": "很酷 不聊天",
+        "onboard_time": 1716339498,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433375,
+        "num": 232218,
+        "word": "长期保持体重的吃喝习惯",
+        "onboard_time": 1716338840,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 315518,
+        "num": 231814,
+        "word": "本科毕业论文何以成一些师生共同的痛苦",
+        "onboard_time": 1716340580,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 308971,
+        "num": 231339,
+        "word": "闲泽党已死",
+        "onboard_time": 1716341238,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231074,
+        "num": 231074,
+        "word": "袁爷爷离开我们3年了",
+        "onboard_time": 1716344478,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297756,
+        "num": 229007,
+        "word": "银行客户经理月薪从过万降至到手不足1000",
+        "onboard_time": 1716340099,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275221,
+        "num": 227698,
+        "word": "iPhone五大痛点",
+        "onboard_time": 1716343938,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 253291,
+        "num": 223649,
+        "word": "大皇子大公主 皇室联姻搞纯爱",
+        "onboard_time": 1716346218,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234540,
+        "num": 221893,
+        "word": "TFBOYS给五月天送花篮",
+        "onboard_time": 1716341598,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220743,
+        "num": 220743,
+        "word": "英国首相就污染血丑闻事件公开致歉",
+        "onboard_time": 1716347718,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 247450,
+        "num": 215476,
+        "word": "少吃和运动哪个更容易减肥",
+        "onboard_time": 1716347598,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 198634,
+        "num": 198634,
+        "word": "王红权星",
+        "onboard_time": 1716345978,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197072,
+        "num": 197072,
+        "word": "刘亦菲井柏然民国剧照",
+        "onboard_time": 1716340339,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189833,
+        "num": 189833,
+        "word": "鞠婧祎助理号",
+        "onboard_time": 1716346517,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177532,
+        "num": 177532,
+        "word": "庆余年太会拍",
+        "onboard_time": 1716346459,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171463,
+        "num": 171463,
+        "word": "陈飞宇庄达菲情侣写真",
+        "onboard_time": 1716338601,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160906,
+        "num": 160906,
+        "word": "庆余年辛大人撞脸憨豆先生",
+        "onboard_time": 1716346398,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151204,
+        "num": 151204,
+        "word": "王红权星曾因炫富走红",
+        "onboard_time": 1716346158,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150608,
+        "num": 150608,
+        "word": "原来演唱会的字幕是PPT",
+        "onboard_time": 1716334217,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 149660,
+        "num": 149660,
+        "word": "刘亦菲紫色高定",
+        "onboard_time": 1716333556,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140635,
+        "num": 140635,
+        "word": "刘端端演技",
+        "onboard_time": 1716335717,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140526,
+        "num": 140526,
+        "word": "苏林当选越南国家主席",
+        "onboard_time": 1716344719,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137235,
+        "num": 137235,
+        "word": "实探王红权星线下奢侈品店权星汇",
+        "onboard_time": 1716347899,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135007,
+        "num": 135007,
+        "word": "张康阳失去国米",
+        "onboard_time": 1716341837,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134689,
+        "num": 134689,
+        "word": "为什么新出的冰箱门吸不住冰箱贴",
+        "onboard_time": 1716343099,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 132582,
+        "num": 132582,
+        "word": "刘亦菲被单膝送花",
+        "onboard_time": 1716348078,
+        "rank": 45,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 131950,
+        "num": 131950,
+        "word": "天上有2颗星在说好好吃饭健康长大",
+        "onboard_time": 1716343518,
+        "rank": 46,
+        "category": "社会新闻,社会正能量"
+      },
+      {
+        "raw_hot": 130342,
+        "num": 130342,
+        "word": "东北的独生子女地位有多高",
+        "onboard_time": 1716342319,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124699,
+        "num": 124699,
+        "word": "林婉儿好像恋综主持人",
+        "onboard_time": 1716335839,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124684,
+        "num": 124684,
+        "word": "小米SU7充满73.6度电池费了87.86度电",
+        "onboard_time": 1716334938,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平眼中的金叶子#"
+    }
+  }
+}
