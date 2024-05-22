@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716376614332,
+  "endTime": 1716377735899,
   "band_list": [
     {
       "raw_hot": 2119424,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1105009,
+      "num": 414223,
+      "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
+      "onboard_time": 1716372018,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1070233,
       "num": 1070233,
       "word": "亚当到长沙了",
@@ -139,12 +147,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1019786,
-      "num": 309024,
-      "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
-      "onboard_time": 1716372018,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 1016368,
+      "num": 720419,
+      "word": "轻断食一天吃了11根玉米",
+      "onboard_time": 1716375978,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 989031,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 702203,
-      "num": 580847,
+      "num": 613154,
       "word": "田田小阿姨抖音账号搜索不到",
       "onboard_time": 1716371298,
       "rank": 11,
@@ -539,14 +547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 463890,
-      "num": 439253,
-      "word": "轻断食一天吃了11根玉米",
-      "onboard_time": 1716375978,
-      "rank": 12,
-      "category": "美食"
-    },
-    {
       "raw_hot": 462518,
       "num": 257419,
       "word": "公职人员出轨不雅照被张贴车上",
@@ -649,6 +649,14 @@
       "onboard_time": 1716346758,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 417772,
+      "num": 413946,
+      "word": "李惠利和IVE合拍",
+      "onboard_time": 1716376278,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 413143,
@@ -819,12 +827,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337928,
+      "num": 337928,
+      "word": "妈妈五十岁了还在买娃娃",
+      "onboard_time": 1716374479,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 337896,
       "num": 337896,
       "word": "SM给aespa买的蛋糕有多难吃",
       "onboard_time": 1716363920,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334029,
+      "num": 334029,
+      "word": "孙千身材",
+      "onboard_time": 1716377297,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 331163,
@@ -849,14 +873,6 @@
       "onboard_time": 1716305601,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315142,
-      "num": 315142,
-      "word": "妈妈五十岁了还在买娃娃",
-      "onboard_time": 1716374479,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 313958,
@@ -916,7 +932,7 @@
     },
     {
       "raw_hot": 286820,
-      "num": 439343,
+      "num": 622862,
       "word": "官方通报贵州一烤肉店给肉串喷漆",
       "onboard_time": 1716369858,
       "rank": 24,
@@ -987,14 +1003,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 258497,
-      "num": 258497,
-      "word": "李惠利和IVE合拍",
-      "onboard_time": 1716376278,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257388,
       "num": 257388,
       "word": "建议大家工作后都准备两个微信",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1716346218,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250851,
+      "num": 250851,
+      "word": "aespa造型",
+      "onboard_time": 1716376938,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 250323,
@@ -1153,6 +1169,14 @@
       "onboard_time": 1716352761,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228864,
+      "num": 171687,
+      "word": "赵丽颖搭肩徐海乔宣璐",
+      "onboard_time": 1716377120,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 228230,
@@ -1315,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196349,
+      "num": 168415,
+      "word": "他俩感情没问题是我眼睛有问题",
+      "onboard_time": 1716376398,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195182,
       "num": 195182,
       "word": "王倦编剧",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1716366798,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181647,
+      "num": 181647,
+      "word": "杨幂涂山红红穿红",
+      "onboard_time": 1716376698,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180782,
@@ -1795,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148804,
+      "num": 148804,
+      "word": "王红权星二手奢侈品店仍在营业",
+      "onboard_time": 1716377539,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148087,
       "num": 148087,
       "word": "林更新曾把王彦霖导到墓园",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1716363379,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145931,
+      "num": 145931,
+      "word": "周鸿祎将购买7辆国产新能源车",
+      "onboard_time": 1716377057,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 145848,
@@ -1875,20 +1931,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140626,
-      "num": 140626,
-      "word": "他俩感情没问题是我眼睛有问题",
-      "onboard_time": 1716376398,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140536,
       "num": 140536,
       "word": "小熊猫打劫",
       "onboard_time": 1716340397,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139172,
+      "num": 139172,
+      "word": "拼多多第一季度营收868.1亿元",
+      "onboard_time": 1716376818,
+      "rank": 41,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 137752,
@@ -1905,6 +1961,14 @@
       "onboard_time": 1716335058,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136009,
+      "num": 136009,
+      "word": "阿Sa从小到大颜值变化",
+      "onboard_time": 1716377478,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 135319,
@@ -2097,6 +2161,14 @@
       "onboard_time": 1716352402,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122888,
+      "num": 144102,
+      "word": "新疆男篮vs辽宁男篮",
+      "onboard_time": 1716377598,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 121907,
@@ -2392,6 +2464,14 @@
       "word": "玲龙一号主控室正式启动",
       "onboard_time": 1716366140,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57999,
+      "num": 387430,
+      "word": "李玫瑾称霸凌和未成年犯罪不是一回事",
+      "onboard_time": 1716377478,
+      "rank": 13,
       "category": "社会新闻"
     },
     {

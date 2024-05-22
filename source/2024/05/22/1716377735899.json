@@ -1,0 +1,410 @@
+{
+  "runTime": 1716377735899,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010652,
+        "num": 1010652,
+        "word": "微信扫一扫加好友有讲究吗",
+        "onboard_time": 1716370038,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 852806,
+        "num": 852806,
+        "word": "徐海乔宣璐手拉手",
+        "onboard_time": 1716363500,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32971,
+        "num": 724425,
+        "word": "玲龙一号主控室正式启动",
+        "onboard_time": 1716366140,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016368,
+        "num": 720419,
+        "word": "轻断食一天吃了11根玉米",
+        "onboard_time": 1716375978,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 673827,
+        "num": 673827,
+        "word": "付辛博颖儿的恋爱合同",
+        "onboard_time": 1716373758,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281882,
+        "num": 622862,
+        "word": "官方通报贵州一烤肉店给肉串喷漆",
+        "onboard_time": 1716369858,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613154,
+        "num": 613154,
+        "word": "田田小阿姨抖音账号搜索不到",
+        "onboard_time": 1716371298,
+        "rank": 6,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 431360,
+        "num": 431360,
+        "word": "关晓彤出道23年归来才27岁",
+        "onboard_time": 1716372739,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416736,
+        "num": 416736,
+        "word": "HPV疫苗价格大跳水",
+        "onboard_time": 1716362779,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251852,
+        "num": 414496,
+        "word": "台湾从来不是一个国家也永远不会成为一个国家",
+        "onboard_time": 1716340099,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1105009,
+        "num": 414223,
+        "word": "19岁女孩收27万彩礼后退婚受阻投河自尽",
+        "onboard_time": 1716372018,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417772,
+        "num": 413946,
+        "word": "李惠利和IVE合拍",
+        "onboard_time": 1716376278,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 412400,
+        "num": 412400,
+        "word": "歌手2024袭榜赛制",
+        "onboard_time": 1716374058,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57999,
+        "num": 387430,
+        "word": "李玫瑾称霸凌和未成年犯罪不是一回事",
+        "onboard_time": 1716377478,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383342,
+        "num": 383342,
+        "word": "亚当爆改张震岳",
+        "onboard_time": 1716365720,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337928,
+        "num": 337928,
+        "word": "妈妈五十岁了还在买娃娃",
+        "onboard_time": 1716374479,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40851,
+        "num": 335921,
+        "word": "李玫瑾谈未成年人犯罪",
+        "onboard_time": 1716372319,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334029,
+        "num": 334029,
+        "word": "孙千身材",
+        "onboard_time": 1716377297,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303747,
+        "num": 303747,
+        "word": "银渐层 妈你可真牛",
+        "onboard_time": 1716370278,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295611,
+        "num": 295611,
+        "word": "中方回应梵蒂冈希望在北京设办事处",
+        "onboard_time": 1716368719,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 417302,
+        "num": 286205,
+        "word": "明显感觉到大学逐渐高中化",
+        "onboard_time": 1716370879,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322505,
+        "num": 282761,
+        "word": "狐妖小红娘",
+        "onboard_time": 1716374238,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273995,
+        "num": 273995,
+        "word": "赵丽颖 赵监制",
+        "onboard_time": 1716359418,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250864,
+        "num": 250864,
+        "word": "短发的刘亦菲",
+        "onboard_time": 1716346579,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 250851,
+        "num": 250851,
+        "word": "aespa造型",
+        "onboard_time": 1716376938,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193736,
+        "num": 193736,
+        "word": "宣璐弥补了与凤行的遗憾",
+        "onboard_time": 1716373999,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183503,
+        "num": 183503,
+        "word": "实习六个月后不让转正",
+        "onboard_time": 1716373340,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181647,
+        "num": 181647,
+        "word": "杨幂涂山红红穿红",
+        "onboard_time": 1716376698,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176084,
+        "num": 176084,
+        "word": "油车每天只开5公里可能伤车",
+        "onboard_time": 1716375079,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132456,
+        "num": 174635,
+        "word": "巴勒斯坦",
+        "onboard_time": 1716363679,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37984,
+        "num": 172611,
+        "word": "姜爷爷谈福宝择偶标准",
+        "onboard_time": 1716357558,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228864,
+        "num": 171687,
+        "word": "赵丽颖搭肩徐海乔宣璐",
+        "onboard_time": 1716377120,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196349,
+        "num": 168415,
+        "word": "他俩感情没问题是我眼睛有问题",
+        "onboard_time": 1716376398,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168197,
+        "num": 168197,
+        "word": "亚当 喝中药",
+        "onboard_time": 1716366019,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148804,
+        "num": 148804,
+        "word": "王红权星二手奢侈品店仍在营业",
+        "onboard_time": 1716377539,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121705,
+        "num": 147984,
+        "word": "网传一烤肉店给肉串竹签喷漆",
+        "onboard_time": 1716372797,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147882,
+        "num": 147882,
+        "word": "网红cici删除鲍鱼家姐相关视频",
+        "onboard_time": 1716364879,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145931,
+        "num": 145931,
+        "word": "周鸿祎将购买7辆国产新能源车",
+        "onboard_time": 1716377057,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145438,
+        "num": 145438,
+        "word": "社区大清早打电话问我怀孕了没",
+        "onboard_time": 1716366318,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122888,
+        "num": 144102,
+        "word": "新疆男篮vs辽宁男篮",
+        "onboard_time": 1716377598,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144042,
+        "num": 144042,
+        "word": "杨幂盘扣新中式",
+        "onboard_time": 1716373398,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139172,
+        "num": 139172,
+        "word": "拼多多第一季度营收868.1亿元",
+        "onboard_time": 1716376818,
+        "rank": 41,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 138146,
+        "num": 138146,
+        "word": "罗云熙直播",
+        "onboard_time": 1716375138,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137809,
+        "num": 137809,
+        "word": "李荣浩也看眼泪女王了",
+        "onboard_time": 1716373459,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136009,
+        "num": 136009,
+        "word": "阿Sa从小到大颜值变化",
+        "onboard_time": 1716377478,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122149,
+        "num": 134912,
+        "word": "刘亦菲露腰T恤",
+        "onboard_time": 1716370399,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39449,
+        "num": 134580,
+        "word": "福宝的美人痣是睡出来的",
+        "onboard_time": 1716370578,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134329,
+        "num": 134329,
+        "word": "林更新曾把王彦霖导到墓园",
+        "onboard_time": 1716376159,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131535,
+        "num": 131535,
+        "word": "杨幂郭晓婷抱抱",
+        "onboard_time": 1716374538,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113611,
+        "num": 113611,
+        "word": "外交部反制美军工企业及高级管理人员",
+        "onboard_time": 1716373698,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设清洁美丽的世界#"
+    }
+  }
+}
