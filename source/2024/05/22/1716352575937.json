@@ -1,0 +1,410 @@
+{
+  "runTime": 1716352575937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1868727,
+        "num": 1868727,
+        "word": "台湾从来不是一个国家也永远不会成为一个国家",
+        "onboard_time": 1716340099,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1070233,
+        "num": 1070233,
+        "word": "亚当到长沙了",
+        "onboard_time": 1716350840,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103556,
+        "num": 1051194,
+        "word": "去大熊猫家做客",
+        "onboard_time": 1716348621,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036618,
+        "num": 1036618,
+        "word": "田田小阿姨删除王红权星相关视频",
+        "onboard_time": 1716346939,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1019953,
+        "num": 1019953,
+        "word": "短发的刘亦菲",
+        "onboard_time": 1716346579,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 593269,
+        "num": 593269,
+        "word": "英国首相就污染血丑闻事件公开致歉",
+        "onboard_time": 1716347718,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1035972,
+        "num": 592856,
+        "word": "歌手网传第3期歌单",
+        "onboard_time": 1716348858,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608548,
+        "num": 580289,
+        "word": "张踩铃晕倒",
+        "onboard_time": 1716345738,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 604000,
+        "num": 576576,
+        "word": "付辛博是第二个拥有愧疚粉的人",
+        "onboard_time": 1716347539,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154483,
+        "num": 566233,
+        "word": "袁爷爷离开我们3年了",
+        "onboard_time": 1716344478,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861874,
+        "num": 560238,
+        "word": "曝男生被同学用11盆开水烫伤霸凌",
+        "onboard_time": 1716350241,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557739,
+        "num": 557739,
+        "word": "王红权星曾称全身没8位数不出门",
+        "onboard_time": 1716340039,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 547045,
+        "num": 547045,
+        "word": "韩玖诺回应叶灵儿被换角",
+        "onboard_time": 1716349158,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481391,
+        "num": 481391,
+        "word": "鲍鱼家姐",
+        "onboard_time": 1716348621,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 419391,
+        "num": 419391,
+        "word": "银行还是令人羡慕的工作吗",
+        "onboard_time": 1716346758,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385613,
+        "num": 385613,
+        "word": "职高生代写博士生论文",
+        "onboard_time": 1716342678,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 257183,
+        "num": 257183,
+        "word": "麦当劳APP崩了",
+        "onboard_time": 1716346698,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239534,
+        "num": 239534,
+        "word": "有卖家因制作捏捏致身体不适闭店",
+        "onboard_time": 1716337100,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214800,
+        "num": 214800,
+        "word": "凯尔特人10倍罚球",
+        "onboard_time": 1716347359,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208518,
+        "num": 208518,
+        "word": "中国统一大势不可逆",
+        "onboard_time": 1716349699,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 447337,
+        "num": 208225,
+        "word": "很酷 不聊天",
+        "onboard_time": 1716339498,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321143,
+        "num": 207183,
+        "word": "长期保持体重的吃喝习惯",
+        "onboard_time": 1716338840,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 307178,
+        "num": 206783,
+        "word": "刘亦菲被单膝送花",
+        "onboard_time": 1716348078,
+        "rank": 22,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 305124,
+        "num": 205748,
+        "word": "网红王红权星被各社交平台封禁",
+        "onboard_time": 1716334156,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 285985,
+        "num": 204889,
+        "word": "IVE零一位",
+        "onboard_time": 1716343457,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275505,
+        "num": 204268,
+        "word": "毛晓彤付辛博大大方方营业",
+        "onboard_time": 1716352040,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248674,
+        "num": 203083,
+        "word": "狐妖小红娘月红篇今天发布会",
+        "onboard_time": 1716351319,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65164,
+        "num": 202367,
+        "word": "和妈妈做姐妹是什么体验",
+        "onboard_time": 1716350780,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 216273,
+        "num": 201975,
+        "word": "背着善宰跑收视率",
+        "onboard_time": 1716350060,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191407,
+        "num": 200850,
+        "word": "iPhone五大痛点",
+        "onboard_time": 1716343938,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200375,
+        "num": 200375,
+        "word": "庆余年太子 大智若愚",
+        "onboard_time": 1716350960,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192967,
+        "num": 192967,
+        "word": "刘雯回归戛纳",
+        "onboard_time": 1716349518,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192266,
+        "num": 192266,
+        "word": "毛晓彤垂耳兔公主",
+        "onboard_time": 1716344478,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156288,
+        "num": 188446,
+        "word": "HPV疫苗接种成本降低",
+        "onboard_time": 1716351260,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154255,
+        "num": 188300,
+        "word": "泽连斯基呼吁盟友直接参战",
+        "onboard_time": 1716351982,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188210,
+        "num": 188210,
+        "word": "鞠婧祎助理号",
+        "onboard_time": 1716346517,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185190,
+        "num": 185190,
+        "word": "王红权星",
+        "onboard_time": 1716345978,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180113,
+        "num": 180113,
+        "word": "ILLIT公司起诉闵熙珍",
+        "onboard_time": 1716350420,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151593,
+        "num": 171005,
+        "word": "武汉现大学毕业答辩真香现场",
+        "onboard_time": 1716351620,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144454,
+        "num": 168072,
+        "word": "今天听听它们的独白",
+        "onboard_time": 1716344778,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166518,
+        "num": 166518,
+        "word": "大皇子大公主 皇室联姻搞纯爱",
+        "onboard_time": 1716346218,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161105,
+        "num": 161105,
+        "word": "庆余年太会拍",
+        "onboard_time": 1716346459,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132015,
+        "num": 158824,
+        "word": "儿童误用防晒喷雾易导致白肺",
+        "onboard_time": 1716350420,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157521,
+        "num": 157521,
+        "word": "徐明浩被粉丝认出很幸福",
+        "onboard_time": 1716350899,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145352,
+        "num": 145352,
+        "word": "TFBOYS给五月天送花篮",
+        "onboard_time": 1716341598,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143071,
+        "num": 143071,
+        "word": "小米回应博主控诉空调售后差",
+        "onboard_time": 1716349280,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124008,
+        "num": 143069,
+        "word": "泰式薄荷脆皮鸡",
+        "onboard_time": 1716352402,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120995,
+        "num": 143025,
+        "word": "京东员工回应出版社联合抵制618",
+        "onboard_time": 1716342258,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111389,
+        "num": 142989,
+        "word": "三井寿 最帅体育生",
+        "onboard_time": 1716348679,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 90772,
+        "num": 142950,
+        "word": "云南一中学生被同学砍杀身亡",
+        "onboard_time": 1716352522,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设清洁美丽的世界#"
+    }
+  }
+}
