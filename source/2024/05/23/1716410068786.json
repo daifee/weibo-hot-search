@@ -1,0 +1,410 @@
+{
+  "runTime": 1716410068786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 94272,
+        "num": 94272,
+        "word": "B站取消播放时长指标外显改版",
+        "onboard_time": 1716391460,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73665,
+        "num": 73665,
+        "word": "庆余年 杀疯了",
+        "onboard_time": 1716381318,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10155,
+        "num": 65323,
+        "word": "中国文化遗产有多绝",
+        "onboard_time": 1716382219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58348,
+        "num": 58348,
+        "word": "女子带婴儿到网吧打游戏",
+        "onboard_time": 1716400872,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50615,
+        "num": 50615,
+        "word": "教授建议18到25岁要多谈恋爱",
+        "onboard_time": 1716407710,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49579,
+        "num": 49579,
+        "word": "李承泽未承受半分恩泽",
+        "onboard_time": 1716395356,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44841,
+        "num": 44841,
+        "word": "微信扫一扫加好友有讲究吗",
+        "onboard_time": 1716370038,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41723,
+        "num": 41723,
+        "word": "庆帝赶紧死",
+        "onboard_time": 1716385700,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41194,
+        "num": 41194,
+        "word": "付辛博颖儿的恋爱合同",
+        "onboard_time": 1716373758,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4400,
+        "num": 34955,
+        "word": "珠海师生将同餐同菜同价",
+        "onboard_time": 1716403032,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34786,
+        "num": 34786,
+        "word": "林更新偷了赵丽颖的图",
+        "onboard_time": 1716387260,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34726,
+        "num": 34726,
+        "word": "六公主回应被认成亚当",
+        "onboard_time": 1716389541,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31812,
+        "num": 31812,
+        "word": "女子姐弟恋差17岁只比准婆婆小1岁",
+        "onboard_time": 1716382458,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31423,
+        "num": 31423,
+        "word": "有点难为杨幂了",
+        "onboard_time": 1716405613,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29363,
+        "num": 29363,
+        "word": "徐海乔宣璐手拉手",
+        "onboard_time": 1716363500,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25474,
+        "num": 25474,
+        "word": "轻断食一天吃了11根玉米",
+        "onboard_time": 1716375978,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 25198,
+        "num": 25198,
+        "word": "杨鸣被驱逐",
+        "onboard_time": 1716384499,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24725,
+        "num": 24725,
+        "word": "安室透 安陵容",
+        "onboard_time": 1716383477,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 22993,
+        "num": 22993,
+        "word": "辽宁男篮CBA三连冠",
+        "onboard_time": 1716385641,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22441,
+        "num": 22441,
+        "word": "B站社区与产品负责人道歉",
+        "onboard_time": 1716390740,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31794,
+        "num": 22361,
+        "word": "8岁男童4小时吃光整瓶60粒叶黄素",
+        "onboard_time": 1716390081,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29023,
+        "num": 22079,
+        "word": "同年同月同日生的鉴察院双子星",
+        "onboard_time": 1716394517,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24649,
+        "num": 21752,
+        "word": "张凌赫徐若晗车内吻戏",
+        "onboard_time": 1716384319,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23238,
+        "num": 21597,
+        "word": "我让老公经历了断崖式离婚",
+        "onboard_time": 1716381678,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21459,
+        "num": 21459,
+        "word": "论文查重",
+        "onboard_time": 1716401652,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21086,
+        "num": 21086,
+        "word": "内塔尼亚胡称美国一年2万人饿死",
+        "onboard_time": 1716390200,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 19417,
+        "num": 19417,
+        "word": "人老了苦日子才刚刚开始",
+        "onboard_time": 1716405971,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19282,
+        "num": 19282,
+        "word": "美妆圈的信息茧房有多恐怖",
+        "onboard_time": 1716407171,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 17614,
+        "num": 17614,
+        "word": "亚特兰大vs勒沃库森",
+        "onboard_time": 1716405850,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17288,
+        "num": 17288,
+        "word": "伊能静好会写",
+        "onboard_time": 1716388399,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16935,
+        "num": 16935,
+        "word": "田田小阿姨抖音账号搜索不到",
+        "onboard_time": 1716371298,
+        "rank": 30,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 16887,
+        "num": 16887,
+        "word": "HPV疫苗价格大跳水",
+        "onboard_time": 1716362779,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16878,
+        "num": 16878,
+        "word": "总睡不够是缺维生素D吗",
+        "onboard_time": 1716404411,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16791,
+        "num": 16791,
+        "word": "中医认为半月痕是五脏六腑的警示器",
+        "onboard_time": 1716386299,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16410,
+        "num": 16410,
+        "word": "chatgpt崩了",
+        "onboard_time": 1716390441,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16235,
+        "num": 16235,
+        "word": "杨幂说和郭晓婷很难对视",
+        "onboard_time": 1716384619,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15867,
+        "num": 15867,
+        "word": "亚当吃米粉",
+        "onboard_time": 1716382878,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15711,
+        "num": 15711,
+        "word": "庆帝 我要diss你",
+        "onboard_time": 1716384499,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15209,
+        "num": 15209,
+        "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
+        "onboard_time": 1716404711,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14533,
+        "num": 14533,
+        "word": "章子怡抵达戛纳",
+        "onboard_time": 1716388941,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15496,
+        "num": 14484,
+        "word": "杨幂抠书式还原涂山红红",
+        "onboard_time": 1716409031,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14591,
+        "num": 14462,
+        "word": "亚当 甘露寺美甲",
+        "onboard_time": 1716382758,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14422,
+        "num": 14422,
+        "word": "拼多多总市值超越阿里巴巴",
+        "onboard_time": 1716378977,
+        "rank": 42,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 14304,
+        "num": 14304,
+        "word": "罗云熙直播说羡慕刘宇宁",
+        "onboard_time": 1716391999,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14111,
+        "num": 14303,
+        "word": "aespa造型",
+        "onboard_time": 1716376938,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14106,
+        "num": 14303,
+        "word": "郭艾伦直播",
+        "onboard_time": 1716386600,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13576,
+        "num": 14303,
+        "word": "杨鸣夺冠采访没了",
+        "onboard_time": 1716387620,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13427,
+        "num": 14301,
+        "word": "庆余年15集",
+        "onboard_time": 1716387079,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13288,
+        "num": 14301,
+        "word": "明显感觉到大学逐渐高中化",
+        "onboard_time": 1716370879,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13132,
+        "num": 14300,
+        "word": "赵继伟哭了",
+        "onboard_time": 1716388580,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向越南新任国家主席苏林致贺电#"
+    }
+  }
+}
