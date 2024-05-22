@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716388493250,
+  "endTime": 1716391251019,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1721,6 +1721,14 @@
       "onboard_time": 1715779938,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1586602,
+      "num": 1586602,
+      "word": "与重症手足口病相关病毒正在演变",
+      "onboard_time": 1716386479,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1571578,
@@ -6699,6 +6707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 806531,
+      "num": 806531,
+      "word": "庆帝赶紧死",
+      "onboard_time": 1716385700,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 806397,
       "num": 372589,
       "word": "买房五年没住手头五六十个车位被出租",
@@ -7209,6 +7225,14 @@
       "onboard_time": 1714813939,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 765076,
+      "num": 631011,
+      "word": "五月天演唱会回应假唱争议",
+      "onboard_time": 1716388880,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 764526,
@@ -8745,14 +8769,6 @@
       "onboard_time": 1715475678,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 681586,
-      "num": 681586,
-      "word": "庆帝赶紧死",
-      "onboard_time": 1716385700,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 681453,
@@ -12299,6 +12315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 530993,
+      "num": 530993,
+      "word": "六公主回应被认成亚当",
+      "onboard_time": 1716389541,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 530682,
       "num": 431322,
       "word": "赵露思英文采访",
@@ -14891,6 +14915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 453695,
+      "num": 453695,
+      "word": "章子怡抵达戛纳",
+      "onboard_time": 1716388941,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 453610,
       "num": 449270,
       "word": "教授建议18到25岁要多谈恋爱",
@@ -15449,6 +15481,14 @@
       "onboard_time": 1715753899,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 439805,
+      "num": 439805,
+      "word": "范闲的失败是角色的成功",
+      "onboard_time": 1716387800,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 439551,
@@ -17699,6 +17739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394234,
+      "num": 394234,
+      "word": "赵继伟哭了",
+      "onboard_time": 1716388580,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393881,
       "num": 393881,
       "word": "鞠婧祎蝴蝶耳钉",
@@ -19427,6 +19475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356207,
+      "num": 223086,
+      "word": "8岁男童4小时吃光整瓶60粒叶黄素",
+      "onboard_time": 1716390081,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356065,
       "num": 344262,
       "word": "十个勤天帆布包",
@@ -20771,6 +20827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 332332,
+      "num": 332332,
+      "word": "杨鸣夺冠采访没了",
+      "onboard_time": 1716387620,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332229,
       "num": 332229,
       "word": "塞尔维亚首都多处点亮中国红",
@@ -21956,7 +22020,7 @@
     },
     {
       "raw_hot": 312091,
-      "num": 216195,
+      "num": 220850,
       "word": "林更新偷了赵丽颖的图",
       "onboard_time": 1716387260,
       "rank": 41,
@@ -25419,14 +25483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263218,
-      "num": 202223,
-      "word": "杨鸣夺冠采访没了",
-      "onboard_time": 1716387620,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 263215,
       "num": 249734,
       "word": "赵丽颖18年56个角色",
@@ -27289,14 +27345,6 @@
       "onboard_time": 1715518401,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 243687,
-      "num": 213098,
-      "word": "范闲的失败是角色的成功",
-      "onboard_time": 1716387800,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 243621,
@@ -36107,6 +36155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191706,
+      "num": 191706,
+      "word": "手足口病高发季家长如何应对",
+      "onboard_time": 1716390441,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191647,
       "num": 191647,
       "word": "真有海来阿木",
@@ -40123,6 +40179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173607,
+      "num": 173607,
+      "word": "内塔尼亚胡称美国一年2万人饿死",
+      "onboard_time": 1716390200,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 173540,
       "num": 173540,
       "word": "睡前2个动作让肝脏变干净",
@@ -40891,6 +40955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170000,
+      "num": 170000,
+      "word": "庆帝个老登",
+      "onboard_time": 1716389481,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169989,
       "num": 169989,
       "word": "WTT沙特大满贯",
@@ -41313,6 +41385,14 @@
       "onboard_time": 1714478418,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 168078,
+      "num": 168078,
+      "word": "边佑锡作息",
+      "onboard_time": 1716390081,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 168072,
@@ -42401,6 +42481,14 @@
       "onboard_time": 1715658739,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163504,
+      "num": 163504,
+      "word": "chatgpt崩了",
+      "onboard_time": 1716390441,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 163492,
@@ -49091,6 +49179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134680,
+      "num": 134680,
+      "word": "张镇麟采访",
+      "onboard_time": 1716389959,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134624,
       "num": 134624,
       "word": "守护花蕾计划称张露文未参与项目管理",
@@ -49753,6 +49849,14 @@
       "onboard_time": 1714692074,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132035,
+      "num": 132035,
+      "word": "B站社区与产品负责人道歉",
+      "onboard_time": 1716390740,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 132009,
@@ -50579,6 +50683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127986,
+      "num": 127986,
+      "word": "怦然4被霸凌的女孩和温暖的他",
+      "onboard_time": 1716391099,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127928,
       "num": 127928,
       "word": "seventeen新歌与青环5好搭",
@@ -51145,6 +51257,14 @@
       "onboard_time": 1716343578,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125947,
+      "num": 125947,
+      "word": "伊能静好会写",
+      "onboard_time": 1716388399,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 125855,
@@ -53075,6 +53195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117286,
+      "num": 117286,
+      "word": "杨鸣又被抛起来了",
+      "onboard_time": 1716390980,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117237,
       "num": 117237,
       "word": "儿子的车被别的小朋友骑走了",
@@ -53641,14 +53769,6 @@
       "onboard_time": 1715307437,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 114288,
-      "num": 114288,
-      "word": "伊能静好会写",
-      "onboard_time": 1716388399,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 114287,
@@ -54472,6 +54592,14 @@
       "word": "2024世界女排联赛",
       "onboard_time": 1715728274,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109638,
+      "num": 109638,
+      "word": "李晓旭 受伤祭旗",
+      "onboard_time": 1716391220,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -57857,6 +57985,14 @@
       "onboard_time": 1714486219,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73675,
+      "num": 537645,
+      "word": "长河落日圆现实画面好壮美",
+      "onboard_time": 1716388760,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73601,
