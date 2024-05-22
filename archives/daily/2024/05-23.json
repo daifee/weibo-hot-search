@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716420025902,
+  "endTime": 1716420960321,
   "band_list": [
     {
       "raw_hot": 1222790,
@@ -17,6 +17,14 @@
       "onboard_time": 1716381318,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 860832,
+      "num": 860832,
+      "word": "阮经天妈妈去世",
+      "onboard_time": 1716419955,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 551055,
@@ -43,6 +51,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 541328,
+      "num": 541328,
+      "word": "李承泽未承受半分恩泽",
+      "onboard_time": 1716395356,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 537307,
       "num": 537307,
       "word": "庆帝 我要diss你",
@@ -51,20 +67,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 497357,
-      "num": 497357,
-      "word": "李承泽未承受半分恩泽",
-      "onboard_time": 1716395356,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 460158,
-      "num": 460158,
+      "raw_hot": 499252,
+      "num": 499252,
       "word": "教授建议18到25岁要多谈恋爱",
       "onboard_time": 1716407710,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 415363,
+      "num": 415363,
+      "word": "女子姐弟恋差17岁只比准婆婆小1岁",
+      "onboard_time": 1716382458,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401907,
+      "num": 401907,
+      "word": "女子带婴儿到网吧打游戏",
+      "onboard_time": 1716400872,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398825,
@@ -83,36 +107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381947,
-      "num": 381947,
-      "word": "女子姐弟恋差17岁只比准婆婆小1岁",
-      "onboard_time": 1716382458,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378304,
-      "num": 378304,
-      "word": "女子带婴儿到网吧打游戏",
-      "onboard_time": 1716400872,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354282,
-      "num": 354282,
-      "word": "阮经天妈妈去世",
-      "onboard_time": 1716419955,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 342349,
       "num": 342349,
       "word": "轻断食一天吃了11根玉米",
       "onboard_time": 1716375978,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 316213,
+      "num": 238949,
+      "word": "杨幂机场出发戛纳",
+      "onboard_time": 1716419715,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 312364,
@@ -139,6 +147,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 294275,
+      "num": 294275,
+      "word": "林更新偷了赵丽颖的图",
+      "onboard_time": 1716387260,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290452,
       "num": 290452,
       "word": "范闲的失败是角色的成功",
@@ -147,12 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265949,
-      "num": 265949,
-      "word": "林更新偷了赵丽颖的图",
-      "onboard_time": 1716387260,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 254617,
+      "num": 254617,
+      "word": "专家回应不少大人孩子近来嗓子疼",
+      "onboard_time": 1716417554,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 235777,
@@ -163,12 +179,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194791,
-      "num": 194791,
-      "word": "专家回应不少大人孩子近来嗓子疼",
-      "onboard_time": 1716417554,
-      "rank": 10,
-      "category": "健康医疗"
+      "raw_hot": 193568,
+      "num": 193568,
+      "word": "英伟达",
+      "onboard_time": 1716420016,
+      "rank": 34,
+      "category": "数码,财经"
+    },
+    {
+      "raw_hot": 190374,
+      "num": 155419,
+      "word": "我让老公经历了断崖式离婚",
+      "onboard_time": 1716381678,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 188408,
@@ -179,20 +203,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 173197,
-      "num": 69348,
-      "word": "杨幂机场出发戛纳",
-      "onboard_time": 1716419715,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 172871,
-      "num": 172871,
+      "raw_hot": 185426,
+      "num": 185426,
       "word": "内塔尼亚胡称美国一年2万人饿死",
       "onboard_time": 1716390200,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 175904,
+      "num": 175904,
+      "word": "有点难为杨幂了",
+      "onboard_time": 1716405613,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173133,
+      "num": 173133,
+      "word": "左航 老奶奶",
+      "onboard_time": 1716420016,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 172758,
@@ -211,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170868,
+      "num": 170868,
+      "word": "付辛博颖儿的恋爱合同",
+      "onboard_time": 1716373758,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167354,
       "num": 167354,
       "word": "亚当吃米粉",
@@ -219,12 +259,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162934,
-      "num": 155419,
-      "word": "我让老公经历了断崖式离婚",
-      "onboard_time": 1716381678,
-      "rank": 25,
-      "category": "情感"
+      "raw_hot": 162773,
+      "num": 122957,
+      "word": "同年同月同日生的鉴察院双子星",
+      "onboard_time": 1716394517,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 154047,
@@ -235,20 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153916,
-      "num": 153916,
-      "word": "有点难为杨幂了",
-      "onboard_time": 1716405613,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 145856,
-      "num": 145856,
-      "word": "付辛博颖儿的恋爱合同",
-      "onboard_time": 1716373758,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 147338,
+      "num": 147338,
+      "word": "亚特兰大3比0勒沃库森",
+      "onboard_time": 1716419596,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 143915,
@@ -259,11 +291,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131793,
-      "num": 122957,
-      "word": "同年同月同日生的鉴察院双子星",
-      "onboard_time": 1716394517,
-      "rank": 41,
+      "raw_hot": 139219,
+      "num": 117440,
+      "word": "辛芷蕾海棠朵朵来了",
+      "onboard_time": 1716418273,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -272,6 +304,14 @@
       "word": "这一刻范闲像有家长撑腰的孩子",
       "onboard_time": 1716392899,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129824,
+      "num": 98225,
+      "word": "庆帝 李云龙",
+      "onboard_time": 1716420496,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -307,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117275,
+      "num": 117275,
+      "word": "过度健身可能会导致显老",
+      "onboard_time": 1716419415,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 113603,
       "num": 95930,
       "word": "杨幂挽龚俊出场",
@@ -331,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107668,
-      "num": 107668,
-      "word": "亚特兰大3比0勒沃库森",
-      "onboard_time": 1716419596,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107593,
       "num": 107593,
       "word": "中医认为半月痕是五脏六腑的警示器",
@@ -353,6 +393,14 @@
       "onboard_time": 1716385641,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103889,
+      "num": 103889,
+      "word": "王红权星二手奢侈品店仍在营业",
+      "onboard_time": 1716377539,
+      "rank": 25,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 103436,
@@ -371,20 +419,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99243,
-      "num": 99243,
-      "word": "辛芷蕾海棠朵朵来了",
-      "onboard_time": 1716418273,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 98969,
       "num": 98969,
       "word": "明显感觉到大学逐渐高中化",
       "onboard_time": 1716370879,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97708,
+      "num": 97708,
+      "word": "小狗的胸好蓬松",
+      "onboard_time": 1716420496,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 96477,
+      "num": 96477,
+      "word": "Faker入选名人堂",
+      "onboard_time": 1716420256,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 94955,
+      "num": 93518,
+      "word": "英伟达第一财季财报",
+      "onboard_time": 1716420917,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 93144,
@@ -403,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91028,
-      "num": 91028,
-      "word": "王红权星二手奢侈品店仍在营业",
-      "onboard_time": 1716377539,
-      "rank": 25,
-      "category": "网红,社会新闻"
+      "raw_hot": 91318,
+      "num": 91318,
+      "word": "为什么应届生千万别乱投管培生",
+      "onboard_time": 1716420917,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 86526,
@@ -435,6 +499,38 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 80153,
+      "num": 80153,
+      "word": "玩乙女游戏突然变暗的画面",
+      "onboard_time": 1716419955,
+      "rank": 40,
+      "category": "游戏,情感"
+    },
+    {
+      "raw_hot": 76451,
+      "num": 76451,
+      "word": "胡锡进谈王红权星被封",
+      "onboard_time": 1716420675,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75739,
+      "num": 75739,
+      "word": "付辛博改名周二围吧",
+      "onboard_time": 1716417793,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74712,
+      "num": 72553,
+      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
+      "onboard_time": 1716404711,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73581,
       "num": 83898,
       "word": "B站社区与产品负责人道歉",
@@ -443,12 +539,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72553,
+      "num": 72553,
+      "word": "卢克曼帽子戏法",
+      "onboard_time": 1716420496,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70952,
       "num": 83879,
       "word": "张镇麟采访",
       "onboard_time": 1716389959,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70843,
+      "num": 70843,
+      "word": "总睡不够是缺维生素D吗",
+      "onboard_time": 1716404411,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 69571,
@@ -467,20 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68532,
-      "num": 68532,
-      "word": "付辛博改名周二围吧",
-      "onboard_time": 1716417793,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 68059,
-      "num": 68059,
-      "word": "过度健身可能会导致显老",
-      "onboard_time": 1716419415,
-      "rank": 32,
-      "category": "运动健身"
+      "raw_hot": 68287,
+      "num": 68287,
+      "word": "约翰传奇IP在湖南",
+      "onboard_time": 1716420796,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 66734,
@@ -499,20 +603,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 63539,
-      "num": 63539,
-      "word": "英伟达",
-      "onboard_time": 1716420016,
-      "rank": 34,
-      "category": "数码,财经"
+      "raw_hot": 61599,
+      "num": 61599,
+      "word": "杨鸣 逆袭的人生才精彩",
+      "onboard_time": 1716420917,
+      "rank": 49,
+      "category": "体育"
     },
     {
-      "raw_hot": 61950,
-      "num": 61950,
-      "word": "总睡不够是缺维生素D吗",
-      "onboard_time": 1716404411,
+      "raw_hot": 61544,
+      "num": 70974,
+      "word": "高敏感人是超级厉害的大后期人格",
+      "onboard_time": 1716420556,
       "rank": 45,
-      "category": "健康医疗"
+      "category": "情感"
     },
     {
       "raw_hot": 60097,
@@ -531,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56069,
-      "num": 56069,
-      "word": "玩乙女游戏突然变暗的画面",
-      "onboard_time": 1716419955,
-      "rank": 40,
-      "category": "游戏,情感"
-    },
-    {
       "raw_hot": 55398,
       "num": 55398,
       "word": "钟楚曦金色人鱼裙",
@@ -555,12 +651,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 51156,
-      "num": 51156,
-      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
-      "onboard_time": 1716404711,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 51111,
+      "num": 577565,
+      "word": "中国文化遗产有多绝",
+      "onboard_time": 1716382219,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50603,
@@ -595,14 +691,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 40315,
-      "num": 476571,
-      "word": "中国文化遗产有多绝",
-      "onboard_time": 1716382219,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25041,
       "num": 25041,
       "word": "美妆圈的信息茧房有多恐怖",
@@ -617,6 +705,22 @@
       "onboard_time": 1716405850,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23666,
+      "num": 225911,
+      "word": "穿越机视角看万马奔腾好震撼",
+      "onboard_time": 1716419475,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23378,
+      "num": 98423,
+      "word": "货车司机停高速口煮面交警耐心等吃完",
+      "onboard_time": 1716420556,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21185,
@@ -641,14 +745,6 @@
       "onboard_time": 1716409631,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 14304,
-      "num": 225911,
-      "word": "穿越机视角看万马奔腾好震撼",
-      "onboard_time": 1716419475,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12843,

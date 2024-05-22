@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716420025902,
+  "endTime": 1716420960321,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -1008,6 +1008,14 @@
       "word": "警方回应知名主持人被曝私生活混乱",
       "onboard_time": 1716037820,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 860832,
+      "num": 860832,
+      "word": "阮经天妈妈去世",
+      "onboard_time": 1716419955,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -2075,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 541328,
+      "num": 541328,
+      "word": "李承泽未承受半分恩泽",
+      "onboard_time": 1716395356,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 539525,
       "num": 539525,
       "word": "以色列宣布召回驻挪威和爱尔兰大使",
@@ -2251,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 499252,
+      "num": 499252,
+      "word": "教授建议18到25岁要多谈恋爱",
+      "onboard_time": 1716182480,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 498071,
       "num": 498071,
       "word": "鼠鼠一觉醒来全身酸痛",
@@ -2265,14 +2289,6 @@
       "onboard_time": 1716181043,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 497357,
-      "num": 497357,
-      "word": "李承泽未承受半分恩泽",
-      "onboard_time": 1716395356,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 497162,
@@ -2505,14 +2521,6 @@
       "onboard_time": 1716188179,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 460158,
-      "num": 460158,
-      "word": "教授建议18到25岁要多谈恋爱",
-      "onboard_time": 1716182480,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 459806,
@@ -3003,6 +3011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 401907,
+      "num": 401907,
+      "word": "女子带婴儿到网吧打游戏",
+      "onboard_time": 1716400872,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401761,
       "num": 359609,
       "word": "付辛博颖儿 好嗑",
@@ -3203,14 +3219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378304,
-      "num": 378304,
-      "word": "女子带婴儿到网吧打游戏",
-      "onboard_time": 1716400872,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377621,
       "num": 377621,
       "word": "美歌手持枪拍视频意外自杀",
@@ -3393,14 +3401,6 @@
       "onboard_time": 1716376698,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 354282,
-      "num": 354282,
-      "word": "阮经天妈妈去世",
-      "onboard_time": 1716419955,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 353284,
@@ -3907,6 +3907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316213,
+      "num": 238949,
+      "word": "杨幂机场出发戛纳",
+      "onboard_time": 1716419715,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 315561,
       "num": 315561,
       "word": "种地吧 仲麟",
@@ -3932,7 +3940,7 @@
     },
     {
       "raw_hot": 312091,
-      "num": 265949,
+      "num": 294275,
       "word": "林更新偷了赵丽颖的图",
       "onboard_time": 1716387260,
       "rank": 41,
@@ -4657,6 +4665,14 @@
       "onboard_time": 1716299120,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254617,
+      "num": 254617,
+      "word": "专家回应不少大人孩子近来嗓子疼",
+      "onboard_time": 1716417554,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254381,
@@ -6163,14 +6179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194791,
-      "num": 194791,
-      "word": "专家回应不少大人孩子近来嗓子疼",
-      "onboard_time": 1716417554,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 194529,
       "num": 174621,
       "word": "女孩遭男子持棍挟持众人合力解救",
@@ -6289,6 +6297,14 @@
       "onboard_time": 1716119836,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 193568,
+      "num": 193568,
+      "word": "英伟达",
+      "onboard_time": 1716420016,
+      "rank": 34,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 193504,
@@ -6603,6 +6619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185426,
+      "num": 185426,
+      "word": "内塔尼亚胡称美国一年2万人饿死",
+      "onboard_time": 1716390200,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 185142,
       "num": 185142,
       "word": "与凤行庆功宴",
@@ -6859,14 +6883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177945,
-      "num": 177945,
-      "word": "内塔尼亚胡称美国一年2万人饿死",
-      "onboard_time": 1716390200,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 177895,
       "num": 177895,
       "word": "周深新专辑销量",
@@ -6937,6 +6953,14 @@
       "onboard_time": 1716348621,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 175904,
+      "num": 175904,
+      "word": "有点难为杨幂了",
+      "onboard_time": 1716405613,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175733,
@@ -7051,20 +7075,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173197,
-      "num": 69348,
-      "word": "杨幂机场出发戛纳",
-      "onboard_time": 1716419715,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 173150,
       "num": 173150,
       "word": "庆余年作者谈原著改编影视剧",
       "onboard_time": 1716075195,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173133,
+      "num": 173133,
+      "word": "左航 老奶奶",
+      "onboard_time": 1716420016,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 172754,
@@ -7400,6 +7424,14 @@
       "word": "入青云",
       "onboard_time": 1716358158,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162773,
+      "num": 122957,
+      "word": "同年同月同日生的鉴察院双子星",
+      "onboard_time": 1716394517,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -7827,14 +7859,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 153916,
-      "num": 153916,
-      "word": "有点难为杨幂了",
-      "onboard_time": 1716405613,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 153812,
       "num": 153812,
       "word": "怦然4被霸凌的女孩和温暖的他",
@@ -8104,6 +8128,14 @@
       "word": "下半场的欧文",
       "onboard_time": 1716088337,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147338,
+      "num": 147338,
+      "word": "亚特兰大3比0勒沃库森",
+      "onboard_time": 1716419596,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -8563,6 +8595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139219,
+      "num": 117440,
+      "word": "辛芷蕾海棠朵朵来了",
+      "onboard_time": 1716418273,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139172,
       "num": 139172,
       "word": "拼多多第一季度营收868.1亿元",
@@ -8891,14 +8931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 131793,
-      "num": 122957,
-      "word": "同年同月同日生的鉴察院双子星",
-      "onboard_time": 1716394517,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131738,
       "num": 131738,
       "word": "随机舞蹈不再添加IVE歌曲",
@@ -9001,6 +9033,14 @@
       "onboard_time": 1716095417,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129824,
+      "num": 98225,
+      "word": "庆帝 李云龙",
+      "onboard_time": 1716420496,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 129606,
@@ -9803,6 +9843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117275,
+      "num": 117275,
+      "word": "过度健身可能会导致显老",
+      "onboard_time": 1716419415,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 117205,
       "num": 141471,
       "word": "尹净汉全圆佑双人小分队",
@@ -10187,14 +10235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107668,
-      "num": 107668,
-      "word": "亚特兰大3比0勒沃库森",
-      "onboard_time": 1716419596,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107496,
       "num": 107496,
       "word": "花儿与少年好友记",
@@ -10451,14 +10491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99243,
-      "num": 99243,
-      "word": "辛芷蕾海棠朵朵来了",
-      "onboard_time": 1716418273,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99228,
       "num": 99228,
       "word": "2024网易游戏发布会",
@@ -10515,6 +10547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97708,
+      "num": 97708,
+      "word": "小狗的胸好蓬松",
+      "onboard_time": 1716420496,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97321,
       "num": 97321,
       "word": "田嘉瑞 我何德何能去救那姐",
@@ -10539,12 +10579,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96477,
+      "num": 96477,
+      "word": "Faker入选名人堂",
+      "onboard_time": 1716420256,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96344,
       "num": 96344,
       "word": "弗格5分钟三次犯规",
       "onboard_time": 1716381919,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94955,
+      "num": 93518,
+      "word": "英伟达第一财季财报",
+      "onboard_time": 1716420917,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 94470,
@@ -10601,6 +10657,14 @@
       "onboard_time": 1716141014,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91318,
+      "num": 91318,
+      "word": "为什么应届生千万别乱投管培生",
+      "onboard_time": 1716420917,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 91217,
@@ -10715,6 +10779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 80153,
+      "num": 80153,
+      "word": "玩乙女游戏突然变暗的画面",
+      "onboard_time": 1716419955,
+      "rank": 40,
+      "category": "游戏,情感"
+    },
+    {
       "raw_hot": 79736,
       "num": 79736,
       "word": "朴志效泡泡照搬周子瑜",
@@ -10819,12 +10891,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76451,
+      "num": 76451,
+      "word": "胡锡进谈王红权星被封",
+      "onboard_time": 1716420675,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75911,
       "num": 75911,
       "word": "Bin说三比零T1",
       "onboard_time": 1716029057,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75739,
+      "num": 75739,
+      "word": "付辛博改名周二围吧",
+      "onboard_time": 1716417793,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74712,
+      "num": 72553,
+      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
+      "onboard_time": 1716404711,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 74595,
@@ -10883,6 +10979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72553,
+      "num": 72553,
+      "word": "卢克曼帽子戏法",
+      "onboard_time": 1716420496,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72467,
       "num": 449138,
       "word": "赶紧问问消防员旁边那个秃头女人是谁",
@@ -10905,6 +11009,14 @@
       "onboard_time": 1716070210,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70843,
+      "num": 70843,
+      "word": "总睡不够是缺维生素D吗",
+      "onboard_time": 1716404411,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 70592,
@@ -10971,12 +11083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68532,
-      "num": 68532,
-      "word": "付辛博改名周二围吧",
-      "onboard_time": 1716417793,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 68287,
+      "num": 68287,
+      "word": "约翰传奇IP在湖南",
+      "onboard_time": 1716420796,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 68283,
@@ -10993,14 +11105,6 @@
       "onboard_time": 1716350780,
       "rank": 28,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 68059,
-      "num": 68059,
-      "word": "过度健身可能会导致显老",
-      "onboard_time": 1716419415,
-      "rank": 32,
-      "category": "运动健身"
     },
     {
       "raw_hot": 68003,
@@ -11099,14 +11203,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 63539,
-      "num": 63539,
-      "word": "英伟达",
-      "onboard_time": 1716420016,
-      "rank": 34,
-      "category": "数码,财经"
-    },
-    {
       "raw_hot": 62902,
       "num": 62902,
       "word": "陈丽君报平安",
@@ -11131,12 +11227,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61950,
-      "num": 61950,
-      "word": "总睡不够是缺维生素D吗",
-      "onboard_time": 1716404411,
+      "raw_hot": 61599,
+      "num": 61599,
+      "word": "杨鸣 逆袭的人生才精彩",
+      "onboard_time": 1716420917,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61544,
+      "num": 70974,
+      "word": "高敏感人是超级厉害的大后期人格",
+      "onboard_time": 1716420556,
       "rank": 45,
-      "category": "健康医疗"
+      "category": "情感"
     },
     {
       "raw_hot": 61373,
@@ -11267,14 +11371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56069,
-      "num": 56069,
-      "word": "玩乙女游戏突然变暗的画面",
-      "onboard_time": 1716419955,
-      "rank": 40,
-      "category": "游戏,情感"
-    },
-    {
       "raw_hot": 55398,
       "num": 55398,
       "word": "钟楚曦金色人鱼裙",
@@ -11331,12 +11427,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 51156,
-      "num": 51156,
-      "word": "向佐称上披哥帮郭碧婷一起赚奶粉钱",
-      "onboard_time": 1716404711,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 51111,
+      "num": 577565,
+      "word": "中国文化遗产有多绝",
+      "onboard_time": 1716382219,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50603,
@@ -11537,14 +11633,6 @@
       "onboard_time": 1716312852,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40315,
-      "num": 476571,
-      "word": "中国文化遗产有多绝",
-      "onboard_time": 1716382219,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39841,
@@ -11859,11 +11947,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23666,
+      "num": 225911,
+      "word": "穿越机视角看万马奔腾好震撼",
+      "onboard_time": 1716419475,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23627,
       "num": 175029,
       "word": "大四学生拍毕业照意外与婚纱照同框",
       "onboard_time": 1716052094,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23378,
+      "num": 98423,
+      "word": "货车司机停高速口煮面交警耐心等吃完",
+      "onboard_time": 1716420556,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -12001,14 +12105,6 @@
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14304,
-      "num": 225911,
-      "word": "穿越机视角看万马奔腾好震撼",
-      "onboard_time": 1716419475,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12843,
