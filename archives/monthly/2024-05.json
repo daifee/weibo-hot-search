@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716366259512,
+  "endTime": 1716367023041,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2123,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1456307,
+      "num": 1456307,
+      "word": "HPV疫苗价格大跳水",
+      "onboard_time": 1716362779,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1455936,
       "num": 325762,
       "word": "男子嫖娼被抓妻子选择原谅回家养牛",
@@ -2409,14 +2417,6 @@
       "onboard_time": 1715524522,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1373159,
-      "num": 1373159,
-      "word": "HPV疫苗价格大跳水",
-      "onboard_time": 1716362779,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1372523,
@@ -9851,6 +9851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624791,
+      "num": 624791,
+      "word": "亚当 喝中药",
+      "onboard_time": 1716366019,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624740,
       "num": 262966,
       "word": "庆余年 袁泉",
@@ -13273,6 +13281,14 @@
       "onboard_time": 1716008059,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490130,
+      "num": 444078,
+      "word": "网红cici删除鲍鱼家姐相关视频",
+      "onboard_time": 1716364879,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 490071,
@@ -18099,6 +18115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378097,
+      "num": 348193,
+      "word": "亚当爆改张震岳",
+      "onboard_time": 1716365720,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377621,
       "num": 377621,
       "word": "美歌手持枪拍视频意外自杀",
@@ -19203,6 +19227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353284,
+      "num": 304393,
+      "word": "徐海乔转发回复赵丽颖",
+      "onboard_time": 1716365599,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353273,
       "num": 286128,
       "word": "王俊凯接触陷入我们的热恋",
@@ -19233,6 +19265,14 @@
       "onboard_time": 1715158641,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 352751,
+      "num": 352751,
+      "word": "浪姐也搞直播了",
+      "onboard_time": 1716364879,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 352644,
@@ -19481,14 +19521,6 @@
       "onboard_time": 1714967601,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 348265,
-      "num": 348265,
-      "word": "网红cici删除鲍鱼家姐相关视频",
-      "onboard_time": 1716364879,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 348190,
@@ -19857,14 +19889,6 @@
       "onboard_time": 1715140583,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 341983,
-      "num": 341983,
-      "word": "浪姐也搞直播了",
-      "onboard_time": 1716364879,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 341919,
@@ -21089,6 +21113,14 @@
       "onboard_time": 1714622418,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321081,
+      "num": 321081,
+      "word": "社区大清早打电话问我怀孕了没",
+      "onboard_time": 1716366318,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 320947,
@@ -24643,14 +24675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268592,
-      "num": 225340,
-      "word": "徐海乔转发回复赵丽颖",
-      "onboard_time": 1716365599,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 268581,
       "num": 180916,
       "word": "王楚然演的桑文",
@@ -25177,14 +25201,6 @@
       "onboard_time": 1715396359,
       "rank": 24,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 262113,
-      "num": 262113,
-      "word": "亚当爆改张震岳",
-      "onboard_time": 1716365720,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 262045,
@@ -35339,14 +35355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192453,
-      "num": 192453,
-      "word": "亚当 喝中药",
-      "onboard_time": 1716366019,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192420,
       "num": 192420,
       "word": "孙颖莎积分8300世界第一",
@@ -36587,6 +36595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187516,
+      "num": 187516,
+      "word": "十年前的花少跟拍用的是DV机",
+      "onboard_time": 1716364698,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187513,
       "num": 187513,
       "word": "SM新女团第四季度将出道",
@@ -36827,14 +36843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 186685,
-      "num": 186685,
-      "word": "十年前的花少跟拍用的是DV机",
-      "onboard_time": 1716364698,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186678,
       "num": 186678,
       "word": "庆余年太会拍",
@@ -37049,6 +37057,14 @@
       "onboard_time": 1714649419,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185142,
+      "num": 185142,
+      "word": "与凤行庆功宴",
+      "onboard_time": 1716366798,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 185119,
@@ -38689,6 +38705,14 @@
       "onboard_time": 1714972999,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177025,
+      "num": 177025,
+      "word": "张艺兴喊话南派三叔出二月红续集",
+      "onboard_time": 1716366379,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 177022,
@@ -41955,6 +41979,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 162683,
+      "num": 162683,
+      "word": "没想到论文查重要查AI率了",
+      "onboard_time": 1716365479,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 162667,
       "num": 162667,
       "word": "OpenAI发布GPT4O",
@@ -43043,14 +43075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157125,
-      "num": 157125,
-      "word": "没想到论文查重要查AI率了",
-      "onboard_time": 1716365479,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 157044,
       "num": 157044,
       "word": "赵睿个人能力",
@@ -43577,6 +43601,14 @@
       "onboard_time": 1714641918,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154717,
+      "num": 154717,
+      "word": "TikTok拟本周裁员",
+      "onboard_time": 1716365958,
+      "rank": 48,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 154675,
@@ -48755,6 +48787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132701,
+      "num": 132701,
+      "word": "中通客车涨停预言者身份公开",
+      "onboard_time": 1716366798,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 132670,
       "num": 132670,
       "word": "泡泡岛音乐节 大巴",
@@ -50619,6 +50659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124483,
+      "num": 124483,
+      "word": "以色列宣布召回驻挪威和爱尔兰大使",
+      "onboard_time": 1716366979,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 124475,
       "num": 124475,
       "word": "建议夏天把冰箱温度调高点",
@@ -50801,14 +50849,6 @@
       "onboard_time": 1714647499,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123828,
-      "num": 123828,
-      "word": "TikTok拟本周裁员",
-      "onboard_time": 1716365958,
-      "rank": 48,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 123817,
@@ -58683,6 +58723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47294,
+      "num": 1248506,
+      "word": "玲龙一号主控室正式启动",
+      "onboard_time": 1716366140,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47019,
       "num": 54447,
       "word": "中法元首夫妇观看法国民间舞蹈表演",
@@ -60787,14 +60835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7040,
-      "num": 1248506,
-      "word": "玲龙一号主控室正式启动",
-      "onboard_time": 1716366140,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 4564,
       "num": 166427,
       "word": "十个勤天焕新美好生活",
@@ -61105,6 +61145,9 @@
     },
     {
       "word": "#共同建设清洁美丽的世界#"
+    },
+    {
+      "word": "#习近平向第14届中美旅游高层对话开幕致信#"
     }
   ]
 }

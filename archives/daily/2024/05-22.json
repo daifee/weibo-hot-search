@@ -1,6 +1,6 @@
 {
   "startTime": 1716308574072,
-  "endTime": 1716366259512,
+  "endTime": 1716367023041,
   "band_list": [
     {
       "raw_hot": 2119424,
@@ -43,20 +43,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1456307,
+      "num": 1456307,
+      "word": "HPV疫苗价格大跳水",
+      "onboard_time": 1716362779,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1383802,
       "num": 1079194,
       "word": "短发的刘亦菲",
       "onboard_time": 1716346579,
       "rank": 8,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1373159,
-      "num": 1373159,
-      "word": "HPV疫苗价格大跳水",
-      "onboard_time": 1716362779,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1296287,
@@ -283,6 +283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 624791,
+      "num": 624791,
+      "word": "亚当 喝中药",
+      "onboard_time": 1716366019,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 608923,
       "num": 608923,
       "word": "陈飞宇庄达菲情侣写真",
@@ -401,6 +409,14 @@
       "onboard_time": 1716363318,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 490130,
+      "num": 444078,
+      "word": "网红cici删除鲍鱼家姐相关视频",
+      "onboard_time": 1716364879,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 488870,
@@ -579,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378097,
+      "num": 348193,
+      "word": "亚当爆改张震岳",
+      "onboard_time": 1716365720,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375762,
       "num": 363715,
       "word": "迪丽热巴祝赵昭仪生日大快乐",
@@ -619,12 +643,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348265,
-      "num": 348265,
-      "word": "网红cici删除鲍鱼家姐相关视频",
+      "raw_hot": 353284,
+      "num": 304393,
+      "word": "徐海乔转发回复赵丽颖",
+      "onboard_time": 1716365599,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 352751,
+      "num": 352751,
+      "word": "浪姐也搞直播了",
       "onboard_time": 1716364879,
-      "rank": 18,
-      "category": "网红"
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 344931,
@@ -640,14 +672,6 @@
       "word": "蒲熠星天崩开局",
       "onboard_time": 1716362719,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 341983,
-      "num": 341983,
-      "word": "浪姐也搞直播了",
-      "onboard_time": 1716364879,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -689,6 +713,14 @@
       "onboard_time": 1716305601,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321081,
+      "num": 321081,
+      "word": "社区大清早打电话问我怀孕了没",
+      "onboard_time": 1716366318,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 313958,
@@ -793,22 +825,6 @@
       "onboard_time": 1716343938,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 268592,
-      "num": 225340,
-      "word": "徐海乔转发回复赵丽颖",
-      "onboard_time": 1716365599,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 262113,
-      "num": 262113,
-      "word": "亚当爆改张震岳",
-      "onboard_time": 1716365720,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 261909,
@@ -1115,14 +1131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192453,
-      "num": 192453,
-      "word": "亚当 喝中药",
-      "onboard_time": 1716366019,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189829,
       "num": 189829,
       "word": "为什么民宿越来越不流行了",
@@ -1147,19 +1155,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187516,
+      "num": 187516,
+      "word": "十年前的花少跟拍用的是DV机",
+      "onboard_time": 1716364698,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186727,
       "num": 186727,
       "word": "奔跑吧舞台直拍",
       "onboard_time": 1716348438,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 186685,
-      "num": 186685,
-      "word": "十年前的花少跟拍用的是DV机",
-      "onboard_time": 1716364698,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1177,6 +1185,14 @@
       "onboard_time": 1716308776,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185142,
+      "num": 185142,
+      "word": "与凤行庆功宴",
+      "onboard_time": 1716366798,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 180782,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1716340217,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177025,
+      "num": 177025,
+      "word": "张艺兴喊话南派三叔出二月红续集",
+      "onboard_time": 1716366379,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 176867,
@@ -1275,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167856,
+      "num": 167856,
+      "word": "逆水寒手游",
+      "onboard_time": 1716366559,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166258,
       "num": 283951,
       "word": "天上有2颗星在说好好吃饭健康长大",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1716358158,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162683,
+      "num": 162683,
+      "word": "没想到论文查重要查AI率了",
+      "onboard_time": 1716365479,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 161514,
@@ -1363,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157125,
-      "num": 157125,
-      "word": "没想到论文查重要查AI率了",
-      "onboard_time": 1716365479,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 156288,
       "num": 188446,
       "word": "HPV疫苗接种成本降低",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1716349280,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 154717,
+      "num": 154717,
+      "word": "TikTok拟本周裁员",
+      "onboard_time": 1716365958,
+      "rank": 48,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 154293,
@@ -1563,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132701,
+      "num": 132701,
+      "word": "中通客车涨停预言者身份公开",
+      "onboard_time": 1716366798,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 132098,
       "num": 132098,
       "word": "RNG 别虐泉",
@@ -1659,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124483,
+      "num": 124483,
+      "word": "以色列宣布召回驻挪威和爱尔兰大使",
+      "onboard_time": 1716366979,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 124410,
       "num": 124410,
       "word": "原来商战真的是偷秘方",
@@ -1681,14 +1737,6 @@
       "onboard_time": 1716352402,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 123828,
-      "num": 123828,
-      "word": "TikTok拟本周裁员",
-      "onboard_time": 1716365958,
-      "rank": 48,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 121907,
@@ -1971,6 +2019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47294,
+      "num": 1248506,
+      "word": "玲龙一号主控室正式启动",
+      "onboard_time": 1716366140,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45948,
       "num": 699477,
       "word": "他们还在守护袁爷爷的梦",
@@ -2089,14 +2145,6 @@
       "onboard_time": 1716313873,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7040,
-      "num": 1248506,
-      "word": "玲龙一号主控室正式启动",
-      "onboard_time": 1716366140,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2108,6 +2156,9 @@
     },
     {
       "word": "#共同建设清洁美丽的世界#"
+    },
+    {
+      "word": "#习近平向第14届中美旅游高层对话开幕致信#"
     }
   ]
 }
