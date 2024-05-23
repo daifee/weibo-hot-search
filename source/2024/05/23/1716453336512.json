@@ -1,0 +1,410 @@
+{
+  "runTime": 1716453336512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1575598,
+        "num": 1575598,
+        "word": "北大女生靠知网文献把800米练进三分半内",
+        "onboard_time": 1716447258,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1079312,
+        "num": 1079312,
+        "word": "东部战区位台岛周边开展演习",
+        "onboard_time": 1716422117,
+        "rank": 1,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 17002,
+        "num": 967604,
+        "word": "博物馆这些文案封神了",
+        "onboard_time": 1716424219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1456657,
+        "num": 962687,
+        "word": "孙俪长文",
+        "onboard_time": 1716447618,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 890860,
+        "num": 890860,
+        "word": "张韶涵",
+        "onboard_time": 1716450319,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735907,
+        "num": 735907,
+        "word": "五条悟尸体被操控",
+        "onboard_time": 1716436700,
+        "rank": 5,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 890510,
+        "num": 730304,
+        "word": "那英别说了 汪苏泷快碎了",
+        "onboard_time": 1716444620,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704185,
+        "num": 704185,
+        "word": "罗翔谈留学生刷了100万信用卡回国",
+        "onboard_time": 1716447738,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537633,
+        "num": 537633,
+        "word": "出国后才发现中国的文化输出有多强",
+        "onboard_time": 1716450138,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 501596,
+        "num": 501596,
+        "word": "此次台岛周边联合演习有何特点",
+        "onboard_time": 1716435259,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 488276,
+        "num": 488276,
+        "word": "台独金孙只会祸害台湾子孙",
+        "onboard_time": 1716451699,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 423531,
+        "num": 423531,
+        "word": "怪不得圣女找辛芷蕾来演",
+        "onboard_time": 1716451158,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386797,
+        "num": 386797,
+        "word": "蕾哈娜在上海认出中国铁粉",
+        "onboard_time": 1716446059,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366623,
+        "num": 366623,
+        "word": "这是对台独分裂行径的有力惩戒",
+        "onboard_time": 1716428657,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360356,
+        "num": 360356,
+        "word": "玫瑰的故事",
+        "onboard_time": 1716452120,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347606,
+        "num": 347606,
+        "word": "狂犬病每年杀死多少人",
+        "onboard_time": 1716448580,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 332129,
+        "num": 332129,
+        "word": "朴宝蓝尸检报告结果",
+        "onboard_time": 1716446478,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305257,
+        "num": 305257,
+        "word": "第二个N号房事件爆发",
+        "onboard_time": 1716427098,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304996,
+        "num": 304996,
+        "word": "解放军数十架次战机环台岛战巡",
+        "onboard_time": 1716441979,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285197,
+        "num": 285197,
+        "word": "东部战区问熊孩子经历什么才是完整的童年",
+        "onboard_time": 1716443959,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263082,
+        "num": 263082,
+        "word": "杨幂抵达戛纳",
+        "onboard_time": 1716452719,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249285,
+        "num": 249285,
+        "word": "卫龙15克装魔芋爽实际只有8.9克",
+        "onboard_time": 1716452358,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239541,
+        "num": 239541,
+        "word": "网红为致富而炫富违法吗",
+        "onboard_time": 1716451219,
+        "rank": 22,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 236580,
+        "num": 236580,
+        "word": "原来这才是微信注销后的样子",
+        "onboard_time": 1716452778,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216935,
+        "num": 216935,
+        "word": "12岁失联男孩尸体被找到",
+        "onboard_time": 1716435078,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215458,
+        "num": 215458,
+        "word": "为什么有这么多人买一次性内裤",
+        "onboard_time": 1716452660,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210670,
+        "num": 210670,
+        "word": "金饰价格一夜下跌10元每克",
+        "onboard_time": 1716440242,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194434,
+        "num": 194434,
+        "word": "官博真发了杨幂哄龚俊的花絮",
+        "onboard_time": 1716443119,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182479,
+        "num": 182479,
+        "word": "盖肚脐眼是中国人最后的倔强",
+        "onboard_time": 1716447557,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179304,
+        "num": 179304,
+        "word": "猫 别来烦我",
+        "onboard_time": 1716452958,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171339,
+        "num": 171339,
+        "word": "解放军持续位台岛周边开展多科目训练",
+        "onboard_time": 1716453018,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156790,
+        "num": 156790,
+        "word": "非全日制研究生不该被差别对待",
+        "onboard_time": 1716437899,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 170331,
+        "num": 156645,
+        "word": "杨幂说那天哄了龚俊很久",
+        "onboard_time": 1716434478,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156445,
+        "num": 156445,
+        "word": "张颂文回应肚腩消失",
+        "onboard_time": 1716452358,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147061,
+        "num": 147061,
+        "word": "周扬青底妆刷了4层粉底",
+        "onboard_time": 1716436819,
+        "rank": 34,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 133071,
+        "num": 133071,
+        "word": "庆余年 权力的游戏之东三省",
+        "onboard_time": 1716447919,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131418,
+        "num": 131418,
+        "word": "海棠朵朵烦死了",
+        "onboard_time": 1716438740,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158416,
+        "num": 131304,
+        "word": "龚俊紧急撤回一个不礼貌",
+        "onboard_time": 1716451219,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131012,
+        "num": 131012,
+        "word": "周杰伦演唱会不唱某些歌的原因",
+        "onboard_time": 1716445998,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128713,
+        "num": 128713,
+        "word": "姚明说村BA已经举办近30年",
+        "onboard_time": 1716450498,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121880,
+        "num": 121880,
+        "word": "bing崩了",
+        "onboard_time": 1716453197,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121116,
+        "num": 121116,
+        "word": "鸣潮好卡",
+        "onboard_time": 1716443178,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120235,
+        "num": 120235,
+        "word": "AI工具进军杀猪盘",
+        "onboard_time": 1716449419,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121129,
+        "num": 118623,
+        "word": "周杰伦回应歌迷催歌",
+        "onboard_time": 1716452660,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116051,
+        "num": 116051,
+        "word": "官方回应刮刮乐大面积缺货",
+        "onboard_time": 1716448698,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115427,
+        "num": 115427,
+        "word": "张若昀唐艺昕古装情头",
+        "onboard_time": 1716440600,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108930,
+        "num": 108930,
+        "word": "LWX说白色月牙废话多",
+        "onboard_time": 1716451999,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106957,
+        "num": 106957,
+        "word": "东部战区联合利剑2024A演习剑指台独",
+        "onboard_time": 1716447738,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106299,
+        "num": 106299,
+        "word": "Fisher回归LCK",
+        "onboard_time": 1716447318,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105415,
+        "num": 105415,
+        "word": "鸣潮开服",
+        "onboard_time": 1716427639,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山东日照考察调研#"
+    }
+  }
+}

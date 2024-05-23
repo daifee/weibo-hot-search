@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716452581945,
+  "endTime": 1716453336512,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1575598,
+      "num": 1575598,
+      "word": "北大女生靠知网文献把800米练进三分半内",
+      "onboard_time": 1716447258,
+      "rank": 9,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1561399,
       "num": 417291,
       "word": "学生家长出轨校长合谋杀夫一审宣判",
@@ -75,15 +83,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1480715,
-      "num": 1480715,
-      "word": "北大女生靠知网文献把800米练进三分半内",
-      "onboard_time": 1716447258,
-      "rank": 9,
-      "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 1444467,
+      "raw_hot": 1456657,
       "num": 980758,
       "word": "孙俪长文",
       "onboard_time": 1716447618,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 890860,
+      "num": 890860,
+      "word": "张韶涵",
+      "onboard_time": 1716450319,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 889081,
       "num": 889081,
       "word": "东部战区发布组合海报越海杀器",
@@ -193,14 +201,6 @@
       "onboard_time": 1716381318,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 873048,
-      "num": 873048,
-      "word": "张韶涵",
-      "onboard_time": 1716450319,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 844766,
@@ -363,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537633,
+      "num": 537633,
+      "word": "出国后才发现中国的文化输出有多强",
+      "onboard_time": 1716450138,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 537307,
       "num": 537307,
       "word": "庆帝 我要diss你",
@@ -435,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 488276,
+      "num": 488276,
+      "word": "台独金孙只会祸害台湾子孙",
+      "onboard_time": 1716451699,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 480169,
       "num": 480169,
       "word": "12岁失联男孩尸体被找到",
@@ -459,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 459433,
-      "num": 459433,
-      "word": "出国后才发现中国的文化输出有多强",
-      "onboard_time": 1716450138,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 452422,
       "num": 452422,
       "word": "龚俊薅到杨幂",
@@ -489,6 +497,14 @@
       "onboard_time": 1716432559,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423531,
+      "num": 423531,
+      "word": "怪不得圣女找辛芷蕾来演",
+      "onboard_time": 1716451158,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 415363,
@@ -553,6 +569,14 @@
       "onboard_time": 1716375978,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 360356,
+      "num": 360356,
+      "word": "玫瑰的故事",
+      "onboard_time": 1716452120,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 355298,
@@ -643,14 +667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 322665,
-      "num": 322665,
-      "word": "怪不得圣女找辛芷蕾来演",
-      "onboard_time": 1716451158,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315058,
       "num": 315058,
       "word": "王子异做副业了吗",
@@ -673,14 +689,6 @@
       "onboard_time": 1716435619,
       "rank": 26,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 307413,
-      "num": 307413,
-      "word": "台独金孙只会祸害台湾子孙",
-      "onboard_time": 1716451699,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 304290,
@@ -811,6 +819,14 @@
       "category": "美食,游戏"
     },
     {
+      "raw_hot": 263082,
+      "num": 263082,
+      "word": "杨幂抵达戛纳",
+      "onboard_time": 1716452719,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 254617,
       "num": 254617,
       "word": "专家回应不少大人孩子近来嗓子疼",
@@ -835,12 +851,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249285,
+      "num": 249285,
+      "word": "卫龙15克装魔芋爽实际只有8.9克",
+      "onboard_time": 1716452358,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 249154,
       "num": 249154,
       "word": "范思辙爆改可达鸭",
       "onboard_time": 1716422359,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239541,
+      "num": 481126,
+      "word": "网红为致富而炫富违法吗",
+      "onboard_time": 1716451219,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
+      "raw_hot": 236580,
+      "num": 236580,
+      "word": "原来这才是微信注销后的样子",
+      "onboard_time": 1716452778,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 236332,
@@ -899,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227448,
-      "num": 227448,
-      "word": "玫瑰的故事",
-      "onboard_time": 1716452120,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227199,
       "num": 227199,
       "word": "乘风2024回应投票数据注水",
@@ -921,6 +953,14 @@
       "onboard_time": 1716430639,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215458,
+      "num": 215458,
+      "word": "为什么有这么多人买一次性内裤",
+      "onboard_time": 1716452660,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 211913,
@@ -1123,6 +1163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179304,
+      "num": 179304,
+      "word": "猫 别来烦我",
+      "onboard_time": 1716452958,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177699,
       "num": 177699,
       "word": "杨幂龚俊 姐狗味",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1716388941,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171339,
+      "num": 171339,
+      "word": "解放军持续位台岛周边开展多科目训练",
+      "onboard_time": 1716453018,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171326,
@@ -1299,28 +1355,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 160302,
-      "num": 481126,
-      "word": "网红为致富而炫富违法吗",
-      "onboard_time": 1716451219,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
-    },
-    {
       "raw_hot": 158152,
       "num": 158152,
       "word": "小狗的胸好蓬松",
       "onboard_time": 1716420496,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157976,
-      "num": 157875,
-      "word": "卫龙15克装魔芋爽实际只有8.9克",
-      "onboard_time": 1716452358,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 157972,
@@ -1571,12 +1611,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121880,
+      "num": 121880,
+      "word": "bing崩了",
+      "onboard_time": 1716453197,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121482,
       "num": 121482,
       "word": "庆余年张若昀专场云访谈",
       "onboard_time": 1716449840,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121129,
+      "num": 118623,
+      "word": "周杰伦回应歌迷催歌",
+      "onboard_time": 1716452660,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 120897,
@@ -2127,6 +2183,9 @@
     },
     {
       "word": "#习近平在山东日照市考察调研#"
+    },
+    {
+      "word": "#习近平在山东日照考察调研#"
     }
   ]
 }
