@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716468552759,
+  "endTime": 1716470465271,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1715431698,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1930518,
+      "num": 1930518,
+      "word": "狐妖剧情 无聊",
+      "onboard_time": 1716467959,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1924480,
@@ -2483,6 +2491,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1403384,
+      "num": 556011,
+      "word": "苍兰诀",
+      "onboard_time": 1716468859,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1401033,
       "num": 1126159,
       "word": "元气森林就肖战海报事件致歉",
@@ -2801,6 +2817,14 @@
       "onboard_time": 1714953438,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1329021,
+      "num": 985132,
+      "word": "狐妖 好大的滤镜",
+      "onboard_time": 1716466939,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 1326766,
@@ -4419,6 +4443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1078087,
+      "num": 469832,
+      "word": "侯佩岑",
+      "onboard_time": 1716466459,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1077420,
       "num": 890464,
       "word": "中方要求以色列立即停止军事进攻拉法",
@@ -4747,6 +4779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1025758,
+      "num": 503143,
+      "word": "多位台湾艺人表态支持祖国统一",
+      "onboard_time": 1716457520,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1022414,
       "num": 360937,
       "word": "黄子韬只承认鹿晗比自己帅",
@@ -4985,14 +5025,6 @@
       "onboard_time": 1716461599,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 985132,
-      "num": 985132,
-      "word": "狐妖 好大的滤镜",
-      "onboard_time": 1716466939,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 984312,
@@ -5785,14 +5817,6 @@
       "onboard_time": 1716170897,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 898599,
-      "num": 469832,
-      "word": "侯佩岑",
-      "onboard_time": 1716466459,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 897035,
@@ -6952,14 +6976,6 @@
       "word": "林更新别更新关晓彤关了吧",
       "onboard_time": 1715839519,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 809296,
-      "num": 503143,
-      "word": "多位台湾艺人表态支持祖国统一",
-      "onboard_time": 1716457520,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -9227,6 +9243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678343,
+      "num": 478366,
+      "word": "张馨予玄学",
+      "onboard_time": 1716467959,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 678210,
       "num": 678210,
       "word": "歌手2024主持人阵容",
@@ -9785,14 +9809,6 @@
       "onboard_time": 1715313499,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 653045,
-      "num": 494639,
-      "word": "狐妖剧情 无聊",
-      "onboard_time": 1716467959,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 652998,
@@ -13331,7 +13347,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 512179,
+      "raw_hot": 512467,
       "num": 450414,
       "word": "小鬼导师人气倒数第二",
       "onboard_time": 1716465499,
@@ -13361,6 +13377,14 @@
       "onboard_time": 1716249559,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 511195,
+      "num": 511195,
+      "word": "月亮",
+      "onboard_time": 1716466818,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 511190,
@@ -13705,14 +13729,6 @@
       "onboard_time": 1715005520,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 503474,
-      "num": 503474,
-      "word": "月亮",
-      "onboard_time": 1716466818,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 503298,
@@ -14465,6 +14481,14 @@
       "onboard_time": 1714660999,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 480255,
+      "num": 441171,
+      "word": "狐妖小红娘 儿童剧",
+      "onboard_time": 1716469279,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 480169,
@@ -15691,6 +15715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451507,
+      "num": 414312,
+      "word": "刘诗诗支持狐妖",
+      "onboard_time": 1716468259,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451390,
       "num": 451390,
       "word": "微信及WeChat月活13.59亿",
@@ -16161,6 +16193,14 @@
       "onboard_time": 1715753899,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 440249,
+      "num": 440249,
+      "word": "台岛周边演习现场画面",
+      "onboard_time": 1716468439,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 439551,
@@ -22204,7 +22244,7 @@
     },
     {
       "raw_hot": 323001,
-      "num": 208368,
+      "num": 257284,
       "word": "李佳琦唱跳 蕾哈娜带货",
       "onboard_time": 1716466759,
       "rank": 26,
@@ -23033,14 +23073,6 @@
       "onboard_time": 1714553177,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308719,
-      "num": 195258,
-      "word": "张馨予玄学",
-      "onboard_time": 1716467959,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 308717,
@@ -25155,6 +25187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278878,
+      "num": 274205,
+      "word": "江苏诞生一位千万富翁",
+      "onboard_time": 1716466339,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278780,
       "num": 278780,
       "word": "理想L9高速路急刹致追尾被判全责",
@@ -25633,6 +25673,14 @@
       "onboard_time": 1715317341,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272539,
+      "num": 272539,
+      "word": "胡连馨涂山容容好美",
+      "onboard_time": 1716461899,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 272290,
@@ -28235,14 +28283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244860,
-      "num": 213539,
-      "word": "江苏诞生一位千万富翁",
-      "onboard_time": 1716466339,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244825,
       "num": 244825,
       "word": "Faouzia实力",
@@ -30795,6 +30835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221563,
+      "num": 221563,
+      "word": "刘亦菲彭冠英背后抱吻戏",
+      "onboard_time": 1716467478,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221532,
       "num": 221532,
       "word": "太阳爆发X级耀斑",
@@ -30849,6 +30897,14 @@
       "onboard_time": 1716045258,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221007,
+      "num": 259650,
+      "word": "卫龙一天道歉两次",
+      "onboard_time": 1716468019,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 220922,
@@ -34627,6 +34683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201325,
+      "num": 165300,
+      "word": "aespa将在上海签售",
+      "onboard_time": 1716468559,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201252,
       "num": 201252,
       "word": "郭艾伦说很想和大家一起上",
@@ -34737,14 +34801,6 @@
       "onboard_time": 1716127162,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200995,
-      "num": 191893,
-      "word": "刘诗诗支持狐妖",
-      "onboard_time": 1716468259,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 200960,
@@ -34961,6 +35017,14 @@
       "onboard_time": 1715604318,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200477,
+      "num": 200477,
+      "word": "法网2024",
+      "onboard_time": 1716469340,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 200474,
@@ -35497,14 +35561,6 @@
       "onboard_time": 1714976120,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198287,
-      "num": 198287,
-      "word": "台岛周边演习现场画面",
-      "onboard_time": 1716468439,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 198268,
@@ -38243,14 +38299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188914,
-      "num": 156539,
-      "word": "刘亦菲彭冠英背后抱吻戏",
-      "onboard_time": 1716467478,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188900,
       "num": 188900,
       "word": "联合国官网报道王一博",
@@ -38300,7 +38348,7 @@
     },
     {
       "raw_hot": 188707,
-      "num": 123587,
+      "num": 162635,
       "word": "抿嘴",
       "onboard_time": 1715873120,
       "rank": 47,
@@ -38425,6 +38473,14 @@
       "onboard_time": 1716383060,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188133,
+      "num": 162703,
+      "word": "张若昀是不是每天晚上在家背梗",
+      "onboard_time": 1716467718,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 188119,
@@ -43251,14 +43307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166969,
-      "num": 139387,
-      "word": "张若昀是不是每天晚上在家背梗",
-      "onboard_time": 1716467718,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166963,
       "num": 166963,
       "word": "五月的天 刚诞生的夏天",
@@ -45057,6 +45105,14 @@
       "onboard_time": 1715589858,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159122,
+      "num": 159122,
+      "word": "丞磊 一次勇敢换来社死一回",
+      "onboard_time": 1716469760,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 159094,
@@ -61843,6 +61899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51638,
+      "num": 257532,
+      "word": "绿联发布会",
+      "onboard_time": 1716469519,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 51119,
       "num": 167355,
       "word": "鸣潮有自己的物理学",
@@ -62033,6 +62097,14 @@
       "onboard_time": 1715972352,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48527,
+      "num": 304860,
+      "word": "初夏老钱风诚不欺我",
+      "onboard_time": 1716465921,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 48421,
@@ -62713,14 +62785,6 @@
       "onboard_time": 1715468594,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 38354,
-      "num": 293539,
-      "word": "初夏老钱风诚不欺我",
-      "onboard_time": 1716465921,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 38321,

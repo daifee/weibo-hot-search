@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716468552759,
+  "endTime": 1716470465271,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -25,6 +25,14 @@
       "onboard_time": 1716453979,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1930518,
+      "num": 1930518,
+      "word": "狐妖剧情 无聊",
+      "onboard_time": 1716467959,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1823252,
@@ -115,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1403384,
+      "num": 556011,
+      "word": "苍兰诀",
+      "onboard_time": 1716468859,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1329021,
+      "num": 985132,
+      "word": "狐妖 好大的滤镜",
+      "onboard_time": 1716466939,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1260307,
       "num": 1260307,
       "word": "31岁放弃编制工作后我怎样了",
@@ -179,20 +203,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1078087,
+      "num": 469832,
+      "word": "侯佩岑",
+      "onboard_time": 1716466459,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1025758,
+      "num": 503143,
+      "word": "多位台湾艺人表态支持祖国统一",
+      "onboard_time": 1716457520,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 988446,
       "num": 988446,
       "word": "王红权星称会为自己的错误买单",
       "onboard_time": 1716461599,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 985132,
-      "num": 985132,
-      "word": "狐妖 好大的滤镜",
-      "onboard_time": 1716466939,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 982528,
@@ -233,14 +265,6 @@
       "onboard_time": 1716438740,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 898599,
-      "num": 469832,
-      "word": "侯佩岑",
-      "onboard_time": 1716466459,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 890860,
@@ -297,14 +321,6 @@
       "onboard_time": 1716432377,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 809296,
-      "num": 503143,
-      "word": "多位台湾艺人表态支持祖国统一",
-      "onboard_time": 1716457520,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 795771,
@@ -387,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 653045,
-      "num": 494639,
-      "word": "狐妖剧情 无聊",
+      "raw_hot": 678343,
+      "num": 478366,
+      "word": "张馨予玄学",
       "onboard_time": 1716467959,
-      "rank": 6,
-      "category": "剧集"
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 647177,
@@ -595,12 +611,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 512179,
+      "raw_hot": 512467,
       "num": 450414,
       "word": "小鬼导师人气倒数第二",
       "onboard_time": 1716465499,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511195,
+      "num": 511195,
+      "word": "月亮",
+      "onboard_time": 1716466818,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 507207,
@@ -609,14 +633,6 @@
       "onboard_time": 1716422959,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 503474,
-      "num": 503474,
-      "word": "月亮",
-      "onboard_time": 1716466818,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 499252,
@@ -649,6 +665,14 @@
       "onboard_time": 1716451699,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 480255,
+      "num": 441171,
+      "word": "狐妖小红娘 儿童剧",
+      "onboard_time": 1716469279,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 480169,
@@ -707,12 +731,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451507,
+      "num": 414312,
+      "word": "刘诗诗支持狐妖",
+      "onboard_time": 1716468259,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444844,
       "num": 444844,
       "word": "学校回应12岁女生短跑昏迷后离世",
       "onboard_time": 1716422778,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440249,
+      "num": 440249,
+      "word": "台岛周边演习现场画面",
+      "onboard_time": 1716468439,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 434496,
@@ -924,7 +964,7 @@
     },
     {
       "raw_hot": 323001,
-      "num": 208368,
+      "num": 257284,
       "word": "李佳琦唱跳 蕾哈娜带货",
       "onboard_time": 1716466759,
       "rank": 26,
@@ -969,14 +1009,6 @@
       "onboard_time": 1716435619,
       "rank": 26,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 308719,
-      "num": 195258,
-      "word": "张馨予玄学",
-      "onboard_time": 1716467959,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 305377,
@@ -1083,12 +1115,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 278878,
+      "num": 274205,
+      "word": "江苏诞生一位千万富翁",
+      "onboard_time": 1716466339,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276043,
       "num": 246604,
       "word": "张颂文说杨紫抽到紫竹太巧了",
       "onboard_time": 1716445459,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272539,
+      "num": 272539,
+      "word": "胡连馨涂山容容好美",
+      "onboard_time": 1716461899,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 270406,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1716422359,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244860,
-      "num": 213539,
-      "word": "江苏诞生一位千万富翁",
-      "onboard_time": 1716466339,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239541,
@@ -1275,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221563,
+      "num": 221563,
+      "word": "刘亦菲彭冠英背后抱吻戏",
+      "onboard_time": 1716467478,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221096,
       "num": 221096,
       "word": "为什么有这么多人买一次性内裤",
@@ -1283,12 +1331,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221007,
+      "num": 259650,
+      "word": "卫龙一天道歉两次",
+      "onboard_time": 1716468019,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 219642,
       "num": 219642,
       "word": "aespa回归初一位",
       "onboard_time": 1716463938,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215117,
+      "num": 199998,
+      "word": "庆余年",
+      "onboard_time": 1716469041,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 213227,
@@ -1403,12 +1467,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 200995,
-      "num": 191893,
-      "word": "刘诗诗支持狐妖",
-      "onboard_time": 1716468259,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 201325,
+      "num": 165300,
+      "word": "aespa将在上海签售",
+      "onboard_time": 1716468559,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 200477,
+      "num": 200477,
+      "word": "法网2024",
+      "onboard_time": 1716469340,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 198863,
@@ -1425,14 +1497,6 @@
       "onboard_time": 1716458120,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198287,
-      "num": 198287,
-      "word": "台岛周边演习现场画面",
-      "onboard_time": 1716468439,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 195546,
@@ -1555,20 +1619,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188914,
-      "num": 156539,
-      "word": "刘亦菲彭冠英背后抱吻戏",
-      "onboard_time": 1716467478,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188408,
       "num": 188408,
       "word": "HPV疫苗价格大跳水",
       "onboard_time": 1716362779,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 188133,
+      "num": 162703,
+      "word": "张若昀是不是每天晚上在家背梗",
+      "onboard_time": 1716467718,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 186451,
@@ -1795,14 +1859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 166969,
-      "num": 139387,
-      "word": "张若昀是不是每天晚上在家背梗",
-      "onboard_time": 1716467718,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166349,
       "num": 166349,
       "word": "尤长靖到长沙了",
@@ -1840,6 +1896,14 @@
       "word": "同年同月同日生的鉴察院双子星",
       "onboard_time": 1716394517,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162635,
+      "num": 162635,
+      "word": "抿嘴",
+      "onboard_time": 1716470300,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1889,6 +1953,14 @@
       "onboard_time": 1716461179,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159122,
+      "num": 159122,
+      "word": "丞磊 一次勇敢换来社死一回",
+      "onboard_time": 1716469760,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 158152,
@@ -2763,6 +2835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51638,
+      "num": 257532,
+      "word": "绿联发布会",
+      "onboard_time": 1716469519,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 51119,
       "num": 167355,
       "word": "鸣潮有自己的物理学",
@@ -2777,6 +2857,14 @@
       "onboard_time": 1716411790,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48527,
+      "num": 304860,
+      "word": "初夏老钱风诚不欺我",
+      "onboard_time": 1716465921,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 47872,
@@ -2809,14 +2897,6 @@
       "onboard_time": 1716399493,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 38354,
-      "num": 293539,
-      "word": "初夏老钱风诚不欺我",
-      "onboard_time": 1716465921,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 38321,
