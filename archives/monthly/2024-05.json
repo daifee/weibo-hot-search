@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716449660326,
+  "endTime": 1716452581945,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2147,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1480715,
+      "num": 1480715,
+      "word": "北大女生靠知网文献把800米练进三分半内",
+      "onboard_time": 1716447258,
+      "rank": 9,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1479307,
       "num": 1479307,
       "word": "第五人格发布会",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1715068938,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1444467,
+      "num": 980758,
+      "word": "孙俪长文",
+      "onboard_time": 1716447618,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1443731,
@@ -5651,14 +5667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 905890,
-      "num": 905890,
-      "word": "孙俪长文",
-      "onboard_time": 1716447618,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 905446,
       "num": 905446,
       "word": "亚当兰伯特 踢馆",
@@ -5993,6 +6001,14 @@
       "onboard_time": 1715595919,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 873048,
+      "num": 873048,
+      "word": "张韶涵",
+      "onboard_time": 1714626678,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 872908,
@@ -7772,7 +7788,7 @@
     },
     {
       "raw_hot": 746774,
-      "num": 510633,
+      "num": 740919,
       "word": "罗翔谈留学生刷了100万信用卡回国",
       "onboard_time": 1716447738,
       "rank": 12,
@@ -15131,6 +15147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 459433,
+      "num": 459433,
+      "word": "出国后才发现中国的文化输出有多强",
+      "onboard_time": 1716450138,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 459350,
       "num": 414705,
       "word": "成都顶楼水泥封人视频系拼接",
@@ -18323,6 +18347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 389752,
+      "num": 389752,
+      "word": "狂犬病每年杀死多少人",
+      "onboard_time": 1716448580,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 389307,
       "num": 267592,
       "word": "刘亦菲37岁状态",
@@ -19305,14 +19337,6 @@
       "onboard_time": 1715519181,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368577,
-      "num": 522278,
-      "word": "北大女生靠知网文献把800米练进三分半内",
-      "onboard_time": 1716447258,
-      "rank": 9,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 368477,
@@ -21923,6 +21947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 322665,
+      "num": 322665,
+      "word": "怪不得圣女找辛芷蕾来演",
+      "onboard_time": 1716451158,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322440,
       "num": 322440,
       "word": "INB100",
@@ -22841,6 +22873,14 @@
       "onboard_time": 1714998258,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 307413,
+      "num": 307413,
+      "word": "台独金孙只会祸害台湾子孙",
+      "onboard_time": 1716451699,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 307357,
@@ -25761,14 +25801,6 @@
       "onboard_time": 1715349201,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 267893,
-      "num": 267893,
-      "word": "张韶涵",
-      "onboard_time": 1714626678,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 267810,
@@ -29011,6 +29043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234024,
+      "num": 234024,
+      "word": "盖肚脐眼是中国人最后的倔强",
+      "onboard_time": 1716447557,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234021,
       "num": 234021,
       "word": "檀健次直播状态",
@@ -29731,6 +29771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 227448,
+      "num": 227448,
+      "word": "玫瑰的故事",
+      "onboard_time": 1716452120,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227413,
       "num": 224972,
       "word": "戛纳",
@@ -30241,14 +30289,6 @@
       "onboard_time": 1715246299,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222717,
-      "num": 222717,
-      "word": "盖肚脐眼是中国人最后的倔强",
-      "onboard_time": 1716447557,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 222703,
@@ -33713,14 +33753,6 @@
       "onboard_time": 1716110299,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202896,
-      "num": 202896,
-      "word": "狂犬病每年杀死多少人",
-      "onboard_time": 1716448580,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 202863,
@@ -42979,6 +43011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165426,
+      "num": 138620,
+      "word": "龚俊紧急撤回一个不礼貌",
+      "onboard_time": 1716451219,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165423,
       "num": 165423,
       "word": "男朋友在KTV练起了教资面试",
@@ -43529,6 +43569,14 @@
       "onboard_time": 1714917319,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 163374,
+      "num": 163374,
+      "word": "姚明说村BA已经举办近30年",
+      "onboard_time": 1716450498,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 163336,
@@ -44251,6 +44299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160302,
+      "num": 481126,
+      "word": "网红为致富而炫富违法吗",
+      "onboard_time": 1716451219,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 160187,
       "num": 160187,
       "word": "职场软刀子真捅心窝子",
@@ -44683,6 +44739,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157976,
+      "num": 157875,
+      "word": "卫龙15克装魔芋爽实际只有8.9克",
+      "onboard_time": 1716452358,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 157972,
+      "num": 490048,
+      "word": "AI工具进军杀猪盘",
+      "onboard_time": 1716449419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157940,
       "num": 157940,
       "word": "李荷妮百想视后",
@@ -44736,6 +44808,14 @@
       "word": "邓超洗上澡了",
       "onboard_time": 1716098116,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157715,
+      "num": 157715,
+      "word": "张颂文回应肚腩消失",
+      "onboard_time": 1716452358,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -53483,6 +53563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121482,
+      "num": 121482,
+      "word": "庆余年张若昀专场云访谈",
+      "onboard_time": 1716449840,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121465,
       "num": 687571,
       "word": "谈恋爱就耽误我成为独立女性了吗",
@@ -55283,6 +55371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113235,
+      "num": 113235,
+      "word": "LWX说白色月牙废话多",
+      "onboard_time": 1716451999,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113217,
       "num": 113217,
       "word": "摩羯座的成长史",
@@ -56961,6 +57057,14 @@
       "onboard_time": 1714548738,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102198,
+      "num": 102198,
+      "word": "王鹤棣被GAI布瑞吉强行闭麦",
+      "onboard_time": 1716449719,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 102186,
@@ -62633,14 +62737,6 @@
       "onboard_time": 1716405850,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24190,
-      "num": 490048,
-      "word": "AI工具进军杀猪盘",
-      "onboard_time": 1716449419,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24174,
