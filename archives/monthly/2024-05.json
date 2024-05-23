@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716456052817,
+  "endTime": 1716456869557,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2322393,
+      "num": 2058580,
+      "word": "台湾艺人",
+      "onboard_time": 1716453979,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2303240,
       "num": 687244,
       "word": "人民文娱评华晨宇日出演唱会",
@@ -929,14 +937,6 @@
       "onboard_time": 1715215760,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2058580,
-      "num": 2058580,
-      "word": "台湾艺人",
-      "onboard_time": 1716453979,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2051376,
@@ -3737,6 +3737,14 @@
       "onboard_time": 1715063959,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1150866,
+      "num": 1150866,
+      "word": "四川地震",
+      "onboard_time": 1716455059,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1150691,
@@ -10683,14 +10691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 610363,
-      "num": 466219,
-      "word": "四川地震",
-      "onboard_time": 1716455059,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 610287,
       "num": 280430,
       "word": "原来这才是微信注销后的样子",
@@ -11883,6 +11883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 557994,
+      "num": 557994,
+      "word": "张凌赫把迪丽热巴圈怀里",
+      "onboard_time": 1716453739,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557501,
       "num": 557501,
       "word": "新冠变异株KP.2多国蔓延",
@@ -12873,14 +12881,6 @@
       "onboard_time": 1716386600,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 523875,
-      "num": 466196,
-      "word": "张凌赫把迪丽热巴圈怀里",
-      "onboard_time": 1716453739,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 523791,
@@ -14779,6 +14779,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 468394,
+      "num": 468394,
+      "word": "卫龙15克装魔芋爽实际只有8.9克",
+      "onboard_time": 1716452358,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 468291,
       "num": 468291,
       "word": "杨怡",
@@ -15507,14 +15515,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 451382,
-      "num": 451382,
-      "word": "卫龙15克装魔芋爽实际只有8.9克",
-      "onboard_time": 1716452358,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 450647,
       "num": 343666,
       "word": "郑秀妍晒与郑秀晶的合照",
@@ -16169,6 +16169,14 @@
       "onboard_time": 1715842817,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434496,
+      "num": 434496,
+      "word": "刘亦菲随手一截都是头像",
+      "onboard_time": 1716455240,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 434463,
@@ -20915,6 +20923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 339606,
+      "num": 339606,
+      "word": "罗森退市",
+      "onboard_time": 1716456321,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 339604,
       "num": 339604,
       "word": "十个勤天音乐节",
@@ -23017,6 +23033,14 @@
       "onboard_time": 1715175561,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 305377,
+      "num": 305377,
+      "word": "范若若一手手术刀一手巴特雷",
+      "onboard_time": 1716453619,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 305331,
@@ -25147,14 +25171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276757,
-      "num": 276757,
-      "word": "范若若一手手术刀一手巴特雷",
-      "onboard_time": 1716453619,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276676,
       "num": 210200,
       "word": "卖不动的钻戒开始背叛爱情了",
@@ -26347,14 +26363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262262,
-      "num": 262262,
-      "word": "刘亦菲随手一截都是头像",
-      "onboard_time": 1716455240,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262235,
       "num": 254382,
       "word": "为什么我们无法停止视奸",
@@ -27401,6 +27409,14 @@
       "onboard_time": 1715952264,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250006,
+      "num": 216649,
+      "word": "刘亦菲都演妈妈了",
+      "onboard_time": 1716456740,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 249894,
@@ -34771,6 +34787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200122,
+      "num": 200122,
+      "word": "曝李胜利将在香港开夜店",
+      "onboard_time": 1716456560,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200110,
       "num": 217922,
       "word": "男朋友开车来接我说要我平摊油费",
@@ -41307,6 +41331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173508,
+      "num": 173508,
+      "word": "长期烧水和买桶装水喝哪个更健康",
+      "onboard_time": 1716456498,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 173499,
       "num": 173499,
       "word": "藏海传筹谋在心版海报",
@@ -42395,6 +42427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168696,
+      "num": 168696,
+      "word": "黄晓明包场狐妖月红篇",
+      "onboard_time": 1716454398,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168677,
       "num": 168677,
       "word": "歌手玩梗",
@@ -42833,14 +42873,6 @@
       "onboard_time": 1715770876,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 166982,
-      "num": 166982,
-      "word": "黄晓明包场狐妖月红篇",
-      "onboard_time": 1716454398,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 166971,
@@ -44025,6 +44057,14 @@
       "onboard_time": 1715818099,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161988,
+      "num": 161988,
+      "word": "霸王茶姬申请茶王吧唧商标",
+      "onboard_time": 1716456378,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 161986,
@@ -46129,6 +46169,14 @@
       "onboard_time": 1716276500,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153024,
+      "num": 153024,
+      "word": "卫龙回应魔芋爽克重不足",
+      "onboard_time": 1716456619,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 152974,
@@ -52699,6 +52747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126044,
+      "num": 126044,
+      "word": "显微镜下的生腌螃蟹",
+      "onboard_time": 1716456740,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 126012,
       "num": 126012,
       "word": "步行者vs凯尔特人",
@@ -55867,6 +55923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111103,
+      "num": 111103,
+      "word": "刘强东微信群跨国操盘京东",
+      "onboard_time": 1716456799,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111080,
       "num": 422481,
       "word": "生活贫困但知识和道德不能贫困",
@@ -56393,6 +56457,14 @@
       "onboard_time": 1715165300,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108337,
+      "num": 466231,
+      "word": "已有超50城支持以旧换新",
+      "onboard_time": 1716455180,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108228,
@@ -57105,6 +57177,14 @@
       "onboard_time": 1716006798,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 102834,
+      "num": 116854,
+      "word": "直屏党天菜OPPOReno12",
+      "onboard_time": 1716456799,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 102796,
@@ -61067,14 +61147,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 54627,
-      "num": 466231,
-      "word": "已有超50城支持以旧换新",
-      "onboard_time": 1716455180,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54615,
       "num": 54088,
       "word": "东北姥姥第一次见广东外孙",
@@ -62051,6 +62123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39236,
+      "num": 957855,
+      "word": "第20届文博会",
+      "onboard_time": 1716442278,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39026,
       "num": 47325,
       "word": "杭州机场打车已经是nextlevel了",
@@ -62417,14 +62497,6 @@
       "onboard_time": 1715606599,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 32693,
-      "num": 679989,
-      "word": "第20届文博会",
-      "onboard_time": 1716442278,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32664,

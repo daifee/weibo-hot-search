@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716456052817,
+  "endTime": 1716456869557,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2322393,
+      "num": 2058580,
+      "word": "台湾艺人",
+      "onboard_time": 1716453979,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2287053,
       "num": 2287053,
       "word": "那英 摔倒",
@@ -193,14 +201,6 @@
       "onboard_time": 1716363500,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2058580,
-      "num": 2058580,
-      "word": "台湾艺人",
-      "onboard_time": 1716453979,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2051376,
@@ -760,6 +760,14 @@
       "word": "第一批快递小哥退休了",
       "onboard_time": 1716085998,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1150866,
+      "num": 1150866,
+      "word": "四川地震",
+      "onboard_time": 1716455059,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2043,14 +2051,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 610363,
-      "num": 466219,
-      "word": "四川地震",
-      "onboard_time": 1716455059,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 610287,
       "num": 280430,
       "word": "原来这才是微信注销后的样子",
@@ -2371,6 +2371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 557994,
+      "num": 557994,
+      "word": "张凌赫把迪丽热巴圈怀里",
+      "onboard_time": 1716453739,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547541,
       "num": 547541,
       "word": "ZICO",
@@ -2481,14 +2489,6 @@
       "onboard_time": 1716386600,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 523875,
-      "num": 466196,
-      "word": "张凌赫把迪丽热巴圈怀里",
-      "onboard_time": 1716453739,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 523333,
@@ -2899,6 +2899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468394,
+      "num": 468394,
+      "word": "卫龙15克装魔芋爽实际只有8.9克",
+      "onboard_time": 1716452358,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 466618,
       "num": 439805,
       "word": "范闲的失败是角色的成功",
@@ -3043,14 +3051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451382,
-      "num": 451382,
-      "word": "卫龙15克装魔芋爽实际只有8.9克",
-      "onboard_time": 1716452358,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 448983,
       "num": 448983,
       "word": "警方回应上官正义曝小红书有人领养孩子",
@@ -3161,6 +3161,14 @@
       "onboard_time": 1716161597,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 434496,
+      "num": 434496,
+      "word": "刘亦菲随手一截都是头像",
+      "onboard_time": 1716455240,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 433532,
@@ -4115,6 +4123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 339606,
+      "num": 339606,
+      "word": "罗森退市",
+      "onboard_time": 1716456321,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 338984,
       "num": 329917,
       "word": "白鹿曾经试戏过如懿传",
@@ -4643,6 +4659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305377,
+      "num": 305377,
+      "word": "范若若一手手术刀一手巴特雷",
+      "onboard_time": 1716453619,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304163,
       "num": 304163,
       "word": "TFBOYS写给四叶草的一封家书",
@@ -5075,14 +5099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276757,
-      "num": 276757,
-      "word": "范若若一手手术刀一手巴特雷",
-      "onboard_time": 1716453619,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276043,
       "num": 246604,
       "word": "张颂文说杨紫抽到紫竹太巧了",
@@ -5275,14 +5291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 262262,
-      "num": 262262,
-      "word": "刘亦菲随手一截都是头像",
-      "onboard_time": 1716455240,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262045,
       "num": 262045,
       "word": "光与夜之恋",
@@ -5473,6 +5481,14 @@
       "onboard_time": 1716208938,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 250006,
+      "num": 216649,
+      "word": "刘亦菲都演妈妈了",
+      "onboard_time": 1716456740,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 249894,
@@ -6867,6 +6883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200122,
+      "num": 200122,
+      "word": "曝李胜利将在香港开夜店",
+      "onboard_time": 1716456560,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199856,
       "num": 199856,
       "word": "白鹿说少骂点姚译添吧",
@@ -8115,6 +8139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173508,
+      "num": 173508,
+      "word": "长期烧水和买桶装水喝哪个更健康",
+      "onboard_time": 1716456498,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 173421,
       "num": 173421,
       "word": "赵一博何浩楠",
@@ -8275,6 +8307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 168696,
+      "num": 168696,
+      "word": "黄晓明包场狐妖月红篇",
+      "onboard_time": 1716454398,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168618,
       "num": 168618,
       "word": "阿勒泰出圈带火硬核防晒",
@@ -8384,14 +8424,6 @@
       "word": "范闲高马尾大波浪",
       "onboard_time": 1716301101,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 166982,
-      "num": 166982,
-      "word": "黄晓明包场狐妖月红篇",
-      "onboard_time": 1716454398,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -8617,6 +8649,14 @@
       "onboard_time": 1716265759,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161988,
+      "num": 161988,
+      "word": "霸王茶姬申请茶王吧唧商标",
+      "onboard_time": 1716456378,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 161947,
@@ -9113,6 +9153,14 @@
       "onboard_time": 1716276500,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153024,
+      "num": 153024,
+      "word": "卫龙回应魔芋爽克重不足",
+      "onboard_time": 1716456619,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 152705,
@@ -10635,6 +10683,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 126044,
+      "num": 126044,
+      "word": "显微镜下的生腌螃蟹",
+      "onboard_time": 1716456740,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 126012,
       "num": 126012,
       "word": "步行者vs凯尔特人",
@@ -11483,6 +11539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111103,
+      "num": 111103,
+      "word": "刘强东微信群跨国操盘京东",
+      "onboard_time": 1716456799,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110863,
       "num": 110863,
       "word": "赵磊520给夏之光刷礼物",
@@ -11609,6 +11673,14 @@
       "onboard_time": 1716262279,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 108337,
+      "num": 466231,
+      "word": "已有超50城支持以旧换新",
+      "onboard_time": 1716455180,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108083,
@@ -11769,6 +11841,14 @@
       "onboard_time": 1716424520,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102834,
+      "num": 116854,
+      "word": "直屏党天菜OPPOReno12",
+      "onboard_time": 1716456799,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 102796,
@@ -12843,14 +12923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 54627,
-      "num": 466231,
-      "word": "已有超50城支持以旧换新",
-      "onboard_time": 1716455180,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53772,
       "num": 53772,
       "word": "张若昀腰围62",
@@ -13091,6 +13163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39236,
+      "num": 957855,
+      "word": "第20届文博会",
+      "onboard_time": 1716442278,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39026,
       "num": 47325,
       "word": "杭州机场打车已经是nextlevel了",
@@ -13241,14 +13321,6 @@
       "onboard_time": 1716140233,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 32693,
-      "num": 679989,
-      "word": "第20届文博会",
-      "onboard_time": 1716442278,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32664,
