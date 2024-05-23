@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716470465271,
+  "endTime": 1716471268903,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1930518,
-      "num": 1930518,
+      "raw_hot": 1985702,
+      "num": 1985702,
       "word": "狐妖剧情 无聊",
       "onboard_time": 1716467959,
       "rank": 6,
@@ -49,6 +49,14 @@
       "onboard_time": 1716428657,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1712504,
+      "num": 607516,
+      "word": "苍兰诀",
+      "onboard_time": 1716468859,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1620161,
@@ -123,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1403384,
-      "num": 556011,
-      "word": "苍兰诀",
-      "onboard_time": 1716468859,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1329021,
       "num": 985132,
       "word": "狐妖 好大的滤镜",
@@ -153,6 +153,14 @@
       "onboard_time": 1716435259,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1240833,
+      "num": 503143,
+      "word": "多位台湾艺人表态支持祖国统一",
+      "onboard_time": 1716457520,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1239319,
@@ -207,14 +215,6 @@
       "num": 469832,
       "word": "侯佩岑",
       "onboard_time": 1716466459,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1025758,
-      "num": 503143,
-      "word": "多位台湾艺人表态支持祖国统一",
-      "onboard_time": 1716457520,
       "rank": 12,
       "category": "艺人"
     },
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 767169,
+      "num": 478177,
+      "word": "狐妖小红娘 儿童剧",
+      "onboard_time": 1716469279,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 753766,
       "num": 717132,
       "word": "霸王茶姬万里木兰不建议晚上喝",
@@ -403,7 +411,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 678343,
+      "raw_hot": 678418,
       "num": 478366,
       "word": "张馨予玄学",
       "onboard_time": 1716467959,
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 539389,
-      "num": 459491,
+      "num": 462197,
       "word": "王一栩",
       "onboard_time": 1716467240,
       "rank": 25,
@@ -659,20 +667,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 490017,
+      "num": 490017,
+      "word": "台岛周边演习现场画面",
+      "onboard_time": 1716468439,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 488276,
       "num": 488276,
       "word": "台独金孙只会祸害台湾子孙",
       "onboard_time": 1716451699,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 480255,
-      "num": 441171,
-      "word": "狐妖小红娘 儿童剧",
-      "onboard_time": 1716469279,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 480169,
@@ -745,14 +753,6 @@
       "onboard_time": 1716422778,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440249,
-      "num": 440249,
-      "word": "台岛周边演习现场画面",
-      "onboard_time": 1716468439,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 434496,
@@ -1131,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274724,
+      "num": 259650,
+      "word": "卫龙一天道歉两次",
+      "onboard_time": 1716468019,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 272539,
       "num": 272539,
       "word": "胡连馨涂山容容好美",
@@ -1187,6 +1195,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 253494,
+      "num": 245646,
+      "word": "抿嘴",
+      "onboard_time": 1716470300,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 253128,
+      "num": 221563,
+      "word": "刘亦菲彭冠英背后抱吻戏",
+      "onboard_time": 1716467478,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250932,
       "num": 223871,
       "word": "刘亦菲罗马大屏",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1716451219,
       "rank": 9,
       "category": "社会新闻,社会议题"
+    },
+    {
+      "raw_hot": 236799,
+      "num": 236799,
+      "word": "身体3个部位越干净越长寿",
+      "onboard_time": 1716470540,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 236332,
@@ -1315,28 +1347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221563,
-      "num": 221563,
-      "word": "刘亦菲彭冠英背后抱吻戏",
-      "onboard_time": 1716467478,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221096,
       "num": 221096,
       "word": "为什么有这么多人买一次性内裤",
       "onboard_time": 1716452660,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221007,
-      "num": 259650,
-      "word": "卫龙一天道歉两次",
-      "onboard_time": 1716468019,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 219642,
@@ -1475,6 +1491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201112,
+      "num": 162703,
+      "word": "张若昀是不是每天晚上在家背梗",
+      "onboard_time": 1716467718,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200477,
       "num": 200477,
       "word": "法网2024",
@@ -1579,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191188,
+      "num": 116109,
+      "word": "易烊千玺不辞星海舞台",
+      "onboard_time": 1716470961,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190973,
       "num": 190973,
       "word": "联合利剑",
@@ -1625,14 +1657,6 @@
       "onboard_time": 1716362779,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 188133,
-      "num": 162703,
-      "word": "张若昀是不是每天晚上在家背梗",
-      "onboard_time": 1716467718,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 186451,
@@ -1787,6 +1811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172412,
+      "num": 114143,
+      "word": "狐妖节奏",
+      "onboard_time": 1716470781,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171813,
       "num": 171813,
       "word": "王源cha汪苏泷十万伏特",
@@ -1896,14 +1928,6 @@
       "word": "同年同月同日生的鉴察院双子星",
       "onboard_time": 1716394517,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162635,
-      "num": 162635,
-      "word": "抿嘴",
-      "onboard_time": 1716470300,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2097,6 +2121,14 @@
       "onboard_time": 1716426619,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147978,
+      "num": 111073,
+      "word": "玉娇龙回戛纳了",
+      "onboard_time": 1716470961,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 147624,
@@ -2827,20 +2859,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53232,
+      "num": 260809,
+      "word": "绿联发布会",
+      "onboard_time": 1716469519,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 52349,
       "num": 52349,
       "word": "人老了苦日子才刚刚开始",
       "onboard_time": 1716405971,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 51638,
-      "num": 257532,
-      "word": "绿联发布会",
-      "onboard_time": 1716469519,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 51119,
@@ -3026,6 +3058,9 @@
     },
     {
       "word": "#习近平在山东日照考察调研#"
+    },
+    {
+      "word": "#习近平主持召开企业和专家座谈会#"
     }
   ]
 }
