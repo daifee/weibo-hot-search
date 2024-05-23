@@ -1,0 +1,410 @@
+{
+  "runTime": 1716438915799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1733571,
+        "num": 1733571,
+        "word": "这是对台独分裂行径的有力惩戒",
+        "onboard_time": 1716428657,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1591447,
+        "num": 1591447,
+        "word": "杨幂说那天哄了龚俊很久",
+        "onboard_time": 1716434478,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25874,
+        "num": 1362225,
+        "word": "中国文化遗产有多绝",
+        "onboard_time": 1716382219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3023340,
+        "num": 1345428,
+        "word": "五条悟尸体被操控",
+        "onboard_time": 1716436700,
+        "rank": 3,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1247772,
+        "num": 1247772,
+        "word": "此次台岛周边联合演习有何特点",
+        "onboard_time": 1716435259,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 967352,
+        "num": 967352,
+        "word": "宁静去花少了",
+        "onboard_time": 1716436519,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 881774,
+        "num": 881774,
+        "word": "东部战区位台岛周边开展演习",
+        "onboard_time": 1716422117,
+        "rank": 6,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 866284,
+        "num": 866284,
+        "word": "周扬青底妆刷了4层粉底",
+        "onboard_time": 1716436819,
+        "rank": 7,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 780051,
+        "num": 780051,
+        "word": "马斯克被曝与谷歌创始人前妻一起吸毒",
+        "onboard_time": 1716435138,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 65575,
+        "num": 775193,
+        "word": "你看病时会社恐发作吗",
+        "onboard_time": 1716437420,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57021,
+        "num": 768432,
+        "word": "鸣潮全球公测开启",
+        "onboard_time": 1716436040,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1823252,
+        "num": 755379,
+        "word": "12岁男孩目睹刑案后失联已身亡",
+        "onboard_time": 1716435078,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043170,
+        "num": 746669,
+        "word": "第二个N号房事件爆发",
+        "onboard_time": 1716427098,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737375,
+        "num": 737375,
+        "word": "31岁放弃编制工作后我怎样了",
+        "onboard_time": 1716429018,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 655314,
+        "num": 655314,
+        "word": "哈尔滨一小区发生爆炸阳台被炸飞",
+        "onboard_time": 1716434239,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613499,
+        "num": 613499,
+        "word": "龚俊 版权救了我们",
+        "onboard_time": 1716428538,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473974,
+        "num": 473974,
+        "word": "东部战区发布组合海报越海杀器",
+        "onboard_time": 1716431057,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 604058,
+        "num": 430165,
+        "word": "你没事吧 我真服了",
+        "onboard_time": 1716435439,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383377,
+        "num": 383377,
+        "word": "张若昀每天中午会做饭叫大家一起吃",
+        "onboard_time": 1716438200,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373761,
+        "num": 373761,
+        "word": "解放军台岛周边演习区域示意图",
+        "onboard_time": 1716426498,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353881,
+        "num": 353881,
+        "word": "咒术回战",
+        "onboard_time": 1716434239,
+        "rank": 20,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 353469,
+        "num": 353469,
+        "word": "中国海警发声",
+        "onboard_time": 1716431897,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 351997,
+        "num": 351997,
+        "word": "左航 老奶奶",
+        "onboard_time": 1716420016,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350025,
+        "num": 350025,
+        "word": "非全日制研究生不该被差别对待",
+        "onboard_time": 1716437899,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 346193,
+        "num": 346193,
+        "word": "宁静逃不掉的断层C位",
+        "onboard_time": 1716437539,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601101,
+        "num": 346192,
+        "word": "霸王茶姬万里木兰不建议晚上喝",
+        "onboard_time": 1716432858,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 332162,
+        "num": 332162,
+        "word": "假富豪奢侈品摆拍仅售价几十元",
+        "onboard_time": 1716432559,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309517,
+        "num": 309517,
+        "word": "网红炫富或将加重社会焦虑",
+        "onboard_time": 1716435619,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 294485,
+        "num": 294485,
+        "word": "胡歌2024最新综艺来了",
+        "onboard_time": 1716436399,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294087,
+        "num": 294087,
+        "word": "迪丽热巴翻领牛仔",
+        "onboard_time": 1716438440,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1150728,
+        "num": 294010,
+        "word": "南村群童欺我老无力",
+        "onboard_time": 1716428718,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278114,
+        "num": 278114,
+        "word": "福建海警舰艇编队开展综合执法演练",
+        "onboard_time": 1716427579,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270718,
+        "num": 270718,
+        "word": "传奇哥 歌手",
+        "onboard_time": 1716436160,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244244,
+        "num": 244244,
+        "word": "鸣潮",
+        "onboard_time": 1716424219,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243717,
+        "num": 243717,
+        "word": "阮经天妈妈去世",
+        "onboard_time": 1716419955,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241669,
+        "num": 241669,
+        "word": "易烊千玺于适同框照",
+        "onboard_time": 1716435200,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230884,
+        "num": 230884,
+        "word": "官方拍的刘亦菲",
+        "onboard_time": 1716437780,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227199,
+        "num": 227199,
+        "word": "乘风2024回应投票数据注水",
+        "onboard_time": 1716438500,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214968,
+        "num": 214968,
+        "word": "鸣潮开服",
+        "onboard_time": 1716427639,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205278,
+        "num": 205278,
+        "word": "花儿与少年直播",
+        "onboard_time": 1716432377,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203742,
+        "num": 203742,
+        "word": "海棠朵朵烦死了",
+        "onboard_time": 1716438740,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204855,
+        "num": 203473,
+        "word": "刘亦菲在西班牙压马路",
+        "onboard_time": 1716424280,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202821,
+        "num": 202821,
+        "word": "ZICO公司管理层大换血",
+        "onboard_time": 1716435858,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202588,
+        "num": 202588,
+        "word": "利剑出鞘剑指台独",
+        "onboard_time": 1716437841,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198863,
+        "num": 198863,
+        "word": "mlxg与小微笑红温互怼",
+        "onboard_time": 1716438500,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191362,
+        "num": 191362,
+        "word": "歌手",
+        "onboard_time": 1716437899,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203800,
+        "num": 190829,
+        "word": "刘亦菲的花期真的很长",
+        "onboard_time": 1716438141,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187525,
+        "num": 187525,
+        "word": "李凯尔爆了",
+        "onboard_time": 1716433940,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185820,
+        "num": 185820,
+        "word": "龚俊喝醉拉着杨幂哭",
+        "onboard_time": 1716438560,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174304,
+        "num": 174304,
+        "word": "学生家长出轨校长合谋杀夫一审宣判",
+        "onboard_time": 1716422539,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向越南新任国家主席苏林致贺电#"
+    }
+  }
+}
