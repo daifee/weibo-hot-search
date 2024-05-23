@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716506363290,
+  "endTime": 1716507277611,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -9899,6 +9899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 651843,
+      "num": 82888,
+      "word": "离职后退了一千多个工作群",
+      "onboard_time": 1716503834,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 651482,
       "num": 316038,
       "word": "胃癌来敲门身体会发出5大警报",
@@ -13275,14 +13283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517266,
-      "num": 73101,
-      "word": "离职后退了一千多个工作群",
-      "onboard_time": 1716503834,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 516918,
       "num": 516918,
       "word": "以前的跑男和现在的跑男",
@@ -15235,6 +15235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465382,
+      "num": 465382,
+      "word": "百万留学回国后月薪7000",
+      "onboard_time": 1716494471,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465152,
       "num": 465152,
       "word": "庆余年3在写了",
@@ -15857,6 +15865,14 @@
       "onboard_time": 1715402599,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 449755,
+      "num": 322698,
+      "word": "港府否认李胜利申请入境签证",
+      "onboard_time": 1716506356,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 449512,
@@ -17112,14 +17128,6 @@
       "word": "交警回应南通车祸现场红绿灯情况",
       "onboard_time": 1715339239,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421315,
-      "num": 421315,
-      "word": "百万留学回国后月薪7000",
-      "onboard_time": 1716494471,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -22939,6 +22947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313304,
+      "num": 82210,
+      "word": "在台湾岛三个方向演练的意义",
+      "onboard_time": 1716507016,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 313224,
       "num": 313224,
       "word": "有人打着罗翔的名义谈恋爱",
@@ -24937,6 +24953,14 @@
       "onboard_time": 1714616417,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282827,
+      "num": 282827,
+      "word": "伊朗直升机事故调查报告",
+      "onboard_time": 1716506655,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 282774,
@@ -30305,6 +30329,14 @@
       "onboard_time": 1714955720,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227647,
+      "num": 75493,
+      "word": "当方脸瘦了二十斤以后",
+      "onboard_time": 1716507197,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 227572,
@@ -41363,6 +41395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176011,
+      "num": 101504,
+      "word": "凯迪拉克只卖13万多了",
+      "onboard_time": 1716481397,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 175904,
       "num": 175904,
       "word": "有点难为杨幂了",
@@ -41697,6 +41737,14 @@
       "onboard_time": 1716208398,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174852,
+      "num": 174852,
+      "word": "不消费不让坐涉事星巴克门店店员回应",
+      "onboard_time": 1716478638,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174752,
@@ -42345,14 +42393,6 @@
       "onboard_time": 1714609036,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 172163,
-      "num": 156836,
-      "word": "不消费不让坐涉事星巴克门店店员回应",
-      "onboard_time": 1716478638,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172151,
@@ -43833,14 +43873,6 @@
       "onboard_time": 1715526742,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165692,
-      "num": 101504,
-      "word": "凯迪拉克只卖13万多了",
-      "onboard_time": 1716481397,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 165595,
@@ -58620,7 +58652,7 @@
     },
     {
       "raw_hot": 98718,
-      "num": 70835,
+      "num": 71881,
       "word": "涂山红红 遥遥领先",
       "onboard_time": 1716494412,
       "rank": 38,
@@ -58755,6 +58787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97786,
+      "num": 74715,
+      "word": "花楹最喜欢主人 雅雅最喜欢姐姐",
+      "onboard_time": 1716505755,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97756,
       "num": 97756,
       "word": "兵马俑开馆2小时游客超1万人",
@@ -58865,6 +58905,14 @@
       "onboard_time": 1715682197,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96610,
+      "num": 72587,
+      "word": "酱园弄剧组将亮相戛纳",
+      "onboard_time": 1716506836,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 96494,
@@ -61059,6 +61107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67598,
+      "num": 67598,
+      "word": "郭晓婷胡连馨回复龚俊",
+      "onboard_time": 1716486374,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67466,
       "num": 180658,
       "word": "鲜奶的免疫秘密是什么",
@@ -61385,14 +61441,6 @@
       "onboard_time": 1715576540,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 63451,
-      "num": 63451,
-      "word": "郭晓婷胡连馨回复龚俊",
-      "onboard_time": 1716486374,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 63282,
@@ -61835,14 +61883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57840,
-      "num": 57840,
-      "word": "花楹最喜欢主人 雅雅最喜欢姐姐",
-      "onboard_time": 1716505755,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 57402,
       "num": 385288,
       "word": "音乐节防晒神穿搭",
@@ -62009,6 +62049,14 @@
       "onboard_time": 1715014275,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55569,
+      "num": 55569,
+      "word": "当小女孩知道舅舅听不了呕吐声",
+      "onboard_time": 1716495731,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 55434,
@@ -62233,14 +62281,6 @@
       "onboard_time": 1714590370,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52709,
-      "num": 52709,
-      "word": "当小女孩知道舅舅听不了呕吐声",
-      "onboard_time": 1716495731,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 52670,
@@ -63291,6 +63331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37540,
+      "num": 662614,
+      "word": "文化企业30强",
+      "onboard_time": 1716469700,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37515,
       "num": 67126,
       "word": "薛兆丰称进入婚姻要看能否接受对方的最低状态",
@@ -63547,20 +63595,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 32861,
-      "num": 618642,
-      "word": "文化企业30强",
-      "onboard_time": 1716469700,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32765,
       "num": 320710,
       "word": "vivoX100系列演唱会神器",
       "onboard_time": 1715606599,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 32765,
+      "num": 274403,
+      "word": "宁波大学宠学生把动物园搬进校园",
+      "onboard_time": 1716505335,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32664,
@@ -64209,14 +64257,6 @@
       "onboard_time": 1715279231,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 22357,
-      "num": 180861,
-      "word": "宁波大学宠学生把动物园搬进校园",
-      "onboard_time": 1716505335,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22275,
