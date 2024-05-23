@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716442542874,
+  "endTime": 1716445595505,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -107,6 +107,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1133966,
+      "num": 1133966,
+      "word": "解放军数十架次战机环台岛战巡",
+      "onboard_time": 1716441979,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1121173,
       "num": 1121173,
       "word": "解放军台岛周边演习区域示意图",
@@ -203,6 +211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 748000,
+      "num": 748000,
+      "word": "官博真发了杨幂哄龚俊的花絮",
+      "onboard_time": 1716443119,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 685836,
       "num": 685836,
       "word": "哈尔滨一小区发生爆炸阳台被炸飞",
@@ -211,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605566,
-      "num": 605566,
-      "word": "解放军数十架次战机环台岛战巡",
-      "onboard_time": 1716441979,
-      "rank": 12,
-      "category": "国内时政"
+      "raw_hot": 620883,
+      "num": 297433,
+      "word": "金饰价格一夜下跌10元每克",
+      "onboard_time": 1716440242,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 604058,
@@ -249,6 +265,14 @@
       "onboard_time": 1716420917,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 552117,
+      "num": 552117,
+      "word": "那英别说了 汪苏泷快碎了",
+      "onboard_time": 1716444620,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 551055,
@@ -363,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458827,
+      "num": 356944,
+      "word": "那英曾向歌手导演推荐汪苏泷",
+      "onboard_time": 1716444079,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452422,
       "num": 452422,
       "word": "龚俊薅到杨幂",
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 390934,
-      "num": 286772,
+      "num": 360019,
       "word": "张若昀唐艺昕古装情头",
       "onboard_time": 1716440600,
       "rank": 19,
@@ -475,20 +507,20 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 341804,
+      "num": 341804,
+      "word": "东部战区问熊孩子经历什么才是完整的童年",
+      "onboard_time": 1716443959,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 338457,
       "num": 338457,
       "word": "胡歌2024最新综艺来了",
       "onboard_time": 1716436399,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 338002,
-      "num": 286731,
-      "word": "金饰价格一夜下跌10元每克",
-      "onboard_time": 1716440242,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 328292,
@@ -537,6 +569,14 @@
       "onboard_time": 1716428177,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312630,
+      "num": 312630,
+      "word": "王子异做副业了吗",
+      "onboard_time": 1716442939,
+      "rank": 19,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 312364,
@@ -643,6 +683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280759,
+      "num": 280759,
+      "word": "张杰抢票",
+      "onboard_time": 1716441679,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 270406,
       "num": 270406,
       "word": "秦岚机场",
@@ -665,14 +713,6 @@
       "onboard_time": 1716441020,
       "rank": 24,
       "category": "美食,游戏"
-    },
-    {
-      "raw_hot": 258185,
-      "num": 258185,
-      "word": "张杰抢票",
-      "onboard_time": 1716441679,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 254617,
@@ -705,6 +745,14 @@
       "onboard_time": 1716422359,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246604,
+      "num": 246604,
+      "word": "张颂文说杨紫抽到紫竹太巧了",
+      "onboard_time": 1716445459,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 236332,
@@ -744,6 +792,14 @@
       "word": "官方拍的刘亦菲",
       "onboard_time": 1716437780,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229562,
+      "num": 229562,
+      "word": "刘浩存鹅黄蕾丝吊带",
+      "onboard_time": 1716442098,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -843,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192967,
+      "num": 192967,
+      "word": "鸣潮好卡",
+      "onboard_time": 1716443178,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192256,
       "num": 192256,
       "word": "独行侠vs森林狼",
@@ -883,14 +947,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 186044,
-      "num": 186044,
-      "word": "刘浩存鹅黄蕾丝吊带",
-      "onboard_time": 1716442098,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185426,
       "num": 185426,
       "word": "内塔尼亚胡称美国一年2万人饿死",
@@ -907,6 +963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183861,
+      "num": 183861,
+      "word": "解放军台岛周边联合演训最新情况",
+      "onboard_time": 1716445219,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177212,
       "num": 177212,
       "word": "赵今麦开屏",
@@ -921,6 +985,14 @@
       "onboard_time": 1716431298,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176549,
+      "num": 176549,
+      "word": "陈哲远 这下你更对不起王勉了",
+      "onboard_time": 1716444919,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175904,
@@ -971,6 +1043,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169555,
+      "num": 169555,
+      "word": "Ning说JackeyLove头大",
+      "onboard_time": 1716444258,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 168854,
+      "num": 168854,
+      "word": "如何判断一个人是不是真的社恐",
+      "onboard_time": 1716444558,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167721,
       "num": 167721,
       "word": "吐槽王倦",
@@ -995,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165237,
+      "num": 761413,
+      "word": "我在美国卖三蹦子日进斗金",
+      "onboard_time": 1716440420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162773,
       "num": 122957,
       "word": "同年同月同日生的鉴察院双子星",
@@ -1017,14 +1113,6 @@
       "onboard_time": 1716427878,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 159285,
-      "num": 761413,
-      "word": "我在美国卖三蹦子日进斗金",
-      "onboard_time": 1716440420,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158152,
@@ -1147,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142013,
+      "num": 142013,
+      "word": "多地实施非全日制研究生人才补贴",
+      "onboard_time": 1716443718,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 141829,
       "num": 141829,
       "word": "狗狗挨削后有多老实",
@@ -1227,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125326,
+      "num": 125326,
+      "word": "沈月杨迪演小美好",
+      "onboard_time": 1716445278,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123793,
       "num": 123793,
       "word": "王者荣耀",
@@ -1281,6 +1385,14 @@
       "onboard_time": 1716384319,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111481,
+      "num": 111481,
+      "word": "宣扬操弄台独者必将代价惨重",
+      "onboard_time": 1716445518,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110695,
@@ -1563,6 +1675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 61843,
+      "num": 342412,
+      "word": "古希腊掌管毕业写真的神",
+      "onboard_time": 1716442878,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61599,
       "num": 61599,
       "word": "杨鸣 逆袭的人生才精彩",
@@ -1601,6 +1721,14 @@
       "onboard_time": 1716413712,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 52410,
+      "num": 1074446,
+      "word": "博物馆这些文案封神了",
+      "onboard_time": 1716424219,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52349,
@@ -1672,14 +1800,6 @@
       "word": "穿越机视角看万马奔腾好震撼",
       "onboard_time": 1716419475,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22667,
-      "num": 1074446,
-      "word": "博物馆这些文案封神了",
-      "onboard_time": 1716424219,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
