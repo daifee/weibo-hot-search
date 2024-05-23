@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716473867622,
+  "endTime": 1716474887282,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -27,19 +27,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2168655,
+      "num": 2168655,
+      "word": "苍兰诀",
+      "onboard_time": 1716468859,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2102905,
       "num": 1985702,
       "word": "狐妖剧情 无聊",
       "onboard_time": 1716467959,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1979404,
-      "num": 1979404,
-      "word": "苍兰诀",
-      "onboard_time": 1716468859,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1716444620,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1383569,
+      "num": 600454,
+      "word": "向佐让李胜利离中国香港远一点",
+      "onboard_time": 1716474021,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1329021,
@@ -291,7 +299,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 845911,
+      "raw_hot": 864149,
       "num": 210588,
       "word": "母亲带患甲流儿子到瑜伽馆放血灌肠",
       "onboard_time": 1716471980,
@@ -313,6 +321,14 @@
       "onboard_time": 1716459499,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 831666,
+      "num": 236799,
+      "word": "身体3个部位越干净越长寿",
+      "onboard_time": 1716470540,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 822504,
@@ -345,14 +361,6 @@
       "onboard_time": 1716456799,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 789361,
-      "num": 236799,
-      "word": "身体3个部位越干净越长寿",
-      "onboard_time": 1716470540,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 780051,
@@ -731,6 +739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 467049,
+      "num": 383308,
+      "word": "当年去韩国旅游的人嘴是真严",
+      "onboard_time": 1716471560,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 460489,
       "num": 460489,
       "word": "福大回应女生在校内电梯遭男生猥亵",
@@ -865,14 +881,6 @@
       "onboard_time": 1716448580,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 383308,
-      "num": 383308,
-      "word": "当年去韩国旅游的人嘴是真严",
-      "onboard_time": 1716471560,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 370450,
@@ -1011,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318731,
+      "num": 210124,
+      "word": "涂山雅雅人设",
+      "onboard_time": 1716471860,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315058,
       "num": 315058,
       "word": "王子异做副业了吗",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1716454338,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311669,
+      "num": 209712,
+      "word": "大批国货已迈入百万俱乐部",
+      "onboard_time": 1716473061,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 311258,
@@ -1187,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270696,
-      "num": 210124,
-      "word": "涂山雅雅人设",
-      "onboard_time": 1716471860,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270406,
       "num": 270406,
       "word": "秦岚机场",
@@ -1275,20 +1291,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246277,
+      "num": 209326,
+      "word": "庆余年同福客栈",
+      "onboard_time": 1716472100,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239541,
       "num": 481535,
       "word": "网红为致富而炫富违法吗",
       "onboard_time": 1716451219,
       "rank": 9,
       "category": "社会新闻,社会议题"
-    },
-    {
-      "raw_hot": 238730,
-      "num": 209326,
-      "word": "庆余年同福客栈",
-      "onboard_time": 1716472100,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 236332,
@@ -1435,6 +1451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211479,
+      "num": 205790,
+      "word": "澡堂子滤镜",
+      "onboard_time": 1716471620,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211227,
       "num": 211227,
       "word": "新人三天没带水杯来",
@@ -1515,14 +1539,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 205790,
-      "num": 205790,
-      "word": "澡堂子滤镜",
-      "onboard_time": 1716471620,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203538,
       "num": 203538,
       "word": "鹭卓 后陡门的夏又来了",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1716467718,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200826,
+      "num": 200826,
+      "word": "上海2023年总和生育率0.6",
+      "onboard_time": 1716471259,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200477,
@@ -1787,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177281,
+      "num": 175552,
+      "word": "玉娇龙回戛纳了",
+      "onboard_time": 1716470961,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177212,
       "num": 177212,
       "word": "赵今麦开屏",
@@ -1825,14 +1857,6 @@
       "onboard_time": 1716405613,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 175552,
-      "num": 175552,
-      "word": "玉娇龙回戛纳了",
-      "onboard_time": 1716470961,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 174081,
@@ -1987,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165640,
-      "num": 209712,
-      "word": "大批国货已迈入百万俱乐部",
-      "onboard_time": 1716473061,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165426,
       "num": 138620,
       "word": "龚俊紧急撤回一个不礼貌",
@@ -2075,14 +2091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158785,
-      "num": 199799,
-      "word": "上海2023年总和生育率0.6",
-      "onboard_time": 1716471259,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158152,
       "num": 158152,
       "word": "小狗的胸好蓬松",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1716452358,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156882,
+      "num": 156882,
+      "word": "杨幂郭晓婷时隔15年再合作",
+      "onboard_time": 1716474801,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 155786,
@@ -2267,6 +2283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142367,
+      "num": 169670,
+      "word": "文旅厅回应厅长林向东简历被撤下",
+      "onboard_time": 1716474742,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142013,
       "num": 142013,
       "word": "多地实施非全日制研究生人才补贴",
@@ -2331,12 +2355,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134585,
+      "num": 395146,
+      "word": "防晒衣并不是越贵越好",
+      "onboard_time": 1716472819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134563,
       "num": 134563,
       "word": "范闲看看东北雨姐吧",
       "onboard_time": 1716442458,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132401,
+      "num": 169485,
+      "word": "揭养老金所谓储备不足的真相",
+      "onboard_time": 1716474202,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132214,
@@ -2707,14 +2747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97979,
-      "num": 395146,
-      "word": "防晒衣并不是越贵越好",
-      "onboard_time": 1716472819,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96477,
       "num": 96477,
       "word": "Faker入选名人堂",
@@ -2729,6 +2761,14 @@
       "onboard_time": 1716420917,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93630,
+      "num": 141139,
+      "word": "妈妈说让我找对象不要看脸",
+      "onboard_time": 1716474860,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 93144,
