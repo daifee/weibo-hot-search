@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716463048889,
+  "endTime": 1716464137097,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 966358,
+      "num": 966358,
+      "word": "王红权星称会为自己的错误买单",
+      "onboard_time": 1716461599,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 950454,
       "num": 950454,
       "word": "周扬青底妆刷了4层粉底",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 924145,
-      "num": 414113,
+      "num": 437355,
       "word": "福州大学",
       "onboard_time": 1716456979,
       "rank": 11,
@@ -243,8 +251,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 835979,
-      "num": 403720,
+      "raw_hot": 841683,
+      "num": 473433,
       "word": "福州大学一男生猥亵女生",
       "onboard_time": 1716459499,
       "rank": 37,
@@ -268,15 +276,23 @@
     },
     {
       "raw_hot": 809296,
-      "num": 413197,
+      "num": 462980,
       "word": "多位台湾艺人表态支持祖国统一",
       "onboard_time": 1716457520,
       "rank": 12,
       "category": "艺人"
     },
     {
+      "raw_hot": 795771,
+      "num": 795771,
+      "word": "胡连馨漂亮",
+      "onboard_time": 1716461899,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 791109,
-      "num": 406389,
+      "num": 461087,
       "word": "刘强东微信群跨国操盘京东",
       "onboard_time": 1716456799,
       "rank": 49,
@@ -363,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 625480,
-      "num": 347976,
-      "word": "王红权星称会为自己的错误买单",
-      "onboard_time": 1716461599,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 620883,
       "num": 304198,
       "word": "金饰价格一夜下跌10元每克",
@@ -449,6 +457,14 @@
       "onboard_time": 1716453739,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 552370,
+      "num": 282485,
+      "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
+      "onboard_time": 1716461719,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 551055,
@@ -571,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 482978,
+      "num": 482978,
+      "word": "解放军喊话台舰不要为台独卖命",
+      "onboard_time": 1716463218,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 480169,
       "num": 480169,
       "word": "12岁失联男孩尸体被找到",
@@ -603,6 +627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 458966,
+      "num": 458966,
+      "word": "涂山我罩的 懂",
+      "onboard_time": 1716460400,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 452422,
       "num": 452422,
       "word": "龚俊薅到杨幂",
@@ -617,14 +649,6 @@
       "onboard_time": 1716422778,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437205,
-      "num": 437205,
-      "word": "涂山我罩的 懂",
-      "onboard_time": 1716460400,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 434496,
@@ -657,14 +681,6 @@
       "onboard_time": 1716382458,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408388,
-      "num": 216279,
-      "word": "胡连馨漂亮",
-      "onboard_time": 1716461899,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 401907,
@@ -891,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300638,
-      "num": 212023,
-      "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
-      "onboard_time": 1716461719,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300497,
       "num": 300497,
       "word": "安室透 安陵容",
@@ -961,6 +969,14 @@
       "onboard_time": 1716441799,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288596,
+      "num": 288596,
+      "word": "福大回应女生在校内电梯遭男生猥亵",
+      "onboard_time": 1716463519,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288351,
@@ -1060,7 +1076,7 @@
     },
     {
       "raw_hot": 239541,
-      "num": 481126,
+      "num": 481535,
       "word": "网红为致富而炫富违法吗",
       "onboard_time": 1716451219,
       "rank": 9,
@@ -1163,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219642,
+      "num": 219642,
+      "word": "aespa回归初一位",
+      "onboard_time": 1716463938,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213227,
       "num": 213227,
       "word": "黄晓明包场狐妖月红篇",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1716420977,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211227,
+      "num": 211227,
+      "word": "新人三天没带水杯来",
+      "onboard_time": 1716460458,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 211166,
@@ -1323,12 +1355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193790,
-      "num": 193790,
-      "word": "新人三天没带水杯来",
-      "onboard_time": 1716460458,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 194222,
+      "num": 194222,
+      "word": "读研真是三天小emo五天大emo",
+      "onboard_time": 1716462020,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 192967,
@@ -1523,14 +1555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 171490,
-      "num": 171490,
-      "word": "读研真是三天小emo五天大emo",
-      "onboard_time": 1716462020,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 171326,
       "num": 775193,
       "word": "你看病时会社恐发作吗",
@@ -1665,6 +1689,14 @@
       "onboard_time": 1716459618,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159533,
+      "num": 159533,
+      "word": "B站日活用户达1.02亿",
+      "onboard_time": 1716464000,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 159477,
@@ -1867,6 +1899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141619,
+      "num": 141619,
+      "word": "卫龙称内部已展开自查工作",
+      "onboard_time": 1716463699,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141471,
       "num": 141471,
       "word": "bing崩了",
@@ -1923,11 +1963,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130414,
+      "num": 130414,
+      "word": "国台办回应解放军位台岛周边演习",
+      "onboard_time": 1716463878,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130252,
       "num": 130252,
       "word": "这一刻范闲像有家长撑腰的孩子",
       "onboard_time": 1716392899,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129334,
+      "num": 122095,
+      "word": "刘亦菲一部剧有四条感情线",
+      "onboard_time": 1716463038,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2001,6 +2057,14 @@
       "onboard_time": 1716430098,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122378,
+      "num": 122378,
+      "word": "五旬老太 静可攻那可守",
+      "onboard_time": 1716464057,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 122362,
@@ -2521,6 +2585,14 @@
       "onboard_time": 1716461419,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 50908,
+      "num": 165882,
+      "word": "住了25年的房子被拍卖法官上门惊呆了",
+      "onboard_time": 1716463938,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50603,
