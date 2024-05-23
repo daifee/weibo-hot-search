@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716446331194,
+  "endTime": 1716448935086,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -505,6 +505,14 @@
       "onboard_time": 1716386479,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1406689,
+      "num": 1406689,
+      "word": "那英别说了 汪苏泷快碎了",
+      "onboard_time": 1716444620,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1405997,
@@ -1235,14 +1243,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 839246,
-      "num": 839246,
-      "word": "那英别说了 汪苏泷快碎了",
-      "onboard_time": 1716444620,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 834953,
       "num": 834953,
       "word": "三本女生上岸211和偶像成校友",
@@ -1385,6 +1385,14 @@
       "onboard_time": 1716435138,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 779883,
+      "num": 779883,
+      "word": "东部战区问熊孩子经历什么才是完整的童年",
+      "onboard_time": 1716443959,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 779738,
@@ -1947,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631636,
+      "num": 631636,
+      "word": "蕾哈娜在上海认出中国铁粉",
+      "onboard_time": 1716446059,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 630731,
       "num": 575493,
       "word": "胖猫事件不予立案",
@@ -1964,7 +1980,7 @@
     },
     {
       "raw_hot": 620883,
-      "num": 297433,
+      "num": 304198,
       "word": "金饰价格一夜下跌10元每克",
       "onboard_time": 1716440242,
       "rank": 20,
@@ -2211,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 568131,
+      "num": 522271,
+      "word": "朴宝蓝尸检报告结果",
+      "onboard_time": 1716446478,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568128,
       "num": 488329,
       "word": "左航 老奶奶",
@@ -2379,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 528464,
+      "num": 528464,
+      "word": "孙俪长文",
+      "onboard_time": 1716447618,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527170,
       "num": 527170,
       "word": "蒲熠星南大",
@@ -2475,20 +2507,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 510633,
+      "num": 510633,
+      "word": "罗翔谈留学生刷了100万信用卡回国",
+      "onboard_time": 1716447738,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509298,
       "num": 509298,
       "word": "西班牙和爱尔兰承认巴勒斯坦国",
       "onboard_time": 1716363318,
       "rank": 6,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 509214,
-      "num": 509214,
-      "word": "东部战区问熊孩子经历什么才是完整的童年",
-      "onboard_time": 1716443959,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 508736,
@@ -2793,6 +2825,14 @@
       "onboard_time": 1716207197,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 468909,
+      "num": 468909,
+      "word": "12岁失联男孩尸体被找到",
+      "onboard_time": 1716435078,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466618,
@@ -5139,6 +5179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260550,
+      "num": 522278,
+      "word": "北大女生靠知网文献把800米练进三分半内",
+      "onboard_time": 1716447258,
+      "rank": 9,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 260099,
       "num": 234143,
       "word": "普通人一定对钱要有概念",
@@ -6187,6 +6235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209517,
+      "num": 193100,
+      "word": "庆余年 权力的游戏之东三省",
+      "onboard_time": 1716447919,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209509,
       "num": 209509,
       "word": "俄罗斯将协助搜救伊朗事故直升机",
@@ -6593,14 +6649,6 @@
       "onboard_time": 1716347899,
       "rank": 42,
       "category": "网红"
-    },
-    {
-      "raw_hot": 201019,
-      "num": 180586,
-      "word": "蕾哈娜在上海认出中国铁粉",
-      "onboard_time": 1716446059,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 201009,
@@ -7169,6 +7217,14 @@
       "onboard_time": 1716095417,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191415,
+      "num": 191415,
+      "word": "Fisher回归LCK",
+      "onboard_time": 1716447318,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 191362,
@@ -7787,6 +7843,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 175982,
+      "num": 175982,
+      "word": "盖肚脐眼是中国人最后的倔强",
+      "onboard_time": 1716447557,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175904,
       "num": 175904,
       "word": "有点难为杨幂了",
@@ -8009,6 +8073,14 @@
       "onboard_time": 1716343099,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 169556,
+      "num": 169556,
+      "word": "GAI见到周杰伦由e变i",
+      "onboard_time": 1716446539,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 169555,
@@ -8337,6 +8409,14 @@
       "onboard_time": 1716265759,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161951,
+      "num": 161951,
+      "word": "狂犬病每年杀死多少人",
+      "onboard_time": 1716448580,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 161947,
@@ -8817,6 +8897,14 @@
       "onboard_time": 1716177982,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152621,
+      "num": 152621,
+      "word": "毛不易跳晚安大小姐",
+      "onboard_time": 1716448339,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 152504,
@@ -10051,6 +10139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129452,
+      "num": 129452,
+      "word": "官方回应刮刮乐大面积缺货",
+      "onboard_time": 1716448698,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129370,
       "num": 129370,
       "word": "徐明浩这是想起DK了吧",
@@ -10081,6 +10177,14 @@
       "onboard_time": 1716188240,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128989,
+      "num": 128989,
+      "word": "东部战区联合利剑2024A演习剑指台独",
+      "onboard_time": 1716447738,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128891,
@@ -11145,6 +11249,14 @@
       "onboard_time": 1716268460,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110212,
+      "num": 110212,
+      "word": "鹭卓李耕耘读禾伙人来信",
+      "onboard_time": 1716448639,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 110112,
@@ -12364,7 +12476,7 @@
     },
     {
       "raw_hot": 59285,
-      "num": 1074446,
+      "num": 1158891,
       "word": "博物馆这些文案封神了",
       "onboard_time": 1716424219,
       "rank": 2,
