@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716435274386,
+  "endTime": 1716438110155,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2082721,
+      "num": 708627,
+      "word": "五条悟尸体被操控",
+      "onboard_time": 1716436700,
+      "rank": 10,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 2051376,
       "num": 2051376,
       "word": "以色列发文嘲讽伊朗总统直升机事故",
@@ -297,6 +305,14 @@
       "onboard_time": 1716428657,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1713156,
+      "num": 698071,
+      "word": "12岁男孩目睹刑案后失联已身亡",
+      "onboard_time": 1716435078,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1708985,
@@ -441,6 +457,14 @@
       "onboard_time": 1716269360,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1463358,
+      "num": 1463358,
+      "word": "杨幂说那天哄了龚俊很久",
+      "onboard_time": 1716434478,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1458289,
@@ -625,6 +649,14 @@
       "onboard_time": 1716286640,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1230425,
+      "num": 1230425,
+      "word": "此次台岛周边联合演习有何特点",
+      "onboard_time": 1716435259,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1222790,
@@ -947,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 968513,
+      "num": 968513,
+      "word": "宁静去花少了",
+      "onboard_time": 1716436519,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 967147,
       "num": 452334,
       "word": "以色列",
@@ -1057,14 +1097,6 @@
       "onboard_time": 1716278299,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 882081,
-      "num": 666349,
-      "word": "此次台岛周边联合演习有何特点",
-      "onboard_time": 1716435259,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 877795,
@@ -1419,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 753766,
+      "num": 717132,
+      "word": "霸王茶姬万里木兰不建议晚上喝",
+      "onboard_time": 1716432858,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 753186,
       "num": 753186,
       "word": "九成00后女性认为夫妻该承担同样家务",
@@ -1547,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 710820,
-      "num": 696459,
-      "word": "杨幂说那天哄了龚俊很久",
-      "onboard_time": 1716434478,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 710625,
       "num": 710625,
       "word": "偷家",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1716119238,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 706675,
-      "num": 706675,
-      "word": "霸王茶姬万里木兰不建议晚上喝",
-      "onboard_time": 1716432858,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 705734,
@@ -1675,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 685836,
+      "num": 685836,
+      "word": "哈尔滨一小区发生爆炸阳台被炸飞",
+      "onboard_time": 1716434239,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 684586,
       "num": 684586,
       "word": "苗苗染红发",
@@ -1745,6 +1777,14 @@
       "onboard_time": 1716291198,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 665726,
+      "num": 632221,
+      "word": "马斯克被曝与谷歌创始人前妻一起吸毒",
+      "onboard_time": 1716435138,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 662901,
@@ -1849,6 +1889,14 @@
       "onboard_time": 1716246855,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 633903,
+      "num": 633903,
+      "word": "周扬青底妆刷了4层粉底",
+      "onboard_time": 1716436819,
+      "rank": 16,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 632316,
@@ -2187,6 +2235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 552745,
+      "num": 552745,
+      "word": "你没事吧 我真服了",
+      "onboard_time": 1716435439,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 547541,
       "num": 547541,
       "word": "ZICO",
@@ -2481,6 +2537,14 @@
       "onboard_time": 1716372739,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497064,
+      "num": 497064,
+      "word": "咒术回战",
+      "onboard_time": 1716434239,
+      "rank": 39,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 496741,
@@ -2883,14 +2947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 437987,
-      "num": 437987,
-      "word": "咒术回战",
-      "onboard_time": 1716434239,
-      "rank": 39,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 437698,
       "num": 437698,
       "word": "拼多多总市值超越阿里巴巴",
@@ -2987,6 +3043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 424729,
+      "num": 424729,
+      "word": "假富豪奢侈品摆拍仅售价几十元",
+      "onboard_time": 1716432559,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424717,
       "num": 424717,
       "word": "刘端端演技",
@@ -3025,14 +3089,6 @@
       "onboard_time": 1716083476,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 421000,
-      "num": 421000,
-      "word": "假富豪奢侈品摆拍仅售价几十元",
-      "onboard_time": 1716432559,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 419844,
@@ -3201,14 +3257,6 @@
       "onboard_time": 1716046577,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 404832,
-      "num": 404832,
-      "word": "哈尔滨一小区发生爆炸阳台被炸飞",
-      "onboard_time": 1716434239,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404305,
@@ -3851,6 +3899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338457,
+      "num": 338457,
+      "word": "胡歌2024最新综艺来了",
+      "onboard_time": 1716436399,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338093,
       "num": 338093,
       "word": "森林狼4比3掘金",
@@ -4259,6 +4315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311258,
+      "num": 311258,
+      "word": "网红炫富或将加重社会焦虑",
+      "onboard_time": 1716435619,
+      "rank": 26,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 311212,
       "num": 284824,
       "word": "当大学生发现高考和端午撞了",
@@ -4433,6 +4497,14 @@
       "onboard_time": 1716435200,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292981,
+      "num": 292981,
+      "word": "传奇哥 歌手",
+      "onboard_time": 1716436160,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 292751,
@@ -4681,6 +4753,14 @@
       "onboard_time": 1716042140,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277780,
+      "num": 277780,
+      "word": "宁静逃不掉的断层C位",
+      "onboard_time": 1716437539,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 277650,
@@ -4945,14 +5025,6 @@
       "onboard_time": 1716284059,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 258301,
-      "num": 258301,
-      "word": "马斯克被曝与谷歌创始人前妻一起吸毒",
-      "onboard_time": 1716435138,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 257388,
@@ -5395,20 +5467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234973,
-      "num": 234973,
-      "word": "12岁男孩目睹刑案后失联已身亡",
-      "onboard_time": 1716435078,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234772,
       "num": 193435,
       "word": "普通女孩给男朋友准备的520礼物",
       "onboard_time": 1716195801,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234635,
+      "num": 234635,
+      "word": "ZICO公司管理层大换血",
+      "onboard_time": 1716435858,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 234153,
@@ -6771,6 +6843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192712,
+      "num": 192712,
+      "word": "利剑出鞘剑指台独",
+      "onboard_time": 1716437841,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 192307,
       "num": 192307,
       "word": "边伯贤澳门",
@@ -7113,6 +7193,14 @@
       "onboard_time": 1716050717,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184080,
+      "num": 184080,
+      "word": "官方拍的刘亦菲",
+      "onboard_time": 1716437780,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 183970,
@@ -7587,6 +7675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171776,
+      "num": 171776,
+      "word": "非全日制研究生不该被差别对待",
+      "onboard_time": 1716437899,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 171597,
       "num": 171597,
       "word": "何小鹏回应与小米竞争",
@@ -7744,6 +7840,14 @@
       "word": "王源cos财神",
       "onboard_time": 1716193040,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166500,
+      "num": 166500,
+      "word": "歌手",
+      "onboard_time": 1716437899,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -8331,6 +8435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154364,
+      "num": 154364,
+      "word": "蛋糕中看不中吃了吗",
+      "onboard_time": 1716437240,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 154324,
       "num": 154324,
       "word": "英伟达宣布拆股计划",
@@ -8441,6 +8553,14 @@
       "onboard_time": 1716189259,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 151818,
+      "num": 151818,
+      "word": "闪耀暖暖",
+      "onboard_time": 1716436700,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 151593,
@@ -11324,7 +11444,7 @@
     },
     {
       "raw_hot": 84408,
-      "num": 1231706,
+      "num": 1320001,
       "word": "中国文化遗产有多绝",
       "onboard_time": 1716382219,
       "rank": 2,
@@ -12011,6 +12131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51893,
+      "num": 701406,
+      "word": "鸣潮全球公测开启",
+      "onboard_time": 1716436040,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 50603,
       "num": 50603,
       "word": "张若昀演出了范闲的失望",
@@ -12217,6 +12345,14 @@
       "onboard_time": 1716224294,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39466,
+      "num": 712394,
+      "word": "你看病时会社恐发作吗",
+      "onboard_time": 1716437420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39026,
