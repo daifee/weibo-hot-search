@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716453336512,
+  "endTime": 1716456052817,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -193,6 +193,14 @@
       "onboard_time": 1716363500,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2058580,
+      "num": 2058580,
+      "word": "台湾艺人",
+      "onboard_time": 1716453979,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2051376,
@@ -2035,6 +2043,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 610363,
+      "num": 466219,
+      "word": "四川地震",
+      "onboard_time": 1716455059,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 610287,
+      "num": 280430,
+      "word": "原来这才是微信注销后的样子",
+      "onboard_time": 1716452778,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 608923,
       "num": 608923,
       "word": "陈飞宇庄达菲情侣写真",
@@ -2457,6 +2481,14 @@
       "onboard_time": 1716386600,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 523875,
+      "num": 466196,
+      "word": "张凌赫把迪丽热巴圈怀里",
+      "onboard_time": 1716453739,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 523333,
@@ -3009,6 +3041,14 @@
       "onboard_time": 1716251420,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451382,
+      "num": 451382,
+      "word": "卫龙15克装魔芋爽实际只有8.9克",
+      "onboard_time": 1716452358,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 448983,
@@ -4131,6 +4171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336979,
+      "num": 336979,
+      "word": "解放军持续位台岛周边开展多科目训练",
+      "onboard_time": 1716453018,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 336914,
       "num": 336914,
       "word": "AG",
@@ -4497,6 +4545,14 @@
       "onboard_time": 1716387260,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311777,
+      "num": 311777,
+      "word": "王楚钦梁靖崑3比0钟子毅朔伊尔",
+      "onboard_time": 1716454338,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 311501,
@@ -5019,6 +5075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276757,
+      "num": 276757,
+      "word": "范若若一手手术刀一手巴特雷",
+      "onboard_time": 1716453619,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276043,
       "num": 246604,
       "word": "张颂文说杨紫抽到紫竹太巧了",
@@ -5209,6 +5273,14 @@
       "onboard_time": 1716205338,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262262,
+      "num": 262262,
+      "word": "刘亦菲随手一截都是头像",
+      "onboard_time": 1716455240,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 262045,
@@ -5409,14 +5481,6 @@
       "onboard_time": 1716438141,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249285,
-      "num": 249285,
-      "word": "卫龙15克装魔芋爽实际只有8.9克",
-      "onboard_time": 1716452358,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 249229,
@@ -5689,14 +5753,6 @@
       "onboard_time": 1716373340,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236580,
-      "num": 236580,
-      "word": "原来这才是微信注销后的样子",
-      "onboard_time": 1716452778,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 236503,
@@ -5995,6 +6051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221096,
+      "num": 221096,
+      "word": "为什么有这么多人买一次性内裤",
+      "onboard_time": 1716452660,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221012,
       "num": 221012,
       "word": "庆余年太子给打工人一些震撼",
@@ -6153,14 +6217,6 @@
       "onboard_time": 1716077715,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 215458,
-      "num": 215458,
-      "word": "为什么有这么多人买一次性内裤",
-      "onboard_time": 1716452660,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 215149,
@@ -7051,6 +7107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194831,
+      "num": 194831,
+      "word": "猫 别来烦我",
+      "onboard_time": 1716452958,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194529,
       "num": 174621,
       "word": "女孩遭男子持棍挟持众人合力解救",
@@ -7763,14 +7827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179304,
-      "num": 179304,
-      "word": "猫 别来烦我",
-      "onboard_time": 1716452958,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 179302,
       "num": 179302,
       "word": "原来膝盖的形状和脸型一样",
@@ -8051,6 +8107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173932,
+      "num": 173932,
+      "word": "赵露思 旅游拍照姿势秘籍",
+      "onboard_time": 1716455540,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173421,
       "num": 173421,
       "word": "赵一博何浩楠",
@@ -8131,20 +8195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171813,
+      "num": 171813,
+      "word": "王源cha汪苏泷十万伏特",
+      "onboard_time": 1716453979,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171597,
       "num": 171597,
       "word": "何小鹏回应与小米竞争",
       "onboard_time": 1716216799,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 171339,
-      "num": 171339,
-      "word": "解放军持续位台岛周边开展多科目训练",
-      "onboard_time": 1716453018,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 171326,
@@ -8299,6 +8363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167535,
+      "num": 167535,
+      "word": "外交部强调台独是死路一条",
+      "onboard_time": 1716455240,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 167304,
       "num": 167304,
       "word": "眼泪女王新婚纱照",
@@ -8312,6 +8384,14 @@
       "word": "范闲高马尾大波浪",
       "onboard_time": 1716301101,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166982,
+      "num": 166982,
+      "word": "黄晓明包场狐妖月红篇",
+      "onboard_time": 1716454398,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -9683,6 +9763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141471,
+      "num": 141471,
+      "word": "bing崩了",
+      "onboard_time": 1716453197,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 141434,
       "num": 141434,
       "word": "冰淇淋和雪糕的区别居然是空气",
@@ -10153,6 +10241,14 @@
       "onboard_time": 1716169338,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132214,
+      "num": 132214,
+      "word": "张碧晨一个人营业四个人辅助",
+      "onboard_time": 1716454999,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 131968,
@@ -10795,14 +10891,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 121880,
-      "num": 121880,
-      "word": "bing崩了",
-      "onboard_time": 1716453197,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 121862,
       "num": 121862,
       "word": "有楼盘周末开盘卖了近15亿",
@@ -11072,6 +11160,14 @@
       "word": "发现一只偷感很重的大熊猫",
       "onboard_time": 1716429557,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117962,
+      "num": 117962,
+      "word": "海归大熊猫回家只办3件事",
+      "onboard_time": 1716455540,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -12747,6 +12843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54627,
+      "num": 466231,
+      "word": "已有超50城支持以旧换新",
+      "onboard_time": 1716455180,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53772,
       "num": 53772,
       "word": "张若昀腰围62",
@@ -13139,6 +13243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32693,
+      "num": 679989,
+      "word": "第20届文博会",
+      "onboard_time": 1716442278,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32664,
       "num": 34784,
       "word": "林更新与学妹合照",
@@ -13457,6 +13569,14 @@
       "onboard_time": 1716118518,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13034,
+      "num": 106654,
+      "word": "手机拍到的夜景大片",
+      "onboard_time": 1716454819,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 12843,
