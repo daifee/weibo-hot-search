@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716427040013,
+  "endTime": 1716428259035,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1561399,
-      "num": 275464,
+      "num": 280868,
       "word": "学生家长出轨校长合谋杀夫一审宣判",
       "onboard_time": 1716422539,
       "rank": 20,
@@ -763,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1101038,
+      "num": 1101038,
+      "word": "解放军台岛周边演习区域示意图",
+      "onboard_time": 1716426498,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1085291,
       "num": 1085291,
       "word": "伊朗总统坠机细节公开",
@@ -945,6 +953,14 @@
       "onboard_time": 1716365720,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 940008,
+      "num": 940008,
+      "word": "第二个N号房事件爆发",
+      "onboard_time": 1716427098,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 927130,
@@ -1236,7 +1252,7 @@
     },
     {
       "raw_hot": 777962,
-      "num": 550950,
+      "num": 771883,
       "word": "刘亦菲在西班牙压马路",
       "onboard_time": 1716424280,
       "rank": 3,
@@ -1891,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593352,
+      "num": 445039,
+      "word": "电脑阅卷太震撼了",
+      "onboard_time": 1716424400,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 589135,
       "num": 589135,
       "word": "京东被曝严查考勤",
@@ -2004,7 +2028,7 @@
     },
     {
       "raw_hot": 568128,
-      "num": 417712,
+      "num": 419919,
       "word": "左航 老奶奶",
       "onboard_time": 1716420016,
       "rank": 16,
@@ -2012,7 +2036,7 @@
     },
     {
       "raw_hot": 567772,
-      "num": 270069,
+      "num": 270492,
       "word": "为什么应届生千万别乱投管培生",
       "onboard_time": 1716420917,
       "rank": 35,
@@ -2371,6 +2395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 494306,
+      "num": 494306,
+      "word": "鸣潮",
+      "onboard_time": 1716264620,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 489460,
       "num": 489460,
       "word": "亚当歌手选曲",
@@ -2547,14 +2579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 464286,
-      "num": 464286,
-      "word": "鸣潮",
-      "onboard_time": 1716264620,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 462949,
       "num": 462949,
       "word": "郭有才",
@@ -2691,6 +2715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 444844,
+      "num": 444844,
+      "word": "学校回应12岁女生短跑昏迷后离世",
+      "onboard_time": 1716422778,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444687,
       "num": 444687,
       "word": "李胜利",
@@ -2785,14 +2817,6 @@
       "onboard_time": 1716251721,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 432062,
-      "num": 432062,
-      "word": "学校回应12岁女生短跑昏迷后离世",
-      "onboard_time": 1716422778,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429869,
@@ -2953,14 +2977,6 @@
       "onboard_time": 1716039259,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 416665,
-      "num": 416665,
-      "word": "电脑阅卷太震撼了",
-      "onboard_time": 1716424400,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 415324,
@@ -3289,14 +3305,6 @@
       "onboard_time": 1716217700,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381362,
-      "num": 381362,
-      "word": "解放军台岛周边演习区域示意图",
-      "onboard_time": 1716426498,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 380434,
@@ -3883,6 +3891,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325319,
+      "num": 325319,
+      "word": "翻跳ive被起诉",
+      "onboard_time": 1716422837,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324749,
+      "num": 324749,
+      "word": "福建海警舰艇编队开展综合执法演练",
+      "onboard_time": 1716427579,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 324528,
       "num": 324528,
       "word": "贾玲 百花奖",
@@ -4001,6 +4025,14 @@
       "onboard_time": 1716170419,
       "rank": 29,
       "category": "互联网,作品衍生"
+    },
+    {
+      "raw_hot": 317083,
+      "num": 317083,
+      "word": "龚俊薅到杨幂",
+      "onboard_time": 1716427878,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 317010,
@@ -4379,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281585,
+      "num": 281585,
+      "word": "鸣潮开服",
+      "onboard_time": 1716427639,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281518,
       "num": 250851,
       "word": "aespa造型",
@@ -4401,14 +4441,6 @@
       "onboard_time": 1716180084,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 280293,
-      "num": 280293,
-      "word": "翻跳ive被起诉",
-      "onboard_time": 1716422837,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 280248,
@@ -4595,6 +4627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270406,
+      "num": 270406,
+      "word": "秦岚机场",
+      "onboard_time": 1716425659,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270034,
       "num": 270034,
       "word": "庆余年2朝堂激辩",
@@ -4673,6 +4713,14 @@
       "onboard_time": 1716205338,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262350,
+      "num": 262350,
+      "word": "墨西哥jeans称newjeans抄袭",
+      "onboard_time": 1716427039,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 262045,
@@ -5001,14 +5049,6 @@
       "onboard_time": 1716077296,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243275,
-      "num": 243275,
-      "word": "秦岚机场",
-      "onboard_time": 1716425659,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 242389,
@@ -6507,6 +6547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192256,
+      "num": 192256,
+      "word": "独行侠vs森林狼",
+      "onboard_time": 1716427398,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192114,
       "num": 192114,
       "word": "canyon大满贯",
@@ -7067,6 +7115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177212,
+      "num": 177212,
+      "word": "赵今麦开屏",
+      "onboard_time": 1716427757,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177025,
       "num": 177025,
       "word": "张艺兴喊话南派三叔出二月红续集",
@@ -7595,6 +7651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162634,
+      "num": 162634,
+      "word": "尤长靖到长沙了",
+      "onboard_time": 1716427697,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162396,
       "num": 162396,
       "word": "范无救被捕",
@@ -7657,6 +7721,14 @@
       "onboard_time": 1716350899,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161514,
+      "num": 161514,
+      "word": "黄金白银大幅跳水",
+      "onboard_time": 1716427878,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 160906,
@@ -7947,6 +8019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155557,
+      "num": 155557,
+      "word": "为啥银行的玻璃那么隔音",
+      "onboard_time": 1716426740,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 155413,
       "num": 175910,
       "word": "小米回应博主控诉空调售后差",
@@ -8233,6 +8313,14 @@
       "onboard_time": 1716161056,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148691,
+      "num": 148691,
+      "word": "主人和四只猫咪分别握手",
+      "onboard_time": 1716426619,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 148460,
@@ -8595,6 +8683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142641,
+      "num": 142641,
+      "word": "刘亦菲18年前的专辑",
+      "onboard_time": 1716427278,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142388,
       "num": 142388,
       "word": "浙江小百花越剧院致歉",
@@ -8851,6 +8947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137389,
+      "num": 128795,
+      "word": "刘亦菲婚纱剧照",
+      "onboard_time": 1716428177,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136903,
       "num": 136903,
       "word": "网易520节目单",
@@ -8865,6 +8969,14 @@
       "onboard_time": 1716335058,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136104,
+      "num": 136104,
+      "word": "詹姆斯库里入选三阵",
+      "onboard_time": 1716427518,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 136100,
@@ -9027,14 +9139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133595,
-      "num": 133595,
-      "word": "主人和四只猫咪分别握手",
-      "onboard_time": 1716426619,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133572,
       "num": 133572,
       "word": "2024KPL夏季赛赛制公布",
@@ -9097,14 +9201,6 @@
       "onboard_time": 1716169338,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 132155,
-      "num": 132155,
-      "word": "为啥银行的玻璃那么隔音",
-      "onboard_time": 1716426740,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 131968,
@@ -10892,7 +10988,7 @@
     },
     {
       "raw_hot": 88762,
-      "num": 417767,
+      "num": 445047,
       "word": "货车司机停高速口煮面交警耐心等吃完",
       "onboard_time": 1716420556,
       "rank": 29,
@@ -10948,7 +11044,7 @@
     },
     {
       "raw_hot": 84408,
-      "num": 577565,
+      "num": 945611,
       "word": "中国文化遗产有多绝",
       "onboard_time": 1716382219,
       "rank": 2,

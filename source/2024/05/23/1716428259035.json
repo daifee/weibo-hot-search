@@ -1,0 +1,410 @@
+{
+  "runTime": 1716428259035,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1305807,
+        "num": 1305807,
+        "word": "东部战区位台岛周边开展演习",
+        "onboard_time": 1716422117,
+        "rank": 0,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 1101038,
+        "num": 1101038,
+        "word": "解放军台岛周边演习区域示意图",
+        "onboard_time": 1716426498,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77488,
+        "num": 945611,
+        "word": "中国文化遗产有多绝",
+        "onboard_time": 1716382219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940008,
+        "num": 940008,
+        "word": "第二个N号房事件爆发",
+        "onboard_time": 1716427098,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771883,
+        "num": 771883,
+        "word": "刘亦菲在西班牙压马路",
+        "onboard_time": 1716424280,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562439,
+        "num": 562439,
+        "word": "B站取消播放时长指标外显改版",
+        "onboard_time": 1716391460,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 494306,
+        "num": 494306,
+        "word": "鸣潮",
+        "onboard_time": 1716424219,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 447188,
+        "num": 447188,
+        "word": "庆帝 李云龙",
+        "onboard_time": 1716420496,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446103,
+        "num": 446103,
+        "word": "英国首相宣布于7月4日举行大选",
+        "onboard_time": 1716422959,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 66994,
+        "num": 445047,
+        "word": "货车司机停高速口煮面交警耐心等吃完",
+        "onboard_time": 1716420556,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593352,
+        "num": 445039,
+        "word": "电脑阅卷太震撼了",
+        "onboard_time": 1716424400,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 444844,
+        "num": 444844,
+        "word": "学校回应12岁女生短跑昏迷后离世",
+        "onboard_time": 1716422778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419919,
+        "num": 419919,
+        "word": "左航 老奶奶",
+        "onboard_time": 1716420016,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346401,
+        "num": 346401,
+        "word": "庆余年 杀疯了",
+        "onboard_time": 1716381318,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325319,
+        "num": 325319,
+        "word": "翻跳ive被起诉",
+        "onboard_time": 1716422837,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324749,
+        "num": 324749,
+        "word": "福建海警舰艇编队开展综合执法演练",
+        "onboard_time": 1716427579,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317083,
+        "num": 317083,
+        "word": "龚俊薅到杨幂",
+        "onboard_time": 1716427878,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296641,
+        "num": 296641,
+        "word": "刮刮乐大面积缺货",
+        "onboard_time": 1716421817,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295724,
+        "num": 295724,
+        "word": "轻断食一天吃了11根玉米",
+        "onboard_time": 1716375978,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 281585,
+        "num": 281585,
+        "word": "鸣潮开服",
+        "onboard_time": 1716427639,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1324793,
+        "num": 280868,
+        "word": "学生家长出轨校长合谋杀夫一审宣判",
+        "onboard_time": 1716422539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816145,
+        "num": 278716,
+        "word": "阮经天妈妈去世",
+        "onboard_time": 1716419955,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298518,
+        "num": 275185,
+        "word": "杨幂机场出发戛纳",
+        "onboard_time": 1716419715,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 438523,
+        "num": 270492,
+        "word": "为什么应届生千万别乱投管培生",
+        "onboard_time": 1716420917,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270406,
+        "num": 270406,
+        "word": "秦岚机场",
+        "onboard_time": 1716425659,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262350,
+        "num": 262350,
+        "word": "墨西哥jeans称newjeans抄袭",
+        "onboard_time": 1716427039,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223238,
+        "num": 223238,
+        "word": "上访村民疑被精神病",
+        "onboard_time": 1716422058,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211378,
+        "num": 211378,
+        "word": "教授建议18到25岁要多谈恋爱",
+        "onboard_time": 1716407710,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204970,
+        "num": 204970,
+        "word": "李承泽未承受半分恩泽",
+        "onboard_time": 1716395356,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197146,
+        "num": 197146,
+        "word": "王红权星近三月直播销售额超2500万",
+        "onboard_time": 1716420977,
+        "rank": 29,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 194831,
+        "num": 194831,
+        "word": "英伟达",
+        "onboard_time": 1716420016,
+        "rank": 30,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 192256,
+        "num": 192256,
+        "word": "独行侠vs森林狼",
+        "onboard_time": 1716427398,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186942,
+        "num": 186942,
+        "word": "范思辙爆改可达鸭",
+        "onboard_time": 1716422359,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177212,
+        "num": 177212,
+        "word": "赵今麦开屏",
+        "onboard_time": 1716427757,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176638,
+        "num": 176638,
+        "word": "林更新偷了赵丽颖的图",
+        "onboard_time": 1716387260,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173940,
+        "num": 173940,
+        "word": "六公主回应被认成亚当",
+        "onboard_time": 1716389541,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173907,
+        "num": 173907,
+        "word": "人生病了才知道人多力量大",
+        "onboard_time": 1716420977,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162634,
+        "num": 162634,
+        "word": "尤长靖到长沙了",
+        "onboard_time": 1716427697,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161514,
+        "num": 161514,
+        "word": "黄金白银大幅跳水",
+        "onboard_time": 1716427878,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155557,
+        "num": 155557,
+        "word": "为啥银行的玻璃那么隔音",
+        "onboard_time": 1716426740,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148691,
+        "num": 148691,
+        "word": "主人和四只猫咪分别握手",
+        "onboard_time": 1716426619,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148066,
+        "num": 148066,
+        "word": "吐槽王倦",
+        "onboard_time": 1716426019,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145307,
+        "num": 145307,
+        "word": "小狗的胸好蓬松",
+        "onboard_time": 1716420496,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142641,
+        "num": 142641,
+        "word": "刘亦菲18年前的专辑",
+        "onboard_time": 1716427278,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139586,
+        "num": 139586,
+        "word": "范闲林婉儿解除误会",
+        "onboard_time": 1716422539,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127953,
+        "num": 136867,
+        "word": "庆帝赶紧死",
+        "onboard_time": 1716385700,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136104,
+        "num": 136104,
+        "word": "詹姆斯库里入选三阵",
+        "onboard_time": 1716427518,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130360,
+        "num": 130360,
+        "word": "健身房最好的广告",
+        "onboard_time": 1716424280,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137389,
+        "num": 128795,
+        "word": "刘亦菲婚纱剧照",
+        "onboard_time": 1716428177,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125598,
+        "num": 125598,
+        "word": "女子带婴儿到网吧打游戏",
+        "onboard_time": 1716400872,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向越南新任国家主席苏林致贺电#"
+    }
+  }
+}
