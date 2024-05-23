@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716488648292,
+  "endTime": 1716489403175,
   "band_list": [
     {
       "raw_hot": 1894273,
@@ -444,10 +444,26 @@
     },
     {
       "raw_hot": 26682,
-      "num": 26682,
+      "num": 30794,
       "word": "花少法国站梗太密了",
       "onboard_time": 1716487332,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24054,
+      "num": 30553,
+      "word": "小狗一定挑选了认为最好的礼物",
+      "onboard_time": 1716488772,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 23205,
+      "num": 30547,
+      "word": "说唱梦工厂今日开播",
+      "onboard_time": 1716489372,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -456,6 +472,14 @@
       "word": "文化企业30强",
       "onboard_time": 1716469700,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12753,
+      "num": 37916,
+      "word": "9旬老闺蜜相约每天见面互相惦记",
+      "onboard_time": 1716489251,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
