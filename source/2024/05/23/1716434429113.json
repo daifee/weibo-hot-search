@@ -1,0 +1,410 @@
+{
+  "runTime": 1716434429113,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1552183,
+        "num": 1552183,
+        "word": "这是对台独分裂行径的有力惩戒",
+        "onboard_time": 1716428657,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1260307,
+        "num": 1260307,
+        "word": "31岁放弃编制工作后我怎样了",
+        "onboard_time": 1716429018,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39645,
+        "num": 1231706,
+        "word": "中国文化遗产有多绝",
+        "onboard_time": 1716382219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224136,
+        "num": 1224136,
+        "word": "龚俊 版权救了我们",
+        "onboard_time": 1716428538,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 816959,
+        "num": 816959,
+        "word": "花儿与少年直播",
+        "onboard_time": 1716432377,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 759198,
+        "num": 759198,
+        "word": "东部战区发布组合海报越海杀器",
+        "onboard_time": 1716431057,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 705871,
+        "num": 705871,
+        "word": "解放军台岛周边演习区域示意图",
+        "onboard_time": 1716426498,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1549352,
+        "num": 684237,
+        "word": "第二个N号房事件爆发",
+        "onboard_time": 1716427098,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661641,
+        "num": 661641,
+        "word": "东部战区位台岛周边开展演习",
+        "onboard_time": 1716422117,
+        "rank": 8,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 107352,
+        "num": 640996,
+        "word": "发现一只偷感很重的大熊猫",
+        "onboard_time": 1716429557,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1541320,
+        "num": 639914,
+        "word": "南村群童欺我老无力",
+        "onboard_time": 1716428718,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631105,
+        "num": 631105,
+        "word": "中国海警发声",
+        "onboard_time": 1716431897,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 513975,
+        "num": 513975,
+        "word": "前央视解说员田宗琦去世",
+        "onboard_time": 1716430698,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 488329,
+        "num": 488329,
+        "word": "左航 老奶奶",
+        "onboard_time": 1716420016,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27477,
+        "num": 420110,
+        "word": "第二次生命为足球而活",
+        "onboard_time": 1716433218,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63846,
+        "num": 414994,
+        "word": "深蓝CEO称硬派的燃油时代结束了",
+        "onboard_time": 1716429978,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 412425,
+        "num": 412425,
+        "word": "霸王茶姬万里木兰不建议晚上喝",
+        "onboard_time": 1716432858,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 343446,
+        "num": 343446,
+        "word": "龚俊薅到杨幂",
+        "onboard_time": 1716427878,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335632,
+        "num": 335632,
+        "word": "这是对外部势力干涉挑衅的严重警告",
+        "onboard_time": 1716432858,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327400,
+        "num": 327400,
+        "word": "鸣潮",
+        "onboard_time": 1716424219,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 495932,
+        "num": 326425,
+        "word": "学生家长出轨校长合谋杀夫一审宣判",
+        "onboard_time": 1716422539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437922,
+        "num": 326101,
+        "word": "吃火锅不能穿白衣服魔咒被破解",
+        "onboard_time": 1716428298,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 427303,
+        "num": 325520,
+        "word": "阮经天妈妈去世",
+        "onboard_time": 1716419955,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324618,
+        "num": 324618,
+        "word": "假富豪奢侈品摆拍仅售价几十元",
+        "onboard_time": 1716432559,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310368,
+        "num": 310368,
+        "word": "刘亦菲在西班牙压马路",
+        "onboard_time": 1716424280,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288351,
+        "num": 288351,
+        "word": "鸣潮开服",
+        "onboard_time": 1716427639,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267819,
+        "num": 267819,
+        "word": "福建海警舰艇编队开展综合执法演练",
+        "onboard_time": 1716427579,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225140,
+        "num": 225140,
+        "word": "庆帝 李云龙",
+        "onboard_time": 1716420496,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224007,
+        "num": 224007,
+        "word": "李凯尔爆了",
+        "onboard_time": 1716433940,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250932,
+        "num": 223871,
+        "word": "刘亦菲罗马大屏",
+        "onboard_time": 1716433279,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220156,
+        "num": 220156,
+        "word": "A股",
+        "onboard_time": 1716429920,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207426,
+        "num": 207426,
+        "word": "杨幂机场出发戛纳",
+        "onboard_time": 1716419715,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199029,
+        "num": 199029,
+        "word": "B站取消播放时长指标外显改版",
+        "onboard_time": 1716391460,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192856,
+        "num": 192856,
+        "word": "种地吧",
+        "onboard_time": 1716431658,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219608,
+        "num": 192175,
+        "word": "刘亦菲婚纱剧照",
+        "onboard_time": 1716428177,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190943,
+        "num": 190943,
+        "word": "电脑阅卷太震撼了",
+        "onboard_time": 1716424400,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181060,
+        "num": 181060,
+        "word": "联合利剑",
+        "onboard_time": 1716430217,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172868,
+        "num": 172868,
+        "word": "花儿与少年好友记",
+        "onboard_time": 1716433099,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172279,
+        "num": 172279,
+        "word": "墨西哥jeans称newjeans抄袭",
+        "onboard_time": 1716427039,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163820,
+        "num": 163820,
+        "word": "咒术回战",
+        "onboard_time": 1716434239,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 163342,
+        "num": 163342,
+        "word": "为什么应届生千万别乱投管培生",
+        "onboard_time": 1716420917,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162508,
+        "num": 162508,
+        "word": "狐妖月红篇涂山三姐妹海报",
+        "onboard_time": 1716432078,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161986,
+        "num": 161986,
+        "word": "秦岚机场",
+        "onboard_time": 1716425659,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160268,
+        "num": 160268,
+        "word": "庆余年 杀疯了",
+        "onboard_time": 1716381318,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149174,
+        "num": 149174,
+        "word": "哈尔滨一小区发生爆炸阳台被炸飞",
+        "onboard_time": 1716434239,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141901,
+        "num": 141901,
+        "word": "李彦宏现身法国总统府谈AI发展",
+        "onboard_time": 1716429978,
+        "rank": 45,
+        "category": "互联网,国外时政"
+      },
+      {
+        "raw_hot": 141829,
+        "num": 141829,
+        "word": "狗狗挨削后有多老实",
+        "onboard_time": 1716433519,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133900,
+        "num": 133900,
+        "word": "教授建议18到25岁要多谈恋爱",
+        "onboard_time": 1716407710,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127368,
+        "num": 133203,
+        "word": "翻跳ive被起诉",
+        "onboard_time": 1716422837,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124541,
+        "num": 132997,
+        "word": "花少好友记在线限时选导游",
+        "onboard_time": 1716434359,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向越南新任国家主席苏林致贺电#"
+    }
+  }
+}
