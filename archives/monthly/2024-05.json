@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716420960321,
+  "endTime": 1716427040013,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1667,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1593081,
+      "num": 1593081,
+      "word": "东部战区位台岛周边开展演习",
+      "onboard_time": 1716422117,
+      "rank": 0,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 1592141,
       "num": 1399392,
       "word": "韩佩泉报名歌手成功",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1715167698,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1561399,
+      "num": 275464,
+      "word": "学生家长出轨校长合谋杀夫一审宣判",
+      "onboard_time": 1716422539,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1558611,
@@ -4827,6 +4843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 982528,
+      "num": 860832,
+      "word": "阮经天妈妈去世",
+      "onboard_time": 1716419955,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 981672,
       "num": 981672,
       "word": "榴莲自由要实现了",
@@ -6019,14 +6043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 860832,
-      "num": 860832,
-      "word": "阮经天妈妈去世",
-      "onboard_time": 1716419955,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 860820,
       "num": 1134981,
       "word": "今天520",
@@ -7073,6 +7089,14 @@
       "onboard_time": 1716082636,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 777962,
+      "num": 550950,
+      "word": "刘亦菲在西班牙压马路",
+      "onboard_time": 1716424280,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 777909,
@@ -11307,6 +11331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 568128,
+      "num": 417712,
+      "word": "左航 老奶奶",
+      "onboard_time": 1716420016,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 567772,
+      "num": 270069,
+      "word": "为什么应届生千万别乱投管培生",
+      "onboard_time": 1716420917,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 567741,
       "num": 567741,
       "word": "纪凌尘换发型了",
@@ -12555,6 +12595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523333,
+      "num": 523333,
+      "word": "庆帝 李云龙",
+      "onboard_time": 1716420496,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523167,
       "num": 523167,
       "word": "庆余年2拍了范闲林婉儿大婚",
@@ -13049,6 +13097,14 @@
       "onboard_time": 1715092340,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507207,
+      "num": 507207,
+      "word": "英国首相宣布于7月4日举行大选",
+      "onboard_time": 1716422959,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 507160,
@@ -14571,6 +14627,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 464286,
+      "num": 464286,
+      "word": "鸣潮",
+      "onboard_time": 1716264620,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 464145,
       "num": 464145,
       "word": "芒果妈妈微博发声",
@@ -15835,6 +15899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 432062,
+      "num": 432062,
+      "word": "学校回应12岁女生短跑昏迷后离世",
+      "onboard_time": 1716422778,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431799,
       "num": 358118,
       "word": "井柏然张子枫同款笑容",
@@ -16561,6 +16633,14 @@
       "onboard_time": 1715343258,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 416665,
+      "num": 416665,
+      "word": "电脑阅卷太震撼了",
+      "onboard_time": 1716424400,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 416540,
@@ -18371,6 +18451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381362,
+      "num": 381362,
+      "word": "解放军台岛周边演习区域示意图",
+      "onboard_time": 1716426498,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 381283,
       "num": 226543,
       "word": "歌手国家队名场面",
@@ -19547,6 +19635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355298,
+      "num": 355298,
+      "word": "杨幂机场出发戛纳",
+      "onboard_time": 1716419715,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 354994,
       "num": 354994,
       "word": "Jennie露背黑裙",
@@ -20249,6 +20345,14 @@
       "onboard_time": 1716011297,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342466,
+      "num": 269667,
+      "word": "英伟达",
+      "onboard_time": 1716420016,
+      "rank": 34,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 342357,
@@ -21339,6 +21443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 324084,
+      "num": 324084,
+      "word": "刮刮乐大面积缺货",
+      "onboard_time": 1716421817,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324055,
       "num": 324055,
       "word": "中央气象台升级发布暴雨橙色预警",
@@ -21801,14 +21913,6 @@
       "onboard_time": 1714780275,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 316213,
-      "num": 238949,
-      "word": "杨幂机场出发戛纳",
-      "onboard_time": 1716419715,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 316190,
@@ -22587,6 +22691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302842,
+      "num": 302842,
+      "word": "上访村民疑被精神病",
+      "onboard_time": 1716422058,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302722,
       "num": 223996,
       "word": "赴山海开机",
@@ -23113,6 +23225,14 @@
       "onboard_time": 1715248998,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293687,
+      "num": 293687,
+      "word": "王红权星近三月直播销售额超2500万",
+      "onboard_time": 1716420977,
+      "rank": 17,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 293518,
@@ -24081,6 +24201,14 @@
       "onboard_time": 1715526981,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 280293,
+      "num": 280293,
+      "word": "翻跳ive被起诉",
+      "onboard_time": 1716422837,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 280248,
@@ -26739,6 +26867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249154,
+      "num": 249154,
+      "word": "范思辙爆改可达鸭",
+      "onboard_time": 1716422359,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249061,
       "num": 249061,
       "word": "谢娜43岁生日照",
@@ -27417,6 +27553,14 @@
       "onboard_time": 1716024677,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243275,
+      "num": 243275,
+      "word": "秦岚机场",
+      "onboard_time": 1716425659,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 243114,
@@ -31177,6 +31321,14 @@
       "onboard_time": 1715229020,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 211913,
+      "num": 211913,
+      "word": "人生病了才知道人多力量大",
+      "onboard_time": 1716420977,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 211749,
@@ -35657,14 +35809,6 @@
       "onboard_time": 1715567057,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 193568,
-      "num": 193568,
-      "word": "英伟达",
-      "onboard_time": 1716420016,
-      "rank": 34,
-      "category": "数码,财经"
     },
     {
       "raw_hot": 193538,
@@ -40403,14 +40547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173133,
-      "num": 173133,
-      "word": "左航 老奶奶",
-      "onboard_time": 1716420016,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173117,
       "num": 173117,
       "word": "央行房贷政策三连发影响多大",
@@ -41600,6 +41736,14 @@
       "word": "陈都灵黄裙海报",
       "onboard_time": 1716185060,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167721,
+      "num": 167721,
+      "word": "吐槽王倦",
+      "onboard_time": 1716426019,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -43699,6 +43843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158152,
+      "num": 158152,
+      "word": "小狗的胸好蓬松",
+      "onboard_time": 1716420496,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158138,
       "num": 158138,
       "word": "IVE把祥云带上舞台",
@@ -44593,6 +44745,14 @@
       "onboard_time": 1714543820,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154324,
+      "num": 154324,
+      "word": "英伟达宣布拆股计划",
+      "onboard_time": 1716426318,
+      "rank": 32,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 154293,
@@ -46160,6 +46320,14 @@
       "word": "相爱的灵魂十年的时差",
       "onboard_time": 1715167339,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147624,
+      "num": 147624,
+      "word": "范闲林婉儿解除误会",
+      "onboard_time": 1716422539,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -48355,6 +48523,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 138743,
+      "num": 138743,
+      "word": "健身房最好的广告",
+      "onboard_time": 1716424280,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138710,
       "num": 138710,
       "word": "学霸眼中的数学题是怎样的",
@@ -49587,6 +49763,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 133595,
+      "num": 133595,
+      "word": "主人和四只猫咪分别握手",
+      "onboard_time": 1716426619,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133583,
       "num": 133583,
       "word": "江浙沪爸爸人间理想",
@@ -49961,6 +50145,14 @@
       "onboard_time": 1714871658,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132155,
+      "num": 132155,
+      "word": "为啥银行的玻璃那么隔音",
+      "onboard_time": 1716426740,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 132145,
@@ -50459,14 +50651,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 129824,
-      "num": 98225,
-      "word": "庆帝 李云龙",
-      "onboard_time": 1716420496,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129788,
       "num": 188316,
       "word": "2024PEL春季赛",
@@ -50811,6 +50995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128068,
+      "num": 128068,
+      "word": "英雄联盟名人堂",
+      "onboard_time": 1716134358,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128030,
       "num": 128030,
       "word": "周家轩 因为淋过雨所以想撑把伞",
@@ -50905,6 +51097,14 @@
       "onboard_time": 1716276379,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 127696,
+      "num": 127696,
+      "word": "周杰伦 简单爱",
+      "onboard_time": 1716425720,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 127694,
@@ -51825,14 +52025,6 @@
       "onboard_time": 1716362538,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124297,
-      "num": 140335,
-      "word": "鸣潮",
-      "onboard_time": 1716264620,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 124264,
@@ -55715,6 +55907,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 103023,
+      "num": 103023,
+      "word": "如何判断床垫里是否有臭虫",
+      "onboard_time": 1716424520,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102861,
       "num": 119031,
       "word": "嘴笨的原因或找到了",
@@ -55883,6 +56083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101865,
+      "num": 101865,
+      "word": "2024NBA最佳阵容",
+      "onboard_time": 1716424400,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101854,
       "num": 101854,
       "word": "60秒看星河流转有多惊艳",
@@ -55961,6 +56169,14 @@
       "onboard_time": 1715496198,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101111,
+      "num": 101111,
+      "word": "DOTA2更新",
+      "onboard_time": 1716426799,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 101082,
@@ -56371,14 +56587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 97708,
-      "num": 97708,
-      "word": "小狗的胸好蓬松",
-      "onboard_time": 1716420496,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 97647,
       "num": 507085,
       "word": "匈牙利姑娘说爱看中国爱情剧",
@@ -56449,14 +56657,6 @@
       "onboard_time": 1715555415,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96971,
-      "num": 120273,
-      "word": "英雄联盟名人堂",
-      "onboard_time": 1716134358,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 96912,
@@ -56947,14 +57147,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 91318,
-      "num": 91318,
-      "word": "为什么应届生千万别乱投管培生",
-      "onboard_time": 1716420917,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 91304,
       "num": 1686265,
       "word": "匈牙利百年建筑散发出浓浓中国味",
@@ -57145,6 +57337,14 @@
       "onboard_time": 1715637911,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88762,
+      "num": 417767,
+      "word": "货车司机停高速口煮面交警耐心等吃完",
+      "onboard_time": 1716420556,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88698,
@@ -57393,6 +57593,14 @@
       "onboard_time": 1716084918,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 84408,
+      "num": 577565,
+      "word": "中国文化遗产有多绝",
+      "onboard_time": 1716382219,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83948,
@@ -59819,14 +60027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51111,
-      "num": 577565,
-      "word": "中国文化遗产有多绝",
-      "onboard_time": 1716382219,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50763,
       "num": 164605,
       "word": "揭秘胶原抗老真相",
@@ -61520,14 +61720,6 @@
       "word": "520惊喜开箱华为门店",
       "onboard_time": 1715667139,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23378,
-      "num": 98423,
-      "word": "货车司机停高速口煮面交警耐心等吃完",
-      "onboard_time": 1716420556,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
