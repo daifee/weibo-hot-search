@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716471268903,
+  "endTime": 1716473867622,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2102905,
+      "num": 1985702,
+      "word": "狐妖剧情 无聊",
+      "onboard_time": 1716467959,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2051376,
       "num": 2051376,
       "word": "以色列发文嘲讽伊朗总统直升机事故",
@@ -243,11 +251,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1985702,
-      "num": 1985702,
-      "word": "狐妖剧情 无聊",
-      "onboard_time": 1716467959,
-      "rank": 6,
+      "raw_hot": 1979404,
+      "num": 1979404,
+      "word": "苍兰诀",
+      "onboard_time": 1716468859,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -329,14 +337,6 @@
       "onboard_time": 1716428657,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1712504,
-      "num": 607516,
-      "word": "苍兰诀",
-      "onboard_time": 1716468859,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1708985,
@@ -473,6 +473,14 @@
       "onboard_time": 1716084616,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1512177,
+      "num": 503143,
+      "word": "多位台湾艺人表态支持祖国统一",
+      "onboard_time": 1716457520,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1499408,
@@ -705,14 +713,6 @@
       "onboard_time": 1716435259,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1240833,
-      "num": 503143,
-      "word": "多位台湾艺人表态支持祖国统一",
-      "onboard_time": 1716457520,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1239319,
@@ -1315,6 +1315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 845911,
+      "num": 210588,
+      "word": "母亲带患甲流儿子到瑜伽馆放血灌肠",
+      "onboard_time": 1716471980,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 845386,
       "num": 683412,
       "word": "王红权星曾称全身没8位数不出门",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1716456799,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 789361,
+      "num": 236799,
+      "word": "身体3个部位越干净越长寿",
+      "onboard_time": 1716470540,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 783411,
@@ -3379,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436190,
+      "num": 383871,
+      "word": "TES官宣教练Maokai加入",
+      "onboard_time": 1716471321,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 435318,
       "num": 435318,
       "word": "伊朗对载有总统的事故直升机全力搜救",
@@ -3921,6 +3945,14 @@
       "onboard_time": 1716269900,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383308,
+      "num": 383308,
+      "word": "当年去韩国旅游的人嘴是真严",
+      "onboard_time": 1716471560,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 382900,
@@ -4931,6 +4963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300858,
+      "num": 245646,
+      "word": "抿嘴",
+      "onboard_time": 1716470300,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299802,
       "num": 299802,
       "word": "小米回应SU7保费比玛莎拉蒂更贵",
@@ -5435,6 +5475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270696,
+      "num": 210124,
+      "word": "涂山雅雅人设",
+      "onboard_time": 1716471860,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270459,
       "num": 270459,
       "word": "以为是格莱美结果是歌手",
@@ -5713,14 +5761,6 @@
       "onboard_time": 1716109817,
       "rank": 33,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 253494,
-      "num": 245646,
-      "word": "抿嘴",
-      "onboard_time": 1716470300,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 253291,
@@ -6003,6 +6043,14 @@
       "category": "社会新闻,社会议题"
     },
     {
+      "raw_hot": 238730,
+      "num": 209326,
+      "word": "庆余年同福客栈",
+      "onboard_time": 1716472100,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238224,
       "num": 238224,
       "word": "沈月这是上恋综还是上课",
@@ -6049,14 +6097,6 @@
       "onboard_time": 1716373340,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236799,
-      "num": 236799,
-      "word": "身体3个部位越干净越长寿",
-      "onboard_time": 1716470540,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 236503,
@@ -6859,6 +6899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 207441,
+      "num": 207441,
+      "word": "易烊千玺不辞星海舞台",
+      "onboard_time": 1716470961,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207081,
       "num": 207081,
       "word": "阿森纳vs埃弗顿",
@@ -6929,6 +6977,14 @@
       "onboard_time": 1716118097,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 205790,
+      "num": 205790,
+      "word": "澡堂子滤镜",
+      "onboard_time": 1716471620,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 205754,
@@ -7273,6 +7329,14 @@
       "onboard_time": 1716127761,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199655,
+      "num": 199655,
+      "word": "五月天演唱会舞美",
+      "onboard_time": 1716473300,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 199509,
@@ -7811,14 +7875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191188,
-      "num": 116109,
-      "word": "易烊千玺不辞星海舞台",
-      "onboard_time": 1716470961,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191123,
       "num": 191123,
       "word": "520怎么过",
@@ -8041,6 +8097,14 @@
       "onboard_time": 1716462020,
       "rank": 31,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 186171,
+      "num": 186171,
+      "word": "宝宝仙侠",
+      "onboard_time": 1716473481,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 185876,
@@ -8507,6 +8571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175552,
+      "num": 175552,
+      "word": "玉娇龙回戛纳了",
+      "onboard_time": 1716470961,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175521,
       "num": 175521,
       "word": "张若昀为什么不能改名叫张姐",
@@ -8553,6 +8625,14 @@
       "onboard_time": 1716375138,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174081,
+      "num": 174081,
+      "word": "狐妖热度破6000",
+      "onboard_time": 1716472640,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 174009,
@@ -8931,6 +9011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165640,
+      "num": 209712,
+      "word": "大批国货已迈入百万俱乐部",
+      "onboard_time": 1716473061,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165426,
       "num": 138620,
       "word": "龚俊紧急撤回一个不礼貌",
@@ -9289,6 +9377,14 @@
       "onboard_time": 1716250819,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158785,
+      "num": 199799,
+      "word": "上海2023年总和生育率0.6",
+      "onboard_time": 1716471259,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158646,
@@ -9929,14 +10025,6 @@
       "onboard_time": 1716288799,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147978,
-      "num": 111073,
-      "word": "玉娇龙回戛纳了",
-      "onboard_time": 1716470961,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 147624,
@@ -12665,6 +12753,14 @@
       "onboard_time": 1716218838,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97979,
+      "num": 395146,
+      "word": "防晒衣并不是越贵越好",
+      "onboard_time": 1716472819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97745,

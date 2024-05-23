@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716471268903,
+  "endTime": 1716473867622,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -27,11 +27,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1985702,
+      "raw_hot": 2102905,
       "num": 1985702,
       "word": "狐妖剧情 无聊",
       "onboard_time": 1716467959,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1979404,
+      "num": 1979404,
+      "word": "苍兰诀",
+      "onboard_time": 1716468859,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1716428657,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1712504,
-      "num": 607516,
-      "word": "苍兰诀",
-      "onboard_time": 1716468859,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1620161,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1512177,
+      "num": 503143,
+      "word": "多位台湾艺人表态支持祖国统一",
+      "onboard_time": 1716457520,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1456657,
       "num": 980758,
       "word": "孙俪长文",
@@ -153,14 +161,6 @@
       "onboard_time": 1716435259,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1240833,
-      "num": 503143,
-      "word": "多位台湾艺人表态支持祖国统一",
-      "onboard_time": 1716457520,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1239319,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 845911,
+      "num": 210588,
+      "word": "母亲带患甲流儿子到瑜伽馆放血灌肠",
+      "onboard_time": 1716471980,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844766,
       "num": 844766,
       "word": "中国海警发声",
@@ -337,6 +345,14 @@
       "onboard_time": 1716456799,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 789361,
+      "num": 236799,
+      "word": "身体3个部位越干净越长寿",
+      "onboard_time": 1716470540,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 780051,
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436190,
+      "num": 383871,
+      "word": "TES官宣教练Maokai加入",
+      "onboard_time": 1716471321,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 434496,
       "num": 434496,
       "word": "刘亦菲随手一截都是头像",
@@ -841,6 +865,14 @@
       "onboard_time": 1716448580,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 383308,
+      "num": 383308,
+      "word": "当年去韩国旅游的人嘴是真严",
+      "onboard_time": 1716471560,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 370450,
@@ -1035,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300858,
+      "num": 245646,
+      "word": "抿嘴",
+      "onboard_time": 1716470300,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300497,
       "num": 300497,
       "word": "安室透 安陵容",
@@ -1147,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270696,
+      "num": 210124,
+      "word": "涂山雅雅人设",
+      "onboard_time": 1716471860,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270406,
       "num": 270406,
       "word": "秦岚机场",
@@ -1195,14 +1243,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 253494,
-      "num": 245646,
-      "word": "抿嘴",
-      "onboard_time": 1716470300,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253128,
       "num": 221563,
       "word": "刘亦菲彭冠英背后抱吻戏",
@@ -1243,12 +1283,12 @@
       "category": "社会新闻,社会议题"
     },
     {
-      "raw_hot": 236799,
-      "num": 236799,
-      "word": "身体3个部位越干净越长寿",
-      "onboard_time": 1716470540,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 238730,
+      "num": 209326,
+      "word": "庆余年同福客栈",
+      "onboard_time": 1716472100,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 236332,
@@ -1443,6 +1483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207441,
+      "num": 207441,
+      "word": "易烊千玺不辞星海舞台",
+      "onboard_time": 1716470961,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206835,
       "num": 206835,
       "word": "怀孕的流浪猫爬28楼求助",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1716445219,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 205790,
+      "num": 205790,
+      "word": "澡堂子滤镜",
+      "onboard_time": 1716471620,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 203538,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1716469340,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199655,
+      "num": 199655,
+      "word": "五月天演唱会舞美",
+      "onboard_time": 1716473300,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 198863,
@@ -1603,14 +1667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191188,
-      "num": 116109,
-      "word": "易烊千玺不辞星海舞台",
-      "onboard_time": 1716470961,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190973,
       "num": 190973,
       "word": "联合利剑",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1716462020,
       "rank": 31,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 186171,
+      "num": 186171,
+      "word": "宝宝仙侠",
+      "onboard_time": 1716473481,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 185426,
@@ -1761,6 +1825,22 @@
       "onboard_time": 1716405613,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175552,
+      "num": 175552,
+      "word": "玉娇龙回戛纳了",
+      "onboard_time": 1716470961,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 174081,
+      "num": 174081,
+      "word": "狐妖热度破6000",
+      "onboard_time": 1716472640,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 173932,
@@ -1907,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165640,
+      "num": 209712,
+      "word": "大批国货已迈入百万俱乐部",
+      "onboard_time": 1716473061,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165426,
       "num": 138620,
       "word": "龚俊紧急撤回一个不礼貌",
@@ -1985,6 +2073,14 @@
       "onboard_time": 1716469760,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158785,
+      "num": 199799,
+      "word": "上海2023年总和生育率0.6",
+      "onboard_time": 1716471259,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158152,
@@ -2121,14 +2217,6 @@
       "onboard_time": 1716426619,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147978,
-      "num": 111073,
-      "word": "玉娇龙回戛纳了",
-      "onboard_time": 1716470961,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 147624,
@@ -2617,6 +2705,14 @@
       "onboard_time": 1716467359,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97979,
+      "num": 395146,
+      "word": "防晒衣并不是越贵越好",
+      "onboard_time": 1716472819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96477,
