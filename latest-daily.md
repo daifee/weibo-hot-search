@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/24 00:24:45 ~ 2024/05/24 03:34:33
+本榜单时间：2024/05/24 00:24:45 ~ 2024/05/24 04:20:06
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ TES官宣教练Maokai加入（热度：70483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E5%9B%BD%E5%90%8E%E6%9C%88%E8%96%AA7000%23" target="weibo">
+百万留学回国后月薪7000（热度：22915）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%AC%A1%E5%85%83%E8%A2%AB%E5%81%B7%E5%AE%B6%E6%AF%AB%E5%8F%91%E6%97%A0%E4%BC%A4%23" target="weibo">
 二次元被偷家毫发无伤（热度：21026）
 </a>
@@ -371,6 +377,12 @@ TES官宣教练Maokai加入（热度：70483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%94%B1%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98OST%23" target="weibo">
 周深唱狐妖小红娘OST（热度：16772）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%BA%A2%E7%BA%A2%20%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88%23" target="weibo">
+涂山红红 遥遥领先（热度：16607）
 </a>
 </li>
 
