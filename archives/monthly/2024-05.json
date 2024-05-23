@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716467649390,
+  "endTime": 1716468552759,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -4987,6 +4987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 985132,
+      "num": 985132,
+      "word": "狐妖 好大的滤镜",
+      "onboard_time": 1716466939,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 984312,
       "num": 377709,
       "word": "鸭嘴钳",
@@ -5777,6 +5785,14 @@
       "onboard_time": 1716170897,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 898599,
+      "num": 469832,
+      "word": "侯佩岑",
+      "onboard_time": 1716466459,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 897035,
@@ -6940,7 +6956,7 @@
     },
     {
       "raw_hot": 809296,
-      "num": 462980,
+      "num": 503143,
       "word": "多位台湾艺人表态支持祖国统一",
       "onboard_time": 1716457520,
       "rank": 12,
@@ -9771,6 +9787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 653045,
+      "num": 494639,
+      "word": "狐妖剧情 无聊",
+      "onboard_time": 1716467959,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 652998,
       "num": 652998,
       "word": "火烧云",
@@ -12140,7 +12164,7 @@
     },
     {
       "raw_hot": 552370,
-      "num": 282485,
+      "num": 410296,
       "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
       "onboard_time": 1716461719,
       "rank": 23,
@@ -12608,6 +12632,14 @@
       "word": "井柏然夸刘雯素颜太好看了",
       "onboard_time": 1715311938,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 539389,
+      "num": 459491,
+      "word": "王一栩",
+      "onboard_time": 1716467240,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -13235,14 +13267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 514344,
-      "num": 448342,
-      "word": "侯佩岑",
-      "onboard_time": 1716466459,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 514314,
       "num": 514314,
       "word": "又幸福了纯爱大皇子",
@@ -13305,6 +13329,14 @@
       "onboard_time": 1715816176,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 512179,
+      "num": 450414,
+      "word": "小鬼导师人气倒数第二",
+      "onboard_time": 1716465499,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 511961,
@@ -13673,6 +13705,14 @@
       "onboard_time": 1715005520,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503474,
+      "num": 503474,
+      "word": "月亮",
+      "onboard_time": 1716466818,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 503298,
@@ -15859,14 +15899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 446701,
-      "num": 446701,
-      "word": "小鬼导师人气倒数第二",
-      "onboard_time": 1716465499,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 446345,
       "num": 471737,
       "word": "外卖小哥陪瘫痪女子吃饭多年直到女子离世",
@@ -16505,6 +16537,14 @@
       "onboard_time": 1715093181,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430633,
+      "num": 430633,
+      "word": "国台办回应解放军位台岛周边演习",
+      "onboard_time": 1716463878,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 430461,
@@ -19131,14 +19171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378361,
-      "num": 219009,
-      "word": "狐妖 好大的滤镜",
-      "onboard_time": 1716466939,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 377621,
       "num": 377621,
       "word": "美歌手持枪拍视频意外自杀",
@@ -21259,20 +21291,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 336913,
-      "num": 336913,
-      "word": "月亮",
-      "onboard_time": 1716466818,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 336495,
       "num": 336495,
       "word": "福宝逐步适应群体生活",
       "onboard_time": 1715837958,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336250,
+      "num": 197907,
+      "word": "狐妖 磨皮",
+      "onboard_time": 1716467419,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 336015,
@@ -22171,6 +22203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323001,
+      "num": 208368,
+      "word": "李佳琦唱跳 蕾哈娜带货",
+      "onboard_time": 1716466759,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322796,
       "num": 322796,
       "word": "全员加速中",
@@ -22995,6 +23035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308719,
+      "num": 195258,
+      "word": "张馨予玄学",
+      "onboard_time": 1716467959,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308717,
       "num": 308717,
       "word": "森林狼打爆掘金",
@@ -23121,14 +23169,6 @@
       "onboard_time": 1714998258,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 307424,
-      "num": 307424,
-      "word": "国台办回应解放军位台岛周边演习",
-      "onboard_time": 1716463878,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 307357,
@@ -25931,14 +25971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 269144,
-      "num": 211583,
-      "word": "王一栩",
-      "onboard_time": 1716467240,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269053,
       "num": 196784,
       "word": "华语乐坛",
@@ -26345,14 +26377,6 @@
       "onboard_time": 1714488980,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264494,
-      "num": 208368,
-      "word": "李佳琦唱跳 蕾哈娜带货",
-      "onboard_time": 1716466759,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 264424,
@@ -34715,6 +34739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200995,
+      "num": 191893,
+      "word": "刘诗诗支持狐妖",
+      "onboard_time": 1716468259,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200960,
       "num": 193127,
       "word": "张杰高飞舞台",
@@ -35465,6 +35497,14 @@
       "onboard_time": 1714976120,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198287,
+      "num": 198287,
+      "word": "台岛周边演习现场画面",
+      "onboard_time": 1716468439,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 198268,
@@ -37635,6 +37675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190870,
+      "num": 190870,
+      "word": "龚俊喊话杨幂郭晓婷胡连馨儿",
+      "onboard_time": 1716467779,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190836,
       "num": 190836,
       "word": "为何拖鞋怎么换都滂臭",
@@ -38195,6 +38243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188914,
+      "num": 156539,
+      "word": "刘亦菲彭冠英背后抱吻戏",
+      "onboard_time": 1716467478,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188900,
       "num": 188900,
       "word": "联合国官网报道王一博",
@@ -38297,14 +38353,6 @@
       "onboard_time": 1714705459,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188316,
-      "num": 188316,
-      "word": "狐妖 磨皮",
-      "onboard_time": 1716467419,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 188314,
@@ -39056,6 +39104,14 @@
       "word": "与凤行庆功宴",
       "onboard_time": 1716366798,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185139,
+      "num": 154666,
+      "word": "审判狐妖月红篇",
+      "onboard_time": 1716468379,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -40507,6 +40563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178030,
+      "num": 481373,
+      "word": "住了25年的房子被拍卖法官上门惊呆了",
+      "onboard_time": 1716463938,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178025,
       "num": 156021,
       "word": "成毅给村民送礼物",
@@ -41939,14 +42003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172427,
-      "num": 457686,
-      "word": "住了25年的房子被拍卖法官上门惊呆了",
-      "onboard_time": 1716463938,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172393,
       "num": 172393,
       "word": "熊猫家园直播",
@@ -43193,6 +43249,14 @@
       "onboard_time": 1716290117,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166969,
+      "num": 139387,
+      "word": "张若昀是不是每天晚上在家背梗",
+      "onboard_time": 1716467718,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 166963,
@@ -46273,14 +46337,6 @@
       "onboard_time": 1715129542,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153911,
-      "num": 153911,
-      "word": "刘亦菲彭冠英背后抱吻戏",
-      "onboard_time": 1716467478,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 153896,
@@ -62659,6 +62715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 38354,
+      "num": 293539,
+      "word": "初夏老钱风诚不欺我",
+      "onboard_time": 1716465921,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 38321,
       "num": 615034,
       "word": "第二次生命为足球而活",
@@ -63265,14 +63329,6 @@
       "onboard_time": 1714848433,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27499,
-      "num": 293539,
-      "word": "初夏老钱风诚不欺我",
-      "onboard_time": 1716465921,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 27323,
@@ -64241,6 +64297,14 @@
       "onboard_time": 1715793253,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10221,
+      "num": 133349,
+      "word": "M字刘海男又添一员",
+      "onboard_time": 1716468078,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 10167,

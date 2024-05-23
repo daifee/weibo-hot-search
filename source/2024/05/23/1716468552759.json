@@ -1,0 +1,410 @@
+{
+  "runTime": 1716468552759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1158517,
+        "num": 1158517,
+        "word": "解放军喊话台舰不要为台独卖命",
+        "onboard_time": 1716463218,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 985132,
+        "num": 985132,
+        "word": "狐妖 好大的滤镜",
+        "onboard_time": 1716466939,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15724,
+        "num": 515747,
+        "word": "第20届文博会",
+        "onboard_time": 1716442278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503474,
+        "num": 503474,
+        "word": "月亮",
+        "onboard_time": 1716466818,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 737206,
+        "num": 503143,
+        "word": "多位台湾艺人表态支持祖国统一",
+        "onboard_time": 1716457520,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502004,
+        "num": 502004,
+        "word": "四川地震",
+        "onboard_time": 1716455059,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653045,
+        "num": 494639,
+        "word": "狐妖剧情 无聊",
+        "onboard_time": 1716467959,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607415,
+        "num": 494169,
+        "word": "胡连馨漂亮",
+        "onboard_time": 1716461899,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485349,
+        "num": 485349,
+        "word": "罗森退市",
+        "onboard_time": 1716456321,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178030,
+        "num": 481373,
+        "word": "住了25年的房子被拍卖法官上门惊呆了",
+        "onboard_time": 1716463938,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898599,
+        "num": 469832,
+        "word": "侯佩岑",
+        "onboard_time": 1716466459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539389,
+        "num": 459491,
+        "word": "王一栩",
+        "onboard_time": 1716467240,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512179,
+        "num": 450414,
+        "word": "小鬼导师人气倒数第二",
+        "onboard_time": 1716465499,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441779,
+        "num": 441779,
+        "word": "福大回应女生在校内电梯遭男生猥亵",
+        "onboard_time": 1716463519,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430633,
+        "num": 430633,
+        "word": "国台办回应解放军位台岛周边演习",
+        "onboard_time": 1716463878,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 472217,
+        "num": 410296,
+        "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
+        "onboard_time": 1716461719,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311079,
+        "num": 311079,
+        "word": "福州大学一男生猥亵女生",
+        "onboard_time": 1716459499,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38354,
+        "num": 256488,
+        "word": "初夏老钱风诚不欺我",
+        "onboard_time": 1716465921,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 245122,
+        "num": 245122,
+        "word": "刘强东微信群跨国操盘京东",
+        "onboard_time": 1716456799,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200996,
+        "num": 200996,
+        "word": "此次台岛周边联合演习有何特点",
+        "onboard_time": 1716435259,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1453359,
+        "num": 200811,
+        "word": "台湾艺人",
+        "onboard_time": 1716453979,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441762,
+        "num": 200102,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1716459078,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422616,
+        "num": 199295,
+        "word": "左航小作文",
+        "onboard_time": 1716465139,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400480,
+        "num": 198606,
+        "word": "杨幂 配音",
+        "onboard_time": 1716461299,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198287,
+        "num": 198287,
+        "word": "台岛周边演习现场画面",
+        "onboard_time": 1716468439,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336250,
+        "num": 197907,
+        "word": "狐妖 磨皮",
+        "onboard_time": 1716467419,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323001,
+        "num": 196066,
+        "word": "李佳琦唱跳 蕾哈娜带货",
+        "onboard_time": 1716466759,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308719,
+        "num": 195258,
+        "word": "张馨予玄学",
+        "onboard_time": 1716467959,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261791,
+        "num": 193530,
+        "word": "刘亦菲都演妈妈了",
+        "onboard_time": 1716456740,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240457,
+        "num": 192922,
+        "word": "江苏诞生一位千万富翁",
+        "onboard_time": 1716466339,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200995,
+        "num": 191893,
+        "word": "刘诗诗支持狐妖",
+        "onboard_time": 1716468259,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190870,
+        "num": 190870,
+        "word": "龚俊喊话杨幂郭晓婷胡连馨儿",
+        "onboard_time": 1716467779,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176841,
+        "num": 176841,
+        "word": "长期烧水和买桶装水喝哪个更健康",
+        "onboard_time": 1716456498,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 157018,
+        "num": 157018,
+        "word": "林高远1比3黄镇廷",
+        "onboard_time": 1716466100,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156967,
+        "num": 156967,
+        "word": "五条悟尸体被操控",
+        "onboard_time": 1716436700,
+        "rank": 34,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 188914,
+        "num": 156539,
+        "word": "刘亦菲彭冠英背后抱吻戏",
+        "onboard_time": 1716467478,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185139,
+        "num": 154666,
+        "word": "审判狐妖月红篇",
+        "onboard_time": 1716468379,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150628,
+        "num": 150628,
+        "word": "读研真是三天小emo五天大emo",
+        "onboard_time": 1716462020,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150296,
+        "num": 150296,
+        "word": "福州大学",
+        "onboard_time": 1716456979,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 139580,
+        "num": 139580,
+        "word": "外交部回应美军方担忧解放军围台演习",
+        "onboard_time": 1716463819,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177336,
+        "num": 139497,
+        "word": "雪见大战重楼",
+        "onboard_time": 1716465197,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166969,
+        "num": 139387,
+        "word": "张若昀是不是每天晚上在家背梗",
+        "onboard_time": 1716467718,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162886,
+        "num": 139336,
+        "word": "林更新玫瑰的故事特邀主演",
+        "onboard_time": 1716467179,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165039,
+        "num": 139138,
+        "word": "涂山我罩的 懂",
+        "onboard_time": 1716460400,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145102,
+        "num": 139110,
+        "word": "亚当刘柏辛吃米粉被偶遇",
+        "onboard_time": 1716457939,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139018,
+        "num": 139018,
+        "word": "这是对台独分裂行径的有力惩戒",
+        "onboard_time": 1716428657,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134455,
+        "num": 134455,
+        "word": "新人三天没带水杯来",
+        "onboard_time": 1716460458,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133509,
+        "num": 133509,
+        "word": "曝李胜利将在香港开夜店",
+        "onboard_time": 1716456560,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133368,
+        "num": 133368,
+        "word": "五旬老太 静可攻那可守",
+        "onboard_time": 1716464057,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10221,
+        "num": 133349,
+        "word": "M字刘海男又添一员",
+        "onboard_time": 1716468078,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山东日照市考察调研#"
+    }
+  }
+}

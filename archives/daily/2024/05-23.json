@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716467649390,
+  "endTime": 1716468552759,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -187,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 985132,
+      "num": 985132,
+      "word": "狐妖 好大的滤镜",
+      "onboard_time": 1716466939,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 982528,
       "num": 860832,
       "word": "阮经天妈妈去世",
@@ -225,6 +233,14 @@
       "onboard_time": 1716438740,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 898599,
+      "num": 469832,
+      "word": "侯佩岑",
+      "onboard_time": 1716466459,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 890860,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 809296,
-      "num": 462980,
+      "num": 503143,
       "word": "多位台湾艺人表态支持祖国统一",
       "onboard_time": 1716457520,
       "rank": 12,
@@ -369,6 +385,14 @@
       "onboard_time": 1716434239,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653045,
+      "num": 494639,
+      "word": "狐妖剧情 无聊",
+      "onboard_time": 1716467959,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 647177,
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 552370,
-      "num": 282485,
+      "num": 410296,
       "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
       "onboard_time": 1716461719,
       "rank": 23,
@@ -504,6 +528,14 @@
       "word": "李承泽未承受半分恩泽",
       "onboard_time": 1716395356,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 539389,
+      "num": 459491,
+      "word": "王一栩",
+      "onboard_time": 1716467240,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -555,14 +587,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 514344,
-      "num": 448342,
-      "word": "侯佩岑",
-      "onboard_time": 1716466459,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 513975,
       "num": 513975,
       "word": "前央视解说员田宗琦去世",
@@ -571,12 +595,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 512179,
+      "num": 450414,
+      "word": "小鬼导师人气倒数第二",
+      "onboard_time": 1716465499,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507207,
       "num": 507207,
       "word": "英国首相宣布于7月4日举行大选",
       "onboard_time": 1716422959,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 503474,
+      "num": 503474,
+      "word": "月亮",
+      "onboard_time": 1716466818,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 499252,
@@ -667,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 446701,
-      "num": 446701,
-      "word": "小鬼导师人气倒数第二",
-      "onboard_time": 1716465499,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 444844,
       "num": 444844,
       "word": "学校回应12岁女生短跑昏迷后离世",
@@ -689,6 +721,14 @@
       "onboard_time": 1716455240,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430633,
+      "num": 430633,
+      "word": "国台办回应解放军位台岛周边演习",
+      "onboard_time": 1716463878,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 424729,
@@ -763,14 +803,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 378361,
-      "num": 219009,
-      "word": "狐妖 好大的滤镜",
-      "onboard_time": 1716466939,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 370450,
       "num": 370450,
       "word": "轻断食一天吃了11根玉米",
@@ -835,12 +867,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 336913,
-      "num": 336913,
-      "word": "月亮",
-      "onboard_time": 1716466818,
-      "rank": 15,
-      "category": "情感"
+      "raw_hot": 336250,
+      "num": 197907,
+      "word": "狐妖 磨皮",
+      "onboard_time": 1716467419,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 328292,
@@ -891,6 +923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323001,
+      "num": 208368,
+      "word": "李佳琦唱跳 蕾哈娜带货",
+      "onboard_time": 1716466759,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321084,
       "num": 279272,
       "word": "云包场崩了",
@@ -931,12 +971,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 307424,
-      "num": 307424,
-      "word": "国台办回应解放军位台岛周边演习",
-      "onboard_time": 1716463878,
-      "rank": 43,
-      "category": "国内时政"
+      "raw_hot": 308719,
+      "num": 195258,
+      "word": "张馨予玄学",
+      "onboard_time": 1716467959,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 305377,
@@ -1067,14 +1107,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 269144,
-      "num": 211583,
-      "word": "王一栩",
-      "onboard_time": 1716467240,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267498,
       "num": 267498,
       "word": "刘亦菲拍恋爱通告没化妆",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1716441020,
       "rank": 24,
       "category": "美食,游戏"
-    },
-    {
-      "raw_hot": 264494,
-      "num": 208368,
-      "word": "李佳琦唱跳 蕾哈娜带货",
-      "onboard_time": 1716466759,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 263082,
@@ -1379,6 +1403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200995,
+      "num": 191893,
+      "word": "刘诗诗支持狐妖",
+      "onboard_time": 1716468259,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198863,
       "num": 198863,
       "word": "mlxg与小微笑红温互怼",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1716458120,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198287,
+      "num": 198287,
+      "word": "台岛周边演习现场画面",
+      "onboard_time": 1716468439,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 195546,
@@ -1483,6 +1523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 190870,
+      "num": 190870,
+      "word": "龚俊喊话杨幂郭晓婷胡连馨儿",
+      "onboard_time": 1716467779,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190751,
       "num": 761413,
       "word": "我在美国卖三蹦子日进斗金",
@@ -1507,20 +1555,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188914,
+      "num": 156539,
+      "word": "刘亦菲彭冠英背后抱吻戏",
+      "onboard_time": 1716467478,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188408,
       "num": 188408,
       "word": "HPV疫苗价格大跳水",
       "onboard_time": 1716362779,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 188316,
-      "num": 188316,
-      "word": "狐妖 磨皮",
-      "onboard_time": 1716467419,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 186451,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1716390200,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 185139,
+      "num": 154666,
+      "word": "审判狐妖月红篇",
+      "onboard_time": 1716468379,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 184500,
@@ -1561,6 +1617,14 @@
       "onboard_time": 1716445518,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 178030,
+      "num": 481373,
+      "word": "住了25年的房子被拍卖法官上门惊呆了",
+      "onboard_time": 1716463938,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177699,
@@ -1659,14 +1723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 172427,
-      "num": 457686,
-      "word": "住了25年的房子被拍卖法官上门惊呆了",
-      "onboard_time": 1716463938,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171813,
       "num": 171813,
       "word": "王源cha汪苏泷十万伏特",
@@ -1737,6 +1793,14 @@
       "onboard_time": 1716382878,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166969,
+      "num": 139387,
+      "word": "张若昀是不是每天晚上在家背梗",
+      "onboard_time": 1716467718,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 166349,
@@ -1905,14 +1969,6 @@
       "onboard_time": 1716386479,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153911,
-      "num": 153911,
-      "word": "刘亦菲彭冠英背后抱吻戏",
-      "onboard_time": 1716467478,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 153241,
@@ -2755,6 +2811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 38354,
+      "num": 293539,
+      "word": "初夏老钱风诚不欺我",
+      "onboard_time": 1716465921,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 38321,
       "num": 615034,
       "word": "第二次生命为足球而活",
@@ -2769,14 +2833,6 @@
       "onboard_time": 1716459141,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 27499,
-      "num": 293539,
-      "word": "初夏老钱风诚不欺我",
-      "onboard_time": 1716465921,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 25041,
@@ -2857,6 +2913,14 @@
       "onboard_time": 1716411131,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10221,
+      "num": 133349,
+      "word": "M字刘海男又添一员",
+      "onboard_time": 1716468078,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 6224,
