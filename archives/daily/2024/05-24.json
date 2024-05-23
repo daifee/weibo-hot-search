@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716499034825,
+  "endTime": 1716500100723,
   "band_list": [
     {
       "raw_hot": 1894273,
@@ -315,6 +315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113252,
+      "num": 113252,
+      "word": "百万留学回国后月薪7000",
+      "onboard_time": 1716494471,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110997,
       "num": 100396,
       "word": "杨幂 配音",
@@ -353,14 +361,6 @@
       "onboard_time": 1716472100,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102815,
-      "num": 102815,
-      "word": "百万留学回国后月薪7000",
-      "onboard_time": 1716494471,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92973,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 39611,
-      "num": 23459,
+      "num": 23582,
       "word": "当小女孩知道舅舅听不了呕吐声",
       "onboard_time": 1716495731,
       "rank": 36,
@@ -465,6 +465,14 @@
       "onboard_time": 1716487332,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25880,
+      "num": 25880,
+      "word": "涂山红红 遥遥领先",
+      "onboard_time": 1716494412,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 24054,
@@ -491,12 +499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19173,
-      "num": 19657,
-      "word": "涂山红红 遥遥领先",
-      "onboard_time": 1716494412,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 19664,
+      "num": 19664,
+      "word": "张颂文重现狂飙鱼摊名场面",
+      "onboard_time": 1716499150,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 16772,
@@ -507,20 +515,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16315,
+      "num": 18412,
+      "word": "网文网剧网游文旅的顶流在这儿齐聚",
+      "onboard_time": 1716496451,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 16093,
       "num": 428334,
       "word": "文化企业30强",
       "onboard_time": 1716469700,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14045,
-      "num": 16661,
-      "word": "网文网剧网游文旅的顶流在这儿齐聚",
-      "onboard_time": 1716496451,
-      "rank": 49,
-      "category": "读书作家"
     },
     {
       "raw_hot": 12753,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 11684,
-      "num": 37031,
+      "num": 40349,
       "word": "拿回失物后姑娘对着街边摄像头比心",
       "onboard_time": 1716488951,
       "rank": 44,
