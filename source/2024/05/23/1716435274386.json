@@ -1,0 +1,410 @@
+{
+  "runTime": 1716435274386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1450513,
+        "num": 1450513,
+        "word": "这是对台独分裂行径的有力惩戒",
+        "onboard_time": 1716428657,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1230891,
+        "num": 1230891,
+        "word": "31岁放弃编制工作后我怎样了",
+        "onboard_time": 1716429018,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40000,
+        "num": 1102314,
+        "word": "中国文化遗产有多绝",
+        "onboard_time": 1716382219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070872,
+        "num": 1070872,
+        "word": "龚俊 版权救了我们",
+        "onboard_time": 1716428538,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 889081,
+        "num": 889081,
+        "word": "东部战区发布组合海报越海杀器",
+        "onboard_time": 1716431057,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 844766,
+        "num": 844766,
+        "word": "中国海警发声",
+        "onboard_time": 1716431897,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 706675,
+        "num": 706675,
+        "word": "霸王茶姬万里木兰不建议晚上喝",
+        "onboard_time": 1716432858,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 696479,
+        "num": 696479,
+        "word": "东部战区位台岛周边开展演习",
+        "onboard_time": 1716422117,
+        "rank": 7,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 710820,
+        "num": 696459,
+        "word": "杨幂说那天哄了龚俊很久",
+        "onboard_time": 1716434478,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101380,
+        "num": 695193,
+        "word": "发现一只偷感很重的大熊猫",
+        "onboard_time": 1716429557,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1620161,
+        "num": 693965,
+        "word": "南村群童欺我老无力",
+        "onboard_time": 1716428718,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1483923,
+        "num": 693042,
+        "word": "第二个N号房事件爆发",
+        "onboard_time": 1716427098,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692779,
+        "num": 692779,
+        "word": "花儿与少年直播",
+        "onboard_time": 1716432377,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 882081,
+        "num": 666349,
+        "word": "此次台岛周边联合演习有何特点",
+        "onboard_time": 1716435259,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38321,
+        "num": 615034,
+        "word": "第二次生命为足球而活",
+        "onboard_time": 1716433218,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 575936,
+        "num": 575936,
+        "word": "解放军台岛周边演习区域示意图",
+        "onboard_time": 1716426498,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 476686,
+        "num": 476686,
+        "word": "前央视解说员田宗琦去世",
+        "onboard_time": 1716430698,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 473930,
+        "num": 473930,
+        "word": "左航 老奶奶",
+        "onboard_time": 1716420016,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437987,
+        "num": 437987,
+        "word": "咒术回战",
+        "onboard_time": 1716434239,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 421000,
+        "num": 421000,
+        "word": "假富豪奢侈品摆拍仅售价几十元",
+        "onboard_time": 1716432559,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482557,
+        "num": 417291,
+        "word": "学生家长出轨校长合谋杀夫一审宣判",
+        "onboard_time": 1716422539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404832,
+        "num": 404832,
+        "word": "哈尔滨一小区发生爆炸阳台被炸飞",
+        "onboard_time": 1716434239,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392983,
+        "num": 392983,
+        "word": "这是对外部势力干涉挑衅的严重警告",
+        "onboard_time": 1716432858,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391400,
+        "num": 391400,
+        "word": "阮经天妈妈去世",
+        "onboard_time": 1716419955,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330276,
+        "num": 330276,
+        "word": "吃火锅不能穿白衣服魔咒被破解",
+        "onboard_time": 1716428298,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 328292,
+        "num": 328292,
+        "word": "李凯尔爆了",
+        "onboard_time": 1716433940,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323767,
+        "num": 323767,
+        "word": "林更新说关晓彤长得不对焦",
+        "onboard_time": 1716434419,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311666,
+        "num": 311666,
+        "word": "鸣潮",
+        "onboard_time": 1716424219,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293495,
+        "num": 293495,
+        "word": "易烊千玺于适同框照",
+        "onboard_time": 1716435200,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283931,
+        "num": 283931,
+        "word": "龚俊薅到杨幂",
+        "onboard_time": 1716427878,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278709,
+        "num": 278709,
+        "word": "刘亦菲在西班牙压马路",
+        "onboard_time": 1716424280,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260978,
+        "num": 260978,
+        "word": "鸣潮开服",
+        "onboard_time": 1716427639,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259853,
+        "num": 259853,
+        "word": "福建海警舰艇编队开展综合执法演练",
+        "onboard_time": 1716427579,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258301,
+        "num": 258301,
+        "word": "马斯克被曝与谷歌创始人前妻一起吸毒",
+        "onboard_time": 1716435138,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 234973,
+        "num": 234973,
+        "word": "12岁男孩目睹刑案后失联已身亡",
+        "onboard_time": 1716435078,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221592,
+        "num": 221592,
+        "word": "刘亦菲罗马大屏",
+        "onboard_time": 1716433279,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58985,
+        "num": 220387,
+        "word": "深蓝CEO称硬派的燃油时代结束了",
+        "onboard_time": 1716429978,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 219260,
+        "num": 219260,
+        "word": "庆帝 李云龙",
+        "onboard_time": 1716420496,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211166,
+        "num": 211166,
+        "word": "歌手关注约翰传奇",
+        "onboard_time": 1716434538,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194502,
+        "num": 194502,
+        "word": "花少好友记在线限时选导游",
+        "onboard_time": 1716434359,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195355,
+        "num": 194436,
+        "word": "刘亦菲婚纱剧照",
+        "onboard_time": 1716428177,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194356,
+        "num": 194356,
+        "word": "独行侠1比0森林狼",
+        "onboard_time": 1716434780,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189979,
+        "num": 189979,
+        "word": "杨幂机场出发戛纳",
+        "onboard_time": 1716419715,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175842,
+        "num": 175842,
+        "word": "电脑阅卷太震撼了",
+        "onboard_time": 1716424400,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165787,
+        "num": 165787,
+        "word": "联合利剑",
+        "onboard_time": 1716430217,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156200,
+        "num": 156200,
+        "word": "种地吧",
+        "onboard_time": 1716431658,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155729,
+        "num": 155729,
+        "word": "A股",
+        "onboard_time": 1716429920,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153994,
+        "num": 153994,
+        "word": "狐妖月红篇涂山三姐妹海报",
+        "onboard_time": 1716432078,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149028,
+        "num": 149028,
+        "word": "庆余年 杀疯了",
+        "onboard_time": 1716381318,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148083,
+        "num": 148083,
+        "word": "B站取消播放时长指标外显改版",
+        "onboard_time": 1716391460,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第14届中美旅游高层对话开幕致信#"
+    }
+  }
+}
