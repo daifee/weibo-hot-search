@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716448935086,
+  "endTime": 1716449660326,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1406689,
-      "num": 1406689,
+      "raw_hot": 1421322,
+      "num": 1421322,
       "word": "那英别说了 汪苏泷快碎了",
       "onboard_time": 1716444620,
       "rank": 11,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 905890,
+      "num": 905890,
+      "word": "孙俪长文",
+      "onboard_time": 1716447618,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 889081,
       "num": 889081,
       "word": "东部战区发布组合海报越海杀器",
@@ -235,20 +243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 746774,
+      "num": 510633,
+      "word": "罗翔谈留学生刷了100万信用卡回国",
+      "onboard_time": 1716447738,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687884,
+      "num": 687884,
+      "word": "蕾哈娜在上海认出中国铁粉",
+      "onboard_time": 1716446059,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685836,
       "num": 685836,
       "word": "哈尔滨一小区发生爆炸阳台被炸飞",
       "onboard_time": 1716434239,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 631636,
-      "num": 631636,
-      "word": "蕾哈娜在上海认出中国铁粉",
-      "onboard_time": 1716446059,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 620883,
@@ -275,7 +291,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 568131,
+      "raw_hot": 573972,
       "num": 522271,
       "word": "朴宝蓝尸检报告结果",
       "onboard_time": 1716446478,
@@ -339,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 528464,
-      "num": 528464,
-      "word": "孙俪长文",
-      "onboard_time": 1716447618,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 523333,
       "num": 523333,
       "word": "庆帝 李云龙",
@@ -377,14 +385,6 @@
       "onboard_time": 1716430698,
       "rank": 18,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 510633,
-      "num": 510633,
-      "word": "罗翔谈留学生刷了100万信用卡回国",
-      "onboard_time": 1716447738,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 507207,
@@ -419,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 480169,
+      "num": 480169,
+      "word": "12岁失联男孩尸体被找到",
+      "onboard_time": 1716435078,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479263,
       "num": 479263,
       "word": "那英曾向歌手导演推荐汪苏泷",
@@ -433,14 +441,6 @@
       "onboard_time": 1716438200,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 468909,
-      "num": 468909,
-      "word": "12岁失联男孩尸体被找到",
-      "onboard_time": 1716435078,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452422,
@@ -521,6 +521,14 @@
       "onboard_time": 1716375978,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 368577,
+      "num": 522278,
+      "word": "北大女生靠知网文献把800米练进三分半内",
+      "onboard_time": 1716447258,
+      "rank": 9,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 355298,
@@ -763,14 +771,6 @@
       "category": "美食,游戏"
     },
     {
-      "raw_hot": 260550,
-      "num": 522278,
-      "word": "北大女生靠知网文献把800米练进三分半内",
-      "onboard_time": 1716447258,
-      "rank": 9,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 254617,
       "num": 254617,
       "word": "专家回应不少大人孩子近来嗓子疼",
@@ -859,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222717,
+      "num": 222717,
+      "word": "盖肚脐眼是中国人最后的倔强",
+      "onboard_time": 1716447557,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222700,
       "num": 209188,
       "word": "朱婷悼念田宗琦",
@@ -937,6 +945,14 @@
       "onboard_time": 1716445219,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 202896,
+      "num": 202896,
+      "word": "狂犬病每年杀死多少人",
+      "onboard_time": 1716448580,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 202588,
@@ -1107,14 +1123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175982,
-      "num": 175982,
-      "word": "盖肚脐眼是中国人最后的倔强",
-      "onboard_time": 1716447557,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175904,
       "num": 175904,
       "word": "有点难为杨幂了",
@@ -1179,6 +1187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168873,
+      "num": 168873,
+      "word": "东部战区联合利剑2024A演习剑指台独",
+      "onboard_time": 1716447738,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 167721,
       "num": 167721,
       "word": "吐槽王倦",
@@ -1219,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161951,
-      "num": 161951,
-      "word": "狂犬病每年杀死多少人",
-      "onboard_time": 1716448580,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 161609,
       "num": 161609,
       "word": "黄金白银大幅跳水",
@@ -1257,6 +1265,14 @@
       "onboard_time": 1716426740,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 155239,
+      "num": 155239,
+      "word": "官方回应刮刮乐大面积缺货",
+      "onboard_time": 1716448698,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 154427,
@@ -1427,22 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129452,
-      "num": 129452,
-      "word": "官方回应刮刮乐大面积缺货",
-      "onboard_time": 1716448698,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 128989,
-      "num": 128989,
-      "word": "东部战区联合利剑2024A演习剑指台独",
-      "onboard_time": 1716447738,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 128068,
       "num": 128068,
       "word": "英雄联盟名人堂",
@@ -1569,6 +1569,14 @@
       "onboard_time": 1716439821,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105485,
+      "num": 105485,
+      "word": "头一次见到唱歌还AA制的",
+      "onboard_time": 1716448939,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 104805,
@@ -1937,6 +1945,14 @@
       "onboard_time": 1716405850,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24190,
+      "num": 490048,
+      "word": "AI工具进军杀猪盘",
+      "onboard_time": 1716449419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23666,

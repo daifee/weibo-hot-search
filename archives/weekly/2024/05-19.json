@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716448935086,
+  "endTime": 1716449660326,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -491,6 +491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1421322,
+      "num": 1421322,
+      "word": "那英别说了 汪苏泷快碎了",
+      "onboard_time": 1716444620,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1419911,
       "num": 396466,
       "word": "江西贵溪发生恶性伤人事件",
@@ -505,14 +513,6 @@
       "onboard_time": 1716386479,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1406689,
-      "num": 1406689,
-      "word": "那英别说了 汪苏泷快碎了",
-      "onboard_time": 1716444620,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1405997,
@@ -1107,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 905890,
+      "num": 905890,
+      "word": "孙俪长文",
+      "onboard_time": 1716447618,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 904856,
       "num": 693378,
       "word": "云南一中学生被同学砍杀身亡",
@@ -1539,6 +1547,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 746774,
+      "num": 510633,
+      "word": "罗翔谈留学生刷了100万信用卡回国",
+      "onboard_time": 1716447738,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745181,
       "num": 576211,
       "word": "六公主回应被认成亚当",
@@ -1755,6 +1771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 687884,
+      "num": 687884,
+      "word": "蕾哈娜在上海认出中国铁粉",
+      "onboard_time": 1716446059,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 687393,
       "num": 687393,
       "word": "杨幂 古偶",
@@ -1953,14 +1977,6 @@
       "onboard_time": 1716160515,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 631636,
-      "num": 631636,
-      "word": "蕾哈娜在上海认出中国铁粉",
-      "onboard_time": 1716446059,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 630731,
@@ -2211,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 573972,
+      "num": 522271,
+      "word": "朴宝蓝尸检报告结果",
+      "onboard_time": 1716446478,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571061,
       "num": 571061,
       "word": "吴艳妮12秒80再夺一冠",
@@ -2225,14 +2249,6 @@
       "onboard_time": 1716283579,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 568131,
-      "num": 522271,
-      "word": "朴宝蓝尸检报告结果",
-      "onboard_time": 1716446478,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 568128,
@@ -2403,14 +2419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 528464,
-      "num": 528464,
-      "word": "孙俪长文",
-      "onboard_time": 1716447618,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 527170,
       "num": 527170,
       "word": "蒲熠星南大",
@@ -2505,14 +2513,6 @@
       "onboard_time": 1716249559,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 510633,
-      "num": 510633,
-      "word": "罗翔谈留学生刷了100万信用卡回国",
-      "onboard_time": 1716447738,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 509298,
@@ -2731,6 +2731,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 480169,
+      "num": 480169,
+      "word": "12岁失联男孩尸体被找到",
+      "onboard_time": 1716435078,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479263,
       "num": 479263,
       "word": "那英曾向歌手导演推荐汪苏泷",
@@ -2825,14 +2833,6 @@
       "onboard_time": 1716207197,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 468909,
-      "num": 468909,
-      "word": "12岁失联男孩尸体被找到",
-      "onboard_time": 1716435078,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 466618,
@@ -3713,6 +3713,14 @@
       "onboard_time": 1716083957,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 368577,
+      "num": 522278,
+      "word": "北大女生靠知网文献把800米练进三分半内",
+      "onboard_time": 1716447258,
+      "rank": 9,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 367776,
@@ -5179,14 +5187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260550,
-      "num": 522278,
-      "word": "北大女生靠知网文献把800米练进三分半内",
-      "onboard_time": 1716447258,
-      "rank": 9,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 260099,
       "num": 234143,
       "word": "普通人一定对钱要有概念",
@@ -5867,6 +5867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222717,
+      "num": 222717,
+      "word": "盖肚脐眼是中国人最后的倔强",
+      "onboard_time": 1716447557,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222700,
       "num": 209188,
       "word": "朱婷悼念田宗琦",
@@ -6537,6 +6545,14 @@
       "onboard_time": 1716110299,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202896,
+      "num": 202896,
+      "word": "狂犬病每年杀死多少人",
+      "onboard_time": 1716448580,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 202863,
@@ -7843,14 +7859,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 175982,
-      "num": 175982,
-      "word": "盖肚脐眼是中国人最后的倔强",
-      "onboard_time": 1716447557,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175904,
       "num": 175904,
       "word": "有点难为杨幂了",
@@ -8097,6 +8105,14 @@
       "onboard_time": 1716269959,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168873,
+      "num": 168873,
+      "word": "东部战区联合利剑2024A演习剑指台独",
+      "onboard_time": 1716447738,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168618,
@@ -8409,14 +8425,6 @@
       "onboard_time": 1716265759,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161951,
-      "num": 161951,
-      "word": "狂犬病每年杀死多少人",
-      "onboard_time": 1716448580,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 161947,
@@ -8777,6 +8785,14 @@
       "onboard_time": 1716349280,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155239,
+      "num": 155239,
+      "word": "官方回应刮刮乐大面积缺货",
+      "onboard_time": 1716448698,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 155167,
@@ -10139,14 +10155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129452,
-      "num": 129452,
-      "word": "官方回应刮刮乐大面积缺货",
-      "onboard_time": 1716448698,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 129370,
       "num": 129370,
       "word": "徐明浩这是想起DK了吧",
@@ -10177,14 +10185,6 @@
       "onboard_time": 1716188240,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 128989,
-      "num": 128989,
-      "word": "东部战区联合利剑2024A演习剑指台独",
-      "onboard_time": 1716447738,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128891,
@@ -11425,6 +11425,14 @@
       "onboard_time": 1716116837,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105485,
+      "num": 105485,
+      "word": "头一次见到唱歌还AA制的",
+      "onboard_time": 1716448939,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 105255,
@@ -13121,6 +13129,14 @@
       "onboard_time": 1716405850,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24190,
+      "num": 490048,
+      "word": "AI工具进军杀猪盘",
+      "onboard_time": 1716449419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23666,
