@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716464137097,
+  "endTime": 1716467649390,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -131,6 +131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1239319,
+      "num": 1239319,
+      "word": "解放军喊话台舰不要为台独卖命",
+      "onboard_time": 1716463218,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1233707,
       "num": 1233707,
       "word": "四川地震",
@@ -171,6 +179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 988446,
+      "num": 988446,
+      "word": "王红权星称会为自己的错误买单",
+      "onboard_time": 1716461599,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 982528,
       "num": 860832,
       "word": "阮经天妈妈去世",
@@ -185,14 +201,6 @@
       "onboard_time": 1716436519,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 966358,
-      "num": 966358,
-      "word": "王红权星称会为自己的错误买单",
-      "onboard_time": 1716461599,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 950454,
@@ -531,12 +539,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 517876,
+      "num": 453535,
+      "word": "左航小作文",
+      "onboard_time": 1716465139,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515973,
       "num": 515973,
       "word": "吃火锅不能穿白衣服魔咒被破解",
       "onboard_time": 1716428298,
       "rank": 7,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 514344,
+      "num": 448342,
+      "word": "侯佩岑",
+      "onboard_time": 1716466459,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 513975,
@@ -587,14 +611,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 482978,
-      "num": 482978,
-      "word": "解放军喊话台舰不要为台独卖命",
-      "onboard_time": 1716463218,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 480169,
       "num": 480169,
       "word": "12岁失联男孩尸体被找到",
@@ -627,6 +643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 460489,
+      "num": 460489,
+      "word": "福大回应女生在校内电梯遭男生猥亵",
+      "onboard_time": 1716463519,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458966,
       "num": 458966,
       "word": "涂山我罩的 懂",
@@ -641,6 +665,14 @@
       "onboard_time": 1716427878,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446701,
+      "num": 446701,
+      "word": "小鬼导师人气倒数第二",
+      "onboard_time": 1716465499,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 444844,
@@ -731,6 +763,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 378361,
+      "num": 219009,
+      "word": "狐妖 好大的滤镜",
+      "onboard_time": 1716466939,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370450,
       "num": 370450,
       "word": "轻断食一天吃了11根玉米",
@@ -793,6 +833,14 @@
       "onboard_time": 1716453018,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 336913,
+      "num": 336913,
+      "word": "月亮",
+      "onboard_time": 1716466818,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 328292,
@@ -883,6 +931,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 307424,
+      "num": 307424,
+      "word": "国台办回应解放军位台岛周边演习",
+      "onboard_time": 1716463878,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 305377,
       "num": 305377,
       "word": "范若若一手手术刀一手巴特雷",
@@ -971,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288596,
-      "num": 288596,
-      "word": "福大回应女生在校内电梯遭男生猥亵",
-      "onboard_time": 1716463519,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288351,
       "num": 288351,
       "word": "鸣潮开服",
@@ -1019,6 +1067,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 269144,
+      "num": 211583,
+      "word": "王一栩",
+      "onboard_time": 1716467240,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267498,
       "num": 267498,
       "word": "刘亦菲拍恋爱通告没化妆",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1716441020,
       "rank": 24,
       "category": "美食,游戏"
+    },
+    {
+      "raw_hot": 264494,
+      "num": 208368,
+      "word": "李佳琦唱跳 蕾哈娜带货",
+      "onboard_time": 1716466759,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 263082,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1716422359,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244860,
+      "num": 213539,
+      "word": "江苏诞生一位千万富翁",
+      "onboard_time": 1716466339,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239541,
@@ -1169,6 +1241,14 @@
       "onboard_time": 1716430639,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222426,
+      "num": 192523,
+      "word": "雪见大战重楼",
+      "onboard_time": 1716465197,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 221096,
@@ -1411,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190399,
+      "num": 190399,
+      "word": "林更新玫瑰的故事特邀主演",
+      "onboard_time": 1716467179,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190374,
       "num": 155419,
       "word": "我让老公经历了断崖式离婚",
@@ -1425,6 +1513,14 @@
       "onboard_time": 1716362779,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 188316,
+      "num": 188316,
+      "word": "狐妖 磨皮",
+      "onboard_time": 1716467419,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 186451,
@@ -1449,6 +1545,14 @@
       "onboard_time": 1716440899,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180624,
+      "num": 180624,
+      "word": "林高远1比3黄镇廷",
+      "onboard_time": 1716466100,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 180596,
@@ -1531,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172774,
+      "num": 172774,
+      "word": "五旬老太 静可攻那可守",
+      "onboard_time": 1716464057,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172758,
       "num": 172758,
       "word": "罗云熙直播说羡慕刘宇宁",
@@ -1545,6 +1657,14 @@
       "onboard_time": 1716388941,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172427,
+      "num": 457686,
+      "word": "住了25年的房子被拍卖法官上门惊呆了",
+      "onboard_time": 1716463938,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171813,
@@ -1787,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153911,
+      "num": 153911,
+      "word": "刘亦菲彭冠英背后抱吻戏",
+      "onboard_time": 1716467478,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153241,
       "num": 153241,
       "word": "卫龙回应魔芋爽克重不足",
@@ -1809,6 +1937,14 @@
       "onboard_time": 1716436700,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150471,
+      "num": 155689,
+      "word": "外交部回应美军方担忧解放军围台演习",
+      "onboard_time": 1716463819,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149099,
@@ -1963,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130414,
-      "num": 130414,
-      "word": "国台办回应解放军位台岛周边演习",
-      "onboard_time": 1716463878,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 130252,
       "num": 130252,
       "word": "这一刻范闲像有家长撑腰的孩子",
@@ -2057,14 +2185,6 @@
       "onboard_time": 1716430098,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122378,
-      "num": 122378,
-      "word": "五旬老太 静可攻那可守",
-      "onboard_time": 1716464057,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 122362,
@@ -2331,6 +2451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98668,
+      "num": 98668,
+      "word": "黄友政大逆转",
+      "onboard_time": 1716467359,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96477,
       "num": 96477,
       "word": "Faker入选名人堂",
@@ -2587,14 +2715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50908,
-      "num": 165882,
-      "word": "住了25年的房子被拍卖法官上门惊呆了",
-      "onboard_time": 1716463938,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50603,
       "num": 50603,
       "word": "张若昀演出了范闲的失望",
@@ -2649,6 +2769,14 @@
       "onboard_time": 1716459141,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27499,
+      "num": 293539,
+      "word": "初夏老钱风诚不欺我",
+      "onboard_time": 1716465921,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 25041,
