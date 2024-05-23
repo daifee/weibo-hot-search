@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716503655635,
+  "endTime": 1716506363290,
   "band_list": [
     {
       "raw_hot": 1894273,
@@ -51,6 +51,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 517266,
+      "num": 73101,
+      "word": "离职后退了一千多个工作群",
+      "onboard_time": 1716503834,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 500266,
       "num": 275618,
       "word": "狐妖 好大的滤镜",
@@ -68,11 +76,27 @@
     },
     {
       "raw_hot": 425574,
-      "num": 213947,
+      "num": 382883,
       "word": "狐妖小红娘 儿童剧",
       "onboard_time": 1716469279,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421315,
+      "num": 421315,
+      "word": "百万留学回国后月薪7000",
+      "onboard_time": 1716494471,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364726,
+      "num": 175069,
+      "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
+      "onboard_time": 1716461719,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 337407,
@@ -115,20 +139,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 236604,
+      "num": 236604,
+      "word": "刘亦菲彭冠英背后抱吻戏",
+      "onboard_time": 1716467478,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222712,
       "num": 212515,
       "word": "张馨予玄学",
       "onboard_time": 1716467959,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220653,
-      "num": 220653,
-      "word": "百万留学回国后月薪7000",
-      "onboard_time": 1716494471,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220629,
@@ -171,14 +195,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 183379,
-      "num": 127835,
-      "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
-      "onboard_time": 1716461719,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182684,
       "num": 182684,
       "word": "四川地震",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 172163,
-      "num": 123296,
+      "num": 156836,
       "word": "不消费不让坐涉事星巴克门店店员回应",
       "onboard_time": 1716478638,
       "rank": 37,
@@ -201,6 +217,14 @@
       "onboard_time": 1716476901,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165692,
+      "num": 101504,
+      "word": "凯迪拉克只卖13万多了",
+      "onboard_time": 1716481397,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 162299,
@@ -243,20 +267,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 140785,
-      "num": 140785,
-      "word": "刘亦菲彭冠英背后抱吻戏",
-      "onboard_time": 1716467478,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134547,
       "num": 134547,
       "word": "小鬼导师人气倒数第二",
       "onboard_time": 1716465499,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131528,
+      "num": 131528,
+      "word": "鸣潮",
+      "onboard_time": 1716506115,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 130777,
@@ -363,20 +387,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98718,
+      "num": 70835,
+      "word": "涂山红红 遥遥领先",
+      "onboard_time": 1716494412,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92973,
       "num": 92973,
       "word": "宁那贝儿",
       "onboard_time": 1716482236,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89583,
-      "num": 101504,
-      "word": "凯迪拉克只卖13万多了",
-      "onboard_time": 1716481397,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 88340,
@@ -411,6 +435,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64453,
+      "num": 64453,
+      "word": "周杰伦来了又好像没有来",
+      "onboard_time": 1716487632,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63646,
+      "num": 63646,
+      "word": "Selina被甜到失去表情管理",
+      "onboard_time": 1716502812,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63451,
+      "num": 63451,
+      "word": "郭晓婷胡连馨回复龚俊",
+      "onboard_time": 1716486374,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61526,
       "num": 217194,
       "word": "爸爸说握手刚出生的宝宝真握住了",
@@ -419,11 +467,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56336,
-      "num": 51810,
-      "word": "郭晓婷胡连馨回复龚俊",
-      "onboard_time": 1716486374,
-      "rank": 22,
+      "raw_hot": 57840,
+      "num": 57840,
+      "word": "花楹最喜欢主人 雅雅最喜欢姐姐",
+      "onboard_time": 1716505755,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -435,12 +483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46294,
-      "num": 41559,
-      "word": "周杰伦来了又好像没有来",
-      "onboard_time": 1716487632,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 52709,
+      "num": 52709,
+      "word": "当小女孩知道舅舅听不了呕吐声",
+      "onboard_time": 1716495731,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 45320,
+      "num": 45320,
+      "word": "小狗一定挑选了认为最好的礼物",
+      "onboard_time": 1716488772,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 40920,
@@ -451,30 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39611,
-      "num": 34272,
-      "word": "当小女孩知道舅舅听不了呕吐声",
-      "onboard_time": 1716495731,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 39304,
-      "num": 39304,
-      "word": "Selina被甜到失去表情管理",
-      "onboard_time": 1716502812,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 38618,
-      "num": 38618,
-      "word": "涂山红红 遥遥领先",
-      "onboard_time": 1716494412,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 37059,
       "num": 37059,
       "word": "红手指淘汰",
@@ -483,20 +515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32861,
+      "num": 618642,
+      "word": "文化企业30强",
+      "onboard_time": 1716469700,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29432,
       "num": 30794,
       "word": "花少法国站梗太密了",
       "onboard_time": 1716487332,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27774,
-      "num": 30553,
-      "word": "小狗一定挑选了认为最好的礼物",
-      "onboard_time": 1716488772,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 23205,
@@ -515,6 +547,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 22357,
+      "num": 180861,
+      "word": "宁波大学宠学生把动物园搬进校园",
+      "onboard_time": 1716505335,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21026,
       "num": 24655,
       "word": "二次元被偷家毫发无伤",
@@ -529,14 +569,6 @@
       "onboard_time": 1716491171,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16449,
-      "num": 428334,
-      "word": "文化企业30强",
-      "onboard_time": 1716469700,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12753,
