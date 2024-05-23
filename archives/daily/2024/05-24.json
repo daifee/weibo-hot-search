@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716496468616,
+  "endTime": 1716499034825,
   "band_list": [
     {
       "raw_hot": 1894273,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102815,
+      "num": 102815,
+      "word": "百万留学回国后月薪7000",
+      "onboard_time": 1716494471,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92973,
       "num": 92973,
       "word": "宁那贝儿",
@@ -419,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47784,
-      "num": 47784,
-      "word": "百万留学回国后月薪7000",
-      "onboard_time": 1716494471,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46294,
       "num": 41559,
       "word": "周杰伦来了又好像没有来",
@@ -441,6 +441,14 @@
       "onboard_time": 1716485293,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39611,
+      "num": 23459,
+      "word": "当小女孩知道舅舅听不了呕吐声",
+      "onboard_time": 1716495731,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 37059,
@@ -483,12 +491,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17665,
-      "num": 17665,
-      "word": "当小女孩知道舅舅听不了呕吐声",
-      "onboard_time": 1716495731,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 19173,
+      "num": 19657,
+      "word": "涂山红红 遥遥领先",
+      "onboard_time": 1716494412,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 16772,
@@ -496,14 +504,6 @@
       "word": "周深唱狐妖小红娘OST",
       "onboard_time": 1716491171,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 16607,
-      "num": 19657,
-      "word": "涂山红红 遥遥领先",
-      "onboard_time": 1716494412,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -515,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14045,
+      "num": 16661,
+      "word": "网文网剧网游文旅的顶流在这儿齐聚",
+      "onboard_time": 1716496451,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 12753,
       "num": 52362,
       "word": "9旬老闺蜜相约每天见面互相惦记",
       "onboard_time": 1716489251,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12202,
-      "num": 16077,
-      "word": "网文网剧网游文旅的顶流在这儿齐聚",
-      "onboard_time": 1716496451,
-      "rank": 49,
-      "category": "读书作家"
     },
     {
       "raw_hot": 11684,
