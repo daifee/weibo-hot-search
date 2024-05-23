@@ -1,0 +1,410 @@
+{
+  "runTime": 1716446331194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1271152,
+        "num": 1271152,
+        "word": "东部战区位台岛周边开展演习",
+        "onboard_time": 1716422117,
+        "rank": 0,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 1045958,
+        "num": 1045958,
+        "word": "解放军数十架次战机环台岛战巡",
+        "onboard_time": 1716441979,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59285,
+        "num": 901123,
+        "word": "博物馆这些文案封神了",
+        "onboard_time": 1716424219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1677944,
+        "num": 897467,
+        "word": "五条悟尸体被操控",
+        "onboard_time": 1716436700,
+        "rank": 3,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 839246,
+        "num": 839246,
+        "word": "那英别说了 汪苏泷快碎了",
+        "onboard_time": 1716444620,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 708121,
+        "num": 708121,
+        "word": "官博真发了杨幂哄龚俊的花絮",
+        "onboard_time": 1716443119,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 691104,
+        "num": 691104,
+        "word": "海棠朵朵烦死了",
+        "onboard_time": 1716438740,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648930,
+        "num": 648930,
+        "word": "非全日制研究生不该被差别对待",
+        "onboard_time": 1716437899,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 639460,
+        "num": 639460,
+        "word": "周扬青底妆刷了4层粉底",
+        "onboard_time": 1716436819,
+        "rank": 8,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 542556,
+        "num": 542556,
+        "word": "这是对台独分裂行径的有力惩戒",
+        "onboard_time": 1716428657,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 774071,
+        "num": 542226,
+        "word": "12岁男孩目睹刑案后失联已身亡",
+        "onboard_time": 1716435078,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537221,
+        "num": 537221,
+        "word": "此次台岛周边联合演习有何特点",
+        "onboard_time": 1716435259,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509214,
+        "num": 509214,
+        "word": "东部战区问熊孩子经历什么才是完整的童年",
+        "onboard_time": 1716443959,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 494484,
+        "num": 494484,
+        "word": "杨幂说那天哄了龚俊很久",
+        "onboard_time": 1716434478,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 479263,
+        "num": 479263,
+        "word": "那英曾向歌手导演推荐汪苏泷",
+        "onboard_time": 1716444079,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448270,
+        "num": 448270,
+        "word": "第二个N号房事件爆发",
+        "onboard_time": 1716427098,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325340,
+        "num": 325340,
+        "word": "张若昀唐艺昕古装情头",
+        "onboard_time": 1716440600,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315058,
+        "num": 315058,
+        "word": "王子异做副业了吗",
+        "onboard_time": 1716442939,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 228724,
+        "num": 228724,
+        "word": "张杰抢票",
+        "onboard_time": 1716441679,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39997,
+        "num": 228722,
+        "word": "古希腊掌管毕业写真的神",
+        "onboard_time": 1716442878,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 557461,
+        "num": 228681,
+        "word": "金饰价格一夜下跌10元每克",
+        "onboard_time": 1716440242,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276043,
+        "num": 228637,
+        "word": "张颂文说杨紫抽到紫竹太巧了",
+        "onboard_time": 1716445459,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180596,
+        "num": 228604,
+        "word": "宣扬操弄台独者必将代价惨重",
+        "onboard_time": 1716445518,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228602,
+        "num": 228602,
+        "word": "宁静去花少了",
+        "onboard_time": 1716436519,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190751,
+        "num": 227825,
+        "word": "我在美国卖三蹦子日进斗金",
+        "onboard_time": 1716440420,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227623,
+        "num": 227623,
+        "word": "张若昀每天中午会做饭叫大家一起吃",
+        "onboard_time": 1716438200,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215287,
+        "num": 215287,
+        "word": "刘浩存鹅黄蕾丝吊带",
+        "onboard_time": 1716442098,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206714,
+        "num": 206714,
+        "word": "周杰伦演唱会不唱某些歌的原因",
+        "onboard_time": 1716445998,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205827,
+        "num": 205827,
+        "word": "解放军台岛周边联合演训最新情况",
+        "onboard_time": 1716445219,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183815,
+        "num": 183815,
+        "word": "怀孕的流浪猫爬28楼求助",
+        "onboard_time": 1716440841,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209725,
+        "num": 181334,
+        "word": "恋与制作人 旭日谎言篇",
+        "onboard_time": 1716446059,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201019,
+        "num": 180586,
+        "word": "蕾哈娜在上海认出中国铁粉",
+        "onboard_time": 1716446059,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178777,
+        "num": 178777,
+        "word": "鸣潮好卡",
+        "onboard_time": 1716443178,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177699,
+        "num": 177699,
+        "word": "杨幂龚俊 姐狗味",
+        "onboard_time": 1716445998,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177191,
+        "num": 177191,
+        "word": "马斯克被曝与谷歌创始人前妻一起吸毒",
+        "onboard_time": 1716435138,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176628,
+        "num": 176628,
+        "word": "陈哲远 这下你更对不起王勉了",
+        "onboard_time": 1716444919,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176187,
+        "num": 176187,
+        "word": "如何判断一个人是不是真的社恐",
+        "onboard_time": 1716444558,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 167622,
+        "num": 167622,
+        "word": "鸣潮开服",
+        "onboard_time": 1716427639,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165016,
+        "num": 165016,
+        "word": "鸣潮",
+        "onboard_time": 1716424219,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158343,
+        "num": 158343,
+        "word": "Ning说JackeyLove头大",
+        "onboard_time": 1716444258,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154568,
+        "num": 154568,
+        "word": "庆余年周末加更",
+        "onboard_time": 1716442278,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150245,
+        "num": 150245,
+        "word": "A股",
+        "onboard_time": 1716429920,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142531,
+        "num": 142531,
+        "word": "东部战区发布组合海报越海杀器",
+        "onboard_time": 1716431057,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139568,
+        "num": 139568,
+        "word": "与凤行庆功宴vlog",
+        "onboard_time": 1716441799,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136464,
+        "num": 136464,
+        "word": "刘亦菲拍恋爱通告没化妆",
+        "onboard_time": 1716440660,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132532,
+        "num": 132532,
+        "word": "31岁放弃编制工作后我怎样了",
+        "onboard_time": 1716429018,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129591,
+        "num": 129591,
+        "word": "范闲看看东北雨姐吧",
+        "onboard_time": 1716442458,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129109,
+        "num": 129109,
+        "word": "哈尔滨一小区发生爆炸阳台被炸飞",
+        "onboard_time": 1716434239,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124222,
+        "num": 124222,
+        "word": "你没事吧 我真服了",
+        "onboard_time": 1716435439,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123658,
+        "num": 123658,
+        "word": "中国海警发声",
+        "onboard_time": 1716431897,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山东日照市考察调研#"
+    }
+  }
+}
