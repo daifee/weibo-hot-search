@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716428259035,
+  "endTime": 1716431485917,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -544,6 +544,14 @@
       "word": "调休",
       "onboard_time": 1715386700,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2536930,
+      "num": 940008,
+      "word": "第二个N号房事件爆发",
+      "onboard_time": 1716427098,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1371,6 +1379,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1723661,
+      "num": 1723661,
+      "word": "这是对台独分裂行径的有力惩戒",
+      "onboard_time": 1716428657,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1721303,
       "num": 1721303,
       "word": "张雪峰说早晚请王曼昱当代言人",
@@ -1780,7 +1796,7 @@
     },
     {
       "raw_hot": 1561399,
-      "num": 280868,
+      "num": 338267,
       "word": "学生家长出轨校长合谋杀夫一审宣判",
       "onboard_time": 1716422539,
       "rank": 20,
@@ -1825,6 +1841,14 @@
       "onboard_time": 1715007080,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1554668,
+      "num": 795833,
+      "word": "龚俊 版权救了我们",
+      "onboard_time": 1716428538,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1554354,
@@ -3235,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1229633,
+      "num": 478893,
+      "word": "南村群童欺我老无力",
+      "onboard_time": 1716428718,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1227704,
       "num": 508086,
       "word": "张雪峰建议普通家庭不要学医",
@@ -3867,6 +3899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1121173,
+      "num": 1121173,
+      "word": "解放军台岛周边演习区域示意图",
+      "onboard_time": 1716426498,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1119304,
       "num": 872053,
       "word": "张艺兴晒了与林允儿合照",
@@ -4065,14 +4105,6 @@
       "onboard_time": 1714711039,
       "rank": 1,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1101038,
-      "num": 1101038,
-      "word": "解放军台岛周边演习区域示意图",
-      "onboard_time": 1716426498,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1100958,
@@ -5225,14 +5257,6 @@
       "onboard_time": 1715651477,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 940008,
-      "num": 940008,
-      "word": "第二个N号房事件爆发",
-      "onboard_time": 1716427098,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 937835,
@@ -6977,6 +7001,14 @@
       "onboard_time": 1715094021,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 790451,
+      "num": 790451,
+      "word": "31岁放弃编制工作后我怎样了",
+      "onboard_time": 1716429018,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 789632,
@@ -11364,7 +11396,7 @@
     },
     {
       "raw_hot": 567772,
-      "num": 270492,
+      "num": 288571,
       "word": "为什么应届生千万别乱投管培生",
       "onboard_time": 1716420917,
       "rank": 35,
@@ -12907,6 +12939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510955,
+      "num": 510955,
+      "word": "吃火锅不能穿白衣服魔咒被破解",
+      "onboard_time": 1716428298,
+      "rank": 7,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 510937,
       "num": 472671,
       "word": "五旬守国门三旬吃拉面",
@@ -13889,6 +13929,14 @@
       "onboard_time": 1715769857,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483067,
+      "num": 483067,
+      "word": "A股",
+      "onboard_time": 1714960037,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 482431,
@@ -15089,6 +15137,14 @@
       "onboard_time": 1715667019,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452422,
+      "num": 452422,
+      "word": "龚俊薅到杨幂",
+      "onboard_time": 1716427878,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 452261,
@@ -17619,14 +17675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 399365,
-      "num": 399365,
-      "word": "A股",
-      "onboard_time": 1714960037,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 399270,
       "num": 275288,
       "word": "aespa好癫的MV",
@@ -18891,6 +18939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 371189,
+      "num": 371189,
+      "word": "前央视解说员田宗琦去世",
+      "onboard_time": 1716430698,
+      "rank": 18,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 371172,
       "num": 371172,
       "word": "中国南水北调原副总经济师樊新中被查",
@@ -20121,6 +20177,14 @@
       "onboard_time": 1716002779,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 346361,
+      "num": 346361,
+      "word": "福建海警舰艇编队开展综合执法演练",
+      "onboard_time": 1716427579,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 346353,
@@ -21427,14 +21491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324749,
-      "num": 324749,
-      "word": "福建海警舰艇编队开展综合执法演练",
-      "onboard_time": 1716427579,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 324600,
       "num": 288458,
       "word": "HYBE曝NewJeans被闵熙珍PUA",
@@ -21491,6 +21547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 323966,
+      "num": 323966,
+      "word": "墨西哥jeans称newjeans抄袭",
+      "onboard_time": 1716427039,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323790,
       "num": 290253,
       "word": "淘宝天猫成交额双位数增长",
@@ -21544,6 +21608,14 @@
       "word": "赵雅芝 我下次换平底鞋再跳",
       "onboard_time": 1715438062,
       "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323028,
+      "num": 323028,
+      "word": "刘亦菲婚纱剧照",
+      "onboard_time": 1716428177,
+      "rank": 48,
       "category": "作品衍生"
     },
     {
@@ -21857,14 +21929,6 @@
       "onboard_time": 1716170419,
       "rank": 29,
       "category": "互联网,作品衍生"
-    },
-    {
-      "raw_hot": 317083,
-      "num": 317083,
-      "word": "龚俊薅到杨幂",
-      "onboard_time": 1716427878,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 317050,
@@ -25792,14 +25856,6 @@
       "word": "欧阳娜娜 Diploma",
       "onboard_time": 1715593459,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 262350,
-      "num": 262350,
-      "word": "墨西哥jeans称newjeans抄袭",
-      "onboard_time": 1716427039,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -29771,6 +29827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 222700,
+      "num": 209188,
+      "word": "朱婷悼念田宗琦",
+      "onboard_time": 1716430639,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222695,
       "num": 222695,
       "word": "欧文赛点的神",
@@ -30769,6 +30833,14 @@
       "onboard_time": 1716077715,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 215734,
+      "num": 215734,
+      "word": "东部战区发布组合海报越海杀器",
+      "onboard_time": 1716431057,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215665,
@@ -35259,6 +35331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195546,
+      "num": 195546,
+      "word": "李彦宏现身法国总统府谈AI发展",
+      "onboard_time": 1716429978,
+      "rank": 32,
+      "category": "互联网,国外时政"
+    },
+    {
       "raw_hot": 195526,
       "num": 195526,
       "word": "鱼缸成了树 树下埋着叔",
@@ -36553,6 +36633,14 @@
       "onboard_time": 1714899320,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190973,
+      "num": 190973,
+      "word": "联合利剑",
+      "onboard_time": 1716430217,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190959,
@@ -42083,6 +42171,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 166349,
+      "num": 166349,
+      "word": "尤长靖到长沙了",
+      "onboard_time": 1716427697,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166282,
       "num": 119471,
       "word": "朝云暮雨",
@@ -43019,14 +43115,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 162634,
-      "num": 162634,
-      "word": "尤长靖到长沙了",
-      "onboard_time": 1716427697,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162396,
       "num": 162396,
       "word": "范无救被捕",
@@ -43227,6 +43315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161609,
+      "num": 161609,
+      "word": "黄金白银大幅跳水",
+      "onboard_time": 1716427878,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 161602,
       "num": 161602,
       "word": "你是如何变得不浮躁的",
@@ -43273,14 +43369,6 @@
       "onboard_time": 1716350899,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161514,
-      "num": 161514,
-      "word": "黄金白银大幅跳水",
-      "onboard_time": 1716427878,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 161439,
@@ -48835,6 +48923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137669,
+      "num": 137669,
+      "word": "古代的彩礼要花多少钱",
+      "onboard_time": 1716429198,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137635,
       "num": 382675,
       "word": "520还得是兵哥哥的比心最硬核",
@@ -48921,14 +49017,6 @@
       "onboard_time": 1714822159,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 137389,
-      "num": 128795,
-      "word": "刘亦菲婚纱剧照",
-      "onboard_time": 1716428177,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 137369,
@@ -49248,6 +49336,14 @@
       "word": "徐冬冬海边素颜照",
       "onboard_time": 1715219657,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135825,
+      "num": 135825,
+      "word": "宁艺卓校庆",
+      "onboard_time": 1716431298,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -56779,6 +56875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96657,
+      "num": 479394,
+      "word": "发现一只偷感很重的大熊猫",
+      "onboard_time": 1716429557,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96494,
       "num": 89842,
       "word": "为什么叶轻眉的人气那么高",
@@ -57449,6 +57553,14 @@
       "onboard_time": 1715281331,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88686,
+      "num": 387141,
+      "word": "深蓝CEO称硬派的燃油时代结束了",
+      "onboard_time": 1716429978,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 88674,

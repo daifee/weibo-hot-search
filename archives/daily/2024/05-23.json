@@ -1,7 +1,23 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716428259035,
+  "endTime": 1716431485917,
   "band_list": [
+    {
+      "raw_hot": 2536930,
+      "num": 940008,
+      "word": "第二个N号房事件爆发",
+      "onboard_time": 1716427098,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1723661,
+      "num": 1723661,
+      "word": "这是对台独分裂行径的有力惩戒",
+      "onboard_time": 1716428657,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1593081,
       "num": 1593081,
@@ -12,11 +28,27 @@
     },
     {
       "raw_hot": 1561399,
-      "num": 280868,
+      "num": 338267,
       "word": "学生家长出轨校长合谋杀夫一审宣判",
       "onboard_time": 1716422539,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1554668,
+      "num": 795833,
+      "word": "龚俊 版权救了我们",
+      "onboard_time": 1716428538,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1229633,
+      "num": 478893,
+      "word": "南村群童欺我老无力",
+      "onboard_time": 1716428718,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1222790,
@@ -27,8 +59,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1101038,
-      "num": 1101038,
+      "raw_hot": 1121173,
+      "num": 1121173,
       "word": "解放军台岛周边演习区域示意图",
       "onboard_time": 1716426498,
       "rank": 12,
@@ -43,20 +75,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 940008,
-      "num": 940008,
-      "word": "第二个N号房事件爆发",
-      "onboard_time": 1716427098,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 874395,
       "num": 874395,
       "word": "庆余年 杀疯了",
       "onboard_time": 1716381318,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 790451,
+      "num": 790451,
+      "word": "31岁放弃编制工作后我怎样了",
+      "onboard_time": 1716429018,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 777962,
@@ -84,7 +116,7 @@
     },
     {
       "raw_hot": 567772,
-      "num": 270492,
+      "num": 288571,
       "word": "为什么应届生千万别乱投管培生",
       "onboard_time": 1716420917,
       "rank": 35,
@@ -139,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 510955,
+      "num": 510955,
+      "word": "吃火锅不能穿白衣服魔咒被破解",
+      "onboard_time": 1716428298,
+      "rank": 7,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 507207,
       "num": 507207,
       "word": "英国首相宣布于7月4日举行大选",
@@ -161,6 +201,22 @@
       "onboard_time": 1716424219,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 483067,
+      "num": 483067,
+      "word": "A股",
+      "onboard_time": 1716429920,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 452422,
+      "num": 452422,
+      "word": "龚俊薅到杨幂",
+      "onboard_time": 1716427878,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 444844,
@@ -203,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371189,
+      "num": 371189,
+      "word": "前央视解说员田宗琦去世",
+      "onboard_time": 1716430698,
+      "rank": 18,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 370450,
       "num": 370450,
       "word": "轻断食一天吃了11根玉米",
@@ -217,6 +281,14 @@
       "onboard_time": 1716419715,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 346361,
+      "num": 346361,
+      "word": "福建海警舰艇编队开展综合执法演练",
+      "onboard_time": 1716427579,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 342466,
@@ -235,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324749,
-      "num": 324749,
-      "word": "福建海警舰艇编队开展综合执法演练",
-      "onboard_time": 1716427579,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 324084,
       "num": 324084,
       "word": "刮刮乐大面积缺货",
@@ -251,12 +315,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 317083,
-      "num": 317083,
-      "word": "龚俊薅到杨幂",
-      "onboard_time": 1716427878,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 323966,
+      "num": 323966,
+      "word": "墨西哥jeans称newjeans抄袭",
+      "onboard_time": 1716427039,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 323028,
+      "num": 323028,
+      "word": "刘亦菲婚纱剧照",
+      "onboard_time": 1716428177,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 312364,
@@ -331,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262350,
-      "num": 262350,
-      "word": "墨西哥jeans称newjeans抄袭",
-      "onboard_time": 1716427039,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254617,
       "num": 254617,
       "word": "专家回应不少大人孩子近来嗓子疼",
@@ -363,6 +427,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222700,
+      "num": 209188,
+      "word": "朱婷悼念田宗琦",
+      "onboard_time": 1716430639,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215734,
+      "num": 215734,
+      "word": "东部战区发布组合海报越海杀器",
+      "onboard_time": 1716431057,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 211913,
       "num": 211913,
       "word": "人生病了才知道人多力量大",
@@ -371,12 +451,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195546,
+      "num": 195546,
+      "word": "李彦宏现身法国总统府谈AI发展",
+      "onboard_time": 1716429978,
+      "rank": 32,
+      "category": "互联网,国外时政"
+    },
+    {
       "raw_hot": 192256,
       "num": 192256,
       "word": "独行侠vs森林狼",
       "onboard_time": 1716427398,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190973,
+      "num": 190973,
+      "word": "联合利剑",
+      "onboard_time": 1716430217,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190374,
@@ -459,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166349,
+      "num": 166349,
+      "word": "尤长靖到长沙了",
+      "onboard_time": 1716427697,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162773,
       "num": 122957,
       "word": "同年同月同日生的鉴察院双子星",
@@ -467,16 +571,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162634,
-      "num": 162634,
-      "word": "尤长靖到长沙了",
-      "onboard_time": 1716427697,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161514,
-      "num": 161514,
+      "raw_hot": 161609,
+      "num": 161609,
       "word": "黄金白银大幅跳水",
       "onboard_time": 1716427878,
       "rank": 38,
@@ -571,12 +667,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137389,
-      "num": 128795,
-      "word": "刘亦菲婚纱剧照",
-      "onboard_time": 1716428177,
-      "rank": 48,
-      "category": "作品衍生"
+      "raw_hot": 137669,
+      "num": 137669,
+      "word": "古代的彩礼要花多少钱",
+      "onboard_time": 1716429198,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 136104,
@@ -585,6 +681,14 @@
       "onboard_time": 1716427518,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135825,
+      "num": 135825,
+      "word": "宁艺卓校庆",
+      "onboard_time": 1716431298,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 130252,
@@ -617,6 +721,14 @@
       "onboard_time": 1716391099,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123793,
+      "num": 123793,
+      "word": "王者荣耀",
+      "onboard_time": 1716430098,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 120897,
@@ -747,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96657,
+      "num": 479394,
+      "word": "发现一只偷感很重的大熊猫",
+      "onboard_time": 1716429557,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96477,
       "num": 96477,
       "word": "Faker入选名人堂",
@@ -785,6 +905,14 @@
       "onboard_time": 1716420556,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88686,
+      "num": 387141,
+      "word": "深蓝CEO称硬派的燃油时代结束了",
+      "onboard_time": 1716429978,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 86526,
