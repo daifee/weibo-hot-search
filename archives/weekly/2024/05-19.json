@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716485713266,
+  "endTime": 1716488648292,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -13907,6 +13907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51852,
+      "num": 41659,
+      "word": "郭晓婷胡连馨回复龚俊",
+      "onboard_time": 1716486374,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51119,
       "num": 167355,
       "word": "鸣潮有自己的物理学",
@@ -14001,6 +14009,14 @@
       "onboard_time": 1716045679,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46294,
+      "num": 41559,
+      "word": "周杰伦来了又好像没有来",
+      "onboard_time": 1716487632,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 45948,
@@ -14203,6 +14219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37059,
+      "num": 37059,
+      "word": "红手指淘汰",
+      "onboard_time": 1716485773,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36912,
       "num": 231767,
       "word": "梦回08年DNF上线",
@@ -14385,6 +14409,14 @@
       "onboard_time": 1716316331,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 26682,
+      "num": 26682,
+      "word": "花少法国站梗太密了",
+      "onboard_time": 1716487332,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 26608,
