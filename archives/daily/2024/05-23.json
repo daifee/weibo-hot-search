@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716438915799,
+  "endTime": 1716441627598,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -99,6 +99,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1124807,
+      "num": 1124807,
+      "word": "非全日制研究生不该被差别对待",
+      "onboard_time": 1716437899,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1121173,
       "num": 1121173,
       "word": "解放军台岛周边演习区域示意图",
@@ -123,6 +131,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 950454,
+      "num": 950454,
+      "word": "周扬青底妆刷了4层粉底",
+      "onboard_time": 1716436819,
+      "rank": 16,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 911310,
+      "num": 911310,
+      "word": "海棠朵朵烦死了",
+      "onboard_time": 1716438740,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 889081,
       "num": 889081,
       "word": "东部战区发布组合海报越海杀器",
@@ -137,14 +161,6 @@
       "onboard_time": 1716381318,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 866284,
-      "num": 866284,
-      "word": "周扬青底妆刷了4层粉底",
-      "onboard_time": 1716436819,
-      "rank": 16,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 844766,
@@ -331,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 478772,
+      "num": 478772,
+      "word": "张若昀每天中午会做饭叫大家一起吃",
+      "onboard_time": 1716438200,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 452422,
       "num": 452422,
       "word": "龚俊薅到杨幂",
@@ -395,14 +419,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 383377,
-      "num": 383377,
-      "word": "张若昀每天中午会做饭叫大家一起吃",
-      "onboard_time": 1716438200,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 370450,
       "num": 370450,
       "word": "轻断食一天吃了11根玉米",
@@ -417,14 +433,6 @@
       "onboard_time": 1716419715,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 350025,
-      "num": 350025,
-      "word": "非全日制研究生不该被差别对待",
-      "onboard_time": 1716437899,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 346361,
@@ -523,6 +531,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 307257,
+      "num": 286731,
+      "word": "金饰价格一夜下跌10元每克",
+      "onboard_time": 1716440242,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 304290,
       "num": 304290,
       "word": "张凌赫徐若晗车内吻戏",
@@ -603,12 +619,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286772,
+      "num": 286772,
+      "word": "张若昀唐艺昕古装情头",
+      "onboard_time": 1716440600,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270406,
       "num": 270406,
       "word": "秦岚机场",
       "onboard_time": 1716425659,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267498,
+      "num": 267498,
+      "word": "刘亦菲拍恋爱通告没化妆",
+      "onboard_time": 1716440660,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 254617,
@@ -627,12 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249894,
+      "num": 223620,
+      "word": "刘亦菲的花期真的很长",
+      "onboard_time": 1716438141,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249154,
       "num": 249154,
       "word": "范思辙爆改可达鸭",
       "onboard_time": 1716422359,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239551,
+      "num": 239551,
+      "word": "肯德基原神联动",
+      "onboard_time": 1716441020,
+      "rank": 24,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 236332,
@@ -699,19 +747,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203800,
-      "num": 190829,
-      "word": "刘亦菲的花期真的很长",
-      "onboard_time": 1716438141,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 207957,
+      "num": 768432,
+      "word": "鸣潮全球公测开启",
+      "onboard_time": 1716436040,
+      "rank": 11,
+      "category": "游戏"
     },
     {
-      "raw_hot": 203742,
-      "num": 203742,
-      "word": "海棠朵朵烦死了",
-      "onboard_time": 1716438740,
-      "rank": 40,
+      "raw_hot": 206835,
+      "num": 206835,
+      "word": "怀孕的流浪猫爬28楼求助",
+      "onboard_time": 1716440841,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 203254,
+      "num": 203254,
+      "word": "龚俊喝醉拉着杨幂哭",
+      "onboard_time": 1716438560,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -795,20 +851,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 185820,
-      "num": 185820,
-      "word": "龚俊喝醉拉着杨幂哭",
-      "onboard_time": 1716438560,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185426,
       "num": 185426,
       "word": "内塔尼亚胡称美国一年2万人饿死",
       "onboard_time": 1716390200,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 184500,
+      "num": 184500,
+      "word": "易烊千玺献唱不辞星海",
+      "onboard_time": 1716440899,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177212,
@@ -857,6 +913,14 @@
       "onboard_time": 1716388941,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171326,
+      "num": 775193,
+      "word": "你看病时会社恐发作吗",
+      "onboard_time": 1716437420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170868,
@@ -923,12 +987,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155786,
+      "num": 155786,
+      "word": "恒大汽车被要求退回19亿补贴",
+      "onboard_time": 1716439580,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 155557,
       "num": 155557,
       "word": "为啥银行的玻璃那么隔音",
       "onboard_time": 1716426740,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 154427,
+      "num": 154427,
+      "word": "庆余年2",
+      "onboard_time": 1716439940,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 154364,
@@ -1049,6 +1129,14 @@
       "onboard_time": 1716427518,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133871,
+      "num": 761413,
+      "word": "我在美国卖三蹦子日进斗金",
+      "onboard_time": 1716440420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130252,
@@ -1395,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67729,
+      "num": 217978,
+      "word": "怎么你也染上DNF手游了",
+      "onboard_time": 1716439821,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 66734,
       "num": 83853,
       "word": "赵继伟赛后发文",
@@ -1409,14 +1505,6 @@
       "onboard_time": 1716401652,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 65575,
-      "num": 775193,
-      "word": "你看病时会社恐发作吗",
-      "onboard_time": 1716437420,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61599,
@@ -1449,14 +1537,6 @@
       "onboard_time": 1716409031,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57021,
-      "num": 768432,
-      "word": "鸣潮全球公测开启",
-      "onboard_time": 1716436040,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 55398,
@@ -1561,6 +1641,14 @@
       "onboard_time": 1716409631,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15928,
+      "num": 190781,
+      "word": "张凌赫怼脸杀",
+      "onboard_time": 1716441140,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 12843,
