@@ -1,0 +1,410 @@
+{
+  "runTime": 1716491885090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 282748,
+        "num": 282748,
+        "word": "中国台湾937舰这里是中国管辖海域",
+        "onboard_time": 1716478999,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171299,
+        "num": 171299,
+        "word": "向佐让李胜利离中国香港远一点",
+        "onboard_time": 1716474021,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12304,
+        "num": 98697,
+        "word": "文化企业30强",
+        "onboard_time": 1716469700,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90256,
+        "num": 90256,
+        "word": "狐妖小红娘 儿童剧",
+        "onboard_time": 1716469279,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67236,
+        "num": 67236,
+        "word": "人民日报评老乡鸡葱油鸡加20克",
+        "onboard_time": 1716476842,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57583,
+        "num": 57583,
+        "word": "长期烧水和买桶装水喝哪个更健康",
+        "onboard_time": 1716456498,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 78532,
+        "num": 57126,
+        "word": "苍兰诀",
+        "onboard_time": 1716468859,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63081,
+        "num": 56506,
+        "word": "狐妖 好大的滤镜",
+        "onboard_time": 1716466939,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54605,
+        "num": 54605,
+        "word": "不消费不让坐涉事星巴克门店店员回应",
+        "onboard_time": 1716478638,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11743,
+        "num": 52362,
+        "word": "9旬老闺蜜相约每天见面互相惦记",
+        "onboard_time": 1716489251,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178577,
+        "num": 52321,
+        "word": "多位台湾艺人表态支持祖国统一",
+        "onboard_time": 1716457520,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56336,
+        "num": 51810,
+        "word": "郭晓婷胡连馨回复龚俊",
+        "onboard_time": 1716486374,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50880,
+        "num": 50880,
+        "word": "谁给我报的名 谁给我投的票",
+        "onboard_time": 1716475521,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45609,
+        "num": 45609,
+        "word": "左航小作文",
+        "onboard_time": 1716465139,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39473,
+        "num": 39473,
+        "word": "罗森退市",
+        "onboard_time": 1716456321,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38678,
+        "num": 38678,
+        "word": "四川地震",
+        "onboard_time": 1716455059,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36974,
+        "num": 36974,
+        "word": "当年去韩国旅游的人嘴是真严",
+        "onboard_time": 1716471560,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 32778,
+        "num": 32778,
+        "word": "解放军喊话台舰不要为台独卖命",
+        "onboard_time": 1716463218,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32760,
+        "num": 32760,
+        "word": "台岛周边演习现场画面",
+        "onboard_time": 1716468439,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27160,
+        "num": 32663,
+        "word": "Uzi 复盘",
+        "onboard_time": 1716477022,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103778,
+        "num": 32604,
+        "word": "台湾艺人",
+        "onboard_time": 1716453979,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51242,
+        "num": 32533,
+        "word": "母亲带患甲流儿子到瑜伽馆放血灌肠",
+        "onboard_time": 1716471980,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40498,
+        "num": 32379,
+        "word": "张馨予玄学",
+        "onboard_time": 1716467959,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36460,
+        "num": 32232,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1716459078,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35979,
+        "num": 32192,
+        "word": "澡堂子滤镜",
+        "onboard_time": 1716471620,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32124,
+        "num": 32124,
+        "word": "周杰伦来了又好像没有来",
+        "onboard_time": 1716487632,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31415,
+        "num": 31415,
+        "word": "杨幂 配音",
+        "onboard_time": 1716461299,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30543,
+        "num": 30543,
+        "word": "身体3个部位越干净越长寿",
+        "onboard_time": 1716470540,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27898,
+        "num": 27898,
+        "word": "侯佩岑",
+        "onboard_time": 1716466459,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27605,
+        "num": 27605,
+        "word": "暧昧期同居的要听劝",
+        "onboard_time": 1716477202,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26797,
+        "num": 26797,
+        "word": "小龙虾价格暴跌年轻人不爱吃了",
+        "onboard_time": 1716480978,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 25997,
+        "num": 25997,
+        "word": "刘亦菲都演妈妈了",
+        "onboard_time": 1716456740,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25486,
+        "num": 25486,
+        "word": "小腹突出和腰痛都有救了",
+        "onboard_time": 1716476361,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26531,
+        "num": 25478,
+        "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
+        "onboard_time": 1716461719,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25424,
+        "num": 25424,
+        "word": "红手指淘汰",
+        "onboard_time": 1716485773,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24697,
+        "num": 24697,
+        "word": "此次台岛周边联合演习有何特点",
+        "onboard_time": 1716435259,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24659,
+        "num": 24659,
+        "word": "这是对台独分裂行径的有力惩戒",
+        "onboard_time": 1716428657,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22917,
+        "num": 24658,
+        "word": "小狗一定挑选了认为最好的礼物",
+        "onboard_time": 1716488772,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22565,
+        "num": 24658,
+        "word": "小鬼导师人气倒数第二",
+        "onboard_time": 1716465499,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22456,
+        "num": 24657,
+        "word": "凯迪拉克只卖13万多了",
+        "onboard_time": 1716481397,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 21114,
+        "num": 24655,
+        "word": "刘亦菲彭冠英背后抱吻戏",
+        "onboard_time": 1716467478,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20736,
+        "num": 24655,
+        "word": "二次元被偷家毫发无伤",
+        "onboard_time": 1716490451,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20611,
+        "num": 24654,
+        "word": "新疆阿克苏4.5级地震",
+        "onboard_time": 1716476901,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20518,
+        "num": 24652,
+        "word": "涂山雅雅人设",
+        "onboard_time": 1716471860,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11155,
+        "num": 24651,
+        "word": "拿回失物后姑娘对着街边摄像头比心",
+        "onboard_time": 1716488951,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19649,
+        "num": 24651,
+        "word": "花少法国站梗太密了",
+        "onboard_time": 1716487332,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18306,
+        "num": 24650,
+        "word": "种地吧 一款适合打工人的综艺",
+        "onboard_time": 1716480258,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17891,
+        "num": 24649,
+        "word": "庆余年同福客栈",
+        "onboard_time": 1716472100,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17083,
+        "num": 24648,
+        "word": "TES官宣教练Maokai加入",
+        "onboard_time": 1716471321,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16772,
+        "num": 24648,
+        "word": "周深唱狐妖小红娘OST",
+        "onboard_time": 1716491171,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#老百姓的幸福生活是干出来的#"
+    }
+  }
+}
