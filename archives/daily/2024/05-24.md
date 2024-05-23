@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/24 00:24:45 ~ 2024/05/24 01:18:40
+本榜单时间：2024/05/24 00:24:45 ~ 2024/05/24 01:35:13
 </p>
 </blockquote>
 <p>
@@ -321,8 +321,14 @@ TES官宣教练Maokai加入（热度：70483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B4%E5%94%B1%E6%A2%A6%E5%B7%A5%E5%8E%82%23" target="weibo">
+说唱梦工厂（热度：40920）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%BC%81%E4%B8%9A30%E5%BC%BA%23" target="weibo">
-文化企业30强（热度：11133）
+文化企业30强（热度：16093）
 </a>
 </li>
 
