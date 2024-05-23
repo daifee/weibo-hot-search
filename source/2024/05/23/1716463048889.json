@@ -1,0 +1,410 @@
+{
+  "runTime": 1716463048889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1183662,
+        "num": 1183662,
+        "word": "罗森退市",
+        "onboard_time": 1716456321,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 822504,
+        "num": 822504,
+        "word": "杨幂 配音",
+        "onboard_time": 1716461299,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38586,
+        "num": 804667,
+        "word": "第20届文博会",
+        "onboard_time": 1716442278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792592,
+        "num": 792592,
+        "word": "四川地震",
+        "onboard_time": 1716455059,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677978,
+        "num": 677978,
+        "word": "东部战区位台岛周边开展演习",
+        "onboard_time": 1716422117,
+        "rank": 4,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 596734,
+        "num": 596734,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1716459078,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577362,
+        "num": 577362,
+        "word": "亚当刘柏辛吃米粉被偶遇",
+        "onboard_time": 1716457939,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437205,
+        "num": 437205,
+        "word": "涂山我罩的 懂",
+        "onboard_time": 1716460400,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62171,
+        "num": 426609,
+        "word": "北大女生靠知网文献把800米练进三分半内",
+        "onboard_time": 1716447258,
+        "rank": 8,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 64976,
+        "num": 419631,
+        "word": "网红为致富而炫富违法吗",
+        "onboard_time": 1716451219,
+        "rank": 9,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 1878792,
+        "num": 410789,
+        "word": "台湾艺人",
+        "onboard_time": 1716453979,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835979,
+        "num": 398799,
+        "word": "福州大学一男生猥亵女生",
+        "onboard_time": 1716459499,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819078,
+        "num": 379845,
+        "word": "福州大学",
+        "onboard_time": 1716456979,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 809296,
+        "num": 376696,
+        "word": "多位台湾艺人表态支持祖国统一",
+        "onboard_time": 1716457520,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791109,
+        "num": 364699,
+        "word": "刘强东微信群跨国操盘京东",
+        "onboard_time": 1716456799,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 625480,
+        "num": 347976,
+        "word": "王红权星称会为自己的错误买单",
+        "onboard_time": 1716461599,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 444403,
+        "num": 343869,
+        "word": "曝李胜利将在香港开夜店",
+        "onboard_time": 1716456560,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333813,
+        "num": 333813,
+        "word": "五条悟尸体被操控",
+        "onboard_time": 1716436700,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 330028,
+        "num": 330028,
+        "word": "此次台岛周边联合演习有何特点",
+        "onboard_time": 1716435259,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219204,
+        "num": 219204,
+        "word": "罗翔谈留学生刷了100万信用卡回国",
+        "onboard_time": 1716447738,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508336,
+        "num": 218033,
+        "word": "刘亦菲都演妈妈了",
+        "onboard_time": 1716456740,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408388,
+        "num": 216279,
+        "word": "胡连馨漂亮",
+        "onboard_time": 1716461899,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321084,
+        "num": 213572,
+        "word": "云包场崩了",
+        "onboard_time": 1716459679,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300638,
+        "num": 212023,
+        "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
+        "onboard_time": 1716461719,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210383,
+        "num": 210383,
+        "word": "长期烧水和买桶装水喝哪个更健康",
+        "onboard_time": 1716456498,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 250780,
+        "num": 210350,
+        "word": "那英别说了 汪苏泷快碎了",
+        "onboard_time": 1716444620,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227729,
+        "num": 210209,
+        "word": "张凌赫把迪丽热巴圈怀里",
+        "onboard_time": 1716453739,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226736,
+        "num": 210113,
+        "word": "张艺兴回应90后一番票房TOP1",
+        "onboard_time": 1716462559,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209981,
+        "num": 209981,
+        "word": "这是对台独分裂行径的有力惩戒",
+        "onboard_time": 1716428657,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193790,
+        "num": 193790,
+        "word": "新人三天没带水杯来",
+        "onboard_time": 1716460458,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195261,
+        "num": 193256,
+        "word": "范闲想奶奶了",
+        "onboard_time": 1716460218,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186451,
+        "num": 186451,
+        "word": "敖子逸为清融拉票",
+        "onboard_time": 1716462020,
+        "rank": 31,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 173904,
+        "num": 173904,
+        "word": "狐妖特效",
+        "onboard_time": 1716461538,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171490,
+        "num": 171490,
+        "word": "读研真是三天小emo五天大emo",
+        "onboard_time": 1716462020,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169327,
+        "num": 169327,
+        "word": "刘亦菲随手一截都是头像",
+        "onboard_time": 1716455240,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51119,
+        "num": 167355,
+        "word": "鸣潮有自己的物理学",
+        "onboard_time": 1716461419,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165752,
+        "num": 165752,
+        "word": "汪苏泷没拉那英进沈阳明星群的原因",
+        "onboard_time": 1716462378,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163011,
+        "num": 163011,
+        "word": "鹭卓 后陡门的夏又来了",
+        "onboard_time": 1716459800,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159477,
+        "num": 159477,
+        "word": "Doinb说mlxg该骂",
+        "onboard_time": 1716461179,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131378,
+        "num": 131378,
+        "word": "卫龙回应魔芋爽克重不足",
+        "onboard_time": 1716456619,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141175,
+        "num": 131253,
+        "word": "减肥期是偷感最重的时候",
+        "onboard_time": 1716458539,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139623,
+        "num": 131220,
+        "word": "张韶涵",
+        "onboard_time": 1716450319,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129603,
+        "num": 129603,
+        "word": "小米一季度营收755.1亿",
+        "onboard_time": 1716458120,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127860,
+        "num": 127860,
+        "word": "微博演出季",
+        "onboard_time": 1716462138,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123719,
+        "num": 123719,
+        "word": "怪不得圣女找辛芷蕾来演",
+        "onboard_time": 1716451158,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119609,
+        "num": 119609,
+        "word": "心疼五条悟",
+        "onboard_time": 1716461419,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119316,
+        "num": 119316,
+        "word": "沈月演我那不吃螺蛳粉的朋友",
+        "onboard_time": 1716460519,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102351,
+        "num": 102351,
+        "word": "周杰伦cue自己开餐厅倒闭",
+        "onboard_time": 1716458060,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101787,
+        "num": 101787,
+        "word": "律师谈卫龙克重不足维权",
+        "onboard_time": 1716462678,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99673,
+        "num": 99673,
+        "word": "老师怎么不进去是有什么心事吗",
+        "onboard_time": 1716459618,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山东日照考察调研#"
+    }
+  }
+}

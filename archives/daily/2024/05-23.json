@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716460647512,
+  "endTime": 1716463048889,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -243,12 +243,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 835979,
+      "num": 403720,
+      "word": "福州大学一男生猥亵女生",
+      "onboard_time": 1716459499,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822504,
+      "num": 822504,
+      "word": "杨幂 配音",
+      "onboard_time": 1716461299,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 816959,
       "num": 816959,
       "word": "花儿与少年直播",
       "onboard_time": 1716432377,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 809296,
+      "num": 413197,
+      "word": "多位台湾艺人表态支持祖国统一",
+      "onboard_time": 1716457520,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 791109,
+      "num": 406389,
+      "word": "刘强东微信群跨国操盘京东",
+      "onboard_time": 1716456799,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 780051,
@@ -299,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 695106,
-      "num": 413197,
-      "word": "多位台湾艺人表态支持祖国统一",
-      "onboard_time": 1716457520,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 687884,
       "num": 687884,
       "word": "蕾哈娜在上海认出中国铁粉",
@@ -337,6 +361,14 @@
       "onboard_time": 1716456740,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 625480,
+      "num": 347976,
+      "word": "王红权星称会为自己的错误买单",
+      "onboard_time": 1716461599,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 620883,
@@ -531,14 +563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 490487,
-      "num": 406389,
-      "word": "刘强东微信群跨国操盘京东",
-      "onboard_time": 1716456799,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 488276,
       "num": 488276,
       "word": "台独金孙只会祸害台湾子孙",
@@ -595,20 +619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437205,
+      "num": 437205,
+      "word": "涂山我罩的 懂",
+      "onboard_time": 1716460400,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434496,
       "num": 434496,
       "word": "刘亦菲随手一截都是头像",
       "onboard_time": 1716455240,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 434468,
-      "num": 403720,
-      "word": "福州大学一男生猥亵女生",
-      "onboard_time": 1716459499,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424729,
@@ -633,6 +657,14 @@
       "onboard_time": 1716382458,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408388,
+      "num": 216279,
+      "word": "胡连馨漂亮",
+      "onboard_time": 1716461899,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 401907,
@@ -795,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 321084,
+      "num": 279272,
+      "word": "云包场崩了",
+      "onboard_time": 1716459679,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315058,
       "num": 315058,
       "word": "王子异做副业了吗",
@@ -849,6 +889,14 @@
       "onboard_time": 1716422058,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300638,
+      "num": 212023,
+      "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
+      "onboard_time": 1716461719,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 300497,
@@ -929,14 +977,6 @@
       "onboard_time": 1716441679,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 279272,
-      "num": 279272,
-      "word": "云包场崩了",
-      "onboard_time": 1716459679,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 276043,
@@ -1099,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226736,
+      "num": 210113,
+      "word": "张艺兴回应90后一番票房TOP1",
+      "onboard_time": 1716462559,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222700,
       "num": 209188,
       "word": "朱婷悼念田宗琦",
@@ -1243,6 +1291,14 @@
       "category": "互联网,国外时政"
     },
     {
+      "raw_hot": 195261,
+      "num": 193256,
+      "word": "范闲想奶奶了",
+      "onboard_time": 1716460218,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194831,
       "num": 194831,
       "word": "猫 别来烦我",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1716434780,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193790,
+      "num": 193790,
+      "word": "新人三天没带水杯来",
+      "onboard_time": 1716460458,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 192967,
@@ -1329,6 +1393,14 @@
       "onboard_time": 1716362779,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 186451,
+      "num": 186451,
+      "word": "敖子逸为清融拉票",
+      "onboard_time": 1716462020,
+      "rank": 31,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 185426,
@@ -1411,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173904,
+      "num": 173904,
+      "word": "狐妖特效",
+      "onboard_time": 1716461538,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172868,
       "num": 172868,
       "word": "花儿与少年好友记",
@@ -1441,6 +1521,14 @@
       "onboard_time": 1716453979,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171490,
+      "num": 171490,
+      "word": "读研真是三天小emo五天大emo",
+      "onboard_time": 1716462020,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 171326,
@@ -1515,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165752,
+      "num": 165752,
+      "word": "汪苏泷没拉那英进沈阳明星群的原因",
+      "onboard_time": 1716462378,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165426,
       "num": 138620,
       "word": "龚俊紧急撤回一个不礼貌",
@@ -1529,14 +1625,6 @@
       "onboard_time": 1716450498,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162817,
-      "num": 162817,
-      "word": "范闲想奶奶了",
-      "onboard_time": 1716460218,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 162773,
@@ -1577,6 +1665,14 @@
       "onboard_time": 1716459618,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159477,
+      "num": 159477,
+      "word": "Doinb说mlxg该骂",
+      "onboard_time": 1716461179,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 158152,
@@ -1747,14 +1843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143208,
-      "num": 143208,
-      "word": "涂山我罩的 懂",
-      "onboard_time": 1716460400,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142641,
       "num": 142641,
       "word": "刘亦菲18年前的专辑",
@@ -1859,6 +1947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127860,
+      "num": 127860,
+      "word": "微博演出季",
+      "onboard_time": 1716462138,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 127696,
       "num": 127696,
       "word": "周杰伦 简单爱",
@@ -1955,6 +2051,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119609,
+      "num": 119609,
+      "word": "心疼五条悟",
+      "onboard_time": 1716461419,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 119316,
+      "num": 119316,
+      "word": "沈月演我那不吃螺蛳粉的朋友",
+      "onboard_time": 1716460519,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118197,
       "num": 695193,
       "word": "发现一只偷感很重的大熊猫",
@@ -1987,28 +2099,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 113833,
-      "num": 113833,
-      "word": "新人三天没带水杯来",
-      "onboard_time": 1716460458,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113603,
       "num": 95930,
       "word": "杨幂挽龚俊出场",
       "onboard_time": 1716384319,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113306,
-      "num": 113306,
-      "word": "沈月演我那不吃螺蛳粉的朋友",
-      "onboard_time": 1716460519,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 113235,
@@ -2137,6 +2233,14 @@
       "onboard_time": 1716424400,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101787,
+      "num": 101787,
+      "word": "律师谈卫龙克重不足维权",
+      "onboard_time": 1716462678,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 101497,
@@ -2409,6 +2513,14 @@
       "onboard_time": 1716405971,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 51119,
+      "num": 167355,
+      "word": "鸣潮有自己的物理学",
+      "onboard_time": 1716461419,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 50603,
