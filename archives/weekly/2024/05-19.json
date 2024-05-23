@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716456869557,
+  "endTime": 1716459665743,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -147,7 +147,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2322393,
+      "raw_hot": 2381967,
       "num": 2058580,
       "word": "台湾艺人",
       "onboard_time": 1716453979,
@@ -393,6 +393,14 @@
       "onboard_time": 1716386479,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1576241,
+      "num": 1576241,
+      "word": "罗森退市",
+      "onboard_time": 1716456321,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 1575598,
@@ -691,6 +699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1233707,
+      "num": 1233707,
+      "word": "四川地震",
+      "onboard_time": 1716455059,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1222790,
       "num": 1222790,
       "word": "B站取消播放时长指标外显改版",
@@ -760,14 +776,6 @@
       "word": "第一批快递小哥退休了",
       "onboard_time": 1716085998,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1150866,
-      "num": 1150866,
-      "word": "四川地震",
-      "onboard_time": 1716455059,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1347,6 +1355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 811073,
+      "num": 403496,
+      "word": "福州大学",
+      "onboard_time": 1716456979,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 806531,
       "num": 806531,
       "word": "庆帝赶紧死",
@@ -1875,6 +1891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 671749,
+      "num": 400426,
+      "word": "多位台湾艺人表态支持祖国统一",
+      "onboard_time": 1716457520,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 669035,
       "num": 669035,
       "word": "桃花坞4官宣阵容",
@@ -2049,6 +2073,14 @@
       "onboard_time": 1716279439,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 614375,
+      "num": 286310,
+      "word": "刘亦菲都演妈妈了",
+      "onboard_time": 1716456740,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 610287,
@@ -2337,6 +2369,22 @@
       "onboard_time": 1716335839,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 563721,
+      "num": 398122,
+      "word": "亚当刘柏辛吃米粉被偶遇",
+      "onboard_time": 1716457939,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 561816,
+      "num": 394830,
+      "word": "曝李胜利将在香港开夜店",
+      "onboard_time": 1716456560,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 560955,
@@ -4123,14 +4171,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 339606,
-      "num": 339606,
-      "word": "罗森退市",
-      "onboard_time": 1716456321,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 338984,
       "num": 329917,
       "word": "白鹿曾经试戏过如懿传",
@@ -4779,6 +4819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293244,
+      "num": 293244,
+      "word": "刘强东微信群跨国操盘京东",
+      "onboard_time": 1716456799,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 292981,
       "num": 292981,
       "word": "传奇哥 歌手",
@@ -5187,6 +5235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270255,
+      "num": 270255,
+      "word": "长期烧水和买桶装水喝哪个更健康",
+      "onboard_time": 1716456498,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 270034,
       "num": 270034,
       "word": "庆余年2朝堂激辩",
@@ -5481,14 +5537,6 @@
       "onboard_time": 1716208938,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 250006,
-      "num": 216649,
-      "word": "刘亦菲都演妈妈了",
-      "onboard_time": 1716456740,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 249894,
@@ -5931,6 +5979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229203,
+      "num": 229203,
+      "word": "小米一季度营收755.1亿",
+      "onboard_time": 1716458120,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 229193,
       "num": 200445,
       "word": "建议大家做事提前5分钟准备",
@@ -6265,6 +6321,22 @@
       "onboard_time": 1716299600,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213227,
+      "num": 213227,
+      "word": "黄晓明包场狐妖月红篇",
+      "onboard_time": 1716454398,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212872,
+      "num": 212872,
+      "word": "减肥期是偷感最重的时候",
+      "onboard_time": 1716458539,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 212178,
@@ -6883,14 +6955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200122,
-      "num": 200122,
-      "word": "曝李胜利将在香港开夜店",
-      "onboard_time": 1716456560,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199856,
       "num": 199856,
       "word": "白鹿说少骂点姚译添吧",
@@ -7377,6 +7441,14 @@
       "onboard_time": 1716375079,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 191805,
+      "num": 191805,
+      "word": "亚当 思念是一种病",
+      "onboard_time": 1716458120,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 191706,
@@ -8139,14 +8211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173508,
-      "num": 173508,
-      "word": "长期烧水和买桶装水喝哪个更健康",
-      "onboard_time": 1716456498,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 173421,
       "num": 173421,
       "word": "赵一博何浩楠",
@@ -8305,14 +8369,6 @@
       "onboard_time": 1716447738,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 168696,
-      "num": 168696,
-      "word": "黄晓明包场狐妖月红篇",
-      "onboard_time": 1716454398,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 168618,
@@ -9131,6 +9187,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 153241,
+      "num": 153241,
+      "word": "卫龙回应魔芋爽克重不足",
+      "onboard_time": 1716456619,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153206,
       "num": 153206,
       "word": "谈恋爱重要的是过程还是结果",
@@ -9153,14 +9217,6 @@
       "onboard_time": 1716276500,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153024,
-      "num": 153024,
-      "word": "卫龙回应魔芋爽克重不足",
-      "onboard_time": 1716456619,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 152705,
@@ -9321,6 +9377,14 @@
       "onboard_time": 1716266300,
       "rank": 37,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 149099,
+      "num": 149099,
+      "word": "周杰伦cue自己开餐厅倒闭",
+      "onboard_time": 1716458060,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 149005,
@@ -9617,6 +9681,14 @@
       "onboard_time": 1716207918,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144546,
+      "num": 144546,
+      "word": "小米一季度净利润64.9亿",
+      "onboard_time": 1716458779,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 144512,
@@ -10107,6 +10179,14 @@
       "category": "美食,互联网"
     },
     {
+      "raw_hot": 135602,
+      "num": 135602,
+      "word": "福州大学一男生猥亵女生",
+      "onboard_time": 1716459499,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135455,
       "num": 135455,
       "word": "小伙夜跑多看一眼救下女孩",
@@ -10491,6 +10571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128338,
+      "num": 128338,
+      "word": "亚当音乐合伙人刘柏辛",
+      "onboard_time": 1716457520,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128068,
       "num": 128068,
       "word": "英雄联盟名人堂",
@@ -10803,6 +10891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124439,
+      "num": 124439,
+      "word": "张若昀 你的彪来了",
+      "onboard_time": 1716459321,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124410,
       "num": 124410,
       "word": "原来商战真的是偷秘方",
@@ -10921,6 +11017,14 @@
       "onboard_time": 1716275059,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122362,
+      "num": 122362,
+      "word": "鸣潮 剧情",
+      "onboard_time": 1716458959,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 122295,
@@ -11299,6 +11403,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 117125,
+      "num": 117125,
+      "word": "老师怎么不进去是有什么心事吗",
+      "onboard_time": 1716459618,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116768,
       "num": 116768,
       "word": "奶牛耳朵上带的标签是什么意思",
@@ -11539,14 +11651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111103,
-      "num": 111103,
-      "word": "刘强东微信群跨国操盘京东",
-      "onboard_time": 1716456799,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 110863,
       "num": 110863,
       "word": "赵磊520给夏之光刷礼物",
@@ -11747,6 +11851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105611,
+      "num": 132992,
+      "word": "你的内存都被什么占满了",
+      "onboard_time": 1716458299,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 105538,
       "num": 227384,
       "word": "巴赫欢迎废墟上重生女孩来巴黎",
@@ -11844,7 +11956,7 @@
     },
     {
       "raw_hot": 102834,
-      "num": 116854,
+      "num": 215872,
       "word": "直屏党天菜OPPOReno12",
       "onboard_time": 1716456799,
       "rank": 46,
@@ -13003,6 +13115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47872,
+      "num": 957855,
+      "word": "第20届文博会",
+      "onboard_time": 1716442278,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47632,
       "num": 342603,
       "word": "你的旅行心愿是什么",
@@ -13161,14 +13281,6 @@
       "onboard_time": 1716224294,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 39236,
-      "num": 957855,
-      "word": "第20届文博会",
-      "onboard_time": 1716442278,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39026,
@@ -13387,6 +13499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28165,
+      "num": 124609,
+      "word": "唐嫣哈嗲",
+      "onboard_time": 1716459141,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27323,
       "num": 29190,
       "word": "曼城英超四连冠",
@@ -13481,6 +13601,14 @@
       "onboard_time": 1716405850,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23778,
+      "num": 112791,
+      "word": "鸣潮悬丝该出场了",
+      "onboard_time": 1716457879,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 23666,
