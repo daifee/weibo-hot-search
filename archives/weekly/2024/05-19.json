@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716431485917,
+  "endTime": 1716432130109,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2536930,
-      "num": 940008,
+      "num": 1002637,
       "word": "第二个N号房事件爆发",
       "onboard_time": 1716427098,
       "rank": 3,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1587236,
+      "num": 1000828,
+      "word": "龚俊 版权救了我们",
+      "onboard_time": 1716428538,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1586602,
       "num": 1586602,
       "word": "与重症手足口病相关病毒正在演变",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 1561399,
-      "num": 338267,
+      "num": 341553,
       "word": "学生家长出轨校长合谋杀夫一审宣判",
       "onboard_time": 1716422539,
       "rank": 20,
@@ -361,14 +369,6 @@
       "onboard_time": 1716196101,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1554668,
-      "num": 795833,
-      "word": "龚俊 版权救了我们",
-      "onboard_time": 1716428538,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1548385,
@@ -563,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1287032,
+      "num": 517656,
+      "word": "南村群童欺我老无力",
+      "onboard_time": 1716428718,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1269731,
       "num": 1269731,
       "word": "轻断食一天吃了11根玉米",
@@ -609,14 +617,6 @@
       "onboard_time": 1716286640,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1229633,
-      "num": 478893,
-      "word": "南村群童欺我老无力",
-      "onboard_time": 1716428718,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1222790,
@@ -913,6 +913,14 @@
       "onboard_time": 1716345738,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 983583,
+      "num": 983583,
+      "word": "31岁放弃编制工作后我怎样了",
+      "onboard_time": 1716429018,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 982528,
@@ -1249,14 +1257,6 @@
       "onboard_time": 1716370278,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 790451,
-      "num": 790451,
-      "word": "31岁放弃编制工作后我怎样了",
-      "onboard_time": 1716429018,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 783411,
@@ -2060,7 +2060,7 @@
     },
     {
       "raw_hot": 568128,
-      "num": 419919,
+      "num": 435069,
       "word": "左航 老奶奶",
       "onboard_time": 1716420016,
       "rank": 16,
@@ -2195,6 +2195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 537405,
+      "num": 537405,
+      "word": "东部战区发布组合海报越海杀器",
+      "onboard_time": 1716431057,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 537058,
       "num": 462146,
       "word": "孙俪 甄嬛传团综",
@@ -2251,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 522102,
+      "num": 522102,
+      "word": "A股",
+      "onboard_time": 1716189679,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 518378,
       "num": 518378,
       "word": "王俊凯发文感谢蔡依林",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1716089177,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 515973,
+      "num": 515973,
+      "word": "吃火锅不能穿白衣服魔咒被破解",
+      "onboard_time": 1716428298,
+      "rank": 7,
+      "category": "科学科普"
     },
     {
       "raw_hot": 515581,
@@ -2297,14 +2321,6 @@
       "onboard_time": 1716249559,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 510955,
-      "num": 510955,
-      "word": "吃火锅不能穿白衣服魔咒被破解",
-      "onboard_time": 1716428298,
-      "rank": 7,
-      "category": "科学科普"
     },
     {
       "raw_hot": 509298,
@@ -2361,6 +2377,14 @@
       "onboard_time": 1716182480,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 503879,
+      "num": 503879,
+      "word": "前央视解说员田宗琦去世",
+      "onboard_time": 1716430698,
+      "rank": 18,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 502027,
@@ -2489,14 +2513,6 @@
       "onboard_time": 1716124400,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 483067,
-      "num": 483067,
-      "word": "A股",
-      "onboard_time": 1716189679,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 481391,
@@ -3441,14 +3457,6 @@
       "onboard_time": 1716129321,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371189,
-      "num": 371189,
-      "word": "前央视解说员田宗琦去世",
-      "onboard_time": 1716430698,
-      "rank": 18,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 369660,
@@ -5643,14 +5651,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 215734,
-      "num": 215734,
-      "word": "东部战区发布组合海报越海杀器",
-      "onboard_time": 1716431057,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 215149,
       "num": 215149,
       "word": "欧盟对伊朗总统莱希等人遇难表示哀悼",
@@ -7243,6 +7243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176646,
+      "num": 176646,
+      "word": "宁艺卓校庆",
+      "onboard_time": 1716431298,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176038,
       "num": 176038,
       "word": "鲍鱼家姐全网被禁",
@@ -7705,6 +7713,14 @@
       "onboard_time": 1716341898,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 163856,
+      "num": 163856,
+      "word": "中国海警发声",
+      "onboard_time": 1716431897,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163504,
@@ -8369,6 +8385,14 @@
       "onboard_time": 1716266300,
       "rank": 37,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 149005,
+      "num": 149005,
+      "word": "还得是欧文",
+      "onboard_time": 1716431537,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 148851,
@@ -9089,14 +9113,6 @@
       "onboard_time": 1716186141,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 135825,
-      "num": 135825,
-      "word": "宁艺卓校庆",
-      "onboard_time": 1716431298,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 135804,
@@ -9987,6 +10003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121331,
+      "num": 121331,
+      "word": "狐妖月红篇涂山三姐妹海报",
+      "onboard_time": 1716432078,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120975,
       "num": 120975,
       "word": "郭艾伦 还有一场",
@@ -10177,6 +10201,14 @@
       "onboard_time": 1716131840,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118197,
+      "num": 518548,
+      "word": "发现一只偷感很重的大熊猫",
+      "onboard_time": 1716429557,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117856,
@@ -10971,14 +11003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96657,
-      "num": 479394,
-      "word": "发现一只偷感很重的大熊猫",
-      "onboard_time": 1716429557,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96477,
       "num": 96477,
       "word": "Faker入选名人堂",
@@ -11156,7 +11180,7 @@
     },
     {
       "raw_hot": 84408,
-      "num": 945611,
+      "num": 1007446,
       "word": "中国文化遗产有多绝",
       "onboard_time": 1716382219,
       "rank": 2,

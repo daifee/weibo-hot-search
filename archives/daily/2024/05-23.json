@@ -1,10 +1,10 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716431485917,
+  "endTime": 1716432130109,
   "band_list": [
     {
       "raw_hot": 2536930,
-      "num": 940008,
+      "num": 1002637,
       "word": "第二个N号房事件爆发",
       "onboard_time": 1716427098,
       "rank": 3,
@@ -27,24 +27,24 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 1561399,
-      "num": 338267,
-      "word": "学生家长出轨校长合谋杀夫一审宣判",
-      "onboard_time": 1716422539,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1554668,
-      "num": 795833,
+      "raw_hot": 1587236,
+      "num": 1000828,
       "word": "龚俊 版权救了我们",
       "onboard_time": 1716428538,
       "rank": 4,
       "category": "剧集"
     },
     {
-      "raw_hot": 1229633,
-      "num": 478893,
+      "raw_hot": 1561399,
+      "num": 341553,
+      "word": "学生家长出轨校长合谋杀夫一审宣判",
+      "onboard_time": 1716422539,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1287032,
+      "num": 517656,
       "word": "南村群童欺我老无力",
       "onboard_time": 1716428718,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 983583,
+      "num": 983583,
+      "word": "31岁放弃编制工作后我怎样了",
+      "onboard_time": 1716429018,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 982528,
       "num": 860832,
       "word": "阮经天妈妈去世",
@@ -81,14 +89,6 @@
       "onboard_time": 1716381318,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 790451,
-      "num": 790451,
-      "word": "31岁放弃编制工作后我怎样了",
-      "onboard_time": 1716429018,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 777962,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 568128,
-      "num": 419919,
+      "num": 435069,
       "word": "左航 老奶奶",
       "onboard_time": 1716420016,
       "rank": 16,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537405,
+      "num": 537405,
+      "word": "东部战区发布组合海报越海杀器",
+      "onboard_time": 1716431057,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 537307,
       "num": 537307,
       "word": "庆帝 我要diss你",
@@ -171,8 +179,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 510955,
-      "num": 510955,
+      "raw_hot": 522102,
+      "num": 522102,
+      "word": "A股",
+      "onboard_time": 1716429920,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 515973,
+      "num": 515973,
       "word": "吃火锅不能穿白衣服魔咒被破解",
       "onboard_time": 1716428298,
       "rank": 7,
@@ -185,6 +201,14 @@
       "onboard_time": 1716422959,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 503879,
+      "num": 503879,
+      "word": "前央视解说员田宗琦去世",
+      "onboard_time": 1716430698,
+      "rank": 18,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 499252,
@@ -201,14 +225,6 @@
       "onboard_time": 1716424219,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 483067,
-      "num": 483067,
-      "word": "A股",
-      "onboard_time": 1716429920,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 452422,
@@ -257,14 +273,6 @@
       "onboard_time": 1716390081,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371189,
-      "num": 371189,
-      "word": "前央视解说员田宗琦去世",
-      "onboard_time": 1716430698,
-      "rank": 18,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 370450,
@@ -419,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236332,
+      "num": 236332,
+      "word": "种地吧",
+      "onboard_time": 1716431658,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235777,
       "num": 235777,
       "word": "杨幂说争取不让动漫粉失望",
@@ -433,14 +449,6 @@
       "onboard_time": 1716430639,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215734,
-      "num": 215734,
-      "word": "东部战区发布组合海报越海杀器",
-      "onboard_time": 1716431057,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 211913,
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176646,
+      "num": 176646,
+      "word": "宁艺卓校庆",
+      "onboard_time": 1716431298,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175904,
       "num": 175904,
       "word": "有点难为杨幂了",
@@ -563,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163856,
+      "num": 163856,
+      "word": "中国海警发声",
+      "onboard_time": 1716431897,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 162773,
       "num": 122957,
       "word": "同年同月同日生的鉴察院双子星",
@@ -609,6 +633,14 @@
       "onboard_time": 1716386479,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149005,
+      "num": 149005,
+      "word": "还得是欧文",
+      "onboard_time": 1716431537,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 148691,
@@ -683,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135825,
-      "num": 135825,
-      "word": "宁艺卓校庆",
-      "onboard_time": 1716431298,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130252,
       "num": 130252,
       "word": "这一刻范闲像有家长撑腰的孩子",
@@ -731,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121331,
+      "num": 121331,
+      "word": "狐妖月红篇涂山三姐妹海报",
+      "onboard_time": 1716432078,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120897,
       "num": 120897,
       "word": "庆帝个老登",
@@ -753,6 +785,14 @@
       "onboard_time": 1716382758,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118197,
+      "num": 518548,
+      "word": "发现一只偷感很重的大熊猫",
+      "onboard_time": 1716429557,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117275,
@@ -859,14 +899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96657,
-      "num": 479394,
-      "word": "发现一只偷感很重的大熊猫",
-      "onboard_time": 1716429557,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96477,
       "num": 96477,
       "word": "Faker入选名人堂",
@@ -932,7 +964,7 @@
     },
     {
       "raw_hot": 84408,
-      "num": 945611,
+      "num": 1007446,
       "word": "中国文化遗产有多绝",
       "onboard_time": 1716382219,
       "rank": 2,
