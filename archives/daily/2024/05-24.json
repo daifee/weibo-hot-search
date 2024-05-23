@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716495606086,
+  "endTime": 1716496468616,
   "band_list": [
     {
       "raw_hot": 1894273,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47784,
+      "num": 47784,
+      "word": "百万留学回国后月薪7000",
+      "onboard_time": 1716494471,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46294,
       "num": 41559,
       "word": "周杰伦来了又好像没有来",
@@ -467,19 +475,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22915,
-      "num": 22915,
-      "word": "百万留学回国后月薪7000",
-      "onboard_time": 1716494471,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21026,
       "num": 24655,
       "word": "二次元被偷家毫发无伤",
       "onboard_time": 1716490451,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 17665,
+      "num": 17665,
+      "word": "当小女孩知道舅舅听不了呕吐声",
+      "onboard_time": 1716495731,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -515,8 +523,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12202,
+      "num": 16077,
+      "word": "网文网剧网游文旅的顶流在这儿齐聚",
+      "onboard_time": 1716496451,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 11684,
-      "num": 35147,
+      "num": 37031,
       "word": "拿回失物后姑娘对着街边摄像头比心",
       "onboard_time": 1716488951,
       "rank": 44,
