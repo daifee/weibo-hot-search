@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716502687486,
+  "endTime": 1716503655635,
   "band_list": [
     {
       "raw_hot": 1894273,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220653,
+      "num": 220653,
+      "word": "百万留学回国后月薪7000",
+      "onboard_time": 1716494471,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220629,
       "num": 211467,
       "word": "优酷限免三生三世十里桃花",
@@ -163,19 +171,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 183379,
+      "num": 127835,
+      "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
+      "onboard_time": 1716461719,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182684,
       "num": 182684,
       "word": "四川地震",
       "onboard_time": 1716455059,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174298,
-      "num": 174298,
-      "word": "百万留学回国后月薪7000",
-      "onboard_time": 1716494471,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -241,14 +249,6 @@
       "onboard_time": 1716467478,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139032,
-      "num": 127835,
-      "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
-      "onboard_time": 1716461719,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 134547,
@@ -427,8 +427,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50118,
-      "num": 38024,
+      "raw_hot": 55309,
+      "num": 55309,
       "word": "张颂文重现狂飙鱼摊名场面",
       "onboard_time": 1716499150,
       "rank": 35,
@@ -459,6 +459,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 39304,
+      "num": 39304,
+      "word": "Selina被甜到失去表情管理",
+      "onboard_time": 1716502812,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38618,
+      "num": 38618,
+      "word": "涂山红红 遥遥领先",
+      "onboard_time": 1716494412,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37059,
       "num": 37059,
       "word": "红手指淘汰",
@@ -467,15 +483,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27043,
-      "num": 27043,
-      "word": "涂山红红 遥遥领先",
-      "onboard_time": 1716494412,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 26682,
+      "raw_hot": 29432,
       "num": 30794,
       "word": "花少法国站梗太密了",
       "onboard_time": 1716487332,
@@ -483,7 +491,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25436,
+      "raw_hot": 27774,
       "num": 30553,
       "word": "小狗一定挑选了认为最好的礼物",
       "onboard_time": 1716488772,
@@ -499,8 +507,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21687,
-      "num": 21687,
+      "raw_hot": 22950,
+      "num": 24489,
       "word": "网文网剧网游文旅的顶流在这儿齐聚",
       "onboard_time": 1716496451,
       "rank": 49,
@@ -523,7 +531,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16093,
+      "raw_hot": 16449,
       "num": 428334,
       "word": "文化企业30强",
       "onboard_time": 1716469700,
