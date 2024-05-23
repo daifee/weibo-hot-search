@@ -1,0 +1,410 @@
+{
+  "runTime": 1716442542874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1462277,
+        "num": 1462277,
+        "word": "东部战区位台岛周边开展演习",
+        "onboard_time": 1716422117,
+        "rank": 0,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 1194977,
+        "num": 1194977,
+        "word": "非全日制研究生不该被差别对待",
+        "onboard_time": 1716437899,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 22667,
+        "num": 1074446,
+        "word": "博物馆这些文案封神了",
+        "onboard_time": 1716424219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1985997,
+        "num": 1070096,
+        "word": "五条悟尸体被操控",
+        "onboard_time": 1716436700,
+        "rank": 3,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1057657,
+        "num": 1057657,
+        "word": "这是对台独分裂行径的有力惩戒",
+        "onboard_time": 1716428657,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 950222,
+        "num": 950222,
+        "word": "周扬青底妆刷了4层粉底",
+        "onboard_time": 1716436819,
+        "rank": 5,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 914263,
+        "num": 914263,
+        "word": "杨幂说那天哄了龚俊很久",
+        "onboard_time": 1716434478,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 795287,
+        "num": 795287,
+        "word": "海棠朵朵烦死了",
+        "onboard_time": 1716438740,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 777183,
+        "num": 777183,
+        "word": "此次台岛周边联合演习有何特点",
+        "onboard_time": 1716435259,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159285,
+        "num": 651484,
+        "word": "我在美国卖三蹦子日进斗金",
+        "onboard_time": 1716440420,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979937,
+        "num": 646264,
+        "word": "12岁男孩目睹刑案后失联已身亡",
+        "onboard_time": 1716435078,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631273,
+        "num": 631273,
+        "word": "第二个N号房事件爆发",
+        "onboard_time": 1716427098,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605566,
+        "num": 605566,
+        "word": "解放军数十架次战机环台岛战巡",
+        "onboard_time": 1716441979,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 472257,
+        "num": 472257,
+        "word": "宁静去花少了",
+        "onboard_time": 1716436519,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617052,
+        "num": 447522,
+        "word": "马斯克被曝与谷歌创始人前妻一起吸毒",
+        "onboard_time": 1716435138,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 403971,
+        "num": 403971,
+        "word": "张若昀每天中午会做饭叫大家一起吃",
+        "onboard_time": 1716438200,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346929,
+        "num": 346929,
+        "word": "龚俊 版权救了我们",
+        "onboard_time": 1716428538,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318313,
+        "num": 318313,
+        "word": "31岁放弃编制工作后我怎样了",
+        "onboard_time": 1716429018,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338843,
+        "num": 301600,
+        "word": "你没事吧 我真服了",
+        "onboard_time": 1716435439,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284133,
+        "num": 284133,
+        "word": "哈尔滨一小区发生爆炸阳台被炸飞",
+        "onboard_time": 1716434239,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390934,
+        "num": 278164,
+        "word": "张若昀唐艺昕古装情头",
+        "onboard_time": 1716440600,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338002,
+        "num": 275328,
+        "word": "金饰价格一夜下跌10元每克",
+        "onboard_time": 1716440242,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 289877,
+        "num": 273718,
+        "word": "与凤行庆功宴vlog",
+        "onboard_time": 1716441799,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264828,
+        "num": 264828,
+        "word": "肯德基原神联动",
+        "onboard_time": 1716441020,
+        "rank": 23,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 258185,
+        "num": 258185,
+        "word": "张杰抢票",
+        "onboard_time": 1716441679,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245986,
+        "num": 245986,
+        "word": "东部战区发布组合海报越海杀器",
+        "onboard_time": 1716431057,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13094,
+        "num": 236969,
+        "word": "中国文化遗产有多绝",
+        "onboard_time": 1716382219,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235702,
+        "num": 235702,
+        "word": "刘亦菲的花期真的很长",
+        "onboard_time": 1716438141,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234589,
+        "num": 234589,
+        "word": "庆余年周末加更",
+        "onboard_time": 1716442278,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107559,
+        "num": 223582,
+        "word": "怎么你也染上DNF手游了",
+        "onboard_time": 1716439821,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220758,
+        "num": 220758,
+        "word": "中国海警发声",
+        "onboard_time": 1716431897,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208888,
+        "num": 208888,
+        "word": "龚俊喝醉拉着杨幂哭",
+        "onboard_time": 1716438560,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214297,
+        "num": 206988,
+        "word": "刘亦菲拍恋爱通告没化妆",
+        "onboard_time": 1716440660,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197383,
+        "num": 197383,
+        "word": "宁静逃不掉的断层C位",
+        "onboard_time": 1716437539,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195541,
+        "num": 195541,
+        "word": "鸣潮",
+        "onboard_time": 1716424219,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192819,
+        "num": 192819,
+        "word": "mlxg与小微笑红温互怼",
+        "onboard_time": 1716438500,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192147,
+        "num": 192147,
+        "word": "解放军台岛周边演习区域示意图",
+        "onboard_time": 1716426498,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191861,
+        "num": 191861,
+        "word": "怀孕的流浪猫爬28楼求助",
+        "onboard_time": 1716440841,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20538,
+        "num": 188160,
+        "word": "张凌赫怼脸杀",
+        "onboard_time": 1716441140,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186044,
+        "num": 186044,
+        "word": "刘浩存鹅黄蕾丝吊带",
+        "onboard_time": 1716442098,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183040,
+        "num": 183040,
+        "word": "迪丽热巴翻领牛仔",
+        "onboard_time": 1716438440,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177272,
+        "num": 177272,
+        "word": "福建海警舰艇编队开展综合执法演练",
+        "onboard_time": 1716427579,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174498,
+        "num": 174498,
+        "word": "鸣潮开服",
+        "onboard_time": 1716427639,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165620,
+        "num": 165620,
+        "word": "阮经天妈妈去世",
+        "onboard_time": 1716419955,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162202,
+        "num": 162202,
+        "word": "网红炫富或将加重社会焦虑",
+        "onboard_time": 1716435619,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 150276,
+        "num": 150276,
+        "word": "传奇哥 歌手",
+        "onboard_time": 1716436160,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147467,
+        "num": 147467,
+        "word": "女装预售",
+        "onboard_time": 1716442399,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 134563,
+        "num": 134563,
+        "word": "范闲看看东北雨姐吧",
+        "onboard_time": 1716442458,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132671,
+        "num": 132671,
+        "word": "乘风2024回应投票数据注水",
+        "onboard_time": 1716438500,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132105,
+        "num": 132105,
+        "word": "假富豪奢侈品摆拍仅售价几十元",
+        "onboard_time": 1716432559,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山东日照市考察调研#"
+    }
+  }
+}

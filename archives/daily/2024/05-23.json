@@ -1,6 +1,6 @@
 {
   "startTime": 1716395094121,
-  "endTime": 1716441627598,
+  "endTime": 1716442542874,
   "band_list": [
     {
       "raw_hot": 3023340,
@@ -99,8 +99,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1124807,
-      "num": 1124807,
+      "raw_hot": 1194977,
+      "num": 1194977,
       "word": "非全日制研究生不该被差别对待",
       "onboard_time": 1716437899,
       "rank": 44,
@@ -209,6 +209,14 @@
       "onboard_time": 1716434239,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605566,
+      "num": 605566,
+      "word": "解放军数十架次战机环台岛战巡",
+      "onboard_time": 1716441979,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 604058,
@@ -419,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 390934,
+      "num": 286772,
+      "word": "张若昀唐艺昕古装情头",
+      "onboard_time": 1716440600,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370450,
       "num": 370450,
       "word": "轻断食一天吃了11根玉米",
@@ -465,6 +481,14 @@
       "onboard_time": 1716436399,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338002,
+      "num": 286731,
+      "word": "金饰价格一夜下跌10元每克",
+      "onboard_time": 1716440242,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 328292,
@@ -529,14 +553,6 @@
       "onboard_time": 1716435619,
       "rank": 26,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 307257,
-      "num": 286731,
-      "word": "金饰价格一夜下跌10元每克",
-      "onboard_time": 1716440242,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 304290,
@@ -611,20 +627,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289877,
+      "num": 273718,
+      "word": "与凤行庆功宴vlog",
+      "onboard_time": 1716441799,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288351,
       "num": 288351,
       "word": "鸣潮开服",
       "onboard_time": 1716427639,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286772,
-      "num": 286772,
-      "word": "张若昀唐艺昕古装情头",
-      "onboard_time": 1716440600,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 270406,
@@ -641,6 +657,22 @@
       "onboard_time": 1716440660,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 264828,
+      "num": 264828,
+      "word": "肯德基原神联动",
+      "onboard_time": 1716441020,
+      "rank": 24,
+      "category": "美食,游戏"
+    },
+    {
+      "raw_hot": 258185,
+      "num": 258185,
+      "word": "张杰抢票",
+      "onboard_time": 1716441679,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 254617,
@@ -660,7 +692,7 @@
     },
     {
       "raw_hot": 249894,
-      "num": 223620,
+      "num": 235702,
       "word": "刘亦菲的花期真的很长",
       "onboard_time": 1716438141,
       "rank": 46,
@@ -673,14 +705,6 @@
       "onboard_time": 1716422359,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239551,
-      "num": 239551,
-      "word": "肯德基原神联动",
-      "onboard_time": 1716441020,
-      "rank": 24,
-      "category": "美食,游戏"
     },
     {
       "raw_hot": 236332,
@@ -705,6 +729,14 @@
       "onboard_time": 1716435858,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234589,
+      "num": 234589,
+      "word": "庆余年周末加更",
+      "onboard_time": 1716442278,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 230884,
@@ -747,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208888,
+      "num": 208888,
+      "word": "龚俊喝醉拉着杨幂哭",
+      "onboard_time": 1716438560,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207957,
       "num": 768432,
       "word": "鸣潮全球公测开启",
@@ -761,14 +801,6 @@
       "onboard_time": 1716440841,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 203254,
-      "num": 203254,
-      "word": "龚俊喝醉拉着杨幂哭",
-      "onboard_time": 1716438560,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 202588,
@@ -849,6 +881,14 @@
       "onboard_time": 1716362779,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 186044,
+      "num": 186044,
+      "word": "刘浩存鹅黄蕾丝吊带",
+      "onboard_time": 1716442098,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 185426,
@@ -979,6 +1019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 159285,
+      "num": 761413,
+      "word": "我在美国卖三蹦子日进斗金",
+      "onboard_time": 1716440420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158152,
       "num": 158152,
       "word": "小狗的胸好蓬松",
@@ -1067,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147467,
+      "num": 147467,
+      "word": "女装预售",
+      "onboard_time": 1716442399,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 147338,
       "num": 147338,
       "word": "亚特兰大3比0勒沃库森",
@@ -1131,12 +1187,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133871,
-      "num": 761413,
-      "word": "我在美国卖三蹦子日进斗金",
-      "onboard_time": 1716440420,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 134563,
+      "num": 134563,
+      "word": "范闲看看东北雨姐吧",
+      "onboard_time": 1716442458,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 130252,
@@ -1249,6 +1305,14 @@
       "onboard_time": 1716386299,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107559,
+      "num": 223582,
+      "word": "怎么你也染上DNF手游了",
+      "onboard_time": 1716439821,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 104805,
@@ -1483,14 +1547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67729,
-      "num": 217978,
-      "word": "怎么你也染上DNF手游了",
-      "onboard_time": 1716439821,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 66734,
       "num": 83853,
       "word": "赵继伟赛后发文",
@@ -1619,12 +1675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22667,
+      "num": 1074446,
+      "word": "博物馆这些文案封神了",
+      "onboard_time": 1716424219,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21185,
       "num": 132837,
       "word": "龙生龙凤生凤七仔的儿子疑心重",
       "onboard_time": 1716397935,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20538,
+      "num": 190781,
+      "word": "张凌赫怼脸杀",
+      "onboard_time": 1716441140,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 20391,
@@ -1641,14 +1713,6 @@
       "onboard_time": 1716409631,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 15928,
-      "num": 190781,
-      "word": "张凌赫怼脸杀",
-      "onboard_time": 1716441140,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 12843,
@@ -1676,6 +1740,9 @@
     },
     {
       "word": "#共同建设清洁美丽的世界#"
+    },
+    {
+      "word": "#习近平在山东日照市考察调研#"
     }
   ]
 }
