@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/23 18:21:05
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/23 18:37:27
 </p>
 </blockquote>
 <p>
@@ -4125,6 +4125,12 @@ BLG能不能让二追三（热度：927130）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6%23" target="weibo">
+福州大学（热度：924145）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E4%BF%9D%E5%A7%94%E7%82%B9%E5%90%8D%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8%E6%94%BF%E7%AD%96%23" target="weibo">
 消保委点名林俊杰演唱会退票政策（热度：923670）
 </a>
@@ -5159,12 +5165,6 @@ QQ微信上线地震预警功能（热度：818156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3APP%E5%B4%A9%E4%BA%86%23" target="weibo">
 麦当劳APP崩了（热度：811137）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6%23" target="weibo">
-福州大学（热度：811073）
 </a>
 </li>
 

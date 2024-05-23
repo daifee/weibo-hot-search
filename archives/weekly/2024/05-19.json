@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716459665743,
+  "endTime": 1716460647512,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -1123,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 924145,
+      "num": 414113,
+      "word": "福州大学",
+      "onboard_time": 1716456979,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 920036,
       "num": 920036,
       "word": "伊媒称伊朗总统直升机事故地点确认",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1716346698,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 811073,
-      "num": 403496,
-      "word": "福州大学",
-      "onboard_time": 1716456979,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 806531,
@@ -1803,6 +1803,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 695106,
+      "num": 413197,
+      "word": "多位台湾艺人表态支持祖国统一",
+      "onboard_time": 1716457520,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691798,
       "num": 385766,
       "word": "马龙破防了",
@@ -1889,14 +1897,6 @@
       "onboard_time": 1716183260,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 671749,
-      "num": 400426,
-      "word": "多位台湾艺人表态支持祖国统一",
-      "onboard_time": 1716457520,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 669035,
@@ -1995,6 +1995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 647177,
+      "num": 647177,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1716136697,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 643200,
       "num": 557168,
       "word": "孙千身材",
@@ -2024,6 +2032,14 @@
       "word": "庆帝灰飞烟灭让人毛骨悚然",
       "onboard_time": 1716246855,
       "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 635837,
+      "num": 286310,
+      "word": "刘亦菲都演妈妈了",
+      "onboard_time": 1716456740,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -2073,14 +2089,6 @@
       "onboard_time": 1716279439,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 614375,
-      "num": 286310,
-      "word": "刘亦菲都演妈妈了",
-      "onboard_time": 1716456740,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 610287,
@@ -2267,6 +2275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 582084,
+      "num": 410323,
+      "word": "曝李胜利将在香港开夜店",
+      "onboard_time": 1716456560,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580753,
       "num": 580753,
       "word": "韩玖诺回应叶灵儿被换角",
@@ -2289,6 +2305,14 @@
       "onboard_time": 1716211099,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 577377,
+      "num": 577377,
+      "word": "亚当刘柏辛吃米粉被偶遇",
+      "onboard_time": 1716457939,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 574356,
@@ -2369,22 +2393,6 @@
       "onboard_time": 1716335839,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 563721,
-      "num": 398122,
-      "word": "亚当刘柏辛吃米粉被偶遇",
-      "onboard_time": 1716457939,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 561816,
-      "num": 394830,
-      "word": "曝李胜利将在香港开夜店",
-      "onboard_time": 1716456560,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 560955,
@@ -2761,6 +2769,14 @@
       "onboard_time": 1716264620,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 490487,
+      "num": 406389,
+      "word": "刘强东微信群跨国操盘京东",
+      "onboard_time": 1716456799,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 489460,
@@ -3217,6 +3233,14 @@
       "onboard_time": 1716455240,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434468,
+      "num": 403720,
+      "word": "福州大学一男生猥亵女生",
+      "onboard_time": 1716459499,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433532,
@@ -3817,14 +3841,6 @@
       "onboard_time": 1716086417,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373334,
-      "num": 373334,
-      "word": "狐妖小红娘月红篇",
-      "onboard_time": 1716136697,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 371643,
@@ -4819,14 +4835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293244,
-      "num": 293244,
-      "word": "刘强东微信群跨国操盘京东",
-      "onboard_time": 1716456799,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 292981,
       "num": 292981,
       "word": "传奇哥 歌手",
@@ -5073,6 +5081,14 @@
       "onboard_time": 1716074834,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279272,
+      "num": 279272,
+      "word": "云包场崩了",
+      "onboard_time": 1716459679,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 279172,
@@ -6755,6 +6771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203538,
+      "num": 203538,
+      "word": "鹭卓 后陡门的夏又来了",
+      "onboard_time": 1716459800,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203505,
       "num": 174244,
       "word": "白鹿梵高星空蝴蝶裙",
@@ -7033,6 +7057,14 @@
       "onboard_time": 1716180622,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198749,
+      "num": 198749,
+      "word": "亚当 思念是一种病",
+      "onboard_time": 1716458120,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 198373,
@@ -7441,14 +7473,6 @@
       "onboard_time": 1716375079,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 191805,
-      "num": 191805,
-      "word": "亚当 思念是一种病",
-      "onboard_time": 1716458120,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 191706,
@@ -8659,6 +8683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162817,
+      "num": 162817,
+      "word": "范闲想奶奶了",
+      "onboard_time": 1716460218,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162773,
       "num": 122957,
       "word": "同年同月同日生的鉴察院双子星",
@@ -8769,6 +8801,14 @@
       "onboard_time": 1716350899,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161359,
+      "num": 161359,
+      "word": "老师怎么不进去是有什么心事吗",
+      "onboard_time": 1716459618,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 160906,
@@ -9771,6 +9811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143208,
+      "num": 143208,
+      "word": "涂山我罩的 懂",
+      "onboard_time": 1716460400,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143069,
       "num": 161063,
       "word": "哲学教授说谈恋爱不能太卑微",
@@ -10177,14 +10225,6 @@
       "onboard_time": 1716174020,
       "rank": 14,
       "category": "美食,互联网"
-    },
-    {
-      "raw_hot": 135602,
-      "num": 135602,
-      "word": "福州大学一男生猥亵女生",
-      "onboard_time": 1716459499,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135455,
@@ -11403,14 +11443,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 117125,
-      "num": 117125,
-      "word": "老师怎么不进去是有什么心事吗",
-      "onboard_time": 1716459618,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116768,
       "num": 116768,
       "word": "奶牛耳朵上带的标签是什么意思",
@@ -11473,6 +11505,14 @@
       "onboard_time": 1716096797,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115769,
+      "num": 134888,
+      "word": "你的内存都被什么占满了",
+      "onboard_time": 1716458299,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 115491,
@@ -11547,6 +11587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113833,
+      "num": 113833,
+      "word": "新人三天没带水杯来",
+      "onboard_time": 1716460458,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113800,
       "num": 113800,
       "word": "亚历山大致命犯规",
@@ -11585,6 +11633,14 @@
       "onboard_time": 1716110058,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 113306,
+      "num": 113306,
+      "word": "沈月演我那不吃螺蛳粉的朋友",
+      "onboard_time": 1716460519,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 113240,
@@ -11665,6 +11721,14 @@
       "onboard_time": 1716081376,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110648,
+      "num": 110648,
+      "word": "电饭煲懒人焖饭",
+      "onboard_time": 1716460519,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 110434,
@@ -11851,14 +11915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 105611,
-      "num": 132992,
-      "word": "你的内存都被什么占满了",
-      "onboard_time": 1716458299,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 105538,
       "num": 227384,
       "word": "巴赫欢迎废墟上重生女孩来巴黎",
@@ -11956,7 +12012,7 @@
     },
     {
       "raw_hot": 102834,
-      "num": 215872,
+      "num": 278794,
       "word": "直屏党天菜OPPOReno12",
       "onboard_time": 1716456799,
       "rank": 46,
@@ -13331,6 +13387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37328,
+      "num": 408587,
+      "word": "唐嫣哈嗲",
+      "onboard_time": 1716459141,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36912,
       "num": 231767,
       "word": "梦回08年DNF上线",
@@ -13497,14 +13561,6 @@
       "onboard_time": 1716272659,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 28165,
-      "num": 124609,
-      "word": "唐嫣哈嗲",
-      "onboard_time": 1716459141,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 27323,

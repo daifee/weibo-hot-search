@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716459665743,
+  "endTime": 1716460647512,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -5483,6 +5483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 924145,
+      "num": 414113,
+      "word": "福州大学",
+      "onboard_time": 1716456979,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 923670,
       "num": 483924,
       "word": "消保委点名林俊杰演唱会退票政策",
@@ -6865,14 +6873,6 @@
       "onboard_time": 1716346698,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 811073,
-      "num": 403496,
-      "word": "福州大学",
-      "onboard_time": 1716456979,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 810300,
@@ -8731,6 +8731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 695106,
+      "num": 413197,
+      "word": "多位台湾艺人表态支持祖国统一",
+      "onboard_time": 1716457520,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 693768,
       "num": 563595,
       "word": "鹿晗回应剪发",
@@ -9281,14 +9289,6 @@
       "onboard_time": 1715062879,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 671749,
-      "num": 400426,
-      "word": "多位台湾艺人表态支持祖国统一",
-      "onboard_time": 1716457520,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 671379,
@@ -9843,6 +9843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 647177,
+      "num": 647177,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1715265979,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 647158,
       "num": 647158,
       "word": "华晨宇演唱会唱到日出",
@@ -10128,6 +10136,14 @@
       "word": "庆帝灰飞烟灭让人毛骨悚然",
       "onboard_time": 1716246855,
       "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 635837,
+      "num": 286310,
+      "word": "刘亦菲都演妈妈了",
+      "onboard_time": 1716456740,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -10625,14 +10641,6 @@
       "onboard_time": 1715334080,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 614375,
-      "num": 286310,
-      "word": "刘亦菲都演妈妈了",
-      "onboard_time": 1716456740,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 614189,
@@ -11355,6 +11363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 582084,
+      "num": 410323,
+      "word": "曝李胜利将在香港开夜店",
+      "onboard_time": 1716456560,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 581700,
       "num": 262922,
       "word": "和庆余年2对打的是歌手2024吧",
@@ -11457,6 +11473,14 @@
       "onboard_time": 1715383095,
       "rank": 19,
       "category": "自然"
+    },
+    {
+      "raw_hot": 577377,
+      "num": 577377,
+      "word": "亚当刘柏辛吃米粉被偶遇",
+      "onboard_time": 1716457939,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 576797,
@@ -11795,14 +11819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563721,
-      "num": 398122,
-      "word": "亚当刘柏辛吃米粉被偶遇",
-      "onboard_time": 1716457939,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 562586,
       "num": 2451083,
       "word": "马龙说现在是王楚钦带着我",
@@ -11841,14 +11857,6 @@
       "onboard_time": 1715176580,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 561816,
-      "num": 394830,
-      "word": "曝李胜利将在香港开夜店",
-      "onboard_time": 1716456560,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 561442,
@@ -13993,6 +14001,14 @@
       "onboard_time": 1715656999,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 490487,
+      "num": 406389,
+      "word": "刘强东微信群跨国操盘京东",
+      "onboard_time": 1716456799,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 490415,
@@ -16225,6 +16241,14 @@
       "onboard_time": 1716455240,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434468,
+      "num": 403720,
+      "word": "福州大学一男生猥亵女生",
+      "onboard_time": 1716459499,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434463,
@@ -19233,14 +19257,6 @@
       "onboard_time": 1714906578,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 373334,
-      "num": 373334,
-      "word": "狐妖小红娘月红篇",
-      "onboard_time": 1715265979,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 373052,
@@ -23835,14 +23851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293244,
-      "num": 293244,
-      "word": "刘强东微信群跨国操盘京东",
-      "onboard_time": 1716456799,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 293140,
       "num": 293140,
       "word": "成毅ELLE首封",
@@ -24953,6 +24961,14 @@
       "onboard_time": 1715651477,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 279272,
+      "num": 279272,
+      "word": "云包场崩了",
+      "onboard_time": 1716459679,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 279200,
@@ -33835,6 +33851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203538,
+      "num": 203538,
+      "word": "鹭卓 后陡门的夏又来了",
+      "onboard_time": 1716459800,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203505,
       "num": 174244,
       "word": "白鹿梵高星空蝴蝶裙",
@@ -35177,6 +35201,14 @@
       "onboard_time": 1715386400,
       "rank": 39,
       "category": "自然"
+    },
+    {
+      "raw_hot": 198749,
+      "num": 198749,
+      "word": "亚当 思念是一种病",
+      "onboard_time": 1716458120,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 198588,
@@ -37184,14 +37216,6 @@
       "word": "谁来救救张翰",
       "onboard_time": 1715185998,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 191805,
-      "num": 191805,
-      "word": "亚当 思念是一种病",
-      "onboard_time": 1716458120,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -43947,6 +43971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162817,
+      "num": 162817,
+      "word": "范闲想奶奶了",
+      "onboard_time": 1716460218,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162815,
       "num": 162815,
       "word": "陈梦王曼昱vs王艺迪陈幸同",
@@ -44297,6 +44329,14 @@
       "onboard_time": 1715600298,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 161359,
+      "num": 161359,
+      "word": "老师怎么不进去是有什么心事吗",
+      "onboard_time": 1716459618,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 161358,
@@ -48611,6 +48651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 143208,
+      "num": 143208,
+      "word": "涂山我罩的 懂",
+      "onboard_time": 1716460400,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143165,
       "num": 143165,
       "word": "父母反对远嫁女子离家25年失联",
@@ -50441,14 +50489,6 @@
       "onboard_time": 1715581338,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 135602,
-      "num": 135602,
-      "word": "福州大学一男生猥亵女生",
-      "onboard_time": 1716459499,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135599,
@@ -54891,14 +54931,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 117125,
-      "num": 117125,
-      "word": "老师怎么不进去是有什么心事吗",
-      "onboard_time": 1716459618,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117010,
       "num": 117010,
       "word": "田曦薇饭撒",
@@ -55145,6 +55177,14 @@
       "onboard_time": 1714633098,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115769,
+      "num": 134888,
+      "word": "你的内存都被什么占满了",
+      "onboard_time": 1716458299,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 115714,
@@ -55547,6 +55587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113833,
+      "num": 113833,
+      "word": "新人三天没带水杯来",
+      "onboard_time": 1716460458,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113800,
       "num": 113800,
       "word": "亚历山大致命犯规",
@@ -55673,6 +55721,14 @@
       "onboard_time": 1715650699,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113306,
+      "num": 113306,
+      "word": "沈月演我那不吃螺蛳粉的朋友",
+      "onboard_time": 1716460519,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 113286,
@@ -56129,6 +56185,14 @@
       "onboard_time": 1714615698,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110648,
+      "num": 110648,
+      "word": "电饭煲懒人焖饭",
+      "onboard_time": 1716460519,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 110569,
@@ -56939,14 +57003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105611,
-      "num": 132992,
-      "word": "你的内存都被什么占满了",
-      "onboard_time": 1716458299,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 105538,
       "num": 324228,
       "word": "爷爷给奶奶买了店里最贵的雪糕",
@@ -57292,7 +57348,7 @@
     },
     {
       "raw_hot": 102834,
-      "num": 215872,
+      "num": 278794,
       "word": "直屏党天菜OPPOReno12",
       "onboard_time": 1716456799,
       "rank": 46,
@@ -62387,6 +62443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37328,
+      "num": 408587,
+      "word": "唐嫣哈嗲",
+      "onboard_time": 1716459141,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37310,
       "num": 1204423,
       "word": "这个中字代表中匈两国的友谊",
@@ -62873,14 +62937,6 @@
       "onboard_time": 1715454491,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 28165,
-      "num": 124609,
-      "word": "唐嫣哈嗲",
-      "onboard_time": 1716459141,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 28119,
