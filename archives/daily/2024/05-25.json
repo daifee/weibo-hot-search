@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716575815460,
+  "endTime": 1716578126489,
   "band_list": [
     {
       "raw_hot": 2416405,
@@ -467,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29778,
+      "num": 29778,
+      "word": "多方向抵近台岛战巡演练模拟动画",
+      "onboard_time": 1716576372,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29695,
       "num": 76811,
       "word": "回头是岸",
@@ -489,6 +497,22 @@
       "onboard_time": 1716568758,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 24376,
+      "num": 27389,
+      "word": "陈昊宇会唱",
+      "onboard_time": 1716577092,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22468,
+      "num": 27388,
+      "word": "宋雨琦 猜猜我到底是好是坏",
+      "onboard_time": 1716572414,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 20317,
