@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716554971551,
+  "endTime": 1716556829467,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -449,6 +449,14 @@
       "onboard_time": 1716170778,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2793176,
+      "num": 379628,
+      "word": "汪苏泷进步了",
+      "onboard_time": 1716556164,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2773000,
@@ -1603,6 +1611,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1685773,
+      "num": 285361,
+      "word": "投那英",
+      "onboard_time": 1716554543,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1683461,
       "num": 1683461,
       "word": "白月光诺澜杀回来了",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1714963099,
       "rank": 20,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 1522578,
+      "num": 283528,
+      "word": "黄宣正常唱歌 好听",
+      "onboard_time": 1716555021,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1515483,
@@ -4403,6 +4427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1103565,
+      "num": 222071,
+      "word": "亚当歌手彩排妆造",
+      "onboard_time": 1716552319,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1103336,
       "num": 1103336,
       "word": "死亡的20只东北虎有10只是幼虎",
@@ -5475,14 +5507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 956714,
-      "num": 222285,
-      "word": "投那英",
-      "onboard_time": 1716554543,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 956627,
       "num": 362029,
       "word": "坐火车40小时没及时换卫生巾感染送医",
@@ -5608,6 +5632,14 @@
       "word": "中岛美嘉 歌手",
       "onboard_time": 1715831838,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 944986,
+      "num": 554618,
+      "word": "亚当PK人选 微博网友投票",
+      "onboard_time": 1716532999,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -6355,6 +6387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 871546,
+      "num": 203608,
+      "word": "海来阿木 欣赏不来",
+      "onboard_time": 1716555926,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 871386,
       "num": 846845,
       "word": "梅大高速男子下跪拦车获救者也向他下跪",
@@ -6832,14 +6872,6 @@
       "word": "韩红转发区",
       "onboard_time": 1715510902,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 840613,
-      "num": 222071,
-      "word": "亚当歌手彩排妆造",
-      "onboard_time": 1716552319,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -10731,6 +10763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631073,
+      "num": 174075,
+      "word": "张云龙信念感",
+      "onboard_time": 1716554722,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 630914,
       "num": 630914,
       "word": "南京德基一男子坠亡警方正调查",
@@ -11467,6 +11507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 602425,
+      "num": 172345,
+      "word": "张钧甯发文反对台独",
+      "onboard_time": 1716555744,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 602379,
       "num": 388079,
       "word": "袁娅维在写假条了",
@@ -11763,6 +11811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 589208,
+      "num": 148617,
+      "word": "肖战直播",
+      "onboard_time": 1716555744,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589135,
       "num": 589135,
       "word": "京东被曝严查考勤",
@@ -12009,14 +12065,6 @@
       "onboard_time": 1715824097,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 579193,
-      "num": 156349,
-      "word": "张云龙信念感",
-      "onboard_time": 1716554722,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 579071,
@@ -12297,14 +12345,6 @@
       "onboard_time": 1715832559,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567660,
-      "num": 554618,
-      "word": "亚当PK人选 微博网友投票",
-      "onboard_time": 1716532999,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 567647,
@@ -13193,6 +13233,14 @@
       "onboard_time": 1715166859,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539862,
+      "num": 277705,
+      "word": "东部战区发了一把剑",
+      "onboard_time": 1716554603,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 539525,
@@ -17091,6 +17139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 434452,
+      "num": 146713,
+      "word": "五旬老太擦脑门",
+      "onboard_time": 1716556283,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434131,
       "num": 434131,
       "word": "这周日是母亲节",
@@ -19963,6 +20019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378019,
+      "num": 273949,
+      "word": "一对夫妻疑被人10万元卖到缅甸",
+      "onboard_time": 1716555625,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377621,
       "num": 377621,
       "word": "美歌手持枪拍视频意外自杀",
@@ -20401,6 +20465,14 @@
       "onboard_time": 1714566679,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 368416,
+      "num": 202174,
+      "word": "年轻人为什么不爱去商场买衣服了",
+      "onboard_time": 1716555443,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 367944,
@@ -32043,14 +32115,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 222369,
-      "num": 222369,
-      "word": "东部战区发了一把剑",
-      "onboard_time": 1716554603,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 222212,
       "num": 609253,
       "word": "护士喊话妈妈医院不是我家开的",
@@ -34513,6 +34577,14 @@
       "onboard_time": 1714865173,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207272,
+      "num": 207272,
+      "word": "纳塔",
+      "onboard_time": 1716556401,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 207255,
@@ -43771,6 +43843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171914,
+      "num": 171914,
+      "word": "原神前瞻",
+      "onboard_time": 1716556642,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171900,
       "num": 171900,
       "word": "陈晓杨子姗三搭",
@@ -47659,6 +47739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155837,
+      "num": 155837,
+      "word": "克洛琳德大招",
+      "onboard_time": 1716556462,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155830,
       "num": 155830,
       "word": "龚俊我真服了2.0版",
@@ -48500,7 +48588,7 @@
     },
     {
       "raw_hot": 152556,
-      "num": 1311775,
+      "num": 2819997,
       "word": "文博会太太太太太火了",
       "onboard_time": 1716550338,
       "rank": 2,
@@ -49097,6 +49185,14 @@
       "onboard_time": 1716515117,
       "rank": 39,
       "category": "社会新闻,电竞"
+    },
+    {
+      "raw_hot": 149953,
+      "num": 149953,
+      "word": "女生称遭男孩偷拍争执视频被传黄网",
+      "onboard_time": 1716555144,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149911,
@@ -50233,6 +50329,14 @@
       "onboard_time": 1716372979,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145738,
+      "num": 145738,
+      "word": "上市公司减持新规落地",
+      "onboard_time": 1716556763,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 145686,
@@ -53129,6 +53233,14 @@
       "onboard_time": 1716442458,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134495,
+      "num": 156059,
+      "word": "狗Pro",
+      "onboard_time": 1716554241,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 134447,
@@ -57265,6 +57377,14 @@
       "onboard_time": 1714719439,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117698,
+      "num": 145738,
+      "word": "西安的落日8分钟",
+      "onboard_time": 1716556763,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 117677,
@@ -61995,14 +62115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79835,
-      "num": 156059,
-      "word": "狗Pro",
-      "onboard_time": 1716554241,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 79736,
       "num": 79736,
       "word": "朴志效泡泡照搬周子瑜",
@@ -62680,6 +62792,14 @@
       "word": "被橘子洲600元的双向奔赴暖到了",
       "onboard_time": 1714763112,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71382,
+      "num": 289720,
+      "word": "重庆70岁嬢嬢开小酒馆",
+      "onboard_time": 1716555625,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -65211,6 +65331,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 37916,
+      "num": 172571,
+      "word": "倪妮Pura70风尚之夜",
+      "onboard_time": 1716554062,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37632,
       "num": 363996,
       "word": "小范大人新动作",
@@ -65299,14 +65427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36944,
-      "num": 165315,
-      "word": "倪妮Pura70风尚之夜",
-      "onboard_time": 1716554062,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 36912,
       "num": 231767,
       "word": "梦回08年DNF上线",
@@ -65329,6 +65449,14 @@
       "onboard_time": 1716365720,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36316,
+      "num": 196329,
+      "word": "钟楚曦为自己拼一把",
+      "onboard_time": 1716553702,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 36124,
@@ -66225,14 +66353,6 @@
       "onboard_time": 1715059938,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21655,
-      "num": 171562,
-      "word": "钟楚曦为自己拼一把",
-      "onboard_time": 1716553702,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 21522,
