@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716531952263,
+  "endTime": 1716532682403,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1270669,
+      "num": 1270669,
+      "word": "联合国称台湾是中国的一个省",
+      "onboard_time": 1716530239,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1269731,
       "num": 1269731,
       "word": "轻断食一天吃了11根玉米",
@@ -1067,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1068408,
+      "num": 1068408,
+      "word": "下雨天 难听",
+      "onboard_time": 1716531020,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1058333,
       "num": 696114,
       "word": "生理性喜欢",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1716337100,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 970904,
-      "num": 970904,
-      "word": "联合国称台湾是中国的一个省",
-      "onboard_time": 1716530239,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 968513,
@@ -2107,14 +2115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 691645,
-      "num": 691645,
-      "word": "下雨天 难听",
-      "onboard_time": 1716531020,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 688733,
       "num": 614676,
       "word": "中方回应梵蒂冈希望在北京设办事处",
@@ -2603,6 +2603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 588649,
+      "num": 550162,
+      "word": "哈佛剥夺13名支持巴勒斯坦毕业生学位",
+      "onboard_time": 1716528259,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 588257,
       "num": 260222,
       "word": "普通人的钱真的是抠出来的",
@@ -2835,20 +2843,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 553553,
+      "num": 273062,
+      "word": "为什么国内夫妻很少见戴婚戒",
+      "onboard_time": 1716531438,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 552370,
       "num": 410296,
       "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
       "onboard_time": 1716461719,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 550162,
-      "num": 550162,
-      "word": "哈佛剥夺13名支持巴勒斯坦毕业生学位",
-      "onboard_time": 1716528259,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 547541,
@@ -4539,6 +4547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 362673,
+      "num": 362673,
+      "word": "蜀绣 好听",
+      "onboard_time": 1716528319,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360908,
       "num": 360908,
       "word": "高度近视戴不戴眼镜眼球都会变形",
@@ -4619,6 +4635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352991,
+      "num": 352991,
+      "word": "贺军翔经纪人回应",
+      "onboard_time": 1716531379,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352751,
       "num": 352751,
       "word": "浪姐也搞直播了",
@@ -4633,14 +4657,6 @@
       "onboard_time": 1716125661,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 351752,
-      "num": 351752,
-      "word": "蜀绣 好听",
-      "onboard_time": 1716528319,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 351270,
@@ -4953,14 +4969,6 @@
       "onboard_time": 1716516079,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 330977,
-      "num": 273062,
-      "word": "为什么国内夫妻很少见戴婚戒",
-      "onboard_time": 1716531438,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 330699,
@@ -5707,14 +5715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 286253,
-      "num": 269219,
-      "word": "贺军翔经纪人回应",
-      "onboard_time": 1716531379,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285859,
       "num": 285859,
       "word": "陈丽君因病缺席邮票首发式签名会",
@@ -5777,6 +5777,14 @@
       "onboard_time": 1716110597,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 284043,
+      "num": 284043,
+      "word": "数架轰炸机前出岛链",
+      "onboard_time": 1716528139,
+      "rank": 37,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 282472,
@@ -5921,14 +5929,6 @@
       "onboard_time": 1716099616,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 277230,
-      "num": 277230,
-      "word": "数架轰炸机前出岛链",
-      "onboard_time": 1716528139,
-      "rank": 37,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 277138,
@@ -6505,6 +6505,14 @@
       "onboard_time": 1716192502,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246908,
+      "num": 246908,
+      "word": "披荆斩棘的哥哥路透",
+      "onboard_time": 1716531978,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 246891,
@@ -9011,6 +9019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184938,
+      "num": 184938,
+      "word": "谷爱凌金发刘海",
+      "onboard_time": 1716531558,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184862,
       "num": 184862,
       "word": "芭莎主编说杨紫长大了",
@@ -10427,6 +10443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157483,
+      "num": 157483,
+      "word": "小雨舞台好勾魂",
+      "onboard_time": 1716532280,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157445,
       "num": 141452,
       "word": "马嘉祺 520大测试",
@@ -10457,6 +10481,14 @@
       "onboard_time": 1716074415,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157190,
+      "num": 157190,
+      "word": "原来济南是青岛的空调外挂机",
+      "onboard_time": 1716532280,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 157174,
@@ -10513,14 +10545,6 @@
       "onboard_time": 1716368898,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156105,
-      "num": 156105,
-      "word": "谷爱凌金发刘海",
-      "onboard_time": 1716531558,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 156002,
@@ -12899,6 +12923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119834,
+      "num": 119834,
+      "word": "alex2024星座分析",
+      "onboard_time": 1716532459,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119743,
       "num": 119743,
       "word": "易烊千玺牛仔衬衫西装叠搭造型",
@@ -13521,6 +13553,14 @@
       "onboard_time": 1716262279,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 108584,
+      "num": 108584,
+      "word": "愿逆风如解意 容易莫摧残",
+      "onboard_time": 1716532218,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 108337,
@@ -14228,7 +14268,7 @@
     },
     {
       "raw_hot": 81801,
-      "num": 1498212,
+      "num": 1592668,
       "word": "来福州探寻数字峰会亮点",
       "onboard_time": 1716518537,
       "rank": 49,

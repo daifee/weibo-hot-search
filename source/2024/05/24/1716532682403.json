@@ -1,0 +1,410 @@
+{
+  "runTime": 1716532682403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7097254,
+        "num": 7097254,
+        "word": "台湾当归",
+        "onboard_time": 1716514577,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1942686,
+        "num": 1942686,
+        "word": "贺军翔家遭警方搜查",
+        "onboard_time": 1716529519,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30495,
+        "num": 1592668,
+        "word": "来福州探寻数字峰会亮点",
+        "onboard_time": 1716518537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270669,
+        "num": 1270669,
+        "word": "联合国称台湾是中国的一个省",
+        "onboard_time": 1716530239,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1068408,
+        "num": 1068408,
+        "word": "下雨天 难听",
+        "onboard_time": 1716531020,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719907,
+        "num": 719907,
+        "word": "一精神障碍患者持刀伤人致8死1伤",
+        "onboard_time": 1716527720,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 603011,
+        "num": 603011,
+        "word": "目视距离0.6海里处是中国台湾郑和舰",
+        "onboard_time": 1716527120,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 528317,
+        "num": 528317,
+        "word": "陈昊宇你好媚",
+        "onboard_time": 1716529100,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461134,
+        "num": 461134,
+        "word": "小狗刚出生就发硬怎么回事",
+        "onboard_time": 1716526461,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 281993,
+        "num": 442197,
+        "word": "台湾必将回归祖国怀抱",
+        "onboard_time": 1716519017,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 588649,
+        "num": 441012,
+        "word": "哈佛剥夺13名支持巴勒斯坦毕业生学位",
+        "onboard_time": 1716528259,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 432468,
+        "num": 432468,
+        "word": "歌手歌单",
+        "onboard_time": 1716525741,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393331,
+        "num": 393331,
+        "word": "人家是黑化她是真黑",
+        "onboard_time": 1716530060,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389114,
+        "num": 389114,
+        "word": "宁静把浪姐训练服卖了",
+        "onboard_time": 1716514938,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 382555,
+        "num": 382555,
+        "word": "阿里宣布对大公司病开刀",
+        "onboard_time": 1716524421,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 362673,
+        "num": 362673,
+        "word": "蜀绣 好听",
+        "onboard_time": 1716528319,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352991,
+        "num": 352991,
+        "word": "贺军翔经纪人回应",
+        "onboard_time": 1716531379,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284043,
+        "num": 284043,
+        "word": "数架轰炸机前出岛链",
+        "onboard_time": 1716528139,
+        "rank": 17,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 267117,
+        "num": 267117,
+        "word": "在台湾岛三个方向演练的意义",
+        "onboard_time": 1716507016,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249305,
+        "num": 249305,
+        "word": "王楚钦孙颖莎止步混双8强",
+        "onboard_time": 1716523400,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553553,
+        "num": 249277,
+        "word": "为什么国内夫妻很少见戴婚戒",
+        "onboard_time": 1716531438,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309551,
+        "num": 249206,
+        "word": "亚当选曲",
+        "onboard_time": 1716526041,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288410,
+        "num": 249151,
+        "word": "王铮亮 披荆斩棘的哥哥",
+        "onboard_time": 1716529459,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277466,
+        "num": 249104,
+        "word": "周杰伦问刘畊宏你一定要露胸肌吗",
+        "onboard_time": 1716531080,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273052,
+        "num": 249033,
+        "word": "杨丞琳",
+        "onboard_time": 1716508939,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250890,
+        "num": 248998,
+        "word": "我跟秦始皇就隔了20个人",
+        "onboard_time": 1716528679,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248977,
+        "num": 248977,
+        "word": "小雨妆造",
+        "onboard_time": 1716526641,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246908,
+        "num": 246908,
+        "word": "披荆斩棘的哥哥路透",
+        "onboard_time": 1716531978,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225342,
+        "num": 225342,
+        "word": "当这些清北女性决定买精生子",
+        "onboard_time": 1716526100,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211736,
+        "num": 211736,
+        "word": "海来阿木呼吁解决直播打赏问题",
+        "onboard_time": 1716526160,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192814,
+        "num": 192814,
+        "word": "霍启仁求婚成功",
+        "onboard_time": 1716507497,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188046,
+        "num": 188046,
+        "word": "原来一次性内裤不是纯棉的最好",
+        "onboard_time": 1716512000,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184938,
+        "num": 184938,
+        "word": "谷爱凌金发刘海",
+        "onboard_time": 1716531558,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179835,
+        "num": 179835,
+        "word": "东部战区",
+        "onboard_time": 1716510440,
+        "rank": 33,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 174640,
+        "num": 174640,
+        "word": "中国台湾937舰这里是中国管辖海域",
+        "onboard_time": 1716478999,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171959,
+        "num": 171959,
+        "word": "杀独神器",
+        "onboard_time": 1716527539,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171237,
+        "num": 171237,
+        "word": "NewJeans新歌空降成绩",
+        "onboard_time": 1716531679,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159880,
+        "num": 159880,
+        "word": "入职一周因为牙痛领导给我转正了",
+        "onboard_time": 1716518478,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158771,
+        "num": 158771,
+        "word": "赵丽颖 客串逍遥",
+        "onboard_time": 1716516558,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157483,
+        "num": 157483,
+        "word": "小雨舞台好勾魂",
+        "onboard_time": 1716532280,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157190,
+        "num": 157190,
+        "word": "原来济南是青岛的空调外挂机",
+        "onboard_time": 1716532280,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147740,
+        "num": 147740,
+        "word": "TFBOYS转发王源广州巡演",
+        "onboard_time": 1716523999,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137905,
+        "num": 137905,
+        "word": "成都开办中国第一家牙科诊所",
+        "onboard_time": 1716530659,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136978,
+        "num": 136978,
+        "word": "无法考公的中年人开始争抢社区劳务派遣",
+        "onboard_time": 1716524841,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136763,
+        "num": 136763,
+        "word": "肖战入围微博年度瞩目影人",
+        "onboard_time": 1716526401,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131293,
+        "num": 131293,
+        "word": "杨幂工作室连发8条微博",
+        "onboard_time": 1716507497,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119834,
+        "num": 119834,
+        "word": "alex2024星座分析",
+        "onboard_time": 1716532459,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108584,
+        "num": 108584,
+        "word": "愿逆风如解意 容易莫摧残",
+        "onboard_time": 1716532218,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108311,
+        "num": 108311,
+        "word": "太原赛陈梦王曼昱进四强",
+        "onboard_time": 1716530420,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104895,
+        "num": 104895,
+        "word": "B太又对榴莲出手了",
+        "onboard_time": 1716526521,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山东日照考察调研#"
+    }
+  }
+}
