@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716582878689,
+  "endTime": 1716585504412,
   "band_list": [
     {
       "raw_hot": 2416405,
@@ -411,20 +411,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80721,
+      "num": 80721,
+      "word": "多方向抵近台岛战巡演练模拟动画",
+      "onboard_time": 1716576372,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78872,
       "num": 241624,
       "word": "港媒称香港一女警将入选预备航天员",
       "onboard_time": 1716548958,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78727,
-      "num": 78727,
-      "word": "多方向抵近台岛战巡演练模拟动画",
-      "onboard_time": 1716576372,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 73779,
@@ -531,6 +531,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 19228,
+      "num": 18027,
+      "word": "朱丹周一围新合照",
+      "onboard_time": 1716585013,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18256,
+      "num": 35970,
+      "word": "祖国统一是历史大势人间正道",
+      "onboard_time": 1716578472,
+      "rank": 49,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 18207,
       "num": 253852,
       "word": "听着小美满愿丰收美满",
@@ -539,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16167,
-      "num": 35970,
-      "word": "祖国统一是历史大势人间正道",
-      "onboard_time": 1716578472,
-      "rank": 49,
-      "category": "国内时政,军事"
+      "raw_hot": 17450,
+      "num": 17450,
+      "word": "田嘉瑞在开心麻花待了三年",
+      "onboard_time": 1716582790,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 13431,
