@@ -1,0 +1,410 @@
+{
+  "runTime": 1716550546615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6989782,
+        "num": 6989782,
+        "word": "中国台湾省",
+        "onboard_time": 1716539539,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1386719,
+        "num": 1386719,
+        "word": "沈梦辰代替何炅主持今晚歌手",
+        "onboard_time": 1716545240,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15909,
+        "num": 905426,
+        "word": "文博会太太太太太火了",
+        "onboard_time": 1716550338,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644109,
+        "num": 644109,
+        "word": "doge原型去世",
+        "onboard_time": 1716539298,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 591200,
+        "num": 591200,
+        "word": "联合国称台湾是中国的一个省",
+        "onboard_time": 1716530239,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 490261,
+        "num": 490261,
+        "word": "台湾当归",
+        "onboard_time": 1716514577,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470298,
+        "num": 470298,
+        "word": "刘亦菲安妮海瑟薇公主牵手",
+        "onboard_time": 1716546679,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458827,
+        "num": 458827,
+        "word": "歌手歌单",
+        "onboard_time": 1716525741,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378819,
+        "num": 424959,
+        "word": "国防部说打的是台独嚣张气焰",
+        "onboard_time": 1716536419,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 423117,
+        "num": 423117,
+        "word": "上海迪士尼调整门票结构",
+        "onboard_time": 1716549677,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 386832,
+        "num": 386832,
+        "word": "港媒称香港一女警将入选预备航天员",
+        "onboard_time": 1716548958,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381849,
+        "num": 381849,
+        "word": "王妈也是风韵犹存",
+        "onboard_time": 1716545179,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364448,
+        "num": 364448,
+        "word": "你的体制内偶像来啦",
+        "onboard_time": 1716540860,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331859,
+        "num": 331859,
+        "word": "下雨天 难听",
+        "onboard_time": 1716531020,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295575,
+        "num": 295575,
+        "word": "怎么解决台湾问题是中国人民自己的事",
+        "onboard_time": 1716537678,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288220,
+        "num": 288220,
+        "word": "QQ飞车手游",
+        "onboard_time": 1716548899,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272328,
+        "num": 272328,
+        "word": "贺军翔被告性骚扰",
+        "onboard_time": 1716536059,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205403,
+        "num": 205403,
+        "word": "东部战区火箭军某旅导弹雨中起竖",
+        "onboard_time": 1716543439,
+        "rank": 17,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 76252,
+        "num": 197833,
+        "word": "外滩惊现显眼豹",
+        "onboard_time": 1716547998,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197613,
+        "num": 197613,
+        "word": "广州到长沙仅需70分钟",
+        "onboard_time": 1716543559,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593838,
+        "num": 197178,
+        "word": "已被正式确诊为液态人",
+        "onboard_time": 1716546019,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 503448,
+        "num": 197067,
+        "word": "爷爷爸爸去世奶奶不知情录视频呼唤",
+        "onboard_time": 1716544399,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242935,
+        "num": 196249,
+        "word": "郭保坤的爹 最清醒的人",
+        "onboard_time": 1716548178,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165349,
+        "num": 195909,
+        "word": "一精神障碍患者持刀伤人致8死1伤",
+        "onboard_time": 1716527720,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 233861,
+        "num": 195492,
+        "word": "歌手豆瓣开分6.7",
+        "onboard_time": 1716548659,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29905,
+        "num": 194870,
+        "word": "体验数字里的衣食住行",
+        "onboard_time": 1716549739,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223627,
+        "num": 194603,
+        "word": "华晨宇上一秒得意下一秒道歉",
+        "onboard_time": 1716547700,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222915,
+        "num": 194156,
+        "word": "歌手2024将会邀请更多国际咖",
+        "onboard_time": 1716542900,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222688,
+        "num": 193773,
+        "word": "付辛博张新成微博互动",
+        "onboard_time": 1716549739,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215308,
+        "num": 193090,
+        "word": "aespa造型",
+        "onboard_time": 1716546139,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203994,
+        "num": 192726,
+        "word": "庆余年2豆瓣开分7分",
+        "onboard_time": 1716538101,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198946,
+        "num": 192400,
+        "word": "田田小阿姨粉丝数不降反升",
+        "onboard_time": 1716541399,
+        "rank": 31,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 191991,
+        "num": 191991,
+        "word": "戚薇妆前妆后",
+        "onboard_time": 1716545480,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180719,
+        "num": 180719,
+        "word": "尤长靖人没去歌手歌先去了",
+        "onboard_time": 1716543139,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175596,
+        "num": 175596,
+        "word": "为什么国内夫妻很少见戴婚戒",
+        "onboard_time": 1716531438,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175038,
+        "num": 175038,
+        "word": "刘亦菲被路人喊黄亦玫",
+        "onboard_time": 1716546919,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172378,
+        "num": 172378,
+        "word": "歌手2024",
+        "onboard_time": 1716550038,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162864,
+        "num": 162864,
+        "word": "京东高管反思管理不善",
+        "onboard_time": 1716549078,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138034,
+        "num": 138034,
+        "word": "郭广昌称癌症是可以治愈的",
+        "onboard_time": 1716546319,
+        "rank": 38,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 137502,
+        "num": 137502,
+        "word": "Uzi队线下训练解散",
+        "onboard_time": 1716546979,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147691,
+        "num": 137341,
+        "word": "时代少年团练团舞练到半夜",
+        "onboard_time": 1716548958,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146507,
+        "num": 136376,
+        "word": "恋爱兄妹",
+        "onboard_time": 1716550338,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9183,
+        "num": 134376,
+        "word": "卡姿兰火到国外",
+        "onboard_time": 1716546139,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134196,
+        "num": 134196,
+        "word": "6个需要注意的防晒误区",
+        "onboard_time": 1716544819,
+        "rank": 43,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 145796,
+        "num": 132266,
+        "word": "李胜利柬埔寨开夜店",
+        "onboard_time": 1716536659,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127731,
+        "num": 127731,
+        "word": "ZB1音银一位",
+        "onboard_time": 1716549138,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125880,
+        "num": 125880,
+        "word": "肖战纯白低V衬衫",
+        "onboard_time": 1716547459,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116047,
+        "num": 116047,
+        "word": "奶茶里面都有什么",
+        "onboard_time": 1716550278,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113594,
+        "num": 113594,
+        "word": "防晒霜并非防晒指数越高越好",
+        "onboard_time": 1716548958,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 106616,
+        "num": 113196,
+        "word": "东北人家庭观念真的好强",
+        "onboard_time": 1716550218,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#让更多国家和人民共享互联网发展成果#"
+    }
+  }
+}
