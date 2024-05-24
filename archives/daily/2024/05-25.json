@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716585504412,
+  "endTime": 1716586484315,
   "band_list": [
     {
       "raw_hot": 2416405,
@@ -411,8 +411,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 80721,
-      "num": 80721,
+      "raw_hot": 84070,
+      "num": 84070,
       "word": "多方向抵近台岛战巡演练模拟动画",
       "onboard_time": 1716576372,
       "rank": 28,
@@ -483,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28164,
+      "num": 22084,
+      "word": "朱丹周一围新合照",
+      "onboard_time": 1716585013,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26792,
       "num": 876192,
       "word": "体验数字里的衣食住行",
@@ -531,12 +539,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 19228,
-      "num": 18027,
-      "word": "朱丹周一围新合照",
-      "onboard_time": 1716585013,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 19137,
+      "num": 17968,
+      "word": "田嘉瑞在开心麻花待了三年",
+      "onboard_time": 1716582790,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 18256,
@@ -553,14 +561,6 @@
       "onboard_time": 1716558148,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17450,
-      "num": 17450,
-      "word": "田嘉瑞在开心麻花待了三年",
-      "onboard_time": 1716582790,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 13431,

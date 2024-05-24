@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716585504412,
+  "endTime": 1716586484315,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -62259,6 +62259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84070,
+      "num": 84070,
+      "word": "多方向抵近台岛战巡演练模拟动画",
+      "onboard_time": 1716576372,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83948,
       "num": 808314,
       "word": "匈牙利为何被称为最西边的东方国家",
@@ -62465,14 +62473,6 @@
       "onboard_time": 1714790177,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80721,
-      "num": 80721,
-      "word": "多方向抵近台岛战巡演练模拟动画",
-      "onboard_time": 1716576372,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 80620,
@@ -66395,6 +66395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28164,
+      "num": 22084,
+      "word": "朱丹周一围新合照",
+      "onboard_time": 1716585013,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28119,
       "num": 326414,
       "word": "悦鲜活急了",
@@ -67003,20 +67011,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19228,
-      "num": 18027,
-      "word": "朱丹周一围新合照",
-      "onboard_time": 1716585013,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 19184,
       "num": 90027,
       "word": "用色卡的方式打开文物",
       "onboard_time": 1716075134,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19137,
+      "num": 17968,
+      "word": "田嘉瑞在开心麻花待了三年",
+      "onboard_time": 1716582790,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 19057,
@@ -67129,14 +67137,6 @@
       "onboard_time": 1715092881,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 17450,
-      "num": 17450,
-      "word": "田嘉瑞在开心麻花待了三年",
-      "onboard_time": 1716582790,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 16988,

@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716585504412,
+  "endTime": 1716586484315,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -15723,6 +15723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84070,
+      "num": 84070,
+      "word": "多方向抵近台岛战巡演练模拟动画",
+      "onboard_time": 1716576372,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83930,
       "num": 318618,
       "word": "00后视障男孩做播客还带了徒弟",
@@ -15753,14 +15761,6 @@
       "onboard_time": 1716518537,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 80721,
-      "num": 80721,
-      "word": "多方向抵近台岛战巡演练模拟动画",
-      "onboard_time": 1716576372,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 80620,
@@ -17107,6 +17107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28164,
+      "num": 22084,
+      "word": "朱丹周一围新合照",
+      "onboard_time": 1716585013,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27323,
       "num": 29190,
       "word": "曼城英超四连冠",
@@ -17363,20 +17371,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19228,
-      "num": 18027,
-      "word": "朱丹周一围新合照",
-      "onboard_time": 1716585013,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 19184,
       "num": 90027,
       "word": "用色卡的方式打开文物",
       "onboard_time": 1716075134,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19137,
+      "num": 17968,
+      "word": "田嘉瑞在开心麻花待了三年",
+      "onboard_time": 1716582790,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 18889,
@@ -17425,14 +17433,6 @@
       "onboard_time": 1716236469,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 17450,
-      "num": 17450,
-      "word": "田嘉瑞在开心麻花待了三年",
-      "onboard_time": 1716582790,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 16772,
