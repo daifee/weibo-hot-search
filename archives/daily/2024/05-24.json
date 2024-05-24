@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716538989921,
+  "endTime": 1716539750132,
   "band_list": [
     {
       "raw_hot": 10288448,
@@ -51,8 +51,8 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 1493139,
-      "num": 1493139,
+      "raw_hot": 1495925,
+      "num": 1495925,
       "word": "联合国称台湾是中国的一个省",
       "onboard_time": 1716530239,
       "rank": 3,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1176761,
+      "num": 1176761,
+      "word": "中国台湾省",
+      "onboard_time": 1716539539,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1049033,
       "num": 564456,
       "word": "原来一次性内裤不是纯棉的最好",
@@ -163,8 +171,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 805782,
-      "num": 805782,
+      "raw_hot": 816659,
+      "num": 816659,
       "word": "李胜利柬埔寨开夜店",
       "onboard_time": 1716536659,
       "rank": 6,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 643308,
-      "num": 217340,
+      "num": 359383,
       "word": "怎么解决台湾问题是中国人民自己的事",
       "onboard_time": 1716537678,
       "rank": 30,
@@ -307,8 +315,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595069,
+      "num": 595069,
+      "word": "庆余年2豆瓣开分7分",
+      "onboard_time": 1716538101,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 591735,
-      "num": 287457,
+      "num": 301048,
       "word": "为什么国内夫妻很少见戴婚戒",
       "onboard_time": 1716531438,
       "rank": 22,
@@ -387,6 +403,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 530411,
+      "num": 451889,
+      "word": "李惠利徐睿知签同公司",
+      "onboard_time": 1716538101,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518211,
       "num": 518211,
       "word": "人民日报评老乡鸡葱油鸡加20克",
@@ -425,14 +449,6 @@
       "onboard_time": 1716494471,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451889,
-      "num": 451889,
-      "word": "李惠利徐睿知签同公司",
-      "onboard_time": 1716538101,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 449755,
@@ -513,14 +529,6 @@
       "onboard_time": 1716526100,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 392745,
-      "num": 392745,
-      "word": "庆余年2豆瓣开分7分",
-      "onboard_time": 1716538101,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 389427,
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311408,
+      "num": 311408,
+      "word": "皇马拒绝姆巴佩参加巴黎奥运会",
+      "onboard_time": 1716537920,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311302,
       "num": 311302,
       "word": "贺军翔手机遭警方扣查",
@@ -689,14 +705,6 @@
       "onboard_time": 1716517099,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 288033,
-      "num": 288033,
-      "word": "皇马拒绝姆巴佩参加巴黎奥运会",
-      "onboard_time": 1716537920,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 287804,
@@ -859,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240657,
+      "num": 240657,
+      "word": "中国台湾94年服役的郑和舰",
+      "onboard_time": 1716537499,
+      "rank": 27,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 238185,
       "num": 255012,
       "word": "古茗免单",
@@ -889,14 +905,6 @@
       "onboard_time": 1716523280,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230141,
-      "num": 230141,
-      "word": "中国台湾94年服役的郑和舰",
-      "onboard_time": 1716537499,
-      "rank": 27,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 227525,
@@ -995,12 +1003,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 209961,
+      "num": 209961,
+      "word": "doge原型去世",
+      "onboard_time": 1716539298,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 209417,
       "num": 164654,
       "word": "左航小作文",
       "onboard_time": 1716465139,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207864,
+      "num": 207864,
+      "word": "正式确诊为排球少年研磨",
+      "onboard_time": 1716539598,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 203564,
@@ -1035,12 +1059,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198157,
+      "num": 198157,
+      "word": "台独挑衅一次反制就推进一步直至统一",
+      "onboard_time": 1716539539,
+      "rank": 31,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 196775,
       "num": 196775,
       "word": "NewJeans新歌空降成绩",
       "onboard_time": 1716531679,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196625,
+      "num": 196625,
+      "word": "十个勤天包场支持龚俊",
+      "onboard_time": 1716539359,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 196381,
@@ -1235,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162036,
+      "num": 476036,
+      "word": "二十只东北虎死亡背后",
+      "onboard_time": 1716537618,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 161832,
       "num": 161832,
       "word": "陈丽君 文博会",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1716526821,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160417,
+      "num": 160417,
+      "word": "为什么裤子的开口都在正前方",
+      "onboard_time": 1716535998,
+      "rank": 43,
+      "category": "幽默,科学科普"
     },
     {
       "raw_hot": 157483,
@@ -1296,6 +1352,14 @@
       "word": "易烊千玺说小小的我难度有点高",
       "onboard_time": 1716514998,
       "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 152186,
+      "num": 152186,
+      "word": "年度瞩目影人入围名单",
+      "onboard_time": 1716539179,
+      "rank": 44,
       "category": "电影"
     },
     {
@@ -1387,14 +1451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143251,
-      "num": 143251,
-      "word": "为什么裤子的开口都在正前方",
-      "onboard_time": 1716535998,
-      "rank": 43,
-      "category": "幽默,科学科普"
-    },
-    {
       "raw_hot": 141164,
       "num": 141164,
       "word": "太原赛陈梦王曼昱进四强",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1716518237,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139801,
+      "num": 139801,
+      "word": "郭碧婷 时间煮雨",
+      "onboard_time": 1716539718,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 136909,
@@ -1563,20 +1627,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114029,
-      "num": 476036,
-      "word": "二十只东北虎死亡背后",
-      "onboard_time": 1716537618,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
-    },
-    {
       "raw_hot": 112576,
       "num": 112576,
       "word": "酱园弄剧组将亮相戛纳",
       "onboard_time": 1716506836,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112460,
+      "num": 385852,
+      "word": "刘语熙教巴拉克喝中国茶",
+      "onboard_time": 1716537618,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 110997,
@@ -1683,15 +1747,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 79739,
-      "num": 385852,
-      "word": "刘语熙教巴拉克喝中国茶",
-      "onboard_time": 1716537618,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 74879,
+      "raw_hot": 76040,
       "num": 253226,
       "word": "停车场偶遇张新成",
       "onboard_time": 1716536178,
@@ -1780,7 +1836,7 @@
     },
     {
       "raw_hot": 47194,
-      "num": 156337,
+      "num": 165601,
       "word": "用AI的方式打开数字福州",
       "onboard_time": 1716537618,
       "rank": 39,
@@ -1884,7 +1940,7 @@
     },
     {
       "raw_hot": 20054,
-      "num": 187333,
+      "num": 188621,
       "word": "比亚迪李云飞称528放大招",
       "onboard_time": 1716536539,
       "rank": 34,
