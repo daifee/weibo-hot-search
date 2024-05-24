@@ -1,0 +1,410 @@
+{
+  "runTime": 1716527913296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9333494,
+        "num": 9333494,
+        "word": "台湾当归",
+        "onboard_time": 1716514577,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1076664,
+        "num": 1076664,
+        "word": "台湾必将回归祖国怀抱",
+        "onboard_time": 1716519017,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40541,
+        "num": 914038,
+        "word": "来福州探寻数字峰会亮点",
+        "onboard_time": 1716518537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873350,
+        "num": 873350,
+        "word": "阿里宣布对大公司病开刀",
+        "onboard_time": 1716524421,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 723332,
+        "num": 723332,
+        "word": "亚当选曲",
+        "onboard_time": 1716526041,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679703,
+        "num": 679703,
+        "word": "宁静把浪姐训练服卖了",
+        "onboard_time": 1716514938,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673345,
+        "num": 673345,
+        "word": "王楚钦孙颖莎止步混双8强",
+        "onboard_time": 1716523400,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654305,
+        "num": 654305,
+        "word": "歌手歌单",
+        "onboard_time": 1716525741,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584402,
+        "num": 584402,
+        "word": "在台湾岛三个方向演练的意义",
+        "onboard_time": 1716507016,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81621,
+        "num": 561254,
+        "word": "杀独神器",
+        "onboard_time": 1716527539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811803,
+        "num": 559078,
+        "word": "杨丞琳",
+        "onboard_time": 1716508939,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556886,
+        "num": 556886,
+        "word": "霍启仁求婚成功",
+        "onboard_time": 1716507497,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 471402,
+        "num": 471402,
+        "word": "东部战区",
+        "onboard_time": 1716510440,
+        "rank": 12,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 446548,
+        "num": 446548,
+        "word": "海来阿木呼吁解决直播打赏问题",
+        "onboard_time": 1716526160,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374347,
+        "num": 374347,
+        "word": "曾自首杀妻男子无罪释放21年后再被抓",
+        "onboard_time": 1716520517,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365987,
+        "num": 365987,
+        "word": "原来一次性内裤不是纯棉的最好",
+        "onboard_time": 1716512000,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 362834,
+        "num": 362834,
+        "word": "小雨妆造",
+        "onboard_time": 1716526641,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355473,
+        "num": 355473,
+        "word": "NewJeans回归",
+        "onboard_time": 1716524361,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354152,
+        "num": 354152,
+        "word": "中国台湾937舰这里是中国管辖海域",
+        "onboard_time": 1716478999,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227525,
+        "num": 347650,
+        "word": "夏以昼 国宴",
+        "onboard_time": 1716525799,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 518514,
+        "num": 346844,
+        "word": "入职一周因为牙痛领导给我转正了",
+        "onboard_time": 1716518478,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394110,
+        "num": 346808,
+        "word": "当这些清北女性决定买精生子",
+        "onboard_time": 1716526100,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343985,
+        "num": 343985,
+        "word": "乘风三公",
+        "onboard_time": 1716525082,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320499,
+        "num": 320499,
+        "word": "无法考公的中年人开始争抢社区劳务派遣",
+        "onboard_time": 1716524841,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284681,
+        "num": 284681,
+        "word": "所有人都有妈妈范闲没有",
+        "onboard_time": 1716525441,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274745,
+        "num": 274745,
+        "word": "赵丽颖 客串逍遥",
+        "onboard_time": 1716516558,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110080,
+        "num": 271843,
+        "word": "B太又对榴莲出手了",
+        "onboard_time": 1716526521,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269664,
+        "num": 269664,
+        "word": "亚当穿奥斯卡战袍录歌手",
+        "onboard_time": 1716519017,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260356,
+        "num": 260356,
+        "word": "肖战入围微博年度瞩目影人",
+        "onboard_time": 1716526401,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249734,
+        "num": 249734,
+        "word": "那英有种我妈当明星的松弛感",
+        "onboard_time": 1716520159,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455932,
+        "num": 238422,
+        "word": "小狗刚出生就发硬怎么回事",
+        "onboard_time": 1716526461,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 351625,
+        "num": 238026,
+        "word": "目视距离0.6海里处是中国台湾郑和舰",
+        "onboard_time": 1716527120,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219544,
+        "num": 219544,
+        "word": "杨幂工作室连发8条微博",
+        "onboard_time": 1716507497,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212387,
+        "num": 212387,
+        "word": "我以为没有网购套路能骗到我了",
+        "onboard_time": 1716515838,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201613,
+        "num": 201613,
+        "word": "TFBOYS转发王源广州巡演",
+        "onboard_time": 1716523999,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197329,
+        "num": 197329,
+        "word": "当方脸瘦了二十斤以后",
+        "onboard_time": 1716507197,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 195795,
+        "num": 195795,
+        "word": "向佐让李胜利离中国香港远一点",
+        "onboard_time": 1716474021,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194407,
+        "num": 194407,
+        "word": "how sweet",
+        "onboard_time": 1716527660,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190771,
+        "num": 190771,
+        "word": "离职后退了一千多个工作群",
+        "onboard_time": 1716503834,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188603,
+        "num": 188603,
+        "word": "一精神障碍患者持刀伤人致8死1伤",
+        "onboard_time": 1716527720,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 187539,
+        "num": 187539,
+        "word": "贾跃亭称他生存需求都有问题了",
+        "onboard_time": 1716524721,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 180999,
+        "num": 180999,
+        "word": "造谣王一博的晗晗qvq被强执",
+        "onboard_time": 1716523941,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178449,
+        "num": 178449,
+        "word": "涂磊中国首席情感导师认证已被撤",
+        "onboard_time": 1716521539,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167076,
+        "num": 167076,
+        "word": "9.9咖啡大战拖垮库迪熬伤瑞幸",
+        "onboard_time": 1716518898,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160599,
+        "num": 160599,
+        "word": "直观感受到了从爱到不爱的过程",
+        "onboard_time": 1716526821,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156724,
+        "num": 156724,
+        "word": "小心这5种首饰戴多了或伤身",
+        "onboard_time": 1716512359,
+        "rank": 45,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 155584,
+        "num": 155584,
+        "word": "蔡徐坤13岁时演过童话二分之一",
+        "onboard_time": 1716520219,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148712,
+        "num": 148712,
+        "word": "乘风2024",
+        "onboard_time": 1716526521,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146557,
+        "num": 146557,
+        "word": "莎头",
+        "onboard_time": 1716523882,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144260,
+        "num": 144260,
+        "word": "末代厨娘定档",
+        "onboard_time": 1716522919,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步全面深化改革大潮正起#"
+    }
+  }
+}

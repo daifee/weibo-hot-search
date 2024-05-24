@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716525433050,
+  "endTime": 1716527913296,
   "band_list": [
     {
       "raw_hot": 10288448,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 903144,
-      "num": 304418,
+      "num": 346844,
       "word": "入职一周因为牙痛领导给我转正了",
       "onboard_time": 1716518478,
       "rank": 32,
@@ -105,6 +105,14 @@
       "onboard_time": 1716457520,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 873350,
+      "num": 873350,
+      "word": "阿里宣布对大公司病开刀",
+      "onboard_time": 1716524421,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 826213,
@@ -135,6 +143,14 @@
       "num": 734869,
       "word": "亚当更新微博",
       "onboard_time": 1716511101,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 723332,
+      "num": 723332,
+      "word": "亚当选曲",
+      "onboard_time": 1716526041,
       "rank": 4,
       "category": "综艺"
     },
@@ -177,6 +193,14 @@
       "onboard_time": 1716511940,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 654305,
+      "num": 654305,
+      "word": "歌手歌单",
+      "onboard_time": 1716525741,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 640150,
@@ -259,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461686,
-      "num": 442040,
-      "word": "阿里宣布对大公司病开刀",
-      "onboard_time": 1716524421,
-      "rank": 37,
-      "category": "互联网"
+      "raw_hot": 455932,
+      "num": 238422,
+      "word": "小狗刚出生就发硬怎么回事",
+      "onboard_time": 1716526461,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 449755,
@@ -281,6 +305,14 @@
       "onboard_time": 1716512359,
       "rank": 22,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 446548,
+      "num": 446548,
+      "word": "海来阿木呼吁解决直播打赏问题",
+      "onboard_time": 1716526160,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 445362,
@@ -323,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394110,
+      "num": 346808,
+      "word": "当这些清北女性决定买精生子",
+      "onboard_time": 1716526100,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389427,
       "num": 389427,
       "word": "赵丽颖在人间杀青了",
@@ -345,6 +385,30 @@
       "onboard_time": 1716461719,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362834,
+      "num": 362834,
+      "word": "小雨妆造",
+      "onboard_time": 1716526641,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 351625,
+      "num": 238026,
+      "word": "目视距离0.6海里处是中国台湾郑和舰",
+      "onboard_time": 1716527120,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 343985,
+      "num": 343985,
+      "word": "乘风三公",
+      "onboard_time": 1716525082,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 337407,
@@ -371,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320499,
+      "num": 320499,
+      "word": "无法考公的中年人开始争抢社区劳务派遣",
+      "onboard_time": 1716524841,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310837,
       "num": 310837,
       "word": "逆水寒",
@@ -385,14 +457,6 @@
       "onboard_time": 1716506356,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301915,
-      "num": 271659,
-      "word": "乘风三公",
-      "onboard_time": 1716525082,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 300911,
@@ -425,6 +489,14 @@
       "onboard_time": 1716506655,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 284681,
+      "num": 284681,
+      "word": "所有人都有妈妈范闲没有",
+      "onboard_time": 1716525441,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 282472,
@@ -473,6 +545,14 @@
       "onboard_time": 1716520219,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260356,
+      "num": 260356,
+      "word": "肖战入围微博年度瞩目影人",
+      "onboard_time": 1716526401,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 259315,
@@ -555,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227525,
+      "num": 347650,
+      "word": "夏以昼 国宴",
+      "onboard_time": 1716525799,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 227067,
       "num": 227067,
       "word": "造谣王一博的晗晗qvq被强执",
@@ -593,14 +681,6 @@
       "onboard_time": 1716517039,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 219484,
-      "num": 219484,
-      "word": "无法考公的中年人开始争抢社区劳务派遣",
-      "onboard_time": 1716524841,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217374,
@@ -683,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194407,
+      "num": 194407,
+      "word": "how sweet",
+      "onboard_time": 1716527660,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191096,
       "num": 191096,
       "word": "贾跃亭称他生存需求都有问题了",
@@ -705,6 +793,14 @@
       "onboard_time": 1716521058,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188603,
+      "num": 188603,
+      "word": "一精神障碍患者持刀伤人致8死1伤",
+      "onboard_time": 1716527720,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 188229,
@@ -819,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160599,
+      "num": 160599,
+      "word": "直观感受到了从爱到不爱的过程",
+      "onboard_time": 1716526821,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156975,
       "num": 156975,
       "word": "这个发型真的好显脸小",
@@ -873,6 +977,14 @@
       "onboard_time": 1716517278,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 148712,
+      "num": 148712,
+      "word": "乘风2024",
+      "onboard_time": 1716526521,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 146687,
@@ -1051,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110080,
+      "num": 271843,
+      "word": "B太又对榴莲出手了",
+      "onboard_time": 1716526521,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109791,
       "num": 109791,
       "word": "新疆阿克苏4.5级地震",
@@ -1137,6 +1257,14 @@
       "onboard_time": 1716518537,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 81621,
+      "num": 561254,
+      "word": "杀独神器",
+      "onboard_time": 1716527539,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71353,
@@ -1356,6 +1484,9 @@
     },
     {
       "word": "#习近平主持召开企业和专家座谈会#"
+    },
+    {
+      "word": "#进一步全面深化改革大潮正起#"
     }
   ]
 }
