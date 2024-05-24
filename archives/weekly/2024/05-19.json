@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716581985995,
+  "endTime": 1716582878689,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -15827,20 +15827,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 78727,
+      "num": 78727,
+      "word": "多方向抵近台岛战巡演练模拟动画",
+      "onboard_time": 1716576372,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78585,
       "num": 590273,
       "word": "李玫瑾谈未成年人犯罪",
       "onboard_time": 1716372319,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77889,
-      "num": 77889,
-      "word": "多方向抵近台岛战巡演练模拟动画",
-      "onboard_time": 1716576372,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 77636,
@@ -17427,20 +17427,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 16167,
+      "num": 35970,
+      "word": "祖国统一是历史大势人间正道",
+      "onboard_time": 1716578472,
+      "rank": 49,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 16115,
       "num": 277599,
       "word": "爱在EX30小满大满足",
       "onboard_time": 1716202519,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 16007,
-      "num": 35970,
-      "word": "祖国统一是历史大势人间正道",
-      "onboard_time": 1716578472,
-      "rank": 49,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 15833,
