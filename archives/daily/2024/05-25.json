@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716575069663,
+  "endTime": 1716575815460,
   "band_list": [
     {
       "raw_hot": 2416405,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136617,
+      "num": 136617,
+      "word": "台独在哪火力套餐就送到哪",
+      "onboard_time": 1716572353,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129401,
       "num": 245355,
       "word": "这类廉价食物真的防癌",
@@ -377,14 +385,6 @@
       "onboard_time": 1716567858,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107815,
-      "num": 107815,
-      "word": "台独在哪火力套餐就送到哪",
-      "onboard_time": 1716572353,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 106900,
@@ -499,7 +499,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 17630,
+      "raw_hot": 18207,
       "num": 253852,
       "word": "听着小美满愿丰收美满",
       "onboard_time": 1716558148,
