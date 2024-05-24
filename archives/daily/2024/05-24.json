@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716518548707,
+  "endTime": 1716520836207,
   "band_list": [
     {
       "raw_hot": 3689599,
@@ -91,6 +91,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 793022,
+      "num": 272141,
+      "word": "入职一周因为牙痛领导给我转正了",
+      "onboard_time": 1716518478,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 774754,
       "num": 339359,
       "word": "离职后退了一千多个工作群",
@@ -105,6 +113,14 @@
       "onboard_time": 1716511101,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 716929,
+      "num": 716929,
+      "word": "台湾必将回归祖国怀抱",
+      "onboard_time": 1716519017,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 714903,
@@ -163,6 +179,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 623193,
+      "num": 623193,
+      "word": "我以为没有网购套路能骗到我了",
+      "onboard_time": 1716515838,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591447,
+      "num": 591447,
+      "word": "亚当穿奥斯卡战袍录歌手",
+      "onboard_time": 1716519017,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 571728,
       "num": 571728,
       "word": "和男朋友用50元约会了一天",
@@ -177,14 +209,6 @@
       "onboard_time": 1716476842,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 514582,
-      "num": 514582,
-      "word": "我以为没有网购套路能骗到我了",
-      "onboard_time": 1716515838,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 500266,
@@ -267,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357799,
+      "num": 357799,
+      "word": "GAI把周杰伦名字刻在手心",
+      "onboard_time": 1716518537,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337407,
       "num": 337407,
       "word": "长期烧水和买桶装水喝哪个更健康",
@@ -289,6 +321,14 @@
       "onboard_time": 1716453979,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310837,
+      "num": 310837,
+      "word": "逆水寒",
+      "onboard_time": 1716518778,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 301942,
@@ -316,7 +356,7 @@
     },
     {
       "raw_hot": 296001,
-      "num": 237549,
+      "num": 253983,
       "word": "原来腰腹赘肉也有天敌",
       "onboard_time": 1716517099,
       "rank": 30,
@@ -337,6 +377,14 @@
       "onboard_time": 1716471980,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261750,
+      "num": 249604,
+      "word": "杨幂狐妖状态",
+      "onboard_time": 1716519738,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 259315,
@@ -380,7 +428,7 @@
     },
     {
       "raw_hot": 241354,
-      "num": 181666,
+      "num": 199367,
       "word": "电脑里前任同事留下的文档",
       "onboard_time": 1716517578,
       "rank": 36,
@@ -401,6 +449,22 @@
       "onboard_time": 1716513859,
       "rank": 9,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 228361,
+      "num": 228361,
+      "word": "那英有种我妈当明星的松弛感",
+      "onboard_time": 1716520159,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226710,
+      "num": 226710,
+      "word": "9.9咖啡大战拖垮库迪熬伤瑞幸",
+      "onboard_time": 1716518898,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 222712,
@@ -467,20 +531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208830,
+      "num": 208830,
+      "word": "曾自首杀妻男子无罪释放21年后再被抓",
+      "onboard_time": 1716520517,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208102,
+      "num": 208102,
+      "word": "蔡徐坤13岁时演过童话二分之一",
+      "onboard_time": 1716520219,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198697,
+      "num": 198697,
+      "word": "陈都灵八成有点喜欢我",
+      "onboard_time": 1716518898,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196381,
       "num": 196381,
       "word": "成毅代言纯享",
       "onboard_time": 1716517458,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192767,
-      "num": 180296,
-      "word": "入职一周因为牙痛领导给我转正了",
-      "onboard_time": 1716518478,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 190766,
@@ -521,6 +601,14 @@
       "onboard_time": 1716509359,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177636,
+      "num": 177636,
+      "word": "杰伦布朗40分",
+      "onboard_time": 1716520038,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 176011,
@@ -577,6 +665,14 @@
       "onboard_time": 1716466459,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156975,
+      "num": 156975,
+      "word": "这个发型真的好显脸小",
+      "onboard_time": 1716518598,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 153922,
@@ -651,6 +747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 139003,
+      "num": 300483,
+      "word": "夏天出去玩的底气是什么",
+      "onboard_time": 1716519917,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138448,
       "num": 138448,
       "word": "杰伦布朗真大腿",
@@ -673,6 +777,14 @@
       "onboard_time": 1716507976,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131752,
+      "num": 131752,
+      "word": "凯尔特人2比0步行者",
+      "onboard_time": 1716520758,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 130827,
@@ -752,14 +864,6 @@
       "word": "种地吧 一款适合打工人的综艺",
       "onboard_time": 1716480258,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 116963,
-      "num": 116963,
-      "word": "GAI把周杰伦名字刻在手心",
-      "onboard_time": 1716518537,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -860,11 +964,19 @@
     },
     {
       "raw_hot": 81801,
-      "num": 116431,
+      "num": 227655,
       "word": "来福州探寻数字峰会亮点",
       "onboard_time": 1716518537,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 76761,
+      "num": 459274,
+      "word": "开启自动驾驶后发生交通事故怎么算",
+      "onboard_time": 1716519619,
+      "rank": 9,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 71353,
@@ -969,6 +1081,14 @@
       "onboard_time": 1716485773,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36824,
+      "num": 358970,
+      "word": "天猫618增发千万张超大额购物券",
+      "onboard_time": 1716519619,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 32765,

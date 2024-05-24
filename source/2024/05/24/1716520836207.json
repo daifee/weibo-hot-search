@@ -1,0 +1,410 @@
+{
+  "runTime": 1716520836207,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3230061,
+        "num": 3230061,
+        "word": "台湾当归",
+        "onboard_time": 1716514577,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 974831,
+        "num": 974831,
+        "word": "宁静把浪姐训练服卖了",
+        "onboard_time": 1716514938,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12858,
+        "num": 748512,
+        "word": "第20届文博会",
+        "onboard_time": 1716442278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716929,
+        "num": 716929,
+        "word": "台湾必将回归祖国怀抱",
+        "onboard_time": 1716519017,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 623193,
+        "num": 623193,
+        "word": "我以为没有网购套路能骗到我了",
+        "onboard_time": 1716515838,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591447,
+        "num": 591447,
+        "word": "亚当穿奥斯卡战袍录歌手",
+        "onboard_time": 1716519017,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558995,
+        "num": 558995,
+        "word": "赵丽颖 客串逍遥",
+        "onboard_time": 1716516558,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556092,
+        "num": 556092,
+        "word": "东部战区",
+        "onboard_time": 1716510440,
+        "rank": 7,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 539642,
+        "num": 539642,
+        "word": "在台湾岛三个方向演练的意义",
+        "onboard_time": 1716507016,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76761,
+        "num": 459274,
+        "word": "开启自动驾驶后发生交通事故怎么算",
+        "onboard_time": 1716519619,
+        "rank": 9,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 718740,
+        "num": 459268,
+        "word": "原来一次性内裤不是纯棉的最好",
+        "onboard_time": 1716512000,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 707282,
+        "num": 442866,
+        "word": "霍启仁求婚成功",
+        "onboard_time": 1716507497,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 410977,
+        "num": 410977,
+        "word": "中国台湾937舰这里是中国管辖海域",
+        "onboard_time": 1716478999,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 361606,
+        "num": 361606,
+        "word": "向佐让李胜利离中国香港远一点",
+        "onboard_time": 1716474021,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36824,
+        "num": 358970,
+        "word": "天猫618增发千万张超大额购物券",
+        "onboard_time": 1716519619,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 357799,
+        "num": 357799,
+        "word": "GAI把周杰伦名字刻在手心",
+        "onboard_time": 1716518537,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310837,
+        "num": 310837,
+        "word": "逆水寒",
+        "onboard_time": 1716518778,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139003,
+        "num": 300483,
+        "word": "夏天出去玩的底气是什么",
+        "onboard_time": 1716519917,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290480,
+        "num": 290480,
+        "word": "杨丞琳",
+        "onboard_time": 1716508939,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279307,
+        "num": 279307,
+        "word": "杨幂工作室连发8条微博",
+        "onboard_time": 1716507497,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 793022,
+        "num": 272141,
+        "word": "入职一周因为牙痛领导给我转正了",
+        "onboard_time": 1716518478,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 445328,
+        "num": 272018,
+        "word": "离职后退了一千多个工作群",
+        "onboard_time": 1716503834,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362329,
+        "num": 265007,
+        "word": "当方脸瘦了二十斤以后",
+        "onboard_time": 1716507197,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 253983,
+        "num": 253983,
+        "word": "原来腰腹赘肉也有天敌",
+        "onboard_time": 1716517099,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 261750,
+        "num": 249604,
+        "word": "杨幂狐妖状态",
+        "onboard_time": 1716519738,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237572,
+        "num": 237572,
+        "word": "丫丫喜提大冰块",
+        "onboard_time": 1716515899,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237362,
+        "num": 237362,
+        "word": "东部战区持续位台岛周边演习",
+        "onboard_time": 1716513738,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228361,
+        "num": 228361,
+        "word": "那英有种我妈当明星的松弛感",
+        "onboard_time": 1716520159,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77712,
+        "num": 227655,
+        "word": "来福州探寻数字峰会亮点",
+        "onboard_time": 1716518537,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227534,
+        "num": 227534,
+        "word": "普京签令允许用美在俄资产补偿俄方损失",
+        "onboard_time": 1716511940,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226710,
+        "num": 226710,
+        "word": "9.9咖啡大战拖垮库迪熬伤瑞幸",
+        "onboard_time": 1716518898,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217851,
+        "num": 217851,
+        "word": "百万留学回国后月薪7000",
+        "onboard_time": 1716494471,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214818,
+        "num": 214818,
+        "word": "小心这5种首饰戴多了或伤身",
+        "onboard_time": 1716512359,
+        "rank": 32,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 210722,
+        "num": 210722,
+        "word": "亚当更新微博",
+        "onboard_time": 1716511101,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208830,
+        "num": 208830,
+        "word": "曾自首杀妻男子无罪释放21年后再被抓",
+        "onboard_time": 1716520517,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208102,
+        "num": 208102,
+        "word": "蔡徐坤13岁时演过童话二分之一",
+        "onboard_time": 1716520219,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199367,
+        "num": 199367,
+        "word": "电脑里前任同事留下的文档",
+        "onboard_time": 1716517578,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198697,
+        "num": 198697,
+        "word": "陈都灵八成有点喜欢我",
+        "onboard_time": 1716518898,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177636,
+        "num": 177636,
+        "word": "杰伦布朗40分",
+        "onboard_time": 1716520038,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167032,
+        "num": 167032,
+        "word": "李娟说年轻的秘密是不上班",
+        "onboard_time": 1716515418,
+        "rank": 39,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 166606,
+        "num": 166606,
+        "word": "B太揭秘100元3个榴莲内幕",
+        "onboard_time": 1716509239,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156975,
+        "num": 156975,
+        "word": "这个发型真的好显脸小",
+        "onboard_time": 1716518598,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144821,
+        "num": 144821,
+        "word": "赵丽颖在人间杀青了",
+        "onboard_time": 1716511940,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140716,
+        "num": 140716,
+        "word": "蔡徐坤放饭了",
+        "onboard_time": 1716508759,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137971,
+        "num": 137971,
+        "word": "aespa专辑",
+        "onboard_time": 1716517338,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137940,
+        "num": 137940,
+        "word": "杰伦布朗真大腿",
+        "onboard_time": 1716518237,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133325,
+        "num": 133325,
+        "word": "原来大小樱桃是这样挑出来的",
+        "onboard_time": 1716513859,
+        "rank": 46,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 131752,
+        "num": 131752,
+        "word": "凯尔特人2比0步行者",
+        "onboard_time": 1716520758,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126875,
+        "num": 126875,
+        "word": "鸣潮",
+        "onboard_time": 1716506115,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125593,
+        "num": 125593,
+        "word": "种地吧直播",
+        "onboard_time": 1716516918,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开企业和专家座谈会#"
+    }
+  }
+}

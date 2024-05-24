@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/24 10:42:28
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/24 11:20:36
 </p>
 </blockquote>
 <p>
@@ -5481,6 +5481,12 @@ IVE MV画面（热度：804062）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C%E4%B8%80%E5%91%A8%E5%9B%A0%E4%B8%BA%E7%89%99%E7%97%9B%E9%A2%86%E5%AF%BC%E7%BB%99%E6%88%91%E8%BD%AC%E6%AD%A3%E4%BA%86%23" target="weibo">
+入职一周因为牙痛领导给我转正了（热度：793022）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E9%81%93%20%E8%8A%B1%E5%B0%91%E5%8C%97%23" target="weibo">
 六道 花少北（热度：792172）
 </a>
@@ -6005,12 +6011,6 @@ G2不收徒（热度：791904）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C%23" target="weibo">
 四天工作制离我们还有多远（热度：747924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%B0%E5%A4%84%E8%AF%B4%E5%89%8D%E4%BB%BB%E6%AD%BB%E4%BA%86%E8%BF%9D%E6%B3%95%E5%90%97%23" target="weibo">
-到处说前任死了违法吗（热度：747860）
 </a>
 </li>
 
