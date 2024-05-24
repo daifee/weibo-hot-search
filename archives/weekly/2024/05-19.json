@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716592682843,
+  "endTime": 1716593764753,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -4059,6 +4059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 461630,
+      "num": 118667,
+      "word": "岳父母连续寄海鲜3个月小伙崩溃退群",
+      "onboard_time": 1716592995,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461079,
       "num": 423626,
       "word": "TFBOYS快本首秀要十周年了",
@@ -5003,6 +5011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 381077,
+      "num": 143359,
+      "word": "张若昀每天晚上好忙啊",
+      "onboard_time": 1716591794,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 380434,
       "num": 380434,
       "word": "林更新拉邓科爬山迷路",
@@ -5233,6 +5249,14 @@
       "onboard_time": 1716419715,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 354434,
+      "num": 114434,
+      "word": "伤肝又致癌甜饮料堪比伤肝水",
+      "onboard_time": 1716591853,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 353284,
@@ -6851,6 +6875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 267714,
+      "num": 127882,
+      "word": "吴镇宇 我向黑粉借厕纸",
+      "onboard_time": 1716591914,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267576,
       "num": 267576,
       "word": "徐海乔 披荆斩棘的哥哥",
@@ -7201,14 +7233,6 @@
       "onboard_time": 1716467478,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253079,
-      "num": 143359,
-      "word": "张若昀每天晚上好忙啊",
-      "onboard_time": 1716591794,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 252764,
@@ -9187,6 +9211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198541,
+      "num": 109407,
+      "word": "剧组说贺军翔这两天没戏要拍",
+      "onboard_time": 1716587531,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198373,
       "num": 620151,
       "word": "小满小满爱意加满",
@@ -9609,22 +9641,6 @@
       "onboard_time": 1716387079,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192636,
-      "num": 107148,
-      "word": "剧组说贺军翔这两天没戏要拍",
-      "onboard_time": 1716587531,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 192375,
-      "num": 107122,
-      "word": "伤肝又致癌甜饮料堪比伤肝水",
-      "onboard_time": 1716591853,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 192307,
@@ -10417,6 +10433,14 @@
       "onboard_time": 1716427757,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177095,
+      "num": 108871,
+      "word": "章子怡戛纳红毯",
+      "onboard_time": 1716593355,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 177025,
@@ -11721,6 +11745,14 @@
       "onboard_time": 1716075014,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155906,
+      "num": 108750,
+      "word": "5个部位痒可能感染了真菌",
+      "onboard_time": 1716591853,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155837,
@@ -13859,14 +13891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125878,
-      "num": 106960,
-      "word": "吴镇宇 我向黑粉借厕纸",
-      "onboard_time": 1716591914,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125855,
       "num": 125855,
       "word": "墨西哥jeans回应newjeans抄袭",
@@ -15763,6 +15787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84348,
+      "num": 84348,
+      "word": "关晓彤短发西服",
+      "onboard_time": 1716590952,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 83930,
       "num": 318618,
       "word": "00后视障男孩做播客还带了徒弟",
@@ -15795,20 +15827,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 80786,
-      "num": 80786,
-      "word": "5个部位痒可能感染了真菌",
-      "onboard_time": 1716591853,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 80620,
       "num": 228181,
       "word": "真低价不躲猫猫",
       "onboard_time": 1716199879,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 80268,
+      "num": 89179,
+      "word": "金毛被锦鲤咬了",
+      "onboard_time": 1716592754,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 80153,
@@ -15979,6 +16011,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 74215,
+      "num": 74215,
+      "word": "他们仨站一起真的好像巧克力",
+      "onboard_time": 1716591673,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74111,
+      "num": 63597,
+      "word": "酱园弄戛纳红毯亮相",
+      "onboard_time": 1716593656,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 73805,
       "num": 73805,
       "word": "一诺单杀小胖",
@@ -16065,14 +16113,6 @@
       "onboard_time": 1716070210,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71502,
-      "num": 45256,
-      "word": "关晓彤短发西服",
-      "onboard_time": 1716590952,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 70843,
@@ -16635,6 +16675,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 48150,
+      "num": 510293,
+      "word": "听着小美满愿丰收美满",
+      "onboard_time": 1716558148,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48123,
       "num": 349874,
       "word": "男子到派出所求助查找去世父亲照片",
@@ -16801,6 +16849,14 @@
       "onboard_time": 1716554062,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41799,
+      "num": 154634,
+      "word": "人大学霸女孩72门课程69门满绩",
+      "onboard_time": 1716591794,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 41764,
@@ -16979,14 +17035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36411,
-      "num": 500845,
-      "word": "听着小美满愿丰收美满",
-      "onboard_time": 1716558148,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36124,
       "num": 325970,
       "word": "龚俊想在戛纳开串串店",
@@ -17123,14 +17171,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 30625,
-      "num": 154634,
-      "word": "人大学霸女孩72门课程69门满绩",
-      "onboard_time": 1716591794,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 30543,
       "num": 1488789,
       "word": "走近第二十届文博会",
@@ -17217,14 +17257,6 @@
       "onboard_time": 1716152050,
       "rank": 45,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 26378,
-      "num": 39055,
-      "word": "他们仨站一起真的好像巧克力",
-      "onboard_time": 1716591673,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 26085,
@@ -17353,6 +17385,14 @@
       "onboard_time": 1716496451,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 22664,
+      "num": 108466,
+      "word": "花花的眼睛会说话",
+      "onboard_time": 1716593716,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22468,

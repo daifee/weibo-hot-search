@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716592682843,
+  "endTime": 1716593764753,
   "band_list": [
     {
       "raw_hot": 2416405,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1074389,
-      "num": 445774,
+      "num": 492888,
       "word": "蔡依林 我们中国南昌最热情了",
       "onboard_time": 1716558927,
       "rank": 6,
@@ -123,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461630,
+      "num": 118667,
+      "word": "岳父母连续寄海鲜3个月小伙崩溃退群",
+      "onboard_time": 1716592995,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381077,
+      "num": 143359,
+      "word": "张若昀每天晚上好忙啊",
+      "onboard_time": 1716591794,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 358742,
       "num": 254319,
       "word": "那英唱哭了",
@@ -137,6 +153,14 @@
       "onboard_time": 1716561385,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 354434,
+      "num": 114434,
+      "word": "伤肝又致癌甜饮料堪比伤肝水",
+      "onboard_time": 1716591853,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 321896,
@@ -171,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 299535,
+      "num": 299535,
+      "word": "一对夫妻疑被人10万元卖到缅甸",
+      "onboard_time": 1716555625,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285829,
       "num": 196839,
       "word": "投那英",
@@ -179,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279947,
-      "num": 279947,
-      "word": "一对夫妻疑被人10万元卖到缅甸",
-      "onboard_time": 1716555625,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 267714,
+      "num": 127882,
+      "word": "吴镇宇 我向黑粉借厕纸",
+      "onboard_time": 1716591914,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 263682,
@@ -211,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253079,
-      "num": 143359,
-      "word": "张若昀每天晚上好忙啊",
-      "onboard_time": 1716591794,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 246471,
       "num": 246471,
       "word": "赵丽颖今年第二次杀青",
@@ -243,20 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192636,
-      "num": 107148,
+      "raw_hot": 198541,
+      "num": 109407,
       "word": "剧组说贺军翔这两天没戏要拍",
       "onboard_time": 1716587531,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192375,
-      "num": 107122,
-      "word": "伤肝又致癌甜饮料堪比伤肝水",
-      "onboard_time": 1716591853,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 191176,
@@ -299,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177095,
+      "num": 108871,
+      "word": "章子怡戛纳红毯",
+      "onboard_time": 1716593355,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173703,
       "num": 255817,
       "word": "孩子抑郁休学其实是在替全家生病",
@@ -337,6 +361,14 @@
       "onboard_time": 1716544399,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155906,
+      "num": 108750,
+      "word": "5个部位痒可能感染了真菌",
+      "onboard_time": 1716591853,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151893,
@@ -403,14 +435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 125878,
-      "num": 106960,
-      "word": "吴镇宇 我向黑粉借厕纸",
-      "onboard_time": 1716591914,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116878,
       "num": 244101,
       "word": "糟粕醋火锅",
@@ -424,6 +448,14 @@
       "word": "蔡健雅说被那姐弄哭了",
       "onboard_time": 1716567858,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108096,
+      "num": 108096,
+      "word": "歌手观众席好多明星",
+      "onboard_time": 1716556946,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -451,12 +483,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 80786,
-      "num": 80786,
-      "word": "5个部位痒可能感染了真菌",
-      "onboard_time": 1716591853,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 84348,
+      "num": 84348,
+      "word": "关晓彤短发西服",
+      "onboard_time": 1716590952,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 80268,
+      "num": 89179,
+      "word": "金毛被锦鲤咬了",
+      "onboard_time": 1716592754,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 78872,
@@ -467,12 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78831,
-      "num": 57413,
-      "word": "歌手观众席好多明星",
-      "onboard_time": 1716556946,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 74215,
+      "num": 74215,
+      "word": "他们仨站一起真的好像巧克力",
+      "onboard_time": 1716591673,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74111,
+      "num": 63597,
+      "word": "酱园弄戛纳红毯亮相",
+      "onboard_time": 1716593656,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 73779,
@@ -489,14 +537,6 @@
       "onboard_time": 1716557128,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 71502,
-      "num": 45256,
-      "word": "关晓彤短发西服",
-      "onboard_time": 1716590952,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 64855,
@@ -523,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48150,
+      "num": 510293,
+      "word": "听着小美满愿丰收美满",
+      "onboard_time": 1716558148,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43429,
       "num": 97510,
       "word": "鸣潮EP上线",
@@ -531,28 +579,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41799,
+      "num": 154634,
+      "word": "人大学霸女孩72门课程69门满绩",
+      "onboard_time": 1716591794,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 36990,
       "num": 97496,
       "word": "怎么解决台湾问题是中国人民自己的事",
       "onboard_time": 1716537678,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 36411,
-      "num": 500845,
-      "word": "听着小美满愿丰收美满",
-      "onboard_time": 1716558148,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30625,
-      "num": 154634,
-      "word": "人大学霸女孩72门课程69门满绩",
-      "onboard_time": 1716591794,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 30435,
@@ -579,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26378,
-      "num": 39055,
-      "word": "他们仨站一起真的好像巧克力",
-      "onboard_time": 1716591673,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 25505,
       "num": 97445,
       "word": "这才是夏天正确打开方式",
@@ -601,6 +633,14 @@
       "onboard_time": 1716577092,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22664,
+      "num": 108466,
+      "word": "花花的眼睛会说话",
+      "onboard_time": 1716593716,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22468,
