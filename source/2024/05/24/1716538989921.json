@@ -1,0 +1,410 @@
+{
+  "runTime": 1716538989921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6028716,
+        "num": 6028716,
+        "word": "台湾当归",
+        "onboard_time": 1716514577,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1493139,
+        "num": 1493139,
+        "word": "联合国称台湾是中国的一个省",
+        "onboard_time": 1716530239,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26335,
+        "num": 1488789,
+        "word": "走近第二十届文博会",
+        "onboard_time": 1716522310,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1488622,
+        "num": 1488622,
+        "word": "国防部说打的是台独嚣张气焰",
+        "onboard_time": 1716536419,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1352990,
+        "num": 1352990,
+        "word": "贺军翔被告性骚扰",
+        "onboard_time": 1716536059,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1001416,
+        "num": 1001416,
+        "word": "下雨天 难听",
+        "onboard_time": 1716531020,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 805782,
+        "num": 805782,
+        "word": "李胜利柬埔寨开夜店",
+        "onboard_time": 1716536659,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628203,
+        "num": 628203,
+        "word": "范闲 六个爸爸",
+        "onboard_time": 1716534679,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502383,
+        "num": 502383,
+        "word": "一精神障碍患者持刀伤人致8死1伤",
+        "onboard_time": 1716527720,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 114029,
+        "num": 476036,
+        "word": "二十只东北虎死亡背后",
+        "onboard_time": 1716537618,
+        "rank": 9,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 522280,
+        "num": 472207,
+        "word": "贺军翔家遭警方搜查",
+        "onboard_time": 1716529519,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451889,
+        "num": 451889,
+        "word": "李惠利徐睿知签同公司",
+        "onboard_time": 1716538101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398857,
+        "num": 398857,
+        "word": "解放军前所未有的打独模式",
+        "onboard_time": 1716533300,
+        "rank": 12,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 392745,
+        "num": 392745,
+        "word": "庆余年2豆瓣开分7分",
+        "onboard_time": 1716538101,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79739,
+        "num": 385852,
+        "word": "刘语熙教巴拉克喝中国茶",
+        "onboard_time": 1716537618,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384251,
+        "num": 384251,
+        "word": "霸王茶姬免单券",
+        "onboard_time": 1716536478,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 338398,
+        "num": 338398,
+        "word": "20家银行降薪",
+        "onboard_time": 1716535337,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 316884,
+        "num": 316884,
+        "word": "歌手歌单",
+        "onboard_time": 1716525741,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289893,
+        "num": 289893,
+        "word": "目视距离0.6海里处是中国台湾郑和舰",
+        "onboard_time": 1716527120,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288033,
+        "num": 288033,
+        "word": "皇马拒绝姆巴佩参加巴黎奥运会",
+        "onboard_time": 1716537920,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388170,
+        "num": 287457,
+        "word": "为什么国内夫妻很少见戴婚戒",
+        "onboard_time": 1716531438,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285471,
+        "num": 285471,
+        "word": "爸爸紧急撤回了一条感谢",
+        "onboard_time": 1716532698,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267355,
+        "num": 267355,
+        "word": "披荆斩棘的哥哥路透",
+        "onboard_time": 1716531978,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259361,
+        "num": 259361,
+        "word": "宁静把浪姐训练服卖了",
+        "onboard_time": 1716514938,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74879,
+        "num": 253226,
+        "word": "停车场偶遇张新成",
+        "onboard_time": 1716536178,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252764,
+        "num": 252764,
+        "word": "NewJeans新歌破纪录",
+        "onboard_time": 1716535218,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239717,
+        "num": 239717,
+        "word": "A股",
+        "onboard_time": 1716533359,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230141,
+        "num": 230141,
+        "word": "中国台湾94年服役的郑和舰",
+        "onboard_time": 1716537499,
+        "rank": 27,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 225769,
+        "num": 225769,
+        "word": "陈昊宇你好媚",
+        "onboard_time": 1716529100,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219644,
+        "num": 219644,
+        "word": "小狗刚出生就发硬怎么回事",
+        "onboard_time": 1716526461,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 643308,
+        "num": 217340,
+        "word": "怎么解决台湾问题是中国人民自己的事",
+        "onboard_time": 1716537678,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214953,
+        "num": 214953,
+        "word": "大学生直播未达标遭平台高额索赔",
+        "onboard_time": 1716535820,
+        "rank": 31,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 210499,
+        "num": 210499,
+        "word": "台湾必将回归祖国怀抱",
+        "onboard_time": 1716519017,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190790,
+        "num": 190790,
+        "word": "亚当PK人选 微博网友投票",
+        "onboard_time": 1716532999,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20054,
+        "num": 187333,
+        "word": "比亚迪李云飞称528放大招",
+        "onboard_time": 1716536539,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184961,
+        "num": 184961,
+        "word": "贺军翔正在拍戏",
+        "onboard_time": 1716537799,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179302,
+        "num": 179302,
+        "word": "在台湾岛三个方向演练的意义",
+        "onboard_time": 1716507016,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162833,
+        "num": 162833,
+        "word": "原来一次性内裤不是纯棉的最好",
+        "onboard_time": 1716512000,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23368,
+        "num": 158738,
+        "word": "NAS拯救内存的神",
+        "onboard_time": 1716535758,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47194,
+        "num": 156337,
+        "word": "用AI的方式打开数字福州",
+        "onboard_time": 1716537618,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155325,
+        "num": 155325,
+        "word": "王楚钦孙颖莎止步混双8强",
+        "onboard_time": 1716523400,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148036,
+        "num": 148036,
+        "word": "今年的荔枝有多贵",
+        "onboard_time": 1716535279,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146375,
+        "num": 146375,
+        "word": "当这些清北女性决定买精生子",
+        "onboard_time": 1716526100,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143251,
+        "num": 143251,
+        "word": "为什么裤子的开口都在正前方",
+        "onboard_time": 1716535998,
+        "rank": 43,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 141518,
+        "num": 141518,
+        "word": "哈佛剥夺13名支持巴勒斯坦毕业生学位",
+        "onboard_time": 1716528259,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138223,
+        "num": 138223,
+        "word": "数架轰炸机前出岛链",
+        "onboard_time": 1716528139,
+        "rank": 45,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 137735,
+        "num": 137735,
+        "word": "人家是黑化她是真黑",
+        "onboard_time": 1716530060,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132078,
+        "num": 132078,
+        "word": "小雨妆造",
+        "onboard_time": 1716526641,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131765,
+        "num": 131765,
+        "word": "范无救有案底了",
+        "onboard_time": 1716538757,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130594,
+        "num": 130594,
+        "word": "宋轶丞磊吻戏路透",
+        "onboard_time": 1716534078,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开企业和专家座谈会#"
+    }
+  }
+}

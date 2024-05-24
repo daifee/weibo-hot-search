@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716536084090,
+  "endTime": 1716538989921,
   "band_list": [
     {
       "raw_hot": 10288448,
@@ -51,6 +51,22 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 1493139,
+      "num": 1493139,
+      "word": "联合国称台湾是中国的一个省",
+      "onboard_time": 1716530239,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1488622,
+      "num": 1488622,
+      "word": "国防部说打的是台独嚣张气焰",
+      "onboard_time": 1716536419,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1471363,
       "num": 1471363,
       "word": "王楚钦孙颖莎止步混双8强",
@@ -59,20 +75,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1466671,
-      "num": 1466671,
-      "word": "联合国称台湾是中国的一个省",
-      "onboard_time": 1716530239,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1419803,
       "num": 1419803,
       "word": "下雨天 难听",
       "onboard_time": 1716531020,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1352990,
+      "num": 1352990,
+      "word": "贺军翔被告性骚扰",
+      "onboard_time": 1716536059,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 1308854,
@@ -145,6 +161,14 @@
       "onboard_time": 1716507197,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 805782,
+      "num": 805782,
+      "word": "李胜利柬埔寨开夜店",
+      "onboard_time": 1716536659,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 774754,
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 643308,
+      "num": 217340,
+      "word": "怎么解决台湾问题是中国人民自己的事",
+      "onboard_time": 1716537678,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 640150,
       "num": 640150,
       "word": "B太揭秘100元3个榴莲内幕",
@@ -251,12 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 632869,
-      "num": 505717,
-      "word": "贺军翔被告性骚扰",
-      "onboard_time": 1716536059,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 628203,
+      "num": 628203,
+      "word": "范闲 六个爸爸",
+      "onboard_time": 1716534679,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 627583,
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 591735,
-      "num": 273062,
+      "num": 287457,
       "word": "为什么国内夫妻很少见戴婚戒",
       "onboard_time": 1716531438,
       "rank": 22,
@@ -395,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451364,
-      "num": 451364,
-      "word": "范闲 六个爸爸",
-      "onboard_time": 1716534679,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 451889,
+      "num": 451889,
+      "word": "李惠利徐睿知签同公司",
+      "onboard_time": 1716538101,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 449755,
@@ -483,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392745,
+      "num": 392745,
+      "word": "庆余年2豆瓣开分7分",
+      "onboard_time": 1716538101,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389427,
       "num": 389427,
       "word": "赵丽颖在人间杀青了",
       "onboard_time": 1716511940,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384251,
+      "num": 384251,
+      "word": "霸王茶姬免单券",
+      "onboard_time": 1716536478,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 377275,
@@ -529,6 +577,14 @@
       "onboard_time": 1716525082,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338398,
+      "num": 338398,
+      "word": "20家银行降薪",
+      "onboard_time": 1716535337,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 337407,
@@ -635,6 +691,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 288033,
+      "num": 288033,
+      "word": "皇马拒绝姆巴佩参加巴黎奥运会",
+      "onboard_time": 1716537920,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287804,
       "num": 287804,
       "word": "伊朗直升机事故调查报告",
@@ -739,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252764,
+      "num": 252764,
+      "word": "NewJeans新歌破纪录",
+      "onboard_time": 1716535218,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251147,
       "num": 251147,
       "word": "李娟说年轻的秘密是不上班",
@@ -819,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230141,
+      "num": 230141,
+      "word": "中国台湾94年服役的郑和舰",
+      "onboard_time": 1716537499,
+      "rank": 27,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 227525,
       "num": 347650,
       "word": "夏以昼 国宴",
@@ -841,14 +921,6 @@
       "onboard_time": 1716521539,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223570,
-      "num": 223570,
-      "word": "NewJeans新歌破纪录",
-      "onboard_time": 1716535218,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 222712,
@@ -905,6 +977,14 @@
       "onboard_time": 1716515178,
       "rank": 25,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 214953,
+      "num": 473059,
+      "word": "大学生直播未达标遭平台高额索赔",
+      "onboard_time": 1716535820,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 210980,
@@ -1027,6 +1107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 184961,
+      "num": 184961,
+      "word": "贺军翔正在拍戏",
+      "onboard_time": 1716537799,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184938,
       "num": 184938,
       "word": "谷爱凌金发刘海",
@@ -1137,14 +1225,6 @@
       "onboard_time": 1716517338,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 164209,
-      "num": 164209,
-      "word": "20家银行降薪",
-      "onboard_time": 1716535337,
-      "rank": 32,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 162299,
@@ -1267,6 +1347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148036,
+      "num": 148036,
+      "word": "今年的荔枝有多贵",
+      "onboard_time": 1716535279,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 146687,
       "num": 459274,
       "word": "开启自动驾驶后发生交通事故怎么算",
@@ -1299,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143251,
+      "num": 143251,
+      "word": "为什么裤子的开口都在正前方",
+      "onboard_time": 1716535998,
+      "rank": 43,
+      "category": "幽默,科学科普"
+    },
+    {
       "raw_hot": 141164,
       "num": 141164,
       "word": "太原赛陈梦王曼昱进四强",
@@ -1321,14 +1417,6 @@
       "onboard_time": 1716518237,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136957,
-      "num": 136957,
-      "word": "今年的荔枝有多贵",
-      "onboard_time": 1716535279,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 136909,
@@ -1367,6 +1455,14 @@
       "num": 133508,
       "word": "狐妖月红篇还原度",
       "onboard_time": 1716525322,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131765,
+      "num": 131765,
+      "word": "范无救有案底了",
+      "onboard_time": 1716538757,
       "rank": 48,
       "category": "剧集"
     },
@@ -1465,6 +1561,14 @@
       "onboard_time": 1716480258,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114029,
+      "num": 476036,
+      "word": "二十只东北虎死亡背后",
+      "onboard_time": 1716537618,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 112576,
@@ -1579,6 +1683,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 79739,
+      "num": 385852,
+      "word": "刘语熙教巴拉克喝中国茶",
+      "onboard_time": 1716537618,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74879,
+      "num": 253226,
+      "word": "停车场偶遇张新成",
+      "onboard_time": 1716536178,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71353,
       "num": 83236,
       "word": "东部战区位台岛周边开展演习",
@@ -1659,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47194,
+      "num": 156337,
+      "word": "用AI的方式打开数字福州",
+      "onboard_time": 1716537618,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 46859,
       "num": 358970,
       "word": "天猫618增发千万张超大额购物券",
@@ -1708,7 +1836,7 @@
     },
     {
       "raw_hot": 31805,
-      "num": 125721,
+      "num": 158738,
       "word": "NAS拯救内存的神",
       "onboard_time": 1716535758,
       "rank": 46,
@@ -1716,7 +1844,7 @@
     },
     {
       "raw_hot": 30543,
-      "num": 167319,
+      "num": 1488789,
       "word": "走近第二十届文博会",
       "onboard_time": 1716522310,
       "rank": 38,
@@ -1729,14 +1857,6 @@
       "onboard_time": 1716487332,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27743,
-      "num": 473059,
-      "word": "大学生直播未达标遭平台高额索赔",
-      "onboard_time": 1716535820,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 23205,
@@ -1761,6 +1881,14 @@
       "onboard_time": 1716490451,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20054,
+      "num": 187333,
+      "word": "比亚迪李云飞称528放大招",
+      "onboard_time": 1716536539,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 16772,
