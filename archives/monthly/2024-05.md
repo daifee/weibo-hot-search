@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/24 18:37:06
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/24 19:17:45
 </p>
 </blockquote>
 <p>
@@ -1773,6 +1773,12 @@ G2对战TES（热度：1477707）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%BB%A3%E6%9B%BF%E4%BD%95%E7%82%85%E4%B8%BB%E6%8C%81%E4%BB%8A%E6%99%9A%E6%AD%8C%E6%89%8B%23" target="weibo">
+沈梦辰代替何炅主持今晚歌手（热度：1467505）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%99%84%E8%BF%915.3%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23" target="weibo">
 台湾附近5.3级左右地震（热度：1465317）
 </a>
@@ -2111,12 +2117,6 @@ HPV疫苗价格大跳水（热度：1456307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E5%B7%B2%E9%80%80%E5%87%BA%E5%9B%A0%E5%B9%BF%E5%91%8A%E8%BF%9D%E6%B3%95%E8%A2%AB%E7%BD%9A%E5%85%AC%E5%8F%B8%23" target="weibo">
 papi酱已退出因广告违法被罚公司（热度：1352367）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%BB%A3%E6%9B%BF%E4%BD%95%E7%82%85%E4%B8%BB%E6%8C%81%E4%BB%8A%E6%99%9A%E6%AD%8C%E6%89%8B%23" target="weibo">
-沈梦辰代替何炅主持今晚歌手（热度：1352062）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1716549465326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7310712,
+        "num": 7310712,
+        "word": "中国台湾省",
+        "onboard_time": 1716539539,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1467505,
+        "num": 1467505,
+        "word": "沈梦辰代替何炅主持今晚歌手",
+        "onboard_time": 1716545240,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9442,
+        "num": 833194,
+        "word": "走近第二十届文博会",
+        "onboard_time": 1716522310,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672854,
+        "num": 672854,
+        "word": "doge原型去世",
+        "onboard_time": 1716539298,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 635645,
+        "num": 635645,
+        "word": "联合国称台湾是中国的一个省",
+        "onboard_time": 1716530239,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 543177,
+        "num": 543177,
+        "word": "台湾当归",
+        "onboard_time": 1716514577,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392748,
+        "num": 392748,
+        "word": "你的体制内偶像来啦",
+        "onboard_time": 1716540860,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379830,
+        "num": 379830,
+        "word": "国防部说打的是台独嚣张气焰",
+        "onboard_time": 1716536419,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91367,
+        "num": 377067,
+        "word": "6个需要注意的防晒误区",
+        "onboard_time": 1716544819,
+        "rank": 8,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 375281,
+        "num": 375281,
+        "word": "刘亦菲安妮海瑟薇公主牵手",
+        "onboard_time": 1716546679,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374776,
+        "num": 374776,
+        "word": "王妈也是风韵犹存",
+        "onboard_time": 1716545179,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353129,
+        "num": 353129,
+        "word": "下雨天 难听",
+        "onboard_time": 1716531020,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320614,
+        "num": 320614,
+        "word": "歌手歌单",
+        "onboard_time": 1716525741,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318622,
+        "num": 318622,
+        "word": "歌手2024将会邀请更多国际咖",
+        "onboard_time": 1716542900,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310214,
+        "num": 310214,
+        "word": "怎么解决台湾问题是中国人民自己的事",
+        "onboard_time": 1716537678,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301927,
+        "num": 301927,
+        "word": "QQ飞车手游",
+        "onboard_time": 1716548899,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268039,
+        "num": 268039,
+        "word": "东部战区火箭军某旅导弹雨中起竖",
+        "onboard_time": 1716543439,
+        "rank": 16,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 259186,
+        "num": 259186,
+        "word": "广州到长沙仅需70分钟",
+        "onboard_time": 1716543559,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87350,
+        "num": 259047,
+        "word": "外滩惊现显眼豹",
+        "onboard_time": 1716547998,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 230830,
+        "num": 258531,
+        "word": "京东高管反思管理不善",
+        "onboard_time": 1716549078,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 673484,
+        "num": 257837,
+        "word": "爷爷爸爸去世奶奶不知情录视频呼唤",
+        "onboard_time": 1716544399,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494639,
+        "num": 257123,
+        "word": "已被正式确诊为液态人",
+        "onboard_time": 1716546019,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311094,
+        "num": 256373,
+        "word": "贺军翔被告性骚扰",
+        "onboard_time": 1716536059,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259245,
+        "num": 255851,
+        "word": "aespa造型",
+        "onboard_time": 1716546139,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255525,
+        "num": 255525,
+        "word": "戚薇妆前妆后",
+        "onboard_time": 1716545480,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248571,
+        "num": 248571,
+        "word": "华晨宇上一秒得意下一秒道歉",
+        "onboard_time": 1716547700,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240801,
+        "num": 240801,
+        "word": "郭保坤的爹 最清醒的人",
+        "onboard_time": 1716548178,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239569,
+        "num": 239569,
+        "word": "庆余年2豆瓣开分7分",
+        "onboard_time": 1716538101,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195356,
+        "num": 235946,
+        "word": "一精神障碍患者持刀伤人致8死1伤",
+        "onboard_time": 1716527720,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 9531,
+        "num": 235219,
+        "word": "卡姿兰火到国外",
+        "onboard_time": 1716546139,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 254987,
+        "num": 235018,
+        "word": "港媒称香港一女警将入选预备航天员",
+        "onboard_time": 1716548958,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234637,
+        "num": 234637,
+        "word": "ZB1音银一位",
+        "onboard_time": 1716549138,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218169,
+        "num": 218169,
+        "word": "田田小阿姨粉丝数不降反升",
+        "onboard_time": 1716541399,
+        "rank": 32,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 201796,
+        "num": 201796,
+        "word": "尤长靖人没去歌手歌先去了",
+        "onboard_time": 1716543139,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199184,
+        "num": 199184,
+        "word": "为什么国内夫妻很少见戴婚戒",
+        "onboard_time": 1716531438,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199030,
+        "num": 199030,
+        "word": "时代少年团练团舞练到半夜",
+        "onboard_time": 1716548958,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173759,
+        "num": 173759,
+        "word": "Uzi队线下训练解散",
+        "onboard_time": 1716546979,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173452,
+        "num": 173452,
+        "word": "刘亦菲被路人喊黄亦玫",
+        "onboard_time": 1716546919,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163971,
+        "num": 163971,
+        "word": "歌手豆瓣开分6.7",
+        "onboard_time": 1716548659,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159006,
+        "num": 159006,
+        "word": "郭广昌称癌症是可以治愈的",
+        "onboard_time": 1716546319,
+        "rank": 39,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 163282,
+        "num": 158589,
+        "word": "李胜利柬埔寨开夜店",
+        "onboard_time": 1716536659,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157253,
+        "num": 157253,
+        "word": "防晒霜并非防晒指数越高越好",
+        "onboard_time": 1716548958,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 147305,
+        "num": 147305,
+        "word": "肖战纯白低V衬衫",
+        "onboard_time": 1716547459,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137021,
+        "num": 137021,
+        "word": "云南大理现日晕奇观",
+        "onboard_time": 1716548899,
+        "rank": 43,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 127964,
+        "num": 127964,
+        "word": "这下都知道陈昊宇笑话萨顶顶了",
+        "onboard_time": 1716547759,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122574,
+        "num": 122574,
+        "word": "巴拉克说C罗梅西难以超越",
+        "onboard_time": 1716548538,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117591,
+        "num": 117591,
+        "word": "ISFJ 最淡的淡人",
+        "onboard_time": 1716541879,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113908,
+        "num": 113908,
+        "word": "东部战区持续位台岛以东海空域训练",
+        "onboard_time": 1716548718,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113797,
+        "num": 113797,
+        "word": "刘诗诗沈月私下没少聚餐",
+        "onboard_time": 1716542720,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110141,
+        "num": 110141,
+        "word": "范闲 六个爸爸",
+        "onboard_time": 1716534679,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画壮阔的中国海景图#"
+    }
+  }
+}

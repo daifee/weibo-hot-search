@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716547026611,
+  "endTime": 1716549465326,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -611,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1467505,
+      "num": 1467505,
+      "word": "沈梦辰代替何炅主持今晚歌手",
+      "onboard_time": 1716545240,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1458289,
       "num": 1458289,
       "word": "你好星期六 TFBOYS",
@@ -729,14 +737,6 @@
       "onboard_time": 1716536059,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1352062,
-      "num": 1352062,
-      "word": "沈梦辰代替何炅主持今晚歌手",
-      "onboard_time": 1716545240,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1339229,
@@ -2275,6 +2275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 673484,
+      "num": 257837,
+      "word": "爷爷爸爸去世奶奶不知情录视频呼唤",
+      "onboard_time": 1716544399,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669035,
       "num": 669035,
       "word": "桃花坞4官宣阵容",
@@ -2980,7 +2988,7 @@
     },
     {
       "raw_hot": 547412,
-      "num": 212242,
+      "num": 218169,
       "word": "田田小阿姨粉丝数不降反升",
       "onboard_time": 1716541399,
       "rank": 23,
@@ -3371,6 +3379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 494639,
+      "num": 257123,
+      "word": "已被正式确诊为液态人",
+      "onboard_time": 1716546019,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 494306,
       "num": 494306,
       "word": "鸣潮",
@@ -3417,14 +3433,6 @@
       "onboard_time": 1716451699,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 487395,
-      "num": 181302,
-      "word": "爷爷爸爸去世奶奶不知情录视频呼唤",
-      "onboard_time": 1716544399,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486234,
@@ -4603,6 +4611,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375281,
+      "num": 375281,
+      "word": "刘亦菲安妮海瑟薇公主牵手",
+      "onboard_time": 1716546679,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 374776,
+      "num": 374776,
+      "word": "王妈也是风韵犹存",
+      "onboard_time": 1716545179,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 374603,
       "num": 374603,
       "word": "李秀满将重启韩国娱乐事业",
@@ -5347,14 +5371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322460,
-      "num": 322460,
-      "word": "王妈也是风韵犹存",
-      "onboard_time": 1716545179,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 322145,
       "num": 322145,
       "word": "年轻人为什么喜欢养寄居蟹了",
@@ -5473,14 +5489,6 @@
       "onboard_time": 1716087077,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316565,
-      "num": 181073,
-      "word": "已被正式确诊为液态人",
-      "onboard_time": 1716546019,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 316442,
@@ -5689,6 +5697,14 @@
       "onboard_time": 1716334156,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 301927,
+      "num": 301927,
+      "word": "QQ飞车手游",
+      "onboard_time": 1716548899,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 301083,
@@ -6052,7 +6068,7 @@
     },
     {
       "raw_hot": 281518,
-      "num": 250851,
+      "num": 255851,
       "word": "aespa造型",
       "onboard_time": 1716376938,
       "rank": 24,
@@ -6532,7 +6548,7 @@
     },
     {
       "raw_hot": 259484,
-      "num": 180623,
+      "num": 201796,
       "word": "尤长靖人没去歌手歌先去了",
       "onboard_time": 1716543139,
       "rank": 37,
@@ -6603,6 +6619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255525,
+      "num": 255525,
+      "word": "戚薇妆前妆后",
+      "onboard_time": 1716545480,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255376,
       "num": 255376,
       "word": "刘亦菲露腰T恤",
@@ -6617,6 +6641,14 @@
       "onboard_time": 1716299120,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254987,
+      "num": 235018,
+      "word": "港媒称香港一女警将入选预备航天员",
+      "onboard_time": 1716548958,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254617,
@@ -6769,6 +6801,14 @@
       "onboard_time": 1716351319,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248571,
+      "num": 248571,
+      "word": "华晨宇上一秒得意下一秒道歉",
+      "onboard_time": 1716547700,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 247873,
@@ -6963,6 +7003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240801,
+      "num": 240801,
+      "word": "郭保坤的爹 最清醒的人",
+      "onboard_time": 1716548178,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240656,
       "num": 240656,
       "word": "邓科晒与林更新背影照",
@@ -7131,6 +7179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234637,
+      "num": 234637,
+      "word": "ZB1音银一位",
+      "onboard_time": 1716549138,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234635,
       "num": 234635,
       "word": "ZICO公司管理层大换血",
@@ -7241,6 +7297,14 @@
       "onboard_time": 1716437780,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230830,
+      "num": 258531,
+      "word": "京东高管反思管理不善",
+      "onboard_time": 1716549078,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 230691,
@@ -7689,14 +7753,6 @@
       "onboard_time": 1716474801,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213972,
-      "num": 180258,
-      "word": "刘亦菲安妮海瑟薇公主牵手",
-      "onboard_time": 1716546679,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 213431,
@@ -8459,14 +8515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199815,
-      "num": 180058,
-      "word": "戚薇妆前妆后",
-      "onboard_time": 1716545480,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 199804,
       "num": 199804,
       "word": "严浩翔三十米外盲踢射门",
@@ -8521,6 +8569,14 @@
       "onboard_time": 1716476603,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199030,
+      "num": 199030,
+      "word": "时代少年团练团舞练到半夜",
+      "onboard_time": 1716548958,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199010,
@@ -9987,6 +10043,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173759,
+      "num": 181464,
+      "word": "Uzi队线下训练解散",
+      "onboard_time": 1716546979,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 173452,
+      "num": 173452,
+      "word": "刘亦菲被路人喊黄亦玫",
+      "onboard_time": 1716546919,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173421,
       "num": 173421,
       "word": "赵一博何浩楠",
@@ -10475,20 +10547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163971,
+      "num": 163971,
+      "word": "歌手豆瓣开分6.7",
+      "onboard_time": 1716548659,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163966,
       "num": 163966,
       "word": "理想汽车将裁员5600人",
       "onboard_time": 1716069611,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 163920,
-      "num": 181464,
-      "word": "Uzi队线下训练解散",
-      "onboard_time": 1716546979,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 163909,
@@ -10945,6 +11017,14 @@
       "onboard_time": 1716078677,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157253,
+      "num": 157253,
+      "word": "防晒霜并非防晒指数越高越好",
+      "onboard_time": 1716548958,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 157252,
@@ -11585,6 +11665,14 @@
       "onboard_time": 1716419596,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147305,
+      "num": 147305,
+      "word": "肖战纯白低V衬衫",
+      "onboard_time": 1716547459,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147296,
@@ -12259,6 +12347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137021,
+      "num": 137021,
+      "word": "云南大理现日晕奇观",
+      "onboard_time": 1716548899,
+      "rank": 43,
+      "category": "自然"
+    },
+    {
       "raw_hot": 136909,
       "num": 484359,
       "word": "B太又对榴莲出手了",
@@ -12827,6 +12923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127964,
+      "num": 127964,
+      "word": "这下都知道陈昊宇笑话萨顶顶了",
+      "onboard_time": 1716547759,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127860,
       "num": 127860,
       "word": "微博演出季",
@@ -13281,6 +13385,14 @@
       "onboard_time": 1716275059,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122574,
+      "num": 122574,
+      "word": "巴拉克说C罗梅西难以超越",
+      "onboard_time": 1716548538,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 122362,
@@ -13843,6 +13955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113908,
+      "num": 113908,
+      "word": "东部战区持续位台岛以东海空域训练",
+      "onboard_time": 1716548718,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113800,
       "num": 113800,
       "word": "亚历山大致命犯规",
@@ -14241,14 +14361,6 @@
       "onboard_time": 1716104298,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104071,
-      "num": 104071,
-      "word": "刘亦菲被路人喊黄亦玫",
-      "onboard_time": 1716546919,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 103739,
@@ -14793,6 +14905,14 @@
       "onboard_time": 1716309796,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87350,
+      "num": 259047,
+      "word": "外滩惊现显眼豹",
+      "onboard_time": 1716547998,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 86538,
@@ -16164,7 +16284,7 @@
     },
     {
       "raw_hot": 26983,
-      "num": 180482,
+      "num": 235219,
       "word": "卡姿兰火到国外",
       "onboard_time": 1716546139,
       "rank": 29,
