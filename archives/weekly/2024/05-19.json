@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716572100723,
+  "endTime": 1716575069663,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -14971,6 +14971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107815,
+      "num": 107815,
+      "word": "台独在哪火力套餐就送到哪",
+      "onboard_time": 1716572353,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107559,
       "num": 223582,
       "word": "怎么你也染上DNF手游了",
@@ -17361,6 +17369,14 @@
       "onboard_time": 1716236469,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 17630,
+      "num": 253852,
+      "word": "听着小美满愿丰收美满",
+      "onboard_time": 1716558148,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16772,

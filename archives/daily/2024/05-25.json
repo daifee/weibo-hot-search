@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716572100723,
+  "endTime": 1716575069663,
   "band_list": [
     {
       "raw_hot": 2416405,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107815,
+      "num": 107815,
+      "word": "台独在哪火力套餐就送到哪",
+      "onboard_time": 1716572353,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106900,
       "num": 106900,
       "word": "papi酱和蔡明是邻居",
@@ -489,6 +497,14 @@
       "onboard_time": 1716566900,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 17630,
+      "num": 253852,
+      "word": "听着小美满愿丰收美满",
+      "onboard_time": 1716558148,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
