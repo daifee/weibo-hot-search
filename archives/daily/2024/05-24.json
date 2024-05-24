@@ -1,13 +1,21 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716521668320,
+  "endTime": 1716524572156,
   "band_list": [
     {
-      "raw_hot": 4249159,
-      "num": 4998318,
+      "raw_hot": 8740502,
+      "num": 9990502,
       "word": "台湾当归",
       "onboard_time": 1716514577,
       "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1922068,
+      "num": 1922068,
+      "word": "台湾必将回归祖国怀抱",
+      "onboard_time": 1716519017,
+      "rank": 3,
       "category": "国内时政"
     },
     {
@@ -33,6 +41,14 @@
       "onboard_time": 1716510440,
       "rank": 0,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 1471363,
+      "num": 1471363,
+      "word": "王楚钦孙颖莎止步混双8强",
+      "onboard_time": 1716523400,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1308854,
@@ -75,16 +91,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1007559,
-      "num": 1007559,
-      "word": "台湾必将回归祖国怀抱",
-      "onboard_time": 1716519017,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 903144,
-      "num": 272141,
+      "num": 304418,
       "word": "入职一周因为牙痛领导给我转正了",
       "onboard_time": 1716518478,
       "rank": 32,
@@ -113,6 +121,14 @@
       "onboard_time": 1716503834,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 759965,
+      "num": 759965,
+      "word": "曾自首杀妻男子无罪释放21年后再被抓",
+      "onboard_time": 1716520517,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 734869,
@@ -219,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469388,
+      "num": 469388,
+      "word": "TFBOYS转发王源广州巡演",
+      "onboard_time": 1716523999,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 465382,
       "num": 465382,
       "word": "百万留学回国后月薪7000",
@@ -283,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386072,
+      "num": 386072,
+      "word": "那英有种我妈当明星的松弛感",
+      "onboard_time": 1716520159,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377275,
       "num": 377275,
       "word": "蔡徐坤放饭了",
@@ -307,14 +339,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 333593,
-      "num": 333593,
-      "word": "那英有种我妈当明星的松弛感",
-      "onboard_time": 1716520159,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331261,
       "num": 331261,
       "word": "刘亦菲的西班牙人气",
@@ -331,20 +355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311655,
+      "num": 311655,
+      "word": "NewJeans回归",
+      "onboard_time": 1716524361,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 310837,
       "num": 310837,
       "word": "逆水寒",
       "onboard_time": 1716518778,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 310166,
-      "num": 244020,
-      "word": "曾自首杀妻男子无罪释放21年后再被抓",
-      "onboard_time": 1716520517,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301942,
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264584,
+      "num": 264584,
+      "word": "莎头",
+      "onboard_time": 1716523882,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261750,
       "num": 253845,
       "word": "杨幂狐妖状态",
@@ -403,20 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261142,
+      "num": 261142,
+      "word": "9.9咖啡大战拖垮库迪熬伤瑞幸",
+      "onboard_time": 1716518898,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 261039,
+      "num": 261039,
+      "word": "蔡徐坤13岁时演过童话二分之一",
+      "onboard_time": 1716520219,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259315,
       "num": 259315,
       "word": "张若昀版小范闲",
       "onboard_time": 1716510919,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254701,
-      "num": 243345,
-      "word": "9.9咖啡大战拖垮库迪熬伤瑞幸",
-      "onboard_time": 1716518898,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 251147,
@@ -475,12 +515,28 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 229427,
-      "num": 229427,
-      "word": "蔡徐坤13岁时演过童话二分之一",
-      "onboard_time": 1716520219,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 231085,
+      "num": 231085,
+      "word": "末代厨娘定档",
+      "onboard_time": 1716522919,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230898,
+      "num": 230898,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1716523280,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224394,
+      "num": 224394,
+      "word": "涂磊中国首席情感导师认证已被撤",
+      "onboard_time": 1716521539,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 222712,
@@ -505,6 +561,14 @@
       "onboard_time": 1716517039,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 218145,
+      "num": 218145,
+      "word": "造谣王一博的晗晗qvq被强执",
+      "onboard_time": 1716523941,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 217374,
@@ -571,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195633,
+      "num": 408344,
+      "word": "夏天出去玩的底气是什么",
+      "onboard_time": 1716519917,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190766,
       "num": 190766,
       "word": "种地吧直播",
@@ -601,6 +673,14 @@
       "onboard_time": 1716456321,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 184267,
+      "num": 184267,
+      "word": "剑网3联动非人哉",
+      "onboard_time": 1716523761,
+      "rank": 34,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 182684,
@@ -659,14 +739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 170731,
-      "num": 331323,
-      "word": "夏天出去玩的底气是什么",
-      "onboard_time": 1716519917,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170592,
       "num": 141872,
       "word": "王一栩回应狐妖争议",
@@ -675,12 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169565,
-      "num": 169565,
-      "word": "涂磊中国首席情感导师认证已被撤",
-      "onboard_time": 1716521539,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 169648,
+      "num": 169648,
+      "word": "阿里宣布对大公司病开刀",
+      "onboard_time": 1716524421,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 164842,
@@ -1004,7 +1076,7 @@
     },
     {
       "raw_hot": 81801,
-      "num": 227655,
+      "num": 1498212,
       "word": "来福州探寻数字峰会亮点",
       "onboard_time": 1716518537,
       "rank": 49,
@@ -1019,12 +1091,28 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 70960,
+      "num": 492281,
+      "word": "毕业后遇到的第一个面试官是AI",
+      "onboard_time": 1716523400,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 70483,
       "num": 82840,
       "word": "TES官宣教练Maokai加入",
       "onboard_time": 1716471321,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69868,
+      "num": 184307,
+      "word": "周鸿祎喜提极氪009光辉",
+      "onboard_time": 1716523099,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 67598,
@@ -1128,6 +1216,14 @@
       "word": "宁波大学宠学生把动物园搬进校园",
       "onboard_time": 1716505335,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30543,
+      "num": 167319,
+      "word": "走近第二十届文博会",
+      "onboard_time": 1716522310,
+      "rank": 38,
       "category": "社会新闻"
     },
     {

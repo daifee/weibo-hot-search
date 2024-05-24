@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716521668320,
+  "endTime": 1716524572156,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8740502,
+      "num": 9990502,
+      "word": "台湾当归",
+      "onboard_time": 1716514577,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 6410930,
       "num": 1017946,
       "word": "胖猫姐姐刘某操控舆论",
@@ -57,14 +65,6 @@
       "onboard_time": 1716126141,
       "rank": 21,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 4249159,
-      "num": 4998318,
-      "word": "台湾当归",
-      "onboard_time": 1716514577,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 3798478,
@@ -289,6 +289,14 @@
       "onboard_time": 1716385641,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1922068,
+      "num": 1922068,
+      "word": "台湾必将回归祖国怀抱",
+      "onboard_time": 1716519017,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1916060,
@@ -545,6 +553,14 @@
       "onboard_time": 1716286999,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1471363,
+      "num": 1471363,
+      "word": "王楚钦孙颖莎止步混双8强",
+      "onboard_time": 1716523400,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1471128,
@@ -1115,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1007559,
-      "num": 1007559,
-      "word": "台湾必将回归祖国怀抱",
-      "onboard_time": 1716519017,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 995106,
       "num": 995106,
       "word": "房价会不会报复性上涨",
@@ -1300,7 +1308,7 @@
     },
     {
       "raw_hot": 903144,
-      "num": 272141,
+      "num": 304418,
       "word": "入职一周因为牙痛领导给我转正了",
       "onboard_time": 1716518478,
       "rank": 32,
@@ -1728,6 +1736,14 @@
       "word": "湖南郴州一公园发生刑案致3死2伤",
       "onboard_time": 1716268521,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759965,
+      "num": 759965,
+      "word": "曾自首杀妻男子无罪释放21年后再被抓",
+      "onboard_time": 1716520517,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -3315,6 +3331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469388,
+      "num": 469388,
+      "word": "TFBOYS转发王源广州巡演",
+      "onboard_time": 1716523999,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 468971,
       "num": 468971,
       "word": "CBA",
@@ -4203,6 +4227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386072,
+      "num": 386072,
+      "word": "那英有种我妈当明星的松弛感",
+      "onboard_time": 1716520159,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384968,
       "num": 384968,
       "word": "周鸿祎将购买7辆国产新能源车",
@@ -4731,14 +4763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333593,
-      "num": 333593,
-      "word": "那英有种我妈当明星的松弛感",
-      "onboard_time": 1716520159,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333426,
       "num": 333426,
       "word": "伊朗总统葬礼23日举行",
@@ -5147,6 +5171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 311655,
+      "num": 311655,
+      "word": "NewJeans回归",
+      "onboard_time": 1716524361,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 311501,
       "num": 278184,
       "word": "李耕耘对蒋敦豪一口一个哥哥",
@@ -5177,14 +5209,6 @@
       "onboard_time": 1716518778,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 310166,
-      "num": 244020,
-      "word": "曾自首杀妻男子无罪释放21年后再被抓",
-      "onboard_time": 1716520517,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308608,
@@ -5915,6 +5939,14 @@
       "category": "美食,游戏"
     },
     {
+      "raw_hot": 264584,
+      "num": 264584,
+      "word": "莎头",
+      "onboard_time": 1716523882,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263405,
       "num": 263405,
       "word": "森林狼vs掘金",
@@ -5993,6 +6025,22 @@
       "onboard_time": 1716202638,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261142,
+      "num": 261142,
+      "word": "9.9咖啡大战拖垮库迪熬伤瑞幸",
+      "onboard_time": 1716518898,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 261039,
+      "num": 261039,
+      "word": "蔡徐坤13岁时演过童话二分之一",
+      "onboard_time": 1716520219,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260099,
@@ -6089,14 +6137,6 @@
       "onboard_time": 1716299120,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254701,
-      "num": 243345,
-      "word": "9.9咖啡大战拖垮库迪熬伤瑞幸",
-      "onboard_time": 1716518898,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 254617,
@@ -6643,12 +6683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231085,
+      "num": 231085,
+      "word": "末代厨娘定档",
+      "onboard_time": 1716522919,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231074,
       "num": 566233,
       "word": "袁爷爷离开我们3年了",
       "onboard_time": 1716344478,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230898,
+      "num": 230898,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1716523280,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 230884,
@@ -6681,14 +6737,6 @@
       "onboard_time": 1716442098,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229427,
-      "num": 229427,
-      "word": "蔡徐坤13岁时演过童话二分之一",
-      "onboard_time": 1716520219,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 229203,
@@ -6801,6 +6849,14 @@
       "onboard_time": 1716100158,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224394,
+      "num": 224394,
+      "word": "涂磊中国首席情感导师认证已被撤",
+      "onboard_time": 1716521539,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 222700,
@@ -6961,6 +7017,14 @@
       "onboard_time": 1716188059,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218145,
+      "num": 218145,
+      "word": "造谣王一博的晗晗qvq被强执",
+      "onboard_time": 1716523941,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 217804,
@@ -8035,6 +8099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195633,
+      "num": 408344,
+      "word": "夏天出去玩的底气是什么",
+      "onboard_time": 1716519917,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195560,
       "num": 195560,
       "word": "张艺兴海滩唱跳",
@@ -8723,6 +8795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184267,
+      "num": 184267,
+      "word": "剑网3联动非人哉",
+      "onboard_time": 1716523761,
+      "rank": 34,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 183970,
       "num": 183970,
       "word": "泸定地震",
@@ -9379,14 +9459,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 170731,
-      "num": 331323,
-      "word": "夏天出去玩的底气是什么",
-      "onboard_time": 1716519917,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169802,
       "num": 169802,
       "word": "为什么新出的冰箱门吸不住冰箱贴",
@@ -9395,12 +9467,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 169565,
-      "num": 169565,
-      "word": "涂磊中国首席情感导师认证已被撤",
-      "onboard_time": 1716521539,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 169648,
+      "num": 169648,
+      "word": "阿里宣布对大公司病开刀",
+      "onboard_time": 1716524421,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 169556,
@@ -13820,7 +13892,7 @@
     },
     {
       "raw_hot": 81801,
-      "num": 227655,
+      "num": 1498212,
       "word": "来福州探寻数字峰会亮点",
       "onboard_time": 1716518537,
       "rank": 49,
@@ -14067,6 +14139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70960,
+      "num": 492281,
+      "word": "毕业后遇到的第一个面试官是AI",
+      "onboard_time": 1716523400,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 70843,
       "num": 70843,
       "word": "总睡不够是缺维生素D吗",
@@ -14097,6 +14177,14 @@
       "onboard_time": 1716334456,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69868,
+      "num": 184307,
+      "word": "周鸿祎喜提极氪009光辉",
+      "onboard_time": 1716523099,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 69571,
@@ -15025,6 +15113,14 @@
       "onboard_time": 1716290117,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 30543,
+      "num": 167319,
+      "word": "走近第二十届文博会",
+      "onboard_time": 1716522310,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30225,

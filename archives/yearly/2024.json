@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1716521668320,
+  "endTime": 1716524572156,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -441,6 +441,14 @@
       "onboard_time": 1710807393,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8740502,
+      "num": 9990502,
+      "word": "台湾当归",
+      "onboard_time": 1716514577,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8720278,
@@ -1217,14 +1225,6 @@
       "onboard_time": 1710732873,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4249159,
-      "num": 4998318,
-      "word": "台湾当归",
-      "onboard_time": 1716514577,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 4235540,
