@@ -1,0 +1,410 @@
+{
+  "runTime": 1716554971551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12188481,
+        "num": 12188481,
+        "word": "亚当 限时投票",
+        "onboard_time": 1716552923,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3526132,
+        "num": 3526132,
+        "word": "中国台湾省",
+        "onboard_time": 1716539539,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146276,
+        "num": 1311775,
+        "word": "文博会太太太太太火了",
+        "onboard_time": 1716550338,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10976953,
+        "num": 1258894,
+        "word": "歌手直播",
+        "onboard_time": 1716550999,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 700615,
+        "num": 700615,
+        "word": "上海迪士尼调整门票结构",
+        "onboard_time": 1716549677,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 501923,
+        "num": 501923,
+        "word": "台湾当归",
+        "onboard_time": 1716514577,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2685989,
+        "num": 489987,
+        "word": "黄宣好有梗",
+        "onboard_time": 1716553582,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 861555,
+        "num": 480792,
+        "word": "海来阿木发文怒批直播打赏",
+        "onboard_time": 1716553222,
+        "rank": 7,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 435939,
+        "num": 435939,
+        "word": "联合国称台湾是中国的一个省",
+        "onboard_time": 1716530239,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 432587,
+        "num": 432587,
+        "word": "孩子抑郁休学其实是在替全家生病",
+        "onboard_time": 1716550757,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2288146,
+        "num": 427387,
+        "word": "歌手歌单",
+        "onboard_time": 1716525741,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1895893,
+        "num": 364251,
+        "word": "那英 who撺掇you",
+        "onboard_time": 1716552384,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1781552,
+        "num": 340994,
+        "word": "阿信 我们中国人",
+        "onboard_time": 1716554123,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1276376,
+        "num": 314699,
+        "word": "张远在歌手观众席",
+        "onboard_time": 1716553582,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277462,
+        "num": 277462,
+        "word": "鸣潮",
+        "onboard_time": 1716553461,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 463641,
+        "num": 276478,
+        "word": "下雨天 难听",
+        "onboard_time": 1716531020,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273093,
+        "num": 273093,
+        "word": "国防部说打的是台独嚣张气焰",
+        "onboard_time": 1716536419,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253734,
+        "num": 253734,
+        "word": "怎么解决台湾问题是中国人民自己的事",
+        "onboard_time": 1716537678,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241827,
+        "num": 241827,
+        "word": "港媒称香港一女警将入选预备航天员",
+        "onboard_time": 1716548958,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222369,
+        "num": 222369,
+        "word": "东部战区发了一把剑",
+        "onboard_time": 1716554603,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 956714,
+        "num": 222285,
+        "word": "投那英",
+        "onboard_time": 1716554543,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 894531,
+        "num": 222218,
+        "word": "歌手豆瓣开分6.7",
+        "onboard_time": 1716548659,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 840613,
+        "num": 222071,
+        "word": "亚当歌手彩排妆造",
+        "onboard_time": 1716552319,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317674,
+        "num": 221997,
+        "word": "爷爷爸爸去世奶奶不知情录视频呼唤",
+        "onboard_time": 1716544399,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221947,
+        "num": 221947,
+        "word": "作者回应央美毕设被嘲像垃圾堆",
+        "onboard_time": 1716551778,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 673090,
+        "num": 216037,
+        "word": "沈梦辰主持",
+        "onboard_time": 1716552681,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601349,
+        "num": 202171,
+        "word": "歌手2024",
+        "onboard_time": 1716550038,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21655,
+        "num": 171562,
+        "word": "钟楚曦为自己拼一把",
+        "onboard_time": 1716553702,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169757,
+        "num": 169757,
+        "word": "已被正式确诊为液态人",
+        "onboard_time": 1716546019,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156377,
+        "num": 156377,
+        "word": "广州到长沙仅需70分钟",
+        "onboard_time": 1716543559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670487,
+        "num": 156375,
+        "word": "沈梦辰代替何炅主持今晚歌手",
+        "onboard_time": 1716545240,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579193,
+        "num": 156349,
+        "word": "张云龙信念感",
+        "onboard_time": 1716554722,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414278,
+        "num": 156340,
+        "word": "赵丽颖工作室发长文告别贾小朵",
+        "onboard_time": 1716551838,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369232,
+        "num": 156317,
+        "word": "香缇莫好稳",
+        "onboard_time": 1716554303,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36944,
+        "num": 156304,
+        "word": "倪妮Pura70风尚之夜",
+        "onboard_time": 1716554062,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142162,
+        "num": 156289,
+        "word": "为什么国内夫妻很少见戴婚戒",
+        "onboard_time": 1716531438,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110208,
+        "num": 156258,
+        "word": "东部战区火箭军某旅导弹雨中起竖",
+        "onboard_time": 1716543439,
+        "rank": 36,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 97169,
+        "num": 156240,
+        "word": "QQ飞车手游",
+        "onboard_time": 1716548899,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95112,
+        "num": 156235,
+        "word": "巴萨官宣哈维离任",
+        "onboard_time": 1716552621,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87213,
+        "num": 156215,
+        "word": "Uzi队线下训练解散",
+        "onboard_time": 1716546979,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 351006,
+        "num": 156196,
+        "word": "亚当超绝松弛感",
+        "onboard_time": 1716551538,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313848,
+        "num": 156185,
+        "word": "doge原型去世",
+        "onboard_time": 1716539298,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 251039,
+        "num": 156165,
+        "word": "恋爱兄妹",
+        "onboard_time": 1716550338,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227146,
+        "num": 156148,
+        "word": "易烊千玺舒淇新片疑似停拍",
+        "onboard_time": 1716553222,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87107,
+        "num": 156123,
+        "word": "益阳舰距台岛北部门户约22海里",
+        "onboard_time": 1716552862,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85424,
+        "num": 156118,
+        "word": "办公室低情商vs高情商",
+        "onboard_time": 1716551478,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84294,
+        "num": 156089,
+        "word": "饮料这样了还有救吗",
+        "onboard_time": 1716550638,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 82124,
+        "num": 156074,
+        "word": "ISFJ 最淡的淡人",
+        "onboard_time": 1716541879,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79835,
+        "num": 156059,
+        "word": "狗Pro",
+        "onboard_time": 1716554241,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79530,
+        "num": 156044,
+        "word": "一精神障碍患者持刀伤人致8死1伤",
+        "onboard_time": 1716527720,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#让更多国家和人民共享互联网发展成果#"
+    }
+  }
+}

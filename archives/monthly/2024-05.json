@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716554074191,
+  "endTime": 1716554971551,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -473,6 +473,14 @@
       "onboard_time": 1715743519,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2685989,
+      "num": 489987,
+      "word": "黄宣好有梗",
+      "onboard_time": 1716553582,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2677043,
@@ -1243,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1895893,
+      "num": 419947,
+      "word": "那英 who撺掇you",
+      "onboard_time": 1716552384,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1894524,
       "num": 1894524,
       "word": "台湾从来不是一个国家也永远不会成为一个国家",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1716002059,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1781552,
+      "num": 340994,
+      "word": "阿信 我们中国人",
+      "onboard_time": 1716554123,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 1781373,
@@ -1601,14 +1625,6 @@
       "onboard_time": 1714564338,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1662136,
-      "num": 419947,
-      "word": "那英 who撺掇you",
-      "onboard_time": 1716552384,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1658499,
@@ -3155,6 +3171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1276376,
+      "num": 314699,
+      "word": "张远在歌手观众席",
+      "onboard_time": 1716553582,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1271843,
       "num": 1123397,
       "word": "那英问汪苏泷你妈多大",
@@ -4555,14 +4579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1087489,
-      "num": 402857,
-      "word": "黄宣好有梗",
-      "onboard_time": 1716553582,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1085823,
       "num": 333826,
       "word": "建议大家洗澡的时候放个凳子",
@@ -5459,6 +5475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 956714,
+      "num": 222285,
+      "word": "投那英",
+      "onboard_time": 1716554543,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 956627,
       "num": 362029,
       "word": "坐火车40小时没及时换卫生巾感染送医",
@@ -5665,14 +5689,6 @@
       "onboard_time": 1714880598,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 931919,
-      "num": 183083,
-      "word": "张远在歌手观众席",
-      "onboard_time": 1716553582,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 929980,
@@ -6056,6 +6072,14 @@
       "word": "阿朵去歌手吧",
       "onboard_time": 1715430139,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 894531,
+      "num": 222218,
+      "word": "歌手豆瓣开分6.7",
+      "onboard_time": 1716548659,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -6483,6 +6507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 861555,
+      "num": 480792,
+      "word": "海来阿木发文怒批直播打赏",
+      "onboard_time": 1716553222,
+      "rank": 25,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 861149,
       "num": 861149,
       "word": "据说每个城市都来了1亿人",
@@ -6800,6 +6832,14 @@
       "word": "韩红转发区",
       "onboard_time": 1715510902,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 840613,
+      "num": 222071,
+      "word": "亚当歌手彩排妆造",
+      "onboard_time": 1716552319,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -8145,14 +8185,6 @@
       "onboard_time": 1715254997,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 749166,
-      "num": 195492,
-      "word": "歌手豆瓣开分6.7",
-      "onboard_time": 1716548659,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 748000,
@@ -9707,6 +9739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 673090,
+      "num": 216037,
+      "word": "沈梦辰主持",
+      "onboard_time": 1716552681,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 672867,
       "num": 664920,
       "word": "女子在广州正佳广场跳楼",
@@ -9880,14 +9920,6 @@
       "word": "孟子义凭唇下痣秒认肖战",
       "onboard_time": 1715313980,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 663985,
-      "num": 182907,
-      "word": "沈梦辰主持",
-      "onboard_time": 1716552681,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -11977,6 +12009,14 @@
       "onboard_time": 1715824097,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 579193,
+      "num": 156349,
+      "word": "张云龙信念感",
+      "onboard_time": 1716554722,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 579071,
@@ -14665,14 +14705,6 @@
       "onboard_time": 1715826857,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 491905,
-      "num": 182643,
-      "word": "海来阿木发文怒批直播打赏",
-      "onboard_time": 1716553222,
-      "rank": 25,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 491595,
@@ -20337,6 +20369,14 @@
       "onboard_time": 1716083957,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 369232,
+      "num": 156317,
+      "word": "香缇莫好稳",
+      "onboard_time": 1716554303,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 369131,
@@ -31435,6 +31475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227146,
+      "num": 182059,
+      "word": "易烊千玺舒淇新片疑似停拍",
+      "onboard_time": 1716553222,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227100,
       "num": 227100,
       "word": "周翊然人长得那么帅画画就算了",
@@ -31995,6 +32043,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 222369,
+      "num": 222369,
+      "word": "东部战区发了一把剑",
+      "onboard_time": 1716554603,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 222212,
       "num": 609253,
       "word": "护士喊话妈妈医院不是我家开的",
@@ -32025,6 +32081,14 @@
       "onboard_time": 1715343919,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221947,
+      "num": 221947,
+      "word": "作者回应央美毕设被嘲像垃圾堆",
+      "onboard_time": 1716551778,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 221933,
@@ -35233,14 +35297,6 @@
       "onboard_time": 1714833201,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204366,
-      "num": 182059,
-      "word": "易烊千玺舒淇新片疑似停拍",
-      "onboard_time": 1716553222,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 204351,
@@ -41113,14 +41169,6 @@
       "onboard_time": 1714986138,
       "rank": 13,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 183179,
-      "num": 183179,
-      "word": "作者回应央美毕设被嘲像垃圾堆",
-      "onboard_time": 1716551778,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 183088,
@@ -48452,7 +48500,7 @@
     },
     {
       "raw_hot": 152556,
-      "num": 905426,
+      "num": 1311775,
       "word": "文博会太太太太太火了",
       "onboard_time": 1716550338,
       "rank": 2,
@@ -60795,6 +60843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 95112,
+      "num": 167670,
+      "word": "巴萨官宣哈维离任",
+      "onboard_time": 1716552621,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95105,
       "num": 95105,
       "word": "河南博物院",
@@ -61315,14 +61371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89565,
-      "num": 167670,
-      "word": "巴萨官宣哈维离任",
-      "onboard_time": 1716552621,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89422,
       "num": 89422,
       "word": "奥运会在即塞纳河还是臭的",
@@ -61531,6 +61579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87107,
+      "num": 166888,
+      "word": "益阳舰距台岛北部门户约22海里",
+      "onboard_time": 1716552862,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87052,
       "num": 1629773,
       "word": "我国核电技术已进入世界第一方阵",
@@ -61681,14 +61737,6 @@
       "onboard_time": 1716082697,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83789,
-      "num": 166888,
-      "word": "益阳舰距台岛北部门户约22海里",
-      "onboard_time": 1716552862,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 83762,
@@ -61945,6 +61993,14 @@
       "onboard_time": 1715446997,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79835,
+      "num": 156059,
+      "word": "狗Pro",
+      "onboard_time": 1716554241,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 79736,
@@ -65243,6 +65299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36944,
+      "num": 165315,
+      "word": "倪妮Pura70风尚之夜",
+      "onboard_time": 1716554062,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 36912,
       "num": 231767,
       "word": "梦回08年DNF上线",
@@ -66163,6 +66227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21655,
+      "num": 171562,
+      "word": "钟楚曦为自己拼一把",
+      "onboard_time": 1716553702,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21522,
       "num": 79847,
       "word": "蓝色监狱 帅得很超前",
@@ -66289,14 +66361,6 @@
       "onboard_time": 1716536539,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 19699,
-      "num": 169918,
-      "word": "钟楚曦为自己拼一把",
-      "onboard_time": 1716553702,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 19687,
@@ -66889,14 +66953,6 @@
       "onboard_time": 1715829678,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6890,
-      "num": 165315,
-      "word": "倪妮Pura70风尚之夜",
-      "onboard_time": 1716554062,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 6224,

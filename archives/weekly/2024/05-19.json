@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716554074191,
+  "endTime": 1716554971551,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -27,8 +27,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 10922302,
-      "num": 810085,
+      "raw_hot": 10976953,
+      "num": 1258894,
       "word": "歌手直播",
       "onboard_time": 1716550999,
       "rank": 3,
@@ -161,6 +161,14 @@
       "onboard_time": 1716257900,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2685989,
+      "num": 489987,
+      "word": "黄宣好有梗",
+      "onboard_time": 1716553582,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2536930,
@@ -347,6 +355,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1895893,
+      "num": 419947,
+      "word": "那英 who撺掇you",
+      "onboard_time": 1716552384,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1894524,
       "num": 1894524,
       "word": "台湾从来不是一个国家也永远不会成为一个国家",
@@ -395,6 +411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1781552,
+      "num": 340994,
+      "word": "阿信 我们中国人",
+      "onboard_time": 1716554123,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1774784,
       "num": 1774784,
       "word": "加纳总统车队发生车祸",
@@ -433,14 +457,6 @@
       "onboard_time": 1716334156,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1662136,
-      "num": 419947,
-      "word": "那英 who撺掇you",
-      "onboard_time": 1716552384,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1642994,
@@ -819,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1276376,
+      "num": 314699,
+      "word": "张远在歌手观众席",
+      "onboard_time": 1716553582,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1269731,
       "num": 1269731,
       "word": "轻断食一天吃了11根玉米",
@@ -1131,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1087489,
-      "num": 402857,
-      "word": "黄宣好有梗",
-      "onboard_time": 1716553582,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1085291,
       "num": 1085291,
       "word": "伊朗总统坠机细节公开",
@@ -1339,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 956714,
+      "num": 222285,
+      "word": "投那英",
+      "onboard_time": 1716554543,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 956495,
       "num": 1115263,
       "word": "费翔的母亲去世",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1716365720,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 931919,
-      "num": 183083,
-      "word": "张远在歌手观众席",
-      "onboard_time": 1716553582,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 927130,
@@ -1451,6 +1467,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 894531,
+      "num": 222218,
+      "word": "歌手豆瓣开分6.7",
+      "onboard_time": 1716548659,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 890860,
       "num": 890860,
       "word": "张韶涵",
@@ -1515,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 861555,
+      "num": 480792,
+      "word": "海来阿木发文怒批直播打赏",
+      "onboard_time": 1716553222,
+      "rank": 25,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 860820,
       "num": 1134981,
       "word": "今天520",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1716459499,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840613,
+      "num": 222071,
+      "word": "亚当歌手彩排妆造",
+      "onboard_time": 1716552319,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 839916,
@@ -1963,14 +2003,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 749166,
-      "num": 195492,
-      "word": "歌手豆瓣开分6.7",
-      "onboard_time": 1716548659,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 748000,
       "num": 748000,
       "word": "官博真发了杨幂哄龚俊的花絮",
@@ -2355,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673090,
+      "num": 216037,
+      "word": "沈梦辰主持",
+      "onboard_time": 1716552681,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 669035,
       "num": 669035,
       "word": "桃花坞4官宣阵容",
@@ -2377,14 +2417,6 @@
       "onboard_time": 1716291198,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 663985,
-      "num": 182907,
-      "word": "沈梦辰主持",
-      "onboard_time": 1716552681,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 662901,
@@ -2857,6 +2889,14 @@
       "onboard_time": 1716349158,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 579193,
+      "num": 156349,
+      "word": "张云龙信念感",
+      "onboard_time": 1716554722,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 578807,
@@ -3473,14 +3513,6 @@
       "onboard_time": 1716264620,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 491905,
-      "num": 182643,
-      "word": "海来阿木发文怒批直播打赏",
-      "onboard_time": 1716553222,
-      "rank": 25,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 491559,
@@ -4785,6 +4817,14 @@
       "onboard_time": 1716083957,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 369232,
+      "num": 156317,
+      "word": "香缇莫好稳",
+      "onboard_time": 1716554303,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 367776,
@@ -7507,6 +7547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227146,
+      "num": 182059,
+      "word": "易烊千玺舒淇新片疑似停拍",
+      "onboard_time": 1716553222,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227100,
       "num": 227100,
       "word": "周翊然人长得那么帅画画就算了",
@@ -7617,6 +7665,22 @@
       "onboard_time": 1716181941,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 222369,
+      "num": 222369,
+      "word": "东部战区发了一把剑",
+      "onboard_time": 1716554603,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 221947,
+      "num": 221947,
+      "word": "作者回应央美毕设被嘲像垃圾堆",
+      "onboard_time": 1716551778,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 221713,
@@ -8321,14 +8385,6 @@
       "onboard_time": 1716103157,
       "rank": 23,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 204366,
-      "num": 182059,
-      "word": "易烊千玺舒淇新片疑似停拍",
-      "onboard_time": 1716553222,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 204171,
@@ -9665,14 +9721,6 @@
       "onboard_time": 1716391999,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183179,
-      "num": 183179,
-      "word": "作者回应央美毕设被嘲像垃圾堆",
-      "onboard_time": 1716551778,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 183024,
@@ -11436,7 +11484,7 @@
     },
     {
       "raw_hot": 152556,
-      "num": 905426,
+      "num": 1311775,
       "word": "文博会太太太太太火了",
       "onboard_time": 1716550338,
       "rank": 2,
@@ -14891,6 +14939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95112,
+      "num": 167670,
+      "word": "巴萨官宣哈维离任",
+      "onboard_time": 1716552621,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94955,
       "num": 93518,
       "word": "英伟达第一财季财报",
@@ -15003,14 +15059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89565,
-      "num": 167670,
-      "word": "巴萨官宣哈维离任",
-      "onboard_time": 1716552621,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89229,
       "num": 225829,
       "word": "开什么车去相亲比较靠谱",
@@ -15083,6 +15131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 87107,
+      "num": 166888,
+      "word": "益阳舰距台岛北部门户约22海里",
+      "onboard_time": 1716552862,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86538,
       "num": 182053,
       "word": "美妆界最近是要年中考核吗",
@@ -15123,14 +15179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83789,
-      "num": 166888,
-      "word": "益阳舰距台岛北部门户约22海里",
-      "onboard_time": 1716552862,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 82981,
       "num": 577196,
       "word": "南宁暴雨中的暖心瞬间",
@@ -15169,6 +15217,14 @@
       "onboard_time": 1716419955,
       "rank": 40,
       "category": "游戏,情感"
+    },
+    {
+      "raw_hot": 79835,
+      "num": 156059,
+      "word": "狗Pro",
+      "onboard_time": 1716554241,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 79736,
@@ -16243,6 +16299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36944,
+      "num": 165315,
+      "word": "倪妮Pura70风尚之夜",
+      "onboard_time": 1716554062,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 36912,
       "num": 231767,
       "word": "梦回08年DNF上线",
@@ -16603,6 +16667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21655,
+      "num": 171562,
+      "word": "钟楚曦为自己拼一把",
+      "onboard_time": 1716553702,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21185,
       "num": 132837,
       "word": "龙生龙凤生凤七仔的儿子疑心重",
@@ -16641,14 +16713,6 @@
       "onboard_time": 1716536539,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 19699,
-      "num": 169918,
-      "word": "钟楚曦为自己拼一把",
-      "onboard_time": 1716553702,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 19687,
@@ -16873,14 +16937,6 @@
       "onboard_time": 1716061151,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6890,
-      "num": 165315,
-      "word": "倪妮Pura70风尚之夜",
-      "onboard_time": 1716554062,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 6688,
