@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716542410233,
+  "endTime": 1716543287616,
   "band_list": [
     {
       "raw_hot": 10288448,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 847868,
+      "num": 847868,
+      "word": "doge原型去世",
+      "onboard_time": 1716539298,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 826213,
       "num": 339459,
       "word": "当方脸瘦了二十斤以后",
@@ -193,14 +201,6 @@
       "onboard_time": 1716538101,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 761882,
-      "num": 761882,
-      "word": "doge原型去世",
-      "onboard_time": 1716539298,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 760107,
@@ -355,6 +355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 576215,
+      "num": 477085,
+      "word": "你的体制内偶像来啦",
+      "onboard_time": 1716540860,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 571728,
       "num": 571728,
       "word": "和男朋友用50元约会了一天",
@@ -457,14 +465,6 @@
       "onboard_time": 1716526641,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 477085,
-      "num": 477085,
-      "word": "你的体制内偶像来啦",
-      "onboard_time": 1716540860,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 465382,
@@ -595,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356226,
+      "num": 212242,
+      "word": "田田小阿姨粉丝数不降反升",
+      "onboard_time": 1716541399,
+      "rank": 23,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 356150,
       "num": 356150,
       "word": "央视网文娱评狐妖小红娘月红篇",
@@ -635,20 +643,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 332567,
+      "num": 204928,
+      "word": "ISFJ 最淡的淡人",
+      "onboard_time": 1716541879,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331261,
       "num": 331261,
       "word": "刘亦菲的西班牙人气",
       "onboard_time": 1716516079,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 328826,
-      "num": 212242,
-      "word": "田田小阿姨粉丝数不降反升",
-      "onboard_time": 1716541399,
-      "rank": 23,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 322426,
@@ -699,6 +707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303477,
+      "num": 180164,
+      "word": "歌手2024将会邀请更多国际咖",
+      "onboard_time": 1716542900,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301942,
       "num": 244394,
       "word": "李胜利",
@@ -747,6 +763,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 289875,
+      "num": 289875,
+      "word": "剑网3",
+      "onboard_time": 1716542000,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287804,
       "num": 287804,
       "word": "伊朗直升机事故调查报告",
@@ -792,6 +816,14 @@
       "word": "石凯 披荆斩棘的哥哥",
       "onboard_time": 1716539959,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 275889,
+      "num": 178293,
+      "word": "刘诗诗沈月私下没少聚餐",
+      "onboard_time": 1716542720,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -883,6 +915,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 250181,
+      "num": 250181,
+      "word": "中国台湾94年服役的郑和舰",
+      "onboard_time": 1716537499,
+      "rank": 27,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 247392,
       "num": 142441,
       "word": "身体3个部位越干净越长寿",
@@ -921,14 +961,6 @@
       "onboard_time": 1716511340,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 240657,
-      "num": 240657,
-      "word": "中国台湾94年服役的郑和舰",
-      "onboard_time": 1716537499,
-      "rank": 27,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 238185,
@@ -971,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229137,
+      "num": 229137,
+      "word": "多人称饮用万里木兰出现心悸",
+      "onboard_time": 1716540020,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227525,
       "num": 347650,
       "word": "夏以昼 国宴",
@@ -993,14 +1033,6 @@
       "onboard_time": 1716521539,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223649,
-      "num": 223649,
-      "word": "多人称饮用万里木兰出现心悸",
-      "onboard_time": 1716540020,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222712,
@@ -1067,14 +1099,6 @@
       "category": "社会新闻,社会议题"
     },
     {
-      "raw_hot": 213480,
-      "num": 213480,
-      "word": "剑网3",
-      "onboard_time": 1716542000,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 210980,
       "num": 210980,
       "word": "当年去韩国旅游的人嘴是真严",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1716539598,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 204928,
-      "num": 204928,
-      "word": "ISFJ 最淡的淡人",
-      "onboard_time": 1716541879,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 203564,
@@ -1403,6 +1419,14 @@
       "category": "幽默,科学科普"
     },
     {
+      "raw_hot": 158891,
+      "num": 158891,
+      "word": "Jennie定制新耳返",
+      "onboard_time": 1716542301,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157483,
       "num": 157483,
       "word": "小雨舞台好勾魂",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1716532280,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157139,
+      "num": 157139,
+      "word": "NewJeans扑面而来的青春感",
+      "onboard_time": 1716543018,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 156975,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1716511700,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151477,
+      "num": 151477,
+      "word": "尤长靖人没去歌手歌先去了",
+      "onboard_time": 1716543139,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 149991,
@@ -1587,19 +1627,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140736,
-      "num": 140736,
-      "word": "Jennie定制新耳返",
-      "onboard_time": 1716542301,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139613,
       "num": 139613,
       "word": "当00后掌管晚会后",
       "onboard_time": 1716541160,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 139234,
+      "num": 139234,
+      "word": "头一次在水豚身上看到了着急",
+      "onboard_time": 1716542540,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -1771,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110412,
+      "num": 137536,
+      "word": "坚决消灭一切台独分裂势力",
+      "onboard_time": 1716543079,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109791,
       "num": 109791,
       "word": "新疆阿克苏4.5级地震",
@@ -1867,6 +1915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77636,
+      "num": 683662,
+      "word": "一份胜诉判决书沉睡9年",
+      "onboard_time": 1716541220,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 76040,
       "num": 253226,
       "word": "停车场偶遇张新成",
@@ -1937,14 +1993,6 @@
       "onboard_time": 1716467718,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55651,
-      "num": 683662,
-      "word": "一份胜诉判决书沉睡9年",
-      "onboard_time": 1716541220,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 55569,
