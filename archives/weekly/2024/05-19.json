@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716556829467,
+  "endTime": 1716557722680,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -11,11 +11,19 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 14319953,
-      "num": 14319953,
+      "raw_hot": 14608877,
+      "num": 14608877,
       "word": "亚当 限时投票",
       "onboard_time": 1716552923,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13653147,
+      "num": 8276215,
+      "word": "歌手直播",
+      "onboard_time": 1716550999,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -25,14 +33,6 @@
       "onboard_time": 1716174739,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 10976953,
-      "num": 8276215,
-      "word": "歌手直播",
-      "onboard_time": 1716550999,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 10432398,
@@ -67,12 +67,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9461034,
+      "num": 737892,
+      "word": "投那英",
+      "onboard_time": 1716554543,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8787148,
       "num": 462068,
       "word": "汪峰承认恋情",
       "onboard_time": 1716191360,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8325244,
+      "num": 419947,
+      "word": "那英 who撺掇you",
+      "onboard_time": 1716552384,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7080377,
+      "num": 402940,
+      "word": "亚当绝了",
+      "onboard_time": 1716557367,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 6410930,
@@ -139,6 +163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3251963,
+      "num": 364599,
+      "word": "那英唱哭了",
+      "onboard_time": 1716557367,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3100033,
+      "num": 394321,
+      "word": "汪苏泷进步了",
+      "onboard_time": 1716556164,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3023340,
       "num": 1345428,
       "word": "五条悟尸体被操控",
@@ -153,14 +193,6 @@
       "onboard_time": 1716170778,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2793176,
-      "num": 379628,
-      "word": "汪苏泷进步了",
-      "onboard_time": 1716556164,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 2744326,
@@ -363,14 +395,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 1895893,
-      "num": 419947,
-      "word": "那英 who撺掇you",
-      "onboard_time": 1716552384,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1894524,
       "num": 1894524,
       "word": "台湾从来不是一个国家也永远不会成为一个国家",
@@ -417,6 +441,14 @@
       "onboard_time": 1716206777,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1799143,
+      "num": 238666,
+      "word": "英子保重",
+      "onboard_time": 1716555383,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1781552,
@@ -467,14 +499,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1685773,
-      "num": 285361,
-      "word": "投那英",
-      "onboard_time": 1716554543,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1642994,
       "num": 569906,
       "word": "霍启仁求婚成功",
@@ -489,6 +513,14 @@
       "onboard_time": 1716428718,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1611676,
+      "num": 554618,
+      "word": "亚当PK人选 微博网友投票",
+      "onboard_time": 1716532999,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1593081,
@@ -681,6 +713,14 @@
       "onboard_time": 1716269360,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1469540,
+      "num": 238329,
+      "word": "五旬老太擦脑门",
+      "onboard_time": 1716556283,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 1467505,
@@ -1411,14 +1451,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 944986,
-      "num": 554618,
-      "word": "亚当PK人选 微博网友投票",
-      "onboard_time": 1716532999,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 942355,
       "num": 925439,
       "word": "亚当爆改张震岳",
@@ -1539,8 +1571,16 @@
       "category": "时尚,社会新闻"
     },
     {
+      "raw_hot": 872527,
+      "num": 480792,
+      "word": "海来阿木发文怒批直播打赏",
+      "onboard_time": 1716553222,
+      "rank": 25,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 871546,
-      "num": 203608,
+      "num": 237164,
       "word": "海来阿木 欣赏不来",
       "onboard_time": 1716555926,
       "rank": 22,
@@ -1577,14 +1617,6 @@
       "onboard_time": 1716471980,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 861555,
-      "num": 480792,
-      "word": "海来阿木发文怒批直播打赏",
-      "onboard_time": 1716553222,
-      "rank": 25,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 860820,
@@ -2171,6 +2203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 715403,
+      "num": 236947,
+      "word": "张钧甯发文反对台独",
+      "onboard_time": 1716555744,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 714067,
       "num": 714067,
       "word": "专家建议允许个人自愿选择退休年龄",
@@ -2531,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 643329,
+      "num": 170501,
+      "word": "肖战直播",
+      "onboard_time": 1716555744,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643308,
       "num": 504461,
       "word": "怎么解决台湾问题是中国人民自己的事",
@@ -2747,14 +2795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 602425,
-      "num": 172345,
-      "word": "张钧甯发文反对台独",
-      "onboard_time": 1716555744,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 600659,
       "num": 600659,
       "word": "大同地震",
@@ -2841,14 +2881,6 @@
       "onboard_time": 1716519017,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 589208,
-      "num": 148617,
-      "word": "肖战直播",
-      "onboard_time": 1716555744,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 589135,
@@ -3204,7 +3236,7 @@
     },
     {
       "raw_hot": 539862,
-      "num": 277705,
+      "num": 364700,
       "word": "东部战区发了一把剑",
       "onboard_time": 1716554603,
       "rank": 19,
@@ -3787,6 +3819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468708,
+      "num": 468708,
+      "word": "一对夫妻疑被人10万元卖到缅甸",
+      "onboard_time": 1716555625,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468394,
       "num": 468394,
       "word": "卫龙15克装魔芋爽实际只有8.9克",
@@ -4059,6 +4099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 441332,
+      "num": 441332,
+      "word": "年轻人为什么不爱去商场买衣服了",
+      "onboard_time": 1716555443,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 439375,
       "num": 439375,
       "word": "我的阿勒泰新浪扫楼",
@@ -4145,14 +4193,6 @@
       "onboard_time": 1716455240,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 434452,
-      "num": 146713,
-      "word": "五旬老太擦脑门",
-      "onboard_time": 1716556283,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 433532,
@@ -4787,14 +4827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378019,
-      "num": 273949,
-      "word": "一对夫妻疑被人10万元卖到缅甸",
-      "onboard_time": 1716555625,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377621,
       "num": 377621,
       "word": "美歌手持枪拍视频意外自杀",
@@ -4889,14 +4921,6 @@
       "onboard_time": 1716554303,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368416,
-      "num": 202174,
-      "word": "年轻人为什么不爱去商场买衣服了",
-      "onboard_time": 1716555443,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 367776,
@@ -5395,6 +5419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 330816,
+      "num": 169320,
+      "word": "汪苏泷 选歌",
+      "onboard_time": 1716557669,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330699,
       "num": 330699,
       "word": "杨紫真累了也会喊不想干了",
@@ -5561,6 +5593,14 @@
       "onboard_time": 1716434419,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323705,
+      "num": 323705,
+      "word": "纳塔",
+      "onboard_time": 1716556401,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 323569,
@@ -6112,6 +6152,14 @@
       "word": "剑网3",
       "onboard_time": 1716542000,
       "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 289410,
+      "num": 289410,
+      "word": "原神前瞻",
+      "onboard_time": 1716556642,
+      "rank": 36,
       "category": "游戏"
     },
     {
@@ -7331,6 +7379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236898,
+      "num": 236898,
+      "word": "鸣潮公测第一天实录",
+      "onboard_time": 1716557128,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 236503,
       "num": 217838,
       "word": "Bin说MSI不是结尾",
@@ -8315,14 +8371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207272,
-      "num": 207272,
-      "word": "纳塔",
-      "onboard_time": 1716556401,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 207081,
       "num": 207081,
       "word": "阿森纳vs埃弗顿",
@@ -8353,6 +8401,14 @@
       "onboard_time": 1716164418,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206295,
+      "num": 206295,
+      "word": "克洛琳德大招",
+      "onboard_time": 1716556462,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 205994,
@@ -10243,6 +10299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174721,
+      "num": 174721,
+      "word": "女生称遭男孩偷拍争执视频被传黄网",
+      "onboard_time": 1716555144,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174226,
       "num": 174226,
       "word": "罗云熙直播",
@@ -10401,14 +10465,6 @@
       "onboard_time": 1716116657,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171914,
-      "num": 171914,
-      "word": "原神前瞻",
-      "onboard_time": 1716556642,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 171813,
@@ -11371,14 +11427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155837,
-      "num": 155837,
-      "word": "克洛琳德大招",
-      "onboard_time": 1716556462,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 155819,
       "num": 155819,
       "word": "白鲸帮人类捡拾落水的手机",
@@ -11707,14 +11755,6 @@
       "category": "社会新闻,电竞"
     },
     {
-      "raw_hot": 149953,
-      "num": 149953,
-      "word": "女生称遭男孩偷拍争执视频被传黄网",
-      "onboard_time": 1716555144,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149833,
       "num": 149833,
       "word": "微博电影之夜投票",
@@ -11955,6 +11995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147243,
+      "num": 171813,
+      "word": "上市公司减持新规落地",
+      "onboard_time": 1716556763,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 147069,
       "num": 147069,
       "word": "WeGame2024游戏之夜",
@@ -12057,14 +12105,6 @@
       "onboard_time": 1716372979,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145738,
-      "num": 145738,
-      "word": "上市公司减持新规落地",
-      "onboard_time": 1716556763,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 145686,
@@ -12788,7 +12828,7 @@
     },
     {
       "raw_hot": 134495,
-      "num": 156059,
+      "num": 168362,
       "word": "狗Pro",
       "onboard_time": 1716554241,
       "rank": 48,
@@ -13411,6 +13451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126414,
+      "num": 167252,
+      "word": "西安的落日8分钟",
+      "onboard_time": 1716556763,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 126277,
       "num": 126277,
       "word": "宋雨琦沈小婷跑男同框",
@@ -13689,6 +13737,14 @@
       "onboard_time": 1716548538,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122495,
+      "num": 289720,
+      "word": "重庆70岁嬢嬢开小酒馆",
+      "onboard_time": 1716555625,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122362,
@@ -14049,14 +14105,6 @@
       "onboard_time": 1716340459,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117698,
-      "num": 145738,
-      "word": "西安的落日8分钟",
-      "onboard_time": 1716556763,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 117353,
@@ -15579,14 +15627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71382,
-      "num": 289720,
-      "word": "重庆70岁嬢嬢开小酒馆",
-      "onboard_time": 1716555625,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70843,
       "num": 70843,
       "word": "总睡不够是缺维生素D吗",
@@ -16259,12 +16299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42595,
+      "num": 237654,
+      "word": "钟楚曦为自己拼一把",
+      "onboard_time": 1716553702,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42438,
       "num": 359810,
       "word": "一人一句为中高考学子打气",
       "onboard_time": 1716392538,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 41922,
+      "num": 208877,
+      "word": "倪妮Pura70风尚之夜",
+      "onboard_time": 1716554062,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 41764,
@@ -16387,14 +16443,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 37916,
-      "num": 172571,
-      "word": "倪妮Pura70风尚之夜",
-      "onboard_time": 1716554062,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 37540,
       "num": 662614,
       "word": "文化企业30强",
@@ -16441,14 +16489,6 @@
       "onboard_time": 1716365720,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36316,
-      "num": 196329,
-      "word": "钟楚曦为自己拼一把",
-      "onboard_time": 1716553702,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 36124,

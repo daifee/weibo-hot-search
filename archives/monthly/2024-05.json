@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716556829467,
+  "endTime": 1716557722680,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14319953,
-      "num": 14319953,
+      "raw_hot": 14608877,
+      "num": 14608877,
       "word": "亚当 限时投票",
       "onboard_time": 1716552923,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9461034,
+      "num": 737892,
+      "word": "投那英",
+      "onboard_time": 1716554543,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9003287,
       "num": 9003287,
       "word": "庆余年 剧王",
@@ -105,6 +113,14 @@
       "onboard_time": 1714720519,
       "rank": 46,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 8325244,
+      "num": 419947,
+      "word": "那英 who撺掇you",
+      "onboard_time": 1716552384,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 8278730,
@@ -137,6 +153,14 @@
       "onboard_time": 1714635678,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7080377,
+      "num": 402940,
+      "word": "亚当绝了",
+      "onboard_time": 1716557367,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 6947188,
@@ -315,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3251963,
+      "num": 364599,
+      "word": "那英唱哭了",
+      "onboard_time": 1716557367,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3222104,
       "num": 3222104,
       "word": "谭竹回应",
@@ -353,6 +385,14 @@
       "onboard_time": 1715838978,
       "rank": 0,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 3100033,
+      "num": 394321,
+      "word": "汪苏泷进步了",
+      "onboard_time": 1716556164,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 3073690,
@@ -449,14 +489,6 @@
       "onboard_time": 1716170778,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2793176,
-      "num": 379628,
-      "word": "汪苏泷进步了",
-      "onboard_time": 1716556164,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 2773000,
@@ -1259,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1895893,
-      "num": 419947,
-      "word": "那英 who撺掇you",
-      "onboard_time": 1716552384,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1894524,
       "num": 1894524,
       "word": "台湾从来不是一个国家也永远不会成为一个国家",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1716206777,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1799143,
+      "num": 238666,
+      "word": "英子保重",
+      "onboard_time": 1716555383,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1788659,
@@ -1611,14 +1643,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1685773,
-      "num": 285361,
-      "word": "投那英",
-      "onboard_time": 1716554543,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1683461,
       "num": 1683461,
       "word": "白月光诺澜杀回来了",
@@ -1785,6 +1809,14 @@
       "onboard_time": 1715691019,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1611676,
+      "num": 554618,
+      "word": "亚当PK人选 微博网友投票",
+      "onboard_time": 1716532999,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1608870,
@@ -2409,6 +2441,14 @@
       "onboard_time": 1716269360,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1469540,
+      "num": 238329,
+      "word": "五旬老太擦脑门",
+      "onboard_time": 1716556283,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 1467505,
@@ -5635,14 +5675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 944986,
-      "num": 554618,
-      "word": "亚当PK人选 微博网友投票",
-      "onboard_time": 1716532999,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 944041,
       "num": 944041,
       "word": "汪苏泷新歌首唱",
@@ -6371,6 +6403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 872527,
+      "num": 480792,
+      "word": "海来阿木发文怒批直播打赏",
+      "onboard_time": 1716553222,
+      "rank": 25,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 872430,
       "num": 872430,
       "word": "王妈赵管家be了",
@@ -6388,7 +6428,7 @@
     },
     {
       "raw_hot": 871546,
-      "num": 203608,
+      "num": 237164,
       "word": "海来阿木 欣赏不来",
       "onboard_time": 1716555926,
       "rank": 22,
@@ -6545,14 +6585,6 @@
       "onboard_time": 1715261779,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 861555,
-      "num": 480792,
-      "word": "海来阿木发文怒批直播打赏",
-      "onboard_time": 1716553222,
-      "rank": 25,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 861149,
@@ -8771,6 +8803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 715403,
+      "num": 236947,
+      "word": "张钧甯发文反对台独",
+      "onboard_time": 1716555744,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 714702,
       "num": 714702,
       "word": "致3岁男童死亡恶犬仍下落不明",
@@ -10443,6 +10483,14 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 643329,
+      "num": 170501,
+      "word": "肖战直播",
+      "onboard_time": 1716555744,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643308,
       "num": 504461,
       "word": "怎么解决台湾问题是中国人民自己的事",
@@ -11507,14 +11555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 602425,
-      "num": 172345,
-      "word": "张钧甯发文反对台独",
-      "onboard_time": 1716555744,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 602379,
       "num": 388079,
       "word": "袁娅维在写假条了",
@@ -11809,14 +11849,6 @@
       "onboard_time": 1714616839,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 589208,
-      "num": 148617,
-      "word": "肖战直播",
-      "onboard_time": 1716555744,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 589135,
@@ -13236,7 +13268,7 @@
     },
     {
       "raw_hot": 539862,
-      "num": 277705,
+      "num": 364700,
       "word": "东部战区发了一把剑",
       "onboard_time": 1716554603,
       "rank": 19,
@@ -15643,6 +15675,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 468708,
+      "num": 468708,
+      "word": "一对夫妻疑被人10万元卖到缅甸",
+      "onboard_time": 1716555625,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468394,
       "num": 468394,
       "word": "卫龙15克装魔芋爽实际只有8.9克",
@@ -16867,6 +16907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441332,
+      "num": 441332,
+      "word": "年轻人为什么不爱去商场买衣服了",
+      "onboard_time": 1716555443,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 441217,
       "num": 441217,
       "word": "金珉锡微博",
@@ -17137,14 +17185,6 @@
       "onboard_time": 1714644978,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 434452,
-      "num": 146713,
-      "word": "五旬老太擦脑门",
-      "onboard_time": 1716556283,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 434131,
@@ -20019,14 +20059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378019,
-      "num": 273949,
-      "word": "一对夫妻疑被人10万元卖到缅甸",
-      "onboard_time": 1716555625,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377621,
       "num": 377621,
       "word": "美歌手持枪拍视频意外自杀",
@@ -20465,14 +20497,6 @@
       "onboard_time": 1714566679,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 368416,
-      "num": 202174,
-      "word": "年轻人为什么不爱去商场买衣服了",
-      "onboard_time": 1716555443,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 367944,
@@ -22667,6 +22691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330816,
+      "num": 169320,
+      "word": "汪苏泷 选歌",
+      "onboard_time": 1716557669,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330768,
       "num": 204169,
       "word": "IVE 中国文化",
@@ -23097,6 +23129,14 @@
       "onboard_time": 1716434419,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323705,
+      "num": 323705,
+      "word": "纳塔",
+      "onboard_time": 1716556401,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 323572,
@@ -25257,6 +25297,14 @@
       "onboard_time": 1715340259,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289410,
+      "num": 289410,
+      "word": "原神前瞻",
+      "onboard_time": 1716556642,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 289336,
@@ -30339,6 +30387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236898,
+      "num": 236898,
+      "word": "鸣潮公测第一天实录",
+      "onboard_time": 1716557128,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 236644,
       "num": 236644,
       "word": "庆余年2哈哈哈海报",
@@ -34579,14 +34635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207272,
-      "num": 207272,
-      "word": "纳塔",
-      "onboard_time": 1716556401,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 207255,
       "num": 207255,
       "word": "西村力aotm",
@@ -34833,6 +34881,14 @@
       "onboard_time": 1715818938,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 206295,
+      "num": 206295,
+      "word": "克洛琳德大招",
+      "onboard_time": 1716556462,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 206164,
@@ -43155,6 +43211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174721,
+      "num": 174721,
+      "word": "女生称遭男孩偷拍争执视频被传黄网",
+      "onboard_time": 1716555144,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174707,
       "num": 174707,
       "word": "俄乌局势新进展",
@@ -43841,14 +43905,6 @@
       "onboard_time": 1716116657,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171914,
-      "num": 171914,
-      "word": "原神前瞻",
-      "onboard_time": 1716556642,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 171900,
@@ -47739,14 +47795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155837,
-      "num": 155837,
-      "word": "克洛琳德大招",
-      "onboard_time": 1716556462,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 155830,
       "num": 155830,
       "word": "龚俊我真服了2.0版",
@@ -49187,14 +49235,6 @@
       "category": "社会新闻,电竞"
     },
     {
-      "raw_hot": 149953,
-      "num": 149953,
-      "word": "女生称遭男孩偷拍争执视频被传黄网",
-      "onboard_time": 1716555144,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149911,
       "num": 149911,
       "word": "甘露寺蜜璃美甲",
@@ -50003,6 +50043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147243,
+      "num": 171813,
+      "word": "上市公司减持新规落地",
+      "onboard_time": 1716556763,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 147168,
       "num": 147168,
       "word": "一次主动换来一辈子内向",
@@ -50329,14 +50377,6 @@
       "onboard_time": 1716372979,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145738,
-      "num": 145738,
-      "word": "上市公司减持新规落地",
-      "onboard_time": 1716556763,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 145686,
@@ -53236,7 +53276,7 @@
     },
     {
       "raw_hot": 134495,
-      "num": 156059,
+      "num": 168362,
       "word": "狗Pro",
       "onboard_time": 1716554241,
       "rank": 48,
@@ -55331,6 +55371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126414,
+      "num": 167252,
+      "word": "西安的落日8分钟",
+      "onboard_time": 1716556763,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 126290,
       "num": 126290,
       "word": "高考后的那个晚上你在干嘛",
@@ -56273,6 +56321,14 @@
       "onboard_time": 1714914859,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122495,
+      "num": 289720,
+      "word": "重庆70岁嬢嬢开小酒馆",
+      "onboard_time": 1716555625,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122421,
@@ -57377,14 +57433,6 @@
       "onboard_time": 1714719439,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 117698,
-      "num": 145738,
-      "word": "西安的落日8分钟",
-      "onboard_time": 1716556763,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 117677,
@@ -62795,14 +62843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71382,
-      "num": 289720,
-      "word": "重庆70岁嬢嬢开小酒馆",
-      "onboard_time": 1716555625,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71068,
       "num": 94925,
       "word": "陈楚生弹壳合唱醉",
@@ -65027,6 +65067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42595,
+      "num": 237654,
+      "word": "钟楚曦为自己拼一把",
+      "onboard_time": 1716553702,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42438,
       "num": 359810,
       "word": "一人一句为中高考学子打气",
@@ -65073,6 +65121,14 @@
       "onboard_time": 1715173159,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41922,
+      "num": 208877,
+      "word": "倪妮Pura70风尚之夜",
+      "onboard_time": 1716554062,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 41818,
@@ -65331,14 +65387,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 37916,
-      "num": 172571,
-      "word": "倪妮Pura70风尚之夜",
-      "onboard_time": 1716554062,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 37632,
       "num": 363996,
       "word": "小范大人新动作",
@@ -65449,14 +65497,6 @@
       "onboard_time": 1716365720,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36316,
-      "num": 196329,
-      "word": "钟楚曦为自己拼一把",
-      "onboard_time": 1716553702,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 36124,
