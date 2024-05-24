@@ -1,0 +1,410 @@
+{
+  "runTime": 1716525433050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10288448,
+        "num": 11202936,
+        "word": "台湾当归",
+        "onboard_time": 1716514577,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1510829,
+        "num": 1510829,
+        "word": "台湾必将回归祖国怀抱",
+        "onboard_time": 1716519017,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36490,
+        "num": 1206246,
+        "word": "来福州探寻数字峰会亮点",
+        "onboard_time": 1716518537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1157356,
+        "num": 1157356,
+        "word": "王楚钦孙颖莎止步混双8强",
+        "onboard_time": 1716523400,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 764418,
+        "num": 764418,
+        "word": "宁静把浪姐训练服卖了",
+        "onboard_time": 1716514938,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750217,
+        "num": 750217,
+        "word": "曾自首杀妻男子无罪释放21年后再被抓",
+        "onboard_time": 1716520517,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710742,
+        "num": 710742,
+        "word": "在台湾岛三个方向演练的意义",
+        "onboard_time": 1716507016,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 555494,
+        "num": 555494,
+        "word": "NewJeans回归",
+        "onboard_time": 1716524361,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 530111,
+        "num": 530111,
+        "word": "东部战区",
+        "onboard_time": 1716510440,
+        "rank": 8,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 457787,
+        "num": 457787,
+        "word": "中国台湾937舰这里是中国管辖海域",
+        "onboard_time": 1716478999,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 770130,
+        "num": 454046,
+        "word": "杨丞琳",
+        "onboard_time": 1716508939,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537222,
+        "num": 450323,
+        "word": "霍启仁求婚成功",
+        "onboard_time": 1716507497,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 530605,
+        "num": 449824,
+        "word": "原来一次性内裤不是纯棉的最好",
+        "onboard_time": 1716512000,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 513590,
+        "num": 444406,
+        "word": "TFBOYS转发王源广州巡演",
+        "onboard_time": 1716523999,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 461686,
+        "num": 442040,
+        "word": "阿里宣布对大公司病开刀",
+        "onboard_time": 1716524421,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 438776,
+        "num": 438776,
+        "word": "亚当穿奥斯卡战袍录歌手",
+        "onboard_time": 1716519017,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405075,
+        "num": 405075,
+        "word": "那英有种我妈当明星的松弛感",
+        "onboard_time": 1716520159,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383806,
+        "num": 383806,
+        "word": "赵丽颖 客串逍遥",
+        "onboard_time": 1716516558,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296856,
+        "num": 296856,
+        "word": "我以为没有网购套路能骗到我了",
+        "onboard_time": 1716515838,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282472,
+        "num": 282472,
+        "word": "莎头",
+        "onboard_time": 1716523882,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 736729,
+        "num": 281722,
+        "word": "入职一周因为牙痛领导给我转正了",
+        "onboard_time": 1716518478,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310062,
+        "num": 275632,
+        "word": "向佐让李胜利离中国香港远一点",
+        "onboard_time": 1716474021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301915,
+        "num": 271659,
+        "word": "乘风三公",
+        "onboard_time": 1716525082,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265532,
+        "num": 265532,
+        "word": "当方脸瘦了二十斤以后",
+        "onboard_time": 1716507197,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 264649,
+        "num": 264649,
+        "word": "NewJeans回归逆应援",
+        "onboard_time": 1716524780,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242425,
+        "num": 242425,
+        "word": "9.9咖啡大战拖垮库迪熬伤瑞幸",
+        "onboard_time": 1716518898,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230281,
+        "num": 230281,
+        "word": "离职后退了一千多个工作群",
+        "onboard_time": 1716503834,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228547,
+        "num": 228547,
+        "word": "蔡徐坤13岁时演过童话二分之一",
+        "onboard_time": 1716520219,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227067,
+        "num": 227067,
+        "word": "造谣王一博的晗晗qvq被强执",
+        "onboard_time": 1716523941,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224915,
+        "num": 224915,
+        "word": "杨幂狐妖状态",
+        "onboard_time": 1716519738,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219484,
+        "num": 219484,
+        "word": "无法考公的中年人开始争抢社区劳务派遣",
+        "onboard_time": 1716524841,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68286,
+        "num": 218341,
+        "word": "周鸿祎喜提极氪009光辉",
+        "onboard_time": 1716523099,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218164,
+        "num": 218164,
+        "word": "涂磊中国首席情感导师认证已被撤",
+        "onboard_time": 1716521539,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200439,
+        "num": 200439,
+        "word": "WTT",
+        "onboard_time": 1716524601,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191096,
+        "num": 191096,
+        "word": "贾跃亭称他生存需求都有问题了",
+        "onboard_time": 1716524721,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184915,
+        "num": 184915,
+        "word": "末代厨娘定档",
+        "onboard_time": 1716522919,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179729,
+        "num": 179729,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1716523280,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173637,
+        "num": 173637,
+        "word": "小心这5种首饰戴多了或伤身",
+        "onboard_time": 1716512359,
+        "rank": 37,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 171093,
+        "num": 171093,
+        "word": "GAI把周杰伦名字刻在手心",
+        "onboard_time": 1716518537,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166655,
+        "num": 166655,
+        "word": "丫丫喜提大冰块",
+        "onboard_time": 1716515899,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166430,
+        "num": 166430,
+        "word": "亚当更新微博",
+        "onboard_time": 1716511101,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164165,
+        "num": 164165,
+        "word": "原来腰腹赘肉也有天敌",
+        "onboard_time": 1716517099,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 155567,
+        "num": 155567,
+        "word": "杨幂工作室连发8条微博",
+        "onboard_time": 1716507497,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149733,
+        "num": 149733,
+        "word": "陈都灵八成有点喜欢我",
+        "onboard_time": 1716518898,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145250,
+        "num": 145250,
+        "word": "百万留学回国后月薪7000",
+        "onboard_time": 1716494471,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143941,
+        "num": 143941,
+        "word": "B太揭秘100元3个榴莲内幕",
+        "onboard_time": 1716509239,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136456,
+        "num": 136456,
+        "word": "毕业后遇到的第一个面试官是AI",
+        "onboard_time": 1716523400,
+        "rank": 46,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 135018,
+        "num": 135018,
+        "word": "周深任性了一次",
+        "onboard_time": 1716521658,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133508,
+        "num": 133508,
+        "word": "狐妖月红篇还原度",
+        "onboard_time": 1716525322,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127879,
+        "num": 127879,
+        "word": "夏天出去玩的底气是什么",
+        "onboard_time": 1716519917,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山东日照考察调研#"
+    }
+  }
+}

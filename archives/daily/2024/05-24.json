@@ -1,10 +1,10 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716524572156,
+  "endTime": 1716525433050,
   "band_list": [
     {
-      "raw_hot": 8740502,
-      "num": 9990502,
+      "raw_hot": 10288448,
+      "num": 11202936,
       "word": "台湾当归",
       "onboard_time": 1716514577,
       "rank": 18,
@@ -219,12 +219,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 555494,
+      "num": 555494,
+      "word": "NewJeans回归",
+      "onboard_time": 1716524361,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 518211,
       "num": 518211,
       "word": "人民日报评老乡鸡葱油鸡加20克",
       "onboard_time": 1716476842,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 513590,
+      "num": 469388,
+      "word": "TFBOYS转发王源广州巡演",
+      "onboard_time": 1716523999,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 500266,
@@ -235,20 +251,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 469388,
-      "num": 469388,
-      "word": "TFBOYS转发王源广州巡演",
-      "onboard_time": 1716523999,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 465382,
       "num": 465382,
       "word": "百万留学回国后月薪7000",
       "onboard_time": 1716494471,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461686,
+      "num": 442040,
+      "word": "阿里宣布对大公司病开刀",
+      "onboard_time": 1716524421,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 449755,
@@ -299,20 +315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405075,
+      "num": 405075,
+      "word": "那英有种我妈当明星的松弛感",
+      "onboard_time": 1716520159,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389427,
       "num": 389427,
       "word": "赵丽颖在人间杀青了",
       "onboard_time": 1716511940,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386072,
-      "num": 386072,
-      "word": "那英有种我妈当明星的松弛感",
-      "onboard_time": 1716520159,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 377275,
@@ -355,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311655,
-      "num": 311655,
-      "word": "NewJeans回归",
-      "onboard_time": 1716524361,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 310837,
       "num": 310837,
       "word": "逆水寒",
@@ -377,6 +385,14 @@
       "onboard_time": 1716506356,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301915,
+      "num": 271659,
+      "word": "乘风三公",
+      "onboard_time": 1716525082,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 300911,
@@ -411,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 282472,
+      "num": 282472,
+      "word": "莎头",
+      "onboard_time": 1716523882,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268463,
       "num": 268463,
       "word": "母亲带患甲流儿子到瑜伽馆放血灌肠",
@@ -419,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264584,
-      "num": 264584,
-      "word": "莎头",
-      "onboard_time": 1716523882,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 264649,
+      "num": 264649,
+      "word": "NewJeans回归逆应援",
+      "onboard_time": 1716524780,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 261750,
@@ -531,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227067,
+      "num": 227067,
+      "word": "造谣王一博的晗晗qvq被强执",
+      "onboard_time": 1716523941,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224394,
       "num": 224394,
       "word": "涂磊中国首席情感导师认证已被撤",
@@ -563,12 +595,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 218145,
-      "num": 218145,
-      "word": "造谣王一博的晗晗qvq被强执",
-      "onboard_time": 1716523941,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 219484,
+      "num": 219484,
+      "word": "无法考公的中年人开始争抢社区劳务派遣",
+      "onboard_time": 1716524841,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217374,
@@ -619,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200439,
+      "num": 200439,
+      "word": "WTT",
+      "onboard_time": 1716524601,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200430,
       "num": 200430,
       "word": "陈都灵八成有点喜欢我",
@@ -641,6 +681,14 @@
       "onboard_time": 1716519917,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191096,
+      "num": 191096,
+      "word": "贾跃亭称他生存需求都有问题了",
+      "onboard_time": 1716524721,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 190766,
@@ -745,14 +793,6 @@
       "onboard_time": 1716476901,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169648,
-      "num": 169648,
-      "word": "阿里宣布对大公司病开刀",
-      "onboard_time": 1716524421,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 164842,
@@ -883,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136456,
+      "num": 492281,
+      "word": "毕业后遇到的第一个面试官是AI",
+      "onboard_time": 1716523400,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 134547,
       "num": 134547,
       "word": "小鬼导师人气倒数第二",
@@ -897,6 +945,14 @@
       "onboard_time": 1716507976,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133508,
+      "num": 133508,
+      "word": "狐妖月红篇还原度",
+      "onboard_time": 1716525322,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 130827,
@@ -1091,14 +1147,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 70960,
-      "num": 492281,
-      "word": "毕业后遇到的第一个面试官是AI",
-      "onboard_time": 1716523400,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
-    },
-    {
       "raw_hot": 70483,
       "num": 82840,
       "word": "TES官宣教练Maokai加入",
@@ -1108,7 +1156,7 @@
     },
     {
       "raw_hot": 69868,
-      "num": 184307,
+      "num": 218341,
       "word": "周鸿祎喜提极氪009光辉",
       "onboard_time": 1716523099,
       "rank": 33,

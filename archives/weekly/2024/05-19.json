@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716524572156,
+  "endTime": 1716525433050,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -27,6 +27,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 10288448,
+      "num": 11202936,
+      "word": "台湾当归",
+      "onboard_time": 1716514577,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9523997,
       "num": 9523997,
       "word": "汪峰520官宣",
@@ -41,14 +49,6 @@
       "onboard_time": 1716191360,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8740502,
-      "num": 9990502,
-      "word": "台湾当归",
-      "onboard_time": 1716514577,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 6410930,
@@ -2755,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555494,
+      "num": 555494,
+      "word": "NewJeans回归",
+      "onboard_time": 1716524361,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 552370,
       "num": 410296,
       "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
@@ -2961,6 +2969,14 @@
       "onboard_time": 1716430698,
       "rank": 18,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 513590,
+      "num": 469388,
+      "word": "TFBOYS转发王源广州巡演",
+      "onboard_time": 1716523999,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 513524,
@@ -3331,14 +3347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 469388,
-      "num": 469388,
-      "word": "TFBOYS转发王源广州巡演",
-      "onboard_time": 1716523999,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 468971,
       "num": 468971,
       "word": "CBA",
@@ -3409,6 +3417,14 @@
       "onboard_time": 1716195022,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 461686,
+      "num": 442040,
+      "word": "阿里宣布对大公司病开刀",
+      "onboard_time": 1716524421,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 461079,
@@ -4003,6 +4019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405075,
+      "num": 405075,
+      "word": "那英有种我妈当明星的松弛感",
+      "onboard_time": 1716520159,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404305,
       "num": 404305,
       "word": "老人吃饱喝足后突然倒仰离世",
@@ -4225,14 +4249,6 @@
       "onboard_time": 1716186439,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386072,
-      "num": 386072,
-      "word": "那英有种我妈当明星的松弛感",
-      "onboard_time": 1716520159,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 384968,
@@ -5171,14 +5187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 311655,
-      "num": 311655,
-      "word": "NewJeans回归",
-      "onboard_time": 1716524361,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 311501,
       "num": 278184,
       "word": "李耕耘对蒋敦豪一口一个哥哥",
@@ -5305,6 +5313,14 @@
       "onboard_time": 1716334156,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 301915,
+      "num": 271659,
+      "word": "乘风三公",
+      "onboard_time": 1716525082,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 300911,
@@ -5593,6 +5609,14 @@
       "onboard_time": 1716110597,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 282472,
+      "num": 282472,
+      "word": "莎头",
+      "onboard_time": 1716523882,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 282288,
@@ -5939,12 +5963,12 @@
       "category": "美食,游戏"
     },
     {
-      "raw_hot": 264584,
-      "num": 264584,
-      "word": "莎头",
-      "onboard_time": 1716523882,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 264649,
+      "num": 264649,
+      "word": "NewJeans回归逆应援",
+      "onboard_time": 1716524780,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 263405,
@@ -6811,6 +6835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227067,
+      "num": 227067,
+      "word": "造谣王一博的晗晗qvq被强执",
+      "onboard_time": 1716523941,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226981,
       "num": 194853,
       "word": "鞠婧祎助理号",
@@ -6987,6 +7019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219484,
+      "num": 219484,
+      "word": "无法考公的中年人开始争抢社区劳务派遣",
+      "onboard_time": 1716524841,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219411,
       "num": 219411,
       "word": "aespa新歌supernova日冠",
@@ -7017,14 +7057,6 @@
       "onboard_time": 1716188059,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218145,
-      "num": 218145,
-      "word": "造谣王一博的晗晗qvq被强执",
-      "onboard_time": 1716523941,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 217804,
@@ -8451,6 +8483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191096,
+      "num": 191096,
+      "word": "贾跃亭称他生存需求都有问题了",
+      "onboard_time": 1716524721,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 190973,
       "num": 190973,
       "word": "联合利剑",
@@ -9465,14 +9505,6 @@
       "onboard_time": 1716343099,
       "rank": 35,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 169648,
-      "num": 169648,
-      "word": "阿里宣布对大公司病开刀",
-      "onboard_time": 1716524421,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 169556,
@@ -11419,6 +11451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136456,
+      "num": 492281,
+      "word": "毕业后遇到的第一个面试官是AI",
+      "onboard_time": 1716523400,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 136104,
       "num": 136104,
       "word": "詹姆斯库里入选三阵",
@@ -11625,6 +11665,14 @@
       "onboard_time": 1716373459,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133508,
+      "num": 133508,
+      "word": "狐妖月红篇还原度",
+      "onboard_time": 1716525322,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 133336,
@@ -14139,14 +14187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70960,
-      "num": 492281,
-      "word": "毕业后遇到的第一个面试官是AI",
-      "onboard_time": 1716523400,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
-    },
-    {
       "raw_hot": 70843,
       "num": 70843,
       "word": "总睡不够是缺维生素D吗",
@@ -14180,7 +14220,7 @@
     },
     {
       "raw_hot": 69868,
-      "num": 184307,
+      "num": 218341,
       "word": "周鸿祎喜提极氪009光辉",
       "onboard_time": 1716523099,
       "rank": 33,

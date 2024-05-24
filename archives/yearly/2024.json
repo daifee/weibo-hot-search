@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1716524572156,
+  "endTime": 1716525433050,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10288448,
+      "num": 11202936,
+      "word": "台湾当归",
+      "onboard_time": 1716514577,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10186218,
       "num": 10186218,
       "word": "还得是沈腾马丽",
@@ -441,14 +449,6 @@
       "onboard_time": 1710807393,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8740502,
-      "num": 9990502,
-      "word": "台湾当归",
-      "onboard_time": 1716514577,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8720278,
