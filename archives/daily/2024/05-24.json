@@ -1,10 +1,10 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716520836207,
+  "endTime": 1716521668320,
   "band_list": [
     {
-      "raw_hot": 3689599,
-      "num": 3879199,
+      "raw_hot": 4249159,
+      "num": 4998318,
       "word": "台湾当归",
       "onboard_time": 1716514577,
       "rank": 18,
@@ -75,6 +75,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1007559,
+      "num": 1007559,
+      "word": "台湾必将回归祖国怀抱",
+      "onboard_time": 1716519017,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 903144,
+      "num": 272141,
+      "word": "入职一周因为牙痛领导给我转正了",
+      "onboard_time": 1716518478,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 874894,
       "num": 339051,
       "word": "多位台湾艺人表态支持祖国统一",
@@ -91,14 +107,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 793022,
-      "num": 272141,
-      "word": "入职一周因为牙痛领导给我转正了",
-      "onboard_time": 1716518478,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 774754,
       "num": 339359,
       "word": "离职后退了一千多个工作群",
@@ -113,14 +121,6 @@
       "onboard_time": 1716511101,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 716929,
-      "num": 716929,
-      "word": "台湾必将回归祖国怀抱",
-      "onboard_time": 1716519017,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 714903,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 412071,
+      "num": 412071,
+      "word": "GAI把周杰伦名字刻在手心",
+      "onboard_time": 1716518537,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389427,
       "num": 389427,
       "word": "赵丽颖在人间杀青了",
@@ -291,20 +299,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357799,
-      "num": 357799,
-      "word": "GAI把周杰伦名字刻在手心",
-      "onboard_time": 1716518537,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 337407,
       "num": 337407,
       "word": "长期烧水和买桶装水喝哪个更健康",
       "onboard_time": 1716456498,
       "rank": 5,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 333593,
+      "num": 333593,
+      "word": "那英有种我妈当明星的松弛感",
+      "onboard_time": 1716520159,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 331261,
@@ -329,6 +337,14 @@
       "onboard_time": 1716518778,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 310166,
+      "num": 244020,
+      "word": "曾自首杀妻男子无罪释放21年后再被抓",
+      "onboard_time": 1716520517,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301942,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 261750,
-      "num": 249604,
+      "num": 253845,
       "word": "杨幂狐妖状态",
       "onboard_time": 1716519738,
       "rank": 24,
@@ -393,6 +409,14 @@
       "onboard_time": 1716510919,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254701,
+      "num": 243345,
+      "word": "9.9咖啡大战拖垮库迪熬伤瑞幸",
+      "onboard_time": 1716518898,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 251147,
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 241354,
-      "num": 199367,
+      "num": 204007,
       "word": "电脑里前任同事留下的文档",
       "onboard_time": 1716517578,
       "rank": 36,
@@ -451,20 +475,12 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 228361,
-      "num": 228361,
-      "word": "那英有种我妈当明星的松弛感",
-      "onboard_time": 1716520159,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 226710,
-      "num": 226710,
-      "word": "9.9咖啡大战拖垮库迪熬伤瑞幸",
-      "onboard_time": 1716518898,
-      "rank": 30,
-      "category": "财经"
+      "raw_hot": 229427,
+      "num": 229427,
+      "word": "蔡徐坤13岁时演过童话二分之一",
+      "onboard_time": 1716520219,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222712,
@@ -531,24 +547,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208830,
-      "num": 208830,
-      "word": "曾自首杀妻男子无罪释放21年后再被抓",
-      "onboard_time": 1716520517,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 201169,
+      "num": 201169,
+      "word": "周深任性了一次",
+      "onboard_time": 1716521658,
+      "rank": 31,
+      "category": "音乐"
     },
     {
-      "raw_hot": 208102,
-      "num": 208102,
-      "word": "蔡徐坤13岁时演过童话二分之一",
-      "onboard_time": 1716520219,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 198697,
-      "num": 198697,
+      "raw_hot": 200430,
+      "num": 200430,
       "word": "陈都灵八成有点喜欢我",
       "onboard_time": 1716518898,
       "rank": 37,
@@ -569,6 +577,14 @@
       "onboard_time": 1716516918,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190388,
+      "num": 190388,
+      "word": "杨幂微指破4亿",
+      "onboard_time": 1716521058,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 188229,
@@ -643,12 +659,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170731,
+      "num": 331323,
+      "word": "夏天出去玩的底气是什么",
+      "onboard_time": 1716519917,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170592,
       "num": 141872,
       "word": "王一栩回应狐妖争议",
       "onboard_time": 1716476901,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169565,
+      "num": 169565,
+      "word": "涂磊中国首席情感导师认证已被撤",
+      "onboard_time": 1716521539,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164842,
+      "num": 164842,
+      "word": "许嵩南京抢票",
+      "onboard_time": 1716521539,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 164621,
@@ -723,6 +763,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 146687,
+      "num": 459274,
+      "word": "开启自动驾驶后发生交通事故怎么算",
+      "onboard_time": 1716519619,
+      "rank": 9,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 146135,
       "num": 140958,
       "word": "电视剧庆余年",
@@ -739,6 +787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143397,
+      "num": 143397,
+      "word": "凯尔特人2比0步行者",
+      "onboard_time": 1716520758,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141046,
       "num": 141046,
       "word": "小龙虾价格暴跌年轻人不爱吃了",
@@ -747,16 +803,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 139003,
-      "num": 300483,
-      "word": "夏天出去玩的底气是什么",
-      "onboard_time": 1716519917,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138448,
-      "num": 138448,
+      "raw_hot": 141042,
+      "num": 141042,
       "word": "杰伦布朗真大腿",
       "onboard_time": 1716518237,
       "rank": 40,
@@ -777,14 +825,6 @@
       "onboard_time": 1716507976,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131752,
-      "num": 131752,
-      "word": "凯尔特人2比0步行者",
-      "onboard_time": 1716520758,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 130827,
@@ -971,14 +1011,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 76761,
-      "num": 459274,
-      "word": "开启自动驾驶后发生交通事故怎么算",
-      "onboard_time": 1716519619,
-      "rank": 9,
-      "category": "社会新闻,汽车"
-    },
-    {
       "raw_hot": 71353,
       "num": 83236,
       "word": "东部战区位台岛周边开展演习",
@@ -1051,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46859,
+      "num": 358970,
+      "word": "天猫618增发千万张超大额购物券",
+      "onboard_time": 1716519619,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 45320,
       "num": 45320,
       "word": "小狗一定挑选了认为最好的礼物",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1716485773,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36824,
-      "num": 358970,
-      "word": "天猫618增发千万张超大额购物券",
-      "onboard_time": 1716519619,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 32765,
@@ -1148,7 +1180,7 @@
     },
     {
       "raw_hot": 13520,
-      "num": 878871,
+      "num": 947354,
       "word": "第20届文博会",
       "onboard_time": 1716442278,
       "rank": 2,
