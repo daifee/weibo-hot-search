@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716589081174,
+  "endTime": 1716590042397,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -52387,6 +52387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139399,
+      "num": 139399,
+      "word": "多方向抵近台岛战巡演练模拟动画",
+      "onboard_time": 1716576372,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139381,
       "num": 139381,
       "word": "一诺敖隐小龙王",
@@ -57297,14 +57305,6 @@
       "onboard_time": 1716461419,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 119574,
-      "num": 119574,
-      "word": "多方向抵近台岛战巡演练模拟动画",
-      "onboard_time": 1716576372,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 119564,
@@ -64659,6 +64659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 54327,
+      "num": 54327,
+      "word": "朱丹周一围新合照",
+      "onboard_time": 1716585013,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54226,
       "num": 59244,
       "word": "璩静修改账号简介",
@@ -64777,6 +64785,14 @@
       "onboard_time": 1715324478,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52174,
+      "num": 52174,
+      "word": "剧组说贺军翔这两天没戏要拍",
+      "onboard_time": 1716587531,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 52161,
@@ -65475,14 +65491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43025,
-      "num": 43025,
-      "word": "朱丹周一围新合照",
-      "onboard_time": 1716585013,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42595,
       "num": 237654,
       "word": "钟楚曦为自己拼一把",
@@ -65809,14 +65817,6 @@
       "onboard_time": 1716184819,
       "rank": 14,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 37960,
-      "num": 27588,
-      "word": "剧组说贺军翔这两天没戏要拍",
-      "onboard_time": 1716587531,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 37632,
@@ -66307,6 +66307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30435,
+      "num": 27541,
+      "word": "田嘉瑞在开心麻花待了三年",
+      "onboard_time": 1716582790,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30225,
       "num": 1041189,
       "word": "长城长皆同往",
@@ -66441,14 +66449,6 @@
       "onboard_time": 1716140893,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27318,
-      "num": 25106,
-      "word": "田嘉瑞在开心麻花待了三年",
-      "onboard_time": 1716582790,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 27308,
@@ -66795,6 +66795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22731,
+      "num": 257291,
+      "word": "听着小美满愿丰收美满",
+      "onboard_time": 1716558148,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22501,
       "num": 27691,
       "word": "章鱼的智慧",
@@ -66995,14 +67003,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 19758,
-      "num": 253852,
-      "word": "听着小美满愿丰收美满",
-      "onboard_time": 1716558148,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19687,
       "num": 23188,
       "word": "全国吃辣battle",
@@ -67043,20 +67043,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19105,
+      "num": 35970,
+      "word": "祖国统一是历史大势人间正道",
+      "onboard_time": 1716578472,
+      "rank": 49,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 19057,
       "num": 626009,
       "word": "常温奶和鲜奶的区别大么",
       "onboard_time": 1715906118,
       "rank": 11,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 18934,
-      "num": 35970,
-      "word": "祖国统一是历史大势人间正道",
-      "onboard_time": 1716578472,
-      "rank": 49,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 18889,

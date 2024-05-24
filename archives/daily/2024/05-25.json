@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716589081174,
+  "endTime": 1716590042397,
   "band_list": [
     {
       "raw_hot": 2416405,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139399,
+      "num": 139399,
+      "word": "多方向抵近台岛战巡演练模拟动画",
+      "onboard_time": 1716576372,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136617,
       "num": 136617,
       "word": "台独在哪火力套餐就送到哪",
@@ -368,14 +376,6 @@
       "word": "联合国称台湾是中国的一个省",
       "onboard_time": 1716530239,
       "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 119574,
-      "num": 119574,
-      "word": "多方向抵近台岛战巡演练模拟动画",
-      "onboard_time": 1716576372,
-      "rank": 28,
       "category": "国内时政"
     },
     {
@@ -459,28 +459,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43429,
-      "num": 97510,
-      "word": "鸣潮EP上线",
-      "onboard_time": 1716569237,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 43025,
-      "num": 43025,
+      "raw_hot": 54327,
+      "num": 54327,
       "word": "朱丹周一围新合照",
       "onboard_time": 1716585013,
       "rank": 41,
       "category": "艺人"
     },
     {
-      "raw_hot": 37960,
-      "num": 27588,
+      "raw_hot": 52174,
+      "num": 52174,
       "word": "剧组说贺军翔这两天没戏要拍",
       "onboard_time": 1716587531,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43429,
+      "num": 97510,
+      "word": "鸣潮EP上线",
+      "onboard_time": 1716569237,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 36990,
@@ -491,20 +491,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30435,
+      "num": 27541,
+      "word": "田嘉瑞在开心麻花待了三年",
+      "onboard_time": 1716582790,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29695,
       "num": 76811,
       "word": "回头是岸",
       "onboard_time": 1716557907,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27318,
-      "num": 25106,
-      "word": "田嘉瑞在开心麻花待了三年",
-      "onboard_time": 1716582790,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 26792,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22731,
+      "num": 257291,
+      "word": "听着小美满愿丰收美满",
+      "onboard_time": 1716558148,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22468,
       "num": 27388,
       "word": "宋雨琦 猜猜我到底是好是坏",
@@ -555,15 +563,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 19758,
-      "num": 253852,
-      "word": "听着小美满愿丰收美满",
-      "onboard_time": 1716558148,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18934,
+      "raw_hot": 19105,
       "num": 35970,
       "word": "祖国统一是历史大势人间正道",
       "onboard_time": 1716578472,
