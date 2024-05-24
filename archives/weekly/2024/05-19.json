@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716567687834,
+  "endTime": 1716568609030,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 2241922,
-      "num": 399210,
+      "num": 1869444,
       "word": "那英真的摇人了",
       "onboard_time": 1716563602,
       "rank": 22,
@@ -2843,6 +2843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 625352,
+      "num": 254883,
+      "word": "就不能是王菲吗",
+      "onboard_time": 1716564262,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 623193,
       "num": 623193,
       "word": "我以为没有网购套路能骗到我了",
@@ -2889,14 +2897,6 @@
       "onboard_time": 1716452778,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 609219,
-      "num": 254883,
-      "word": "就不能是王菲吗",
-      "onboard_time": 1716564262,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 608923,
@@ -3841,6 +3841,14 @@
       "onboard_time": 1716526641,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 482289,
+      "num": 254373,
+      "word": "李晋晔好帅",
+      "onboard_time": 1716565461,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 481391,
@@ -4897,14 +4905,6 @@
       "onboard_time": 1716249498,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 390003,
-      "num": 254373,
-      "word": "李晋晔好帅",
-      "onboard_time": 1716565461,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 389752,
@@ -6155,6 +6155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303349,
+      "num": 289646,
+      "word": "国旗军旗与宝岛中央山脉同框",
+      "onboard_time": 1716563542,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 302842,
       "num": 302842,
       "word": "上访村民疑被精神病",
@@ -6369,14 +6377,6 @@
       "onboard_time": 1716542000,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 289646,
-      "num": 289646,
-      "word": "国旗军旗与宝岛中央山脉同框",
-      "onboard_time": 1716563542,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 289410,
@@ -10115,6 +10115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 183014,
+      "num": 183014,
+      "word": "他让她动情她教他成长",
+      "onboard_time": 1716567799,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182759,
       "num": 182759,
       "word": "白敬亭神转场",
@@ -11955,6 +11963,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 151893,
+      "num": 242520,
+      "word": "黄轩跳晚安大小姐",
+      "onboard_time": 1716560007,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151818,
       "num": 151818,
       "word": "闪耀暖暖",
@@ -11969,14 +11985,6 @@
       "onboard_time": 1716351620,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151289,
-      "num": 242520,
-      "word": "黄轩跳晚安大小姐",
-      "onboard_time": 1716560007,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 151253,
@@ -17235,6 +17243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 20317,
+      "num": 317438,
+      "word": "清华小哥分享高三逆袭秘籍",
+      "onboard_time": 1716566900,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 20054,
       "num": 188621,
       "word": "比亚迪李云飞称528放大招",
@@ -17281,14 +17297,6 @@
       "onboard_time": 1716247515,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 18493,
-      "num": 317438,
-      "word": "清华小哥分享高三逆袭秘籍",
-      "onboard_time": 1716566900,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 17985,
