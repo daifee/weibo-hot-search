@@ -1,0 +1,410 @@
+{
+  "runTime": 1716514696113,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1592179,
+        "num": 1592179,
+        "word": "东部战区",
+        "onboard_time": 1716510440,
+        "rank": 0,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 954061,
+        "num": 954061,
+        "word": "在台湾岛三个方向演练的意义",
+        "onboard_time": 1716507016,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12232,
+        "num": 710309,
+        "word": "第20届文博会",
+        "onboard_time": 1716442278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679154,
+        "num": 679154,
+        "word": "向佐让李胜利离中国香港远一点",
+        "onboard_time": 1716474021,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677884,
+        "num": 677884,
+        "word": "亚当更新微博",
+        "onboard_time": 1716511101,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525454,
+        "num": 525454,
+        "word": "删了吧有个打工人破防了",
+        "onboard_time": 1716507856,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523936,
+        "num": 523936,
+        "word": "中国台湾937舰这里是中国管辖海域",
+        "onboard_time": 1716478999,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509788,
+        "num": 509788,
+        "word": "B太揭秘100元3个榴莲内幕",
+        "onboard_time": 1716509239,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452730,
+        "num": 452730,
+        "word": "和男朋友用50元约会了一天",
+        "onboard_time": 1716508037,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158317,
+        "num": 449764,
+        "word": "原来大小樱桃是这样挑出来的",
+        "onboard_time": 1716513859,
+        "rank": 9,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 2232,
+        "num": 437154,
+        "word": "脆皮打工人奶搭子是什么",
+        "onboard_time": 1716510860,
+        "rank": 10,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 1366193,
+        "num": 429206,
+        "word": "霍启仁求婚成功",
+        "onboard_time": 1716507497,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1188876,
+        "num": 417900,
+        "word": "杨丞琳",
+        "onboard_time": 1716508939,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049033,
+        "num": 414036,
+        "word": "原来一次性内裤不是纯棉的最好",
+        "onboard_time": 1716512000,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 679343,
+        "num": 402508,
+        "word": "普京签令允许用美在俄资产补偿俄方损失",
+        "onboard_time": 1716511940,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 546813,
+        "num": 392508,
+        "word": "杨幂工作室连发8条微博",
+        "onboard_time": 1716507497,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389472,
+        "num": 389472,
+        "word": "百万留学回国后月薪7000",
+        "onboard_time": 1716494471,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389427,
+        "num": 389427,
+        "word": "赵丽颖在人间杀青了",
+        "onboard_time": 1716511940,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341506,
+        "num": 341506,
+        "word": "台湾当归",
+        "onboard_time": 1716514577,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 322998,
+        "num": 322998,
+        "word": "东部战区持续位台岛周边演习",
+        "onboard_time": 1716513738,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 712716,
+        "num": 320629,
+        "word": "离职后退了一千多个工作群",
+        "onboard_time": 1716503834,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 599491,
+        "num": 320150,
+        "word": "当方脸瘦了二十斤以后",
+        "onboard_time": 1716507197,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 447909,
+        "num": 318043,
+        "word": "小心这5种首饰戴多了或伤身",
+        "onboard_time": 1716512359,
+        "rank": 22,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 314896,
+        "num": 314896,
+        "word": "蔡徐坤放饭了",
+        "onboard_time": 1716508759,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281419,
+        "num": 281419,
+        "word": "狐妖小红娘 儿童剧",
+        "onboard_time": 1716469279,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254700,
+        "num": 254700,
+        "word": "张若昀版小范闲",
+        "onboard_time": 1716510919,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254157,
+        "num": 254157,
+        "word": "多位台湾艺人表态支持祖国统一",
+        "onboard_time": 1716457520,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243164,
+        "num": 243164,
+        "word": "狐妖首播破纪录",
+        "onboard_time": 1716512659,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236046,
+        "num": 236046,
+        "word": "终于理解娇儿恶卧踏里裂了",
+        "onboard_time": 1716511340,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214592,
+        "num": 214592,
+        "word": "母亲带患甲流儿子到瑜伽馆放血灌肠",
+        "onboard_time": 1716471980,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198655,
+        "num": 198655,
+        "word": "谁给我报的名 谁给我投的票",
+        "onboard_time": 1716475521,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191330,
+        "num": 191330,
+        "word": "港府否认李胜利申请入境签证",
+        "onboard_time": 1716506356,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188229,
+        "num": 188229,
+        "word": "国土不能分民族不可散",
+        "onboard_time": 1716514577,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165125,
+        "num": 165125,
+        "word": "苍兰诀",
+        "onboard_time": 1716468859,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154586,
+        "num": 154586,
+        "word": "师娘来送水老师嘴角压不住了",
+        "onboard_time": 1716509359,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151302,
+        "num": 151302,
+        "word": "伊朗直升机事故调查报告",
+        "onboard_time": 1716506655,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141796,
+        "num": 141796,
+        "word": "李胜利",
+        "onboard_time": 1716506356,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140107,
+        "num": 140107,
+        "word": "人民日报评老乡鸡葱油鸡加20克",
+        "onboard_time": 1716476842,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136483,
+        "num": 136483,
+        "word": "祖国统一势不可挡台独只有死路一条",
+        "onboard_time": 1716507616,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135624,
+        "num": 135624,
+        "word": "imp老头杯红温",
+        "onboard_time": 1716511700,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134080,
+        "num": 134080,
+        "word": "今天是乖乖睡觉不熬夜的小可爱",
+        "onboard_time": 1716507976,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130891,
+        "num": 130891,
+        "word": "东部战区演习岛链内外一体联动",
+        "onboard_time": 1716510378,
+        "rank": 41,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 128055,
+        "num": 128055,
+        "word": "鸣潮",
+        "onboard_time": 1716506115,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123432,
+        "num": 123432,
+        "word": "凯迪拉克只卖13万多了",
+        "onboard_time": 1716481397,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 113921,
+        "num": 113921,
+        "word": "小龙虾价格暴跌年轻人不爱吃了",
+        "onboard_time": 1716480978,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112075,
+        "num": 112075,
+        "word": "当小柯基被主人用鼻子贴贴后",
+        "onboard_time": 1716509900,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107783,
+        "num": 107783,
+        "word": "长期烧水和买桶装水喝哪个更健康",
+        "onboard_time": 1716456498,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 101739,
+        "num": 101739,
+        "word": "酱园弄剧组将亮相戛纳",
+        "onboard_time": 1716506836,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97387,
+        "num": 97387,
+        "word": "暧昧期同居的要听劝",
+        "onboard_time": 1716477202,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96315,
+        "num": 96315,
+        "word": "身体3个部位越干净越长寿",
+        "onboard_time": 1716470540,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开企业和专家座谈会#"
+    }
+  }
+}
