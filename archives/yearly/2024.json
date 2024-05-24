@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1716514696113,
+  "endTime": 1716517892486,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1523,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 3689599,
+      "num": 3879199,
+      "word": "台湾当归",
+      "onboard_time": 1716514577,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 3675775,
       "num": 3675775,
       "word": "河北邯郸初中生杀人事件独家调查",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1714022123,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2999065,
-      "num": 2999065,
-      "word": "成都警方通报天府二街伤害案",
-      "onboard_time": 1710158970,
-      "rank": 0,
-      "category": "社会负面"
     }
   ],
   "hotgov_list": [

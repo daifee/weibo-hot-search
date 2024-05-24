@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716514696113,
+  "endTime": 1716517892486,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -233,6 +233,14 @@
       "onboard_time": 1714712779,
       "rank": 11,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 3689599,
+      "num": 3879199,
+      "word": "台湾当归",
+      "onboard_time": 1716514577,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3542478,
@@ -3761,6 +3769,14 @@
       "onboard_time": 1716034758,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1164976,
+      "num": 1164976,
+      "word": "宁静把浪姐训练服卖了",
+      "onboard_time": 1716514938,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1164677,
@@ -9105,6 +9121,14 @@
       "onboard_time": 1714741102,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687175,
+      "num": 687175,
+      "word": "赵丽颖 客串逍遥",
+      "onboard_time": 1716516558,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 686878,
@@ -21227,6 +21251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342912,
+      "num": 342912,
+      "word": "东部战区持续位台岛周边演习",
+      "onboard_time": 1716513738,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 342762,
       "num": 165252,
       "word": "十个勤天 虾虾虾",
@@ -21281,14 +21313,6 @@
       "onboard_time": 1715163621,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 341506,
-      "num": 341506,
-      "word": "台湾当归",
-      "onboard_time": 1716514577,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 341503,
@@ -22227,6 +22251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327188,
+      "num": 327188,
+      "word": "刘亦菲的西班牙人气",
+      "onboard_time": 1716516079,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 327139,
       "num": 327139,
       "word": "刘雯MetGala",
@@ -22489,14 +22521,6 @@
       "onboard_time": 1716466759,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 322998,
-      "num": 322998,
-      "word": "东部战区持续位台岛周边演习",
-      "onboard_time": 1716513738,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 322796,
@@ -23913,6 +23937,14 @@
       "onboard_time": 1714524856,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 299534,
+      "num": 366535,
+      "word": "丫丫喜提大冰块",
+      "onboard_time": 1716515899,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299300,
@@ -25905,6 +25937,14 @@
       "onboard_time": 1714984640,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274109,
+      "num": 274109,
+      "word": "我以为没有网购套路能骗到我了",
+      "onboard_time": 1716515838,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273947,
@@ -29259,6 +29299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238409,
+      "num": 189802,
+      "word": "原来腰腹赘肉也有天敌",
+      "onboard_time": 1716517099,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 238368,
       "num": 238368,
       "word": "王鹤棣工作室出图了",
@@ -29313,6 +29361,14 @@
       "onboard_time": 1714709297,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237361,
+      "num": 237361,
+      "word": "李娟说年轻的秘密是不上班",
+      "onboard_time": 1716515418,
+      "rank": 23,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 237350,
@@ -29913,6 +29969,14 @@
       "onboard_time": 1716040580,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 232848,
+      "num": 449764,
+      "word": "原来大小樱桃是这样挑出来的",
+      "onboard_time": 1716513859,
+      "rank": 9,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 232763,
@@ -32137,6 +32201,14 @@
       "onboard_time": 1714965199,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215328,
+      "num": 215328,
+      "word": "为什么街上男士理发馆越来越多",
+      "onboard_time": 1716515178,
+      "rank": 25,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 215256,
@@ -38307,6 +38379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190233,
+      "num": 190233,
+      "word": "刘亦菲Felix同框看秀",
+      "onboard_time": 1716517039,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 190216,
       "num": 190216,
       "word": "新闻女王2微博选角",
@@ -41803,6 +41883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175202,
+      "num": 175202,
+      "word": "成毅代言纯享",
+      "onboard_time": 1716517458,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175197,
       "num": 175197,
       "word": "越来越多美国人被小费文化逼疯",
@@ -44307,6 +44395,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 164621,
+      "num": 164621,
+      "word": "aespa专辑",
+      "onboard_time": 1716517338,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164575,
       "num": 164575,
       "word": "告诉孩子这就是不能踩井盖的原因",
@@ -44433,6 +44529,14 @@
       "onboard_time": 1714883899,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164075,
+      "num": 164075,
+      "word": "电脑里前任同事留下的文档",
+      "onboard_time": 1716517578,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 164069,
@@ -45777,14 +45881,6 @@
       "onboard_time": 1715948420,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158317,
-      "num": 449764,
-      "word": "原来大小樱桃是这样挑出来的",
-      "onboard_time": 1716513859,
-      "rank": 9,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 158209,
@@ -47147,6 +47243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152787,
+      "num": 152787,
+      "word": "易烊千玺说小小的我难度有点高",
+      "onboard_time": 1716514998,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152705,
       "num": 614310,
       "word": "肖战透视蕾丝造型",
@@ -47777,6 +47881,14 @@
       "onboard_time": 1714617196,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149991,
+      "num": 149991,
+      "word": "东部战区发布战巡演练模拟动画",
+      "onboard_time": 1716515117,
+      "rank": 39,
+      "category": "社会新闻,电竞"
     },
     {
       "raw_hot": 149911,
@@ -52171,6 +52283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132740,
+      "num": 132740,
+      "word": "LV大秀",
+      "onboard_time": 1716517278,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 132726,
       "num": 132726,
       "word": "现在的黄金都这么超前了吗",
@@ -55555,6 +55675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118487,
+      "num": 118487,
+      "word": "法国小伙中国高铁奇遇记",
+      "onboard_time": 1716517217,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118415,
       "num": 118415,
       "word": "樊振东3比0安宰贤",
@@ -58267,6 +58395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103226,
+      "num": 103226,
+      "word": "蔡徐坤情人发行四周年",
+      "onboard_time": 1716516798,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 103202,
       "num": 103202,
       "word": "白袋鼠",
@@ -58569,6 +58705,14 @@
       "onboard_time": 1714789759,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101296,
+      "num": 101296,
+      "word": "Zoom踢翻Uzi队",
+      "onboard_time": 1716517879,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 101261,
