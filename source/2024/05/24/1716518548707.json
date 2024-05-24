@@ -1,0 +1,410 @@
+{
+  "runTime": 1716518548707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3666950,
+        "num": 3833900,
+        "word": "台湾当归",
+        "onboard_time": 1716514577,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1184247,
+        "num": 1184247,
+        "word": "宁静把浪姐训练服卖了",
+        "onboard_time": 1716514938,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13520,
+        "num": 697067,
+        "word": "第20届文博会",
+        "onboard_time": 1716442278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689238,
+        "num": 689238,
+        "word": "东部战区",
+        "onboard_time": 1716510440,
+        "rank": 3,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 670309,
+        "num": 670309,
+        "word": "赵丽颖 客串逍遥",
+        "onboard_time": 1716516558,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549787,
+        "num": 549787,
+        "word": "在台湾岛三个方向演练的意义",
+        "onboard_time": 1716507016,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 514582,
+        "num": 514582,
+        "word": "我以为没有网购套路能骗到我了",
+        "onboard_time": 1716515838,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501190,
+        "num": 501190,
+        "word": "向佐让李胜利离中国香港远一点",
+        "onboard_time": 1716474021,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483995,
+        "num": 483995,
+        "word": "中国台湾937舰这里是中国管辖海域",
+        "onboard_time": 1716478999,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 437800,
+        "num": 437800,
+        "word": "东部战区持续位台岛周边演习",
+        "onboard_time": 1716513738,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 814006,
+        "num": 437740,
+        "word": "原来一次性内裤不是纯棉的最好",
+        "onboard_time": 1716512000,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 798825,
+        "num": 421744,
+        "word": "霍启仁求婚成功",
+        "onboard_time": 1716507497,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 761107,
+        "num": 415343,
+        "word": "杨丞琳",
+        "onboard_time": 1716508939,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443155,
+        "num": 400410,
+        "word": "普京签令允许用美在俄资产补偿俄方损失",
+        "onboard_time": 1716511940,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 397869,
+        "num": 397869,
+        "word": "杨幂工作室连发8条微博",
+        "onboard_time": 1716507497,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331261,
+        "num": 331261,
+        "word": "刘亦菲的西班牙人气",
+        "onboard_time": 1716516079,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319827,
+        "num": 319827,
+        "word": "百万留学回国后月薪7000",
+        "onboard_time": 1716494471,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319461,
+        "num": 319461,
+        "word": "亚当更新微博",
+        "onboard_time": 1716511101,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300911,
+        "num": 300911,
+        "word": "丫丫喜提大冰块",
+        "onboard_time": 1716515899,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251147,
+        "num": 251147,
+        "word": "李娟说年轻的秘密是不上班",
+        "onboard_time": 1716515418,
+        "rank": 19,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 523948,
+        "num": 248665,
+        "word": "离职后退了一千多个工作群",
+        "onboard_time": 1716503834,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 472397,
+        "num": 242918,
+        "word": "当方脸瘦了二十斤以后",
+        "onboard_time": 1716507197,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 388420,
+        "num": 239357,
+        "word": "小心这5种首饰戴多了或伤身",
+        "onboard_time": 1716512359,
+        "rank": 22,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 296001,
+        "num": 237549,
+        "word": "原来腰腹赘肉也有天敌",
+        "onboard_time": 1716517099,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 233043,
+        "num": 233043,
+        "word": "赵丽颖在人间杀青了",
+        "onboard_time": 1716511940,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220233,
+        "num": 220233,
+        "word": "刘亦菲Felix同框看秀",
+        "onboard_time": 1716517039,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 203441,
+        "num": 203441,
+        "word": "原来大小樱桃是这样挑出来的",
+        "onboard_time": 1716513859,
+        "rank": 26,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 196381,
+        "num": 196381,
+        "word": "成毅代言纯享",
+        "onboard_time": 1716517458,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194601,
+        "num": 194601,
+        "word": "为什么街上男士理发馆越来越多",
+        "onboard_time": 1716515178,
+        "rank": 28,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 183188,
+        "num": 183188,
+        "word": "狐妖首播破纪录",
+        "onboard_time": 1716512659,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241354,
+        "num": 181666,
+        "word": "电脑里前任同事留下的文档",
+        "onboard_time": 1716517578,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234091,
+        "num": 180934,
+        "word": "B太揭秘100元3个榴莲内幕",
+        "onboard_time": 1716509239,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192767,
+        "num": 180296,
+        "word": "入职一周因为牙痛领导给我转正了",
+        "onboard_time": 1716518478,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177672,
+        "num": 177672,
+        "word": "蔡徐坤放饭了",
+        "onboard_time": 1716508759,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170609,
+        "num": 170609,
+        "word": "种地吧直播",
+        "onboard_time": 1716516918,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157503,
+        "num": 157503,
+        "word": "aespa专辑",
+        "onboard_time": 1716517338,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155606,
+        "num": 155606,
+        "word": "和男朋友用50元约会了一天",
+        "onboard_time": 1716508037,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149637,
+        "num": 149637,
+        "word": "LV大秀",
+        "onboard_time": 1716517278,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 146321,
+        "num": 146321,
+        "word": "易烊千玺说小小的我难度有点高",
+        "onboard_time": 1716514998,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145541,
+        "num": 145541,
+        "word": "东部战区发布战巡演练模拟动画",
+        "onboard_time": 1716515117,
+        "rank": 39,
+        "category": "社会新闻,电竞"
+      },
+      {
+        "raw_hot": 138448,
+        "num": 138448,
+        "word": "杰伦布朗真大腿",
+        "onboard_time": 1716518237,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138110,
+        "num": 138110,
+        "word": "多位台湾艺人表态支持祖国统一",
+        "onboard_time": 1716457520,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137347,
+        "num": 137347,
+        "word": "狐妖小红娘 儿童剧",
+        "onboard_time": 1716469279,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137005,
+        "num": 137005,
+        "word": "谁给我报的名 谁给我投的票",
+        "onboard_time": 1716475521,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130827,
+        "num": 130827,
+        "word": "法国小伙中国高铁奇遇记",
+        "onboard_time": 1716517217,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127089,
+        "num": 127089,
+        "word": "鸣潮",
+        "onboard_time": 1716506115,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121989,
+        "num": 121989,
+        "word": "Zoom踢翻Uzi队",
+        "onboard_time": 1716517879,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119409,
+        "num": 119409,
+        "word": "终于理解娇儿恶卧踏里裂了",
+        "onboard_time": 1716511340,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116963,
+        "num": 116963,
+        "word": "GAI把周杰伦名字刻在手心",
+        "onboard_time": 1716518537,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81801,
+        "num": 116431,
+        "word": "来福州探寻数字峰会亮点",
+        "onboard_time": 1716518537,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在山东日照考察调研#"
+    }
+  }
+}
