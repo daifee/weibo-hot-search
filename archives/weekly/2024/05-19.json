@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716528857568,
+  "endTime": 1716531952263,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -272,6 +272,14 @@
       "word": "黄家驹墓碑遗照被砸坏",
       "onboard_time": 1716103878,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1979610,
+      "num": 1979610,
+      "word": "贺军翔家遭警方搜查",
+      "onboard_time": 1716529519,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -1187,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 970904,
+      "num": 970904,
+      "word": "联合国称台湾是中国的一个省",
+      "onboard_time": 1716530239,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 968513,
       "num": 968513,
       "word": "宁静去花少了",
@@ -1747,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760107,
+      "num": 760107,
+      "word": "一精神障碍患者持刀伤人致8死1伤",
+      "onboard_time": 1716527720,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 759965,
       "num": 759965,
       "word": "曾自首杀妻男子无罪释放21年后再被抓",
@@ -2083,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 691645,
+      "num": 691645,
+      "word": "下雨天 难听",
+      "onboard_time": 1716531020,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688733,
       "num": 614676,
       "word": "中方回应梵蒂冈希望在北京设办事处",
@@ -2379,6 +2411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 627583,
+      "num": 627583,
+      "word": "目视距离0.6海里处是中国台湾郑和舰",
+      "onboard_time": 1716527120,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 623193,
       "num": 623193,
       "word": "我以为没有网购套路能骗到我了",
@@ -2433,14 +2473,6 @@
       "onboard_time": 1716338601,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 608886,
-      "num": 483587,
-      "word": "目视距离0.6海里处是中国台湾郑和舰",
-      "onboard_time": 1716527120,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 606314,
@@ -2787,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555497,
+      "num": 555497,
+      "word": "陈昊宇你好媚",
+      "onboard_time": 1716529100,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 555494,
       "num": 555494,
       "word": "NewJeans回归",
@@ -2795,20 +2835,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 555330,
-      "num": 483138,
-      "word": "一精神障碍患者持刀伤人致8死1伤",
-      "onboard_time": 1716527720,
-      "rank": 39,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 552370,
       "num": 410296,
       "word": "台媒关注侯佩岑欧阳娜娜等艺人博文",
       "onboard_time": 1716461719,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 550162,
+      "num": 550162,
+      "word": "哈佛剥夺13名支持巴勒斯坦毕业生学位",
+      "onboard_time": 1716528259,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 547541,
@@ -2849,6 +2889,14 @@
       "onboard_time": 1716176541,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 541753,
+      "num": 541753,
+      "word": "小狗刚出生就发硬怎么回事",
+      "onboard_time": 1716526461,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 541328,
@@ -3369,14 +3417,6 @@
       "onboard_time": 1716296660,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 472872,
-      "num": 472872,
-      "word": "小狗刚出生就发硬怎么回事",
-      "onboard_time": 1716526461,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 472638,
@@ -4091,6 +4131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403397,
+      "num": 403397,
+      "word": "人家是黑化她是真黑",
+      "onboard_time": 1716530060,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 402325,
       "num": 402325,
       "word": "张杰能精准判断谢娜下一句",
@@ -4587,6 +4635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 351752,
+      "num": 351752,
+      "word": "蜀绣 好听",
+      "onboard_time": 1716528319,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351270,
       "num": 242754,
       "word": "赵丽颖工作室剪的西游记风与凤行",
@@ -4897,6 +4953,14 @@
       "onboard_time": 1716516079,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 330977,
+      "num": 273062,
+      "word": "为什么国内夫妻很少见戴婚戒",
+      "onboard_time": 1716531438,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 330699,
@@ -5395,6 +5459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 301083,
+      "num": 271545,
+      "word": "王铮亮 披荆斩棘的哥哥",
+      "onboard_time": 1716529459,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300911,
       "num": 366535,
       "word": "丫丫喜提大冰块",
@@ -5635,6 +5707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286253,
+      "num": 269219,
+      "word": "贺军翔经纪人回应",
+      "onboard_time": 1716531379,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285859,
       "num": 285859,
       "word": "陈丽君因病缺席邮票首发式签名会",
@@ -5673,6 +5753,14 @@
       "onboard_time": 1716248718,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284366,
+      "num": 267699,
+      "word": "周杰伦问刘畊宏你一定要露胸肌吗",
+      "onboard_time": 1716531080,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 284129,
@@ -5833,6 +5921,14 @@
       "onboard_time": 1716099616,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 277230,
+      "num": 277230,
+      "word": "数架轰炸机前出岛链",
+      "onboard_time": 1716528139,
+      "rank": 37,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 277138,
@@ -6147,14 +6243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 261024,
-      "num": 261024,
-      "word": "蜀绣 好听",
-      "onboard_time": 1716528319,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260356,
       "num": 260356,
       "word": "肖战入围微博年度瞩目影人",
@@ -6273,6 +6361,14 @@
       "onboard_time": 1716294137,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254207,
+      "num": 254207,
+      "word": "我跟秦始皇就隔了20个人",
+      "onboard_time": 1716528679,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 253746,
@@ -6625,6 +6721,14 @@
       "onboard_time": 1716279680,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238185,
+      "num": 255012,
+      "word": "古茗免单",
+      "onboard_time": 1716528019,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 237305,
@@ -7027,14 +7131,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 222206,
-      "num": 222206,
-      "word": "哈佛剥夺13名支持巴勒斯坦毕业生学位",
-      "onboard_time": 1716528259,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 221713,
       "num": 217264,
       "word": "庆余年",
@@ -7225,6 +7321,14 @@
       "onboard_time": 1716350060,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216118,
+      "num": 561254,
+      "word": "杀独神器",
+      "onboard_time": 1716527539,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215773,
@@ -7609,14 +7713,6 @@
       "onboard_time": 1716164418,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206474,
-      "num": 206474,
-      "word": "数架轰炸机前出岛链",
-      "onboard_time": 1716528139,
-      "rank": 37,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 205994,
@@ -8193,6 +8289,14 @@
       "onboard_time": 1716185182,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196775,
+      "num": 196775,
+      "word": "NewJeans新歌空降成绩",
+      "onboard_time": 1716531679,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 196559,
@@ -10347,14 +10451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157345,
-      "num": 157345,
-      "word": "我跟秦始皇就隔了20个人",
-      "onboard_time": 1716528679,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 157252,
       "num": 157252,
       "word": "种地吧第二届麦田音乐会",
@@ -10417,6 +10513,14 @@
       "onboard_time": 1716368898,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156105,
+      "num": 156105,
+      "word": "谷爱凌金发刘海",
+      "onboard_time": 1716531558,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 156002,
@@ -10553,14 +10657,6 @@
       "onboard_time": 1716351982,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 154184,
-      "num": 561254,
-      "word": "杀独神器",
-      "onboard_time": 1716527539,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153812,
@@ -10889,6 +10985,14 @@
       "onboard_time": 1716087917,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148398,
+      "num": 148398,
+      "word": "成都开办中国第一家牙科诊所",
+      "onboard_time": 1716530659,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148321,
@@ -11379,6 +11483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141164,
+      "num": 141164,
+      "word": "太原赛陈梦王曼昱进四强",
+      "onboard_time": 1716530420,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141124,
       "num": 141124,
       "word": "江疏影东北雨姐的行动力",
@@ -11593,6 +11705,14 @@
       "onboard_time": 1716128480,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136909,
+      "num": 484359,
+      "word": "B太又对榴莲出手了",
+      "onboard_time": 1716526521,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 136903,
@@ -12089,6 +12209,14 @@
       "onboard_time": 1716188240,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129085,
+      "num": 129085,
+      "word": "甄嬛318岁生日",
+      "onboard_time": 1716529760,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 128891,
@@ -13315,14 +13443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110080,
-      "num": 484359,
-      "word": "B太又对榴莲出手了",
-      "onboard_time": 1716526521,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 109806,
       "num": 223430,
       "word": "一封写给苏州的最美情书",
@@ -14193,14 +14313,6 @@
       "onboard_time": 1716372319,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78452,
-      "num": 255012,
-      "word": "古茗免单",
-      "onboard_time": 1716528019,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 77418,
@@ -15852,6 +15964,9 @@
     },
     {
       "word": "#进一步全面深化改革大潮正起#"
+    },
+    {
+      "word": "#总书记擘画壮阔的中国海景图#"
     }
   ]
 }
