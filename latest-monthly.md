@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/24 17:34:47
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/24 18:20:41
 </p>
 </blockquote>
 <p>
@@ -1613,6 +1613,12 @@ iPhone15官旗降至第三方渠道价（热度：1525446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E5%8D%B4%E5%8F%91%E7%8E%B0%E8%AF%BB%E7%9A%84%E6%88%90%E6%9C%AC%E5%A5%BD%E9%AB%98%23" target="weibo">
 考上北大却发现读的成本好高（热度：1514880）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23doge%E5%8E%9F%E5%9E%8B%E5%8E%BB%E4%B8%96%23" target="weibo">
+doge原型去世（热度：1514672）
 </a>
 </li>
 
@@ -4973,12 +4979,6 @@ iPhone16ProMax机模曝光（热度：895661）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%BE%A1%E6%85%95%E5%A6%88%E5%A6%88%E6%9C%88%E8%96%AA4K%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%BA%86%23" target="weibo">
 突然羡慕妈妈月薪4K的工作了（热度：848368）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23doge%E5%8E%9F%E5%9E%8B%E5%8E%BB%E4%B8%96%23" target="weibo">
-doge原型去世（热度：847868）
 </a>
 </li>
 

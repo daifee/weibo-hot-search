@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716543287616,
+  "endTime": 1716546041296,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2137,6 +2137,14 @@
       "onboard_time": 1714885638,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1514672,
+      "num": 938776,
+      "word": "doge原型去世",
+      "onboard_time": 1716539298,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 1512177,
@@ -6619,14 +6627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 847868,
-      "num": 847868,
-      "word": "doge原型去世",
-      "onboard_time": 1716539298,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
       "raw_hot": 847624,
       "num": 847624,
       "word": "以色列威胁联合国",
@@ -8089,6 +8089,14 @@
       "onboard_time": 1714833079,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 750561,
+      "num": 474201,
+      "word": "沈梦辰代替何炅主持今晚歌手",
+      "onboard_time": 1716545240,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 749886,
@@ -10603,6 +10611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632052,
+      "num": 632052,
+      "word": "歌手2024将会邀请更多国际咖",
+      "onboard_time": 1716542900,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 631608,
       "num": 631608,
       "word": "陈梦采访",
@@ -11819,6 +11835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581988,
+      "num": 581988,
+      "word": "你的体制内偶像来啦",
+      "onboard_time": 1716540860,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 581700,
       "num": 262922,
       "word": "和庆余年2对打的是歌手2024吧",
@@ -11961,14 +11985,6 @@
       "onboard_time": 1714736299,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 576215,
-      "num": 477085,
-      "word": "你的体制内偶像来啦",
-      "onboard_time": 1716540860,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 576103,
@@ -12753,6 +12769,14 @@
       "onboard_time": 1716178523,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547412,
+      "num": 212242,
+      "word": "田田小阿姨粉丝数不降反升",
+      "onboard_time": 1716541399,
+      "rank": 23,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 546957,
@@ -15129,6 +15153,14 @@
       "onboard_time": 1714618517,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477179,
+      "num": 162843,
+      "word": "爷爷爸爸去世奶奶不知情录视频呼唤",
+      "onboard_time": 1716544399,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476863,
@@ -20827,14 +20859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356226,
-      "num": 212242,
-      "word": "田田小阿姨粉丝数不降反升",
-      "onboard_time": 1716541399,
-      "rank": 23,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 356150,
       "num": 356150,
       "word": "央视网文娱评狐妖小红娘月红篇",
@@ -21483,6 +21507,14 @@
       "category": "科学科普,自然"
     },
     {
+      "raw_hot": 345163,
+      "num": 345163,
+      "word": "东部战区火箭军某旅导弹雨中起竖",
+      "onboard_time": 1716543439,
+      "rank": 13,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 345124,
       "num": 345124,
       "word": "黄觉井柏然 好嗑",
@@ -21993,6 +22025,14 @@
       "onboard_time": 1716042201,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 335833,
+      "num": 335833,
+      "word": "广州到长沙仅需70分钟",
+      "onboard_time": 1716543559,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335627,
@@ -24120,14 +24160,6 @@
       "word": "郑恺女儿也会跳FREAK吗",
       "onboard_time": 1715700500,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 303477,
-      "num": 180164,
-      "word": "歌手2024将会邀请更多国际咖",
-      "onboard_time": 1716542900,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -27707,6 +27739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259484,
+      "num": 160353,
+      "word": "尤长靖人没去歌手歌先去了",
+      "onboard_time": 1716543139,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259476,
       "num": 259476,
       "word": "韩红cos黄昏",
@@ -29707,6 +29747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239458,
+      "num": 157694,
+      "word": "王妈也是风韵犹存",
+      "onboard_time": 1716545179,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239432,
       "num": 239432,
       "word": "ENHYPEN试听",
@@ -30265,6 +30313,14 @@
       "onboard_time": 1715123354,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234720,
+      "num": 234720,
+      "word": "多人称饮用万里木兰出现心悸",
+      "onboard_time": 1716540020,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234635,
@@ -30963,14 +31019,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 229137,
-      "num": 229137,
-      "word": "多人称饮用万里木兰出现心悸",
-      "onboard_time": 1716540020,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229096,
       "num": 390109,
       "word": "手把手教你自测脊柱弯曲异常",
@@ -31361,6 +31409,14 @@
       "onboard_time": 1715832020,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225953,
+      "num": 158294,
+      "word": "为了不让你吐籽水果有多努力",
+      "onboard_time": 1716544399,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 225950,
@@ -40835,6 +40891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183302,
+      "num": 156470,
+      "word": "戚薇妆前妆后",
+      "onboard_time": 1716545480,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183300,
       "num": 183300,
       "word": "罗云熙直播说羡慕刘宇宁",
@@ -44379,6 +44443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167874,
+      "num": 155022,
+      "word": "猫是故意的",
+      "onboard_time": 1716543439,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167857,
       "num": 167857,
       "word": "李宇春红色流苏短裙",
@@ -45163,6 +45235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164663,
+      "num": 154511,
+      "word": "香缇莫叫汪苏泷cuteboy",
+      "onboard_time": 1716543379,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164657,
       "num": 164657,
       "word": "余承东称享界S9舒适超迈巴赫",
@@ -45353,6 +45433,14 @@
       "onboard_time": 1714781236,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163875,
+      "num": 163875,
+      "word": "剑网3喊话百度贴吧不作为",
+      "onboard_time": 1716543559,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 163855,
@@ -48433,14 +48521,6 @@
       "onboard_time": 1715037375,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151477,
-      "num": 151477,
-      "word": "尤长靖人没去歌手歌先去了",
-      "onboard_time": 1716543139,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 151395,
@@ -51593,6 +51673,14 @@
       "onboard_time": 1715384596,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139384,
+      "num": 139384,
+      "word": "已被正式确诊为液态人",
+      "onboard_time": 1716546019,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 139381,
@@ -57875,6 +57963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112996,
+      "num": 112996,
+      "word": "趣多多 世界之外",
+      "onboard_time": 1716543678,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112977,
       "num": 324000,
       "word": "妈妈是第一个挺你的人",
@@ -62481,6 +62577,14 @@
       "onboard_time": 1716012918,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 68043,
+      "num": 475267,
+      "word": "6个需要注意的防晒误区",
+      "onboard_time": 1716544819,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 68003,
