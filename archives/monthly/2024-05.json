@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716568609030,
+  "endTime": 1716571107115,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -58923,6 +58923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112388,
+      "num": 112388,
+      "word": "蔡健雅说被那姐弄哭了",
+      "onboard_time": 1716567858,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112336,
       "num": 124083,
       "word": "eStar战胜RW",
@@ -59849,6 +59857,14 @@
       "onboard_time": 1714524917,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106900,
+      "num": 106900,
+      "word": "papi酱和蔡明是邻居",
+      "onboard_time": 1716570736,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106893,
@@ -65403,6 +65419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43429,
+      "num": 97510,
+      "word": "鸣潮EP上线",
+      "onboard_time": 1716569237,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 43304,
       "num": 47620,
       "word": "麦当娜160万人演唱会",
@@ -66465,6 +66489,14 @@
       "onboard_time": 1716127463,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25505,
+      "num": 97445,
+      "word": "这才是夏天正确打开方式",
+      "onboard_time": 1716568758,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 25495,
