@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716527913296,
+  "endTime": 1716528857568,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -5299,6 +5299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 963058,
+      "num": 963058,
+      "word": "阿里宣布对大公司病开刀",
+      "onboard_time": 1716524421,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 962744,
       "num": 962744,
       "word": "长期用吸管喝水可能会加深唇纹",
@@ -6185,14 +6193,6 @@
       "onboard_time": 1714895419,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 873350,
-      "num": 873350,
-      "word": "阿里宣布对大公司病开刀",
-      "onboard_time": 1716524421,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 873330,
@@ -11091,6 +11091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 608886,
+      "num": 483587,
+      "word": "目视距离0.6海里处是中国台湾郑和舰",
+      "onboard_time": 1716527120,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 608515,
       "num": 608515,
       "word": "中方对菲律宾的善意和耐心不是无止境的",
@@ -12337,6 +12345,14 @@
       "onboard_time": 1716524361,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 555330,
+      "num": 483138,
+      "word": "一精神障碍患者持刀伤人致8死1伤",
+      "onboard_time": 1716527720,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 555314,
@@ -14683,6 +14699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482747,
+      "num": 482747,
+      "word": "小雨妆造",
+      "onboard_time": 1716526641,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 482431,
       "num": 482431,
       "word": "德芙反式脂肪酸",
@@ -15089,6 +15113,14 @@
       "onboard_time": 1714892780,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 472872,
+      "num": 472872,
+      "word": "小狗刚出生就发硬怎么回事",
+      "onboard_time": 1716526461,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 472784,
@@ -15825,14 +15857,6 @@
       "onboard_time": 1715693059,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 455932,
-      "num": 238422,
-      "word": "小狗刚出生就发硬怎么回事",
-      "onboard_time": 1716526461,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 455763,
@@ -20299,14 +20323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 362834,
-      "num": 362834,
-      "word": "小雨妆造",
-      "onboard_time": 1716526641,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 362739,
       "num": 362739,
       "word": "BLG晋级MSI胜者组决赛",
@@ -20849,14 +20865,6 @@
       "onboard_time": 1715576121,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 351625,
-      "num": 238026,
-      "word": "目视距离0.6海里处是中国台湾郑和舰",
-      "onboard_time": 1716527120,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 351464,
@@ -27299,6 +27307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261024,
+      "num": 261024,
+      "word": "蜀绣 好听",
+      "onboard_time": 1716528319,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260892,
       "num": 205384,
       "word": "iPhone16有新工艺新配色",
@@ -31419,6 +31435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222206,
+      "num": 222206,
+      "word": "哈佛剥夺13名支持巴勒斯坦毕业生学位",
+      "onboard_time": 1716528259,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 222147,
       "num": 222147,
       "word": "周鸿祎谈璩静事件",
@@ -34081,6 +34105,14 @@
       "onboard_time": 1715754978,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206474,
+      "num": 206474,
+      "word": "数架轰炸机前出岛链",
+      "onboard_time": 1716528139,
+      "rank": 37,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 206353,
@@ -39129,14 +39161,6 @@
       "onboard_time": 1716003919,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188603,
-      "num": 188603,
-      "word": "一精神障碍患者持刀伤人致8死1伤",
-      "onboard_time": 1716527720,
-      "rank": 39,
-      "category": "社会负面"
     },
     {
       "raw_hot": 188572,
@@ -46419,6 +46443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157345,
+      "num": 157345,
+      "word": "我跟秦始皇就隔了20个人",
+      "onboard_time": 1716528679,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157340,
       "num": 157340,
       "word": "嫦娥六号发射定在5月3日",
@@ -47225,6 +47257,14 @@
       "onboard_time": 1716028638,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154184,
+      "num": 561254,
+      "word": "杀独神器",
+      "onboard_time": 1716527539,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154167,
@@ -48257,6 +48297,14 @@
       "onboard_time": 1715063179,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 149833,
+      "num": 149833,
+      "word": "微博电影之夜投票",
+      "onboard_time": 1716528740,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 149788,
@@ -57716,7 +57764,7 @@
     },
     {
       "raw_hot": 110080,
-      "num": 271843,
+      "num": 484359,
       "word": "B太又对榴莲出手了",
       "onboard_time": 1716526521,
       "rank": 26,
@@ -60771,14 +60819,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 81621,
-      "num": 561254,
-      "word": "杀独神器",
-      "onboard_time": 1716527539,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81386,
       "num": 75794,
       "word": "中法关系始终走在中国同西方国家关系前列",
@@ -61065,6 +61105,14 @@
       "onboard_time": 1715996838,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78452,
+      "num": 255012,
+      "word": "古茗免单",
+      "onboard_time": 1716528019,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 78245,
