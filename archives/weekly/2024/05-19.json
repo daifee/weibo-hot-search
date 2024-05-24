@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716586484315,
+  "endTime": 1716589081174,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -14291,6 +14291,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119574,
+      "num": 119574,
+      "word": "多方向抵近台岛战巡演练模拟动画",
+      "onboard_time": 1716576372,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119559,
       "num": 119559,
       "word": "杨幂520捧花",
@@ -15723,14 +15731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84070,
-      "num": 84070,
-      "word": "多方向抵近台岛战巡演练模拟动画",
-      "onboard_time": 1716576372,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83930,
       "num": 318618,
       "word": "00后视障男孩做播客还带了徒弟",
@@ -16723,6 +16723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 43025,
+      "num": 43025,
+      "word": "朱丹周一围新合照",
+      "onboard_time": 1716585013,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42595,
       "num": 237654,
       "word": "钟楚曦为自己拼一把",
@@ -16873,6 +16881,14 @@
       "onboard_time": 1716184819,
       "rank": 14,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 37960,
+      "num": 27588,
+      "word": "剧组说贺军翔这两天没戏要拍",
+      "onboard_time": 1716587531,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 37540,
@@ -17107,20 +17123,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28164,
-      "num": 22084,
-      "word": "朱丹周一围新合照",
-      "onboard_time": 1716585013,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27323,
       "num": 29190,
       "word": "曼城英超四连冠",
       "onboard_time": 1716140893,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27318,
+      "num": 25106,
+      "word": "田嘉瑞在开心麻花待了三年",
+      "onboard_time": 1716582790,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 27308,
@@ -17347,6 +17363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 19758,
+      "num": 253852,
+      "word": "听着小美满愿丰收美满",
+      "onboard_time": 1716558148,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19687,
       "num": 23188,
       "word": "全国吃辣battle",
@@ -17379,12 +17403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19137,
-      "num": 17968,
-      "word": "田嘉瑞在开心麻花待了三年",
-      "onboard_time": 1716582790,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 18934,
+      "num": 35970,
+      "word": "祖国统一是历史大势人间正道",
+      "onboard_time": 1716578472,
+      "rank": 49,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 18889,
@@ -17393,22 +17417,6 @@
       "onboard_time": 1716247515,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 18256,
-      "num": 35970,
-      "word": "祖国统一是历史大势人间正道",
-      "onboard_time": 1716578472,
-      "rank": 49,
-      "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 18207,
-      "num": 253852,
-      "word": "听着小美满愿丰收美满",
-      "onboard_time": 1716558148,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17985,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1716589081174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 325394,
+        "num": 325394,
+        "word": "中国台湾省",
+        "onboard_time": 1716539539,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264985,
+        "num": 264985,
+        "word": "那英真的摇人了",
+        "onboard_time": 1716563602,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19758,
+        "num": 216363,
+        "word": "听着小美满愿丰收美满",
+        "onboard_time": 1716558148,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203040,
+        "num": 203040,
+        "word": "杨幂戛纳造型",
+        "onboard_time": 1716562462,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138341,
+        "num": 138341,
+        "word": "一对夫妻疑被人10万元卖到缅甸",
+        "onboard_time": 1716555625,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119574,
+        "num": 119574,
+        "word": "多方向抵近台岛战巡演练模拟动画",
+        "onboard_time": 1716576372,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189986,
+        "num": 118041,
+        "word": "蔡依林 我们中国南昌最热情了",
+        "onboard_time": 1716558927,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186057,
+        "num": 117279,
+        "word": "亚当把那英放在第一名",
+        "onboard_time": 1716566481,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116405,
+        "num": 116405,
+        "word": "年轻人为什么不爱去商场买衣服了",
+        "onboard_time": 1716555443,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3699,
+        "num": 110673,
+        "word": "如果你刚好遇见记得给他撑把伞",
+        "onboard_time": 1716562344,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162435,
+        "num": 109778,
+        "word": "胖猫案细节公布",
+        "onboard_time": 1716560007,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130407,
+        "num": 109024,
+        "word": "歌手排名",
+        "onboard_time": 1716559647,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106415,
+        "num": 106415,
+        "word": "亚当 限时投票",
+        "onboard_time": 1716552923,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95767,
+        "num": 95767,
+        "word": "张钧甯发文反对台独",
+        "onboard_time": 1716555744,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72283,
+        "num": 72283,
+        "word": "JackeyLove女友晒合照",
+        "onboard_time": 1716561385,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65622,
+        "num": 65622,
+        "word": "东部战区发了一把剑",
+        "onboard_time": 1716554603,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62486,
+        "num": 62486,
+        "word": "福宝非展区现状",
+        "onboard_time": 1716558393,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54668,
+        "num": 54668,
+        "word": "海警此次演练包含登检台湾船只",
+        "onboard_time": 1716561385,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47032,
+        "num": 47032,
+        "word": "国旗军旗与宝岛中央山脉同框",
+        "onboard_time": 1716563542,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45568,
+        "num": 45568,
+        "word": "孩子抑郁休学其实是在替全家生病",
+        "onboard_time": 1716550757,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92242,
+        "num": 45537,
+        "word": "阿信 我们中国人",
+        "onboard_time": 1716554123,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73635,
+        "num": 45275,
+        "word": "补位歌手是谁",
+        "onboard_time": 1716560727,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51667,
+        "num": 45046,
+        "word": "亚当绝了",
+        "onboard_time": 1716557367,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51386,
+        "num": 44853,
+        "word": "歌手直播",
+        "onboard_time": 1716550999,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38607,
+        "num": 44653,
+        "word": "女生称遭男孩偷拍争执视频被传黄网",
+        "onboard_time": 1716555144,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49216,
+        "num": 44267,
+        "word": "海来阿木发文怒批直播打赏",
+        "onboard_time": 1716553222,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 47676,
+        "num": 44130,
+        "word": "就不能是王菲吗",
+        "onboard_time": 1716564262,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43994,
+        "num": 43994,
+        "word": "李晋晔好帅",
+        "onboard_time": 1716565461,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35625,
+        "num": 43059,
+        "word": "爷爷爸爸去世奶奶不知情录视频呼唤",
+        "onboard_time": 1716544399,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30656,
+        "num": 43031,
+        "word": "这类廉价食物真的防癌",
+        "onboard_time": 1716558393,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43025,
+        "num": 43025,
+        "word": "朱丹周一围新合照",
+        "onboard_time": 1716585013,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40836,
+        "num": 40836,
+        "word": "肖战直播",
+        "onboard_time": 1716555744,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40324,
+        "num": 40324,
+        "word": "百雀羚 王一博",
+        "onboard_time": 1716566240,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29388,
+        "num": 29388,
+        "word": "鸣潮",
+        "onboard_time": 1716553461,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28633,
+        "num": 28633,
+        "word": "台独在哪火力套餐就送到哪",
+        "onboard_time": 1716572353,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38634,
+        "num": 28256,
+        "word": "戛纳",
+        "onboard_time": 1716565042,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37960,
+        "num": 27588,
+        "word": "剧组说贺军翔这两天没戏要拍",
+        "onboard_time": 1716587531,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36263,
+        "num": 27348,
+        "word": "投那英",
+        "onboard_time": 1716554543,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26551,
+        "num": 26551,
+        "word": "比亚迪起诉博主索赔500万元",
+        "onboard_time": 1716563362,
+        "rank": 38,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 25651,
+        "num": 25651,
+        "word": "喝奶茶为什么心脏不舒服",
+        "onboard_time": 1716561385,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33955,
+        "num": 25515,
+        "word": "他让她动情她教他成长",
+        "onboard_time": 1716567799,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33834,
+        "num": 25335,
+        "word": "到底是不是王力宏",
+        "onboard_time": 1716561802,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27318,
+        "num": 25106,
+        "word": "田嘉瑞在开心麻花待了三年",
+        "onboard_time": 1716582790,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25735,
+        "num": 24631,
+        "word": "下雨天 难听",
+        "onboard_time": 1716531020,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24595,
+        "num": 24595,
+        "word": "联合国称台湾是中国的一个省",
+        "onboard_time": 1716530239,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23802,
+        "num": 23802,
+        "word": "港媒称香港一女警将入选预备航天员",
+        "onboard_time": 1716548958,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22484,
+        "num": 23797,
+        "word": "微信隐藏的12个功能",
+        "onboard_time": 1716571155,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18934,
+        "num": 23797,
+        "word": "祖国统一是历史大势人间正道",
+        "onboard_time": 1716578472,
+        "rank": 47,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 15529,
+        "num": 23789,
+        "word": "鸣潮公测第一天实录",
+        "onboard_time": 1716557128,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14315,
+        "num": 23780,
+        "word": "鸣潮EP上线",
+        "onboard_time": 1716569237,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以进一步全面深化改革为动力#"
+    }
+  }
+}
