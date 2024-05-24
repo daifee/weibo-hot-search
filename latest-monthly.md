@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/24 19:35:46
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/24 20:34:34
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
 歌手直播（热度：15100313）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%BD%93%20%E9%99%90%E6%97%B6%E6%8A%95%E7%A5%A8%23" target="weibo">
+亚当 限时投票（热度：14319953）
 </a>
 </li>
 
@@ -227,6 +233,12 @@ GEN夺冠（热度：3347215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E8%B4%B9%E9%80%80%E4%BA%86%E5%90%97%23" target="weibo">
 你的核酸检测费退了吗（热度：3347213）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95%23" target="weibo">
+歌手歌单（热度：3328656）
 </a>
 </li>
 
@@ -1199,6 +1211,12 @@ B站崩了（热度：1985401）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%88%BF%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E4%B9%B0%E6%8C%A8%E7%9D%80%E5%85%AC%E5%9B%AD%E7%9A%84%23" target="weibo">
 买房千万不要买挨着公园的（热度：1665237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20who%E6%92%BA%E6%8E%87you%23" target="weibo">
+那英 who撺掇you（热度：1662136）
 </a>
 </li>
 
@@ -2469,12 +2487,6 @@ A妹 歌手（热度：1256118）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95%23" target="weibo">
-歌手歌单（热度：1255519）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B700%E5%90%8E%E4%B8%AD%E5%A5%96100%E4%B8%87%E5%AE%9E%E7%8E%B0%E5%B1%80%E9%83%A8%E9%80%80%E4%BC%91%23" target="weibo">
 上海00后中奖100万实现局部退休（热度：1255472）
 </a>
@@ -3309,6 +3321,12 @@ Jennie曾拒绝李胜利的邀请（热度：1104033）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2024%23" target="weibo">
+歌手2024（热度：1101702）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%94%9F%E5%A5%B3%E5%A9%B4%E9%AA%A8%E6%8A%9816%E5%B0%8F%E6%97%B6%E5%90%8E%E8%85%BF%E9%83%A8%E6%BA%83%E7%83%82%23" target="weibo">
 新生女婴骨折16小时后腿部溃烂（热度：1100958）
 </a>
@@ -3407,6 +3425,12 @@ Tiffany被年轻人抛弃了吗（热度：1091321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A5%B7%E7%81%BF%20%E9%80%83%E7%A8%8E%23" target="weibo">
 李楷灿 逃税（热度：1087556）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E5%A5%BD%E6%9C%89%E6%A2%97%23" target="weibo">
+黄宣好有梗（热度：1087489）
 </a>
 </li>
 
@@ -4235,6 +4259,12 @@ aespa回归（热度：1000997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E9%87%8C%E6%96%AF%E9%81%97%E4%BD%93%E5%9C%A8%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%9C%B0%E5%8C%BA%E8%A2%AB%E5%8F%91%E7%8E%B0%23" target="weibo">
 莫里斯遗体在洛杉矶地区被发现（热度：932334）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E5%9C%A8%E6%AD%8C%E6%89%8B%E8%A7%82%E4%BC%97%E5%B8%AD%23" target="weibo">
+张远在歌手观众席（热度：931919）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ G2不收徒（热度：791904）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E7%BE%8E%E5%9B%BD%E8%BF%9B%E5%8F%A3%E8%A1%80%E6%B6%B2%E5%88%B6%E5%93%81%E8%87%B4%E8%8B%B1%E5%9B%BD3%E4%B8%87%E4%BA%BA%E6%84%9F%E6%9F%93%E8%89%BE%E6%BB%8B%E7%AD%89%23" target="weibo">
 从美国进口血液制品致英国3万人感染艾滋等（热度：756355）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%BD%93%20%E5%96%9D%E4%B8%AD%E8%8D%AF%23" target="weibo">
-亚当 喝中药（热度：755774）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B06%E5%A4%A95%E6%99%9A%E7%A0%94%E5%AD%A6%E8%90%A5%E5%94%AE%E4%BB%B7%E9%AB%98%E8%BE%BE9999%E5%85%83%23" target="weibo">
-张雪峰6天5晚研学营售价高达9999元（热度：755251）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%BD%93%20%E5%BC%A0%E7%8E%AE%23" target="weibo">
-亚当 张玮（热度：755067）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%95%86%E5%BA%97%E5%90%A6%E8%AE%A4%E5%87%BA%E5%94%AE%E9%A6%99%E9%A3%98%E9%A3%98%E8%AE%BD%E6%97%A5%E6%9D%AF%E5%A5%97%E5%A5%B6%E8%8C%B6%23" target="weibo">
-日本商店否认出售香飘飘讽日杯套奶茶（热度：755033）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%94%B1%E5%B8%A6%E6%88%91%E8%B5%B0%23" target="weibo">
-杨丞琳唱带我走（热度：754727）
 </a>
 </li>
 

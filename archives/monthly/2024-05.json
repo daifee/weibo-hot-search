@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716550546615,
+  "endTime": 1716554074191,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -23,6 +23,14 @@
       "num": 15100313,
       "word": "歌手直播",
       "onboard_time": 1715341399,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14319953,
+      "num": 14319953,
+      "word": "亚当 限时投票",
+      "onboard_time": 1716552923,
       "rank": 0,
       "category": "综艺"
     },
@@ -289,6 +297,14 @@
       "onboard_time": 1716257722,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3328656,
+      "num": 889720,
+      "word": "歌手歌单",
+      "onboard_time": 1715680759,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 3292604,
@@ -1585,6 +1601,14 @@
       "onboard_time": 1714564338,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1662136,
+      "num": 419947,
+      "word": "那英 who撺掇you",
+      "onboard_time": 1716552384,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1658499,
@@ -3275,14 +3299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1255519,
-      "num": 889720,
-      "word": "歌手歌单",
-      "onboard_time": 1715680759,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1255472,
       "num": 1877605,
       "word": "上海00后中奖100万实现局部退休",
@@ -4395,6 +4411,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1101702,
+      "num": 665086,
+      "word": "歌手2024",
+      "onboard_time": 1714823239,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1100958,
       "num": 805777,
       "word": "新生女婴骨折16小时后腿部溃烂",
@@ -4529,6 +4553,14 @@
       "onboard_time": 1715047339,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1087489,
+      "num": 402857,
+      "word": "黄宣好有梗",
+      "onboard_time": 1716553582,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1085823,
@@ -5633,6 +5665,14 @@
       "onboard_time": 1714880598,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 931919,
+      "num": 183083,
+      "word": "张远在歌手观众席",
+      "onboard_time": 1716553582,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 929980,
@@ -8107,6 +8147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749166,
+      "num": 195492,
+      "word": "歌手豆瓣开分6.7",
+      "onboard_time": 1716548659,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 748000,
       "num": 748000,
       "word": "官博真发了杨幂哄龚俊的花絮",
@@ -8161,6 +8209,14 @@
       "onboard_time": 1715060119,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 745810,
+      "num": 745810,
+      "word": "上海迪士尼调整门票结构",
+      "onboard_time": 1716549677,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 745181,
@@ -9827,11 +9883,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 665086,
-      "num": 665086,
-      "word": "歌手2024",
-      "onboard_time": 1714823239,
-      "rank": 11,
+      "raw_hot": 663985,
+      "num": 182907,
+      "word": "沈梦辰主持",
+      "onboard_time": 1716552681,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -13827,6 +13883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 513319,
+      "num": 182796,
+      "word": "亚当超绝松弛感",
+      "onboard_time": 1716551538,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 512467,
       "num": 450414,
       "word": "小鬼导师人气倒数第二",
@@ -14603,6 +14667,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 491905,
+      "num": 182643,
+      "word": "海来阿木发文怒批直播打赏",
+      "onboard_time": 1716553222,
+      "rank": 25,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 491595,
       "num": 491595,
       "word": "阿信说让我一场一场把路人唱回来",
@@ -14745,6 +14817,14 @@
       "onboard_time": 1715411959,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487731,
+      "num": 463361,
+      "word": "赵丽颖工作室发长文告别贾小朵",
+      "onboard_time": 1716551838,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 487703,
@@ -16867,6 +16947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437029,
+      "num": 437029,
+      "word": "孩子抑郁休学其实是在替全家生病",
+      "onboard_time": 1716550757,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436669,
       "num": 390199,
       "word": "亚当 甘露寺美甲",
@@ -17513,14 +17601,6 @@
       "onboard_time": 1715041279,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 423117,
-      "num": 423117,
-      "word": "上海迪士尼调整门票结构",
-      "onboard_time": 1716549677,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 422792,
@@ -30563,14 +30643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233861,
-      "num": 195492,
-      "word": "歌手豆瓣开分6.7",
-      "onboard_time": 1716548659,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233802,
       "num": 233802,
       "word": "波比跳 公认的燃脂运动",
@@ -35161,6 +35233,14 @@
       "onboard_time": 1714833201,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204366,
+      "num": 182059,
+      "word": "易烊千玺舒淇新片疑似停拍",
+      "onboard_time": 1716553222,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 204351,
@@ -41033,6 +41113,14 @@
       "onboard_time": 1714986138,
       "rank": 13,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 183179,
+      "num": 183179,
+      "word": "作者回应央美毕设被嘲像垃圾堆",
+      "onboard_time": 1716551778,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 183088,
@@ -48361,6 +48449,14 @@
       "onboard_time": 1715130561,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152556,
+      "num": 905426,
+      "word": "文博会太太太太太火了",
+      "onboard_time": 1716550338,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152504,
@@ -57924,7 +58020,7 @@
     },
     {
       "raw_hot": 113908,
-      "num": 113908,
+      "num": 164448,
       "word": "东部战区持续位台岛以东海空域训练",
       "onboard_time": 1716548718,
       "rank": 47,
@@ -60299,6 +60395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98791,
+      "num": 169432,
+      "word": "饮料这样了还有救吗",
+      "onboard_time": 1716550638,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 98766,
       "num": 252796,
       "word": "范志毅520教你开车",
@@ -61139,6 +61243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 90495,
+      "num": 168062,
+      "word": "办公室低情商vs高情商",
+      "onboard_time": 1716551478,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90468,
       "num": 90468,
       "word": "母亲节快乐",
@@ -61201,6 +61313,14 @@
       "onboard_time": 1714951275,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89565,
+      "num": 167670,
+      "word": "巴萨官宣哈维离任",
+      "onboard_time": 1716552621,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 89422,
@@ -61561,6 +61681,14 @@
       "onboard_time": 1716082697,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83789,
+      "num": 166888,
+      "word": "益阳舰距台岛北部门户约22海里",
+      "onboard_time": 1716552862,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83762,
@@ -66163,6 +66291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 19699,
+      "num": 169918,
+      "word": "钟楚曦为自己拼一把",
+      "onboard_time": 1716553702,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19687,
       "num": 23188,
       "word": "全国吃辣battle",
@@ -66353,14 +66489,6 @@
       "onboard_time": 1715719870,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15909,
-      "num": 905426,
-      "word": "文博会太太太太太火了",
-      "onboard_time": 1716550338,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15833,
@@ -66761,6 +66889,14 @@
       "onboard_time": 1715829678,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6890,
+      "num": 165315,
+      "word": "倪妮Pura70风尚之夜",
+      "onboard_time": 1716554062,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 6224,

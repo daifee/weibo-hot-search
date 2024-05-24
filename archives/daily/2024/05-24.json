@@ -1,7 +1,23 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716550546615,
+  "endTime": 1716554074191,
   "band_list": [
+    {
+      "raw_hot": 14319953,
+      "num": 14319953,
+      "word": "亚当 限时投票",
+      "onboard_time": 1716552923,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10922302,
+      "num": 810085,
+      "word": "歌手直播",
+      "onboard_time": 1716550999,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 10288448,
       "num": 11202936,
@@ -17,6 +33,14 @@
       "onboard_time": 1716539539,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3328656,
+      "num": 654305,
+      "word": "歌手歌单",
+      "onboard_time": 1716525741,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1979610,
@@ -41,6 +65,14 @@
       "onboard_time": 1716478999,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1662136,
+      "num": 419947,
+      "word": "那英 who撺掇you",
+      "onboard_time": 1716552384,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1642994,
@@ -147,6 +179,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1101702,
+      "num": 404492,
+      "word": "歌手2024",
+      "onboard_time": 1716550038,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1087489,
+      "num": 402857,
+      "word": "黄宣好有梗",
+      "onboard_time": 1716553582,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1049033,
       "num": 564456,
       "word": "原来一次性内裤不是纯棉的最好",
@@ -161,6 +209,14 @@
       "onboard_time": 1716524421,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 931919,
+      "num": 183083,
+      "word": "张远在歌手观众席",
+      "onboard_time": 1716553582,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 903144,
@@ -227,6 +283,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749166,
+      "num": 195492,
+      "word": "歌手豆瓣开分6.7",
+      "onboard_time": 1716548659,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 745810,
+      "num": 745810,
+      "word": "上海迪士尼调整门票结构",
+      "onboard_time": 1716549677,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 734869,
       "num": 734869,
       "word": "亚当更新微博",
@@ -291,11 +363,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 654305,
-      "num": 654305,
-      "word": "歌手歌单",
-      "onboard_time": 1716525741,
-      "rank": 7,
+      "raw_hot": 663985,
+      "num": 182907,
+      "word": "沈梦辰主持",
+      "onboard_time": 1716552681,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -483,6 +555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 513319,
+      "num": 182796,
+      "word": "亚当超绝松弛感",
+      "onboard_time": 1716551538,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500266,
       "num": 275618,
       "word": "狐妖 好大的滤镜",
@@ -491,12 +571,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491905,
+      "num": 182643,
+      "word": "海来阿木发文怒批直播打赏",
+      "onboard_time": 1716553222,
+      "rank": 25,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 491559,
       "num": 491559,
       "word": "郭碧婷 时间煮雨",
       "onboard_time": 1716539718,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 487731,
+      "num": 463361,
+      "word": "赵丽颖工作室发长文告别贾小朵",
+      "onboard_time": 1716551838,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 482747,
@@ -563,20 +659,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 437029,
+      "num": 437029,
+      "word": "孩子抑郁休学其实是在替全家生病",
+      "onboard_time": 1716550757,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430830,
       "num": 382883,
       "word": "狐妖小红娘 儿童剧",
       "onboard_time": 1716469279,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 423117,
-      "num": 423117,
-      "word": "上海迪士尼调整门票结构",
-      "onboard_time": 1716549677,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 412071,
@@ -649,6 +745,14 @@
       "onboard_time": 1716508759,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375939,
+      "num": 375939,
+      "word": "鸣潮",
+      "onboard_time": 1716506115,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 368021,
@@ -1003,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254141,
+      "num": 182177,
+      "word": "恋爱兄妹",
+      "onboard_time": 1716550338,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252764,
       "num": 252764,
       "word": "NewJeans新歌破纪录",
@@ -1115,14 +1227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233861,
-      "num": 195492,
-      "word": "歌手豆瓣开分6.7",
-      "onboard_time": 1716548659,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232848,
       "num": 449764,
       "word": "原来大小樱桃是这样挑出来的",
@@ -1227,14 +1331,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 216428,
-      "num": 216428,
-      "word": "鸣潮",
-      "onboard_time": 1716506115,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 216118,
       "num": 561254,
       "word": "杀独神器",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1716539598,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 204366,
+      "num": 182059,
+      "word": "易烊千玺舒淇新片疑似停拍",
+      "onboard_time": 1716553222,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 203564,
@@ -1443,6 +1547,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 183179,
+      "num": 183179,
+      "word": "作者回应央美毕设被嘲像垃圾堆",
+      "onboard_time": 1716551778,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 182684,
       "num": 182684,
       "word": "四川地震",
@@ -1521,14 +1633,6 @@
       "onboard_time": 1716546979,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172378,
-      "num": 172378,
-      "word": "歌手2024",
-      "onboard_time": 1716550038,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 170592,
@@ -1715,6 +1819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152556,
+      "num": 905426,
+      "word": "文博会太太太太太火了",
+      "onboard_time": 1716550338,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152186,
       "num": 152186,
       "word": "年度瞩目影人入围名单",
@@ -1801,14 +1913,6 @@
       "onboard_time": 1716519619,
       "rank": 9,
       "category": "社会新闻,汽车"
-    },
-    {
-      "raw_hot": 146507,
-      "num": 136376,
-      "word": "恋爱兄妹",
-      "onboard_time": 1716550338,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 146135,
@@ -2068,7 +2172,7 @@
     },
     {
       "raw_hot": 113908,
-      "num": 113908,
+      "num": 164448,
       "word": "东部战区持续位台岛以东海空域训练",
       "onboard_time": 1716548718,
       "rank": 47,
@@ -2171,6 +2275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98791,
+      "num": 169432,
+      "word": "饮料这样了还有救吗",
+      "onboard_time": 1716550638,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 98718,
       "num": 71881,
       "word": "涂山红红 遥遥领先",
@@ -2203,6 +2315,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90495,
+      "num": 168062,
+      "word": "办公室低情商vs高情商",
+      "onboard_time": 1716551478,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 89565,
+      "num": 167670,
+      "word": "巴萨官宣哈维离任",
+      "onboard_time": 1716552621,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88340,
       "num": 88340,
       "word": "这是对台独分裂行径的有力惩戒",
@@ -2225,6 +2353,14 @@
       "onboard_time": 1716468259,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83789,
+      "num": 166888,
+      "word": "益阳舰距台岛北部门户约22海里",
+      "onboard_time": 1716552862,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81801,
@@ -2459,20 +2595,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 19699,
+      "num": 169918,
+      "word": "钟楚曦为自己拼一把",
+      "onboard_time": 1716553702,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16772,
       "num": 24648,
       "word": "周深唱狐妖小红娘OST",
       "onboard_time": 1716491171,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15909,
-      "num": 905426,
-      "word": "文博会太太太太太火了",
-      "onboard_time": 1716550338,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15338,
@@ -2505,6 +2641,14 @@
       "onboard_time": 1716488951,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6890,
+      "num": 165315,
+      "word": "倪妮Pura70风尚之夜",
+      "onboard_time": 1716554062,
+      "rank": 47,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
