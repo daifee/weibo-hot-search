@@ -1,6 +1,6 @@
 {
   "startTime": 1716481485636,
-  "endTime": 1716557722680,
+  "endTime": 1716560277616,
   "band_list": [
     {
       "raw_hot": 14608877,
@@ -43,19 +43,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8803353,
+      "num": 606344,
+      "word": "亚当绝了",
+      "onboard_time": 1716557367,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8325244,
       "num": 419947,
       "word": "那英 who撺掇you",
       "onboard_time": 1716552384,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 7080377,
-      "num": 402940,
-      "word": "亚当绝了",
-      "onboard_time": 1716557367,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -67,8 +67,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3263238,
+      "num": 555940,
+      "word": "歌手排名",
+      "onboard_time": 1716559647,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3251963,
-      "num": 364599,
+      "num": 511225,
       "word": "那英唱哭了",
       "onboard_time": 1716557367,
       "rank": 15,
@@ -81,6 +89,14 @@
       "onboard_time": 1716556164,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2889158,
+      "num": 543196,
+      "word": "蔡依林 我们中国南昌最热情了",
+      "onboard_time": 1716558927,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 2685989,
@@ -315,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 877513,
+      "num": 237109,
+      "word": "亚当真断眉",
+      "onboard_time": 1716559948,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 874894,
       "num": 339051,
       "word": "多位台湾艺人表态支持祖国统一",
@@ -336,6 +360,14 @@
       "word": "海来阿木 欣赏不来",
       "onboard_time": 1716555926,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 845602,
+      "num": 222675,
+      "word": "凡希亚阿拉伯转音",
+      "onboard_time": 1716558986,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -443,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 696101,
+      "num": 696101,
+      "word": "年轻人为什么不爱去商场买衣服了",
+      "onboard_time": 1716555443,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 687175,
       "num": 687175,
       "word": "赵丽颖 客串逍遥",
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 673484,
-      "num": 257837,
+      "num": 259135,
       "word": "爷爷爸爸去世奶奶不知情录视频呼唤",
       "onboard_time": 1716544399,
       "rank": 21,
@@ -475,8 +515,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 669395,
+      "num": 214198,
+      "word": "黄宣第二",
+      "onboard_time": 1716560127,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 651650,
+      "num": 201460,
+      "word": "歌手观众席好多明星",
+      "onboard_time": 1716556946,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 643329,
-      "num": 170501,
+      "num": 200656,
       "word": "肖战直播",
       "onboard_time": 1716555744,
       "rank": 40,
@@ -544,6 +600,14 @@
       "word": "我以为没有网购套路能骗到我了",
       "onboard_time": 1716515838,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608338,
+      "num": 608338,
+      "word": "福宝非展区现状",
+      "onboard_time": 1716558393,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -644,7 +708,7 @@
     },
     {
       "raw_hot": 539862,
-      "num": 364700,
+      "num": 500013,
       "word": "东部战区发了一把剑",
       "onboard_time": 1716554603,
       "rank": 19,
@@ -715,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 470710,
+      "num": 200208,
+      "word": "胖猫案细节公布",
+      "onboard_time": 1716560007,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 470298,
       "num": 470298,
       "word": "刘亦菲安妮海瑟薇公主牵手",
@@ -737,6 +809,14 @@
       "onboard_time": 1716494471,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463982,
+      "num": 199907,
+      "word": "海来阿木淘汰",
+      "onboard_time": 1716560186,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 449755,
@@ -769,14 +849,6 @@
       "onboard_time": 1716476361,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 441332,
-      "num": 441332,
-      "word": "年轻人为什么不爱去商场买衣服了",
-      "onboard_time": 1716555443,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 437800,
@@ -1035,12 +1107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311260,
+      "num": 311260,
+      "word": "原神4.7",
+      "onboard_time": 1716558087,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 310837,
       "num": 310837,
       "word": "逆水寒",
       "onboard_time": 1716518778,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 309442,
+      "num": 309442,
+      "word": "回头是岸",
+      "onboard_time": 1716557907,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 301942,
@@ -1161,6 +1249,14 @@
       "onboard_time": 1716539959,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277887,
+      "num": 226538,
+      "word": "原神双子短片",
+      "onboard_time": 1716558808,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 275889,
@@ -1547,6 +1643,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 210461,
+      "num": 210461,
+      "word": "女生称遭男孩偷拍争执视频被传黄网",
+      "onboard_time": 1716555144,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209417,
       "num": 164654,
       "word": "左航小作文",
@@ -1593,6 +1697,14 @@
       "onboard_time": 1716521658,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201083,
+      "num": 201083,
+      "word": "这类廉价食物真的防癌",
+      "onboard_time": 1716558393,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 200439,
@@ -1803,14 +1915,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 174721,
-      "num": 174721,
-      "word": "女生称遭男孩偷拍争执视频被传黄网",
-      "onboard_time": 1716555144,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173759,
       "num": 181464,
       "word": "Uzi队线下训练解散",
@@ -1993,6 +2097,14 @@
       "onboard_time": 1716459078,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153132,
+      "num": 199677,
+      "word": "安踏原神联动",
+      "onboard_time": 1716558808,
+      "rank": 45,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 152787,
@@ -2243,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132278,
+      "num": 199268,
+      "word": "中国男排",
+      "onboard_time": 1716559467,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131765,
       "num": 131765,
       "word": "范无救有案底了",
@@ -2331,6 +2451,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 126353,
+      "num": 198914,
+      "word": "黄河壶口瀑布绿水戏彩虹",
+      "onboard_time": 1716559766,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 123677,
       "num": 130212,
       "word": "整个山东像是青岛的空调外机",
@@ -2377,6 +2505,14 @@
       "onboard_time": 1716480258,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118503,
+      "num": 520917,
+      "word": "华为Pura70锐意风尚之夜群星现场",
+      "onboard_time": 1716557848,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 116047,
@@ -2683,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48350,
+      "num": 200517,
+      "word": "Pura风尚之夜拍了拍你",
+      "onboard_time": 1716559707,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 47194,
       "num": 165601,
       "word": "用AI的方式打开数字福州",
@@ -2772,7 +2916,7 @@
     },
     {
       "raw_hot": 29905,
-      "num": 194870,
+      "num": 1487048,
       "word": "体验数字里的衣食住行",
       "onboard_time": 1716549739,
       "rank": 25,
@@ -2885,6 +3029,9 @@
     },
     {
       "word": "#让更多国家和人民共享互联网发展成果#"
+    },
+    {
+      "word": "#奋力谱写中国式现代化山东篇章#"
     }
   ]
 }
