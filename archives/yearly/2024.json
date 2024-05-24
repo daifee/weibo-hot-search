@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1716539750132,
+  "endTime": 1716542410233,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -281,6 +281,14 @@
       "onboard_time": 1707815438,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9951334,
+      "num": 11117879,
+      "word": "中国台湾省",
+      "onboard_time": 1716539539,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9783018,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1710986073,
       "rank": 0,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 3002248,
-      "num": 429037,
-      "word": "舒奕橙是不良人导演",
-      "onboard_time": 1714022123,
-      "rank": 12,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716539750132,
+  "endTime": 1716542410233,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -32,6 +32,14 @@
       "word": "台湾当归",
       "onboard_time": 1716514577,
       "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 9951334,
+      "num": 11117879,
+      "word": "中国台湾省",
+      "onboard_time": 1716539539,
+      "rank": 5,
       "category": "国内时政"
     },
     {
@@ -939,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1176761,
-      "num": 1176761,
-      "word": "中国台湾省",
-      "onboard_time": 1716539539,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1146588,
       "num": 1146588,
       "word": "巴勒斯坦",
@@ -1779,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770329,
+      "num": 770329,
+      "word": "庆余年2豆瓣开分7分",
+      "onboard_time": 1716538101,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 770271,
       "num": 694712,
       "word": "庆帝 我要diss你",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1716268521,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761882,
+      "num": 761882,
+      "word": "doge原型去世",
+      "onboard_time": 1716539298,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 760107,
@@ -2364,7 +2380,7 @@
     },
     {
       "raw_hot": 643308,
-      "num": 359383,
+      "num": 504461,
       "word": "怎么解决台湾问题是中国人民自己的事",
       "onboard_time": 1716537678,
       "rank": 30,
@@ -2608,14 +2624,6 @@
       "word": "叶灵儿",
       "onboard_time": 1716342258,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 595069,
-      "num": 595069,
-      "word": "庆余年2豆瓣开分7分",
-      "onboard_time": 1716538101,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -3339,6 +3347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 491559,
+      "num": 491559,
+      "word": "郭碧婷 时间煮雨",
+      "onboard_time": 1716539718,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490017,
       "num": 490017,
       "word": "台岛周边演习现场画面",
@@ -3489,6 +3505,14 @@
       "onboard_time": 1716208458,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477085,
+      "num": 477085,
+      "word": "你的体制内偶像来啦",
+      "onboard_time": 1716540860,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 474232,
@@ -4707,6 +4731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 356150,
+      "num": 356150,
+      "word": "央视网文娱评狐妖小红娘月红篇",
+      "onboard_time": 1716540499,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355298,
       "num": 355298,
       "word": "杨幂机场出发戛纳",
@@ -5089,6 +5121,14 @@
       "onboard_time": 1716213741,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328826,
+      "num": 212242,
+      "word": "田田小阿姨粉丝数不降反升",
+      "onboard_time": 1716541399,
+      "rank": 23,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 328292,
@@ -5995,6 +6035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 279635,
+      "num": 210543,
+      "word": "石凯 披荆斩棘的哥哥",
+      "onboard_time": 1716539959,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279561,
       "num": 279561,
       "word": "中国选手一眨眼的功夫就夺冠了",
@@ -6257,6 +6305,14 @@
       "onboard_time": 1716214699,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265195,
+      "num": 208475,
+      "word": "到底是谁在给杨幂投票",
+      "onboard_time": 1716541521,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 264828,
@@ -6891,6 +6947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 237214,
+      "num": 205537,
+      "word": "韩国男歌手便利店偷酒",
+      "onboard_time": 1716540078,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237203,
       "num": 237203,
       "word": "不是现在的难看而是以前的糠太细",
@@ -7243,6 +7307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223649,
+      "num": 223649,
+      "word": "多人称饮用万里木兰出现心悸",
+      "onboard_time": 1716540020,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222700,
       "num": 209188,
       "word": "朱婷悼念田宗琦",
@@ -7523,6 +7595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213480,
+      "num": 213480,
+      "word": "剑网3",
+      "onboard_time": 1716542000,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213431,
       "num": 213431,
       "word": "教育局通报初中女生被打",
@@ -7705,14 +7785,6 @@
       "onboard_time": 1716304040,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209961,
-      "num": 209961,
-      "word": "doge原型去世",
-      "onboard_time": 1716539298,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 209725,
@@ -7955,6 +8027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204928,
+      "num": 204928,
+      "word": "ISFJ 最淡的淡人",
+      "onboard_time": 1716541879,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204837,
       "num": 204837,
       "word": "左邓读信",
@@ -8041,6 +8121,14 @@
       "onboard_time": 1716102917,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203406,
+      "num": 203406,
+      "word": "酱园弄repo",
+      "onboard_time": 1716541759,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 203134,
@@ -10115,6 +10203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166537,
+      "num": 166537,
+      "word": "刘亦菲这个眼神",
+      "onboard_time": 1716541279,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166349,
       "num": 166349,
       "word": "尤长靖到长沙了",
@@ -11355,6 +11451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146842,
+      "num": 146842,
+      "word": "石洵瑶3比1张本美和",
+      "onboard_time": 1716542060,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146687,
       "num": 459274,
       "word": "开启自动驾驶后发生交通事故怎么算",
@@ -11537,6 +11641,14 @@
       "onboard_time": 1716122117,
       "rank": 36,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 144354,
+      "num": 144354,
+      "word": "我和LNG的五年记忆",
+      "onboard_time": 1716541759,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 144318,
@@ -11819,6 +11931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140736,
+      "num": 140736,
+      "word": "Jennie定制新耳返",
+      "onboard_time": 1716542301,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140714,
       "num": 140714,
       "word": "林更新赵又廷 所以和黑粉结拜了",
@@ -11859,12 +11979,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 139801,
-      "num": 139801,
-      "word": "郭碧婷 时间煮雨",
-      "onboard_time": 1716539718,
+      "raw_hot": 139613,
+      "num": 139613,
+      "word": "当00后掌管晚会后",
+      "onboard_time": 1716541160,
       "rank": 47,
-      "category": "综艺"
+      "category": "幽默"
     },
     {
       "raw_hot": 139592,
@@ -15209,6 +15329,14 @@
       "onboard_time": 1716225074,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55651,
+      "num": 683662,
+      "word": "一份胜诉判决书沉睡9年",
+      "onboard_time": 1716541220,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 55569,

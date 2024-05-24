@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716539750132,
+  "endTime": 1716542410233,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -56,6 +56,14 @@
       "word": "台湾当归",
       "onboard_time": 1716514577,
       "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 9951334,
+      "num": 11117879,
+      "word": "中国台湾省",
+      "onboard_time": 1716539539,
+      "rank": 5,
       "category": "国内时政"
     },
     {
@@ -3777,14 +3785,6 @@
       "onboard_time": 1716085998,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1176761,
-      "num": 1176761,
-      "word": "中国台湾省",
-      "onboard_time": 1716539539,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1174339,
@@ -7715,6 +7715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770329,
+      "num": 770329,
+      "word": "庆余年2豆瓣开分7分",
+      "onboard_time": 1716538101,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 770271,
       "num": 694712,
       "word": "庆帝 我要diss你",
@@ -7809,6 +7817,14 @@
       "onboard_time": 1715828057,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761882,
+      "num": 761882,
+      "word": "doge原型去世",
+      "onboard_time": 1716539298,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 761384,
@@ -10292,7 +10308,7 @@
     },
     {
       "raw_hot": 643308,
-      "num": 359383,
+      "num": 504461,
       "word": "怎么解决台湾问题是中国人民自己的事",
       "onboard_time": 1716537678,
       "rank": 30,
@@ -11505,14 +11521,6 @@
       "onboard_time": 1715182640,
       "rank": 3,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 595069,
-      "num": 595069,
-      "word": "庆余年2豆瓣开分7分",
-      "onboard_time": 1716538101,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 594930,
@@ -14555,6 +14563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 491559,
+      "num": 491559,
+      "word": "郭碧婷 时间煮雨",
+      "onboard_time": 1716539718,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491029,
       "num": 491029,
       "word": "爱萝莉",
@@ -15105,6 +15121,14 @@
       "onboard_time": 1714618517,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477085,
+      "num": 477085,
+      "word": "你的体制内偶像来啦",
+      "onboard_time": 1716540860,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 476863,
@@ -20803,6 +20827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356150,
+      "num": 356150,
+      "word": "央视网文娱评狐妖小红娘月红篇",
+      "onboard_time": 1716540499,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356065,
       "num": 344262,
       "word": "十个勤天帆布包",
@@ -22441,6 +22473,14 @@
       "onboard_time": 1715570179,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328826,
+      "num": 212242,
+      "word": "田田小阿姨粉丝数不降反升",
+      "onboard_time": 1716541399,
+      "rank": 23,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 328706,
@@ -25795,6 +25835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 279635,
+      "num": 210543,
+      "word": "石凯 披荆斩棘的哥哥",
+      "onboard_time": 1716539959,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279561,
       "num": 279561,
       "word": "中国选手一眨眼的功夫就夺冠了",
@@ -27104,6 +27152,14 @@
       "word": "陈楚生徐佳莹唱身骑白马",
       "onboard_time": 1714752859,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 265195,
+      "num": 208475,
+      "word": "到底是谁在给杨幂投票",
+      "onboard_time": 1716541521,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -29883,6 +29939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237214,
+      "num": 205537,
+      "word": "韩国男歌手便利店偷酒",
+      "onboard_time": 1716540078,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237203,
       "num": 237203,
       "word": "不是现在的难看而是以前的糠太细",
@@ -31529,6 +31593,14 @@
       "onboard_time": 1715737698,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223649,
+      "num": 223649,
+      "word": "多人称饮用万里木兰出现心悸",
+      "onboard_time": 1716540020,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223628,
@@ -33643,14 +33715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209961,
-      "num": 209961,
-      "word": "doge原型去世",
-      "onboard_time": 1716539298,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
       "raw_hot": 209725,
       "num": 181334,
       "word": "恋与制作人 旭日谎言篇",
@@ -34779,6 +34843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204928,
+      "num": 204928,
+      "word": "ISFJ 最淡的淡人",
+      "onboard_time": 1716541879,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204907,
       "num": 204907,
       "word": "女子剖腹产后被家人用吊车送上7楼",
@@ -35105,6 +35177,14 @@
       "onboard_time": 1716102917,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203406,
+      "num": 203406,
+      "word": "酱园弄repo",
+      "onboard_time": 1716541759,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 203401,
@@ -44611,6 +44691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166537,
+      "num": 166537,
+      "word": "刘亦菲这个眼神",
+      "onboard_time": 1716541279,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166507,
       "num": 166507,
       "word": "杜锋说羡慕杨鸣",
@@ -49491,6 +49579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146842,
+      "num": 146842,
+      "word": "石洵瑶3比1张本美和",
+      "onboard_time": 1716542060,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146799,
       "num": 146799,
       "word": "一诺给粉丝唱分手快乐",
@@ -50105,6 +50201,14 @@
       "onboard_time": 1716122117,
       "rank": 36,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 144354,
+      "num": 144354,
+      "word": "我和LNG的五年记忆",
+      "onboard_time": 1716541759,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 144318,
@@ -51107,6 +51211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140736,
+      "num": 140736,
+      "word": "Jennie定制新耳返",
+      "onboard_time": 1716542301,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140714,
       "num": 140714,
       "word": "林更新赵又廷 所以和黑粉结拜了",
@@ -51347,14 +51459,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 139801,
-      "num": 139801,
-      "word": "郭碧婷 时间煮雨",
-      "onboard_time": 1716539718,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139714,
       "num": 139714,
       "word": "严浩翔ScaryMovie练习室版",
@@ -51393,6 +51497,14 @@
       "onboard_time": 1714644258,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139613,
+      "num": 139613,
+      "word": "当00后掌管晚会后",
+      "onboard_time": 1716541160,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 139592,
@@ -63289,6 +63401,14 @@
       "onboard_time": 1715014275,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55651,
+      "num": 683662,
+      "word": "一份胜诉判决书沉睡9年",
+      "onboard_time": 1716541220,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 55569,

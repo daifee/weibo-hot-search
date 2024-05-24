@@ -1,0 +1,410 @@
+{
+  "runTime": 1716542410233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9951334,
+        "num": 11117879,
+        "word": "中国台湾省",
+        "onboard_time": 1716539539,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1712598,
+        "num": 1712598,
+        "word": "台湾当归",
+        "onboard_time": 1716514577,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28394,
+        "num": 1396000,
+        "word": "走近第二十届文博会",
+        "onboard_time": 1716522310,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359653,
+        "num": 1359653,
+        "word": "联合国称台湾是中国的一个省",
+        "onboard_time": 1716530239,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1126923,
+        "num": 1126923,
+        "word": "国防部说打的是台独嚣张气焰",
+        "onboard_time": 1716536419,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 838009,
+        "num": 838009,
+        "word": "贺军翔被告性骚扰",
+        "onboard_time": 1716536059,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770329,
+        "num": 770329,
+        "word": "庆余年2豆瓣开分7分",
+        "onboard_time": 1716538101,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 761882,
+        "num": 761882,
+        "word": "doge原型去世",
+        "onboard_time": 1716539298,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 752787,
+        "num": 752787,
+        "word": "下雨天 难听",
+        "onboard_time": 1716531020,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55651,
+        "num": 683662,
+        "word": "一份胜诉判决书沉睡9年",
+        "onboard_time": 1716541220,
+        "rank": 9,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 621675,
+        "num": 621675,
+        "word": "李胜利柬埔寨开夜店",
+        "onboard_time": 1716536659,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539182,
+        "num": 539182,
+        "word": "一精神障碍患者持刀伤人致8死1伤",
+        "onboard_time": 1716527720,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 504461,
+        "num": 504461,
+        "word": "怎么解决台湾问题是中国人民自己的事",
+        "onboard_time": 1716537678,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 491559,
+        "num": 491559,
+        "word": "郭碧婷 时间煮雨",
+        "onboard_time": 1716539718,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477085,
+        "num": 477085,
+        "word": "你的体制内偶像来啦",
+        "onboard_time": 1716540860,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356150,
+        "num": 356150,
+        "word": "央视网文娱评狐妖小红娘月红篇",
+        "onboard_time": 1716540499,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297253,
+        "num": 297253,
+        "word": "皇马拒绝姆巴佩参加巴黎奥运会",
+        "onboard_time": 1716537920,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231061,
+        "num": 231061,
+        "word": "中国台湾94年服役的郑和舰",
+        "onboard_time": 1716537499,
+        "rank": 17,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 223649,
+        "num": 223649,
+        "word": "多人称饮用万里木兰出现心悸",
+        "onboard_time": 1716540020,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213480,
+        "num": 213480,
+        "word": "剑网3",
+        "onboard_time": 1716542000,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 380682,
+        "num": 213208,
+        "word": "为什么国内夫妻很少见戴婚戒",
+        "onboard_time": 1716531438,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349516,
+        "num": 213004,
+        "word": "李惠利徐睿知签同公司",
+        "onboard_time": 1716538101,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330003,
+        "num": 212387,
+        "word": "范闲 六个爸爸",
+        "onboard_time": 1716534679,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328826,
+        "num": 212242,
+        "word": "田田小阿姨粉丝数不降反升",
+        "onboard_time": 1716541399,
+        "rank": 23,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 211908,
+        "num": 211908,
+        "word": "解放军前所未有的打独模式",
+        "onboard_time": 1716533300,
+        "rank": 24,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 279635,
+        "num": 210543,
+        "word": "石凯 披荆斩棘的哥哥",
+        "onboard_time": 1716539959,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265195,
+        "num": 208475,
+        "word": "到底是谁在给杨幂投票",
+        "onboard_time": 1716541521,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244846,
+        "num": 207797,
+        "word": "歌手歌单",
+        "onboard_time": 1716525741,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237214,
+        "num": 205537,
+        "word": "韩国男歌手便利店偷酒",
+        "onboard_time": 1716540078,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204928,
+        "num": 204928,
+        "word": "ISFJ 最淡的淡人",
+        "onboard_time": 1716541879,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291343,
+        "num": 204399,
+        "word": "霸王茶姬免单券",
+        "onboard_time": 1716536478,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203406,
+        "num": 203406,
+        "word": "酱园弄repo",
+        "onboard_time": 1716541759,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193540,
+        "num": 193540,
+        "word": "台独挑衅一次反制就推进一步直至统一",
+        "onboard_time": 1716539539,
+        "rank": 32,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 189343,
+        "num": 189343,
+        "word": "20家银行降薪",
+        "onboard_time": 1716535337,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 179944,
+        "num": 179944,
+        "word": "目视距离0.6海里处是中国台湾郑和舰",
+        "onboard_time": 1716527120,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166537,
+        "num": 166537,
+        "word": "刘亦菲这个眼神",
+        "onboard_time": 1716541279,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166444,
+        "num": 166444,
+        "word": "陈昊宇你好媚",
+        "onboard_time": 1716529100,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163810,
+        "num": 163810,
+        "word": "在台湾岛三个方向演练的意义",
+        "onboard_time": 1716507016,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159686,
+        "num": 159686,
+        "word": "正式确诊为排球少年研磨",
+        "onboard_time": 1716539598,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159652,
+        "num": 159652,
+        "word": "宁静把浪姐训练服卖了",
+        "onboard_time": 1716514938,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157419,
+        "num": 157419,
+        "word": "小狗刚出生就发硬怎么回事",
+        "onboard_time": 1716526461,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 149786,
+        "num": 149786,
+        "word": "披荆斩棘的哥哥路透",
+        "onboard_time": 1716531978,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146842,
+        "num": 146842,
+        "word": "石洵瑶3比1张本美和",
+        "onboard_time": 1716542060,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145055,
+        "num": 145055,
+        "word": "NewJeans新歌破纪录",
+        "onboard_time": 1716535218,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144354,
+        "num": 144354,
+        "word": "我和LNG的五年记忆",
+        "onboard_time": 1716541759,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141997,
+        "num": 141997,
+        "word": "贺军翔家遭警方搜查",
+        "onboard_time": 1716529519,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140736,
+        "num": 140736,
+        "word": "Jennie定制新耳返",
+        "onboard_time": 1716542301,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139613,
+        "num": 139613,
+        "word": "当00后掌管晚会后",
+        "onboard_time": 1716541160,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138887,
+        "num": 138887,
+        "word": "十个勤天包场支持龚俊",
+        "onboard_time": 1716539359,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118452,
+        "num": 118452,
+        "word": "台湾必将回归祖国怀抱",
+        "onboard_time": 1716519017,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开企业和专家座谈会#"
+    }
+  }
+}
