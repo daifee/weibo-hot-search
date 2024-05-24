@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716532682403,
+  "endTime": 1716535047884,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2435,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1440843,
+      "num": 1440843,
+      "word": "联合国称台湾是中国的一个省",
+      "onboard_time": 1716530239,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1439767,
       "num": 1439767,
       "word": "断眉 歌手",
@@ -2481,6 +2489,14 @@
       "onboard_time": 1716192922,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1419803,
+      "num": 1419803,
+      "word": "下雨天 难听",
+      "onboard_time": 1716531020,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1417040,
@@ -3089,14 +3105,6 @@
       "onboard_time": 1715166199,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1270669,
-      "num": 1270669,
-      "word": "联合国称台湾是中国的一个省",
-      "onboard_time": 1716530239,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1269731,
@@ -4616,14 +4624,6 @@
       "word": "徐艺洋说吵架会被黄子韬拉黑",
       "onboard_time": 1714562959,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1068408,
-      "num": 1068408,
-      "word": "下雨天 难听",
-      "onboard_time": 1716531020,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -11539,6 +11539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 591735,
+      "num": 273062,
+      "word": "为什么国内夫妻很少见戴婚戒",
+      "onboard_time": 1716531438,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 591447,
       "num": 591447,
       "word": "亚当穿奥斯卡战袍录歌手",
@@ -12091,6 +12099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567660,
+      "num": 554618,
+      "word": "亚当PK人选 微博网友投票",
+      "onboard_time": 1716532999,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567647,
       "num": 567647,
       "word": "庆余年第二季预约",
@@ -12113,6 +12129,14 @@
       "onboard_time": 1714999278,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 567633,
+      "num": 567633,
+      "word": "A股",
+      "onboard_time": 1714960037,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 567476,
@@ -12465,14 +12489,6 @@
       "onboard_time": 1714638558,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 553553,
-      "num": 273062,
-      "word": "为什么国内夫妻很少见戴婚戒",
-      "onboard_time": 1716531438,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 553449,
@@ -13419,14 +13435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 522102,
-      "num": 522102,
-      "word": "A股",
-      "onboard_time": 1714960037,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 521849,
       "num": 262069,
       "word": "李飞怎么瘦成这样了",
@@ -14329,6 +14337,14 @@
       "onboard_time": 1716476361,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 495717,
+      "num": 495717,
+      "word": "解放军前所未有的打独模式",
+      "onboard_time": 1716533300,
+      "rank": 8,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 495509,
@@ -24267,6 +24283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298321,
+      "num": 298321,
+      "word": "披荆斩棘的哥哥路透",
+      "onboard_time": 1716531978,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298276,
       "num": 298276,
       "word": "老头杯换人",
@@ -24529,6 +24553,14 @@
       "onboard_time": 1714546098,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 294545,
+      "num": 217509,
+      "word": "贺军翔手机遭警方扣查",
+      "onboard_time": 1716534018,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 294497,
@@ -25276,7 +25308,7 @@
     },
     {
       "raw_hot": 284043,
-      "num": 284043,
+      "num": 445833,
       "word": "数架轰炸机前出岛链",
       "onboard_time": 1716528139,
       "rank": 37,
@@ -27619,6 +27651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258281,
+      "num": 258281,
+      "word": "爸爸紧急撤回了一条感谢",
+      "onboard_time": 1716532698,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258274,
       "num": 696434,
       "word": "53岁保洁妈妈没工伤险被拒绝上门",
@@ -28697,14 +28737,6 @@
       "onboard_time": 1715404461,
       "rank": 26,
       "category": "教育,作品衍生"
-    },
-    {
-      "raw_hot": 246908,
-      "num": 246908,
-      "word": "披荆斩棘的哥哥路透",
-      "onboard_time": 1716531978,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 246905,
@@ -35467,6 +35499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201494,
+      "num": 201494,
+      "word": "王楚钦梁靖崑男双进4强",
+      "onboard_time": 1716534438,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201458,
       "num": 201458,
       "word": "刘宪华PUA青环节目组",
@@ -35945,6 +35985,14 @@
       "onboard_time": 1716047297,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200274,
+      "num": 183964,
+      "word": "范闲 六个爸爸",
+      "onboard_time": 1716534679,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 200270,
@@ -42115,6 +42163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 175917,
+      "num": 175917,
+      "word": "宋轶丞磊吻戏路透",
+      "onboard_time": 1716534078,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175904,
       "num": 175904,
       "word": "有点难为杨幂了",
@@ -44331,6 +44387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 166852,
+      "num": 166852,
+      "word": "万妮达穿旗袍了",
+      "onboard_time": 1716534140,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166842,
       "num": 412033,
       "word": "武汉已进入人海模式",
@@ -45585,6 +45649,14 @@
       "onboard_time": 1715391798,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161832,
+      "num": 161832,
+      "word": "陈丽君 文博会",
+      "onboard_time": 1716532879,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 161831,
@@ -54315,6 +54387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126693,
+      "num": 126693,
+      "word": "alex2024星座分析",
+      "onboard_time": 1716532459,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126688,
       "num": 126688,
       "word": "十个勤天常州",
@@ -55897,14 +55977,6 @@
       "onboard_time": 1714793599,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119834,
-      "num": 119834,
-      "word": "alex2024星座分析",
-      "onboard_time": 1716532459,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 119822,
