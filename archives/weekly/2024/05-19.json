@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716561263049,
+  "endTime": 1716564037253,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -739,6 +739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1488616,
+      "num": 376595,
+      "word": "到底是不是王力宏",
+      "onboard_time": 1716561802,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1471363,
       "num": 1471363,
       "word": "王楚钦孙颖莎止步混双8强",
@@ -825,6 +833,14 @@
       "onboard_time": 1716531020,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1411472,
+      "num": 369183,
+      "word": "杨幂戛纳造型",
+      "onboard_time": 1716562462,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 1411388,
@@ -1275,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1098501,
+      "num": 262121,
+      "word": "亚当不参与排名",
+      "onboard_time": 1716561985,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1085291,
       "num": 1085291,
       "word": "伊朗总统坠机细节公开",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1716130640,
       "rank": 22,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1024575,
+      "num": 261923,
+      "word": "那英真的摇人了",
+      "onboard_time": 1716563602,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1021270,
@@ -3515,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513391,
+      "num": 345624,
+      "word": "JackeyLove女友晒合照",
+      "onboard_time": 1716561385,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 513319,
       "num": 182796,
       "word": "亚当超绝松弛感",
@@ -4073,6 +4113,14 @@
       "onboard_time": 1716561088,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 454258,
+      "num": 260742,
+      "word": "赵丽颖今年第二次杀青",
+      "onboard_time": 1716561385,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 453695,
@@ -5449,6 +5497,14 @@
       "onboard_time": 1716106278,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337775,
+      "num": 337775,
+      "word": "海警此次演练包含登检台湾船只",
+      "onboard_time": 1716561385,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 336979,
@@ -6915,6 +6971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 261115,
+      "num": 261115,
+      "word": "喝奶茶为什么心脏不舒服",
+      "onboard_time": 1716561385,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 261039,
       "num": 261039,
       "word": "蔡徐坤13岁时演过童话二分之一",
@@ -8059,6 +8123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218793,
+      "num": 645134,
+      "word": "这类廉价食物真的防癌",
+      "onboard_time": 1716558393,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 218361,
       "num": 218361,
       "word": "年少缺钱缺爱长大豪门阔太",
@@ -8873,14 +8945,6 @@
       "onboard_time": 1716467718,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201083,
-      "num": 645134,
-      "word": "这类廉价食物真的防癌",
-      "onboard_time": 1716558393,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 201009,
@@ -12435,6 +12499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143303,
+      "num": 260554,
+      "word": "比亚迪起诉博主索赔500万元",
+      "onboard_time": 1716563362,
+      "rank": 39,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 143069,
       "num": 161063,
       "word": "哲学教授说谈恋爱不能太卑微",
@@ -14787,6 +14859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108215,
+      "num": 260234,
+      "word": "国旗军旗与宝岛中央山脉同框",
+      "onboard_time": 1716563542,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108083,
       "num": 120277,
       "word": "从今以后我就是你的靠山",
@@ -15235,6 +15315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97976,
+      "num": 260151,
+      "word": "糟粕醋火锅",
+      "onboard_time": 1716561324,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 97786,
       "num": 97192,
       "word": "花楹最喜欢主人 雅雅最喜欢姐姐",
@@ -15305,6 +15393,14 @@
       "onboard_time": 1716385760,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94344,
+      "num": 260091,
+      "word": "letme老头杯红温",
+      "onboard_time": 1716561685,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 94268,
@@ -15497,6 +15593,22 @@
       "onboard_time": 1716308117,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85719,
+      "num": 260052,
+      "word": "中国男排4比0韩国男排",
+      "onboard_time": 1716563962,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85500,
+      "num": 399278,
+      "word": "如果你刚好遇见记得给他撑把伞",
+      "onboard_time": 1716562344,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 84473,
@@ -15809,6 +15921,14 @@
       "onboard_time": 1716404411,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 70643,
+      "num": 646793,
+      "word": "Pura风尚之夜拍了拍你",
+      "onboard_time": 1716559707,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 70592,
@@ -16227,14 +16347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 55492,
-      "num": 646793,
-      "word": "Pura风尚之夜拍了拍你",
-      "onboard_time": 1716559707,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 55398,
       "num": 55398,
       "word": "钟楚曦金色人鱼裙",
@@ -16547,6 +16659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41154,
+      "num": 2450824,
+      "word": "体验数字里的衣食住行",
+      "onboard_time": 1716549739,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41128,
       "num": 41128,
       "word": "上海你不要太超前",
@@ -16705,14 +16825,6 @@
       "onboard_time": 1716297499,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34448,
-      "num": 2450824,
-      "word": "体验数字里的衣食住行",
-      "onboard_time": 1716549739,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34164,
