@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716672862833,
+  "endTime": 1716675449679,
   "band_list": [
     {
       "raw_hot": 1662712,
@@ -371,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108284,
+      "num": 41013,
+      "word": "去阿勒泰旅游的人膀胱快炸了",
+      "onboard_time": 1716666012,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 106922,
       "num": 106922,
       "word": "手机一定要清理的四大文件",
@@ -395,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 103762,
+      "num": 29326,
+      "word": "佟丽娅戛纳很好下次再去",
+      "onboard_time": 1716671891,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99125,
       "num": 99125,
       "word": "志愿者为何开始避雷演唱会了",
@@ -409,14 +425,6 @@
       "onboard_time": 1716638418,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 82685,
-      "num": 30520,
-      "word": "去阿勒泰旅游的人膀胱快炸了",
-      "onboard_time": 1716666012,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 78846,
@@ -443,12 +451,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 31308,
-      "num": 21901,
-      "word": "佟丽娅戛纳很好下次再去",
-      "onboard_time": 1716671891,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 34045,
+      "num": 34045,
+      "word": "41首百万收藏汪苏泷在歌手都没唱",
+      "onboard_time": 1716668290,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 30512,
@@ -475,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27546,
-      "num": 27546,
-      "word": "41首百万收藏汪苏泷在歌手都没唱",
-      "onboard_time": 1716668290,
+      "raw_hot": 28305,
+      "num": 28305,
+      "word": "体态变差的根源居然是恐惧",
+      "onboard_time": 1716672731,
       "rank": 48,
-      "category": "综艺"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27131,
@@ -491,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 26882,
+      "num": 26882,
+      "word": "林俊杰单膝跪地弹吉他",
+      "onboard_time": 1716670750,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25066,
       "num": 32193,
       "word": "新说唱2024",
@@ -499,20 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19694,
-      "num": 19694,
-      "word": "林俊杰单膝跪地弹吉他",
-      "onboard_time": 1716670750,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 15912,
-      "num": 15912,
-      "word": "体态变差的根源居然是恐惧",
-      "onboard_time": 1716672731,
+      "raw_hot": 20740,
+      "num": 20740,
+      "word": "碳循环减肥法轻松拿捏脂肪",
+      "onboard_time": 1716674712,
       "rank": 48,
-      "category": "健康医疗"
+      "category": "运动健身"
     },
     {
       "raw_hot": 12931,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 9638,
-      "num": 50690,
+      "num": 75335,
       "word": "女子借给男孩雨伞被回赠零食",
       "onboard_time": 1716666131,
       "rank": 9,

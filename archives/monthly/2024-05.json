@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716672862833,
+  "endTime": 1716675449679,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -62003,6 +62003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108284,
+      "num": 41013,
+      "word": "去阿勒泰旅游的人膀胱快炸了",
+      "onboard_time": 1716666012,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 108228,
       "num": 108228,
       "word": "吉鲁离开AC米兰",
@@ -62625,6 +62633,14 @@
       "onboard_time": 1715470576,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103762,
+      "num": 29326,
+      "word": "佟丽娅戛纳很好下次再去",
+      "onboard_time": 1716671891,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 103739,
@@ -64777,14 +64793,6 @@
       "onboard_time": 1716203058,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82685,
-      "num": 30520,
-      "word": "去阿勒泰旅游的人膀胱快炸了",
-      "onboard_time": 1716666012,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 82602,
@@ -68683,6 +68691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34045,
+      "num": 34045,
+      "word": "41首百万收藏汪苏泷在歌手都没唱",
+      "onboard_time": 1716668290,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34039,
       "num": 35606,
       "word": "跑男团cha了宋雨琦的FREAK",
@@ -68865,14 +68881,6 @@
       "onboard_time": 1715880552,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 31308,
-      "num": 21901,
-      "word": "佟丽娅戛纳很好下次再去",
-      "onboard_time": 1716671891,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 31233,
@@ -69083,6 +69091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28305,
+      "num": 28305,
+      "word": "体态变差的根源居然是恐惧",
+      "onboard_time": 1716672731,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 28119,
       "num": 326414,
       "word": "悦鲜活急了",
@@ -69105,14 +69121,6 @@
       "onboard_time": 1714848433,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27546,
-      "num": 27546,
-      "word": "41首百万收藏汪苏泷在歌手都没唱",
-      "onboard_time": 1716668290,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 27323,
@@ -69145,6 +69153,14 @@
       "onboard_time": 1716546139,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 26882,
+      "num": 26882,
+      "word": "林俊杰单膝跪地弹吉他",
+      "onboard_time": 1716670750,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 26714,
@@ -69659,6 +69675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20740,
+      "num": 20740,
+      "word": "碳循环减肥法轻松拿捏脂肪",
+      "onboard_time": 1716674712,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 20538,
       "num": 190781,
       "word": "张凌赫怼脸杀",
@@ -69713,14 +69737,6 @@
       "onboard_time": 1716536539,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 19694,
-      "num": 19694,
-      "word": "林俊杰单膝跪地弹吉他",
-      "onboard_time": 1716670750,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 19687,
@@ -69944,14 +69960,6 @@
       "word": "眼皮跳可能是面肌痉挛的表现",
       "onboard_time": 1715719870,
       "rank": 44,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15912,
-      "num": 15912,
-      "word": "体态变差的根源居然是恐惧",
-      "onboard_time": 1716672731,
-      "rank": 48,
       "category": "健康医疗"
     },
     {
@@ -70332,7 +70340,7 @@
     },
     {
       "raw_hot": 9638,
-      "num": 50690,
+      "num": 75335,
       "word": "女子借给男孩雨伞被回赠零食",
       "onboard_time": 1716666131,
       "rank": 9,
