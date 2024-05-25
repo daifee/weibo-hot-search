@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716593764753,
+  "endTime": 1716599792356,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1715431698,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1928191,
+      "num": 1928191,
+      "word": "王心凌 我是中华民族的一份子",
+      "onboard_time": 1716594436,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1924480,
@@ -5203,6 +5211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1013956,
+      "num": 1013956,
+      "word": "何炅快回来吧",
+      "onboard_time": 1716595577,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1013811,
       "num": 772080,
       "word": "3名大学生爬长城被雷击",
@@ -5859,6 +5875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 929660,
+      "num": 410145,
+      "word": "杨幂戛纳生图",
+      "onboard_time": 1716596716,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 929093,
       "num": 883089,
       "word": "歌手2024首轮双揭榜歌手",
@@ -6433,6 +6457,14 @@
       "onboard_time": 1716352941,
       "rank": 4,
       "category": "时尚,社会新闻"
+    },
+    {
+      "raw_hot": 877775,
+      "num": 373839,
+      "word": "不愧是国际章",
+      "onboard_time": 1716596899,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 877700,
@@ -12491,6 +12523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 568201,
+      "num": 341408,
+      "word": "亚当演技",
+      "onboard_time": 1716595878,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 568128,
       "num": 488329,
       "word": "左航 老奶奶",
@@ -12801,6 +12841,14 @@
       "onboard_time": 1714787958,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 556289,
+      "num": 336359,
+      "word": "刘强东称业绩差且不拼搏不是兄弟",
+      "onboard_time": 1716594436,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 556078,
@@ -14707,6 +14755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 499206,
+      "num": 191807,
+      "word": "岳父母连续寄海鲜3个月小伙崩溃退群",
+      "onboard_time": 1716592995,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498978,
       "num": 498978,
       "word": "陈丽君 甜妹",
@@ -14937,6 +14993,14 @@
       "onboard_time": 1715826857,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 492282,
+      "num": 283085,
+      "word": "章子怡戛纳红毯",
+      "onboard_time": 1716593355,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 491595,
@@ -16153,14 +16217,6 @@
       "onboard_time": 1714693696,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 461630,
-      "num": 118667,
-      "word": "岳父母连续寄海鲜3个月小伙崩溃退群",
-      "onboard_time": 1716592995,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461492,
@@ -18577,6 +18633,14 @@
       "onboard_time": 1714521675,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 411304,
+      "num": 411304,
+      "word": "小学生裤子掉了跳绳拿第一",
+      "onboard_time": 1716595878,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411281,
@@ -21027,6 +21091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361593,
+      "num": 265506,
+      "word": "基地就福宝被偷拍报警",
+      "onboard_time": 1716596417,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361504,
       "num": 361504,
       "word": "繁花等带动腾讯长视频付费会员增至1.16亿",
@@ -21388,7 +21460,7 @@
     },
     {
       "raw_hot": 354434,
-      "num": 114434,
+      "num": 190328,
       "word": "伤肝又致癌甜饮料堪比伤肝水",
       "onboard_time": 1716591853,
       "rank": 22,
@@ -23465,6 +23537,14 @@
       "onboard_time": 1714902559,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322043,
+      "num": 322043,
+      "word": "Faouzia回应又得第一",
+      "onboard_time": 1716595097,
+      "rank": 12,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 321959,
@@ -25563,6 +25643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289198,
+      "num": 189947,
+      "word": "尤长靖 今晚听哭了一个耳机",
+      "onboard_time": 1716594256,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289190,
       "num": 289190,
       "word": "广州到上海仅需3小时",
@@ -27532,7 +27620,7 @@
     },
     {
       "raw_hot": 267714,
-      "num": 127882,
+      "num": 162320,
       "word": "吴镇宇 我向黑粉借厕纸",
       "onboard_time": 1716591914,
       "rank": 25,
@@ -28689,6 +28777,14 @@
       "onboard_time": 1716299120,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255322,
+      "num": 189583,
+      "word": "和刘亦菲搭戏 笑容不像演的",
+      "onboard_time": 1716597858,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255245,
@@ -32259,6 +32355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223882,
+      "num": 188272,
+      "word": "为什么上班后越来越胖了",
+      "onboard_time": 1716594436,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 223865,
       "num": 223865,
       "word": "维和防暴队",
@@ -33864,6 +33968,14 @@
       "word": "蒋敦豪 田间的舞狮少年",
       "onboard_time": 1715694320,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213050,
+      "num": 187778,
+      "word": "黄宣 哈克南最后的表舅",
+      "onboard_time": 1716597437,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -40875,6 +40987,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 186398,
+      "num": 186398,
+      "word": "张杰夸歌手外国女歌手唱得好",
+      "onboard_time": 1716599658,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186388,
       "num": 186388,
       "word": "歌手网传赛制",
@@ -40937,6 +41057,14 @@
       "onboard_time": 1715563639,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186078,
+      "num": 186078,
+      "word": "李现戛纳红毯首秀",
+      "onboard_time": 1716596899,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 186015,
@@ -42867,14 +42995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177095,
-      "num": 108871,
-      "word": "章子怡戛纳红毯",
-      "onboard_time": 1716593355,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 177051,
       "num": 177051,
       "word": "周柯宇妆造",
@@ -42897,6 +43017,14 @@
       "onboard_time": 1714999579,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176996,
+      "num": 162239,
+      "word": "汪苏泷第六名",
+      "onboard_time": 1716594736,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 176961,
@@ -43929,6 +44057,14 @@
       "onboard_time": 1715934546,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173099,
+      "num": 173099,
+      "word": "班主任惩罚学生用影子模仿青蛙",
+      "onboard_time": 1716599658,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 173053,
@@ -46395,6 +46531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163049,
+      "num": 163049,
+      "word": "逆水寒ive",
+      "onboard_time": 1716595638,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162933,
       "num": 162933,
       "word": "一起来看巴黎奥运会",
@@ -46889,6 +47033,14 @@
       "onboard_time": 1715263460,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161061,
+      "num": 161061,
+      "word": "珠峰又现拥堵亲历者称有人坠崖",
+      "onboard_time": 1716597198,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160960,
@@ -47657,6 +47809,14 @@
       "onboard_time": 1716265880,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157527,
+      "num": 157527,
+      "word": "台湾花莲海域4.4级地震",
+      "onboard_time": 1716595158,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157508,
@@ -52299,6 +52459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140041,
+      "num": 140041,
+      "word": "酱园弄戛纳红毯亮相",
+      "onboard_time": 1716593656,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139980,
       "num": 139980,
       "word": "跳远是一件很私密的事",
@@ -56315,6 +56483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124301,
+      "num": 124301,
+      "word": "mlxg一句不够强队友全红温",
+      "onboard_time": 1716599658,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124298,
       "num": 124298,
       "word": "墨雨云间 浪姐再就业",
@@ -58867,6 +59043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112885,
+      "num": 112885,
+      "word": "TES和BLG参加沙特电竞杯",
+      "onboard_time": 1716596117,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112882,
       "num": 112882,
       "word": "乌云其木格同志逝世",
@@ -60867,6 +61051,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100483,
+      "num": 100483,
+      "word": "Faker阿狸名人堂皮肤",
+      "onboard_time": 1716598999,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100472,
       "num": 129317,
       "word": "KSG晋级春季赛四强",
@@ -61665,6 +61857,14 @@
       "onboard_time": 1716268100,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 92754,
+      "num": 99944,
+      "word": "金毛被锦鲤咬了",
+      "onboard_time": 1716592754,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 92687,
@@ -62563,14 +62763,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 80268,
-      "num": 89179,
-      "word": "金毛被锦鲤咬了",
-      "onboard_time": 1716592754,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80221,
       "num": 403853,
       "word": "5月新番西游笔绘西行",
@@ -62801,6 +62993,14 @@
       "onboard_time": 1715959401,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78061,
+      "num": 365153,
+      "word": "成都大爷大妈才是反PUA大使",
+      "onboard_time": 1716597738,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 77973,
@@ -63137,14 +63337,6 @@
       "onboard_time": 1716591673,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74111,
-      "num": 63597,
-      "word": "酱园弄戛纳红毯亮相",
-      "onboard_time": 1716593656,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 73803,
@@ -64347,6 +64539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58410,
+      "num": 1193465,
+      "word": "听着小美满愿丰收美满",
+      "onboard_time": 1716558148,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58309,
       "num": 458128,
       "word": "神十八乘组太空出差vlog",
@@ -65128,14 +65328,6 @@
       "word": "男子地铁晕倒小伙跨车厢飞奔救援",
       "onboard_time": 1715945419,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48150,
-      "num": 510293,
-      "word": "听着小美满愿丰收美满",
-      "onboard_time": 1716558148,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

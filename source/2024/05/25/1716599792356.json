@@ -1,0 +1,410 @@
+{
+  "runTime": 1716599792356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1928191,
+        "num": 1928191,
+        "word": "王心凌 我是中华民族的一份子",
+        "onboard_time": 1716594436,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1650416,
+        "num": 1650416,
+        "word": "中国台湾省",
+        "onboard_time": 1716539539,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58410,
+        "num": 1193465,
+        "word": "听着小美满愿丰收美满",
+        "onboard_time": 1716558148,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013956,
+        "num": 1013956,
+        "word": "何炅快回来吧",
+        "onboard_time": 1716595577,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551808,
+        "num": 551808,
+        "word": "福宝",
+        "onboard_time": 1716596837,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411304,
+        "num": 411304,
+        "word": "小学生裤子掉了跳绳拿第一",
+        "onboard_time": 1716595878,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929660,
+        "num": 410145,
+        "word": "杨幂戛纳生图",
+        "onboard_time": 1716596716,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 773965,
+        "num": 385304,
+        "word": "那英真的摇人了",
+        "onboard_time": 1716563602,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 877775,
+        "num": 373839,
+        "word": "不愧是国际章",
+        "onboard_time": 1716596899,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78061,
+        "num": 365153,
+        "word": "成都大爷大妈才是反PUA大使",
+        "onboard_time": 1716597738,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568201,
+        "num": 341408,
+        "word": "亚当演技",
+        "onboard_time": 1716595878,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556289,
+        "num": 336359,
+        "word": "刘强东称业绩差且不拼搏不是兄弟",
+        "onboard_time": 1716594436,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 322043,
+        "num": 322043,
+        "word": "Faouzia回应又得第一",
+        "onboard_time": 1716595097,
+        "rank": 12,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 492282,
+        "num": 283085,
+        "word": "章子怡戛纳红毯",
+        "onboard_time": 1716593355,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 437882,
+        "num": 282922,
+        "word": "蔡依林 我们中国南昌最热情了",
+        "onboard_time": 1716558927,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 361593,
+        "num": 265506,
+        "word": "基地就福宝被偷拍报警",
+        "onboard_time": 1716596417,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243367,
+        "num": 243367,
+        "word": "国旗军旗与宝岛中央山脉同框",
+        "onboard_time": 1716563542,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234665,
+        "num": 234665,
+        "word": "年轻人为什么不爱去商场买衣服了",
+        "onboard_time": 1716555443,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192326,
+        "num": 192326,
+        "word": "福宝非展区现状",
+        "onboard_time": 1716558393,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183112,
+        "num": 192006,
+        "word": "一对夫妻疑被人10万元卖到缅甸",
+        "onboard_time": 1716555625,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499206,
+        "num": 191807,
+        "word": "岳父母连续寄海鲜3个月小伙崩溃退群",
+        "onboard_time": 1716592995,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377908,
+        "num": 191395,
+        "word": "亚当 限时投票",
+        "onboard_time": 1716552923,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346649,
+        "num": 190833,
+        "word": "胖猫案细节公布",
+        "onboard_time": 1716560007,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 305024,
+        "num": 190328,
+        "word": "伤肝又致癌甜饮料堪比伤肝水",
+        "onboard_time": 1716591853,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289198,
+        "num": 189947,
+        "word": "尤长靖 今晚听哭了一个耳机",
+        "onboard_time": 1716594256,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255322,
+        "num": 189583,
+        "word": "和刘亦菲搭戏 笑容不像演的",
+        "onboard_time": 1716597858,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236791,
+        "num": 189177,
+        "word": "杨幂戛纳造型",
+        "onboard_time": 1716562462,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233728,
+        "num": 188595,
+        "word": "亚当把那英放在第一名",
+        "onboard_time": 1716566481,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223882,
+        "num": 188272,
+        "word": "为什么上班后越来越胖了",
+        "onboard_time": 1716594436,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 213050,
+        "num": 187778,
+        "word": "黄宣 哈克南最后的表舅",
+        "onboard_time": 1716597437,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187398,
+        "num": 187398,
+        "word": "歌手排名",
+        "onboard_time": 1716559647,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186398,
+        "num": 186398,
+        "word": "张杰夸歌手外国女歌手唱得好",
+        "onboard_time": 1716599658,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186078,
+        "num": 186078,
+        "word": "李现戛纳红毯首秀",
+        "onboard_time": 1716596899,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173099,
+        "num": 173099,
+        "word": "班主任惩罚学生用影子模仿青蛙",
+        "onboard_time": 1716599658,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163049,
+        "num": 163049,
+        "word": "逆水寒ive",
+        "onboard_time": 1716595638,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185758,
+        "num": 162320,
+        "word": "吴镇宇 我向黑粉借厕纸",
+        "onboard_time": 1716591914,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176996,
+        "num": 162239,
+        "word": "汪苏泷第六名",
+        "onboard_time": 1716594736,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171054,
+        "num": 161887,
+        "word": "阿信 我们中国人",
+        "onboard_time": 1716554123,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161061,
+        "num": 161061,
+        "word": "珠峰又现拥堵亲历者称有人坠崖",
+        "onboard_time": 1716597198,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157527,
+        "num": 157527,
+        "word": "台湾花莲海域4.4级地震",
+        "onboard_time": 1716595158,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140041,
+        "num": 140041,
+        "word": "酱园弄戛纳红毯亮相",
+        "onboard_time": 1716593656,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134608,
+        "num": 134608,
+        "word": "歌手直播",
+        "onboard_time": 1716550999,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127943,
+        "num": 127943,
+        "word": "就不能是王菲吗",
+        "onboard_time": 1716564262,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114501,
+        "num": 125575,
+        "word": "海警此次演练包含登检台湾船只",
+        "onboard_time": 1716561385,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124301,
+        "num": 124301,
+        "word": "mlxg一句不够强队友全红温",
+        "onboard_time": 1716599658,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115413,
+        "num": 115413,
+        "word": "张若昀每天晚上好忙啊",
+        "onboard_time": 1716591794,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112885,
+        "num": 112885,
+        "word": "TES和BLG参加沙特电竞杯",
+        "onboard_time": 1716596117,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111640,
+        "num": 111640,
+        "word": "东部战区发了一把剑",
+        "onboard_time": 1716554603,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100483,
+        "num": 100483,
+        "word": "Faker阿狸名人堂皮肤",
+        "onboard_time": 1716598999,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92754,
+        "num": 99944,
+        "word": "金毛被锦鲤咬了",
+        "onboard_time": 1716592754,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#以进一步全面深化改革为动力#"
+    }
+  }
+}
