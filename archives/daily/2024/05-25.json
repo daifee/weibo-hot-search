@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716646624821,
+  "endTime": 1716647639839,
   "band_list": [
     {
       "raw_hot": 2584147,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 662406,
+      "num": 216258,
+      "word": "舍友因为不吃饭瘦了11斤",
+      "onboard_time": 1716644541,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 660192,
       "num": 591853,
       "word": "父亲称13岁女儿遭男同学猥亵",
@@ -507,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 605193,
+      "num": 421002,
+      "word": "林俊杰嘉宾胡彦斌",
+      "onboard_time": 1716645862,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 602141,
       "num": 363285,
       "word": "韩国邻居把我门口的福字撕了",
@@ -521,14 +537,6 @@
       "onboard_time": 1716550999,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 585993,
-      "num": 216258,
-      "word": "舍友因为不吃饭瘦了11斤",
-      "onboard_time": 1716644541,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 585418,
@@ -723,6 +731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 479831,
+      "num": 387592,
+      "word": "庆余年 春闱放榜",
+      "onboard_time": 1716645441,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476629,
       "num": 1030410,
       "word": "福宝与大家见面的日子越来越近啦",
@@ -811,20 +827,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 417481,
-      "num": 387592,
-      "word": "庆余年 春闱放榜",
-      "onboard_time": 1716645441,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 410472,
-      "num": 217627,
-      "word": "林俊杰嘉宾胡彦斌",
-      "onboard_time": 1716645862,
-      "rank": 20,
-      "category": "演出"
+      "raw_hot": 421656,
+      "num": 191376,
+      "word": "赵丽颖真的很喜欢橙色耳环",
+      "onboard_time": 1716647000,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 407811,
@@ -1019,6 +1027,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 324678,
+      "num": 324678,
+      "word": "房价下跌对普通人意味着什么",
+      "onboard_time": 1716633260,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322043,
       "num": 322043,
       "word": "Faouzia回应又得第一",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1716606618,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 318196,
+      "num": 193688,
+      "word": "你好星期六下期有罗云熙宋轶",
+      "onboard_time": 1716646700,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 316941,
@@ -1155,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275707,
+      "num": 208437,
+      "word": "张若昀鞠婧祎曾合作过九州天空城",
+      "onboard_time": 1716645499,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275526,
       "num": 275526,
       "word": "我爱我",
@@ -1169,14 +1201,6 @@
       "onboard_time": 1716613879,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273866,
-      "num": 273866,
-      "word": "房价下跌对普通人意味着什么",
-      "onboard_time": 1716633260,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268588,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1716599658,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 259258,
-      "num": 208437,
-      "word": "张若昀鞠婧祎曾合作过九州天空城",
-      "onboard_time": 1716645499,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 258900,
@@ -1284,7 +1300,7 @@
     },
     {
       "raw_hot": 251310,
-      "num": 155345,
+      "num": 171864,
       "word": "陈丽君争气",
       "onboard_time": 1716643100,
       "rank": 40,
@@ -1603,6 +1619,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201299,
+      "num": 219241,
+      "word": "本以为是霸总结果是颠公",
+      "onboard_time": 1716643100,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 201230,
+      "num": 201230,
+      "word": "山东泰山",
+      "onboard_time": 1716645620,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200168,
       "num": 200168,
       "word": "帅爸美妈和有鼻子有眼的阿尼亚",
@@ -1707,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188457,
+      "num": 188457,
+      "word": "警方回应女子虐猫后合影拍照",
+      "onboard_time": 1716646640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188003,
       "num": 199800,
       "word": "大学十块钱的饭和十块钱的水果",
@@ -1784,14 +1824,6 @@
       "word": "人民币为什么没有大面额钞票",
       "onboard_time": 1716630920,
       "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 184612,
-      "num": 219241,
-      "word": "本以为是霸总结果是颠公",
-      "onboard_time": 1716643100,
-      "rank": 39,
       "category": "幽默"
     },
     {
@@ -1915,6 +1947,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171252,
+      "num": 171252,
+      "word": "你会入职午休只有1小时的公司吗",
+      "onboard_time": 1716645081,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 170761,
+      "num": 170761,
+      "word": "坐地铁千万不要靠这里",
+      "onboard_time": 1716643459,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169964,
       "num": 169964,
       "word": "独行侠2比0森林狼",
@@ -1945,14 +1993,6 @@
       "onboard_time": 1716628158,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168226,
-      "num": 168226,
-      "word": "坐地铁千万不要靠这里",
-      "onboard_time": 1716643459,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 167021,
@@ -2123,6 +2163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153823,
+      "num": 153823,
+      "word": "江西一煤矿发生事故3人遇难",
+      "onboard_time": 1716646220,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153765,
       "num": 153765,
       "word": "没过520可以过525",
@@ -2147,12 +2195,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151682,
+      "num": 146130,
+      "word": "章子怡戛纳度假风造型",
+      "onboard_time": 1716644121,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151667,
       "num": 151667,
       "word": "下雨天 难听",
       "onboard_time": 1716531020,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151395,
+      "num": 145554,
+      "word": "刘忻直播",
+      "onboard_time": 1716647601,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 151258,
@@ -2185,14 +2249,6 @@
       "onboard_time": 1716566361,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 148772,
-      "num": 148772,
-      "word": "山东泰山",
-      "onboard_time": 1716645620,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 147845,
@@ -2235,19 +2291,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146553,
-      "num": 146553,
-      "word": "你会入职午休只有1小时的公司吗",
-      "onboard_time": 1716645081,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145889,
       "num": 253887,
       "word": "她说当时很害怕但不能不救",
       "onboard_time": 1716565062,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144952,
+      "num": 144952,
+      "word": "旅客胸背部藏987.4克穿山甲鳞片被查",
+      "onboard_time": 1716647480,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2403,14 +2459,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 127767,
-      "num": 146538,
-      "word": "江西一煤矿发生事故3人遇难",
-      "onboard_time": 1716646220,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126935,
       "num": 126935,
       "word": "范闲不是神但也爱世人",
@@ -2513,6 +2561,14 @@
       "onboard_time": 1716622397,
       "rank": 45,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 115966,
+      "num": 115966,
+      "word": "曼城vs曼联",
+      "onboard_time": 1716647601,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 115790,
@@ -2828,7 +2884,7 @@
     },
     {
       "raw_hot": 62453,
-      "num": 400985,
+      "num": 448490,
       "word": "拦警车救人的5名少年找到了",
       "onboard_time": 1716644600,
       "rank": 9,
@@ -2883,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52231,
+      "num": 1027421,
+      "word": "透过数据看数字经济发展势能",
+      "onboard_time": 1716644360,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52023,
       "num": 1171056,
       "word": "在文博会遇见东方韵味",
@@ -2897,14 +2961,6 @@
       "onboard_time": 1716617178,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50067,
-      "num": 1027421,
-      "word": "透过数据看数字经济发展势能",
-      "onboard_time": 1716644360,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49593,
