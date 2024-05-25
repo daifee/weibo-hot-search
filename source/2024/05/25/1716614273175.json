@@ -1,0 +1,410 @@
+{
+  "runTime": 1716614273175,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2521034,
+        "num": 2521034,
+        "word": "台湾艺人纷纷表态支持祖国统一",
+        "onboard_time": 1716609438,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1113736,
+        "num": 1113736,
+        "word": "真的建议大家考北京大学",
+        "onboard_time": 1716607818,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2326,
+        "num": 625586,
+        "word": "体验数字里的衣食住行",
+        "onboard_time": 1716549739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219391,
+        "num": 623652,
+        "word": "黄宣淘汰了 就位主持人",
+        "onboard_time": 1716609619,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614674,
+        "num": 614674,
+        "word": "中国台湾省",
+        "onboard_time": 1716539539,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 480421,
+        "num": 480421,
+        "word": "您的快递正在坐摇摇车",
+        "onboard_time": 1716608418,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 928043,
+        "num": 479489,
+        "word": "亚当回国了",
+        "onboard_time": 1716599959,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 819723,
+        "num": 478984,
+        "word": "迪丽热巴黄金色高定",
+        "onboard_time": 1716612679,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 478235,
+        "num": 478235,
+        "word": "无意间点开了老婆的备忘录",
+        "onboard_time": 1716602899,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68829,
+        "num": 460564,
+        "word": "上完5000元视频剪辑课发现被骗",
+        "onboard_time": 1716613219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459302,
+        "num": 459302,
+        "word": "林俊杰别开店了43岁正是闯的时候",
+        "onboard_time": 1716609978,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464040,
+        "num": 453980,
+        "word": "亚当 上一休六",
+        "onboard_time": 1716612138,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437057,
+        "num": 437057,
+        "word": "逆水寒手游致歉",
+        "onboard_time": 1716613758,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 405735,
+        "num": 405735,
+        "word": "东部战区称熊孩子定会感恩父母",
+        "onboard_time": 1716610159,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347510,
+        "num": 347510,
+        "word": "演出经纪人考试",
+        "onboard_time": 1716611058,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336531,
+        "num": 336531,
+        "word": "戛纳为章子怡清场",
+        "onboard_time": 1716609438,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333908,
+        "num": 333908,
+        "word": "马斯克裁员裁到大动脉",
+        "onboard_time": 1716604398,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 327131,
+        "num": 327131,
+        "word": "王心凌 我是中华民族的一份子",
+        "onboard_time": 1716594436,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257383,
+        "num": 257383,
+        "word": "甲状腺不好全身都被牵连",
+        "onboard_time": 1716606559,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178324,
+        "num": 178324,
+        "word": "吴艳妮100米栏世界排名创新高",
+        "onboard_time": 1716604999,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559362,
+        "num": 178264,
+        "word": "为什么小肚子会有一条痕",
+        "onboard_time": 1716609800,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321935,
+        "num": 178122,
+        "word": "奔跑吧AI换脸",
+        "onboard_time": 1716606440,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317370,
+        "num": 177969,
+        "word": "杨幂戛纳生图",
+        "onboard_time": 1716596716,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279326,
+        "num": 177836,
+        "word": "亚当放海",
+        "onboard_time": 1716610218,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268588,
+        "num": 177662,
+        "word": "原来有些酒店房卡是可以拿走的",
+        "onboard_time": 1716610279,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256979,
+        "num": 177458,
+        "word": "王力宏 火力全开",
+        "onboard_time": 1716602419,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217872,
+        "num": 177208,
+        "word": "蔡依林 我们中国南昌最热情了",
+        "onboard_time": 1716558927,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212318,
+        "num": 177156,
+        "word": "古茗活动崩了",
+        "onboard_time": 1716612559,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194958,
+        "num": 176945,
+        "word": "赵丽颖孙千再合作",
+        "onboard_time": 1716613879,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193281,
+        "num": 176822,
+        "word": "张予曦腿环",
+        "onboard_time": 1716603738,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205297,
+        "num": 176630,
+        "word": "台青年称只有解放军可以保护台湾",
+        "onboard_time": 1716613579,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189330,
+        "num": 176416,
+        "word": "那英真的摇人了",
+        "onboard_time": 1716563602,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176398,
+        "num": 176398,
+        "word": "五十公里桃花坞4开播",
+        "onboard_time": 1716611179,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171715,
+        "num": 171715,
+        "word": "古茗口令",
+        "onboard_time": 1716608837,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165994,
+        "num": 165994,
+        "word": "庆余年2",
+        "onboard_time": 1716608958,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158896,
+        "num": 158896,
+        "word": "小学生痴迷烟卡商家趁机卖香烟",
+        "onboard_time": 1716606199,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137457,
+        "num": 137457,
+        "word": "狐妖月红篇半是蜜糖半是伤",
+        "onboard_time": 1716612498,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134495,
+        "num": 134495,
+        "word": "女子购物偷手机慌得把7.5元付成75",
+        "onboard_time": 1716603259,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125654,
+        "num": 125654,
+        "word": "想去台湾旅游了",
+        "onboard_time": 1716610938,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 32641,
+        "num": 124188,
+        "word": "古茗员工精神状态",
+        "onboard_time": 1716613399,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123183,
+        "num": 123183,
+        "word": "梁靖崑11比0",
+        "onboard_time": 1716609978,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121639,
+        "num": 121639,
+        "word": "乡镇医院精神科快被中学生挤满了",
+        "onboard_time": 1716602659,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113916,
+        "num": 113916,
+        "word": "福宝",
+        "onboard_time": 1716596837,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112865,
+        "num": 112865,
+        "word": "小羊居然能撅这么高的嘴啊",
+        "onboard_time": 1716608477,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112259,
+        "num": 112259,
+        "word": "范闲不走后门不留后路",
+        "onboard_time": 1716608718,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108006,
+        "num": 108006,
+        "word": "台湾当归也必然回归",
+        "onboard_time": 1716606618,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107039,
+        "num": 107039,
+        "word": "歌手 演员请就位",
+        "onboard_time": 1716607759,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106421,
+        "num": 106421,
+        "word": "乘风三公",
+        "onboard_time": 1716614239,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102502,
+        "num": 102502,
+        "word": "黄宣表情包",
+        "onboard_time": 1716612078,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21061,
+        "num": 101711,
+        "word": "古茗抽奖送手机被拒收三次",
+        "onboard_time": 1716613159,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记山东行#"
+    }
+  }
+}

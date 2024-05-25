@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716611801680,
+  "endTime": 1716614273175,
   "band_list": [
     {
       "raw_hot": 2538169,
@@ -67,12 +67,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1171639,
+      "raw_hot": 1219391,
       "num": 1171639,
       "word": "黄宣淘汰了 就位主持人",
       "onboard_time": 1716609619,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1113736,
+      "num": 1113736,
+      "word": "真的建议大家考北京大学",
+      "onboard_time": 1716607818,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 1074389,
@@ -131,12 +139,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 830928,
-      "num": 237646,
-      "word": "真的建议大家考北京大学",
-      "onboard_time": 1716607818,
-      "rank": 42,
-      "category": "教育"
+      "raw_hot": 819723,
+      "num": 478984,
+      "word": "迪丽热巴黄金色高定",
+      "onboard_time": 1716612679,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 733318,
@@ -259,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 559362,
+      "num": 235775,
+      "word": "为什么小肚子会有一条痕",
+      "onboard_time": 1716609800,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 556289,
       "num": 336359,
       "word": "刘强东称业绩差且不拼搏不是兄弟",
@@ -315,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480421,
+      "num": 480421,
+      "word": "您的快递正在坐摇摇车",
+      "onboard_time": 1716608418,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 468482,
       "num": 442622,
       "word": "你好星期六全员狐狸面具",
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 467109,
-      "num": 237545,
+      "num": 257383,
       "word": "甲状腺不好全身都被牵连",
       "onboard_time": 1716606559,
       "rank": 26,
@@ -339,12 +363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463714,
-      "num": 235775,
-      "word": "为什么小肚子会有一条痕",
-      "onboard_time": 1716609800,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 464040,
+      "num": 453980,
+      "word": "亚当 上一休六",
+      "onboard_time": 1716612138,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 459302,
+      "num": 459302,
+      "word": "林俊杰别开店了43岁正是闯的时候",
+      "onboard_time": 1716609978,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 440515,
@@ -355,12 +387,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 437057,
+      "num": 437057,
+      "word": "逆水寒手游致歉",
+      "onboard_time": 1716613758,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 435477,
       "num": 399827,
       "word": "喂 我老那",
       "onboard_time": 1716602299,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405735,
+      "num": 405735,
+      "word": "东部战区称熊孩子定会感恩父母",
+      "onboard_time": 1716610159,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 387585,
@@ -427,20 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334353,
-      "num": 334353,
-      "word": "林俊杰别开店了43岁正是闯的时候",
-      "onboard_time": 1716609978,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 326283,
-      "num": 317406,
-      "word": "您的快递正在坐摇摇车",
-      "onboard_time": 1716608418,
+      "raw_hot": 347510,
+      "num": 347510,
+      "word": "演出经纪人考试",
+      "onboard_time": 1716611058,
       "rank": 19,
-      "category": "幽默"
+      "category": "教育"
     },
     {
       "raw_hot": 322043,
@@ -547,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268588,
+      "num": 214007,
+      "word": "原来有些酒店房卡是可以拿走的",
+      "onboard_time": 1716610279,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267714,
       "num": 162320,
       "word": "吴镇宇 我向黑粉借厕纸",
@@ -627,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234830,
-      "num": 234830,
-      "word": "演出经纪人考试",
-      "onboard_time": 1716611058,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 230407,
       "num": 202544,
       "word": "章子怡项链上写着醒醒",
@@ -675,14 +715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214007,
-      "num": 214007,
-      "word": "原来有些酒店房卡是可以拿走的",
-      "onboard_time": 1716610279,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 213050,
       "num": 187778,
       "word": "黄宣 哈克南最后的表舅",
@@ -697,6 +729,14 @@
       "onboard_time": 1716566240,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212318,
+      "num": 177156,
+      "word": "古茗活动崩了",
+      "onboard_time": 1716612559,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 212300,
@@ -731,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205297,
+      "num": 176630,
+      "word": "台青年称只有解放军可以保护台湾",
+      "onboard_time": 1716613579,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 203975,
       "num": 223830,
       "word": "爱德华兹致命失误",
@@ -747,12 +795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197473,
-      "num": 197473,
-      "word": "东部战区称熊孩子定会感恩父母",
-      "onboard_time": 1716610159,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 194958,
+      "num": 176945,
+      "word": "赵丽颖孙千再合作",
+      "onboard_time": 1716613879,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 192230,
@@ -1051,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137457,
+      "num": 137457,
+      "word": "狐妖月红篇半是蜜糖半是伤",
+      "onboard_time": 1716612498,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136617,
       "num": 136617,
       "word": "台独在哪火力套餐就送到哪",
@@ -1187,12 +1243,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106421,
+      "num": 106421,
+      "word": "乘风三公",
+      "onboard_time": 1716614239,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103513,
       "num": 243836,
       "word": "女生称遭男孩偷拍争执视频被传黄网",
       "onboard_time": 1716555144,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102502,
+      "num": 102502,
+      "word": "黄宣表情包",
+      "onboard_time": 1716612078,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 100483,
@@ -1273,6 +1345,14 @@
       "onboard_time": 1716557128,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 68829,
+      "num": 460564,
+      "word": "上完5000元视频剪辑课发现被骗",
+      "onboard_time": 1716613219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64855,
@@ -1363,6 +1443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32641,
+      "num": 124188,
+      "word": "古茗员工精神状态",
+      "onboard_time": 1716613399,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 30435,
       "num": 27541,
       "word": "田嘉瑞在开心麻花待了三年",
@@ -1427,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21061,
+      "num": 101711,
+      "word": "古茗抽奖送手机被拒收三次",
+      "onboard_time": 1716613159,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 20317,
       "num": 317438,
       "word": "清华小哥分享高三逆袭秘籍",
@@ -1457,6 +1553,9 @@
     },
     {
       "word": "#以进一步全面深化改革为动力#"
+    },
+    {
+      "word": "#习近平总书记山东行#"
     }
   ]
 }
