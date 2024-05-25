@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716643136819,
+  "endTime": 1716644121042,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2000896,
+      "num": 2000896,
+      "word": "陈奕迅含泪致歉",
+      "onboard_time": 1716640039,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1995910,
       "num": 1995910,
       "word": "马龙退赛",
@@ -521,14 +529,6 @@
       "onboard_time": 1716435078,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1816721,
-      "num": 957965,
-      "word": "陈奕迅含泪致歉",
-      "onboard_time": 1716640039,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 1807466,
@@ -1867,6 +1867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 884489,
+      "num": 884489,
+      "word": "癌症来前1年身体会发生8种变化",
+      "onboard_time": 1716640459,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 877795,
       "num": 877795,
       "word": "法国人都要来中国买LV",
@@ -2467,6 +2475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 742792,
+      "num": 742792,
+      "word": "原来朋友圈很多官宣照是这么来的",
+      "onboard_time": 1716639498,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 739665,
       "num": 739665,
       "word": "跑男总导演等孟子义航班一整晚",
@@ -2819,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 683189,
+      "num": 683189,
+      "word": "你身边有疑似重生的人吗",
+      "onboard_time": 1716639260,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 679343,
       "num": 563664,
       "word": "普京签令允许用美在俄资产补偿俄方损失",
@@ -2955,14 +2979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 656062,
-      "num": 656062,
-      "word": "你身边有疑似重生的人吗",
-      "onboard_time": 1716639260,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 656052,
       "num": 656052,
       "word": "新加坡航空一客机紧急迫降曼谷机场",
@@ -3073,14 +3089,6 @@
       "onboard_time": 1716377297,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 641313,
-      "num": 641313,
-      "word": "原来朋友圈很多官宣照是这么来的",
-      "onboard_time": 1716639498,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 640150,
@@ -3689,14 +3697,6 @@
       "onboard_time": 1716607038,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 563308,
-      "num": 563308,
-      "word": "癌症来前1年身体会发生8种变化",
-      "onboard_time": 1716640459,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 561544,
@@ -4353,6 +4353,14 @@
       "onboard_time": 1716203299,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486060,
+      "num": 486060,
+      "word": "日本昔日童星因杀人焚尸被捕",
+      "onboard_time": 1716641840,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 485848,
@@ -5057,6 +5065,14 @@
       "onboard_time": 1716262399,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 427771,
+      "num": 317096,
+      "word": "中国人吃掉全世界70%的西瓜",
+      "onboard_time": 1716640159,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427738,
@@ -5769,14 +5785,6 @@
       "onboard_time": 1716633679,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 374685,
-      "num": 374685,
-      "word": "日本昔日童星因杀人焚尸被捕",
-      "onboard_time": 1716641840,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 374603,
@@ -6777,14 +6785,6 @@
       "onboard_time": 1716170419,
       "rank": 29,
       "category": "互联网,作品衍生"
-    },
-    {
-      "raw_hot": 317096,
-      "num": 317096,
-      "word": "中国人吃掉全世界70%的西瓜",
-      "onboard_time": 1716640159,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317010,
@@ -7955,6 +7955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261462,
+      "num": 156143,
+      "word": "井柏然不太方便",
+      "onboard_time": 1716643700,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 261281,
       "num": 261281,
       "word": "狂飙兄弟再返连云港拿鬼秤事件结果",
@@ -8225,6 +8233,14 @@
       "onboard_time": 1716093917,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251310,
+      "num": 155345,
+      "word": "陈丽君争气",
+      "onboard_time": 1716643100,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 251147,
@@ -8691,6 +8707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 235442,
+      "num": 231478,
+      "word": "罪臣范闲下次还敢",
+      "onboard_time": 1716640519,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235354,
       "num": 235354,
       "word": "宋亚轩被错认成鹿晗",
@@ -8825,14 +8849,6 @@
       "onboard_time": 1716111797,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231478,
-      "num": 231478,
-      "word": "罪臣范闲下次还敢",
-      "onboard_time": 1716640519,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 231443,
@@ -9305,6 +9321,14 @@
       "onboard_time": 1716188059,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218074,
+      "num": 152561,
+      "word": "杨幂酱园弄发布会发言",
+      "onboard_time": 1716643221,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 217804,
@@ -12755,6 +12779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162660,
+      "num": 162660,
+      "word": "本以为是霸总结果是颠公",
+      "onboard_time": 1716643100,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162508,
       "num": 162508,
       "word": "狐妖月红篇涂山三姐妹海报",
@@ -14035,6 +14067,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 146642,
+      "num": 146642,
+      "word": "坐地铁千万不要靠这里",
+      "onboard_time": 1716643459,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146625,
       "num": 172223,
       "word": "留学生半个小时做三道菜",
@@ -14585,14 +14625,6 @@
       "onboard_time": 1716099857,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139624,
-      "num": 139624,
-      "word": "陈丽君争气",
-      "onboard_time": 1716643100,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 139613,
@@ -15881,14 +15913,6 @@
       "onboard_time": 1716172698,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 122896,
-      "num": 140543,
-      "word": "本以为是霸总结果是颠公",
-      "onboard_time": 1716643100,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 122853,
@@ -19683,6 +19707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19379,
+      "num": 935765,
+      "word": "三夏时节感受丰收之美",
+      "onboard_time": 1716643640,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19184,
       "num": 90027,
       "word": "用色卡的方式打开文物",
@@ -19713,6 +19745,14 @@
       "onboard_time": 1716617839,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18536,
+      "num": 686978,
+      "word": "82岁外婆跨省去见失散66年的闺蜜",
+      "onboard_time": 1716635658,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17985,
@@ -19872,14 +19912,6 @@
       "word": "为新生鸟宝宝命名",
       "onboard_time": 1716323590,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11760,
-      "num": 185442,
-      "word": "82岁外婆跨省去见失散66年的闺蜜",
-      "onboard_time": 1716635658,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
