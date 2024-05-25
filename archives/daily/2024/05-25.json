@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716618344670,
+  "endTime": 1716619070497,
   "band_list": [
     {
       "raw_hot": 2538169,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 942141,
+      "num": 464917,
+      "word": "Angelababy布朗族簪花造型",
+      "onboard_time": 1716615799,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 939685,
       "num": 939685,
       "word": "无意间点开了老婆的备忘录",
@@ -139,8 +147,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 895406,
-      "num": 895406,
+      "raw_hot": 896589,
+      "num": 896589,
       "word": "台湾",
       "onboard_time": 1716615738,
       "rank": 3,
@@ -161,14 +169,6 @@
       "onboard_time": 1716612679,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 780571,
-      "num": 464917,
-      "word": "Angelababy布朗族簪花造型",
-      "onboard_time": 1716615799,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 733318,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386680,
+      "num": 386680,
+      "word": "谷爱凌一周写15篇文章",
+      "onboard_time": 1716614600,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386481,
       "num": 241130,
       "word": "李现帮杨幂拍照",
@@ -497,14 +505,6 @@
       "onboard_time": 1716614778,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368565,
-      "num": 368565,
-      "word": "谷爱凌一周写15篇文章",
-      "onboard_time": 1716614600,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 361593,
@@ -587,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 312932,
+      "num": 222557,
+      "word": "芒果格局",
+      "onboard_time": 1716618257,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306809,
       "num": 306809,
       "word": "古茗口令",
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305715,
+      "num": 223002,
+      "word": "陈赫郑恺哭了",
+      "onboard_time": 1716617178,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303349,
       "num": 289646,
       "word": "国旗军旗与宝岛中央山脉同框",
@@ -611,12 +627,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 301092,
-      "num": 223002,
-      "word": "陈赫郑恺哭了",
-      "onboard_time": 1716617178,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 302319,
+      "num": 218867,
+      "word": "庆余年春闱剧情开始神了",
+      "onboard_time": 1716614899,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 299637,
@@ -659,12 +675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279266,
-      "num": 218867,
-      "word": "庆余年春闱剧情开始神了",
-      "onboard_time": 1716614899,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 285384,
+      "num": 285384,
+      "word": "年轻人为什么花钱上自习",
+      "onboard_time": 1716615678,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 275526,
@@ -755,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247759,
+      "num": 217359,
+      "word": "李现经纪人牵完李现牵杨幂",
+      "onboard_time": 1716618618,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 246471,
       "num": 246471,
       "word": "赵丽颖今年第二次杀青",
@@ -793,14 +817,6 @@
       "onboard_time": 1716609978,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226090,
-      "num": 226090,
-      "word": "年轻人为什么花钱上自习",
-      "onboard_time": 1716615678,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 223882,
@@ -915,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201985,
+      "num": 201985,
+      "word": "蒯曼陈熠3比1陈梦王曼昱",
+      "onboard_time": 1716618499,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198541,
       "num": 109407,
       "word": "剧组说贺军翔这两天没戏要拍",
@@ -1003,8 +1027,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177627,
-      "num": 177627,
+      "raw_hot": 177893,
+      "num": 177893,
       "word": "鹿晗在邓超陈赫之间自闭",
       "onboard_time": 1716615618,
       "rank": 31,
@@ -1123,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157486,
+      "num": 157486,
+      "word": "丫丫吃窝窝头一脸认真",
+      "onboard_time": 1716617658,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156853,
       "num": 254053,
       "word": "爷爷爸爸去世奶奶不知情录视频呼唤",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1716591853,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153765,
+      "num": 153765,
+      "word": "没过520可以过525",
+      "onboard_time": 1716617418,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 152741,
@@ -1203,6 +1243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146838,
+      "num": 146838,
+      "word": "小警犬元宝在考试中得了最后一名",
+      "onboard_time": 1716615138,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146750,
       "num": 132484,
       "word": "那英唯一主演的剧",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1716603379,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142104,
+      "num": 142104,
+      "word": "张凌赫能不能不要舔嘴唇了",
+      "onboard_time": 1716618918,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140041,
@@ -1259,14 +1315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136695,
-      "num": 136695,
-      "word": "小警犬元宝在考试中得了最后一名",
-      "onboard_time": 1716615138,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136617,
       "num": 136617,
       "word": "台独在哪火力套餐就送到哪",
@@ -1281,14 +1329,6 @@
       "onboard_time": 1716600018,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132486,
-      "num": 132486,
-      "word": "没过520可以过525",
-      "onboard_time": 1716617418,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 132478,
@@ -1339,27 +1379,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126870,
-      "num": 126870,
-      "word": "芒果格局",
-      "onboard_time": 1716618257,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124436,
       "num": 460564,
       "word": "上完5000元视频剪辑课发现被骗",
       "onboard_time": 1716613219,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123796,
-      "num": 123796,
-      "word": "丫丫吃窝窝头一脸认真",
-      "onboard_time": 1716617658,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1612,7 +1636,7 @@
     },
     {
       "raw_hot": 51883,
-      "num": 184984,
+      "num": 289973,
       "word": "2024FE电动方程式上海站",
       "onboard_time": 1716617178,
       "rank": 28,
@@ -1691,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26017,
+      "num": 468382,
+      "word": "被这些毕业留言感动到了",
+      "onboard_time": 1716617777,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 25505,
       "num": 97445,
       "word": "这才是夏天正确打开方式",
@@ -1705,14 +1737,6 @@
       "onboard_time": 1716577092,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22740,
-      "num": 468382,
-      "word": "被这些毕业留言感动到了",
-      "onboard_time": 1716617777,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 22664,
@@ -1763,6 +1787,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 18874,
+      "num": 374633,
+      "word": "明星们是来风尚之夜团建了吗",
+      "onboard_time": 1716617839,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13431,
       "num": 17601,
       "word": "志愿者帮92岁阿婆卖枇杷",
@@ -1771,12 +1803,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 11798,
-      "num": 374633,
-      "word": "明星们是来风尚之夜团建了吗",
-      "onboard_time": 1716617839,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 10136,
+      "num": 391332,
+      "word": "改收货地址那一刻意识到毕业了",
+      "onboard_time": 1716618978,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
