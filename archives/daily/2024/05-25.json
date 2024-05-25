@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716636874779,
+  "endTime": 1716640376893,
   "band_list": [
     {
       "raw_hot": 2584147,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1670446,
-      "num": 354209,
+      "num": 582502,
       "word": "赵丽颖帮林更新澄清",
       "onboard_time": 1716625518,
       "rank": 10,
@@ -121,6 +121,14 @@
       "onboard_time": 1716634038,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1271587,
+      "num": 1271587,
+      "word": "微信置顶一个很心酸的设计",
+      "onboard_time": 1716636258,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 1249277,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 825914,
+      "num": 825914,
+      "word": "他退出TFBOYS后老了很多",
+      "onboard_time": 1716640278,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782150,
       "num": 782150,
       "word": "逆水寒已悄悄删除IVE字母",
@@ -257,6 +273,14 @@
       "onboard_time": 1716626719,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 741329,
+      "num": 741329,
+      "word": "杨幂夏晚晴",
+      "onboard_time": 1716639438,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 733318,
@@ -283,8 +307,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 721568,
-      "num": 721568,
+      "raw_hot": 722081,
+      "num": 722081,
       "word": "丁太升评亚当歌手舞台表现",
       "onboard_time": 1716635120,
       "rank": 15,
@@ -379,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 634616,
+      "num": 634616,
+      "word": "陈奕迅发文",
+      "onboard_time": 1716640039,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 625352,
       "num": 254883,
       "word": "就不能是王菲吗",
@@ -416,6 +448,14 @@
       "word": "刚存了4千被我家洗衣机知道了",
       "onboard_time": 1716621919,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 602141,
+      "num": 232422,
+      "word": "韩国邻居把我门口的福字撕了",
+      "onboard_time": 1716635839,
+      "rank": 27,
       "category": "幽默"
     },
     {
@@ -457,6 +497,14 @@
       "onboard_time": 1716595878,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566952,
+      "num": 566952,
+      "word": "陈奕迅杭州演唱会延期",
+      "onboard_time": 1716637158,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 566795,
@@ -508,7 +556,7 @@
     },
     {
       "raw_hot": 533112,
-      "num": 307856,
+      "num": 582860,
       "word": "江西赣州公交坠落9人受伤",
       "onboard_time": 1716634038,
       "rank": 14,
@@ -595,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 475684,
+      "num": 731098,
+      "word": "福宝与大家见面的日子越来越近啦",
+      "onboard_time": 1716636139,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468482,
       "num": 442622,
       "word": "你好星期六全员狐狸面具",
@@ -633,6 +689,14 @@
       "onboard_time": 1716622219,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 451353,
+      "num": 451353,
+      "word": "原来沈月是李嘉琦的嫡长闺",
+      "onboard_time": 1716638418,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 450500,
@@ -675,14 +739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 414725,
-      "num": 285324,
-      "word": "微信置顶一个很心酸的设计",
-      "onboard_time": 1716636258,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 407811,
       "num": 407811,
       "word": "李克勤没去歌手去了披哥",
@@ -723,12 +779,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 382077,
+      "num": 382077,
+      "word": "你身边有疑似重生的人吗",
+      "onboard_time": 1716639260,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 381077,
       "num": 143359,
       "word": "张若昀每天晚上好忙啊",
       "onboard_time": 1716591794,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 377642,
+      "num": 377642,
+      "word": "谁懂这声哥哥的含金量",
+      "onboard_time": 1716635239,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 374860,
@@ -763,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360924,
-      "num": 259226,
-      "word": "谁懂这声哥哥的含金量",
-      "onboard_time": 1716635239,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 358742,
       "num": 254319,
       "word": "那英唱哭了",
@@ -801,6 +865,14 @@
       "onboard_time": 1716591853,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 353770,
+      "num": 232731,
+      "word": "张若昀看得出他是公主",
+      "onboard_time": 1716636320,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 352711,
@@ -883,6 +955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 316941,
+      "num": 232302,
+      "word": "赵丽颖花期好长",
+      "onboard_time": 1716638599,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306809,
       "num": 306809,
       "word": "古茗口令",
@@ -937,6 +1017,14 @@
       "onboard_time": 1716555625,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299393,
+      "num": 232204,
+      "word": "陈奕迅含泪致歉",
+      "onboard_time": 1716640039,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 297581,
@@ -1011,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267659,
+      "num": 231877,
+      "word": "原来朋友圈很多官宣照是这么来的",
+      "onboard_time": 1716639498,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264434,
       "num": 201427,
       "word": "杨幂称狐妖小红娘妆造很多参考动漫",
@@ -1051,6 +1147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256733,
+      "num": 231733,
+      "word": "邓超扇陈赫",
+      "onboard_time": 1716638898,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256036,
       "num": 256036,
       "word": "海警此次演练包含登检台湾船只",
@@ -1073,6 +1177,14 @@
       "onboard_time": 1716555744,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250185,
+      "num": 231569,
+      "word": "周深演唱会",
+      "onboard_time": 1716639739,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 248606,
@@ -1131,20 +1243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232948,
+      "num": 232948,
+      "word": "京城大师赛",
+      "onboard_time": 1716638659,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 231443,
+      "num": 231443,
+      "word": "建议每天都很困的去验血查一下",
+      "onboard_time": 1716638478,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 230407,
       "num": 202544,
       "word": "章子怡项链上写着醒醒",
       "onboard_time": 1716603198,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 227830,
-      "num": 227830,
-      "word": "韩国邻居把我门口的福字撕了",
-      "onboard_time": 1716635839,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 226889,
@@ -1209,14 +1329,6 @@
       "onboard_time": 1716633499,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217798,
-      "num": 217798,
-      "word": "张若昀看得出他是公主",
-      "onboard_time": 1716636320,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 217789,
@@ -1324,7 +1436,7 @@
     },
     {
       "raw_hot": 206937,
-      "num": 206937,
+      "num": 232041,
       "word": "房价下跌对普通人意味着什么",
       "onboard_time": 1716633260,
       "rank": 48,
@@ -1411,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192042,
-      "num": 192042,
-      "word": "福宝与大家见面的日子越来越近啦",
-      "onboard_time": 1716636139,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191176,
       "num": 254740,
       "word": "喝奶茶为什么心脏不舒服",
@@ -1459,6 +1563,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 186410,
+      "num": 179523,
+      "word": "酱园弄戛纳PHOTOCALL",
+      "onboard_time": 1716639198,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186078,
       "num": 186078,
       "word": "李现戛纳红毯首秀",
@@ -1489,6 +1601,14 @@
       "onboard_time": 1716630920,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184374,
+      "num": 184374,
+      "word": "张大仙直播",
+      "onboard_time": 1716639739,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 184170,
@@ -1575,6 +1695,14 @@
       "num": 172929,
       "word": "阿Sa会生气男友发ok表情包",
       "onboard_time": 1716636258,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172355,
+      "num": 172355,
+      "word": "凡希亚 李蠕蠕",
+      "onboard_time": 1716640099,
       "rank": 41,
       "category": "综艺"
     },
@@ -2059,6 +2187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126935,
+      "num": 126935,
+      "word": "范闲不是神但也爱世人",
+      "onboard_time": 1716638958,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125144,
       "num": 139245,
       "word": "鸭嘴钳为何让女性感到恐惧",
@@ -2347,6 +2483,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 80844,
+      "num": 125269,
+      "word": "中国人吃掉全世界70%的西瓜",
+      "onboard_time": 1716640159,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79265,
       "num": 438664,
       "word": "杨绛晚年最后做的一件必要的事",
@@ -2393,6 +2537,14 @@
       "onboard_time": 1716557128,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 65939,
+      "num": 231918,
+      "word": "消费者体感618美妆价格比往届低",
+      "onboard_time": 1716638538,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 64855,
@@ -2451,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56142,
+      "num": 582640,
+      "word": "这是一年级仔仔最拉风的一天",
+      "onboard_time": 1716639799,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 54327,
       "num": 54327,
       "word": "朱丹周一围新合照",
@@ -2460,7 +2620,7 @@
     },
     {
       "raw_hot": 52023,
-      "num": 962824,
+      "num": 1019646,
       "word": "在文博会遇见东方韵味",
       "onboard_time": 1716628218,
       "rank": 2,
@@ -2689,6 +2849,14 @@
       "onboard_time": 1716581950,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 11871,
+      "num": 378969,
+      "word": "杨迪喊你上天猫618买好六同款",
+      "onboard_time": 1716638418,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 11760,

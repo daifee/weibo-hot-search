@@ -1,0 +1,410 @@
+{
+  "runTime": 1716640376893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1503865,
+        "num": 1503865,
+        "word": "525",
+        "onboard_time": 1716622758,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1271587,
+        "num": 1271587,
+        "word": "微信置顶一个很心酸的设计",
+        "onboard_time": 1716636258,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34716,
+        "num": 1019646,
+        "word": "在文博会遇见东方韵味",
+        "onboard_time": 1716628218,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825914,
+        "num": 825914,
+        "word": "他退出TFBOYS后老了很多",
+        "onboard_time": 1716640278,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741329,
+        "num": 741329,
+        "word": "杨幂夏晚晴",
+        "onboard_time": 1716639438,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 475684,
+        "num": 731098,
+        "word": "福宝与大家见面的日子越来越近啦",
+        "onboard_time": 1716636139,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722081,
+        "num": 722081,
+        "word": "丁太升评亚当歌手舞台表现",
+        "onboard_time": 1716635120,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634616,
+        "num": 634616,
+        "word": "陈奕迅发文",
+        "onboard_time": 1716640039,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 384692,
+        "num": 582860,
+        "word": "江西赣州公交坠落9人受伤",
+        "onboard_time": 1716634038,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56142,
+        "num": 582640,
+        "word": "这是一年级仔仔最拉风的一天",
+        "onboard_time": 1716639799,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 582502,
+        "num": 582502,
+        "word": "赵丽颖帮林更新澄清",
+        "onboard_time": 1716625518,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 566952,
+        "num": 566952,
+        "word": "陈奕迅杭州演唱会延期",
+        "onboard_time": 1716637158,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 451353,
+        "num": 451353,
+        "word": "原来沈月是李嘉琦的嫡长闺",
+        "onboard_time": 1716638418,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382077,
+        "num": 382077,
+        "word": "你身边有疑似重生的人吗",
+        "onboard_time": 1716639260,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11871,
+        "num": 378969,
+        "word": "杨迪喊你上天猫618买好六同款",
+        "onboard_time": 1716638418,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377642,
+        "num": 377642,
+        "word": "谁懂这声哥哥的含金量",
+        "onboard_time": 1716635239,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313525,
+        "num": 313525,
+        "word": "国防部说台湾是中国的台湾",
+        "onboard_time": 1716626719,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232948,
+        "num": 232948,
+        "word": "京城大师赛",
+        "onboard_time": 1716638659,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172805,
+        "num": 232929,
+        "word": "东部战区繁体字细节了",
+        "onboard_time": 1716626659,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162645,
+        "num": 232834,
+        "word": "江西一公交车冲下负一层露天平台",
+        "onboard_time": 1716631818,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353770,
+        "num": 232731,
+        "word": "张若昀看得出他是公主",
+        "onboard_time": 1716636320,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333334,
+        "num": 232634,
+        "word": "苏见信",
+        "onboard_time": 1716634578,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049525,
+        "num": 232555,
+        "word": "王传君瘦得我不敢认",
+        "onboard_time": 1716634038,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 602141,
+        "num": 232422,
+        "word": "韩国邻居把我门口的福字撕了",
+        "onboard_time": 1716635839,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 530735,
+        "num": 232343,
+        "word": "汪苏泷 走又走不了赢又赢不了",
+        "onboard_time": 1716623057,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316941,
+        "num": 232302,
+        "word": "赵丽颖花期好长",
+        "onboard_time": 1716638599,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299393,
+        "num": 232204,
+        "word": "陈奕迅含泪致歉",
+        "onboard_time": 1716640039,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282171,
+        "num": 232088,
+        "word": "被我哥的孕期清单震住了",
+        "onboard_time": 1716634759,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178407,
+        "num": 232041,
+        "word": "房价下跌对普通人意味着什么",
+        "onboard_time": 1716633260,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65939,
+        "num": 231918,
+        "word": "消费者体感618美妆价格比往届低",
+        "onboard_time": 1716638538,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 267659,
+        "num": 231877,
+        "word": "原来朋友圈很多官宣照是这么来的",
+        "onboard_time": 1716639498,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256733,
+        "num": 231733,
+        "word": "邓超扇陈赫",
+        "onboard_time": 1716638898,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152008,
+        "num": 231667,
+        "word": "台湾",
+        "onboard_time": 1716615738,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250185,
+        "num": 231569,
+        "word": "周深演唱会",
+        "onboard_time": 1716639739,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242862,
+        "num": 231454,
+        "word": "鞠婧祎照片",
+        "onboard_time": 1716630798,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231443,
+        "num": 231443,
+        "word": "建议每天都很困的去验血查一下",
+        "onboard_time": 1716638478,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199754,
+        "num": 199754,
+        "word": "杨幂称狐妖小红娘妆造很多参考动漫",
+        "onboard_time": 1716636498,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197402,
+        "num": 197402,
+        "word": "海底捞的玩具已经nextlevel了",
+        "onboard_time": 1716632300,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191410,
+        "num": 191410,
+        "word": "赵丽颖19岁时演过金婚",
+        "onboard_time": 1716636618,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184374,
+        "num": 184374,
+        "word": "张大仙直播",
+        "onboard_time": 1716639739,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186410,
+        "num": 179523,
+        "word": "酱园弄戛纳PHOTOCALL",
+        "onboard_time": 1716639198,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172355,
+        "num": 172355,
+        "word": "凡希亚 李蠕蠕",
+        "onboard_time": 1716640099,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165474,
+        "num": 165474,
+        "word": "李现经纪人牵完李现牵杨幂",
+        "onboard_time": 1716618618,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162200,
+        "num": 162200,
+        "word": "林更新回复cp粉",
+        "onboard_time": 1716616158,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139892,
+        "num": 139892,
+        "word": "被家暴16次需终身挂粪袋案当事人发声",
+        "onboard_time": 1716619638,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134261,
+        "num": 134261,
+        "word": "XYG阵容 抽象",
+        "onboard_time": 1716626539,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127186,
+        "num": 127186,
+        "word": "亚当出场歌手破1",
+        "onboard_time": 1716624978,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126935,
+        "num": 126935,
+        "word": "范闲不是神但也爱世人",
+        "onboard_time": 1716638958,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87123,
+        "num": 125437,
+        "word": "王楚钦认证山西陈醋",
+        "onboard_time": 1716636139,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80844,
+        "num": 125269,
+        "word": "中国人吃掉全世界70%的西瓜",
+        "onboard_time": 1716640159,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为山东定好位指明方向#"
+    }
+  }
+}
