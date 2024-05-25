@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716654087922,
+  "endTime": 1716655017809,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -15499,6 +15499,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 493259,
+      "num": 493259,
+      "word": "魏大勋从全内娱的瓜路过",
+      "onboard_time": 1716649522,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493098,
       "num": 493098,
       "word": "巴黎奥运孙颖莎陈梦出战女单",
@@ -16017,14 +16025,6 @@
       "onboard_time": 1715574381,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 478922,
-      "num": 478922,
-      "word": "魏大勋从全内娱的瓜路过",
-      "onboard_time": 1716649522,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 478920,
@@ -20363,6 +20363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390768,
+      "num": 197281,
+      "word": "王骁纽约州执业律师宣誓vlog",
+      "onboard_time": 1716651500,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 390757,
       "num": 390757,
       "word": "日本外卖小哥上供2000万被甩后行凶",
@@ -22556,7 +22564,7 @@
     },
     {
       "raw_hot": 349229,
-      "num": 465034,
+      "num": 478016,
       "word": "房价下跌对普通人意味着什么",
       "onboard_time": 1716633260,
       "rank": 48,
@@ -24697,6 +24705,14 @@
       "onboard_time": 1716170419,
       "rank": 29,
       "category": "互联网,作品衍生"
+    },
+    {
+      "raw_hot": 317106,
+      "num": 223336,
+      "word": "月薪三千的工作有必要上吗",
+      "onboard_time": 1716652278,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 317050,
@@ -29499,6 +29515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258242,
+      "num": 256775,
+      "word": "庆余年第21集",
+      "onboard_time": 1716651018,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258233,
       "num": 258233,
       "word": "孟子义没少看赵丽颖的剧",
@@ -29617,14 +29641,6 @@
       "onboard_time": 1715722150,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256775,
-      "num": 256775,
-      "word": "庆余年第21集",
-      "onboard_time": 1716651018,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 256733,
@@ -29808,14 +29824,6 @@
       "word": "原来榴莲是这么采摘的",
       "onboard_time": 1715662881,
       "rank": 38,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 255245,
-      "num": 197281,
-      "word": "王骁纽约州执业律师宣誓vlog",
-      "onboard_time": 1716651500,
-      "rank": 30,
       "category": "科学科普"
     },
     {
@@ -33523,6 +33531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223540,
+      "num": 270226,
+      "word": "曼城vs曼联首发",
+      "onboard_time": 1716644541,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223505,
       "num": 223505,
       "word": "董明珠体验汉服",
@@ -35035,14 +35051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213875,
-      "num": 270226,
-      "word": "曼城vs曼联首发",
-      "onboard_time": 1716644541,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213836,
       "num": 213836,
       "word": "苹果教育优惠新iPad打9折",
@@ -35873,14 +35881,6 @@
       "onboard_time": 1715660241,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 209385,
-      "num": 209385,
-      "word": "月薪三千的工作有必要上吗",
-      "onboard_time": 1716652278,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 209245,
@@ -60147,6 +60147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 116831,
+      "num": 116831,
+      "word": "infp的完美主义",
+      "onboard_time": 1716653599,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116818,
       "num": 177308,
       "word": "GEN晋级MSI决赛",
@@ -64289,14 +64297,6 @@
       "onboard_time": 1716271520,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89150,
-      "num": 106624,
-      "word": "infp的完美主义",
-      "onboard_time": 1716653599,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 89102,
@@ -68931,6 +68931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29758,
+      "num": 258328,
+      "word": "5旬派出所长翻越栏杆勇救落水少年",
+      "onboard_time": 1716651080,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29665,
       "num": 282263,
       "word": "这是更适合中国宝宝体质的女团",
@@ -69009,6 +69017,14 @@
       "onboard_time": 1715454491,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28474,
+      "num": 506483,
+      "word": "温州人把龙舟划出高铁的气势",
+      "onboard_time": 1716652939,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28119,
@@ -69481,14 +69497,6 @@
       "onboard_time": 1714764312,
       "rank": 44,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 21376,
-      "num": 506483,
-      "word": "温州人把龙舟划出高铁的气势",
-      "onboard_time": 1716652939,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21318,
@@ -70200,14 +70208,6 @@
       "word": "巡特警全副武装送外卖是咋回事",
       "onboard_time": 1715718790,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10994,
-      "num": 229875,
-      "word": "5旬派出所长翻越栏杆勇救落水少年",
-      "onboard_time": 1716651080,
-      "rank": 20,
       "category": "社会新闻"
     },
     {

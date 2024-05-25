@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716654087922,
+  "endTime": 1716655017809,
   "band_list": [
     {
       "raw_hot": 1662712,
@@ -67,8 +67,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 478922,
-      "num": 478922,
+      "raw_hot": 493259,
+      "num": 493259,
       "word": "魏大勋从全内娱的瓜路过",
       "onboard_time": 1716649522,
       "rank": 11,
@@ -81,6 +81,14 @@
       "onboard_time": 1716647601,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390768,
+      "num": 197281,
+      "word": "王骁纽约州执业律师宣誓vlog",
+      "onboard_time": 1716651500,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 364269,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 345225,
-      "num": 345225,
+      "num": 478016,
       "word": "房价下跌对普通人意味着什么",
       "onboard_time": 1716633260,
       "rank": 13,
@@ -121,6 +129,14 @@
       "onboard_time": 1716648562,
       "rank": 15,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 317106,
+      "num": 223336,
+      "word": "月薪三千的工作有必要上吗",
+      "onboard_time": 1716652278,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 310093,
@@ -163,20 +179,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 256775,
+      "raw_hot": 258242,
       "num": 256775,
       "word": "庆余年第21集",
       "onboard_time": 1716651018,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255245,
-      "num": 197281,
-      "word": "王骁纽约州执业律师宣誓vlog",
-      "onboard_time": 1716651500,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 244210,
@@ -195,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223540,
+      "num": 270226,
+      "word": "曼城vs曼联首发",
+      "onboard_time": 1716644541,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222933,
       "num": 222933,
       "word": "蔡依林演唱会",
@@ -203,12 +219,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 213875,
-      "num": 270226,
-      "word": "曼城vs曼联首发",
-      "onboard_time": 1716644541,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 220072,
+      "num": 220072,
+      "word": "王传君瘦得我不敢认",
+      "onboard_time": 1716634038,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 213574,
@@ -219,24 +235,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209385,
-      "num": 209385,
-      "word": "月薪三千的工作有必要上吗",
-      "onboard_time": 1716652278,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 186109,
-      "num": 186109,
-      "word": "王传君瘦得我不敢认",
-      "onboard_time": 1716634038,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 182851,
-      "num": 182851,
+      "raw_hot": 183119,
+      "num": 221380,
       "word": "假性亲密关系",
       "onboard_time": 1716649400,
       "rank": 32,
@@ -339,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116831,
+      "num": 116831,
+      "word": "infp的完美主义",
+      "onboard_time": 1716653599,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110599,
       "num": 110599,
       "word": "你会入职午休只有1小时的公司吗",
@@ -363,15 +371,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 89150,
-      "num": 106624,
-      "word": "infp的完美主义",
-      "onboard_time": 1716653599,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 91578,
+      "num": 100469,
+      "word": "原来沈月是李嘉琦的嫡长闺",
+      "onboard_time": 1716638418,
+      "rank": 46,
+      "category": "综艺"
     },
     {
-      "raw_hot": 77174,
+      "raw_hot": 78846,
       "num": 106619,
       "word": "原来朋友圈很多官宣照是这么来的",
       "onboard_time": 1716639498,
@@ -395,7 +403,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21376,
+      "raw_hot": 29758,
+      "num": 258328,
+      "word": "5旬派出所长翻越栏杆勇救落水少年",
+      "onboard_time": 1716651080,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28474,
       "num": 506483,
       "word": "温州人把龙舟划出高铁的气势",
       "onboard_time": 1716652939,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#习近平总书记山东行#"
+    },
+    {
+      "word": "#总书记为山东定好位指明方向#"
     }
   ]
 }
