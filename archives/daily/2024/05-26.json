@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716657491481,
+  "endTime": 1716658498337,
   "band_list": [
     {
       "raw_hot": 1662712,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227544,
+      "num": 227544,
+      "word": "邓紫棋将刷新亚洲女歌手纪录",
+      "onboard_time": 1716655157,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224437,
       "num": 224437,
       "word": "酱园弄",
@@ -241,14 +249,6 @@
       "onboard_time": 1716649400,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176796,
-      "num": 147234,
-      "word": "邓紫棋将刷新亚洲女歌手纪录",
-      "onboard_time": 1716655157,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 166960,
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106922,
+      "num": 106922,
+      "word": "手机一定要清理的四大文件",
+      "onboard_time": 1716656176,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106629,
       "num": 106629,
       "word": "李现曾拒绝酱园弄邀约",
@@ -379,12 +387,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 100985,
-      "num": 100985,
-      "word": "手机一定要清理的四大文件",
-      "onboard_time": 1716656176,
-      "rank": 36,
-      "category": "数码"
+      "raw_hot": 99125,
+      "num": 99125,
+      "word": "志愿者为何开始避雷演唱会了",
+      "onboard_time": 1716657316,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 91578,
@@ -393,14 +401,6 @@
       "onboard_time": 1716638418,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81387,
-      "num": 81387,
-      "word": "志愿者为何开始避雷演唱会了",
-      "onboard_time": 1716657316,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 78846,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 77967,
-      "num": 103138,
+      "num": 124175,
       "word": "曼联2比1曼城",
       "onboard_time": 1716655337,
       "rank": 34,
@@ -448,6 +448,14 @@
       "word": "温州人把龙舟划出高铁的气势",
       "onboard_time": 1716652939,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10354,
+      "num": 411262,
+      "word": "三夏时节感受丰收之美",
+      "onboard_time": 1716643640,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
