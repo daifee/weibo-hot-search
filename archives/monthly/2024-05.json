@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716651257767,
+  "endTime": 1716654087922,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -8692,7 +8692,7 @@
     },
     {
       "raw_hot": 744585,
-      "num": 472429,
+      "num": 576405,
       "word": "范闲洪竹",
       "onboard_time": 1716648620,
       "rank": 7,
@@ -10484,7 +10484,7 @@
     },
     {
       "raw_hot": 662406,
-      "num": 244774,
+      "num": 267729,
       "word": "舍友因为不吃饭瘦了11斤",
       "onboard_time": 1716644541,
       "rank": 21,
@@ -16019,6 +16019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 478922,
+      "num": 478922,
+      "word": "魏大勋从全内娱的瓜路过",
+      "onboard_time": 1716649522,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478920,
       "num": 478920,
       "word": "十个勤天五四晚会舞台",
@@ -20179,6 +20187,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 394744,
+      "num": 586012,
+      "word": "曼城vs曼联",
+      "onboard_time": 1716647601,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394625,
       "num": 394625,
       "word": "园方回应60余名幼儿在校群体性流血",
@@ -23912,14 +23928,6 @@
       "word": "那英跟韩红的反应真像",
       "onboard_time": 1715570179,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 328998,
-      "num": 239163,
-      "word": "魏大勋从全内娱的瓜路过",
-      "onboard_time": 1716649522,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -29611,6 +29619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256775,
+      "num": 256775,
+      "word": "庆余年第21集",
+      "onboard_time": 1716651018,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256733,
       "num": 231733,
       "word": "邓超扇陈赫",
@@ -29792,6 +29808,14 @@
       "word": "原来榴莲是这么采摘的",
       "onboard_time": 1715662881,
       "rank": 38,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 255245,
+      "num": 197281,
+      "word": "王骁纽约州执业律师宣誓vlog",
+      "onboard_time": 1716651500,
+      "rank": 30,
       "category": "科学科普"
     },
     {
@@ -30913,14 +30937,6 @@
       "onboard_time": 1714524737,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244881,
-      "num": 244881,
-      "word": "曼城vs曼联",
-      "onboard_time": 1716647601,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 244825,
@@ -35019,6 +35035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213875,
+      "num": 270226,
+      "word": "曼城vs曼联首发",
+      "onboard_time": 1716644541,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213836,
       "num": 213836,
       "word": "苹果教育优惠新iPad打9折",
@@ -35065,6 +35089,14 @@
       "onboard_time": 1715840238,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 213574,
+      "num": 213574,
+      "word": "苗苗恶补小时代被郭碧婷制止",
+      "onboard_time": 1716651920,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 213537,
@@ -35841,6 +35873,14 @@
       "onboard_time": 1715660241,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209385,
+      "num": 209385,
+      "word": "月薪三千的工作有必要上吗",
+      "onboard_time": 1716652278,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 209245,
@@ -48307,14 +48347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 162130,
-      "num": 162130,
-      "word": "庆余年第21集",
-      "onboard_time": 1716651018,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162116,
       "num": 162116,
       "word": "严浩翔演唱会跟粉丝唠了五块钱的",
@@ -48801,6 +48833,14 @@
       "onboard_time": 1716386059,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160421,
+      "num": 160421,
+      "word": "华晨宇金长发",
+      "onboard_time": 1716651920,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 160417,
@@ -63731,14 +63771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94665,
-      "num": 146497,
-      "word": "曼城vs曼联首发",
-      "onboard_time": 1716644541,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94642,
       "num": 113400,
       "word": "梅州客家vs成都蓉城",
@@ -64257,6 +64289,14 @@
       "onboard_time": 1716271520,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89150,
+      "num": 106624,
+      "word": "infp的完美主义",
+      "onboard_time": 1716653599,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 89102,
@@ -69441,6 +69481,14 @@
       "onboard_time": 1714764312,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 21376,
+      "num": 506483,
+      "word": "温州人把龙舟划出高铁的气势",
+      "onboard_time": 1716652939,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21318,
