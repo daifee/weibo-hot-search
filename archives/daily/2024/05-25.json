@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716614273175,
+  "endTime": 1716615257667,
   "band_list": [
     {
       "raw_hot": 2538169,
@@ -75,8 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1113736,
-      "num": 1113736,
+      "raw_hot": 1170658,
+      "num": 1170658,
       "word": "真的建议大家考北京大学",
       "onboard_time": 1716607818,
       "rank": 42,
@@ -139,8 +139,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 819723,
-      "num": 478984,
+      "raw_hot": 847388,
+      "num": 481601,
       "word": "迪丽热巴黄金色高定",
       "onboard_time": 1716612679,
       "rank": 7,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 578177,
+      "num": 281386,
+      "word": "为什么小肚子会有一条痕",
+      "onboard_time": 1716609800,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 568201,
       "num": 341408,
       "word": "亚当演技",
@@ -265,14 +273,6 @@
       "onboard_time": 1716607038,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 559362,
-      "num": 235775,
-      "word": "为什么小肚子会有一条痕",
-      "onboard_time": 1716609800,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 556289,
@@ -315,6 +315,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 488530,
+      "num": 453980,
+      "word": "亚当 上一休六",
+      "onboard_time": 1716612138,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 484496,
+      "num": 484496,
+      "word": "逆水寒手游致歉",
+      "onboard_time": 1716613758,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 482536,
       "num": 435577,
       "word": "张杰夸歌手外国女歌手唱得好",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 467109,
-      "num": 257383,
+      "num": 281942,
       "word": "甲状腺不好全身都被牵连",
       "onboard_time": 1716606559,
       "rank": 26,
@@ -361,14 +377,6 @@
       "onboard_time": 1716595878,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464040,
-      "num": 453980,
-      "word": "亚当 上一休六",
-      "onboard_time": 1716612138,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 459302,
@@ -387,14 +395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 437057,
-      "num": 437057,
-      "word": "逆水寒手游致歉",
-      "onboard_time": 1716613758,
-      "rank": 12,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 435477,
       "num": 399827,
       "word": "喂 我老那",
@@ -403,8 +403,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 405735,
-      "num": 405735,
+      "raw_hot": 422949,
+      "num": 422949,
       "word": "东部战区称熊孩子定会感恩父母",
       "onboard_time": 1716610159,
       "rank": 37,
@@ -459,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 356337,
+      "num": 356337,
+      "word": "林更新晒与赵丽颖拍立得",
+      "onboard_time": 1716614360,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354434,
       "num": 190328,
       "word": "伤肝又致癌甜饮料堪比伤肝水",
@@ -481,6 +489,14 @@
       "onboard_time": 1716611058,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 329539,
+      "num": 329539,
+      "word": "台青年称只有解放军可以保护台湾",
+      "onboard_time": 1716613579,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 322043,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 299637,
-      "num": 232129,
+      "num": 260347,
       "word": "亚当放海",
       "onboard_time": 1716610218,
       "rank": 24,
@@ -587,8 +603,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274022,
+      "num": 274022,
+      "word": "赵丽颖孙千再合作",
+      "onboard_time": 1716613879,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268588,
-      "num": 214007,
+      "num": 261290,
       "word": "原来有些酒店房卡是可以拿走的",
       "onboard_time": 1716610279,
       "rank": 38,
@@ -675,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234997,
+      "num": 234997,
+      "word": "陈丽君三公第一",
+      "onboard_time": 1716614778,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230407,
       "num": 202544,
       "word": "章子怡项链上写着醒醒",
@@ -713,6 +745,14 @@
       "onboard_time": 1716603678,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214294,
+      "num": 261971,
+      "word": "谷爱凌一周写15篇论文",
+      "onboard_time": 1716614600,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 213050,
@@ -763,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208799,
+      "num": 208799,
+      "word": "bangbang运镜",
+      "onboard_time": 1716614538,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207403,
       "num": 204892,
       "word": "酱园弄戛纳口碑",
@@ -771,12 +819,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205297,
-      "num": 176630,
-      "word": "台青年称只有解放军可以保护台湾",
-      "onboard_time": 1716613579,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 207000,
+      "num": 207000,
+      "word": "哈哈哈哈哈",
+      "onboard_time": 1716614958,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 203975,
@@ -787,20 +835,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203666,
+      "num": 203666,
+      "word": "乘风三公",
+      "onboard_time": 1716614239,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198541,
       "num": 109407,
       "word": "剧组说贺军翔这两天没戏要拍",
       "onboard_time": 1716587531,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194958,
-      "num": 176945,
-      "word": "赵丽颖孙千再合作",
-      "onboard_time": 1716613879,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 192230,
@@ -857,6 +905,14 @@
       "onboard_time": 1716603498,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183641,
+      "num": 183641,
+      "word": "庆余年春闱剧情开始神了",
+      "onboard_time": 1716614899,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 183457,
@@ -1059,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147845,
+      "num": 147845,
+      "word": "狐妖月红篇半是蜜糖半是伤",
+      "onboard_time": 1716612498,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147414,
       "num": 136191,
       "word": "张杰工作室偷感好强",
@@ -1099,12 +1163,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137457,
-      "num": 137457,
-      "word": "狐妖月红篇半是蜜糖半是伤",
-      "onboard_time": 1716612498,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 137859,
+      "num": 137859,
+      "word": "当我让两个班交换改选择题",
+      "onboard_time": 1716614419,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 136617,
@@ -1120,6 +1184,14 @@
       "word": "西部决赛G2",
       "onboard_time": 1716600018,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132415,
+      "num": 132415,
+      "word": "石洵瑶2比3平野美宇",
+      "onboard_time": 1716614419,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1153,6 +1225,14 @@
       "onboard_time": 1716530239,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 127763,
+      "num": 127763,
+      "word": "小警犬元宝在考试中得了最后一名",
+      "onboard_time": 1716615138,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 121275,
@@ -1193,6 +1273,14 @@
       "onboard_time": 1716561324,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114276,
+      "num": 460564,
+      "word": "上完5000元视频剪辑课发现被骗",
+      "onboard_time": 1716613219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114037,
@@ -1241,14 +1329,6 @@
       "onboard_time": 1716570736,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106421,
-      "num": 106421,
-      "word": "乘风三公",
-      "onboard_time": 1716614239,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 103513,
@@ -1347,14 +1427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68829,
-      "num": 460564,
-      "word": "上完5000元视频剪辑课发现被骗",
-      "onboard_time": 1716613219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64855,
       "num": 80561,
       "word": "微信隐藏的12个功能",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1716611478,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61150,
+      "num": 238877,
+      "word": "法国总理看浪姐祝中法友谊长存",
+      "onboard_time": 1716615198,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58410,
@@ -1435,20 +1515,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 40740,
+      "num": 281467,
+      "word": "古茗员工精神状态",
+      "onboard_time": 1716613399,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 36990,
       "num": 97496,
       "word": "怎么解决台湾问题是中国人民自己的事",
       "onboard_time": 1716537678,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32641,
-      "num": 124188,
-      "word": "古茗员工精神状态",
-      "onboard_time": 1716613399,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 30435,
@@ -1468,7 +1548,7 @@
     },
     {
       "raw_hot": 26792,
-      "num": 876192,
+      "num": 1036374,
       "word": "体验数字里的衣食住行",
       "onboard_time": 1716549739,
       "rank": 2,
