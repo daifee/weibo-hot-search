@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716626112216,
+  "endTime": 1716628697037,
   "band_list": [
     {
       "raw_hot": 2538169,
@@ -41,6 +41,14 @@
       "onboard_time": 1716594436,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1670446,
+      "num": 354209,
+      "word": "赵丽颖帮林更新澄清",
+      "onboard_time": 1716625518,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1660203,
@@ -107,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1197693,
-      "num": 302556,
-      "word": "赵丽颖帮林更新澄清",
-      "onboard_time": 1716625518,
-      "rank": 10,
-      "category": "作品衍生"
+      "raw_hot": 1095616,
+      "num": 1095616,
+      "word": "525",
+      "onboard_time": 1716622758,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1074389,
@@ -137,14 +145,6 @@
       "onboard_time": 1716595577,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 985651,
-      "num": 985651,
-      "word": "525",
-      "onboard_time": 1716622758,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 975201,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 834856,
-      "num": 249533,
+      "num": 267113,
       "word": "赵丽颖露腿装",
       "onboard_time": 1716624858,
       "rank": 12,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 667470,
+      "num": 667470,
+      "word": "国防部说台湾是中国的台湾",
+      "onboard_time": 1716626719,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 667378,
       "num": 579912,
       "word": "王力宏 火力全开",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 605380,
-      "num": 193442,
+      "num": 200466,
       "word": "刚存了4千被我家洗衣机知道了",
       "onboard_time": 1716621919,
       "rank": 32,
@@ -427,12 +435,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 517272,
+      "num": 517272,
+      "word": "亚当出场歌手破1",
+      "onboard_time": 1716624978,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499206,
       "num": 237116,
       "word": "岳父母连续寄海鲜3个月小伙崩溃退群",
       "onboard_time": 1716592995,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492646,
+      "num": 352538,
+      "word": "东部战区繁体字细节了",
+      "onboard_time": 1716626659,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 492282,
@@ -521,6 +545,14 @@
       "onboard_time": 1716622219,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 450500,
+      "num": 450500,
+      "word": "国家烟草专卖局一副局长被查",
+      "onboard_time": 1716624978,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440515,
@@ -771,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279036,
+      "num": 200187,
+      "word": "汪苏泷 小英家的牛",
+      "onboard_time": 1716624798,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275526,
       "num": 275526,
       "word": "我爱我",
@@ -803,12 +843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266158,
-      "num": 191441,
-      "word": "亚当出场歌手破1",
-      "onboard_time": 1716624978,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 264102,
+      "num": 200063,
+      "word": "演员杜旭东疑似又为电诈拍广告背书",
+      "onboard_time": 1716627677,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 263682,
@@ -892,7 +932,7 @@
     },
     {
       "raw_hot": 234788,
-      "num": 190886,
+      "num": 199762,
       "word": "歌手 传奇哥",
       "onboard_time": 1716624679,
       "rank": 27,
@@ -931,14 +971,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 223519,
-      "num": 190504,
-      "word": "汪苏泷 小英家的牛",
-      "onboard_time": 1716624798,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223201,
       "num": 187670,
       "word": "周扬青回应淘汰",
@@ -955,12 +987,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221925,
+      "num": 221925,
+      "word": "东部战区发布风雷电火",
+      "onboard_time": 1716628039,
+      "rank": 18,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 217789,
       "num": 216789,
       "word": "养了十几年的鳄龟突然站起来了",
       "onboard_time": 1716603678,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214505,
+      "num": 199950,
+      "word": "太子来一趟范闲家没了",
+      "onboard_time": 1716627380,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 214294,
@@ -1001,14 +1049,6 @@
       "onboard_time": 1716607278,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210327,
-      "num": 210327,
-      "word": "国家烟草专卖局一副局长被查",
-      "onboard_time": 1716624978,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209852,
@@ -1064,6 +1104,14 @@
       "word": "乘风三公",
       "onboard_time": 1716614239,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202515,
+      "num": 199904,
+      "word": "种地吧",
+      "onboard_time": 1716627799,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1124,7 +1172,7 @@
     },
     {
       "raw_hot": 188003,
-      "num": 188003,
+      "num": 199800,
       "word": "大学十块钱的饭和十块钱的水果",
       "onboard_time": 1716621798,
       "rank": 43,
@@ -1219,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175577,
+      "num": 175577,
+      "word": "王鹤棣孟子义体型差",
+      "onboard_time": 1716627380,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173703,
       "num": 255817,
       "word": "孩子抑郁休学其实是在替全家生病",
@@ -1307,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163851,
+      "num": 163851,
+      "word": "歌手",
+      "onboard_time": 1716627018,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163049,
       "num": 163049,
       "word": "逆水寒ive",
@@ -1387,6 +1451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 154955,
+      "num": 154955,
+      "word": "小宝宝找了个喝奶搭子",
+      "onboard_time": 1716626059,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154403,
       "num": 154403,
       "word": "汪峰30周年演唱会0元抢票",
@@ -1451,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148144,
+      "num": 148144,
+      "word": "XYG阵容 抽象",
+      "onboard_time": 1716626539,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147845,
       "num": 147845,
       "word": "狐妖月红篇半是蜜糖半是伤",
@@ -1497,6 +1577,14 @@
       "onboard_time": 1716565062,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143641,
+      "num": 143641,
+      "word": "为什么走路被誉为最好的运动",
+      "onboard_time": 1716626659,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 142996,
@@ -1571,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134850,
+      "num": 134850,
+      "word": "王启年可以小刀但不免运费",
+      "onboard_time": 1716628158,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132498,
       "num": 132498,
       "word": "鹿晗左右为男",
@@ -1593,14 +1689,6 @@
       "onboard_time": 1716614419,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131151,
-      "num": 140288,
-      "word": "小宝宝找了个喝奶搭子",
-      "onboard_time": 1716626059,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 130742,
@@ -1683,12 +1771,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118727,
+      "num": 118727,
+      "word": "没想到我的相亲对象被截胡了",
+      "onboard_time": 1716627198,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118625,
       "num": 118625,
       "word": "猫meme凭什么爆红成顶流",
       "onboard_time": 1716602059,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117430,
+      "num": 117430,
+      "word": "室友非要穿成这样见crush",
+      "onboard_time": 1716628518,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 117297,
@@ -1875,6 +1979,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 81232,
+      "num": 200342,
+      "word": "章小蕙的选品很尊重我审美",
+      "onboard_time": 1716627858,
+      "rank": 22,
+      "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 79779,
+      "num": 370260,
+      "word": "甲状腺疾病容易盯上哪些人",
+      "onboard_time": 1716627618,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 79265,
       "num": 438664,
       "word": "杨绛晚年最后做的一件必要的事",
@@ -2035,6 +2155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 38079,
+      "num": 126860,
+      "word": "数字峰会各类机器人齐上阵",
+      "onboard_time": 1716627139,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36990,
       "num": 97496,
       "word": "怎么解决台湾问题是中国人民自己的事",
@@ -2131,6 +2259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 20059,
+      "num": 822141,
+      "word": "在文博会遇见东方韵味",
+      "onboard_time": 1716628218,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19105,
       "num": 35970,
       "word": "祖国统一是历史大势人间正道",
@@ -2164,6 +2300,9 @@
     },
     {
       "word": "#习近平总书记山东行#"
+    },
+    {
+      "word": "#总书记为山东定好位指明方向#"
     }
   ]
 }

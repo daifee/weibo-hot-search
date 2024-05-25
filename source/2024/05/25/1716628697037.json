@@ -1,0 +1,410 @@
+{
+  "runTime": 1716628697037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1315675,
+        "num": 1315675,
+        "word": "汪苏泷 走又走不了赢又赢不了",
+        "onboard_time": 1716623057,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1095616,
+        "num": 1095616,
+        "word": "525",
+        "onboard_time": 1716622758,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20059,
+        "num": 822141,
+        "word": "在文博会遇见东方韵味",
+        "onboard_time": 1716628218,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682734,
+        "num": 682734,
+        "word": "被家暴16次需终身挂粪袋案当事人发声",
+        "onboard_time": 1716619638,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 667470,
+        "num": 667470,
+        "word": "国防部说台湾是中国的台湾",
+        "onboard_time": 1716626719,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 517272,
+        "num": 517272,
+        "word": "亚当出场歌手破1",
+        "onboard_time": 1716624978,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492267,
+        "num": 492267,
+        "word": "李现经纪人牵完李现牵杨幂",
+        "onboard_time": 1716618618,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 450500,
+        "num": 450500,
+        "word": "国家烟草专卖局一副局长被查",
+        "onboard_time": 1716624978,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374435,
+        "num": 374435,
+        "word": "逆水寒已悄悄删除IVE字母",
+        "onboard_time": 1716617718,
+        "rank": 8,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 79779,
+        "num": 370260,
+        "word": "甲状腺疾病容易盯上哪些人",
+        "onboard_time": 1716627618,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1670446,
+        "num": 354209,
+        "word": "赵丽颖帮林更新澄清",
+        "onboard_time": 1716625518,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 492646,
+        "num": 352538,
+        "word": "东部战区繁体字细节了",
+        "onboard_time": 1716626659,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 380662,
+        "num": 339193,
+        "word": "Angelababy布朗族簪花造型",
+        "onboard_time": 1716615799,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 333479,
+        "num": 333479,
+        "word": "台湾",
+        "onboard_time": 1716615738,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273159,
+        "num": 273159,
+        "word": "花三千做了二十八天牛马",
+        "onboard_time": 1716623186,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 664586,
+        "num": 267113,
+        "word": "赵丽颖露腿装",
+        "onboard_time": 1716624858,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467409,
+        "num": 265949,
+        "word": "林更新回复cp粉",
+        "onboard_time": 1716616158,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258093,
+        "num": 258093,
+        "word": "东部战区这5天的晚安微博",
+        "onboard_time": 1716622219,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221925,
+        "num": 221925,
+        "word": "东部战区发布风雷电火",
+        "onboard_time": 1716628039,
+        "rank": 18,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 200511,
+        "num": 200511,
+        "word": "亚美尼亚总理所乘直升机紧急降落",
+        "onboard_time": 1716623778,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 398855,
+        "num": 200466,
+        "word": "刚存了4千被我家洗衣机知道了",
+        "onboard_time": 1716621919,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310264,
+        "num": 200399,
+        "word": "刘柏辛送亚当穿戴甲",
+        "onboard_time": 1716616038,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81232,
+        "num": 200342,
+        "word": "章小蕙的选品很尊重我审美",
+        "onboard_time": 1716627858,
+        "rank": 22,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 286340,
+        "num": 200267,
+        "word": "黄宣淘汰了 就位主持人",
+        "onboard_time": 1716609619,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279036,
+        "num": 200187,
+        "word": "汪苏泷 小英家的牛",
+        "onboard_time": 1716624798,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264102,
+        "num": 200063,
+        "word": "演员杜旭东疑似又为电诈拍广告背书",
+        "onboard_time": 1716627677,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259826,
+        "num": 200029,
+        "word": "尚雯婕 上歌手前我都糊得不行了",
+        "onboard_time": 1716620239,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214505,
+        "num": 199950,
+        "word": "太子来一趟范闲家没了",
+        "onboard_time": 1716627380,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202515,
+        "num": 199904,
+        "word": "种地吧",
+        "onboard_time": 1716627799,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160663,
+        "num": 199800,
+        "word": "大学十块钱的饭和十块钱的水果",
+        "onboard_time": 1716621798,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199762,
+        "num": 199762,
+        "word": "歌手 传奇哥",
+        "onboard_time": 1716624679,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177455,
+        "num": 177455,
+        "word": "迪丽热巴黄金色高定",
+        "onboard_time": 1716612679,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175577,
+        "num": 175577,
+        "word": "王鹤棣孟子义体型差",
+        "onboard_time": 1716627380,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163851,
+        "num": 163851,
+        "word": "歌手",
+        "onboard_time": 1716627018,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154955,
+        "num": 154955,
+        "word": "小宝宝找了个喝奶搭子",
+        "onboard_time": 1716626059,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148144,
+        "num": 148144,
+        "word": "XYG阵容 抽象",
+        "onboard_time": 1716626539,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143641,
+        "num": 143641,
+        "word": "为什么走路被誉为最好的运动",
+        "onboard_time": 1716626659,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 135907,
+        "num": 135907,
+        "word": "为什么小肚子会有一条痕",
+        "onboard_time": 1716609800,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134850,
+        "num": 134850,
+        "word": "王启年可以小刀但不免运费",
+        "onboard_time": 1716628158,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120086,
+        "num": 128266,
+        "word": "韩国人把养鱼战术写在了汉语里",
+        "onboard_time": 1716624918,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127438,
+        "num": 127438,
+        "word": "陈昊宇第六",
+        "onboard_time": 1716623418,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38079,
+        "num": 126860,
+        "word": "数字峰会各类机器人齐上阵",
+        "onboard_time": 1716627139,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126454,
+        "num": 126454,
+        "word": "邪剑仙没赶上好时候",
+        "onboard_time": 1716624558,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123042,
+        "num": 123042,
+        "word": "周扬青回应淘汰",
+        "onboard_time": 1716622397,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121524,
+        "num": 121524,
+        "word": "芒果格局",
+        "onboard_time": 1716618257,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118727,
+        "num": 118727,
+        "word": "没想到我的相亲对象被截胡了",
+        "onboard_time": 1716627198,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117430,
+        "num": 117430,
+        "word": "室友非要穿成这样见crush",
+        "onboard_time": 1716628518,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112559,
+        "num": 112559,
+        "word": "台青年称只有解放军可以保护台湾",
+        "onboard_time": 1716613579,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102228,
+        "num": 102228,
+        "word": "陈丽君三公第一",
+        "onboard_time": 1716614778,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99338,
+        "num": 99338,
+        "word": "班味过浓会让哪些器官变丑",
+        "onboard_time": 1716621018,
+        "rank": 49,
+        "category": "社会新闻,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为山东定好位指明方向#"
+    }
+  }
+}
