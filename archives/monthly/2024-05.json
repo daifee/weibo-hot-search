@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716661371588,
+  "endTime": 1716662118559,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -62611,6 +62611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104012,
+      "num": 64917,
+      "word": "17岁女生想纹男友名被老板劝离",
+      "onboard_time": 1716659955,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103968,
       "num": 103968,
       "word": "长相思进军Kpop",
@@ -65201,14 +65209,6 @@
       "onboard_time": 1716655337,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77967,
-      "num": 59882,
-      "word": "17岁女生想纹男友名被老板劝离",
-      "onboard_time": 1716659955,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77953,
