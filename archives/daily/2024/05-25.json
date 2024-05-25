@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716619070497,
+  "endTime": 1716621418756,
   "band_list": [
     {
       "raw_hot": 2538169,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1311087,
+      "num": 1311087,
+      "word": "被家暴16次需终身挂粪袋案当事人发声",
+      "onboard_time": 1716619638,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1289185,
       "num": 306821,
       "word": "亚当绝了",
@@ -115,8 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 942141,
-      "num": 464917,
+      "raw_hot": 975201,
+      "num": 490161,
       "word": "Angelababy布朗族簪花造型",
       "onboard_time": 1716615799,
       "rank": 10,
@@ -171,6 +179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 782150,
+      "num": 782150,
+      "word": "逆水寒已悄悄删除IVE字母",
+      "onboard_time": 1716617718,
+      "rank": 5,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 733318,
       "num": 310431,
       "word": "胖猫案细节公布",
@@ -179,11 +195,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 729783,
+      "num": 729783,
+      "word": "李现经纪人牵完李现牵杨幂",
+      "onboard_time": 1716618618,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 712302,
       "num": 436303,
       "word": "亚当证明芒果音响真的顶级",
       "onboard_time": 1716600139,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 684677,
+      "num": 684677,
+      "word": "芒果格局",
+      "onboard_time": 1716618257,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -233,14 +265,6 @@
       "onboard_time": 1716609438,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 630709,
-      "num": 630709,
-      "word": "逆水寒已悄悄删除IVE字母",
-      "onboard_time": 1716617718,
-      "rank": 5,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 625352,
@@ -475,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387223,
+      "num": 387223,
+      "word": "尚雯婕 上歌手前我都糊得不行了",
+      "onboard_time": 1716620239,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386680,
       "num": 386680,
       "word": "谷爱凌一周写15篇文章",
@@ -585,14 +617,6 @@
       "onboard_time": 1716606618,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 312932,
-      "num": 222557,
-      "word": "芒果格局",
-      "onboard_time": 1716618257,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 306809,
@@ -771,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247759,
-      "num": 217359,
-      "word": "李现经纪人牵完李现牵杨幂",
-      "onboard_time": 1716618618,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 246471,
       "num": 246471,
       "word": "赵丽颖今年第二次杀青",
@@ -793,6 +809,14 @@
       "onboard_time": 1716560127,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238326,
+      "num": 238326,
+      "word": "蒯曼陈熠3比1陈梦王曼昱",
+      "onboard_time": 1716618499,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 230407,
@@ -825,6 +849,14 @@
       "onboard_time": 1716594436,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 222056,
+      "num": 175043,
+      "word": "王启年是没有金手指的范闲",
+      "onboard_time": 1716620358,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 217789,
@@ -931,20 +963,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201985,
-      "num": 201985,
-      "word": "蒯曼陈熠3比1陈梦王曼昱",
-      "onboard_time": 1716618499,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198541,
       "num": 109407,
       "word": "剧组说贺军翔这两天没戏要拍",
       "onboard_time": 1716587531,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195465,
+      "num": 174954,
+      "word": "张凌赫能不能不要舔嘴唇了",
+      "onboard_time": 1716618918,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192230,
@@ -1027,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178240,
+      "num": 165396,
+      "word": "时间煮雨好哭",
+      "onboard_time": 1716619158,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177893,
       "num": 177893,
       "word": "鹿晗在邓超陈赫之间自闭",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1716594736,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174893,
+      "num": 391332,
+      "word": "改收货地址那一刻意识到毕业了",
+      "onboard_time": 1716618978,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173703,
@@ -1099,6 +1147,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165481,
+      "num": 165481,
+      "word": "丫丫吃窝窝头一脸认真",
+      "onboard_time": 1716617658,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165167,
+      "num": 165167,
+      "word": "狗子每进一次草坪叼出一只刺猬",
+      "onboard_time": 1716619818,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163049,
       "num": 163049,
       "word": "逆水寒ive",
@@ -1147,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157486,
-      "num": 157486,
-      "word": "丫丫吃窝窝头一脸认真",
-      "onboard_time": 1716617658,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156853,
       "num": 254053,
       "word": "爷爷爸爸去世奶奶不知情录视频呼唤",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1716591853,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154403,
+      "num": 154403,
+      "word": "汪峰30周年演唱会0元抢票",
+      "onboard_time": 1716619758,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 153765,
@@ -1273,14 +1337,6 @@
       "onboard_time": 1716603379,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 142104,
-      "num": 142104,
-      "word": "张凌赫能不能不要舔嘴唇了",
-      "onboard_time": 1716618918,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 140041,
@@ -1435,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113242,
+      "num": 113242,
+      "word": "马龙林高远晋级决赛",
+      "onboard_time": 1716619638,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112885,
       "num": 112885,
       "word": "TES和BLG参加沙特电竞杯",
@@ -1467,6 +1531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110469,
+      "num": 110469,
+      "word": "张艺兴2024世界巡演",
+      "onboard_time": 1716619879,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108096,
       "num": 108096,
       "word": "歌手观众席好多明星",
@@ -1483,12 +1555,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106804,
+      "num": 106804,
+      "word": "阿Sa挑张韶涵下巴",
+      "onboard_time": 1716621318,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103513,
       "num": 243836,
       "word": "女生称遭男孩偷拍争执视频被传黄网",
       "onboard_time": 1716555144,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102514,
+      "num": 102514,
+      "word": "AG狼队包揽最佳一二阵",
+      "onboard_time": 1716621379,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 102502,
@@ -1659,6 +1747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43536,
+      "num": 491172,
+      "word": "班味过浓会让哪些器官变丑",
+      "onboard_time": 1716621018,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 43429,
       "num": 97510,
       "word": "鸣潮EP上线",
@@ -1801,14 +1897,6 @@
       "onboard_time": 1716581950,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 10136,
-      "num": 391332,
-      "word": "改收货地址那一刻意识到毕业了",
-      "onboard_time": 1716618978,
-      "rank": 9,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
