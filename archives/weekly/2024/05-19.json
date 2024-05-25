@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716608121980,
+  "endTime": 1716610893715,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -529,6 +529,14 @@
       "onboard_time": 1716181165,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1766171,
+      "num": 1766171,
+      "word": "台湾艺人纷纷表态支持祖国统一",
+      "onboard_time": 1716609438,
+      "rank": 0,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 1733571,
@@ -2003,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 796321,
+      "num": 437938,
+      "word": "黄宣淘汰了 就位主持人",
+      "onboard_time": 1716609619,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 795771,
       "num": 795771,
       "word": "胡连馨漂亮",
@@ -2329,6 +2345,14 @@
       "onboard_time": 1716384319,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 726069,
+      "num": 237646,
+      "word": "真的建议大家考北京大学",
+      "onboard_time": 1716607818,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 724768,
@@ -2745,6 +2769,14 @@
       "onboard_time": 1716275119,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 654371,
+      "num": 654371,
+      "word": "戛纳为章子怡清场",
+      "onboard_time": 1716609438,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 653371,
@@ -3315,6 +3347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 567510,
+      "num": 567510,
+      "word": "奔跑吧AI换脸",
+      "onboard_time": 1716606440,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567289,
       "num": 567289,
       "word": "dnf",
@@ -3580,7 +3620,7 @@
     },
     {
       "raw_hot": 527693,
-      "num": 223146,
+      "num": 435926,
       "word": "马斯克裁员裁到大动脉",
       "onboard_time": 1716604398,
       "rank": 34,
@@ -4163,6 +4203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 467109,
+      "num": 237545,
+      "word": "甲状腺不好全身都被牵连",
+      "onboard_time": 1716606559,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 467049,
       "num": 383308,
       "word": "当年去韩国旅游的人嘴是真严",
@@ -4209,6 +4257,14 @@
       "onboard_time": 1716595878,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463714,
+      "num": 235775,
+      "word": "为什么小肚子会有一条痕",
+      "onboard_time": 1716609800,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 462949,
@@ -5113,14 +5169,6 @@
       "onboard_time": 1716213320,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 387757,
-      "num": 281079,
-      "word": "奔跑吧AI换脸",
-      "onboard_time": 1716606440,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 387585,
@@ -6163,6 +6211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318684,
+      "num": 318684,
+      "word": "台湾当归也必然回归",
+      "onboard_time": 1716606618,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 317615,
       "num": 317615,
       "word": "伊朗最高领袖哈梅内伊发声",
@@ -6387,6 +6443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306809,
+      "num": 306809,
+      "word": "古茗口令",
+      "onboard_time": 1716608837,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 305377,
       "num": 305377,
       "word": "范若若一手手术刀一手巴特雷",
@@ -6465,6 +6529,14 @@
       "onboard_time": 1716203479,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 299008,
+      "num": 232129,
+      "word": "亚当放海",
+      "onboard_time": 1716610218,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 298933,
@@ -6721,14 +6793,6 @@
       "onboard_time": 1716122898,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286225,
-      "num": 217088,
-      "word": "甲状腺不好全身都被牵连",
-      "onboard_time": 1716606559,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 285859,
@@ -7355,6 +7419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258900,
+      "num": 445674,
+      "word": "小学生痴迷烟卡商家趁机卖香烟",
+      "onboard_time": 1716606199,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258857,
       "num": 258857,
       "word": "TheShy发博为OP队老头杯加油",
@@ -7603,6 +7675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248606,
+      "num": 229960,
+      "word": "歌手 演员请就位",
+      "onboard_time": 1716607759,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248571,
       "num": 248571,
       "word": "华晨宇上一秒得意下一秒道歉",
@@ -7737,14 +7817,6 @@
       "onboard_time": 1716077296,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243588,
-      "num": 243588,
-      "word": "台湾当归也必然回归",
-      "onboard_time": 1716606618,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 243164,
@@ -8299,6 +8371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224586,
+      "num": 224586,
+      "word": "林俊杰别开店了43岁正是闯的时候",
+      "onboard_time": 1716609978,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224529,
       "num": 180450,
       "word": "原来扇贝游泳是用走的",
@@ -8803,6 +8883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210673,
+      "num": 210673,
+      "word": "梁靖崑11比0",
+      "onboard_time": 1716609978,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210608,
       "num": 210608,
       "word": "一汽与蔚来官宣换电合作",
@@ -8969,6 +9057,14 @@
       "onboard_time": 1716251180,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207791,
+      "num": 240626,
+      "word": "您的快递正在坐摇摇车",
+      "onboard_time": 1716608418,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 207636,
@@ -9160,6 +9256,14 @@
       "word": "弗格FMVP",
       "onboard_time": 1716387981,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203975,
+      "num": 223830,
+      "word": "爱德华兹致命失误",
+      "onboard_time": 1716607639,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -9489,14 +9593,6 @@
       "onboard_time": 1716356238,
       "rank": 28,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 199082,
-      "num": 199082,
-      "word": "爱德华兹致命失误",
-      "onboard_time": 1716607639,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 199037,
@@ -10507,6 +10603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183457,
+      "num": 183457,
+      "word": "逆水寒回应被指公费追星ive",
+      "onboard_time": 1716607937,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183300,
       "num": 183300,
       "word": "罗云熙直播说羡慕刘宇宁",
@@ -10561,14 +10665,6 @@
       "onboard_time": 1716043639,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181068,
-      "num": 181068,
-      "word": "歌手 演员请就位",
-      "onboard_time": 1716607759,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 181026,
@@ -11195,6 +11291,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 170108,
+      "num": 170108,
+      "word": "范闲不走后门不留后路",
+      "onboard_time": 1716608718,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169964,
       "num": 169964,
       "word": "独行侠2比0森林狼",
@@ -11299,6 +11403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168327,
+      "num": 168327,
+      "word": "东部战区称熊孩子定会感恩父母",
+      "onboard_time": 1716610159,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168078,
       "num": 168078,
       "word": "边佑锡作息",
@@ -11377,6 +11489,14 @@
       "onboard_time": 1716563362,
       "rank": 39,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 167380,
+      "num": 167380,
+      "word": "原来有些酒店房卡是可以拿走的",
+      "onboard_time": 1716610279,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 167304,
@@ -11867,14 +11987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159856,
-      "num": 445674,
-      "word": "小学生痴迷烟卡商家趁机卖香烟",
-      "onboard_time": 1716606199,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159845,
       "num": 443534,
       "word": "儿童误用防晒喷雾易导致白肺",
@@ -12339,14 +12451,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 154211,
-      "num": 154211,
-      "word": "真的建议大家考北京大学",
-      "onboard_time": 1716607818,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
       "raw_hot": 153812,
       "num": 153812,
       "word": "怦然4被霸凌的女孩和温暖的他",
@@ -12457,6 +12561,14 @@
       "onboard_time": 1716539179,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152163,
+      "num": 152163,
+      "word": "小羊居然能撅这么高的嘴啊",
+      "onboard_time": 1716608477,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 152145,
@@ -14155,14 +14267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127872,
-      "num": 127872,
-      "word": "逆水寒回应被指公费追星ive",
-      "onboard_time": 1716607937,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 127860,
       "num": 127860,
       "word": "微博演出季",
@@ -14753,6 +14857,14 @@
       "onboard_time": 1716118877,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121275,
+      "num": 121275,
+      "word": "电影院看歌手",
+      "onboard_time": 1716610038,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121129,
@@ -16883,6 +16995,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 64382,
+      "num": 150570,
+      "word": "爱自己是终生浪漫的开始",
+      "onboard_time": 1716610759,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64090,
       "num": 846834,
       "word": "情感主播向辛巴道歉",
@@ -17193,6 +17313,14 @@
       "onboard_time": 1716469519,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 52972,
+      "num": 438664,
+      "word": "杨绛晚年最后做的一件必要的事",
+      "onboard_time": 1716609619,
+      "rank": 9,
+      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 52349,

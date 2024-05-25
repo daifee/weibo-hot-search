@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716608121980,
+  "endTime": 1716610893715,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1715072239,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1766171,
+      "num": 1766171,
+      "word": "台湾艺人纷纷表态支持祖国统一",
+      "onboard_time": 1716609438,
+      "rank": 0,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 1763556,
@@ -7683,6 +7691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 796321,
+      "num": 437938,
+      "word": "黄宣淘汰了 就位主持人",
+      "onboard_time": 1716609619,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 795771,
       "num": 795771,
       "word": "胡连馨漂亮",
@@ -8809,6 +8825,14 @@
       "onboard_time": 1715402360,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 726069,
+      "num": 237646,
+      "word": "真的建议大家考北京大学",
+      "onboard_time": 1716607818,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 726053,
@@ -10441,6 +10465,14 @@
       "onboard_time": 1715170039,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 654371,
+      "num": 654371,
+      "word": "戛纳为章子怡清场",
+      "onboard_time": 1716609438,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 653625,
@@ -12651,6 +12683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 567510,
+      "num": 567510,
+      "word": "奔跑吧AI换脸",
+      "onboard_time": 1716606440,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567476,
       "num": 396350,
       "word": "周杰伦官宣新音综",
@@ -13836,7 +13876,7 @@
     },
     {
       "raw_hot": 527693,
-      "num": 223146,
+      "num": 435926,
       "word": "马斯克裁员裁到大动脉",
       "onboard_time": 1716604398,
       "rank": 34,
@@ -16019,6 +16059,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 467109,
+      "num": 237545,
+      "word": "甲状腺不好全身都被牵连",
+      "onboard_time": 1716606559,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 467108,
       "num": 465543,
       "word": "周也穿了套QQ秀",
@@ -16273,6 +16321,14 @@
       "onboard_time": 1715478737,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 463714,
+      "num": 235775,
+      "word": "为什么小肚子会有一条痕",
+      "onboard_time": 1716609800,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 462949,
@@ -19929,14 +19985,6 @@
       "onboard_time": 1714906339,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 387757,
-      "num": 281079,
-      "word": "奔跑吧AI换脸",
-      "onboard_time": 1716606440,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 387688,
@@ -23931,6 +23979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318684,
+      "num": 318684,
+      "word": "台湾当归也必然回归",
+      "onboard_time": 1716606618,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 317703,
       "num": 236115,
       "word": "24应届生工作现状",
@@ -24691,6 +24747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306809,
+      "num": 306809,
+      "word": "古茗口令",
+      "onboard_time": 1716608837,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 306714,
       "num": 306714,
       "word": "付豪太帅了",
@@ -25153,6 +25217,14 @@
       "onboard_time": 1715156661,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299008,
+      "num": 232129,
+      "word": "亚当放海",
+      "onboard_time": 1716610218,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 298933,
@@ -26001,14 +26073,6 @@
       "onboard_time": 1714968080,
       "rank": 25,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 286225,
-      "num": 217088,
-      "word": "甲状腺不好全身都被牵连",
-      "onboard_time": 1716606559,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 286142,
@@ -28603,6 +28667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258900,
+      "num": 445674,
+      "word": "小学生痴迷烟卡商家趁机卖香烟",
+      "onboard_time": 1716606199,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258886,
       "num": 258886,
       "word": "教育厅回应大学转设致学生毕业证无法发放",
@@ -29579,6 +29651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248606,
+      "num": 229960,
+      "word": "歌手 演员请就位",
+      "onboard_time": 1716607759,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248571,
       "num": 248571,
       "word": "华晨宇上一秒得意下一秒道歉",
@@ -30201,14 +30281,6 @@
       "onboard_time": 1714529598,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 243588,
-      "num": 243588,
-      "word": "台湾当归也必然回归",
-      "onboard_time": 1716606618,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 243377,
@@ -32483,6 +32555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224586,
+      "num": 224586,
+      "word": "林俊杰别开店了43岁正是闯的时候",
+      "onboard_time": 1716609978,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224540,
       "num": 224540,
       "word": "一番大奶主",
@@ -34611,6 +34691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210673,
+      "num": 210673,
+      "word": "梁靖崑11比0",
+      "onboard_time": 1716609978,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210608,
       "num": 210608,
       "word": "一汽与蔚来官宣换电合作",
@@ -35161,6 +35249,14 @@
       "onboard_time": 1715749522,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207791,
+      "num": 240626,
+      "word": "您的快递正在坐摇摇车",
+      "onboard_time": 1716608418,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 207697,
@@ -36121,6 +36217,14 @@
       "onboard_time": 1715136440,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203975,
+      "num": 223830,
+      "word": "爱德华兹致命失误",
+      "onboard_time": 1716607639,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 203925,
@@ -37521,14 +37625,6 @@
       "onboard_time": 1715877976,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199082,
-      "num": 199082,
-      "word": "爱德华兹致命失误",
-      "onboard_time": 1716607639,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 199067,
@@ -41883,6 +41979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183457,
+      "num": 183457,
+      "word": "逆水寒回应被指公费追星ive",
+      "onboard_time": 1716607937,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183437,
       "num": 183437,
       "word": "奥运会资格系列赛上海站",
@@ -42265,14 +42369,6 @@
       "onboard_time": 1715149162,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181068,
-      "num": 181068,
-      "word": "歌手 演员请就位",
-      "onboard_time": 1716607759,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 181037,
@@ -44955,6 +45051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170108,
+      "num": 170108,
+      "word": "范闲不走后门不留后路",
+      "onboard_time": 1716608718,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170031,
       "num": 170031,
       "word": "知更鸟不歪",
@@ -45403,6 +45507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 168327,
+      "num": 168327,
+      "word": "东部战区称熊孩子定会感恩父母",
+      "onboard_time": 1716610159,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168247,
       "num": 168247,
       "word": "胡歌高圆圆对手戏",
@@ -45697,6 +45809,14 @@
       "onboard_time": 1715504537,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167380,
+      "num": 167380,
+      "word": "原来有些酒店房卡是可以拿走的",
+      "onboard_time": 1716610279,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 167309,
@@ -47531,14 +47651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159856,
-      "num": 445674,
-      "word": "小学生痴迷烟卡商家趁机卖香烟",
-      "onboard_time": 1716606199,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159845,
       "num": 443534,
       "word": "儿童误用防晒喷雾易导致白肺",
@@ -48971,14 +49083,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 154211,
-      "num": 154211,
-      "word": "真的建议大家考北京大学",
-      "onboard_time": 1716607818,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
       "raw_hot": 154206,
       "num": 154206,
       "word": "郭潇雨蔡文静聊天记录",
@@ -49513,6 +49617,14 @@
       "onboard_time": 1715661440,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152163,
+      "num": 152163,
+      "word": "小羊居然能撅这么高的嘴啊",
+      "onboard_time": 1716608477,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 152145,
@@ -55771,14 +55883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127872,
-      "num": 127872,
-      "word": "逆水寒回应被指公费追星ive",
-      "onboard_time": 1716607937,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 127860,
       "num": 127860,
       "word": "微博演出季",
@@ -57457,6 +57561,14 @@
       "onboard_time": 1715170520,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121275,
+      "num": 121275,
+      "word": "电影院看歌手",
+      "onboard_time": 1716610038,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121212,
@@ -64435,6 +64547,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 64382,
+      "num": 150570,
+      "word": "爱自己是终生浪漫的开始",
+      "onboard_time": 1716610759,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64357,
       "num": 64357,
       "word": "路人偶遇郭碧婷",
@@ -65377,6 +65497,14 @@
       "onboard_time": 1716469519,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 52972,
+      "num": 438664,
+      "word": "杨绛晚年最后做的一件必要的事",
+      "onboard_time": 1716609619,
+      "rank": 9,
+      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 52710,
