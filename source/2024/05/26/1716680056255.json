@@ -1,0 +1,410 @@
+{
+  "runTime": 1716680056255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 471875,
+        "num": 471875,
+        "word": "17岁女生想纹男友名被老板劝离",
+        "onboard_time": 1716659955,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382176,
+        "num": 382176,
+        "word": "他退出TFBOYS后老了很多",
+        "onboard_time": 1716640278,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29048,
+        "num": 326967,
+        "word": "三夏时节感受丰收之美",
+        "onboard_time": 1716643640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300439,
+        "num": 300439,
+        "word": "王骁纽约州执业律师宣誓vlog",
+        "onboard_time": 1716651500,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 299183,
+        "num": 299183,
+        "word": "那英电话内容 破解",
+        "onboard_time": 1716644900,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282006,
+        "num": 282006,
+        "word": "房价下跌对普通人意味着什么",
+        "onboard_time": 1716633260,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299084,
+        "num": 281461,
+        "word": "赛琳娜获得戛纳影后",
+        "onboard_time": 1716679153,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231814,
+        "num": 231814,
+        "word": "韩国邻居把我门口的福字撕了",
+        "onboard_time": 1716635839,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220292,
+        "num": 220292,
+        "word": "陈奕迅含泪致歉",
+        "onboard_time": 1716640039,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 6603,
+        "num": 219740,
+        "word": "女子借给男孩雨伞被回赠零食",
+        "onboard_time": 1716666131,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 219505,
+        "num": 219505,
+        "word": "癌症来前1年身体会发生8种变化",
+        "onboard_time": 1716640459,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210907,
+        "num": 210907,
+        "word": "范闲洪竹",
+        "onboard_time": 1716648620,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171117,
+        "num": 171117,
+        "word": "日本昔日童星因杀人焚尸被捕",
+        "onboard_time": 1716641840,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159792,
+        "num": 159792,
+        "word": "杨幂夏晚晴",
+        "onboard_time": 1716639438,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147739,
+        "num": 147739,
+        "word": "本届戛纳影后是四黄蛋",
+        "onboard_time": 1716679153,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130601,
+        "num": 130601,
+        "word": "微信置顶一个很心酸的设计",
+        "onboard_time": 1716636258,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123799,
+        "num": 123799,
+        "word": "中国人吃掉全世界70%的西瓜",
+        "onboard_time": 1716640159,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87144,
+        "num": 87144,
+        "word": "原来朋友圈很多官宣照是这么来的",
+        "onboard_time": 1716639498,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76941,
+        "num": 87071,
+        "word": "你身边有疑似重生的人吗",
+        "onboard_time": 1716639260,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49321,
+        "num": 86963,
+        "word": "曼联2比1曼城",
+        "onboard_time": 1716655337,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141431,
+        "num": 86718,
+        "word": "苗苗恶补小时代被郭碧婷制止",
+        "onboard_time": 1716651920,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265739,
+        "num": 86462,
+        "word": "去阿勒泰旅游的人膀胱快炸了",
+        "onboard_time": 1716666012,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 206221,
+        "num": 86384,
+        "word": "不想生二胎老公对我冷暴力",
+        "onboard_time": 1716676152,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149706,
+        "num": 86180,
+        "word": "月薪三千的工作有必要上吗",
+        "onboard_time": 1716652278,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125226,
+        "num": 85992,
+        "word": "魏大勋从全内娱的瓜路过",
+        "onboard_time": 1716649522,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124468,
+        "num": 85835,
+        "word": "5号和15号发工资区别有多大",
+        "onboard_time": 1716678014,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109303,
+        "num": 85639,
+        "word": "赵丽颖真的很喜欢橙色耳环",
+        "onboard_time": 1716647000,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 85563,
+        "num": 85563,
+        "word": "舍友因为不吃饭瘦了11斤",
+        "onboard_time": 1716644541,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43277,
+        "num": 84514,
+        "word": "旅客胸背部藏987.4克穿山甲鳞片被查",
+        "onboard_time": 1716647480,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40351,
+        "num": 83589,
+        "word": "国防部说台湾是中国的台湾",
+        "onboard_time": 1716626719,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114326,
+        "num": 82905,
+        "word": "佟丽娅戛纳很好下次再去",
+        "onboard_time": 1716671891,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90365,
+        "num": 81413,
+        "word": "xiye回应加入TES",
+        "onboard_time": 1716679274,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81125,
+        "num": 81125,
+        "word": "吴克群回复1818黄金眼",
+        "onboard_time": 1716677773,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76839,
+        "num": 76839,
+        "word": "赵丽颖帮林更新澄清",
+        "onboard_time": 1716625518,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73152,
+        "num": 73152,
+        "word": "41首百万收藏汪苏泷在歌手都没唱",
+        "onboard_time": 1716668290,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66157,
+        "num": 66157,
+        "word": "王传君瘦得我不敢认",
+        "onboard_time": 1716634038,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63323,
+        "num": 63323,
+        "word": "志愿者为何开始避雷演唱会了",
+        "onboard_time": 1716657316,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60069,
+        "num": 60069,
+        "word": "去泰国吃生腌检查出肝吸虫阳性",
+        "onboard_time": 1716667511,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53593,
+        "num": 53593,
+        "word": "原来沈月是李嘉琦的嫡长闺",
+        "onboard_time": 1716638418,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55663,
+        "num": 53317,
+        "word": "汪苏泷 走又走不了赢又赢不了",
+        "onboard_time": 1716623057,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52887,
+        "num": 52887,
+        "word": "庆余年第21集",
+        "onboard_time": 1716651018,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50941,
+        "num": 50941,
+        "word": "体态变差的根源居然是恐惧",
+        "onboard_time": 1716672731,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50891,
+        "num": 50891,
+        "word": "杨万理卷子",
+        "onboard_time": 1716645380,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50825,
+        "num": 50825,
+        "word": "碳循环减肥法轻松拿捏脂肪",
+        "onboard_time": 1716674712,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 50116,
+        "num": 50116,
+        "word": "邓紫棋将刷新亚洲女歌手纪录",
+        "onboard_time": 1716655157,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47886,
+        "num": 47886,
+        "word": "麻辣鸡被警方拘留",
+        "onboard_time": 1716679995,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46575,
+        "num": 46575,
+        "word": "525",
+        "onboard_time": 1716622758,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46503,
+        "num": 46503,
+        "word": "酱园弄",
+        "onboard_time": 1716648501,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45989,
+        "num": 45989,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1716648679,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42184,
+        "num": 45652,
+        "word": "克罗斯告别伯纳乌",
+        "onboard_time": 1716679514,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写中国式现代化山东篇章#"
+    }
+  }
+}
