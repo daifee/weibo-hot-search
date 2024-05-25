@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716610893715,
+  "endTime": 1716611801680,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -225,6 +225,14 @@
       "onboard_time": 1716553582,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2538169,
+      "num": 2538169,
+      "word": "台湾艺人纷纷表态支持祖国统一",
+      "onboard_time": 1716609438,
+      "rank": 0,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 2536930,
@@ -529,14 +537,6 @@
       "onboard_time": 1716181165,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1766171,
-      "num": 1766171,
-      "word": "台湾艺人纷纷表态支持祖国统一",
-      "onboard_time": 1716609438,
-      "rank": 0,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 1733571,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1716085998,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1171639,
+      "num": 1171639,
+      "word": "黄宣淘汰了 就位主持人",
+      "onboard_time": 1716609619,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1146588,
@@ -1899,6 +1907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 830928,
+      "num": 237646,
+      "word": "真的建议大家考北京大学",
+      "onboard_time": 1716607818,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 827637,
       "num": 827637,
       "word": "很酷 不聊天",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1716075255,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 796321,
-      "num": 437938,
-      "word": "黄宣淘汰了 就位主持人",
-      "onboard_time": 1716609619,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 795771,
@@ -2345,14 +2353,6 @@
       "onboard_time": 1716384319,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 726069,
-      "num": 237646,
-      "word": "真的建议大家考北京大学",
-      "onboard_time": 1716607818,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 724768,
@@ -3259,6 +3259,14 @@
       "category": "国外时政,财经"
     },
     {
+      "raw_hot": 578799,
+      "num": 567510,
+      "word": "奔跑吧AI换脸",
+      "onboard_time": 1716606440,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 577900,
       "num": 577900,
       "word": "酵色",
@@ -3345,14 +3353,6 @@
       "onboard_time": 1716189679,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 567510,
-      "num": 567510,
-      "word": "奔跑吧AI换脸",
-      "onboard_time": 1716606440,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 567289,
@@ -3620,7 +3620,7 @@
     },
     {
       "raw_hot": 527693,
-      "num": 435926,
+      "num": 437613,
       "word": "马斯克裁员裁到大动脉",
       "onboard_time": 1716604398,
       "rank": 34,
@@ -5843,6 +5843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334353,
+      "num": 334353,
+      "word": "林俊杰别开店了43岁正是闯的时候",
+      "onboard_time": 1716609978,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333426,
       "num": 333426,
       "word": "伊朗总统葬礼23日举行",
@@ -6001,6 +6009,14 @@
       "onboard_time": 1716201559,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326283,
+      "num": 317406,
+      "word": "您的快递正在坐摇摇车",
+      "onboard_time": 1716608418,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 326229,
@@ -6531,7 +6547,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 299008,
+      "raw_hot": 299637,
       "num": 232129,
       "word": "亚当放海",
       "onboard_time": 1716610218,
@@ -8051,6 +8067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234830,
+      "num": 234830,
+      "word": "演出经纪人考试",
+      "onboard_time": 1716611058,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234772,
       "num": 193435,
       "word": "普通女孩给男朋友准备的520礼物",
@@ -8347,6 +8371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226288,
+      "num": 226288,
+      "word": "梁靖崑11比0",
+      "onboard_time": 1716609978,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225953,
       "num": 158294,
       "word": "为了不让你吐籽水果有多努力",
@@ -8369,14 +8401,6 @@
       "onboard_time": 1716250099,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 224586,
-      "num": 224586,
-      "word": "林俊杰别开店了43岁正是闯的时候",
-      "onboard_time": 1716609978,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 224529,
@@ -8715,6 +8739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214007,
+      "num": 214007,
+      "word": "原来有些酒店房卡是可以拿走的",
+      "onboard_time": 1716610279,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213431,
       "num": 213431,
       "word": "教育局通报初中女生被打",
@@ -8883,14 +8915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210673,
-      "num": 210673,
-      "word": "梁靖崑11比0",
-      "onboard_time": 1716609978,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210608,
       "num": 210608,
       "word": "一汽与蔚来官宣换电合作",
@@ -8945,6 +8969,14 @@
       "onboard_time": 1716446059,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209570,
+      "num": 209570,
+      "word": "五十公里桃花坞4开播",
+      "onboard_time": 1716611179,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 209517,
@@ -9057,14 +9089,6 @@
       "onboard_time": 1716251180,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207791,
-      "num": 240626,
-      "word": "您的快递正在坐摇摇车",
-      "onboard_time": 1716608418,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 207636,
@@ -9721,6 +9745,14 @@
       "onboard_time": 1716212120,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197473,
+      "num": 197473,
+      "word": "东部战区称熊孩子定会感恩父母",
+      "onboard_time": 1716610159,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 197287,
@@ -11243,6 +11275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 172143,
+      "num": 172143,
+      "word": "范闲不走后门不留后路",
+      "onboard_time": 1716608718,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171930,
       "num": 171930,
       "word": "连云港鬼秤商户和主办方被罚款",
@@ -11289,14 +11329,6 @@
       "onboard_time": 1716382698,
       "rank": 29,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 170108,
-      "num": 170108,
-      "word": "范闲不走后门不留后路",
-      "onboard_time": 1716608718,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 169964,
@@ -11403,14 +11435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168327,
-      "num": 168327,
-      "word": "东部战区称熊孩子定会感恩父母",
-      "onboard_time": 1716610159,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 168078,
       "num": 168078,
       "word": "边佑锡作息",
@@ -11489,14 +11513,6 @@
       "onboard_time": 1716563362,
       "rank": 39,
       "category": "汽车,社会新闻"
-    },
-    {
-      "raw_hot": 167380,
-      "num": 167380,
-      "word": "原来有些酒店房卡是可以拿走的",
-      "onboard_time": 1716610279,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 167304,
@@ -12515,6 +12531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152741,
+      "num": 152741,
+      "word": "小羊居然能撅这么高的嘴啊",
+      "onboard_time": 1716608477,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152705,
       "num": 614310,
       "word": "肖战透视蕾丝造型",
@@ -12561,14 +12585,6 @@
       "onboard_time": 1716539179,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 152163,
-      "num": 152163,
-      "word": "小羊居然能撅这么高的嘴啊",
-      "onboard_time": 1716608477,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 152145,
@@ -12681,6 +12697,14 @@
       "onboard_time": 1716515117,
       "rank": 39,
       "category": "社会新闻,电竞"
+    },
+    {
+      "raw_hot": 149900,
+      "num": 149900,
+      "word": "想去台湾旅游了",
+      "onboard_time": 1716610938,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 149833,
@@ -16555,6 +16579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79265,
+      "num": 438664,
+      "word": "杨绛晚年最后做的一件必要的事",
+      "onboard_time": 1716609619,
+      "rank": 9,
+      "category": "社会新闻,读书作家"
+    },
+    {
       "raw_hot": 79093,
       "num": 199945,
       "word": "霸王茶姬为521国际茶日上大分",
@@ -16996,7 +17028,7 @@
     },
     {
       "raw_hot": 64382,
-      "num": 150570,
+      "num": 234954,
       "word": "爱自己是终生浪漫的开始",
       "onboard_time": 1716610759,
       "rank": 41,
@@ -17065,6 +17097,14 @@
       "onboard_time": 1716442878,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61809,
+      "num": 414845,
+      "word": "专科情侣相约考上同校同专业研究生",
+      "onboard_time": 1716611478,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61599,
@@ -17313,14 +17353,6 @@
       "onboard_time": 1716469519,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 52972,
-      "num": 438664,
-      "word": "杨绛晚年最后做的一件必要的事",
-      "onboard_time": 1716609619,
-      "rank": 9,
-      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 52349,

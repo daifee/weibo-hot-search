@@ -1,0 +1,410 @@
+{
+  "runTime": 1716611801680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2538169,
+        "num": 2538169,
+        "word": "台湾艺人纷纷表态支持祖国统一",
+        "onboard_time": 1716609438,
+        "rank": 0,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 1372908,
+        "num": 1372908,
+        "word": "亚当回国了",
+        "onboard_time": 1716599959,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15753,
+        "num": 1190127,
+        "word": "听着小美满愿丰收美满",
+        "onboard_time": 1716558148,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1171639,
+        "num": 1171639,
+        "word": "黄宣淘汰了 就位主持人",
+        "onboard_time": 1716609619,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 748059,
+        "num": 748059,
+        "word": "中国台湾省",
+        "onboard_time": 1716539539,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 577059,
+        "num": 577059,
+        "word": "无意间点开了老婆的备忘录",
+        "onboard_time": 1716602899,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 609220,
+        "num": 534232,
+        "word": "戛纳为章子怡清场",
+        "onboard_time": 1716609438,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 578799,
+        "num": 527584,
+        "word": "奔跑吧AI换脸",
+        "onboard_time": 1716606440,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437613,
+        "num": 437613,
+        "word": "马斯克裁员裁到大动脉",
+        "onboard_time": 1716604398,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61809,
+        "num": 414845,
+        "word": "专科情侣相约考上同校同专业研究生",
+        "onboard_time": 1716611478,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506728,
+        "num": 414708,
+        "word": "王心凌 我是中华民族的一份子",
+        "onboard_time": 1716594436,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414522,
+        "num": 414522,
+        "word": "杨幂戛纳生图",
+        "onboard_time": 1716596716,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374414,
+        "num": 374414,
+        "word": "王力宏 火力全开",
+        "onboard_time": 1716602419,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334353,
+        "num": 334353,
+        "word": "林俊杰别开店了43岁正是闯的时候",
+        "onboard_time": 1716609978,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318343,
+        "num": 318343,
+        "word": "吴艳妮100米栏世界排名创新高",
+        "onboard_time": 1716604999,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326283,
+        "num": 317406,
+        "word": "您的快递正在坐摇摇车",
+        "onboard_time": 1716608418,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292588,
+        "num": 292588,
+        "word": "台湾当归也必然回归",
+        "onboard_time": 1716606618,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237374,
+        "num": 237374,
+        "word": "古茗口令",
+        "onboard_time": 1716608837,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57838,
+        "num": 234954,
+        "word": "爱自己是终生浪漫的开始",
+        "onboard_time": 1716610759,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234830,
+        "num": 234830,
+        "word": "演出经纪人考试",
+        "onboard_time": 1716611058,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 830928,
+        "num": 233452,
+        "word": "真的建议大家考北京大学",
+        "onboard_time": 1716607818,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 445251,
+        "num": 230234,
+        "word": "为什么小肚子会有一条痕",
+        "onboard_time": 1716609800,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437209,
+        "num": 229245,
+        "word": "甲状腺不好全身都被牵连",
+        "onboard_time": 1716606559,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226288,
+        "num": 226288,
+        "word": "梁靖崑11比0",
+        "onboard_time": 1716609978,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228212,
+        "num": 225250,
+        "word": "小学生痴迷烟卡商家趁机卖香烟",
+        "onboard_time": 1716606199,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299637,
+        "num": 222932,
+        "word": "亚当放海",
+        "onboard_time": 1716610218,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285512,
+        "num": 221094,
+        "word": "那英真的摇人了",
+        "onboard_time": 1716563602,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265189,
+        "num": 216504,
+        "word": "张予曦腿环",
+        "onboard_time": 1716603738,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249257,
+        "num": 215559,
+        "word": "蔡依林 我们中国南昌最热情了",
+        "onboard_time": 1716558927,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214007,
+        "num": 214007,
+        "word": "原来有些酒店房卡是可以拿走的",
+        "onboard_time": 1716610279,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228122,
+        "num": 211820,
+        "word": "亚当证明芒果音响真的顶级",
+        "onboard_time": 1716600139,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209570,
+        "num": 209570,
+        "word": "五十公里桃花坞4开播",
+        "onboard_time": 1716611179,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197473,
+        "num": 197473,
+        "word": "东部战区称熊孩子定会感恩父母",
+        "onboard_time": 1716610159,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197005,
+        "num": 197005,
+        "word": "庆余年2",
+        "onboard_time": 1716608958,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192446,
+        "num": 192446,
+        "word": "歌手 演员请就位",
+        "onboard_time": 1716607759,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182267,
+        "num": 182267,
+        "word": "光与夜之恋",
+        "onboard_time": 1716611599,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177121,
+        "num": 177121,
+        "word": "东契奇绝杀森林狼",
+        "onboard_time": 1716607038,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172143,
+        "num": 172143,
+        "word": "范闲不走后门不留后路",
+        "onboard_time": 1716608718,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168270,
+        "num": 168270,
+        "word": "你好星期六全员狐狸面具",
+        "onboard_time": 1716604518,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162702,
+        "num": 162702,
+        "word": "女子购物偷手机慌得把7.5元付成75",
+        "onboard_time": 1716603259,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79265,
+        "num": 161962,
+        "word": "杨绛晚年最后做的一件必要的事",
+        "onboard_time": 1716609619,
+        "rank": 40,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 161616,
+        "num": 161616,
+        "word": "逆水寒回应被指公费追星ive",
+        "onboard_time": 1716607937,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152741,
+        "num": 152741,
+        "word": "小羊居然能撅这么高的嘴啊",
+        "onboard_time": 1716608477,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149900,
+        "num": 149900,
+        "word": "想去台湾旅游了",
+        "onboard_time": 1716610938,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 144216,
+        "num": 144216,
+        "word": "爱德华兹致命失误",
+        "onboard_time": 1716607639,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140681,
+        "num": 140681,
+        "word": "有些情绪价值终究是错付了",
+        "onboard_time": 1716602419,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138363,
+        "num": 138363,
+        "word": "小学生裤子掉了跳绳拿第一",
+        "onboard_time": 1716595878,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134434,
+        "num": 134434,
+        "word": "福宝",
+        "onboard_time": 1716596837,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127832,
+        "num": 127832,
+        "word": "乡镇医院精神科快被中学生挤满了",
+        "onboard_time": 1716602659,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126449,
+        "num": 126449,
+        "word": "喂 我老那",
+        "onboard_time": 1716602299,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化山东篇章#"
+    }
+  }
+}
