@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716625363836,
+  "endTime": 1716626112216,
   "band_list": [
     {
       "raw_hot": 2538169,
@@ -59,19 +59,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1559005,
+      "num": 1559005,
+      "word": "汪苏泷 走又走不了赢又赢不了",
+      "onboard_time": 1716623057,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1555599,
       "num": 320141,
       "word": "亚当把那英放在第一名",
       "onboard_time": 1716566481,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1480067,
-      "num": 1480067,
-      "word": "汪苏泷 走又走不了赢又赢不了",
-      "onboard_time": 1716623057,
-      "rank": 0,
       "category": "综艺"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1716609619,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1197693,
+      "num": 302556,
+      "word": "赵丽颖帮林更新澄清",
+      "onboard_time": 1716625518,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1074389,
@@ -193,6 +201,14 @@
       "onboard_time": 1716612679,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 834856,
+      "num": 249533,
+      "word": "赵丽颖露腿装",
+      "onboard_time": 1716624858,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 782150,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 635019,
-      "num": 264015,
+      "num": 286451,
       "word": "花三千做了二十八天牛马",
       "onboard_time": 1716623186,
       "rank": 10,
@@ -315,20 +331,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 605380,
+      "num": 193442,
+      "word": "刚存了4千被我家洗衣机知道了",
+      "onboard_time": 1716621919,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 586340,
       "num": 254571,
       "word": "歌手直播",
       "onboard_time": 1716550999,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 585697,
-      "num": 181965,
-      "word": "刚存了4千被我家洗衣机知道了",
-      "onboard_time": 1716621919,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 585418,
@@ -409,14 +425,6 @@
       "onboard_time": 1716604398,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 519038,
-      "num": 246385,
-      "word": "赵丽颖露腿装",
-      "onboard_time": 1716624858,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 499206,
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457796,
+      "num": 279087,
+      "word": "东部战区这5天的晚安微博",
+      "onboard_time": 1716622219,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 440515,
       "num": 440515,
       "word": "班主任惩罚学生用影子模仿青蛙",
@@ -571,14 +587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 373699,
-      "num": 215642,
-      "word": "东部战区这5天的晚安微博",
-      "onboard_time": 1716622219,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 370257,
       "num": 234997,
       "word": "陈丽君三公第一",
@@ -633,6 +641,14 @@
       "onboard_time": 1716611058,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 346956,
+      "num": 496405,
+      "word": "亚美尼亚总理所乘直升机紧急降落",
+      "onboard_time": 1716623778,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 322043,
@@ -755,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 281631,
-      "num": 281631,
-      "word": "亚美尼亚总理所乘直升机紧急降落",
-      "onboard_time": 1716623778,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 275526,
       "num": 275526,
       "word": "我爱我",
@@ -792,6 +800,14 @@
       "word": "吴镇宇 我向黑粉借厕纸",
       "onboard_time": 1716591914,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266158,
+      "num": 191441,
+      "word": "亚当出场歌手破1",
+      "onboard_time": 1716624978,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -867,20 +883,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238886,
-      "num": 177452,
-      "word": "亚当出场歌手破1",
-      "onboard_time": 1716624978,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238326,
       "num": 238326,
       "word": "蒯曼陈熠3比1陈梦王曼昱",
       "onboard_time": 1716618499,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234788,
+      "num": 190886,
+      "word": "歌手 传奇哥",
+      "onboard_time": 1716624679,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 230407,
@@ -915,8 +931,16 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 223519,
+      "num": 190504,
+      "word": "汪苏泷 小英家的牛",
+      "onboard_time": 1716624798,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223201,
-      "num": 175313,
+      "num": 187670,
       "word": "周扬青回应淘汰",
       "onboard_time": 1716622397,
       "rank": 26,
@@ -977,6 +1001,14 @@
       "onboard_time": 1716607278,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210327,
+      "num": 210327,
+      "word": "国家烟草专卖局一副局长被查",
+      "onboard_time": 1716624978,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209852,
@@ -1051,12 +1083,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193500,
-      "num": 172518,
-      "word": "歌手 传奇哥",
-      "onboard_time": 1716624679,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 193850,
+      "num": 193850,
+      "word": "王楚钦梁靖崑3比2袁励岑徐瑛彬",
+      "onboard_time": 1716624317,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 193323,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1716555021,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188003,
+      "num": 188003,
+      "word": "大学十块钱的饭和十块钱的水果",
+      "onboard_time": 1716621798,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 186970,
@@ -1155,14 +1195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181979,
-      "num": 181979,
-      "word": "王楚钦梁靖崑3比2袁励岑徐瑛彬",
-      "onboard_time": 1716624317,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178240,
       "num": 165396,
       "word": "时间煮雨好哭",
@@ -1175,14 +1207,6 @@
       "num": 177893,
       "word": "鹿晗在邓超陈赫之间自闭",
       "onboard_time": 1716615618,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177240,
-      "num": 169387,
-      "word": "汪苏泷 小英家的牛",
-      "onboard_time": 1716624798,
       "rank": 31,
       "category": "综艺"
     },
@@ -1217,14 +1241,6 @@
       "onboard_time": 1716608718,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171249,
-      "num": 171249,
-      "word": "大学十块钱的饭和十块钱的水果",
-      "onboard_time": 1716621798,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 169964,
@@ -1332,7 +1348,7 @@
     },
     {
       "raw_hot": 158085,
-      "num": 126736,
+      "num": 150940,
       "word": "邪剑仙没赶上好时候",
       "onboard_time": 1716624558,
       "rank": 35,
@@ -1419,6 +1435,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 149847,
+      "num": 163648,
+      "word": "韩国人把养鱼战术写在了汉语里",
+      "onboard_time": 1716624918,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149597,
       "num": 242134,
       "word": "TF家族二四代合照",
@@ -1491,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141607,
+      "num": 141607,
+      "word": "今天这样爱自己",
+      "onboard_time": 1716626059,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140041,
       "num": 140041,
       "word": "酱园弄戛纳红毯亮相",
@@ -1539,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132498,
+      "num": 132498,
+      "word": "鹿晗左右为男",
+      "onboard_time": 1716622578,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132478,
       "num": 132478,
       "word": "香缇莫变Rihanna",
@@ -1555,12 +1595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131897,
-      "num": 107933,
-      "word": "鹿晗左右为男",
-      "onboard_time": 1716622578,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 131151,
+      "num": 140288,
+      "word": "小宝宝找了个喝奶搭子",
+      "onboard_time": 1716626059,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 130742,
@@ -1595,20 +1635,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126981,
-      "num": 126981,
-      "word": "韩国人把养鱼战术写在了汉语里",
+      "raw_hot": 125144,
+      "num": 139245,
+      "word": "鸭嘴钳为何让女性感到恐惧",
       "onboard_time": 1716624918,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 124890,
-      "num": 124890,
-      "word": "国家烟草专卖局一副局长被查",
-      "onboard_time": 1716624978,
-      "rank": 37,
-      "category": "社会新闻"
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 124436,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1716610038,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120022,
+      "num": 103097,
+      "word": "胡一天活动",
+      "onboard_time": 1716625458,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 119641,
@@ -1771,14 +1811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105792,
-      "num": 105792,
-      "word": "鸭嘴钳为何让女性感到恐惧",
-      "onboard_time": 1716624918,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 103513,
       "num": 243836,
       "word": "女生称遭男孩偷拍争执视频被传黄网",
@@ -1793,6 +1825,14 @@
       "onboard_time": 1716612078,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102128,
+      "num": 102128,
+      "word": "小猫被锁在屋里",
+      "onboard_time": 1716626059,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 100483,
@@ -1899,6 +1939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64057,
+      "num": 308913,
+      "word": "数字人直播卖假货谁担责",
+      "onboard_time": 1716624618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61809,
       "num": 414845,
       "word": "专科情侣相约考上同校同专业研究生",
@@ -1993,14 +2041,6 @@
       "onboard_time": 1716537678,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35894,
-      "num": 274216,
-      "word": "数字人直播卖假货谁担责",
-      "onboard_time": 1716624618,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30435,
