@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716632412707,
+  "endTime": 1716633461220,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -1099,6 +1099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1249277,
+      "num": 319374,
+      "word": "妈妈连生5个女孩后36岁去世",
+      "onboard_time": 1716630378,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1247772,
       "num": 1247772,
       "word": "此次台岛周边联合演习有何特点",
@@ -1243,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1171875,
-      "num": 319374,
-      "word": "妈妈连生5个女孩后36岁去世",
-      "onboard_time": 1716630378,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1146588,
       "num": 1146588,
       "word": "巴勒斯坦",
@@ -1312,6 +1312,14 @@
       "word": "日本女子挺9个月孕肚为老公准备30天量晚饭",
       "onboard_time": 1716122657,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1121874,
+      "num": 319078,
+      "word": "新冠在两年内导致1300万人死亡",
+      "onboard_time": 1716630378,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1801,14 +1809,6 @@
       "onboard_time": 1716278299,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 880178,
-      "num": 319078,
-      "word": "新冠在两年内导致1300万人死亡",
-      "onboard_time": 1716630378,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 877795,
@@ -3299,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590386,
+      "num": 319562,
+      "word": "鞠婧祎照片",
+      "onboard_time": 1716630798,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589135,
       "num": 589135,
       "word": "京东被曝严查考勤",
@@ -3777,6 +3785,14 @@
       "onboard_time": 1716214999,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 530756,
+      "num": 277484,
+      "word": "江西一公交车冲下负一层露天平台",
+      "onboard_time": 1716631818,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530411,
@@ -5771,6 +5787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355681,
+      "num": 247308,
+      "word": "南京10元咖啡阿姨辣评40元咖啡",
+      "onboard_time": 1716630499,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 355298,
       "num": 355298,
       "word": "杨幂机场出发戛纳",
@@ -6243,6 +6267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329284,
+      "num": 269756,
+      "word": "杨幂谈现阶段演员的舆论环境",
+      "onboard_time": 1716631400,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328292,
       "num": 328292,
       "word": "CBA总决赛",
@@ -6499,14 +6531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319562,
-      "num": 319562,
-      "word": "鞠婧祎照片",
-      "onboard_time": 1716630798,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319265,
       "num": 232924,
       "word": "文俊辉 成都",
@@ -6593,6 +6617,14 @@
       "onboard_time": 1716442939,
       "rank": 19,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 314296,
+      "num": 243799,
+      "word": "海底捞的玩具已经nextlevel了",
+      "onboard_time": 1716632300,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 312540,
@@ -6777,6 +6809,14 @@
       "onboard_time": 1716453619,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305360,
+      "num": 242896,
+      "word": "李克勤没去歌手去了披哥",
+      "onboard_time": 1716632779,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 304163,
@@ -7361,14 +7401,6 @@
       "onboard_time": 1716275358,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277484,
-      "num": 277484,
-      "word": "江西一公交车冲下负一层露天平台",
-      "onboard_time": 1716631818,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277407,
@@ -8907,14 +8939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 220836,
-      "num": 220836,
-      "word": "杨幂谈现阶段演员的舆论环境",
-      "onboard_time": 1716631400,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220632,
       "num": 220632,
       "word": "狮子座的先来后到",
@@ -9115,14 +9139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 215180,
-      "num": 242936,
-      "word": "南京10元咖啡阿姨辣评40元咖啡",
-      "onboard_time": 1716630499,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 215149,
       "num": 215149,
       "word": "欧盟对伊朗总统莱希等人遇难表示哀悼",
@@ -9137,6 +9153,14 @@
       "onboard_time": 1716535820,
       "rank": 9,
       "category": "社会新闻,社会议题"
+    },
+    {
+      "raw_hot": 214918,
+      "num": 214918,
+      "word": "赣州南门口",
+      "onboard_time": 1716632599,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214655,
@@ -10017,6 +10041,14 @@
       "onboard_time": 1716127761,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199706,
+      "num": 199706,
+      "word": "华晨宇香港",
+      "onboard_time": 1716632658,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 199655,
@@ -11177,6 +11209,14 @@
       "onboard_time": 1716194962,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181998,
+      "num": 181998,
+      "word": "黄誉博巡演",
+      "onboard_time": 1716632540,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 181971,
@@ -12603,6 +12643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159014,
+      "num": 159014,
+      "word": "王鹤棣好显眼一大柿子",
+      "onboard_time": 1716631638,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158910,
       "num": 158910,
       "word": "G社拍的舒淇刘亦菲",
@@ -13228,7 +13276,7 @@
     },
     {
       "raw_hot": 151258,
-      "num": 151258,
+      "num": 163570,
       "word": "奶茶店送的签子有什么用",
       "onboard_time": 1716631038,
       "rank": 40,
@@ -13337,14 +13385,6 @@
       "onboard_time": 1716566361,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149476,
-      "num": 114068,
-      "word": "王鹤棣好显眼一大柿子",
-      "onboard_time": 1716631638,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 149431,
@@ -15531,6 +15571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122004,
+      "num": 319558,
+      "word": "去县城旅游真的性价比高吗",
+      "onboard_time": 1716631220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121989,
       "num": 121989,
       "word": "Zoom踢翻Uzi队",
@@ -16771,14 +16819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102364,
-      "num": 102364,
-      "word": "海底捞的玩具已经nextlevel了",
-      "onboard_time": 1716632300,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 102283,
       "num": 102283,
       "word": "拍到了童话世界才有的场景",
@@ -17089,6 +17129,14 @@
       "onboard_time": 1716381919,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95820,
+      "num": 95820,
+      "word": "房价下跌对普通人意味着什么",
+      "onboard_time": 1716633260,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95112,
@@ -18251,14 +18299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 52061,
-      "num": 319558,
-      "word": "去县城旅游真的性价比高吗",
-      "onboard_time": 1716631220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52023,
       "num": 952941,
       "word": "在文博会遇见东方韵味",
@@ -18401,6 +18441,14 @@
       "onboard_time": 1716354621,
       "rank": 9,
       "category": "社会新闻,社会正能量"
+    },
+    {
+      "raw_hot": 45824,
+      "num": 251408,
+      "word": "青岛海边的时尚单品是保暖披肩",
+      "onboard_time": 1716630079,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 45320,
@@ -18683,6 +18731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37100,
+      "num": 260599,
+      "word": "小范大人为考生神助攻",
+      "onboard_time": 1716628879,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37059,
       "num": 37059,
       "word": "红手指淘汰",
@@ -18737,14 +18793,6 @@
       "onboard_time": 1716297499,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34310,
-      "num": 260599,
-      "word": "小范大人为考生神助攻",
-      "onboard_time": 1716628879,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 34164,

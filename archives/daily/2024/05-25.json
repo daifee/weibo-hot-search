@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716632412707,
+  "endTime": 1716633461220,
   "band_list": [
     {
       "raw_hot": 2584147,
@@ -115,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1249277,
+      "num": 319374,
+      "word": "妈妈连生5个女孩后36岁去世",
+      "onboard_time": 1716630378,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1219391,
       "num": 1171639,
       "word": "黄宣淘汰了 就位主持人",
@@ -123,11 +131,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1171875,
-      "num": 319374,
-      "word": "妈妈连生5个女孩后36岁去世",
+      "raw_hot": 1121874,
+      "num": 319078,
+      "word": "新冠在两年内导致1300万人死亡",
       "onboard_time": 1716630378,
-      "rank": 10,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -193,14 +201,6 @@
       "onboard_time": 1716615738,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 880178,
-      "num": 319078,
-      "word": "新冠在两年内导致1300万人死亡",
-      "onboard_time": 1716630378,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 877775,
@@ -371,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 590386,
+      "num": 319562,
+      "word": "鞠婧祎照片",
+      "onboard_time": 1716630798,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586340,
       "num": 254571,
       "word": "歌手直播",
@@ -456,6 +464,14 @@
       "word": "福宝",
       "onboard_time": 1716596837,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530756,
+      "num": 277484,
+      "word": "江西一公交车冲下负一层露天平台",
+      "onboard_time": 1716631818,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -683,6 +699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 355681,
+      "num": 247308,
+      "word": "南京10元咖啡阿姨辣评40元咖啡",
+      "onboard_time": 1716630499,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 354434,
       "num": 190328,
       "word": "伤肝又致癌甜饮料堪比伤肝水",
@@ -731,6 +755,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 329284,
+      "num": 269756,
+      "word": "杨幂谈现阶段演员的舆论环境",
+      "onboard_time": 1716631400,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322043,
       "num": 322043,
       "word": "Faouzia回应又得第一",
@@ -755,20 +787,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 319562,
-      "num": 319562,
-      "word": "鞠婧祎照片",
-      "onboard_time": 1716630798,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318684,
       "num": 318684,
       "word": "台湾当归也必然回归",
       "onboard_time": 1716606618,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 314296,
+      "num": 243799,
+      "word": "海底捞的玩具已经nextlevel了",
+      "onboard_time": 1716632300,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 306809,
@@ -792,6 +824,14 @@
       "word": "陈赫郑恺哭了",
       "onboard_time": 1716617178,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 305360,
+      "num": 242896,
+      "word": "李克勤没去歌手去了披哥",
+      "onboard_time": 1716632779,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -865,14 +905,6 @@
       "onboard_time": 1716624798,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277484,
-      "num": 277484,
-      "word": "江西一公交车冲下负一层露天平台",
-      "onboard_time": 1716631818,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275526,
@@ -1059,12 +1091,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220836,
-      "num": 220836,
-      "word": "杨幂谈现阶段演员的舆论环境",
-      "onboard_time": 1716631400,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 220719,
+      "num": 220719,
+      "word": "种地吧",
+      "onboard_time": 1716627799,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 217789,
@@ -1075,20 +1107,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216302,
-      "num": 216302,
-      "word": "种地吧",
-      "onboard_time": 1716627799,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 215180,
-      "num": 242936,
-      "word": "南京10元咖啡阿姨辣评40元咖啡",
-      "onboard_time": 1716630499,
-      "rank": 24,
-      "category": "美食"
+      "raw_hot": 214918,
+      "num": 214918,
+      "word": "赣州南门口",
+      "onboard_time": 1716632599,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214505,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1716614239,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199706,
+      "num": 199706,
+      "word": "华晨宇香港",
+      "onboard_time": 1716632658,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 198541,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1716611599,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181998,
+      "num": 181998,
+      "word": "黄誉博巡演",
+      "onboard_time": 1716632540,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 178240,
@@ -1507,6 +1547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159014,
+      "num": 159014,
+      "word": "王鹤棣好显眼一大柿子",
+      "onboard_time": 1716631638,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158360,
       "num": 158360,
       "word": "多方向抵近台岛战巡演练模拟动画",
@@ -1604,7 +1652,7 @@
     },
     {
       "raw_hot": 151258,
-      "num": 151258,
+      "num": 163570,
       "word": "奶茶店送的签子有什么用",
       "onboard_time": 1716631038,
       "rank": 40,
@@ -1633,14 +1681,6 @@
       "onboard_time": 1716566361,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149476,
-      "num": 114068,
-      "word": "王鹤棣好显眼一大柿子",
-      "onboard_time": 1716631638,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 148144,
@@ -1859,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122004,
+      "num": 319558,
+      "word": "去县城旅游真的性价比高吗",
+      "onboard_time": 1716631220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121275,
       "num": 121275,
       "word": "电影院看歌手",
@@ -2059,14 +2107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102364,
-      "num": 102364,
-      "word": "海底捞的玩具已经nextlevel了",
-      "onboard_time": 1716632300,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 102128,
       "num": 102128,
       "word": "小猫被锁在屋里",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1716623299,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95820,
+      "num": 95820,
+      "word": "房价下跌对普通人意味着什么",
+      "onboard_time": 1716633260,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92754,
@@ -2235,14 +2283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52061,
-      "num": 319558,
-      "word": "去县城旅游真的性价比高吗",
-      "onboard_time": 1716631220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52023,
       "num": 952941,
       "word": "在文博会遇见东方韵味",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1716605477,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45824,
+      "num": 251408,
+      "word": "青岛海边的时尚单品是保暖披肩",
+      "onboard_time": 1716630079,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 44638,
@@ -2315,20 +2363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37100,
+      "num": 260599,
+      "word": "小范大人为考生神助攻",
+      "onboard_time": 1716628879,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36990,
       "num": 97496,
       "word": "怎么解决台湾问题是中国人民自己的事",
       "onboard_time": 1716537678,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34310,
-      "num": 260599,
-      "word": "小范大人为考生神助攻",
-      "onboard_time": 1716628879,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 30435,

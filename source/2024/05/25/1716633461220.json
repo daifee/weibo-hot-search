@@ -1,0 +1,410 @@
+{
+  "runTime": 1716633461220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2289779,
+        "num": 2289779,
+        "word": "525",
+        "onboard_time": 1716622758,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1002203,
+        "num": 1002203,
+        "word": "汪苏泷 走又走不了赢又赢不了",
+        "onboard_time": 1716623057,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42351,
+        "num": 652706,
+        "word": "在文博会遇见东方韵味",
+        "onboard_time": 1716628218,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519243,
+        "num": 519243,
+        "word": "演员杜旭东疑似又为电诈拍广告背书",
+        "onboard_time": 1716627677,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390662,
+        "num": 390662,
+        "word": "国防部说台湾是中国的台湾",
+        "onboard_time": 1716626719,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285576,
+        "num": 285576,
+        "word": "东部战区发布风雷电火",
+        "onboard_time": 1716628039,
+        "rank": 5,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 496797,
+        "num": 273120,
+        "word": "亚当唱beautiful镜头切娜扎",
+        "onboard_time": 1716628699,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329284,
+        "num": 269756,
+        "word": "杨幂谈现阶段演员的舆论环境",
+        "onboard_time": 1716631400,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251914,
+        "num": 251914,
+        "word": "台湾",
+        "onboard_time": 1716615738,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45824,
+        "num": 251408,
+        "word": "青岛海边的时尚单品是保暖披肩",
+        "onboard_time": 1716630079,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1249277,
+        "num": 250898,
+        "word": "妈妈连生5个女孩后36岁去世",
+        "onboard_time": 1716630378,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1121874,
+        "num": 250048,
+        "word": "新冠在两年内导致1300万人死亡",
+        "onboard_time": 1716630378,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983596,
+        "num": 249968,
+        "word": "赵丽颖帮林更新澄清",
+        "onboard_time": 1716625518,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183799,
+        "num": 248843,
+        "word": "甲状腺疾病容易盯上哪些人",
+        "onboard_time": 1716627618,
+        "rank": 13,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 590386,
+        "num": 248517,
+        "word": "鞠婧祎照片",
+        "onboard_time": 1716630798,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530756,
+        "num": 247665,
+        "word": "江西一公交车冲下负一层露天平台",
+        "onboard_time": 1716631818,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355681,
+        "num": 247308,
+        "word": "南京10元咖啡阿姨辣评40元咖啡",
+        "onboard_time": 1716630499,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 349890,
+        "num": 246433,
+        "word": "被家暴16次需终身挂粪袋案当事人发声",
+        "onboard_time": 1716619638,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 329848,
+        "num": 245924,
+        "word": "林更新回复cp粉",
+        "onboard_time": 1716616158,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305968,
+        "num": 245250,
+        "word": "东部战区繁体字细节了",
+        "onboard_time": 1716626659,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318772,
+        "num": 244449,
+        "word": "有关TFBOYS的非虚构青春",
+        "onboard_time": 1716631038,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314296,
+        "num": 243799,
+        "word": "海底捞的玩具已经nextlevel了",
+        "onboard_time": 1716632300,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37100,
+        "num": 243429,
+        "word": "小范大人为考生神助攻",
+        "onboard_time": 1716628879,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305360,
+        "num": 242896,
+        "word": "李克勤没去歌手去了披哥",
+        "onboard_time": 1716632779,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295030,
+        "num": 242157,
+        "word": "李现经纪人牵完李现牵杨幂",
+        "onboard_time": 1716618618,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241903,
+        "num": 241903,
+        "word": "赵丽颖露腿装",
+        "onboard_time": 1716624858,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231979,
+        "num": 231979,
+        "word": "亚当出场歌手破1",
+        "onboard_time": 1716624978,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221099,
+        "num": 221099,
+        "word": "室友非要穿成这样见crush",
+        "onboard_time": 1716628518,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220719,
+        "num": 220719,
+        "word": "种地吧",
+        "onboard_time": 1716627799,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214918,
+        "num": 214918,
+        "word": "赣州南门口",
+        "onboard_time": 1716632599,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211909,
+        "num": 211909,
+        "word": "延世校庆",
+        "onboard_time": 1716629719,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199706,
+        "num": 199706,
+        "word": "华晨宇香港",
+        "onboard_time": 1716632658,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198211,
+        "num": 198211,
+        "word": "黄宣淘汰了 就位主持人",
+        "onboard_time": 1716609619,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186783,
+        "num": 186783,
+        "word": "Angelababy布朗族簪花造型",
+        "onboard_time": 1716615799,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185002,
+        "num": 185002,
+        "word": "刚存了4千被我家洗衣机知道了",
+        "onboard_time": 1716621919,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183538,
+        "num": 183538,
+        "word": "逆水寒已悄悄删除IVE字母",
+        "onboard_time": 1716617718,
+        "rank": 35,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 181998,
+        "num": 181998,
+        "word": "黄誉博巡演",
+        "onboard_time": 1716632540,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177955,
+        "num": 177955,
+        "word": "人民币为什么没有大面额钞票",
+        "onboard_time": 1716630920,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165198,
+        "num": 165198,
+        "word": "刘柏辛送亚当穿戴甲",
+        "onboard_time": 1716616038,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128729,
+        "num": 163570,
+        "word": "奶茶店送的签子有什么用",
+        "onboard_time": 1716631038,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163477,
+        "num": 163477,
+        "word": "尚雯婕 上歌手前我都糊得不行了",
+        "onboard_time": 1716620239,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159014,
+        "num": 159014,
+        "word": "王鹤棣好显眼一大柿子",
+        "onboard_time": 1716631638,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138009,
+        "num": 138009,
+        "word": "汪苏泷 小英家的牛",
+        "onboard_time": 1716624798,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122004,
+        "num": 122004,
+        "word": "去县城旅游真的性价比高吗",
+        "onboard_time": 1716631220,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125766,
+        "num": 121319,
+        "word": "花三千做了二十八天牛马",
+        "onboard_time": 1716623186,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115277,
+        "num": 115277,
+        "word": "国家烟草专卖局一副局长被查",
+        "onboard_time": 1716624978,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110063,
+        "num": 110063,
+        "word": "XYG阵容 抽象",
+        "onboard_time": 1716626539,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100542,
+        "num": 100542,
+        "word": "逆水寒手游致歉",
+        "onboard_time": 1716613758,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95820,
+        "num": 95820,
+        "word": "房价下跌对普通人意味着什么",
+        "onboard_time": 1716633260,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95510,
+        "num": 95510,
+        "word": "大学十块钱的饭和十块钱的水果",
+        "onboard_time": 1716621798,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记山东行#"
+    }
+  }
+}
