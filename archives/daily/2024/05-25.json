@@ -1,7 +1,15 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716629667163,
+  "endTime": 1716632412707,
   "band_list": [
+    {
+      "raw_hot": 2584147,
+      "num": 2584147,
+      "word": "525",
+      "onboard_time": 1716622758,
+      "rank": 1,
+      "category": "情感"
+    },
     {
       "raw_hot": 2538169,
       "num": 2538169,
@@ -67,14 +75,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1631251,
-      "num": 1631251,
-      "word": "525",
-      "onboard_time": 1716622758,
-      "rank": 1,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1559005,
       "num": 1559005,
       "word": "汪苏泷 走又走不了赢又赢不了",
@@ -121,6 +121,14 @@
       "onboard_time": 1716609619,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1171875,
+      "num": 319374,
+      "word": "妈妈连生5个女孩后36岁去世",
+      "onboard_time": 1716630378,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1074389,
@@ -187,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 880178,
+      "num": 319078,
+      "word": "新冠在两年内导致1300万人死亡",
+      "onboard_time": 1716630378,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 877775,
       "num": 373839,
       "word": "不愧是国际章",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 834856,
-      "num": 280109,
+      "num": 295626,
       "word": "赵丽颖露腿装",
       "onboard_time": 1716624858,
       "rank": 12,
@@ -411,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 561544,
+      "num": 561544,
+      "word": "演员杜旭东疑似又为电诈拍广告背书",
+      "onboard_time": 1716627677,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557823,
       "num": 557823,
       "word": "尚雯婕 上歌手前我都糊得不行了",
@@ -449,6 +473,14 @@
       "onboard_time": 1716604398,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 527537,
+      "num": 334690,
+      "word": "亚当唱beautiful镜头切娜扎",
+      "onboard_time": 1716628699,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 499206,
@@ -587,14 +619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 400574,
-      "num": 400574,
-      "word": "演员杜旭东疑似又为电诈拍广告背书",
-      "onboard_time": 1716627677,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 387585,
       "num": 179816,
       "word": "因谐音发财男子一天卖出20万枝银柳",
@@ -675,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347997,
+      "num": 259464,
+      "word": "有关TFBOYS的非虚构青春",
+      "onboard_time": 1716631038,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347510,
       "num": 347510,
       "word": "演出经纪人考试",
@@ -699,14 +731,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 333045,
-      "num": 333045,
-      "word": "亚当唱beautiful镜头切娜扎",
-      "onboard_time": 1716628699,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322043,
       "num": 322043,
       "word": "Faouzia回应又得第一",
@@ -729,6 +753,14 @@
       "onboard_time": 1716554603,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 319562,
+      "num": 319562,
+      "word": "鞠婧祎照片",
+      "onboard_time": 1716630798,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 318684,
@@ -835,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277484,
+      "num": 277484,
+      "word": "江西一公交车冲下负一层露天平台",
+      "onboard_time": 1716631818,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275526,
       "num": 275526,
       "word": "我爱我",
@@ -891,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258166,
+      "num": 258166,
+      "word": "延世校庆",
+      "onboard_time": 1716629719,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 256036,
       "num": 256036,
       "word": "海警此次演练包含登检台湾船只",
@@ -937,6 +985,14 @@
       "onboard_time": 1716560127,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242119,
+      "num": 242119,
+      "word": "室友非要穿成这样见crush",
+      "onboard_time": 1716628518,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 238326,
@@ -1003,12 +1059,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220836,
+      "num": 220836,
+      "word": "杨幂谈现阶段演员的舆论环境",
+      "onboard_time": 1716631400,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217789,
       "num": 216789,
       "word": "养了十几年的鳄龟突然站起来了",
       "onboard_time": 1716603678,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216302,
+      "num": 216302,
+      "word": "种地吧",
+      "onboard_time": 1716627799,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215180,
+      "num": 242936,
+      "word": "南京10元咖啡阿姨辣评40元咖啡",
+      "onboard_time": 1716630499,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 214505,
@@ -1112,14 +1192,6 @@
       "word": "乘风三公",
       "onboard_time": 1716614239,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 202515,
-      "num": 199904,
-      "word": "种地吧",
-      "onboard_time": 1716627799,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1227,6 +1299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185048,
+      "num": 370260,
+      "word": "甲状腺疾病容易盯上哪些人",
+      "onboard_time": 1716627618,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 184756,
+      "num": 184756,
+      "word": "人民币为什么没有大面额钞票",
+      "onboard_time": 1716630920,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184170,
       "num": 391332,
       "word": "改收货地址那一刻意识到毕业了",
@@ -1305,14 +1393,6 @@
       "onboard_time": 1716608718,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171370,
-      "num": 171370,
-      "word": "室友非要穿成这样见crush",
-      "onboard_time": 1716628518,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 169964,
@@ -1523,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151258,
+      "num": 151258,
+      "word": "奶茶店送的签子有什么用",
+      "onboard_time": 1716631038,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149900,
       "num": 149900,
       "word": "想去台湾旅游了",
@@ -1545,6 +1633,14 @@
       "onboard_time": 1716566361,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149476,
+      "num": 114068,
+      "word": "王鹤棣好显眼一大柿子",
+      "onboard_time": 1716631638,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 148144,
@@ -1707,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131146,
+      "num": 131146,
+      "word": "谁懂庆余年2这个镜头",
+      "onboard_time": 1716629539,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130742,
       "num": 130742,
       "word": "李凯尔发牌大师",
@@ -1753,14 +1857,6 @@
       "onboard_time": 1716613219,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123606,
-      "num": 370260,
-      "word": "甲状腺疾病容易盯上哪些人",
-      "onboard_time": 1716627618,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 121275,
@@ -1851,6 +1947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113253,
+      "num": 113253,
+      "word": "第一次看到章鱼强烈的逃跑欲望",
+      "onboard_time": 1716631159,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113242,
       "num": 113242,
       "word": "马龙林高远晋级决赛",
@@ -1897,14 +2001,6 @@
       "onboard_time": 1716619879,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 109455,
-      "num": 109455,
-      "word": "谁懂庆余年2这个镜头",
-      "onboard_time": 1716629539,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 109079,
@@ -1961,6 +2057,14 @@
       "onboard_time": 1716612078,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102364,
+      "num": 102364,
+      "word": "海底捞的玩具已经nextlevel了",
+      "onboard_time": 1716632300,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 102128,
@@ -2131,6 +2235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52061,
+      "num": 319558,
+      "word": "去县城旅游真的性价比高吗",
+      "onboard_time": 1716631220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52023,
+      "num": 952941,
+      "word": "在文博会遇见东方韵味",
+      "onboard_time": 1716628218,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51883,
       "num": 289973,
       "word": "2024FE电动方程式上海站",
@@ -2203,12 +2323,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 36303,
-      "num": 952941,
-      "word": "在文博会遇见东方韵味",
-      "onboard_time": 1716628218,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 34310,
+      "num": 260599,
+      "word": "小范大人为考生神助攻",
+      "onboard_time": 1716628879,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 30435,
@@ -2321,14 +2441,6 @@
       "onboard_time": 1716581950,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 12175,
-      "num": 182673,
-      "word": "小范大人为考生神助攻",
-      "onboard_time": 1716628879,
-      "rank": 31,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
