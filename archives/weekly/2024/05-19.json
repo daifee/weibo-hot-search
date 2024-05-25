@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716644121042,
+  "endTime": 1716646624821,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -331,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2266983,
+      "num": 2266983,
+      "word": "陈奕迅含泪致歉",
+      "onboard_time": 1716640039,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2251943,
       "num": 647897,
       "word": "海来阿木淘汰",
@@ -409,14 +417,6 @@
       "onboard_time": 1716210501,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2000896,
-      "num": 2000896,
-      "word": "陈奕迅含泪致歉",
-      "onboard_time": 1716640039,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 1995910,
@@ -593,6 +593,14 @@
       "onboard_time": 1716110058,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1701570,
+      "num": 981946,
+      "word": "那英电话内容 破解",
+      "onboard_time": 1716644900,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1691058,
@@ -1779,6 +1787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 919185,
+      "num": 919185,
+      "word": "癌症来前1年身体会发生8种变化",
+      "onboard_time": 1716640459,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 916416,
       "num": 645258,
       "word": "亚当真断眉",
@@ -1865,14 +1881,6 @@
       "onboard_time": 1716278299,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 884489,
-      "num": 884489,
-      "word": "癌症来前1年身体会发生8种变化",
-      "onboard_time": 1716640459,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 877795,
@@ -3203,6 +3211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 626813,
+      "num": 626813,
+      "word": "中国人吃掉全世界70%的西瓜",
+      "onboard_time": 1716640159,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625352,
       "num": 254883,
       "word": "就不能是王菲吗",
@@ -3465,6 +3481,14 @@
       "onboard_time": 1716219559,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 585993,
+      "num": 216258,
+      "word": "舍友因为不吃饭瘦了11斤",
+      "onboard_time": 1716644541,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 585690,
@@ -3793,6 +3817,14 @@
       "onboard_time": 1716596837,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551392,
+      "num": 486060,
+      "word": "日本昔日童星因杀人焚尸被捕",
+      "onboard_time": 1716641840,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 550291,
@@ -4353,14 +4385,6 @@
       "onboard_time": 1716203299,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 486060,
-      "num": 486060,
-      "word": "日本昔日童星因杀人焚尸被捕",
-      "onboard_time": 1716641840,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 485848,
@@ -5067,14 +5091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 427771,
-      "num": 317096,
-      "word": "中国人吃掉全世界70%的西瓜",
-      "onboard_time": 1716640159,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427738,
       "num": 427738,
       "word": "郑俊英准备移民",
@@ -5243,6 +5259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417481,
+      "num": 387592,
+      "word": "庆余年 春闱放榜",
+      "onboard_time": 1716645441,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 415324,
       "num": 415324,
       "word": "英国年度最性感男人",
@@ -5296,6 +5320,14 @@
       "word": "蔡依林回复王俊凯去南昌跳舞",
       "onboard_time": 1716182480,
       "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 410472,
+      "num": 217627,
+      "word": "林俊杰嘉宾胡彦斌",
+      "onboard_time": 1716645862,
+      "rank": 20,
       "category": "演出"
     },
     {
@@ -5473,6 +5505,14 @@
       "onboard_time": 1716297499,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 399755,
+      "num": 214305,
+      "word": "李现曾拒绝酱园弄邀约",
+      "onboard_time": 1716644659,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 399588,
@@ -5657,6 +5697,14 @@
       "onboard_time": 1716600858,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 386060,
+      "num": 212976,
+      "word": "井柏然不太方便",
+      "onboard_time": 1716643700,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 384968,
@@ -7715,6 +7763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273866,
+      "num": 273866,
+      "word": "房价下跌对普通人意味着什么",
+      "onboard_time": 1716633260,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273748,
       "num": 273748,
       "word": "荔枝好贵",
@@ -7955,14 +8011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261462,
-      "num": 156143,
-      "word": "井柏然不太方便",
-      "onboard_time": 1716643700,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 261281,
       "num": 261281,
       "word": "狂飙兄弟再返连云港拿鬼秤事件结果",
@@ -8032,6 +8080,14 @@
       "word": "张若昀版小范闲",
       "onboard_time": 1716510919,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 259258,
+      "num": 208437,
+      "word": "张若昀鞠婧祎曾合作过九州天空城",
+      "onboard_time": 1716645499,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -8105,6 +8161,14 @@
       "onboard_time": 1716028519,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 255792,
+      "num": 203944,
+      "word": "狐妖小红娘月红篇热度值破9000",
+      "onboard_time": 1716645800,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 255583,
@@ -9291,6 +9355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219390,
+      "num": 219390,
+      "word": "足总杯",
+      "onboard_time": 1716645800,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219360,
       "num": 219360,
       "word": "日本偶遇比伯海莉度假",
@@ -9883,14 +9955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206937,
-      "num": 232041,
-      "word": "房价下跌对普通人意味着什么",
-      "onboard_time": 1716633260,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206835,
       "num": 206835,
       "word": "怀孕的流浪猫爬28楼求助",
@@ -10105,6 +10169,14 @@
       "onboard_time": 1716380657,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203067,
+      "num": 203067,
+      "word": "杨万里卷子",
+      "onboard_time": 1716645380,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 202916,
@@ -10553,6 +10625,14 @@
       "onboard_time": 1716627380,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197078,
+      "num": 197078,
+      "word": "陈楚生演唱会",
+      "onboard_time": 1716646340,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 197046,
@@ -11363,6 +11443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 185223,
+      "num": 165410,
+      "word": "卓沅 开始回归厨房",
+      "onboard_time": 1716645740,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185142,
       "num": 185142,
       "word": "与凤行庆功宴",
@@ -11432,6 +11520,14 @@
       "word": "人民币为什么没有大面额钞票",
       "onboard_time": 1716630920,
       "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 184612,
+      "num": 219241,
+      "word": "本以为是霸总结果是颠公",
+      "onboard_time": 1716643100,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -12363,6 +12459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168226,
+      "num": 168226,
+      "word": "坐地铁千万不要靠这里",
+      "onboard_time": 1716643459,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168078,
       "num": 168078,
       "word": "边佑锡作息",
@@ -12777,14 +12881,6 @@
       "onboard_time": 1716365479,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 162660,
-      "num": 162660,
-      "word": "本以为是霸总结果是颠公",
-      "onboard_time": 1716643100,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 162508,
@@ -13851,6 +13947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148772,
+      "num": 148772,
+      "word": "山东泰山",
+      "onboard_time": 1716645620,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148739,
       "num": 148739,
       "word": "宋亚轩521卡点1314",
@@ -14067,14 +14171,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 146642,
-      "num": 146642,
-      "word": "坐地铁千万不要靠这里",
-      "onboard_time": 1716643459,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146625,
       "num": 172223,
       "word": "留学生半个小时做三道菜",
@@ -14097,6 +14193,14 @@
       "onboard_time": 1716079037,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146553,
+      "num": 146553,
+      "word": "你会入职午休只有1小时的公司吗",
+      "onboard_time": 1716645081,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 146487,
@@ -15472,6 +15576,14 @@
       "word": "福宝香香喀秋莎有个共享奶爸",
       "onboard_time": 1716272539,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127767,
+      "num": 146538,
+      "word": "江西一煤矿发生事故3人遇难",
+      "onboard_time": 1716646220,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -17563,6 +17675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94665,
+      "num": 146497,
+      "word": "曼城vs曼联首发",
+      "onboard_time": 1716644541,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94470,
       "num": 654653,
       "word": "主播扎堆背后的流量之祸",
@@ -18451,6 +18571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62453,
+      "num": 400985,
+      "word": "拦警车救人的5名少年找到了",
+      "onboard_time": 1716644600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61843,
       "num": 342412,
       "word": "古希腊掌管毕业写真的神",
@@ -18769,6 +18897,14 @@
       "onboard_time": 1716411790,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50067,
+      "num": 1027421,
+      "word": "透过数据看数字经济发展势能",
+      "onboard_time": 1716644360,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49593,

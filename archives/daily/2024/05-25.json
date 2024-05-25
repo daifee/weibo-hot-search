@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716644121042,
+  "endTime": 1716646624821,
   "band_list": [
     {
       "raw_hot": 2584147,
@@ -43,20 +43,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2266983,
+      "num": 2266983,
+      "word": "陈奕迅含泪致歉",
+      "onboard_time": 1716640039,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2241922,
       "num": 1869444,
       "word": "那英真的摇人了",
       "onboard_time": 1716563602,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2000896,
-      "num": 2000896,
-      "word": "陈奕迅含泪致歉",
-      "onboard_time": 1716640039,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 1928191,
@@ -73,6 +73,14 @@
       "onboard_time": 1716640278,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1701570,
+      "num": 981946,
+      "word": "那英电话内容 破解",
+      "onboard_time": 1716644900,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1670446,
@@ -251,20 +259,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 919185,
+      "num": 919185,
+      "word": "癌症来前1年身体会发生8种变化",
+      "onboard_time": 1716640459,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 896589,
       "num": 896589,
       "word": "台湾",
       "onboard_time": 1716615738,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 884489,
-      "num": 884489,
-      "word": "癌症来前1年身体会发生8种变化",
-      "onboard_time": 1716640459,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 877775,
@@ -451,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 626813,
+      "num": 626813,
+      "word": "中国人吃掉全世界70%的西瓜",
+      "onboard_time": 1716640159,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625352,
       "num": 254883,
       "word": "就不能是王菲吗",
@@ -505,6 +521,14 @@
       "onboard_time": 1716550999,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 585993,
+      "num": 216258,
+      "word": "舍友因为不吃饭瘦了11斤",
+      "onboard_time": 1716644541,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 585418,
@@ -595,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551392,
+      "num": 486060,
+      "word": "日本昔日童星因杀人焚尸被捕",
+      "onboard_time": 1716641840,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540939,
       "num": 540939,
       "word": "原来沈月是李嘉琦的嫡长闺",
@@ -657,14 +689,6 @@
       "onboard_time": 1716612138,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 486060,
-      "num": 486060,
-      "word": "日本昔日童星因杀人焚尸被捕",
-      "onboard_time": 1716641840,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 484496,
@@ -779,14 +803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 427771,
-      "num": 317096,
-      "word": "中国人吃掉全世界70%的西瓜",
-      "onboard_time": 1716640159,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422949,
       "num": 422949,
       "word": "东部战区称熊孩子定会感恩父母",
@@ -795,12 +811,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 417481,
+      "num": 387592,
+      "word": "庆余年 春闱放榜",
+      "onboard_time": 1716645441,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 410472,
+      "num": 217627,
+      "word": "林俊杰嘉宾胡彦斌",
+      "onboard_time": 1716645862,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 407811,
       "num": 407811,
       "word": "李克勤没去歌手去了披哥",
       "onboard_time": 1716632779,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399755,
+      "num": 214305,
+      "word": "李现曾拒绝酱园弄邀约",
+      "onboard_time": 1716644659,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 395375,
@@ -833,6 +873,14 @@
       "onboard_time": 1716600858,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 386060,
+      "num": 212976,
+      "word": "井柏然不太方便",
+      "onboard_time": 1716643700,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 381077,
@@ -1123,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273866,
+      "num": 273866,
+      "word": "房价下跌对普通人意味着什么",
+      "onboard_time": 1716633260,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268588,
       "num": 261290,
       "word": "原来有些酒店房卡是可以拿走的",
@@ -1155,20 +1211,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261462,
-      "num": 156143,
-      "word": "井柏然不太方便",
-      "onboard_time": 1716643700,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 260409,
       "num": 260409,
       "word": "mlxg一句不够强队友全红温",
       "onboard_time": 1716599658,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 259258,
+      "num": 208437,
+      "word": "张若昀鞠婧祎曾合作过九州天空城",
+      "onboard_time": 1716645499,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 258900,
@@ -1201,6 +1257,14 @@
       "onboard_time": 1716561385,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 255792,
+      "num": 203944,
+      "word": "狐妖小红娘月红篇热度值破9000",
+      "onboard_time": 1716645800,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 255322,
@@ -1387,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219390,
+      "num": 219390,
+      "word": "足总杯",
+      "onboard_time": 1716645800,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218074,
       "num": 152561,
       "word": "杨幂酱园弄发布会发言",
@@ -1507,14 +1579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206937,
-      "num": 232041,
-      "word": "房价下跌对普通人意味着什么",
-      "onboard_time": 1716633260,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203975,
       "num": 223830,
       "word": "爱德华兹致命失误",
@@ -1529,6 +1593,14 @@
       "onboard_time": 1716614239,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203067,
+      "num": 203067,
+      "word": "杨万里卷子",
+      "onboard_time": 1716645380,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 200168,
@@ -1561,6 +1633,14 @@
       "onboard_time": 1716627380,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197078,
+      "num": 197078,
+      "word": "陈楚生演唱会",
+      "onboard_time": 1716646340,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 196009,
@@ -1683,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185223,
+      "num": 165410,
+      "word": "卓沅 开始回归厨房",
+      "onboard_time": 1716645740,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185048,
       "num": 370260,
       "word": "甲状腺疾病容易盯上哪些人",
@@ -1696,6 +1784,14 @@
       "word": "人民币为什么没有大面额钞票",
       "onboard_time": 1716630920,
       "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 184612,
+      "num": 219241,
+      "word": "本以为是霸总结果是颠公",
+      "onboard_time": 1716643100,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -1851,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168226,
+      "num": 168226,
+      "word": "坐地铁千万不要靠这里",
+      "onboard_time": 1716643459,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167021,
       "num": 167021,
       "word": "感觉的到猫对这门亲事很满意",
@@ -1913,14 +2017,6 @@
       "onboard_time": 1716595638,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162660,
-      "num": 162660,
-      "word": "本以为是霸总结果是颠公",
-      "onboard_time": 1716643100,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 161218,
@@ -2091,6 +2187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148772,
+      "num": 148772,
+      "word": "山东泰山",
+      "onboard_time": 1716645620,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147845,
       "num": 147845,
       "word": "狐妖月红篇半是蜜糖半是伤",
@@ -2123,20 +2227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146642,
-      "num": 146642,
-      "word": "坐地铁千万不要靠这里",
-      "onboard_time": 1716643459,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146585,
       "num": 145507,
       "word": "陈赫关晓彤凑不出一个胆子",
       "onboard_time": 1716622099,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146553,
+      "num": 146553,
+      "word": "你会入职午休只有1小时的公司吗",
+      "onboard_time": 1716645081,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 145889,
@@ -2297,6 +2401,14 @@
       "onboard_time": 1716530239,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 127767,
+      "num": 146538,
+      "word": "江西一煤矿发生事故3人遇难",
+      "onboard_time": 1716646220,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126935,
@@ -2579,6 +2691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94665,
+      "num": 146497,
+      "word": "曼城vs曼联首发",
+      "onboard_time": 1716644541,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92754,
       "num": 99944,
       "word": "金毛被锦鲤咬了",
@@ -2707,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62453,
+      "num": 400985,
+      "word": "拦警车救人的5名少年找到了",
+      "onboard_time": 1716644600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61809,
       "num": 414845,
       "word": "专科情侣相约考上同校同专业研究生",
@@ -2769,6 +2897,14 @@
       "onboard_time": 1716617178,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50067,
+      "num": 1027421,
+      "word": "透过数据看数字经济发展势能",
+      "onboard_time": 1716644360,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49593,
