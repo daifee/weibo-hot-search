@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716640376893,
+  "endTime": 1716641243072,
   "band_list": [
     {
       "raw_hot": 2584147,
@@ -17,6 +17,14 @@
       "onboard_time": 1716609438,
       "rank": 0,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 2422684,
+      "num": 2422684,
+      "word": "陈奕迅发文",
+      "onboard_time": 1716640039,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 2416405,
@@ -75,6 +83,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1564938,
+      "num": 1170552,
+      "word": "他退出TFBOYS后老了很多",
+      "onboard_time": 1716640278,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1559005,
       "num": 1559005,
       "word": "汪苏泷 走又走不了赢又赢不了",
@@ -89,6 +105,14 @@
       "onboard_time": 1716566481,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1363557,
+      "num": 1013553,
+      "word": "杨幂夏晚晴",
+      "onboard_time": 1716639438,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 1352983,
@@ -187,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 957965,
+      "num": 957965,
+      "word": "陈奕迅含泪致歉",
+      "onboard_time": 1716640039,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 939685,
       "num": 939685,
       "word": "无意间点开了老婆的备忘录",
@@ -251,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 825914,
-      "num": 825914,
-      "word": "他退出TFBOYS后老了很多",
-      "onboard_time": 1716640278,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 782150,
       "num": 782150,
       "word": "逆水寒已悄悄删除IVE字母",
@@ -273,14 +297,6 @@
       "onboard_time": 1716626719,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 741329,
-      "num": 741329,
-      "word": "杨幂夏晚晴",
-      "onboard_time": 1716639438,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 733318,
@@ -403,12 +419,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 634616,
-      "num": 634616,
-      "word": "陈奕迅发文",
-      "onboard_time": 1716640039,
-      "rank": 7,
-      "category": "演出"
+      "raw_hot": 632323,
+      "num": 632323,
+      "word": "你身边有疑似重生的人吗",
+      "onboard_time": 1716639260,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 625352,
@@ -555,8 +571,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540939,
+      "num": 540939,
+      "word": "原来沈月是李嘉琦的嫡长闺",
+      "onboard_time": 1716638418,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533112,
-      "num": 582860,
+      "num": 775954,
       "word": "江西赣州公交坠落9人受伤",
       "onboard_time": 1716634038,
       "rank": 14,
@@ -643,8 +667,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 475684,
-      "num": 731098,
+      "raw_hot": 476629,
+      "num": 1030410,
       "word": "福宝与大家见面的日子越来越近啦",
       "onboard_time": 1716636139,
       "rank": 36,
@@ -689,14 +713,6 @@
       "onboard_time": 1716622219,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 451353,
-      "num": 451353,
-      "word": "原来沈月是李嘉琦的嫡长闺",
-      "onboard_time": 1716638418,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 450500,
@@ -779,14 +795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 382077,
-      "num": 382077,
-      "word": "你身边有疑似重生的人吗",
-      "onboard_time": 1716639260,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 381077,
       "num": 143359,
       "word": "张若昀每天晚上好忙啊",
@@ -827,12 +835,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362092,
+      "num": 362092,
+      "word": "原来朋友圈很多官宣照是这么来的",
+      "onboard_time": 1716639498,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 361593,
       "num": 355914,
       "word": "基地就福宝被偷拍报警",
       "onboard_time": 1716596417,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359649,
+      "num": 196520,
+      "word": "凡希亚 李蠕蠕",
+      "onboard_time": 1716640099,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 358742,
@@ -1019,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299393,
-      "num": 232204,
-      "word": "陈奕迅含泪致歉",
-      "onboard_time": 1716640039,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 297581,
       "num": 379271,
       "word": "有些情绪价值终究是错付了",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1716591914,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267659,
-      "num": 231877,
-      "word": "原来朋友圈很多官宣照是这么来的",
-      "onboard_time": 1716639498,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 264434,
@@ -1531,6 +1539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190176,
+      "num": 190176,
+      "word": "癌症来前1年身体会发生8种变化",
+      "onboard_time": 1716640459,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 189701,
       "num": 243477,
       "word": "黄宣正常唱歌 好听",
@@ -1699,20 +1715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172355,
-      "num": 172355,
-      "word": "凡希亚 李蠕蠕",
-      "onboard_time": 1716640099,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172266,
       "num": 438235,
       "word": "法国娃第一次吃馒头连说好吃",
       "onboard_time": 1716600678,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172165,
+      "num": 193940,
+      "word": "中国人吃掉全世界70%的西瓜",
+      "onboard_time": 1716640159,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172143,
@@ -1937,6 +1953,14 @@
       "onboard_time": 1716608477,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152383,
+      "num": 152383,
+      "word": "罪臣范闲下次还敢",
+      "onboard_time": 1716640519,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 151893,
@@ -2395,6 +2419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106745,
+      "num": 231918,
+      "word": "消费者体感618美妆价格比往届低",
+      "onboard_time": 1716638538,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 105798,
       "num": 105798,
       "word": "狐妖王者荣耀梦幻联动",
@@ -2433,6 +2465,14 @@
       "onboard_time": 1716598999,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99797,
+      "num": 105820,
+      "word": "苹果教育优惠新iPad打9折",
+      "onboard_time": 1716641119,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 96449,
@@ -2483,14 +2523,6 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 80844,
-      "num": 125269,
-      "word": "中国人吃掉全世界70%的西瓜",
-      "onboard_time": 1716640159,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79265,
       "num": 438664,
       "word": "杨绛晚年最后做的一件必要的事",
@@ -2537,14 +2569,6 @@
       "onboard_time": 1716557128,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 65939,
-      "num": 231918,
-      "word": "消费者体感618美妆价格比往届低",
-      "onboard_time": 1716638538,
-      "rank": 29,
-      "category": "美妆"
     },
     {
       "raw_hot": 64855,
@@ -2604,7 +2628,7 @@
     },
     {
       "raw_hot": 56142,
-      "num": 582640,
+      "num": 645679,
       "word": "这是一年级仔仔最拉风的一天",
       "onboard_time": 1716639799,
       "rank": 9,
@@ -2620,7 +2644,7 @@
     },
     {
       "raw_hot": 52023,
-      "num": 1019646,
+      "num": 1171056,
       "word": "在文博会遇见东方韵味",
       "onboard_time": 1716628218,
       "rank": 2,
@@ -2843,20 +2867,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13466,
+      "num": 394022,
+      "word": "杨迪喊你上天猫618买好六同款",
+      "onboard_time": 1716638418,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13431,
       "num": 17601,
       "word": "志愿者帮92岁阿婆卖枇杷",
       "onboard_time": 1716581950,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 11871,
-      "num": 378969,
-      "word": "杨迪喊你上天猫618买好六同款",
-      "onboard_time": 1716638418,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 11760,
