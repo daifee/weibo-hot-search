@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716662118559,
+  "endTime": 1716664520024,
   "band_list": [
     {
       "raw_hot": 1662712,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240421,
+      "num": 84797,
+      "word": "17岁女生想纹男友名被老板劝离",
+      "onboard_time": 1716659955,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224437,
       "num": 224437,
       "word": "酱园弄",
@@ -387,14 +395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 104012,
-      "num": 64917,
-      "word": "17岁女生想纹男友名被老板劝离",
-      "onboard_time": 1716659955,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99125,
       "num": 99125,
       "word": "志愿者为何开始避雷演唱会了",
@@ -457,6 +457,14 @@
       "onboard_time": 1716652939,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25066,
+      "num": 32193,
+      "word": "新说唱2024",
+      "onboard_time": 1716663191,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 12931,
