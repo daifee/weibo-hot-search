@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716607396860,
+  "endTime": 1716608121980,
   "band_list": [
     {
       "raw_hot": 2416405,
@@ -83,8 +83,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 939685,
+      "num": 939685,
+      "word": "无意间点开了老婆的备忘录",
+      "onboard_time": 1716602899,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 929660,
-      "num": 470132,
+      "num": 574971,
       "word": "杨幂戛纳生图",
       "onboard_time": 1716596716,
       "rank": 6,
@@ -97,14 +105,6 @@
       "onboard_time": 1716554123,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 903780,
-      "num": 903780,
-      "word": "无意间点开了老婆的备忘录",
-      "onboard_time": 1716602899,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 877775,
@@ -139,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 668881,
+      "num": 241881,
+      "word": "张予曦腿环",
+      "onboard_time": 1716603738,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 668188,
       "num": 255302,
       "word": "补位歌手是谁",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 667378,
-      "num": 471331,
+      "num": 579912,
       "word": "王力宏 火力全开",
       "onboard_time": 1716602419,
       "rank": 11,
@@ -161,14 +169,6 @@
       "onboard_time": 1716601819,
       "rank": 4,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 645869,
-      "num": 241881,
-      "word": "张予曦腿环",
-      "onboard_time": 1716603738,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 625352,
@@ -195,12 +195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585418,
+      "num": 585418,
+      "word": "吴艳妮100米栏世界排名创新高",
+      "onboard_time": 1716604999,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 568201,
       "num": 341408,
       "word": "亚当演技",
       "onboard_time": 1716595878,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 565217,
+      "num": 565217,
+      "word": "东契奇绝杀森林狼",
+      "onboard_time": 1716607038,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 556289,
@@ -217,6 +233,14 @@
       "onboard_time": 1716596837,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527693,
+      "num": 223146,
+      "word": "马斯克裁员裁到大动脉",
+      "onboard_time": 1716604398,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 499206,
@@ -251,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 473108,
-      "num": 473108,
-      "word": "吴艳妮100米栏世界排名创新高",
-      "onboard_time": 1716604999,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 468482,
       "num": 442622,
       "word": "你好星期六全员狐狸面具",
@@ -275,22 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463950,
-      "num": 223146,
-      "word": "马斯克裁员裁到大动脉",
-      "onboard_time": 1716604398,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 456673,
-      "num": 456673,
-      "word": "东契奇绝杀森林狼",
-      "onboard_time": 1716607038,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 440515,
       "num": 440515,
       "word": "班主任惩罚学生用影子模仿青蛙",
@@ -304,6 +304,14 @@
       "word": "喂 我老那",
       "onboard_time": 1716602299,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 387757,
+      "num": 281079,
+      "word": "奔跑吧AI换脸",
+      "onboard_time": 1716606440,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -363,20 +371,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 346977,
+      "raw_hot": 352711,
       "num": 239141,
       "word": "女子购物偷手机慌得把7.5元付成75",
       "onboard_time": 1716603259,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328969,
-      "num": 218090,
-      "word": "奔跑吧AI换脸",
-      "onboard_time": 1716606440,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 322043,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286225,
+      "num": 217088,
+      "word": "甲状腺不好全身都被牵连",
+      "onboard_time": 1716606559,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 285829,
       "num": 196839,
       "word": "投那英",
@@ -465,14 +473,6 @@
       "onboard_time": 1716591914,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266685,
-      "num": 212612,
-      "word": "甲状腺不好全身都被牵连",
-      "onboard_time": 1716606559,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 263682,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243588,
+      "num": 243588,
+      "word": "台湾当归也必然回归",
+      "onboard_time": 1716606618,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 230407,
       "num": 202544,
       "word": "章子怡项链上写着醒醒",
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212300,
+      "num": 212300,
+      "word": "NBA",
+      "onboard_time": 1716607278,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207403,
       "num": 204892,
       "word": "酱园弄戛纳口碑",
@@ -587,12 +603,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199132,
-      "num": 199132,
-      "word": "台湾当归也必然回归",
-      "onboard_time": 1716606618,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 199082,
+      "num": 199082,
+      "word": "爱德华兹致命失误",
+      "onboard_time": 1716607639,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 198541,
@@ -667,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181068,
+      "num": 181068,
+      "word": "歌手 演员请就位",
+      "onboard_time": 1716607759,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176996,
       "num": 162239,
       "word": "汪苏泷第六名",
@@ -691,12 +715,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169964,
+      "num": 169964,
+      "word": "独行侠2比0森林狼",
+      "onboard_time": 1716607999,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169587,
       "num": 169587,
       "word": "小沈阳自荐歌手",
       "onboard_time": 1716601758,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169230,
+      "num": 169230,
+      "word": "东契奇厉害",
+      "onboard_time": 1716607400,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 166691,
@@ -739,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159856,
+      "num": 445674,
+      "word": "小学生痴迷烟卡商家趁机卖香烟",
+      "onboard_time": 1716606199,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158360,
       "num": 158360,
       "word": "多方向抵近台岛战巡演练模拟动画",
@@ -763,12 +811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156538,
+      "num": 156538,
+      "word": "欧文李凯尔斗气",
+      "onboard_time": 1716607278,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155906,
       "num": 108750,
       "word": "5个部位痒可能感染了真菌",
       "onboard_time": 1716591853,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154211,
+      "num": 154211,
+      "word": "真的建议大家考北京大学",
+      "onboard_time": 1716607818,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 151893,
@@ -851,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132924,
-      "num": 132924,
-      "word": "NBA",
-      "onboard_time": 1716607278,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130742,
       "num": 130742,
       "word": "李凯尔发牌大师",
@@ -891,12 +947,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121851,
-      "num": 121851,
-      "word": "欧文李凯尔斗气",
-      "onboard_time": 1716607278,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 127872,
+      "num": 127872,
+      "word": "逆水寒回应被指公费追星ive",
+      "onboard_time": 1716607937,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 119641,
@@ -995,14 +1051,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98699,
-      "num": 445674,
-      "word": "小学生痴迷烟卡商家趁机卖香烟",
-      "onboard_time": 1716606199,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92754,
       "num": 99944,
       "word": "金毛被锦鲤咬了",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1716585013,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49593,
+      "num": 212647,
+      "word": "30年没下水的大哥跳江救回溺水男童",
+      "onboard_time": 1716605477,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43842,

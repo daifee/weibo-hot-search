@@ -1,0 +1,410 @@
+{
+  "runTime": 1716608121980,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1786024,
+        "num": 1786024,
+        "word": "亚当回国了",
+        "onboard_time": 1716599959,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1187788,
+        "num": 1187788,
+        "word": "中国台湾省",
+        "onboard_time": 1716539539,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26009,
+        "num": 1059685,
+        "word": "听着小美满愿丰收美满",
+        "onboard_time": 1716558148,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939685,
+        "num": 939685,
+        "word": "无意间点开了老婆的备忘录",
+        "onboard_time": 1716602899,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 713047,
+        "num": 713047,
+        "word": "王心凌 我是中华民族的一份子",
+        "onboard_time": 1716594436,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585418,
+        "num": 585418,
+        "word": "吴艳妮100米栏世界排名创新高",
+        "onboard_time": 1716604999,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627048,
+        "num": 579912,
+        "word": "王力宏 火力全开",
+        "onboard_time": 1716602419,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595336,
+        "num": 574971,
+        "word": "杨幂戛纳生图",
+        "onboard_time": 1716596716,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 565217,
+        "num": 565217,
+        "word": "东契奇绝杀森林狼",
+        "onboard_time": 1716607038,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305247,
+        "num": 305247,
+        "word": "小学生裤子掉了跳绳拿第一",
+        "onboard_time": 1716595878,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575364,
+        "num": 302926,
+        "word": "父亲称13岁女儿遭男同学猥亵",
+        "onboard_time": 1716601819,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 432953,
+        "num": 293971,
+        "word": "那英真的摇人了",
+        "onboard_time": 1716563602,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412668,
+        "num": 281618,
+        "word": "你好星期六全员狐狸面具",
+        "onboard_time": 1716604518,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387757,
+        "num": 281079,
+        "word": "奔跑吧AI换脸",
+        "onboard_time": 1716606440,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159856,
+        "num": 271097,
+        "word": "小学生痴迷烟卡商家趁机卖香烟",
+        "onboard_time": 1716606199,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369350,
+        "num": 260791,
+        "word": "喂 我老那",
+        "onboard_time": 1716602299,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257021,
+        "num": 257021,
+        "word": "有些情绪价值终究是错付了",
+        "onboard_time": 1716602419,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243588,
+        "num": 243588,
+        "word": "台湾当归也必然回归",
+        "onboard_time": 1716606618,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228099,
+        "num": 228099,
+        "word": "福宝",
+        "onboard_time": 1716596837,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223965,
+        "num": 223965,
+        "word": "班主任惩罚学生用影子模仿青蛙",
+        "onboard_time": 1716599658,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 668881,
+        "num": 223165,
+        "word": "张予曦腿环",
+        "onboard_time": 1716603738,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527693,
+        "num": 222565,
+        "word": "马斯克裁员裁到大动脉",
+        "onboard_time": 1716604398,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 362053,
+        "num": 221468,
+        "word": "亚当证明芒果音响真的顶级",
+        "onboard_time": 1716600139,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352711,
+        "num": 219802,
+        "word": "女子购物偷手机慌得把7.5元付成75",
+        "onboard_time": 1716603259,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295509,
+        "num": 219259,
+        "word": "何炅快回来吧",
+        "onboard_time": 1716595577,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286225,
+        "num": 217088,
+        "word": "甲状腺不好全身都被牵连",
+        "onboard_time": 1716606559,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243972,
+        "num": 216379,
+        "word": "蔡依林 我们中国南昌最热情了",
+        "onboard_time": 1716558927,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247740,
+        "num": 215062,
+        "word": "亚当 限时投票",
+        "onboard_time": 1716552923,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243965,
+        "num": 214040,
+        "word": "章子怡戛纳红毯",
+        "onboard_time": 1716593355,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49593,
+        "num": 212647,
+        "word": "30年没下水的大哥跳江救回溺水男童",
+        "onboard_time": 1716605477,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212300,
+        "num": 212300,
+        "word": "NBA",
+        "onboard_time": 1716607278,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211652,
+        "num": 211652,
+        "word": "我爱我",
+        "onboard_time": 1716603918,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199082,
+        "num": 199082,
+        "word": "爱德华兹致命失误",
+        "onboard_time": 1716607639,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198757,
+        "num": 198757,
+        "word": "张杰夸歌手外国女歌手唱得好",
+        "onboard_time": 1716599658,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187344,
+        "num": 187344,
+        "word": "李现帮杨幂拍照",
+        "onboard_time": 1716600858,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186219,
+        "num": 186219,
+        "word": "岳父母连续寄海鲜3个月小伙崩溃退群",
+        "onboard_time": 1716592995,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181068,
+        "num": 181068,
+        "word": "歌手 演员请就位",
+        "onboard_time": 1716607759,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178757,
+        "num": 178757,
+        "word": "歌手 同歌异构",
+        "onboard_time": 1716603498,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176342,
+        "num": 176342,
+        "word": "乡镇医院精神科快被中学生挤满了",
+        "onboard_time": 1716602659,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169964,
+        "num": 169964,
+        "word": "独行侠2比0森林狼",
+        "onboard_time": 1716607999,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169230,
+        "num": 169230,
+        "word": "东契奇厉害",
+        "onboard_time": 1716607400,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156538,
+        "num": 156538,
+        "word": "欧文李凯尔斗气",
+        "onboard_time": 1716607278,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154211,
+        "num": 154211,
+        "word": "真的建议大家考北京大学",
+        "onboard_time": 1716607818,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152393,
+        "num": 152393,
+        "word": "养了十几年的鳄龟突然站起来了",
+        "onboard_time": 1716603678,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139645,
+        "num": 139645,
+        "word": "胖猫案细节公布",
+        "onboard_time": 1716560007,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135067,
+        "num": 135067,
+        "word": "酱园弄戛纳口碑",
+        "onboard_time": 1716600798,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132933,
+        "num": 132933,
+        "word": "刘强东称业绩差且不拼搏不是兄弟",
+        "onboard_time": 1716594436,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127872,
+        "num": 127872,
+        "word": "逆水寒回应被指公费追星ive",
+        "onboard_time": 1716607937,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117766,
+        "num": 117766,
+        "word": "mlxg一句不够强队友全红温",
+        "onboard_time": 1716599658,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116055,
+        "num": 116055,
+        "word": "伤肝又致癌甜饮料堪比伤肝水",
+        "onboard_time": 1716591853,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化山东篇章#"
+    }
+  }
+}
