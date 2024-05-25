@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716655017809,
+  "endTime": 1716657491481,
   "band_list": [
     {
       "raw_hot": 1662712,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617261,
+      "num": 223336,
+      "word": "月薪三千的工作有必要上吗",
+      "onboard_time": 1716652278,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 600067,
       "num": 600067,
       "word": "微信置顶一个很心酸的设计",
@@ -49,6 +57,14 @@
       "onboard_time": 1716648620,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 518913,
+      "num": 325406,
+      "word": "王骁纽约州执业律师宣誓vlog",
+      "onboard_time": 1716651500,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 507642,
@@ -81,14 +97,6 @@
       "onboard_time": 1716647601,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 390768,
-      "num": 197281,
-      "word": "王骁纽约州执业律师宣誓vlog",
-      "onboard_time": 1716651500,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 364269,
@@ -129,14 +137,6 @@
       "onboard_time": 1716648562,
       "rank": 15,
       "category": "体育,教育"
-    },
-    {
-      "raw_hot": 317106,
-      "num": 223336,
-      "word": "月薪三千的工作有必要上吗",
-      "onboard_time": 1716652278,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 310093,
@@ -243,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176796,
+      "num": 147234,
+      "word": "邓紫棋将刷新亚洲女歌手纪录",
+      "onboard_time": 1716655157,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166960,
       "num": 166960,
       "word": "林俊杰嘉宾胡彦斌",
@@ -331,20 +339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119612,
+      "num": 119612,
+      "word": "infp的完美主义",
+      "onboard_time": 1716653599,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119469,
       "num": 119469,
       "word": "陈奕迅发文",
       "onboard_time": 1716640039,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116831,
-      "num": 116831,
-      "word": "infp的完美主义",
-      "onboard_time": 1716653599,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 110599,
@@ -371,6 +379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 100985,
+      "num": 100985,
+      "word": "手机一定要清理的四大文件",
+      "onboard_time": 1716656176,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 91578,
       "num": 100469,
       "word": "原来沈月是李嘉琦的嫡长闺",
@@ -379,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81387,
+      "num": 81387,
+      "word": "志愿者为何开始避雷演唱会了",
+      "onboard_time": 1716657316,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 78846,
       "num": 106619,
       "word": "原来朋友圈很多官宣照是这么来的",
       "onboard_time": 1716639498,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77967,
+      "num": 103138,
+      "word": "曼联2比1曼城",
+      "onboard_time": 1716655337,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 72670,
