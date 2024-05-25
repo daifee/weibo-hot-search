@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716658498337,
+  "endTime": 1716661371588,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -28075,6 +28075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 273267,
+      "num": 273267,
+      "word": "邓紫棋将刷新亚洲女歌手纪录",
+      "onboard_time": 1716655157,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 273004,
       "num": 273004,
       "word": "T1战胜G2",
@@ -32985,14 +32993,6 @@
       "onboard_time": 1715850258,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227544,
-      "num": 227544,
-      "word": "邓紫棋将刷新亚洲女歌手纪录",
-      "onboard_time": 1716655157,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 227525,
@@ -65201,6 +65201,14 @@
       "onboard_time": 1716655337,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77967,
+      "num": 59882,
+      "word": "17岁女生想纹男友名被老板劝离",
+      "onboard_time": 1716659955,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77953,
