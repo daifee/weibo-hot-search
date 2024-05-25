@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716604834395,
+  "endTime": 1716607396860,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -1588,7 +1588,7 @@
     },
     {
       "raw_hot": 929660,
-      "num": 443268,
+      "num": 470132,
       "word": "杨幂戛纳生图",
       "onboard_time": 1716596716,
       "rank": 6,
@@ -1657,6 +1657,14 @@
       "onboard_time": 1716352522,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 903780,
+      "num": 903780,
+      "word": "无意间点开了老婆的备忘录",
+      "onboard_time": 1716602899,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 903144,
@@ -1945,14 +1953,6 @@
       "onboard_time": 1716536659,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 811475,
-      "num": 437339,
-      "word": "无意间点开了老婆的备忘录",
-      "onboard_time": 1716602899,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 811137,
@@ -2667,6 +2667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 667378,
+      "num": 471331,
+      "word": "王力宏 火力全开",
+      "onboard_time": 1716602419,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 666722,
       "num": 666722,
       "word": "蔡徐坤范思哲全球品牌大使",
@@ -2681,6 +2689,14 @@
       "onboard_time": 1716343457,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 660192,
+      "num": 591853,
+      "word": "父亲称13岁女儿遭男同学猥亵",
+      "onboard_time": 1716601819,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 657139,
@@ -2721,14 +2737,6 @@
       "onboard_time": 1716275119,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 654639,
-      "num": 440416,
-      "word": "王力宏 火力全开",
-      "onboard_time": 1716602419,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 653371,
@@ -2777,6 +2785,14 @@
       "onboard_time": 1716136697,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 645869,
+      "num": 241881,
+      "word": "张予曦腿环",
+      "onboard_time": 1716603738,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 643329,
@@ -3081,14 +3097,6 @@
       "onboard_time": 1716424400,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 591853,
-      "num": 591853,
-      "word": "父亲称13岁女儿遭男同学猥亵",
-      "onboard_time": 1716601819,
-      "rank": 4,
-      "category": "社会负面"
     },
     {
       "raw_hot": 591735,
@@ -3755,14 +3763,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 505811,
-      "num": 241881,
-      "word": "张予曦腿环",
-      "onboard_time": 1716603738,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 502027,
       "num": 344297,
       "word": "李艾的腿被小朋友以为踩了高跷",
@@ -4075,6 +4075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 473108,
+      "num": 473108,
+      "word": "吴艳妮100米栏世界排名创新高",
+      "onboard_time": 1716604999,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 472638,
       "num": 184435,
       "word": "应采儿尊重Jasper不去饭局",
@@ -4121,6 +4129,14 @@
       "onboard_time": 1716555625,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468482,
+      "num": 442622,
+      "word": "你好星期六全员狐狸面具",
+      "onboard_time": 1716604518,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 468394,
@@ -4177,6 +4193,14 @@
       "onboard_time": 1716595878,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463950,
+      "num": 223146,
+      "word": "马斯克裁员裁到大动脉",
+      "onboard_time": 1716604398,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 462949,
@@ -4257,6 +4281,14 @@
       "onboard_time": 1716276679,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456673,
+      "num": 456673,
+      "word": "东契奇绝杀森林狼",
+      "onboard_time": 1716607038,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 455193,
@@ -4500,7 +4532,7 @@
     },
     {
       "raw_hot": 435477,
-      "num": 243196,
+      "num": 399827,
       "word": "喂 我老那",
       "onboard_time": 1716602299,
       "rank": 20,
@@ -5499,6 +5531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346977,
+      "num": 239141,
+      "word": "女子购物偷手机慌得把7.5元付成75",
+      "onboard_time": 1716603259,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346361,
       "num": 346361,
       "word": "福建海警舰艇编队开展综合执法演练",
@@ -5841,6 +5881,14 @@
       "onboard_time": 1716213741,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328969,
+      "num": 218090,
+      "word": "奔跑吧AI换脸",
+      "onboard_time": 1716606440,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 328292,
@@ -6267,14 +6315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 310743,
-      "num": 239141,
-      "word": "女子购物偷手机慌得把7.5元付成75",
-      "onboard_time": 1716603259,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309442,
       "num": 647166,
       "word": "回头是岸",
@@ -6465,6 +6505,14 @@
       "onboard_time": 1716200300,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 297581,
+      "num": 379271,
+      "word": "有些情绪价值终究是错付了",
+      "onboard_time": 1716602419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297238,
@@ -6819,14 +6867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280088,
-      "num": 379271,
-      "word": "有些情绪价值终究是错付了",
-      "onboard_time": 1716602419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279839,
       "num": 279839,
       "word": "为什么喝速溶咖啡的人变少了",
@@ -7105,6 +7145,14 @@
       "onboard_time": 1716440660,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 266685,
+      "num": 212612,
+      "word": "甲状腺不好全身都被牵连",
+      "onboard_time": 1716606559,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 266293,
@@ -8883,14 +8931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208149,
-      "num": 208149,
-      "word": "你好星期六全员狐狸面具",
-      "onboard_time": 1716604518,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207957,
       "num": 768432,
       "word": "鸣潮全球公测开启",
@@ -9379,14 +9419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199876,
-      "num": 199876,
-      "word": "马斯克裁员裁到大动脉",
-      "onboard_time": 1716604398,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 199856,
       "num": 199856,
       "word": "白鹿说少骂点姚译添吧",
@@ -9441,6 +9473,14 @@
       "onboard_time": 1716356238,
       "rank": 28,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 199132,
+      "num": 199132,
+      "word": "台湾当归也必然回归",
+      "onboard_time": 1716606618,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199037,
@@ -9947,6 +9987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192230,
+      "num": 192230,
+      "word": "钢铁森林官宣开机",
+      "onboard_time": 1716606318,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192114,
       "num": 192114,
       "word": "canyon大满贯",
@@ -10307,6 +10355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185613,
+      "num": 185613,
+      "word": "歌手 同歌异构",
+      "onboard_time": 1716603498,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185426,
       "num": 185426,
       "word": "内塔尼亚胡称美国一年2万人饿死",
@@ -10505,14 +10561,6 @@
       "onboard_time": 1716341837,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180647,
-      "num": 175864,
-      "word": "歌手 同歌异构",
-      "onboard_time": 1716603498,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 180624,
@@ -13723,6 +13771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132924,
+      "num": 132924,
+      "word": "NBA",
+      "onboard_time": 1716081376,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132917,
       "num": 132917,
       "word": "一看就是爸爸宠大的女鹅",
@@ -14579,6 +14635,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 121851,
+      "num": 121851,
+      "word": "欧文李凯尔斗气",
+      "onboard_time": 1716607278,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121832,
       "num": 121832,
       "word": "为何阿嬷手作10元咖啡爆火",
@@ -14939,6 +15003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117297,
+      "num": 117297,
+      "word": "我们都有一个家名叫中国",
+      "onboard_time": 1716605238,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117286,
       "num": 117286,
       "word": "杨鸣又被抛起来了",
@@ -15123,6 +15195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114037,
+      "num": 114037,
+      "word": "恋与制作人",
+      "onboard_time": 1716606077,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113966,
       "num": 113966,
       "word": "韩国政府因newjeans制定编舞著作权方针",
@@ -15297,14 +15377,6 @@
       "onboard_time": 1716218720,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110762,
-      "num": 110762,
-      "word": "NBA",
-      "onboard_time": 1716081376,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 110648,
@@ -15873,6 +15945,14 @@
       "onboard_time": 1716494412,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98699,
+      "num": 445674,
+      "word": "小学生痴迷烟卡商家趁机卖香烟",
+      "onboard_time": 1716606199,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98668,

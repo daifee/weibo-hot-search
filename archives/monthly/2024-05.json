@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716604834395,
+  "endTime": 1716607396860,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -5884,7 +5884,7 @@
     },
     {
       "raw_hot": 929660,
-      "num": 443268,
+      "num": 470132,
       "word": "杨幂戛纳生图",
       "onboard_time": 1716596716,
       "rank": 6,
@@ -6193,6 +6193,14 @@
       "onboard_time": 1716352522,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 903780,
+      "num": 903780,
+      "word": "无意间点开了老婆的备忘录",
+      "onboard_time": 1716602899,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 903715,
@@ -7425,14 +7433,6 @@
       "onboard_time": 1715764877,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 811475,
-      "num": 437339,
-      "word": "无意间点开了老婆的备忘录",
-      "onboard_time": 1716602899,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 811447,
@@ -10115,6 +10115,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 667378,
+      "num": 471331,
+      "word": "王力宏 火力全开",
+      "onboard_time": 1716602419,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 666978,
       "num": 581503,
       "word": "邓超说自己嫁到上海很久了",
@@ -10233,6 +10241,14 @@
       "onboard_time": 1714822098,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 660192,
+      "num": 591853,
+      "word": "父亲称13岁女儿遭男同学猥亵",
+      "onboard_time": 1716601819,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 659830,
@@ -10401,14 +10417,6 @@
       "onboard_time": 1714797678,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 654639,
-      "num": 440416,
-      "word": "王力宏 火力全开",
-      "onboard_time": 1716602419,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 654534,
@@ -10617,6 +10625,14 @@
       "onboard_time": 1714886418,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645869,
+      "num": 241881,
+      "word": "张予曦腿环",
+      "onboard_time": 1716603738,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 645791,
@@ -12017,14 +12033,6 @@
       "onboard_time": 1715123657,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 591853,
-      "num": 591853,
-      "word": "父亲称13岁女儿遭男同学猥亵",
-      "onboard_time": 1716601819,
-      "rank": 4,
-      "category": "社会负面"
     },
     {
       "raw_hot": 591735,
@@ -14563,14 +14571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 505811,
-      "num": 241881,
-      "word": "张予曦腿环",
-      "onboard_time": 1716603738,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 505692,
       "num": 505692,
       "word": "孟子义感谢苗苗救场",
@@ -15779,6 +15779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 473108,
+      "num": 473108,
+      "word": "吴艳妮100米栏世界排名创新高",
+      "onboard_time": 1716604999,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 472878,
       "num": 247411,
       "word": "很烧钱却小众的爱好",
@@ -15961,6 +15969,14 @@
       "onboard_time": 1716555625,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468482,
+      "num": 442622,
+      "word": "你好星期六全员狐狸面具",
+      "onboard_time": 1716604518,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 468394,
@@ -16225,6 +16241,14 @@
       "onboard_time": 1715766137,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463950,
+      "num": 223146,
+      "word": "马斯克裁员裁到大动脉",
+      "onboard_time": 1716604398,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 463933,
@@ -16545,6 +16569,14 @@
       "onboard_time": 1715693059,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456673,
+      "num": 456673,
+      "word": "东契奇绝杀森林狼",
+      "onboard_time": 1716607038,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 455763,
@@ -17436,7 +17468,7 @@
     },
     {
       "raw_hot": 435477,
-      "num": 243196,
+      "num": 399827,
       "word": "喂 我老那",
       "onboard_time": 1716602299,
       "rank": 20,
@@ -21955,6 +21987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 346977,
+      "num": 239141,
+      "word": "女子购物偷手机慌得把7.5元付成75",
+      "onboard_time": 1716603259,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346945,
       "num": 346945,
       "word": "万妮达一公排名倒数",
@@ -23168,6 +23208,14 @@
       "word": "那英跟韩红的反应真像",
       "onboard_time": 1715570179,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 328969,
+      "num": 218090,
+      "word": "奔跑吧AI换脸",
+      "onboard_time": 1716606440,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -24387,14 +24435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 310743,
-      "num": 239141,
-      "word": "女子购物偷手机慌得把7.5元付成75",
-      "onboard_time": 1716603259,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310452,
       "num": 234445,
       "word": "彭于晏佟丽娅戛纳自拍",
@@ -25225,6 +25265,14 @@
       "onboard_time": 1715157380,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 297581,
+      "num": 379271,
+      "word": "有些情绪价值终究是错付了",
+      "onboard_time": 1716602419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297482,
@@ -26563,14 +26611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280088,
-      "num": 379271,
-      "word": "有些情绪价值终究是错付了",
-      "onboard_time": 1716602419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279981,
       "num": 279981,
       "word": "陈少熙 狗叫之夜",
@@ -27809,6 +27849,14 @@
       "onboard_time": 1714997418,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 266685,
+      "num": 212612,
+      "word": "甲状腺不好全身都被牵连",
+      "onboard_time": 1716606559,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 266375,
@@ -35043,14 +35091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208149,
-      "num": 208149,
-      "word": "你好星期六全员狐狸面具",
-      "onboard_time": 1716604518,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208092,
       "num": 208092,
       "word": "薛之谦新疆抢票",
@@ -37251,14 +37291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199876,
-      "num": 199876,
-      "word": "马斯克裁员裁到大动脉",
-      "onboard_time": 1716604398,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 199869,
       "num": 199869,
       "word": "电影她的小梨涡定档七夕",
@@ -37457,6 +37489,14 @@
       "onboard_time": 1714739121,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199132,
+      "num": 199132,
+      "word": "台湾当归也必然回归",
+      "onboard_time": 1716606618,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199131,
@@ -39555,6 +39595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192230,
+      "num": 192230,
+      "word": "钢铁森林官宣开机",
+      "onboard_time": 1716606318,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192179,
       "num": 192179,
       "word": "极挑男团给黄晓明选的睡衣",
@@ -41283,6 +41331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185613,
+      "num": 185613,
+      "word": "歌手 同歌异构",
+      "onboard_time": 1716603498,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185551,
       "num": 185551,
       "word": "CCtalk公众号",
@@ -42296,14 +42352,6 @@
       "word": "无限超越班",
       "onboard_time": 1715441480,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 180647,
-      "num": 175864,
-      "word": "歌手 同歌异构",
-      "onboard_time": 1716603498,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -57203,6 +57251,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 121851,
+      "num": 121851,
+      "word": "欧文李凯尔斗气",
+      "onboard_time": 1716607278,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121832,
       "num": 121832,
       "word": "为何阿嬷手作10元咖啡爆火",
@@ -58315,6 +58371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117297,
+      "num": 117297,
+      "word": "我们都有一个家名叫中国",
+      "onboard_time": 1716605238,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117286,
       "num": 117286,
       "word": "杨鸣又被抛起来了",
@@ -59016,6 +59080,14 @@
       "word": "王者吃鸡玩法首曝",
       "onboard_time": 1715830218,
       "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 114037,
+      "num": 114037,
+      "word": "恋与制作人",
+      "onboard_time": 1716606077,
+      "rank": 48,
       "category": "游戏"
     },
     {
@@ -61473,6 +61545,14 @@
       "onboard_time": 1716494412,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98699,
+      "num": 445674,
+      "word": "小学生痴迷烟卡商家趁机卖香烟",
+      "onboard_time": 1716606199,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98668,

@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716604834395,
+  "endTime": 1716607396860,
   "band_list": [
     {
       "raw_hot": 2416405,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 929660,
-      "num": 443268,
+      "num": 470132,
       "word": "杨幂戛纳生图",
       "onboard_time": 1716596716,
       "rank": 6,
@@ -99,20 +99,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 903780,
+      "num": 903780,
+      "word": "无意间点开了老婆的备忘录",
+      "onboard_time": 1716602899,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 877775,
       "num": 373839,
       "word": "不愧是国际章",
       "onboard_time": 1716596899,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 811475,
-      "num": 437339,
-      "word": "无意间点开了老婆的备忘录",
-      "onboard_time": 1716602899,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 733318,
@@ -147,11 +147,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 654639,
-      "num": 440416,
+      "raw_hot": 667378,
+      "num": 471331,
       "word": "王力宏 火力全开",
       "onboard_time": 1716602419,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 660192,
+      "num": 591853,
+      "word": "父亲称13岁女儿遭男同学猥亵",
+      "onboard_time": 1716601819,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 645869,
+      "num": 241881,
+      "word": "张予曦腿环",
+      "onboard_time": 1716603738,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -169,14 +185,6 @@
       "onboard_time": 1716561802,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 591853,
-      "num": 591853,
-      "word": "父亲称13岁女儿遭男同学猥亵",
-      "onboard_time": 1716601819,
-      "rank": 4,
-      "category": "社会负面"
     },
     {
       "raw_hot": 586340,
@@ -211,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 505811,
-      "num": 241881,
-      "word": "张予曦腿环",
-      "onboard_time": 1716603738,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 499206,
       "num": 237116,
       "word": "岳父母连续寄海鲜3个月小伙崩溃退群",
@@ -251,12 +251,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473108,
+      "num": 473108,
+      "word": "吴艳妮100米栏世界排名创新高",
+      "onboard_time": 1716604999,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 468482,
+      "num": 442622,
+      "word": "你好星期六全员狐狸面具",
+      "onboard_time": 1716604518,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 464435,
       "num": 464435,
       "word": "小学生裤子掉了跳绳拿第一",
       "onboard_time": 1716595878,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463950,
+      "num": 223146,
+      "word": "马斯克裁员裁到大动脉",
+      "onboard_time": 1716604398,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 456673,
+      "num": 456673,
+      "word": "东契奇绝杀森林狼",
+      "onboard_time": 1716607038,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 440515,
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 435477,
-      "num": 243196,
+      "num": 399827,
       "word": "喂 我老那",
       "onboard_time": 1716602299,
       "rank": 20,
@@ -331,6 +363,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 346977,
+      "num": 239141,
+      "word": "女子购物偷手机慌得把7.5元付成75",
+      "onboard_time": 1716603259,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328969,
+      "num": 218090,
+      "word": "奔跑吧AI换脸",
+      "onboard_time": 1716606440,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322043,
       "num": 322043,
       "word": "Faouzia回应又得第一",
@@ -353,14 +401,6 @@
       "onboard_time": 1716554603,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 310743,
-      "num": 239141,
-      "word": "女子购物偷手机慌得把7.5元付成75",
-      "onboard_time": 1716603259,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306148,
@@ -387,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297581,
+      "num": 379271,
+      "word": "有些情绪价值终究是错付了",
+      "onboard_time": 1716602419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297238,
       "num": 189947,
       "word": "尤长靖 今晚听哭了一个耳机",
@@ -403,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280088,
-      "num": 379271,
-      "word": "有些情绪价值终究是错付了",
-      "onboard_time": 1716602419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275526,
       "num": 275526,
       "word": "我爱我",
@@ -425,6 +465,14 @@
       "onboard_time": 1716591914,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266685,
+      "num": 212612,
+      "word": "甲状腺不好全身都被牵连",
+      "onboard_time": 1716606559,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 263682,
@@ -531,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208149,
-      "num": 208149,
-      "word": "你好星期六全员狐狸面具",
-      "onboard_time": 1716604518,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207403,
       "num": 204892,
       "word": "酱园弄戛纳口碑",
@@ -547,12 +587,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199876,
-      "num": 199876,
-      "word": "马斯克裁员裁到大动脉",
-      "onboard_time": 1716604398,
-      "rank": 34,
-      "category": "互联网"
+      "raw_hot": 199132,
+      "num": 199132,
+      "word": "台湾当归也必然回归",
+      "onboard_time": 1716606618,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 198541,
@@ -561,6 +601,14 @@
       "onboard_time": 1716587531,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192230,
+      "num": 192230,
+      "word": "钢铁森林官宣开机",
+      "onboard_time": 1716606318,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 191176,
@@ -603,20 +651,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185613,
+      "num": 185613,
+      "word": "歌手 同歌异构",
+      "onboard_time": 1716603498,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183014,
       "num": 183014,
       "word": "他让她动情她教他成长",
       "onboard_time": 1716567799,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180647,
-      "num": 175864,
-      "word": "歌手 同歌异构",
-      "onboard_time": 1716603498,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 176996,
@@ -803,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132924,
+      "num": 132924,
+      "word": "NBA",
+      "onboard_time": 1716607278,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130742,
       "num": 130742,
       "word": "李凯尔发牌大师",
@@ -835,6 +891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121851,
+      "num": 121851,
+      "word": "欧文李凯尔斗气",
+      "onboard_time": 1716607278,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119641,
       "num": 117505,
       "word": "刘亦菲已经回家了",
@@ -851,12 +915,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117297,
+      "num": 117297,
+      "word": "我们都有一个家名叫中国",
+      "onboard_time": 1716605238,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116878,
       "num": 244101,
       "word": "糟粕醋火锅",
       "onboard_time": 1716561324,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114037,
+      "num": 114037,
+      "word": "恋与制作人",
+      "onboard_time": 1716606077,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 112885,
@@ -913,6 +993,14 @@
       "onboard_time": 1716598999,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98699,
+      "num": 445674,
+      "word": "小学生痴迷烟卡商家趁机卖香烟",
+      "onboard_time": 1716606199,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92754,
