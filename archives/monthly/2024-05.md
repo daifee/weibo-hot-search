@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/25 23:18:42
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/25 23:34:17
 </p>
 </blockquote>
 <p>
@@ -6683,6 +6683,12 @@ G2不收徒（热度：791904）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E5%B1%B1%E4%B8%9C%E5%AE%9A%E5%A5%BD%E4%BD%8D%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91%23%23" target="weibo">
 #总书记为山东定好位指明方向#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%B0%B1%E5%86%99%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%B1%B1%E4%B8%9C%E7%AF%87%E7%AB%A0%23%23" target="weibo">
+#谱写中国式现代化山东篇章#
 </a>
 </li>
 
