@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716647639839,
+  "endTime": 1716650322122,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -2515,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736882,
+      "num": 472429,
+      "word": "范闲洪竹",
+      "onboard_time": 1716648620,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 734869,
       "num": 734869,
       "word": "亚当更新微博",
@@ -2964,7 +2972,7 @@
     },
     {
       "raw_hot": 662406,
-      "num": 216258,
+      "num": 244774,
       "word": "舍友因为不吃饭瘦了11斤",
       "onboard_time": 1716644541,
       "rank": 21,
@@ -3795,6 +3803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 555636,
+      "num": 445865,
+      "word": "赵丽颖真的很喜欢橙色耳环",
+      "onboard_time": 1716647000,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 555497,
       "num": 555497,
       "word": "陈昊宇你好媚",
@@ -3952,6 +3968,14 @@
       "word": "孙俪 甄嬛传团综",
       "onboard_time": 1716360079,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 536767,
+      "num": 433854,
+      "word": "你好星期六下期有罗云熙宋轶",
+      "onboard_time": 1716646700,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -5195,14 +5219,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 421656,
-      "num": 191376,
-      "word": "赵丽颖真的很喜欢橙色耳环",
-      "onboard_time": 1716647000,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 421093,
       "num": 421093,
       "word": "范闲连崩溃都很体面",
@@ -5516,7 +5532,7 @@
     },
     {
       "raw_hot": 399755,
-      "num": 214305,
+      "num": 241809,
       "word": "李现曾拒绝酱园弄邀约",
       "onboard_time": 1716644659,
       "rank": 22,
@@ -5625,6 +5641,14 @@
       "onboard_time": 1716340339,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 391218,
+      "num": 391218,
+      "word": "Doinb退群",
+      "onboard_time": 1716648260,
+      "rank": 15,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 390934,
@@ -6123,6 +6147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349229,
+      "num": 464813,
+      "word": "房价下跌对普通人意味着什么",
+      "onboard_time": 1716633260,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348632,
       "num": 348632,
       "word": "伊朗总统所乘直升机位置被发现",
@@ -6491,6 +6523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 331484,
+      "num": 310837,
+      "word": "逆水寒",
+      "onboard_time": 1716518778,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331272,
       "num": 283724,
       "word": "杨幂挽龚俊出场",
@@ -6633,14 +6673,6 @@
       "onboard_time": 1716422837,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324678,
-      "num": 324678,
-      "word": "房价下跌对普通人意味着什么",
-      "onboard_time": 1716633260,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324528,
@@ -6827,14 +6859,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 318196,
-      "num": 193688,
-      "word": "你好星期六下期有罗云熙宋轶",
-      "onboard_time": 1716646700,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317615,
       "num": 317615,
       "word": "伊朗最高领袖哈梅内伊发声",
@@ -6985,14 +7009,6 @@
       "onboard_time": 1716354859,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 310837,
-      "num": 310837,
-      "word": "逆水寒",
-      "onboard_time": 1716518778,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 309442,
@@ -7435,6 +7451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285971,
+      "num": 239726,
+      "word": "酱园弄",
+      "onboard_time": 1716648501,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285859,
       "num": 285859,
       "word": "陈丽君因病缺席邮票首发式签名会",
@@ -7457,6 +7481,14 @@
       "onboard_time": 1716615678,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285220,
+      "num": 285220,
+      "word": "武大靖拟聘为吉林大学体育学院教授",
+      "onboard_time": 1716648562,
+      "rank": 18,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 284874,
@@ -7593,6 +7625,14 @@
       "onboard_time": 1716361458,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 279815,
+      "num": 239163,
+      "word": "魏大勋从全内娱的瓜路过",
+      "onboard_time": 1716649522,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 279635,
@@ -8316,7 +8356,7 @@
     },
     {
       "raw_hot": 251310,
-      "num": 171864,
+      "num": 207881,
       "word": "陈丽君争气",
       "onboard_time": 1716643100,
       "rank": 40,
@@ -8513,6 +8553,14 @@
       "onboard_time": 1716079757,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244881,
+      "num": 244881,
+      "word": "曼城vs曼联",
+      "onboard_time": 1716647601,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 244346,
@@ -8955,6 +9003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231059,
+      "num": 231059,
+      "word": "你会入职午休只有1小时的公司吗",
+      "onboard_time": 1716645081,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230898,
       "num": 230898,
       "word": "五十公里桃花坞",
@@ -9145,6 +9201,14 @@
       "onboard_time": 1716544399,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 225234,
+      "num": 240147,
+      "word": "现在的商战能有多癫",
+      "onboard_time": 1716648679,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 225139,
@@ -9787,6 +9851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210100,
+      "num": 210100,
+      "word": "2024摩纳哥",
+      "onboard_time": 1716649761,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210002,
       "num": 196286,
       "word": "起猛了以为李峋回来了",
@@ -10259,6 +10331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202467,
+      "num": 241261,
+      "word": "山东泰山",
+      "onboard_time": 1716645620,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201909,
       "num": 188892,
       "word": "易烊千玺520明信片",
@@ -10323,14 +10403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201230,
-      "num": 201230,
-      "word": "山东泰山",
-      "onboard_time": 1716645620,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "实探王红权星线下奢侈品店权星汇",
@@ -10393,6 +10465,14 @@
       "onboard_time": 1716259579,
       "rank": 24,
       "category": "剧集,音乐"
+    },
+    {
+      "raw_hot": 200563,
+      "num": 200563,
+      "word": "假性亲密关系",
+      "onboard_time": 1716649400,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 200477,
@@ -10553,6 +10633,14 @@
       "onboard_time": 1716180622,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198811,
+      "num": 198811,
+      "word": "成佳林呢",
+      "onboard_time": 1716649640,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 198749,
@@ -12235,6 +12323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173246,
+      "num": 173246,
+      "word": "官方回应农场近4万斤小麦遭盗割",
+      "onboard_time": 1716649341,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173150,
       "num": 173150,
       "word": "庆余年作者谈原著改编影视剧",
@@ -12361,14 +12457,6 @@
       "onboard_time": 1716437420,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171252,
-      "num": 171252,
-      "word": "你会入职午休只有1小时的公司吗",
-      "onboard_time": 1716645081,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 171050,
@@ -12835,6 +12923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164110,
+      "num": 164110,
+      "word": "F1",
+      "onboard_time": 1716648620,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163966,
       "num": 163966,
       "word": "理想汽车将裁员5600人",
@@ -13201,6 +13297,14 @@
       "onboard_time": 1716213020,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158517,
+      "num": 158517,
+      "word": "水木年华 莞莞类卿",
+      "onboard_time": 1716648141,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 158447,
@@ -13641,6 +13745,14 @@
       "onboard_time": 1716366798,
       "rank": 44,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 153781,
+      "num": 153781,
+      "word": "旅客胸背部藏987.4克穿山甲鳞片被查",
+      "onboard_time": 1716647480,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153765,
@@ -14377,14 +14489,6 @@
       "onboard_time": 1716087017,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144952,
-      "num": 144952,
-      "word": "旅客胸背部藏987.4克穿山甲鳞片被查",
-      "onboard_time": 1716647480,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144758,
@@ -16673,14 +16777,6 @@
       "onboard_time": 1716550278,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 115966,
-      "num": 115966,
-      "word": "曼城vs曼联",
-      "onboard_time": 1716647601,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 115852,
