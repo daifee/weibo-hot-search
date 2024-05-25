@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716669287888,
+  "endTime": 1716671795277,
   "band_list": [
     {
       "raw_hot": 1662712,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 82685,
-      "num": 25191,
+      "num": 26209,
       "word": "去阿勒泰旅游的人膀胱快炸了",
       "onboard_time": 1716666012,
       "rank": 30,
@@ -467,6 +467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27327,
+      "num": 25585,
+      "word": "41首百万收藏汪苏泷在歌手都没唱",
+      "onboard_time": 1716668290,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26344,
+      "num": 25338,
+      "word": "去泰国吃生腌检查出肝吸虫阳性",
+      "onboard_time": 1716667511,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25066,
       "num": 32193,
       "word": "新说唱2024",
@@ -475,20 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24601,
-      "num": 24601,
-      "word": "去泰国吃生腌检查出肝吸虫阳性",
-      "onboard_time": 1716667511,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 20427,
-      "num": 19758,
-      "word": "41首百万收藏汪苏泷在歌手都没唱",
-      "onboard_time": 1716668290,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 18684,
+      "num": 18684,
+      "word": "林俊杰单膝跪地弹吉他",
+      "onboard_time": 1716670750,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 12931,

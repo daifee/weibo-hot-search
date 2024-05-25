@@ -1,0 +1,410 @@
+{
+  "runTime": 1716671795277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 70799,
+        "num": 70799,
+        "word": "525",
+        "onboard_time": 1716622758,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73012,
+        "num": 70705,
+        "word": "他退出TFBOYS后老了很多",
+        "onboard_time": 1716640278,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9254,
+        "num": 69848,
+        "word": "三夏时节感受丰收之美",
+        "onboard_time": 1716643640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69818,
+        "num": 69818,
+        "word": "那英电话内容 破解",
+        "onboard_time": 1716644900,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61910,
+        "num": 61910,
+        "word": "癌症来前1年身体会发生8种变化",
+        "onboard_time": 1716640459,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29957,
+        "num": 57856,
+        "word": "曼联2比1曼城",
+        "onboard_time": 1716655337,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62571,
+        "num": 57485,
+        "word": "陈奕迅含泪致歉",
+        "onboard_time": 1716640039,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54641,
+        "num": 54641,
+        "word": "杨幂夏晚晴",
+        "onboard_time": 1716639438,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41061,
+        "num": 41061,
+        "word": "微信置顶一个很心酸的设计",
+        "onboard_time": 1716636258,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9232,
+        "num": 40879,
+        "word": "女子借给男孩雨伞被回赠零食",
+        "onboard_time": 1716666131,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 92015,
+        "num": 40460,
+        "word": "17岁女生想纹男友名被老板劝离",
+        "onboard_time": 1716659955,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53741,
+        "num": 40177,
+        "word": "王骁纽约州执业律师宣誓vlog",
+        "onboard_time": 1716651500,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 43670,
+        "num": 39814,
+        "word": "日本昔日童星因杀人焚尸被捕",
+        "onboard_time": 1716641840,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42828,
+        "num": 39533,
+        "word": "范闲洪竹",
+        "onboard_time": 1716648620,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39342,
+        "num": 39342,
+        "word": "魏大勋从全内娱的瓜路过",
+        "onboard_time": 1716649522,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34243,
+        "num": 34243,
+        "word": "韩国邻居把我门口的福字撕了",
+        "onboard_time": 1716635839,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32547,
+        "num": 32547,
+        "word": "凡希亚 李蠕蠕",
+        "onboard_time": 1716640099,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29696,
+        "num": 29696,
+        "word": "你身边有疑似重生的人吗",
+        "onboard_time": 1716639260,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27364,
+        "num": 27364,
+        "word": "中国人吃掉全世界70%的西瓜",
+        "onboard_time": 1716640159,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26265,
+        "num": 26265,
+        "word": "Doinb退群",
+        "onboard_time": 1716648260,
+        "rank": 19,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 77503,
+        "num": 26209,
+        "word": "去阿勒泰旅游的人膀胱快炸了",
+        "onboard_time": 1716666012,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 50590,
+        "num": 26001,
+        "word": "月薪三千的工作有必要上吗",
+        "onboard_time": 1716652278,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42690,
+        "num": 25870,
+        "word": "王传君瘦得我不敢认",
+        "onboard_time": 1716634038,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30147,
+        "num": 25786,
+        "word": "赵丽颖帮林更新澄清",
+        "onboard_time": 1716625518,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28610,
+        "num": 25704,
+        "word": "苗苗恶补小时代被郭碧婷制止",
+        "onboard_time": 1716651920,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27327,
+        "num": 25585,
+        "word": "41首百万收藏汪苏泷在歌手都没唱",
+        "onboard_time": 1716668290,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26344,
+        "num": 25338,
+        "word": "去泰国吃生腌检查出肝吸虫阳性",
+        "onboard_time": 1716667511,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25317,
+        "num": 25317,
+        "word": "房价下跌对普通人意味着什么",
+        "onboard_time": 1716633260,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25005,
+        "num": 25005,
+        "word": "舍友因为不吃饭瘦了11斤",
+        "onboard_time": 1716644541,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19164,
+        "num": 22673,
+        "word": "国防部说台湾是中国的台湾",
+        "onboard_time": 1716626719,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22290,
+        "num": 22290,
+        "word": "赵丽颖真的很喜欢橙色耳环",
+        "onboard_time": 1716647000,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 22287,
+        "num": 22287,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1716648679,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21191,
+        "num": 21191,
+        "word": "汪苏泷 走又走不了赢又赢不了",
+        "onboard_time": 1716623057,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20880,
+        "num": 20880,
+        "word": "原来朋友圈很多官宣照是这么来的",
+        "onboard_time": 1716639498,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20622,
+        "num": 20622,
+        "word": "原来沈月是李嘉琦的嫡长闺",
+        "onboard_time": 1716638418,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20467,
+        "num": 20467,
+        "word": "陈奕迅发文",
+        "onboard_time": 1716640039,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19862,
+        "num": 19862,
+        "word": "华晨宇金长发",
+        "onboard_time": 1716651920,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19424,
+        "num": 19424,
+        "word": "建议每天都很困的去验血查一下",
+        "onboard_time": 1716638478,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19183,
+        "num": 19183,
+        "word": "庆余年第21集",
+        "onboard_time": 1716651018,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15774,
+        "num": 19084,
+        "word": "曼城vs曼联首发",
+        "onboard_time": 1716644541,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19026,
+        "num": 19026,
+        "word": "鞠婧祎照片",
+        "onboard_time": 1716630798,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18684,
+        "num": 18684,
+        "word": "林俊杰单膝跪地弹吉他",
+        "onboard_time": 1716670750,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17951,
+        "num": 17951,
+        "word": "志愿者为何开始避雷演唱会了",
+        "onboard_time": 1716657316,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17113,
+        "num": 17113,
+        "word": "邓紫棋将刷新亚洲女歌手纪录",
+        "onboard_time": 1716655157,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16974,
+        "num": 16974,
+        "word": "假性亲密关系",
+        "onboard_time": 1716649400,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16567,
+        "num": 16567,
+        "word": "infp的完美主义",
+        "onboard_time": 1716653599,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16256,
+        "num": 16256,
+        "word": "庆余年 春闱放榜",
+        "onboard_time": 1716645441,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15750,
+        "num": 15750,
+        "word": "逆水寒",
+        "onboard_time": 1716649880,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15621,
+        "num": 15621,
+        "word": "旅客胸背部藏987.4克穿山甲鳞片被查",
+        "onboard_time": 1716647480,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14414,
+        "num": 15621,
+        "word": "酱园弄",
+        "onboard_time": 1716648501,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为山东定好位指明方向#"
+    }
+  }
+}
