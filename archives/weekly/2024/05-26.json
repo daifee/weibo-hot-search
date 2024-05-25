@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716676454426,
+  "endTime": 1716679055720,
   "band_list": [
     {
       "raw_hot": 1662712,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438701,
+      "num": 438701,
+      "word": "17岁女生想纹男友名被老板劝离",
+      "onboard_time": 1716659955,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394744,
       "num": 586012,
       "word": "曼城vs曼联",
@@ -171,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277796,
+      "num": 59622,
+      "word": "去阿勒泰旅游的人膀胱快炸了",
+      "onboard_time": 1716666012,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 273267,
       "num": 273267,
       "word": "邓紫棋将刷新亚洲女歌手纪录",
@@ -201,14 +217,6 @@
       "onboard_time": 1716641840,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240421,
-      "num": 91266,
-      "word": "17岁女生想纹男友名被老板劝离",
-      "onboard_time": 1716659955,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224437,
@@ -259,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170711,
+      "num": 170711,
+      "word": "韩国邻居把我门口的福字撕了",
+      "onboard_time": 1716635839,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166960,
       "num": 166960,
       "word": "林俊杰嘉宾胡彦斌",
@@ -291,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144989,
-      "num": 46931,
-      "word": "去阿勒泰旅游的人膀胱快炸了",
-      "onboard_time": 1716666012,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 140020,
       "num": 129164,
       "word": "庆余年 春闱放榜",
@@ -313,14 +321,6 @@
       "onboard_time": 1716643100,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137570,
-      "num": 137570,
-      "word": "韩国邻居把我门口的福字撕了",
-      "onboard_time": 1716635839,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 132681,
@@ -345,6 +345,14 @@
       "onboard_time": 1716630798,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124483,
+      "num": 59352,
+      "word": "不想生二胎老公对我冷暴力",
+      "onboard_time": 1716676152,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 122110,
@@ -379,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108161,
+      "num": 58516,
+      "word": "佟丽娅戛纳很好下次再去",
+      "onboard_time": 1716671891,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106922,
       "num": 106922,
       "word": "手机一定要清理的四大文件",
@@ -403,20 +419,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 103762,
-      "num": 31955,
-      "word": "佟丽娅戛纳很好下次再去",
-      "onboard_time": 1716671891,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 99125,
       "num": 99125,
       "word": "志愿者为何开始避雷演唱会了",
       "onboard_time": 1716657316,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97505,
+      "num": 59106,
+      "word": "5号和15号发工资区别有多大",
+      "onboard_time": 1716678014,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 91578,
@@ -451,28 +467,52 @@
       "category": "数码"
     },
     {
-      "raw_hot": 38658,
-      "num": 38658,
+      "raw_hot": 67191,
+      "num": 58878,
       "word": "41首百万收藏汪苏泷在歌手都没唱",
       "onboard_time": 1716668290,
       "rank": 48,
       "category": "综艺"
     },
     {
-      "raw_hot": 35696,
-      "num": 31953,
+      "raw_hot": 65862,
+      "num": 58384,
+      "word": "吴克群回复1818黄金眼",
+      "onboard_time": 1716677773,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 60236,
+      "num": 58231,
+      "word": "去泰国吃生腌检查出肝吸虫阳性",
+      "onboard_time": 1716667511,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 51385,
+      "num": 51385,
       "word": "体态变差的根源居然是恐惧",
       "onboard_time": 1716672731,
       "rank": 48,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 35634,
-      "num": 35634,
-      "word": "去泰国吃生腌检查出肝吸虫阳性",
-      "onboard_time": 1716667511,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 43993,
+      "num": 43993,
+      "word": "杨万理卷子",
+      "onboard_time": 1716645380,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42432,
+      "num": 42432,
+      "word": "碳循环减肥法轻松拿捏脂肪",
+      "onboard_time": 1716674712,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 30512,
@@ -507,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25553,
-      "num": 25553,
-      "word": "不想生二胎老公对我冷暴力",
-      "onboard_time": 1716676152,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 25731,
+      "num": 411262,
+      "word": "三夏时节感受丰收之美",
+      "onboard_time": 1716643640,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25066,
@@ -523,32 +563,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24742,
-      "num": 24742,
-      "word": "碳循环减肥法轻松拿捏脂肪",
-      "onboard_time": 1716674712,
-      "rank": 48,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 22050,
-      "num": 23239,
-      "word": "杨万理卷子",
-      "onboard_time": 1716645380,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 17400,
-      "num": 411262,
-      "word": "三夏时节感受丰收之美",
-      "onboard_time": 1716643640,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 9638,
-      "num": 92489,
+      "num": 176310,
       "word": "女子借给男孩雨伞被回赠零食",
       "onboard_time": 1716666131,
       "rank": 9,
