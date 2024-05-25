@@ -1,0 +1,410 @@
+{
+  "runTime": 1716618344670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1352983,
+        "num": 1352983,
+        "word": "刘柏辛送亚当穿戴甲",
+        "onboard_time": 1716616038,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1280909,
+        "num": 1280909,
+        "word": "真的建议大家考北京大学",
+        "onboard_time": 1716607818,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 8413,
+        "num": 942500,
+        "word": "体验数字里的衣食住行",
+        "onboard_time": 1716549739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895406,
+        "num": 895406,
+        "word": "台湾",
+        "onboard_time": 1716615738,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 731321,
+        "num": 731321,
+        "word": "黄宣淘汰了 就位主持人",
+        "onboard_time": 1716609619,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630709,
+        "num": 630709,
+        "word": "逆水寒已悄悄删除IVE字母",
+        "onboard_time": 1716617718,
+        "rank": 5,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 606316,
+        "num": 606316,
+        "word": "亚当回国了",
+        "onboard_time": 1716599959,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606227,
+        "num": 606227,
+        "word": "林更新回复cp粉",
+        "onboard_time": 1716616158,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 561599,
+        "num": 561599,
+        "word": "中国台湾省",
+        "onboard_time": 1716539539,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22740,
+        "num": 468382,
+        "word": "被这些毕业留言感动到了",
+        "onboard_time": 1716617777,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 780571,
+        "num": 464917,
+        "word": "Angelababy布朗族簪花造型",
+        "onboard_time": 1716615799,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434586,
+        "num": 434586,
+        "word": "台青年称只有解放军可以保护台湾",
+        "onboard_time": 1716613579,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 529898,
+        "num": 434578,
+        "word": "林更新晒与赵丽颖拍立得",
+        "onboard_time": 1716614360,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434200,
+        "num": 434200,
+        "word": "迪丽热巴黄金色高定",
+        "onboard_time": 1716612679,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11798,
+        "num": 374633,
+        "word": "明星们是来风尚之夜团建了吗",
+        "onboard_time": 1716617839,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368565,
+        "num": 368565,
+        "word": "谷爱凌一周写15篇文章",
+        "onboard_time": 1716614600,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293288,
+        "num": 293288,
+        "word": "无意间点开了老婆的备忘录",
+        "onboard_time": 1716602899,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264642,
+        "num": 264642,
+        "word": "逆水寒手游致歉",
+        "onboard_time": 1716613758,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242442,
+        "num": 242442,
+        "word": "马斯克裁员裁到大动脉",
+        "onboard_time": 1716604398,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226090,
+        "num": 226090,
+        "word": "年轻人为什么花钱上自习",
+        "onboard_time": 1716615678,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370257,
+        "num": 225140,
+        "word": "陈丽君三公第一",
+        "onboard_time": 1716614778,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357644,
+        "num": 223478,
+        "word": "为什么小肚子会有一条痕",
+        "onboard_time": 1716609800,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301092,
+        "num": 223002,
+        "word": "陈赫郑恺哭了",
+        "onboard_time": 1716617178,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296288,
+        "num": 220820,
+        "word": "亚当 上一休六",
+        "onboard_time": 1716612138,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279266,
+        "num": 218867,
+        "word": "庆余年春闱剧情开始神了",
+        "onboard_time": 1716614899,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218716,
+        "num": 218716,
+        "word": "林俊杰别开店了43岁正是闯的时候",
+        "onboard_time": 1716609978,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208103,
+        "num": 208103,
+        "word": "bangbang运镜",
+        "onboard_time": 1716614538,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186178,
+        "num": 186178,
+        "word": "杨幂戛纳生图",
+        "onboard_time": 1716596716,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51883,
+        "num": 184984,
+        "word": "2024FE电动方程式上海站",
+        "onboard_time": 1716617178,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184309,
+        "num": 184309,
+        "word": "原来有些酒店房卡是可以拿走的",
+        "onboard_time": 1716610279,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182600,
+        "num": 182600,
+        "word": "王心凌 我是中华民族的一份子",
+        "onboard_time": 1716594436,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177627,
+        "num": 177627,
+        "word": "鹿晗在邓超陈赫之间自闭",
+        "onboard_time": 1716615618,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168419,
+        "num": 168419,
+        "word": "古茗活动崩了",
+        "onboard_time": 1716612559,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165762,
+        "num": 165762,
+        "word": "东部战区称熊孩子定会感恩父母",
+        "onboard_time": 1716610159,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158016,
+        "num": 158016,
+        "word": "赵丽颖孙千再合作",
+        "onboard_time": 1716613879,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153499,
+        "num": 153499,
+        "word": "蔡依林 我们中国南昌最热情了",
+        "onboard_time": 1716558927,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148971,
+        "num": 148971,
+        "word": "戛纳为章子怡清场",
+        "onboard_time": 1716609438,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136695,
+        "num": 136695,
+        "word": "小警犬元宝在考试中得了最后一名",
+        "onboard_time": 1716615138,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136679,
+        "num": 136679,
+        "word": "甲状腺不好全身都被牵连",
+        "onboard_time": 1716606559,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132486,
+        "num": 132486,
+        "word": "没过520可以过525",
+        "onboard_time": 1716617418,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146750,
+        "num": 132484,
+        "word": "那英唯一主演的剧",
+        "onboard_time": 1716617359,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139838,
+        "num": 132483,
+        "word": "邓超陈赫你们不要再吵了",
+        "onboard_time": 1716615438,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132478,
+        "num": 132478,
+        "word": "香缇莫变Rihanna",
+        "onboard_time": 1716616398,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131289,
+        "num": 131289,
+        "word": "您的快递正在坐摇摇车",
+        "onboard_time": 1716608418,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126870,
+        "num": 126870,
+        "word": "芒果格局",
+        "onboard_time": 1716618257,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125791,
+        "num": 125791,
+        "word": "张予曦腿环",
+        "onboard_time": 1716603738,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124436,
+        "num": 124436,
+        "word": "上完5000元视频剪辑课发现被骗",
+        "onboard_time": 1716613219,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123796,
+        "num": 123796,
+        "word": "丫丫吃窝窝头一脸认真",
+        "onboard_time": 1716617658,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110756,
+        "num": 110756,
+        "word": "2024KPL春季赛最佳阵容",
+        "onboard_time": 1716616938,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105075,
+        "num": 105075,
+        "word": "演出经纪人考试",
+        "onboard_time": 1716611058,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化山东篇章#"
+    }
+  }
+}

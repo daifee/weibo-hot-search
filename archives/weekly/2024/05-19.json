@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716615257667,
+  "endTime": 1716618344670,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -947,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1352983,
+      "num": 1352983,
+      "word": "刘柏辛送亚当穿戴甲",
+      "onboard_time": 1716616038,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1339229,
       "num": 1339229,
       "word": "王婆说媒相亲已婚男已离婚",
@@ -993,6 +1001,14 @@
       "onboard_time": 1716356780,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1280909,
+      "num": 1280909,
+      "word": "真的建议大家考北京大学",
+      "onboard_time": 1716607818,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 1276376,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1716085998,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1170658,
-      "num": 1170658,
-      "word": "真的建议大家考北京大学",
-      "onboard_time": 1716607818,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 1146588,
@@ -1707,6 +1715,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 895406,
+      "num": 895406,
+      "word": "台湾",
+      "onboard_time": 1716615738,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 894531,
       "num": 222218,
       "word": "歌手豆瓣开分6.7",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1716388880,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 780571,
+      "num": 464917,
+      "word": "Angelababy布朗族簪花造型",
+      "onboard_time": 1716615799,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 780051,
@@ -2939,6 +2963,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 630709,
+      "num": 630709,
+      "word": "逆水寒已悄悄删除IVE字母",
+      "onboard_time": 1716617718,
+      "rank": 5,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 629139,
       "num": 346626,
       "word": "本科毕业论文何以成一些师生共同的痛苦",
@@ -3033,6 +3065,14 @@
       "onboard_time": 1716347718,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 606227,
+      "num": 606227,
+      "word": "林更新回复cp粉",
+      "onboard_time": 1716616158,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 604058,
@@ -3616,6 +3656,14 @@
       "word": "李惠利徐睿知签同公司",
       "onboard_time": 1716538101,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 529898,
+      "num": 434578,
+      "word": "林更新晒与赵丽颖拍立得",
+      "onboard_time": 1716614360,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -4643,6 +4691,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 434586,
+      "num": 434586,
+      "word": "台青年称只有解放军可以保护台湾",
+      "onboard_time": 1716613579,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 434496,
       "num": 434496,
       "word": "刘亦菲随手一截都是头像",
@@ -5395,6 +5451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370257,
+      "num": 234997,
+      "word": "陈丽君三公第一",
+      "onboard_time": 1716614778,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369660,
       "num": 192519,
       "word": "黄家驹墓碑被毁歌迷扫墓痛哭",
@@ -5417,6 +5481,14 @@
       "onboard_time": 1716554303,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368565,
+      "num": 368565,
+      "word": "谷爱凌一周写15篇文章",
+      "onboard_time": 1716614600,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 367776,
@@ -5537,14 +5609,6 @@
       "onboard_time": 1716376698,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 356337,
-      "num": 356337,
-      "word": "林更新晒与赵丽颖拍立得",
-      "onboard_time": 1716614360,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 356150,
@@ -5993,14 +6057,6 @@
       "onboard_time": 1716095417,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329539,
-      "num": 329539,
-      "word": "台青年称只有解放军可以保护台湾",
-      "onboard_time": 1716613579,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 329407,
@@ -6571,6 +6627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301092,
+      "num": 223002,
+      "word": "陈赫郑恺哭了",
+      "onboard_time": 1716617178,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301083,
       "num": 271545,
       "word": "王铮亮 披荆斩棘的哥哥",
@@ -7041,6 +7105,14 @@
       "onboard_time": 1716074834,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279266,
+      "num": 218867,
+      "word": "庆余年春闱剧情开始神了",
+      "onboard_time": 1716614899,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 279172,
@@ -8139,14 +8211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234997,
-      "num": 234997,
-      "word": "陈丽君三公第一",
-      "onboard_time": 1716614778,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234772,
       "num": 193435,
       "word": "普通女孩给男朋友准备的520礼物",
@@ -8449,6 +8513,14 @@
       "onboard_time": 1716609978,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226090,
+      "num": 226090,
+      "word": "年轻人为什么花钱上自习",
+      "onboard_time": 1716615678,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 225953,
@@ -10715,14 +10787,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 183641,
-      "num": 183641,
-      "word": "庆余年春闱剧情开始神了",
-      "onboard_time": 1716614899,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183461,
       "num": 183461,
       "word": "陈哲远 跑男",
@@ -10985,6 +11049,14 @@
       "onboard_time": 1716520038,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177627,
+      "num": 177627,
+      "word": "鹿晗在邓超陈赫之间自闭",
+      "onboard_time": 1716615618,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 177623,
@@ -13091,6 +13163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146750,
+      "num": 132484,
+      "word": "那英唯一主演的剧",
+      "onboard_time": 1716617359,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146687,
       "num": 459274,
       "word": "开启自动驾驶后发生交通事故怎么算",
@@ -13611,6 +13691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139838,
+      "num": 132483,
+      "word": "邓超陈赫你们不要再吵了",
+      "onboard_time": 1716615438,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139802,
       "num": 139802,
       "word": "戛纳街头偶遇钟楚曦侯雯元",
@@ -13801,6 +13889,14 @@
       "onboard_time": 1716335058,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136695,
+      "num": 136695,
+      "word": "小警犬元宝在考试中得了最后一名",
+      "onboard_time": 1716615138,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 136617,
@@ -14105,6 +14201,22 @@
       "onboard_time": 1716267260,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132486,
+      "num": 132486,
+      "word": "没过520可以过525",
+      "onboard_time": 1716617418,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 132478,
+      "num": 132478,
+      "word": "香缇莫变Rihanna",
+      "onboard_time": 1716616398,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 132436,
@@ -14443,14 +14555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127763,
-      "num": 127763,
-      "word": "小警犬元宝在考试中得了最后一名",
-      "onboard_time": 1716615138,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127732,
       "num": 279480,
       "word": "霸王茶姬的朋友圈太牛了",
@@ -14569,6 +14673,14 @@
       "onboard_time": 1716292819,
       "rank": 42,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 126870,
+      "num": 126870,
+      "word": "芒果格局",
+      "onboard_time": 1716618257,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 126693,
@@ -14763,6 +14875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124436,
+      "num": 460564,
+      "word": "上完5000元视频剪辑课发现被骗",
+      "onboard_time": 1716613219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124410,
       "num": 124410,
       "word": "原来商战真的是偷秘方",
@@ -14832,6 +14952,14 @@
       "word": "炫富网红炫的是畸形价值观",
       "onboard_time": 1716378137,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123796,
+      "num": 123796,
+      "word": "丫丫吃窝窝头一脸认真",
+      "onboard_time": 1716617658,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -15507,14 +15635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114276,
-      "num": 460564,
-      "word": "上完5000元视频剪辑课发现被骗",
-      "onboard_time": 1716613219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114124,
       "num": 137098,
       "word": "吴艳妮刷新赛季最佳成绩",
@@ -15705,6 +15825,14 @@
       "onboard_time": 1716218720,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110756,
+      "num": 110756,
+      "word": "2024KPL春季赛最佳阵容",
+      "onboard_time": 1716616938,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 110648,
@@ -17515,6 +17643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51883,
+      "num": 184984,
+      "word": "2024FE电动方程式上海站",
+      "onboard_time": 1716617178,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51119,
       "num": 167355,
       "word": "鸣潮有自己的物理学",
@@ -18283,6 +18419,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 22740,
+      "num": 468382,
+      "word": "被这些毕业留言感动到了",
+      "onboard_time": 1716617777,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 22664,
       "num": 108466,
       "word": "花花的眼睛会说话",
@@ -18561,6 +18705,14 @@
       "onboard_time": 1716323590,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11798,
+      "num": 374633,
+      "word": "明星们是来风尚之夜团建了吗",
+      "onboard_time": 1716617839,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 11684,
