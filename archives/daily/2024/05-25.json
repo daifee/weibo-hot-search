@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716633461220,
+  "endTime": 1716635803222,
   "band_list": [
     {
       "raw_hot": 2584147,
@@ -115,8 +115,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1272904,
+      "num": 1272904,
+      "word": "王传君瘦得我不敢认",
+      "onboard_time": 1716634038,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1249277,
-      "num": 319374,
+      "num": 332725,
       "word": "妈妈连生5个女孩后36岁去世",
       "onboard_time": 1716630378,
       "rank": 10,
@@ -131,8 +139,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1121874,
-      "num": 319078,
+      "raw_hot": 1201553,
+      "num": 343497,
       "word": "新冠在两年内导致1300万人死亡",
       "onboard_time": 1716630378,
       "rank": 12,
@@ -275,12 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 704934,
+      "num": 704934,
+      "word": "江西一公交车冲下负一层露天平台",
+      "onboard_time": 1716631818,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 683693,
       "num": 255440,
       "word": "杨幂戛纳造型",
       "onboard_time": 1716562462,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 669930,
+      "num": 243799,
+      "word": "海底捞的玩具已经nextlevel了",
+      "onboard_time": 1716632300,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 668881,
@@ -321,6 +345,14 @@
       "onboard_time": 1716609438,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 650479,
+      "num": 319562,
+      "word": "鞠婧祎照片",
+      "onboard_time": 1716630798,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 635019,
@@ -369,14 +401,6 @@
       "onboard_time": 1716621919,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 590386,
-      "num": 319562,
-      "word": "鞠婧祎照片",
-      "onboard_time": 1716630798,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 586340,
@@ -467,11 +491,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530756,
-      "num": 277484,
-      "word": "江西一公交车冲下负一层露天平台",
-      "onboard_time": 1716631818,
-      "rank": 19,
+      "raw_hot": 544935,
+      "num": 544935,
+      "word": "男性避孕药要来了吗",
+      "onboard_time": 1716634638,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 527537,
-      "num": 334690,
+      "num": 377045,
       "word": "亚当唱beautiful镜头切娜扎",
       "onboard_time": 1716628699,
       "rank": 12,
@@ -513,6 +537,14 @@
       "onboard_time": 1716593355,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 490351,
+      "num": 307856,
+      "word": "江西赣州公交坠落9人受伤",
+      "onboard_time": 1716634038,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488530,
@@ -635,6 +667,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 417451,
+      "num": 306417,
+      "word": "丁太升评亚当歌手舞台表现",
+      "onboard_time": 1716635120,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 407811,
+      "num": 407811,
+      "word": "李克勤没去歌手去了披哥",
+      "onboard_time": 1716632779,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387585,
       "num": 179816,
       "word": "因谐音发财男子一天卖出20万枝银柳",
@@ -665,6 +713,14 @@
       "onboard_time": 1716591794,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 374860,
+      "num": 374860,
+      "word": "古茗",
+      "onboard_time": 1716633679,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 370257,
@@ -700,7 +756,7 @@
     },
     {
       "raw_hot": 355681,
-      "num": 247308,
+      "num": 298583,
       "word": "南京10元咖啡阿姨辣评40元咖啡",
       "onboard_time": 1716630499,
       "rank": 24,
@@ -731,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347830,
+      "num": 269756,
+      "word": "杨幂谈现阶段演员的舆论环境",
+      "onboard_time": 1716631400,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347510,
       "num": 347510,
       "word": "演出经纪人考试",
@@ -753,14 +817,6 @@
       "onboard_time": 1716628039,
       "rank": 18,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 329284,
-      "num": 269756,
-      "word": "杨幂谈现阶段演员的舆论环境",
-      "onboard_time": 1716631400,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 322043,
@@ -795,14 +851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 314296,
-      "num": 243799,
-      "word": "海底捞的玩具已经nextlevel了",
-      "onboard_time": 1716632300,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 306809,
       "num": 306809,
       "word": "古茗口令",
@@ -824,14 +872,6 @@
       "word": "陈赫郑恺哭了",
       "onboard_time": 1716617178,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 305360,
-      "num": 242896,
-      "word": "李克勤没去歌手去了披哥",
-      "onboard_time": 1716632779,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -939,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264995,
+      "num": 184090,
+      "word": "被我哥的孕期清单震住了",
+      "onboard_time": 1716634759,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263682,
       "num": 253815,
       "word": "汪苏泷进步了",
@@ -992,6 +1040,14 @@
       "word": "张钧甯发文反对台独",
       "onboard_time": 1716555744,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 252039,
+      "num": 183643,
+      "word": "苏见信",
+      "onboard_time": 1716634578,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1091,11 +1147,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220942,
+      "num": 183486,
+      "word": "易烊千玺人没去戛纳歌去了",
+      "onboard_time": 1716633858,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220719,
       "num": 220719,
       "word": "种地吧",
       "onboard_time": 1716627799,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220296,
+      "num": 183139,
+      "word": "戚薇发型很好就是有点废头",
+      "onboard_time": 1716633499,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1105,6 +1177,14 @@
       "onboard_time": 1716603678,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215338,
+      "num": 182557,
+      "word": "谁懂这声哥哥的含金量",
+      "onboard_time": 1716635239,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 214918,
@@ -1283,6 +1363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 189975,
+      "num": 182066,
+      "word": "房价下跌对普通人意味着什么",
+      "onboard_time": 1716633260,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189701,
       "num": 243477,
       "word": "黄宣正常唱歌 好听",
@@ -1321,6 +1409,14 @@
       "onboard_time": 1716596899,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185789,
+      "num": 185789,
+      "word": "XYG阵容 抽象",
+      "onboard_time": 1716626539,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 185613,
@@ -1385,6 +1481,14 @@
       "onboard_time": 1716632540,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181579,
+      "num": 181579,
+      "word": "范丞丞 这就是新说唱",
+      "onboard_time": 1716635478,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 178240,
@@ -1465,6 +1569,14 @@
       "onboard_time": 1716628158,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167021,
+      "num": 167021,
+      "word": "感觉的到猫对这门亲事很满意",
+      "onboard_time": 1716634638,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 166851,
@@ -1681,14 +1793,6 @@
       "onboard_time": 1716566361,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 148144,
-      "num": 148144,
-      "word": "XYG阵容 抽象",
-      "onboard_time": 1716626539,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 147845,
@@ -2131,14 +2235,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 95820,
-      "num": 95820,
-      "word": "房价下跌对普通人意味着什么",
-      "onboard_time": 1716633260,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92754,
       "num": 99944,
       "word": "金毛被锦鲤咬了",
@@ -2284,7 +2380,7 @@
     },
     {
       "raw_hot": 52023,
-      "num": 952941,
+      "num": 962824,
       "word": "在文博会遇见东方韵味",
       "onboard_time": 1716628218,
       "rank": 2,
@@ -2411,6 +2507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 26005,
+      "num": 185659,
+      "word": "2亿长焦直拍杭州草莓音乐节",
+      "onboard_time": 1716634698,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25505,
       "num": 97445,
       "word": "这才是夏天正确打开方式",
@@ -2441,6 +2545,14 @@
       "onboard_time": 1716572414,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22126,
+      "num": 184853,
+      "word": "航拍河南麦田尽带黄金甲",
+      "onboard_time": 1716633800,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 21917,
@@ -2489,6 +2601,14 @@
       "onboard_time": 1716581950,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 11760,
+      "num": 185442,
+      "word": "82岁外婆跨省去见失散66年的闺蜜",
+      "onboard_time": 1716635658,
+      "rank": 21,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
