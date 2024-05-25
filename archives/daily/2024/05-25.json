@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716599792356,
+  "endTime": 1716601023517,
   "band_list": [
     {
       "raw_hot": 2416405,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1079151,
+      "num": 1079151,
+      "word": "亚当回国了",
+      "onboard_time": 1716599959,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1074389,
       "num": 492888,
       "word": "蔡依林 我们中国南昌最热情了",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 929660,
-      "num": 410145,
+      "num": 443268,
       "word": "杨幂戛纳生图",
       "onboard_time": 1716596716,
       "rank": 6,
@@ -105,6 +113,14 @@
       "onboard_time": 1716560007,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 712302,
+      "num": 345352,
+      "word": "亚当证明芒果音响真的顶级",
+      "onboard_time": 1716600139,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 683693,
@@ -180,11 +196,19 @@
     },
     {
       "raw_hot": 492282,
-      "num": 283085,
+      "num": 324666,
       "word": "章子怡戛纳红毯",
       "onboard_time": 1716593355,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 482536,
+      "num": 328770,
+      "word": "张杰夸歌手外国女歌手唱得好",
+      "onboard_time": 1716599658,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 482289,
@@ -195,11 +219,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 411304,
-      "num": 411304,
+      "raw_hot": 464435,
+      "num": 464435,
       "word": "小学生裤子掉了跳绳拿第一",
       "onboard_time": 1716595878,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387585,
+      "num": 179816,
+      "word": "因谐音发财男子一天卖出20万枝银柳",
+      "onboard_time": 1716599838,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 361593,
-      "num": 265506,
+      "num": 355914,
       "word": "基地就福宝被偷拍报警",
       "onboard_time": 1716596417,
       "rank": 15,
@@ -283,6 +315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 302068,
+      "num": 302068,
+      "word": "班主任惩罚学生用影子模仿青蛙",
+      "onboard_time": 1716599658,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299535,
       "num": 299535,
       "word": "一对夫妻疑被人10万元卖到缅甸",
@@ -291,7 +331,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289198,
+      "raw_hot": 297238,
       "num": 189947,
       "word": "尤长靖 今晚听哭了一个耳机",
       "onboard_time": 1716594256,
@@ -321,6 +361,14 @@
       "onboard_time": 1716556164,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257987,
+      "num": 257987,
+      "word": "mlxg一句不够强队友全红温",
+      "onboard_time": 1716599658,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 256036,
@@ -363,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236038,
+      "num": 175481,
+      "word": "李现帮杨幂拍照",
+      "onboard_time": 1716600858,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223882,
       "num": 188272,
       "word": "为什么上班后越来越胖了",
@@ -385,6 +441,14 @@
       "onboard_time": 1716566240,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200336,
+      "num": 173565,
+      "word": "酱园弄戛纳口碑",
+      "onboard_time": 1716600798,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 198541,
@@ -427,14 +491,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 186398,
-      "num": 186398,
-      "word": "张杰夸歌手外国女歌手唱得好",
-      "onboard_time": 1716599658,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186078,
       "num": 186078,
       "word": "李现戛纳红毯首秀",
@@ -467,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173099,
-      "num": 173099,
-      "word": "班主任惩罚学生用影子模仿青蛙",
-      "onboard_time": 1716599658,
+      "raw_hot": 166691,
+      "num": 166691,
+      "word": "倪妮鎏金抹胸裙",
+      "onboard_time": 1716600979,
       "rank": 33,
-      "category": "幽默"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163049,
@@ -563,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147414,
+      "num": 136191,
+      "word": "张杰工作室偷感好强",
+      "onboard_time": 1716600078,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145889,
       "num": 253887,
       "word": "她说当时很害怕但不能不救",
@@ -585,6 +649,14 @@
       "onboard_time": 1716572353,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135238,
+      "num": 135238,
+      "word": "西部决赛G2",
+      "onboard_time": 1716600018,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 129401,
@@ -611,14 +683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 124301,
-      "num": 124301,
-      "word": "mlxg一句不够强队友全红温",
-      "onboard_time": 1716599658,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 116878,
       "num": 244101,
       "word": "糟粕醋火锅",
@@ -633,6 +697,14 @@
       "onboard_time": 1716596117,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112476,
+      "num": 112476,
+      "word": "法国娃第一次吃馒头连说好吃",
+      "onboard_time": 1716600678,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 112388,
@@ -748,7 +820,7 @@
     },
     {
       "raw_hot": 58410,
-      "num": 1193465,
+      "num": 1257625,
       "word": "听着小美满愿丰收美满",
       "onboard_time": 1716558148,
       "rank": 2,
@@ -769,6 +841,14 @@
       "onboard_time": 1716585013,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43842,
+      "num": 350713,
+      "word": "525好好关爱自己",
+      "onboard_time": 1716598038,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 43429,
