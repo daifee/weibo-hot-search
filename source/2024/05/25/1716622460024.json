@@ -1,0 +1,410 @@
+{
+  "runTime": 1716622460024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 880995,
+        "num": 880995,
+        "word": "刘柏辛送亚当穿戴甲",
+        "onboard_time": 1716616038,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716668,
+        "num": 716668,
+        "word": "真的建议大家考北京大学",
+        "onboard_time": 1716607818,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 8711,
+        "num": 698983,
+        "word": "体验数字里的衣食住行",
+        "onboard_time": 1716549739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1660203,
+        "num": 697851,
+        "word": "被家暴16次需终身挂粪袋案当事人发声",
+        "onboard_time": 1716619638,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 722884,
+        "num": 696336,
+        "word": "芒果格局",
+        "onboard_time": 1716618257,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 693383,
+        "num": 693383,
+        "word": "逆水寒已悄悄删除IVE字母",
+        "onboard_time": 1716617718,
+        "rank": 5,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 634039,
+        "num": 634039,
+        "word": "李现经纪人牵完李现牵杨幂",
+        "onboard_time": 1716618618,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 557823,
+        "num": 557823,
+        "word": "尚雯婕 上歌手前我都糊得不行了",
+        "onboard_time": 1716620239,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470267,
+        "num": 470267,
+        "word": "台湾",
+        "onboard_time": 1716615738,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81096,
+        "num": 431596,
+        "word": "班味过浓会让哪些器官变丑",
+        "onboard_time": 1716621018,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 696607,
+        "num": 430485,
+        "word": "Angelababy布朗族簪花造型",
+        "onboard_time": 1716615799,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425548,
+        "num": 425548,
+        "word": "黄宣淘汰了 就位主持人",
+        "onboard_time": 1716609619,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389509,
+        "num": 389509,
+        "word": "林更新回复cp粉",
+        "onboard_time": 1716616158,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348464,
+        "num": 348464,
+        "word": "亚当回国了",
+        "onboard_time": 1716599959,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296524,
+        "num": 296524,
+        "word": "台青年称只有解放军可以保护台湾",
+        "onboard_time": 1716613579,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 236972,
+        "num": 236972,
+        "word": "无意间点开了老婆的备忘录",
+        "onboard_time": 1716602899,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212587,
+        "num": 212587,
+        "word": "年轻人为什么花钱上自习",
+        "onboard_time": 1716615678,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212095,
+        "num": 212095,
+        "word": "蒯曼陈熠3比1陈梦王曼昱",
+        "onboard_time": 1716618499,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184170,
+        "num": 184170,
+        "word": "改收货地址那一刻意识到毕业了",
+        "onboard_time": 1716618978,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146795,
+        "num": 183682,
+        "word": "谷爱凌一周写15篇文章",
+        "onboard_time": 1716614600,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333099,
+        "num": 180477,
+        "word": "为什么小肚子会有一条痕",
+        "onboard_time": 1716609800,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239967,
+        "num": 177269,
+        "word": "陈赫郑恺哭了",
+        "onboard_time": 1716617178,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225455,
+        "num": 173214,
+        "word": "迪丽热巴黄金色高定",
+        "onboard_time": 1716612679,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222007,
+        "num": 171342,
+        "word": "林更新晒与赵丽颖拍立得",
+        "onboard_time": 1716614360,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214252,
+        "num": 167777,
+        "word": "王启年是没有金手指的范闲",
+        "onboard_time": 1716620358,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205893,
+        "num": 164330,
+        "word": "庆余年春闱剧情开始神了",
+        "onboard_time": 1716614899,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200290,
+        "num": 161929,
+        "word": "周扬青回应淘汰",
+        "onboard_time": 1716622397,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196009,
+        "num": 157433,
+        "word": "张凌赫能不能不要舔嘴唇了",
+        "onboard_time": 1716618918,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156683,
+        "num": 156683,
+        "word": "原来有些酒店房卡是可以拿走的",
+        "onboard_time": 1716610279,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143664,
+        "num": 150731,
+        "word": "狗子每进一次草坪叼出一只刺猬",
+        "onboard_time": 1716619818,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195230,
+        "num": 150627,
+        "word": "陈丽君三公第一",
+        "onboard_time": 1716614778,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164426,
+        "num": 149670,
+        "word": "王楚钦梁靖崑vs马龙林高远",
+        "onboard_time": 1716621858,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147741,
+        "num": 147741,
+        "word": "刚存了4千被我家洗衣机知道了",
+        "onboard_time": 1716621919,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145507,
+        "num": 145507,
+        "word": "陈赫关晓彤凑不出一个胆子",
+        "onboard_time": 1716622099,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144926,
+        "num": 144926,
+        "word": "王心凌 我是中华民族的一份子",
+        "onboard_time": 1716594436,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144681,
+        "num": 144681,
+        "word": "时间煮雨好哭",
+        "onboard_time": 1716619158,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142439,
+        "num": 142439,
+        "word": "王传君谈出演酱园弄被杀丈夫",
+        "onboard_time": 1716621558,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136580,
+        "num": 136580,
+        "word": "东部战区这5天的晚安微博",
+        "onboard_time": 1716622219,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135552,
+        "num": 135552,
+        "word": "亚当 上一休六",
+        "onboard_time": 1716612138,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129401,
+        "num": 129401,
+        "word": "古茗活动崩了",
+        "onboard_time": 1716612559,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 42549,
+        "num": 124820,
+        "word": "2024FE电动方程式上海站",
+        "onboard_time": 1716617178,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133765,
+        "num": 124156,
+        "word": "汪峰30周年演唱会0元抢票",
+        "onboard_time": 1716619758,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122986,
+        "num": 122986,
+        "word": "鹿晗在邓超陈赫之间自闭",
+        "onboard_time": 1716615618,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121943,
+        "num": 121943,
+        "word": "大学十块钱的饭和十块钱的水果",
+        "onboard_time": 1716621798,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119311,
+        "num": 119311,
+        "word": "AG狼队包揽最佳一二阵",
+        "onboard_time": 1716621379,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116495,
+        "num": 116495,
+        "word": "女子被家暴16次需终身挂粪袋案新进展",
+        "onboard_time": 1716622397,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 116368,
+        "num": 116368,
+        "word": "丫丫吃窝窝头一脸认真",
+        "onboard_time": 1716617658,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112164,
+        "num": 112164,
+        "word": "马斯克裁员裁到大动脉",
+        "onboard_time": 1716604398,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109117,
+        "num": 109117,
+        "word": "逆水寒手游致歉",
+        "onboard_time": 1716613758,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108271,
+        "num": 108271,
+        "word": "沈月吉娜都选了徐志胜",
+        "onboard_time": 1716622397,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化山东篇章#"
+    }
+  }
+}

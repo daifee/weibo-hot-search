@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716621418756,
+  "endTime": 1716622460024,
   "band_list": [
     {
       "raw_hot": 2538169,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1660203,
+      "num": 1311087,
+      "word": "被家暴16次需终身挂粪袋案当事人发声",
+      "onboard_time": 1716619638,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1650416,
       "num": 1650416,
       "word": "中国台湾省",
@@ -65,14 +73,6 @@
       "onboard_time": 1716616038,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1311087,
-      "num": 1311087,
-      "word": "被家暴16次需终身挂粪袋案当事人发声",
-      "onboard_time": 1716619638,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1289185,
@@ -203,19 +203,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 722884,
+      "num": 696336,
+      "word": "芒果格局",
+      "onboard_time": 1716618257,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712302,
       "num": 436303,
       "word": "亚当证明芒果音响真的顶级",
       "onboard_time": 1716600139,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 684677,
-      "num": 684677,
-      "word": "芒果格局",
-      "onboard_time": 1716618257,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -337,6 +337,14 @@
       "onboard_time": 1716607038,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 557823,
+      "num": 557823,
+      "word": "尚雯婕 上歌手前我都糊得不行了",
+      "onboard_time": 1716620239,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 556289,
@@ -497,14 +505,6 @@
       "onboard_time": 1716599838,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387223,
-      "num": 387223,
-      "word": "尚雯婕 上歌手前我都糊得不行了",
-      "onboard_time": 1716620239,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 386680,
@@ -963,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200290,
+      "num": 161929,
+      "word": "周扬青回应淘汰",
+      "onboard_time": 1716622397,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198541,
       "num": 109407,
       "word": "剧组说贺军翔这两天没戏要拍",
@@ -971,7 +979,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195465,
+      "raw_hot": 196009,
       "num": 174954,
       "word": "张凌赫能不能不要舔嘴唇了",
       "onboard_time": 1716618918,
@@ -1035,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184170,
+      "num": 391332,
+      "word": "改收货地址那一刻意识到毕业了",
+      "onboard_time": 1716618978,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183457,
       "num": 183457,
       "word": "逆水寒回应被指公费追星ive",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1716594736,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174893,
-      "num": 391332,
-      "word": "改收货地址那一刻意识到毕业了",
-      "onboard_time": 1716618978,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173703,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1716619818,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164426,
+      "num": 149670,
+      "word": "王楚钦梁靖崑vs马龙林高远",
+      "onboard_time": 1716621858,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 163049,
@@ -1299,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147741,
+      "num": 147741,
+      "word": "刚存了4千被我家洗衣机知道了",
+      "onboard_time": 1716621919,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147414,
       "num": 136191,
       "word": "张杰工作室偷感好强",
@@ -1331,12 +1355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145507,
+      "num": 145507,
+      "word": "陈赫关晓彤凑不出一个胆子",
+      "onboard_time": 1716622099,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142996,
       "num": 142996,
       "word": "老头杯",
       "onboard_time": 1716603379,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142439,
+      "num": 142439,
+      "word": "王传君谈出演酱园弄被杀丈夫",
+      "onboard_time": 1716621558,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 140041,
@@ -1376,6 +1416,14 @@
       "word": "台独在哪火力套餐就送到哪",
       "onboard_time": 1716572353,
       "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 136580,
+      "num": 136580,
+      "word": "东部战区这5天的晚安微博",
+      "onboard_time": 1716622219,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -1443,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121943,
+      "num": 121943,
+      "word": "大学十块钱的饭和十块钱的水果",
+      "onboard_time": 1716621798,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121275,
       "num": 121275,
       "word": "电影院看歌手",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1716602479,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119311,
+      "num": 119311,
+      "word": "AG狼队包揽最佳一二阵",
+      "onboard_time": 1716621379,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 118625,
@@ -1481,6 +1545,14 @@
       "onboard_time": 1716561324,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116495,
+      "num": 116495,
+      "word": "女子被家暴16次需终身挂粪袋案新进展",
+      "onboard_time": 1716622397,
+      "rank": 45,
+      "category": "社会负面"
     },
     {
       "raw_hot": 114037,
@@ -1539,6 +1611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108271,
+      "num": 108271,
+      "word": "沈月吉娜都选了徐志胜",
+      "onboard_time": 1716622397,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108096,
       "num": 108096,
       "word": "歌手观众席好多明星",
@@ -1569,14 +1649,6 @@
       "onboard_time": 1716555144,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102514,
-      "num": 102514,
-      "word": "AG狼队包揽最佳一二阵",
-      "onboard_time": 1716621379,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 102502,
@@ -1617,6 +1689,14 @@
       "onboard_time": 1716590952,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81096,
+      "num": 491172,
+      "word": "班味过浓会让哪些器官变丑",
+      "onboard_time": 1716621018,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 79265,
@@ -1745,14 +1825,6 @@
       "onboard_time": 1716598038,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 43536,
-      "num": 491172,
-      "word": "班味过浓会让哪些器官变丑",
-      "onboard_time": 1716621018,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 43429,
