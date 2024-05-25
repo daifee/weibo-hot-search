@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716641243072,
+  "endTime": 1716643136819,
   "band_list": [
     {
       "raw_hot": 2584147,
@@ -59,6 +59,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1816721,
+      "num": 957965,
+      "word": "陈奕迅含泪致歉",
+      "onboard_time": 1716640039,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1759014,
+      "num": 1170552,
+      "word": "他退出TFBOYS后老了很多",
+      "onboard_time": 1716640278,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1670446,
       "num": 582502,
       "word": "赵丽颖帮林更新澄清",
@@ -81,14 +97,6 @@
       "onboard_time": 1716539539,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1564938,
-      "num": 1170552,
-      "word": "他退出TFBOYS后老了很多",
-      "onboard_time": 1716640278,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1559005,
@@ -211,14 +219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 957965,
-      "num": 957965,
-      "word": "陈奕迅含泪致歉",
-      "onboard_time": 1716640039,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 939685,
       "num": 939685,
       "word": "无意间点开了老婆的备忘录",
@@ -241,6 +241,14 @@
       "onboard_time": 1716554123,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 924121,
+      "num": 642918,
+      "word": "凡希亚 李蠕蠕",
+      "onboard_time": 1716640099,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 896589,
@@ -395,6 +403,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 656062,
+      "num": 656062,
+      "word": "你身边有疑似重生的人吗",
+      "onboard_time": 1716639260,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 654371,
       "num": 654371,
       "word": "戛纳为章子怡清场",
@@ -411,19 +427,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641313,
+      "num": 641313,
+      "word": "原来朋友圈很多官宣照是这么来的",
+      "onboard_time": 1716639498,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 635019,
       "num": 287800,
       "word": "花三千做了二十八天牛马",
       "onboard_time": 1716623186,
       "rank": 10,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 632323,
-      "num": 632323,
-      "word": "你身边有疑似重生的人吗",
-      "onboard_time": 1716639260,
-      "rank": 13,
       "category": "情感"
     },
     {
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 614794,
-      "num": 352538,
+      "num": 368207,
       "word": "东部战区繁体字细节了",
       "onboard_time": 1716626659,
       "rank": 11,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 602141,
-      "num": 232422,
+      "num": 363285,
       "word": "韩国邻居把我门口的福字撕了",
       "onboard_time": 1716635839,
       "rank": 27,
@@ -537,6 +553,14 @@
       "onboard_time": 1716607038,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 563308,
+      "num": 563308,
+      "word": "癌症来前1年身体会发生8种变化",
+      "onboard_time": 1716640459,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 561544,
@@ -819,6 +843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 374685,
+      "num": 374685,
+      "word": "日本昔日童星因杀人焚尸被捕",
+      "onboard_time": 1716641840,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370257,
       "num": 234997,
       "word": "陈丽君三公第一",
@@ -835,28 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362092,
-      "num": 362092,
-      "word": "原来朋友圈很多官宣照是这么来的",
-      "onboard_time": 1716639498,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 361593,
       "num": 355914,
       "word": "基地就福宝被偷拍报警",
       "onboard_time": 1716596417,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359649,
-      "num": 196520,
-      "word": "凡希亚 李蠕蠕",
-      "onboard_time": 1716640099,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 358742,
@@ -977,6 +993,14 @@
       "onboard_time": 1716606618,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 317096,
+      "num": 317096,
+      "word": "中国人吃掉全世界70%的西瓜",
+      "onboard_time": 1716640159,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316941,
@@ -1259,6 +1283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231478,
+      "num": 231478,
+      "word": "罪臣范闲下次还敢",
+      "onboard_time": 1716640519,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231443,
       "num": 231443,
       "word": "建议每天都很困的去验血查一下",
@@ -1371,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213836,
+      "num": 213836,
+      "word": "苹果教育优惠新iPad打9折",
+      "onboard_time": 1716641119,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 213050,
       "num": 187778,
       "word": "黄宣 哈克南最后的表舅",
@@ -1467,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200168,
+      "num": 200168,
+      "word": "帅爸美妈和有鼻子有眼的阿尼亚",
+      "onboard_time": 1716642561,
+      "rank": 31,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 199706,
       "num": 199706,
       "word": "华晨宇香港",
@@ -1523,6 +1571,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 192272,
+      "num": 192272,
+      "word": "华晨宇香港人气",
+      "onboard_time": 1716641962,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192230,
       "num": 192230,
       "word": "钢铁森林官宣开机",
@@ -1536,14 +1592,6 @@
       "word": "喝奶茶为什么心脏不舒服",
       "onboard_time": 1716561385,
       "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 190176,
-      "num": 190176,
-      "word": "癌症来前1年身体会发生8种变化",
-      "onboard_time": 1716640459,
-      "rank": 34,
       "category": "健康医疗"
     },
     {
@@ -1561,6 +1609,14 @@
       "onboard_time": 1716621798,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187727,
+      "num": 187727,
+      "word": "你好星期六",
+      "onboard_time": 1716641300,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 186970,
@@ -1675,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178367,
+      "num": 178367,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1716641780,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178240,
       "num": 165396,
       "word": "时间煮雨好哭",
@@ -1721,14 +1785,6 @@
       "onboard_time": 1716600678,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 172165,
-      "num": 193940,
-      "word": "中国人吃掉全世界70%的西瓜",
-      "onboard_time": 1716640159,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172143,
@@ -1955,14 +2011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152383,
-      "num": 152383,
-      "word": "罪臣范闲下次还敢",
-      "onboard_time": 1716640519,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151893,
       "num": 242520,
       "word": "黄轩跳晚安大小姐",
@@ -2107,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139624,
+      "num": 139624,
+      "word": "陈丽君争气",
+      "onboard_time": 1716643100,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139049,
       "num": 139049,
       "word": "剑网3要求百度贴吧永久封禁徐某",
@@ -2235,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122896,
+      "num": 140543,
+      "word": "本以为是霸总结果是颠公",
+      "onboard_time": 1716643100,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122004,
       "num": 319558,
       "word": "去县城旅游真的性价比高吗",
@@ -2315,6 +2379,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 115790,
+      "num": 129200,
+      "word": "香港4大审计师工作是怎样的",
+      "onboard_time": 1716641240,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115263,
       "num": 108271,
       "word": "沈月吉娜都选了徐志胜",
@@ -2369,6 +2441,14 @@
       "onboard_time": 1716601698,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 111852,
+      "num": 128741,
+      "word": "XYG资格赛淘汰",
+      "onboard_time": 1716642200,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 110756,
@@ -2467,14 +2547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99797,
-      "num": 105820,
-      "word": "苹果教育优惠新iPad打9折",
-      "onboard_time": 1716641119,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 96449,
       "num": 105772,
       "word": "35岁医生高血压跑步4个月恢复正常",
@@ -2497,6 +2569,14 @@
       "onboard_time": 1716562344,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88201,
+      "num": 127626,
+      "word": "林诗栋蒯曼混双冠军",
+      "onboard_time": 1716641480,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 85560,
@@ -2537,6 +2617,14 @@
       "onboard_time": 1716548958,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78762,
+      "num": 126534,
+      "word": "帕梅拉与一诺健身互动",
+      "onboard_time": 1716642921,
+      "rank": 49,
+      "category": "运动健身,电竞"
     },
     {
       "raw_hot": 78061,
@@ -2672,6 +2760,14 @@
       "word": "女子包粽手掂重量1克不差",
       "onboard_time": 1716636079,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46697,
+      "num": 645034,
+      "word": "香港警察晒警犬喊话警犬福仔",
+      "onboard_time": 1716641659,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2865,6 +2961,14 @@
       "onboard_time": 1716617839,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15620,
+      "num": 370661,
+      "word": "vivo上音乐节大屏了",
+      "onboard_time": 1716641601,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 13466,
