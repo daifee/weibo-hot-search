@@ -1,6 +1,6 @@
 {
   "startTime": 1716049306339,
-  "endTime": 1716601023517,
+  "endTime": 1716604201460,
   "band_list": [
     {
       "raw_hot": 15346908,
@@ -265,6 +265,14 @@
       "onboard_time": 1716474021,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2302650,
+      "num": 2302650,
+      "word": "亚当回国了",
+      "onboard_time": 1716599959,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2287053,
@@ -1331,14 +1339,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1079151,
-      "num": 1079151,
-      "word": "亚当回国了",
-      "onboard_time": 1716599959,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1078087,
       "num": 469832,
       "word": "侯佩岑",
@@ -2388,7 +2388,7 @@
     },
     {
       "raw_hot": 712302,
-      "num": 345352,
+      "num": 407162,
       "word": "亚当证明芒果音响真的顶级",
       "onboard_time": 1716600139,
       "rank": 10,
@@ -2787,6 +2787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 642673,
+      "num": 361129,
+      "word": "无意间点开了老婆的备忘录",
+      "onboard_time": 1716602899,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 640150,
       "num": 640150,
       "word": "B太揭秘100元3个榴莲内幕",
@@ -3075,6 +3083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 591612,
+      "num": 347717,
+      "word": "王力宏 火力全开",
+      "onboard_time": 1716602419,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 591447,
       "num": 591447,
       "word": "亚当穿奥斯卡战袍录歌手",
@@ -3113,6 +3129,14 @@
       "onboard_time": 1716086719,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 587265,
+      "num": 587265,
+      "word": "父亲称13岁女儿遭男同学猥亵",
+      "onboard_time": 1716601819,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 586546,
@@ -3764,7 +3788,7 @@
     },
     {
       "raw_hot": 499206,
-      "num": 191807,
+      "num": 199346,
       "word": "岳父母连续寄海鲜3个月小伙崩溃退群",
       "onboard_time": 1716592995,
       "rank": 20,
@@ -4459,6 +4483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 435477,
+      "num": 200777,
+      "word": "喂 我老那",
+      "onboard_time": 1716602299,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435318,
       "num": 435318,
       "word": "伊朗对载有总统的事故直升机全力搜救",
@@ -4593,6 +4625,14 @@
       "onboard_time": 1716301760,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 423219,
+      "num": 423219,
+      "word": "班主任惩罚学生用影子模仿青蛙",
+      "onboard_time": 1716599658,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 421093,
@@ -5059,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386481,
+      "num": 200374,
+      "word": "李现帮杨幂拍照",
+      "onboard_time": 1716600858,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 384968,
       "num": 384968,
       "word": "周鸿祎将购买7辆国产新能源车",
@@ -5257,6 +5305,14 @@
       "onboard_time": 1716360079,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364523,
+      "num": 199432,
+      "word": "张予曦腿环",
+      "onboard_time": 1716603738,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 363894,
@@ -6323,14 +6379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 302068,
-      "num": 302068,
-      "word": "班主任惩罚学生用影子模仿青蛙",
-      "onboard_time": 1716599658,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 301927,
       "num": 301927,
       "word": "QQ飞车手游",
@@ -7187,6 +7235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260409,
+      "num": 260409,
+      "word": "mlxg一句不够强队友全红温",
+      "onboard_time": 1716599658,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 260356,
       "num": 260356,
       "word": "肖战入围微博年度瞩目影人",
@@ -7232,14 +7288,6 @@
       "word": "TheShy发博为OP队老头杯加油",
       "onboard_time": 1716284059,
       "rank": 41,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 257987,
-      "num": 257987,
-      "word": "mlxg一句不够强队友全红温",
-      "onboard_time": 1716599658,
-      "rank": 44,
       "category": "电竞"
     },
     {
@@ -7385,6 +7433,14 @@
       "onboard_time": 1716467478,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253005,
+      "num": 198205,
+      "word": "女子购物偷手机慌得把7.5元付成75",
+      "onboard_time": 1716603259,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252764,
@@ -7827,14 +7883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236038,
-      "num": 175481,
-      "word": "李现帮杨幂拍照",
-      "onboard_time": 1716600858,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 235492,
       "num": 235492,
       "word": "为什么卫生巾非得搞成组合装",
@@ -8131,6 +8179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226889,
+      "num": 197261,
+      "word": "乡镇医院精神科快被中学生挤满了",
+      "onboard_time": 1716602659,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226736,
       "num": 210113,
       "word": "张艺兴回应90后一番票房TOP1",
@@ -8376,6 +8432,14 @@
       "word": "这土豆花非送不可吗",
       "onboard_time": 1716181821,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 217789,
+      "num": 196914,
+      "word": "养了十几年的鳄龟突然站起来了",
+      "onboard_time": 1716603678,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -8835,6 +8899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207403,
+      "num": 196486,
+      "word": "酱园弄戛纳口碑",
+      "onboard_time": 1716600798,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207081,
       "num": 207081,
       "word": "阿森纳vs埃弗顿",
@@ -9227,12 +9299,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200836,
+      "num": 200836,
+      "word": "我爱我",
+      "onboard_time": 1716603918,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200804,
       "num": 200804,
       "word": "张杰周深献唱狐妖月红篇OST",
       "onboard_time": 1716259579,
       "rank": 24,
       "category": "剧集,音乐"
+    },
+    {
+      "raw_hot": 200660,
+      "num": 193829,
+      "word": "章子怡项链上写着醒醒",
+      "onboard_time": 1716603198,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 200477,
@@ -9265,14 +9353,6 @@
       "onboard_time": 1716259278,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 200336,
-      "num": 173565,
-      "word": "酱园弄戛纳口碑",
-      "onboard_time": 1716600798,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 200287,
@@ -10403,6 +10483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180647,
+      "num": 172180,
+      "word": "歌手 同歌异构",
+      "onboard_time": 1716603498,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180624,
       "num": 180624,
       "word": "林高远1比3黄镇廷",
@@ -10955,6 +11043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172266,
+      "num": 172266,
+      "word": "法国娃第一次吃馒头连说好吃",
+      "onboard_time": 1716600678,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171930,
       "num": 171930,
       "word": "连云港鬼秤商户和主办方被罚款",
@@ -11009,6 +11105,14 @@
       "onboard_time": 1716343099,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 169587,
+      "num": 169587,
+      "word": "小沈阳自荐歌手",
+      "onboard_time": 1716601758,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 169556,
@@ -12441,6 +12545,14 @@
       "onboard_time": 1716279320,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148729,
+      "num": 379271,
+      "word": "有些情绪价值终究是错付了",
+      "onboard_time": 1716602419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148712,
@@ -14587,6 +14699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119641,
+      "num": 117505,
+      "word": "刘亦菲已经回家了",
+      "onboard_time": 1716602479,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119632,
       "num": 119632,
       "word": "喜欢趁没人时玩滑梯的猫咪",
@@ -14689,6 +14809,14 @@
       "onboard_time": 1716227951,
       "rank": 12,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 118625,
+      "num": 118625,
+      "word": "猫meme凭什么爆红成顶流",
+      "onboard_time": 1716602059,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 118599,
@@ -15059,14 +15187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 112476,
-      "num": 112476,
-      "word": "法国娃第一次吃馒头连说好吃",
-      "onboard_time": 1716600678,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 112460,
       "num": 385852,
       "word": "刘语熙教巴拉克喝中国茶",
@@ -15089,6 +15209,14 @@
       "onboard_time": 1716388460,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112148,
+      "num": 112148,
+      "word": "脆升升20克装薯条实际仅12.6克",
+      "onboard_time": 1716601698,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 111999,
