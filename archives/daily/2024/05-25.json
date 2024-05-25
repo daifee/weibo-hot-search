@@ -1,6 +1,6 @@
 {
   "startTime": 1716567687834,
-  "endTime": 1716628697037,
+  "endTime": 1716629667163,
   "band_list": [
     {
       "raw_hot": 2538169,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1631251,
+      "num": 1631251,
+      "word": "525",
+      "onboard_time": 1716622758,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1559005,
       "num": 1559005,
       "word": "汪苏泷 走又走不了赢又赢不了",
@@ -113,14 +121,6 @@
       "onboard_time": 1716609619,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1095616,
-      "num": 1095616,
-      "word": "525",
-      "onboard_time": 1716622758,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1074389,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 834856,
-      "num": 267113,
+      "num": 280109,
       "word": "赵丽颖露腿装",
       "onboard_time": 1716624858,
       "rank": 12,
@@ -217,6 +217,14 @@
       "onboard_time": 1716617718,
       "rank": 5,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 751971,
+      "num": 751971,
+      "word": "国防部说台湾是中国的台湾",
+      "onboard_time": 1716626719,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 733318,
@@ -275,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 667470,
-      "num": 667470,
-      "word": "国防部说台湾是中国的台湾",
-      "onboard_time": 1716626719,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 667378,
       "num": 579912,
       "word": "王力宏 火力全开",
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 635019,
-      "num": 286451,
+      "num": 287800,
       "word": "花三千做了二十八天牛马",
       "onboard_time": 1716623186,
       "rank": 10,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 614794,
+      "num": 352538,
+      "word": "东部战区繁体字细节了",
+      "onboard_time": 1716626659,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 606227,
       "num": 606227,
       "word": "林更新回复cp粉",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 605380,
-      "num": 200466,
+      "num": 279474,
       "word": "刚存了4千被我家洗衣机知道了",
       "onboard_time": 1716621919,
       "rank": 32,
@@ -384,6 +392,14 @@
       "word": "亚当演技",
       "onboard_time": 1716595878,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 566795,
+      "num": 566795,
+      "word": "亚当出场歌手破1",
+      "onboard_time": 1716624978,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -435,28 +451,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 517272,
-      "num": 517272,
-      "word": "亚当出场歌手破1",
-      "onboard_time": 1716624978,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 499206,
       "num": 237116,
       "word": "岳父母连续寄海鲜3个月小伙崩溃退群",
       "onboard_time": 1716592995,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492646,
-      "num": 352538,
-      "word": "东部战区繁体字细节了",
-      "onboard_time": 1716626659,
-      "rank": 11,
-      "category": "国内时政"
     },
     {
       "raw_hot": 492282,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 457796,
-      "num": 279087,
+      "num": 279758,
       "word": "东部战区这5天的晚安微博",
       "onboard_time": 1716622219,
       "rank": 37,
@@ -585,6 +585,14 @@
       "onboard_time": 1716610159,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 400574,
+      "num": 400574,
+      "word": "演员杜旭东疑似又为电诈拍广告背书",
+      "onboard_time": 1716627677,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 387585,
@@ -681,6 +689,22 @@
       "onboard_time": 1716623778,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 334906,
+      "num": 334906,
+      "word": "东部战区发布风雷电火",
+      "onboard_time": 1716628039,
+      "rank": 18,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 333045,
+      "num": 333045,
+      "word": "亚当唱beautiful镜头切娜扎",
+      "onboard_time": 1716628699,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 322043,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 279036,
-      "num": 200187,
+      "num": 265536,
       "word": "汪苏泷 小英家的牛",
       "onboard_time": 1716624798,
       "rank": 31,
@@ -841,14 +865,6 @@
       "onboard_time": 1716591914,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264102,
-      "num": 200063,
-      "word": "演员杜旭东疑似又为电诈拍广告背书",
-      "onboard_time": 1716627677,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 263682,
@@ -987,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221925,
-      "num": 221925,
-      "word": "东部战区发布风雷电火",
-      "onboard_time": 1716628039,
-      "rank": 18,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 217789,
       "num": 216789,
       "word": "养了十几年的鳄龟突然站起来了",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1716587531,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197169,
+      "num": 197169,
+      "word": "王鹤棣孟子义体型差",
+      "onboard_time": 1716627380,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 196009,
@@ -1267,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175577,
-      "num": 175577,
-      "word": "王鹤棣孟子义体型差",
-      "onboard_time": 1716627380,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173703,
       "num": 255817,
       "word": "孩子抑郁休学其实是在替全家生病",
@@ -1299,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171370,
+      "num": 171370,
+      "word": "室友非要穿成这样见crush",
+      "onboard_time": 1716628518,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169964,
       "num": 169964,
       "word": "独行侠2比0森林狼",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1716607400,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168392,
+      "num": 168392,
+      "word": "王启年可以小刀但不免运费",
+      "onboard_time": 1716628158,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 166851,
@@ -1452,7 +1476,7 @@
     },
     {
       "raw_hot": 154955,
-      "num": 154955,
+      "num": 279698,
       "word": "小宝宝找了个喝奶搭子",
       "onboard_time": 1716626059,
       "rank": 38,
@@ -1659,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134850,
-      "num": 134850,
-      "word": "王启年可以小刀但不免运费",
-      "onboard_time": 1716628158,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132498,
       "num": 132498,
       "word": "鹿晗左右为男",
@@ -1739,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123606,
+      "num": 370260,
+      "word": "甲状腺疾病容易盯上哪些人",
+      "onboard_time": 1716627618,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 121275,
       "num": 121275,
       "word": "电影院看歌手",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1716602059,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117430,
-      "num": 117430,
-      "word": "室友非要穿成这样见crush",
-      "onboard_time": 1716628518,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 117297,
@@ -1883,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109455,
+      "num": 109455,
+      "word": "谁懂庆余年2这个镜头",
+      "onboard_time": 1716629539,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109079,
       "num": 106401,
       "word": "刘亦菲将出席玫瑰的故事发布会",
@@ -1913,6 +1937,14 @@
       "onboard_time": 1716621318,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105798,
+      "num": 105798,
+      "word": "狐妖王者荣耀梦幻联动",
+      "onboard_time": 1716629479,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 103513,
@@ -1980,19 +2012,11 @@
     },
     {
       "raw_hot": 81232,
-      "num": 200342,
+      "num": 279530,
       "word": "章小蕙的选品很尊重我审美",
       "onboard_time": 1716627858,
       "rank": 22,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 79779,
-      "num": 370260,
-      "word": "甲状腺疾病容易盯上哪些人",
-      "onboard_time": 1716627618,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 79265,
@@ -2123,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44638,
+      "num": 279316,
+      "word": "民警反诈遭大爷强烈抵触",
+      "onboard_time": 1716622878,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43842,
       "num": 350713,
       "word": "525好好关爱自己",
@@ -2169,6 +2201,14 @@
       "onboard_time": 1716537678,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36303,
+      "num": 952941,
+      "word": "在文博会遇见东方韵味",
+      "onboard_time": 1716628218,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30435,
@@ -2259,14 +2299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 20059,
-      "num": 822141,
-      "word": "在文博会遇见东方韵味",
-      "onboard_time": 1716628218,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19105,
       "num": 35970,
       "word": "祖国统一是历史大势人间正道",
@@ -2289,6 +2321,14 @@
       "onboard_time": 1716581950,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 12175,
+      "num": 182673,
+      "word": "小范大人为考生神助攻",
+      "onboard_time": 1716628879,
+      "rank": 31,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
