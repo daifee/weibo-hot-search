@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716697347000,
+  "endTime": 1716698242383,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3403,6 +3403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1285116,
+      "num": 1285116,
+      "word": "叙利亚第一夫人确诊白血病后首发声",
+      "onboard_time": 1716693257,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1283218,
       "num": 1283218,
       "word": "王楚钦",
@@ -3857,14 +3865,6 @@
       "onboard_time": 1715556436,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1229768,
-      "num": 1229768,
-      "word": "叙利亚第一夫人确诊白血病后首发声",
-      "onboard_time": 1716693257,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1227704,
@@ -14859,6 +14859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 513466,
+      "num": 513466,
+      "word": "兰州已经开始沸腾了",
+      "onboard_time": 1716694878,
+      "rank": 5,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 513391,
       "num": 358040,
       "word": "JackeyLove女友晒合照",
@@ -25171,14 +25179,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 314936,
-      "num": 314936,
-      "word": "兰州已经开始沸腾了",
-      "onboard_time": 1716694878,
-      "rank": 5,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 314706,
       "num": 314706,
       "word": "iPhone在华市场份额跌出前5",
@@ -35427,6 +35427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 213645,
+      "num": 148670,
+      "word": "买最贵的票淋最大的雨",
+      "onboard_time": 1716697878,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213619,
       "num": 213619,
       "word": "俄罗斯办缴获武器展友情提示亮了",
@@ -43643,6 +43651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 183046,
+      "num": 148305,
+      "word": "孟佳误入自己的打歌现场一秒开蹦",
+      "onboard_time": 1716697038,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183024,
       "num": 183024,
       "word": "舒淇被挤到耸肩",
@@ -43913,6 +43929,14 @@
       "onboard_time": 1714838719,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181683,
+      "num": 147800,
+      "word": "庆余年 鸣龙少年",
+      "onboard_time": 1716697938,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 181677,
@@ -45633,6 +45657,14 @@
       "onboard_time": 1715142265,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174449,
+      "num": 140022,
+      "word": "洪啸描述补位歌手",
+      "onboard_time": 1716697938,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 174441,
@@ -54121,14 +54153,6 @@
       "onboard_time": 1716167178,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142375,
-      "num": 142375,
-      "word": "孟佳误入自己的打歌现场一秒开蹦",
-      "onboard_time": 1716697038,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 142344,
@@ -64075,6 +64099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98704,
+      "num": 98704,
+      "word": "疾控部门提醒近期防控猩红热",
+      "onboard_time": 1716696017,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98668,
       "num": 98668,
       "word": "黄友政大逆转",
@@ -64249,6 +64281,14 @@
       "onboard_time": 1716007758,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 97491,
+      "num": 97491,
+      "word": "Scout选手LPL征战八周年",
+      "onboard_time": 1716698178,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 97413,
@@ -69067,6 +69107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40357,
+      "num": 1229492,
+      "word": "高质量发展调研行",
+      "onboard_time": 1715829678,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40267,
       "num": 40267,
       "word": "云南一茶厂土方坍塌致3人死亡",
@@ -69256,14 +69304,6 @@
       "word": "令人骄傲的中国制造",
       "onboard_time": 1715246718,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37346,
-      "num": 1229492,
-      "word": "高质量发展调研行",
-      "onboard_time": 1715829678,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

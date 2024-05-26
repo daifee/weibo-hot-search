@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716697347000,
+  "endTime": 1716698242383,
   "band_list": [
     {
       "raw_hot": 1967473,
@@ -43,8 +43,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1229768,
-      "num": 1229768,
+      "raw_hot": 1285116,
+      "num": 1285116,
       "word": "叙利亚第一夫人确诊白血病后首发声",
       "onboard_time": 1716693257,
       "rank": 39,
@@ -193,6 +193,14 @@
       "onboard_time": 1716651500,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 513466,
+      "num": 513466,
+      "word": "兰州已经开始沸腾了",
+      "onboard_time": 1716694878,
+      "rank": 5,
+      "category": "运动健身"
     },
     {
       "raw_hot": 507642,
@@ -427,14 +435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314936,
-      "num": 314936,
-      "word": "兰州已经开始沸腾了",
-      "onboard_time": 1716694878,
-      "rank": 5,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 310093,
       "num": 310093,
       "word": "Doinb退群",
@@ -611,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213645,
+      "num": 148670,
+      "word": "买最贵的票淋最大的雨",
+      "onboard_time": 1716697878,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210974,
       "num": 193163,
       "word": "有哪些工资不高但房价很高的城市",
@@ -699,6 +707,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183046,
+      "num": 148305,
+      "word": "孟佳误入自己的打歌现场一秒开蹦",
+      "onboard_time": 1716697038,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181683,
+      "num": 147800,
+      "word": "庆余年 鸣龙少年",
+      "onboard_time": 1716697938,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181121,
       "num": 181121,
       "word": "本科毕业的那一年究竟要经历什么",
@@ -715,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174449,
+      "num": 140022,
+      "word": "洪啸描述补位歌手",
+      "onboard_time": 1716697938,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173762,
       "num": 173762,
       "word": "aespa概念照",
@@ -729,6 +761,14 @@
       "onboard_time": 1716693318,
       "rank": 19,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 172544,
+      "num": 139837,
+      "word": "桃花坞",
+      "onboard_time": 1716697997,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 171441,
@@ -849,14 +889,6 @@
       "onboard_time": 1716682097,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142375,
-      "num": 142375,
-      "word": "孟佳误入自己的打歌现场一秒开蹦",
-      "onboard_time": 1716697038,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 140020,
@@ -1139,6 +1171,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98704,
+      "num": 98704,
+      "word": "疾控部门提醒近期防控猩红热",
+      "onboard_time": 1716696017,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97491,
+      "num": 97491,
+      "word": "Scout选手LPL征战八周年",
+      "onboard_time": 1716698178,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91578,
       "num": 100469,
       "word": "原来沈月是李嘉琦的嫡长闺",
@@ -1251,7 +1299,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37346,
+      "raw_hot": 40357,
       "num": 602815,
       "word": "高质量发展调研行",
       "onboard_time": 1716694698,
