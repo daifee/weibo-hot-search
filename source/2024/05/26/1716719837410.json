@@ -1,0 +1,410 @@
+{
+  "runTime": 1716719837410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 781152,
+        "num": 781152,
+        "word": "王妈公司待遇",
+        "onboard_time": 1716711979,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 726930,
+        "num": 726930,
+        "word": "庆帝终于显露武功了",
+        "onboard_time": 1716713239,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67446,
+        "num": 631898,
+        "word": "2024年数据生产量增长或超25%",
+        "onboard_time": 1716715638,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607074,
+        "num": 607074,
+        "word": "章子怡兜兜转转才45岁",
+        "onboard_time": 1716717077,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468365,
+        "num": 468365,
+        "word": "上海暴雨",
+        "onboard_time": 1716714918,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260018,
+        "num": 260018,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1716708978,
+        "rank": 5,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 391812,
+        "num": 259739,
+        "word": "网恋是王力宏 奔现是孙楠",
+        "onboard_time": 1716703699,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371606,
+        "num": 257988,
+        "word": "亚当翻牌",
+        "onboard_time": 1716711378,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199359,
+        "num": 256809,
+        "word": "9个月的喀秋莎体重超50斤",
+        "onboard_time": 1716712097,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38650,
+        "num": 254982,
+        "word": "北辰又快喜提单间了",
+        "onboard_time": 1716718997,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709448,
+        "num": 254288,
+        "word": "为什么研究生就业难于本科生",
+        "onboard_time": 1716716418,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 347036,
+        "num": 252530,
+        "word": "王源回复汪苏泷",
+        "onboard_time": 1716713239,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323700,
+        "num": 251679,
+        "word": "Lululemon股价今年已跌去4成",
+        "onboard_time": 1716716179,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299652,
+        "num": 249876,
+        "word": "陈赫冰桶打人事件受害者",
+        "onboard_time": 1716701119,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294200,
+        "num": 248555,
+        "word": "刘强东内部狼性训话流出",
+        "onboard_time": 1716709038,
+        "rank": 14,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 248236,
+        "num": 248236,
+        "word": "有头发的黄宣",
+        "onboard_time": 1716713057,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244928,
+        "num": 244928,
+        "word": "巴新山体滑坡估算超670人死亡",
+        "onboard_time": 1716714978,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227783,
+        "num": 227783,
+        "word": "男孩模仿和平精英从3楼跳下",
+        "onboard_time": 1716710838,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219534,
+        "num": 219534,
+        "word": "华晨宇演唱会一口气官宣三站",
+        "onboard_time": 1716718699,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140266,
+        "num": 218272,
+        "word": "刘强东回应严抓考勤",
+        "onboard_time": 1716710478,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 444747,
+        "num": 213450,
+        "word": "被研究生宿舍的上床下桌整破防了",
+        "onboard_time": 1716714918,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365800,
+        "num": 203942,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356167,
+        "num": 201403,
+        "word": "张艺凡这腿P都不敢这么P",
+        "onboard_time": 1716712097,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198419,
+        "num": 198419,
+        "word": "杨幂靴子",
+        "onboard_time": 1716711979,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195659,
+        "num": 195659,
+        "word": "看似卫生其实会引发妇科疾病的行为",
+        "onboard_time": 1716714079,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192749,
+        "num": 192749,
+        "word": "知情人士曝贺军翔涉性侵内幕",
+        "onboard_time": 1716704838,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191302,
+        "num": 191302,
+        "word": "买最贵的票淋最大的雨",
+        "onboard_time": 1716697878,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189878,
+        "num": 189878,
+        "word": "庆余年2隐喻",
+        "onboard_time": 1716716839,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182160,
+        "num": 182160,
+        "word": "孙楠 补位",
+        "onboard_time": 1716695359,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159989,
+        "num": 171963,
+        "word": "多少岁皮肤开始断崖式衰老",
+        "onboard_time": 1716714498,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 171702,
+        "num": 171702,
+        "word": "内娱综艺把13位少年放岛上120天",
+        "onboard_time": 1716713598,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166268,
+        "num": 166268,
+        "word": "看得出他是五竹",
+        "onboard_time": 1716706459,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156287,
+        "num": 156287,
+        "word": "赵奕欢乘风报名了四季",
+        "onboard_time": 1716714559,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133576,
+        "num": 133576,
+        "word": "无畏被曝外出试训",
+        "onboard_time": 1716719298,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131679,
+        "num": 131679,
+        "word": "江苏一公司仓库局部塌陷致3人死亡",
+        "onboard_time": 1716718638,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 140702,
+        "num": 131132,
+        "word": "赵露思冰蓝倩影",
+        "onboard_time": 1716714618,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140522,
+        "num": 130812,
+        "word": "李现戛纳生图",
+        "onboard_time": 1716716777,
+        "rank": 36,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 130277,
+        "num": 130277,
+        "word": "王妈公司回应待遇",
+        "onboard_time": 1716717077,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 129288,
+        "num": 129288,
+        "word": "妇科疾病长期不治会增加患癌风险",
+        "onboard_time": 1716703699,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128476,
+        "num": 128476,
+        "word": "我想我会一直孤单",
+        "onboard_time": 1716709398,
+        "rank": 39,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 125663,
+        "num": 125663,
+        "word": "这雨比臣送您入宫那晚还要大",
+        "onboard_time": 1716717977,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122103,
+        "num": 122103,
+        "word": "不敢在外面吃早饭了",
+        "onboard_time": 1716712038,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120975,
+        "num": 120975,
+        "word": "胡彦斌约林俊杰再见面",
+        "onboard_time": 1716717438,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115637,
+        "num": 115637,
+        "word": "酱园弄 家暴",
+        "onboard_time": 1716688218,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108146,
+        "num": 108146,
+        "word": "英国一博物馆让游客随意触摸中国文物",
+        "onboard_time": 1716702859,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107095,
+        "num": 107095,
+        "word": "云南白药董事陈发树等人辞职",
+        "onboard_time": 1716719118,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103647,
+        "num": 103647,
+        "word": "机场喊话迪丽热巴来拿登机牌",
+        "onboard_time": 1716711198,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100013,
+        "num": 100013,
+        "word": "野猪闯进小学他毫不犹豫冲了上去",
+        "onboard_time": 1716715819,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99068,
+        "num": 99068,
+        "word": "台飞行员称台空军迟早垮掉",
+        "onboard_time": 1716706037,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95769,
+        "num": 95769,
+        "word": "为了稳定回县城工作的女孩都怎么样了",
+        "onboard_time": 1716706398,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
