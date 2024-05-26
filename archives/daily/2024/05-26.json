@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716727616242,
+  "endTime": 1716729534787,
   "band_list": [
     {
       "raw_hot": 2211762,
@@ -49,6 +49,14 @@
       "onboard_time": 1716640278,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1631628,
+      "num": 1631628,
+      "word": "逍遥散人求婚",
+      "onboard_time": 1716726559,
+      "rank": 10,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1557550,
@@ -131,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1051037,
-      "num": 1051037,
-      "word": "逍遥散人求婚",
-      "onboard_time": 1716726559,
-      "rank": 10,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 1031743,
       "num": 1031743,
       "word": "SuperJunior13人合体",
@@ -177,6 +177,14 @@
       "onboard_time": 1716711979,
       "rank": 29,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 867430,
+      "num": 867430,
+      "word": "淡黄色是牙医公认的健康色号",
+      "onboard_time": 1716725717,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 842965,
@@ -403,12 +411,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 546673,
-      "num": 306685,
-      "word": "淡黄色是牙医公认的健康色号",
-      "onboard_time": 1716725717,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 551150,
+      "num": 551150,
+      "word": "庆余年23集",
+      "onboard_time": 1716726438,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 545936,
@@ -449,6 +457,14 @@
       "onboard_time": 1716720438,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 518712,
+      "num": 518712,
+      "word": "Uzi解脱了",
+      "onboard_time": 1716727819,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 513466,
@@ -555,11 +571,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 447249,
-      "num": 447249,
-      "word": "庆余年23集",
-      "onboard_time": 1716726438,
-      "rank": 28,
+      "raw_hot": 456146,
+      "num": 456146,
+      "word": "林相大宝这段",
+      "onboard_time": 1716727998,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -641,6 +657,14 @@
       "onboard_time": 1716710478,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 411456,
+      "num": 411456,
+      "word": "TVB演员颜国梁去世",
+      "onboard_time": 1716727159,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 403840,
@@ -771,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338200,
+      "num": 225396,
+      "word": "中医建议肝不好做这六个动作",
+      "onboard_time": 1716727159,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 337979,
       "num": 337979,
       "word": "中国人吃掉全世界70%的西瓜",
@@ -785,6 +817,14 @@
       "onboard_time": 1716680115,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335964,
+      "num": 335964,
+      "word": "黄宣邓超 风向双癫",
+      "onboard_time": 1716727398,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 335830,
@@ -947,12 +987,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 266664,
-      "num": 266664,
-      "word": "TVB演员颜国梁去世",
-      "onboard_time": 1716727159,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 267183,
+      "num": 217576,
+      "word": "女子目睹网约司机半路接电话后暴哭",
+      "onboard_time": 1716726438,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265787,
@@ -969,6 +1009,14 @@
       "onboard_time": 1716625518,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260633,
+      "num": 260633,
+      "word": "剑网3无界定档",
+      "onboard_time": 1716729140,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 260426,
@@ -1009,6 +1057,14 @@
       "onboard_time": 1716700818,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245631,
+      "num": 205578,
+      "word": "亚当QQ音乐屠榜",
+      "onboard_time": 1716729200,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 245429,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1716705019,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233708,
+      "num": 233708,
+      "word": "黄山风景区通报雷击情况",
+      "onboard_time": 1716728060,
+      "rank": 18,
+      "category": "社会负面"
     },
     {
       "raw_hot": 231814,
@@ -1307,6 +1371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198346,
+      "num": 198346,
+      "word": "王鹤棣 赢了不装等于没赢",
+      "onboard_time": 1716728599,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198225,
       "num": 164965,
       "word": "赵丽颖爱工作爱生活",
@@ -1507,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175302,
+      "num": 175302,
+      "word": "陈萍萍举铁直拍",
+      "onboard_time": 1716729140,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174901,
       "num": 150889,
       "word": "桃花坞",
@@ -1587,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169397,
+      "num": 169397,
+      "word": "王妈公司0人参保",
+      "onboard_time": 1716729379,
+      "rank": 33,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 167585,
       "num": 167585,
       "word": "夏季最狠减肥法",
@@ -1617,6 +1705,14 @@
       "onboard_time": 1716696138,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166015,
+      "num": 166015,
+      "word": "庆余年作者取名是没有瓶颈的吧",
+      "onboard_time": 1716728959,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 165842,
@@ -1715,14 +1811,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 156587,
-      "num": 156587,
-      "word": "女子目睹网约司机半路接电话后暴哭",
-      "onboard_time": 1716726438,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154642,
       "num": 146023,
       "word": "张馨予建模脸",
@@ -1763,20 +1851,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147792,
+      "num": 147792,
+      "word": "一句话让三个国家人同时疑惑",
+      "onboard_time": 1716729260,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147731,
       "num": 147731,
       "word": "S人和N人穿搭的区别",
       "onboard_time": 1716690858,
       "rank": 38,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 146711,
-      "num": 146711,
-      "word": "黄宣邓超 风向双癫",
-      "onboard_time": 1716727398,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 146590,
@@ -1859,12 +1947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139161,
-      "num": 139161,
-      "word": "中医建议肝不好做这六个动作",
-      "onboard_time": 1716727159,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 139102,
+      "num": 139102,
+      "word": "戛纳摄影师最爱巩俐章子怡",
+      "onboard_time": 1716727699,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 138750,
@@ -1996,7 +2084,7 @@
     },
     {
       "raw_hot": 127102,
-      "num": 169399,
+      "num": 184218,
       "word": "梁靖崑男单决赛",
       "onboard_time": 1716725478,
       "rank": 29,
@@ -2331,6 +2419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101920,
+      "num": 129005,
+      "word": "越海杀器之踹门神器",
+      "onboard_time": 1716728299,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100013,
       "num": 277426,
       "word": "野猪闯进小学他毫不犹豫冲了上去",
@@ -2427,6 +2523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84270,
+      "num": 127930,
+      "word": "京都旅行6天5夜全攻略",
+      "onboard_time": 1716727880,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 81125,
       "num": 81125,
       "word": "吴克群回复1818黄金眼",
@@ -2491,6 +2595,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 62523,
+      "num": 541133,
+      "word": "猴哥听曲意外混到了编制",
+      "onboard_time": 1716725659,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60735,
       "num": 184272,
       "word": "章小蕙直播间进去就出不来了",
@@ -2553,14 +2665,6 @@
       "onboard_time": 1716674712,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 43892,
-      "num": 502633,
-      "word": "猴哥听曲意外混到了编制",
-      "onboard_time": 1716725659,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42184,
