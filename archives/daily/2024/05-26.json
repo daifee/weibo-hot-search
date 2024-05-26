@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716698242383,
+  "endTime": 1716700643693,
   "band_list": [
     {
       "raw_hot": 1967473,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1345109,
-      "num": 466004,
+      "num": 739450,
       "word": "酱园弄 家暴",
       "onboard_time": 1716688218,
       "rank": 3,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 538571,
+      "num": 245934,
+      "word": "买最贵的票淋最大的雨",
+      "onboard_time": 1716697878,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 518913,
       "num": 325406,
       "word": "王骁纽约州执业律师宣誓vlog",
@@ -313,6 +321,14 @@
       "onboard_time": 1716682396,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 422652,
+      "num": 191938,
+      "word": "庆余年 鸣龙少年",
+      "onboard_time": 1716697938,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 402510,
@@ -531,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243238,
+      "num": 243238,
+      "word": "Scout选手LPL征战八周年",
+      "onboard_time": 1716698178,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 242139,
       "num": 242139,
       "word": "福宝适应过渡期最新视频",
@@ -611,14 +635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213645,
-      "num": 148670,
-      "word": "买最贵的票淋最大的雨",
-      "onboard_time": 1716697878,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 210974,
       "num": 193163,
       "word": "有哪些工资不高但房价很高的城市",
@@ -633,6 +649,14 @@
       "onboard_time": 1716693377,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207289,
+      "num": 153335,
+      "word": "向佐回应掉粉",
+      "onboard_time": 1716698960,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 206221,
@@ -715,20 +739,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181683,
-      "num": 147800,
-      "word": "庆余年 鸣龙少年",
-      "onboard_time": 1716697938,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181121,
       "num": 181121,
       "word": "本科毕业的那一年究竟要经历什么",
       "onboard_time": 1716687256,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 174901,
+      "num": 150889,
+      "word": "桃花坞",
+      "onboard_time": 1716697997,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 174572,
@@ -763,10 +787,10 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 172544,
-      "num": 139837,
-      "word": "桃花坞",
-      "onboard_time": 1716697997,
+      "raw_hot": 171536,
+      "num": 150313,
+      "word": "这不就是孙楠",
+      "onboard_time": 1716698238,
       "rank": 36,
       "category": "综艺"
     },
@@ -801,6 +825,14 @@
       "onboard_time": 1716687798,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168744,
+      "num": 150179,
+      "word": "李健唱了小时候总听的歌",
+      "onboard_time": 1716699139,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 167585,
@@ -867,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154642,
+      "num": 146023,
+      "word": "张馨予建模脸",
+      "onboard_time": 1716699979,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151710,
       "num": 151710,
       "word": "鸣潮自选",
@@ -883,11 +923,27 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 145934,
+      "num": 145934,
+      "word": "阿Sa你在用你的脸干什么",
+      "onboard_time": 1716700219,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143496,
       "num": 143496,
       "word": "范闲自己淋过雨要给天下撑伞",
       "onboard_time": 1716682097,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140526,
+      "num": 101354,
+      "word": "张若昀网感",
+      "onboard_time": 1716700459,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -987,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125720,
+      "num": 159280,
+      "word": "广东跨5城地铁开通",
+      "onboard_time": 1716700399,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124468,
       "num": 111406,
       "word": "5号和15号发工资区别有多大",
@@ -1009,6 +1073,14 @@
       "onboard_time": 1716647480,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121041,
+      "num": 157498,
+      "word": "疾控部门提醒近期防控猩红热",
+      "onboard_time": 1716696017,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120415,
@@ -1147,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106449,
+      "num": 106449,
+      "word": "不熟的学弟很关心我博士毕业",
+      "onboard_time": 1716700338,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104564,
       "num": 197512,
       "word": "国防部说台湾是中国的台湾",
@@ -1163,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102573,
+      "num": 102573,
+      "word": "张朝阳建议年轻人不要负债",
+      "onboard_time": 1716700399,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99125,
       "num": 99125,
       "word": "志愿者为何开始避雷演唱会了",
@@ -1171,20 +1259,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98704,
-      "num": 98704,
-      "word": "疾控部门提醒近期防控猩红热",
-      "onboard_time": 1716696017,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 97491,
-      "num": 97491,
-      "word": "Scout选手LPL征战八周年",
-      "onboard_time": 1716698178,
+      "raw_hot": 99086,
+      "num": 99086,
+      "word": "斜方肌是一块容易变形的肌肉",
+      "onboard_time": 1716700519,
       "rank": 49,
-      "category": "电竞"
+      "category": "运动健身"
     },
     {
       "raw_hot": 91578,
@@ -1216,6 +1296,14 @@
       "word": "曼联2比1曼城",
       "onboard_time": 1716655337,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74849,
+      "num": 159401,
+      "word": "田径运动员为去巴黎当街battle",
+      "onboard_time": 1716699740,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1267,6 +1355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 50946,
+      "num": 163778,
+      "word": "71岁院士鼓励学生敢于打破常规",
+      "onboard_time": 1716700399,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50891,
       "num": 50891,
       "word": "杨万理卷子",
@@ -1300,7 +1396,7 @@
     },
     {
       "raw_hot": 40357,
-      "num": 602815,
+      "num": 756112,
       "word": "高质量发展调研行",
       "onboard_time": 1716694698,
       "rank": 2,
