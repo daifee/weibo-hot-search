@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716747776079,
+  "endTime": 1716748523187,
   "band_list": [
     {
       "raw_hot": 1024150,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46866,
+      "num": 46752,
+      "word": "杨幂魏哲鸣对戏口误",
+      "onboard_time": 1716746414,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46804,
       "num": 61425,
       "word": "谢娜看女儿第一次表演泪流满面",
@@ -403,15 +411,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46752,
-      "num": 46752,
-      "word": "杨幂魏哲鸣对戏口误",
-      "onboard_time": 1716746414,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 41499,
+      "raw_hot": 42490,
       "num": 41499,
       "word": "林婉儿跪别父亲",
       "onboard_time": 1716747438,
@@ -443,8 +443,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21230,
-      "num": 32975,
+      "raw_hot": 21340,
+      "num": 34643,
       "word": "WTT常规挑战赛太原站2024",
       "onboard_time": 1716732919,
       "rank": 39,

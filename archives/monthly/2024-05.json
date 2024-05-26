@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716747776079,
+  "endTime": 1716748523187,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -70219,20 +70219,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 46866,
+      "num": 46752,
+      "word": "杨幂魏哲鸣对戏口误",
+      "onboard_time": 1716746414,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46859,
       "num": 358970,
       "word": "天猫618增发千万张超大额购物券",
       "onboard_time": 1716519619,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 46752,
-      "num": 46752,
-      "word": "杨幂魏哲鸣对戏口误",
-      "onboard_time": 1716746414,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 46697,
@@ -70603,6 +70603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42490,
+      "num": 41499,
+      "word": "林婉儿跪别父亲",
+      "onboard_time": 1716747438,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42438,
       "num": 359810,
       "word": "一人一句为中高考学子打气",
@@ -70721,14 +70729,6 @@
       "onboard_time": 1716317711,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 41499,
-      "num": 41499,
-      "word": "林婉儿跪别父亲",
-      "onboard_time": 1716747438,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 41426,
