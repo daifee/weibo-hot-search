@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716716051362,
+  "endTime": 1716718858346,
   "band_list": [
     {
       "raw_hot": 1967473,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 840689,
+      "num": 200557,
+      "word": "董卿 渣苏感",
+      "onboard_time": 1716715638,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 833811,
       "num": 227472,
       "word": "室友养了一只98年出生的猫",
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 745021,
+      "num": 745021,
+      "word": "庆帝终于显露武功了",
+      "onboard_time": 1716713239,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 742505,
       "num": 715311,
       "word": "亚当翻牌",
@@ -193,14 +209,6 @@
       "onboard_time": 1716690678,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 709446,
-      "num": 350477,
-      "word": "庆帝终于显露武功了",
-      "onboard_time": 1716713239,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 665542,
@@ -243,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611040,
+      "num": 257149,
+      "word": "为什么研究生就业难于本科生",
+      "onboard_time": 1716716418,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 610745,
       "num": 610745,
       "word": "曝光境外间谍恐吓国内专家强迫合作",
       "onboard_time": 1716685337,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606431,
+      "num": 606431,
+      "word": "章子怡兜兜转转才45岁",
+      "onboard_time": 1716717077,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 604078,
@@ -273,6 +297,14 @@
       "onboard_time": 1716648620,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 575283,
+      "num": 575283,
+      "word": "上海暴雨",
+      "onboard_time": 1716714918,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 574566,
@@ -539,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370388,
+      "num": 229233,
+      "word": "被研究生宿舍的上床下桌整破防了",
+      "onboard_time": 1716714918,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 365313,
       "num": 211646,
       "word": "宋轶录节目哭了",
@@ -569,14 +609,6 @@
       "onboard_time": 1716647000,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 352184,
-      "num": 352184,
-      "word": "上海暴雨",
-      "onboard_time": 1716714918,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350889,
@@ -683,12 +715,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292415,
+      "num": 256366,
+      "word": "有头发的黄宣",
+      "onboard_time": 1716713057,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 291274,
       "num": 267690,
       "word": "你好星期六下期有罗云熙宋轶",
       "onboard_time": 1716646700,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289664,
+      "num": 246439,
+      "word": "Lululemon股价今年已跌去4成",
+      "onboard_time": 1716716179,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 288799,
@@ -713,14 +761,6 @@
       "onboard_time": 1716694878,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 284544,
-      "num": 256366,
-      "word": "有头发的黄宣",
-      "onboard_time": 1716713057,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 281604,
@@ -915,6 +955,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 214852,
+      "num": 214852,
+      "word": "内娱综艺把13位少年放岛上120天",
+      "onboard_time": 1716713598,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213040,
       "num": 177146,
       "word": "怎么会有这么癫的霸总剧情",
@@ -929,6 +977,22 @@
       "onboard_time": 1716683537,
       "rank": 28,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 210932,
+      "num": 210932,
+      "word": "华晨宇演唱会一口气官宣三站",
+      "onboard_time": 1716718699,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 210371,
+      "num": 210371,
+      "word": "看似卫生其实会引发妇科疾病的行为",
+      "onboard_time": 1716714079,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209797,
@@ -1011,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200557,
-      "num": 200557,
-      "word": "董卿 渣苏感",
-      "onboard_time": 1716715638,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200308,
       "num": 167296,
       "word": "狐妖导演采访",
@@ -1041,14 +1097,6 @@
       "onboard_time": 1716687077,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 197334,
-      "num": 197334,
-      "word": "内娱综艺把13位少年放岛上120天",
-      "onboard_time": 1716713598,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 192653,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1716712038,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186302,
+      "num": 186302,
+      "word": "庆余年2隐喻",
+      "onboard_time": 1716716839,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 186245,
@@ -1201,14 +1257,6 @@
       "onboard_time": 1716697938,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174210,
-      "num": 174210,
-      "word": "看似卫生其实会引发妇科疾病的行为",
-      "onboard_time": 1716714079,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173762,
@@ -1315,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163624,
-      "num": 163624,
-      "word": "被研究生宿舍的上床下桌整破防了",
-      "onboard_time": 1716714918,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163533,
       "num": 163533,
       "word": "巴西将建造世界最大蚊子工厂",
@@ -1387,6 +1427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153486,
+      "num": 187152,
+      "word": "多少岁皮肤开始断崖式衰老",
+      "onboard_time": 1716714498,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 151963,
       "num": 151963,
       "word": "沈月拍了李嘉琦徐志胜",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1716693918,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151573,
+      "num": 151573,
+      "word": "李现戛纳生图",
+      "onboard_time": 1716716777,
+      "rank": 36,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 147731,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1716682097,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143398,
+      "num": 171285,
+      "word": "王妈公司回应待遇",
+      "onboard_time": 1716717077,
+      "rank": 34,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 142445,
@@ -1473,6 +1537,14 @@
       "onboard_time": 1716645441,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138750,
+      "num": 138750,
+      "word": "胡彦斌约林俊杰再见面",
+      "onboard_time": 1716717438,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 138524,
@@ -1553,6 +1625,14 @@
       "onboard_time": 1716708379,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126755,
+      "num": 126755,
+      "word": "这雨比臣送您入宫那晚还要大",
+      "onboard_time": 1716717977,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126504,
@@ -1641,14 +1721,6 @@
       "onboard_time": 1716709398,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121877,
-      "num": 121877,
-      "word": "多少岁皮肤开始断崖式衰老",
-      "onboard_time": 1716714498,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 121825,
@@ -1875,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100759,
+      "num": 100759,
+      "word": "江苏一公司仓库局部塌陷致3人死亡",
+      "onboard_time": 1716718638,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 99125,
       "num": 99125,
       "word": "志愿者为何开始避雷演唱会了",
@@ -1995,6 +2075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67344,
+      "num": 277426,
+      "word": "野猪闯进小学他毫不犹豫冲了上去",
+      "onboard_time": 1716715819,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65754,
       "num": 402203,
       "word": "他不是蜘蛛侠但他愿从天而降救你",
@@ -2009,6 +2097,14 @@
       "onboard_time": 1716667511,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 55425,
+      "num": 716120,
+      "word": "2024年数据生产量增长或超25%",
+      "onboard_time": 1716715638,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54322,
@@ -2057,14 +2153,6 @@
       "onboard_time": 1716674712,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 45642,
-      "num": 277426,
-      "word": "野猪闯进小学他毫不犹豫冲了上去",
-      "onboard_time": 1716715819,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42184,
@@ -2169,14 +2257,6 @@
       "onboard_time": 1716663191,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18858,
-      "num": 716120,
-      "word": "2024年数据生产量增长或超25%",
-      "onboard_time": 1716715638,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9638,
