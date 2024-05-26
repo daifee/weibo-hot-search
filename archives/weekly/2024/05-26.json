@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716758255918,
+  "endTime": 1716759260136,
   "band_list": [
     {
       "raw_hot": 2211762,
@@ -2923,6 +2923,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74136,
+      "num": 74136,
+      "word": "女子喂乌龟火龙果喜提炫彩神龟",
+      "onboard_time": 1716748751,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73500,
+      "num": 35620,
+      "word": "王冰冰回应尼格买提",
+      "onboard_time": 1716751690,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73152,
       "num": 73152,
       "word": "41首百万收藏汪苏泷在歌手都没唱",
@@ -2971,27 +2987,11 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 62927,
-      "num": 35620,
-      "word": "王冰冰回应尼格买提",
-      "onboard_time": 1716751690,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 62523,
       "num": 541133,
       "word": "猴哥听曲意外混到了编制",
       "onboard_time": 1716725659,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61244,
-      "num": 61244,
-      "word": "女子喂乌龟火龙果喜提炫彩神龟",
-      "onboard_time": 1716748751,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3211,8 +3211,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18527,
-      "num": 18527,
+      "raw_hot": 22265,
+      "num": 19110,
       "word": "韩国水果的价格",
       "onboard_time": 1716756251,
       "rank": 31,
