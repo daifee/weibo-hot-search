@@ -1,0 +1,410 @@
+{
+  "runTime": 1716711740261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 998449,
+        "num": 998449,
+        "word": "网恋是王力宏 奔现是孙楠",
+        "onboard_time": 1716703699,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565386,
+        "num": 565386,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1716708978,
+        "rank": 1,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 20684,
+        "num": 426113,
+        "word": "传统文化闪耀文博会",
+        "onboard_time": 1716693738,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819818,
+        "num": 425927,
+        "word": "看得出他是五竹",
+        "onboard_time": 1716706459,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423870,
+        "num": 423870,
+        "word": "我想我会一直孤单",
+        "onboard_time": 1716709398,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376163,
+        "num": 376163,
+        "word": "台飞行员称台空军迟早垮掉",
+        "onboard_time": 1716706037,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 663778,
+        "num": 376057,
+        "word": "陈赫冰桶打人事件受害者",
+        "onboard_time": 1716701119,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508017,
+        "num": 375680,
+        "word": "知情人士曝贺军翔涉性侵内幕",
+        "onboard_time": 1716704838,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368462,
+        "num": 368462,
+        "word": "英国一博物馆让游客随意触摸中国文物",
+        "onboard_time": 1716702859,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199968,
+        "num": 354747,
+        "word": "休假浙江人在贵州救了两条命",
+        "onboard_time": 1716707478,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 762531,
+        "num": 352629,
+        "word": "刘强东内部狼性训话流出",
+        "onboard_time": 1716709038,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 421822,
+        "num": 350547,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347583,
+        "num": 347583,
+        "word": "刘强东回应严抓考勤",
+        "onboard_time": 1716710478,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 342971,
+        "num": 342971,
+        "word": "孙楠 补位",
+        "onboard_time": 1716695359,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304403,
+        "num": 304403,
+        "word": "福宝和邻居熊隔窗交流",
+        "onboard_time": 1716707598,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329179,
+        "num": 299357,
+        "word": "买最贵的票淋最大的雨",
+        "onboard_time": 1716697878,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 266562,
+        "num": 266562,
+        "word": "机场喊话迪丽热巴来拿登机牌",
+        "onboard_time": 1716711198,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264107,
+        "num": 264107,
+        "word": "叙利亚第一夫人确诊白血病后首发声",
+        "onboard_time": 1716693257,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 253529,
+        "num": 253529,
+        "word": "妇科疾病长期不治会增加患癌风险",
+        "onboard_time": 1716703699,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180584,
+        "num": 227563,
+        "word": "男孩模仿和平精英从3楼跳下",
+        "onboard_time": 1716710838,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381126,
+        "num": 227472,
+        "word": "室友养了一只98年出生的猫",
+        "onboard_time": 1716701000,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227293,
+        "num": 227293,
+        "word": "酱园弄 家暴",
+        "onboard_time": 1716688218,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223637,
+        "num": 223637,
+        "word": "棣月系",
+        "onboard_time": 1716703218,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214543,
+        "num": 214543,
+        "word": "为了稳定回县城工作的女孩都怎么样了",
+        "onboard_time": 1716706398,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 198506,
+        "num": 198506,
+        "word": "陈奕迅称声带仍没有好转",
+        "onboard_time": 1716705258,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186586,
+        "num": 186586,
+        "word": "惠英红让李克勤去参加歌手",
+        "onboard_time": 1716709518,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160426,
+        "num": 160426,
+        "word": "秦皇岛提醒近期不要食用海虹",
+        "onboard_time": 1716709698,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156473,
+        "num": 156473,
+        "word": "才知道海底捞还有艺考",
+        "onboard_time": 1716704958,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151963,
+        "num": 151963,
+        "word": "沈月拍了李嘉琦徐志胜",
+        "onboard_time": 1716709217,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141427,
+        "num": 141427,
+        "word": "姐的妆造已经nextlevel了",
+        "onboard_time": 1716709698,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 14331,
+        "num": 139737,
+        "word": "山东这个小镇电吉他出口占全国四成",
+        "onboard_time": 1716705977,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224542,
+        "num": 139678,
+        "word": "亚当翻牌",
+        "onboard_time": 1716711378,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139493,
+        "num": 139493,
+        "word": "黄宣 风向星座",
+        "onboard_time": 1716708497,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138781,
+        "num": 138781,
+        "word": "章子怡那股劲儿又回来了",
+        "onboard_time": 1716690498,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126530,
+        "num": 126530,
+        "word": "林俊杰晒照感谢胡彦斌",
+        "onboard_time": 1716707118,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126450,
+        "num": 126450,
+        "word": "为啥早餐店里的油条要两根面一起炸",
+        "onboard_time": 1716708978,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120851,
+        "num": 120851,
+        "word": "尿检小便池几次检测结果前后不一",
+        "onboard_time": 1716694938,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117600,
+        "num": 117600,
+        "word": "韩国买入狐妖小红娘竹业篇版权",
+        "onboard_time": 1716701838,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116915,
+        "num": 116915,
+        "word": "赵奕欢回应淘汰",
+        "onboard_time": 1716708379,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113350,
+        "num": 113350,
+        "word": "俞飞鸿小丈夫 超前精神状态",
+        "onboard_time": 1716707238,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111098,
+        "num": 111098,
+        "word": "张朝阳建议年轻人不要负债",
+        "onboard_time": 1716700399,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110240,
+        "num": 110240,
+        "word": "57岁大孙子拉着96岁奶奶炫耀五世同堂",
+        "onboard_time": 1716709398,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109373,
+        "num": 109373,
+        "word": "劝你别加冰不是因为凉",
+        "onboard_time": 1716709757,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103492,
+        "num": 103492,
+        "word": "东部战区发布4K版远箱火视频",
+        "onboard_time": 1716704117,
+        "rank": 43,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 101851,
+        "num": 101851,
+        "word": "严浩翔狼尾头",
+        "onboard_time": 1716708497,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100498,
+        "num": 100498,
+        "word": "东北没有夜生活的原因找到了",
+        "onboard_time": 1716711497,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98853,
+        "num": 98853,
+        "word": "云合",
+        "onboard_time": 1716711558,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97127,
+        "num": 97127,
+        "word": "当你涂上闲置丑口红belike",
+        "onboard_time": 1716710058,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 92310,
+        "num": 92310,
+        "word": "林更新个人vs范丞丞个人战",
+        "onboard_time": 1716705019,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89586,
+        "num": 89586,
+        "word": "赛琳娜获得戛纳影后",
+        "onboard_time": 1716679153,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为山东定好位指明方向#"
+    }
+  }
+}

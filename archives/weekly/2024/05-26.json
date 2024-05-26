@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716708854337,
+  "endTime": 1716711740261,
   "band_list": [
     {
       "raw_hot": 1967473,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 833811,
-      "num": 186279,
+      "num": 227472,
       "word": "室友养了一只98年出生的猫",
       "onboard_time": 1716701000,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 819818,
+      "num": 425927,
+      "word": "看得出他是五竹",
+      "onboard_time": 1716706459,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 800754,
@@ -147,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 754233,
-      "num": 322828,
-      "word": "看得出他是五竹",
-      "onboard_time": 1716706459,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 762531,
+      "num": 352629,
+      "word": "刘强东内部狼性训话流出",
+      "onboard_time": 1716709038,
+      "rank": 10,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 730108,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 616381,
-      "num": 249664,
+      "num": 375680,
       "word": "知情人士曝贺军翔涉性侵内幕",
       "onboard_time": 1716704838,
       "rank": 30,
@@ -236,11 +244,19 @@
     },
     {
       "raw_hot": 574566,
-      "num": 291132,
+      "num": 299357,
       "word": "买最贵的票淋最大的雨",
       "onboard_time": 1716697878,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 565386,
+      "num": 565386,
+      "word": "本周桃花运最旺的星座",
+      "onboard_time": 1716708978,
+      "rank": 1,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 518913,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 471092,
-      "num": 218504,
+      "num": 223637,
       "word": "棣月系",
       "onboard_time": 1716703218,
       "rank": 21,
@@ -395,6 +411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 423870,
+      "num": 423870,
+      "word": "我想我会一直孤单",
+      "onboard_time": 1716709398,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 422652,
       "num": 216706,
       "word": "庆余年 鸣龙少年",
@@ -435,8 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370742,
-      "num": 207052,
+      "raw_hot": 376163,
+      "num": 376163,
       "word": "台飞行员称台空军迟早垮掉",
       "onboard_time": 1716706037,
       "rank": 14,
@@ -481,6 +505,14 @@
       "onboard_time": 1716705258,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 347583,
+      "num": 347583,
+      "word": "刘强东回应严抓考勤",
+      "onboard_time": 1716710478,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 345225,
@@ -555,6 +587,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 304403,
+      "num": 304403,
+      "word": "福宝和邻居熊隔窗交流",
+      "onboard_time": 1716707598,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292749,
       "num": 292749,
       "word": "凡希亚 李蠕蠕",
@@ -617,6 +657,14 @@
       "onboard_time": 1716655157,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 266562,
+      "num": 266562,
+      "word": "机场喊话迪丽热巴来拿登机牌",
+      "onboard_time": 1716711198,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 264029,
@@ -715,6 +763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 224542,
+      "num": 139678,
+      "word": "亚当翻牌",
+      "onboard_time": 1716711378,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224437,
       "num": 224437,
       "word": "酱园弄",
@@ -763,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214543,
+      "num": 214543,
+      "word": "为了稳定回县城工作的女孩都怎么样了",
+      "onboard_time": 1716706398,
+      "rank": 26,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 213040,
       "num": 177146,
       "word": "怎么会有这么癫的霸总剧情",
@@ -785,14 +849,6 @@
       "onboard_time": 1716693377,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209025,
-      "num": 170426,
-      "word": "为了稳定回县城工作的女孩都怎么样了",
-      "onboard_time": 1716706398,
-      "rank": 26,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 207721,
@@ -859,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199968,
+      "num": 354747,
+      "word": "休假浙江人在贵州救了两条命",
+      "onboard_time": 1716707478,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 198825,
       "num": 170564,
       "word": "狗阵 争气",
@@ -896,6 +960,14 @@
       "word": "亚当舌苔一看就没有湿气",
       "onboard_time": 1716694338,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186586,
+      "num": 186586,
+      "word": "惠英红让李克勤去参加歌手",
+      "onboard_time": 1716709518,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -945,6 +1017,14 @@
       "onboard_time": 1716687256,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 180584,
+      "num": 227563,
+      "word": "男孩模仿和平精英从3楼跳下",
+      "onboard_time": 1716710838,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178567,
@@ -1043,14 +1123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 170599,
-      "num": 170599,
-      "word": "福宝和邻居熊隔窗交流",
-      "onboard_time": 1716707598,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169473,
       "num": 169473,
       "word": "六公主cos徐冬冬",
@@ -1091,14 +1163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165434,
-      "num": 228946,
-      "word": "休假浙江人在贵州救了两条命",
-      "onboard_time": 1716707478,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 164747,
       "num": 164747,
       "word": "黄宣 风向星座",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1716701298,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 160426,
+      "num": 160426,
+      "word": "秦皇岛提醒近期不要食用海虹",
+      "onboard_time": 1716709698,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160421,
@@ -1169,6 +1241,14 @@
       "onboard_time": 1716699979,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151963,
+      "num": 151963,
+      "word": "沈月拍了李嘉琦徐志胜",
+      "onboard_time": 1716709217,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 151710,
@@ -1217,6 +1297,14 @@
       "onboard_time": 1716696017,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141427,
+      "num": 141427,
+      "word": "姐的妆造已经nextlevel了",
+      "onboard_time": 1716709698,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 140880,
@@ -1321,6 +1409,14 @@
       "onboard_time": 1716694818,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126450,
+      "num": 126450,
+      "word": "为啥早餐店里的油条要两根面一起炸",
+      "onboard_time": 1716708978,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 125877,
@@ -1507,12 +1603,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110240,
+      "num": 110240,
+      "word": "57岁大孙子拉着96岁奶奶炫耀五世同堂",
+      "onboard_time": 1716709398,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110214,
       "num": 110214,
       "word": "景泰蓝出炉变色神奇又惊艳",
       "onboard_time": 1716685998,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109373,
+      "num": 109373,
+      "word": "劝你别加冰不是因为凉",
+      "onboard_time": 1716709757,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108129,
@@ -1571,12 +1683,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100498,
+      "num": 100498,
+      "word": "东北没有夜生活的原因找到了",
+      "onboard_time": 1716711497,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99125,
       "num": 99125,
       "word": "志愿者为何开始避雷演唱会了",
       "onboard_time": 1716657316,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98853,
+      "num": 98853,
+      "word": "云合",
+      "onboard_time": 1716711558,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97127,
+      "num": 97127,
+      "word": "当你涂上闲置丑口红belike",
+      "onboard_time": 1716710058,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 93902,
@@ -1756,7 +1892,7 @@
     },
     {
       "raw_hot": 32572,
-      "num": 117540,
+      "num": 139737,
       "word": "山东这个小镇电吉他出口占全国四成",
       "onboard_time": 1716705977,
       "rank": 40,
