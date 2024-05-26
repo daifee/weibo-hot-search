@@ -1,0 +1,410 @@
+{
+  "runTime": 1716686599780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1527391,
+        "num": 1527391,
+        "word": "章子怡质问陈可辛",
+        "onboard_time": 1716681856,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 799821,
+        "num": 799821,
+        "word": "微信背景图",
+        "onboard_time": 1716680474,
+        "rank": 1,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 41044,
+        "num": 441135,
+        "word": "三夏时节感受丰收之美",
+        "onboard_time": 1716643640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1204925,
+        "num": 436599,
+        "word": "赛琳娜获得戛纳影后",
+        "onboard_time": 1716679153,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 426497,
+        "num": 426497,
+        "word": "俄军队已控制乌约18%的土地",
+        "onboard_time": 1716682396,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 402510,
+        "num": 402510,
+        "word": "菏泽南站从爆火到冷清的12天",
+        "onboard_time": 1716682396,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962170,
+        "num": 384487,
+        "word": "酱园弄 盗摄",
+        "onboard_time": 1716681856,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 647502,
+        "num": 379062,
+        "word": "麻辣鸡被警方拘留",
+        "onboard_time": 1716679995,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336028,
+        "num": 336028,
+        "word": "日本地震",
+        "onboard_time": 1716680115,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65754,
+        "num": 336017,
+        "word": "他不是蜘蛛侠但他愿从天而降救你",
+        "onboard_time": 1716681916,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 598384,
+        "num": 331495,
+        "word": "他退出TFBOYS后老了很多",
+        "onboard_time": 1716640278,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399300,
+        "num": 324929,
+        "word": "彭于晏的狗狗在戛纳获奖了",
+        "onboard_time": 1716684798,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381598,
+        "num": 321052,
+        "word": "曝光境外间谍恐吓国内专家强迫合作",
+        "onboard_time": 1716685337,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320677,
+        "num": 320677,
+        "word": "萧敬腾 堂堂正正中国人",
+        "onboard_time": 1716681315,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315319,
+        "num": 315319,
+        "word": "杨幂异域装",
+        "onboard_time": 1716683777,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312567,
+        "num": 312567,
+        "word": "房价下跌对普通人意味着什么",
+        "onboard_time": 1716633260,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295160,
+        "num": 295160,
+        "word": "央视曝光网课骗局套路",
+        "onboard_time": 1716684678,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200502,
+        "num": 200502,
+        "word": "韩国邻居把我门口的福字撕了",
+        "onboard_time": 1716635839,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197621,
+        "num": 197621,
+        "word": "中国人吃掉全世界70%的西瓜",
+        "onboard_time": 1716640159,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188554,
+        "num": 197311,
+        "word": "令人失去沟通欲望的头像",
+        "onboard_time": 1716684377,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 462208,
+        "num": 196762,
+        "word": "网友称31克黄金回收秒变15克",
+        "onboard_time": 1716681916,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388875,
+        "num": 196639,
+        "word": "去阿勒泰旅游的人膀胱快炸了",
+        "onboard_time": 1716666012,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 334029,
+        "num": 196122,
+        "word": "月薪三千的工作有必要上吗",
+        "onboard_time": 1716652278,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314850,
+        "num": 195412,
+        "word": "那英电话内容 破解",
+        "onboard_time": 1716644900,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284312,
+        "num": 194869,
+        "word": "17岁女生想纹男友名被老板劝离",
+        "onboard_time": 1716659955,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273992,
+        "num": 194625,
+        "word": "本届戛纳影后是四黄蛋",
+        "onboard_time": 1716679153,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222275,
+        "num": 194272,
+        "word": "范闲洪竹",
+        "onboard_time": 1716648620,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220339,
+        "num": 193417,
+        "word": "章子怡花期好长",
+        "onboard_time": 1716684978,
+        "rank": 27,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 210974,
+        "num": 193163,
+        "word": "有哪些工资不高但房价很高的城市",
+        "onboard_time": 1716683537,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 192883,
+        "num": 192883,
+        "word": "杨幂夏晚晴",
+        "onboard_time": 1716639438,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190801,
+        "num": 190801,
+        "word": "每天吃豆制品的人身体有什么变化",
+        "onboard_time": 1716684317,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173762,
+        "num": 173762,
+        "word": "aespa概念照",
+        "onboard_time": 1716685158,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163533,
+        "num": 163533,
+        "word": "巴西将建造世界最大蚊子工厂",
+        "onboard_time": 1716682757,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162957,
+        "num": 162957,
+        "word": "癌症来前1年身体会发生8种变化",
+        "onboard_time": 1716640459,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158774,
+        "num": 158774,
+        "word": "陈奕迅含泪致歉",
+        "onboard_time": 1716640039,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145267,
+        "num": 145267,
+        "word": "不想生二胎老公对我冷暴力",
+        "onboard_time": 1716676152,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143613,
+        "num": 143613,
+        "word": "苗苗恶补小时代被郭碧婷制止",
+        "onboard_time": 1716651920,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143496,
+        "num": 143496,
+        "word": "范闲自己淋过雨要给天下撑伞",
+        "onboard_time": 1716682097,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135157,
+        "num": 135157,
+        "word": "带的饭不好意思拿出来吃",
+        "onboard_time": 1716683117,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133598,
+        "num": 133598,
+        "word": "王骁纽约州执业律师宣誓vlog",
+        "onboard_time": 1716651500,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 132886,
+        "num": 132886,
+        "word": "赵丽颖真的很喜欢橙色耳环",
+        "onboard_time": 1716647000,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125877,
+        "num": 125877,
+        "word": "谢谢你克罗斯",
+        "onboard_time": 1716686058,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118683,
+        "num": 118683,
+        "word": "印度游乐场火灾27死",
+        "onboard_time": 1716681976,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118641,
+        "num": 118641,
+        "word": "日本昔日童星因杀人焚尸被捕",
+        "onboard_time": 1716641840,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117108,
+        "num": 117108,
+        "word": "中国航天员在太空绕地球跑步",
+        "onboard_time": 1716682396,
+        "rank": 44,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 112578,
+        "num": 112578,
+        "word": "逆水寒回应称从未听说过IVE",
+        "onboard_time": 1716682097,
+        "rank": 45,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 111406,
+        "num": 111406,
+        "word": "5号和15号发工资区别有多大",
+        "onboard_time": 1716678014,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110474,
+        "num": 110474,
+        "word": "曼联是冠军",
+        "onboard_time": 1716684917,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110214,
+        "num": 110214,
+        "word": "景泰蓝出炉变色神奇又惊艳",
+        "onboard_time": 1716685998,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107932,
+        "num": 107932,
+        "word": "盘点那些火出圈的中华文化",
+        "onboard_time": 1716685757,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记山东行#"
+    }
+  }
+}
