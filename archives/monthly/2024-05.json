@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716722151259,
+  "endTime": 1716723270285,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1747,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1696484,
+      "num": 1696484,
+      "word": "洞洞鞋",
+      "onboard_time": 1716720259,
+      "rank": 1,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1695633,
       "num": 1695633,
       "word": "间谍窃取我国杂交水稻亲本种子",
@@ -3075,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1358075,
+      "num": 1358075,
+      "word": "韩红称自己是国家队歌手",
+      "onboard_time": 1716719839,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1356293,
       "num": 308734,
       "word": "百度副总裁璩静已离职",
@@ -3336,14 +3352,6 @@
       "word": "那是姐的姓 红是姐的命",
       "onboard_time": 1715419880,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1310472,
-      "num": 1310472,
-      "word": "韩红称自己是国家队歌手",
-      "onboard_time": 1716719839,
-      "rank": 0,
       "category": "综艺"
     },
     {
@@ -5011,14 +5019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1082025,
-      "num": 1082025,
-      "word": "洞洞鞋",
-      "onboard_time": 1716720259,
-      "rank": 1,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 1078929,
       "num": 1078929,
       "word": "向12岁女孩要裸照男大学生已被刑拘",
@@ -5360,6 +5360,14 @@
       "word": "詹雯婷发长文",
       "onboard_time": 1715674759,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1031743,
+      "num": 1031743,
+      "word": "SuperJunior13人合体",
+      "onboard_time": 1716720318,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -7384,14 +7392,6 @@
       "word": "董卿 渣苏感",
       "onboard_time": 1716715638,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 840599,
-      "num": 840599,
-      "word": "SuperJunior13人合体",
-      "onboard_time": 1716720318,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -9953,6 +9953,14 @@
       "onboard_time": 1715321360,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 691881,
+      "num": 286514,
+      "word": "种地吧将取消打卡直播",
+      "onboard_time": 1716721098,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 691798,
@@ -14827,6 +14835,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 518751,
+      "num": 290239,
+      "word": "韩红回应要上歌手",
+      "onboard_time": 1716720438,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518607,
       "num": 518607,
       "word": "华晨宇唱15分钟把太阳唱出来",
@@ -15056,14 +15072,6 @@
       "word": "亚当超绝松弛感",
       "onboard_time": 1716551538,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 512793,
-      "num": 290239,
-      "word": "韩红回应要上歌手",
-      "onboard_time": 1716720438,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -18523,14 +18531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 433895,
-      "num": 286514,
-      "word": "种地吧将取消打卡直播",
-      "onboard_time": 1716721098,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 433744,
       "num": 433744,
       "word": "尹锡悦称妻子处事方式不够明智",
@@ -20153,6 +20153,14 @@
       "onboard_time": 1715780718,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403840,
+      "num": 403840,
+      "word": "高铁晚点",
+      "onboard_time": 1716720618,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403476,
@@ -24624,14 +24632,6 @@
       "word": "男子起诉前女友返还61.4万转账被驳回",
       "onboard_time": 1716275299,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327600,
-      "num": 327600,
-      "word": "高铁晚点",
-      "onboard_time": 1716720618,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -32043,6 +32043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241016,
+      "num": 215329,
+      "word": "SJ13人合体 今夕是何年",
+      "onboard_time": 1716721581,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240979,
       "num": 177286,
       "word": "张拿铁受不了的amazing教育",
@@ -32529,6 +32537,14 @@
       "onboard_time": 1716557128,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 236862,
+      "num": 236862,
+      "word": "云南白药董事陈发树等人辞职",
+      "onboard_time": 1716719118,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 236644,
@@ -34097,6 +34113,14 @@
       "onboard_time": 1716252439,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225083,
+      "num": 225083,
+      "word": "东部战区越海突击画面",
+      "onboard_time": 1716722238,
+      "rank": 18,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 225080,
@@ -35809,6 +35833,14 @@
       "onboard_time": 1714734259,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214093,
+      "num": 214093,
+      "word": "成毅黑西装上班",
+      "onboard_time": 1716722179,
+      "rank": 25,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 213999,
@@ -38123,14 +38155,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 203793,
-      "num": 203793,
-      "word": "SJ13人合体 今夕是何年",
-      "onboard_time": 1716721581,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203737,
       "num": 397518,
       "word": "郎平官宣新身份",
@@ -39747,6 +39771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198344,
+      "num": 183968,
+      "word": "黄山景区发生雷击致多人受伤",
+      "onboard_time": 1716722538,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 198337,
       "num": 198337,
       "word": "2024年还有三个假期",
@@ -41137,6 +41169,14 @@
       "onboard_time": 1714703597,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193992,
+      "num": 193992,
+      "word": "黄子弘凡的红内裤说掏就掏",
+      "onboard_time": 1716722419,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 193963,
@@ -44097,6 +44137,14 @@
       "onboard_time": 1715837298,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183553,
+      "num": 183553,
+      "word": "汪苏泷喊李嘉琦沈月辣月组合",
+      "onboard_time": 1716722658,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 183534,
@@ -48113,14 +48161,6 @@
       "onboard_time": 1715504537,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167353,
-      "num": 231725,
-      "word": "云南白药董事陈发树等人辞职",
-      "onboard_time": 1716719118,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 167309,
@@ -52473,6 +52513,14 @@
       "onboard_time": 1715059278,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151188,
+      "num": 151188,
+      "word": "魏哲鸣 舒适区并不舒适",
+      "onboard_time": 1716722538,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 151097,
@@ -58961,6 +59009,14 @@
       "onboard_time": 1714718479,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127087,
+      "num": 127087,
+      "word": "法网",
+      "onboard_time": 1716722957,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 127067,
@@ -67740,7 +67796,7 @@
     },
     {
       "raw_hot": 67446,
-      "num": 871391,
+      "num": 1044133,
       "word": "2024年数据生产量增长或超25%",
       "onboard_time": 1716715638,
       "rank": 2,
@@ -68313,6 +68369,14 @@
       "onboard_time": 1715532197,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60735,
+      "num": 184272,
+      "word": "章小蕙直播间进去就出不来了",
+      "onboard_time": 1716721999,
+      "rank": 43,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 60695,
@@ -69427,14 +69491,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 47607,
-      "num": 106093,
-      "word": "章小蕙直播间进去就出不来了",
-      "onboard_time": 1716721999,
-      "rank": 43,
-      "category": "美妆,网红"
-    },
-    {
       "raw_hot": 47568,
       "num": 67266,
       "word": "徐梦洁用两年时间重回舞台",
@@ -70091,6 +70147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40365,
+      "num": 270554,
+      "word": "北辰又快喜提单间了",
+      "onboard_time": 1716718997,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40357,
       "num": 1229492,
       "word": "高质量发展调研行",
@@ -70185,14 +70249,6 @@
       "onboard_time": 1715283191,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38650,
-      "num": 254982,
-      "word": "北辰又快喜提单间了",
-      "onboard_time": 1716718997,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38365,
@@ -72550,6 +72606,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#稳步提升粮食产能#"
     }
   ]
 }
