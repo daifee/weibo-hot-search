@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716693598281,
+  "endTime": 1716694466862,
   "band_list": [
     {
       "raw_hot": 1967473,
@@ -75,8 +75,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 811558,
-      "num": 292531,
+      "raw_hot": 842965,
+      "num": 307713,
       "word": "亚当确实只参加一期节目",
       "onboard_time": 1716690318,
       "rank": 21,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604078,
+      "num": 295344,
+      "word": "章子怡那股劲儿又回来了",
+      "onboard_time": 1716690498,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 600067,
       "num": 600067,
       "word": "微信置顶一个很心酸的设计",
@@ -153,14 +161,6 @@
       "onboard_time": 1716648620,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 537910,
-      "num": 222966,
-      "word": "章子怡那股劲儿又回来了",
-      "onboard_time": 1716690498,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 518913,
@@ -185,6 +185,14 @@
       "onboard_time": 1716639438,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 500997,
+      "num": 500997,
+      "word": "华为悬红200万全球求解难题",
+      "onboard_time": 1716690798,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 496787,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 483283,
-      "num": 205899,
+      "num": 293242,
       "word": "黄宣解释光头不是秃头",
       "onboard_time": 1716691458,
       "rank": 15,
@@ -227,19 +235,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464330,
-      "num": 224824,
-      "word": "华为悬红200万全球求解难题",
-      "onboard_time": 1716690798,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 462208,
       "num": 196762,
       "word": "网友称31克黄金回收秒变15克",
       "onboard_time": 1716681916,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456918,
+      "num": 223759,
+      "word": "这串烂葡萄竟是古人用玻璃吹的",
+      "onboard_time": 1716689539,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -275,6 +283,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 420198,
+      "num": 190373,
+      "word": "叙利亚第一夫人确诊白血病后首发声",
+      "onboard_time": 1716693257,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 402510,
       "num": 402510,
       "word": "菏泽南站从爆火到冷清的12天",
@@ -304,14 +320,6 @@
       "word": "央视曝光网课骗局套路",
       "onboard_time": 1716684678,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378042,
-      "num": 223759,
-      "word": "这串烂葡萄竟是古人用玻璃吹的",
-      "onboard_time": 1716689539,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288799,
+      "num": 288799,
+      "word": "当搞笑女成为idol",
+      "onboard_time": 1716690260,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 285661,
       "num": 285661,
       "word": "你身边有疑似重生的人吗",
@@ -451,20 +467,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259486,
-      "num": 205835,
-      "word": "当搞笑女成为idol",
-      "onboard_time": 1716690260,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 258242,
       "num": 256775,
       "word": "庆余年第21集",
       "onboard_time": 1716651018,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257170,
+      "num": 197200,
+      "word": "披哥4选手名单",
+      "onboard_time": 1716693199,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246298,
+      "num": 196918,
+      "word": "张若昀杨幂龚俊V榜破9",
+      "onboard_time": 1716693858,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 244210,
@@ -489,6 +513,14 @@
       "onboard_time": 1716635839,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225416,
+      "num": 205532,
+      "word": "凤凰传奇 豫淋军",
+      "onboard_time": 1716689358,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 224437,
@@ -563,12 +595,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205532,
-      "num": 205532,
-      "word": "凤凰传奇 豫淋军",
-      "onboard_time": 1716689358,
-      "rank": 32,
-      "category": "演出"
+      "raw_hot": 203672,
+      "num": 175639,
+      "word": "养臭水正在许多学生间风靡",
+      "onboard_time": 1716693738,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203545,
+      "num": 203545,
+      "word": "Ning谈xiye加入TES",
+      "onboard_time": 1716693257,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 200600,
+      "num": 200600,
+      "word": "年轻人做事可以遵守八二原则吗",
+      "onboard_time": 1716693138,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198825,
@@ -593,14 +641,6 @@
       "onboard_time": 1716690557,
       "rank": 30,
       "category": "军事,国内时政"
-    },
-    {
-      "raw_hot": 183795,
-      "num": 183795,
-      "word": "Ning谈xiye加入TES",
-      "onboard_time": 1716693257,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 183119,
@@ -723,12 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153449,
-      "num": 145514,
-      "word": "披哥4选手名单",
-      "onboard_time": 1716693199,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 151710,
+      "num": 151710,
+      "word": "鸣潮自选",
+      "onboard_time": 1716693918,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 147731,
@@ -739,28 +779,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 147095,
-      "num": 147095,
-      "word": "叙利亚第一夫人确诊白血病后首发声",
-      "onboard_time": 1716693257,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 143496,
       "num": 143496,
       "word": "范闲自己淋过雨要给天下撑伞",
       "onboard_time": 1716682097,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142456,
-      "num": 142456,
-      "word": "年轻人做事可以遵守八二原则吗",
-      "onboard_time": 1716693138,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140020,
@@ -897,6 +921,14 @@
       "onboard_time": 1716681976,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118222,
+      "num": 118222,
+      "word": "亚当舌苔一看就没有湿气",
+      "onboard_time": 1716694338,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 115692,
@@ -1136,6 +1168,14 @@
       "word": "温州人把龙舟划出高铁的气势",
       "onboard_time": 1716652939,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25811,
+      "num": 454952,
+      "word": "传统文化闪耀文博会",
+      "onboard_time": 1716693738,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

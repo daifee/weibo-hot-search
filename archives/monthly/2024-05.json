@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716693598281,
+  "endTime": 1716694466862,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -7259,6 +7259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 842965,
+      "num": 307713,
+      "word": "亚当确实只参加一期节目",
+      "onboard_time": 1716690318,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 842444,
       "num": 485832,
       "word": "迪丽热巴手机打码的原因",
@@ -7673,14 +7681,6 @@
       "onboard_time": 1715764877,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 811558,
-      "num": 292531,
-      "word": "亚当确实只参加一期节目",
-      "onboard_time": 1716690318,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 811447,
@@ -12155,6 +12155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 604078,
+      "num": 295344,
+      "word": "章子怡那股劲儿又回来了",
+      "onboard_time": 1716690498,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 604058,
       "num": 552745,
       "word": "你没事吧 我真服了",
@@ -14123,14 +14131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 537910,
-      "num": 222966,
-      "word": "章子怡那股劲儿又回来了",
-      "onboard_time": 1716690498,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 537893,
       "num": 188417,
       "word": "原来跑男早就预言了退出的人",
@@ -15331,6 +15331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500997,
+      "num": 500997,
+      "word": "华为悬红200万全球求解难题",
+      "onboard_time": 1716690798,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 500873,
       "num": 500873,
       "word": "杨幂说和郭晓婷很难对视",
@@ -15980,7 +15988,7 @@
     },
     {
       "raw_hot": 483283,
-      "num": 205899,
+      "num": 293242,
       "word": "黄宣解释光头不是秃头",
       "onboard_time": 1716691458,
       "rank": 15,
@@ -16907,14 +16915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464330,
-      "num": 224824,
-      "word": "华为悬红200万全球求解难题",
-      "onboard_time": 1716690798,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 464145,
       "num": 464145,
       "word": "芒果妈妈微博发声",
@@ -17265,6 +17265,14 @@
       "onboard_time": 1715693059,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456918,
+      "num": 223759,
+      "word": "这串烂葡萄竟是古人用玻璃吹的",
+      "onboard_time": 1716689539,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455763,
@@ -18929,6 +18937,14 @@
       "onboard_time": 1715492957,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420198,
+      "num": 190373,
+      "word": "叙利亚第一夫人确诊白血病后首发声",
+      "onboard_time": 1716693257,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 420143,
@@ -21248,14 +21264,6 @@
       "word": "肿瘤医院外化疗宝宝排队领汤看哭",
       "onboard_time": 1715818579,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378042,
-      "num": 223759,
-      "word": "这串烂葡萄竟是古人用玻璃吹的",
-      "onboard_time": 1716689539,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -26843,6 +26851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288799,
+      "num": 288799,
+      "word": "当搞笑女成为idol",
+      "onboard_time": 1716690260,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288725,
       "num": 288725,
       "word": "无尽的冒险",
@@ -29619,14 +29635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 259486,
-      "num": 205835,
-      "word": "当搞笑女成为idol",
-      "onboard_time": 1716690260,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 259484,
       "num": 201796,
       "word": "尤长靖人没去歌手歌先去了",
@@ -29873,6 +29881,14 @@
       "onboard_time": 1715943197,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257170,
+      "num": 197200,
+      "word": "披哥4选手名单",
+      "onboard_time": 1716693199,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 257165,
@@ -31009,6 +31025,14 @@
       "onboard_time": 1714979119,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246298,
+      "num": 196918,
+      "word": "张若昀杨幂龚俊V榜破9",
+      "onboard_time": 1716693858,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 246285,
@@ -33585,6 +33609,14 @@
       "onboard_time": 1715076918,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225416,
+      "num": 205532,
+      "word": "凤凰传奇 豫淋军",
+      "onboard_time": 1716689358,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 225285,
@@ -37147,14 +37179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205532,
-      "num": 205532,
-      "word": "凤凰传奇 豫淋军",
-      "onboard_time": 1716689358,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 205519,
       "num": 205519,
       "word": "黄子弘凡直播",
@@ -37595,12 +37619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203672,
+      "num": 175639,
+      "word": "养臭水正在许多学生间风靡",
+      "onboard_time": 1716693738,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203564,
       "num": 203564,
       "word": "王楚钦梁靖崑男双进4强",
       "onboard_time": 1716534438,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203545,
+      "num": 203545,
+      "word": "Ning谈xiye加入TES",
+      "onboard_time": 1716693257,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 203538,
@@ -38521,6 +38561,14 @@
       "onboard_time": 1715422218,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200600,
+      "num": 200600,
+      "word": "年轻人做事可以遵守八二原则吗",
+      "onboard_time": 1716693138,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200596,
@@ -43369,14 +43417,6 @@
       "onboard_time": 1716282619,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 183795,
-      "num": 183795,
-      "word": "Ning谈xiye加入TES",
-      "onboard_time": 1716693257,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 183742,
@@ -51059,14 +51099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153449,
-      "num": 145514,
-      "word": "披哥4选手名单",
-      "onboard_time": 1716693199,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153401,
       "num": 208247,
       "word": "身上这5种臭味或是疾病征兆",
@@ -51521,6 +51553,14 @@
       "onboard_time": 1714542918,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151710,
+      "num": 151710,
+      "word": "鸣潮自选",
+      "onboard_time": 1716693918,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 151705,
@@ -52779,14 +52819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147095,
-      "num": 147095,
-      "word": "叙利亚第一夫人确诊白血病后首发声",
-      "onboard_time": 1716693257,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 147092,
       "num": 147092,
       "word": "和平精英",
@@ -54009,14 +54041,6 @@
       "onboard_time": 1714820960,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142456,
-      "num": 142456,
-      "word": "年轻人做事可以遵守八二原则吗",
-      "onboard_time": 1716693138,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142446,
@@ -60369,6 +60393,14 @@
       "onboard_time": 1715320039,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118222,
+      "num": 118222,
+      "word": "亚当舌苔一看就没有湿气",
+      "onboard_time": 1716694338,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 118204,
@@ -69801,6 +69833,14 @@
       "onboard_time": 1716617777,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 25811,
+      "num": 454952,
+      "word": "传统文化闪耀文博会",
+      "onboard_time": 1716693738,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25773,
