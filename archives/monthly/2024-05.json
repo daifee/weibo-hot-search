@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716759260136,
+  "endTime": 1716761815975,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -52483,6 +52483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152958,
+      "num": 52682,
+      "word": "王冰冰回应尼格买提",
+      "onboard_time": 1716751690,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152940,
       "num": 152940,
       "word": "徐明浩宋雨琦cha",
@@ -54257,6 +54265,14 @@
       "onboard_time": 1714993158,
       "rank": 39,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 146698,
+      "num": 146698,
+      "word": "女子喂乌龟火龙果喜提炫彩神龟",
+      "onboard_time": 1716748751,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146687,
@@ -67915,14 +67931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74136,
-      "num": 74136,
-      "word": "女子喂乌龟火龙果喜提炫彩神龟",
-      "onboard_time": 1716748751,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73803,
       "num": 249464,
       "word": "李银河让我又相信爱了",
@@ -67977,14 +67985,6 @@
       "onboard_time": 1716246915,
       "rank": 36,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 73500,
-      "num": 35620,
-      "word": "王冰冰回应尼格买提",
-      "onboard_time": 1716751690,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 73430,
@@ -71683,6 +71683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28359,
+      "num": 27155,
+      "word": "韩国水果的价格",
+      "onboard_time": 1716756251,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 28119,
       "num": 326414,
       "word": "悦鲜活急了",
@@ -72129,14 +72137,6 @@
       "onboard_time": 1716333734,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22265,
-      "num": 19110,
-      "word": "韩国水果的价格",
-      "onboard_time": 1716756251,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 22142,

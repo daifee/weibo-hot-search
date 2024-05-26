@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716759260136,
+  "endTime": 1716761815975,
   "band_list": [
     {
       "raw_hot": 2211762,
@@ -2115,6 +2115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152958,
+      "num": 52682,
+      "word": "王冰冰回应尼格买提",
+      "onboard_time": 1716751690,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151963,
       "num": 151963,
       "word": "沈月拍了李嘉琦徐志胜",
@@ -2169,6 +2177,14 @@
       "onboard_time": 1716690858,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 146698,
+      "num": 146698,
+      "word": "女子喂乌龟火龙果喜提炫彩神龟",
+      "onboard_time": 1716748751,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146590,
@@ -2923,22 +2939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74136,
-      "num": 74136,
-      "word": "女子喂乌龟火龙果喜提炫彩神龟",
-      "onboard_time": 1716748751,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73500,
-      "num": 35620,
-      "word": "王冰冰回应尼格买提",
-      "onboard_time": 1716751690,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 73152,
       "num": 73152,
       "word": "41首百万收藏汪苏泷在歌手都没唱",
@@ -3195,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28359,
+      "num": 27155,
+      "word": "韩国水果的价格",
+      "onboard_time": 1716756251,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 25811,
       "num": 470614,
       "word": "传统文化闪耀文博会",
@@ -3209,14 +3217,6 @@
       "onboard_time": 1716663191,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22265,
-      "num": 19110,
-      "word": "韩国水果的价格",
-      "onboard_time": 1716756251,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 13415,

@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716759260136,
+  "endTime": 1716761815975,
   "band_list": [
     {
       "raw_hot": 1024150,
@@ -219,12 +219,28 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 152958,
+      "num": 52682,
+      "word": "王冰冰回应尼格买提",
+      "onboard_time": 1716751690,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149941,
       "num": 149941,
       "word": "亚当QQ音乐屠榜",
       "onboard_time": 1716729200,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146698,
+      "num": 146698,
+      "word": "女子喂乌龟火龙果喜提炫彩神龟",
+      "onboard_time": 1716748751,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146590,
@@ -379,22 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74136,
-      "num": 74136,
-      "word": "女子喂乌龟火龙果喜提炫彩神龟",
-      "onboard_time": 1716748751,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73500,
-      "num": 35620,
-      "word": "王冰冰回应尼格买提",
-      "onboard_time": 1716751690,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 70272,
       "num": 151747,
       "word": "F1",
@@ -459,8 +459,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22265,
-      "num": 19110,
+      "raw_hot": 28359,
+      "num": 27155,
       "word": "韩国水果的价格",
       "onboard_time": 1716756251,
       "rank": 31,
