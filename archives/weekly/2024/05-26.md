@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/26 00:21:27 ~ 2024/05/27 00:22:37
+本榜单时间：2024/05/26 00:21:27 ~ 2024/05/27 00:37:03
 </p>
 </blockquote>
 <p>
@@ -1869,6 +1869,12 @@ IU又唱粤语歌了（热度：135071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E6%A1%82%E9%98%B3%E6%94%BE%E5%87%BA41%E4%BA%BF%E5%8F%AA%E8%99%AB%E5%AD%90%E7%81%AD%E5%AE%B3%E8%99%AB%23" target="weibo">
+湖南桂阳放出41亿只虫子灭害虫（热度：124267）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E5%A4%AA%E5%8E%9F%E8%B5%9B%E4%BA%94%E5%86%A0%23" target="weibo">
 国乒包揽太原赛五冠（热度：123997）
 </a>
@@ -2171,12 +2177,6 @@ xiye回应加入TES（热度：108129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E9%83%BD%E6%97%85%E8%A1%8C6%E5%A4%A95%E5%A4%9C%E5%85%A8%E6%94%BB%E7%95%A5%23" target="weibo">
 京都旅行6天5夜全攻略（热度：84270）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E6%A1%82%E9%98%B3%E6%94%BE%E5%87%BA41%E4%BA%BF%E5%8F%AA%E8%99%AB%E5%AD%90%E7%81%AD%E5%AE%B3%E8%99%AB%23" target="weibo">
-湖南桂阳放出41亿只虫子灭害虫（热度：83088）
 </a>
 </li>
 

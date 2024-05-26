@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716740557519,
+  "endTime": 1716741423114,
   "band_list": [
     {
       "raw_hot": 1024150,
@@ -67,20 +67,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354813,
+      "num": 411491,
+      "word": "女子目睹网约司机半路接电话后暴哭",
+      "onboard_time": 1716726438,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333550,
       "num": 333550,
       "word": "香港到处都能看华晨宇演唱会",
       "onboard_time": 1716732199,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 304409,
-      "num": 411491,
-      "word": "女子目睹网约司机半路接电话后暴哭",
-      "onboard_time": 1716726438,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289797,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206773,
+      "num": 206773,
+      "word": "韩红回应要上歌手",
+      "onboard_time": 1716720438,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205097,
       "num": 205097,
       "word": "Uzi解脱了",
@@ -152,14 +160,6 @@
       "word": "邓超回应抱鹿晗那么紧",
       "onboard_time": 1716735200,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 179596,
-      "num": 166025,
-      "word": "韩红回应要上歌手",
-      "onboard_time": 1716720438,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -268,11 +268,19 @@
     },
     {
       "raw_hot": 128990,
-      "num": 116242,
+      "num": 116462,
       "word": "庆余年23集",
       "onboard_time": 1716726438,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124267,
+      "num": 180181,
+      "word": "湖南桂阳放出41亿只虫子灭害虫",
+      "onboard_time": 1716739458,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119681,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 111567,
-      "num": 167910,
+      "num": 175632,
       "word": "梁靖崑男单决赛",
       "onboard_time": 1716725478,
       "rank": 18,
@@ -355,12 +363,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 83088,
-      "num": 167681,
-      "word": "湖南桂阳放出41亿只虫子灭害虫",
-      "onboard_time": 1716739458,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 78122,
+      "num": 78122,
+      "word": "庆帝终于显露武功了",
+      "onboard_time": 1716713239,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 70272,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#学中文在阿联酋已成为一种新风尚#"
+    },
+    {
+      "word": "#稳步提升粮食产能#"
     }
   ]
 }
