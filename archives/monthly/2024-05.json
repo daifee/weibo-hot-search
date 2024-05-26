@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716719837410,
+  "endTime": 1716722151259,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -985,6 +985,14 @@
       "onboard_time": 1715257278,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2211762,
+      "num": 294395,
+      "word": "韩庚参加厉旭婚礼",
+      "onboard_time": 1716721819,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2194009,
@@ -3331,6 +3339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1310472,
+      "num": 1310472,
+      "word": "韩红称自己是国家队歌手",
+      "onboard_time": 1716719839,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1301184,
       "num": 779531,
       "word": "考上研究生是对混子的最大惩罚",
@@ -4993,6 +5009,14 @@
       "onboard_time": 1715480418,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1082025,
+      "num": 1082025,
+      "word": "洞洞鞋",
+      "onboard_time": 1716720259,
+      "rank": 1,
+      "category": "时尚"
     },
     {
       "raw_hot": 1078929,
@@ -7363,6 +7387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 840599,
+      "num": 840599,
+      "word": "SuperJunior13人合体",
+      "onboard_time": 1716720318,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 839916,
       "num": 839916,
       "word": "付辛博颖儿的恋爱合同",
@@ -9195,6 +9227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 726967,
+      "num": 293276,
+      "word": "为什么研究生就业难于本科生",
+      "onboard_time": 1716716418,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 726790,
       "num": 726790,
       "word": "迪丽热巴编发红玫瑰",
@@ -9489,14 +9529,6 @@
       "onboard_time": 1714916902,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 709448,
-      "num": 257149,
-      "word": "为什么研究生就业难于本科生",
-      "onboard_time": 1716716418,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 709403,
@@ -10665,6 +10697,14 @@
       "onboard_time": 1716343457,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 662627,
+      "num": 607074,
+      "word": "章子怡兜兜转转才45岁",
+      "onboard_time": 1716717077,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 662406,
@@ -12185,14 +12225,6 @@
       "onboard_time": 1714876279,
       "rank": 33,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 607074,
-      "num": 607074,
-      "word": "章子怡兜兜转转才45岁",
-      "onboard_time": 1716717077,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 606656,
@@ -15024,6 +15056,14 @@
       "word": "亚当超绝松弛感",
       "onboard_time": 1716551538,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 512793,
+      "num": 290239,
+      "word": "韩红回应要上歌手",
+      "onboard_time": 1716720438,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -18371,6 +18411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 435838,
+      "num": 288089,
+      "word": "厉旭婚礼",
+      "onboard_time": 1716721878,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435808,
       "num": 435808,
       "word": "长城炮回应车主被电动帐篷卡脖身亡",
@@ -18473,6 +18521,14 @@
       "onboard_time": 1714962077,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 433895,
+      "num": 286514,
+      "word": "种地吧将取消打卡直播",
+      "onboard_time": 1716721098,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 433744,
@@ -24571,6 +24627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327600,
+      "num": 327600,
+      "word": "高铁晚点",
+      "onboard_time": 1716720618,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327505,
       "num": 327505,
       "word": "猫腻 张若昀就是范闲模板",
@@ -25385,6 +25449,14 @@
       "onboard_time": 1716030677,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 315800,
+      "num": 224929,
+      "word": "李惠仁近况",
+      "onboard_time": 1716720139,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 315561,
@@ -30025,6 +30097,14 @@
       "onboard_time": 1715870541,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258947,
+      "num": 219534,
+      "word": "华晨宇演唱会一口气官宣三站",
+      "onboard_time": 1716718699,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 258900,
@@ -34771,14 +34851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219534,
-      "num": 219534,
-      "word": "华晨宇演唱会一口气官宣三站",
-      "onboard_time": 1716718699,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 219527,
       "num": 219527,
       "word": "赵小棠下辈子想当妈妈的爸爸",
@@ -38051,6 +38123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 203793,
+      "num": 203793,
+      "word": "SJ13人合体 今夕是何年",
+      "onboard_time": 1716721581,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203737,
       "num": 397518,
       "word": "郎平官宣新身份",
@@ -41121,6 +41201,14 @@
       "onboard_time": 1715318659,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193777,
+      "num": 233900,
+      "word": "蒯曼陈熠3比1王艺迪陈幸同",
+      "onboard_time": 1716721581,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 193760,
@@ -44473,6 +44561,14 @@
       "onboard_time": 1716121217,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181019,
+      "num": 181019,
+      "word": "吴镇宇 楚生你快去参加无限超越班",
+      "onboard_time": 1716720438,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 180994,
@@ -48019,6 +48115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167353,
+      "num": 231725,
+      "word": "云南白药董事陈发树等人辞职",
+      "onboard_time": 1716719118,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167309,
       "num": 167309,
       "word": "云南事业单位成绩",
@@ -48377,6 +48481,14 @@
       "onboard_time": 1715905099,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165842,
+      "num": 165842,
+      "word": "骑手正在攻击你的外卖",
+      "onboard_time": 1716720079,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 165835,
@@ -49448,6 +49560,14 @@
       "word": "白玉兰评委有海清",
       "onboard_time": 1715670618,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161977,
+      "num": 161977,
+      "word": "庆余年台词",
+      "onboard_time": 1716720678,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -63643,14 +63763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107095,
-      "num": 107095,
-      "word": "云南白药董事陈发树等人辞职",
-      "onboard_time": 1716719118,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 107062,
       "num": 105093,
       "word": "白敬亭反季节穿搭",
@@ -67628,7 +67740,7 @@
     },
     {
       "raw_hot": 67446,
-      "num": 716120,
+      "num": 871391,
       "word": "2024年数据生产量增长或超25%",
       "onboard_time": 1716715638,
       "rank": 2,
@@ -69313,6 +69425,14 @@
       "onboard_time": 1716079637,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 47607,
+      "num": 106093,
+      "word": "章小蕙直播间进去就出不来了",
+      "onboard_time": 1716721999,
+      "rank": 43,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 47568,

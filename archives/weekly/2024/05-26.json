@@ -1,7 +1,15 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716719837410,
+  "endTime": 1716722151259,
   "band_list": [
+    {
+      "raw_hot": 2211762,
+      "num": 294395,
+      "word": "韩庚参加厉旭婚礼",
+      "onboard_time": 1716721819,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1967473,
       "num": 1967473,
@@ -51,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1310472,
+      "num": 1310472,
+      "word": "韩红称自己是国家队歌手",
+      "onboard_time": 1716719839,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1285116,
       "num": 1285116,
       "word": "叙利亚第一夫人确诊白血病后首发声",
@@ -81,6 +97,14 @@
       "onboard_time": 1716622758,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1082025,
+      "num": 1082025,
+      "word": "洞洞鞋",
+      "onboard_time": 1716720259,
+      "rank": 1,
+      "category": "时尚"
     },
     {
       "raw_hot": 1069903,
@@ -136,6 +160,14 @@
       "word": "董卿 渣苏感",
       "onboard_time": 1716715638,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 840599,
+      "num": 840599,
+      "word": "SuperJunior13人合体",
+      "onboard_time": 1716720318,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -211,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 709448,
-      "num": 257149,
+      "raw_hot": 726967,
+      "num": 293276,
       "word": "为什么研究生就业难于本科生",
       "onboard_time": 1716716418,
       "rank": 10,
@@ -225,6 +257,14 @@
       "onboard_time": 1716679995,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 662627,
+      "num": 607074,
+      "word": "章子怡兜兜转转才45岁",
+      "onboard_time": 1716717077,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 651397,
@@ -265,14 +305,6 @@
       "onboard_time": 1716685337,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 607074,
-      "num": 607074,
-      "word": "章子怡兜兜转转才45岁",
-      "onboard_time": 1716717077,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 604078,
@@ -345,6 +377,14 @@
       "onboard_time": 1716694878,
       "rank": 5,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 512793,
+      "num": 290239,
+      "word": "韩红回应要上歌手",
+      "onboard_time": 1716720438,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 507642,
@@ -467,12 +507,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 435838,
+      "num": 288089,
+      "word": "厉旭婚礼",
+      "onboard_time": 1716721878,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434325,
       "num": 434325,
       "word": "妇科疾病长期不治会增加患癌风险",
       "onboard_time": 1716703699,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 433895,
+      "num": 286514,
+      "word": "种地吧将取消打卡直播",
+      "onboard_time": 1716721098,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 427113,
@@ -667,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327600,
+      "num": 327600,
+      "word": "高铁晚点",
+      "onboard_time": 1716720618,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323700,
       "num": 251679,
       "word": "Lululemon股价今年已跌去4成",
@@ -689,6 +753,14 @@
       "onboard_time": 1716693199,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315800,
+      "num": 224929,
+      "word": "李惠仁近况",
+      "onboard_time": 1716720139,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 315319,
@@ -801,6 +873,14 @@
       "onboard_time": 1716625518,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258947,
+      "num": 219534,
+      "word": "华晨宇演唱会一口气官宣三站",
+      "onboard_time": 1716718699,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 258242,
@@ -947,14 +1027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 219534,
-      "num": 219534,
-      "word": "华晨宇演唱会一口气官宣三站",
-      "onboard_time": 1716718699,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 215869,
       "num": 214543,
       "word": "为了稳定回县城工作的女孩都怎么样了",
@@ -1059,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203793,
+      "num": 203793,
+      "word": "SJ13人合体 今夕是何年",
+      "onboard_time": 1716721581,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203545,
       "num": 203545,
       "word": "Ning谈xiye加入TES",
@@ -1097,6 +1177,14 @@
       "onboard_time": 1716687077,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193777,
+      "num": 233900,
+      "word": "蒯曼陈熠3比1王艺迪陈幸同",
+      "onboard_time": 1716721581,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 192653,
@@ -1211,6 +1299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 181019,
+      "num": 181019,
+      "word": "吴镇宇 楚生你快去参加无限超越班",
+      "onboard_time": 1716720438,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178567,
       "num": 165071,
       "word": "俞飞鸿小丈夫 超前精神状态",
@@ -1323,6 +1419,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 167353,
+      "num": 231725,
+      "word": "云南白药董事陈发树等人辞职",
+      "onboard_time": 1716719118,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167041,
       "num": 167041,
       "word": "庆余年考试挤破头",
@@ -1345,6 +1449,14 @@
       "onboard_time": 1716696138,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165842,
+      "num": 165842,
+      "word": "骑手正在攻击你的外卖",
+      "onboard_time": 1716720079,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 164747,
@@ -1377,6 +1489,14 @@
       "onboard_time": 1716701298,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 161977,
+      "num": 161977,
+      "word": "庆余年台词",
+      "onboard_time": 1716720678,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 160426,
@@ -1923,14 +2043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107095,
-      "num": 107095,
-      "word": "云南白药董事陈发树等人辞职",
-      "onboard_time": 1716719118,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 106922,
       "num": 106922,
       "word": "手机一定要清理的四大文件",
@@ -2100,7 +2212,7 @@
     },
     {
       "raw_hot": 67446,
-      "num": 716120,
+      "num": 871391,
       "word": "2024年数据生产量增长或超25%",
       "onboard_time": 1716715638,
       "rank": 2,
@@ -2169,6 +2281,14 @@
       "onboard_time": 1716674712,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 47607,
+      "num": 106093,
+      "word": "章小蕙直播间进去就出不来了",
+      "onboard_time": 1716721999,
+      "rank": 43,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 42184,

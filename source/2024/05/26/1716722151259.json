@@ -1,0 +1,410 @@
+{
+  "runTime": 1716722151259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1310472,
+        "num": 1310472,
+        "word": "韩红称自己是国家队歌手",
+        "onboard_time": 1716719839,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1082025,
+        "num": 1082025,
+        "word": "洞洞鞋",
+        "onboard_time": 1716720259,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 59818,
+        "num": 871391,
+        "word": "2024年数据生产量增长或超25%",
+        "onboard_time": 1716715638,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840599,
+        "num": 840599,
+        "word": "SuperJunior13人合体",
+        "onboard_time": 1716720318,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516155,
+        "num": 516155,
+        "word": "王妈公司待遇",
+        "onboard_time": 1716711979,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 327600,
+        "num": 327600,
+        "word": "高铁晚点",
+        "onboard_time": 1716720618,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662627,
+        "num": 316668,
+        "word": "章子怡兜兜转转才45岁",
+        "onboard_time": 1716717077,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 601273,
+        "num": 315652,
+        "word": "庆帝终于显露武功了",
+        "onboard_time": 1716713239,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299528,
+        "num": 299528,
+        "word": "上海暴雨",
+        "onboard_time": 1716714918,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102909,
+        "num": 297638,
+        "word": "9个月的喀秋莎体重超50斤",
+        "onboard_time": 1716712097,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2211762,
+        "num": 294395,
+        "word": "韩庚参加厉旭婚礼",
+        "onboard_time": 1716721819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726967,
+        "num": 293276,
+        "word": "为什么研究生就业难于本科生",
+        "onboard_time": 1716716418,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 512793,
+        "num": 290239,
+        "word": "韩红回应要上歌手",
+        "onboard_time": 1716720438,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435838,
+        "num": 288089,
+        "word": "厉旭婚礼",
+        "onboard_time": 1716721878,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433895,
+        "num": 286514,
+        "word": "种地吧将取消打卡直播",
+        "onboard_time": 1716721098,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283926,
+        "num": 283926,
+        "word": "刘强东内部狼性训话流出",
+        "onboard_time": 1716709038,
+        "rank": 15,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 239911,
+        "num": 239911,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1716708978,
+        "rank": 16,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 234553,
+        "num": 234553,
+        "word": "Lululemon股价今年已跌去4成",
+        "onboard_time": 1716716179,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193777,
+        "num": 233900,
+        "word": "蒯曼陈熠3比1王艺迪陈幸同",
+        "onboard_time": 1716721581,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167353,
+        "num": 231725,
+        "word": "云南白药董事陈发树等人辞职",
+        "onboard_time": 1716719118,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 329477,
+        "num": 227798,
+        "word": "网恋是王力宏 奔现是孙楠",
+        "onboard_time": 1716703699,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320415,
+        "num": 225327,
+        "word": "被研究生宿舍的上床下桌整破防了",
+        "onboard_time": 1716714918,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315800,
+        "num": 224929,
+        "word": "李惠仁近况",
+        "onboard_time": 1716720139,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273694,
+        "num": 220477,
+        "word": "亚当翻牌",
+        "onboard_time": 1716711378,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162863,
+        "num": 218329,
+        "word": "巴新山体滑坡估算超670人死亡",
+        "onboard_time": 1716714978,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258947,
+        "num": 216574,
+        "word": "华晨宇演唱会一口气官宣三站",
+        "onboard_time": 1716718699,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215753,
+        "num": 215753,
+        "word": "张艺凡这腿P都不敢这么P",
+        "onboard_time": 1716712097,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203793,
+        "num": 203793,
+        "word": "SJ13人合体 今夕是何年",
+        "onboard_time": 1716721581,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202536,
+        "num": 202536,
+        "word": "王源回复汪苏泷",
+        "onboard_time": 1716713239,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177218,
+        "num": 198865,
+        "word": "看似卫生其实会引发妇科疾病的行为",
+        "onboard_time": 1716714079,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198762,
+        "num": 198762,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185482,
+        "num": 185482,
+        "word": "陈赫冰桶打人事件受害者",
+        "onboard_time": 1716701119,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181019,
+        "num": 181019,
+        "word": "吴镇宇 楚生你快去参加无限超越班",
+        "onboard_time": 1716720438,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177276,
+        "num": 177276,
+        "word": "庆余年2隐喻",
+        "onboard_time": 1716716839,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165842,
+        "num": 165842,
+        "word": "骑手正在攻击你的外卖",
+        "onboard_time": 1716720079,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161977,
+        "num": 161977,
+        "word": "庆余年台词",
+        "onboard_time": 1716720678,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129047,
+        "num": 129047,
+        "word": "多少岁皮肤开始断崖式衰老",
+        "onboard_time": 1716714498,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111528,
+        "num": 111528,
+        "word": "无畏被曝外出试训",
+        "onboard_time": 1716719298,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110876,
+        "num": 110876,
+        "word": "王妈公司回应待遇",
+        "onboard_time": 1716717077,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 107263,
+        "num": 107263,
+        "word": "妇科疾病长期不治会增加患癌风险",
+        "onboard_time": 1716703699,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148719,
+        "num": 106974,
+        "word": "孙楠 补位",
+        "onboard_time": 1716695359,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143550,
+        "num": 106907,
+        "word": "买最贵的票淋最大的雨",
+        "onboard_time": 1716697878,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137916,
+        "num": 106436,
+        "word": "看得出他是五竹",
+        "onboard_time": 1716706459,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47607,
+        "num": 106093,
+        "word": "章小蕙直播间进去就出不来了",
+        "onboard_time": 1716721999,
+        "rank": 43,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 127173,
+        "num": 105807,
+        "word": "有头发的黄宣",
+        "onboard_time": 1716713057,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120884,
+        "num": 105409,
+        "word": "李现戛纳生图",
+        "onboard_time": 1716716777,
+        "rank": 45,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 105385,
+        "num": 105385,
+        "word": "刘强东回应严抓考勤",
+        "onboard_time": 1716710478,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100971,
+        "num": 100971,
+        "word": "杨幂靴子",
+        "onboard_time": 1716711979,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95445,
+        "num": 100959,
+        "word": "我想我会一直孤单",
+        "onboard_time": 1716709398,
+        "rank": 48,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 83859,
+        "num": 100932,
+        "word": "英国一博物馆让游客随意触摸中国文物",
+        "onboard_time": 1716702859,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
