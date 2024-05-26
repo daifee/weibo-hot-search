@@ -1,0 +1,410 @@
+{
+  "runTime": 1716687830364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557550,
+        "num": 1557550,
+        "word": "章子怡质问陈可辛",
+        "onboard_time": 1716681856,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 800754,
+        "num": 800754,
+        "word": "微信背景图",
+        "onboard_time": 1716680474,
+        "rank": 1,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 39101,
+        "num": 661334,
+        "word": "三夏时节感受丰收之美",
+        "onboard_time": 1716643640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181628,
+        "num": 656671,
+        "word": "赛琳娜获得戛纳影后",
+        "onboard_time": 1716679153,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 610745,
+        "num": 610745,
+        "word": "曝光境外间谍恐吓国内专家强迫合作",
+        "onboard_time": 1716685337,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427113,
+        "num": 427113,
+        "word": "令人失去沟通欲望的头像",
+        "onboard_time": 1716684377,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 904547,
+        "num": 422159,
+        "word": "酱园弄 盗摄",
+        "onboard_time": 1716681856,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 665542,
+        "num": 417160,
+        "word": "麻辣鸡被警方拘留",
+        "onboard_time": 1716679995,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404143,
+        "num": 404143,
+        "word": "俄军队已控制乌约18%的土地",
+        "onboard_time": 1716682396,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 58419,
+        "num": 402203,
+        "word": "他不是蜘蛛侠但他愿从天而降救你",
+        "onboard_time": 1716681916,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 590396,
+        "num": 402004,
+        "word": "他退出TFBOYS后老了很多",
+        "onboard_time": 1716640278,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488710,
+        "num": 401967,
+        "word": "彭于晏的狗狗在戛纳获奖了",
+        "onboard_time": 1716684798,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 401631,
+        "num": 401631,
+        "word": "菏泽南站从爆火到冷清的12天",
+        "onboard_time": 1716682396,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394310,
+        "num": 394310,
+        "word": "央视曝光网课骗局套路",
+        "onboard_time": 1716684678,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311895,
+        "num": 311895,
+        "word": "萧敬腾 堂堂正正中国人",
+        "onboard_time": 1716681315,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309082,
+        "num": 309082,
+        "word": "那英电话内容 破解",
+        "onboard_time": 1716644900,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243002,
+        "num": 243002,
+        "word": "日本地震",
+        "onboard_time": 1716680115,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230249,
+        "num": 230249,
+        "word": "房价下跌对普通人意味着什么",
+        "onboard_time": 1716633260,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176784,
+        "num": 176784,
+        "word": "中国人吃掉全世界70%的西瓜",
+        "onboard_time": 1716640159,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172841,
+        "num": 172841,
+        "word": "韩国邻居把我门口的福字撕了",
+        "onboard_time": 1716635839,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 439278,
+        "num": 172762,
+        "word": "去阿勒泰旅游的人膀胱快炸了",
+        "onboard_time": 1716666012,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 383305,
+        "num": 172493,
+        "word": "网友称31克黄金回收秒变15克",
+        "onboard_time": 1716681916,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374123,
+        "num": 172112,
+        "word": "月薪三千的工作有必要上吗",
+        "onboard_time": 1716652278,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273120,
+        "num": 171941,
+        "word": "17岁女生想纹男友名被老板劝离",
+        "onboard_time": 1716659955,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244878,
+        "num": 171494,
+        "word": "杨幂异域装",
+        "onboard_time": 1716683777,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222435,
+        "num": 171365,
+        "word": "苗苗恶补小时代被郭碧婷制止",
+        "onboard_time": 1716651920,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216713,
+        "num": 170956,
+        "word": "本届戛纳影后是四黄蛋",
+        "onboard_time": 1716679153,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205560,
+        "num": 170676,
+        "word": "有哪些工资不高但房价很高的城市",
+        "onboard_time": 1716683537,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 198825,
+        "num": 170564,
+        "word": "狗阵 争气",
+        "onboard_time": 1716687077,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198433,
+        "num": 170262,
+        "word": "章子怡花期好长",
+        "onboard_time": 1716684978,
+        "rank": 29,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 197976,
+        "num": 169902,
+        "word": "范闲洪竹",
+        "onboard_time": 1716648620,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189312,
+        "num": 169745,
+        "word": "每天吃豆制品的人身体有什么变化",
+        "onboard_time": 1716684317,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169473,
+        "num": 169473,
+        "word": "六公主cos徐冬冬",
+        "onboard_time": 1716687798,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168779,
+        "num": 168779,
+        "word": "aespa概念照",
+        "onboard_time": 1716685158,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163116,
+        "num": 163116,
+        "word": "杨幂夏晚晴",
+        "onboard_time": 1716639438,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160618,
+        "num": 160618,
+        "word": "巴西将建造世界最大蚊子工厂",
+        "onboard_time": 1716682757,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135960,
+        "num": 135960,
+        "word": "本科毕业的那一年究竟要经历什么",
+        "onboard_time": 1716687256,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135071,
+        "num": 135071,
+        "word": "IU又唱粤语歌了",
+        "onboard_time": 1716686898,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129560,
+        "num": 129560,
+        "word": "陈奕迅含泪致歉",
+        "onboard_time": 1716640039,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128661,
+        "num": 128661,
+        "word": "范闲自己淋过雨要给天下撑伞",
+        "onboard_time": 1716682097,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127642,
+        "num": 127642,
+        "word": "章子怡 顶级骨相",
+        "onboard_time": 1716687677,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125859,
+        "num": 125859,
+        "word": "不想生二胎老公对我冷暴力",
+        "onboard_time": 1716676152,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125312,
+        "num": 125312,
+        "word": "癌症来前1年身体会发生8种变化",
+        "onboard_time": 1716640459,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122749,
+        "num": 122749,
+        "word": "王骁纽约州执业律师宣誓vlog",
+        "onboard_time": 1716651500,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 121285,
+        "num": 121285,
+        "word": "带的饭不好意思拿出来吃",
+        "onboard_time": 1716683117,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120415,
+        "num": 120415,
+        "word": "国际章",
+        "onboard_time": 1716687618,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119935,
+        "num": 119935,
+        "word": "中国航天员在太空绕地球跑步",
+        "onboard_time": 1716682396,
+        "rank": 46,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 115767,
+        "num": 115767,
+        "word": "赵丽颖真的很喜欢橙色耳环",
+        "onboard_time": 1716647000,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111293,
+        "num": 111293,
+        "word": "曼联是冠军",
+        "onboard_time": 1716684917,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108129,
+        "num": 108129,
+        "word": "xiye回应加入TES",
+        "onboard_time": 1716679274,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记山东行#"
+    }
+  }
+}

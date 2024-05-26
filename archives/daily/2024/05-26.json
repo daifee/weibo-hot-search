@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716686599780,
+  "endTime": 1716687830364,
   "band_list": [
     {
       "raw_hot": 1662712,
@@ -11,8 +11,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1527391,
-      "num": 1527391,
+      "raw_hot": 1557550,
+      "num": 1557550,
       "word": "章子怡质问陈可辛",
       "onboard_time": 1716681856,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1204925,
-      "num": 436599,
+      "num": 656671,
       "word": "赛琳娜获得戛纳影后",
       "onboard_time": 1716679153,
       "rank": 6,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 962170,
-      "num": 384487,
+      "num": 422159,
       "word": "酱园弄 盗摄",
       "onboard_time": 1716681856,
       "rank": 6,
@@ -51,8 +51,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 799821,
-      "num": 799821,
+      "raw_hot": 800754,
+      "num": 800754,
       "word": "微信背景图",
       "onboard_time": 1716680474,
       "rank": 1,
@@ -67,8 +67,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 647502,
-      "num": 379062,
+      "raw_hot": 665542,
+      "num": 417160,
       "word": "麻辣鸡被警方拘留",
       "onboard_time": 1716679995,
       "rank": 45,
@@ -81,6 +81,14 @@
       "onboard_time": 1716652278,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 610745,
+      "num": 610745,
+      "word": "曝光境外间谍恐吓国内专家强迫合作",
+      "onboard_time": 1716685337,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600067,
@@ -131,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488710,
+      "num": 401967,
+      "word": "彭于晏的狗狗在戛纳获奖了",
+      "onboard_time": 1716684798,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 471875,
       "num": 471875,
       "word": "17岁女生想纹男友名被老板劝离",
@@ -145,6 +161,22 @@
       "onboard_time": 1716681916,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439278,
+      "num": 196639,
+      "word": "去阿勒泰旅游的人膀胱快炸了",
+      "onboard_time": 1716666012,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 427113,
+      "num": 427113,
+      "word": "令人失去沟通欲望的头像",
+      "onboard_time": 1716684377,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 426497,
@@ -163,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399300,
-      "num": 324929,
-      "word": "彭于晏的狗狗在戛纳获奖了",
-      "onboard_time": 1716684798,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 394744,
       "num": 586012,
       "word": "曼城vs曼联",
@@ -179,19 +203,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 388875,
-      "num": 196639,
-      "word": "去阿勒泰旅游的人膀胱快炸了",
-      "onboard_time": 1716666012,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 381598,
-      "num": 321052,
-      "word": "曝光境外间谍恐吓国内专家强迫合作",
-      "onboard_time": 1716685337,
-      "rank": 12,
+      "raw_hot": 394310,
+      "num": 394310,
+      "word": "央视曝光网课骗局套路",
+      "onboard_time": 1716684678,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -265,14 +281,6 @@
       "onboard_time": 1716648260,
       "rank": 16,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 295160,
-      "num": 295160,
-      "word": "央视曝光网课骗局套路",
-      "onboard_time": 1716684678,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292749,
@@ -371,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222435,
+      "num": 213574,
+      "word": "苗苗恶补小时代被郭碧婷制止",
+      "onboard_time": 1716651920,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220339,
       "num": 193417,
       "word": "章子怡花期好长",
@@ -385,14 +401,6 @@
       "onboard_time": 1716634038,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 213574,
-      "num": 213574,
-      "word": "苗苗恶补小时代被郭碧婷制止",
-      "onboard_time": 1716651920,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 210974,
@@ -411,20 +419,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198825,
+      "num": 170564,
+      "word": "狗阵 争气",
+      "onboard_time": 1716687077,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190801,
       "num": 190801,
       "word": "每天吃豆制品的人身体有什么变化",
       "onboard_time": 1716684317,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 188554,
-      "num": 197311,
-      "word": "令人失去沟通欲望的头像",
-      "onboard_time": 1716684377,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 183119,
@@ -440,6 +448,14 @@
       "word": "aespa概念照",
       "onboard_time": 1716685158,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169473,
+      "num": 169473,
+      "word": "六公主cos徐冬冬",
+      "onboard_time": 1716687798,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -507,12 +523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135960,
+      "num": 135960,
+      "word": "本科毕业的那一年究竟要经历什么",
+      "onboard_time": 1716687256,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 135157,
       "num": 135157,
       "word": "带的饭不好意思拿出来吃",
       "onboard_time": 1716683117,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135071,
+      "num": 135071,
+      "word": "IU又唱粤语歌了",
+      "onboard_time": 1716686898,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 132681,
@@ -529,6 +561,14 @@
       "onboard_time": 1716649880,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127642,
+      "num": 127642,
+      "word": "章子怡 顶级骨相",
+      "onboard_time": 1716687677,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 125877,
@@ -563,6 +603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120415,
+      "num": 120415,
+      "word": "国际章",
+      "onboard_time": 1716687618,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 119935,
+      "num": 119935,
+      "word": "中国航天员在太空绕地球跑步",
+      "onboard_time": 1716682396,
+      "rank": 44,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 119612,
       "num": 119612,
       "word": "infp的完美主义",
@@ -587,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117108,
-      "num": 117108,
-      "word": "中国航天员在太空绕地球跑步",
-      "onboard_time": 1716682396,
-      "rank": 44,
-      "category": "国内时政,科学科普"
-    },
-    {
       "raw_hot": 114326,
       "num": 82905,
       "word": "佟丽娅戛纳很好下次再去",
@@ -611,6 +659,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 111293,
+      "num": 111293,
+      "word": "曼联是冠军",
+      "onboard_time": 1716684917,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110599,
       "num": 110599,
       "word": "你会入职午休只有1小时的公司吗",
@@ -619,20 +675,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110474,
-      "num": 110474,
-      "word": "曼联是冠军",
-      "onboard_time": 1716684917,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110214,
       "num": 110214,
       "word": "景泰蓝出炉变色神奇又惊艳",
       "onboard_time": 1716685998,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108129,
+      "num": 108129,
+      "word": "xiye回应加入TES",
+      "onboard_time": 1716679274,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 107932,
@@ -683,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90365,
-      "num": 81413,
-      "word": "xiye回应加入TES",
-      "onboard_time": 1716679274,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 87144,
       "num": 106619,
       "word": "原来朋友圈很多官宣照是这么来的",
@@ -732,7 +780,7 @@
     },
     {
       "raw_hot": 65754,
-      "num": 336017,
+      "num": 402203,
       "word": "他不是蜘蛛侠但他愿从天而降救你",
       "onboard_time": 1716681916,
       "rank": 9,
@@ -780,7 +828,7 @@
     },
     {
       "raw_hot": 41044,
-      "num": 441135,
+      "num": 661334,
       "word": "三夏时节感受丰收之美",
       "onboard_time": 1716643640,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716686599780,
+  "endTime": 1716687830364,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2179,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1557550,
+      "num": 1557550,
+      "word": "章子怡质问陈可辛",
+      "onboard_time": 1716681856,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1557364,
       "num": 1557364,
       "word": "央视喊话袁娅维支援歌手",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1715742797,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1527391,
-      "num": 1527391,
-      "word": "章子怡质问陈可辛",
-      "onboard_time": 1716681856,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1527290,
@@ -3924,7 +3924,7 @@
     },
     {
       "raw_hot": 1204925,
-      "num": 436599,
+      "num": 656671,
       "word": "赛琳娜获得戛纳影后",
       "onboard_time": 1716679153,
       "rank": 6,
@@ -5780,7 +5780,7 @@
     },
     {
       "raw_hot": 962170,
-      "num": 384487,
+      "num": 422159,
       "word": "酱园弄 盗摄",
       "onboard_time": 1716681856,
       "rank": 6,
@@ -10475,6 +10475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 665542,
+      "num": 417160,
+      "word": "麻辣鸡被警方拘留",
+      "onboard_time": 1716679995,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 665100,
       "num": 665100,
       "word": "孟子义凭唇下痣秒认肖战",
@@ -10921,14 +10929,6 @@
       "onboard_time": 1715576782,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 647502,
-      "num": 379062,
-      "word": "麻辣鸡被警方拘留",
-      "onboard_time": 1716679995,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 647177,
@@ -11913,6 +11913,14 @@
       "onboard_time": 1714558401,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 610745,
+      "num": 610745,
+      "word": "曝光境外间谍恐吓国内专家强迫合作",
+      "onboard_time": 1716685337,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610744,
@@ -15691,6 +15699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488710,
+      "num": 401967,
+      "word": "彭于晏的狗狗在戛纳获奖了",
+      "onboard_time": 1716684798,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 488530,
       "num": 453980,
       "word": "亚当 上一休六",
@@ -17907,6 +17923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439278,
+      "num": 196639,
+      "word": "去阿勒泰旅游的人膀胱快炸了",
+      "onboard_time": 1716666012,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 439211,
       "num": 439211,
       "word": "歌手2024袭榜赛制",
@@ -18433,6 +18457,14 @@
       "onboard_time": 1715418079,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427113,
+      "num": 427113,
+      "word": "令人失去沟通欲望的头像",
+      "onboard_time": 1716684377,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 427016,
@@ -20043,14 +20075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 399300,
-      "num": 324929,
-      "word": "彭于晏的狗狗在戛纳获奖了",
-      "onboard_time": 1716684798,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 399270,
       "num": 275288,
       "word": "aespa好癫的MV",
@@ -20307,6 +20331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394310,
+      "num": 394310,
+      "word": "央视曝光网课骗局套路",
+      "onboard_time": 1716684678,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394250,
       "num": 394250,
       "word": "梅州全力做好梅大高速塌方相关调查",
@@ -20537,14 +20569,6 @@
       "onboard_time": 1715157799,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 388875,
-      "num": 196639,
-      "word": "去阿勒泰旅游的人膀胱快炸了",
-      "onboard_time": 1716666012,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 388820,
@@ -20985,14 +21009,6 @@
       "onboard_time": 1714783398,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 381598,
-      "num": 321052,
-      "word": "曝光境外间谍恐吓国内专家强迫合作",
-      "onboard_time": 1716685337,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381567,
@@ -26337,14 +26353,6 @@
       "onboard_time": 1715091920,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 295160,
-      "num": 295160,
-      "word": "央视曝光网课骗局套路",
-      "onboard_time": 1716684678,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295011,
@@ -33803,6 +33811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222435,
+      "num": 213574,
+      "word": "苗苗恶补小时代被郭碧婷制止",
+      "onboard_time": 1716651920,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222426,
       "num": 192523,
       "word": "雪见大战重楼",
@@ -35241,14 +35257,6 @@
       "onboard_time": 1715840238,
       "rank": 45,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 213574,
-      "num": 213574,
-      "word": "苗苗恶补小时代被郭碧婷制止",
-      "onboard_time": 1716651920,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 213537,
@@ -38907,6 +38915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198825,
+      "num": 170564,
+      "word": "狗阵 争气",
+      "onboard_time": 1716687077,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198811,
       "num": 198811,
       "word": "阿勒泰绚丽极光",
@@ -41961,14 +41977,6 @@
       "onboard_time": 1715424859,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188554,
-      "num": 197311,
-      "word": "令人失去沟通欲望的头像",
-      "onboard_time": 1716684377,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 188470,
@@ -46633,6 +46641,14 @@
       "onboard_time": 1715347760,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169473,
+      "num": 169473,
+      "word": "六公主cos徐冬冬",
+      "onboard_time": 1716687798,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 169438,
@@ -55427,6 +55443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 135960,
+      "num": 135960,
+      "word": "本科毕业的那一年究竟要经历什么",
+      "onboard_time": 1716687256,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 135952,
       "num": 135952,
       "word": "520关我250什么事儿",
@@ -55729,6 +55753,14 @@
       "onboard_time": 1714572980,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135071,
+      "num": 135071,
+      "word": "IU又唱粤语歌了",
+      "onboard_time": 1716686898,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 134884,
@@ -57643,6 +57675,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127642,
+      "num": 127642,
+      "word": "章子怡 顶级骨相",
+      "onboard_time": 1716687677,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127620,
       "num": 127620,
       "word": "嫦娥六号发射瞬间",
@@ -59475,6 +59515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120415,
+      "num": 120415,
+      "word": "国际章",
+      "onboard_time": 1716687618,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120291,
       "num": 120291,
       "word": "周深被粉丝感动哭了",
@@ -59577,6 +59625,14 @@
       "onboard_time": 1716111558,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119935,
+      "num": 119935,
+      "word": "中国航天员在太空绕地球跑步",
+      "onboard_time": 1716682396,
+      "rank": 44,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 119859,
@@ -60361,14 +60417,6 @@
       "onboard_time": 1716111077,
       "rank": 42,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 117108,
-      "num": 117108,
-      "word": "中国航天员在太空绕地球跑步",
-      "onboard_time": 1716682396,
-      "rank": 44,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 117010,
@@ -61627,6 +61675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111293,
+      "num": 111293,
+      "word": "曼联是冠军",
+      "onboard_time": 1716684917,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111214,
       "num": 111214,
       "word": "江苏句容20万株鲁冰花绽放",
@@ -61777,14 +61833,6 @@
       "onboard_time": 1714725139,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110474,
-      "num": 110474,
-      "word": "曼联是冠军",
-      "onboard_time": 1716684917,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 110469,
@@ -62281,6 +62329,14 @@
       "onboard_time": 1715934319,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108129,
+      "num": 108129,
+      "word": "xiye回应加入TES",
+      "onboard_time": 1716679274,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 108083,
@@ -64515,14 +64571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90365,
-      "num": 81413,
-      "word": "xiye回应加入TES",
-      "onboard_time": 1716679274,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 90344,
       "num": 90344,
       "word": "免签144小时外国人成国内旅游特种兵",
@@ -66460,7 +66508,7 @@
     },
     {
       "raw_hot": 65754,
-      "num": 336017,
+      "num": 402203,
       "word": "他不是蜘蛛侠但他愿从天而降救你",
       "onboard_time": 1716681916,
       "rank": 9,
