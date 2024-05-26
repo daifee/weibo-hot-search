@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716752039647,
+  "endTime": 1716754699326,
   "band_list": [
     {
       "raw_hot": 1024150,
@@ -387,6 +387,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60652,
+      "num": 60652,
+      "word": "女子喂乌龟火龙果喜提炫彩神龟",
+      "onboard_time": 1716748751,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59364,
+      "num": 35620,
+      "word": "王冰冰回应尼格买提",
+      "onboard_time": 1716751690,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52824,
       "num": 116288,
       "word": "马龙林高远3比1王楚钦梁靖崑",
@@ -441,22 +457,6 @@
       "onboard_time": 1716732980,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35921,
-      "num": 35921,
-      "word": "女子喂乌龟火龙果喜提炫彩神龟",
-      "onboard_time": 1716748751,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30213,
-      "num": 24656,
-      "word": "王冰冰回应尼格买提",
-      "onboard_time": 1716751690,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 21340,

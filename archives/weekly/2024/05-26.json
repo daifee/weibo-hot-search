@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716752039647,
+  "endTime": 1716754699326,
   "band_list": [
     {
       "raw_hot": 2211762,
@@ -2987,6 +2987,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 60652,
+      "num": 60652,
+      "word": "女子喂乌龟火龙果喜提炫彩神龟",
+      "onboard_time": 1716748751,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60323,
       "num": 187486,
       "word": "武大靖玩梗还得是本人",
@@ -3001,6 +3009,14 @@
       "onboard_time": 1716667511,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 59364,
+      "num": 35620,
+      "word": "王冰冰回应尼格买提",
+      "onboard_time": 1716751690,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 54322,
@@ -3123,14 +3139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35921,
-      "num": 35921,
-      "word": "女子喂乌龟火龙果喜提炫彩神龟",
-      "onboard_time": 1716748751,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35833,
       "num": 249217,
       "word": "被南京这片绣球花海浪漫到了",
@@ -3161,14 +3169,6 @@
       "onboard_time": 1716644360,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30213,
-      "num": 24656,
-      "word": "王冰冰回应尼格买提",
-      "onboard_time": 1716751690,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 29758,
