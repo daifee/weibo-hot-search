@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716712475941,
+  "endTime": 1716715219239,
   "band_list": [
     {
       "raw_hot": 1967473,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 814145,
+      "num": 814145,
+      "word": "王源回复汪苏泷",
+      "onboard_time": 1716713239,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 800754,
       "num": 800754,
       "word": "微信背景图",
@@ -163,12 +171,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 742505,
+      "num": 470728,
+      "word": "亚当翻牌",
+      "onboard_time": 1716711378,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 733898,
+      "num": 733898,
+      "word": "王妈公司待遇",
+      "onboard_time": 1716711979,
+      "rank": 29,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 730108,
       "num": 312455,
       "word": "向佐ins掉粉",
       "onboard_time": 1716690678,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 707437,
+      "num": 318834,
+      "word": "庆帝终于显露武功了",
+      "onboard_time": 1716713239,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 665542,
@@ -259,12 +291,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 535077,
-      "num": 304556,
-      "word": "亚当翻牌",
-      "onboard_time": 1716711378,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 545936,
+      "num": 208691,
+      "word": "张艺凡这腿P都不敢这么P",
+      "onboard_time": 1716712097,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 518913,
@@ -483,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382626,
+      "num": 271444,
+      "word": "杨幂靴子",
+      "onboard_time": 1716711979,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 376163,
       "num": 376163,
       "word": "台飞行员称台空军迟早垮掉",
       "onboard_time": 1716706037,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 371418,
+      "num": 276579,
+      "word": "男孩模仿和平精英从3楼跳下",
+      "onboard_time": 1716710838,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365313,
@@ -536,6 +584,14 @@
       "word": "房价下跌对普通人意味着什么",
       "onboard_time": 1716633260,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343488,
+      "num": 343488,
+      "word": "9个月的喀秋莎体重超50斤",
+      "onboard_time": 1716712097,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -611,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298821,
-      "num": 208691,
-      "word": "张艺凡这腿P都不敢这么P",
-      "onboard_time": 1716712097,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 292749,
       "num": 292749,
       "word": "凡希亚 李蠕蠕",
@@ -659,19 +707,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284544,
+      "num": 165733,
+      "word": "有头发的黄宣",
+      "onboard_time": 1716713057,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 280087,
       "num": 280087,
       "word": "北京市民网上买药支持医保支付",
       "onboard_time": 1716688878,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276579,
-      "num": 276579,
-      "word": "男孩模仿和平精英从3楼跳下",
-      "onboard_time": 1716710838,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -843,6 +891,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 214404,
+      "num": 183440,
+      "word": "赵露思冰蓝倩影",
+      "onboard_time": 1716714618,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213040,
       "num": 177146,
       "word": "怎么会有这么癫的霸总剧情",
@@ -865,6 +921,14 @@
       "onboard_time": 1716693377,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208802,
+      "num": 180068,
+      "word": "老公喊傅菁老公是种什么体验",
+      "onboard_time": 1716712517,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 207721,
@@ -979,6 +1043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 189072,
+      "num": 163944,
+      "word": "赵奕欢乘风报名了四季",
+      "onboard_time": 1716714559,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186877,
       "num": 186877,
       "word": "亚当舌苔一看就没有湿气",
@@ -995,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186392,
+      "num": 186392,
+      "word": "不敢在外面吃早饭了",
+      "onboard_time": 1716712038,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186245,
       "num": 186245,
       "word": "越海杀器系列之远箱火",
@@ -1009,14 +1089,6 @@
       "onboard_time": 1716701359,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184892,
-      "num": 184892,
-      "word": "杨幂靴子",
-      "onboard_time": 1716711979,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 183165,
@@ -1081,14 +1153,6 @@
       "onboard_time": 1716697997,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174818,
-      "num": 174818,
-      "word": "王妈公司待遇",
-      "onboard_time": 1716711979,
-      "rank": 29,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 174572,
@@ -1163,20 +1227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168133,
-      "num": 168133,
-      "word": "不敢在外面吃早饭了",
-      "onboard_time": 1716712038,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167585,
       "num": 167585,
       "word": "夏季最狠减肥法",
       "onboard_time": 1716691637,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 167211,
+      "num": 160576,
+      "word": "内娱综艺把13位少年放岛上120天",
+      "onboard_time": 1716713598,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 167041,
@@ -1201,6 +1265,14 @@
       "onboard_time": 1716696138,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165770,
+      "num": 165770,
+      "word": "上海暴雨",
+      "onboard_time": 1716714918,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164747,
@@ -1275,6 +1347,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 155654,
+      "num": 155654,
+      "word": "看似卫生其实会引发妇科疾病的行为",
+      "onboard_time": 1716714079,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 155380,
+      "num": 155380,
+      "word": "被研究生宿舍的上床下桌整破防了",
+      "onboard_time": 1716714918,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154642,
       "num": 146023,
       "word": "张馨予建模脸",
@@ -1345,6 +1433,14 @@
       "onboard_time": 1716709698,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 141216,
+      "num": 141216,
+      "word": "巴新山体滑坡估算超670人死亡",
+      "onboard_time": 1716714978,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140880,
@@ -1635,6 +1731,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113851,
+      "num": 113851,
+      "word": "多少岁皮肤开始断崖式衰老",
+      "onboard_time": 1716714498,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 112855,
+      "num": 112855,
+      "word": "自来水为什么有时候是乳白色",
+      "onboard_time": 1716714378,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 112578,
       "num": 112578,
       "word": "逆水寒回应称从未听说过IVE",
@@ -1667,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110797,
+      "num": 110797,
+      "word": "周扬青说唱跳这种节目再也不接了",
+      "onboard_time": 1716712458,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110599,
       "num": 110599,
       "word": "你会入职午休只有1小时的公司吗",
@@ -1683,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108277,
+      "num": 108277,
+      "word": "为什么有人总爱摆臭脸",
+      "onboard_time": 1716713418,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108129,
       "num": 108129,
       "word": "xiye回应加入TES",
@@ -1697,14 +1825,6 @@
       "onboard_time": 1716685757,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107112,
-      "num": 107112,
-      "word": "周扬青说唱跳这种节目再也不接了",
-      "onboard_time": 1716712458,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 106922,
@@ -1769,6 +1889,14 @@
       "onboard_time": 1716710058,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 96217,
+      "num": 96217,
+      "word": "汪苏泷自编王源新歌手势舞",
+      "onboard_time": 1716712878,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 93902,
@@ -1859,14 +1987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 68716,
-      "num": 307444,
-      "word": "9个月的喀秋莎体重超50斤",
-      "onboard_time": 1716712097,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65754,
       "num": 402203,
       "word": "他不是蜘蛛侠但他愿从天而降救你",
@@ -1947,6 +2067,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40176,
+      "num": 471238,
+      "word": "数据展现中欧班列助力经贸蓬勃发展",
+      "onboard_time": 1716713179,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39202,
+      "num": 271242,
+      "word": "天猫618玫瑰是玫瑰章小蕙首播",
+      "onboard_time": 1716714018,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35833,
       "num": 249217,
       "word": "被南京这片绣球花海浪漫到了",
@@ -1991,6 +2127,14 @@
       "num": 506483,
       "word": "温州人把龙舟划出高铁的气势",
       "onboard_time": 1716652939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26566,
+      "num": 273039,
+      "word": "成都特警夏训一起走花路",
+      "onboard_time": 1716713958,
       "rank": 9,
       "category": "社会新闻"
     },

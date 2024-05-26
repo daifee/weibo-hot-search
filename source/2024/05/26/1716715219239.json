@@ -1,0 +1,410 @@
+{
+  "runTime": 1716715219239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 814145,
+        "num": 814145,
+        "word": "王源回复汪苏泷",
+        "onboard_time": 1716713239,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 733898,
+        "num": 733898,
+        "word": "王妈公司待遇",
+        "onboard_time": 1716711979,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 40176,
+        "num": 471238,
+        "word": "数据展现中欧班列助力经贸蓬勃发展",
+        "onboard_time": 1716713179,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742505,
+        "num": 470728,
+        "word": "亚当翻牌",
+        "onboard_time": 1716711378,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442483,
+        "num": 442483,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1716708978,
+        "rank": 4,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 343488,
+        "num": 343488,
+        "word": "9个月的喀秋莎体重超50斤",
+        "onboard_time": 1716712097,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707437,
+        "num": 318834,
+        "word": "庆帝终于显露武功了",
+        "onboard_time": 1716713239,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 610932,
+        "num": 315495,
+        "word": "陈赫冰桶打人事件受害者",
+        "onboard_time": 1716701119,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273431,
+        "num": 273431,
+        "word": "我想我会一直孤单",
+        "onboard_time": 1716709398,
+        "rank": 8,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 26566,
+        "num": 273039,
+        "word": "成都特警夏训一起走花路",
+        "onboard_time": 1716713958,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684625,
+        "num": 272853,
+        "word": "刘强东内部狼性训话流出",
+        "onboard_time": 1716709038,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 581509,
+        "num": 272441,
+        "word": "网恋是王力宏 奔现是孙楠",
+        "onboard_time": 1716703699,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397264,
+        "num": 272154,
+        "word": "看得出他是五竹",
+        "onboard_time": 1716706459,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382626,
+        "num": 271444,
+        "word": "杨幂靴子",
+        "onboard_time": 1716711979,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39202,
+        "num": 271242,
+        "word": "天猫618玫瑰是玫瑰章小蕙首播",
+        "onboard_time": 1716714018,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371418,
+        "num": 270593,
+        "word": "男孩模仿和平精英从3楼跳下",
+        "onboard_time": 1716710838,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305527,
+        "num": 270088,
+        "word": "知情人士曝贺军翔涉性侵内幕",
+        "onboard_time": 1716704838,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270067,
+        "num": 270067,
+        "word": "刘强东回应严抓考勤",
+        "onboard_time": 1716710478,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211240,
+        "num": 211240,
+        "word": "英国一博物馆让游客随意触摸中国文物",
+        "onboard_time": 1716702859,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192948,
+        "num": 192948,
+        "word": "台飞行员称台空军迟早垮掉",
+        "onboard_time": 1716706037,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 545936,
+        "num": 192392,
+        "word": "张艺凡这腿P都不敢这么P",
+        "onboard_time": 1716712097,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293124,
+        "num": 190748,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281754,
+        "num": 189501,
+        "word": "机场喊话迪丽热巴来拿登机牌",
+        "onboard_time": 1716711198,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228868,
+        "num": 186835,
+        "word": "孙楠 补位",
+        "onboard_time": 1716695359,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186392,
+        "num": 186392,
+        "word": "不敢在外面吃早饭了",
+        "onboard_time": 1716712038,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214404,
+        "num": 183440,
+        "word": "赵露思冰蓝倩影",
+        "onboard_time": 1716714618,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208802,
+        "num": 180068,
+        "word": "老公喊傅菁老公是种什么体验",
+        "onboard_time": 1716712517,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191742,
+        "num": 179575,
+        "word": "买最贵的票淋最大的雨",
+        "onboard_time": 1716697878,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170309,
+        "num": 170309,
+        "word": "妇科疾病长期不治会增加患癌风险",
+        "onboard_time": 1716703699,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165770,
+        "num": 165770,
+        "word": "上海暴雨",
+        "onboard_time": 1716714918,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284544,
+        "num": 165733,
+        "word": "有头发的黄宣",
+        "onboard_time": 1716713057,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189072,
+        "num": 163944,
+        "word": "赵奕欢乘风报名了四季",
+        "onboard_time": 1716714559,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167211,
+        "num": 160576,
+        "word": "内娱综艺把13位少年放岛上120天",
+        "onboard_time": 1716713598,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155654,
+        "num": 155654,
+        "word": "看似卫生其实会引发妇科疾病的行为",
+        "onboard_time": 1716714079,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155380,
+        "num": 155380,
+        "word": "被研究生宿舍的上床下桌整破防了",
+        "onboard_time": 1716714918,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152820,
+        "num": 152820,
+        "word": "酱园弄 家暴",
+        "onboard_time": 1716688218,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143526,
+        "num": 143526,
+        "word": "室友养了一只98年出生的猫",
+        "onboard_time": 1716701000,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141216,
+        "num": 141216,
+        "word": "巴新山体滑坡估算超670人死亡",
+        "onboard_time": 1716714978,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138102,
+        "num": 138102,
+        "word": "为了稳定回县城工作的女孩都怎么样了",
+        "onboard_time": 1716706398,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 128419,
+        "num": 128419,
+        "word": "秦皇岛提醒近期不要食用海虹",
+        "onboard_time": 1716709698,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127260,
+        "num": 127260,
+        "word": "aespa直拍",
+        "onboard_time": 1716711737,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119406,
+        "num": 119406,
+        "word": "东北没有夜生活的原因找到了",
+        "onboard_time": 1716711497,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116559,
+        "num": 116559,
+        "word": "棣月系",
+        "onboard_time": 1716703218,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113851,
+        "num": 113851,
+        "word": "多少岁皮肤开始断崖式衰老",
+        "onboard_time": 1716714498,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112855,
+        "num": 112855,
+        "word": "自来水为什么有时候是乳白色",
+        "onboard_time": 1716714378,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110797,
+        "num": 110797,
+        "word": "周扬青说唱跳这种节目再也不接了",
+        "onboard_time": 1716712458,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108464,
+        "num": 108464,
+        "word": "福宝和邻居熊隔窗交流",
+        "onboard_time": 1716707598,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108277,
+        "num": 108277,
+        "word": "为什么有人总爱摆臭脸",
+        "onboard_time": 1716713418,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103263,
+        "num": 103263,
+        "word": "叙利亚第一夫人确诊白血病后首发声",
+        "onboard_time": 1716693257,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 96217,
+        "num": 96217,
+        "word": "汪苏泷自编王源新歌手势舞",
+        "onboard_time": 1716712878,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写中国式现代化山东篇章#"
+    }
+  }
+}
