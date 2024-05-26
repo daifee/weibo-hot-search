@@ -1,0 +1,410 @@
+{
+  "runTime": 1716730488050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1573934,
+        "num": 1573934,
+        "word": "逍遥散人求婚",
+        "onboard_time": 1716726559,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1162751,
+        "num": 1162751,
+        "word": "庆余年2第15集22分55秒",
+        "onboard_time": 1716725118,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49198,
+        "num": 1161753,
+        "word": "2024年数据生产量增长或超25%",
+        "onboard_time": 1716715638,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161535,
+        "num": 1161535,
+        "word": "淡黄色是牙医公认的健康色号",
+        "onboard_time": 1716725717,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 667137,
+        "num": 667137,
+        "word": "洞洞鞋",
+        "onboard_time": 1716720259,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 330604,
+        "num": 641587,
+        "word": "东部战区越海突击画面",
+        "onboard_time": 1716722238,
+        "rank": 5,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 636823,
+        "num": 636823,
+        "word": "林相大宝这段",
+        "onboard_time": 1716727998,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123327,
+        "num": 572927,
+        "word": "国乒提前包揽冠亚军",
+        "onboard_time": 1716723438,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564577,
+        "num": 564577,
+        "word": "人民文娱评狐妖小红娘月红篇",
+        "onboard_time": 1716724279,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55770,
+        "num": 521882,
+        "word": "猴哥听曲意外混到了编制",
+        "onboard_time": 1716725659,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1647681,
+        "num": 519617,
+        "word": "王妈发声",
+        "onboard_time": 1716723557,
+        "rank": 10,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 515018,
+        "num": 515018,
+        "word": "韩红称自己是国家队歌手",
+        "onboard_time": 1716719839,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486469,
+        "num": 486469,
+        "word": "Uzi解脱了",
+        "onboard_time": 1716727819,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 471842,
+        "num": 471842,
+        "word": "王妈公司0人参保",
+        "onboard_time": 1716729379,
+        "rank": 13,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 461317,
+        "num": 461317,
+        "word": "庆余年23集",
+        "onboard_time": 1716726438,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379033,
+        "num": 379033,
+        "word": "TVB演员颜国梁去世",
+        "onboard_time": 1716727159,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322398,
+        "num": 322398,
+        "word": "黄山景区发生雷击致多人受伤",
+        "onboard_time": 1716722538,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 304357,
+        "num": 304357,
+        "word": "剑网3无界定档",
+        "onboard_time": 1716729140,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229748,
+        "num": 229748,
+        "word": "黄山风景区通报雷击情况",
+        "onboard_time": 1716728060,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 189688,
+        "num": 229739,
+        "word": "F1",
+        "onboard_time": 1716730100,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450599,
+        "num": 229680,
+        "word": "中医建议肝不好做这六个动作",
+        "onboard_time": 1716727159,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 405592,
+        "num": 229610,
+        "word": "建议这9类人少喝咖啡",
+        "onboard_time": 1716723858,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 351140,
+        "num": 229539,
+        "word": "黄宣邓超 风向双癫",
+        "onboard_time": 1716727398,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308743,
+        "num": 229431,
+        "word": "韩红回应要上歌手",
+        "onboard_time": 1716720438,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307382,
+        "num": 229364,
+        "word": "陈萍萍举铁直拍",
+        "onboard_time": 1716729140,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294349,
+        "num": 229300,
+        "word": "亚当QQ音乐屠榜",
+        "onboard_time": 1716729200,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278447,
+        "num": 229254,
+        "word": "女子目睹网约司机半路接电话后暴哭",
+        "onboard_time": 1716726438,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247120,
+        "num": 229170,
+        "word": "庆余年作者取名是没有瓶颈的吧",
+        "onboard_time": 1716728959,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129863,
+        "num": 229114,
+        "word": "马龙林高远男双冠军",
+        "onboard_time": 1716725059,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117646,
+        "num": 229040,
+        "word": "梁靖崑男单决赛",
+        "onboard_time": 1716725478,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188245,
+        "num": 228971,
+        "word": "剑网三",
+        "onboard_time": 1716729620,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228927,
+        "num": 228927,
+        "word": "宋雨琦音乐节首秀",
+        "onboard_time": 1716727159,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212860,
+        "num": 212860,
+        "word": "亚当翻牌",
+        "onboard_time": 1716711378,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212542,
+        "num": 212542,
+        "word": "章子怡兜兜转转才45岁",
+        "onboard_time": 1716717077,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212115,
+        "num": 212115,
+        "word": "庆帝终于显露武功了",
+        "onboard_time": 1716713239,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201781,
+        "num": 201781,
+        "word": "王鹤棣 赢了不装等于没赢",
+        "onboard_time": 1716728599,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167587,
+        "num": 167587,
+        "word": "一句话让三个国家人同时疑惑",
+        "onboard_time": 1716729260,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162210,
+        "num": 162210,
+        "word": "种地吧将取消打卡直播",
+        "onboard_time": 1716721098,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148591,
+        "num": 148591,
+        "word": "沈星回 让星星自己落下来",
+        "onboard_time": 1716729859,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139829,
+        "num": 139829,
+        "word": "金起范饭拍",
+        "onboard_time": 1716724637,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132554,
+        "num": 132554,
+        "word": "烟那么难闻为何还有人喜欢抽",
+        "onboard_time": 1716730340,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131970,
+        "num": 131970,
+        "word": "戛纳摄影师最爱巩俐章子怡",
+        "onboard_time": 1716727699,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131530,
+        "num": 131530,
+        "word": "赵丽颖爱工作爱生活",
+        "onboard_time": 1716724099,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125905,
+        "num": 125905,
+        "word": "黄子弘凡的红内裤说掏就掏",
+        "onboard_time": 1716722419,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121828,
+        "num": 121828,
+        "word": "网恋是王力宏 奔现是孙楠",
+        "onboard_time": 1716703699,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119579,
+        "num": 119579,
+        "word": "我保持单身的三大好习惯",
+        "onboard_time": 1716729919,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116252,
+        "num": 116252,
+        "word": "胡彦斌记了林俊杰微博14年",
+        "onboard_time": 1716725537,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116225,
+        "num": 116225,
+        "word": "被研究生宿舍的上床下桌整破防了",
+        "onboard_time": 1716714918,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106166,
+        "num": 115453,
+        "word": "刘强东内部狼性训话流出",
+        "onboard_time": 1716709038,
+        "rank": 48,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 87178,
+        "num": 114893,
+        "word": "马龙林高远3比1王楚钦梁靖崑",
+        "onboard_time": 1716727098,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#稳步提升粮食产能#"
+    }
+  }
+}

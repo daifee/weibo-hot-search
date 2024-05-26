@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/26 21:18:54
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/26 21:34:48
 </p>
 </blockquote>
 <p>
@@ -3249,6 +3249,12 @@ B站取消播放时长指标外显改版（热度：1222790）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%A1%E9%BB%84%E8%89%B2%E6%98%AF%E7%89%99%E5%8C%BB%E5%85%AC%E8%AE%A4%E7%9A%84%E5%81%A5%E5%BA%B7%E8%89%B2%E5%8F%B7%23" target="weibo">
+淡黄色是牙医公认的健康色号（热度：1161535）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AD%90%E5%88%AB%E7%B4%A7%E5%BC%A0%23" target="weibo">
 英子别紧张（热度：1160947）
 </a>
@@ -5237,12 +5243,6 @@ iPhone16ProMax机模曝光（热度：895661）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%80%81%E5%B8%88%E9%81%AD%E7%BD%91%E8%AF%BE%E7%88%86%E7%A0%B4%E5%90%8E%E6%AD%BB%E4%BA%A19%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9C%AA%E6%88%90%E5%B9%B4%23" target="weibo">
 女老师遭网课爆破后死亡9名嫌疑人未成年（热度：867606）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%A1%E9%BB%84%E8%89%B2%E6%98%AF%E7%89%99%E5%8C%BB%E5%85%AC%E8%AE%A4%E7%9A%84%E5%81%A5%E5%BA%B7%E8%89%B2%E5%8F%B7%23" target="weibo">
-淡黄色是牙医公认的健康色号（热度：867430）
 </a>
 </li>
 

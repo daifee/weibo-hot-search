@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716729534787,
+  "endTime": 1716730488050,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -4315,6 +4315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1161535,
+      "num": 1161535,
+      "word": "淡黄色是牙医公认的健康色号",
+      "onboard_time": 1716725717,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1160947,
       "num": 190129,
       "word": "英子别紧张",
@@ -6969,14 +6977,6 @@
       "onboard_time": 1714970481,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867430,
-      "num": 867430,
-      "word": "淡黄色是牙医公认的健康色号",
-      "onboard_time": 1716725717,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 866904,
@@ -11489,6 +11489,14 @@
       "onboard_time": 1715731878,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 636823,
+      "num": 636823,
+      "word": "林相大宝这段",
+      "onboard_time": 1716727998,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 636476,
@@ -16795,6 +16803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471842,
+      "num": 471842,
+      "word": "王妈公司0人参保",
+      "onboard_time": 1716729379,
+      "rank": 33,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 471815,
       "num": 471815,
       "word": "JackeyLove超话",
@@ -17595,14 +17611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 456146,
-      "num": 456146,
-      "word": "林相大宝这段",
-      "onboard_time": 1716727998,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 455763,
       "num": 333843,
       "word": "那英 当打之年",
@@ -17833,6 +17841,14 @@
       "onboard_time": 1716000738,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 450599,
+      "num": 229680,
+      "word": "中医建议肝不好做这六个动作",
+      "onboard_time": 1716727159,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 450500,
@@ -23099,6 +23115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351140,
+      "num": 335964,
+      "word": "黄宣邓超 风向双癫",
+      "onboard_time": 1716727398,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351125,
       "num": 685454,
       "word": "大熊猫保护研究中心原副主任张海清被查",
@@ -23915,14 +23939,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 338200,
-      "num": 225396,
-      "word": "中医建议肝不好做这六个动作",
-      "onboard_time": 1716727159,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 338093,
       "num": 338093,
       "word": "森林狼4比3掘金",
@@ -24081,14 +24097,6 @@
       "onboard_time": 1715172200,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335964,
-      "num": 335964,
-      "word": "黄宣邓超 风向双癫",
-      "onboard_time": 1716727398,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 335866,
@@ -26123,6 +26131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 307382,
+      "num": 229364,
+      "word": "陈萍萍举铁直拍",
+      "onboard_time": 1716729140,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307357,
       "num": 307357,
       "word": "刘德华演唱会",
@@ -26289,6 +26305,14 @@
       "onboard_time": 1716707598,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304357,
+      "num": 304357,
+      "word": "剑网3无界定档",
+      "onboard_time": 1716729140,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 304336,
@@ -27017,6 +27041,14 @@
       "onboard_time": 1714656200,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294349,
+      "num": 229300,
+      "word": "亚当QQ音乐屠榜",
+      "onboard_time": 1716729200,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 294296,
@@ -28379,6 +28411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278447,
+      "num": 229254,
+      "word": "女子目睹网约司机半路接电话后暴哭",
+      "onboard_time": 1716726438,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278382,
       "num": 278382,
       "word": "咏月风雅公测",
@@ -29427,14 +29467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267183,
-      "num": 217576,
-      "word": "女子目睹网约司机半路接电话后暴哭",
-      "onboard_time": 1716726438,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267115,
       "num": 267115,
       "word": "日本前大臣感慨日本太落后",
@@ -30073,14 +30105,6 @@
       "onboard_time": 1714553597,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 260633,
-      "num": 260633,
-      "word": "剑网3无界定档",
-      "onboard_time": 1716729140,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 260456,
@@ -31467,6 +31491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247120,
+      "num": 229170,
+      "word": "庆余年作者取名是没有瓶颈的吧",
+      "onboard_time": 1716728959,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247115,
       "num": 240140,
       "word": "潮汕偶遇鹿晗王勉",
@@ -31689,14 +31721,6 @@
       "onboard_time": 1714962798,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 245631,
-      "num": 205578,
-      "word": "亚当QQ音乐屠榜",
-      "onboard_time": 1716729200,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 245613,
@@ -38803,6 +38827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201781,
+      "num": 201781,
+      "word": "王鹤棣 赢了不装等于没赢",
+      "onboard_time": 1716728599,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201763,
       "num": 201763,
       "word": "厦门为求职实习大学生开放两千多张免费床位",
@@ -39929,14 +39961,6 @@
       "onboard_time": 1716160574,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198346,
-      "num": 198346,
-      "word": "王鹤棣 赢了不装等于没赢",
-      "onboard_time": 1716728599,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 198337,
@@ -42675,6 +42699,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 189688,
+      "num": 229739,
+      "word": "F1",
+      "onboard_time": 1714938191,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 189670,
       "num": 189670,
       "word": "许凯 金刚芭比",
@@ -43025,6 +43057,14 @@
       "onboard_time": 1715052137,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188245,
+      "num": 228971,
+      "word": "剑网三",
+      "onboard_time": 1716729620,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 188240,
@@ -44225,14 +44265,6 @@
       "onboard_time": 1715784318,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183804,
-      "num": 193251,
-      "word": "F1",
-      "onboard_time": 1714938191,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 183803,
@@ -46283,14 +46315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175302,
-      "num": 175302,
-      "word": "陈萍萍举铁直拍",
-      "onboard_time": 1716729140,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175301,
       "num": 175301,
       "word": "赵昭仪演爽了",
@@ -47819,14 +47843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 169397,
-      "num": 169397,
-      "word": "王妈公司0人参保",
-      "onboard_time": 1716729379,
-      "rank": 33,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 169362,
       "num": 169362,
       "word": "高圆圆去了苏有朋演唱会",
@@ -48291,6 +48307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167587,
+      "num": 167587,
+      "word": "一句话让三个国家人同时疑惑",
+      "onboard_time": 1716729260,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167585,
       "num": 167585,
       "word": "夏季最狠减肥法",
@@ -48689,14 +48713,6 @@
       "onboard_time": 1714706539,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166015,
-      "num": 166015,
-      "word": "庆余年作者取名是没有瓶颈的吧",
-      "onboard_time": 1716728959,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 165971,
@@ -53427,6 +53443,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 148591,
+      "num": 148591,
+      "word": "沈星回 让星星自己落下来",
+      "onboard_time": 1716729859,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148538,
       "num": 148538,
       "word": "狗妈妈冲进洪水中救出被困小狗",
@@ -53609,14 +53633,6 @@
       "onboard_time": 1716612498,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147792,
-      "num": 147792,
-      "word": "一句话让三个国家人同时疑惑",
-      "onboard_time": 1716729260,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 147758,
@@ -57883,6 +57899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132554,
+      "num": 132554,
+      "word": "烟那么难闻为何还有人喜欢抽",
+      "onboard_time": 1716730340,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132525,
       "num": 75506,
       "word": "体检照X光别穿有刺绣的衣服",
@@ -59276,7 +59300,7 @@
     },
     {
       "raw_hot": 127102,
-      "num": 184218,
+      "num": 229040,
       "word": "梁靖崑男单决赛",
       "onboard_time": 1716725478,
       "rank": 29,
@@ -61329,6 +61353,14 @@
       "onboard_time": 1716461419,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 119579,
+      "num": 119579,
+      "word": "我保持单身的三大好习惯",
+      "onboard_time": 1716729919,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 119564,
