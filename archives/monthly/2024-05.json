@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716691428137,
+  "endTime": 1716693598281,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -7675,6 +7675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 811558,
+      "num": 292531,
+      "word": "亚当确实只参加一期节目",
+      "onboard_time": 1716690318,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 811447,
       "num": 496956,
       "word": "宋仲基宋慧乔将同框",
@@ -9017,6 +9025,14 @@
       "onboard_time": 1715415318,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730108,
+      "num": 312455,
+      "word": "向佐ins掉粉",
+      "onboard_time": 1716690678,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 729799,
@@ -10441,14 +10457,6 @@
       "onboard_time": 1715488398,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 667488,
-      "num": 312455,
-      "word": "向佐ins掉粉",
-      "onboard_time": 1716690678,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 667471,
@@ -13219,14 +13227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563402,
-      "num": 292531,
-      "word": "亚当确实只参加一期节目",
-      "onboard_time": 1716690318,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 562586,
       "num": 2451083,
       "word": "马龙说现在是王楚钦带着我",
@@ -14121,6 +14121,14 @@
       "onboard_time": 1714646358,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 537910,
+      "num": 222966,
+      "word": "章子怡那股劲儿又回来了",
+      "onboard_time": 1716690498,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 537893,
@@ -15971,6 +15979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 483283,
+      "num": 205899,
+      "word": "黄宣解释光头不是秃头",
+      "onboard_time": 1716691458,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483109,
       "num": 469772,
       "word": "咬伤3岁男童恶犬已被打死",
@@ -16889,6 +16905,14 @@
       "onboard_time": 1716595878,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464330,
+      "num": 224824,
+      "word": "华为悬红200万全球求解难题",
+      "onboard_time": 1716690798,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 464145,
@@ -21003,14 +21027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 383056,
-      "num": 222966,
-      "word": "章子怡那股劲儿又回来了",
-      "onboard_time": 1716690498,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 382900,
       "num": 382900,
       "word": "老乡鸡葱油鸡已加量20g",
@@ -21232,6 +21248,14 @@
       "word": "肿瘤医院外化疗宝宝排队领汤看哭",
       "onboard_time": 1715818579,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378042,
+      "num": 223759,
+      "word": "这串烂葡萄竟是古人用玻璃吹的",
+      "onboard_time": 1716689539,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -21865,6 +21889,14 @@
       "onboard_time": 1715829259,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 365313,
+      "num": 211646,
+      "word": "宋轶录节目哭了",
+      "onboard_time": 1716691038,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 365232,
@@ -29587,6 +29619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259486,
+      "num": 205835,
+      "word": "当搞笑女成为idol",
+      "onboard_time": 1716690260,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259484,
       "num": 201796,
       "word": "尤长靖人没去歌手歌先去了",
@@ -33635,14 +33675,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 224824,
-      "num": 224824,
-      "word": "华为悬红200万全球求解难题",
-      "onboard_time": 1716690798,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 224724,
       "num": 224724,
       "word": "NewJeans拼车",
@@ -33761,14 +33793,6 @@
       "onboard_time": 1715737698,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223759,
-      "num": 223759,
-      "word": "这串烂葡萄竟是古人用玻璃吹的",
-      "onboard_time": 1716689539,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223628,
@@ -35723,14 +35747,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 211646,
-      "num": 211646,
-      "word": "宋轶录节目哭了",
-      "onboard_time": 1716691038,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211561,
       "num": 211561,
       "word": "Ale加入AL",
@@ -36073,6 +36089,14 @@
       "onboard_time": 1715144726,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209797,
+      "num": 205540,
+      "word": "肖战纯白U领T恤",
+      "onboard_time": 1716693377,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209725,
@@ -37121,6 +37145,14 @@
       "onboard_time": 1714976719,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205532,
+      "num": 205532,
+      "word": "凤凰传奇 豫淋军",
+      "onboard_time": 1716689358,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 205519,
@@ -42531,14 +42563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 187135,
-      "num": 187135,
-      "word": "当搞笑女成为idol",
-      "onboard_time": 1716690260,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187092,
       "num": 185846,
       "word": "时代少年团 天津",
@@ -43347,6 +43371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183795,
+      "num": 183795,
+      "word": "Ning谈xiye加入TES",
+      "onboard_time": 1716693257,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183742,
       "num": 183742,
       "word": "小果冻",
@@ -43697,14 +43729,6 @@
       "onboard_time": 1715594360,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182380,
-      "num": 182380,
-      "word": "凤凰传奇 豫淋军",
-      "onboard_time": 1716689358,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 182377,
@@ -46011,6 +46035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172787,
+      "num": 205802,
+      "word": "越海杀器量大管饱",
+      "onboard_time": 1716693318,
+      "rank": 19,
+      "category": "军事,国内时政"
+    },
+    {
       "raw_hot": 172774,
       "num": 172774,
       "word": "五旬老太 静可攻那可守",
@@ -46323,6 +46355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171441,
+      "num": 171441,
+      "word": "为什么韩国人这么痴迷大头贴",
+      "onboard_time": 1716689897,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171417,
       "num": 171417,
       "word": "樱花树下的刘浩存",
@@ -46417,6 +46457,14 @@
       "onboard_time": 1715047279,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171066,
+      "num": 171066,
+      "word": "井柏然碎了",
+      "onboard_time": 1716691997,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 171050,
@@ -47281,6 +47329,14 @@
       "onboard_time": 1715327418,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167585,
+      "num": 167585,
+      "word": "夏季最狠减肥法",
+      "onboard_time": 1716691637,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 167555,
@@ -51003,6 +51059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153449,
+      "num": 145514,
+      "word": "披哥4选手名单",
+      "onboard_time": 1716693199,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153401,
       "num": 208247,
       "word": "身上这5种臭味或是疾病征兆",
@@ -52219,14 +52283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 148783,
-      "num": 148783,
-      "word": "为什么韩国人这么痴迷大头贴",
-      "onboard_time": 1716689897,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 148740,
       "num": 148740,
       "word": "齐司礼 7推国宴",
@@ -52721,6 +52777,14 @@
       "onboard_time": 1715344521,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147095,
+      "num": 147095,
+      "word": "叙利亚第一夫人确诊白血病后首发声",
+      "onboard_time": 1716693257,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147092,
@@ -53945,6 +54009,14 @@
       "onboard_time": 1714820960,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142456,
+      "num": 142456,
+      "word": "年轻人做事可以遵守八二原则吗",
+      "onboard_time": 1716693138,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142446,
