@@ -1,0 +1,410 @@
+{
+  "runTime": 1716707853623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1055185,
+        "num": 1055185,
+        "word": "陈赫冰桶打人事件受害者",
+        "onboard_time": 1716701119,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632604,
+        "num": 632604,
+        "word": "英国一博物馆让游客随意触摸中国文物",
+        "onboard_time": 1716702859,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25291,
+        "num": 473364,
+        "word": "高质量发展调研行",
+        "onboard_time": 1716694698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030235,
+        "num": 445905,
+        "word": "网恋是王力宏 奔现是孙楠",
+        "onboard_time": 1716703699,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410410,
+        "num": 410410,
+        "word": "妇科疾病长期不治会增加患癌风险",
+        "onboard_time": 1716703699,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272374,
+        "num": 272374,
+        "word": "叙利亚第一夫人确诊白血病后首发声",
+        "onboard_time": 1716693257,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 629106,
+        "num": 253622,
+        "word": "看得出他是五竹",
+        "onboard_time": 1716706459,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616381,
+        "num": 249664,
+        "word": "知情人士曝贺军翔涉性侵内幕",
+        "onboard_time": 1716704838,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230040,
+        "num": 230040,
+        "word": "张朝阳建议年轻人不要负债",
+        "onboard_time": 1716700399,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165434,
+        "num": 228946,
+        "word": "休假浙江人在贵州救了两条命",
+        "onboard_time": 1716707478,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 530460,
+        "num": 225551,
+        "word": "孙楠 补位",
+        "onboard_time": 1716695359,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471092,
+        "num": 218504,
+        "word": "棣月系",
+        "onboard_time": 1716703218,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457811,
+        "num": 217280,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350889,
+        "num": 209378,
+        "word": "陈奕迅称声带仍没有好转",
+        "onboard_time": 1716705258,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341204,
+        "num": 207052,
+        "word": "台飞行员称台空军迟早垮掉",
+        "onboard_time": 1716706037,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204615,
+        "num": 204615,
+        "word": "东部战区发布4K版远箱火视频",
+        "onboard_time": 1716704117,
+        "rank": 15,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 189203,
+        "num": 189203,
+        "word": "兰州已经开始沸腾了",
+        "onboard_time": 1716694878,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 179185,
+        "num": 179185,
+        "word": "多地年薪60万至80万招聘聘任制公务员",
+        "onboard_time": 1716688157,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159268,
+        "num": 159268,
+        "word": "才知道海底捞还有艺考",
+        "onboard_time": 1716704958,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154746,
+        "num": 154746,
+        "word": "35岁失业后假装上班6个月",
+        "onboard_time": 1716688037,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461838,
+        "num": 153316,
+        "word": "室友养了一只98年出生的猫",
+        "onboard_time": 1716701000,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344381,
+        "num": 151071,
+        "word": "买最贵的票淋最大的雨",
+        "onboard_time": 1716697878,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 326479,
+        "num": 149655,
+        "word": "酱园弄 家暴",
+        "onboard_time": 1716688218,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281540,
+        "num": 148186,
+        "word": "韩国买入狐妖小红娘竹业篇版权",
+        "onboard_time": 1716701838,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219775,
+        "num": 146569,
+        "word": "章子怡那股劲儿又回来了",
+        "onboard_time": 1716690498,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205231,
+        "num": 144827,
+        "word": "林俊杰晒照感谢胡彦斌",
+        "onboard_time": 1716707118,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202389,
+        "num": 143044,
+        "word": "为了稳定回县城工作的女孩都怎么样了",
+        "onboard_time": 1716706398,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 192274,
+        "num": 141515,
+        "word": "林更新个人vs范丞丞个人战",
+        "onboard_time": 1716705019,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174576,
+        "num": 138208,
+        "word": "俞飞鸿小丈夫 超前精神状态",
+        "onboard_time": 1716707238,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138001,
+        "num": 138001,
+        "word": "尿检小便池几次检测结果前后不一",
+        "onboard_time": 1716694938,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159618,
+        "num": 137794,
+        "word": "龚俊快被喷成水牛了",
+        "onboard_time": 1716703579,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137434,
+        "num": 137434,
+        "word": "赛琳娜获得戛纳影后",
+        "onboard_time": 1716679153,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131924,
+        "num": 131924,
+        "word": "庆余年 鸣龙少年",
+        "onboard_time": 1716697938,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122231,
+        "num": 122231,
+        "word": "这串烂葡萄竟是古人用玻璃吹的",
+        "onboard_time": 1716689539,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119674,
+        "num": 119674,
+        "word": "人的牙齿天生就是偏黄的",
+        "onboard_time": 1716701298,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122920,
+        "num": 119664,
+        "word": "天官赐福广播剧第二季",
+        "onboard_time": 1716706578,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119320,
+        "num": 119320,
+        "word": "邓超陈赫跳舞为鹿晗庆生",
+        "onboard_time": 1716704299,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105154,
+        "num": 119230,
+        "word": "养臭水正在许多学生间风靡",
+        "onboard_time": 1716693738,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93768,
+        "num": 118499,
+        "word": "华为悬红200万全球求解难题",
+        "onboard_time": 1716690798,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93463,
+        "num": 118032,
+        "word": "福宝和邻居熊隔窗交流",
+        "onboard_time": 1716707598,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32572,
+        "num": 117540,
+        "word": "山东这个小镇电吉他出口占全国四成",
+        "onboard_time": 1716705977,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117206,
+        "num": 117206,
+        "word": "周扬青卖闲置遇到学生直接送",
+        "onboard_time": 1716688098,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114324,
+        "num": 114324,
+        "word": "章子怡 顶级骨相",
+        "onboard_time": 1716687677,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112061,
+        "num": 112061,
+        "word": "他退出TFBOYS后老了很多",
+        "onboard_time": 1716640278,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99331,
+        "num": 99331,
+        "word": "亚当确实只参加一期节目",
+        "onboard_time": 1716690318,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93251,
+        "num": 93251,
+        "word": "Scout选手LPL征战八周年",
+        "onboard_time": 1716698178,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89539,
+        "num": 89539,
+        "word": "微信背景图",
+        "onboard_time": 1716680474,
+        "rank": 46,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 88268,
+        "num": 88268,
+        "word": "软考",
+        "onboard_time": 1716701718,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86582,
+        "num": 86582,
+        "word": "林依轮 穿衣是自由的",
+        "onboard_time": 1716705019,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86208,
+        "num": 86208,
+        "word": "汪峰成都入场券",
+        "onboard_time": 1716704477,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写中国式现代化山东篇章#"
+    }
+  }
+}
