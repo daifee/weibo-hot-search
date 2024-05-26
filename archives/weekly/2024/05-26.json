@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716707853623,
+  "endTime": 1716708854337,
   "band_list": [
     {
       "raw_hot": 1967473,
@@ -67,6 +67,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1150291,
+      "num": 1150291,
+      "word": "网恋是王力宏 奔现是孙楠",
+      "onboard_time": 1716703699,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1087815,
       "num": 1087815,
       "word": "525",
@@ -80,14 +88,6 @@
       "word": "周扬青卖闲置遇到学生直接送",
       "onboard_time": 1716688098,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1030235,
-      "num": 445905,
-      "word": "网恋是王力宏 奔现是孙楠",
-      "onboard_time": 1716703699,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 754233,
+      "num": 322828,
+      "word": "看得出他是五竹",
+      "onboard_time": 1716706459,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 730108,
       "num": 312455,
       "word": "向佐ins掉粉",
@@ -177,14 +185,6 @@
       "onboard_time": 1716702859,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629106,
-      "num": 253622,
-      "word": "看得出他是五竹",
-      "onboard_time": 1716706459,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 617261,
@@ -371,6 +371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 434325,
+      "num": 434325,
+      "word": "妇科疾病长期不治会增加患癌风险",
+      "onboard_time": 1716703699,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 427113,
       "num": 427113,
       "word": "令人失去沟通欲望的头像",
@@ -393,14 +401,6 @@
       "onboard_time": 1716697938,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 410410,
-      "num": 410410,
-      "word": "妇科疾病长期不治会增加患癌风险",
-      "onboard_time": 1716703699,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 402510,
@@ -433,6 +433,14 @@
       "onboard_time": 1716684678,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370742,
+      "num": 207052,
+      "word": "台飞行员称台空军迟早垮掉",
+      "onboard_time": 1716706037,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 365313,
@@ -481,14 +489,6 @@
       "onboard_time": 1716633260,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341204,
-      "num": 207052,
-      "word": "台飞行员称台空军迟早垮掉",
-      "onboard_time": 1716706037,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 337979,
@@ -651,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245429,
+      "num": 204615,
+      "word": "东部战区发布4K版远箱火视频",
+      "onboard_time": 1716704117,
+      "rank": 48,
+      "category": "军事,国内时政"
+    },
+    {
       "raw_hot": 244210,
       "num": 244210,
       "word": "日本昔日童星因杀人焚尸被捕",
@@ -779,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209025,
+      "num": 170426,
+      "word": "为了稳定回县城工作的女孩都怎么样了",
+      "onboard_time": 1716706398,
+      "rank": 26,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 207721,
       "num": 177078,
       "word": "阿Sa你在用你的脸干什么",
@@ -804,19 +820,19 @@
     },
     {
       "raw_hot": 205231,
-      "num": 144827,
+      "num": 152262,
       "word": "林俊杰晒照感谢胡彦斌",
       "onboard_time": 1716707118,
       "rank": 25,
       "category": "演出"
     },
     {
-      "raw_hot": 204615,
-      "num": 204615,
-      "word": "东部战区发布4K版远箱火视频",
-      "onboard_time": 1716704117,
-      "rank": 48,
-      "category": "军事,国内时政"
+      "raw_hot": 205160,
+      "num": 169526,
+      "word": "严浩翔狼尾头",
+      "onboard_time": 1716708497,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 203545,
@@ -827,20 +843,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 202389,
-      "num": 143044,
-      "word": "为了稳定回县城工作的女孩都怎么样了",
-      "onboard_time": 1716706398,
-      "rank": 26,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 200600,
       "num": 200600,
       "word": "年轻人做事可以遵守八二原则吗",
       "onboard_time": 1716693138,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200308,
+      "num": 167296,
+      "word": "狐妖导演采访",
+      "onboard_time": 1716708497,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 198825,
@@ -931,6 +947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 178567,
+      "num": 165071,
+      "word": "俞飞鸿小丈夫 超前精神状态",
+      "onboard_time": 1716707238,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178138,
       "num": 178138,
       "word": "广东跨5城地铁开通",
@@ -939,20 +963,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177276,
+      "num": 177276,
+      "word": "才知道海底捞还有艺考",
+      "onboard_time": 1716704958,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174901,
       "num": 150889,
       "word": "桃花坞",
       "onboard_time": 1716697997,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174576,
-      "num": 138208,
-      "word": "俞飞鸿小丈夫 超前精神状态",
-      "onboard_time": 1716707238,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 174572,
@@ -1019,6 +1043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170599,
+      "num": 170599,
+      "word": "福宝和邻居熊隔窗交流",
+      "onboard_time": 1716707598,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169473,
       "num": 169473,
       "word": "六公主cos徐冬冬",
@@ -1067,6 +1099,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 164747,
+      "num": 164747,
+      "word": "黄宣 风向星座",
+      "onboard_time": 1716708497,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164387,
       "num": 164387,
       "word": "成佳林呢",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1716651920,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 159268,
-      "num": 159268,
-      "word": "才知道海底捞还有艺考",
-      "onboard_time": 1716704958,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 158622,
@@ -1275,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127496,
+      "num": 127496,
+      "word": "赵奕欢回应淘汰",
+      "onboard_time": 1716708379,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126504,
       "num": 126504,
       "word": "油电同价算不算伪概念",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1716630798,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125334,
+      "num": 125334,
+      "word": "易建联王勉亲子秀",
+      "onboard_time": 1716708019,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 124468,
@@ -1539,20 +1587,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 93463,
-      "num": 118032,
-      "word": "福宝和邻居熊隔窗交流",
-      "onboard_time": 1716707598,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91578,
       "num": 100469,
       "word": "原来沈月是李嘉琦的嫡长闺",
       "onboard_time": 1716638418,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90403,
+      "num": 127500,
+      "word": "有哪些外国人要研究一辈子的中国梗",
+      "onboard_time": 1716708559,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 87144,
@@ -1609,6 +1657,14 @@
       "onboard_time": 1716641119,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 72364,
+      "num": 103394,
+      "word": "传奇杯线下赛门票开售",
+      "onboard_time": 1716708318,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 65754,

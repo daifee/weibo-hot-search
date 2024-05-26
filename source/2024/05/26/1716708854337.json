@@ -1,0 +1,410 @@
+{
+  "runTime": 1716708854337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1150291,
+        "num": 1150291,
+        "word": "网恋是王力宏 奔现是孙楠",
+        "onboard_time": 1716703699,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546615,
+        "num": 546615,
+        "word": "英国一博物馆让游客随意触摸中国文物",
+        "onboard_time": 1716702859,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23778,
+        "num": 471964,
+        "word": "高质量发展调研行",
+        "onboard_time": 1716694698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925483,
+        "num": 459344,
+        "word": "陈赫冰桶打人事件受害者",
+        "onboard_time": 1716701119,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434325,
+        "num": 434325,
+        "word": "妇科疾病长期不治会增加患癌风险",
+        "onboard_time": 1716703699,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 340582,
+        "num": 340582,
+        "word": "叙利亚第一夫人确诊白血病后首发声",
+        "onboard_time": 1716693257,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 754233,
+        "num": 322828,
+        "word": "看得出他是五竹",
+        "onboard_time": 1716706459,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484370,
+        "num": 316280,
+        "word": "孙楠 补位",
+        "onboard_time": 1716695359,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208544,
+        "num": 208544,
+        "word": "张朝阳建议年轻人不要负债",
+        "onboard_time": 1716700399,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158655,
+        "num": 207934,
+        "word": "休假浙江人在贵州救了两条命",
+        "onboard_time": 1716707478,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 479720,
+        "num": 204713,
+        "word": "知情人士曝贺军翔涉性侵内幕",
+        "onboard_time": 1716704838,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432781,
+        "num": 200303,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395655,
+        "num": 197835,
+        "word": "棣月系",
+        "onboard_time": 1716703218,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370742,
+        "num": 194243,
+        "word": "台飞行员称台空军迟早垮掉",
+        "onboard_time": 1716706037,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 359696,
+        "num": 191180,
+        "word": "买最贵的票淋最大的雨",
+        "onboard_time": 1716697878,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 357046,
+        "num": 185131,
+        "word": "酱园弄 家暴",
+        "onboard_time": 1716688218,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245429,
+        "num": 183536,
+        "word": "东部战区发布4K版远箱火视频",
+        "onboard_time": 1716704117,
+        "rank": 16,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 181275,
+        "num": 181275,
+        "word": "兰州已经开始沸腾了",
+        "onboard_time": 1716694878,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 177276,
+        "num": 177276,
+        "word": "才知道海底捞还有艺考",
+        "onboard_time": 1716704958,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174556,
+        "num": 174556,
+        "word": "多地年薪60万至80万招聘聘任制公务员",
+        "onboard_time": 1716688157,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406246,
+        "num": 173024,
+        "word": "室友养了一只98年出生的猫",
+        "onboard_time": 1716701000,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303056,
+        "num": 172362,
+        "word": "陈奕迅称声带仍没有好转",
+        "onboard_time": 1716705258,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210169,
+        "num": 171777,
+        "word": "韩国买入狐妖小红娘竹业篇版权",
+        "onboard_time": 1716701838,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170599,
+        "num": 170599,
+        "word": "福宝和邻居熊隔窗交流",
+        "onboard_time": 1716707598,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209025,
+        "num": 170426,
+        "word": "为了稳定回县城工作的女孩都怎么样了",
+        "onboard_time": 1716706398,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 205160,
+        "num": 169526,
+        "word": "严浩翔狼尾头",
+        "onboard_time": 1716708497,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200857,
+        "num": 168129,
+        "word": "章子怡那股劲儿又回来了",
+        "onboard_time": 1716690498,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200308,
+        "num": 167296,
+        "word": "狐妖导演采访",
+        "onboard_time": 1716708497,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155587,
+        "num": 166584,
+        "word": "35岁失业后假装上班6个月",
+        "onboard_time": 1716688037,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178774,
+        "num": 166231,
+        "word": "林更新个人vs范丞丞个人战",
+        "onboard_time": 1716705019,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178567,
+        "num": 165071,
+        "word": "俞飞鸿小丈夫 超前精神状态",
+        "onboard_time": 1716707238,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164747,
+        "num": 164747,
+        "word": "黄宣 风向星座",
+        "onboard_time": 1716708497,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162377,
+        "num": 162377,
+        "word": "尿检小便池几次检测结果前后不一",
+        "onboard_time": 1716694938,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152262,
+        "num": 152262,
+        "word": "林俊杰晒照感谢胡彦斌",
+        "onboard_time": 1716707118,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116285,
+        "num": 146325,
+        "word": "这串烂葡萄竟是古人用玻璃吹的",
+        "onboard_time": 1716689539,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142290,
+        "num": 142290,
+        "word": "龚俊快被喷成水牛了",
+        "onboard_time": 1716703579,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134839,
+        "num": 134839,
+        "word": "庆余年 鸣龙少年",
+        "onboard_time": 1716697938,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98018,
+        "num": 127586,
+        "word": "养臭水正在许多学生间风靡",
+        "onboard_time": 1716693738,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95325,
+        "num": 127535,
+        "word": "人的牙齿天生就是偏黄的",
+        "onboard_time": 1716701298,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 90403,
+        "num": 127500,
+        "word": "有哪些外国人要研究一辈子的中国梗",
+        "onboard_time": 1716708559,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127496,
+        "num": 127496,
+        "word": "赵奕欢回应淘汰",
+        "onboard_time": 1716708379,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126107,
+        "num": 126107,
+        "word": "赛琳娜获得戛纳影后",
+        "onboard_time": 1716679153,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125334,
+        "num": 125334,
+        "word": "易建联王勉亲子秀",
+        "onboard_time": 1716708019,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118502,
+        "num": 118502,
+        "word": "邓超陈赫跳舞为鹿晗庆生",
+        "onboard_time": 1716704299,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103656,
+        "num": 103656,
+        "word": "天官赐福广播剧第二季",
+        "onboard_time": 1716706578,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84342,
+        "num": 103647,
+        "word": "Scout选手LPL征战八周年",
+        "onboard_time": 1716698178,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83490,
+        "num": 103535,
+        "word": "微信背景图",
+        "onboard_time": 1716680474,
+        "rank": 46,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 75252,
+        "num": 103505,
+        "word": "华为悬红200万全球求解难题",
+        "onboard_time": 1716690798,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72364,
+        "num": 103394,
+        "word": "传奇杯线下赛门票开售",
+        "onboard_time": 1716708318,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64150,
+        "num": 103327,
+        "word": "斜方肌是一块容易变形的肌肉",
+        "onboard_time": 1716700519,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为山东定好位指明方向#"
+    }
+  }
+}
