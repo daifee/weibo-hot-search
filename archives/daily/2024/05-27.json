@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716755707604,
+  "endTime": 1716758255918,
   "band_list": [
     {
       "raw_hot": 1024150,
@@ -387,20 +387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60652,
-      "num": 60652,
-      "word": "女子喂乌龟火龙果喜提炫彩神龟",
-      "onboard_time": 1716748751,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59364,
+      "raw_hot": 62927,
       "num": 35620,
       "word": "王冰冰回应尼格买提",
       "onboard_time": 1716751690,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61244,
+      "num": 61244,
+      "word": "女子喂乌龟火龙果喜提炫彩神龟",
+      "onboard_time": 1716748751,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52824,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18527,
+      "num": 18527,
+      "word": "韩国水果的价格",
+      "onboard_time": 1716756251,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 14038,
       "num": 168110,
       "word": "成都满城尽带绝绝紫",
@@ -475,7 +483,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 13326,
+      "raw_hot": 13415,
       "num": 18543,
       "word": "夏目友人帐好久不见",
       "onboard_time": 1716751812,
