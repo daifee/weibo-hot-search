@@ -1,0 +1,410 @@
+{
+  "runTime": 1716690840648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1884584,
+        "num": 1884584,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571208,
+        "num": 571208,
+        "word": "曝光境外间谍恐吓国内专家强迫合作",
+        "onboard_time": 1716685337,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28585,
+        "num": 468272,
+        "word": "三夏时节感受丰收之美",
+        "onboard_time": 1716643640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1345109,
+        "num": 466004,
+        "word": "酱园弄 家暴",
+        "onboard_time": 1716688218,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 435136,
+        "num": 435136,
+        "word": "微信背景图",
+        "onboard_time": 1716680474,
+        "rank": 4,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 421777,
+        "num": 421777,
+        "word": "令人失去沟通欲望的头像",
+        "onboard_time": 1716684377,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 899402,
+        "num": 415609,
+        "word": "周扬青卖闲置遇到学生直接送",
+        "onboard_time": 1716688098,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866071,
+        "num": 411948,
+        "word": "章子怡质问陈可辛",
+        "onboard_time": 1716681856,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 395913,
+        "num": 395913,
+        "word": "鸣潮",
+        "onboard_time": 1716690318,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54322,
+        "num": 389603,
+        "word": "河南情侣举行麦田婚礼收获限定浪漫",
+        "onboard_time": 1716688218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854340,
+        "num": 367998,
+        "word": "赛琳娜获得戛纳影后",
+        "onboard_time": 1716679153,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 747813,
+        "num": 354658,
+        "word": "多地年薪60万至80万招聘聘任制公务员",
+        "onboard_time": 1716688157,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524625,
+        "num": 344827,
+        "word": "酱园弄 盗摄",
+        "onboard_time": 1716681856,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 506077,
+        "num": 323806,
+        "word": "他退出TFBOYS后老了很多",
+        "onboard_time": 1716640278,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 475015,
+        "num": 300651,
+        "word": "35岁失业后假装上班6个月",
+        "onboard_time": 1716688037,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440130,
+        "num": 296956,
+        "word": "章子怡 顶级骨相",
+        "onboard_time": 1716687677,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281835,
+        "num": 281835,
+        "word": "央视曝光网课骗局套路",
+        "onboard_time": 1716684678,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280087,
+        "num": 280087,
+        "word": "北京市民网上买药支持医保支付",
+        "onboard_time": 1716688878,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242139,
+        "num": 242139,
+        "word": "福宝适应过渡期最新视频",
+        "onboard_time": 1716688518,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232266,
+        "num": 232266,
+        "word": "俄军队已控制乌约18%的土地",
+        "onboard_time": 1716682396,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 404296,
+        "num": 232060,
+        "word": "麻辣鸡被警方拘留",
+        "onboard_time": 1716679995,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352257,
+        "num": 229221,
+        "word": "亚当确实只参加一期节目",
+        "onboard_time": 1716690318,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345370,
+        "num": 228405,
+        "word": "去阿勒泰旅游的人膀胱快炸了",
+        "onboard_time": 1716666012,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 284874,
+        "num": 226272,
+        "word": "彭于晏的狗狗在戛纳获奖了",
+        "onboard_time": 1716684798,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280677,
+        "num": 223946,
+        "word": "月薪三千的工作有必要上吗",
+        "onboard_time": 1716652278,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265986,
+        "num": 222966,
+        "word": "章子怡那股劲儿又回来了",
+        "onboard_time": 1716690498,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262720,
+        "num": 220909,
+        "word": "向佐ins掉粉",
+        "onboard_time": 1716690678,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220298,
+        "num": 220298,
+        "word": "那英电话内容 破解",
+        "onboard_time": 1716644900,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185859,
+        "num": 185859,
+        "word": "17岁女生想纹男友名被老板劝离",
+        "onboard_time": 1716659955,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181121,
+        "num": 181121,
+        "word": "本科毕业的那一年究竟要经历什么",
+        "onboard_time": 1716687256,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176248,
+        "num": 176248,
+        "word": "越海杀器系列之远箱火",
+        "onboard_time": 1716690557,
+        "rank": 30,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 173135,
+        "num": 173135,
+        "word": "杨幂异域装",
+        "onboard_time": 1716683777,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167915,
+        "num": 167915,
+        "word": "凤凰传奇 豫淋军",
+        "onboard_time": 1716689358,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165819,
+        "num": 165819,
+        "word": "这串烂葡萄竟是古人用玻璃吹的",
+        "onboard_time": 1716689539,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165267,
+        "num": 165267,
+        "word": "苗苗恶补小时代被郭碧婷制止",
+        "onboard_time": 1716651920,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162895,
+        "num": 162895,
+        "word": "菏泽南站从爆火到冷清的12天",
+        "onboard_time": 1716682396,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161218,
+        "num": 161218,
+        "word": "六公主cos徐冬冬",
+        "onboard_time": 1716687798,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152114,
+        "num": 152114,
+        "word": "当搞笑女成为idol",
+        "onboard_time": 1716690260,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150651,
+        "num": 150651,
+        "word": "网友称31克黄金回收秒变15克",
+        "onboard_time": 1716681916,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149264,
+        "num": 149264,
+        "word": "萧敬腾 堂堂正正中国人",
+        "onboard_time": 1716681315,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145518,
+        "num": 145518,
+        "word": "范闲洪竹",
+        "onboard_time": 1716648620,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141449,
+        "num": 141449,
+        "word": "aespa概念照",
+        "onboard_time": 1716685158,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138556,
+        "num": 138556,
+        "word": "本届戛纳影后是四黄蛋",
+        "onboard_time": 1716679153,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135441,
+        "num": 135441,
+        "word": "每天吃豆制品的人身体有什么变化",
+        "onboard_time": 1716684317,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132347,
+        "num": 132347,
+        "word": "赵丽颖在人间杀青宴合照",
+        "onboard_time": 1716689958,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121757,
+        "num": 121757,
+        "word": "为什么韩国人这么痴迷大头贴",
+        "onboard_time": 1716689897,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118507,
+        "num": 118507,
+        "word": "有哪些工资不高但房价很高的城市",
+        "onboard_time": 1716683537,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 116334,
+        "num": 116334,
+        "word": "华为悬红200万全球求解难题",
+        "onboard_time": 1716690798,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115692,
+        "num": 115692,
+        "word": "薛之谦大连",
+        "onboard_time": 1716689658,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115561,
+        "num": 115561,
+        "word": "杨幂夏晚晴",
+        "onboard_time": 1716639438,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记山东行#"
+    }
+  }
+}
