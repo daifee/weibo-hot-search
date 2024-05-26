@@ -1,0 +1,410 @@
+{
+  "runTime": 1716740557519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1024150,
+        "num": 1024150,
+        "word": "网红刀小刀自曝重度抑郁",
+        "onboard_time": 1716735680,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 626825,
+        "num": 626825,
+        "word": "逍遥散人求婚",
+        "onboard_time": 1716726559,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 5122,
+        "num": 571471,
+        "word": "高质量发展调研行",
+        "onboard_time": 1716694698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528692,
+        "num": 528692,
+        "word": "庆余年2第15集22分55秒",
+        "onboard_time": 1716725118,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416854,
+        "num": 416854,
+        "word": "淡黄色是牙医公认的健康色号",
+        "onboard_time": 1716725717,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304409,
+        "num": 411491,
+        "word": "女子目睹网约司机半路接电话后暴哭",
+        "onboard_time": 1716726438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483014,
+        "num": 411353,
+        "word": "杨幂ins晒照",
+        "onboard_time": 1716734059,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406411,
+        "num": 406411,
+        "word": "张若昀是在预告第三季吗",
+        "onboard_time": 1716736759,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153636,
+        "num": 341232,
+        "word": "东部战区越海突击画面",
+        "onboard_time": 1716722238,
+        "rank": 8,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 97214,
+        "num": 334346,
+        "word": "在最贵的婚车上撒最甜的糖",
+        "onboard_time": 1716739937,
+        "rank": 9,
+        "category": "情感,剧集"
+      },
+      {
+        "raw_hot": 680569,
+        "num": 334077,
+        "word": "王妈公司0人参保",
+        "onboard_time": 1716729379,
+        "rank": 10,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 333550,
+        "num": 333550,
+        "word": "香港到处都能看华晨宇演唱会",
+        "onboard_time": 1716732199,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254117,
+        "num": 254117,
+        "word": "生命树 杨紫白宇",
+        "onboard_time": 1716735080,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250376,
+        "num": 250376,
+        "word": "陈奕迅主办方补偿方案",
+        "onboard_time": 1716736519,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215207,
+        "num": 215207,
+        "word": "洞洞鞋",
+        "onboard_time": 1716720259,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 214709,
+        "num": 214709,
+        "word": "白桃星座",
+        "onboard_time": 1716735619,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205097,
+        "num": 205097,
+        "word": "Uzi解脱了",
+        "onboard_time": 1716727819,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168020,
+        "num": 168020,
+        "word": "久酷",
+        "onboard_time": 1716733699,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111567,
+        "num": 167910,
+        "word": "梁靖崑男单决赛",
+        "onboard_time": 1716725478,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83088,
+        "num": 167681,
+        "word": "湖南桂阳放出41亿只虫子灭害虫",
+        "onboard_time": 1716739458,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543270,
+        "num": 167452,
+        "word": "突然感觉体制内挺适合不婚族",
+        "onboard_time": 1716730519,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289797,
+        "num": 166973,
+        "word": "一天熬过这4个发胖时刻就能瘦",
+        "onboard_time": 1716732679,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 224751,
+        "num": 166758,
+        "word": "夏天别乱穿洞洞鞋小心变得不幸",
+        "onboard_time": 1716735559,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208426,
+        "num": 166389,
+        "word": "庆余年 泪点",
+        "onboard_time": 1716734899,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181987,
+        "num": 166224,
+        "word": "邓超回应抱鹿晗那么紧",
+        "onboard_time": 1716735200,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179596,
+        "num": 166025,
+        "word": "韩红回应要上歌手",
+        "onboard_time": 1716720438,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170442,
+        "num": 165628,
+        "word": "王妈发声",
+        "onboard_time": 1716723557,
+        "rank": 26,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 165467,
+        "num": 165467,
+        "word": "林俊杰嘉宾",
+        "onboard_time": 1716734059,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155164,
+        "num": 155164,
+        "word": "庆余年群像",
+        "onboard_time": 1716734660,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70272,
+        "num": 151747,
+        "word": "F1",
+        "onboard_time": 1716730100,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149941,
+        "num": 149941,
+        "word": "亚当QQ音乐屠榜",
+        "onboard_time": 1716729200,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146590,
+        "num": 146590,
+        "word": "我向往自由 我要谈恋爱",
+        "onboard_time": 1716730999,
+        "rank": 31,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 144309,
+        "num": 144309,
+        "word": "范闲骑马",
+        "onboard_time": 1716736038,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137246,
+        "num": 137246,
+        "word": "建议这9类人少喝咖啡",
+        "onboard_time": 1716723858,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137123,
+        "num": 137123,
+        "word": "庆余年林相辞官 三狐对峙",
+        "onboard_time": 1716732320,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135983,
+        "num": 135983,
+        "word": "人民文娱评狐妖小红娘月红篇",
+        "onboard_time": 1716724279,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130114,
+        "num": 130114,
+        "word": "我爱你可我怎配靠近你",
+        "onboard_time": 1716737239,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129950,
+        "num": 129950,
+        "word": "杨幂雷佳音大鹏此沙合照",
+        "onboard_time": 1716738378,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119681,
+        "num": 119681,
+        "word": "中医建议肝不好做这六个动作",
+        "onboard_time": 1716727159,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52824,
+        "num": 116288,
+        "word": "马龙林高远3比1王楚钦梁靖崑",
+        "onboard_time": 1716727098,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128990,
+        "num": 116242,
+        "word": "庆余年23集",
+        "onboard_time": 1716726438,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116158,
+        "num": 116158,
+        "word": "林相大宝这段",
+        "onboard_time": 1716727998,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109054,
+        "num": 109054,
+        "word": "庆余年作者取名是没有瓶颈的吧",
+        "onboard_time": 1716728959,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105800,
+        "num": 105800,
+        "word": "清清 投票",
+        "onboard_time": 1716734840,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105129,
+        "num": 105129,
+        "word": "小狗狗偷偷跟着小主人上学",
+        "onboard_time": 1716736819,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98611,
+        "num": 98611,
+        "word": "亚当翻牌",
+        "onboard_time": 1716711378,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98376,
+        "num": 98376,
+        "word": "我保持单身的三大好习惯",
+        "onboard_time": 1716729919,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94603,
+        "num": 94603,
+        "word": "Uzi无缘老头杯淘汰赛",
+        "onboard_time": 1716734540,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36967,
+        "num": 89125,
+        "word": "国乒包揽太原赛五冠",
+        "onboard_time": 1716734300,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36096,
+        "num": 88084,
+        "word": "成都蓉城7比0青岛西海岸",
+        "onboard_time": 1716732980,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学中文在阿联酋已成为一种新风尚#"
+    }
+  }
+}

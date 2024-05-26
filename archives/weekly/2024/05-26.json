@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716737663367,
+  "endTime": 1716740557519,
   "band_list": [
     {
       "raw_hot": 2211762,
@@ -171,8 +171,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1020855,
-      "num": 1020855,
+      "raw_hot": 1024150,
+      "num": 1024150,
       "word": "网红刀小刀自曝重度抑郁",
       "onboard_time": 1716735680,
       "rank": 6,
@@ -755,6 +755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 406411,
+      "num": 406411,
+      "word": "张若昀是在预告第三季吗",
+      "onboard_time": 1716736759,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403840,
       "num": 403840,
       "word": "高铁晚点",
@@ -1192,14 +1200,6 @@
       "word": "庆余年第21集",
       "onboard_time": 1716651018,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 257366,
-      "num": 241573,
-      "word": "张若昀是在预告第三季吗",
-      "onboard_time": 1716736759,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -2395,6 +2395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129950,
+      "num": 129950,
+      "word": "杨幂雷佳音大鹏此沙合照",
+      "onboard_time": 1716738378,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127496,
       "num": 127496,
       "word": "赵奕欢回应淘汰",
@@ -2723,6 +2731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105129,
+      "num": 509902,
+      "word": "小狗狗偷偷跟着小主人上学",
+      "onboard_time": 1716736819,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104564,
       "num": 197512,
       "word": "国防部说台湾是中国的台湾",
@@ -2777,6 +2793,14 @@
       "onboard_time": 1716711558,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97214,
+      "num": 334346,
+      "word": "在最贵的婚车上撒最甜的糖",
+      "onboard_time": 1716739937,
+      "rank": 9,
+      "category": "情感,剧集"
     },
     {
       "raw_hot": 97127,
@@ -2857,6 +2881,14 @@
       "onboard_time": 1716727880,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 83088,
+      "num": 167681,
+      "word": "湖南桂阳放出41亿只虫子灭害虫",
+      "onboard_time": 1716739458,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81125,
@@ -3017,14 +3049,6 @@
       "onboard_time": 1716674712,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 50487,
-      "num": 509902,
-      "word": "小狗狗偷偷跟着小主人上学",
-      "onboard_time": 1716736819,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 42184,
