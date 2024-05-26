@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716690840648,
+  "endTime": 1716691428137,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1251,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1967473,
+      "num": 1967473,
+      "word": "黄宣 我结婚了啦那又怎样",
+      "onboard_time": 1716688157,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1962925,
       "num": 1962925,
       "word": "歌手揭榜",
@@ -1392,14 +1400,6 @@
       "word": "海来阿木请神请到了杨坤",
       "onboard_time": 1715952443,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1884584,
-      "num": 1884584,
-      "word": "黄宣 我结婚了啦那又怎样",
-      "onboard_time": 1716688157,
-      "rank": 0,
       "category": "综艺"
     },
     {
@@ -5043,6 +5043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1069903,
+      "num": 415609,
+      "word": "周扬青卖闲置遇到学生直接送",
+      "onboard_time": 1716688098,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1069308,
       "num": 406888,
       "word": "徐艺洋说吵架会被黄子韬拉黑",
@@ -6441,14 +6449,6 @@
       "onboard_time": 1715815155,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 899402,
-      "num": 415609,
-      "word": "周扬青卖闲置遇到学生直接送",
-      "onboard_time": 1716688098,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 899192,
@@ -8019,6 +8019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788764,
+      "num": 354658,
+      "word": "多地年薪60万至80万招聘聘任制公务员",
+      "onboard_time": 1716688157,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 788675,
       "num": 788675,
       "word": "张雪峰力挺老乡王曼昱",
@@ -8696,14 +8704,6 @@
       "word": "美国18岁女罪犯因颜值超高爆红",
       "onboard_time": 1715782458,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 747813,
-      "num": 354658,
-      "word": "多地年薪60万至80万招聘聘任制公务员",
-      "onboard_time": 1716688157,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -10443,6 +10443,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 667488,
+      "num": 312455,
+      "word": "向佐ins掉粉",
+      "onboard_time": 1716690678,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667471,
       "num": 667471,
       "word": "杭州取消限购有卖家跳涨三成",
@@ -11780,7 +11788,7 @@
     },
     {
       "raw_hot": 617261,
-      "num": 223946,
+      "num": 224045,
       "word": "月薪三千的工作有必要上吗",
       "onboard_time": 1716652278,
       "rank": 28,
@@ -13209,6 +13217,14 @@
       "onboard_time": 1715569818,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563402,
+      "num": 292531,
+      "word": "亚当确实只参加一期节目",
+      "onboard_time": 1716690318,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 562586,
@@ -15451,6 +15467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 496787,
+      "num": 300651,
+      "word": "35岁失业后假装上班6个月",
+      "onboard_time": 1716688037,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496741,
       "num": 496741,
       "word": "警方回应女孩武功山徒步遇难",
@@ -16345,14 +16369,6 @@
       "onboard_time": 1714979659,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 475015,
-      "num": 300651,
-      "word": "35岁失业后假装上班6个月",
-      "onboard_time": 1716688037,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 474604,
@@ -20987,6 +21003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383056,
+      "num": 222966,
+      "word": "章子怡那股劲儿又回来了",
+      "onboard_time": 1716690498,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 382900,
       "num": 382900,
       "word": "老乡鸡葱油鸡已加量20g",
@@ -22529,14 +22553,6 @@
       "onboard_time": 1715147301,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352257,
-      "num": 229221,
-      "word": "亚当确实只参加一期节目",
-      "onboard_time": 1716690318,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 352099,
@@ -28947,14 +28963,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 265986,
-      "num": 222966,
-      "word": "章子怡那股劲儿又回来了",
-      "onboard_time": 1716690498,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 265698,
       "num": 219355,
       "word": "电动牙刷真比普通牙刷好用吗",
@@ -29249,14 +29257,6 @@
       "onboard_time": 1715572159,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262720,
-      "num": 220909,
-      "word": "向佐ins掉粉",
-      "onboard_time": 1716690678,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 262639,
@@ -33635,6 +33635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224824,
+      "num": 224824,
+      "word": "华为悬红200万全球求解难题",
+      "onboard_time": 1716690798,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 224724,
       "num": 224724,
       "word": "NewJeans拼车",
@@ -33753,6 +33761,14 @@
       "onboard_time": 1715737698,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223759,
+      "num": 223759,
+      "word": "这串烂葡萄竟是古人用玻璃吹的",
+      "onboard_time": 1716689539,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223628,
@@ -35705,6 +35721,14 @@
       "onboard_time": 1715235079,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 211646,
+      "num": 211646,
+      "word": "宋轶录节目哭了",
+      "onboard_time": 1716691038,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 211561,
@@ -42507,6 +42531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187135,
+      "num": 187135,
+      "word": "当搞笑女成为idol",
+      "onboard_time": 1716690260,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187092,
       "num": 185846,
       "word": "时代少年团 天津",
@@ -42737,6 +42769,14 @@
       "onboard_time": 1715000538,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186245,
+      "num": 186245,
+      "word": "越海杀器系列之远箱火",
+      "onboard_time": 1716690557,
+      "rank": 30,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 186171,
@@ -43657,6 +43697,14 @@
       "onboard_time": 1715594360,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182380,
+      "num": 182380,
+      "word": "凤凰传奇 豫淋军",
+      "onboard_time": 1716689358,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 182377,
@@ -44985,14 +45033,6 @@
       "onboard_time": 1715581878,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176248,
-      "num": 176248,
-      "word": "越海杀器系列之远箱火",
-      "onboard_time": 1716690557,
-      "rank": 30,
-      "category": "军事,国内时政"
     },
     {
       "raw_hot": 176240,
@@ -47139,14 +47179,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 167915,
-      "num": 167915,
-      "word": "凤凰传奇 豫淋军",
-      "onboard_time": 1716689358,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 167895,
       "num": 167895,
       "word": "Drake豪宅发生枪击案",
@@ -47673,14 +47705,6 @@
       "onboard_time": 1715510541,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165819,
-      "num": 165819,
-      "word": "这串烂葡萄竟是古人用玻璃吹的",
-      "onboard_time": 1716689539,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165781,
@@ -51283,14 +51307,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 152114,
-      "num": 152114,
-      "word": "当搞笑女成为idol",
-      "onboard_time": 1716690260,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 152106,
       "num": 152106,
       "word": "水贝金饰加工费大跳水",
@@ -52203,6 +52219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148783,
+      "num": 148783,
+      "word": "为什么韩国人这么痴迷大头贴",
+      "onboard_time": 1716689897,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148740,
       "num": 148740,
       "word": "齐司礼 7推国宴",
@@ -52457,6 +52481,14 @@
       "onboard_time": 1714811898,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147731,
+      "num": 147731,
+      "word": "S人和N人穿搭的区别",
+      "onboard_time": 1716690858,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 147721,
@@ -56075,6 +56107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134254,
+      "num": 134254,
+      "word": "兰州马拉松",
+      "onboard_time": 1716690977,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 134219,
       "num": 134219,
       "word": "世界之外强强联动",
@@ -59323,14 +59363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121757,
-      "num": 121757,
-      "word": "为什么韩国人这么痴迷大头贴",
-      "onboard_time": 1716689897,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121719,
       "num": 121719,
       "word": "魏大勋关节戒",
@@ -60689,14 +60721,6 @@
       "onboard_time": 1716082276,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116334,
-      "num": 116334,
-      "word": "华为悬红200万全球求解难题",
-      "onboard_time": 1716690798,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 116301,
