@@ -1,0 +1,410 @@
+{
+  "runTime": 1716712475941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 877112,
+        "num": 877112,
+        "word": "网恋是王力宏 奔现是孙楠",
+        "onboard_time": 1716703699,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560419,
+        "num": 560419,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1716708978,
+        "rank": 1,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 18133,
+        "num": 470614,
+        "word": "传统文化闪耀文博会",
+        "onboard_time": 1716693738,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708554,
+        "num": 432807,
+        "word": "看得出他是五竹",
+        "onboard_time": 1716706459,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391056,
+        "num": 391056,
+        "word": "我想我会一直孤单",
+        "onboard_time": 1716709398,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337484,
+        "num": 337484,
+        "word": "英国一博物馆让游客随意触摸中国文物",
+        "onboard_time": 1716702859,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629665,
+        "num": 329475,
+        "word": "陈赫冰桶打人事件受害者",
+        "onboard_time": 1716701119,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481640,
+        "num": 326612,
+        "word": "知情人士曝贺军翔涉性侵内幕",
+        "onboard_time": 1716704838,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308725,
+        "num": 308725,
+        "word": "台飞行员称台空军迟早垮掉",
+        "onboard_time": 1716706037,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68716,
+        "num": 307444,
+        "word": "9个月的喀秋莎体重超50斤",
+        "onboard_time": 1716712097,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956298,
+        "num": 306502,
+        "word": "刘强东内部狼性训话流出",
+        "onboard_time": 1716709038,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 535077,
+        "num": 304556,
+        "word": "亚当翻牌",
+        "onboard_time": 1716711378,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419704,
+        "num": 300715,
+        "word": "刘强东回应严抓考勤",
+        "onboard_time": 1716710478,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 386143,
+        "num": 300199,
+        "word": "机场喊话迪丽热巴来拿登机牌",
+        "onboard_time": 1716711198,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376399,
+        "num": 298466,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244565,
+        "num": 295995,
+        "word": "福宝和邻居熊隔窗交流",
+        "onboard_time": 1716707598,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294520,
+        "num": 294520,
+        "word": "孙楠 补位",
+        "onboard_time": 1716695359,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276579,
+        "num": 276579,
+        "word": "男孩模仿和平精英从3楼跳下",
+        "onboard_time": 1716710838,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231017,
+        "num": 231017,
+        "word": "妇科疾病长期不治会增加患癌风险",
+        "onboard_time": 1716703699,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209314,
+        "num": 209314,
+        "word": "叙利亚第一夫人确诊白血病后首发声",
+        "onboard_time": 1716693257,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 350597,
+        "num": 209289,
+        "word": "室友养了一只98年出生的猫",
+        "onboard_time": 1716701000,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298821,
+        "num": 208691,
+        "word": "张艺凡这腿P都不敢这么P",
+        "onboard_time": 1716712097,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287042,
+        "num": 208091,
+        "word": "买最贵的票淋最大的雨",
+        "onboard_time": 1716697878,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254270,
+        "num": 207285,
+        "word": "酱园弄 家暴",
+        "onboard_time": 1716688218,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215869,
+        "num": 206830,
+        "word": "为了稳定回县城工作的女孩都怎么样了",
+        "onboard_time": 1716706398,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 206660,
+        "num": 206660,
+        "word": "aespa直拍",
+        "onboard_time": 1716711737,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184892,
+        "num": 184892,
+        "word": "杨幂靴子",
+        "onboard_time": 1716711979,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180288,
+        "num": 180288,
+        "word": "陈奕迅称声带仍没有好转",
+        "onboard_time": 1716705258,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175539,
+        "num": 175539,
+        "word": "棣月系",
+        "onboard_time": 1716703218,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174818,
+        "num": 174818,
+        "word": "王妈公司待遇",
+        "onboard_time": 1716711979,
+        "rank": 29,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 174397,
+        "num": 174397,
+        "word": "休假浙江人在贵州救了两条命",
+        "onboard_time": 1716707478,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 168133,
+        "num": 168133,
+        "word": "不敢在外面吃早饭了",
+        "onboard_time": 1716712038,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152951,
+        "num": 152951,
+        "word": "秦皇岛提醒近期不要食用海虹",
+        "onboard_time": 1716709698,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144169,
+        "num": 144169,
+        "word": "惠英红让李克勤去参加歌手",
+        "onboard_time": 1716709518,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132919,
+        "num": 132919,
+        "word": "束从轩喊话中国美食NO1",
+        "onboard_time": 1716712038,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129082,
+        "num": 129082,
+        "word": "黄宣 风向星座",
+        "onboard_time": 1716708497,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126969,
+        "num": 126969,
+        "word": "姐的妆造已经nextlevel了",
+        "onboard_time": 1716709698,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 123810,
+        "num": 123810,
+        "word": "为啥早餐店里的油条要两根面一起炸",
+        "onboard_time": 1716708978,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123271,
+        "num": 123271,
+        "word": "章子怡那股劲儿又回来了",
+        "onboard_time": 1716690498,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122604,
+        "num": 122604,
+        "word": "东北没有夜生活的原因找到了",
+        "onboard_time": 1716711497,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122082,
+        "num": 122082,
+        "word": "57岁大孙子拉着96岁奶奶炫耀五世同堂",
+        "onboard_time": 1716709398,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120713,
+        "num": 120713,
+        "word": "沈月拍了李嘉琦徐志胜",
+        "onboard_time": 1716709217,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119759,
+        "num": 119759,
+        "word": "劝你别加冰不是因为凉",
+        "onboard_time": 1716709757,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117402,
+        "num": 117402,
+        "word": "俞飞鸿小丈夫 超前精神状态",
+        "onboard_time": 1716707238,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110263,
+        "num": 110263,
+        "word": "尿检小便池几次检测结果前后不一",
+        "onboard_time": 1716694938,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107112,
+        "num": 107112,
+        "word": "周扬青说唱跳这种节目再也不接了",
+        "onboard_time": 1716712458,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105116,
+        "num": 105116,
+        "word": "韩国买入狐妖小红娘竹业篇版权",
+        "onboard_time": 1716701838,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104562,
+        "num": 104562,
+        "word": "赵奕欢回应淘汰",
+        "onboard_time": 1716708379,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104028,
+        "num": 104028,
+        "word": "林俊杰晒照感谢胡彦斌",
+        "onboard_time": 1716707118,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103861,
+        "num": 103861,
+        "word": "才知道海底捞还有艺考",
+        "onboard_time": 1716704958,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写中国式现代化山东篇章#"
+    }
+  }
+}

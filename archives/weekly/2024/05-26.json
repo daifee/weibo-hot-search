@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716711740261,
+  "endTime": 1716712475941,
   "band_list": [
     {
       "raw_hot": 1967473,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 956298,
+      "num": 352629,
+      "word": "刘强东内部狼性训话流出",
+      "onboard_time": 1716709038,
+      "rank": 10,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 873819,
       "num": 873819,
       "word": "陈奕迅含泪致歉",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 819818,
-      "num": 425927,
+      "num": 432807,
       "word": "看得出他是五竹",
       "onboard_time": 1716706459,
       "rank": 6,
@@ -153,14 +161,6 @@
       "onboard_time": 1716644900,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 762531,
-      "num": 352629,
-      "word": "刘强东内部狼性训话流出",
-      "onboard_time": 1716709038,
-      "rank": 10,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 730108,
@@ -257,6 +257,14 @@
       "onboard_time": 1716708978,
       "rank": 1,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 535077,
+      "num": 304556,
+      "word": "亚当翻牌",
+      "onboard_time": 1716711378,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 518913,
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419704,
+      "num": 347583,
+      "word": "刘强东回应严抓考勤",
+      "onboard_time": 1716710478,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 402510,
       "num": 402510,
       "word": "菏泽南站从爆火到冷清的12天",
@@ -457,6 +473,14 @@
       "onboard_time": 1716684678,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386143,
+      "num": 300199,
+      "word": "机场喊话迪丽热巴来拿登机牌",
+      "onboard_time": 1716711198,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 376163,
@@ -505,14 +529,6 @@
       "onboard_time": 1716705258,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 347583,
-      "num": 347583,
-      "word": "刘强东回应严抓考勤",
-      "onboard_time": 1716710478,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 345225,
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298821,
+      "num": 208691,
+      "word": "张艺凡这腿P都不敢这么P",
+      "onboard_time": 1716712097,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 292749,
       "num": 292749,
       "word": "凡希亚 李蠕蠕",
@@ -643,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276579,
+      "num": 276579,
+      "word": "男孩模仿和平精英从3楼跳下",
+      "onboard_time": 1716710838,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273992,
       "num": 194625,
       "word": "本届戛纳影后是四黄蛋",
@@ -657,14 +689,6 @@
       "onboard_time": 1716655157,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 266562,
-      "num": 266562,
-      "word": "机场喊话迪丽热巴来拿登机牌",
-      "onboard_time": 1716711198,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 264029,
@@ -763,14 +787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 224542,
-      "num": 139678,
-      "word": "亚当翻牌",
-      "onboard_time": 1716711378,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224437,
       "num": 224437,
       "word": "酱园弄",
@@ -819,7 +835,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214543,
+      "raw_hot": 215869,
       "num": 214543,
       "word": "为了稳定回县城工作的女孩都怎么样了",
       "onboard_time": 1716706398,
@@ -865,6 +881,14 @@
       "onboard_time": 1716698960,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206660,
+      "num": 206660,
+      "word": "aespa直拍",
+      "onboard_time": 1716711737,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 206221,
@@ -987,6 +1011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184892,
+      "num": 184892,
+      "word": "杨幂靴子",
+      "onboard_time": 1716711979,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183165,
       "num": 176571,
       "word": "李健唱了小时候总听的歌",
@@ -1019,14 +1051,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 180584,
-      "num": 227563,
-      "word": "男孩模仿和平精英从3楼跳下",
-      "onboard_time": 1716710838,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178567,
       "num": 165071,
       "word": "俞飞鸿小丈夫 超前精神状态",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1716697997,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174818,
+      "num": 174818,
+      "word": "王妈公司待遇",
+      "onboard_time": 1716711979,
+      "rank": 29,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 174572,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1716687798,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168133,
+      "num": 168133,
+      "word": "不敢在外面吃早饭了",
+      "onboard_time": 1716712038,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 167585,
@@ -1363,6 +1403,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 132919,
+      "num": 132919,
+      "word": "束从轩喊话中国美食NO1",
+      "onboard_time": 1716712038,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132681,
       "num": 132681,
       "word": "建议每天都很困的去验血查一下",
@@ -1467,11 +1515,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122604,
+      "num": 122604,
+      "word": "东北没有夜生活的原因找到了",
+      "onboard_time": 1716711497,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122110,
       "num": 122110,
       "word": "旅客胸背部藏987.4克穿山甲鳞片被查",
       "onboard_time": 1716647480,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122082,
+      "num": 122082,
+      "word": "57岁大孙子拉着96岁奶奶炫耀五世同堂",
+      "onboard_time": 1716709398,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1513,6 +1577,14 @@
       "onboard_time": 1716682396,
       "rank": 44,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 119759,
+      "num": 119759,
+      "word": "劝你别加冰不是因为凉",
+      "onboard_time": 1716709757,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119612,
@@ -1603,28 +1675,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110240,
-      "num": 110240,
-      "word": "57岁大孙子拉着96岁奶奶炫耀五世同堂",
-      "onboard_time": 1716709398,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110214,
       "num": 110214,
       "word": "景泰蓝出炉变色神奇又惊艳",
       "onboard_time": 1716685998,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109373,
-      "num": 109373,
-      "word": "劝你别加冰不是因为凉",
-      "onboard_time": 1716709757,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 108129,
@@ -1641,6 +1697,14 @@
       "onboard_time": 1716685757,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107112,
+      "num": 107112,
+      "word": "周扬青说唱跳这种节目再也不接了",
+      "onboard_time": 1716712458,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 106922,
@@ -1681,14 +1745,6 @@
       "onboard_time": 1716702258,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100498,
-      "num": 100498,
-      "word": "东北没有夜生活的原因找到了",
-      "onboard_time": 1716711497,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 99125,
@@ -1801,6 +1857,14 @@
       "onboard_time": 1716708318,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68716,
+      "num": 307444,
+      "word": "9个月的喀秋莎体重超50斤",
+      "onboard_time": 1716712097,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65754,
@@ -1932,7 +1996,7 @@
     },
     {
       "raw_hot": 25811,
-      "num": 454952,
+      "num": 470614,
       "word": "传统文化闪耀文博会",
       "onboard_time": 1716693738,
       "rank": 2,
