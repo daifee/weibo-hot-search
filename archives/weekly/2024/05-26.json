@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716744842625,
+  "endTime": 1716747776079,
   "band_list": [
     {
       "raw_hot": 2211762,
@@ -3059,12 +3059,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 46752,
+      "num": 46752,
+      "word": "杨幂魏哲鸣对戏口误",
+      "onboard_time": 1716746414,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42184,
       "num": 45652,
       "word": "克罗斯告别伯纳乌",
       "onboard_time": 1716679514,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41499,
+      "num": 41499,
+      "word": "林婉儿跪别父亲",
+      "onboard_time": 1716747438,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 41044,

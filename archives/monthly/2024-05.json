@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716744842625,
+  "endTime": 1716747776079,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -70227,6 +70227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 46752,
+      "num": 46752,
+      "word": "杨幂魏哲鸣对戏口误",
+      "onboard_time": 1716746414,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46697,
       "num": 645034,
       "word": "香港警察晒警犬喊话警犬福仔",
@@ -70713,6 +70721,14 @@
       "onboard_time": 1716317711,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 41499,
+      "num": 41499,
+      "word": "林婉儿跪别父亲",
+      "onboard_time": 1716747438,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 41426,
