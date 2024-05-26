@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716736794292,
+  "endTime": 1716737663367,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -5467,6 +5467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1020855,
+      "num": 1020855,
+      "word": "网红刀小刀自曝重度抑郁",
+      "onboard_time": 1716735680,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1019101,
       "num": 1019101,
       "word": "歌手奔跑吧收视率第一",
@@ -9457,14 +9465,6 @@
       "onboard_time": 1716211520,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 717485,
-      "num": 682703,
-      "word": "网红刀小刀自曝重度抑郁",
-      "onboard_time": 1716735680,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 716081,
@@ -18227,6 +18227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444069,
+      "num": 291622,
+      "word": "一天熬过这4个发胖时刻就能瘦",
+      "onboard_time": 1716732679,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 443371,
       "num": 443371,
       "word": "江西丰城一船舶4人窒息死亡",
@@ -22795,14 +22803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358393,
-      "num": 291622,
-      "word": "一天熬过这4个发胖时刻就能瘦",
-      "onboard_time": 1716732679,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 358131,
       "num": 358131,
       "word": "红白喜事民间队碰到正规军",
@@ -22921,6 +22921,14 @@
       "onboard_time": 1715740699,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355817,
+      "num": 355817,
+      "word": "陈奕迅主办方补偿方案",
+      "onboard_time": 1716736519,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 355693,
@@ -30563,6 +30571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257366,
+      "num": 241573,
+      "word": "张若昀是在预告第三季吗",
+      "onboard_time": 1716736759,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257315,
       "num": 257315,
       "word": "朱丹看Lucky和妈妈对暗号哭了",
@@ -30881,14 +30897,6 @@
       "onboard_time": 1714957459,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 254407,
-      "num": 254407,
-      "word": "陈奕迅主办方补偿方案",
-      "onboard_time": 1716736519,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 254381,
@@ -32465,6 +32473,14 @@
       "onboard_time": 1714636997,
       "rank": 23,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 239997,
+      "num": 254241,
+      "word": "夏天别乱穿洞洞鞋小心变得不幸",
+      "onboard_time": 1716735559,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239908,
@@ -36969,14 +36985,6 @@
       "onboard_time": 1716693377,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209769,
-      "num": 254241,
-      "word": "夏天别乱穿洞洞鞋小心变得不幸",
-      "onboard_time": 1716735559,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209725,
@@ -47059,6 +47067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173233,
+      "num": 173233,
+      "word": "我爱你可我怎配靠近你",
+      "onboard_time": 1716737239,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173222,
       "num": 213449,
       "word": "胡海泉证明歌手是直播的理由",
@@ -51585,14 +51601,6 @@
       "onboard_time": 1714654999,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155958,
-      "num": 155958,
-      "word": "张若昀是在预告第三季吗",
-      "onboard_time": 1716736759,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 155957,
@@ -69889,6 +69897,14 @@
       "onboard_time": 1715317282,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50487,
+      "num": 509902,
+      "word": "小狗狗偷偷跟着小主人上学",
+      "onboard_time": 1716736819,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 50478,

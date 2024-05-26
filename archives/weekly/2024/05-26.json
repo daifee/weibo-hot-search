@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716736794292,
+  "endTime": 1716737663367,
   "band_list": [
     {
       "raw_hot": 2211762,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1020855,
+      "num": 1020855,
+      "word": "网红刀小刀自曝重度抑郁",
+      "onboard_time": 1716735680,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 962170,
       "num": 422159,
       "word": "酱园弄 盗摄",
@@ -305,14 +313,6 @@
       "onboard_time": 1716716418,
       "rank": 10,
       "category": "教育"
-    },
-    {
-      "raw_hot": 717485,
-      "num": 682703,
-      "word": "网红刀小刀自曝重度抑郁",
-      "onboard_time": 1716735680,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 709431,
@@ -659,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 444069,
+      "num": 291622,
+      "word": "一天熬过这4个发胖时刻就能瘦",
+      "onboard_time": 1716732679,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 440130,
       "num": 296956,
       "word": "章子怡 顶级骨相",
@@ -859,12 +867,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 358393,
-      "num": 291622,
-      "word": "一天熬过这4个发胖时刻就能瘦",
-      "onboard_time": 1716732679,
-      "rank": 38,
-      "category": "运动健身"
+      "raw_hot": 357301,
+      "num": 357301,
+      "word": "白桃星座",
+      "onboard_time": 1716735619,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 355817,
+      "num": 355817,
+      "word": "陈奕迅主办方补偿方案",
+      "onboard_time": 1716736519,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 351140,
@@ -889,14 +905,6 @@
       "onboard_time": 1716633260,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343600,
-      "num": 343600,
-      "word": "白桃星座",
-      "onboard_time": 1716735619,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 343488,
@@ -1187,19 +1195,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257366,
+      "num": 241573,
+      "word": "张若昀是在预告第三季吗",
+      "onboard_time": 1716736759,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256603,
       "num": 256603,
       "word": "林俊杰嘉宾",
       "onboard_time": 1716734059,
       "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 254407,
-      "num": 254407,
-      "word": "陈奕迅主办方补偿方案",
-      "onboard_time": 1716736519,
-      "rank": 27,
       "category": "演出"
     },
     {
@@ -1273,6 +1281,14 @@
       "onboard_time": 1716721581,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239997,
+      "num": 254241,
+      "word": "夏天别乱穿洞洞鞋小心变得不幸",
+      "onboard_time": 1716735559,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236862,
@@ -1465,14 +1481,6 @@
       "onboard_time": 1716693377,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209769,
-      "num": 254241,
-      "word": "夏天别乱穿洞洞鞋小心变得不幸",
-      "onboard_time": 1716735559,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209414,
@@ -1867,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173233,
+      "num": 173233,
+      "word": "我爱你可我怎配靠近你",
+      "onboard_time": 1716737239,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172787,
       "num": 205802,
       "word": "越海杀器量大管饱",
@@ -2073,14 +2089,6 @@
       "onboard_time": 1716701718,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 155958,
-      "num": 155958,
-      "word": "张若昀是在预告第三季吗",
-      "onboard_time": 1716736759,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 154642,
@@ -3009,6 +3017,14 @@
       "onboard_time": 1716674712,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 50487,
+      "num": 509902,
+      "word": "小狗狗偷偷跟着小主人上学",
+      "onboard_time": 1716736819,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 42184,
