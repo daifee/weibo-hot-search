@@ -1,0 +1,410 @@
+{
+  "runTime": 1716705373065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1139826,
+        "num": 1139826,
+        "word": "陈赫冰桶打人事件受害者",
+        "onboard_time": 1716701119,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548132,
+        "num": 548132,
+        "word": "英国一博物馆让游客随意触摸中国文物",
+        "onboard_time": 1716702859,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29572,
+        "num": 432502,
+        "word": "高质量发展调研行",
+        "onboard_time": 1716694698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788281,
+        "num": 412730,
+        "word": "网恋是王力宏 奔现是孙楠",
+        "onboard_time": 1716703699,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349014,
+        "num": 349014,
+        "word": "叙利亚第一夫人确诊白血病后首发声",
+        "onboard_time": 1716693257,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 323990,
+        "num": 323990,
+        "word": "张朝阳建议年轻人不要负债",
+        "onboard_time": 1716700399,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 463690,
+        "num": 271050,
+        "word": "酱园弄 家暴",
+        "onboard_time": 1716688218,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210678,
+        "num": 210678,
+        "word": "兰州已经开始沸腾了",
+        "onboard_time": 1716694878,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 745096,
+        "num": 209149,
+        "word": "孙楠 补位",
+        "onboard_time": 1716695359,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30953,
+        "num": 205459,
+        "word": "被南京这片绣球花海浪漫到了",
+        "onboard_time": 1716704117,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 677157,
+        "num": 204436,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444191,
+        "num": 202802,
+        "word": "棣月系",
+        "onboard_time": 1716703218,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411928,
+        "num": 199401,
+        "word": "韩国买入狐妖小红娘竹业篇版权",
+        "onboard_time": 1716701838,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402537,
+        "num": 196644,
+        "word": "买最贵的票淋最大的雨",
+        "onboard_time": 1716697878,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 333053,
+        "num": 194234,
+        "word": "妇科疾病长期不治会增加患癌风险",
+        "onboard_time": 1716703699,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239951,
+        "num": 191733,
+        "word": "多地年薪60万至80万招聘聘任制公务员",
+        "onboard_time": 1716688157,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189745,
+        "num": 189745,
+        "word": "35岁失业后假装上班6个月",
+        "onboard_time": 1716688037,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145674,
+        "num": 189480,
+        "word": "华为悬红200万全球求解难题",
+        "onboard_time": 1716690798,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137097,
+        "num": 188080,
+        "word": "Scout选手LPL征战八周年",
+        "onboard_time": 1716698178,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135097,
+        "num": 186540,
+        "word": "软考",
+        "onboard_time": 1716701718,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 680736,
+        "num": 186279,
+        "word": "室友养了一只98年出生的猫",
+        "onboard_time": 1716701000,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289951,
+        "num": 185058,
+        "word": "章子怡那股劲儿又回来了",
+        "onboard_time": 1716690498,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250690,
+        "num": 183758,
+        "word": "龚俊快被喷成水牛了",
+        "onboard_time": 1716703579,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244274,
+        "num": 183096,
+        "word": "周扬青卖闲置遇到学生直接送",
+        "onboard_time": 1716688098,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235189,
+        "num": 181145,
+        "word": "林更新个人vs范丞丞个人战",
+        "onboard_time": 1716705019,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217504,
+        "num": 180887,
+        "word": "赛琳娜获得戛纳影后",
+        "onboard_time": 1716679153,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205360,
+        "num": 179900,
+        "word": "庆余年 鸣龙少年",
+        "onboard_time": 1716697938,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178870,
+        "num": 178870,
+        "word": "尿检小便池几次检测结果前后不一",
+        "onboard_time": 1716694938,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170255,
+        "num": 170255,
+        "word": "这串烂葡萄竟是古人用玻璃吹的",
+        "onboard_time": 1716689539,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169183,
+        "num": 169183,
+        "word": "陈奕迅称声带仍没有好转",
+        "onboard_time": 1716705258,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297738,
+        "num": 168602,
+        "word": "知情人士曝贺军翔涉性侵内幕",
+        "onboard_time": 1716704838,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163192,
+        "num": 163192,
+        "word": "人的牙齿天生就是偏黄的",
+        "onboard_time": 1716701298,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 159255,
+        "num": 159255,
+        "word": "这种长寿菜现在吃正好",
+        "onboard_time": 1716703038,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158622,
+        "num": 158622,
+        "word": "汪峰成都入场券",
+        "onboard_time": 1716704477,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150404,
+        "num": 150404,
+        "word": "他退出TFBOYS后老了很多",
+        "onboard_time": 1716640278,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147208,
+        "num": 147208,
+        "word": "章子怡 顶级骨相",
+        "onboard_time": 1716687677,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142481,
+        "num": 142481,
+        "word": "邓超陈赫跳舞为鹿晗庆生",
+        "onboard_time": 1716704299,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127421,
+        "num": 127421,
+        "word": "养臭水正在许多学生间风靡",
+        "onboard_time": 1716693738,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126633,
+        "num": 126633,
+        "word": "微信背景图",
+        "onboard_time": 1716680474,
+        "rank": 38,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 121825,
+        "num": 121825,
+        "word": "斜方肌是一块容易变形的肌肉",
+        "onboard_time": 1716700519,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 135579,
+        "num": 121702,
+        "word": "亚当确实只参加一期节目",
+        "onboard_time": 1716690318,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131431,
+        "num": 121625,
+        "word": "范闲清汤大老爷",
+        "onboard_time": 1716701898,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122580,
+        "num": 121229,
+        "word": "章子怡质问陈可辛",
+        "onboard_time": 1716681856,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120510,
+        "num": 120510,
+        "word": "林依轮 穿衣是自由的",
+        "onboard_time": 1716705019,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115672,
+        "num": 115672,
+        "word": "黄宣解释光头不是秃头",
+        "onboard_time": 1716691458,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102571,
+        "num": 102571,
+        "word": "18岁收到了来自父母送出的月亮",
+        "onboard_time": 1716702258,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101674,
+        "num": 101674,
+        "word": "李健唱了小时候总听的歌",
+        "onboard_time": 1716699139,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90798,
+        "num": 101658,
+        "word": "才知道海底捞还有艺考",
+        "onboard_time": 1716704958,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88192,
+        "num": 101472,
+        "word": "东部战区发布4K版远箱火视频",
+        "onboard_time": 1716704117,
+        "rank": 48,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 86020,
+        "num": 101285,
+        "word": "这只是防不小心又不是防故意的",
+        "onboard_time": 1716704778,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写中国式现代化山东篇章#"
+    }
+  }
+}
