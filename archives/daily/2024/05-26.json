@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716701670513,
+  "endTime": 1716704646550,
   "band_list": [
     {
       "raw_hot": 1967473,
@@ -33,6 +33,14 @@
       "onboard_time": 1716681856,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1410588,
+      "num": 1410588,
+      "word": "陈赫冰桶打人事件受害者",
+      "onboard_time": 1716701119,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1345109,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 574566,
-      "num": 245934,
+      "num": 291132,
       "word": "买最贵的票淋最大的雨",
       "onboard_time": 1716697878,
       "rank": 29,
@@ -259,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490059,
+      "num": 238899,
+      "word": "网恋是王力宏 奔现是孙楠",
+      "onboard_time": 1716703699,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488710,
       "num": 401967,
       "word": "彭于晏的狗狗在戛纳获奖了",
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457901,
+      "num": 236219,
+      "word": "韩国买入狐妖小红娘竹业篇版权",
+      "onboard_time": 1716701838,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456918,
       "num": 223759,
       "word": "这串烂葡萄竟是古人用玻璃吹的",
@@ -299,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445457,
-      "num": 177686,
-      "word": "陈赫冰桶打人事件受害者",
-      "onboard_time": 1716701119,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 441735,
+      "num": 441735,
+      "word": "英国一博物馆让游客随意触摸中国文物",
+      "onboard_time": 1716702859,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440130,
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368612,
+      "num": 156457,
+      "word": "棣月系",
+      "onboard_time": 1716703218,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365313,
       "num": 211646,
       "word": "宋轶录节目哭了",
@@ -393,6 +425,14 @@
       "onboard_time": 1716644541,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 363827,
+      "num": 363827,
+      "word": "张朝阳建议年轻人不要负债",
+      "onboard_time": 1716700399,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 359643,
@@ -563,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244934,
+      "num": 153190,
+      "word": "龚俊快被喷成水牛了",
+      "onboard_time": 1716703579,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244210,
       "num": 244210,
       "word": "日本昔日童星因杀人焚尸被捕",
@@ -641,6 +689,14 @@
       "onboard_time": 1716651920,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221524,
+      "num": 221524,
+      "word": "妇科疾病长期不治会增加患癌风险",
+      "onboard_time": 1716703699,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 220339,
@@ -737,6 +793,14 @@
       "onboard_time": 1716696377,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192218,
+      "num": 149879,
+      "word": "这种长寿菜现在吃正好",
+      "onboard_time": 1716703038,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 190801,
@@ -939,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161977,
+      "num": 146954,
+      "word": "人的牙齿天生就是偏黄的",
+      "onboard_time": 1716701298,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 160421,
       "num": 160421,
       "word": "华晨宇金长发",
@@ -953,6 +1025,14 @@
       "onboard_time": 1716623057,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157622,
+      "num": 157622,
+      "word": "软考",
+      "onboard_time": 1716701718,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 154642,
@@ -979,6 +1059,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 146590,
+      "num": 146590,
+      "word": "邓超陈赫跳舞为鹿晗庆生",
+      "onboard_time": 1716704299,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144835,
       "num": 144835,
       "word": "狗阵成戛纳唯一获奖华语电影",
@@ -1003,6 +1091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 140880,
+      "num": 140880,
+      "word": "范闲清汤大老爷",
+      "onboard_time": 1716701898,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140526,
       "num": 101354,
       "word": "张若昀网感",
@@ -1017,14 +1113,6 @@
       "onboard_time": 1716645441,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139367,
-      "num": 155195,
-      "word": "张朝阳建议年轻人不要负债",
-      "onboard_time": 1716700399,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 138524,
@@ -1091,14 +1179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 127152,
-      "num": 136117,
-      "word": "人的牙齿天生就是偏黄的",
-      "onboard_time": 1716701298,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 126504,
       "num": 126504,
       "word": "油电同价算不算伪概念",
@@ -1155,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120287,
+      "num": 120287,
+      "word": "戚薇睡醒妆",
+      "onboard_time": 1716702379,
+      "rank": 41,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 119935,
       "num": 119935,
       "word": "中国航天员在太空绕地球跑步",
@@ -1175,6 +1263,14 @@
       "num": 119469,
       "word": "陈奕迅发文",
       "onboard_time": 1716640039,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 119016,
+      "num": 119016,
+      "word": "汪峰成都入场券",
+      "onboard_time": 1716704477,
       "rank": 44,
       "category": "演出"
     },
@@ -1323,6 +1419,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93902,
+      "num": 98436,
+      "word": "兰马",
+      "onboard_time": 1716703638,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 92719,
+      "num": 98397,
+      "word": "18岁收到了来自父母送出的月亮",
+      "onboard_time": 1716702258,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91578,
       "num": 100469,
       "word": "原来沈月是李嘉琦的嫡长闺",
@@ -1457,6 +1569,14 @@
       "onboard_time": 1716694698,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35833,
+      "num": 249217,
+      "word": "被南京这片绣球花海浪漫到了",
+      "onboard_time": 1716704117,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 30512,

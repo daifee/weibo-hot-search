@@ -1,0 +1,410 @@
+{
+  "runTime": 1716704646550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1410588,
+        "num": 1410588,
+        "word": "陈赫冰桶打人事件受害者",
+        "onboard_time": 1716701119,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461375,
+        "num": 461375,
+        "word": "叙利亚第一夫人确诊白血病后首发声",
+        "onboard_time": 1716693257,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29993,
+        "num": 443544,
+        "word": "高质量发展调研行",
+        "onboard_time": 1716694698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895810,
+        "num": 443533,
+        "word": "孙楠 补位",
+        "onboard_time": 1716695359,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441735,
+        "num": 441735,
+        "word": "英国一博物馆让游客随意触摸中国文物",
+        "onboard_time": 1716702859,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363827,
+        "num": 363827,
+        "word": "张朝阳建议年轻人不要负债",
+        "onboard_time": 1716700399,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 537633,
+        "num": 322119,
+        "word": "酱园弄 家暴",
+        "onboard_time": 1716688218,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 490778,
+        "num": 291132,
+        "word": "买最贵的票淋最大的雨",
+        "onboard_time": 1716697878,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 252564,
+        "num": 252564,
+        "word": "兰州已经开始沸腾了",
+        "onboard_time": 1716694878,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 35833,
+        "num": 249217,
+        "word": "被南京这片绣球花海浪漫到了",
+        "onboard_time": 1716704117,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 737982,
+        "num": 242537,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490059,
+        "num": 238899,
+        "word": "网恋是王力宏 奔现是孙楠",
+        "onboard_time": 1716703699,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457901,
+        "num": 236219,
+        "word": "韩国买入狐妖小红娘竹业篇版权",
+        "onboard_time": 1716701838,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371075,
+        "num": 227712,
+        "word": "章子怡那股劲儿又回来了",
+        "onboard_time": 1716690498,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253441,
+        "num": 226164,
+        "word": "多地年薪60万至80万招聘聘任制公务员",
+        "onboard_time": 1716688157,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221524,
+        "num": 221524,
+        "word": "妇科疾病长期不治会增加患癌风险",
+        "onboard_time": 1716703699,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220629,
+        "num": 220629,
+        "word": "35岁失业后假装上班6个月",
+        "onboard_time": 1716688037,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179934,
+        "num": 179934,
+        "word": "华为悬红200万全球求解难题",
+        "onboard_time": 1716690798,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158401,
+        "num": 158401,
+        "word": "Scout选手LPL征战八周年",
+        "onboard_time": 1716698178,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157622,
+        "num": 157622,
+        "word": "软考",
+        "onboard_time": 1716701718,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 687456,
+        "num": 156916,
+        "word": "室友养了一只98年出生的猫",
+        "onboard_time": 1716701000,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368612,
+        "num": 156457,
+        "word": "棣月系",
+        "onboard_time": 1716703218,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284759,
+        "num": 155435,
+        "word": "周扬青卖闲置遇到学生直接送",
+        "onboard_time": 1716688098,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246677,
+        "num": 154172,
+        "word": "赛琳娜获得戛纳影后",
+        "onboard_time": 1716679153,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244934,
+        "num": 153190,
+        "word": "龚俊快被喷成水牛了",
+        "onboard_time": 1716703579,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140896,
+        "num": 152184,
+        "word": "微信背景图",
+        "onboard_time": 1716680474,
+        "rank": 25,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 231160,
+        "num": 151377,
+        "word": "庆余年 鸣龙少年",
+        "onboard_time": 1716697938,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194722,
+        "num": 150536,
+        "word": "尿检小便池几次检测结果前后不一",
+        "onboard_time": 1716694938,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192218,
+        "num": 149879,
+        "word": "这种长寿菜现在吃正好",
+        "onboard_time": 1716703038,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165819,
+        "num": 148626,
+        "word": "这串烂葡萄竟是古人用玻璃吹的",
+        "onboard_time": 1716689539,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165883,
+        "num": 147912,
+        "word": "他退出TFBOYS后老了很多",
+        "onboard_time": 1716640278,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161977,
+        "num": 146954,
+        "word": "人的牙齿天生就是偏黄的",
+        "onboard_time": 1716701298,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 146590,
+        "num": 146590,
+        "word": "邓超陈赫跳舞为鹿晗庆生",
+        "onboard_time": 1716704299,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146336,
+        "num": 146336,
+        "word": "亚当确实只参加一期节目",
+        "onboard_time": 1716690318,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144228,
+        "num": 144228,
+        "word": "章子怡 顶级骨相",
+        "onboard_time": 1716687677,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140880,
+        "num": 140880,
+        "word": "范闲清汤大老爷",
+        "onboard_time": 1716701898,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128017,
+        "num": 128017,
+        "word": "向佐回应掉粉",
+        "onboard_time": 1716698960,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122552,
+        "num": 122552,
+        "word": "养臭水正在许多学生间风靡",
+        "onboard_time": 1716693738,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112570,
+        "num": 121214,
+        "word": "斜方肌是一块容易变形的肌肉",
+        "onboard_time": 1716700519,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141172,
+        "num": 121062,
+        "word": "章子怡质问陈可辛",
+        "onboard_time": 1716681856,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125639,
+        "num": 120870,
+        "word": "李健唱了小时候总听的歌",
+        "onboard_time": 1716699139,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120287,
+        "num": 120287,
+        "word": "戚薇睡醒妆",
+        "onboard_time": 1716702379,
+        "rank": 41,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 64340,
+        "num": 119806,
+        "word": "田径运动员为去巴黎当街battle",
+        "onboard_time": 1716699740,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119741,
+        "num": 119741,
+        "word": "黄宣解释光头不是秃头",
+        "onboard_time": 1716691458,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119016,
+        "num": 119016,
+        "word": "汪峰成都入场券",
+        "onboard_time": 1716704477,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113963,
+        "num": 113963,
+        "word": "张馨予建模脸",
+        "onboard_time": 1716699979,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111328,
+        "num": 111328,
+        "word": "向佐ins掉粉",
+        "onboard_time": 1716690678,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98483,
+        "num": 98483,
+        "word": "曝光境外间谍恐吓国内专家强迫合作",
+        "onboard_time": 1716685337,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93902,
+        "num": 98436,
+        "word": "兰马",
+        "onboard_time": 1716703638,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 92719,
+        "num": 98397,
+        "word": "18岁收到了来自父母送出的月亮",
+        "onboard_time": 1716702258,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写中国式现代化山东篇章#"
+    }
+  }
+}

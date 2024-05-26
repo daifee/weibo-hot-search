@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/26 13:34:30
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/26 14:24:06
 </p>
 </blockquote>
 <p>
@@ -2153,6 +2153,12 @@ HPV疫苗价格大跳水（热度：1456307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
 金价（热度：1411302）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%86%B0%E6%A1%B6%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%E5%8F%97%E5%AE%B3%E8%80%85%23" target="weibo">
+陈赫冰桶打人事件受害者（热度：1410588）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ IVE MV画面（热度：804062）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E6%B8%90%E5%B1%82%20%E5%A6%88%E4%BD%A0%E5%8F%AF%E7%9C%9F%E7%89%9B%23" target="weibo">
 银渐层 妈你可真牛（热度：791948）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23G2%E4%B8%8D%E6%94%B6%E5%BE%92%23" target="weibo">
-G2不收徒（热度：791904）
 </a>
 </li>
 
