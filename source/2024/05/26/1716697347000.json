@@ -1,0 +1,410 @@
+{
+  "runTime": 1716697347000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1793417,
+        "num": 1793417,
+        "word": "孙楠 补位",
+        "onboard_time": 1716695359,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1229768,
+        "num": 1229768,
+        "word": "叙利亚第一夫人确诊白血病后首发声",
+        "onboard_time": 1716693257,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37346,
+        "num": 602815,
+        "word": "高质量发展调研行",
+        "onboard_time": 1716694698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425677,
+        "num": 541131,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380125,
+        "num": 380125,
+        "word": "华为悬红200万全球求解难题",
+        "onboard_time": 1716690798,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314936,
+        "num": 314936,
+        "word": "兰州已经开始沸腾了",
+        "onboard_time": 1716694878,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 948882,
+        "num": 306023,
+        "word": "酱园弄 家暴",
+        "onboard_time": 1716688218,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 834946,
+        "num": 296524,
+        "word": "周扬青卖闲置遇到学生直接送",
+        "onboard_time": 1716688098,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284819,
+        "num": 284819,
+        "word": "恋与深空",
+        "onboard_time": 1716694878,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132496,
+        "num": 284675,
+        "word": "5岁赛车手8字漂移直呼太简单了",
+        "onboard_time": 1716696258,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 660049,
+        "num": 280434,
+        "word": "亚当确实只参加一期节目",
+        "onboard_time": 1716690318,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485194,
+        "num": 274342,
+        "word": "赛琳娜获得戛纳影后",
+        "onboard_time": 1716679153,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 431778,
+        "num": 270969,
+        "word": "多地年薪60万至80万招聘聘任制公务员",
+        "onboard_time": 1716688157,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416671,
+        "num": 267054,
+        "word": "向佐ins掉粉",
+        "onboard_time": 1716690678,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414453,
+        "num": 265010,
+        "word": "章子怡那股劲儿又回来了",
+        "onboard_time": 1716690498,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361129,
+        "num": 262031,
+        "word": "35岁失业后假装上班6个月",
+        "onboard_time": 1716688037,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259180,
+        "num": 259180,
+        "word": "当搞笑女成为idol",
+        "onboard_time": 1716690260,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216447,
+        "num": 216447,
+        "word": "微信背景图",
+        "onboard_time": 1716680474,
+        "rank": 17,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 211164,
+        "num": 211164,
+        "word": "曝光境外间谍恐吓国内专家强迫合作",
+        "onboard_time": 1716685337,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192653,
+        "num": 192653,
+        "word": "祁煜煦日私旅",
+        "onboard_time": 1716696377,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 651397,
+        "num": 192556,
+        "word": "尿检小便池几次检测结果前后不一",
+        "onboard_time": 1716694938,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 366163,
+        "num": 191649,
+        "word": "这串烂葡萄竟是古人用玻璃吹的",
+        "onboard_time": 1716689539,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339078,
+        "num": 191285,
+        "word": "黄宣解释光头不是秃头",
+        "onboard_time": 1716691458,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331587,
+        "num": 190412,
+        "word": "张若昀杨幂龚俊V榜破9",
+        "onboard_time": 1716693858,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320458,
+        "num": 190024,
+        "word": "披哥4选手名单",
+        "onboard_time": 1716693199,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315902,
+        "num": 189338,
+        "word": "他退出TFBOYS后老了很多",
+        "onboard_time": 1716640278,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279805,
+        "num": 188529,
+        "word": "章子怡质问陈可辛",
+        "onboard_time": 1716681856,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259922,
+        "num": 187652,
+        "word": "酱园弄 盗摄",
+        "onboard_time": 1716681856,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228291,
+        "num": 186980,
+        "word": "养臭水正在许多学生间风靡",
+        "onboard_time": 1716693738,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186912,
+        "num": 186912,
+        "word": "令人失去沟通欲望的头像",
+        "onboard_time": 1716684377,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186877,
+        "num": 186877,
+        "word": "亚当舌苔一看就没有湿气",
+        "onboard_time": 1716694338,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204758,
+        "num": 182785,
+        "word": "章子怡 顶级骨相",
+        "onboard_time": 1716687677,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167041,
+        "num": 167041,
+        "word": "庆余年考试挤破头",
+        "onboard_time": 1716696498,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166571,
+        "num": 166571,
+        "word": "农村是一座巨大的围城",
+        "onboard_time": 1716696138,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160934,
+        "num": 160934,
+        "word": "夏季最狠减肥法",
+        "onboard_time": 1716691637,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 153105,
+        "num": 153105,
+        "word": "Ning谈xiye加入TES",
+        "onboard_time": 1716693257,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148552,
+        "num": 148552,
+        "word": "凤凰传奇 豫淋军",
+        "onboard_time": 1716689358,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143190,
+        "num": 143190,
+        "word": "井柏然碎了",
+        "onboard_time": 1716691997,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142375,
+        "num": 142375,
+        "word": "孟佳误入自己的打歌现场一秒开蹦",
+        "onboard_time": 1716697038,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139603,
+        "num": 139603,
+        "word": "月薪三千的工作有必要上吗",
+        "onboard_time": 1716652278,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136793,
+        "num": 136793,
+        "word": "年轻人做事可以遵守八二原则吗",
+        "onboard_time": 1716693138,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127821,
+        "num": 127821,
+        "word": "肖战纯白U领T恤",
+        "onboard_time": 1716693377,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126504,
+        "num": 126504,
+        "word": "油电同价算不算伪概念",
+        "onboard_time": 1716694818,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125184,
+        "num": 125184,
+        "word": "彭于晏的狗狗在戛纳获奖了",
+        "onboard_time": 1716684798,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124985,
+        "num": 124985,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1716691519,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123123,
+        "num": 123123,
+        "word": "塔图姆36分",
+        "onboard_time": 1716696677,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122228,
+        "num": 122228,
+        "word": "宋轶录节目哭了",
+        "onboard_time": 1716691038,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118086,
+        "num": 118086,
+        "word": "河南事业单位联考",
+        "onboard_time": 1716695899,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112345,
+        "num": 112345,
+        "word": "黄宣reaction",
+        "onboard_time": 1716694998,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104439,
+        "num": 104439,
+        "word": "凯尔特人3比0步行者",
+        "onboard_time": 1716694578,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记山东行#"
+    }
+  }
+}
