@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716765600383,
+  "endTime": 1716766468005,
   "band_list": [
     {
       "raw_hot": 2211762,
@@ -555,6 +555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 507493,
+      "num": 684055,
+      "word": "女子目睹网约司机半路接电话后暴哭",
+      "onboard_time": 1716726438,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506086,
       "num": 506086,
       "word": "杨幂夏晚晴",
@@ -579,20 +587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493703,
+      "num": 493703,
+      "word": "王冰冰回应尼格买提",
+      "onboard_time": 1716751690,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493259,
       "num": 493259,
       "word": "魏大勋从全内娱的瓜路过",
       "onboard_time": 1716649522,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 491126,
-      "num": 684055,
-      "word": "女子目睹网约司机半路接电话后暴哭",
-      "onboard_time": 1716726438,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 488710,
@@ -609,6 +617,14 @@
       "onboard_time": 1716691458,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479184,
+      "num": 479184,
+      "word": "女子喂乌龟火龙果喜提炫彩神龟",
+      "onboard_time": 1716748751,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471875,
@@ -651,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450534,
-      "num": 450534,
-      "word": "王冰冰回应尼格买提",
-      "onboard_time": 1716751690,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 444747,
       "num": 229233,
       "word": "被研究生宿舍的上床下桌整破防了",
@@ -697,14 +705,6 @@
       "onboard_time": 1716721878,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 435717,
-      "num": 435717,
-      "word": "女子喂乌龟火龙果喜提炫彩神龟",
-      "onboard_time": 1716748751,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434325,
@@ -891,6 +891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 357643,
+      "num": 357643,
+      "word": "服务区回应多位女士占用男厕",
+      "onboard_time": 1716741436,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357301,
       "num": 357301,
       "word": "白桃星座",
@@ -977,14 +985,6 @@
       "onboard_time": 1716693858,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330852,
-      "num": 330852,
-      "word": "服务区回应多位女士占用男厕",
-      "onboard_time": 1716741436,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323700,
@@ -1539,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206921,
+      "num": 206921,
+      "word": "张踩铃一家参加小鹿婚礼",
+      "onboard_time": 1716765436,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 206660,
       "num": 206660,
       "word": "aespa直拍",
@@ -1915,6 +1923,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 171671,
+      "num": 180181,
+      "word": "湖南桂阳放出41亿只虫子灭害虫",
+      "onboard_time": 1716739458,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171536,
       "num": 150313,
       "word": "这不就是孙楠",
@@ -2113,14 +2129,6 @@
       "onboard_time": 1716701718,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 156761,
-      "num": 180181,
-      "word": "湖南桂阳放出41亿只虫子灭害虫",
-      "onboard_time": 1716739458,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154642,
@@ -2627,6 +2635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118734,
+      "num": 82040,
+      "word": "男朋友哭着答应了我的求婚",
+      "onboard_time": 1716765375,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118683,
       "num": 118683,
       "word": "印度游乐场火灾27死",
@@ -2923,12 +2939,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81075,
-      "num": 78504,
-      "word": "张踩铃一家参加小鹿婚礼",
-      "onboard_time": 1716765436,
-      "rank": 24,
-      "category": "网红"
+      "raw_hot": 80829,
+      "num": 80829,
+      "word": "出现4种异常要去妇科检查",
+      "onboard_time": 1716762132,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 78526,
+      "num": 78526,
+      "word": "韩剧毕业",
+      "onboard_time": 1716765796,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 78488,
@@ -2947,20 +2971,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73994,
+      "num": 73994,
+      "word": "林婉儿跪别父亲",
+      "onboard_time": 1716747438,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73152,
       "num": 73152,
       "word": "41首百万收藏汪苏泷在歌手都没唱",
       "onboard_time": 1716668290,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72961,
-      "num": 72961,
-      "word": "林婉儿跪别父亲",
-      "onboard_time": 1716747438,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 72670,
@@ -2977,14 +3001,6 @@
       "onboard_time": 1716708318,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 70188,
-      "num": 70188,
-      "word": "出现4种异常要去妇科检查",
-      "onboard_time": 1716762132,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 67446,
@@ -3019,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61390,
+      "num": 61390,
+      "word": "梁靖崑男单冠军",
+      "onboard_time": 1716766095,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60735,
       "num": 184272,
       "word": "章小蕙直播间进去就出不来了",
@@ -3041,6 +3065,14 @@
       "onboard_time": 1716667511,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 55743,
+      "num": 55743,
+      "word": "闵塔鲨发了迪丽热巴新造型",
+      "onboard_time": 1716765975,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 54322,
@@ -3075,6 +3107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 51257,
+      "num": 51257,
+      "word": "涂山红红吐血战损",
+      "onboard_time": 1716766336,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50946,
       "num": 228272,
       "word": "71岁院士鼓励学生敢于打破常规",
@@ -3089,14 +3129,6 @@
       "onboard_time": 1716645380,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50834,
-      "num": 68525,
-      "word": "男朋友哭着答应了我的求婚",
-      "onboard_time": 1716765375,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 50825,
