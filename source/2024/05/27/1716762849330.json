@@ -1,0 +1,410 @@
+{
+  "runTime": 1716762849330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 277661,
+        "num": 277661,
+        "word": "网红刀小刀自曝重度抑郁",
+        "onboard_time": 1716735680,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 222554,
+        "num": 222554,
+        "word": "女子目睹网约司机半路接电话后暴哭",
+        "onboard_time": 1716726438,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2511,
+        "num": 205141,
+        "word": "高质量发展调研行",
+        "onboard_time": 1716694698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194287,
+        "num": 194287,
+        "word": "女子喂乌龟火龙果喜提炫彩神龟",
+        "onboard_time": 1716748751,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139756,
+        "num": 139756,
+        "word": "服务区回应多位女士占用男厕",
+        "onboard_time": 1716741436,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117633,
+        "num": 117633,
+        "word": "庆余年2第15集22分55秒",
+        "onboard_time": 1716725118,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109382,
+        "num": 109382,
+        "word": "张若昀是在预告第三季吗",
+        "onboard_time": 1716736759,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88874,
+        "num": 88874,
+        "word": "逍遥散人求婚",
+        "onboard_time": 1716726559,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 77228,
+        "num": 77228,
+        "word": "生命树 杨紫白宇",
+        "onboard_time": 1716735080,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53221,
+        "num": 70688,
+        "word": "在最贵的婚车上撒最甜的糖",
+        "onboard_time": 1716739937,
+        "rank": 9,
+        "category": "情感,剧集"
+      },
+      {
+        "raw_hot": 212949,
+        "num": 68812,
+        "word": "王冰冰回应尼格买提",
+        "onboard_time": 1716751690,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123956,
+        "num": 67545,
+        "word": "王妈公司0人参保",
+        "onboard_time": 1716729379,
+        "rank": 11,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 66087,
+        "num": 66087,
+        "word": "杨幂ins晒照",
+        "onboard_time": 1716734059,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61604,
+        "num": 61604,
+        "word": "淡黄色是牙医公认的健康色号",
+        "onboard_time": 1716725717,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55441,
+        "num": 55441,
+        "word": "东部战区越海突击画面",
+        "onboard_time": 1716722238,
+        "rank": 14,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 54295,
+        "num": 54295,
+        "word": "湖南桂阳放出41亿只虫子灭害虫",
+        "onboard_time": 1716739458,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51642,
+        "num": 51642,
+        "word": "庆余年 泪点",
+        "onboard_time": 1716734899,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38331,
+        "num": 38331,
+        "word": "Uzi解脱了",
+        "onboard_time": 1716727819,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36003,
+        "num": 36003,
+        "word": "洞洞鞋",
+        "onboard_time": 1716720259,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 30049,
+        "num": 36002,
+        "word": "白桃星座",
+        "onboard_time": 1716735619,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109133,
+        "num": 35997,
+        "word": "突然感觉体制内挺适合不婚族",
+        "onboard_time": 1716730519,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81507,
+        "num": 35996,
+        "word": "一天熬过这4个发胖时刻就能瘦",
+        "onboard_time": 1716732679,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 44352,
+        "num": 35994,
+        "word": "谢娜看女儿第一次表演泪流满面",
+        "onboard_time": 1716731539,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40305,
+        "num": 35990,
+        "word": "庆余年作者取名是没有瓶颈的吧",
+        "onboard_time": 1716728959,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39754,
+        "num": 35987,
+        "word": "韩红回应要上歌手",
+        "onboard_time": 1716720438,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38747,
+        "num": 35984,
+        "word": "人民文娱评狐妖小红娘月红篇",
+        "onboard_time": 1716724279,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37953,
+        "num": 35978,
+        "word": "建议这9类人少喝咖啡",
+        "onboard_time": 1716723858,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36303,
+        "num": 35976,
+        "word": "香港到处都能看华晨宇演唱会",
+        "onboard_time": 1716732199,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34419,
+        "num": 35974,
+        "word": "中医建议肝不好做这六个动作",
+        "onboard_time": 1716727159,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32455,
+        "num": 35970,
+        "word": "夏天别乱穿洞洞鞋小心变得不幸",
+        "onboard_time": 1716735559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33157,
+        "num": 35969,
+        "word": "王妈发声",
+        "onboard_time": 1716723557,
+        "rank": 30,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 30436,
+        "num": 35966,
+        "word": "林婉儿跪别父亲",
+        "onboard_time": 1716747438,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29295,
+        "num": 35959,
+        "word": "韩国水果的价格",
+        "onboard_time": 1716756251,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29277,
+        "num": 35959,
+        "word": "庆帝终于显露武功了",
+        "onboard_time": 1716713239,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28288,
+        "num": 35953,
+        "word": "庆余年群像",
+        "onboard_time": 1716734660,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28027,
+        "num": 35950,
+        "word": "邓超回应抱鹿晗那么紧",
+        "onboard_time": 1716735200,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27217,
+        "num": 35947,
+        "word": "林相大宝这段",
+        "onboard_time": 1716727998,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26546,
+        "num": 35946,
+        "word": "范闲骑马",
+        "onboard_time": 1716736038,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25070,
+        "num": 35942,
+        "word": "久酷",
+        "onboard_time": 1716733699,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22726,
+        "num": 35941,
+        "word": "F1",
+        "onboard_time": 1716730100,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26411,
+        "num": 35938,
+        "word": "庆余年23集",
+        "onboard_time": 1716726438,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25048,
+        "num": 35931,
+        "word": "陈奕迅主办方补偿方案",
+        "onboard_time": 1716736519,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22294,
+        "num": 35929,
+        "word": "亚当QQ音乐屠榜",
+        "onboard_time": 1716729200,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21933,
+        "num": 35928,
+        "word": "清清 投票",
+        "onboard_time": 1716734840,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21719,
+        "num": 35922,
+        "word": "我向往自由 我要谈恋爱",
+        "onboard_time": 1716730999,
+        "rank": 44,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 20251,
+        "num": 35921,
+        "word": "杨幂雷佳音大鹏此沙合照",
+        "onboard_time": 1716738378,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19755,
+        "num": 35917,
+        "word": "出现4种异常要去妇科检查",
+        "onboard_time": 1716762132,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17450,
+        "num": 35915,
+        "word": "蒲熠星现场",
+        "onboard_time": 1716731720,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15564,
+        "num": 35913,
+        "word": "梁靖崑男单决赛",
+        "onboard_time": 1716725478,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14473,
+        "num": 35906,
+        "word": "WTT常规挑战赛太原站2024",
+        "onboard_time": 1716732919,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对进一步全面深化改革的重要部署#"
+    }
+  }
+}
