@@ -1,0 +1,410 @@
+{
+  "runTime": 1716727616242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1349116,
+        "num": 1349116,
+        "word": "庆余年2第15集22分55秒",
+        "onboard_time": 1716725118,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1300706,
+        "num": 1300706,
+        "word": "洞洞鞋",
+        "onboard_time": 1716720259,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 46312,
+        "num": 1068190,
+        "word": "2024年数据生产量增长或超25%",
+        "onboard_time": 1716715638,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1051037,
+        "num": 1051037,
+        "word": "逍遥散人求婚",
+        "onboard_time": 1716726559,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 788800,
+        "num": 788800,
+        "word": "韩红称自己是国家队歌手",
+        "onboard_time": 1716719839,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502785,
+        "num": 734145,
+        "word": "东部战区越海突击画面",
+        "onboard_time": 1716722238,
+        "rank": 5,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 680622,
+        "num": 680622,
+        "word": "人民文娱评狐妖小红娘月红篇",
+        "onboard_time": 1716724279,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162402,
+        "num": 637751,
+        "word": "国乒提前包揽冠亚军",
+        "onboard_time": 1716723438,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602760,
+        "num": 602760,
+        "word": "黄山景区发生雷击致多人受伤",
+        "onboard_time": 1716722538,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 43892,
+        "num": 502633,
+        "word": "猴哥听曲意外混到了编制",
+        "onboard_time": 1716725659,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1798325,
+        "num": 480157,
+        "word": "王妈发声",
+        "onboard_time": 1716723557,
+        "rank": 10,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 447249,
+        "num": 447249,
+        "word": "庆余年23集",
+        "onboard_time": 1716726438,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388865,
+        "num": 388865,
+        "word": "韩红回应要上歌手",
+        "onboard_time": 1716720438,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352135,
+        "num": 352135,
+        "word": "庆帝终于显露武功了",
+        "onboard_time": 1716713239,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324094,
+        "num": 324094,
+        "word": "种地吧将取消打卡直播",
+        "onboard_time": 1716721098,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236365,
+        "num": 322020,
+        "word": "马龙林高远男双冠军",
+        "onboard_time": 1716725059,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195601,
+        "num": 317846,
+        "word": "刘强东内部狼性训话流出",
+        "onboard_time": 1716709038,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 186686,
+        "num": 316194,
+        "word": "马龙林高远3比1王楚钦梁靖崑",
+        "onboard_time": 1716727098,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148083,
+        "num": 313655,
+        "word": "云南白药董事陈发树等人辞职",
+        "onboard_time": 1716719118,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147444,
+        "num": 309501,
+        "word": "高铁晚点",
+        "onboard_time": 1716720618,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546673,
+        "num": 306685,
+        "word": "淡黄色是牙医公认的健康色号",
+        "onboard_time": 1716725717,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 532404,
+        "num": 302749,
+        "word": "建议这9类人少喝咖啡",
+        "onboard_time": 1716723858,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300684,
+        "num": 300684,
+        "word": "章子怡兜兜转转才45岁",
+        "onboard_time": 1716717077,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266664,
+        "num": 266664,
+        "word": "TVB演员颜国梁去世",
+        "onboard_time": 1716727159,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260426,
+        "num": 260426,
+        "word": "宋雨琦音乐节首秀",
+        "onboard_time": 1716727159,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228887,
+        "num": 228887,
+        "word": "王妈公司待遇",
+        "onboard_time": 1716711979,
+        "rank": 25,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 200139,
+        "num": 200139,
+        "word": "金起范饭拍",
+        "onboard_time": 1716724637,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183267,
+        "num": 183267,
+        "word": "帕梅拉改良翘臀轰炸7个动作",
+        "onboard_time": 1716726318,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 175074,
+        "num": 175074,
+        "word": "亚当翻牌",
+        "onboard_time": 1716711378,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120455,
+        "num": 169399,
+        "word": "梁靖崑男单决赛",
+        "onboard_time": 1716725478,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164965,
+        "num": 164965,
+        "word": "赵丽颖爱工作爱生活",
+        "onboard_time": 1716724099,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163376,
+        "num": 163376,
+        "word": "黄子弘凡的红内裤说掏就掏",
+        "onboard_time": 1716722419,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156587,
+        "num": 156587,
+        "word": "女子目睹网约司机半路接电话后暴哭",
+        "onboard_time": 1716726438,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151262,
+        "num": 151262,
+        "word": "庆余年",
+        "onboard_time": 1716724698,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149614,
+        "num": 149614,
+        "word": "网恋是王力宏 奔现是孙楠",
+        "onboard_time": 1716703699,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146711,
+        "num": 146711,
+        "word": "黄宣邓超 风向双癫",
+        "onboard_time": 1716727398,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141459,
+        "num": 141459,
+        "word": "邓子越饰演者曾婉拒庆余年",
+        "onboard_time": 1716725059,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140819,
+        "num": 140819,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1716708978,
+        "rank": 37,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 139161,
+        "num": 139161,
+        "word": "中医建议肝不好做这六个动作",
+        "onboard_time": 1716727159,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118886,
+        "num": 136840,
+        "word": "看似卫生其实会引发妇科疾病的行为",
+        "onboard_time": 1716714079,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135683,
+        "num": 135683,
+        "word": "李羲承翻唱",
+        "onboard_time": 1716727038,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135255,
+        "num": 135255,
+        "word": "胡彦斌记了林俊杰微博14年",
+        "onboard_time": 1716725537,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133921,
+        "num": 133921,
+        "word": "贾乃亮唱跳给严浩翔打歌",
+        "onboard_time": 1716726859,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121073,
+        "num": 121073,
+        "word": "张艺凡这腿P都不敢这么P",
+        "onboard_time": 1716712097,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120380,
+        "num": 120380,
+        "word": "王源回复汪苏泷",
+        "onboard_time": 1716713239,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115122,
+        "num": 115122,
+        "word": "被研究生宿舍的上床下桌整破防了",
+        "onboard_time": 1716714918,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107625,
+        "num": 107625,
+        "word": "黄宣 我结婚了啦那又怎样",
+        "onboard_time": 1716688157,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104881,
+        "num": 104881,
+        "word": "多少岁皮肤开始断崖式衰老",
+        "onboard_time": 1716714498,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 96935,
+        "num": 96935,
+        "word": "上海暴雨",
+        "onboard_time": 1716714918,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92250,
+        "num": 92250,
+        "word": "朱婷跟队训练",
+        "onboard_time": 1716727579,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
