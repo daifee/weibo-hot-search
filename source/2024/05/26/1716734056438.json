@@ -1,0 +1,410 @@
+{
+  "runTime": 1716734056438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1309998,
+        "num": 1309998,
+        "word": "逍遥散人求婚",
+        "onboard_time": 1716726559,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1034977,
+        "num": 1034977,
+        "word": "淡黄色是牙医公认的健康色号",
+        "onboard_time": 1716725717,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 5163,
+        "num": 939762,
+        "word": "高质量发展调研行",
+        "onboard_time": 1716694698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915593,
+        "num": 915593,
+        "word": "庆余年2第15集22分55秒",
+        "onboard_time": 1716725118,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1249871,
+        "num": 817717,
+        "word": "王妈公司0人参保",
+        "onboard_time": 1716729379,
+        "rank": 4,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 491126,
+        "num": 674438,
+        "word": "女子目睹网约司机半路接电话后暴哭",
+        "onboard_time": 1716726438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611367,
+        "num": 611367,
+        "word": "香港到处都能看华晨宇演唱会",
+        "onboard_time": 1716732199,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 602645,
+        "num": 602645,
+        "word": "洞洞鞋",
+        "onboard_time": 1716720259,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 601210,
+        "num": 601210,
+        "word": "谢娜看女儿第一次表演泪流满面",
+        "onboard_time": 1716731539,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37687,
+        "num": 506751,
+        "word": "闺蜜生日女子花三个月手作相册礼物",
+        "onboard_time": 1716733041,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1279576,
+        "num": 504188,
+        "word": "王妈发声",
+        "onboard_time": 1716723557,
+        "rank": 10,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 452904,
+        "num": 452904,
+        "word": "林相大宝这段",
+        "onboard_time": 1716727998,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416148,
+        "num": 416148,
+        "word": "人民文娱评狐妖小红娘月红篇",
+        "onboard_time": 1716724279,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361112,
+        "num": 361112,
+        "word": "我向往自由 我要谈恋爱",
+        "onboard_time": 1716730999,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 354545,
+        "num": 354545,
+        "word": "Uzi解脱了",
+        "onboard_time": 1716727819,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 333201,
+        "num": 333201,
+        "word": "杨幂戛纳街拍",
+        "onboard_time": 1716733041,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 295214,
+        "num": 295214,
+        "word": "我保持单身的三大好习惯",
+        "onboard_time": 1716729919,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257270,
+        "num": 257270,
+        "word": "东部战区越海突击画面",
+        "onboard_time": 1716722238,
+        "rank": 17,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 235049,
+        "num": 235049,
+        "word": "黄山景区发生雷击致多人受伤",
+        "onboard_time": 1716722538,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 226850,
+        "num": 226850,
+        "word": "梁靖崑男单决赛",
+        "onboard_time": 1716725478,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1108055,
+        "num": 226648,
+        "word": "突然感觉体制内挺适合不婚族",
+        "onboard_time": 1716730519,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420629,
+        "num": 226467,
+        "word": "中医建议肝不好做这六个动作",
+        "onboard_time": 1716727159,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320144,
+        "num": 226395,
+        "word": "韩红称自己是国家队歌手",
+        "onboard_time": 1716719839,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283384,
+        "num": 226104,
+        "word": "庆余年林相辞官 三狐对峙",
+        "onboard_time": 1716732320,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282892,
+        "num": 225835,
+        "word": "庆余年23集",
+        "onboard_time": 1716726438,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264221,
+        "num": 225606,
+        "word": "蒲熠星现场",
+        "onboard_time": 1716731720,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262833,
+        "num": 225412,
+        "word": "建议这9类人少喝咖啡",
+        "onboard_time": 1716723858,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248147,
+        "num": 225346,
+        "word": "亚当QQ音乐屠榜",
+        "onboard_time": 1716729200,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196099,
+        "num": 225003,
+        "word": "WTT常规挑战赛太原站2024",
+        "onboard_time": 1716732919,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157615,
+        "num": 224903,
+        "word": "WTT",
+        "onboard_time": 1716731299,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246414,
+        "num": 224564,
+        "word": "韩红回应要上歌手",
+        "onboard_time": 1716720438,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224562,
+        "num": 224562,
+        "word": "老头杯",
+        "onboard_time": 1716733460,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222804,
+        "num": 222804,
+        "word": "一天熬过这4个发胖时刻就能瘦",
+        "onboard_time": 1716732679,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 211848,
+        "num": 211848,
+        "word": "久酷",
+        "onboard_time": 1716733699,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192641,
+        "num": 192641,
+        "word": "亚当翻牌",
+        "onboard_time": 1716711378,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185758,
+        "num": 185758,
+        "word": "章子怡兜兜转转才45岁",
+        "onboard_time": 1716717077,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183909,
+        "num": 183909,
+        "word": "庆余年作者取名是没有瓶颈的吧",
+        "onboard_time": 1716728959,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178268,
+        "num": 178268,
+        "word": "传奇杯",
+        "onboard_time": 1716733220,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166361,
+        "num": 166361,
+        "word": "黄宣邓超 风向双癫",
+        "onboard_time": 1716727398,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149477,
+        "num": 149477,
+        "word": "成都蓉城7比0青岛西海岸",
+        "onboard_time": 1716732980,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157676,
+        "num": 149434,
+        "word": "TVB演员颜国梁去世",
+        "onboard_time": 1716727159,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147668,
+        "num": 147668,
+        "word": "范闲to签",
+        "onboard_time": 1716732380,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146834,
+        "num": 146834,
+        "word": "王鹤棣 赢了不装等于没赢",
+        "onboard_time": 1716728599,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144656,
+        "num": 144656,
+        "word": "宋雨琦音乐节首秀",
+        "onboard_time": 1716727159,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142764,
+        "num": 142764,
+        "word": "陈幸同4比3王艺迪",
+        "onboard_time": 1716732919,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142321,
+        "num": 142321,
+        "word": "种地吧将取消打卡直播",
+        "onboard_time": 1716721098,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131247,
+        "num": 131247,
+        "word": "烟那么难闻为何还有人喜欢抽",
+        "onboard_time": 1716730340,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128655,
+        "num": 128655,
+        "word": "陈萍萍举铁直拍",
+        "onboard_time": 1716729140,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128366,
+        "num": 128366,
+        "word": "陈幸同太原赛女单冠军",
+        "onboard_time": 1716730640,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125623,
+        "num": 125623,
+        "word": "杨幂棕红色风衣",
+        "onboard_time": 1716734002,
+        "rank": 49,
+        "category": "电影,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#学中文在阿联酋已成为一种新风尚#"
+    }
+  }
+}
