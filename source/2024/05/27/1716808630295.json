@@ -1,0 +1,410 @@
+{
+  "runTime": 1716808630295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2017740,
+        "num": 2017740,
+        "word": "曝毛晓彤被欠薪1250万",
+        "onboard_time": 1716803959,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579254,
+        "num": 579254,
+        "word": "花海 投票",
+        "onboard_time": 1716800359,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65715,
+        "num": 558308,
+        "word": "文脉华章",
+        "onboard_time": 1716796038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556457,
+        "num": 556457,
+        "word": "瘦了才有资格跟老婆剪CP",
+        "onboard_time": 1716805339,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553915,
+        "num": 553915,
+        "word": "南京人身份证上为啥没省名",
+        "onboard_time": 1716796099,
+        "rank": 4,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 545099,
+        "num": 545099,
+        "word": "上海取消离异购房限制",
+        "onboard_time": 1716806478,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533042,
+        "num": 533042,
+        "word": "台湾问题是中国核心利益中的核心",
+        "onboard_time": 1716804077,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 486139,
+        "num": 486139,
+        "word": "黄日莹脸上缝了七针",
+        "onboard_time": 1716799880,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415529,
+        "num": 415529,
+        "word": "亚当 澳洲好声音导师",
+        "onboard_time": 1716800598,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47292,
+        "num": 414917,
+        "word": "10859个造谣账号被处置",
+        "onboard_time": 1716807498,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94295,
+        "num": 414205,
+        "word": "咳嗽一直不见好怎么办",
+        "onboard_time": 1716806658,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 519957,
+        "num": 413614,
+        "word": "郴州一公园发生刑事案件致3死2伤",
+        "onboard_time": 1716804439,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 436761,
+        "num": 412466,
+        "word": "24岁女生存够10万元靠利息生活",
+        "onboard_time": 1716780679,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412326,
+        "num": 412326,
+        "word": "aespa和ive的MV是同一个工作室",
+        "onboard_time": 1716807318,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359364,
+        "num": 359364,
+        "word": "建议最近不要穿黄色衣服出门",
+        "onboard_time": 1716779780,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347634,
+        "num": 347634,
+        "word": "美国4岁女童常年吃汽水冲奶粉致死",
+        "onboard_time": 1716802699,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337093,
+        "num": 337093,
+        "word": "白玉兰",
+        "onboard_time": 1716805459,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322473,
+        "num": 322473,
+        "word": "上海发布房产新政",
+        "onboard_time": 1716806358,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365872,
+        "num": 317466,
+        "word": "aespa MV呢",
+        "onboard_time": 1716801558,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299748,
+        "num": 299748,
+        "word": "TES官宣xiye加入",
+        "onboard_time": 1716805878,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 576785,
+        "num": 285743,
+        "word": "研究发现个子矮不易患癌",
+        "onboard_time": 1716802578,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 424226,
+        "num": 275467,
+        "word": "肝不好的人上厕所或有这3种异样",
+        "onboard_time": 1716790639,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 340996,
+        "num": 267427,
+        "word": "33岁生完二胎我才真正清醒了",
+        "onboard_time": 1716807798,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245061,
+        "num": 245061,
+        "word": "不该把中国妹都叫成熊猫妹",
+        "onboard_time": 1716799159,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218608,
+        "num": 218608,
+        "word": "章子怡 熹妃回宫",
+        "onboard_time": 1716789378,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218384,
+        "num": 218384,
+        "word": "aespa回归",
+        "onboard_time": 1716792438,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217841,
+        "num": 217841,
+        "word": "身高与寿命之间存在U型关联",
+        "onboard_time": 1716794179,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212944,
+        "num": 212944,
+        "word": "孟子义 我是猪我不是人",
+        "onboard_time": 1716800059,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211509,
+        "num": 211509,
+        "word": "官方通报安徽一小区楼房发生坍塌",
+        "onboard_time": 1716805039,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207852,
+        "num": 207852,
+        "word": "我妈通过贬低我让我嫁给相亲男生",
+        "onboard_time": 1716806358,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198932,
+        "num": 198932,
+        "word": "木里地震",
+        "onboard_time": 1716807439,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195970,
+        "num": 195970,
+        "word": "12306回应高铁座椅不卫生",
+        "onboard_time": 1716807798,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189508,
+        "num": 189508,
+        "word": "一个榴莲真能顶三个鸡吗",
+        "onboard_time": 1716801919,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185351,
+        "num": 185351,
+        "word": "范若若切大号 于曼丽回归",
+        "onboard_time": 1716796578,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170427,
+        "num": 170427,
+        "word": "非沪籍在上海购房社保年限减为3年",
+        "onboard_time": 1716808217,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168008,
+        "num": 168008,
+        "word": "KPL梦之队",
+        "onboard_time": 1716805580,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161580,
+        "num": 161580,
+        "word": "茉酸奶致歉",
+        "onboard_time": 1716797778,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160474,
+        "num": 160474,
+        "word": "上海二孩及以上多子女家庭可增购1套房",
+        "onboard_time": 1716806839,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157912,
+        "num": 157912,
+        "word": "黑公关同时用600个账号抹黑京东",
+        "onboard_time": 1716806780,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153510,
+        "num": 153510,
+        "word": "你什么时候意识到该离职了",
+        "onboard_time": 1716804379,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146460,
+        "num": 146460,
+        "word": "中共中央政治局5月27日召开会议",
+        "onboard_time": 1716798740,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138983,
+        "num": 138983,
+        "word": "演员刘金自曝被欠薪",
+        "onboard_time": 1716804919,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136986,
+        "num": 136986,
+        "word": "考公后几百年不联系的同学出现了",
+        "onboard_time": 1716798257,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132994,
+        "num": 132994,
+        "word": "FPX可惜",
+        "onboard_time": 1716808577,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130851,
+        "num": 130851,
+        "word": "钟楚曦的身材我的梦",
+        "onboard_time": 1716807378,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129263,
+        "num": 129263,
+        "word": "安徽铜陵楼房坍塌初步排查5人失联",
+        "onboard_time": 1716807858,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128595,
+        "num": 128595,
+        "word": "杨幂的裤腰大了",
+        "onboard_time": 1716790999,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128007,
+        "num": 128007,
+        "word": "烟花少年阵容官宣",
+        "onboard_time": 1716803959,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119808,
+        "num": 119808,
+        "word": "洞洞鞋和勃肯鞋谁才是丑鞋王",
+        "onboard_time": 1716800298,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 118524,
+        "num": 118524,
+        "word": "原来大多数人小脚趾甲是分瓣的",
+        "onboard_time": 1716801079,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#驰而不息推进全面从严治党#"
+    }
+  }
+}

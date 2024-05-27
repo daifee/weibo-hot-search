@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716806210569,
+  "endTime": 1716808630295,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576785,
+      "num": 285743,
+      "word": "研究发现个子矮不易患癌",
+      "onboard_time": 1716802578,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 568946,
       "num": 568946,
       "word": "张若昀宣言二搭",
@@ -379,12 +387,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556457,
+      "num": 556457,
+      "word": "瘦了才有资格跟老婆剪CP",
+      "onboard_time": 1716805339,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 545099,
+      "num": 545099,
+      "word": "上海取消离异购房限制",
+      "onboard_time": 1716806478,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543270,
       "num": 197517,
       "word": "突然感觉体制内挺适合不婚族",
       "onboard_time": 1716730519,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 533042,
+      "num": 616295,
+      "word": "台湾问题是中国核心利益中的核心",
+      "onboard_time": 1716804077,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 532809,
@@ -409,6 +441,14 @@
       "onboard_time": 1716767057,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 519957,
+      "num": 413614,
+      "word": "郴州一公园发生刑事案件致3死2伤",
+      "onboard_time": 1716804439,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 511198,
@@ -531,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 442094,
-      "num": 616295,
-      "word": "台湾问题是中国核心利益中的核心",
-      "onboard_time": 1716804077,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 424249,
       "num": 424249,
       "word": "安徽铜陵一小区楼房发生坍塌",
@@ -561,6 +593,14 @@
       "onboard_time": 1716725717,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 412326,
+      "num": 412326,
+      "word": "aespa和ive的MV是同一个工作室",
+      "onboard_time": 1716807318,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 406411,
@@ -667,12 +707,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 340996,
+      "num": 267427,
+      "word": "33岁生完二胎我才真正清醒了",
+      "onboard_time": 1716807798,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 340287,
       "num": 340287,
       "word": "王妈否认抄面试者梗",
       "onboard_time": 1716783920,
       "rank": 23,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 337093,
+      "num": 337093,
+      "word": "白玉兰",
+      "onboard_time": 1716805459,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 335541,
@@ -691,12 +747,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 318400,
-      "num": 265770,
-      "word": "研究发现个子矮不易患癌",
-      "onboard_time": 1716802578,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 322473,
+      "num": 322473,
+      "word": "上海发布房产新政",
+      "onboard_time": 1716806358,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318249,
@@ -747,12 +803,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 298811,
-      "num": 298811,
-      "word": "郴州一公园发生刑事案件致3死2伤",
-      "onboard_time": 1716804439,
-      "rank": 30,
-      "category": "社会负面"
+      "raw_hot": 299748,
+      "num": 299748,
+      "word": "TES官宣xiye加入",
+      "onboard_time": 1716805878,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 297101,
@@ -1003,14 +1059,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 225092,
-      "num": 225092,
-      "word": "TES官宣xiye加入",
-      "onboard_time": 1716805878,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 224831,
       "num": 224831,
       "word": "庆余年2涨分了",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1716735559,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222694,
-      "num": 222694,
-      "word": "白玉兰",
-      "onboard_time": 1716805459,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 221595,
@@ -1155,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207852,
+      "num": 207852,
+      "word": "我妈通过贬低我让我嫁给相亲男生",
+      "onboard_time": 1716806358,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206773,
       "num": 206773,
       "word": "韩红回应要上歌手",
@@ -1235,12 +1283,12 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 200469,
-      "num": 200469,
-      "word": "瘦了才有资格跟老婆剪CP",
-      "onboard_time": 1716805339,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 198932,
+      "num": 198932,
+      "word": "木里地震",
+      "onboard_time": 1716807439,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198764,
@@ -1265,6 +1313,14 @@
       "onboard_time": 1716775758,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 195970,
+      "num": 195970,
+      "word": "12306回应高铁座椅不卫生",
+      "onboard_time": 1716807798,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194475,
@@ -1443,6 +1499,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 170427,
+      "num": 170427,
+      "word": "非沪籍在上海购房社保年限减为3年",
+      "onboard_time": 1716808217,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168970,
       "num": 168970,
       "word": "老一辈人没苦硬吃",
@@ -1531,6 +1595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160474,
+      "num": 160474,
+      "word": "上海二孩及以上多子女家庭可增购1套房",
+      "onboard_time": 1716806839,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159979,
       "num": 159979,
       "word": "合肥暴雨",
@@ -1553,6 +1625,14 @@
       "onboard_time": 1716804379,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157912,
+      "num": 157912,
+      "word": "黑公关同时用600个账号抹黑京东",
+      "onboard_time": 1716806780,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 156359,
@@ -1819,6 +1899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132994,
+      "num": 132994,
+      "word": "FPX可惜",
+      "onboard_time": 1716808577,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131987,
       "num": 131987,
       "word": "当小狗幼儿园放学",
@@ -1841,6 +1929,14 @@
       "onboard_time": 1716789559,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130851,
+      "num": 130851,
+      "word": "钟楚曦的身材我的梦",
+      "onboard_time": 1716807378,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 130685,
@@ -1889,6 +1985,14 @@
       "onboard_time": 1716778339,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129263,
+      "num": 129263,
+      "word": "安徽铜陵楼房坍塌初步排查5人失联",
+      "onboard_time": 1716807858,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128990,
@@ -2163,6 +2267,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 94295,
+      "num": 414205,
+      "word": "咳嗽一直不见好怎么办",
+      "onboard_time": 1716806658,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 92665,
       "num": 883818,
       "word": "文脉华章",
@@ -2305,6 +2417,14 @@
       "onboard_time": 1716779061,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 47292,
+      "num": 414917,
+      "word": "10859个造谣账号被处置",
+      "onboard_time": 1716807498,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47124,
