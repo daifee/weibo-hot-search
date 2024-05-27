@@ -1,0 +1,410 @@
+{
+  "runTime": 1716795270934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1469516,
+        "num": 1469516,
+        "word": "茉酸奶",
+        "onboard_time": 1716790578,
+        "rank": 0,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 711389,
+        "num": 711389,
+        "word": "章子怡 熹妃回宫",
+        "onboard_time": 1716789378,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40809,
+        "num": 493114,
+        "word": "丰收里的中国舒展最美画卷",
+        "onboard_time": 1716783022,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823264,
+        "num": 489056,
+        "word": "建议最近不要穿黄色衣服出门",
+        "onboard_time": 1716779780,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 439361,
+        "num": 439361,
+        "word": "两家可乐涨价",
+        "onboard_time": 1716784160,
+        "rank": 4,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 430305,
+        "num": 430305,
+        "word": "那英和杨丞琳眼神里都没有光了",
+        "onboard_time": 1716788118,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383129,
+        "num": 383129,
+        "word": "双休和单休真是两种人生",
+        "onboard_time": 1716783259,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373473,
+        "num": 373473,
+        "word": "专家称未来几年大城市房价可能大幅上涨",
+        "onboard_time": 1716788118,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 354704,
+        "num": 354704,
+        "word": "茉酸奶换标签续命水果馊了才肯扔",
+        "onboard_time": 1716787217,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478000,
+        "num": 349644,
+        "word": "杨幂的裤腰大了",
+        "onboard_time": 1716790999,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1223364,
+        "num": 344895,
+        "word": "24岁女生存够10万元靠利息生活",
+        "onboard_time": 1716780679,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338911,
+        "num": 338911,
+        "word": "aespa回归",
+        "onboard_time": 1716792438,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 338198,
+        "num": 338198,
+        "word": "内蒙古发现一腐尸系33年前命案逃犯",
+        "onboard_time": 1716780919,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330973,
+        "num": 330973,
+        "word": "传闻中江浙沪的独生女",
+        "onboard_time": 1716783320,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 511198,
+        "num": 325521,
+        "word": "杨幂李现 小说里的离婚记者会",
+        "onboard_time": 1716793037,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315031,
+        "num": 315031,
+        "word": "长期不说话或少说话有什么后果",
+        "onboard_time": 1716781040,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283823,
+        "num": 283823,
+        "word": "毛不易说庆余年演员保养的好",
+        "onboard_time": 1716793578,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258476,
+        "num": 258476,
+        "word": "华春莹任外交部副部长",
+        "onboard_time": 1716776658,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256245,
+        "num": 256245,
+        "word": "周峻纬夺娶开机",
+        "onboard_time": 1716792259,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65593,
+        "num": 247359,
+        "word": "淋雨后的大熊猫宝宝是吸水海绵吧",
+        "onboard_time": 1716795138,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1388990,
+        "num": 243735,
+        "word": "肝不好的人上厕所或有这3种异样",
+        "onboard_time": 1716790639,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258858,
+        "num": 243486,
+        "word": "喻言不报名参加歌手的原因",
+        "onboard_time": 1716785121,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239564,
+        "num": 239564,
+        "word": "体育老师当班主任班级成绩全校第一",
+        "onboard_time": 1716785601,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 212400,
+        "num": 212400,
+        "word": "狗狗闯红灯被交警警告了一下",
+        "onboard_time": 1716793277,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208399,
+        "num": 208399,
+        "word": "大二女成为家里唯一的收入来源",
+        "onboard_time": 1716789078,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202459,
+        "num": 202459,
+        "word": "黄日莹脸受伤",
+        "onboard_time": 1716789559,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199312,
+        "num": 199312,
+        "word": "王妈公司晒后台大量应聘信息",
+        "onboard_time": 1716790697,
+        "rank": 26,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 195842,
+        "num": 195842,
+        "word": "身高与寿命之间存在U型关联",
+        "onboard_time": 1716794179,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190191,
+        "num": 190191,
+        "word": "李沐宸夺娶女主",
+        "onboard_time": 1716794778,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171791,
+        "num": 171791,
+        "word": "杨幂龚俊立狐妖热度flag",
+        "onboard_time": 1716794179,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169047,
+        "num": 169047,
+        "word": "亚当遮纹身",
+        "onboard_time": 1716784102,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148773,
+        "num": 148773,
+        "word": "小学生朱同正在失去童年",
+        "onboard_time": 1716794117,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148511,
+        "num": 148511,
+        "word": "庆余年2涨分了",
+        "onboard_time": 1716789798,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147384,
+        "num": 147384,
+        "word": "茉酸奶回应原料过期水果馊了才扔",
+        "onboard_time": 1716794898,
+        "rank": 33,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 147214,
+        "num": 147214,
+        "word": "老一辈人没苦硬吃",
+        "onboard_time": 1716788118,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70091,
+        "num": 145705,
+        "word": "比亚迪研发累计投入1400亿",
+        "onboard_time": 1716793397,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144963,
+        "num": 144963,
+        "word": "龚俊cue顺手牵杨",
+        "onboard_time": 1716794298,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137439,
+        "num": 137439,
+        "word": "建议不要和没可能的人频繁聊天",
+        "onboard_time": 1716795258,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136024,
+        "num": 136024,
+        "word": "室友非要把空调开通宵",
+        "onboard_time": 1716790159,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135289,
+        "num": 135289,
+        "word": "独居年轻人周末有多快乐",
+        "onboard_time": 1716792918,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133931,
+        "num": 133931,
+        "word": "原来大家小时候都偷过爸妈的钱",
+        "onboard_time": 1716794958,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122493,
+        "num": 122493,
+        "word": "为什么推荐你夏天多吃瓜",
+        "onboard_time": 1716794598,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15018,
+        "num": 121648,
+        "word": "京东红人",
+        "onboard_time": 1716789859,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46985,
+        "num": 121529,
+        "word": "跳火蒙古舞朝鲜族院长生日再与学生共舞",
+        "onboard_time": 1716794659,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42844,
+        "num": 121478,
+        "word": "被长在树梢上的熊猫可爱到了",
+        "onboard_time": 1716788719,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121477,
+        "num": 121477,
+        "word": "范闲亲手做婚戒",
+        "onboard_time": 1716790639,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111196,
+        "num": 111196,
+        "word": "一个员工离职的隐性成本有多高",
+        "onboard_time": 1716782840,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110200,
+        "num": 110200,
+        "word": "果然年轻时不能遇见太惊艳的吗喽",
+        "onboard_time": 1716794958,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108964,
+        "num": 108964,
+        "word": "一块钱买的不是平替是开心",
+        "onboard_time": 1716795258,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100632,
+        "num": 100632,
+        "word": "两家可乐客服回应涨价",
+        "onboard_time": 1716794057,
+        "rank": 49,
+        "category": "财经,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#学中文在阿联酋已成为一种新风尚#"
+    }
+  }
+}

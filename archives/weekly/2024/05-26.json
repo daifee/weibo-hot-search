@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716794363392,
+  "endTime": 1716795270934,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -123,12 +123,28 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 1469516,
+      "num": 1469516,
+      "word": "茉酸奶",
+      "onboard_time": 1716790578,
+      "rank": 12,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 1410588,
       "num": 1410588,
       "word": "陈赫冰桶打人事件受害者",
       "onboard_time": 1716701119,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1388990,
+      "num": 291656,
+      "word": "肝不好的人上厕所或有这3种异样",
+      "onboard_time": 1716790639,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1358075,
@@ -211,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1145307,
-      "num": 291656,
-      "word": "肝不好的人上厕所或有这3种异样",
-      "onboard_time": 1716790639,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 1108055,
       "num": 292429,
       "word": "突然感觉体制内挺适合不婚族",
@@ -273,14 +281,6 @@
       "onboard_time": 1716789378,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 962702,
-      "num": 962702,
-      "word": "茉酸奶",
-      "onboard_time": 1716790578,
-      "rank": 12,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 962170,
@@ -787,6 +787,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 511198,
+      "num": 397408,
+      "word": "杨幂李现 小说里的离婚记者会",
+      "onboard_time": 1716793037,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 507642,
       "num": 507642,
       "word": "癌症来前1年身体会发生8种变化",
@@ -961,14 +969,6 @@
       "onboard_time": 1716689539,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454530,
-      "num": 397408,
-      "word": "杨幂李现 小说里的离婚记者会",
-      "onboard_time": 1716793037,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 452183,
@@ -1619,6 +1619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 283823,
+      "num": 283823,
+      "word": "毛不易说庆余年演员保养的好",
+      "onboard_time": 1716793578,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281604,
       "num": 281604,
       "word": "巴新山体滑坡估算超670人死亡",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1716625518,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 261031,
-      "num": 261031,
-      "word": "毛不易说庆余年演员保养的好",
-      "onboard_time": 1716793578,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 260426,
@@ -2123,6 +2123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212400,
+      "num": 212400,
+      "word": "狗狗闯红灯被交警警告了一下",
+      "onboard_time": 1716793277,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210974,
       "num": 193163,
       "word": "有哪些工资不高但房价很高的城市",
@@ -2395,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195842,
+      "num": 195842,
+      "word": "身高与寿命之间存在U型关联",
+      "onboard_time": 1716794179,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 194074,
       "num": 194074,
       "word": "独行侠3比0森林狼",
@@ -2441,6 +2457,14 @@
       "onboard_time": 1716684317,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190191,
+      "num": 190191,
+      "word": "李沐宸夺娶女主",
+      "onboard_time": 1716794778,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 189878,
@@ -2619,14 +2643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178758,
-      "num": 178758,
-      "word": "狗狗闯红灯被交警警告了一下",
-      "onboard_time": 1716793277,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 178567,
       "num": 165071,
       "word": "俞飞鸿小丈夫 超前精神状态",
@@ -2753,6 +2769,14 @@
       "onboard_time": 1716693318,
       "rank": 19,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 171791,
+      "num": 171791,
+      "word": "杨幂龚俊立狐妖热度flag",
+      "onboard_time": 1716794179,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 171536,
@@ -3011,14 +3035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154161,
-      "num": 154161,
-      "word": "杨幂龚俊立狐妖热度flag",
-      "onboard_time": 1716794179,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152517,
       "num": 152517,
       "word": "汗疱疹会传染吗",
@@ -3075,6 +3091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148773,
+      "num": 148773,
+      "word": "小学生朱同正在失去童年",
+      "onboard_time": 1716794117,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148591,
       "num": 148591,
       "word": "沈星回 让星星自己落下来",
@@ -3099,6 +3123,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 147384,
+      "num": 147384,
+      "word": "茉酸奶回应原料过期水果馊了才扔",
+      "onboard_time": 1716794898,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 147216,
       "num": 147216,
       "word": "为什么大多数父母不愿你辞职待业",
@@ -3113,6 +3145,14 @@
       "onboard_time": 1716704299,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144963,
+      "num": 144963,
+      "word": "龚俊cue顺手牵杨",
+      "onboard_time": 1716794298,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 144835,
@@ -3283,6 +3323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137439,
+      "num": 137439,
+      "word": "建议不要和没可能的人频繁聊天",
+      "onboard_time": 1716795258,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135683,
       "num": 135683,
       "word": "李羲承翻唱",
@@ -3297,6 +3345,14 @@
       "onboard_time": 1716777437,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135289,
+      "num": 135289,
+      "word": "独居年轻人周末有多快乐",
+      "onboard_time": 1716792918,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 135255,
@@ -3329,6 +3385,14 @@
       "onboard_time": 1716690977,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 133931,
+      "num": 133931,
+      "word": "原来大家小时候都偷过爸妈的钱",
+      "onboard_time": 1716794958,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 133921,
@@ -3459,14 +3523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130155,
-      "num": 130155,
-      "word": "独居年轻人周末有多快乐",
-      "onboard_time": 1716792918,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129950,
       "num": 129950,
       "word": "杨幂雷佳音大鹏此沙合照",
@@ -3521,14 +3577,6 @@
       "onboard_time": 1716774618,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126815,
-      "num": 126815,
-      "word": "身高与寿命之间存在U型关联",
-      "onboard_time": 1716794179,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 126755,
@@ -3633,6 +3681,14 @@
       "onboard_time": 1716732258,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122493,
+      "num": 122493,
+      "word": "为什么推荐你夏天多吃瓜",
+      "onboard_time": 1716794598,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122110,
@@ -3851,12 +3907,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108578,
-      "num": 108578,
-      "word": "小学生朱同正在失去童年",
-      "onboard_time": 1716794117,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 110200,
+      "num": 110200,
+      "word": "果然年轻时不能遇见太惊艳的吗喽",
+      "onboard_time": 1716794958,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 108964,
+      "num": 108964,
+      "word": "一块钱买的不是平替是开心",
+      "onboard_time": 1716795258,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 108277,
@@ -3961,14 +4025,6 @@
       "onboard_time": 1716728299,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 100166,
-      "num": 100166,
-      "word": "龚俊cue顺手牵杨",
-      "onboard_time": 1716794298,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 100013,
@@ -4148,7 +4204,7 @@
     },
     {
       "raw_hot": 75410,
-      "num": 125003,
+      "num": 145705,
       "word": "比亚迪研发累计投入1400亿",
       "onboard_time": 1716793397,
       "rank": 36,
@@ -4209,6 +4265,14 @@
       "onboard_time": 1716681916,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 65593,
+      "num": 247359,
+      "word": "淋雨后的大熊猫宝宝是吸水海绵吧",
+      "onboard_time": 1716795138,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63355,
@@ -4361,6 +4425,14 @@
       "onboard_time": 1716756251,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 46985,
+      "num": 121529,
+      "word": "跳火蒙古舞朝鲜族院长生日再与学生共舞",
+      "onboard_time": 1716794659,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46866,

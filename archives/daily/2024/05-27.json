@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716794363392,
+  "endTime": 1716795270934,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -51,6 +51,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1469516,
+      "num": 1469516,
+      "word": "茉酸奶",
+      "onboard_time": 1716790578,
+      "rank": 12,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1388990,
+      "num": 291656,
+      "word": "肝不好的人上厕所或有这3种异样",
+      "onboard_time": 1716790639,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1289495,
       "num": 1289495,
       "word": "杨幂给章子怡让镜头",
@@ -75,14 +91,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1145307,
-      "num": 291656,
-      "word": "肝不好的人上厕所或有这3种异样",
-      "onboard_time": 1716790639,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 1068683,
       "num": 386194,
       "word": "喻言不报名参加歌手的原因",
@@ -105,14 +113,6 @@
       "onboard_time": 1716789378,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 962702,
-      "num": 962702,
-      "word": "茉酸奶",
-      "onboard_time": 1716790578,
-      "rank": 12,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 902001,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511198,
+      "num": 397408,
+      "word": "杨幂李现 小说里的离婚记者会",
+      "onboard_time": 1716793037,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 507493,
       "num": 507493,
       "word": "女子目睹网约司机半路接电话后暴哭",
@@ -369,14 +377,6 @@
       "onboard_time": 1716778159,
       "rank": 11,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 454530,
-      "num": 397408,
-      "word": "杨幂李现 小说里的离婚记者会",
-      "onboard_time": 1716793037,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 452183,
@@ -587,19 +587,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 283823,
+      "num": 283823,
+      "word": "毛不易说庆余年演员保养的好",
+      "onboard_time": 1716793578,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280962,
       "num": 244567,
       "word": "优酷贴脸开大张若昀",
       "onboard_time": 1716778339,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 261031,
-      "num": 261031,
-      "word": "毛不易说庆余年演员保养的好",
-      "onboard_time": 1716793578,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -803,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212400,
+      "num": 212400,
+      "word": "狗狗闯红灯被交警警告了一下",
+      "onboard_time": 1716793277,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210168,
       "num": 210168,
       "word": "大四学生轮流当C位拍毕业视频",
@@ -931,12 +939,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 195842,
+      "num": 195842,
+      "word": "身高与寿命之间存在U型关联",
+      "onboard_time": 1716794179,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 194074,
       "num": 194074,
       "word": "独行侠3比0森林狼",
       "onboard_time": 1716778758,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190191,
+      "num": 190191,
+      "word": "李沐宸夺娶女主",
+      "onboard_time": 1716794778,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 187678,
@@ -977,14 +1001,6 @@
       "onboard_time": 1716717077,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 178758,
-      "num": 178758,
-      "word": "狗狗闯红灯被交警警告了一下",
-      "onboard_time": 1716793277,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 178144,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1716768018,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171791,
+      "num": 171791,
+      "word": "杨幂龚俊立狐妖热度flag",
+      "onboard_time": 1716794179,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 170442,
@@ -1115,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154161,
-      "num": 154161,
-      "word": "杨幂龚俊立狐妖热度flag",
-      "onboard_time": 1716794179,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153636,
       "num": 341232,
       "word": "东部战区越海突击画面",
@@ -1155,12 +1171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148773,
+      "num": 148773,
+      "word": "小学生朱同正在失去童年",
+      "onboard_time": 1716794117,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148452,
       "num": 148452,
       "word": "室友非要把空调开通宵",
       "onboard_time": 1716790159,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147384,
+      "num": 147384,
+      "word": "茉酸奶回应原料过期水果馊了才扔",
+      "onboard_time": 1716794898,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 147216,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1716730999,
       "rank": 31,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 144963,
+      "num": 144963,
+      "word": "龚俊cue顺手牵杨",
+      "onboard_time": 1716794298,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 144309,
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137439,
+      "num": 137439,
+      "word": "建议不要和没可能的人频繁聊天",
+      "onboard_time": 1716795258,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137246,
       "num": 137246,
       "word": "建议这9类人少喝咖啡",
@@ -1265,6 +1313,22 @@
       "onboard_time": 1716777437,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135289,
+      "num": 135289,
+      "word": "独居年轻人周末有多快乐",
+      "onboard_time": 1716792918,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133931,
+      "num": 133931,
+      "word": "原来大家小时候都偷过爸妈的钱",
+      "onboard_time": 1716794958,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 133310,
@@ -1323,14 +1387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130155,
-      "num": 130155,
-      "word": "独居年轻人周末有多快乐",
-      "onboard_time": 1716792918,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130114,
       "num": 130114,
       "word": "我爱你可我怎配靠近你",
@@ -1387,20 +1443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126815,
-      "num": 126815,
-      "word": "身高与寿命之间存在U型关联",
-      "onboard_time": 1716794179,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 122613,
       "num": 122613,
       "word": "那英 猫的人塑",
       "onboard_time": 1716780080,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122493,
+      "num": 122493,
+      "word": "为什么推荐你夏天多吃瓜",
+      "onboard_time": 1716794598,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121158,
@@ -1467,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110200,
+      "num": 110200,
+      "word": "果然年轻时不能遇见太惊艳的吗喽",
+      "onboard_time": 1716794958,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109054,
       "num": 109054,
       "word": "庆余年作者取名是没有瓶颈的吧",
@@ -1475,12 +1539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108578,
-      "num": 108578,
-      "word": "小学生朱同正在失去童年",
-      "onboard_time": 1716794117,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 108964,
+      "num": 108964,
+      "word": "一块钱买的不是平替是开心",
+      "onboard_time": 1716795258,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 108023,
@@ -1521,14 +1585,6 @@
       "onboard_time": 1716788058,
       "rank": 49,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 100166,
-      "num": 100166,
-      "word": "龚俊cue顺手牵杨",
-      "onboard_time": 1716794298,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 98611,
@@ -1612,7 +1668,7 @@
     },
     {
       "raw_hot": 75410,
-      "num": 125003,
+      "num": 145705,
       "word": "比亚迪研发累计投入1400亿",
       "onboard_time": 1716793397,
       "rank": 36,
@@ -1649,6 +1705,14 @@
       "onboard_time": 1716730100,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65593,
+      "num": 247359,
+      "word": "淋雨后的大熊猫宝宝是吸水海绵吧",
+      "onboard_time": 1716795138,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61390,
@@ -1713,6 +1777,14 @@
       "onboard_time": 1716756251,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 46985,
+      "num": 121529,
+      "word": "跳火蒙古舞朝鲜族院长生日再与学生共舞",
+      "onboard_time": 1716794659,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46866,
