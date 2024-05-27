@@ -1,0 +1,411 @@
+{
+  "startTime": 1716826963583,
+  "endTime": 1716826963583,
+  "band_list": [
+    {
+      "raw_hot": 1186478,
+      "num": 1186478,
+      "word": "朝鲜",
+      "onboard_time": 1716819439,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 868115,
+      "num": 868115,
+      "word": "冲绳",
+      "onboard_time": 1716822140,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 670185,
+      "num": 670185,
+      "word": "工资6000请假半个月被扣4500",
+      "onboard_time": 1716812958,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 605922,
+      "num": 605922,
+      "word": "范思辙为什么要戴项圈",
+      "onboard_time": 1716820099,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 419984,
+      "num": 419984,
+      "word": "一个班的几乎全是考公务员的",
+      "onboard_time": 1716817219,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 399865,
+      "num": 399865,
+      "word": "长公主好美",
+      "onboard_time": 1716818118,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 350540,
+      "num": 350540,
+      "word": "质疑太子理解太子",
+      "onboard_time": 1716822740,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 348038,
+      "num": 348038,
+      "word": "人最笨的时候就是问出那句",
+      "onboard_time": 1716822680,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 312530,
+      "num": 312530,
+      "word": "VOGUE新主编",
+      "onboard_time": 1716823218,
+      "rank": 10,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 307486,
+      "num": 307486,
+      "word": "赵丽颖方否认演生命树",
+      "onboard_time": 1716822381,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 295697,
+      "num": 295697,
+      "word": "巴以冲突",
+      "onboard_time": 1716824598,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 268667,
+      "num": 268667,
+      "word": "庆余年 大男主",
+      "onboard_time": 1716820520,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 267775,
+      "num": 267775,
+      "word": "网恋是赵昭仪 奔现是强哥",
+      "onboard_time": 1716815539,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266000,
+      "num": 266000,
+      "word": "埃及",
+      "onboard_time": 1716812899,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 246187,
+      "num": 246187,
+      "word": "费介死了吗",
+      "onboard_time": 1716816500,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 239769,
+      "num": 239769,
+      "word": "12306回应高铁座椅不卫生",
+      "onboard_time": 1716807798,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222390,
+      "num": 222390,
+      "word": "女儿工作后每月都会给我一千块钱",
+      "onboard_time": 1716809657,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198861,
+      "num": 198861,
+      "word": "中国统一的大势不可逆转",
+      "onboard_time": 1716819499,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 195267,
+      "num": 195267,
+      "word": "月红篇终于癫成我想要的样子",
+      "onboard_time": 1716815299,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184332,
+      "num": 184332,
+      "word": "建议i人都去尝试十点睡五点起",
+      "onboard_time": 1716819740,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 183962,
+      "num": 183962,
+      "word": "当你连续点同一家外卖超过100次",
+      "onboard_time": 1716823101,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 172263,
+      "num": 172263,
+      "word": "龚吓幂",
+      "onboard_time": 1716822922,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160612,
+      "num": 160612,
+      "word": "瘦了才有资格跟老婆剪CP",
+      "onboard_time": 1716805339,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159764,
+      "num": 159764,
+      "word": "李小冉怎么保养的",
+      "onboard_time": 1716819680,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154178,
+      "num": 154178,
+      "word": "唐艺昕张若昀 美好爱情",
+      "onboard_time": 1716816859,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151930,
+      "num": 151930,
+      "word": "外媒把吴君如认成了章子怡",
+      "onboard_time": 1716821661,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 146152,
+      "num": 146152,
+      "word": "背着善宰跑大结局预告",
+      "onboard_time": 1716823459,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144931,
+      "num": 144931,
+      "word": "33岁生完二胎我才真正清醒了",
+      "onboard_time": 1716807798,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135103,
+      "num": 135103,
+      "word": "善宰还是把阵雨写出来了",
+      "onboard_time": 1716823821,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133663,
+      "num": 133663,
+      "word": "黄晓明模仿亚当",
+      "onboard_time": 1716816080,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119683,
+      "num": 119683,
+      "word": "有一种友谊叫张远徐良",
+      "onboard_time": 1716823280,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 119361,
+      "num": 119361,
+      "word": "大学一人寝你愿意住吗",
+      "onboard_time": 1716816739,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 119161,
+      "num": 119161,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1716822200,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 115189,
+      "num": 115189,
+      "word": "五竹来了",
+      "onboard_time": 1716816140,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112394,
+      "num": 112394,
+      "word": "口红对妆容的影响有多大",
+      "onboard_time": 1716820820,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 100314,
+      "num": 100314,
+      "word": "台湾学生坚定表示台湾是中国的",
+      "onboard_time": 1716810257,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 87558,
+      "num": 87558,
+      "word": "外交部回应世卫大会拒绝涉台提案",
+      "onboard_time": 1716817699,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 86643,
+      "num": 86643,
+      "word": "4元1斤的大樱桃你吃到了吗",
+      "onboard_time": 1716811937,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 85346,
+      "num": 85346,
+      "word": "范闲也跳晚安大小姐了",
+      "onboard_time": 1716814578,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84579,
+      "num": 84579,
+      "word": "保时捷中国与全体授权经销商联合声明",
+      "onboard_time": 1716815598,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 83193,
+      "num": 83193,
+      "word": "范闲婉儿大婚名场面",
+      "onboard_time": 1716814878,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83008,
+      "num": 83008,
+      "word": "王鹤棣颈椎受伤",
+      "onboard_time": 1716811099,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82612,
+      "num": 82612,
+      "word": "aespa MV呢",
+      "onboard_time": 1716801558,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 81354,
+      "num": 81354,
+      "word": "Gemini当选KPL梦之队教练",
+      "onboard_time": 1716822080,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 80366,
+      "num": 80366,
+      "word": "背着善宰跑",
+      "onboard_time": 1716809717,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78944,
+      "num": 78944,
+      "word": "刀脚",
+      "onboard_time": 1716821839,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 76433,
+      "num": 76433,
+      "word": "纳达尔 兹维列夫",
+      "onboard_time": 1716816859,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68332,
+      "num": 76433,
+      "word": "福宝将于六月与公众见面",
+      "onboard_time": 1716811458,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60365,
+      "num": 324592,
+      "word": "福宝乖乖吃苹果被奖励摸摸",
+      "onboard_time": 1716821661,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29867,
+      "num": 679029,
+      "word": "沉浸式感受数字点亮生活",
+      "onboard_time": 1716814638,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#总书记指出新质生产力的发展之道#"
+    }
+  ]
+}

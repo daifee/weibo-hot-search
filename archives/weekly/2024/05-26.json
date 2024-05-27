@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716824066052,
+  "endTime": 1716826963583,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -425,6 +425,14 @@
       "onboard_time": 1716711979,
       "rank": 29,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 868115,
+      "num": 868115,
+      "word": "冲绳",
+      "onboard_time": 1716822140,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 858506,
@@ -1147,14 +1155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 499814,
-      "num": 499814,
-      "word": "冲绳",
-      "onboard_time": 1716822140,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 496787,
       "num": 300651,
       "word": "35岁失业后假装上班6个月",
@@ -1779,6 +1779,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 350540,
+      "num": 350540,
+      "word": "质疑太子理解太子",
+      "onboard_time": 1716822740,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 348038,
+      "num": 348038,
+      "word": "人最笨的时候就是问出那句",
+      "onboard_time": 1716822680,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346607,
       "num": 346607,
       "word": "子女凑钱替67岁父亲交私生子抚养费",
@@ -1947,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312530,
+      "num": 312530,
+      "word": "VOGUE新主编",
+      "onboard_time": 1716823218,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 310579,
       "num": 234669,
       "word": "五竹来了",
@@ -2065,6 +2089,14 @@
       "onboard_time": 1716774737,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 295697,
+      "num": 295697,
+      "word": "巴以冲突",
+      "onboard_time": 1716824598,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 295214,
@@ -2376,14 +2408,6 @@
       "word": "庆余年作者取名是没有瓶颈的吧",
       "onboard_time": 1716728959,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 246274,
-      "num": 246274,
-      "word": "质疑太子理解太子",
-      "onboard_time": 1716822740,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -3139,14 +3163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198728,
-      "num": 254483,
-      "word": "VOGUE新主编",
-      "onboard_time": 1716823218,
-      "rank": 45,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 198225,
       "num": 164965,
       "word": "赵丽颖爱工作爱生活",
@@ -3281,14 +3297,6 @@
       "onboard_time": 1716818180,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190320,
-      "num": 190320,
-      "word": "人最笨的时候就是问出那句",
-      "onboard_time": 1716822680,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 190191,
@@ -3457,6 +3465,14 @@
       "onboard_time": 1716778578,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183962,
+      "num": 183962,
+      "word": "当你连续点同一家外卖超过100次",
+      "onboard_time": 1716823101,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 183553,
@@ -4355,14 +4371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140322,
-      "num": 140322,
-      "word": "当你连续点同一家外卖超过100次",
-      "onboard_time": 1716823101,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140118,
       "num": 140118,
       "word": "淋过雨的小狗会给其他动物打伞",
@@ -4515,6 +4523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135103,
+      "num": 135103,
+      "word": "善宰还是把阵雨写出来了",
+      "onboard_time": 1716823821,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135071,
       "num": 135071,
       "word": "IU又唱粤语歌了",
@@ -4625,14 +4641,6 @@
       "onboard_time": 1716718638,
       "rank": 46,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 131460,
-      "num": 118454,
-      "word": "善宰还是把阵雨写出来了",
-      "onboard_time": 1716823821,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 131397,
