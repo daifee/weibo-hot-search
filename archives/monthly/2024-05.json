@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716809666871,
+  "endTime": 1716813297144,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -6083,6 +6083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 958692,
+      "num": 958692,
+      "word": "12306回应高铁座椅不卫生",
+      "onboard_time": 1716807798,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 958635,
       "num": 958635,
       "word": "陈丽君急性肠胃炎晕倒",
@@ -6625,6 +6633,14 @@
       "onboard_time": 1714749982,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 907262,
+      "num": 470654,
+      "word": "女儿工作后每月都会给我一千块钱",
+      "onboard_time": 1716809657,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 906871,
@@ -8025,6 +8041,14 @@
       "onboard_time": 1716713239,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 813000,
+      "num": 556457,
+      "word": "瘦了才有资格跟老婆剪CP",
+      "onboard_time": 1716805339,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 812731,
@@ -10243,6 +10267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 692120,
+      "num": 345688,
+      "word": "台湾学生坚定表示台湾是中国的",
+      "onboard_time": 1716810257,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 692054,
       "num": 692054,
       "word": "马龙王楚钦男双决赛",
@@ -11216,6 +11248,14 @@
       "word": "打工攒钱留学的女孩在非洲去世",
       "onboard_time": 1715322139,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655464,
+      "num": 655464,
+      "word": "非沪籍在上海购房社保年限减为3年",
+      "onboard_time": 1716808217,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -14088,14 +14128,6 @@
       "word": "胧月不认亲妈妆",
       "onboard_time": 1714787958,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 556457,
-      "num": 556457,
-      "word": "瘦了才有资格跟老婆剪CP",
-      "onboard_time": 1716805339,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -17859,6 +17891,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 461882,
+      "num": 344637,
+      "word": "福宝将于六月与公众见面",
+      "onboard_time": 1716811458,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461492,
       "num": 194691,
       "word": "她们孕期离婚选择独自成为母亲",
@@ -19489,6 +19529,14 @@
       "onboard_time": 1714881258,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 427245,
+      "num": 427245,
+      "word": "王鹤棣颈椎受伤",
+      "onboard_time": 1716811099,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 427177,
@@ -23731,6 +23779,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 352420,
+      "num": 342821,
+      "word": "肖战片场请客",
+      "onboard_time": 1716809538,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352359,
       "num": 352359,
       "word": "BLG可惜",
@@ -23817,6 +23873,14 @@
       "onboard_time": 1714918581,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351175,
+      "num": 210863,
+      "word": "工资6000请假半个月被扣4500",
+      "onboard_time": 1716812958,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 351150,
@@ -24417,6 +24481,14 @@
       "onboard_time": 1715433981,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342796,
+      "num": 342796,
+      "word": "陈奕迅杭州站赔偿方案引歌迷不满",
+      "onboard_time": 1716812238,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 342762,
@@ -25331,14 +25403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330179,
-      "num": 330179,
-      "word": "非沪籍在上海购房社保年限减为3年",
-      "onboard_time": 1716808217,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330083,
       "num": 266166,
       "word": "终于看懂尺寸的差别了",
@@ -25585,14 +25649,6 @@
       "onboard_time": 1716201559,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326464,
-      "num": 326464,
-      "word": "12306回应高铁座椅不卫生",
-      "onboard_time": 1716807798,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326229,
@@ -27817,6 +27873,14 @@
       "onboard_time": 1716517099,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 295685,
+      "num": 295685,
+      "word": "于洋 林若甫也该同各位道别了",
+      "onboard_time": 1716809238,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 295678,
@@ -33955,14 +34019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235036,
-      "num": 235036,
-      "word": "肖战片场请客",
-      "onboard_time": 1716809538,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235030,
       "num": 235030,
       "word": "卷了一晚上的头发拆开",
@@ -34217,6 +34273,14 @@
       "onboard_time": 1715569519,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233885,
+      "num": 203897,
+      "word": "4元1斤的大樱桃你吃到了吗",
+      "onboard_time": 1716811937,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 233802,
@@ -35827,6 +35891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221967,
+      "num": 205538,
+      "word": "章子怡礼服 胶带设计",
+      "onboard_time": 1716809478,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221947,
       "num": 221947,
       "word": "作者回应央美毕设被嘲像垃圾堆",
@@ -37000,6 +37072,14 @@
       "word": "欧盟对伊朗总统莱希等人遇难表示哀悼",
       "onboard_time": 1716191060,
       "rank": 35,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 215120,
+      "num": 215120,
+      "word": "埃及",
+      "onboard_time": 1716812899,
+      "rank": 18,
       "category": "国外时政"
     },
     {
@@ -43555,6 +43635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191365,
+      "num": 201991,
+      "word": "荣耀发布会",
+      "onboard_time": 1716812178,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191277,
       "num": 191277,
       "word": "杨幂ELLE封面",
@@ -45387,6 +45475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184878,
+      "num": 184878,
+      "word": "一中心",
+      "onboard_time": 1716810618,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184862,
       "num": 184862,
       "word": "芭莎主编说杨紫长大了",
@@ -46987,6 +47083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177990,
+      "num": 177990,
+      "word": "炼狱茨木童子新皮肤",
+      "onboard_time": 1716812899,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177987,
       "num": 177987,
       "word": "G2战胜PSG",
@@ -47353,6 +47457,14 @@
       "onboard_time": 1715314520,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176668,
+      "num": 176668,
+      "word": "刘亦菲安妮海瑟薇赞达亚宝格丽大片",
+      "onboard_time": 1716811039,
+      "rank": 33,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 176653,
@@ -48899,14 +49011,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 171276,
-      "num": 171276,
-      "word": "于洋 林若甫也该同各位道别了",
-      "onboard_time": 1716809238,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171224,
       "num": 171224,
       "word": "陈昊宇 我觉得我70岁还能拍戏",
@@ -50417,6 +50521,14 @@
       "onboard_time": 1715141242,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165411,
+      "num": 165411,
+      "word": "太子才要不得脸面",
+      "onboard_time": 1716811337,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 165318,
@@ -52929,6 +53041,14 @@
       "onboard_time": 1715502076,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156262,
+      "num": 156262,
+      "word": "荣耀200 杨洋",
+      "onboard_time": 1716810978,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 156228,
@@ -55699,6 +55819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146738,
+      "num": 146738,
+      "word": "差点因为爱豆签名太丑脱粉",
+      "onboard_time": 1716809357,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146729,
       "num": 146729,
       "word": "张真源solo舞台合唱",
@@ -58387,6 +58515,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 137232,
+      "num": 137232,
+      "word": "王启年这集运动步数庆国第一",
+      "onboard_time": 1716812599,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137075,
       "num": 137075,
       "word": "孟子义逗完林更新还得哄",
@@ -58881,14 +59017,6 @@
       "onboard_time": 1715913257,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135382,
-      "num": 135382,
-      "word": "差点因为爱豆签名太丑脱粉",
-      "onboard_time": 1716809357,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 135329,
@@ -59387,6 +59515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133867,
+      "num": 133867,
+      "word": "aespa MV每一秒都像吃了毒蘑菇",
+      "onboard_time": 1716813258,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133859,
       "num": 133859,
       "word": "美妆券",
@@ -59441,14 +59577,6 @@
       "onboard_time": 1715247799,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 133660,
-      "num": 133660,
-      "word": "章子怡礼服 胶带设计",
-      "onboard_time": 1716809478,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 133624,
@@ -59961,6 +60089,14 @@
       "onboard_time": 1714871658,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132174,
+      "num": 132174,
+      "word": "久哥怒怼爱萝莉",
+      "onboard_time": 1716810556,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 132145,
@@ -60577,6 +60713,14 @@
       "onboard_time": 1715735958,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129783,
+      "num": 129783,
+      "word": "公主侍卫的双向暗恋",
+      "onboard_time": 1716809838,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 129766,
@@ -71649,6 +71793,14 @@
       "onboard_time": 1714757354,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53523,
+      "num": 347116,
+      "word": "法国娃组团来成都浑身挂满熊猫",
+      "onboard_time": 1716811458,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53512,

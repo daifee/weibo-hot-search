@@ -1,0 +1,410 @@
+{
+  "runTime": 1716813297144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 958692,
+        "num": 958692,
+        "word": "12306回应高铁座椅不卫生",
+        "onboard_time": 1716807798,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655464,
+        "num": 655464,
+        "word": "非沪籍在上海购房社保年限减为3年",
+        "onboard_time": 1716808217,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46558,
+        "num": 503371,
+        "word": "文脉华章",
+        "onboard_time": 1716796038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907262,
+        "num": 470654,
+        "word": "女儿工作后每月都会给我一千块钱",
+        "onboard_time": 1716809657,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 813000,
+        "num": 460678,
+        "word": "瘦了才有资格跟老婆剪CP",
+        "onboard_time": 1716805339,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427245,
+        "num": 427245,
+        "word": "王鹤棣颈椎受伤",
+        "onboard_time": 1716811099,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366231,
+        "num": 366231,
+        "word": "黄日莹脸上缝了七针",
+        "onboard_time": 1716799880,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359059,
+        "num": 359059,
+        "word": "背着善宰跑",
+        "onboard_time": 1716809717,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347539,
+        "num": 347539,
+        "word": "南京人身份证上为啥没省名",
+        "onboard_time": 1716796099,
+        "rank": 8,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 53523,
+        "num": 347116,
+        "word": "法国娃组团来成都浑身挂满熊猫",
+        "onboard_time": 1716811458,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692120,
+        "num": 345688,
+        "word": "台湾学生坚定表示台湾是中国的",
+        "onboard_time": 1716810257,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461882,
+        "num": 344637,
+        "word": "福宝将于六月与公众见面",
+        "onboard_time": 1716811458,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352420,
+        "num": 342821,
+        "word": "肖战片场请客",
+        "onboard_time": 1716809538,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342796,
+        "num": 342796,
+        "word": "陈奕迅杭州站赔偿方案引歌迷不满",
+        "onboard_time": 1716812238,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 323979,
+        "num": 323979,
+        "word": "24岁女生存够10万元靠利息生活",
+        "onboard_time": 1716780679,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295685,
+        "num": 295685,
+        "word": "于洋 林若甫也该同各位道别了",
+        "onboard_time": 1716809238,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282794,
+        "num": 282794,
+        "word": "阴阳师",
+        "onboard_time": 1716811818,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238255,
+        "num": 238255,
+        "word": "aespa和ive的MV是同一个工作室",
+        "onboard_time": 1716807318,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215120,
+        "num": 215120,
+        "word": "埃及",
+        "onboard_time": 1716812899,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 214719,
+        "num": 214719,
+        "word": "郴州一公园发生刑事案件致3死2伤",
+        "onboard_time": 1716804439,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 520379,
+        "num": 213988,
+        "word": "33岁生完二胎我才真正清醒了",
+        "onboard_time": 1716807798,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351175,
+        "num": 210863,
+        "word": "工资6000请假半个月被扣4500",
+        "onboard_time": 1716812958,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254924,
+        "num": 207323,
+        "word": "研究发现个子矮不易患癌",
+        "onboard_time": 1716802578,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221967,
+        "num": 205538,
+        "word": "章子怡礼服 胶带设计",
+        "onboard_time": 1716809478,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233885,
+        "num": 203897,
+        "word": "4元1斤的大樱桃你吃到了吗",
+        "onboard_time": 1716811937,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191365,
+        "num": 201991,
+        "word": "荣耀发布会",
+        "onboard_time": 1716812178,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 216065,
+        "num": 199264,
+        "word": "白玉兰",
+        "onboard_time": 1716805459,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197462,
+        "num": 197462,
+        "word": "台湾问题是中国核心利益中的核心",
+        "onboard_time": 1716804077,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194268,
+        "num": 194268,
+        "word": "aespa MV呢",
+        "onboard_time": 1716801558,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1295394,
+        "num": 192762,
+        "word": "曝毛晓彤被欠薪1250万",
+        "onboard_time": 1716803959,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184878,
+        "num": 184878,
+        "word": "一中心",
+        "onboard_time": 1716810618,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184151,
+        "num": 184151,
+        "word": "章子怡 熹妃回宫",
+        "onboard_time": 1716789378,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177990,
+        "num": 177990,
+        "word": "炼狱茨木童子新皮肤",
+        "onboard_time": 1716812899,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176668,
+        "num": 176668,
+        "word": "刘亦菲安妮海瑟薇赞达亚宝格丽大片",
+        "onboard_time": 1716811039,
+        "rank": 33,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 168169,
+        "num": 168169,
+        "word": "肝不好的人上厕所或有这3种异样",
+        "onboard_time": 1716790639,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165411,
+        "num": 165411,
+        "word": "太子才要不得脸面",
+        "onboard_time": 1716811337,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162864,
+        "num": 162864,
+        "word": "美国4岁女童常年吃汽水冲奶粉致死",
+        "onboard_time": 1716802699,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156262,
+        "num": 156262,
+        "word": "荣耀200 杨洋",
+        "onboard_time": 1716810978,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146738,
+        "num": 146738,
+        "word": "差点因为爱豆签名太丑脱粉",
+        "onboard_time": 1716809357,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143786,
+        "num": 143786,
+        "word": "范若若切大号 于曼丽回归",
+        "onboard_time": 1716796578,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139113,
+        "num": 139113,
+        "word": "建议最近不要穿黄色衣服出门",
+        "onboard_time": 1716779780,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137232,
+        "num": 137232,
+        "word": "王启年这集运动步数庆国第一",
+        "onboard_time": 1716812599,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137180,
+        "num": 137180,
+        "word": "庆余年",
+        "onboard_time": 1716811578,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133867,
+        "num": 133867,
+        "word": "aespa MV每一秒都像吃了毒蘑菇",
+        "onboard_time": 1716813258,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133864,
+        "num": 133864,
+        "word": "我妈通过贬低我让我嫁给相亲男生",
+        "onboard_time": 1716806358,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132174,
+        "num": 132174,
+        "word": "久哥怒怼爱萝莉",
+        "onboard_time": 1716810556,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132131,
+        "num": 132131,
+        "word": "花海 投票",
+        "onboard_time": 1716800359,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129783,
+        "num": 129783,
+        "word": "公主侍卫的双向暗恋",
+        "onboard_time": 1716809838,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121473,
+        "num": 121473,
+        "word": "TES官宣xiye加入",
+        "onboard_time": 1716805878,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120223,
+        "num": 120223,
+        "word": "亚当 澳洲好声音导师",
+        "onboard_time": 1716800598,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指出新质生产力的发展之道#"
+    }
+  }
+}
