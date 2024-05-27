@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716837341505,
+  "endTime": 1716838461525,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -6027,27 +6027,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20654,
-      "num": 407911,
-      "word": "文旅局调查水上闯关节目多人摔伤",
-      "onboard_time": 1716813858,
-      "rank": 9,
+      "raw_hot": 22169,
+      "num": 22169,
+      "word": "绍兴课上开黄腔教师被警告处分",
+      "onboard_time": 1716835752,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19791,
-      "num": 19791,
+      "raw_hot": 20930,
+      "num": 20930,
       "word": "曾经热闹的宜家为什么没什么人了",
       "onboard_time": 1716835092,
       "rank": 40,
       "category": "情感"
     },
     {
-      "raw_hot": 16725,
-      "num": 18860,
-      "word": "绍兴课上开黄腔教师被警告处分",
-      "onboard_time": 1716835752,
-      "rank": 46,
+      "raw_hot": 20654,
+      "num": 407911,
+      "word": "文旅局调查水上闯关节目多人摔伤",
+      "onboard_time": 1716813858,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6057,6 +6057,14 @@
       "onboard_time": 1716835631,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14952,
+      "num": 18317,
+      "word": "一张纸折手机支架",
+      "onboard_time": 1716838030,
+      "rank": 46,
+      "category": "休闲"
     },
     {
       "raw_hot": 13415,
