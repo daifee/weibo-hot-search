@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1716777810048,
+  "endTime": 1716780118384,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -835,6 +835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 6718022,
+      "num": 7968022,
+      "word": "华春莹任外交部副部长",
+      "onboard_time": 1716776658,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 6694788,
       "num": 6694788,
       "word": "杭州震感",
@@ -1385,14 +1393,6 @@
       "onboard_time": 1709008057,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4035144,
-      "num": 4570289,
-      "word": "华春莹任外交部副部长",
-      "onboard_time": 1716776658,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 4033714,

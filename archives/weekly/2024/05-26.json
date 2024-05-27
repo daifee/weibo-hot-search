@@ -1,10 +1,10 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716777810048,
+  "endTime": 1716780118384,
   "band_list": [
     {
-      "raw_hot": 4035144,
-      "num": 4570289,
+      "raw_hot": 6718022,
+      "num": 7968022,
       "word": "华春莹任外交部副部长",
       "onboard_time": 1716776658,
       "rank": 0,
@@ -145,6 +145,14 @@
       "onboard_time": 1716772458,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1207207,
+      "num": 1207207,
+      "word": "勃肯鞋",
+      "onboard_time": 1716776238,
+      "rank": 12,
+      "category": "时尚"
     },
     {
       "raw_hot": 1204925,
@@ -379,12 +387,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 704151,
-      "num": 704151,
-      "word": "勃肯鞋",
-      "onboard_time": 1716776238,
-      "rank": 12,
-      "category": "时尚"
+      "raw_hot": 699655,
+      "num": 238319,
+      "word": "建议最近不要穿黄色衣服出门",
+      "onboard_time": 1716779780,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 691881,
@@ -739,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477526,
+      "num": 477526,
+      "word": "肖战张婧仪骑马路透",
+      "onboard_time": 1716776717,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474343,
       "num": 416662,
       "word": "张若昀4部剧霸榜腾讯视频前四",
@@ -851,6 +867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 430165,
+      "num": 430165,
+      "word": "麦当劳对讲机被炒至300元",
+      "onboard_time": 1716776838,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 427113,
       "num": 427113,
       "word": "令人失去沟通欲望的头像",
@@ -880,14 +904,6 @@
       "word": "庆余年 鸣龙少年",
       "onboard_time": 1716697938,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 421929,
-      "num": 421929,
-      "word": "肖战张婧仪骑马路透",
-      "onboard_time": 1716776717,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1115,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344612,
+      "num": 327298,
+      "word": "京东集团再次给采销大幅加薪",
+      "onboard_time": 1716778159,
+      "rank": 11,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 343488,
       "num": 343488,
       "word": "9个月的喀秋莎体重超50斤",
@@ -1187,20 +1211,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318413,
+      "num": 318413,
+      "word": "HR想捞我一把但我没听懂",
+      "onboard_time": 1716775758,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318249,
       "num": 318249,
       "word": "亚当圈粉",
       "onboard_time": 1716773237,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316749,
-      "num": 316749,
-      "word": "HR想捞我一把但我没听懂",
-      "onboard_time": 1716775758,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 315800,
@@ -1315,14 +1339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 291796,
-      "num": 291796,
-      "word": "麦当劳对讲机被炒至300元",
-      "onboard_time": 1716776838,
-      "rank": 36,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 291274,
       "num": 267690,
       "word": "你好星期六下期有罗云熙宋轶",
@@ -1379,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280962,
+      "num": 244567,
+      "word": "优酷贴脸开大张若昀",
+      "onboard_time": 1716778339,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280087,
       "num": 280087,
       "word": "北京市民网上买药支持医保支付",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1716655157,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 268762,
+      "num": 234938,
+      "word": "研究发现牙齿健康与寿命长短有关",
+      "onboard_time": 1716779181,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 265787,
@@ -1547,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241809,
+      "num": 234181,
+      "word": "同事太冷漠被辞退了",
+      "onboard_time": 1716778277,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241016,
       "num": 215329,
       "word": "SJ13人合体 今夕是何年",
@@ -1587,6 +1627,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 233307,
+      "num": 233307,
+      "word": "老师收9.1万陌生转账报警并退还",
+      "onboard_time": 1716779719,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232613,
+      "num": 232613,
+      "word": "为什么建议在单位立有对象人设",
+      "onboard_time": 1716777437,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232574,
       "num": 206921,
       "word": "张踩铃一家参加小鹿婚礼",
@@ -1603,6 +1659,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230925,
+      "num": 230925,
+      "word": "欧文33分",
+      "onboard_time": 1716779000,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 230258,
+      "num": 230258,
+      "word": "四川凉山5级地震",
+      "onboard_time": 1716780021,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229328,
       "num": 229328,
       "word": "快乐向前冲录制时多人摔骨折且未获赔",
@@ -1617,6 +1689,14 @@
       "onboard_time": 1716693738,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227760,
+      "num": 227760,
+      "word": "以前的教师编是怎么考上的",
+      "onboard_time": 1716776477,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 227580,
@@ -1779,6 +1859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210168,
+      "num": 210168,
+      "word": "大四学生轮流当C位拍毕业视频",
+      "onboard_time": 1716773357,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209797,
       "num": 205540,
       "word": "肖战纯白U领T恤",
@@ -1801,14 +1889,6 @@
       "onboard_time": 1716712517,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208545,
-      "num": 208545,
-      "word": "大四学生轮流当C位拍毕业视频",
-      "onboard_time": 1716773357,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207721,
@@ -1971,20 +2051,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194074,
+      "num": 194074,
+      "word": "独行侠3比0森林狼",
+      "onboard_time": 1716778758,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193992,
       "num": 193992,
       "word": "黄子弘凡的红内裤说掏就掏",
       "onboard_time": 1716722419,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193874,
-      "num": 193874,
-      "word": "以前的教师编是怎么考上的",
-      "onboard_time": 1716776477,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 193777,
@@ -2051,6 +2131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187678,
+      "num": 187678,
+      "word": "杨幂抵达北京了",
+      "onboard_time": 1716779359,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187482,
       "num": 187482,
       "word": "王楚钦说让梁靖崑保单打",
@@ -2113,6 +2201,14 @@
       "onboard_time": 1716701359,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184084,
+      "num": 184084,
+      "word": "薛之谦演唱会官宣新综艺",
+      "onboard_time": 1716778578,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 183553,
@@ -2385,14 +2481,6 @@
       "onboard_time": 1716645862,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 166948,
-      "num": 166948,
-      "word": "为什么建议在单位立有对象人设",
-      "onboard_time": 1716777437,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 166571,
@@ -2699,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140323,
+      "num": 140323,
+      "word": "降维求职的年轻人都怎么样了",
+      "onboard_time": 1716777797,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140020,
       "num": 129164,
       "word": "庆余年 春闱放榜",
@@ -2883,6 +2979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129508,
+      "num": 129508,
+      "word": "NBA",
+      "onboard_time": 1716778339,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128791,
       "num": 128791,
       "word": "橘猫为了抢占猫窝狂踩美短脑袋",
@@ -3001,6 +3105,14 @@
       "onboard_time": 1716706578,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122613,
+      "num": 122613,
+      "word": "那英 猫的人塑",
+      "onboard_time": 1716780080,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 122604,
@@ -3137,14 +3249,6 @@
       "onboard_time": 1716689658,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114719,
-      "num": 114719,
-      "word": "降维求职的年轻人都怎么样了",
-      "onboard_time": 1716777797,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114326,
@@ -3409,6 +3513,14 @@
       "onboard_time": 1716727880,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 82417,
+      "num": 329618,
+      "word": "口中有口点点大",
+      "onboard_time": 1716778518,
+      "rank": 9,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 81125,
@@ -3699,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37337,
+      "num": 238811,
+      "word": "深蓝G318把硬派油耗干掉了一半",
+      "onboard_time": 1716779061,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35833,
       "num": 249217,
       "word": "被南京这片绣球花海浪漫到了",
@@ -3801,6 +3921,14 @@
       "onboard_time": 1716701000,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 7316,
+      "num": 297456,
+      "word": "高考前发热怎么办",
+      "onboard_time": 1716778823,
+      "rank": 14,
+      "category": "教育,健康医疗"
     }
   ],
   "hotgov_list": [

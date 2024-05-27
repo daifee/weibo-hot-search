@@ -1,0 +1,410 @@
+{
+  "runTime": 1716780118384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6718022,
+        "num": 7968022,
+        "word": "华春莹任外交部副部长",
+        "onboard_time": 1716776658,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1207207,
+        "num": 1207207,
+        "word": "勃肯鞋",
+        "onboard_time": 1716776238,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 9123,
+        "num": 709527,
+        "word": "高质量发展调研行",
+        "onboard_time": 1716694698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520403,
+        "num": 520403,
+        "word": "杨幂给章子怡让镜头",
+        "onboard_time": 1716770478,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 477526,
+        "num": 477526,
+        "word": "肖战张婧仪骑马路透",
+        "onboard_time": 1716776717,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458412,
+        "num": 458412,
+        "word": "快30了还总觉得自己是个小孩",
+        "onboard_time": 1716772458,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 452834,
+        "num": 452834,
+        "word": "知名水上闯关类综艺录制现场突发意外",
+        "onboard_time": 1716768079,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430165,
+        "num": 430165,
+        "word": "麦当劳对讲机被炒至300元",
+        "onboard_time": 1716776838,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 338224,
+        "num": 338224,
+        "word": "大学生困在付费内推的陷阱里",
+        "onboard_time": 1716772399,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 82417,
+        "num": 329618,
+        "word": "口中有口点点大",
+        "onboard_time": 1716778518,
+        "rank": 9,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 382228,
+        "num": 327616,
+        "word": "刘强东 不想拼的不是兄弟",
+        "onboard_time": 1716773778,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 344612,
+        "num": 327298,
+        "word": "京东集团再次给采销大幅加薪",
+        "onboard_time": 1716778159,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 325106,
+        "num": 325106,
+        "word": "张若昀宣言二搭",
+        "onboard_time": 1716775277,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318413,
+        "num": 318413,
+        "word": "HR想捞我一把但我没听懂",
+        "onboard_time": 1716775758,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7316,
+        "num": 297456,
+        "word": "高考前发热怎么办",
+        "onboard_time": 1716778823,
+        "rank": 14,
+        "category": "教育,健康医疗"
+      },
+      {
+        "raw_hot": 287446,
+        "num": 287446,
+        "word": "上海这座比迪士尼还大的乐园荒废了",
+        "onboard_time": 1716773598,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 247155,
+        "num": 247155,
+        "word": "解放军视角近距离看台湾",
+        "onboard_time": 1716772879,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280962,
+        "num": 244567,
+        "word": "优酷贴脸开大张若昀",
+        "onboard_time": 1716778339,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239804,
+        "num": 239804,
+        "word": "京东内部管理",
+        "onboard_time": 1716777078,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37337,
+        "num": 238811,
+        "word": "深蓝G318把硬派油耗干掉了一半",
+        "onboard_time": 1716779061,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 699655,
+        "num": 238319,
+        "word": "建议最近不要穿黄色衣服出门",
+        "onboard_time": 1716779780,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 397123,
+        "num": 236405,
+        "word": "女儿以父母偏心哥哥为由拒绝赡养父母",
+        "onboard_time": 1716767537,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268762,
+        "num": 234938,
+        "word": "研究发现牙齿健康与寿命长短有关",
+        "onboard_time": 1716779181,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241809,
+        "num": 234181,
+        "word": "同事太冷漠被辞退了",
+        "onboard_time": 1716778277,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233307,
+        "num": 233307,
+        "word": "老师收9.1万陌生转账报警并退还",
+        "onboard_time": 1716779719,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232613,
+        "num": 232613,
+        "word": "为什么建议在单位立有对象人设",
+        "onboard_time": 1716777437,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230925,
+        "num": 230925,
+        "word": "欧文33分",
+        "onboard_time": 1716779000,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230258,
+        "num": 230258,
+        "word": "四川凉山5级地震",
+        "onboard_time": 1716780021,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227760,
+        "num": 227760,
+        "word": "以前的教师编是怎么考上的",
+        "onboard_time": 1716776477,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211031,
+        "num": 211031,
+        "word": "沙这么大杨幂怎么睁开眼的",
+        "onboard_time": 1716775997,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210168,
+        "num": 210168,
+        "word": "大四学生轮流当C位拍毕业视频",
+        "onboard_time": 1716773357,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207961,
+        "num": 207961,
+        "word": "山西重大刑案71岁嫌疑人已被抓",
+        "onboard_time": 1716771499,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205977,
+        "num": 205977,
+        "word": "张雨绮说自己起床就长这样",
+        "onboard_time": 1716767537,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201045,
+        "num": 201045,
+        "word": "TheShy说LWX比Uzi更好",
+        "onboard_time": 1716774737,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200050,
+        "num": 200050,
+        "word": "美媒称美国曾经在华享有美誉如今毁了",
+        "onboard_time": 1716775937,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 194074,
+        "num": 194074,
+        "word": "独行侠3比0森林狼",
+        "onboard_time": 1716778758,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192291,
+        "num": 192291,
+        "word": "A股",
+        "onboard_time": 1716775877,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187678,
+        "num": 187678,
+        "word": "杨幂抵达北京了",
+        "onboard_time": 1716779359,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184084,
+        "num": 184084,
+        "word": "薛之谦演唱会官宣新综艺",
+        "onboard_time": 1716778578,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183920,
+        "num": 183920,
+        "word": "快乐向前冲录制时多人摔骨折且未获赔",
+        "onboard_time": 1716776056,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183213,
+        "num": 183213,
+        "word": "亚当圈粉",
+        "onboard_time": 1716773237,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178448,
+        "num": 178448,
+        "word": "张若昀4部剧霸榜腾讯视频前四",
+        "onboard_time": 1716771197,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173804,
+        "num": 173804,
+        "word": "aespa破表",
+        "onboard_time": 1716770478,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158643,
+        "num": 158643,
+        "word": "谢娜女儿小咘芽的小名是跳跳取的",
+        "onboard_time": 1716774021,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143908,
+        "num": 143908,
+        "word": "网红刀小刀自曝重度抑郁",
+        "onboard_time": 1716735680,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142243,
+        "num": 142243,
+        "word": "一天熬过这4个发胖时刻就能瘦",
+        "onboard_time": 1716732679,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 140323,
+        "num": 140323,
+        "word": "降维求职的年轻人都怎么样了",
+        "onboard_time": 1716777797,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129508,
+        "num": 129508,
+        "word": "NBA",
+        "onboard_time": 1716778339,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127383,
+        "num": 127383,
+        "word": "范闲不会是孤臣",
+        "onboard_time": 1716767057,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122613,
+        "num": 122613,
+        "word": "那英 猫的人塑",
+        "onboard_time": 1716780080,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对进一步全面深化改革的重要部署#"
+    }
+  }
+}
