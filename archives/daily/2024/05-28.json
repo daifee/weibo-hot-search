@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716842068848,
+  "endTime": 1716844778029,
   "band_list": [
     {
       "raw_hot": 1186478,
@@ -443,20 +443,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40873,
+      "num": 22865,
+      "word": "绍兴课上开黄腔教师被警告处分",
+      "onboard_time": 1716835752,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36195,
       "num": 36195,
       "word": "突然理解好朋友跟朋友的区别",
       "onboard_time": 1716831492,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34836,
-      "num": 22770,
-      "word": "绍兴课上开黄腔教师被警告处分",
-      "onboard_time": 1716835752,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29867,
@@ -475,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21296,
+      "num": 21296,
+      "word": "突然发现消费习惯正在悄悄改变",
+      "onboard_time": 1716840730,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 20930,
       "num": 20930,
       "word": "曾经热闹的宜家为什么没什么人了",
@@ -491,12 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17950,
+      "num": 17950,
+      "word": "杨幂生万物明天开机仪式",
+      "onboard_time": 1716841990,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15987,
       "num": 18850,
       "word": "善宰转动机械表彻底恢复记忆",
       "onboard_time": 1716835631,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15683,
+      "num": 15683,
+      "word": "很久没见的无毛猫和布偶猫",
+      "onboard_time": 1716841990,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 14952,
@@ -507,20 +531,20 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 14692,
-      "num": 15256,
-      "word": "突然发现消费习惯正在悄悄改变",
-      "onboard_time": 1716840730,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 13064,
+      "num": 15679,
+      "word": "绳结技巧",
+      "onboard_time": 1716844330,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
-      "raw_hot": 12692,
-      "num": 15246,
-      "word": "很久没见的无毛猫和布偶猫",
-      "onboard_time": 1716841990,
-      "rank": 47,
-      "category": "动漫"
+      "raw_hot": 12642,
+      "num": 15678,
+      "word": "工作了8天又裸辞了",
+      "onboard_time": 1716844031,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 12539,
@@ -529,14 +553,6 @@
       "onboard_time": 1716841570,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 12377,
-      "num": 15245,
-      "word": "杨幂生万物明天开机仪式",
-      "onboard_time": 1716841990,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 8924,
