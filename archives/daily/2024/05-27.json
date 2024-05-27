@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716791229993,
+  "endTime": 1716791993788,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -91,20 +91,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1019748,
+      "num": 1019748,
+      "word": "章子怡 熹妃回宫",
+      "onboard_time": 1716789378,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 902001,
       "num": 902001,
       "word": "长期不说话或少说话有什么后果",
       "onboard_time": 1716781040,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 889922,
-      "num": 889922,
-      "word": "章子怡 熹妃回宫",
-      "onboard_time": 1716789378,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 858506,
@@ -123,12 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 755031,
-      "num": 755031,
+      "raw_hot": 814921,
+      "num": 814921,
       "word": "茉酸奶换标签续命水果馊了才肯扔",
       "onboard_time": 1716787217,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760296,
+      "num": 760296,
+      "word": "茉酸奶",
+      "onboard_time": 1716790578,
+      "rank": 12,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 747163,
@@ -211,20 +219,20 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 604265,
+      "num": 283232,
+      "word": "专家称未来几年大城市房价可能大幅上涨",
+      "onboard_time": 1716788118,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 604256,
       "num": 604256,
       "word": "亚当遮纹身",
       "onboard_time": 1716784102,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 575306,
-      "num": 241734,
-      "word": "专家称未来几年大城市房价可能大幅上涨",
-      "onboard_time": 1716788118,
-      "rank": 21,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 568946,
@@ -339,14 +347,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 461225,
-      "num": 461225,
-      "word": "茉酸奶",
-      "onboard_time": 1716790578,
-      "rank": 12,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 458645,
       "num": 458645,
       "word": "京东集团再次给采销大幅加薪",
@@ -403,6 +403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 379498,
+      "num": 257434,
+      "word": "肝不好的人上厕所或有这3种异样",
+      "onboard_time": 1716790639,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 376337,
       "num": 376337,
       "word": "HR想捞我一把但我没听懂",
@@ -417,6 +425,14 @@
       "onboard_time": 1716770478,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 366150,
+      "num": 366150,
+      "word": "杨幂的裤腰大了",
+      "onboard_time": 1716790999,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 364014,
@@ -440,6 +456,14 @@
       "word": "林祎凯开通微博",
       "onboard_time": 1716784402,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358536,
+      "num": 358536,
+      "word": "黄日莹脸受伤",
+      "onboard_time": 1716789559,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -481,14 +505,6 @@
       "onboard_time": 1716787039,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 310794,
-      "num": 310794,
-      "word": "黄日莹脸受伤",
-      "onboard_time": 1716789559,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 303870,
@@ -587,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249343,
+      "num": 249343,
+      "word": "大二女成为家里唯一的收入来源",
+      "onboard_time": 1716789078,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245015,
       "num": 223374,
       "word": "英国朋友来中国打工半年后破防了",
@@ -609,14 +633,6 @@
       "onboard_time": 1716778277,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 240563,
-      "num": 240563,
-      "word": "大二女成为家里唯一的收入来源",
-      "onboard_time": 1716789078,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239669,
@@ -680,6 +696,14 @@
       "word": "沙这么大杨幂怎么睁开眼的",
       "onboard_time": 1716775997,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224831,
+      "num": 224831,
+      "word": "庆余年2涨分了",
+      "onboard_time": 1716789798,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -787,22 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206746,
-      "num": 206746,
-      "word": "肝不好的人上厕所或有这3种异样",
-      "onboard_time": 1716790639,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 206498,
-      "num": 206498,
-      "word": "庆余年2涨分了",
-      "onboard_time": 1716789798,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206370,
       "num": 173436,
       "word": "原来减肥还分减脂和减重",
@@ -827,8 +835,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204064,
-      "num": 204064,
+      "raw_hot": 204284,
+      "num": 204284,
       "word": "巴新山体滑坡超2000人被埋",
       "onboard_time": 1716789677,
       "rank": 29,
@@ -867,6 +875,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 198764,
+      "num": 198764,
+      "word": "范闲亲手做婚戒",
+      "onboard_time": 1716790639,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196386,
       "num": 196386,
       "word": "71岁男子持石块击打61岁男子致其死亡",
@@ -883,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191084,
+      "num": 191084,
+      "word": "王妈公司晒后台大量应聘信息",
+      "onboard_time": 1716790697,
+      "rank": 30,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 187678,
       "num": 187678,
       "word": "杨幂抵达北京了",
@@ -891,28 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187630,
-      "num": 187630,
-      "word": "王妈公司晒后台大量应聘信息",
-      "onboard_time": 1716790697,
-      "rank": 30,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 187482,
       "num": 187482,
       "word": "王楚钦说让梁靖崑保单打",
       "onboard_time": 1716766997,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186371,
-      "num": 186371,
-      "word": "范闲亲手做婚戒",
-      "onboard_time": 1716790639,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 184084,
@@ -995,6 +1003,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 168970,
+      "num": 168970,
+      "word": "老一辈人没苦硬吃",
+      "onboard_time": 1716788118,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168020,
       "num": 168020,
       "word": "久酷",
@@ -1011,14 +1027,6 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 166458,
-      "num": 166458,
-      "word": "老一辈人没苦硬吃",
-      "onboard_time": 1716788118,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165467,
       "num": 165467,
       "word": "林俊杰嘉宾",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1716772097,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163945,
-      "num": 163945,
-      "word": "杨幂的裤腰大了",
-      "onboard_time": 1716790999,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 163932,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1716729200,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149568,
+      "num": 149568,
+      "word": "没有人天生应该对你好 爹例外",
+      "onboard_time": 1716790877,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 147216,
@@ -1163,14 +1171,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 138441,
-      "num": 138441,
-      "word": "没有人天生应该对你好 爹例外",
-      "onboard_time": 1716790877,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138241,
       "num": 138241,
       "word": "按摩仪1880元出厂卖给老人15900元",
@@ -1233,6 +1233,22 @@
       "onboard_time": 1716787699,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131397,
+      "num": 131397,
+      "word": "免去曲云海的国家移民管理局副局长职务",
+      "onboard_time": 1716791536,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 131385,
+      "num": 506036,
+      "word": "盲人独自走在街头阿姨大喊别动别动",
+      "onboard_time": 1716789559,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130685,
@@ -1403,6 +1419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105300,
+      "num": 271853,
+      "word": "四川消防启动地震救援三级响应",
+      "onboard_time": 1716791718,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105129,
       "num": 208809,
       "word": "小狗狗偷偷跟着小主人上学",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1716711378,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98573,
+      "num": 98573,
+      "word": "贺宗纬是虚伪的伪",
+      "onboard_time": 1716791898,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 98376,
@@ -1483,14 +1515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78040,
-      "num": 506036,
-      "word": "盲人独自走在街头阿姨大喊别动别动",
-      "onboard_time": 1716789559,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77512,
       "num": 417939,
       "word": "雨后金山岭长城现霞光云海奇观",
@@ -1537,6 +1561,14 @@
       "onboard_time": 1716766095,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59845,
+      "num": 229740,
+      "word": "被长在树梢上的熊猫可爱到了",
+      "onboard_time": 1716788719,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55743,
