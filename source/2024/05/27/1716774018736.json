@@ -1,0 +1,410 @@
+{
+  "runTime": 1716774018736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1671856,
+        "num": 1671856,
+        "word": "知名水上闯关类综艺录制现场突发意外",
+        "onboard_time": 1716768079,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1241253,
+        "num": 1241253,
+        "word": "杨幂给章子怡让镜头",
+        "onboard_time": 1716770478,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15954,
+        "num": 927430,
+        "word": "高质量发展调研行",
+        "onboard_time": 1716694698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858506,
+        "num": 858506,
+        "word": "山西重大刑案71岁嫌疑人已被抓",
+        "onboard_time": 1716771499,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625853,
+        "num": 625853,
+        "word": "快30了还总觉得自己是个小孩",
+        "onboard_time": 1716772458,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 541406,
+        "num": 541406,
+        "word": "网红刀小刀自曝重度抑郁",
+        "onboard_time": 1716735680,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 537015,
+        "num": 537015,
+        "word": "忽悠老人停药用家用电器治病",
+        "onboard_time": 1716767537,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436996,
+        "num": 436996,
+        "word": "张雨绮说自己起床就长这样",
+        "onboard_time": 1716767537,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422846,
+        "num": 422846,
+        "word": "范闲不会是孤臣",
+        "onboard_time": 1716767057,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40384,
+        "num": 417939,
+        "word": "雨后金山岭长城现霞光云海奇观",
+        "onboard_time": 1716772278,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 474343,
+        "num": 416662,
+        "word": "张若昀4部剧霸榜腾讯视频前四",
+        "onboard_time": 1716771197,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414544,
+        "num": 414544,
+        "word": "解放军视角近距离看台湾",
+        "onboard_time": 1716772879,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 340799,
+        "num": 340799,
+        "word": "大学生困在付费内推的陷阱里",
+        "onboard_time": 1716772399,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 335527,
+        "num": 335527,
+        "word": "aespa破表",
+        "onboard_time": 1716770478,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280349,
+        "num": 280349,
+        "word": "王妈公司0人参保",
+        "onboard_time": 1716729379,
+        "rank": 14,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 277289,
+        "num": 277289,
+        "word": "淡黄色是牙医公认的健康色号",
+        "onboard_time": 1716725717,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246313,
+        "num": 246313,
+        "word": "陈嘻嘻",
+        "onboard_time": 1716767957,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232492,
+        "num": 232492,
+        "word": "湖南桂阳放出41亿只虫子灭害虫",
+        "onboard_time": 1716739458,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205759,
+        "num": 205759,
+        "word": "刘强东 不想拼的不是兄弟",
+        "onboard_time": 1716773778,
+        "rank": 18,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 193574,
+        "num": 193574,
+        "word": "服务区回应多位女士占用男厕",
+        "onboard_time": 1716741436,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650234,
+        "num": 192979,
+        "word": "女儿以父母偏心哥哥为由拒绝赡养父母",
+        "onboard_time": 1716767537,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406538,
+        "num": 191006,
+        "word": "突然感觉体制内挺适合不婚族",
+        "onboard_time": 1716730519,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394875,
+        "num": 186737,
+        "word": "蚊子在造成人类死亡的动物中排第一",
+        "onboard_time": 1716768797,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258793,
+        "num": 184988,
+        "word": "李现回复杨幂",
+        "onboard_time": 1716767057,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167991,
+        "num": 181812,
+        "word": "战车列阵画面有多震撼",
+        "onboard_time": 1716772638,
+        "rank": 24,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 220605,
+        "num": 179288,
+        "word": "一天熬过这4个发胖时刻就能瘦",
+        "onboard_time": 1716732679,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 220378,
+        "num": 178132,
+        "word": "十块钱做了三杯珍珠奶茶",
+        "onboard_time": 1716769578,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175908,
+        "num": 175908,
+        "word": "亚当圈粉",
+        "onboard_time": 1716773237,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171849,
+        "num": 171849,
+        "word": "女子喂乌龟火龙果喜提炫彩神龟",
+        "onboard_time": 1716748751,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169355,
+        "num": 169355,
+        "word": "王冰冰回应尼格买提",
+        "onboard_time": 1716751690,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184856,
+        "num": 168536,
+        "word": "上海这座比迪士尼还大的乐园荒废了",
+        "onboard_time": 1716773598,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 164332,
+        "num": 164332,
+        "word": "为什么新娘妆那么容易翻车",
+        "onboard_time": 1716769038,
+        "rank": 31,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 164220,
+        "num": 164220,
+        "word": "原来减肥还分减脂和减重",
+        "onboard_time": 1716767477,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 164096,
+        "num": 164096,
+        "word": "深圳天气",
+        "onboard_time": 1716772097,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149886,
+        "num": 149886,
+        "word": "逍遥散人求婚",
+        "onboard_time": 1716726559,
+        "rank": 34,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 147171,
+        "num": 147171,
+        "word": "独行侠vs森林狼",
+        "onboard_time": 1716770538,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145918,
+        "num": 145918,
+        "word": "张踩铃一家参加小鹿婚礼",
+        "onboard_time": 1716765436,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145916,
+        "num": 145916,
+        "word": "补位歌手是谁",
+        "onboard_time": 1716768018,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142242,
+        "num": 142242,
+        "word": "你觉得身边吸烟的人变少了吗",
+        "onboard_time": 1716773598,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138674,
+        "num": 138674,
+        "word": "王妈公司回应参保人数为0",
+        "onboard_time": 1716768378,
+        "rank": 39,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 132059,
+        "num": 132059,
+        "word": "张若昀是在预告第三季吗",
+        "onboard_time": 1716736759,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129125,
+        "num": 129125,
+        "word": "夏天别乱穿洞洞鞋小心变得不幸",
+        "onboard_time": 1716735559,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128220,
+        "num": 128220,
+        "word": "女子目睹网约司机半路接电话后暴哭",
+        "onboard_time": 1716726438,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127086,
+        "num": 127086,
+        "word": "汗疱疹会传染吗",
+        "onboard_time": 1716771021,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126865,
+        "num": 126865,
+        "word": "老人为什么看电视越来越吃力",
+        "onboard_time": 1716770837,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123725,
+        "num": 123725,
+        "word": "马伊琍去新疆了",
+        "onboard_time": 1716769699,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122260,
+        "num": 122260,
+        "word": "大四学生轮流当C位拍毕业视频",
+        "onboard_time": 1716773357,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120841,
+        "num": 120841,
+        "word": "世界上公认最好的运动HIIT",
+        "onboard_time": 1716769997,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 119603,
+        "num": 119603,
+        "word": "王楚钦说让梁靖崑保单打",
+        "onboard_time": 1716766997,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116465,
+        "num": 116465,
+        "word": "庆余年2第15集22分55秒",
+        "onboard_time": 1716725118,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#稳步提升粮食产能#"
+    }
+  }
+}
