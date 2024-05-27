@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716826963583,
+  "endTime": 1716827940892,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -1483,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410831,
+      "num": 410831,
+      "word": "巴以冲突",
+      "onboard_time": 1716824598,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 407271,
       "num": 407271,
       "word": "久酷",
@@ -1585,6 +1593,14 @@
       "onboard_time": 1716819499,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 380980,
+      "num": 380980,
+      "word": "人最笨的时候就是问出那句",
+      "onboard_time": 1716822680,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 377415,
@@ -1785,14 +1801,6 @@
       "onboard_time": 1716822740,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 348038,
-      "num": 348038,
-      "word": "人最笨的时候就是问出那句",
-      "onboard_time": 1716822680,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 346607,
@@ -2089,14 +2097,6 @@
       "onboard_time": 1716774737,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 295697,
-      "num": 295697,
-      "word": "巴以冲突",
-      "onboard_time": 1716824598,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 295214,
@@ -3355,6 +3355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188149,
+      "num": 188149,
+      "word": "当你连续点同一家外卖超过100次",
+      "onboard_time": 1716823101,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187678,
       "num": 187678,
       "word": "杨幂抵达北京了",
@@ -3465,14 +3473,6 @@
       "onboard_time": 1716778578,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 183962,
-      "num": 183962,
-      "word": "当你连续点同一家外卖超过100次",
-      "onboard_time": 1716823101,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 183553,
@@ -4307,6 +4307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142264,
+      "num": 142264,
+      "word": "纳达尔 兹维列夫",
+      "onboard_time": 1716816859,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141959,
       "num": 141959,
       "word": "Uzi无缘老头杯淘汰赛",
@@ -5083,6 +5091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117396,
+      "num": 117396,
+      "word": "纳达尔vs兹维列夫",
+      "onboard_time": 1716826996,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117281,
       "num": 117281,
       "word": "张若昀吴幸键是师兄弟",
@@ -5177,14 +5193,6 @@
       "onboard_time": 1716712458,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110641,
-      "num": 110641,
-      "word": "纳达尔 兹维列夫",
-      "onboard_time": 1716816859,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 110599,
