@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716788075090,
+  "endTime": 1716791229993,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -99,6 +99,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 889922,
+      "num": 889922,
+      "word": "章子怡 熹妃回宫",
+      "onboard_time": 1716789378,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 858506,
       "num": 858506,
       "word": "山西重大刑案71岁嫌疑人已被抓",
@@ -112,6 +120,14 @@
       "word": "女儿以父母偏心哥哥为由拒绝赡养父母",
       "onboard_time": 1716767537,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 755031,
+      "num": 755031,
+      "word": "茉酸奶换标签续命水果馊了才肯扔",
+      "onboard_time": 1716787217,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 658966,
-      "num": 275290,
+      "num": 497594,
       "word": "双休和单休真是两种人生",
       "onboard_time": 1716783259,
       "rank": 30,
@@ -179,6 +195,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 626034,
+      "num": 626034,
+      "word": "那英和杨丞琳眼神里都没有光了",
+      "onboard_time": 1716788118,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 617046,
+      "num": 617046,
+      "word": "两家可乐涨价",
+      "onboard_time": 1716784160,
+      "rank": 20,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 604256,
       "num": 604256,
       "word": "亚当遮纹身",
@@ -187,12 +219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 574957,
-      "num": 276132,
-      "word": "两家可乐涨价",
-      "onboard_time": 1716784160,
-      "rank": 20,
-      "category": "财经,美食"
+      "raw_hot": 575306,
+      "num": 241734,
+      "word": "专家称未来几年大城市房价可能大幅上涨",
+      "onboard_time": 1716788118,
+      "rank": 21,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 568946,
@@ -305,6 +337,14 @@
       "onboard_time": 1716773598,
       "rank": 30,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 461225,
+      "num": 461225,
+      "word": "茉酸奶",
+      "onboard_time": 1716790578,
+      "rank": 12,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 458645,
@@ -443,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310794,
+      "num": 310794,
+      "word": "黄日莹脸受伤",
+      "onboard_time": 1716789559,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303870,
       "num": 303870,
       "word": "京东内部管理",
@@ -563,12 +611,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240563,
+      "num": 240563,
+      "word": "大二女成为家里唯一的收入来源",
+      "onboard_time": 1716789078,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239669,
       "num": 585366,
       "word": "骗子说产品万能时自己都笑了",
       "onboard_time": 1716782721,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237535,
+      "num": 237535,
+      "word": "歌手",
+      "onboard_time": 1716788298,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 232613,
@@ -667,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213775,
+      "num": 213775,
+      "word": "狐妖小红娘动画第12季",
+      "onboard_time": 1716790159,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210168,
       "num": 210168,
       "word": "大四学生轮流当C位拍毕业视频",
@@ -715,6 +787,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206746,
+      "num": 206746,
+      "word": "肝不好的人上厕所或有这3种异样",
+      "onboard_time": 1716790639,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206498,
+      "num": 206498,
+      "word": "庆余年2涨分了",
+      "onboard_time": 1716789798,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206370,
       "num": 173436,
       "word": "原来减肥还分减脂和减重",
@@ -737,6 +825,14 @@
       "onboard_time": 1716727819,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204064,
+      "num": 204064,
+      "word": "巴新山体滑坡超2000人被埋",
+      "onboard_time": 1716789677,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202721,
@@ -771,14 +867,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 200382,
-      "num": 200382,
-      "word": "茉酸奶换标签续命水果馊了才肯扔",
-      "onboard_time": 1716787217,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196386,
       "num": 196386,
       "word": "71岁男子持石块击打61岁男子致其死亡",
@@ -803,12 +891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187630,
+      "num": 187630,
+      "word": "王妈公司晒后台大量应聘信息",
+      "onboard_time": 1716790697,
+      "rank": 30,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 187482,
       "num": 187482,
       "word": "王楚钦说让梁靖崑保单打",
       "onboard_time": 1716766997,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186371,
+      "num": 186371,
+      "word": "范闲亲手做婚戒",
+      "onboard_time": 1716790639,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 184084,
@@ -849,6 +953,14 @@
       "onboard_time": 1716770538,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175670,
+      "num": 175670,
+      "word": "王鹤棣把王传君推自爆了",
+      "onboard_time": 1716788479,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 175343,
@@ -899,6 +1011,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 166458,
+      "num": 166458,
+      "word": "老一辈人没苦硬吃",
+      "onboard_time": 1716788118,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165467,
       "num": 165467,
       "word": "林俊杰嘉宾",
@@ -913,6 +1033,14 @@
       "onboard_time": 1716772097,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163945,
+      "num": 163945,
+      "word": "杨幂的裤腰大了",
+      "onboard_time": 1716790999,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 163932,
@@ -1035,12 +1163,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138441,
+      "num": 138441,
+      "word": "没有人天生应该对你好 爹例外",
+      "onboard_time": 1716790877,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138241,
       "num": 138241,
       "word": "按摩仪1880元出厂卖给老人15900元",
       "onboard_time": 1716774677,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137714,
+      "num": 137714,
+      "word": "室友非要把空调开通宵",
+      "onboard_time": 1716790159,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 137246,
@@ -1089,6 +1233,22 @@
       "onboard_time": 1716787699,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130685,
+      "num": 130685,
+      "word": "范闲该硬硬该软软",
+      "onboard_time": 1716790277,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130396,
+      "num": 130396,
+      "word": "蔡依林南昌演唱会",
+      "onboard_time": 1716790398,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 130156,
@@ -1193,6 +1353,14 @@
       "onboard_time": 1716765375,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117281,
+      "num": 117281,
+      "word": "张若昀吴幸键是师兄弟",
+      "onboard_time": 1716789198,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 116158,
@@ -1313,6 +1481,14 @@
       "onboard_time": 1716713239,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78040,
+      "num": 506036,
+      "word": "盲人独自走在街头阿姨大喊别动别动",
+      "onboard_time": 1716789559,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77512,
@@ -1449,6 +1625,14 @@
       "onboard_time": 1716734300,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36833,
+      "num": 333548,
+      "word": "京东红人",
+      "onboard_time": 1716789859,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 36096,
