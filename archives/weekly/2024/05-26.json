@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716848240135,
+  "endTime": 1716849265571,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -4739,6 +4739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129547,
+      "num": 44115,
+      "word": "绍兴课上开黄腔教师被警告处分",
+      "onboard_time": 1716835752,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129508,
       "num": 129508,
       "word": "NBA",
@@ -5043,6 +5051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118998,
+      "num": 118998,
+      "word": "中部六省要扛起主体责任让脊梁更硬",
+      "onboard_time": 1716830773,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118734,
       "num": 102508,
       "word": "男朋友哭着答应了我的求婚",
@@ -5209,14 +5225,6 @@
       "onboard_time": 1716784762,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110290,
-      "num": 80902,
-      "word": "中部六省要扛起主体责任让脊梁更硬",
-      "onboard_time": 1716830773,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 110214,
@@ -5475,14 +5483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89465,
-      "num": 37616,
-      "word": "绍兴课上开黄腔教师被警告处分",
-      "onboard_time": 1716835752,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87144,
       "num": 106619,
       "word": "原来朋友圈很多官宣照是这么来的",
@@ -5731,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52759,
+      "num": 43666,
+      "word": "老师做久了真的都有职业病吗",
+      "onboard_time": 1716848412,
+      "rank": 22,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 52511,
       "num": 277658,
       "word": "天猫618玫瑰是玫瑰章小蕙首播",
@@ -5811,6 +5819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48372,
+      "num": 43444,
+      "word": "杨幂戛纳有效出国",
+      "onboard_time": 1716845231,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47839,
       "num": 248755,
       "word": "深蓝G318把硬派油耗干掉了一半",
@@ -5857,6 +5873,14 @@
       "onboard_time": 1716783022,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43287,
+      "num": 43287,
+      "word": "曾经热闹的宜家为什么没什么人了",
+      "onboard_time": 1716835092,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 42877,
@@ -5923,20 +5947,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37769,
+      "num": 37769,
+      "word": "李小冉花期好长",
+      "onboard_time": 1716846731,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37687,
       "num": 506751,
       "word": "闺蜜生日女子花三个月手作相册礼物",
       "onboard_time": 1716733041,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36844,
-      "num": 36844,
-      "word": "杨幂戛纳有效出国",
-      "onboard_time": 1716845231,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 36833,
@@ -5963,12 +5987,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 33327,
-      "num": 33327,
-      "word": "曾经热闹的宜家为什么没什么人了",
-      "onboard_time": 1716835092,
-      "rank": 40,
+      "raw_hot": 34737,
+      "num": 34737,
+      "word": "突然发现消费习惯正在悄悄改变",
+      "onboard_time": 1716840730,
+      "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34149,
+      "num": 34149,
+      "word": "工作了8天又裸辞了",
+      "onboard_time": 1716844031,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 33181,
@@ -5995,12 +6027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31709,
-      "num": 31709,
-      "word": "突然发现消费习惯正在悄悄改变",
-      "onboard_time": 1716840730,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 32177,
+      "num": 32177,
+      "word": "杨幂生万物明天开机仪式",
+      "onboard_time": 1716841990,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 30512,
@@ -6009,14 +6041,6 @@
       "onboard_time": 1716644360,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30294,
-      "num": 30294,
-      "word": "李小冉花期好长",
-      "onboard_time": 1716846731,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 29758,
@@ -6035,20 +6059,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29009,
-      "num": 29009,
-      "word": "杨幂生万物明天开机仪式",
-      "onboard_time": 1716841990,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28474,
       "num": 506483,
       "word": "温州人把龙舟划出高铁的气势",
       "onboard_time": 1716652939,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28127,
+      "num": 28127,
+      "word": "黄奕自认人生谷底是结婚",
+      "onboard_time": 1716848833,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 25811,
@@ -6073,14 +6097,6 @@
       "onboard_time": 1716803178,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21171,
-      "num": 21171,
-      "word": "工作了8天又裸辞了",
-      "onboard_time": 1716844031,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 20654,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716848240135,
+  "endTime": 1716849265571,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -61203,6 +61203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129547,
+      "num": 44115,
+      "word": "绍兴课上开黄腔教师被警告处分",
+      "onboard_time": 1716835752,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129542,
       "num": 129542,
       "word": "杨幂五月好忙",
@@ -64099,6 +64107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118998,
+      "num": 118998,
+      "word": "中部六省要扛起主体责任让脊梁更硬",
+      "onboard_time": 1716830773,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118952,
       "num": 118952,
       "word": "不同尺寸鲨鱼夹发型",
@@ -66193,14 +66209,6 @@
       "onboard_time": 1716784762,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110290,
-      "num": 80902,
-      "word": "中部六省要扛起主体责任让脊梁更硬",
-      "onboard_time": 1716830773,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 110214,
@@ -69153,14 +69161,6 @@
       "onboard_time": 1714951275,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89465,
-      "num": 37616,
-      "word": "绍兴课上开黄腔教师被警告处分",
-      "onboard_time": 1716835752,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89422,
@@ -72339,6 +72339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 52759,
+      "num": 43666,
+      "word": "老师做久了真的都有职业病吗",
+      "onboard_time": 1716848412,
+      "rank": 22,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 52710,
       "num": 52710,
       "word": "多特蒙德vs巴黎圣日耳曼",
@@ -72761,6 +72769,14 @@
       "onboard_time": 1715945419,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48372,
+      "num": 43444,
+      "word": "杨幂戛纳有效出国",
+      "onboard_time": 1716845231,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 48123,
@@ -73275,6 +73291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 43287,
+      "num": 43287,
+      "word": "曾经热闹的宜家为什么没什么人了",
+      "onboard_time": 1716835092,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 43271,
       "num": 43271,
       "word": "小时候妈妈教你走路现在再教一次",
@@ -73699,6 +73723,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 37769,
+      "num": 37769,
+      "word": "李小冉花期好长",
+      "onboard_time": 1716846731,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37687,
       "num": 506751,
       "word": "闺蜜生日女子花三个月手作相册礼物",
@@ -73819,14 +73851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 36844,
-      "num": 36844,
-      "word": "杨幂戛纳有效出国",
-      "onboard_time": 1716845231,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 36833,
       "num": 333548,
       "word": "京东红人",
@@ -73939,6 +73963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34737,
+      "num": 34737,
+      "word": "突然发现消费习惯正在悄悄改变",
+      "onboard_time": 1716840730,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 34568,
       "num": 34568,
       "word": "章昊主打直拍",
@@ -73979,6 +74011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34149,
+      "num": 34149,
+      "word": "工作了8天又裸辞了",
+      "onboard_time": 1716844031,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 34039,
       "num": 35606,
       "word": "跑男团cha了宋雨琦的FREAK",
@@ -74009,14 +74049,6 @@
       "onboard_time": 1715624592,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 33327,
-      "num": 33327,
-      "word": "曾经热闹的宜家为什么没什么人了",
-      "onboard_time": 1716835092,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 33266,
@@ -74155,6 +74187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32177,
+      "num": 32177,
+      "word": "杨幂生万物明天开机仪式",
+      "onboard_time": 1716841990,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32041,
       "num": 47441,
       "word": "武艺 综艺感的神",
@@ -74169,14 +74209,6 @@
       "onboard_time": 1716535758,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 31709,
-      "num": 31709,
-      "word": "突然发现消费习惯正在悄悄改变",
-      "onboard_time": 1716840730,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 31690,
@@ -74291,14 +74323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30294,
-      "num": 30294,
-      "word": "李小冉花期好长",
-      "onboard_time": 1716846731,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30225,
       "num": 1041189,
       "word": "长城长皆同往",
@@ -74387,14 +74411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29009,
-      "num": 29009,
-      "word": "杨幂生万物明天开机仪式",
-      "onboard_time": 1716841990,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28957,
       "num": 28957,
       "word": "四川的猫咪自带松弛感",
@@ -74433,6 +74449,14 @@
       "onboard_time": 1716652939,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28127,
+      "num": 28127,
+      "word": "黄奕自认人生谷底是结婚",
+      "onboard_time": 1716848833,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 28119,
@@ -74961,14 +74985,6 @@
       "onboard_time": 1714676351,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21171,
-      "num": 21171,
-      "word": "工作了8天又裸辞了",
-      "onboard_time": 1716844031,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 21153,
