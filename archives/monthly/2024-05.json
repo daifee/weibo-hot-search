@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716835003344,
+  "endTime": 1716837341505,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -75027,6 +75027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 19791,
+      "num": 19791,
+      "word": "曾经热闹的宜家为什么没什么人了",
+      "onboard_time": 1716835092,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19687,
       "num": 23188,
       "word": "全国吃辣battle",
@@ -75203,6 +75211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16725,
+      "num": 18860,
+      "word": "绍兴课上开黄腔教师被警告处分",
+      "onboard_time": 1716835752,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16627,
       "num": 182046,
       "word": "鸣潮也有自己的商务殷语",
@@ -75241,6 +75257,14 @@
       "onboard_time": 1715719870,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15987,
+      "num": 18850,
+      "word": "善宰转动机械表彻底恢复记忆",
+      "onboard_time": 1716835631,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 15833,
