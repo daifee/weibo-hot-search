@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716819446225,
+  "endTime": 1716820463861,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -211,8 +211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 831984,
-      "num": 831984,
+      "raw_hot": 852992,
+      "num": 852992,
       "word": "费介死了吗",
       "onboard_time": 1716816500,
       "rank": 28,
@@ -283,12 +283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 735072,
+      "num": 735072,
+      "word": "网恋是赵昭仪 奔现是强哥",
+      "onboard_time": 1716815539,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 728149,
       "num": 521712,
       "word": "不该把中国妹都叫成熊猫妹",
       "onboard_time": 1716799159,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 716015,
+      "num": 507512,
+      "word": "唐艺昕张若昀 美好爱情",
+      "onboard_time": 1716816859,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 708074,
@@ -299,20 +315,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 692092,
-      "num": 451923,
-      "word": "唐艺昕张若昀 美好爱情",
-      "onboard_time": 1716816859,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 680569,
       "num": 334077,
       "word": "王妈公司0人参保",
       "onboard_time": 1716729379,
       "rank": 10,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 672157,
+      "num": 672157,
+      "word": "朝鲜",
+      "onboard_time": 1716819439,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 669611,
+      "num": 669611,
+      "word": "长公主好美",
+      "onboard_time": 1716818118,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 655464,
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633147,
+      "num": 633147,
+      "word": "月红篇终于癫成我想要的样子",
+      "onboard_time": 1716815299,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 626825,
       "num": 626825,
       "word": "逍遥散人求婚",
@@ -385,14 +417,6 @@
       "onboard_time": 1716788118,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 618780,
-      "num": 618780,
-      "word": "月红篇终于癫成我想要的样子",
-      "onboard_time": 1716815299,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 617046,
@@ -433,14 +457,6 @@
       "onboard_time": 1716798740,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 599460,
-      "num": 599460,
-      "word": "网恋是赵昭仪 奔现是强哥",
-      "onboard_time": 1716815539,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 596095,
@@ -667,6 +683,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 468747,
+      "num": 468747,
+      "word": "黄晓明模仿亚当",
+      "onboard_time": 1716816080,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458645,
       "num": 458645,
       "word": "京东集团再次给采销大幅加薪",
@@ -683,22 +707,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 450852,
-      "num": 450852,
-      "word": "长公主好美",
-      "onboard_time": 1716818118,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 447741,
-      "num": 447741,
-      "word": "黄晓明模仿亚当",
-      "onboard_time": 1716816080,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 447338,
       "num": 186737,
       "word": "蚊子在造成人类死亡的动物中排第一",
@@ -713,6 +721,14 @@
       "onboard_time": 1716795738,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 438154,
+      "num": 223250,
+      "word": "一个班的几乎全是考公务员的",
+      "onboard_time": 1716817219,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 427245,
@@ -939,6 +955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 333072,
+      "num": 333072,
+      "word": "范思辙为什么要戴项圈",
+      "onboard_time": 1716820099,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322473,
       "num": 322473,
       "word": "上海发布房产新政",
@@ -969,14 +993,6 @@
       "onboard_time": 1716787039,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311402,
-      "num": 192431,
-      "word": "一个班的几乎全是考公务员的",
-      "onboard_time": 1716817219,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 310579,
@@ -1323,8 +1339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223881,
-      "num": 223881,
+      "raw_hot": 224671,
+      "num": 224671,
       "word": "世界卫生大会拒绝涉台提案",
       "onboard_time": 1716817699,
       "rank": 18,
@@ -1452,7 +1468,7 @@
     },
     {
       "raw_hot": 208105,
-      "num": 190953,
+      "num": 205777,
       "word": "找到了口红试色的新方法",
       "onboard_time": 1716818239,
       "rank": 27,
@@ -1513,6 +1529,14 @@
       "onboard_time": 1716783561,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202216,
+      "num": 202216,
+      "word": "2024KPL夏季赛抽签仪式",
+      "onboard_time": 1716819800,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 202047,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1716775758,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 194744,
+      "num": 194744,
+      "word": "李小冉怎么保养的",
+      "onboard_time": 1716819680,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 194715,
@@ -1787,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174777,
+      "num": 174777,
+      "word": "杨幂敦煌风妆造",
+      "onboard_time": 1716816620,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174749,
       "num": 174749,
       "word": "唐斯命中率",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1716723557,
       "rank": 26,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 169804,
+      "num": 169804,
+      "word": "大学一人寝你愿意住吗",
+      "onboard_time": 1716816739,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 169366,
@@ -1881,14 +1929,6 @@
       "onboard_time": 1716801738,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166448,
-      "num": 166448,
-      "word": "杨幂敦煌风妆造",
-      "onboard_time": 1716816620,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 165467,
@@ -1979,12 +2019,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 156517,
-      "num": 156517,
-      "word": "大学一人寝你愿意住吗",
-      "onboard_time": 1716816739,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 156752,
+      "num": 156752,
+      "word": "茉酸奶涉事门店遭立案调查",
+      "onboard_time": 1716819621,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156359,
@@ -2089,6 +2129,14 @@
       "onboard_time": 1716790159,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147831,
+      "num": 147831,
+      "word": "中国统一的大势不可逆转",
+      "onboard_time": 1716819499,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 147384,
@@ -2315,6 +2363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132601,
+      "num": 132601,
+      "word": "建议i人都去尝试十点睡五点起",
+      "onboard_time": 1716819740,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131987,
       "num": 131987,
       "word": "当小狗幼儿园放学",
@@ -2425,6 +2481,14 @@
       "onboard_time": 1716807858,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129224,
+      "num": 129224,
+      "word": "杨洋精准拿下三次大合照",
+      "onboard_time": 1716820280,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 128990,
@@ -2748,7 +2812,7 @@
     },
     {
       "raw_hot": 85495,
-      "num": 300354,
+      "num": 301764,
       "word": "荣耀200能拍20000一张的写真",
       "onboard_time": 1716817639,
       "rank": 15,
@@ -2891,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51248,
+      "num": 884113,
+      "word": "沉浸式感受数字点亮生活",
+      "onboard_time": 1716814638,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50873,
       "num": 479804,
       "word": "成都周一朝霞定律",
@@ -2947,14 +3019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45509,
-      "num": 884113,
-      "word": "沉浸式感受数字点亮生活",
-      "onboard_time": 1716814638,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42877,
       "num": 311817,
       "word": "杨洋首部短剧",
@@ -2968,6 +3032,14 @@
       "word": "爸爸给女儿的成人礼一步一惊喜",
       "onboard_time": 1716801319,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40066,
+      "num": 513458,
+      "word": "车来车往的路口为老人按下120秒暂停键",
+      "onboard_time": 1716816799,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3065,14 +3137,6 @@
       "onboard_time": 1716776780,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 9253,
-      "num": 205007,
-      "word": "车来车往的路口为老人按下120秒暂停键",
-      "onboard_time": 1716816799,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7316,
