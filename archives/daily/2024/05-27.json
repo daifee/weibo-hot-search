@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716787114221,
+  "endTime": 1716788075090,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -139,6 +139,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 658966,
+      "num": 275290,
+      "word": "双休和单休真是两种人生",
+      "onboard_time": 1716783259,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 645353,
       "num": 475878,
       "word": "刘强东 不想拼的不是兄弟",
@@ -171,20 +179,20 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 600884,
-      "num": 600884,
+      "raw_hot": 604256,
+      "num": 604256,
       "word": "亚当遮纹身",
       "onboard_time": 1716784102,
       "rank": 24,
       "category": "综艺"
     },
     {
-      "raw_hot": 572913,
-      "num": 275290,
-      "word": "双休和单休真是两种人生",
-      "onboard_time": 1716783259,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 574957,
+      "num": 276132,
+      "word": "两家可乐涨价",
+      "onboard_time": 1716784160,
+      "rank": 20,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 568946,
@@ -225,14 +233,6 @@
       "onboard_time": 1716767057,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 519992,
-      "num": 276132,
-      "word": "两家可乐涨价",
-      "onboard_time": 1716784160,
-      "rank": 20,
-      "category": "财经,美食"
     },
     {
       "raw_hot": 507493,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398860,
+      "num": 398860,
+      "word": "体育老师当班主任班级成绩全校第一",
+      "onboard_time": 1716785601,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 376337,
       "num": 376337,
       "word": "HR想捞我一把但我没听懂",
@@ -425,6 +433,14 @@
       "onboard_time": 1716773237,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314081,
+      "num": 314081,
+      "word": "正午阳光回应生命树选角",
+      "onboard_time": 1716787039,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 303870,
@@ -529,14 +545,6 @@
       "onboard_time": 1716784821,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 244802,
-      "num": 386586,
-      "word": "体育老师当班主任班级成绩全校第一",
-      "onboard_time": 1716785601,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 243725,
@@ -667,12 +675,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209450,
+      "num": 209450,
+      "word": "范闲儋州土包子爆改京圈贵公子",
+      "onboard_time": 1716786200,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209234,
+      "num": 209234,
+      "word": "中学回应13岁女生遭男同学猥亵",
+      "onboard_time": 1716786739,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208426,
       "num": 166389,
       "word": "庆余年 泪点",
       "onboard_time": 1716734899,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208261,
+      "num": 160351,
+      "word": "林高远说太原赛有收获有遗憾",
+      "onboard_time": 1716787699,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 206773,
@@ -707,14 +739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 202803,
-      "num": 202803,
-      "word": "范闲儋州土包子爆改京圈贵公子",
-      "onboard_time": 1716786200,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202721,
       "num": 202721,
       "word": "大导眼中的章子怡",
@@ -745,6 +769,14 @@
       "onboard_time": 1716768378,
       "rank": 31,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 200382,
+      "num": 200382,
+      "word": "茉酸奶换标签续命水果馊了才肯扔",
+      "onboard_time": 1716787217,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196386,
@@ -801,14 +833,6 @@
       "onboard_time": 1716717077,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180351,
-      "num": 180351,
-      "word": "正午阳光回应生命树选角",
-      "onboard_time": 1716787039,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 178144,
@@ -899,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163514,
-      "num": 163514,
-      "word": "中学回应13岁女生遭男同学猥亵",
-      "onboard_time": 1716786739,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159979,
       "num": 159979,
       "word": "合肥暴雨",
@@ -979,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141412,
+      "num": 141412,
+      "word": "文韬数学老师上线",
+      "onboard_time": 1716787878,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140959,
       "num": 140959,
       "word": "老人为什么看电视越来越吃力",
@@ -993,6 +1017,14 @@
       "onboard_time": 1716777797,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140118,
+      "num": 140118,
+      "word": "淋过雨的小狗会给其他动物打伞",
+      "onboard_time": 1716787519,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 139867,
@@ -1041,6 +1073,22 @@
       "onboard_time": 1716777437,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133310,
+      "num": 133310,
+      "word": "厂二代们正在接一种很新的班",
+      "onboard_time": 1716787758,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131987,
+      "num": 131987,
+      "word": "当小狗幼儿园放学",
+      "onboard_time": 1716787699,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 130156,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1716736819,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102701,
+      "num": 102701,
+      "word": "郭有才发博回应爆火",
+      "onboard_time": 1716788058,
+      "rank": 49,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 98611,
@@ -1361,6 +1417,14 @@
       "onboard_time": 1716746414,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46630,
+      "num": 387471,
+      "word": "中国纪录片获美国电视界奥斯卡奖",
+      "onboard_time": 1716785000,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46215,
