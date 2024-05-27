@@ -1,7 +1,15 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716777189963,
+  "endTime": 1716777810048,
   "band_list": [
+    {
+      "raw_hot": 4035144,
+      "num": 4570289,
+      "word": "华春莹任外交部副部长",
+      "onboard_time": 1716776658,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 2211762,
       "num": 294395,
@@ -9,14 +17,6 @@
       "onboard_time": 1716721819,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2195586,
-      "num": 2195586,
-      "word": "华春莹任外交部副部长",
-      "onboard_time": 1716776658,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 2180703,
@@ -379,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 704151,
+      "num": 704151,
+      "word": "勃肯鞋",
+      "onboard_time": 1716776238,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 691881,
       "num": 446213,
       "word": "种地吧将取消打卡直播",
@@ -435,6 +443,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 645353,
+      "num": 475878,
+      "word": "刘强东 不想拼的不是兄弟",
+      "onboard_time": 1716773778,
+      "rank": 18,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 636823,
       "num": 636823,
       "word": "林相大宝这段",
@@ -457,14 +473,6 @@
       "onboard_time": 1716702859,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629741,
-      "num": 475878,
-      "word": "刘强东 不想拼的不是兄弟",
-      "onboard_time": 1716773778,
-      "rank": 18,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 617261,
@@ -827,14 +835,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 437849,
-      "num": 437849,
-      "word": "勃肯鞋",
-      "onboard_time": 1716776238,
-      "rank": 12,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 435838,
       "num": 288089,
       "word": "厉旭婚礼",
@@ -880,6 +880,14 @@
       "word": "庆余年 鸣龙少年",
       "onboard_time": 1716697938,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 421929,
+      "num": 421929,
+      "word": "肖战张婧仪骑马路透",
+      "onboard_time": 1716776717,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1155,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328513,
-      "num": 328513,
-      "word": "肖战张婧仪骑马路透",
-      "onboard_time": 1716776717,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 323700,
       "num": 251679,
       "word": "Lululemon股价今年已跌去4成",
@@ -1193,6 +1193,14 @@
       "onboard_time": 1716773237,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316749,
+      "num": 316749,
+      "word": "HR想捞我一把但我没听懂",
+      "onboard_time": 1716775758,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 315800,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1716729140,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 303870,
+      "num": 303870,
+      "word": "京东内部管理",
+      "onboard_time": 1716777078,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 303189,
@@ -1299,6 +1315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 291796,
+      "num": 291796,
+      "word": "麦当劳对讲机被炒至300元",
+      "onboard_time": 1716776838,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 291274,
       "num": 267690,
       "word": "你好星期六下期有罗云熙宋轶",
@@ -1312,14 +1336,6 @@
       "word": "当搞笑女成为idol",
       "onboard_time": 1716690260,
       "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 287429,
-      "num": 287429,
-      "word": "HR想捞我一把但我没听懂",
-      "onboard_time": 1716775758,
-      "rank": 22,
       "category": "幽默"
     },
     {
@@ -1507,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243725,
+      "num": 243725,
+      "word": "美媒称美国曾经在华享有美誉如今毁了",
+      "onboard_time": 1716775937,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 243238,
       "num": 243238,
       "word": "Scout选手LPL征战八周年",
@@ -1579,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229328,
+      "num": 229328,
+      "word": "快乐向前冲录制时多人摔骨折且未获赔",
+      "onboard_time": 1716776056,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228291,
       "num": 186980,
       "word": "养臭水正在许多学生间风靡",
@@ -1603,20 +1635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226674,
+      "num": 226674,
+      "word": "沙这么大杨幂怎么睁开眼的",
+      "onboard_time": 1716775997,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225416,
       "num": 205532,
       "word": "凤凰传奇 豫淋军",
       "onboard_time": 1716689358,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 225161,
-      "num": 225161,
-      "word": "美媒称美国曾经在华享有美誉如今毁了",
-      "onboard_time": 1716775937,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 224562,
@@ -1769,6 +1801,14 @@
       "onboard_time": 1716712517,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208545,
+      "num": 208545,
+      "word": "大四学生轮流当C位拍毕业视频",
+      "onboard_time": 1716773357,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207721,
@@ -1939,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193874,
+      "num": 193874,
+      "word": "以前的教师编是怎么考上的",
+      "onboard_time": 1716776477,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193777,
       "num": 233900,
       "word": "蒯曼陈熠3比1王艺迪陈幸同",
@@ -1969,14 +2017,6 @@
       "onboard_time": 1716684317,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 190628,
-      "num": 190628,
-      "word": "大四学生轮流当C位拍毕业视频",
-      "onboard_time": 1716773357,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189878,
@@ -2017,22 +2057,6 @@
       "onboard_time": 1716766997,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187316,
-      "num": 187316,
-      "word": "京东内部管理",
-      "onboard_time": 1716777078,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 187122,
-      "num": 187122,
-      "word": "沙这么大杨幂怎么睁开眼的",
-      "onboard_time": 1716775997,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 186877,
@@ -2155,14 +2179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179330,
-      "num": 179330,
-      "word": "快乐向前冲录制时多人摔骨折且未获赔",
-      "onboard_time": 1716776056,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178567,
       "num": 165071,
       "word": "俞飞鸿小丈夫 超前精神状态",
@@ -2193,14 +2209,6 @@
       "onboard_time": 1716700399,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177669,
-      "num": 177669,
-      "word": "麦当劳对讲机被炒至300元",
-      "onboard_time": 1716776838,
-      "rank": 36,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 177467,
@@ -2339,14 +2347,6 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 167642,
-      "num": 167642,
-      "word": "以前的教师编是怎么考上的",
-      "onboard_time": 1716776477,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 167587,
       "num": 167587,
       "word": "一句话让三个国家人同时疑惑",
@@ -2385,6 +2385,14 @@
       "onboard_time": 1716645862,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166948,
+      "num": 166948,
+      "word": "为什么建议在单位立有对象人设",
+      "onboard_time": 1716777437,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 166571,
@@ -2747,6 +2755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135586,
+      "num": 135586,
+      "word": "爱德华兹隔扣加福德",
+      "onboard_time": 1716777437,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135255,
       "num": 135255,
       "word": "胡彦斌记了林俊杰微博14年",
@@ -2865,6 +2881,14 @@
       "onboard_time": 1716738378,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128791,
+      "num": 128791,
+      "word": "橘猫为了抢占猫窝狂踩美短脑袋",
+      "onboard_time": 1716777738,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 128603,
@@ -3113,6 +3137,14 @@
       "onboard_time": 1716689658,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114719,
+      "num": 114719,
+      "word": "降维求职的年轻人都怎么样了",
+      "onboard_time": 1716777797,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114326,
@@ -3587,20 +3619,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50873,
+      "num": 479804,
+      "word": "成都周一朝霞定律",
+      "onboard_time": 1716775338,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50825,
       "num": 50825,
       "word": "碳循环减肥法轻松拿捏脂肪",
       "onboard_time": 1716674712,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 49067,
-      "num": 479804,
-      "word": "成都周一朝霞定律",
-      "onboard_time": 1716775338,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47124,
@@ -3747,6 +3779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 11957,
+      "num": 114972,
+      "word": "头发越粉开麦越稳",
+      "onboard_time": 1716776780,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 9638,
       "num": 219740,
       "word": "女子借给男孩雨伞被回赠零食",
@@ -3759,14 +3799,6 @@
       "num": 134297,
       "word": "被这个转身硬控30秒",
       "onboard_time": 1716701000,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 7138,
-      "num": 98030,
-      "word": "头发越粉开麦越稳",
-      "onboard_time": 1716776780,
       "rank": 49,
       "category": "演出"
     }
