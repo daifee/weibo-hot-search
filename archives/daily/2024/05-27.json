@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716802504846,
+  "endTime": 1716805239342,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -9,6 +9,14 @@
       "onboard_time": 1716776658,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2554102,
+      "num": 2554102,
+      "word": "曝毛晓彤被欠薪1250万",
+      "onboard_time": 1716803959,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2245080,
@@ -139,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 980096,
+      "num": 980096,
+      "word": "花海 投票",
+      "onboard_time": 1716800359,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 902001,
       "num": 902001,
       "word": "长期不说话或少说话有什么后果",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 740461,
-      "num": 635946,
+      "num": 717497,
       "word": "黄日莹脸上缝了七针",
       "onboard_time": 1716799880,
       "rank": 3,
@@ -233,14 +249,6 @@
       "onboard_time": 1716729379,
       "rank": 10,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 677701,
-      "num": 677701,
-      "word": "花海 投票",
-      "onboard_time": 1716800359,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 646597,
@@ -315,8 +323,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 604067,
+      "num": 604067,
+      "word": "亚当 澳洲好声音导师",
+      "onboard_time": 1716800598,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 600276,
-      "num": 600276,
+      "num": 731164,
       "word": "中共中央政治局5月27日召开会议",
       "onboard_time": 1716798740,
       "rank": 42,
@@ -329,14 +345,6 @@
       "onboard_time": 1716796578,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 594202,
-      "num": 594202,
-      "word": "亚当 澳洲好声音导师",
-      "onboard_time": 1716800598,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 590105,
@@ -393,6 +401,14 @@
       "onboard_time": 1716767057,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 521580,
+      "num": 465207,
+      "word": "美国4岁女童常年吃汽水冲奶粉致死",
+      "onboard_time": 1716802699,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511198,
@@ -513,6 +529,14 @@
       "onboard_time": 1716795738,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424249,
+      "num": 424249,
+      "word": "安徽铜陵一小区楼房发生坍塌",
+      "onboard_time": 1716802159,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419277,
@@ -771,12 +795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274253,
+      "num": 256042,
+      "word": "研究发现个子矮不易患癌",
+      "onboard_time": 1716802578,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 271162,
       "num": 271162,
       "word": "Armageddon",
       "onboard_time": 1716801679,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 270432,
+      "num": 270432,
+      "word": "台湾问题是中国核心利益中的核心",
+      "onboard_time": 1716804077,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 256756,
@@ -841,6 +881,14 @@
       "onboard_time": 1716784821,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243929,
+      "num": 243929,
+      "word": "一个榴莲真能顶三个鸡吗",
+      "onboard_time": 1716801919,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 243725,
@@ -1019,20 +1067,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214057,
-      "num": 214057,
-      "word": "安徽铜陵一小区楼房发生坍塌",
-      "onboard_time": 1716802159,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213775,
       "num": 213775,
       "word": "狐妖小红娘动画第12季",
       "onboard_time": 1716790159,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213501,
+      "num": 185860,
+      "word": "郴州一公园发生刑事案件致3死2伤",
+      "onboard_time": 1716804439,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 210168,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1716783561,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202170,
+      "num": 202170,
+      "word": "官方通报安徽一小区楼房发生坍塌",
+      "onboard_time": 1716805039,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202047,
@@ -1257,14 +1313,6 @@
       "onboard_time": 1716778578,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 183695,
-      "num": 183695,
-      "word": "一个榴莲真能顶三个鸡吗",
-      "onboard_time": 1716801919,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 182281,
@@ -1427,12 +1475,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162802,
+      "num": 162802,
+      "word": "宁艺卓高音",
+      "onboard_time": 1716803539,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159979,
       "num": 159979,
       "word": "合肥暴雨",
       "onboard_time": 1716774978,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159498,
+      "num": 159498,
+      "word": "演员刘金自曝被欠薪",
+      "onboard_time": 1716804919,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159441,
+      "num": 159441,
+      "word": "烟花少年阵容官宣",
+      "onboard_time": 1716803959,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158112,
+      "num": 158112,
+      "word": "你什么时候意识到该离职了",
+      "onboard_time": 1716804379,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 156359,
@@ -1835,6 +1915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121391,
+      "num": 121391,
+      "word": "肝不好皮肤易出现4个变化",
+      "onboard_time": 1716805099,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121158,
       "num": 121158,
       "word": "华天崎抓拍的杨幂",
@@ -1907,6 +1995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113965,
+      "num": 113965,
+      "word": "薛之谦徐州演唱会",
+      "onboard_time": 1716802878,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111567,
       "num": 175632,
       "word": "梁靖崑男单决赛",
@@ -1977,6 +2073,14 @@
       "onboard_time": 1716788058,
       "rank": 49,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 100001,
+      "num": 114750,
+      "word": "茉酸奶涉事门店即刻解约关闭",
+      "onboard_time": 1716804738,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98611,
@@ -2265,6 +2369,22 @@
       "onboard_time": 1716732919,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23118,
+      "num": 192451,
+      "word": "云峰山上1700岁的桢楠王",
+      "onboard_time": 1716803178,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22445,
+      "num": 383346,
+      "word": "成都特警遇上三角梅花墙",
+      "onboard_time": 1716805039,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19926,
