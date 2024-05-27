@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716795270934,
+  "endTime": 1716798241895,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629947,
+      "num": 327656,
+      "word": "南京人身份证上为啥没省名",
+      "onboard_time": 1716796099,
+      "rank": 11,
+      "category": "科学科普,社会新闻"
+    },
+    {
       "raw_hot": 626825,
       "num": 626825,
       "word": "逍遥散人求婚",
@@ -243,12 +251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 579186,
+      "num": 324904,
+      "word": "范若若切大号 于曼丽回归",
+      "onboard_time": 1716796578,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 568946,
       "num": 568946,
       "word": "张若昀宣言二搭",
       "onboard_time": 1716775277,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 562894,
+      "num": 562894,
+      "word": "身高与寿命之间存在U型关联",
+      "onboard_time": 1716794179,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 559654,
@@ -395,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 442703,
+      "num": 442703,
+      "word": "黄景瑜关晓彤同框合照",
+      "onboard_time": 1716795738,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419277,
       "num": 419277,
       "word": "谢娜女儿小咘芽的小名是跳跳取的",
@@ -427,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404714,
+      "num": 404714,
+      "word": "黄宗泽 我真的没有整过容",
+      "onboard_time": 1716797240,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398860,
       "num": 398860,
       "word": "体育老师当班主任班级成绩全校第一",
@@ -443,12 +483,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 371559,
+      "num": 371559,
+      "word": "茉酸奶致歉",
+      "onboard_time": 1716797778,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368689,
       "num": 335527,
       "word": "aespa破表",
       "onboard_time": 1716770478,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 366146,
+      "num": 366146,
+      "word": "秦岚减肥像极了我本人",
+      "onboard_time": 1716795438,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 364014,
@@ -507,12 +563,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 319131,
+      "num": 319131,
+      "word": "缅北电诈四大家族悉数抓捕到案",
+      "onboard_time": 1716795738,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318249,
       "num": 318249,
       "word": "亚当圈粉",
       "onboard_time": 1716773237,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314468,
+      "num": 314468,
+      "word": "毛不易说庆余年演员保养的好",
+      "onboard_time": 1716793578,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 314081,
@@ -587,12 +659,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 283823,
-      "num": 283823,
-      "word": "毛不易说庆余年演员保养的好",
-      "onboard_time": 1716793578,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 282566,
+      "num": 282566,
+      "word": "Angelababy面对一些事情也会不安",
+      "onboard_time": 1716797899,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 280962,
@@ -632,6 +704,22 @@
       "word": "陈奕迅主办方补偿方案",
       "onboard_time": 1716736519,
       "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 250318,
+      "num": 250318,
+      "word": "狗狗闯红灯被交警警告了一下",
+      "onboard_time": 1716793277,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 249432,
+      "num": 249432,
+      "word": "林俊杰输了你赢了世界又如何高音",
+      "onboard_time": 1716797538,
+      "rank": 23,
       "category": "演出"
     },
     {
@@ -795,20 +883,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214483,
+      "num": 214483,
+      "word": "建议不要和没可能的人频繁聊天",
+      "onboard_time": 1716795258,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 213954,
+      "num": 213954,
+      "word": "茉酸奶涉事门店暂停营业",
+      "onboard_time": 1716797538,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213775,
       "num": 213775,
       "word": "狐妖小红娘动画第12季",
       "onboard_time": 1716790159,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212400,
-      "num": 212400,
-      "word": "狗狗闯红灯被交警警告了一下",
-      "onboard_time": 1716793277,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 210168,
@@ -899,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202545,
+      "num": 202545,
+      "word": "你被三个不相信的英雄宣言激励过吗",
+      "onboard_time": 1716797178,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 202047,
       "num": 173296,
       "word": "马伊琍去新疆了",
@@ -939,14 +1043,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 195842,
-      "num": 195842,
-      "word": "身高与寿命之间存在U型关联",
-      "onboard_time": 1716794179,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 194074,
       "num": 194074,
       "word": "独行侠3比0森林狼",
@@ -955,12 +1051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193719,
+      "num": 193719,
+      "word": "aespa回应闵熙珍发言",
+      "onboard_time": 1716796520,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190191,
       "num": 190191,
       "word": "李沐宸夺娶女主",
       "onboard_time": 1716794778,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190034,
+      "num": 247359,
+      "word": "淋雨后的大熊猫宝宝是吸水海绵吧",
+      "onboard_time": 1716795138,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187678,
@@ -1001,6 +1113,14 @@
       "onboard_time": 1716717077,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178311,
+      "num": 178311,
+      "word": "KPL",
+      "onboard_time": 1716798079,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 178144,
@@ -1091,6 +1211,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 167093,
+      "num": 167093,
+      "word": "一块钱买的不是平替是开心",
+      "onboard_time": 1716795258,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165467,
       "num": 165467,
       "word": "林俊杰嘉宾",
@@ -1171,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149399,
+      "num": 149399,
+      "word": "陆雪琪 人间绝色云中月",
+      "onboard_time": 1716796759,
+      "rank": 38,
+      "category": "读书作家,动漫"
+    },
+    {
       "raw_hot": 148773,
       "num": 148773,
       "word": "小学生朱同正在失去童年",
@@ -1209,6 +1345,14 @@
       "onboard_time": 1716730999,
       "rank": 31,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 145956,
+      "num": 145956,
+      "word": "中医眼里的精血气三不足",
+      "onboard_time": 1716796158,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144963,
@@ -1275,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137439,
-      "num": 137439,
-      "word": "建议不要和没可能的人频繁聊天",
-      "onboard_time": 1716795258,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137246,
       "num": 137246,
       "word": "建议这9类人少喝咖啡",
@@ -1329,6 +1465,14 @@
       "onboard_time": 1716794958,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133712,
+      "num": 133712,
+      "word": "上海外国语大学大巴撞车",
+      "onboard_time": 1716797839,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133310,
@@ -1443,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125188,
+      "num": 125188,
+      "word": "场馆回应林俊杰苏州演唱会音响故障",
+      "onboard_time": 1716797178,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122613,
       "num": 122613,
       "word": "那英 猫的人塑",
@@ -1491,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118381,
+      "num": 118381,
+      "word": "newjeans价值超过1万亿韩元",
+      "onboard_time": 1716795679,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117281,
       "num": 117281,
       "word": "张若昀吴幸键是师兄弟",
@@ -1505,6 +1665,14 @@
       "onboard_time": 1716727998,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114237,
+      "num": 114237,
+      "word": "果然年轻时不能遇见太惊艳的吗喽",
+      "onboard_time": 1716794958,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 111567,
@@ -1523,14 +1691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110200,
-      "num": 110200,
-      "word": "果然年轻时不能遇见太惊艳的吗喽",
-      "onboard_time": 1716794958,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 109054,
       "num": 109054,
       "word": "庆余年作者取名是没有瓶颈的吧",
@@ -1539,12 +1699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108964,
-      "num": 108964,
-      "word": "一块钱买的不是平替是开心",
-      "onboard_time": 1716795258,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 108083,
+      "num": 108083,
+      "word": "王启年狐狐饲养员",
+      "onboard_time": 1716796877,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 108023,
@@ -1635,6 +1795,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 92665,
+      "num": 544246,
+      "word": "文脉华章",
+      "onboard_time": 1716796038,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80829,
       "num": 80829,
       "word": "出现4种异常要去妇科检查",
@@ -1705,14 +1873,6 @@
       "onboard_time": 1716730100,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65593,
-      "num": 247359,
-      "word": "淋雨后的大熊猫宝宝是吸水海绵吧",
-      "onboard_time": 1716795138,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61390,
@@ -1811,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42877,
+      "num": 179810,
+      "word": "杨洋首部短剧",
+      "onboard_time": 1716797659,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39527,
       "num": 52282,
       "word": "蒲熠星现场",
@@ -1903,6 +2071,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#总书记指出新质生产力的发展之道#"
     }
   ]
 }
