@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716849265571,
+  "endTime": 1716852030528,
   "band_list": [
     {
       "raw_hot": 1186478,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342865,
+      "num": 238291,
+      "word": "女儿工作后每月都会给我一千块钱",
+      "onboard_time": 1716809657,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312530,
       "num": 312530,
       "word": "VOGUE新主编",
@@ -89,6 +97,14 @@
       "onboard_time": 1716822381,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274466,
+      "num": 100389,
+      "word": "老师做久了真的都有职业病吗",
+      "onboard_time": 1716848412,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 268667,
@@ -131,20 +147,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222390,
-      "num": 222390,
-      "word": "女儿工作后每月都会给我一千块钱",
-      "onboard_time": 1716809657,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 203000,
-      "num": 203000,
+      "raw_hot": 237780,
+      "num": 237780,
       "word": "当你连续点同一家外卖超过100次",
       "onboard_time": 1716823101,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235298,
+      "num": 235298,
+      "word": "外媒把吴君如认成了章子怡",
+      "onboard_time": 1716821661,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 234272,
+      "num": 97883,
+      "word": "绍兴课上开黄腔教师被警告处分",
+      "onboard_time": 1716835752,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210611,
+      "num": 210611,
+      "word": "中部六省要扛起主体责任让脊梁更硬",
+      "onboard_time": 1716830773,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 198861,
@@ -171,12 +203,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178143,
+      "num": 178143,
+      "word": "2024高考",
+      "onboard_time": 1716851595,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 172263,
       "num": 172263,
       "word": "龚吓幂",
       "onboard_time": 1716822922,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160834,
+      "num": 144931,
+      "word": "33岁生完二胎我才真正清醒了",
+      "onboard_time": 1716807798,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 160612,
@@ -203,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151930,
-      "num": 151930,
-      "word": "外媒把吴君如认成了章子怡",
-      "onboard_time": 1716821661,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 146152,
       "num": 146152,
       "word": "背着善宰跑大结局预告",
@@ -219,20 +259,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144931,
-      "num": 144931,
-      "word": "33岁生完二胎我才真正清醒了",
-      "onboard_time": 1716807798,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 142264,
       "num": 142264,
       "word": "纳达尔 兹维列夫",
       "onboard_time": 1716816859,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141146,
+      "num": 141146,
+      "word": "黄奕自认人生谷底是结婚",
+      "onboard_time": 1716848833,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 135103,
@@ -249,14 +289,6 @@
       "onboard_time": 1716816080,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 129547,
-      "num": 44115,
-      "word": "绍兴课上开黄腔教师被警告处分",
-      "onboard_time": 1716835752,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119683,
@@ -283,14 +315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 118998,
-      "num": 118998,
-      "word": "中部六省要扛起主体责任让脊梁更硬",
-      "onboard_time": 1716830773,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117396,
       "num": 117396,
       "word": "纳达尔vs兹维列夫",
@@ -313,6 +337,22 @@
       "onboard_time": 1716820820,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 105703,
+      "num": 94661,
+      "word": "济南纪检监察部门已收到葛女士举报",
+      "onboard_time": 1716850874,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105081,
+      "num": 105081,
+      "word": "陈奕迅杭州站赔偿方案引歌迷不满",
+      "onboard_time": 1716812238,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 100314,
@@ -352,6 +392,14 @@
       "word": "范闲也跳晚安大小姐了",
       "onboard_time": 1716814578,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84664,
+      "num": 84664,
+      "word": "李小冉花期好长",
+      "onboard_time": 1716846731,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -419,12 +467,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 75857,
+      "num": 75857,
+      "word": "曾经热闹的宜家为什么没什么人了",
+      "onboard_time": 1716835092,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 69731,
       "num": 324592,
       "word": "福宝乖乖吃苹果被奖励摸摸",
       "onboard_time": 1716821661,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68898,
+      "num": 68898,
+      "word": "纳达尔止步法网首轮",
+      "onboard_time": 1716851595,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 68332,
@@ -435,20 +499,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60653,
-      "num": 60653,
-      "word": "陈奕迅杭州站赔偿方案引歌迷不满",
-      "onboard_time": 1716812238,
-      "rank": 49,
-      "category": "演出"
+      "raw_hot": 66147,
+      "num": 66147,
+      "word": "杨幂戛纳有效出国",
+      "onboard_time": 1716845231,
+      "rank": 35,
+      "category": "电影"
     },
     {
-      "raw_hot": 52759,
-      "num": 43666,
-      "word": "老师做久了真的都有职业病吗",
-      "onboard_time": 1716848412,
-      "rank": 22,
-      "category": "情感,幽默"
+      "raw_hot": 59439,
+      "num": 59439,
+      "word": "工作了8天又裸辞了",
+      "onboard_time": 1716844031,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 55627,
+      "num": 55627,
+      "word": "肖战片场请客",
+      "onboard_time": 1716809538,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 50350,
@@ -459,40 +531,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48372,
-      "num": 43444,
-      "word": "杨幂戛纳有效出国",
-      "onboard_time": 1716845231,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 42422,
+      "num": 42422,
+      "word": "纳达尔0比3兹维列夫",
+      "onboard_time": 1716851955,
+      "rank": 47,
+      "category": "体育"
     },
     {
-      "raw_hot": 43287,
-      "num": 43287,
-      "word": "曾经热闹的宜家为什么没什么人了",
-      "onboard_time": 1716835092,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 37769,
-      "num": 37769,
-      "word": "李小冉花期好长",
-      "onboard_time": 1716846731,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 37645,
-      "num": 37645,
-      "word": "肖战片场请客",
-      "onboard_time": 1716809538,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 36195,
-      "num": 36195,
+      "raw_hot": 40046,
+      "num": 42331,
       "word": "突然理解好朋友跟朋友的区别",
       "onboard_time": 1716831492,
       "rank": 32,
@@ -505,14 +553,6 @@
       "onboard_time": 1716840730,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34149,
-      "num": 34149,
-      "word": "工作了8天又裸辞了",
-      "onboard_time": 1716844031,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 32177,
@@ -531,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28127,
-      "num": 28127,
-      "word": "黄奕自认人生谷底是结婚",
-      "onboard_time": 1716848833,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 23440,
+      "num": 178994,
+      "word": "大熊猫灵岩随地大小蹦",
+      "onboard_time": 1716850935,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20647,
