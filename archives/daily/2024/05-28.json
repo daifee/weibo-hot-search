@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716845741381,
+  "endTime": 1716848240135,
   "band_list": [
     {
       "raw_hot": 1186478,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 110290,
-      "num": 51473,
+      "num": 80902,
       "word": "中部六省要扛起主体责任让脊梁更硬",
       "onboard_time": 1716830773,
       "rank": 34,
@@ -321,6 +321,14 @@
       "onboard_time": 1716829693,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89465,
+      "num": 37616,
+      "word": "绍兴课上开黄腔教师被警告处分",
+      "onboard_time": 1716835752,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87558,
@@ -443,12 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 45165,
-      "num": 25374,
-      "word": "绍兴课上开黄腔教师被警告处分",
-      "onboard_time": 1716835752,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 36844,
+      "num": 36844,
+      "word": "杨幂戛纳有效出国",
+      "onboard_time": 1716845231,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 36195,
@@ -459,6 +467,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33327,
+      "num": 33327,
+      "word": "曾经热闹的宜家为什么没什么人了",
+      "onboard_time": 1716835092,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 31709,
+      "num": 31709,
+      "word": "突然发现消费习惯正在悄悄改变",
+      "onboard_time": 1716840730,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 30294,
+      "num": 30294,
+      "word": "李小冉花期好长",
+      "onboard_time": 1716846731,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29867,
       "num": 679029,
       "word": "沉浸式感受数字点亮生活",
@@ -467,36 +499,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22391,
-      "num": 22391,
-      "word": "突然发现消费习惯正在悄悄改变",
-      "onboard_time": 1716840730,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 21817,
-      "num": 21817,
-      "word": "曾经热闹的宜家为什么没什么人了",
-      "onboard_time": 1716835092,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 21765,
-      "num": 26725,
+      "raw_hot": 29278,
+      "num": 29278,
       "word": "肖战片场请客",
       "onboard_time": 1716809538,
       "rank": 49,
       "category": "剧集"
     },
     {
-      "raw_hot": 20654,
-      "num": 20654,
+      "raw_hot": 29009,
+      "num": 29009,
       "word": "杨幂生万物明天开机仪式",
       "onboard_time": 1716841990,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21171,
+      "num": 21171,
+      "word": "工作了8天又裸辞了",
+      "onboard_time": 1716844031,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 20647,
@@ -507,16 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17556,
-      "num": 17556,
-      "word": "杨幂戛纳有效出国",
-      "onboard_time": 1716845231,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 16054,
-      "num": 16054,
+      "raw_hot": 18574,
+      "num": 18574,
       "word": "很久没见的无毛猫和布偶猫",
       "onboard_time": 1716841990,
       "rank": 47,
@@ -545,14 +561,6 @@
       "onboard_time": 1716844330,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 12642,
-      "num": 15678,
-      "word": "工作了8天又裸辞了",
-      "onboard_time": 1716844031,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 12539,

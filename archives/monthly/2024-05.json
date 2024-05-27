@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716845741381,
+  "endTime": 1716848240135,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -66196,7 +66196,7 @@
     },
     {
       "raw_hot": 110290,
-      "num": 51473,
+      "num": 80902,
       "word": "中部六省要扛起主体责任让脊梁更硬",
       "onboard_time": 1716830773,
       "rank": 34,
@@ -69153,6 +69153,14 @@
       "onboard_time": 1714951275,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89465,
+      "num": 37616,
+      "word": "绍兴课上开黄腔教师被警告处分",
+      "onboard_time": 1716835752,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89422,
@@ -73059,14 +73067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45165,
-      "num": 25374,
-      "word": "绍兴课上开黄腔教师被警告处分",
-      "onboard_time": 1716835752,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44961,
       "num": 375385,
       "word": "雷军五四青年节寄语",
@@ -73819,6 +73819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36844,
+      "num": 36844,
+      "word": "杨幂戛纳有效出国",
+      "onboard_time": 1716845231,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36833,
       "num": 333548,
       "word": "京东红人",
@@ -74003,6 +74011,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 33327,
+      "num": 33327,
+      "word": "曾经热闹的宜家为什么没什么人了",
+      "onboard_time": 1716835092,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 33266,
       "num": 483052,
       "word": "什么鲜奶活性蛋白才高",
@@ -74155,6 +74171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 31709,
+      "num": 31709,
+      "word": "突然发现消费习惯正在悄悄改变",
+      "onboard_time": 1716840730,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31690,
       "num": 867619,
       "word": "旅游胜地的中华文化有多绝",
@@ -74267,6 +74291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30294,
+      "num": 30294,
+      "word": "李小冉花期好长",
+      "onboard_time": 1716846731,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30225,
       "num": 1041189,
       "word": "长城长皆同往",
@@ -74353,6 +74385,14 @@
       "onboard_time": 1714761253,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 29009,
+      "num": 29009,
+      "word": "杨幂生万物明天开机仪式",
+      "onboard_time": 1716841990,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 28957,
@@ -74843,14 +74883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22391,
-      "num": 22391,
-      "word": "突然发现消费习惯正在悄悄改变",
-      "onboard_time": 1716840730,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 22275,
       "num": 103748,
       "word": "舞蹈演员机场整活大秀基本功",
@@ -74881,14 +74913,6 @@
       "onboard_time": 1716575473,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21817,
-      "num": 21817,
-      "word": "曾经热闹的宜家为什么没什么人了",
-      "onboard_time": 1716835092,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 21727,
@@ -74937,6 +74961,14 @@
       "onboard_time": 1714676351,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21171,
+      "num": 21171,
+      "word": "工作了8天又裸辞了",
+      "onboard_time": 1716844031,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 21153,
@@ -74993,14 +75025,6 @@
       "onboard_time": 1716813858,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20654,
-      "num": 20654,
-      "word": "杨幂生万物明天开机仪式",
-      "onboard_time": 1716841990,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 20538,
@@ -75147,6 +75171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18574,
+      "num": 18574,
+      "word": "很久没见的无毛猫和布偶猫",
+      "onboard_time": 1716841990,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 18557,
       "num": 19942,
       "word": "黄宗泽晒刚入行照",
@@ -75211,14 +75243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 17556,
-      "num": 17556,
-      "word": "杨幂戛纳有效出国",
-      "onboard_time": 1716845231,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 17451,
       "num": 17451,
       "word": "新款iPadPro搭载M4芯片",
@@ -75273,14 +75297,6 @@
       "onboard_time": 1716045080,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16054,
-      "num": 16054,
-      "word": "很久没见的无毛猫和布偶猫",
-      "onboard_time": 1716841990,
-      "rank": 47,
-      "category": "动漫"
     },
     {
       "raw_hot": 16050,
@@ -75529,14 +75545,6 @@
       "onboard_time": 1716489251,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12642,
-      "num": 15678,
-      "word": "工作了8天又裸辞了",
-      "onboard_time": 1716844031,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 12633,
