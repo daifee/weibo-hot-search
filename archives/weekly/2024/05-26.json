@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716801653548,
+  "endTime": 1716802504846,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -41,6 +41,14 @@
       "onboard_time": 1716688157,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1900561,
+      "num": 1900561,
+      "word": "aespa MV呢",
+      "onboard_time": 1716801558,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1798325,
@@ -227,14 +235,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1156763,
-      "num": 1156763,
-      "word": "aespa MV呢",
-      "onboard_time": 1716801558,
-      "rank": 1,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1150291,
       "num": 1150291,
       "word": "网恋是王力宏 奔现是孙楠",
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1123595,
-      "num": 580138,
+      "num": 594369,
       "word": "aespa回归",
       "onboard_time": 1716792438,
       "rank": 10,
@@ -329,6 +329,14 @@
       "onboard_time": 1716781040,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 898054,
+      "num": 526930,
+      "word": "aespa回归MV",
+      "onboard_time": 1716802159,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 895634,
@@ -483,12 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 740461,
+      "num": 635946,
+      "word": "黄日莹脸上缝了七针",
+      "onboard_time": 1716799880,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 730108,
       "num": 312455,
       "word": "向佐ins掉粉",
       "onboard_time": 1716690678,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 728149,
+      "num": 521712,
+      "word": "不该把中国妹都叫成熊猫妹",
+      "onboard_time": 1716799159,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 726967,
@@ -529,6 +553,14 @@
       "onboard_time": 1716724279,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 677701,
+      "num": 677701,
+      "word": "花海 投票",
+      "onboard_time": 1716800359,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 665542,
@@ -592,14 +624,6 @@
       "word": "林相大宝这段",
       "onboard_time": 1716727998,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 635946,
-      "num": 635946,
-      "word": "黄日莹脸上缝了七针",
-      "onboard_time": 1716799880,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -723,12 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 592368,
-      "num": 521712,
-      "word": "不该把中国妹都叫成熊猫妹",
-      "onboard_time": 1716799159,
-      "rank": 10,
-      "category": "情感"
+      "raw_hot": 594202,
+      "num": 594202,
+      "word": "亚当 澳洲好声音导师",
+      "onboard_time": 1716800598,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 590105,
@@ -793,6 +817,14 @@
       "onboard_time": 1716782360,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 559260,
+      "num": 510140,
+      "word": "孟子义 我是猪我不是人",
+      "onboard_time": 1716800059,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 551150,
@@ -873,14 +905,6 @@
       "onboard_time": 1716793037,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 510140,
-      "num": 510140,
-      "word": "孟子义 我是猪我不是人",
-      "onboard_time": 1716800059,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 507642,
@@ -1057,14 +1081,6 @@
       "onboard_time": 1716689539,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454901,
-      "num": 454901,
-      "word": "花海 投票",
-      "onboard_time": 1716800359,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 452183,
@@ -1265,14 +1281,6 @@
       "onboard_time": 1716684678,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 392895,
-      "num": 392895,
-      "word": "亚当 澳洲好声音导师",
-      "onboard_time": 1716800598,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 386143,
@@ -1827,6 +1835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271162,
+      "num": 271162,
+      "word": "Armageddon",
+      "onboard_time": 1716801679,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265787,
       "num": 200139,
       "word": "金起范饭拍",
@@ -2275,6 +2291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216376,
+      "num": 216376,
+      "word": "一不小心买到了人生气垫",
+      "onboard_time": 1716798678,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 215869,
       "num": 214543,
       "word": "为了稳定回县城工作的女孩都怎么样了",
@@ -2305,6 +2329,14 @@
       "onboard_time": 1716722179,
       "rank": 25,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 214057,
+      "num": 214057,
+      "word": "安徽铜陵一小区楼房发生坍塌",
+      "onboard_time": 1716802159,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213775,
@@ -2457,14 +2489,6 @@
       "onboard_time": 1716773598,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 205405,
-      "num": 193497,
-      "word": "一不小心买到了人生气垫",
-      "onboard_time": 1716798678,
-      "rank": 37,
-      "category": "美妆"
     },
     {
       "raw_hot": 205231,
@@ -2795,6 +2819,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 185271,
+      "num": 185271,
+      "word": "原来大多数人小脚趾甲是分瓣的",
+      "onboard_time": 1716801079,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185194,
       "num": 185194,
       "word": "清清 投票",
@@ -2817,6 +2849,14 @@
       "onboard_time": 1716778578,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183695,
+      "num": 183695,
+      "word": "一个榴莲真能顶三个鸡吗",
+      "onboard_time": 1716801919,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 183553,
@@ -2857,6 +2897,14 @@
       "onboard_time": 1716697038,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182281,
+      "num": 182281,
+      "word": "排球少年声优都是狠人",
+      "onboard_time": 1716802278,
+      "rank": 32,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 181121,
@@ -3139,6 +3187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166492,
+      "num": 166492,
+      "word": "快乐向前冲受伤者发声",
+      "onboard_time": 1716801738,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165842,
       "num": 165842,
       "word": "骑手正在攻击你的外卖",
@@ -3275,6 +3331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156359,
+      "num": 156359,
+      "word": "钟楚曦侯雯元又发糖了",
+      "onboard_time": 1716802159,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154854,
       "num": 174374,
       "word": "西藏日喀则3.8级地震",
@@ -3289,14 +3353,6 @@
       "onboard_time": 1716699979,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 153335,
-      "num": 153335,
-      "word": "原来大多数人小脚趾甲是分瓣的",
-      "onboard_time": 1716801079,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 152824,
@@ -4019,6 +4075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122075,
+      "num": 122075,
+      "word": "梦之队专业评审票数公布",
+      "onboard_time": 1716799099,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121825,
       "num": 135761,
       "word": "斜方肌是一块容易变形的肌肉",
@@ -4129,6 +4193,14 @@
       "onboard_time": 1716695899,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 117544,
+      "num": 117544,
+      "word": "神十八乘组将择机第一次出舱",
+      "onboard_time": 1716801978,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117281,
@@ -4428,7 +4500,7 @@
     },
     {
       "raw_hot": 92665,
-      "num": 860363,
+      "num": 883818,
       "word": "文脉华章",
       "onboard_time": 1716796038,
       "rank": 2,
@@ -4827,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40266,
+      "num": 538835,
+      "word": "爸爸给女儿的成人礼一步一惊喜",
+      "onboard_time": 1716801319,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40176,
       "num": 471238,
       "word": "数据展现中欧班列助力经贸蓬勃发展",
@@ -4903,14 +4983,6 @@
       "num": 506483,
       "word": "温州人把龙舟划出高铁的气势",
       "onboard_time": 1716652939,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27434,
-      "num": 537816,
-      "word": "爸爸给女儿的成人礼一步一惊喜",
-      "onboard_time": 1716801319,
       "rank": 9,
       "category": "社会新闻"
     },

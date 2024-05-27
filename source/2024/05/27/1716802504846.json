@@ -1,0 +1,410 @@
+{
+  "runTime": 1716802504846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1900561,
+        "num": 1900561,
+        "word": "aespa MV呢",
+        "onboard_time": 1716801558,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1295114,
+        "num": 1295114,
+        "word": "南京人身份证上为啥没省名",
+        "onboard_time": 1716796099,
+        "rank": 1,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 63565,
+        "num": 883818,
+        "word": "文脉华章",
+        "onboard_time": 1716796038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677701,
+        "num": 677701,
+        "word": "花海 投票",
+        "onboard_time": 1716800359,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 594380,
+        "num": 594380,
+        "word": "中共中央政治局5月27日召开会议",
+        "onboard_time": 1716798740,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 901395,
+        "num": 594369,
+        "word": "aespa回归",
+        "onboard_time": 1716792438,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 740461,
+        "num": 594315,
+        "word": "黄日莹脸上缝了七针",
+        "onboard_time": 1716799880,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 594202,
+        "num": 594202,
+        "word": "亚当 澳洲好声音导师",
+        "onboard_time": 1716800598,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543255,
+        "num": 543255,
+        "word": "茉酸奶致歉",
+        "onboard_time": 1716797778,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40266,
+        "num": 538835,
+        "word": "爸爸给女儿的成人礼一步一惊喜",
+        "onboard_time": 1716801319,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898054,
+        "num": 526930,
+        "word": "aespa回归MV",
+        "onboard_time": 1716802159,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 728149,
+        "num": 510930,
+        "word": "不该把中国妹都叫成熊猫妹",
+        "onboard_time": 1716799159,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 559260,
+        "num": 498885,
+        "word": "孟子义 我是猪我不是人",
+        "onboard_time": 1716800059,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497476,
+        "num": 497476,
+        "word": "范若若切大号 于曼丽回归",
+        "onboard_time": 1716796578,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452866,
+        "num": 452866,
+        "word": "24岁女生存够10万元靠利息生活",
+        "onboard_time": 1716780679,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443867,
+        "num": 443867,
+        "word": "建议最近不要穿黄色衣服出门",
+        "onboard_time": 1716779780,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 384475,
+        "num": 384475,
+        "word": "黄宗泽 我真的没有整过容",
+        "onboard_time": 1716797240,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345572,
+        "num": 345572,
+        "word": "身高与寿命之间存在U型关联",
+        "onboard_time": 1716794179,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287702,
+        "num": 287702,
+        "word": "梦之队票数",
+        "onboard_time": 1716798379,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219431,
+        "num": 284493,
+        "word": "缅北电诈四大家族悉数抓捕到案",
+        "onboard_time": 1716795738,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582321,
+        "num": 283239,
+        "word": "双休和单休真是两种人生",
+        "onboard_time": 1716783259,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 518877,
+        "num": 277370,
+        "word": "肝不好的人上厕所或有这3种异样",
+        "onboard_time": 1716790639,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 291851,
+        "num": 271716,
+        "word": "考公后几百年不联系的同学出现了",
+        "onboard_time": 1716798257,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271162,
+        "num": 271162,
+        "word": "Armageddon",
+        "onboard_time": 1716801679,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247421,
+        "num": 247421,
+        "word": "秦岚减肥像极了我本人",
+        "onboard_time": 1716795438,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229420,
+        "num": 229420,
+        "word": "章子怡 熹妃回宫",
+        "onboard_time": 1716789378,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216376,
+        "num": 216376,
+        "word": "一不小心买到了人生气垫",
+        "onboard_time": 1716798678,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 214057,
+        "num": 214057,
+        "word": "安徽铜陵一小区楼房发生坍塌",
+        "onboard_time": 1716802159,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195668,
+        "num": 195668,
+        "word": "杨幂李现 小说里的离婚记者会",
+        "onboard_time": 1716793037,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179999,
+        "num": 189972,
+        "word": "你被三个不相信的英雄宣言激励过吗",
+        "onboard_time": 1716797178,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185271,
+        "num": 185271,
+        "word": "原来大多数人小脚趾甲是分瓣的",
+        "onboard_time": 1716801079,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183695,
+        "num": 183695,
+        "word": "一个榴莲真能顶三个鸡吗",
+        "onboard_time": 1716801919,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182281,
+        "num": 182281,
+        "word": "排球少年声优都是狠人",
+        "onboard_time": 1716802278,
+        "rank": 32,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 177076,
+        "num": 177076,
+        "word": "黄景瑜关晓彤同框合照",
+        "onboard_time": 1716795738,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171169,
+        "num": 171169,
+        "word": "范闲为什么不骑王启年",
+        "onboard_time": 1716798618,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168792,
+        "num": 168792,
+        "word": "洞洞鞋和勃肯鞋谁才是丑鞋王",
+        "onboard_time": 1716800298,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 19729,
+        "num": 167399,
+        "word": "杨洋首部短剧",
+        "onboard_time": 1716797659,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166492,
+        "num": 166492,
+        "word": "快乐向前冲受伤者发声",
+        "onboard_time": 1716801738,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161940,
+        "num": 161940,
+        "word": "林俊杰输了你赢了世界又如何高音",
+        "onboard_time": 1716797538,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156359,
+        "num": 156359,
+        "word": "钟楚曦侯雯元又发糖了",
+        "onboard_time": 1716802159,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152481,
+        "num": 152481,
+        "word": "杨幂的裤腰大了",
+        "onboard_time": 1716790999,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145639,
+        "num": 145639,
+        "word": "专家称未来几年大城市房价可能大幅上涨",
+        "onboard_time": 1716788118,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 144123,
+        "num": 144123,
+        "word": "两家可乐涨价",
+        "onboard_time": 1716784160,
+        "rank": 42,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 132737,
+        "num": 132737,
+        "word": "上海外国语大学大巴撞车",
+        "onboard_time": 1716797839,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130588,
+        "num": 130588,
+        "word": "赵露思大光明造型",
+        "onboard_time": 1716800598,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130357,
+        "num": 130357,
+        "word": "陆雪琪 人间绝色云中月",
+        "onboard_time": 1716796759,
+        "rank": 45,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 122075,
+        "num": 122075,
+        "word": "梦之队专业评审票数公布",
+        "onboard_time": 1716799099,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117544,
+        "num": 117544,
+        "word": "神十八乘组将择机第一次出舱",
+        "onboard_time": 1716801978,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116123,
+        "num": 116123,
+        "word": "茉酸奶涉事门店暂停营业",
+        "onboard_time": 1716797538,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113653,
+        "num": 113653,
+        "word": "喻言不报名参加歌手的原因",
+        "onboard_time": 1716785121,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指出新质生产力的发展之道#"
+    }
+  }
+}
