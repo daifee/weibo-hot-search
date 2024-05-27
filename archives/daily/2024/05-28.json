@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716831252867,
+  "endTime": 1716834255453,
   "band_list": [
     {
       "raw_hot": 1186478,
@@ -299,6 +299,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 110290,
+      "num": 51473,
+      "word": "中部六省要扛起主体责任让脊梁更硬",
+      "onboard_time": 1716830773,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100314,
       "num": 100314,
       "word": "台湾学生坚定表示台湾是中国的",
@@ -427,14 +435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51473,
-      "num": 51473,
-      "word": "中部六省要扛起主体责任让脊梁更硬",
-      "onboard_time": 1716830773,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 50350,
       "num": 50350,
       "word": "流浪狗回回挖土救猫咪",
@@ -443,12 +443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36195,
+      "num": 36195,
+      "word": "突然理解好朋友跟朋友的区别",
+      "onboard_time": 1716831492,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 29867,
       "num": 679029,
       "word": "沉浸式感受数字点亮生活",
       "onboard_time": 1716814638,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21765,
+      "num": 26725,
+      "word": "肖战片场请客",
+      "onboard_time": 1716809538,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 20647,

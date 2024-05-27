@@ -1,0 +1,410 @@
+{
+  "runTime": 1716834255453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 158374,
+        "num": 158374,
+        "word": "工资6000请假半个月被扣4500",
+        "onboard_time": 1716812958,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133413,
+        "num": 133413,
+        "word": "范思辙为什么要戴项圈",
+        "onboard_time": 1716820099,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12375,
+        "num": 115754,
+        "word": "沉浸式感受数字点亮生活",
+        "onboard_time": 1716814638,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111401,
+        "num": 111401,
+        "word": "当你连续点同一家外卖超过100次",
+        "onboard_time": 1716823101,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108892,
+        "num": 108892,
+        "word": "质疑太子理解太子",
+        "onboard_time": 1716822740,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99300,
+        "num": 99300,
+        "word": "埃及",
+        "onboard_time": 1716812899,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 104122,
+        "num": 97826,
+        "word": "女儿工作后每月都会给我一千块钱",
+        "onboard_time": 1716809657,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92383,
+        "num": 92383,
+        "word": "方大同 抽象",
+        "onboard_time": 1716829693,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77579,
+        "num": 77579,
+        "word": "月红篇终于癫成我想要的样子",
+        "onboard_time": 1716815299,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60868,
+        "num": 76832,
+        "word": "巴以冲突",
+        "onboard_time": 1716824598,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174046,
+        "num": 71381,
+        "word": "朝鲜",
+        "onboard_time": 1716819439,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 6897,
+        "num": 67529,
+        "word": "车来车往的路口为老人按下120秒暂停键",
+        "onboard_time": 1716816799,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155319,
+        "num": 64547,
+        "word": "冲绳",
+        "onboard_time": 1716822140,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61763,
+        "num": 61763,
+        "word": "费介死了吗",
+        "onboard_time": 1716816500,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61451,
+        "num": 61451,
+        "word": "庆余年 大男主",
+        "onboard_time": 1716820520,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60483,
+        "num": 60483,
+        "word": "网恋是赵昭仪 奔现是强哥",
+        "onboard_time": 1716815539,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59889,
+        "num": 59889,
+        "word": "白羊座的做事逻辑",
+        "onboard_time": 1716828435,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57084,
+        "num": 57084,
+        "word": "人最笨的时候就是问出那句",
+        "onboard_time": 1716822680,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45492,
+        "num": 45492,
+        "word": "12306回应高铁座椅不卫生",
+        "onboard_time": 1716807798,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42568,
+        "num": 42568,
+        "word": "黄晓明模仿亚当",
+        "onboard_time": 1716816080,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45508,
+        "num": 42488,
+        "word": "33岁生完二胎我才真正清醒了",
+        "onboard_time": 1716807798,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44070,
+        "num": 42472,
+        "word": "建议i人都去尝试十点睡五点起",
+        "onboard_time": 1716819740,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42404,
+        "num": 42404,
+        "word": "李小冉怎么保养的",
+        "onboard_time": 1716819680,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41973,
+        "num": 41973,
+        "word": "长公主好美",
+        "onboard_time": 1716818118,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40241,
+        "num": 41765,
+        "word": "台湾学生坚定表示台湾是中国的",
+        "onboard_time": 1716810257,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41647,
+        "num": 41647,
+        "word": "五竹来了",
+        "onboard_time": 1716816140,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40786,
+        "num": 40786,
+        "word": "外媒把吴君如认成了章子怡",
+        "onboard_time": 1716821661,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40531,
+        "num": 40531,
+        "word": "大学一人寝你愿意住吗",
+        "onboard_time": 1716816739,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37297,
+        "num": 37297,
+        "word": "背着善宰跑",
+        "onboard_time": 1716809717,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35600,
+        "num": 37233,
+        "word": "外交部回应世卫大会拒绝涉台提案",
+        "onboard_time": 1716817699,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110290,
+        "num": 37225,
+        "word": "中部六省要扛起主体责任让脊梁更硬",
+        "onboard_time": 1716830773,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37194,
+        "num": 37194,
+        "word": "龚吓幂",
+        "onboard_time": 1716822922,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36195,
+        "num": 36195,
+        "word": "突然理解好朋友跟朋友的区别",
+        "onboard_time": 1716831492,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35955,
+        "num": 35955,
+        "word": "瘦了才有资格跟老婆剪CP",
+        "onboard_time": 1716805339,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32054,
+        "num": 35291,
+        "word": "纳达尔 兹维列夫",
+        "onboard_time": 1716816859,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35030,
+        "num": 35030,
+        "word": "赵丽颖方否认演生命树",
+        "onboard_time": 1716822381,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34520,
+        "num": 34520,
+        "word": "唐艺昕张若昀 美好爱情",
+        "onboard_time": 1716816859,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33407,
+        "num": 33407,
+        "word": "VOGUE新主编",
+        "onboard_time": 1716823218,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 32678,
+        "num": 32678,
+        "word": "陈奕迅杭州站赔偿方案引歌迷不满",
+        "onboard_time": 1716812238,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 8594,
+        "num": 31224,
+        "word": "非沪籍在上海购房社保年限减为3年",
+        "onboard_time": 1716808217,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31041,
+        "num": 31041,
+        "word": "范闲婉儿大婚名场面",
+        "onboard_time": 1716814878,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31009,
+        "num": 31009,
+        "word": "aespa MV呢",
+        "onboard_time": 1716801558,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30353,
+        "num": 30353,
+        "word": "保时捷中国与全体授权经销商联合声明",
+        "onboard_time": 1716815598,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 30239,
+        "num": 30239,
+        "word": "中国统一的大势不可逆转",
+        "onboard_time": 1716819499,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29646,
+        "num": 29646,
+        "word": "邓紫棋演唱会",
+        "onboard_time": 1716822200,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28393,
+        "num": 28393,
+        "word": "流浪狗回回挖土救猫咪",
+        "onboard_time": 1716830114,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26734,
+        "num": 26734,
+        "word": "4元1斤的大樱桃你吃到了吗",
+        "onboard_time": 1716811937,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24517,
+        "num": 26733,
+        "word": "善宰还是把阵雨写出来了",
+        "onboard_time": 1716823821,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23405,
+        "num": 26729,
+        "word": "范闲也跳晚安大小姐了",
+        "onboard_time": 1716814578,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21765,
+        "num": 26725,
+        "word": "肖战片场请客",
+        "onboard_time": 1716809538,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#驰而不息推进全面从严治党#"
+    }
+  }
+}
