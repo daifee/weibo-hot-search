@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716816833851,
+  "endTime": 1716819446225,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -443,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 831984,
+      "num": 831984,
+      "word": "费介死了吗",
+      "onboard_time": 1716816500,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 819818,
       "num": 432807,
       "word": "看得出他是五竹",
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692092,
+      "num": 451923,
+      "word": "唐艺昕张若昀 美好爱情",
+      "onboard_time": 1716816859,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691881,
       "num": 446213,
       "word": "种地吧将取消打卡直播",
@@ -707,6 +723,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 633871,
+      "num": 633871,
+      "word": "外交部回应世卫大会拒绝涉台提案",
+      "onboard_time": 1716817699,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 633415,
       "num": 633415,
       "word": "四川凉山5级地震",
@@ -729,6 +753,14 @@
       "onboard_time": 1716788118,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 618780,
+      "num": 618780,
+      "word": "月红篇终于癫成我想要的样子",
+      "onboard_time": 1716815299,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 617261,
@@ -819,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 599460,
+      "num": 599460,
+      "word": "网恋是赵昭仪 奔现是强哥",
+      "onboard_time": 1716815539,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 596095,
       "num": 570969,
       "word": "范若若切大号 于曼丽回归",
@@ -905,14 +945,6 @@
       "onboard_time": 1716800059,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 554516,
-      "num": 238549,
-      "word": "网恋是赵昭仪 奔现是强哥",
-      "onboard_time": 1716815539,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 551150,
@@ -1083,6 +1115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 494405,
+      "num": 237725,
+      "word": "被外婆家厕所的纸震惊到了",
+      "onboard_time": 1716814999,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 493703,
       "num": 493703,
       "word": "王冰冰回应尼格买提",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1716809717,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 490909,
-      "num": 237725,
-      "word": "被外婆家厕所的纸震惊到了",
-      "onboard_time": 1716814999,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 489086,
@@ -1241,6 +1273,22 @@
       "onboard_time": 1716776838,
       "rank": 36,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 450852,
+      "num": 450852,
+      "word": "长公主好美",
+      "onboard_time": 1716818118,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 447741,
+      "num": 447741,
+      "word": "黄晓明模仿亚当",
+      "onboard_time": 1716816080,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 447338,
@@ -1515,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373505,
+      "num": 373505,
+      "word": "范闲婉儿大婚名场面",
+      "onboard_time": 1716814878,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372245,
       "num": 372245,
       "word": "以方称埃及士兵向以军开枪",
@@ -1593,14 +1649,6 @@
       "onboard_time": 1716730999,
       "rank": 15,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 360863,
-      "num": 360863,
-      "word": "范闲婉儿大婚名场面",
-      "onboard_time": 1716814878,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 359643,
@@ -1779,14 +1827,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 322533,
-      "num": 322533,
-      "word": "月红篇终于癫成我想要的样子",
-      "onboard_time": 1716815299,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 322473,
       "num": 322473,
       "word": "上海发布房产新政",
@@ -1848,6 +1888,22 @@
       "word": "正午阳光回应生命树选角",
       "onboard_time": 1716787039,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 311402,
+      "num": 192431,
+      "word": "一个班的几乎全是考公务员的",
+      "onboard_time": 1716817219,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 310579,
+      "num": 234669,
+      "word": "五竹来了",
+      "onboard_time": 1716816140,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -2091,14 +2147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278300,
-      "num": 278300,
-      "word": "黄晓明模仿亚当",
-      "onboard_time": 1716816080,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273992,
       "num": 194625,
       "word": "本届戛纳影后是四黄蛋",
@@ -2209,14 +2257,6 @@
       "onboard_time": 1716739458,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253294,
-      "num": 234669,
-      "word": "五竹来了",
-      "onboard_time": 1716816140,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 253252,
@@ -2539,6 +2579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223881,
+      "num": 223881,
+      "word": "世界卫生大会拒绝涉台提案",
+      "onboard_time": 1716817699,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 223540,
       "num": 270226,
       "word": "曼城vs曼联首发",
@@ -2763,12 +2811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207897,
-      "num": 207897,
-      "word": "费介死了吗",
-      "onboard_time": 1716816500,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 208105,
+      "num": 190953,
+      "word": "找到了口红试色的新方法",
+      "onboard_time": 1716818239,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 207721,
@@ -3088,6 +3136,14 @@
       "word": "背着善宰跑第15集",
       "onboard_time": 1716816199,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190484,
+      "num": 190484,
+      "word": "这人间只允许有一个人比我美",
+      "onboard_time": 1716818180,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -3627,6 +3683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166448,
+      "num": 166448,
+      "word": "杨幂敦煌风妆造",
+      "onboard_time": 1716816620,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165842,
       "num": 165842,
       "word": "骑手正在攻击你的外卖",
@@ -3811,6 +3875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156517,
+      "num": 156517,
+      "word": "大学一人寝你愿意住吗",
+      "onboard_time": 1716816739,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156359,
       "num": 156359,
       "word": "钟楚曦侯雯元又发糖了",
@@ -3865,14 +3937,6 @@
       "onboard_time": 1716771021,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 152446,
-      "num": 152446,
-      "word": "杨幂敦煌风妆造",
-      "onboard_time": 1716816620,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 151963,
@@ -4763,14 +4827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119374,
-      "num": 119374,
-      "word": "大学一人寝你愿意住吗",
-      "onboard_time": 1716816739,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118734,
       "num": 102508,
       "word": "男朋友哭着答应了我的求婚",
@@ -4905,6 +4961,14 @@
       "onboard_time": 1716712458,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110641,
+      "num": 110641,
+      "word": "纳达尔 兹维列夫",
+      "onboard_time": 1716816859,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 110599,
@@ -5185,6 +5249,14 @@
       "onboard_time": 1716704778,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85495,
+      "num": 300354,
+      "word": "荣耀200能拍20000一张的写真",
+      "onboard_time": 1716817639,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 84270,
@@ -5516,7 +5588,7 @@
     },
     {
       "raw_hot": 45509,
-      "num": 819133,
+      "num": 884113,
       "word": "沉浸式感受数字点亮生活",
       "onboard_time": 1716814638,
       "rank": 2,
