@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716799030523,
+  "endTime": 1716801653548,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -139,8 +139,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1399545,
+      "num": 1399545,
+      "word": "南京人身份证上为啥没省名",
+      "onboard_time": 1716796099,
+      "rank": 11,
+      "category": "科学科普,社会新闻"
+    },
+    {
       "raw_hot": 1388990,
-      "num": 291656,
+      "num": 319678,
       "word": "肝不好的人上厕所或有这3种异样",
       "onboard_time": 1716790639,
       "rank": 26,
@@ -219,12 +227,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1156763,
+      "num": 1156763,
+      "word": "aespa MV呢",
+      "onboard_time": 1716801558,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1150291,
       "num": 1150291,
       "word": "网恋是王力宏 奔现是孙楠",
       "onboard_time": 1716703699,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1123595,
+      "num": 580138,
+      "word": "aespa回归",
+      "onboard_time": 1716792438,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1108055,
@@ -371,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 816806,
+      "num": 497594,
+      "word": "双休和单休真是两种人生",
+      "onboard_time": 1716783259,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 814964,
       "num": 307793,
       "word": "女儿以父母偏心哥哥为由拒绝赡养父母",
@@ -451,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 731524,
-      "num": 379282,
-      "word": "南京人身份证上为啥没省名",
-      "onboard_time": 1716796099,
-      "rank": 11,
-      "category": "科学科普,社会新闻"
-    },
-    {
       "raw_hot": 730108,
       "num": 312455,
       "word": "向佐ins掉粉",
@@ -523,14 +547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 658966,
-      "num": 497594,
-      "word": "双休和单休真是两种人生",
-      "onboard_time": 1716783259,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 655560,
       "num": 246737,
       "word": "中医建议肝不好做这六个动作",
@@ -576,6 +592,14 @@
       "word": "林相大宝这段",
       "onboard_time": 1716727998,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 635946,
+      "num": 635946,
+      "word": "黄日莹脸上缝了七针",
+      "onboard_time": 1716799880,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -675,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 600276,
+      "num": 600276,
+      "word": "中共中央政治局5月27日召开会议",
+      "onboard_time": 1716798740,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 600067,
       "num": 600067,
       "word": "微信置顶一个很心酸的设计",
@@ -683,20 +715,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 584390,
-      "num": 584390,
-      "word": "茉酸奶致歉",
-      "onboard_time": 1716797778,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579186,
-      "num": 560789,
+      "raw_hot": 596095,
+      "num": 570969,
       "word": "范若若切大号 于曼丽回归",
       "onboard_time": 1716796578,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 592368,
+      "num": 521712,
+      "word": "不该把中国妹都叫成熊猫妹",
+      "onboard_time": 1716799159,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 590105,
+      "num": 590105,
+      "word": "茉酸奶致歉",
+      "onboard_time": 1716797778,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576405,
@@ -833,6 +873,14 @@
       "onboard_time": 1716793037,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 510140,
+      "num": 510140,
+      "word": "孟子义 我是猪我不是人",
+      "onboard_time": 1716800059,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 507642,
@@ -1011,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454901,
+      "num": 454901,
+      "word": "花海 投票",
+      "onboard_time": 1716800359,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 452183,
       "num": 452183,
       "word": "麦当劳对讲机被炒至300元",
@@ -1155,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 405988,
-      "num": 405988,
-      "word": "aespa回归",
-      "onboard_time": 1716792438,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 403840,
       "num": 403840,
       "word": "高铁晚点",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1716684678,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392895,
+      "num": 392895,
+      "word": "亚当 澳洲好声音导师",
+      "onboard_time": 1716800598,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 386143,
@@ -1411,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341683,
+      "num": 341683,
+      "word": "梦之队票数",
+      "onboard_time": 1716798379,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 340287,
       "num": 340287,
       "word": "王妈否认抄面试者梗",
@@ -1441,6 +1505,14 @@
       "onboard_time": 1716648562,
       "rank": 15,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 335541,
+      "num": 335541,
+      "word": "aespa记者会新闻图",
+      "onboard_time": 1716800659,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 333201,
@@ -1529,6 +1601,14 @@
       "onboard_time": 1716648260,
       "rank": 16,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 308963,
+      "num": 308963,
+      "word": "考公后几百年不联系的同学出现了",
+      "onboard_time": 1716798257,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 307382,
@@ -2075,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226667,
+      "num": 226667,
+      "word": "洞洞鞋和勃肯鞋谁才是丑鞋王",
+      "onboard_time": 1716800298,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 225416,
       "num": 205532,
       "word": "凤凰传奇 豫淋军",
@@ -2227,22 +2315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213630,
-      "num": 213630,
-      "word": "梦之队票数",
-      "onboard_time": 1716798379,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 213487,
-      "num": 213487,
-      "word": "考公后几百年不联系的同学出现了",
-      "onboard_time": 1716798257,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 213040,
       "num": 177146,
       "word": "怎么会有这么癫的霸总剧情",
@@ -2387,6 +2459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 205405,
+      "num": 193497,
+      "word": "一不小心买到了人生气垫",
+      "onboard_time": 1716798678,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 205231,
       "num": 152262,
       "word": "林俊杰晒照感谢胡彦斌",
@@ -2419,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203874,
+      "num": 381299,
+      "word": "你被三个不相信的英雄宣言激励过吗",
+      "onboard_time": 1716797178,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 203545,
       "num": 203545,
       "word": "Ning谈xiye加入TES",
@@ -2433,14 +2521,6 @@
       "onboard_time": 1716783561,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202545,
-      "num": 381299,
-      "word": "你被三个不相信的英雄宣言激励过吗",
-      "onboard_time": 1716797178,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 202047,
@@ -2628,7 +2708,7 @@
     },
     {
       "raw_hot": 189698,
-      "num": 189698,
+      "num": 194121,
       "word": "上海外国语大学大巴撞车",
       "onboard_time": 1716797839,
       "rank": 41,
@@ -2931,14 +3011,6 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 172022,
-      "num": 172022,
-      "word": "一不小心买到了人生气垫",
-      "onboard_time": 1716798678,
-      "rank": 37,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 171791,
       "num": 171791,
       "word": "杨幂龚俊立狐妖热度flag",
@@ -3115,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163863,
+      "num": 163863,
+      "word": "2024KPL王者梦之队",
+      "onboard_time": 1716800298,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163533,
       "num": 163533,
       "word": "巴西将建造世界最大蚊子工厂",
@@ -3203,20 +3283,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154724,
-      "num": 154724,
-      "word": "中共中央政治局5月27日召开会议",
-      "onboard_time": 1716798740,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154642,
       "num": 146023,
       "word": "张馨予建模脸",
       "onboard_time": 1716699979,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153335,
+      "num": 153335,
+      "word": "原来大多数人小脚趾甲是分瓣的",
+      "onboard_time": 1716801079,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 152824,
+      "num": 152824,
+      "word": "赵露思大光明造型",
+      "onboard_time": 1716800598,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 152517,
@@ -3521,6 +3609,22 @@
       "onboard_time": 1716732139,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137914,
+      "num": 137914,
+      "word": "狐妖小红娘",
+      "onboard_time": 1716799159,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136143,
+      "num": 136143,
+      "word": "妈妈跑赢洪水才有了后来的我",
+      "onboard_time": 1716800659,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135683,
@@ -4324,7 +4428,7 @@
     },
     {
       "raw_hot": 92665,
-      "num": 688284,
+      "num": 860363,
       "word": "文脉华章",
       "onboard_time": 1716796038,
       "rank": 2,
@@ -4547,6 +4651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59041,
+      "num": 136835,
+      "word": "对影成三人具象化了",
+      "onboard_time": 1716796998,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55743,
       "num": 55743,
       "word": "闵塔鲨发了迪丽热巴新造型",
@@ -4676,7 +4788,7 @@
     },
     {
       "raw_hot": 42877,
-      "num": 235216,
+      "num": 311817,
       "word": "杨洋首部短剧",
       "onboard_time": 1716797659,
       "rank": 34,
@@ -4791,6 +4903,14 @@
       "num": 506483,
       "word": "温州人把龙舟划出高铁的气势",
       "onboard_time": 1716652939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27434,
+      "num": 537816,
+      "word": "爸爸给女儿的成人礼一步一惊喜",
+      "onboard_time": 1716801319,
       "rank": 9,
       "category": "社会新闻"
     },
