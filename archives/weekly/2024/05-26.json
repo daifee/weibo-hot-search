@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716830170638,
+  "endTime": 1716831252867,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -5435,6 +5435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92399,
+      "num": 92399,
+      "word": "方大同 抽象",
+      "onboard_time": 1716829693,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92250,
       "num": 92250,
       "word": "朱婷跟队训练",
@@ -5643,14 +5651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61217,
-      "num": 61217,
-      "word": "方大同 抽象",
-      "onboard_time": 1716829693,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 60735,
       "num": 184272,
       "word": "章小蕙直播间进去就出不来了",
@@ -5731,6 +5731,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 51473,
+      "num": 51473,
+      "word": "中部六省要扛起主体责任让脊梁更硬",
+      "onboard_time": 1716830773,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51385,
       "num": 51385,
       "word": "体态变差的根源居然是恐惧",
@@ -5785,6 +5793,14 @@
       "onboard_time": 1716674712,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 50350,
+      "num": 50350,
+      "word": "流浪狗回回挖土救猫咪",
+      "onboard_time": 1716830114,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 47839,
@@ -5905,14 +5921,6 @@
       "onboard_time": 1716733041,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37245,
-      "num": 48727,
-      "word": "流浪狗回回挖土救猫咪",
-      "onboard_time": 1716830114,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 36833,
