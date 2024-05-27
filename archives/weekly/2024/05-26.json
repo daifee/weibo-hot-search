@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716852030528,
+  "endTime": 1716852948938,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -1859,6 +1859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 336815,
+      "num": 336815,
+      "word": "当你连续点同一家外卖超过100次",
+      "onboard_time": 1716823101,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 336028,
       "num": 336028,
       "word": "日本地震",
@@ -1977,6 +1985,14 @@
       "onboard_time": 1716823218,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 312066,
+      "num": 121726,
+      "word": "老师做久了真的都有职业病吗",
+      "onboard_time": 1716848412,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 310579,
@@ -2235,20 +2251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276164,
-      "num": 246376,
+      "raw_hot": 277369,
+      "num": 277369,
       "word": "外媒把吴君如认成了章子怡",
       "onboard_time": 1716821661,
       "rank": 22,
       "category": "电影"
     },
     {
-      "raw_hot": 274466,
-      "num": 100389,
-      "word": "老师做久了真的都有职业病吗",
-      "onboard_time": 1716848412,
-      "rank": 22,
-      "category": "情感,幽默"
+      "raw_hot": 274548,
+      "num": 274548,
+      "word": "2024高考",
+      "onboard_time": 1716851595,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 273992,
@@ -2265,6 +2281,14 @@
       "onboard_time": 1716655157,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 271169,
+      "num": 121348,
+      "word": "绍兴课上开黄腔教师被警告处分",
+      "onboard_time": 1716835752,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271162,
@@ -2531,14 +2555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237780,
-      "num": 237780,
-      "word": "当你连续点同一家外卖超过100次",
-      "onboard_time": 1716823101,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237535,
       "num": 237535,
       "word": "歌手",
@@ -2568,14 +2584,6 @@
       "word": "官方通报安徽一小区楼房发生坍塌",
       "onboard_time": 1716805039,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234272,
-      "num": 97883,
-      "word": "绍兴课上开黄腔教师被警告处分",
-      "onboard_time": 1716835752,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2811,6 +2819,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 219073,
+      "num": 219073,
+      "word": "中部六省要扛起主体责任让脊梁更硬",
+      "onboard_time": 1716830773,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 217991,
       "num": 217991,
       "word": "Rookie说第十名不配拿奖金",
@@ -2897,14 +2913,6 @@
       "onboard_time": 1716683537,
       "rank": 28,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 210611,
-      "num": 210611,
-      "word": "中部六省要扛起主体责任让脊梁更硬",
-      "onboard_time": 1716830773,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 210564,
@@ -3563,6 +3571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179870,
+      "num": 179870,
+      "word": "黄奕自认人生谷底是结婚",
+      "onboard_time": 1716848833,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179585,
       "num": 637751,
       "word": "国乒提前包揽冠亚军",
@@ -3593,14 +3609,6 @@
       "onboard_time": 1716769038,
       "rank": 34,
       "category": "社会新闻,美妆"
-    },
-    {
-      "raw_hot": 178143,
-      "num": 178143,
-      "word": "2024高考",
-      "onboard_time": 1716851595,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 178138,
@@ -4299,6 +4307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144322,
+      "num": 120305,
+      "word": "济南纪检监察部门已收到葛女士举报",
+      "onboard_time": 1716850874,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143496,
       "num": 143496,
       "word": "范闲自己淋过雨要给天下撑伞",
@@ -4376,14 +4392,6 @@
       "word": "文韬数学老师上线",
       "onboard_time": 1716787878,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 141146,
-      "num": 141146,
-      "word": "黄奕自认人生谷底是结婚",
-      "onboard_time": 1716848833,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -5059,6 +5067,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 119856,
+      "num": 119856,
+      "word": "高考10天倒计时",
+      "onboard_time": 1716852556,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 119759,
       "num": 119759,
       "word": "劝你别加冰不是因为凉",
@@ -5315,14 +5331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 105703,
-      "num": 94661,
-      "word": "济南纪检监察部门已收到葛女士举报",
-      "onboard_time": 1716850874,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105300,
       "num": 271853,
       "word": "四川消防启动地震救援三级响应",
@@ -5515,6 +5523,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89941,
+      "num": 89941,
+      "word": "李小冉花期好长",
+      "onboard_time": 1716846731,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89142,
+      "num": 89142,
+      "word": "曾经热闹的宜家为什么没什么人了",
+      "onboard_time": 1716835092,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87144,
       "num": 106619,
       "word": "原来朋友圈很多官宣照是这么来的",
@@ -5537,14 +5561,6 @@
       "onboard_time": 1716817639,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 84664,
-      "num": 84664,
-      "word": "李小冉花期好长",
-      "onboard_time": 1716846731,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 84270,
@@ -5579,6 +5595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 80045,
+      "num": 80045,
+      "word": "纳达尔止步法网首轮",
+      "onboard_time": 1716851595,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78526,
       "num": 78526,
       "word": "韩剧毕业",
@@ -5609,14 +5633,6 @@
       "onboard_time": 1716772278,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 75857,
-      "num": 75857,
-      "word": "曾经热闹的宜家为什么没什么人了",
-      "onboard_time": 1716835092,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 75410,
@@ -5675,12 +5691,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 68898,
-      "num": 68898,
-      "word": "纳达尔止步法网首轮",
-      "onboard_time": 1716851595,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 69991,
+      "num": 69991,
+      "word": "工作了8天又裸辞了",
+      "onboard_time": 1716844031,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 67446,
@@ -5705,6 +5721,14 @@
       "onboard_time": 1716681916,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 64133,
+      "num": 64133,
+      "word": "涂山红红是涂山大动脉",
+      "onboard_time": 1716852616,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 63355,
@@ -5763,14 +5787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59439,
-      "num": 59439,
-      "word": "工作了8天又裸辞了",
-      "onboard_time": 1716844031,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 59041,
       "num": 136835,
       "word": "对影成三人具象化了",
@@ -5785,6 +5801,14 @@
       "onboard_time": 1716765975,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 54947,
+      "num": 54947,
+      "word": "纳达尔0比3兹维列夫",
+      "onboard_time": 1716851955,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 54322,
@@ -5939,14 +5963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42422,
-      "num": 42422,
-      "word": "纳达尔0比3兹维列夫",
-      "onboard_time": 1716851955,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42184,
       "num": 45652,
       "word": "克罗斯告别伯纳乌",
@@ -6083,6 +6099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29852,
+      "num": 194444,
+      "word": "大熊猫灵岩随地大小蹦",
+      "onboard_time": 1716850935,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29758,
       "num": 258328,
       "word": "5旬派出所长翻越栏杆勇救落水少年",
@@ -6121,14 +6145,6 @@
       "onboard_time": 1716663191,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23440,
-      "num": 178994,
-      "word": "大熊猫灵岩随地大小蹦",
-      "onboard_time": 1716850935,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23118,
