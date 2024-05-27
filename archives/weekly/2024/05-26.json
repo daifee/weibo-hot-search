@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716814220962,
+  "endTime": 1716816084707,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -49,6 +49,14 @@
       "onboard_time": 1716688157,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1904116,
+      "num": 1904116,
+      "word": "工资6000请假半个月被扣4500",
+      "onboard_time": 1716812958,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 1900561,
@@ -129,6 +137,14 @@
       "onboard_time": 1716790578,
       "rank": 12,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1516080,
+      "num": 1516080,
+      "word": "埃及",
+      "onboard_time": 1716812899,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1481358,
@@ -289,14 +305,6 @@
       "onboard_time": 1716785121,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1058375,
-      "num": 407576,
-      "word": "工资6000请假半个月被扣4500",
-      "onboard_time": 1716812958,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 1031743,
@@ -593,14 +601,6 @@
       "onboard_time": 1716779719,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 705264,
-      "num": 705264,
-      "word": "埃及",
-      "onboard_time": 1716812899,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 691881,
@@ -1091,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492122,
+      "num": 492122,
+      "word": "背着善宰跑",
+      "onboard_time": 1716809717,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489086,
       "num": 436996,
       "word": "张雨绮说自己起床就长这样",
@@ -1355,14 +1363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410825,
-      "num": 410825,
-      "word": "背着善宰跑",
-      "onboard_time": 1716809717,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 407271,
       "num": 407271,
       "word": "久酷",
@@ -1443,6 +1443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387263,
+      "num": 251217,
+      "word": "4元1斤的大樱桃你吃到了吗",
+      "onboard_time": 1716811937,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 386143,
       "num": 300199,
       "word": "机场喊话迪丽热巴来拿登机牌",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1716797899,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372245,
+      "num": 372245,
+      "word": "以方称埃及士兵向以军开枪",
+      "onboard_time": 1716814578,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 371418,
@@ -1715,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327217,
+      "num": 222173,
+      "word": "被外婆家厕所的纸震惊到了",
+      "onboard_time": 1716814999,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323700,
       "num": 251679,
       "word": "Lululemon股价今年已跌去4成",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1716773237,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316380,
+      "num": 316380,
+      "word": "子女凑钱替67岁父亲交私生子抚养费",
+      "onboard_time": 1716813318,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315800,
@@ -1819,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305521,
+      "num": 305521,
+      "word": "范闲也跳晚安大小姐了",
+      "onboard_time": 1716814578,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304403,
       "num": 304403,
       "word": "福宝和邻居熊隔窗交流",
@@ -1880,6 +1920,14 @@
       "word": "庆余年林相辞官 三狐对峙",
       "onboard_time": 1716732320,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 297162,
+      "num": 220306,
+      "word": "网恋是赵昭仪 奔现是强哥",
+      "onboard_time": 1716815539,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -2027,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279746,
+      "num": 279746,
+      "word": "范闲婉儿大婚名场面",
+      "onboard_time": 1716814878,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273992,
       "num": 194625,
       "word": "本届戛纳影后是四黄蛋",
@@ -2145,14 +2201,6 @@
       "onboard_time": 1716767957,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 251217,
-      "num": 251217,
-      "word": "4元1斤的大樱桃你吃到了吗",
-      "onboard_time": 1716811937,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 250690,
@@ -2835,6 +2883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200284,
+      "num": 200284,
+      "word": "月红篇终于癫成我想要的样子",
+      "onboard_time": 1716815299,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199968,
       "num": 354747,
       "word": "休假浙江人在贵州救了两条命",
@@ -2897,6 +2953,14 @@
       "onboard_time": 1716732919,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194715,
+      "num": 194715,
+      "word": "吴宇恒客串段嘉许",
+      "onboard_time": 1716814878,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 194475,
@@ -3033,6 +3097,14 @@
       "onboard_time": 1716729620,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188022,
+      "num": 188022,
+      "word": "00后古希腊掌管运营的神",
+      "onboard_time": 1716815779,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 187678,
@@ -3403,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169366,
+      "num": 169366,
+      "word": "太子才要不得脸面",
+      "onboard_time": 1716811337,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168970,
       "num": 168970,
       "word": "老一辈人没苦硬吃",
@@ -3507,11 +3587,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165411,
-      "num": 165411,
-      "word": "太子才要不得脸面",
-      "onboard_time": 1716811337,
-      "rank": 35,
+      "raw_hot": 165563,
+      "num": 165563,
+      "word": "小范大人听说你至今未娶啊",
+      "onboard_time": 1716815539,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -3691,14 +3771,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 156689,
-      "num": 156689,
-      "word": "子女凑钱替67岁父亲交私生子抚养费",
-      "onboard_time": 1716813318,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156359,
       "num": 156359,
       "word": "钟楚曦侯雯元又发糖了",
@@ -3737,6 +3809,14 @@
       "onboard_time": 1716800598,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 152822,
+      "num": 152822,
+      "word": "保时捷中国与全体授权经销商联合声明",
+      "onboard_time": 1716815598,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 152517,
@@ -4011,6 +4091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139868,
+      "num": 139868,
+      "word": "背着善宰跑直播",
+      "onboard_time": 1716814279,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139867,
       "num": 139867,
       "word": "杨根思连被授予时代楷模称号",
@@ -4275,6 +4363,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130645,
+      "num": 130645,
+      "word": "GeminiCat古装下棋",
+      "onboard_time": 1716815779,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 130436,
+      "num": 130436,
+      "word": "林俊杰真的好会going",
+      "onboard_time": 1716815900,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130396,
       "num": 130396,
       "word": "蔡依林南昌演唱会",
@@ -4448,6 +4552,14 @@
       "word": "5号和15号发工资区别有多大",
       "onboard_time": 1716678014,
       "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 124123,
+      "num": 124123,
+      "word": "第一次觉得章鱼这么可爱",
+      "onboard_time": 1716815119,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -5363,6 +5475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41843,
+      "num": 773954,
+      "word": "沉浸式感受数字点亮生活",
+      "onboard_time": 1716814638,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41044,
       "num": 661334,
       "word": "三夏时节感受丰收之美",
@@ -5582,6 +5702,9 @@
     },
     {
       "word": "#驰而不息推进全面从严治党#"
+    },
+    {
+      "word": "#中共中央政治局5月27日召开会议#"
     }
   ]
 }

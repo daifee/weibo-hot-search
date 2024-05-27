@@ -1,0 +1,410 @@
+{
+  "runTime": 1716816084707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1904116,
+        "num": 1904116,
+        "word": "工资6000请假半个月被扣4500",
+        "onboard_time": 1716812958,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1516080,
+        "num": 1516080,
+        "word": "埃及",
+        "onboard_time": 1716812899,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41843,
+        "num": 773954,
+        "word": "沉浸式感受数字点亮生活",
+        "onboard_time": 1716814638,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656153,
+        "num": 656153,
+        "word": "女儿工作后每月都会给我一千块钱",
+        "onboard_time": 1716809657,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 617819,
+        "num": 617819,
+        "word": "瘦了才有资格跟老婆剪CP",
+        "onboard_time": 1716805339,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 508588,
+        "num": 508588,
+        "word": "12306回应高铁座椅不卫生",
+        "onboard_time": 1716807798,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503089,
+        "num": 503089,
+        "word": "台湾学生坚定表示台湾是中国的",
+        "onboard_time": 1716810257,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 492122,
+        "num": 492122,
+        "word": "背着善宰跑",
+        "onboard_time": 1716809717,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488474,
+        "num": 488474,
+        "word": "福宝将于六月与公众见面",
+        "onboard_time": 1716811458,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325648,
+        "num": 398382,
+        "word": "非沪籍在上海购房社保年限减为3年",
+        "onboard_time": 1716808217,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372245,
+        "num": 372245,
+        "word": "以方称埃及士兵向以军开枪",
+        "onboard_time": 1716814578,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 318269,
+        "num": 318269,
+        "word": "王鹤棣颈椎受伤",
+        "onboard_time": 1716811099,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316380,
+        "num": 316380,
+        "word": "子女凑钱替67岁父亲交私生子抚养费",
+        "onboard_time": 1716813318,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313625,
+        "num": 313625,
+        "word": "黄日莹脸上缝了七针",
+        "onboard_time": 1716799880,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305521,
+        "num": 305521,
+        "word": "范闲也跳晚安大小姐了",
+        "onboard_time": 1716814578,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291657,
+        "num": 291657,
+        "word": "南京人身份证上为啥没省名",
+        "onboard_time": 1716796099,
+        "rank": 15,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 286842,
+        "num": 286842,
+        "word": "陈奕迅杭州站赔偿方案引歌迷不满",
+        "onboard_time": 1716812238,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279746,
+        "num": 279746,
+        "word": "范闲婉儿大婚名场面",
+        "onboard_time": 1716814878,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249385,
+        "num": 249385,
+        "word": "24岁女生存够10万元靠利息生活",
+        "onboard_time": 1716780679,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229842,
+        "num": 229842,
+        "word": "于洋 林若甫也该同各位道别了",
+        "onboard_time": 1716809238,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387263,
+        "num": 228606,
+        "word": "4元1斤的大樱桃你吃到了吗",
+        "onboard_time": 1716811937,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 355400,
+        "num": 224729,
+        "word": "33岁生完二胎我才真正清醒了",
+        "onboard_time": 1716807798,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327217,
+        "num": 222173,
+        "word": "被外婆家厕所的纸震惊到了",
+        "onboard_time": 1716814999,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297162,
+        "num": 220306,
+        "word": "网恋是赵昭仪 奔现是强哥",
+        "onboard_time": 1716815539,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219599,
+        "num": 219599,
+        "word": "章子怡礼服 胶带设计",
+        "onboard_time": 1716809478,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215403,
+        "num": 215403,
+        "word": "肖战片场请客",
+        "onboard_time": 1716809538,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200284,
+        "num": 200284,
+        "word": "月红篇终于癫成我想要的样子",
+        "onboard_time": 1716815299,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194715,
+        "num": 194715,
+        "word": "吴宇恒客串段嘉许",
+        "onboard_time": 1716814878,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188022,
+        "num": 188022,
+        "word": "00后古希腊掌管运营的神",
+        "onboard_time": 1716815779,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180838,
+        "num": 180838,
+        "word": "肝不好的人上厕所或有这3种异样",
+        "onboard_time": 1716790639,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169366,
+        "num": 169366,
+        "word": "太子才要不得脸面",
+        "onboard_time": 1716811337,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168856,
+        "num": 168856,
+        "word": "研究发现个子矮不易患癌",
+        "onboard_time": 1716802578,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165563,
+        "num": 165563,
+        "word": "小范大人听说你至今未娶啊",
+        "onboard_time": 1716815539,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161135,
+        "num": 161135,
+        "word": "范若若切大号 于曼丽回归",
+        "onboard_time": 1716796578,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158760,
+        "num": 158760,
+        "word": "白玉兰",
+        "onboard_time": 1716805459,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152822,
+        "num": 152822,
+        "word": "保时捷中国与全体授权经销商联合声明",
+        "onboard_time": 1716815598,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152400,
+        "num": 152400,
+        "word": "aespa MV呢",
+        "onboard_time": 1716801558,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149871,
+        "num": 149871,
+        "word": "美国4岁女童常年吃汽水冲奶粉致死",
+        "onboard_time": 1716802699,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141412,
+        "num": 141412,
+        "word": "刘亦菲安妮海瑟薇赞达亚宝格丽大片",
+        "onboard_time": 1716811039,
+        "rank": 38,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 139868,
+        "num": 139868,
+        "word": "背着善宰跑直播",
+        "onboard_time": 1716814279,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135650,
+        "num": 135650,
+        "word": "台湾问题是中国核心利益中的核心",
+        "onboard_time": 1716804077,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134758,
+        "num": 134758,
+        "word": "开始减肥后室友老是给我塞吃的",
+        "onboard_time": 1716813679,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132956,
+        "num": 132956,
+        "word": "aespa和ive的MV是同一个工作室",
+        "onboard_time": 1716807318,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131137,
+        "num": 131137,
+        "word": "章子怡 熹妃回宫",
+        "onboard_time": 1716789378,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130645,
+        "num": 130645,
+        "word": "GeminiCat古装下棋",
+        "onboard_time": 1716815779,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130436,
+        "num": 130436,
+        "word": "林俊杰真的好会going",
+        "onboard_time": 1716815900,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124123,
+        "num": 124123,
+        "word": "第一次觉得章鱼这么可爱",
+        "onboard_time": 1716815119,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123166,
+        "num": 123166,
+        "word": "荣耀200 杨洋",
+        "onboard_time": 1716810978,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120502,
+        "num": 120502,
+        "word": "郴州一公园发生刑事案件致3死2伤",
+        "onboard_time": 1716804439,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 113150,
+        "num": 113150,
+        "word": "一中心",
+        "onboard_time": 1716810618,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局5月27日召开会议#"
+    }
+  }
+}

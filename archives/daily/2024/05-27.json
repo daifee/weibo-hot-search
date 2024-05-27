@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716814220962,
+  "endTime": 1716816084707,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1904116,
+      "num": 1904116,
+      "word": "工资6000请假半个月被扣4500",
+      "onboard_time": 1716812958,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1900561,
       "num": 1900561,
       "word": "aespa MV呢",
@@ -65,6 +73,14 @@
       "onboard_time": 1716790578,
       "rank": 12,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1516080,
+      "num": 1516080,
+      "word": "埃及",
+      "onboard_time": 1716812899,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1481358,
@@ -129,14 +145,6 @@
       "onboard_time": 1716785121,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1058375,
-      "num": 407576,
-      "word": "工资6000请假半个月被扣4500",
-      "onboard_time": 1716812958,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 1024150,
@@ -281,14 +289,6 @@
       "onboard_time": 1716779719,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 705264,
-      "num": 705264,
-      "word": "埃及",
-      "onboard_time": 1716812899,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 680569,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492122,
+      "num": 492122,
+      "word": "背着善宰跑",
+      "onboard_time": 1716809717,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489086,
       "num": 436996,
       "word": "张雨绮说自己起床就长这样",
@@ -675,14 +683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 410825,
-      "num": 410825,
-      "word": "背着善宰跑",
-      "onboard_time": 1716809717,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 406411,
       "num": 406411,
       "word": "张若昀是在预告第三季吗",
@@ -707,6 +707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387263,
+      "num": 251217,
+      "word": "4元1斤的大樱桃你吃到了吗",
+      "onboard_time": 1716811937,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 377415,
       "num": 377415,
       "word": "秦岚减肥像极了我本人",
@@ -729,6 +737,14 @@
       "onboard_time": 1716797899,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372245,
+      "num": 372245,
+      "word": "以方称埃及士兵向以军开枪",
+      "onboard_time": 1716814578,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 368689,
@@ -835,6 +851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327217,
+      "num": 222173,
+      "word": "被外婆家厕所的纸震惊到了",
+      "onboard_time": 1716814999,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 322473,
       "num": 322473,
       "word": "上海发布房产新政",
@@ -849,6 +873,14 @@
       "onboard_time": 1716773237,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316380,
+      "num": 316380,
+      "word": "子女凑钱替67岁父亲交私生子抚养费",
+      "onboard_time": 1716813318,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314468,
@@ -883,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305521,
+      "num": 305521,
+      "word": "范闲也跳晚安大小姐了",
+      "onboard_time": 1716814578,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303870,
       "num": 303870,
       "word": "京东内部管理",
@@ -913,6 +953,14 @@
       "onboard_time": 1716805878,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 297162,
+      "num": 220306,
+      "word": "网恋是赵昭仪 奔现是强哥",
+      "onboard_time": 1716815539,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 297101,
@@ -979,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279746,
+      "num": 279746,
+      "word": "范闲婉儿大婚名场面",
+      "onboard_time": 1716814878,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271162,
       "num": 271162,
       "word": "Armageddon",
@@ -1025,14 +1081,6 @@
       "onboard_time": 1716767957,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 251217,
-      "num": 251217,
-      "word": "4元1斤的大樱桃你吃到了吗",
-      "onboard_time": 1716811937,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 250376,
@@ -1403,6 +1451,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 200284,
+      "num": 200284,
+      "word": "月红篇终于癫成我想要的样子",
+      "onboard_time": 1716815299,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198932,
       "num": 198932,
       "word": "木里地震",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1716775758,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 194715,
+      "num": 194715,
+      "word": "吴宇恒客串段嘉许",
+      "onboard_time": 1716814878,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 194475,
@@ -1497,6 +1561,14 @@
       "onboard_time": 1716797839,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188022,
+      "num": 188022,
+      "word": "00后古希腊掌管运营的神",
+      "onboard_time": 1716815779,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 187678,
@@ -1651,6 +1723,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 169366,
+      "num": 169366,
+      "word": "太子才要不得脸面",
+      "onboard_time": 1716811337,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168970,
       "num": 168970,
       "word": "老一辈人没苦硬吃",
@@ -1699,20 +1779,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165563,
+      "num": 165563,
+      "word": "小范大人听说你至今未娶啊",
+      "onboard_time": 1716815539,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165467,
       "num": 165467,
       "word": "林俊杰嘉宾",
       "onboard_time": 1716734059,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 165411,
-      "num": 165411,
-      "word": "太子才要不得脸面",
-      "onboard_time": 1716811337,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 164764,
@@ -1795,14 +1875,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 156689,
-      "num": 156689,
-      "word": "子女凑钱替67岁父亲交私生子抚养费",
-      "onboard_time": 1716813318,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156359,
       "num": 156359,
       "word": "钟楚曦侯雯元又发糖了",
@@ -1849,6 +1921,14 @@
       "onboard_time": 1716800598,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 152822,
+      "num": 152822,
+      "word": "保时捷中国与全体授权经销商联合声明",
+      "onboard_time": 1716815598,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 152517,
@@ -1993,6 +2073,14 @@
       "onboard_time": 1716787519,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139868,
+      "num": 139868,
+      "word": "背着善宰跑直播",
+      "onboard_time": 1716814279,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 139867,
@@ -2155,6 +2243,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130645,
+      "num": 130645,
+      "word": "GeminiCat古装下棋",
+      "onboard_time": 1716815779,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 130436,
+      "num": 130436,
+      "word": "林俊杰真的好会going",
+      "onboard_time": 1716815900,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130396,
       "num": 130396,
       "word": "蔡依林南昌演唱会",
@@ -2265,6 +2369,14 @@
       "onboard_time": 1716809238,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 124123,
+      "num": 124123,
+      "word": "第一次觉得章鱼这么可爱",
+      "onboard_time": 1716815119,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 122613,
@@ -2715,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41843,
+      "num": 773954,
+      "word": "沉浸式感受数字点亮生活",
+      "onboard_time": 1716814638,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40266,
       "num": 538835,
       "word": "爸爸给女儿的成人礼一步一惊喜",
@@ -2845,6 +2965,9 @@
     },
     {
       "word": "#驰而不息推进全面从严治党#"
+    },
+    {
+      "word": "#中共中央政治局5月27日召开会议#"
     }
   ]
 }
