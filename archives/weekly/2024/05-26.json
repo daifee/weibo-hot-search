@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716805239342,
+  "endTime": 1716806210569,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -851,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 532809,
+      "num": 481853,
+      "word": "美国4岁女童常年吃汽水冲奶粉致死",
+      "onboard_time": 1716802699,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532404,
       "num": 302749,
       "word": "建议这9类人少喝咖啡",
@@ -873,14 +881,6 @@
       "onboard_time": 1716767057,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 521580,
-      "num": 465207,
-      "word": "美国4岁女童常年吃汽水冲奶粉致死",
-      "onboard_time": 1716802699,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 518913,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1716795738,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442094,
+      "num": 616295,
+      "word": "台湾问题是中国核心利益中的核心",
+      "onboard_time": 1716804077,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 440130,
@@ -1587,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318400,
+      "num": 265770,
+      "word": "研究发现个子矮不易患癌",
+      "onboard_time": 1716802578,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 318249,
       "num": 318249,
       "word": "亚当圈粉",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1716732320,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298811,
+      "num": 298811,
+      "word": "郴州一公园发生刑事案件致3死2伤",
+      "onboard_time": 1716804439,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 297101,
@@ -1843,14 +1867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274253,
-      "num": 256042,
-      "word": "研究发现个子矮不易患癌",
-      "onboard_time": 1716802578,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 273992,
       "num": 194625,
       "word": "本届戛纳影后是四黄蛋",
@@ -1873,14 +1889,6 @@
       "onboard_time": 1716801679,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 270432,
-      "num": 270432,
-      "word": "台湾问题是中国核心利益中的核心",
-      "onboard_time": 1716804077,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 265787,
@@ -1995,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247316,
+      "num": 247316,
+      "word": "一个榴莲真能顶三个鸡吗",
+      "onboard_time": 1716801919,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 247120,
       "num": 229170,
       "word": "庆余年作者取名是没有瓶颈的吧",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1716641840,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243929,
-      "num": 243929,
-      "word": "一个榴莲真能顶三个鸡吗",
-      "onboard_time": 1716801919,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 243725,
@@ -2121,6 +2129,14 @@
       "onboard_time": 1716705019,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234618,
+      "num": 234618,
+      "word": "官方通报安徽一小区楼房发生坍塌",
+      "onboard_time": 1716805039,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233770,
@@ -2235,6 +2251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225092,
+      "num": 225092,
+      "word": "TES官宣xiye加入",
+      "onboard_time": 1716805878,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224831,
       "num": 224831,
       "word": "庆余年2涨分了",
@@ -2273,6 +2297,14 @@
       "onboard_time": 1716648679,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 222694,
+      "num": 222694,
+      "word": "白玉兰",
+      "onboard_time": 1716805459,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 222446,
@@ -2385,14 +2417,6 @@
       "onboard_time": 1716790159,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213501,
-      "num": 185860,
-      "word": "郴州一公园发生刑事案件致3死2伤",
-      "onboard_time": 1716804439,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 213040,
@@ -2595,14 +2619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 202170,
-      "num": 202170,
-      "word": "官方通报安徽一小区楼房发生坍塌",
-      "onboard_time": 1716805039,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202047,
       "num": 173296,
       "word": "马伊琍去新疆了",
@@ -2643,6 +2659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200469,
+      "num": 200469,
+      "word": "瘦了才有资格跟老婆剪CP",
+      "onboard_time": 1716805339,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200308,
       "num": 167296,
       "word": "狐妖导演采访",
@@ -2681,6 +2705,14 @@
       "onboard_time": 1716724099,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197021,
+      "num": 197021,
+      "word": "KPL梦之队",
+      "onboard_time": 1716805580,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 196386,
@@ -2833,6 +2865,14 @@
       "onboard_time": 1716766997,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186983,
+      "num": 186983,
+      "word": "演员刘金自曝被欠薪",
+      "onboard_time": 1716804919,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 186877,
@@ -3259,6 +3299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164764,
+      "num": 164764,
+      "word": "肝不好皮肤易出现4个变化",
+      "onboard_time": 1716805099,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 164747,
       "num": 164747,
       "word": "黄宣 风向星座",
@@ -3361,14 +3409,6 @@
       "onboard_time": 1716774978,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159498,
-      "num": 159498,
-      "word": "演员刘金自曝被欠薪",
-      "onboard_time": 1716804919,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 159441,
@@ -4169,14 +4209,6 @@
       "onboard_time": 1716700519,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 121391,
-      "num": 121391,
-      "word": "肝不好皮肤易出现4个变化",
-      "onboard_time": 1716805099,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 121158,
@@ -5051,6 +5083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32959,
+      "num": 481889,
+      "word": "成都特警遇上三角梅花墙",
+      "onboard_time": 1716805039,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32572,
       "num": 139737,
       "word": "山东这个小镇电吉他出口占全国四成",
@@ -5112,14 +5152,6 @@
       "word": "云峰山上1700岁的桢楠王",
       "onboard_time": 1716803178,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22445,
-      "num": 383346,
-      "word": "成都特警遇上三角梅花墙",
-      "onboard_time": 1716805039,
-      "rank": 15,
       "category": "社会新闻"
     },
     {

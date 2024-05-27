@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716805239342,
+  "endTime": 1716806210569,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -14923,6 +14923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532809,
+      "num": 481853,
+      "word": "美国4岁女童常年吃汽水冲奶粉致死",
+      "onboard_time": 1716802699,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532404,
       "num": 302749,
       "word": "建议这9类人少喝咖啡",
@@ -15280,14 +15288,6 @@
       "word": "叫花鸡没有鸡涉事店铺已关门",
       "onboard_time": 1714986438,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521580,
-      "num": 465207,
-      "word": "美国4岁女童常年吃汽水冲奶粉致死",
-      "onboard_time": 1716802699,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -18769,6 +18769,14 @@
       "onboard_time": 1715823318,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442094,
+      "num": 616295,
+      "word": "台湾问题是中国核心利益中的核心",
+      "onboard_time": 1716804077,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 442032,
@@ -26075,6 +26083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 318400,
+      "num": 265770,
+      "word": "研究发现个子矮不易患癌",
+      "onboard_time": 1716802578,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 318249,
       "num": 318249,
       "word": "亚当圈粉",
@@ -27473,6 +27489,14 @@
       "onboard_time": 1716181642,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298811,
+      "num": 298811,
+      "word": "郴州一公园发生刑事案件致3死2伤",
+      "onboard_time": 1716804439,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 298688,
@@ -29643,14 +29667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274253,
-      "num": 256042,
-      "word": "研究发现个子矮不易患癌",
-      "onboard_time": 1716802578,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 274221,
       "num": 228220,
       "word": "Jennie机场",
@@ -29969,14 +29985,6 @@
       "onboard_time": 1715659519,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270432,
-      "num": 270432,
-      "word": "台湾问题是中国核心利益中的核心",
-      "onboard_time": 1716804077,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 270406,
@@ -32355,6 +32363,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 247316,
+      "num": 247316,
+      "word": "一个榴莲真能顶三个鸡吗",
+      "onboard_time": 1716801919,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 247255,
       "num": 247255,
       "word": "她不是不疼只是习惯了忍",
@@ -32825,14 +32841,6 @@
       "onboard_time": 1716130282,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243929,
-      "num": 243929,
-      "word": "一个榴莲真能顶三个鸡吗",
-      "onboard_time": 1716801919,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 243928,
@@ -33961,6 +33969,14 @@
       "onboard_time": 1716435858,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234618,
+      "num": 234618,
+      "word": "官方通报安徽一小区楼房发生坍塌",
+      "onboard_time": 1716805039,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234611,
@@ -35331,6 +35347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225092,
+      "num": 225092,
+      "word": "TES官宣xiye加入",
+      "onboard_time": 1716805878,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225080,
       "num": 399732,
       "word": "5岁女儿和爸爸在雨中即兴舞蹈被妈妈拍下",
@@ -35601,6 +35625,14 @@
       "onboard_time": 1714797317,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222694,
+      "num": 222694,
+      "word": "白玉兰",
+      "onboard_time": 1715670800,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 222688,
@@ -37193,14 +37225,6 @@
       "onboard_time": 1715900895,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213501,
-      "num": 185860,
-      "word": "郴州一公园发生刑事案件致3死2伤",
-      "onboard_time": 1716804439,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 213431,
@@ -39947,14 +39971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202170,
-      "num": 202170,
-      "word": "官方通报安徽一小区楼房发生坍塌",
-      "onboard_time": 1716805039,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202158,
       "num": 202158,
       "word": "iPad 泡面盖",
@@ -40585,6 +40601,14 @@
       "onboard_time": 1715678120,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200469,
+      "num": 200469,
+      "word": "瘦了才有资格跟老婆剪CP",
+      "onboard_time": 1716805339,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 200460,
@@ -41631,6 +41655,14 @@
       "num": 197023,
       "word": "涵艺爆料wink暂别赛场",
       "onboard_time": 1715243718,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 197021,
+      "num": 197021,
+      "word": "KPL梦之队",
+      "onboard_time": 1716805580,
       "rank": 30,
       "category": "电竞"
     },
@@ -44755,6 +44787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186983,
+      "num": 186983,
+      "word": "演员刘金自曝被欠薪",
+      "onboard_time": 1716804919,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186963,
       "num": 477010,
       "word": "尤伯杯中国队进决赛",
@@ -45521,14 +45561,6 @@
       "onboard_time": 1715042059,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 184025,
-      "num": 184025,
-      "word": "白玉兰",
-      "onboard_time": 1715670800,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 183994,
@@ -50507,6 +50539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164764,
+      "num": 164764,
+      "word": "肝不好皮肤易出现4个变化",
+      "onboard_time": 1716805099,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 164747,
       "num": 164747,
       "word": "黄宣 风向星座",
@@ -51905,14 +51945,6 @@
       "onboard_time": 1715859616,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159498,
-      "num": 159498,
-      "word": "演员刘金自曝被欠薪",
-      "onboard_time": 1716804919,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 159477,
@@ -62699,14 +62731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 121391,
-      "num": 121391,
-      "word": "肝不好皮肤易出现4个变化",
-      "onboard_time": 1716805099,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 121388,
       "num": 121388,
       "word": "广东梅龙高速路面塌陷请绕行",
@@ -73155,6 +73179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32959,
+      "num": 481889,
+      "word": "成都特警遇上三角梅花墙",
+      "onboard_time": 1716805039,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32765,
       "num": 320710,
       "word": "vivoX100系列演唱会神器",
@@ -73953,14 +73985,6 @@
       "onboard_time": 1716572414,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22445,
-      "num": 383346,
-      "word": "成都特警遇上三角梅花墙",
-      "onboard_time": 1716805039,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22275,
