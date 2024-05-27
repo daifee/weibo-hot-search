@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716791993788,
+  "endTime": 1716794363392,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1145307,
+      "num": 291656,
+      "word": "肝不好的人上厕所或有这3种异样",
+      "onboard_time": 1716790639,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1068683,
       "num": 386194,
       "word": "喻言不报名参加歌手的原因",
@@ -97,6 +105,14 @@
       "onboard_time": 1716789378,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 962702,
+      "num": 962702,
+      "word": "茉酸奶",
+      "onboard_time": 1716790578,
+      "rank": 12,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 902001,
@@ -129,14 +145,6 @@
       "onboard_time": 1716787217,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 760296,
-      "num": 760296,
-      "word": "茉酸奶",
-      "onboard_time": 1716790578,
-      "rank": 12,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 747163,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 604265,
-      "num": 283232,
+      "num": 397691,
       "word": "专家称未来几年大城市房价可能大幅上涨",
       "onboard_time": 1716788118,
       "rank": 21,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487684,
+      "num": 487684,
+      "word": "杨幂的裤腰大了",
+      "onboard_time": 1716790999,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 483014,
       "num": 411353,
       "word": "杨幂ins晒照",
@@ -355,6 +371,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 454530,
+      "num": 397408,
+      "word": "杨幂李现 小说里的离婚记者会",
+      "onboard_time": 1716793037,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 452183,
       "num": 452183,
       "word": "麦当劳对讲机被炒至300元",
@@ -395,20 +419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405988,
+      "num": 405988,
+      "word": "aespa回归",
+      "onboard_time": 1716792438,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398860,
       "num": 398860,
       "word": "体育老师当班主任班级成绩全校第一",
       "onboard_time": 1716785601,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 379498,
-      "num": 257434,
-      "word": "肝不好的人上厕所或有这3种异样",
-      "onboard_time": 1716790639,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 376337,
@@ -425,14 +449,6 @@
       "onboard_time": 1716770478,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 366150,
-      "num": 366150,
-      "word": "杨幂的裤腰大了",
-      "onboard_time": 1716790999,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 364014,
@@ -531,6 +547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 294976,
+      "num": 294976,
+      "word": "周峻纬夺娶开机",
+      "onboard_time": 1716792259,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289797,
       "num": 179703,
       "word": "一天熬过这4个发胖时刻就能瘦",
@@ -568,6 +592,14 @@
       "word": "优酷贴脸开大张若昀",
       "onboard_time": 1716778339,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261031,
+      "num": 261031,
+      "word": "毛不易说庆余年演员保养的好",
+      "onboard_time": 1716793578,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -729,6 +761,14 @@
       "onboard_time": 1716769578,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 219161,
+      "num": 219161,
+      "word": "王妈公司晒后台大量应聘信息",
+      "onboard_time": 1716790697,
+      "rank": 30,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 217991,
@@ -899,14 +939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191084,
-      "num": 191084,
-      "word": "王妈公司晒后台大量应聘信息",
-      "onboard_time": 1716790697,
-      "rank": 30,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 187678,
       "num": 187678,
       "word": "杨幂抵达北京了",
@@ -945,6 +977,14 @@
       "onboard_time": 1716717077,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178758,
+      "num": 178758,
+      "word": "狗狗闯红灯被交警警告了一下",
+      "onboard_time": 1716793277,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 178144,
@@ -1075,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154161,
+      "num": 154161,
+      "word": "杨幂龚俊立狐妖热度flag",
+      "onboard_time": 1716794179,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153636,
       "num": 341232,
       "word": "东部战区越海突击画面",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1716790877,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148452,
+      "num": 148452,
+      "word": "室友非要把空调开通宵",
+      "onboard_time": 1716790159,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 147216,
@@ -1177,14 +1233,6 @@
       "onboard_time": 1716774677,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137714,
-      "num": 137714,
-      "word": "室友非要把空调开通宵",
-      "onboard_time": 1716790159,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 137246,
@@ -1275,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130155,
+      "num": 130155,
+      "word": "独居年轻人周末有多快乐",
+      "onboard_time": 1716792918,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130114,
       "num": 130114,
       "word": "我爱你可我怎配靠近你",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1716774618,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126815,
+      "num": 126815,
+      "word": "身高与寿命之间存在U型关联",
+      "onboard_time": 1716794179,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122613,
@@ -1411,6 +1475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108578,
+      "num": 108578,
+      "word": "小学生朱同正在失去童年",
+      "onboard_time": 1716794117,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 108023,
+      "num": 108023,
+      "word": "两家可乐客服回应涨价",
+      "onboard_time": 1716794057,
+      "rank": 43,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 105800,
       "num": 105800,
       "word": "清清 投票",
@@ -1441,6 +1521,14 @@
       "onboard_time": 1716788058,
       "rank": 49,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 100166,
+      "num": 100166,
+      "word": "龚俊cue顺手牵杨",
+      "onboard_time": 1716794298,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 98611,
@@ -1521,6 +1609,14 @@
       "onboard_time": 1716772278,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 75410,
+      "num": 125003,
+      "word": "比亚迪研发累计投入1400亿",
+      "onboard_time": 1716793397,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 74954,
