@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716841173253,
+  "endTime": 1716842068848,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -5947,6 +5947,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 34836,
+      "num": 22770,
+      "word": "绍兴课上开黄腔教师被警告处分",
+      "onboard_time": 1716835752,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33181,
       "num": 273039,
       "word": "成都特警夏训一起走花路",
@@ -5993,14 +6001,6 @@
       "onboard_time": 1716670750,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 28523,
-      "num": 22770,
-      "word": "绍兴课上开黄腔教师被警告处分",
-      "onboard_time": 1716835752,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28474,
@@ -6067,12 +6067,44 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 14692,
+      "num": 15256,
+      "word": "突然发现消费习惯正在悄悄改变",
+      "onboard_time": 1716840730,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13415,
       "num": 18543,
       "word": "夏目友人帐好久不见",
       "onboard_time": 1716751812,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 12692,
+      "num": 15246,
+      "word": "很久没见的无毛猫和布偶猫",
+      "onboard_time": 1716841990,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 12539,
+      "num": 15246,
+      "word": "夏日清凉发型",
+      "onboard_time": 1716841570,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 12377,
+      "num": 15245,
+      "word": "杨幂生万物明天开机仪式",
+      "onboard_time": 1716841990,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 11957,
