@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716808630295,
+  "endTime": 1716809666871,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -265,6 +265,14 @@
       "onboard_time": 1716773778,
       "rank": 18,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 644444,
+      "num": 267427,
+      "word": "33岁生完二胎我才真正清醒了",
+      "onboard_time": 1716807798,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 635787,
@@ -571,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425488,
+      "num": 425488,
+      "word": "aespa和ive的MV是同一个工作室",
+      "onboard_time": 1716807318,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 424249,
       "num": 424249,
       "word": "安徽铜陵一小区楼房发生坍塌",
@@ -593,14 +609,6 @@
       "onboard_time": 1716725717,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 412326,
-      "num": 412326,
-      "word": "aespa和ive的MV是同一个工作室",
-      "onboard_time": 1716807318,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 406411,
@@ -707,14 +715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 340996,
-      "num": 267427,
-      "word": "33岁生完二胎我才真正清醒了",
-      "onboard_time": 1716807798,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 340287,
       "num": 340287,
       "word": "王妈否认抄面试者梗",
@@ -745,6 +745,22 @@
       "onboard_time": 1716732199,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 330179,
+      "num": 330179,
+      "word": "非沪籍在上海购房社保年限减为3年",
+      "onboard_time": 1716808217,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326464,
+      "num": 326464,
+      "word": "12306回应高铁座椅不卫生",
+      "onboard_time": 1716807798,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322473,
@@ -987,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235036,
+      "num": 235036,
+      "word": "肖战片场请客",
+      "onboard_time": 1716809538,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234618,
       "num": 234618,
       "word": "官方通报安徽一小区楼房发生坍塌",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1716797538,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233628,
+      "num": 233628,
+      "word": "我妈通过贬低我让我嫁给相亲男生",
+      "onboard_time": 1716806358,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 232613,
@@ -1195,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207852,
-      "num": 207852,
-      "word": "我妈通过贬低我让我嫁给相亲男生",
-      "onboard_time": 1716806358,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206773,
       "num": 206773,
       "word": "韩红回应要上歌手",
@@ -1315,14 +1339,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 195970,
-      "num": 195970,
-      "word": "12306回应高铁座椅不卫生",
-      "onboard_time": 1716807798,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194475,
       "num": 194475,
       "word": "范闲为什么不骑王启年",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1716778758,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193833,
+      "num": 193833,
+      "word": "FPX可惜",
+      "onboard_time": 1716808577,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 193719,
@@ -1491,20 +1515,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171276,
+      "num": 171276,
+      "word": "于洋 林若甫也该同各位道别了",
+      "onboard_time": 1716809238,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170442,
       "num": 165628,
       "word": "王妈发声",
       "onboard_time": 1716723557,
       "rank": 26,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 170427,
-      "num": 170427,
-      "word": "非沪籍在上海购房社保年限减为3年",
-      "onboard_time": 1716808217,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168970,
@@ -1875,6 +1899,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 135382,
+      "num": 135382,
+      "word": "差点因为爱豆签名太丑脱粉",
+      "onboard_time": 1716809357,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135289,
       "num": 135289,
       "word": "独居年轻人周末有多快乐",
@@ -1891,20 +1923,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133660,
+      "num": 133660,
+      "word": "章子怡礼服 胶带设计",
+      "onboard_time": 1716809478,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133310,
       "num": 133310,
       "word": "厂二代们正在接一种很新的班",
       "onboard_time": 1716787758,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132994,
-      "num": 132994,
-      "word": "FPX可惜",
-      "onboard_time": 1716808577,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 131987,
@@ -1931,7 +1963,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130851,
+      "raw_hot": 131083,
       "num": 130851,
       "word": "钟楚曦的身材我的梦",
       "onboard_time": 1716807378,
@@ -2033,6 +2065,14 @@
       "onboard_time": 1716797178,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124623,
+      "num": 124623,
+      "word": "室友买东西不商量就要AA",
+      "onboard_time": 1716809238,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 122613,
@@ -2219,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99213,
+      "num": 414205,
+      "word": "咳嗽一直不见好怎么办",
+      "onboard_time": 1716806658,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98611,
       "num": 98611,
       "word": "亚当翻牌",
@@ -2265,14 +2313,6 @@
       "onboard_time": 1716778518,
       "rank": 9,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 94295,
-      "num": 414205,
-      "word": "咳嗽一直不见好怎么办",
-      "onboard_time": 1716806658,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 92665,
@@ -2337,6 +2377,14 @@
       "onboard_time": 1716747438,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73688,
+      "num": 414917,
+      "word": "10859个造谣账号被处置",
+      "onboard_time": 1716807498,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70303,
@@ -2417,14 +2465,6 @@
       "onboard_time": 1716779061,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 47292,
-      "num": 414917,
-      "word": "10859个造谣账号被处置",
-      "onboard_time": 1716807498,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47124,
