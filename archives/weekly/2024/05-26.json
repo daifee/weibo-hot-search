@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716823255909,
+  "endTime": 1716824066052,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -979,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557237,
+      "num": 557237,
+      "word": "赵丽颖方否认演生命树",
+      "onboard_time": 1716822381,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 551150,
       "num": 551150,
       "word": "庆余年23集",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1716690798,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 499814,
+      "num": 499814,
+      "word": "冲绳",
+      "onboard_time": 1716822140,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 496787,
@@ -1337,14 +1353,6 @@
       "onboard_time": 1716714918,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 444432,
-      "num": 444432,
-      "word": "赵丽颖方否认演生命树",
-      "onboard_time": 1716822381,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 444069,
@@ -1947,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310491,
+      "num": 310491,
+      "word": "庆余年 大男主",
+      "onboard_time": 1716820520,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310093,
       "num": 310093,
       "word": "Doinb退群",
@@ -2131,14 +2147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285806,
-      "num": 249712,
-      "word": "庆余年 大男主",
-      "onboard_time": 1716820520,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285661,
       "num": 285661,
       "word": "你身边有疑似重生的人吗",
@@ -2201,14 +2209,6 @@
       "onboard_time": 1716821661,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 275420,
-      "num": 275420,
-      "word": "冲绳",
-      "onboard_time": 1716822140,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 273992,
@@ -2315,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253844,
+      "num": 253844,
+      "word": "李小冉怎么保养的",
+      "onboard_time": 1716819680,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253304,
       "num": 253304,
       "word": "湖南桂阳放出41亿只虫子灭害虫",
@@ -2371,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246274,
+      "num": 246274,
+      "word": "质疑太子理解太子",
+      "onboard_time": 1716822740,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245806,
       "num": 177236,
       "word": "五哈",
@@ -2392,6 +2408,14 @@
       "word": "英国朋友来中国打工半年后破防了",
       "onboard_time": 1716784821,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 244786,
+      "num": 244786,
+      "word": "建议i人都去尝试十点睡五点起",
+      "onboard_time": 1716819740,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -2443,14 +2467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240555,
-      "num": 240555,
-      "word": "建议i人都去尝试十点睡五点起",
-      "onboard_time": 1716819740,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 239997,
       "num": 254241,
       "word": "夏天别乱穿洞洞鞋小心变得不幸",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1716782721,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238062,
+      "num": 238062,
+      "word": "龚吓幂",
+      "onboard_time": 1716822922,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 237535,
@@ -2529,14 +2553,6 @@
       "onboard_time": 1716806358,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233204,
-      "num": 233204,
-      "word": "李小冉怎么保养的",
-      "onboard_time": 1716819680,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 232613,
@@ -2817,6 +2833,14 @@
       "onboard_time": 1716700338,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211074,
+      "num": 211074,
+      "word": "背着善宰跑大结局预告",
+      "onboard_time": 1716823459,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 210974,
@@ -3115,6 +3139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198728,
+      "num": 254483,
+      "word": "VOGUE新主编",
+      "onboard_time": 1716823218,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 198225,
       "num": 164965,
       "word": "赵丽颖爱工作爱生活",
@@ -3243,20 +3275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190650,
-      "num": 190650,
-      "word": "质疑太子理解太子",
-      "onboard_time": 1716822740,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190484,
       "num": 190484,
       "word": "这人间只允许有一个人比我美",
       "onboard_time": 1716818180,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190320,
+      "num": 190320,
+      "word": "人最笨的时候就是问出那句",
+      "onboard_time": 1716822680,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 190191,
@@ -3763,6 +3795,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 167528,
+      "num": 167528,
+      "word": "有一种友谊叫张远徐良",
+      "onboard_time": 1716823280,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167473,
       "num": 229856,
       "word": "陈幸同太原赛女单冠军",
@@ -3897,14 +3937,6 @@
       "onboard_time": 1716803539,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 162059,
-      "num": 162059,
-      "word": "龚吓幂",
-      "onboard_time": 1716822922,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 161977,
@@ -4323,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140322,
+      "num": 140322,
+      "word": "当你连续点同一家外卖超过100次",
+      "onboard_time": 1716823101,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140118,
       "num": 140118,
       "word": "淋过雨的小狗会给其他动物打伞",
@@ -4409,14 +4449,6 @@
       "onboard_time": 1716799159,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137772,
-      "num": 137772,
-      "word": "人最笨的时候就是问出那句",
-      "onboard_time": 1716822680,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 136143,
@@ -4593,6 +4625,14 @@
       "onboard_time": 1716718638,
       "rank": 46,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 131460,
+      "num": 118454,
+      "word": "善宰还是把阵雨写出来了",
+      "onboard_time": 1716823821,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 131397,
@@ -4987,14 +5027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119447,
-      "num": 119447,
-      "word": "VOGUE新主编",
-      "onboard_time": 1716823218,
-      "rank": 45,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 118734,
       "num": 102508,
       "word": "男朋友哭着答应了我的求婚",
@@ -5059,14 +5091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114912,
-      "num": 114912,
-      "word": "当你连续点同一家外卖超过100次",
-      "onboard_time": 1716823101,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 114326,
       "num": 82905,
       "word": "佟丽娅戛纳很好下次再去",
@@ -5089,6 +5113,14 @@
       "onboard_time": 1716802878,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113666,
+      "num": 445568,
+      "word": "福宝乖乖吃苹果被奖励摸摸",
+      "onboard_time": 1716821661,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112855,
@@ -5177,14 +5209,6 @@
       "onboard_time": 1716713418,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108260,
-      "num": 445568,
-      "word": "福宝乖乖吃苹果被奖励摸摸",
-      "onboard_time": 1716821661,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108129,
