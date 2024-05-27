@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716780118384,
+  "endTime": 1716781049091,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -27,6 +27,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1243228,
+      "num": 1243228,
+      "word": "勃肯鞋",
+      "onboard_time": 1716776238,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1241076,
       "num": 859701,
       "word": "快30了还总觉得自己是个小孩",
@@ -35,20 +43,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1207207,
-      "num": 1207207,
-      "word": "勃肯鞋",
-      "onboard_time": 1716776238,
-      "rank": 12,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 1024150,
       "num": 1024150,
       "word": "网红刀小刀自曝重度抑郁",
       "onboard_time": 1716735680,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 903183,
+      "num": 247482,
+      "word": "建议最近不要穿黄色衣服出门",
+      "onboard_time": 1716779780,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 858506,
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 699655,
-      "num": 238319,
-      "word": "建议最近不要穿黄色衣服出门",
-      "onboard_time": 1716779780,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 680569,
       "num": 334077,
       "word": "王妈公司0人参保",
@@ -107,12 +107,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 633415,
+      "num": 633415,
+      "word": "四川凉山5级地震",
+      "onboard_time": 1716780021,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626825,
       "num": 626825,
       "word": "逍遥散人求婚",
       "onboard_time": 1716726559,
       "rank": 1,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 594215,
+      "num": 359802,
+      "word": "内蒙古发现一腐尸系33年前命案逃犯",
+      "onboard_time": 1716780919,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568946,
@@ -129,6 +145,14 @@
       "onboard_time": 1716730519,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 540483,
+      "num": 540483,
+      "word": "老师收9.1万陌生转账报警并退还",
+      "onboard_time": 1716779719,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 528692,
@@ -219,20 +243,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 452183,
+      "num": 452183,
+      "word": "麦当劳对讲机被炒至300元",
+      "onboard_time": 1716776838,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 447338,
       "num": 186737,
       "word": "蚊子在造成人类死亡的动物中排第一",
       "onboard_time": 1716768797,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 430165,
-      "num": 430165,
-      "word": "麦当劳对讲机被炒至300元",
-      "onboard_time": 1716776838,
-      "rank": 36,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 419277,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 344612,
-      "num": 327298,
+      "num": 344314,
       "word": "京东集团再次给采销大幅加薪",
       "onboard_time": 1716778159,
       "rank": 11,
@@ -355,20 +379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284214,
+      "num": 243214,
+      "word": "研究发现牙齿健康与寿命长短有关",
+      "onboard_time": 1716779181,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 280962,
       "num": 244567,
       "word": "优酷贴脸开大张若昀",
       "onboard_time": 1716778339,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268762,
-      "num": 234938,
-      "word": "研究发现牙齿健康与寿命长短有关",
-      "onboard_time": 1716779181,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 254117,
@@ -411,20 +435,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 241809,
-      "num": 234181,
+      "raw_hot": 242435,
+      "num": 242435,
       "word": "同事太冷漠被辞退了",
       "onboard_time": 1716778277,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233307,
-      "num": 233307,
-      "word": "老师收9.1万陌生转账报警并退还",
-      "onboard_time": 1716779719,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232613,
@@ -451,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230258,
-      "num": 230258,
-      "word": "四川凉山5级地震",
-      "onboard_time": 1716780021,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229328,
       "num": 229328,
       "word": "快乐向前冲录制时多人摔骨折且未获赔",
@@ -483,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226632,
+      "num": 226632,
+      "word": "24岁女生存够10万元靠利息生活",
+      "onboard_time": 1716780679,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224751,
       "num": 166758,
       "word": "夏天别乱穿洞洞鞋小心变得不幸",
@@ -497,6 +513,14 @@
       "onboard_time": 1716769578,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 217991,
+      "num": 217991,
+      "word": "Rookie说第十名不配拿奖金",
+      "onboard_time": 1716780199,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 215207,
@@ -571,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201561,
+      "num": 201561,
+      "word": "Aimer演唱会",
+      "onboard_time": 1716780620,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201490,
       "num": 173208,
       "word": "王妈公司回应参保人数为0",
       "onboard_time": 1716768378,
       "rank": 31,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 199514,
+      "num": 199514,
+      "word": "十天之后回到现实",
+      "onboard_time": 1716780500,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 196386,
@@ -659,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174749,
+      "num": 174749,
+      "word": "唐斯命中率",
+      "onboard_time": 1716780800,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172858,
       "num": 172858,
       "word": "补位歌手是谁",
@@ -704,6 +752,14 @@
       "word": "深圳天气",
       "onboard_time": 1716772097,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163932,
+      "num": 163932,
+      "word": "快乐向前冲",
+      "onboard_time": 1716780260,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -753,6 +809,14 @@
       "onboard_time": 1716729200,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148768,
+      "num": 148768,
+      "word": "长期不说话或少说话有什么后果",
+      "onboard_time": 1716781040,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146590,
@@ -995,8 +1059,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82417,
-      "num": 329618,
+      "raw_hot": 94572,
+      "num": 364948,
       "word": "口中有口点点大",
       "onboard_time": 1716778518,
       "rank": 9,
@@ -1099,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47839,
+      "num": 248755,
+      "word": "深蓝G318把硬派油耗干掉了一半",
+      "onboard_time": 1716779061,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47124,
       "num": 68509,
       "word": "韩国水果的价格",
@@ -1121,14 +1193,6 @@
       "onboard_time": 1716731720,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 37337,
-      "num": 238811,
-      "word": "深蓝G318把硬派油耗干掉了一半",
-      "onboard_time": 1716779061,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 36967,
