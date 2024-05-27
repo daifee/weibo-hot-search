@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716766468005,
+  "endTime": 1716772751611,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1715344521,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2180703,
+      "num": 2180703,
+      "word": "知名水上闯关类综艺录制现场突发意外",
+      "onboard_time": 1716768079,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2168655,
@@ -3465,6 +3473,14 @@
       "onboard_time": 1715837539,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1289495,
+      "num": 1289495,
+      "word": "杨幂给章子怡让镜头",
+      "onboard_time": 1716770478,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1285116,
@@ -7827,6 +7843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 814964,
+      "num": 174250,
+      "word": "女儿以父母偏心哥哥为由拒绝赡养父母",
+      "onboard_time": 1716767537,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814947,
       "num": 814947,
       "word": "金高银百想影后",
@@ -8888,6 +8912,14 @@
       "word": "美国18岁女罪犯因颜值超高爆红",
       "onboard_time": 1715782458,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747163,
+      "num": 747163,
+      "word": "忽悠老人停药用家用电器治病",
+      "onboard_time": 1716767537,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -13803,6 +13835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 555161,
+      "num": 252144,
+      "word": "山西重大刑案71岁嫌疑人已被抓",
+      "onboard_time": 1716771499,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554952,
       "num": 554952,
       "word": "国务院安委会派督导组赴河南",
@@ -14921,6 +14961,14 @@
       "onboard_time": 1714722499,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 521724,
+      "num": 272134,
+      "word": "范闲不会是孤臣",
+      "onboard_time": 1716767057,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 521670,
@@ -16136,6 +16184,14 @@
       "word": "亚当歌手选曲",
       "onboard_time": 1716080116,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 489086,
+      "num": 266208,
+      "word": "张雨绮说自己起床就长这样",
+      "onboard_time": 1716767537,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -18097,6 +18153,14 @@
       "onboard_time": 1714964720,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447338,
+      "num": 174061,
+      "word": "蚊子在造成人类死亡的动物中排第一",
+      "onboard_time": 1716768797,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 447272,
@@ -22243,6 +22307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368689,
+      "num": 250783,
+      "word": "aespa破表",
+      "onboard_time": 1716770478,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 368613,
       "num": 368613,
       "word": "婚礼上的伴娘可能全是租的",
@@ -22595,6 +22667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362193,
+      "num": 173944,
+      "word": "李现回复杨幂",
+      "onboard_time": 1716767057,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 362033,
       "num": 362033,
       "word": "日食记生煎馒头",
@@ -22793,6 +22873,14 @@
       "onboard_time": 1715058620,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 359472,
+      "num": 250271,
+      "word": "张若昀4部剧霸榜腾讯视频前四",
+      "onboard_time": 1716771197,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 359307,
@@ -31059,12 +31147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253304,
+      "num": 253304,
+      "word": "湖南桂阳放出41亿只虫子灭害虫",
+      "onboard_time": 1716739458,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253291,
       "num": 223649,
       "word": "大皇子大公主 皇室联姻搞纯爱",
       "onboard_time": 1716346218,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253252,
+      "num": 173811,
+      "word": "陈嘻嘻",
+      "onboard_time": 1716767957,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 253140,
@@ -33505,6 +33609,14 @@
       "onboard_time": 1714823239,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232574,
+      "num": 206921,
+      "word": "张踩铃一家参加小鹿婚礼",
+      "onboard_time": 1716765436,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 232533,
@@ -37659,14 +37771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206921,
-      "num": 206921,
-      "word": "张踩铃一家参加小鹿婚礼",
-      "onboard_time": 1716765436,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 206904,
       "num": 206904,
       "word": "黄宣 揭榜歌手",
@@ -37809,6 +37913,14 @@
       "onboard_time": 1715754978,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206370,
+      "num": 173436,
+      "word": "原来减肥还分减脂和减重",
+      "onboard_time": 1716767477,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 206353,
@@ -39003,6 +39115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202047,
+      "num": 173296,
+      "word": "马伊琍去新疆了",
+      "onboard_time": 1716769699,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201920,
       "num": 201920,
       "word": "范闲庆1假死镜头重拍",
@@ -39153,6 +39273,14 @@
       "onboard_time": 1715079258,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201490,
+      "num": 173208,
+      "word": "王妈公司回应参保人数为0",
+      "onboard_time": 1716768378,
+      "rank": 31,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 201458,
@@ -43235,6 +43363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188443,
+      "num": 172971,
+      "word": "十块钱做了三杯珍珠奶茶",
+      "onboard_time": 1716769578,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 188411,
       "num": 188411,
       "word": "音乐节上crush主动来扫我",
@@ -43561,6 +43697,14 @@
       "onboard_time": 1714565179,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187482,
+      "num": 187482,
+      "word": "王楚钦说让梁靖崑保单打",
+      "onboard_time": 1716766997,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 187432,
@@ -45723,6 +45867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178144,
+      "num": 172932,
+      "word": "为什么新娘妆那么容易翻车",
+      "onboard_time": 1716769038,
+      "rank": 34,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 178138,
       "num": 178138,
       "word": "广东跨5城地铁开通",
@@ -47513,14 +47665,6 @@
       "onboard_time": 1715865680,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171671,
-      "num": 180181,
-      "word": "湖南桂阳放出41亿只虫子灭害虫",
-      "onboard_time": 1716739458,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171645,
@@ -51915,6 +52059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154854,
+      "num": 174374,
+      "word": "西藏日喀则3.8级地震",
+      "onboard_time": 1716770118,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154844,
       "num": 154844,
       "word": "央视boys把我说馋了",
@@ -52603,6 +52755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152517,
+      "num": 152517,
+      "word": "汗疱疹会传染吗",
+      "onboard_time": 1716771021,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 152504,
       "num": 152504,
       "word": "舒淇花期好长",
@@ -53257,6 +53417,14 @@
       "onboard_time": 1716515117,
       "rank": 39,
       "category": "社会新闻,电竞"
+    },
+    {
+      "raw_hot": 149980,
+      "num": 149980,
+      "word": "大学生困在付费内推的陷阱里",
+      "onboard_time": 1716772399,
+      "rank": 39,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 149911,
@@ -55907,6 +56075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140959,
+      "num": 140959,
+      "word": "老人为什么看电视越来越吃力",
+      "onboard_time": 1716770837,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140942,
       "num": 140942,
       "word": "于正和纪凌尘合作了",
@@ -56953,6 +57129,14 @@
       "onboard_time": 1715220616,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136888,
+      "num": 136888,
+      "word": "快30了还总觉得自己是个小孩",
+      "onboard_time": 1716772458,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 136851,
@@ -58835,6 +59019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130156,
+      "num": 130156,
+      "word": "庆余年2圈粉台湾青年",
+      "onboard_time": 1716768437,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "林诗栋晋级大满贯4强",
@@ -59209,6 +59401,14 @@
       "onboard_time": 1715480777,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128603,
+      "num": 128603,
+      "word": "杨幂李现四年前旧照",
+      "onboard_time": 1716766636,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128588,
@@ -61795,6 +61995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119009,
+      "num": 119009,
+      "word": "世界上公认最好的运动HIIT",
+      "onboard_time": 1716769997,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 118952,
       "num": 118952,
       "word": "不同尺寸鲨鱼夹发型",
@@ -61884,7 +62092,7 @@
     },
     {
       "raw_hot": 118734,
-      "num": 82040,
+      "num": 102508,
       "word": "男朋友哭着答应了我的求婚",
       "onboard_time": 1716765375,
       "rank": 38,
@@ -62033,6 +62241,14 @@
       "onboard_time": 1714877718,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118295,
+      "num": 118295,
+      "word": "战车列阵画面有多震撼",
+      "onboard_time": 1716772638,
+      "rank": 46,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 118278,
@@ -67665,6 +67881,14 @@
       "onboard_time": 1715185817,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77512,
+      "num": 252573,
+      "word": "雨后金山岭长城现霞光云海奇观",
+      "onboard_time": 1716772278,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 77418,
