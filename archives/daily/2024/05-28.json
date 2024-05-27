@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716844778029,
+  "endTime": 1716845741381,
   "band_list": [
     {
       "raw_hot": 1186478,
@@ -443,8 +443,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40873,
-      "num": 22865,
+      "raw_hot": 45165,
+      "num": 25374,
       "word": "绍兴课上开黄腔教师被警告处分",
       "onboard_time": 1716835752,
       "rank": 46,
@@ -467,6 +467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22391,
+      "num": 22391,
+      "word": "突然发现消费习惯正在悄悄改变",
+      "onboard_time": 1716840730,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 21817,
+      "num": 21817,
+      "word": "曾经热闹的宜家为什么没什么人了",
+      "onboard_time": 1716835092,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21765,
       "num": 26725,
       "word": "肖战片场请客",
@@ -475,20 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21296,
-      "num": 21296,
-      "word": "突然发现消费习惯正在悄悄改变",
-      "onboard_time": 1716840730,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 20930,
-      "num": 20930,
-      "word": "曾经热闹的宜家为什么没什么人了",
-      "onboard_time": 1716835092,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 20654,
+      "num": 20654,
+      "word": "杨幂生万物明天开机仪式",
+      "onboard_time": 1716841990,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 20647,
@@ -499,12 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17950,
-      "num": 17950,
-      "word": "杨幂生万物明天开机仪式",
+      "raw_hot": 17556,
+      "num": 17556,
+      "word": "杨幂戛纳有效出国",
+      "onboard_time": 1716845231,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 16054,
+      "num": 16054,
+      "word": "很久没见的无毛猫和布偶猫",
       "onboard_time": 1716841990,
-      "rank": 49,
-      "category": "剧集"
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 15987,
@@ -515,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15683,
-      "num": 15683,
-      "word": "很久没见的无毛猫和布偶猫",
-      "onboard_time": 1716841990,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 14952,
       "num": 18317,
       "word": "一张纸折手机支架",
@@ -531,8 +539,8 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 13064,
-      "num": 15679,
+      "raw_hot": 14754,
+      "num": 16043,
       "word": "绳结技巧",
       "onboard_time": 1716844330,
       "rank": 47,
