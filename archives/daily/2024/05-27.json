@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716798241895,
+  "endTime": 1716799030523,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1541174,
+      "num": 1541174,
+      "word": "茉酸奶",
+      "onboard_time": 1716790578,
+      "rank": 12,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 1481358,
       "num": 692551,
       "word": "传闻中江浙沪的独生女",
       "onboard_time": 1716783320,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1469516,
-      "num": 1469516,
-      "word": "茉酸奶",
-      "onboard_time": 1716790578,
-      "rank": 12,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1388990,
@@ -147,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771315,
+      "num": 771315,
+      "word": "身高与寿命之间存在U型关联",
+      "onboard_time": 1716794179,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 747163,
       "num": 747163,
       "word": "忽悠老人停药用家用电器治病",
       "onboard_time": 1716767537,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731524,
+      "num": 379282,
+      "word": "南京人身份证上为啥没省名",
+      "onboard_time": 1716796099,
+      "rank": 11,
+      "category": "科学科普,社会新闻"
     },
     {
       "raw_hot": 708074,
@@ -179,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 646597,
+      "num": 646597,
+      "word": "黄宗泽 我真的没有整过容",
+      "onboard_time": 1716797240,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645353,
       "num": 475878,
       "word": "刘强东 不想拼的不是兄弟",
@@ -201,14 +225,6 @@
       "onboard_time": 1716780021,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629947,
-      "num": 327656,
-      "word": "南京人身份证上为啥没省名",
-      "onboard_time": 1716796099,
-      "rank": 11,
-      "category": "科学科普,社会新闻"
     },
     {
       "raw_hot": 626825,
@@ -251,8 +267,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 584390,
+      "num": 584390,
+      "word": "茉酸奶致歉",
+      "onboard_time": 1716797778,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579186,
-      "num": 324904,
+      "num": 560789,
       "word": "范若若切大号 于曼丽回归",
       "onboard_time": 1716796578,
       "rank": 12,
@@ -265,14 +289,6 @@
       "onboard_time": 1716775277,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 562894,
-      "num": 562894,
-      "word": "身高与寿命之间存在U型关联",
-      "onboard_time": 1716794179,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 559654,
@@ -459,20 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404714,
-      "num": 404714,
-      "word": "黄宗泽 我真的没有整过容",
-      "onboard_time": 1716797240,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 398860,
       "num": 398860,
       "word": "体育老师当班主任班级成绩全校第一",
       "onboard_time": 1716785601,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 377415,
+      "num": 377415,
+      "word": "秦岚减肥像极了我本人",
+      "onboard_time": 1716795438,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 376337,
@@ -483,12 +499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 371559,
-      "num": 371559,
-      "word": "茉酸奶致歉",
-      "onboard_time": 1716797778,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 374106,
+      "num": 374106,
+      "word": "Angelababy面对一些事情也会不安",
+      "onboard_time": 1716797899,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 368689,
@@ -497,14 +513,6 @@
       "onboard_time": 1716770478,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 366146,
-      "num": 366146,
-      "word": "秦岚减肥像极了我本人",
-      "onboard_time": 1716795438,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 364014,
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357095,
+      "num": 357095,
+      "word": "缅北电诈四大家族悉数抓捕到案",
+      "onboard_time": 1716795738,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340287,
       "num": 340287,
       "word": "王妈否认抄面试者梗",
@@ -561,14 +577,6 @@
       "onboard_time": 1716732199,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 319131,
-      "num": 319131,
-      "word": "缅北电诈四大家族悉数抓捕到案",
-      "onboard_time": 1716795738,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318249,
@@ -659,12 +667,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 282566,
-      "num": 282566,
-      "word": "Angelababy面对一些事情也会不安",
-      "onboard_time": 1716797899,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 281092,
+      "num": 281092,
+      "word": "狗狗闯红灯被交警警告了一下",
+      "onboard_time": 1716793277,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 280962,
@@ -673,6 +681,14 @@
       "onboard_time": 1716778339,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256756,
+      "num": 256756,
+      "word": "KPL",
+      "onboard_time": 1716798079,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 254117,
@@ -705,14 +721,6 @@
       "onboard_time": 1716736519,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 250318,
-      "num": 250318,
-      "word": "狗狗闯红灯被交警警告了一下",
-      "onboard_time": 1716793277,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 249432,
@@ -769,6 +777,14 @@
       "onboard_time": 1716788298,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233770,
+      "num": 233770,
+      "word": "茉酸奶涉事门店暂停营业",
+      "onboard_time": 1716797538,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232613,
@@ -891,14 +907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213954,
-      "num": 213954,
-      "word": "茉酸奶涉事门店暂停营业",
-      "onboard_time": 1716797538,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213775,
       "num": 213775,
       "word": "狐妖小红娘动画第12季",
@@ -907,12 +915,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213630,
+      "num": 213630,
+      "word": "梦之队票数",
+      "onboard_time": 1716798379,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 213487,
+      "num": 213487,
+      "word": "考公后几百年不联系的同学出现了",
+      "onboard_time": 1716798257,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210168,
       "num": 210168,
       "word": "大四学生轮流当C位拍毕业视频",
       "onboard_time": 1716773357,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209759,
+      "num": 209759,
+      "word": "何浩楠 定格后陡门夕阳",
+      "onboard_time": 1716798560,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 209450,
@@ -996,7 +1028,7 @@
     },
     {
       "raw_hot": 202545,
-      "num": 202545,
+      "num": 381299,
       "word": "你被三个不相信的英雄宣言激励过吗",
       "onboard_time": 1716797178,
       "rank": 29,
@@ -1043,6 +1075,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 194475,
+      "num": 194475,
+      "word": "范闲为什么不骑王启年",
+      "onboard_time": 1716798618,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194074,
       "num": 194074,
       "word": "独行侠3比0森林狼",
@@ -1072,6 +1112,14 @@
       "word": "淋雨后的大熊猫宝宝是吸水海绵吧",
       "onboard_time": 1716795138,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189698,
+      "num": 189698,
+      "word": "上海外国语大学大巴撞车",
+      "onboard_time": 1716797839,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1113,14 +1161,6 @@
       "onboard_time": 1716717077,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 178311,
-      "num": 178311,
-      "word": "KPL",
-      "onboard_time": 1716798079,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 178144,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1716768018,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172022,
+      "num": 172022,
+      "word": "一不小心买到了人生气垫",
+      "onboard_time": 1716798678,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 171791,
@@ -1265,6 +1313,14 @@
       "onboard_time": 1716770118,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154724,
+      "num": 154724,
+      "word": "中共中央政治局5月27日召开会议",
+      "onboard_time": 1716798740,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153636,
@@ -1451,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135514,
+      "num": 135514,
+      "word": "实验小鼠偏爱女性实验者",
+      "onboard_time": 1716798499,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 135289,
       "num": 135289,
       "word": "独居年轻人周末有多快乐",
@@ -1465,14 +1529,6 @@
       "onboard_time": 1716794958,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133712,
-      "num": 133712,
-      "word": "上海外国语大学大巴撞车",
-      "onboard_time": 1716797839,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133310,
@@ -1796,7 +1852,7 @@
     },
     {
       "raw_hot": 92665,
-      "num": 544246,
+      "num": 688284,
       "word": "文脉华章",
       "onboard_time": 1716796038,
       "rank": 2,
@@ -1972,7 +2028,7 @@
     },
     {
       "raw_hot": 42877,
-      "num": 179810,
+      "num": 235216,
       "word": "杨洋首部短剧",
       "onboard_time": 1716797659,
       "rank": 34,
@@ -2074,6 +2130,9 @@
     },
     {
       "word": "#总书记指出新质生产力的发展之道#"
+    },
+    {
+      "word": "#驰而不息推进全面从严治党#"
     }
   ]
 }
