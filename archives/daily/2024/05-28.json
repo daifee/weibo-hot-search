@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716827940892,
+  "endTime": 1716830170638,
   "band_list": [
     {
       "raw_hot": 1186478,
@@ -139,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203000,
+      "num": 203000,
+      "word": "当你连续点同一家外卖超过100次",
+      "onboard_time": 1716823101,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198861,
       "num": 198861,
       "word": "中国统一的大势不可逆转",
@@ -153,14 +161,6 @@
       "onboard_time": 1716815299,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188149,
-      "num": 188149,
-      "word": "当你连续点同一家外卖超过100次",
-      "onboard_time": 1716823101,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 184332,
@@ -363,6 +363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 82097,
+      "num": 82097,
+      "word": "白羊座的做事逻辑",
+      "onboard_time": 1716828435,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81354,
       "num": 81354,
       "word": "Gemini当选KPL梦之队教练",
@@ -403,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61217,
+      "num": 61217,
+      "word": "方大同 抽象",
+      "onboard_time": 1716829693,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60653,
       "num": 60653,
       "word": "陈奕迅杭州站赔偿方案引歌迷不满",
       "onboard_time": 1716812238,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37245,
+      "num": 48727,
+      "word": "流浪狗回回挖土救猫咪",
+      "onboard_time": 1716830114,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 29867,
@@ -423,6 +447,14 @@
       "num": 229752,
       "word": "非沪籍在上海购房社保年限减为3年",
       "onboard_time": 1716808217,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8924,
+      "num": 150993,
+      "word": "车来车往的路口为老人按下120秒暂停键",
+      "onboard_time": 1716816799,
       "rank": 9,
       "category": "社会新闻"
     }
