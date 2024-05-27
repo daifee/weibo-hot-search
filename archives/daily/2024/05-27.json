@@ -1,6 +1,6 @@
 {
   "startTime": 1716740557519,
-  "endTime": 1716820463861,
+  "endTime": 1716823255909,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -49,6 +49,14 @@
       "onboard_time": 1716801558,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1789021,
+      "num": 1789021,
+      "word": "朝鲜",
+      "onboard_time": 1716819439,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1729493,
@@ -203,6 +211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 871809,
+      "num": 871809,
+      "word": "范思辙为什么要戴项圈",
+      "onboard_time": 1716820099,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 858506,
       "num": 858506,
       "word": "山西重大刑案71岁嫌疑人已被抓",
@@ -257,6 +273,14 @@
       "onboard_time": 1716810257,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 784936,
+      "num": 784936,
+      "word": "一个班的几乎全是考公务员的",
+      "onboard_time": 1716817219,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 771315,
@@ -321,14 +345,6 @@
       "onboard_time": 1716729379,
       "rank": 10,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 672157,
-      "num": 672157,
-      "word": "朝鲜",
-      "onboard_time": 1716819439,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 669611,
@@ -523,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 535057,
+      "num": 241570,
+      "word": "杨洋精准拿下三次大合照",
+      "onboard_time": 1716820280,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533042,
       "num": 616295,
       "word": "台湾问题是中国核心利益中的核心",
@@ -715,20 +739,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 444432,
+      "num": 444432,
+      "word": "赵丽颖方否认演生命树",
+      "onboard_time": 1716822381,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 442703,
       "num": 442703,
       "word": "黄景瑜关晓彤同框合照",
       "onboard_time": 1716795738,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 438154,
-      "num": 223250,
-      "word": "一个班的几乎全是考公务员的",
-      "onboard_time": 1716817219,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 427245,
@@ -801,6 +825,14 @@
       "onboard_time": 1716814578,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382391,
+      "num": 382391,
+      "word": "中国统一的大势不可逆转",
+      "onboard_time": 1716819499,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 377415,
@@ -955,14 +987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 333072,
-      "num": 333072,
-      "word": "范思辙为什么要戴项圈",
-      "onboard_time": 1716820099,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 322473,
       "num": 322473,
       "word": "上海发布房产新政",
@@ -1091,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285806,
+      "num": 249712,
+      "word": "庆余年 大男主",
+      "onboard_time": 1716820520,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284214,
       "num": 243214,
       "word": "研究发现牙齿健康与寿命长短有关",
@@ -1113,6 +1145,22 @@
       "onboard_time": 1716778339,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276164,
+      "num": 246376,
+      "word": "外媒把吴君如认成了章子怡",
+      "onboard_time": 1716821661,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 275420,
+      "num": 275420,
+      "word": "冲绳",
+      "onboard_time": 1716822140,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 271162,
@@ -1219,6 +1267,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240555,
+      "num": 240555,
+      "word": "建议i人都去尝试十点睡五点起",
+      "onboard_time": 1716819740,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 239924,
+      "num": 239924,
+      "word": "口红对妆容的影响有多大",
+      "onboard_time": 1716820820,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 239669,
       "num": 585366,
       "word": "骗子说产品万能时自己都笑了",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1716806358,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233204,
+      "num": 233204,
+      "word": "李小冉怎么保养的",
+      "onboard_time": 1716819680,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 232613,
@@ -1385,6 +1457,14 @@
       "onboard_time": 1716798678,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 215824,
+      "num": 215824,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1716822200,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 215207,
@@ -1603,14 +1683,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 194744,
-      "num": 194744,
-      "word": "李小冉怎么保养的",
-      "onboard_time": 1716819680,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194715,
       "num": 194715,
       "word": "吴宇恒客串段嘉许",
@@ -1664,6 +1736,14 @@
       "word": "背着善宰跑第15集",
       "onboard_time": 1716816199,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190650,
+      "num": 190650,
+      "word": "质疑太子理解太子",
+      "onboard_time": 1716822740,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1979,6 +2059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162059,
+      "num": 162059,
+      "word": "龚吓幂",
+      "onboard_time": 1716822922,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160474,
       "num": 160474,
       "word": "上海二孩及以上多子女家庭可增购1套房",
@@ -2049,6 +2137,14 @@
       "onboard_time": 1716734660,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155113,
+      "num": 155113,
+      "word": "刀脚",
+      "onboard_time": 1716821839,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154854,
@@ -2129,14 +2225,6 @@
       "onboard_time": 1716790159,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147831,
-      "num": 147831,
-      "word": "中国统一的大势不可逆转",
-      "onboard_time": 1716819499,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 147384,
@@ -2251,6 +2339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138479,
+      "num": 138479,
+      "word": "痴情的妖啊请再等一世吧",
+      "onboard_time": 1716822320,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138241,
       "num": 138241,
       "word": "按摩仪1880元出厂卖给老人15900元",
@@ -2265,6 +2361,14 @@
       "onboard_time": 1716799159,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137772,
+      "num": 137772,
+      "word": "人最笨的时候就是问出那句",
+      "onboard_time": 1716822680,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 137246,
@@ -2363,14 +2467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132601,
-      "num": 132601,
-      "word": "建议i人都去尝试十点睡五点起",
-      "onboard_time": 1716819740,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131987,
       "num": 131987,
       "word": "当小狗幼儿园放学",
@@ -2409,6 +2505,14 @@
       "onboard_time": 1716790277,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130676,
+      "num": 130676,
+      "word": "Gemini当选KPL梦之队教练",
+      "onboard_time": 1716822080,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 130645,
@@ -2481,14 +2585,6 @@
       "onboard_time": 1716807858,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129224,
-      "num": 129224,
-      "word": "杨洋精准拿下三次大合照",
-      "onboard_time": 1716820280,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 128990,
@@ -2595,6 +2691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119447,
+      "num": 119447,
+      "word": "VOGUE新主编",
+      "onboard_time": 1716823218,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 118734,
       "num": 102508,
       "word": "男朋友哭着答应了我的求婚",
@@ -2643,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114912,
+      "num": 114912,
+      "word": "当你连续点同一家外卖超过100次",
+      "onboard_time": 1716823101,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114237,
       "num": 114237,
       "word": "果然年轻时不能遇见太惊艳的吗喽",
@@ -2689,6 +2801,14 @@
       "onboard_time": 1716728959,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108260,
+      "num": 445568,
+      "word": "福宝乖乖吃苹果被奖励摸摸",
+      "onboard_time": 1716821661,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108083,
@@ -2956,7 +3076,7 @@
     },
     {
       "raw_hot": 51248,
-      "num": 884113,
+      "num": 966064,
       "word": "沉浸式感受数字点亮生活",
       "onboard_time": 1716814638,
       "rank": 2,
