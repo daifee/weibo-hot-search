@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/26 00:21:27 ~ 2024/05/28 03:34:21
+本榜单时间：2024/05/26 00:21:27 ~ 2024/05/28 04:19:33
 </p>
 </blockquote>
 <p>
@@ -4509,6 +4509,12 @@ xiye回应加入TES（热度：108129）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8D%E5%85%B4%E8%AF%BE%E4%B8%8A%E5%BC%80%E9%BB%84%E8%85%94%E6%95%99%E5%B8%88%E8%A2%AB%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86%23" target="weibo">
+绍兴课上开黄腔教师被警告处分（热度：28523）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%BA%BA%E6%8A%8A%E9%BE%99%E8%88%9F%E5%88%92%E5%87%BA%E9%AB%98%E9%93%81%E7%9A%84%E6%B0%94%E5%8A%BF%23" target="weibo">
 温州人把龙舟划出高铁的气势（热度：28474）
 </a>
@@ -4529,12 +4535,6 @@ xiye回应加入TES（热度：108129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%B3%B0%E5%B1%B1%E4%B8%8A1700%E5%B2%81%E7%9A%84%E6%A1%A2%E6%A5%A0%E7%8E%8B%23" target="weibo">
 云峰山上1700岁的桢楠王（热度：23118）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8D%E5%85%B4%E8%AF%BE%E4%B8%8A%E5%BC%80%E9%BB%84%E8%85%94%E6%95%99%E5%B8%88%E8%A2%AB%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86%23" target="weibo">
-绍兴课上开黄腔教师被警告处分（热度：22169）
 </a>
 </li>
 
