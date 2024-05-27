@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716784581655,
+  "endTime": 1716787114221,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1729493,
+      "num": 1729493,
+      "word": "24岁女生存够10万元靠利息生活",
+      "onboard_time": 1716780679,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1708172,
       "num": 1708172,
       "word": "内蒙古发现一腐尸系33年前命案逃犯",
@@ -99,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1481358,
+      "num": 692551,
+      "word": "传闻中江浙沪的独生女",
+      "onboard_time": 1716783320,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1479877,
       "num": 817717,
       "word": "王妈公司0人参保",
@@ -137,14 +153,6 @@
       "onboard_time": 1716688218,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1319519,
-      "num": 1319519,
-      "word": "24岁女生存够10万元靠利息生活",
-      "onboard_time": 1716780679,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1289495,
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1068683,
+      "num": 386194,
+      "word": "喻言不报名参加歌手的原因",
+      "onboard_time": 1716785121,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1031743,
       "num": 1031743,
       "word": "SuperJunior13人合体",
@@ -249,14 +265,6 @@
       "onboard_time": 1716681856,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 961379,
-      "num": 692551,
-      "word": "传闻中江浙沪的独生女",
-      "onboard_time": 1716783320,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 956298,
@@ -571,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 600884,
+      "num": 600884,
+      "word": "亚当遮纹身",
+      "onboard_time": 1716784102,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 600067,
       "num": 600067,
       "word": "微信置顶一个很心酸的设计",
@@ -601,6 +617,14 @@
       "onboard_time": 1716697878,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 572913,
+      "num": 275290,
+      "word": "双休和单休真是两种人生",
+      "onboard_time": 1716783259,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 571013,
@@ -673,6 +697,14 @@
       "onboard_time": 1716767057,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 519992,
+      "num": 276132,
+      "word": "两家可乐涨价",
+      "onboard_time": 1716784160,
+      "rank": 20,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 518913,
@@ -1067,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376337,
+      "num": 376337,
+      "word": "HR想捞我一把但我没听懂",
+      "onboard_time": 1716775758,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 376163,
       "num": 376163,
       "word": "台飞行员称台空军迟早垮掉",
@@ -1131,6 +1171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 361823,
+      "num": 361823,
+      "word": "林祎凯开通微博",
+      "onboard_time": 1716784402,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361112,
       "num": 361112,
       "word": "我向往自由 我要谈恋爱",
@@ -1187,14 +1235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 347800,
-      "num": 347800,
-      "word": "HR想捞我一把但我没听懂",
-      "onboard_time": 1716775758,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 345225,
       "num": 478016,
       "word": "房价下跌对普通人意味着什么",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1716712097,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340287,
+      "num": 340287,
+      "word": "王妈否认抄面试者梗",
+      "onboard_time": 1716783920,
+      "rank": 23,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 337979,
@@ -1307,28 +1355,12 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 308192,
-      "num": 276132,
-      "word": "两家可乐涨价",
-      "onboard_time": 1716784160,
-      "rank": 20,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 307382,
       "num": 229364,
       "word": "陈萍萍举铁直拍",
       "onboard_time": 1716729140,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305017,
-      "num": 275290,
-      "word": "双休和单休真是两种人生",
-      "onboard_time": 1716783259,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 304403,
@@ -1547,14 +1579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 261562,
-      "num": 261562,
-      "word": "王妈否认抄面试者梗",
-      "onboard_time": 1716783920,
-      "rank": 23,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 260426,
       "num": 260426,
       "word": "宋雨琦音乐节首秀",
@@ -1643,6 +1667,22 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 245015,
+      "num": 223374,
+      "word": "英国朋友来中国打工半年后破防了",
+      "onboard_time": 1716784821,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 244802,
+      "num": 386586,
+      "word": "体育老师当班主任班级成绩全校第一",
+      "onboard_time": 1716785601,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244210,
       "num": 244210,
       "word": "日本昔日童星因杀人焚尸被捕",
@@ -1683,14 +1723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241705,
-      "num": 241705,
-      "word": "亚当遮纹身",
-      "onboard_time": 1716784102,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241016,
       "num": 215329,
       "word": "SJ13人合体 今夕是何年",
@@ -1704,6 +1736,14 @@
       "word": "夏天别乱穿洞洞鞋小心变得不幸",
       "onboard_time": 1716735559,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239669,
+      "num": 585366,
+      "word": "骗子说产品万能时自己都笑了",
+      "onboard_time": 1716782721,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1867,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221595,
+      "num": 221595,
+      "word": "一个员工离职的隐性成本有多高",
+      "onboard_time": 1716782840,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220378,
       "num": 178132,
       "word": "十块钱做了三杯珍珠奶茶",
@@ -1995,14 +2043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207647,
-      "num": 207647,
-      "word": "一个员工离职的隐性成本有多高",
-      "onboard_time": 1716782840,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207289,
       "num": 174427,
       "word": "向佐回应掉粉",
@@ -2075,20 +2115,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202803,
+      "num": 202803,
+      "word": "范闲儋州土包子爆改京圈贵公子",
+      "onboard_time": 1716786200,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202721,
       "num": 202721,
       "word": "大导眼中的章子怡",
       "onboard_time": 1716783561,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202550,
-      "num": 585366,
-      "word": "骗子说产品万能时自己都笑了",
-      "onboard_time": 1716782721,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202047,
@@ -2331,14 +2371,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184326,
-      "num": 184326,
-      "word": "林祎凯开通微博",
-      "onboard_time": 1716784402,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184084,
       "num": 184084,
       "word": "薛之谦演唱会官宣新综艺",
@@ -2401,6 +2433,14 @@
       "onboard_time": 1716720438,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180351,
+      "num": 180351,
+      "word": "正午阳光回应生命树选角",
+      "onboard_time": 1716787039,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 179585,
@@ -2688,6 +2728,14 @@
       "word": "巴西将建造世界最大蚊子工厂",
       "onboard_time": 1716682757,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163514,
+      "num": 163514,
+      "word": "中学回应13岁女生遭男同学猥亵",
+      "onboard_time": 1716786739,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3489,6 +3537,14 @@
       "onboard_time": 1716645081,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110310,
+      "num": 117493,
+      "word": "苏打绿北京开票",
+      "onboard_time": 1716784762,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 110214,
