@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716783794290,
+  "endTime": 1716784581655,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -9,6 +9,14 @@
       "onboard_time": 1716776658,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2245080,
+      "num": 1785879,
+      "word": "建议最近不要穿黄色衣服出门",
+      "onboard_time": 1716779780,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2211762,
@@ -51,12 +59,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1785879,
-      "num": 1785879,
-      "word": "建议最近不要穿黄色衣服出门",
-      "onboard_time": 1716779780,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 1708172,
+      "num": 1708172,
+      "word": "内蒙古发现一腐尸系33年前命案逃犯",
+      "onboard_time": 1716780919,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1696484,
@@ -81,14 +89,6 @@
       "onboard_time": 1716726559,
       "rank": 10,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1615269,
-      "num": 1615269,
-      "word": "内蒙古发现一腐尸系33年前命案逃犯",
-      "onboard_time": 1716780919,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1557550,
@@ -137,6 +137,14 @@
       "onboard_time": 1716688218,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1319519,
+      "num": 1319519,
+      "word": "24岁女生存够10万元靠利息生活",
+      "onboard_time": 1716780679,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1289495,
@@ -195,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1122896,
-      "num": 246355,
-      "word": "24岁女生存够10万元靠利息生活",
-      "onboard_time": 1716780679,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1108055,
       "num": 292429,
       "word": "突然感觉体制内挺适合不婚族",
@@ -251,12 +251,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 961379,
+      "num": 692551,
+      "word": "传闻中江浙沪的独生女",
+      "onboard_time": 1716783320,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 956298,
       "num": 352629,
       "word": "刘强东内部狼性训话流出",
       "onboard_time": 1716709038,
       "rank": 10,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 902001,
+      "num": 902001,
+      "word": "长期不说话或少说话有什么后果",
+      "onboard_time": 1716781040,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 895634,
@@ -289,14 +305,6 @@
       "onboard_time": 1716771499,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 849640,
-      "num": 849640,
-      "word": "长期不说话或少说话有什么后果",
-      "onboard_time": 1716781040,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 842965,
@@ -491,14 +499,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 640271,
-      "num": 640271,
-      "word": "传闻中江浙沪的独生女",
-      "onboard_time": 1716783320,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 636823,
       "num": 636823,
       "word": "林相大宝这段",
@@ -627,6 +627,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 559654,
+      "num": 559654,
+      "word": "范闲林婉儿婚服",
+      "onboard_time": 1716782360,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 551150,
       "num": 551150,
       "word": "庆余年23集",
@@ -689,14 +697,6 @@
       "onboard_time": 1716727819,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 517364,
-      "num": 517364,
-      "word": "范闲林婉儿婚服",
-      "onboard_time": 1716782360,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 513466,
@@ -1187,6 +1187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 347800,
+      "num": 347800,
+      "word": "HR想捞我一把但我没听懂",
+      "onboard_time": 1716775758,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345225,
       "num": 478016,
       "word": "房价下跌对普通人意味着什么",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1716693858,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324515,
-      "num": 324515,
-      "word": "HR想捞我一把但我没听懂",
-      "onboard_time": 1716775758,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 323700,
@@ -1307,12 +1307,28 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 308192,
+      "num": 276132,
+      "word": "两家可乐涨价",
+      "onboard_time": 1716784160,
+      "rank": 20,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 307382,
       "num": 229364,
       "word": "陈萍萍举铁直拍",
       "onboard_time": 1716729140,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305017,
+      "num": 275290,
+      "word": "双休和单休真是两种人生",
+      "onboard_time": 1716783259,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 304403,
@@ -1345,6 +1361,14 @@
       "onboard_time": 1716734899,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303031,
+      "num": 303031,
+      "word": "宁静 换脸界的神",
+      "onboard_time": 1716782900,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 299097,
@@ -1483,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279262,
-      "num": 279262,
-      "word": "宁静 换脸界的神",
-      "onboard_time": 1716782900,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 273992,
       "num": 194625,
       "word": "本届戛纳影后是四黄蛋",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1716625518,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261562,
+      "num": 261562,
+      "word": "王妈否认抄面试者梗",
+      "onboard_time": 1716783920,
+      "rank": 23,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 260426,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1716688518,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241705,
+      "num": 241705,
+      "word": "亚当遮纹身",
+      "onboard_time": 1716784102,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 241016,
@@ -1963,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207647,
+      "num": 207647,
+      "word": "一个员工离职的隐性成本有多高",
+      "onboard_time": 1716782840,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207289,
       "num": 174427,
       "word": "向佐回应掉粉",
@@ -2033,6 +2073,22 @@
       "onboard_time": 1716693257,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202721,
+      "num": 202721,
+      "word": "大导眼中的章子怡",
+      "onboard_time": 1716783561,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 202550,
+      "num": 585366,
+      "word": "骗子说产品万能时自己都笑了",
+      "onboard_time": 1716782721,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202047,
@@ -2275,12 +2331,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185090,
-      "num": 185090,
-      "word": "双休和单休真是两种人生",
-      "onboard_time": 1716783259,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 184326,
+      "num": 184326,
+      "word": "林祎凯开通微博",
+      "onboard_time": 1716784402,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 184084,
@@ -2787,6 +2843,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 147216,
+      "num": 147216,
+      "word": "为什么大多数父母不愿你辞职待业",
+      "onboard_time": 1716783201,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146590,
       "num": 146590,
       "word": "邓超陈赫跳舞为鹿晗庆生",
@@ -2843,14 +2907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 141560,
-      "num": 141560,
-      "word": "为什么大多数父母不愿你辞职待业",
-      "onboard_time": 1716783201,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141459,
       "num": 141459,
       "word": "邓子越饰演者曾婉拒庆余年",
@@ -2889,14 +2945,6 @@
       "onboard_time": 1716700459,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140463,
-      "num": 519257,
-      "word": "骗子说产品万能时自己都笑了",
-      "onboard_time": 1716782721,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140323,
@@ -2961,22 +3009,6 @@
       "onboard_time": 1716732139,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136967,
-      "num": 136967,
-      "word": "一个员工离职的隐性成本有多高",
-      "onboard_time": 1716782840,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 136207,
-      "num": 136207,
-      "word": "大导眼中的章子怡",
-      "onboard_time": 1716783561,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 135683,
@@ -3289,6 +3321,14 @@
       "onboard_time": 1716700519,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 121158,
+      "num": 121158,
+      "word": "华天崎抓拍的杨幂",
+      "onboard_time": 1716784522,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 120841,
@@ -3740,7 +3780,7 @@
     },
     {
       "raw_hot": 70303,
-      "num": 197509,
+      "num": 212712,
       "word": "每卖出2辆插混就有1辆比亚迪",
       "onboard_time": 1716781579,
       "rank": 28,
@@ -3915,6 +3955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46215,
+      "num": 1658755,
+      "word": "丰收里的中国舒展最美画卷",
+      "onboard_time": 1716783022,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42184,
       "num": 45652,
       "word": "克罗斯告别伯纳乌",
@@ -4009,14 +4057,6 @@
       "onboard_time": 1716670750,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 28707,
-      "num": 1658755,
-      "word": "丰收里的中国舒展最美画卷",
-      "onboard_time": 1716783022,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28474,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1716784581655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2180950,
+        "num": 2180950,
+        "word": "华春莹任外交部副部长",
+        "onboard_time": 1716776658,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1708172,
+        "num": 1708172,
+        "word": "内蒙古发现一腐尸系33年前命案逃犯",
+        "onboard_time": 1716780919,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46215,
+        "num": 1403182,
+        "word": "丰收里的中国舒展最美画卷",
+        "onboard_time": 1716783022,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2245080,
+        "num": 1388020,
+        "word": "建议最近不要穿黄色衣服出门",
+        "onboard_time": 1716779780,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1319519,
+        "num": 1319519,
+        "word": "24岁女生存够10万元靠利息生活",
+        "onboard_time": 1716780679,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902001,
+        "num": 902001,
+        "word": "长期不说话或少说话有什么后果",
+        "onboard_time": 1716781040,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 704076,
+        "num": 704076,
+        "word": "老师收9.1万陌生转账报警并退还",
+        "onboard_time": 1716779719,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961379,
+        "num": 692551,
+        "word": "传闻中江浙沪的独生女",
+        "onboard_time": 1716783320,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 670658,
+        "num": 670658,
+        "word": "勃肯鞋",
+        "onboard_time": 1716776238,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 202550,
+        "num": 585366,
+        "word": "骗子说产品万能时自己都笑了",
+        "onboard_time": 1716782721,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559654,
+        "num": 559654,
+        "word": "范闲林婉儿婚服",
+        "onboard_time": 1716782360,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470754,
+        "num": 470754,
+        "word": "杨幂给章子怡让镜头",
+        "onboard_time": 1716770478,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 366564,
+        "num": 366564,
+        "word": "京东集团再次给采销大幅加薪",
+        "onboard_time": 1716778159,
+        "rank": 12,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 347800,
+        "num": 347800,
+        "word": "HR想捞我一把但我没听懂",
+        "onboard_time": 1716775758,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345928,
+        "num": 345928,
+        "word": "快30了还总觉得自己是个小孩",
+        "onboard_time": 1716772458,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337824,
+        "num": 337824,
+        "word": "麦当劳对讲机被炒至300元",
+        "onboard_time": 1716776838,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 303031,
+        "num": 303031,
+        "word": "宁静 换脸界的神",
+        "onboard_time": 1716782900,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295842,
+        "num": 295842,
+        "word": "四川凉山5级地震",
+        "onboard_time": 1716780021,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281147,
+        "num": 281147,
+        "word": "十天之后回到现实",
+        "onboard_time": 1716780500,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277301,
+        "num": 277301,
+        "word": "肖战张婧仪骑马路透",
+        "onboard_time": 1716776717,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308192,
+        "num": 276132,
+        "word": "两家可乐涨价",
+        "onboard_time": 1716784160,
+        "rank": 20,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 305017,
+        "num": 275290,
+        "word": "双休和单休真是两种人生",
+        "onboard_time": 1716783259,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273573,
+        "num": 273573,
+        "word": "女儿以父母偏心哥哥为由拒绝赡养父母",
+        "onboard_time": 1716767537,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261562,
+        "num": 261562,
+        "word": "王妈否认抄面试者梗",
+        "onboard_time": 1716783920,
+        "rank": 23,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 241705,
+        "num": 241705,
+        "word": "亚当遮纹身",
+        "onboard_time": 1716784102,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239854,
+        "num": 239854,
+        "word": "知名水上闯关类综艺录制现场突发意外",
+        "onboard_time": 1716768079,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214493,
+        "num": 214493,
+        "word": "研究发现牙齿健康与寿命长短有关",
+        "onboard_time": 1716779181,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67413,
+        "num": 212712,
+        "word": "每卖出2辆插混就有1辆比亚迪",
+        "onboard_time": 1716781579,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 211010,
+        "num": 211010,
+        "word": "上海这座比迪士尼还大的乐园荒废了",
+        "onboard_time": 1716773598,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 207647,
+        "num": 207647,
+        "word": "一个员工离职的隐性成本有多高",
+        "onboard_time": 1716782840,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202721,
+        "num": 202721,
+        "word": "大导眼中的章子怡",
+        "onboard_time": 1716783561,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201467,
+        "num": 201467,
+        "word": "Rookie说第十名不配拿奖金",
+        "onboard_time": 1716780199,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186952,
+        "num": 186952,
+        "word": "aespa破表",
+        "onboard_time": 1716770478,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186079,
+        "num": 186079,
+        "word": "同事太冷漠被辞退了",
+        "onboard_time": 1716778277,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184326,
+        "num": 184326,
+        "word": "林祎凯开通微博",
+        "onboard_time": 1716784402,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175606,
+        "num": 175606,
+        "word": "解放军视角近距离看台湾",
+        "onboard_time": 1716772879,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171545,
+        "num": 171545,
+        "word": "优酷贴脸开大张若昀",
+        "onboard_time": 1716778339,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158921,
+        "num": 158921,
+        "word": "亚当圈粉",
+        "onboard_time": 1716773237,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148582,
+        "num": 148582,
+        "word": "大学生困在付费内推的陷阱里",
+        "onboard_time": 1716772399,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 147216,
+        "num": 147216,
+        "word": "为什么大多数父母不愿你辞职待业",
+        "onboard_time": 1716783201,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146697,
+        "num": 146697,
+        "word": "刘强东 不想拼的不是兄弟",
+        "onboard_time": 1716773778,
+        "rank": 40,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 163924,
+        "num": 146065,
+        "word": "张若昀4部剧霸榜腾讯视频前四",
+        "onboard_time": 1716771197,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144663,
+        "num": 144663,
+        "word": "TheShy说LWX比Uzi更好",
+        "onboard_time": 1716774737,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135208,
+        "num": 135208,
+        "word": "以前的教师编是怎么考上的",
+        "onboard_time": 1716776477,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134605,
+        "num": 134605,
+        "word": "为什么建议在单位立有对象人设",
+        "onboard_time": 1716777437,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126239,
+        "num": 126239,
+        "word": "薛之谦演唱会官宣新综艺",
+        "onboard_time": 1716778578,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142141,
+        "num": 123756,
+        "word": "张若昀宣言二搭",
+        "onboard_time": 1716775277,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121158,
+        "num": 121158,
+        "word": "华天崎抓拍的杨幂",
+        "onboard_time": 1716784522,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120863,
+        "num": 120863,
+        "word": "杨根思连被授予时代楷模称号",
+        "onboard_time": 1716781460,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120665,
+        "num": 120665,
+        "word": "美媒称美国曾经在华享有美誉如今毁了",
+        "onboard_time": 1716775937,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#学中文在阿联酋已成为一种新风尚#"
+    }
+  }
+}
