@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716816084707,
+  "endTime": 1716816833851,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1998825,
+      "num": 1998825,
+      "word": "工资6000请假半个月被扣4500",
+      "onboard_time": 1716812958,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1967473,
       "num": 1967473,
       "word": "黄宣 我结婚了啦那又怎样",
       "onboard_time": 1716688157,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1904116,
-      "num": 1904116,
-      "word": "工资6000请假半个月被扣4500",
-      "onboard_time": 1716812958,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 1900561,
@@ -123,6 +123,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1600198,
+      "num": 1600198,
+      "word": "埃及",
+      "onboard_time": 1716812899,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1557550,
       "num": 1557550,
       "word": "章子怡质问陈可辛",
@@ -137,14 +145,6 @@
       "onboard_time": 1716790578,
       "rank": 12,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 1516080,
-      "num": 1516080,
-      "word": "埃及",
-      "onboard_time": 1716812899,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1481358,
@@ -907,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554516,
+      "num": 238549,
+      "word": "网恋是赵昭仪 奔现是强哥",
+      "onboard_time": 1716815539,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 551150,
       "num": 551150,
       "word": "庆余年23集",
@@ -1099,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490909,
+      "num": 237725,
+      "word": "被外婆家厕所的纸震惊到了",
+      "onboard_time": 1716814999,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 489086,
       "num": 436996,
       "word": "张雨绮说自己起床就长这样",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1716691458,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 481494,
+      "num": 251217,
+      "word": "4元1斤的大樱桃你吃到了吗",
+      "onboard_time": 1716811937,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 479184,
@@ -1443,12 +1467,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 387263,
-      "num": 251217,
-      "word": "4元1斤的大樱桃你吃到了吗",
-      "onboard_time": 1716811937,
-      "rank": 24,
-      "category": "美食"
+      "raw_hot": 387395,
+      "num": 387395,
+      "word": "范闲也跳晚安大小姐了",
+      "onboard_time": 1716814578,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 386143,
@@ -1571,6 +1595,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 360863,
+      "num": 360863,
+      "word": "范闲婉儿大婚名场面",
+      "onboard_time": 1716814878,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359643,
       "num": 359643,
       "word": "赵丽颖真的很喜欢橙色耳环",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1716705258,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 346607,
+      "num": 346607,
+      "word": "子女凑钱替67岁父亲交私生子抚养费",
+      "onboard_time": 1716813318,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345225,
@@ -1731,20 +1771,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327217,
-      "num": 222173,
-      "word": "被外婆家厕所的纸震惊到了",
-      "onboard_time": 1716814999,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 323700,
       "num": 251679,
       "word": "Lululemon股价今年已跌去4成",
       "onboard_time": 1716716179,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 322533,
+      "num": 322533,
+      "word": "月红篇终于癫成我想要的样子",
+      "onboard_time": 1716815299,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 322473,
@@ -1777,14 +1817,6 @@
       "onboard_time": 1716773237,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316380,
-      "num": 316380,
-      "word": "子女凑钱替67岁父亲交私生子抚养费",
-      "onboard_time": 1716813318,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315800,
@@ -1851,14 +1883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305521,
-      "num": 305521,
-      "word": "范闲也跳晚安大小姐了",
-      "onboard_time": 1716814578,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 304403,
       "num": 304403,
       "word": "福宝和邻居熊隔窗交流",
@@ -1920,14 +1944,6 @@
       "word": "庆余年林相辞官 三狐对峙",
       "onboard_time": 1716732320,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 297162,
-      "num": 220306,
-      "word": "网恋是赵昭仪 奔现是强哥",
-      "onboard_time": 1716815539,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -2075,12 +2091,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279746,
-      "num": 279746,
-      "word": "范闲婉儿大婚名场面",
-      "onboard_time": 1716814878,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 278300,
+      "num": 278300,
+      "word": "黄晓明模仿亚当",
+      "onboard_time": 1716816080,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 273992,
@@ -2193,6 +2209,14 @@
       "onboard_time": 1716739458,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253294,
+      "num": 234669,
+      "word": "五竹来了",
+      "onboard_time": 1716816140,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 253252,
@@ -2417,6 +2441,14 @@
       "onboard_time": 1716779000,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230029,
+      "num": 230029,
+      "word": "00后古希腊掌管运营的神",
+      "onboard_time": 1716815779,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 229328,
@@ -2731,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207897,
+      "num": 207897,
+      "word": "费介死了吗",
+      "onboard_time": 1716816500,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207721,
       "num": 177078,
       "word": "阿Sa你在用你的脸干什么",
@@ -2843,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201824,
+      "num": 201824,
+      "word": "保时捷中国与全体授权经销商联合声明",
+      "onboard_time": 1716815598,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 201781,
       "num": 201781,
       "word": "王鹤棣 赢了不装等于没赢",
@@ -2880,14 +2928,6 @@
       "word": "狐妖导演采访",
       "onboard_time": 1716708497,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 200284,
-      "num": 200284,
-      "word": "月红篇终于癫成我想要的样子",
-      "onboard_time": 1716815299,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -3043,6 +3083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190724,
+      "num": 190724,
+      "word": "背着善宰跑第15集",
+      "onboard_time": 1716816199,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190191,
       "num": 190191,
       "word": "李沐宸夺娶女主",
@@ -3097,14 +3145,6 @@
       "onboard_time": 1716729620,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188022,
-      "num": 188022,
-      "word": "00后古希腊掌管运营的神",
-      "onboard_time": 1716815779,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 187678,
@@ -3427,6 +3467,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 171999,
+      "num": 171999,
+      "word": "小范大人听说你至今未娶啊",
+      "onboard_time": 1716815539,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171791,
       "num": 171791,
       "word": "杨幂龚俊立狐妖热度flag",
@@ -3585,14 +3633,6 @@
       "onboard_time": 1716720079,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165563,
-      "num": 165563,
-      "word": "小范大人听说你至今未娶啊",
-      "onboard_time": 1716815539,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 165035,
@@ -3803,6 +3843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153191,
+      "num": 153191,
+      "word": "林俊杰真的好会going",
+      "onboard_time": 1716815900,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152824,
       "num": 152824,
       "word": "赵露思大光明造型",
@@ -3811,20 +3859,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 152822,
-      "num": 152822,
-      "word": "保时捷中国与全体授权经销商联合声明",
-      "onboard_time": 1716815598,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 152517,
       "num": 152517,
       "word": "汗疱疹会传染吗",
       "onboard_time": 1716771021,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 152446,
+      "num": 152446,
+      "word": "杨幂敦煌风妆造",
+      "onboard_time": 1716816620,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 151963,
@@ -4371,14 +4419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 130436,
-      "num": 130436,
-      "word": "林俊杰真的好会going",
-      "onboard_time": 1716815900,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 130396,
       "num": 130396,
       "word": "蔡依林南昌演唱会",
@@ -4723,6 +4763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119374,
+      "num": 119374,
+      "word": "大学一人寝你愿意住吗",
+      "onboard_time": 1716816739,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118734,
       "num": 102508,
       "word": "男朋友哭着答应了我的求婚",
@@ -4753,6 +4801,14 @@
       "onboard_time": 1716695899,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 117581,
+      "num": 117581,
+      "word": "超市的杯子有自己的货币",
+      "onboard_time": 1716816559,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 117544,
@@ -5459,6 +5515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45509,
+      "num": 819133,
+      "word": "沉浸式感受数字点亮生活",
+      "onboard_time": 1716814638,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42877,
       "num": 311817,
       "word": "杨洋首部短剧",
@@ -5473,14 +5537,6 @@
       "onboard_time": 1716679514,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41843,
-      "num": 773954,
-      "word": "沉浸式感受数字点亮生活",
-      "onboard_time": 1716814638,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41044,
@@ -5657,6 +5713,14 @@
       "onboard_time": 1716666131,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 9253,
+      "num": 205007,
+      "word": "车来车往的路口为老人按下120秒暂停键",
+      "onboard_time": 1716816799,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9048,
