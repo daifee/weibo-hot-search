@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716774018736,
+  "endTime": 1716777189963,
   "band_list": [
     {
       "raw_hot": 2211762,
@@ -9,6 +9,14 @@
       "onboard_time": 1716721819,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2195586,
+      "num": 2195586,
+      "word": "华春莹任外交部副部长",
+      "onboard_time": 1716776658,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2180703,
@@ -129,6 +137,14 @@
       "onboard_time": 1716693257,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1241076,
+      "num": 859701,
+      "word": "快30了还总觉得自己是个小孩",
+      "onboard_time": 1716772458,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 1204925,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 814964,
-      "num": 192979,
+      "num": 307793,
       "word": "女儿以父母偏心哥哥为由拒绝赡养父母",
       "onboard_time": 1716767537,
       "rank": 20,
@@ -427,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 635787,
+      "num": 635787,
+      "word": "大学生困在付费内推的陷阱里",
+      "onboard_time": 1716772399,
+      "rank": 39,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 632604,
       "num": 632604,
       "word": "英国一博物馆让游客随意触摸中国文物",
@@ -435,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 625853,
-      "num": 625853,
-      "word": "快30了还总觉得自己是个小孩",
-      "onboard_time": 1716772458,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 629741,
+      "num": 475878,
+      "word": "刘强东 不想拼的不是兄弟",
+      "onboard_time": 1716773778,
+      "rank": 18,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 617261,
@@ -520,6 +544,14 @@
       "word": "生命树 杨紫白宇",
       "onboard_time": 1716735080,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 568946,
+      "num": 568946,
+      "word": "张若昀宣言二搭",
+      "onboard_time": 1716775277,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -643,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495412,
+      "num": 495412,
+      "word": "解放军视角近距离看台湾",
+      "onboard_time": 1716772879,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 493703,
       "num": 493703,
       "word": "王冰冰回应尼格买提",
@@ -715,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468825,
+      "num": 468825,
+      "word": "上海这座比迪士尼还大的乐园荒废了",
+      "onboard_time": 1716773598,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 462208,
       "num": 196762,
       "word": "网友称31克黄金回收秒变15克",
@@ -779,6 +827,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 437849,
+      "num": 437849,
+      "word": "勃肯鞋",
+      "onboard_time": 1716776238,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 435838,
       "num": 288089,
       "word": "厉旭婚礼",
@@ -835,12 +891,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 414544,
-      "num": 414544,
-      "word": "解放军视角近距离看台湾",
-      "onboard_time": 1716772879,
-      "rank": 11,
-      "category": "国内时政"
+      "raw_hot": 419277,
+      "num": 419277,
+      "word": "谢娜女儿小咘芽的小名是跳跳取的",
+      "onboard_time": 1716774021,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 411456,
@@ -963,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 364014,
+      "num": 364014,
+      "word": "A股",
+      "onboard_time": 1716775877,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 363827,
       "num": 363827,
       "word": "张朝阳建议年轻人不要负债",
@@ -1051,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340799,
-      "num": 340799,
-      "word": "大学生困在付费内推的陷阱里",
-      "onboard_time": 1716772399,
-      "rank": 39,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 337979,
       "num": 337979,
       "word": "中国人吃掉全世界70%的西瓜",
@@ -1099,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328513,
+      "num": 328513,
+      "word": "肖战张婧仪骑马路透",
+      "onboard_time": 1716776717,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323700,
       "num": 251679,
       "word": "Lululemon股价今年已跌去4成",
@@ -1121,6 +1185,14 @@
       "onboard_time": 1716693199,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318249,
+      "num": 318249,
+      "word": "亚当圈粉",
+      "onboard_time": 1716773237,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315800,
@@ -1187,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297101,
+      "num": 297101,
+      "word": "TheShy说LWX比Uzi更好",
+      "onboard_time": 1716774737,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 295214,
       "num": 295214,
       "word": "我保持单身的三大好习惯",
@@ -1235,12 +1315,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287429,
+      "num": 287429,
+      "word": "HR想捞我一把但我没听懂",
+      "onboard_time": 1716775758,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 287330,
       "num": 322020,
       "word": "马龙林高远男双冠军",
       "onboard_time": 1716725059,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287170,
+      "num": 287170,
+      "word": "贺军翔",
+      "onboard_time": 1716774438,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 285661,
@@ -1515,6 +1611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225161,
+      "num": 225161,
+      "word": "美媒称美国曾经在华享有美誉如今毁了",
+      "onboard_time": 1716775937,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 224562,
       "num": 224562,
       "word": "老头杯",
@@ -1707,12 +1811,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205759,
-      "num": 205759,
-      "word": "刘强东 不想拼的不是兄弟",
-      "onboard_time": 1716773778,
-      "rank": 18,
-      "category": "互联网,社会新闻"
+      "raw_hot": 205532,
+      "num": 205532,
+      "word": "你觉得身边吸烟的人变少了吗",
+      "onboard_time": 1716773598,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 205231,
@@ -1811,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196386,
+      "num": 196386,
+      "word": "71岁男子持石块击打61岁男子致其死亡",
+      "onboard_time": 1716775758,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 196099,
       "num": 225003,
       "word": "WTT常规挑战赛太原站2024",
@@ -1859,6 +1971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190628,
+      "num": 190628,
+      "word": "大四学生轮流当C位拍毕业视频",
+      "onboard_time": 1716773357,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189878,
       "num": 189878,
       "word": "庆余年2隐喻",
@@ -1897,6 +2017,22 @@
       "onboard_time": 1716766997,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187316,
+      "num": 187316,
+      "word": "京东内部管理",
+      "onboard_time": 1716777078,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 187122,
+      "num": 187122,
+      "word": "沙这么大杨幂怎么睁开眼的",
+      "onboard_time": 1716775997,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 186877,
@@ -1953,14 +2089,6 @@
       "onboard_time": 1716701359,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184856,
-      "num": 168536,
-      "word": "上海这座比迪士尼还大的乐园荒废了",
-      "onboard_time": 1716773598,
-      "rank": 30,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 183553,
@@ -2027,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179330,
+      "num": 179330,
+      "word": "快乐向前冲录制时多人摔骨折且未获赔",
+      "onboard_time": 1716776056,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178567,
       "num": 165071,
       "word": "俞飞鸿小丈夫 超前精神状态",
@@ -2059,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177669,
+      "num": 177669,
+      "word": "麦当劳对讲机被炒至300元",
+      "onboard_time": 1716776838,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 177467,
       "num": 177467,
       "word": "独行侠vs森林狼",
@@ -2075,12 +2219,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175908,
-      "num": 175908,
-      "word": "亚当圈粉",
-      "onboard_time": 1716773237,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 175343,
+      "num": 175343,
+      "word": "库里小儿子出生",
+      "onboard_time": 1716776118,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 174901,
@@ -2193,6 +2337,14 @@
       "onboard_time": 1716772638,
       "rank": 46,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 167642,
+      "num": 167642,
+      "word": "以前的教师编是怎么考上的",
+      "onboard_time": 1716776477,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 167587,
@@ -2329,6 +2481,14 @@
       "onboard_time": 1716714498,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 159979,
+      "num": 159979,
+      "word": "合肥暴雨",
+      "onboard_time": 1716774978,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158622,
@@ -2483,14 +2643,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 142242,
-      "num": 142242,
-      "word": "你觉得身边吸烟的人变少了吗",
-      "onboard_time": 1716773598,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 141959,
       "num": 141959,
       "word": "Uzi无缘老头杯淘汰赛",
@@ -2569,6 +2721,14 @@
       "onboard_time": 1716643100,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138241,
+      "num": 138241,
+      "word": "按摩仪1880元出厂卖给老人15900元",
+      "onboard_time": 1716774677,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137915,
@@ -2731,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126892,
+      "num": 126892,
+      "word": "黄景瑜单肩扛龚俊",
+      "onboard_time": 1716774618,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126755,
       "num": 126755,
       "word": "这雨比臣送您入宫那晚还要大",
@@ -2825,14 +2993,6 @@
       "onboard_time": 1716732258,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122260,
-      "num": 122260,
-      "word": "大四学生轮流当C位拍毕业视频",
-      "onboard_time": 1716773357,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122110,
@@ -3435,6 +3595,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 49067,
+      "num": 479804,
+      "word": "成都周一朝霞定律",
+      "onboard_time": 1716775338,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47124,
       "num": 68509,
       "word": "韩国水果的价格",
@@ -3591,6 +3759,14 @@
       "num": 134297,
       "word": "被这个转身硬控30秒",
       "onboard_time": 1716701000,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 7138,
+      "num": 98030,
+      "word": "头发越粉开麦越稳",
+      "onboard_time": 1716776780,
       "rank": 49,
       "category": "演出"
     }
