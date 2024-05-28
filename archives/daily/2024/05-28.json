@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716900592436,
+  "endTime": 1716902482099,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -67,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1306133,
+      "num": 1306133,
+      "word": "陈晓光头走红毯",
+      "onboard_time": 1716898096,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1228654,
-      "num": 278848,
+      "num": 293313,
       "word": "印度男子剖妻孕肚查胎儿性别",
       "onboard_time": 1716885618,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1226355,
+      "num": 701038,
+      "word": "满屏都是唐艺昕",
+      "onboard_time": 1716900318,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1186478,
@@ -115,14 +131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1035698,
-      "num": 1035698,
-      "word": "陈晓光头走红毯",
-      "onboard_time": 1716898096,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 999089,
       "num": 999089,
       "word": "经常熬夜的人身体会发臭",
@@ -148,11 +156,19 @@
     },
     {
       "raw_hot": 965765,
-      "num": 275576,
+      "num": 295080,
       "word": "未婚在意外怀孕上要零容错",
       "onboard_time": 1716882198,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 924101,
+      "num": 924101,
+      "word": "一猩60万",
+      "onboard_time": 1716900077,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 901709,
@@ -339,6 +355,22 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 663812,
+      "num": 508312,
+      "word": "李沁的头冠是3D打印的",
+      "onboard_time": 1716899537,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 646172,
+      "num": 646172,
+      "word": "比亚迪",
+      "onboard_time": 1716900859,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 635381,
       "num": 635381,
       "word": "范思辙为什么要戴项圈",
@@ -459,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 520106,
+      "num": 520106,
+      "word": "南京Hero久竞拒绝报价",
+      "onboard_time": 1716899959,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 519453,
       "num": 519453,
       "word": "中国计量大学回应学生虐杀猫事件",
@@ -537,6 +577,14 @@
       "onboard_time": 1716855138,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 454962,
+      "num": 454962,
+      "word": "IVE 划水",
+      "onboard_time": 1716900017,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 454779,
@@ -675,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 379923,
+      "num": 379923,
+      "word": "官员称还有2个月退休不该过多去问",
+      "onboard_time": 1716896358,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377465,
       "num": 357606,
       "word": "上海大学生花29天坐公交到新加坡",
@@ -689,14 +745,6 @@
       "onboard_time": 1716880517,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 365722,
-      "num": 365722,
-      "word": "李沁的头冠是3D打印的",
-      "onboard_time": 1716899537,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 350540,
@@ -803,12 +851,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299669,
+      "num": 299669,
+      "word": "光与夜之恋",
+      "onboard_time": 1716900198,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293119,
       "num": 285627,
       "word": "权志龙将参加KAIST脱口秀",
       "onboard_time": 1716867317,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291163,
+      "num": 291163,
+      "word": "2024腾讯游戏发布会",
+      "onboard_time": 1716900738,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 289573,
@@ -819,12 +883,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 286075,
+      "num": 286075,
+      "word": "上海离婚预约爆满与楼市新政无关",
+      "onboard_time": 1716889758,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285179,
       "num": 246363,
       "word": "蔡文静录完浪姐只想拍戏",
       "onboard_time": 1716886699,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284369,
+      "num": 284369,
+      "word": "胡锡进称刘强东急了",
+      "onboard_time": 1716900917,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 281302,
@@ -867,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275040,
-      "num": 198022,
-      "word": "IVE 划水",
-      "onboard_time": 1716900017,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 274548,
       "num": 274548,
       "word": "2024高考",
@@ -915,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268181,
-      "num": 268181,
-      "word": "官员称还有2个月退休不该过多去问",
-      "onboard_time": 1716896358,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267775,
       "num": 267775,
       "word": "网恋是赵昭仪 奔现是强哥",
@@ -955,6 +1019,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 263721,
+      "num": 306317,
+      "word": "第五代DM技术综合续航2100公里",
+      "onboard_time": 1716901458,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 263606,
       "num": 263606,
       "word": "警方通报男子出售女童写真牟利",
@@ -979,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258034,
+      "num": 258034,
+      "word": "长公主二皇子顶疯相见",
+      "onboard_time": 1716901818,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256630,
       "num": 256630,
       "word": "正午阳光一直促成与杨紫合作",
@@ -993,14 +1073,6 @@
       "onboard_time": 1716874220,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 252100,
-      "num": 252100,
-      "word": "光与夜之恋",
-      "onboard_time": 1716900198,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 247794,
@@ -1067,14 +1139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 241350,
-      "num": 241350,
-      "word": "南京Hero久竞拒绝报价",
-      "onboard_time": 1716899959,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 240188,
       "num": 211292,
       "word": "爷爷临终前开了一个玩笑",
@@ -1121,14 +1185,6 @@
       "onboard_time": 1716856158,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 232092,
-      "num": 232092,
-      "word": "一猩60万",
-      "onboard_time": 1716900077,
-      "rank": 19,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 229891,
@@ -1267,14 +1323,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 205721,
-      "num": 193004,
-      "word": "满屏都是唐艺昕",
-      "onboard_time": 1716900318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205264,
       "num": 206898,
       "word": "月经到底什么样算正常",
@@ -1387,6 +1435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195758,
+      "num": 195758,
+      "word": "背着善宰跑今晚大结局",
+      "onboard_time": 1716893539,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195267,
       "num": 195267,
       "word": "月红篇终于癫成我想要的样子",
@@ -1483,14 +1539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 185642,
-      "num": 185642,
-      "word": "背着善宰跑今晚大结局",
-      "onboard_time": 1716893539,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184965,
       "num": 184965,
       "word": "浙大学子的毕业仪式感",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1716875658,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181377,
+      "num": 181377,
+      "word": "内娱智性恋天花板",
+      "onboard_time": 1716902298,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181082,
@@ -1643,6 +1699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 168278,
+      "num": 154449,
+      "word": "秦L引领油耗进入2时代",
+      "onboard_time": 1716901698,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 167994,
       "num": 167994,
       "word": "女子用炸毛毛笔写出瘦金体",
@@ -1745,6 +1809,14 @@
       "onboard_time": 1716887118,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157549,
+      "num": 157549,
+      "word": "狐妖月红篇有自己的柜哥",
+      "onboard_time": 1716902118,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 155414,
@@ -1857,6 +1929,14 @@
       "onboard_time": 1716899417,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146324,
+      "num": 146324,
+      "word": "光与夜之恋三周年音乐会",
+      "onboard_time": 1716902358,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 146152,
@@ -2115,6 +2195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124913,
+      "num": 124913,
+      "word": "翟潇闻直播黑牙了",
+      "onboard_time": 1716902419,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123904,
       "num": 123904,
       "word": "许嵩演唱会",
@@ -2369,6 +2457,14 @@
       "onboard_time": 1716882078,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104954,
+      "num": 741296,
+      "word": "浩瀚太空再一次留下中国足迹",
+      "onboard_time": 1716897798,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103880,
@@ -2779,6 +2875,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 52479,
+      "num": 295350,
+      "word": "太子给范闲送的贡品是东阿阿胶",
+      "onboard_time": 1716898157,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51411,
       "num": 533016,
       "word": "你是否有过找食品标签的体验",
@@ -2793,6 +2897,14 @@
       "onboard_time": 1716830114,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46763,
+      "num": 433820,
+      "word": "战友牺牲后19岁战士死守第一道防线",
+      "onboard_time": 1716901219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44251,
@@ -2825,14 +2937,6 @@
       "onboard_time": 1716840730,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34476,
-      "num": 227665,
-      "word": "太子给范闲送的贡品是东阿阿胶",
-      "onboard_time": 1716898157,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 32177,

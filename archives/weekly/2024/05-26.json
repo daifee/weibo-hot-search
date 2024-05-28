@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716900592436,
+  "endTime": 1716902482099,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -283,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1306133,
+      "num": 1306133,
+      "word": "陈晓光头走红毯",
+      "onboard_time": 1716898096,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1289495,
       "num": 1289495,
       "word": "杨幂给章子怡让镜头",
@@ -316,11 +324,19 @@
     },
     {
       "raw_hot": 1228654,
-      "num": 278848,
+      "num": 293313,
       "word": "印度男子剖妻孕肚查胎儿性别",
       "onboard_time": 1716885618,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1226355,
+      "num": 701038,
+      "word": "满屏都是唐艺昕",
+      "onboard_time": 1716900318,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1204925,
@@ -419,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1035698,
-      "num": 1035698,
-      "word": "陈晓光头走红毯",
-      "onboard_time": 1716898096,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1031743,
       "num": 1031743,
       "word": "SuperJunior13人合体",
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 965765,
-      "num": 275576,
+      "num": 295080,
       "word": "未婚在意外怀孕上要零容错",
       "onboard_time": 1716882198,
       "rank": 20,
@@ -513,6 +521,14 @@
       "onboard_time": 1716709038,
       "rank": 10,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 924101,
+      "num": 924101,
+      "word": "一猩60万",
+      "onboard_time": 1716900077,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 921325,
@@ -1003,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 663812,
+      "num": 508312,
+      "word": "李沁的头冠是3D打印的",
+      "onboard_time": 1716899537,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 662627,
       "num": 607074,
       "word": "章子怡兜兜转转才45岁",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1716722538,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 646172,
+      "num": 646172,
+      "word": "比亚迪",
+      "onboard_time": 1716900859,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 645353,
@@ -1499,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 520106,
+      "num": 520106,
+      "word": "南京Hero久竞拒绝报价",
+      "onboard_time": 1716899959,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 519957,
       "num": 413614,
       "word": "郴州一公园发生刑事案件致3死2伤",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1716689539,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454962,
+      "num": 454962,
+      "word": "IVE 划水",
+      "onboard_time": 1716900017,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 454779,
@@ -2203,6 +2251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 379923,
+      "num": 379923,
+      "word": "官员称还有2个月退休不该过多去问",
+      "onboard_time": 1716896358,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377465,
       "num": 357606,
       "word": "上海大学生花29天坐公交到新加坡",
@@ -2281,14 +2337,6 @@
       "onboard_time": 1716770478,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 365722,
-      "num": 365722,
-      "word": "李沁的头冠是3D打印的",
-      "onboard_time": 1716899537,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 365313,
@@ -2787,6 +2835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 299669,
+      "num": 299669,
+      "word": "光与夜之恋",
+      "onboard_time": 1716900198,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299097,
       "num": 256839,
       "word": "庆余年林相辞官 三狐对峙",
@@ -2859,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291163,
+      "num": 291163,
+      "word": "2024腾讯游戏发布会",
+      "onboard_time": 1716900738,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289573,
       "num": 289573,
       "word": "那年我高考",
@@ -2899,6 +2963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286075,
+      "num": 286075,
+      "word": "上海离婚预约爆满与楼市新政无关",
+      "onboard_time": 1716889758,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285661,
       "num": 285661,
       "word": "你身边有疑似重生的人吗",
@@ -2921,6 +2993,14 @@
       "onboard_time": 1716694878,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284369,
+      "num": 284369,
+      "word": "胡锡进称刘强东急了",
+      "onboard_time": 1716900917,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 284214,
@@ -3003,14 +3083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275040,
-      "num": 198022,
-      "word": "IVE 划水",
-      "onboard_time": 1716900017,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 274548,
       "num": 274548,
       "word": "2024高考",
@@ -3067,14 +3139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 268181,
-      "num": 268181,
-      "word": "官员称还有2个月退休不该过多去问",
-      "onboard_time": 1716896358,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266623,
       "num": 266623,
       "word": "张若昀 电车难题",
@@ -3113,6 +3177,14 @@
       "onboard_time": 1716625518,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263721,
+      "num": 306317,
+      "word": "第五代DM技术综合续航2100公里",
+      "onboard_time": 1716901458,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 263606,
@@ -3160,6 +3232,14 @@
       "word": "庆余年第21集",
       "onboard_time": 1716651018,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 258034,
+      "num": 258034,
+      "word": "长公主二皇子顶疯相见",
+      "onboard_time": 1716901818,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -3233,14 +3313,6 @@
       "onboard_time": 1716767957,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 252100,
-      "num": 252100,
-      "word": "光与夜之恋",
-      "onboard_time": 1716900198,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 250690,
@@ -3411,14 +3483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241350,
-      "num": 241350,
-      "word": "南京Hero久竞拒绝报价",
-      "onboard_time": 1716899959,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 241016,
       "num": 215329,
       "word": "SJ13人合体 今夕是何年",
@@ -3569,14 +3633,6 @@
       "onboard_time": 1716765436,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 232092,
-      "num": 232092,
-      "word": "一猩60万",
-      "onboard_time": 1716900077,
-      "rank": 19,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 231814,
@@ -4107,14 +4163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205721,
-      "num": 193004,
-      "word": "满屏都是唐艺昕",
-      "onboard_time": 1716900318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205532,
       "num": 205532,
       "word": "你觉得身边吸烟的人变少了吗",
@@ -4409,6 +4457,14 @@
       "onboard_time": 1716732919,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195758,
+      "num": 195758,
+      "word": "背着善宰跑今晚大结局",
+      "onboard_time": 1716893539,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 195221,
@@ -4731,14 +4787,6 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 185642,
-      "num": 185642,
-      "word": "背着善宰跑今晚大结局",
-      "onboard_time": 1716893539,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185271,
       "num": 185271,
       "word": "原来大多数人小脚趾甲是分瓣的",
@@ -4849,6 +4897,14 @@
       "onboard_time": 1716802278,
       "rank": 32,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 181377,
+      "num": 181377,
+      "word": "内娱智性恋天花板",
+      "onboard_time": 1716902298,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181121,
@@ -5211,6 +5267,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 168278,
+      "num": 154449,
+      "word": "秦L引领油耗进入2时代",
+      "onboard_time": 1716901698,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 167994,
       "num": 167994,
       "word": "女子用炸毛毛笔写出瘦金体",
@@ -5571,6 +5635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157549,
+      "num": 157549,
+      "word": "狐妖月红篇有自己的柜哥",
+      "onboard_time": 1716902118,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156752,
       "num": 156752,
       "word": "茉酸奶涉事门店遭立案调查",
@@ -5865,6 +5937,14 @@
       "onboard_time": 1716899417,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146324,
+      "num": 146324,
+      "word": "光与夜之恋三周年音乐会",
+      "onboard_time": 1716902358,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 145956,
@@ -6699,6 +6779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124913,
+      "num": 124913,
+      "word": "翟潇闻直播黑牙了",
+      "onboard_time": 1716902419,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124623,
       "num": 124623,
       "word": "室友买东西不商量就要AA",
@@ -7337,6 +7425,14 @@
       "onboard_time": 1716736819,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104954,
+      "num": 741296,
+      "word": "浩瀚太空再一次留下中国足迹",
+      "onboard_time": 1716897798,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 104564,
@@ -8051,6 +8147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52479,
+      "num": 295350,
+      "word": "太子给范闲送的贡品是东阿阿胶",
+      "onboard_time": 1716898157,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51872,
       "num": 679187,
       "word": "成都满城尽带绝绝紫",
@@ -8161,6 +8265,14 @@
       "onboard_time": 1716746414,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46763,
+      "num": 433820,
+      "word": "战友牺牲后19岁战士死守第一道防线",
+      "onboard_time": 1716901219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46630,
@@ -8289,14 +8401,6 @@
       "onboard_time": 1716840730,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34476,
-      "num": 227665,
-      "word": "太子给范闲送的贡品是东阿阿胶",
-      "onboard_time": 1716898157,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 33181,

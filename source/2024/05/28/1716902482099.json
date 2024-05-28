@@ -1,0 +1,410 @@
+{
+  "runTime": 1716902482099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1306133,
+        "num": 1306133,
+        "word": "陈晓光头走红毯",
+        "onboard_time": 1716898096,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 924101,
+        "num": 924101,
+        "word": "一猩60万",
+        "onboard_time": 1716900077,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 104954,
+        "num": 741296,
+        "word": "浩瀚太空再一次留下中国足迹",
+        "onboard_time": 1716897798,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1226355,
+        "num": 701038,
+        "word": "满屏都是唐艺昕",
+        "onboard_time": 1716900318,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646172,
+        "num": 646172,
+        "word": "比亚迪",
+        "onboard_time": 1716900859,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 520106,
+        "num": 520106,
+        "word": "南京Hero久竞拒绝报价",
+        "onboard_time": 1716899959,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 663812,
+        "num": 508312,
+        "word": "李沁的头冠是3D打印的",
+        "onboard_time": 1716899537,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454962,
+        "num": 454962,
+        "word": "IVE 划水",
+        "onboard_time": 1716900017,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 448191,
+        "num": 448191,
+        "word": "网红王妈签约公司致歉",
+        "onboard_time": 1716893657,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 46763,
+        "num": 433820,
+        "word": "战友牺牲后19岁战士死守第一道防线",
+        "onboard_time": 1716901219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575442,
+        "num": 430726,
+        "word": "丈夫婆婆用被单给怀孕妻子荡秋千",
+        "onboard_time": 1716894497,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451429,
+        "num": 429486,
+        "word": "胡先煦喝醉",
+        "onboard_time": 1716890478,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426601,
+        "num": 426601,
+        "word": "歌手 双补位",
+        "onboard_time": 1716872118,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383491,
+        "num": 383491,
+        "word": "前华为高颜值HR入职京东做主播",
+        "onboard_time": 1716895457,
+        "rank": 13,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 379923,
+        "num": 379923,
+        "word": "官员称还有2个月退休不该过多去问",
+        "onboard_time": 1716896358,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345073,
+        "num": 345073,
+        "word": "林婉儿人设 单薄",
+        "onboard_time": 1716898038,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318119,
+        "num": 318119,
+        "word": "首个未成年人游戏退费标准推出",
+        "onboard_time": 1716894799,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263721,
+        "num": 306317,
+        "word": "第五代DM技术综合续航2100公里",
+        "onboard_time": 1716901458,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 303399,
+        "num": 303399,
+        "word": "徐冬冬尹子维已经可以坦然聊分过手了",
+        "onboard_time": 1716893118,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299669,
+        "num": 299669,
+        "word": "光与夜之恋",
+        "onboard_time": 1716900198,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52479,
+        "num": 295350,
+        "word": "太子给范闲送的贡品是东阿阿胶",
+        "onboard_time": 1716898157,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521509,
+        "num": 295080,
+        "word": "未婚在意外怀孕上要零容错",
+        "onboard_time": 1716882198,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 379686,
+        "num": 293313,
+        "word": "印度男子剖妻孕肚查胎儿性别",
+        "onboard_time": 1716885618,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291163,
+        "num": 291163,
+        "word": "2024腾讯游戏发布会",
+        "onboard_time": 1716900738,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286075,
+        "num": 286075,
+        "word": "上海离婚预约爆满与楼市新政无关",
+        "onboard_time": 1716889758,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284369,
+        "num": 284369,
+        "word": "胡锡进称刘强东急了",
+        "onboard_time": 1716900917,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272077,
+        "num": 272077,
+        "word": "第一次见地铁户型的房子",
+        "onboard_time": 1716892217,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265608,
+        "num": 265608,
+        "word": "歌手第四期歌单",
+        "onboard_time": 1716881177,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258034,
+        "num": 258034,
+        "word": "长公主二皇子顶疯相见",
+        "onboard_time": 1716901818,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235289,
+        "num": 235289,
+        "word": "范闲大婚 寒酸",
+        "onboard_time": 1716877637,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234469,
+        "num": 234469,
+        "word": "1岁宝宝误喝蚊香液中毒离世",
+        "onboard_time": 1716888138,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 202091,
+        "num": 202091,
+        "word": "真的建议在外上厕所用马桶",
+        "onboard_time": 1716879977,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195758,
+        "num": 195758,
+        "word": "背着善宰跑今晚大结局",
+        "onboard_time": 1716893539,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182951,
+        "num": 182951,
+        "word": "文科生 词汇量很大的乞丐",
+        "onboard_time": 1716891918,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181377,
+        "num": 181377,
+        "word": "内娱智性恋天花板",
+        "onboard_time": 1716902298,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159696,
+        "num": 159696,
+        "word": "王妈大学期间拍短视频曾月入70万",
+        "onboard_time": 1716889518,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157549,
+        "num": 157549,
+        "word": "狐妖月红篇有自己的柜哥",
+        "onboard_time": 1716902118,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155118,
+        "num": 155118,
+        "word": "久穿洞洞鞋容易引发脚气",
+        "onboard_time": 1716887477,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168278,
+        "num": 154449,
+        "word": "秦L引领油耗进入2时代",
+        "onboard_time": 1716901698,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152803,
+        "num": 152803,
+        "word": "张若昀父亲被强执2000万",
+        "onboard_time": 1716864559,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149183,
+        "num": 149183,
+        "word": "头发越掉越多怎么办",
+        "onboard_time": 1716897616,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146766,
+        "num": 146766,
+        "word": "男频",
+        "onboard_time": 1716898577,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146324,
+        "num": 146324,
+        "word": "光与夜之恋三周年音乐会",
+        "onboard_time": 1716902358,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135709,
+        "num": 135709,
+        "word": "王力宏 来不来",
+        "onboard_time": 1716886097,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124913,
+        "num": 124913,
+        "word": "翟潇闻直播黑牙了",
+        "onboard_time": 1716902419,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117391,
+        "num": 117391,
+        "word": "华晨宇直播",
+        "onboard_time": 1716898338,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116193,
+        "num": 116193,
+        "word": "爱萝莉删除微笑的留言",
+        "onboard_time": 1716898937,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116181,
+        "num": 116181,
+        "word": "没人有资格教你什么是生活的意义",
+        "onboard_time": 1716897557,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113412,
+        "num": 113412,
+        "word": "尚雯婕晒复旦聘书",
+        "onboard_time": 1716884238,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108309,
+        "num": 108309,
+        "word": "女排联赛",
+        "onboard_time": 1716899658,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中部六省要扛起主体责任让脊梁更硬#"
+    }
+  }
+}
