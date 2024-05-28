@@ -1,0 +1,411 @@
+{
+  "startTime": 1716913392903,
+  "endTime": 1716913392903,
+  "band_list": [
+    {
+      "raw_hot": 1075003,
+      "num": 223144,
+      "word": "第一批丁克开始操心养老",
+      "onboard_time": 1716903197,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 920098,
+      "num": 920098,
+      "word": "以色列拟认定联合国机构为恐怖组织",
+      "onboard_time": 1716907820,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 670102,
+      "num": 670102,
+      "word": "满屏都是唐艺昕",
+      "onboard_time": 1716900318,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 576214,
+      "num": 576214,
+      "word": "前员工称王妈塌房是意料之中",
+      "onboard_time": 1716906140,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 511275,
+      "num": 511275,
+      "word": "撞脸情侣亲缘鉴定结果出来了",
+      "onboard_time": 1716909198,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404415,
+      "num": 404415,
+      "word": "官方回应福宝颈部断毛",
+      "onboard_time": 1716906200,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395987,
+      "num": 395987,
+      "word": "李沁是唐艺昕的伴娘",
+      "onboard_time": 1716908659,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 349964,
+      "num": 349964,
+      "word": "鹿晗小英打牛",
+      "onboard_time": 1716906439,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 334589,
+      "num": 219685,
+      "word": "李云睿李承泽 抽象对话",
+      "onboard_time": 1716909860,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 331493,
+      "num": 214257,
+      "word": "官员称还有2个月退休不该过多去问",
+      "onboard_time": 1716896358,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301762,
+      "num": 155118,
+      "word": "iPhone16Pro显示屏边框或变窄",
+      "onboard_time": 1716904039,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 291559,
+      "num": 151270,
+      "word": "印度男子剖妻孕肚查胎儿性别",
+      "onboard_time": 1716885618,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257800,
+      "num": 210478,
+      "word": "李沁的头冠是3D打印的",
+      "onboard_time": 1716899537,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 249538,
+      "num": 207258,
+      "word": "背着善宰跑大结局",
+      "onboard_time": 1716904758,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 238666,
+      "num": 148038,
+      "word": "人在猝死前会有什么预兆",
+      "onboard_time": 1716902658,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 233594,
+      "num": 233594,
+      "word": "比亚迪",
+      "onboard_time": 1716900859,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 226944,
+      "num": 226944,
+      "word": "上海离婚预约爆满与楼市新政无关",
+      "onboard_time": 1716889758,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203452,
+      "num": 203452,
+      "word": "陈晓光头走红毯",
+      "onboard_time": 1716898096,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176129,
+      "num": 145153,
+      "word": "歌手 双补位",
+      "onboard_time": 1716872118,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169249,
+      "num": 143068,
+      "word": "善宰小率婚礼",
+      "onboard_time": 1716906078,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166167,
+      "num": 140771,
+      "word": "长公主二皇子顶疯相见",
+      "onboard_time": 1716901818,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161389,
+      "num": 161389,
+      "word": "黑神话登上腾讯游戏发布会",
+      "onboard_time": 1716906140,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 159875,
+      "num": 159875,
+      "word": "福宝",
+      "onboard_time": 1716907939,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139649,
+      "num": 139649,
+      "word": "刘宇宁直播cue揭面具",
+      "onboard_time": 1716909500,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137186,
+      "num": 137186,
+      "word": "邱贻可邮票",
+      "onboard_time": 1716907699,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135553,
+      "num": 135553,
+      "word": "邓紫棋上海五天二十三万人",
+      "onboard_time": 1716909260,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 123667,
+      "num": 123667,
+      "word": "当我妈问我相机多少钱时",
+      "onboard_time": 1716910580,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121198,
+      "num": 121198,
+      "word": "newjeans新MV引争议",
+      "onboard_time": 1716905901,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 120148,
+      "num": 158714,
+      "word": "丈夫婆婆用被单给怀孕妻子荡秋千",
+      "onboard_time": 1716894497,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117452,
+      "num": 117452,
+      "word": "未婚在意外怀孕上要零容错",
+      "onboard_time": 1716882198,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 116531,
+      "num": 116531,
+      "word": "曹杨 杰伦严选",
+      "onboard_time": 1716911298,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111575,
+      "num": 156712,
+      "word": "以色列",
+      "onboard_time": 1716913156,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 110996,
+      "num": 110996,
+      "word": "内娱智性恋天花板",
+      "onboard_time": 1716902298,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108734,
+      "num": 108734,
+      "word": "翟潇闻直播黑牙了",
+      "onboard_time": 1716902419,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107829,
+      "num": 107829,
+      "word": "IVE 划水",
+      "onboard_time": 1716900017,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 100692,
+      "num": 100692,
+      "word": "善宰小率婚纱照",
+      "onboard_time": 1716906260,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97173,
+      "num": 97173,
+      "word": "歌手第四期歌单",
+      "onboard_time": 1716881177,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91522,
+      "num": 91522,
+      "word": "胡先煦惹了秦岚等于没惹",
+      "onboard_time": 1716912557,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 84444,
+      "num": 138288,
+      "word": "福宝啥时候上下班全看自己的心情",
+      "onboard_time": 1716908118,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83706,
+      "num": 83706,
+      "word": "多家银行开启沉睡账户唤醒",
+      "onboard_time": 1716903619,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 81074,
+      "num": 81074,
+      "word": "阿沁为詹雯婷陈建宁官司作证",
+      "onboard_time": 1716905060,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80419,
+      "num": 78634,
+      "word": "胡先煦喝醉",
+      "onboard_time": 1716890478,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79138,
+      "num": 79138,
+      "word": "波尔在中国的最后一次冒险",
+      "onboard_time": 1716908358,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78754,
+      "num": 78754,
+      "word": "人字拖",
+      "onboard_time": 1716910998,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 77608,
+      "num": 77608,
+      "word": "庆余年的倾城爸爸们",
+      "onboard_time": 1716910217,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75721,
+      "num": 75721,
+      "word": "老师替你尝了树上樱桃不好吃",
+      "onboard_time": 1716907699,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64697,
+      "num": 75702,
+      "word": "王力宏 来不来",
+      "onboard_time": 1716886097,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 47418,
+      "num": 594611,
+      "word": "浩瀚太空再一次留下中国足迹",
+      "onboard_time": 1716897798,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 28011,
+      "num": 152925,
+      "word": "幼儿园摆27桌坝坝宴请270萌娃",
+      "onboard_time": 1716907759,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13576,
+      "num": 145808,
+      "word": "流浪狗回回已找到领养人",
+      "onboard_time": 1716913276,
+      "rank": 24,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#努力实现关键核心技术自主可控#"
+    }
+  ]
+}

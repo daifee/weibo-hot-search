@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716910487170,
+  "endTime": 1716913392903,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -563,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 920098,
+      "num": 920098,
+      "word": "以色列拟认定联合国机构为恐怖组织",
+      "onboard_time": 1716907820,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 902001,
       "num": 902001,
       "word": "长期不说话或少说话有什么后果",
@@ -865,14 +873,6 @@
       "onboard_time": 1716857059,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 766059,
-      "num": 766059,
-      "word": "以色列拟认定联合国机构为恐怖组织",
-      "onboard_time": 1716907820,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 761475,
@@ -1665,6 +1665,14 @@
       "onboard_time": 1716878958,
       "rank": 17,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 511275,
+      "num": 511275,
+      "word": "撞脸情侣亲缘鉴定结果出来了",
+      "onboard_time": 1716909198,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511198,
@@ -2705,6 +2713,14 @@
       "onboard_time": 1716800659,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 334589,
+      "num": 219685,
+      "word": "李云睿李承泽 抽象对话",
+      "onboard_time": 1716909860,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 333201,
@@ -4187,14 +4203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211161,
-      "num": 190912,
-      "word": "李云睿李承泽 抽象对话",
-      "onboard_time": 1716909860,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211074,
       "num": 211074,
       "word": "背着善宰跑大结局预告",
@@ -4569,14 +4577,6 @@
       "onboard_time": 1716909260,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199756,
-      "num": 199756,
-      "word": "撞脸情侣亲缘鉴定结果出来了",
-      "onboard_time": 1716909198,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199674,
@@ -7131,6 +7131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123667,
+      "num": 123667,
+      "word": "当我妈问我相机多少钱时",
+      "onboard_time": 1716910580,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123123,
       "num": 123123,
       "word": "塔图姆36分",
@@ -7427,6 +7435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116531,
+      "num": 116531,
+      "word": "曹杨 杰伦严选",
+      "onboard_time": 1716911298,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115738,
       "num": 115738,
       "word": "郑钦文法网开门红",
@@ -7553,6 +7569,14 @@
       "onboard_time": 1716885557,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111575,
+      "num": 156712,
+      "word": "以色列",
+      "onboard_time": 1716913156,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 111475,
@@ -8003,6 +8027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91522,
+      "num": 91522,
+      "word": "胡先煦惹了秦岚等于没惹",
+      "onboard_time": 1716912557,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90723,
       "num": 90723,
       "word": "男童不慎把520胶水抹胳膊和嘴上",
@@ -8145,6 +8177,14 @@
       "onboard_time": 1716854117,
       "rank": 49,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 78754,
+      "num": 78754,
+      "word": "人字拖",
+      "onboard_time": 1716910998,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 78611,
@@ -8835,6 +8875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28011,
+      "num": 152925,
+      "word": "幼儿园摆27桌坝坝宴请270萌娃",
+      "onboard_time": 1716907759,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25811,
       "num": 470614,
       "word": "传统文化闪耀文博会",
@@ -8921,6 +8969,14 @@
       "onboard_time": 1716844330,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 13576,
+      "num": 145808,
+      "word": "流浪狗回回已找到领养人",
+      "onboard_time": 1716913276,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13415,
