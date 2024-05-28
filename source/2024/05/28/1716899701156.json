@@ -1,0 +1,410 @@
+{
+  "runTime": 1716899701156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 873825,
+        "num": 873825,
+        "word": "网红王妈签约公司致歉",
+        "onboard_time": 1716893657,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 789352,
+        "num": 789352,
+        "word": "丈夫婆婆用被单给怀孕妻子荡秋千",
+        "onboard_time": 1716894497,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51674,
+        "num": 723584,
+        "word": "换一种方式打开北京的盛夏",
+        "onboard_time": 1716888677,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720586,
+        "num": 720586,
+        "word": "胡先煦喝醉",
+        "onboard_time": 1716890478,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718113,
+        "num": 718113,
+        "word": "前华为高颜值HR入职京东做主播",
+        "onboard_time": 1716895457,
+        "rank": 4,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 614648,
+        "num": 614648,
+        "word": "陈晓光头走红毯",
+        "onboard_time": 1716898096,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 605657,
+        "num": 605657,
+        "word": "首个未成年人游戏退费标准推出",
+        "onboard_time": 1716894799,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522944,
+        "num": 522944,
+        "word": "第一次见地铁户型的房子",
+        "onboard_time": 1716892217,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 441685,
+        "num": 441685,
+        "word": "歌手 双补位",
+        "onboard_time": 1716872118,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386819,
+        "num": 437436,
+        "word": "上海婚姻登记处回应离婚预约爆满",
+        "onboard_time": 1716889758,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434128,
+        "num": 434128,
+        "word": "徐冬冬尹子维已经可以坦然聊分过手了",
+        "onboard_time": 1716893118,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402750,
+        "num": 402750,
+        "word": "林婉儿人设 单薄",
+        "onboard_time": 1716898038,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317984,
+        "num": 317984,
+        "word": "歌手第四期歌单",
+        "onboard_time": 1716881177,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316645,
+        "num": 316645,
+        "word": "范闲大婚 寒酸",
+        "onboard_time": 1716877637,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307952,
+        "num": 307952,
+        "word": "张若昀父亲被强执2000万",
+        "onboard_time": 1716864559,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304541,
+        "num": 304541,
+        "word": "文科生 词汇量很大的乞丐",
+        "onboard_time": 1716891918,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215286,
+        "num": 215286,
+        "word": "王妈大学期间拍短视频曾月入70万",
+        "onboard_time": 1716889518,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204447,
+        "num": 204447,
+        "word": "神十八航天员圆满完成首次出舱",
+        "onboard_time": 1716895396,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203643,
+        "num": 203643,
+        "word": "广州首套房首付最低15%",
+        "onboard_time": 1716893297,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178532,
+        "num": 203283,
+        "word": "官员称还有2个月退休不该过多去问",
+        "onboard_time": 1716896358,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486203,
+        "num": 201726,
+        "word": "未婚在意外怀孕上要零容错",
+        "onboard_time": 1716882198,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 27664,
+        "num": 199481,
+        "word": "太子给范闲送的贡品是东阿阿胶",
+        "onboard_time": 1716898157,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403806,
+        "num": 198096,
+        "word": "印度男子剖妻孕肚查胎儿性别",
+        "onboard_time": 1716885618,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308706,
+        "num": 196119,
+        "word": "1岁宝宝误喝蚊香液中毒离世",
+        "onboard_time": 1716888138,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 221334,
+        "num": 195579,
+        "word": "辛芷蕾去泰国只办一件事",
+        "onboard_time": 1716890719,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194496,
+        "num": 194496,
+        "word": "男频",
+        "onboard_time": 1716898577,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187192,
+        "num": 187192,
+        "word": "真的建议在外上厕所用马桶",
+        "onboard_time": 1716879977,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187153,
+        "num": 187153,
+        "word": "华晨宇直播",
+        "onboard_time": 1716898338,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183604,
+        "num": 183604,
+        "word": "久穿洞洞鞋容易引发脚气",
+        "onboard_time": 1716887477,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170832,
+        "num": 170832,
+        "word": "背着善宰跑今晚大结局",
+        "onboard_time": 1716893539,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165087,
+        "num": 165087,
+        "word": "荣耀赵明称友商都会跟进荣耀AI",
+        "onboard_time": 1716899118,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156350,
+        "num": 156350,
+        "word": "王力宏 来不来",
+        "onboard_time": 1716886097,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149682,
+        "num": 149682,
+        "word": "李沁的头冠是3D打印的",
+        "onboard_time": 1716899537,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149547,
+        "num": 149547,
+        "word": "张玉安韩国工作被取消",
+        "onboard_time": 1716878777,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148648,
+        "num": 148648,
+        "word": "尚雯婕晒复旦聘书",
+        "onboard_time": 1716884238,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118548,
+        "num": 141242,
+        "word": "头发越掉越多怎么办",
+        "onboard_time": 1716897616,
+        "rank": 35,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 136926,
+        "num": 136926,
+        "word": "没人有资格教你什么是生活的意义",
+        "onboard_time": 1716897557,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134399,
+        "num": 134399,
+        "word": "爱萝莉删除微笑的留言",
+        "onboard_time": 1716898937,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131918,
+        "num": 131918,
+        "word": "庆余年放榜 范进中举",
+        "onboard_time": 1716888438,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129919,
+        "num": 129919,
+        "word": "清融入选梦之队",
+        "onboard_time": 1716899417,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127209,
+        "num": 127209,
+        "word": "孩子们跟着国产剧上语文课",
+        "onboard_time": 1716899537,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115738,
+        "num": 115738,
+        "word": "郑钦文法网开门红",
+        "onboard_time": 1716899537,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113256,
+        "num": 113256,
+        "word": "乘风直播赛阵容官宣",
+        "onboard_time": 1716892398,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111606,
+        "num": 111606,
+        "word": "李昊广州音乐会",
+        "onboard_time": 1716897857,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109639,
+        "num": 109639,
+        "word": "判断一个人上班是否痛苦的依据",
+        "onboard_time": 1716892638,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107314,
+        "num": 107314,
+        "word": "范若若骑王启年全剧无敌",
+        "onboard_time": 1716888378,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103347,
+        "num": 103347,
+        "word": "最传统的鱼香肉丝真的要用鱼做",
+        "onboard_time": 1716894799,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101850,
+        "num": 101850,
+        "word": "养狗的意义在这一刻达到了顶峰",
+        "onboard_time": 1716899537,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100972,
+        "num": 100972,
+        "word": "女排联赛",
+        "onboard_time": 1716899658,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100863,
+        "num": 100863,
+        "word": "中共中央政治局第十四次集体学习",
+        "onboard_time": 1716890658,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力实现关键核心技术自主可控#"
+    }
+  }
+}
