@@ -1,10 +1,10 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716935718509,
+  "endTime": 1716938416315,
   "band_list": [
     {
       "raw_hot": 1075003,
-      "num": 281818,
+      "num": 282866,
       "word": "第一批丁克开始操心养老",
       "onboard_time": 1716903197,
       "rank": 10,
@@ -19,6 +19,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 830432,
+      "num": 830432,
+      "word": "以色列",
+      "onboard_time": 1716913156,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 670102,
       "num": 670102,
       "word": "满屏都是唐艺昕",
@@ -27,16 +35,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 578922,
-      "num": 578922,
-      "word": "以色列",
-      "onboard_time": 1716913156,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 576214,
-      "num": 576214,
+      "raw_hot": 645878,
+      "num": 645878,
       "word": "前员工称王妈塌房是意料之中",
       "onboard_time": 1716906140,
       "rank": 3,
@@ -67,11 +67,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 376005,
+      "num": 376005,
+      "word": "多家银行开启沉睡账户唤醒",
+      "onboard_time": 1716903619,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 349964,
       "num": 349964,
       "word": "鹿晗小英打牛",
       "onboard_time": 1716906439,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 343135,
+      "num": 343135,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -91,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323480,
+      "num": 323480,
+      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+      "onboard_time": 1716923711,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301762,
       "num": 155118,
       "word": "iPhone16Pro显示屏边框或变窄",
@@ -104,6 +128,14 @@
       "word": "印度男子剖妻孕肚查胎儿性别",
       "onboard_time": 1716885618,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286685,
+      "num": 286685,
+      "word": "老师替你尝了树上樱桃不好吃",
+      "onboard_time": 1716907699,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -195,28 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158853,
-      "num": 158853,
-      "word": "多家银行开启沉睡账户唤醒",
-      "onboard_time": 1716903619,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 143683,
-      "num": 143683,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 140811,
-      "num": 107551,
-      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
-      "onboard_time": 1716923711,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 140559,
+      "num": 140559,
+      "word": "关于我和鬼成为朋友这件事",
+      "onboard_time": 1716919152,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 139649,
@@ -315,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107528,
+      "num": 107528,
+      "word": "阿沁为詹雯婷陈建宁官司作证",
+      "onboard_time": 1716905060,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100692,
       "num": 100692,
       "word": "善宰小率婚纱照",
@@ -337,14 +361,6 @@
       "onboard_time": 1716908118,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81074,
-      "num": 81074,
-      "word": "阿沁为詹雯婷陈建宁官司作证",
-      "onboard_time": 1716905060,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 80419,
@@ -379,20 +395,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75721,
-      "num": 75721,
-      "word": "老师替你尝了树上樱桃不好吃",
-      "onboard_time": 1716907699,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 73767,
+      "num": 73767,
+      "word": "第一次见地铁户型的房子",
+      "onboard_time": 1716892217,
+      "rank": 49,
+      "category": "幽默"
     },
     {
-      "raw_hot": 71500,
-      "num": 71500,
-      "word": "关于我和鬼成为朋友这件事",
-      "onboard_time": 1716919152,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 68394,
+      "num": 68394,
+      "word": "张馨予红发造型",
+      "onboard_time": 1716934632,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 64697,
@@ -403,28 +419,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51402,
-      "num": 51402,
+      "raw_hot": 63964,
+      "num": 63964,
       "word": "黄金价格还会继续上涨吗",
       "onboard_time": 1716928211,
       "rank": 43,
       "category": "财经"
     },
     {
+      "raw_hot": 60591,
+      "num": 60591,
+      "word": "张若昀两黑粉被强执5万",
+      "onboard_time": 1716933973,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49749,
+      "num": 60432,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1716920292,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 49705,
+      "num": 60316,
+      "word": "徐冬冬尹子维已经可以坦然聊分过手了",
+      "onboard_time": 1716893118,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49310,
-      "num": 49310,
+      "num": 60164,
       "word": "大皇子用脸骂人",
       "onboard_time": 1716928991,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48368,
-      "num": 69788,
-      "word": "第一次见地铁户型的房子",
-      "onboard_time": 1716892217,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 47418,
@@ -435,28 +467,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32648,
-      "num": 32648,
-      "word": "张若昀两黑粉被强执5万",
-      "onboard_time": 1716933973,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 40573,
+      "num": 78760,
+      "word": "七仔开始有爷叔气质了",
+      "onboard_time": 1716938235,
+      "rank": 26,
+      "category": "幽默"
     },
     {
-      "raw_hot": 31638,
-      "num": 31638,
-      "word": "徐冬冬尹子维已经可以坦然聊分过手了",
-      "onboard_time": 1716893118,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 39669,
+      "num": 59536,
+      "word": "外交部批美方在台湾问题上错上加错",
+      "onboard_time": 1716918612,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 31101,
-      "num": 31101,
-      "word": "张馨予红发造型",
-      "onboard_time": 1716934632,
-      "rank": 49,
-      "category": "作品衍生"
+      "raw_hot": 36888,
+      "num": 59219,
+      "word": "林婉儿人设 单薄",
+      "onboard_time": 1716898038,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 30960,
@@ -465,22 +497,6 @@
       "onboard_time": 1716913276,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30886,
-      "num": 37364,
-      "word": "林婉儿人设 单薄",
-      "onboard_time": 1716898038,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 29458,
-      "num": 32435,
-      "word": "外交部批美方在台湾问题上错上加错",
-      "onboard_time": 1716918612,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28011,
@@ -497,14 +513,6 @@
       "onboard_time": 1716915135,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25423,
-      "num": 30869,
-      "word": "我的麦子熟了 我也该醒了",
-      "onboard_time": 1716920292,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 18363,
