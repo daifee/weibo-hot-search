@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/28 13:18:27
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/28 13:34:16
 </p>
 </blockquote>
 <p>
@@ -3405,6 +3405,12 @@ B站取消播放时长指标外显改版（热度：1222790）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E9%95%BF%E5%BE%97%E5%A4%AA%E5%83%8F%E5%90%AC%E7%BD%91%E5%8F%8B%E5%8A%9D%E5%8E%BB%E5%81%9A%E4%BA%B2%E7%BC%98%E9%89%B4%E5%AE%9A%23" target="weibo">
+情侣长得太像听网友劝去做亲缘鉴定（热度：1160230）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E9%A9%AC%E5%85%89%20%E5%AF%B9%E4%B8%8D%E8%B5%B7%E8%AE%A9%E5%A4%A7%E5%AE%B6%E5%A4%B1%E6%9C%9B%E4%BA%86%23" target="weibo">
 司马光 对不起让大家失望了（热度：1156957）
 </a>
@@ -6005,12 +6011,6 @@ Uzi G2（热度：837211）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%A6%88%E5%A6%88%E6%98%AF%E6%9D%A5%E5%BD%95%E9%99%88%E8%B5%AB%E5%90%90%E6%A7%BD%E5%A4%A7%E4%BC%9A%E5%90%97%23" target="weibo">
 陈赫妈妈是来录陈赫吐槽大会吗（热度：825153）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E7%BC%87%E8%8E%AB%E7%AC%AC%E4%B8%89%23" target="weibo">
-香缇莫第三（热度：822652）
 </a>
 </li>
 

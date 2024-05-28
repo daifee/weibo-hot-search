@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716873507702,
+  "endTime": 1716874456303,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -4521,6 +4521,14 @@
       "onboard_time": 1715949260,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1160230,
+      "num": 1160230,
+      "word": "情侣长得太像听网友劝去做亲缘鉴定",
+      "onboard_time": 1716872359,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1156957,
@@ -9635,6 +9643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 731254,
+      "num": 514367,
+      "word": "重庆动物园称赵丽颖为顶流女明星",
+      "onboard_time": 1716870680,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 730615,
       "num": 480294,
       "word": "王菲和龚琳娜别打麻将啦",
@@ -10419,14 +10435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 694973,
-      "num": 514367,
-      "word": "重庆动物园称赵丽颖为顶流女明星",
-      "onboard_time": 1716870680,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 693768,
       "num": 563595,
       "word": "鹿晗回应剪发",
@@ -10697,14 +10705,6 @@
       "onboard_time": 1715814734,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 684791,
-      "num": 684791,
-      "word": "情侣长得太像听网友劝去做亲缘鉴定",
-      "onboard_time": 1716872359,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 684586,
@@ -12563,6 +12563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 620232,
+      "num": 620232,
+      "word": "一个榴莲真能顶三只鸡吗",
+      "onboard_time": 1716869599,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 619742,
       "num": 619742,
       "word": "根本认不出是黄小蕾",
@@ -13712,6 +13720,14 @@
       "word": "为什么小肚子会有一条痕",
       "onboard_time": 1716609800,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 578083,
+      "num": 269583,
+      "word": "同事怀孕后我辞职了",
+      "onboard_time": 1716871339,
+      "rank": 20,
       "category": "情感"
     },
     {
@@ -14923,14 +14939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 542927,
-      "num": 542927,
-      "word": "一个榴莲真能顶三只鸡吗",
-      "onboard_time": 1716869599,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 542814,
       "num": 788687,
       "word": "Hush报名歌手",
@@ -15537,14 +15545,6 @@
       "onboard_time": 1715241919,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 524777,
-      "num": 269583,
-      "word": "同事怀孕后我辞职了",
-      "onboard_time": 1716871339,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 524678,
@@ -26011,6 +26011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327967,
+      "num": 233187,
+      "word": "克拉岛官宣",
+      "onboard_time": 1716873858,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327919,
       "num": 316015,
       "word": "谢帝又被diss了",
@@ -29611,6 +29619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281302,
+      "num": 240792,
+      "word": "为什么小脚趾的趾甲分成两瓣",
+      "onboard_time": 1716867617,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 281092,
       "num": 281092,
       "word": "狗狗闯红灯被交警警告了一下",
@@ -30273,6 +30289,14 @@
       "onboard_time": 1715619434,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 275147,
+      "num": 275147,
+      "word": "iPad或改变logo方向",
+      "onboard_time": 1716873018,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 275109,
@@ -32779,14 +32803,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 250866,
-      "num": 240792,
-      "word": "为什么小脚趾的趾甲分成两瓣",
-      "onboard_time": 1716867617,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 250817,
       "num": 218264,
       "word": "王一栩回应狐妖争议",
@@ -35265,6 +35281,14 @@
       "onboard_time": 1715767877,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231205,
+      "num": 231205,
+      "word": "狗狗挖出了一只小猫咪",
+      "onboard_time": 1716871880,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 231121,
@@ -38475,14 +38499,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 211667,
-      "num": 211667,
-      "word": "狗狗挖出了一只小猫咪",
-      "onboard_time": 1716871880,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211561,
       "num": 211561,
       "word": "Ale加入AL",
@@ -40963,14 +40979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202004,
-      "num": 202004,
-      "word": "iPad或改变logo方向",
-      "onboard_time": 1716873018,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 201920,
       "num": 201920,
       "word": "范闲庆1假死镜头重拍",
@@ -41041,6 +41049,14 @@
       "onboard_time": 1715653577,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201657,
+      "num": 201657,
+      "word": "张雪峰忙飞了",
+      "onboard_time": 1716873138,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 201656,
@@ -42579,6 +42595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197172,
+      "num": 197172,
+      "word": "周杰伦四开",
+      "onboard_time": 1716873318,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197169,
       "num": 197169,
       "word": "王鹤棣孟子义体型差",
@@ -43057,14 +43081,6 @@
       "onboard_time": 1715350460,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195717,
-      "num": 195717,
-      "word": "张雪峰忙飞了",
-      "onboard_time": 1716873138,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 195714,
@@ -46363,6 +46379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184965,
+      "num": 184965,
+      "word": "浙大学子的毕业仪式感",
+      "onboard_time": 1716873738,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 184961,
       "num": 184961,
       "word": "贺军翔正在拍戏",
@@ -46513,6 +46537,14 @@
       "onboard_time": 1714734558,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184519,
+      "num": 184519,
+      "word": "北京市民投诉小米汽车城市路测",
+      "onboard_time": 1716874220,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 184500,
@@ -49516,7 +49548,7 @@
     },
     {
       "raw_hot": 172889,
-      "num": 234584,
+      "num": 305124,
       "word": "上海已有开发商购房者动起来了",
       "onboard_time": 1716868698,
       "rank": 41,
@@ -51513,14 +51545,6 @@
       "onboard_time": 1714730599,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165483,
-      "num": 165483,
-      "word": "周杰伦四开",
-      "onboard_time": 1716873318,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 165481,
@@ -67323,6 +67347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109139,
+      "num": 250038,
+      "word": "比亚迪发布会",
+      "onboard_time": 1716871040,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 109086,
       "num": 418562,
       "word": "青岛人五一期间选择蹲家游",
@@ -69985,14 +70017,6 @@
       "onboard_time": 1714515252,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90776,
-      "num": 250038,
-      "word": "比亚迪发布会",
-      "onboard_time": 1716871040,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 90755,
@@ -73531,6 +73555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51411,
+      "num": 533016,
+      "word": "你是否有过找食品标签的体验",
+      "onboard_time": 1716872419,
+      "rank": 9,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 51385,
       "num": 51385,
       "word": "体态变差的根源居然是恐惧",
@@ -74993,14 +75025,6 @@
       "onboard_time": 1716840730,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34597,
-      "num": 533016,
-      "word": "你是否有过找食品标签的体验",
-      "onboard_time": 1716872419,
-      "rank": 9,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 34568,

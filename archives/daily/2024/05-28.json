@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716873507702,
+  "endTime": 1716874456303,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -57,6 +57,14 @@
       "onboard_time": 1716819439,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1160230,
+      "num": 1160230,
+      "word": "情侣长得太像听网友劝去做亲缘鉴定",
+      "onboard_time": 1716872359,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1074495,
@@ -163,20 +171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 694973,
+      "raw_hot": 731254,
       "num": 514367,
       "word": "重庆动物园称赵丽颖为顶流女明星",
       "onboard_time": 1716870680,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 684791,
-      "num": 684791,
-      "word": "情侣长得太像听网友劝去做亲缘鉴定",
-      "onboard_time": 1716872359,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 635381,
@@ -185,6 +185,22 @@
       "onboard_time": 1716820099,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 620232,
+      "num": 620232,
+      "word": "一个榴莲真能顶三只鸡吗",
+      "onboard_time": 1716869599,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 578083,
+      "num": 269583,
+      "word": "同事怀孕后我辞职了",
+      "onboard_time": 1716871339,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 577090,
@@ -209,22 +225,6 @@
       "onboard_time": 1716865698,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 542927,
-      "num": 542927,
-      "word": "一个榴莲真能顶三只鸡吗",
-      "onboard_time": 1716869599,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 524777,
-      "num": 269583,
-      "word": "同事怀孕后我辞职了",
-      "onboard_time": 1716871339,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 519453,
@@ -363,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 327967,
+      "num": 233187,
+      "word": "克拉岛官宣",
+      "onboard_time": 1716873858,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327390,
       "num": 327390,
       "word": "金晨鼻子",
@@ -435,6 +443,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 281302,
+      "num": 240792,
+      "word": "为什么小脚趾的趾甲分成两瓣",
+      "onboard_time": 1716867617,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 277369,
       "num": 277369,
       "word": "外媒把吴君如认成了章子怡",
@@ -449,6 +465,14 @@
       "onboard_time": 1716871520,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 275147,
+      "num": 275147,
+      "word": "iPad或改变logo方向",
+      "onboard_time": 1716873018,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 275109,
@@ -539,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250866,
-      "num": 240792,
-      "word": "为什么小脚趾的趾甲分成两瓣",
-      "onboard_time": 1716867617,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 246263,
       "num": 246263,
       "word": "布兰妮珠宝被偷",
@@ -592,6 +608,14 @@
       "word": "把男朋友车磕了如何补偿",
       "onboard_time": 1716856158,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 231205,
+      "num": 231205,
+      "word": "狗狗挖出了一只小猫咪",
+      "onboard_time": 1716871880,
+      "rank": 32,
       "category": "情感"
     },
     {
@@ -643,14 +667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211667,
-      "num": 211667,
-      "word": "狗狗挖出了一只小猫咪",
-      "onboard_time": 1716871880,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210289,
       "num": 210289,
       "word": "涂山红红是涂山大动脉",
@@ -675,12 +691,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 202004,
-      "num": 202004,
-      "word": "iPad或改变logo方向",
-      "onboard_time": 1716873018,
-      "rank": 33,
-      "category": "数码"
+      "raw_hot": 201657,
+      "num": 201657,
+      "word": "张雪峰忙飞了",
+      "onboard_time": 1716873138,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 201017,
@@ -723,12 +739,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195717,
-      "num": 195717,
-      "word": "张雪峰忙飞了",
-      "onboard_time": 1716873138,
-      "rank": 35,
-      "category": "教育"
+      "raw_hot": 197172,
+      "num": 197172,
+      "word": "周杰伦四开",
+      "onboard_time": 1716873318,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 195267,
@@ -761,6 +777,22 @@
       "onboard_time": 1716865279,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184965,
+      "num": 184965,
+      "word": "浙大学子的毕业仪式感",
+      "onboard_time": 1716873738,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 184519,
+      "num": 184519,
+      "word": "北京市民投诉小米汽车城市路测",
+      "onboard_time": 1716874220,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 184332,
@@ -844,7 +876,7 @@
     },
     {
       "raw_hot": 172889,
-      "num": 234584,
+      "num": 305124,
       "word": "上海已有开发商购房者动起来了",
       "onboard_time": 1716868698,
       "rank": 41,
@@ -865,14 +897,6 @@
       "onboard_time": 1716859698,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 165483,
-      "num": 165483,
-      "word": "周杰伦四开",
-      "onboard_time": 1716873318,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 165158,
@@ -1243,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109139,
+      "num": 250038,
+      "word": "比亚迪发布会",
+      "onboard_time": 1716871040,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 103880,
       "num": 265468,
       "word": "车队军训太帅了",
@@ -1321,14 +1353,6 @@
       "onboard_time": 1716829693,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90776,
-      "num": 250038,
-      "word": "比亚迪发布会",
-      "onboard_time": 1716871040,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 90723,
@@ -1563,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51411,
+      "num": 533016,
+      "word": "你是否有过找食品标签的体验",
+      "onboard_time": 1716872419,
+      "rank": 9,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 50350,
       "num": 50350,
       "word": "流浪狗回回挖土救猫咪",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1716840730,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34597,
-      "num": 533016,
-      "word": "你是否有过找食品标签的体验",
-      "onboard_time": 1716872419,
-      "rank": 9,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 32177,
