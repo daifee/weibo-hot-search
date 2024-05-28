@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716892612392,
+  "endTime": 1716894960450,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1095044,
+      "num": 1095044,
+      "word": "胡先煦喝醉",
+      "onboard_time": 1716890478,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1087815,
       "num": 1087815,
       "word": "525",
@@ -499,14 +507,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 940501,
-      "num": 940501,
-      "word": "胡先煦喝醉",
-      "onboard_time": 1716890478,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 921325,
       "num": 753934,
       "word": "女儿工作后每月都会给我一千块钱",
@@ -545,6 +545,14 @@
       "onboard_time": 1716734059,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 888138,
+      "num": 888138,
+      "word": "网红王妈签约公司致歉",
+      "onboard_time": 1716893657,
+      "rank": 3,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 886181,
@@ -843,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 740670,
+      "num": 740670,
+      "word": "徐冬冬尹子维已经可以坦然聊分过手了",
+      "onboard_time": 1716893118,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 740461,
       "num": 717497,
       "word": "黄日莹脸上缝了七针",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1716788118,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 622325,
+      "num": 622325,
+      "word": "王妈大学期间拍短视频曾月入70万",
+      "onboard_time": 1716889518,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 620232,
@@ -1547,6 +1571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 498818,
+      "num": 498818,
+      "word": "辛芷蕾去泰国只办一件事",
+      "onboard_time": 1716890719,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496787,
       "num": 300651,
       "word": "35岁失业后假装上班6个月",
@@ -1601,14 +1633,6 @@
       "onboard_time": 1716809717,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 490193,
-      "num": 490193,
-      "word": "王妈大学期间拍短视频曾月入70万",
-      "onboard_time": 1716889518,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 489086,
@@ -1681,6 +1705,14 @@
       "onboard_time": 1716659955,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471528,
+      "num": 310128,
+      "word": "文科生 词汇量很大的乞丐",
+      "onboard_time": 1716891918,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 471180,
@@ -2699,6 +2731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 296757,
+      "num": 296757,
+      "word": "广州首套房首付最低15%",
+      "onboard_time": 1716893297,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295214,
       "num": 295214,
       "word": "我保持单身的三大好习惯",
@@ -2923,14 +2963,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 271526,
-      "num": 271526,
-      "word": "辛芷蕾去泰国只办一件事",
-      "onboard_time": 1716890719,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271169,
       "num": 150642,
       "word": "绍兴课上开黄腔教师被警告处分",
@@ -2969,6 +3001,22 @@
       "onboard_time": 1716860478,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266562,
+      "num": 266562,
+      "word": "LWX遭老头杯官方开庭",
+      "onboard_time": 1716891497,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 266486,
+      "num": 206855,
+      "word": "第一次见地铁户型的房子",
+      "onboard_time": 1716892217,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 265787,
@@ -3723,6 +3771,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 215828,
+      "num": 207221,
+      "word": "乘风直播赛阵容官宣",
+      "onboard_time": 1716892398,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215824,
       "num": 215824,
       "word": "邓紫棋演唱会",
@@ -4024,14 +4080,6 @@
       "word": "Ning谈xiye加入TES",
       "onboard_time": 1716693257,
       "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 203185,
-      "num": 203185,
-      "word": "LWX遭老头杯官方开庭",
-      "onboard_time": 1716891497,
-      "rank": 45,
       "category": "电竞"
     },
     {
@@ -4483,6 +4531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187437,
+      "num": 358818,
+      "word": "河流污染恶臭相关部门坚称没问题",
+      "onboard_time": 1716890838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186983,
       "num": 186983,
       "word": "演员刘金自曝被欠薪",
@@ -4627,6 +4683,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 183255,
+      "num": 183255,
+      "word": "首个未成年人游戏退费标准推出",
+      "onboard_time": 1716894799,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183165,
       "num": 176571,
       "word": "李健唱了小时候总听的歌",
@@ -4721,6 +4785,14 @@
       "onboard_time": 1716865038,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179335,
+      "num": 179335,
+      "word": "背着善宰跑今晚大结局",
+      "onboard_time": 1716893539,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 178567,
@@ -4865,14 +4937,6 @@
       "onboard_time": 1716697938,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173969,
-      "num": 173969,
-      "word": "文科生 词汇量很大的乞丐",
-      "onboard_time": 1716891918,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 173783,
@@ -5555,14 +5619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149494,
-      "num": 149494,
-      "word": "第一次见地铁户型的房子",
-      "onboard_time": 1716892217,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149477,
       "num": 254172,
       "word": "成都蓉城7比0青岛西海岸",
@@ -5729,6 +5785,14 @@
       "onboard_time": 1716732919,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142723,
+      "num": 142723,
+      "word": "我的童年原来这么丰富多彩",
+      "onboard_time": 1716893899,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 142445,
@@ -5971,6 +6035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135856,
+      "num": 135856,
+      "word": "辽宁男篮签约阿丘尔",
+      "onboard_time": 1716893476,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135734,
       "num": 167013,
       "word": "求职找工作避坑指南",
@@ -6051,20 +6123,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134543,
+      "num": 134543,
+      "word": "判断一个人上班是否痛苦的依据",
+      "onboard_time": 1716892638,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134254,
       "num": 134254,
       "word": "兰州马拉松",
       "onboard_time": 1716690977,
       "rank": 42,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 134023,
-      "num": 134023,
-      "word": "乘风直播赛阵容官宣",
-      "onboard_time": 1716892398,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 133931,
@@ -6481,6 +6553,14 @@
       "onboard_time": 1716696677,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122929,
+      "num": 122929,
+      "word": "最传统的鱼香肉丝真的要用鱼做",
+      "onboard_time": 1716894799,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 122920,
@@ -7219,6 +7299,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 93631,
+      "num": 206674,
+      "word": "鱼香肉丝里到底有没有鱼",
+      "onboard_time": 1716893118,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93247,
       "num": 93247,
       "word": "许玮甯回应杨丞琳被歌手淘汰",
@@ -7248,14 +7336,6 @@
       "word": "文脉华章",
       "onboard_time": 1716796038,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92548,
-      "num": 358818,
-      "word": "河流污染恶臭相关部门坚称没问题",
-      "onboard_time": 1716890838,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -7313,6 +7393,14 @@
       "onboard_time": 1716835092,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89061,
+      "num": 213779,
+      "word": "丈夫婆婆用被单给怀孕妻子荡秋千",
+      "onboard_time": 1716894497,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87144,
@@ -7532,7 +7620,7 @@
     },
     {
       "raw_hot": 71416,
-      "num": 766020,
+      "num": 896074,
       "word": "换一种方式打开北京的盛夏",
       "onboard_time": 1716888677,
       "rank": 2,
@@ -7856,6 +7944,14 @@
       "word": "丰收里的中国舒展最美画卷",
       "onboard_time": 1716783022,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44251,
+      "num": 206742,
+      "word": "中法艺术60年联动大秀",
+      "onboard_time": 1716894257,
+      "rank": 31,
       "category": "社会新闻"
     },
     {

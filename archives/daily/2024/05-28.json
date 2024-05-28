@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716892612392,
+  "endTime": 1716894960450,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -83,6 +83,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1095044,
+      "num": 1095044,
+      "word": "胡先煦喝醉",
+      "onboard_time": 1716890478,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1074495,
       "num": 1074495,
       "word": "林婉儿 工具人",
@@ -139,20 +147,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 940501,
-      "num": 940501,
-      "word": "胡先煦喝醉",
-      "onboard_time": 1716890478,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 901709,
       "num": 559094,
       "word": "张玉安韩国工作被取消",
       "onboard_time": 1716878777,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 888138,
+      "num": 888138,
+      "word": "网红王妈签约公司致歉",
+      "onboard_time": 1716893657,
+      "rank": 3,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 886181,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 740670,
+      "num": 740670,
+      "word": "徐冬冬尹子维已经可以坦然聊分过手了",
+      "onboard_time": 1716893118,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 736669,
       "num": 587229,
       "word": "歌手第四期歌单",
@@ -305,6 +321,14 @@
       "onboard_time": 1716820099,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 622325,
+      "num": 622325,
+      "word": "王妈大学期间拍短视频曾月入70万",
+      "onboard_time": 1716889518,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 620232,
@@ -427,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 498818,
+      "num": 498818,
+      "word": "辛芷蕾去泰国只办一件事",
+      "onboard_time": 1716890719,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492463,
       "num": 247474,
       "word": "癌细胞最偏爱3种口味",
@@ -435,12 +467,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 490193,
-      "num": 490193,
-      "word": "王妈大学期间拍短视频曾月入70万",
-      "onboard_time": 1716889518,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 471528,
+      "num": 310128,
+      "word": "文科生 词汇量很大的乞丐",
+      "onboard_time": 1716891918,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 471180,
@@ -699,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296757,
+      "num": 296757,
+      "word": "广州首套房首付最低15%",
+      "onboard_time": 1716893297,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293119,
       "num": 285627,
       "word": "权志龙将参加KAIST脱口秀",
@@ -771,14 +811,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 271526,
-      "num": 271526,
-      "word": "辛芷蕾去泰国只办一件事",
-      "onboard_time": 1716890719,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271169,
       "num": 150642,
       "word": "绍兴课上开黄腔教师被警告处分",
@@ -825,6 +857,22 @@
       "onboard_time": 1716860478,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266562,
+      "num": 266562,
+      "word": "LWX遭老头杯官方开庭",
+      "onboard_time": 1716891497,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 266486,
+      "num": 206855,
+      "word": "第一次见地铁户型的房子",
+      "onboard_time": 1716892217,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 266000,
@@ -1067,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215828,
+      "num": 207221,
+      "word": "乘风直播赛阵容官宣",
+      "onboard_time": 1716892398,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214636,
       "num": 214636,
       "word": "为打工人说话就为收割流量吗",
@@ -1129,14 +1185,6 @@
       "onboard_time": 1716887419,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203185,
-      "num": 203185,
-      "word": "LWX遭老头杯官方开庭",
-      "onboard_time": 1716891497,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 201721,
@@ -1291,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187437,
+      "num": 358818,
+      "word": "河流污染恶臭相关部门坚称没问题",
+      "onboard_time": 1716890838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186059,
       "num": 186059,
       "word": "庆余年放榜 范进中举",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1716875658,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183255,
+      "num": 183255,
+      "word": "首个未成年人游戏退费标准推出",
+      "onboard_time": 1716894799,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181082,
@@ -1371,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179335,
+      "num": 179335,
+      "word": "背着善宰跑今晚大结局",
+      "onboard_time": 1716893539,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178404,
       "num": 178404,
       "word": "光遇",
@@ -1408,14 +1480,6 @@
       "word": "起猛了竟然看到生蒜打人了",
       "onboard_time": 1716884778,
       "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 173969,
-      "num": 173969,
-      "word": "文科生 词汇量很大的乞丐",
-      "onboard_time": 1716891918,
-      "rank": 36,
       "category": "幽默"
     },
     {
@@ -1627,14 +1691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149494,
-      "num": 149494,
-      "word": "第一次见地铁户型的房子",
-      "onboard_time": 1716892217,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149428,
       "num": 149428,
       "word": "i人怎么把这箱荔枝分给同事",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1716878238,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 142723,
+      "num": 142723,
+      "word": "我的童年原来这么丰富多彩",
+      "onboard_time": 1716893899,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 142433,
@@ -1747,6 +1811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 135856,
+      "num": 135856,
+      "word": "辽宁男篮签约阿丘尔",
+      "onboard_time": 1716893476,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135734,
       "num": 167013,
       "word": "求职找工作避坑指南",
@@ -1763,12 +1835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134023,
-      "num": 134023,
-      "word": "乘风直播赛阵容官宣",
-      "onboard_time": 1716892398,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 134543,
+      "num": 134543,
+      "word": "判断一个人上班是否痛苦的依据",
+      "onboard_time": 1716892638,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 133663,
@@ -1857,6 +1929,14 @@
       "onboard_time": 1716868758,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122929,
+      "num": 122929,
+      "word": "最传统的鱼香肉丝真的要用鱼做",
+      "onboard_time": 1716894799,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 122558,
@@ -2123,6 +2203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93631,
+      "num": 206674,
+      "word": "鱼香肉丝里到底有没有鱼",
+      "onboard_time": 1716893118,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93247,
       "num": 93247,
       "word": "许玮甯回应杨丞琳被歌手淘汰",
@@ -2145,14 +2233,6 @@
       "onboard_time": 1716866357,
       "rank": 26,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 92548,
-      "num": 358818,
-      "word": "河流污染恶臭相关部门坚称没问题",
-      "onboard_time": 1716890838,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92399,
@@ -2185,6 +2265,14 @@
       "onboard_time": 1716835092,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89061,
+      "num": 213779,
+      "word": "丈夫婆婆用被单给怀孕妻子荡秋千",
+      "onboard_time": 1716894497,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88767,
@@ -2356,7 +2444,7 @@
     },
     {
       "raw_hot": 71416,
-      "num": 766020,
+      "num": 896074,
       "word": "换一种方式打开北京的盛夏",
       "onboard_time": 1716888677,
       "rank": 2,
@@ -2473,6 +2561,14 @@
       "onboard_time": 1716830114,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44251,
+      "num": 206742,
+      "word": "中法艺术60年联动大秀",
+      "onboard_time": 1716894257,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40046,
