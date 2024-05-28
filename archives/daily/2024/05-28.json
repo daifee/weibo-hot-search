@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716864191684,
+  "endTime": 1716866465085,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -19,7 +19,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1292162,
+      "raw_hot": 1730065,
+      "num": 1730065,
+      "word": "张若昀父亲被强执2000万",
+      "onboard_time": 1716864559,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1615964,
+      "num": 1615964,
+      "word": "孙杨回来了",
+      "onboard_time": 1716863716,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1434209,
       "num": 655356,
       "word": "两名20多岁男子与14岁女孩发生关系",
       "onboard_time": 1716862218,
@@ -67,6 +83,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 852382,
+      "num": 253928,
+      "word": "有明星本人微信是什么体验",
+      "onboard_time": 1716862578,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 836022,
       "num": 443821,
       "word": "养臭水",
@@ -99,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 741189,
+      "num": 301184,
+      "word": "许玮甯谈贺军翔性骚扰争议",
+      "onboard_time": 1716864198,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 635381,
       "num": 635381,
       "word": "范思辙为什么要戴项圈",
@@ -107,12 +139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 516109,
-      "num": 165722,
-      "word": "有明星本人微信是什么体验",
-      "onboard_time": 1716862578,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 580690,
+      "num": 292820,
+      "word": "王妈在塌一种很新的房",
+      "onboard_time": 1716864679,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 469155,
@@ -144,6 +176,22 @@
       "word": "早起身体这5个地方滂臭要注意",
       "onboard_time": 1716853276,
       "rank": 5,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 440235,
+      "num": 201834,
+      "word": "同事提离职后有点消极怠工",
+      "onboard_time": 1716863358,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 434937,
+      "num": 200211,
+      "word": "癌细胞最偏爱3种口味",
+      "onboard_time": 1716865998,
+      "rank": 23,
       "category": "健康医疗"
     },
     {
@@ -267,20 +315,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275109,
+      "num": 275109,
+      "word": "凯尔特人晋级总决赛",
+      "onboard_time": 1716864918,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274548,
       "num": 274548,
       "word": "2024高考",
       "onboard_time": 1716851595,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 272320,
-      "num": 164254,
-      "word": "同事提离职后有点消极怠工",
-      "onboard_time": 1716863358,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 271169,
@@ -331,20 +379,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 258999,
-      "num": 163437,
+      "raw_hot": 259245,
+      "num": 198385,
       "word": "千万网红狂言何不食肉糜",
       "onboard_time": 1716863537,
       "rank": 27,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 248719,
-      "num": 248719,
-      "word": "孙杨回来了",
-      "onboard_time": 1716863716,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 246263,
@@ -395,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207583,
+      "num": 207583,
+      "word": "火箭军新兵授衔大场面",
+      "onboard_time": 1716864738,
+      "rank": 18,
+      "category": "军事"
+    },
+    {
       "raw_hot": 198861,
       "num": 198861,
       "word": "中国统一的大势不可逆转",
@@ -409,6 +457,14 @@
       "onboard_time": 1716859337,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197390,
+      "num": 197390,
+      "word": "打工人累点低到离谱",
+      "onboard_time": 1716865279,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 195267,
@@ -427,6 +483,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 193575,
+      "num": 193575,
+      "word": "范闲 因为是家宴所以才请您",
+      "onboard_time": 1716865698,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188910,
       "num": 188910,
       "word": "王俊凯代言植物医生",
@@ -435,12 +499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184398,
+      "num": 206898,
+      "word": "月经到底什么样算正常",
+      "onboard_time": 1716865097,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184332,
       "num": 184332,
       "word": "建议i人都去尝试十点睡五点起",
       "onboard_time": 1716819740,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182171,
+      "num": 182171,
+      "word": "白玉兰提名 还不出",
+      "onboard_time": 1716865279,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 180523,
@@ -456,6 +536,14 @@
       "word": "黄奕自认人生谷底是结婚",
       "onboard_time": 1716848833,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179578,
+      "num": 179578,
+      "word": "十个勤天回忆",
+      "onboard_time": 1716865038,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -491,6 +579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162683,
+      "num": 162683,
+      "word": "凯尔特人4比0步行者",
+      "onboard_time": 1716864918,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160834,
       "num": 144931,
       "word": "33岁生完二胎我才真正清醒了",
@@ -505,6 +601,14 @@
       "onboard_time": 1716805339,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160452,
+      "num": 269769,
+      "word": "怀特准绝杀步行者",
+      "onboard_time": 1716865878,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 154178,
@@ -536,6 +640,22 @@
       "word": "高考前10天必做的事",
       "onboard_time": 1716859698,
       "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 149428,
+      "num": 149428,
+      "word": "i人怎么把这箱荔枝分给同事",
+      "onboard_time": 1716861678,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148240,
+      "num": 203417,
+      "word": "用古诗词为高考生加油",
+      "onboard_time": 1716864436,
+      "rank": 21,
       "category": "教育,社会新闻"
     },
     {
@@ -643,12 +763,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 122830,
-      "num": 122830,
-      "word": "i人怎么把这箱荔枝分给同事",
-      "onboard_time": 1716861678,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 125703,
+      "num": 125703,
+      "word": "为什么方便面是弯的不是直的",
+      "onboard_time": 1716863058,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 122844,
+      "num": 122844,
+      "word": "国产大飞机C919商运一周年",
+      "onboard_time": 1716865878,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 119856,
@@ -691,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116165,
+      "num": 116165,
+      "word": "到底哪些咖啡偷偷让人长胖",
+      "onboard_time": 1716865818,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115189,
       "num": 115189,
       "word": "五竹来了",
@@ -721,6 +857,22 @@
       "onboard_time": 1716862937,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109480,
+      "num": 109480,
+      "word": "李小冉早期旧照",
+      "onboard_time": 1716863958,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103880,
+      "num": 264841,
+      "word": "车队军训太帅了",
+      "onboard_time": 1716864738,
+      "rank": 10,
+      "category": "汽车"
     },
     {
       "raw_hot": 102875,
@@ -763,12 +915,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 96339,
-      "num": 96339,
-      "word": "李小冉早期旧照",
-      "onboard_time": 1716863958,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 95792,
+      "num": 95792,
+      "word": "剑网3捏脸",
+      "onboard_time": 1716864258,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 92886,
+      "num": 92886,
+      "word": "NBA季后赛",
+      "onboard_time": 1716865518,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 92399,
@@ -777,6 +937,14 @@
       "onboard_time": 1716829693,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92232,
+      "num": 92232,
+      "word": "陈泽 宇将军",
+      "onboard_time": 1716866357,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 89941,
@@ -793,6 +961,14 @@
       "onboard_time": 1716835092,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88833,
+      "num": 195233,
+      "word": "这是一份蓄谋已久的毕业祝福",
+      "onboard_time": 1716866357,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 88767,
@@ -833,14 +1009,6 @@
       "onboard_time": 1716814578,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84497,
-      "num": 93289,
-      "word": "为什么方便面是弯的不是直的",
-      "onboard_time": 1716863058,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 84114,
@@ -1020,7 +1188,7 @@
     },
     {
       "raw_hot": 39295,
-      "num": 1105246,
+      "num": 1427465,
       "word": "沉浸式感受数字点亮生活",
       "onboard_time": 1716814638,
       "rank": 2,
