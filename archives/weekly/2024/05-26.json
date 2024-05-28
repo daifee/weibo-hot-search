@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716932095966,
+  "endTime": 1716934686448,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -7795,6 +7795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 103700,
+      "num": 85915,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102875,
       "num": 102875,
       "word": "广西46岁男子工地坠亡排除刑案",
@@ -7817,6 +7825,14 @@
       "onboard_time": 1716702258,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102553,
+      "num": 60943,
+      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+      "onboard_time": 1716923711,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102004,
@@ -8467,16 +8483,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 57709,
-      "num": 53628,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 56745,
-      "num": 47111,
+      "num": 49071,
       "word": "关于我和鬼成为朋友这件事",
       "onboard_time": 1716919152,
       "rank": 23,
@@ -8643,12 +8651,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 49788,
-      "num": 35791,
-      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
-      "onboard_time": 1716923711,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 49310,
+      "num": 49310,
+      "word": "大皇子用脸骂人",
+      "onboard_time": 1716928991,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 47839,
@@ -8659,12 +8667,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 47326,
-      "num": 34391,
-      "word": "大皇子用脸骂人",
-      "onboard_time": 1716928991,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 47214,
+      "num": 47214,
+      "word": "黄金价格还会继续上涨吗",
+      "onboard_time": 1716928211,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 47124,
@@ -8705,14 +8713,6 @@
       "onboard_time": 1716905840,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46307,
-      "num": 46307,
-      "word": "黄金价格还会继续上涨吗",
-      "onboard_time": 1716928211,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 46215,
@@ -8979,6 +8979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22021,
+      "num": 22021,
+      "word": "张若昀两黑粉被强执5万",
+      "onboard_time": 1716933973,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20654,
       "num": 407911,
       "word": "文旅局调查水上闯关节目多人摔伤",
@@ -9033,6 +9041,14 @@
       "onboard_time": 1716925690,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16583,
+      "num": 20751,
+      "word": "张馨予红发造型",
+      "onboard_time": 1716934632,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 15987,

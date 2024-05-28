@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716932095966,
+  "endTime": 1716934686448,
   "band_list": [
     {
       "raw_hot": 1075003,
@@ -259,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115581,
+      "num": 83706,
+      "word": "多家银行开启沉睡账户唤醒",
+      "onboard_time": 1716903619,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114872,
       "num": 114872,
       "word": "胡先煦惹了秦岚等于没惹",
@@ -291,6 +299,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103700,
+      "num": 85915,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102553,
+      "num": 60943,
+      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+      "onboard_time": 1716923711,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100692,
       "num": 100692,
       "word": "善宰小率婚纱照",
@@ -313,14 +337,6 @@
       "onboard_time": 1716908118,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83706,
-      "num": 83706,
-      "word": "多家银行开启沉睡账户唤醒",
-      "onboard_time": 1716903619,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 81074,
@@ -379,28 +395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57709,
-      "num": 53628,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 56745,
-      "num": 47111,
+      "num": 49071,
       "word": "关于我和鬼成为朋友这件事",
       "onboard_time": 1716919152,
       "rank": 23,
       "category": "电影"
     },
     {
-      "raw_hot": 49788,
-      "num": 35791,
-      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
-      "onboard_time": 1716923711,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 49310,
+      "num": 49310,
+      "word": "大皇子用脸骂人",
+      "onboard_time": 1716928991,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 48368,
@@ -419,16 +427,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 47326,
-      "num": 34391,
-      "word": "大皇子用脸骂人",
-      "onboard_time": 1716928991,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 46307,
-      "num": 46307,
+      "raw_hot": 47214,
+      "num": 47214,
       "word": "黄金价格还会继续上涨吗",
       "onboard_time": 1716928211,
       "rank": 43,
@@ -491,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 22021,
+      "num": 22021,
+      "word": "张若昀两黑粉被强执5万",
+      "onboard_time": 1716933973,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18363,
       "num": 24091,
       "word": "直击2024电视剧导演大会",
@@ -505,6 +513,14 @@
       "onboard_time": 1716925690,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16583,
+      "num": 20751,
+      "word": "张馨予红发造型",
+      "onboard_time": 1716934632,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 15461,

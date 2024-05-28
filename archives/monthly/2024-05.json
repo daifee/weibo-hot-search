@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716932095966,
+  "endTime": 1716934686448,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -69739,6 +69739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103700,
+      "num": 85915,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103642,
       "num": 430888,
       "word": "82岁母亲背一书包雪饼看望53岁儿子",
@@ -69945,6 +69953,14 @@
       "onboard_time": 1715417540,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102553,
+      "num": 60943,
+      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+      "onboard_time": 1716923711,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102502,
@@ -74563,14 +74579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57709,
-      "num": 53628,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57402,
       "num": 385288,
       "word": "音乐节防晒神穿搭",
@@ -74620,7 +74628,7 @@
     },
     {
       "raw_hot": 56745,
-      "num": 47111,
+      "num": 49071,
       "word": "关于我和鬼成为朋友这件事",
       "onboard_time": 1716919152,
       "rank": 23,
@@ -75371,14 +75379,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 49788,
-      "num": 35791,
-      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
-      "onboard_time": 1716923711,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49733,
       "num": 53448,
       "word": "灿烂的花园",
@@ -75425,6 +75425,14 @@
       "onboard_time": 1715608219,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 49310,
+      "num": 49310,
+      "word": "大皇子用脸骂人",
+      "onboard_time": 1716928991,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 49221,
@@ -75587,12 +75595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47326,
-      "num": 34391,
-      "word": "大皇子用脸骂人",
-      "onboard_time": 1716928991,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 47214,
+      "num": 47214,
+      "word": "黄金价格还会继续上涨吗",
+      "onboard_time": 1716928211,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 47194,
@@ -75681,14 +75689,6 @@
       "onboard_time": 1714533197,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46307,
-      "num": 46307,
-      "word": "黄金价格还会继续上涨吗",
-      "onboard_time": 1716928211,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 46263,
@@ -77707,6 +77707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 22021,
+      "num": 22021,
+      "word": "张若昀两黑粉被强执5万",
+      "onboard_time": 1716933973,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21917,
       "num": 35975,
       "word": "思念",
@@ -78105,6 +78113,14 @@
       "onboard_time": 1716294857,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16583,
+      "num": 20751,
+      "word": "张馨予红发造型",
+      "onboard_time": 1716934632,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 16268,
