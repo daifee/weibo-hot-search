@@ -1,0 +1,410 @@
+{
+  "runTime": 1716906891562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1373136,
+        "num": 1373136,
+        "word": "满屏都是唐艺昕",
+        "onboard_time": 1716900318,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1315367,
+        "num": 1315367,
+        "word": "保时捷911",
+        "onboard_time": 1716904159,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102787,
+        "num": 906296,
+        "word": "浩瀚太空再一次留下中国足迹",
+        "onboard_time": 1716897798,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 792909,
+        "num": 792909,
+        "word": "一猩60万",
+        "onboard_time": 1716900077,
+        "rank": 3,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 766051,
+        "num": 766051,
+        "word": "比亚迪",
+        "onboard_time": 1716900859,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 492350,
+        "num": 709217,
+        "word": "官方回应福宝颈部断毛",
+        "onboard_time": 1716906200,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674463,
+        "num": 674463,
+        "word": "长公主二皇子顶疯相见",
+        "onboard_time": 1716901818,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550322,
+        "num": 550322,
+        "word": "李沁的头冠是3D打印的",
+        "onboard_time": 1716899537,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486057,
+        "num": 486057,
+        "word": "上海离婚预约爆满与楼市新政无关",
+        "onboard_time": 1716889758,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37967,
+        "num": 485058,
+        "word": "武大靖向杨根思连发出了好友申请",
+        "onboard_time": 1716905840,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2418407,
+        "num": 474600,
+        "word": "第一批丁克开始操心养老",
+        "onboard_time": 1716903197,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532822,
+        "num": 470614,
+        "word": "陈晓光头走红毯",
+        "onboard_time": 1716898096,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488933,
+        "num": 464710,
+        "word": "背着善宰跑大结局",
+        "onboard_time": 1716904758,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47439,
+        "num": 461184,
+        "word": "喜提范婉大婚伴手礼",
+        "onboard_time": 1716905360,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456767,
+        "num": 456767,
+        "word": "前员工称王妈塌房是意料之中",
+        "onboard_time": 1716906140,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 373231,
+        "num": 373231,
+        "word": "官员称还有2个月退休不该过多去问",
+        "onboard_time": 1716896358,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344086,
+        "num": 344086,
+        "word": "丈夫婆婆用被单给怀孕妻子荡秋千",
+        "onboard_time": 1716894497,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329535,
+        "num": 329535,
+        "word": "第一次见地铁户型的房子",
+        "onboard_time": 1716892217,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299411,
+        "num": 299411,
+        "word": "黑神话登上腾讯游戏发布会",
+        "onboard_time": 1716906140,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296822,
+        "num": 296822,
+        "word": "深圳首套房首付最低20%",
+        "onboard_time": 1716903379,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56148,
+        "num": 296457,
+        "word": "比亚迪海豹06油耗都2字头了",
+        "onboard_time": 1716905420,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 226324,
+        "num": 292764,
+        "word": "第五代DM技术亏电油耗2.9升",
+        "onboard_time": 1716903499,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 495108,
+        "num": 289130,
+        "word": "人在猝死前会有什么预兆",
+        "onboard_time": 1716902658,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 439757,
+        "num": 286067,
+        "word": "印度男子剖妻孕肚查胎儿性别",
+        "onboard_time": 1716885618,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229713,
+        "num": 283619,
+        "word": "比亚迪海豹06秦L9.98万元起售",
+        "onboard_time": 1716905660,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 402576,
+        "num": 281647,
+        "word": "翟潇闻直播黑牙了",
+        "onboard_time": 1716902419,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176498,
+        "num": 278514,
+        "word": "第五代DM技术综合续航2100公里",
+        "onboard_time": 1716901458,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 390005,
+        "num": 276953,
+        "word": "歌手 双补位",
+        "onboard_time": 1716872118,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374311,
+        "num": 272333,
+        "word": "未婚在意外怀孕上要零容错",
+        "onboard_time": 1716882198,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 357600,
+        "num": 268764,
+        "word": "鹿晗小英打牛",
+        "onboard_time": 1716906439,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54862,
+        "num": 268242,
+        "word": "王传福致敬钱学森",
+        "onboard_time": 1716904758,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319111,
+        "num": 264718,
+        "word": "iPhone16Pro显示屏边框或变窄",
+        "onboard_time": 1716904039,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 262974,
+        "num": 262974,
+        "word": "newjeans新MV引争议",
+        "onboard_time": 1716905901,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260637,
+        "num": 260637,
+        "word": "胡锡进称刘强东急了",
+        "onboard_time": 1716900917,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254771,
+        "num": 254771,
+        "word": "阿沁为詹雯婷陈建宁官司作证",
+        "onboard_time": 1716905060,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253203,
+        "num": 253203,
+        "word": "IVE 划水",
+        "onboard_time": 1716900017,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241618,
+        "num": 241618,
+        "word": "京城大师赛",
+        "onboard_time": 1716906140,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232808,
+        "num": 232808,
+        "word": "李沁晒喜",
+        "onboard_time": 1716904218,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215132,
+        "num": 215132,
+        "word": "善宰小率婚礼",
+        "onboard_time": 1716906078,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204723,
+        "num": 204723,
+        "word": "内娱智性恋天花板",
+        "onboard_time": 1716902298,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196751,
+        "num": 196751,
+        "word": "善宰小率婚纱照",
+        "onboard_time": 1716906260,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192243,
+        "num": 192243,
+        "word": "歌手第四期歌单",
+        "onboard_time": 1716881177,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190331,
+        "num": 190331,
+        "word": "网红王妈签约公司致歉",
+        "onboard_time": 1716893657,
+        "rank": 42,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 179546,
+        "num": 179546,
+        "word": "胡先煦喝醉",
+        "onboard_time": 1716890478,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171321,
+        "num": 171321,
+        "word": "徐冬冬尹子维已经可以坦然聊分过手了",
+        "onboard_time": 1716893118,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159178,
+        "num": 159178,
+        "word": "林婉儿人设 单薄",
+        "onboard_time": 1716898038,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156573,
+        "num": 156573,
+        "word": "多家银行开启沉睡账户唤醒",
+        "onboard_time": 1716903619,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154224,
+        "num": 154224,
+        "word": "1岁宝宝误喝蚊香液中毒离世",
+        "onboard_time": 1716888138,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134101,
+        "num": 134101,
+        "word": "范闲 骡马假日",
+        "onboard_time": 1716906740,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18818,
+        "num": 132967,
+        "word": "懒人省钱法",
+        "onboard_time": 1716905840,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同赤道几内亚总统会谈#"
+    }
+  }
+}
