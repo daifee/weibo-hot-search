@@ -1,7 +1,23 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716852948938,
+  "endTime": 1716859086821,
   "band_list": [
+    {
+      "raw_hot": 2118521,
+      "num": 2118521,
+      "word": "千万网红王妈塌房背后",
+      "onboard_time": 1716853877,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1595683,
+      "num": 1595683,
+      "word": "男子为泄愤将妻子隐私视频发微信群",
+      "onboard_time": 1716856098,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1186478,
       "num": 1186478,
@@ -11,12 +27,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1074495,
+      "num": 1074495,
+      "word": "林婉儿 工具人",
+      "onboard_time": 1716855498,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 868115,
       "num": 868115,
       "word": "冲绳",
       "onboard_time": 1716822140,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 812735,
+      "num": 217880,
+      "word": "未婚先孕就不用给彩礼了吗",
+      "onboard_time": 1716853276,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 767938,
+      "num": 449083,
+      "word": "叶灵儿戏份",
+      "onboard_time": 1716857059,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 749714,
@@ -35,6 +75,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469155,
+      "num": 469155,
+      "word": "当你连续点同一家外卖超过100次",
+      "onboard_time": 1716823101,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 465912,
+      "num": 215859,
+      "word": "大家好像都不被允许休息",
+      "onboard_time": 1716855138,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 452847,
+      "num": 452847,
+      "word": "早起身体这5个地方滂臭要注意",
+      "onboard_time": 1716853276,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 443821,
+      "num": 443821,
+      "word": "养臭水",
+      "onboard_time": 1716855738,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 419984,
       "num": 419984,
       "word": "一个班的几乎全是考公务员的",
@@ -44,7 +116,7 @@
     },
     {
       "raw_hot": 415278,
-      "num": 335431,
+      "num": 398119,
       "word": "女儿工作后每月都会给我一千块钱",
       "onboard_time": 1716809657,
       "rank": 18,
@@ -83,12 +155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 336815,
-      "num": 336815,
-      "word": "当你连续点同一家外卖超过100次",
-      "onboard_time": 1716823101,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 332481,
+      "num": 332481,
+      "word": "六公主报道易烊千玺酱园弄",
+      "onboard_time": 1716854718,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 312530,
@@ -100,7 +172,7 @@
     },
     {
       "raw_hot": 312066,
-      "num": 121726,
+      "num": 134800,
       "word": "老师做久了真的都有职业病吗",
       "onboard_time": 1716848412,
       "rank": 22,
@@ -113,6 +185,14 @@
       "onboard_time": 1716822381,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294786,
+      "num": 150512,
+      "word": "12岁身高1米83的男孩被叫叔叔",
+      "onboard_time": 1716858978,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 277369,
@@ -132,7 +212,7 @@
     },
     {
       "raw_hot": 271169,
-      "num": 121348,
+      "num": 150642,
       "word": "绍兴课上开黄腔教师被警告处分",
       "onboard_time": 1716835752,
       "rank": 46,
@@ -163,6 +243,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 264015,
+      "num": 264015,
+      "word": "蚊子为啥不会被洗澡水砸死",
+      "onboard_time": 1716856519,
+      "rank": 15,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 263606,
+      "num": 263606,
+      "word": "警方通报男子出售女童写真牟利",
+      "onboard_time": 1716853638,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 246187,
       "num": 246187,
       "word": "费介死了吗",
@@ -179,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233852,
+      "num": 213244,
+      "word": "把男朋友车磕了如何补偿",
+      "onboard_time": 1716856158,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219073,
       "num": 219073,
       "word": "中部六省要扛起主体责任让脊梁更硬",
       "onboard_time": 1716830773,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 210289,
+      "num": 210289,
+      "word": "涂山红红是涂山大动脉",
+      "onboard_time": 1716852616,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 198861,
@@ -203,12 +315,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195221,
+      "num": 195221,
+      "word": "夏天如何避免大油头",
+      "onboard_time": 1716857298,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 184332,
       "num": 184332,
       "word": "建议i人都去尝试十点睡五点起",
       "onboard_time": 1716819740,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180523,
+      "num": 180523,
+      "word": "庆余年2唯一的婚礼",
+      "onboard_time": 1716857118,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 179870,
@@ -259,6 +387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153261,
+      "num": 153261,
+      "word": "Rita毛毛公开处刑Fearness",
+      "onboard_time": 1716856938,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 153206,
+      "num": 141337,
+      "word": "李小冉真正的风韵犹存",
+      "onboard_time": 1716854117,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146152,
       "num": 146152,
       "word": "背着善宰跑大结局预告",
@@ -273,6 +417,14 @@
       "onboard_time": 1716850874,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142405,
+      "num": 142405,
+      "word": "范闲大婚",
+      "onboard_time": 1716855498,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 142264,
@@ -299,12 +451,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133032,
+      "num": 133032,
+      "word": "安徽铜陵居民楼坍塌4人遇难",
+      "onboard_time": 1716853877,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 132192,
+      "num": 132192,
+      "word": "你有过隐私泄露的经历吗",
+      "onboard_time": 1716857239,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130876,
       "num": 130876,
       "word": "陈奕迅杭州站赔偿方案引歌迷不满",
       "onboard_time": 1716812238,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127099,
+      "num": 127099,
+      "word": "日照三文鱼将大量上市",
+      "onboard_time": 1716855978,
+      "rank": 37,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 119856,
@@ -363,12 +539,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 102004,
+      "num": 109234,
+      "word": "库里悼念比尔沃顿",
+      "onboard_time": 1716856339,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100314,
       "num": 100314,
       "word": "台湾学生坚定表示台湾是中国的",
       "onboard_time": 1716810257,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98286,
+      "num": 98286,
+      "word": "宿管阿姨为高三学子写百米书法祝福",
+      "onboard_time": 1716856039,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92399,
@@ -459,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81700,
+      "num": 81700,
+      "word": "梦之队",
+      "onboard_time": 1716853215,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81354,
       "num": 81354,
       "word": "Gemini当选KPL梦之队教练",
@@ -483,12 +683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79771,
+      "num": 79771,
+      "word": "刘冲 VOGUE",
+      "onboard_time": 1716854117,
+      "rank": 49,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 78944,
       "num": 78944,
       "word": "刀脚",
       "onboard_time": 1716821839,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71832,
+      "num": 415432,
+      "word": "青岛巧克力大爷人均几块腹肌",
+      "onboard_time": 1716857899,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69991,
@@ -523,14 +739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 64133,
-      "num": 64133,
-      "word": "涂山红红是涂山大动脉",
-      "onboard_time": 1716852616,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63270,
       "num": 63270,
       "word": "肖战片场请客",
@@ -563,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39295,
+      "num": 1105246,
+      "word": "沉浸式感受数字点亮生活",
+      "onboard_time": 1716814638,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34737,
       "num": 34737,
       "word": "突然发现消费习惯正在悄悄改变",
@@ -577,14 +793,6 @@
       "onboard_time": 1716841990,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29867,
-      "num": 679029,
-      "word": "沉浸式感受数字点亮生活",
-      "onboard_time": 1716814638,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29852,
