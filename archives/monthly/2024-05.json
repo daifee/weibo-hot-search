@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716931119573,
+  "endTime": 1716932095966,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -74563,6 +74563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57709,
+      "num": 53628,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57402,
       "num": 385288,
       "word": "音乐节防晒神穿搭",
@@ -74995,14 +75003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53628,
-      "num": 53628,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 53572,
       "num": 142355,
       "word": "信一好帅",
@@ -75371,6 +75371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49788,
+      "num": 35791,
+      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+      "onboard_time": 1716923711,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49733,
       "num": 53448,
       "word": "灿烂的花园",
@@ -75579,6 +75587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47326,
+      "num": 34391,
+      "word": "大皇子用脸骂人",
+      "onboard_time": 1716928991,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47194,
       "num": 165601,
       "word": "用AI的方式打开数字福州",
@@ -75659,20 +75675,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46377,
-      "num": 33598,
-      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
-      "onboard_time": 1716923711,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46359,
       "num": 121142,
       "word": "如果我写家乡",
       "onboard_time": 1714533197,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46307,
+      "num": 46307,
+      "word": "黄金价格还会继续上涨吗",
+      "onboard_time": 1716928211,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 46263,
@@ -76097,14 +76113,6 @@
       "onboard_time": 1715858537,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 42021,
-      "num": 33392,
-      "word": "大皇子用脸骂人",
-      "onboard_time": 1716928991,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 41924,
@@ -76777,14 +76785,6 @@
       "onboard_time": 1715624592,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 33322,
-      "num": 33322,
-      "word": "黄金价格还会继续上涨吗",
-      "onboard_time": 1716928211,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 33266,
@@ -78091,6 +78091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16636,
+      "num": 16636,
+      "word": "这孩子将来得是国际锯星",
+      "onboard_time": 1716925690,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16627,
       "num": 182046,
       "word": "鸣潮也有自己的商务殷语",
@@ -78105,14 +78113,6 @@
       "onboard_time": 1715713990,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16216,
-      "num": 16216,
-      "word": "这孩子将来得是国际锯星",
-      "onboard_time": 1716925690,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 16115,
@@ -78177,6 +78177,14 @@
       "onboard_time": 1714592531,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15461,
+      "num": 15461,
+      "word": "报春花科新物种被发现",
+      "onboard_time": 1716926110,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 15361,
@@ -78273,14 +78281,6 @@
       "onboard_time": 1715694079,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13992,
-      "num": 14935,
-      "word": "报春花科新物种被发现",
-      "onboard_time": 1716926110,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 13919,

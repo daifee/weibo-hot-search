@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716931119573,
+  "endTime": 1716932095966,
   "band_list": [
     {
       "raw_hot": 1075003,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57709,
+      "num": 53628,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56745,
       "num": 47111,
       "word": "关于我和鬼成为朋友这件事",
@@ -387,12 +395,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 53628,
-      "num": 53628,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 49788,
+      "num": 35791,
+      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+      "onboard_time": 1716923711,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48368,
@@ -411,24 +419,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 46377,
-      "num": 33598,
-      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
-      "onboard_time": 1716923711,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42021,
-      "num": 33392,
+      "raw_hot": 47326,
+      "num": 34391,
       "word": "大皇子用脸骂人",
       "onboard_time": 1716928991,
       "rank": 13,
       "category": "剧集"
     },
     {
-      "raw_hot": 33322,
-      "num": 33322,
+      "raw_hot": 46307,
+      "num": 46307,
       "word": "黄金价格还会继续上涨吗",
       "onboard_time": 1716928211,
       "rank": 43,
@@ -499,16 +499,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16216,
-      "num": 16216,
+      "raw_hot": 16636,
+      "num": 16636,
       "word": "这孩子将来得是国际锯星",
       "onboard_time": 1716925690,
       "rank": 38,
       "category": "幽默"
     },
     {
-      "raw_hot": 13992,
-      "num": 14935,
+      "raw_hot": 15461,
+      "num": 15461,
       "word": "报春花科新物种被发现",
       "onboard_time": 1716926110,
       "rank": 48,
