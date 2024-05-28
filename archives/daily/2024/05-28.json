@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716885452682,
+  "endTime": 1716888001539,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1053270,
+      "num": 206331,
+      "word": "印度男子剖妻孕肚查胎儿性别",
+      "onboard_time": 1716885618,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999089,
       "num": 999089,
       "word": "经常熬夜的人身体会发臭",
@@ -113,6 +121,14 @@
       "onboard_time": 1716882198,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 928908,
+      "num": 627606,
+      "word": "尚雯婕晒复旦聘书",
+      "onboard_time": 1716884238,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 901709,
@@ -185,6 +201,14 @@
       "onboard_time": 1716853276,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 794778,
+      "num": 794778,
+      "word": "钟薛高卖红薯还债能东山再起吗",
+      "onboard_time": 1716880157,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 767938,
@@ -267,14 +291,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 584979,
-      "num": 584979,
-      "word": "钟薛高卖红薯还债能东山再起吗",
-      "onboard_time": 1716880157,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 578083,
       "num": 269583,
       "word": "同事怀孕后我辞职了",
@@ -305,6 +321,14 @@
       "onboard_time": 1716871880,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 552366,
+      "num": 552366,
+      "word": "官员用茅台打比方反问央视记者",
+      "onboard_time": 1716884478,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552116,
@@ -363,12 +387,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 470905,
-      "num": 269548,
-      "word": "尚雯婕晒复旦聘书",
-      "onboard_time": 1716884238,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 488010,
+      "num": 209911,
+      "word": "王力宏 来不来",
+      "onboard_time": 1716886097,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 469155,
@@ -483,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392801,
+      "num": 209192,
+      "word": "黄宣 蝴蝶",
+      "onboard_time": 1716885738,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392054,
       "num": 255879,
       "word": "杨紫瘦了piu仔胖了",
@@ -507,20 +539,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 377465,
+      "num": 357606,
+      "word": "上海大学生花29天坐公交到新加坡",
+      "onboard_time": 1716883398,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 376511,
       "num": 376511,
       "word": "飞机为什么怕你带超过100ml液体",
       "onboard_time": 1716880517,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 357606,
-      "num": 357606,
-      "word": "上海大学生花29天坐公交到新加坡",
-      "onboard_time": 1716883398,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 350540,
@@ -587,6 +619,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 307545,
+      "num": 210391,
+      "word": "原来杨紫陈楚生早年合作过",
+      "onboard_time": 1716884839,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 307486,
       "num": 307486,
       "word": "赵丽颖方否认演生命树",
@@ -617,6 +657,14 @@
       "onboard_time": 1716866718,
       "rank": 8,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 285179,
+      "num": 204827,
+      "word": "蔡文静录完浪姐只想拍戏",
+      "onboard_time": 1716886699,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 281302,
@@ -811,12 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237768,
-      "num": 210391,
-      "word": "原来杨紫陈楚生早年合作过",
-      "onboard_time": 1716884839,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 235814,
+      "num": 207269,
+      "word": "Ning说Tarzan什么冠军",
+      "onboard_time": 1716885618,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 235170,
@@ -923,14 +971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210363,
-      "num": 216022,
-      "word": "官员用茅台打比方反问央视记者",
-      "onboard_time": 1716884478,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210289,
       "num": 210289,
       "word": "涂山红红是涂山大动脉",
@@ -947,12 +987,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 206724,
+      "num": 206724,
+      "word": "福宝居家直播",
+      "onboard_time": 1716886457,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205264,
       "num": 206898,
       "word": "月经到底什么样算正常",
       "onboard_time": 1716865097,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 204389,
+      "num": 204389,
+      "word": "TREASURE回归",
+      "onboard_time": 1716887419,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 201721,
@@ -1011,6 +1067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 197829,
+      "num": 197829,
+      "word": "当e人和他的i人朋友老了以后",
+      "onboard_time": 1716887718,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197428,
       "num": 197428,
       "word": "种地吧",
@@ -1051,6 +1115,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 194109,
+      "num": 194109,
+      "word": "久穿洞洞鞋容易引发脚气",
+      "onboard_time": 1716887477,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 192978,
       "num": 192978,
       "word": "庆帝赐婚比月老牵线还靠谱",
@@ -1073,6 +1145,22 @@
       "onboard_time": 1716860238,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188700,
+      "num": 188700,
+      "word": "孙楠 是否爱过我",
+      "onboard_time": 1716885376,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187747,
+      "num": 187747,
+      "word": "庆余年2偷感F4",
+      "onboard_time": 1716886218,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 187587,
@@ -1291,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157583,
+      "num": 157583,
+      "word": "秦岚辛芷蕾中间的娜扎",
+      "onboard_time": 1716887118,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155414,
       "num": 155414,
       "word": "到底哪些咖啡偷偷让人长胖",
@@ -1355,14 +1451,6 @@
       "category": "科学科普,美食"
     },
     {
-      "raw_hot": 151467,
-      "num": 151467,
-      "word": "孙楠 是否爱过我",
-      "onboard_time": 1716885376,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151117,
       "num": 151117,
       "word": "高考前10天必做的事",
@@ -1371,12 +1459,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 149707,
+      "num": 149707,
+      "word": "起猛了竟然看到生蒜打人了",
+      "onboard_time": 1716884778,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149428,
       "num": 149428,
       "word": "i人怎么把这箱荔枝分给同事",
       "onboard_time": 1716861678,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147680,
+      "num": 147680,
+      "word": "夏之光让田嘉瑞叫哥哥",
+      "onboard_time": 1716887598,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 146969,
@@ -1507,6 +1611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133613,
+      "num": 326727,
+      "word": "爷爷连续7年给帮助他的女子寄水果",
+      "onboard_time": 1716883457,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133032,
       "num": 133032,
       "word": "安徽铜陵居民楼坍塌4人遇难",
@@ -1569,6 +1681,14 @@
       "onboard_time": 1716868758,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123546,
+      "num": 123546,
+      "word": "张若昀 再不让你们理亏",
+      "onboard_time": 1716887898,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 122558,
@@ -1801,14 +1921,6 @@
       "onboard_time": 1716864258,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 95363,
-      "num": 326727,
-      "word": "爷爷连续7年给帮助他的女子寄水果",
-      "onboard_time": 1716883457,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93247,
@@ -2075,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62610,
+      "num": 207645,
+      "word": "福宝张大嘴巴等奶爸喂苹果",
+      "onboard_time": 1716885557,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58879,
       "num": 1062879,
       "word": "高质量发展看能源",
@@ -2084,7 +2204,7 @@
     },
     {
       "raw_hot": 58614,
-      "num": 183926,
+      "num": 206717,
       "word": "vivo灭霸在百米外的怼脸拍",
       "onboard_time": 1716884958,
       "rank": 34,
@@ -2131,6 +2251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48709,
+      "num": 215755,
+      "word": "她一开口我好像看见雪山了",
+      "onboard_time": 1716885318,
+      "rank": 19,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 40046,
       "num": 42331,
       "word": "突然理解好朋友跟朋友的区别",
@@ -2145,14 +2273,6 @@
       "onboard_time": 1716814638,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36572,
-      "num": 215755,
-      "word": "她一开口我好像看见雪山了",
-      "onboard_time": 1716885318,
-      "rank": 19,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 34737,
