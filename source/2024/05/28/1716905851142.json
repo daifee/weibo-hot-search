@@ -1,0 +1,410 @@
+{
+  "runTime": 1716905851142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1500998,
+        "num": 1500998,
+        "word": "满屏都是唐艺昕",
+        "onboard_time": 1716900318,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1084249,
+        "num": 1084249,
+        "word": "比亚迪",
+        "onboard_time": 1716900859,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 111340,
+        "num": 1026127,
+        "word": "浩瀚太空再一次留下中国足迹",
+        "onboard_time": 1716897798,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1015865,
+        "num": 1015865,
+        "word": "一猩60万",
+        "onboard_time": 1716900077,
+        "rank": 3,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 912661,
+        "num": 912661,
+        "word": "保时捷911",
+        "onboard_time": 1716904159,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 401188,
+        "num": 713099,
+        "word": "上海离婚预约爆满与楼市新政无关",
+        "onboard_time": 1716889758,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688451,
+        "num": 688451,
+        "word": "陈晓光头走红毯",
+        "onboard_time": 1716898096,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 665396,
+        "num": 665396,
+        "word": "长公主二皇子顶疯相见",
+        "onboard_time": 1716901818,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390526,
+        "num": 390526,
+        "word": "官员称还有2个月退休不该过多去问",
+        "onboard_time": 1716896358,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347230,
+        "num": 347230,
+        "word": "深圳首套房首付最低20%",
+        "onboard_time": 1716903379,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1972959,
+        "num": 346459,
+        "word": "第一批丁克开始操心养老",
+        "onboard_time": 1716903197,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582573,
+        "num": 339567,
+        "word": "李沁的头冠是3D打印的",
+        "onboard_time": 1716899537,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104102,
+        "num": 332326,
+        "word": "第五代DM技术综合续航2100公里",
+        "onboard_time": 1716901458,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 517626,
+        "num": 330484,
+        "word": "背着善宰跑大结局",
+        "onboard_time": 1716904758,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474942,
+        "num": 322838,
+        "word": "翟潇闻直播黑牙了",
+        "onboard_time": 1716902419,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54102,
+        "num": 319171,
+        "word": "8个关爱女性经期健康的方法",
+        "onboard_time": 1716903979,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 445879,
+        "num": 315378,
+        "word": "歌手 双补位",
+        "onboard_time": 1716872118,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377963,
+        "num": 307612,
+        "word": "丈夫婆婆用被单给怀孕妻子荡秋千",
+        "onboard_time": 1716894497,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348279,
+        "num": 305161,
+        "word": "胡锡进称刘强东急了",
+        "onboard_time": 1716900917,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 301408,
+        "num": 301408,
+        "word": "第一次见地铁户型的房子",
+        "onboard_time": 1716892217,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445830,
+        "num": 301278,
+        "word": "未婚在意外怀孕上要零容错",
+        "onboard_time": 1716882198,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 428472,
+        "num": 300558,
+        "word": "人在猝死前会有什么预兆",
+        "onboard_time": 1716902658,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 387241,
+        "num": 300113,
+        "word": "印度男子剖妻孕肚查胎儿性别",
+        "onboard_time": 1716885618,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255853,
+        "num": 299884,
+        "word": "第五代DM技术亏电油耗2.9升",
+        "onboard_time": 1716903499,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 316044,
+        "num": 299293,
+        "word": "iPhone16Pro显示屏边框或变窄",
+        "onboard_time": 1716904039,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 298909,
+        "num": 298909,
+        "word": "IVE 划水",
+        "onboard_time": 1716900017,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276342,
+        "num": 276342,
+        "word": "阿沁为詹雯婷陈建宁官司作证",
+        "onboard_time": 1716905060,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261041,
+        "num": 261041,
+        "word": "李沁晒喜",
+        "onboard_time": 1716904218,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246944,
+        "num": 246944,
+        "word": "徐冬冬尹子维已经可以坦然聊分过手了",
+        "onboard_time": 1716893118,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46625,
+        "num": 246480,
+        "word": "武大靖向杨根思连发出了好友申请",
+        "onboard_time": 1716905840,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246302,
+        "num": 246302,
+        "word": "网红王妈签约公司致歉",
+        "onboard_time": 1716893657,
+        "rank": 30,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 59603,
+        "num": 232373,
+        "word": "王传福致敬钱学森",
+        "onboard_time": 1716904758,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225240,
+        "num": 225240,
+        "word": "内娱智性恋天花板",
+        "onboard_time": 1716902298,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220535,
+        "num": 220535,
+        "word": "胡先煦喝醉",
+        "onboard_time": 1716890478,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55749,
+        "num": 216651,
+        "word": "比亚迪海豹06油耗都2字头了",
+        "onboard_time": 1716905420,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 216604,
+        "num": 216604,
+        "word": "秦L引领油耗进入2时代",
+        "onboard_time": 1716901698,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197885,
+        "num": 197885,
+        "word": "歌手第四期歌单",
+        "onboard_time": 1716881177,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191367,
+        "num": 191367,
+        "word": "1岁宝宝误喝蚊香液中毒离世",
+        "onboard_time": 1716888138,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 189961,
+        "num": 189961,
+        "word": "贺峻霖的reaction太有实力了",
+        "onboard_time": 1716904940,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19619,
+        "num": 167726,
+        "word": "喜提范婉大婚伴手礼",
+        "onboard_time": 1716905360,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207533,
+        "num": 167620,
+        "word": "海豹06",
+        "onboard_time": 1716905060,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164546,
+        "num": 164546,
+        "word": "比亚迪海豹06秦L9.98万元起售",
+        "onboard_time": 1716905660,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188937,
+        "num": 164427,
+        "word": "林婉儿人设 单薄",
+        "onboard_time": 1716898038,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164254,
+        "num": 164254,
+        "word": "多家银行开启沉睡账户唤醒",
+        "onboard_time": 1716903619,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158172,
+        "num": 158172,
+        "word": "狐妖月红篇有自己的柜哥",
+        "onboard_time": 1716902118,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155571,
+        "num": 155571,
+        "word": "真的建议在外上厕所用马桶",
+        "onboard_time": 1716879977,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153457,
+        "num": 153457,
+        "word": "范闲大婚 寒酸",
+        "onboard_time": 1716877637,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142866,
+        "num": 142866,
+        "word": "刘宇宁直播",
+        "onboard_time": 1716902538,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133738,
+        "num": 133738,
+        "word": "前华为高颜值HR入职京东做主播",
+        "onboard_time": 1716895457,
+        "rank": 48,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 7660,
+        "num": 129546,
+        "word": "懒人省钱法",
+        "onboard_time": 1716905840,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同赤道几内亚总统会谈#"
+    }
+  }
+}

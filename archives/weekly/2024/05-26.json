@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716903256455,
+  "endTime": 1716905851142,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -65,6 +65,14 @@
       "onboard_time": 1716812958,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1972959,
+      "num": 346459,
+      "word": "第一批丁克开始操心养老",
+      "onboard_time": 1716903197,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1967473,
@@ -193,6 +201,14 @@
       "onboard_time": 1716790578,
       "rank": 12,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1500998,
+      "num": 1500998,
+      "word": "满屏都是唐艺昕",
+      "onboard_time": 1716900318,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1481358,
@@ -324,19 +340,11 @@
     },
     {
       "raw_hot": 1228654,
-      "num": 293313,
+      "num": 300113,
       "word": "印度男子剖妻孕肚查胎儿性别",
       "onboard_time": 1716885618,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1226355,
-      "num": 864304,
-      "word": "满屏都是唐艺昕",
-      "onboard_time": 1716900318,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 1204925,
@@ -401,6 +409,14 @@
       "onboard_time": 1716622758,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1084249,
+      "num": 1084249,
+      "word": "比亚迪",
+      "onboard_time": 1716900859,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 1074495,
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 965765,
-      "num": 295080,
+      "num": 301278,
       "word": "未婚在意外怀孕上要零容错",
       "onboard_time": 1716882198,
       "rank": 20,
@@ -537,6 +553,14 @@
       "onboard_time": 1716809657,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 912661,
+      "num": 912661,
+      "word": "保时捷911",
+      "onboard_time": 1716904159,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 902001,
@@ -835,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 766281,
-      "num": 766281,
-      "word": "比亚迪",
-      "onboard_time": 1716900859,
-      "rank": 4,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 759347,
       "num": 272843,
       "word": "真的建议在外上厕所用马桶",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1716679995,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 665396,
+      "num": 665396,
+      "word": "长公主二皇子顶疯相见",
+      "onboard_time": 1716901818,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 662627,
@@ -1579,6 +1603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 517626,
+      "num": 330484,
+      "word": "背着善宰跑大结局",
+      "onboard_time": 1716904758,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 517221,
       "num": 288028,
       "word": "李佳琦披哥路透",
@@ -1649,14 +1681,6 @@
       "onboard_time": 1716639438,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 504526,
-      "num": 453997,
-      "word": "长公主二皇子顶疯相见",
-      "onboard_time": 1716901818,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 500997,
@@ -1785,6 +1809,14 @@
       "onboard_time": 1716776717,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 474942,
+      "num": 322838,
+      "word": "翟潇闻直播黑牙了",
+      "onboard_time": 1716902419,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 474343,
@@ -1995,6 +2027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 428472,
+      "num": 300558,
+      "word": "人在猝死前会有什么预兆",
+      "onboard_time": 1716902658,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 427245,
       "num": 427245,
       "word": "王鹤棣颈椎受伤",
@@ -2163,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401188,
+      "num": 713099,
+      "word": "上海离婚预约爆满与楼市新政无关",
+      "onboard_time": 1716889758,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400108,
       "num": 400108,
       "word": "狗狗挖出了一只小猫咪",
@@ -2219,6 +2267,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 390526,
+      "num": 390526,
+      "word": "官员称还有2个月退休不该过多去问",
+      "onboard_time": 1716896358,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388969,
       "num": 388969,
       "word": "陈奕迅杭州站赔偿方案引歌迷不满",
@@ -2257,14 +2313,6 @@
       "onboard_time": 1716822680,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 379923,
-      "num": 379923,
-      "word": "官员称还有2个月退休不该过多去问",
-      "onboard_time": 1716896358,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377465,
@@ -2483,6 +2531,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348279,
+      "num": 328295,
+      "word": "胡锡进称刘强东急了",
+      "onboard_time": 1716900917,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 347230,
+      "num": 347230,
+      "word": "深圳首套房首付最低20%",
+      "onboard_time": 1716903379,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346619,
       "num": 346619,
       "word": "广州首套房首付最低15%",
@@ -2619,14 +2683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 328295,
-      "num": 328295,
-      "word": "胡锡进称刘强东急了",
-      "onboard_time": 1716900917,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 327390,
       "num": 327390,
       "word": "金晨鼻子",
@@ -2689,6 +2745,14 @@
       "onboard_time": 1716773237,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316044,
+      "num": 299293,
+      "word": "iPhone16Pro显示屏边框或变窄",
+      "onboard_time": 1716904039,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 315800,
@@ -2979,14 +3043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286075,
-      "num": 286075,
-      "word": "上海离婚预约爆满与楼市新政无关",
-      "onboard_time": 1716889758,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285661,
       "num": 285661,
       "word": "你身边有疑似重生的人吗",
@@ -3073,6 +3129,14 @@
       "onboard_time": 1716821661,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276342,
+      "num": 276342,
+      "word": "阿沁为詹雯婷陈建宁官司作证",
+      "onboard_time": 1716905060,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 275336,
@@ -3188,7 +3252,7 @@
     },
     {
       "raw_hot": 263721,
-      "num": 309791,
+      "num": 332326,
       "word": "第五代DM技术综合续航2100公里",
       "onboard_time": 1716901458,
       "rank": 17,
@@ -3208,6 +3272,14 @@
       "word": "庆余年2演员学历",
       "onboard_time": 1716867859,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261041,
+      "num": 261041,
+      "word": "李沁晒喜",
+      "onboard_time": 1716904218,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -3243,14 +3315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257795,
-      "num": 238554,
-      "word": "翟潇闻直播黑牙了",
-      "onboard_time": 1716902419,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256756,
       "num": 256756,
       "word": "KPL",
@@ -3280,6 +3344,14 @@
       "word": "北京市民投诉小米汽车城市路测",
       "onboard_time": 1716874220,
       "rank": 34,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 255853,
+      "num": 299884,
+      "word": "第五代DM技术亏电油耗2.9升",
+      "onboard_time": 1716903499,
+      "rank": 23,
       "category": "汽车"
     },
     {
@@ -3931,6 +4003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216604,
+      "num": 216604,
+      "word": "秦L引领油耗进入2时代",
+      "onboard_time": 1716901698,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 216376,
       "num": 216376,
       "word": "一不小心买到了人生气垫",
@@ -4145,6 +4225,14 @@
       "onboard_time": 1716864738,
       "rank": 18,
       "category": "军事"
+    },
+    {
+      "raw_hot": 207533,
+      "num": 167620,
+      "word": "海豹06",
+      "onboard_time": 1716905060,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 207289,
@@ -4643,6 +4731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189961,
+      "num": 189961,
+      "word": "贺峻霖的reaction太有实力了",
+      "onboard_time": 1716904940,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189878,
       "num": 189878,
       "word": "庆余年2隐喻",
@@ -4849,14 +4945,6 @@
       "onboard_time": 1716810618,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 184877,
-      "num": 184877,
-      "word": "人在猝死前会有什么预兆",
-      "onboard_time": 1716902658,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 184084,
@@ -5299,14 +5387,6 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 168371,
-      "num": 181701,
-      "word": "秦L引领油耗进入2时代",
-      "onboard_time": 1716901698,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 167994,
       "num": 167994,
       "word": "女子用炸毛毛笔写出瘦金体",
@@ -5459,12 +5539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164546,
+      "num": 164546,
+      "word": "比亚迪海豹06秦L9.98万元起售",
+      "onboard_time": 1716905660,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 164387,
       "num": 164387,
       "word": "成佳林呢",
       "onboard_time": 1716649640,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164254,
+      "num": 164254,
+      "word": "多家银行开启沉睡账户唤醒",
+      "onboard_time": 1716903619,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 164096,
@@ -6955,14 +7051,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 121505,
-      "num": 121505,
-      "word": "第一批丁克开始操心养老",
-      "onboard_time": 1716903197,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121158,
       "num": 121158,
       "word": "华天崎抓拍的杨幂",
@@ -7148,7 +7236,7 @@
     },
     {
       "raw_hot": 117345,
-      "num": 944428,
+      "num": 1026127,
       "word": "浩瀚太空再一次留下中国足迹",
       "onboard_time": 1716897798,
       "rank": 2,
@@ -8107,6 +8195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59603,
+      "num": 232373,
+      "word": "王传福致敬钱学森",
+      "onboard_time": 1716904758,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59041,
       "num": 136835,
       "word": "对影成三人具象化了",
@@ -8139,6 +8235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55749,
+      "num": 216651,
+      "word": "比亚迪海豹06油耗都2字头了",
+      "onboard_time": 1716905420,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55743,
       "num": 55743,
       "word": "闵塔鲨发了迪丽热巴新造型",
@@ -8169,6 +8273,14 @@
       "onboard_time": 1716688218,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54102,
+      "num": 319171,
+      "word": "8个关爱女性经期健康的方法",
+      "onboard_time": 1716903979,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 53523,
@@ -8321,6 +8433,14 @@
       "onboard_time": 1716785000,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46625,
+      "num": 246480,
+      "word": "武大靖向杨根思连发出了好友申请",
+      "onboard_time": 1716905840,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 46215,
@@ -8555,6 +8675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19619,
+      "num": 167726,
+      "word": "喜提范婉大婚伴手礼",
+      "onboard_time": 1716905360,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18828,
       "num": 268538,
       "word": "神十八乘组入住太空之家满月记",
@@ -8635,6 +8763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 7660,
+      "num": 129546,
+      "word": "懒人省钱法",
+      "onboard_time": 1716905840,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 7316,
       "num": 297456,
       "word": "高考前发热怎么办",
@@ -8682,6 +8818,9 @@
     },
     {
       "word": "#中赤几关系提升为全面战略合作伙伴关系#"
+    },
+    {
+      "word": "#习近平同赤道几内亚总统会谈#"
     }
   ]
 }
