@@ -1,0 +1,410 @@
+{
+  "runTime": 1716891610385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1408487,
+        "num": 1408487,
+        "word": "上海婚姻登记处回应离婚预约爆满",
+        "onboard_time": 1716889758,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838348,
+        "num": 838348,
+        "word": "尚雯婕晒复旦聘书",
+        "onboard_time": 1716884238,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63899,
+        "num": 697121,
+        "word": "换一种方式打开北京的盛夏",
+        "onboard_time": 1716888677,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681967,
+        "num": 681967,
+        "word": "歌手 双补位",
+        "onboard_time": 1716872118,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487363,
+        "num": 487363,
+        "word": "中国官方黄金储备2264吨",
+        "onboard_time": 1716888738,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 381672,
+        "num": 381672,
+        "word": "福宝居家直播",
+        "onboard_time": 1716886457,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551791,
+        "num": 376754,
+        "word": "范闲大婚 寒酸",
+        "onboard_time": 1716877637,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528955,
+        "num": 371438,
+        "word": "王力宏 来不来",
+        "onboard_time": 1716886097,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361706,
+        "num": 361706,
+        "word": "钟薛高卖红薯还债能东山再起吗",
+        "onboard_time": 1716880157,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60124,
+        "num": 358818,
+        "word": "河流污染恶臭相关部门坚称没问题",
+        "onboard_time": 1716890838,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611431,
+        "num": 329292,
+        "word": "胡先煦喝醉",
+        "onboard_time": 1716890478,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483700,
+        "num": 319780,
+        "word": "官员用茅台打比方反问央视记者",
+        "onboard_time": 1716884478,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453100,
+        "num": 304026,
+        "word": "张若昀父亲被强执2000万",
+        "onboard_time": 1716864559,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447524,
+        "num": 286277,
+        "word": "歌手第四期歌单",
+        "onboard_time": 1716881177,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435339,
+        "num": 259067,
+        "word": "张玉安韩国工作被取消",
+        "onboard_time": 1716878777,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365491,
+        "num": 248956,
+        "word": "王妈大学期间拍短视频曾月入70万",
+        "onboard_time": 1716889518,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240969,
+        "num": 240969,
+        "word": "经常熬夜的人身体会发臭",
+        "onboard_time": 1716875298,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236070,
+        "num": 236070,
+        "word": "白天辉一审被判死刑",
+        "onboard_time": 1716889097,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220072,
+        "num": 220072,
+        "word": "8年前借的3斤黄金怎么还",
+        "onboard_time": 1716880098,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197540,
+        "num": 197540,
+        "word": "飞机为什么怕你带超过100ml液体",
+        "onboard_time": 1716880517,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 62108,
+        "num": 197430,
+        "word": "X100Ultra开售1小时销售额5亿",
+        "onboard_time": 1716890118,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1010139,
+        "num": 197149,
+        "word": "印度男子剖妻孕肚查胎儿性别",
+        "onboard_time": 1716885618,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753598,
+        "num": 197083,
+        "word": "久穿洞洞鞋容易引发脚气",
+        "onboard_time": 1716887477,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 729299,
+        "num": 196770,
+        "word": "1岁宝宝误喝蚊香液中毒离世",
+        "onboard_time": 1716888138,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 534525,
+        "num": 196576,
+        "word": "未婚在意外怀孕上要零容错",
+        "onboard_time": 1716882198,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 375326,
+        "num": 196453,
+        "word": "真的建议在外上厕所用马桶",
+        "onboard_time": 1716879977,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311394,
+        "num": 196267,
+        "word": "黄宣 蝴蝶",
+        "onboard_time": 1716885738,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275809,
+        "num": 196071,
+        "word": "蔡文静录完浪姐只想拍戏",
+        "onboard_time": 1716886699,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244871,
+        "num": 195778,
+        "word": "正午阳光一直促成与杨紫合作",
+        "onboard_time": 1716890838,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232655,
+        "num": 195653,
+        "word": "辛芷蕾去泰国只办一件事",
+        "onboard_time": 1716890719,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229592,
+        "num": 195421,
+        "word": "巴雷特出现了",
+        "onboard_time": 1716888558,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207993,
+        "num": 195175,
+        "word": "范若若骑王启年全剧无敌",
+        "onboard_time": 1716888378,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199651,
+        "num": 195022,
+        "word": "中共中央政治局第十四次集体学习",
+        "onboard_time": 1716890658,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194969,
+        "num": 194969,
+        "word": "章昊沈泉锐 奔跑吧",
+        "onboard_time": 1716890958,
+        "rank": 33,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 189082,
+        "num": 189082,
+        "word": "原来杨紫陈楚生早年合作过",
+        "onboard_time": 1716884839,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186059,
+        "num": 186059,
+        "word": "庆余年放榜 范进中举",
+        "onboard_time": 1716888438,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168082,
+        "num": 168082,
+        "word": "李佳琦披哥路透",
+        "onboard_time": 1716881117,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167227,
+        "num": 167227,
+        "word": "张若昀 再不让你们理亏",
+        "onboard_time": 1716887898,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153172,
+        "num": 153172,
+        "word": "英雄志",
+        "onboard_time": 1716889038,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129647,
+        "num": 129647,
+        "word": "情侣长得太像听网友劝去做亲缘鉴定",
+        "onboard_time": 1716872359,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125321,
+        "num": 125321,
+        "word": "王妈在塌一种很新的房",
+        "onboard_time": 1716864679,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119959,
+        "num": 119959,
+        "word": "王妈塌房粉丝仍涨6万",
+        "onboard_time": 1716880217,
+        "rank": 41,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 118308,
+        "num": 118308,
+        "word": "上海大学生花29天坐公交到新加坡",
+        "onboard_time": 1716883398,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 117489,
+        "num": 117489,
+        "word": "上海爸爸陪30岁女儿看病挂点滴",
+        "onboard_time": 1716889097,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116061,
+        "num": 116061,
+        "word": "Ning说Tarzan什么冠军",
+        "onboard_time": 1716885618,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108015,
+        "num": 108015,
+        "word": "LWX遭老头杯官方开庭",
+        "onboard_time": 1716891497,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105755,
+        "num": 105755,
+        "word": "杨紫瘦了piu仔胖了",
+        "onboard_time": 1716880578,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103225,
+        "num": 103225,
+        "word": "丝瓜炒蛏子",
+        "onboard_time": 1716891560,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101670,
+        "num": 101670,
+        "word": "一个榴莲真能顶三只鸡吗",
+        "onboard_time": 1716869599,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101124,
+        "num": 101124,
+        "word": "2024KPL夏季转会期",
+        "onboard_time": 1716889818,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局5月27日召开会议#"
+    }
+  }
+}
