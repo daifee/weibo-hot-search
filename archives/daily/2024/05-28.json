@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716906891562,
+  "endTime": 1716909600446,
   "band_list": [
     {
       "raw_hot": 2418407,
@@ -227,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 869440,
+      "num": 711347,
+      "word": "前员工称王妈塌房是意料之中",
+      "onboard_time": 1716906140,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 868115,
       "num": 868115,
       "word": "冲绳",
@@ -307,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 761475,
+      "num": 761475,
+      "word": "官方回应福宝颈部断毛",
+      "onboard_time": 1716906200,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759347,
       "num": 272843,
       "word": "真的建议在外上厕所用马桶",
@@ -377,6 +393,14 @@
       "onboard_time": 1716895457,
       "rank": 18,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 700678,
+      "num": 700678,
+      "word": "以色列拟认定联合国机构为恐怖组织",
+      "onboard_time": 1716907820,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 684840,
@@ -587,20 +611,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 494848,
+      "num": 421050,
+      "word": "鹿晗小英打牛",
+      "onboard_time": 1716906439,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492463,
       "num": 247474,
       "word": "癌细胞最偏爱3种口味",
       "onboard_time": 1716865998,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 492350,
-      "num": 709217,
-      "word": "官方回应福宝颈部断毛",
-      "onboard_time": 1716906200,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486057,
@@ -649,14 +673,6 @@
       "onboard_time": 1716855138,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 456767,
-      "num": 456767,
-      "word": "前员工称王妈塌房是意料之中",
-      "onboard_time": 1716906140,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 454779,
@@ -819,12 +835,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 357600,
-      "num": 268764,
-      "word": "鹿晗小英打牛",
-      "onboard_time": 1716906439,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 364329,
+      "num": 299293,
+      "word": "iPhone16Pro显示屏边框或变窄",
+      "onboard_time": 1716904039,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 361351,
+      "num": 250424,
+      "word": "李沁是唐艺昕的伴娘",
+      "onboard_time": 1716908659,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 350540,
@@ -875,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335568,
+      "num": 335568,
+      "word": "邱贻可邮票",
+      "onboard_time": 1716907699,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332481,
       "num": 332481,
       "word": "六公主报道易烊千玺酱园弄",
@@ -913,14 +945,6 @@
       "onboard_time": 1716859938,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 319111,
-      "num": 299293,
-      "word": "iPhone16Pro显示屏边框或变窄",
-      "onboard_time": 1716904039,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 312530,
@@ -1547,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199792,
+      "num": 185689,
+      "word": "邓紫棋上海五天二十三万人",
+      "onboard_time": 1716909260,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199674,
       "num": 179708,
       "word": "阿Sa形容刘宪华是小孩",
@@ -1723,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187389,
+      "num": 187389,
+      "word": "福宝",
+      "onboard_time": 1716907939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187153,
       "num": 187153,
       "word": "华晨宇直播",
@@ -1809,6 +1849,14 @@
       "onboard_time": 1716865038,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179050,
+      "num": 179050,
+      "word": "刘宇宁直播cue揭面具",
+      "onboard_time": 1716909500,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 178404,
@@ -1995,6 +2043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158187,
+      "num": 158187,
+      "word": "福宝啥时候上下班全看自己的心情",
+      "onboard_time": 1716908118,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157990,
       "num": 157990,
       "word": "十个勤天又收小麦了",
@@ -2025,6 +2081,14 @@
       "onboard_time": 1716869418,
       "rank": 40,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 154284,
+      "num": 154284,
+      "word": "一个动作缓解脊柱僵硬",
+      "onboard_time": 1716908899,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 154185,
@@ -2371,6 +2435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127323,
+      "num": 127323,
+      "word": "撞脸情侣亲缘鉴定结果出来了",
+      "onboard_time": 1716909198,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127001,
       "num": 127001,
       "word": "薛之谦六月连唱",
@@ -2393,6 +2465,14 @@
       "onboard_time": 1716863058,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 124354,
+      "num": 124354,
+      "word": "波尔在中国的最后一次冒险",
+      "onboard_time": 1716908358,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 123990,
@@ -2971,6 +3051,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 72670,
+      "num": 406752,
+      "word": "老师替你尝了树上樱桃不好吃",
+      "onboard_time": 1716907699,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71416,
       "num": 897537,
       "word": "换一种方式打开北京的盛夏",
@@ -2984,6 +3072,14 @@
       "word": "战友牺牲后19岁战士死守第一道防线",
       "onboard_time": 1716901219,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70186,
+      "num": 186209,
+      "word": "王传福给老车主的子女交车",
+      "onboard_time": 1716907759,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3027,6 +3123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66126,
+      "num": 461184,
+      "word": "喜提范婉大婚伴手礼",
+      "onboard_time": 1716905360,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65627,
+      "num": 296457,
+      "word": "比亚迪海豹06油耗都2字头了",
+      "onboard_time": 1716905420,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 63270,
       "num": 63270,
       "word": "肖战片场请客",
@@ -3065,14 +3177,6 @@
       "onboard_time": 1716863478,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56148,
-      "num": 296457,
-      "word": "比亚迪海豹06油耗都2字头了",
-      "onboard_time": 1716905420,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 54947,
@@ -3129,14 +3233,6 @@
       "onboard_time": 1716830114,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 47439,
-      "num": 461184,
-      "word": "喜提范婉大婚伴手礼",
-      "onboard_time": 1716905360,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 46625,

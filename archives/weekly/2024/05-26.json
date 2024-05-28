@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716906891562,
+  "endTime": 1716909600446,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -643,6 +643,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 869440,
+      "num": 711347,
+      "word": "前员工称王妈塌房是意料之中",
+      "onboard_time": 1716906140,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 868115,
       "num": 868115,
       "word": "冲绳",
@@ -859,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 761475,
+      "num": 761475,
+      "word": "官方回应福宝颈部断毛",
+      "onboard_time": 1716906200,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759347,
       "num": 272843,
       "word": "真的建议在外上厕所用马桶",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1716779719,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700678,
+      "num": 700678,
+      "word": "以色列拟认定联合国机构为恐怖组织",
+      "onboard_time": 1716907820,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 691881,
@@ -1723,6 +1747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 494848,
+      "num": 421050,
+      "word": "鹿晗小英打牛",
+      "onboard_time": 1716906439,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494405,
       "num": 237725,
       "word": "被外婆家厕所的纸震惊到了",
@@ -1753,14 +1785,6 @@
       "onboard_time": 1716865998,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 492350,
-      "num": 709217,
-      "word": "官方回应福宝颈部断毛",
-      "onboard_time": 1716906200,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492122,
@@ -1945,14 +1969,6 @@
       "onboard_time": 1716689539,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456767,
-      "num": 456767,
-      "word": "前员工称王妈塌房是意料之中",
-      "onboard_time": 1716906140,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 454779,
@@ -2419,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364329,
+      "num": 299293,
+      "word": "iPhone16Pro显示屏边框或变窄",
+      "onboard_time": 1716904039,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 364269,
       "num": 267729,
       "word": "舍友因为不吃饭瘦了11斤",
@@ -2459,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361351,
+      "num": 250424,
+      "word": "李沁是唐艺昕的伴娘",
+      "onboard_time": 1716908659,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361112,
       "num": 361112,
       "word": "我向往自由 我要谈恋爱",
@@ -2489,14 +2521,6 @@
       "onboard_time": 1716741436,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357600,
-      "num": 268764,
-      "word": "鹿晗小英打牛",
-      "onboard_time": 1716906439,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 357301,
@@ -2667,6 +2691,14 @@
       "category": "体育,教育"
     },
     {
+      "raw_hot": 335568,
+      "num": 335568,
+      "word": "邱贻可邮票",
+      "onboard_time": 1716907699,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335541,
       "num": 335541,
       "word": "aespa记者会新闻图",
@@ -2761,14 +2793,6 @@
       "onboard_time": 1716693199,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319111,
-      "num": 299293,
-      "word": "iPhone16Pro显示屏边框或变窄",
-      "onboard_time": 1716904039,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 318249,
@@ -4523,6 +4547,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 199792,
+      "num": 185689,
+      "word": "邓紫棋上海五天二十三万人",
+      "onboard_time": 1716909260,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199674,
       "num": 179708,
       "word": "阿Sa形容刘宪华是小孩",
@@ -4915,6 +4947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187389,
+      "num": 187389,
+      "word": "福宝",
+      "onboard_time": 1716907939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187153,
       "num": 187153,
       "word": "华晨宇直播",
@@ -5161,6 +5201,14 @@
       "onboard_time": 1716865038,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179050,
+      "num": 179050,
+      "word": "刘宇宁直播cue揭面具",
+      "onboard_time": 1716909500,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 178567,
@@ -5787,6 +5835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158187,
+      "num": 158187,
+      "word": "福宝啥时候上下班全看自己的心情",
+      "onboard_time": 1716908118,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158112,
       "num": 158112,
       "word": "你什么时候意识到该离职了",
@@ -5897,6 +5953,14 @@
       "onboard_time": 1716699979,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154284,
+      "num": 154284,
+      "word": "一个动作缓解脊柱僵硬",
+      "onboard_time": 1716908899,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 154185,
@@ -6883,6 +6947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127323,
+      "num": 127323,
+      "word": "撞脸情侣亲缘鉴定结果出来了",
+      "onboard_time": 1716909198,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127087,
       "num": 127087,
       "word": "法网",
@@ -6993,6 +7065,14 @@
       "onboard_time": 1716678014,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124354,
+      "num": 124354,
+      "word": "波尔在中国的最后一次冒险",
+      "onboard_time": 1716908358,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 124123,
@@ -8139,6 +8219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 72670,
+      "num": 406752,
+      "word": "老师替你尝了树上樱桃不好吃",
+      "onboard_time": 1716907699,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72364,
       "num": 103394,
       "word": "传奇杯线下赛门票开售",
@@ -8169,6 +8257,14 @@
       "onboard_time": 1716781579,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 70186,
+      "num": 186209,
+      "word": "王传福给老车主的子女交车",
+      "onboard_time": 1716907759,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69991,
@@ -8203,12 +8299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66126,
+      "num": 461184,
+      "word": "喜提范婉大婚伴手礼",
+      "onboard_time": 1716905360,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65754,
       "num": 402203,
       "word": "他不是蜘蛛侠但他愿从天而降救你",
       "onboard_time": 1716681916,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 65627,
+      "num": 296457,
+      "word": "比亚迪海豹06油耗都2字头了",
+      "onboard_time": 1716905420,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 63355,
@@ -8305,14 +8417,6 @@
       "onboard_time": 1716863478,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56148,
-      "num": 296457,
-      "word": "比亚迪海豹06油耗都2字头了",
-      "onboard_time": 1716905420,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 55743,
@@ -8473,14 +8577,6 @@
       "onboard_time": 1716779061,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 47439,
-      "num": 461184,
-      "word": "喜提范婉大婚伴手礼",
-      "onboard_time": 1716905360,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 47124,

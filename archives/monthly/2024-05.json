@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716906891562,
+  "endTime": 1716909600446,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -7403,6 +7403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 869440,
+      "num": 711347,
+      "word": "前员工称王妈塌房是意料之中",
+      "onboard_time": 1716906140,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 868948,
       "num": 868948,
       "word": "专家称房价下降会致国民资产缩水",
@@ -9139,6 +9147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761475,
+      "num": 761475,
+      "word": "官方回应福宝颈部断毛",
+      "onboard_time": 1716906200,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 761384,
       "num": 761384,
       "word": "关雪 晴川",
@@ -10513,6 +10529,14 @@
       "onboard_time": 1714642097,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 700678,
+      "num": 700678,
+      "word": "以色列拟认定联合国机构为恐怖组织",
+      "onboard_time": 1716907820,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 700588,
@@ -17067,6 +17091,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 494848,
+      "num": 421050,
+      "word": "鹿晗小英打牛",
+      "onboard_time": 1716906439,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494520,
       "num": 494520,
       "word": "长相思2排播",
@@ -17185,14 +17217,6 @@
       "onboard_time": 1716865998,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 492350,
-      "num": 709217,
-      "word": "官方回应福宝颈部断毛",
-      "onboard_time": 1716906200,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492282,
@@ -18945,14 +18969,6 @@
       "onboard_time": 1716689539,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456767,
-      "num": 456767,
-      "word": "前员工称王妈塌房是意料之中",
-      "onboard_time": 1716906140,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 455763,
@@ -23995,6 +24011,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 364329,
+      "num": 299293,
+      "word": "iPhone16Pro显示屏边框或变窄",
+      "onboard_time": 1716904039,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 364310,
       "num": 276869,
       "word": "张若昀的台词从牙缝里挤出来",
@@ -24193,6 +24217,14 @@
       "onboard_time": 1715619434,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 361351,
+      "num": 250424,
+      "word": "李沁是唐艺昕的伴娘",
+      "onboard_time": 1716908659,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 361308,
@@ -24409,14 +24441,6 @@
       "onboard_time": 1715608700,
       "rank": 16,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 357600,
-      "num": 268764,
-      "word": "鹿晗小英打牛",
-      "onboard_time": 1716906439,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 357416,
@@ -25891,6 +25915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335568,
+      "num": 335568,
+      "word": "邱贻可邮票",
+      "onboard_time": 1716907699,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335541,
       "num": 335541,
       "word": "aespa记者会新闻图",
@@ -27193,14 +27225,6 @@
       "onboard_time": 1715745859,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319111,
-      "num": 299293,
-      "word": "iPhone16Pro显示屏边框或变窄",
-      "onboard_time": 1716904039,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 318855,
@@ -42603,6 +42627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199792,
+      "num": 185689,
+      "word": "邓紫棋上海五天二十三万人",
+      "onboard_time": 1716909260,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199768,
       "num": 199768,
       "word": "爱马适",
@@ -48715,6 +48747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179050,
+      "num": 179050,
+      "word": "刘宇宁直播cue揭面具",
+      "onboard_time": 1716909500,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179041,
       "num": 179041,
       "word": "喀拉峻草原花海美成了壁纸",
@@ -54571,6 +54611,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 158187,
+      "num": 158187,
+      "word": "福宝啥时候上下班全看自己的心情",
+      "onboard_time": 1716908118,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158180,
       "num": 158180,
       "word": "五月天香港演唱会延期补偿方案",
@@ -55745,6 +55793,14 @@
       "onboard_time": 1716346158,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 154284,
+      "num": 154284,
+      "word": "一个动作缓解脊柱僵硬",
+      "onboard_time": 1716908899,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 154255,
@@ -63811,6 +63867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127323,
+      "num": 127323,
+      "word": "撞脸情侣亲缘鉴定结果出来了",
+      "onboard_time": 1716909198,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127307,
       "num": 127307,
       "word": "中华白海豚干饭前一套小连招",
@@ -64785,6 +64849,14 @@
       "onboard_time": 1715501298,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124354,
+      "num": 124354,
+      "word": "波尔在中国的最后一次冒险",
+      "onboard_time": 1716908358,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 124348,
@@ -73035,6 +73107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72670,
+      "num": 406752,
+      "word": "老师替你尝了树上樱桃不好吃",
+      "onboard_time": 1716907699,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72571,
       "num": 227209,
       "word": "田曦薇露腹肌了",
@@ -73240,6 +73320,14 @@
       "word": "袁隆平把一生浸在稻田里",
       "onboard_time": 1716334456,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70186,
+      "num": 186209,
+      "word": "王传福给老车主的子女交车",
+      "onboard_time": 1716907759,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -73595,6 +73683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66126,
+      "num": 461184,
+      "word": "喜提范婉大婚伴手礼",
+      "onboard_time": 1716905360,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65944,
       "num": 65944,
       "word": "金牛座的精神支柱",
@@ -73633,6 +73729,14 @@
       "onboard_time": 1716681916,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 65627,
+      "num": 296457,
+      "word": "比亚迪海豹06油耗都2字头了",
+      "onboard_time": 1716905420,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 65565,
@@ -74547,14 +74651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56148,
-      "num": 296457,
-      "word": "比亚迪海豹06油耗都2字头了",
-      "onboard_time": 1716905420,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 56142,
       "num": 645679,
       "word": "这是一年级仔仔最拉风的一天",
@@ -75409,14 +75505,6 @@
       "onboard_time": 1715939540,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 47439,
-      "num": 461184,
-      "word": "喜提范婉大婚伴手礼",
-      "onboard_time": 1716905360,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 47329,
