@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716899701156,
+  "endTime": 1716900592436,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -5657,6 +5657,14 @@
       "onboard_time": 1714892358,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1035698,
+      "num": 1035698,
+      "word": "陈晓光头走红毯",
+      "onboard_time": 1716898096,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1033035,
@@ -12905,14 +12913,6 @@
       "onboard_time": 1715334080,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 614648,
-      "num": 614648,
-      "word": "陈晓光头走红毯",
-      "onboard_time": 1716898096,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 614189,
@@ -21539,6 +21539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 405453,
+      "num": 405453,
+      "word": "林婉儿人设 单薄",
+      "onboard_time": 1716898038,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405407,
       "num": 405407,
       "word": "想念CoCo",
@@ -21697,14 +21705,6 @@
       "onboard_time": 1714491558,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 402750,
-      "num": 402750,
-      "word": "林婉儿人设 单薄",
-      "onboard_time": 1716898038,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 402715,
@@ -23795,6 +23795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365722,
+      "num": 365722,
+      "word": "李沁的头冠是3D打印的",
+      "onboard_time": 1716899537,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365716,
       "num": 365716,
       "word": "周深录奔跑吧哭了",
@@ -25584,6 +25592,14 @@
       "word": "男子疯狂减肥却胖70斤还脑梗送医抢救",
       "onboard_time": 1714607176,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337948,
+      "num": 412864,
+      "word": "婚姻登记处称离婚预约爆满与楼市新政无关",
+      "onboard_time": 1716889758,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -30683,6 +30699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275040,
+      "num": 198022,
+      "word": "IVE 划水",
+      "onboard_time": 1716900017,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 275017,
       "num": 209421,
       "word": "袁娅维假条批了吗",
@@ -31369,6 +31393,14 @@
       "onboard_time": 1715088379,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268181,
+      "num": 268181,
+      "word": "官员称还有2个月退休不该过多去问",
+      "onboard_time": 1716896358,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267985,
@@ -34371,6 +34403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241350,
+      "num": 241350,
+      "word": "南京Hero久竞拒绝报价",
+      "onboard_time": 1716899959,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 241304,
       "num": 241304,
       "word": "杜锋说为周琦受伤感到寒心",
@@ -35697,6 +35737,14 @@
       "onboard_time": 1716232151,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 232092,
+      "num": 232092,
+      "word": "一猩60万",
+      "onboard_time": 1716900077,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 232060,
@@ -40497,6 +40545,14 @@
       "onboard_time": 1716110477,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205721,
+      "num": 193004,
+      "word": "满屏都是唐艺昕",
+      "onboard_time": 1716900318,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 205710,
@@ -48539,14 +48595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 178532,
-      "num": 203283,
-      "word": "官员称还有2个月退休不该过多去问",
-      "onboard_time": 1716896358,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178493,
       "num": 178493,
       "word": "巩俐戛纳红毯气场",
@@ -50305,6 +50353,14 @@
       "onboard_time": 1716361938,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172600,
+      "num": 172600,
+      "word": "孩子们跟着国产剧上语文课",
+      "onboard_time": 1716899537,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172569,
@@ -52897,6 +52953,14 @@
       "onboard_time": 1715602099,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163453,
+      "num": 163453,
+      "word": "头发越掉越多怎么办",
+      "onboard_time": 1716897616,
+      "rank": 35,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 163428,
@@ -56747,14 +56811,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 149682,
-      "num": 149682,
-      "word": "李沁的头冠是3D打印的",
-      "onboard_time": 1716899537,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149675,
       "num": 149675,
       "word": "王一博片场花絮",
@@ -57825,6 +57881,14 @@
       "onboard_time": 1714573459,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 146548,
+      "num": 146548,
+      "word": "清融入选梦之队",
+      "onboard_time": 1716899417,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 146547,
@@ -62787,14 +62851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 129919,
-      "num": 129919,
-      "word": "清融入选梦之队",
-      "onboard_time": 1716899417,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 129902,
       "num": 217911,
       "word": "凤凰传奇军训",
@@ -63539,14 +63595,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 127209,
-      "num": 127209,
-      "word": "孩子们跟着国产剧上语文课",
-      "onboard_time": 1716899537,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127198,
       "num": 127198,
       "word": "和ChatGPT谈恋爱是什么体验",
@@ -63625,6 +63673,14 @@
       "onboard_time": 1716348379,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127001,
+      "num": 127001,
+      "word": "薛之谦六月连唱",
+      "onboard_time": 1716900318,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 126997,
@@ -65531,6 +65587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120131,
+      "num": 120131,
+      "word": "女排联赛",
+      "onboard_time": 1716899658,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120112,
       "num": 120112,
       "word": "和死对头吵架突然亲我一口",
@@ -66057,14 +66121,6 @@
       "onboard_time": 1716278658,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118548,
-      "num": 141242,
-      "word": "头发越掉越多怎么办",
-      "onboard_time": 1716897616,
-      "rank": 35,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 118503,
@@ -69003,6 +69059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105697,
+      "num": 105697,
+      "word": "养狗的意义在这一刻达到了顶峰",
+      "onboard_time": 1716899537,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105676,
       "num": 105676,
       "word": "马龙0比3张禹珍",
@@ -69651,14 +69715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101850,
-      "num": 101850,
-      "word": "养狗的意义在这一刻达到了顶峰",
-      "onboard_time": 1716899537,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 101842,
       "num": 101842,
       "word": "范丞丞吐槽杨迪新发型",
@@ -69801,14 +69857,6 @@
       "onboard_time": 1715080338,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100972,
-      "num": 100972,
-      "word": "女排联赛",
-      "onboard_time": 1716899658,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 100767,
@@ -76163,6 +76211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34476,
+      "num": 227665,
+      "word": "太子给范闲送的贡品是东阿阿胶",
+      "onboard_time": 1716898157,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34426,
       "num": 34426,
       "word": "古天乐好帅",
@@ -76641,14 +76697,6 @@
       "onboard_time": 1714970901,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27664,
-      "num": 199481,
-      "word": "太子给范闲送的贡品是东阿阿胶",
-      "onboard_time": 1716898157,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 27657,
@@ -77216,6 +77264,14 @@
       "word": "文旅局调查水上闯关节目多人摔伤",
       "onboard_time": 1716813858,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20541,
+      "num": 648276,
+      "word": "风吹金色麦浪有多治愈",
+      "onboard_time": 1716900438,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -78382,6 +78438,9 @@
     },
     {
       "word": "#努力实现关键核心技术自主可控#"
+    },
+    {
+      "word": "#中赤几关系提升为全面战略合作伙伴关系#"
     }
   ]
 }

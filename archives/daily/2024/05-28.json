@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716899701156,
+  "endTime": 1716900592436,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -112,6 +112,14 @@
       "word": "范闲大婚 寒酸",
       "onboard_time": 1716877637,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1035698,
+      "num": 1035698,
+      "word": "陈晓光头走红毯",
+      "onboard_time": 1716898096,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -363,14 +371,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 614648,
-      "num": 614648,
-      "word": "陈晓光头走红毯",
-      "onboard_time": 1716898096,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 611802,
       "num": 611802,
       "word": "官员用茅台打比方反问央视记者",
@@ -611,20 +611,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405453,
+      "num": 405453,
+      "word": "林婉儿人设 单薄",
+      "onboard_time": 1716898038,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403357,
       "num": 410856,
       "word": "网红王妈团队走红史",
       "onboard_time": 1716868820,
       "rank": 9,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 402750,
-      "num": 402750,
-      "word": "林婉儿人设 单薄",
-      "onboard_time": 1716898038,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 401923,
@@ -691,6 +691,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 365722,
+      "num": 365722,
+      "word": "李沁的头冠是3D打印的",
+      "onboard_time": 1716899537,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350540,
       "num": 350540,
       "word": "质疑太子理解太子",
@@ -713,6 +721,14 @@
       "onboard_time": 1716884839,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 337948,
+      "num": 412864,
+      "word": "婚姻登记处称离婚预约爆满与楼市新政无关",
+      "onboard_time": 1716889758,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332481,
@@ -851,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275040,
+      "num": 198022,
+      "word": "IVE 划水",
+      "onboard_time": 1716900017,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 274548,
       "num": 274548,
       "word": "2024高考",
@@ -889,6 +913,14 @@
       "onboard_time": 1716820520,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268181,
+      "num": 268181,
+      "word": "官员称还有2个月退休不该过多去问",
+      "onboard_time": 1716896358,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267775,
@@ -963,6 +995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 252100,
+      "num": 252100,
+      "word": "光与夜之恋",
+      "onboard_time": 1716900198,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 247794,
       "num": 247794,
       "word": "颖儿问付辛博要卡的原因",
@@ -1027,6 +1067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241350,
+      "num": 241350,
+      "word": "南京Hero久竞拒绝报价",
+      "onboard_time": 1716899959,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240188,
       "num": 211292,
       "word": "爷爷临终前开了一个玩笑",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1716856158,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232092,
+      "num": 232092,
+      "word": "一猩60万",
+      "onboard_time": 1716900077,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 229891,
@@ -1209,6 +1265,14 @@
       "onboard_time": 1716864738,
       "rank": 18,
       "category": "军事"
+    },
+    {
+      "raw_hot": 205721,
+      "num": 193004,
+      "word": "满屏都是唐艺昕",
+      "onboard_time": 1716900318,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 205264,
@@ -1499,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178532,
-      "num": 203283,
-      "word": "官员称还有2个月退休不该过多去问",
-      "onboard_time": 1716896358,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178404,
       "num": 178404,
       "word": "光遇",
@@ -1563,6 +1619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172600,
+      "num": 172600,
+      "word": "孩子们跟着国产剧上语文课",
+      "onboard_time": 1716899537,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172263,
       "num": 172263,
       "word": "龚吓幂",
@@ -1609,6 +1673,14 @@
       "onboard_time": 1716899118,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 163453,
+      "num": 163453,
+      "word": "头发越掉越多怎么办",
+      "onboard_time": 1716897616,
+      "rank": 35,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 162683,
@@ -1763,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149682,
-      "num": 149682,
-      "word": "李沁的头冠是3D打印的",
-      "onboard_time": 1716899537,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149428,
       "num": 149428,
       "word": "i人怎么把这箱荔枝分给同事",
@@ -1784,6 +1848,14 @@
       "word": "清清入选梦之队",
       "onboard_time": 1716881538,
       "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 146548,
+      "num": 146548,
+      "word": "清融入选梦之队",
+      "onboard_time": 1716899417,
+      "rank": 39,
       "category": "电竞"
     },
     {
@@ -2011,14 +2083,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 129919,
-      "num": 129919,
-      "word": "清融入选梦之队",
-      "onboard_time": 1716899417,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 127987,
       "num": 127987,
       "word": "WBG官宣2024夏季赛大名单",
@@ -2027,12 +2091,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127209,
-      "num": 127209,
-      "word": "孩子们跟着国产剧上语文课",
-      "onboard_time": 1716899537,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 127001,
+      "num": 127001,
+      "word": "薛之谦六月连唱",
+      "onboard_time": 1716900318,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 126449,
@@ -2073,6 +2137,14 @@
       "onboard_time": 1716876559,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120131,
+      "num": 120131,
+      "word": "女排联赛",
+      "onboard_time": 1716899658,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 120031,
@@ -2129,14 +2201,6 @@
       "onboard_time": 1716868698,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118548,
-      "num": 141242,
-      "word": "头发越掉越多怎么办",
-      "onboard_time": 1716897616,
-      "rank": 35,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 117808,
@@ -2291,6 +2355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 105697,
+      "num": 105697,
+      "word": "养狗的意义在这一刻达到了顶峰",
+      "onboard_time": 1716899537,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105624,
       "num": 105624,
       "word": "一诺 感谢大家为我投票",
@@ -2323,28 +2395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101850,
-      "num": 101850,
-      "word": "养狗的意义在这一刻达到了顶峰",
-      "onboard_time": 1716899537,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 101124,
       "num": 101124,
       "word": "2024KPL夏季转会期",
       "onboard_time": 1716889818,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100972,
-      "num": 100972,
-      "word": "女排联赛",
-      "onboard_time": 1716899658,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 100334,
@@ -2771,6 +2827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34476,
+      "num": 227665,
+      "word": "太子给范闲送的贡品是东阿阿胶",
+      "onboard_time": 1716898157,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32177,
       "num": 32177,
       "word": "杨幂生万物明天开机仪式",
@@ -2787,19 +2851,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27664,
-      "num": 199481,
-      "word": "太子给范闲送的贡品是东阿阿胶",
-      "onboard_time": 1716898157,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20647,
       "num": 229752,
       "word": "非沪籍在上海购房社保年限减为3年",
       "onboard_time": 1716808217,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20541,
+      "num": 648276,
+      "word": "风吹金色麦浪有多治愈",
+      "onboard_time": 1716900438,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2874,6 +2938,9 @@
     },
     {
       "word": "#努力实现关键核心技术自主可控#"
+    },
+    {
+      "word": "#中赤几关系提升为全面战略合作伙伴关系#"
     }
   ]
 }
