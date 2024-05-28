@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716909600446,
+  "endTime": 1716910487170,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 869440,
-      "num": 711347,
+      "num": 747053,
       "word": "前员工称王妈塌房是意料之中",
       "onboard_time": 1716906140,
       "rank": 14,
@@ -867,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 766059,
+      "num": 766059,
+      "word": "以色列拟认定联合国机构为恐怖组织",
+      "onboard_time": 1716907820,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 761475,
       "num": 761475,
       "word": "官方回应福宝颈部断毛",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1716779719,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 700678,
-      "num": 700678,
-      "word": "以色列拟认定联合国机构为恐怖组织",
-      "onboard_time": 1716907820,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 691881,
@@ -1803,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488713,
+      "num": 396754,
+      "word": "李沁是唐艺昕的伴娘",
+      "onboard_time": 1716908659,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 488710,
       "num": 401967,
       "word": "彭于晏的狗狗在戛纳获奖了",
@@ -1969,6 +1977,14 @@
       "onboard_time": 1716689539,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455032,
+      "num": 299293,
+      "word": "iPhone16Pro显示屏边框或变窄",
+      "onboard_time": 1716904039,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 454779,
@@ -2435,14 +2451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 364329,
-      "num": 299293,
-      "word": "iPhone16Pro显示屏边框或变窄",
-      "onboard_time": 1716904039,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 364269,
       "num": 267729,
       "word": "舍友因为不吃饭瘦了11斤",
@@ -2481,14 +2489,6 @@
       "onboard_time": 1716784402,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361351,
-      "num": 250424,
-      "word": "李沁是唐艺昕的伴娘",
-      "onboard_time": 1716908659,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 361112,
@@ -4123,7 +4123,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 215132,
+      "raw_hot": 215286,
       "num": 215132,
       "word": "善宰小率婚礼",
       "onboard_time": 1716906078,
@@ -4185,6 +4185,14 @@
       "onboard_time": 1716700338,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211161,
+      "num": 190912,
+      "word": "李云睿李承泽 抽象对话",
+      "onboard_time": 1716909860,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 211074,
@@ -4435,6 +4443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203218,
+      "num": 203218,
+      "word": "福宝",
+      "onboard_time": 1716907939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202721,
       "num": 202721,
       "word": "大导眼中的章子怡",
@@ -4548,11 +4564,19 @@
     },
     {
       "raw_hot": 199792,
-      "num": 185689,
+      "num": 190351,
       "word": "邓紫棋上海五天二十三万人",
       "onboard_time": 1716909260,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199756,
+      "num": 199756,
+      "word": "撞脸情侣亲缘鉴定结果出来了",
+      "onboard_time": 1716909198,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199674,
@@ -4907,6 +4931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188203,
+      "num": 188203,
+      "word": "刘宇宁直播cue揭面具",
+      "onboard_time": 1716909500,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187747,
       "num": 187747,
       "word": "庆余年2偷感F4",
@@ -4944,14 +4976,6 @@
       "word": "河流污染恶臭相关部门坚称没问题",
       "onboard_time": 1716890838,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187389,
-      "num": 187389,
-      "word": "福宝",
-      "onboard_time": 1716907939,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -5201,14 +5225,6 @@
       "onboard_time": 1716865038,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179050,
-      "num": 179050,
-      "word": "刘宇宁直播cue揭面具",
-      "onboard_time": 1716909500,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 178567,
@@ -5956,7 +5972,7 @@
     },
     {
       "raw_hot": 154284,
-      "num": 154284,
+      "num": 191502,
       "word": "一个动作缓解脊柱僵硬",
       "onboard_time": 1716908899,
       "rank": 42,
@@ -6371,6 +6387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141043,
+      "num": 141043,
+      "word": "庆余年的倾城爸爸们",
+      "onboard_time": 1716910217,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140959,
       "num": 140959,
       "word": "老人为什么看电视越来越吃力",
@@ -6649,6 +6673,14 @@
       "onboard_time": 1716690977,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 134219,
+      "num": 406752,
+      "word": "老师替你尝了树上樱桃不好吃",
+      "onboard_time": 1716907699,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134101,
@@ -6945,14 +6977,6 @@
       "onboard_time": 1716708379,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127323,
-      "num": 127323,
-      "word": "撞脸情侣亲缘鉴定结果出来了",
-      "onboard_time": 1716909198,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127087,
@@ -8219,14 +8243,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 72670,
-      "num": 406752,
-      "word": "老师替你尝了树上樱桃不好吃",
-      "onboard_time": 1716907699,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72364,
       "num": 103394,
       "word": "传奇杯线下赛门票开售",
@@ -8260,7 +8276,7 @@
     },
     {
       "raw_hot": 70186,
-      "num": 186209,
+      "num": 192324,
       "word": "王传福给老车主的子女交车",
       "onboard_time": 1716907759,
       "rank": 28,
@@ -8689,6 +8705,14 @@
       "onboard_time": 1716713179,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40152,
+      "num": 370564,
+      "word": "农大丁同学为高考学子加油",
+      "onboard_time": 1716909680,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 40066,
