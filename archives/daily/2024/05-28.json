@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716863583590,
+  "endTime": 1716864191684,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1292162,
+      "num": 655356,
+      "word": "两名20多岁男子与14岁女孩发生关系",
+      "onboard_time": 1716862218,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1186478,
       "num": 1186478,
       "word": "朝鲜",
@@ -33,14 +41,6 @@
       "onboard_time": 1716855498,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1039084,
-      "num": 215591,
-      "word": "两名20多岁男子与14岁女孩发生关系",
-      "onboard_time": 1716862218,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 886181,
@@ -105,6 +105,14 @@
       "onboard_time": 1716820099,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 516109,
+      "num": 165722,
+      "word": "有明星本人微信是什么体验",
+      "onboard_time": 1716862578,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 469155,
@@ -195,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 341585,
-      "num": 165722,
-      "word": "有明星本人微信是什么体验",
-      "onboard_time": 1716862578,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 332481,
       "num": 332481,
       "word": "六公主报道易烊千玺酱园弄",
@@ -217,6 +217,14 @@
       "onboard_time": 1716860118,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326913,
+      "num": 278905,
+      "word": "广西通报46岁男子工地坠亡事件",
+      "onboard_time": 1716862038,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 323898,
@@ -251,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285296,
-      "num": 208210,
-      "word": "广西通报46岁男子工地坠亡事件",
-      "onboard_time": 1716862038,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 277369,
       "num": 277369,
       "word": "外媒把吴君如认成了章子怡",
@@ -273,6 +273,14 @@
       "onboard_time": 1716851595,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 272320,
+      "num": 164254,
+      "word": "同事提离职后有点消极怠工",
+      "onboard_time": 1716863358,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 271169,
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266623,
+      "num": 266623,
+      "word": "张若昀 电车难题",
+      "onboard_time": 1716860478,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266000,
       "num": 266000,
       "word": "埃及",
@@ -307,20 +323,36 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 264936,
-      "num": 205603,
-      "word": "张若昀 电车难题",
-      "onboard_time": 1716860478,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263606,
       "num": 263606,
       "word": "警方通报男子出售女童写真牟利",
       "onboard_time": 1716853638,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 258999,
+      "num": 163437,
+      "word": "千万网红狂言何不食肉糜",
+      "onboard_time": 1716863537,
+      "rank": 27,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 248719,
+      "num": 248719,
+      "word": "孙杨回来了",
+      "onboard_time": 1716863716,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 246263,
+      "num": 246263,
+      "word": "布兰妮珠宝被偷",
+      "onboard_time": 1716862398,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 246187,
@@ -337,14 +369,6 @@
       "onboard_time": 1716807798,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238887,
-      "num": 199782,
-      "word": "布兰妮珠宝被偷",
-      "onboard_time": 1716862398,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 233852,
@@ -369,14 +393,6 @@
       "onboard_time": 1716852616,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199672,
-      "num": 164254,
-      "word": "同事提离职后有点消极怠工",
-      "onboard_time": 1716863358,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 198861,
@@ -475,14 +491,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 169593,
-      "num": 163437,
-      "word": "千万网红狂言何不食肉糜",
-      "onboard_time": 1716863537,
-      "rank": 27,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 160834,
       "num": 144931,
       "word": "33岁生完二胎我才真正清醒了",
@@ -571,6 +579,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136282,
+      "num": 136282,
+      "word": "2024毕业季",
+      "onboard_time": 1716863898,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 135734,
+      "num": 167013,
+      "word": "求职找工作避坑指南",
+      "onboard_time": 1716860838,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135103,
       "num": 135103,
       "word": "善宰还是把阵雨写出来了",
@@ -619,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122830,
+      "num": 122830,
+      "word": "i人怎么把这箱荔枝分给同事",
+      "onboard_time": 1716861678,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119856,
       "num": 119856,
       "word": "高考10天倒计时",
@@ -640,14 +672,6 @@
       "word": "大学一人寝你愿意住吗",
       "onboard_time": 1716816739,
       "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 119318,
-      "num": 119318,
-      "word": "i人怎么把这箱荔枝分给同事",
-      "onboard_time": 1716861678,
-      "rank": 34,
       "category": "情感"
     },
     {
@@ -691,12 +715,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 111239,
+      "raw_hot": 112155,
       "num": 167313,
       "word": "穆里奇宣布退役",
       "onboard_time": 1716862937,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102875,
+      "num": 102875,
+      "word": "广西46岁男子工地坠亡排除刑案",
+      "onboard_time": 1716864017,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 102004,
@@ -721,6 +753,22 @@
       "onboard_time": 1716856039,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97837,
+      "num": 97837,
+      "word": "笑中带泪是我们的高三",
+      "onboard_time": 1716863837,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 96339,
+      "num": 96339,
+      "word": "李小冉早期旧照",
+      "onboard_time": 1716863958,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 92399,
@@ -787,8 +835,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84497,
+      "num": 93289,
+      "word": "为什么方便面是弯的不是直的",
+      "onboard_time": 1716863058,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84114,
-      "num": 84114,
+      "num": 92933,
       "word": "这个世界上真的有汪汪队",
       "onboard_time": 1716861738,
       "rank": 46,
@@ -835,14 +891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 82585,
-      "num": 82585,
-      "word": "为什么方便面是弯的不是直的",
-      "onboard_time": 1716863058,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 82097,
       "num": 82097,
       "word": "白羊座的做事逻辑",
@@ -865,14 +913,6 @@
       "onboard_time": 1716822080,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 80805,
-      "num": 167013,
-      "word": "求职找工作避坑指南",
-      "onboard_time": 1716860838,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80366,
@@ -913,6 +953,14 @@
       "onboard_time": 1716844031,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69877,
+      "num": 286248,
+      "word": "马面裙给曹县汉服设计师引来港商",
+      "onboard_time": 1716863598,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69731,

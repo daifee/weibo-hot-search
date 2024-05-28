@@ -1,0 +1,410 @@
+{
+  "runTime": 1716864191684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1294159,
+        "num": 1294159,
+        "word": "千万网红王妈塌房背后",
+        "onboard_time": 1716853877,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 882068,
+        "num": 882068,
+        "word": "台湾",
+        "onboard_time": 1716859398,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24583,
+        "num": 665274,
+        "word": "沉浸式感受数字点亮生活",
+        "onboard_time": 1716814638,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480893,
+        "num": 659831,
+        "word": "男子为泄愤将妻子隐私视频发微信群",
+        "onboard_time": 1716856098,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292162,
+        "num": 655356,
+        "word": "两名20多岁男子与14岁女孩发生关系",
+        "onboard_time": 1716862218,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 625077,
+        "num": 625077,
+        "word": "12岁身高1米83的男孩被叫叔叔",
+        "onboard_time": 1716858978,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 534591,
+        "num": 534591,
+        "word": "林婉儿 工具人",
+        "onboard_time": 1716855498,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440916,
+        "num": 440916,
+        "word": "种地星球直播",
+        "onboard_time": 1716861438,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323402,
+        "num": 323402,
+        "word": "蚊子为啥不会被洗澡水砸死",
+        "onboard_time": 1716856519,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 69877,
+        "num": 286248,
+        "word": "马面裙给曹县汉服设计师引来港商",
+        "onboard_time": 1716863598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428948,
+        "num": 281016,
+        "word": "工资6000请假半个月被扣4500",
+        "onboard_time": 1716812958,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326913,
+        "num": 278905,
+        "word": "广西通报46岁男子工地坠亡事件",
+        "onboard_time": 1716862038,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 269475,
+        "num": 269475,
+        "word": "范思辙为什么要戴项圈",
+        "onboard_time": 1716820099,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266623,
+        "num": 266623,
+        "word": "张若昀 电车难题",
+        "onboard_time": 1716860478,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248719,
+        "num": 248719,
+        "word": "孙杨回来了",
+        "onboard_time": 1716863716,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246263,
+        "num": 246263,
+        "word": "布兰妮珠宝被偷",
+        "onboard_time": 1716862398,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218469,
+        "num": 218469,
+        "word": "早起身体这5个地方滂臭要注意",
+        "onboard_time": 1716853276,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177864,
+        "num": 177864,
+        "word": "种地吧",
+        "onboard_time": 1716859337,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167817,
+        "num": 167817,
+        "word": "当你连续点同一家外卖超过100次",
+        "onboard_time": 1716823101,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163395,
+        "num": 163395,
+        "word": "2024国际乒联第22周排名",
+        "onboard_time": 1716859698,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516109,
+        "num": 163342,
+        "word": "有明星本人微信是什么体验",
+        "onboard_time": 1716862578,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419135,
+        "num": 162420,
+        "word": "养臭水",
+        "onboard_time": 1716855738,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321179,
+        "num": 161301,
+        "word": "因为彩礼的事情和对象闹掰了",
+        "onboard_time": 1716859938,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313490,
+        "num": 160892,
+        "word": "未婚先孕就不用给彩礼了吗",
+        "onboard_time": 1716853276,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160183,
+        "num": 160183,
+        "word": "王俊凯代言植物医生",
+        "onboard_time": 1716860238,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272320,
+        "num": 159758,
+        "word": "同事提离职后有点消极怠工",
+        "onboard_time": 1716863358,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258999,
+        "num": 159537,
+        "word": "千万网红狂言何不食肉糜",
+        "onboard_time": 1716863537,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 141426,
+        "num": 141426,
+        "word": "郑合惠子出妆",
+        "onboard_time": 1716859698,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138519,
+        "num": 138519,
+        "word": "质疑太子理解太子",
+        "onboard_time": 1716822740,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135734,
+        "num": 136655,
+        "word": "求职找工作避坑指南",
+        "onboard_time": 1716860838,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136282,
+        "num": 136282,
+        "word": "2024毕业季",
+        "onboard_time": 1716863898,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136231,
+        "num": 136231,
+        "word": "大家好像都不被允许休息",
+        "onboard_time": 1716855138,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133954,
+        "num": 133954,
+        "word": "六公主报道易烊千玺酱园弄",
+        "onboard_time": 1716854718,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122830,
+        "num": 122830,
+        "word": "i人怎么把这箱荔枝分给同事",
+        "onboard_time": 1716861678,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112155,
+        "num": 112155,
+        "word": "穆里奇宣布退役",
+        "onboard_time": 1716862937,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107452,
+        "num": 107452,
+        "word": "李小冉怎么保养的",
+        "onboard_time": 1716819680,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106084,
+        "num": 106084,
+        "word": "女儿工作后每月都会给我一千块钱",
+        "onboard_time": 1716809657,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102983,
+        "num": 102983,
+        "word": "庆余年2唯一的婚礼",
+        "onboard_time": 1716857118,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102875,
+        "num": 102875,
+        "word": "广西46岁男子工地坠亡排除刑案",
+        "onboard_time": 1716864017,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 98603,
+        "num": 98603,
+        "word": "涂山红红是涂山大动脉",
+        "onboard_time": 1716852616,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98341,
+        "num": 98341,
+        "word": "警方通报男子出售女童写真牟利",
+        "onboard_time": 1716853638,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 97837,
+        "num": 97837,
+        "word": "笑中带泪是我们的高三",
+        "onboard_time": 1716863837,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 96339,
+        "num": 96339,
+        "word": "李小冉早期旧照",
+        "onboard_time": 1716863958,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94649,
+        "num": 94649,
+        "word": "把男朋友车磕了如何补偿",
+        "onboard_time": 1716856158,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93641,
+        "num": 93641,
+        "word": "老师做久了真的都有职业病吗",
+        "onboard_time": 1716848412,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 84813,
+        "num": 93576,
+        "word": "人最笨的时候就是问出那句",
+        "onboard_time": 1716822680,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84497,
+        "num": 93289,
+        "word": "为什么方便面是弯的不是直的",
+        "onboard_time": 1716863058,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83428,
+        "num": 92992,
+        "word": "外媒把吴君如认成了章子怡",
+        "onboard_time": 1716821661,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78231,
+        "num": 92933,
+        "word": "这个世界上真的有汪汪队",
+        "onboard_time": 1716861738,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77367,
+        "num": 92691,
+        "word": "Rita毛毛公开处刑Fearness",
+        "onboard_time": 1716856938,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#驰而不息推进全面从严治党#"
+    }
+  }
+}
