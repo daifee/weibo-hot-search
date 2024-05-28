@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716877542597,
+  "endTime": 1716878293112,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -83,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 917294,
+      "num": 917294,
+      "word": "经常熬夜的人身体会发臭",
+      "onboard_time": 1716875298,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 886181,
       "num": 886181,
       "word": "台湾",
@@ -115,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 837369,
+      "num": 837369,
+      "word": "魏明伦去世",
+      "onboard_time": 1716874697,
+      "rank": 4,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 836022,
       "num": 443821,
       "word": "养臭水",
@@ -139,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 775279,
+      "num": 775279,
+      "word": "长公主有种死了老公的美",
+      "onboard_time": 1716876379,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 767938,
       "num": 449083,
       "word": "叶灵儿戏份",
@@ -153,14 +177,6 @@
       "onboard_time": 1716812958,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 749271,
-      "num": 749271,
-      "word": "魏明伦去世",
-      "onboard_time": 1716874697,
-      "rank": 4,
-      "category": "读书作家"
     },
     {
       "raw_hot": 746733,
@@ -185,14 +201,6 @@
       "onboard_time": 1716870680,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 643035,
-      "num": 643035,
-      "word": "经常熬夜的人身体会发臭",
-      "onboard_time": 1716875298,
-      "rank": 5,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 635381,
@@ -233,14 +241,6 @@
       "onboard_time": 1716871880,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 555502,
-      "num": 403283,
-      "word": "长公主有种死了老公的美",
-      "onboard_time": 1716876379,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 552116,
@@ -315,6 +315,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 421134,
+      "num": 421134,
+      "word": "iPad或改变logo方向",
+      "onboard_time": 1716873018,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 419984,
       "num": 419984,
       "word": "一个班的几乎全是考公务员的",
@@ -329,14 +337,6 @@
       "onboard_time": 1716809657,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 411098,
-      "num": 411098,
-      "word": "iPad或改变logo方向",
-      "onboard_time": 1716873018,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 410831,
@@ -467,6 +467,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303418,
+      "num": 303418,
+      "word": "范闲大婚 寒酸",
+      "onboard_time": 1716877637,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 297818,
+      "num": 248755,
+      "word": "杨紫发国色芳华剧组照",
+      "onboard_time": 1716877697,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293119,
       "num": 285627,
       "word": "权志龙将参加KAIST脱口秀",
@@ -489,6 +505,14 @@
       "onboard_time": 1716867617,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 278668,
+      "num": 278668,
+      "word": "武大靖回应学历质疑",
+      "onboard_time": 1716874579,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 277369,
@@ -579,14 +603,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 263710,
-      "num": 263710,
-      "word": "武大靖回应学历质疑",
-      "onboard_time": 1716874579,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 263606,
       "num": 263606,
       "word": "警方通报男子出售女童写真牟利",
@@ -600,6 +616,22 @@
       "word": "庆余年2演员学历",
       "onboard_time": 1716867859,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 256331,
+      "num": 256331,
+      "word": "北京市民投诉小米汽车城市路测",
+      "onboard_time": 1716874220,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 246596,
+      "num": 246596,
+      "word": "范思辙悄悄长大惊艳所有人",
+      "onboard_time": 1716876078,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -619,20 +651,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245911,
+      "num": 245911,
+      "word": "张婧仪也穿洞洞鞋",
+      "onboard_time": 1716877637,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244320,
       "num": 244320,
       "word": "光遇复刻",
       "onboard_time": 1716869418,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 243788,
-      "num": 243788,
-      "word": "北京市民投诉小米汽车城市路测",
-      "onboard_time": 1716874220,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 243539,
@@ -649,14 +681,6 @@
       "onboard_time": 1716807798,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238703,
-      "num": 238703,
-      "word": "范思辙悄悄长大惊艳所有人",
-      "onboard_time": 1716876078,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 233852,
@@ -811,6 +835,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 192978,
+      "num": 192978,
+      "word": "庆帝赐婚比月老牵线还靠谱",
+      "onboard_time": 1716877038,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189468,
+      "num": 189468,
+      "word": "JackeyLove和Uzi双向奔赴",
+      "onboard_time": 1716875959,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188910,
       "num": 188910,
       "word": "王俊凯代言植物医生",
@@ -819,27 +859,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188145,
-      "num": 188145,
-      "word": "JackeyLove和Uzi双向奔赴",
-      "onboard_time": 1716875959,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 187587,
       "num": 187587,
       "word": "白玉兰提名 还不出",
       "onboard_time": 1716865279,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 187483,
-      "num": 187483,
-      "word": "庆帝赐婚比月老牵线还靠谱",
-      "onboard_time": 1716877038,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1051,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153720,
+      "num": 153720,
+      "word": "2024IVL转会期",
+      "onboard_time": 1716877998,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153261,
       "num": 153261,
       "word": "Rita毛毛公开处刑Fearness",
@@ -1139,8 +1171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138609,
-      "num": 138609,
+      "raw_hot": 141839,
+      "num": 141839,
       "word": "原来配眼镜和脸型有关系",
       "onboard_time": 1716876678,
       "rank": 34,
@@ -1307,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115379,
+      "num": 115379,
+      "word": "广东人真的要发霉了",
+      "onboard_time": 1716875718,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115189,
       "num": 115189,
       "word": "五竹来了",
@@ -1331,14 +1371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113720,
-      "num": 113720,
-      "word": "广东人真的要发霉了",
-      "onboard_time": 1716875718,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112394,
       "num": 112394,
       "word": "口红对妆容的影响有多大",
@@ -1352,6 +1384,14 @@
       "word": "穆里奇宣布退役",
       "onboard_time": 1716862937,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109693,
+      "num": 121430,
+      "word": "武大靖称打算读博",
+      "onboard_time": 1716878177,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1377,6 +1417,14 @@
       "onboard_time": 1716864738,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 103674,
+      "num": 103674,
+      "word": "王妈",
+      "onboard_time": 1716878238,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 102875,
@@ -1595,6 +1643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81563,
+      "num": 407226,
+      "word": "天津大爷大妈的广场舞治愈了emo小伙",
+      "onboard_time": 1716877879,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 81354,
       "num": 81354,
       "word": "Gemini当选KPL梦之队教练",
@@ -1633,6 +1689,14 @@
       "onboard_time": 1716821839,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78611,
+      "num": 404683,
+      "word": "以互助献血名义交易是违法行为",
+      "onboard_time": 1716876018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69991,
@@ -1676,7 +1740,7 @@
     },
     {
       "raw_hot": 58879,
-      "num": 1004974,
+      "num": 1062879,
       "word": "高质量发展看能源",
       "onboard_time": 1716869299,
       "rank": 2,
@@ -1713,14 +1777,6 @@
       "onboard_time": 1716830114,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46148,
-      "num": 404683,
-      "word": "以互助献血名义交易是违法行为",
-      "onboard_time": 1716876018,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40046,

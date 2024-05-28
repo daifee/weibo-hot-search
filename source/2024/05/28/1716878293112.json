@@ -1,0 +1,410 @@
+{
+  "runTime": 1716878293112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1416914,
+        "num": 1416914,
+        "word": "歌手 双补位",
+        "onboard_time": 1716872118,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1311837,
+        "num": 1311837,
+        "word": "情侣长得太像听网友劝去做亲缘鉴定",
+        "onboard_time": 1716872359,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35252,
+        "num": 1062879,
+        "word": "高质量发展看能源",
+        "onboard_time": 1716869299,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917294,
+        "num": 917294,
+        "word": "经常熬夜的人身体会发臭",
+        "onboard_time": 1716875298,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 861005,
+        "num": 861005,
+        "word": "张若昀父亲被强执2000万",
+        "onboard_time": 1716864559,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 837369,
+        "num": 837369,
+        "word": "魏明伦去世",
+        "onboard_time": 1716874697,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 775279,
+        "num": 775279,
+        "word": "长公主有种死了老公的美",
+        "onboard_time": 1716876379,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458160,
+        "num": 458160,
+        "word": "重庆动物园称赵丽颖为顶流女明星",
+        "onboard_time": 1716870680,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421134,
+        "num": 421134,
+        "word": "iPad或改变logo方向",
+        "onboard_time": 1716873018,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81563,
+        "num": 407226,
+        "word": "天津大爷大妈的广场舞治愈了emo小伙",
+        "onboard_time": 1716877879,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 443221,
+        "num": 402056,
+        "word": "王妈在塌一种很新的房",
+        "onboard_time": 1716864679,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 396327,
+        "num": 396327,
+        "word": "王妈账号60S广告报价60万",
+        "onboard_time": 1716870258,
+        "rank": 11,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 367555,
+        "num": 367555,
+        "word": "孙杨回来了",
+        "onboard_time": 1716863716,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354634,
+        "num": 354634,
+        "word": "狗狗挖出了一只小猫咪",
+        "onboard_time": 1716871880,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337893,
+        "num": 337893,
+        "word": "有明星本人微信是什么体验",
+        "onboard_time": 1716862578,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303418,
+        "num": 303418,
+        "word": "范闲大婚 寒酸",
+        "onboard_time": 1716877637,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299094,
+        "num": 299094,
+        "word": "一个榴莲真能顶三只鸡吗",
+        "onboard_time": 1716869599,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278668,
+        "num": 278668,
+        "word": "武大靖回应学历质疑",
+        "onboard_time": 1716874579,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256331,
+        "num": 256331,
+        "word": "北京市民投诉小米汽车城市路测",
+        "onboard_time": 1716874220,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 173214,
+        "num": 255904,
+        "word": "网红王妈团队走红史",
+        "onboard_time": 1716868820,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 298086,
+        "num": 252471,
+        "word": "克拉岛官宣",
+        "onboard_time": 1716873858,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 485331,
+        "num": 251140,
+        "word": "同事怀孕后我辞职了",
+        "onboard_time": 1716871339,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297818,
+        "num": 248755,
+        "word": "杨紫发国色芳华剧组照",
+        "onboard_time": 1716877697,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246596,
+        "num": 246596,
+        "word": "范思辙悄悄长大惊艳所有人",
+        "onboard_time": 1716876078,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245911,
+        "num": 245911,
+        "word": "张婧仪也穿洞洞鞋",
+        "onboard_time": 1716877637,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228246,
+        "num": 228246,
+        "word": "整形医生天天满头大汗编急救故事",
+        "onboard_time": 1716869239,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210620,
+        "num": 210620,
+        "word": "许玮甯谈贺军翔性骚扰争议",
+        "onboard_time": 1716864198,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201627,
+        "num": 201627,
+        "word": "周杰伦长沙",
+        "onboard_time": 1716871880,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170638,
+        "num": 194804,
+        "word": "用古诗词为高考生加油",
+        "onboard_time": 1716864436,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130162,
+        "num": 193800,
+        "word": "张雪峰忙飞了",
+        "onboard_time": 1716873138,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192978,
+        "num": 192978,
+        "word": "庆帝赐婚比月老牵线还靠谱",
+        "onboard_time": 1716877038,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189468,
+        "num": 189468,
+        "word": "JackeyLove和Uzi双向奔赴",
+        "onboard_time": 1716875959,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167324,
+        "num": 167324,
+        "word": "章子怡说十年前的自己好青涩",
+        "onboard_time": 1716875658,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160637,
+        "num": 160637,
+        "word": "范闲 因为是家宴所以才请您",
+        "onboard_time": 1716865698,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153720,
+        "num": 153720,
+        "word": "2024IVL转会期",
+        "onboard_time": 1716877998,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141839,
+        "num": 141839,
+        "word": "原来配眼镜和脸型有关系",
+        "onboard_time": 1716876678,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134978,
+        "num": 134978,
+        "word": "癌细胞最偏爱3种口味",
+        "onboard_time": 1716865998,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127507,
+        "num": 127507,
+        "word": "杨幂齐刘海路透",
+        "onboard_time": 1716871520,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125726,
+        "num": 125726,
+        "word": "为什么小脚趾的趾甲分成两瓣",
+        "onboard_time": 1716867617,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109693,
+        "num": 121430,
+        "word": "武大靖称打算读博",
+        "onboard_time": 1716878177,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120130,
+        "num": 120130,
+        "word": "千万网红王妈塌房背后",
+        "onboard_time": 1716853877,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115379,
+        "num": 115379,
+        "word": "广东人真的要发霉了",
+        "onboard_time": 1716875718,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115321,
+        "num": 115321,
+        "word": "13部电影定档端午档",
+        "onboard_time": 1716875419,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109472,
+        "num": 111775,
+        "word": "千万网红狂言何不食肉糜",
+        "onboard_time": 1716863537,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 78611,
+        "num": 111692,
+        "word": "以互助献血名义交易是违法行为",
+        "onboard_time": 1716876018,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111675,
+        "num": 111675,
+        "word": "准妈妈因孕期胃口大变崩溃痛哭",
+        "onboard_time": 1716867738,
+        "rank": 45,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 110401,
+        "num": 110401,
+        "word": "年轻人生娃前后态度差异",
+        "onboard_time": 1716870559,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109379,
+        "num": 109379,
+        "word": "张若昀回应庆余年非我莫属",
+        "onboard_time": 1716872779,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103674,
+        "num": 103674,
+        "word": "王妈",
+        "onboard_time": 1716878238,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103211,
+        "num": 103211,
+        "word": "男子为泄愤将妻子隐私视频发微信群",
+        "onboard_time": 1716856098,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局5月27日召开会议#"
+    }
+  }
+}

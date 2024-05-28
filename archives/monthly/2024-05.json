@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716877542597,
+  "endTime": 1716878293112,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -6635,6 +6635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 917294,
+      "num": 917294,
+      "word": "经常熬夜的人身体会发臭",
+      "onboard_time": 1716875298,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 917249,
       "num": 917249,
       "word": "下班后回复微信算加班吗",
@@ -7803,6 +7811,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 837369,
+      "num": 837369,
+      "word": "魏明伦去世",
+      "onboard_time": 1716874697,
+      "rank": 4,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 837211,
       "num": 837211,
       "word": "Uzi G2",
@@ -8763,6 +8779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775279,
+      "num": 775279,
+      "word": "长公主有种死了老公的美",
+      "onboard_time": 1716876379,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 775258,
       "num": 775258,
       "word": "终于等来了榴莲1斤1字打头",
@@ -9257,14 +9281,6 @@
       "onboard_time": 1715254997,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 749271,
-      "num": 749271,
-      "word": "魏明伦去世",
-      "onboard_time": 1716874697,
-      "rank": 4,
-      "category": "读书作家"
     },
     {
       "raw_hot": 748000,
@@ -11883,14 +11899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 643035,
-      "num": 643035,
-      "word": "经常熬夜的人身体会发臭",
-      "onboard_time": 1716875298,
-      "rank": 5,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 642619,
       "num": 642619,
       "word": "跑男剪辑",
@@ -14457,14 +14465,6 @@
       "onboard_time": 1714659561,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 555502,
-      "num": 403283,
-      "word": "长公主有种死了老公的美",
-      "onboard_time": 1716876379,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 555497,
@@ -20347,6 +20347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 421134,
+      "num": 421134,
+      "word": "iPad或改变logo方向",
+      "onboard_time": 1716873018,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 421093,
       "num": 421093,
       "word": "范闲连崩溃都很体面",
@@ -20969,14 +20977,6 @@
       "onboard_time": 1715930779,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 411098,
-      "num": 411098,
-      "word": "iPad或改变logo方向",
-      "onboard_time": 1716873018,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 411001,
@@ -27851,6 +27851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303418,
+      "num": 303418,
+      "word": "范闲大婚 寒酸",
+      "onboard_time": 1716877637,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303349,
       "num": 289646,
       "word": "国旗军旗与宝岛中央山脉同框",
@@ -28272,6 +28280,14 @@
       "word": "林允的第一部大女主戏",
       "onboard_time": 1715923041,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 297818,
+      "num": 248755,
+      "word": "杨紫发国色芳华剧组照",
+      "onboard_time": 1716877697,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -29963,6 +29979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 278668,
+      "num": 278668,
+      "word": "武大靖回应学历质疑",
+      "onboard_time": 1716874579,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278610,
       "num": 135826,
       "word": "汪苏泷 我祝他成功",
@@ -31419,14 +31443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263710,
-      "num": 263710,
-      "word": "武大靖回应学历质疑",
-      "onboard_time": 1716874579,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 263675,
       "num": 233048,
       "word": "这种酸奶千万别喝",
@@ -32217,6 +32233,14 @@
       "onboard_time": 1715944757,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256331,
+      "num": 256331,
+      "word": "北京市民投诉小米汽车城市路测",
+      "onboard_time": 1716874220,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 256254,
@@ -33331,6 +33355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246596,
+      "num": 246596,
+      "word": "范思辙悄悄长大惊艳所有人",
+      "onboard_time": 1716876078,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246552,
       "num": 295337,
       "word": "邀请300名塞尔维亚青少年赴华学习",
@@ -33441,6 +33473,14 @@
       "onboard_time": 1715921903,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245911,
+      "num": 245911,
+      "word": "张婧仪也穿洞洞鞋",
+      "onboard_time": 1716877637,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 245792,
@@ -33721,14 +33761,6 @@
       "onboard_time": 1716077296,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243788,
-      "num": 243788,
-      "word": "北京市民投诉小米汽车城市路测",
-      "onboard_time": 1716874220,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 243787,
@@ -34329,14 +34361,6 @@
       "onboard_time": 1715848398,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238703,
-      "num": 238703,
-      "word": "范思辙悄悄长大惊艳所有人",
-      "onboard_time": 1716876078,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 238641,
@@ -44139,6 +44163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192978,
+      "num": 192978,
+      "word": "庆帝赐婚比月老牵线还靠谱",
+      "onboard_time": 1716877038,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192971,
       "num": 192971,
       "word": "杨紫或客串赴山海",
@@ -45195,6 +45227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189468,
+      "num": 189468,
+      "word": "JackeyLove和Uzi双向奔赴",
+      "onboard_time": 1716875959,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189452,
       "num": 189452,
       "word": "百想 切镜头",
@@ -45547,14 +45587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188145,
-      "num": 188145,
-      "word": "JackeyLove和Uzi双向奔赴",
-      "onboard_time": 1716875959,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 188119,
       "num": 188119,
       "word": "电商平台一运营人员1年受贿9200万",
@@ -45801,14 +45833,6 @@
       "onboard_time": 1714565179,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187483,
-      "num": 187483,
-      "word": "庆帝赐婚比月老牵线还靠谱",
-      "onboard_time": 1716877038,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 187482,
@@ -54987,6 +55011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153720,
+      "num": 153720,
+      "word": "2024IVL转会期",
+      "onboard_time": 1716877998,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153687,
       "num": 153687,
       "word": "DNF手游",
@@ -58451,6 +58483,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 141839,
+      "num": 141839,
+      "word": "原来配眼镜和脸型有关系",
+      "onboard_time": 1716876678,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 141836,
       "num": 141836,
       "word": "胖东来确认帮扶郑州一家超市",
@@ -59449,14 +59489,6 @@
       "onboard_time": 1715257459,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138609,
-      "num": 138609,
-      "word": "原来配眼镜和脸型有关系",
-      "onboard_time": 1716876678,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 138590,
@@ -65995,6 +66027,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 115379,
+      "num": 115379,
+      "word": "广东人真的要发霉了",
+      "onboard_time": 1716875718,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115355,
       "num": 115355,
       "word": "郑合惠子面试",
@@ -66417,14 +66457,6 @@
       "onboard_time": 1716089177,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113720,
-      "num": 113720,
-      "word": "广东人真的要发霉了",
-      "onboard_time": 1716875718,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 113682,
@@ -67281,6 +67313,14 @@
       "onboard_time": 1716306918,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109693,
+      "num": 121430,
+      "word": "武大靖称打算读博",
+      "onboard_time": 1716878177,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 109686,
@@ -68369,6 +68409,14 @@
       "onboard_time": 1715258778,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103674,
+      "num": 103674,
+      "word": "王妈",
+      "onboard_time": 1716878238,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 103642,
@@ -70875,6 +70923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81563,
+      "num": 407226,
+      "word": "天津大爷大妈的广场舞治愈了emo小伙",
+      "onboard_time": 1716877879,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 81386,
       "num": 75794,
       "word": "中法关系始终走在中国同西方国家关系前列",
@@ -71177,6 +71233,14 @@
       "onboard_time": 1715658259,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 78611,
+      "num": 404683,
+      "word": "以互助献血名义交易是违法行为",
+      "onboard_time": 1716876018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78585,
@@ -72972,7 +73036,7 @@
     },
     {
       "raw_hot": 58879,
-      "num": 1004974,
+      "num": 1062879,
       "word": "高质量发展看能源",
       "onboard_time": 1716869299,
       "rank": 2,
@@ -74144,14 +74208,6 @@
       "word": "丰收里的中国舒展最美画卷",
       "onboard_time": 1716783022,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46148,
-      "num": 404683,
-      "word": "以互助献血名义交易是违法行为",
-      "onboard_time": 1716876018,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
