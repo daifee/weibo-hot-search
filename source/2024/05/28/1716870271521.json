@@ -1,0 +1,410 @@
+{
+  "runTime": 1716870271521,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1876534,
+        "num": 1876534,
+        "word": "张若昀父亲被强执2000万",
+        "onboard_time": 1716864559,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1143623,
+        "num": 1143623,
+        "word": "孙杨回来了",
+        "onboard_time": 1716863716,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40287,
+        "num": 927800,
+        "word": "高质量发展看能源",
+        "onboard_time": 1716869299,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849238,
+        "num": 849238,
+        "word": "王妈在塌一种很新的房",
+        "onboard_time": 1716864679,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 666230,
+        "num": 666230,
+        "word": "准妈妈因孕期胃口大变崩溃痛哭",
+        "onboard_time": 1716867738,
+        "rank": 4,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 427876,
+        "num": 427876,
+        "word": "中国计量大学回应学生虐杀猫事件",
+        "onboard_time": 1716869059,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828962,
+        "num": 423873,
+        "word": "千万网红王妈塌房背后",
+        "onboard_time": 1716853877,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 228776,
+        "num": 417982,
+        "word": "用古诗词为高考生加油",
+        "onboard_time": 1716864436,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681061,
+        "num": 411826,
+        "word": "许玮甯谈贺军翔性骚扰争议",
+        "onboard_time": 1716864198,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163907,
+        "num": 410856,
+        "word": "网红王妈团队走红史",
+        "onboard_time": 1716868820,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 786866,
+        "num": 404168,
+        "word": "有明星本人微信是什么体验",
+        "onboard_time": 1716862578,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 552116,
+        "num": 398629,
+        "word": "范闲 因为是家宴所以才请您",
+        "onboard_time": 1716865698,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395109,
+        "num": 395109,
+        "word": "千万网红狂言何不食肉糜",
+        "onboard_time": 1716863537,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 376186,
+        "num": 376186,
+        "word": "工资6000请假半个月被扣4500",
+        "onboard_time": 1716812958,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285627,
+        "num": 285627,
+        "word": "权志龙将参加KAIST脱口秀",
+        "onboard_time": 1716867317,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282765,
+        "num": 282765,
+        "word": "12岁身高1米83的男孩被叫叔叔",
+        "onboard_time": 1716858978,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282355,
+        "num": 282355,
+        "word": "整形医生天天满头大汗编急救故事",
+        "onboard_time": 1716869239,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269533,
+        "num": 269533,
+        "word": "许嵩青岛 抢票",
+        "onboard_time": 1716868758,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250116,
+        "num": 250116,
+        "word": "台湾",
+        "onboard_time": 1716859398,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245263,
+        "num": 245263,
+        "word": "蚊子为啥不会被洗澡水砸死",
+        "onboard_time": 1716856519,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 492463,
+        "num": 245224,
+        "word": "癌细胞最偏爱3种口味",
+        "onboard_time": 1716865998,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 485979,
+        "num": 244981,
+        "word": "同事提离职后有点消极怠工",
+        "onboard_time": 1716863358,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392515,
+        "num": 244854,
+        "word": "男子为泄愤将妻子隐私视频发微信群",
+        "onboard_time": 1716856098,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255995,
+        "num": 244657,
+        "word": "林婉儿 工具人",
+        "onboard_time": 1716855498,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247574,
+        "num": 244337,
+        "word": "庆余年2演员学历",
+        "onboard_time": 1716867859,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244320,
+        "num": 244320,
+        "word": "光遇复刻",
+        "onboard_time": 1716869418,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237442,
+        "num": 237442,
+        "word": "为什么小脚趾的趾甲分成两瓣",
+        "onboard_time": 1716867617,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229011,
+        "num": 229011,
+        "word": "杰伦布朗东决MVP",
+        "onboard_time": 1716867018,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223524,
+        "num": 223524,
+        "word": "种地星球直播",
+        "onboard_time": 1716861438,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218039,
+        "num": 218039,
+        "word": "男童不慎把502胶水抹胳膊和嘴上",
+        "onboard_time": 1716867317,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55314,
+        "num": 217338,
+        "word": "车队军训太帅了",
+        "onboard_time": 1716864738,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 217185,
+        "num": 217185,
+        "word": "国产大飞机C919商运一周年",
+        "onboard_time": 1716865878,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211562,
+        "num": 211562,
+        "word": "王妈账号60S广告报价60万",
+        "onboard_time": 1716870258,
+        "rank": 32,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 191085,
+        "num": 191085,
+        "word": "一个榴莲真能顶三只鸡吗",
+        "onboard_time": 1716869599,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187587,
+        "num": 187587,
+        "word": "白玉兰提名 还不出",
+        "onboard_time": 1716865279,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181005,
+        "num": 181005,
+        "word": "月经到底什么样算正常",
+        "onboard_time": 1716865097,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178404,
+        "num": 178404,
+        "word": "光遇",
+        "onboard_time": 1716865639,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177321,
+        "num": 177321,
+        "word": "常抱怨工作的人实际上服从性最高",
+        "onboard_time": 1716869659,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161089,
+        "num": 161089,
+        "word": "孙杨状态",
+        "onboard_time": 1716869839,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156545,
+        "num": 156545,
+        "word": "国际月经日",
+        "onboard_time": 1716866838,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154733,
+        "num": 154733,
+        "word": "微博影像年",
+        "onboard_time": 1716869418,
+        "rank": 40,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 152147,
+        "num": 152147,
+        "word": "上海已有开发商购房者动起来了",
+        "onboard_time": 1716868698,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138849,
+        "num": 138849,
+        "word": "那年我高考",
+        "onboard_time": 1716866718,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 137845,
+        "num": 137845,
+        "word": "到底哪些咖啡偷偷让人长胖",
+        "onboard_time": 1716865818,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132255,
+        "num": 132255,
+        "word": "陈泽 宇将军",
+        "onboard_time": 1716866357,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123904,
+        "num": 123904,
+        "word": "许嵩演唱会",
+        "onboard_time": 1716868758,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123243,
+        "num": 123243,
+        "word": "未婚先孕就不用给彩礼了吗",
+        "onboard_time": 1716853276,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119939,
+        "num": 119939,
+        "word": "电竞世界杯LOL项目赛制",
+        "onboard_time": 1716868820,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119133,
+        "num": 119133,
+        "word": "猫咪的九条命被人耍了一条",
+        "onboard_time": 1716868698,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111975,
+        "num": 111975,
+        "word": "十个勤天回忆",
+        "onboard_time": 1716865038,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局5月27日召开会议#"
+    }
+  }
+}
