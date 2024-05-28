@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716923742866,
+  "endTime": 1716924864381,
   "band_list": [
     {
       "raw_hot": 1075003,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 56745,
-      "num": 40994,
+      "num": 47111,
       "word": "关于我和鬼成为朋友这件事",
       "onboard_time": 1716919152,
       "rank": 23,
@@ -459,20 +459,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21207,
+      "num": 21207,
+      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+      "onboard_time": 1716923711,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18363,
       "num": 24091,
       "word": "直击2024电视剧导演大会",
       "onboard_time": 1716920412,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13249,
-      "num": 17672,
-      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
-      "onboard_time": 1716923711,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
