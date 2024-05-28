@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716902482099,
+  "endTime": 1716903256455,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -4156,7 +4156,7 @@
     },
     {
       "raw_hot": 1226355,
-      "num": 701038,
+      "num": 864304,
       "word": "满屏都是唐艺昕",
       "onboard_time": 1716900318,
       "rank": 30,
@@ -4289,6 +4289,14 @@
       "onboard_time": 1715957604,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1198870,
+      "num": 1198870,
+      "word": "一猩60万",
+      "onboard_time": 1716900077,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1198349,
@@ -6609,14 +6617,6 @@
       "onboard_time": 1716640099,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 924101,
-      "num": 924101,
-      "word": "一猩60万",
-      "onboard_time": 1716900077,
-      "rank": 19,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 923670,
@@ -9059,6 +9059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766281,
+      "num": 1953194,
+      "word": "比亚迪",
+      "onboard_time": 1715343258,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 766156,
       "num": 522741,
       "word": "人民文娱评吴磊骑有此理",
@@ -10883,6 +10891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 684840,
+      "num": 508312,
+      "word": "李沁的头冠是3D打印的",
+      "onboard_time": 1716899537,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 684586,
       "num": 684586,
       "word": "苗苗染红发",
@@ -11435,14 +11451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 663812,
-      "num": 508312,
-      "word": "李沁的头冠是3D打印的",
-      "onboard_time": 1716899537,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 662901,
       "num": 662901,
       "word": "IVE零一位",
@@ -11937,14 +11945,6 @@
       "onboard_time": 1716722538,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 646172,
-      "num": 1953194,
-      "word": "比亚迪",
-      "onboard_time": 1715343258,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 646054,
@@ -16651,6 +16651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504526,
+      "num": 453997,
+      "word": "长公主二皇子顶疯相见",
+      "onboard_time": 1716901818,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504511,
       "num": 504511,
       "word": "张韶涵造型团队没有瓶颈期",
@@ -17971,6 +17979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473869,
+      "num": 454962,
+      "word": "IVE 划水",
+      "onboard_time": 1716900017,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 473510,
       "num": 473510,
       "word": "李昊自荐上歌手",
@@ -18905,14 +18921,6 @@
       "onboard_time": 1716096137,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 454962,
-      "num": 454962,
-      "word": "IVE 划水",
-      "onboard_time": 1716900017,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 454931,
@@ -26403,6 +26411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328295,
+      "num": 328295,
+      "word": "胡锡进称刘强东急了",
+      "onboard_time": 1716900917,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 328292,
       "num": 529782,
       "word": "CBA总决赛",
@@ -29715,14 +29731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284369,
-      "num": 284369,
-      "word": "胡锡进称刘强东急了",
-      "onboard_time": 1716900917,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 284366,
       "num": 267699,
       "word": "周杰伦问刘畊宏你一定要露胸肌吗",
@@ -31852,7 +31860,7 @@
     },
     {
       "raw_hot": 263721,
-      "num": 306317,
+      "num": 309791,
       "word": "第五代DM技术综合续航2100公里",
       "onboard_time": 1716901458,
       "rank": 17,
@@ -32523,20 +32531,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 258034,
-      "num": 258034,
-      "word": "长公主二皇子顶疯相见",
-      "onboard_time": 1716901818,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 257842,
       "num": 257842,
       "word": "肖战那英唱的心动",
       "onboard_time": 1715437640,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257795,
+      "num": 238554,
+      "word": "翟潇闻直播黑牙了",
+      "onboard_time": 1716902419,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 257790,
@@ -33200,6 +33208,14 @@
       "word": "宋慧乔颁奖",
       "onboard_time": 1715086759,
       "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251745,
+      "num": 237738,
+      "word": "内娱智性恋天花板",
+      "onboard_time": 1716902298,
+      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -42507,6 +42523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199577,
+      "num": 199577,
+      "word": "刘宇宁直播",
+      "onboard_time": 1716902538,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199531,
       "num": 199531,
       "word": "王一博赛道赛车",
@@ -47139,6 +47163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184877,
+      "num": 184877,
+      "word": "人在猝死前会有什么预兆",
+      "onboard_time": 1716902658,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184862,
       "num": 184862,
       "word": "芭莎主编说杨紫长大了",
@@ -47979,6 +48011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181608,
+      "num": 181608,
+      "word": "光与夜之恋三周年音乐会",
+      "onboard_time": 1716902358,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181579,
       "num": 181579,
       "word": "范丞丞 这就是新说唱",
@@ -48001,14 +48041,6 @@
       "onboard_time": 1715915298,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181377,
-      "num": 181377,
-      "word": "内娱智性恋天花板",
-      "onboard_time": 1716902298,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 181226,
@@ -51499,20 +51531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168371,
+      "num": 181701,
+      "word": "秦L引领油耗进入2时代",
+      "onboard_time": 1716901698,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 168338,
       "num": 1085085,
       "word": "从五一假期看流动的中国",
       "onboard_time": 1714965079,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 168278,
-      "num": 154449,
-      "word": "秦L引领油耗进入2时代",
-      "onboard_time": 1716901698,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 168247,
@@ -53315,6 +53347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 162252,
+      "num": 162252,
+      "word": "狐妖月红篇有自己的柜哥",
+      "onboard_time": 1716902118,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162240,
       "num": 162240,
       "word": "瑞幸回应咖啡被曝冰块霉变",
@@ -54585,14 +54625,6 @@
       "onboard_time": 1715571499,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 157549,
-      "num": 157549,
-      "word": "狐妖月红篇有自己的柜哥",
-      "onboard_time": 1716902118,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 157537,
@@ -57985,14 +58017,6 @@
       "onboard_time": 1715400020,
       "rank": 9,
       "category": "自然"
-    },
-    {
-      "raw_hot": 146324,
-      "num": 146324,
-      "word": "光与夜之恋三周年音乐会",
-      "onboard_time": 1716902358,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 146292,
@@ -61475,6 +61499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134580,
+      "num": 134580,
+      "word": "原来要范闲to签的人是张弛",
+      "onboard_time": 1716902779,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134563,
       "num": 134563,
       "word": "范闲看看东北雨姐吧",
@@ -64387,14 +64419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 124913,
-      "num": 124913,
-      "word": "翟潇闻直播黑牙了",
-      "onboard_time": 1716902419,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124887,
       "num": 124887,
       "word": "选个你们想吃又不想消费的",
@@ -64723,6 +64747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123990,
+      "num": 123990,
+      "word": "癌症人体地图",
+      "onboard_time": 1716902838,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 123949,
       "num": 123949,
       "word": "男子闯女厕索要微信发淫秽信息被拘",
@@ -64892,7 +64924,7 @@
     },
     {
       "raw_hot": 122929,
-      "num": 122929,
+      "num": 239685,
       "word": "最传统的鱼香肉丝真的要用鱼做",
       "onboard_time": 1716894799,
       "rank": 48,
@@ -65313,6 +65345,14 @@
       "onboard_time": 1715700859,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121505,
+      "num": 121505,
+      "word": "第一批丁克开始操心养老",
+      "onboard_time": 1716903197,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121496,
@@ -66537,6 +66577,14 @@
       "onboard_time": 1716112998,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117345,
+      "num": 944428,
+      "word": "浩瀚太空再一次留下中国足迹",
+      "onboard_time": 1716897798,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117335,
@@ -69249,14 +69297,6 @@
       "onboard_time": 1715363234,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 104954,
-      "num": 741296,
-      "word": "浩瀚太空再一次留下中国足迹",
-      "onboard_time": 1716897798,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 104886,
@@ -72971,6 +73011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70739,
+      "num": 433820,
+      "word": "战友牺牲后19岁战士死守第一道防线",
+      "onboard_time": 1716901219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70691,
       "num": 70691,
       "word": "4类食物吃着不甜但升糖超快",
@@ -75249,14 +75297,6 @@
       "onboard_time": 1716519619,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 46763,
-      "num": 433820,
-      "word": "战友牺牲后19岁战士死守第一道防线",
-      "onboard_time": 1716901219,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46697,
