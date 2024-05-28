@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716860373919,
+  "endTime": 1716863583590,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -5561,6 +5561,14 @@
       "onboard_time": 1714778653,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1039084,
+      "num": 215591,
+      "word": "两名20多岁男子与14岁女孩发生关系",
+      "onboard_time": 1716862218,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1036406,
@@ -18467,6 +18475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 454779,
+      "num": 454779,
+      "word": "种地星球直播",
+      "onboard_time": 1716861438,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 454487,
       "num": 285855,
       "word": "感觉长辈被时代红利保护得太好了",
@@ -24835,6 +24851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 341585,
+      "num": 165722,
+      "word": "有明星本人微信是什么体验",
+      "onboard_time": 1716862578,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 341503,
       "num": 341503,
       "word": "金曲奖",
@@ -26081,6 +26105,14 @@
       "onboard_time": 1716427039,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323898,
+      "num": 175359,
+      "word": "因为彩礼的事情和对象闹掰了",
+      "onboard_time": 1716859938,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 323790,
@@ -28923,6 +28955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285296,
+      "num": 208210,
+      "word": "广西通报46岁男子工地坠亡事件",
+      "onboard_time": 1716862038,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 285241,
       "num": 285241,
       "word": "中等生为什么成绩上不去",
@@ -31001,6 +31041,14 @@
       "onboard_time": 1714914619,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 264936,
+      "num": 205603,
+      "word": "张若昀 电车难题",
+      "onboard_time": 1716860478,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 264931,
@@ -33953,6 +34001,14 @@
       "onboard_time": 1715683098,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238887,
+      "num": 199782,
+      "word": "布兰妮珠宝被偷",
+      "onboard_time": 1716862398,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 238843,
@@ -38211,14 +38267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211268,
-      "num": 175359,
-      "word": "因为彩礼的事情和对象闹掰了",
-      "onboard_time": 1716859938,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211260,
       "num": 197559,
       "word": "白敬亭丝带当腰带",
@@ -41457,6 +41505,14 @@
       "onboard_time": 1716632658,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199672,
+      "num": 164254,
+      "word": "同事提离职后有点消极怠工",
+      "onboard_time": 1716863358,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 199655,
@@ -47811,6 +47867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177317,
+      "num": 177317,
+      "word": "2024国际乒联第22周排名",
+      "onboard_time": 1716859698,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177309,
       "num": 177309,
       "word": "迪丽热巴别把周柯宇扇感冒了",
@@ -49921,6 +49985,14 @@
       "onboard_time": 1715419759,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 169593,
+      "num": 163437,
+      "word": "千万网红狂言何不食肉糜",
+      "onboard_time": 1716863537,
+      "rank": 27,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 169587,
@@ -52889,14 +52961,6 @@
       "onboard_time": 1714941071,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158769,
-      "num": 158769,
-      "word": "2024国际乒联第22周排名",
-      "onboard_time": 1716859698,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 158720,
@@ -57665,6 +57729,14 @@
       "onboard_time": 1716621558,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142433,
+      "num": 142433,
+      "word": "毕业照姿势分享",
+      "onboard_time": 1716862218,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 142405,
@@ -64331,6 +64403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119318,
+      "num": 119318,
+      "word": "i人怎么把这箱荔枝分给同事",
+      "onboard_time": 1716861678,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119316,
       "num": 119316,
       "word": "沈月演我那不吃螺蛳粉的朋友",
@@ -66280,6 +66360,14 @@
       "word": "曼联是冠军",
       "onboard_time": 1716684917,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111239,
+      "num": 167313,
+      "word": "穆里奇宣布退役",
+      "onboard_time": 1716862937,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -69883,6 +69971,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 84114,
+      "num": 84114,
+      "word": "这个世界上真的有汪汪队",
+      "onboard_time": 1716861738,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83948,
       "num": 808314,
       "word": "匈牙利为何被称为最西边的东方国家",
@@ -69915,6 +70011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83594,
+      "num": 344575,
+      "word": "园丁爷爷挨个给孩子们分杏子",
+      "onboard_time": 1716859759,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83282,
       "num": 83282,
       "word": "樊振东与波尔一起看欧冠",
@@ -69936,6 +70040,14 @@
       "word": "南宁暴雨中的暖心瞬间",
       "onboard_time": 1716116537,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82952,
+      "num": 82952,
+      "word": "上海有售楼处不打烊",
+      "onboard_time": 1716861199,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -69977,6 +70089,14 @@
       "onboard_time": 1714552098,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82585,
+      "num": 82585,
+      "word": "为什么方便面是弯的不是直的",
+      "onboard_time": 1716863058,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 82221,
@@ -70129,6 +70249,14 @@
       "onboard_time": 1716762132,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 80805,
+      "num": 167013,
+      "word": "求职找工作避坑指南",
+      "onboard_time": 1716860838,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80620,
@@ -71755,14 +71883,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 63065,
-      "num": 344575,
-      "word": "园丁爷爷挨个给孩子们分杏子",
-      "onboard_time": 1716859759,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63000,
       "num": 80157,
       "word": "张韶涵昆山演唱会",
@@ -72385,6 +72505,14 @@
       "onboard_time": 1715503758,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 56179,
+      "num": 165330,
+      "word": "云南野生菌安全提示短信变吃菌通知",
+      "onboard_time": 1716863478,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56142,

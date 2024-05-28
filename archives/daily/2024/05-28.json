@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716860373919,
+  "endTime": 1716863583590,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -33,6 +33,22 @@
       "onboard_time": 1716855498,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1039084,
+      "num": 215591,
+      "word": "两名20多岁男子与14岁女孩发生关系",
+      "onboard_time": 1716862218,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 886181,
+      "num": 886181,
+      "word": "台湾",
+      "onboard_time": 1716859398,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 880606,
@@ -107,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 454779,
+      "num": 454779,
+      "word": "种地星球直播",
+      "onboard_time": 1716861438,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452847,
       "num": 452847,
       "word": "早起身体这5个地方滂臭要注意",
@@ -171,12 +195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 348436,
-      "num": 348436,
-      "word": "台湾",
-      "onboard_time": 1716859398,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 341585,
+      "num": 165722,
+      "word": "有明星本人微信是什么体验",
+      "onboard_time": 1716862578,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 332481,
@@ -193,6 +217,14 @@
       "onboard_time": 1716860118,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 323898,
+      "num": 175359,
+      "word": "因为彩礼的事情和对象闹掰了",
+      "onboard_time": 1716859938,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 312530,
@@ -217,6 +249,14 @@
       "onboard_time": 1716822381,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285296,
+      "num": 208210,
+      "word": "广西通报46岁男子工地坠亡事件",
+      "onboard_time": 1716862038,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 277369,
@@ -267,6 +307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 264936,
+      "num": 205603,
+      "word": "张若昀 电车难题",
+      "onboard_time": 1716860478,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263606,
       "num": 263606,
       "word": "警方通报男子出售女童写真牟利",
@@ -291,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238887,
+      "num": 199782,
+      "word": "布兰妮珠宝被偷",
+      "onboard_time": 1716862398,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233852,
       "num": 213244,
       "word": "把男朋友车磕了如何补偿",
@@ -307,14 +363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 211268,
-      "num": 175359,
-      "word": "因为彩礼的事情和对象闹掰了",
-      "onboard_time": 1716859938,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210289,
       "num": 210289,
       "word": "涂山红红是涂山大动脉",
@@ -323,12 +371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199672,
+      "num": 164254,
+      "word": "同事提离职后有点消极怠工",
+      "onboard_time": 1716863358,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198861,
       "num": 198861,
       "word": "中国统一的大势不可逆转",
       "onboard_time": 1716819499,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 197428,
+      "num": 197428,
+      "word": "种地吧",
+      "onboard_time": 1716859337,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 195267,
@@ -379,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177317,
+      "num": 177317,
+      "word": "2024国际乒联第22周排名",
+      "onboard_time": 1716859698,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176573,
       "num": 176573,
       "word": "李小冉怎么保养的",
@@ -403,6 +475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 169593,
+      "num": 163437,
+      "word": "千万网红狂言何不食肉糜",
+      "onboard_time": 1716863537,
+      "rank": 27,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 160834,
       "num": 144931,
       "word": "33岁生完二胎我才真正清醒了",
@@ -417,14 +497,6 @@
       "onboard_time": 1716805339,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158769,
-      "num": 158769,
-      "word": "2024国际乒联第22周排名",
-      "onboard_time": 1716859698,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 154178,
@@ -459,14 +531,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 149701,
-      "num": 149701,
-      "word": "种地吧",
-      "onboard_time": 1716859337,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146152,
       "num": 146152,
       "word": "背着善宰跑大结局预告",
@@ -481,6 +545,14 @@
       "onboard_time": 1716850874,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142433,
+      "num": 142433,
+      "word": "毕业照姿势分享",
+      "onboard_time": 1716862218,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 142405,
@@ -571,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119318,
+      "num": 119318,
+      "word": "i人怎么把这箱荔枝分给同事",
+      "onboard_time": 1716861678,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119161,
       "num": 119161,
       "word": "邓紫棋演唱会",
@@ -609,6 +689,14 @@
       "onboard_time": 1716820820,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 111239,
+      "num": 167313,
+      "word": "穆里奇宣布退役",
+      "onboard_time": 1716862937,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 102004,
@@ -699,6 +787,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84114,
+      "num": 84114,
+      "word": "这个世界上真的有汪汪队",
+      "onboard_time": 1716861738,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83594,
+      "num": 344575,
+      "word": "园丁爷爷挨个给孩子们分杏子",
+      "onboard_time": 1716859759,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83193,
       "num": 83193,
       "word": "范闲婉儿大婚名场面",
@@ -715,12 +819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82952,
+      "num": 82952,
+      "word": "上海有售楼处不打烊",
+      "onboard_time": 1716861199,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82612,
       "num": 82612,
       "word": "aespa MV呢",
       "onboard_time": 1716801558,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 82585,
+      "num": 82585,
+      "word": "为什么方便面是弯的不是直的",
+      "onboard_time": 1716863058,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 82097,
@@ -745,6 +865,14 @@
       "onboard_time": 1716822080,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80805,
+      "num": 167013,
+      "word": "求职找工作避坑指南",
+      "onboard_time": 1716860838,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80366,
@@ -811,11 +939,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63065,
-      "num": 344575,
-      "word": "园丁爷爷挨个给孩子们分杏子",
-      "onboard_time": 1716859759,
-      "rank": 9,
+      "raw_hot": 56179,
+      "num": 165330,
+      "word": "云南野生菌安全提示短信变吃菌通知",
+      "onboard_time": 1716863478,
+      "rank": 24,
       "category": "社会新闻"
     },
     {

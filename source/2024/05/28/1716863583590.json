@@ -1,0 +1,410 @@
+{
+  "runTime": 1716863583590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1309868,
+        "num": 1309868,
+        "word": "千万网红王妈塌房背后",
+        "onboard_time": 1716853877,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 886181,
+        "num": 886181,
+        "word": "台湾",
+        "onboard_time": 1716859398,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26387,
+        "num": 726018,
+        "word": "沉浸式感受数字点亮生活",
+        "onboard_time": 1716814638,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1432188,
+        "num": 706959,
+        "word": "男子为泄愤将妻子隐私视频发微信群",
+        "onboard_time": 1716856098,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687034,
+        "num": 687034,
+        "word": "12岁身高1米83的男孩被叫叔叔",
+        "onboard_time": 1716858978,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 567790,
+        "num": 567790,
+        "word": "林婉儿 工具人",
+        "onboard_time": 1716855498,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454779,
+        "num": 454779,
+        "word": "种地星球直播",
+        "onboard_time": 1716861438,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352561,
+        "num": 352561,
+        "word": "蚊子为啥不会被洗澡水砸死",
+        "onboard_time": 1716856519,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 298507,
+        "num": 298507,
+        "word": "范思辙为什么要戴项圈",
+        "onboard_time": 1716820099,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218834,
+        "num": 218834,
+        "word": "早起身体这5个地方滂臭要注意",
+        "onboard_time": 1716853276,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1039084,
+        "num": 215591,
+        "word": "两名20多岁男子与14岁女孩发生关系",
+        "onboard_time": 1716862218,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 458773,
+        "num": 213116,
+        "word": "工资6000请假半个月被扣4500",
+        "onboard_time": 1716812958,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285296,
+        "num": 208210,
+        "word": "广西通报46岁男子工地坠亡事件",
+        "onboard_time": 1716862038,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 264936,
+        "num": 205603,
+        "word": "张若昀 电车难题",
+        "onboard_time": 1716860478,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238887,
+        "num": 199782,
+        "word": "布兰妮珠宝被偷",
+        "onboard_time": 1716862398,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197428,
+        "num": 197428,
+        "word": "种地吧",
+        "onboard_time": 1716859337,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182816,
+        "num": 182816,
+        "word": "当你连续点同一家外卖超过100次",
+        "onboard_time": 1716823101,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177317,
+        "num": 177317,
+        "word": "2024国际乒联第22周排名",
+        "onboard_time": 1716859698,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167798,
+        "num": 167798,
+        "word": "王俊凯代言植物医生",
+        "onboard_time": 1716860238,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111239,
+        "num": 167313,
+        "word": "穆里奇宣布退役",
+        "onboard_time": 1716862937,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80805,
+        "num": 167013,
+        "word": "求职找工作避坑指南",
+        "onboard_time": 1716860838,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577942,
+        "num": 166575,
+        "word": "养臭水",
+        "onboard_time": 1716855738,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373647,
+        "num": 166218,
+        "word": "未婚先孕就不用给彩礼了吗",
+        "onboard_time": 1716853276,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341585,
+        "num": 165722,
+        "word": "有明星本人微信是什么体验",
+        "onboard_time": 1716862578,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56179,
+        "num": 165330,
+        "word": "云南野生菌安全提示短信变吃菌通知",
+        "onboard_time": 1716863478,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323898,
+        "num": 164420,
+        "word": "因为彩礼的事情和对象闹掰了",
+        "onboard_time": 1716859938,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199672,
+        "num": 164254,
+        "word": "同事提离职后有点消极怠工",
+        "onboard_time": 1716863358,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169593,
+        "num": 163437,
+        "word": "千万网红狂言何不食肉糜",
+        "onboard_time": 1716863537,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 163431,
+        "num": 163431,
+        "word": "大家好像都不被允许休息",
+        "onboard_time": 1716855138,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158462,
+        "num": 158462,
+        "word": "六公主报道易烊千玺酱园弄",
+        "onboard_time": 1716854718,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142433,
+        "num": 142433,
+        "word": "毕业照姿势分享",
+        "onboard_time": 1716862218,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136138,
+        "num": 136138,
+        "word": "质疑太子理解太子",
+        "onboard_time": 1716822740,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130803,
+        "num": 130803,
+        "word": "郑合惠子出妆",
+        "onboard_time": 1716859698,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126372,
+        "num": 126372,
+        "word": "女儿工作后每月都会给我一千块钱",
+        "onboard_time": 1716809657,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119318,
+        "num": 119318,
+        "word": "i人怎么把这箱荔枝分给同事",
+        "onboard_time": 1716861678,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118060,
+        "num": 118060,
+        "word": "警方通报男子出售女童写真牟利",
+        "onboard_time": 1716853638,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 117567,
+        "num": 117567,
+        "word": "庆余年2唯一的婚礼",
+        "onboard_time": 1716857118,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114461,
+        "num": 114461,
+        "word": "李小冉怎么保养的",
+        "onboard_time": 1716819680,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111469,
+        "num": 111469,
+        "word": "把男朋友车磕了如何补偿",
+        "onboard_time": 1716856158,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109333,
+        "num": 109333,
+        "word": "人最笨的时候就是问出那句",
+        "onboard_time": 1716822680,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105022,
+        "num": 105022,
+        "word": "涂山红红是涂山大动脉",
+        "onboard_time": 1716852616,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93747,
+        "num": 93747,
+        "word": "老师做久了真的都有职业病吗",
+        "onboard_time": 1716848412,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 90677,
+        "num": 90677,
+        "word": "外媒把吴君如认成了章子怡",
+        "onboard_time": 1716821661,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86037,
+        "num": 86037,
+        "word": "日照三文鱼将大量上市",
+        "onboard_time": 1716855978,
+        "rank": 43,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 83594,
+        "num": 84616,
+        "word": "园丁爷爷挨个给孩子们分杏子",
+        "onboard_time": 1716859759,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84556,
+        "num": 84556,
+        "word": "Rita毛毛公开处刑Fearness",
+        "onboard_time": 1716856938,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84114,
+        "num": 84114,
+        "word": "这个世界上真的有汪汪队",
+        "onboard_time": 1716861738,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83082,
+        "num": 83082,
+        "word": "绍兴课上开黄腔教师被警告处分",
+        "onboard_time": 1716835752,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82952,
+        "num": 82952,
+        "word": "上海有售楼处不打烊",
+        "onboard_time": 1716861199,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82585,
+        "num": 82585,
+        "word": "为什么方便面是弯的不是直的",
+        "onboard_time": 1716863058,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指出新质生产力的发展之道#"
+    }
+  }
+}
