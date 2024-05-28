@@ -1,0 +1,410 @@
+{
+  "runTime": 1716888868167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1065000,
+        "num": 1065000,
+        "word": "尚雯婕晒复旦聘书",
+        "onboard_time": 1716884238,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659587,
+        "num": 659587,
+        "word": "钟薛高卖红薯还债能东山再起吗",
+        "onboard_time": 1716880157,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13415,
+        "num": 616589,
+        "word": "换一种方式打开北京的盛夏",
+        "onboard_time": 1716888677,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855964,
+        "num": 616055,
+        "word": "歌手 双补位",
+        "onboard_time": 1716872118,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611802,
+        "num": 611802,
+        "word": "官员用茅台打比方反问央视记者",
+        "onboard_time": 1716884478,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471180,
+        "num": 471180,
+        "word": "福宝居家直播",
+        "onboard_time": 1716886457,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626688,
+        "num": 470097,
+        "word": "范闲大婚 寒酸",
+        "onboard_time": 1716877637,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534005,
+        "num": 390780,
+        "word": "歌手第四期歌单",
+        "onboard_time": 1716881177,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293011,
+        "num": 293011,
+        "word": "8年前借的3斤黄金怎么还",
+        "onboard_time": 1716880098,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53005,
+        "num": 291297,
+        "word": "她一开口我好像看见雪山了",
+        "onboard_time": 1716885318,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 512623,
+        "num": 289622,
+        "word": "张玉安韩国工作被取消",
+        "onboard_time": 1716878777,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478647,
+        "num": 288615,
+        "word": "张若昀父亲被强执2000万",
+        "onboard_time": 1716864559,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467206,
+        "num": 286217,
+        "word": "王力宏 来不来",
+        "onboard_time": 1716886097,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405585,
+        "num": 285758,
+        "word": "黄宣 蝴蝶",
+        "onboard_time": 1716885738,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320827,
+        "num": 283160,
+        "word": "经常熬夜的人身体会发臭",
+        "onboard_time": 1716875298,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 309163,
+        "num": 281017,
+        "word": "1岁宝宝误喝蚊香液中毒离世",
+        "onboard_time": 1716888138,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 280996,
+        "num": 280996,
+        "word": "飞机为什么怕你带超过100ml液体",
+        "onboard_time": 1716880517,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 227220,
+        "num": 227220,
+        "word": "一个榴莲真能顶三只鸡吗",
+        "onboard_time": 1716869599,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40467,
+        "num": 209359,
+        "word": "vivo灭霸在百米外的怼脸拍",
+        "onboard_time": 1716884958,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208247,
+        "num": 208247,
+        "word": "Ning说Tarzan什么冠军",
+        "onboard_time": 1716885618,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1228654,
+        "num": 208100,
+        "word": "印度男子剖妻孕肚查胎儿性别",
+        "onboard_time": 1716885618,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804748,
+        "num": 203764,
+        "word": "未婚在意外怀孕上要零容错",
+        "onboard_time": 1716882198,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 41572,
+        "num": 203048,
+        "word": "微缩版麦田展开夏收夏种美丽画卷",
+        "onboard_time": 1716881598,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449431,
+        "num": 200831,
+        "word": "真的建议在外上厕所用马桶",
+        "onboard_time": 1716879977,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340935,
+        "num": 198698,
+        "word": "原来杨紫陈楚生早年合作过",
+        "onboard_time": 1716884839,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323077,
+        "num": 195309,
+        "word": "上海大学生花29天坐公交到新加坡",
+        "onboard_time": 1716883398,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 319136,
+        "num": 193956,
+        "word": "久穿洞洞鞋容易引发脚气",
+        "onboard_time": 1716887477,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270442,
+        "num": 190316,
+        "word": "蔡文静录完浪姐只想拍戏",
+        "onboard_time": 1716886699,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260328,
+        "num": 187988,
+        "word": "巴雷特出现了",
+        "onboard_time": 1716888558,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244307,
+        "num": 186951,
+        "word": "李佳琦披哥路透",
+        "onboard_time": 1716881117,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235924,
+        "num": 184078,
+        "word": "情侣长得太像听网友劝去做亲缘鉴定",
+        "onboard_time": 1716872359,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208486,
+        "num": 180799,
+        "word": "王妈塌房粉丝仍涨6万",
+        "onboard_time": 1716880217,
+        "rank": 31,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 179898,
+        "num": 179898,
+        "word": "杨紫瘦了piu仔胖了",
+        "onboard_time": 1716880578,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176528,
+        "num": 176528,
+        "word": "起猛了竟然看到生蒜打人了",
+        "onboard_time": 1716884778,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175160,
+        "num": 175160,
+        "word": "范若若骑王启年全剧无敌",
+        "onboard_time": 1716888378,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167039,
+        "num": 167039,
+        "word": "庆余年放榜 范进中举",
+        "onboard_time": 1716888438,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161103,
+        "num": 161103,
+        "word": "爷爷临终前开了一个玩笑",
+        "onboard_time": 1716882618,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160991,
+        "num": 160991,
+        "word": "孙楠 是否爱过我",
+        "onboard_time": 1716885376,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158676,
+        "num": 158676,
+        "word": "TREASURE回归",
+        "onboard_time": 1716887419,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152762,
+        "num": 152762,
+        "word": "王妈在塌一种很新的房",
+        "onboard_time": 1716864679,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149891,
+        "num": 149891,
+        "word": "夏之光让田嘉瑞叫哥哥",
+        "onboard_time": 1716887598,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147947,
+        "num": 147947,
+        "word": "庆余年2偷感F4",
+        "onboard_time": 1716886218,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146631,
+        "num": 146631,
+        "word": "沈月让杨迪删掉她照片",
+        "onboard_time": 1716883218,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144777,
+        "num": 144777,
+        "word": "张若昀 再不让你们理亏",
+        "onboard_time": 1716887898,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139319,
+        "num": 139319,
+        "word": "当e人和他的i人朋友老了以后",
+        "onboard_time": 1716887718,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131904,
+        "num": 131904,
+        "word": "中国官方黄金储备2264吨",
+        "onboard_time": 1716888738,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121532,
+        "num": 121532,
+        "word": "爷爷连续7年给帮助他的女子寄水果",
+        "onboard_time": 1716883457,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120672,
+        "num": 120672,
+        "word": "秦岚辛芷蕾中间的娜扎",
+        "onboard_time": 1716887118,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112316,
+        "num": 112316,
+        "word": "同事怀孕后我辞职了",
+        "onboard_time": 1716871339,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111584,
+        "num": 111584,
+        "word": "福宝张大嘴巴等奶爸喂苹果",
+        "onboard_time": 1716885557,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力实现关键核心技术自主可控#"
+    }
+  }
+}

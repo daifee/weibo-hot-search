@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716888001539,
+  "endTime": 1716888868167,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1228654,
+      "num": 208100,
+      "word": "印度男子剖妻孕肚查胎儿性别",
+      "onboard_time": 1716885618,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1186478,
       "num": 1186478,
       "word": "朝鲜",
@@ -75,20 +83,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1065000,
+      "num": 1065000,
+      "word": "尚雯婕晒复旦聘书",
+      "onboard_time": 1716884238,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1057533,
       "num": 864687,
       "word": "范闲大婚 寒酸",
       "onboard_time": 1716877637,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1053270,
-      "num": 206331,
-      "word": "印度男子剖妻孕肚查胎儿性别",
-      "onboard_time": 1716885618,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 999089,
@@ -121,14 +129,6 @@
       "onboard_time": 1716882198,
       "rank": 20,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 928908,
-      "num": 627606,
-      "word": "尚雯婕晒复旦聘书",
-      "onboard_time": 1716884238,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 901709,
@@ -283,6 +283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 611802,
+      "num": 611802,
+      "word": "官员用茅台打比方反问央视记者",
+      "onboard_time": 1716884478,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601709,
       "num": 299362,
       "word": "王妈塌房粉丝仍涨6万",
@@ -321,14 +329,6 @@
       "onboard_time": 1716871880,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 552366,
-      "num": 552366,
-      "word": "官员用茅台打比方反问央视记者",
-      "onboard_time": 1716884478,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 552116,
@@ -388,11 +388,19 @@
     },
     {
       "raw_hot": 488010,
-      "num": 209911,
+      "num": 286217,
       "word": "王力宏 来不来",
       "onboard_time": 1716886097,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471180,
+      "num": 471180,
+      "word": "福宝居家直播",
+      "onboard_time": 1716886457,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469155,
@@ -475,6 +483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 405585,
+      "num": 285758,
+      "word": "黄宣 蝴蝶",
+      "onboard_time": 1716885738,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403357,
       "num": 410856,
       "word": "网红王妈团队走红史",
@@ -505,14 +521,6 @@
       "onboard_time": 1716818118,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 392801,
-      "num": 209192,
-      "word": "黄宣 蝴蝶",
-      "onboard_time": 1716885738,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 392054,
@@ -563,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340935,
+      "num": 210391,
+      "word": "原来杨紫陈楚生早年合作过",
+      "onboard_time": 1716884839,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332481,
       "num": 332481,
       "word": "六公主报道易烊千玺酱园弄",
@@ -603,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 319136,
+      "num": 194109,
+      "word": "久穿洞洞鞋容易引发脚气",
+      "onboard_time": 1716887477,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 312530,
       "num": 312530,
       "word": "VOGUE新主编",
@@ -619,12 +643,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 307545,
-      "num": 210391,
-      "word": "原来杨紫陈楚生早年合作过",
-      "onboard_time": 1716884839,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 309163,
+      "num": 281017,
+      "word": "1岁宝宝误喝蚊香液中毒离世",
+      "onboard_time": 1716888138,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 307486,
@@ -787,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260328,
+      "num": 187988,
+      "word": "巴雷特出现了",
+      "onboard_time": 1716888558,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256331,
       "num": 256331,
       "word": "北京市民投诉小米汽车城市路测",
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 235814,
-      "num": 207269,
+      "num": 208247,
       "word": "Ning说Tarzan什么冠军",
       "onboard_time": 1716885618,
       "rank": 16,
@@ -987,14 +1019,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 206724,
-      "num": 206724,
-      "word": "福宝居家直播",
-      "onboard_time": 1716886457,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205264,
       "num": 206898,
       "word": "月经到底什么样算正常",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1716857298,
       "rank": 24,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 194109,
-      "num": 194109,
-      "word": "久穿洞洞鞋容易引发脚气",
-      "onboard_time": 1716887477,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 192978,
@@ -1275,6 +1291,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176528,
+      "num": 176528,
+      "word": "起猛了竟然看到生蒜打人了",
+      "onboard_time": 1716884778,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 175160,
+      "num": 175160,
+      "word": "范若若骑王启年全剧无敌",
+      "onboard_time": 1716888378,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173783,
       "num": 173783,
       "word": "萌兰笋爆火后笋农增收超千万",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1716879079,
       "rank": 35,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 167039,
+      "num": 167039,
+      "word": "庆余年放榜 范进中举",
+      "onboard_time": 1716888438,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 165158,
@@ -1459,12 +1499,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 149707,
-      "num": 149707,
-      "word": "起猛了竟然看到生蒜打人了",
-      "onboard_time": 1716884778,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 149891,
+      "num": 149891,
+      "word": "夏之光让田嘉瑞叫哥哥",
+      "onboard_time": 1716887598,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 149428,
@@ -1473,14 +1513,6 @@
       "onboard_time": 1716861678,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147680,
-      "num": 147680,
-      "word": "夏之光让田嘉瑞叫哥哥",
-      "onboard_time": 1716887598,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 146969,
@@ -1496,6 +1528,14 @@
       "word": "背着善宰跑大结局预告",
       "onboard_time": 1716823459,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144777,
+      "num": 144777,
+      "word": "张若昀 再不让你们理亏",
+      "onboard_time": 1716887898,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1643,6 +1683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131904,
+      "num": 131904,
+      "word": "中国官方黄金储备2264吨",
+      "onboard_time": 1716888738,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131829,
       "num": 131829,
       "word": "翟潇闻也在追背着善宰跑",
@@ -1681,14 +1729,6 @@
       "onboard_time": 1716868758,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 123546,
-      "num": 123546,
-      "word": "张若昀 再不让你们理亏",
-      "onboard_time": 1716887898,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 122558,
@@ -1817,6 +1857,14 @@
       "onboard_time": 1716862937,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111584,
+      "num": 207645,
+      "word": "福宝张大嘴巴等奶爸喂苹果",
+      "onboard_time": 1716885557,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110472,
@@ -2187,14 +2235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62610,
-      "num": 207645,
-      "word": "福宝张大嘴巴等奶爸喂苹果",
-      "onboard_time": 1716885557,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58879,
       "num": 1062879,
       "word": "高质量发展看能源",
@@ -2204,7 +2244,7 @@
     },
     {
       "raw_hot": 58614,
-      "num": 206717,
+      "num": 209359,
       "word": "vivo灭霸在百米外的怼脸拍",
       "onboard_time": 1716884958,
       "rank": 34,
@@ -2235,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53005,
+      "num": 291297,
+      "word": "她一开口我好像看见雪山了",
+      "onboard_time": 1716885318,
+      "rank": 19,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 51411,
       "num": 533016,
       "word": "你是否有过找食品标签的体验",
@@ -2249,14 +2297,6 @@
       "onboard_time": 1716830114,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 48709,
-      "num": 215755,
-      "word": "她一开口我好像看见雪山了",
-      "onboard_time": 1716885318,
-      "rank": 19,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 40046,
@@ -2345,6 +2385,14 @@
       "onboard_time": 1716844330,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 13415,
+      "num": 616589,
+      "word": "换一种方式打开北京的盛夏",
+      "onboard_time": 1716888677,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12539,
