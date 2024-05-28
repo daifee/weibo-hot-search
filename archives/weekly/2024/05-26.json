@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716913392903,
+  "endTime": 1716914290310,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -2716,7 +2716,7 @@
     },
     {
       "raw_hot": 334589,
-      "num": 219685,
+      "num": 314453,
       "word": "李云睿李承泽 抽象对话",
       "onboard_time": 1716909860,
       "rank": 30,
@@ -2817,6 +2817,14 @@
       "onboard_time": 1716773237,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317615,
+      "num": 317615,
+      "word": "以色列",
+      "onboard_time": 1716913156,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 315800,
@@ -7475,6 +7483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114872,
+      "num": 114872,
+      "word": "胡先煦惹了秦岚等于没惹",
+      "onboard_time": 1716912557,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114646,
       "num": 114646,
       "word": "电影爸爸是外星人定档",
@@ -7569,14 +7585,6 @@
       "onboard_time": 1716885557,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111575,
-      "num": 156712,
-      "word": "以色列",
-      "onboard_time": 1716913156,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 111475,
@@ -8024,14 +8032,6 @@
       "word": "原来沈月是李嘉琦的嫡长闺",
       "onboard_time": 1716638418,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 91522,
-      "num": 91522,
-      "word": "胡先煦惹了秦岚等于没惹",
-      "onboard_time": 1716912557,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -8947,6 +8947,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 18267,
+      "num": 282824,
+      "word": "流浪狗回回已找到领养人",
+      "onboard_time": 1716913276,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15987,
       "num": 18850,
       "word": "善宰转动机械表彻底恢复记忆",
@@ -8969,14 +8977,6 @@
       "onboard_time": 1716844330,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 13576,
-      "num": 145808,
-      "word": "流浪狗回回已找到领养人",
-      "onboard_time": 1716913276,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13415,
