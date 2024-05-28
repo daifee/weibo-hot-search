@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716927614824,
+  "endTime": 1716928486913,
   "band_list": [
     {
       "raw_hot": 1075003,
@@ -403,12 +403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43963,
-      "num": 29822,
+      "raw_hot": 46377,
+      "num": 31376,
       "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
       "onboard_time": 1716923711,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36142,
+      "num": 36142,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 30960,
@@ -443,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27063,
-      "num": 27063,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 25975,
       "num": 170961,
       "word": "男子23年后找到女儿泣不成声",
@@ -483,20 +483,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14091,
-      "num": 14881,
+      "raw_hot": 14384,
+      "num": 14956,
       "word": "这孩子将来得是国际锯星",
       "onboard_time": 1716925690,
       "rank": 38,
       "category": "幽默"
     },
     {
-      "raw_hot": 11634,
-      "num": 14868,
+      "raw_hot": 13258,
+      "num": 14935,
       "word": "报春花科新物种被发现",
       "onboard_time": 1716926110,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 12528,
+      "num": 14918,
+      "word": "黄金价格还会继续上涨吗",
+      "onboard_time": 1716928211,
+      "rank": 43,
+      "category": "财经"
     }
   ],
   "hotgov_list": [
