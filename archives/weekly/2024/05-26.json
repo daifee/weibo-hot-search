@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716914290310,
+  "endTime": 1716916633405,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -1353,6 +1353,14 @@
       "onboard_time": 1716797778,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578922,
+      "num": 578922,
+      "word": "以色列",
+      "onboard_time": 1716913156,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 578083,
@@ -2817,14 +2825,6 @@
       "onboard_time": 1716773237,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 317615,
-      "num": 317615,
-      "word": "以色列",
-      "onboard_time": 1716913156,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 315800,
@@ -8835,6 +8835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30960,
+      "num": 282824,
+      "word": "流浪狗回回已找到领养人",
+      "onboard_time": 1716913276,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30512,
       "num": 876173,
       "word": "透过数据看数字经济发展势能",
@@ -8947,14 +8955,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 18267,
-      "num": 282824,
-      "word": "流浪狗回回已找到领养人",
-      "onboard_time": 1716913276,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15987,
       "num": 18850,
       "word": "善宰转动机械表彻底恢复记忆",
@@ -8977,6 +8977,14 @@
       "onboard_time": 1716844330,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 13677,
+      "num": 170961,
+      "word": "男子23年后找到女儿泣不成声",
+      "onboard_time": 1716915135,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13415,

@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716914290310,
+  "endTime": 1716916633405,
   "band_list": [
     {
       "raw_hot": 1075003,
@@ -25,6 +25,14 @@
       "onboard_time": 1716900318,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 578922,
+      "num": 578922,
+      "word": "以色列",
+      "onboard_time": 1716913156,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 576214,
@@ -81,14 +89,6 @@
       "onboard_time": 1716896358,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317615,
-      "num": 317615,
-      "word": "以色列",
-      "onboard_time": 1716913156,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 301762,
@@ -395,6 +395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30960,
+      "num": 282824,
+      "word": "流浪狗回回已找到领养人",
+      "onboard_time": 1716913276,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28011,
       "num": 152925,
       "word": "幼儿园摆27桌坝坝宴请270萌娃",
@@ -403,11 +411,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18267,
-      "num": 282824,
-      "word": "流浪狗回回已找到领养人",
-      "onboard_time": 1716913276,
-      "rank": 24,
+      "raw_hot": 13677,
+      "num": 170961,
+      "word": "男子23年后找到女儿泣不成声",
+      "onboard_time": 1716915135,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
