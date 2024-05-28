@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716878293112,
+  "endTime": 1716880701286,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -403,6 +403,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1019267,
+      "num": 864687,
+      "word": "范闲大婚 寒酸",
+      "onboard_time": 1716877637,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 999089,
+      "num": 999089,
+      "word": "经常熬夜的人身体会发臭",
+      "onboard_time": 1716875298,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 990740,
       "num": 990740,
       "word": "王妈在塌一种很新的房",
@@ -417,6 +433,14 @@
       "onboard_time": 1716800359,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 967807,
+      "num": 775279,
+      "word": "长公主有种死了老公的美",
+      "onboard_time": 1716876379,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 962170,
@@ -449,14 +473,6 @@
       "onboard_time": 1716809657,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 917294,
-      "num": 917294,
-      "word": "经常熬夜的人身体会发臭",
-      "onboard_time": 1716875298,
-      "rank": 5,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 902001,
@@ -659,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 810769,
+      "num": 303172,
+      "word": "张玉安韩国工作被取消",
+      "onboard_time": 1716878777,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 807768,
       "num": 807768,
       "word": "台湾学生坚定表示台湾是中国的",
@@ -689,14 +713,6 @@
       "onboard_time": 1716817219,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 775279,
-      "num": 775279,
-      "word": "长公主有种死了老公的美",
-      "onboard_time": 1716876379,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 771315,
@@ -1211,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 551959,
+      "num": 300145,
+      "word": "秦皇岛巨响",
+      "onboard_time": 1716879617,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551150,
       "num": 551150,
       "word": "庆余年23集",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1716776838,
       "rank": 36,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 448130,
+      "num": 298870,
+      "word": "杨紫发国色芳华剧组照",
+      "onboard_time": 1716877697,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 447338,
@@ -2131,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345208,
+      "num": 298089,
+      "word": "披荆斩棘的哥哥合作舞台分组",
+      "onboard_time": 1716879137,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343488,
       "num": 343488,
       "word": "9个月的喀秋莎体重超50斤",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1716681315,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320626,
+      "num": 232503,
+      "word": "王妈塌房粉丝仍涨6万",
+      "onboard_time": 1716880217,
+      "rank": 21,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 320458,
@@ -2419,14 +2467,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 303418,
-      "num": 303418,
-      "word": "范闲大婚 寒酸",
-      "onboard_time": 1716877637,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 303189,
       "num": 288995,
       "word": "庆余年 泪点",
@@ -2464,14 +2504,6 @@
       "word": "庆余年林相辞官 三狐对峙",
       "onboard_time": 1716732320,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 297818,
-      "num": 248755,
-      "word": "杨紫发国色芳华剧组照",
-      "onboard_time": 1716877697,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -2665,6 +2697,14 @@
       "onboard_time": 1716871520,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 275135,
+      "num": 275135,
+      "word": "女孩拒绝陪酒遭男子铁锁打头",
+      "onboard_time": 1716878958,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 275109,
@@ -3083,6 +3123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235170,
+      "num": 407226,
+      "word": "天津大爷大妈的广场舞治愈了emo小伙",
+      "onboard_time": 1716877879,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 234618,
       "num": 234618,
       "word": "官方通报安徽一小区楼房发生坍塌",
@@ -3225,6 +3273,14 @@
       "onboard_time": 1716800298,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 226137,
+      "num": 226137,
+      "word": "杨紫瘦了piu仔胖了",
+      "onboard_time": 1716880578,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 225861,
@@ -3401,6 +3457,14 @@
       "onboard_time": 1716822200,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215508,
+      "num": 183911,
+      "word": "真的建议在外上厕所用马桶",
+      "onboard_time": 1716879977,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 214852,
@@ -4131,6 +4195,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 185346,
+      "num": 185346,
+      "word": "钟薛高卖红薯还债能东山再起吗",
+      "onboard_time": 1716880157,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185271,
       "num": 185271,
       "word": "原来大多数人小脚趾甲是分瓣的",
@@ -4177,6 +4249,14 @@
       "onboard_time": 1716778578,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183640,
+      "num": 183640,
+      "word": "一个人住真的很爽",
+      "onboard_time": 1716879678,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 183553,
@@ -4257,6 +4337,14 @@
       "onboard_time": 1716720438,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180579,
+      "num": 180579,
+      "word": "狐妖小红娘新浪扫楼",
+      "onboard_time": 1716878658,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 180523,
@@ -4569,6 +4657,14 @@
       "onboard_time": 1716734002,
       "rank": 49,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 167994,
+      "num": 167994,
+      "word": "女子用炸毛毛笔写出瘦金体",
+      "onboard_time": 1716879079,
+      "rank": 35,
+      "category": "休闲"
     },
     {
       "raw_hot": 167991,
@@ -5203,6 +5299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143135,
+      "num": 143135,
+      "word": "王妈",
+      "onboard_time": 1716878238,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 142764,
       "num": 142764,
       "word": "陈幸同4比3王艺迪",
@@ -5771,6 +5875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 127987,
+      "num": 127987,
+      "word": "WBG官宣2024夏季赛大名单",
+      "onboard_time": 1716879018,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127496,
       "num": 127496,
       "word": "赵奕欢回应淘汰",
@@ -5857,6 +5969,14 @@
       "onboard_time": 1716797178,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124793,
+      "num": 131617,
+      "word": "8年前借的3斤黄金怎么还",
+      "onboard_time": 1716880098,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124623,
@@ -6011,6 +6131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120479,
+      "num": 120479,
+      "word": "多家奶茶推出mini杯",
+      "onboard_time": 1716880337,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120415,
       "num": 120415,
       "word": "国际章",
@@ -6123,6 +6251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117808,
+      "num": 117808,
+      "word": "如何给自己剪头发",
+      "onboard_time": 1716880398,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 117581,
       "num": 117581,
       "word": "超市的杯子有自己的货币",
@@ -6153,6 +6289,14 @@
       "onboard_time": 1716789198,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116381,
+      "num": 116381,
+      "word": "飞机为什么怕你带超过100ml液体",
+      "onboard_time": 1716880517,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 115692,
@@ -6417,14 +6561,6 @@
       "onboard_time": 1716864738,
       "rank": 10,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 103674,
-      "num": 103674,
-      "word": "王妈",
-      "onboard_time": 1716878238,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 102875,
@@ -6763,14 +6899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81563,
-      "num": 407226,
-      "word": "天津大爷大妈的广场舞治愈了emo小伙",
-      "onboard_time": 1716877879,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 81125,
       "num": 81125,
       "word": "吴克群回复1818黄金眼",
@@ -7033,6 +7161,14 @@
       "onboard_time": 1716688218,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54167,
+      "num": 302221,
+      "word": "山东小城隐藏土特产是法国鹅肝",
+      "onboard_time": 1716879617,
+      "rank": 9,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 53523,

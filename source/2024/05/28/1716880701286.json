@@ -1,0 +1,410 @@
+{
+  "runTime": 1716880701286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1316581,
+        "num": 1316581,
+        "word": "歌手 双补位",
+        "onboard_time": 1716872118,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 999089,
+        "num": 999089,
+        "word": "经常熬夜的人身体会发臭",
+        "onboard_time": 1716875298,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37530,
+        "num": 881551,
+        "word": "高质量发展看能源",
+        "onboard_time": 1716869299,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019267,
+        "num": 864687,
+        "word": "范闲大婚 寒酸",
+        "onboard_time": 1716877637,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 839558,
+        "num": 839558,
+        "word": "情侣长得太像听网友劝去做亲缘鉴定",
+        "onboard_time": 1716872359,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305630,
+        "num": 305630,
+        "word": "魏明伦去世",
+        "onboard_time": 1716874697,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 967807,
+        "num": 304772,
+        "word": "长公主有种死了老公的美",
+        "onboard_time": 1716876379,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235170,
+        "num": 303982,
+        "word": "天津大爷大妈的广场舞治愈了emo小伙",
+        "onboard_time": 1716877879,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 810769,
+        "num": 303172,
+        "word": "张玉安韩国工作被取消",
+        "onboard_time": 1716878777,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54167,
+        "num": 302221,
+        "word": "山东小城隐藏土特产是法国鹅肝",
+        "onboard_time": 1716879617,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 740080,
+        "num": 301039,
+        "word": "张若昀父亲被强执2000万",
+        "onboard_time": 1716864559,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551959,
+        "num": 300145,
+        "word": "秦皇岛巨响",
+        "onboard_time": 1716879617,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448130,
+        "num": 298870,
+        "word": "杨紫发国色芳华剧组照",
+        "onboard_time": 1716877697,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345208,
+        "num": 298089,
+        "word": "披荆斩棘的哥哥合作舞台分组",
+        "onboard_time": 1716879137,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323283,
+        "num": 297356,
+        "word": "重庆动物园称赵丽颖为顶流女明星",
+        "onboard_time": 1716870680,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296569,
+        "num": 296569,
+        "word": "一个榴莲真能顶三只鸡吗",
+        "onboard_time": 1716869599,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278938,
+        "num": 278938,
+        "word": "狗狗挖出了一只小猫咪",
+        "onboard_time": 1716871880,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275135,
+        "num": 275135,
+        "word": "女孩拒绝陪酒遭男子铁锁打头",
+        "onboard_time": 1716878958,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 237295,
+        "num": 237295,
+        "word": "iPad或改变logo方向",
+        "onboard_time": 1716873018,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211928,
+        "num": 235464,
+        "word": "孙杨回来了",
+        "onboard_time": 1716863716,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410949,
+        "num": 234474,
+        "word": "同事怀孕后我辞职了",
+        "onboard_time": 1716871339,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320626,
+        "num": 232503,
+        "word": "王妈塌房粉丝仍涨6万",
+        "onboard_time": 1716880217,
+        "rank": 21,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 295041,
+        "num": 230483,
+        "word": "王妈在塌一种很新的房",
+        "onboard_time": 1716864679,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 266827,
+        "num": 229089,
+        "word": "王妈账号60S广告报价60万",
+        "onboard_time": 1716870258,
+        "rank": 23,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 241166,
+        "num": 226760,
+        "word": "有明星本人微信是什么体验",
+        "onboard_time": 1716862578,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226137,
+        "num": 226137,
+        "word": "杨紫瘦了piu仔胖了",
+        "onboard_time": 1716880578,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223903,
+        "num": 223903,
+        "word": "张婧仪也穿洞洞鞋",
+        "onboard_time": 1716877637,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193580,
+        "num": 193580,
+        "word": "武大靖回应学历质疑",
+        "onboard_time": 1716874579,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185346,
+        "num": 185346,
+        "word": "钟薛高卖红薯还债能东山再起吗",
+        "onboard_time": 1716880157,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133879,
+        "num": 184179,
+        "word": "用古诗词为高考生加油",
+        "onboard_time": 1716864436,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215508,
+        "num": 183911,
+        "word": "真的建议在外上厕所用马桶",
+        "onboard_time": 1716879977,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183640,
+        "num": 183640,
+        "word": "一个人住真的很爽",
+        "onboard_time": 1716879678,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180579,
+        "num": 180579,
+        "word": "狐妖小红娘新浪扫楼",
+        "onboard_time": 1716878658,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170706,
+        "num": 170706,
+        "word": "范思辙悄悄长大惊艳所有人",
+        "onboard_time": 1716876078,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170339,
+        "num": 170339,
+        "word": "JackeyLove和Uzi双向奔赴",
+        "onboard_time": 1716875959,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167994,
+        "num": 167994,
+        "word": "女子用炸毛毛笔写出瘦金体",
+        "onboard_time": 1716879079,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 161548,
+        "num": 161548,
+        "word": "克拉岛官宣",
+        "onboard_time": 1716873858,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143135,
+        "num": 143135,
+        "word": "王妈",
+        "onboard_time": 1716878238,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133383,
+        "num": 133383,
+        "word": "整形医生天天满头大汗编急救故事",
+        "onboard_time": 1716869239,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124793,
+        "num": 131617,
+        "word": "8年前借的3斤黄金怎么还",
+        "onboard_time": 1716880098,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130012,
+        "num": 130012,
+        "word": "庆帝赐婚比月老牵线还靠谱",
+        "onboard_time": 1716877038,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127987,
+        "num": 127987,
+        "word": "WBG官宣2024夏季赛大名单",
+        "onboard_time": 1716879018,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125882,
+        "num": 125882,
+        "word": "原来配眼镜和脸型有关系",
+        "onboard_time": 1716876678,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 125394,
+        "num": 125394,
+        "word": "癌细胞最偏爱3种口味",
+        "onboard_time": 1716865998,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121484,
+        "num": 121484,
+        "word": "章子怡说十年前的自己好青涩",
+        "onboard_time": 1716875658,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120479,
+        "num": 120479,
+        "word": "多家奶茶推出mini杯",
+        "onboard_time": 1716880337,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117808,
+        "num": 117808,
+        "word": "如何给自己剪头发",
+        "onboard_time": 1716880398,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 116381,
+        "num": 116381,
+        "word": "飞机为什么怕你带超过100ml液体",
+        "onboard_time": 1716880517,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115900,
+        "num": 115900,
+        "word": "WTT",
+        "onboard_time": 1716880638,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114834,
+        "num": 114834,
+        "word": "周杰伦长沙",
+        "onboard_time": 1716871880,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中部六省要扛起主体责任让脊梁更硬#"
+    }
+  }
+}
