@@ -1,0 +1,410 @@
+{
+  "runTime": 1716867369545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2069565,
+        "num": 2069565,
+        "word": "张若昀父亲被强执2000万",
+        "onboard_time": 1716864559,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1596751,
+        "num": 1596751,
+        "word": "孙杨回来了",
+        "onboard_time": 1716863716,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17820,
+        "num": 1263728,
+        "word": "沉浸式感受数字点亮生活",
+        "onboard_time": 1716814638,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1155320,
+        "num": 1155320,
+        "word": "千万网红王妈塌房背后",
+        "onboard_time": 1716853877,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 328109,
+        "num": 328109,
+        "word": "12岁身高1米83的男孩被叫叔叔",
+        "onboard_time": 1716858978,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299562,
+        "num": 299562,
+        "word": "蚊子为啥不会被洗澡水砸死",
+        "onboard_time": 1716856519,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 721860,
+        "num": 295241,
+        "word": "许玮甯谈贺军翔性骚扰争议",
+        "onboard_time": 1716864198,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617357,
+        "num": 294740,
+        "word": "王妈在塌一种很新的房",
+        "onboard_time": 1716864679,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 289573,
+        "num": 289573,
+        "word": "那年我高考",
+        "onboard_time": 1716866718,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 269835,
+        "num": 269835,
+        "word": "用古诗词为高考生加油",
+        "onboard_time": 1716864436,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 90647,
+        "num": 265468,
+        "word": "车队军训太帅了",
+        "onboard_time": 1716864738,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1423460,
+        "num": 262740,
+        "word": "两名20多岁男子与14岁女孩发生关系",
+        "onboard_time": 1716862218,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 813588,
+        "num": 254437,
+        "word": "有明星本人微信是什么体验",
+        "onboard_time": 1716862578,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92685,
+        "num": 253556,
+        "word": "这是一份蓄谋已久的毕业祝福",
+        "onboard_time": 1716866357,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 424644,
+        "num": 247918,
+        "word": "工资6000请假半个月被扣4500",
+        "onboard_time": 1716812958,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243539,
+        "num": 243539,
+        "word": "国产大飞机C919商运一周年",
+        "onboard_time": 1716865878,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364194,
+        "num": 242753,
+        "word": "种地星球直播",
+        "onboard_time": 1716861438,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353705,
+        "num": 241960,
+        "word": "范闲 因为是家宴所以才请您",
+        "onboard_time": 1716865698,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304379,
+        "num": 241499,
+        "word": "林婉儿 工具人",
+        "onboard_time": 1716855498,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240172,
+        "num": 240172,
+        "word": "凯尔特人晋级总决赛",
+        "onboard_time": 1716864918,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627093,
+        "num": 239185,
+        "word": "男子为泄愤将妻子隐私视频发微信群",
+        "onboard_time": 1716856098,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509757,
+        "num": 238798,
+        "word": "同事提离职后有点消极怠工",
+        "onboard_time": 1716863358,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 445546,
+        "num": 237438,
+        "word": "癌细胞最偏爱3种口味",
+        "onboard_time": 1716865998,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 234586,
+        "num": 234586,
+        "word": "千万网红狂言何不食肉糜",
+        "onboard_time": 1716863537,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 228614,
+        "num": 228614,
+        "word": "广西通报46岁男子工地坠亡事件",
+        "onboard_time": 1716862038,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 207781,
+        "num": 207781,
+        "word": "张若昀 电车难题",
+        "onboard_time": 1716860478,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205264,
+        "num": 205264,
+        "word": "月经到底什么样算正常",
+        "onboard_time": 1716865097,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201017,
+        "num": 201017,
+        "word": "国际月经日",
+        "onboard_time": 1716866838,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199342,
+        "num": 199342,
+        "word": "陈泽 宇将军",
+        "onboard_time": 1716866357,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190779,
+        "num": 190779,
+        "word": "杰伦布朗东决MVP",
+        "onboard_time": 1716867018,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184583,
+        "num": 184583,
+        "word": "白玉兰提名 还不出",
+        "onboard_time": 1716865279,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168841,
+        "num": 168841,
+        "word": "火箭军新兵授衔大场面",
+        "onboard_time": 1716864738,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 168693,
+        "num": 168693,
+        "word": "十个勤天回忆",
+        "onboard_time": 1716865038,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163110,
+        "num": 163110,
+        "word": "未婚先孕就不用给彩礼了吗",
+        "onboard_time": 1716853276,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155414,
+        "num": 155414,
+        "word": "到底哪些咖啡偷偷让人长胖",
+        "onboard_time": 1716865818,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139568,
+        "num": 139568,
+        "word": "范思辙为什么要戴项圈",
+        "onboard_time": 1716820099,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129856,
+        "num": 129856,
+        "word": "i人怎么把这箱荔枝分给同事",
+        "onboard_time": 1716861678,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122661,
+        "num": 122661,
+        "word": "为什么方便面是弯的不是直的",
+        "onboard_time": 1716863058,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121559,
+        "num": 121559,
+        "word": "怀特准绝杀步行者",
+        "onboard_time": 1716865878,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114646,
+        "num": 114646,
+        "word": "电影爸爸是外星人定档",
+        "onboard_time": 1716866599,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114016,
+        "num": 114016,
+        "word": "布兰妮珠宝被偷",
+        "onboard_time": 1716862398,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110550,
+        "num": 110550,
+        "word": "凯尔特人4比0步行者",
+        "onboard_time": 1716864918,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109464,
+        "num": 109464,
+        "word": "当你连续点同一家外卖超过100次",
+        "onboard_time": 1716823101,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107334,
+        "num": 107334,
+        "word": "台湾",
+        "onboard_time": 1716859398,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97788,
+        "num": 97788,
+        "word": "打工人累点低到离谱",
+        "onboard_time": 1716865279,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96813,
+        "num": 96813,
+        "word": "李小冉早期旧照",
+        "onboard_time": 1716863958,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96380,
+        "num": 96380,
+        "word": "大家好像都不被允许休息",
+        "onboard_time": 1716855138,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93399,
+        "num": 93399,
+        "word": "权志龙将参加KAIST脱口秀",
+        "onboard_time": 1716867317,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92177,
+        "num": 92177,
+        "word": "求职找工作避坑指南",
+        "onboard_time": 1716860838,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90723,
+        "num": 90723,
+        "word": "男童不慎把520胶水抹胳膊和嘴上",
+        "onboard_time": 1716867317,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局5月27日召开会议#"
+    }
+  }
+}
