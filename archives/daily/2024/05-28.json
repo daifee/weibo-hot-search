@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716880701286,
+  "endTime": 1716881667806,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -75,7 +75,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1019267,
+      "raw_hot": 1057533,
       "num": 864687,
       "word": "范闲大婚 寒酸",
       "onboard_time": 1716877637,
@@ -105,6 +105,14 @@
       "onboard_time": 1716876379,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 901709,
+      "num": 444891,
+      "word": "张玉安韩国工作被取消",
+      "onboard_time": 1716878777,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 886181,
@@ -171,14 +179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 810769,
-      "num": 303172,
-      "word": "张玉安韩国工作被取消",
-      "onboard_time": 1716878777,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 767938,
       "num": 449083,
       "word": "叶灵儿戏份",
@@ -235,6 +235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 601709,
+      "num": 247419,
+      "word": "王妈塌房粉丝仍涨6万",
+      "onboard_time": 1716880217,
+      "rank": 21,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 578083,
       "num": 269583,
       "word": "同事怀孕后我辞职了",
@@ -281,6 +289,14 @@
       "onboard_time": 1716869059,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512315,
+      "num": 512315,
+      "word": "女孩拒绝陪酒遭男子铁锁打头",
+      "onboard_time": 1716878958,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 509757,
@@ -387,6 +403,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 401923,
+      "num": 298089,
+      "word": "披荆斩棘的哥哥合作舞台分组",
+      "onboard_time": 1716879137,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400108,
       "num": 400108,
       "word": "狗狗挖出了一只小猫咪",
@@ -401,6 +425,14 @@
       "onboard_time": 1716818118,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 392006,
+      "num": 208182,
+      "word": "真的建议在外上厕所用马桶",
+      "onboard_time": 1716879977,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 390820,
@@ -419,20 +451,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 380786,
+      "num": 226137,
+      "word": "杨紫瘦了piu仔胖了",
+      "onboard_time": 1716880578,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 350540,
       "num": 350540,
       "word": "质疑太子理解太子",
       "onboard_time": 1716822740,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 345208,
-      "num": 298089,
-      "word": "披荆斩棘的哥哥合作舞台分组",
-      "onboard_time": 1716879137,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 332481,
@@ -475,12 +507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320626,
-      "num": 232503,
-      "word": "王妈塌房粉丝仍涨6万",
-      "onboard_time": 1716880217,
-      "rank": 21,
-      "category": "网红,社会新闻"
+      "raw_hot": 321518,
+      "num": 200652,
+      "word": "李佳琦披哥路透",
+      "onboard_time": 1716881117,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 312530,
@@ -515,12 +547,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 306029,
+      "num": 198683,
+      "word": "歌手第四期歌单",
+      "onboard_time": 1716881177,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293119,
       "num": 285627,
       "word": "权志龙将参加KAIST脱口秀",
       "onboard_time": 1716867317,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291613,
+      "num": 195790,
+      "word": "钟薛高卖红薯还债能东山再起吗",
+      "onboard_time": 1716880157,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 289573,
@@ -561,14 +609,6 @@
       "onboard_time": 1716871520,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 275135,
-      "num": 275135,
-      "word": "女孩拒绝陪酒遭男子铁锁打头",
-      "onboard_time": 1716878958,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 275109,
@@ -649,6 +689,14 @@
       "onboard_time": 1716853638,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 263164,
+      "num": 211494,
+      "word": "8年前借的3斤黄金怎么还",
+      "onboard_time": 1716880098,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261219,
@@ -747,19 +795,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226137,
-      "num": 226137,
-      "word": "杨紫瘦了piu仔胖了",
-      "onboard_time": 1716880578,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 225861,
       "num": 225861,
       "word": "孙杨状态",
       "onboard_time": 1716869839,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221495,
+      "num": 221495,
+      "word": "WTT",
+      "onboard_time": 1716880638,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -785,14 +833,6 @@
       "onboard_time": 1716867317,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215508,
-      "num": 183911,
-      "word": "真的建议在外上厕所用马桶",
-      "onboard_time": 1716879977,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 213346,
@@ -923,20 +963,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188016,
+      "num": 188016,
+      "word": "歌手",
+      "onboard_time": 1716881417,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187718,
+      "num": 187718,
+      "word": "王妈账号12条视频8条植入广告",
+      "onboard_time": 1716880878,
+      "rank": 35,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 187587,
       "num": 187587,
       "word": "白玉兰提名 还不出",
       "onboard_time": 1716865279,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185346,
-      "num": 185346,
-      "word": "钟薛高卖红薯还债能东山再起吗",
-      "onboard_time": 1716880157,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 184965,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1716819680,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174058,
+      "num": 174058,
+      "word": "飞机为什么怕你带超过100ml液体",
+      "onboard_time": 1716880517,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 173783,
@@ -1195,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153117,
+      "num": 153117,
+      "word": "多家奶茶推出mini杯",
+      "onboard_time": 1716880337,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153032,
       "num": 153032,
       "word": "为什么可乐瓶是圆的牛奶包是方的",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1716861678,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146969,
+      "num": 146969,
+      "word": "清清入选梦之队",
+      "onboard_time": 1716881538,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 146152,
@@ -1371,14 +1443,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 124793,
-      "num": 131617,
-      "word": "8年前借的3斤黄金怎么还",
-      "onboard_time": 1716880098,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123904,
       "num": 123904,
       "word": "许嵩演唱会",
@@ -1393,14 +1457,6 @@
       "onboard_time": 1716876559,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120479,
-      "num": 120479,
-      "word": "多家奶茶推出mini杯",
-      "onboard_time": 1716880337,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 120031,
@@ -1472,22 +1528,6 @@
       "word": "纳达尔vs兹维列夫",
       "onboard_time": 1716826996,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 116381,
-      "num": 116381,
-      "word": "飞机为什么怕你带超过100ml液体",
-      "onboard_time": 1716880517,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 115900,
-      "num": 115900,
-      "word": "WTT",
-      "onboard_time": 1716880638,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -1835,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74772,
+      "num": 302221,
+      "word": "山东小城隐藏土特产是法国鹅肝",
+      "onboard_time": 1716879617,
+      "rank": 9,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 69991,
       "num": 69991,
       "word": "工作了8天又裸辞了",
@@ -1856,6 +1904,14 @@
       "word": "福宝乖乖吃苹果被奖励摸摸",
       "onboard_time": 1716821661,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69310,
+      "num": 192947,
+      "word": "校车还没来狗狗雷达就提前收到信号了",
+      "onboard_time": 1716881598,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1897,14 +1953,6 @@
       "onboard_time": 1716851955,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54167,
-      "num": 302221,
-      "word": "山东小城隐藏土特产是法国鹅肝",
-      "onboard_time": 1716879617,
-      "rank": 9,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 51411,
@@ -1971,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18828,
+      "num": 268538,
+      "word": "神十八乘组入住太空之家满月记",
+      "onboard_time": 1716881239,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18574,
       "num": 18574,
       "word": "很久没见的无毛猫和布偶猫",
@@ -2017,6 +2073,14 @@
       "onboard_time": 1716816799,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6937,
+      "num": 831095,
+      "word": "微缩版麦田展开夏收夏种美丽画卷",
+      "onboard_time": 1716881598,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2031,6 +2095,9 @@
     },
     {
       "word": "#中部六省要扛起主体责任让脊梁更硬#"
+    },
+    {
+      "word": "#努力实现关键核心技术自主可控#"
     }
   ]
 }
