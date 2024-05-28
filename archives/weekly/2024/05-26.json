@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716894960450,
+  "endTime": 1716896077206,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 899905,
+      "num": 899905,
+      "word": "网红王妈签约公司致歉",
+      "onboard_time": 1716893657,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 898054,
       "num": 526930,
       "word": "aespa回归MV",
@@ -545,14 +553,6 @@
       "onboard_time": 1716734059,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 888138,
-      "num": 888138,
-      "word": "网红王妈签约公司致歉",
-      "onboard_time": 1716893657,
-      "rank": 3,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 886181,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1716889518,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622209,
+      "num": 352831,
+      "word": "文科生 词汇量很大的乞丐",
+      "onboard_time": 1716891918,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 620232,
@@ -1707,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471528,
-      "num": 310128,
-      "word": "文科生 词汇量很大的乞丐",
-      "onboard_time": 1716891918,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 471180,
       "num": 471180,
       "word": "福宝居家直播",
@@ -2227,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369628,
+      "num": 369628,
+      "word": "首个未成年人游戏退费标准推出",
+      "onboard_time": 1716894799,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368689,
       "num": 335527,
       "word": "aespa破表",
@@ -2371,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346619,
+      "num": 346619,
+      "word": "广州首套房首付最低15%",
+      "onboard_time": 1716893297,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346607,
       "num": 346607,
       "word": "子女凑钱替67岁父亲交私生子抚养费",
@@ -2505,6 +2521,14 @@
       "onboard_time": 1716862038,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 326686,
+      "num": 326686,
+      "word": "第一次见地铁户型的房子",
+      "onboard_time": 1716892217,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 323898,
@@ -2729,14 +2753,6 @@
       "onboard_time": 1716774737,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 296757,
-      "num": 296757,
-      "word": "广州首套房首付最低15%",
-      "onboard_time": 1716893297,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295214,
@@ -3011,14 +3027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 266486,
-      "num": 206855,
-      "word": "第一次见地铁户型的房子",
-      "onboard_time": 1716892217,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 265787,
       "num": 200139,
       "word": "金起范饭拍",
@@ -3137,6 +3145,14 @@
       "onboard_time": 1716734660,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253863,
+      "num": 253863,
+      "word": "前华为高颜值HR入职京东做主播",
+      "onboard_time": 1716895457,
+      "rank": 18,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 253844,
@@ -3313,6 +3329,14 @@
       "onboard_time": 1716778277,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242244,
+      "num": 242244,
+      "word": "神十八航天员圆满完成首次出舱",
+      "onboard_time": 1716895396,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 242139,
@@ -4315,6 +4339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194524,
+      "num": 194524,
+      "word": "庆余年放榜 范进中举",
+      "onboard_time": 1716888438,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194475,
       "num": 194475,
       "word": "范闲为什么不骑王启年",
@@ -4595,11 +4627,11 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 186059,
-      "num": 186059,
-      "word": "庆余年放榜 范进中举",
-      "onboard_time": 1716888438,
-      "rank": 35,
+      "raw_hot": 185642,
+      "num": 185642,
+      "word": "背着善宰跑今晚大结局",
+      "onboard_time": 1716893539,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -4681,14 +4713,6 @@
       "onboard_time": 1716726318,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 183255,
-      "num": 183255,
-      "word": "首个未成年人游戏退费标准推出",
-      "onboard_time": 1716894799,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183165,
@@ -4785,14 +4809,6 @@
       "onboard_time": 1716865038,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179335,
-      "num": 179335,
-      "word": "背着善宰跑今晚大结局",
-      "onboard_time": 1716893539,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 178567,
@@ -5723,6 +5739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145800,
+      "num": 145800,
+      "word": "DRG鹏鹏自由人离队",
+      "onboard_time": 1716895338,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144963,
       "num": 144963,
       "word": "龚俊cue顺手牵杨",
@@ -5769,6 +5793,14 @@
       "onboard_time": 1716870798,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143205,
+      "num": 143205,
+      "word": "判断一个人上班是否痛苦的依据",
+      "onboard_time": 1716892638,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 143135,
@@ -6123,14 +6155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134543,
-      "num": 134543,
-      "word": "判断一个人上班是否痛苦的依据",
-      "onboard_time": 1716892638,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134254,
       "num": 134254,
       "word": "兰州马拉松",
@@ -6321,6 +6345,14 @@
       "onboard_time": 1716815779,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130437,
+      "num": 130437,
+      "word": "王妈公司改进情况说明",
+      "onboard_time": 1716895217,
+      "rank": 41,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 130396,
@@ -6939,12 +6971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111475,
+      "num": 111475,
+      "word": "郑钦文vs科内",
+      "onboard_time": 1716895038,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111293,
       "num": 111293,
       "word": "曼联是冠军",
       "onboard_time": 1716684917,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110867,
+      "num": 110867,
+      "word": "杨紫免除黑粉金钱赔偿",
+      "onboard_time": 1716895158,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 110797,
@@ -7145,6 +7193,14 @@
       "onboard_time": 1716702258,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102265,
+      "num": 353066,
+      "word": "丈夫婆婆用被单给怀孕妻子荡秋千",
+      "onboard_time": 1716894497,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102004,
@@ -7395,14 +7451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89061,
-      "num": 213779,
-      "word": "丈夫婆婆用被单给怀孕妻子荡秋千",
-      "onboard_time": 1716894497,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87144,
       "num": 106619,
       "word": "原来朋友圈很多官宣照是这么来的",
@@ -7620,7 +7668,7 @@
     },
     {
       "raw_hot": 71416,
-      "num": 896074,
+      "num": 897537,
       "word": "换一种方式打开北京的盛夏",
       "onboard_time": 1716888677,
       "rank": 2,
@@ -7948,7 +7996,7 @@
     },
     {
       "raw_hot": 44251,
-      "num": 206742,
+      "num": 291567,
       "word": "中法艺术60年联动大秀",
       "onboard_time": 1716894257,
       "rank": 31,
