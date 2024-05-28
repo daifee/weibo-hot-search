@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716934686448,
+  "endTime": 1716935718509,
   "band_list": [
     {
       "raw_hot": 1075003,
@@ -195,6 +195,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158853,
+      "num": 158853,
+      "word": "多家银行开启沉睡账户唤醒",
+      "onboard_time": 1716903619,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 143683,
+      "num": 143683,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140811,
+      "num": 107551,
+      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+      "onboard_time": 1716923711,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139649,
       "num": 139649,
       "word": "刘宇宁直播cue揭面具",
@@ -259,14 +283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 115581,
-      "num": 83706,
-      "word": "多家银行开启沉睡账户唤醒",
-      "onboard_time": 1716903619,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 114872,
       "num": 114872,
       "word": "胡先煦惹了秦岚等于没惹",
@@ -297,22 +313,6 @@
       "onboard_time": 1716900017,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103700,
-      "num": 85915,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 102553,
-      "num": 60943,
-      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
-      "onboard_time": 1716923711,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100692,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71500,
+      "num": 71500,
+      "word": "关于我和鬼成为朋友这件事",
+      "onboard_time": 1716919152,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 64697,
       "num": 75702,
       "word": "王力宏 来不来",
@@ -395,12 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56745,
-      "num": 49071,
-      "word": "关于我和鬼成为朋友这件事",
-      "onboard_time": 1716919152,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 51402,
+      "num": 51402,
+      "word": "黄金价格还会继续上涨吗",
+      "onboard_time": 1716928211,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 49310,
@@ -427,12 +435,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 47214,
-      "num": 47214,
-      "word": "黄金价格还会继续上涨吗",
-      "onboard_time": 1716928211,
+      "raw_hot": 32648,
+      "num": 32648,
+      "word": "张若昀两黑粉被强执5万",
+      "onboard_time": 1716933973,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31638,
+      "num": 31638,
+      "word": "徐冬冬尹子维已经可以坦然聊分过手了",
+      "onboard_time": 1716893118,
       "rank": 43,
-      "category": "财经"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31101,
+      "num": 31101,
+      "word": "张馨予红发造型",
+      "onboard_time": 1716934632,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 30960,
@@ -475,28 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24802,
-      "num": 30931,
-      "word": "徐冬冬尹子维已经可以坦然聊分过手了",
-      "onboard_time": 1716893118,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24208,
+      "raw_hot": 25423,
       "num": 30869,
       "word": "我的麦子熟了 我也该醒了",
       "onboard_time": 1716920292,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 22021,
-      "num": 22021,
-      "word": "张若昀两黑粉被强执5万",
-      "onboard_time": 1716933973,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 18363,
@@ -513,14 +521,6 @@
       "onboard_time": 1716925690,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16583,
-      "num": 20751,
-      "word": "张馨予红发造型",
-      "onboard_time": 1716934632,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 15461,

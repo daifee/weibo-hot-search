@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716934686448,
+  "endTime": 1716935718509,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -58995,6 +58995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143683,
+      "num": 143683,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143658,
       "num": 143658,
       "word": "成都汤尤杯陈雨菲全胜",
@@ -59953,6 +59961,14 @@
       "onboard_time": 1715580739,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140811,
+      "num": 107551,
+      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+      "onboard_time": 1716923711,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140807,
@@ -69739,14 +69755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103700,
-      "num": 85915,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 103642,
       "num": 430888,
       "word": "82岁母亲背一书包雪饼看望53岁儿子",
@@ -69953,14 +69961,6 @@
       "onboard_time": 1715417540,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102553,
-      "num": 60943,
-      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
-      "onboard_time": 1716923711,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102502,
@@ -73251,6 +73251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71500,
+      "num": 71500,
+      "word": "关于我和鬼成为朋友这件事",
+      "onboard_time": 1716919152,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71416,
       "num": 897537,
       "word": "换一种方式打开北京的盛夏",
@@ -74627,14 +74635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56745,
-      "num": 49071,
-      "word": "关于我和鬼成为朋友这件事",
-      "onboard_time": 1716919152,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 56605,
       "num": 202197,
       "word": "迪丽热巴的AI搭子",
@@ -75211,6 +75211,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 51402,
+      "num": 51402,
+      "word": "黄金价格还会继续上涨吗",
+      "onboard_time": 1716928211,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 51385,
       "num": 51385,
       "word": "体态变差的根源居然是恐惧",
@@ -75593,14 +75601,6 @@
       "onboard_time": 1715311698,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47214,
-      "num": 47214,
-      "word": "黄金价格还会继续上涨吗",
-      "onboard_time": 1716928211,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 47194,
@@ -76851,6 +76851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32648,
+      "num": 32648,
+      "word": "张若昀两黑粉被强执5万",
+      "onboard_time": 1716933973,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32591,
       "num": 130476,
       "word": "周黑鸭经典散称重出江湖",
@@ -76993,6 +77001,14 @@
       "onboard_time": 1715016732,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31101,
+      "num": 31101,
+      "word": "张馨予红发造型",
+      "onboard_time": 1716934632,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 31029,
@@ -77379,6 +77395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25423,
+      "num": 30869,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1716920292,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25348,
       "num": 29154,
       "word": "大梦归离",
@@ -77489,14 +77513,6 @@
       "onboard_time": 1716405850,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24208,
-      "num": 30869,
-      "word": "我的麦子熟了 我也该醒了",
-      "onboard_time": 1716920292,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 24174,
@@ -77705,14 +77721,6 @@
       "onboard_time": 1716633800,
       "rank": 23,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 22021,
-      "num": 22021,
-      "word": "张若昀两黑粉被强执5万",
-      "onboard_time": 1716933973,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 21917,
@@ -78113,14 +78121,6 @@
       "onboard_time": 1716294857,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16583,
-      "num": 20751,
-      "word": "张馨予红发造型",
-      "onboard_time": 1716934632,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 16268,

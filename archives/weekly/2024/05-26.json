@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716934686448,
+  "endTime": 1716935718509,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -6259,6 +6259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143683,
+      "num": 143683,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143496,
       "num": 143496,
       "word": "范闲自己淋过雨要给天下撑伞",
@@ -6417,6 +6425,14 @@
       "onboard_time": 1716701898,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140811,
+      "num": 107551,
+      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+      "onboard_time": 1716923711,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140526,
@@ -7795,14 +7811,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 103700,
-      "num": 85915,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102875,
       "num": 102875,
       "word": "广西46岁男子工地坠亡排除刑案",
@@ -7825,14 +7833,6 @@
       "onboard_time": 1716702258,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102553,
-      "num": 60943,
-      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
-      "onboard_time": 1716923711,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102004,
@@ -8307,6 +8307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71500,
+      "num": 71500,
+      "word": "关于我和鬼成为朋友这件事",
+      "onboard_time": 1716919152,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71416,
       "num": 897537,
       "word": "换一种方式打开北京的盛夏",
@@ -8483,14 +8491,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 56745,
-      "num": 49071,
-      "word": "关于我和鬼成为朋友这件事",
-      "onboard_time": 1716919152,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 56179,
       "num": 165330,
       "word": "云南野生菌安全提示短信变吃菌通知",
@@ -8587,6 +8587,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 51402,
+      "num": 51402,
+      "word": "黄金价格还会继续上涨吗",
+      "onboard_time": 1716928211,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 51385,
       "num": 51385,
       "word": "体态变差的根源居然是恐惧",
@@ -8665,14 +8673,6 @@
       "onboard_time": 1716779061,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 47214,
-      "num": 47214,
-      "word": "黄金价格还会继续上涨吗",
-      "onboard_time": 1716928211,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 47124,
@@ -8859,6 +8859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32648,
+      "num": 32648,
+      "word": "张若昀两黑粉被强执5万",
+      "onboard_time": 1716933973,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32572,
       "num": 139737,
       "word": "山东这个小镇电吉他出口占全国四成",
@@ -8873,6 +8881,14 @@
       "onboard_time": 1716841990,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31101,
+      "num": 31101,
+      "word": "张馨予红发造型",
+      "onboard_time": 1716934632,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 30960,
@@ -8955,6 +8971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25423,
+      "num": 30869,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1716920292,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25066,
       "num": 32193,
       "word": "新说唱2024",
@@ -8963,28 +8987,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24208,
-      "num": 30869,
-      "word": "我的麦子熟了 我也该醒了",
-      "onboard_time": 1716920292,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 23118,
       "num": 192451,
       "word": "云峰山上1700岁的桢楠王",
       "onboard_time": 1716803178,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22021,
-      "num": 22021,
-      "word": "张若昀两黑粉被强执5万",
-      "onboard_time": 1716933973,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 20654,
@@ -9041,14 +9049,6 @@
       "onboard_time": 1716925690,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16583,
-      "num": 20751,
-      "word": "张馨予红发造型",
-      "onboard_time": 1716934632,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 15987,
