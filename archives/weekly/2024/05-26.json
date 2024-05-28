@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716870271521,
+  "endTime": 1716871190392,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -387,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 990740,
+      "num": 990740,
+      "word": "王妈在塌一种很新的房",
+      "onboard_time": 1716864679,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 980096,
       "num": 980096,
       "word": "花海 投票",
@@ -516,19 +524,11 @@
     },
     {
       "raw_hot": 852382,
-      "num": 404168,
+      "num": 507689,
       "word": "有明星本人微信是什么体验",
       "onboard_time": 1716862578,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 849238,
-      "num": 849238,
-      "word": "王妈在塌一种很新的房",
-      "onboard_time": 1716864679,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 842965,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746733,
+      "num": 746733,
+      "word": "准妈妈因孕期胃口大变崩溃痛哭",
+      "onboard_time": 1716867738,
+      "rank": 4,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 745021,
       "num": 745021,
       "word": "庆帝终于显露武功了",
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 741189,
-      "num": 411826,
+      "num": 519241,
       "word": "许玮甯谈贺军翔性骚扰争议",
       "onboard_time": 1716864198,
       "rank": 6,
@@ -793,14 +801,6 @@
       "onboard_time": 1716818118,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 666230,
-      "num": 666230,
-      "word": "准妈妈因孕期胃口大变崩溃痛哭",
-      "onboard_time": 1716867738,
-      "rank": 4,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 665542,
@@ -1116,7 +1116,7 @@
     },
     {
       "raw_hot": 552116,
-      "num": 398629,
+      "num": 505256,
       "word": "范闲 因为是家宴所以才请您",
       "onboard_time": 1716865698,
       "rank": 27,
@@ -1211,6 +1211,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 519453,
+      "num": 519453,
+      "word": "中国计量大学回应学生虐杀猫事件",
+      "onboard_time": 1716869059,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518913,
       "num": 325406,
       "word": "王骁纽约州执业律师宣誓vlog",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1716639438,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 503129,
+      "num": 503129,
+      "word": "整形医生天天满头大汗编急救故事",
+      "onboard_time": 1716869239,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 500997,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1716691458,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 482486,
+      "num": 482486,
+      "word": "王妈账号60S广告报价60万",
+      "onboard_time": 1716870258,
+      "rank": 32,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 481494,
@@ -1539,6 +1563,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 443314,
+      "num": 512593,
+      "word": "千万网红狂言何不食肉糜",
+      "onboard_time": 1716863537,
+      "rank": 27,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 442703,
       "num": 442703,
       "word": "黄景瑜关晓彤同框合照",
@@ -1577,14 +1609,6 @@
       "onboard_time": 1716703699,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 427876,
-      "num": 427876,
-      "word": "中国计量大学回应学生虐杀猫事件",
-      "onboard_time": 1716869059,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427245,
@@ -1731,14 +1755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 395109,
-      "num": 395109,
-      "word": "千万网红狂言何不食肉糜",
-      "onboard_time": 1716863537,
-      "rank": 27,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 394744,
       "num": 586012,
       "word": "曼城vs曼联",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1716856519,
       "rank": 15,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 389526,
+      "num": 389526,
+      "word": "重庆动物园称赵丽颖为顶流女明星",
+      "onboard_time": 1716870680,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 388969,
@@ -2331,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297531,
+      "num": 410856,
+      "word": "网红王妈团队走红史",
+      "onboard_time": 1716868820,
+      "rank": 9,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 297101,
       "num": 297101,
       "word": "TheShy说LWX比Uzi更好",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1716729200,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 293119,
+      "num": 285627,
+      "word": "权志龙将参加KAIST脱口秀",
+      "onboard_time": 1716867317,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 292749,
@@ -2435,14 +2475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 285627,
-      "num": 285627,
-      "word": "权志龙将参加KAIST脱口秀",
-      "onboard_time": 1716867317,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284819,
       "num": 284819,
       "word": "恋与深空",
@@ -2459,12 +2491,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 282355,
-      "num": 282355,
-      "word": "整形医生天天满头大汗编急救故事",
-      "onboard_time": 1716869239,
-      "rank": 16,
-      "category": "健康医疗"
+      "raw_hot": 283384,
+      "num": 283384,
+      "word": "一个榴莲真能顶三只鸡吗",
+      "onboard_time": 1716869599,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 281604,
@@ -2556,7 +2588,7 @@
     },
     {
       "raw_hot": 269835,
-      "num": 417982,
+      "num": 511076,
       "word": "用古诗词为高考生加油",
       "onboard_time": 1716864436,
       "rank": 21,
@@ -2609,6 +2641,14 @@
       "onboard_time": 1716853638,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 261219,
+      "num": 244337,
+      "word": "庆余年2演员学历",
+      "onboard_time": 1716867859,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 260426,
@@ -2691,6 +2731,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 250866,
+      "num": 237442,
+      "word": "为什么小脚趾的趾甲分成两瓣",
+      "onboard_time": 1716867617,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 250690,
       "num": 183758,
       "word": "龚俊快被喷成水牛了",
@@ -2713,14 +2761,6 @@
       "onboard_time": 1716789078,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247574,
-      "num": 244337,
-      "word": "庆余年2演员学历",
-      "onboard_time": 1716867859,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 247316,
@@ -2883,14 +2923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237442,
-      "num": 237442,
-      "word": "为什么小脚趾的趾甲分成两瓣",
-      "onboard_time": 1716867617,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 236862,
       "num": 313655,
       "word": "云南白药董事陈发树等人辞职",
@@ -3049,6 +3081,14 @@
       "onboard_time": 1716800298,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 225861,
+      "num": 225861,
+      "word": "孙杨状态",
+      "onboard_time": 1716869839,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 225416,
@@ -3249,14 +3289,6 @@
       "onboard_time": 1716700338,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211562,
-      "num": 211562,
-      "word": "王妈账号60S广告报价60万",
-      "onboard_time": 1716870258,
-      "rank": 32,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 211074,
@@ -3737,14 +3769,6 @@
       "onboard_time": 1716812178,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 191085,
-      "num": 191085,
-      "word": "一个榴莲真能顶三只鸡吗",
-      "onboard_time": 1716869599,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 190801,
@@ -4259,6 +4283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170704,
+      "num": 170704,
+      "word": "张杰重庆抢票",
+      "onboard_time": 1716870980,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170672,
       "num": 170672,
       "word": "五月天鸟巢演唱会",
@@ -4411,6 +4443,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165628,
+      "num": 234584,
+      "word": "上海已有开发商购房者动起来了",
+      "onboard_time": 1716868698,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 165158,
+      "num": 165158,
+      "word": "才知道眼镜不能用卫生纸擦",
+      "onboard_time": 1716870379,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 165035,
       "num": 165035,
       "word": "范闲to签",
@@ -4459,14 +4507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163907,
-      "num": 410856,
-      "word": "网红王妈团队走红史",
-      "onboard_time": 1716868820,
-      "rank": 9,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 163863,
       "num": 163863,
       "word": "2024KPL王者梦之队",
@@ -4513,14 +4553,6 @@
       "onboard_time": 1716720678,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161089,
-      "num": 161089,
-      "word": "孙杨状态",
-      "onboard_time": 1716869839,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 160474,
@@ -4723,14 +4755,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 152147,
-      "num": 152147,
-      "word": "上海已有开发商购房者动起来了",
-      "onboard_time": 1716868698,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 151963,
       "num": 151963,
       "word": "沈月拍了李嘉琦徐志胜",
@@ -4867,6 +4891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146543,
+      "num": 146543,
+      "word": "绝区零",
+      "onboard_time": 1716871099,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145956,
       "num": 145956,
       "word": "中医眼里的精血气三不足",
@@ -4913,6 +4945,14 @@
       "onboard_time": 1716717077,
       "rank": 34,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 143364,
+      "num": 143364,
+      "word": "Rookie宝蓝谈iG往事",
+      "onboard_time": 1716870798,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 142764,
@@ -5515,6 +5555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126009,
+      "num": 126009,
+      "word": "为什么可乐瓶是圆的牛奶包是方的",
+      "onboard_time": 1716871099,
+      "rank": 47,
+      "category": "科学科普,美食"
+    },
+    {
       "raw_hot": 125877,
       "num": 125877,
       "word": "谢谢你克罗斯",
@@ -5529,6 +5577,14 @@
       "onboard_time": 1716630798,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125754,
+      "num": 125754,
+      "word": "年轻人生娃前后态度差异",
+      "onboard_time": 1716870559,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 125703,
@@ -6579,6 +6635,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 60400,
+      "num": 127555,
+      "word": "比亚迪发布会",
+      "onboard_time": 1716871040,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60323,
       "num": 187486,
       "word": "武大靖玩梗还得是本人",
@@ -6731,6 +6795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50094,
+      "num": 1004974,
+      "word": "高质量发展看能源",
+      "onboard_time": 1716869299,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47839,
       "num": 248755,
       "word": "深蓝G318把硬派油耗干掉了一半",
@@ -6815,14 +6887,6 @@
       "num": 1027338,
       "word": "高质量发展调研行",
       "onboard_time": 1716694698,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40287,
-      "num": 927800,
-      "word": "高质量发展看能源",
-      "onboard_time": 1716869299,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -7105,6 +7169,9 @@
     },
     {
       "word": "#中共中央政治局5月27日召开会议#"
+    },
+    {
+      "word": "#中部六省要扛起主体责任让脊梁更硬#"
     }
   ]
 }
