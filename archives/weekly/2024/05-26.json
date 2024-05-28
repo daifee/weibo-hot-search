@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716891610385,
+  "endTime": 1716892612392,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 1228654,
-      "num": 208100,
+      "num": 278848,
       "word": "印度男子剖妻孕肚查胎儿性别",
       "onboard_time": 1716885618,
       "rank": 20,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 965765,
-      "num": 215579,
+      "num": 275576,
       "word": "未婚在意外怀孕上要零容错",
       "onboard_time": 1716882198,
       "rank": 20,
@@ -497,6 +497,14 @@
       "onboard_time": 1716709038,
       "rank": 10,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 940501,
+      "num": 940501,
+      "word": "胡先煦喝醉",
+      "onboard_time": 1716890478,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 921325,
@@ -667,6 +675,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 816851,
+      "num": 277213,
+      "word": "久穿洞洞鞋容易引发脚气",
+      "onboard_time": 1716887477,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 816806,
       "num": 497594,
       "word": "双休和单休真是两种人生",
@@ -780,19 +796,11 @@
     },
     {
       "raw_hot": 759347,
-      "num": 215429,
+      "num": 272843,
       "word": "真的建议在外上厕所用马桶",
       "onboard_time": 1716879977,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 753598,
-      "num": 197083,
-      "word": "久穿洞洞鞋容易引发脚气",
-      "onboard_time": 1716887477,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 747163,
@@ -1113,14 +1121,6 @@
       "onboard_time": 1716884478,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 611431,
-      "num": 329292,
-      "word": "胡先煦喝醉",
-      "onboard_time": 1716890478,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 610745,
@@ -1475,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513528,
+      "num": 513528,
+      "word": "中国官方黄金储备2264吨",
+      "onboard_time": 1716888738,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 513466,
       "num": 513466,
       "word": "兰州已经开始沸腾了",
@@ -1595,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490193,
+      "num": 490193,
+      "word": "王妈大学期间拍短视频曾月入70万",
+      "onboard_time": 1716889518,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489086,
       "num": 436996,
       "word": "张雨绮说自己起床就长这样",
@@ -1617,14 +1633,6 @@
       "onboard_time": 1716790999,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 487363,
-      "num": 487363,
-      "word": "中国官方黄金储备2264吨",
-      "onboard_time": 1716888738,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 483283,
@@ -2193,14 +2201,6 @@
       "onboard_time": 1716770478,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 365491,
-      "num": 248956,
-      "word": "王妈大学期间拍短视频曾月入70万",
-      "onboard_time": 1716889518,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365313,
@@ -2804,7 +2804,7 @@
     },
     {
       "raw_hot": 285179,
-      "num": 204827,
+      "num": 246363,
       "word": "蔡文静录完浪姐只想拍戏",
       "onboard_time": 1716886699,
       "rank": 27,
@@ -2923,6 +2923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271526,
+      "num": 271526,
+      "word": "辛芷蕾去泰国只办一件事",
+      "onboard_time": 1716890719,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271169,
       "num": 150642,
       "word": "绍兴课上开黄腔教师被警告处分",
@@ -3012,7 +3020,7 @@
     },
     {
       "raw_hot": 260328,
-      "num": 195421,
+      "num": 212730,
       "word": "巴雷特出现了",
       "onboard_time": 1716888558,
       "rank": 28,
@@ -3041,6 +3049,14 @@
       "onboard_time": 1716798079,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 256630,
+      "num": 256630,
+      "word": "正午阳光一直促成与杨紫合作",
+      "onboard_time": 1716890838,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 256603,
@@ -3123,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247794,
+      "num": 247794,
+      "word": "颖儿问付辛博要卡的原因",
+      "onboard_time": 1716892038,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247316,
       "num": 247316,
       "word": "一个榴莲真能顶三个鸡吗",
@@ -3185,14 +3209,6 @@
       "onboard_time": 1716784821,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 244871,
-      "num": 195778,
-      "word": "正午阳光一直促成与杨紫合作",
-      "onboard_time": 1716890838,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 244786,
@@ -3324,7 +3340,7 @@
     },
     {
       "raw_hot": 236070,
-      "num": 236070,
+      "num": 280168,
       "word": "白天辉一审被判死刑",
       "onboard_time": 1716889097,
       "rank": 17,
@@ -3393,14 +3409,6 @@
       "onboard_time": 1716806358,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 232655,
-      "num": 195653,
-      "word": "辛芷蕾去泰国只办一件事",
-      "onboard_time": 1716890719,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 232613,
@@ -3547,6 +3555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 224612,
+      "num": 282100,
+      "word": "福宝食欲及状态良好",
+      "onboard_time": 1716891677,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224562,
       "num": 224562,
       "word": "老头杯",
@@ -3569,6 +3585,14 @@
       "onboard_time": 1716880878,
       "rank": 35,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 223650,
+      "num": 223650,
+      "word": "中共中央政治局第十四次集体学习",
+      "onboard_time": 1716890658,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 223540,
@@ -3963,6 +3987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204919,
+      "num": 204919,
+      "word": "章昊沈泉锐 奔跑吧",
+      "onboard_time": 1716890958,
+      "rank": 33,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 204389,
       "num": 204389,
       "word": "TREASURE回归",
@@ -3992,6 +4024,14 @@
       "word": "Ning谈xiye加入TES",
       "onboard_time": 1716693257,
       "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 203185,
+      "num": 203185,
+      "word": "LWX遭老头杯官方开庭",
+      "onboard_time": 1716891497,
+      "rank": 45,
       "category": "电竞"
     },
     {
@@ -4115,14 +4155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199651,
-      "num": 195022,
-      "word": "中共中央政治局第十四次集体学习",
-      "onboard_time": 1716890658,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199342,
       "num": 199342,
       "word": "陈泽 宇将军",
@@ -4225,14 +4257,6 @@
       "onboard_time": 1716857298,
       "rank": 24,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 194969,
-      "num": 194969,
-      "word": "章昊沈泉锐 奔跑吧",
-      "onboard_time": 1716890958,
-      "rank": 33,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 194715,
@@ -4841,6 +4865,14 @@
       "onboard_time": 1716697938,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173969,
+      "num": 173969,
+      "word": "文科生 词汇量很大的乞丐",
+      "onboard_time": 1716891918,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 173783,
@@ -5523,6 +5555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149494,
+      "num": 149494,
+      "word": "第一次见地铁户型的房子",
+      "onboard_time": 1716892217,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149477,
       "num": 254172,
       "word": "成都蓉城7比0青岛西海岸",
@@ -6019,6 +6059,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 134023,
+      "num": 134023,
+      "word": "乘风直播赛阵容官宣",
+      "onboard_time": 1716892398,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133931,
       "num": 133931,
       "word": "原来大家小时候都偷过爸妈的钱",
@@ -6336,6 +6384,14 @@
       "word": "为啥早餐店里的油条要两根面一起炸",
       "onboard_time": 1716708978,
       "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 126449,
+      "num": 126449,
+      "word": "丝瓜炒蛏子",
+      "onboard_time": 1716891560,
+      "rank": 47,
       "category": "美食"
     },
     {
@@ -6859,6 +6915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109483,
+      "num": 109483,
+      "word": "第五人格",
+      "onboard_time": 1716891738,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109480,
       "num": 109480,
       "word": "李小冉早期旧照",
@@ -6905,14 +6969,6 @@
       "onboard_time": 1716794057,
       "rank": 43,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 108015,
-      "num": 108015,
-      "word": "LWX遭老头杯官方开庭",
-      "onboard_time": 1716891497,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 107932,
@@ -6985,14 +7041,6 @@
       "onboard_time": 1716864738,
       "rank": 10,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 103225,
-      "num": 103225,
-      "word": "丝瓜炒蛏子",
-      "onboard_time": 1716891560,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 102875,
@@ -7200,6 +7248,14 @@
       "word": "文脉华章",
       "onboard_time": 1716796038,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92548,
+      "num": 358818,
+      "word": "河流污染恶臭相关部门坚称没问题",
+      "onboard_time": 1716890838,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -7451,6 +7507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72745,
+      "num": 283452,
+      "word": "X100Ultra开售1小时销售额5亿",
+      "onboard_time": 1716890118,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 72670,
       "num": 106615,
       "word": "苹果教育优惠新iPad打9折",
@@ -7465,6 +7529,14 @@
       "onboard_time": 1716708318,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 71416,
+      "num": 766020,
+      "word": "换一种方式打开北京的盛夏",
+      "onboard_time": 1716888677,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70303,
@@ -7515,14 +7587,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 63899,
-      "num": 697121,
-      "word": "换一种方式打开北京的盛夏",
-      "onboard_time": 1716888677,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63355,
       "num": 497504,
       "word": "爸爸带娃是对娃的一种磨练",
@@ -7537,14 +7601,6 @@
       "onboard_time": 1716725659,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62108,
-      "num": 197430,
-      "word": "X100Ultra开售1小时销售额5亿",
-      "onboard_time": 1716890118,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 61390,
@@ -7577,14 +7633,6 @@
       "onboard_time": 1716667511,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 60124,
-      "num": 358818,
-      "word": "河流污染恶臭相关部门坚称没问题",
-      "onboard_time": 1716890838,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59845,
