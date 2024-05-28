@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716917694279,
+  "endTime": 1716920718777,
   "band_list": [
     {
       "raw_hot": 1075003,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56745,
+      "num": 32438,
+      "word": "关于我和鬼成为朋友这件事",
+      "onboard_time": 1716919152,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48368,
       "num": 69788,
       "word": "第一次见地铁户型的房子",
@@ -411,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29157,
+      "num": 32435,
+      "word": "外交部批美方在台湾问题上错上加错",
+      "onboard_time": 1716918612,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28011,
       "num": 152925,
       "word": "幼儿园摆27桌坝坝宴请270萌娃",
@@ -425,6 +441,22 @@
       "onboard_time": 1716915135,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24802,
+      "num": 30931,
+      "word": "徐冬冬尹子维已经可以坦然聊分过手了",
+      "onboard_time": 1716893118,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19782,
+      "num": 30869,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1716920292,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
