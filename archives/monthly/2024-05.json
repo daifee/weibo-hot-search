@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716928486913,
+  "endTime": 1716931119573,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -74995,6 +74995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53628,
+      "num": 53628,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53572,
       "num": 142355,
       "word": "信一好帅",
@@ -75652,7 +75660,7 @@
     },
     {
       "raw_hot": 46377,
-      "num": 31376,
+      "num": 33598,
       "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
       "onboard_time": 1716923711,
       "rank": 49,
@@ -76089,6 +76097,14 @@
       "onboard_time": 1715858537,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 42021,
+      "num": 33392,
+      "word": "大皇子用脸骂人",
+      "onboard_time": 1716928991,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 41924,
@@ -76595,14 +76611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36142,
-      "num": 36142,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 36124,
       "num": 325970,
       "word": "龚俊想在戛纳开串串店",
@@ -76769,6 +76777,14 @@
       "onboard_time": 1715624592,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 33322,
+      "num": 33322,
+      "word": "黄金价格还会继续上涨吗",
+      "onboard_time": 1716928211,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 33266,
@@ -78091,6 +78107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 16216,
+      "num": 16216,
+      "word": "这孩子将来得是国际锯星",
+      "onboard_time": 1716925690,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16115,
       "num": 277599,
       "word": "爱在EX30小满大满足",
@@ -78235,14 +78259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14384,
-      "num": 14956,
-      "word": "这孩子将来得是国际锯星",
-      "onboard_time": 1716925690,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 14087,
       "num": 17311,
       "word": "轿车爆胎翻车16辆过路车紧急救援",
@@ -78257,6 +78273,14 @@
       "onboard_time": 1715694079,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13992,
+      "num": 14935,
+      "word": "报春花科新物种被发现",
+      "onboard_time": 1716926110,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 13919,
@@ -78321,14 +78345,6 @@
       "onboard_time": 1716751812,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 13258,
-      "num": 14935,
-      "word": "报春花科新物种被发现",
-      "onboard_time": 1716926110,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 13166,
@@ -78401,14 +78417,6 @@
       "onboard_time": 1716841570,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 12528,
-      "num": 14918,
-      "word": "黄金价格还会继续上涨吗",
-      "onboard_time": 1716928211,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 12494,

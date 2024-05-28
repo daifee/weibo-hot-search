@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716928486913,
+  "endTime": 1716931119573,
   "band_list": [
     {
       "raw_hot": 1075003,
@@ -387,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53628,
+      "num": 53628,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48368,
       "num": 69788,
       "word": "第一次见地铁户型的房子",
@@ -404,19 +412,27 @@
     },
     {
       "raw_hot": 46377,
-      "num": 31376,
+      "num": 33598,
       "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
       "onboard_time": 1716923711,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36142,
-      "num": 36142,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 42021,
+      "num": 33392,
+      "word": "大皇子用脸骂人",
+      "onboard_time": 1716928991,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33322,
+      "num": 33322,
+      "word": "黄金价格还会继续上涨吗",
+      "onboard_time": 1716928211,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 30960,
@@ -483,28 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14384,
-      "num": 14956,
+      "raw_hot": 16216,
+      "num": 16216,
       "word": "这孩子将来得是国际锯星",
       "onboard_time": 1716925690,
       "rank": 38,
       "category": "幽默"
     },
     {
-      "raw_hot": 13258,
+      "raw_hot": 13992,
       "num": 14935,
       "word": "报春花科新物种被发现",
       "onboard_time": 1716926110,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 12528,
-      "num": 14918,
-      "word": "黄金价格还会继续上涨吗",
-      "onboard_time": 1716928211,
-      "rank": 43,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
