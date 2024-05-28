@@ -1,0 +1,410 @@
+{
+  "runTime": 1716939264700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 870572,
+        "num": 870572,
+        "word": "以色列",
+        "onboard_time": 1716913156,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 751721,
+        "num": 751721,
+        "word": "前员工称王妈塌房是意料之中",
+        "onboard_time": 1716906140,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47976,
+        "num": 525216,
+        "word": "浩瀚太空再一次留下中国足迹",
+        "onboard_time": 1716897798,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 479468,
+        "num": 479468,
+        "word": "撞脸情侣亲缘鉴定结果出来了",
+        "onboard_time": 1716909198,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426543,
+        "num": 426543,
+        "word": "多家银行开启沉睡账户唤醒",
+        "onboard_time": 1716903619,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 394731,
+        "num": 394731,
+        "word": "爱豆下岗再就业之恋综女嘉宾",
+        "onboard_time": 1716926470,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394187,
+        "num": 394187,
+        "word": "满屏都是唐艺昕",
+        "onboard_time": 1716900318,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380486,
+        "num": 380486,
+        "word": "老师替你尝了树上樱桃不好吃",
+        "onboard_time": 1716907699,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363477,
+        "num": 363477,
+        "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+        "onboard_time": 1716923711,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51375,
+        "num": 325269,
+        "word": "七仔开始有爷叔气质了",
+        "onboard_time": 1716938235,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 497603,
+        "num": 322648,
+        "word": "第一批丁克开始操心养老",
+        "onboard_time": 1716903197,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315170,
+        "num": 315170,
+        "word": "李云睿李承泽 抽象对话",
+        "onboard_time": 1716909860,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296520,
+        "num": 296520,
+        "word": "官方回应福宝颈部断毛",
+        "onboard_time": 1716906200,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282779,
+        "num": 282779,
+        "word": "以色列拟认定联合国机构为恐怖组织",
+        "onboard_time": 1716907820,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 209394,
+        "num": 209394,
+        "word": "李沁的头冠是3D打印的",
+        "onboard_time": 1716899537,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194291,
+        "num": 194291,
+        "word": "上海离婚预约爆满与楼市新政无关",
+        "onboard_time": 1716889758,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171415,
+        "num": 171415,
+        "word": "关于我和鬼成为朋友这件事",
+        "onboard_time": 1716919152,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145237,
+        "num": 145237,
+        "word": "官员称还有2个月退休不该过多去问",
+        "onboard_time": 1716896358,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123471,
+        "num": 123471,
+        "word": "阿沁为詹雯婷陈建宁官司作证",
+        "onboard_time": 1716905060,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117452,
+        "num": 117452,
+        "word": "比亚迪",
+        "onboard_time": 1716900859,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174927,
+        "num": 117440,
+        "word": "印度男子剖妻孕肚查胎儿性别",
+        "onboard_time": 1716885618,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117424,
+        "num": 117424,
+        "word": "陈晓光头走红毯",
+        "onboard_time": 1716898096,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114560,
+        "num": 114560,
+        "word": "英伟达市值一夜暴增1.35万亿",
+        "onboard_time": 1716938715,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112148,
+        "num": 112148,
+        "word": "背着善宰跑大结局",
+        "onboard_time": 1716904758,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110585,
+        "num": 110585,
+        "word": "歌手 双补位",
+        "onboard_time": 1716872118,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110358,
+        "num": 110358,
+        "word": "李沁是唐艺昕的伴娘",
+        "onboard_time": 1716908659,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95917,
+        "num": 95917,
+        "word": "孙楠抵达长沙",
+        "onboard_time": 1716939015,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99530,
+        "num": 95740,
+        "word": "范闲大婚原著片段",
+        "onboard_time": 1716938536,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95548,
+        "num": 95548,
+        "word": "人在猝死前会有什么预兆",
+        "onboard_time": 1716902658,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64950,
+        "num": 92465,
+        "word": "福宝啥时候上下班全看自己的心情",
+        "onboard_time": 1716908118,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92089,
+        "num": 92089,
+        "word": "丈夫婆婆用被单给怀孕妻子荡秋千",
+        "onboard_time": 1716894497,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81137,
+        "num": 81137,
+        "word": "未婚在意外怀孕上要零容错",
+        "onboard_time": 1716882198,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 76056,
+        "num": 76056,
+        "word": "张若昀两黑粉被强执5万",
+        "onboard_time": 1716933973,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75675,
+        "num": 75675,
+        "word": "张馨予红发造型",
+        "onboard_time": 1716934632,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73651,
+        "num": 73651,
+        "word": "第一次见地铁户型的房子",
+        "onboard_time": 1716892217,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73650,
+        "num": 73650,
+        "word": "马克龙力推欧洲集体防御",
+        "onboard_time": 1716938655,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 72545,
+        "num": 72545,
+        "word": "iPhone16Pro显示屏边框或变窄",
+        "onboard_time": 1716904039,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65442,
+        "num": 65442,
+        "word": "鹿晗小英打牛",
+        "onboard_time": 1716906439,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63019,
+        "num": 63019,
+        "word": "Letme看姿态被打哭",
+        "onboard_time": 1716939015,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60920,
+        "num": 60920,
+        "word": "我的麦子熟了 我也该醒了",
+        "onboard_time": 1716920292,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60027,
+        "num": 60027,
+        "word": "江苏下调最低房贷首付比例",
+        "onboard_time": 1716938956,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59553,
+        "num": 59553,
+        "word": "胡先煦惹了秦岚等于没惹",
+        "onboard_time": 1716912557,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54467,
+        "num": 54467,
+        "word": "招商银行从普华永道改聘安永",
+        "onboard_time": 1716939075,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 52465,
+        "num": 52465,
+        "word": "黄金价格还会继续上涨吗",
+        "onboard_time": 1716928211,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 52242,
+        "num": 52242,
+        "word": "一旦被人好好爱过这辈子就定型了",
+        "onboard_time": 1716939015,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50817,
+        "num": 50817,
+        "word": "newjeans新MV引争议",
+        "onboard_time": 1716905901,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49168,
+        "num": 49168,
+        "word": "歌手第四期歌单",
+        "onboard_time": 1716881177,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48989,
+        "num": 48989,
+        "word": "IVE 划水",
+        "onboard_time": 1716900017,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48642,
+        "num": 48642,
+        "word": "徐冬冬尹子维已经可以坦然聊分过手了",
+        "onboard_time": 1716893118,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45923,
+        "num": 45923,
+        "word": "福宝",
+        "onboard_time": 1716907939,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同赤道几内亚总统会谈#"
+    }
+  }
+}

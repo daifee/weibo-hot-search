@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716938416315,
+  "endTime": 1716939264700,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -651,8 +651,16 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 870572,
+      "num": 870572,
+      "word": "以色列",
+      "onboard_time": 1716913156,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 869440,
-      "num": 747053,
+      "num": 751721,
       "word": "前员工称王妈塌房是意料之中",
       "onboard_time": 1716906140,
       "rank": 14,
@@ -729,14 +737,6 @@
       "onboard_time": 1716701000,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 830432,
-      "num": 830432,
-      "word": "以色列",
-      "onboard_time": 1716913156,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 819818,
@@ -2123,6 +2123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 426543,
+      "num": 426543,
+      "word": "多家银行开启沉睡账户唤醒",
+      "onboard_time": 1716903619,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 426497,
       "num": 426497,
       "word": "俄军队已控制乌约18%的土地",
@@ -2307,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394731,
+      "num": 394731,
+      "word": "爱豆下岗再就业之恋综女嘉宾",
+      "onboard_time": 1716926470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394310,
       "num": 394310,
       "word": "央视曝光网课骗局套路",
@@ -2379,6 +2395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 380486,
+      "num": 406752,
+      "word": "老师替你尝了树上樱桃不好吃",
+      "onboard_time": 1716907699,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377465,
       "num": 357606,
       "word": "上海大学生花29天坐公交到新加坡",
@@ -2417,14 +2441,6 @@
       "onboard_time": 1716706037,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 376005,
-      "num": 376005,
-      "word": "多家银行开启沉睡账户唤醒",
-      "onboard_time": 1716903619,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 374106,
@@ -2497,6 +2513,14 @@
       "onboard_time": 1716700399,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 363477,
+      "num": 363477,
+      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
+      "onboard_time": 1716923711,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362193,
@@ -2651,14 +2675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343135,
-      "num": 343135,
-      "word": "爱豆下岗再就业之恋综女嘉宾",
-      "onboard_time": 1716926470,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341683,
       "num": 341683,
       "word": "梦之队票数",
@@ -2740,7 +2756,7 @@
     },
     {
       "raw_hot": 334589,
-      "num": 314453,
+      "num": 315170,
       "word": "李云睿李承泽 抽象对话",
       "onboard_time": 1716909860,
       "rank": 30,
@@ -2809,14 +2825,6 @@
       "onboard_time": 1716716179,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 323480,
-      "num": 323480,
-      "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
-      "onboard_time": 1716923711,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322473,
@@ -3145,14 +3153,6 @@
       "onboard_time": 1716774438,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286685,
-      "num": 406752,
-      "word": "老师替你尝了树上樱桃不好吃",
-      "onboard_time": 1716907699,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285661,
@@ -5499,6 +5499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171415,
+      "num": 171415,
+      "word": "关于我和鬼成为朋友这件事",
+      "onboard_time": 1716919152,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171066,
       "num": 171066,
       "word": "井柏然碎了",
@@ -6441,14 +6449,6 @@
       "onboard_time": 1716701898,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140559,
-      "num": 140559,
-      "word": "关于我和鬼成为朋友这件事",
-      "onboard_time": 1716919152,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 140526,
@@ -7523,6 +7523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114560,
+      "num": 114560,
+      "word": "英伟达市值一夜暴增1.35万亿",
+      "onboard_time": 1716938715,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114326,
       "num": 82905,
       "word": "佟丽娅戛纳很好下次再去",
@@ -7891,6 +7899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99530,
+      "num": 95740,
+      "word": "范闲大婚原著片段",
+      "onboard_time": 1716938536,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99213,
       "num": 414205,
       "word": "咳嗽一直不见好怎么办",
@@ -7961,6 +7977,14 @@
       "onboard_time": 1716712878,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95917,
+      "num": 95917,
+      "word": "孙楠抵达长沙",
+      "onboard_time": 1716939015,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 95792,
@@ -8251,6 +8275,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 76056,
+      "num": 76056,
+      "word": "张若昀两黑粉被强执5万",
+      "onboard_time": 1716933973,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75675,
+      "num": 75675,
+      "word": "张馨予红发造型",
+      "onboard_time": 1716934632,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75410,
       "num": 145705,
       "word": "比亚迪研发累计投入1400亿",
@@ -8281,6 +8321,14 @@
       "onboard_time": 1716807498,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73650,
+      "num": 73650,
+      "word": "马克龙力推欧洲集体防御",
+      "onboard_time": 1716938655,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 73152,
@@ -8371,14 +8419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68394,
-      "num": 68394,
-      "word": "张馨予红发造型",
-      "onboard_time": 1716934632,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 67446,
       "num": 1223507,
       "word": "2024年数据生产量增长或超25%",
@@ -8427,6 +8467,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 63019,
+      "num": 63019,
+      "word": "Letme看姿态被打哭",
+      "onboard_time": 1716939015,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 62523,
       "num": 541133,
       "word": "猴哥听曲意外混到了编制",
@@ -8443,20 +8491,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60920,
+      "num": 60920,
+      "word": "我的麦子熟了 我也该醒了",
+      "onboard_time": 1716920292,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60735,
       "num": 184272,
       "word": "章小蕙直播间进去就出不来了",
       "onboard_time": 1716721999,
       "rank": 43,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 60591,
-      "num": 60591,
-      "word": "张若昀两黑粉被强执5万",
-      "onboard_time": 1716933973,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 60323,
@@ -8473,6 +8521,14 @@
       "onboard_time": 1716667511,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 60027,
+      "num": 60027,
+      "word": "江苏下调最低房贷首付比例",
+      "onboard_time": 1716938956,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59845,
@@ -8547,6 +8603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54467,
+      "num": 54467,
+      "word": "招商银行从普华永道改聘安永",
+      "onboard_time": 1716939075,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 54322,
       "num": 389603,
       "word": "河南情侣举行麦田婚礼收获限定浪漫",
@@ -8595,6 +8659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52242,
+      "num": 52242,
+      "word": "一旦被人好好爱过这辈子就定型了",
+      "onboard_time": 1716939015,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 51872,
       "num": 679187,
       "word": "成都满城尽带绝绝紫",
@@ -8617,6 +8689,14 @@
       "onboard_time": 1716672731,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 51375,
+      "num": 325269,
+      "word": "七仔开始有爷叔气质了",
+      "onboard_time": 1716938235,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 51257,
@@ -8673,14 +8753,6 @@
       "onboard_time": 1716830114,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 49749,
-      "num": 60432,
-      "word": "我的麦子熟了 我也该醒了",
-      "onboard_time": 1716920292,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 49310,
@@ -8777,14 +8849,6 @@
       "onboard_time": 1716643640,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40573,
-      "num": 78760,
-      "word": "七仔开始有爷叔气质了",
-      "onboard_time": 1716938235,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 40365,
