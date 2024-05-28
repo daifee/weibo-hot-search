@@ -1,6 +1,6 @@
 {
   "startTime": 1716826963583,
-  "endTime": 1716874456303,
+  "endTime": 1716877542597,
   "band_list": [
     {
       "raw_hot": 2118521,
@@ -51,20 +51,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1365888,
+      "num": 1365888,
+      "word": "情侣长得太像听网友劝去做亲缘鉴定",
+      "onboard_time": 1716872359,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1186478,
       "num": 1186478,
       "word": "朝鲜",
       "onboard_time": 1716819439,
       "rank": 0,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1160230,
-      "num": 1160230,
-      "word": "情侣长得太像听网友劝去做亲缘鉴定",
-      "onboard_time": 1716872359,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1074495,
@@ -155,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 749271,
+      "num": 749271,
+      "word": "魏明伦去世",
+      "onboard_time": 1716874697,
+      "rank": 4,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 746733,
       "num": 746733,
       "word": "准妈妈因孕期胃口大变崩溃痛哭",
@@ -177,6 +185,14 @@
       "onboard_time": 1716870680,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 643035,
+      "num": 643035,
+      "word": "经常熬夜的人身体会发臭",
+      "onboard_time": 1716875298,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 635381,
@@ -217,6 +233,14 @@
       "onboard_time": 1716871880,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 555502,
+      "num": 403283,
+      "word": "长公主有种死了老公的美",
+      "onboard_time": 1716876379,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 552116,
@@ -307,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 411098,
+      "num": 411098,
+      "word": "iPad或改变logo方向",
+      "onboard_time": 1716873018,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 410831,
       "num": 410831,
       "word": "巴以冲突",
@@ -321,6 +353,14 @@
       "onboard_time": 1716868820,
       "rank": 9,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 400108,
+      "num": 400108,
+      "word": "狗狗挖出了一只小猫咪",
+      "onboard_time": 1716871880,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 399865,
@@ -363,8 +403,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 327967,
-      "num": 233187,
+      "raw_hot": 330679,
+      "num": 330679,
       "word": "克拉岛官宣",
       "onboard_time": 1716873858,
       "rank": 21,
@@ -467,14 +507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 275147,
-      "num": 275147,
-      "word": "iPad或改变logo方向",
-      "onboard_time": 1716873018,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 275109,
       "num": 275109,
       "word": "凯尔特人晋级总决赛",
@@ -547,6 +579,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 263710,
+      "num": 263710,
+      "word": "武大靖回应学历质疑",
+      "onboard_time": 1716874579,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263606,
       "num": 263606,
       "word": "警方通报男子出售女童写真牟利",
@@ -587,6 +627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243788,
+      "num": 243788,
+      "word": "北京市民投诉小米汽车城市路测",
+      "onboard_time": 1716874220,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 243539,
       "num": 243539,
       "word": "国产大飞机C919商运一周年",
@@ -603,19 +651,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238703,
+      "num": 238703,
+      "word": "范思辙悄悄长大惊艳所有人",
+      "onboard_time": 1716876078,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233852,
       "num": 213244,
       "word": "把男朋友车磕了如何补偿",
       "onboard_time": 1716856158,
       "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 231205,
-      "num": 231205,
-      "word": "狗狗挖出了一只小猫咪",
-      "onboard_time": 1716871880,
-      "rank": 32,
       "category": "情感"
     },
     {
@@ -771,11 +819,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188145,
+      "num": 188145,
+      "word": "JackeyLove和Uzi双向奔赴",
+      "onboard_time": 1716875959,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187587,
       "num": 187587,
       "word": "白玉兰提名 还不出",
       "onboard_time": 1716865279,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187483,
+      "num": 187483,
+      "word": "庆帝赐婚比月老牵线还靠谱",
+      "onboard_time": 1716877038,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -787,20 +851,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 184519,
-      "num": 184519,
-      "word": "北京市民投诉小米汽车城市路测",
-      "onboard_time": 1716874220,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 184332,
       "num": 184332,
       "word": "建议i人都去尝试十点睡五点起",
       "onboard_time": 1716819740,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183442,
+      "num": 183442,
+      "word": "章子怡说十年前的自己好青涩",
+      "onboard_time": 1716875658,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 181082,
@@ -1075,6 +1139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138609,
+      "num": 138609,
+      "word": "原来配眼镜和脸型有关系",
+      "onboard_time": 1716876678,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 136319,
+      "num": 136319,
+      "word": "13部电影定档端午档",
+      "onboard_time": 1716875419,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136282,
       "num": 136282,
       "word": "2024毕业季",
@@ -1152,6 +1232,14 @@
       "word": "许嵩演唱会",
       "onboard_time": 1716868758,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 122558,
+      "num": 122558,
+      "word": "张杰未live开往1982巡回演唱会",
+      "onboard_time": 1716876559,
+      "rank": 39,
       "category": "演出"
     },
     {
@@ -1243,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113720,
+      "num": 113720,
+      "word": "广东人真的要发霉了",
+      "onboard_time": 1716875718,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112394,
       "num": 112394,
       "word": "口红对妆容的影响有多大",
@@ -1299,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100334,
+      "num": 100334,
+      "word": "王妈粉丝数不降反升",
+      "onboard_time": 1716875658,
+      "rank": 47,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 100314,
       "num": 100314,
       "word": "台湾学生坚定表示台湾是中国的",
@@ -1329,6 +1433,14 @@
       "onboard_time": 1716864258,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93247,
+      "num": 93247,
+      "word": "许玮甯回应杨丞琳被歌手淘汰",
+      "onboard_time": 1716877518,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 92886,
@@ -1601,6 +1713,14 @@
       "onboard_time": 1716830114,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46148,
+      "num": 404683,
+      "word": "以互助献血名义交易是违法行为",
+      "onboard_time": 1716876018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40046,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/05/01 00:23:04 ~ 2024/05/28 13:34:16
+本榜单时间：2024/05/01 00:23:04 ~ 2024/05/28 14:25:42
 </p>
 </blockquote>
 <p>
@@ -2427,6 +2427,12 @@ HPV疫苗价格大跳水（热度：1456307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E9%95%BF%E5%BE%97%E5%A4%AA%E5%83%8F%E5%90%AC%E7%BD%91%E5%8F%8B%E5%8A%9D%E5%8E%BB%E5%81%9A%E4%BA%B2%E7%BC%98%E9%89%B4%E5%AE%9A%23" target="weibo">
+情侣长得太像听网友劝去做亲缘鉴定（热度：1365888）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B6%82%E7%A3%8A%E7%A7%81%E7%94%9F%E6%B4%BB%E6%B7%B7%E4%B9%B1%E7%BD%91%E5%8F%8B%E9%81%93%E6%AD%89%23" target="weibo">
 曝涂磊私生活混乱网友道歉（热度：1365569）
 </a>
@@ -3401,12 +3407,6 @@ B站取消播放时长指标外显改版（热度：1222790）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AD%90%E5%88%AB%E7%B4%A7%E5%BC%A0%23" target="weibo">
 英子别紧张（热度：1160947）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E9%95%BF%E5%BE%97%E5%A4%AA%E5%83%8F%E5%90%AC%E7%BD%91%E5%8F%8B%E5%8A%9D%E5%8E%BB%E5%81%9A%E4%BA%B2%E7%BC%98%E9%89%B4%E5%AE%9A%23" target="weibo">
-情侣长得太像听网友劝去做亲缘鉴定（热度：1160230）
 </a>
 </li>
 
