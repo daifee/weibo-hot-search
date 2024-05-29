@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716971103735,
+  "endTime": 1716971843528,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1028196,
+      "num": 1028196,
+      "word": "洪啸确认孙楠补位",
+      "onboard_time": 1716969739,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1024150,
       "num": 1024150,
       "word": "网红刀小刀自曝重度抑郁",
@@ -851,14 +859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 834169,
-      "num": 834169,
-      "word": "洪啸确认孙楠补位",
-      "onboard_time": 1716969739,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 833811,
       "num": 227472,
       "word": "室友养了一只98年出生的猫",
@@ -1075,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 744818,
+      "num": 403290,
+      "word": "孙楠 不用送炭争取添花",
+      "onboard_time": 1716970398,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 742505,
       "num": 715311,
       "word": "亚当翻牌",
@@ -1171,6 +1179,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 719579,
+      "num": 503650,
+      "word": "王启年其实是叶轻眉给范闲的高铁",
+      "onboard_time": 1716968358,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 718862,
+      "num": 245570,
+      "word": "男子捅死妻子出轨对象被判15年",
+      "onboard_time": 1716969497,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 718113,
       "num": 718113,
       "word": "前华为高颜值HR入职京东做主播",
@@ -1240,14 +1264,6 @@
       "word": "长公主二皇子顶疯相见",
       "onboard_time": 1716901818,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 674399,
-      "num": 503650,
-      "word": "王启年其实是叶轻眉给范闲的高铁",
-      "onboard_time": 1716968358,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -2051,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503766,
+      "num": 331497,
+      "word": "墨雨云间把蒋依依换成赵晴了",
+      "onboard_time": 1716968658,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500997,
       "num": 500997,
       "word": "华为悬红200万全球求解难题",
@@ -2331,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459600,
-      "num": 222038,
-      "word": "男子捅死妻子出轨对象被判15年",
-      "onboard_time": 1716969497,
-      "rank": 20,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 458645,
       "num": 458645,
       "word": "京东集团再次给采销大幅加薪",
@@ -2369,14 +2385,6 @@
       "onboard_time": 1716689539,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456793,
-      "num": 331497,
-      "word": "墨雨云间把蒋依依换成赵晴了",
-      "onboard_time": 1716968658,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 455032,
@@ -2433,6 +2441,14 @@
       "onboard_time": 1716768797,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 445801,
+      "num": 289023,
+      "word": "王妈塌房后小号还在发广告",
+      "onboard_time": 1716969318,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 444747,
@@ -2641,14 +2657,6 @@
       "onboard_time": 1716727159,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411417,
-      "num": 221525,
-      "word": "王妈塌房后小号还在发广告",
-      "onboard_time": 1716969318,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 410831,
@@ -3025,14 +3033,6 @@
       "onboard_time": 1716923711,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362442,
-      "num": 220900,
-      "word": "孙楠 不用送炭争取添花",
-      "onboard_time": 1716970398,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 362193,
@@ -3763,6 +3763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 283951,
+      "num": 283951,
+      "word": "Hero回应无畏试训",
+      "onboard_time": 1716971538,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 281604,
       "num": 281604,
       "word": "巴新山体滑坡估算超670人死亡",
@@ -3835,6 +3843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275323,
+      "num": 226018,
+      "word": "请张予曦把眼镜焊在脸上",
+      "onboard_time": 1716970758,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275109,
       "num": 275109,
       "word": "凯尔特人晋级总决赛",
@@ -3905,6 +3921,14 @@
       "onboard_time": 1716868758,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 268795,
+      "num": 268795,
+      "word": "久哲回归Hero",
+      "onboard_time": 1716970578,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 266623,
@@ -4057,6 +4081,14 @@
       "onboard_time": 1716958159,
       "rank": 22,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 258387,
+      "num": 217779,
+      "word": "风吹半夏发了赵丽颖",
+      "onboard_time": 1716971178,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 258242,
@@ -4707,14 +4739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 222524,
-      "num": 222524,
-      "word": "久哲回归Hero",
-      "onboard_time": 1716970578,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 222446,
       "num": 222446,
       "word": "赵露思冰蓝倩影",
@@ -4833,14 +4857,6 @@
       "onboard_time": 1716780199,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 216654,
-      "num": 216654,
-      "word": "请张予曦把眼镜焊在脸上",
-      "onboard_time": 1716970758,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 216604,
@@ -5033,6 +5049,14 @@
       "onboard_time": 1716724698,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209353,
+      "num": 209353,
+      "word": "李小冉 老天爷喂饭吃",
+      "onboard_time": 1716969739,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 209234,
@@ -5675,14 +5699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 192251,
-      "num": 181737,
-      "word": "李小冉 老天爷喂饭吃",
-      "onboard_time": 1716969739,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192218,
       "num": 159255,
       "word": "这种长寿菜现在吃正好",
@@ -6300,7 +6316,7 @@
     },
     {
       "raw_hot": 175203,
-      "num": 175203,
+      "num": 298263,
       "word": "致敬中国蓝盔",
       "onboard_time": 1716951077,
       "rank": 34,
@@ -6443,6 +6459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171210,
+      "num": 171210,
+      "word": "孙楠路人缘",
+      "onboard_time": 1716970578,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171066,
       "num": 171066,
       "word": "井柏然碎了",
@@ -6497,14 +6521,6 @@
       "onboard_time": 1716687798,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169464,
-      "num": 157256,
-      "word": "孙楠路人缘",
-      "onboard_time": 1716970578,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 169366,
@@ -6660,7 +6676,7 @@
     },
     {
       "raw_hot": 165392,
-      "num": 148478,
+      "num": 151920,
       "word": "蔡国庆说跑男选张真源对了",
       "onboard_time": 1716968597,
       "rank": 40,
@@ -6865,6 +6881,14 @@
       "onboard_time": 1716774978,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159812,
+      "num": 159812,
+      "word": "他们真的存不下钱",
+      "onboard_time": 1716967817,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 159673,
@@ -7387,6 +7411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144809,
+      "num": 144809,
+      "word": "少年白马醉春风江湖有约",
+      "onboard_time": 1716971598,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144807,
       "num": 277079,
       "word": "怎么帮孩子选择更合适的鲜奶",
@@ -7811,6 +7843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135647,
+      "num": 151934,
+      "word": "终于知道桀桀桀是怎么笑了",
+      "onboard_time": 1716971358,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135586,
       "num": 135586,
       "word": "爱德华兹隔扣加福德",
@@ -7881,14 +7921,6 @@
       "onboard_time": 1716902779,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134521,
-      "num": 155750,
-      "word": "他们真的存不下钱",
-      "onboard_time": 1716967817,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 134399,
@@ -8057,6 +8089,14 @@
       "onboard_time": 1716787699,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131895,
+      "num": 151923,
+      "word": "叶修军装",
+      "onboard_time": 1716969917,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 131829,
@@ -8691,14 +8731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118687,
-      "num": 118687,
-      "word": "叶修军装",
-      "onboard_time": 1716969917,
-      "rank": 46,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 118683,
       "num": 118683,
       "word": "印度游乐场火灾27死",
@@ -8993,6 +9025,14 @@
       "onboard_time": 1716684917,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111134,
+      "num": 111134,
+      "word": "机器人60秒完成1杯拉花咖啡",
+      "onboard_time": 1716971538,
+      "rank": 48,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 111110,

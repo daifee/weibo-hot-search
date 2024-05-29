@@ -1,0 +1,410 @@
+{
+  "runTime": 1716971843528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1028196,
+        "num": 1028196,
+        "word": "洪啸确认孙楠补位",
+        "onboard_time": 1716969739,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506217,
+        "num": 506217,
+        "word": "钟薛高创始人卖红薯被指红薯刺客",
+        "onboard_time": 1716962539,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33858,
+        "num": 461090,
+        "word": "麦田丰收宛如金色的海洋",
+        "onboard_time": 1716967577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006716,
+        "num": 457528,
+        "word": "唐艺昕用纹身给张若昀安全感",
+        "onboard_time": 1716961938,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448043,
+        "num": 448043,
+        "word": "面对漂亮的老婆是这样的",
+        "onboard_time": 1716963498,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428372,
+        "num": 428372,
+        "word": "警方通报花臂男辱骂车主滚出南京",
+        "onboard_time": 1716968237,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744818,
+        "num": 403290,
+        "word": "孙楠 不用送炭争取添花",
+        "onboard_time": 1716970398,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719579,
+        "num": 380121,
+        "word": "王启年其实是叶轻眉给范闲的高铁",
+        "onboard_time": 1716968358,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299506,
+        "num": 299506,
+        "word": "女孩把生病吃过的胶囊做成永生花",
+        "onboard_time": 1716957800,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50251,
+        "num": 298263,
+        "word": "致敬中国蓝盔",
+        "onboard_time": 1716951077,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683340,
+        "num": 295375,
+        "word": "王妈网店出售不正之风短袖",
+        "onboard_time": 1716960798,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 503766,
+        "num": 294026,
+        "word": "墨雨云间把蒋依依换成赵晴了",
+        "onboard_time": 1716968658,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497673,
+        "num": 290072,
+        "word": "白玉兰 男主",
+        "onboard_time": 1716966557,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445801,
+        "num": 289023,
+        "word": "王妈塌房后小号还在发广告",
+        "onboard_time": 1716969318,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2665,
+        "num": 284649,
+        "word": "容易拉肚子可能肠道有炎症",
+        "onboard_time": 1716969619,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283951,
+        "num": 283951,
+        "word": "Hero回应无畏试训",
+        "onboard_time": 1716971538,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 283527,
+        "num": 283527,
+        "word": "天津一工业园被曝100多座楼烂尾",
+        "onboard_time": 1716964517,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280730,
+        "num": 280730,
+        "word": "Faker新皮肤疑似定价500美元",
+        "onboard_time": 1716961277,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 268795,
+        "num": 268795,
+        "word": "久哲回归Hero",
+        "onboard_time": 1716970578,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 246721,
+        "num": 246721,
+        "word": "小林制药已致5死280余人住院",
+        "onboard_time": 1716946577,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718862,
+        "num": 245570,
+        "word": "男子捅死妻子出轨对象被判15年",
+        "onboard_time": 1716969497,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 382400,
+        "num": 239677,
+        "word": "王力宏档期",
+        "onboard_time": 1716966676,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366138,
+        "num": 234604,
+        "word": "歌手 搁浅",
+        "onboard_time": 1716957020,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316606,
+        "num": 228580,
+        "word": "张若昀父母均没有出席儿子婚礼",
+        "onboard_time": 1716954318,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275323,
+        "num": 226018,
+        "word": "请张予曦把眼镜焊在脸上",
+        "onboard_time": 1716970758,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258387,
+        "num": 217779,
+        "word": "风吹半夏发了赵丽颖",
+        "onboard_time": 1716971178,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217255,
+        "num": 217255,
+        "word": "杨幂喊妈妈",
+        "onboard_time": 1716966557,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209353,
+        "num": 209353,
+        "word": "李小冉 老天爷喂饭吃",
+        "onboard_time": 1716969739,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174861,
+        "num": 174861,
+        "word": "LOL名人堂入选标准公布",
+        "onboard_time": 1716967877,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164189,
+        "num": 174137,
+        "word": "六年级儿子的初恋计划",
+        "onboard_time": 1716969917,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191892,
+        "num": 174007,
+        "word": "李嘉琦彩妆已经nextlevel",
+        "onboard_time": 1716969739,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173864,
+        "num": 173864,
+        "word": "范闲身世曝光",
+        "onboard_time": 1716962898,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171210,
+        "num": 171210,
+        "word": "孙楠路人缘",
+        "onboard_time": 1716970578,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159812,
+        "num": 159812,
+        "word": "他们真的存不下钱",
+        "onboard_time": 1716967817,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155164,
+        "num": 155164,
+        "word": "巴勒斯坦",
+        "onboard_time": 1716964037,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 166241,
+        "num": 154831,
+        "word": "英雄志预告",
+        "onboard_time": 1716968418,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162530,
+        "num": 153958,
+        "word": "大爷剥橘子给B太试吃前在抠脚",
+        "onboard_time": 1716967398,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152017,
+        "num": 152017,
+        "word": "29岁小伙痔疮就诊查出肠癌",
+        "onboard_time": 1716953598,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135647,
+        "num": 151934,
+        "word": "终于知道桀桀桀是怎么笑了",
+        "onboard_time": 1716971358,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131895,
+        "num": 151923,
+        "word": "叶修军装",
+        "onboard_time": 1716969917,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 151920,
+        "num": 151920,
+        "word": "蔡国庆说跑男选张真源对了",
+        "onboard_time": 1716968597,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144809,
+        "num": 144809,
+        "word": "少年白马醉春风江湖有约",
+        "onboard_time": 1716971598,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139623,
+        "num": 139623,
+        "word": "歌手第四期两首周杰伦的歌",
+        "onboard_time": 1716956299,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130095,
+        "num": 130095,
+        "word": "花少节目组",
+        "onboard_time": 1716962958,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125844,
+        "num": 125844,
+        "word": "李小冉 基因",
+        "onboard_time": 1716951616,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122183,
+        "num": 122183,
+        "word": "无穷小亮 厄瓜多尔冠蜥暴起",
+        "onboard_time": 1716966619,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 118186,
+        "num": 118186,
+        "word": "10岁女生玩手游被恐吓骗走1万多元",
+        "onboard_time": 1716968537,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116073,
+        "num": 116073,
+        "word": "国台办回应台湾艺人转央视新闻海报",
+        "onboard_time": 1716951978,
+        "rank": 47,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 111134,
+        "num": 111134,
+        "word": "机器人60秒完成1杯拉花咖啡",
+        "onboard_time": 1716971538,
+        "rank": 48,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 110932,
+        "num": 110932,
+        "word": "人民日报评王妈背刺打工人",
+        "onboard_time": 1716944658,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国同赤道几内亚是肝胆相照的好朋友#"
+    }
+  }
+}
