@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717007058554,
+  "endTime": 1717007808757,
   "band_list": [
     {
       "raw_hot": 863663,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39316,
+      "num": 39316,
+      "word": "华春莹发加沙女孩流浪视频",
+      "onboard_time": 1717006032,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35630,
       "num": 46413,
       "word": "张昊唯 平易近人是太子的保护色",
@@ -435,20 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33368,
-      "num": 33368,
+      "raw_hot": 35297,
+      "num": 35297,
       "word": "歌手2024官宣孙楠",
       "onboard_time": 1717005852,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33039,
-      "num": 33039,
-      "word": "华春莹发加沙女孩流浪视频",
-      "onboard_time": 1717006032,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23295,
@@ -465,6 +465,14 @@
       "onboard_time": 1716998057,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18639,
+      "num": 21996,
+      "word": "朴宝剑秀智CP感",
+      "onboard_time": 1717007650,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 11467,
