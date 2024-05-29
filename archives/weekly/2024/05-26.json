@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716939264700,
+  "endTime": 1716945697419,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -193,6 +193,14 @@
       "onboard_time": 1716681856,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1555619,
+      "num": 1555619,
+      "word": "王妈两个月广告收入或达960万",
+      "onboard_time": 1716940398,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 1541174,
@@ -707,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 840762,
+      "num": 840762,
+      "word": "人民日报评王妈背刺打工人",
+      "onboard_time": 1716944658,
+      "rank": 1,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 840689,
       "num": 200557,
       "word": "董卿 渣苏感",
@@ -1203,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630726,
+      "num": 630726,
+      "word": "20岁女生留学新加坡坠亡",
+      "onboard_time": 1716942739,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626034,
       "num": 626034,
       "word": "那英和杨丞琳眼神里都没有光了",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1716685337,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 607743,
+      "num": 302269,
+      "word": "原来一个人住冰箱可以这么干净",
+      "onboard_time": 1716939316,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 605657,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1716797778,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584758,
+      "num": 295557,
+      "word": "尿失禁为何被称为女性的社交癌",
+      "onboard_time": 1716939376,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 578083,
@@ -1553,6 +1593,14 @@
       "onboard_time": 1716722238,
       "rank": 18,
       "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 532163,
+      "num": 532163,
+      "word": "女子因个人感情问题强行要求下飞机",
+      "onboard_time": 1716940218,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 528955,
@@ -2027,6 +2075,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 448154,
+      "num": 448154,
+      "word": "为什么中国人对炒菜情有独钟",
+      "onboard_time": 1716940337,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 448130,
       "num": 298870,
       "word": "杨紫发国色芳华剧组照",
@@ -2075,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440605,
+      "num": 440605,
+      "word": "英伟达市值一夜暴增1.35万亿",
+      "onboard_time": 1716938715,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 440130,
       "num": 296956,
       "word": "章子怡 顶级骨相",
@@ -2096,6 +2160,14 @@
       "word": "厉旭婚礼",
       "onboard_time": 1716721878,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 434812,
+      "num": 434812,
+      "word": "张若昀曾起诉父亲张健",
+      "onboard_time": 1716940758,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2379,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383919,
+      "num": 383919,
+      "word": "刘端端复刻二皇子先秦淑女步",
+      "onboard_time": 1716941778,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382391,
       "num": 382391,
       "word": "中国统一的大势不可逆转",
@@ -2627,12 +2707,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350491,
+      "num": 350491,
+      "word": "招商银行从普华永道改聘安永",
+      "onboard_time": 1716939075,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 348279,
       "num": 328295,
       "word": "胡锡进称刘强东急了",
       "onboard_time": 1716900917,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 348018,
+      "num": 348018,
+      "word": "金价暴涨金店老板们不敢进货了",
+      "onboard_time": 1716944718,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 347230,
@@ -2833,6 +2929,14 @@
       "onboard_time": 1716806358,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320772,
+      "num": 320772,
+      "word": "奔跑吧",
+      "onboard_time": 1716945137,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 320677,
@@ -3955,6 +4059,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 225927,
+      "num": 225927,
+      "word": "孙丞潇回复金莎",
+      "onboard_time": 1716945617,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225861,
       "num": 225861,
       "word": "孙杨状态",
@@ -4009,6 +4121,14 @@
       "onboard_time": 1716648501,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224416,
+      "num": 435628,
+      "word": "老祖宗的顶级审美此刻具象化了",
+      "onboard_time": 1716944477,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 224347,
@@ -4075,6 +4195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221336,
+      "num": 221336,
+      "word": "i人女生工作两年加了4000好友",
+      "onboard_time": 1716945258,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220378,
       "num": 178132,
       "word": "十块钱做了三杯珍珠奶茶",
@@ -4089,6 +4217,14 @@
       "onboard_time": 1716684978,
       "rank": 27,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 220236,
+      "num": 220236,
+      "word": "老人晨练时心梗被路人用AED救回",
+      "onboard_time": 1716943218,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220072,
@@ -4283,6 +4419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210014,
+      "num": 210014,
+      "word": "以色列指定的人道主义区被炸21死",
+      "onboard_time": 1716942739,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 209797,
       "num": 205540,
       "word": "肖战纯白U领T恤",
@@ -4411,6 +4555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206031,
+      "num": 206031,
+      "word": "奔跑吧杭州飞行嘉宾",
+      "onboard_time": 1716945497,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205532,
       "num": 205532,
       "word": "你觉得身边吸烟的人变少了吗",
@@ -4499,6 +4651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202952,
+      "num": 202952,
+      "word": "孙楠抵达长沙",
+      "onboard_time": 1716939015,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202721,
       "num": 202721,
       "word": "大导眼中的章子怡",
@@ -4585,6 +4745,14 @@
       "onboard_time": 1716866838,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201002,
+      "num": 201002,
+      "word": "iPhone四月在华出货量猛涨近5成",
+      "onboard_time": 1716944837,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 200600,
@@ -4713,6 +4881,14 @@
       "onboard_time": 1716805580,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196970,
+      "num": 196970,
+      "word": "王妈",
+      "onboard_time": 1716878238,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 196751,
@@ -4905,6 +5081,14 @@
       "onboard_time": 1716904940,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189941,
+      "num": 189941,
+      "word": "范闲大婚原著片段",
+      "onboard_time": 1716938536,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 189878,
@@ -5707,6 +5891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164775,
+      "num": 164775,
+      "word": "森林狼vs独行侠",
+      "onboard_time": 1716945258,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164764,
       "num": 164764,
       "word": "肝不好皮肤易出现4个变化",
@@ -5737,6 +5929,14 @@
       "onboard_time": 1716772097,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164014,
+      "num": 164014,
+      "word": "你永远可以相信李白严选的眼光",
+      "onboard_time": 1716939376,
+      "rank": 36,
+      "category": "读书作家"
     },
     {
       "raw_hot": 163932,
@@ -6195,6 +6395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147855,
+      "num": 147855,
+      "word": "雷佳音头比章子怡大两倍",
+      "onboard_time": 1716939316,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147731,
       "num": 147731,
       "word": "S人和N人穿搭的区别",
@@ -6291,6 +6499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144127,
+      "num": 144127,
+      "word": "国外乐评人点评那英和亚当",
+      "onboard_time": 1716941478,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143496,
       "num": 143496,
       "word": "范闲自己淋过雨要给天下撑伞",
@@ -6321,14 +6537,6 @@
       "onboard_time": 1716892638,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143135,
-      "num": 143135,
-      "word": "王妈",
-      "onboard_time": 1716878238,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 142764,
@@ -6577,6 +6785,14 @@
       "onboard_time": 1716897557,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136320,
+      "num": 136320,
+      "word": "巴黎爆发万人示威抗议拉法惨案",
+      "onboard_time": 1716940518,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 136319,
@@ -7003,6 +7219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127535,
+      "num": 127535,
+      "word": "王妈公司前员工称在职时天天加班",
+      "onboard_time": 1716944237,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 127496,
       "num": 127496,
       "word": "赵奕欢回应淘汰",
@@ -7065,6 +7289,14 @@
       "onboard_time": 1716891560,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 126001,
+      "num": 203790,
+      "word": "怎么帮孩子选择更合适的鲜奶",
+      "onboard_time": 1716945258,
+      "rank": 29,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 125877,
@@ -7523,14 +7755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114560,
-      "num": 114560,
-      "word": "英伟达市值一夜暴增1.35万亿",
-      "onboard_time": 1716938715,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 114326,
       "num": 82905,
       "word": "佟丽娅戛纳很好下次再去",
@@ -7561,6 +7785,14 @@
       "onboard_time": 1716821661,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112860,
+      "num": 112860,
+      "word": "突然好奇以前的就业环境什么样",
+      "onboard_time": 1716945497,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 112855,
@@ -7632,6 +7864,14 @@
       "word": "曼联是冠军",
       "onboard_time": 1716684917,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111110,
+      "num": 111110,
+      "word": "东欧组合是否为后场最佳组合",
+      "onboard_time": 1716944356,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -7899,14 +8139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99530,
-      "num": 95740,
-      "word": "范闲大婚原著片段",
-      "onboard_time": 1716938536,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99213,
       "num": 414205,
       "word": "咳嗽一直不见好怎么办",
@@ -7977,14 +8209,6 @@
       "onboard_time": 1716712878,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 95917,
-      "num": 95917,
-      "word": "孙楠抵达长沙",
-      "onboard_time": 1716939015,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 95792,
@@ -8601,14 +8825,6 @@
       "onboard_time": 1716881598,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54467,
-      "num": 54467,
-      "word": "招商银行从普华永道改聘安永",
-      "onboard_time": 1716939075,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 54322,
