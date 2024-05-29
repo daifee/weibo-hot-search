@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716967092603,
+  "endTime": 1716968089528,
   "band_list": [
     {
       "raw_hot": 2124366,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1298100,
-      "num": 771051,
+      "num": 780132,
       "word": "唐艺昕用纹身给张若昀安全感",
       "onboard_time": 1716961938,
       "rank": 8,
@@ -155,20 +155,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 785358,
+      "num": 785358,
+      "word": "钟薛高创始人卖红薯被指红薯刺客",
+      "onboard_time": 1716962539,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 774829,
       "num": 774829,
       "word": "金价暴涨金店老板们不敢进货了",
       "onboard_time": 1716944718,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 759403,
-      "num": 759403,
-      "word": "钟薛高创始人卖红薯被指红薯刺客",
-      "onboard_time": 1716962539,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 751721,
@@ -179,20 +179,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 721478,
+      "num": 721478,
+      "word": "面对漂亮的老婆是这样的",
+      "onboard_time": 1716963498,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 700675,
       "num": 700675,
       "word": "奔跑吧杭州飞行嘉宾",
       "onboard_time": 1716945497,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 671598,
-      "num": 422957,
-      "word": "面对漂亮的老婆是这样的",
-      "onboard_time": 1716963498,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 670102,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 509142,
-      "num": 385137,
+      "num": 432882,
       "word": "范闲身世曝光",
       "onboard_time": 1716962898,
       "rank": 13,
@@ -499,6 +499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377586,
+      "num": 377586,
+      "word": "白玉兰 男主",
+      "onboard_time": 1716966557,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 374614,
+      "num": 374614,
+      "word": "杨幂喊妈妈",
+      "onboard_time": 1716966557,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373600,
       "num": 373600,
       "word": "讨厌打开APP歌就被暂停",
@@ -563,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326549,
+      "num": 326549,
+      "word": "Faker新皮肤疑似定价500美元",
+      "onboard_time": 1716961277,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326235,
       "num": 326235,
       "word": "2023年美国侵犯人权报告",
@@ -579,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307125,
-      "num": 307125,
-      "word": "Faker新皮肤疑似定价500美元",
-      "onboard_time": 1716961277,
-      "rank": 25,
-      "category": "电竞"
+      "raw_hot": 306578,
+      "num": 269448,
+      "word": "花少节目组",
+      "onboard_time": 1716962958,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 304896,
@@ -593,6 +617,14 @@
       "onboard_time": 1716951137,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302405,
+      "num": 204384,
+      "word": "王力宏档期",
+      "onboard_time": 1716966676,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 301762,
@@ -633,14 +665,6 @@
       "onboard_time": 1716958580,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 269448,
-      "num": 269448,
-      "word": "花少节目组",
-      "onboard_time": 1716962958,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 265283,
@@ -739,6 +763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 235743,
+      "num": 162808,
+      "word": "大爷剥橘子给B太试吃前在抠脚",
+      "onboard_time": 1716967398,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 233594,
       "num": 233594,
       "word": "比亚迪",
@@ -787,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219266,
-      "num": 219266,
-      "word": "杨幂喊妈妈",
-      "onboard_time": 1716966557,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216055,
       "num": 201786,
       "word": "王鹤棣觉得乐山适合录桃花坞",
@@ -809,14 +833,6 @@
       "onboard_time": 1716942739,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 209502,
-      "num": 209502,
-      "word": "白玉兰 男主",
-      "onboard_time": 1716966557,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 208078,
@@ -840,14 +856,6 @@
       "word": "魔方新世界",
       "onboard_time": 1716959359,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 204384,
-      "num": 204384,
-      "word": "王力宏档期",
-      "onboard_time": 1716966676,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -923,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193092,
+      "num": 190252,
+      "word": "人类的体毛为什么不能好好长",
+      "onboard_time": 1716965056,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191930,
       "num": 191930,
       "word": "小猫躲在墙角故意吓唬主人",
@@ -937,14 +953,6 @@
       "onboard_time": 1716956900,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190252,
-      "num": 190252,
-      "word": "人类的体毛为什么不能好好长",
-      "onboard_time": 1716965056,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 190248,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1716955340,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169634,
+      "num": 158802,
+      "word": "一组动作缓解肩颈疲劳",
+      "onboard_time": 1716967637,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 169249,
@@ -1131,12 +1147,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152663,
+      "num": 152663,
+      "word": "WB掌管cos的神",
+      "onboard_time": 1716967938,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151962,
       "num": 151962,
       "word": "医生称通便茶长期服用或致癌",
       "onboard_time": 1716950538,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151939,
+      "num": 151939,
+      "word": "无穷小亮 厄瓜多尔冠蜥暴起",
+      "onboard_time": 1716966619,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 150880,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1716946156,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148517,
+      "num": 148517,
+      "word": "王妈掉粉",
+      "onboard_time": 1716967457,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 147855,
@@ -1203,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142316,
-      "num": 142316,
-      "word": "无穷小亮 厄瓜多尔冠蜥暴起",
-      "onboard_time": 1716966619,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 139962,
       "num": 139962,
       "word": "联合利剑2024A演习后还有B和C吗",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1716957379,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139136,
+      "num": 139136,
+      "word": "博主因造谣向小米致歉",
+      "onboard_time": 1716967157,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 138615,
@@ -1321,6 +1361,22 @@
       "onboard_time": 1716961397,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129114,
+      "num": 129114,
+      "word": "拜托大家再大胆一点吧",
+      "onboard_time": 1716967637,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 128820,
+      "num": 327245,
+      "word": "一句没事儿让肠易激伤害了多少人",
+      "onboard_time": 1716964339,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127535,
@@ -1411,12 +1467,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119515,
+      "num": 119515,
+      "word": "LOL名人堂入选标准公布",
+      "onboard_time": 1716967877,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118129,
       "num": 118129,
       "word": "叙利亚路边卖纸巾的老爷爷",
       "onboard_time": 1716963318,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118024,
+      "num": 118024,
+      "word": "他们真的存不下钱",
+      "onboard_time": 1716967817,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 117916,
@@ -1457,6 +1529,22 @@
       "onboard_time": 1716957740,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115913,
+      "num": 115913,
+      "word": "陈哲远提名首尔电视剧大赏",
+      "onboard_time": 1716967938,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115730,
+      "num": 115730,
+      "word": "电视未来会消失吗",
+      "onboard_time": 1716967758,
+      "rank": 42,
+      "category": "社会议题"
     },
     {
       "raw_hot": 114872,
@@ -1515,20 +1603,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105149,
+      "num": 105149,
+      "word": "广东为何成为痛风大省",
+      "onboard_time": 1716966977,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103834,
       "num": 103834,
       "word": "敖子逸到达长沙",
       "onboard_time": 1716965357,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103343,
-      "num": 103343,
-      "word": "广东为何成为痛风大省",
-      "onboard_time": 1716966977,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 100692,
@@ -1545,14 +1633,6 @@
       "onboard_time": 1716881177,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91217,
-      "num": 257698,
-      "word": "一句没事儿让肠易激伤害了多少人",
-      "onboard_time": 1716964339,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 90491,
@@ -1641,6 +1721,14 @@
       "onboard_time": 1716934632,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 75526,
+      "num": 443104,
+      "word": "减肥神药或影响服用者精神健康",
+      "onboard_time": 1716966017,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 75417,
@@ -1795,14 +1883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32301,
-      "num": 443104,
-      "word": "减肥神药或影响服用者精神健康",
-      "onboard_time": 1716966017,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 30960,
       "num": 282824,
       "word": "流浪狗回回已找到领养人",
@@ -1824,6 +1904,14 @@
       "word": "男子23年后找到女儿泣不成声",
       "onboard_time": 1716915135,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23288,
+      "num": 780319,
+      "word": "麦田丰收宛如金色的海洋",
+      "onboard_time": 1716967577,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

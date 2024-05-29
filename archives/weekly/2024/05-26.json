@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716967092603,
+  "endTime": 1716968089528,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 1298100,
-      "num": 771051,
+      "num": 780132,
       "word": "唐艺昕用纹身给张若昀安全感",
       "onboard_time": 1716961938,
       "rank": 8,
@@ -979,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785358,
+      "num": 785358,
+      "word": "钟薛高创始人卖红薯被指红薯刺客",
+      "onboard_time": 1716962539,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784936,
       "num": 784936,
       "word": "一个班的几乎全是考公务员的",
@@ -1024,14 +1032,6 @@
       "word": "官方回应福宝颈部断毛",
       "onboard_time": 1716906200,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 759403,
-      "num": 759403,
-      "word": "钟薛高创始人卖红薯被指红薯刺客",
-      "onboard_time": 1716962539,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 721478,
+      "num": 721478,
+      "word": "面对漂亮的老婆是这样的",
+      "onboard_time": 1716963498,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 718113,
       "num": 718113,
       "word": "前华为高颜值HR入职京东做主播",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1716901818,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 671598,
-      "num": 422957,
-      "word": "面对漂亮的老婆是这样的",
-      "onboard_time": 1716963498,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 669611,
@@ -1988,7 +1988,7 @@
     },
     {
       "raw_hot": 509142,
-      "num": 385137,
+      "num": 432882,
       "word": "范闲身世曝光",
       "onboard_time": 1716962898,
       "rank": 13,
@@ -2811,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377586,
+      "num": 377586,
+      "word": "白玉兰 男主",
+      "onboard_time": 1716966557,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377465,
       "num": 357606,
       "word": "上海大学生花29天坐公交到新加坡",
@@ -2849,6 +2857,14 @@
       "onboard_time": 1716706037,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 374614,
+      "num": 374614,
+      "word": "杨幂喊妈妈",
+      "onboard_time": 1716966557,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 374106,
@@ -3251,6 +3267,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 326549,
+      "num": 326549,
+      "word": "Faker新皮肤疑似定价500美元",
+      "onboard_time": 1716961277,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326235,
       "num": 326235,
       "word": "2023年美国侵犯人权报告",
@@ -3411,12 +3435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 307125,
-      "num": 307125,
-      "word": "Faker新皮肤疑似定价500美元",
-      "onboard_time": 1716961277,
-      "rank": 25,
-      "category": "电竞"
+      "raw_hot": 306578,
+      "num": 269448,
+      "word": "花少节目组",
+      "onboard_time": 1716962958,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 306038,
@@ -3473,6 +3497,14 @@
       "onboard_time": 1716782900,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302405,
+      "num": 204384,
+      "word": "王力宏档期",
+      "onboard_time": 1716966676,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 300670,
@@ -3817,14 +3849,6 @@
       "onboard_time": 1716868758,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 269448,
-      "num": 269448,
-      "word": "花少节目组",
-      "onboard_time": 1716962958,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 266623,
@@ -4347,6 +4371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235743,
+      "num": 162808,
+      "word": "大爷剥橘子给B太试吃前在抠脚",
+      "onboard_time": 1716967398,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 235189,
       "num": 181145,
       "word": "林更新个人vs范丞丞个人战",
@@ -4707,14 +4739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219266,
-      "num": 219266,
-      "word": "杨幂喊妈妈",
-      "onboard_time": 1716966557,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219161,
       "num": 219161,
       "word": "王妈公司晒后台大量应聘信息",
@@ -4923,14 +4947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209502,
-      "num": 209502,
-      "word": "白玉兰 男主",
-      "onboard_time": 1716966557,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209450,
       "num": 209450,
       "word": "范闲儋州土包子爆改京圈贵公子",
@@ -5121,14 +5137,6 @@
       "onboard_time": 1716887419,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204384,
-      "num": 204384,
-      "word": "王力宏档期",
-      "onboard_time": 1716966676,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 204284,
@@ -5555,6 +5563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193092,
+      "num": 190252,
+      "word": "人类的体毛为什么不能好好长",
+      "onboard_time": 1716965056,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 192978,
       "num": 192978,
       "word": "庆帝赐婚比月老牵线还靠谱",
@@ -5625,14 +5641,6 @@
       "onboard_time": 1716818180,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190252,
-      "num": 190252,
-      "word": "人类的体毛为什么不能好好长",
-      "onboard_time": 1716965056,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 190248,
@@ -6355,6 +6363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169634,
+      "num": 158802,
+      "word": "一组动作缓解肩颈疲劳",
+      "onboard_time": 1716967637,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 169473,
       "num": 169473,
       "word": "六公主cos徐冬冬",
@@ -6963,6 +6979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 152663,
+      "num": 152663,
+      "word": "WB掌管cos的神",
+      "onboard_time": 1716967938,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152517,
       "num": 152517,
       "word": "汗疱疹会传染吗",
@@ -6985,6 +7009,14 @@
       "onboard_time": 1716950538,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151939,
+      "num": 151939,
+      "word": "无穷小亮 厄瓜多尔冠蜥暴起",
+      "onboard_time": 1716966619,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 151710,
@@ -7089,6 +7121,14 @@
       "onboard_time": 1716729859,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148517,
+      "num": 148517,
+      "word": "王妈掉粉",
+      "onboard_time": 1716967457,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 148452,
@@ -7323,14 +7363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142316,
-      "num": 142316,
-      "word": "无穷小亮 厄瓜多尔冠蜥暴起",
-      "onboard_time": 1716966619,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 142264,
       "num": 142264,
       "word": "纳达尔 兹维列夫",
@@ -7481,6 +7513,14 @@
       "onboard_time": 1716957379,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139136,
+      "num": 139136,
+      "word": "博主因造谣向小米致歉",
+      "onboard_time": 1716967157,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 139102,
@@ -8019,6 +8059,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129114,
+      "num": 129114,
+      "word": "拜托大家再大胆一点吧",
+      "onboard_time": 1716967637,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 128820,
+      "num": 327245,
+      "word": "一句没事儿让肠易激伤害了多少人",
+      "onboard_time": 1716964339,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128791,
       "num": 128791,
       "word": "橘猫为了抢占猫窝狂踩美短脑袋",
@@ -8451,6 +8507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119515,
+      "num": 119515,
+      "word": "LOL名人堂入选标准公布",
+      "onboard_time": 1716967877,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119469,
       "num": 119469,
       "word": "陈奕迅发文",
@@ -8505,6 +8569,14 @@
       "onboard_time": 1716695899,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 118024,
+      "num": 118024,
+      "word": "他们真的存不下钱",
+      "onboard_time": 1716967817,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 117916,
@@ -8595,12 +8667,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115913,
+      "num": 115913,
+      "word": "陈哲远提名首尔电视剧大赏",
+      "onboard_time": 1716967938,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115738,
       "num": 115738,
       "word": "郑钦文法网开门红",
       "onboard_time": 1716899537,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115730,
+      "num": 115730,
+      "word": "电视未来会消失吗",
+      "onboard_time": 1716967758,
+      "rank": 42,
+      "category": "社会议题"
     },
     {
       "raw_hot": 115692,
@@ -8931,6 +9019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105149,
+      "num": 105149,
+      "word": "广东为何成为痛风大省",
+      "onboard_time": 1716966977,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105129,
       "num": 509902,
       "word": "小狗狗偷偷跟着小主人上学",
@@ -8969,14 +9065,6 @@
       "onboard_time": 1716965357,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103343,
-      "num": 103343,
-      "word": "广东为何成为痛风大省",
-      "onboard_time": 1716966977,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 102875,
@@ -9219,14 +9307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91217,
-      "num": 257698,
-      "word": "一句没事儿让肠易激伤害了多少人",
-      "onboard_time": 1716964339,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 90723,
       "num": 90723,
       "word": "男童不慎把520胶水抹胳膊和嘴上",
@@ -9465,6 +9545,14 @@
       "onboard_time": 1716934632,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 75526,
+      "num": 443104,
+      "word": "减肥神药或影响服用者精神健康",
+      "onboard_time": 1716966017,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 75417,
@@ -10179,14 +10267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32301,
-      "num": 443104,
-      "word": "减肥神药或影响服用者精神健康",
-      "onboard_time": 1716966017,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 32177,
       "num": 32177,
       "word": "杨幂生万物明天开机仪式",
@@ -10273,6 +10353,14 @@
       "onboard_time": 1716663191,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23288,
+      "num": 780319,
+      "word": "麦田丰收宛如金色的海洋",
+      "onboard_time": 1716967577,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23118,

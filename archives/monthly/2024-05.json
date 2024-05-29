@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716967092603,
+  "endTime": 1716968089528,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3668,7 +3668,7 @@
     },
     {
       "raw_hot": 1298100,
-      "num": 771051,
+      "num": 780132,
       "word": "唐艺昕用纹身给张若昀安全感",
       "onboard_time": 1716961938,
       "rank": 8,
@@ -8907,6 +8907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 785358,
+      "num": 785358,
+      "word": "钟薛高创始人卖红薯被指红薯刺客",
+      "onboard_time": 1716962539,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 785066,
       "num": 415273,
       "word": "歌手刚开始没邀请汪苏泷",
@@ -9329,14 +9337,6 @@
       "onboard_time": 1716352880,
       "rank": 14,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 759403,
-      "num": 759403,
-      "word": "钟薛高创始人卖红薯被指红薯刺客",
-      "onboard_time": 1716962539,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 759347,
@@ -10193,6 +10193,14 @@
       "onboard_time": 1716635120,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 721478,
+      "num": 721478,
+      "word": "面对漂亮的老婆是这样的",
+      "onboard_time": 1716963498,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 721159,
@@ -11425,14 +11433,6 @@
       "onboard_time": 1715062879,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 671598,
-      "num": 422957,
-      "word": "面对漂亮的老婆是这样的",
-      "onboard_time": 1716963498,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 671379,
@@ -16764,7 +16764,7 @@
     },
     {
       "raw_hot": 509142,
-      "num": 385137,
+      "num": 432882,
       "word": "范闲身世曝光",
       "onboard_time": 1716962898,
       "rank": 13,
@@ -23715,6 +23715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377586,
+      "num": 377586,
+      "word": "白玉兰 男主",
+      "onboard_time": 1716966557,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377465,
       "num": 357606,
       "word": "上海大学生花29天坐公交到新加坡",
@@ -23905,6 +23913,14 @@
       "onboard_time": 1715442139,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 374614,
+      "num": 374614,
+      "word": "杨幂喊妈妈",
+      "onboard_time": 1716966557,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 374603,
@@ -27147,6 +27163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 326549,
+      "num": 326549,
+      "word": "Faker新皮肤疑似定价500美元",
+      "onboard_time": 1716961277,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326474,
       "num": 303980,
       "word": "记者因报道郑俊英事件流产2次",
@@ -28587,14 +28611,6 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 307125,
-      "num": 307125,
-      "word": "Faker新皮肤疑似定价500美元",
-      "onboard_time": 1716961277,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 307004,
       "num": 307004,
       "word": "王楚钦孙颖莎3比0德赛戈尔帕德",
@@ -28625,6 +28641,14 @@
       "onboard_time": 1715176341,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306578,
+      "num": 269448,
+      "word": "花少节目组",
+      "onboard_time": 1716962958,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 306518,
@@ -28953,6 +28977,14 @@
       "onboard_time": 1716334156,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 302405,
+      "num": 204384,
+      "word": "王力宏档期",
+      "onboard_time": 1716966676,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 302319,
@@ -31952,14 +31984,6 @@
       "word": "杭盖演唱会和歌手直播撞了",
       "onboard_time": 1715663240,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 269448,
-      "num": 269448,
-      "word": "花少节目组",
-      "onboard_time": 1716962958,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -35931,6 +35955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235743,
+      "num": 162808,
+      "word": "大爷剥橘子给B太试吃前在抠脚",
+      "onboard_time": 1716967398,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 235721,
       "num": 292803,
       "word": "鬼灭之刃第四季开播",
@@ -38483,14 +38515,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 219266,
-      "num": 219266,
-      "word": "杨幂喊妈妈",
-      "onboard_time": 1716966557,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219246,
       "num": 219246,
       "word": "第60届百想艺术大赏",
@@ -40355,14 +40379,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 209502,
-      "num": 209502,
-      "word": "白玉兰 男主",
-      "onboard_time": 1716966557,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209465,
       "num": 209465,
       "word": "李健再去一下歌手吧",
@@ -41801,14 +41817,6 @@
       "onboard_time": 1716887419,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204384,
-      "num": 204384,
-      "word": "王力宏档期",
-      "onboard_time": 1716966676,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 204378,
@@ -45659,6 +45667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193092,
+      "num": 190252,
+      "word": "人类的体毛为什么不能好好长",
+      "onboard_time": 1716965056,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 193091,
       "num": 193091,
       "word": "TES对战TL",
@@ -46513,14 +46529,6 @@
       "onboard_time": 1716127342,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190252,
-      "num": 190252,
-      "word": "人类的体毛为什么不能好好长",
-      "onboard_time": 1716965056,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 190248,
@@ -52211,6 +52219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169634,
+      "num": 158802,
+      "word": "一组动作缓解肩颈疲劳",
+      "onboard_time": 1716967637,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 169625,
       "num": 223232,
       "word": "你坐电车晕车吗",
@@ -57203,6 +57219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152663,
+      "num": 152663,
+      "word": "WB掌管cos的神",
+      "onboard_time": 1716967938,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152635,
       "num": 152635,
       "word": "赴山海官宣",
@@ -57433,6 +57457,14 @@
       "onboard_time": 1715221817,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 151939,
+      "num": 151939,
+      "word": "无穷小亮 厄瓜多尔冠蜥暴起",
+      "onboard_time": 1716966619,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 151901,
@@ -58457,6 +58489,14 @@
       "onboard_time": 1715741898,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148517,
+      "num": 148517,
+      "word": "王妈掉粉",
+      "onboard_time": 1716967457,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 148497,
@@ -60339,14 +60379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142316,
-      "num": 142316,
-      "word": "无穷小亮 厄瓜多尔冠蜥暴起",
-      "onboard_time": 1716966619,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 142315,
       "num": 142315,
       "word": "赵露思珠帘玉幕水下镜头",
@@ -61417,6 +61449,14 @@
       "onboard_time": 1716016518,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139136,
+      "num": 139136,
+      "word": "博主因造谣向小米致歉",
+      "onboard_time": 1716967157,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 139126,
@@ -64459,6 +64499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129114,
+      "num": 129114,
+      "word": "拜托大家再大胆一点吧",
+      "onboard_time": 1716967637,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129085,
       "num": 129085,
       "word": "甄嬛318岁生日",
@@ -64529,6 +64577,14 @@
       "onboard_time": 1715481618,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 128820,
+      "num": 327245,
+      "word": "一句没事儿让肠易激伤害了多少人",
+      "onboard_time": 1716964339,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128791,
@@ -67275,6 +67331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119515,
+      "num": 119515,
+      "word": "LOL名人堂入选标准公布",
+      "onboard_time": 1716967877,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119455,
       "num": 119455,
       "word": "TES战胜LLL",
@@ -67705,6 +67769,14 @@
       "onboard_time": 1715166079,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118024,
+      "num": 118024,
+      "word": "他们真的存不下钱",
+      "onboard_time": 1716967817,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 117962,
@@ -68267,6 +68339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 115913,
+      "num": 115913,
+      "word": "陈哲远提名首尔电视剧大赏",
+      "onboard_time": 1716967938,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115818,
       "num": 1289659,
       "word": "追光的你",
@@ -68321,6 +68401,14 @@
       "onboard_time": 1716899537,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115730,
+      "num": 115730,
+      "word": "电视未来会消失吗",
+      "onboard_time": 1716967758,
+      "rank": 42,
+      "category": "社会议题"
     },
     {
       "raw_hot": 115714,
@@ -70667,6 +70755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105149,
+      "num": 105149,
+      "word": "广东为何成为痛风大省",
+      "onboard_time": 1716966977,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105129,
       "num": 509902,
       "word": "小狗狗偷偷跟着小主人上学",
@@ -70889,14 +70985,6 @@
       "onboard_time": 1716280280,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103343,
-      "num": 103343,
-      "word": "广东为何成为痛风大省",
-      "onboard_time": 1716966977,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 103328,
@@ -72603,14 +72691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91217,
-      "num": 257698,
-      "word": "一句没事儿让肠易激伤害了多少人",
-      "onboard_time": 1716964339,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 91206,
       "num": 559017,
       "word": "白天和晚上睡觉的差别",
@@ -74105,6 +74185,14 @@
       "onboard_time": 1715362274,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75526,
+      "num": 443104,
+      "word": "减肥神药或影响服用者精神健康",
+      "onboard_time": 1716966017,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 75449,
@@ -78171,14 +78259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32301,
-      "num": 443104,
-      "word": "减肥神药或影响服用者精神健康",
-      "onboard_time": 1716966017,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 32283,
       "num": 369365,
       "word": "这些国货年纪比我还大",
@@ -78808,6 +78888,14 @@
       "word": "520惊喜开箱华为门店",
       "onboard_time": 1715667139,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23288,
+      "num": 780319,
+      "word": "麦田丰收宛如金色的海洋",
+      "onboard_time": 1716967577,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
