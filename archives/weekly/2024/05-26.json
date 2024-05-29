@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716996934449,
+  "endTime": 1716999845147,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -1761,6 +1761,14 @@
       "onboard_time": 1716796578,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595636,
+      "num": 124596,
+      "word": "校方回应大学生请5天假奔丧被砍掉2天",
+      "onboard_time": 1716996678,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595245,
@@ -4499,6 +4507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 258634,
+      "num": 156874,
+      "word": "37周孕妇糖耐不过在家锻炼",
+      "onboard_time": 1716995178,
+      "rank": 30,
+      "category": "母婴育儿,运动健身"
+    },
+    {
       "raw_hot": 258402,
       "num": 258402,
       "word": "新女团抄袭BABYMONSTER",
@@ -5073,14 +5089,6 @@
       "onboard_time": 1716867018,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228780,
-      "num": 156874,
-      "word": "37周孕妇糖耐不过在家锻炼",
-      "onboard_time": 1716995178,
-      "rank": 30,
-      "category": "母婴育儿,运动健身"
     },
     {
       "raw_hot": 228323,
@@ -6147,6 +6155,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 196268,
+      "num": 118132,
+      "word": "小米高管抽奖抽中爱国网友",
+      "onboard_time": 1716998897,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196099,
       "num": 225003,
       "word": "WTT常规挑战赛太原站2024",
@@ -6432,6 +6448,14 @@
       "word": "范闲大婚原著片段",
       "onboard_time": 1716938536,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189881,
+      "num": 117267,
+      "word": "张若昀的业内口碑",
+      "onboard_time": 1716997757,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -6881,6 +6905,14 @@
       "onboard_time": 1716968418,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178668,
+      "num": 178668,
+      "word": "缅甸地震",
+      "onboard_time": 1716998237,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178567,
@@ -7568,6 +7600,14 @@
       "word": "狐妖月红篇有自己的柜哥",
       "onboard_time": 1716902118,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162192,
+      "num": 116055,
+      "word": "刘端端演出了李承泽的灵魂",
+      "onboard_time": 1716998958,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -9347,14 +9387,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 124596,
-      "num": 124596,
-      "word": "校方回应大学生请5天假奔丧被砍掉2天",
-      "onboard_time": 1716996678,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124468,
       "num": 111406,
       "word": "5号和15号发工资区别有多大",
@@ -10851,6 +10883,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 73290,
+      "num": 73290,
+      "word": "张杰说Precious是为女儿写的歌",
+      "onboard_time": 1716998539,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 73152,
       "num": 73152,
       "word": "41首百万收藏汪苏泷在歌手都没唱",
@@ -11728,6 +11768,14 @@
       "word": "风吹金色麦浪有多治愈",
       "onboard_time": 1716900438,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19406,
+      "num": 339811,
+      "word": "河南女摊主一个小行为两个大意义",
+      "onboard_time": 1716998057,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
