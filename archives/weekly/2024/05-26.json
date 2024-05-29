@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716989723803,
+  "endTime": 1716992299847,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -403,6 +403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1304703,
+      "num": 1304703,
+      "word": "朝鲜用气球向韩国投放大量废纸和污物",
+      "onboard_time": 1716989718,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1298100,
       "num": 780132,
       "word": "唐艺昕用纹身给张若昀安全感",
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 1001435,
-      "num": 394098,
+      "num": 398099,
       "word": "郑乃馨早期言论",
       "onboard_time": 1716981738,
       "rank": 11,
@@ -1036,7 +1044,7 @@
     },
     {
       "raw_hot": 806581,
-      "num": 387406,
+      "num": 786088,
       "word": "舍不得范思辙",
       "onboard_time": 1716986356,
       "rank": 14,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1716880157,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 793792,
+      "num": 793792,
+      "word": "朱婷回来了",
+      "onboard_time": 1716990918,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 789352,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1716906200,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760542,
+      "num": 261508,
+      "word": "姨妈巾一辈子要花多少钱",
+      "onboard_time": 1716987377,
+      "rank": 22,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 759347,
@@ -1796,7 +1820,7 @@
     },
     {
       "raw_hot": 572079,
-      "num": 319538,
+      "num": 363974,
       "word": "苗苗选择跟郑恺在一起的原因",
       "onboard_time": 1716978019,
       "rank": 24,
@@ -2040,6 +2064,14 @@
       "word": "范闲不会是孤臣",
       "onboard_time": 1716767057,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 521152,
+      "num": 521152,
+      "word": "刘诗诗狐妖月红篇镜头",
+      "onboard_time": 1716988158,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -2315,14 +2347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 492054,
-      "num": 247438,
-      "word": "姨妈巾一辈子要花多少钱",
-      "onboard_time": 1716987377,
-      "rank": 22,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 489086,
       "num": 436996,
       "word": "张雨绮说自己起床就长这样",
@@ -2561,6 +2585,14 @@
       "onboard_time": 1716861438,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 452906,
+      "num": 403040,
+      "word": "巴西总统宣布永久撤回驻以色列大使",
+      "onboard_time": 1716991398,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 452847,
@@ -2811,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413906,
+      "num": 390907,
+      "word": "庆余年悬空庙刺杀",
+      "onboard_time": 1716988878,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 412039,
       "num": 334432,
       "word": "大女主觉醒可以延长花期",
@@ -3035,6 +3075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 388446,
+      "num": 388446,
+      "word": "B太举报男子卖鬼秤又给他捐款",
+      "onboard_time": 1716991338,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387395,
       "num": 387395,
       "word": "范闲也跳晚安大小姐了",
@@ -3147,14 +3195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 375969,
-      "num": 295890,
-      "word": "刘诗诗狐妖月红篇镜头",
-      "onboard_time": 1716988158,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 374614,
       "num": 374614,
       "word": "杨幂喊妈妈",
@@ -3217,6 +3257,14 @@
       "onboard_time": 1716770478,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 367490,
+      "num": 367490,
+      "word": "吴梦洁 打得好",
+      "onboard_time": 1716990918,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 365313,
@@ -3675,6 +3723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318222,
+      "num": 259597,
+      "word": "iPhone价格持续下降销量反弹",
+      "onboard_time": 1716989359,
+      "rank": 34,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 318093,
       "num": 318093,
       "word": "燃油附加费降至50或30元",
@@ -3793,6 +3849,14 @@
       "onboard_time": 1716809238,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305338,
+      "num": 305338,
+      "word": "中国女排3比1荷兰女排",
+      "onboard_time": 1716990318,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 304896,
@@ -4387,6 +4451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257588,
+      "num": 257588,
+      "word": "月亮不落地",
+      "onboard_time": 1716991518,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256756,
       "num": 256756,
       "word": "KPL",
@@ -4649,6 +4721,14 @@
       "onboard_time": 1716775937,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 243572,
+      "num": 243572,
+      "word": "KBS封杀鱿鱼游戏吴永洙",
+      "onboard_time": 1716989239,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 243539,
@@ -4971,14 +5051,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 226345,
-      "num": 220844,
-      "word": "庆余年悬空庙刺杀",
-      "onboard_time": 1716988878,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225861,
       "num": 225861,
       "word": "孙杨状态",
@@ -5193,6 +5265,14 @@
       "onboard_time": 1716830773,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 218761,
+      "num": 218761,
+      "word": "朱婷上场全场欢呼",
+      "onboard_time": 1716991157,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 218359,
@@ -5691,12 +5771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201897,
-      "num": 201897,
-      "word": "KBS封杀鱿鱼游戏吴永洙",
-      "onboard_time": 1716989239,
+      "raw_hot": 201955,
+      "num": 201955,
+      "word": "大熊猫宝力青宝将赴美",
+      "onboard_time": 1716991699,
       "rank": 31,
-      "category": "艺人"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201824,
@@ -5729,6 +5809,14 @@
       "onboard_time": 1716873138,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 201624,
+      "num": 201624,
+      "word": "女排 二传",
+      "onboard_time": 1716990500,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 201561,
@@ -5995,6 +6083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195340,
+      "num": 195340,
+      "word": "鑫逸",
+      "onboard_time": 1716992120,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195221,
       "num": 195221,
       "word": "夏天如何避免大油头",
@@ -6161,6 +6257,14 @@
       "onboard_time": 1716812178,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 191180,
+      "num": 191180,
+      "word": "Rookie祝Ning退步六年",
+      "onboard_time": 1716991099,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 191083,
@@ -6563,6 +6667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182479,
+      "num": 182479,
+      "word": "中国女排澳门站开门红",
+      "onboard_time": 1716991099,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182474,
       "num": 182474,
       "word": "朱婷明日出战荷兰",
@@ -6779,14 +6891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176114,
-      "num": 176114,
-      "word": "iPhone价格持续下降销量反弹",
-      "onboard_time": 1716989359,
-      "rank": 34,
-      "category": "数码,财经"
-    },
-    {
       "raw_hot": 175670,
       "num": 175670,
       "word": "王鹤棣把王传君推自爆了",
@@ -6881,6 +6985,14 @@
       "onboard_time": 1716685158,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173464,
+      "num": 247374,
+      "word": "女子每两周给40多个儿子送饭",
+      "onboard_time": 1716986898,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173233,
@@ -7947,6 +8059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145344,
+      "num": 145344,
+      "word": "中国女篮不敌澳大利亚",
+      "onboard_time": 1716991818,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144963,
       "num": 144963,
       "word": "龚俊cue顺手牵杨",
@@ -8121,14 +8241,6 @@
       "onboard_time": 1716876678,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 141464,
-      "num": 247374,
-      "word": "女子每两周给40多个儿子送饭",
-      "onboard_time": 1716986898,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141459,
@@ -8424,6 +8536,14 @@
       "word": "求职找工作避坑指南",
       "onboard_time": 1716860838,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135688,
+      "num": 135688,
+      "word": "被奶爸叫来吃饭的福宝好乖",
+      "onboard_time": 1716989959,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -9265,6 +9385,14 @@
       "onboard_time": 1716700519,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 121474,
+      "num": 121474,
+      "word": "从业者称MCN单休加班较普遍",
+      "onboard_time": 1716991999,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121158,
@@ -10347,6 +10475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86461,
+      "num": 1142287,
+      "word": "中国建世界最大跨度斜拉桥6月贯通",
+      "onboard_time": 1716990676,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86020,
       "num": 101285,
       "word": "这只是防不小心又不是防故意的",
@@ -10683,6 +10819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66847,
+      "num": 262020,
+      "word": "王星越新脑子就是懂摸鱼",
+      "onboard_time": 1716989178,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66126,
       "num": 461184,
       "word": "喜提范婉大婚伴手礼",
@@ -10825,6 +10969,14 @@
       "onboard_time": 1716884958,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 58241,
+      "num": 404411,
+      "word": "研究生光荣榜一个不能少",
+      "onboard_time": 1716990618,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 56179,
@@ -11323,14 +11475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29073,
-      "num": 187249,
-      "word": "王星越新脑子就是懂摸鱼",
-      "onboard_time": 1716989178,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28474,
       "num": 506483,
       "word": "温州人把龙舟划出高铁的气势",
@@ -11606,6 +11750,9 @@
     },
     {
       "word": "#不断增强广大劳动者的获得感幸福感安全感#"
+    },
+    {
+      "word": "#建设更具内涵更有活力的中埃关系#"
     }
   ]
 }
