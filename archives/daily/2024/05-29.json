@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716992299847,
+  "endTime": 1716993312981,
   "band_list": [
     {
       "raw_hot": 3200623,
@@ -67,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1546716,
+      "num": 1546716,
+      "word": "朝鲜用气球向韩国投放大量废纸和污物",
+      "onboard_time": 1716989718,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1448402,
       "num": 1448402,
       "word": "歌手歌单",
@@ -89,14 +97,6 @@
       "onboard_time": 1716952518,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1304703,
-      "num": 1304703,
-      "word": "朝鲜用气球向韩国投放大量废纸和污物",
-      "onboard_time": 1716989718,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1298100,
@@ -195,6 +195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 953433,
+      "num": 953433,
+      "word": "巴西总统宣布永久撤回驻以色列大使",
+      "onboard_time": 1716991398,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 924330,
       "num": 924330,
       "word": "张若昀在家里为唐艺昕备有菜单",
@@ -249,6 +257,14 @@
       "onboard_time": 1716976159,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 832763,
+      "num": 832763,
+      "word": "B太举报男子卖鬼秤又给他捐款",
+      "onboard_time": 1716991338,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 806581,
@@ -443,8 +459,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 574612,
+      "num": 574612,
+      "word": "张小斐 第一章回国",
+      "onboard_time": 1716992419,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 572079,
-      "num": 363974,
+      "num": 420506,
       "word": "苗苗选择跟郑恺在一起的原因",
       "onboard_time": 1716978019,
       "rank": 24,
@@ -587,6 +611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 487301,
+      "num": 487301,
+      "word": "全世界的大宗师都吻了上来",
+      "onboard_time": 1716992598,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 482765,
       "num": 262499,
       "word": "钟薛高老板说新品化得非常快",
@@ -625,14 +657,6 @@
       "onboard_time": 1716948498,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 452906,
-      "num": 403040,
-      "word": "巴西总统宣布永久撤回驻以色列大使",
-      "onboard_time": 1716991398,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 448154,
@@ -691,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423119,
+      "num": 423119,
+      "word": "月亮不落地",
+      "onboard_time": 1716991518,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422661,
       "num": 422661,
       "word": "i人女生工作两年加了4000好友",
@@ -699,20 +731,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 421839,
+      "num": 421839,
+      "word": "庆余年悬空庙刺杀",
+      "onboard_time": 1716988878,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418920,
       "num": 390653,
       "word": "武汉平均招聘月薪10313元",
       "onboard_time": 1716978138,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 413906,
-      "num": 390907,
-      "word": "庆余年悬空庙刺杀",
-      "onboard_time": 1716988878,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 412039,
@@ -737,6 +769,14 @@
       "onboard_time": 1716906200,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403201,
+      "num": 259597,
+      "word": "iPhone价格持续下降销量反弹",
+      "onboard_time": 1716989359,
+      "rank": 34,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 398049,
@@ -795,12 +835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 388446,
-      "num": 388446,
-      "word": "B太举报男子卖鬼秤又给他捐款",
-      "onboard_time": 1716991338,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 390833,
+      "num": 244079,
+      "word": "鑫逸",
+      "onboard_time": 1716992120,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 387382,
@@ -907,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351849,
+      "num": 351849,
+      "word": "大熊猫宝力青宝将赴美",
+      "onboard_time": 1716991699,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350583,
       "num": 286369,
       "word": "王妈塌房",
@@ -987,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318222,
-      "num": 259597,
-      "word": "iPhone价格持续下降销量反弹",
-      "onboard_time": 1716989359,
-      "rank": 34,
-      "category": "数码,财经"
-    },
-    {
       "raw_hot": 318093,
       "num": 318093,
       "word": "燃油附加费降至50或30元",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1716971538,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 279001,
+      "num": 279001,
+      "word": "浙江隐秘富豪家族覆灭",
+      "onboard_time": 1716992779,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269973,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1716899537,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 257588,
-      "num": 257588,
-      "word": "月亮不落地",
-      "onboard_time": 1716991518,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 256264,
@@ -1273,6 +1313,22 @@
       "onboard_time": 1716972677,
       "rank": 25,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 230031,
+      "num": 230031,
+      "word": "你好星期六",
+      "onboard_time": 1716992298,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228323,
+      "num": 228323,
+      "word": "王妈翻车不仅是角色反差更是假共情",
+      "onboard_time": 1716992419,
+      "rank": 29,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 226944,
@@ -1443,14 +1499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201955,
-      "num": 201955,
-      "word": "大熊猫宝力青宝将赴美",
-      "onboard_time": 1716991699,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201624,
       "num": 201624,
       "word": "女排 二传",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1716954798,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195340,
-      "num": 195340,
-      "word": "鑫逸",
-      "onboard_time": 1716992120,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 194271,
@@ -1657,6 +1697,14 @@
       "onboard_time": 1716981377,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185797,
+      "num": 185797,
+      "word": "卓沅 又是一年丰收时",
+      "onboard_time": 1716992960,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 185466,
@@ -2731,6 +2779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93853,
+      "num": 1142287,
+      "word": "中国建世界最大跨度斜拉桥6月贯通",
+      "onboard_time": 1716990676,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90889,
       "num": 101423,
       "word": "一箭四星首次在日照附近海域发射",
@@ -2767,14 +2823,6 @@
       "num": 1311010,
       "word": "万千气象看广东",
       "onboard_time": 1716952760,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86461,
-      "num": 1142287,
-      "word": "中国建世界最大跨度斜拉桥6月贯通",
-      "onboard_time": 1716990676,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -2881,6 +2929,14 @@
       "onboard_time": 1716950657,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69040,
+      "num": 170640,
+      "word": "裹蒸粽火到海外",
+      "onboard_time": 1716992479,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 66847,
@@ -2992,6 +3048,14 @@
       "word": "卖瓜夫妻隔栅栏免费给小学生投喂西瓜",
       "onboard_time": 1716983177,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46125,
+      "num": 421953,
+      "word": "毕业生合影时为钱学森雕像撑伞",
+      "onboard_time": 1716993019,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
