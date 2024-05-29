@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716979067051,
+  "endTime": 1716981397327,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -6411,6 +6411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 961550,
+      "num": 378632,
+      "word": "韩国歌手时隔9年将在华开唱",
+      "onboard_time": 1716976698,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 961530,
       "num": 427872,
       "word": "秦海璐 番茄小说代言人",
@@ -10347,14 +10355,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 716533,
-      "num": 360570,
-      "word": "韩国歌手时隔9年将在华开唱",
-      "onboard_time": 1716976698,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 716081,
       "num": 716081,
       "word": "苹果承认新款iPadPro存在渲染失常",
@@ -11329,6 +11329,14 @@
       "onboard_time": 1715825178,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 678976,
+      "num": 678976,
+      "word": "官方确认不满嘉峪关武大选调生离职",
+      "onboard_time": 1716976637,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 678945,
@@ -14481,6 +14489,14 @@
       "onboard_time": 1716880098,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572079,
+      "num": 239334,
+      "word": "苗苗选择跟郑恺在一起的原因",
+      "onboard_time": 1716978019,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 571867,
@@ -18049,6 +18065,14 @@
       "onboard_time": 1716565461,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 481815,
+      "num": 481815,
+      "word": "用茅台打比方局长被免职",
+      "onboard_time": 1716978019,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481754,
@@ -21883,14 +21907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 411178,
-      "num": 290384,
-      "word": "用茅台打比方局长被免职",
-      "onboard_time": 1716978019,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411161,
       "num": 411161,
       "word": "乌尔善回应封神2上映时间",
@@ -22859,6 +22875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395529,
+      "num": 378328,
+      "word": "武汉平均招聘月薪10313元",
+      "onboard_time": 1716978138,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395375,
       "num": 233821,
       "word": "被我哥的孕期清单震住了",
@@ -23291,20 +23315,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 387396,
-      "num": 198994,
-      "word": "苗苗选择跟郑恺在一起的原因",
-      "onboard_time": 1716978019,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 387395,
       "num": 387395,
       "word": "范闲也跳晚安大小姐了",
       "onboard_time": 1716814578,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 387382,
+      "num": 387382,
+      "word": "妖刀 KSG",
+      "onboard_time": 1716979157,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 387182,
@@ -23921,6 +23945,14 @@
       "onboard_time": 1714564878,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 376513,
+      "num": 376513,
+      "word": "巴黎世家 矮子乐",
+      "onboard_time": 1716978438,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 376511,
@@ -26139,14 +26171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342273,
-      "num": 250950,
-      "word": "官方确认不满嘉峪关武大选调生离职",
-      "onboard_time": 1716976637,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342026,
       "num": 342026,
       "word": "沈星回 我的光猎大人",
@@ -27681,6 +27705,14 @@
       "onboard_time": 1715774898,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321695,
+      "num": 321695,
+      "word": "狐妖小红娘反转",
+      "onboard_time": 1716978739,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 321305,
@@ -32633,6 +32665,14 @@
       "onboard_time": 1714914619,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 265008,
+      "num": 265008,
+      "word": "中国女排vs荷兰女排",
+      "onboard_time": 1716980778,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 264931,
@@ -37763,6 +37803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225342,
+      "num": 225342,
+      "word": "张若昀每天都给唐艺昕做早餐",
+      "onboard_time": 1716980237,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225285,
       "num": 205842,
       "word": "打卡AAAAA景点叶修",
@@ -38321,14 +38369,6 @@
       "onboard_time": 1715519541,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221396,
-      "num": 221396,
-      "word": "武汉平均招聘月薪10313元",
-      "onboard_time": 1716978138,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221384,
@@ -40355,6 +40395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210879,
+      "num": 210879,
+      "word": "董事长带员工手写999封感谢信",
+      "onboard_time": 1716980778,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210846,
       "num": 210846,
       "word": "郑恺朱丹哭了",
@@ -41769,6 +41817,14 @@
       "onboard_time": 1714808299,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 205463,
+      "num": 205463,
+      "word": "XYG 挂牌",
+      "onboard_time": 1716980359,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 205436,
@@ -43529,6 +43585,14 @@
       "onboard_time": 1714830380,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200014,
+      "num": 200014,
+      "word": "狼队 团粉",
+      "onboard_time": 1716980897,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 200009,
@@ -54947,6 +55011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161767,
+      "num": 161767,
+      "word": "黄渤倪妮新片入围金爵奖",
+      "onboard_time": 1716979339,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161763,
       "num": 131939,
       "word": "女朋友的情绪价值过于饱满了",
@@ -56681,6 +56753,14 @@
       "onboard_time": 1715574021,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155543,
+      "num": 155543,
+      "word": "税务机关回应王妈评论区被查税刷屏",
+      "onboard_time": 1716979039,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155518,
@@ -58827,14 +58907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148561,
-      "num": 148561,
-      "word": "巴黎世家 矮子乐",
-      "onboard_time": 1716978438,
-      "rank": 34,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 148538,
       "num": 148538,
       "word": "狗妈妈冲进洪水中救出被困小狗",
@@ -59040,14 +59112,6 @@
       "word": "狐妖月红篇半是蜜糖半是伤",
       "onboard_time": 1716612498,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 147844,
-      "num": 147844,
-      "word": "狐妖小红娘反转",
-      "onboard_time": 1716978739,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -60027,6 +60091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144737,
+      "num": 144737,
+      "word": "韩国人在美国开麻辣烫店",
+      "onboard_time": 1716981017,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144725,
       "num": 144725,
       "word": "丁程鑫你才多大管欧豪叫宝宝",
@@ -60777,6 +60849,14 @@
       "onboard_time": 1716045738,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142299,
+      "num": 142299,
+      "word": "探班福宝",
+      "onboard_time": 1716980837,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142293,
@@ -70427,6 +70507,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 109297,
+      "num": 109297,
+      "word": "LGD开除涉事工作人员",
+      "onboard_time": 1716979758,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109288,
       "num": 109288,
       "word": "辽宁男篮冠军点",
@@ -71955,6 +72043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100949,
+      "num": 100949,
+      "word": "汪苏泷唱雨天被孙燕姿认证好听",
+      "onboard_time": 1716981377,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 100767,
       "num": 100767,
       "word": "当问我520想要什么礼物",
@@ -72233,14 +72329,6 @@
       "onboard_time": 1716214280,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98754,
-      "num": 98754,
-      "word": "税务机关回应王妈评论区被查税刷屏",
-      "onboard_time": 1716979039,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98742,
@@ -73363,6 +73451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89914,
+      "num": 89914,
+      "word": "语文老师真的能上体育课吗",
+      "onboard_time": 1716981317,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89422,
       "num": 89422,
       "word": "奥运会在即塞纳河还是臭的",
@@ -73393,6 +73489,14 @@
       "onboard_time": 1714581256,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89037,
+      "num": 89037,
+      "word": "易峥挂牌",
+      "onboard_time": 1716979218,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 88956,
@@ -79067,6 +79171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28415,
+      "num": 251826,
+      "word": "洗澡困难户渝爱解锁全自助冲凉",
+      "onboard_time": 1716979458,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28119,
       "num": 326414,
       "word": "悦鲜活急了",
@@ -80344,6 +80456,14 @@
       "word": "老人沉迷直播间买买买民警破门而入",
       "onboard_time": 1715027650,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11930,
+      "num": 380513,
+      "word": "工具类APP自动续费取消难",
+      "onboard_time": 1716981317,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
