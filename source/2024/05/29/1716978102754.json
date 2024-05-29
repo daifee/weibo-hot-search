@@ -1,0 +1,410 @@
+{
+  "runTime": 1716978102754,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2129835,
+        "num": 2129835,
+        "word": "孙楠退赛 汪涵表情",
+        "onboard_time": 1716972558,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1353478,
+        "num": 1353478,
+        "word": "苹果帮截图 5块一张",
+        "onboard_time": 1716972618,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15054,
+        "num": 1132419,
+        "word": "麦田丰收宛如金色的海洋",
+        "onboard_time": 1716967577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079824,
+        "num": 1079824,
+        "word": "王妈塌房 武汉求职市场",
+        "onboard_time": 1716973399,
+        "rank": 3,
+        "category": "社会议题,网红"
+      },
+      {
+        "raw_hot": 840147,
+        "num": 840147,
+        "word": "老舅说去歌手只能丢人",
+        "onboard_time": 1716976159,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377735,
+        "num": 377735,
+        "word": "我国成功从海上发射一箭4星",
+        "onboard_time": 1716974838,
+        "rank": 5,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 655882,
+        "num": 360570,
+        "word": "韩国歌手时隔9年将在华开唱",
+        "onboard_time": 1716976698,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 616570,
+        "num": 355129,
+        "word": "孙楠 不用送炭争取添花",
+        "onboard_time": 1716970398,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341219,
+        "num": 341219,
+        "word": "女孩把生病吃过的胶囊做成永生花",
+        "onboard_time": 1716957800,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20672,
+        "num": 339163,
+        "word": "院子嘎嘎大欢迎来晒粮",
+        "onboard_time": 1716977598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495058,
+        "num": 335344,
+        "word": "唐艺昕用纹身给张若昀安全感",
+        "onboard_time": 1716961938,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412039,
+        "num": 334432,
+        "word": "大女主觉醒可以延长花期",
+        "onboard_time": 1716976578,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381973,
+        "num": 329609,
+        "word": "赵露思直发深V",
+        "onboard_time": 1716973279,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328459,
+        "num": 328459,
+        "word": "王妈网店出售不正之风短袖",
+        "onboard_time": 1716960798,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258334,
+        "num": 258334,
+        "word": "钟薛高创始人卖红薯被指红薯刺客",
+        "onboard_time": 1716962539,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243469,
+        "num": 243469,
+        "word": "王楚钦邀请波尔一起训练",
+        "onboard_time": 1716973579,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226847,
+        "num": 226847,
+        "word": "燃油附加费降至50或30元",
+        "onboard_time": 1716972739,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 208279,
+        "num": 208279,
+        "word": "巴黎奥运会会徽 陈鲁豫",
+        "onboard_time": 1716972677,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 207226,
+        "num": 207226,
+        "word": "面对漂亮的老婆是这样的",
+        "onboard_time": 1716963498,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183940,
+        "num": 205622,
+        "word": "官方确认不满嘉峪关武大选调生离职",
+        "onboard_time": 1716976637,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573998,
+        "num": 204470,
+        "word": "男子捅死妻子出轨对象被判15年",
+        "onboard_time": 1716969497,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 314330,
+        "num": 202444,
+        "word": "何炅快回歌手补位",
+        "onboard_time": 1716976877,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286701,
+        "num": 201784,
+        "word": "白玉兰 男主",
+        "onboard_time": 1716966557,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221178,
+        "num": 199545,
+        "word": "洪啸确认孙楠补位",
+        "onboard_time": 1716969739,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198994,
+        "num": 198994,
+        "word": "苗苗选择跟郑恺在一起的原因",
+        "onboard_time": 1716978019,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197109,
+        "num": 197109,
+        "word": "王妈塌房后小号还在发广告",
+        "onboard_time": 1716969318,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192902,
+        "num": 192902,
+        "word": "请张予曦把眼镜焊在脸上",
+        "onboard_time": 1716970758,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188260,
+        "num": 188260,
+        "word": "为什么四川成了很多日本人的精神故乡",
+        "onboard_time": 1716975078,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181298,
+        "num": 181298,
+        "word": "刘宇宁和黑粉签订三十年之约",
+        "onboard_time": 1716975799,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167838,
+        "num": 167838,
+        "word": "张若昀唐艺昕 青丘狐传说",
+        "onboard_time": 1716976637,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167401,
+        "num": 167401,
+        "word": "当狗狗被允许上床休息",
+        "onboard_time": 1716977237,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165870,
+        "num": 165870,
+        "word": "王启年其实是叶轻眉给范闲的高铁",
+        "onboard_time": 1716968358,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159369,
+        "num": 159369,
+        "word": "胃肠道癌症6个早期征兆",
+        "onboard_time": 1716976279,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138463,
+        "num": 138463,
+        "word": "墨雨云间把蒋依依换成赵晴了",
+        "onboard_time": 1716968658,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132469,
+        "num": 132469,
+        "word": "吉利雷神发动机热效率全球最高",
+        "onboard_time": 1716976818,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137422,
+        "num": 131950,
+        "word": "网红王妈评论区查税刷屏",
+        "onboard_time": 1716977658,
+        "rank": 35,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 134555,
+        "num": 131467,
+        "word": "唐嫣都市辣妹",
+        "onboard_time": 1716975018,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130589,
+        "num": 130589,
+        "word": "Faker新皮肤疑似定价500美元",
+        "onboard_time": 1716961277,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122138,
+        "num": 122138,
+        "word": "小林制药已致5死280余人住院",
+        "onboard_time": 1716946577,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117527,
+        "num": 117527,
+        "word": "巴勒斯坦",
+        "onboard_time": 1716964037,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121318,
+        "num": 116543,
+        "word": "歌手 搁浅",
+        "onboard_time": 1716957020,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113579,
+        "num": 113579,
+        "word": "RedVelvet将回归",
+        "onboard_time": 1716973518,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113340,
+        "num": 113340,
+        "word": "瑞士旅游探路员叶修",
+        "onboard_time": 1716976578,
+        "rank": 42,
+        "category": "读书作家,旅游"
+      },
+      {
+        "raw_hot": 105238,
+        "num": 105238,
+        "word": "新浪微博号火箭发射",
+        "onboard_time": 1716975799,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103256,
+        "num": 103256,
+        "word": "广东经常下鱼吗",
+        "onboard_time": 1716977779,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99138,
+        "num": 99138,
+        "word": "王启年 不是属下是挚友",
+        "onboard_time": 1716974299,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98249,
+        "num": 98249,
+        "word": "用茅台打比方局长被免职",
+        "onboard_time": 1716978019,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97116,
+        "num": 97116,
+        "word": "王力宏档期",
+        "onboard_time": 1716966676,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96677,
+        "num": 96677,
+        "word": "种地吧",
+        "onboard_time": 1716972138,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14975,
+        "num": 96629,
+        "word": "租房党的实用小家电清单",
+        "onboard_time": 1716977718,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国同赤道几内亚是肝胆相照的好朋友#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716975278567,
+  "endTime": 1716978102754,
   "band_list": [
     {
       "raw_hot": 3200623,
@@ -115,6 +115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1079824,
+      "num": 1079824,
+      "word": "王妈塌房 武汉求职市场",
+      "onboard_time": 1716973399,
+      "rank": 3,
+      "category": "社会议题,网红"
+    },
+    {
       "raw_hot": 1075003,
       "num": 435515,
       "word": "第一批丁克开始操心养老",
@@ -177,6 +185,14 @@
       "onboard_time": 1716946458,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840147,
+      "num": 840147,
+      "word": "老舅说去歌手只能丢人",
+      "onboard_time": 1716976159,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 800520,
@@ -251,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 655882,
+      "num": 360570,
+      "word": "韩国歌手时隔9年将在华开唱",
+      "onboard_time": 1716976698,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 655580,
       "num": 646741,
       "word": "歌手第四期两首周杰伦的歌",
@@ -321,14 +345,6 @@
       "onboard_time": 1716939376,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 577777,
-      "num": 577777,
-      "word": "王妈塌房 武汉求职市场",
-      "onboard_time": 1716973399,
-      "rank": 3,
-      "category": "社会议题,网红"
     },
     {
       "raw_hot": 564205,
@@ -547,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 412039,
+      "num": 334432,
+      "word": "大女主觉醒可以延长花期",
+      "onboard_time": 1716976578,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407557,
       "num": 440969,
       "word": "首套房首付比例进入15%时代",
@@ -601,6 +625,14 @@
       "onboard_time": 1716907699,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377735,
+      "num": 377735,
+      "word": "我国成功从海上发射一箭4星",
+      "onboard_time": 1716974838,
+      "rank": 19,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 374614,
@@ -721,6 +753,14 @@
       "onboard_time": 1716972739,
       "rank": 15,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 314330,
+      "num": 202444,
+      "word": "何炅快回歌手补位",
+      "onboard_time": 1716976877,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 306578,
@@ -979,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211548,
-      "num": 211548,
-      "word": "我国成功从海上发射一箭4星",
-      "onboard_time": 1716974838,
-      "rank": 19,
-      "category": "国内时政,科学科普"
-    },
-    {
       "raw_hot": 210014,
       "num": 210014,
       "word": "以色列指定的人道主义区被炸21死",
@@ -1064,6 +1096,14 @@
       "word": "王鹤棣再录奔跑吧",
       "onboard_time": 1716949638,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198994,
+      "num": 198994,
+      "word": "苗苗选择跟郑恺在一起的原因",
+      "onboard_time": 1716978019,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1187,6 +1227,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188260,
+      "num": 188260,
+      "word": "为什么四川成了很多日本人的精神故乡",
+      "onboard_time": 1716975078,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 183940,
+      "num": 205622,
+      "word": "官方确认不满嘉峪关武大选调生离职",
+      "onboard_time": 1716976637,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181298,
+      "num": 181298,
+      "word": "刘宇宁和黑粉签订三十年之约",
+      "onboard_time": 1716975799,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179979,
       "num": 179979,
       "word": "宋亚轩唱歌",
@@ -1275,6 +1339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167838,
+      "num": 167838,
+      "word": "张若昀唐艺昕 青丘狐传说",
+      "onboard_time": 1716976637,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167401,
+      "num": 167401,
+      "word": "当狗狗被允许上床休息",
+      "onboard_time": 1716977237,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166673,
       "num": 166673,
       "word": "aespa美甲",
@@ -1361,6 +1441,14 @@
       "onboard_time": 1716946097,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 159369,
+      "num": 159369,
+      "word": "胃肠道癌症6个早期征兆",
+      "onboard_time": 1716976279,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156026,
@@ -1571,6 +1659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 137422,
+      "num": 131950,
+      "word": "网红王妈评论区查税刷屏",
+      "onboard_time": 1716977658,
+      "rank": 35,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 137186,
       "num": 137186,
       "word": "邱贻可邮票",
@@ -1625,6 +1721,14 @@
       "onboard_time": 1716950898,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132469,
+      "num": 132469,
+      "word": "吉利雷神发动机热效率全球最高",
+      "onboard_time": 1716976818,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 131895,
@@ -1859,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113340,
+      "num": 113340,
+      "word": "瑞士旅游探路员叶修",
+      "onboard_time": 1716976578,
+      "rank": 42,
+      "category": "读书作家,旅游"
+    },
+    {
       "raw_hot": 112206,
       "num": 115808,
       "word": "复写纸已经是时代的眼泪了吗",
@@ -1923,12 +2035,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106986,
-      "num": 106986,
-      "word": "为什么四川成了很多日本人的精神故乡",
-      "onboard_time": 1716975078,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 105238,
+      "num": 105238,
+      "word": "新浪微博号火箭发射",
+      "onboard_time": 1716975799,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 105149,
@@ -1947,12 +2059,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103256,
+      "num": 103256,
+      "word": "广东经常下鱼吗",
+      "onboard_time": 1716977779,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100692,
       "num": 100692,
       "word": "善宰小率婚纱照",
       "onboard_time": 1716906260,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98249,
+      "num": 98249,
+      "word": "用茅台打比方局长被免职",
+      "onboard_time": 1716978019,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97173,
@@ -2228,7 +2356,7 @@
     },
     {
       "raw_hot": 34645,
-      "num": 780319,
+      "num": 1132419,
       "word": "麦田丰收宛如金色的海洋",
       "onboard_time": 1716967577,
       "rank": 2,
@@ -2267,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20672,
+      "num": 339163,
+      "word": "院子嘎嘎大欢迎来晒粮",
+      "onboard_time": 1716977598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18363,
       "num": 24091,
       "word": "直击2024电视剧导演大会",
@@ -2289,6 +2425,14 @@
       "onboard_time": 1716926110,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 14975,
+      "num": 96629,
+      "word": "租房党的实用小家电清单",
+      "onboard_time": 1716977718,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 6514,
