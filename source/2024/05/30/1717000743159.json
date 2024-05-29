@@ -1,0 +1,410 @@
+{
+  "runTime": 1717000743159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 570644,
+        "num": 570644,
+        "word": "巴西总统宣布永久撤回驻以色列大使",
+        "onboard_time": 1716991398,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 523345,
+        "num": 523345,
+        "word": "全世界的大宗师都吻了上来",
+        "onboard_time": 1716992598,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38264,
+        "num": 468079,
+        "word": "中国建世界最大跨度斜拉桥6月贯通",
+        "onboard_time": 1716990676,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712157,
+        "num": 466605,
+        "word": "浙江隐秘富豪家族覆灭",
+        "onboard_time": 1716992779,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461350,
+        "num": 461350,
+        "word": "孙楠退赛 汪涵表情",
+        "onboard_time": 1716972558,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441718,
+        "num": 441718,
+        "word": "B太举报男子卖鬼秤又给他捐款",
+        "onboard_time": 1716991338,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456950,
+        "num": 412159,
+        "word": "张小斐 第一章回国",
+        "onboard_time": 1716992419,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366836,
+        "num": 366836,
+        "word": "朝鲜用气球向韩国投放大量废纸和污物",
+        "onboard_time": 1716989718,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 320320,
+        "num": 320320,
+        "word": "iPhone价格持续下降销量反弹",
+        "onboard_time": 1716989359,
+        "rank": 8,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 17221,
+        "num": 285081,
+        "word": "幼儿园六一汇演最卖力的是老师",
+        "onboard_time": 1716999915,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275185,
+        "num": 275185,
+        "word": "周杰伦特别嘉宾王俊凯",
+        "onboard_time": 1716985516,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239060,
+        "num": 239060,
+        "word": "缅甸地震",
+        "onboard_time": 1716998237,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237037,
+        "num": 237037,
+        "word": "郑乃馨早期言论",
+        "onboard_time": 1716981738,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237027,
+        "num": 237027,
+        "word": "刘端端演出了李承泽的灵魂",
+        "onboard_time": 1716998958,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206478,
+        "num": 206478,
+        "word": "陈萍萍的爱只给了叶轻眉和范闲",
+        "onboard_time": 1716995540,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190230,
+        "num": 190230,
+        "word": "淮竹 客串",
+        "onboard_time": 1716982697,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179533,
+        "num": 179533,
+        "word": "央广网评网红王妈翻车",
+        "onboard_time": 1716993379,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155310,
+        "num": 155310,
+        "word": "朱婷回来了",
+        "onboard_time": 1716990918,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126230,
+        "num": 126230,
+        "word": "袁心玥 击掌",
+        "onboard_time": 1716986658,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105325,
+        "num": 105325,
+        "word": "大熊猫宝力青宝将赴美",
+        "onboard_time": 1716991699,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591764,
+        "num": 105305,
+        "word": "校方回应大学生请5天假奔丧被砍掉2天",
+        "onboard_time": 1716996678,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304674,
+        "num": 105292,
+        "word": "小米高管抽奖抽中爱国网友",
+        "onboard_time": 1716998897,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227052,
+        "num": 105251,
+        "word": "37周孕妇糖耐不过在家锻炼",
+        "onboard_time": 1716995178,
+        "rank": 22,
+        "category": "母婴育儿,运动健身"
+      },
+      {
+        "raw_hot": 184564,
+        "num": 105242,
+        "word": "舍不得范思辙",
+        "onboard_time": 1716986356,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166712,
+        "num": 105200,
+        "word": "苗苗选择跟郑恺在一起的原因",
+        "onboard_time": 1716978019,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155268,
+        "num": 105191,
+        "word": "张若昀的业内口碑",
+        "onboard_time": 1716997757,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146183,
+        "num": 105174,
+        "word": "男子捅死妻子出轨对象被判15年",
+        "onboard_time": 1716969497,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 129930,
+        "num": 105125,
+        "word": "突然发现气味真的是记忆锚点",
+        "onboard_time": 1716995118,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123557,
+        "num": 105105,
+        "word": "刘诗诗狐妖月红篇镜头",
+        "onboard_time": 1716988158,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112433,
+        "num": 105084,
+        "word": "月亮不落地",
+        "onboard_time": 1716991518,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111370,
+        "num": 105066,
+        "word": "王妈塌房",
+        "onboard_time": 1716981918,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105591,
+        "num": 105026,
+        "word": "庆余年悬空庙刺杀",
+        "onboard_time": 1716988878,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105023,
+        "num": 105023,
+        "word": "姨妈巾一辈子要花多少钱",
+        "onboard_time": 1716987377,
+        "rank": 32,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 102683,
+        "num": 102683,
+        "word": "王者荣耀",
+        "onboard_time": 1716987739,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99050,
+        "num": 99050,
+        "word": "鑫逸",
+        "onboard_time": 1716992120,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97675,
+        "num": 97675,
+        "word": "官方确认不满嘉峪关武大选调生离职",
+        "onboard_time": 1716976637,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92925,
+        "num": 92925,
+        "word": "朱婷替补",
+        "onboard_time": 1716983477,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87759,
+        "num": 87759,
+        "word": "KBS封杀鱿鱼游戏吴永洙",
+        "onboard_time": 1716989239,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86975,
+        "num": 86975,
+        "word": "费介倒地",
+        "onboard_time": 1716988038,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84308,
+        "num": 84308,
+        "word": "4毛一片卫生巾你会买吗",
+        "onboard_time": 1716994999,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84087,
+        "num": 84087,
+        "word": "王楚然早八妆",
+        "onboard_time": 1716993500,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81816,
+        "num": 81816,
+        "word": "韩国歌手时隔9年将在华开唱",
+        "onboard_time": 1716976698,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79315,
+        "num": 79315,
+        "word": "李盈莹状态",
+        "onboard_time": 1716995300,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76273,
+        "num": 76273,
+        "word": "韩国人在美国开麻辣烫店",
+        "onboard_time": 1716981017,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 74496,
+        "num": 74496,
+        "word": "苏打绿直播",
+        "onboard_time": 1716994519,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70571,
+        "num": 70571,
+        "word": "妖刀 KSG",
+        "onboard_time": 1716979157,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66600,
+        "num": 66600,
+        "word": "女子每两周给40多个儿子送饭",
+        "onboard_time": 1716986898,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62758,
+        "num": 62758,
+        "word": "种地星球",
+        "onboard_time": 1717000395,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57199,
+        "num": 57199,
+        "word": "张杰说Precious是为女儿写的歌",
+        "onboard_time": 1716998539,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56938,
+        "num": 56938,
+        "word": "肖战骑马路透",
+        "onboard_time": 1716984257,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设更具内涵更有活力的中埃关系#"
+    }
+  }
+}

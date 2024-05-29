@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716999845147,
+  "endTime": 1717000743159,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -3931,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304674,
+      "num": 118132,
+      "word": "小米高管抽奖抽中爱国网友",
+      "onboard_time": 1716998897,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 304403,
       "num": 304403,
       "word": "福宝和邻居熊隔窗交流",
@@ -4899,11 +4907,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239060,
+      "num": 239060,
+      "word": "缅甸地震",
+      "onboard_time": 1716998237,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238062,
       "num": 238062,
       "word": "龚吓幂",
       "onboard_time": 1716822922,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237027,
+      "num": 237027,
+      "word": "刘端端演出了李承泽的灵魂",
+      "onboard_time": 1716998958,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -6155,14 +6179,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 196268,
-      "num": 118132,
-      "word": "小米高管抽奖抽中爱国网友",
-      "onboard_time": 1716998897,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 196099,
       "num": 225003,
       "word": "WTT常规挑战赛太原站2024",
@@ -6907,14 +6923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178668,
-      "num": 178668,
-      "word": "缅甸地震",
-      "onboard_time": 1716998237,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178567,
       "num": 165071,
       "word": "俞飞鸿小丈夫 超前精神状态",
@@ -7600,14 +7608,6 @@
       "word": "狐妖月红篇有自己的柜哥",
       "onboard_time": 1716902118,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162192,
-      "num": 116055,
-      "word": "刘端端演出了李承泽的灵魂",
-      "onboard_time": 1716998958,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -11059,6 +11059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62758,
+      "num": 62758,
+      "word": "种地星球",
+      "onboard_time": 1717000395,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62523,
       "num": 541133,
       "word": "猴哥听曲意外混到了编制",
@@ -11809,6 +11817,14 @@
       "onboard_time": 1716920412,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17221,
+      "num": 285081,
+      "word": "幼儿园六一汇演最卖力的是老师",
+      "onboard_time": 1716999915,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16636,

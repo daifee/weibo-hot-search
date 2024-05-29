@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1716999845147,
+  "endTime": 1717000743159,
   "band_list": [
     {
       "raw_hot": 863663,
@@ -83,6 +83,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 304674,
+      "num": 118132,
+      "word": "小米高管抽奖抽中爱国网友",
+      "onboard_time": 1716998897,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 278894,
       "num": 278894,
       "word": "陈萍萍的爱只给了叶轻眉和范闲",
@@ -105,6 +113,22 @@
       "onboard_time": 1716981738,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239060,
+      "num": 239060,
+      "word": "缅甸地震",
+      "onboard_time": 1716998237,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237027,
+      "num": 237027,
+      "word": "刘端端演出了李承泽的灵魂",
+      "onboard_time": 1716998958,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 235402,
@@ -147,28 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196268,
-      "num": 118132,
-      "word": "小米高管抽奖抽中爱国网友",
-      "onboard_time": 1716998897,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 189881,
       "num": 117267,
       "word": "张若昀的业内口碑",
       "onboard_time": 1716997757,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178668,
-      "num": 178668,
-      "word": "缅甸地震",
-      "onboard_time": 1716998237,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171701,
@@ -184,14 +192,6 @@
       "word": "刘诗诗狐妖月红篇镜头",
       "onboard_time": 1716988158,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162192,
-      "num": 116055,
-      "word": "刘端端演出了李承泽的灵魂",
-      "onboard_time": 1716998958,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -315,20 +315,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92925,
+      "num": 92925,
+      "word": "朱婷替补",
+      "onboard_time": 1716983477,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92745,
       "num": 92745,
       "word": "韩国人在美国开麻辣烫店",
       "onboard_time": 1716981017,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 91598,
-      "num": 91598,
-      "word": "朱婷替补",
-      "onboard_time": 1716983477,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 90959,
@@ -347,8 +347,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80277,
-      "num": 80277,
+      "raw_hot": 84308,
+      "num": 84308,
       "word": "4毛一片卫生巾你会买吗",
       "onboard_time": 1716994999,
       "rank": 45,
@@ -363,8 +363,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 70305,
-      "num": 70305,
+      "raw_hot": 70571,
+      "num": 70571,
       "word": "妖刀 KSG",
       "onboard_time": 1716979157,
       "rank": 47,
@@ -387,6 +387,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 62758,
+      "num": 62758,
+      "word": "种地星球",
+      "onboard_time": 1717000395,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49133,
       "num": 582373,
       "word": "中国建世界最大跨度斜拉桥6月贯通",
@@ -399,6 +407,14 @@
       "num": 339811,
       "word": "河南女摊主一个小行为两个大意义",
       "onboard_time": 1716998057,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17221,
+      "num": 285081,
+      "word": "幼儿园六一汇演最卖力的是老师",
+      "onboard_time": 1716999915,
       "rank": 9,
       "category": "社会新闻"
     }

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716999845147,
+  "endTime": 1717000743159,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -29211,6 +29211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304674,
+      "num": 118132,
+      "word": "小米高管抽奖抽中爱国网友",
+      "onboard_time": 1716998897,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 304587,
       "num": 304587,
       "word": "王源丁程鑫敖子逸都在长沙录综艺",
@@ -36091,6 +36099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239060,
+      "num": 239060,
+      "word": "缅甸地震",
+      "onboard_time": 1716998237,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238996,
       "num": 238996,
       "word": "Yamy淘汰万妮达哭了",
@@ -36337,6 +36353,14 @@
       "onboard_time": 1715437342,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237027,
+      "num": 237027,
+      "word": "刘端端演出了李承泽的灵魂",
+      "onboard_time": 1716998958,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 237023,
@@ -45235,14 +45259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196268,
-      "num": 118132,
-      "word": "小米高管抽奖抽中爱国网友",
-      "onboard_time": 1716998897,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 196229,
       "num": 196229,
       "word": "狼王爱德华兹",
@@ -50459,14 +50475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178668,
-      "num": 178668,
-      "word": "缅甸地震",
-      "onboard_time": 1716998237,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178666,
       "num": 178666,
       "word": "来自萨尔贡的明信片",
@@ -55353,14 +55361,6 @@
       "onboard_time": 1714815559,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162192,
-      "num": 116055,
-      "word": "刘端端演出了李承泽的灵魂",
-      "onboard_time": 1716998958,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 162158,
@@ -76651,6 +76651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62758,
+      "num": 62758,
+      "word": "种地星球",
+      "onboard_time": 1717000395,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62742,
       "num": 62742,
       "word": "诺里斯F1生涯首冠",
@@ -80777,6 +80785,14 @@
       "onboard_time": 1715092881,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 17221,
+      "num": 285081,
+      "word": "幼儿园六一汇演最卖力的是老师",
+      "onboard_time": 1716999915,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16988,
