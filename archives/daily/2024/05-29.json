@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716956653402,
+  "endTime": 1716957481349,
   "band_list": [
     {
       "raw_hot": 2124366,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1598298,
-      "num": 1144955,
+      "raw_hot": 1740061,
+      "num": 1309821,
       "word": "张若昀父母均没有出席儿子婚礼",
       "onboard_time": 1716954318,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 1305665,
+      "num": 1305665,
+      "word": "和瘦的人亲嘴真能变瘦吗",
+      "onboard_time": 1716952518,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1228508,
       "num": 1153464,
       "word": "李小冉 基因",
@@ -73,14 +81,6 @@
       "onboard_time": 1716949397,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 967552,
-      "num": 967552,
-      "word": "和瘦的人亲嘴真能变瘦吗",
-      "onboard_time": 1716952518,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 924330,
@@ -147,6 +147,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 649595,
+      "num": 220098,
+      "word": "29岁小伙痔疮就诊查出肠癌",
+      "onboard_time": 1716953598,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646741,
+      "num": 646741,
+      "word": "歌手第四期两首周杰伦的歌",
+      "onboard_time": 1716956299,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 643312,
+      "num": 643312,
+      "word": "用茅台乱打比方局长简历被撤",
+      "onboard_time": 1716952698,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630726,
       "num": 630726,
       "word": "20岁女生留学新加坡坠亡",
@@ -179,22 +203,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 579623,
-      "num": 579623,
-      "word": "用茅台乱打比方局长简历被撤",
-      "onboard_time": 1716952698,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575559,
-      "num": 220098,
-      "word": "29岁小伙痔疮就诊查出肠癌",
-      "onboard_time": 1716953598,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 564205,
       "num": 564205,
       "word": "孙丞潇回复金莎",
@@ -209,6 +217,14 @@
       "onboard_time": 1716948498,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 536689,
+      "num": 536689,
+      "word": "陈伟霆赵露思 许我耀眼",
+      "onboard_time": 1716954918,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 532163,
@@ -251,28 +267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 499280,
-      "num": 475721,
-      "word": "生育越晚更年期也可能会越晚",
-      "onboard_time": 1716951137,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 485930,
-      "num": 485930,
+      "raw_hot": 506938,
+      "num": 612169,
       "word": "肠胃不好人会变笨吗",
       "onboard_time": 1716953778,
       "rank": 11,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 484561,
-      "num": 484561,
-      "word": "陈伟霆赵露思 许我耀眼",
-      "onboard_time": 1716954918,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 499280,
+      "num": 475721,
+      "word": "生育越晚更年期也可能会越晚",
+      "onboard_time": 1716951137,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 481296,
@@ -283,8 +291,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 467395,
-      "num": 467395,
+      "raw_hot": 468188,
+      "num": 468188,
       "word": "杜华女儿8岁就开始化妆了",
       "onboard_time": 1716952817,
       "rank": 31,
@@ -347,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407557,
+      "num": 407557,
+      "word": "首套房首付比例进入15%时代",
+      "onboard_time": 1716953477,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404415,
       "num": 404415,
       "word": "官方回应福宝颈部断毛",
@@ -395,19 +411,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377272,
+      "num": 377272,
+      "word": "歌手 搁浅",
+      "onboard_time": 1716957020,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 364068,
+      "num": 364068,
+      "word": "繁花 白玉兰",
+      "onboard_time": 1716954437,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363477,
       "num": 363477,
       "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
       "onboard_time": 1716923711,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359379,
-      "num": 359379,
-      "word": "首套房首付比例进入15%时代",
-      "onboard_time": 1716953477,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -425,14 +449,6 @@
       "onboard_time": 1716906439,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345084,
-      "num": 345084,
-      "word": "繁花 白玉兰",
-      "onboard_time": 1716954437,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 334589,
@@ -473,14 +489,6 @@
       "onboard_time": 1716951137,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304222,
-      "num": 216929,
-      "word": "歌手第四期两首周杰伦的歌",
-      "onboard_time": 1716956299,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 301762,
@@ -555,7 +563,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 250763,
+      "raw_hot": 253324,
       "num": 212649,
       "word": "宰亨智媛 甜",
       "onboard_time": 1716954138,
@@ -577,6 +585,14 @@
       "onboard_time": 1716951616,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242023,
+      "num": 242023,
+      "word": "为什么洞洞鞋看着透气却容易得脚气",
+      "onboard_time": 1716952457,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 238666,
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216055,
+      "num": 201786,
+      "word": "王鹤棣觉得乐山适合录桃花坞",
+      "onboard_time": 1716956541,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210014,
       "num": 210014,
       "word": "以色列指定的人道主义区被炸21死",
@@ -651,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201786,
-      "num": 201786,
-      "word": "王鹤棣觉得乐山适合录桃花坞",
-      "onboard_time": 1716956541,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201002,
       "num": 201002,
       "word": "iPhone四月在华出货量猛涨近5成",
@@ -673,14 +689,6 @@
       "onboard_time": 1716949638,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197230,
-      "num": 197230,
-      "word": "为什么洞洞鞋看着透气却容易得脚气",
-      "onboard_time": 1716952457,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197008,
@@ -699,28 +707,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189941,
-      "num": 189941,
-      "word": "范闲大婚原著片段",
-      "onboard_time": 1716938536,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 191930,
+      "num": 191930,
+      "word": "小猫躲在墙角故意吓唬主人",
+      "onboard_time": 1716956180,
+      "rank": 39,
+      "category": "幽默"
     },
     {
-      "raw_hot": 188628,
-      "num": 188628,
+      "raw_hot": 191083,
+      "num": 191083,
+      "word": "严浩翔把全身重量踩在向佐胸口",
+      "onboard_time": 1716956900,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190248,
+      "num": 190248,
       "word": "姐们别拍视频了救救我",
       "onboard_time": 1716954258,
       "rank": 37,
       "category": "幽默"
     },
     {
-      "raw_hot": 179754,
-      "num": 179754,
-      "word": "小猫躲在墙角故意吓唬主人",
-      "onboard_time": 1716956180,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 189941,
+      "num": 189941,
+      "word": "范闲大婚原著片段",
+      "onboard_time": 1716938536,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 176611,
@@ -875,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143092,
+      "num": 143092,
+      "word": "向佐到底录了多少综艺",
+      "onboard_time": 1716957439,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143022,
       "num": 143022,
       "word": "叶修生日贺图",
@@ -905,6 +929,14 @@
       "onboard_time": 1716945856,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139215,
+      "num": 139215,
+      "word": "看得出爸爸们都是自愿参加的",
+      "onboard_time": 1716957379,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 138615,
@@ -1131,8 +1163,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 85888,
-      "num": 1261104,
+      "raw_hot": 87370,
+      "num": 1311010,
       "word": "万千气象看广东",
       "onboard_time": 1716952760,
       "rank": 2,
@@ -1161,6 +1193,14 @@
       "onboard_time": 1716890478,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79936,
+      "num": 201953,
+      "word": "百公里油耗不到一杯奶茶钱",
+      "onboard_time": 1716956541,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 79138,
@@ -1225,14 +1265,6 @@
       "onboard_time": 1716950657,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69614,
-      "num": 129489,
-      "word": "百公里油耗不到一杯奶茶钱",
-      "onboard_time": 1716956541,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 64697,
@@ -1323,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41303,
+      "num": 593636,
+      "word": "第22个国际维和人员日",
+      "onboard_time": 1716955220,
+      "rank": 9,
+      "category": "社会正能量,军事"
+    },
+    {
       "raw_hot": 41157,
       "num": 495095,
       "word": "总会为中式美学心动",
@@ -1369,14 +1409,6 @@
       "onboard_time": 1716915135,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25296,
-      "num": 593636,
-      "word": "第22个国际维和人员日",
-      "onboard_time": 1716955220,
-      "rank": 9,
-      "category": "社会正能量,军事"
     },
     {
       "raw_hot": 18363,

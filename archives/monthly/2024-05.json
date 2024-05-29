@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716956653402,
+  "endTime": 1716957481349,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1771,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1740061,
+      "num": 1309821,
+      "word": "张若昀父母均没有出席儿子婚礼",
+      "onboard_time": 1716954318,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1738553,
       "num": 1024516,
       "word": "花少北 就不耽误你的第八年了",
@@ -2129,14 +2137,6 @@
       "onboard_time": 1716812899,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1598298,
-      "num": 1144955,
-      "word": "张若昀父母均没有出席儿子婚礼",
-      "onboard_time": 1716954318,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1597734,
@@ -3633,6 +3633,14 @@
       "onboard_time": 1716898096,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1305665,
+      "num": 1305665,
+      "word": "和瘦的人亲嘴真能变瘦吗",
+      "onboard_time": 1716952518,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1301184,
@@ -6249,14 +6257,6 @@
       "onboard_time": 1716876379,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 967552,
-      "num": 967552,
-      "word": "和瘦的人亲嘴真能变瘦吗",
-      "onboard_time": 1716952518,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 967147,
@@ -12019,6 +12019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 649595,
+      "num": 220098,
+      "word": "29岁小伙痔疮就诊查出肠癌",
+      "onboard_time": 1716953598,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649040,
       "num": 649040,
       "word": "福宝非展区现状",
@@ -12065,6 +12073,14 @@
       "onboard_time": 1714778774,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 646741,
+      "num": 646741,
+      "word": "歌手第四期两首周杰伦的歌",
+      "onboard_time": 1716956299,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 646597,
@@ -12185,6 +12201,14 @@
       "onboard_time": 1716555744,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 643312,
+      "num": 643312,
+      "word": "用茅台乱打比方局长简历被撤",
+      "onboard_time": 1716952698,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 643308,
@@ -14091,14 +14115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 579623,
-      "num": 579623,
-      "word": "用茅台乱打比方局长简历被撤",
-      "onboard_time": 1716952698,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 579528,
       "num": 365305,
       "word": "麻辣烫建议放一会再吃",
@@ -14240,14 +14256,6 @@
       "word": "哈尔滨多人疑霸凌殴打小孩",
       "onboard_time": 1715041821,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575559,
-      "num": 220098,
-      "word": "29岁小伙痔疮就诊查出肠癌",
-      "onboard_time": 1716953598,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -15659,6 +15667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 536689,
+      "num": 536689,
+      "word": "陈伟霆赵露思 许我耀眼",
+      "onboard_time": 1716954918,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536076,
       "num": 365140,
       "word": "人体唯一能再生的器官是这样罢工的",
@@ -16851,6 +16867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 506938,
+      "num": 612169,
+      "word": "肠胃不好人会变笨吗",
+      "onboard_time": 1716953778,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 506611,
       "num": 506611,
       "word": "普京今日宣誓就职",
@@ -17723,14 +17747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 485930,
-      "num": 485930,
-      "word": "肠胃不好人会变笨吗",
-      "onboard_time": 1716953778,
-      "rank": 11,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 485848,
       "num": 445163,
       "word": "那英摔倒后起身继续录节目",
@@ -17761,14 +17777,6 @@
       "onboard_time": 1715213778,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484561,
-      "num": 484561,
-      "word": "陈伟霆赵露思 许我耀眼",
-      "onboard_time": 1716954918,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 484497,
@@ -18595,8 +18603,8 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 467395,
-      "num": 467395,
+      "raw_hot": 468188,
+      "num": 468188,
       "word": "杜华女儿8岁就开始化妆了",
       "onboard_time": 1716952817,
       "rank": 31,
@@ -21851,6 +21859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407557,
+      "num": 407557,
+      "word": "首套房首付比例进入15%时代",
+      "onboard_time": 1716953477,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407410,
       "num": 332420,
       "word": "童瑶张新成裸泳镜头",
@@ -23651,6 +23667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377272,
+      "num": 377272,
+      "word": "歌手 搁浅",
+      "onboard_time": 1716957020,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376841,
       "num": 152715,
       "word": "肖战工作室发了两个肖战",
@@ -24371,6 +24395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364068,
+      "num": 364068,
+      "word": "繁花 白玉兰",
+      "onboard_time": 1716954437,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364053,
       "num": 325689,
       "word": "ILLIT听众超过BLACKPINK",
@@ -24705,14 +24737,6 @@
       "onboard_time": 1715058620,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 359379,
-      "num": 359379,
-      "word": "首套房首付比例进入15%时代",
-      "onboard_time": 1716953477,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 359307,
@@ -25680,14 +25704,6 @@
       "word": "黄觉井柏然 好嗑",
       "onboard_time": 1715149341,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 345084,
-      "num": 345084,
-      "word": "繁花 白玉兰",
-      "onboard_time": 1716954437,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -28673,14 +28689,6 @@
       "onboard_time": 1715037075,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 304222,
-      "num": 216929,
-      "word": "歌手第四期两首周杰伦的歌",
-      "onboard_time": 1716956299,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 304163,
@@ -33635,6 +33643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253324,
+      "num": 212649,
+      "word": "宰亨智媛 甜",
+      "onboard_time": 1716954138,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253319,
       "num": 253319,
       "word": "丈夫家暴妻子获刑10个月",
@@ -33905,14 +33921,6 @@
       "onboard_time": 1716009259,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 250763,
-      "num": 212649,
-      "word": "宰亨智媛 甜",
-      "onboard_time": 1716954138,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 250758,
@@ -35025,6 +35033,14 @@
       "onboard_time": 1715849657,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242023,
+      "num": 242023,
+      "word": "为什么洞洞鞋看着透气却容易得脚气",
+      "onboard_time": 1716952457,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 241859,
@@ -38867,6 +38883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216055,
+      "num": 201786,
+      "word": "王鹤棣觉得乐山适合录桃花坞",
+      "onboard_time": 1716956541,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216029,
       "num": 216029,
       "word": "吉克隽逸公开200副自制美甲",
@@ -42307,14 +42331,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 201786,
-      "num": 201786,
-      "word": "王鹤棣觉得乐山适合录桃花坞",
-      "onboard_time": 1716956541,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201781,
       "num": 201781,
       "word": "王鹤棣 赢了不装等于没赢",
@@ -43937,14 +43953,6 @@
       "onboard_time": 1716113956,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 197230,
-      "num": 197230,
-      "word": "为什么洞洞鞋看着透气却容易得脚气",
-      "onboard_time": 1716952457,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197210,
@@ -45795,6 +45803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191930,
+      "num": 191930,
+      "word": "小猫躲在墙角故意吓唬主人",
+      "onboard_time": 1716956180,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191874,
       "num": 519312,
       "word": "杨帆开场2分钟染红",
@@ -46017,6 +46033,14 @@
       "onboard_time": 1716524721,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191083,
+      "num": 191083,
+      "word": "严浩翔把全身重量踩在向佐胸口",
+      "onboard_time": 1716956900,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 191069,
@@ -46289,6 +46313,14 @@
       "onboard_time": 1716127342,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190248,
+      "num": 190248,
+      "word": "姐们别拍视频了救救我",
+      "onboard_time": 1716954258,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 190244,
@@ -46825,14 +46857,6 @@
       "onboard_time": 1716003919,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188628,
-      "num": 188628,
-      "word": "姐们别拍视频了救救我",
-      "onboard_time": 1716954258,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 188572,
@@ -49177,14 +49201,6 @@
       "onboard_time": 1714895179,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179754,
-      "num": 179754,
-      "word": "小猫躲在墙角故意吓唬主人",
-      "onboard_time": 1716956180,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 179728,
@@ -59779,6 +59795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143092,
+      "num": 143092,
+      "word": "向佐到底录了多少综艺",
+      "onboard_time": 1716957439,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143069,
       "num": 143069,
       "word": "橘子 无聊的人类",
@@ -61057,6 +61081,14 @@
       "onboard_time": 1716418273,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139215,
+      "num": 139215,
+      "word": "看得出爸爸们都是自愿参加的",
+      "onboard_time": 1716957379,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 139184,
@@ -72571,6 +72603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 87370,
+      "num": 1311010,
+      "word": "万千气象看广东",
+      "onboard_time": 1716952760,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87360,
       "num": 107267,
       "word": "贵州姑妈篮球赛太有意思了",
@@ -72688,14 +72728,6 @@
       "word": "袁爷爷吴爷爷我们好想你们",
       "onboard_time": 1716308117,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85888,
-      "num": 1261104,
-      "word": "万千气象看广东",
-      "onboard_time": 1716952760,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -73145,6 +73177,14 @@
       "onboard_time": 1716851595,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79936,
+      "num": 201953,
+      "word": "百公里油耗不到一杯奶茶钱",
+      "onboard_time": 1716956541,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 79915,
@@ -74209,14 +74249,6 @@
       "onboard_time": 1716523099,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 69614,
-      "num": 129489,
-      "word": "百公里油耗不到一杯奶茶钱",
-      "onboard_time": 1716956541,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 69571,
@@ -77011,6 +77043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41303,
+      "num": 593636,
+      "word": "第22个国际维和人员日",
+      "onboard_time": 1716955220,
+      "rank": 9,
+      "category": "社会正能量,军事"
+    },
+    {
       "raw_hot": 41225,
       "num": 1000092,
       "word": "5月22日是国际生物多样性日",
@@ -78217,14 +78257,6 @@
       "onboard_time": 1714706719,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25296,
-      "num": 593636,
-      "word": "第22个国际维和人员日",
-      "onboard_time": 1716955220,
-      "rank": 9,
-      "category": "社会正能量,军事"
     },
     {
       "raw_hot": 25066,
