@@ -1,0 +1,410 @@
+{
+  "runTime": 1717007058554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 169126,
+        "num": 169126,
+        "word": "巴西总统宣布永久撤回驻以色列大使",
+        "onboard_time": 1716991398,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147487,
+        "num": 147487,
+        "word": "全世界的大宗师都吻了上来",
+        "onboard_time": 1716992598,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11467,
+        "num": 143543,
+        "word": "我国首个大西洋载人深潜科考任务完成",
+        "onboard_time": 1716990257,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222113,
+        "num": 143352,
+        "word": "浙江隐秘富豪家族覆灭",
+        "onboard_time": 1716992779,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141747,
+        "num": 141747,
+        "word": "孙楠退赛 汪涵表情",
+        "onboard_time": 1716972558,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137116,
+        "num": 137116,
+        "word": "B太举报男子卖鬼秤又给他捐款",
+        "onboard_time": 1716991338,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125103,
+        "num": 125103,
+        "word": "朝鲜用气球向韩国投放大量废纸和污物",
+        "onboard_time": 1716989718,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119646,
+        "num": 119646,
+        "word": "iPhone价格持续下降销量反弹",
+        "onboard_time": 1716989359,
+        "rank": 7,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 92641,
+        "num": 92641,
+        "word": "王俊凯唱完蔡依林唱周杰伦",
+        "onboard_time": 1717001295,
+        "rank": 8,
+        "category": "演出,综艺"
+      },
+      {
+        "raw_hot": 7188,
+        "num": 91388,
+        "word": "河南女摊主一个小行为两个大意义",
+        "onboard_time": 1716998057,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90329,
+        "num": 90329,
+        "word": "郑乃馨早期言论",
+        "onboard_time": 1716981738,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69988,
+        "num": 69988,
+        "word": "刘端端演出了李承泽的灵魂",
+        "onboard_time": 1716998958,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66170,
+        "num": 66170,
+        "word": "缅甸地震",
+        "onboard_time": 1716998237,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68601,
+        "num": 65770,
+        "word": "周杰伦特别嘉宾王俊凯",
+        "onboard_time": 1716985516,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64910,
+        "num": 64910,
+        "word": "张小斐 第一章回国",
+        "onboard_time": 1716992419,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63866,
+        "num": 63866,
+        "word": "朱婷回来了",
+        "onboard_time": 1716990918,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62799,
+        "num": 62799,
+        "word": "王者荣耀",
+        "onboard_time": 1716987739,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56105,
+        "num": 56105,
+        "word": "淮竹 客串",
+        "onboard_time": 1716982697,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47316,
+        "num": 47316,
+        "word": "朱婷替补",
+        "onboard_time": 1716983477,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46509,
+        "num": 46509,
+        "word": "央广网评网红王妈翻车",
+        "onboard_time": 1716993379,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78562,
+        "num": 46233,
+        "word": "校方回应大学生请5天假奔丧被砍掉2天",
+        "onboard_time": 1716996678,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61419,
+        "num": 46111,
+        "word": "小米高管抽奖抽中爱国网友",
+        "onboard_time": 1716998897,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49112,
+        "num": 45673,
+        "word": "王妈塌房",
+        "onboard_time": 1716981918,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 49040,
+        "num": 45431,
+        "word": "舍不得范思辙",
+        "onboard_time": 1716986356,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45379,
+        "num": 45379,
+        "word": "袁心玥 击掌",
+        "onboard_time": 1716986658,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43108,
+        "num": 43108,
+        "word": "广美学生毕设以父亲为原型铸钢雕",
+        "onboard_time": 1717002493,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38544,
+        "num": 38544,
+        "word": "韩国人在美国开麻辣烫店",
+        "onboard_time": 1716981017,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 37679,
+        "num": 37679,
+        "word": "KBS封杀鱿鱼游戏吴永洙",
+        "onboard_time": 1716989239,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37487,
+        "num": 37487,
+        "word": "陈萍萍的爱只给了叶轻眉和范闲",
+        "onboard_time": 1716995540,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36128,
+        "num": 36128,
+        "word": "大熊猫宝力青宝将赴美",
+        "onboard_time": 1716991699,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35599,
+        "num": 35599,
+        "word": "月亮不落地",
+        "onboard_time": 1716991518,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35288,
+        "num": 35288,
+        "word": "男子捅死妻子出轨对象被判15年",
+        "onboard_time": 1716969497,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 35158,
+        "num": 35158,
+        "word": "李盈莹状态",
+        "onboard_time": 1716995300,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34575,
+        "num": 34575,
+        "word": "费介倒地",
+        "onboard_time": 1716988038,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34517,
+        "num": 34517,
+        "word": "妖刀 KSG",
+        "onboard_time": 1716979157,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33368,
+        "num": 33368,
+        "word": "歌手2024官宣孙楠",
+        "onboard_time": 1717005852,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33117,
+        "num": 33117,
+        "word": "姨妈巾一辈子要花多少钱",
+        "onboard_time": 1716987377,
+        "rank": 36,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 33039,
+        "num": 33039,
+        "word": "华春莹发加沙女孩流浪视频",
+        "onboard_time": 1717006032,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30306,
+        "num": 30306,
+        "word": "苗苗选择跟郑恺在一起的原因",
+        "onboard_time": 1716978019,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30085,
+        "num": 30085,
+        "word": "官方确认不满嘉峪关武大选调生离职",
+        "onboard_time": 1716976637,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29968,
+        "num": 29968,
+        "word": "张若昀的业内口碑",
+        "onboard_time": 1716997757,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29619,
+        "num": 29619,
+        "word": "韩国歌手时隔9年将在华开唱",
+        "onboard_time": 1716976698,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29038,
+        "num": 29038,
+        "word": "鑫逸",
+        "onboard_time": 1716992120,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29020,
+        "num": 29020,
+        "word": "庆余年悬空庙刺杀",
+        "onboard_time": 1716988878,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27516,
+        "num": 27516,
+        "word": "女子每两周给40多个儿子送饭",
+        "onboard_time": 1716986898,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26753,
+        "num": 26753,
+        "word": "刘诗诗狐妖月红篇镜头",
+        "onboard_time": 1716988158,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26542,
+        "num": 26542,
+        "word": "37周孕妇糖耐不过在家锻炼",
+        "onboard_time": 1716995178,
+        "rank": 46,
+        "category": "母婴育儿,运动健身"
+      },
+      {
+        "raw_hot": 26393,
+        "num": 26393,
+        "word": "突然发现气味真的是记忆锚点",
+        "onboard_time": 1716995118,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25774,
+        "num": 25774,
+        "word": "翻唱",
+        "onboard_time": 1717002493,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22344,
+        "num": 24883,
+        "word": "王楚然早八妆",
+        "onboard_time": 1716993500,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见全国公安工作会议代表#"
+    }
+  }
+}
