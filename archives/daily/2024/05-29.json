@@ -1,7 +1,15 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716946957884,
+  "endTime": 1716950090055,
   "band_list": [
+    {
+      "raw_hot": 2107816,
+      "num": 2107816,
+      "word": "小林制药已致5死280余人住院",
+      "onboard_time": 1716946577,
+      "rank": 7,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1560600,
       "num": 1560600,
@@ -43,6 +51,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 784407,
+      "num": 784407,
+      "word": "重庆夫妻疑被卖到缅甸最新进展",
+      "onboard_time": 1716946458,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 774829,
       "num": 774829,
       "word": "金价暴涨金店老板们不敢进货了",
@@ -57,6 +73,14 @@
       "onboard_time": 1716906140,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 747456,
+      "num": 747456,
+      "word": "张若昀在家里为唐艺昕备有菜单",
+      "onboard_time": 1716948197,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 700675,
@@ -99,12 +123,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 561397,
-      "num": 397180,
+      "raw_hot": 564205,
+      "num": 564205,
       "word": "孙丞潇回复金莎",
       "onboard_time": 1716945617,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561105,
+      "num": 561105,
+      "word": "种地吧音乐会报名",
+      "onboard_time": 1716948498,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 532163,
@@ -123,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452419,
-      "num": 452419,
-      "word": "小林制药已致5死280余人住院",
-      "onboard_time": 1716946577,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 457650,
+      "num": 457650,
+      "word": "王妈在公司有绝对的话语权",
+      "onboard_time": 1716947656,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 448154,
@@ -161,6 +193,22 @@
       "onboard_time": 1716903619,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 424843,
+      "num": 424843,
+      "word": "章昊这次回国不是体测是跑男",
+      "onboard_time": 1716948498,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 422661,
+      "num": 422661,
+      "word": "i人女生工作两年加了4000好友",
+      "onboard_time": 1716945258,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 404415,
@@ -209,14 +257,6 @@
       "onboard_time": 1716923711,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357225,
-      "num": 357225,
-      "word": "i人女生工作两年加了4000好友",
-      "onboard_time": 1716945258,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 350491,
@@ -275,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259852,
+      "num": 435628,
+      "word": "老祖宗的顶级审美此刻具象化了",
+      "onboard_time": 1716944477,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257800,
       "num": 245639,
       "word": "李沁的头冠是3D打印的",
@@ -323,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224416,
-      "num": 435628,
-      "word": "老祖宗的顶级审美此刻具象化了",
-      "onboard_time": 1716944477,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220236,
       "num": 220236,
       "word": "老人晨练时心梗被路人用AED救回",
@@ -339,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211337,
+      "num": 204735,
+      "word": "张若昀唐艺昕是情侣名",
+      "onboard_time": 1716949877,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210014,
       "num": 210014,
       "word": "以色列指定的人道主义区被炸21死",
       "onboard_time": 1716942739,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 204284,
+      "num": 204284,
+      "word": "多家银行暂停无卡存取款",
+      "onboard_time": 1716949397,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203452,
@@ -371,12 +427,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 192923,
-      "num": 192923,
-      "word": "重庆夫妻疑被卖到缅甸最新进展",
-      "onboard_time": 1716946458,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 193322,
+      "num": 193322,
+      "word": "王鹤棣再录奔跑吧",
+      "onboard_time": 1716949638,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 189941,
@@ -459,6 +515,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150880,
+      "num": 150880,
+      "word": "苗苗发疯日常",
+      "onboard_time": 1716947718,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148664,
+      "num": 205794,
+      "word": "一人一句祝林孝埈生快",
+      "onboard_time": 1716946156,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147855,
       "num": 147855,
       "word": "雷佳音头比章子怡大两倍",
@@ -481,6 +553,14 @@
       "onboard_time": 1716941478,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143022,
+      "num": 143022,
+      "word": "叶修生日贺图",
+      "onboard_time": 1716948617,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 139649,
@@ -531,12 +611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 132552,
-      "num": 205794,
-      "word": "一人一句祝林孝埈生快",
-      "onboard_time": 1716946156,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 131270,
+      "num": 131270,
+      "word": "法拉第未来去年营收80万美元",
+      "onboard_time": 1716949457,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 127535,
@@ -593,6 +673,14 @@
       "onboard_time": 1716945497,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119567,
+      "num": 119567,
+      "word": "胡军夸张若昀是特别顾家的人",
+      "onboard_time": 1716948377,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 117452,
@@ -667,12 +755,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86914,
+      "num": 86914,
+      "word": "白头发拔还是不拔",
+      "onboard_time": 1716949936,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 84444,
       "num": 138288,
       "word": "福宝啥时候上下班全看自己的心情",
       "onboard_time": 1716908118,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84198,
+      "num": 84198,
+      "word": "只要我转得快红酒就不会洒",
+      "onboard_time": 1716948018,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 80419,
@@ -780,7 +884,7 @@
     },
     {
       "raw_hot": 58365,
-      "num": 935734,
+      "num": 1020193,
       "word": "浩瀚太空再一次留下中国足迹",
       "onboard_time": 1716897798,
       "rank": 2,
@@ -817,6 +921,14 @@
       "onboard_time": 1716928991,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43721,
+      "num": 561546,
+      "word": "00后女生绘制彩色国画立体灵动",
+      "onboard_time": 1716948797,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39669,
