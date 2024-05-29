@@ -1,0 +1,410 @@
+{
+  "runTime": 1716989723803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1649076,
+        "num": 1649076,
+        "word": "周杰伦特别嘉宾王俊凯",
+        "onboard_time": 1716985516,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1171942,
+        "num": 1171942,
+        "word": "袁心玥 击掌",
+        "onboard_time": 1716986658,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23560,
+        "num": 1026331,
+        "word": "三夏时节好丰景",
+        "onboard_time": 1716967457,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002552,
+        "num": 1002552,
+        "word": "孙楠退赛 汪涵表情",
+        "onboard_time": 1716972558,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 884705,
+        "num": 884705,
+        "word": "朱婷替补",
+        "onboard_time": 1716983477,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397410,
+        "num": 397410,
+        "word": "逐步取消各地新能源车限购",
+        "onboard_time": 1716983115,
+        "rank": 5,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 806581,
+        "num": 387406,
+        "word": "舍不得范思辙",
+        "onboard_time": 1716986356,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367220,
+        "num": 367220,
+        "word": "官方确认不满嘉峪关武大选调生离职",
+        "onboard_time": 1716976637,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97695,
+        "num": 357793,
+        "word": "我国成功从海上发射一箭4星",
+        "onboard_time": 1716974838,
+        "rank": 8,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 74555,
+        "num": 346595,
+        "word": "女生为圆医生梦本科毕业后重新高考",
+        "onboard_time": 1716987497,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 607514,
+        "num": 334982,
+        "word": "郑乃馨早期言论",
+        "onboard_time": 1716981738,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587588,
+        "num": 323836,
+        "word": "汪涵应该感谢我",
+        "onboard_time": 1716984858,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478866,
+        "num": 315789,
+        "word": "淮竹 客串",
+        "onboard_time": 1716982697,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391858,
+        "num": 311265,
+        "word": "费介倒地",
+        "onboard_time": 1716988038,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375969,
+        "num": 295890,
+        "word": "刘诗诗狐妖月红篇镜头",
+        "onboard_time": 1716988158,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289415,
+        "num": 289415,
+        "word": "王者荣耀",
+        "onboard_time": 1716987739,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263590,
+        "num": 263590,
+        "word": "中国女排1比1荷兰女排",
+        "onboard_time": 1716987256,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240883,
+        "num": 240883,
+        "word": "武汉平均招聘月薪10313元",
+        "onboard_time": 1716978138,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222332,
+        "num": 222332,
+        "word": "中国女排vs荷兰女排",
+        "onboard_time": 1716980778,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201965,
+        "num": 222183,
+        "word": "南京Hero久竞 无畏",
+        "onboard_time": 1716984017,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 492054,
+        "num": 222017,
+        "word": "姨妈巾一辈子要花多少钱",
+        "onboard_time": 1716987377,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 469233,
+        "num": 221849,
+        "word": "男子捅死妻子出轨对象被判15年",
+        "onboard_time": 1716969497,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 331501,
+        "num": 221646,
+        "word": "韩国人在美国开麻辣烫店",
+        "onboard_time": 1716981017,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 324739,
+        "num": 221468,
+        "word": "苗苗选择跟郑恺在一起的原因",
+        "onboard_time": 1716978019,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248628,
+        "num": 221259,
+        "word": "韩国歌手时隔9年将在华开唱",
+        "onboard_time": 1716976698,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243641,
+        "num": 221087,
+        "word": "张若昀每天都给唐艺昕做早餐",
+        "onboard_time": 1716980237,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230484,
+        "num": 220935,
+        "word": "胡歌 人生有很多预料不到的下一秒",
+        "onboard_time": 1716987377,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226345,
+        "num": 220844,
+        "word": "庆余年悬空庙刺杀",
+        "onboard_time": 1716988878,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220669,
+        "num": 220669,
+        "word": "庆余年2",
+        "onboard_time": 1716987618,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135811,
+        "num": 212253,
+        "word": "这种水果很甜升糖指数却不高",
+        "onboard_time": 1716981437,
+        "rank": 29,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 207835,
+        "num": 207835,
+        "word": "内娱红毯为什么变无聊了",
+        "onboard_time": 1716983538,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201897,
+        "num": 201897,
+        "word": "KBS封杀鱿鱼游戏吴永洙",
+        "onboard_time": 1716989239,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29073,
+        "num": 187249,
+        "word": "王星越新脑子就是懂摸鱼",
+        "onboard_time": 1716989178,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182474,
+        "num": 182474,
+        "word": "朱婷明日出战荷兰",
+        "onboard_time": 1716989478,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176114,
+        "num": 176114,
+        "word": "iPhone价格持续下降销量反弹",
+        "onboard_time": 1716989359,
+        "rank": 34,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 175617,
+        "num": 175617,
+        "word": "不卸妆睡觉的危害",
+        "onboard_time": 1716987437,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 173986,
+        "num": 173986,
+        "word": "用茅台打比方局长被免职",
+        "onboard_time": 1716978019,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173860,
+        "num": 173860,
+        "word": "lgc传奇杯",
+        "onboard_time": 1716989297,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166175,
+        "num": 166175,
+        "word": "在家健身更有性价比",
+        "onboard_time": 1716988338,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 147280,
+        "num": 147280,
+        "word": "王妈塌房",
+        "onboard_time": 1716981918,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143743,
+        "num": 143743,
+        "word": "肖战骑马路透",
+        "onboard_time": 1716984257,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141464,
+        "num": 141464,
+        "word": "女子每两周给40多个儿子送饭",
+        "onboard_time": 1716986898,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133977,
+        "num": 133977,
+        "word": "老舅说去歌手只能丢人",
+        "onboard_time": 1716976159,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133415,
+        "num": 133415,
+        "word": "狐妖小红娘反转",
+        "onboard_time": 1716978739,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130335,
+        "num": 130335,
+        "word": "妖刀 KSG",
+        "onboard_time": 1716979157,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121649,
+        "num": 121649,
+        "word": "以后或能跟机器人谈恋爱",
+        "onboard_time": 1716984017,
+        "rank": 45,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 119384,
+        "num": 119384,
+        "word": "白衣爆料无畏挂牌",
+        "onboard_time": 1716987798,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118924,
+        "num": 118924,
+        "word": "唐艺昕用纹身给张若昀安全感",
+        "onboard_time": 1716961938,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116751,
+        "num": 116751,
+        "word": "东北工地10元自助餐",
+        "onboard_time": 1716988459,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115799,
+        "num": 115799,
+        "word": "奶牛猫是最有骨气的猫",
+        "onboard_time": 1716986658,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增强广大劳动者的获得感幸福感安全感#"
+    }
+  }
+}

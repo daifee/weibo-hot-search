@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716988891377,
+  "endTime": 1716989723803,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1171942,
+      "num": 1171942,
+      "word": "袁心玥 击掌",
+      "onboard_time": 1716986658,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1161535,
       "num": 1161535,
       "word": "淡黄色是牙医公认的健康色号",
@@ -787,20 +795,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 893487,
-      "num": 893487,
-      "word": "袁心玥 击掌",
-      "onboard_time": 1716986658,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 886181,
       "num": 886181,
       "word": "台湾",
       "onboard_time": 1716859398,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 884705,
+      "num": 884705,
+      "word": "朱婷替补",
+      "onboard_time": 1716983477,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 880606,
@@ -947,14 +955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 832332,
-      "num": 832332,
-      "word": "朱婷替补",
-      "onboard_time": 1716983477,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 819818,
       "num": 432807,
       "word": "看得出他是五竹",
@@ -1035,6 +1035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 806581,
+      "num": 387406,
+      "word": "舍不得范思辙",
+      "onboard_time": 1716986356,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 800754,
       "num": 800754,
       "word": "微信背景图",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1716969497,
       "rank": 20,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 780903,
-      "num": 357633,
-      "word": "舍不得范思辙",
-      "onboard_time": 1716986356,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 774829,
@@ -1715,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587588,
+      "num": 326223,
+      "word": "汪涵应该感谢我",
+      "onboard_time": 1716984858,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585066,
       "num": 585066,
       "word": "安徽通报滁河水体污染处置情况",
@@ -1801,14 +1809,6 @@
       "onboard_time": 1716735080,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 570334,
-      "num": 326223,
-      "word": "汪涵应该感谢我",
-      "onboard_time": 1716984858,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 568946,
@@ -2313,6 +2313,14 @@
       "onboard_time": 1716809717,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 492054,
+      "num": 247438,
+      "word": "姨妈巾一辈子要花多少钱",
+      "onboard_time": 1716987377,
+      "rank": 22,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 489086,
@@ -2931,6 +2939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397410,
+      "num": 397410,
+      "word": "逐步取消各地新能源车限购",
+      "onboard_time": 1716983115,
+      "rank": 39,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 396322,
       "num": 396322,
       "word": "爱奇艺麦田音乐节",
@@ -2985,6 +3001,14 @@
       "onboard_time": 1716880578,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 391858,
+      "num": 311265,
+      "word": "费介倒地",
+      "onboard_time": 1716988038,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 390820,
@@ -3121,6 +3145,14 @@
       "onboard_time": 1716706037,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 375969,
+      "num": 295890,
+      "word": "刘诗诗狐妖月红篇镜头",
+      "onboard_time": 1716988158,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 374614,
@@ -3499,14 +3531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 334612,
-      "num": 334612,
-      "word": "逐步取消各地新能源车限购",
-      "onboard_time": 1716983115,
-      "rank": 39,
-      "category": "汽车,社会新闻"
-    },
-    {
       "raw_hot": 334589,
       "num": 315170,
       "word": "李云睿李承泽 抽象对话",
@@ -3545,14 +3569,6 @@
       "onboard_time": 1716873858,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 330164,
-      "num": 247438,
-      "word": "姨妈巾一辈子要花多少钱",
-      "onboard_time": 1716987377,
-      "rank": 22,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 327390,
@@ -3825,14 +3841,6 @@
       "onboard_time": 1716782900,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 301010,
-      "num": 247328,
-      "word": "费介倒地",
-      "onboard_time": 1716988038,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 300670,
@@ -4267,12 +4275,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 263515,
-      "num": 247319,
-      "word": "刘诗诗狐妖月红篇镜头",
-      "onboard_time": 1716988158,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 263590,
+      "num": 263590,
+      "word": "中国女排1比1荷兰女排",
+      "onboard_time": 1716987256,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 263294,
@@ -4481,14 +4489,6 @@
       "onboard_time": 1716767957,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 251874,
-      "num": 251874,
-      "word": "中国女排1比1荷兰女排",
-      "onboard_time": 1716987256,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 251745,
@@ -4867,6 +4867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230484,
+      "num": 220935,
+      "word": "胡歌 人生有很多预料不到的下一秒",
+      "onboard_time": 1716987377,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230274,
       "num": 230274,
       "word": "巴黎奥运会会徽 陈鲁豫",
@@ -4961,6 +4969,14 @@
       "onboard_time": 1716800298,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 226345,
+      "num": 220844,
+      "word": "庆余年悬空庙刺杀",
+      "onboard_time": 1716988878,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 225861,
@@ -5675,6 +5691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201897,
+      "num": 201897,
+      "word": "KBS封杀鱿鱼游戏吴永洙",
+      "onboard_time": 1716989239,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201824,
       "num": 201824,
       "word": "保时捷中国与全体授权经销商联合声明",
@@ -5908,7 +5932,7 @@
     },
     {
       "raw_hot": 197039,
-      "num": 210602,
+      "num": 212253,
       "word": "这种水果很甜升糖指数却不高",
       "onboard_time": 1716981437,
       "rank": 29,
@@ -6539,6 +6563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182474,
+      "num": 182474,
+      "word": "朱婷明日出战荷兰",
+      "onboard_time": 1716989478,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182281,
       "num": 182281,
       "word": "排球少年声优都是狠人",
@@ -6747,12 +6779,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176114,
+      "num": 176114,
+      "word": "iPhone价格持续下降销量反弹",
+      "onboard_time": 1716989359,
+      "rank": 34,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 175670,
       "num": 175670,
       "word": "王鹤棣把王传君推自爆了",
       "onboard_time": 1716788479,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175617,
+      "num": 175617,
+      "word": "不卸妆睡觉的危害",
+      "onboard_time": 1716987437,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 175343,
@@ -6811,12 +6859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174215,
-      "num": 174215,
-      "word": "胡歌 人生有很多预料不到的下一秒",
-      "onboard_time": 1716987377,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 173860,
+      "num": 173860,
+      "word": "lgc传奇杯",
+      "onboard_time": 1716989297,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 173783,
@@ -7131,6 +7179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166175,
+      "num": 166175,
+      "word": "在家健身更有性价比",
+      "onboard_time": 1716988338,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 165864,
       "num": 165864,
       "word": "唐嫣T锦绣六月刊封面",
@@ -7393,14 +7449,6 @@
       "onboard_time": 1716870559,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159023,
-      "num": 159023,
-      "word": "不卸妆睡觉的危害",
-      "onboard_time": 1716987437,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 158702,
@@ -8073,6 +8121,14 @@
       "onboard_time": 1716876678,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 141464,
+      "num": 247374,
+      "word": "女子每两周给40多个儿子送饭",
+      "onboard_time": 1716986898,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141459,
@@ -8889,14 +8945,6 @@
       "onboard_time": 1716879018,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 127947,
-      "num": 127947,
-      "word": "在家健身更有性价比",
-      "onboard_time": 1716988338,
-      "rank": 43,
-      "category": "运动健身"
     },
     {
       "raw_hot": 127535,
@@ -9835,14 +9883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107001,
-      "num": 107001,
-      "word": "庆余年悬空庙刺杀",
-      "onboard_time": 1716988878,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106922,
       "num": 106922,
       "word": "手机一定要清理的四大文件",
@@ -9905,14 +9945,6 @@
       "onboard_time": 1716736819,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105014,
-      "num": 247374,
-      "word": "女子每两周给40多个儿子送饭",
-      "onboard_time": 1716986898,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104564,
@@ -10020,7 +10052,7 @@
     },
     {
       "raw_hot": 100495,
-      "num": 247568,
+      "num": 346595,
       "word": "女生为圆医生梦本科毕业后重新高考",
       "onboard_time": 1716987497,
       "rank": 19,
@@ -11291,6 +11323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29073,
+      "num": 187249,
+      "word": "王星越新脑子就是懂摸鱼",
+      "onboard_time": 1716989178,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28474,
       "num": 506483,
       "word": "温州人把龙舟划出高铁的气势",
@@ -11316,7 +11356,7 @@
     },
     {
       "raw_hot": 26779,
-      "num": 789811,
+      "num": 1026331,
       "word": "三夏时节好丰景",
       "onboard_time": 1716967457,
       "rank": 2,
