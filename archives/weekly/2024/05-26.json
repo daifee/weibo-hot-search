@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717000743159,
+  "endTime": 1717003075351,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -4331,6 +4331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270830,
+      "num": 261739,
+      "word": "刘端端演出了李承泽的灵魂",
+      "onboard_time": 1716998958,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269973,
       "num": 269973,
       "word": "洞洞鞋鞋花",
@@ -4920,14 +4928,6 @@
       "word": "龚吓幂",
       "onboard_time": 1716822922,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 237027,
-      "num": 237027,
-      "word": "刘端端演出了李承泽的灵魂",
-      "onboard_time": 1716998958,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -8097,6 +8097,14 @@
       "onboard_time": 1716729859,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148534,
+      "num": 84641,
+      "word": "王俊凯唱完蔡依林唱周杰伦",
+      "onboard_time": 1717001295,
+      "rank": 18,
+      "category": "演出,综艺"
     },
     {
       "raw_hot": 148517,
@@ -11355,6 +11363,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49900,
+      "num": 49900,
+      "word": "翻唱",
+      "onboard_time": 1717002493,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 49747,
+      "num": 49747,
+      "word": "广美学生毕设以父亲为原型铸钢雕",
+      "onboard_time": 1717002493,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49310,
       "num": 60164,
       "word": "大皇子用脸骂人",
@@ -11585,6 +11609,14 @@
       "onboard_time": 1716704117,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 35630,
+      "num": 46413,
+      "word": "张昊唯 平易近人是太子的保护色",
+      "onboard_time": 1717001175,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 34737,

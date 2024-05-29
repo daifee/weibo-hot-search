@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717000743159,
+  "endTime": 1717003075351,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -32323,6 +32323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 270830,
+      "num": 261739,
+      "word": "刘端端演出了李承泽的灵魂",
+      "onboard_time": 1716998958,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270586,
       "num": 270586,
       "word": "那英听到凡希亚第一的反应",
@@ -36353,14 +36361,6 @@
       "onboard_time": 1715437342,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237027,
-      "num": 237027,
-      "word": "刘端端演出了李承泽的灵魂",
-      "onboard_time": 1716998958,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 237023,
@@ -59443,6 +59443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148534,
+      "num": 84641,
+      "word": "王俊凯唱完蔡依林唱周杰伦",
+      "onboard_time": 1717001295,
+      "rank": 18,
+      "category": "演出,综艺"
+    },
+    {
       "raw_hot": 148517,
       "num": 148517,
       "word": "王妈掉粉",
@@ -77995,12 +78003,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49900,
+      "num": 49900,
+      "word": "翻唱",
+      "onboard_time": 1717002493,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 49892,
       "num": 201732,
       "word": "蔚来第二品牌乐道生而成熟",
       "onboard_time": 1715332278,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 49747,
+      "num": 49747,
+      "word": "广美学生毕设以父亲为原型铸钢雕",
+      "onboard_time": 1717002493,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49733,
@@ -79337,6 +79361,14 @@
       "onboard_time": 1715886492,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 35630,
+      "num": 46413,
+      "word": "张昊唯 平易近人是太子的保护色",
+      "onboard_time": 1717001175,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 35554,

@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717000743159,
+  "endTime": 1717003075351,
   "band_list": [
     {
       "raw_hot": 863663,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270830,
+      "num": 261739,
+      "word": "刘端端演出了李承泽的灵魂",
+      "onboard_time": 1716998958,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258634,
       "num": 120944,
       "word": "37周孕妇糖耐不过在家锻炼",
@@ -121,14 +129,6 @@
       "onboard_time": 1716998237,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237027,
-      "num": 237027,
-      "word": "刘端端演出了李承泽的灵魂",
-      "onboard_time": 1716998958,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 235402,
@@ -201,6 +201,14 @@
       "onboard_time": 1716991518,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148534,
+      "num": 84641,
+      "word": "王俊凯唱完蔡依林唱周杰伦",
+      "onboard_time": 1717001295,
+      "rank": 18,
+      "category": "演出,综艺"
     },
     {
       "raw_hot": 145418,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 85433,
-      "num": 85433,
+      "num": 199585,
       "word": "女子每两周给40多个儿子送饭",
       "onboard_time": 1716986898,
       "rank": 44,
@@ -395,12 +403,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49900,
+      "num": 49900,
+      "word": "翻唱",
+      "onboard_time": 1717002493,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 49747,
+      "num": 49747,
+      "word": "广美学生毕设以父亲为原型铸钢雕",
+      "onboard_time": 1717002493,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49133,
       "num": 582373,
       "word": "中国建世界最大跨度斜拉桥6月贯通",
       "onboard_time": 1716990676,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35630,
+      "num": 46413,
+      "word": "张昊唯 平易近人是太子的保护色",
+      "onboard_time": 1717001175,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 19406,
