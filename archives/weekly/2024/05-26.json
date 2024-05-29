@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716963942778,
+  "endTime": 1716964699778,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -467,12 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1121503,
+      "num": 1121503,
+      "word": "王妈网店出售不正之风短袖",
+      "onboard_time": 1716960798,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1108055,
       "num": 292429,
       "word": "突然感觉体制内挺适合不婚族",
       "onboard_time": 1716730519,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1100215,
+      "num": 456956,
+      "word": "唐艺昕用纹身给张若昀安全感",
+      "onboard_time": 1716961938,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 1095044,
@@ -537,14 +553,6 @@
       "onboard_time": 1716877637,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1047483,
-      "num": 385159,
-      "word": "王妈网店出售不正之风短袖",
-      "onboard_time": 1716960798,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 1031743,
@@ -705,14 +713,6 @@
       "onboard_time": 1716802159,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 897775,
-      "num": 319515,
-      "word": "唐艺昕用纹身给张若昀安全感",
-      "onboard_time": 1716961938,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 895634,
@@ -2171,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475484,
+      "num": 319255,
+      "word": "范闲身世曝光",
+      "onboard_time": 1716962898,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474942,
       "num": 322838,
       "word": "翟潇闻直播黑牙了",
@@ -3187,6 +3195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327684,
+      "num": 179769,
+      "word": "面对漂亮的老婆是这样的",
+      "onboard_time": 1716963498,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327390,
       "num": 327390,
       "word": "金晨鼻子",
@@ -3257,14 +3273,6 @@
       "onboard_time": 1716693199,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319255,
-      "num": 319255,
-      "word": "范闲身世曝光",
-      "onboard_time": 1716962898,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 318249,
@@ -3803,6 +3811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 265188,
+      "num": 265188,
+      "word": "钟薛高创始人卖红薯被指红薯刺客",
+      "onboard_time": 1716962539,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264221,
       "num": 225606,
       "word": "蒲熠星现场",
@@ -3841,14 +3857,6 @@
       "onboard_time": 1716951137,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 263284,
-      "num": 204712,
-      "word": "钟薛高创始人卖红薯被指红薯刺客",
-      "onboard_time": 1716962539,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262974,
@@ -4563,6 +4571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223239,
+      "num": 223239,
+      "word": "Faker新皮肤疑似定价500美元",
+      "onboard_time": 1716961277,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 222933,
       "num": 222933,
       "word": "蔡依林演唱会",
@@ -4587,6 +4603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222084,
+      "num": 222084,
+      "word": "讨厌打开APP歌就被暂停",
+      "onboard_time": 1716962478,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221595,
       "num": 221595,
       "word": "一个员工离职的隐性成本有多高",
@@ -4609,6 +4633,14 @@
       "onboard_time": 1716731299,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221238,
+      "num": 214969,
+      "word": "种地星球抽奖",
+      "onboard_time": 1716963557,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 220378,
@@ -4739,6 +4771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214979,
+      "num": 214979,
+      "word": "巴勒斯坦",
+      "onboard_time": 1716964037,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 214852,
       "num": 214852,
       "word": "内娱综艺把13位少年放岛上120天",
@@ -4793,6 +4833,14 @@
       "onboard_time": 1716700338,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212463,
+      "num": 212463,
+      "word": "花少节目组",
+      "onboard_time": 1716962958,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 211074,
@@ -4873,14 +4921,6 @@
       "onboard_time": 1716724698,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209258,
-      "num": 203463,
-      "word": "Faker新皮肤疑似定价500美元",
-      "onboard_time": 1716961277,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 209234,
@@ -4993,14 +5033,6 @@
       "onboard_time": 1716676152,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205782,
-      "num": 202266,
-      "word": "花少节目组",
-      "onboard_time": 1716962958,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 205651,
@@ -5129,14 +5161,6 @@
       "onboard_time": 1716769699,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201998,
-      "num": 201998,
-      "word": "种地星球抽奖",
-      "onboard_time": 1716963557,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 201824,
@@ -5955,6 +5979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179979,
+      "num": 179979,
+      "word": "宋亚轩唱歌",
+      "onboard_time": 1716963977,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179870,
       "num": 179870,
       "word": "黄奕自认人生谷底是结婚",
@@ -5993,6 +6025,14 @@
       "onboard_time": 1716865639,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178335,
+      "num": 178335,
+      "word": "火树积分垫底",
+      "onboard_time": 1716964098,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 178268,
@@ -6321,14 +6361,6 @@
       "onboard_time": 1716772638,
       "rank": 46,
       "category": "军事,国内时政"
-    },
-    {
-      "raw_hot": 167874,
-      "num": 203957,
-      "word": "讨厌打开APP歌就被暂停",
-      "onboard_time": 1716962478,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 167868,
@@ -6825,14 +6857,6 @@
       "onboard_time": 1716871458,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154097,
-      "num": 154097,
-      "word": "面对漂亮的老婆是这样的",
-      "onboard_time": 1716963498,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 153720,
@@ -7692,7 +7716,7 @@
     },
     {
       "raw_hot": 133498,
-      "num": 133498,
+      "num": 281968,
       "word": "肠胃是人体第二大脑",
       "onboard_time": 1716950898,
       "rank": 48,
@@ -7931,6 +7955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129215,
+      "num": 129215,
+      "word": "天津一工业园被曝100多座楼烂尾",
+      "onboard_time": 1716964517,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128791,
       "num": 128791,
       "word": "橘猫为了抢占猫窝狂踩美短脑袋",
@@ -8041,6 +8073,14 @@
       "onboard_time": 1716686058,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125867,
+      "num": 319452,
+      "word": "如果生长在不扫兴的家庭该有多快乐",
+      "onboard_time": 1716961938,
+      "rank": 9,
+      "category": "情感,母婴育儿"
     },
     {
       "raw_hot": 125798,
@@ -9348,7 +9388,7 @@
     },
     {
       "raw_hot": 75417,
-      "num": 204256,
+      "num": 222277,
       "word": "王传福说全球插混进入中国时刻",
       "onboard_time": 1716962539,
       "rank": 23,
@@ -9433,14 +9473,6 @@
       "onboard_time": 1716708318,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 72326,
-      "num": 319452,
-      "word": "如果生长在不扫兴的家庭该有多快乐",
-      "onboard_time": 1716961938,
-      "rank": 9,
-      "category": "情感,母婴育儿"
     },
     {
       "raw_hot": 71416,
@@ -10025,6 +10057,14 @@
       "onboard_time": 1716789859,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 36833,
+      "num": 123225,
+      "word": "一句没事儿让肠易激伤害了多少人",
+      "onboard_time": 1716964339,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 35833,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1716964699778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1121503,
+        "num": 1121503,
+        "word": "王妈网店出售不正之风短袖",
+        "onboard_time": 1716960798,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 826945,
+        "num": 826945,
+        "word": "女孩把生病吃过的胶囊做成永生花",
+        "onboard_time": 1716957800,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47570,
+        "num": 459783,
+        "word": "万千气象看广东",
+        "onboard_time": 1716952760,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100215,
+        "num": 456956,
+        "word": "唐艺昕用纹身给张若昀安全感",
+        "onboard_time": 1716961938,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412834,
+        "num": 412834,
+        "word": "国台办回应台湾艺人转央视新闻海报",
+        "onboard_time": 1716951978,
+        "rank": 4,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 377735,
+        "num": 377735,
+        "word": "小林制药已致5死280余人住院",
+        "onboard_time": 1716946577,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028726,
+        "num": 377061,
+        "word": "歌手 搁浅",
+        "onboard_time": 1716957020,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282259,
+        "num": 282259,
+        "word": "人民日报评王妈背刺打工人",
+        "onboard_time": 1716944658,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 982644,
+        "num": 282224,
+        "word": "张若昀父母均没有出席儿子婚礼",
+        "onboard_time": 1716954318,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82467,
+        "num": 281968,
+        "word": "肠胃是人体第二大脑",
+        "onboard_time": 1716950898,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 537008,
+        "num": 281760,
+        "word": "徐贤点赞请愿福宝被虐待的帖",
+        "onboard_time": 1716960559,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475484,
+        "num": 281713,
+        "word": "范闲身世曝光",
+        "onboard_time": 1716962898,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363555,
+        "num": 281540,
+        "word": "文韬积分第一",
+        "onboard_time": 1716960739,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336950,
+        "num": 281316,
+        "word": "李小冉 基因",
+        "onboard_time": 1716951616,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281251,
+        "num": 281251,
+        "word": "美国一军机坠毁飞行员送医",
+        "onboard_time": 1716960079,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 265188,
+        "num": 265188,
+        "word": "钟薛高创始人卖红薯被指红薯刺客",
+        "onboard_time": 1716962539,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261432,
+        "num": 261432,
+        "word": "多家银行暂停无卡存取款",
+        "onboard_time": 1716949397,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236596,
+        "num": 236596,
+        "word": "洞洞鞋鞋花",
+        "onboard_time": 1716958580,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 235060,
+        "num": 235060,
+        "word": "用茅台乱打比方局长简历被撤",
+        "onboard_time": 1716952698,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223239,
+        "num": 223239,
+        "word": "Faker新皮肤疑似定价500美元",
+        "onboard_time": 1716961277,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 416434,
+        "num": 223054,
+        "word": "29岁小伙痔疮就诊查出肠癌",
+        "onboard_time": 1716953598,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250344,
+        "num": 222765,
+        "word": "歌手第四期两首周杰伦的歌",
+        "onboard_time": 1716956299,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248307,
+        "num": 222639,
+        "word": "陈伟霆赵露思 许我耀眼",
+        "onboard_time": 1716954918,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61335,
+        "num": 222277,
+        "word": "王传福说全球插混进入中国时刻",
+        "onboard_time": 1716962539,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 222084,
+        "num": 222084,
+        "word": "讨厌打开APP歌就被暂停",
+        "onboard_time": 1716962478,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214979,
+        "num": 214979,
+        "word": "巴勒斯坦",
+        "onboard_time": 1716964037,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221238,
+        "num": 214969,
+        "word": "种地星球抽奖",
+        "onboard_time": 1716963557,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212463,
+        "num": 212463,
+        "word": "花少节目组",
+        "onboard_time": 1716962958,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180765,
+        "num": 180765,
+        "word": "周杰伦 长沙",
+        "onboard_time": 1716962058,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179979,
+        "num": 179979,
+        "word": "宋亚轩唱歌",
+        "onboard_time": 1716963977,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327684,
+        "num": 179769,
+        "word": "面对漂亮的老婆是这样的",
+        "onboard_time": 1716963498,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179041,
+        "num": 179041,
+        "word": "杨幂戛纳三天vlog",
+        "onboard_time": 1716962417,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178335,
+        "num": 178335,
+        "word": "火树积分垫底",
+        "onboard_time": 1716964098,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167193,
+        "num": 167193,
+        "word": "首套房首付比例进入15%时代",
+        "onboard_time": 1716953477,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166774,
+        "num": 166774,
+        "word": "杜华女儿8岁就开始化妆了",
+        "onboard_time": 1716952817,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144162,
+        "num": 144162,
+        "word": "腾讯升级防沉迷四件套",
+        "onboard_time": 1716963498,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143974,
+        "num": 143974,
+        "word": "钟薛高老板说新品化得非常快",
+        "onboard_time": 1716958939,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142493,
+        "num": 142493,
+        "word": "观众当着吴磊的面cue赵露思",
+        "onboard_time": 1716961758,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140725,
+        "num": 140725,
+        "word": "歌手歌单",
+        "onboard_time": 1716954619,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129215,
+        "num": 129215,
+        "word": "天津一工业园被曝100多座楼烂尾",
+        "onboard_time": 1716964517,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125867,
+        "num": 125867,
+        "word": "如果生长在不扫兴的家庭该有多快乐",
+        "onboard_time": 1716961938,
+        "rank": 40,
+        "category": "情感,母婴育儿"
+      },
+      {
+        "raw_hot": 124783,
+        "num": 124783,
+        "word": "为什么洞洞鞋看着透气却容易得脚气",
+        "onboard_time": 1716952457,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36833,
+        "num": 123225,
+        "word": "一句没事儿让肠易激伤害了多少人",
+        "onboard_time": 1716964339,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123196,
+        "num": 123196,
+        "word": "新女团抄袭BABYMONSTER",
+        "onboard_time": 1716958159,
+        "rank": 43,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 122171,
+        "num": 122171,
+        "word": "肠胃不好人会变笨吗",
+        "onboard_time": 1716953778,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117776,
+        "num": 117776,
+        "word": "李耕耘说开花的时候再见",
+        "onboard_time": 1716961397,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115270,
+        "num": 115270,
+        "word": "张杰感动到哽咽",
+        "onboard_time": 1716961338,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114709,
+        "num": 114709,
+        "word": "A股",
+        "onboard_time": 1716953960,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114069,
+        "num": 114069,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1716963199,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109164,
+        "num": 109164,
+        "word": "叙利亚路边卖纸巾的老爷爷",
+        "onboard_time": 1716963318,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中赤几关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
