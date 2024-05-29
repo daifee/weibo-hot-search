@@ -1,0 +1,410 @@
+{
+  "runTime": 1716975278567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2762233,
+        "num": 2762233,
+        "word": "孙楠退赛 汪涵表情",
+        "onboard_time": 1716972558,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1577154,
+        "num": 1577154,
+        "word": "苹果帮截图 5块一张",
+        "onboard_time": 1716972618,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21529,
+        "num": 615934,
+        "word": "麦田丰收宛如金色的海洋",
+        "onboard_time": 1716967577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577777,
+        "num": 577777,
+        "word": "王妈塌房 武汉求职市场",
+        "onboard_time": 1716973399,
+        "rank": 3,
+        "category": "社会议题,网红"
+      },
+      {
+        "raw_hot": 381077,
+        "num": 381077,
+        "word": "女孩把生病吃过的胶囊做成永生花",
+        "onboard_time": 1716957800,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057951,
+        "num": 377536,
+        "word": "孙楠 不用送炭争取添花",
+        "onboard_time": 1716970398,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679781,
+        "num": 376052,
+        "word": "唐艺昕用纹身给张若昀安全感",
+        "onboard_time": 1716961938,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503381,
+        "num": 375601,
+        "word": "赵露思直发深V",
+        "onboard_time": 1716973279,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352922,
+        "num": 352922,
+        "word": "王楚钦邀请波尔一起训练",
+        "onboard_time": 1716973579,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28912,
+        "num": 350443,
+        "word": "被孩子看到姥姥姥爷的笑声治愈了",
+        "onboard_time": 1716967398,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 490579,
+        "num": 350425,
+        "word": "王妈塌房后小号还在发广告",
+        "onboard_time": 1716969318,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 362917,
+        "num": 350413,
+        "word": "王妈网店出售不正之风短袖",
+        "onboard_time": 1716960798,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 350390,
+        "num": 350390,
+        "word": "钟薛高创始人卖红薯被指红薯刺客",
+        "onboard_time": 1716962539,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319895,
+        "num": 319895,
+        "word": "请张予曦把眼镜焊在脸上",
+        "onboard_time": 1716970758,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317301,
+        "num": 317301,
+        "word": "洪啸确认孙楠补位",
+        "onboard_time": 1716969739,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308805,
+        "num": 308805,
+        "word": "燃油附加费降至50或30元",
+        "onboard_time": 1716972739,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 275243,
+        "num": 275243,
+        "word": "面对漂亮的老婆是这样的",
+        "onboard_time": 1716963498,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230274,
+        "num": 230274,
+        "word": "巴黎奥运会会徽 陈鲁豫",
+        "onboard_time": 1716972677,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 218316,
+        "num": 218316,
+        "word": "Faker新皮肤疑似定价500美元",
+        "onboard_time": 1716961277,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211548,
+        "num": 211548,
+        "word": "我国成功从海上发射一箭4星",
+        "onboard_time": 1716974838,
+        "rank": 19,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 660154,
+        "num": 205859,
+        "word": "男子捅死妻子出轨对象被判15年",
+        "onboard_time": 1716969497,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 290381,
+        "num": 200069,
+        "word": "王启年其实是叶轻眉给范闲的高铁",
+        "onboard_time": 1716968358,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287807,
+        "num": 197184,
+        "word": "白玉兰 男主",
+        "onboard_time": 1716966557,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191800,
+        "num": 191800,
+        "word": "小林制药已致5死280余人住院",
+        "onboard_time": 1716946577,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247457,
+        "num": 191273,
+        "word": "墨雨云间把蒋依依换成赵晴了",
+        "onboard_time": 1716968658,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218496,
+        "num": 190918,
+        "word": "歌手 搁浅",
+        "onboard_time": 1716957020,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210965,
+        "num": 190723,
+        "word": "董洁 短裙叠短裤",
+        "onboard_time": 1716973098,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190499,
+        "num": 190499,
+        "word": "警方通报花臂男辱骂车主滚出南京",
+        "onboard_time": 1716968237,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174369,
+        "num": 174369,
+        "word": "六年级儿子的初恋计划",
+        "onboard_time": 1716969917,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162010,
+        "num": 162010,
+        "word": "张若昀父母均没有出席儿子婚礼",
+        "onboard_time": 1716954318,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153173,
+        "num": 153173,
+        "word": "RedVelvet将回归",
+        "onboard_time": 1716973518,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140870,
+        "num": 140870,
+        "word": "唐嫣都市辣妹",
+        "onboard_time": 1716975018,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140658,
+        "num": 140658,
+        "word": "王力宏档期",
+        "onboard_time": 1716966676,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137528,
+        "num": 137528,
+        "word": "种地吧",
+        "onboard_time": 1716972138,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118217,
+        "num": 118217,
+        "word": "天津一工业园被曝100多座楼烂尾",
+        "onboard_time": 1716964517,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130377,
+        "num": 117851,
+        "word": "王启年 不是属下是挚友",
+        "onboard_time": 1716974299,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125255,
+        "num": 117579,
+        "word": "辛甘秦愿 新的目瞪口呆",
+        "onboard_time": 1716974899,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115951,
+        "num": 115951,
+        "word": "久哲回归Hero",
+        "onboard_time": 1716970578,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111242,
+        "num": 111242,
+        "word": "欢迎埃及总统塞西访华",
+        "onboard_time": 1716975198,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109995,
+        "num": 109995,
+        "word": "他们真的存不下钱",
+        "onboard_time": 1716967817,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118725,
+        "num": 109907,
+        "word": "少年白马醉春风江湖有约",
+        "onboard_time": 1716971598,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115128,
+        "num": 109813,
+        "word": "风吹半夏发了赵丽颖",
+        "onboard_time": 1716971178,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114596,
+        "num": 109766,
+        "word": "丁程鑫敖子逸hi6上班路透",
+        "onboard_time": 1716971959,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109592,
+        "num": 109592,
+        "word": "叶修军装",
+        "onboard_time": 1716969917,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111694,
+        "num": 108546,
+        "word": "范闲身世曝光",
+        "onboard_time": 1716962898,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106986,
+        "num": 106986,
+        "word": "为什么四川成了很多日本人的精神故乡",
+        "onboard_time": 1716975078,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103503,
+        "num": 103503,
+        "word": "大爷剥橘子给B太试吃前在抠脚",
+        "onboard_time": 1716967398,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 102559,
+        "num": 102559,
+        "word": "英雄志预告",
+        "onboard_time": 1716968418,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95736,
+        "num": 95736,
+        "word": "Hero回应无畏试训",
+        "onboard_time": 1716971538,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93239,
+        "num": 93239,
+        "word": "机器人60秒完成1杯拉花咖啡",
+        "onboard_time": 1716971538,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中赤几关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
