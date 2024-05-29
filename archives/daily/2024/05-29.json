@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716964699778,
+  "endTime": 1716967092603,
   "band_list": [
     {
       "raw_hot": 2124366,
@@ -67,6 +67,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1298100,
+      "num": 771051,
+      "word": "唐艺昕用纹身给张若昀安全感",
+      "onboard_time": 1716961938,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1228508,
       "num": 1153464,
       "word": "李小冉 基因",
@@ -75,20 +83,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1121503,
-      "num": 1121503,
+      "raw_hot": 1124924,
+      "num": 1124924,
       "word": "王妈网店出售不正之风短袖",
       "onboard_time": 1716960798,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1100215,
-      "num": 456956,
-      "word": "唐艺昕用纹身给张若昀安全感",
-      "onboard_time": 1716961938,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 1075003,
@@ -147,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 800520,
+      "num": 800520,
+      "word": "巴勒斯坦",
+      "onboard_time": 1716964037,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 774829,
       "num": 774829,
       "word": "金价暴涨金店老板们不敢进货了",
       "onboard_time": 1716944718,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 759403,
+      "num": 759403,
+      "word": "钟薛高创始人卖红薯被指红薯刺客",
+      "onboard_time": 1716962539,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 751721,
@@ -169,6 +185,14 @@
       "onboard_time": 1716945497,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 671598,
+      "num": 422957,
+      "word": "面对漂亮的老婆是这样的",
+      "onboard_time": 1716963498,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 670102,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 597653,
-      "num": 319437,
+      "num": 372831,
       "word": "徐贤点赞请愿福宝被虐待的帖",
       "onboard_time": 1716960559,
       "rank": 30,
@@ -315,6 +339,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509142,
+      "num": 385137,
+      "word": "范闲身世曝光",
+      "onboard_time": 1716962898,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 504465,
+      "num": 504465,
+      "word": "天津一工业园被曝100多座楼烂尾",
+      "onboard_time": 1716964517,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499280,
       "num": 475721,
       "word": "生育越晚更年期也可能会越晚",
@@ -337,14 +377,6 @@
       "onboard_time": 1716947656,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 475484,
-      "num": 319255,
-      "word": "范闲身世曝光",
-      "onboard_time": 1716962898,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 468188,
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373600,
+      "num": 373600,
+      "word": "讨厌打开APP歌就被暂停",
+      "onboard_time": 1716962478,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 370735,
       "num": 319269,
       "word": "文韬积分第一",
@@ -523,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327684,
-      "num": 179769,
-      "word": "面对漂亮的老婆是这样的",
-      "onboard_time": 1716963498,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 326235,
       "num": 326235,
       "word": "2023年美国侵犯人权报告",
@@ -545,6 +577,14 @@
       "onboard_time": 1716945137,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307125,
+      "num": 307125,
+      "word": "Faker新皮肤疑似定价500美元",
+      "onboard_time": 1716961277,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 304896,
@@ -595,20 +635,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 269448,
+      "num": 269448,
+      "word": "花少节目组",
+      "onboard_time": 1716962958,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265283,
       "num": 265283,
       "word": "为什么洞洞鞋看着透气却容易得脚气",
       "onboard_time": 1716952457,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 265188,
-      "num": 265188,
-      "word": "钟薛高创始人卖红薯被指红薯刺客",
-      "onboard_time": 1716962539,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263294,
@@ -723,22 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223239,
-      "num": 223239,
-      "word": "Faker新皮肤疑似定价500美元",
-      "onboard_time": 1716961277,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 222084,
-      "num": 222084,
-      "word": "讨厌打开APP歌就被暂停",
-      "onboard_time": 1716962478,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 221514,
       "num": 196019,
       "word": "汪苏泷成都演唱会预售",
@@ -763,27 +787,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219266,
+      "num": 219266,
+      "word": "杨幂喊妈妈",
+      "onboard_time": 1716966557,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216055,
       "num": 201786,
       "word": "王鹤棣觉得乐山适合录桃花坞",
       "onboard_time": 1716956541,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 214979,
-      "num": 214979,
-      "word": "巴勒斯坦",
-      "onboard_time": 1716964037,
-      "rank": 25,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 212463,
-      "num": 212463,
-      "word": "花少节目组",
-      "onboard_time": 1716962958,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -793,6 +809,14 @@
       "onboard_time": 1716942739,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 209502,
+      "num": 209502,
+      "word": "白玉兰 男主",
+      "onboard_time": 1716966557,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 208078,
@@ -816,6 +840,14 @@
       "word": "魔方新世界",
       "onboard_time": 1716959359,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204384,
+      "num": 204384,
+      "word": "王力宏档期",
+      "onboard_time": 1716966676,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -905,6 +937,14 @@
       "onboard_time": 1716956900,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190252,
+      "num": 190252,
+      "word": "人类的体毛为什么不能好好长",
+      "onboard_time": 1716965056,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 190248,
@@ -1123,6 +1163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147757,
+      "num": 147757,
+      "word": "汪苏泷成都 加场",
+      "onboard_time": 1716966258,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144807,
       "num": 277079,
       "word": "怎么帮孩子选择更合适的鲜奶",
@@ -1155,12 +1203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142316,
+      "num": 142316,
+      "word": "无穷小亮 厄瓜多尔冠蜥暴起",
+      "onboard_time": 1716966619,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139962,
       "num": 139962,
       "word": "联合利剑2024A演习后还有B和C吗",
       "onboard_time": 1716952998,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139655,
+      "num": 139655,
+      "word": "喜欢你我也是",
+      "onboard_time": 1716965477,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 139649,
@@ -1257,14 +1321,6 @@
       "onboard_time": 1716961397,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129215,
-      "num": 129215,
-      "word": "天津一工业园被曝100多座楼烂尾",
-      "onboard_time": 1716964517,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127535,
@@ -1459,6 +1515,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103834,
+      "num": 103834,
+      "word": "敖子逸到达长沙",
+      "onboard_time": 1716965357,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103343,
+      "num": 103343,
+      "word": "广东为何成为痛风大省",
+      "onboard_time": 1716966977,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100692,
       "num": 100692,
       "word": "善宰小率婚纱照",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1716881177,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91217,
+      "num": 257698,
+      "word": "一句没事儿让肠易激伤害了多少人",
+      "onboard_time": 1716964339,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 90491,
@@ -1692,7 +1772,7 @@
     },
     {
       "raw_hot": 41157,
-      "num": 495095,
+      "num": 778376,
       "word": "总会为中式美学心动",
       "onboard_time": 1716952638,
       "rank": 12,
@@ -1715,12 +1795,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36833,
-      "num": 123225,
-      "word": "一句没事儿让肠易激伤害了多少人",
-      "onboard_time": 1716964339,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 32301,
+      "num": 443104,
+      "word": "减肥神药或影响服用者精神健康",
+      "onboard_time": 1716966017,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 30960,
