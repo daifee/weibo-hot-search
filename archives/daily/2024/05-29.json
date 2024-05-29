@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716952877535,
+  "endTime": 1716953699934,
   "band_list": [
     {
       "raw_hot": 2124366,
@@ -27,6 +27,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1384884,
+      "num": 1384884,
+      "word": "国台办回应台湾艺人转央视新闻海报",
+      "onboard_time": 1716951978,
+      "rank": 5,
+      "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 1153464,
+      "num": 1153464,
+      "word": "李小冉 基因",
+      "onboard_time": 1716951616,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1075003,
       "num": 435515,
       "word": "第一批丁克开始操心养老",
@@ -35,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 938121,
-      "num": 938121,
+      "raw_hot": 989316,
+      "num": 989316,
       "word": "多家银行暂停无卡存取款",
       "onboard_time": 1716949397,
       "rank": 25,
@@ -91,28 +107,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 704117,
-      "num": 704117,
-      "word": "国台办回应台湾艺人转央视新闻海报",
-      "onboard_time": 1716951978,
-      "rank": 5,
-      "category": "国内时政,艺人"
-    },
-    {
       "raw_hot": 700675,
       "num": 700675,
       "word": "奔跑吧杭州飞行嘉宾",
       "onboard_time": 1716945497,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 673327,
-      "num": 673327,
-      "word": "李小冉 基因",
-      "onboard_time": 1716951616,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 670102,
@@ -211,20 +211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499280,
+      "num": 475721,
+      "word": "生育越晚更年期也可能会越晚",
+      "onboard_time": 1716951137,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 481296,
       "num": 481296,
       "word": "王妈在公司有绝对的话语权",
       "onboard_time": 1716947656,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 475721,
-      "num": 475721,
-      "word": "生育越晚更年期也可能会越晚",
-      "onboard_time": 1716951137,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 456954,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367543,
+      "num": 256378,
+      "word": "杜华女儿8岁就开始化妆了",
+      "onboard_time": 1716952817,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363477,
       "num": 363477,
       "word": "女童猛甩呼啦圈砸中4月婴儿头顶",
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288759,
+      "num": 288759,
+      "word": "明日方舟",
+      "onboard_time": 1716952638,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263294,
       "num": 263294,
       "word": "墨雨云间",
@@ -425,6 +441,14 @@
       "onboard_time": 1716944477,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259077,
+      "num": 259077,
+      "word": "独行侠3比1森林狼",
+      "onboard_time": 1716952878,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 257800,
@@ -448,6 +472,14 @@
       "word": "背着善宰跑大结局",
       "onboard_time": 1716904758,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244896,
+      "num": 244896,
+      "word": "张若昀第二季帅到人物介绍都变了",
+      "onboard_time": 1716951616,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -475,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225595,
+      "num": 225595,
+      "word": "用茅台乱打比方局长简历被撤",
+      "onboard_time": 1716952698,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220236,
       "num": 220236,
       "word": "老人晨练时心梗被路人用AED救回",
@@ -483,28 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219389,
-      "num": 219389,
-      "word": "张若昀第二季帅到人物介绍都变了",
-      "onboard_time": 1716951616,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210014,
       "num": 210014,
       "word": "以色列指定的人道主义区被炸21死",
       "onboard_time": 1716942739,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 208696,
-      "num": 208696,
-      "word": "杜华女儿8岁就开始化妆了",
-      "onboard_time": 1716952817,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 206903,
@@ -547,6 +571,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197008,
+      "num": 197008,
+      "word": "比亚迪油耗",
+      "onboard_time": 1716953059,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 190285,
+      "num": 190285,
+      "word": "青3选手刘峰磊入职律所",
+      "onboard_time": 1716953359,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189941,
       "num": 189941,
       "word": "范闲大婚原著片段",
@@ -555,12 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180297,
-      "num": 180297,
-      "word": "明日方舟",
-      "onboard_time": 1716952638,
-      "rank": 33,
-      "category": "游戏"
+      "raw_hot": 176611,
+      "num": 176611,
+      "word": "小林制药",
+      "onboard_time": 1716952518,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176129,
@@ -593,6 +633,14 @@
       "onboard_time": 1716906078,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166289,
+      "num": 518863,
+      "word": "和瘦的人亲嘴真能变瘦吗",
+      "onboard_time": 1716952518,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 166167,
@@ -641,6 +689,14 @@
       "onboard_time": 1716946097,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 158905,
+      "num": 158905,
+      "word": "为什么洞洞鞋看着透气却容易得脚气",
+      "onboard_time": 1716952457,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151962,
@@ -699,6 +755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 139962,
+      "num": 139962,
+      "word": "联合利剑2024A演习后还有B和C吗",
+      "onboard_time": 1716952998,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139649,
       "num": 139649,
       "word": "刘宇宁直播cue揭面具",
@@ -747,6 +811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133901,
+      "num": 133901,
+      "word": "首套房首付比例进入15%时代",
+      "onboard_time": 1716953477,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131485,
       "num": 131485,
       "word": "法拉第未来去年营收80万美元",
@@ -755,36 +827,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 130417,
+      "num": 130417,
+      "word": "世界水獭日",
+      "onboard_time": 1716953239,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127535,
       "num": 127535,
       "word": "王妈公司前员工称在职时天天加班",
       "onboard_time": 1716944237,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 127008,
-      "num": 127008,
-      "word": "小林制药",
-      "onboard_time": 1716952518,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126552,
-      "num": 126552,
-      "word": "为什么洞洞鞋看着透气却容易得脚气",
-      "onboard_time": 1716952457,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126523,
-      "num": 126523,
-      "word": "用茅台乱打比方局长简历被撤",
-      "onboard_time": 1716952698,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125618,
@@ -881,6 +937,22 @@
       "onboard_time": 1716912557,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113322,
+      "num": 113322,
+      "word": "肠胃是人体第二大脑",
+      "onboard_time": 1716950898,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113004,
+      "num": 113004,
+      "word": "29岁小伙痔疮就诊查出肠癌",
+      "onboard_time": 1716953598,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111110,
@@ -1027,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66874,
+      "num": 1261104,
+      "word": "万千气象看广东",
+      "onboard_time": 1716952760,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64697,
       "num": 75702,
       "word": "王力宏 来不来",
@@ -1089,14 +1169,6 @@
       "onboard_time": 1716939015,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 51607,
-      "num": 518863,
-      "word": "和瘦的人亲嘴真能变瘦吗",
-      "onboard_time": 1716952518,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 51375,
@@ -1168,14 +1240,6 @@
       "word": "男子23年后找到女儿泣不成声",
       "onboard_time": 1716915135,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20118,
-      "num": 956673,
-      "word": "万千气象看广东",
-      "onboard_time": 1716952760,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1716953699934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1681637,
+        "num": 1681637,
+        "word": "小林制药已致5死280余人住院",
+        "onboard_time": 1716946577,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384884,
+        "num": 1384884,
+        "word": "国台办回应台湾艺人转央视新闻海报",
+        "onboard_time": 1716951978,
+        "rank": 1,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 66874,
+        "num": 1261104,
+        "word": "万千气象看广东",
+        "onboard_time": 1716952760,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153464,
+        "num": 1153464,
+        "word": "李小冉 基因",
+        "onboard_time": 1716951616,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 989316,
+        "num": 989316,
+        "word": "多家银行暂停无卡存取款",
+        "onboard_time": 1716949397,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884967,
+        "num": 884967,
+        "word": "人民日报评王妈背刺打工人",
+        "onboard_time": 1716944658,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 771873,
+        "num": 771873,
+        "word": "张若昀在家里为唐艺昕备有菜单",
+        "onboard_time": 1716948197,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563656,
+        "num": 563656,
+        "word": "安徽通报滁河水体污染处置情况",
+        "onboard_time": 1716951077,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432237,
+        "num": 432237,
+        "word": "善宰小率 玄彬孙艺珍",
+        "onboard_time": 1716951258,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166289,
+        "num": 405767,
+        "word": "和瘦的人亲嘴真能变瘦吗",
+        "onboard_time": 1716952518,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 381337,
+        "num": 381337,
+        "word": "王妈两个月广告收入或达960万",
+        "onboard_time": 1716940398,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 465503,
+        "num": 380902,
+        "word": "张若昀唐艺昕是情侣名",
+        "onboard_time": 1716949877,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379966,
+        "num": 379966,
+        "word": "安徽省全椒县委主要负责人已被免职",
+        "onboard_time": 1716950177,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378305,
+        "num": 378305,
+        "word": "爱奇艺麦田音乐节",
+        "onboard_time": 1716950296,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 377211,
+        "num": 377211,
+        "word": "王妈在公司有绝对的话语权",
+        "onboard_time": 1716947656,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 367636,
+        "num": 367636,
+        "word": "肖战藏海传个人戏份",
+        "onboard_time": 1716951377,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336196,
+        "num": 336196,
+        "word": "金价暴涨金店老板们不敢进货了",
+        "onboard_time": 1716944718,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 288759,
+        "num": 288759,
+        "word": "明日方舟",
+        "onboard_time": 1716952638,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260628,
+        "num": 260628,
+        "word": "2023年美国侵犯人权报告",
+        "onboard_time": 1716950177,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 259077,
+        "num": 259077,
+        "word": "独行侠3比1森林狼",
+        "onboard_time": 1716952878,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367543,
+        "num": 256378,
+        "word": "杜华女儿8岁就开始化妆了",
+        "onboard_time": 1716952817,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274222,
+        "num": 251267,
+        "word": "奔跑吧杭州飞行嘉宾",
+        "onboard_time": 1716945497,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274125,
+        "num": 249360,
+        "word": "家门口彩票店中了7457万元",
+        "onboard_time": 1716951137,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244896,
+        "num": 244896,
+        "word": "张若昀第二季帅到人物介绍都变了",
+        "onboard_time": 1716951616,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225595,
+        "num": 225595,
+        "word": "用茅台乱打比方局长简历被撤",
+        "onboard_time": 1716952698,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206491,
+        "num": 206491,
+        "word": "墨雨云间",
+        "onboard_time": 1716951137,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205309,
+        "num": 205309,
+        "word": "种地吧音乐会报名",
+        "onboard_time": 1716948498,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201778,
+        "num": 201778,
+        "word": "孙丞潇回复金莎",
+        "onboard_time": 1716945617,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198179,
+        "num": 198179,
+        "word": "章昊这次回国不是体测是跑男",
+        "onboard_time": 1716948498,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197008,
+        "num": 197008,
+        "word": "比亚迪油耗",
+        "onboard_time": 1716953059,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 196892,
+        "num": 196892,
+        "word": "i人女生工作两年加了4000好友",
+        "onboard_time": 1716945258,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193986,
+        "num": 193986,
+        "word": "原来一个人住冰箱可以这么干净",
+        "onboard_time": 1716939316,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190285,
+        "num": 190285,
+        "word": "青3选手刘峰磊入职律所",
+        "onboard_time": 1716953359,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176611,
+        "num": 176611,
+        "word": "小林制药",
+        "onboard_time": 1716952518,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158905,
+        "num": 158905,
+        "word": "为什么洞洞鞋看着透气却容易得脚气",
+        "onboard_time": 1716952457,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154659,
+        "num": 154659,
+        "word": "叶修 荣耀之神",
+        "onboard_time": 1716952397,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 499280,
+        "num": 151956,
+        "word": "生育越晚更年期也可能会越晚",
+        "onboard_time": 1716951137,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145784,
+        "num": 145784,
+        "word": "满屏都是唐艺昕",
+        "onboard_time": 1716900318,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141305,
+        "num": 141305,
+        "word": "医生称通便茶长期服用或致癌",
+        "onboard_time": 1716950538,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139962,
+        "num": 139962,
+        "word": "联合利剑2024A演习后还有B和C吗",
+        "onboard_time": 1716952998,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138705,
+        "num": 138705,
+        "word": "刘端端复刻二皇子先秦淑女步",
+        "onboard_time": 1716941778,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137918,
+        "num": 137918,
+        "word": "第一批丁克开始操心养老",
+        "onboard_time": 1716903197,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133901,
+        "num": 133901,
+        "word": "首套房首付比例进入15%时代",
+        "onboard_time": 1716953477,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354714,
+        "num": 132711,
+        "word": "重庆夫妻疑被卖到缅甸最新进展",
+        "onboard_time": 1716946458,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130417,
+        "num": 130417,
+        "word": "世界水獭日",
+        "onboard_time": 1716953239,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127062,
+        "num": 127062,
+        "word": "20岁女生留学新加坡坠亡",
+        "onboard_time": 1716942739,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125433,
+        "num": 125433,
+        "word": "致敬中国蓝盔",
+        "onboard_time": 1716951077,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120951,
+        "num": 120951,
+        "word": "王鹤棣再录奔跑吧",
+        "onboard_time": 1716949638,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113322,
+        "num": 113322,
+        "word": "肠胃是人体第二大脑",
+        "onboard_time": 1716950898,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113004,
+        "num": 113004,
+        "word": "29岁小伙痔疮就诊查出肠癌",
+        "onboard_time": 1716953598,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中赤几关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
