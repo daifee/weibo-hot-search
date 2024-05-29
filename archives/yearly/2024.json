@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1716971843528,
+  "endTime": 1716974485914,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -2115,6 +2115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 3200623,
+      "num": 3200623,
+      "word": "孙楠退赛 汪涵表情",
+      "onboard_time": 1716972558,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3192353,
       "num": 562052,
       "word": "徐正溪为什么",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1711069459,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 3035751,
-      "num": 5961512,
-      "word": "龙行龘龘",
-      "onboard_time": 1707475654,
-      "rank": 1,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716971843528,
+  "endTime": 1716974485914,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -9,6 +9,14 @@
       "onboard_time": 1716776658,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3200623,
+      "num": 3200623,
+      "word": "孙楠退赛 汪涵表情",
+      "onboard_time": 1716972558,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2554102,
@@ -283,6 +291,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1420277,
+      "num": 1420277,
+      "word": "苹果帮截图 5块一张",
+      "onboard_time": 1716972618,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1410588,
       "num": 1410588,
       "word": "陈赫冰桶打人事件受害者",
@@ -449,6 +465,14 @@
       "onboard_time": 1716900077,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1195410,
+      "num": 403290,
+      "word": "孙楠 不用送炭争取添花",
+      "onboard_time": 1716970398,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1161535,
@@ -1003,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 784105,
+      "num": 245570,
+      "word": "男子捅死妻子出轨对象被判15年",
+      "onboard_time": 1716969497,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 774829,
       "num": 774829,
       "word": "金价暴涨金店老板们不敢进货了",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1716713239,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 744818,
-      "num": 403290,
-      "word": "孙楠 不用送炭争取添花",
-      "onboard_time": 1716970398,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 742505,
@@ -1185,14 +1209,6 @@
       "onboard_time": 1716968358,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 718862,
-      "num": 245570,
-      "word": "男子捅死妻子出轨对象被判15年",
-      "onboard_time": 1716969497,
-      "rank": 20,
-      "category": "社会负面"
     },
     {
       "raw_hot": 718113,
@@ -1721,6 +1737,14 @@
       "onboard_time": 1716945617,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 563629,
+      "num": 370030,
+      "word": "王妈塌房后小号还在发广告",
+      "onboard_time": 1716969318,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 561105,
@@ -2443,14 +2467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 445801,
-      "num": 289023,
-      "word": "王妈塌房后小号还在发广告",
-      "onboard_time": 1716969318,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 444747,
       "num": 229233,
       "word": "被研究生宿舍的上床下桌整破防了",
@@ -2859,6 +2875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383274,
+      "num": 383274,
+      "word": "王妈塌房 武汉求职市场",
+      "onboard_time": 1716973399,
+      "rank": 3,
+      "category": "社会议题,网红"
+    },
+    {
       "raw_hot": 382391,
       "num": 382391,
       "word": "中国统一的大势不可逆转",
@@ -3059,6 +3083,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 359901,
+      "num": 359901,
+      "word": "请张予曦把眼镜焊在脸上",
+      "onboard_time": 1716970758,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359643,
       "num": 359643,
       "word": "赵丽颖真的很喜欢橙色耳环",
@@ -3208,6 +3240,14 @@
       "word": "原来杨紫陈楚生早年合作过",
       "onboard_time": 1716884839,
       "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 340321,
+      "num": 340321,
+      "word": "赵露思直发深V",
+      "onboard_time": 1716973279,
+      "rank": 13,
       "category": "作品衍生"
     },
     {
@@ -3401,6 +3441,14 @@
       "onboard_time": 1716773237,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 318093,
+      "num": 318093,
+      "word": "燃油附加费降至50或30元",
+      "onboard_time": 1716972739,
+      "rank": 15,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 315800,
@@ -3843,14 +3891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 275323,
-      "num": 226018,
-      "word": "请张予曦把眼镜焊在脸上",
-      "onboard_time": 1716970758,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275109,
       "num": 275109,
       "word": "凯尔特人晋级总决赛",
@@ -3953,6 +3993,14 @@
       "onboard_time": 1716724637,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 265476,
+      "num": 265476,
+      "word": "王楚钦邀请波尔一起训练",
+      "onboard_time": 1716973579,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 265283,
@@ -4843,6 +4891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218359,
+      "num": 206837,
+      "word": "董洁 短裙叠短裤",
+      "onboard_time": 1716973098,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218039,
       "num": 218039,
       "word": "男童不慎把502胶水抹胳膊和嘴上",
@@ -4905,6 +4961,14 @@
       "onboard_time": 1716822200,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215663,
+      "num": 215663,
+      "word": "巴黎奥运会会徽 陈鲁豫",
+      "onboard_time": 1716972677,
+      "rank": 25,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 215286,
@@ -5675,6 +5739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193217,
+      "num": 193217,
+      "word": "六年级儿子的初恋计划",
+      "onboard_time": 1716969917,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193092,
       "num": 190252,
       "word": "人类的体毛为什么不能好好长",
@@ -5849,6 +5921,14 @@
       "onboard_time": 1716860238,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188774,
+      "num": 188774,
+      "word": "RedVelvet将回归",
+      "onboard_time": 1716973518,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 188766,
@@ -6089,14 +6169,6 @@
       "onboard_time": 1716697038,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182936,
-      "num": 182936,
-      "word": "六年级儿子的初恋计划",
-      "onboard_time": 1716969917,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 182281,
@@ -8139,6 +8211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131122,
+      "num": 131122,
+      "word": "丁程鑫敖子逸hi6上班路透",
+      "onboard_time": 1716971959,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131110,
       "num": 131110,
       "word": "李耕耘说开花的时候再见",
@@ -8489,6 +8569,14 @@
       "onboard_time": 1716902838,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123953,
+      "num": 116283,
+      "word": "王启年 不是属下是挚友",
+      "onboard_time": 1716974299,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 123904,
@@ -8843,6 +8931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116177,
+      "num": 116177,
+      "word": "机器人60秒完成1杯拉花咖啡",
+      "onboard_time": 1716971538,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 116081,
       "num": 116081,
       "word": "Doinb力挺mlxg",
@@ -9025,14 +9121,6 @@
       "onboard_time": 1716684917,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111134,
-      "num": 111134,
-      "word": "机器人60秒完成1杯拉花咖啡",
-      "onboard_time": 1716971538,
-      "rank": 48,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 111110,
@@ -9395,6 +9483,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 96450,
+      "num": 102019,
+      "word": "愚公不能移星期三吗",
+      "onboard_time": 1716974118,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96217,
       "num": 96217,
       "word": "汪苏泷自编王源新歌手势舞",
@@ -9497,6 +9593,14 @@
       "onboard_time": 1716638418,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90889,
+      "num": 101423,
+      "word": "一箭四星首次在日照附近海域发射",
+      "onboard_time": 1716972138,
+      "rank": 49,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 90723,
@@ -10473,6 +10577,14 @@
       "onboard_time": 1716841990,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31866,
+      "num": 362663,
+      "word": "被孩子看到姥姥姥爷的笑声治愈了",
+      "onboard_time": 1716967398,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 30960,
