@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716945697419,
+  "endTime": 1716946957884,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -185,6 +185,14 @@
       "onboard_time": 1716812899,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1560600,
+      "num": 1560600,
+      "word": "人民日报评王妈背刺打工人",
+      "onboard_time": 1716944658,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1557550,
@@ -715,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 840762,
-      "num": 840762,
-      "word": "人民日报评王妈背刺打工人",
-      "onboard_time": 1716944658,
-      "rank": 1,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 840689,
       "num": 200557,
       "word": "董卿 渣苏感",
@@ -873,6 +873,14 @@
       "onboard_time": 1716817219,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 774829,
+      "num": 774829,
+      "word": "金价暴涨金店老板们不敢进货了",
+      "onboard_time": 1716944718,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 771315,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1716779719,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700675,
+      "num": 700675,
+      "word": "奔跑吧杭州飞行嘉宾",
+      "onboard_time": 1716945497,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 691881,
@@ -1489,6 +1505,14 @@
       "onboard_time": 1716708978,
       "rank": 1,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 561397,
+      "num": 397180,
+      "word": "孙丞潇回复金莎",
+      "onboard_time": 1716945617,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 559654,
@@ -2065,6 +2089,14 @@
       "onboard_time": 1716853276,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 452419,
+      "num": 452419,
+      "word": "小林制药已致5死280余人住院",
+      "onboard_time": 1716946577,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452183,
@@ -2659,6 +2691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357225,
+      "num": 357225,
+      "word": "i人女生工作两年加了4000好友",
+      "onboard_time": 1716945258,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 357095,
       "num": 357095,
       "word": "缅北电诈四大家族悉数抓捕到案",
@@ -2721,14 +2761,6 @@
       "onboard_time": 1716900917,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 348018,
-      "num": 348018,
-      "word": "金价暴涨金店老板们不敢进货了",
-      "onboard_time": 1716944718,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 347230,
@@ -3587,6 +3619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254265,
+      "num": 254265,
+      "word": "王妈",
+      "onboard_time": 1716878238,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 254122,
       "num": 254122,
       "word": "庆余年群像",
@@ -4059,14 +4099,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 225927,
-      "num": 225927,
-      "word": "孙丞潇回复金莎",
-      "onboard_time": 1716945617,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225861,
       "num": 225861,
       "word": "孙杨状态",
@@ -4193,14 +4225,6 @@
       "onboard_time": 1716731299,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221336,
-      "num": 221336,
-      "word": "i人女生工作两年加了4000好友",
-      "onboard_time": 1716945258,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 220378,
@@ -4555,14 +4579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206031,
-      "num": 206031,
-      "word": "奔跑吧杭州飞行嘉宾",
-      "onboard_time": 1716945497,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205532,
       "num": 205532,
       "word": "你觉得身边吸烟的人变少了吗",
@@ -4883,14 +4899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196970,
-      "num": 196970,
-      "word": "王妈",
-      "onboard_time": 1716878238,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 196751,
       "num": 196751,
       "word": "善宰小率婚纱照",
@@ -5009,6 +5017,14 @@
       "onboard_time": 1716877038,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192923,
+      "num": 192923,
+      "word": "重庆夫妻疑被卖到缅甸最新进展",
+      "onboard_time": 1716946458,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192653,
@@ -6059,6 +6075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159673,
+      "num": 159673,
+      "word": "外国人在西安美食里横冲直撞",
+      "onboard_time": 1716946097,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159441,
       "num": 159441,
       "word": "烟花少年阵容官宣",
@@ -6491,6 +6515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144807,
+      "num": 277079,
+      "word": "怎么帮孩子选择更合适的鲜奶",
+      "onboard_time": 1716945258,
+      "rank": 29,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 144322,
       "num": 120305,
       "word": "济南纪检监察部门已收到葛女士举报",
@@ -6707,6 +6739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139487,
+      "num": 139487,
+      "word": "范闲林婉儿洞房花烛被打断",
+      "onboard_time": 1716945856,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139102,
       "num": 139102,
       "word": "戛纳摄影师最爱巩俐章子怡",
@@ -6729,6 +6769,14 @@
       "onboard_time": 1716883939,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138615,
+      "num": 138615,
+      "word": "共享员工或随时面临被裁",
+      "onboard_time": 1716945558,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 138524,
@@ -7027,6 +7075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132552,
+      "num": 205794,
+      "word": "一人一句祝林孝埈生快",
+      "onboard_time": 1716946156,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132496,
       "num": 284675,
       "word": "5岁赛车手8字漂移直呼太简单了",
@@ -7289,14 +7345,6 @@
       "onboard_time": 1716891560,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 126001,
-      "num": 203790,
-      "word": "怎么帮孩子选择更合适的鲜奶",
-      "onboard_time": 1716945258,
-      "rank": 29,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 125877,
@@ -7571,6 +7619,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 119875,
+      "num": 119875,
+      "word": "突然好奇以前的就业环境什么样",
+      "onboard_time": 1716945497,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119856,
       "num": 119856,
       "word": "高考10天倒计时",
@@ -7785,14 +7841,6 @@
       "onboard_time": 1716821661,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112860,
-      "num": 112860,
-      "word": "突然好奇以前的就业环境什么样",
-      "onboard_time": 1716945497,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 112855,

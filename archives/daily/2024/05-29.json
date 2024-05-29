@@ -1,7 +1,15 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716945697419,
+  "endTime": 1716946957884,
   "band_list": [
+    {
+      "raw_hot": 1560600,
+      "num": 1560600,
+      "word": "人民日报评王妈背刺打工人",
+      "onboard_time": 1716944658,
+      "rank": 1,
+      "category": "社会新闻,网红"
+    },
     {
       "raw_hot": 1555619,
       "num": 1555619,
@@ -35,12 +43,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 840762,
-      "num": 840762,
-      "word": "人民日报评王妈背刺打工人",
-      "onboard_time": 1716944658,
-      "rank": 1,
-      "category": "社会新闻,网红"
+      "raw_hot": 774829,
+      "num": 774829,
+      "word": "金价暴涨金店老板们不敢进货了",
+      "onboard_time": 1716944718,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 751721,
@@ -49,6 +57,14 @@
       "onboard_time": 1716906140,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 700675,
+      "num": 700675,
+      "word": "奔跑吧杭州飞行嘉宾",
+      "onboard_time": 1716945497,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 670102,
@@ -83,6 +99,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 561397,
+      "num": 397180,
+      "word": "孙丞潇回复金莎",
+      "onboard_time": 1716945617,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532163,
       "num": 532163,
       "word": "女子因个人感情问题强行要求下飞机",
@@ -96,6 +120,14 @@
       "word": "撞脸情侣亲缘鉴定结果出来了",
       "onboard_time": 1716909198,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452419,
+      "num": 452419,
+      "word": "小林制药已致5死280余人住院",
+      "onboard_time": 1716946577,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -179,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357225,
+      "num": 357225,
+      "word": "i人女生工作两年加了4000好友",
+      "onboard_time": 1716945258,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350491,
       "num": 350491,
       "word": "招商银行从普华永道改聘安永",
@@ -193,14 +233,6 @@
       "onboard_time": 1716906439,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 348018,
-      "num": 348018,
-      "word": "金价暴涨金店老板们不敢进货了",
-      "onboard_time": 1716944718,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 334589,
@@ -251,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254265,
+      "num": 254265,
+      "word": "王妈",
+      "onboard_time": 1716945497,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 249538,
       "num": 243021,
       "word": "背着善宰跑大结局",
@@ -283,27 +323,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225927,
-      "num": 225927,
-      "word": "孙丞潇回复金莎",
-      "onboard_time": 1716945617,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224416,
       "num": 435628,
       "word": "老祖宗的顶级审美此刻具象化了",
       "onboard_time": 1716944477,
       "rank": 9,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 221336,
-      "num": 221336,
-      "word": "i人女生工作两年加了4000好友",
-      "onboard_time": 1716945258,
-      "rank": 25,
       "category": "情感"
     },
     {
@@ -321,14 +345,6 @@
       "onboard_time": 1716942739,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 206031,
-      "num": 206031,
-      "word": "奔跑吧杭州飞行嘉宾",
-      "onboard_time": 1716945497,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 203452,
@@ -355,12 +371,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 196970,
-      "num": 196970,
-      "word": "王妈",
-      "onboard_time": 1716945497,
+      "raw_hot": 192923,
+      "num": 192923,
+      "word": "重庆夫妻疑被卖到缅甸最新进展",
+      "onboard_time": 1716946458,
       "rank": 32,
-      "category": "网红"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189941,
@@ -435,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159673,
+      "num": 159673,
+      "word": "外国人在西安美食里横冲直撞",
+      "onboard_time": 1716946097,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147855,
       "num": 147855,
       "word": "雷佳音头比章子怡大两倍",
       "onboard_time": 1716939316,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144807,
+      "num": 277079,
+      "word": "怎么帮孩子选择更合适的鲜奶",
+      "onboard_time": 1716945258,
+      "rank": 29,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 144127,
@@ -457,6 +489,22 @@
       "onboard_time": 1716909500,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139487,
+      "num": 139487,
+      "word": "范闲林婉儿洞房花烛被打断",
+      "onboard_time": 1716945856,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138615,
+      "num": 138615,
+      "word": "共享员工或随时面临被裁",
+      "onboard_time": 1716945558,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 137186,
@@ -483,20 +531,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132552,
+      "num": 205794,
+      "word": "一人一句祝林孝埈生快",
+      "onboard_time": 1716946156,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127535,
       "num": 127535,
       "word": "王妈公司前员工称在职时天天加班",
       "onboard_time": 1716944237,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 126001,
-      "num": 203790,
-      "word": "怎么帮孩子选择更合适的鲜奶",
-      "onboard_time": 1716945258,
-      "rank": 29,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 125341,
@@ -539,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119875,
+      "num": 119875,
+      "word": "突然好奇以前的就业环境什么样",
+      "onboard_time": 1716945497,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117452,
       "num": 117452,
       "word": "未婚在意外怀孕上要零容错",
@@ -561,14 +617,6 @@
       "onboard_time": 1716912557,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112860,
-      "num": 112860,
-      "word": "突然好奇以前的就业环境什么样",
-      "onboard_time": 1716945497,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 111110,
@@ -732,7 +780,7 @@
     },
     {
       "raw_hot": 58365,
-      "num": 774277,
+      "num": 935734,
       "word": "浩瀚太空再一次留下中国足迹",
       "onboard_time": 1716897798,
       "rank": 2,
