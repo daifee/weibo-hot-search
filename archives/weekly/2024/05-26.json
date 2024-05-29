@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716987021053,
+  "endTime": 1716988891377,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -179,6 +179,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1679049,
+      "num": 1679049,
+      "word": "周杰伦特别嘉宾王俊凯",
+      "onboard_time": 1716985516,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1662712,
       "num": 1013883,
       "word": "他退出TFBOYS后老了很多",
@@ -353,14 +361,6 @@
       "onboard_time": 1716719839,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1358005,
-      "num": 1358005,
-      "word": "周杰伦特别嘉宾王俊凯",
-      "onboard_time": 1716985516,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 1349116,
@@ -787,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 893487,
+      "num": 893487,
+      "word": "袁心玥 击掌",
+      "onboard_time": 1716986658,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 886181,
       "num": 886181,
       "word": "台湾",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1716969497,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 780903,
+      "num": 357633,
+      "word": "舍不得范思辙",
+      "onboard_time": 1716986356,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 774829,
@@ -1772,7 +1788,7 @@
     },
     {
       "raw_hot": 572079,
-      "num": 289636,
+      "num": 319538,
       "word": "苗苗选择跟郑恺在一起的原因",
       "onboard_time": 1716978019,
       "rank": 24,
@@ -1785,6 +1801,14 @@
       "onboard_time": 1716735080,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 570334,
+      "num": 326223,
+      "word": "汪涵应该感谢我",
+      "onboard_time": 1716984858,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 568946,
@@ -1860,7 +1884,7 @@
     },
     {
       "raw_hot": 553792,
-      "num": 293209,
+      "num": 325546,
       "word": "张若昀每天都给唐艺昕做早餐",
       "onboard_time": 1716980237,
       "rank": 22,
@@ -2105,14 +2129,6 @@
       "onboard_time": 1716694878,
       "rank": 5,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 512836,
-      "num": 287720,
-      "word": "汪涵应该感谢我",
-      "onboard_time": 1716984858,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 512315,
@@ -3483,6 +3499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 334612,
+      "num": 334612,
+      "word": "逐步取消各地新能源车限购",
+      "onboard_time": 1716983115,
+      "rank": 39,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 334589,
       "num": 315170,
       "word": "李云睿李承泽 抽象对话",
@@ -3521,6 +3545,14 @@
       "onboard_time": 1716873858,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 330164,
+      "num": 247438,
+      "word": "姨妈巾一辈子要花多少钱",
+      "onboard_time": 1716987377,
+      "rank": 22,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 327390,
@@ -3587,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321898,
+      "num": 321898,
+      "word": "王者荣耀",
+      "onboard_time": 1716987739,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 320772,
       "num": 320772,
       "word": "奔跑吧",
@@ -3609,14 +3649,6 @@
       "onboard_time": 1716693199,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320235,
-      "num": 206491,
-      "word": "舍不得范思辙",
-      "onboard_time": 1716986356,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 318249,
@@ -3793,6 +3825,14 @@
       "onboard_time": 1716782900,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 301010,
+      "num": 247328,
+      "word": "费介倒地",
+      "onboard_time": 1716988038,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 300670,
@@ -4227,6 +4267,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 263515,
+      "num": 247319,
+      "word": "刘诗诗狐妖月红篇镜头",
+      "onboard_time": 1716988158,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263294,
       "num": 263294,
       "word": "墨雨云间",
@@ -4435,20 +4483,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 251874,
+      "num": 251874,
+      "word": "中国女排1比1荷兰女排",
+      "onboard_time": 1716987256,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251745,
       "num": 237738,
       "word": "内娱智性恋天花板",
       "onboard_time": 1716902298,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251423,
-      "num": 206168,
-      "word": "袁心玥 击掌",
-      "onboard_time": 1716986658,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 250690,
@@ -4489,6 +4537,14 @@
       "onboard_time": 1716801919,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 247230,
+      "num": 247230,
+      "word": "内娱红毯为什么变无聊了",
+      "onboard_time": 1716983538,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247120,
@@ -4537,6 +4593,14 @@
       "onboard_time": 1716704117,
       "rank": 48,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 245392,
+      "num": 245392,
+      "word": "庆余年2",
+      "onboard_time": 1716987618,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 245015,
@@ -5603,14 +5667,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 202200,
-      "num": 202200,
-      "word": "内娱红毯为什么变无聊了",
-      "onboard_time": 1716983538,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 202047,
       "num": 173296,
       "word": "马伊琍去新疆了",
@@ -5852,7 +5908,7 @@
     },
     {
       "raw_hot": 197039,
-      "num": 203078,
+      "num": 210602,
       "word": "这种水果很甜升糖指数却不高",
       "onboard_time": 1716981437,
       "rank": 29,
@@ -6755,6 +6811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174215,
+      "num": 174215,
+      "word": "胡歌 人生有很多预料不到的下一秒",
+      "onboard_time": 1716987377,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173783,
       "num": 173783,
       "word": "萌兰笋爆火后笋农增收超千万",
@@ -7331,6 +7395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159023,
+      "num": 159023,
+      "word": "不卸妆睡觉的危害",
+      "onboard_time": 1716987437,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 158702,
       "num": 158702,
       "word": "多家奶茶推出mini杯",
@@ -7659,14 +7731,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 149579,
-      "num": 149579,
-      "word": "逐步取消各地新能源车限购",
-      "onboard_time": 1716983115,
-      "rank": 39,
-      "category": "汽车,社会新闻"
-    },
-    {
       "raw_hot": 149568,
       "num": 149568,
       "word": "没有人天生应该对你好 爹例外",
@@ -7937,6 +8001,14 @@
       "onboard_time": 1716893899,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 142500,
+      "num": 142500,
+      "word": "白衣爆料无畏挂牌",
+      "onboard_time": 1716987798,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 142445,
@@ -8475,6 +8547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133377,
+      "num": 133377,
+      "word": "东北工地10元自助餐",
+      "onboard_time": 1716988459,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133310,
       "num": 133310,
       "word": "厂二代们正在接一种很新的班",
@@ -8811,6 +8891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127947,
+      "num": 127947,
+      "word": "在家健身更有性价比",
+      "onboard_time": 1716988338,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 127535,
       "num": 127535,
       "word": "王妈公司前员工称在职时天天加班",
@@ -8889,6 +8977,14 @@
       "onboard_time": 1716891560,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 126007,
+      "num": 126007,
+      "word": "奶牛猫是最有骨气的猫",
+      "onboard_time": 1716986658,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 125877,
@@ -9121,14 +9217,6 @@
       "onboard_time": 1716700519,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 121273,
-      "num": 121273,
-      "word": "奶牛猫是最有骨气的猫",
-      "onboard_time": 1716986658,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 121158,
@@ -9539,6 +9627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111860,
+      "num": 111860,
+      "word": "金牛座不为人知的秘密",
+      "onboard_time": 1716987858,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111606,
       "num": 111606,
       "word": "李昊广州音乐会",
@@ -9739,6 +9835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107001,
+      "num": 107001,
+      "word": "庆余年悬空庙刺杀",
+      "onboard_time": 1716988878,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106922,
       "num": 106922,
       "word": "手机一定要清理的四大文件",
@@ -9801,6 +9905,14 @@
       "onboard_time": 1716736819,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105014,
+      "num": 247374,
+      "word": "女子每两周给40多个儿子送饭",
+      "onboard_time": 1716986898,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104564,
@@ -9905,6 +10017,14 @@
       "onboard_time": 1716889818,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100495,
+      "num": 247568,
+      "word": "女生为圆医生梦本科毕业后重新高考",
+      "onboard_time": 1716987497,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 100334,
@@ -10512,14 +10632,6 @@
       "word": "马面裙给曹县汉服设计师引来港商",
       "onboard_time": 1716863598,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69428,
-      "num": 205753,
-      "word": "女子每两周给40多个儿子送饭",
-      "onboard_time": 1716986898,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
