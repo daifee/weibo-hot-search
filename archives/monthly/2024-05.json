@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717007808757,
+  "endTime": 1717010149198,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -76931,6 +76931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60146,
+      "num": 49052,
+      "word": "华春莹发加沙女孩流浪视频",
+      "onboard_time": 1717006032,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60123,
       "num": 60123,
       "word": "美式前刺",
@@ -79065,14 +79073,6 @@
       "onboard_time": 1715451615,
       "rank": 44,
       "category": "自然,科学科普"
-    },
-    {
-      "raw_hot": 39316,
-      "num": 39316,
-      "word": "华春莹发加沙女孩流浪视频",
-      "onboard_time": 1717006032,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39244,

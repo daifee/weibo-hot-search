@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717007808757,
+  "endTime": 1717010149198,
   "band_list": [
     {
       "raw_hot": 863663,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60146,
+      "num": 49052,
+      "word": "华春莹发加沙女孩流浪视频",
+      "onboard_time": 1717006032,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55790,
       "num": 55790,
       "word": "广美学生毕设以父亲为原型铸钢雕",
@@ -425,14 +433,6 @@
       "onboard_time": 1716990676,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39316,
-      "num": 39316,
-      "word": "华春莹发加沙女孩流浪视频",
-      "onboard_time": 1717006032,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35630,
