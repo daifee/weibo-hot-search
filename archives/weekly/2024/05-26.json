@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716957481349,
+  "endTime": 1716959943136,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -225,6 +225,14 @@
       "onboard_time": 1716940398,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1548567,
+      "num": 1548567,
+      "word": "歌手 搁浅",
+      "onboard_time": 1716957020,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1541174,
@@ -1203,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 655580,
+      "num": 646741,
+      "word": "歌手第四期两首周杰伦的歌",
+      "onboard_time": 1716956299,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655560,
       "num": 246737,
       "word": "中医建议肝不好做这六个动作",
@@ -1228,19 +1244,11 @@
     },
     {
       "raw_hot": 649595,
-      "num": 220098,
+      "num": 264528,
       "word": "29岁小伙痔疮就诊查出肠癌",
       "onboard_time": 1716953598,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 646741,
-      "num": 646741,
-      "word": "歌手第四期两首周杰伦的歌",
-      "onboard_time": 1716956299,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 646597,
@@ -1659,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 552006,
+      "num": 612169,
+      "word": "肠胃不好人会变笨吗",
+      "onboard_time": 1716953778,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 551959,
       "num": 300145,
       "word": "秦皇岛巨响",
@@ -1929,14 +1945,6 @@
       "onboard_time": 1716726438,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 506938,
-      "num": 612169,
-      "word": "肠胃不好人会变笨吗",
-      "onboard_time": 1716953778,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 506086,
@@ -2643,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392367,
+      "num": 262499,
+      "word": "钟薛高老板说新品化得非常快",
+      "onboard_time": 1716958939,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 392054,
       "num": 255879,
       "word": "杨紫瘦了piu仔胖了",
@@ -2699,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382570,
+      "num": 382570,
+      "word": "女孩把生病吃过的胶囊做成永生花",
+      "onboard_time": 1716957800,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382391,
       "num": 382391,
       "word": "中国统一的大势不可逆转",
@@ -2736,14 +2760,6 @@
       "word": "秦岚减肥像极了我本人",
       "onboard_time": 1716795438,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 377272,
-      "num": 377272,
-      "word": "歌手 搁浅",
-      "onboard_time": 1716957020,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -3723,6 +3739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 265283,
+      "num": 265283,
+      "word": "为什么洞洞鞋看着透气却容易得脚气",
+      "onboard_time": 1716952457,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 264221,
       "num": 225606,
       "word": "蒲熠星现场",
@@ -3833,6 +3857,14 @@
       "onboard_time": 1716718699,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 258402,
+      "num": 258402,
+      "word": "新女团抄袭BABYMONSTER",
+      "onboard_time": 1716958159,
+      "rank": 22,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 258242,
@@ -4121,14 +4153,6 @@
       "onboard_time": 1716688518,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242023,
-      "num": 242023,
-      "word": "为什么洞洞鞋看着透气却容易得脚气",
-      "onboard_time": 1716952457,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 241618,
@@ -4883,6 +4907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205651,
+      "num": 205651,
+      "word": "魔方新世界",
+      "onboard_time": 1716959359,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205532,
       "num": 205532,
       "word": "你觉得身边吸烟的人变少了吗",
@@ -5603,6 +5635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186540,
+      "num": 186540,
+      "word": "八大油气田将上架淘宝",
+      "onboard_time": 1716959658,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186446,
       "num": 177990,
       "word": "炼狱茨木童子新皮肤",
@@ -6227,6 +6267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166673,
+      "num": 166673,
+      "word": "aespa美甲",
+      "onboard_time": 1716959119,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166571,
       "num": 166571,
       "word": "农村是一座巨大的围城",
@@ -6241,6 +6289,14 @@
       "onboard_time": 1716801738,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165864,
+      "num": 165864,
+      "word": "唐嫣T锦绣六月刊封面",
+      "onboard_time": 1716958520,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165842,
@@ -6296,6 +6352,14 @@
       "word": "黄宣 风向星座",
       "onboard_time": 1716708497,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164689,
+      "num": 164689,
+      "word": "向佐到底录了多少综艺",
+      "onboard_time": 1716957439,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -6963,14 +7027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143092,
-      "num": 143092,
-      "word": "向佐到底录了多少综艺",
-      "onboard_time": 1716957439,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143022,
       "num": 143022,
       "word": "叶修生日贺图",
@@ -7025,6 +7081,14 @@
       "onboard_time": 1716855498,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142355,
+      "num": 142355,
+      "word": "恋爱兄妹",
+      "onboard_time": 1716958339,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 142264,
@@ -7595,6 +7659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130930,
+      "num": 130930,
+      "word": "嗅觉在偷偷帮你选择配偶",
+      "onboard_time": 1716958041,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130685,
       "num": 130685,
       "word": "范闲该硬硬该软软",
@@ -7697,6 +7769,14 @@
       "onboard_time": 1716777738,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128687,
+      "num": 128687,
+      "word": "洞洞鞋鞋花",
+      "onboard_time": 1716958580,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 128603,
@@ -8587,6 +8667,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 102767,
+      "num": 343026,
+      "word": "百公里油耗不到一杯奶茶钱",
+      "onboard_time": 1716956541,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102701,
       "num": 102701,
       "word": "郭有才发博回应爆火",
@@ -8987,14 +9075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79936,
-      "num": 201953,
-      "word": "百公里油耗不到一杯奶茶钱",
-      "onboard_time": 1716956541,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 79771,
       "num": 79771,
       "word": "刘冲 VOGUE",
@@ -9201,6 +9281,14 @@
       "onboard_time": 1716881598,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68246,
+      "num": 467551,
+      "word": "肠胃最容易受情绪影响",
+      "onboard_time": 1716958820,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67446,

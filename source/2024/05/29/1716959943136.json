@@ -1,0 +1,410 @@
+{
+  "runTime": 1716959943136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1548567,
+        "num": 1548567,
+        "word": "歌手 搁浅",
+        "onboard_time": 1716957020,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1086415,
+        "num": 1086415,
+        "word": "小林制药已致5死280余人住院",
+        "onboard_time": 1716946577,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61682,
+        "num": 775900,
+        "word": "万千气象看广东",
+        "onboard_time": 1716952760,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1588384,
+        "num": 764085,
+        "word": "张若昀父母均没有出席儿子婚礼",
+        "onboard_time": 1716954318,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602576,
+        "num": 602576,
+        "word": "国台办回应台湾艺人转央视新闻海报",
+        "onboard_time": 1716951978,
+        "rank": 4,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 552006,
+        "num": 552006,
+        "word": "肠胃不好人会变笨吗",
+        "onboard_time": 1716953778,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 655580,
+        "num": 532353,
+        "word": "歌手第四期两首周杰伦的歌",
+        "onboard_time": 1716956299,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652277,
+        "num": 527190,
+        "word": "李小冉 基因",
+        "onboard_time": 1716951616,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504028,
+        "num": 504028,
+        "word": "用茅台乱打比方局长简历被撤",
+        "onboard_time": 1716952698,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68246,
+        "num": 467551,
+        "word": "肠胃最容易受情绪影响",
+        "onboard_time": 1716958820,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 535251,
+        "num": 466013,
+        "word": "歌手歌单",
+        "onboard_time": 1716954619,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454442,
+        "num": 454442,
+        "word": "人民日报评王妈背刺打工人",
+        "onboard_time": 1716944658,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 415285,
+        "num": 415285,
+        "word": "多家银行暂停无卡存取款",
+        "onboard_time": 1716949397,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415105,
+        "num": 415105,
+        "word": "陈伟霆赵露思 许我耀眼",
+        "onboard_time": 1716954918,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400336,
+        "num": 400336,
+        "word": "首套房首付比例进入15%时代",
+        "onboard_time": 1716953477,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382570,
+        "num": 382570,
+        "word": "女孩把生病吃过的胶囊做成永生花",
+        "onboard_time": 1716957800,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364560,
+        "num": 364560,
+        "word": "杜华女儿8岁就开始化妆了",
+        "onboard_time": 1716952817,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102767,
+        "num": 343026,
+        "word": "百公里油耗不到一杯奶茶钱",
+        "onboard_time": 1716956541,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 322394,
+        "num": 322394,
+        "word": "繁花 白玉兰",
+        "onboard_time": 1716954437,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265283,
+        "num": 265283,
+        "word": "为什么洞洞鞋看着透气却容易得脚气",
+        "onboard_time": 1716952457,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 636825,
+        "num": 264528,
+        "word": "29岁小伙痔疮就诊查出肠癌",
+        "onboard_time": 1716953598,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392367,
+        "num": 262499,
+        "word": "钟薛高老板说新品化得非常快",
+        "onboard_time": 1716958939,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 258402,
+        "num": 258402,
+        "word": "新女团抄袭BABYMONSTER",
+        "onboard_time": 1716958159,
+        "rank": 22,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 222365,
+        "num": 222365,
+        "word": "王妈两个月广告收入或达960万",
+        "onboard_time": 1716940398,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205651,
+        "num": 205651,
+        "word": "魔方新世界",
+        "onboard_time": 1716959359,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198694,
+        "num": 198694,
+        "word": "善宰小率 玄彬孙艺珍",
+        "onboard_time": 1716951258,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195461,
+        "num": 195461,
+        "word": "家门口彩票店中了7457万元",
+        "onboard_time": 1716951137,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186540,
+        "num": 186540,
+        "word": "八大油气田将上架淘宝",
+        "onboard_time": 1716959658,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186134,
+        "num": 186134,
+        "word": "宰亨智媛 甜",
+        "onboard_time": 1716954138,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174604,
+        "num": 174604,
+        "word": "原来一个人住冰箱可以这么干净",
+        "onboard_time": 1716939316,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170552,
+        "num": 170552,
+        "word": "张若昀在家里为唐艺昕备有菜单",
+        "onboard_time": 1716948197,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166673,
+        "num": 166673,
+        "word": "aespa美甲",
+        "onboard_time": 1716959119,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165864,
+        "num": 165864,
+        "word": "唐嫣T锦绣六月刊封面",
+        "onboard_time": 1716958520,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165852,
+        "num": 165852,
+        "word": "墨雨云间 大女主",
+        "onboard_time": 1716954798,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164689,
+        "num": 164689,
+        "word": "向佐到底录了多少综艺",
+        "onboard_time": 1716957439,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162706,
+        "num": 162706,
+        "word": "王鹤棣觉得乐山适合录桃花坞",
+        "onboard_time": 1716956541,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150305,
+        "num": 150305,
+        "word": "肖战藏海传个人戏份",
+        "onboard_time": 1716951377,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148269,
+        "num": 148269,
+        "word": "金价暴涨金店老板们不敢进货了",
+        "onboard_time": 1716944718,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140567,
+        "num": 146806,
+        "word": "小猫躲在墙角故意吓唬主人",
+        "onboard_time": 1716956180,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134986,
+        "num": 146330,
+        "word": "姐们别拍视频了救救我",
+        "onboard_time": 1716954258,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73027,
+        "num": 146316,
+        "word": "媒体实测比亚迪续航超2500公里",
+        "onboard_time": 1716954018,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146305,
+        "num": 146305,
+        "word": "歌手",
+        "onboard_time": 1716955340,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147069,
+        "num": 145266,
+        "word": "奔跑吧杭州飞行嘉宾",
+        "onboard_time": 1716945497,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143471,
+        "num": 143471,
+        "word": "王妈在公司有绝对的话语权",
+        "onboard_time": 1716947656,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142355,
+        "num": 142355,
+        "word": "恋爱兄妹",
+        "onboard_time": 1716958339,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139178,
+        "num": 139178,
+        "word": "张若昀唐艺昕是情侣名",
+        "onboard_time": 1716949877,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134979,
+        "num": 134979,
+        "word": "严浩翔把全身重量踩在向佐胸口",
+        "onboard_time": 1716956900,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130930,
+        "num": 130930,
+        "word": "嗅觉在偷偷帮你选择配偶",
+        "onboard_time": 1716958041,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128687,
+        "num": 128687,
+        "word": "洞洞鞋鞋花",
+        "onboard_time": 1716958580,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 123242,
+        "num": 123242,
+        "word": "20岁女生留学新加坡坠亡",
+        "onboard_time": 1716942739,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国同赤道几内亚是肝胆相照的好朋友#"
+    }
+  }
+}
