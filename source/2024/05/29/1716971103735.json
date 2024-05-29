@@ -1,0 +1,410 @@
+{
+  "runTime": 1716971103735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 834169,
+        "num": 834169,
+        "word": "洪啸确认孙楠补位",
+        "onboard_time": 1716969739,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552983,
+        "num": 552983,
+        "word": "钟薛高创始人卖红薯被指红薯刺客",
+        "onboard_time": 1716962539,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34645,
+        "num": 540311,
+        "word": "麦田丰收宛如金色的海洋",
+        "onboard_time": 1716967577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034462,
+        "num": 535440,
+        "word": "唐艺昕用纹身给张若昀安全感",
+        "onboard_time": 1716961938,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 820309,
+        "num": 534207,
+        "word": "王妈网店出售不正之风短袖",
+        "onboard_time": 1716960798,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 528203,
+        "num": 528203,
+        "word": "面对漂亮的老婆是这样的",
+        "onboard_time": 1716963498,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 674399,
+        "num": 503650,
+        "word": "王启年其实是叶轻眉给范闲的高铁",
+        "onboard_time": 1716968358,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439679,
+        "num": 439679,
+        "word": "警方通报花臂男辱骂车主滚出南京",
+        "onboard_time": 1716968237,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333239,
+        "num": 333239,
+        "word": "女孩把生病吃过的胶囊做成永生花",
+        "onboard_time": 1716957800,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91575,
+        "num": 332838,
+        "word": "国台办回应台湾艺人转央视新闻海报",
+        "onboard_time": 1716951978,
+        "rank": 9,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 620310,
+        "num": 332042,
+        "word": "白玉兰 男主",
+        "onboard_time": 1716966557,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456793,
+        "num": 331497,
+        "word": "墨雨云间把蒋依依换成赵晴了",
+        "onboard_time": 1716968658,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426507,
+        "num": 330602,
+        "word": "王力宏档期",
+        "onboard_time": 1716966676,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330331,
+        "num": 330331,
+        "word": "天津一工业园被曝100多座楼烂尾",
+        "onboard_time": 1716964517,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6514,
+        "num": 296491,
+        "word": "容易拉肚子可能肠道有炎症",
+        "onboard_time": 1716969619,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 414422,
+        "num": 282284,
+        "word": "歌手 搁浅",
+        "onboard_time": 1716957020,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267368,
+        "num": 267368,
+        "word": "Faker新皮肤疑似定价500美元",
+        "onboard_time": 1716961277,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247068,
+        "num": 247068,
+        "word": "小林制药已致5死280余人住院",
+        "onboard_time": 1716946577,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222524,
+        "num": 222524,
+        "word": "久哲回归Hero",
+        "onboard_time": 1716970578,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198336,
+        "num": 222518,
+        "word": "LOL名人堂入选标准公布",
+        "onboard_time": 1716967877,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 459600,
+        "num": 222038,
+        "word": "男子捅死妻子出轨对象被判15年",
+        "onboard_time": 1716969497,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 411417,
+        "num": 221525,
+        "word": "王妈塌房后小号还在发广告",
+        "onboard_time": 1716969318,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 362442,
+        "num": 220900,
+        "word": "孙楠 不用送炭争取添花",
+        "onboard_time": 1716970398,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361684,
+        "num": 220246,
+        "word": "张若昀父母均没有出席儿子婚礼",
+        "onboard_time": 1716954318,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256891,
+        "num": 220000,
+        "word": "杨幂喊妈妈",
+        "onboard_time": 1716966557,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219681,
+        "num": 219681,
+        "word": "范闲身世曝光",
+        "onboard_time": 1716962898,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216654,
+        "num": 216654,
+        "word": "请张予曦把眼镜焊在脸上",
+        "onboard_time": 1716970758,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205667,
+        "num": 205667,
+        "word": "李嘉琦彩妆已经nextlevel",
+        "onboard_time": 1716969739,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185513,
+        "num": 185513,
+        "word": "29岁小伙痔疮就诊查出肠癌",
+        "onboard_time": 1716953598,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182936,
+        "num": 182936,
+        "word": "六年级儿子的初恋计划",
+        "onboard_time": 1716969917,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192251,
+        "num": 181737,
+        "word": "李小冉 老天爷喂饭吃",
+        "onboard_time": 1716969739,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188766,
+        "num": 180409,
+        "word": "aespa新歌练习室",
+        "onboard_time": 1716969917,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179073,
+        "num": 179073,
+        "word": "英雄志预告",
+        "onboard_time": 1716968418,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173235,
+        "num": 173235,
+        "word": "大爷剥橘子给B太试吃前在抠脚",
+        "onboard_time": 1716967398,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158421,
+        "num": 158421,
+        "word": "巴勒斯坦",
+        "onboard_time": 1716964037,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169464,
+        "num": 157256,
+        "word": "孙楠路人缘",
+        "onboard_time": 1716970578,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134521,
+        "num": 155750,
+        "word": "他们真的存不下钱",
+        "onboard_time": 1716967817,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131706,
+        "num": 153357,
+        "word": "讨厌打开APP歌就被暂停",
+        "onboard_time": 1716962478,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299728,
+        "num": 152002,
+        "word": "徐贤点赞请愿福宝被虐待的帖",
+        "onboard_time": 1716960559,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128663,
+        "num": 150254,
+        "word": "10岁女生玩手游被恐吓骗走1万多元",
+        "onboard_time": 1716968537,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165392,
+        "num": 148478,
+        "word": "蔡国庆说跑男选张真源对了",
+        "onboard_time": 1716968597,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146867,
+        "num": 146867,
+        "word": "陈哲远提名首尔电视剧大赏",
+        "onboard_time": 1716967938,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146262,
+        "num": 146262,
+        "word": "花少节目组",
+        "onboard_time": 1716962958,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138264,
+        "num": 138264,
+        "word": "李小冉 基因",
+        "onboard_time": 1716951616,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132730,
+        "num": 132730,
+        "word": "歌手第四期两首周杰伦的歌",
+        "onboard_time": 1716956299,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123006,
+        "num": 123006,
+        "word": "人民日报评王妈背刺打工人",
+        "onboard_time": 1716944658,
+        "rank": 45,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 118687,
+        "num": 118687,
+        "word": "叶修军装",
+        "onboard_time": 1716969917,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118080,
+        "num": 118080,
+        "word": "无穷小亮 厄瓜多尔冠蜥暴起",
+        "onboard_time": 1716966619,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115967,
+        "num": 115967,
+        "word": "人类的体毛为什么不能好好长",
+        "onboard_time": 1716965056,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112206,
+        "num": 115808,
+        "word": "复写纸已经是时代的眼泪了吗",
+        "onboard_time": 1716970639,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中赤几关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}

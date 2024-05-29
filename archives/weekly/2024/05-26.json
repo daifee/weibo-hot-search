@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716968089528,
+  "endTime": 1716971103735,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -851,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 834169,
+      "num": 834169,
+      "word": "洪啸确认孙楠补位",
+      "onboard_time": 1716969739,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 833811,
       "num": 227472,
       "word": "室友养了一只98年出生的猫",
@@ -1235,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 674399,
+      "num": 503650,
+      "word": "王启年其实是叶轻眉给范闲的高铁",
+      "onboard_time": 1716968358,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 669611,
       "num": 669611,
       "word": "长公主好美",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1716891918,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 620310,
+      "num": 377586,
+      "word": "白玉兰 男主",
+      "onboard_time": 1716966557,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 620232,
@@ -2307,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459600,
+      "num": 222038,
+      "word": "男子捅死妻子出轨对象被判15年",
+      "onboard_time": 1716969497,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 458645,
       "num": 458645,
       "word": "京东集团再次给采销大幅加薪",
@@ -2337,6 +2369,14 @@
       "onboard_time": 1716689539,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456793,
+      "num": 331497,
+      "word": "墨雨云间把蒋依依换成赵晴了",
+      "onboard_time": 1716968658,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 455032,
@@ -2443,6 +2483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 439679,
+      "num": 439679,
+      "word": "警方通报花臂男辱骂车主滚出南京",
+      "onboard_time": 1716968237,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439278,
       "num": 228405,
       "word": "去阿勒泰旅游的人膀胱快炸了",
@@ -2505,6 +2553,14 @@
       "onboard_time": 1716903619,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 426507,
+      "num": 330602,
+      "word": "王力宏档期",
+      "onboard_time": 1716966676,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 426497,
@@ -2585,6 +2641,14 @@
       "onboard_time": 1716727159,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411417,
+      "num": 221525,
+      "word": "王妈塌房后小号还在发广告",
+      "onboard_time": 1716969318,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 410831,
@@ -2811,14 +2875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377586,
-      "num": 377586,
-      "word": "白玉兰 男主",
-      "onboard_time": 1716966557,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 377465,
       "num": 357606,
       "word": "上海大学生花29天坐公交到新加坡",
@@ -2969,6 +3025,14 @@
       "onboard_time": 1716923711,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362442,
+      "num": 220900,
+      "word": "孙楠 不用送炭争取添花",
+      "onboard_time": 1716970398,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 362193,
@@ -3497,14 +3561,6 @@
       "onboard_time": 1716782900,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 302405,
-      "num": 204384,
-      "word": "王力宏档期",
-      "onboard_time": 1716966676,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 300670,
@@ -4372,7 +4428,7 @@
     },
     {
       "raw_hot": 235743,
-      "num": 162808,
+      "num": 173235,
       "word": "大爷剥橘子给B太试吃前在抠脚",
       "onboard_time": 1716967398,
       "rank": 23,
@@ -4651,6 +4707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222524,
+      "num": 222524,
+      "word": "久哲回归Hero",
+      "onboard_time": 1716970578,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 222446,
       "num": 222446,
       "word": "赵露思冰蓝倩影",
@@ -4769,6 +4833,14 @@
       "onboard_time": 1716780199,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 216654,
+      "num": 216654,
+      "word": "请张予曦把眼镜焊在脸上",
+      "onboard_time": 1716970758,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 216604,
@@ -5075,6 +5147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205667,
+      "num": 205667,
+      "word": "李嘉琦彩妆已经nextlevel",
+      "onboard_time": 1716969739,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205651,
       "num": 205651,
       "word": "魔方新世界",
@@ -5363,6 +5443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198336,
+      "num": 222518,
+      "word": "LOL名人堂入选标准公布",
+      "onboard_time": 1716967877,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198225,
       "num": 164965,
       "word": "赵丽颖爱工作爱生活",
@@ -5587,6 +5675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192251,
+      "num": 181737,
+      "word": "李小冉 老天爷喂饭吃",
+      "onboard_time": 1716969739,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192218,
       "num": 159255,
       "word": "这种长寿菜现在吃正好",
@@ -5737,6 +5833,14 @@
       "onboard_time": 1716860238,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188766,
+      "num": 180409,
+      "word": "aespa新歌练习室",
+      "onboard_time": 1716969917,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 188700,
@@ -5971,6 +6075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182936,
+      "num": 182936,
+      "word": "六年级儿子的初恋计划",
+      "onboard_time": 1716969917,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182281,
       "num": 182281,
       "word": "排球少年声优都是狠人",
@@ -6057,6 +6169,14 @@
       "onboard_time": 1716865038,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179073,
+      "num": 179073,
+      "word": "英雄志预告",
+      "onboard_time": 1716968418,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 178567,
@@ -6379,6 +6499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169464,
+      "num": 157256,
+      "word": "孙楠路人缘",
+      "onboard_time": 1716970578,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169366,
       "num": 169366,
       "word": "太子才要不得脸面",
@@ -6529,6 +6657,14 @@
       "onboard_time": 1716720079,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165392,
+      "num": 148478,
+      "word": "蔡国庆说跑男选张真源对了",
+      "onboard_time": 1716968597,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 165158,
@@ -7187,6 +7323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146867,
+      "num": 146867,
+      "word": "陈哲远提名首尔电视剧大赏",
+      "onboard_time": 1716967938,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146738,
       "num": 146738,
       "word": "差点因为爱豆签名太丑脱粉",
@@ -7739,6 +7883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134521,
+      "num": 155750,
+      "word": "他们真的存不下钱",
+      "onboard_time": 1716967817,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134399,
       "num": 134399,
       "word": "爱萝莉删除微笑的留言",
@@ -8081,6 +8233,14 @@
       "onboard_time": 1716777738,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128663,
+      "num": 150254,
+      "word": "10岁女生玩手游被恐吓骗走1万多元",
+      "onboard_time": 1716968537,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128603,
@@ -8507,14 +8667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119515,
-      "num": 119515,
-      "word": "LOL名人堂入选标准公布",
-      "onboard_time": 1716967877,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 119469,
       "num": 119469,
       "word": "陈奕迅发文",
@@ -8537,6 +8689,14 @@
       "onboard_time": 1716765375,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118687,
+      "num": 118687,
+      "word": "叶修军装",
+      "onboard_time": 1716969917,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 118683,
@@ -8569,14 +8729,6 @@
       "onboard_time": 1716695899,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 118024,
-      "num": 118024,
-      "word": "他们真的存不下钱",
-      "onboard_time": 1716967817,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 117916,
@@ -8665,14 +8817,6 @@
       "onboard_time": 1716957740,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115913,
-      "num": 115913,
-      "word": "陈哲远提名首尔电视剧大赏",
-      "onboard_time": 1716967938,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 115738,
@@ -8785,6 +8929,14 @@
       "onboard_time": 1716694998,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112206,
+      "num": 115808,
+      "word": "复写纸已经是时代的眼泪了吗",
+      "onboard_time": 1716970639,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 112155,
@@ -10243,6 +10395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34645,
+      "num": 780319,
+      "word": "麦田丰收宛如金色的海洋",
+      "onboard_time": 1716967577,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33181,
       "num": 273039,
       "word": "成都特警夏训一起走花路",
@@ -10353,14 +10513,6 @@
       "onboard_time": 1716663191,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23288,
-      "num": 780319,
-      "word": "麦田丰收宛如金色的海洋",
-      "onboard_time": 1716967577,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23118,
@@ -10505,6 +10657,14 @@
       "onboard_time": 1716778823,
       "rank": 14,
       "category": "教育,健康医疗"
+    },
+    {
+      "raw_hot": 6514,
+      "num": 296491,
+      "word": "容易拉肚子可能肠道有炎症",
+      "onboard_time": 1716969619,
+      "rank": 14,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

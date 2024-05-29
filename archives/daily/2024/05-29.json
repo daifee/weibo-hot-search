@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716968089528,
+  "endTime": 1716971103735,
   "band_list": [
     {
       "raw_hot": 2124366,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 834169,
+      "num": 834169,
+      "word": "洪啸确认孙楠补位",
+      "onboard_time": 1716969739,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 800520,
       "num": 800520,
       "word": "巴勒斯坦",
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 674399,
+      "num": 503650,
+      "word": "王启年其实是叶轻眉给范闲的高铁",
+      "onboard_time": 1716968358,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 670102,
       "num": 670102,
       "word": "满屏都是唐艺昕",
@@ -233,6 +249,14 @@
       "onboard_time": 1716942739,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620310,
+      "num": 377586,
+      "word": "白玉兰 男主",
+      "onboard_time": 1716966557,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 607743,
@@ -387,12 +411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459600,
+      "num": 222038,
+      "word": "男子捅死妻子出轨对象被判15年",
+      "onboard_time": 1716969497,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 456954,
       "num": 424843,
       "word": "章昊这次回国不是体测是跑男",
       "onboard_time": 1716948498,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456793,
+      "num": 331497,
+      "word": "墨雨云间把蒋依依换成赵晴了",
+      "onboard_time": 1716968658,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 448154,
@@ -409,6 +449,14 @@
       "onboard_time": 1716938715,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 439679,
+      "num": 439679,
+      "word": "警方通报花臂男辱骂车主滚出南京",
+      "onboard_time": 1716968237,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435208,
@@ -435,12 +483,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 426507,
+      "num": 330602,
+      "word": "王力宏档期",
+      "onboard_time": 1716966676,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422661,
       "num": 422661,
       "word": "i人女生工作两年加了4000好友",
       "onboard_time": 1716945258,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 411417,
+      "num": 221525,
+      "word": "王妈塌房后小号还在发广告",
+      "onboard_time": 1716969318,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 407557,
@@ -499,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377586,
-      "num": 377586,
-      "word": "白玉兰 男主",
-      "onboard_time": 1716966557,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 374614,
       "num": 374614,
       "word": "杨幂喊妈妈",
@@ -545,6 +601,14 @@
       "onboard_time": 1716923711,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362442,
+      "num": 220900,
+      "word": "孙楠 不用送炭争取添花",
+      "onboard_time": 1716970398,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 350491,
@@ -617,14 +681,6 @@
       "onboard_time": 1716951137,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302405,
-      "num": 204384,
-      "word": "王力宏档期",
-      "onboard_time": 1716966676,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 301762,
@@ -764,7 +820,7 @@
     },
     {
       "raw_hot": 235743,
-      "num": 162808,
+      "num": 173235,
       "word": "大爷剥橘子给B太试吃前在抠脚",
       "onboard_time": 1716967398,
       "rank": 23,
@@ -795,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222524,
+      "num": 222524,
+      "word": "久哲回归Hero",
+      "onboard_time": 1716970578,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221514,
       "num": 196019,
       "word": "汪苏泷成都演唱会预售",
@@ -817,6 +881,14 @@
       "onboard_time": 1716943218,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216654,
+      "num": 216654,
+      "word": "请张予曦把眼镜焊在脸上",
+      "onboard_time": 1716970758,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 216055,
@@ -849,6 +921,14 @@
       "onboard_time": 1716952397,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 205667,
+      "num": 205667,
+      "word": "李嘉琦彩妆已经nextlevel",
+      "onboard_time": 1716969739,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205651,
@@ -889,6 +969,14 @@
       "onboard_time": 1716949638,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198336,
+      "num": 222518,
+      "word": "LOL名人堂入选标准公布",
+      "onboard_time": 1716967877,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 197008,
@@ -939,6 +1027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 192251,
+      "num": 181737,
+      "word": "李小冉 老天爷喂饭吃",
+      "onboard_time": 1716969739,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191930,
       "num": 191930,
       "word": "小猫躲在墙角故意吓唬主人",
@@ -979,12 +1075,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188766,
+      "num": 180409,
+      "word": "aespa新歌练习室",
+      "onboard_time": 1716969917,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 182936,
+      "num": 182936,
+      "word": "六年级儿子的初恋计划",
+      "onboard_time": 1716969917,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179979,
       "num": 179979,
       "word": "宋亚轩唱歌",
       "onboard_time": 1716963977,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179073,
+      "num": 179073,
+      "word": "英雄志预告",
+      "onboard_time": 1716968418,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 178335,
@@ -1043,6 +1163,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 169464,
+      "num": 157256,
+      "word": "孙楠路人缘",
+      "onboard_time": 1716970578,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169249,
       "num": 143068,
       "word": "善宰小率婚礼",
@@ -1073,6 +1201,14 @@
       "onboard_time": 1716958520,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165392,
+      "num": 148478,
+      "word": "蔡国庆说跑男选张真源对了",
+      "onboard_time": 1716968597,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 164775,
@@ -1211,6 +1347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146867,
+      "num": 146867,
+      "word": "陈哲远提名首尔电视剧大赏",
+      "onboard_time": 1716967938,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144807,
       "num": 277079,
       "word": "怎么帮孩子选择更合适的鲜奶",
@@ -1323,6 +1467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134521,
+      "num": 155750,
+      "word": "他们真的存不下钱",
+      "onboard_time": 1716967817,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134223,
       "num": 134223,
       "word": "世界水獭日",
@@ -1377,6 +1529,14 @@
       "onboard_time": 1716964339,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 128663,
+      "num": 150254,
+      "word": "10岁女生玩手游被恐吓骗走1万多元",
+      "onboard_time": 1716968537,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127535,
@@ -1467,12 +1627,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119515,
-      "num": 119515,
-      "word": "LOL名人堂入选标准公布",
-      "onboard_time": 1716967877,
-      "rank": 38,
-      "category": "电竞"
+      "raw_hot": 118687,
+      "num": 118687,
+      "word": "叶修军装",
+      "onboard_time": 1716969917,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 118129,
@@ -1481,14 +1641,6 @@
       "onboard_time": 1716963318,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118024,
-      "num": 118024,
-      "word": "他们真的存不下钱",
-      "onboard_time": 1716967817,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 117916,
@@ -1531,14 +1683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 115913,
-      "num": 115913,
-      "word": "陈哲远提名首尔电视剧大赏",
-      "onboard_time": 1716967938,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115730,
       "num": 115730,
       "word": "电视未来会消失吗",
@@ -1553,6 +1697,14 @@
       "onboard_time": 1716912557,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112206,
+      "num": 115808,
+      "word": "复写纸已经是时代的眼泪了吗",
+      "onboard_time": 1716970639,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 111301,
@@ -1883,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34645,
+      "num": 780319,
+      "word": "麦田丰收宛如金色的海洋",
+      "onboard_time": 1716967577,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30960,
       "num": 282824,
       "word": "流浪狗回回已找到领养人",
@@ -1904,14 +2064,6 @@
       "word": "男子23年后找到女儿泣不成声",
       "onboard_time": 1716915135,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23288,
-      "num": 780319,
-      "word": "麦田丰收宛如金色的海洋",
-      "onboard_time": 1716967577,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1937,6 +2089,14 @@
       "onboard_time": 1716926110,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 6514,
+      "num": 296491,
+      "word": "容易拉肚子可能肠道有炎症",
+      "onboard_time": 1716969619,
+      "rank": 14,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
