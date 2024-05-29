@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716960928973,
+  "endTime": 1716963942778,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -539,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1047483,
+      "num": 385159,
+      "word": "王妈网店出售不正之风短袖",
+      "onboard_time": 1716960798,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1031743,
       "num": 1031743,
       "word": "SuperJunior13人合体",
@@ -569,6 +577,14 @@
       "onboard_time": 1716875298,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 991065,
+      "num": 991065,
+      "word": "女孩把生病吃过的胶囊做成永生花",
+      "onboard_time": 1716957800,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 990740,
@@ -689,6 +705,14 @@
       "onboard_time": 1716802159,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 897775,
+      "num": 319515,
+      "word": "唐艺昕用纹身给张若昀安全感",
+      "onboard_time": 1716961938,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 895634,
@@ -1073,14 +1097,6 @@
       "onboard_time": 1716815539,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 734602,
-      "num": 734602,
-      "word": "女孩把生病吃过的胶囊做成永生花",
-      "onboard_time": 1716957800,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 731254,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1716636258,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 597653,
+      "num": 319437,
+      "word": "徐贤点赞请愿福宝被虐待的帖",
+      "onboard_time": 1716960559,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 596095,
@@ -2819,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370735,
+      "num": 319269,
+      "word": "文韬积分第一",
+      "onboard_time": 1716960739,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368689,
       "num": 335527,
       "word": "aespa破表",
@@ -3227,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319255,
+      "num": 319255,
+      "word": "范闲身世曝光",
+      "onboard_time": 1716962898,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318249,
       "num": 318249,
       "word": "亚当圈粉",
@@ -3425,6 +3465,14 @@
       "onboard_time": 1716732320,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298066,
+      "num": 298066,
+      "word": "美国一军机坠毁飞行员送医",
+      "onboard_time": 1716960079,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 297101,
@@ -3699,20 +3747,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269973,
+      "num": 269973,
+      "word": "洞洞鞋鞋花",
+      "onboard_time": 1716958580,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 269835,
       "num": 511076,
       "word": "用古诗词为高考生加油",
       "onboard_time": 1716864436,
       "rank": 21,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 269770,
-      "num": 159546,
-      "word": "徐贤点赞请愿福宝被虐待的帖",
-      "onboard_time": 1716960559,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 269533,
@@ -3793,6 +3841,14 @@
       "onboard_time": 1716951137,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263284,
+      "num": 204712,
+      "word": "钟薛高创始人卖红薯被指红薯刺客",
+      "onboard_time": 1716962539,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262974,
@@ -4755,14 +4811,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 210572,
-      "num": 210572,
-      "word": "洞洞鞋鞋花",
-      "onboard_time": 1716958580,
-      "rank": 48,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 210371,
       "num": 210371,
       "word": "看似卫生其实会引发妇科疾病的行为",
@@ -4827,6 +4875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209258,
+      "num": 203463,
+      "word": "Faker新皮肤疑似定价500美元",
+      "onboard_time": 1716961277,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209234,
       "num": 209234,
       "word": "中学回应13岁女生遭男同学猥亵",
@@ -4857,6 +4913,14 @@
       "onboard_time": 1716818239,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 208078,
+      "num": 203082,
+      "word": "周杰伦 长沙",
+      "onboard_time": 1716962058,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 207993,
@@ -4929,6 +4993,14 @@
       "onboard_time": 1716676152,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205782,
+      "num": 202266,
+      "word": "花少节目组",
+      "onboard_time": 1716962958,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 205651,
@@ -5057,6 +5129,14 @@
       "onboard_time": 1716769699,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201998,
+      "num": 201998,
+      "word": "种地星球抽奖",
+      "onboard_time": 1716963557,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 201824,
@@ -5355,6 +5435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194271,
+      "num": 194271,
+      "word": "杨幂戛纳三天vlog",
+      "onboard_time": 1716962417,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194074,
       "num": 194074,
       "word": "独行侠3比0森林狼",
@@ -5433,14 +5521,6 @@
       "onboard_time": 1716703038,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 192077,
-      "num": 192077,
-      "word": "美国一军机坠毁飞行员送医",
-      "onboard_time": 1716960079,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 191930,
@@ -5899,14 +5979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179366,
-      "num": 156425,
-      "word": "文韬积分第一",
-      "onboard_time": 1716960739,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178567,
       "num": 165071,
       "word": "俞飞鸿小丈夫 超前精神状态",
@@ -6249,6 +6321,14 @@
       "onboard_time": 1716772638,
       "rank": 46,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 167874,
+      "num": 203957,
+      "word": "讨厌打开APP歌就被暂停",
+      "onboard_time": 1716962478,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 167868,
@@ -6683,6 +6763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156026,
+      "num": 155236,
+      "word": "观众当着吴磊的面cue赵露思",
+      "onboard_time": 1716961758,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155414,
       "num": 155414,
       "word": "到底哪些咖啡偷偷让人长胖",
@@ -6739,6 +6827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154097,
+      "num": 154097,
+      "word": "面对漂亮的老婆是这样的",
+      "onboard_time": 1716963498,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153720,
       "num": 153720,
       "word": "2024IVL转会期",
@@ -6785,6 +6881,14 @@
       "onboard_time": 1716871099,
       "rank": 47,
       "category": "科学科普,美食"
+    },
+    {
+      "raw_hot": 152894,
+      "num": 152894,
+      "word": "腾讯升级防沉迷四件套",
+      "onboard_time": 1716963498,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 152824,
@@ -7283,14 +7387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139314,
-      "num": 139314,
-      "word": "王妈网店出售不正之风短袖",
-      "onboard_time": 1716960798,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 139215,
       "num": 139215,
       "word": "看得出爸爸们都是自愿参加的",
@@ -7723,6 +7819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131110,
+      "num": 131110,
+      "word": "李耕耘说开花的时候再见",
+      "onboard_time": 1716961397,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131083,
       "num": 130851,
       "word": "钟楚曦的身材我的梦",
@@ -7889,6 +7993,14 @@
       "onboard_time": 1716774618,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126867,
+      "num": 126867,
+      "word": "张杰感动到哽咽",
+      "onboard_time": 1716961338,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 126755,
@@ -8283,6 +8395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118129,
+      "num": 118129,
+      "word": "叙利亚路边卖纸巾的老爷爷",
+      "onboard_time": 1716963318,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118086,
       "num": 118086,
       "word": "河南事业单位联考",
@@ -8305,6 +8425,14 @@
       "onboard_time": 1716880398,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 117764,
+      "num": 117764,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1716963199,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 117581,
@@ -9219,6 +9347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 75417,
+      "num": 204256,
+      "word": "王传福说全球插混进入中国时刻",
+      "onboard_time": 1716962539,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 75410,
       "num": 145705,
       "word": "比亚迪研发累计投入1400亿",
@@ -9297,6 +9433,14 @@
       "onboard_time": 1716708318,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72326,
+      "num": 319452,
+      "word": "如果生长在不扫兴的家庭该有多快乐",
+      "onboard_time": 1716961938,
+      "rank": 9,
+      "category": "情感,母婴育儿"
     },
     {
       "raw_hot": 71416,
