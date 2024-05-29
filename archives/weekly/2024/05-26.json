@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716953699934,
+  "endTime": 1716956653402,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -195,6 +195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1598298,
+      "num": 1144955,
+      "word": "张若昀父母均没有出席儿子婚礼",
+      "onboard_time": 1716954318,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1560600,
       "num": 1560600,
       "word": "人民日报评王妈背刺打工人",
@@ -249,6 +257,14 @@
       "onboard_time": 1716729379,
       "rank": 33,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1448402,
+      "num": 1448402,
+      "word": "歌手歌单",
+      "onboard_time": 1716954619,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1434209,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1228508,
+      "num": 1153464,
+      "word": "李小冉 基因",
+      "onboard_time": 1716951616,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1204925,
       "num": 656671,
       "word": "赛琳娜获得戛纳影后",
@@ -409,14 +433,6 @@
       "onboard_time": 1716725717,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1153464,
-      "num": 1153464,
-      "word": "李小冉 基因",
-      "onboard_time": 1716951616,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1150291,
@@ -569,6 +585,14 @@
       "onboard_time": 1716876379,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 967552,
+      "num": 967552,
+      "word": "和瘦的人亲嘴真能变瘦吗",
+      "onboard_time": 1716952518,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 965765,
@@ -1475,6 +1499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 579623,
+      "num": 579623,
+      "word": "用茅台乱打比方局长简历被撤",
+      "onboard_time": 1716952698,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 578083,
       "num": 269583,
       "word": "同事怀孕后我辞职了",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1716648620,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 575559,
+      "num": 220098,
+      "word": "29岁小伙痔疮就诊查出肠癌",
+      "onboard_time": 1716953598,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 575283,
@@ -2019,6 +2059,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485930,
+      "num": 485930,
+      "word": "肠胃不好人会变笨吗",
+      "onboard_time": 1716953778,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 484561,
+      "num": 484561,
+      "word": "陈伟霆赵露思 许我耀眼",
+      "onboard_time": 1716954918,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 483283,
       "num": 293242,
       "word": "黄宣解释光头不是秃头",
@@ -2128,6 +2184,14 @@
       "word": "黄晓明模仿亚当",
       "onboard_time": 1716816080,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 467395,
+      "num": 467395,
+      "word": "杜华女儿8岁就开始化妆了",
+      "onboard_time": 1716952817,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -2723,14 +2787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 367543,
-      "num": 256378,
-      "word": "杜华女儿8岁就开始化妆了",
-      "onboard_time": 1716952817,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 365313,
       "num": 211646,
       "word": "宋轶录节目哭了",
@@ -2801,6 +2857,14 @@
       "onboard_time": 1716647000,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 359379,
+      "num": 359379,
+      "word": "首套房首付比例进入15%时代",
+      "onboard_time": 1716953477,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358536,
@@ -2921,6 +2985,14 @@
       "onboard_time": 1716633260,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345084,
+      "num": 345084,
+      "word": "繁花 白玉兰",
+      "onboard_time": 1716954437,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 343488,
@@ -3257,6 +3329,14 @@
       "onboard_time": 1716729140,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304222,
+      "num": 216929,
+      "word": "歌手第四期两首周杰伦的歌",
+      "onboard_time": 1716956299,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 303870,
@@ -3683,6 +3763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262510,
+      "num": 237535,
+      "word": "歌手",
+      "onboard_time": 1716788298,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261219,
       "num": 244337,
       "word": "庆余年2演员学历",
@@ -3841,6 +3929,14 @@
       "onboard_time": 1716902298,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250763,
+      "num": 212649,
+      "word": "宰亨智媛 甜",
+      "onboard_time": 1716954138,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 250690,
@@ -4075,14 +4171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237535,
-      "num": 237535,
-      "word": "歌手",
-      "onboard_time": 1716788298,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236862,
       "num": 313655,
       "word": "云南白药董事陈发树等人辞职",
@@ -4291,12 +4379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225595,
-      "num": 225595,
-      "word": "用茅台乱打比方局长简历被撤",
-      "onboard_time": 1716952698,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 225699,
+      "num": 210176,
+      "word": "青3选手刘峰磊入职律所",
+      "onboard_time": 1716953359,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 225416,
@@ -4899,6 +4987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 201786,
+      "num": 201786,
+      "word": "王鹤棣觉得乐山适合录桃花坞",
+      "onboard_time": 1716956541,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201781,
       "num": 201781,
       "word": "王鹤棣 赢了不装等于没赢",
@@ -5083,6 +5179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197230,
+      "num": 197230,
+      "word": "为什么洞洞鞋看着透气却容易得脚气",
+      "onboard_time": 1716952457,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197172,
       "num": 197172,
       "word": "周杰伦四开",
@@ -5129,6 +5233,14 @@
       "onboard_time": 1716732919,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195883,
+      "num": 195883,
+      "word": "墨雨云间 大女主",
+      "onboard_time": 1716954798,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 195758,
@@ -5275,14 +5387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190285,
-      "num": 190285,
-      "word": "青3选手刘峰磊入职律所",
-      "onboard_time": 1716953359,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190191,
       "num": 190191,
       "word": "李沐宸夺娶女主",
@@ -5369,6 +5473,14 @@
       "onboard_time": 1716885376,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188628,
+      "num": 188628,
+      "word": "姐们别拍视频了救救我",
+      "onboard_time": 1716954258,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 188245,
@@ -5659,6 +5771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179754,
+      "num": 179754,
+      "word": "小猫躲在墙角故意吓唬主人",
+      "onboard_time": 1716956180,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179585,
       "num": 637751,
       "word": "国乒提前包揽冠亚军",
@@ -5947,6 +6067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170429,
+      "num": 170429,
+      "word": "乌尔比安没摘面罩",
+      "onboard_time": 1716955340,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170111,
       "num": 170111,
       "word": "郑合惠子出妆",
@@ -6097,14 +6225,6 @@
       "onboard_time": 1716801738,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166289,
-      "num": 518863,
-      "word": "和瘦的人亲嘴真能变瘦吗",
-      "onboard_time": 1716952518,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 165842,
@@ -6329,14 +6449,6 @@
       "onboard_time": 1716870559,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 158905,
-      "num": 158905,
-      "word": "为什么洞洞鞋看着透气却容易得脚气",
-      "onboard_time": 1716952457,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 158702,
@@ -7259,6 +7371,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 134223,
+      "num": 134223,
+      "word": "世界水獭日",
+      "onboard_time": 1716953239,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134101,
       "num": 134101,
       "word": "范闲 骡马假日",
@@ -7283,14 +7403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133901,
-      "num": 133901,
-      "word": "首套房首付比例进入15%时代",
-      "onboard_time": 1716953477,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133867,
       "num": 133867,
       "word": "aespa MV每一秒都像吃了毒蘑菇",
@@ -7313,6 +7425,14 @@
       "onboard_time": 1716719298,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133498,
+      "num": 133498,
+      "word": "肠胃是人体第二大脑",
+      "onboard_time": 1716950898,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133310,
@@ -7473,14 +7593,6 @@
       "onboard_time": 1716895217,
       "rank": 41,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 130417,
-      "num": 130417,
-      "word": "世界水獭日",
-      "onboard_time": 1716953239,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 130396,
@@ -8163,22 +8275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113322,
-      "num": 113322,
-      "word": "肠胃是人体第二大脑",
-      "onboard_time": 1716950898,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 113004,
-      "num": 113004,
-      "word": "29岁小伙痔疮就诊查出肠癌",
-      "onboard_time": 1716953598,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112855,
       "num": 112855,
       "word": "自来水为什么有时候是乳白色",
@@ -8731,6 +8827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87398,
+      "num": 217385,
+      "word": "媒体实测比亚迪续航超2500公里",
+      "onboard_time": 1716954018,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 87144,
       "num": 106619,
       "word": "原来朋友圈很多官宣照是这么来的",
@@ -8745,6 +8849,14 @@
       "onboard_time": 1716704778,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85888,
+      "num": 1261104,
+      "word": "万千气象看广东",
+      "onboard_time": 1716952760,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85688,
@@ -9043,6 +9155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69614,
+      "num": 129489,
+      "word": "百公里油耗不到一杯奶茶钱",
+      "onboard_time": 1716956541,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69310,
       "num": 192947,
       "word": "校车还没来狗狗雷达就提前收到信号了",
@@ -9055,14 +9175,6 @@
       "num": 1223507,
       "word": "2024年数据生产量增长或超25%",
       "onboard_time": 1716715638,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66874,
-      "num": 1261104,
-      "word": "万千气象看广东",
-      "onboard_time": 1716952760,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -9699,6 +9811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25296,
+      "num": 593636,
+      "word": "第22个国际维和人员日",
+      "onboard_time": 1716955220,
+      "rank": 9,
+      "category": "社会正能量,军事"
+    },
+    {
       "raw_hot": 25066,
       "num": 32193,
       "word": "新说唱2024",
@@ -9896,6 +10016,9 @@
     },
     {
       "word": "#中国同赤道几内亚是肝胆相照的好朋友#"
+    },
+    {
+      "word": "#增强广大劳动者的获得感幸福感安全感#"
     }
   ]
 }
