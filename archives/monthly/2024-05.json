@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1716959943136,
+  "endTime": 1716960928973,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -2011,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1648286,
+      "num": 1648286,
+      "word": "歌手 搁浅",
+      "onboard_time": 1716957020,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1642994,
       "num": 569906,
       "word": "霍启仁求婚成功",
@@ -2440,14 +2448,6 @@
       "word": "那英 数提词器",
       "onboard_time": 1715956045,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1548567,
-      "num": 1548567,
-      "word": "歌手 搁浅",
-      "onboard_time": 1716957020,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -9913,6 +9913,14 @@
       "onboard_time": 1716511101,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 734602,
+      "num": 734602,
+      "word": "女孩把生病吃过的胶囊做成永生花",
+      "onboard_time": 1716957800,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733783,
@@ -17843,6 +17851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482765,
+      "num": 262499,
+      "word": "钟薛高老板说新品化得非常快",
+      "onboard_time": 1716958939,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 482747,
       "num": 482747,
       "word": "小雨妆造",
@@ -21868,7 +21884,7 @@
     },
     {
       "raw_hot": 407557,
-      "num": 407557,
+      "num": 440969,
       "word": "首套房首付比例进入15%时代",
       "onboard_time": 1716953477,
       "rank": 42,
@@ -22803,14 +22819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 392367,
-      "num": 262499,
-      "word": "钟薛高老板说新品化得非常快",
-      "onboard_time": 1716958939,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 392355,
       "num": 448338,
       "word": "糯玉米会让血糖飙升",
@@ -23401,14 +23409,6 @@
       "onboard_time": 1716295219,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 382570,
-      "num": 382570,
-      "word": "女孩把生病吃过的胶囊做成永生花",
-      "onboard_time": 1716957800,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382391,
@@ -31827,6 +31827,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 269770,
+      "num": 159546,
+      "word": "徐贤点赞请愿福宝被虐待的帖",
+      "onboard_time": 1716960559,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269663,
       "num": 269663,
       "word": "张艺兴2024世界巡演官宣",
@@ -37963,6 +37971,14 @@
       "category": "科学科普,自然"
     },
     {
+      "raw_hot": 221514,
+      "num": 196019,
+      "word": "汪苏泷成都演唱会预售",
+      "onboard_time": 1716959958,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 221406,
       "num": 221406,
       "word": "内娱歌坛活了",
@@ -40017,6 +40033,14 @@
       "onboard_time": 1716294979,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 210572,
+      "num": 210572,
+      "word": "洞洞鞋鞋花",
+      "onboard_time": 1716958580,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 210553,
@@ -45163,6 +45187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193943,
+      "num": 193943,
+      "word": "搁浅",
+      "onboard_time": 1716960137,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193922,
       "num": 193922,
       "word": "电影沙漏 校园霸凌",
@@ -45369,6 +45401,14 @@
       "onboard_time": 1715336359,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193424,
+      "num": 186540,
+      "word": "八大油气田将上架淘宝",
+      "onboard_time": 1716959658,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193367,
@@ -45793,6 +45833,14 @@
       "onboard_time": 1714527018,
       "rank": 26,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 192077,
+      "num": 192077,
+      "word": "美国一军机坠毁飞行员送医",
+      "onboard_time": 1716960079,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 192052,
@@ -46401,6 +46449,14 @@
       "onboard_time": 1715783239,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190102,
+      "num": 190102,
+      "word": "印第安老斑鸠 黄宣",
+      "onboard_time": 1716959958,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 190054,
@@ -47577,14 +47633,6 @@
       "onboard_time": 1716249377,
       "rank": 32,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 186540,
-      "num": 186540,
-      "word": "八大油气田将上架淘宝",
-      "onboard_time": 1716959658,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186506,
@@ -49304,6 +49352,14 @@
       "word": "种地吧518爱侬日",
       "onboard_time": 1716015739,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179366,
+      "num": 156425,
+      "word": "文韬积分第一",
+      "onboard_time": 1716960739,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -61107,6 +61163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139314,
+      "num": 139314,
+      "word": "王妈网店出售不正之风短袖",
+      "onboard_time": 1716960798,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139311,
       "num": 139311,
       "word": "当旅行前让全家人签保证书",
@@ -62843,6 +62907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133586,
+      "num": 140626,
+      "word": "嗅觉在偷偷帮你选择配偶",
+      "onboard_time": 1716958041,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133583,
       "num": 133583,
       "word": "江浙沪爸爸人间理想",
@@ -63659,14 +63731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130930,
-      "num": 130930,
-      "word": "嗅觉在偷偷帮你选择配偶",
-      "onboard_time": 1716958041,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130878,
       "num": 143155,
       "word": "第五人格宁芙奖",
@@ -64297,14 +64361,6 @@
       "onboard_time": 1715948659,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128687,
-      "num": 128687,
-      "word": "洞洞鞋鞋花",
-      "onboard_time": 1716958580,
-      "rank": 48,
-      "category": "时尚"
     },
     {
       "raw_hot": 128671,
@@ -67955,6 +68011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116081,
+      "num": 116081,
+      "word": "Doinb力挺mlxg",
+      "onboard_time": 1716957740,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116047,
       "num": 116047,
       "word": "奶茶里面都有什么",
@@ -69123,6 +69187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111301,
+      "num": 343026,
+      "word": "百公里油耗不到一杯奶茶钱",
+      "onboard_time": 1716956541,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 111293,
       "num": 111293,
       "word": "曼联是冠军",
@@ -69425,6 +69497,14 @@
       "onboard_time": 1716093257,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109803,
+      "num": 467551,
+      "word": "肠胃最容易受情绪影响",
+      "onboard_time": 1716958820,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109783,
@@ -70705,14 +70785,6 @@
       "onboard_time": 1716257418,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102767,
-      "num": 343026,
-      "word": "百公里油耗不到一杯奶茶钱",
-      "onboard_time": 1716956541,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 102723,
@@ -74457,14 +74529,6 @@
       "onboard_time": 1716350780,
       "rank": 28,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 68246,
-      "num": 467551,
-      "word": "肠胃最容易受情绪影响",
-      "onboard_time": 1716958820,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 68177,

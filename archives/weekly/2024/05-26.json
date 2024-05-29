@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716959943136,
+  "endTime": 1716960928973,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -179,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1648286,
+      "num": 1648286,
+      "word": "歌手 搁浅",
+      "onboard_time": 1716957020,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1631628,
       "num": 1631628,
       "word": "逍遥散人求婚",
@@ -225,14 +233,6 @@
       "onboard_time": 1716940398,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1548567,
-      "num": 1548567,
-      "word": "歌手 搁浅",
-      "onboard_time": 1716957020,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1541174,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1716815539,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 734602,
+      "num": 734602,
+      "word": "女孩把生病吃过的胶囊做成永生花",
+      "onboard_time": 1716957800,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 731254,
@@ -2099,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482765,
+      "num": 262499,
+      "word": "钟薛高老板说新品化得非常快",
+      "onboard_time": 1716958939,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 481494,
       "num": 251217,
       "word": "4元1斤的大樱桃你吃到了吗",
@@ -2516,7 +2532,7 @@
     },
     {
       "raw_hot": 407557,
-      "num": 407557,
+      "num": 440969,
       "word": "首套房首付比例进入15%时代",
       "onboard_time": 1716953477,
       "rank": 42,
@@ -2651,14 +2667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392367,
-      "num": 262499,
-      "word": "钟薛高老板说新品化得非常快",
-      "onboard_time": 1716958939,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 392054,
       "num": 255879,
       "word": "杨紫瘦了piu仔胖了",
@@ -2713,14 +2721,6 @@
       "onboard_time": 1716941778,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382570,
-      "num": 382570,
-      "word": "女孩把生病吃过的胶囊做成永生花",
-      "onboard_time": 1716957800,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382391,
@@ -3707,6 +3707,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 269770,
+      "num": 159546,
+      "word": "徐贤点赞请愿福宝被虐待的帖",
+      "onboard_time": 1716960559,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269533,
       "num": 269533,
       "word": "许嵩青岛 抢票",
@@ -4531,6 +4539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221514,
+      "num": 196019,
+      "word": "汪苏泷成都演唱会预售",
+      "onboard_time": 1716959958,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 221495,
       "num": 251011,
       "word": "WTT",
@@ -4737,6 +4753,14 @@
       "onboard_time": 1716683537,
       "rank": 28,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 210572,
+      "num": 210572,
+      "word": "洞洞鞋鞋花",
+      "onboard_time": 1716958580,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 210371,
@@ -5347,6 +5371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193943,
+      "num": 193943,
+      "word": "搁浅",
+      "onboard_time": 1716960137,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193833,
       "num": 193833,
       "word": "FPX可惜",
@@ -5371,6 +5403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193424,
+      "num": 186540,
+      "word": "八大油气田将上架淘宝",
+      "onboard_time": 1716959658,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192978,
       "num": 192978,
       "word": "庆帝赐婚比月老牵线还靠谱",
@@ -5393,6 +5433,14 @@
       "onboard_time": 1716703038,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 192077,
+      "num": 192077,
+      "word": "美国一军机坠毁飞行员送医",
+      "onboard_time": 1716960079,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 191930,
@@ -5457,6 +5505,14 @@
       "onboard_time": 1716794778,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190102,
+      "num": 190102,
+      "word": "印第安老斑鸠 黄宣",
+      "onboard_time": 1716959958,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 190034,
@@ -5633,14 +5689,6 @@
       "onboard_time": 1716709518,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186540,
-      "num": 186540,
-      "word": "八大油气田将上架淘宝",
-      "onboard_time": 1716959658,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186446,
@@ -5848,6 +5896,14 @@
       "word": "十个勤天回忆",
       "onboard_time": 1716865038,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179366,
+      "num": 156425,
+      "word": "文韬积分第一",
+      "onboard_time": 1716960739,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -7227,6 +7283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139314,
+      "num": 139314,
+      "word": "王妈网店出售不正之风短袖",
+      "onboard_time": 1716960798,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139215,
       "num": 139215,
       "word": "看得出爸爸们都是自愿参加的",
@@ -7515,6 +7579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133586,
+      "num": 140626,
+      "word": "嗅觉在偷偷帮你选择配偶",
+      "onboard_time": 1716958041,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133576,
       "num": 133576,
       "word": "无畏被曝外出试训",
@@ -7659,14 +7731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130930,
-      "num": 130930,
-      "word": "嗅觉在偷偷帮你选择配偶",
-      "onboard_time": 1716958041,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130685,
       "num": 130685,
       "word": "范闲该硬硬该软软",
@@ -7769,14 +7833,6 @@
       "onboard_time": 1716777738,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128687,
-      "num": 128687,
-      "word": "洞洞鞋鞋花",
-      "onboard_time": 1716958580,
-      "rank": 48,
-      "category": "时尚"
     },
     {
       "raw_hot": 128603,
@@ -8307,6 +8363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116081,
+      "num": 116081,
+      "word": "Doinb力挺mlxg",
+      "onboard_time": 1716957740,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115738,
       "num": 115738,
       "word": "郑钦文法网开门红",
@@ -8451,6 +8515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111301,
+      "num": 343026,
+      "word": "百公里油耗不到一杯奶茶钱",
+      "onboard_time": 1716956541,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 111293,
       "num": 111293,
       "word": "曼联是冠军",
@@ -8513,6 +8585,14 @@
       "onboard_time": 1716685998,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109803,
+      "num": 467551,
+      "word": "肠胃最容易受情绪影响",
+      "onboard_time": 1716958820,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109693,
@@ -8665,14 +8745,6 @@
       "onboard_time": 1716864017,
       "rank": 38,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 102767,
-      "num": 343026,
-      "word": "百公里油耗不到一杯奶茶钱",
-      "onboard_time": 1716956541,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 102701,
@@ -9281,14 +9353,6 @@
       "onboard_time": 1716881598,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68246,
-      "num": 467551,
-      "word": "肠胃最容易受情绪影响",
-      "onboard_time": 1716958820,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 67446,
