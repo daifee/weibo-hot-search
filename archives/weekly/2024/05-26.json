@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716981397327,
+  "endTime": 1716982488053,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 961550,
-      "num": 378632,
+      "num": 394630,
       "word": "韩国歌手时隔9年将在华开唱",
       "onboard_time": 1716976698,
       "rank": 6,
@@ -1867,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538998,
+      "num": 394098,
+      "word": "郑乃馨早期言论",
+      "onboard_time": 1716981738,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536689,
       "num": 536689,
       "word": "陈伟霆赵露思 许我耀眼",
@@ -2723,6 +2731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418920,
+      "num": 390653,
+      "word": "武汉平均招聘月薪10313元",
+      "onboard_time": 1716978138,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412039,
       "num": 334432,
       "word": "大女主觉醒可以延长花期",
@@ -2843,6 +2859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 398049,
+      "num": 398049,
+      "word": "狐妖小红娘反转",
+      "onboard_time": 1716978739,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396322,
       "num": 396322,
       "word": "爱奇艺麦田音乐节",
@@ -2857,14 +2881,6 @@
       "onboard_time": 1716690318,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 395529,
-      "num": 378328,
-      "word": "武汉平均招聘月薪10313元",
-      "onboard_time": 1716978138,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394744,
@@ -2889,6 +2905,14 @@
       "onboard_time": 1716684678,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393065,
+      "num": 393065,
+      "word": "巴黎世家 矮子乐",
+      "onboard_time": 1716978438,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 392054,
@@ -2988,7 +3012,7 @@
     },
     {
       "raw_hot": 377735,
-      "num": 377735,
+      "num": 397666,
       "word": "我国成功从海上发射一箭4星",
       "onboard_time": 1716974838,
       "rank": 19,
@@ -3009,14 +3033,6 @@
       "onboard_time": 1716795438,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376513,
-      "num": 376513,
-      "word": "巴黎世家 矮子乐",
-      "onboard_time": 1716978438,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 376511,
@@ -3507,14 +3523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321695,
-      "num": 321695,
-      "word": "狐妖小红娘反转",
-      "onboard_time": 1716978739,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 320772,
       "num": 320772,
       "word": "奔跑吧",
@@ -3755,12 +3763,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298540,
+      "num": 298540,
+      "word": "中国女排vs荷兰女排",
+      "onboard_time": 1716980778,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298066,
       "num": 298066,
       "word": "美国一军机坠毁飞行员送医",
       "onboard_time": 1716960079,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 297398,
+      "num": 225342,
+      "word": "张若昀每天都给唐艺昕做早餐",
+      "onboard_time": 1716980237,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 297101,
@@ -3897,6 +3921,14 @@
       "onboard_time": 1716886699,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285130,
+      "num": 285130,
+      "word": "王妈塌房",
+      "onboard_time": 1716981918,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 284819,
@@ -4105,14 +4137,6 @@
       "onboard_time": 1716952457,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 265008,
-      "num": 265008,
-      "word": "中国女排vs荷兰女排",
-      "onboard_time": 1716980778,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 264221,
@@ -4619,6 +4643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 235611,
+      "num": 217927,
+      "word": "韩国人在美国开麻辣烫店",
+      "onboard_time": 1716981017,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 235189,
       "num": 181145,
       "word": "林更新个人vs范丞丞个人战",
@@ -4827,14 +4859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 225342,
-      "num": 225342,
-      "word": "张若昀每天都给唐艺昕做早餐",
-      "onboard_time": 1716980237,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224831,
       "num": 224831,
       "word": "庆余年2涨分了",
@@ -4921,6 +4945,14 @@
       "onboard_time": 1716651920,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221998,
+      "num": 221998,
+      "word": "李宁大秀",
+      "onboard_time": 1716982038,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 221595,
@@ -5609,6 +5641,14 @@
       "onboard_time": 1716708497,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200053,
+      "num": 200053,
+      "word": "探班福宝",
+      "onboard_time": 1716980837,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200014,
@@ -7363,6 +7403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153211,
+      "num": 153211,
+      "word": "汪苏泷唱雨天被孙燕姿认证好听",
+      "onboard_time": 1716981377,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 153206,
       "num": 141337,
       "word": "李小冉真正的风韵犹存",
@@ -7699,14 +7747,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 144737,
-      "num": 144737,
-      "word": "韩国人在美国开麻辣烫店",
-      "onboard_time": 1716981017,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 144322,
       "num": 120305,
       "word": "济南纪检监察部门已收到葛女士举报",
@@ -7817,14 +7857,6 @@
       "onboard_time": 1716958339,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142299,
-      "num": 142299,
-      "word": "探班福宝",
-      "onboard_time": 1716980837,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142264,
@@ -8579,6 +8611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129247,
+      "num": 129247,
+      "word": "语文老师真的能上体育课吗",
+      "onboard_time": 1716981317,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129114,
       "num": 129114,
       "word": "拜托大家再大胆一点吧",
@@ -9123,6 +9163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117677,
+      "num": 181018,
+      "word": "这种水果很甜升糖指数却不高",
+      "onboard_time": 1716981437,
+      "rank": 29,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 117581,
       "num": 117581,
       "word": "超市的杯子有自己的货币",
@@ -9611,6 +9659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104332,
+      "num": 104332,
+      "word": "怦然4有自己的难哄",
+      "onboard_time": 1716982157,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103880,
       "num": 265468,
       "word": "车队军训太帅了",
@@ -9681,14 +9737,6 @@
       "onboard_time": 1716889818,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100949,
-      "num": 100949,
-      "word": "汪苏泷唱雨天被孙燕姿认证好听",
-      "onboard_time": 1716981377,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 100334,
@@ -9811,6 +9859,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 94936,
+      "num": 94936,
+      "word": "台版曾舜晞抓蟑螂",
+      "onboard_time": 1716982457,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94572,
       "num": 364948,
       "word": "口中有口点点大",
@@ -9929,14 +9985,6 @@
       "onboard_time": 1716846731,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89914,
-      "num": 89914,
-      "word": "语文老师真的能上体育课吗",
-      "onboard_time": 1716981317,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 89142,
@@ -10715,6 +10763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43740,
+      "num": 395586,
+      "word": "工具类APP自动续费取消难",
+      "onboard_time": 1716981317,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42877,
       "num": 311817,
       "word": "杨洋首部短剧",
@@ -11099,6 +11155,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 13438,
+      "num": 789811,
+      "word": "三夏时节好丰景",
+      "onboard_time": 1716967457,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13415,
       "num": 18543,
       "word": "夏目友人帐好久不见",
@@ -11121,14 +11185,6 @@
       "onboard_time": 1716776780,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11930,
-      "num": 380513,
-      "word": "工具类APP自动续费取消难",
-      "onboard_time": 1716981317,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9638,
