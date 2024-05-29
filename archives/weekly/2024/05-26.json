@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717018482389,
+  "endTime": 1717021144288,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -9459,6 +9459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123362,
+      "num": 78306,
+      "word": "华春莹发加沙女孩流浪视频",
+      "onboard_time": 1717006032,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123123,
       "num": 123123,
       "word": "塔图姆36分",
@@ -11043,12 +11051,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 64824,
-      "num": 49052,
-      "word": "华春莹发加沙女孩流浪视频",
-      "onboard_time": 1717006032,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 64723,
+      "num": 64723,
+      "word": "歌手2024官宣孙楠",
+      "onboard_time": 1717005852,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 63964,
@@ -11595,14 +11603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38072,
-      "num": 38072,
-      "word": "歌手2024官宣孙楠",
-      "onboard_time": 1717005852,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 37687,
       "num": 506751,
       "word": "闺蜜生日女子花三个月手作相册礼物",
@@ -11691,6 +11691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31381,
+      "num": 29147,
+      "word": "杨幂红色风衣",
+      "onboard_time": 1717018091,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30960,
       "num": 282824,
       "word": "流浪狗回回已找到领养人",
@@ -11753,6 +11761,14 @@
       "onboard_time": 1716907759,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27777,
+      "num": 27777,
+      "word": "宁静说秦岚是小财神",
+      "onboard_time": 1717016650,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 26779,
@@ -11843,6 +11859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20123,
+      "num": 20123,
+      "word": "孙楠退赛完整视频",
+      "onboard_time": 1717015089,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19406,
       "num": 339811,
       "word": "河南女摊主一个小行为两个大意义",
@@ -11891,16 +11915,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17745,
-      "num": 17745,
-      "word": "孙楠退赛完整视频",
-      "onboard_time": 1717015089,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 17637,
-      "num": 17637,
+      "raw_hot": 18126,
+      "num": 20123,
       "word": "哪些因素会破坏肠道群菌",
       "onboard_time": 1717013830,
       "rank": 48,
@@ -11921,14 +11937,6 @@
       "onboard_time": 1716835631,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15827,
-      "num": 15827,
-      "word": "宁静说秦岚是小财神",
-      "onboard_time": 1717016650,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 15461,
@@ -11955,14 +11963,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 14785,
-      "num": 14785,
-      "word": "杨幂红色风衣",
-      "onboard_time": 1717018091,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 14754,
       "num": 16043,
       "word": "绳结技巧",
@@ -11987,6 +11987,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 12501,
+      "num": 155936,
+      "word": "我国首个大西洋载人深潜科考任务完成",
+      "onboard_time": 1716990257,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12142,
       "num": 13621,
       "word": "在他身上看到了热爱的具象化",
@@ -12001,14 +12009,6 @@
       "onboard_time": 1716776780,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11467,
-      "num": 143543,
-      "word": "我国首个大西洋载人深潜科考任务完成",
-      "onboard_time": 1716990257,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9638,
