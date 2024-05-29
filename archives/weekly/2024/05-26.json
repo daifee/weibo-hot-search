@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1716978102754,
+  "endTime": 1716979067051,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -1235,6 +1235,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 716533,
+      "num": 360570,
+      "word": "韩国歌手时隔9年将在华开唱",
+      "onboard_time": 1716976698,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 716015,
       "num": 507512,
       "word": "唐艺昕张若昀 美好爱情",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1716717077,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 655882,
-      "num": 360570,
-      "word": "韩国歌手时隔9年将在华开唱",
-      "onboard_time": 1716976698,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 655580,
@@ -2715,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411178,
+      "num": 290384,
+      "word": "用茅台打比方局长被免职",
+      "onboard_time": 1716978019,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410831,
       "num": 410831,
       "word": "巴以冲突",
@@ -2891,12 +2899,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387396,
+      "num": 198994,
+      "word": "苗苗选择跟郑恺在一起的原因",
+      "onboard_time": 1716978019,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387395,
       "num": 387395,
       "word": "范闲也跳晚安大小姐了",
       "onboard_time": 1716814578,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386907,
+      "num": 261794,
+      "word": "何炅快回歌手补位",
+      "onboard_time": 1716976877,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 386143,
@@ -3275,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342273,
+      "num": 250950,
+      "word": "官方确认不满嘉峪关武大选调生离职",
+      "onboard_time": 1716976637,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341683,
       "num": 341683,
       "word": "梦之队票数",
@@ -3513,14 +3545,6 @@
       "onboard_time": 1716793578,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 314330,
-      "num": 202444,
-      "word": "何炅快回歌手补位",
-      "onboard_time": 1716976877,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 314081,
@@ -4875,6 +4899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221396,
+      "num": 221396,
+      "word": "武汉平均招聘月薪10313元",
+      "onboard_time": 1716978138,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221238,
       "num": 214969,
       "word": "种地星球抽奖",
@@ -5137,6 +5169,14 @@
       "onboard_time": 1716798560,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209577,
+      "num": 188260,
+      "word": "为什么四川成了很多日本人的精神故乡",
+      "onboard_time": 1716975078,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 209450,
@@ -5467,6 +5507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201374,
+      "num": 171756,
+      "word": "何浩楠 开收割机前vs后",
+      "onboard_time": 1716978438,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201017,
       "num": 201017,
       "word": "国际月经日",
@@ -5545,14 +5593,6 @@
       "onboard_time": 1716866357,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 198994,
-      "num": 198994,
-      "word": "苗苗选择跟郑恺在一起的原因",
-      "onboard_time": 1716978019,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 198932,
@@ -5995,14 +6035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188260,
-      "num": 188260,
-      "word": "为什么四川成了很多日本人的精神故乡",
-      "onboard_time": 1716975078,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188245,
       "num": 228971,
       "word": "剑网三",
@@ -6123,6 +6155,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 185466,
+      "num": 171481,
+      "word": "张若昀唐艺昕 青丘狐传说",
+      "onboard_time": 1716976637,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185271,
       "num": 185271,
       "word": "原来大多数人小脚趾甲是分瓣的",
@@ -6169,14 +6209,6 @@
       "onboard_time": 1716778578,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 183940,
-      "num": 205622,
-      "word": "官方确认不满嘉峪关武大选调生离职",
-      "onboard_time": 1716976637,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183640,
@@ -6611,6 +6643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171106,
+      "num": 171106,
+      "word": "当狗狗被允许上床休息",
+      "onboard_time": 1716977237,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171066,
       "num": 171066,
       "word": "井柏然碎了",
@@ -6641,6 +6681,14 @@
       "onboard_time": 1716859698,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169805,
+      "num": 169805,
+      "word": "胃肠道癌症6个早期征兆",
+      "onboard_time": 1716976279,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169804,
@@ -6715,14 +6763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167838,
-      "num": 167838,
-      "word": "张若昀唐艺昕 青丘狐传说",
-      "onboard_time": 1716976637,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167587,
       "num": 167587,
       "word": "一句话让三个国家人同时疑惑",
@@ -6753,14 +6793,6 @@
       "onboard_time": 1716730640,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167401,
-      "num": 167401,
-      "word": "当狗狗被允许上床休息",
-      "onboard_time": 1716977237,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 167227,
@@ -7065,14 +7097,6 @@
       "onboard_time": 1716803959,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159369,
-      "num": 159369,
-      "word": "胃肠道癌症6个早期征兆",
-      "onboard_time": 1716976279,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 159268,
@@ -7451,6 +7475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148561,
+      "num": 148561,
+      "word": "巴黎世家 矮子乐",
+      "onboard_time": 1716978438,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 148517,
       "num": 148517,
       "word": "王妈掉粉",
@@ -7473,6 +7505,14 @@
       "onboard_time": 1716939316,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147844,
+      "num": 147844,
+      "word": "狐妖小红娘反转",
+      "onboard_time": 1716978739,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 147757,
@@ -9603,6 +9643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98754,
+      "num": 98754,
+      "word": "税务机关回应王妈评论区被查税刷屏",
+      "onboard_time": 1716979039,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98573,
       "num": 98573,
       "word": "贺宗纬是虚伪的伪",
@@ -9616,14 +9664,6 @@
       "word": "宿管阿姨为高三学子写百米书法祝福",
       "onboard_time": 1716856039,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98249,
-      "num": 98249,
-      "word": "用茅台打比方局长被免职",
-      "onboard_time": 1716978019,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -10835,6 +10875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24158,
+      "num": 96629,
+      "word": "租房党的实用小家电清单",
+      "onboard_time": 1716977718,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23118,
       "num": 192451,
       "word": "云峰山上1700岁的桢楠王",
@@ -10921,14 +10969,6 @@
       "onboard_time": 1716926110,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 14975,
-      "num": 96629,
-      "word": "租房党的实用小家电清单",
-      "onboard_time": 1716977718,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 14952,

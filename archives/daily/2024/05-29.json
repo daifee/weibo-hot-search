@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716978102754,
+  "endTime": 1716979067051,
   "band_list": [
     {
       "raw_hot": 3200623,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 716533,
+      "num": 360570,
+      "word": "韩国歌手时隔9年将在华开唱",
+      "onboard_time": 1716976698,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 700675,
       "num": 700675,
       "word": "奔跑吧杭州飞行嘉宾",
@@ -265,14 +273,6 @@
       "onboard_time": 1716900318,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 655882,
-      "num": 360570,
-      "word": "韩国歌手时隔9年将在华开唱",
-      "onboard_time": 1716976698,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 655580,
@@ -571,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411178,
+      "num": 290384,
+      "word": "用茅台打比方局长被免职",
+      "onboard_time": 1716978019,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407557,
       "num": 440969,
       "word": "首套房首付比例进入15%时代",
@@ -608,6 +616,22 @@
       "word": "爱豆下岗再就业之恋综女嘉宾",
       "onboard_time": 1716926470,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 387396,
+      "num": 198994,
+      "word": "苗苗选择跟郑恺在一起的原因",
+      "onboard_time": 1716978019,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 386907,
+      "num": 261794,
+      "word": "何炅快回歌手补位",
+      "onboard_time": 1716976877,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -707,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342273,
+      "num": 250950,
+      "word": "官方确认不满嘉峪关武大选调生离职",
+      "onboard_time": 1716976637,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334589,
       "num": 315170,
       "word": "李云睿李承泽 抽象对话",
@@ -753,14 +785,6 @@
       "onboard_time": 1716972739,
       "rank": 15,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 314330,
-      "num": 202444,
-      "word": "何炅快回歌手补位",
-      "onboard_time": 1716976877,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 306578,
@@ -987,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 221396,
+      "num": 221396,
+      "word": "武汉平均招聘月薪10313元",
+      "onboard_time": 1716978138,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221238,
       "num": 214969,
       "word": "种地星球抽奖",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1716942739,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 209577,
+      "num": 188260,
+      "word": "为什么四川成了很多日本人的精神故乡",
+      "onboard_time": 1716975078,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 209353,
@@ -1083,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201374,
+      "num": 171756,
+      "word": "何浩楠 开收割机前vs后",
+      "onboard_time": 1716978438,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201002,
       "num": 201002,
       "word": "iPhone四月在华出货量猛涨近5成",
@@ -1096,14 +1144,6 @@
       "word": "王鹤棣再录奔跑吧",
       "onboard_time": 1716949638,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 198994,
-      "num": 198994,
-      "word": "苗苗选择跟郑恺在一起的原因",
-      "onboard_time": 1716978019,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1227,20 +1267,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 188260,
-      "num": 188260,
-      "word": "为什么四川成了很多日本人的精神故乡",
-      "onboard_time": 1716975078,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 183940,
-      "num": 205622,
-      "word": "官方确认不满嘉峪关武大选调生离职",
+      "raw_hot": 185466,
+      "num": 171481,
+      "word": "张若昀唐艺昕 青丘狐传说",
       "onboard_time": 1716976637,
-      "rank": 19,
-      "category": "社会新闻"
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 181298,
@@ -1315,12 +1347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171106,
+      "num": 171106,
+      "word": "当狗狗被允许上床休息",
+      "onboard_time": 1716977237,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170429,
       "num": 170429,
       "word": "乌尔比安没摘面罩",
       "onboard_time": 1716955340,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169805,
+      "num": 169805,
+      "word": "胃肠道癌症6个早期征兆",
+      "onboard_time": 1716976279,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169634,
@@ -1337,22 +1385,6 @@
       "onboard_time": 1716906078,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167838,
-      "num": 167838,
-      "word": "张若昀唐艺昕 青丘狐传说",
-      "onboard_time": 1716976637,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 167401,
-      "num": 167401,
-      "word": "当狗狗被允许上床休息",
-      "onboard_time": 1716977237,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 166673,
@@ -1443,14 +1475,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 159369,
-      "num": 159369,
-      "word": "胃肠道癌症6个早期征兆",
-      "onboard_time": 1716976279,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 156026,
       "num": 155236,
       "word": "观众当着吴磊的面cue赵露思",
@@ -1515,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148561,
+      "num": 148561,
+      "word": "巴黎世家 矮子乐",
+      "onboard_time": 1716978438,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 148517,
       "num": 148517,
       "word": "王妈掉粉",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1716939316,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147844,
+      "num": 147844,
+      "word": "狐妖小红娘反转",
+      "onboard_time": 1716978739,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 147757,
@@ -2075,10 +2115,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98249,
-      "num": 98249,
-      "word": "用茅台打比方局长被免职",
-      "onboard_time": 1716978019,
+      "raw_hot": 98754,
+      "num": 98754,
+      "word": "税务机关回应王妈评论区被查税刷屏",
+      "onboard_time": 1716979039,
       "rank": 46,
       "category": "社会新闻"
     },
@@ -2395,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24158,
+      "num": 96629,
+      "word": "租房党的实用小家电清单",
+      "onboard_time": 1716977718,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 20672,
       "num": 339163,
       "word": "院子嘎嘎大欢迎来晒粮",
@@ -2425,14 +2473,6 @@
       "onboard_time": 1716926110,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 14975,
-      "num": 96629,
-      "word": "租房党的实用小家电清单",
-      "onboard_time": 1716977718,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 6514,
