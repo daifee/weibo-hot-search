@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717024757487,
+  "endTime": 1717025685610,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -23443,6 +23443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388871,
+      "num": 388871,
+      "word": "华春莹发加沙女孩流浪视频",
+      "onboard_time": 1717006032,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 388820,
       "num": 388820,
       "word": "花少北 龙女塔罗",
@@ -23817,6 +23825,14 @@
       "onboard_time": 1716941778,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 383878,
+      "num": 230481,
+      "word": "举报西北大学博士招生存问题考生发声",
+      "onboard_time": 1717022894,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 383827,
@@ -28233,14 +28249,6 @@
       "onboard_time": 1716972739,
       "rank": 15,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 317786,
-      "num": 317786,
-      "word": "华春莹发加沙女孩流浪视频",
-      "onboard_time": 1717006032,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 317703,
@@ -35563,20 +35571,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243687,
+      "num": 243687,
+      "word": "KBS封杀鱿鱼游戏吴永洙",
+      "onboard_time": 1716989239,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243621,
       "num": 217448,
       "word": "长期吃榴莲身体会发生什么变化",
       "onboard_time": 1714529598,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 243572,
-      "num": 243572,
-      "word": "KBS封杀鱿鱼游戏吴永洙",
-      "onboard_time": 1716989239,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 243539,
@@ -53955,14 +53963,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 166915,
-      "num": 166915,
-      "word": "举报西北大学博士招生存问题考生发声",
-      "onboard_time": 1717022894,
-      "rank": 12,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 166852,
       "num": 166852,
       "word": "万妮达穿旗袍了",
@@ -59025,6 +59025,14 @@
       "onboard_time": 1715066359,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149657,
+      "num": 149657,
+      "word": "中国科学报携8名学者入驻微博",
+      "onboard_time": 1717024575,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 149637,
@@ -71403,6 +71411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108331,
+      "num": 99086,
+      "word": "6类人容易提前长白发",
+      "onboard_time": 1717024875,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108277,
       "num": 108277,
       "word": "为什么有人总爱摆臭脸",
@@ -72179,6 +72195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103718,
+      "num": 103718,
+      "word": "歌手2024官宣孙楠",
+      "onboard_time": 1717005852,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103642,
       "num": 430888,
       "word": "82岁母亲背一书包雪饼看望53岁儿子",
@@ -72369,14 +72393,6 @@
       "onboard_time": 1715037976,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102702,
-      "num": 102702,
-      "word": "歌手2024官宣孙楠",
-      "onboard_time": 1717005852,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 102701,
@@ -73819,6 +73835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92544,
+      "num": 92544,
+      "word": "肖战藏海传片场再请客",
+      "onboard_time": 1717023432,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92399,
       "num": 92399,
       "word": "方大同 抽象",
@@ -74099,14 +74123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90163,
-      "num": 90163,
-      "word": "中国科学报携8名学者入驻微博",
-      "onboard_time": 1717024575,
-      "rank": 22,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 90158,
       "num": 399278,
       "word": "如果你刚好遇见记得给他撑把伞",
@@ -74313,14 +74329,6 @@
       "onboard_time": 1715613739,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87961,
-      "num": 87961,
-      "word": "肖战藏海传片场再请客",
-      "onboard_time": 1717023432,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 87842,
@@ -77547,6 +77555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54893,
+      "num": 54893,
+      "word": "杨幂红色风衣",
+      "onboard_time": 1717018091,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 54839,
       "num": 719240,
       "word": "藏在文创里的博物馆宝藏",
@@ -77561,6 +77577,14 @@
       "onboard_time": 1715865800,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 54687,
+      "num": 54687,
+      "word": "周也黄裙编发",
+      "onboard_time": 1717024756,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 54670,
@@ -79219,10 +79243,34 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 37918,
+      "num": 468231,
+      "word": "我国首个大西洋载人深潜科考任务完成",
+      "onboard_time": 1716990257,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37897,
+      "num": 48454,
+      "word": "宁静说秦岚是小财神",
+      "onboard_time": 1717016650,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37687,
       "num": 506751,
       "word": "闺蜜生日女子花三个月手作相册礼物",
       "onboard_time": 1716733041,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37657,
+      "num": 232546,
+      "word": "班主任记录学生入学与毕业对比照",
+      "onboard_time": 1717024335,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -79241,14 +79289,6 @@
       "onboard_time": 1715371991,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37579,
-      "num": 45492,
-      "word": "杨幂红色风衣",
-      "onboard_time": 1717018091,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 37549,
@@ -79531,14 +79571,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 33696,
-      "num": 33696,
-      "word": "宁静说秦岚是小财神",
-      "onboard_time": 1717016650,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 33465,
       "num": 219484,
       "word": "你选鲜奶会看标签吗",
@@ -79608,14 +79640,6 @@
       "word": "宁波大学宠学生把动物园搬进校园",
       "onboard_time": 1716505335,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32725,
-      "num": 401123,
-      "word": "我国首个大西洋载人深潜科考任务完成",
-      "onboard_time": 1716990257,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -80241,14 +80265,6 @@
       "onboard_time": 1715889610,
       "rank": 34,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 24851,
-      "num": 218141,
-      "word": "班主任记录学生入学与毕业对比照",
-      "onboard_time": 1717024335,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24668,
