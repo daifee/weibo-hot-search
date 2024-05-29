@@ -1,6 +1,6 @@
 {
   "startTime": 1716913392903,
-  "endTime": 1716950673280,
+  "endTime": 1716952877535,
   "band_list": [
     {
       "raw_hot": 2124366,
@@ -35,6 +35,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938121,
+      "num": 938121,
+      "word": "多家银行暂停无卡存取款",
+      "onboard_time": 1716949397,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 924330,
+      "num": 924330,
+      "word": "张若昀在家里为唐艺昕备有菜单",
+      "onboard_time": 1716948197,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 920098,
       "num": 920098,
       "word": "以色列拟认定联合国机构为恐怖组织",
@@ -59,14 +75,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 833588,
-      "num": 833588,
-      "word": "张若昀在家里为唐艺昕备有菜单",
-      "onboard_time": 1716948197,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 774829,
       "num": 774829,
       "word": "金价暴涨金店老板们不敢进货了",
@@ -83,12 +91,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 704117,
+      "num": 704117,
+      "word": "国台办回应台湾艺人转央视新闻海报",
+      "onboard_time": 1716951978,
+      "rank": 5,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 700675,
       "num": 700675,
       "word": "奔跑吧杭州飞行嘉宾",
       "onboard_time": 1716945497,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 673327,
+      "num": 673327,
+      "word": "李小冉 基因",
+      "onboard_time": 1716951616,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 670102,
@@ -113,6 +137,14 @@
       "onboard_time": 1716939316,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 585066,
+      "num": 585066,
+      "word": "安徽通报滁河水体污染处置情况",
+      "onboard_time": 1716951077,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584758,
@@ -147,6 +179,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523357,
+      "num": 518311,
+      "word": "张若昀唐艺昕是情侣名",
+      "onboard_time": 1716949877,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 522750,
+      "num": 522750,
+      "word": "安徽省全椒县委主要负责人已被免职",
+      "onboard_time": 1716950177,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516130,
+      "num": 516130,
+      "word": "善宰小率 玄彬孙艺珍",
+      "onboard_time": 1716951258,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511275,
       "num": 511275,
       "word": "撞脸情侣亲缘鉴定结果出来了",
@@ -155,12 +211,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457650,
-      "num": 457650,
+      "raw_hot": 481296,
+      "num": 481296,
       "word": "王妈在公司有绝对的话语权",
       "onboard_time": 1716947656,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 475721,
+      "num": 475721,
+      "word": "生育越晚更年期也可能会越晚",
+      "onboard_time": 1716951137,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 456954,
@@ -169,14 +233,6 @@
       "onboard_time": 1716948498,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 448870,
-      "num": 448870,
-      "word": "安徽省全椒县委主要负责人已被免职",
-      "onboard_time": 1716950177,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 448154,
@@ -193,6 +249,14 @@
       "onboard_time": 1716938715,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 435208,
+      "num": 435208,
+      "word": "肖战藏海传个人戏份",
+      "onboard_time": 1716951377,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 434812,
@@ -225,6 +289,14 @@
       "onboard_time": 1716906200,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396322,
+      "num": 396322,
+      "word": "爱奇艺麦田音乐节",
+      "onboard_time": 1716950296,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 395987,
@@ -267,28 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361397,
-      "num": 361397,
-      "word": "爱奇艺麦田音乐节",
-      "onboard_time": 1716950296,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 350491,
       "num": 350491,
       "word": "招商银行从普华永道改聘安永",
       "onboard_time": 1716939075,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 350286,
-      "num": 215931,
-      "word": "张若昀唐艺昕是情侣名",
-      "onboard_time": 1716949877,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 349964,
@@ -315,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330129,
-      "num": 330129,
-      "word": "多家银行暂停无卡存取款",
-      "onboard_time": 1716949397,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 326235,
+      "num": 326235,
+      "word": "2023年美国侵犯人权报告",
+      "onboard_time": 1716950177,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 320772,
@@ -329,6 +385,14 @@
       "onboard_time": 1716945137,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304896,
+      "num": 304896,
+      "word": "家门口彩票店中了7457万元",
+      "onboard_time": 1716951137,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301762,
@@ -345,6 +409,14 @@
       "onboard_time": 1716885618,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263294,
+      "num": 263294,
+      "word": "墨雨云间",
+      "onboard_time": 1716951137,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 259852,
@@ -411,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212494,
-      "num": 212494,
-      "word": "2023年美国侵犯人权报告",
-      "onboard_time": 1716950177,
-      "rank": 23,
-      "category": "国外时政"
+      "raw_hot": 219389,
+      "num": 219389,
+      "word": "张若昀第二季帅到人物介绍都变了",
+      "onboard_time": 1716951616,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 210014,
@@ -425,6 +497,22 @@
       "onboard_time": 1716942739,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 208696,
+      "num": 208696,
+      "word": "杜华女儿8岁就开始化妆了",
+      "onboard_time": 1716952817,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206903,
+      "num": 206903,
+      "word": "叶修 荣耀之神",
+      "onboard_time": 1716952397,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 203452,
@@ -467,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180297,
+      "num": 180297,
+      "word": "明日方舟",
+      "onboard_time": 1716952638,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176129,
       "num": 145153,
       "word": "歌手 双补位",
       "onboard_time": 1716872118,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175203,
+      "num": 175203,
+      "word": "致敬中国蓝盔",
+      "onboard_time": 1716951077,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171415,
@@ -537,6 +641,14 @@
       "onboard_time": 1716946097,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 151962,
+      "num": 151962,
+      "word": "医生称通便茶长期服用或致癌",
+      "onboard_time": 1716950538,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150880,
@@ -651,6 +763,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 127008,
+      "num": 127008,
+      "word": "小林制药",
+      "onboard_time": 1716952518,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126552,
+      "num": 126552,
+      "word": "为什么洞洞鞋看着透气却容易得脚气",
+      "onboard_time": 1716952457,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126523,
+      "num": 126523,
+      "word": "用茅台乱打比方局长简历被撤",
+      "onboard_time": 1716952698,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125618,
       "num": 125618,
       "word": "胡军夸张若昀是特别顾家的人",
@@ -665,6 +801,14 @@
       "onboard_time": 1716940277,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124260,
+      "num": 123146,
+      "word": "金毛冲上来的那一刻我泪目了",
+      "onboard_time": 1716952457,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 123667,
@@ -753,14 +897,6 @@
       "onboard_time": 1716902298,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 110399,
-      "num": 110399,
-      "word": "医生称通便茶长期服用或致癌",
-      "onboard_time": 1716950538,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 108734,
@@ -955,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51607,
+      "num": 518863,
+      "word": "和瘦的人亲嘴真能变瘦吗",
+      "onboard_time": 1716952518,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 51375,
       "num": 325269,
       "word": "七仔开始有爷叔气质了",
@@ -977,6 +1121,14 @@
       "onboard_time": 1716928991,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41157,
+      "num": 495095,
+      "word": "总会为中式美学心动",
+      "onboard_time": 1716952638,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39669,
@@ -1019,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20118,
+      "num": 956673,
+      "word": "万千气象看广东",
+      "onboard_time": 1716952760,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18363,
       "num": 24091,
       "word": "直击2024电视剧导演大会",
@@ -1055,6 +1215,9 @@
     },
     {
       "word": "#中赤几关系提升为全面战略合作伙伴关系#"
+    },
+    {
+      "word": "#中国同赤道几内亚是肝胆相照的好朋友#"
     }
   ]
 }
