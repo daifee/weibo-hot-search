@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717086222362,
+  "endTime": 1717087092327,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -707,6 +707,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1115455,
+      "num": 1115455,
+      "word": "王倦 第三季不会等这么久",
+      "onboard_time": 1717084158,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1108055,
       "num": 292429,
       "word": "突然感觉体制内挺适合不婚族",
@@ -792,14 +800,6 @@
       "word": "范闲大婚 寒酸",
       "onboard_time": 1716877637,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1042910,
-      "num": 1042910,
-      "word": "王倦 第三季不会等这么久",
-      "onboard_time": 1717084158,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -1939,6 +1939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 627430,
+      "num": 171418,
+      "word": "庆余年真有徐志胜",
+      "onboard_time": 1717083678,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 626034,
       "num": 626034,
       "word": "那英和杨丞琳眼神里都没有光了",
@@ -1985,14 +1993,6 @@
       "onboard_time": 1716869599,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 619154,
-      "num": 171418,
-      "word": "庆余年真有徐志胜",
-      "onboard_time": 1717083678,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 617261,
@@ -4627,6 +4627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324358,
+      "num": 165476,
+      "word": "甘肃省博物馆发声明",
+      "onboard_time": 1717083258,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323898,
       "num": 175359,
       "word": "因为彩礼的事情和对象闹掰了",
@@ -5768,14 +5776,6 @@
       "word": "大二女成为家里唯一的收入来源",
       "onboard_time": 1716789078,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247890,
-      "num": 165476,
-      "word": "甘肃省博物馆发声明",
-      "onboard_time": 1717083258,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -9433,6 +9433,14 @@
       "onboard_time": 1716979339,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161336,
+      "num": 131071,
+      "word": "叶轻眉传",
+      "onboard_time": 1717083378,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 161051,
@@ -13643,6 +13651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64181,
+      "num": 270289,
+      "word": "男子走丢4只山羊找回竟变6只",
+      "onboard_time": 1717083018,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63964,
       "num": 63964,
       "word": "黄金价格还会继续上涨吗",
@@ -13657,6 +13673,14 @@
       "onboard_time": 1716731179,
       "rank": 9,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 63284,
+      "num": 112287,
+      "word": "庆余年3开始筹备了",
+      "onboard_time": 1717086975,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 63019,
@@ -13680,14 +13704,6 @@
       "word": "猴哥听曲意外混到了编制",
       "onboard_time": 1716725659,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61775,
-      "num": 270289,
-      "word": "男子走丢4只山羊找回竟变6只",
-      "onboard_time": 1717083018,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
