@@ -1,0 +1,410 @@
+{
+  "runTime": 1717040075999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1114649,
+        "num": 1114649,
+        "word": "英国议会宣布正式解散",
+        "onboard_time": 1717035316,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1038285,
+        "num": 1038285,
+        "word": "考完试故意把分数算得很低",
+        "onboard_time": 1717037296,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48899,
+        "num": 971747,
+        "word": "今天发条微博致敬科技工作者",
+        "onboard_time": 1717037537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966803,
+        "num": 966803,
+        "word": "星巴克也急了",
+        "onboard_time": 1717033396,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 675040,
+        "num": 675040,
+        "word": "希尔顿一会员夜不归宿被扣3000元",
+        "onboard_time": 1717028538,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600658,
+        "num": 600658,
+        "word": "快乐老友记",
+        "onboard_time": 1717037899,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485509,
+        "num": 485509,
+        "word": "伊利牛奶",
+        "onboard_time": 1717037836,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417462,
+        "num": 417462,
+        "word": "范闲 奶奶的梦中情孙",
+        "onboard_time": 1717034537,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413664,
+        "num": 413664,
+        "word": "孩子为啥养臭水",
+        "onboard_time": 1717037237,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42373,
+        "num": 394232,
+        "word": "高三老师在教室门口设答疑桌",
+        "onboard_time": 1717039099,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488625,
+        "num": 389600,
+        "word": "新生男婴被父母以5万卖掉",
+        "onboard_time": 1717035256,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 378482,
+        "num": 378482,
+        "word": "ive",
+        "onboard_time": 1717038018,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356709,
+        "num": 356709,
+        "word": "境外资本大举买入中国股票ETF",
+        "onboard_time": 1717035197,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 291937,
+        "num": 291937,
+        "word": "JYP承认NMIXX音响事故为事前安排",
+        "onboard_time": 1717033577,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 281516,
+        "num": 281516,
+        "word": "kep1er确认七人续约",
+        "onboard_time": 1717036338,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242227,
+        "num": 242227,
+        "word": "清北毕业爸爸辅导孩子数学也抓狂",
+        "onboard_time": 1717030759,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238103,
+        "num": 238103,
+        "word": "被隐形家务震惊到了",
+        "onboard_time": 1717029558,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235210,
+        "num": 235210,
+        "word": "张真源 我可没忽悠你们",
+        "onboard_time": 1717038857,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218499,
+        "num": 218499,
+        "word": "2年遭家暴16次女子离婚案开庭",
+        "onboard_time": 1717039099,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 212947,
+        "num": 212947,
+        "word": "全世界的大宗师都吻了上来",
+        "onboard_time": 1716992598,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1128854,
+        "num": 205364,
+        "word": "朋友圈弄个三天可见",
+        "onboard_time": 1717038438,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421956,
+        "num": 205093,
+        "word": "张若昀曾帮毛晓彤解围",
+        "onboard_time": 1717028658,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195957,
+        "num": 195957,
+        "word": "快乐老友记揭榜周五",
+        "onboard_time": 1717039039,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190376,
+        "num": 190376,
+        "word": "为了上岸要报考偏远地区公务员吗",
+        "onboard_time": 1717029498,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190322,
+        "num": 190322,
+        "word": "叶修夺冠照进现实",
+        "onboard_time": 1717039758,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 183967,
+        "num": 183967,
+        "word": "B太反复感叹去晚了",
+        "onboard_time": 1717036038,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180866,
+        "num": 180866,
+        "word": "张绍刚情商",
+        "onboard_time": 1717037717,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180844,
+        "num": 180844,
+        "word": "小孩哥 生自己的妈自己养",
+        "onboard_time": 1717031837,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171895,
+        "num": 171895,
+        "word": "二皇子五年后重现第一季大拇指",
+        "onboard_time": 1717032437,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169972,
+        "num": 169972,
+        "word": "Steam双人成行无需启动EA",
+        "onboard_time": 1717038078,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169444,
+        "num": 169444,
+        "word": "无锡晋升2024新一线",
+        "onboard_time": 1717035556,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164576,
+        "num": 164576,
+        "word": "二十年前的儿童节妆容有多炸裂",
+        "onboard_time": 1717037657,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155038,
+        "num": 155038,
+        "word": "女留学生新加坡坠亡知情人发声",
+        "onboard_time": 1717029677,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154853,
+        "num": 154853,
+        "word": "嘉峪关",
+        "onboard_time": 1717036216,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145012,
+        "num": 145012,
+        "word": "谢娜说看张杰演唱会时会很享受",
+        "onboard_time": 1717038677,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139016,
+        "num": 139016,
+        "word": "贵州茅台每10股分红308.76元",
+        "onboard_time": 1717034957,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130520,
+        "num": 130520,
+        "word": "李耕耘 少年之家又添一位新成员",
+        "onboard_time": 1717039638,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125875,
+        "num": 125875,
+        "word": "东方月初以血吻封缄涂山红红",
+        "onboard_time": 1717032916,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121718,
+        "num": 121718,
+        "word": "张玉安长文",
+        "onboard_time": 1717029258,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114787,
+        "num": 114787,
+        "word": "福宝最爱吃苦竹和糖心苹果",
+        "onboard_time": 1717027757,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114298,
+        "num": 114298,
+        "word": "imp好狂",
+        "onboard_time": 1717034296,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113109,
+        "num": 113109,
+        "word": "短剧届有自己的凤凰传奇",
+        "onboard_time": 1717036338,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112606,
+        "num": 112606,
+        "word": "地铁遇到情侣越过我腿拉手手",
+        "onboard_time": 1717028177,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113797,
+        "num": 110661,
+        "word": "张玉安指责IVE抄袭中国文化",
+        "onboard_time": 1717025956,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106917,
+        "num": 106917,
+        "word": "学历不代表一切",
+        "onboard_time": 1717036636,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105053,
+        "num": 105053,
+        "word": "校方回应大学生请5天假奔丧被砍掉2天",
+        "onboard_time": 1716996678,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104489,
+        "num": 104489,
+        "word": "刚领完奖他就跑车站抓获涉毒嫌疑人",
+        "onboard_time": 1717035376,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103975,
+        "num": 103975,
+        "word": "孙楠退赛 汪涵表情",
+        "onboard_time": 1716972558,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102977,
+        "num": 102977,
+        "word": "第一次见到珊瑚产卵",
+        "onboard_time": 1717030339,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 101219,
+        "num": 101219,
+        "word": "支持巴勒斯坦成为联合国正式会员国",
+        "onboard_time": 1717040057,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设更具内涵更有活力的中埃关系#"
+    }
+  }
+}
