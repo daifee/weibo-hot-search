@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717096626189,
+  "endTime": 1717097644071,
   "band_list": [
     {
       "raw_hot": 1423742,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37771,
+      "num": 33426,
+      "word": "叶轻眉 纯元",
+      "onboard_time": 1717095491,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37479,
       "num": 37479,
       "word": "庆余年2余年有你海报",
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33420,
+      "num": 33420,
+      "word": "夏之光大秀直拍",
+      "onboard_time": 1717096992,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 32503,
       "num": 36724,
       "word": "严浩翔划龙舟路透",
@@ -468,22 +484,14 @@
     },
     {
       "raw_hot": 28869,
-      "num": 28869,
+      "num": 33410,
       "word": "狐妖导演回应杨幂龚俊cp感",
       "onboard_time": 1717094951,
       "rank": 32,
       "category": "剧集"
     },
     {
-      "raw_hot": 28553,
-      "num": 28553,
-      "word": "叶轻眉 纯元",
-      "onboard_time": 1717095491,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 22080,
+      "raw_hot": 25651,
       "num": 36697,
       "word": "光头自己画头发",
       "onboard_time": 1717092552,
@@ -491,8 +499,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 13613,
-      "num": 24234,
+      "raw_hot": 14322,
+      "num": 33347,
       "word": "大国重器命名里的中国浪漫",
       "onboard_time": 1717096212,
       "rank": 49,

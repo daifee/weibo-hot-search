@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717096626189,
+  "endTime": 1717097644071,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -14291,6 +14291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37771,
+      "num": 33426,
+      "word": "叶轻眉 纯元",
+      "onboard_time": 1717095491,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37687,
       "num": 506751,
       "word": "闺蜜生日女子花三个月手作相册礼物",
@@ -14353,6 +14361,14 @@
       "onboard_time": 1716967577,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33420,
+      "num": 33420,
+      "word": "夏之光大秀直拍",
+      "onboard_time": 1717096992,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 33181,
@@ -14460,18 +14476,10 @@
     },
     {
       "raw_hot": 28869,
-      "num": 28869,
+      "num": 33410,
       "word": "狐妖导演回应杨幂龚俊cp感",
       "onboard_time": 1717094951,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 28553,
-      "num": 28553,
-      "word": "叶轻眉 纯元",
-      "onboard_time": 1717095491,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -14571,6 +14579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25651,
+      "num": 36697,
+      "word": "光头自己画头发",
+      "onboard_time": 1717092552,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 25066,
       "num": 32193,
       "word": "新说唱2024",
@@ -14617,14 +14633,6 @@
       "onboard_time": 1717076298,
       "rank": 32,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 22080,
-      "num": 36697,
-      "word": "光头自己画头发",
-      "onboard_time": 1717092552,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 21973,
@@ -14771,8 +14779,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 13613,
-      "num": 24234,
+      "raw_hot": 14322,
+      "num": 33347,
       "word": "大国重器命名里的中国浪漫",
       "onboard_time": 1717096212,
       "rank": 49,

@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717096626189,
+  "endTime": 1717097644071,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -81859,6 +81859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37771,
+      "num": 33426,
+      "word": "叶轻眉 纯元",
+      "onboard_time": 1717095491,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37687,
       "num": 506751,
       "word": "闺蜜生日女子花三个月手作相册礼物",
@@ -82193,6 +82201,14 @@
       "onboard_time": 1715624592,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 33420,
+      "num": 33420,
+      "word": "夏之光大秀直拍",
+      "onboard_time": 1717096992,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 33266,
@@ -82612,7 +82628,7 @@
     },
     {
       "raw_hot": 28869,
-      "num": 28869,
+      "num": 33410,
       "word": "狐妖导演回应杨幂龚俊cp感",
       "onboard_time": 1717094951,
       "rank": 32,
@@ -82633,14 +82649,6 @@
       "onboard_time": 1715843778,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28553,
-      "num": 28553,
-      "word": "叶轻眉 纯元",
-      "onboard_time": 1717095491,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 28497,
@@ -82865,6 +82873,14 @@
       "onboard_time": 1716058152,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25651,
+      "num": 36697,
+      "word": "光头自己画头发",
+      "onboard_time": 1717092552,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 25547,
@@ -83241,14 +83257,6 @@
       "onboard_time": 1716633800,
       "rank": 23,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 22080,
-      "num": 36697,
-      "word": "光头自己画头发",
-      "onboard_time": 1717092552,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 21973,
@@ -83867,6 +83875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14322,
+      "num": 33347,
+      "word": "大国重器命名里的中国浪漫",
+      "onboard_time": 1717096212,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14087,
       "num": 17311,
       "word": "轿车爆胎翻车16辆过路车紧急救援",
@@ -83905,14 +83921,6 @@
       "onboard_time": 1714761372,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13613,
-      "num": 24234,
-      "word": "大国重器命名里的中国浪漫",
-      "onboard_time": 1717096212,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13506,
