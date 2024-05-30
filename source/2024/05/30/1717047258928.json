@@ -1,0 +1,410 @@
+{
+  "runTime": 1717047258928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2589899,
+        "num": 2589899,
+        "word": "炎亚纶被判7个月缓刑3年",
+        "onboard_time": 1717042518,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 917337,
+        "num": 917337,
+        "word": "大厂员工离职后卖蕉绿月入200万",
+        "onboard_time": 1717040118,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38935,
+        "num": 887442,
+        "word": "今天发条微博致敬科技工作者",
+        "onboard_time": 1717037537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867765,
+        "num": 867765,
+        "word": "王楚然回应臭脸",
+        "onboard_time": 1717041799,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 856959,
+        "num": 856959,
+        "word": "小米空调半夜掉了险些砸中2岁女儿",
+        "onboard_time": 1717042640,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810948,
+        "num": 810948,
+        "word": "韩国宣布将在2045年前登陆火星",
+        "onboard_time": 1717044979,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 865944,
+        "num": 806990,
+        "word": "庆余年第二季大结局点映礼",
+        "onboard_time": 1717045581,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 814091,
+        "num": 734904,
+        "word": "冯小刚电影 赵丽颖迪丽热巴",
+        "onboard_time": 1717043179,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 624622,
+        "num": 624622,
+        "word": "女子把爷爷民国时期结婚证打手镯",
+        "onboard_time": 1717042458,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536980,
+        "num": 536980,
+        "word": "武大回应选调生离职事件",
+        "onboard_time": 1717044439,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465841,
+        "num": 465841,
+        "word": "希尔顿一会员夜不归宿被扣3000元",
+        "onboard_time": 1717028538,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419300,
+        "num": 419300,
+        "word": "vava被GAI气哭了",
+        "onboard_time": 1717044200,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391855,
+        "num": 391855,
+        "word": "毕业生称用学校邮箱后求职回复率翻倍",
+        "onboard_time": 1717043301,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391627,
+        "num": 391627,
+        "word": "考完试故意把分数算得很低",
+        "onboard_time": 1717037296,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371068,
+        "num": 371068,
+        "word": "那英将在歌手尝试国风",
+        "onboard_time": 1717046299,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332926,
+        "num": 332926,
+        "word": "新加坡坠亡女留学生曾遭父亲家暴",
+        "onboard_time": 1717040238,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316945,
+        "num": 316945,
+        "word": "星巴克也急了",
+        "onboard_time": 1717033396,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 288582,
+        "num": 288582,
+        "word": "孩子为啥养臭水",
+        "onboard_time": 1717037237,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126682,
+        "num": 281979,
+        "word": "杭州位列2024新一线第2",
+        "onboard_time": 1717041078,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280725,
+        "num": 280725,
+        "word": "支持巴勒斯坦成为联合国正式会员国",
+        "onboard_time": 1717040057,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 501442,
+        "num": 279611,
+        "word": "朋友圈弄个三天可见",
+        "onboard_time": 1717038438,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310015,
+        "num": 279110,
+        "word": "周五的综艺到底看哪个啊",
+        "onboard_time": 1717043660,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260077,
+        "num": 260077,
+        "word": "婚后发现丈夫没工作起诉离婚获支持",
+        "onboard_time": 1717042640,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238815,
+        "num": 238815,
+        "word": "迪丽热巴校服唱歌",
+        "onboard_time": 1717045153,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226403,
+        "num": 226403,
+        "word": "被隐形家务震惊到了",
+        "onboard_time": 1717029558,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215055,
+        "num": 215055,
+        "word": "张若昀毛晓彤庆余年2是三搭",
+        "onboard_time": 1717046179,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214048,
+        "num": 214048,
+        "word": "王鹤棣刚哭完就说我不会哭的",
+        "onboard_time": 1717046658,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205867,
+        "num": 205867,
+        "word": "部分毕业生浓烈的上岸思维该反思了",
+        "onboard_time": 1717045100,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93988,
+        "num": 201096,
+        "word": "先己后人也是一种漂亮的活法",
+        "onboard_time": 1717045400,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199765,
+        "num": 199765,
+        "word": "健身房究竟有多脏",
+        "onboard_time": 1717045759,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 189471,
+        "num": 189471,
+        "word": "光与夜之恋",
+        "onboard_time": 1717044620,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188942,
+        "num": 188942,
+        "word": "为什么女性在婚姻里承担了更多家务",
+        "onboard_time": 1717043360,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180565,
+        "num": 180565,
+        "word": "武大选调生",
+        "onboard_time": 1717044500,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170332,
+        "num": 170332,
+        "word": "快乐老友记",
+        "onboard_time": 1717037899,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168855,
+        "num": 168855,
+        "word": "庆余年",
+        "onboard_time": 1717043961,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166220,
+        "num": 166220,
+        "word": "JYP承认NMIXX音响事故为事前安排",
+        "onboard_time": 1717033577,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159266,
+        "num": 159266,
+        "word": "希尔顿回应",
+        "onboard_time": 1717042159,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157991,
+        "num": 157991,
+        "word": "万里木兰咖啡因含量未超标",
+        "onboard_time": 1717046538,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156921,
+        "num": 156921,
+        "word": "范闲 奶奶的梦中情孙",
+        "onboard_time": 1717034537,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155856,
+        "num": 155856,
+        "word": "2年遭家暴16次女子离婚案开庭",
+        "onboard_time": 1717039099,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 154860,
+        "num": 154860,
+        "word": "英国议会宣布正式解散",
+        "onboard_time": 1717035316,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152914,
+        "num": 152914,
+        "word": "炎亚纶案一审判决结果",
+        "onboard_time": 1717041078,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138138,
+        "num": 138138,
+        "word": "炎亚纶方回应判决结果",
+        "onboard_time": 1717047019,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132310,
+        "num": 132310,
+        "word": "新生男婴被父母以5万卖掉",
+        "onboard_time": 1717035256,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 123136,
+        "num": 123136,
+        "word": "全职高手第三季开播",
+        "onboard_time": 1717042580,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119073,
+        "num": 119073,
+        "word": "范闲手术出现幻觉",
+        "onboard_time": 1717041977,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118661,
+        "num": 118661,
+        "word": "kep1er确认七人续约",
+        "onboard_time": 1717036338,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111612,
+        "num": 111612,
+        "word": "原神克洛琳德",
+        "onboard_time": 1717046119,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109628,
+        "num": 109628,
+        "word": "原来经口呼吸真的会变丑",
+        "onboard_time": 1717040238,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103569,
+        "num": 109617,
+        "word": "苗条的妈妈和她健硕的好大儿",
+        "onboard_time": 1717042580,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设更具内涵更有活力的中埃关系#"
+    }
+  }
+}

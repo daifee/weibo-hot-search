@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717046309075,
+  "endTime": 1717047258928,
   "band_list": [
     {
       "raw_hot": 2794414,
@@ -99,12 +99,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 865944,
+      "num": 806990,
+      "word": "庆余年第二季大结局点映礼",
+      "onboard_time": 1717045581,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 863663,
       "num": 604869,
       "word": "浙江隐秘富豪家族覆灭",
       "onboard_time": 1716992779,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810948,
+      "num": 810948,
+      "word": "韩国宣布将在2045年前登陆火星",
+      "onboard_time": 1717044979,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 698226,
@@ -123,14 +139,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 684031,
-      "num": 590764,
-      "word": "庆余年第二季大结局点映礼",
-      "onboard_time": 1717045581,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 645828,
       "num": 645828,
       "word": "JYP承认NMIXX音响事故为事前安排",
@@ -147,20 +155,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 624622,
+      "num": 624622,
+      "word": "女子把爷爷民国时期结婚证打手镯",
+      "onboard_time": 1717042458,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618757,
       "num": 618757,
       "word": "全世界的大宗师都吻了上来",
       "onboard_time": 1716992598,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 614601,
-      "num": 614601,
-      "word": "女子把爷爷民国时期结婚证打手镯",
-      "onboard_time": 1717042458,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 608395,
@@ -193,14 +201,6 @@
       "onboard_time": 1717030759,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 594677,
-      "num": 521714,
-      "word": "韩国宣布将在2045年前登陆火星",
-      "onboard_time": 1717044979,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 569138,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371068,
+      "num": 371068,
+      "word": "那英将在歌手尝试国风",
+      "onboard_time": 1717046299,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356709,
       "num": 356709,
       "word": "境外资本大举买入中国股票ETF",
@@ -435,20 +443,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310015,
+      "num": 296385,
+      "word": "周五的综艺到底看哪个啊",
+      "onboard_time": 1717043660,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304674,
       "num": 118132,
       "word": "小米高管抽奖抽中爱国网友",
       "onboard_time": 1716998897,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 296385,
-      "num": 296385,
-      "word": "周五的综艺到底看哪个啊",
-      "onboard_time": 1717043660,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 295504,
@@ -499,14 +507,6 @@
       "category": "母婴育儿,运动健身"
     },
     {
-      "raw_hot": 256382,
-      "num": 256382,
-      "word": "那英将在歌手尝试国风",
-      "onboard_time": 1717046299,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247115,
       "num": 247115,
       "word": "郑乃馨早期言论",
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238815,
+      "num": 238815,
+      "word": "迪丽热巴校服唱歌",
+      "onboard_time": 1717045153,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237768,
       "num": 237768,
       "word": "武大选调生",
@@ -552,14 +560,6 @@
       "word": "张真源 我可没忽悠你们",
       "onboard_time": 1717038857,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 235098,
-      "num": 235098,
-      "word": "迪丽热巴校服唱歌",
-      "onboard_time": 1717045153,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -619,6 +619,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215055,
+      "num": 215055,
+      "word": "张若昀毛晓彤庆余年2是三搭",
+      "onboard_time": 1717046179,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214048,
+      "num": 214048,
+      "word": "王鹤棣刚哭完就说我不会哭的",
+      "onboard_time": 1717046658,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211509,
       "num": 118956,
       "word": "苗苗选择跟郑恺在一起的原因",
@@ -673,6 +689,14 @@
       "onboard_time": 1717027757,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199765,
+      "num": 199765,
+      "word": "健身房究竟有多脏",
+      "onboard_time": 1717045759,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 198615,
@@ -827,16 +851,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171354,
-      "num": 171354,
-      "word": "健身房究竟有多脏",
-      "onboard_time": 1717045759,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 169473,
-      "num": 169473,
+      "num": 281979,
       "word": "杭州位列2024新一线第2",
       "onboard_time": 1717041078,
       "rank": 41,
@@ -883,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157991,
+      "num": 157991,
+      "word": "万里木兰咖啡因含量未超标",
+      "onboard_time": 1717046538,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157184,
       "num": 157184,
       "word": "6类人容易提前长白发",
@@ -905,14 +929,6 @@
       "onboard_time": 1717001295,
       "rank": 18,
       "category": "演出,综艺"
-    },
-    {
-      "raw_hot": 152415,
-      "num": 152415,
-      "word": "张若昀毛晓彤庆余年2是三搭",
-      "onboard_time": 1717046179,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 152351,
@@ -993,6 +1009,14 @@
       "onboard_time": 1717043060,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 138138,
+      "num": 138138,
+      "word": "炎亚纶方回应判决结果",
+      "onboard_time": 1717047019,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 133938,
@@ -1267,6 +1291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93988,
+      "num": 536080,
+      "word": "先己后人也是一种漂亮的活法",
+      "onboard_time": 1717045400,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92925,
       "num": 92925,
       "word": "朱婷替补",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1716990257,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52946,
-      "num": 536080,
-      "word": "先己后人也是一种漂亮的活法",
-      "onboard_time": 1717045400,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 51568,
