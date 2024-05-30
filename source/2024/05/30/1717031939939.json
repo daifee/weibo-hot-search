@@ -1,0 +1,410 @@
+{
+  "runTime": 1717031939939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2215557,
+        "num": 2215557,
+        "word": "希尔顿一会员夜不归宿被扣3000元",
+        "onboard_time": 1717028538,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1495325,
+        "num": 1495325,
+        "word": "张玉安长文",
+        "onboard_time": 1717029258,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54635,
+        "num": 1002030,
+        "word": "我国首个大西洋载人深潜科考任务完成",
+        "onboard_time": 1716990257,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604869,
+        "num": 604869,
+        "word": "浙江隐秘富豪家族覆灭",
+        "onboard_time": 1716992779,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517726,
+        "num": 517726,
+        "word": "女留学生新加坡坠亡知情人发声",
+        "onboard_time": 1717029677,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473623,
+        "num": 473623,
+        "word": "全世界的大宗师都吻了上来",
+        "onboard_time": 1716992598,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428854,
+        "num": 428854,
+        "word": "张绍刚 求职节目",
+        "onboard_time": 1717028117,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418158,
+        "num": 418158,
+        "word": "朝鲜用气球向韩国投放大量废纸和污物",
+        "onboard_time": 1716989718,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 398235,
+        "num": 398235,
+        "word": "伊朗坠毁直升机排除人为破坏可能性",
+        "onboard_time": 1717027398,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 293038,
+        "num": 333766,
+        "word": "巴西总统宣布永久撤回驻以色列大使",
+        "onboard_time": 1716991398,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 415605,
+        "num": 333053,
+        "word": "被隐形家务震惊到了",
+        "onboard_time": 1717029558,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325490,
+        "num": 325490,
+        "word": "张玉安指责IVE抄袭中国文化",
+        "onboard_time": 1717025956,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323338,
+        "num": 323338,
+        "word": "孙楠退赛 汪涵表情",
+        "onboard_time": 1716972558,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187889,
+        "num": 280889,
+        "word": "徐梦桃谈身边的运动员宝妈很辛苦",
+        "onboard_time": 1717031417,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261516,
+        "num": 261516,
+        "word": "举报西北大学博士招生存问题考生发声",
+        "onboard_time": 1717022894,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 260886,
+        "num": 260886,
+        "word": "B太举报男子卖鬼秤又给他捐款",
+        "onboard_time": 1716991338,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226128,
+        "num": 226128,
+        "word": "为了上岸要报考偏远地区公务员吗",
+        "onboard_time": 1717029498,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223177,
+        "num": 223177,
+        "word": "张小斐 第一章回国",
+        "onboard_time": 1716992419,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218917,
+        "num": 218917,
+        "word": "华春莹发加沙女孩流浪视频",
+        "onboard_time": 1717006032,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200213,
+        "num": 200213,
+        "word": "福宝最爱吃苦竹和糖心苹果",
+        "onboard_time": 1717027757,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611914,
+        "num": 199995,
+        "word": "张若昀曾帮毛晓彤解围",
+        "onboard_time": 1717028658,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494880,
+        "num": 199445,
+        "word": "地铁遇到情侣越过我腿拉手手",
+        "onboard_time": 1717028177,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274413,
+        "num": 199128,
+        "word": "清北毕业爸爸辅导孩子数学也抓狂",
+        "onboard_time": 1717030759,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198615,
+        "num": 198615,
+        "word": "中方就世卫大会涉台问题点名日本",
+        "onboard_time": 1717026076,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223697,
+        "num": 197424,
+        "word": "37周孕妇糖耐不过在家锻炼",
+        "onboard_time": 1716995178,
+        "rank": 24,
+        "category": "母婴育儿,运动健身"
+      },
+      {
+        "raw_hot": 199763,
+        "num": 196693,
+        "word": "校方回应大学生请5天假奔丧被砍掉2天",
+        "onboard_time": 1716996678,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194417,
+        "num": 194417,
+        "word": "第一次见到珊瑚产卵",
+        "onboard_time": 1717030339,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 190787,
+        "num": 190787,
+        "word": "研究称保持饥饿感能延缓衰老",
+        "onboard_time": 1717029798,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173829,
+        "num": 173829,
+        "word": "济南平均招聘月薪9752元",
+        "onboard_time": 1717027097,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169672,
+        "num": 169672,
+        "word": "iPhone价格持续下降销量反弹",
+        "onboard_time": 1716989359,
+        "rank": 29,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 218123,
+        "num": 166854,
+        "word": "小孩哥 生自己的妈自己养",
+        "onboard_time": 1717031837,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87996,
+        "num": 163711,
+        "word": "他们是中国科学家",
+        "onboard_time": 1717028418,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163044,
+        "num": 163044,
+        "word": "周杰伦特别嘉宾王俊凯",
+        "onboard_time": 1716985516,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161051,
+        "num": 161051,
+        "word": "张玉安还原韩媒报道原委",
+        "onboard_time": 1717029379,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157184,
+        "num": 157184,
+        "word": "6类人容易提前长白发",
+        "onboard_time": 1717024875,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146005,
+        "num": 146005,
+        "word": "因辞职照顾住院老人HR把我删了",
+        "onboard_time": 1717029018,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131367,
+        "num": 131367,
+        "word": "陈萍萍的爱只给了叶轻眉和范闲",
+        "onboard_time": 1716995540,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131323,
+        "num": 131323,
+        "word": "张若昀每天都给唐艺昕做早餐",
+        "onboard_time": 1716980237,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127130,
+        "num": 127130,
+        "word": "刘端端演出了李承泽的灵魂",
+        "onboard_time": 1716998958,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126614,
+        "num": 126614,
+        "word": "英雄联盟维护",
+        "onboard_time": 1717026677,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126017,
+        "num": 126017,
+        "word": "95后轰6K飞行员与外机对峙说不怕死",
+        "onboard_time": 1717030217,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 123615,
+        "num": 123615,
+        "word": "去学做蛋糕的同班同学",
+        "onboard_time": 1717026977,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119114,
+        "num": 119114,
+        "word": "肉毒素中毒严重或危及生命",
+        "onboard_time": 1717026436,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118019,
+        "num": 118019,
+        "word": "欧冠决赛",
+        "onboard_time": 1717026196,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115393,
+        "num": 115393,
+        "word": "弄发型可以这么简单",
+        "onboard_time": 1717030158,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 112988,
+        "num": 112988,
+        "word": "这是我的梦中情瓜吧",
+        "onboard_time": 1717031657,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112533,
+        "num": 112533,
+        "word": "朋友每周都来住两天要收房租吗",
+        "onboard_time": 1717029139,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67033,
+        "num": 109274,
+        "word": "袁心玥 击掌",
+        "onboard_time": 1716986658,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102638,
+        "num": 102638,
+        "word": "苏打绿出道20周年",
+        "onboard_time": 1717030519,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100434,
+        "num": 100434,
+        "word": "朱婷回来了",
+        "onboard_time": 1716990918,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设更具内涵更有活力的中埃关系#"
+    }
+  }
+}
