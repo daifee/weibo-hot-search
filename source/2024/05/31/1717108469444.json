@@ -1,0 +1,410 @@
+{
+  "runTime": 1717108469444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 353545,
+        "num": 353545,
+        "word": "台湾高中生问中国史是什么",
+        "onboard_time": 1717077740,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280245,
+        "num": 280245,
+        "word": "王倦 第三季不会等这么久",
+        "onboard_time": 1717084158,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13471,
+        "num": 262923,
+        "word": "中阿合作20载硕果累累",
+        "onboard_time": 1717075459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257369,
+        "num": 257369,
+        "word": "白玉兰提名没有王一博",
+        "onboard_time": 1717075459,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179900,
+        "num": 179900,
+        "word": "甘肃省博物馆发声明",
+        "onboard_time": 1717083258,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120504,
+        "num": 120504,
+        "word": "海底捞玩具大人不能随便拿了",
+        "onboard_time": 1717058659,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253923,
+        "num": 109829,
+        "word": "五竹 婉儿",
+        "onboard_time": 1717078821,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179393,
+        "num": 108207,
+        "word": "庆余年真有徐志胜",
+        "onboard_time": 1717083678,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97173,
+        "num": 97173,
+        "word": "韩国宣布将在2045年前登陆火星",
+        "onboard_time": 1717044979,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2010,
+        "num": 94506,
+        "word": "萌兰和彩虹同框了",
+        "onboard_time": 1717080800,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136864,
+        "num": 91520,
+        "word": "胡歌你偷谁家小孩了",
+        "onboard_time": 1717099930,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136605,
+        "num": 91062,
+        "word": "疯产姐妹回应停更原因",
+        "onboard_time": 1717066517,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134781,
+        "num": 86519,
+        "word": "叶轻眉 纯元",
+        "onboard_time": 1717095491,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131462,
+        "num": 83833,
+        "word": "王阳获白玉兰最佳男主角提名",
+        "onboard_time": 1717070118,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82766,
+        "num": 82766,
+        "word": "台独课本洗脑青少年",
+        "onboard_time": 1717077740,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55458,
+        "num": 55458,
+        "word": "法网 下雨了",
+        "onboard_time": 1717080259,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53929,
+        "num": 53929,
+        "word": "年轻人决定先局部退休",
+        "onboard_time": 1717099751,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42816,
+        "num": 53817,
+        "word": "法网",
+        "onboard_time": 1717079238,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36820,
+        "num": 53712,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1717067058,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 30531,
+        "num": 53619,
+        "word": "以色列",
+        "onboard_time": 1717072278,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130608,
+        "num": 53478,
+        "word": "庆余年大结局",
+        "onboard_time": 1717069517,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119398,
+        "num": 53439,
+        "word": "孙楠 双眼皮",
+        "onboard_time": 1717080200,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76290,
+        "num": 53279,
+        "word": "杨紫入围白玉兰视后",
+        "onboard_time": 1717069337,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65094,
+        "num": 53194,
+        "word": "追风者 男主",
+        "onboard_time": 1717070778,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56005,
+        "num": 52996,
+        "word": "叶轻眉除了活着什么都会",
+        "onboard_time": 1717106771,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54755,
+        "num": 52841,
+        "word": "白玉兰入围名单",
+        "onboard_time": 1717069096,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52839,
+        "num": 52839,
+        "word": "一公司招董秘被曝需解决老板生理需求",
+        "onboard_time": 1717062206,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48897,
+        "num": 52824,
+        "word": "原来两车麦子才能卖5千多",
+        "onboard_time": 1717101491,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43196,
+        "num": 52783,
+        "word": "李宇春黑丝绒晚礼服",
+        "onboard_time": 1717073477,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41325,
+        "num": 52753,
+        "word": "坐飞机头等舱的人都是什么职业",
+        "onboard_time": 1717069939,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41685,
+        "num": 52726,
+        "word": "古偶 上桌",
+        "onboard_time": 1717079659,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39897,
+        "num": 52698,
+        "word": "庆余年3",
+        "onboard_time": 1717071859,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37564,
+        "num": 52663,
+        "word": "原来老外才是中国旅游的最强嘴替",
+        "onboard_time": 1717074319,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 36874,
+        "num": 52620,
+        "word": "杨幂问今天大家怎么怪怪的",
+        "onboard_time": 1717072699,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29874,
+        "num": 52602,
+        "word": "台风",
+        "onboard_time": 1717078279,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34391,
+        "num": 52573,
+        "word": "白玉兰视帝提名",
+        "onboard_time": 1717069819,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27818,
+        "num": 52551,
+        "word": "特斯拉刹车事件女车主被判道歉",
+        "onboard_time": 1717067599,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25677,
+        "num": 52495,
+        "word": "黑袋装卫生巾已经成为过去了",
+        "onboard_time": 1717079778,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34763,
+        "num": 52485,
+        "word": "狐妖导演回应杨幂龚俊cp感",
+        "onboard_time": 1717094951,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25670,
+        "num": 52435,
+        "word": "我国成功发射巴基斯坦多任务通信卫星",
+        "onboard_time": 1717074979,
+        "rank": 39,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 30413,
+        "num": 52420,
+        "word": "佟梦实回复张若昀",
+        "onboard_time": 1717082838,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28094,
+        "num": 52387,
+        "word": "辛芷蕾没入围",
+        "onboard_time": 1717076659,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26704,
+        "num": 52359,
+        "word": "曾舜晞回应P图",
+        "onboard_time": 1717102211,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25336,
+        "num": 52323,
+        "word": "陈道明演技",
+        "onboard_time": 1717082420,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25265,
+        "num": 52291,
+        "word": "圆明园临时闭园",
+        "onboard_time": 1717078219,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 23640,
+        "num": 52260,
+        "word": "胡歌五提白玉兰",
+        "onboard_time": 1717070238,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23625,
+        "num": 52231,
+        "word": "Letme看姿态老头杯红温",
+        "onboard_time": 1717083978,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20312,
+        "num": 52183,
+        "word": "光头自己画头发",
+        "onboard_time": 1717092552,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 17723,
+        "num": 52176,
+        "word": "陪伴童年的经典动画片",
+        "onboard_time": 1717097831,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 15480,
+        "num": 52134,
+        "word": "大国重器命名里的中国浪漫",
+        "onboard_time": 1717096212,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿联酋总统会谈#"
+    }
+  }
+}

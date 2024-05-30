@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717107517273,
+  "endTime": 1717108469444,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -4628,7 +4628,7 @@
     },
     {
       "raw_hot": 324358,
-      "num": 165476,
+      "num": 179900,
       "word": "甘肃省博物馆发声明",
       "onboard_time": 1717083258,
       "rank": 49,
@@ -10723,6 +10723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136864,
+      "num": 91520,
+      "word": "胡歌你偷谁家小孩了",
+      "onboard_time": 1717099930,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136320,
       "num": 136320,
       "word": "巴黎爆发万人示威抗议拉法惨案",
@@ -10897,6 +10905,14 @@
       "onboard_time": 1717068257,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134781,
+      "num": 86519,
+      "word": "叶轻眉 纯元",
+      "onboard_time": 1717095491,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 134580,
@@ -11513,14 +11529,6 @@
       "onboard_time": 1716891560,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 126410,
-      "num": 74247,
-      "word": "胡歌你偷谁家小孩了",
-      "onboard_time": 1717099930,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 126017,
@@ -12779,14 +12787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103021,
-      "num": 72028,
-      "word": "叶轻眉 纯元",
-      "onboard_time": 1717095491,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102875,
       "num": 102875,
       "word": "广西46岁男子工地坠亡排除刑案",
@@ -13835,6 +13835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56005,
+      "num": 52996,
+      "word": "叶轻眉除了活着什么都会",
+      "onboard_time": 1717106771,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55790,
       "num": 55790,
       "word": "广美学生毕设以父亲为原型铸钢雕",
@@ -13913,6 +13921,14 @@
       "onboard_time": 1716903979,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 53929,
+      "num": 53929,
+      "word": "年轻人决定先局部退休",
+      "onboard_time": 1717099751,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53523,
@@ -14027,14 +14043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50938,
-      "num": 50938,
-      "word": "年轻人决定先局部退休",
-      "onboard_time": 1717099751,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50891,
       "num": 50891,
       "word": "杨万理卷子",
@@ -14081,6 +14089,14 @@
       "onboard_time": 1716928991,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48897,
+      "num": 52824,
+      "word": "原来两车麦子才能卖5千多",
+      "onboard_time": 1717101491,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 47839,
@@ -14195,14 +14211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42643,
-      "num": 40522,
-      "word": "原来两车麦子才能卖5千多",
-      "onboard_time": 1717101491,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 42373,
       "num": 394232,
       "word": "高三老师在教室门口设答疑桌",
@@ -14241,14 +14249,6 @@
       "onboard_time": 1716643640,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40468,
-      "num": 40468,
-      "word": "叶轻眉除了活着什么都会",
-      "onboard_time": 1717106771,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 40365,
@@ -14376,6 +14376,14 @@
       "word": "张昊唯 平易近人是太子的保护色",
       "onboard_time": 1717001175,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34763,
+      "num": 52485,
+      "word": "狐妖导演回应杨幂龚俊cp感",
+      "onboard_time": 1717094951,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -14507,14 +14515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28869,
-      "num": 33410,
-      "word": "狐妖导演回应杨幂龚俊cp感",
-      "onboard_time": 1717094951,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28474,
       "num": 506483,
       "word": "温州人把龙舟划出高铁的气势",
@@ -14587,6 +14587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26704,
+      "num": 52359,
+      "word": "曾舜晞回应P图",
+      "onboard_time": 1717102211,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26657,
       "num": 26657,
       "word": "女孩被校园霸凌转学后又面临失学",
@@ -14612,19 +14620,11 @@
     },
     {
       "raw_hot": 25651,
-      "num": 36697,
+      "num": 52183,
       "word": "光头自己画头发",
       "onboard_time": 1717092552,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 25460,
-      "num": 30194,
-      "word": "曾舜晞回应P图",
-      "onboard_time": 1717102211,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 25066,
@@ -14771,20 +14771,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 17723,
+      "num": 52176,
+      "word": "陪伴童年的经典动画片",
+      "onboard_time": 1717097831,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 16636,
       "num": 16636,
       "word": "这孩子将来得是国际锯星",
       "onboard_time": 1716925690,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16240,
-      "num": 30181,
-      "word": "陪伴童年的经典动画片",
-      "onboard_time": 1717097831,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 15987,
@@ -14795,20 +14795,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15480,
+      "num": 52134,
+      "word": "大国重器命名里的中国浪漫",
+      "onboard_time": 1717096212,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15461,
       "num": 15461,
       "word": "报春花科新物种被发现",
       "onboard_time": 1716926110,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 15295,
-      "num": 33347,
-      "word": "大国重器命名里的中国浪漫",
-      "onboard_time": 1717096212,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15043,
@@ -14833,6 +14833,14 @@
       "onboard_time": 1716844330,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 13471,
+      "num": 425870,
+      "word": "中阿合作20载硕果累累",
+      "onboard_time": 1717075459,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13435,
@@ -14873,14 +14881,6 @@
       "onboard_time": 1716776780,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 10770,
-      "num": 425870,
-      "word": "中阿合作20载硕果累累",
-      "onboard_time": 1717075459,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9638,
