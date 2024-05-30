@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717033147329,
+  "endTime": 1717036397545,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -7003,6 +7003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 915214,
+      "num": 915214,
+      "word": "英国议会宣布正式解散",
+      "onboard_time": 1717035316,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 914694,
       "num": 532745,
       "word": "睡前大量饮水影响前列腺健康",
@@ -9091,6 +9099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785212,
+      "num": 162824,
+      "word": "星巴克也急了",
+      "onboard_time": 1717033396,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 785066,
       "num": 415273,
       "word": "歌手刚开始没邀请汪苏泷",
@@ -10939,6 +10955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 698226,
+      "num": 199995,
+      "word": "张若昀曾帮毛晓彤解围",
+      "onboard_time": 1717028658,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697878,
       "num": 697878,
       "word": "某幻 花少北",
@@ -12371,6 +12395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645828,
+      "num": 645828,
+      "word": "JYP承认NMIXX音响事故为事前安排",
+      "onboard_time": 1717033577,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 645791,
       "num": 487004,
       "word": "杨幂这一年在频繁自我对话",
@@ -12409,14 +12441,6 @@
       "onboard_time": 1714917861,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 645093,
-      "num": 199995,
-      "word": "张若昀曾帮毛晓彤解围",
-      "onboard_time": 1717028658,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 645020,
@@ -13993,6 +14017,14 @@
       "onboard_time": 1714973900,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595473,
+      "num": 595473,
+      "word": "清北毕业爸爸辅导孩子数学也抓狂",
+      "onboard_time": 1717030759,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595245,
@@ -20379,14 +20411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 441508,
-      "num": 441508,
-      "word": "清北毕业爸爸辅导孩子数学也抓狂",
-      "onboard_time": 1717030759,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441476,
       "num": 130252,
       "word": "浪队",
@@ -20787,6 +20811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 433542,
+      "num": 433542,
+      "word": "二皇子五年后重现第一季大拇指",
+      "onboard_time": 1717032437,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 433532,
       "num": 433532,
       "word": "刘亦菲紫色高定",
@@ -20899,6 +20931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431493,
+      "num": 182562,
+      "word": "小孩哥 生自己的妈自己养",
+      "onboard_time": 1717031837,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 431242,
       "num": 431242,
       "word": "Tiffany玄学",
@@ -20992,6 +21032,14 @@
       "word": "躺了五年还给范闲躺漏气了",
       "onboard_time": 1715919981,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 429172,
+      "num": 395327,
+      "word": "范闲 奶奶的梦中情孙",
+      "onboard_time": 1717034537,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -27531,14 +27579,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 328507,
-      "num": 328507,
-      "word": "二皇子五年后重现第一季大拇指",
-      "onboard_time": 1717032437,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 328461,
       "num": 328461,
       "word": "黄霄雲 要多努力才能改变一句评价",
@@ -28801,14 +28841,6 @@
       "onboard_time": 1715867599,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311947,
-      "num": 182562,
-      "word": "小孩哥 生自己的妈自己养",
-      "onboard_time": 1717031837,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 311909,
@@ -33001,6 +33033,14 @@
       "onboard_time": 1715054420,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265384,
+      "num": 265384,
+      "word": "新生男婴被父母以5万卖掉",
+      "onboard_time": 1717035256,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 265377,
@@ -37729,6 +37769,14 @@
       "onboard_time": 1715697861,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228925,
+      "num": 228925,
+      "word": "东方月初以血吻封缄涂山红红",
+      "onboard_time": 1717032916,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 228864,
@@ -43587,6 +43635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201234,
+      "num": 201234,
+      "word": "福宝最爱吃苦竹和糖心苹果",
+      "onboard_time": 1717027757,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201188,
       "num": 201188,
       "word": "元气森林音乐节",
@@ -43633,6 +43689,14 @@
       "onboard_time": 1715245939,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201117,
+      "num": 201117,
+      "word": "kep1er确认七人续约",
+      "onboard_time": 1717036338,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 201112,
@@ -44049,14 +44113,6 @@
       "onboard_time": 1714826780,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200213,
-      "num": 200213,
-      "word": "福宝最爱吃苦竹和糖心苹果",
-      "onboard_time": 1717027757,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200186,
@@ -45675,6 +45731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195242,
+      "num": 195242,
+      "word": "第一次见到珊瑚产卵",
+      "onboard_time": 1717030339,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 195227,
       "num": 195227,
       "word": "我在横店打篮球",
@@ -45961,14 +46025,6 @@
       "onboard_time": 1716215300,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194417,
-      "num": 194417,
-      "word": "第一次见到珊瑚产卵",
-      "onboard_time": 1717030339,
-      "rank": 26,
-      "category": "科学科普"
     },
     {
       "raw_hot": 194407,
@@ -49272,6 +49328,14 @@
       "word": "王俊凯最可爱美丽的Jolin姐姐",
       "onboard_time": 1716183260,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 184445,
+      "num": 160683,
+      "word": "nmixx",
+      "onboard_time": 1717035077,
+      "rank": 25,
       "category": "演出"
     },
     {
@@ -55355,6 +55419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162961,
+      "num": 162961,
+      "word": "境外资本大举买入中国股票ETF",
+      "onboard_time": 1717035197,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162933,
       "num": 162933,
       "word": "一起来看巴黎奥运会",
@@ -58008,6 +58080,14 @@
       "word": "旅客胸背部藏987.4克穿山甲鳞片被查",
       "onboard_time": 1716647480,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153767,
+      "num": 341730,
+      "word": "无锡晋升2024新一线",
+      "onboard_time": 1717035556,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -61539,6 +61619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142456,
+      "num": 142456,
+      "word": "贵州茅台每10股分红308.76元",
+      "onboard_time": 1717034957,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142446,
       "num": 142446,
       "word": "杭州人的cos已经是nextlevel了",
@@ -64243,6 +64331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133938,
+      "num": 133938,
+      "word": "这是我的梦中情瓜吧",
+      "onboard_time": 1717031657,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133931,
       "num": 133931,
       "word": "原来大家小时候都偷过爸妈的钱",
@@ -65563,6 +65659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129939,
+      "num": 129939,
+      "word": "妖刀转会费",
+      "onboard_time": 1717033877,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129902,
       "num": 217911,
       "word": "凤凰传奇军训",
@@ -65977,6 +66081,14 @@
       "onboard_time": 1716085637,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128386,
+      "num": 128386,
+      "word": "冰岛一火山再喷发岩浆高达50米",
+      "onboard_time": 1717035017,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128379,
@@ -66763,6 +66875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126138,
+      "num": 126138,
+      "word": "imp好狂",
+      "onboard_time": 1717034296,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126105,
       "num": 126105,
       "word": "王楚钦加油",
@@ -67433,6 +67553,14 @@
       "onboard_time": 1714539857,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124145,
+      "num": 124145,
+      "word": "玉米最营养部位是玉米粒根部",
+      "onboard_time": 1717034177,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 124129,
@@ -68547,6 +68675,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 119892,
+      "num": 119892,
+      "word": "嘉峪关",
+      "onboard_time": 1717036216,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119875,
       "num": 119875,
       "word": "突然好奇以前的就业环境什么样",
@@ -69489,6 +69625,14 @@
       "onboard_time": 1716111077,
       "rank": 42,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 117114,
+      "num": 117114,
+      "word": "85后创二代非法集资潜逃海外",
+      "onboard_time": 1716992779,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117010,
@@ -70553,14 +70697,6 @@
       "onboard_time": 1716543678,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112988,
-      "num": 112988,
-      "word": "这是我的梦中情瓜吧",
-      "onboard_time": 1717031657,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 112977,
@@ -71785,14 +71921,6 @@
       "onboard_time": 1716685757,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107841,
-      "num": 107841,
-      "word": "东方月初以血吻封缄涂山红红",
-      "onboard_time": 1717032916,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 107807,
@@ -73192,6 +73320,14 @@
       "word": "茉酸奶涉事门店即刻解约关闭",
       "onboard_time": 1716804738,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99944,
+      "num": 99944,
+      "word": "B太反复感叹去晚了",
+      "onboard_time": 1717036038,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -74841,6 +74977,14 @@
       "onboard_time": 1715261719,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 84949,
+      "num": 84949,
+      "word": "短剧届有自己的凤凰传奇",
+      "onboard_time": 1717036338,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 84921,

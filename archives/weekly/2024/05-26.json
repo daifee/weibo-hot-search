@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717033147329,
+  "endTime": 1717036397545,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -803,6 +803,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 915214,
+      "num": 915214,
+      "word": "英国议会宣布正式解散",
+      "onboard_time": 1717035316,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 902001,
       "num": 902001,
       "word": "长期不说话或少说话有什么后果",
@@ -1163,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785212,
+      "num": 162824,
+      "word": "星巴克也急了",
+      "onboard_time": 1717033396,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 784936,
       "num": 784936,
       "word": "一个班的几乎全是考公务员的",
@@ -1403,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 698226,
+      "num": 199995,
+      "word": "张若昀曾帮毛晓彤解围",
+      "onboard_time": 1717028658,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691881,
       "num": 446213,
       "word": "种地吧将取消打卡直播",
@@ -1523,20 +1547,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 645828,
+      "num": 645828,
+      "word": "JYP承认NMIXX音响事故为事前安排",
+      "onboard_time": 1717033577,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 645353,
       "num": 475878,
       "word": "刘强东 不想拼的不是兄弟",
       "onboard_time": 1716773778,
       "rank": 18,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 645093,
-      "num": 199995,
-      "word": "张若昀曾帮毛晓彤解围",
-      "onboard_time": 1717028658,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 644444,
@@ -1792,6 +1816,14 @@
       "word": "校方回应大学生请5天假奔丧被砍掉2天",
       "onboard_time": 1716996678,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595473,
+      "num": 595473,
+      "word": "清北毕业爸爸辅导孩子数学也抓狂",
+      "onboard_time": 1717030759,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -2755,14 +2787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 441508,
-      "num": 441508,
-      "word": "清北毕业爸爸辅导孩子数学也抓狂",
-      "onboard_time": 1717030759,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440605,
       "num": 440605,
       "word": "英伟达市值一夜暴增1.35万亿",
@@ -2825,6 +2849,30 @@
       "onboard_time": 1716703699,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 433542,
+      "num": 433542,
+      "word": "二皇子五年后重现第一季大拇指",
+      "onboard_time": 1717032437,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 431493,
+      "num": 182562,
+      "word": "小孩哥 生自己的妈自己养",
+      "onboard_time": 1717031837,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 429172,
+      "num": 395327,
+      "word": "范闲 奶奶的梦中情孙",
+      "onboard_time": 1717034537,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 428854,
@@ -3787,14 +3835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 328507,
-      "num": 328507,
-      "word": "二皇子五年后重现第一季大拇指",
-      "onboard_time": 1717032437,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 327390,
       "num": 327390,
       "word": "金晨鼻子",
@@ -3961,14 +4001,6 @@
       "onboard_time": 1716848412,
       "rank": 22,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 311947,
-      "num": 182562,
-      "word": "小孩哥 生自己的妈自己养",
-      "onboard_time": 1717031837,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 310579,
@@ -4513,6 +4545,14 @@
       "onboard_time": 1716724637,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 265384,
+      "num": 265384,
+      "word": "新生男婴被父母以5万卖掉",
+      "onboard_time": 1717035256,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 265283,
@@ -5233,6 +5273,14 @@
       "onboard_time": 1716867018,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228925,
+      "num": 228925,
+      "word": "东方月初以血吻封缄涂山红红",
+      "onboard_time": 1717032916,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 228323,
@@ -6099,6 +6147,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201234,
+      "num": 201234,
+      "word": "福宝最爱吃苦竹和糖心苹果",
+      "onboard_time": 1717027757,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201117,
+      "num": 201117,
+      "word": "kep1er确认七人续约",
+      "onboard_time": 1717036338,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201017,
       "num": 201017,
       "word": "国际月经日",
@@ -6137,14 +6201,6 @@
       "onboard_time": 1716708497,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200213,
-      "num": 200213,
-      "word": "福宝最爱吃苦竹和糖心苹果",
-      "onboard_time": 1717027757,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200053,
@@ -6347,6 +6403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195242,
+      "num": 195242,
+      "word": "第一次见到珊瑚产卵",
+      "onboard_time": 1717030339,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 195221,
       "num": 195221,
       "word": "夏天如何避免大油头",
@@ -6385,14 +6449,6 @@
       "onboard_time": 1716798618,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194417,
-      "num": 194417,
-      "word": "第一次见到珊瑚产卵",
-      "onboard_time": 1717030339,
-      "rank": 26,
-      "category": "科学科普"
     },
     {
       "raw_hot": 194271,
@@ -6905,6 +6961,14 @@
       "onboard_time": 1716984017,
       "rank": 29,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 184445,
+      "num": 160683,
+      "word": "nmixx",
+      "onboard_time": 1717035077,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 184084,
@@ -7779,6 +7843,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 162961,
+      "num": 162961,
+      "word": "境外资本大举买入中国股票ETF",
+      "onboard_time": 1717035197,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162802,
       "num": 162802,
       "word": "宁艺卓高音",
@@ -8081,6 +8153,14 @@
       "onboard_time": 1716871458,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153767,
+      "num": 341730,
+      "word": "无锡晋升2024新一线",
+      "onboard_time": 1717035556,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153720,
@@ -8571,6 +8651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142456,
+      "num": 142456,
+      "word": "贵州茅台每10股分红308.76元",
+      "onboard_time": 1717034957,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142445,
       "num": 177959,
       "word": "疾控部门提醒近期防控猩红热",
@@ -9059,6 +9147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133938,
+      "num": 133938,
+      "word": "这是我的梦中情瓜吧",
+      "onboard_time": 1717031657,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133931,
       "num": 133931,
       "word": "原来大家小时候都偷过爸妈的钱",
@@ -9363,6 +9459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129939,
+      "num": 129939,
+      "word": "妖刀转会费",
+      "onboard_time": 1717033877,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129783,
       "num": 129783,
       "word": "公主侍卫的双向暗恋",
@@ -9441,6 +9545,14 @@
       "onboard_time": 1716766636,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128386,
+      "num": 128386,
+      "word": "冰岛一火山再喷发岩浆高达50米",
+      "onboard_time": 1717035017,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128185,
@@ -9545,6 +9657,14 @@
       "onboard_time": 1716891560,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 126138,
+      "num": 126138,
+      "word": "imp好狂",
+      "onboard_time": 1717034296,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 126017,
@@ -9665,6 +9785,14 @@
       "onboard_time": 1716952457,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124145,
+      "num": 124145,
+      "word": "玉米最营养部位是玉米粒根部",
+      "onboard_time": 1717034177,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 124123,
@@ -9899,6 +10027,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 119892,
+      "num": 119892,
+      "word": "嘉峪关",
+      "onboard_time": 1717036216,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119875,
       "num": 119875,
       "word": "突然好奇以前的就业环境什么样",
@@ -10083,6 +10219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117114,
+      "num": 117114,
+      "word": "85后创二代非法集资潜逃海外",
+      "onboard_time": 1716992779,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116531,
       "num": 116531,
       "word": "曹杨 杰伦严选",
@@ -10217,14 +10361,6 @@
       "onboard_time": 1716976578,
       "rank": 42,
       "category": "读书作家,旅游"
-    },
-    {
-      "raw_hot": 112988,
-      "num": 112988,
-      "word": "这是我的梦中情瓜吧",
-      "onboard_time": 1717031657,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 112855,
@@ -10491,14 +10627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107841,
-      "num": 107841,
-      "word": "东方月初以血吻封缄涂山红红",
-      "onboard_time": 1717032916,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106922,
       "num": 106922,
       "word": "手机一定要清理的四大文件",
@@ -10720,6 +10848,14 @@
       "word": "茉酸奶涉事门店即刻解约关闭",
       "onboard_time": 1716804738,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99944,
+      "num": 99944,
+      "word": "B太反复感叹去晚了",
+      "onboard_time": 1717036038,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -11017,6 +11153,14 @@
       "onboard_time": 1716817639,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 84949,
+      "num": 84949,
+      "word": "短剧届有自己的凤凰传奇",
+      "onboard_time": 1717036338,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 84270,

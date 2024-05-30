@@ -1,0 +1,410 @@
+{
+  "runTime": 1717036397545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1126253,
+        "num": 1126253,
+        "word": "希尔顿一会员夜不归宿被扣3000元",
+        "onboard_time": 1717028538,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915214,
+        "num": 915214,
+        "word": "英国议会宣布正式解散",
+        "onboard_time": 1717035316,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37160,
+        "num": 702467,
+        "word": "我国首个大西洋载人深潜科考任务完成",
+        "onboard_time": 1716990257,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645828,
+        "num": 645828,
+        "word": "JYP承认NMIXX音响事故为事前安排",
+        "onboard_time": 1717033577,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 595473,
+        "num": 595473,
+        "word": "清北毕业爸爸辅导孩子数学也抓狂",
+        "onboard_time": 1717030759,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433542,
+        "num": 433542,
+        "word": "二皇子五年后重现第一季大拇指",
+        "onboard_time": 1717032437,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407243,
+        "num": 407243,
+        "word": "为了上岸要报考偏远地区公务员吗",
+        "onboard_time": 1717029498,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 429172,
+        "num": 395327,
+        "word": "范闲 奶奶的梦中情孙",
+        "onboard_time": 1717034537,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383305,
+        "num": 383305,
+        "word": "张玉安长文",
+        "onboard_time": 1717029258,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153767,
+        "num": 341730,
+        "word": "无锡晋升2024新一线",
+        "onboard_time": 1717035556,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305712,
+        "num": 305712,
+        "word": "女留学生新加坡坠亡知情人发声",
+        "onboard_time": 1717029677,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292668,
+        "num": 292668,
+        "word": "全世界的大宗师都吻了上来",
+        "onboard_time": 1716992598,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282772,
+        "num": 282772,
+        "word": "被隐形家务震惊到了",
+        "onboard_time": 1717029558,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265384,
+        "num": 265384,
+        "word": "新生男婴被父母以5万卖掉",
+        "onboard_time": 1717035256,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 228925,
+        "num": 228925,
+        "word": "东方月初以血吻封缄涂山红红",
+        "onboard_time": 1717032916,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201234,
+        "num": 201234,
+        "word": "福宝最爱吃苦竹和糖心苹果",
+        "onboard_time": 1717027757,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201119,
+        "num": 201119,
+        "word": "孙楠退赛 汪涵表情",
+        "onboard_time": 1716972558,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201117,
+        "num": 201117,
+        "word": "kep1er确认七人续约",
+        "onboard_time": 1717036338,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195242,
+        "num": 195242,
+        "word": "第一次见到珊瑚产卵",
+        "onboard_time": 1717030339,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 162961,
+        "num": 162961,
+        "word": "境外资本大举买入中国股票ETF",
+        "onboard_time": 1717035197,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 785212,
+        "num": 162824,
+        "word": "星巴克也急了",
+        "onboard_time": 1717033396,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 698226,
+        "num": 162126,
+        "word": "张若昀曾帮毛晓彤解围",
+        "onboard_time": 1717028658,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164941,
+        "num": 161814,
+        "word": "张绍刚 求职节目",
+        "onboard_time": 1717028117,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431493,
+        "num": 161646,
+        "word": "小孩哥 生自己的妈自己养",
+        "onboard_time": 1717031837,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211296,
+        "num": 160982,
+        "word": "地铁遇到情侣越过我腿拉手手",
+        "onboard_time": 1717028177,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184445,
+        "num": 160683,
+        "word": "nmixx",
+        "onboard_time": 1717035077,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170238,
+        "num": 160380,
+        "word": "校方回应大学生请5天假奔丧被砍掉2天",
+        "onboard_time": 1716996678,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160020,
+        "num": 160020,
+        "word": "朝鲜用气球向韩国投放大量废纸和污物",
+        "onboard_time": 1716989718,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 144470,
+        "num": 144470,
+        "word": "伊朗坠毁直升机排除人为破坏可能性",
+        "onboard_time": 1717027398,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142456,
+        "num": 142456,
+        "word": "贵州茅台每10股分红308.76元",
+        "onboard_time": 1717034957,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136850,
+        "num": 136850,
+        "word": "B太举报男子卖鬼秤又给他捐款",
+        "onboard_time": 1716991338,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135076,
+        "num": 135076,
+        "word": "张玉安指责IVE抄袭中国文化",
+        "onboard_time": 1717025956,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133938,
+        "num": 133938,
+        "word": "这是我的梦中情瓜吧",
+        "onboard_time": 1717031657,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132865,
+        "num": 132865,
+        "word": "补位受害者",
+        "onboard_time": 1717032316,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129939,
+        "num": 129939,
+        "word": "妖刀转会费",
+        "onboard_time": 1717033877,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128386,
+        "num": 128386,
+        "word": "冰岛一火山再喷发岩浆高达50米",
+        "onboard_time": 1717035017,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126138,
+        "num": 126138,
+        "word": "imp好狂",
+        "onboard_time": 1717034296,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124145,
+        "num": 124145,
+        "word": "玉米最营养部位是玉米粒根部",
+        "onboard_time": 1717034177,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119892,
+        "num": 119892,
+        "word": "嘉峪关",
+        "onboard_time": 1717036216,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117114,
+        "num": 117114,
+        "word": "85后创二代非法集资潜逃海外",
+        "onboard_time": 1716992779,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107771,
+        "num": 107771,
+        "word": "王俊凯唱完蔡依林唱周杰伦",
+        "onboard_time": 1717001295,
+        "rank": 40,
+        "category": "演出,综艺"
+      },
+      {
+        "raw_hot": 99944,
+        "num": 99944,
+        "word": "B太反复感叹去晚了",
+        "onboard_time": 1717036038,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99415,
+        "num": 99415,
+        "word": "研究称保持饥饿感能延缓衰老",
+        "onboard_time": 1717029798,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92818,
+        "num": 92818,
+        "word": "6类人容易提前长白发",
+        "onboard_time": 1717024875,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87484,
+        "num": 87484,
+        "word": "中国消费者诉苹果反垄断案一审宣判",
+        "onboard_time": 1717032617,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85967,
+        "num": 85967,
+        "word": "37周孕妇糖耐不过在家锻炼",
+        "onboard_time": 1716995178,
+        "rank": 45,
+        "category": "母婴育儿,运动健身"
+      },
+      {
+        "raw_hot": 85852,
+        "num": 85852,
+        "word": "张玉安还原韩媒报道原委",
+        "onboard_time": 1717029379,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85006,
+        "num": 85006,
+        "word": "明星基金经理集体跌下神坛",
+        "onboard_time": 1717031957,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84949,
+        "num": 84949,
+        "word": "短剧届有自己的凤凰传奇",
+        "onboard_time": 1717036338,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81775,
+        "num": 81775,
+        "word": "他们是中国科学家",
+        "onboard_time": 1717028418,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设更具内涵更有活力的中埃关系#"
+    }
+  }
+}
