@@ -1,0 +1,410 @@
+{
+  "runTime": 1717043121419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1400486,
+        "num": 1400486,
+        "word": "大厂员工离职后卖蕉绿月入200万",
+        "onboard_time": 1717040118,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286634,
+        "num": 1286634,
+        "word": "考完试故意把分数算得很低",
+        "onboard_time": 1717037296,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51568,
+        "num": 1212508,
+        "word": "今天发条微博致敬科技工作者",
+        "onboard_time": 1717037537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181212,
+        "num": 1181212,
+        "word": "炎亚纶案一审判决结果",
+        "onboard_time": 1717041078,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 876067,
+        "num": 876067,
+        "word": "王楚然回应臭脸",
+        "onboard_time": 1717041799,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 610380,
+        "num": 610380,
+        "word": "英国议会宣布正式解散",
+        "onboard_time": 1717035316,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 603321,
+        "num": 603321,
+        "word": "新加坡坠亡女留学生曾遭父亲家暴",
+        "onboard_time": 1717040238,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575153,
+        "num": 575153,
+        "word": "炎亚纶被判7个月缓刑3年",
+        "onboard_time": 1717042518,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566885,
+        "num": 566885,
+        "word": "星巴克也急了",
+        "onboard_time": 1717033396,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76827,
+        "num": 549245,
+        "word": "中国科学家的话听到泪目",
+        "onboard_time": 1717041618,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 885954,
+        "num": 548809,
+        "word": "希尔顿一会员夜不归宿被扣3000元",
+        "onboard_time": 1717028538,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80125,
+        "num": 545647,
+        "word": "成毅的长腿朋友",
+        "onboard_time": 1717040177,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544453,
+        "num": 544453,
+        "word": "孩子为啥养臭水",
+        "onboard_time": 1717037237,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438846,
+        "num": 438846,
+        "word": "2年遭家暴16次女子离婚案开庭",
+        "onboard_time": 1717039099,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 432516,
+        "num": 432516,
+        "word": "快乐老友记",
+        "onboard_time": 1717037899,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394521,
+        "num": 394521,
+        "word": "支持巴勒斯坦成为联合国正式会员国",
+        "onboard_time": 1717040057,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 71106,
+        "num": 348505,
+        "word": "极氪007刷新浙赛纪录",
+        "onboard_time": 1717041318,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 346044,
+        "num": 346044,
+        "word": "小米空调半夜掉了险些砸中2岁女儿",
+        "onboard_time": 1717042640,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316863,
+        "num": 316863,
+        "word": "希尔顿回应",
+        "onboard_time": 1717042159,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310180,
+        "num": 310180,
+        "word": "范闲 奶奶的梦中情孙",
+        "onboard_time": 1717034537,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 835684,
+        "num": 304597,
+        "word": "朋友圈弄个三天可见",
+        "onboard_time": 1717038438,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293332,
+        "num": 293332,
+        "word": "ive",
+        "onboard_time": 1717038018,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 63905,
+        "num": 282761,
+        "word": "颜宁荣获世界杰出女科学家奖",
+        "onboard_time": 1717041738,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280831,
+        "num": 280831,
+        "word": "新生男婴被父母以5万卖掉",
+        "onboard_time": 1717035256,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 269372,
+        "num": 269372,
+        "word": "被隐形家务震惊到了",
+        "onboard_time": 1717029558,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268226,
+        "num": 268226,
+        "word": "全职高手第三季开播",
+        "onboard_time": 1717042580,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 266291,
+        "num": 266291,
+        "word": "张若昀曾帮毛晓彤解围",
+        "onboard_time": 1717028658,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261400,
+        "num": 261400,
+        "word": "JYP承认NMIXX音响事故为事前安排",
+        "onboard_time": 1717033577,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232329,
+        "num": 232329,
+        "word": "女子把爷爷民国时期结婚证打手镯",
+        "onboard_time": 1717042458,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209781,
+        "num": 209781,
+        "word": "这一届大学生竟然已经这么牛了",
+        "onboard_time": 1717040297,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324886,
+        "num": 209687,
+        "word": "伊利牛奶",
+        "onboard_time": 1717037836,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209023,
+        "num": 209023,
+        "word": "范闲手术出现幻觉",
+        "onboard_time": 1717041977,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206083,
+        "num": 206083,
+        "word": "乘风直播赛歌单",
+        "onboard_time": 1717042580,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189298,
+        "num": 189298,
+        "word": "快乐老友记2电子榨菜回来了",
+        "onboard_time": 1717042219,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184446,
+        "num": 184446,
+        "word": "kep1er确认七人续约",
+        "onboard_time": 1717036338,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182558,
+        "num": 182558,
+        "word": "张真源 我可没忽悠你们",
+        "onboard_time": 1717038857,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171452,
+        "num": 171452,
+        "word": "境外资本大举买入中国股票ETF",
+        "onboard_time": 1717035197,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156939,
+        "num": 156939,
+        "word": "庆帝PUA范闲",
+        "onboard_time": 1717040957,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153901,
+        "num": 153901,
+        "word": "婚后发现丈夫没工作起诉离婚获支持",
+        "onboard_time": 1717042640,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151068,
+        "num": 151068,
+        "word": "原来经口呼吸真的会变丑",
+        "onboard_time": 1717040238,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150452,
+        "num": 150452,
+        "word": "苗条的妈妈和她健硕的好大儿",
+        "onboard_time": 1717042580,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142586,
+        "num": 142586,
+        "word": "杭州位列2024新一线第2",
+        "onboard_time": 1717041078,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140447,
+        "num": 140447,
+        "word": "谁能想到义乌今年最火的是中东菜",
+        "onboard_time": 1717043060,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139301,
+        "num": 139301,
+        "word": "清北毕业爸爸辅导孩子数学也抓狂",
+        "onboard_time": 1717030759,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135500,
+        "num": 135500,
+        "word": "Steam双人成行无需启动EA",
+        "onboard_time": 1717038078,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127485,
+        "num": 127485,
+        "word": "二十年前的儿童节妆容有多炸裂",
+        "onboard_time": 1717037657,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121542,
+        "num": 121542,
+        "word": "短剧届有自己的凤凰传奇",
+        "onboard_time": 1717036338,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118851,
+        "num": 118851,
+        "word": "无锡晋升2024新一线",
+        "onboard_time": 1717035556,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118743,
+        "num": 118743,
+        "word": "全世界的大宗师都吻了上来",
+        "onboard_time": 1716992598,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115954,
+        "num": 115954,
+        "word": "B太反复感叹去晚了",
+        "onboard_time": 1717036038,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿合作论坛第十届部长级会议#"
+    }
+  }
+}

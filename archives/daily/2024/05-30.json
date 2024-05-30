@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717040075999,
+  "endTime": 1717043121419,
   "band_list": [
     {
       "raw_hot": 2215557,
@@ -19,8 +19,32 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1400486,
+      "num": 1400486,
+      "word": "大厂员工离职后卖蕉绿月入200万",
+      "onboard_time": 1717040118,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1286634,
+      "num": 1286634,
+      "word": "考完试故意把分数算得很低",
+      "onboard_time": 1717037296,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1181212,
+      "num": 1181212,
+      "word": "炎亚纶案一审判决结果",
+      "onboard_time": 1717041078,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1128854,
-      "num": 205364,
+      "num": 304597,
       "word": "朋友圈弄个三天可见",
       "onboard_time": 1717038438,
       "rank": 20,
@@ -35,20 +59,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1038285,
-      "num": 1038285,
-      "word": "考完试故意把分数算得很低",
-      "onboard_time": 1717037296,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 981450,
       "num": 981450,
       "word": "星巴克也急了",
       "onboard_time": 1717033396,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 876067,
+      "num": 876067,
+      "word": "王楚然回应臭脸",
+      "onboard_time": 1717041799,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 863663,
@@ -60,7 +84,7 @@
     },
     {
       "raw_hot": 698226,
-      "num": 205093,
+      "num": 266291,
       "word": "张若昀曾帮毛晓彤解围",
       "onboard_time": 1717028658,
       "rank": 20,
@@ -107,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 603321,
+      "num": 603321,
+      "word": "新加坡坠亡女留学生曾遭父亲家暴",
+      "onboard_time": 1717040238,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595636,
       "num": 196693,
       "word": "校方回应大学生请5天假奔丧被砍掉2天",
@@ -123,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575153,
+      "num": 575153,
+      "word": "炎亚纶被判7个月缓刑3年",
+      "onboard_time": 1717042518,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 562494,
       "num": 389600,
       "word": "新生男婴被父母以5万卖掉",
@@ -137,6 +177,14 @@
       "onboard_time": 1716992419,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544453,
+      "num": 544453,
+      "word": "孩子为啥养臭水",
+      "onboard_time": 1717037237,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519332,
@@ -195,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 438846,
+      "num": 438846,
+      "word": "2年遭家暴16次女子离婚案开庭",
+      "onboard_time": 1717039099,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 433542,
       "num": 433542,
       "word": "二皇子五年后重现第一季大拇指",
@@ -227,19 +283,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 413664,
-      "num": 413664,
-      "word": "孩子为啥养臭水",
-      "onboard_time": 1717037237,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 398235,
       "num": 398235,
       "word": "伊朗坠毁直升机排除人为破坏可能性",
       "onboard_time": 1717027398,
       "rank": 8,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 394521,
+      "num": 394521,
+      "word": "支持巴勒斯坦成为联合国正式会员国",
+      "onboard_time": 1717040057,
+      "rank": 49,
       "category": "国外时政"
     },
     {
@@ -283,6 +339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 346044,
+      "num": 346044,
+      "word": "小米空调半夜掉了险些砸中2岁女儿",
+      "onboard_time": 1717042640,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340320,
       "num": 340320,
       "word": "周杰伦特别嘉宾王俊凯",
@@ -307,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 316863,
+      "num": 316863,
+      "word": "希尔顿回应",
+      "onboard_time": 1717042159,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304674,
       "num": 118132,
       "word": "小米高管抽奖抽中爱国网友",
@@ -329,6 +401,14 @@
       "onboard_time": 1716998958,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268226,
+      "num": 268226,
+      "word": "全职高手第三季开播",
+      "onboard_time": 1717042580,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 258634,
@@ -379,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232329,
+      "num": 232329,
+      "word": "女子把爷爷民国时期结婚证打手镯",
+      "onboard_time": 1717042458,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228925,
       "num": 228925,
       "word": "东方月初以血吻封缄涂山红红",
@@ -393,14 +481,6 @@
       "onboard_time": 1716991398,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 218499,
-      "num": 218499,
-      "word": "2年遭家暴16次女子离婚案开庭",
-      "onboard_time": 1717039099,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 217070,
@@ -432,6 +512,30 @@
       "word": "苗苗选择跟郑恺在一起的原因",
       "onboard_time": 1716978019,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209781,
+      "num": 209781,
+      "word": "这一届大学生竟然已经这么牛了",
+      "onboard_time": 1717040297,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 209023,
+      "num": 209023,
+      "word": "范闲手术出现幻觉",
+      "onboard_time": 1717041977,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206083,
+      "num": 206083,
+      "word": "乘风直播赛歌单",
+      "onboard_time": 1717042580,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -489,6 +593,14 @@
       "onboard_time": 1716997757,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189298,
+      "num": 189298,
+      "word": "快乐老友记2电子榨菜回来了",
+      "onboard_time": 1717042219,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 187889,
@@ -627,6 +739,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 156939,
+      "num": 156939,
+      "word": "庆帝PUA范闲",
+      "onboard_time": 1717040957,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153901,
+      "num": 153901,
+      "word": "婚后发现丈夫没工作起诉离婚获支持",
+      "onboard_time": 1717042640,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152710,
       "num": 152710,
       "word": "王俊凯唱完蔡依林唱周杰伦",
@@ -641,6 +769,22 @@
       "onboard_time": 1717034957,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 151068,
+      "num": 151068,
+      "word": "原来经口呼吸真的会变丑",
+      "onboard_time": 1717040238,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 150452,
+      "num": 150452,
+      "word": "苗条的妈妈和她健硕的好大儿",
+      "onboard_time": 1717042580,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 149657,
@@ -683,12 +827,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142586,
+      "num": 142586,
+      "word": "杭州位列2024新一线第2",
+      "onboard_time": 1717041078,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142501,
       "num": 114185,
       "word": "突然发现气味真的是记忆锚点",
       "onboard_time": 1716995118,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140447,
+      "num": 140447,
+      "word": "谁能想到义乌今年最火的是中东菜",
+      "onboard_time": 1717043060,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 133938,
@@ -931,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101219,
-      "num": 101219,
-      "word": "支持巴勒斯坦成为联合国正式会员国",
-      "onboard_time": 1717040057,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 100106,
       "num": 100106,
       "word": "费介倒地",
@@ -1011,12 +1163,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80125,
+      "num": 545647,
+      "word": "成毅的长腿朋友",
+      "onboard_time": 1717040177,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 76827,
+      "num": 549245,
+      "word": "中国科学家的话听到泪目",
+      "onboard_time": 1717041618,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 73290,
       "num": 73290,
       "word": "张杰说Precious是为女儿写的歌",
       "onboard_time": 1716998539,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 71106,
+      "num": 348505,
+      "word": "极氪007刷新浙赛纪录",
+      "onboard_time": 1717041318,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 70571,
@@ -1041,6 +1217,14 @@
       "onboard_time": 1716992419,
       "rank": 49,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 63905,
+      "num": 282761,
+      "word": "颜宁荣获世界杰出女科学家奖",
+      "onboard_time": 1717041738,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62758,
@@ -1083,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51568,
+      "num": 1212508,
+      "word": "今天发条微博致敬科技工作者",
+      "onboard_time": 1717037537,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49900,
       "num": 49900,
       "word": "翻唱",
@@ -1095,14 +1287,6 @@
       "num": 582373,
       "word": "中国建世界最大跨度斜拉桥6月贯通",
       "onboard_time": 1716990676,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48899,
-      "num": 971747,
-      "word": "今天发条微博致敬科技工作者",
-      "onboard_time": 1717037537,
       "rank": 2,
       "category": "社会新闻"
     },
