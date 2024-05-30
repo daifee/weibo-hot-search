@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717103961897,
+  "endTime": 1717104867269,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -79332,7 +79332,7 @@
     },
     {
       "raw_hot": 62049,
-      "num": 39746,
+      "num": 39767,
       "word": "叶轻眉 纯元",
       "onboard_time": 1717095491,
       "rank": 35,
@@ -79961,6 +79961,14 @@
       "onboard_time": 1716639799,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56073,
+      "num": 36279,
+      "word": "胡歌你偷谁家小孩了",
+      "onboard_time": 1717099930,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 55871,
@@ -81867,14 +81875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37797,
-      "num": 21235,
-      "word": "胡歌你偷谁家小孩了",
-      "onboard_time": 1717099930,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 37687,
       "num": 506751,
       "word": "闺蜜生日女子花三个月手作相册礼物",
@@ -82256,6 +82256,14 @@
       "word": "成都特警遇上三角梅花墙",
       "onboard_time": 1716805039,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32834,
+      "num": 32834,
+      "word": "年轻人决定先局部退休",
+      "onboard_time": 1717099751,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -82851,14 +82859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25809,
-      "num": 25809,
-      "word": "年轻人决定先局部退休",
-      "onboard_time": 1717099751,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25773,
       "num": 27708,
       "word": "李沁拿鸡腿",
@@ -83379,6 +83379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 20881,
+      "num": 20881,
+      "word": "原来两车麦子才能卖5千多",
+      "onboard_time": 1717101491,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 20816,
       "num": 106748,
       "word": "他把家改造成山里娃的24小时书屋",
@@ -83619,20 +83627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18459,
+      "num": 18459,
+      "word": "曾舜晞回应P图",
+      "onboard_time": 1717102211,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18363,
       "num": 24091,
       "word": "直击2024电视剧导演大会",
       "onboard_time": 1716920412,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18333,
-      "num": 18333,
-      "word": "原来两车麦子才能卖5千多",
-      "onboard_time": 1717101491,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 18126,
@@ -83697,14 +83705,6 @@
       "onboard_time": 1715092881,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 17157,
-      "num": 17814,
-      "word": "曾舜晞回应P图",
-      "onboard_time": 1717102211,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 16988,
@@ -83825,6 +83825,14 @@
       "onboard_time": 1715667739,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15339,
+      "num": 21220,
+      "word": "陪伴童年的经典动画片",
+      "onboard_time": 1717097831,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 15338,
@@ -83953,14 +83961,6 @@
       "onboard_time": 1714761372,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13560,
-      "num": 21220,
-      "word": "陪伴童年的经典动画片",
-      "onboard_time": 1717097831,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 13506,
