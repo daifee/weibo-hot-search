@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717047258928,
+  "endTime": 1717050331802,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -480,6 +480,14 @@
       "word": "叙利亚第一夫人确诊白血病后首发声",
       "onboard_time": 1716693257,
       "rank": 39,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1244128,
+      "num": 1244128,
+      "word": "韩国宣布将在2045年前登陆火星",
+      "onboard_time": 1717044979,
+      "rank": 11,
       "category": "国外时政"
     },
     {
@@ -1043,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844587,
+      "num": 844587,
+      "word": "霸王茶姬回应喝万里木兰睡不着",
+      "onboard_time": 1717047918,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 842965,
       "num": 307713,
       "word": "亚当确实只参加一期节目",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1716853276,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 810948,
-      "num": 810948,
-      "word": "韩国宣布将在2045年前登陆火星",
-      "onboard_time": 1717044979,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 807768,
@@ -1475,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714571,
+      "num": 229638,
+      "word": "做孕检时还在踩奶的小猫",
+      "onboard_time": 1717048518,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 709431,
       "num": 681098,
       "word": "香港到处都能看华晨宇演唱会",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1716717077,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 658787,
+      "num": 658787,
+      "word": "夫妻离婚欲分割孩子26.5万压岁钱",
+      "onboard_time": 1717047859,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 655580,
@@ -2699,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477608,
+      "num": 477608,
+      "word": "部分毕业生浓烈的上岸思维该反思了",
+      "onboard_time": 1717045100,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477526,
       "num": 477526,
       "word": "肖战张婧仪骑马路透",
@@ -3027,6 +3059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 434323,
+      "num": 332930,
+      "word": "迪丽热巴或将出EP",
+      "onboard_time": 1717049537,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 433542,
       "num": 433542,
       "word": "二皇子五年后重现第一季大拇指",
@@ -3201,6 +3241,14 @@
       "onboard_time": 1716989359,
       "rank": 34,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 417401,
+      "num": 417401,
+      "word": "戚薇 如果爱忘了",
+      "onboard_time": 1717048579,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 412039,
@@ -3499,6 +3547,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 383760,
+      "num": 383760,
+      "word": "那英将在歌手尝试国风",
+      "onboard_time": 1717046299,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382391,
       "num": 382391,
       "word": "中国统一的大势不可逆转",
@@ -3633,14 +3689,6 @@
       "onboard_time": 1716710838,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371068,
-      "num": 371068,
-      "word": "那英将在歌手尝试国风",
-      "onboard_time": 1717046299,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 370735,
@@ -4451,6 +4499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293001,
+      "num": 293001,
+      "word": "婚后发现丈夫没工作起诉离婚获支持",
+      "onboard_time": 1717042640,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292749,
       "num": 292749,
       "word": "凡希亚 李蠕蠕",
@@ -4745,14 +4801,6 @@
       "onboard_time": 1717042580,
       "rank": 25,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 267880,
-      "num": 267880,
-      "word": "婚后发现丈夫没工作起诉离婚获支持",
-      "onboard_time": 1717042640,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266623,
@@ -5515,6 +5563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229174,
+      "num": 229174,
+      "word": "周杰伦林俊杰张杰六一都开演唱会",
+      "onboard_time": 1717048637,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229011,
       "num": 229011,
       "word": "杰伦布朗东决MVP",
@@ -5585,14 +5641,6 @@
       "onboard_time": 1716800298,
       "rank": 27,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 226540,
-      "num": 226540,
-      "word": "部分毕业生浓烈的上岸思维该反思了",
-      "onboard_time": 1717045100,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225861,
@@ -5737,6 +5785,14 @@
       "onboard_time": 1716982038,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 221827,
+      "num": 221827,
+      "word": "晚餐或睡前尽量不吃粽子",
+      "onboard_time": 1717047557,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 221595,
@@ -6339,6 +6395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 203719,
+      "num": 203719,
+      "word": "婚检只告知男方不告知女方吗",
+      "onboard_time": 1717048157,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203545,
       "num": 203545,
       "word": "Ning谈xiye加入TES",
@@ -6921,6 +6985,14 @@
       "onboard_time": 1716956900,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191008,
+      "num": 191008,
+      "word": "庆余年2今晚开通超点",
+      "onboard_time": 1717048878,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 190801,
@@ -8851,6 +8923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148302,
+      "num": 127968,
+      "word": "张若昀拿到叶轻眉遗物",
+      "onboard_time": 1717050198,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147855,
       "num": 147855,
       "word": "雷佳音头比章子怡大两倍",
@@ -9025,6 +9105,14 @@
       "onboard_time": 1716941478,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143875,
+      "num": 143875,
+      "word": "炎亚纶方回应判决结果",
+      "onboard_time": 1717047019,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 143496,
@@ -9371,14 +9459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138138,
-      "num": 138138,
-      "word": "炎亚纶方回应判决结果",
-      "onboard_time": 1717047019,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137915,
       "num": 137915,
       "word": "严浩翔教黄景瑜跳舞",
@@ -9497,6 +9577,14 @@
       "onboard_time": 1716777437,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135518,
+      "num": 135518,
+      "word": "恋爱脑的十个迹象",
+      "onboard_time": 1717048637,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 135514,
@@ -10419,6 +10507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121411,
+      "num": 121411,
+      "word": "红十字会回应直升机送烤全羊视频",
+      "onboard_time": 1717050079,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121158,
       "num": 121158,
       "word": "华天崎抓拍的杨幂",
@@ -10755,6 +10851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115093,
+      "num": 115093,
+      "word": "成都为什么连续10年登新一线榜首",
+      "onboard_time": 1717047800,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114959,
       "num": 415432,
       "word": "青岛巧克力大爷人均几块腹肌",
@@ -10825,6 +10929,14 @@
       "onboard_time": 1716714378,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 112589,
+      "num": 112589,
+      "word": "西瓜冰一下会更甜",
+      "onboard_time": 1717049897,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 112578,
@@ -11283,6 +11395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101488,
+      "num": 101488,
+      "word": "为何大多数人吃虾不吃虫",
+      "onboard_time": 1717050318,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 101124,
       "num": 101124,
       "word": "2024KPL夏季转会期",
@@ -11691,6 +11811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82943,
+      "num": 476997,
+      "word": "花3万给孩子治近视5个月涨了70度",
+      "onboard_time": 1717048818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82097,
       "num": 82097,
       "word": "白羊座的做事逻辑",
@@ -11929,6 +12057,14 @@
       "onboard_time": 1716901219,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70443,
+      "num": 128294,
+      "word": "明天就是京东618",
+      "onboard_time": 1717049118,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 70303,
@@ -12913,6 +13049,14 @@
       "onboard_time": 1716841990,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 18406,
+      "num": 187308,
+      "word": "NISSAN智驾好物",
+      "onboard_time": 1717048939,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 18363,
