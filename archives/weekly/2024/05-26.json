@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717031939939,
+  "endTime": 1717033147329,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -1531,6 +1531,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 645093,
+      "num": 199995,
+      "word": "张若昀曾帮毛晓彤解围",
+      "onboard_time": 1717028658,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644444,
       "num": 273252,
       "word": "33岁生完二胎我才真正清醒了",
@@ -1664,14 +1672,6 @@
       "word": "知情人士曝贺军翔涉性侵内幕",
       "onboard_time": 1716704838,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 611914,
-      "num": 199995,
-      "word": "张若昀曾帮毛晓彤解围",
-      "onboard_time": 1717028658,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -2755,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441508,
+      "num": 441508,
+      "word": "清北毕业爸爸辅导孩子数学也抓狂",
+      "onboard_time": 1717030759,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440605,
       "num": 440605,
       "word": "英伟达市值一夜暴增1.35万亿",
@@ -2923,6 +2931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421137,
+      "num": 421137,
+      "word": "为了上岸要报考偏远地区公务员吗",
+      "onboard_time": 1717029498,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 421134,
       "num": 421134,
       "word": "iPad或改变logo方向",
@@ -2955,20 +2971,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418580,
+      "num": 380888,
+      "word": "被隐形家务震惊到了",
+      "onboard_time": 1717029558,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 418034,
       "num": 418034,
       "word": "iPhone价格持续下降销量反弹",
       "onboard_time": 1716989359,
       "rank": 34,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 415605,
-      "num": 333053,
-      "word": "被隐形家务震惊到了",
-      "onboard_time": 1717029558,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 412039,
@@ -3771,6 +3787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 328507,
+      "num": 328507,
+      "word": "二皇子五年后重现第一季大拇指",
+      "onboard_time": 1717032437,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327390,
       "num": 327390,
       "word": "金晨鼻子",
@@ -3937,6 +3961,14 @@
       "onboard_time": 1716848412,
       "rank": 22,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 311947,
+      "num": 182562,
+      "word": "小孩哥 生自己的妈自己养",
+      "onboard_time": 1717031837,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 310579,
@@ -4385,14 +4417,6 @@
       "onboard_time": 1716851595,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 274413,
-      "num": 199128,
-      "word": "清北毕业爸爸辅导孩子数学也抓狂",
-      "onboard_time": 1717030759,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273992,
@@ -5267,14 +5291,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 226128,
-      "num": 226128,
-      "word": "为了上岸要报考偏远地区公务员吗",
-      "onboard_time": 1717029498,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 225861,
       "num": 225861,
       "word": "孙杨状态",
@@ -5361,6 +5377,14 @@
       "onboard_time": 1716644541,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223282,
+      "num": 381508,
+      "word": "巴西永久撤回驻以大使梅耶尔",
+      "onboard_time": 1716991398,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 223250,
@@ -5505,14 +5529,6 @@
       "onboard_time": 1716973098,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218123,
-      "num": 166854,
-      "word": "小孩哥 生自己的妈自己养",
-      "onboard_time": 1717031837,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 218039,
@@ -6708,7 +6724,7 @@
     },
     {
       "raw_hot": 187889,
-      "num": 280889,
+      "num": 380899,
       "word": "徐梦桃谈身边的运动员宝妈很辛苦",
       "onboard_time": 1717031417,
       "rank": 13,
@@ -7067,6 +7083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179193,
+      "num": 155307,
+      "word": "中国消费者诉苹果反垄断案一审宣判",
+      "onboard_time": 1717032617,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 179073,
       "num": 179073,
       "word": "英雄志预告",
@@ -7352,6 +7376,14 @@
       "word": "这不就是孙楠",
       "onboard_time": 1716698238,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171528,
+      "num": 171528,
+      "word": "补位受害者",
+      "onboard_time": 1717032316,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -8409,6 +8441,14 @@
       "onboard_time": 1716895338,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145638,
+      "num": 163711,
+      "word": "他们是中国科学家",
+      "onboard_time": 1717028418,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145344,
@@ -9699,6 +9739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122697,
+      "num": 122697,
+      "word": "明星基金经理集体跌下神坛",
+      "onboard_time": 1717031957,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122613,
       "num": 122613,
       "word": "那英 猫的人塑",
@@ -10443,6 +10491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107841,
+      "num": 107841,
+      "word": "东方月初以血吻封缄涂山红红",
+      "onboard_time": 1717032916,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106922,
       "num": 106922,
       "word": "手机一定要清理的四大文件",
@@ -10913,14 +10969,6 @@
       "onboard_time": 1716979218,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 87996,
-      "num": 163711,
-      "word": "他们是中国科学家",
-      "onboard_time": 1717028418,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87398,
