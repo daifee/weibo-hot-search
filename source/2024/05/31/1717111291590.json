@@ -1,0 +1,410 @@
+{
+  "runTime": 1717111291590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 818680,
+        "num": 818680,
+        "word": "台湾高中生问中国史是什么",
+        "onboard_time": 1717077740,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 503068,
+        "num": 503068,
+        "word": "王倦 第三季不会等这么久",
+        "onboard_time": 1717084158,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23876,
+        "num": 500001,
+        "word": "中阿合作20载硕果累累",
+        "onboard_time": 1717075459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499365,
+        "num": 499365,
+        "word": "五竹 婉儿",
+        "onboard_time": 1717078821,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307108,
+        "num": 307108,
+        "word": "甘肃省博物馆发声明",
+        "onboard_time": 1717083258,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227046,
+        "num": 227046,
+        "word": "海底捞玩具大人不能随便拿了",
+        "onboard_time": 1717058659,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 469594,
+        "num": 224580,
+        "word": "白玉兰提名没有王一博",
+        "onboard_time": 1717075459,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349199,
+        "num": 222315,
+        "word": "庆余年真有徐志胜",
+        "onboard_time": 1717083678,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208357,
+        "num": 208357,
+        "word": "韩国宣布将在2045年前登陆火星",
+        "onboard_time": 1717044979,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33319,
+        "num": 205778,
+        "word": "大学室友结婚我跟妆跟拍",
+        "onboard_time": 1717110795,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316455,
+        "num": 196457,
+        "word": "二皇子暴露本体了",
+        "onboard_time": 1717110615,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303233,
+        "num": 188241,
+        "word": "胡歌你偷谁家小孩了",
+        "onboard_time": 1717099930,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270082,
+        "num": 181877,
+        "word": "叶轻眉 纯元",
+        "onboard_time": 1717095491,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256725,
+        "num": 178290,
+        "word": "疯产姐妹回应停更原因",
+        "onboard_time": 1717066517,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174815,
+        "num": 174815,
+        "word": "普通人买白银后发现无人回收",
+        "onboard_time": 1717109054,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136591,
+        "num": 136591,
+        "word": "佩洛西近半年靠英伟达赚2900万",
+        "onboard_time": 1717110554,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125053,
+        "num": 125053,
+        "word": "年轻人决定先局部退休",
+        "onboard_time": 1717099751,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120487,
+        "num": 120487,
+        "word": "六月财色双收的星座",
+        "onboard_time": 1717110674,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109247,
+        "num": 109247,
+        "word": "台独课本洗脑青少年",
+        "onboard_time": 1717077740,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108216,
+        "num": 108216,
+        "word": "五月最后一天",
+        "onboard_time": 1717110976,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234663,
+        "num": 108039,
+        "word": "王阳获白玉兰最佳男主角提名",
+        "onboard_time": 1717070118,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213258,
+        "num": 107986,
+        "word": "庆余年大结局",
+        "onboard_time": 1717069517,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213051,
+        "num": 107971,
+        "word": "孙楠 双眼皮",
+        "onboard_time": 1717080200,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107684,
+        "num": 107684,
+        "word": "特斯拉刹车事件女车主被判道歉",
+        "onboard_time": 1717067599,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204395,
+        "num": 104550,
+        "word": "白玉兰",
+        "onboard_time": 1717110914,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132439,
+        "num": 101460,
+        "word": "晚上喊弟弟爬山被删了",
+        "onboard_time": 1717110674,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132022,
+        "num": 98602,
+        "word": "杨紫入围白玉兰视后",
+        "onboard_time": 1717069337,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126591,
+        "num": 93475,
+        "word": "睡前4小时最好别吃东西",
+        "onboard_time": 1717110554,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91795,
+        "num": 91795,
+        "word": "追风者 男主",
+        "onboard_time": 1717070778,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90281,
+        "num": 90281,
+        "word": "叶轻眉除了活着什么都会",
+        "onboard_time": 1717106771,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89443,
+        "num": 89443,
+        "word": "一公司招董秘被曝需解决老板生理需求",
+        "onboard_time": 1717062206,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86152,
+        "num": 86152,
+        "word": "白玉兰入围名单",
+        "onboard_time": 1717069096,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82468,
+        "num": 82468,
+        "word": "庆余年3",
+        "onboard_time": 1717071859,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82223,
+        "num": 82223,
+        "word": "法网 下雨了",
+        "onboard_time": 1717080259,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81170,
+        "num": 81170,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1717110674,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 81093,
+        "num": 81093,
+        "word": "李宇春黑丝绒晚礼服",
+        "onboard_time": 1717073477,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 78338,
+        "num": 78338,
+        "word": "古偶 上桌",
+        "onboard_time": 1717079659,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66744,
+        "num": 66744,
+        "word": "原来老外才是中国旅游的最强嘴替",
+        "onboard_time": 1717074319,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 64206,
+        "num": 64206,
+        "word": "台风",
+        "onboard_time": 1717078279,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63116,
+        "num": 63116,
+        "word": "张杰话筒的颜色代表女儿的性格",
+        "onboard_time": 1717110674,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61619,
+        "num": 61619,
+        "word": "坐飞机头等舱的人都是什么职业",
+        "onboard_time": 1717069939,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61366,
+        "num": 61366,
+        "word": "原来两车麦子才能卖5千多",
+        "onboard_time": 1717101491,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58939,
+        "num": 58939,
+        "word": "佟梦实回复张若昀",
+        "onboard_time": 1717082838,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56731,
+        "num": 56731,
+        "word": "狐妖导演回应杨幂龚俊cp感",
+        "onboard_time": 1717094951,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55845,
+        "num": 55845,
+        "word": "过了时效的事情怎么发朋友圈",
+        "onboard_time": 1717110554,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54094,
+        "num": 54094,
+        "word": "黑袋装卫生巾已经成为过去了",
+        "onboard_time": 1717079778,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53418,
+        "num": 53418,
+        "word": "白玉兰视帝提名",
+        "onboard_time": 1717069819,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45663,
+        "num": 45663,
+        "word": "法网",
+        "onboard_time": 1717079238,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55992,
+        "num": 43985,
+        "word": "杨幂问今天大家怎么怪怪的",
+        "onboard_time": 1717072699,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41935,
+        "num": 41935,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1717067058,
+        "rank": 49,
+        "category": "时尚,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中阿命运共同体建设跑出加速度#"
+    }
+  }
+}

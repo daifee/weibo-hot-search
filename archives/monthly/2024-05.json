@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717108469444,
+  "endTime": 1717111291590,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3092,7 +3092,7 @@
     },
     {
       "raw_hot": 1441873,
-      "num": 485236,
+      "num": 499365,
       "word": "五竹 婉儿",
       "onboard_time": 1717078821,
       "rank": 7,
@@ -13316,7 +13316,7 @@
     },
     {
       "raw_hot": 627430,
-      "num": 171418,
+      "num": 222315,
       "word": "庆余年真有徐志胜",
       "onboard_time": 1717083678,
       "rank": 10,
@@ -28628,7 +28628,7 @@
     },
     {
       "raw_hot": 324358,
-      "num": 179900,
+      "num": 307108,
       "word": "甘肃省博物馆发声明",
       "onboard_time": 1717083258,
       "rank": 49,
@@ -29273,6 +29273,14 @@
       "onboard_time": 1714983379,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316455,
+      "num": 196457,
+      "word": "二皇子暴露本体了",
+      "onboard_time": 1717110615,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 316442,
@@ -30321,6 +30329,14 @@
       "onboard_time": 1715784920,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303233,
+      "num": 188241,
+      "word": "胡歌你偷谁家小孩了",
+      "onboard_time": 1717099930,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 303221,
@@ -33448,6 +33464,14 @@
       "word": "安利李娟",
       "onboard_time": 1715522242,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 270082,
+      "num": 181877,
+      "word": "叶轻眉 纯元",
+      "onboard_time": 1717095491,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -53347,6 +53371,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 174815,
+      "num": 174815,
+      "word": "普通人买白银后发现无人回收",
+      "onboard_time": 1717109054,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 174777,
       "num": 174777,
       "word": "杨幂敦煌风妆造",
@@ -65107,14 +65139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136864,
-      "num": 91520,
-      "word": "胡歌你偷谁家小孩了",
-      "onboard_time": 1717099930,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 136851,
       "num": 136851,
       "word": "加满一箱油将省9元",
@@ -65153,6 +65177,14 @@
       "onboard_time": 1716572353,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136591,
+      "num": 136591,
+      "word": "佩洛西近半年靠英伟达赚2900万",
+      "onboard_time": 1717110554,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 136563,
@@ -65809,14 +65841,6 @@
       "onboard_time": 1715935941,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134781,
-      "num": 86519,
-      "word": "叶轻眉 纯元",
-      "onboard_time": 1717095491,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 134765,
@@ -66705,6 +66729,14 @@
       "onboard_time": 1716976818,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 132439,
+      "num": 101460,
+      "word": "晚上喊弟弟爬山被删了",
+      "onboard_time": 1717110674,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 132436,
@@ -68563,6 +68595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126591,
+      "num": 93475,
+      "word": "睡前4小时最好别吃东西",
+      "onboard_time": 1717110554,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126580,
       "num": 161005,
       "word": "犯困可能是缺铁了",
@@ -69081,6 +69121,14 @@
       "onboard_time": 1715333539,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125053,
+      "num": 125053,
+      "word": "年轻人决定先局部退休",
+      "onboard_time": 1717099751,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125041,
@@ -70417,6 +70465,14 @@
       "onboard_time": 1715936238,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120487,
+      "num": 120487,
+      "word": "六月财色双收的星座",
+      "onboard_time": 1717110674,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 120433,
@@ -73803,6 +73859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108216,
+      "num": 108216,
+      "word": "五月最后一天",
+      "onboard_time": 1717110976,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108180,
       "num": 108180,
       "word": "什么叫滥用抗生素",
@@ -76619,6 +76683,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 90281,
+      "num": 90281,
+      "word": "叶轻眉除了活着什么都会",
+      "onboard_time": 1717106771,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90225,
       "num": 1253131,
       "word": "文化中国行看博物馆之宝",
@@ -79243,6 +79315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63116,
+      "num": 63116,
+      "word": "张杰话筒的颜色代表女儿的性格",
+      "onboard_time": 1717110674,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 63110,
       "num": 79888,
       "word": "汤姆斯杯中国3比2韩国",
@@ -79441,6 +79521,14 @@
       "onboard_time": 1716334156,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61366,
+      "num": 61366,
+      "word": "原来两车麦子才能卖5千多",
+      "onboard_time": 1717101491,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 61150,
@@ -79875,6 +79963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56731,
+      "num": 56731,
+      "word": "狐妖导演回应杨幂龚俊cp感",
+      "onboard_time": 1717094951,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56605,
       "num": 202197,
       "word": "迪丽热巴的AI搭子",
@@ -79971,20 +80067,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 56005,
-      "num": 52996,
-      "word": "叶轻眉除了活着什么都会",
-      "onboard_time": 1717106771,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55871,
       "num": 253597,
       "word": "艾铁成称乐道L60订单量远超预期",
       "onboard_time": 1715847557,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 55845,
+      "num": 55845,
+      "word": "过了时效的事情怎么发朋友圈",
+      "onboard_time": 1717110554,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 55806,
@@ -80280,14 +80376,6 @@
       "word": "珠海天气",
       "onboard_time": 1714519273,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53929,
-      "num": 53929,
-      "word": "年轻人决定先局部退休",
-      "onboard_time": 1717099751,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -80801,14 +80889,6 @@
       "onboard_time": 1716636079,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48897,
-      "num": 52824,
-      "word": "原来两车麦子才能卖5千多",
-      "onboard_time": 1717101491,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 48588,
@@ -82147,14 +82227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34763,
-      "num": 52485,
-      "word": "狐妖导演回应杨幂龚俊cp感",
-      "onboard_time": 1717094951,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 34737,
       "num": 34737,
       "word": "突然发现消费习惯正在悄悄改变",
@@ -82249,6 +82321,14 @@
       "onboard_time": 1717096992,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 33319,
+      "num": 205778,
+      "word": "大学室友结婚我跟妆跟拍",
+      "onboard_time": 1717110795,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33266,
@@ -83097,6 +83177,14 @@
       "onboard_time": 1715660121,
       "rank": 49,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 23876,
+      "num": 500001,
+      "word": "中阿合作20载硕果累累",
+      "onboard_time": 1717075459,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23778,
@@ -83977,14 +84065,6 @@
       "onboard_time": 1715719031,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13471,
-      "num": 425870,
-      "word": "中阿合作20载硕果累累",
-      "onboard_time": 1717075459,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13466,
