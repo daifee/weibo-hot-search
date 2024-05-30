@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717094329811,
+  "endTime": 1717096626189,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -82611,6 +82611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28869,
+      "num": 28869,
+      "word": "狐妖导演回应杨幂龚俊cp感",
+      "onboard_time": 1717094951,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28793,
       "num": 159864,
       "word": "鸣潮比女娲会捏",
@@ -82625,6 +82633,14 @@
       "onboard_time": 1715843778,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28553,
+      "num": 28553,
+      "word": "叶轻眉 纯元",
+      "onboard_time": 1717095491,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 28497,
@@ -83227,6 +83243,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 22080,
+      "num": 36697,
+      "word": "光头自己画头发",
+      "onboard_time": 1717092552,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 21973,
       "num": 117984,
       "word": "护肤品真的存在平替吗",
@@ -83611,14 +83635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17968,
-      "num": 36697,
-      "word": "光头自己画头发",
-      "onboard_time": 1717092552,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 17862,
       "num": 17862,
       "word": "在大学当高中生",
@@ -83889,6 +83905,14 @@
       "onboard_time": 1714761372,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13613,
+      "num": 24234,
+      "word": "大国重器命名里的中国浪漫",
+      "onboard_time": 1717096212,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13506,

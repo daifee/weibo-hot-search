@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717094329811,
+  "endTime": 1717096626189,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -14459,6 +14459,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28869,
+      "num": 28869,
+      "word": "狐妖导演回应杨幂龚俊cp感",
+      "onboard_time": 1717094951,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28553,
+      "num": 28553,
+      "word": "叶轻眉 纯元",
+      "onboard_time": 1717095491,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28474,
       "num": 506483,
       "word": "温州人把龙舟划出高铁的气势",
@@ -14603,6 +14619,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 22080,
+      "num": 36697,
+      "word": "光头自己画头发",
+      "onboard_time": 1717092552,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 21973,
       "num": 117984,
       "word": "护肤品真的存在平替吗",
@@ -14699,14 +14723,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 17968,
-      "num": 36697,
-      "word": "光头自己画头发",
-      "onboard_time": 1717092552,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 16636,
       "num": 16636,
       "word": "这孩子将来得是国际锯星",
@@ -14753,6 +14769,14 @@
       "onboard_time": 1716844330,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 13613,
+      "num": 24234,
+      "word": "大国重器命名里的中国浪漫",
+      "onboard_time": 1717096212,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13435,
