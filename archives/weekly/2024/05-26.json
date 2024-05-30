@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717111291590,
+  "endTime": 1717112151070,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1441873,
-      "num": 499365,
+      "num": 590076,
       "word": "五竹 婉儿",
       "onboard_time": 1717078821,
       "rank": 7,
@@ -2288,6 +2288,14 @@
       "word": "范闲洪竹",
       "onboard_time": 1716648620,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 576132,
+      "num": 209009,
+      "word": "二皇子暴露本体了",
+      "onboard_time": 1717110615,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -4715,6 +4723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 318562,
+      "num": 203859,
+      "word": "胡歌你偷谁家小孩了",
+      "onboard_time": 1717099930,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 318249,
       "num": 318249,
       "word": "亚当圈粉",
@@ -4737,14 +4753,6 @@
       "onboard_time": 1717066697,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316455,
-      "num": 196457,
-      "word": "二皇子暴露本体了",
-      "onboard_time": 1717110615,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 315800,
@@ -4859,6 +4867,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 306825,
+      "num": 200712,
+      "word": "叶轻眉 纯元",
+      "onboard_time": 1717095491,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306578,
       "num": 269448,
       "word": "花少节目组",
@@ -4921,14 +4937,6 @@
       "onboard_time": 1716777078,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 303233,
-      "num": 188241,
-      "word": "胡歌你偷谁家小孩了",
-      "onboard_time": 1717099930,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 303189,
@@ -5001,6 +5009,14 @@
       "onboard_time": 1716960079,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 297320,
+      "num": 297320,
+      "word": "普通人买白银后发现无人回收",
+      "onboard_time": 1717109054,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 297101,
@@ -5097,6 +5113,14 @@
       "onboard_time": 1716646700,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291254,
+      "num": 198265,
+      "word": "佩洛西近半年靠英伟达赚2900万",
+      "onboard_time": 1717110554,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 291163,
@@ -5347,6 +5371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 273207,
+      "num": 124061,
+      "word": "睡前4小时最好别吃东西",
+      "onboard_time": 1717110554,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 271169,
       "num": 150642,
       "word": "绍兴课上开黄腔教师被警告处分",
@@ -5368,14 +5400,6 @@
       "word": "刘端端演出了李承泽的灵魂",
       "onboard_time": 1716998958,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 270082,
-      "num": 181877,
-      "word": "叶轻眉 纯元",
-      "onboard_time": 1717095491,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -8403,6 +8427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183457,
+      "num": 183457,
+      "word": "五月最后一天",
+      "onboard_time": 1717110976,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183442,
       "num": 183442,
       "word": "章子怡说十年前的自己好青涩",
@@ -8769,14 +8801,6 @@
       "onboard_time": 1716697997,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174815,
-      "num": 174815,
-      "word": "普通人买白银后发现无人回收",
-      "onboard_time": 1717109054,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 174777,
@@ -9187,6 +9211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167048,
+      "num": 121757,
+      "word": "晚上喊弟弟爬山被删了",
+      "onboard_time": 1717110674,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167041,
       "num": 167041,
       "word": "庆余年考试挤破头",
@@ -9297,6 +9329,14 @@
       "onboard_time": 1716732380,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164990,
+      "num": 164990,
+      "word": "六月财色双收的星座",
+      "onboard_time": 1717110674,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 164876,
@@ -10083,6 +10123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149200,
+      "num": 149200,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1717110674,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 148773,
       "num": 148773,
       "word": "小学生朱同正在失去童年",
@@ -10755,14 +10803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136591,
-      "num": 136591,
-      "word": "佩洛西近半年靠英伟达赚2900万",
-      "onboard_time": 1717110554,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 136320,
       "num": 136320,
       "word": "巴黎爆发万人示威抗议拉法惨案",
@@ -11121,14 +11161,6 @@
       "onboard_time": 1716976818,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 132439,
-      "num": 101460,
-      "word": "晚上喊弟弟爬山被删了",
-      "onboard_time": 1717110674,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 132347,
@@ -11523,14 +11555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126591,
-      "num": 93475,
-      "word": "睡前4小时最好别吃东西",
-      "onboard_time": 1717110554,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 126548,
       "num": 126548,
       "word": "imp好狂",
@@ -11915,6 +11939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121368,
+      "num": 121368,
+      "word": "杨幂回复温峥嵘",
+      "onboard_time": 1717111515,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121158,
       "num": 121158,
       "word": "华天崎抓拍的杨幂",
@@ -11937,14 +11969,6 @@
       "onboard_time": 1716705019,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120487,
-      "num": 120487,
-      "word": "六月财色双收的星座",
-      "onboard_time": 1717110674,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 120415,
@@ -12627,14 +12651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108216,
-      "num": 108216,
-      "word": "五月最后一天",
-      "onboard_time": 1717110976,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 108129,
       "num": 108129,
       "word": "xiye回应加入TES",
@@ -12913,6 +12929,14 @@
       "onboard_time": 1716889818,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101021,
+      "num": 101021,
+      "word": "叶轻眉除了活着什么都会",
+      "onboard_time": 1717106771,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 100495,
@@ -13243,14 +13267,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 90281,
-      "num": 90281,
-      "word": "叶轻眉除了活着什么都会",
-      "onboard_time": 1717106771,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89941,
       "num": 89941,
       "word": "李小冉花期好长",
@@ -13347,6 +13363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84114,
+      "num": 84114,
+      "word": "张杰话筒的颜色代表女儿的性格",
+      "onboard_time": 1717110674,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 83782,
       "num": 83782,
       "word": "imp回应战胜LWX",
@@ -13393,14 +13417,6 @@
       "onboard_time": 1716853215,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81170,
-      "num": 81170,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1717110674,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 81125,
@@ -13531,6 +13547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 74959,
+      "num": 74959,
+      "word": "过了时效的事情怎么发朋友圈",
+      "onboard_time": 1717110554,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74772,
       "num": 302221,
       "word": "山东小城隐藏土特产是法国鹅肝",
@@ -13619,6 +13643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71527,
+      "num": 68952,
+      "word": "狐妖导演回应杨幂龚俊cp感",
+      "onboard_time": 1717094951,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71416,
       "num": 897537,
       "word": "换一种方式打开北京的盛夏",
@@ -13697,6 +13729,14 @@
       "onboard_time": 1716992479,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 69024,
+      "num": 69024,
+      "word": "原来两车麦子才能卖5千多",
+      "onboard_time": 1717101491,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 67446,
@@ -13779,14 +13819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63116,
-      "num": 63116,
-      "word": "张杰话筒的颜色代表女儿的性格",
-      "onboard_time": 1717110674,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 63019,
       "num": 63019,
       "word": "Letme看姿态被打哭",
@@ -13817,14 +13849,6 @@
       "onboard_time": 1716766095,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61366,
-      "num": 61366,
-      "word": "原来两车麦子才能卖5千多",
-      "onboard_time": 1717101491,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 60920,
@@ -13915,6 +13939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 58093,
+      "num": 58093,
+      "word": "小狐狸自己偷偷练习捕猎",
+      "onboard_time": 1717111695,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 57319,
       "num": 288665,
       "word": "先来京东领20元",
@@ -13923,28 +13955,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 56731,
-      "num": 56731,
-      "word": "狐妖导演回应杨幂龚俊cp感",
-      "onboard_time": 1717094951,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 56179,
       "num": 165330,
       "word": "云南野生菌安全提示短信变吃菌通知",
       "onboard_time": 1716863478,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55845,
-      "num": 55845,
-      "word": "过了时效的事情怎么发朋友圈",
-      "onboard_time": 1717110554,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 55790,
@@ -13961,6 +13977,14 @@
       "onboard_time": 1716765975,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 55448,
+      "num": 55448,
+      "word": "白头发真的该拔吗",
+      "onboard_time": 1717111936,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 54947,
@@ -14363,6 +14387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40185,
+      "num": 213718,
+      "word": "大学室友结婚我跟妆跟拍",
+      "onboard_time": 1717110795,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40176,
       "num": 471238,
       "word": "数据展现中欧班列助力经贸蓬勃发展",
@@ -14491,14 +14523,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 33319,
-      "num": 205778,
-      "word": "大学室友结婚我跟妆跟拍",
-      "onboard_time": 1717110795,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33181,
       "num": 273039,
       "word": "成都特警夏训一起走花路",
@@ -14601,6 +14625,14 @@
       "onboard_time": 1716670750,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29327,
+      "num": 551801,
+      "word": "中阿合作20载硕果累累",
+      "onboard_time": 1717075459,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28474,
@@ -14737,14 +14769,6 @@
       "onboard_time": 1716977718,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23876,
-      "num": 500001,
-      "word": "中阿合作20载硕果累累",
-      "onboard_time": 1717075459,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23295,
