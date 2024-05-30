@@ -1,0 +1,410 @@
+{
+  "runTime": 1717079688671,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2000860,
+        "num": 2000860,
+        "word": "庆余年大结局",
+        "onboard_time": 1717069517,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1355617,
+        "num": 1355617,
+        "word": "台湾高中生问中国史是什么",
+        "onboard_time": 1717077740,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108869,
+        "num": 988970,
+        "word": "他们撑起了中国人的骨气",
+        "onboard_time": 1717075698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1615618,
+        "num": 988816,
+        "word": "白玉兰提名没有王一博",
+        "onboard_time": 1717075459,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 988403,
+        "num": 988403,
+        "word": "成都地铁诬陷偷拍案两女生公开发声",
+        "onboard_time": 1717074919,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502004,
+        "num": 502004,
+        "word": "海底捞玩具大人不能随便拿了",
+        "onboard_time": 1717058659,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 840907,
+        "num": 494118,
+        "word": "庆余年3",
+        "onboard_time": 1717071859,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 806359,
+        "num": 485236,
+        "word": "五竹 婉儿",
+        "onboard_time": 1717078821,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449152,
+        "num": 449152,
+        "word": "连幼儿园都搞职业化了",
+        "onboard_time": 1717066817,
+        "rank": 8,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 279591,
+        "num": 447805,
+        "word": "台独课本洗脑青少年",
+        "onboard_time": 1717077740,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 784059,
+        "num": 446274,
+        "word": "杨紫入围白玉兰视后",
+        "onboard_time": 1717069337,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 666768,
+        "num": 444424,
+        "word": "疯产姐妹回应停更原因",
+        "onboard_time": 1717066517,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 628211,
+        "num": 443410,
+        "word": "白玉兰入围名单",
+        "onboard_time": 1717069096,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520647,
+        "num": 441802,
+        "word": "范闲是我生的",
+        "onboard_time": 1717077259,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505545,
+        "num": 440790,
+        "word": "林婉儿平静的疯感",
+        "onboard_time": 1717077380,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439208,
+        "num": 439208,
+        "word": "无畏被爆不要签字费",
+        "onboard_time": 1717076479,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 374365,
+        "num": 374365,
+        "word": "台风",
+        "onboard_time": 1717078279,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303968,
+        "num": 303968,
+        "word": "我国成功发射巴基斯坦多任务通信卫星",
+        "onboard_time": 1717074979,
+        "rank": 17,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 91273,
+        "num": 264761,
+        "word": "途观LPro上市现场改价格",
+        "onboard_time": 1717077800,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 262888,
+        "num": 262888,
+        "word": "韩国宣布将在2045年前登陆火星",
+        "onboard_time": 1717044979,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 403775,
+        "num": 262423,
+        "word": "追风者 男主",
+        "onboard_time": 1717070778,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398301,
+        "num": 261552,
+        "word": "杨幂问今天大家怎么怪怪的",
+        "onboard_time": 1717072699,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303216,
+        "num": 261066,
+        "word": "辛芷蕾没入围",
+        "onboard_time": 1717076659,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28132,
+        "num": 260161,
+        "word": "今天怎么这么多明星在上海",
+        "onboard_time": 1717077918,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 207438,
+        "num": 259860,
+        "word": "原来老外才是中国旅游的最强嘴替",
+        "onboard_time": 1717074319,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 157181,
+        "num": 258663,
+        "word": "樊振东11比0李尚洙",
+        "onboard_time": 1717075039,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291835,
+        "num": 257955,
+        "word": "华晨宇认缴20万入股LGD分部",
+        "onboard_time": 1717061299,
+        "rank": 26,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 257627,
+        "num": 257627,
+        "word": "李宇春黑丝绒晚礼服",
+        "onboard_time": 1717073477,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185866,
+        "num": 244114,
+        "word": "坐飞机头等舱的人都是什么职业",
+        "onboard_time": 1717069939,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176449,
+        "num": 241355,
+        "word": "怀孕去不了团建结果要扣工资",
+        "onboard_time": 1717061238,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240812,
+        "num": 240812,
+        "word": "aespa成均馆校庆",
+        "onboard_time": 1717079119,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237450,
+        "num": 237450,
+        "word": "王阳获白玉兰最佳男主角提名",
+        "onboard_time": 1717070118,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216932,
+        "num": 216932,
+        "word": "白玉兰提名过的古偶",
+        "onboard_time": 1717079300,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213880,
+        "num": 213880,
+        "word": "圆明园临时闭园",
+        "onboard_time": 1717078219,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 176167,
+        "num": 176167,
+        "word": "一公司招董秘被曝需解决老板生理需求",
+        "onboard_time": 1717062206,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215580,
+        "num": 164158,
+        "word": "白玉兰视帝提名",
+        "onboard_time": 1717069819,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205040,
+        "num": 155889,
+        "word": "胡歌五提白玉兰",
+        "onboard_time": 1717070238,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133286,
+        "num": 133286,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1717067058,
+        "rank": 37,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 132779,
+        "num": 132779,
+        "word": "奥运冠军谌龙挥拍抽球速度堪比跑车",
+        "onboard_time": 1717072757,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125532,
+        "num": 125532,
+        "word": "炸猪排能有多厚",
+        "onboard_time": 1717078460,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199175,
+        "num": 125506,
+        "word": "张小斐 第二章复仇",
+        "onboard_time": 1717071738,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196670,
+        "num": 124807,
+        "word": "pp巴黎世家雨中走秀",
+        "onboard_time": 1717078700,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178892,
+        "num": 123659,
+        "word": "周迅感谢白玉兰提名",
+        "onboard_time": 1717078279,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175592,
+        "num": 123588,
+        "word": "范闲像在生孩子",
+        "onboard_time": 1717076778,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171114,
+        "num": 122801,
+        "word": "炎亚纶被判7个月缓刑3年",
+        "onboard_time": 1717042518,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165398,
+        "num": 121950,
+        "word": "古偶 上桌",
+        "onboard_time": 1717079659,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121695,
+        "num": 121695,
+        "word": "苟仲文涉嫌严重违纪违法",
+        "onboard_time": 1717054997,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115138,
+        "num": 121540,
+        "word": "固态电池新能源届的当红炸子鸡",
+        "onboard_time": 1717076059,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100080,
+        "num": 121196,
+        "word": "法网",
+        "onboard_time": 1717079238,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97994,
+        "num": 120881,
+        "word": "特斯拉刹车事件女车主被判道歉",
+        "onboard_time": 1717067599,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中阿命运共同体建设跑出加速度#"
+    }
+  }
+}

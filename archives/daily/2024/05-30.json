@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717078730370,
+  "endTime": 1717079688671,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1615618,
+      "num": 988816,
+      "word": "白玉兰提名没有王一博",
+      "onboard_time": 1717075459,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1566444,
       "num": 1566444,
       "word": "海底捞玩具大人不能随便拿了",
       "onboard_time": 1717058659,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1521729,
-      "num": 630504,
-      "word": "白玉兰提名没有王一博",
-      "onboard_time": 1717075459,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 1495325,
@@ -89,6 +89,14 @@
       "onboard_time": 1717040118,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1355617,
+      "num": 1355617,
+      "word": "台湾高中生问中国史是什么",
+      "onboard_time": 1717077740,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1300521,
@@ -155,6 +163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 988403,
+      "num": 988403,
+      "word": "成都地铁诬陷偷拍案两女生公开发声",
+      "onboard_time": 1717074919,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 983017,
       "num": 983017,
       "word": "王楚然回应臭脸",
@@ -219,14 +235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 881036,
-      "num": 881036,
-      "word": "成都地铁诬陷偷拍案两女生公开发声",
-      "onboard_time": 1717074919,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 865944,
       "num": 806990,
       "word": "庆余年第二季大结局点映礼",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 845290,
-      "num": 359831,
+      "num": 446274,
       "word": "杨紫入围白玉兰视后",
       "onboard_time": 1717069337,
       "rank": 10,
@@ -265,6 +273,14 @@
       "onboard_time": 1717055958,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 806359,
+      "num": 485236,
+      "word": "五竹 婉儿",
+      "onboard_time": 1717078821,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 801310,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 586908,
-      "num": 237315,
+      "num": 261552,
       "word": "杨幂问今天大家怎么怪怪的",
       "onboard_time": 1717072699,
       "rank": 20,
@@ -491,6 +507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 520647,
+      "num": 441802,
+      "word": "范闲是我生的",
+      "onboard_time": 1717077259,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 519332,
       "num": 519332,
       "word": "B太举报男子卖鬼秤又给他捐款",
@@ -545,6 +569,14 @@
       "onboard_time": 1717059738,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505545,
+      "num": 440790,
+      "word": "林婉儿平静的疯感",
+      "onboard_time": 1717077380,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 505329,
@@ -611,28 +643,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 462689,
-      "num": 319552,
-      "word": "林婉儿平静的疯感",
-      "onboard_time": 1717077380,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 450071,
       "num": 198013,
       "word": "小孩哥 生自己的妈自己养",
       "onboard_time": 1717031837,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 446334,
-      "num": 205451,
-      "word": "范闲是我生的",
-      "onboard_time": 1717077259,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 441694,
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 422304,
-      "num": 226512,
+      "num": 257627,
       "word": "李宇春黑丝绒晚礼服",
       "onboard_time": 1717073477,
       "rank": 22,
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 392759,
-      "num": 202394,
+      "num": 261066,
       "word": "辛芷蕾没入围",
       "onboard_time": 1717076659,
       "rank": 23,
@@ -867,12 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375314,
-      "num": 375314,
-      "word": "台湾高中生问中国史是什么",
-      "onboard_time": 1717077740,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 374365,
+      "num": 374365,
+      "word": "台风",
+      "onboard_time": 1717078279,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370792,
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 292244,
-      "num": 292244,
+      "num": 447805,
       "word": "台独课本洗脑青少年",
       "onboard_time": 1717077740,
       "rank": 16,
@@ -1163,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240812,
+      "num": 240812,
+      "word": "aespa成均馆校庆",
+      "onboard_time": 1717079119,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 239060,
       "num": 239060,
       "word": "缅甸地震",
@@ -1236,7 +1260,7 @@
     },
     {
       "raw_hot": 224257,
-      "num": 218668,
+      "num": 259860,
       "word": "原来老外才是中国旅游的最强嘴替",
       "onboard_time": 1717074319,
       "rank": 37,
@@ -1267,14 +1291,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 222575,
-      "num": 222575,
-      "word": "台风",
-      "onboard_time": 1717078279,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221827,
       "num": 221827,
       "word": "晚餐或睡前尽量不吃粽子",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1716969497,
       "rank": 22,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 216932,
+      "num": 216932,
+      "word": "白玉兰提名过的古偶",
+      "onboard_time": 1717079300,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 216506,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1717046658,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213880,
+      "num": 213880,
+      "word": "圆明园临时闭园",
+      "onboard_time": 1717078219,
+      "rank": 33,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 212864,
@@ -1460,7 +1492,7 @@
     },
     {
       "raw_hot": 200108,
-      "num": 211605,
+      "num": 258663,
       "word": "樊振东11比0李尚洙",
       "onboard_time": 1717075039,
       "rank": 39,
@@ -1513,6 +1545,14 @@
       "onboard_time": 1717073418,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196670,
+      "num": 162558,
+      "word": "pp巴黎世家雨中走秀",
+      "onboard_time": 1717078700,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196522,
@@ -1620,7 +1660,7 @@
     },
     {
       "raw_hot": 189282,
-      "num": 220946,
+      "num": 244114,
       "word": "坐飞机头等舱的人都是什么职业",
       "onboard_time": 1717069939,
       "rank": 34,
@@ -1867,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165398,
+      "num": 121950,
+      "word": "古偶 上桌",
+      "onboard_time": 1717079659,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164876,
       "num": 164876,
       "word": "谢娜说看张杰演唱会时会很享受",
@@ -1889,14 +1937,6 @@
       "onboard_time": 1717067536,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 162558,
-      "num": 162558,
-      "word": "pp巴黎世家雨中走秀",
-      "onboard_time": 1717078700,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161051,
@@ -2331,6 +2371,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 125532,
+      "num": 160941,
+      "word": "炸猪排能有多厚",
+      "onboard_time": 1717078460,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124907,
       "num": 124907,
       "word": "学历不代表一切",
@@ -2348,7 +2396,7 @@
     },
     {
       "raw_hot": 124173,
-      "num": 656305,
+      "num": 988970,
       "word": "他们撑起了中国人的骨气",
       "onboard_time": 1717075698,
       "rank": 2,
@@ -2435,14 +2483,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 120115,
-      "num": 160941,
-      "word": "炸猪排能有多厚",
-      "onboard_time": 1717078460,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 119864,
       "num": 310839,
       "word": "vivoS19发布会",
@@ -2497,6 +2537,14 @@
       "onboard_time": 1717030158,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 115138,
+      "num": 121540,
+      "word": "固态电池新能源届的当红炸子鸡",
+      "onboard_time": 1717076059,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 115093,
@@ -2652,7 +2700,7 @@
     },
     {
       "raw_hot": 100285,
-      "num": 209983,
+      "num": 264761,
       "word": "途观LPro上市现场改价格",
       "onboard_time": 1717077800,
       "rank": 19,
@@ -2673,6 +2721,14 @@
       "onboard_time": 1716988038,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100080,
+      "num": 121196,
+      "word": "法网",
+      "onboard_time": 1717079238,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 99361,
@@ -2995,6 +3051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 28132,
+      "num": 260161,
+      "word": "今天怎么这么多明星在上海",
+      "onboard_time": 1717077918,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 27938,
       "num": 370024,
       "word": "这个河南小伙的求婚被全网祝福",
@@ -3097,14 +3161,6 @@
       "onboard_time": 1717013830,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 17660,
-      "num": 197442,
-      "word": "今天怎么这么多明星在上海",
-      "onboard_time": 1717077918,
-      "rank": 29,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 15043,
