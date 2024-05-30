@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717097644071,
+  "endTime": 1717100459661,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -13731,6 +13731,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 60468,
+      "num": 39206,
+      "word": "叶轻眉 纯元",
+      "onboard_time": 1717095491,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60323,
       "num": 187486,
       "word": "武大靖玩梗还得是本人",
@@ -14291,14 +14299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37771,
-      "num": 33426,
-      "word": "叶轻眉 纯元",
-      "onboard_time": 1717095491,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 37687,
       "num": 506751,
       "word": "闺蜜生日女子花三个月手作相册礼物",
@@ -14747,12 +14747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15891,
+      "num": 21235,
+      "word": "胡歌你偷谁家小孩了",
+      "onboard_time": 1717099930,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15461,
       "num": 15461,
       "word": "报春花科新物种被发现",
       "onboard_time": 1716926110,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 15096,
+      "num": 33347,
+      "word": "大国重器命名里的中国浪漫",
+      "onboard_time": 1717096212,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15043,
@@ -14779,12 +14795,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 14322,
-      "num": 33347,
-      "word": "大国重器命名里的中国浪漫",
-      "onboard_time": 1717096212,
-      "rank": 49,
+      "raw_hot": 13512,
+      "num": 21230,
+      "word": "年轻人决定先局部退休",
+      "onboard_time": 1717099751,
+      "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13456,
+      "num": 21220,
+      "word": "陪伴童年的经典动画片",
+      "onboard_time": 1717097831,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 13435,
