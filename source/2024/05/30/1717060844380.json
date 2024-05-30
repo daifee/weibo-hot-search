@@ -1,0 +1,410 @@
+{
+  "runTime": 1717060844380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5808162,
+        "num": 6057755,
+        "word": "苟仲文涉嫌严重违纪违法",
+        "onboard_time": 1717054997,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 934955,
+        "num": 934955,
+        "word": "华晨宇演唱会震碎肾结石",
+        "onboard_time": 1717052360,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95716,
+        "num": 894581,
+        "word": "课本中的夏天",
+        "onboard_time": 1717057278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876294,
+        "num": 876294,
+        "word": "海底捞玩具大人不能随便拿了",
+        "onboard_time": 1717058659,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 765937,
+        "num": 765937,
+        "word": "炎亚纶被判7个月缓刑3年",
+        "onboard_time": 1717042518,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461476,
+        "num": 461476,
+        "word": "iPhone顶配机型首次降到8000以内",
+        "onboard_time": 1717056318,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 660118,
+        "num": 418145,
+        "word": "等了范闲五年半个月就播完了",
+        "onboard_time": 1717054578,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593210,
+        "num": 411245,
+        "word": "火箭少女101聚是一团火散是满天星",
+        "onboard_time": 1717055057,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358719,
+        "num": 358719,
+        "word": "霸王茶姬回应喝万里木兰睡不着",
+        "onboard_time": 1717047918,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 354045,
+        "num": 354045,
+        "word": "国防部说台独等于战争",
+        "onboard_time": 1717058359,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 578498,
+        "num": 353189,
+        "word": "部分毕业生浓烈的上岸思维该反思了",
+        "onboard_time": 1717045100,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414572,
+        "num": 352956,
+        "word": "NCT全员掉粉",
+        "onboard_time": 1717055958,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397311,
+        "num": 350402,
+        "word": "苟仲文被查8天前还露面",
+        "onboard_time": 1717058119,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330924,
+        "num": 330924,
+        "word": "但凡当年叶轻眉亲李云睿一口",
+        "onboard_time": 1717060338,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76729,
+        "num": 299167,
+        "word": "新疆瓜果甜过初恋",
+        "onboard_time": 1717057879,
+        "rank": 14,
+        "category": "科学科普,美食"
+      },
+      {
+        "raw_hot": 293614,
+        "num": 293614,
+        "word": "王楚钦要毕业了",
+        "onboard_time": 1717059678,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289299,
+        "num": 289299,
+        "word": "刘昊然露额头了",
+        "onboard_time": 1717060038,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9060,
+        "num": 284116,
+        "word": "先来京东领20元",
+        "onboard_time": 1717056918,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 282534,
+        "num": 282534,
+        "word": "影子露脸了",
+        "onboard_time": 1717053738,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248062,
+        "num": 248062,
+        "word": "夫妻离婚欲分割孩子26.5万压岁钱",
+        "onboard_time": 1717047859,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329312,
+        "num": 247136,
+        "word": "张若昀唐艺昕公开恋情7年了",
+        "onboard_time": 1717055958,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311429,
+        "num": 246779,
+        "word": "做孕检时还在踩奶的小猫",
+        "onboard_time": 1717048518,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248972,
+        "num": 245804,
+        "word": "王楚然回应臭脸",
+        "onboard_time": 1717041799,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288730,
+        "num": 244186,
+        "word": "朋友圈弄个三天可见",
+        "onboard_time": 1717038438,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258289,
+        "num": 243557,
+        "word": "父母想各自再婚把1岁女儿丢到农村",
+        "onboard_time": 1717059738,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242431,
+        "num": 242431,
+        "word": "庆余年第二季大结局点映礼",
+        "onboard_time": 1717045581,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217216,
+        "num": 217216,
+        "word": "北京下雨",
+        "onboard_time": 1717051998,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105325,
+        "num": 213212,
+        "word": "寻宠师吐槽这一行骗子太多",
+        "onboard_time": 1717057158,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211697,
+        "num": 211697,
+        "word": "韩国宣布将在2045年前登陆火星",
+        "onboard_time": 1717044979,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203855,
+        "num": 203855,
+        "word": "花3万给孩子治近视5个月涨了70度",
+        "onboard_time": 1717048818,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199201,
+        "num": 199201,
+        "word": "冯小刚电影 赵丽颖迪丽热巴",
+        "onboard_time": 1717043179,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194345,
+        "num": 194345,
+        "word": "应届生身份到底有多值钱",
+        "onboard_time": 1717059738,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189702,
+        "num": 189702,
+        "word": "猫侦探找一只猫一天至少走4万步",
+        "onboard_time": 1717056559,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186332,
+        "num": 186332,
+        "word": "郑恺苗苗云养亲生的娃",
+        "onboard_time": 1717054277,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166023,
+        "num": 166023,
+        "word": "婚检只告知男方不告知女方吗",
+        "onboard_time": 1717048157,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164752,
+        "num": 164752,
+        "word": "张若昀拿到叶轻眉遗物",
+        "onboard_time": 1717050198,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164203,
+        "num": 164203,
+        "word": "张歆艺送袁弘结婚纪念日礼物",
+        "onboard_time": 1717057698,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163237,
+        "num": 163237,
+        "word": "华语乐坛三杰",
+        "onboard_time": 1717060159,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155956,
+        "num": 155956,
+        "word": "黄仁俊更博",
+        "onboard_time": 1717059618,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152973,
+        "num": 152973,
+        "word": "高卿尘表白被拒暴瘦32斤",
+        "onboard_time": 1717050978,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149932,
+        "num": 149932,
+        "word": "歌手前导演怒赞Fine乐团",
+        "onboard_time": 1717059140,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142539,
+        "num": 142539,
+        "word": "影子是宝莲灯八太子",
+        "onboard_time": 1717059559,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133229,
+        "num": 133229,
+        "word": "王星越发博表扬沈月",
+        "onboard_time": 1717060220,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130274,
+        "num": 130274,
+        "word": "以后不许再叫自己牛马了",
+        "onboard_time": 1717054217,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125729,
+        "num": 125729,
+        "word": "彩虹",
+        "onboard_time": 1717060220,
+        "rank": 44,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 125637,
+        "num": 125637,
+        "word": "一杯霸王茶姬万里木兰相当于5罐红牛",
+        "onboard_time": 1717055838,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125156,
+        "num": 125156,
+        "word": "中国名字最难听的水果",
+        "onboard_time": 1717051757,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109591,
+        "num": 109591,
+        "word": "Hero除小义外全员挂牌",
+        "onboard_time": 1717055898,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107242,
+        "num": 107242,
+        "word": "苟仲文曾因国足成绩不好作检讨",
+        "onboard_time": 1717060819,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106616,
+        "num": 106616,
+        "word": "范闲不像在做手术",
+        "onboard_time": 1717059438,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在中阿合作论坛第十届部长级会议开幕式上的主旨讲话#"
+    }
+  }
+}
