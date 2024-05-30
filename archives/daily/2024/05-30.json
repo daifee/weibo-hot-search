@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717051079307,
+  "endTime": 1717053512630,
   "band_list": [
     {
       "raw_hot": 2794414,
@@ -15,6 +15,14 @@
       "num": 2215557,
       "word": "希尔顿一会员夜不归宿被扣3000元",
       "onboard_time": 1717028538,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1966223,
+      "num": 1966223,
+      "word": "北京下雨",
+      "onboard_time": 1717051998,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -91,6 +99,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 962449,
+      "num": 962449,
+      "word": "霸王茶姬回应喝万里木兰睡不着",
+      "onboard_time": 1717047918,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 959464,
       "num": 959464,
       "word": "小米空调半夜掉了险些砸中2岁女儿",
@@ -99,20 +115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 947793,
-      "num": 947793,
-      "word": "霸王茶姬回应喝万里木兰睡不着",
-      "onboard_time": 1717047918,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
       "raw_hot": 943047,
       "num": 943047,
       "word": "冯小刚电影 赵丽颖迪丽热巴",
       "onboard_time": 1717043179,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 889217,
+      "num": 248224,
+      "word": "做孕检时还在踩奶的小猫",
+      "onboard_time": 1717048518,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 865944,
@@ -129,14 +145,6 @@
       "onboard_time": 1716992779,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 809931,
-      "num": 229638,
-      "word": "做孕检时还在踩奶的小猫",
-      "onboard_time": 1717048518,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 702504,
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 612564,
+      "num": 612564,
+      "word": "部分毕业生浓烈的上岸思维该反思了",
+      "onboard_time": 1717045100,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608395,
       "num": 608395,
       "word": "快乐老友记",
@@ -243,12 +259,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 555712,
-      "num": 555712,
-      "word": "部分毕业生浓烈的上岸思维该反思了",
-      "onboard_time": 1717045100,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 559920,
+      "num": 559920,
+      "word": "华晨宇演唱会震碎肾结石",
+      "onboard_time": 1717052360,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 553608,
@@ -291,12 +307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505908,
+      "num": 505908,
+      "word": "高卿尘表白被拒暴瘦32斤",
+      "onboard_time": 1717050978,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505329,
       "num": 505329,
       "word": "迪丽热巴或将出EP",
       "onboard_time": 1717049537,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 503249,
+      "num": 503249,
+      "word": "张若昀拿到叶轻眉遗物",
+      "onboard_time": 1717050198,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 502856,
@@ -491,14 +523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 322816,
-      "num": 194157,
-      "word": "张若昀拿到叶轻眉遗物",
-      "onboard_time": 1717050198,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 319500,
       "num": 319500,
       "word": "周杰伦林俊杰张杰六一都开演唱会",
@@ -547,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274649,
+      "num": 246106,
+      "word": "中国名字最难听的水果",
+      "onboard_time": 1717051757,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 270830,
       "num": 261739,
       "word": "刘端端演出了李承泽的灵魂",
@@ -563,6 +595,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 261181,
+      "num": 261181,
+      "word": "Hero祝福无畏未来一帆风顺",
+      "onboard_time": 1717050377,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 258634,
       "num": 197424,
       "word": "37周孕妇糖耐不过在家锻炼",
@@ -571,12 +611,28 @@
       "category": "母婴育儿,运动健身"
     },
     {
+      "raw_hot": 248387,
+      "num": 476997,
+      "word": "花3万给孩子治近视5个月涨了70度",
+      "onboard_time": 1717048818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247115,
       "num": 247115,
       "word": "郑乃馨早期言论",
       "onboard_time": 1716981738,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244478,
+      "num": 244478,
+      "word": "婚检只告知男方不告知女方吗",
+      "onboard_time": 1717048157,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 243687,
@@ -633,14 +689,6 @@
       "onboard_time": 1717032916,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228700,
-      "num": 228700,
-      "word": "Hero祝福无畏未来一帆风顺",
-      "onboard_time": 1717050377,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 223668,
@@ -771,12 +819,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203719,
-      "num": 203719,
-      "word": "婚检只告知男方不告知女方吗",
-      "onboard_time": 1717048157,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 205639,
+      "num": 205639,
+      "word": "专访我的阿勒泰剧组",
+      "onboard_time": 1717052117,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 201234,
@@ -947,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173396,
+      "num": 173396,
+      "word": "14名反中乱港分子被裁定罪名成立",
+      "onboard_time": 1717051458,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171701,
       "num": 171701,
       "word": "朱婷回来了",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1717038677,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 162634,
+      "num": 162634,
+      "word": "为何大多数人吃虾不吃虫",
+      "onboard_time": 1717050318,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 161051,
@@ -1099,14 +1163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145896,
-      "num": 145896,
-      "word": "为何大多数人吃虾不吃虫",
-      "onboard_time": 1717050318,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 145638,
       "num": 163711,
       "word": "他们是中国科学家",
@@ -1139,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141414,
+      "num": 141414,
+      "word": "庆帝质问范闲",
+      "onboard_time": 1717052297,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140447,
       "num": 140447,
       "word": "谁能想到义乌今年最火的是中东菜",
@@ -1155,20 +1219,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135454,
+      "num": 135454,
+      "word": "孙颖莎重庆冠军赛开门红",
+      "onboard_time": 1717053138,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133938,
       "num": 133938,
       "word": "这是我的梦中情瓜吧",
       "onboard_time": 1717031657,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 131745,
-      "num": 476997,
-      "word": "花3万给孩子治近视5个月涨了70度",
-      "onboard_time": 1717048818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131323,
@@ -1315,14 +1379,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 118678,
-      "num": 118678,
-      "word": "高卿尘表白被拒暴瘦32斤",
-      "onboard_time": 1717050978,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118019,
       "num": 118019,
       "word": "欧冠决赛",
@@ -1459,6 +1515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96777,
+      "num": 247009,
+      "word": "38岁杂技女演员托起19人从未失脱",
+      "onboard_time": 1717053378,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94012,
       "num": 94012,
       "word": "我的小狗也养了小猫朋友们",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1717023432,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86798,
+      "num": 245502,
+      "word": "警犬心想我是闻科生不是体育生",
+      "onboard_time": 1717051517,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85433,
@@ -1675,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31993,
+      "num": 196077,
+      "word": "NISSAN智驾好物",
+      "onboard_time": 1717048939,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26657,
       "num": 26657,
       "word": "女孩被校园霸凌转学后又面临失学",
@@ -1699,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21039,
+      "num": 299410,
+      "word": "国产疫苗国际合作持续加速",
+      "onboard_time": 1717052417,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20123,
       "num": 24312,
       "word": "孙楠退赛完整视频",
@@ -1721,14 +1809,6 @@
       "onboard_time": 1717007650,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18406,
-      "num": 196077,
-      "word": "NISSAN智驾好物",
-      "onboard_time": 1717048939,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 18126,

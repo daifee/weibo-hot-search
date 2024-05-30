@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717051079307,
+  "endTime": 1717053512630,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1716688157,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1966223,
+      "num": 1966223,
+      "word": "北京下雨",
+      "onboard_time": 1717051998,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1962925,
@@ -6539,6 +6547,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 962449,
+      "num": 962449,
+      "word": "霸王茶姬回应喝万里木兰睡不着",
+      "onboard_time": 1717047918,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 962170,
       "num": 422159,
       "word": "酱园弄 盗摄",
@@ -6737,14 +6753,6 @@
       "onboard_time": 1715007320,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 947793,
-      "num": 947793,
-      "word": "霸王茶姬回应喝万里木兰睡不着",
-      "onboard_time": 1717047918,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 946692,
@@ -7409,6 +7417,14 @@
       "onboard_time": 1714991359,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 889217,
+      "num": 248224,
+      "word": "做孕检时还在踩奶的小猫",
+      "onboard_time": 1717048518,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 889081,
@@ -8785,14 +8801,6 @@
       "onboard_time": 1714883780,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 809931,
-      "num": 229638,
-      "word": "做孕检时还在踩奶的小猫",
-      "onboard_time": 1717048518,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 809657,
@@ -13579,6 +13587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612564,
+      "num": 612564,
+      "word": "部分毕业生浓烈的上岸思维该反思了",
+      "onboard_time": 1717045100,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612363,
       "num": 612363,
       "word": "对韩国的滤镜慢慢破碎了",
@@ -15267,6 +15283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559920,
+      "num": 559920,
+      "word": "华晨宇演唱会震碎肾结石",
+      "onboard_time": 1717052360,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 559759,
       "num": 559759,
       "word": "江西女子因琐事刺死男友被刑拘",
@@ -15377,14 +15401,6 @@
       "onboard_time": 1715993717,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 555712,
-      "num": 555712,
-      "word": "部分毕业生浓烈的上岸思维该反思了",
-      "onboard_time": 1717045100,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 555636,
@@ -17435,6 +17451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 505908,
+      "num": 505908,
+      "word": "高卿尘表白被拒暴瘦32斤",
+      "onboard_time": 1717050978,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505692,
       "num": 505692,
       "word": "孟子义感谢苗苗救场",
@@ -17545,6 +17569,14 @@
       "onboard_time": 1715582478,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 503249,
+      "num": 503249,
+      "word": "张若昀拿到叶轻眉遗物",
+      "onboard_time": 1717050198,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 502856,
@@ -28283,14 +28315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322816,
-      "num": 194157,
-      "word": "张若昀拿到叶轻眉遗物",
-      "onboard_time": 1717050198,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 322796,
       "num": 322796,
       "word": "全员加速中",
@@ -32419,6 +32443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 274649,
+      "num": 246106,
+      "word": "中国名字最难听的水果",
+      "onboard_time": 1717051757,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 274643,
       "num": 274643,
       "word": "范丞丞 绝味鸭脖",
@@ -33841,6 +33873,14 @@
       "onboard_time": 1716867859,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261181,
+      "num": 261181,
+      "word": "Hero祝福无畏未来一帆风顺",
+      "onboard_time": 1717050377,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 261156,
@@ -35299,6 +35339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248387,
+      "num": 476997,
+      "word": "花3万给孩子治近视5个月涨了70度",
+      "onboard_time": 1717048818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248381,
       "num": 248381,
       "word": "以为张凌赫下楼拿外卖",
@@ -35889,6 +35937,14 @@
       "onboard_time": 1715001138,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244478,
+      "num": 244478,
+      "word": "婚检只告知男方不告知女方吗",
+      "onboard_time": 1717048157,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 244421,
@@ -38121,14 +38177,6 @@
       "onboard_time": 1716208219,
       "rank": 30,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 228700,
-      "num": 228700,
-      "word": "Hero祝福无畏未来一帆风顺",
-      "onboard_time": 1717050377,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 228563,
@@ -42723,6 +42771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205639,
+      "num": 205639,
+      "word": "专访我的阿勒泰剧组",
+      "onboard_time": 1717052117,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205588,
       "num": 205588,
       "word": "山东事业编",
@@ -43257,14 +43313,6 @@
       "onboard_time": 1714980258,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203719,
-      "num": 203719,
-      "word": "婚检只告知男方不告知女方吗",
-      "onboard_time": 1717048157,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 203564,
@@ -52819,6 +52867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173396,
+      "num": 173396,
+      "word": "14名反中乱港分子被裁定罪名成立",
+      "onboard_time": 1717051458,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 173376,
       "num": 173376,
       "word": "上班第一天被上一任同事安慰了",
@@ -56081,6 +56137,14 @@
       "onboard_time": 1715641995,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 162634,
+      "num": 162634,
+      "word": "为何大多数人吃虾不吃虫",
+      "onboard_time": 1717050318,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 162508,
@@ -61115,14 +61179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145896,
-      "num": 145896,
-      "word": "为何大多数人吃虾不吃虫",
-      "onboard_time": 1717050318,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 145889,
       "num": 253887,
       "word": "她说当时很害怕但不能不救",
@@ -62569,6 +62625,14 @@
       "onboard_time": 1716709698,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 141414,
+      "num": 141414,
+      "word": "庆帝质问范闲",
+      "onboard_time": 1717052297,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 141412,
@@ -64387,6 +64451,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 135454,
+      "num": 135454,
+      "word": "孙颖莎重庆冠军赛开门红",
+      "onboard_time": 1717053138,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135451,
       "num": 1249791,
       "word": "小满的一幕幕画面太有爱了",
@@ -65697,14 +65769,6 @@
       "onboard_time": 1716538757,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131745,
-      "num": 476997,
-      "word": "花3万给孩子治近视5个月涨了70度",
-      "onboard_time": 1717048818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131738,
@@ -69713,14 +69777,6 @@
       "onboard_time": 1716681976,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118678,
-      "num": 118678,
-      "word": "高卿尘表白被拒暴瘦32斤",
-      "onboard_time": 1717050978,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 118676,
@@ -74387,6 +74443,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 96777,
+      "num": 247009,
+      "word": "38岁杂技女演员托起19人从未失脱",
+      "onboard_time": 1717053378,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96773,
       "num": 494595,
       "word": "聋哑夫妻直播带货年入过百万",
@@ -75528,6 +75592,14 @@
       "word": "五一假期第四天",
       "onboard_time": 1714781956,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86798,
+      "num": 245502,
+      "word": "警犬心想我是闻科生不是体育生",
+      "onboard_time": 1717051517,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -80867,6 +80939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31993,
+      "num": 196077,
+      "word": "NISSAN智驾好物",
+      "onboard_time": 1717048939,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 31866,
       "num": 362663,
       "word": "被孩子看到姥姥姥爷的笑声治愈了",
@@ -81763,6 +81843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 21039,
+      "num": 299410,
+      "word": "国产疫苗国际合作持续加速",
+      "onboard_time": 1717052417,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21026,
       "num": 24655,
       "word": "二次元被偷家毫发无伤",
@@ -82009,14 +82097,6 @@
       "onboard_time": 1716635658,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18406,
-      "num": 196077,
-      "word": "NISSAN智驾好物",
-      "onboard_time": 1717048939,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 18363,
