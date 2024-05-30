@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717093589347,
+  "endTime": 1717094329811,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -14379,6 +14379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32503,
+      "num": 36724,
+      "word": "严浩翔划龙舟路透",
+      "onboard_time": 1717093271,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32177,
       "num": 32177,
       "word": "杨幂生万物明天开机仪式",
@@ -14425,14 +14433,6 @@
       "onboard_time": 1716644360,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30501,
-      "num": 36724,
-      "word": "严浩翔划龙舟路透",
-      "onboard_time": 1717093271,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 29852,
@@ -14699,7 +14699,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 17214,
+      "raw_hot": 17968,
       "num": 36697,
       "word": "光头自己画头发",
       "onboard_time": 1717092552,
@@ -14795,7 +14795,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 10361,
+      "raw_hot": 10770,
       "num": 425870,
       "word": "中阿合作20载硕果累累",
       "onboard_time": 1717075459,

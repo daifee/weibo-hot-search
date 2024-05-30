@@ -1,0 +1,410 @@
+{
+  "runTime": 1717094329811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 292400,
+        "num": 292400,
+        "word": "王倦 第三季不会等这么久",
+        "onboard_time": 1717084158,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261368,
+        "num": 261368,
+        "word": "台湾高中生问中国史是什么",
+        "onboard_time": 1717077740,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10770,
+        "num": 216457,
+        "word": "中阿合作20载硕果累累",
+        "onboard_time": 1717075459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211144,
+        "num": 211144,
+        "word": "庆余年大结局",
+        "onboard_time": 1717069517,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95283,
+        "num": 95283,
+        "word": "甘肃省博物馆发声明",
+        "onboard_time": 1717083258,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75395,
+        "num": 75395,
+        "word": "台独课本洗脑青少年",
+        "onboard_time": 1717077740,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186102,
+        "num": 72966,
+        "word": "白玉兰提名没有王一博",
+        "onboard_time": 1717075459,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157840,
+        "num": 70636,
+        "word": "五竹 婉儿",
+        "onboard_time": 1717078821,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56431,
+        "num": 56431,
+        "word": "海底捞玩具大人不能随便拿了",
+        "onboard_time": 1717058659,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8661,
+        "num": 55659,
+        "word": "连幼儿园都搞职业化了",
+        "onboard_time": 1717066817,
+        "rank": 9,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 131999,
+        "num": 53990,
+        "word": "庆余年真有徐志胜",
+        "onboard_time": 1717083678,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109307,
+        "num": 51229,
+        "word": "疯产姐妹回应停更原因",
+        "onboard_time": 1717066517,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116884,
+        "num": 48526,
+        "word": "庆余年3",
+        "onboard_time": 1717071859,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100212,
+        "num": 45644,
+        "word": "追风者 男主",
+        "onboard_time": 1717070778,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45029,
+        "num": 45029,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1717067058,
+        "rank": 14,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 39018,
+        "num": 39018,
+        "word": "台风",
+        "onboard_time": 1717078279,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35310,
+        "num": 38972,
+        "word": "韩国宣布将在2045年前登陆火星",
+        "onboard_time": 1717044979,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 32087,
+        "num": 38935,
+        "word": "Letme看姿态老头杯红温",
+        "onboard_time": 1717083978,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28811,
+        "num": 38863,
+        "word": "无畏被爆不要签字费",
+        "onboard_time": 1717076479,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28335,
+        "num": 38818,
+        "word": "炸猪排能有多厚",
+        "onboard_time": 1717078460,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 73904,
+        "num": 38740,
+        "word": "杨紫入围白玉兰视后",
+        "onboard_time": 1717069337,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73870,
+        "num": 38708,
+        "word": "孙楠 双眼皮",
+        "onboard_time": 1717080200,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72823,
+        "num": 38630,
+        "word": "古偶 上桌",
+        "onboard_time": 1717079659,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60813,
+        "num": 38601,
+        "word": "王阳获白玉兰最佳男主角提名",
+        "onboard_time": 1717070118,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45165,
+        "num": 38556,
+        "word": "坐飞机头等舱的人都是什么职业",
+        "onboard_time": 1717069939,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59258,
+        "num": 38501,
+        "word": "白玉兰入围名单",
+        "onboard_time": 1717069096,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49046,
+        "num": 38439,
+        "word": "白玉兰视帝提名",
+        "onboard_time": 1717069819,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46411,
+        "num": 38386,
+        "word": "叶轻眉传",
+        "onboard_time": 1717083378,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31366,
+        "num": 38303,
+        "word": "黑袋装卫生巾已经成为过去了",
+        "onboard_time": 1717079778,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28150,
+        "num": 38242,
+        "word": "一公司招董秘被曝需解决老板生理需求",
+        "onboard_time": 1717062206,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38218,
+        "num": 38218,
+        "word": "李宇春黑丝绒晚礼服",
+        "onboard_time": 1717073477,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37476,
+        "num": 37476,
+        "word": "庆余年2余年有你海报",
+        "onboard_time": 1717092012,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35822,
+        "num": 35822,
+        "word": "佟梦实回复张若昀",
+        "onboard_time": 1717082838,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23048,
+        "num": 35466,
+        "word": "原来老外才是中国旅游的最强嘴替",
+        "onboard_time": 1717074319,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 22331,
+        "num": 35376,
+        "word": "以色列",
+        "onboard_time": 1717072278,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35369,
+        "num": 35369,
+        "word": "杨幂问今天大家怎么怪怪的",
+        "onboard_time": 1717072699,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34613,
+        "num": 34613,
+        "word": "张小斐 第二章复仇",
+        "onboard_time": 1717071738,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20065,
+        "num": 34350,
+        "word": "特斯拉刹车事件女车主被判道歉",
+        "onboard_time": 1717067599,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19071,
+        "num": 34271,
+        "word": "圆明园临时闭园",
+        "onboard_time": 1717078219,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 19054,
+        "num": 34240,
+        "word": "樊振东11比0李尚洙",
+        "onboard_time": 1717075039,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34221,
+        "num": 34221,
+        "word": "胡歌五提白玉兰",
+        "onboard_time": 1717070238,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33495,
+        "num": 33495,
+        "word": "辛芷蕾没入围",
+        "onboard_time": 1717076659,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32503,
+        "num": 33490,
+        "word": "严浩翔划龙舟路透",
+        "onboard_time": 1717093271,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30898,
+        "num": 33481,
+        "word": "陈道明演技",
+        "onboard_time": 1717082420,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27640,
+        "num": 33474,
+        "word": "张若昀回复罗伯特",
+        "onboard_time": 1717081819,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17968,
+        "num": 33467,
+        "word": "光头自己画头发",
+        "onboard_time": 1717092552,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 17890,
+        "num": 33461,
+        "word": "怀孕去不了团建结果要扣工资",
+        "onboard_time": 1717061238,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17239,
+        "num": 33457,
+        "word": "法网",
+        "onboard_time": 1717079238,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16945,
+        "num": 33446,
+        "word": "我国成功发射巴基斯坦多任务通信卫星",
+        "onboard_time": 1717074979,
+        "rank": 48,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 16097,
+        "num": 33442,
+        "word": "法网 下雨了",
+        "onboard_time": 1717080259,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在中阿合作论坛第十届部长级会议开幕式上的主旨讲话#"
+    }
+  }
+}

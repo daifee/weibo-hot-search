@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717093589347,
+  "endTime": 1717094329811,
   "band_list": [
     {
       "raw_hot": 1423742,
@@ -451,7 +451,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30501,
+      "raw_hot": 32503,
       "num": 36724,
       "word": "严浩翔划龙舟路透",
       "onboard_time": 1717093271,
@@ -467,7 +467,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 17214,
+      "raw_hot": 17968,
       "num": 36697,
       "word": "光头自己画头发",
       "onboard_time": 1717092552,
@@ -483,7 +483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10361,
+      "raw_hot": 10770,
       "num": 425870,
       "word": "中阿合作20载硕果累累",
       "onboard_time": 1717075459,

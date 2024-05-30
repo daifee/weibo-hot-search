@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717093589347,
+  "endTime": 1717094329811,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -82291,6 +82291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32503,
+      "num": 36724,
+      "word": "严浩翔划龙舟路透",
+      "onboard_time": 1717093271,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32492,
       "num": 252109,
       "word": "DNF手游520发布会真的能打",
@@ -82481,14 +82489,6 @@
       "onboard_time": 1715894351,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30501,
-      "num": 36724,
-      "word": "严浩翔划龙舟路透",
-      "onboard_time": 1717093271,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 30479,
@@ -83611,6 +83611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17968,
+      "num": 36697,
+      "word": "光头自己画头发",
+      "onboard_time": 1717092552,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 17862,
       "num": 17862,
       "word": "在大学当高中生",
@@ -83641,14 +83649,6 @@
       "onboard_time": 1715092881,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 17214,
-      "num": 36697,
-      "word": "光头自己画头发",
-      "onboard_time": 1717092552,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 16988,
@@ -84147,19 +84147,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10770,
+      "num": 425870,
+      "word": "中阿合作20载硕果累累",
+      "onboard_time": 1717075459,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10585,
       "num": 267444,
       "word": "店家打烊遇拾荒老人果断开店送吃的",
       "onboard_time": 1715793253,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10361,
-      "num": 425870,
-      "word": "中阿合作20载硕果累累",
-      "onboard_time": 1717075459,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
