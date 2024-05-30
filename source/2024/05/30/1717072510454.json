@@ -1,0 +1,410 @@
+{
+  "runTime": 1717072510454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2126270,
+        "num": 2126270,
+        "word": "庆余年大结局",
+        "onboard_time": 1717069517,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 801310,
+        "num": 801310,
+        "word": "连幼儿园都搞职业化了",
+        "onboard_time": 1717066817,
+        "rank": 1,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 11967,
+        "num": 524675,
+        "word": "全国科技工作者日",
+        "onboard_time": 1717026436,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431880,
+        "num": 521600,
+        "word": "白玉兰入围名单",
+        "onboard_time": 1717069096,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482083,
+        "num": 482083,
+        "word": "海底捞玩具大人不能随便拿了",
+        "onboard_time": 1717058659,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 407069,
+        "num": 407069,
+        "word": "特斯拉刹车事件女车主被判道歉",
+        "onboard_time": 1717067599,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1245240,
+        "num": 404211,
+        "word": "追风者 男主",
+        "onboard_time": 1717070778,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 958940,
+        "num": 403376,
+        "word": "疯产姐妹回应停更原因",
+        "onboard_time": 1717066517,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 372279,
+        "num": 372279,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1717067058,
+        "rank": 8,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 27938,
+        "num": 370024,
+        "word": "这个河南小伙的求婚被全网祝福",
+        "onboard_time": 1717071859,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845290,
+        "num": 356182,
+        "word": "杨紫入围白玉兰视后",
+        "onboard_time": 1717069337,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 574260,
+        "num": 336005,
+        "word": "王阳获白玉兰最佳男主角提名",
+        "onboard_time": 1717070118,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472373,
+        "num": 329641,
+        "word": "庆余年3",
+        "onboard_time": 1717071859,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65344,
+        "num": 305498,
+        "word": "vivoS19发布会",
+        "onboard_time": 1717068857,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 443440,
+        "num": 294250,
+        "word": "华晨宇认缴20万入股LGD分部",
+        "onboard_time": 1717061299,
+        "rank": 14,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 420391,
+        "num": 278118,
+        "word": "胡歌五提白玉兰",
+        "onboard_time": 1717070238,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277218,
+        "num": 277218,
+        "word": "孙颖莎打球把自己打笑了",
+        "onboard_time": 1717071078,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267537,
+        "num": 267537,
+        "word": "韩国宣布将在2045年前登陆火星",
+        "onboard_time": 1717044979,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228099,
+        "num": 228099,
+        "word": "苟仲文涉嫌严重违纪违法",
+        "onboard_time": 1717054997,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140950,
+        "num": 227691,
+        "word": "国防部说台独等于战争",
+        "onboard_time": 1717058359,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 418177,
+        "num": 226209,
+        "word": "白玉兰视帝提名",
+        "onboard_time": 1717069819,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485509,
+        "num": 225427,
+        "word": "一公司招董秘被曝需解决老板生理需求",
+        "onboard_time": 1717062206,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421018,
+        "num": 224725,
+        "word": "白玉兰 没有刘琳",
+        "onboard_time": 1717071199,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415933,
+        "num": 223249,
+        "word": "唐嫣入围白玉兰视后",
+        "onboard_time": 1717069517,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389094,
+        "num": 221938,
+        "word": "但凡当年叶轻眉亲李云睿一口",
+        "onboard_time": 1717060338,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370134,
+        "num": 221190,
+        "word": "怀孕去不了团建结果要扣工资",
+        "onboard_time": 1717061238,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362143,
+        "num": 219595,
+        "word": "张小斐 第二章复仇",
+        "onboard_time": 1717071738,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315064,
+        "num": 218936,
+        "word": "白玉兰遗珠",
+        "onboard_time": 1717071558,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115731,
+        "num": 217673,
+        "word": "部分毕业生浓烈的上岸思维该反思了",
+        "onboard_time": 1717045100,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252063,
+        "num": 216823,
+        "word": "全世界都知道中国女性拍照好看了",
+        "onboard_time": 1717068317,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302487,
+        "num": 215176,
+        "word": "炎亚纶被判7个月缓刑3年",
+        "onboard_time": 1717042518,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242208,
+        "num": 215063,
+        "word": "林婉儿才是蜷起来慢慢活的人",
+        "onboard_time": 1717068618,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214096,
+        "num": 214096,
+        "word": "GQ盛典座位安排",
+        "onboard_time": 1717068798,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193477,
+        "num": 213831,
+        "word": "马伊琍没提名",
+        "onboard_time": 1717071558,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142544,
+        "num": 213517,
+        "word": "坐飞机头等舱的人都是什么职业",
+        "onboard_time": 1717069939,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164855,
+        "num": 212943,
+        "word": "范闲没叫庆帝爹",
+        "onboard_time": 1717066278,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127510,
+        "num": 212622,
+        "word": "渐冻症或将被攻克",
+        "onboard_time": 1717071437,
+        "rank": 36,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 101345,
+        "num": 212006,
+        "word": "冻死在东北的夏天我心有不甘",
+        "onboard_time": 1717071437,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100171,
+        "num": 211424,
+        "word": "米哈游礼盒",
+        "onboard_time": 1717070297,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94245,
+        "num": 210902,
+        "word": "父母想各自再婚把1岁女儿丢到农村",
+        "onboard_time": 1717059738,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163399,
+        "num": 210246,
+        "word": "白玉兰 漫长的季节",
+        "onboard_time": 1717072218,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160756,
+        "num": 209991,
+        "word": "拖着善禹跑",
+        "onboard_time": 1717066697,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152642,
+        "num": 209481,
+        "word": "范闲海棠朵朵重逢",
+        "onboard_time": 1717068917,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137480,
+        "num": 209196,
+        "word": "aespa 不老实",
+        "onboard_time": 1717064058,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128706,
+        "num": 208447,
+        "word": "庆余年第二季大结局点映礼",
+        "onboard_time": 1717045581,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80532,
+        "num": 208033,
+        "word": "全职高手",
+        "onboard_time": 1717067658,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 79041,
+        "num": 207339,
+        "word": "霸王茶姬回应喝万里木兰睡不着",
+        "onboard_time": 1717047918,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70111,
+        "num": 207153,
+        "word": "鸣潮",
+        "onboard_time": 1717072278,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65530,
+        "num": 206611,
+        "word": "到底能不能开实习证明啊",
+        "onboard_time": 1717072037,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62258,
+        "num": 206080,
+        "word": "以色列",
+        "onboard_time": 1717072278,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在中阿合作论坛第十届部长级会议开幕式上的主旨讲话#"
+    }
+  }
+}

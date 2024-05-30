@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717068850904,
+  "endTime": 1717072510454,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -81,6 +81,14 @@
       "onboard_time": 1716768079,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2126270,
+      "num": 2126270,
+      "word": "庆余年大结局",
+      "onboard_time": 1717069517,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2124366,
@@ -371,6 +379,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1431880,
+      "num": 521600,
+      "word": "白玉兰入围名单",
+      "onboard_time": 1717069096,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1410588,
       "num": 1410588,
       "word": "陈赫冰桶打人事件受害者",
@@ -521,6 +537,14 @@
       "onboard_time": 1716693257,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1245240,
+      "num": 404211,
+      "word": "追风者 男主",
+      "onboard_time": 1717070778,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1244128,
@@ -1123,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845290,
+      "num": 356182,
+      "word": "杨紫入围白玉兰视后",
+      "onboard_time": 1717069337,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 842965,
       "num": 307713,
       "word": "亚当确实只参加一期节目",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1716986356,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 801310,
+      "num": 801310,
+      "word": "连幼儿园都搞职业化了",
+      "onboard_time": 1717066817,
+      "rank": 9,
+      "category": "社会新闻,母婴育儿"
     },
     {
       "raw_hot": 801128,
@@ -2171,6 +2211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 574260,
+      "num": 336005,
+      "word": "王阳获白玉兰最佳男主角提名",
+      "onboard_time": 1717070118,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 572092,
       "num": 572092,
       "word": "8年前借的3斤黄金怎么还",
@@ -2955,6 +3003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 472373,
+      "num": 329641,
+      "word": "庆余年3",
+      "onboard_time": 1717071859,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471875,
       "num": 471875,
       "word": "17岁女生想纹男友名被老板劝离",
@@ -3403,6 +3459,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 421018,
+      "num": 224725,
+      "word": "白玉兰 没有刘琳",
+      "onboard_time": 1717071199,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 420391,
+      "num": 278118,
+      "word": "胡歌五提白玉兰",
+      "onboard_time": 1717070238,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419704,
       "num": 347583,
       "word": "刘强东回应严抓考勤",
@@ -3435,6 +3507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 418177,
+      "num": 226209,
+      "word": "白玉兰视帝提名",
+      "onboard_time": 1717069819,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418034,
       "num": 418034,
       "word": "iPhone价格持续下降销量反弹",
@@ -3457,6 +3537,14 @@
       "onboard_time": 1717048157,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 415933,
+      "num": 223249,
+      "word": "唐嫣入围白玉兰视后",
+      "onboard_time": 1717069517,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 412039,
@@ -3505,6 +3593,14 @@
       "onboard_time": 1716733699,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 407069,
+      "num": 407069,
+      "word": "特斯拉刹车事件女车主被判道歉",
+      "onboard_time": 1717067599,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406411,
@@ -4011,6 +4107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 362143,
+      "num": 219595,
+      "word": "张小斐 第二章复仇",
+      "onboard_time": 1717071738,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 361823,
       "num": 361823,
       "word": "林祎凯开通微博",
@@ -4468,7 +4572,7 @@
     },
     {
       "raw_hot": 316957,
-      "num": 197536,
+      "num": 209991,
       "word": "拖着善禹跑",
       "onboard_time": 1717066697,
       "rank": 22,
@@ -4489,6 +4593,14 @@
       "onboard_time": 1716683777,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 315064,
+      "num": 218936,
+      "word": "白玉兰遗珠",
+      "onboard_time": 1717071558,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 314468,
@@ -4963,6 +5075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 277218,
+      "num": 277218,
+      "word": "孙颖莎打球把自己打笑了",
+      "onboard_time": 1717071078,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276886,
       "num": 159111,
       "word": "苏打绿直播",
@@ -5395,6 +5515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 252063,
+      "num": 216823,
+      "word": "全世界都知道中国女性拍照好看了",
+      "onboard_time": 1717068317,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251745,
       "num": 237738,
       "word": "内娱智性恋天花板",
@@ -5601,6 +5729,14 @@
       "onboard_time": 1716895396,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 242208,
+      "num": 215063,
+      "word": "林婉儿才是蜷起来慢慢活的人",
+      "onboard_time": 1717068618,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 242139,
@@ -6291,14 +6427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215233,
-      "num": 308232,
-      "word": "连幼儿园都搞职业化了",
-      "onboard_time": 1717066817,
-      "rank": 9,
-      "category": "社会新闻,母婴育儿"
-    },
-    {
       "raw_hot": 215055,
       "num": 215055,
       "word": "张若昀毛晓彤庆余年2是三搭",
@@ -6329,6 +6457,14 @@
       "onboard_time": 1716795258,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214096,
+      "num": 214096,
+      "word": "GQ盛典座位安排",
+      "onboard_time": 1717068798,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 214093,
@@ -7289,6 +7425,14 @@
       "onboard_time": 1717050619,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193477,
+      "num": 213831,
+      "word": "马伊琍没提名",
+      "onboard_time": 1717071558,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 193424,
@@ -8827,20 +8971,20 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 163399,
+      "num": 210246,
+      "word": "白玉兰 漫长的季节",
+      "onboard_time": 1717072218,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163192,
       "num": 163192,
       "word": "人的牙齿天生就是偏黄的",
       "onboard_time": 1716701298,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 162886,
-      "num": 162886,
-      "word": "特斯拉刹车事件女车主被判道歉",
-      "onboard_time": 1717067599,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162802,
@@ -9283,6 +9427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152642,
+      "num": 209481,
+      "word": "范闲海棠朵朵重逢",
+      "onboard_time": 1717068917,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152517,
       "num": 152517,
       "word": "汗疱疹会传染吗",
@@ -9387,14 +9539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150826,
-      "num": 150826,
-      "word": "全世界都知道中国女性拍照好看了",
-      "onboard_time": 1717068317,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149891,
       "num": 149891,
       "word": "夏之光让田嘉瑞叫哥哥",
@@ -9492,7 +9636,7 @@
     },
     {
       "raw_hot": 148586,
-      "num": 160793,
+      "num": 208033,
       "word": "全职高手",
       "onboard_time": 1717067658,
       "rank": 47,
@@ -9769,6 +9913,14 @@
       "onboard_time": 1716893899,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 142544,
+      "num": 213517,
+      "word": "坐飞机头等舱的人都是什么职业",
+      "onboard_time": 1717069939,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 142539,
@@ -10185,14 +10337,6 @@
       "onboard_time": 1716893476,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135842,
-      "num": 135842,
-      "word": "林婉儿才是蜷起来慢慢活的人",
-      "onboard_time": 1717068618,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 135734,
@@ -10833,6 +10977,14 @@
       "onboard_time": 1716944237,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 127510,
+      "num": 212622,
+      "word": "渐冻症或将被攻克",
+      "onboard_time": 1717071437,
+      "rank": 36,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 127496,
@@ -12187,6 +12339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101345,
+      "num": 212006,
+      "word": "冻死在东北的夏天我心有不甘",
+      "onboard_time": 1717071437,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101124,
       "num": 101124,
       "word": "2024KPL夏季转会期",
@@ -12209,6 +12369,14 @@
       "onboard_time": 1716875658,
       "rank": 47,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 100171,
+      "num": 211424,
+      "word": "米哈游礼盒",
+      "onboard_time": 1717070297,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 100013,
@@ -12465,14 +12633,6 @@
       "onboard_time": 1716867317,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90496,
-      "num": 90496,
-      "word": "GQ盛典座位安排",
-      "onboard_time": 1717068798,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 90491,
@@ -12985,6 +13145,22 @@
       "onboard_time": 1716905420,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 65530,
+      "num": 206611,
+      "word": "到底能不能开实习证明啊",
+      "onboard_time": 1717072037,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 65344,
+      "num": 305498,
+      "word": "vivoS19发布会",
+      "onboard_time": 1717068857,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 63964,
@@ -13771,8 +13947,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27938,
+      "num": 370024,
+      "word": "这个河南小伙的求婚被全网祝福",
+      "onboard_time": 1717071859,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27713,
-      "num": 336453,
+      "num": 524675,
       "word": "全国科技工作者日",
       "onboard_time": 1717026436,
       "rank": 18,
