@@ -1,0 +1,410 @@
+{
+  "runTime": 1717057463163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4669918,
+        "num": 5839836,
+        "word": "苟仲文涉嫌严重违纪违法",
+        "onboard_time": 1717054997,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1300521,
+        "num": 1300521,
+        "word": "华晨宇演唱会震碎肾结石",
+        "onboard_time": 1717052360,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109630,
+        "num": 1166379,
+        "word": "课本中的夏天",
+        "onboard_time": 1717057278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1156976,
+        "num": 1156976,
+        "word": "炎亚纶被判7个月缓刑3年",
+        "onboard_time": 1717042518,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682247,
+        "num": 682247,
+        "word": "部分毕业生浓烈的上岸思维该反思了",
+        "onboard_time": 1717045100,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658759,
+        "num": 658759,
+        "word": "北京下雨",
+        "onboard_time": 1717051998,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816342,
+        "num": 656286,
+        "word": "NCT全员掉粉",
+        "onboard_time": 1717055958,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588813,
+        "num": 588813,
+        "word": "影子露脸了",
+        "onboard_time": 1717053738,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506254,
+        "num": 506254,
+        "word": "花3万给孩子治近视5个月涨了70度",
+        "onboard_time": 1717048818,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168695,
+        "num": 480145,
+        "word": "猫侦探找一只猫一天至少走4万步",
+        "onboard_time": 1717056559,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534031,
+        "num": 476309,
+        "word": "等了范闲五年半个月就播完了",
+        "onboard_time": 1717054578,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506662,
+        "num": 475964,
+        "word": "火箭少女101聚是一团火散是满天星",
+        "onboard_time": 1717055057,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469470,
+        "num": 469470,
+        "word": "韩国宣布将在2045年前登陆火星",
+        "onboard_time": 1717044979,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 441694,
+        "num": 441694,
+        "word": "郑恺苗苗云养亲生的娃",
+        "onboard_time": 1717054277,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433068,
+        "num": 433068,
+        "word": "iPhone顶配机型首次降到8000以内",
+        "onboard_time": 1717056318,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 432011,
+        "num": 432011,
+        "word": "霸王茶姬回应喝万里木兰睡不着",
+        "onboard_time": 1717047918,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 417360,
+        "num": 417360,
+        "word": "婚检只告知男方不告知女方吗",
+        "onboard_time": 1717048157,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341501,
+        "num": 341501,
+        "word": "张若昀拿到叶轻眉遗物",
+        "onboard_time": 1717050198,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27713,
+        "num": 336453,
+        "word": "全国科技工作者日",
+        "onboard_time": 1717026436,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331614,
+        "num": 331614,
+        "word": "夫妻离婚欲分割孩子26.5万压岁钱",
+        "onboard_time": 1717047859,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671974,
+        "num": 330865,
+        "word": "做孕检时还在踩奶的小猫",
+        "onboard_time": 1717048518,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336673,
+        "num": 330792,
+        "word": "高卿尘表白被拒暴瘦32斤",
+        "onboard_time": 1717050978,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370792,
+        "num": 330777,
+        "word": "张若昀唐艺昕结婚七年了",
+        "onboard_time": 1717055958,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329582,
+        "num": 329582,
+        "word": "庆余年第二季大结局点映礼",
+        "onboard_time": 1717045581,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328442,
+        "num": 328442,
+        "word": "王楚然回应臭脸",
+        "onboard_time": 1717041799,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267454,
+        "num": 267454,
+        "word": "朋友圈弄个三天可见",
+        "onboard_time": 1717038438,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230592,
+        "num": 230592,
+        "word": "Hero除小义外全员挂牌",
+        "onboard_time": 1717055898,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230027,
+        "num": 230027,
+        "word": "中国名字最难听的水果",
+        "onboard_time": 1717051757,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 218364,
+        "num": 218364,
+        "word": "蒲熠星文韬逆风局的神",
+        "onboard_time": 1717056798,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215032,
+        "num": 215032,
+        "word": "冯小刚电影 赵丽颖迪丽热巴",
+        "onboard_time": 1717043179,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212864,
+        "num": 212864,
+        "word": "闵熙珍不卸任",
+        "onboard_time": 1717057158,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196522,
+        "num": 196522,
+        "word": "一杯霸王茶姬万里木兰相当于5罐红牛",
+        "onboard_time": 1717055838,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180698,
+        "num": 180698,
+        "word": "以后不许再叫自己牛马了",
+        "onboard_time": 1717054217,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171050,
+        "num": 171050,
+        "word": "女子把爷爷民国时期结婚证打手镯",
+        "onboard_time": 1717042458,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57319,
+        "num": 169072,
+        "word": "先来京东领20元",
+        "onboard_time": 1717056918,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168763,
+        "num": 168763,
+        "word": "孙颖莎 希望之后呈现更精彩的表现",
+        "onboard_time": 1717055418,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155889,
+        "num": 155889,
+        "word": "阿布说Meiko有可能回EDG",
+        "onboard_time": 1717055898,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152694,
+        "num": 152694,
+        "word": "迪丽热巴或将出EP",
+        "onboard_time": 1717049537,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151541,
+        "num": 151541,
+        "word": "中方愿同阿方加强载人航天合作",
+        "onboard_time": 1717054997,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22826,
+        "num": 149586,
+        "word": "胜利油田为高考加油打气",
+        "onboard_time": 1717056018,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149525,
+        "num": 149525,
+        "word": "王星越吴谨言吻戏",
+        "onboard_time": 1717056018,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142305,
+        "num": 142305,
+        "word": "戚薇 如果爱忘了",
+        "onboard_time": 1717048579,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138098,
+        "num": 138098,
+        "word": "周杰伦林俊杰张杰六一都开演唱会",
+        "onboard_time": 1717048637,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130481,
+        "num": 130481,
+        "word": "为何大多数人吃虾不吃虫",
+        "onboard_time": 1717050318,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128043,
+        "num": 128043,
+        "word": "范闲 京都手办",
+        "onboard_time": 1717056918,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127602,
+        "num": 127602,
+        "word": "新加坡坠亡女留学生父亲否认家暴",
+        "onboard_time": 1717057098,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121492,
+        "num": 121492,
+        "word": "小米辟谣收购控股恒大汽车",
+        "onboard_time": 1717056377,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119686,
+        "num": 119686,
+        "word": "寻宠师吐槽这一行骗子太多",
+        "onboard_time": 1717057158,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116837,
+        "num": 116837,
+        "word": "孙楠歌手宣传片",
+        "onboard_time": 1717054638,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103642,
+        "num": 103642,
+        "word": "14名反中乱港分子被裁定罪名成立",
+        "onboard_time": 1717051458,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿合作论坛第十届部长级会议#"
+    }
+  }
+}

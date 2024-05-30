@@ -1,7 +1,15 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717054574281,
+  "endTime": 1717057463163,
   "band_list": [
+    {
+      "raw_hot": 4669918,
+      "num": 5839836,
+      "word": "苟仲文涉嫌严重违纪违法",
+      "onboard_time": 1717054997,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 2794414,
       "num": 2794414,
@@ -41,6 +49,14 @@
       "onboard_time": 1717040118,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1300521,
+      "num": 1300521,
+      "word": "华晨宇演唱会震碎肾结石",
+      "onboard_time": 1717052360,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 1286634,
@@ -124,19 +140,11 @@
     },
     {
       "raw_hot": 889217,
-      "num": 271685,
+      "num": 330865,
       "word": "做孕检时还在踩奶的小猫",
       "onboard_time": 1717048518,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 880887,
-      "num": 880887,
-      "word": "华晨宇演唱会震碎肾结石",
-      "onboard_time": 1717052360,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 865944,
@@ -153,6 +161,14 @@
       "onboard_time": 1716992779,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 816342,
+      "num": 656286,
+      "word": "NCT全员掉粉",
+      "onboard_time": 1717055958,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 702504,
@@ -177,6 +193,14 @@
       "onboard_time": 1716991398,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 682247,
+      "num": 682247,
+      "word": "部分毕业生浓烈的上岸思维该反思了",
+      "onboard_time": 1717045100,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 645828,
@@ -211,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 612564,
-      "num": 612564,
-      "word": "部分毕业生浓烈的上岸思维该反思了",
-      "onboard_time": 1717045100,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 608395,
       "num": 608395,
       "word": "快乐老友记",
@@ -249,6 +265,14 @@
       "onboard_time": 1717030759,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588813,
+      "num": 588813,
+      "word": "影子露脸了",
+      "onboard_time": 1717053738,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 576597,
@@ -291,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534031,
+      "num": 476309,
+      "word": "等了范闲五年半个月就播完了",
+      "onboard_time": 1717054578,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 519332,
       "num": 519332,
       "word": "B太举报男子卖鬼秤又给他捐款",
@@ -313,6 +345,22 @@
       "onboard_time": 1716972558,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 506662,
+      "num": 475964,
+      "word": "火箭少女101聚是一团火散是满天星",
+      "onboard_time": 1717055057,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 506254,
+      "num": 506254,
+      "word": "花3万给孩子治近视5个月涨了70度",
+      "onboard_time": 1717048818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505908,
@@ -379,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 441694,
+      "num": 441694,
+      "word": "郑恺苗苗云养亲生的娃",
+      "onboard_time": 1717054277,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438846,
       "num": 438846,
       "word": "2年遭家暴16次女子离婚案开庭",
@@ -393,6 +449,14 @@
       "onboard_time": 1717032437,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433068,
+      "num": 433068,
+      "word": "iPhone顶配机型首次降到8000以内",
+      "onboard_time": 1717056318,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 430167,
@@ -433,6 +497,14 @@
       "onboard_time": 1717048579,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417360,
+      "num": 417360,
+      "word": "婚检只告知男方不告知女方吗",
+      "onboard_time": 1717048157,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 398235,
@@ -480,6 +552,14 @@
       "word": "kep1er确认七人续约",
       "onboard_time": 1717036338,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 370792,
+      "num": 330777,
+      "word": "张若昀唐艺昕结婚七年了",
+      "onboard_time": 1717055958,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -563,22 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283510,
-      "num": 476997,
-      "word": "花3万给孩子治近视5个月涨了70度",
-      "onboard_time": 1717048818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282233,
-      "num": 282233,
-      "word": "婚检只告知男方不告知女方吗",
-      "onboard_time": 1717048157,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 278894,
       "num": 278894,
       "word": "陈萍萍的爱只给了叶轻眉和范闲",
@@ -593,14 +657,6 @@
       "onboard_time": 1717051757,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 273515,
-      "num": 267193,
-      "word": "影子露脸了",
-      "onboard_time": 1717053738,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 270830,
@@ -691,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230592,
+      "num": 230592,
+      "word": "Hero除小义外全员挂牌",
+      "onboard_time": 1717055898,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 228925,
       "num": 228925,
       "word": "东方月初以血吻封缄涂山红红",
@@ -721,6 +785,14 @@
       "onboard_time": 1717047557,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218364,
+      "num": 218364,
+      "word": "蒲熠星文韬逆风局的神",
+      "onboard_time": 1717056798,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 217070,
@@ -761,6 +833,14 @@
       "onboard_time": 1717046658,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212864,
+      "num": 212864,
+      "word": "闵熙珍不卸任",
+      "onboard_time": 1717057158,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 212569,
@@ -883,6 +963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 196522,
+      "num": 196522,
+      "word": "一杯霸王茶姬万里木兰相当于5罐红牛",
+      "onboard_time": 1717055838,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195957,
       "num": 195957,
       "word": "快乐老友记揭榜周五",
@@ -971,20 +1059,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181549,
-      "num": 181549,
-      "word": "郑恺苗苗云养亲生的娃",
-      "onboard_time": 1717054277,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180866,
       "num": 180866,
       "word": "张绍刚情商",
       "onboard_time": 1717037717,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180698,
+      "num": 180698,
+      "word": "以后不许再叫自己牛马了",
+      "onboard_time": 1717054217,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 179193,
@@ -1067,6 +1155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168763,
+      "num": 168763,
+      "word": "孙颖莎 希望之后呈现更精彩的表现",
+      "onboard_time": 1717055418,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168695,
+      "num": 480145,
+      "word": "猫侦探找一只猫一天至少走4万步",
+      "onboard_time": 1717056559,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168441,
       "num": 168441,
       "word": "二十年前的儿童节妆容有多炸裂",
@@ -1139,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155889,
+      "num": 155889,
+      "word": "阿布说Meiko有可能回EDG",
+      "onboard_time": 1717055898,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152710,
       "num": 152710,
       "word": "王俊凯唱完蔡依林唱周杰伦",
@@ -1171,12 +1283,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151541,
+      "num": 151541,
+      "word": "中方愿同阿方加强载人航天合作",
+      "onboard_time": 1717054997,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 149657,
       "num": 149657,
       "word": "中国科学报携8名学者入驻微博",
       "onboard_time": 1717024575,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 149525,
+      "num": 149525,
+      "word": "王星越吴谨言吻戏",
+      "onboard_time": 1717056018,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 146273,
@@ -1323,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128043,
+      "num": 128043,
+      "word": "范闲 京都手办",
+      "onboard_time": 1717056918,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127605,
       "num": 127605,
       "word": "红十字会回应直升机送烤全羊视频",
@@ -1331,12 +1467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127596,
-      "num": 127596,
-      "word": "以后不许再叫自己牛马了",
-      "onboard_time": 1717054217,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 127602,
+      "num": 127602,
+      "word": "新加坡坠亡女留学生父亲否认家暴",
+      "onboard_time": 1717057098,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126614,
@@ -1427,6 +1563,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 121492,
+      "num": 121492,
+      "word": "小米辟谣收购控股恒大汽车",
+      "onboard_time": 1717056377,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 119686,
+      "num": 119686,
+      "word": "寻宠师吐槽这一行骗子太多",
+      "onboard_time": 1717057158,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119114,
       "num": 119114,
       "word": "肉毒素中毒严重或危及生命",
@@ -1449,6 +1601,14 @@
       "onboard_time": 1716992779,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116837,
+      "num": 116837,
+      "word": "孙楠歌手宣传片",
+      "onboard_time": 1717054638,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 115393,
@@ -1505,6 +1665,14 @@
       "onboard_time": 1716987739,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109630,
+      "num": 1166379,
+      "word": "课本中的夏天",
+      "onboard_time": 1717057278,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107164,
@@ -1715,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57319,
+      "num": 169072,
+      "word": "先来京东领20元",
+      "onboard_time": 1717056918,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 55790,
       "num": 55790,
       "word": "广美学生毕设以父亲为原型铸钢雕",
@@ -1811,6 +1987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27713,
+      "num": 336453,
+      "word": "全国科技工作者日",
+      "onboard_time": 1717026436,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27406,
       "num": 351665,
       "word": "国产疫苗国际合作持续加速",
@@ -1841,6 +2025,14 @@
       "onboard_time": 1716999915,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22826,
+      "num": 149586,
+      "word": "胜利油田为高考加油打气",
+      "onboard_time": 1717056018,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 20123,

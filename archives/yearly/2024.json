@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717054574281,
+  "endTime": 1717057463163,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1707811294,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4669918,
+      "num": 5839836,
+      "word": "苟仲文涉嫌严重违纪违法",
+      "onboard_time": 1717054997,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 4648848,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1714705640,
       "rank": 5,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 3037342,
-      "num": 3037342,
-      "word": "最高检谈未成年人故意杀人等严重犯罪",
-      "onboard_time": 1711069459,
-      "rank": 3,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

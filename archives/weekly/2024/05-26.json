@@ -1,12 +1,20 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717054574281,
+  "endTime": 1717057463163,
   "band_list": [
     {
       "raw_hot": 6718022,
       "num": 7968022,
       "word": "华春莹任外交部副部长",
       "onboard_time": 1716776658,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 4669918,
+      "num": 5839836,
+      "word": "苟仲文涉嫌严重违纪违法",
+      "onboard_time": 1717054997,
       "rank": 0,
       "category": "国内时政"
     },
@@ -449,6 +457,14 @@
       "onboard_time": 1716952518,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1300521,
+      "num": 1300521,
+      "word": "华晨宇演唱会震碎肾结石",
+      "onboard_time": 1717052360,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 1298100,
@@ -948,7 +964,7 @@
     },
     {
       "raw_hot": 889217,
-      "num": 271685,
+      "num": 330865,
       "word": "做孕检时还在踩奶的小猫",
       "onboard_time": 1717048518,
       "rank": 20,
@@ -969,14 +985,6 @@
       "onboard_time": 1716983477,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 880887,
-      "num": 880887,
-      "word": "华晨宇演唱会震碎肾结石",
-      "onboard_time": 1717052360,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 880606,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1716783259,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 816342,
+      "num": 656286,
+      "word": "NCT全员掉粉",
+      "onboard_time": 1717055958,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 814964,
@@ -1563,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 682247,
+      "num": 682247,
+      "word": "部分毕业生浓烈的上岸思维该反思了",
+      "onboard_time": 1717045100,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680622,
       "num": 680622,
       "word": "人民文娱评狐妖小红娘月红篇",
@@ -1827,14 +1851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 612564,
-      "num": 612564,
-      "word": "部分毕业生浓烈的上岸思维该反思了",
-      "onboard_time": 1717045100,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 611802,
       "num": 611802,
       "word": "官员用茅台打比方反问央视记者",
@@ -1993,6 +2009,14 @@
       "onboard_time": 1716797778,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588813,
+      "num": 588813,
+      "word": "影子露脸了",
+      "onboard_time": 1717053738,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 587588,
@@ -2267,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534031,
+      "num": 476309,
+      "word": "等了范闲五年半个月就播完了",
+      "onboard_time": 1717054578,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 533042,
       "num": 616295,
       "word": "台湾问题是中国核心利益中的核心",
@@ -2512,6 +2544,22 @@
       "word": "女子目睹网约司机半路接电话后暴哭",
       "onboard_time": 1716726438,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506662,
+      "num": 475964,
+      "word": "火箭少女101聚是一团火散是满天星",
+      "onboard_time": 1717055057,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 506254,
+      "num": 506254,
+      "word": "花3万给孩子治近视5个月涨了70度",
+      "onboard_time": 1717048818,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3027,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441694,
+      "num": 441694,
+      "word": "郑恺苗苗云养亲生的娃",
+      "onboard_time": 1717054277,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440605,
       "num": 440605,
       "word": "英伟达市值一夜暴增1.35万亿",
@@ -3105,6 +3161,14 @@
       "onboard_time": 1717032437,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433068,
+      "num": 433068,
+      "word": "iPhone顶配机型首次降到8000以内",
+      "onboard_time": 1717056318,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 430167,
@@ -3281,6 +3345,14 @@
       "onboard_time": 1717048579,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417360,
+      "num": 417360,
+      "word": "婚检只告知男方不告知女方吗",
+      "onboard_time": 1717048157,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 412039,
@@ -3721,6 +3793,14 @@
       "onboard_time": 1716710838,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370792,
+      "num": 330777,
+      "word": "张若昀唐艺昕结婚七年了",
+      "onboard_time": 1717055958,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 370735,
@@ -4667,22 +4747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 283510,
-      "num": 476997,
-      "word": "花3万给孩子治近视5个月涨了70度",
-      "onboard_time": 1717048818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282233,
-      "num": 282233,
-      "word": "婚检只告知男方不告知女方吗",
-      "onboard_time": 1717048157,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 281604,
       "num": 281604,
       "word": "巴新山体滑坡估算超670人死亡",
@@ -4793,14 +4857,6 @@
       "onboard_time": 1716679153,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 273515,
-      "num": 267193,
-      "word": "影子露脸了",
-      "onboard_time": 1717053738,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 273267,
@@ -5587,6 +5643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230592,
+      "num": 230592,
+      "word": "Hero除小义外全员挂牌",
+      "onboard_time": 1717055898,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 230484,
       "num": 220935,
       "word": "胡歌 人生有很多预料不到的下一秒",
@@ -5963,6 +6027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218364,
+      "num": 218364,
+      "word": "蒲熠星文韬逆风局的神",
+      "onboard_time": 1717056798,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218359,
       "num": 206837,
       "word": "董洁 短裙叠短裤",
@@ -6113,6 +6185,14 @@
       "onboard_time": 1716700338,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212864,
+      "num": 212864,
+      "word": "闵熙珍不卸任",
+      "onboard_time": 1717057158,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 212569,
@@ -6859,6 +6939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196522,
+      "num": 196522,
+      "word": "一杯霸王茶姬万里木兰相当于5罐红牛",
+      "onboard_time": 1717055838,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 196386,
       "num": 196386,
       "word": "71岁男子持石块击打61岁男子致其死亡",
@@ -7603,14 +7691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181549,
-      "num": 181549,
-      "word": "郑恺苗苗云养亲生的娃",
-      "onboard_time": 1717054277,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181298,
       "num": 181298,
       "word": "刘宇宁和黑粉签订三十年之约",
@@ -7649,6 +7729,14 @@
       "onboard_time": 1717037717,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180698,
+      "num": 180698,
+      "word": "以后不许再叫自己牛马了",
+      "onboard_time": 1717054217,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 180579,
@@ -8161,6 +8249,22 @@
       "onboard_time": 1716788118,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168763,
+      "num": 168763,
+      "word": "孙颖莎 希望之后呈现更精彩的表现",
+      "onboard_time": 1717055418,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168695,
+      "num": 480145,
+      "word": "猫侦探找一只猫一天至少走4万步",
+      "onboard_time": 1717056559,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168636,
@@ -8723,6 +8827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155889,
+      "num": 155889,
+      "word": "阿布说Meiko有可能回EDG",
+      "onboard_time": 1717055898,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155543,
       "num": 155543,
       "word": "税务机关回应王妈评论区被查税刷屏",
@@ -8939,6 +9051,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 151541,
+      "num": 151541,
+      "word": "中方愿同阿方加强载人航天合作",
+      "onboard_time": 1717054997,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151188,
       "num": 151188,
       "word": "魏哲鸣 舒适区并不舒适",
@@ -8991,6 +9111,14 @@
       "num": 149568,
       "word": "没有人天生应该对你好 爹例外",
       "onboard_time": 1716790877,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149525,
+      "num": 149525,
+      "word": "王星越吴谨言吻戏",
+      "onboard_time": 1717056018,
       "rank": 40,
       "category": "剧集"
     },
@@ -10275,6 +10403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128043,
+      "num": 128043,
+      "word": "范闲 京都手办",
+      "onboard_time": 1717056918,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127987,
       "num": 127987,
       "word": "WBG官宣2024夏季赛大名单",
@@ -10291,12 +10427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127596,
-      "num": 127596,
-      "word": "以后不许再叫自己牛马了",
-      "onboard_time": 1717054217,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 127602,
+      "num": 127602,
+      "word": "新加坡坠亡女留学生父亲否认家暴",
+      "onboard_time": 1717057098,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127535,
@@ -10683,6 +10819,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 121492,
+      "num": 121492,
+      "word": "小米辟谣收购控股恒大汽车",
+      "onboard_time": 1717056377,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 121474,
       "num": 121474,
       "word": "从业者称MCN单休加班较普遍",
@@ -10785,6 +10929,14 @@
       "onboard_time": 1716709757,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119686,
+      "num": 119686,
+      "word": "寻宠师吐槽这一行骗子太多",
+      "onboard_time": 1717057158,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119612,
@@ -10953,6 +11105,14 @@
       "onboard_time": 1716992779,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116837,
+      "num": 116837,
+      "word": "孙楠歌手宣传片",
+      "onboard_time": 1717054638,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 116531,
@@ -11297,6 +11457,14 @@
       "onboard_time": 1716878177,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109630,
+      "num": 1166379,
+      "word": "课本中的夏天",
+      "onboard_time": 1717057278,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109483,
@@ -12467,6 +12635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 57319,
+      "num": 169072,
+      "word": "先来京东领20元",
+      "onboard_time": 1717056918,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 56179,
       "num": 165330,
       "word": "云南野生菌安全提示短信变吃菌通知",
@@ -13091,6 +13267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27713,
+      "num": 336453,
+      "word": "全国科技工作者日",
+      "onboard_time": 1717026436,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27406,
       "num": 351665,
       "word": "国产疫苗国际合作持续加速",
@@ -13169,6 +13353,14 @@
       "onboard_time": 1716803178,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22826,
+      "num": 149586,
+      "word": "胜利油田为高考加油打气",
+      "onboard_time": 1717056018,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 20672,
