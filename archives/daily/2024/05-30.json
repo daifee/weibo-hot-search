@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717043121419,
+  "endTime": 1717043931171,
   "band_list": [
     {
       "raw_hot": 2215557,
@@ -9,6 +9,14 @@
       "onboard_time": 1717028538,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1960149,
+      "num": 1960149,
+      "word": "炎亚纶被判7个月缓刑3年",
+      "onboard_time": 1717042518,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1495325,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1128854,
-      "num": 304597,
+      "num": 355783,
       "word": "朋友圈弄个三天可见",
       "onboard_time": 1717038438,
       "rank": 20,
@@ -59,20 +67,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 983017,
+      "num": 983017,
+      "word": "王楚然回应臭脸",
+      "onboard_time": 1717041799,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 981450,
       "num": 981450,
       "word": "星巴克也急了",
       "onboard_time": 1717033396,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 876067,
-      "num": 876067,
-      "word": "王楚然回应臭脸",
-      "onboard_time": 1717041799,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 863663,
@@ -115,6 +123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 633888,
+      "num": 558976,
+      "word": "冯小刚电影 赵丽颖迪丽热巴",
+      "onboard_time": 1717043179,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 618757,
       "num": 618757,
       "word": "全世界的大宗师都吻了上来",
@@ -155,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 575153,
-      "num": 575153,
-      "word": "炎亚纶被判7个月缓刑3年",
-      "onboard_time": 1717042518,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 562494,
       "num": 389600,
       "word": "新生男婴被父母以5万卖掉",
@@ -184,6 +192,14 @@
       "word": "孩子为啥养臭水",
       "onboard_time": 1717037237,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534351,
+      "num": 534351,
+      "word": "小米空调半夜掉了险些砸中2岁女儿",
+      "onboard_time": 1717042640,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -235,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466149,
+      "num": 466149,
+      "word": "支持巴勒斯坦成为联合国正式会员国",
+      "onboard_time": 1717040057,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 450071,
       "num": 198013,
       "word": "小孩哥 生自己的妈自己养",
       "onboard_time": 1717031837,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438956,
+      "num": 438956,
+      "word": "女子把爷爷民国时期结婚证打手镯",
+      "onboard_time": 1717042458,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438846,
@@ -291,14 +323,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 394521,
-      "num": 394521,
-      "word": "支持巴勒斯坦成为联合国正式会员国",
-      "onboard_time": 1717040057,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 388871,
       "num": 388871,
       "word": "华春莹发加沙女孩流浪视频",
@@ -339,11 +363,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 346044,
-      "num": 346044,
-      "word": "小米空调半夜掉了险些砸中2岁女儿",
-      "onboard_time": 1717042640,
-      "rank": 17,
+      "raw_hot": 350410,
+      "num": 350410,
+      "word": "希尔顿回应",
+      "onboard_time": 1717042159,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -371,20 +395,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 316863,
-      "num": 316863,
-      "word": "希尔顿回应",
-      "onboard_time": 1717042159,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304674,
       "num": 118132,
       "word": "小米高管抽奖抽中爱国网友",
       "onboard_time": 1716998897,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 304152,
+      "num": 304152,
+      "word": "毕业生称用学校邮箱后求职回复率翻倍",
+      "onboard_time": 1717043301,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278894,
@@ -459,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232329,
-      "num": 232329,
-      "word": "女子把爷爷民国时期结婚证打手镯",
-      "onboard_time": 1717042458,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228925,
       "num": 228925,
       "word": "东方月初以血吻封缄涂山红红",
@@ -507,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213458,
+      "num": 213458,
+      "word": "婚后发现丈夫没工作起诉离婚获支持",
+      "onboard_time": 1717042640,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211509,
       "num": 118956,
       "word": "苗苗选择跟郑恺在一起的原因",
@@ -516,7 +540,7 @@
     },
     {
       "raw_hot": 209781,
-      "num": 209781,
+      "num": 534470,
       "word": "这一届大学生竟然已经这么牛了",
       "onboard_time": 1717040297,
       "rank": 29,
@@ -529,6 +553,14 @@
       "onboard_time": 1717041977,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206158,
+      "num": 206158,
+      "word": "为什么女性在婚姻里承担了更多家务",
+      "onboard_time": 1717043360,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 206083,
@@ -683,11 +715,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171675,
+      "num": 171675,
+      "word": "原来经口呼吸真的会变丑",
+      "onboard_time": 1717040238,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 171528,
       "num": 171528,
       "word": "补位受害者",
       "onboard_time": 1717032316,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169499,
+      "num": 169499,
+      "word": "周五的综艺到底看哪个啊",
+      "onboard_time": 1717043660,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -747,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153901,
-      "num": 153901,
-      "word": "婚后发现丈夫没工作起诉离婚获支持",
-      "onboard_time": 1717042640,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152710,
       "num": 152710,
       "word": "王俊凯唱完蔡依林唱周杰伦",
@@ -763,28 +803,20 @@
       "category": "演出,综艺"
     },
     {
+      "raw_hot": 152351,
+      "num": 152351,
+      "word": "苗条的妈妈和她健硕的好大儿",
+      "onboard_time": 1717042580,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151603,
       "num": 151603,
       "word": "贵州茅台每10股分红308.76元",
       "onboard_time": 1717034957,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 151068,
-      "num": 151068,
-      "word": "原来经口呼吸真的会变丑",
-      "onboard_time": 1717040238,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 150452,
-      "num": 150452,
-      "word": "苗条的妈妈和她健硕的好大儿",
-      "onboard_time": 1717042580,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 149657,
@@ -1051,11 +1083,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106541,
+      "num": 549245,
+      "word": "中国科学家的话听到泪目",
+      "onboard_time": 1717041618,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 104921,
       "num": 104921,
       "word": "王楚然早八妆",
       "onboard_time": 1716993500,
       "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104780,
+      "num": 545647,
+      "word": "成毅的长腿朋友",
+      "onboard_time": 1717040177,
+      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -1163,22 +1211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 80125,
-      "num": 545647,
-      "word": "成毅的长腿朋友",
-      "onboard_time": 1717040177,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 76827,
-      "num": 549245,
-      "word": "中国科学家的话听到泪目",
-      "onboard_time": 1717041618,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 73290,
       "num": 73290,
       "word": "张杰说Precious是为女儿写的歌",
@@ -1188,7 +1220,7 @@
     },
     {
       "raw_hot": 71106,
-      "num": 348505,
+      "num": 466649,
       "word": "极氪007刷新浙赛纪录",
       "onboard_time": 1717041318,
       "rank": 16,
@@ -1201,6 +1233,14 @@
       "onboard_time": 1716979157,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 67663,
+      "num": 315471,
+      "word": "颜宁荣获世界杰出女科学家奖",
+      "onboard_time": 1717041738,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67398,
@@ -1217,14 +1257,6 @@
       "onboard_time": 1716992419,
       "rank": 49,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 63905,
-      "num": 282761,
-      "word": "颜宁荣获世界杰出女科学家奖",
-      "onboard_time": 1717041738,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62758,

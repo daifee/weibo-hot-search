@@ -1,0 +1,410 @@
+{
+  "runTime": 1717043931171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1960149,
+        "num": 1960149,
+        "word": "炎亚纶被判7个月缓刑3年",
+        "onboard_time": 1717042518,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1361197,
+        "num": 1361197,
+        "word": "大厂员工离职后卖蕉绿月入200万",
+        "onboard_time": 1717040118,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46284,
+        "num": 1089488,
+        "word": "今天发条微博致敬科技工作者",
+        "onboard_time": 1717037537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005037,
+        "num": 1005037,
+        "word": "考完试故意把分数算得很低",
+        "onboard_time": 1717037296,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 983017,
+        "num": 983017,
+        "word": "王楚然回应臭脸",
+        "onboard_time": 1717041799,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561590,
+        "num": 561590,
+        "word": "新加坡坠亡女留学生曾遭父亲家暴",
+        "onboard_time": 1717040238,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872425,
+        "num": 561087,
+        "word": "炎亚纶案一审判决结果",
+        "onboard_time": 1717041078,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633888,
+        "num": 558976,
+        "word": "冯小刚电影 赵丽颖迪丽热巴",
+        "onboard_time": 1717043179,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 534646,
+        "num": 534646,
+        "word": "星巴克也急了",
+        "onboard_time": 1717033396,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174977,
+        "num": 534470,
+        "word": "这一届大学生竟然已经这么牛了",
+        "onboard_time": 1717040297,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 882633,
+        "num": 534444,
+        "word": "希尔顿一会员夜不归宿被扣3000元",
+        "onboard_time": 1717028538,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104780,
+        "num": 534397,
+        "word": "成毅的长腿朋友",
+        "onboard_time": 1717040177,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 534351,
+        "num": 534351,
+        "word": "小米空调半夜掉了险些砸中2岁女儿",
+        "onboard_time": 1717042640,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531487,
+        "num": 531487,
+        "word": "英国议会宣布正式解散",
+        "onboard_time": 1717035316,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 469163,
+        "num": 469163,
+        "word": "孩子为啥养臭水",
+        "onboard_time": 1717037237,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60074,
+        "num": 466649,
+        "word": "极氪007刷新浙赛纪录",
+        "onboard_time": 1717041318,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 466149,
+        "num": 466149,
+        "word": "支持巴勒斯坦成为联合国正式会员国",
+        "onboard_time": 1717040057,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 438956,
+        "num": 438956,
+        "word": "女子把爷爷民国时期结婚证打手镯",
+        "onboard_time": 1717042458,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400219,
+        "num": 400219,
+        "word": "2年遭家暴16次女子离婚案开庭",
+        "onboard_time": 1717039099,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 360356,
+        "num": 360356,
+        "word": "快乐老友记",
+        "onboard_time": 1717037899,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 733105,
+        "num": 355783,
+        "word": "朋友圈弄个三天可见",
+        "onboard_time": 1717038438,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350410,
+        "num": 350410,
+        "word": "希尔顿回应",
+        "onboard_time": 1717042159,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67663,
+        "num": 315471,
+        "word": "颜宁荣获世界杰出女科学家奖",
+        "onboard_time": 1717041738,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304152,
+        "num": 304152,
+        "word": "毕业生称用学校邮箱后求职回复率翻倍",
+        "onboard_time": 1717043301,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274063,
+        "num": 274063,
+        "word": "范闲 奶奶的梦中情孙",
+        "onboard_time": 1717034537,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270455,
+        "num": 270455,
+        "word": "被隐形家务震惊到了",
+        "onboard_time": 1717029558,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267148,
+        "num": 267148,
+        "word": "ive",
+        "onboard_time": 1717038018,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232345,
+        "num": 232345,
+        "word": "全职高手第三季开播",
+        "onboard_time": 1717042580,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 224989,
+        "num": 224989,
+        "word": "JYP承认NMIXX音响事故为事前安排",
+        "onboard_time": 1717033577,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216764,
+        "num": 216764,
+        "word": "新生男婴被父母以5万卖掉",
+        "onboard_time": 1717035256,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 237033,
+        "num": 215486,
+        "word": "伊利牛奶",
+        "onboard_time": 1717037836,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213458,
+        "num": 213458,
+        "word": "婚后发现丈夫没工作起诉离婚获支持",
+        "onboard_time": 1717042640,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206158,
+        "num": 206158,
+        "word": "为什么女性在婚姻里承担了更多家务",
+        "onboard_time": 1717043360,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205831,
+        "num": 205831,
+        "word": "范闲手术出现幻觉",
+        "onboard_time": 1717041977,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204108,
+        "num": 204108,
+        "word": "张若昀曾帮毛晓彤解围",
+        "onboard_time": 1717028658,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171675,
+        "num": 171675,
+        "word": "原来经口呼吸真的会变丑",
+        "onboard_time": 1717040238,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169499,
+        "num": 169499,
+        "word": "周五的综艺到底看哪个啊",
+        "onboard_time": 1717043660,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164503,
+        "num": 164503,
+        "word": "kep1er确认七人续约",
+        "onboard_time": 1717036338,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157980,
+        "num": 157980,
+        "word": "乘风直播赛歌单",
+        "onboard_time": 1717042580,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156679,
+        "num": 156679,
+        "word": "张真源 我可没忽悠你们",
+        "onboard_time": 1717038857,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152983,
+        "num": 152983,
+        "word": "庆帝PUA范闲",
+        "onboard_time": 1717040957,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152351,
+        "num": 152351,
+        "word": "苗条的妈妈和她健硕的好大儿",
+        "onboard_time": 1717042580,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150667,
+        "num": 150667,
+        "word": "无锡晋升2024新一线",
+        "onboard_time": 1717035556,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140739,
+        "num": 140739,
+        "word": "快乐老友记2电子榨菜回来了",
+        "onboard_time": 1717042219,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136032,
+        "num": 136032,
+        "word": "杭州位列2024新一线第2",
+        "onboard_time": 1717041078,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127048,
+        "num": 127048,
+        "word": "清北毕业爸爸辅导孩子数学也抓狂",
+        "onboard_time": 1717030759,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125543,
+        "num": 125543,
+        "word": "谁能想到义乌今年最火的是中东菜",
+        "onboard_time": 1717043060,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115154,
+        "num": 115154,
+        "word": "境外资本大举买入中国股票ETF",
+        "onboard_time": 1717035197,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110300,
+        "num": 110300,
+        "word": "二十年前的儿童节妆容有多炸裂",
+        "onboard_time": 1717037657,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106541,
+        "num": 106541,
+        "word": "中国科学家的话听到泪目",
+        "onboard_time": 1717041618,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿合作论坛第十届部长级会议#"
+    }
+  }
+}
