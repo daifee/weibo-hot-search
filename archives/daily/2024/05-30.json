@@ -1,7 +1,15 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717043931171,
+  "endTime": 1717046309075,
   "band_list": [
+    {
+      "raw_hot": 2794414,
+      "num": 2794414,
+      "word": "炎亚纶被判7个月缓刑3年",
+      "onboard_time": 1717042518,
+      "rank": 7,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2215557,
       "num": 2215557,
@@ -9,14 +17,6 @@
       "onboard_time": 1717028538,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1960149,
-      "num": 1960149,
-      "word": "炎亚纶被判7个月缓刑3年",
-      "onboard_time": 1717042518,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 1495325,
@@ -83,6 +83,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 959464,
+      "num": 959464,
+      "word": "小米空调半夜掉了险些砸中2岁女儿",
+      "onboard_time": 1717042640,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 943047,
+      "num": 943047,
+      "word": "冯小刚电影 赵丽颖迪丽热巴",
+      "onboard_time": 1717043179,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 863663,
       "num": 604869,
       "word": "浙江隐秘富豪家族覆灭",
@@ -107,6 +123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 684031,
+      "num": 590764,
+      "word": "庆余年第二季大结局点映礼",
+      "onboard_time": 1717045581,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 645828,
       "num": 645828,
       "word": "JYP承认NMIXX音响事故为事前安排",
@@ -123,20 +147,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 633888,
-      "num": 558976,
-      "word": "冯小刚电影 赵丽颖迪丽热巴",
-      "onboard_time": 1717043179,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 618757,
       "num": 618757,
       "word": "全世界的大宗师都吻了上来",
       "onboard_time": 1716992598,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 614601,
+      "num": 614601,
+      "word": "女子把爷爷民国时期结婚证打手镯",
+      "onboard_time": 1717042458,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608395,
@@ -171,6 +195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594677,
+      "num": 521714,
+      "word": "韩国宣布将在2045年前登陆火星",
+      "onboard_time": 1717044979,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 569138,
+      "num": 569138,
+      "word": "武大回应选调生离职事件",
+      "onboard_time": 1717044439,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562494,
       "num": 389600,
       "word": "新生男婴被父母以5万卖掉",
@@ -192,14 +232,6 @@
       "word": "孩子为啥养臭水",
       "onboard_time": 1717037237,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534351,
-      "num": 534351,
-      "word": "小米空调半夜掉了险些砸中2岁女儿",
-      "onboard_time": 1717042640,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -251,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474783,
+      "num": 474783,
+      "word": "vava被GAI气哭了",
+      "onboard_time": 1717044200,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466149,
       "num": 466149,
       "word": "支持巴勒斯坦成为联合国正式会员国",
@@ -267,14 +307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 438956,
-      "num": 438956,
-      "word": "女子把爷爷民国时期结婚证打手镯",
-      "onboard_time": 1717042458,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438846,
       "num": 438846,
       "word": "2年遭家暴16次女子离婚案开庭",
@@ -289,6 +321,14 @@
       "onboard_time": 1717032437,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430167,
+      "num": 430167,
+      "word": "毕业生称用学校邮箱后求职回复率翻倍",
+      "onboard_time": 1717043301,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428854,
@@ -403,12 +443,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 304152,
-      "num": 304152,
-      "word": "毕业生称用学校邮箱后求职回复率翻倍",
-      "onboard_time": 1717043301,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 296385,
+      "num": 296385,
+      "word": "周五的综艺到底看哪个啊",
+      "onboard_time": 1717043660,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295504,
+      "num": 295504,
+      "word": "光与夜之恋",
+      "onboard_time": 1717044620,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 278894,
@@ -435,12 +483,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 267880,
+      "num": 267880,
+      "word": "婚后发现丈夫没工作起诉离婚获支持",
+      "onboard_time": 1717042640,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258634,
       "num": 197424,
       "word": "37周孕妇糖耐不过在家锻炼",
       "onboard_time": 1716995178,
       "rank": 21,
       "category": "母婴育儿,运动健身"
+    },
+    {
+      "raw_hot": 256382,
+      "num": 256382,
+      "word": "那英将在歌手尝试国风",
+      "onboard_time": 1717046299,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 247115,
@@ -467,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237768,
+      "num": 237768,
+      "word": "武大选调生",
+      "onboard_time": 1717044500,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235402,
       "num": 235402,
       "word": "央广网评网红王妈翻车",
@@ -483,12 +555,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235098,
+      "num": 235098,
+      "word": "迪丽热巴校服唱歌",
+      "onboard_time": 1717045153,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228925,
       "num": 228925,
       "word": "东方月初以血吻封缄涂山红红",
       "onboard_time": 1717032916,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226540,
+      "num": 226540,
+      "word": "部分毕业生浓烈的上岸思维该反思了",
+      "onboard_time": 1717045100,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223668,
+      "num": 545647,
+      "word": "成毅的长腿朋友",
+      "onboard_time": 1717040177,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223282,
@@ -523,20 +619,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213458,
-      "num": 213458,
-      "word": "婚后发现丈夫没工作起诉离婚获支持",
-      "onboard_time": 1717042640,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211509,
       "num": 118956,
       "word": "苗苗选择跟郑恺在一起的原因",
       "onboard_time": 1716978019,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210794,
+      "num": 210794,
+      "word": "庆余年",
+      "onboard_time": 1717004712,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 209781,
@@ -731,12 +827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169499,
-      "num": 169499,
-      "word": "周五的综艺到底看哪个啊",
-      "onboard_time": 1717043660,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 171354,
+      "num": 171354,
+      "word": "健身房究竟有多脏",
+      "onboard_time": 1717045759,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 169473,
+      "num": 169473,
+      "word": "杭州位列2024新一线第2",
+      "onboard_time": 1717041078,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168441,
@@ -803,12 +907,28 @@
       "category": "演出,综艺"
     },
     {
+      "raw_hot": 152415,
+      "num": 152415,
+      "word": "张若昀毛晓彤庆余年2是三搭",
+      "onboard_time": 1717046179,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152351,
       "num": 152351,
       "word": "苗条的妈妈和她健硕的好大儿",
       "onboard_time": 1717042580,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152104,
+      "num": 152104,
+      "word": "原神克洛琳德",
+      "onboard_time": 1717046119,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 151603,
@@ -857,14 +977,6 @@
       "onboard_time": 1716986658,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142586,
-      "num": 142586,
-      "word": "杭州位列2024新一线第2",
-      "onboard_time": 1717041078,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142501,
@@ -1099,14 +1211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 104780,
-      "num": 545647,
-      "word": "成毅的长腿朋友",
-      "onboard_time": 1717040177,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 104489,
       "num": 197812,
       "word": "刚领完奖他就跑车站抓获涉毒嫌疑人",
@@ -1211,6 +1315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83362,
+      "num": 315471,
+      "word": "颜宁荣获世界杰出女科学家奖",
+      "onboard_time": 1717041738,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73290,
       "num": 73290,
       "word": "张杰说Precious是为女儿写的歌",
@@ -1233,14 +1345,6 @@
       "onboard_time": 1716979157,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 67663,
-      "num": 315471,
-      "word": "颜宁荣获世界杰出女科学家奖",
-      "onboard_time": 1717041738,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67398,
@@ -1297,6 +1401,14 @@
       "onboard_time": 1716990257,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52946,
+      "num": 536080,
+      "word": "先己后人也是一种漂亮的活法",
+      "onboard_time": 1717045400,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 51568,
@@ -1417,14 +1529,6 @@
       "onboard_time": 1717010532,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13720,
-      "num": 16148,
-      "word": "庆余年",
-      "onboard_time": 1717004712,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 13435,
