@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717050331802,
+  "endTime": 1717051079307,
   "band_list": [
     {
       "raw_hot": 2794414,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 947793,
+      "num": 947793,
+      "word": "霸王茶姬回应喝万里木兰睡不着",
+      "onboard_time": 1717047918,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 943047,
       "num": 943047,
       "word": "冯小刚电影 赵丽颖迪丽热巴",
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 844587,
-      "num": 844587,
-      "word": "霸王茶姬回应喝万里木兰睡不着",
-      "onboard_time": 1717047918,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 714571,
+      "raw_hot": 809931,
       "num": 229638,
       "word": "做孕检时还在踩奶的小猫",
       "onboard_time": 1717048518,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 702504,
+      "num": 702504,
+      "word": "夫妻离婚欲分割孩子26.5万压岁钱",
+      "onboard_time": 1717047859,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 698226,
@@ -153,14 +161,6 @@
       "onboard_time": 1716991398,
       "rank": 0,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 658787,
-      "num": 658787,
-      "word": "夫妻离婚欲分割孩子26.5万压岁钱",
-      "onboard_time": 1717047859,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 645828,
@@ -243,6 +243,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 555712,
+      "num": 555712,
+      "word": "部分毕业生浓烈的上岸思维该反思了",
+      "onboard_time": 1717045100,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553608,
       "num": 553608,
       "word": "张小斐 第一章回国",
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505329,
+      "num": 505329,
+      "word": "迪丽热巴或将出EP",
+      "onboard_time": 1717049537,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502856,
       "num": 502856,
       "word": "范闲 奶奶的梦中情孙",
@@ -304,14 +320,6 @@
       "word": "伊利牛奶",
       "onboard_time": 1717037836,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477608,
-      "num": 477608,
-      "word": "部分毕业生浓烈的上岸思维该反思了",
-      "onboard_time": 1717045100,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -345,14 +353,6 @@
       "onboard_time": 1717039099,
       "rank": 43,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 434323,
-      "num": 332930,
-      "word": "迪丽热巴或将出EP",
-      "onboard_time": 1717049537,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 433542,
@@ -491,6 +491,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 322816,
+      "num": 194157,
+      "word": "张若昀拿到叶轻眉遗物",
+      "onboard_time": 1717050198,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 319500,
+      "num": 319500,
+      "word": "周杰伦林俊杰张杰六一都开演唱会",
+      "onboard_time": 1717048637,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 310015,
       "num": 296385,
       "word": "周五的综艺到底看哪个啊",
@@ -611,20 +627,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229174,
-      "num": 229174,
-      "word": "周杰伦林俊杰张杰六一都开演唱会",
-      "onboard_time": 1717048637,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 228925,
       "num": 228925,
       "word": "东方月初以血吻封缄涂山红红",
       "onboard_time": 1717032916,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228700,
+      "num": 228700,
+      "word": "Hero祝福无畏未来一帆风顺",
+      "onboard_time": 1717050377,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 223668,
@@ -691,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212569,
+      "num": 212569,
+      "word": "孙颖莎3比0伯格斯特隆",
+      "onboard_time": 1717050438,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211509,
       "num": 118956,
       "word": "苗苗选择跟郑恺在一起的原因",
@@ -721,6 +745,14 @@
       "onboard_time": 1717041977,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208813,
+      "num": 208813,
+      "word": "夏之光因黄子韬进娱乐圈",
+      "onboard_time": 1717050619,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 206158,
@@ -755,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200507,
+      "num": 200507,
+      "word": "庆余年年余庆",
+      "onboard_time": 1717050619,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199765,
       "num": 199765,
       "word": "健身房究竟有多脏",
@@ -785,6 +825,14 @@
       "onboard_time": 1717030339,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 193644,
+      "num": 193644,
+      "word": "星痕铃铛傲寒挂牌",
+      "onboard_time": 1717050619,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 191008,
@@ -1035,14 +1083,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 148302,
-      "num": 127968,
-      "word": "张若昀拿到叶轻眉遗物",
-      "onboard_time": 1717050198,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146273,
       "num": 146273,
       "word": "短剧届有自己的凤凰传奇",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1717029018,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145896,
+      "num": 145896,
+      "word": "为何大多数人吃虾不吃虫",
+      "onboard_time": 1717050318,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 145638,
@@ -1115,6 +1163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 131745,
+      "num": 476997,
+      "word": "花3万给孩子治近视5个月涨了70度",
+      "onboard_time": 1717048818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131323,
       "num": 131323,
       "word": "张若昀每天都给唐艺昕做早餐",
@@ -1160,6 +1216,14 @@
       "word": "冰岛一火山再喷发岩浆高达50米",
       "onboard_time": 1717035017,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127605,
+      "num": 127605,
+      "word": "红十字会回应直升机送烤全羊视频",
+      "onboard_time": 1717050079,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1243,20 +1307,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 121411,
-      "num": 121411,
-      "word": "红十字会回应直升机送烤全羊视频",
-      "onboard_time": 1717050079,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119114,
       "num": 119114,
       "word": "肉毒素中毒严重或危及生命",
       "onboard_time": 1717026436,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118678,
+      "num": 118678,
+      "word": "高卿尘表白被拒暴瘦32斤",
+      "onboard_time": 1717050978,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 118019,
@@ -1284,7 +1348,7 @@
     },
     {
       "raw_hot": 115093,
-      "num": 115093,
+      "num": 491101,
       "word": "成都为什么连续10年登新一线榜首",
       "onboard_time": 1717047800,
       "rank": 45,
@@ -1379,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101488,
-      "num": 101488,
-      "word": "为何大多数人吃虾不吃虫",
-      "onboard_time": 1717050318,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 100106,
       "num": 100106,
       "word": "费介倒地",
@@ -1475,14 +1531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82943,
-      "num": 476997,
-      "word": "花3万给孩子治近视5个月涨了70度",
-      "onboard_time": 1717048818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73290,
       "num": 73290,
       "word": "张杰说Precious是为女儿写的歌",
@@ -1508,7 +1556,7 @@
     },
     {
       "raw_hot": 70443,
-      "num": 128294,
+      "num": 145261,
       "word": "明天就是京东618",
       "onboard_time": 1717049118,
       "rank": 38,
@@ -1676,7 +1724,7 @@
     },
     {
       "raw_hot": 18406,
-      "num": 187308,
+      "num": 196077,
       "word": "NISSAN智驾好物",
       "onboard_time": 1717048939,
       "rank": 27,

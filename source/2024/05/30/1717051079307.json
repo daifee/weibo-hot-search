@@ -1,0 +1,410 @@
+{
+  "runTime": 1717051079307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1741051,
+        "num": 1741051,
+        "word": "炎亚纶被判7个月缓刑3年",
+        "onboard_time": 1717042518,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1059184,
+        "num": 1059184,
+        "word": "韩国宣布将在2045年前登陆火星",
+        "onboard_time": 1717044979,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31432,
+        "num": 966975,
+        "word": "今天发条微博致敬科技工作者",
+        "onboard_time": 1717037537,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947793,
+        "num": 947793,
+        "word": "霸王茶姬回应喝万里木兰睡不着",
+        "onboard_time": 1717047918,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 702504,
+        "num": 702504,
+        "word": "夫妻离婚欲分割孩子26.5万压岁钱",
+        "onboard_time": 1717047859,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699587,
+        "num": 699587,
+        "word": "庆余年第二季大结局点映礼",
+        "onboard_time": 1717045581,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 601223,
+        "num": 601223,
+        "word": "王楚然回应臭脸",
+        "onboard_time": 1717041799,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 555712,
+        "num": 555712,
+        "word": "部分毕业生浓烈的上岸思维该反思了",
+        "onboard_time": 1717045100,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505329,
+        "num": 505329,
+        "word": "迪丽热巴或将出EP",
+        "onboard_time": 1717049537,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94289,
+        "num": 491101,
+        "word": "成都为什么连续10年登新一线榜首",
+        "onboard_time": 1717047800,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490729,
+        "num": 490729,
+        "word": "大厂员工离职后卖蕉绿月入200万",
+        "onboard_time": 1717040118,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379103,
+        "num": 379103,
+        "word": "女子把爷爷民国时期结婚证打手镯",
+        "onboard_time": 1717042458,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378573,
+        "num": 378573,
+        "word": "戚薇 如果爱忘了",
+        "onboard_time": 1717048579,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420126,
+        "num": 358212,
+        "word": "冯小刚电影 赵丽颖迪丽热巴",
+        "onboard_time": 1717043179,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319500,
+        "num": 319500,
+        "word": "周杰伦林俊杰张杰六一都开演唱会",
+        "onboard_time": 1717048637,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312907,
+        "num": 312907,
+        "word": "那英将在歌手尝试国风",
+        "onboard_time": 1717046299,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278962,
+        "num": 278962,
+        "word": "婚后发现丈夫没工作起诉离婚获支持",
+        "onboard_time": 1717042640,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275005,
+        "num": 275005,
+        "word": "武大回应选调生离职事件",
+        "onboard_time": 1717044439,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228700,
+        "num": 228700,
+        "word": "Hero祝福无畏未来一帆风顺",
+        "onboard_time": 1717050377,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212569,
+        "num": 212569,
+        "word": "孙颖莎3比0伯格斯特隆",
+        "onboard_time": 1717050438,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 809931,
+        "num": 211741,
+        "word": "做孕检时还在踩奶的小猫",
+        "onboard_time": 1717048518,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430659,
+        "num": 210930,
+        "word": "朋友圈弄个三天可见",
+        "onboard_time": 1717038438,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256062,
+        "num": 210051,
+        "word": "vava被GAI气哭了",
+        "onboard_time": 1717044200,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208813,
+        "num": 208813,
+        "word": "夏之光因黄子韬进娱乐圈",
+        "onboard_time": 1717050619,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203156,
+        "num": 203156,
+        "word": "希尔顿一会员夜不归宿被扣3000元",
+        "onboard_time": 1717028538,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200507,
+        "num": 200507,
+        "word": "庆余年年余庆",
+        "onboard_time": 1717050619,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196328,
+        "num": 196328,
+        "word": "晚餐或睡前尽量不吃粽子",
+        "onboard_time": 1717047557,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18193,
+        "num": 196077,
+        "word": "NISSAN智驾好物",
+        "onboard_time": 1717048939,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195851,
+        "num": 195851,
+        "word": "婚检只告知男方不告知女方吗",
+        "onboard_time": 1717048157,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131745,
+        "num": 194315,
+        "word": "花3万给孩子治近视5个月涨了70度",
+        "onboard_time": 1717048818,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322816,
+        "num": 194157,
+        "word": "张若昀拿到叶轻眉遗物",
+        "onboard_time": 1717050198,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193644,
+        "num": 193644,
+        "word": "星痕铃铛傲寒挂牌",
+        "onboard_time": 1717050619,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189192,
+        "num": 189192,
+        "word": "毕业生称用学校邮箱后求职回复率翻倍",
+        "onboard_time": 1717043301,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173745,
+        "num": 173745,
+        "word": "庆余年2今晚开通超点",
+        "onboard_time": 1717048878,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160086,
+        "num": 160086,
+        "word": "星巴克也急了",
+        "onboard_time": 1717033396,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155383,
+        "num": 155383,
+        "word": "孩子为啥养臭水",
+        "onboard_time": 1717037237,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149203,
+        "num": 149203,
+        "word": "考完试故意把分数算得很低",
+        "onboard_time": 1717037296,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145896,
+        "num": 145896,
+        "word": "为何大多数人吃虾不吃虫",
+        "onboard_time": 1717050318,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63665,
+        "num": 145261,
+        "word": "明天就是京东618",
+        "onboard_time": 1717049118,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144950,
+        "num": 144950,
+        "word": "新加坡坠亡女留学生曾遭父亲家暴",
+        "onboard_time": 1717040238,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144490,
+        "num": 144490,
+        "word": "周五的综艺到底看哪个啊",
+        "onboard_time": 1717043660,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137281,
+        "num": 137281,
+        "word": "王鹤棣刚哭完就说我不会哭的",
+        "onboard_time": 1717046658,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133377,
+        "num": 133377,
+        "word": "炎亚纶方回应判决结果",
+        "onboard_time": 1717047019,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132414,
+        "num": 132414,
+        "word": "健身房究竟有多脏",
+        "onboard_time": 1717045759,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127605,
+        "num": 127605,
+        "word": "红十字会回应直升机送烤全羊视频",
+        "onboard_time": 1717050079,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127593,
+        "num": 127593,
+        "word": "张若昀毛晓彤庆余年2是三搭",
+        "onboard_time": 1717046179,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124416,
+        "num": 124416,
+        "word": "被隐形家务震惊到了",
+        "onboard_time": 1717029558,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112757,
+        "num": 119619,
+        "word": "支持巴勒斯坦成为联合国正式会员国",
+        "onboard_time": 1717040057,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118678,
+        "num": 118678,
+        "word": "高卿尘表白被拒暴瘦32斤",
+        "onboard_time": 1717050978,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114522,
+        "num": 114522,
+        "word": "恋爱脑的十个迹象",
+        "onboard_time": 1717048637,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿合作论坛第十届部长级会议#"
+    }
+  }
+}
