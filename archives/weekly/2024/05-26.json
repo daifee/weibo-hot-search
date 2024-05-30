@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717089397263,
+  "endTime": 1717090473172,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -14769,6 +14769,14 @@
       "onboard_time": 1716776780,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 9682,
+      "num": 425870,
+      "word": "中阿合作20载硕果累累",
+      "onboard_time": 1717075459,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9638,
