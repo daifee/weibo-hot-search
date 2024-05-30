@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717075250921,
+  "endTime": 1717076061225,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1154078,
+      "num": 644848,
+      "word": "庆余年3",
+      "onboard_time": 1717071859,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1128854,
       "num": 355783,
       "word": "朋友圈弄个三天可见",
@@ -137,14 +145,6 @@
       "onboard_time": 1717035316,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1073988,
-      "num": 501904,
-      "word": "庆余年3",
-      "onboard_time": 1717071859,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 983017,
@@ -267,8 +267,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 720110,
-      "num": 720110,
+      "raw_hot": 747392,
+      "num": 747392,
       "word": "以色列",
       "onboard_time": 1717072278,
       "rank": 49,
@@ -337,6 +337,14 @@
       "onboard_time": 1716989718,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 632452,
+      "num": 292436,
+      "word": "白玉兰提名没有王一博",
+      "onboard_time": 1717075459,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 627546,
@@ -411,7 +419,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 583536,
+      "raw_hot": 586908,
       "num": 237315,
       "word": "杨幂问今天大家怎么怪怪的",
       "onboard_time": 1717072699,
@@ -659,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 422304,
+      "num": 226512,
+      "word": "李宇春黑丝绒晚礼服",
+      "onboard_time": 1717073477,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 421137,
       "num": 421137,
       "word": "为了上岸要报考偏远地区公务员吗",
@@ -827,14 +843,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 352271,
-      "num": 223307,
-      "word": "李宇春黑丝绒晚礼服",
-      "onboard_time": 1717073477,
-      "rank": 22,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 350410,
       "num": 350410,
       "word": "希尔顿回应",
@@ -939,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291682,
+      "num": 208815,
+      "word": "肖战粉色深V西装",
+      "onboard_time": 1717075579,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 283839,
       "num": 283839,
       "word": "孙颖莎打球把自己打笑了",
@@ -948,7 +964,7 @@
     },
     {
       "raw_hot": 281142,
-      "num": 219427,
+      "num": 220349,
       "word": "长相思 提名",
       "onboard_time": 1717073538,
       "rank": 26,
@@ -1083,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241676,
+      "num": 241676,
+      "word": "我国成功发射巴基斯坦多任务通信卫星",
+      "onboard_time": 1717074979,
+      "rank": 46,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 239060,
       "num": 239060,
       "word": "缅甸地震",
@@ -1139,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227376,
+      "num": 227376,
+      "word": "樊振东vs李尚洙",
+      "onboard_time": 1717074919,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223941,
       "num": 216915,
       "word": "钟楚曦关晓彤红毯合照",
@@ -1171,20 +1203,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 218668,
+      "num": 218668,
+      "word": "原来老外才是中国旅游的最强嘴替",
+      "onboard_time": 1717074319,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 218364,
       "num": 218364,
       "word": "蒲熠星文韬逆风局的神",
       "onboard_time": 1717056798,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217973,
-      "num": 217973,
-      "word": "樊振东vs李尚洙",
-      "onboard_time": 1717074919,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 217070,
@@ -1347,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200108,
+      "num": 211605,
+      "word": "樊振东11比0李尚洙",
+      "onboard_time": 1717075039,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199765,
       "num": 199765,
       "word": "健身房究竟有多脏",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1717053857,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198663,
+      "num": 186440,
+      "word": "种地吧2入围白玉兰",
+      "onboard_time": 1717075400,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 198615,
@@ -1387,6 +1435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 196011,
+      "num": 196011,
+      "word": "成都地铁诬陷偷拍案两女生公开发声",
+      "onboard_time": 1717074919,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195957,
       "num": 195957,
       "word": "快乐老友记揭榜周五",
@@ -1401,6 +1457,14 @@
       "onboard_time": 1717030339,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 195097,
+      "num": 183288,
+      "word": "杨超越黑色猫爪美甲",
+      "onboard_time": 1717075999,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 194345,
@@ -1515,20 +1579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188000,
+      "num": 188000,
+      "word": "WTT",
+      "onboard_time": 1717075279,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187889,
       "num": 380899,
       "word": "徐梦桃谈身边的运动员宝妈很辛苦",
       "onboard_time": 1717031417,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186433,
-      "num": 214316,
-      "word": "原来老外才是中国旅游的最强嘴替",
-      "onboard_time": 1717074319,
-      "rank": 37,
-      "category": "旅游"
     },
     {
       "raw_hot": 184924,
@@ -1585,6 +1649,14 @@
       "onboard_time": 1717060999,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 177105,
+      "num": 177105,
+      "word": "樊振东重庆赛开门红",
+      "onboard_time": 1717075698,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 176776,
@@ -1715,14 +1787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166450,
-      "num": 211605,
-      "word": "樊振东11比0李尚洙",
-      "onboard_time": 1717075039,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164876,
       "num": 164876,
       "word": "谢娜说看张杰演唱会时会很享受",
@@ -1777,14 +1841,6 @@
       "onboard_time": 1717046538,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 157461,
-      "num": 157461,
-      "word": "我国成功发射巴基斯坦多任务通信卫星",
-      "onboard_time": 1717074979,
-      "rank": 46,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 157184,
@@ -1913,14 +1969,6 @@
       "onboard_time": 1717067658,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 147440,
-      "num": 157448,
-      "word": "成都地铁诬陷偷拍案两女生公开发声",
-      "onboard_time": 1717074919,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146273,
@@ -2819,6 +2867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34635,
+      "num": 656305,
+      "word": "他们撑起了中国人的骨气",
+      "onboard_time": 1717075698,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31993,
       "num": 196077,
       "word": "NISSAN智驾好物",
@@ -2867,20 +2923,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 26892,
+      "num": 341122,
+      "word": "西湖小野鸭在荷叶上悠闲泡澡",
+      "onboard_time": 1717074439,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 26657,
       "num": 26657,
       "word": "女孩被校园霸凌转学后又面临失学",
       "onboard_time": 1717021812,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24576,
-      "num": 341122,
-      "word": "西湖小野鸭在荷叶上悠闲泡澡",
-      "onboard_time": 1717074439,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 24373,
