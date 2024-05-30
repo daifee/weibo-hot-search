@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717060844380,
+  "endTime": 1717061679135,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1226455,
+      "num": 1226455,
+      "word": "海底捞玩具大人不能随便拿了",
+      "onboard_time": 1717058659,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1204925,
       "num": 656671,
       "word": "赛琳娜获得戛纳影后",
@@ -992,14 +1000,6 @@
       "word": "12岁身高1米83的男孩被叫叔叔",
       "onboard_time": 1716858978,
       "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 876294,
-      "num": 876294,
-      "word": "海底捞玩具大人不能随便拿了",
-      "onboard_time": 1717058659,
-      "rank": 3,
       "category": "幽默"
     },
     {
@@ -2065,6 +2065,14 @@
       "onboard_time": 1716939376,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 583207,
+      "num": 399288,
+      "word": "但凡当年叶轻眉亲李云睿一口",
+      "onboard_time": 1717060338,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 578083,
@@ -3179,6 +3187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 430422,
+      "num": 391757,
+      "word": "苟仲文被查8天前还露面",
+      "onboard_time": 1717058119,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 430167,
       "num": 430167,
       "word": "毕业生称用学校邮箱后求职回复率翻倍",
@@ -3257,6 +3273,14 @@
       "onboard_time": 1716709398,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 423783,
+      "num": 423783,
+      "word": "王楚钦要毕业了",
+      "onboard_time": 1717059678,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 423119,
@@ -3507,14 +3531,6 @@
       "category": "汽车,社会新闻"
     },
     {
-      "raw_hot": 397311,
-      "num": 350402,
-      "word": "苟仲文被查8天前还露面",
-      "onboard_time": 1717058119,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 396322,
       "num": 396322,
       "word": "爱奇艺麦田音乐节",
@@ -3616,6 +3632,14 @@
       "word": "华春莹发加沙女孩流浪视频",
       "onboard_time": 1717006032,
       "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 387837,
+      "num": 387837,
+      "word": "国防部说台独等于战争",
+      "onboard_time": 1717058359,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -3851,6 +3875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364793,
+      "num": 364793,
+      "word": "刘昊然露额头了",
+      "onboard_time": 1717060038,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 364269,
       "num": 267729,
       "word": "舍友因为不吃饭瘦了11斤",
@@ -3979,14 +4011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 354045,
-      "num": 354045,
-      "word": "国防部说台独等于战争",
-      "onboard_time": 1717058359,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 352922,
       "num": 352922,
       "word": "王楚钦邀请波尔一起训练",
@@ -4097,6 +4121,14 @@
       "onboard_time": 1716633260,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344159,
+      "num": 344159,
+      "word": "华晨宇认缴20万入股LGD分部",
+      "onboard_time": 1717061299,
+      "rank": 16,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 343488,
@@ -4217,14 +4249,6 @@
       "onboard_time": 1716693858,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330924,
-      "num": 330924,
-      "word": "但凡当年叶轻眉亲李云睿一口",
-      "onboard_time": 1717060338,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 330679,
@@ -4651,14 +4675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293614,
-      "num": 293614,
-      "word": "王楚钦要毕业了",
-      "onboard_time": 1717059678,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293119,
       "num": 285627,
       "word": "权志龙将参加KAIST脱口秀",
@@ -4715,12 +4731,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 289299,
-      "num": 289299,
-      "word": "刘昊然露额头了",
-      "onboard_time": 1717060038,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 289084,
+      "num": 243557,
+      "word": "父母想各自再婚把1岁女儿丢到农村",
+      "onboard_time": 1717059738,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288799,
@@ -5177,14 +5193,6 @@
       "onboard_time": 1716971178,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258289,
-      "num": 243557,
-      "word": "父母想各自再婚把1岁女儿丢到农村",
-      "onboard_time": 1717059738,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258242,
@@ -7899,6 +7907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178430,
+      "num": 178430,
+      "word": "东北雨姐嗓子身体已完全恢复",
+      "onboard_time": 1717060999,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 178404,
       "num": 178404,
       "word": "光遇",
@@ -7993,6 +8009,14 @@
       "onboard_time": 1716952518,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176580,
+      "num": 176580,
+      "word": "华语乐坛三杰",
+      "onboard_time": 1717060159,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 176528,
@@ -8240,6 +8264,14 @@
       "word": "孙楠路人缘",
       "onboard_time": 1716970578,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171178,
+      "num": 171178,
+      "word": "洪涛回应孙楠补位",
+      "onboard_time": 1717061238,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -8651,14 +8683,6 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 163237,
-      "num": 163237,
-      "word": "华语乐坛三杰",
-      "onboard_time": 1717060159,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 163192,
       "num": 163192,
       "word": "人的牙齿天生就是偏黄的",
@@ -9067,6 +9091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 152767,
+      "num": 152767,
+      "word": "歌手前导演怒赞Fine乐团",
+      "onboard_time": 1717059140,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152710,
       "num": 152710,
       "word": "王俊凯唱完蔡依林唱周杰伦",
@@ -9187,14 +9219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149932,
-      "num": 149932,
-      "word": "歌手前导演怒赞Fine乐团",
-      "onboard_time": 1717059140,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149891,
       "num": 149891,
       "word": "夏之光让田嘉瑞叫哥哥",
@@ -9241,6 +9265,14 @@
       "onboard_time": 1716732980,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149436,
+      "num": 149436,
+      "word": "怀孕去不了团建结果要扣工资",
+      "onboard_time": 1717061238,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 149428,
@@ -9465,6 +9497,14 @@
       "onboard_time": 1716945258,
       "rank": 29,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 144771,
+      "num": 144771,
+      "word": "苟仲文曾因国足成绩不好作检讨",
+      "onboard_time": 1717060819,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144322,
@@ -9713,6 +9753,14 @@
       "onboard_time": 1716777797,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140207,
+      "num": 140207,
+      "word": "彩虹",
+      "onboard_time": 1717060220,
+      "rank": 44,
+      "category": "自然"
     },
     {
       "raw_hot": 140118,
@@ -10635,6 +10683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126480,
+      "num": 213212,
+      "word": "寻宠师吐槽这一行骗子太多",
+      "onboard_time": 1717057158,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126450,
       "num": 126450,
       "word": "为啥早餐店里的油条要两根面一起炸",
@@ -10689,14 +10745,6 @@
       "onboard_time": 1716630798,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125729,
-      "num": 125729,
-      "word": "彩虹",
-      "onboard_time": 1717060220,
-      "rank": 44,
-      "category": "自然"
     },
     {
       "raw_hot": 125703,
@@ -11059,14 +11107,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 119686,
-      "num": 213212,
-      "word": "寻宠师吐槽这一行骗子太多",
-      "onboard_time": 1717057158,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119612,
       "num": 119612,
       "word": "infp的完美主义",
@@ -11321,6 +11361,14 @@
       "onboard_time": 1717047800,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115011,
+      "num": 115011,
+      "word": "鹭卓 麦浪滚滚的治愈感",
+      "onboard_time": 1717061658,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 114959,
@@ -11665,14 +11713,6 @@
       "onboard_time": 1716685757,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107242,
-      "num": 107242,
-      "word": "苟仲文曾因国足成绩不好作检讨",
-      "onboard_time": 1717060819,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 107164,
@@ -12404,7 +12444,7 @@
     },
     {
       "raw_hot": 76729,
-      "num": 299167,
+      "num": 419149,
       "word": "新疆瓜果甜过初恋",
       "onboard_time": 1717057879,
       "rank": 46,
@@ -13513,6 +13553,14 @@
       "onboard_time": 1716803178,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21973,
+      "num": 117984,
+      "word": "护肤品真的存在平替吗",
+      "onboard_time": 1717061358,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 20672,
