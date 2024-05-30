@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717037057513,
+  "endTime": 1717039260905,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -5091,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1116657,
+      "num": 1116657,
+      "word": "英国议会宣布正式解散",
+      "onboard_time": 1717035316,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1116371,
       "num": 1116371,
       "word": "歌手网传第3期歌单",
@@ -5259,6 +5267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1102703,
+      "num": 198579,
+      "word": "朋友圈弄个三天可见",
+      "onboard_time": 1717038438,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1102586,
       "num": 328795,
       "word": "百度副总裁称员工闹分手提离职我秒批",
@@ -5377,14 +5393,6 @@
       "onboard_time": 1716890478,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1093983,
-      "num": 1093983,
-      "word": "英国议会宣布正式解散",
-      "onboard_time": 1717035316,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1093670,
@@ -6264,6 +6272,14 @@
       "word": "榴莲自由要实现了",
       "onboard_time": 1715141422,
       "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 981450,
+      "num": 981450,
+      "word": "星巴克也急了",
+      "onboard_time": 1717033396,
+      "rank": 20,
       "category": "美食"
     },
     {
@@ -7537,14 +7553,6 @@
       "onboard_time": 1714895419,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 873804,
-      "num": 164235,
-      "word": "星巴克也急了",
-      "onboard_time": 1717033396,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 873330,
@@ -8881,6 +8889,14 @@
       "onboard_time": 1714627398,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 801896,
+      "num": 801896,
+      "word": "考完试故意把分数算得很低",
+      "onboard_time": 1717037296,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 801679,
@@ -13579,6 +13595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 608395,
+      "num": 608395,
+      "word": "快乐老友记",
+      "onboard_time": 1717037899,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 607935,
       "num": 607935,
       "word": "深圳王婆说媒现场坐席空无一人",
@@ -15017,6 +15041,14 @@
       "onboard_time": 1715346439,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 562494,
+      "num": 340195,
+      "word": "新生男婴被父母以5万卖掉",
+      "onboard_time": 1717035256,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 562464,
@@ -17379,6 +17411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 502856,
+      "num": 502856,
+      "word": "范闲 奶奶的梦中情孙",
+      "onboard_time": 1717034537,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502750,
       "num": 502750,
       "word": "犬夜叉 杀生丸美貌遗传",
@@ -18947,6 +18987,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 469223,
+      "num": 469223,
+      "word": "伊利牛奶",
+      "onboard_time": 1717037836,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469155,
       "num": 469155,
       "word": "当你连续点同一家外卖超过100次",
@@ -19555,14 +19603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 458796,
-      "num": 458796,
-      "word": "范闲 奶奶的梦中情孙",
-      "onboard_time": 1717034537,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 458741,
       "num": 371148,
       "word": "在美失踪26岁女留学生遗体被找到",
@@ -19956,7 +19996,7 @@
     },
     {
       "raw_hot": 450071,
-      "num": 182562,
+      "num": 198013,
       "word": "小孩哥 生自己的妈自己养",
       "onboard_time": 1717031837,
       "rank": 30,
@@ -20801,14 +20841,6 @@
       "onboard_time": 1714644978,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 434365,
-      "num": 309070,
-      "word": "新生男婴被父母以5万卖掉",
-      "onboard_time": 1717035256,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 434325,
@@ -27235,6 +27267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333256,
+      "num": 333256,
+      "word": "境外资本大举买入中国股票ETF",
+      "onboard_time": 1717035197,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 333201,
       "num": 333201,
       "word": "杨幂戛纳街拍",
@@ -32891,6 +32931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267230,
+      "num": 267230,
+      "word": "孩子为啥养臭水",
+      "onboard_time": 1717037237,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267115,
       "num": 267115,
       "word": "日本前大臣感慨日本太落后",
@@ -34513,6 +34561,14 @@
       "onboard_time": 1716034338,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 253399,
+      "num": 253399,
+      "word": "ive",
+      "onboard_time": 1717038018,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 253324,
@@ -50507,6 +50563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179673,
+      "num": 179673,
+      "word": "快乐老友记揭榜周五",
+      "onboard_time": 1717039039,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179599,
       "num": 179599,
       "word": "黑粉向杨洋致歉",
@@ -50641,6 +50705,14 @@
       "onboard_time": 1715130502,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 179012,
+      "num": 179012,
+      "word": "张绍刚情商",
+      "onboard_time": 1717037717,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 179002,
@@ -51275,6 +51347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176776,
+      "num": 341730,
+      "word": "无锡晋升2024新一线",
+      "onboard_time": 1717035556,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176768,
       "num": 176768,
       "word": "赵昭仪花少每一期都在虎口脱险",
@@ -51361,6 +51441,14 @@
       "onboard_time": 1716884778,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176485,
+      "num": 176485,
+      "word": "嘉峪关",
+      "onboard_time": 1717036216,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176467,
@@ -51513,14 +51601,6 @@
       "onboard_time": 1716481397,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 175912,
-      "num": 175912,
-      "word": "境外资本大举买入中国股票ETF",
-      "onboard_time": 1717035197,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 175904,
@@ -51969,6 +52049,14 @@
       "onboard_time": 1715009420,
       "rank": 42,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 174614,
+      "num": 174614,
+      "word": "Steam双人成行无需启动EA",
+      "onboard_time": 1717038078,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 174601,
@@ -53707,6 +53795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168441,
+      "num": 168441,
+      "word": "二十年前的儿童节妆容有多炸裂",
+      "onboard_time": 1717037657,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168394,
       "num": 199863,
       "word": "双星陨落3周年",
@@ -54819,6 +54915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164876,
+      "num": 164876,
+      "word": "谢娜说看张杰演唱会时会很享受",
+      "onboard_time": 1717038677,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164818,
       "num": 164818,
       "word": "原来生活中的暗示这么明显",
@@ -54921,6 +55025,14 @@
       "onboard_time": 1716517338,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164600,
+      "num": 164600,
+      "word": "张真源 我可没忽悠你们",
+      "onboard_time": 1717038857,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 164575,
@@ -55785,6 +55897,14 @@
       "onboard_time": 1716979339,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161767,
+      "num": 161767,
+      "word": "B太反复感叹去晚了",
+      "onboard_time": 1717036038,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161763,
@@ -58083,14 +58203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153767,
-      "num": 341730,
-      "word": "无锡晋升2024新一线",
-      "onboard_time": 1717035556,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153765,
       "num": 153765,
       "word": "没过520可以过525",
@@ -58545,14 +58657,6 @@
       "onboard_time": 1716382219,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152280,
-      "num": 152280,
-      "word": "嘉峪关",
-      "onboard_time": 1717036216,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152245,
@@ -61825,14 +61929,6 @@
       "onboard_time": 1715941938,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141875,
-      "num": 141875,
-      "word": "B太反复感叹去晚了",
-      "onboard_time": 1717036038,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141869,
@@ -70323,6 +70419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114343,
+      "num": 114343,
+      "word": "2年遭家暴16次女子离婚案开庭",
+      "onboard_time": 1717039099,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 114326,
       "num": 82905,
       "word": "佟丽娅戛纳很好下次再去",
@@ -76963,6 +77067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64492,
+      "num": 197812,
+      "word": "刚领完奖他就跑车站抓获涉毒嫌疑人",
+      "onboard_time": 1717035376,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64453,
       "num": 64453,
       "word": "周杰伦来了又好像没有来",
@@ -79011,6 +79123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45054,
+      "num": 823044,
+      "word": "今天发条微博致敬科技工作者",
+      "onboard_time": 1717037537,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44961,
       "num": 375385,
       "word": "雷军五四青年节寄语",
@@ -79281,6 +79401,14 @@
       "onboard_time": 1715853918,
       "rank": 30,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 42279,
+      "num": 198650,
+      "word": "高三老师在教室门口设答疑桌",
+      "onboard_time": 1717039099,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42235,

@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717037057513,
+  "endTime": 1717039260905,
   "band_list": [
     {
       "raw_hot": 6718022,
@@ -555,10 +555,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1116657,
+      "num": 1116657,
+      "word": "英国议会宣布正式解散",
+      "onboard_time": 1717035316,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1108055,
       "num": 292429,
       "word": "突然感觉体制内挺适合不婚族",
       "onboard_time": 1716730519,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1102703,
+      "num": 198579,
+      "word": "朋友圈弄个三天可见",
+      "onboard_time": 1717038438,
       "rank": 20,
       "category": "情感"
     },
@@ -569,14 +585,6 @@
       "onboard_time": 1716890478,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1093983,
-      "num": 1093983,
-      "word": "英国议会宣布正式解散",
-      "onboard_time": 1717035316,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1087815,
@@ -721,6 +729,14 @@
       "onboard_time": 1716949397,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 981450,
+      "num": 981450,
+      "word": "星巴克也急了",
+      "onboard_time": 1717033396,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 980096,
@@ -881,14 +897,6 @@
       "onboard_time": 1716640039,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 873804,
-      "num": 164235,
-      "word": "星巴克也急了",
-      "onboard_time": 1717033396,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 871809,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1716986356,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 801896,
+      "num": 801896,
+      "word": "考完试故意把分数算得很低",
+      "onboard_time": 1717037296,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 801128,
@@ -1715,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608395,
+      "num": 608395,
+      "word": "快乐老友记",
+      "onboard_time": 1717037899,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 607743,
       "num": 302269,
       "word": "原来一个人住冰箱可以这么干净",
@@ -1977,6 +2001,14 @@
       "onboard_time": 1716969318,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 562494,
+      "num": 340195,
+      "word": "新生男婴被父母以5万卖掉",
+      "onboard_time": 1717035256,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 561105,
@@ -2363,6 +2395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 502856,
+      "num": 502856,
+      "word": "范闲 奶奶的梦中情孙",
+      "onboard_time": 1717034537,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500997,
       "num": 500997,
       "word": "华为悬红200万全球求解难题",
@@ -2611,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469223,
+      "num": 469223,
+      "word": "伊利牛奶",
+      "onboard_time": 1717037836,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469155,
       "num": 469155,
       "word": "当你连续点同一家外卖超过100次",
@@ -2657,14 +2705,6 @@
       "onboard_time": 1716681916,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458796,
-      "num": 458796,
-      "word": "范闲 奶奶的梦中情孙",
-      "onboard_time": 1717034537,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 458645,
@@ -2740,7 +2780,7 @@
     },
     {
       "raw_hot": 450071,
-      "num": 182562,
+      "num": 198013,
       "word": "小孩哥 生自己的妈自己养",
       "onboard_time": 1717031837,
       "rank": 30,
@@ -2857,14 +2897,6 @@
       "onboard_time": 1716940758,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434365,
-      "num": 309070,
-      "word": "新生男婴被父母以5万卖掉",
-      "onboard_time": 1717035256,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 434325,
@@ -3819,6 +3851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333256,
+      "num": 333256,
+      "word": "境外资本大举买入中国股票ETF",
+      "onboard_time": 1717035197,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 333201,
       "num": 333201,
       "word": "杨幂戛纳街拍",
@@ -4539,6 +4579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 267230,
+      "num": 267230,
+      "word": "孩子为啥养臭水",
+      "onboard_time": 1717037237,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266623,
       "num": 266623,
       "word": "张若昀 电车难题",
@@ -4801,6 +4849,14 @@
       "onboard_time": 1716819680,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253399,
+      "num": 253399,
+      "word": "ive",
+      "onboard_time": 1717038018,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 253324,
@@ -7131,6 +7187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179673,
+      "num": 179673,
+      "word": "快乐老友记揭榜周五",
+      "onboard_time": 1717039039,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179585,
       "num": 637751,
       "word": "国乒提前包揽冠亚军",
@@ -7161,6 +7225,14 @@
       "onboard_time": 1716968418,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179012,
+      "num": 179012,
+      "word": "张绍刚情商",
+      "onboard_time": 1717037717,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 178567,
@@ -7243,6 +7315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176776,
+      "num": 341730,
+      "word": "无锡晋升2024新一线",
+      "onboard_time": 1717035556,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176668,
       "num": 176668,
       "word": "刘亦菲安妮海瑟薇赞达亚宝格丽大片",
@@ -7267,12 +7347,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175912,
-      "num": 175912,
-      "word": "境外资本大举买入中国股票ETF",
-      "onboard_time": 1717035197,
-      "rank": 19,
-      "category": "财经"
+      "raw_hot": 176485,
+      "num": 176485,
+      "word": "嘉峪关",
+      "onboard_time": 1717036216,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175670,
@@ -7329,6 +7409,14 @@
       "onboard_time": 1716780800,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174614,
+      "num": 174614,
+      "word": "Steam双人成行无需启动EA",
+      "onboard_time": 1717038078,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 174572,
@@ -7579,6 +7667,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 168441,
+      "num": 168441,
+      "word": "二十年前的儿童节妆容有多炸裂",
+      "onboard_time": 1717037657,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167994,
       "num": 167994,
       "word": "女子用炸毛毛笔写出瘦金体",
@@ -7755,6 +7851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164876,
+      "num": 164876,
+      "word": "谢娜说看张杰演唱会时会很享受",
+      "onboard_time": 1717038677,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164775,
       "num": 164775,
       "word": "森林狼vs独行侠",
@@ -7784,6 +7888,14 @@
       "word": "向佐到底录了多少综艺",
       "onboard_time": 1716957439,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164600,
+      "num": 164600,
+      "word": "张真源 我可没忽悠你们",
+      "onboard_time": 1717038857,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -7889,6 +8001,14 @@
       "onboard_time": 1716979339,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161767,
+      "num": 161767,
+      "word": "B太反复感叹去晚了",
+      "onboard_time": 1717036038,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161051,
@@ -8155,14 +8275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153767,
-      "num": 341730,
-      "word": "无锡晋升2024新一线",
-      "onboard_time": 1717035556,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153720,
       "num": 153720,
       "word": "2024IVL转会期",
@@ -8249,14 +8361,6 @@
       "onboard_time": 1716771021,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 152280,
-      "num": 152280,
-      "word": "嘉峪关",
-      "onboard_time": 1717036216,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151963,
@@ -8729,14 +8833,6 @@
       "onboard_time": 1716734540,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141875,
-      "num": 141875,
-      "word": "B太反复感叹去晚了",
-      "onboard_time": 1717036038,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141839,
@@ -10347,6 +10443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114343,
+      "num": 114343,
+      "word": "2年遭家暴16次女子离婚案开庭",
+      "onboard_time": 1717039099,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 114326,
       "num": 82905,
       "word": "佟丽娅戛纳很好下次再去",
@@ -11547,6 +11651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64492,
+      "num": 197812,
+      "word": "刚领完奖他就跑车站抓获涉毒嫌疑人",
+      "onboard_time": 1717035376,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63964,
       "num": 63964,
       "word": "黄金价格还会继续上涨吗",
@@ -11987,6 +12099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45054,
+      "num": 823044,
+      "word": "今天发条微博致敬科技工作者",
+      "onboard_time": 1717037537,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44251,
       "num": 291567,
       "word": "中法艺术60年联动大秀",
@@ -12017,6 +12137,14 @@
       "onboard_time": 1716797659,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42279,
+      "num": 198650,
+      "word": "高三老师在教室门口设答疑桌",
+      "onboard_time": 1717039099,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42184,
