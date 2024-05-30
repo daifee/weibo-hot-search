@@ -1,0 +1,410 @@
+{
+  "runTime": 1717089397263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 858554,
+        "num": 858554,
+        "word": "王倦 第三季不会等这么久",
+        "onboard_time": 1717084158,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 702901,
+        "num": 702901,
+        "word": "台湾高中生问中国史是什么",
+        "onboard_time": 1717077740,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26888,
+        "num": 555295,
+        "word": "他们撑起了中国人的骨气",
+        "onboard_time": 1717075698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525862,
+        "num": 525862,
+        "word": "白玉兰提名没有王一博",
+        "onboard_time": 1717075459,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175322,
+        "num": 175322,
+        "word": "台独课本洗脑青少年",
+        "onboard_time": 1717077740,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140189,
+        "num": 140189,
+        "word": "海底捞玩具大人不能随便拿了",
+        "onboard_time": 1717058659,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 447386,
+        "num": 139914,
+        "word": "庆余年大结局",
+        "onboard_time": 1717069517,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389420,
+        "num": 139397,
+        "word": "庆余年真有徐志胜",
+        "onboard_time": 1717083678,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91486,
+        "num": 139137,
+        "word": "台风",
+        "onboard_time": 1717078279,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10392,
+        "num": 138920,
+        "word": "萌兰和彩虹同框了",
+        "onboard_time": 1717080800,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360466,
+        "num": 138359,
+        "word": "五竹 婉儿",
+        "onboard_time": 1717078821,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287733,
+        "num": 137947,
+        "word": "甘肃省博物馆发声明",
+        "onboard_time": 1717083258,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270898,
+        "num": 137416,
+        "word": "疯产姐妹回应停更原因",
+        "onboard_time": 1717066517,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 244574,
+        "num": 136950,
+        "word": "庆余年3",
+        "onboard_time": 1717071859,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205031,
+        "num": 136646,
+        "word": "孙楠 双眼皮",
+        "onboard_time": 1717080200,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89971,
+        "num": 136342,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1717067058,
+        "rank": 15,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 65221,
+        "num": 135977,
+        "word": "Letme看姿态老头杯红温",
+        "onboard_time": 1717083978,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64821,
+        "num": 135588,
+        "word": "炸猪排能有多厚",
+        "onboard_time": 1717078460,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 56925,
+        "num": 134998,
+        "word": "无畏被爆不要签字费",
+        "onboard_time": 1717076479,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56536,
+        "num": 134806,
+        "word": "完美世界石昊三兄弟重逢",
+        "onboard_time": 1717081880,
+        "rank": 19,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 201671,
+        "num": 134222,
+        "word": "古偶 上桌",
+        "onboard_time": 1717079659,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199840,
+        "num": 133825,
+        "word": "追风者 男主",
+        "onboard_time": 1717070778,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176021,
+        "num": 133625,
+        "word": "杨紫入围白玉兰视后",
+        "onboard_time": 1717069337,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133217,
+        "num": 133217,
+        "word": "王阳获白玉兰最佳男主角提名",
+        "onboard_time": 1717070118,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90410,
+        "num": 126669,
+        "word": "坐飞机头等舱的人都是什么职业",
+        "onboard_time": 1717069939,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124506,
+        "num": 124506,
+        "word": "白玉兰入围名单",
+        "onboard_time": 1717069096,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123780,
+        "num": 123780,
+        "word": "叶轻眉传",
+        "onboard_time": 1717083378,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97129,
+        "num": 123772,
+        "word": "白玉兰视帝提名",
+        "onboard_time": 1717069819,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68462,
+        "num": 123751,
+        "word": "黑袋装卫生巾已经成为过去了",
+        "onboard_time": 1717079778,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55730,
+        "num": 123743,
+        "word": "一公司招董秘被曝需解决老板生理需求",
+        "onboard_time": 1717062206,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93775,
+        "num": 123729,
+        "word": "佟梦实回复张若昀",
+        "onboard_time": 1717082838,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81096,
+        "num": 123722,
+        "word": "胡歌五提白玉兰",
+        "onboard_time": 1717070238,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80096,
+        "num": 123693,
+        "word": "张小斐 第二章复仇",
+        "onboard_time": 1717071738,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47038,
+        "num": 123679,
+        "word": "连幼儿园都搞职业化了",
+        "onboard_time": 1717066817,
+        "rank": 33,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 42028,
+        "num": 123674,
+        "word": "原来老外才是中国旅游的最强嘴替",
+        "onboard_time": 1717074319,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 79565,
+        "num": 123652,
+        "word": "杨幂问今天大家怎么怪怪的",
+        "onboard_time": 1717072699,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78569,
+        "num": 123643,
+        "word": "陈道明演技",
+        "onboard_time": 1717082420,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78555,
+        "num": 123626,
+        "word": "李宇春黑丝绒晚礼服",
+        "onboard_time": 1717073477,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40543,
+        "num": 123619,
+        "word": "怀孕去不了团建结果要扣工资",
+        "onboard_time": 1717061238,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34687,
+        "num": 123599,
+        "word": "韩国宣布将在2045年前登陆火星",
+        "onboard_time": 1717044979,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 74769,
+        "num": 123588,
+        "word": "薛之谦华语歌手首位单巡体育场破百",
+        "onboard_time": 1717080079,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38308,
+        "num": 123571,
+        "word": "圆明园临时闭园",
+        "onboard_time": 1717078219,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 66696,
+        "num": 123550,
+        "word": "张若昀回复罗伯特",
+        "onboard_time": 1717081819,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59553,
+        "num": 123540,
+        "word": "炎亚纶被判7个月缓刑3年",
+        "onboard_time": 1717042518,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58862,
+        "num": 123519,
+        "word": "庆余年2",
+        "onboard_time": 1717089133,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33871,
+        "num": 123508,
+        "word": "特斯拉刹车事件女车主被判道歉",
+        "onboard_time": 1717067599,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33657,
+        "num": 123494,
+        "word": "樊振东11比0李尚洙",
+        "onboard_time": 1717075039,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30118,
+        "num": 123488,
+        "word": "以色列",
+        "onboard_time": 1717072278,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29951,
+        "num": 123460,
+        "word": "我国成功发射巴基斯坦多任务通信卫星",
+        "onboard_time": 1717074979,
+        "rank": 48,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 27336,
+        "num": 123458,
+        "word": "法网 下雨了",
+        "onboard_time": 1717080259,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿联酋总统会谈#"
+    }
+  }
+}
