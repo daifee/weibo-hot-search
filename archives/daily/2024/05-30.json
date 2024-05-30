@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717036397545,
+  "endTime": 1717037057513,
   "band_list": [
     {
       "raw_hot": 2215557,
@@ -19,12 +19,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 915214,
-      "num": 915214,
+      "raw_hot": 1093983,
+      "num": 1093983,
       "word": "英国议会宣布正式解散",
       "onboard_time": 1717035316,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 873804,
+      "num": 164235,
+      "word": "星巴克也急了",
+      "onboard_time": 1717033396,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 863663,
@@ -33,14 +41,6 @@
       "onboard_time": 1716992779,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 785212,
-      "num": 162824,
-      "word": "星巴克也急了",
-      "onboard_time": 1717033396,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 698226,
@@ -139,15 +139,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 433542,
-      "num": 433542,
-      "word": "二皇子五年后重现第一季大拇指",
-      "onboard_time": 1717032437,
-      "rank": 12,
+      "raw_hot": 458796,
+      "num": 458796,
+      "word": "范闲 奶奶的梦中情孙",
+      "onboard_time": 1717034537,
+      "rank": 7,
       "category": "剧集"
     },
     {
-      "raw_hot": 431493,
+      "raw_hot": 450071,
       "num": 182562,
       "word": "小孩哥 生自己的妈自己养",
       "onboard_time": 1717031837,
@@ -155,11 +155,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 429172,
-      "num": 395327,
-      "word": "范闲 奶奶的梦中情孙",
-      "onboard_time": 1717034537,
-      "rank": 7,
+      "raw_hot": 434365,
+      "num": 309070,
+      "word": "新生男婴被父母以5万卖掉",
+      "onboard_time": 1717035256,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 433542,
+      "num": 433542,
+      "word": "二皇子五年后重现第一季大拇指",
+      "onboard_time": 1717032437,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -211,6 +219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 376395,
+      "num": 376395,
+      "word": "kep1er确认七人续约",
+      "onboard_time": 1717036338,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340320,
       "num": 340320,
       "word": "周杰伦特别嘉宾王俊凯",
@@ -257,14 +273,6 @@
       "onboard_time": 1716998958,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265384,
-      "num": 265384,
-      "word": "新生男婴被父母以5万卖掉",
-      "onboard_time": 1717035256,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 258634,
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201117,
-      "num": 201117,
-      "word": "kep1er确认七人续约",
-      "onboard_time": 1717036338,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198615,
       "num": 198615,
       "word": "中方就世卫大会涉台问题点名日本",
@@ -427,6 +427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 175912,
+      "num": 175912,
+      "word": "境外资本大举买入中国股票ETF",
+      "onboard_time": 1717035197,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173829,
       "num": 173829,
       "word": "济南平均招聘月薪9752元",
@@ -457,14 +465,6 @@
       "onboard_time": 1716988158,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162961,
-      "num": 162961,
-      "word": "境外资本大举买入中国股票ETF",
-      "onboard_time": 1717035197,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 161051,
@@ -507,12 +507,36 @@
       "category": "演出,综艺"
     },
     {
+      "raw_hot": 152280,
+      "num": 152280,
+      "word": "嘉峪关",
+      "onboard_time": 1717036216,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151603,
+      "num": 151603,
+      "word": "贵州茅台每10股分红308.76元",
+      "onboard_time": 1717034957,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149657,
       "num": 149657,
       "word": "中国科学报携8名学者入驻微博",
       "onboard_time": 1717024575,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 146273,
+      "num": 146273,
+      "word": "短剧届有自己的凤凰传奇",
+      "onboard_time": 1717036338,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 146005,
@@ -547,12 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142456,
-      "num": 142456,
-      "word": "贵州茅台每10股分红308.76元",
-      "onboard_time": 1717034957,
-      "rank": 29,
-      "category": "财经"
+      "raw_hot": 141875,
+      "num": 141875,
+      "word": "B太反复感叹去晚了",
+      "onboard_time": 1717036038,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133938,
@@ -587,6 +611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129068,
+      "num": 129068,
+      "word": "玉米最营养部位是玉米粒根部",
+      "onboard_time": 1717034177,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128386,
       "num": 128386,
       "word": "冰岛一火山再喷发岩浆高达50米",
@@ -603,8 +635,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126138,
-      "num": 126138,
+      "raw_hot": 126548,
+      "num": 126548,
       "word": "imp好狂",
       "onboard_time": 1717034296,
       "rank": 36,
@@ -619,20 +651,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 124907,
+      "num": 124907,
+      "word": "学历不代表一切",
+      "onboard_time": 1717036636,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124426,
       "num": 113336,
       "word": "鑫逸",
       "onboard_time": 1716992120,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124145,
-      "num": 124145,
-      "word": "玉米最营养部位是玉米粒根部",
-      "onboard_time": 1717034177,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 123684,
@@ -673,14 +705,6 @@
       "onboard_time": 1716981918,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 119892,
-      "num": 119892,
-      "word": "嘉峪关",
-      "onboard_time": 1717036216,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119114,
@@ -787,20 +811,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99944,
-      "num": 99944,
-      "word": "B太反复感叹去晚了",
-      "onboard_time": 1717036038,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98137,
       "num": 98137,
       "word": "韩国歌手时隔9年将在华开唱",
       "onboard_time": 1716976698,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94012,
+      "num": 94012,
+      "word": "我的小狗也养了小猫朋友们",
+      "onboard_time": 1717036577,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 92925,
@@ -835,20 +859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84949,
-      "num": 84949,
-      "word": "短剧届有自己的凤凰传奇",
-      "onboard_time": 1717036338,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84308,
       "num": 84308,
       "word": "4毛一片卫生巾你会买吗",
       "onboard_time": 1716994999,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83782,
+      "num": 83782,
+      "word": "imp回应战胜LWX",
+      "onboard_time": 1717034236,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 73290,
@@ -1035,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13435,
+      "num": 785676,
+      "word": "一起为科技工作者喝彩",
+      "onboard_time": 1717036817,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12142,
       "num": 13621,
       "word": "在他身上看到了热爱的具象化",
@@ -1049,6 +1081,9 @@
     },
     {
       "word": "#习近平会见全国公安工作会议代表#"
+    },
+    {
+      "word": "#中阿合作论坛第十届部长级会议#"
     }
   ]
 }

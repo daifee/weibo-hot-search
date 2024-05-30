@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717036397545,
+  "endTime": 1717037057513,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -5379,6 +5379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1093983,
+      "num": 1093983,
+      "word": "英国议会宣布正式解散",
+      "onboard_time": 1717035316,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1093670,
       "num": 1093670,
       "word": "吴艳妮12秒86夺冠",
@@ -7003,14 +7011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 915214,
-      "num": 915214,
-      "word": "英国议会宣布正式解散",
-      "onboard_time": 1717035316,
-      "rank": 1,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 914694,
       "num": 532745,
       "word": "睡前大量饮水影响前列腺健康",
@@ -7537,6 +7537,14 @@
       "onboard_time": 1714895419,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 873804,
+      "num": 164235,
+      "word": "星巴克也急了",
+      "onboard_time": 1717033396,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 873330,
@@ -9097,14 +9105,6 @@
       "onboard_time": 1716962539,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 785212,
-      "num": 162824,
-      "word": "星巴克也急了",
-      "onboard_time": 1717033396,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 785066,
@@ -19555,6 +19555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 458796,
+      "num": 458796,
+      "word": "范闲 奶奶的梦中情孙",
+      "onboard_time": 1717034537,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 458741,
       "num": 371148,
       "word": "在美失踪26岁女留学生遗体被找到",
@@ -19945,6 +19953,14 @@
       "onboard_time": 1716624978,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450071,
+      "num": 182562,
+      "word": "小孩哥 生自己的妈自己养",
+      "onboard_time": 1717031837,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 449912,
@@ -20787,6 +20803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 434365,
+      "num": 309070,
+      "word": "新生男婴被父母以5万卖掉",
+      "onboard_time": 1717035256,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 434325,
       "num": 434325,
       "word": "妇科疾病长期不治会增加患癌风险",
@@ -20931,14 +20955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 431493,
-      "num": 182562,
-      "word": "小孩哥 生自己的妈自己养",
-      "onboard_time": 1717031837,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 431242,
       "num": 431242,
       "word": "Tiffany玄学",
@@ -21032,14 +21048,6 @@
       "word": "躺了五年还给范闲躺漏气了",
       "onboard_time": 1715919981,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 429172,
-      "num": 395327,
-      "word": "范闲 奶奶的梦中情孙",
-      "onboard_time": 1717034537,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -24321,6 +24329,14 @@
       "onboard_time": 1716880517,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 376395,
+      "num": 376395,
+      "word": "kep1er确认七人续约",
+      "onboard_time": 1717036338,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 376337,
@@ -33033,14 +33049,6 @@
       "onboard_time": 1715054420,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265384,
-      "num": 265384,
-      "word": "新生男婴被父母以5万卖掉",
-      "onboard_time": 1717035256,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 265377,
@@ -43691,14 +43699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201117,
-      "num": 201117,
-      "word": "kep1er确认七人续约",
-      "onboard_time": 1717036338,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201112,
       "num": 162703,
       "word": "张若昀是不是每天晚上在家背梗",
@@ -51515,6 +51515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 175912,
+      "num": 175912,
+      "word": "境外资本大举买入中国股票ETF",
+      "onboard_time": 1717035197,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 175904,
       "num": 175904,
       "word": "有点难为杨幂了",
@@ -55419,14 +55427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162961,
-      "num": 162961,
-      "word": "境外资本大举买入中国股票ETF",
-      "onboard_time": 1717035197,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 162933,
       "num": 162933,
       "word": "一起来看巴黎奥运会",
@@ -58547,6 +58547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152280,
+      "num": 152280,
+      "word": "嘉峪关",
+      "onboard_time": 1717036216,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152245,
       "num": 152245,
       "word": "五一火车上的大学生强得可怕",
@@ -58817,6 +58825,14 @@
       "onboard_time": 1715246359,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151603,
+      "num": 151603,
+      "word": "贵州茅台每10股分红308.76元",
+      "onboard_time": 1717034957,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 151593,
@@ -60467,6 +60483,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 146273,
+      "num": 146273,
+      "word": "短剧届有自己的凤凰传奇",
+      "onboard_time": 1717036338,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146166,
       "num": 146166,
       "word": "凤凰花开的路口",
@@ -61619,14 +61643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142456,
-      "num": 142456,
-      "word": "贵州茅台每10股分红308.76元",
-      "onboard_time": 1717034957,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 142446,
       "num": 142446,
       "word": "杭州人的cos已经是nextlevel了",
@@ -61809,6 +61825,14 @@
       "onboard_time": 1715941938,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141875,
+      "num": 141875,
+      "word": "B太反复感叹去晚了",
+      "onboard_time": 1717036038,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141869,
@@ -65939,6 +65963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129068,
+      "num": 129068,
+      "word": "玉米最营养部位是玉米粒根部",
+      "onboard_time": 1717034177,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129062,
       "num": 129062,
       "word": "你心中的青春之歌",
@@ -66739,6 +66771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126548,
+      "num": 126548,
+      "word": "imp好狂",
+      "onboard_time": 1717034296,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126517,
       "num": 126517,
       "word": "阿森纳3比0伯恩茅斯",
@@ -66873,14 +66913,6 @@
       "onboard_time": 1715592679,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126138,
-      "num": 126138,
-      "word": "imp好狂",
-      "onboard_time": 1717034296,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 126105,
@@ -67259,6 +67291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 124907,
+      "num": 124907,
+      "word": "学历不代表一切",
+      "onboard_time": 1717036636,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124887,
       "num": 124887,
       "word": "选个你们想吃又不想消费的",
@@ -67553,14 +67593,6 @@
       "onboard_time": 1714539857,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124145,
-      "num": 124145,
-      "word": "玉米最营养部位是玉米粒根部",
-      "onboard_time": 1717034177,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 124129,
@@ -68673,14 +68705,6 @@
       "onboard_time": 1716682396,
       "rank": 44,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 119892,
-      "num": 119892,
-      "word": "嘉峪关",
-      "onboard_time": 1717036216,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119875,
@@ -73323,14 +73347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99944,
-      "num": 99944,
-      "word": "B太反复感叹去晚了",
-      "onboard_time": 1717036038,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99849,
       "num": 99849,
       "word": "雷霆vs独行侠",
@@ -74048,6 +74064,14 @@
       "word": "关于我工作以来第一次给爸妈惊喜",
       "onboard_time": 1715501719,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 94012,
+      "num": 94012,
+      "word": "我的小狗也养了小猫朋友们",
+      "onboard_time": 1717036577,
+      "rank": 45,
       "category": "情感"
     },
     {
@@ -74979,14 +75003,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 84949,
-      "num": 84949,
-      "word": "短剧届有自己的凤凰传奇",
-      "onboard_time": 1717036338,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84921,
       "num": 111295,
       "word": "张艺兴汉江猫cha",
@@ -75073,6 +75089,14 @@
       "onboard_time": 1716082697,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83782,
+      "num": 83782,
+      "word": "imp回应战胜LWX",
+      "onboard_time": 1717034236,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 83762,
@@ -81651,6 +81675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 13435,
+      "num": 785676,
+      "word": "一起为科技工作者喝彩",
+      "onboard_time": 1717036817,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13431,
       "num": 17601,
       "word": "志愿者帮92岁阿婆卖枇杷",
@@ -82379,6 +82411,9 @@
     },
     {
       "word": "#习近平会见全国公安工作会议代表#"
+    },
+    {
+      "word": "#中阿合作论坛第十届部长级会议#"
     }
   ]
 }
