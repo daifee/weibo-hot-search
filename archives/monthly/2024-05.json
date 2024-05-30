@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717100459661,
+  "endTime": 1717101267693,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -79331,6 +79331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62049,
+      "num": 39206,
+      "word": "叶轻眉 纯元",
+      "onboard_time": 1717095491,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61893,
       "num": 169144,
       "word": "伦敦男子挥舞大剑袭击数人",
@@ -79497,14 +79505,6 @@
       "onboard_time": 1715325739,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 60468,
-      "num": 39206,
-      "word": "叶轻眉 纯元",
-      "onboard_time": 1717095491,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 60333,
@@ -83499,6 +83499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19228,
+      "num": 21235,
+      "word": "胡歌你偷谁家小孩了",
+      "onboard_time": 1717099930,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19184,
       "num": 90027,
       "word": "用色卡的方式打开文物",
@@ -83747,14 +83755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15891,
-      "num": 21235,
-      "word": "胡歌你偷谁家小孩了",
-      "onboard_time": 1717099930,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 15833,
       "num": 28974,
       "word": "今天这条视频爱意拉满",
@@ -83777,6 +83777,14 @@
       "onboard_time": 1716641601,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15506,
+      "num": 21230,
+      "word": "年轻人决定先局部退休",
+      "onboard_time": 1717099751,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15503,
@@ -83819,7 +83827,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 15096,
+      "raw_hot": 15295,
       "num": 33347,
       "word": "大国重器命名里的中国浪漫",
       "onboard_time": 1717096212,
@@ -83929,14 +83937,6 @@
       "onboard_time": 1714761372,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13512,
-      "num": 21230,
-      "word": "年轻人决定先局部退休",
-      "onboard_time": 1717099751,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13506,

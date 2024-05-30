@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717100459661,
+  "endTime": 1717101267693,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -13707,6 +13707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62049,
+      "num": 39206,
+      "word": "叶轻眉 纯元",
+      "onboard_time": 1717095491,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61390,
       "num": 61390,
       "word": "梁靖崑男单冠军",
@@ -13729,14 +13737,6 @@
       "onboard_time": 1716721999,
       "rank": 43,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 60468,
-      "num": 39206,
-      "word": "叶轻眉 纯元",
-      "onboard_time": 1717095491,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 60323,
@@ -14683,6 +14683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19228,
+      "num": 21235,
+      "word": "胡歌你偷谁家小孩了",
+      "onboard_time": 1717099930,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18828,
       "num": 268538,
       "word": "神十八乘组入住太空之家满月记",
@@ -14747,12 +14755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15891,
-      "num": 21235,
-      "word": "胡歌你偷谁家小孩了",
-      "onboard_time": 1717099930,
-      "rank": 43,
-      "category": "电影"
+      "raw_hot": 15506,
+      "num": 21230,
+      "word": "年轻人决定先局部退休",
+      "onboard_time": 1717099751,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15461,
@@ -14763,7 +14771,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 15096,
+      "raw_hot": 15295,
       "num": 33347,
       "word": "大国重器命名里的中国浪漫",
       "onboard_time": 1717096212,
@@ -14793,14 +14801,6 @@
       "onboard_time": 1716844330,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 13512,
-      "num": 21230,
-      "word": "年轻人决定先局部退休",
-      "onboard_time": 1717099751,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13456,
