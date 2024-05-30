@@ -1,0 +1,410 @@
+{
+  "runTime": 1717067741211,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 939677,
+        "num": 939677,
+        "word": "海底捞玩具大人不能随便拿了",
+        "onboard_time": 1717058659,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 895560,
+        "num": 895560,
+        "word": "疯产姐妹回应停更原因",
+        "onboard_time": 1717066517,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 76499,
+        "num": 829450,
+        "word": "课本中的夏天",
+        "onboard_time": 1717057278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771403,
+        "num": 771403,
+        "word": "华晨宇认缴20万入股LGD分部",
+        "onboard_time": 1717061299,
+        "rank": 3,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 703078,
+        "num": 703078,
+        "word": "苟仲文涉嫌严重违纪违法",
+        "onboard_time": 1717054997,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398400,
+        "num": 398400,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1717067058,
+        "rank": 5,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 701322,
+        "num": 391233,
+        "word": "但凡当年叶轻眉亲李云睿一口",
+        "onboard_time": 1717060338,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567317,
+        "num": 390783,
+        "word": "炎亚纶被判7个月缓刑3年",
+        "onboard_time": 1717042518,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376267,
+        "num": 376267,
+        "word": "韩国宣布将在2045年前登陆火星",
+        "onboard_time": 1717044979,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 105667,
+        "num": 308232,
+        "word": "连幼儿园都搞职业化了",
+        "onboard_time": 1717066817,
+        "rank": 9,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 463955,
+        "num": 298750,
+        "word": "aespa 不老实",
+        "onboard_time": 1717064058,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384372,
+        "num": 297831,
+        "word": "范闲没叫庆帝爹",
+        "onboard_time": 1717066278,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280038,
+        "num": 280038,
+        "word": "华晨宇演唱会震碎肾结石",
+        "onboard_time": 1717052360,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299403,
+        "num": 278168,
+        "word": "等了范闲五年半个月就播完了",
+        "onboard_time": 1717054578,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227215,
+        "num": 227215,
+        "word": "部分毕业生浓烈的上岸思维该反思了",
+        "onboard_time": 1717045100,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258029,
+        "num": 217761,
+        "word": "刘昊然露额头了",
+        "onboard_time": 1717060038,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 693513,
+        "num": 217169,
+        "word": "一公司招董秘被曝需解决老板生理需求",
+        "onboard_time": 1717062206,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207175,
+        "num": 207175,
+        "word": "霸王茶姬回应喝万里木兰睡不着",
+        "onboard_time": 1717047918,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171651,
+        "num": 171651,
+        "word": "国防部说台独等于战争",
+        "onboard_time": 1717058359,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110700,
+        "num": 171636,
+        "word": "拼多多买大件香迷糊了",
+        "onboard_time": 1717065437,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 627546,
+        "num": 171555,
+        "word": "怀孕去不了团建结果要扣工资",
+        "onboard_time": 1717061238,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312692,
+        "num": 171497,
+        "word": "父母想各自再婚把1岁女儿丢到农村",
+        "onboard_time": 1717059738,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235713,
+        "num": 171413,
+        "word": "拖着善禹跑",
+        "onboard_time": 1717066697,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234012,
+        "num": 171365,
+        "word": "薛之谦汕头站演唱会官宣",
+        "onboard_time": 1717064658,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212336,
+        "num": 171350,
+        "word": "张若昀唐艺昕公开恋情7年了",
+        "onboard_time": 1717055958,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191701,
+        "num": 171256,
+        "word": "狐妖小红娘角色适配度",
+        "onboard_time": 1717064118,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178478,
+        "num": 171201,
+        "word": "灿烂的花园",
+        "onboard_time": 1717066576,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171172,
+        "num": 171172,
+        "word": "香缇莫在歌手穿新中式汉服",
+        "onboard_time": 1717064839,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155126,
+        "num": 155126,
+        "word": "依法从严处理学生欺凌",
+        "onboard_time": 1717065738,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 137456,
+        "num": 137456,
+        "word": "王楚钦要毕业了",
+        "onboard_time": 1717059678,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161119,
+        "num": 137399,
+        "word": "庆余年第二季大结局点映礼",
+        "onboard_time": 1717045581,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143946,
+        "num": 136579,
+        "word": "NCT全员掉粉",
+        "onboard_time": 1717055958,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74312,
+        "num": 136129,
+        "word": "起猛了张朝阳在给何同学上课",
+        "onboard_time": 1717067179,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143416,
+        "num": 135645,
+        "word": "宁静晒花少合照",
+        "onboard_time": 1717067058,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135564,
+        "num": 135564,
+        "word": "几年前借黄金买房的越南人彻底崩溃",
+        "onboard_time": 1717064959,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139351,
+        "num": 135122,
+        "word": "海来阿木 纤维粒",
+        "onboard_time": 1717063639,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136266,
+        "num": 135118,
+        "word": "洪涛回应孙楠补位",
+        "onboard_time": 1717061238,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134450,
+        "num": 134450,
+        "word": "90后称百元内的国产耳机就很好用",
+        "onboard_time": 1717067536,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105066,
+        "num": 105066,
+        "word": "苟仲文被查8天前还露面",
+        "onboard_time": 1717058119,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102224,
+        "num": 102224,
+        "word": "北京下雨",
+        "onboard_time": 1717051998,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130746,
+        "num": 101557,
+        "word": "火箭少女101聚是一团火散是满天星",
+        "onboard_time": 1717055057,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116334,
+        "num": 101228,
+        "word": "冯小刚电影 赵丽颖迪丽热巴",
+        "onboard_time": 1717043179,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99622,
+        "num": 99622,
+        "word": "猫侦探找一只猫一天至少走4万步",
+        "onboard_time": 1717056559,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99361,
+        "num": 99361,
+        "word": "儿童节表演家长们都豁出去了",
+        "onboard_time": 1717063818,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 97533,
+        "num": 97533,
+        "word": "夫妻离婚欲分割孩子26.5万压岁钱",
+        "onboard_time": 1717047859,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96657,
+        "num": 96657,
+        "word": "华语乐坛三杰",
+        "onboard_time": 1717060159,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99084,
+        "num": 96401,
+        "word": "迪丽热巴校庆直拍",
+        "onboard_time": 1717063338,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95725,
+        "num": 95725,
+        "word": "全职高手",
+        "onboard_time": 1717067658,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 92238,
+        "num": 92238,
+        "word": "特斯拉刹车事件女车主被判道歉",
+        "onboard_time": 1717067599,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45461,
+        "num": 91956,
+        "word": "vivoS19全焦段拍人神器",
+        "onboard_time": 1717067718,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿合作论坛第十届部长级会议#"
+    }
+  }
+}

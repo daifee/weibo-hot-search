@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717065420275,
+  "endTime": 1717067741211,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -163,6 +163,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 895560,
+      "num": 895560,
+      "word": "疯产姐妹回应停更原因",
+      "onboard_time": 1717066517,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 889217,
       "num": 330865,
       "word": "做孕检时还在踩奶的小猫",
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 693513,
+      "num": 308398,
+      "word": "一公司招董秘被曝需解决老板生理需求",
+      "onboard_time": 1717062206,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686295,
       "num": 686295,
       "word": "巴西总统宣布永久撤回驻以色列大使",
@@ -257,6 +273,14 @@
       "onboard_time": 1716989718,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 627546,
+      "num": 257490,
+      "word": "怀孕去不了团建结果要扣工资",
+      "onboard_time": 1717061238,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 624622,
@@ -360,14 +384,6 @@
       "word": "孩子为啥养臭水",
       "onboard_time": 1717037237,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541141,
-      "num": 308398,
-      "word": "一公司招董秘被曝需解决老板生理需求",
-      "onboard_time": 1717062206,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 474632,
-      "num": 297360,
+      "num": 298750,
       "word": "aespa 不老实",
       "onboard_time": 1717064058,
       "rank": 25,
@@ -489,14 +505,6 @@
       "onboard_time": 1717040057,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 450086,
-      "num": 257490,
-      "word": "怀孕去不了团建结果要扣工资",
-      "onboard_time": 1717061238,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 450071,
@@ -595,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 398400,
+      "num": 398400,
+      "word": "巴黎世家大秀",
+      "onboard_time": 1717067058,
+      "rank": 5,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 398235,
       "num": 398235,
       "word": "伊朗坠毁直升机排除人为破坏可能性",
@@ -625,6 +641,14 @@
       "onboard_time": 1717060038,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 384372,
+      "num": 297831,
+      "word": "范闲没叫庆帝爹",
+      "onboard_time": 1717066278,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 383878,
@@ -873,6 +897,14 @@
       "onboard_time": 1717044500,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235713,
+      "num": 171413,
+      "word": "拖着善禹跑",
+      "onboard_time": 1717066697,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235402,
@@ -1147,6 +1179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191701,
+      "num": 171256,
+      "word": "狐妖小红娘角色适配度",
+      "onboard_time": 1717064118,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191008,
       "num": 191008,
       "word": "庆余年2今晚开通超点",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1717032617,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 178478,
+      "num": 171201,
+      "word": "灿烂的花园",
+      "onboard_time": 1717066576,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 178430,
@@ -1323,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171172,
+      "num": 171172,
+      "word": "香缇莫在歌手穿新中式汉服",
+      "onboard_time": 1717064839,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169473,
       "num": 281979,
       "word": "杭州位列2024新一线第2",
@@ -1379,14 +1435,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 163498,
-      "num": 163498,
-      "word": "香缇莫在歌手穿新中式汉服",
-      "onboard_time": 1717064839,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161051,
       "num": 161051,
       "word": "张玉安还原韩媒报道原委",
@@ -1435,14 +1483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156075,
-      "num": 156075,
-      "word": "狐妖小红娘角色适配度",
-      "onboard_time": 1717064118,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155956,
       "num": 155956,
       "word": "黄仁俊更博",
@@ -1457,6 +1497,14 @@
       "onboard_time": 1717055898,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155126,
+      "num": 155126,
+      "word": "依法从严处理学生欺凌",
+      "onboard_time": 1717065738,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 152767,
@@ -1571,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143416,
+      "num": 135645,
+      "word": "宁静晒花少合照",
+      "onboard_time": 1717067058,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142539,
       "num": 142539,
       "word": "影子是宝莲灯八太子",
@@ -1627,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135564,
+      "num": 135564,
+      "word": "几年前借黄金买房的越南人彻底崩溃",
+      "onboard_time": 1717064959,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135525,
       "num": 135525,
       "word": "孙颖莎重庆冠军赛开门红",
@@ -1641,6 +1705,14 @@
       "onboard_time": 1717048637,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134450,
+      "num": 134450,
+      "word": "90后称百元内的国产耳机就很好用",
+      "onboard_time": 1717067536,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 133938,
@@ -1923,6 +1995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110700,
+      "num": 171636,
+      "word": "拼多多买大件香迷糊了",
+      "onboard_time": 1717065437,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110220,
       "num": 110220,
       "word": "苏打绿直播",
@@ -1987,6 +2067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105667,
+      "num": 308232,
+      "word": "连幼儿园都搞职业化了",
+      "onboard_time": 1717066817,
+      "rank": 9,
+      "category": "社会新闻,母婴育儿"
+    },
+    {
       "raw_hot": 104921,
       "num": 104921,
       "word": "王楚然早八妆",
@@ -2035,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99361,
+      "num": 316743,
+      "word": "儿童节表演家长们都豁出去了",
+      "onboard_time": 1717063818,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 98137,
       "num": 98137,
       "word": "韩国歌手时隔9年将在华开唱",
@@ -2051,12 +2147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96139,
-      "num": 96139,
-      "word": "几年前借黄金买房的越南人彻底崩溃",
-      "onboard_time": 1717064959,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 95725,
+      "num": 95725,
+      "word": "全职高手",
+      "onboard_time": 1717067658,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 94012,
@@ -2097,6 +2193,14 @@
       "onboard_time": 1717023432,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92238,
+      "num": 92238,
+      "word": "特斯拉刹车事件女车主被判道歉",
+      "onboard_time": 1717067599,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90306,
@@ -2155,6 +2259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 74312,
+      "num": 136129,
+      "word": "起猛了张朝阳在给何同学上课",
+      "onboard_time": 1717067179,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 73290,
       "num": 73290,
       "word": "张杰说Precious是为女儿写的歌",
@@ -2209,14 +2321,6 @@
       "onboard_time": 1717000395,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58869,
-      "num": 316743,
-      "word": "儿童节表演家长们都豁出去了",
-      "onboard_time": 1717063818,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 57319,
@@ -2281,6 +2385,14 @@
       "onboard_time": 1716990676,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45461,
+      "num": 91956,
+      "word": "vivoS19全焦段拍人神器",
+      "onboard_time": 1717067718,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 42373,
