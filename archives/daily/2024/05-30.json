@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717064414659,
+  "endTime": 1717065420275,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 957961,
+      "num": 957961,
+      "word": "华晨宇认缴20万入股LGD分部",
+      "onboard_time": 1717061299,
+      "rank": 16,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 943047,
       "num": 943047,
       "word": "冯小刚电影 赵丽颖迪丽热巴",
@@ -147,20 +155,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 896318,
+      "num": 896318,
+      "word": "2岁女童被邻居女孩带上17楼后坠亡",
+      "onboard_time": 1717063399,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 889217,
       "num": 330865,
       "word": "做孕检时还在踩奶的小猫",
       "onboard_time": 1717048518,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 881124,
-      "num": 881124,
-      "word": "华晨宇认缴20万入股LGD分部",
-      "onboard_time": 1717061299,
-      "rank": 16,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 865944,
@@ -179,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 818505,
+      "num": 818505,
+      "word": "但凡当年叶轻眉亲李云睿一口",
+      "onboard_time": 1717060338,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 816342,
       "num": 656286,
       "word": "NCT全员掉粉",
       "onboard_time": 1717055958,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 780520,
-      "num": 780520,
-      "word": "但凡当年叶轻眉亲李云睿一口",
-      "onboard_time": 1717060338,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 702504,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541141,
+      "num": 308398,
+      "word": "一公司招董秘被曝需解决老板生理需求",
+      "onboard_time": 1717062206,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521158,
       "num": 521158,
       "word": "iPhone顶配机型首次降到8000以内",
@@ -427,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496497,
+      "num": 496497,
+      "word": "薛之谦汕头站演唱会官宣",
+      "onboard_time": 1717064658,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 494880,
       "num": 199445,
       "word": "地铁遇到情侣越过我腿拉手手",
@@ -451,12 +475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474632,
+      "num": 297360,
+      "word": "aespa 不老实",
+      "onboard_time": 1717064058,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 466149,
       "num": 466149,
       "word": "支持巴勒斯坦成为联合国正式会员国",
       "onboard_time": 1717040057,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 450086,
+      "num": 257490,
+      "word": "怀孕去不了团建结果要扣工资",
+      "onboard_time": 1717061238,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 450071,
@@ -489,14 +529,6 @@
       "onboard_time": 1717032437,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 430909,
-      "num": 304684,
-      "word": "2岁女童被邻居女孩带上17楼后坠亡",
-      "onboard_time": 1717063399,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 430422,
@@ -643,14 +675,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 350956,
-      "num": 257490,
-      "word": "怀孕去不了团建结果要扣工资",
-      "onboard_time": 1717061238,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 350410,
       "num": 350410,
       "word": "希尔顿回应",
@@ -681,14 +705,6 @@
       "onboard_time": 1717055958,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329181,
-      "num": 304544,
-      "word": "一公司招董秘被曝需解决老板生理需求",
-      "onboard_time": 1717062206,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325490,
@@ -1043,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203678,
-      "num": 203678,
-      "word": "aespa 不老实",
-      "onboard_time": 1717064058,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 201234,
       "num": 201234,
       "word": "福宝最爱吃苦竹和糖心苹果",
@@ -1371,6 +1379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 163498,
+      "num": 163498,
+      "word": "香缇莫在歌手穿新中式汉服",
+      "onboard_time": 1717064839,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161051,
       "num": 161051,
       "word": "张玉安还原韩媒报道原委",
@@ -1415,6 +1431,14 @@
       "num": 156939,
       "word": "庆帝PUA范闲",
       "onboard_time": 1717040957,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156075,
+      "num": 156075,
+      "word": "狐妖小红娘角色适配度",
+      "onboard_time": 1717064118,
       "rank": 37,
       "category": "剧集"
     },
@@ -1731,14 +1755,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 125045,
-      "num": 125045,
-      "word": "狐妖小红娘角色适配度",
-      "onboard_time": 1717064118,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124907,
       "num": 124907,
       "word": "学历不代表一切",
@@ -1817,6 +1833,14 @@
       "onboard_time": 1716981918,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 122034,
+      "num": 122034,
+      "word": "萌探2024",
+      "onboard_time": 1717065198,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 121492,
@@ -1955,6 +1979,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 106071,
+      "num": 106071,
+      "word": "ENHYPEN打歌舞台",
+      "onboard_time": 1717065378,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104921,
       "num": 104921,
       "word": "王楚然早八妆",
@@ -2017,6 +2049,14 @@
       "onboard_time": 1717053378,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96139,
+      "num": 96139,
+      "word": "几年前借黄金买房的越南人彻底崩溃",
+      "onboard_time": 1717064959,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 94012,
@@ -2171,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58869,
+      "num": 316743,
+      "word": "儿童节表演家长们都豁出去了",
+      "onboard_time": 1717063818,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 57319,
       "num": 288665,
       "word": "先来京东领20元",
@@ -2265,14 +2313,6 @@
       "onboard_time": 1717001175,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32867,
-      "num": 304747,
-      "word": "儿童节表演家长们都豁出去了",
-      "onboard_time": 1717063818,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 31993,
