@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717067741211,
+  "endTime": 1717068850904,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -329,6 +329,14 @@
       "onboard_time": 1717029258,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1486451,
+      "num": 1486451,
+      "word": "疯产姐妹回应停更原因",
+      "onboard_time": 1717066517,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 1481358,
@@ -987,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 895560,
-      "num": 895560,
-      "word": "疯产姐妹回应停更原因",
-      "onboard_time": 1717066517,
-      "rank": 1,
-      "category": "网红"
-    },
-    {
       "raw_hot": 889217,
       "num": 330865,
       "word": "做孕检时还在踩奶的小猫",
@@ -1395,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 761677,
+      "num": 308398,
+      "word": "一公司招董秘被曝需解决老板生理需求",
+      "onboard_time": 1717062206,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 761475,
       "num": 761475,
       "word": "官方回应福宝颈部断毛",
@@ -1601,14 +1609,6 @@
       "onboard_time": 1717028658,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 693513,
-      "num": 308398,
-      "word": "一公司招董秘被曝需解决老板生理需求",
-      "onboard_time": 1717062206,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 691881,
@@ -2539,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 516869,
+      "num": 516869,
+      "word": "巴黎世家大秀",
+      "onboard_time": 1717067058,
+      "rank": 5,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 516130,
       "num": 516130,
       "word": "善宰小率 玄彬孙艺珍",
@@ -3459,6 +3467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411726,
+      "num": 297831,
+      "word": "范闲没叫庆帝爹",
+      "onboard_time": 1717066278,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411456,
       "num": 411456,
       "word": "TVB演员颜国梁去世",
@@ -3569,14 +3585,6 @@
       "onboard_time": 1716785601,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 398400,
-      "num": 398400,
-      "word": "巴黎世家大秀",
-      "onboard_time": 1717067058,
-      "rank": 5,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 398235,
@@ -3753,14 +3761,6 @@
       "onboard_time": 1716711198,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384372,
-      "num": 297831,
-      "word": "范闲没叫庆帝爹",
-      "onboard_time": 1717066278,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 383919,
@@ -4465,6 +4465,14 @@
       "onboard_time": 1716972739,
       "rank": 15,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 316957,
+      "num": 197536,
+      "word": "拖着善禹跑",
+      "onboard_time": 1717066697,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315800,
@@ -5715,14 +5723,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 235713,
-      "num": 171413,
-      "word": "拖着善禹跑",
-      "onboard_time": 1717066697,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 235210,
       "num": 235210,
       "word": "张真源 我可没忽悠你们",
@@ -6289,6 +6289,14 @@
       "onboard_time": 1716906078,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215233,
+      "num": 308232,
+      "word": "连幼儿园都搞职业化了",
+      "onboard_time": 1717066817,
+      "rank": 9,
+      "category": "社会新闻,母婴育儿"
     },
     {
       "raw_hot": 215055,
@@ -7579,12 +7587,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188234,
+      "num": 158860,
+      "word": "榴莲火爆的背后究竟是谁在消费",
+      "onboard_time": 1717068199,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 188203,
       "num": 188203,
       "word": "刘宇宁直播cue揭面具",
       "onboard_time": 1716909500,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188162,
+      "num": 158437,
+      "word": "你们艺人还真敢聊理想型啊",
+      "onboard_time": 1717067898,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 187889,
@@ -8779,6 +8803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163715,
+      "num": 155965,
+      "word": "90后称百元内的国产耳机就很好用",
+      "onboard_time": 1717067536,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 163533,
       "num": 163533,
       "word": "巴西将建造世界最大蚊子工厂",
@@ -8801,6 +8833,14 @@
       "onboard_time": 1716701298,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 162886,
+      "num": 162886,
+      "word": "特斯拉刹车事件女车主被判道歉",
+      "onboard_time": 1717067599,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162802,
@@ -9347,6 +9387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150826,
+      "num": 150826,
+      "word": "全世界都知道中国女性拍照好看了",
+      "onboard_time": 1717068317,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149891,
       "num": 149891,
       "word": "夏之光让田嘉瑞叫哥哥",
@@ -9441,6 +9489,14 @@
       "onboard_time": 1716729859,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148586,
+      "num": 160793,
+      "word": "全职高手",
+      "onboard_time": 1717067658,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 148517,
@@ -9859,6 +9915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140840,
+      "num": 171636,
+      "word": "拼多多买大件香迷糊了",
+      "onboard_time": 1717065437,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 140526,
       "num": 101354,
       "word": "张若昀网感",
@@ -10123,6 +10187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135842,
+      "num": 135842,
+      "word": "林婉儿才是蜷起来慢慢活的人",
+      "onboard_time": 1717068618,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135734,
       "num": 167013,
       "word": "求职找工作避坑指南",
@@ -10243,20 +10315,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134951,
+      "num": 134951,
+      "word": "恋与制作人",
+      "onboard_time": 1717068257,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134580,
       "num": 134580,
       "word": "原来要范闲to签的人是张弛",
       "onboard_time": 1716902779,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134450,
-      "num": 134450,
-      "word": "90后称百元内的国产耳机就很好用",
-      "onboard_time": 1717067536,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 134399,
@@ -11763,14 +11835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110700,
-      "num": 171636,
-      "word": "拼多多买大件香迷糊了",
-      "onboard_time": 1717065437,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 110599,
       "num": 110599,
       "word": "你会入职午休只有1小时的公司吗",
@@ -11953,14 +12017,6 @@
       "onboard_time": 1716899537,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105667,
-      "num": 308232,
-      "word": "连幼儿园都搞职业化了",
-      "onboard_time": 1717066817,
-      "rank": 9,
-      "category": "社会新闻,母婴育儿"
     },
     {
       "raw_hot": 105624,
@@ -12291,14 +12347,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 95725,
-      "num": 95725,
-      "word": "全职高手",
-      "onboard_time": 1717067658,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 94572,
       "num": 364948,
       "word": "口中有口点点大",
@@ -12395,14 +12443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92238,
-      "num": 92238,
-      "word": "特斯拉刹车事件女车主被判道歉",
-      "onboard_time": 1717067599,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91578,
       "num": 100469,
       "word": "原来沈月是李嘉琦的嫡长闺",
@@ -12425,6 +12465,14 @@
       "onboard_time": 1716867317,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90496,
+      "num": 90496,
+      "word": "GQ盛典座位安排",
+      "onboard_time": 1717068798,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 90491,
@@ -12740,7 +12788,7 @@
     },
     {
       "raw_hot": 74312,
-      "num": 136129,
+      "num": 160101,
       "word": "起猛了张朝阳在给何同学上课",
       "onboard_time": 1717067179,
       "rank": 32,
@@ -13396,7 +13444,7 @@
     },
     {
       "raw_hot": 45461,
-      "num": 91956,
+      "num": 158018,
       "word": "vivoS19全焦段拍人神器",
       "onboard_time": 1717067718,
       "rank": 49,
@@ -13729,6 +13777,14 @@
       "onboard_time": 1717026436,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27544,
+      "num": 162882,
+      "word": "四川5地上榜中国最美县域",
+      "onboard_time": 1717066278,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 27406,
