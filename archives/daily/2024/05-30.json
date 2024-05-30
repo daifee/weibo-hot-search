@@ -1,6 +1,6 @@
 {
   "startTime": 1716999845147,
-  "endTime": 1717061679135,
+  "endTime": 1717064414659,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -33,6 +33,14 @@
       "onboard_time": 1717051998,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1566444,
+      "num": 1566444,
+      "word": "海底捞玩具大人不能随便拿了",
+      "onboard_time": 1717058659,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1495325,
@@ -73,14 +81,6 @@
       "onboard_time": 1717044979,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1226455,
-      "num": 1226455,
-      "word": "海底捞玩具大人不能随便拿了",
-      "onboard_time": 1717058659,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 1181212,
@@ -155,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 881124,
+      "num": 881124,
+      "word": "华晨宇认缴20万入股LGD分部",
+      "onboard_time": 1717061299,
+      "rank": 16,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 865944,
       "num": 806990,
       "word": "庆余年第二季大结局点映礼",
@@ -177,6 +185,14 @@
       "onboard_time": 1717055958,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 780520,
+      "num": 780520,
+      "word": "但凡当年叶轻眉亲李云睿一口",
+      "onboard_time": 1717060338,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 702504,
@@ -299,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 583207,
-      "num": 399288,
-      "word": "但凡当年叶轻眉亲李云睿一口",
-      "onboard_time": 1717060338,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 576597,
       "num": 576597,
       "word": "张若昀拿到叶轻眉遗物",
@@ -395,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505612,
+      "num": 258939,
+      "word": "父母想各自再婚把1岁女儿丢到农村",
+      "onboard_time": 1717059738,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505329,
       "num": 505329,
       "word": "迪丽热巴或将出EP",
@@ -473,6 +489,14 @@
       "onboard_time": 1717032437,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430909,
+      "num": 304684,
+      "word": "2岁女童被邻居女孩带上17楼后坠亡",
+      "onboard_time": 1717063399,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 430422,
@@ -563,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 387295,
+      "num": 364793,
+      "word": "刘昊然露额头了",
+      "onboard_time": 1717060038,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 383878,
       "num": 261516,
       "word": "举报西北大学博士招生存问题考生发声",
@@ -603,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364793,
-      "num": 364793,
-      "word": "刘昊然露额头了",
-      "onboard_time": 1717060038,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 356709,
       "num": 356709,
       "word": "境外资本大举买入中国股票ETF",
@@ -619,20 +643,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 350956,
+      "num": 257490,
+      "word": "怀孕去不了团建结果要扣工资",
+      "onboard_time": 1717061238,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350410,
       "num": 350410,
       "word": "希尔顿回应",
       "onboard_time": 1717042159,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344159,
-      "num": 344159,
-      "word": "华晨宇认缴20万入股LGD分部",
-      "onboard_time": 1717061299,
-      "rank": 16,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 340320,
@@ -657,6 +681,14 @@
       "onboard_time": 1717055958,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329181,
+      "num": 304544,
+      "word": "一公司招董秘被曝需解决老板生理需求",
+      "onboard_time": 1717062206,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325490,
@@ -691,6 +723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 296049,
+      "num": 296049,
+      "word": "洪涛回应孙楠补位",
+      "onboard_time": 1717061238,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295504,
       "num": 295504,
       "word": "光与夜之恋",
@@ -707,12 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289084,
-      "num": 243557,
-      "word": "父母想各自再婚把1岁女儿丢到农村",
-      "onboard_time": 1717059738,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 280610,
+      "num": 280610,
+      "word": "湖南一高校学生无证驾驶致同学身亡",
+      "onboard_time": 1717061839,
+      "rank": 18,
+      "category": "社会负面"
     },
     {
       "raw_hot": 278894,
@@ -1003,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203678,
+      "num": 203678,
+      "word": "aespa 不老实",
+      "onboard_time": 1717064058,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201234,
       "num": 201234,
       "word": "福宝最爱吃苦竹和糖心苹果",
@@ -1235,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 171969,
+      "num": 171969,
+      "word": "海来阿木 纤维粒",
+      "onboard_time": 1717063639,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171701,
       "num": 171701,
       "word": "朱婷回来了",
@@ -1256,14 +1312,6 @@
       "word": "补位受害者",
       "onboard_time": 1717032316,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 171178,
-      "num": 171178,
-      "word": "洪涛回应孙楠补位",
-      "onboard_time": 1717061238,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1337,6 +1385,14 @@
       "onboard_time": 1716991518,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160267,
+      "num": 160267,
+      "word": "82岁蔡澜谈无儿无女",
+      "onboard_time": 1717062557,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 157991,
@@ -1443,14 +1499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149436,
-      "num": 149436,
-      "word": "怀孕去不了团建结果要扣工资",
-      "onboard_time": 1717061238,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146273,
       "num": 146273,
       "word": "短剧届有自己的凤凰传奇",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1717051517,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136056,
+      "num": 136056,
+      "word": "迪丽热巴校庆直拍",
+      "onboard_time": 1717063338,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 135525,
@@ -1675,6 +1731,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 125045,
+      "num": 125045,
+      "word": "狐妖小红娘角色适配度",
+      "onboard_time": 1717064118,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124907,
       "num": 124907,
       "word": "学历不代表一切",
@@ -1707,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123441,
+      "num": 123441,
+      "word": "MCD",
+      "onboard_time": 1717062557,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123346,
       "num": 111508,
       "word": "姨妈巾一辈子要花多少钱",
@@ -1721,6 +1793,14 @@
       "onboard_time": 1717054157,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122701,
+      "num": 122701,
+      "word": "小时候很火的卫星锅为什么消失了",
+      "onboard_time": 1717062019,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 122697,
@@ -1979,6 +2059,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90306,
+      "num": 90306,
+      "word": "被科研人员圈粉的时刻",
+      "onboard_time": 1717064359,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 90293,
+      "num": 90293,
+      "word": "育儿博主夸张训练7个月婴儿引争议",
+      "onboard_time": 1717063099,
+      "rank": 49,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 85433,
       "num": 199585,
       "word": "女子每两周给40多个儿子送饭",
@@ -2169,6 +2265,14 @@
       "onboard_time": 1717001175,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32867,
+      "num": 304747,
+      "word": "儿童节表演家长们都豁出去了",
+      "onboard_time": 1717063818,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 31993,
