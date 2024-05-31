@@ -1,0 +1,410 @@
+{
+  "runTime": 1717166066492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8414247,
+        "num": 8414247,
+        "word": "孙楠 真拯救",
+        "onboard_time": 1717162527,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4995447,
+        "num": 4995447,
+        "word": "汪苏泷 好听",
+        "onboard_time": 1717160063,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63145,
+        "num": 4913086,
+        "word": "高质量发展看能源",
+        "onboard_time": 1717162287,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4907771,
+        "num": 4907771,
+        "word": "那英 跑调",
+        "onboard_time": 1717161265,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3417395,
+        "num": 3417395,
+        "word": "断眉真来了",
+        "onboard_time": 1717157720,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 691159,
+        "num": 691159,
+        "word": "中国女排1比3日本女排",
+        "onboard_time": 1717162645,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 504015,
+        "num": 504015,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717163007,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 487307,
+        "num": 487307,
+        "word": "GQ大合影",
+        "onboard_time": 1717162708,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 200965,
+        "num": 485617,
+        "word": "张真源 我的画技已到大宗师的水平",
+        "onboard_time": 1717163128,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63676,
+        "num": 461103,
+        "word": "给P人一些J人毕业照震撼",
+        "onboard_time": 1717164984,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2647657,
+        "num": 446018,
+        "word": "歌手排名",
+        "onboard_time": 1717163007,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2608888,
+        "num": 434369,
+        "word": "张钰琪 揭榜",
+        "onboard_time": 1717165224,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1359614,
+        "num": 421311,
+        "word": "孙楠第二",
+        "onboard_time": 1717164626,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713765,
+        "num": 407470,
+        "word": "中方确认不参加乌克兰问题和平峰会",
+        "onboard_time": 1717163726,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 397540,
+        "num": 397540,
+        "word": "两岁半幼童每天戴12小时牙套",
+        "onboard_time": 1717136777,
+        "rank": 14,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 381419,
+        "num": 381419,
+        "word": "王曼昱VS伊藤美诚",
+        "onboard_time": 1717165643,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273563,
+        "num": 380977,
+        "word": "朱婷采访",
+        "onboard_time": 1717164866,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244352,
+        "num": 380446,
+        "word": "女排积分",
+        "onboard_time": 1717164024,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55616,
+        "num": 379838,
+        "word": "是谁在买9.9的耳机",
+        "onboard_time": 1717164506,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217710,
+        "num": 379412,
+        "word": "蔡斌战术",
+        "onboard_time": 1717164024,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1266749,
+        "num": 378527,
+        "word": "歌手直播",
+        "onboard_time": 1717155737,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 960119,
+        "num": 378080,
+        "word": "歌手2024",
+        "onboard_time": 1717154837,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 711129,
+        "num": 377534,
+        "word": "繁花剧方给三位女主都报名了",
+        "onboard_time": 1717164685,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701693,
+        "num": 376579,
+        "word": "齐思钧主持",
+        "onboard_time": 1717164388,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689238,
+        "num": 376284,
+        "word": "香缇莫太牛了",
+        "onboard_time": 1717163426,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655664,
+        "num": 375657,
+        "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
+        "onboard_time": 1717151598,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652003,
+        "num": 374881,
+        "word": "那英第五",
+        "onboard_time": 1717164086,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63770,
+        "num": 374398,
+        "word": "问界新M7焕新升级192线激光雷达",
+        "onboard_time": 1717164145,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188497,
+        "num": 373697,
+        "word": "朱婷替补",
+        "onboard_time": 1717157417,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609819,
+        "num": 373190,
+        "word": "芒果对孙楠贴脸开大",
+        "onboard_time": 1717163787,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532106,
+        "num": 372124,
+        "word": "Fine乐团",
+        "onboard_time": 1717165403,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498126,
+        "num": 371643,
+        "word": "歌手揭榜目标限时投票",
+        "onboard_time": 1717151538,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450955,
+        "num": 371096,
+        "word": "霉霉能不能来",
+        "onboard_time": 1717162950,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274161,
+        "num": 370436,
+        "word": "王雪峰被控受贿8407万余元",
+        "onboard_time": 1717160360,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195917,
+        "num": 369594,
+        "word": "心情不好真的显老",
+        "onboard_time": 1717162831,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428248,
+        "num": 369123,
+        "word": "亚亚唱得好 编曲不行",
+        "onboard_time": 1717161443,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48216,
+        "num": 368683,
+        "word": "新品发布秀已经是nextlevel",
+        "onboard_time": 1717165403,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 423991,
+        "num": 368043,
+        "word": "黄宣编曲 吵",
+        "onboard_time": 1717158561,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189910,
+        "num": 367190,
+        "word": "在单位不要说家庭的任何事情",
+        "onboard_time": 1717152557,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189419,
+        "num": 366941,
+        "word": "会让infp很感动的话",
+        "onboard_time": 1717164388,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366442,
+        "num": 366442,
+        "word": "王一博王阳都报名了",
+        "onboard_time": 1717143797,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183258,
+        "num": 364965,
+        "word": "朱婷第四局登场",
+        "onboard_time": 1717161745,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178841,
+        "num": 363707,
+        "word": "农村婚礼真的很挑摄影师",
+        "onboard_time": 1717164685,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124962,
+        "num": 363395,
+        "word": "原来成年人是过期的小朋友",
+        "onboard_time": 1717165883,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118647,
+        "num": 361073,
+        "word": "中国女排vs日本女排",
+        "onboard_time": 1717155018,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113941,
+        "num": 359515,
+        "word": "4个动作改善腿部线条",
+        "onboard_time": 1717165702,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 111409,
+        "num": 358169,
+        "word": "只要一直走在路上就不算失去双脚",
+        "onboard_time": 1717163247,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266032,
+        "num": 357388,
+        "word": "问界新M7Ultra底盘升级",
+        "onboard_time": 1717160661,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 397263,
+        "num": 355047,
+        "word": "那英真搁浅了",
+        "onboard_time": 1717161564,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102755,
+        "num": 353744,
+        "word": "儿童节是孩子的但童心是大家的",
+        "onboard_time": 1717166002,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同突尼斯总统会谈#"
+    }
+  }
+}
