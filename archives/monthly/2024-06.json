@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717175860659,
+  "endTime": 1717176899958,
   "band_list": [
     {
       "raw_hot": 1683026,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181625,
+      "num": 252508,
+      "word": "蚊子 吸眼袋",
+      "onboard_time": 1717172539,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 179522,
       "num": 258860,
       "word": "为什么熬夜时心脏会咯噔一下",
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140936,
+      "num": 252927,
+      "word": "巴勒斯坦",
+      "onboard_time": 1717163007,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 134935,
       "num": 253617,
       "word": "原来成年人是过期的小朋友",
@@ -355,28 +371,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 118969,
-      "num": 252927,
-      "word": "巴勒斯坦",
-      "onboard_time": 1717163007,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 111364,
       "num": 252772,
       "word": "今年六一恰逢周六",
       "onboard_time": 1717171279,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110192,
-      "num": 252508,
-      "word": "蚊子 吸眼袋",
-      "onboard_time": 1717172539,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 95621,
@@ -449,6 +449,14 @@
       "onboard_time": 1717174517,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14613,
+      "num": 215328,
+      "word": "学校六一演出全场被孤勇者硬控",
+      "onboard_time": 1717176374,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -457,6 +465,9 @@
     },
     {
       "word": "#习近平同巴林国王会谈#"
+    },
+    {
+      "word": "#习近平主席同阿拉伯朋友北京再相聚#"
     }
   ]
 }
