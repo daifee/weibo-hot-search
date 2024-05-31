@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717125659760,
+  "endTime": 1717126481477,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -89,6 +89,14 @@
       "onboard_time": 1716721819,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2201205,
+      "num": 2201205,
+      "word": "台湾",
+      "onboard_time": 1716859398,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2180703,
@@ -843,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1032459,
-      "num": 1032459,
-      "word": "台湾",
-      "onboard_time": 1716859398,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1031743,
       "num": 1031743,
       "word": "SuperJunior13人合体",
@@ -884,7 +884,7 @@
     },
     {
       "raw_hot": 1014075,
-      "num": 313166,
+      "num": 335745,
       "word": "我怀孕三个月婆婆也怀孕一个月",
       "onboard_time": 1717112357,
       "rank": 20,
@@ -905,6 +905,14 @@
       "onboard_time": 1716875298,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 998243,
+      "num": 998243,
+      "word": "教育部要求隐蔽场所视频监控全覆盖",
+      "onboard_time": 1717125378,
+      "rank": 4,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 991065,
@@ -1315,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 833133,
+      "num": 833133,
+      "word": "肖战谌龙合作",
+      "onboard_time": 1717124898,
+      "rank": 11,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 819818,
       "num": 432807,
       "word": "看得出他是五竹",
@@ -1417,14 +1433,6 @@
       "onboard_time": 1716986356,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 806200,
-      "num": 806200,
-      "word": "教育部要求隐蔽场所视频监控全覆盖",
-      "onboard_time": 1717125378,
-      "rank": 4,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 801310,
@@ -1577,6 +1585,14 @@
       "onboard_time": 1716879977,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 752408,
+      "num": 752408,
+      "word": "高朋被免去北京市副市长职务",
+      "onboard_time": 1717124957,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 747163,
@@ -1820,7 +1836,7 @@
     },
     {
       "raw_hot": 680049,
-      "num": 314404,
+      "num": 320609,
       "word": "姑姑跟侄女抢家产",
       "onboard_time": 1717120337,
       "rank": 23,
@@ -2444,7 +2460,7 @@
     },
     {
       "raw_hot": 569523,
-      "num": 312442,
+      "num": 319342,
       "word": "敷面膜一个月的皮肤变化",
       "onboard_time": 1717119798,
       "rank": 21,
@@ -2481,6 +2497,14 @@
       "onboard_time": 1717118957,
       "rank": 17,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 566200,
+      "num": 566200,
+      "word": "阿Sa婉拒刘宪华",
+      "onboard_time": 1717124297,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 565386,
@@ -2713,14 +2737,6 @@
       "onboard_time": 1716950177,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 522635,
-      "num": 522635,
-      "word": "肖战谌龙合作",
-      "onboard_time": 1717124898,
-      "rank": 11,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 521724,
@@ -3555,14 +3571,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 437907,
-      "num": 437907,
-      "word": "高朋被免去北京市副市长职务",
-      "onboard_time": 1717124957,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 435838,
       "num": 288089,
       "word": "厉旭婚礼",
@@ -3585,14 +3593,6 @@
       "onboard_time": 1716940758,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434566,
-      "num": 434566,
-      "word": "阿Sa婉拒刘宪华",
-      "onboard_time": 1717124297,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 434325,
@@ -3907,6 +3907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406189,
+      "num": 406189,
+      "word": "叶流云好帅",
+      "onboard_time": 1717122618,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405585,
       "num": 285758,
       "word": "黄宣 蝴蝶",
@@ -3920,14 +3928,6 @@
       "word": "林婉儿人设 单薄",
       "onboard_time": 1716898038,
       "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 404969,
-      "num": 404969,
-      "word": "叶流云好帅",
-      "onboard_time": 1717122618,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -4211,6 +4211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383061,
+      "num": 383061,
+      "word": "肖战白T上有肖战",
+      "onboard_time": 1717125378,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 382391,
       "num": 382391,
       "word": "中国统一的大势不可逆转",
@@ -4385,6 +4393,14 @@
       "onboard_time": 1716990918,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 365395,
+      "num": 365395,
+      "word": "张若昀唐艺昕爱尔兰之约",
+      "onboard_time": 1717125618,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 365313,
@@ -5155,14 +5171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 304235,
-      "num": 304235,
-      "word": "肖战白T上有肖战",
-      "onboard_time": 1717125378,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 303870,
       "num": 303870,
       "word": "京东内部管理",
@@ -5465,6 +5473,14 @@
       "onboard_time": 1717071078,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282066,
+      "num": 282066,
+      "word": "GQ出图",
+      "onboard_time": 1717125858,
+      "rank": 24,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 281604,
@@ -5833,6 +5849,14 @@
       "onboard_time": 1716944477,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259839,
+      "num": 259839,
+      "word": "58%男性不孕不育被诊断为不明原因",
+      "onboard_time": 1717125318,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 259077,
@@ -6265,6 +6289,14 @@
       "onboard_time": 1716906140,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241450,
+      "num": 241450,
+      "word": "孙楠唱拯救",
+      "onboard_time": 1717125797,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 241016,
@@ -6803,6 +6835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222696,
+      "num": 222696,
+      "word": "郭晓婷想让杨幂演灵宠",
+      "onboard_time": 1717126039,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222508,
       "num": 222508,
       "word": "以色列巴勒斯坦冲突",
@@ -6865,6 +6905,14 @@
       "onboard_time": 1716731299,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221416,
+      "num": 543686,
+      "word": "下周五就高考了",
+      "onboard_time": 1717122918,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 221238,
@@ -7907,14 +7955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 197674,
-      "num": 543686,
-      "word": "下周五就高考了",
-      "onboard_time": 1717122918,
-      "rank": 25,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 197428,
       "num": 197428,
       "word": "种地吧",
@@ -8185,6 +8225,14 @@
       "onboard_time": 1716965056,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 193050,
+      "num": 193050,
+      "word": "独行侠晋级总决赛",
+      "onboard_time": 1717125498,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 192978,
@@ -8497,14 +8545,6 @@
       "onboard_time": 1716885376,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188315,
-      "num": 188315,
-      "word": "张若昀唐艺昕爱尔兰之约",
-      "onboard_time": 1717125618,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 188245,
@@ -10011,14 +10051,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 159502,
-      "num": 159502,
-      "word": "独行侠晋级总决赛",
-      "onboard_time": 1717125498,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159441,
       "num": 159441,
       "word": "烟花少年阵容官宣",
@@ -10148,7 +10180,7 @@
     },
     {
       "raw_hot": 156585,
-      "num": 156585,
+      "num": 373869,
       "word": "吸烟的危害在这漫画里具象化了",
       "onboard_time": 1717123337,
       "rank": 48,
@@ -10803,14 +10835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144225,
-      "num": 144225,
-      "word": "58%男性不孕不育被诊断为不明原因",
-      "onboard_time": 1717125318,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 144127,
       "num": 144127,
       "word": "国外乐评人点评那英和亚当",
@@ -11329,6 +11353,14 @@
       "onboard_time": 1716893476,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135778,
+      "num": 135778,
+      "word": "陈都灵 白孔雀",
+      "onboard_time": 1717126457,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135734,
@@ -13227,6 +13259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105614,
+      "num": 1195051,
+      "word": "中国十二时辰之美",
+      "onboard_time": 1717124178,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105300,
       "num": 271853,
       "word": "四川消防启动地震救援三级响应",
@@ -13905,14 +13945,6 @@
       "onboard_time": 1716677773,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 80844,
-      "num": 1048814,
-      "word": "中国十二时辰之美",
-      "onboard_time": 1717124178,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80829,
@@ -14700,7 +14732,7 @@
     },
     {
       "raw_hot": 50577,
-      "num": 157679,
+      "num": 232613,
       "word": "京东5折放价",
       "onboard_time": 1717125138,
       "rank": 40,
@@ -15624,6 +15656,9 @@
     },
     {
       "word": "#习近平同阿联酋总统会谈#"
+    },
+    {
+      "word": "#习近平主席同阿拉伯朋友北京再相聚#"
     }
   ]
 }

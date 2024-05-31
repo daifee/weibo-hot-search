@@ -1,0 +1,410 @@
+{
+  "runTime": 1717126481477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2201205,
+        "num": 2201205,
+        "word": "台湾",
+        "onboard_time": 1717124419,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1404344,
+        "num": 1404344,
+        "word": "她居然还是跳的最好的一个",
+        "onboard_time": 1717117638,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105614,
+        "num": 1195051,
+        "word": "中国十二时辰之美",
+        "onboard_time": 1717124178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998243,
+        "num": 998243,
+        "word": "教育部要求隐蔽场所视频监控全覆盖",
+        "onboard_time": 1717125378,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 833133,
+        "num": 833133,
+        "word": "肖战谌龙合作",
+        "onboard_time": 1717124898,
+        "rank": 4,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 785783,
+        "num": 785783,
+        "word": "中止对台湾地区134个税目产品关税减让",
+        "onboard_time": 1717117339,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 752408,
+        "num": 752408,
+        "word": "高朋被免去北京市副市长职务",
+        "onboard_time": 1717124957,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 683429,
+        "num": 683429,
+        "word": "老师砍掉学生2天丧假合理吗",
+        "onboard_time": 1717115898,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634789,
+        "num": 634789,
+        "word": "云边有个小卖部定档",
+        "onboard_time": 1717122558,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 566200,
+        "num": 566200,
+        "word": "阿Sa婉拒刘宪华",
+        "onboard_time": 1717124297,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489498,
+        "num": 489498,
+        "word": "全球每4秒有1人死于吸烟相关疾病",
+        "onboard_time": 1717115898,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470361,
+        "num": 470361,
+        "word": "白玉兰提名没有白敬亭",
+        "onboard_time": 1717117218,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457540,
+        "num": 457540,
+        "word": "睡前4小时最好别吃东西",
+        "onboard_time": 1717110554,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 445810,
+        "num": 445810,
+        "word": "特朗普成美国史上首位被判有罪前总统",
+        "onboard_time": 1717112537,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 443720,
+        "num": 443720,
+        "word": "森林狼水平",
+        "onboard_time": 1717122137,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406189,
+        "num": 406189,
+        "word": "叶流云好帅",
+        "onboard_time": 1717122618,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383061,
+        "num": 383061,
+        "word": "肖战白T上有肖战",
+        "onboard_time": 1717125378,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114444,
+        "num": 373869,
+        "word": "吸烟的危害在这漫画里具象化了",
+        "onboard_time": 1717123337,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365395,
+        "num": 365395,
+        "word": "张若昀唐艺昕爱尔兰之约",
+        "onboard_time": 1717125618,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348012,
+        "num": 348012,
+        "word": "6月行程图",
+        "onboard_time": 1717123218,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 597144,
+        "num": 335745,
+        "word": "我怀孕三个月婆婆也怀孕一个月",
+        "onboard_time": 1717112357,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 553732,
+        "num": 320609,
+        "word": "姑姑跟侄女抢家产",
+        "onboard_time": 1717120337,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390554,
+        "num": 319342,
+        "word": "敷面膜一个月的皮肤变化",
+        "onboard_time": 1717119798,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 303047,
+        "num": 303047,
+        "word": "巴黎世家 蹦迪",
+        "onboard_time": 1717118957,
+        "rank": 23,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 282066,
+        "num": 282066,
+        "word": "GQ出图",
+        "onboard_time": 1717125858,
+        "rank": 24,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 278089,
+        "num": 278089,
+        "word": "独行侠4比1森林狼",
+        "onboard_time": 1717124898,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259839,
+        "num": 259839,
+        "word": "58%男性不孕不育被诊断为不明原因",
+        "onboard_time": 1717125318,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241450,
+        "num": 241450,
+        "word": "孙楠唱拯救",
+        "onboard_time": 1717125797,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48206,
+        "num": 232613,
+        "word": "京东5折放价",
+        "onboard_time": 1717125138,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 221416,
+        "num": 232325,
+        "word": "下周五就高考了",
+        "onboard_time": 1717122918,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 232136,
+        "num": 232136,
+        "word": "为什么吸烟的人会发臭",
+        "onboard_time": 1717122558,
+        "rank": 30,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 222696,
+        "num": 222696,
+        "word": "郭晓婷想让杨幂演灵宠",
+        "onboard_time": 1717126039,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211213,
+        "num": 211213,
+        "word": "新同事来了不到两周就离职了",
+        "onboard_time": 1717117578,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198725,
+        "num": 198725,
+        "word": "原来韩国人对自己国家的小没什么概念",
+        "onboard_time": 1717112836,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193050,
+        "num": 193050,
+        "word": "独行侠晋级总决赛",
+        "onboard_time": 1717125498,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190973,
+        "num": 190973,
+        "word": "林珙的死",
+        "onboard_time": 1717122077,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187020,
+        "num": 187020,
+        "word": "庆余年",
+        "onboard_time": 1717125558,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174333,
+        "num": 174333,
+        "word": "欧文36分",
+        "onboard_time": 1717124837,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184681,
+        "num": 174190,
+        "word": "二皇子暴露本体了",
+        "onboard_time": 1717110615,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173573,
+        "num": 173573,
+        "word": "搞台独就没有和平没有发展",
+        "onboard_time": 1717122318,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171428,
+        "num": 171428,
+        "word": "欧文赛后采访",
+        "onboard_time": 1717124597,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163371,
+        "num": 163371,
+        "word": "英伟达一夜蒸发7692亿",
+        "onboard_time": 1717122738,
+        "rank": 41,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 152454,
+        "num": 152454,
+        "word": "独行侠",
+        "onboard_time": 1717122018,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149403,
+        "num": 149403,
+        "word": "为什么很多女生不愿意谈恋爱了",
+        "onboard_time": 1717119677,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144546,
+        "num": 144546,
+        "word": "王倦 第三季不会等这么久",
+        "onboard_time": 1717084158,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144408,
+        "num": 144408,
+        "word": "她长相丑陋却用艺术感动人间",
+        "onboard_time": 1717121896,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135778,
+        "num": 135778,
+        "word": "陈都灵 白孔雀",
+        "onboard_time": 1717126457,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134290,
+        "num": 134290,
+        "word": "张小斐王阳王安宇 黑道家族",
+        "onboard_time": 1717118957,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133697,
+        "num": 133697,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1717110674,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123538,
+        "num": 123538,
+        "word": "台湾高中生问中国史是什么",
+        "onboard_time": 1717077740,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席同阿拉伯朋友北京再相聚#"
+    }
+  }
+}
