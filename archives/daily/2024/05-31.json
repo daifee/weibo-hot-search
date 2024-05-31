@@ -1,7 +1,23 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717155331549,
+  "endTime": 1717158896611,
   "band_list": [
+    {
+      "raw_hot": 10580367,
+      "num": 10580367,
+      "word": "断眉真来了",
+      "onboard_time": 1717157720,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3891193,
+      "num": 3891193,
+      "word": "歌手直播",
+      "onboard_time": 1717155737,
+      "rank": 1,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2303341,
       "num": 2303341,
@@ -12,7 +28,7 @@
     },
     {
       "raw_hot": 2244855,
-      "num": 417988,
+      "num": 1511786,
       "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
       "onboard_time": 1717151598,
       "rank": 27,
@@ -57,6 +73,14 @@
       "onboard_time": 1717125318,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1651979,
+      "num": 1651979,
+      "word": "歌手2024",
+      "onboard_time": 1717154837,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1558908,
@@ -179,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1070894,
+      "num": 1070894,
+      "word": "黄宣编曲 吵",
+      "onboard_time": 1717158561,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1063029,
       "num": 442386,
       "word": "戚薇嗓子怎么了",
@@ -201,6 +233,14 @@
       "onboard_time": 1717112357,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1005468,
+      "num": 1005468,
+      "word": "歌手揭榜目标限时投票",
+      "onboard_time": 1717151538,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 998243,
@@ -265,6 +305,14 @@
       "onboard_time": 1717078821,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 772473,
+      "num": 336700,
+      "word": "洪涛 羽泉",
+      "onboard_time": 1717157960,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 769211,
@@ -363,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 677887,
+      "num": 298345,
+      "word": "没有亚当",
+      "onboard_time": 1717158321,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 668473,
       "num": 668473,
       "word": "36岁女教授回应任985高校院长",
@@ -427,14 +483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 586981,
-      "num": 402131,
-      "word": "歌手揭榜目标限时投票",
-      "onboard_time": 1717151538,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 578310,
       "num": 578310,
       "word": "二皇子暴露本体了",
@@ -496,14 +544,6 @@
       "word": "袁娅维 我要和节目组翻脸",
       "onboard_time": 1717138877,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 563192,
-      "num": 248111,
-      "word": "歌手2024",
-      "onboard_time": 1717154837,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -579,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474690,
+      "num": 178764,
+      "word": "洪涛回来了",
+      "onboard_time": 1717158141,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461252,
       "num": 461252,
       "word": "沈月黑长直",
@@ -596,7 +644,7 @@
     },
     {
       "raw_hot": 453428,
-      "num": 175856,
+      "num": 179018,
       "word": "陈昊宇全开麦",
       "onboard_time": 1717154777,
       "rank": 27,
@@ -633,6 +681,14 @@
       "onboard_time": 1717130539,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 426978,
+      "num": 426978,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1717155018,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 424770,
@@ -691,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 379985,
+      "num": 178492,
+      "word": "万妮达 说唱武则天",
+      "onboard_time": 1717155857,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375947,
       "num": 161596,
       "word": "古偶 上桌",
@@ -707,6 +771,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 372186,
+      "num": 178044,
+      "word": "娜扎红毯赶蚊子",
+      "onboard_time": 1717155377,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 369585,
+      "num": 275834,
+      "word": "朱婷替补",
+      "onboard_time": 1717157417,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368998,
       "num": 291920,
       "word": "陈昊宇手速",
@@ -721,6 +801,14 @@
       "onboard_time": 1717099930,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 360863,
+      "num": 177919,
+      "word": "工作室辟谣蒋依依偷税漏税",
+      "onboard_time": 1717158141,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 353817,
@@ -827,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301905,
+      "num": 177526,
+      "word": "放过五旬老太 让五旬老头上",
+      "onboard_time": 1717158501,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297320,
       "num": 297320,
       "word": "普通人买白银后发现无人回收",
@@ -915,12 +1011,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 253730,
+      "num": 253730,
+      "word": "6月十二星座注意事项",
+      "onboard_time": 1717158260,
+      "rank": 15,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 253351,
       "num": 253351,
       "word": "巴黎世家雨中走秀",
       "onboard_time": 1717114518,
       "rank": 22,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 252654,
+      "num": 181326,
+      "word": "逆水寒玄机",
+      "onboard_time": 1717158260,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 248777,
@@ -977,6 +1089,14 @@
       "onboard_time": 1717144638,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234180,
+      "num": 176771,
+      "word": "赵露思精灵仙女裙",
+      "onboard_time": 1717157538,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 233451,
@@ -1203,6 +1323,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 202119,
+      "num": 175888,
+      "word": "沐之晴回来了",
+      "onboard_time": 1717157357,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198996,
       "num": 198996,
       "word": "快乐水涨价后都不快乐了",
@@ -1259,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192612,
+      "num": 180989,
+      "word": "在单位不要说家庭的任何事情",
+      "onboard_time": 1717152557,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192518,
       "num": 192518,
       "word": "叶轻眉的画像",
@@ -1305,14 +1441,6 @@
       "onboard_time": 1717112896,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189757,
-      "num": 174994,
-      "word": "在单位不要说家庭的任何事情",
-      "onboard_time": 1717152557,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 189101,
@@ -1387,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181603,
+      "num": 181603,
+      "word": "中国女排0比1日本女排",
+      "onboard_time": 1717158260,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181406,
       "num": 173575,
       "word": "恋爱兄妹",
@@ -1433,6 +1569,14 @@
       "onboard_time": 1717153518,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175763,
+      "num": 175763,
+      "word": "618",
+      "onboard_time": 1717158802,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 174100,
@@ -1715,14 +1859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151815,
-      "num": 151815,
-      "word": "中国女排vs日本女排",
-      "onboard_time": 1717155018,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151725,
       "num": 151725,
       "word": "胡歌工作室回应白玉兰提名",
@@ -1737,6 +1873,14 @@
       "onboard_time": 1717149737,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 149798,
+      "num": 149798,
+      "word": "WB全员流拍",
+      "onboard_time": 1717156157,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 149143,
@@ -1857,6 +2001,14 @@
       "onboard_time": 1717082420,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137697,
+      "num": 180534,
+      "word": "京东618倒计时1小时",
+      "onboard_time": 1717154298,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 136868,
@@ -2179,6 +2331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107996,
+      "num": 179885,
+      "word": "风靡校园的烟卡该不该禁",
+      "onboard_time": 1717156818,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107684,
       "num": 123508,
       "word": "特斯拉刹车事件女车主被判道歉",
@@ -2228,7 +2388,7 @@
     },
     {
       "raw_hot": 87223,
-      "num": 177309,
+      "num": 180155,
       "word": "未满月小狮子嘬奶瓶五官都在努力",
       "onboard_time": 1717155138,
       "rank": 20,
@@ -2355,6 +2515,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60728,
+      "num": 178329,
+      "word": "谁允许你这么凑单的",
+      "onboard_time": 1717158141,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 60551,
+      "num": 179640,
+      "word": "山里的小个子男孩打进CUBA打成队长",
+      "onboard_time": 1717158861,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58862,
       "num": 123519,
       "word": "庆余年2",
@@ -2443,14 +2619,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 49053,
-      "num": 175616,
-      "word": "京东618倒计时1小时",
-      "onboard_time": 1717154298,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 49014,
       "num": 265211,
       "word": "有多少车敢8折回购",
@@ -2497,6 +2665,14 @@
       "onboard_time": 1717131919,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43585,
+      "num": 269335,
+      "word": "天猫618爆款盛典1分钱抢",
+      "onboard_time": 1717156818,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 40967,
@@ -2555,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35241,
+      "num": 179442,
+      "word": "90后的家已经是nextlevel",
+      "onboard_time": 1717157238,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34582,
       "num": 52387,
       "word": "辛芷蕾没入围",
@@ -2611,6 +2795,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 23086,
+      "num": 2546344,
+      "word": "三夏麦收尽显科技范儿",
+      "onboard_time": 1717140438,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22316,
       "num": 342560,
       "word": "腾格尔为京东618唱买买买之歌",
@@ -2633,14 +2825,6 @@
       "onboard_time": 1717097831,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 15992,
-      "num": 684921,
-      "word": "三夏麦收尽显科技范儿",
-      "onboard_time": 1717140438,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15480,

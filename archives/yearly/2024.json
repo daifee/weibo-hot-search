@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717155331549,
+  "endTime": 1717158896611,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -225,6 +225,14 @@
       "onboard_time": 1711155619,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 10580367,
+      "num": 10580367,
+      "word": "断眉真来了",
+      "onboard_time": 1717157720,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 10511056,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1710681034,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3042749,
-      "num": 1885219,
-      "word": "华莱士 空包",
-      "onboard_time": 1714705640,
-      "rank": 5,
-      "category": "游戏,网红"
     }
   ],
   "hotgov_list": [

@@ -1,7 +1,15 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717155331549,
+  "endTime": 1717158896611,
   "band_list": [
+    {
+      "raw_hot": 10580367,
+      "num": 10580367,
+      "word": "断眉真来了",
+      "onboard_time": 1717157720,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 7018945,
       "num": 8268945,
@@ -17,6 +25,14 @@
       "onboard_time": 1716776658,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3891193,
+      "num": 3891193,
+      "word": "歌手直播",
+      "onboard_time": 1717155737,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 3200623,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 2244855,
-      "num": 417988,
+      "num": 1511786,
       "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
       "onboard_time": 1717151598,
       "rank": 27,
@@ -297,6 +313,14 @@
       "onboard_time": 1716640278,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1651979,
+      "num": 1651979,
+      "word": "歌手2024",
+      "onboard_time": 1717154837,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1648286,
@@ -915,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1070894,
+      "num": 1070894,
+      "word": "黄宣编曲 吵",
+      "onboard_time": 1717158561,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1069903,
       "num": 415609,
       "word": "周扬青卖闲置遇到学生直接送",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1717112357,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1005468,
+      "num": 1005468,
+      "word": "歌手揭榜目标限时投票",
+      "onboard_time": 1717151538,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 1001435,
@@ -1675,6 +1715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 772473,
+      "num": 336700,
+      "word": "洪涛 羽泉",
+      "onboard_time": 1717157960,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 771315,
       "num": 771315,
       "word": "身高与寿命之间存在U型关联",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1716976637,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677887,
+      "num": 298345,
+      "word": "没有亚当",
+      "onboard_time": 1717158321,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 674463,
@@ -2587,14 +2643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 586981,
-      "num": 402131,
-      "word": "歌手揭榜目标限时投票",
-      "onboard_time": 1717151538,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 586908,
       "num": 261552,
       "word": "杨幂问今天大家怎么怪怪的",
@@ -2817,14 +2865,6 @@
       "onboard_time": 1716969318,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 563192,
-      "num": 248111,
-      "word": "歌手2024",
-      "onboard_time": 1717154837,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 562494,
@@ -3603,6 +3643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474690,
+      "num": 178764,
+      "word": "洪涛回来了",
+      "onboard_time": 1717158141,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474632,
       "num": 298750,
       "word": "aespa 不老实",
@@ -3772,7 +3820,7 @@
     },
     {
       "raw_hot": 453428,
-      "num": 175856,
+      "num": 179018,
       "word": "陈昊宇全开麦",
       "onboard_time": 1717154777,
       "rank": 27,
@@ -4025,6 +4073,14 @@
       "onboard_time": 1716684377,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 426978,
+      "num": 426978,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1717155018,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 426543,
@@ -4659,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379985,
+      "num": 178492,
+      "word": "万妮达 说唱武则天",
+      "onboard_time": 1717155857,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378482,
       "num": 378482,
       "word": "ive",
@@ -4761,6 +4825,14 @@
       "onboard_time": 1716814578,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 372186,
+      "num": 178044,
+      "word": "娜扎红毯赶蚊子",
+      "onboard_time": 1717155377,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 371418,
@@ -4889,6 +4961,14 @@
       "onboard_time": 1716730999,
       "rank": 15,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 360863,
+      "num": 177919,
+      "word": "工作室辟谣蒋依依偷税漏税",
+      "onboard_time": 1717158141,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 359901,
@@ -5633,6 +5713,14 @@
       "onboard_time": 1716782900,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 301905,
+      "num": 177526,
+      "word": "放过五旬老太 让五旬老头上",
+      "onboard_time": 1717158501,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 300670,
@@ -6475,6 +6563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253730,
+      "num": 253730,
+      "word": "6月十二星座注意事项",
+      "onboard_time": 1717158260,
+      "rank": 15,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 253460,
       "num": 242495,
       "word": "二皇子 长公主",
@@ -6513,6 +6609,14 @@
       "onboard_time": 1716767957,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 252654,
+      "num": 181326,
+      "word": "逆水寒玄机",
+      "onboard_time": 1717158260,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 252063,
@@ -6969,6 +7073,14 @@
       "onboard_time": 1717076778,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234180,
+      "num": 176771,
+      "word": "赵露思精灵仙女裙",
+      "onboard_time": 1717157538,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 233852,
@@ -8275,6 +8387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202119,
+      "num": 175888,
+      "word": "沐之晴回来了",
+      "onboard_time": 1717157357,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202047,
       "num": 173296,
       "word": "马伊琍去新疆了",
@@ -8931,6 +9051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192612,
+      "num": 180989,
+      "word": "在单位不要说家庭的任何事情",
+      "onboard_time": 1717152557,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192518,
       "num": 192518,
       "word": "叶轻眉的画像",
@@ -9153,14 +9281,6 @@
       "onboard_time": 1716716839,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189757,
-      "num": 174994,
-      "word": "在单位不要说家庭的任何事情",
-      "onboard_time": 1717152557,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 189698,
@@ -9659,6 +9779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181603,
+      "num": 181603,
+      "word": "中国女排0比1日本女排",
+      "onboard_time": 1717158260,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181406,
       "num": 173575,
       "word": "恋爱兄妹",
@@ -9961,6 +10089,14 @@
       "onboard_time": 1717153518,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175763,
+      "num": 175763,
+      "word": "618",
+      "onboard_time": 1717158802,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 175670,
@@ -11387,14 +11523,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 151815,
-      "num": 151815,
-      "word": "中国女排vs日本女排",
-      "onboard_time": 1717155018,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151725,
       "num": 151725,
       "word": "胡歌工作室回应白玉兰提名",
@@ -11489,6 +11617,14 @@
       "onboard_time": 1717078460,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 149798,
+      "num": 149798,
+      "word": "WB全员流拍",
+      "onboard_time": 1717156157,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 149759,
@@ -12257,6 +12393,14 @@
       "onboard_time": 1716799159,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137697,
+      "num": 180534,
+      "word": "京东618倒计时1小时",
+      "onboard_time": 1717154298,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 137610,
@@ -14379,6 +14523,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 107996,
+      "num": 179885,
+      "word": "风靡校园的烟卡该不该禁",
+      "onboard_time": 1717156818,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107932,
       "num": 107932,
       "word": "盘点那些火出圈的中华文化",
@@ -15012,7 +15164,7 @@
     },
     {
       "raw_hot": 87223,
-      "num": 177309,
+      "num": 180155,
       "word": "未满月小狮子嘬奶瓶五官都在努力",
       "onboard_time": 1717155138,
       "rank": 20,
@@ -15627,6 +15779,22 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 60728,
+      "num": 178329,
+      "word": "谁允许你这么凑单的",
+      "onboard_time": 1717158141,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 60551,
+      "num": 179640,
+      "word": "山里的小个子男孩打进CUBA打成队长",
+      "onboard_time": 1717158861,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60323,
       "num": 187486,
       "word": "武大靖玩梗还得是本人",
@@ -16019,14 +16187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49053,
-      "num": 175616,
-      "word": "京东618倒计时1小时",
-      "onboard_time": 1717154298,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 49014,
       "num": 265211,
       "word": "有多少车敢8折回购",
@@ -16145,6 +16305,14 @@
       "onboard_time": 1716981317,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43585,
+      "num": 269335,
+      "word": "天猫618爆款盛典1分钱抢",
+      "onboard_time": 1717156818,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 43527,
@@ -16377,6 +16545,14 @@
       "onboard_time": 1717001175,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35241,
+      "num": 179442,
+      "word": "90后的家已经是nextlevel",
+      "onboard_time": 1717157238,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 34737,
@@ -16667,6 +16843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23086,
+      "num": 2546344,
+      "word": "三夏麦收尽显科技范儿",
+      "onboard_time": 1717140438,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22826,
       "num": 206214,
       "word": "重生吧旧玩具们",
@@ -16801,14 +16985,6 @@
       "onboard_time": 1716925690,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15992,
-      "num": 684921,
-      "word": "三夏麦收尽显科技范儿",
-      "onboard_time": 1717140438,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15987,
