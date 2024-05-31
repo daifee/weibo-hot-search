@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717123409311,
+  "endTime": 1717125659760,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -171,8 +171,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1821297,
-      "num": 1821297,
+      "raw_hot": 1841689,
+      "num": 1841689,
       "word": "她居然还是跳的最好的一个",
       "onboard_time": 1717117638,
       "rank": 11,
@@ -843,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1032459,
+      "num": 1032459,
+      "word": "台湾",
+      "onboard_time": 1716859398,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1031743,
       "num": 1031743,
       "word": "SuperJunior13人合体",
@@ -876,7 +884,7 @@
     },
     {
       "raw_hot": 1014075,
-      "num": 272141,
+      "num": 313166,
       "word": "我怀孕三个月婆婆也怀孕一个月",
       "onboard_time": 1717112357,
       "rank": 20,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1717048518,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 886181,
-      "num": 886181,
-      "word": "台湾",
-      "onboard_time": 1716859398,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 884705,
@@ -1419,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 806200,
+      "num": 806200,
+      "word": "教育部要求隐蔽场所视频监控全覆盖",
+      "onboard_time": 1717125378,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 801310,
       "num": 801310,
       "word": "连幼儿园都搞职业化了",
@@ -1691,6 +1699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 725743,
+      "num": 725743,
+      "word": "云边有个小卖部定档",
+      "onboard_time": 1717122558,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 721478,
       "num": 721478,
       "word": "面对漂亮的老婆是这样的",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1716724279,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 680049,
+      "num": 314404,
+      "word": "姑姑跟侄女抢家产",
+      "onboard_time": 1717120337,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 678976,
@@ -2411,14 +2435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 572020,
-      "num": 214702,
-      "word": "姑姑跟侄女抢家产",
-      "onboard_time": 1717120337,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 571013,
       "num": 571013,
       "word": "生命树 杨紫白宇",
@@ -2428,7 +2444,7 @@
     },
     {
       "raw_hot": 569523,
-      "num": 215523,
+      "num": 312442,
       "word": "敷面膜一个月的皮肤变化",
       "onboard_time": 1717119798,
       "rank": 21,
@@ -2699,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522635,
+      "num": 522635,
+      "word": "肖战谌龙合作",
+      "onboard_time": 1717124898,
+      "rank": 11,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 521724,
       "num": 422846,
       "word": "范闲不会是孤臣",
@@ -2873,6 +2897,14 @@
       "onboard_time": 1716863358,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 509703,
+      "num": 509703,
+      "word": "森林狼水平",
+      "onboard_time": 1717122137,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 509142,
@@ -3395,6 +3427,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 451930,
+      "num": 451930,
+      "word": "6月行程图",
+      "onboard_time": 1717123218,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 450071,
       "num": 198013,
       "word": "小孩哥 生自己的妈自己养",
@@ -3515,6 +3555,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 437907,
+      "num": 437907,
+      "word": "高朋被免去北京市副市长职务",
+      "onboard_time": 1717124957,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 435838,
       "num": 288089,
       "word": "厉旭婚礼",
@@ -3537,6 +3585,14 @@
       "onboard_time": 1716940758,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434566,
+      "num": 434566,
+      "word": "阿Sa婉拒刘宪华",
+      "onboard_time": 1717124297,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 434325,
@@ -3867,6 +3923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404969,
+      "num": 404969,
+      "word": "叶流云好帅",
+      "onboard_time": 1717122618,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403840,
       "num": 403840,
       "word": "高铁晚点",
@@ -4041,14 +4105,6 @@
       "onboard_time": 1716856519,
       "rank": 15,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 390766,
-      "num": 390766,
-      "word": "云边有个小卖部定档",
-      "onboard_time": 1717122558,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 390526,
@@ -4923,6 +4979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315264,
+      "num": 421675,
+      "word": "为什么吸烟的人会发臭",
+      "onboard_time": 1717122558,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 314468,
       "num": 314468,
       "word": "毛不易说庆余年演员保养的好",
@@ -4939,14 +5003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313145,
-      "num": 200317,
-      "word": "森林狼水平",
-      "onboard_time": 1717122137,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 312530,
       "num": 312530,
       "word": "VOGUE新主编",
@@ -4961,6 +5017,14 @@
       "onboard_time": 1716848412,
       "rank": 22,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 311608,
+      "num": 311608,
+      "word": "独行侠4比1森林狼",
+      "onboard_time": 1717124898,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 310579,
@@ -5089,6 +5153,14 @@
       "onboard_time": 1716729140,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304235,
+      "num": 304235,
+      "word": "肖战白T上有肖战",
+      "onboard_time": 1717125378,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303870,
@@ -5305,14 +5377,6 @@
       "onboard_time": 1717079778,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 289182,
-      "num": 186465,
-      "word": "叶流云好帅",
-      "onboard_time": 1717122618,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 288799,
@@ -6419,6 +6483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232030,
+      "num": 232030,
+      "word": "欧文36分",
+      "onboard_time": 1717124837,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231814,
       "num": 231814,
       "word": "韩国邻居把我门口的福字撕了",
@@ -7331,6 +7403,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 206249,
+      "num": 206249,
+      "word": "独行侠",
+      "onboard_time": 1717122018,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206221,
       "num": 145267,
       "word": "不想生二胎老公对我冷暴力",
@@ -7715,14 +7795,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 199703,
-      "num": 199703,
-      "word": "独行侠",
-      "onboard_time": 1717122018,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199674,
       "num": 179708,
       "word": "阿Sa形容刘宪华是小孩",
@@ -7836,7 +7908,7 @@
     },
     {
       "raw_hot": 197674,
-      "num": 197674,
+      "num": 543686,
       "word": "下周五就高考了",
       "onboard_time": 1717122918,
       "rank": 25,
@@ -8131,14 +8203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 192557,
-      "num": 192557,
-      "word": "6月行程图",
-      "onboard_time": 1717123218,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 192218,
       "num": 159255,
       "word": "这种长寿菜现在吃正好",
@@ -8193,6 +8257,14 @@
       "onboard_time": 1716991099,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191169,
+      "num": 191169,
+      "word": "欧文赛后采访",
+      "onboard_time": 1717124597,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 191083,
@@ -8425,6 +8497,14 @@
       "onboard_time": 1716885376,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188315,
+      "num": 188315,
+      "word": "张若昀唐艺昕爱尔兰之约",
+      "onboard_time": 1717125618,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 188245,
@@ -9931,6 +10011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159502,
+      "num": 159502,
+      "word": "独行侠晋级总决赛",
+      "onboard_time": 1717125498,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159441,
       "num": 159441,
       "word": "烟花少年阵容官宣",
@@ -10056,6 +10144,14 @@
       "word": "茉酸奶涉事门店遭立案调查",
       "onboard_time": 1716819621,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156585,
+      "num": 156585,
+      "word": "吸烟的危害在这漫画里具象化了",
+      "onboard_time": 1717123337,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -10707,6 +10803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144225,
+      "num": 144225,
+      "word": "58%男性不孕不育被诊断为不明原因",
+      "onboard_time": 1717125318,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144127,
       "num": 144127,
       "word": "国外乐评人点评那英和亚当",
@@ -11161,6 +11265,14 @@
       "onboard_time": 1717111515,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136763,
+      "num": 136763,
+      "word": "想知道你们不化妆的原因",
+      "onboard_time": 1717124777,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 136356,
@@ -13403,14 +13515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98146,
-      "num": 98146,
-      "word": "吸烟的危害在这漫画里具象化了",
-      "onboard_time": 1717123337,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97837,
       "num": 97837,
       "word": "笑中带泪是我们的高三",
@@ -13577,14 +13681,6 @@
       "onboard_time": 1716829693,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92286,
-      "num": 421675,
-      "word": "为什么吸烟的人会发臭",
-      "onboard_time": 1717122558,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 92250,
@@ -13809,6 +13905,14 @@
       "onboard_time": 1716677773,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 80844,
+      "num": 1048814,
+      "word": "中国十二时辰之美",
+      "onboard_time": 1717124178,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80829,
@@ -14593,6 +14697,14 @@
       "onboard_time": 1716674712,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 50577,
+      "num": 157679,
+      "word": "京东5折放价",
+      "onboard_time": 1717125138,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 50350,
