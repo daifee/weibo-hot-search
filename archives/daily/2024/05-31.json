@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717140913683,
+  "endTime": 1717143853460,
   "band_list": [
     {
       "raw_hot": 2201205,
@@ -9,6 +9,14 @@
       "onboard_time": 1717124419,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2023994,
+      "num": 2023994,
+      "word": "两岁半幼童每天戴12小时牙套",
+      "onboard_time": 1717136777,
+      "rank": 49,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 1891456,
@@ -33,6 +41,14 @@
       "onboard_time": 1717125318,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1491681,
+      "num": 1491681,
+      "word": "王一博王阳都报名了",
+      "onboard_time": 1717143797,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1454006,
@@ -195,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 735726,
+      "num": 735726,
+      "word": "今年高考报名人数比去年多51万人",
+      "onboard_time": 1717133177,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 735453,
       "num": 735453,
       "word": "印尼男子结婚12天发现妻子是男人",
@@ -323,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 564809,
+      "num": 456918,
+      "word": "袁娅维 我要和节目组翻脸",
+      "onboard_time": 1717138877,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559149,
       "num": 559149,
       "word": "GQ出图",
@@ -337,14 +369,6 @@
       "onboard_time": 1717114399,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523751,
-      "num": 456918,
-      "word": "袁娅维 我要和节目组翻脸",
-      "onboard_time": 1717138877,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 517758,
@@ -369,14 +393,6 @@
       "onboard_time": 1717122137,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 496825,
-      "num": 496825,
-      "word": "今年高考报名人数比去年多51万人",
-      "onboard_time": 1717133177,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 487233,
@@ -433,6 +449,14 @@
       "onboard_time": 1717135519,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420762,
+      "num": 420762,
+      "word": "沈月黑长直",
+      "onboard_time": 1717140618,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 406189,
@@ -499,14 +523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 354282,
-      "num": 437874,
-      "word": "两岁半幼童每天戴12小时牙套",
-      "onboard_time": 1717136777,
-      "rank": 49,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 353817,
       "num": 353817,
       "word": "孙楠唱拯救",
@@ -521,6 +537,14 @@
       "onboard_time": 1717129819,
       "rank": 9,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 331135,
+      "num": 331135,
+      "word": "日本应届生迎来就业反选时代",
+      "onboard_time": 1717143257,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329436,
@@ -627,12 +651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277212,
+      "num": 277212,
+      "word": "KPL王者梦之队合体录制",
+      "onboard_time": 1717143438,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 275737,
       "num": 275737,
       "word": "3000元拿下家庭健身房是个什么水平",
       "onboard_time": 1717131200,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 273644,
+      "num": 273644,
+      "word": "最爱叶轻眉的是谁",
+      "onboard_time": 1717140198,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 264870,
@@ -651,12 +691,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264381,
-      "num": 240573,
-      "word": "沈月黑长直",
-      "onboard_time": 1717140618,
-      "rank": 20,
-      "category": "作品衍生"
+      "raw_hot": 263532,
+      "num": 263532,
+      "word": "痛经被具象化了",
+      "onboard_time": 1717137797,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 261164,
+      "num": 261164,
+      "word": "谁家好人一部剧播十年啊",
+      "onboard_time": 1717140438,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 253351,
@@ -771,6 +819,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 220494,
+      "num": 220494,
+      "word": "张若昀喂的都是细糠",
+      "onboard_time": 1717141097,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218029,
       "num": 218029,
       "word": "韩国宣布将在2045年前登陆火星",
@@ -851,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205542,
-      "num": 205542,
-      "word": "痛经被具象化了",
-      "onboard_time": 1717137797,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204754,
       "num": 204754,
       "word": "串串房为什么被称白血病套房",
@@ -881,6 +929,14 @@
       "onboard_time": 1717128738,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202712,
+      "num": 202712,
+      "word": "林高远3比1卡尔伯格",
+      "onboard_time": 1717143438,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 202327,
@@ -1075,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168556,
-      "num": 168556,
-      "word": "谁家好人一部剧播十年啊",
-      "onboard_time": 1717140438,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168508,
       "num": 168508,
       "word": "胡歌深夜赶回上海",
@@ -1147,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164591,
+      "num": 164591,
+      "word": "原来这就是人流量500营业额0",
+      "onboard_time": 1717140438,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164509,
       "num": 164509,
       "word": "见识到大宗师的实力了",
@@ -1203,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159085,
+      "num": 159085,
+      "word": "童瑶穿了20年前的古董礼服",
+      "onboard_time": 1717143497,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158450,
       "num": 158450,
       "word": "张小斐 i人第一次去夜店",
@@ -1211,20 +1275,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 158420,
-      "num": 158420,
-      "word": "最爱叶轻眉的是谁",
-      "onboard_time": 1717140198,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157501,
-      "num": 137166,
+      "num": 149274,
       "word": "王俊凯带吉他出发长沙",
       "onboard_time": 1717140017,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157469,
+      "num": 157469,
+      "word": "宋亚轩刘耀文告白现场",
+      "onboard_time": 1717141159,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 157041,
@@ -1251,6 +1315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155564,
+      "num": 908497,
+      "word": "小孩子是真正的诗人",
+      "onboard_time": 1717140557,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154958,
       "num": 154958,
       "word": "BABYMONSTER新曲舞蹈版MV",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1717136478,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151725,
+      "num": 151725,
+      "word": "胡歌工作室回应白玉兰提名",
+      "onboard_time": 1717140738,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 149133,
@@ -1321,14 +1401,6 @@
       "onboard_time": 1717082060,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145446,
-      "num": 145446,
-      "word": "原来这就是人流量500营业额0",
-      "onboard_time": 1717140438,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 145405,
@@ -1409,14 +1481,6 @@
       "onboard_time": 1717127839,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 133934,
-      "num": 133934,
-      "word": "胡歌工作室回应白玉兰提名",
-      "onboard_time": 1717140738,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 132692,
@@ -1579,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111252,
+      "num": 111252,
+      "word": "李一桐饮酒梦回司命",
+      "onboard_time": 1717143257,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109938,
       "num": 1405773,
       "word": "中国十二时辰之美",
@@ -1667,6 +1739,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 77788,
+      "num": 309551,
+      "word": "朱一龙硬控我60秒",
+      "onboard_time": 1717142598,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77521,
       "num": 129898,
       "word": "原来老外才是中国旅游的最强嘴替",
@@ -1713,6 +1793,14 @@
       "onboard_time": 1717101491,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68774,
+      "num": 423603,
+      "word": "你成为小时候想象中的大人了吗",
+      "onboard_time": 1717142418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64181,
@@ -1859,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39190,
+      "num": 382614,
+      "word": "如何让孩子们爱上传统文化",
+      "onboard_time": 1717142418,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39165,
       "num": 1292929,
       "word": "中阿合作20载硕果累累",
@@ -1883,12 +1979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34074,
+      "num": 333044,
+      "word": "有被拼多多客服宠到",
+      "onboard_time": 1717140857,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 33420,
       "num": 33420,
       "word": "夏之光大秀直拍",
       "onboard_time": 1717096992,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 32731,
+      "num": 203107,
+      "word": "儿童节送给孩子们的礼物",
+      "onboard_time": 1717142657,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32503,
@@ -1915,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26310,
+      "num": 203650,
+      "word": "巴黎世家机车包",
+      "onboard_time": 1717142238,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 25799,
       "num": 193912,
       "word": "为什么大牌都来上海办秀",
@@ -1929,14 +2049,6 @@
       "onboard_time": 1717092552,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 25247,
-      "num": 728873,
-      "word": "小孩子是真正的诗人",
-      "onboard_time": 1717140557,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22316,
@@ -1969,14 +2081,6 @@
       "onboard_time": 1717080800,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7623,
-      "num": 111517,
-      "word": "有被拼多多客服宠到",
-      "onboard_time": 1717140857,
-      "rank": 49,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

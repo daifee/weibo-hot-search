@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717140913683,
+  "endTime": 1717143853460,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -129,6 +129,14 @@
       "onboard_time": 1716864559,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2023994,
+      "num": 2023994,
+      "word": "两岁半幼童每天戴12小时牙套",
+      "onboard_time": 1717136777,
+      "rank": 49,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 1998825,
@@ -385,6 +393,14 @@
       "onboard_time": 1717029258,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1491681,
+      "num": 1491681,
+      "word": "王一博王阳都报名了",
+      "onboard_time": 1717143797,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1486451,
@@ -1723,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 735726,
+      "num": 735726,
+      "word": "今年高考报名人数比去年多51万人",
+      "onboard_time": 1717133177,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 735453,
       "num": 735453,
       "word": "印尼男子结婚12天发现妻子是男人",
@@ -2627,6 +2651,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 564809,
+      "num": 456918,
+      "word": "袁娅维 我要和节目组翻脸",
+      "onboard_time": 1717138877,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564205,
       "num": 564205,
       "word": "孙丞潇回复金莎",
@@ -2833,14 +2865,6 @@
       "onboard_time": 1716811458,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523751,
-      "num": 456918,
-      "word": "袁娅维 我要和节目组翻脸",
-      "onboard_time": 1717138877,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 523357,
@@ -3177,14 +3201,6 @@
       "onboard_time": 1716890719,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 496825,
-      "num": 496825,
-      "word": "今年高考报名人数比去年多51万人",
-      "onboard_time": 1717133177,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 496787,
@@ -3937,6 +3953,14 @@
       "onboard_time": 1716873018,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 420762,
+      "num": 420762,
+      "word": "沈月黑长直",
+      "onboard_time": 1717140618,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 420391,
@@ -4731,14 +4755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 354282,
-      "num": 437874,
-      "word": "两岁半幼童每天戴12小时牙套",
-      "onboard_time": 1717136777,
-      "rank": 49,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 353817,
       "num": 353817,
       "word": "孙楠唱拯救",
@@ -4985,6 +5001,14 @@
       "onboard_time": 1716693858,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331135,
+      "num": 331135,
+      "word": "日本应届生迎来就业反选时代",
+      "onboard_time": 1717143257,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330679,
@@ -5763,6 +5787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 277212,
+      "num": 277212,
+      "word": "KPL王者梦之队合体录制",
+      "onboard_time": 1717143438,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 276886,
       "num": 159111,
       "word": "苏打绿直播",
@@ -5825,6 +5857,14 @@
       "onboard_time": 1716679153,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 273644,
+      "num": 273644,
+      "word": "最爱叶轻眉的是谁",
+      "onboard_time": 1717140198,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 273267,
@@ -5963,14 +6003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264381,
-      "num": 240573,
-      "word": "沈月黑长直",
-      "onboard_time": 1717140618,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 264221,
       "num": 225606,
       "word": "蒲熠星现场",
@@ -6009,6 +6041,14 @@
       "onboard_time": 1716987256,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263532,
+      "num": 263532,
+      "word": "痛经被具象化了",
+      "onboard_time": 1717137797,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 263294,
@@ -6057,6 +6097,14 @@
       "onboard_time": 1717050377,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 261164,
+      "num": 261164,
+      "word": "谁家好人一部剧播十年啊",
+      "onboard_time": 1717140438,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 261041,
@@ -7187,6 +7235,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 220494,
+      "num": 220494,
+      "word": "张若昀喂的都是细糠",
+      "onboard_time": 1717141097,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 220378,
       "num": 178132,
       "word": "十块钱做了三杯珍珠奶茶",
@@ -7811,14 +7867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205542,
-      "num": 205542,
-      "word": "痛经被具象化了",
-      "onboard_time": 1717137797,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 205532,
       "num": 205532,
       "word": "你觉得身边吸烟的人变少了吗",
@@ -7945,6 +7993,14 @@
       "onboard_time": 1716783561,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202712,
+      "num": 202712,
+      "word": "林高远3比1卡尔伯格",
+      "onboard_time": 1717143438,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 202327,
@@ -9955,14 +10011,6 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 168556,
-      "num": 168556,
-      "word": "谁家好人一部剧播十年啊",
-      "onboard_time": 1717140438,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168508,
       "num": 168508,
       "word": "胡歌深夜赶回上海",
@@ -10259,6 +10307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 164591,
+      "num": 164591,
+      "word": "原来这就是人流量500营业额0",
+      "onboard_time": 1717140438,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164509,
       "num": 164509,
       "word": "见识到大宗师的实力了",
@@ -10523,6 +10579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159085,
+      "num": 159085,
+      "word": "童瑶穿了20年前的古董礼服",
+      "onboard_time": 1717143497,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158702,
       "num": 158702,
       "word": "多家奶茶推出mini杯",
@@ -10545,14 +10609,6 @@
       "onboard_time": 1717137797,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158420,
-      "num": 158420,
-      "word": "最爱叶轻眉的是谁",
-      "onboard_time": 1717140198,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 158187,
@@ -10620,11 +10676,19 @@
     },
     {
       "raw_hot": 157501,
-      "num": 137166,
+      "num": 149274,
       "word": "王俊凯带吉他出发长沙",
       "onboard_time": 1717140017,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157469,
+      "num": 157469,
+      "word": "宋亚轩刘耀文告白现场",
+      "onboard_time": 1717141159,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 157184,
@@ -10705,6 +10769,14 @@
       "onboard_time": 1717055898,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155564,
+      "num": 908497,
+      "word": "小孩子是真正的诗人",
+      "onboard_time": 1717140557,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155543,
@@ -10945,6 +11017,14 @@
       "onboard_time": 1716966619,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 151725,
+      "num": 151725,
+      "word": "胡歌工作室回应白玉兰提名",
+      "onboard_time": 1717140738,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 151710,
@@ -11281,14 +11361,6 @@
       "onboard_time": 1717028418,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145446,
-      "num": 145446,
-      "word": "原来这就是人流量500营业额0",
-      "onboard_time": 1717140438,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 145405,
@@ -12081,14 +12153,6 @@
       "onboard_time": 1717031657,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 133934,
-      "num": 133934,
-      "word": "胡歌工作室回应白玉兰提名",
-      "onboard_time": 1717140738,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 133931,
@@ -13643,6 +13707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111252,
+      "num": 111252,
+      "word": "李一桐饮酒梦回司命",
+      "onboard_time": 1717143257,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111242,
       "num": 111242,
       "word": "欢迎埃及总统塞西访华",
@@ -14643,6 +14715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77788,
+      "num": 309551,
+      "word": "朱一龙硬控我60秒",
+      "onboard_time": 1717142598,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77512,
       "num": 417939,
       "word": "雨后金山岭长城现霞光云海奇观",
@@ -14905,6 +14985,14 @@
       "onboard_time": 1717101491,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68774,
+      "num": 423603,
+      "word": "你成为小时候想象中的大人了吗",
+      "onboard_time": 1717142418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67446,
@@ -15651,6 +15739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39190,
+      "num": 382614,
+      "word": "如何让孩子们爱上传统文化",
+      "onboard_time": 1717142418,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39165,
       "num": 1292929,
       "word": "中阿合作20载硕果累累",
@@ -15739,6 +15835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34074,
+      "num": 333044,
+      "word": "有被拼多多客服宠到",
+      "onboard_time": 1717140857,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 33420,
       "num": 33420,
       "word": "夏之光大秀直拍",
@@ -15760,6 +15864,14 @@
       "word": "成都特警遇上三角梅花墙",
       "onboard_time": 1716805039,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32731,
+      "num": 203107,
+      "word": "儿童节送给孩子们的礼物",
+      "onboard_time": 1717142657,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -15939,6 +16051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26310,
+      "num": 203650,
+      "word": "巴黎世家机车包",
+      "onboard_time": 1717142238,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 25975,
       "num": 170961,
       "word": "男子23年后找到女儿泣不成声",
@@ -15969,14 +16089,6 @@
       "onboard_time": 1717092552,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 25247,
-      "num": 728873,
-      "word": "小孩子是真正的诗人",
-      "onboard_time": 1717140557,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25066,
@@ -16249,14 +16361,6 @@
       "onboard_time": 1716701000,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 7623,
-      "num": 111517,
-      "word": "有被拼多多客服宠到",
-      "onboard_time": 1717140857,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 7316,

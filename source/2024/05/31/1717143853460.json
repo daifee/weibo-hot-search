@@ -1,0 +1,410 @@
+{
+  "runTime": 1717143853460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2023994,
+        "num": 2023994,
+        "word": "两岁半幼童每天戴12小时牙套",
+        "onboard_time": 1717136777,
+        "rank": 0,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1491681,
+        "num": 1491681,
+        "word": "王一博王阳都报名了",
+        "onboard_time": 1717143797,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155564,
+        "num": 908497,
+        "word": "小孩子是真正的诗人",
+        "onboard_time": 1717140557,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761573,
+        "num": 761573,
+        "word": "何洁生气",
+        "onboard_time": 1717132878,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735726,
+        "num": 735726,
+        "word": "今年高考报名人数比去年多51万人",
+        "onboard_time": 1717133177,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 529838,
+        "num": 529838,
+        "word": "弟弟说冰箱里给我留了西瓜",
+        "onboard_time": 1717131499,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 912894,
+        "num": 522084,
+        "word": "阿道夫力挺王一博",
+        "onboard_time": 1717137677,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728191,
+        "num": 502910,
+        "word": "庆余年3 边拍边播",
+        "onboard_time": 1717129819,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423899,
+        "num": 423899,
+        "word": "原来庆帝叫李云潜",
+        "onboard_time": 1717133238,
+        "rank": 8,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 68774,
+        "num": 423603,
+        "word": "你成为小时候想象中的大人了吗",
+        "onboard_time": 1717142418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594704,
+        "num": 422628,
+        "word": "为什么一次出轨会有无数次",
+        "onboard_time": 1717128919,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 564809,
+        "num": 421921,
+        "word": "袁娅维 我要和节目组翻脸",
+        "onboard_time": 1717138877,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504896,
+        "num": 421126,
+        "word": "58%男性不孕不育被诊断为不明原因",
+        "onboard_time": 1717125318,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 420762,
+        "num": 420762,
+        "word": "沈月黑长直",
+        "onboard_time": 1717140618,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39190,
+        "num": 382614,
+        "word": "如何让孩子们爱上传统文化",
+        "onboard_time": 1717142418,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358985,
+        "num": 358985,
+        "word": "媒体评王阳入围白玉兰",
+        "onboard_time": 1717126819,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34074,
+        "num": 333044,
+        "word": "有被拼多多客服宠到",
+        "onboard_time": 1717140857,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 331135,
+        "num": 331135,
+        "word": "日本应届生迎来就业反选时代",
+        "onboard_time": 1717143257,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77788,
+        "num": 309551,
+        "word": "朱一龙硬控我60秒",
+        "onboard_time": 1717142598,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307411,
+        "num": 307411,
+        "word": "王一博官方粉丝团发文",
+        "onboard_time": 1717136417,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307003,
+        "num": 307003,
+        "word": "工信部拟禁止汽车单踏板完全刹停",
+        "onboard_time": 1717127537,
+        "rank": 20,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 277212,
+        "num": 277212,
+        "word": "KPL王者梦之队合体录制",
+        "onboard_time": 1717143438,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273644,
+        "num": 273644,
+        "word": "最爱叶轻眉的是谁",
+        "onboard_time": 1717140198,
+        "rank": 22,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 263532,
+        "num": 263532,
+        "word": "痛经被具象化了",
+        "onboard_time": 1717137797,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261164,
+        "num": 261164,
+        "word": "谁家好人一部剧播十年啊",
+        "onboard_time": 1717140438,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259403,
+        "num": 259403,
+        "word": "岁月偷走了童年但偷不走童年的回忆",
+        "onboard_time": 1717137197,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220494,
+        "num": 220494,
+        "word": "张若昀喂的都是细糠",
+        "onboard_time": 1717141097,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217864,
+        "num": 217864,
+        "word": "她居然还是跳的最好的一个",
+        "onboard_time": 1717117638,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26310,
+        "num": 203650,
+        "word": "巴黎世家机车包",
+        "onboard_time": 1717142238,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 32731,
+        "num": 203107,
+        "word": "儿童节送给孩子们的礼物",
+        "onboard_time": 1717142657,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202712,
+        "num": 202712,
+        "word": "林高远3比1卡尔伯格",
+        "onboard_time": 1717143438,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201254,
+        "num": 201254,
+        "word": "叶轻眉日记",
+        "onboard_time": 1717139898,
+        "rank": 31,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 188634,
+        "num": 188634,
+        "word": "台湾",
+        "onboard_time": 1717124419,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179687,
+        "num": 179687,
+        "word": "唐嫣工作室回应白玉兰提名",
+        "onboard_time": 1717135519,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166370,
+        "num": 166370,
+        "word": "印尼男子结婚12天发现妻子是男人",
+        "onboard_time": 1717132638,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164591,
+        "num": 164591,
+        "word": "原来这就是人流量500营业额0",
+        "onboard_time": 1717140438,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163892,
+        "num": 163892,
+        "word": "下周五就高考了",
+        "onboard_time": 1717122918,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 159085,
+        "num": 159085,
+        "word": "童瑶穿了20年前的古董礼服",
+        "onboard_time": 1717143497,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157469,
+        "num": 157469,
+        "word": "宋亚轩刘耀文告白现场",
+        "onboard_time": 1717141159,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151725,
+        "num": 151725,
+        "word": "胡歌工作室回应白玉兰提名",
+        "onboard_time": 1717140738,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149274,
+        "num": 149274,
+        "word": "王俊凯带吉他出发长沙",
+        "onboard_time": 1717140017,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143177,
+        "num": 143177,
+        "word": "我怀孕三个月婆婆也怀孕一个月",
+        "onboard_time": 1717112357,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133905,
+        "num": 133905,
+        "word": "从怀孕到宝宝一岁的花销",
+        "onboard_time": 1717131499,
+        "rank": 42,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 132354,
+        "num": 132354,
+        "word": "迪丽热巴EP不收费",
+        "onboard_time": 1717139718,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123573,
+        "num": 123573,
+        "word": "那英真唱搁浅",
+        "onboard_time": 1717131200,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119371,
+        "num": 119371,
+        "word": "山东泰山官宣续约王大雷",
+        "onboard_time": 1717140076,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117664,
+        "num": 117664,
+        "word": "串串房为什么被称白血病套房",
+        "onboard_time": 1717132278,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112923,
+        "num": 112923,
+        "word": "张小斐 i人第一次去夜店",
+        "onboard_time": 1717137797,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111252,
+        "num": 111252,
+        "word": "李一桐饮酒梦回司命",
+        "onboard_time": 1717143257,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109997,
+        "num": 109997,
+        "word": "教育部要求隐蔽场所视频监控全覆盖",
+        "onboard_time": 1717125378,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席同阿拉伯朋友北京再相聚#"
+    }
+  }
+}
