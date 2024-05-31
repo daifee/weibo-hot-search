@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717139894398,
+  "endTime": 1717140913683,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3172,7 +3172,7 @@
     },
     {
       "raw_hot": 1431415,
-      "num": 459871,
+      "num": 468170,
       "word": "为什么一次出轨会有无数次",
       "onboard_time": 1717128919,
       "rank": 30,
@@ -4043,6 +4043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1272149,
+      "num": 706111,
+      "word": "阿道夫力挺王一博",
+      "onboard_time": 1717137677,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1271843,
       "num": 1123397,
       "word": "那英问汪苏泷你妈多大",
@@ -4865,14 +4873,6 @@
       "onboard_time": 1716986658,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1171108,
-      "num": 514986,
-      "word": "阿道夫力挺王一博",
-      "onboard_time": 1717137677,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1170722,
@@ -17155,6 +17155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523751,
+      "num": 456918,
+      "word": "袁娅维 我要和节目组翻脸",
+      "onboard_time": 1717138877,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523663,
       "num": 466914,
       "word": "歌手2024殿堂级舞美",
@@ -18417,6 +18425,14 @@
       "onboard_time": 1715833699,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 496825,
+      "num": 496825,
+      "word": "今年高考报名人数比去年多51万人",
+      "onboard_time": 1717133177,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 496787,
@@ -23515,14 +23531,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 405778,
-      "num": 415994,
-      "word": "今年高考报名人数比去年多51万人",
-      "onboard_time": 1717133177,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 405585,
       "num": 285758,
       "word": "黄宣 蝴蝶",
@@ -26777,6 +26785,14 @@
       "onboard_time": 1716591853,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 354282,
+      "num": 437874,
+      "word": "两岁半幼童每天戴12小时牙套",
+      "onboard_time": 1717136777,
+      "rank": 49,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 353862,
@@ -30763,6 +30779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303472,
+      "num": 471504,
+      "word": "岁月偷走了童年但偷不走童年的回忆",
+      "onboard_time": 1717137197,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303349,
       "num": 289646,
       "word": "国旗军旗与宝岛中央山脉同框",
@@ -32459,14 +32483,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 283758,
-      "num": 248732,
-      "word": "袁娅维 我要和节目组翻脸",
-      "onboard_time": 1717138877,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283726,
       "num": 283726,
       "word": "徐园男友有3次暴力前科",
@@ -33217,14 +33233,6 @@
       "onboard_time": 1715173280,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277081,
-      "num": 277081,
-      "word": "岁月偷走了童年但偷不走童年的回忆",
-      "onboard_time": 1717137197,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277072,
@@ -34577,6 +34585,14 @@
       "onboard_time": 1715863219,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264381,
+      "num": 240573,
+      "word": "沈月黑长直",
+      "onboard_time": 1717140618,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 264221,
@@ -42883,6 +42899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209979,
+      "num": 209979,
+      "word": "叶轻眉日记",
+      "onboard_time": 1717139898,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209965,
       "num": 209965,
       "word": "能叫醒十个勤天董事的已经不多了",
@@ -43473,6 +43497,14 @@
       "onboard_time": 1716345978,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 207625,
+      "num": 207625,
+      "word": "迪丽热巴EP不收费",
+      "onboard_time": 1717139718,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 207619,
@@ -44153,6 +44185,14 @@
       "onboard_time": 1716009378,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205542,
+      "num": 205542,
+      "word": "痛经被具象化了",
+      "onboard_time": 1717137797,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 205532,
@@ -51155,14 +51195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 185396,
-      "num": 185396,
-      "word": "痛经被具象化了",
-      "onboard_time": 1717137797,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185334,
       "num": 185334,
       "word": "TE对战MRC",
@@ -51313,6 +51345,14 @@
       "onboard_time": 1717054217,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184891,
+      "num": 184891,
+      "word": "华晨宇的日出特辑终于来了",
+      "onboard_time": 1717140139,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 184878,
@@ -56019,6 +56059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168556,
+      "num": 168556,
+      "word": "谁家好人一部剧播十年啊",
+      "onboard_time": 1717140438,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168531,
       "num": 168531,
       "word": "制片人谢晓虎力挺黄俊捷",
@@ -59115,6 +59163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158420,
+      "num": 158420,
+      "word": "最爱叶轻眉的是谁",
+      "onboard_time": 1717140198,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158411,
       "num": 123189,
       "word": "涂山红红铃铛一响杀光全场",
@@ -59435,6 +59491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157501,
+      "num": 137166,
+      "word": "王俊凯带吉他出发长沙",
+      "onboard_time": 1717140017,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157483,
       "num": 157483,
       "word": "小雨舞台好勾魂",
@@ -59585,6 +59649,14 @@
       "onboard_time": 1714658900,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157041,
+      "num": 157041,
+      "word": "中美防长新加坡会晤",
+      "onboard_time": 1717139778,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156975,
@@ -63329,6 +63401,14 @@
       "onboard_time": 1714816880,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145446,
+      "num": 145446,
+      "word": "原来这就是人流量500营业额0",
+      "onboard_time": 1717140438,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 145421,
@@ -67171,6 +67251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 133934,
+      "num": 133934,
+      "word": "胡歌工作室回应白玉兰提名",
+      "onboard_time": 1717140738,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133931,
       "num": 133931,
       "word": "原来大家小时候都偷过爸妈的钱",
@@ -67577,14 +67665,6 @@
       "onboard_time": 1716298040,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132827,
-      "num": 437874,
-      "word": "两岁半幼童每天戴12小时牙套",
-      "onboard_time": 1717136777,
-      "rank": 49,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 132806,
@@ -69017,14 +69097,6 @@
       "onboard_time": 1714634478,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128210,
-      "num": 128210,
-      "word": "迪丽热巴EP不收费",
-      "onboard_time": 1717139718,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 128185,
@@ -70761,6 +70833,14 @@
       "onboard_time": 1714576100,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122939,
+      "num": 122939,
+      "word": "山东泰山官宣续约王大雷",
+      "onboard_time": 1717140076,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 122929,
@@ -76681,14 +76761,6 @@
       "onboard_time": 1715841256,
       "rank": 11,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 98416,
-      "num": 103269,
-      "word": "中美防长新加坡会晤",
-      "onboard_time": 1717139778,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 98413,
@@ -84219,6 +84291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25247,
+      "num": 728873,
+      "word": "小孩子是真正的诗人",
+      "onboard_time": 1717140557,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25066,
       "num": 32193,
       "word": "新说唱2024",
@@ -85569,6 +85649,14 @@
       "onboard_time": 1715886251,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7623,
+      "num": 111517,
+      "word": "有被拼多多客服宠到",
+      "onboard_time": 1717140857,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 7316,

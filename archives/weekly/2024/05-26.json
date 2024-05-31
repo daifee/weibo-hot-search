@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717139894398,
+  "endTime": 1717140913683,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 1431415,
-      "num": 459871,
+      "num": 468170,
       "word": "为什么一次出轨会有无数次",
       "onboard_time": 1717128919,
       "rank": 30,
@@ -635,6 +635,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1272149,
+      "num": 706111,
+      "word": "阿道夫力挺王一博",
+      "onboard_time": 1717137677,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1245240,
       "num": 463994,
       "word": "追风者 男主",
@@ -729,14 +737,6 @@
       "onboard_time": 1716986658,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1171108,
-      "num": 514986,
-      "word": "阿道夫力挺王一博",
-      "onboard_time": 1717137677,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1161535,
@@ -2835,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523751,
+      "num": 456918,
+      "word": "袁娅维 我要和节目组翻脸",
+      "onboard_time": 1717138877,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523357,
       "num": 518311,
       "word": "张若昀唐艺昕是情侣名",
@@ -3169,6 +3177,14 @@
       "onboard_time": 1716890719,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 496825,
+      "num": 496825,
+      "word": "今年高考报名人数比去年多51万人",
+      "onboard_time": 1717133177,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 496787,
@@ -4075,14 +4091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 405778,
-      "num": 415994,
-      "word": "今年高考报名人数比去年多51万人",
-      "onboard_time": 1717133177,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 405585,
       "num": 285758,
       "word": "黄宣 蝴蝶",
@@ -4721,6 +4729,14 @@
       "onboard_time": 1716736519,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 354282,
+      "num": 437874,
+      "word": "两岁半幼童每天戴12小时牙套",
+      "onboard_time": 1717136777,
+      "rank": 49,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 353817,
@@ -5371,6 +5387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 303472,
+      "num": 471504,
+      "word": "岁月偷走了童年但偷不走童年的回忆",
+      "onboard_time": 1717137197,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303189,
       "num": 288995,
       "word": "庆余年 泪点",
@@ -5667,14 +5691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283758,
-      "num": 248732,
-      "word": "袁娅维 我要和节目组翻脸",
-      "onboard_time": 1717138877,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281604,
       "num": 281604,
       "word": "巴新山体滑坡估算超670人死亡",
@@ -5745,14 +5761,6 @@
       "onboard_time": 1716821661,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 277081,
-      "num": 277081,
-      "word": "岁月偷走了童年但偷不走童年的回忆",
-      "onboard_time": 1717137197,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276886,
@@ -5953,6 +5961,14 @@
       "onboard_time": 1717137197,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264381,
+      "num": 240573,
+      "word": "沈月黑长直",
+      "onboard_time": 1717140618,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 264221,
@@ -7531,6 +7547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 209979,
+      "num": 209979,
+      "word": "叶轻眉日记",
+      "onboard_time": 1717139898,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209797,
       "num": 205540,
       "word": "肖战纯白U领T恤",
@@ -7667,6 +7691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207625,
+      "num": 207625,
+      "word": "迪丽热巴EP不收费",
+      "onboard_time": 1717139718,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207583,
       "num": 207583,
       "word": "火箭军新兵授衔大场面",
@@ -7777,6 +7809,14 @@
       "onboard_time": 1717052117,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205542,
+      "num": 205542,
+      "word": "痛经被具象化了",
+      "onboard_time": 1717137797,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 205532,
@@ -9059,14 +9099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185396,
-      "num": 185396,
-      "word": "痛经被具象化了",
-      "onboard_time": 1717137797,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185271,
       "num": 185271,
       "word": "原来大多数人小脚趾甲是分瓣的",
@@ -9105,6 +9137,14 @@
       "onboard_time": 1717054217,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184891,
+      "num": 184891,
+      "word": "华晨宇的日出特辑终于来了",
+      "onboard_time": 1717140139,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 184878,
@@ -9915,6 +9955,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 168556,
+      "num": 168556,
+      "word": "谁家好人一部剧播十年啊",
+      "onboard_time": 1717140438,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168508,
       "num": 168508,
       "word": "胡歌深夜赶回上海",
@@ -10499,6 +10547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158420,
+      "num": 158420,
+      "word": "最爱叶轻眉的是谁",
+      "onboard_time": 1717140198,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158187,
       "num": 158187,
       "word": "福宝啥时候上下班全看自己的心情",
@@ -10563,12 +10619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157501,
+      "num": 137166,
+      "word": "王俊凯带吉他出发长沙",
+      "onboard_time": 1717140017,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157184,
       "num": 157184,
       "word": "6类人容易提前长白发",
       "onboard_time": 1717024875,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157041,
+      "num": 157041,
+      "word": "中美防长新加坡会晤",
+      "onboard_time": 1717139778,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156939,
@@ -11209,6 +11281,14 @@
       "onboard_time": 1717028418,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145446,
+      "num": 145446,
+      "word": "原来这就是人流量500营业额0",
+      "onboard_time": 1717140438,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 145405,
@@ -12003,6 +12083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 133934,
+      "num": 133934,
+      "word": "胡歌工作室回应白玉兰提名",
+      "onboard_time": 1717140738,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133931,
       "num": 133931,
       "word": "原来大家小时候都偷过爸妈的钱",
@@ -12097,14 +12185,6 @@
       "onboard_time": 1716712038,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132827,
-      "num": 437874,
-      "word": "两岁半幼童每天戴12小时牙套",
-      "onboard_time": 1717136777,
-      "rank": 49,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 132692,
@@ -12449,14 +12529,6 @@
       "onboard_time": 1717035017,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128210,
-      "num": 128210,
-      "word": "迪丽热巴EP不收费",
-      "onboard_time": 1717139718,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 128185,
@@ -12832,6 +12904,14 @@
       "word": "塔图姆36分",
       "onboard_time": 1716696677,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122939,
+      "num": 122939,
+      "word": "山东泰山官宣续约王大雷",
+      "onboard_time": 1717140076,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -14089,14 +14169,6 @@
       "onboard_time": 1716791898,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98416,
-      "num": 103269,
-      "word": "中美防长新加坡会晤",
-      "onboard_time": 1717139778,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 98286,
@@ -15899,6 +15971,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 25247,
+      "num": 728873,
+      "word": "小孩子是真正的诗人",
+      "onboard_time": 1717140557,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25066,
       "num": 32193,
       "word": "新说唱2024",
@@ -16169,6 +16249,14 @@
       "onboard_time": 1716701000,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 7623,
+      "num": 111517,
+      "word": "有被拼多多客服宠到",
+      "onboard_time": 1717140857,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 7316,
