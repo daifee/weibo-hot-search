@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717187683656,
+  "endTime": 1717190287359,
   "band_list": [
     {
       "raw_hot": 1683026,
@@ -507,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22709,
+      "num": 19518,
+      "word": "Fine乐团出息了",
+      "onboard_time": 1717189270,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21896,
       "num": 31709,
       "word": "揭榜歌手",
@@ -539,7 +547,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13392,
+      "raw_hot": 14459,
       "num": 24187,
       "word": "为1342万高考学子加油",
       "onboard_time": 1717186091,

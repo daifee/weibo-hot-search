@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/01 04:34:43
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/01 05:18:07
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ Paparazzi（热度：35547）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Fine%E4%B9%90%E5%9B%A2%E5%87%BA%E6%81%AF%E4%BA%86%23" target="weibo">
+Fine乐团出息了（热度：22709）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%AD%E6%A6%9C%E6%AD%8C%E6%89%8B%23" target="weibo">
 揭榜歌手（热度：21896）
 </a>
@@ -418,7 +424,7 @@ Paparazzi（热度：35547）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA1342%E4%B8%87%E9%AB%98%E8%80%83%E5%AD%A6%E5%AD%90%E5%8A%A0%E6%B2%B9%23" target="weibo">
-为1342万高考学子加油（热度：13392）
+为1342万高考学子加油（热度：14459）
 </a>
 </li>
 
