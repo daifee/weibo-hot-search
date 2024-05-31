@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717172576225,
+  "endTime": 1717173533966,
   "band_list": [
     {
       "raw_hot": 1683026,
@@ -51,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 848721,
+      "num": 307983,
+      "word": "孙楠出场歌手破1",
+      "onboard_time": 1717170739,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 832199,
       "num": 309727,
       "word": "游本昌主动放弃参评白玉兰奖",
       "onboard_time": 1717166723,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 767609,
-      "num": 307983,
-      "word": "孙楠出场歌手破1",
-      "onboard_time": 1717170739,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 675861,
@@ -123,20 +123,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442580,
+      "num": 284244,
+      "word": "张钰琪十年圆梦上歌手",
+      "onboard_time": 1717170320,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417816,
       "num": 303929,
       "word": "艾森豪威尔号航母",
       "onboard_time": 1717168041,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 411162,
-      "num": 284244,
-      "word": "张钰琪十年圆梦上歌手",
-      "onboard_time": 1717170320,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 372670,
@@ -155,8 +155,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318151,
-      "num": 318151,
+      "raw_hot": 362308,
+      "num": 362308,
       "word": "王雪峰被控受贿8407万余元",
       "onboard_time": 1717160360,
       "rank": 7,
@@ -227,20 +227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230610,
+      "num": 253495,
+      "word": "李沁像极了美人鱼",
+      "onboard_time": 1717171879,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 206190,
       "num": 254047,
       "word": "汪苏泷看到热搜了",
       "onboard_time": 1717164626,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200389,
-      "num": 253495,
-      "word": "李沁像极了美人鱼",
-      "onboard_time": 1717171879,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199555,
@@ -283,12 +283,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 176716,
+      "num": 252325,
+      "word": "尚雯婕回应去隔壁歌手吧",
+      "onboard_time": 1717172418,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168941,
       "num": 253178,
       "word": "曾舜晞田曦薇对扑克牌",
       "onboard_time": 1717169959,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 160713,
+      "num": 215439,
+      "word": "Fine乐团 呼吸决定",
+      "onboard_time": 1717172659,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 160077,
@@ -299,12 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158339,
-      "num": 252325,
-      "word": "尚雯婕回应去隔壁歌手吧",
-      "onboard_time": 1717172418,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 158314,
+      "num": 297095,
+      "word": "2024高考试卷押运现场",
+      "onboard_time": 1717169541,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 153893,
@@ -323,14 +339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126649,
-      "num": 297095,
-      "word": "2024高考试卷押运现场",
-      "onboard_time": 1717169541,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 119129,
       "num": 253764,
       "word": "华为发布会",
@@ -339,7 +347,15 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 88639,
+      "raw_hot": 102271,
+      "num": 252772,
+      "word": "今年六一恰逢周六",
+      "onboard_time": 1717171279,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100570,
       "num": 252927,
       "word": "巴勒斯坦",
       "onboard_time": 1717163007,
@@ -347,11 +363,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 83821,
-      "num": 252772,
-      "word": "今年六一恰逢周六",
-      "onboard_time": 1717171279,
-      "rank": 45,
+      "raw_hot": 84711,
+      "num": 313907,
+      "word": "学校边这个派出所每天都人满为患",
+      "onboard_time": 1717169900,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1717172539,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 78761,
+      "num": 215226,
+      "word": "江西一楼房发生爆炸有人员受伤",
+      "onboard_time": 1717170619,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76893,
@@ -379,11 +403,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57097,
-      "num": 313907,
-      "word": "学校边这个派出所每天都人满为患",
-      "onboard_time": 1717169900,
-      "rank": 9,
+      "raw_hot": 64622,
+      "num": 215216,
+      "word": "朱婷替补",
+      "onboard_time": 1717157417,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38784,
+      "num": 284758,
+      "word": "奶凶的幼儿园小朋友滑最猛的龙舟",
+      "onboard_time": 1717172418,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -393,19 +425,14 @@
       "onboard_time": 1717162287,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22670,
-      "num": 254001,
-      "word": "奶凶的幼儿园小朋友滑最猛的龙舟",
-      "onboard_time": 1717172418,
-      "rank": 37,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平同突尼斯总统会谈#"
+    },
+    {
+      "word": "#习近平同巴林国王会谈#"
     }
   ]
 }
