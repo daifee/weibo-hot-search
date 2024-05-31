@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717168916362,
+  "endTime": 1717169653689,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -1323,6 +1323,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 950554,
+      "num": 950554,
+      "word": "中方确认不参加乌克兰问题和平峰会",
+      "onboard_time": 1717163726,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 943047,
       "num": 943047,
       "word": "冯小刚电影 赵丽颖迪丽热巴",
@@ -1649,14 +1657,6 @@
       "onboard_time": 1717124898,
       "rank": 11,
       "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 823277,
-      "num": 823277,
-      "word": "中方确认不参加乌克兰问题和平峰会",
-      "onboard_time": 1717163726,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 819818,
@@ -2977,6 +2977,14 @@
       "onboard_time": 1716775277,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 568364,
+      "num": 259001,
+      "word": "一颗花心的萝卜",
+      "onboard_time": 1717168282,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 567744,
@@ -4547,12 +4555,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 409962,
-      "num": 257586,
-      "word": "一颗花心的萝卜",
-      "onboard_time": 1717168282,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 408980,
+      "num": 408980,
+      "word": "农村婚礼真的很挑摄影师",
+      "onboard_time": 1717164685,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 407557,
@@ -4939,14 +4947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 382331,
-      "num": 382331,
-      "word": "农村婚礼真的很挑摄影师",
-      "onboard_time": 1717164685,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 382260,
       "num": 233506,
       "word": "白玉兰 水",
@@ -5092,7 +5092,7 @@
     },
     {
       "raw_hot": 371844,
-      "num": 243736,
+      "num": 259787,
       "word": "lululemon代工厂号称自家平替能以假乱真",
       "onboard_time": 1717166422,
       "rank": 35,
@@ -5297,6 +5297,14 @@
       "onboard_time": 1716736519,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 354420,
+      "num": 206958,
+      "word": "耳帝评歌手第四期",
+      "onboard_time": 1717169360,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 353817,
@@ -5545,6 +5553,14 @@
       "onboard_time": 1716909860,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333942,
+      "num": 1801238,
+      "word": "魏大勋急眼了",
+      "onboard_time": 1717167743,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 333201,
@@ -6371,6 +6387,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 280285,
+      "num": 280285,
+      "word": "艾森豪威尔号航母",
+      "onboard_time": 1717168041,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 280087,
       "num": 280087,
       "word": "北京市民网上买药支持医保支付",
@@ -7081,6 +7105,14 @@
       "onboard_time": 1716862398,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246234,
+      "num": 246234,
+      "word": "我发现人不能一直住太差的房子",
+      "onboard_time": 1717167864,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 245911,
@@ -8307,14 +8339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211194,
-      "num": 211194,
-      "word": "我发现人不能一直住太差的房子",
-      "onboard_time": 1717167864,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211074,
       "num": 211074,
       "word": "背着善宰跑大结局预告",
@@ -8489,14 +8513,6 @@
       "onboard_time": 1716994999,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208274,
-      "num": 1801238,
-      "word": "魏大勋急眼了",
-      "onboard_time": 1717167743,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 208261,
@@ -10035,14 +10051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185440,
-      "num": 227695,
-      "word": "艾森豪威尔号航母",
-      "onboard_time": 1717168041,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 185271,
       "num": 185271,
       "word": "原来大多数人小脚趾甲是分瓣的",
@@ -10249,6 +10257,14 @@
       "onboard_time": 1717146797,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181654,
+      "num": 181654,
+      "word": "江西上栗发生爆炸致2死3伤",
+      "onboard_time": 1717167983,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181608,
@@ -11155,6 +11171,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 166047,
+      "num": 180476,
+      "word": "为什么熬夜时心脏会咯噔一下",
+      "onboard_time": 1717167743,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 165864,
       "num": 165864,
       "word": "唐嫣T锦绣六月刊封面",
@@ -11368,14 +11392,6 @@
       "word": "人的牙齿天生就是偏黄的",
       "onboard_time": 1716701298,
       "rank": 45,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 163184,
-      "num": 180476,
-      "word": "为什么熬夜时心脏会咯噔一下",
-      "onboard_time": 1717167743,
-      "rank": 46,
       "category": "科学科普"
     },
     {
@@ -11673,14 +11689,6 @@
       "onboard_time": 1717141159,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157316,
-      "num": 180466,
-      "word": "江西上栗发生爆炸致2死3伤",
-      "onboard_time": 1717167983,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157184,
@@ -13019,6 +13027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136603,
+      "num": 165517,
+      "word": "景诗 TCG",
+      "onboard_time": 1717168642,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136356,
       "num": 136356,
       "word": "长期饮用碳酸饮料会降低骨密度",
@@ -14347,6 +14363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119955,
+      "num": 164751,
+      "word": "华为发布会",
+      "onboard_time": 1717169182,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 119939,
       "num": 119939,
       "word": "电竞世界杯LOL项目赛制",
@@ -15163,6 +15187,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 106271,
+      "num": 1836995,
+      "word": "这是我收到最好的六一礼物",
+      "onboard_time": 1717167082,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106071,
       "num": 106071,
       "word": "ENHYPEN打歌舞台",
@@ -15425,6 +15457,14 @@
       "onboard_time": 1717070297,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100043,
+      "num": 164040,
+      "word": "2024高考试卷押运现场",
+      "onboard_time": 1717169541,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 100013,
@@ -16155,14 +16195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 71712,
-      "num": 1836995,
-      "word": "这是我收到最好的六一礼物",
-      "onboard_time": 1717167082,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 71527,
       "num": 68952,
       "word": "狐妖导演回应杨幂龚俊cp感",
@@ -16731,6 +16763,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 51674,
+      "num": 292953,
+      "word": "郑恺 原来我离真相这么近",
+      "onboard_time": 1717168881,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51568,
       "num": 1212508,
       "word": "今天发条微博致敬科技工作者",
@@ -16827,6 +16867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50317,
+      "num": 368683,
+      "word": "新品发布秀已经是nextlevel",
+      "onboard_time": 1717165403,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 49900,
       "num": 49900,
       "word": "翻唱",
@@ -16857,14 +16905,6 @@
       "onboard_time": 1717146558,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 48216,
-      "num": 368683,
-      "word": "新品发布秀已经是nextlevel",
-      "onboard_time": 1717165403,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 47839,
@@ -17001,6 +17041,14 @@
       "onboard_time": 1717160661,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42402,
+      "num": 265323,
+      "word": "张真源画的头盔是宋雨琦假发",
+      "onboard_time": 1717169061,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 42373,
@@ -17195,6 +17243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36898,
+      "num": 531489,
+      "word": "男子看到去世24年父亲照片时红了眼眶",
+      "onboard_time": 1717168822,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36833,
       "num": 333548,
       "word": "京东红人",
@@ -17369,14 +17425,6 @@
       "onboard_time": 1716979458,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28350,
-      "num": 292953,
-      "word": "郑恺 原来我离真相这么近",
-      "onboard_time": 1717168881,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 28011,
@@ -17641,14 +17689,6 @@
       "onboard_time": 1716920412,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18194,
-      "num": 248947,
-      "word": "男子看到去世24年父亲照片时红了眼眶",
-      "onboard_time": 1717168822,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18126,

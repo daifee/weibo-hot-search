@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717168916362,
+  "endTime": 1717169653689,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -7163,6 +7163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 950554,
+      "num": 950554,
+      "word": "中方确认不参加乌克兰问题和平峰会",
+      "onboard_time": 1717163726,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 950454,
       "num": 950454,
       "word": "周扬青底妆刷了4层粉底",
@@ -9033,14 +9041,6 @@
       "onboard_time": 1714889239,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 823277,
-      "num": 823277,
-      "word": "中方确认不参加乌克兰问题和平峰会",
-      "onboard_time": 1717163726,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 822652,
@@ -15801,6 +15801,14 @@
       "onboard_time": 1716775277,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 568364,
+      "num": 259001,
+      "word": "一颗花心的萝卜",
+      "onboard_time": 1717168282,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 568201,
@@ -23723,14 +23731,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 409962,
-      "num": 257586,
-      "word": "一颗花心的萝卜",
-      "onboard_time": 1717168282,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 409895,
       "num": 244377,
       "word": "金秀贤金智媛ins更新照",
@@ -23761,6 +23761,14 @@
       "onboard_time": 1715150060,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 408980,
+      "num": 408980,
+      "word": "农村婚礼真的很挑摄影师",
+      "onboard_time": 1717164685,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 408914,
@@ -25595,14 +25603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 382331,
-      "num": 382331,
-      "word": "农村婚礼真的很挑摄影师",
-      "onboard_time": 1717164685,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 382293,
       "num": 337388,
       "word": "官方介入调查空包外卖",
@@ -26236,7 +26236,7 @@
     },
     {
       "raw_hot": 371844,
-      "num": 243736,
+      "num": 259787,
       "word": "lululemon代工厂号称自家平替能以假乱真",
       "onboard_time": 1717166422,
       "rank": 35,
@@ -27329,6 +27329,14 @@
       "onboard_time": 1716591853,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 354420,
+      "num": 206958,
+      "word": "耳帝评歌手第四期",
+      "onboard_time": 1717169360,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 353862,
@@ -28865,6 +28873,14 @@
       "onboard_time": 1715916440,
       "rank": 15,
       "category": "互联网,综艺"
+    },
+    {
+      "raw_hot": 333942,
+      "num": 1801238,
+      "word": "魏大勋急眼了",
+      "onboard_time": 1717167743,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 333941,
@@ -33435,6 +33451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280285,
+      "num": 280285,
+      "word": "艾森豪威尔号航母",
+      "onboard_time": 1717168041,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 280248,
       "num": 280248,
       "word": "死歌太夸张了",
@@ -37489,6 +37513,14 @@
       "onboard_time": 1716862398,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246234,
+      "num": 246234,
+      "word": "我发现人不能一直住太差的房子",
+      "onboard_time": 1717167864,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 246158,
@@ -43427,14 +43459,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 211194,
-      "num": 211194,
-      "word": "我发现人不能一直住太差的房子",
-      "onboard_time": 1717167864,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211166,
       "num": 211166,
       "word": "歌手关注约翰传奇",
@@ -44105,14 +44129,6 @@
       "onboard_time": 1715654058,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208274,
-      "num": 1801238,
-      "word": "魏大勋急眼了",
-      "onboard_time": 1717167743,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 208261,
@@ -52075,14 +52091,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 185440,
-      "num": 227695,
-      "word": "艾森豪威尔号航母",
-      "onboard_time": 1717168041,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 185426,
       "num": 185426,
       "word": "内塔尼亚胡称美国一年2万人饿死",
@@ -53184,6 +53192,14 @@
       "word": "珠海暴雨",
       "onboard_time": 1714797079,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181654,
+      "num": 181654,
+      "word": "江西上栗发生爆炸致2死3伤",
+      "onboard_time": 1717167983,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -57835,6 +57851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166047,
+      "num": 180476,
+      "word": "为什么熬夜时心脏会咯噔一下",
+      "onboard_time": 1717167743,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 165971,
       "num": 165971,
       "word": "狼队大连见",
@@ -58848,14 +58872,6 @@
       "word": "人的牙齿天生就是偏黄的",
       "onboard_time": 1716701298,
       "rank": 45,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 163184,
-      "num": 180476,
-      "word": "为什么熬夜时心脏会咯噔一下",
-      "onboard_time": 1717167743,
-      "rank": 46,
       "category": "科学科普"
     },
     {
@@ -60544,14 +60560,6 @@
       "word": "嫦娥六号发射定在5月3日",
       "onboard_time": 1714558999,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157316,
-      "num": 180466,
-      "word": "江西上栗发生爆炸致2死3伤",
-      "onboard_time": 1717167983,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -67385,6 +67393,14 @@
       "onboard_time": 1716572353,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136603,
+      "num": 165517,
+      "word": "景诗 TCG",
+      "onboard_time": 1717168642,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 136563,
@@ -76643,6 +76659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106271,
+      "num": 1836995,
+      "word": "这是我收到最好的六一礼物",
+      "onboard_time": 1717167082,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106098,
       "num": 106098,
       "word": "12岁萌娃准备的家长会零食太炸裂",
@@ -77817,6 +77841,14 @@
       "onboard_time": 1715011336,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100043,
+      "num": 164040,
+      "word": "2024高考试卷押运现场",
+      "onboard_time": 1717169541,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 100013,
@@ -80915,14 +80947,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 71712,
-      "num": 1836995,
-      "word": "这是我收到最好的六一礼物",
-      "onboard_time": 1717167082,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 71692,
       "num": 391073,
       "word": "荣耀雅顾",
@@ -83187,6 +83211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51674,
+      "num": 292953,
+      "word": "郑恺 原来我离真相这么近",
+      "onboard_time": 1717168881,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51647,
       "num": 51647,
       "word": "派出所为哭到泪崩的73岁老人做了一件事",
@@ -83363,6 +83395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50317,
+      "num": 368683,
+      "word": "新品发布秀已经是nextlevel",
+      "onboard_time": 1717165403,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 50304,
       "num": 1003223,
       "word": "文化中国行",
@@ -83537,14 +83577,6 @@
       "onboard_time": 1715945419,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48216,
-      "num": 368683,
-      "word": "新品发布秀已经是nextlevel",
-      "onboard_time": 1717165403,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 48123,
@@ -84169,6 +84201,14 @@
       "onboard_time": 1716392538,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 42402,
+      "num": 265323,
+      "word": "张真源画的头盔是宋雨琦假发",
+      "onboard_time": 1717169061,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 42373,
@@ -84801,6 +84841,14 @@
       "onboard_time": 1716271520,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 36898,
+      "num": 531489,
+      "word": "男子看到去世24年父亲照片时红了眼眶",
+      "onboard_time": 1717168822,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36846,
@@ -85481,14 +85529,6 @@
       "onboard_time": 1716979458,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28350,
-      "num": 292953,
-      "word": "郑恺 原来我离真相这么近",
-      "onboard_time": 1717168881,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 28119,
@@ -86465,14 +86505,6 @@
       "onboard_time": 1716920412,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18194,
-      "num": 248947,
-      "word": "男子看到去世24年父亲照片时红了眼眶",
-      "onboard_time": 1717168822,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18126,
