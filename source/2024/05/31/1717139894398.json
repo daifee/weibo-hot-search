@@ -1,0 +1,410 @@
+{
+  "runTime": 1717139894398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1116403,
+        "num": 1116403,
+        "word": "何洁生气",
+        "onboard_time": 1717132878,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 940033,
+        "num": 940033,
+        "word": "弟弟说冰箱里给我留了西瓜",
+        "onboard_time": 1717131499,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 515132,
+        "num": 515132,
+        "word": "台湾",
+        "onboard_time": 1717124419,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1171108,
+        "num": 514986,
+        "word": "阿道夫力挺王一博",
+        "onboard_time": 1717137677,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514611,
+        "num": 514611,
+        "word": "工信部拟禁止汽车单踏板完全刹停",
+        "onboard_time": 1717127537,
+        "rank": 4,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 476608,
+        "num": 476608,
+        "word": "印尼男子结婚12天发现妻子是男人",
+        "onboard_time": 1717132638,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862082,
+        "num": 476382,
+        "word": "庆余年3 边拍边播",
+        "onboard_time": 1717129819,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452668,
+        "num": 452668,
+        "word": "她居然还是跳的最好的一个",
+        "onboard_time": 1717117638,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 582368,
+        "num": 448707,
+        "word": "王一博官方粉丝团发文",
+        "onboard_time": 1717136417,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132827,
+        "num": 437874,
+        "word": "两岁半幼童每天戴12小时牙套",
+        "onboard_time": 1717136777,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 693434,
+        "num": 430624,
+        "word": "为什么一次出轨会有无数次",
+        "onboard_time": 1717128919,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 564003,
+        "num": 428250,
+        "word": "58%男性不孕不育被诊断为不明原因",
+        "onboard_time": 1717125318,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 471878,
+        "num": 420770,
+        "word": "媒体评王阳入围白玉兰",
+        "onboard_time": 1717126819,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415059,
+        "num": 415059,
+        "word": "原来庆帝叫李云潜",
+        "onboard_time": 1717133238,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405778,
+        "num": 405778,
+        "word": "今年高考报名人数比去年多51万人",
+        "onboard_time": 1717133177,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 403034,
+        "num": 403034,
+        "word": "唐嫣工作室回应白玉兰提名",
+        "onboard_time": 1717135519,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302277,
+        "num": 302277,
+        "word": "汪峰方否认出新歌我的梦想我的森林北",
+        "onboard_time": 1717132518,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277081,
+        "num": 277081,
+        "word": "岁月偷走了童年但偷不走童年的回忆",
+        "onboard_time": 1717137197,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264870,
+        "num": 264870,
+        "word": "从怀孕到宝宝一岁的花销",
+        "onboard_time": 1717131499,
+        "rank": 18,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 255691,
+        "num": 255691,
+        "word": "教育部要求隐蔽场所视频监控全覆盖",
+        "onboard_time": 1717125378,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 293328,
+        "num": 252255,
+        "word": "那英真唱搁浅",
+        "onboard_time": 1717131200,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283758,
+        "num": 248732,
+        "word": "袁娅维 我要和节目组翻脸",
+        "onboard_time": 1717138877,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243550,
+        "num": 243550,
+        "word": "下周五就高考了",
+        "onboard_time": 1717122918,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 215203,
+        "num": 215203,
+        "word": "何洁尚雯婕矛盾",
+        "onboard_time": 1717137197,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209208,
+        "num": 209208,
+        "word": "我怀孕三个月婆婆也怀孕一个月",
+        "onboard_time": 1717112357,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207980,
+        "num": 207980,
+        "word": "王俊凯录制你好星期六",
+        "onboard_time": 1717137197,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195042,
+        "num": 195042,
+        "word": "白玉兰 王一博",
+        "onboard_time": 1717127059,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191731,
+        "num": 191731,
+        "word": "陈昊宇手速",
+        "onboard_time": 1717133058,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186740,
+        "num": 186740,
+        "word": "留守女童疑被姑父殴打致口鼻流血",
+        "onboard_time": 1717137017,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 185396,
+        "num": 185396,
+        "word": "痛经被具象化了",
+        "onboard_time": 1717137797,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180232,
+        "num": 180232,
+        "word": "辛芷蕾庆余年有效客串",
+        "onboard_time": 1717135639,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167303,
+        "num": 167303,
+        "word": "闵熙珍将再次举行记者会",
+        "onboard_time": 1717139237,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158450,
+        "num": 158450,
+        "word": "张小斐 i人第一次去夜店",
+        "onboard_time": 1717137797,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154665,
+        "num": 154665,
+        "word": "串串房为什么被称白血病套房",
+        "onboard_time": 1717132278,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147209,
+        "num": 147209,
+        "word": "跳进地理书的旅行",
+        "onboard_time": 1717138277,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131381,
+        "num": 131381,
+        "word": "小猫连续越狱事件",
+        "onboard_time": 1717136478,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128210,
+        "num": 128210,
+        "word": "迪丽热巴EP不收费",
+        "onboard_time": 1717139718,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125696,
+        "num": 125696,
+        "word": "张艺兴抢票",
+        "onboard_time": 1717133778,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113013,
+        "num": 123071,
+        "word": "全球每4秒有1人死于吸烟相关疾病",
+        "onboard_time": 1717115898,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112271,
+        "num": 122991,
+        "word": "马来西亚一公司组团到成都旅游",
+        "onboard_time": 1717136836,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 122946,
+        "num": 122946,
+        "word": "张若昀对庆帝失望至极",
+        "onboard_time": 1717132878,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119990,
+        "num": 119990,
+        "word": "薛凯琪重回浪姐从背歌词开始",
+        "onboard_time": 1717138037,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117731,
+        "num": 117731,
+        "word": "邓为打领结",
+        "onboard_time": 1717137497,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108953,
+        "num": 115934,
+        "word": "无畏契约",
+        "onboard_time": 1717136417,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114189,
+        "num": 114189,
+        "word": "时光正好定档",
+        "onboard_time": 1717139177,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112867,
+        "num": 112867,
+        "word": "迪丽热巴生日发新歌",
+        "onboard_time": 1717130539,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108801,
+        "num": 108801,
+        "word": "偷感很重的早安老师",
+        "onboard_time": 1717136297,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107025,
+        "num": 107025,
+        "word": "GQ出图",
+        "onboard_time": 1717125858,
+        "rank": 47,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 103520,
+        "num": 103520,
+        "word": "敷面膜一个月的皮肤变化",
+        "onboard_time": 1717119798,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 98416,
+        "num": 103269,
+        "word": "中美防长新加坡会晤",
+        "onboard_time": 1717139778,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席同阿拉伯朋友北京再相聚#"
+    }
+  }
+}

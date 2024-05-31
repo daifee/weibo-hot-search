@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717137516418,
+  "endTime": 1717139894398,
   "band_list": [
     {
       "raw_hot": 2201205,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1171108,
+      "num": 514986,
+      "word": "阿道夫力挺王一博",
+      "onboard_time": 1717137677,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1170652,
       "num": 1170652,
       "word": "白玉兰提名没有王一博",
@@ -99,20 +107,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1116403,
+      "num": 1116403,
+      "word": "何洁生气",
+      "onboard_time": 1717132878,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1115455,
       "num": 1115455,
       "word": "王倦 第三季不会等这么久",
       "onboard_time": 1717084158,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1048207,
-      "num": 781884,
-      "word": "何洁生气",
-      "onboard_time": 1717132878,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1015239,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 423205,
-      "num": 385860,
+      "num": 403034,
       "word": "唐嫣工作室回应白玉兰提名",
       "onboard_time": 1717135519,
       "rank": 16,
@@ -417,6 +425,14 @@
       "onboard_time": 1717122618,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 405778,
+      "num": 415994,
+      "word": "今年高考报名人数比去年多51万人",
+      "onboard_time": 1717133177,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 388701,
@@ -507,14 +523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 326489,
-      "num": 415994,
-      "word": "今年高考报名人数比去年多51万人",
-      "onboard_time": 1717133177,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 324358,
       "num": 307108,
       "word": "甘肃省博物馆发声明",
@@ -595,6 +603,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283758,
+      "num": 248732,
+      "word": "袁娅维 我要和节目组翻脸",
+      "onboard_time": 1717138877,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 277081,
+      "num": 277081,
+      "word": "岁月偷走了童年但偷不走童年的回忆",
+      "onboard_time": 1717137197,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275737,
       "num": 275737,
       "word": "3000元拿下家庭健身房是个什么水平",
@@ -603,20 +627,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 264870,
+      "num": 264870,
+      "word": "从怀孕到宝宝一岁的花销",
+      "onboard_time": 1717131499,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 264668,
       "num": 211804,
       "word": "王俊凯录制你好星期六",
       "onboard_time": 1717137197,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262987,
-      "num": 243562,
-      "word": "从怀孕到宝宝一岁的花销",
-      "onboard_time": 1717131499,
-      "rank": 30,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 253351,
@@ -641,6 +665,14 @@
       "onboard_time": 1717070118,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243550,
+      "num": 543686,
+      "word": "下周五就高考了",
+      "onboard_time": 1717122918,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 239908,
@@ -689,14 +721,6 @@
       "onboard_time": 1717118239,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229138,
-      "num": 543686,
-      "word": "下周五就高考了",
-      "onboard_time": 1717122918,
-      "rank": 25,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 227286,
@@ -761,6 +785,14 @@
       "onboard_time": 1717127599,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215203,
+      "num": 215203,
+      "word": "何洁尚雯婕矛盾",
+      "onboard_time": 1717137197,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 213026,
@@ -915,6 +947,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186740,
+      "num": 186740,
+      "word": "留守女童疑被姑父殴打致口鼻流血",
+      "onboard_time": 1717137017,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 185396,
+      "num": 185396,
+      "word": "痛经被具象化了",
+      "onboard_time": 1717137797,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184380,
       "num": 184380,
       "word": "国台办回应中止对台部分产品关税减让",
@@ -937,14 +985,6 @@
       "onboard_time": 1717116799,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181525,
-      "num": 181525,
-      "word": "岁月偷走了童年但偷不走童年的回忆",
-      "onboard_time": 1717137197,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180572,
@@ -1003,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167303,
+      "num": 167303,
+      "word": "闵熙珍将再次举行记者会",
+      "onboard_time": 1717139237,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167048,
       "num": 139853,
       "word": "晚上喊弟弟爬山被删了",
@@ -1059,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163008,
-      "num": 163008,
-      "word": "留守女童疑被姑父殴打致口鼻流血",
-      "onboard_time": 1717137017,
-      "rank": 33,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 161916,
       "num": 161916,
       "word": "范志毅代号是曾经的球衣号码",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1717119617,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158450,
+      "num": 158450,
+      "word": "张小斐 i人第一次去夜店",
+      "onboard_time": 1717137797,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156246,
@@ -1163,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147937,
-      "num": 147937,
-      "word": "何洁尚雯婕矛盾",
-      "onboard_time": 1717137197,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147770,
       "num": 147770,
       "word": "白玉兰视帝提名",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1717078460,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 147209,
+      "num": 147209,
+      "word": "跳进地理书的旅行",
+      "onboard_time": 1717138277,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 146058,
@@ -1283,6 +1331,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 132827,
+      "num": 437874,
+      "word": "两岁半幼童每天戴12小时牙套",
+      "onboard_time": 1717136777,
+      "rank": 49,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 132692,
       "num": 132692,
       "word": "2024全国高考报名人数1342万人",
@@ -1297,6 +1353,14 @@
       "onboard_time": 1717069939,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128210,
+      "num": 128210,
+      "word": "迪丽热巴EP不收费",
+      "onboard_time": 1717139718,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 127964,
@@ -1379,6 +1443,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 119990,
+      "num": 119990,
+      "word": "薛凯琪重回浪姐从背歌词开始",
+      "onboard_time": 1717138037,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117856,
       "num": 162935,
       "word": "巴黎世家大秀",
@@ -1387,8 +1459,8 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 117449,
-      "num": 117449,
+      "raw_hot": 117731,
+      "num": 117731,
       "word": "邓为打领结",
       "onboard_time": 1717137497,
       "rank": 47,
@@ -1419,6 +1491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 114189,
+      "num": 114189,
+      "word": "时光正好定档",
+      "onboard_time": 1717139177,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109938,
       "num": 1405773,
       "word": "中国十二时辰之美",
@@ -1443,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106467,
-      "num": 106467,
-      "word": "两岁半幼童每天戴12小时牙套",
-      "onboard_time": 1717136777,
-      "rank": 49,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 105020,
       "num": 123540,
       "word": "炎亚纶被判7个月缓刑3年",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1717066817,
       "rank": 29,
       "category": "社会新闻,母婴育儿"
+    },
+    {
+      "raw_hot": 98416,
+      "num": 103269,
+      "word": "中美防长新加坡会晤",
+      "onboard_time": 1717139778,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93164,

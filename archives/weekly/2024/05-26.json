@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717137516418,
+  "endTime": 1717139894398,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -731,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1171108,
+      "num": 514986,
+      "word": "阿道夫力挺王一博",
+      "onboard_time": 1717137677,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1161535,
       "num": 1161535,
       "word": "淡黄色是牙医公认的健康色号",
@@ -785,6 +793,14 @@
       "onboard_time": 1717035316,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1116403,
+      "num": 1116403,
+      "word": "何洁生气",
+      "onboard_time": 1717132878,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1115455,
@@ -881,14 +897,6 @@
       "onboard_time": 1716877637,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1048207,
-      "num": 781884,
-      "word": "何洁生气",
-      "onboard_time": 1717132878,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1031743,
@@ -3852,7 +3860,7 @@
     },
     {
       "raw_hot": 423205,
-      "num": 385860,
+      "num": 403034,
       "word": "唐嫣工作室回应白玉兰提名",
       "onboard_time": 1717135519,
       "rank": 16,
@@ -4065,6 +4073,14 @@
       "onboard_time": 1717122618,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 405778,
+      "num": 415994,
+      "word": "今年高考报名人数比去年多51万人",
+      "onboard_time": 1717133177,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 405585,
@@ -5011,14 +5027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 326489,
-      "num": 415994,
-      "word": "今年高考报名人数比去年多51万人",
-      "onboard_time": 1717133177,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 326235,
       "num": 326235,
       "word": "2023年美国侵犯人权报告",
@@ -5659,6 +5667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283758,
+      "num": 248732,
+      "word": "袁娅维 我要和节目组翻脸",
+      "onboard_time": 1717138877,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281604,
       "num": 281604,
       "word": "巴新山体滑坡估算超670人死亡",
@@ -5729,6 +5745,14 @@
       "onboard_time": 1716821661,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 277081,
+      "num": 277081,
+      "word": "岁月偷走了童年但偷不走童年的回忆",
+      "onboard_time": 1717137197,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276886,
@@ -5915,6 +5939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 264870,
+      "num": 264870,
+      "word": "从怀孕到宝宝一岁的花销",
+      "onboard_time": 1717131499,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 264668,
       "num": 211804,
       "word": "王俊凯录制你好星期六",
@@ -5969,14 +6001,6 @@
       "onboard_time": 1716951137,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262987,
-      "num": 243562,
-      "word": "从怀孕到宝宝一岁的花销",
-      "onboard_time": 1717131499,
-      "rank": 30,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 262974,
@@ -6427,6 +6451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243550,
+      "num": 543686,
+      "word": "下周五就高考了",
+      "onboard_time": 1717122918,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 243539,
       "num": 243539,
       "word": "国产大飞机C919商运一周年",
@@ -6817,14 +6849,6 @@
       "onboard_time": 1716776056,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229138,
-      "num": 543686,
-      "word": "下周五就高考了",
-      "onboard_time": 1717122918,
-      "rank": 25,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 229011,
@@ -7329,6 +7353,14 @@
       "onboard_time": 1716906078,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215203,
+      "num": 215203,
+      "word": "何洁尚雯婕矛盾",
+      "onboard_time": 1717137197,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 215055,
@@ -8955,6 +8987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186740,
+      "num": 186740,
+      "word": "留守女童疑被姑父殴打致口鼻流血",
+      "onboard_time": 1717137017,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 186686,
       "num": 316194,
       "word": "马龙林高远3比1王楚钦梁靖崑",
@@ -9017,6 +9057,14 @@
       "onboard_time": 1716976637,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185396,
+      "num": 185396,
+      "word": "痛经被具象化了",
+      "onboard_time": 1717137797,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 185271,
@@ -9209,14 +9257,6 @@
       "onboard_time": 1716902358,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181525,
-      "num": 181525,
-      "word": "岁月偷走了童年但偷不走童年的回忆",
-      "onboard_time": 1717137197,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181298,
@@ -9955,6 +9995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167303,
+      "num": 167303,
+      "word": "闵熙珍将再次举行记者会",
+      "onboard_time": 1717139237,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167227,
       "num": 167227,
       "word": "张若昀 再不让你们理亏",
@@ -10243,14 +10291,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 163008,
-      "num": 163008,
-      "word": "留守女童疑被姑父殴打致口鼻流血",
-      "onboard_time": 1717137017,
-      "rank": 33,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 162986,
       "num": 262611,
       "word": "陈梦3比0战胜帕瓦德",
@@ -10449,6 +10489,14 @@
       "onboard_time": 1716704477,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158450,
+      "num": 158450,
+      "word": "张小斐 i人第一次去夜店",
+      "onboard_time": 1717137797,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158187,
@@ -11027,14 +11075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147937,
-      "num": 147937,
-      "word": "何洁尚雯婕矛盾",
-      "onboard_time": 1717137197,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147855,
       "num": 147855,
       "word": "雷佳音头比章子怡大两倍",
@@ -11073,6 +11113,14 @@
       "onboard_time": 1716783201,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147209,
+      "num": 147209,
+      "word": "跳进地理书的旅行",
+      "onboard_time": 1717138277,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 146969,
@@ -12051,6 +12099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132827,
+      "num": 437874,
+      "word": "两岁半幼童每天戴12小时牙套",
+      "onboard_time": 1717136777,
+      "rank": 49,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 132692,
       "num": 132692,
       "word": "2024全国高考报名人数1342万人",
@@ -12393,6 +12449,14 @@
       "onboard_time": 1717035017,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128210,
+      "num": 128210,
+      "word": "迪丽热巴EP不收费",
+      "onboard_time": 1717139718,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 128185,
@@ -12963,6 +13027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119990,
+      "num": 119990,
+      "word": "薛凯琪重回浪姐从背歌词开始",
+      "onboard_time": 1717138037,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119939,
       "num": 119939,
       "word": "电竞世界杯LOL项目赛制",
@@ -13123,6 +13195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117731,
+      "num": 117731,
+      "word": "邓为打领结",
+      "onboard_time": 1717137497,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 117581,
       "num": 117581,
       "word": "超市的杯子有自己的货币",
@@ -13145,14 +13225,6 @@
       "onboard_time": 1716889097,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117449,
-      "num": 117449,
-      "word": "邓为打领结",
-      "onboard_time": 1717137497,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 117396,
@@ -13337,6 +13409,14 @@
       "onboard_time": 1716794958,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114189,
+      "num": 114189,
+      "word": "时光正好定档",
+      "onboard_time": 1717139177,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 113965,
@@ -13707,14 +13787,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 106467,
-      "num": 106467,
-      "word": "两岁半幼童每天戴12小时牙套",
-      "onboard_time": 1717136777,
-      "rank": 49,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 106071,
       "num": 106071,
       "word": "ENHYPEN打歌舞台",
@@ -14017,6 +14089,14 @@
       "onboard_time": 1716791898,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98416,
+      "num": 103269,
+      "word": "中美防长新加坡会晤",
+      "onboard_time": 1717139778,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98286,
