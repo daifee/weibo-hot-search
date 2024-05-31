@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717166066492,
+  "endTime": 1717168916362,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 3041331,
-      "num": 446018,
+      "num": 1315230,
       "word": "歌手排名",
       "onboard_time": 1717163007,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2608888,
-      "num": 434369,
+      "num": 1933177,
       "word": "张钰琪 揭榜",
       "onboard_time": 1717165224,
       "rank": 11,
@@ -803,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1250486,
+      "num": 1250486,
+      "word": "游本昌主动放弃参评白玉兰奖",
+      "onboard_time": 1717166723,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1245240,
       "num": 463994,
       "word": "追风者 男主",
@@ -888,6 +896,14 @@
       "word": "孙楠 不用送炭争取添花",
       "onboard_time": 1716970398,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1193521,
+      "num": 283353,
+      "word": "那英快哭了",
+      "onboard_time": 1717166422,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1499,6 +1515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 866855,
+      "num": 377534,
+      "word": "繁花剧方给三位女主都报名了",
+      "onboard_time": 1717164685,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 865944,
       "num": 806990,
       "word": "庆余年第二季大结局点映礼",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1717124898,
       "rank": 11,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 823277,
+      "num": 823277,
+      "word": "中方确认不参加乌克兰问题和平峰会",
+      "onboard_time": 1717163726,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 819818,
@@ -1764,7 +1796,7 @@
     },
     {
       "raw_hot": 800520,
-      "num": 800520,
+      "num": 1927392,
       "word": "巴勒斯坦",
       "onboard_time": 1716964037,
       "rank": 25,
@@ -2105,22 +2137,6 @@
       "onboard_time": 1716816859,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 713765,
-      "num": 407470,
-      "word": "中方确认不参加乌克兰问题和平峰会",
-      "onboard_time": 1717163726,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 711129,
-      "num": 377534,
-      "word": "繁花剧方给三位女主都报名了",
-      "onboard_time": 1717164685,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 709431,
@@ -3508,7 +3524,7 @@
     },
     {
       "raw_hot": 505706,
-      "num": 505706,
+      "num": 1528716,
       "word": "GQ大合影",
       "onboard_time": 1717162708,
       "rank": 6,
@@ -3945,6 +3961,14 @@
       "onboard_time": 1716778159,
       "rank": 11,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 458106,
+      "num": 1776886,
+      "word": "GQ内场",
+      "onboard_time": 1717166122,
+      "rank": 10,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 457901,
@@ -4523,6 +4547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 409962,
+      "num": 257586,
+      "word": "一颗花心的萝卜",
+      "onboard_time": 1717168282,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407557,
       "num": 440969,
       "word": "首套房首付比例进入15%时代",
@@ -4859,6 +4891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384985,
+      "num": 1881960,
+      "word": "王曼昱VS伊藤美诚",
+      "onboard_time": 1717165643,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 383919,
       "num": 383919,
       "word": "刘端端复刻二皇子先秦淑女步",
@@ -4899,20 +4939,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 382331,
+      "num": 382331,
+      "word": "农村婚礼真的很挑摄影师",
+      "onboard_time": 1717164685,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382260,
       "num": 233506,
       "word": "白玉兰 水",
       "onboard_time": 1717072998,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 381419,
-      "num": 381419,
-      "word": "王曼昱VS伊藤美诚",
-      "onboard_time": 1717165643,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 380980,
@@ -5049,6 +5089,14 @@
       "onboard_time": 1716814578,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 371844,
+      "num": 243736,
+      "word": "lululemon代工厂号称自家平替能以假乱真",
+      "onboard_time": 1717166422,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 371418,
@@ -5881,6 +5929,14 @@
       "onboard_time": 1716809238,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305944,
+      "num": 240996,
+      "word": "断眉唱什么",
+      "onboard_time": 1717165643,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 305338,
@@ -7331,6 +7387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 236674,
+      "num": 363395,
+      "word": "原来成年人是过期的小朋友",
+      "onboard_time": 1717165883,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236070,
       "num": 280168,
       "word": "白天辉一审被判死刑",
@@ -8243,6 +8307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211194,
+      "num": 211194,
+      "word": "我发现人不能一直住太差的房子",
+      "onboard_time": 1717167864,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211074,
       "num": 211074,
       "word": "背着善宰跑大结局预告",
@@ -8273,6 +8345,14 @@
       "onboard_time": 1716724698,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210446,
+      "num": 210446,
+      "word": "时代少年团男儿歌",
+      "onboard_time": 1717168881,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 210371,
@@ -8409,6 +8489,14 @@
       "onboard_time": 1716994999,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208274,
+      "num": 1801238,
+      "word": "魏大勋急眼了",
+      "onboard_time": 1717167743,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 208261,
@@ -9947,6 +10035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185440,
+      "num": 227695,
+      "word": "艾森豪威尔号航母",
+      "onboard_time": 1717168041,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 185271,
       "num": 185271,
       "word": "原来大多数人小脚趾甲是分瓣的",
@@ -10289,14 +10385,6 @@
       "onboard_time": 1716968418,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178841,
-      "num": 363707,
-      "word": "农村婚礼真的很挑摄影师",
-      "onboard_time": 1717164685,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 178595,
@@ -11283,6 +11371,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 163184,
+      "num": 180476,
+      "word": "为什么熬夜时心脏会咯噔一下",
+      "onboard_time": 1717167743,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 162986,
       "num": 262611,
       "word": "陈梦3比0战胜帕瓦德",
@@ -11579,6 +11675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157316,
+      "num": 180466,
+      "word": "江西上栗发生爆炸致2死3伤",
+      "onboard_time": 1717167983,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157184,
       "num": 157184,
       "word": "6类人容易提前长白发",
@@ -11777,6 +11881,14 @@
       "onboard_time": 1716877998,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153345,
+      "num": 379838,
+      "word": "是谁在买9.9的耳机",
+      "onboard_time": 1717164506,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 153261,
@@ -12009,6 +12121,14 @@
       "onboard_time": 1716947718,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150493,
+      "num": 180450,
+      "word": "张常宁上场",
+      "onboard_time": 1717167443,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 149891,
@@ -12433,6 +12553,14 @@
       "onboard_time": 1716870798,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143285,
+      "num": 180439,
+      "word": "王曼昱3比0伊藤美诚",
+      "onboard_time": 1717166782,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 143205,
@@ -13857,14 +13985,6 @@
       "onboard_time": 1716797178,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124962,
-      "num": 363395,
-      "word": "原来成年人是过期的小朋友",
-      "onboard_time": 1717165883,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 124907,
@@ -16035,6 +16155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71712,
+      "num": 1836995,
+      "word": "这是我收到最好的六一礼物",
+      "onboard_time": 1717167082,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71527,
       "num": 68952,
       "word": "狐妖导演回应杨幂龚俊cp感",
@@ -16169,6 +16297,14 @@
       "onboard_time": 1716989178,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66410,
+      "num": 281416,
+      "word": "张真源秒猜湖南方言",
+      "onboard_time": 1717167802,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 66126,
@@ -16425,14 +16561,6 @@
       "onboard_time": 1716765975,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 55616,
-      "num": 379838,
-      "word": "是谁在买9.9的耳机",
-      "onboard_time": 1717164506,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 55448,
@@ -17243,6 +17371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28350,
+      "num": 292953,
+      "word": "郑恺 原来我离真相这么近",
+      "onboard_time": 1717168881,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28011,
       "num": 152925,
       "word": "幼儿园摆27桌坝坝宴请270萌娃",
@@ -17505,6 +17641,14 @@
       "onboard_time": 1716920412,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18194,
+      "num": 248947,
+      "word": "男子看到去世24年父亲照片时红了眼眶",
+      "onboard_time": 1717168822,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18126,
