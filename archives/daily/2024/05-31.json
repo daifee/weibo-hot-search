@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717151757555,
+  "endTime": 1717154205141,
   "band_list": [
     {
       "raw_hot": 2303341,
@@ -17,6 +17,14 @@
       "onboard_time": 1717124419,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2047047,
+      "num": 417988,
+      "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
+      "onboard_time": 1717151598,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2023994,
@@ -49,6 +57,14 @@
       "onboard_time": 1717125318,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1558908,
+      "num": 1558908,
+      "word": "袁娅维输了",
+      "onboard_time": 1717152317,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1536809,
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 919442,
+      "num": 655688,
+      "word": "尚雯婕去隔壁歌手吧",
+      "onboard_time": 1717153818,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 833133,
       "num": 833133,
       "word": "肖战谌龙合作",
@@ -243,6 +267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 743583,
+      "num": 601302,
+      "word": "浪姐直播",
+      "onboard_time": 1717150577,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 743366,
       "num": 743366,
       "word": "白玉兰提名没有白敬亭",
@@ -275,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 726864,
+      "num": 442386,
+      "word": "戚薇嗓子怎么了",
+      "onboard_time": 1717153518,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 725743,
       "num": 725743,
       "word": "云边有个小卖部定档",
@@ -283,12 +323,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 714369,
-      "num": 601302,
-      "word": "浪姐直播",
-      "onboard_time": 1717150577,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 712057,
+      "num": 712057,
+      "word": "普华永道",
+      "onboard_time": 1717149259,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 707817,
@@ -379,12 +419,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 586981,
+      "num": 402131,
+      "word": "歌手揭榜目标限时投票",
+      "onboard_time": 1717151538,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578310,
       "num": 578310,
       "word": "二皇子暴露本体了",
       "onboard_time": 1717110615,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 578229,
+      "num": 391685,
+      "word": "田曦薇簪花少女",
+      "onboard_time": 1717151716,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 576552,
@@ -531,14 +587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 436342,
-      "num": 436342,
-      "word": "普华永道",
-      "onboard_time": 1717149259,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 434082,
       "num": 168726,
       "word": "孙楠 双眼皮",
@@ -649,6 +697,14 @@
       "onboard_time": 1717125797,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347204,
+      "num": 223628,
+      "word": "相关人士回应白玉兰提名没有王一博",
+      "onboard_time": 1717152977,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 341825,
@@ -819,11 +875,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 262508,
-      "num": 262508,
-      "word": "田曦薇簪花少女",
-      "onboard_time": 1717151716,
-      "rank": 26,
+      "raw_hot": 256110,
+      "num": 222235,
+      "word": "时代少年团中式刺绣西装",
+      "onboard_time": 1717152739,
+      "rank": 27,
       "category": "作品衍生,时尚"
     },
     {
@@ -881,14 +937,6 @@
       "onboard_time": 1717146138,
       "rank": 23,
       "category": "美食,科学科普"
-    },
-    {
-      "raw_hot": 236267,
-      "num": 236267,
-      "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
-      "onboard_time": 1717151598,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234536,
@@ -1147,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193918,
+      "num": 193918,
+      "word": "1分钱能买到什么样的六一礼物",
+      "onboard_time": 1717153518,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193772,
       "num": 193772,
       "word": "无畏契约",
@@ -1177,14 +1233,6 @@
       "onboard_time": 1717131439,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191482,
-      "num": 191482,
-      "word": "歌手揭榜目标限时投票",
-      "onboard_time": 1717151538,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 191377,
@@ -1331,12 +1379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172713,
+      "num": 172713,
+      "word": "袁娅维直播前紧急治疗",
+      "onboard_time": 1717152557,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169477,
       "num": 169477,
       "word": "庆余年3将有哪些名场面",
       "onboard_time": 1717127178,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169393,
+      "num": 169393,
+      "word": "在单位不要说家庭的任何事情",
+      "onboard_time": 1717152557,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 168508,
@@ -1555,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155080,
+      "num": 155080,
+      "word": "很努力地成为一个懒人",
+      "onboard_time": 1717153937,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154958,
       "num": 154958,
       "word": "BABYMONSTER新曲舞蹈版MV",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1717120578,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 153393,
+      "num": 153393,
+      "word": "巴黎奥运会",
+      "onboard_time": 1717153518,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 152204,
@@ -1769,6 +1849,14 @@
       "onboard_time": 1717130539,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 131859,
+      "num": 131859,
+      "word": "闵熙珍以为互联网没有记忆",
+      "onboard_time": 1717153459,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 130345,
@@ -1987,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111847,
+      "num": 111847,
+      "word": "14家上市公司宣布不再聘任普华永道",
+      "onboard_time": 1717154057,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 111252,
       "num": 111252,
       "word": "李一桐饮酒梦回司命",
@@ -2009,6 +2105,14 @@
       "onboard_time": 1717135758,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108471,
+      "num": 356123,
+      "word": "iPhone15系列天猫618真4折",
+      "onboard_time": 1717153217,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 107684,
@@ -2169,6 +2273,14 @@
       "onboard_time": 1717075039,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62521,
+      "num": 424743,
+      "word": "高三学生喊楼太燃了",
+      "onboard_time": 1717152438,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58862,
@@ -2440,6 +2552,14 @@
       "word": "大国重器命名里的中国浪漫",
       "onboard_time": 1717096212,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13274,
+      "num": 656762,
+      "word": "三夏麦收尽显科技范儿",
+      "onboard_time": 1717140438,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
