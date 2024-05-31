@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717191267181,
+  "endTime": 1717193858044,
   "band_list": [
     {
       "raw_hot": 1683026,
@@ -371,6 +371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 115488,
+      "num": 115488,
+      "word": "五竹的血是金色的",
+      "onboard_time": 1717177453,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111364,
       "num": 252772,
       "word": "今年六一恰逢周六",
@@ -385,14 +393,6 @@
       "onboard_time": 1717173616,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86456,
-      "num": 84680,
-      "word": "五竹的血是金色的",
-      "onboard_time": 1717177453,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 84711,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37672,
+      "num": 37672,
+      "word": "发现领导偷偷用我的信息点外卖",
+      "onboard_time": 1717182851,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 35547,
       "num": 63536,
       "word": "Paparazzi",
@@ -483,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34765,
-      "num": 32489,
-      "word": "发现领导偷偷用我的信息点外卖",
-      "onboard_time": 1717182851,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 26678,
+      "num": 26678,
+      "word": "胡歌这是被贴脸开大了吗",
+      "onboard_time": 1717190710,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 25346,
@@ -537,14 +545,6 @@
       "onboard_time": 1717174517,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16857,
-      "num": 18718,
-      "word": "胡歌这是被贴脸开大了吗",
-      "onboard_time": 1717190710,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 14613,
