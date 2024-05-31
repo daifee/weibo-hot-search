@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717197549738,
+  "endTime": 1717198472418,
   "band_list": [
     {
       "raw_hot": 1683026,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 606812,
+      "num": 606812,
+      "word": "庆帝叶轻眉 道不同不相为谋",
+      "onboard_time": 1717196893,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 577501,
       "num": 291072,
       "word": "一颗花心的萝卜",
@@ -123,20 +131,20 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 484968,
-      "num": 484968,
-      "word": "庆帝叶轻眉 道不同不相为谋",
-      "onboard_time": 1717196893,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 479151,
       "num": 288307,
       "word": "繁花剧方给三位女主都报名了",
       "onboard_time": 1717164685,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 457255,
+      "num": 457255,
+      "word": "lululemon代工厂号称自家平替能以假乱真",
+      "onboard_time": 1717166422,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 442580,
@@ -153,14 +161,6 @@
       "onboard_time": 1717168041,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 381412,
-      "num": 381412,
-      "word": "lululemon代工厂号称自家平替能以假乱真",
-      "onboard_time": 1717166422,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 372670,
@@ -193,6 +193,22 @@
       "onboard_time": 1717155737,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289424,
+      "num": 289424,
+      "word": "六一儿童节",
+      "onboard_time": 1717197614,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 288943,
+      "num": 288943,
+      "word": "五竹的血是金色的",
+      "onboard_time": 1717177453,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 278621,
@@ -233,14 +249,6 @@
       "onboard_time": 1717154837,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251744,
-      "num": 224096,
-      "word": "五竹的血是金色的",
-      "onboard_time": 1717177453,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 235820,
@@ -291,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197897,
+      "num": 252772,
+      "word": "今年六一恰逢周六",
+      "onboard_time": 1717171279,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192051,
       "num": 301212,
       "word": "两岁半幼童每天戴12小时牙套",
@@ -331,6 +347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 165122,
+      "num": 88525,
+      "word": "断眉为什么叫断眉",
+      "onboard_time": 1717197373,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160713,
       "num": 215439,
       "word": "Fine乐团 呼吸决定",
@@ -347,12 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159392,
-      "num": 252772,
-      "word": "今年六一恰逢周六",
-      "onboard_time": 1717171279,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 155567,
+      "num": 98978,
+      "word": "苗苗对郑恺一见钟情",
+      "onboard_time": 1717197674,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 153893,
@@ -395,6 +419,38 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107662,
+      "num": 95977,
+      "word": "正常吃饭还长胖说明代谢很弱",
+      "onboard_time": 1717195871,
+      "rank": 28,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 106958,
+      "num": 215226,
+      "word": "江西一楼房发生爆炸有人员受伤",
+      "onboard_time": 1717170619,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102892,
+      "num": 102892,
+      "word": "六月请对我好一点",
+      "onboard_time": 1717197974,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 95802,
+      "num": 95802,
+      "word": "台湾地震",
+      "onboard_time": 1717197854,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95621,
       "num": 129804,
       "word": "第一次形象理解什么叫早鸟票",
@@ -403,11 +459,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93013,
-      "num": 215226,
-      "word": "江西一楼房发生爆炸有人员受伤",
-      "onboard_time": 1717170619,
-      "rank": 48,
+      "raw_hot": 87584,
+      "num": 87584,
+      "word": "各位小朋友大朋友节日快乐",
+      "onboard_time": 1717197674,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -419,12 +475,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82980,
-      "num": 82980,
+      "raw_hot": 84614,
+      "num": 84614,
+      "word": "果郡王喜欢的合欢花",
+      "onboard_time": 1717197315,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 84373,
+      "num": 84373,
       "word": "发现领导偷偷用我的信息点外卖",
       "onboard_time": 1717182851,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82181,
+      "num": 82181,
+      "word": "四川古墓出土的小破勺洗澡后成了宝",
+      "onboard_time": 1717196834,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80503,
+      "num": 80503,
+      "word": "C罗赛后痛哭",
+      "onboard_time": 1717198215,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 80078,
@@ -433,14 +513,6 @@
       "onboard_time": 1717196893,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 79351,
-      "num": 79351,
-      "word": "正常吃饭还长胖说明代谢很弱",
-      "onboard_time": 1717195871,
-      "rank": 28,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 76893,
@@ -459,20 +531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74733,
+      "num": 74733,
+      "word": "何洁 垫音",
+      "onboard_time": 1717154418,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74216,
+      "num": 74216,
+      "word": "洪涛回来了",
+      "onboard_time": 1717158141,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71198,
       "num": 84424,
       "word": "微信状态就是最好的发疯神器",
       "onboard_time": 1717178594,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 70925,
-      "num": 70925,
-      "word": "何洁 垫音",
-      "onboard_time": 1717154418,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 64622,
@@ -483,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63281,
-      "num": 63281,
-      "word": "断眉为什么叫断眉",
-      "onboard_time": 1717197373,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 59903,
       "num": 284758,
       "word": "奶凶的幼儿园小朋友滑最猛的龙舟",
@@ -499,20 +571,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57373,
-      "num": 57373,
-      "word": "洪涛回来了",
-      "onboard_time": 1717158141,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 57488,
+      "num": 57488,
+      "word": "儿童节文案",
+      "onboard_time": 1717198334,
+      "rank": 45,
+      "category": "情感"
     },
     {
-      "raw_hot": 55565,
-      "num": 55565,
-      "word": "果郡王喜欢的合欢花",
-      "onboard_time": 1717197315,
-      "rank": 38,
-      "category": "科学科普"
+      "raw_hot": 53600,
+      "num": 53600,
+      "word": "浙江福建大暴雨",
+      "onboard_time": 1717198455,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47316,
@@ -521,14 +593,6 @@
       "onboard_time": 1717178473,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 46162,
-      "num": 46162,
-      "word": "四川古墓出土的小破勺洗澡后成了宝",
-      "onboard_time": 1717196834,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38787,
@@ -548,7 +612,7 @@
     },
     {
       "raw_hot": 35839,
-      "num": 224264,
+      "num": 289166,
       "word": "社恐妈妈带上蔡文姬宝宝勇闯动漫节",
       "onboard_time": 1717196953,
       "rank": 9,
