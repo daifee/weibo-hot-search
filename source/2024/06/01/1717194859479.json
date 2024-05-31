@@ -1,0 +1,410 @@
+{
+  "runTime": 1717194859479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 288992,
+        "num": 288992,
+        "word": "中方确认不参加乌克兰问题和平峰会",
+        "onboard_time": 1717163726,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230332,
+        "num": 230332,
+        "word": "孙楠出场歌手破1",
+        "onboard_time": 1717170739,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11358,
+        "num": 206614,
+        "word": "高质量发展看能源",
+        "onboard_time": 1717162287,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193637,
+        "num": 193637,
+        "word": "lululemon代工厂号称自家平替能以假乱真",
+        "onboard_time": 1717166422,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175840,
+        "num": 175840,
+        "word": "游本昌主动放弃参评白玉兰奖",
+        "onboard_time": 1717166723,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158271,
+        "num": 158271,
+        "word": "王雪峰被控受贿8407万余元",
+        "onboard_time": 1717160360,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155222,
+        "num": 155222,
+        "word": "断眉真来了",
+        "onboard_time": 1717157720,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143965,
+        "num": 143965,
+        "word": "繁花剧方给三位女主都报名了",
+        "onboard_time": 1717164685,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81378,
+        "num": 81378,
+        "word": "蚊子 吸眼袋",
+        "onboard_time": 1717172539,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 76118,
+        "num": 76118,
+        "word": "今年六一恰逢周六",
+        "onboard_time": 1717171279,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142420,
+        "num": 73757,
+        "word": "五竹的血是金色的",
+        "onboard_time": 1717177453,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141758,
+        "num": 70498,
+        "word": "那英快哭了",
+        "onboard_time": 1717166422,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129082,
+        "num": 64110,
+        "word": "艾森豪威尔号航母",
+        "onboard_time": 1717168041,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 86563,
+        "num": 60698,
+        "word": "王一博王阳都报名了",
+        "onboard_time": 1717143797,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79455,
+        "num": 57640,
+        "word": "张钰琪 揭榜",
+        "onboard_time": 1717165224,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55416,
+        "num": 55416,
+        "word": "GQ",
+        "onboard_time": 1717169959,
+        "rank": 15,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 53975,
+        "num": 53975,
+        "word": "两岁半幼童每天戴12小时牙套",
+        "onboard_time": 1717136777,
+        "rank": 16,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 42767,
+        "num": 42767,
+        "word": "中国女排1比3日本女排",
+        "onboard_time": 1717162645,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32982,
+        "num": 42675,
+        "word": "农村婚礼真的很挑摄影师",
+        "onboard_time": 1717164685,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16995,
+        "num": 42646,
+        "word": "奶凶的幼儿园小朋友滑最猛的龙舟",
+        "onboard_time": 1717172418,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262222,
+        "num": 42514,
+        "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
+        "onboard_time": 1717151598,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77981,
+        "num": 42448,
+        "word": "汪苏泷 好听",
+        "onboard_time": 1717160063,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77922,
+        "num": 42364,
+        "word": "孙楠 真拯救",
+        "onboard_time": 1717162527,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30544,
+        "num": 42238,
+        "word": "江西一楼房发生爆炸有人员受伤",
+        "onboard_time": 1717170619,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63769,
+        "num": 42140,
+        "word": "歌手排名",
+        "onboard_time": 1717163007,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57259,
+        "num": 42053,
+        "word": "那英 跑调",
+        "onboard_time": 1717161265,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54899,
+        "num": 42010,
+        "word": "李沁像极了美人鱼",
+        "onboard_time": 1717171879,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 45143,
+        "num": 41867,
+        "word": "郑恺 原来我离真相这么近",
+        "onboard_time": 1717168881,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7148,
+        "num": 41786,
+        "word": "90后情侣免费为600多名留守老人理发",
+        "onboard_time": 1717180092,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44752,
+        "num": 41694,
+        "word": "发现领导偷偷用我的信息点外卖",
+        "onboard_time": 1717182851,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41634,
+        "num": 41634,
+        "word": "耳帝评歌手第四期",
+        "onboard_time": 1717169360,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41575,
+        "num": 41575,
+        "word": "第一次形象理解什么叫早鸟票",
+        "onboard_time": 1717173616,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40544,
+        "num": 40544,
+        "word": "歌手直播",
+        "onboard_time": 1717155737,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38478,
+        "num": 38478,
+        "word": "张杰演唱会",
+        "onboard_time": 1717170560,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38030,
+        "num": 38030,
+        "word": "我发现人不能一直住太差的房子",
+        "onboard_time": 1717167864,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35325,
+        "num": 35325,
+        "word": "江西上栗发生爆炸致2死3伤",
+        "onboard_time": 1717167983,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34928,
+        "num": 34928,
+        "word": "孙楠第二",
+        "onboard_time": 1717164626,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33677,
+        "num": 33677,
+        "word": "张钰琪十年圆梦上歌手",
+        "onboard_time": 1717170320,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31408,
+        "num": 31408,
+        "word": "何洁尚雯婕回应矛盾",
+        "onboard_time": 1717181413,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30369,
+        "num": 30369,
+        "word": "王曼昱VS伊藤美诚",
+        "onboard_time": 1717165643,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30961,
+        "num": 30368,
+        "word": "胡歌这是被贴脸开大了吗",
+        "onboard_time": 1717190710,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30319,
+        "num": 30319,
+        "word": "为什么熬夜时心脏会咯噔一下",
+        "onboard_time": 1717167743,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 28360,
+        "num": 28360,
+        "word": "歌手2024",
+        "onboard_time": 1717154837,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27431,
+        "num": 27431,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717163007,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27278,
+        "num": 27278,
+        "word": "齐思钧主持",
+        "onboard_time": 1717164388,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26847,
+        "num": 26847,
+        "word": "微信状态就是最好的发疯神器",
+        "onboard_time": 1717178594,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23976,
+        "num": 26840,
+        "word": "原来成年人是过期的小朋友",
+        "onboard_time": 1717165883,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21962,
+        "num": 26831,
+        "word": "一颗花心的萝卜",
+        "onboard_time": 1717168282,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21797,
+        "num": 26803,
+        "word": "尚雯婕去隔壁歌手吧",
+        "onboard_time": 1717153818,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21690,
+        "num": 26788,
+        "word": "朱婷替补",
+        "onboard_time": 1717157417,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同突尼斯总统会谈#"
+    }
+  }
+}
