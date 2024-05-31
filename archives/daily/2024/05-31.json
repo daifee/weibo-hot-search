@@ -1,12 +1,20 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717162473230,
+  "endTime": 1717165038519,
   "band_list": [
     {
       "raw_hot": 11274014,
       "num": 11274014,
       "word": "断眉真来了",
       "onboard_time": 1717157720,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10756608,
+      "num": 10756608,
+      "word": "孙楠 真拯救",
+      "onboard_time": 1717162527,
       "rank": 0,
       "category": "综艺"
     },
@@ -32,6 +40,14 @@
       "word": "歌手直播",
       "onboard_time": 1717155737,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3041331,
+      "num": 334094,
+      "word": "歌手排名",
+      "onboard_time": 1717163007,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -129,6 +145,14 @@
       "onboard_time": 1717145296,
       "rank": 1,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1528960,
+      "num": 264332,
+      "word": "孙楠第二",
+      "onboard_time": 1717164626,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1503615,
@@ -275,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1020824,
+      "num": 261370,
+      "word": "那英第五",
+      "onboard_time": 1717164086,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1015239,
       "num": 1015239,
       "word": "弟弟说冰箱里给我留了西瓜",
@@ -323,12 +355,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 938116,
+      "num": 259925,
+      "word": "香缇莫太牛了",
+      "onboard_time": 1717163426,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 936835,
       "num": 471837,
       "word": "台州打小孩",
       "onboard_time": 1717112896,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 921298,
+      "num": 255892,
+      "word": "芒果对孙楠贴脸开大",
+      "onboard_time": 1717163787,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 894912,
+      "num": 894912,
+      "word": "中国女排1比3日本女排",
+      "onboard_time": 1717162645,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 872222,
@@ -475,11 +531,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667009,
+      "num": 248761,
+      "word": "齐思钧主持",
+      "onboard_time": 1717164388,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 656672,
       "num": 410365,
       "word": "洪涛回来了",
       "onboard_time": 1717158141,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 652282,
+      "num": 243274,
+      "word": "霉霉能不能来",
+      "onboard_time": 1717162950,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -489,6 +561,14 @@
       "onboard_time": 1717115898,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637902,
+      "num": 246798,
+      "word": "歌手杀死了比赛",
+      "onboard_time": 1717162831,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 636995,
@@ -513,6 +593,14 @@
       "onboard_time": 1717136417,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 611670,
+      "num": 332403,
+      "word": "中方确认不参加乌克兰问题和平峰会",
+      "onboard_time": 1717163726,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 605766,
@@ -635,6 +723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 550638,
+      "num": 239826,
+      "word": "繁花剧方给三位女主都报名了",
+      "onboard_time": 1717164685,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 517758,
       "num": 264830,
       "word": "新同事来了不到两周就离职了",
@@ -673,6 +769,14 @@
       "onboard_time": 1717152977,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 505706,
+      "num": 505706,
+      "word": "GQ大合影",
+      "onboard_time": 1717162708,
+      "rank": 6,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 495827,
@@ -915,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347908,
+      "num": 236652,
+      "word": "汪苏泷看到热搜了",
+      "onboard_time": 1717164626,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341825,
       "num": 471965,
       "word": "3包烟就能熏黑一个肺",
@@ -929,6 +1041,14 @@
       "onboard_time": 1717160360,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334262,
+      "num": 334262,
+      "word": "巴勒斯坦",
+      "onboard_time": 1717163007,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 329436,
@@ -1019,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302676,
+      "num": 236064,
+      "word": "杨紫直播",
+      "onboard_time": 1717163604,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297565,
       "num": 182100,
       "word": "浪姐直播排名",
@@ -1033,6 +1161,14 @@
       "onboard_time": 1717109054,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 291866,
+      "num": 477879,
+      "word": "问界新M7Ultra底盘升级",
+      "onboard_time": 1717160661,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 291254,
@@ -1099,6 +1235,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 264761,
+      "num": 264761,
+      "word": "女排积分",
+      "onboard_time": 1717164024,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264668,
       "num": 211804,
       "word": "王俊凯录制你好星期六",
@@ -1131,6 +1275,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 253783,
+      "num": 235654,
+      "word": "歌手有点人脉",
+      "onboard_time": 1717163007,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253730,
       "num": 486993,
       "word": "6月十二星座注意事项",
@@ -1153,14 +1305,6 @@
       "onboard_time": 1717158260,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 249846,
-      "num": 477879,
-      "word": "问界新M7Ultra底盘升级",
-      "onboard_time": 1717160661,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 248777,
@@ -1217,6 +1361,22 @@
       "onboard_time": 1717159101,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238626,
+      "num": 238626,
+      "word": "蔡斌战术",
+      "onboard_time": 1717164024,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238026,
+      "num": 238026,
+      "word": "心情不好真的显老",
+      "onboard_time": 1717162831,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 237323,
@@ -1587,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191475,
+      "num": 234901,
+      "word": "问界新M7Ultra价格",
+      "onboard_time": 1717163965,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 191377,
       "num": 191377,
       "word": "高考试卷正在路上",
@@ -1673,6 +1841,14 @@
       "onboard_time": 1717110976,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183315,
+      "num": 234429,
+      "word": "2024世界女排联赛",
+      "onboard_time": 1717164145,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 182648,
@@ -1801,6 +1977,14 @@
       "onboard_time": 1717116978,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168414,
+      "num": 357007,
+      "word": "张真源 我的画技已到大宗师的水平",
+      "onboard_time": 1717163128,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 167970,
@@ -2531,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113311,
+      "num": 254569,
+      "word": "给P人一些J人毕业照震撼",
+      "onboard_time": 1717164984,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111252,
       "num": 111252,
       "word": "李一桐饮酒梦回司命",
@@ -2595,6 +2787,14 @@
       "category": "社会新闻,母婴育儿"
     },
     {
+      "raw_hot": 97788,
+      "num": 331454,
+      "word": "白鹿不愧是横店常驻人员",
+      "onboard_time": 1717163667,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93164,
       "num": 142592,
       "word": "Letme看姿态老头杯红温",
@@ -2609,6 +2809,14 @@
       "onboard_time": 1717062206,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90610,
+      "num": 250869,
+      "word": "问界新M7焕新升级192线激光雷达",
+      "onboard_time": 1717164145,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 87223,
@@ -2675,6 +2883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74089,
+      "num": 332138,
+      "word": "只要一直走在路上就不算失去双脚",
+      "onboard_time": 1717163247,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73835,
       "num": 413938,
       "word": "遇异性网友借钱仅三成受访者会拒绝",
@@ -2705,6 +2921,14 @@
       "onboard_time": 1717101491,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67186,
+      "num": 5716156,
+      "word": "高质量发展看能源",
+      "onboard_time": 1717162287,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66853,
@@ -2801,6 +3025,14 @@
       "onboard_time": 1717111936,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 55178,
+      "num": 440934,
+      "word": "京东618开卖1小时",
+      "onboard_time": 1717161083,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 55156,
@@ -2987,6 +3219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 36443,
+      "num": 236847,
+      "word": "是谁在买9.9的耳机",
+      "onboard_time": 1717164506,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34582,
       "num": 52387,
       "word": "辛芷蕾没入围",
@@ -3043,14 +3283,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 24718,
-      "num": 440934,
-      "word": "京东618开卖1小时",
-      "onboard_time": 1717161083,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 23185,
       "num": 5002528,
       "word": "三夏麦收尽显科技范儿",
@@ -3104,14 +3336,6 @@
       "word": "为孩子构建完整的中华文化观",
       "onboard_time": 1717146018,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9448,
-      "num": 5716156,
-      "word": "高质量发展看能源",
-      "onboard_time": 1717162287,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

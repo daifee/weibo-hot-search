@@ -1,0 +1,410 @@
+{
+  "runTime": 1717165038519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10756608,
+        "num": 10756608,
+        "word": "孙楠 真拯救",
+        "onboard_time": 1717162527,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6528803,
+        "num": 6528803,
+        "word": "那英 跑调",
+        "onboard_time": 1717161265,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67186,
+        "num": 4817229,
+        "word": "高质量发展看能源",
+        "onboard_time": 1717162287,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6070888,
+        "num": 6070888,
+        "word": "汪苏泷 好听",
+        "onboard_time": 1717160063,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4450478,
+        "num": 4450478,
+        "word": "断眉真来了",
+        "onboard_time": 1717157720,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 894912,
+        "num": 894912,
+        "word": "中国女排1比3日本女排",
+        "onboard_time": 1717162645,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505706,
+        "num": 505706,
+        "word": "GQ大合影",
+        "onboard_time": 1717162708,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 422922,
+        "num": 422922,
+        "word": "两岁半幼童每天戴12小时牙套",
+        "onboard_time": 1717136777,
+        "rank": 7,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 168414,
+        "num": 357007,
+        "word": "张真源 我的画技已到大宗师的水平",
+        "onboard_time": 1717163128,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334262,
+        "num": 334262,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717163007,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 3041331,
+        "num": 334094,
+        "word": "歌手排名",
+        "onboard_time": 1717163007,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2502432,
+        "num": 333462,
+        "word": "歌手直播",
+        "onboard_time": 1717155737,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1779557,
+        "num": 333062,
+        "word": "歌手2024",
+        "onboard_time": 1717154837,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611670,
+        "num": 332403,
+        "word": "中方确认不参加乌克兰问题和平峰会",
+        "onboard_time": 1717163726,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74089,
+        "num": 332138,
+        "word": "只要一直走在路上就不算失去双脚",
+        "onboard_time": 1717163247,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97788,
+        "num": 331454,
+        "word": "白鹿不愧是横店常驻人员",
+        "onboard_time": 1717163667,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291866,
+        "num": 330900,
+        "word": "问界新M7Ultra底盘升级",
+        "onboard_time": 1717160661,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 330664,
+        "num": 330664,
+        "word": "朱婷替补",
+        "onboard_time": 1717157417,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301754,
+        "num": 301754,
+        "word": "朱婷第四局登场",
+        "onboard_time": 1717161745,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264761,
+        "num": 264761,
+        "word": "女排积分",
+        "onboard_time": 1717164024,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1528960,
+        "num": 264332,
+        "word": "孙楠第二",
+        "onboard_time": 1717164626,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1107506,
+        "num": 262364,
+        "word": "歌手揭榜目标限时投票",
+        "onboard_time": 1717151538,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1020824,
+        "num": 261370,
+        "word": "那英第五",
+        "onboard_time": 1717164086,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 938116,
+        "num": 259925,
+        "word": "香缇莫太牛了",
+        "onboard_time": 1717163426,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645631,
+        "num": 258448,
+        "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
+        "onboard_time": 1717151598,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233463,
+        "num": 256850,
+        "word": "中国女排vs日本女排",
+        "onboard_time": 1717155018,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 921298,
+        "num": 255892,
+        "word": "芒果对孙楠贴脸开大",
+        "onboard_time": 1717163787,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113311,
+        "num": 254569,
+        "word": "给P人一些J人毕业照震撼",
+        "onboard_time": 1717164984,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55178,
+        "num": 252715,
+        "word": "京东618开卖1小时",
+        "onboard_time": 1717161083,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90610,
+        "num": 250869,
+        "word": "问界新M7焕新升级192线激光雷达",
+        "onboard_time": 1717164145,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 712677,
+        "num": 249895,
+        "word": "那英真搁浅了",
+        "onboard_time": 1717161564,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 667009,
+        "num": 248761,
+        "word": "齐思钧主持",
+        "onboard_time": 1717164388,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637902,
+        "num": 246798,
+        "word": "歌手杀死了比赛",
+        "onboard_time": 1717162831,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305945,
+        "num": 245517,
+        "word": "王雪峰被控受贿8407万余元",
+        "onboard_time": 1717160360,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652282,
+        "num": 243274,
+        "word": "霉霉能不能来",
+        "onboard_time": 1717162950,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635736,
+        "num": 242693,
+        "word": "亚亚唱得好 编曲不行",
+        "onboard_time": 1717161443,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607947,
+        "num": 240646,
+        "word": "黄宣编曲 吵",
+        "onboard_time": 1717158561,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550638,
+        "num": 239826,
+        "word": "繁花剧方给三位女主都报名了",
+        "onboard_time": 1717164685,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238626,
+        "num": 238626,
+        "word": "蔡斌战术",
+        "onboard_time": 1717164024,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238026,
+        "num": 238026,
+        "word": "心情不好真的显老",
+        "onboard_time": 1717162831,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 415647,
+        "num": 237755,
+        "word": "王一博王阳都报名了",
+        "onboard_time": 1717143797,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390522,
+        "num": 237393,
+        "word": "尚雯婕去隔壁歌手吧",
+        "onboard_time": 1717153818,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36443,
+        "num": 236847,
+        "word": "是谁在买9.9的耳机",
+        "onboard_time": 1717164506,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 347908,
+        "num": 236652,
+        "word": "汪苏泷看到热搜了",
+        "onboard_time": 1717164626,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302676,
+        "num": 236064,
+        "word": "杨紫直播",
+        "onboard_time": 1717163604,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253783,
+        "num": 235654,
+        "word": "歌手有点人脉",
+        "onboard_time": 1717163007,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202562,
+        "num": 235489,
+        "word": "在单位不要说家庭的任何事情",
+        "onboard_time": 1717152557,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191475,
+        "num": 234901,
+        "word": "问界新M7Ultra价格",
+        "onboard_time": 1717163965,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 183315,
+        "num": 234429,
+        "word": "2024世界女排联赛",
+        "onboard_time": 1717164145,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168345,
+        "num": 234396,
+        "word": "谁允许你这么凑单的",
+        "onboard_time": 1717158141,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席同阿拉伯朋友北京再相聚#"
+    }
+  }
+}

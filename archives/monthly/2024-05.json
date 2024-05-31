@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717162473230,
+  "endTime": 1717165038519,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -55,6 +55,14 @@
       "num": 10971603,
       "word": "亚当真来歌手了",
       "onboard_time": 1715956647,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10756608,
+      "num": 10756608,
+      "word": "孙楠 真拯救",
+      "onboard_time": 1717162527,
       "rank": 0,
       "category": "综艺"
     },
@@ -2720,6 +2728,14 @@
       "word": "歌手大战庆余年",
       "onboard_time": 1715945358,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1528960,
+      "num": 264332,
+      "word": "孙楠第二",
+      "onboard_time": 1717164626,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -6347,6 +6363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1020824,
+      "num": 261370,
+      "word": "那英第五",
+      "onboard_time": 1717164086,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1019748,
       "num": 1019748,
       "word": "章子怡 熹妃回宫",
@@ -7219,6 +7243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 938116,
+      "num": 259925,
+      "word": "香缇莫太牛了",
+      "onboard_time": 1717163426,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 937835,
       "num": 937835,
       "word": "演唱会是一个巨大的乌托邦",
@@ -7417,6 +7449,14 @@
       "onboard_time": 1716809657,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 921298,
+      "num": 255892,
+      "word": "芒果对孙楠贴脸开大",
+      "onboard_time": 1717163787,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 920141,
@@ -7753,6 +7793,14 @@
       "onboard_time": 1715430139,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 894912,
+      "num": 894912,
+      "word": "中国女排1比3日本女排",
+      "onboard_time": 1717162645,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 894531,
@@ -12475,6 +12523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 667009,
+      "num": 248761,
+      "word": "齐思钧主持",
+      "onboard_time": 1717164388,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 666978,
       "num": 581503,
       "word": "邓超说自己嫁到上海很久了",
@@ -12905,6 +12961,14 @@
       "onboard_time": 1714522876,
       "rank": 7,
       "category": "军事"
+    },
+    {
+      "raw_hot": 652282,
+      "num": 243274,
+      "word": "霉霉能不能来",
+      "onboard_time": 1717162950,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 652103,
@@ -13393,6 +13457,14 @@
       "onboard_time": 1715755819,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637902,
+      "num": 246798,
+      "word": "歌手杀死了比赛",
+      "onboard_time": 1717162831,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 637733,
@@ -14241,6 +14313,14 @@
       "onboard_time": 1716884478,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611670,
+      "num": 332403,
+      "word": "中方确认不参加乌克兰问题和平峰会",
+      "onboard_time": 1717163726,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 610934,
@@ -16435,6 +16515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 550638,
+      "num": 239826,
+      "word": "繁花剧方给三位女主都报名了",
+      "onboard_time": 1717164685,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 550291,
       "num": 550291,
       "word": "解放军前所未有的打独模式",
@@ -18313,6 +18401,14 @@
       "onboard_time": 1717050978,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505706,
+      "num": 505706,
+      "word": "GQ大合影",
+      "onboard_time": 1717162708,
+      "rank": 6,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 505692,
@@ -27635,6 +27731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347908,
+      "num": 236652,
+      "word": "汪苏泷看到热搜了",
+      "onboard_time": 1717164626,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347900,
       "num": 309153,
       "word": "张桂源 停训",
@@ -32139,6 +32243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291866,
+      "num": 477879,
+      "word": "问界新M7Ultra底盘升级",
+      "onboard_time": 1717160661,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 291724,
       "num": 213566,
       "word": "时间煮雨没郭碧婷我不看",
@@ -34963,6 +35075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 264761,
+      "num": 264761,
+      "word": "女排积分",
+      "onboard_time": 1717164024,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264671,
       "num": 264671,
       "word": "阿沁称不排斥和詹雯婷合体",
@@ -36331,6 +36451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253783,
+      "num": 235654,
+      "word": "歌手有点人脉",
+      "onboard_time": 1717163007,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253753,
       "num": 253753,
       "word": "蔡文静连续练了九个小时舞",
@@ -36753,14 +36881,6 @@
       "onboard_time": 1716438141,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249846,
-      "num": 477879,
-      "word": "问界新M7Ultra底盘升级",
-      "onboard_time": 1717160661,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 249743,
@@ -38331,6 +38451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238626,
+      "num": 238626,
+      "word": "蔡斌战术",
+      "onboard_time": 1717164024,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238625,
       "num": 235294,
       "word": "奇煜 祁煜",
@@ -38417,6 +38545,14 @@
       "onboard_time": 1716822922,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238026,
+      "num": 238026,
+      "word": "心情不好真的显老",
+      "onboard_time": 1717162831,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 238009,
@@ -49779,6 +49915,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 191475,
+      "num": 234901,
+      "word": "问界新M7Ultra价格",
+      "onboard_time": 1717163965,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 191428,
       "num": 156350,
       "word": "突然发现气味真的是记忆锚点",
@@ -52473,6 +52617,14 @@
       "onboard_time": 1715318839,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183315,
+      "num": 234429,
+      "word": "2024世界女排联赛",
+      "onboard_time": 1715728274,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 183304,
@@ -56753,6 +56905,14 @@
       "onboard_time": 1717037657,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168414,
+      "num": 357007,
+      "word": "张真源 我的画技已到大宗师的水平",
+      "onboard_time": 1717163128,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 168394,
@@ -74627,6 +74787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113311,
+      "num": 254569,
+      "word": "给P人一些J人毕业照震撼",
+      "onboard_time": 1717164984,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113286,
       "num": 68145,
       "word": "胖猫姐姐呼吁网友不要再叫外卖",
@@ -75521,14 +75689,6 @@
       "onboard_time": 1715487019,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 109640,
-      "num": 109640,
-      "word": "2024世界女排联赛",
-      "onboard_time": 1715728274,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 109632,
@@ -77779,6 +77939,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 97788,
+      "num": 331454,
+      "word": "白鹿不愧是横店常驻人员",
+      "onboard_time": 1717163667,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97786,
       "num": 97192,
       "word": "花楹最喜欢主人 雅雅最喜欢姐姐",
@@ -78665,6 +78833,14 @@
       "onboard_time": 1716208097,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90610,
+      "num": 250869,
+      "word": "问界新M7焕新升级192线激光雷达",
+      "onboard_time": 1717164145,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 90495,
@@ -80323,6 +80499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74089,
+      "num": 332138,
+      "word": "只要一直走在路上就不算失去双脚",
+      "onboard_time": 1717163247,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73994,
       "num": 73994,
       "word": "林婉儿跪别父亲",
@@ -81025,6 +81209,14 @@
       "onboard_time": 1716072372,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67186,
+      "num": 5716156,
+      "word": "高质量发展看能源",
+      "onboard_time": 1716869299,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67060,
@@ -81923,14 +82115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58879,
-      "num": 5716156,
-      "word": "高质量发展看能源",
-      "onboard_time": 1716869299,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58824,
       "num": 81517,
       "word": "为什么听到父母的关心会烦躁",
@@ -82337,6 +82521,14 @@
       "onboard_time": 1716005839,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 55178,
+      "num": 440934,
+      "word": "京东618开卖1小时",
+      "onboard_time": 1717161083,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 55177,
@@ -84427,6 +84619,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 36443,
+      "num": 236847,
+      "word": "是谁在买9.9的耳机",
+      "onboard_time": 1717164506,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36124,
       "num": 325970,
       "word": "龚俊想在戛纳开串串店",
@@ -85385,14 +85585,6 @@
       "onboard_time": 1715889610,
       "rank": 34,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 24718,
-      "num": 440934,
-      "word": "京东618开卖1小时",
-      "onboard_time": 1717161083,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 24668,
