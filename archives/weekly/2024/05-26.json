@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717147342076,
+  "endTime": 1717148064466,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -387,6 +387,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1536809,
+      "num": 1536809,
+      "word": "恒大地产被罚款41.75亿元",
+      "onboard_time": 1717145296,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1500998,
       "num": 1500998,
       "word": "满屏都是唐艺昕",
@@ -401,14 +409,6 @@
       "onboard_time": 1717029258,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1490836,
-      "num": 1490836,
-      "word": "恒大地产被罚款41.75亿元",
-      "onboard_time": 1717145296,
-      "rank": 1,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1486451,
@@ -1003,6 +1003,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 991966,
+      "num": 991966,
+      "word": "iPhone15Pro降价幅度超安卓旗舰",
+      "onboard_time": 1717145597,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 991065,
       "num": 991065,
       "word": "女孩把生病吃过的胶囊做成永生花",
@@ -1483,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 814478,
+      "num": 814478,
+      "word": "许家印被顶格罚款并终身禁入证券市场",
+      "onboard_time": 1717145478,
+      "rank": 6,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 814145,
       "num": 814145,
       "word": "王源回复汪苏泷",
@@ -1553,14 +1569,6 @@
       "onboard_time": 1716964037,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 798029,
-      "num": 798029,
-      "word": "iPhone15Pro降价幅度超安卓旗舰",
-      "onboard_time": 1717145597,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 794778,
@@ -1681,14 +1689,6 @@
       "onboard_time": 1716879977,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 755917,
-      "num": 755917,
-      "word": "许家印被顶格罚款并终身禁入证券市场",
-      "onboard_time": 1717145478,
-      "rank": 6,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 752408,
@@ -1929,6 +1929,14 @@
       "onboard_time": 1717028658,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 692268,
+      "num": 692268,
+      "word": "白玉兰刘琳陪跑十年",
+      "onboard_time": 1717146197,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 691881,
@@ -2891,14 +2899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530156,
-      "num": 530156,
-      "word": "白玉兰刘琳陪跑十年",
-      "onboard_time": 1717146197,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 528955,
       "num": 371438,
       "word": "王力宏 来不来",
@@ -3273,6 +3273,14 @@
       "onboard_time": 1717064658,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 495827,
+      "num": 495827,
+      "word": "肖战藏海传杀青",
+      "onboard_time": 1717146857,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 495412,
@@ -4115,14 +4123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410982,
-      "num": 410982,
-      "word": "肖战藏海传杀青",
-      "onboard_time": 1717146857,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 410831,
       "num": 410831,
       "word": "巴以冲突",
@@ -4923,6 +4923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345984,
+      "num": 345984,
+      "word": "谁家好人一部剧播十年啊",
+      "onboard_time": 1717140438,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345225,
       "num": 478016,
       "word": "房价下跌对普通人意味着什么",
@@ -5025,14 +5033,6 @@
       "onboard_time": 1716800659,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 334603,
-      "num": 334603,
-      "word": "谁家好人一部剧播十年啊",
-      "onboard_time": 1717140438,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 334589,
@@ -6227,6 +6227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257437,
+      "num": 257437,
+      "word": "张元英开麦实力",
+      "onboard_time": 1717146618,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 256756,
       "num": 256756,
       "word": "KPL",
@@ -6715,8 +6723,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236885,
-      "num": 236885,
+      "raw_hot": 237189,
+      "num": 237189,
       "word": "鸡蛋最营养的部分可能被你丢掉了",
       "onboard_time": 1717146138,
       "rank": 23,
@@ -7211,6 +7219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222556,
+      "num": 222556,
+      "word": "GQ直播",
+      "onboard_time": 1717146317,
+      "rank": 26,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 222508,
       "num": 222508,
       "word": "以色列巴勒斯坦冲突",
@@ -7601,6 +7617,14 @@
       "onboard_time": 1716823459,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210992,
+      "num": 210992,
+      "word": "GQ红毯",
+      "onboard_time": 1717147518,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 210974,
@@ -8051,14 +8075,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 203034,
-      "num": 203034,
-      "word": "GQ直播",
-      "onboard_time": 1717146317,
-      "rank": 26,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 202952,
       "num": 202952,
       "word": "孙楠抵达长沙",
@@ -8315,14 +8331,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 199105,
-      "num": 199105,
-      "word": "张元英开麦实力",
-      "onboard_time": 1717146618,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 199005,
       "num": 199005,
       "word": "北京发布雷电蓝色预警",
@@ -8497,6 +8505,14 @@
       "onboard_time": 1716775758,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 196264,
+      "num": 196264,
+      "word": "吴刚希望和张若昀四搭",
+      "onboard_time": 1717147098,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 196099,
@@ -8729,6 +8745,14 @@
       "onboard_time": 1716696377,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192518,
+      "num": 192518,
+      "word": "叶轻眉的画像",
+      "onboard_time": 1717145417,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 192218,
@@ -9515,6 +9539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179801,
+      "num": 179801,
+      "word": "下班偷感很重",
+      "onboard_time": 1717146797,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179585,
       "num": 637751,
       "word": "国乒提前包揽冠亚军",
@@ -9825,14 +9857,6 @@
       "onboard_time": 1716685158,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173488,
-      "num": 173488,
-      "word": "叶轻眉的画像",
-      "onboard_time": 1717145417,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 173464,
@@ -10473,6 +10497,14 @@
       "onboard_time": 1716897616,
       "rank": 35,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 163294,
+      "num": 163294,
+      "word": "张真源地板飞人",
+      "onboard_time": 1717147156,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 163192,
@@ -11579,6 +11611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143134,
+      "num": 338685,
+      "word": "618凑单后口红仅10元",
+      "onboard_time": 1717145597,
+      "rank": 20,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 143022,
       "num": 143022,
       "word": "叶修生日贺图",
@@ -12403,14 +12443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132300,
-      "num": 132300,
-      "word": "下班偷感很重",
-      "onboard_time": 1717146797,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132192,
       "num": 132192,
       "word": "你有过隐私泄露的经历吗",
@@ -12915,14 +12947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125518,
-      "num": 125518,
-      "word": "张真源地板飞人",
-      "onboard_time": 1717147156,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125385,
       "num": 125385,
       "word": "王霏霏好A",
@@ -12961,14 +12985,6 @@
       "onboard_time": 1717036636,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124663,
-      "num": 124663,
-      "word": "吴刚希望和张若昀四搭",
-      "onboard_time": 1717147098,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 124623,
@@ -13017,6 +13033,14 @@
       "onboard_time": 1716815119,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123999,
+      "num": 123999,
+      "word": "TheShy卡牌",
+      "onboard_time": 1717147576,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 123997,
@@ -13161,6 +13185,14 @@
       "onboard_time": 1716876559,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122543,
+      "num": 122543,
+      "word": "何炅回归歌手",
+      "onboard_time": 1717147818,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 122529,
@@ -13560,6 +13592,14 @@
       "word": "中国建世界最大跨度斜拉桥6月贯通",
       "onboard_time": 1716990676,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116195,
+      "num": 541703,
+      "word": "云南人总是能把自己吃上热搜",
+      "onboard_time": 1717146018,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -14411,14 +14451,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 97097,
-      "num": 338685,
-      "word": "618凑单后口红仅10元",
-      "onboard_time": 1717145597,
-      "rank": 20,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 96777,
       "num": 523007,
       "word": "38岁杂技女演员托起19人从未失脱",
@@ -14743,14 +14775,6 @@
       "num": 344575,
       "word": "园丁爷爷挨个给孩子们分杏子",
       "onboard_time": 1716859759,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83580,
-      "num": 541703,
-      "word": "云南人总是能把自己吃上热搜",
-      "onboard_time": 1717146018,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -16499,7 +16523,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 10477,
+      "raw_hot": 11259,
       "num": 130779,
       "word": "为孩子构建完整的中华文化观",
       "onboard_time": 1717146018,
