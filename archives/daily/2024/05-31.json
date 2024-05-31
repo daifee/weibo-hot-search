@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717133789151,
+  "endTime": 1717136745596,
   "band_list": [
     {
       "raw_hot": 2201205,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1431415,
-      "num": 422954,
+      "num": 459871,
       "word": "为什么一次出轨会有无数次",
       "onboard_time": 1717128919,
       "rank": 30,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1048207,
+      "num": 781884,
+      "word": "何洁生气",
+      "onboard_time": 1717132878,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1014075,
       "num": 335745,
       "word": "我怀孕三个月婆婆也怀孕一个月",
@@ -123,6 +131,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 955432,
+      "num": 955432,
+      "word": "弟弟说冰箱里给我留了西瓜",
+      "onboard_time": 1717131499,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 939535,
       "num": 267362,
       "word": "庆余年大结局",
@@ -137,14 +153,6 @@
       "onboard_time": 1717112896,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 883967,
-      "num": 402194,
-      "word": "弟弟说冰箱里给我留了西瓜",
-      "onboard_time": 1717131499,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 833133,
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 725841,
+      "num": 725841,
+      "word": "印尼男子结婚12天发现妻子是男人",
+      "onboard_time": 1717132638,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725743,
       "num": 725743,
       "word": "云边有个小卖部定档",
@@ -227,12 +243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 598534,
+      "num": 480224,
+      "word": "原来庆帝叫李云潜",
+      "onboard_time": 1717133238,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 596805,
       "num": 589462,
       "word": "那英真唱搁浅",
       "onboard_time": 1717131200,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 581861,
+      "num": 440246,
+      "word": "汪峰方否认出新歌我的梦想我的森林北",
+      "onboard_time": 1717132518,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 578310,
@@ -315,14 +347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 496064,
-      "num": 315174,
-      "word": "何洁生气",
-      "onboard_time": 1717132878,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 487233,
       "num": 487233,
       "word": "张若昀唐艺昕爱尔兰之约",
@@ -395,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383785,
+      "num": 383785,
+      "word": "唐嫣工作室回应白玉兰提名",
+      "onboard_time": 1717135519,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383061,
       "num": 383061,
       "word": "肖战白T上有肖战",
@@ -419,12 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 370890,
-      "num": 310953,
-      "word": "汪峰方否认出新歌我的梦想我的森林北",
-      "onboard_time": 1717132518,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 368998,
+      "num": 291920,
+      "word": "陈昊宇手速",
+      "onboard_time": 1717133058,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 362220,
@@ -499,6 +531,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 312905,
+      "num": 288875,
+      "word": "王一博官方粉丝团发文",
+      "onboard_time": 1717136417,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312834,
       "num": 312834,
       "word": "台独课本洗脑青少年",
@@ -515,28 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308594,
-      "num": 308594,
-      "word": "印尼男子结婚12天发现妻子是男人",
-      "onboard_time": 1717132638,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307216,
-      "num": 283345,
-      "word": "原来庆帝叫李云潜",
-      "onboard_time": 1717133238,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306825,
       "num": 265465,
       "word": "叶轻眉 纯元",
       "onboard_time": 1717095491,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305480,
+      "num": 305480,
+      "word": "今年高考报名人数比去年多51万人",
+      "onboard_time": 1717133177,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 297320,
@@ -609,14 +641,6 @@
       "onboard_time": 1717126638,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 238563,
-      "num": 238563,
-      "word": "陈昊宇手速",
-      "onboard_time": 1717133058,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 237323,
@@ -763,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204049,
+      "num": 204049,
+      "word": "辛芷蕾庆余年有效客串",
+      "onboard_time": 1717135639,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203125,
       "num": 203125,
       "word": "边伯贤澳门",
@@ -785,6 +817,22 @@
       "onboard_time": 1717127839,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 195636,
+      "num": 195636,
+      "word": "张艺兴抢票",
+      "onboard_time": 1717133778,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 193772,
+      "num": 193772,
+      "word": "无畏契约",
+      "onboard_time": 1717136417,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 193050,
@@ -1051,14 +1099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155176,
-      "num": 155176,
-      "word": "今年高考报名人数比去年多51万人",
-      "onboard_time": 1717133177,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 154958,
       "num": 154958,
       "word": "BABYMONSTER新曲舞蹈版MV",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1717082060,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145405,
+      "num": 145405,
+      "word": "无畏契约上海大师赛",
+      "onboard_time": 1717136478,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 144398,
@@ -1179,6 +1227,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 134988,
+      "num": 134988,
+      "word": "小猫连续越狱事件",
+      "onboard_time": 1717136478,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132692,
       "num": 132692,
       "word": "2024全国高考报名人数1342万人",
@@ -1211,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125619,
+      "num": 125619,
+      "word": "陶喆说写过最难听的歌是一念之间",
+      "onboard_time": 1717135219,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125055,
       "num": 125055,
       "word": "杨幂问今天大家怎么怪怪的",
@@ -1233,6 +1297,22 @@
       "onboard_time": 1717128439,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123113,
+      "num": 123113,
+      "word": "搁浅",
+      "onboard_time": 1717134019,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121863,
+      "num": 121863,
+      "word": "偷感很重的早安老师",
+      "onboard_time": 1717136297,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 121213,
@@ -1289,6 +1369,14 @@
       "onboard_time": 1717124178,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109045,
+      "num": 109045,
+      "word": "消息称上汽通用工厂放假3个月",
+      "onboard_time": 1717135758,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 107684,
@@ -1475,6 +1563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54925,
+      "num": 464157,
+      "word": "二手烟或将导致儿童注意力缺陷",
+      "onboard_time": 1717135219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54831,
       "num": 1049828,
       "word": "他们撑起了中国人的骨气",
@@ -1531,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44132,
+      "num": 452030,
+      "word": "张若昀的精明之选",
+      "onboard_time": 1717131919,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 40185,
       "num": 213718,
       "word": "大学室友结婚我跟妆跟拍",
@@ -1561,14 +1665,6 @@
       "onboard_time": 1717076659,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33850,
-      "num": 329394,
-      "word": "张若昀的精明之选",
-      "onboard_time": 1717131919,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33420,
@@ -1611,8 +1707,16 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 24877,
+      "num": 193912,
+      "word": "为什么大牌都来上海办秀",
+      "onboard_time": 1717133177,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22316,
-      "num": 292517,
+      "num": 342560,
       "word": "腾格尔为京东618唱买买买之歌",
       "onboard_time": 1717132579,
       "rank": 44,
@@ -1633,14 +1737,6 @@
       "onboard_time": 1717096212,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14486,
-      "num": 193912,
-      "word": "为什么大牌都来上海办秀",
-      "onboard_time": 1717133177,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 11582,

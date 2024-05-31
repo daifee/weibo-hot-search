@@ -1,0 +1,410 @@
+{
+  "runTime": 1717136745596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1111084,
+        "num": 1111084,
+        "word": "庆余年3 边拍边播",
+        "onboard_time": 1717129819,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 955432,
+        "num": 955432,
+        "word": "弟弟说冰箱里给我留了西瓜",
+        "onboard_time": 1717131499,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72054,
+        "num": 801374,
+        "word": "中国十二时辰之美",
+        "onboard_time": 1717124178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048207,
+        "num": 781884,
+        "word": "何洁生气",
+        "onboard_time": 1717132878,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725841,
+        "num": 725841,
+        "word": "印尼男子结婚12天发现妻子是男人",
+        "onboard_time": 1717132638,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491178,
+        "num": 491178,
+        "word": "台湾",
+        "onboard_time": 1717124419,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 598534,
+        "num": 480224,
+        "word": "原来庆帝叫李云潜",
+        "onboard_time": 1717133238,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466839,
+        "num": 466839,
+        "word": "那英真唱搁浅",
+        "onboard_time": 1717131200,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465002,
+        "num": 465002,
+        "word": "工信部拟禁止汽车单踏板完全刹停",
+        "onboard_time": 1717127537,
+        "rank": 8,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 54925,
+        "num": 464157,
+        "word": "二手烟或将导致儿童注意力缺陷",
+        "onboard_time": 1717135219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956724,
+        "num": 459871,
+        "word": "为什么一次出轨会有无数次",
+        "onboard_time": 1717128919,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44132,
+        "num": 452030,
+        "word": "张若昀的精明之选",
+        "onboard_time": 1717131919,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 656142,
+        "num": 447270,
+        "word": "58%男性不孕不育被诊断为不明原因",
+        "onboard_time": 1717125318,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 642620,
+        "num": 445990,
+        "word": "媒体评王阳入围白玉兰",
+        "onboard_time": 1717126819,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581861,
+        "num": 440246,
+        "word": "汪峰方否认出新歌我的梦想我的森林北",
+        "onboard_time": 1717132518,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 436917,
+        "num": 436917,
+        "word": "她居然还是跳的最好的一个",
+        "onboard_time": 1717117638,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383785,
+        "num": 383785,
+        "word": "唐嫣工作室回应白玉兰提名",
+        "onboard_time": 1717135519,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11253,
+        "num": 342560,
+        "word": "腾格尔为京东618唱买买买之歌",
+        "onboard_time": 1717132579,
+        "rank": 17,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 342534,
+        "num": 342534,
+        "word": "教育部要求隐蔽场所视频监控全覆盖",
+        "onboard_time": 1717125378,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 305480,
+        "num": 305480,
+        "word": "今年高考报名人数比去年多51万人",
+        "onboard_time": 1717133177,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 368998,
+        "num": 291920,
+        "word": "陈昊宇手速",
+        "onboard_time": 1717133058,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312905,
+        "num": 288875,
+        "word": "王一博官方粉丝团发文",
+        "onboard_time": 1717136417,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264016,
+        "num": 264016,
+        "word": "我怀孕三个月婆婆也怀孕一个月",
+        "onboard_time": 1717112357,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235492,
+        "num": 235492,
+        "word": "3包烟就能熏黑一个肺",
+        "onboard_time": 1717129819,
+        "rank": 23,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 229251,
+        "num": 229251,
+        "word": "从怀孕到宝宝一岁的花销",
+        "onboard_time": 1717131499,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 210681,
+        "num": 210681,
+        "word": "下周五就高考了",
+        "onboard_time": 1717122918,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 273698,
+        "num": 207418,
+        "word": "白玉兰 王一博",
+        "onboard_time": 1717127059,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204049,
+        "num": 204049,
+        "word": "辛芷蕾庆余年有效客串",
+        "onboard_time": 1717135639,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195636,
+        "num": 195636,
+        "word": "张艺兴抢票",
+        "onboard_time": 1717133778,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24877,
+        "num": 193838,
+        "word": "为什么大牌都来上海办秀",
+        "onboard_time": 1717133177,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193772,
+        "num": 193772,
+        "word": "无畏契约",
+        "onboard_time": 1717136417,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192178,
+        "num": 192178,
+        "word": "迪丽热巴生日发新歌",
+        "onboard_time": 1717130539,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187660,
+        "num": 187660,
+        "word": "串串房为什么被称白血病套房",
+        "onboard_time": 1717132278,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175114,
+        "num": 175114,
+        "word": "张若昀对庆帝失望至极",
+        "onboard_time": 1717132878,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157197,
+        "num": 157197,
+        "word": "敷面膜一个月的皮肤变化",
+        "onboard_time": 1717119798,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 145405,
+        "num": 145405,
+        "word": "无畏契约上海大师赛",
+        "onboard_time": 1717136478,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134988,
+        "num": 134988,
+        "word": "小猫连续越狱事件",
+        "onboard_time": 1717136478,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132605,
+        "num": 132605,
+        "word": "GQ出图",
+        "onboard_time": 1717125858,
+        "rank": 37,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 127691,
+        "num": 127691,
+        "word": "张若昀唐艺昕爱尔兰之约",
+        "onboard_time": 1717125618,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125619,
+        "num": 125619,
+        "word": "陶喆说写过最难听的歌是一念之间",
+        "onboard_time": 1717135219,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125428,
+        "num": 125428,
+        "word": "老师砍掉学生2天丧假合理吗",
+        "onboard_time": 1717115898,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123113,
+        "num": 123113,
+        "word": "搁浅",
+        "onboard_time": 1717134019,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121863,
+        "num": 121863,
+        "word": "偷感很重的早安老师",
+        "onboard_time": 1717136297,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120701,
+        "num": 120701,
+        "word": "惠州业主148万买的房95万卖",
+        "onboard_time": 1717130899,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119774,
+        "num": 119774,
+        "word": "杨幂好美一双狐狸眼",
+        "onboard_time": 1717131439,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116425,
+        "num": 116425,
+        "word": "全球每4秒有1人死于吸烟相关疾病",
+        "onboard_time": 1717115898,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116210,
+        "num": 116210,
+        "word": "范闲臣变儿臣",
+        "onboard_time": 1717127718,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109045,
+        "num": 109045,
+        "word": "消息称上汽通用工厂放假3个月",
+        "onboard_time": 1717135758,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104132,
+        "num": 104132,
+        "word": "中止对台湾地区134个税目产品关税减让",
+        "onboard_time": 1717117339,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96531,
+        "num": 96531,
+        "word": "中阿关于巴勒斯坦问题的联合声明",
+        "onboard_time": 1717126638,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中阿命运共同体建设跑出加速度#"
+    }
+  }
+}
