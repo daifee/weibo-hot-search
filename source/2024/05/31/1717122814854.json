@@ -1,0 +1,410 @@
+{
+  "runTime": 1717122814854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1821297,
+        "num": 1821297,
+        "word": "她居然还是跳的最好的一个",
+        "onboard_time": 1717117638,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1548646,
+        "num": 1548646,
+        "word": "中止对台湾地区134个税目产品关税减让",
+        "onboard_time": 1717117339,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20492,
+        "num": 911116,
+        "word": "中阿合作20载硕果累累",
+        "onboard_time": 1717075459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901503,
+        "num": 901503,
+        "word": "老师砍掉学生2天丧假合理吗",
+        "onboard_time": 1717115898,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743366,
+        "num": 743366,
+        "word": "白玉兰提名没有白敬亭",
+        "onboard_time": 1717117218,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648462,
+        "num": 648462,
+        "word": "全球每4秒有1人死于吸烟相关疾病",
+        "onboard_time": 1717115898,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567473,
+        "num": 567473,
+        "word": "巴黎世家 蹦迪",
+        "onboard_time": 1717118957,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 519199,
+        "num": 519199,
+        "word": "睡前4小时最好别吃东西",
+        "onboard_time": 1717110554,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 478001,
+        "num": 478001,
+        "word": "特朗普成美国史上首位被判有罪前总统",
+        "onboard_time": 1717112537,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31276,
+        "num": 396482,
+        "word": "为什么吸烟的人会发臭",
+        "onboard_time": 1717122558,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 367981,
+        "num": 367981,
+        "word": "二皇子暴露本体了",
+        "onboard_time": 1717110615,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335327,
+        "num": 335327,
+        "word": "原来韩国人对自己国家的小没什么概念",
+        "onboard_time": 1717112836,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327206,
+        "num": 327206,
+        "word": "张小斐王阳王安宇 黑道家族",
+        "onboard_time": 1717118957,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284243,
+        "num": 284243,
+        "word": "台湾高中生问中国史是什么",
+        "onboard_time": 1717077740,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 236226,
+        "num": 236226,
+        "word": "林珙的死",
+        "onboard_time": 1717122077,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235195,
+        "num": 235195,
+        "word": "五竹 婉儿",
+        "onboard_time": 1717078821,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220120,
+        "num": 220120,
+        "word": "王倦 第三季不会等这么久",
+        "onboard_time": 1717084158,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218730,
+        "num": 218730,
+        "word": "国务院关税税则委员会发布公告",
+        "onboard_time": 1717118657,
+        "rank": 17,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 216514,
+        "num": 216514,
+        "word": "台州打小孩",
+        "onboard_time": 1717112896,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43200,
+        "num": 216136,
+        "word": "有多少车敢8折回购",
+        "onboard_time": 1717118838,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 625185,
+        "num": 215775,
+        "word": "我怀孕三个月婆婆也怀孕一个月",
+        "onboard_time": 1717112357,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 547263,
+        "num": 215523,
+        "word": "敷面膜一个月的皮肤变化",
+        "onboard_time": 1717119798,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 517758,
+        "num": 214914,
+        "word": "新同事来了不到两周就离职了",
+        "onboard_time": 1717117578,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 465135,
+        "num": 214702,
+        "word": "姑姑跟侄女抢家产",
+        "onboard_time": 1717120337,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214464,
+        "num": 214464,
+        "word": "为什么很多女生不愿意谈恋爱了",
+        "onboard_time": 1717119677,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210763,
+        "num": 210763,
+        "word": "云边有个小卖部定档",
+        "onboard_time": 1717122558,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225010,
+        "num": 210282,
+        "word": "新加坡坠亡女留学生男友发声",
+        "onboard_time": 1717114399,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209459,
+        "num": 209459,
+        "word": "胡歌你偷谁家小孩了",
+        "onboard_time": 1717099930,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202327,
+        "num": 202327,
+        "word": "今夏气温或因极端天气刷新纪录",
+        "onboard_time": 1717122677,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 200382,
+        "num": 200382,
+        "word": "搞台独就没有和平没有发展",
+        "onboard_time": 1717122318,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220791,
+        "num": 200317,
+        "word": "森林狼水平",
+        "onboard_time": 1717122137,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199703,
+        "num": 199703,
+        "word": "独行侠",
+        "onboard_time": 1717122018,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184380,
+        "num": 184380,
+        "word": "国台办回应中止对台部分产品关税减让",
+        "onboard_time": 1717121057,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166507,
+        "num": 166507,
+        "word": "她长相丑陋却用艺术感动人间",
+        "onboard_time": 1717121896,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69638,
+        "num": 165310,
+        "word": "小时候没跳够这次跳过瘾",
+        "onboard_time": 1717120699,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164509,
+        "num": 164509,
+        "word": "见识到大宗师的实力了",
+        "onboard_time": 1717122137,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161616,
+        "num": 161616,
+        "word": "种地吧 绿源",
+        "onboard_time": 1717118239,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161060,
+        "num": 161060,
+        "word": "专科女孩9年逆袭考上博士",
+        "onboard_time": 1717121237,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 159395,
+        "num": 159395,
+        "word": "叶流云好帅",
+        "onboard_time": 1717122618,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159184,
+        "num": 159184,
+        "word": "李小冉 我的小羊驼",
+        "onboard_time": 1717119617,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154418,
+        "num": 154418,
+        "word": "各校要成立学生欺凌治理委员会",
+        "onboard_time": 1717120578,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 157939,
+        "num": 148649,
+        "word": "庆余年真有徐志胜",
+        "onboard_time": 1717083678,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140283,
+        "num": 140283,
+        "word": "张馨予发微博怀念爸爸",
+        "onboard_time": 1717115178,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136356,
+        "num": 136356,
+        "word": "长期饮用碳酸饮料会降低骨密度",
+        "onboard_time": 1717119317,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130590,
+        "num": 130590,
+        "word": "白玉兰",
+        "onboard_time": 1717110914,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129561,
+        "num": 129561,
+        "word": "追风者 男主",
+        "onboard_time": 1717070778,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121213,
+        "num": 121213,
+        "word": "海来阿木仿妆",
+        "onboard_time": 1717121597,
+        "rank": 46,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 119654,
+        "num": 119654,
+        "word": "英伟达一夜蒸发7692亿",
+        "onboard_time": 1717122738,
+        "rank": 47,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 117036,
+        "num": 117036,
+        "word": "晚上喊弟弟爬山被删了",
+        "onboard_time": 1717110674,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112487,
+        "num": 112487,
+        "word": "白玉兰提名没有王一博",
+        "onboard_time": 1717075459,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿合作论坛第十届部长级会议#"
+    }
+  }
+}
