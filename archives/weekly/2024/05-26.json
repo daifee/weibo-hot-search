@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717179858039,
+  "endTime": 1717180608148,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -16347,6 +16347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71198,
+      "num": 84424,
+      "word": "微信状态就是最好的发疯神器",
+      "onboard_time": 1717178594,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71106,
       "num": 466649,
       "word": "极氪007刷新浙赛纪录",
@@ -16505,14 +16513,6 @@
       "onboard_time": 1717072037,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 65129,
-      "num": 84424,
-      "word": "微信状态就是最好的发疯神器",
-      "onboard_time": 1717178594,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 64357,
@@ -17427,6 +17427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35547,
+      "num": 63536,
+      "word": "Paparazzi",
+      "onboard_time": 1717180092,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34737,
       "num": 34737,
       "word": "突然发现消费习惯正在悄悄改变",
@@ -17968,6 +17976,14 @@
       "word": "为孩子构建完整的中华文化观",
       "onboard_time": 1717146018,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9922,
+      "num": 147141,
+      "word": "90后情侣免费为600多名留守老人理发",
+      "onboard_time": 1717180092,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

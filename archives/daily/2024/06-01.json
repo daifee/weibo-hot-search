@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717179858039,
+  "endTime": 1717180608148,
   "band_list": [
     {
       "raw_hot": 1683026,
@@ -427,7 +427,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65129,
+      "raw_hot": 71198,
       "num": 84424,
       "word": "微信状态就是最好的发疯神器",
       "onboard_time": 1717178594,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35547,
+      "num": 63536,
+      "word": "Paparazzi",
+      "onboard_time": 1717180092,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25022,
       "num": 64556,
       "word": "女排积分",
@@ -487,6 +495,14 @@
       "num": 215328,
       "word": "学校六一演出全场被孤勇者硬控",
       "onboard_time": 1717176374,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9922,
+      "num": 147141,
+      "word": "90后情侣免费为600多名留守老人理发",
+      "onboard_time": 1717180092,
       "rank": 9,
       "category": "社会新闻"
     },
