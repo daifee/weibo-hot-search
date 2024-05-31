@@ -1,0 +1,410 @@
+{
+  "runTime": 1717161627996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10254555,
+        "num": 10254555,
+        "word": "断眉真来了",
+        "onboard_time": 1717157720,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8029087,
+        "num": 8029087,
+        "word": "汪苏泷 好听",
+        "onboard_time": 1717160063,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21848,
+        "num": 5002528,
+        "word": "三夏麦收尽显科技范儿",
+        "onboard_time": 1717140438,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4633618,
+        "num": 4633618,
+        "word": "歌手直播",
+        "onboard_time": 1717155737,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4557193,
+        "num": 4557193,
+        "word": "那英 跑调",
+        "onboard_time": 1717161265,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580683,
+        "num": 580683,
+        "word": "朱婷替补",
+        "onboard_time": 1717157417,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520229,
+        "num": 520229,
+        "word": "中国女排vs日本女排",
+        "onboard_time": 1717155018,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366074,
+        "num": 517819,
+        "word": "两岁半幼童每天戴12小时牙套",
+        "onboard_time": 1717136777,
+        "rank": 7,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 66853,
+        "num": 515374,
+        "word": "浙江首套房贷首付款调至15%",
+        "onboard_time": 1717160722,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 122315,
+        "num": 511969,
+        "word": "张真源的画把人整笑了",
+        "onboard_time": 1717159762,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243889,
+        "num": 508527,
+        "word": "谁允许你这么凑单的",
+        "onboard_time": 1717158141,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1693176,
+        "num": 506058,
+        "word": "歌手2024",
+        "onboard_time": 1717154837,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1557475,
+        "num": 503097,
+        "word": "黄宣编曲 吵",
+        "onboard_time": 1717158561,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1442713,
+        "num": 499262,
+        "word": "歌手揭榜目标限时投票",
+        "onboard_time": 1717151538,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273253,
+        "num": 496744,
+        "word": "世界之外",
+        "onboard_time": 1717159822,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241020,
+        "num": 492455,
+        "word": "中国女排1比1日本女排",
+        "onboard_time": 1717159520,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220658,
+        "num": 491031,
+        "word": "问界M7",
+        "onboard_time": 1717160722,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191869,
+        "num": 486993,
+        "word": "6月十二星座注意事项",
+        "onboard_time": 1717158260,
+        "rank": 17,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 66798,
+        "num": 484378,
+        "word": "白鹿找到了好像又没找到",
+        "onboard_time": 1717160902,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43028,
+        "num": 480917,
+        "word": "京东618抢疯了",
+        "onboard_time": 1717158981,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166468,
+        "num": 477879,
+        "word": "问界新M7Ultra底盘升级",
+        "onboard_time": 1717160661,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1107268,
+        "num": 471981,
+        "word": "没有亚当",
+        "onboard_time": 1717158321,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1115134,
+        "num": 471256,
+        "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
+        "onboard_time": 1717151598,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076627,
+        "num": 467368,
+        "word": "我要听See You Again",
+        "onboard_time": 1717158981,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 797104,
+        "num": 464241,
+        "word": "洪涛 羽泉",
+        "onboard_time": 1717157960,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619250,
+        "num": 460627,
+        "word": "那英真搁浅了",
+        "onboard_time": 1717161564,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532997,
+        "num": 456065,
+        "word": "王一博王阳都报名了",
+        "onboard_time": 1717143797,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524462,
+        "num": 453667,
+        "word": "尚雯婕去隔壁歌手吧",
+        "onboard_time": 1717153818,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320504,
+        "num": 450838,
+        "word": "王雪峰被控受贿8407万余元",
+        "onboard_time": 1717160360,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191761,
+        "num": 447944,
+        "word": "中国女排1比2日本女排",
+        "onboard_time": 1717161325,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446109,
+        "num": 446109,
+        "word": "歌手顺序",
+        "onboard_time": 1717160360,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445838,
+        "num": 445838,
+        "word": "芒果你牛",
+        "onboard_time": 1717159401,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25643,
+        "num": 442931,
+        "word": "易烊千玺新短片没有一句台词",
+        "onboard_time": 1717160661,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437884,
+        "num": 441457,
+        "word": "戚薇嗓子怎么了",
+        "onboard_time": 1717153518,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441223,
+        "num": 441223,
+        "word": "放过五旬老太 让五旬老头上",
+        "onboard_time": 1717158501,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64357,
+        "num": 441097,
+        "word": "90后的家已经是nextlevel",
+        "onboard_time": 1717157238,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17151,
+        "num": 440934,
+        "word": "京东618开卖1小时",
+        "onboard_time": 1717161083,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176731,
+        "num": 440815,
+        "word": "普华永道",
+        "onboard_time": 1717149259,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178404,
+        "num": 440621,
+        "word": "在单位不要说家庭的任何事情",
+        "onboard_time": 1717152557,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440528,
+        "num": 440528,
+        "word": "亚亚唱得好 编曲不行",
+        "onboard_time": 1717161443,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410365,
+        "num": 410365,
+        "word": "洪涛回来了",
+        "onboard_time": 1717158141,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374191,
+        "num": 374191,
+        "word": "何洁 垫音",
+        "onboard_time": 1717154418,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159947,
+        "num": 373811,
+        "word": "也门胡塞武装称袭击美军航母",
+        "onboard_time": 1717158681,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145285,
+        "num": 372859,
+        "word": "JDG无畏正在连接",
+        "onboard_time": 1717148477,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144227,
+        "num": 371863,
+        "word": "EDG大师赛对阵TH",
+        "onboard_time": 1717160182,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135513,
+        "num": 370643,
+        "word": "618",
+        "onboard_time": 1717158802,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133843,
+        "num": 370486,
+        "word": "脊柱修复大师给狗狗正骨",
+        "onboard_time": 1717160962,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123600,
+        "num": 369416,
+        "word": "澳大利亚女足1比1中国女足",
+        "onboard_time": 1717159462,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120667,
+        "num": 367967,
+        "word": "iPhone15Pro降价幅度超安卓旗舰",
+        "onboard_time": 1717145597,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108293,
+        "num": 367315,
+        "word": "58%男性不孕不育被诊断为不明原因",
+        "onboard_time": 1717125318,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同突尼斯总统会谈#"
+    }
+  }
+}
