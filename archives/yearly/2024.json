@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717158896611,
+  "endTime": 1717159803402,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -171,6 +171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 11274014,
+      "num": 11274014,
+      "word": "断眉真来了",
+      "onboard_time": 1717157720,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11170879,
       "num": 11170879,
       "word": "沈腾也嘴瓢了",
@@ -225,14 +233,6 @@
       "onboard_time": 1711155619,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 10580367,
-      "num": 10580367,
-      "word": "断眉真来了",
-      "onboard_time": 1717157720,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 10511056,
