@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717130282513,
+  "endTime": 1717132854944,
   "band_list": [
     {
       "raw_hot": 2201205,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1408946,
+      "num": 1408946,
+      "word": "庆余年3 边拍边播",
+      "onboard_time": 1717129819,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1371422,
       "num": 1371422,
       "word": "特朗普成美国史上首位被判有罪前总统",
@@ -81,6 +89,14 @@
       "onboard_time": 1717075459,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1127090,
+      "num": 422954,
+      "word": "为什么一次出轨会有无数次",
+      "onboard_time": 1717128919,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1115455,
@@ -187,6 +203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 671155,
+      "num": 402194,
+      "word": "弟弟说冰箱里给我留了西瓜",
+      "onboard_time": 1717131499,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 648462,
       "num": 648462,
       "word": "全球每4秒有1人死于吸烟相关疾病",
@@ -209,6 +233,14 @@
       "onboard_time": 1717110615,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 575114,
+      "num": 575114,
+      "word": "工信部拟禁止汽车单踏板完全刹停",
+      "onboard_time": 1717127537,
+      "rank": 9,
+      "category": "国内时政,汽车"
     },
     {
       "raw_hot": 569523,
@@ -251,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547106,
+      "num": 471418,
+      "word": "那英真唱搁浅",
+      "onboard_time": 1717131200,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517758,
       "num": 264830,
       "word": "新同事来了不到两周就离职了",
@@ -280,14 +320,6 @@
       "word": "张若昀唐艺昕爱尔兰之约",
       "onboard_time": 1717125618,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 470221,
-      "num": 470221,
-      "word": "庆余年3 边拍边播",
-      "onboard_time": 1717129819,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -323,12 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 422954,
-      "num": 422954,
-      "word": "为什么一次出轨会有无数次",
-      "onboard_time": 1717128919,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 428686,
+      "num": 428686,
+      "word": "迪丽热巴生日发新歌",
+      "onboard_time": 1717130539,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 406189,
@@ -459,14 +491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308424,
-      "num": 519579,
-      "word": "工信部拟禁止汽车单踏板完全刹停",
-      "onboard_time": 1717127537,
-      "rank": 9,
-      "category": "国内时政,汽车"
-    },
-    {
       "raw_hot": 306825,
       "num": 265465,
       "word": "叶轻眉 纯元",
@@ -497,6 +521,22 @@
       "onboard_time": 1717070778,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275737,
+      "num": 275737,
+      "word": "3000元拿下家庭健身房是个什么水平",
+      "onboard_time": 1717131200,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 262987,
+      "num": 193076,
+      "word": "从怀孕到宝宝一岁的花销",
+      "onboard_time": 1717131499,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 253351,
@@ -571,6 +611,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 228409,
+      "num": 471965,
+      "word": "3包烟就能熏黑一个肺",
+      "onboard_time": 1717129819,
+      "rank": 9,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 226974,
       "num": 226974,
       "word": "郭晓婷想让杨幂演灵宠",
@@ -619,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215757,
+      "num": 215757,
+      "word": "相亲界都有身高公式了",
+      "onboard_time": 1717127599,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213026,
       "num": 213026,
       "word": "女明星GQ红毯造型",
@@ -635,20 +691,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207215,
-      "num": 207215,
-      "word": "相亲界都有身高公式了",
-      "onboard_time": 1717127599,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 206249,
       "num": 206249,
       "word": "独行侠",
       "onboard_time": 1717122018,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204754,
+      "num": 204754,
+      "word": "串串房为什么被称白血病套房",
+      "onboard_time": 1717132278,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204395,
@@ -675,6 +731,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 199994,
+      "num": 199994,
+      "word": "汪峰方否认出新歌我的梦想我的森林北",
+      "onboard_time": 1717132518,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198996,
       "num": 198996,
       "word": "快乐水涨价后都不快乐了",
@@ -691,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191614,
+      "num": 191614,
+      "word": "杨幂好美一双狐狸眼",
+      "onboard_time": 1717131439,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191377,
       "num": 191377,
       "word": "高考试卷正在路上",
@@ -705,6 +777,14 @@
       "onboard_time": 1717124597,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191030,
+      "num": 191030,
+      "word": "迪丽热巴单曲第十幕",
+      "onboard_time": 1717131739,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 190698,
@@ -753,6 +833,14 @@
       "onboard_time": 1717116799,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182109,
+      "num": 182109,
+      "word": "印尼男子结婚12天发现妻子是男人",
+      "onboard_time": 1717132638,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180572,
@@ -825,6 +913,14 @@
       "onboard_time": 1717079778,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165725,
+      "num": 165725,
+      "word": "惠州业主148万买的房95万卖",
+      "onboard_time": 1717130899,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165348,
@@ -923,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154750,
+      "num": 154750,
+      "word": "张艺兴南京站卡点预售",
+      "onboard_time": 1717132759,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154418,
       "num": 154418,
       "word": "各校要成立学生欺凌治理委员会",
@@ -977,6 +1081,14 @@
       "onboard_time": 1717129699,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141534,
+      "num": 141534,
+      "word": "肖战白T歪头杀",
+      "onboard_time": 1717131260,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141252,
@@ -1219,14 +1331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 72840,
-      "num": 471965,
-      "word": "3包烟就能熏黑一个肺",
-      "onboard_time": 1717129819,
-      "rank": 9,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 71527,
       "num": 68952,
       "word": "狐妖导演回应杨幂龚俊cp感",
@@ -1289,6 +1393,14 @@
       "onboard_time": 1717111695,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56075,
+      "num": 184333,
+      "word": "腾格尔唱帽衫",
+      "onboard_time": 1717129939,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 55448,
@@ -1363,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42758,
+      "num": 413938,
+      "word": "遇异性网友借钱仅三成受访者会拒绝",
+      "onboard_time": 1717131679,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40185,
       "num": 213718,
       "word": "大学室友结婚我跟妆跟拍",
@@ -1403,6 +1523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 32784,
+      "num": 242893,
+      "word": "张若昀的精明之选",
+      "onboard_time": 1717131919,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32503,
       "num": 36724,
       "word": "严浩翔划龙舟路透",
@@ -1435,12 +1563,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 25506,
-      "num": 184333,
-      "word": "腾格尔唱帽衫",
-      "onboard_time": 1717129939,
-      "rank": 37,
-      "category": "音乐"
+      "raw_hot": 22316,
+      "num": 146370,
+      "word": "腾格尔为京东618唱买买买之歌",
+      "onboard_time": 1717132579,
+      "rank": 44,
+      "category": "音乐,互联网"
     },
     {
       "raw_hot": 17723,
