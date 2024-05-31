@@ -1,0 +1,410 @@
+{
+  "runTime": 1717155331549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1473695,
+        "num": 1473695,
+        "word": "尚雯婕去隔壁歌手吧",
+        "onboard_time": 1717153818,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769211,
+        "num": 769211,
+        "word": "普华永道",
+        "onboard_time": 1717149259,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15992,
+        "num": 684921,
+        "word": "三夏麦收尽显科技范儿",
+        "onboard_time": 1717140438,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1316377,
+        "num": 666609,
+        "word": "袁娅维输了",
+        "onboard_time": 1717152317,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612999,
+        "num": 612999,
+        "word": "两岁半幼童每天戴12小时牙套",
+        "onboard_time": 1717136777,
+        "rank": 4,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 329738,
+        "num": 329738,
+        "word": "36岁女教授回应任985高校院长",
+        "onboard_time": 1717148838,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063029,
+        "num": 324608,
+        "word": "戚薇嗓子怎么了",
+        "onboard_time": 1717153518,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 745031,
+        "num": 313859,
+        "word": "王一博王阳都报名了",
+        "onboard_time": 1717143797,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290575,
+        "num": 290575,
+        "word": "iPhone15Pro降价幅度超安卓旗舰",
+        "onboard_time": 1717145597,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 260733,
+        "num": 260733,
+        "word": "JDG无畏正在连接",
+        "onboard_time": 1717148477,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2244855,
+        "num": 258909,
+        "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
+        "onboard_time": 1717151598,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872222,
+        "num": 255224,
+        "word": "何洁 垫音",
+        "onboard_time": 1717154418,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568568,
+        "num": 251057,
+        "word": "歌手揭榜目标限时投票",
+        "onboard_time": 1717151538,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563192,
+        "num": 248111,
+        "word": "歌手2024",
+        "onboard_time": 1717154837,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115051,
+        "num": 247257,
+        "word": "iPhone15系列天猫618真4折",
+        "onboard_time": 1717153217,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 556920,
+        "num": 241989,
+        "word": "浪姐直播",
+        "onboard_time": 1717150577,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360136,
+        "num": 238175,
+        "word": "58%男性不孕不育被诊断为不明原因",
+        "onboard_time": 1717125318,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237560,
+        "num": 237560,
+        "word": "为什么一次出轨会有无数次",
+        "onboard_time": 1717128919,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202921,
+        "num": 202921,
+        "word": "许家印被顶格罚款并终身禁入证券市场",
+        "onboard_time": 1717145478,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 178595,
+        "num": 178595,
+        "word": "很努力地成为一个懒人",
+        "onboard_time": 1717153937,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87223,
+        "num": 177309,
+        "word": "未满月小狮子嘬奶瓶五官都在努力",
+        "onboard_time": 1717155138,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 508610,
+        "num": 177205,
+        "word": "相关人士回应白玉兰提名没有王一博",
+        "onboard_time": 1717152977,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489275,
+        "num": 177056,
+        "word": "何洁生气",
+        "onboard_time": 1717132878,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176213,
+        "num": 176213,
+        "word": "巴黎奥运会",
+        "onboard_time": 1717153518,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37468,
+        "num": 176209,
+        "word": "祝全国的小朋友们节日快乐",
+        "onboard_time": 1717151417,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456161,
+        "num": 176075,
+        "word": "田曦薇簪花少女",
+        "onboard_time": 1717151716,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 455963,
+        "num": 175946,
+        "word": "GQ红毯",
+        "onboard_time": 1717147518,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 453428,
+        "num": 175856,
+        "word": "陈昊宇全开麦",
+        "onboard_time": 1717154777,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443877,
+        "num": 175845,
+        "word": "日本应届生迎来就业反选时代",
+        "onboard_time": 1717143257,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367450,
+        "num": 175707,
+        "word": "白玉兰刘琳陪跑十年",
+        "onboard_time": 1717146197,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49053,
+        "num": 175616,
+        "word": "京东618倒计时1小时",
+        "onboard_time": 1717154298,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 351158,
+        "num": 175539,
+        "word": "浪姐大战歌手",
+        "onboard_time": 1717154357,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321849,
+        "num": 175458,
+        "word": "庆余年3 边拍边播",
+        "onboard_time": 1717129819,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264907,
+        "num": 175376,
+        "word": "张婧仪生图",
+        "onboard_time": 1717148717,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 225149,
+        "num": 175252,
+        "word": "时代少年团中式刺绣西装",
+        "onboard_time": 1717152739,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204819,
+        "num": 175129,
+        "word": "陈昊宇手速",
+        "onboard_time": 1717133058,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52298,
+        "num": 175047,
+        "word": "夏季预期高温引发囤空调潮",
+        "onboard_time": 1717154657,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189757,
+        "num": 174994,
+        "word": "在单位不要说家庭的任何事情",
+        "onboard_time": 1717152557,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196905,
+        "num": 174932,
+        "word": "十个勤天海尔直播",
+        "onboard_time": 1717154539,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174843,
+        "num": 174843,
+        "word": "TheShy老头杯暴走",
+        "onboard_time": 1717149918,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181406,
+        "num": 173575,
+        "word": "恋爱兄妹",
+        "onboard_time": 1717155018,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169967,
+        "num": 169967,
+        "word": "14家上市公司宣布不再聘任普华永道",
+        "onboard_time": 1717154057,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 169248,
+        "num": 169248,
+        "word": "肖战藏海传杀青",
+        "onboard_time": 1717146857,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153214,
+        "num": 153214,
+        "word": "杨幂喝酒封神名场面",
+        "onboard_time": 1717148717,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151815,
+        "num": 151815,
+        "word": "中国女排vs日本女排",
+        "onboard_time": 1717155018,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148627,
+        "num": 148627,
+        "word": "恒大地产被罚款41.75亿元",
+        "onboard_time": 1717145296,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 140365,
+        "num": 140365,
+        "word": "袁娅维直播前紧急治疗",
+        "onboard_time": 1717152557,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131853,
+        "num": 131853,
+        "word": "张元英开麦实力",
+        "onboard_time": 1717146618,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128274,
+        "num": 128274,
+        "word": "鸡蛋最营养的部分可能被你丢掉了",
+        "onboard_time": 1717146138,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 121863,
+        "num": 121863,
+        "word": "无畏一年又一年的愿望",
+        "onboard_time": 1717153937,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席同阿拉伯朋友北京再相聚#"
+    }
+  }
+}

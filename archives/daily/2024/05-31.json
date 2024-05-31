@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717154205141,
+  "endTime": 1717155331549,
   "band_list": [
     {
       "raw_hot": 2303341,
@@ -11,20 +11,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2244855,
+      "num": 417988,
+      "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
+      "onboard_time": 1717151598,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2201205,
       "num": 2201205,
       "word": "台湾",
       "onboard_time": 1717124419,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2047047,
-      "num": 417988,
-      "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
-      "onboard_time": 1717151598,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2023994,
@@ -73,6 +73,14 @@
       "onboard_time": 1717145296,
       "rank": 1,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1473695,
+      "num": 1473695,
+      "word": "尚雯婕去隔壁歌手吧",
+      "onboard_time": 1717153818,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1454006,
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1063029,
+      "num": 442386,
+      "word": "戚薇嗓子怎么了",
+      "onboard_time": 1717153518,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1015239,
       "num": 1015239,
       "word": "弟弟说冰箱里给我留了西瓜",
@@ -219,11 +235,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 919442,
-      "num": 655688,
-      "word": "尚雯婕去隔壁歌手吧",
-      "onboard_time": 1717153818,
-      "rank": 3,
+      "raw_hot": 872222,
+      "num": 255224,
+      "word": "何洁 垫音",
+      "onboard_time": 1717154418,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -249,6 +265,14 @@
       "onboard_time": 1717078821,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 769211,
+      "num": 769211,
+      "word": "普华永道",
+      "onboard_time": 1717149259,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 752408,
@@ -307,28 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 726864,
-      "num": 442386,
-      "word": "戚薇嗓子怎么了",
-      "onboard_time": 1717153518,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 725743,
       "num": 725743,
       "word": "云边有个小卖部定档",
       "onboard_time": 1717122558,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 712057,
-      "num": 712057,
-      "word": "普华永道",
-      "onboard_time": 1717149259,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 707817,
@@ -491,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 563192,
+      "num": 248111,
+      "word": "歌手2024",
+      "onboard_time": 1717154837,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559149,
       "num": 559149,
       "word": "GQ出图",
@@ -539,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 508610,
+      "num": 223628,
+      "word": "相关人士回应白玉兰提名没有王一博",
+      "onboard_time": 1717152977,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 495827,
       "num": 495827,
       "word": "肖战藏海传杀青",
@@ -569,6 +593,14 @@
       "onboard_time": 1717127718,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453428,
+      "num": 175856,
+      "word": "陈昊宇全开麦",
+      "onboard_time": 1717154777,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 451930,
@@ -699,12 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347204,
-      "num": 223628,
-      "word": "相关人士回应白玉兰提名没有王一博",
-      "onboard_time": 1717152977,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 351158,
+      "num": 175539,
+      "word": "浪姐大战歌手",
+      "onboard_time": 1717154357,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 341825,
@@ -1179,6 +1211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 196905,
+      "num": 174932,
+      "word": "十个勤天海尔直播",
+      "onboard_time": 1717154539,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196264,
       "num": 196264,
       "word": "吴刚希望和张若昀四搭",
@@ -1267,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189757,
+      "num": 174994,
+      "word": "在单位不要说家庭的任何事情",
+      "onboard_time": 1717152557,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189101,
       "num": 157371,
       "word": "佟梦实回复张若昀",
@@ -1339,12 +1387,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181406,
+      "num": 173575,
+      "word": "恋爱兄妹",
+      "onboard_time": 1717155018,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180572,
       "num": 180572,
       "word": "拜登回应特朗普被判有罪",
       "onboard_time": 1717115478,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 178595,
+      "num": 178595,
+      "word": "很努力地成为一个懒人",
+      "onboard_time": 1717153937,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 178254,
@@ -1361,6 +1425,14 @@
       "onboard_time": 1717122738,
       "rank": 47,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 176213,
+      "num": 176213,
+      "word": "巴黎奥运会",
+      "onboard_time": 1717153518,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 174100,
@@ -1387,20 +1459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169967,
+      "num": 169967,
+      "word": "14家上市公司宣布不再聘任普华永道",
+      "onboard_time": 1717154057,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 169477,
       "num": 169477,
       "word": "庆余年3将有哪些名场面",
       "onboard_time": 1717127178,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169393,
-      "num": 169393,
-      "word": "在单位不要说家庭的任何事情",
-      "onboard_time": 1717152557,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 168508,
@@ -1619,14 +1691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155080,
-      "num": 155080,
-      "word": "很努力地成为一个懒人",
-      "onboard_time": 1717153937,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154958,
       "num": 154958,
       "word": "BABYMONSTER新曲舞蹈版MV",
@@ -1643,20 +1707,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 153393,
-      "num": 153393,
-      "word": "巴黎奥运会",
-      "onboard_time": 1717153518,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152204,
       "num": 152204,
       "word": "小猫连续越狱事件",
       "onboard_time": 1717136478,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151815,
+      "num": 151815,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1717155018,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 151725,
@@ -1971,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121863,
+      "num": 121863,
+      "word": "无畏一年又一年的愿望",
+      "onboard_time": 1717153937,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121213,
       "num": 121213,
       "word": "海来阿木仿妆",
@@ -2067,20 +2139,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 115051,
+      "num": 356123,
+      "word": "iPhone15系列天猫618真4折",
+      "onboard_time": 1717153217,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114189,
       "num": 114189,
       "word": "时光正好定档",
       "onboard_time": 1717139177,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111847,
-      "num": 111847,
-      "word": "14家上市公司宣布不再聘任普华永道",
-      "onboard_time": 1717154057,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 111252,
@@ -2105,14 +2177,6 @@
       "onboard_time": 1717135758,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 108471,
-      "num": 356123,
-      "word": "iPhone15系列天猫618真4折",
-      "onboard_time": 1717153217,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 107684,
@@ -2161,6 +2225,14 @@
       "onboard_time": 1717062206,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87223,
+      "num": 177309,
+      "word": "未满月小狮子嘬奶瓶五官都在努力",
+      "onboard_time": 1717155138,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 84114,
@@ -2355,11 +2427,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52298,
+      "num": 175047,
+      "word": "夏季预期高温引发囤空调潮",
+      "onboard_time": 1717154657,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50577,
       "num": 232613,
       "word": "京东5折放价",
       "onboard_time": 1717125138,
       "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 49053,
+      "num": 175616,
+      "word": "京东618倒计时1小时",
+      "onboard_time": 1717154298,
+      "rank": 30,
       "category": "互联网"
     },
     {
@@ -2459,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37468,
+      "num": 488538,
+      "word": "祝全国的小朋友们节日快乐",
+      "onboard_time": 1717151417,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34582,
       "num": 52387,
       "word": "辛芷蕾没入围",
@@ -2481,14 +2577,6 @@
       "onboard_time": 1717093271,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31787,
-      "num": 488538,
-      "word": "祝全国的小朋友们节日快乐",
-      "onboard_time": 1717151417,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30531,
@@ -2547,19 +2635,19 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 15992,
+      "num": 684921,
+      "word": "三夏麦收尽显科技范儿",
+      "onboard_time": 1717140438,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15480,
       "num": 52134,
       "word": "大国重器命名里的中国浪漫",
       "onboard_time": 1717096212,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13274,
-      "num": 656762,
-      "word": "三夏麦收尽显科技范儿",
-      "onboard_time": 1717140438,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

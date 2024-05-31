@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717154205141,
+  "endTime": 1717155331549,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -83,6 +83,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2244855,
+      "num": 417988,
+      "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
+      "onboard_time": 1717151598,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2215557,
       "num": 2215557,
       "word": "希尔顿一会员夜不归宿被扣3000元",
@@ -137,14 +145,6 @@
       "onboard_time": 1716864559,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2047047,
-      "num": 417988,
-      "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
-      "onboard_time": 1717151598,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2023994,
@@ -449,6 +449,14 @@
       "onboard_time": 1716729379,
       "rank": 33,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1473695,
+      "num": 1473695,
+      "word": "尚雯婕去隔壁歌手吧",
+      "onboard_time": 1717153818,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1454006,
@@ -939,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1063029,
+      "num": 442386,
+      "word": "戚薇嗓子怎么了",
+      "onboard_time": 1717153518,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1057533,
       "num": 864687,
       "word": "范闲大婚 寒酸",
@@ -1203,14 +1219,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 919442,
-      "num": 655688,
-      "word": "尚雯婕去隔壁歌手吧",
-      "onboard_time": 1717153818,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 902001,
       "num": 902001,
       "word": "长期不说话或少说话有什么后果",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1716640039,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 872222,
+      "num": 255224,
+      "word": "何洁 垫音",
+      "onboard_time": 1717154418,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 871809,
@@ -1667,6 +1683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 769211,
+      "num": 769211,
+      "word": "普华永道",
+      "onboard_time": 1717149259,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 767998,
       "num": 584581,
       "word": "那英电话内容 破解",
@@ -1883,14 +1907,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 726864,
-      "num": 442386,
-      "word": "戚薇嗓子怎么了",
-      "onboard_time": 1717153518,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 725743,
       "num": 725743,
       "word": "云边有个小卖部定档",
@@ -1929,14 +1945,6 @@
       "onboard_time": 1716816859,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 712057,
-      "num": 712057,
-      "word": "普华永道",
-      "onboard_time": 1717149259,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 709431,
@@ -2811,6 +2819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 563192,
+      "num": 248111,
+      "word": "歌手2024",
+      "onboard_time": 1717154837,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 562494,
       "num": 389600,
       "word": "新生男婴被父母以5万卖掉",
@@ -3224,6 +3240,14 @@
       "word": "范闲身世曝光",
       "onboard_time": 1716962898,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 508610,
+      "num": 223628,
+      "word": "相关人士回应白玉兰提名没有王一博",
+      "onboard_time": 1717152977,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -3744,6 +3768,14 @@
       "word": "种地星球直播",
       "onboard_time": 1716861438,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 453428,
+      "num": 175856,
+      "word": "陈昊宇全开麦",
+      "onboard_time": 1717154777,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -4955,6 +4987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351158,
+      "num": 175539,
+      "word": "浪姐大战歌手",
+      "onboard_time": 1717154357,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351140,
       "num": 335964,
       "word": "黄宣邓超 风向双癫",
@@ -5017,14 +5057,6 @@
       "onboard_time": 1716903379,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347204,
-      "num": 223628,
-      "word": "相关人士回应白玉兰提名没有王一博",
-      "onboard_time": 1717152977,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 346619,
@@ -8611,6 +8643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 196905,
+      "num": 174932,
+      "word": "十个勤天海尔直播",
+      "onboard_time": 1717154539,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196751,
       "num": 196751,
       "word": "善宰小率婚纱照",
@@ -9115,6 +9155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189757,
+      "num": 174994,
+      "word": "在单位不要说家庭的任何事情",
+      "onboard_time": 1717152557,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189698,
       "num": 194121,
       "word": "上海外国语大学大巴撞车",
@@ -9611,6 +9659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181406,
+      "num": 173575,
+      "word": "恋爱兄妹",
+      "onboard_time": 1716958339,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181298,
       "num": 181298,
       "word": "刘宇宁和黑粉签订三十年之约",
@@ -9721,6 +9777,14 @@
       "onboard_time": 1716968418,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178595,
+      "num": 178595,
+      "word": "很努力地成为一个懒人",
+      "onboard_time": 1717153937,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 178567,
@@ -9889,6 +9953,14 @@
       "onboard_time": 1717036216,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176213,
+      "num": 176213,
+      "word": "巴黎奥运会",
+      "onboard_time": 1717153518,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 175670,
@@ -10195,6 +10267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 169967,
+      "num": 169967,
+      "word": "14家上市公司宣布不再聘任普华永道",
+      "onboard_time": 1717154057,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 169805,
       "num": 169805,
       "word": "胃肠道癌症6个早期征兆",
@@ -10241,14 +10321,6 @@
       "onboard_time": 1717041078,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169393,
-      "num": 169393,
-      "word": "在单位不要说家庭的任何事情",
-      "onboard_time": 1717152557,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 169366,
@@ -11107,14 +11179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155080,
-      "num": 155080,
-      "word": "很努力地成为一个懒人",
-      "onboard_time": 1717153937,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154958,
       "num": 154958,
       "word": "BABYMONSTER新曲舞蹈版MV",
@@ -11177,14 +11241,6 @@
       "onboard_time": 1716877998,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 153393,
-      "num": 153393,
-      "word": "巴黎奥运会",
-      "onboard_time": 1717153518,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 153261,
@@ -11329,6 +11385,14 @@
       "onboard_time": 1716966619,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 151815,
+      "num": 151815,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1717155018,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 151725,
@@ -11897,14 +11961,6 @@
       "onboard_time": 1716855498,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142355,
-      "num": 142355,
-      "word": "恋爱兄妹",
-      "onboard_time": 1716958339,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 142264,
@@ -13467,6 +13523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121863,
+      "num": 121863,
+      "word": "无畏一年又一年的愿望",
+      "onboard_time": 1717153937,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121825,
       "num": 135761,
       "word": "斜方肌是一块容易变形的肌肉",
@@ -13923,6 +13987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115051,
+      "num": 356123,
+      "word": "iPhone15系列天猫618真4折",
+      "onboard_time": 1717153217,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 115011,
       "num": 115011,
       "word": "鹭卓 麦浪滚滚的治愈感",
@@ -14073,14 +14145,6 @@
       "onboard_time": 1716987858,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111847,
-      "num": 111847,
-      "word": "14家上市公司宣布不再聘任普华永道",
-      "onboard_time": 1717154057,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 111606,
@@ -14281,14 +14345,6 @@
       "onboard_time": 1717135758,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 108471,
-      "num": 356123,
-      "word": "iPhone15系列天猫618真4折",
-      "onboard_time": 1717153217,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 108277,
@@ -14953,6 +15009,14 @@
       "onboard_time": 1716952760,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87223,
+      "num": 177309,
+      "word": "未满月小狮子嘬奶瓶五官都在努力",
+      "onboard_time": 1717155138,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 87144,
@@ -15819,6 +15883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52298,
+      "num": 175047,
+      "word": "夏季预期高温引发囤空调潮",
+      "onboard_time": 1717154657,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52242,
       "num": 52242,
       "word": "一旦被人好好爱过这辈子就定型了",
@@ -15945,6 +16017,14 @@
       "onboard_time": 1716928991,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49053,
+      "num": 175616,
+      "word": "京东618倒计时1小时",
+      "onboard_time": 1717154298,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 49014,
@@ -16267,6 +16347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37468,
+      "num": 488538,
+      "word": "祝全国的小朋友们节日快乐",
+      "onboard_time": 1717151417,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36833,
       "num": 333548,
       "word": "京东红人",
@@ -16369,14 +16457,6 @@
       "onboard_time": 1716967398,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31787,
-      "num": 488538,
-      "word": "祝全国的小朋友们节日快乐",
-      "onboard_time": 1717151417,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30960,
@@ -16723,6 +16803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 15992,
+      "num": 684921,
+      "word": "三夏麦收尽显科技范儿",
+      "onboard_time": 1717140438,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15987,
       "num": 18850,
       "word": "善宰转动机械表彻底恢复记忆",
@@ -16785,14 +16873,6 @@
       "onboard_time": 1716751812,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 13274,
-      "num": 656762,
-      "word": "三夏麦收尽显科技范儿",
-      "onboard_time": 1717140438,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12539,
