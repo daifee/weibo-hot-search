@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717112151070,
+  "endTime": 1717118373152,
   "band_list": [
     {
       "raw_hot": 1423742,
@@ -8,6 +8,30 @@
       "word": "台湾高中生问中国史是什么",
       "onboard_time": 1717077740,
       "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1371422,
+      "num": 1371422,
+      "word": "特朗普成美国史上首位被判有罪前总统",
+      "onboard_time": 1717112537,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1317281,
+      "num": 1317281,
+      "word": "睡前4小时最好别吃东西",
+      "onboard_time": 1717110554,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1174957,
+      "num": 1174957,
+      "word": "中止对台湾地区134个税目产品关税减让",
+      "onboard_time": 1717117339,
+      "rank": 3,
       "category": "国内时政"
     },
     {
@@ -19,12 +43,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1150880,
+      "num": 1150880,
+      "word": "老师砍掉学生2天丧假合理吗",
+      "onboard_time": 1717115898,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1115455,
       "num": 1115455,
       "word": "王倦 第三季不会等这么久",
       "onboard_time": 1717084158,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1014075,
+      "num": 272141,
+      "word": "我怀孕三个月婆婆也怀孕一个月",
+      "onboard_time": 1717112357,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 939535,
@@ -35,6 +75,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 936835,
+      "num": 471837,
+      "word": "台州打小孩",
+      "onboard_time": 1717112896,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863103,
+      "num": 465101,
+      "word": "她居然还是跳的最好的一个",
+      "onboard_time": 1717117638,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 773256,
       "num": 590076,
       "word": "五竹 婉儿",
@@ -43,20 +99,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 707817,
+      "num": 707817,
+      "word": "原来韩国人对自己国家的小没什么概念",
+      "onboard_time": 1717112836,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 627430,
-      "num": 222315,
+      "num": 348589,
       "word": "庆余年真有徐志胜",
       "onboard_time": 1717083678,
       "rank": 10,
       "category": "剧集"
     },
     {
-      "raw_hot": 576132,
-      "num": 209009,
+      "raw_hot": 578310,
+      "num": 578310,
       "word": "二皇子暴露本体了",
       "onboard_time": 1717110615,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 558935,
+      "num": 558935,
+      "word": "新加坡坠亡女留学生男友发声",
+      "onboard_time": 1717114399,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510577,
@@ -83,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379496,
+      "num": 379496,
+      "word": "全球每4秒有1人死于吸烟相关疾病",
+      "onboard_time": 1717115898,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375947,
       "num": 161596,
       "word": "古偶 上桌",
@@ -99,20 +179,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 362220,
+      "num": 362220,
+      "word": "胡歌你偷谁家小孩了",
+      "onboard_time": 1717099930,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 329436,
+      "num": 329436,
+      "word": "南方人尝试吃甜粽belike",
+      "onboard_time": 1717114038,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 324358,
       "num": 307108,
       "word": "甘肃省博物馆发声明",
       "onboard_time": 1717083258,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318562,
-      "num": 203859,
-      "word": "胡歌你偷谁家小孩了",
-      "onboard_time": 1717099930,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 318276,
@@ -132,7 +220,7 @@
     },
     {
       "raw_hot": 306825,
-      "num": 200712,
+      "num": 265465,
       "word": "叶轻眉 纯元",
       "onboard_time": 1717095491,
       "rank": 35,
@@ -163,12 +251,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273207,
-      "num": 124061,
-      "word": "睡前4小时最好别吃东西",
-      "onboard_time": 1717110554,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 276222,
+      "num": 276222,
+      "word": "白玉兰提名没有白敬亭",
+      "onboard_time": 1717117218,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 257910,
+      "num": 181985,
+      "word": "新同事来了不到两周就离职了",
+      "onboard_time": 1717117578,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 244937,
@@ -179,12 +275,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241175,
+      "num": 241175,
+      "word": "巴黎世家雨中走秀",
+      "onboard_time": 1717114518,
+      "rank": 22,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 237323,
+      "num": 237323,
+      "word": "张馨予发微博怀念爸爸",
+      "onboard_time": 1717115178,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222508,
+      "num": 222508,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1717110674,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 218029,
       "num": 218029,
       "word": "韩国宣布将在2045年前登陆火星",
       "onboard_time": 1717044979,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 217356,
+      "num": 217356,
+      "word": "为什么医生不建议你穿人字拖",
+      "onboard_time": 1717116378,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 211278,
@@ -203,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190698,
+      "num": 190698,
+      "word": "小朋友心里有钱的小姨",
+      "onboard_time": 1717112896,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189101,
       "num": 157371,
       "word": "佟梦实回复张若昀",
@@ -219,6 +355,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182648,
+      "num": 182648,
+      "word": "白玉兰视帝分析",
+      "onboard_time": 1717116799,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180572,
+      "num": 180572,
+      "word": "拜登回应特朗普被判有罪",
+      "onboard_time": 1717115478,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 174100,
       "num": 174100,
       "word": "台风",
@@ -227,8 +379,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168508,
+      "num": 168508,
+      "word": "胡歌深夜赶回上海",
+      "onboard_time": 1717116978,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167048,
-      "num": 121757,
+      "num": 139853,
       "word": "晚上喊弟弟爬山被删了",
       "onboard_time": 1717110674,
       "rank": 25,
@@ -259,12 +419,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161916,
+      "num": 161916,
+      "word": "范志毅代号是曾经的球衣号码",
+      "onboard_time": 1717118058,
+      "rank": 34,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 161336,
       "num": 131071,
       "word": "叶轻眉传",
       "onboard_time": 1717083378,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156483,
+      "num": 156483,
+      "word": "种地吧 绿源",
+      "onboard_time": 1717118239,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 156246,
@@ -283,12 +459,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149200,
-      "num": 149200,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1717110674,
-      "rank": 34,
-      "category": "国外时政"
+      "raw_hot": 149133,
+      "num": 149133,
+      "word": "明家母子",
+      "onboard_time": 1717115298,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 147770,
@@ -331,12 +507,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136868,
+      "num": 136868,
+      "word": "杨幂回复温峥嵘",
+      "onboard_time": 1717111515,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130345,
       "num": 155748,
       "word": "坐飞机头等舱的人都是什么职业",
       "onboard_time": 1717069939,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126607,
+      "num": 126607,
+      "word": "年轻人决定先局部退休",
+      "onboard_time": 1717099751,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126559,
+      "num": 126559,
+      "word": "独行侠vs森林狼",
+      "onboard_time": 1717114578,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 125055,
@@ -347,27 +547,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125053,
-      "num": 125053,
-      "word": "年轻人决定先局部退休",
-      "onboard_time": 1717099751,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124204,
       "num": 124204,
       "word": "胡歌五提白玉兰",
       "onboard_time": 1717070238,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 121368,
-      "num": 121368,
-      "word": "杨幂回复温峥嵘",
-      "onboard_time": 1717111515,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -499,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69597,
+      "num": 481958,
+      "word": "爸爸用废旧纸箱给女儿做梦幻城堡",
+      "onboard_time": 1717115898,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 69024,
       "num": 69024,
       "word": "原来两车麦子才能卖5千多",
@@ -555,6 +747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 55156,
+      "num": 182001,
+      "word": "所有油车向我看齐",
+      "onboard_time": 1717117638,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54831,
       "num": 1049828,
       "word": "他们撑起了中国人的骨气",
@@ -603,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39165,
+      "num": 1240821,
+      "word": "中阿合作20载硕果累累",
+      "onboard_time": 1717075459,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37479,
       "num": 37479,
       "word": "庆余年2余年有你海报",
@@ -641,14 +849,6 @@
       "onboard_time": 1717072278,
       "rank": 47,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 29327,
-      "num": 551801,
-      "word": "中阿合作20载硕果累累",
-      "onboard_time": 1717075459,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26704,

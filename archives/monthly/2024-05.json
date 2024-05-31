@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717112151070,
+  "endTime": 1717118373152,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3419,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1371422,
+      "num": 1371422,
+      "word": "特朗普成美国史上首位被判有罪前总统",
+      "onboard_time": 1717112537,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1368743,
       "num": 1368743,
       "word": "藏海传",
@@ -3737,6 +3745,14 @@
       "onboard_time": 1716111137,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1317281,
+      "num": 1317281,
+      "word": "睡前4小时最好别吃东西",
+      "onboard_time": 1717110554,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1315511,
@@ -4755,6 +4771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1174957,
+      "num": 1174957,
+      "word": "中止对台湾地区134个税目产品关税减让",
+      "onboard_time": 1717117339,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1174339,
       "num": 983047,
       "word": "马来西亚称只承认联合国制裁不认美国",
@@ -4913,6 +4937,14 @@
       "onboard_time": 1715063959,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1150880,
+      "num": 1150880,
+      "word": "老师砍掉学生2天丧假合理吗",
+      "onboard_time": 1717115898,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1150691,
@@ -6163,6 +6195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014075,
+      "num": 272141,
+      "word": "我怀孕三个月婆婆也怀孕一个月",
+      "onboard_time": 1717112357,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1013956,
       "num": 1013956,
       "word": "何炅快回来吧",
@@ -6953,6 +6993,14 @@
       "onboard_time": 1714750940,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 936835,
+      "num": 471837,
+      "word": "台州打小孩",
+      "onboard_time": 1717112896,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 933765,
@@ -7977,6 +8025,14 @@
       "onboard_time": 1715346439,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 863103,
+      "num": 465101,
+      "word": "她居然还是跳的最好的一个",
+      "onboard_time": 1717117638,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 862033,
@@ -10955,6 +11011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 707817,
+      "num": 707817,
+      "word": "原来韩国人对自己国家的小没什么概念",
+      "onboard_time": 1717112836,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 707740,
       "num": 258237,
       "word": "偶遇Angelababy小海绵遛狗",
@@ -13316,7 +13380,7 @@
     },
     {
       "raw_hot": 627430,
-      "num": 222315,
+      "num": 348589,
       "word": "庆余年真有徐志胜",
       "onboard_time": 1717083678,
       "rank": 10,
@@ -14867,6 +14931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 578310,
+      "num": 578310,
+      "word": "二皇子暴露本体了",
+      "onboard_time": 1717110615,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 578177,
       "num": 281386,
       "word": "为什么小肚子会有一条痕",
@@ -14969,14 +15041,6 @@
       "onboard_time": 1714736299,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 576132,
-      "num": 209009,
-      "word": "二皇子暴露本体了",
-      "onboard_time": 1717110615,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 576103,
@@ -15577,6 +15641,14 @@
       "onboard_time": 1716800059,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 558935,
+      "num": 558935,
+      "word": "新加坡坠亡女留学生男友发声",
+      "onboard_time": 1717114399,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557994,
@@ -24899,6 +24971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 379496,
+      "num": 379496,
+      "word": "全球每4秒有1人死于吸烟相关疾病",
+      "onboard_time": 1717115898,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379238,
       "num": 379238,
       "word": "洁丽雅董事长谈儿子拍短剧出圈",
@@ -25905,6 +25985,14 @@
       "onboard_time": 1714999878,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362220,
+      "num": 362220,
+      "word": "胡歌你偷谁家小孩了",
+      "onboard_time": 1717099930,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 362193,
@@ -28267,6 +28355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 329436,
+      "num": 329436,
+      "word": "南方人尝试吃甜粽belike",
+      "onboard_time": 1717114038,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 329407,
       "num": 329407,
       "word": "林凯不参演赴山海",
@@ -29153,14 +29249,6 @@
       "onboard_time": 1716606618,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 318562,
-      "num": 203859,
-      "word": "胡歌你偷谁家小孩了",
-      "onboard_time": 1717099930,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 318249,
@@ -30052,7 +30140,7 @@
     },
     {
       "raw_hot": 306825,
-      "num": 200712,
+      "num": 265465,
       "word": "叶轻眉 纯元",
       "onboard_time": 1717095491,
       "rank": 35,
@@ -32859,6 +32947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276222,
+      "num": 276222,
+      "word": "白玉兰提名没有白敬亭",
+      "onboard_time": 1717117218,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276090,
       "num": 276090,
       "word": "BLG跌入败者组",
@@ -33161,14 +33257,6 @@
       "onboard_time": 1716655157,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 273207,
-      "num": 124061,
-      "word": "睡前4小时最好别吃东西",
-      "onboard_time": 1717110554,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 273004,
@@ -34905,6 +34993,14 @@
       "onboard_time": 1715751859,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 257910,
+      "num": 181985,
+      "word": "新同事来了不到两周就离职了",
+      "onboard_time": 1717117578,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 257842,
@@ -36971,6 +37067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241175,
+      "num": 241175,
+      "word": "巴黎世家雨中走秀",
+      "onboard_time": 1717114518,
+      "rank": 22,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 241165,
       "num": 241165,
       "word": "谁懂吴彦姝父亲这句儿多母苦的含金量",
@@ -37465,6 +37569,14 @@
       "onboard_time": 1715432841,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 237323,
+      "num": 237323,
+      "word": "张馨予发微博怀念爸爸",
+      "onboard_time": 1717115178,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 237305,
@@ -39795,6 +39907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222508,
+      "num": 224121,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1714970782,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 222482,
       "num": 222482,
       "word": "原神未行之路",
@@ -40761,6 +40881,14 @@
       "onboard_time": 1714567819,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217356,
+      "num": 217356,
+      "word": "为什么医生不建议你穿人字拖",
+      "onboard_time": 1717116378,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 217314,
@@ -42953,14 +43081,6 @@
       "onboard_time": 1715351120,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 207238,
-      "num": 224121,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1714970782,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 207216,
@@ -48707,6 +48827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190698,
+      "num": 190698,
+      "word": "小朋友心里有钱的小姨",
+      "onboard_time": 1717112896,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190637,
       "num": 190637,
       "word": "五条悟 复活赛",
@@ -51291,6 +51419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182648,
+      "num": 182648,
+      "word": "白玉兰视帝分析",
+      "onboard_time": 1717116799,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182645,
       "num": 164888,
       "word": "为何年轻人爱上了老年人用品",
@@ -51721,6 +51857,14 @@
       "onboard_time": 1716878658,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180572,
+      "num": 180572,
+      "word": "拜登回应特朗普被判有罪",
+      "onboard_time": 1717115478,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 180523,
@@ -55251,6 +55395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168508,
+      "num": 168508,
+      "word": "胡歌深夜赶回上海",
+      "onboard_time": 1717116978,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168441,
       "num": 168441,
       "word": "二十年前的儿童节妆容有多炸裂",
@@ -55716,7 +55868,7 @@
     },
     {
       "raw_hot": 167048,
-      "num": 121757,
+      "num": 139853,
       "word": "晚上喊弟弟爬山被删了",
       "onboard_time": 1717110674,
       "rank": 25,
@@ -57339,6 +57491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161916,
+      "num": 161916,
+      "word": "范志毅代号是曾经的球衣号码",
+      "onboard_time": 1717118058,
+      "rank": 34,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 161867,
       "num": 161867,
       "word": "杨幂郭晓婷抱抱",
@@ -58881,6 +59041,14 @@
       "onboard_time": 1715303359,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156483,
+      "num": 156483,
+      "word": "种地吧 绿源",
+      "onboard_time": 1717118239,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 156407,
@@ -61249,6 +61417,14 @@
       "onboard_time": 1714970661,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149133,
+      "num": 149133,
+      "word": "明家母子",
+      "onboard_time": 1717115298,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 149128,
@@ -65179,6 +65355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136868,
+      "num": 136868,
+      "word": "杨幂回复温峥嵘",
+      "onboard_time": 1717111515,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136851,
       "num": 136851,
       "word": "加满一箱油将省9元",
@@ -68619,6 +68803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126607,
+      "num": 126607,
+      "word": "年轻人决定先局部退休",
+      "onboard_time": 1717099751,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126580,
       "num": 161005,
       "word": "犯困可能是缺铁了",
@@ -69137,14 +69329,6 @@
       "onboard_time": 1715333539,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125053,
-      "num": 125053,
-      "word": "年轻人决定先局部退休",
-      "onboard_time": 1717099751,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125041,
@@ -70257,14 +70441,6 @@
       "onboard_time": 1714541479,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121368,
-      "num": 121368,
-      "word": "杨幂回复温峥嵘",
-      "onboard_time": 1717111515,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 121365,
@@ -78699,6 +78875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69597,
+      "num": 481958,
+      "word": "爸爸用废旧纸箱给女儿做梦幻城堡",
+      "onboard_time": 1717115898,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 69571,
       "num": 69571,
       "word": "左航老奶奶",
@@ -80217,6 +80401,14 @@
       "onboard_time": 1715867300,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55156,
+      "num": 182001,
+      "word": "所有油车向我看齐",
+      "onboard_time": 1717117638,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 55110,
@@ -81891,6 +82083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39165,
+      "num": 1240821,
+      "word": "中阿合作20载硕果累累",
+      "onboard_time": 1717075459,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39026,
       "num": 47325,
       "word": "杭州机场打车已经是nextlevel了",
@@ -82753,14 +82953,6 @@
       "onboard_time": 1716487332,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29327,
-      "num": 551801,
-      "word": "中阿合作20载硕果累累",
-      "onboard_time": 1717075459,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29308,
