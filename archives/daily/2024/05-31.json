@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717129439417,
+  "endTime": 1717130282513,
   "band_list": [
     {
       "raw_hot": 2201205,
@@ -27,7 +27,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1671776,
+      "raw_hot": 1699788,
       "num": 1671776,
       "word": "58%男性不孕不育被诊断为不明原因",
       "onboard_time": 1717125318,
@@ -41,6 +41,14 @@
       "onboard_time": 1717077740,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1418586,
+      "num": 1418586,
+      "word": "媒体评王阳入围白玉兰",
+      "onboard_time": 1717126819,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1371422,
@@ -57,14 +65,6 @@
       "onboard_time": 1717110554,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1263796,
-      "num": 1263796,
-      "word": "媒体评王阳入围白玉兰",
-      "onboard_time": 1717126819,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1226320,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559149,
+      "num": 559149,
+      "word": "GQ出图",
+      "onboard_time": 1717125858,
+      "rank": 24,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 558935,
       "num": 558935,
       "word": "新加坡坠亡女留学生男友发声",
@@ -275,6 +283,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470221,
+      "num": 470221,
+      "word": "庆余年3 边拍边播",
+      "onboard_time": 1717129819,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 457149,
+      "num": 457149,
+      "word": "范闲臣变儿臣",
+      "onboard_time": 1717127718,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451930,
       "num": 451930,
       "word": "6月行程图",
@@ -284,19 +308,11 @@
     },
     {
       "raw_hot": 451637,
-      "num": 268316,
+      "num": 289881,
       "word": "周杰伦长沙演唱会空中坐席被疯抢",
       "onboard_time": 1717128678,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 435872,
-      "num": 435872,
-      "word": "范闲臣变儿臣",
-      "onboard_time": 1717127718,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 434082,
@@ -305,6 +321,14 @@
       "onboard_time": 1717080200,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 422954,
+      "num": 422954,
+      "word": "为什么一次出轨会有无数次",
+      "onboard_time": 1717128919,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 406189,
@@ -321,14 +345,6 @@
       "onboard_time": 1717126457,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 387705,
-      "num": 387705,
-      "word": "GQ出图",
-      "onboard_time": 1717125858,
-      "rank": 24,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 386444,
@@ -371,8 +387,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 330914,
-      "num": 330914,
+      "raw_hot": 353817,
+      "num": 353817,
       "word": "孙楠唱拯救",
       "onboard_time": 1717125797,
       "rank": 27,
@@ -443,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308424,
+      "num": 519579,
+      "word": "工信部拟禁止汽车单踏板完全刹停",
+      "onboard_time": 1717127537,
+      "rank": 9,
+      "category": "国内时政,汽车"
+    },
+    {
       "raw_hot": 306825,
       "num": 265465,
       "word": "叶轻眉 纯元",
@@ -481,14 +505,6 @@
       "onboard_time": 1717114518,
       "rank": 22,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 250440,
-      "num": 220298,
-      "word": "为什么一次出轨会有无数次",
-      "onboard_time": 1717128919,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 248777,
@@ -603,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213026,
+      "num": 213026,
+      "word": "女明星GQ红毯造型",
+      "onboard_time": 1717129580,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 211278,
       "num": 158862,
       "word": "白玉兰入围名单",
@@ -611,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206504,
-      "num": 519579,
-      "word": "工信部拟禁止汽车单踏板完全刹停",
-      "onboard_time": 1717127537,
-      "rank": 9,
-      "category": "国内时政,汽车"
+      "raw_hot": 207215,
+      "num": 207215,
+      "word": "相亲界都有身高公式了",
+      "onboard_time": 1717127599,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 206249,
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 204395,
-      "num": 135389,
+      "num": 143438,
       "word": "白玉兰",
       "onboard_time": 1717110914,
       "rank": 24,
@@ -657,14 +681,6 @@
       "onboard_time": 1717127839,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 194629,
-      "num": 194629,
-      "word": "相亲界都有身高公式了",
-      "onboard_time": 1717127599,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 193050,
@@ -899,6 +915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154958,
+      "num": 154958,
+      "word": "BABYMONSTER新曲舞蹈版MV",
+      "onboard_time": 1717129760,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154418,
       "num": 154418,
       "word": "各校要成立学生欺凌治理委员会",
@@ -945,6 +969,14 @@
       "onboard_time": 1717082060,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144398,
+      "num": 144398,
+      "word": "张小斐 惊鸿一瞥",
+      "onboard_time": 1717129699,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 141252,
@@ -1187,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72840,
+      "num": 471965,
+      "word": "3包烟就能熏黑一个肺",
+      "onboard_time": 1717129819,
+      "rank": 9,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 71527,
       "num": 68952,
       "word": "狐妖导演回应杨幂龚俊cp感",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1717092552,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 25506,
+      "num": 184333,
+      "word": "腾格尔唱帽衫",
+      "onboard_time": 1717129939,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 17723,

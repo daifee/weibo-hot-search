@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717129439417,
+  "endTime": 1717130282513,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -1955,6 +1955,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 1699788,
+      "num": 1671776,
+      "word": "58%男性不孕不育被诊断为不明原因",
+      "onboard_time": 1717125318,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1699754,
       "num": 837018,
       "word": "鹿晗在路边吐了",
@@ -2017,14 +2025,6 @@
       "onboard_time": 1716985516,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1671776,
-      "num": 1671776,
-      "word": "58%男性不孕不育被诊断为不明原因",
-      "onboard_time": 1717125318,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1670446,
@@ -3203,6 +3203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1418586,
+      "num": 1418586,
+      "word": "媒体评王阳入围白玉兰",
+      "onboard_time": 1717126819,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1417040,
       "num": 1417040,
       "word": "731部队最新罪证",
@@ -4073,14 +4081,6 @@
       "onboard_time": 1715494398,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1263796,
-      "num": 1263796,
-      "word": "媒体评王阳入围白玉兰",
-      "onboard_time": 1717126819,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1262189,
@@ -15747,6 +15747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559149,
+      "num": 559149,
+      "word": "GQ出图",
+      "onboard_time": 1717125858,
+      "rank": 24,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 558935,
       "num": 558935,
       "word": "新加坡坠亡女留学生男友发声",
@@ -19627,6 +19635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470221,
+      "num": 470221,
+      "word": "庆余年3 边拍边播",
+      "onboard_time": 1717129819,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470167,
       "num": 274942,
       "word": "赵丽颖孙千合拍跳舞",
@@ -20395,6 +20411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457149,
+      "num": 457149,
+      "word": "范闲臣变儿臣",
+      "onboard_time": 1717127718,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456954,
       "num": 424843,
       "word": "章昊这次回国不是体测是跑男",
@@ -20660,7 +20684,7 @@
     },
     {
       "raw_hot": 451637,
-      "num": 268316,
+      "num": 289881,
       "word": "周杰伦长沙演唱会空中坐席被疯抢",
       "onboard_time": 1717128678,
       "rank": 21,
@@ -21467,14 +21491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 435872,
-      "num": 435872,
-      "word": "范闲臣变儿臣",
-      "onboard_time": 1717127718,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 435838,
       "num": 288089,
       "word": "厉旭婚礼",
@@ -22249,6 +22265,14 @@
       "onboard_time": 1716991518,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422954,
+      "num": 422954,
+      "word": "为什么一次出轨会有无数次",
+      "onboard_time": 1717128919,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 422949,
@@ -24563,14 +24587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 387705,
-      "num": 387705,
-      "word": "GQ出图",
-      "onboard_time": 1717125858,
-      "rank": 24,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 387688,
       "num": 215623,
       "word": "苹果就iPadPro宣传视频致歉",
@@ -26667,6 +26683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353817,
+      "num": 353817,
+      "word": "孙楠唱拯救",
+      "onboard_time": 1717125797,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353770,
       "num": 232731,
       "word": "张若昀看得出他是公主",
@@ -28451,14 +28475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330914,
-      "num": 330914,
-      "word": "孙楠唱拯救",
-      "onboard_time": 1717125797,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 330816,
       "num": 169320,
       "word": "汪苏泷 选歌",
@@ -30193,6 +30209,14 @@
       "onboard_time": 1716126202,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 308424,
+      "num": 519579,
+      "word": "工信部拟禁止汽车单踏板完全刹停",
+      "onboard_time": 1717127537,
+      "rank": 9,
+      "category": "国内时政,汽车"
     },
     {
       "raw_hot": 308416,
@@ -36081,14 +36105,6 @@
       "onboard_time": 1715559317,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250440,
-      "num": 220298,
-      "word": "为什么一次出轨会有无数次",
-      "onboard_time": 1717128919,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 250386,
@@ -42043,6 +42059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213026,
+      "num": 213026,
+      "word": "女明星GQ红毯造型",
+      "onboard_time": 1717129580,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 213002,
       "num": 208267,
       "word": "虞书欣黑化千金",
@@ -43371,6 +43395,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 207215,
+      "num": 207215,
+      "word": "相亲界都有身高公式了",
+      "onboard_time": 1717127599,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207211,
       "num": 207211,
       "word": "黑夜告白",
@@ -43601,14 +43633,6 @@
       "onboard_time": 1714742359,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206504,
-      "num": 519579,
-      "word": "工信部拟禁止汽车单踏板完全刹停",
-      "onboard_time": 1717127537,
-      "rank": 9,
-      "category": "国内时政,汽车"
     },
     {
       "raw_hot": 206490,
@@ -47641,14 +47665,6 @@
       "onboard_time": 1714650078,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 194629,
-      "num": 194629,
-      "word": "相亲界都有身高公式了",
-      "onboard_time": 1717127599,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 194623,
@@ -59907,6 +59923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154958,
+      "num": 154958,
+      "word": "BABYMONSTER新曲舞蹈版MV",
+      "onboard_time": 1717129760,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154955,
       "num": 279698,
       "word": "小宝宝找了个喝奶搭子",
@@ -63393,6 +63417,14 @@
       "onboard_time": 1716122117,
       "rank": 36,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 144398,
+      "num": 144398,
+      "word": "张小斐 惊鸿一瞥",
+      "onboard_time": 1717129699,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 144354,
@@ -79051,6 +79083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72840,
+      "num": 471965,
+      "word": "3包烟就能熏黑一个肺",
+      "onboard_time": 1717129819,
+      "rank": 9,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 72745,
       "num": 283452,
       "word": "X100Ultra开售1小时销售额5亿",
@@ -83729,6 +83769,14 @@
       "onboard_time": 1716127463,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25506,
+      "num": 184333,
+      "word": "腾格尔唱帽衫",
+      "onboard_time": 1717129939,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 25505,

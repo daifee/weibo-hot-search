@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717129439417,
+  "endTime": 1717130282513,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1699788,
+      "num": 1671776,
+      "word": "58%男性不孕不育被诊断为不明原因",
+      "onboard_time": 1717125318,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1696484,
       "num": 1696484,
       "word": "洞洞鞋",
@@ -257,14 +265,6 @@
       "onboard_time": 1716985516,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1671776,
-      "num": 1671776,
-      "word": "58%男性不孕不育被诊断为不明原因",
-      "onboard_time": 1717125318,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1662712,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1418586,
+      "num": 1418586,
+      "word": "媒体评王阳入围白玉兰",
+      "onboard_time": 1717126819,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1410588,
       "num": 1410588,
       "word": "陈赫冰桶打人事件受害者",
@@ -609,14 +617,6 @@
       "onboard_time": 1716693257,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1263796,
-      "num": 1263796,
-      "word": "媒体评王阳入围白玉兰",
-      "onboard_time": 1717126819,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1245240,
@@ -2587,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559149,
+      "num": 559149,
+      "word": "GQ出图",
+      "onboard_time": 1717125858,
+      "rank": 24,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 558935,
       "num": 558935,
       "word": "新加坡坠亡女留学生男友发声",
@@ -3347,6 +3355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470221,
+      "num": 470221,
+      "word": "庆余年3 边拍边播",
+      "onboard_time": 1717129819,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469155,
       "num": 469155,
       "word": "当你连续点同一家外卖超过100次",
@@ -3419,6 +3435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457149,
+      "num": 457149,
+      "word": "范闲臣变儿臣",
+      "onboard_time": 1717127718,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456954,
       "num": 424843,
       "word": "章昊这次回国不是体测是跑男",
@@ -3484,7 +3508,7 @@
     },
     {
       "raw_hot": 451637,
-      "num": 268316,
+      "num": 289881,
       "word": "周杰伦长沙演唱会空中坐席被疯抢",
       "onboard_time": 1717128678,
       "rank": 21,
@@ -3609,14 +3633,6 @@
       "onboard_time": 1717039099,
       "rank": 43,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 435872,
-      "num": 435872,
-      "word": "范闲臣变儿臣",
-      "onboard_time": 1717127718,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 435838,
@@ -3761,6 +3777,14 @@
       "onboard_time": 1716991518,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422954,
+      "num": 422954,
+      "word": "为什么一次出轨会有无数次",
+      "onboard_time": 1717128919,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 422661,
@@ -4195,14 +4219,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 387705,
-      "num": 387705,
-      "word": "GQ出图",
-      "onboard_time": 1717125858,
-      "rank": 24,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 387395,
       "num": 387395,
       "word": "范闲也跳晚安大小姐了",
@@ -4603,6 +4619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 353817,
+      "num": 353817,
+      "word": "孙楠唱拯救",
+      "onboard_time": 1717125797,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352922,
       "num": 352922,
       "word": "王楚钦邀请波尔一起训练",
@@ -4833,14 +4857,6 @@
       "onboard_time": 1716693858,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330914,
-      "num": 330914,
-      "word": "孙楠唱拯救",
-      "onboard_time": 1717125797,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 330679,
@@ -5145,6 +5161,14 @@
       "onboard_time": 1716798257,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308424,
+      "num": 519579,
+      "word": "工信部拟禁止汽车单踏板完全刹停",
+      "onboard_time": 1717127537,
+      "rank": 9,
+      "category": "国内时政,汽车"
     },
     {
       "raw_hot": 307413,
@@ -6105,14 +6129,6 @@
       "onboard_time": 1716703579,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250440,
-      "num": 220298,
-      "word": "为什么一次出轨会有无数次",
-      "onboard_time": 1717128919,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 249440,
@@ -7251,6 +7267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213026,
+      "num": 213026,
+      "word": "女明星GQ红毯造型",
+      "onboard_time": 1717129580,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 212864,
       "num": 212864,
       "word": "闵熙珍不卸任",
@@ -7491,6 +7515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207215,
+      "num": 207215,
+      "word": "相亲界都有身高公式了",
+      "onboard_time": 1717127599,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206903,
       "num": 206903,
       "word": "叶修 荣耀之神",
@@ -7505,14 +7537,6 @@
       "onboard_time": 1716711737,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206504,
-      "num": 519579,
-      "word": "工信部拟禁止汽车单踏板完全刹停",
-      "onboard_time": 1717127537,
-      "rank": 9,
-      "category": "国内时政,汽车"
     },
     {
       "raw_hot": 206370,
@@ -8185,14 +8209,6 @@
       "onboard_time": 1716814878,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194629,
-      "num": 194629,
-      "word": "相亲界都有身高公式了",
-      "onboard_time": 1717127599,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 194524,
@@ -10387,6 +10403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154958,
+      "num": 154958,
+      "word": "BABYMONSTER新曲舞蹈版MV",
+      "onboard_time": 1717129760,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154854,
       "num": 174374,
       "word": "西藏日喀则3.8级地震",
@@ -10953,6 +10977,14 @@
       "onboard_time": 1717060819,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144398,
+      "num": 144398,
+      "word": "张小斐 惊鸿一瞥",
+      "onboard_time": 1717129699,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 144322,
@@ -14283,6 +14315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72840,
+      "num": 471965,
+      "word": "3包烟就能熏黑一个肺",
+      "onboard_time": 1717129819,
+      "rank": 9,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 72745,
       "num": 283452,
       "word": "X100Ultra开售1小时销售额5亿",
@@ -15441,6 +15481,14 @@
       "onboard_time": 1717092552,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 25506,
+      "num": 184333,
+      "word": "腾格尔唱帽衫",
+      "onboard_time": 1717129939,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 25066,

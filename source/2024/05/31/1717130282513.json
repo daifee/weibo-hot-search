@@ -1,0 +1,410 @@
+{
+  "runTime": 1717130282513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2107461,
+        "num": 2107461,
+        "word": "台湾",
+        "onboard_time": 1717124419,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1418586,
+        "num": 1418586,
+        "word": "媒体评王阳入围白玉兰",
+        "onboard_time": 1717126819,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93353,
+        "num": 1175498,
+        "word": "中国十二时辰之美",
+        "onboard_time": 1717124178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943518,
+        "num": 943518,
+        "word": "她居然还是跳的最好的一个",
+        "onboard_time": 1717117638,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 807515,
+        "num": 807515,
+        "word": "教育部要求隐蔽场所视频监控全覆盖",
+        "onboard_time": 1717125378,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 714829,
+        "num": 714829,
+        "word": "白玉兰 王一博",
+        "onboard_time": 1717127059,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 559149,
+        "num": 559149,
+        "word": "GQ出图",
+        "onboard_time": 1717125858,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 549477,
+        "num": 549477,
+        "word": "阿Sa婉拒刘宪华",
+        "onboard_time": 1717124297,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475184,
+        "num": 475184,
+        "word": "张若昀唐艺昕爱尔兰之约",
+        "onboard_time": 1717125618,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72840,
+        "num": 471965,
+        "word": "3包烟就能熏黑一个肺",
+        "onboard_time": 1717129819,
+        "rank": 9,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 470221,
+        "num": 470221,
+        "word": "庆余年3 边拍边播",
+        "onboard_time": 1717129819,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457149,
+        "num": 457149,
+        "word": "范闲臣变儿臣",
+        "onboard_time": 1717127718,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452703,
+        "num": 452703,
+        "word": "老师砍掉学生2天丧假合理吗",
+        "onboard_time": 1717115898,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422954,
+        "num": 422954,
+        "word": "为什么一次出轨会有无数次",
+        "onboard_time": 1717128919,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394440,
+        "num": 394440,
+        "word": "特朗普成美国史上首位被判有罪前总统",
+        "onboard_time": 1717112537,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 379746,
+        "num": 379746,
+        "word": "高朋被免去北京市副市长职务",
+        "onboard_time": 1717124957,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353817,
+        "num": 353817,
+        "word": "孙楠唱拯救",
+        "onboard_time": 1717125797,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348845,
+        "num": 348845,
+        "word": "陈都灵 白孔雀",
+        "onboard_time": 1717126457,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308424,
+        "num": 308424,
+        "word": "工信部拟禁止汽车单踏板完全刹停",
+        "onboard_time": 1717127537,
+        "rank": 18,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 292661,
+        "num": 292661,
+        "word": "全球每4秒有1人死于吸烟相关疾病",
+        "onboard_time": 1717115898,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575298,
+        "num": 290921,
+        "word": "我怀孕三个月婆婆也怀孕一个月",
+        "onboard_time": 1717112357,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 431349,
+        "num": 289881,
+        "word": "周杰伦长沙演唱会空中坐席被疯抢",
+        "onboard_time": 1717128678,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282999,
+        "num": 282999,
+        "word": "云边有个小卖部定档",
+        "onboard_time": 1717122558,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248602,
+        "num": 248602,
+        "word": "叶流云好帅",
+        "onboard_time": 1717122618,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241347,
+        "num": 241347,
+        "word": "敷面膜一个月的皮肤变化",
+        "onboard_time": 1717119798,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1699788,
+        "num": 238928,
+        "word": "58%男性不孕不育被诊断为不明原因",
+        "onboard_time": 1717125318,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229308,
+        "num": 229308,
+        "word": "中止对台湾地区134个税目产品关税减让",
+        "onboard_time": 1717117339,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216450,
+        "num": 216450,
+        "word": "中阿关于巴勒斯坦问题的联合声明",
+        "onboard_time": 1717126638,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213026,
+        "num": 213026,
+        "word": "女明星GQ红毯造型",
+        "onboard_time": 1717129580,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209177,
+        "num": 209177,
+        "word": "歌手第四期repo",
+        "onboard_time": 1717127239,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208145,
+        "num": 208145,
+        "word": "白玉兰提名没有白敬亭",
+        "onboard_time": 1717117218,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207215,
+        "num": 207215,
+        "word": "相亲界都有身高公式了",
+        "onboard_time": 1717127599,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203603,
+        "num": 203603,
+        "word": "睡前4小时最好别吃东西",
+        "onboard_time": 1717110554,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203923,
+        "num": 203499,
+        "word": "姑姑跟侄女抢家产",
+        "onboard_time": 1717120337,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202504,
+        "num": 202504,
+        "word": "下周五就高考了",
+        "onboard_time": 1717122918,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 203215,
+        "num": 202359,
+        "word": "新同事来了不到两周就离职了",
+        "onboard_time": 1717117578,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202190,
+        "num": 202190,
+        "word": "边伯贤澳门",
+        "onboard_time": 1717128738,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25506,
+        "num": 184333,
+        "word": "腾格尔唱帽衫",
+        "onboard_time": 1717129939,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177187,
+        "num": 177187,
+        "word": "快乐水涨价后都不快乐了",
+        "onboard_time": 1717127839,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165066,
+        "num": 165066,
+        "word": "森林狼水平",
+        "onboard_time": 1717122137,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163724,
+        "num": 163724,
+        "word": "巴黎世家 蹦迪",
+        "onboard_time": 1717118957,
+        "rank": 40,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 154958,
+        "num": 154958,
+        "word": "BABYMONSTER新曲舞蹈版MV",
+        "onboard_time": 1717129760,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151111,
+        "num": 151111,
+        "word": "郭晓婷想让杨幂演灵宠",
+        "onboard_time": 1717126039,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148646,
+        "num": 148646,
+        "word": "庆余年3将有哪些名场面",
+        "onboard_time": 1717127178,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144398,
+        "num": 144398,
+        "word": "张小斐 惊鸿一瞥",
+        "onboard_time": 1717129699,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143438,
+        "num": 143438,
+        "word": "白玉兰",
+        "onboard_time": 1717110914,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135194,
+        "num": 135194,
+        "word": "吸烟的危害在这漫画里具象化了",
+        "onboard_time": 1717123337,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132955,
+        "num": 132955,
+        "word": "东契奇西决MVP",
+        "onboard_time": 1717126698,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131834,
+        "num": 131834,
+        "word": "白鹿代言安慕希",
+        "onboard_time": 1717128798,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128368,
+        "num": 128368,
+        "word": "欧文赛后采访",
+        "onboard_time": 1717124597,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中阿命运共同体建设跑出加速度#"
+    }
+  }
+}
