@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717122814854,
+  "endTime": 1717123409311,
   "band_list": [
     {
       "raw_hot": 1891456,
@@ -139,6 +139,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572020,
+      "num": 214702,
+      "word": "姑姑跟侄女抢家产",
+      "onboard_time": 1717120337,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 569523,
+      "num": 215523,
+      "word": "敷面膜一个月的皮肤变化",
+      "onboard_time": 1717119798,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 567473,
       "num": 567473,
       "word": "巴黎世家 蹦迪",
@@ -153,14 +169,6 @@
       "onboard_time": 1717114399,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 547263,
-      "num": 215523,
-      "word": "敷面膜一个月的皮肤变化",
-      "onboard_time": 1717119798,
-      "rank": 21,
-      "category": "美妆"
     },
     {
       "raw_hot": 517758,
@@ -179,20 +187,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 465135,
-      "num": 214702,
-      "word": "姑姑跟侄女抢家产",
-      "onboard_time": 1717120337,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 434082,
       "num": 168726,
       "word": "孙楠 双眼皮",
       "onboard_time": 1717080200,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390766,
+      "num": 390766,
+      "word": "云边有个小卖部定档",
+      "onboard_time": 1717122558,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 386444,
@@ -259,6 +267,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315860,
+      "num": 315860,
+      "word": "林珙的死",
+      "onboard_time": 1717122077,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 313145,
+      "num": 200317,
+      "word": "森林狼水平",
+      "onboard_time": 1717122137,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312834,
       "num": 312834,
       "word": "台独课本洗脑青少年",
@@ -291,6 +315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 289182,
+      "num": 186465,
+      "word": "叶流云好帅",
+      "onboard_time": 1717122618,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286947,
       "num": 160355,
       "word": "追风者 男主",
@@ -305,6 +337,14 @@
       "onboard_time": 1717114518,
       "rank": 22,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 248777,
+      "num": 248777,
+      "word": "搞台独就没有和平没有发展",
+      "onboard_time": 1717122318,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 244937,
@@ -323,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236226,
-      "num": 236226,
-      "word": "林珙的死",
-      "onboard_time": 1717122077,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 230141,
       "num": 230141,
       "word": "种地吧 绿源",
@@ -345,14 +377,6 @@
       "onboard_time": 1717110674,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 220791,
-      "num": 200317,
-      "word": "森林狼水平",
-      "onboard_time": 1717122137,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 220600,
@@ -379,7 +403,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 214464,
+      "raw_hot": 216192,
       "num": 214464,
       "word": "为什么很多女生不愿意谈恋爱了",
       "onboard_time": 1717119677,
@@ -393,14 +417,6 @@
       "onboard_time": 1717069096,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210763,
-      "num": 210763,
-      "word": "云边有个小卖部定档",
-      "onboard_time": 1717122558,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 204395,
@@ -419,20 +435,28 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 200382,
-      "num": 200382,
-      "word": "搞台独就没有和平没有发展",
-      "onboard_time": 1717122318,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199703,
       "num": 199703,
       "word": "独行侠",
       "onboard_time": 1717122018,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197674,
+      "num": 197674,
+      "word": "下周五就高考了",
+      "onboard_time": 1717122918,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 192557,
+      "num": 192557,
+      "word": "6月行程图",
+      "onboard_time": 1717123218,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190698,
@@ -481,6 +505,14 @@
       "onboard_time": 1717115478,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 177097,
+      "num": 177097,
+      "word": "英伟达一夜蒸发7692亿",
+      "onboard_time": 1717122738,
+      "rank": 47,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 174100,
@@ -577,14 +609,6 @@
       "onboard_time": 1717115837,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159395,
-      "num": 159395,
-      "word": "叶流云好帅",
-      "onboard_time": 1717122618,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 159184,
@@ -739,14 +763,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 119654,
-      "num": 119654,
-      "word": "英伟达一夜蒸发7692亿",
-      "onboard_time": 1717122738,
-      "rank": 47,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 117856,
       "num": 162935,
       "word": "巴黎世家大秀",
@@ -811,6 +827,14 @@
       "category": "社会新闻,母婴育儿"
     },
     {
+      "raw_hot": 98146,
+      "num": 98146,
+      "word": "吸烟的危害在这漫画里具象化了",
+      "onboard_time": 1717123337,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93164,
       "num": 142592,
       "word": "Letme看姿态老头杯红温",
@@ -825,6 +849,14 @@
       "onboard_time": 1717062206,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92286,
+      "num": 421675,
+      "word": "为什么吸烟的人会发臭",
+      "onboard_time": 1717122558,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 84114,
@@ -963,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49014,
+      "num": 265211,
+      "word": "有多少车敢8折回购",
+      "onboard_time": 1717118838,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48611,
       "num": 115646,
       "word": "陈梦3比0战胜帕瓦德",
@@ -985,14 +1025,6 @@
       "onboard_time": 1717079238,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43200,
-      "num": 265211,
-      "word": "有多少车敢8折回购",
-      "onboard_time": 1717118838,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 40185,
@@ -1041,14 +1073,6 @@
       "onboard_time": 1717093271,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31276,
-      "num": 396482,
-      "word": "为什么吸烟的人会发臭",
-      "onboard_time": 1717122558,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 30531,
