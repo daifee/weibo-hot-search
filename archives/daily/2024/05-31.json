@@ -1,6 +1,6 @@
 {
   "startTime": 1717086222362,
-  "endTime": 1717148064466,
+  "endTime": 1717150792228,
   "band_list": [
     {
       "raw_hot": 2303341,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 729371,
+      "num": 729371,
+      "word": "GQ红毯",
+      "onboard_time": 1717147518,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 725743,
       "num": 725743,
       "word": "云边有个小卖部定档",
@@ -283,7 +291,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 692268,
+      "raw_hot": 706727,
       "num": 692268,
       "word": "白玉兰刘琳陪跑十年",
       "onboard_time": 1717146197,
@@ -345,6 +353,14 @@
       "onboard_time": 1717131200,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 594257,
+      "num": 594257,
+      "word": "JDG无畏正在连接",
+      "onboard_time": 1717148477,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 578310,
@@ -417,6 +433,14 @@
       "onboard_time": 1717114399,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555262,
+      "num": 415309,
+      "word": "张婧仪生图",
+      "onboard_time": 1717148717,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 517758,
@@ -499,12 +523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432988,
+      "num": 410810,
+      "word": "36岁女教授回应任985高校院长",
+      "onboard_time": 1717148838,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428686,
       "num": 428686,
       "word": "迪丽热巴生日发新歌",
       "onboard_time": 1717130539,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 424770,
+      "num": 408279,
+      "word": "张元英开麦实力",
+      "onboard_time": 1717146618,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 423205,
@@ -520,6 +560,14 @@
       "word": "叶流云好帅",
       "onboard_time": 1717122618,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 398450,
+      "num": 398450,
+      "word": "谁家好人一部剧播十年啊",
+      "onboard_time": 1717140438,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -587,12 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345984,
-      "num": 345984,
-      "word": "谁家好人一部剧播十年啊",
-      "onboard_time": 1717140438,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 343655,
+      "num": 343655,
+      "word": "普华永道",
+      "onboard_time": 1717149259,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 341825,
@@ -723,6 +771,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 269284,
+      "num": 269284,
+      "word": "杨幂喝酒封神名场面",
+      "onboard_time": 1717148717,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264870,
       "num": 264870,
       "word": "从怀孕到宝宝一岁的花销",
@@ -745,14 +801,6 @@
       "onboard_time": 1717137797,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257437,
-      "num": 257437,
-      "word": "张元英开麦实力",
-      "onboard_time": 1717146618,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 253351,
@@ -817,6 +865,14 @@
       "onboard_time": 1717144638,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233451,
+      "num": 233451,
+      "word": "何炅回归歌手",
+      "onboard_time": 1717147818,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 233318,
@@ -955,20 +1011,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210992,
-      "num": 210992,
-      "word": "GQ红毯",
-      "onboard_time": 1717147518,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 209979,
       "num": 209979,
       "word": "叶轻眉日记",
       "onboard_time": 1717139898,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209496,
+      "num": 209496,
+      "word": "浪姐直播",
+      "onboard_time": 1717150577,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 207636,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1717133778,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193918,
+      "num": 175654,
+      "word": "TheShy老头杯暴走",
+      "onboard_time": 1717149918,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 193772,
@@ -1187,20 +1251,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182264,
+      "num": 182264,
+      "word": "下班偷感很重",
+      "onboard_time": 1717146797,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180572,
       "num": 180572,
       "word": "拜登回应特朗普被判有罪",
       "onboard_time": 1717115478,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 179801,
-      "num": 179801,
-      "word": "下班偷感很重",
-      "onboard_time": 1717146797,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 178254,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1717116978,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167970,
+      "num": 167970,
+      "word": "TheShy卡牌",
+      "onboard_time": 1717147576,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 167303,
@@ -1419,6 +1491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156395,
+      "num": 156395,
+      "word": "多所高校发文严防大学生高考替考",
+      "onboard_time": 1717148297,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 156246,
       "num": 156246,
       "word": "王倦谈庆余年分季逻辑",
@@ -1475,6 +1555,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151342,
+      "num": 151342,
+      "word": "GQ盛典蓝毯生图",
+      "onboard_time": 1717149737,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 149143,
+      "num": 149143,
+      "word": "三里屯偶遇周杰伦",
+      "onboard_time": 1717149978,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149133,
       "num": 149133,
       "word": "明家母子",
@@ -1505,6 +1601,14 @@
       "onboard_time": 1717138277,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146850,
+      "num": 146850,
+      "word": "老头杯",
+      "onboard_time": 1717149137,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 146058,
@@ -1667,6 +1771,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 125360,
+      "num": 125360,
+      "word": "明日方舟",
+      "onboard_time": 1717150696,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125055,
       "num": 125055,
       "word": "杨幂问今天大家怎么怪怪的",
@@ -1675,20 +1787,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124472,
+      "num": 124472,
+      "word": "以为是食堂 结果是蹦床",
+      "onboard_time": 1717148416,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124204,
       "num": 124204,
       "word": "胡歌五提白玉兰",
       "onboard_time": 1717070238,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123999,
-      "num": 123999,
-      "word": "TheShy卡牌",
-      "onboard_time": 1717147576,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 123741,
@@ -1723,20 +1835,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122543,
-      "num": 122543,
-      "word": "何炅回归歌手",
-      "onboard_time": 1717147818,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121213,
       "num": 121213,
       "word": "海来阿木仿妆",
       "onboard_time": 1717121597,
       "rank": 46,
       "category": "美妆,作品衍生"
+    },
+    {
+      "raw_hot": 120596,
+      "num": 120596,
+      "word": "张雪峰谈高考报名人数增加",
+      "onboard_time": 1717149918,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 120243,
@@ -1753,6 +1865,14 @@
       "onboard_time": 1717138037,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118941,
+      "num": 118941,
+      "word": "谁给戚薇递个霸总本子",
+      "onboard_time": 1717149078,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 117856,
@@ -2051,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54891,
+      "num": 398865,
+      "word": "京东采销直播发红包",
+      "onboard_time": 1717150037,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 54831,
       "num": 1049828,
       "word": "他们撑起了中国人的骨气",
@@ -2233,6 +2361,14 @@
       "onboard_time": 1717132579,
       "rank": 44,
       "category": "音乐,互联网"
+    },
+    {
+      "raw_hot": 20809,
+      "num": 149788,
+      "word": "跟着刘德华去香港兜风",
+      "onboard_time": 1717149317,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 17723,

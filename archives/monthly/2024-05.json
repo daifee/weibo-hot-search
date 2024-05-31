@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717148064466,
+  "endTime": 1717150792228,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -10715,6 +10715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 729371,
+      "num": 729371,
+      "word": "GQ红毯",
+      "onboard_time": 1717147518,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 729299,
       "num": 281017,
       "word": "1岁宝宝误喝蚊香液中毒离世",
@@ -11219,6 +11227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706727,
+      "num": 692268,
+      "word": "白玉兰刘琳陪跑十年",
+      "onboard_time": 1717146197,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 706311,
       "num": 272970,
       "word": "结肠癌明显的早期信号有哪些",
@@ -11577,14 +11593,6 @@
       "onboard_time": 1715304737,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 692268,
-      "num": 692268,
-      "word": "白玉兰刘琳陪跑十年",
-      "onboard_time": 1717146197,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 692252,
@@ -14715,6 +14723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 594257,
+      "num": 594257,
+      "word": "JDG无畏正在连接",
+      "onboard_time": 1717148477,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 593945,
       "num": 275484,
       "word": "向佐回应刘忻郭碧婷牵手",
@@ -16041,6 +16057,14 @@
       "onboard_time": 1714809017,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 555262,
+      "num": 415309,
+      "word": "张婧仪生图",
+      "onboard_time": 1717148717,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 555230,
@@ -21827,6 +21851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 432988,
+      "num": 410810,
+      "word": "36岁女教授回应任985高校院长",
+      "onboard_time": 1717148838,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432978,
       "num": 432978,
       "word": "第一次看掘金如此狼狈",
@@ -22281,6 +22313,14 @@
       "onboard_time": 1714810279,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424770,
+      "num": 408279,
+      "word": "张元英开麦实力",
+      "onboard_time": 1717146618,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 424729,
@@ -24113,6 +24153,14 @@
       "onboard_time": 1716182300,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398450,
+      "num": 398450,
+      "word": "谁家好人一部剧播十年啊",
+      "onboard_time": 1717140438,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 398270,
@@ -27515,14 +27563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345984,
-      "num": 345984,
-      "word": "谁家好人一部剧播十年啊",
-      "onboard_time": 1717140438,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 345981,
       "num": 345981,
       "word": "俄罗斯一公交车坠河致7人死亡",
@@ -27697,6 +27737,14 @@
       "onboard_time": 1715162179,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343655,
+      "num": 343655,
+      "word": "普华永道",
+      "onboard_time": 1717149259,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 343594,
@@ -34107,6 +34155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 269284,
+      "num": 269284,
+      "word": "杨幂喝酒封神名场面",
+      "onboard_time": 1717148717,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269211,
       "num": 501828,
       "word": "辽粤大战争议判罚",
@@ -35497,14 +35553,6 @@
       "onboard_time": 1714520416,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 257437,
-      "num": 257437,
-      "word": "张元英开麦实力",
-      "onboard_time": 1717146618,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 257388,
@@ -38809,6 +38857,14 @@
       "onboard_time": 1714542020,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233451,
+      "num": 233451,
+      "word": "何炅回归歌手",
+      "onboard_time": 1717147818,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 233438,
@@ -42811,14 +42867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210992,
-      "num": 210992,
-      "word": "GQ红毯",
-      "onboard_time": 1717147518,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 210991,
       "num": 210991,
       "word": "在大学情商不高的表现",
@@ -43121,6 +43169,14 @@
       "onboard_time": 1716169818,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 209496,
+      "num": 209496,
+      "word": "浪姐直播",
+      "onboard_time": 1717150577,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 209465,
@@ -48435,6 +48491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193918,
+      "num": 175654,
+      "word": "TheShy老头杯暴走",
+      "onboard_time": 1717149918,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193896,
       "num": 193896,
       "word": "钟楚曦侯雯元 戛纳",
@@ -52347,6 +52411,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 182264,
+      "num": 182264,
+      "word": "下班偷感很重",
+      "onboard_time": 1717146797,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182120,
       "num": 182120,
       "word": "坐高铁碰到硬要和我换座的情侣",
@@ -52873,14 +52945,6 @@
       "onboard_time": 1715827998,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179801,
-      "num": 179801,
-      "word": "下班偷感很重",
-      "onboard_time": 1717146797,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 179773,
@@ -56393,6 +56457,14 @@
       "onboard_time": 1716111317,
       "rank": 36,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 167970,
+      "num": 167970,
+      "word": "TheShy卡牌",
+      "onboard_time": 1717147576,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 167943,
@@ -60003,6 +60075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156395,
+      "num": 156395,
+      "word": "多所高校发文严防大学生高考替考",
+      "onboard_time": 1717148297,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 156359,
       "num": 156359,
       "word": "钟楚曦侯雯元又发糖了",
@@ -61747,6 +61827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151342,
+      "num": 151342,
+      "word": "GQ盛典蓝毯生图",
+      "onboard_time": 1717149737,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 151310,
       "num": 151310,
       "word": "被魏大勋的腿硬控了",
@@ -62401,6 +62489,14 @@
       "onboard_time": 1714970661,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149143,
+      "num": 149143,
+      "word": "三里屯偶遇周杰伦",
+      "onboard_time": 1717149978,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 149133,
@@ -70595,6 +70691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124472,
+      "num": 124472,
+      "word": "以为是食堂 结果是蹦床",
+      "onboard_time": 1717148416,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124470,
       "num": 124470,
       "word": "螺蛳粉的六种吃法",
@@ -70809,14 +70913,6 @@
       "onboard_time": 1716352402,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 123999,
-      "num": 123999,
-      "word": "TheShy卡牌",
-      "onboard_time": 1717147576,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 123997,
@@ -71241,14 +71337,6 @@
       "onboard_time": 1716876559,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122543,
-      "num": 122543,
-      "word": "何炅回归歌手",
-      "onboard_time": 1717147818,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 122529,
@@ -71779,6 +71867,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 120596,
+      "num": 120596,
+      "word": "张雪峰谈高考报名人数增加",
+      "onboard_time": 1717149918,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 120573,
       "num": 120573,
       "word": "女孩更能共情女孩",
@@ -72289,6 +72385,14 @@
       "onboard_time": 1715171540,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 118941,
+      "num": 118941,
+      "word": "谁给戚薇递个霸总本子",
+      "onboard_time": 1717149078,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 118917,
@@ -81723,6 +81827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54891,
+      "num": 398865,
+      "word": "京东采销直播发红包",
+      "onboard_time": 1717150037,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 54839,
       "num": 719240,
       "word": "藏在文创里的博物馆宝藏",
@@ -85041,6 +85153,14 @@
       "onboard_time": 1715878215,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20809,
+      "num": 149788,
+      "word": "跟着刘德华去香港兜风",
+      "onboard_time": 1717149317,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 20672,
