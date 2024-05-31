@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717194859479,
+  "endTime": 1717197549738,
   "band_list": [
     {
       "raw_hot": 1683026,
@@ -123,6 +123,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 484968,
+      "num": 484968,
+      "word": "庆帝叶轻眉 道不同不相为谋",
+      "onboard_time": 1717196893,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 479151,
       "num": 288307,
       "word": "繁花剧方给三位女主都报名了",
@@ -145,6 +153,14 @@
       "onboard_time": 1717168041,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 381412,
+      "num": 381412,
+      "word": "lululemon代工厂号称自家平替能以假乱真",
+      "onboard_time": 1717166422,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 372670,
@@ -177,14 +193,6 @@
       "onboard_time": 1717155737,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286040,
-      "num": 286040,
-      "word": "lululemon代工厂号称自家平替能以假乱真",
-      "onboard_time": 1717166422,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 278621,
@@ -225,6 +233,14 @@
       "onboard_time": 1717154837,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251744,
+      "num": 224096,
+      "word": "五竹的血是金色的",
+      "onboard_time": 1717177453,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 235820,
@@ -331,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159392,
+      "num": 252772,
+      "word": "今年六一恰逢周六",
+      "onboard_time": 1717171279,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153893,
       "num": 299149,
       "word": "王曼昱VS伊藤美诚",
       "onboard_time": 1717165643,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142420,
-      "num": 115488,
-      "word": "五竹的血是金色的",
-      "onboard_time": 1717177453,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 140936,
@@ -379,20 +395,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 111364,
-      "num": 252772,
-      "word": "今年六一恰逢周六",
-      "onboard_time": 1717171279,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95621,
       "num": 129804,
       "word": "第一次形象理解什么叫早鸟票",
       "onboard_time": 1717173616,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93013,
+      "num": 215226,
+      "word": "江西一楼房发生爆炸有人员受伤",
+      "onboard_time": 1717170619,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84711,
@@ -403,12 +419,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78761,
-      "num": 215226,
-      "word": "江西一楼房发生爆炸有人员受伤",
-      "onboard_time": 1717170619,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 82980,
+      "num": 82980,
+      "word": "发现领导偷偷用我的信息点外卖",
+      "onboard_time": 1717182851,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 80078,
+      "num": 80078,
+      "word": "2024快乐儿童节",
+      "onboard_time": 1717196893,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 79351,
+      "num": 79351,
+      "word": "正常吃饭还长胖说明代谢很弱",
+      "onboard_time": 1717195871,
+      "rank": 28,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 76893,
@@ -435,12 +467,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70925,
+      "num": 70925,
+      "word": "何洁 垫音",
+      "onboard_time": 1717154418,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64622,
       "num": 215216,
       "word": "朱婷替补",
       "onboard_time": 1717157417,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63281,
+      "num": 63281,
+      "word": "断眉为什么叫断眉",
+      "onboard_time": 1717197373,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 59903,
@@ -451,6 +499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57373,
+      "num": 57373,
+      "word": "洪涛回来了",
+      "onboard_time": 1717158141,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 55565,
+      "num": 55565,
+      "word": "果郡王喜欢的合欢花",
+      "onboard_time": 1717197315,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 47316,
       "num": 64697,
       "word": "严浩翔掀帘子偶像剧",
@@ -459,12 +523,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 44752,
-      "num": 41694,
-      "word": "发现领导偷偷用我的信息点外卖",
-      "onboard_time": 1717182851,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 46162,
+      "num": 46162,
+      "word": "四川古墓出土的小破勺洗澡后成了宝",
+      "onboard_time": 1717196834,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38787,
@@ -481,6 +545,14 @@
       "onboard_time": 1717162287,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35839,
+      "num": 224264,
+      "word": "社恐妈妈带上蔡文姬宝宝勇闯动漫节",
+      "onboard_time": 1717196953,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 35547,
