@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717184061718,
+  "endTime": 1717186765031,
   "band_list": [
     {
       "raw_hot": 1683026,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34765,
+      "num": 32489,
+      "word": "发现领导偷偷用我的信息点外卖",
+      "onboard_time": 1717182851,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25346,
       "num": 38179,
       "word": "乘风2024",
@@ -497,14 +505,6 @@
       "onboard_time": 1717164024,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24110,
-      "num": 32489,
-      "word": "发现领导偷偷用我的信息点外卖",
-      "onboard_time": 1717182851,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 21896,
@@ -536,6 +536,14 @@
       "word": "学校六一演出全场被孤勇者硬控",
       "onboard_time": 1717176374,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13210,
+      "num": 24187,
+      "word": "为1342万高考学子加油",
+      "onboard_time": 1717186091,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
