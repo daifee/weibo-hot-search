@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717126481477,
+  "endTime": 1717129439417,
   "band_list": [
     {
       "raw_hot": 7018945,
@@ -257,6 +257,14 @@
       "onboard_time": 1716985516,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1671776,
+      "num": 1671776,
+      "word": "58%男性不孕不育被诊断为不明原因",
+      "onboard_time": 1717125318,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1662712,
@@ -601,6 +609,14 @@
       "onboard_time": 1716693257,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1263796,
+      "num": 1263796,
+      "word": "媒体评王阳入围白玉兰",
+      "onboard_time": 1717126819,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1245240,
@@ -1689,6 +1705,14 @@
       "onboard_time": 1716690678,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 729504,
+      "num": 729504,
+      "word": "白玉兰 王一博",
+      "onboard_time": 1717127059,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 729299,
@@ -3179,6 +3203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487233,
+      "num": 487233,
+      "word": "张若昀唐艺昕爱尔兰之约",
+      "onboard_time": 1717125618,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486057,
       "num": 713099,
       "word": "上海离婚预约爆满与楼市新政无关",
@@ -3451,6 +3483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 451637,
+      "num": 268316,
+      "word": "周杰伦长沙演唱会空中坐席被疯抢",
+      "onboard_time": 1717128678,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 450071,
       "num": 198013,
       "word": "小孩哥 生自己的妈自己养",
@@ -3569,6 +3609,14 @@
       "onboard_time": 1717039099,
       "rank": 43,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 435872,
+      "num": 435872,
+      "word": "范闲臣变儿臣",
+      "onboard_time": 1717127718,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 435838,
@@ -4131,12 +4179,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 388701,
+      "num": 388701,
+      "word": "陈都灵 白孔雀",
+      "onboard_time": 1717126457,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 387837,
       "num": 387837,
       "word": "国防部说台独等于战争",
       "onboard_time": 1717058359,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 387705,
+      "num": 387705,
+      "word": "GQ出图",
+      "onboard_time": 1717125858,
+      "rank": 24,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 387395,
@@ -4393,14 +4457,6 @@
       "onboard_time": 1716990918,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 365395,
-      "num": 365395,
-      "word": "张若昀唐艺昕爱尔兰之约",
-      "onboard_time": 1717125618,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 365313,
@@ -4777,6 +4833,14 @@
       "onboard_time": 1716693858,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330914,
+      "num": 330914,
+      "word": "孙楠唱拯救",
+      "onboard_time": 1717125797,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 330679,
@@ -5475,14 +5539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282066,
-      "num": 282066,
-      "word": "GQ出图",
-      "onboard_time": 1717125858,
-      "rank": 24,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 281604,
       "num": 281604,
       "word": "巴新山体滑坡估算超670人死亡",
@@ -5851,14 +5907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 259839,
-      "num": 259839,
-      "word": "58%男性不孕不育被诊断为不明原因",
-      "onboard_time": 1717125318,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 259077,
       "num": 259077,
       "word": "独行侠3比1森林狼",
@@ -6057,6 +6105,14 @@
       "onboard_time": 1716703579,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250440,
+      "num": 220298,
+      "word": "为什么一次出轨会有无数次",
+      "onboard_time": 1717128919,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 249440,
@@ -6291,14 +6347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 241450,
-      "num": 241450,
-      "word": "孙楠唱拯救",
-      "onboard_time": 1717125797,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241016,
       "num": 215329,
       "word": "SJ13人合体 今夕是何年",
@@ -6337,6 +6385,14 @@
       "onboard_time": 1716820820,
       "rank": 25,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 239908,
+      "num": 239908,
+      "word": "中阿关于巴勒斯坦问题的联合声明",
+      "onboard_time": 1717126638,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 239669,
@@ -6499,6 +6555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232593,
+      "num": 232593,
+      "word": "歌手第四期repo",
+      "onboard_time": 1717127239,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232574,
       "num": 206921,
       "word": "张踩铃一家参加小鹿婚礼",
@@ -6611,6 +6675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229138,
+      "num": 543686,
+      "word": "下周五就高考了",
+      "onboard_time": 1717122918,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 229011,
       "num": 229011,
       "word": "杰伦布朗东决MVP",
@@ -6665,6 +6737,14 @@
       "onboard_time": 1717074919,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226974,
+      "num": 226974,
+      "word": "郭晓婷想让杨幂演灵宠",
+      "onboard_time": 1717126039,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 226850,
@@ -6835,14 +6915,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 222696,
-      "num": 222696,
-      "word": "郭晓婷想让杨幂演灵宠",
-      "onboard_time": 1717126039,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222508,
       "num": 222508,
       "word": "以色列巴勒斯坦冲突",
@@ -6905,14 +6977,6 @@
       "onboard_time": 1716731299,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221416,
-      "num": 543686,
-      "word": "下周五就高考了",
-      "onboard_time": 1717122918,
-      "rank": 25,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 221238,
@@ -7443,6 +7507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206504,
+      "num": 519579,
+      "word": "工信部拟禁止汽车单踏板完全刹停",
+      "onboard_time": 1717127537,
+      "rank": 9,
+      "category": "国内时政,汽车"
+    },
+    {
       "raw_hot": 206370,
       "num": 173436,
       "word": "原来减肥还分减脂和减重",
@@ -7609,6 +7681,14 @@
       "onboard_time": 1716907939,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203125,
+      "num": 203125,
+      "word": "边伯贤澳门",
+      "onboard_time": 1717128738,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 202952,
@@ -7875,6 +7955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198996,
+      "num": 198996,
+      "word": "快乐水涨价后都不快乐了",
+      "onboard_time": 1717127839,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 198932,
       "num": 198932,
       "word": "木里地震",
@@ -8099,6 +8187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194629,
+      "num": 194629,
+      "word": "相亲界都有身高公式了",
+      "onboard_time": 1717127599,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194524,
       "num": 194524,
       "word": "庆余年放榜 范进中举",
@@ -8289,6 +8385,14 @@
       "onboard_time": 1716995118,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191377,
+      "num": 191377,
+      "word": "高考试卷正在路上",
+      "onboard_time": 1717128318,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 191365,
@@ -9315,6 +9419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173143,
+      "num": 373869,
+      "word": "吸烟的危害在这漫画里具象化了",
+      "onboard_time": 1717123337,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172889,
       "num": 305124,
       "word": "上海已有开发商购房者动起来了",
@@ -9489,6 +9601,14 @@
       "onboard_time": 1716967637,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 169477,
+      "num": 169477,
+      "word": "庆余年3将有哪些名场面",
+      "onboard_time": 1717127178,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 169473,
@@ -10019,6 +10139,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 160053,
+      "num": 160053,
+      "word": "白鹿代言安慕希",
+      "onboard_time": 1717128798,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159989,
       "num": 187152,
       "word": "多少岁皮肤开始断崖式衰老",
@@ -10176,14 +10304,6 @@
       "word": "茉酸奶涉事门店遭立案调查",
       "onboard_time": 1716819621,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156585,
-      "num": 373869,
-      "word": "吸烟的危害在这漫画里具象化了",
-      "onboard_time": 1717123337,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -10745,6 +10865,14 @@
       "onboard_time": 1717036338,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146058,
+      "num": 146058,
+      "word": "东契奇西决MVP",
+      "onboard_time": 1717126698,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 146005,
@@ -11331,6 +11459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 136210,
+      "num": 136210,
+      "word": "北斗卫星全程跟踪为高考试卷护航",
+      "onboard_time": 1717127839,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 136143,
       "num": 136143,
       "word": "妈妈跑赢洪水才有了后来的我",
@@ -11353,14 +11489,6 @@
       "onboard_time": 1716893476,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135778,
-      "num": 135778,
-      "word": "陈都灵 白孔雀",
-      "onboard_time": 1717126457,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 135734,
@@ -12307,6 +12435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123175,
+      "num": 123175,
+      "word": "我把高考祝福照在河南大地上",
+      "onboard_time": 1717128439,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123158,
       "num": 123158,
       "word": "JDG小玖正在连接",
@@ -13099,6 +13235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109938,
+      "num": 1405773,
+      "word": "中国十二时辰之美",
+      "onboard_time": 1717124178,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109803,
       "num": 467551,
       "word": "肠胃最容易受情绪影响",
@@ -13257,14 +13401,6 @@
       "onboard_time": 1716882078,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 105614,
-      "num": 1195051,
-      "word": "中国十二时辰之美",
-      "onboard_time": 1717124178,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105300,
