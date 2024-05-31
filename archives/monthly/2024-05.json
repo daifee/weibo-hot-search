@@ -1,6 +1,6 @@
 {
   "startTime": 1714494184777,
-  "endTime": 1717150792228,
+  "endTime": 1717151757555,
   "band_list": [
     {
       "raw_hot": 17990162,
@@ -3196,7 +3196,7 @@
     },
     {
       "raw_hot": 1431415,
-      "num": 468170,
+      "num": 480793,
       "word": "为什么一次出轨会有无数次",
       "onboard_time": 1717128919,
       "rank": 30,
@@ -10235,6 +10235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749147,
+      "num": 749147,
+      "word": "GQ红毯",
+      "onboard_time": 1717147518,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 748000,
       "num": 748000,
       "word": "官博真发了杨幂哄龚俊的花絮",
@@ -10715,14 +10723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 729371,
-      "num": 729371,
-      "word": "GQ红毯",
-      "onboard_time": 1717147518,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 729299,
       "num": 281017,
       "word": "1岁宝宝误喝蚊香液中毒离世",
@@ -11033,6 +11033,14 @@
       "onboard_time": 1715737338,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714369,
+      "num": 601302,
+      "word": "浪姐直播",
+      "onboard_time": 1717150577,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 714067,
@@ -12297,6 +12305,14 @@
       "onboard_time": 1715656158,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 668473,
+      "num": 668473,
+      "word": "36岁女教授回应任985高校院长",
+      "onboard_time": 1717148838,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 668215,
@@ -16060,7 +16076,7 @@
     },
     {
       "raw_hot": 555262,
-      "num": 415309,
+      "num": 487626,
       "word": "张婧仪生图",
       "onboard_time": 1717148717,
       "rank": 12,
@@ -21675,6 +21691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436342,
+      "num": 436342,
+      "word": "普华永道",
+      "onboard_time": 1717149259,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 436288,
       "num": 436288,
       "word": "内塔尼亚胡称二战时没有国家援助犹太人",
@@ -21849,14 +21873,6 @@
       "onboard_time": 1715818518,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 432988,
-      "num": 410810,
-      "word": "36岁女教授回应任985高校院长",
-      "onboard_time": 1717148838,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432978,
@@ -27739,14 +27755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343655,
-      "num": 343655,
-      "word": "普华永道",
-      "onboard_time": 1717149259,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 343594,
       "num": 343594,
       "word": "留学生一份柿子汤吃7天",
@@ -32315,6 +32323,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 285806,
+      "num": 285806,
+      "word": "杨幂喝酒封神名场面",
+      "onboard_time": 1717148717,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285775,
       "num": 285775,
       "word": "林俊杰巡演",
@@ -33747,6 +33763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 273600,
+      "num": 273600,
+      "word": "蓝莲花关注无畏",
+      "onboard_time": 1717150878,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 273568,
       "num": 273568,
       "word": "BLG对阵T1",
@@ -34153,14 +34177,6 @@
       "onboard_time": 1715406739,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 269284,
-      "num": 269284,
-      "word": "杨幂喝酒封神名场面",
-      "onboard_time": 1717148717,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 269211,
@@ -34929,6 +34945,14 @@
       "onboard_time": 1715604439,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262508,
+      "num": 262508,
+      "word": "田曦薇簪花少女",
+      "onboard_time": 1717151716,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 262422,
@@ -38299,6 +38323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236267,
+      "num": 236267,
+      "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
+      "onboard_time": 1717151598,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236254,
       "num": 236254,
       "word": "何炅魏大勋双向奔赴",
@@ -38905,6 +38937,14 @@
       "onboard_time": 1715674218,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232917,
+      "num": 232917,
+      "word": "TheShy老头杯暴走",
+      "onboard_time": 1717149918,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 232866,
@@ -43169,14 +43209,6 @@
       "onboard_time": 1716169818,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 209496,
-      "num": 209496,
-      "word": "浪姐直播",
-      "onboard_time": 1717150577,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 209465,
@@ -48491,14 +48523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 193918,
-      "num": 175654,
-      "word": "TheShy老头杯暴走",
-      "onboard_time": 1717149918,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 193896,
       "num": 193896,
       "word": "钟楚曦侯雯元 戛纳",
@@ -49385,6 +49409,14 @@
       "onboard_time": 1715328439,
       "rank": 34,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 191482,
+      "num": 191482,
+      "word": "歌手揭榜目标限时投票",
+      "onboard_time": 1717151538,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 191428,
@@ -67547,6 +67579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133943,
+      "num": 133943,
+      "word": "以为是食堂 结果是蹦床",
+      "onboard_time": 1717148416,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133938,
       "num": 133938,
       "word": "这是我的梦中情瓜吧",
@@ -70083,6 +70123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126446,
+      "num": 126446,
+      "word": "上过班的猫就是不一样",
+      "onboard_time": 1717151176,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126444,
       "num": 126444,
       "word": "TTG对战BOA",
@@ -70387,6 +70435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125384,
+      "num": 125384,
+      "word": "翻看了一下爸爸以前的空间",
+      "onboard_time": 1717150996,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125367,
       "num": 125367,
       "word": "种地吧观后感",
@@ -70688,14 +70744,6 @@
       "word": "建议夏天把冰箱温度调高点",
       "onboard_time": 1716101478,
       "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 124472,
-      "num": 124472,
-      "word": "以为是食堂 结果是蹦床",
-      "onboard_time": 1717148416,
-      "rank": 47,
       "category": "幽默"
     },
     {
@@ -84161,6 +84209,14 @@
       "onboard_time": 1716535758,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 31787,
+      "num": 488538,
+      "word": "祝全国的小朋友们节日快乐",
+      "onboard_time": 1717151417,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31690,
