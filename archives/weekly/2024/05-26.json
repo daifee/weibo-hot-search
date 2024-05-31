@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717176899958,
+  "endTime": 1717179858039,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -5148,7 +5148,7 @@
     },
     {
       "raw_hot": 371844,
-      "num": 280560,
+      "num": 286040,
       "word": "lululemon代工厂号称自家平替能以假乱真",
       "onboard_time": 1717166422,
       "rank": 35,
@@ -9059,6 +9059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200117,
+      "num": 252508,
+      "word": "蚊子 吸眼袋",
+      "onboard_time": 1717172539,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 200108,
       "num": 258663,
       "word": "樊振东11比0李尚洙",
@@ -10321,14 +10329,6 @@
       "onboard_time": 1717146797,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181625,
-      "num": 252508,
-      "word": "蚊子 吸眼袋",
-      "onboard_time": 1717172539,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 181608,
@@ -15939,6 +15939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86456,
+      "num": 84680,
+      "word": "五竹的血是金色的",
+      "onboard_time": 1717177453,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86020,
       "num": 101285,
       "word": "这只是防不小心又不是防故意的",
@@ -16499,6 +16507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65129,
+      "num": 84424,
+      "word": "微信状态就是最好的发疯神器",
+      "onboard_time": 1717178594,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64357,
       "num": 441097,
       "word": "90后的家已经是nextlevel",
@@ -17041,6 +17057,14 @@
       "onboard_time": 1716779061,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 47316,
+      "num": 64697,
+      "word": "严浩翔掀帘子偶像剧",
+      "onboard_time": 1717178473,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 47124,
@@ -17977,6 +18001,14 @@
       "onboard_time": 1716969619,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 6424,
+      "num": 190880,
+      "word": "属于中国孩子的宝藏传统文化绘本",
+      "onboard_time": 1717178233,
+      "rank": 9,
+      "category": "教育"
     }
   ],
   "hotgov_list": [
