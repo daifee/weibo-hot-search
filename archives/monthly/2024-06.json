@@ -1,10 +1,10 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717255108157,
+  "endTime": 1717256051146,
   "band_list": [
     {
       "raw_hot": 4046722,
-      "num": 409042,
+      "num": 443594,
       "word": "王阳老婆发声",
       "onboard_time": 1717244958,
       "rank": 11,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1361134,
-      "num": 391695,
+      "num": 399929,
       "word": "王阳说没有待播的戏后面就没饭吃",
       "onboard_time": 1717247419,
       "rank": 15,
@@ -225,6 +225,14 @@
       "onboard_time": 1717222397,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 869342,
+      "num": 869342,
+      "word": "印度大选至少19名官员被热死",
+      "onboard_time": 1717253120,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 848721,
@@ -371,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 672640,
-      "num": 394356,
-      "word": "印度大选至少19名官员被热死",
-      "onboard_time": 1717253120,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 661554,
       "num": 304572,
       "word": "那英 跑调",
@@ -440,6 +440,14 @@
       "word": "我永远是张若昀的观众朋友",
       "onboard_time": 1717234336,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 578226,
+      "num": 457633,
+      "word": "背着善宰跑导演吐槽金惠允外貌",
+      "onboard_time": 1717254799,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 424192,
-      "num": 394169,
+      "num": 402125,
       "word": "你好星期六下期有胡歌高圆圆",
       "onboard_time": 1717251679,
       "rank": 13,
@@ -689,6 +697,14 @@
       "onboard_time": 1717198873,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415448,
+      "num": 415448,
+      "word": "原来腰突了还可以回去",
+      "onboard_time": 1717251079,
+      "rank": 37,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 406025,
@@ -723,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392219,
-      "num": 392219,
-      "word": "原来腰突了还可以回去",
-      "onboard_time": 1717251079,
-      "rank": 37,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 390692,
       "num": 390692,
       "word": "王俊凯周杰伦演唱会彩排",
@@ -753,6 +761,14 @@
       "onboard_time": 1717229477,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386505,
+      "num": 242821,
+      "word": "王俊凯和刘畊宏一家合照",
+      "onboard_time": 1717255879,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 384912,
@@ -849,6 +865,14 @@
       "onboard_time": 1717217298,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362323,
+      "num": 241036,
+      "word": "周迅一口气拿了两个导协年度女演员",
+      "onboard_time": 1717254139,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 352204,
@@ -987,14 +1011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 319201,
-      "num": 246891,
-      "word": "背着善宰跑导演吐槽金惠允外貌",
-      "onboard_time": 1717254799,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 317824,
       "num": 317338,
       "word": "上亿毛孩子的婚事何去何从",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1717228817,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 293386,
+      "num": 293386,
+      "word": "欧冠决赛",
+      "onboard_time": 1717254680,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 284408,
@@ -1251,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238320,
+      "num": 238320,
+      "word": "闵塔鲨晒迪丽热巴新高定",
+      "onboard_time": 1717255759,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 237676,
       "num": 237676,
       "word": "高叶问肖战夏之光什么团",
@@ -1291,14 +1323,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 226984,
-      "num": 226984,
-      "word": "周迅一口气拿了两个导协年度女演员",
-      "onboard_time": 1717254139,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 225368,
       "num": 177435,
       "word": "胡歌把金靖带来了",
@@ -1337,14 +1361,6 @@
       "onboard_time": 1717245619,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219619,
-      "num": 219619,
-      "word": "欧冠决赛",
-      "onboard_time": 1717254680,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 217781,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1717162645,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183145,
+      "num": 183145,
+      "word": "何洁戚薇陈昊宇蔡文静新综艺",
+      "onboard_time": 1717254858,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 180224,
@@ -2244,11 +2268,19 @@
     },
     {
       "raw_hot": 140294,
-      "num": 140294,
+      "num": 196612,
       "word": "泽连斯基抵达新加坡将参加香会",
       "onboard_time": 1717249879,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 140069,
+      "num": 140069,
+      "word": "薛之谦很豹歉",
+      "onboard_time": 1717255819,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 139583,
@@ -2257,6 +2289,14 @@
       "onboard_time": 1717227077,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138239,
+      "num": 138239,
+      "word": "by2童年照曝光",
+      "onboard_time": 1717255819,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 137248,
@@ -2384,14 +2424,6 @@
       "word": "郑恺 原来我离真相这么近",
       "onboard_time": 1717168881,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 130089,
-      "num": 130089,
-      "word": "何洁戚薇陈昊宇蔡文静新综艺",
-      "onboard_time": 1717254858,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -2560,6 +2592,14 @@
       "word": "六月你好",
       "onboard_time": 1717225997,
       "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 114568,
+      "num": 114568,
+      "word": "古希腊掌管创意的神",
+      "onboard_time": 1717252879,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -2971,6 +3011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 65120,
+      "num": 379542,
+      "word": "世界名画走秀也太超前了",
+      "onboard_time": 1717252159,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 64622,
       "num": 215216,
       "word": "朱婷替补",
@@ -2985,14 +3033,6 @@
       "onboard_time": 1717225217,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64130,
-      "num": 379542,
-      "word": "世界名画走秀也太超前了",
-      "onboard_time": 1717252159,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 61928,
@@ -3089,6 +3129,14 @@
       "onboard_time": 1717178473,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 41920,
+      "num": 444379,
+      "word": "原来大熊猫爱干净也是娘胎里带的",
+      "onboard_time": 1717255399,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41246,

@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717255108157,
+  "endTime": 1717256051146,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 4046722,
-      "num": 409042,
+      "num": 443594,
       "word": "王阳老婆发声",
       "onboard_time": 1717244958,
       "rank": 11,
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 1361134,
-      "num": 391695,
+      "num": 399929,
       "word": "王阳说没有待播的戏后面就没饭吃",
       "onboard_time": 1717247419,
       "rank": 15,
@@ -1691,6 +1691,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 869342,
+      "num": 869342,
+      "word": "印度大选至少19名官员被热死",
+      "onboard_time": 1717253120,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 868115,
       "num": 868115,
       "word": "冲绳",
@@ -2547,14 +2555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 672640,
-      "num": 394356,
-      "word": "印度大选至少19名官员被热死",
-      "onboard_time": 1717253120,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 669611,
       "num": 669611,
       "word": "长公主好美",
@@ -3209,6 +3209,14 @@
       "onboard_time": 1717151716,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 578226,
+      "num": 457633,
+      "word": "背着善宰跑导演吐槽金惠允外貌",
+      "onboard_time": 1717254799,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 578083,
@@ -4908,7 +4916,7 @@
     },
     {
       "raw_hot": 424192,
-      "num": 394169,
+      "num": 402125,
       "word": "你好星期六下期有胡歌高圆圆",
       "onboard_time": 1717251679,
       "rank": 13,
@@ -5097,6 +5105,14 @@
       "onboard_time": 1717069517,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 415448,
+      "num": 415448,
+      "word": "原来腰突了还可以回去",
+      "onboard_time": 1717251079,
+      "rank": 37,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 412039,
@@ -5387,14 +5403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392219,
-      "num": 392219,
-      "word": "原来腰突了还可以回去",
-      "onboard_time": 1717251079,
-      "rank": 37,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 392054,
       "num": 255879,
       "word": "杨紫瘦了piu仔胖了",
@@ -5521,6 +5529,14 @@
       "onboard_time": 1716976877,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386505,
+      "num": 242821,
+      "word": "王俊凯和刘畊宏一家合照",
+      "onboard_time": 1717255879,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 386143,
@@ -5921,6 +5937,14 @@
       "onboard_time": 1716923711,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362323,
+      "num": 241036,
+      "word": "周迅一口气拿了两个导协年度女演员",
+      "onboard_time": 1717254139,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 362220,
@@ -6587,14 +6611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 319201,
-      "num": 246891,
-      "word": "背着善宰跑导演吐槽金惠允外貌",
-      "onboard_time": 1717254799,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 318249,
       "num": 318249,
       "word": "亚当圈粉",
@@ -7089,6 +7105,14 @@
       "onboard_time": 1716995540,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293386,
+      "num": 293386,
+      "word": "欧冠决赛",
+      "onboard_time": 1717026196,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 293119,
@@ -8395,6 +8419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238320,
+      "num": 238320,
+      "word": "闵塔鲨晒迪丽热巴新高定",
+      "onboard_time": 1717255759,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 238062,
       "num": 238062,
       "word": "龚吓幂",
@@ -8819,14 +8851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226984,
-      "num": 226984,
-      "word": "周迅一口气拿了两个导协年度女演员",
-      "onboard_time": 1717254139,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 226974,
       "num": 226974,
       "word": "郭晓婷想让杨幂演灵宠",
@@ -9177,14 +9201,6 @@
       "onboard_time": 1716872779,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219619,
-      "num": 219619,
-      "word": "欧冠决赛",
-      "onboard_time": 1717026196,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 219161,
@@ -11641,6 +11657,14 @@
       "onboard_time": 1716699139,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183145,
+      "num": 183145,
+      "word": "何洁戚薇陈昊宇蔡文静新综艺",
+      "onboard_time": 1717254858,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 183119,
@@ -14732,7 +14756,7 @@
     },
     {
       "raw_hot": 140294,
-      "num": 140294,
+      "num": 196612,
       "word": "泽连斯基抵达新加坡将参加香会",
       "onboard_time": 1717249879,
       "rank": 40,
@@ -14761,6 +14785,14 @@
       "onboard_time": 1716984797,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140069,
+      "num": 140069,
+      "word": "薛之谦很豹歉",
+      "onboard_time": 1717255819,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 140020,
@@ -14897,6 +14929,14 @@
       "onboard_time": 1716774677,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138239,
+      "num": 138239,
+      "word": "by2童年照曝光",
+      "onboard_time": 1717255819,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 137915,
@@ -15689,14 +15729,6 @@
       "onboard_time": 1716768437,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130089,
-      "num": 130089,
-      "word": "何洁戚薇陈昊宇蔡文静新综艺",
-      "onboard_time": 1717254858,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 129950,
@@ -16937,6 +16969,14 @@
       "onboard_time": 1716866599,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114568,
+      "num": 114568,
+      "word": "古希腊掌管创意的神",
+      "onboard_time": 1717252879,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 114556,
@@ -18907,6 +18947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 65120,
+      "num": 379542,
+      "word": "世界名画走秀也太超前了",
+      "onboard_time": 1717252159,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 64357,
       "num": 441097,
       "word": "90后的家已经是nextlevel",
@@ -18929,14 +18977,6 @@
       "onboard_time": 1717083018,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64130,
-      "num": 379542,
-      "word": "世界名画走秀也太超前了",
-      "onboard_time": 1717252159,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 63964,
@@ -19689,6 +19729,14 @@
       "onboard_time": 1716679514,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41920,
+      "num": 444379,
+      "word": "原来大熊猫爱干净也是娘胎里带的",
+      "onboard_time": 1717255399,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41303,
