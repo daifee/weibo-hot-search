@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717230164908,
+  "endTime": 1717230908181,
   "band_list": [
     {
       "raw_hot": 2314679,
@@ -99,6 +99,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1060450,
+      "num": 1060450,
+      "word": "孕妇坠崖案当事人再为人母",
+      "onboard_time": 1717228998,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1042858,
       "num": 1042858,
       "word": "那英快哭了",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 837295,
-      "num": 440314,
+      "num": 557393,
       "word": "王妈短剧18亿播放被指无播出资质",
       "onboard_time": 1717222937,
       "rank": 36,
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 656691,
+      "num": 210304,
+      "word": "长期吃猪油身体都怎么样了",
+      "onboard_time": 1717228158,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 655383,
       "num": 293425,
       "word": "歌手排名",
@@ -251,28 +267,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 568371,
-      "num": 210304,
-      "word": "长期吃猪油身体都怎么样了",
-      "onboard_time": 1717228158,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 564399,
       "num": 289982,
       "word": "耳帝评歌手第四期",
       "onboard_time": 1717169360,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 549137,
-      "num": 276169,
-      "word": "孕妇坠崖案当事人再为人母",
-      "onboard_time": 1717228998,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 548762,
@@ -321,6 +321,14 @@
       "onboard_time": 1717201636,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492892,
+      "num": 209711,
+      "word": "杨幂站姐发的不是儿童节该看的",
+      "onboard_time": 1717229837,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 489087,
@@ -563,6 +571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337547,
+      "num": 208579,
+      "word": "徐锦江儿子封神后首个综艺",
+      "onboard_time": 1717229777,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 336768,
+      "num": 292044,
+      "word": "丁太升点评汪苏泷",
+      "onboard_time": 1717229477,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329533,
       "num": 329533,
       "word": "六一儿童节",
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 326115,
-      "num": 285716,
+      "num": 293897,
       "word": "导演希望张馨予继续瘦",
       "onboard_time": 1717222457,
       "rank": 25,
@@ -609,14 +633,6 @@
       "onboard_time": 1717210337,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 316023,
-      "num": 209711,
-      "word": "杨幂站姐发的不是儿童节该看的",
-      "onboard_time": 1717229837,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 315929,
@@ -667,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294908,
+      "num": 294908,
+      "word": "为耳蜗宝宝送温暖",
+      "onboard_time": 1717228937,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293963,
       "num": 209554,
       "word": "千万不要冲动带对象回家",
@@ -675,12 +699,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 291962,
+      "num": 291962,
+      "word": "阚清子cue大海梗",
+      "onboard_time": 1717229477,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284408,
       "num": 284408,
       "word": "C罗赛后痛哭",
       "onboard_time": 1717198215,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283755,
+      "num": 283755,
+      "word": "文韬上海",
+      "onboard_time": 1717228876,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 278621,
@@ -697,14 +737,6 @@
       "onboard_time": 1717217177,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273868,
-      "num": 273868,
-      "word": "丁太升点评汪苏泷",
-      "onboard_time": 1717229477,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 273761,
@@ -755,14 +787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 259906,
-      "num": 259906,
-      "word": "为耳蜗宝宝送温暖",
-      "onboard_time": 1717228937,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257547,
       "num": 257547,
       "word": "台风",
@@ -803,12 +827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237175,
-      "num": 208603,
-      "word": "文韬上海",
-      "onboard_time": 1717228876,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 245007,
+      "num": 245007,
+      "word": "冰红茶直播",
+      "onboard_time": 1717230738,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 235820,
@@ -889,22 +913,6 @@
       "onboard_time": 1717221557,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208579,
-      "num": 208579,
-      "word": "徐锦江儿子封神后首个综艺",
-      "onboard_time": 1717229777,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 208320,
-      "num": 184467,
-      "word": "阚清子cue大海梗",
-      "onboard_time": 1717229477,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 207471,
@@ -1315,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149435,
+      "num": 149435,
+      "word": "陈梦顶住了",
+      "onboard_time": 1717230077,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148918,
       "num": 180938,
       "word": "时空中的绘旅人",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1717212917,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142252,
+      "num": 142252,
+      "word": "导协年度荣誉提名名单",
+      "onboard_time": 1717230738,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 139583,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1717212917,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123529,
+      "num": 278097,
+      "word": "你最想对小时候的自己说什么",
+      "onboard_time": 1717228817,
+      "rank": 9,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 122332,
@@ -1659,6 +1691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99934,
+      "num": 99934,
+      "word": "王俊凯周杰伦演唱会彩排",
+      "onboard_time": 1717230858,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96786,
       "num": 96786,
       "word": "狗子偷吃折耳根哐哐一顿炫",
@@ -1787,14 +1827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74334,
-      "num": 278097,
-      "word": "你最想对小时候的自己说什么",
-      "onboard_time": 1717228817,
-      "rank": 9,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 74216,
       "num": 74216,
       "word": "洪涛回来了",
@@ -1851,11 +1883,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64592,
+      "num": 148112,
+      "word": "年轻人在直播间挖宝小众品牌",
+      "onboard_time": 1717229957,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 64352,
       "num": 400163,
       "word": "揭秘宠物殡葬的生意经",
       "onboard_time": 1717225217,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64184,
+      "num": 146756,
+      "word": "17岁少年冲进火场救人牺牲",
+      "onboard_time": 1717230858,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63922,
+      "num": 670730,
+      "word": "从这些童年碎片里看到了小时候",
+      "onboard_time": 1717230017,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1875,28 +1931,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53600,
-      "num": 53600,
-      "word": "浙江福建大暴雨",
-      "onboard_time": 1717198455,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51563,
-      "num": 211282,
+      "raw_hot": 58955,
+      "num": 293812,
       "word": "儿童节的快乐是济公爷爷给的",
       "onboard_time": 1717228937,
       "rank": 20,
       "category": "情感"
     },
     {
-      "raw_hot": 51108,
-      "num": 116587,
-      "word": "年轻人在直播间挖宝小众品牌",
-      "onboard_time": 1717229957,
-      "rank": 44,
-      "category": "互联网"
+      "raw_hot": 53600,
+      "num": 53600,
+      "word": "浙江福建大暴雨",
+      "onboard_time": 1717198455,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50078,
@@ -1955,14 +2003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38524,
-      "num": 355996,
-      "word": "从这些童年碎片里看到了小时候",
-      "onboard_time": 1717230017,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38363,
       "num": 153597,
       "word": "真的有很多人在为你拼命",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1717180092,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33578,
+      "num": 152169,
+      "word": "鞋子搭不对全身都白费",
+      "onboard_time": 1717229897,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 31313,
@@ -2043,12 +2091,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24659,
-      "num": 152169,
-      "word": "鞋子搭不对全身都白费",
-      "onboard_time": 1717229897,
-      "rank": 38,
-      "category": "时尚"
+      "raw_hot": 24323,
+      "num": 142620,
+      "word": "章小蕙直播谈不要有变美羞耻",
+      "onboard_time": 1717230137,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 22709,
@@ -2081,14 +2129,6 @@
       "onboard_time": 1717174517,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18318,
-      "num": 107163,
-      "word": "章小蕙直播谈不要有变美羞耻",
-      "onboard_time": 1717230137,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 14613,
@@ -2143,6 +2183,9 @@
     },
     {
       "word": "#习近平祝全国少年儿童节日快乐#"
+    },
+    {
+      "word": "#总书记始终关心少年儿童成长#"
     }
   ]
 }

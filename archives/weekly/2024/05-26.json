@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717230164908,
+  "endTime": 1717230908181,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -1163,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1060450,
+      "num": 1060450,
+      "word": "孕妇坠崖案当事人再为人母",
+      "onboard_time": 1717228998,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1057533,
       "num": 864687,
       "word": "范闲大婚 寒酸",
@@ -1716,7 +1724,7 @@
     },
     {
       "raw_hot": 837295,
-      "num": 440314,
+      "num": 557393,
       "word": "王妈短剧18亿播放被指无播出资质",
       "onboard_time": 1717222937,
       "rank": 36,
@@ -2425,6 +2433,14 @@
       "onboard_time": 1717054578,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 656691,
+      "num": 210304,
+      "word": "长期吃猪油身体都怎么样了",
+      "onboard_time": 1717228158,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 656672,
@@ -3139,14 +3155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 568371,
-      "num": 210304,
-      "word": "长期吃猪油身体都怎么样了",
-      "onboard_time": 1717228158,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 567744,
       "num": 469705,
       "word": "周杰伦长沙",
@@ -3321,14 +3329,6 @@
       "onboard_time": 1716726438,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 549137,
-      "num": 276169,
-      "word": "孕妇坠崖案当事人再为人母",
-      "onboard_time": 1717228998,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 548762,
@@ -3929,6 +3929,14 @@
       "onboard_time": 1716649522,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492892,
+      "num": 209711,
+      "word": "杨幂站姐发的不是儿童节该看的",
+      "onboard_time": 1717229837,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 492463,
@@ -5931,12 +5939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337547,
+      "num": 208579,
+      "word": "徐锦江儿子封神后首个综艺",
+      "onboard_time": 1717229777,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337093,
       "num": 337093,
       "word": "白玉兰",
       "onboard_time": 1716805459,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 336768,
+      "num": 292044,
+      "word": "丁太升点评汪苏泷",
+      "onboard_time": 1717229477,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 336028,
@@ -6084,7 +6108,7 @@
     },
     {
       "raw_hot": 326115,
-      "num": 285716,
+      "num": 293897,
       "word": "导演希望张馨予继续瘦",
       "onboard_time": 1717222457,
       "rank": 25,
@@ -6241,14 +6265,6 @@
       "onboard_time": 1717066697,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316023,
-      "num": 209711,
-      "word": "杨幂站姐发的不是儿童节该看的",
-      "onboard_time": 1717229837,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 315929,
@@ -6651,6 +6667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294908,
+      "num": 294908,
+      "word": "为耳蜗宝宝送温暖",
+      "onboard_time": 1717228937,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294349,
       "num": 229300,
       "word": "亚当QQ音乐屠榜",
@@ -6705,6 +6729,14 @@
       "onboard_time": 1716713057,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291962,
+      "num": 291962,
+      "word": "阚清子cue大海梗",
+      "onboard_time": 1717229477,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 291866,
@@ -6867,6 +6899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283755,
+      "num": 283755,
+      "word": "文韬上海",
+      "onboard_time": 1717228876,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281604,
       "num": 281604,
       "word": "巴新山体滑坡估算超670人死亡",
@@ -7017,14 +7057,6 @@
       "onboard_time": 1716679153,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 273868,
-      "num": 273868,
-      "word": "丁太升点评汪苏泷",
-      "onboard_time": 1717229477,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 273761,
@@ -7345,14 +7377,6 @@
       "onboard_time": 1716888558,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259906,
-      "num": 259906,
-      "word": "为耳蜗宝宝送温暖",
-      "onboard_time": 1717228937,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259852,
@@ -7747,6 +7771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245007,
+      "num": 245007,
+      "word": "冰红茶直播",
+      "onboard_time": 1717230738,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 244896,
       "num": 244896,
       "word": "张若昀第二季帅到人物介绍都变了",
@@ -7993,14 +8025,6 @@
       "onboard_time": 1717146138,
       "rank": 23,
       "category": "美食,科学科普"
-    },
-    {
-      "raw_hot": 237175,
-      "num": 208603,
-      "word": "文韬上海",
-      "onboard_time": 1717228876,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 236862,
@@ -9179,28 +9203,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 208579,
-      "num": 208579,
-      "word": "徐锦江儿子封神后首个综艺",
-      "onboard_time": 1717229777,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208361,
       "num": 157782,
       "word": "4毛一片卫生巾你会买吗",
       "onboard_time": 1716994999,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208320,
-      "num": 184467,
-      "word": "阚清子cue大海梗",
-      "onboard_time": 1717229477,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 208261,
@@ -13235,6 +13243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149435,
+      "num": 149435,
+      "word": "陈梦顶住了",
+      "onboard_time": 1717230077,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149428,
       "num": 149428,
       "word": "i人怎么把这箱荔枝分给同事",
@@ -13729,6 +13745,14 @@
       "onboard_time": 1716816859,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142252,
+      "num": 142252,
+      "word": "导协年度荣誉提名名单",
+      "onboard_time": 1717230738,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 141959,
@@ -15275,6 +15299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123529,
+      "num": 278097,
+      "word": "你最想对小时候的自己说什么",
+      "onboard_time": 1717228817,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 123441,
       "num": 123441,
       "word": "MCD",
@@ -16795,6 +16827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99934,
+      "num": 99934,
+      "word": "王俊凯周杰伦演唱会彩排",
+      "onboard_time": 1717230858,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99361,
       "num": 316743,
       "word": "儿童节表演家长们都豁出去了",
@@ -17531,14 +17571,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 74334,
-      "num": 278097,
-      "word": "你最想对小时候的自己说什么",
-      "onboard_time": 1717228817,
-      "rank": 9,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 74312,
       "num": 160101,
       "word": "起猛了张朝阳在给何同学上课",
@@ -17843,6 +17875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 64592,
+      "num": 148112,
+      "word": "年轻人在直播间挖宝小众品牌",
+      "onboard_time": 1717229957,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 64357,
       "num": 441097,
       "word": "90后的家已经是nextlevel",
@@ -17856,6 +17896,14 @@
       "word": "揭秘宠物殡葬的生意经",
       "onboard_time": 1717225217,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64184,
+      "num": 146756,
+      "word": "17岁少年冲进火场救人牺牲",
+      "onboard_time": 1717230858,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -17873,6 +17921,14 @@
       "onboard_time": 1716928211,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 63922,
+      "num": 670730,
+      "word": "从这些童年碎片里看到了小时候",
+      "onboard_time": 1717230017,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63355,
@@ -18017,6 +18073,14 @@
       "onboard_time": 1716796998,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58955,
+      "num": 293812,
+      "word": "儿童节的快乐是济公爷爷给的",
+      "onboard_time": 1717228937,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 58614,
@@ -18275,14 +18339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51563,
-      "num": 211282,
-      "word": "儿童节的快乐是济公爷爷给的",
-      "onboard_time": 1717228937,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 51411,
       "num": 533016,
       "word": "你是否有过找食品标签的体验",
@@ -18321,14 +18377,6 @@
       "onboard_time": 1716814638,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51108,
-      "num": 116587,
-      "word": "年轻人在直播间挖宝小众品牌",
-      "onboard_time": 1717229957,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 50946,
@@ -18747,14 +18795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38524,
-      "num": 355996,
-      "word": "从这些童年碎片里看到了小时候",
-      "onboard_time": 1717230017,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38363,
       "num": 153597,
       "word": "真的有很多人在为你拼命",
@@ -18881,6 +18921,14 @@
       "onboard_time": 1716967577,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33578,
+      "num": 152169,
+      "word": "鞋子搭不对全身都白费",
+      "onboard_time": 1717229897,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 33420,
@@ -19163,20 +19211,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24659,
-      "num": 152169,
-      "word": "鞋子搭不对全身都白费",
-      "onboard_time": 1717229897,
-      "rank": 38,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 24373,
       "num": 24315,
       "word": "那些抑郁的迹象",
       "onboard_time": 1717012751,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24323,
+      "num": 142620,
+      "word": "章小蕙直播谈不要有变美羞耻",
+      "onboard_time": 1717230137,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 24158,
@@ -19353,14 +19401,6 @@
       "onboard_time": 1716920412,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18318,
-      "num": 107163,
-      "word": "章小蕙直播谈不要有变美羞耻",
-      "onboard_time": 1717230137,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 18126,
@@ -19636,6 +19676,9 @@
     },
     {
       "word": "#习近平祝全国少年儿童节日快乐#"
+    },
+    {
+      "word": "#总书记始终关心少年儿童成长#"
     }
   ]
 }
