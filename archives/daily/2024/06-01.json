@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717220168305,
+  "endTime": 1717223086661,
   "band_list": [
     {
       "raw_hot": 2314679,
@@ -131,12 +131,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 806323,
+      "num": 806323,
+      "word": "900万网红大V被禁言",
+      "onboard_time": 1717218377,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763735,
       "num": 606812,
       "word": "庆帝叶轻眉 道不同不相为谋",
       "onboard_time": 1717196893,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 761396,
+      "num": 209914,
+      "word": "那英爆了歌坛一个真料两个假料",
+      "onboard_time": 1717219158,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 759995,
+      "num": 759995,
+      "word": "巴勒斯坦",
+      "onboard_time": 1717163007,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 739761,
@@ -179,20 +203,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 645679,
-      "num": 645679,
-      "word": "900万网红大V被禁言",
-      "onboard_time": 1717218377,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 595101,
       "num": 284084,
       "word": "你好星期六全员晒童年照",
       "onboard_time": 1717210637,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 582894,
+      "num": 388921,
+      "word": "官方通报怀孕学生被当肾病医治后身亡",
+      "onboard_time": 1717222397,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577501,
@@ -219,19 +243,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 547489,
+      "num": 547489,
+      "word": "发条微博祝自己六一快乐",
+      "onboard_time": 1717210938,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 533641,
       "num": 533641,
       "word": "欧豪曾在节目里被打出鼻血",
       "onboard_time": 1717216336,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 533347,
-      "num": 178370,
-      "word": "那英爆了歌坛一个真料两个假料",
-      "onboard_time": 1717219158,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -299,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 477160,
-      "num": 477160,
-      "word": "发条微博祝自己六一快乐",
-      "onboard_time": 1717210938,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 455801,
       "num": 221034,
       "word": "迪丽热巴六月行程图",
@@ -371,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381323,
+      "num": 381323,
+      "word": "易烊千玺做引体向上",
+      "onboard_time": 1717221557,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379319,
       "num": 214224,
       "word": "研一开学就拉了坨大的",
@@ -392,6 +416,14 @@
       "word": "魏大勋急眼了",
       "onboard_time": 1717167743,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 370481,
+      "num": 370481,
+      "word": "桃花坞650宣布无限期停更",
+      "onboard_time": 1717219577,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -435,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346047,
+      "num": 346047,
+      "word": "愿与愁",
+      "onboard_time": 1717221317,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345277,
       "num": 328832,
       "word": "范闲海棠朵朵抠书式对戏",
@@ -443,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337963,
-      "num": 337963,
-      "word": "桃花坞650宣布无限期停更",
-      "onboard_time": 1717219577,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 337757,
+      "num": 207778,
+      "word": "鞠婧祎绿发",
+      "onboard_time": 1717222397,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 329533,
@@ -691,6 +731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212424,
+      "num": 212424,
+      "word": "京东回应磨铁抵制京东",
+      "onboard_time": 1717220837,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 212344,
+      "num": 199857,
+      "word": "导演希望张馨予继续瘦",
+      "onboard_time": 1717222457,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210703,
       "num": 210703,
       "word": "西藏那曲5.9级地震",
@@ -721,6 +777,14 @@
       "onboard_time": 1717203797,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 202916,
+      "num": 199743,
+      "word": "赵丽颖六月的行程",
+      "onboard_time": 1717221557,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 200117,
@@ -779,6 +843,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 191808,
+      "num": 191808,
+      "word": "福宝今日探班",
+      "onboard_time": 1717222518,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189456,
       "num": 189456,
       "word": "文淇 注意一下你女明星的形象",
@@ -817,6 +889,14 @@
       "onboard_time": 1717162645,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181501,
+      "num": 181501,
+      "word": "何洁 尚雯婕",
+      "onboard_time": 1717222817,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 180137,
@@ -904,6 +984,14 @@
       "word": "张本智和3比1林昀儒",
       "onboard_time": 1717217057,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163099,
+      "num": 163099,
+      "word": "陈梦3比2汉娜高达",
+      "onboard_time": 1717220057,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1059,12 +1147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140936,
-      "num": 252927,
-      "word": "巴勒斯坦",
-      "onboard_time": 1717163007,
-      "rank": 44,
-      "category": "国外时政"
+      "raw_hot": 142276,
+      "num": 142276,
+      "word": "王妈短剧18亿播放被指无播出资质",
+      "onboard_time": 1717222937,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137248,
+      "num": 137248,
+      "word": "雷军余承东李斌同框",
+      "onboard_time": 1717221017,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 137041,
@@ -1073,6 +1169,14 @@
       "onboard_time": 1717198334,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136499,
+      "num": 126216,
+      "word": "张真源做气球项链",
+      "onboard_time": 1717222218,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 135570,
@@ -1203,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117082,
-      "num": 117082,
-      "word": "陈梦3比2汉娜高达",
-      "onboard_time": 1717220057,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115815,
       "num": 115815,
       "word": "虞书欣夏日海边水手服",
@@ -1219,12 +1315,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 114417,
+      "num": 127651,
+      "word": "小头爸爸 蹲下来和孩子说话",
+      "onboard_time": 1717221917,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 113663,
       "num": 121897,
       "word": "你的年龄在古代怎么表述",
       "onboard_time": 1717206257,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112904,
+      "num": 112904,
+      "word": "丁程鑫做儿童节帽子",
+      "onboard_time": 1717223056,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109403,
+      "num": 109403,
+      "word": "当外卖小哥遇上了当保安的发小",
+      "onboard_time": 1717221317,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 109213,
@@ -1249,6 +1369,14 @@
       "onboard_time": 1717195871,
       "rank": 28,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 107293,
+      "num": 107293,
+      "word": "KPL选手被十个勤天e到了",
+      "onboard_time": 1717221857,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 106958,
@@ -1348,7 +1476,7 @@
     },
     {
       "raw_hot": 82176,
-      "num": 179606,
+      "num": 211249,
       "word": "京东刮刮红包",
       "onboard_time": 1717218917,
       "rank": 47,
@@ -1449,6 +1577,14 @@
       "onboard_time": 1717172418,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55021,
+      "num": 392668,
+      "word": "电子爸妈和他们的113万个孩子",
+      "onboard_time": 1717222037,
+      "rank": 9,
+      "category": "情感,母婴育儿"
     },
     {
       "raw_hot": 53600,

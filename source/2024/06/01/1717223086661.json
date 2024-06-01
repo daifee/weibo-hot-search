@@ -1,0 +1,410 @@
+{
+  "runTime": 1717223086661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 908615,
+        "num": 908615,
+        "word": "6岁孩子打激素长高后频繁生病",
+        "onboard_time": 1717216277,
+        "rank": 0,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 865283,
+        "num": 865283,
+        "word": "歌手 艾薇儿",
+        "onboard_time": 1717208478,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40270,
+        "num": 826332,
+        "word": "万千气象看广东",
+        "onboard_time": 1717209377,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 806323,
+        "num": 806323,
+        "word": "900万网红大V被禁言",
+        "onboard_time": 1717218377,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759995,
+        "num": 759995,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717220897,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 615823,
+        "num": 615823,
+        "word": "靖国神社石柱被红漆涂写英文厕所一词",
+        "onboard_time": 1717210576,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 573433,
+        "num": 573433,
+        "word": "亚当说他很快就会回来",
+        "onboard_time": 1717213997,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547489,
+        "num": 547489,
+        "word": "发条微博祝自己六一快乐",
+        "onboard_time": 1717210938,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 408439,
+        "num": 408439,
+        "word": "孙楠得知自己排名前二的表情",
+        "onboard_time": 1717207216,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55021,
+        "num": 392668,
+        "word": "电子爸妈和他们的113万个孩子",
+        "onboard_time": 1717222037,
+        "rank": 9,
+        "category": "情感,母婴育儿"
+      },
+      {
+        "raw_hot": 582894,
+        "num": 388921,
+        "word": "官方通报怀孕学生被当肾病医治后身亡",
+        "onboard_time": 1717222397,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381323,
+        "num": 381323,
+        "word": "易烊千玺做引体向上",
+        "onboard_time": 1717221557,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370481,
+        "num": 370481,
+        "word": "桃花坞650宣布无限期停更",
+        "onboard_time": 1717219577,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368899,
+        "num": 368899,
+        "word": "TFBOYS六一物料",
+        "onboard_time": 1717218437,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353272,
+        "num": 353272,
+        "word": "张馨予回应勒腰制造焦虑",
+        "onboard_time": 1717218377,
+        "rank": 14,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 346047,
+        "num": 346047,
+        "word": "愿与愁",
+        "onboard_time": 1717221317,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239306,
+        "num": 239306,
+        "word": "中方确认不参加乌克兰问题和平峰会",
+        "onboard_time": 1717163726,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212424,
+        "num": 212424,
+        "word": "京东回应磨铁抵制京东",
+        "onboard_time": 1717220837,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 62904,
+        "num": 211249,
+        "word": "京东刮刮红包",
+        "onboard_time": 1717218917,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211082,
+        "num": 211082,
+        "word": "磨铁已全面停止对京东发货",
+        "onboard_time": 1717210816,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 761396,
+        "num": 209914,
+        "word": "那英爆了歌坛一个真料两个假料",
+        "onboard_time": 1717219158,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337757,
+        "num": 207778,
+        "word": "鞠婧祎绿发",
+        "onboard_time": 1717222397,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258953,
+        "num": 202808,
+        "word": "汪苏泷排名越来越安全了",
+        "onboard_time": 1717204636,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254712,
+        "num": 201732,
+        "word": "欧豪曾在节目里被打出鼻血",
+        "onboard_time": 1717216336,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200043,
+        "num": 200043,
+        "word": "月经期为什么会肚子不舒服",
+        "onboard_time": 1717199534,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212344,
+        "num": 199857,
+        "word": "导演希望张馨予继续瘦",
+        "onboard_time": 1717222457,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202916,
+        "num": 199743,
+        "word": "赵丽颖六月的行程",
+        "onboard_time": 1717221557,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199598,
+        "num": 199598,
+        "word": "孙楠 熹妃回宫",
+        "onboard_time": 1717204217,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191808,
+        "num": 191808,
+        "word": "福宝今日探班",
+        "onboard_time": 1717222518,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186254,
+        "num": 186254,
+        "word": "lululemon在美国卖不动了",
+        "onboard_time": 1717206257,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 198608,
+        "num": 184158,
+        "word": "武艺十七岁还坐在爸爸肩上",
+        "onboard_time": 1717218797,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181501,
+        "num": 181501,
+        "word": "何洁 尚雯婕",
+        "onboard_time": 1717222817,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163099,
+        "num": 163099,
+        "word": "陈梦3比2汉娜高达",
+        "onboard_time": 1717220057,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154275,
+        "num": 154275,
+        "word": "歌手编曲 拉垮",
+        "onboard_time": 1717204096,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149924,
+        "num": 149924,
+        "word": "东方甄选直播间画风变了",
+        "onboard_time": 1717215497,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149231,
+        "num": 149231,
+        "word": "那英好奇孙楠的双眼皮",
+        "onboard_time": 1717214357,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142276,
+        "num": 142276,
+        "word": "王妈短剧18亿播放被指无播出资质",
+        "onboard_time": 1717222937,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137248,
+        "num": 137248,
+        "word": "雷军余承东李斌同框",
+        "onboard_time": 1717221017,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128654,
+        "num": 128654,
+        "word": "哪部动画片属于你的童年",
+        "onboard_time": 1717214536,
+        "rank": 38,
+        "category": "社会正能量,动漫"
+      },
+      {
+        "raw_hot": 114417,
+        "num": 127651,
+        "word": "小头爸爸 蹲下来和孩子说话",
+        "onboard_time": 1717221917,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139162,
+        "num": 127109,
+        "word": "墨雨云间 渣男",
+        "onboard_time": 1717210637,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136499,
+        "num": 126216,
+        "word": "张真源做气球项链",
+        "onboard_time": 1717222218,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135463,
+        "num": 124430,
+        "word": "刘诗诗拍的新疆风景",
+        "onboard_time": 1717217177,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124277,
+        "num": 124277,
+        "word": "迪丽热巴六月行程图",
+        "onboard_time": 1717211358,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116613,
+        "num": 116613,
+        "word": "王一博六一Q版海报",
+        "onboard_time": 1717218078,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113529,
+        "num": 113529,
+        "word": "多特蒙德vs皇马",
+        "onboard_time": 1717219459,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112904,
+        "num": 112904,
+        "word": "丁程鑫做儿童节帽子",
+        "onboard_time": 1717223056,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109403,
+        "num": 109403,
+        "word": "当外卖小哥遇上了当保安的发小",
+        "onboard_time": 1717221317,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107901,
+        "num": 107901,
+        "word": "易烊千玺六一营业",
+        "onboard_time": 1717217298,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107293,
+        "num": 107293,
+        "word": "KPL选手被十个勤天e到了",
+        "onboard_time": 1717221857,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国少年儿童节日快乐#"
+    }
+  }
+}
