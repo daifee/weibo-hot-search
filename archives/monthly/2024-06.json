@@ -1,10 +1,10 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717248882267,
+  "endTime": 1717251455495,
   "band_list": [
     {
       "raw_hot": 4046722,
-      "num": 401583,
+      "num": 409042,
       "word": "王阳老婆发声",
       "onboard_time": 1717244958,
       "rank": 11,
@@ -33,6 +33,14 @@
       "onboard_time": 1717210576,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1780093,
+      "num": 1780093,
+      "word": "微信聊天最惹人反感的4种行为",
+      "onboard_time": 1717247719,
+      "rank": 36,
+      "category": "互联网,情感"
     },
     {
       "raw_hot": 1683772,
@@ -97,6 +105,14 @@
       "onboard_time": 1717202176,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1361134,
+      "num": 322817,
+      "word": "王阳说没有待播的戏后面就没饭吃",
+      "onboard_time": 1717247419,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1292541,
@@ -187,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 915529,
-      "num": 322817,
-      "word": "王阳说没有待播的戏后面就没饭吃",
-      "onboard_time": 1717247419,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 882405,
       "num": 882405,
       "word": "鞠婧祎绿发",
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 792460,
+      "num": 792460,
+      "word": "女生婚礼前1天被告知酒店停业",
+      "onboard_time": 1717248498,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 788220,
       "num": 788220,
       "word": "中国女排3比0泰国女排",
@@ -265,6 +281,14 @@
       "onboard_time": 1717228158,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 766919,
+      "num": 610792,
+      "word": "那英和肖战告夏之光的状",
+      "onboard_time": 1717248019,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 763735,
@@ -555,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 464908,
-      "num": 233058,
-      "word": "微信聊天最惹人反感的4种行为",
-      "onboard_time": 1717247719,
-      "rank": 36,
-      "category": "互联网,情感"
-    },
-    {
       "raw_hot": 463896,
       "num": 401310,
       "word": "归亚蕾 庆余年",
@@ -611,14 +627,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 417940,
-      "num": 318820,
-      "word": "那英和肖战告夏之光的状",
-      "onboard_time": 1717248019,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 417816,
       "num": 303929,
       "word": "艾森豪威尔号航母",
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 406025,
-      "num": 236487,
+      "num": 242875,
       "word": "1个月怎么瘦了15斤",
       "onboard_time": 1717245918,
       "rank": 34,
@@ -747,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371984,
+      "num": 371984,
+      "word": "孙颖莎vs田志希",
+      "onboard_time": 1717249399,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370481,
       "num": 370481,
       "word": "桃花坞650宣布无限期停更",
@@ -817,6 +833,14 @@
       "onboard_time": 1717207157,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341084,
+      "num": 341084,
+      "word": "咸鱼 逆水寒",
+      "onboard_time": 1717248800,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 337547,
@@ -907,8 +931,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319958,
-      "num": 230789,
+      "raw_hot": 320381,
+      "num": 320381,
       "word": "汪苏泷王心凌甜妹合体",
       "onboard_time": 1717247359,
       "rank": 34,
@@ -1099,12 +1123,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260885,
+      "num": 260885,
+      "word": "孙颖莎3比0田志希",
+      "onboard_time": 1717250898,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257547,
       "num": 257547,
       "word": "台风",
       "onboard_time": 1717211718,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256444,
+      "num": 256444,
+      "word": "朱婷 风范",
+      "onboard_time": 1717248139,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 254277,
@@ -1147,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237676,
+      "num": 237676,
+      "word": "高叶问肖战夏之光什么团",
+      "onboard_time": 1717249219,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235981,
       "num": 235981,
       "word": "解放军4句话回应台湾问题",
@@ -1163,12 +1211,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 235053,
-      "num": 235053,
-      "word": "咸鱼 逆水寒",
-      "onboard_time": 1717248800,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 235475,
+      "num": 235475,
+      "word": "为什么大脑删除了3岁前的记忆",
+      "onboard_time": 1717251079,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 231828,
@@ -1177,14 +1225,6 @@
       "onboard_time": 1717214898,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230734,
-      "num": 230734,
-      "word": "女生婚礼前1天被告知酒店停业",
-      "onboard_time": 1717248498,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230610,
@@ -1216,6 +1256,14 @@
       "word": "狐妖月红篇落跑甜心",
       "onboard_time": 1717244778,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223791,
+      "num": 223791,
+      "word": "明家好疯",
+      "onboard_time": 1717250780,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1385,6 +1433,14 @@
       "onboard_time": 1717226598,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200415,
+      "num": 200415,
+      "word": "孙颖莎11比1田志希",
+      "onboard_time": 1717250598,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 200117,
@@ -1563,14 +1619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 176738,
-      "num": 176738,
-      "word": "朱婷 风范",
-      "onboard_time": 1717248139,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176716,
       "num": 252325,
       "word": "尚雯婕回应去隔壁歌手吧",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1717246638,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173312,
+      "num": 173312,
+      "word": "朱一龙亮相中国电影导演之夜",
+      "onboard_time": 1717250359,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 172879,
@@ -1689,6 +1745,14 @@
       "onboard_time": 1717217057,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165131,
+      "num": 165131,
+      "word": "周深首场体育场演唱会",
+      "onboard_time": 1717249641,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 164026,
@@ -1857,6 +1921,14 @@
       "onboard_time": 1717215977,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 152941,
+      "num": 152941,
+      "word": "原来腰突了还可以回去",
+      "onboard_time": 1717251079,
+      "rank": 37,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 152659,
@@ -2035,6 +2107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140294,
+      "num": 140294,
+      "word": "泽连斯基抵达新加坡将参加香会",
+      "onboard_time": 1717249879,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 139583,
       "num": 139583,
       "word": "电影野孩子儿童节海报",
@@ -2187,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125822,
+      "num": 125822,
+      "word": "小孩能有什么烦恼",
+      "onboard_time": 1717249158,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124508,
       "num": 124508,
       "word": "小鬼魏大勋毛不易郭麒麟尹正合拍",
@@ -2337,6 +2425,14 @@
       "onboard_time": 1717206257,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113622,
+      "num": 113622,
+      "word": "朱婷李盈莹神仙搭配",
+      "onboard_time": 1717249339,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 112121,
@@ -2763,19 +2859,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53884,
+      "num": 1057176,
+      "word": "假如与中华5000年文明对话",
+      "onboard_time": 1717246398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53600,
       "num": 53600,
       "word": "浙江福建大暴雨",
       "onboard_time": 1717198455,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53533,
-      "num": 1057176,
-      "word": "假如与中华5000年文明对话",
-      "onboard_time": 1717246398,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2828,7 +2924,7 @@
     },
     {
       "raw_hot": 39830,
-      "num": 352070,
+      "num": 414226,
       "word": "用一件乐器形容成都竟是茶杯",
       "onboard_time": 1717247959,
       "rank": 9,
@@ -3074,6 +3170,9 @@
     },
     {
       "word": "#总书记始终关心少年儿童成长#"
+    },
+    {
+      "word": "#总书记和小朋友们的温暖瞬间#"
     }
   ]
 }
