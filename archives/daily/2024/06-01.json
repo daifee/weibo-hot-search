@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717252462775,
+  "endTime": 1717255108157,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1361134,
-      "num": 322817,
+      "num": 391695,
       "word": "王阳说没有待播的戏后面就没饭吃",
       "onboard_time": 1717247419,
       "rank": 15,
@@ -201,6 +201,14 @@
       "onboard_time": 1717165224,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 922632,
+      "num": 252336,
+      "word": "为什么大脑删除了3岁前的记忆",
+      "onboard_time": 1717251079,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 920634,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672640,
+      "num": 394356,
+      "word": "印度大选至少19名官员被热死",
+      "onboard_time": 1717253120,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 661554,
       "num": 304572,
       "word": "那英 跑调",
@@ -459,6 +475,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 545926,
+      "num": 545926,
+      "word": "逆水寒手游回应剑网3",
+      "onboard_time": 1717253718,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 541510,
       "num": 541510,
       "word": "Citywalk后年轻人又爱上了Wildeat",
@@ -497,14 +521,6 @@
       "onboard_time": 1717240338,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 519089,
-      "num": 235475,
-      "word": "为什么大脑删除了3岁前的记忆",
-      "onboard_time": 1717251079,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 500014,
@@ -595,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463028,
+      "num": 463028,
+      "word": "暗星拍的王俊凯",
+      "onboard_time": 1717253838,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 455801,
       "num": 221034,
       "word": "迪丽热巴六月行程图",
@@ -633,6 +657,14 @@
       "onboard_time": 1717225397,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 424192,
+      "num": 394169,
+      "word": "你好星期六下期有胡歌高圆圆",
+      "onboard_time": 1717251679,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 417816,
@@ -689,6 +721,14 @@
       "onboard_time": 1717221557,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392219,
+      "num": 392219,
+      "word": "原来腰突了还可以回去",
+      "onboard_time": 1717251079,
+      "rank": 37,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 390692,
@@ -907,14 +947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 323249,
-      "num": 323249,
-      "word": "你好星期六下期有胡歌高圆圆",
-      "onboard_time": 1717251679,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322415,
       "num": 322415,
       "word": "张杰演唱会儿童节撒糖",
@@ -953,6 +985,14 @@
       "onboard_time": 1717247359,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 319201,
+      "num": 246891,
+      "word": "背着善宰跑导演吐槽金惠允外貌",
+      "onboard_time": 1717254799,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 317824,
@@ -996,7 +1036,7 @@
     },
     {
       "raw_hot": 310109,
-      "num": 223791,
+      "num": 241779,
       "word": "明家好疯",
       "onboard_time": 1717250780,
       "rank": 26,
@@ -1251,6 +1291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 226984,
+      "num": 226984,
+      "word": "周迅一口气拿了两个导协年度女演员",
+      "onboard_time": 1717254139,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225368,
       "num": 177435,
       "word": "胡歌把金靖带来了",
@@ -1275,12 +1323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222215,
+      "num": 203671,
+      "word": "李惠仁天生爱豆圣体",
+      "onboard_time": 1717252879,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220080,
       "num": 220080,
       "word": "白玉兰",
       "onboard_time": 1717245619,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219619,
+      "num": 219619,
+      "word": "欧冠决赛",
+      "onboard_time": 1717254680,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 217781,
@@ -1355,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209723,
+      "num": 209723,
+      "word": "砍60岁网红迎客松涉事人已找到",
+      "onboard_time": 1717253239,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208857,
       "num": 208857,
       "word": "王曼昱女单八强",
@@ -1369,14 +1441,6 @@
       "onboard_time": 1717223296,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 207261,
-      "num": 174925,
-      "word": "原来腰突了还可以回去",
-      "onboard_time": 1717251079,
-      "rank": 37,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 206814,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1717232478,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202731,
+      "num": 202731,
+      "word": "张杰给歌迷准备无人机惊喜",
+      "onboard_time": 1717254979,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 201666,
@@ -1539,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192378,
+      "num": 192378,
+      "word": "拒绝的相亲对象5个月后开始信息轰炸",
+      "onboard_time": 1717252939,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192051,
       "num": 301212,
       "word": "两岁半幼童每天戴12小时牙套",
@@ -1553,6 +1633,22 @@
       "onboard_time": 1717233436,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191801,
+      "num": 191801,
+      "word": "许嵩呼吸之野演唱会",
+      "onboard_time": 1717254320,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 190300,
+      "num": 190300,
+      "word": "多特蒙德vs皇马",
+      "onboard_time": 1717219459,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 189456,
@@ -1633,6 +1729,14 @@
       "onboard_time": 1717167743,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 179190,
+      "num": 179190,
+      "word": "波尔采访",
+      "onboard_time": 1717253178,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 176952,
@@ -2283,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130089,
+      "num": 130089,
+      "word": "何洁戚薇陈昊宇蔡文静新综艺",
+      "onboard_time": 1717254858,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129086,
       "num": 129086,
       "word": "JDG营救无畏于水火之中",
@@ -2385,14 +2497,6 @@
       "onboard_time": 1717237937,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120890,
-      "num": 120890,
-      "word": "多特蒙德vs皇马",
-      "onboard_time": 1717219459,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 120594,
@@ -2883,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64130,
+      "num": 379542,
+      "word": "世界名画走秀也太超前了",
+      "onboard_time": 1717252159,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 61928,
       "num": 201100,
       "word": "西湖荷花在巴黎开了",
@@ -2905,6 +3017,14 @@
       "onboard_time": 1717229897,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 54946,
+      "num": 397307,
+      "word": "辅警将礼物晒在警车上炫耀",
+      "onboard_time": 1717253539,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54909,
@@ -2969,14 +3089,6 @@
       "onboard_time": 1717178473,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 41545,
-      "num": 140122,
-      "word": "世界名画走秀也太超前了",
-      "onboard_time": 1717252159,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 41246,

@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717252462775,
+  "endTime": 1717255108157,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 1361134,
-      "num": 322817,
+      "num": 391695,
       "word": "王阳说没有待播的戏后面就没饭吃",
       "onboard_time": 1717247419,
       "rank": 15,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1716948197,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 922632,
+      "num": 252336,
+      "word": "为什么大脑删除了3岁前的记忆",
+      "onboard_time": 1717251079,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 921325,
@@ -2539,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 672640,
+      "num": 394356,
+      "word": "印度大选至少19名官员被热死",
+      "onboard_time": 1717253120,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 669611,
       "num": 669611,
       "word": "长公主好美",
@@ -3515,6 +3531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 545926,
+      "num": 545926,
+      "word": "逆水寒手游回应剑网3",
+      "onboard_time": 1717253718,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 545099,
       "num": 545099,
       "word": "上海取消离异购房限制",
@@ -3729,14 +3753,6 @@
       "onboard_time": 1716869059,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519089,
-      "num": 235475,
-      "word": "为什么大脑删除了3岁前的记忆",
-      "onboard_time": 1717251079,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 518913,
@@ -4427,6 +4443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463028,
+      "num": 463028,
+      "word": "暗星拍的王俊凯",
+      "onboard_time": 1717253838,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 462208,
       "num": 196762,
       "word": "网友称31克黄金回收秒变15克",
@@ -4881,6 +4905,14 @@
       "onboard_time": 1716802159,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424192,
+      "num": 394169,
+      "word": "你好星期六下期有胡歌高圆圆",
+      "onboard_time": 1717251679,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 423870,
@@ -5353,6 +5385,14 @@
       "onboard_time": 1717076659,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 392219,
+      "num": 392219,
+      "word": "原来腰突了还可以回去",
+      "onboard_time": 1717251079,
+      "rank": 37,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 392054,
@@ -6451,14 +6491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 323249,
-      "num": 323249,
-      "word": "你好星期六下期有胡歌高圆圆",
-      "onboard_time": 1717251679,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322473,
       "num": 322473,
       "word": "上海发布房产新政",
@@ -6553,6 +6585,14 @@
       "onboard_time": 1717048637,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 319201,
+      "num": 246891,
+      "word": "背着善宰跑导演吐槽金惠允外貌",
+      "onboard_time": 1717254799,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 318249,
@@ -6716,7 +6756,7 @@
     },
     {
       "raw_hot": 310109,
-      "num": 223791,
+      "num": 241779,
       "word": "明家好疯",
       "onboard_time": 1717250780,
       "rank": 26,
@@ -8779,6 +8819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226984,
+      "num": 226984,
+      "word": "周迅一口气拿了两个导协年度女演员",
+      "onboard_time": 1717254139,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 226974,
       "num": 226974,
       "word": "郭晓婷想让杨幂演灵宠",
@@ -9011,6 +9059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222215,
+      "num": 203671,
+      "word": "李惠仁天生爱豆圣体",
+      "onboard_time": 1717252879,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221998,
       "num": 221998,
       "word": "李宁大秀",
@@ -9121,6 +9177,14 @@
       "onboard_time": 1716872779,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219619,
+      "num": 219619,
+      "word": "欧冠决赛",
+      "onboard_time": 1717026196,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 219161,
@@ -9563,6 +9627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209723,
+      "num": 209723,
+      "word": "砍60岁网红迎客松涉事人已找到",
+      "onboard_time": 1717253239,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209577,
       "num": 188260,
       "word": "为什么四川成了很多日本人的精神故乡",
@@ -9729,14 +9801,6 @@
       "onboard_time": 1716698960,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207261,
-      "num": 174925,
-      "word": "原来腰突了还可以回去",
-      "onboard_time": 1717251079,
-      "rank": 37,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 206903,
@@ -9993,6 +10057,14 @@
       "onboard_time": 1716939015,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202731,
+      "num": 202731,
+      "word": "张杰给歌迷准备无人机惊喜",
+      "onboard_time": 1717254979,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 202721,
@@ -10827,6 +10899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192378,
+      "num": 192378,
+      "word": "拒绝的相亲对象5个月后开始信息轰炸",
+      "onboard_time": 1717252939,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192218,
       "num": 159255,
       "word": "这种长寿菜现在吃正好",
@@ -10856,6 +10936,14 @@
       "word": "周杰伦长沙演唱会",
       "onboard_time": 1716985698,
       "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 191801,
+      "num": 191801,
+      "word": "许嵩呼吸之野演唱会",
+      "onboard_time": 1717254320,
+      "rank": 34,
       "category": "演出"
     },
     {
@@ -10993,6 +11081,14 @@
       "onboard_time": 1717039758,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 190300,
+      "num": 190300,
+      "word": "多特蒙德vs皇马",
+      "onboard_time": 1717219459,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 190248,
@@ -11753,6 +11849,14 @@
       "onboard_time": 1717032617,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 179190,
+      "num": 179190,
+      "word": "波尔采访",
+      "onboard_time": 1717253178,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 179073,
@@ -15587,6 +15691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130089,
+      "num": 130089,
+      "word": "何洁戚薇陈昊宇蔡文静新综艺",
+      "onboard_time": 1717254858,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129950,
       "num": 129950,
       "word": "杨幂雷佳音大鹏此沙合照",
@@ -16331,14 +16443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120890,
-      "num": 120890,
-      "word": "多特蒙德vs皇马",
-      "onboard_time": 1717219459,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120841,
       "num": 120841,
       "word": "世界上公认最好的运动HIIT",
@@ -16561,14 +16665,6 @@
       "onboard_time": 1716695899,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 118019,
-      "num": 118019,
-      "word": "欧冠决赛",
-      "onboard_time": 1717026196,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 117916,
@@ -18835,6 +18931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64130,
+      "num": 379542,
+      "word": "世界名画走秀也太超前了",
+      "onboard_time": 1717252159,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 63964,
       "num": 63964,
       "word": "黄金价格还会继续上涨吗",
@@ -19097,6 +19201,14 @@
       "onboard_time": 1716851955,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54946,
+      "num": 397307,
+      "word": "辅警将礼物晒在警车上炫耀",
+      "onboard_time": 1717253539,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54925,
@@ -19577,14 +19689,6 @@
       "onboard_time": 1716679514,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41545,
-      "num": 140122,
-      "word": "世界名画走秀也太超前了",
-      "onboard_time": 1717252159,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 41303,
