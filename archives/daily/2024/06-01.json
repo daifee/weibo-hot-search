@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717219161126,
+  "endTime": 1717220168305,
   "band_list": [
     {
       "raw_hot": 2314679,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1271492,
+      "num": 1271492,
+      "word": "6岁孩子打激素长高后频繁生病",
+      "onboard_time": 1717216277,
+      "rank": 42,
+      "category": "健康医疗,母婴育儿"
+    },
+    {
       "raw_hot": 1223229,
       "num": 1223229,
       "word": "汪苏泷排名越来越安全了",
@@ -97,14 +105,6 @@
       "onboard_time": 1717204217,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 952443,
-      "num": 952443,
-      "word": "6岁孩子打激素长高后频繁生病",
-      "onboard_time": 1717216277,
-      "rank": 42,
-      "category": "健康医疗,母婴育儿"
     },
     {
       "raw_hot": 935555,
@@ -179,6 +179,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 645679,
+      "num": 645679,
+      "word": "900万网红大V被禁言",
+      "onboard_time": 1717218377,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595101,
       "num": 284084,
       "word": "你好星期六全员晒童年照",
@@ -208,6 +216,22 @@
       "word": "耳帝评歌手第四期",
       "onboard_time": 1717169360,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 533641,
+      "num": 533641,
+      "word": "欧豪曾在节目里被打出鼻血",
+      "onboard_time": 1717216336,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 533347,
+      "num": 178370,
+      "word": "那英爆了歌坛一个真料两个假料",
+      "onboard_time": 1717219158,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -259,14 +283,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 484886,
-      "num": 388844,
-      "word": "欧豪曾在节目里被打出鼻血",
-      "onboard_time": 1717216336,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 481524,
       "num": 247099,
       "word": "张若昀下部戏是完美证据",
@@ -281,6 +297,14 @@
       "onboard_time": 1717164685,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477160,
+      "num": 477160,
+      "word": "发条微博祝自己六一快乐",
+      "onboard_time": 1717210938,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 455801,
@@ -299,20 +323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437302,
+      "num": 437302,
+      "word": "TFBOYS六一物料",
+      "onboard_time": 1717218437,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428754,
       "num": 428754,
       "word": "歌手编曲 拉垮",
       "onboard_time": 1717204096,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 424717,
-      "num": 424717,
-      "word": "发条微博祝自己六一快乐",
-      "onboard_time": 1717210938,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 417816,
@@ -371,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369396,
+      "num": 369396,
+      "word": "张馨予回应勒腰制造焦虑",
+      "onboard_time": 1717218377,
+      "rank": 26,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 367144,
       "num": 281983,
       "word": "王一博王阳都报名了",
@@ -411,20 +443,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337963,
+      "num": 337963,
+      "word": "桃花坞650宣布无限期停更",
+      "onboard_time": 1717219577,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329533,
       "num": 329533,
       "word": "六一儿童节",
       "onboard_time": 1717197614,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 327670,
-      "num": 327670,
-      "word": "TFBOYS六一物料",
-      "onboard_time": 1717218437,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 326335,
@@ -491,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290418,
-      "num": 290418,
-      "word": "900万网红大V被禁言",
-      "onboard_time": 1717218377,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284408,
       "num": 284408,
       "word": "C罗赛后痛哭",
@@ -563,14 +587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 266477,
-      "num": 227886,
-      "word": "张馨予回应勒腰制造焦虑",
-      "onboard_time": 1717218377,
-      "rank": 26,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 262198,
       "num": 262198,
       "word": "光与夜之恋",
@@ -611,6 +627,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 250890,
+      "num": 227481,
+      "word": "武艺十七岁还坐在爸爸肩上",
+      "onboard_time": 1717218797,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235820,
       "num": 297095,
       "word": "2024高考试卷押运现场",
@@ -633,14 +657,6 @@
       "onboard_time": 1717171879,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 227481,
-      "num": 227481,
-      "word": "武艺十七岁还坐在爸爸肩上",
-      "onboard_time": 1717218797,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 217781,
@@ -995,11 +1011,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151303,
+      "num": 151303,
+      "word": "耳帝盛赞尚雯婕",
+      "onboard_time": 1717219937,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150406,
       "num": 150406,
       "word": "肖战杀青剧组请客",
       "onboard_time": 1717199175,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148918,
+      "num": 180938,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1717219818,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 147597,
+      "num": 121735,
+      "word": "范闲庆国顶级人类",
+      "onboard_time": 1717219158,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1131,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120890,
+      "num": 120890,
+      "word": "多特蒙德vs皇马",
+      "onboard_time": 1717219459,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119129,
       "num": 253764,
       "word": "华为发布会",
@@ -1155,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117082,
+      "num": 117082,
+      "word": "陈梦3比2汉娜高达",
+      "onboard_time": 1717220057,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115815,
       "num": 115815,
       "word": "虞书欣夏日海边水手服",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1717204936,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109045,
+      "num": 109045,
+      "word": "安赛龙退赛",
+      "onboard_time": 1717220117,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107662,
@@ -1281,6 +1345,14 @@
       "onboard_time": 1717196834,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82176,
+      "num": 179606,
+      "word": "京东刮刮红包",
+      "onboard_time": 1717218917,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 81559,
@@ -1459,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33090,
-      "num": 115848,
-      "word": "京东刮刮红包",
-      "onboard_time": 1717218917,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 31313,
       "num": 164329,
       "word": "浙江的高速服务区已经进化成这样了",
@@ -1492,7 +1556,7 @@
     },
     {
       "raw_hot": 27362,
-      "num": 404245,
+      "num": 452541,
       "word": "癌症宝宝的六一愿望是快快好起来",
       "onboard_time": 1717218258,
       "rank": 8,
