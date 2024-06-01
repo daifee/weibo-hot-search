@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717216537740,
+  "endTime": 1717219161126,
   "band_list": [
     {
       "raw_hot": 2314679,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 952443,
+      "num": 952443,
+      "word": "6岁孩子打激素长高后频繁生病",
+      "onboard_time": 1717216277,
+      "rank": 42,
+      "category": "健康医疗,母婴育儿"
+    },
+    {
       "raw_hot": 935555,
       "num": 311178,
       "word": "张钰琪 揭榜",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 739761,
-      "num": 212331,
+      "num": 256029,
       "word": "月经期为什么会肚子不舒服",
       "onboard_time": 1717199534,
       "rank": 20,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 650950,
-      "num": 206660,
+      "num": 215482,
       "word": "lululemon在美国卖不动了",
       "onboard_time": 1717206257,
       "rank": 20,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 496160,
-      "num": 208661,
+      "num": 330840,
       "word": "那英好奇孙楠的双眼皮",
       "onboard_time": 1717214357,
       "rank": 11,
@@ -251,8 +259,16 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 484886,
+      "num": 388844,
+      "word": "欧豪曾在节目里被打出鼻血",
+      "onboard_time": 1717216336,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481524,
-      "num": 201214,
+      "num": 247099,
       "word": "张若昀下部戏是完美证据",
       "onboard_time": 1717211657,
       "rank": 24,
@@ -291,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424717,
+      "num": 424717,
+      "word": "发条微博祝自己六一快乐",
+      "onboard_time": 1717210938,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 417816,
       "num": 303929,
       "word": "艾森豪威尔号航母",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 401225,
-      "num": 208616,
+      "num": 354698,
       "word": "磨铁已全面停止对京东发货",
       "onboard_time": 1717210816,
       "rank": 17,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 384912,
-      "num": 202604,
+      "num": 202953,
       "word": "墨雨云间 渣男",
       "onboard_time": 1717210637,
       "rank": 23,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 379319,
-      "num": 202375,
+      "num": 214224,
       "word": "研一开学就拉了坨大的",
       "onboard_time": 1717211897,
       "rank": 35,
@@ -363,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364613,
+      "num": 364613,
+      "word": "易烊千玺六一营业",
+      "onboard_time": 1717217298,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350023,
       "num": 200875,
       "word": "梦中的那片海未公开剧照",
@@ -385,6 +417,14 @@
       "onboard_time": 1717197614,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 327670,
+      "num": 327670,
+      "word": "TFBOYS六一物料",
+      "onboard_time": 1717218437,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 326335,
@@ -451,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293710,
-      "num": 293710,
-      "word": "发条微博祝自己六一快乐",
-      "onboard_time": 1717210938,
-      "rank": 9,
-      "category": "社会正能量"
+      "raw_hot": 290418,
+      "num": 290418,
+      "word": "900万网红大V被禁言",
+      "onboard_time": 1717218377,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284408,
@@ -473,6 +513,22 @@
       "onboard_time": 1717164626,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274866,
+      "num": 240291,
+      "word": "刘诗诗拍的新疆风景",
+      "onboard_time": 1717217177,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273761,
+      "num": 273761,
+      "word": "东方甄选直播间画风变了",
+      "onboard_time": 1717215497,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 272501,
@@ -497,6 +553,30 @@
       "onboard_time": 1717164388,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267659,
+      "num": 267659,
+      "word": "第五人格",
+      "onboard_time": 1717218497,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 266477,
+      "num": 227886,
+      "word": "张馨予回应勒腰制造焦虑",
+      "onboard_time": 1717218377,
+      "rank": 26,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 262198,
+      "num": 262198,
+      "word": "光与夜之恋",
+      "onboard_time": 1717217478,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 257547,
@@ -555,12 +635,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 224960,
-      "num": 200418,
-      "word": "东方甄选直播间画风变了",
-      "onboard_time": 1717215497,
-      "rank": 31,
-      "category": "互联网"
+      "raw_hot": 227481,
+      "num": 227481,
+      "word": "武艺十七岁还坐在爸爸肩上",
+      "onboard_time": 1717218797,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217781,
+      "num": 217781,
+      "word": "哪部动画片属于你的童年",
+      "onboard_time": 1717214536,
+      "rank": 9,
+      "category": "社会正能量,动漫"
     },
     {
       "raw_hot": 216713,
@@ -593,6 +681,14 @@
       "onboard_time": 1717204576,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206814,
+      "num": 206814,
+      "word": "王一博六一Q版海报",
+      "onboard_time": 1717218078,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 206190,
@@ -691,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186236,
-      "num": 186236,
-      "word": "欧豪曾在节目里被打出鼻血",
-      "onboard_time": 1717216336,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185158,
       "num": 185158,
       "word": "孙楠感谢每一位观众",
@@ -747,6 +835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 176092,
+      "num": 176092,
+      "word": "徐明浩婉拒C位",
+      "onboard_time": 1717217357,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171517,
       "num": 171517,
       "word": "不管几岁快乐万岁",
@@ -787,12 +883,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165596,
+      "num": 165596,
+      "word": "张本智和3比1林昀儒",
+      "onboard_time": 1717217057,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162436,
       "num": 293105,
       "word": "小时候和长大了的心态对比",
       "onboard_time": 1717207516,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161584,
+      "num": 161584,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1717216879,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 160713,
@@ -817,6 +929,14 @@
       "onboard_time": 1717211657,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159355,
+      "num": 159355,
+      "word": "腾讯视频6月大剧片单",
+      "onboard_time": 1717217718,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 159344,
@@ -899,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142460,
-      "num": 142460,
-      "word": "6岁孩子打激素长高后频繁生病",
-      "onboard_time": 1717216277,
-      "rank": 42,
-      "category": "健康医疗,母婴育儿"
-    },
-    {
       "raw_hot": 140936,
       "num": 252927,
       "word": "巴勒斯坦",
@@ -915,20 +1027,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 138136,
-      "num": 211442,
-      "word": "哪部动画片属于你的童年",
-      "onboard_time": 1717214536,
-      "rank": 9,
-      "category": "社会正能量,动漫"
-    },
-    {
       "raw_hot": 137041,
       "num": 177187,
       "word": "儿童节文案",
       "onboard_time": 1717198334,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135570,
+      "num": 135570,
+      "word": "拜登称以色列提出加沙停火新提议",
+      "onboard_time": 1717215677,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 134935,
@@ -953,14 +1065,6 @@
       "onboard_time": 1717203376,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132268,
-      "num": 132268,
-      "word": "拜登称以色列提出加沙停火新提议",
-      "onboard_time": 1717215677,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 130483,
@@ -1049,6 +1153,14 @@
       "onboard_time": 1717206376,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115815,
+      "num": 115815,
+      "word": "虞书欣夏日海边水手服",
+      "onboard_time": 1717217057,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113663,
@@ -1171,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81559,
+      "num": 398140,
+      "word": "今天我想做一天小孩",
+      "onboard_time": 1717218018,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 80078,
       "num": 80078,
       "word": "2024快乐儿童节",
@@ -1291,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41246,
+      "num": 269743,
+      "word": "遇事不决选大众",
+      "onboard_time": 1717214957,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 39943,
       "num": 201650,
       "word": "不被定义的穿搭是我的盔甲",
@@ -1331,12 +1459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34157,
-      "num": 201363,
-      "word": "遇事不决选大众",
-      "onboard_time": 1717214957,
-      "rank": 29,
-      "category": "汽车"
+      "raw_hot": 33090,
+      "num": 115848,
+      "word": "京东刮刮红包",
+      "onboard_time": 1717218917,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 31313,
@@ -1353,6 +1481,22 @@
       "onboard_time": 1717190710,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30889,
+      "num": 264218,
+      "word": "程潇教你早C晚A新招数",
+      "onboard_time": 1717215977,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 27362,
+      "num": 404245,
+      "word": "癌症宝宝的六一愿望是快快好起来",
+      "onboard_time": 1717218258,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25346,
@@ -1393,14 +1537,6 @@
       "onboard_time": 1717183391,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19711,
-      "num": 200219,
-      "word": "程潇教你早C晚A新招数",
-      "onboard_time": 1717215977,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 19608,
