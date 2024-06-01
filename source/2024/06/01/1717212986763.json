@@ -1,0 +1,410 @@
+{
+  "runTime": 1717212986763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2148621,
+        "num": 2148621,
+        "word": "歌手 艾薇儿",
+        "onboard_time": 1717208478,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1398461,
+        "num": 1398461,
+        "word": "靖国神社石柱被红漆涂写英文厕所一词",
+        "onboard_time": 1717210576,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 159742,
+        "num": 1162060,
+        "word": "祝大朋友小朋友节日快乐",
+        "onboard_time": 1717211657,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108158,
+        "num": 1108158,
+        "word": "孙楠得知自己排名前二的表情",
+        "onboard_time": 1717207216,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467773,
+        "num": 467773,
+        "word": "中方确认不参加乌克兰问题和平峰会",
+        "onboard_time": 1717163726,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301414,
+        "num": 301414,
+        "word": "六一儿童节",
+        "onboard_time": 1717197614,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 849029,
+        "num": 294424,
+        "word": "汪苏泷排名越来越安全了",
+        "onboard_time": 1717204636,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595101,
+        "num": 284084,
+        "word": "你好星期六全员晒童年照",
+        "onboard_time": 1717210637,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257547,
+        "num": 257547,
+        "word": "台风",
+        "onboard_time": 1717211718,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200111,
+        "num": 200111,
+        "word": "被小朋友讲的道理教育了",
+        "onboard_time": 1717210398,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401443,
+        "num": 197014,
+        "word": "孙楠 熹妃回宫",
+        "onboard_time": 1717204217,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384912,
+        "num": 196079,
+        "word": "墨雨云间 渣男",
+        "onboard_time": 1717210637,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384883,
+        "num": 190704,
+        "word": "迪丽热巴六月行程图",
+        "onboard_time": 1717211358,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350023,
+        "num": 187750,
+        "word": "梦中的那片海未公开剧照",
+        "onboard_time": 1717211838,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231944,
+        "num": 183066,
+        "word": "加沙儿童六一得到的不是礼物而是轰炸",
+        "onboard_time": 1717203376,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 276582,
+        "num": 181784,
+        "word": "长大后发现妈见打零食更好吃了",
+        "onboard_time": 1717206497,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262701,
+        "num": 177304,
+        "word": "磨铁已全面停止对京东发货",
+        "onboard_time": 1717210816,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240361,
+        "num": 174337,
+        "word": "泽连斯基停职多名亲美高官",
+        "onboard_time": 1717208177,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 171517,
+        "num": 171517,
+        "word": "不管几岁快乐万岁",
+        "onboard_time": 1717212076,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87914,
+        "num": 171430,
+        "word": "今天的快乐是京东618五折给的",
+        "onboard_time": 1717211056,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 416010,
+        "num": 171215,
+        "word": "月经期为什么会肚子不舒服",
+        "onboard_time": 1717199534,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 409532,
+        "num": 170767,
+        "word": "lululemon在美国卖不动了",
+        "onboard_time": 1717206257,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 368418,
+        "num": 170508,
+        "word": "张若昀下部戏是完美证据",
+        "onboard_time": 1717211657,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320449,
+        "num": 170288,
+        "word": "官方回应11.6元车费被收12元",
+        "onboard_time": 1717209256,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317530,
+        "num": 169809,
+        "word": "眷思量开播",
+        "onboard_time": 1717210337,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290188,
+        "num": 169714,
+        "word": "范闲海棠朵朵抠书式对戏",
+        "onboard_time": 1717207157,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49098,
+        "num": 169504,
+        "word": "被早c晚a硬控的一天",
+        "onboard_time": 1717212017,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 143207,
+        "num": 169033,
+        "word": "发条微博祝自己六一快乐",
+        "onboard_time": 1717210938,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 229930,
+        "num": 168797,
+        "word": "歌手编曲 拉垮",
+        "onboard_time": 1717204096,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220245,
+        "num": 168555,
+        "word": "孙楠 牛油果",
+        "onboard_time": 1717205536,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220360,
+        "num": 168308,
+        "word": "研一开学就拉了坨大的",
+        "onboard_time": 1717211897,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218973,
+        "num": 167908,
+        "word": "五旬老头首战告捷",
+        "onboard_time": 1717201636,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198979,
+        "num": 167639,
+        "word": "张馨予红毯前勒腰",
+        "onboard_time": 1717211778,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167493,
+        "num": 167493,
+        "word": "庆帝叶轻眉 道不同不相为谋",
+        "onboard_time": 1717196893,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162040,
+        "num": 162040,
+        "word": "巴黎世家 小时代照进现实",
+        "onboard_time": 1717209857,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159165,
+        "num": 159165,
+        "word": "向佐护住马嘉祺的头",
+        "onboard_time": 1717211358,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153375,
+        "num": 157323,
+        "word": "主播怒斥黄牛组团扫货加价售卖",
+        "onboard_time": 1717208416,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156330,
+        "num": 156330,
+        "word": "民警收到00后送的锦旗差点没绷住",
+        "onboard_time": 1717198873,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144171,
+        "num": 144171,
+        "word": "小时候和长大了的心态对比",
+        "onboard_time": 1717207516,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138779,
+        "num": 138779,
+        "word": "迪丽热巴玩泡泡仙女棒",
+        "onboard_time": 1717212917,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138287,
+        "num": 138287,
+        "word": "台湾地震",
+        "onboard_time": 1717197854,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135420,
+        "num": 135420,
+        "word": "张钰琪",
+        "onboard_time": 1717206675,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128422,
+        "num": 128422,
+        "word": "蒋敦豪献唱电视剧老家伙插曲",
+        "onboard_time": 1717212617,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128390,
+        "num": 128390,
+        "word": "C罗赛后痛哭",
+        "onboard_time": 1717198215,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127879,
+        "num": 127879,
+        "word": "陶昕然说红毯不是我的战场",
+        "onboard_time": 1717209916,
+        "rank": 44,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 117814,
+        "num": 117814,
+        "word": "断眉真来了",
+        "onboard_time": 1717157720,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117808,
+        "num": 117808,
+        "word": "墨雨云间",
+        "onboard_time": 1717212917,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115979,
+        "num": 115979,
+        "word": "李沁王阳GQ同框",
+        "onboard_time": 1717203797,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112829,
+        "num": 112829,
+        "word": "儿童节文案",
+        "onboard_time": 1717198334,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101845,
+        "num": 101845,
+        "word": "守护乡村孩子的梦想",
+        "onboard_time": 1717206497,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国少年儿童节日快乐#"
+    }
+  }
+}

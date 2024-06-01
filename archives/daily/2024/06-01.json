@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717212172095,
+  "endTime": 1717212986763,
   "band_list": [
     {
       "raw_hot": 2314679,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1398461,
+      "num": 1398461,
+      "word": "靖国神社石柱被红漆涂写英文厕所一词",
+      "onboard_time": 1717210576,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1292541,
       "num": 1292541,
       "word": "汪苏泷 好听",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1143390,
-      "num": 454640,
+      "num": 1108158,
       "word": "孙楠得知自己排名前二的表情",
       "onboard_time": 1717207216,
       "rank": 4,
@@ -123,14 +131,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 723314,
-      "num": 224074,
-      "word": "靖国神社石柱被红漆涂写英文厕所一词",
-      "onboard_time": 1717210576,
-      "rank": 10,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 675861,
       "num": 294770,
       "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
@@ -161,6 +161,14 @@
       "onboard_time": 1717206257,
       "rank": 20,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 595101,
+      "num": 284084,
+      "word": "你好星期六全员晒童年照",
+      "onboard_time": 1717210637,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 577501,
@@ -235,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 471362,
-      "num": 254401,
-      "word": "你好星期六全员晒童年照",
-      "onboard_time": 1717210637,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 455801,
       "num": 221034,
       "word": "迪丽热巴六月行程图",
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384912,
+      "num": 201348,
+      "word": "墨雨云间 渣男",
+      "onboard_time": 1717210637,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374342,
       "num": 374342,
       "word": "孙楠 牛油果",
@@ -299,11 +307,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368418,
+      "num": 199007,
+      "word": "张若昀下部戏是完美证据",
+      "onboard_time": 1717211657,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367144,
       "num": 281983,
       "word": "王一博王阳都报名了",
       "onboard_time": 1717143797,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 350023,
+      "num": 198168,
+      "word": "梦中的那片海未公开剧照",
+      "onboard_time": 1717211838,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317530,
+      "num": 213297,
+      "word": "眷思量开播",
+      "onboard_time": 1717210337,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315929,
       "num": 225081,
       "word": "长大后发现妈见打零食更好吃了",
@@ -363,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312862,
-      "num": 213297,
-      "word": "眷思量开播",
-      "onboard_time": 1717210337,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 308083,
       "num": 280447,
       "word": "歌手直播",
@@ -384,14 +408,6 @@
       "word": "五竹的血是金色的",
       "onboard_time": 1717177453,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 287623,
-      "num": 201348,
-      "word": "墨雨云间 渣男",
-      "onboard_time": 1717210637,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -435,20 +451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263090,
-      "num": 199007,
-      "word": "张若昀下部戏是完美证据",
-      "onboard_time": 1717211657,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 262701,
+      "num": 208616,
+      "word": "磨铁已全面停止对京东发货",
+      "onboard_time": 1717210816,
+      "rank": 17,
+      "category": "互联网"
     },
     {
-      "raw_hot": 259587,
-      "num": 198168,
-      "word": "梦中的那片海未公开剧照",
-      "onboard_time": 1717211838,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 257547,
+      "num": 257547,
+      "word": "台风",
+      "onboard_time": 1717211718,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254277,
@@ -475,14 +491,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 245184,
-      "num": 208616,
-      "word": "磨铁已全面停止对京东发货",
-      "onboard_time": 1717210816,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 235820,
       "num": 297095,
       "word": "2024高考试卷押运现场",
@@ -497,6 +505,14 @@
       "onboard_time": 1717171879,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 220360,
+      "num": 168308,
+      "word": "研一开学就拉了坨大的",
+      "onboard_time": 1717211897,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 216713,
@@ -531,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208323,
-      "num": 208323,
-      "word": "台风",
-      "onboard_time": 1717211718,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206190,
       "num": 254047,
       "word": "汪苏泷看到热搜了",
@@ -563,12 +571,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 200111,
+      "num": 200111,
+      "word": "被小朋友讲的道理教育了",
+      "onboard_time": 1717210398,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199555,
       "num": 252367,
       "word": "陈楚生慵懒唱腔",
       "onboard_time": 1717171459,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198979,
+      "num": 167639,
+      "word": "张馨予红毯前勒腰",
+      "onboard_time": 1717211778,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198692,
@@ -635,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171517,
+      "num": 171517,
+      "word": "不管几岁快乐万岁",
+      "onboard_time": 1717212076,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170409,
       "num": 170409,
       "word": "六月狗屎运最旺的星座",
@@ -683,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159742,
+      "num": 1162060,
+      "word": "祝大朋友小朋友节日快乐",
+      "onboard_time": 1717211657,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159344,
       "num": 159344,
       "word": "张杰饭撒",
@@ -691,16 +731,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158030,
-      "num": 158030,
-      "word": "研一开学就拉了坨大的",
-      "onboard_time": 1717211897,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 155190,
-      "num": 155190,
+      "raw_hot": 159165,
+      "num": 159165,
       "word": "向佐护住马嘉祺的头",
       "onboard_time": 1717211358,
       "rank": 36,
@@ -747,12 +779,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148014,
-      "num": 138064,
-      "word": "张馨予红毯前勒腰",
-      "onboard_time": 1717211778,
-      "rank": 40,
-      "category": "作品衍生,时尚"
+      "raw_hot": 143207,
+      "num": 226934,
+      "word": "发条微博祝自己六一快乐",
+      "onboard_time": 1717210938,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 140936,
@@ -763,12 +795,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 138988,
-      "num": 414953,
-      "word": "祝大朋友小朋友节日快乐",
-      "onboard_time": 1717211657,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 138779,
+      "num": 138779,
+      "word": "迪丽热巴玩泡泡仙女棒",
+      "onboard_time": 1717212917,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 137041,
@@ -811,6 +843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128422,
+      "num": 128422,
+      "word": "蒋敦豪献唱电视剧老家伙插曲",
+      "onboard_time": 1717212617,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127808,
       "num": 127808,
       "word": "半夜陪主人上厕所的小狗",
@@ -851,12 +891,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117156,
-      "num": 117156,
-      "word": "不管几岁快乐万岁",
-      "onboard_time": 1717212076,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 117808,
+      "num": 117808,
+      "word": "墨雨云间",
+      "onboard_time": 1717212917,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 117096,
@@ -939,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87914,
+      "num": 207146,
+      "word": "今天的快乐是京东618五折给的",
+      "onboard_time": 1717211056,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87584,
       "num": 87584,
       "word": "各位小朋友大朋友节日快乐",
@@ -977,14 +1025,6 @@
       "onboard_time": 1717196834,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81603,
-      "num": 226934,
-      "word": "发条微博祝自己六一快乐",
-      "onboard_time": 1717210938,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 80078,
@@ -1043,14 +1083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67138,
-      "num": 207146,
-      "word": "今天的快乐是京东618五折给的",
-      "onboard_time": 1717211056,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 65360,
       "num": 375190,
       "word": "为什么免疫力差要多喝鲜奶",
@@ -1083,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49098,
+      "num": 169504,
+      "word": "被早c晚a硬控的一天",
+      "onboard_time": 1717212017,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 47316,
       "num": 64697,
       "word": "严浩翔掀帘子偶像剧",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1717209377,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42441,
-      "num": 111558,
-      "word": "被早c晚a硬控的一天",
-      "onboard_time": 1717212017,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 38787,
