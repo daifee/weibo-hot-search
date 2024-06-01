@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717246069688,
+  "endTime": 1717247931393,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1435,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4046722,
+      "num": 401583,
+      "word": "王阳老婆发声",
+      "onboard_time": 1717244958,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4033714,
       "num": 3966659,
       "word": "杨波报平安",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1714882879,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3066066,
-      "num": 3066066,
-      "word": "国足4比1新加坡",
-      "onboard_time": 1711461861,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

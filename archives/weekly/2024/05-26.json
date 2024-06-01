@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717246069688,
+  "endTime": 1717247931393,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4046722,
+      "num": 401583,
+      "word": "王阳老婆发声",
+      "onboard_time": 1717244958,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3200623,
       "num": 3200623,
       "word": "孙楠退赛 汪涵表情",
@@ -73,14 +81,6 @@
       "onboard_time": 1717163007,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2924598,
-      "num": 401583,
-      "word": "王阳老婆发声",
-      "onboard_time": 1717244958,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 2794414,
@@ -665,6 +665,14 @@
       "onboard_time": 1717128919,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1427896,
+      "num": 1427896,
+      "word": "王俊凯又幸福了",
+      "onboard_time": 1717245679,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 1418586,
@@ -1595,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 876432,
+      "num": 876432,
+      "word": "董明珠称打工人想要休闲可以辞职",
+      "onboard_time": 1717245079,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873819,
       "num": 873819,
       "word": "陈奕迅含泪致歉",
@@ -1993,6 +2009,14 @@
       "onboard_time": 1716688157,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 788220,
+      "num": 788220,
+      "word": "中国女排3比0泰国女排",
+      "onboard_time": 1717247359,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 785358,
@@ -4275,14 +4299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471704,
-      "num": 471704,
-      "word": "王俊凯又幸福了",
-      "onboard_time": 1717245679,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 471180,
       "num": 471180,
       "word": "福宝居家直播",
@@ -4977,6 +4993,14 @@
       "onboard_time": 1717239076,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416195,
+      "num": 322817,
+      "word": "王阳说没有待播的戏后面就没饭吃",
+      "onboard_time": 1717247419,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 416061,
@@ -6211,6 +6235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 329452,
+      "num": 329452,
+      "word": "逆水寒",
+      "onboard_time": 1716649880,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 329436,
       "num": 329436,
       "word": "南方人尝试吃甜粽belike",
@@ -6345,6 +6377,14 @@
       "onboard_time": 1716806358,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322415,
+      "num": 322415,
+      "word": "张杰演唱会儿童节撒糖",
+      "onboard_time": 1717243399,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 321898,
@@ -6675,14 +6715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304759,
-      "num": 304759,
-      "word": "逆水寒",
-      "onboard_time": 1716649880,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 304674,
       "num": 118132,
       "word": "小米高管抽奖抽中爱国网友",
@@ -6995,6 +7027,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 289318,
+      "num": 238909,
+      "word": "新华社六一发王一博",
+      "onboard_time": 1717247779,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289188,
       "num": 262057,
       "word": "黑袋装卫生巾已经成为过去了",
@@ -7033,6 +7073,14 @@
       "onboard_time": 1716780500,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287180,
+      "num": 236487,
+      "word": "1个月怎么瘦了15斤",
+      "onboard_time": 1717245918,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 287170,
@@ -7219,14 +7267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276287,
-      "num": 269720,
-      "word": "董明珠称打工人想要休闲可以辞职",
-      "onboard_time": 1717245079,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275737,
       "num": 275737,
       "word": "3000元拿下家庭健身房是个什么水平",
@@ -7273,6 +7313,14 @@
       "onboard_time": 1716851595,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 273998,
+      "num": 228598,
+      "word": "王俊凯周杰伦最美湘遇",
+      "onboard_time": 1717247659,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 273992,
@@ -7481,14 +7529,6 @@
       "onboard_time": 1717137197,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264328,
-      "num": 264328,
-      "word": "张杰演唱会儿童节撒糖",
-      "onboard_time": 1717243399,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 264221,
@@ -8731,6 +8771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224611,
+      "num": 224611,
+      "word": "狐妖月红篇落跑甜心",
+      "onboard_time": 1717244778,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224562,
       "num": 224562,
       "word": "老头杯",
@@ -8745,14 +8793,6 @@
       "onboard_time": 1716648501,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 224401,
-      "num": 224401,
-      "word": "狐妖月红篇落跑甜心",
-      "onboard_time": 1717244778,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 224347,
@@ -10451,6 +10491,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194931,
+      "num": 194931,
+      "word": "汪苏泷王心凌甜妹合体",
+      "onboard_time": 1717247359,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 194720,
+      "num": 194720,
+      "word": "WTT重庆冠军赛2024",
+      "onboard_time": 1717247119,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194715,
       "num": 194715,
       "word": "吴宇恒客串段嘉许",
@@ -11187,6 +11243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185905,
+      "num": 185905,
+      "word": "微信聊天最惹人反感的4种行为",
+      "onboard_time": 1717247719,
+      "rank": 36,
+      "category": "互联网,情感"
+    },
+    {
       "raw_hot": 185797,
       "num": 185797,
       "word": "卓沅 又是一年丰收时",
@@ -11795,6 +11859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176040,
+      "num": 176040,
+      "word": "王曼昱3比0平野美宇",
+      "onboard_time": 1717246638,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175888,
       "num": 373811,
       "word": "也门胡塞武装称袭击美军航母",
@@ -12363,6 +12435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166992,
+      "num": 166992,
+      "word": "上班的胖真的很难减",
+      "onboard_time": 1717244538,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166960,
       "num": 166960,
       "word": "林俊杰嘉宾胡彦斌",
@@ -12899,6 +12979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159534,
+      "num": 159534,
+      "word": "WBG对战NIP",
+      "onboard_time": 1717247839,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159441,
       "num": 159441,
       "word": "烟花少年阵容官宣",
@@ -13235,20 +13323,20 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 154679,
-      "num": 154679,
-      "word": "1个月怎么瘦了15斤",
-      "onboard_time": 1717245918,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 154642,
       "num": 146023,
       "word": "张馨予建模脸",
       "onboard_time": 1716699979,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154571,
+      "num": 154571,
+      "word": "EDG告别上海大师赛",
+      "onboard_time": 1717247359,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 154418,
@@ -13443,6 +13531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151981,
+      "num": 151981,
+      "word": "又开始进入范闲戒断期了",
+      "onboard_time": 1717246638,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151963,
       "num": 151963,
       "word": "沈月拍了李嘉琦徐志胜",
@@ -13577,14 +13673,6 @@
       "onboard_time": 1716947718,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150543,
-      "num": 150543,
-      "word": "上班的胖真的很难减",
-      "onboard_time": 1717244538,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 150493,
@@ -13769,6 +13857,14 @@
       "onboard_time": 1716967457,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 148464,
+      "num": 148464,
+      "word": "王启年出的题田雨给了正解",
+      "onboard_time": 1717247059,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 148452,
@@ -14617,6 +14713,14 @@
       "onboard_time": 1717124777,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 136711,
+      "num": 136711,
+      "word": "雷军 车展",
+      "onboard_time": 1717247539,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 136676,
@@ -19227,6 +19331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42672,
+      "num": 814528,
+      "word": "假如与中华5000年文明对话",
+      "onboard_time": 1717246398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42605,
       "num": 442931,
       "word": "易烊千玺新短片没有一句台词",
@@ -19611,6 +19723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 31931,
+      "num": 332043,
+      "word": "没有比和妈妈见面更好的儿童节礼物",
+      "onboard_time": 1717246099,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31866,
       "num": 362663,
       "word": "被孩子看到姥姥姥爷的笑声治愈了",
@@ -19689,6 +19809,14 @@
       "onboard_time": 1716670750,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29139,
+      "num": 232509,
+      "word": "穿越星河的国风有多美",
+      "onboard_time": 1717246698,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28474,
@@ -20193,6 +20321,14 @@
       "onboard_time": 1716701000,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 8770,
+      "num": 323097,
+      "word": "天猫618跟着杨迪看榜买好物",
+      "onboard_time": 1717247238,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 7316,
