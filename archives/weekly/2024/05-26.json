@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717241743556,
+  "endTime": 1717245208503,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -393,6 +393,14 @@
       "onboard_time": 1717235898,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1681444,
+      "num": 1681444,
+      "word": "庆余年看不了",
+      "onboard_time": 1717242616,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1679049,
@@ -2020,7 +2028,7 @@
     },
     {
       "raw_hot": 770354,
-      "num": 220107,
+      "num": 221129,
       "word": "长期吃猪油身体都怎么样了",
       "onboard_time": 1717228158,
       "rank": 23,
@@ -2129,6 +2137,14 @@
       "onboard_time": 1716867738,
       "rank": 4,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 745417,
+      "num": 745417,
+      "word": "建议把干发帽换成运动毛巾",
+      "onboard_time": 1717240998,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 745021,
@@ -2428,7 +2444,7 @@
     },
     {
       "raw_hot": 679701,
-      "num": 361533,
+      "num": 371059,
       "word": "孙卓妈妈感谢学校保护孩子隐私",
       "onboard_time": 1717238356,
       "rank": 12,
@@ -3595,6 +3611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 520876,
+      "num": 520876,
+      "word": "杨紫 女性一定要有自己的事业",
+      "onboard_time": 1717240338,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 520647,
       "num": 441802,
       "word": "范闲是我生的",
@@ -3984,6 +4008,14 @@
       "word": "鹿晗小英打牛",
       "onboard_time": 1716906439,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 494636,
+      "num": 401947,
+      "word": "宁艺卓在综艺上唱heya",
+      "onboard_time": 1717241417,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -4827,6 +4859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421730,
+      "num": 401583,
+      "word": "王阳老婆发声",
+      "onboard_time": 1717244958,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421137,
       "num": 421137,
       "word": "为了上岸要报考偏远地区公务员吗",
@@ -4921,6 +4961,14 @@
       "onboard_time": 1717048157,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 416421,
+      "num": 523966,
+      "word": "中国女排vs泰国女排",
+      "onboard_time": 1717239076,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 416061,
@@ -5089,6 +5137,14 @@
       "onboard_time": 1717210816,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 400862,
+      "num": 400862,
+      "word": "王楚钦3比2松岛辉空",
+      "onboard_time": 1717243278,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 400108,
@@ -5497,14 +5553,6 @@
       "onboard_time": 1716795438,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377005,
-      "num": 221346,
-      "word": "杨紫 女性一定要有自己的事业",
-      "onboard_time": 1717240338,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 376511,
@@ -6315,6 +6363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 320821,
+      "num": 320821,
+      "word": "吕珍九胖若两人",
+      "onboard_time": 1717240638,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320772,
       "num": 320772,
       "word": "奔跑吧",
@@ -6337,14 +6393,6 @@
       "onboard_time": 1716693199,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320259,
-      "num": 320259,
-      "word": "中国女排vs泰国女排",
-      "onboard_time": 1717239076,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 319891,
@@ -6379,6 +6427,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 317824,
+      "num": 270526,
+      "word": "上亿毛孩子的婚事何去何从",
+      "onboard_time": 1717243577,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317530,
       "num": 213297,
       "word": "眷思量开播",
@@ -6393,14 +6449,6 @@
       "onboard_time": 1717066697,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316065,
-      "num": 316065,
-      "word": "吕珍九胖若两人",
-      "onboard_time": 1717240638,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 315929,
@@ -6761,6 +6809,14 @@
       "onboard_time": 1717109054,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 297232,
+      "num": 297232,
+      "word": "剑网3怒斥黑公关",
+      "onboard_time": 1717243337,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 297202,
@@ -7515,6 +7571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260227,
+      "num": 260227,
+      "word": "张杰演唱会儿童节撒糖",
+      "onboard_time": 1717243399,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259852,
       "num": 435628,
       "word": "老祖宗的顶级审美此刻具象化了",
@@ -8217,14 +8281,6 @@
       "onboard_time": 1716967398,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 235325,
-      "num": 235325,
-      "word": "宁艺卓在综艺上唱heya",
-      "onboard_time": 1717241417,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 235210,
@@ -8955,6 +9011,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 217346,
+      "num": 217346,
+      "word": "朱婷首发登场",
+      "onboard_time": 1717241778,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216932,
       "num": 216932,
       "word": "白玉兰提名过的古偶",
@@ -9169,6 +9233,14 @@
       "onboard_time": 1717057158,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212669,
+      "num": 212669,
+      "word": "狐妖月红篇落跑甜心",
+      "onboard_time": 1717244778,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 212569,
@@ -12019,6 +12091,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 169922,
+      "num": 169922,
+      "word": "郑恺陈赫让王阳承认是叔圈天菜",
+      "onboard_time": 1717243158,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169805,
       "num": 169805,
       "word": "胃肠道癌症6个早期征兆",
@@ -12073,6 +12153,14 @@
       "onboard_time": 1716811337,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169015,
+      "num": 169015,
+      "word": "剑网3咸鱼",
+      "onboard_time": 1717244958,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 168970,
@@ -12513,14 +12601,6 @@
       "onboard_time": 1716800298,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163774,
-      "num": 155457,
-      "word": "建议把干发帽换成运动毛巾",
-      "onboard_time": 1717240998,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 163715,
@@ -13515,6 +13595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 149569,
+      "num": 149569,
+      "word": "imp说线下换Uzi去",
+      "onboard_time": 1717244177,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149568,
       "num": 149568,
       "word": "没有人天生应该对你好 爹例外",
@@ -13819,6 +13907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145307,
+      "num": 145307,
+      "word": "没想到鸡也可以当宠物",
+      "onboard_time": 1717244118,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144963,
       "num": 144963,
       "word": "龚俊cue顺手牵杨",
@@ -13867,6 +13963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144334,
+      "num": 144334,
+      "word": "中国女排1比0泰国女排",
+      "onboard_time": 1717244118,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144322,
       "num": 120305,
       "word": "济南纪检监察部门已收到葛女士举报",
@@ -13899,20 +14003,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143869,
+      "num": 143869,
+      "word": "戚薇bangbang",
+      "onboard_time": 1717240158,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143496,
       "num": 143496,
       "word": "范闲自己淋过雨要给天下撑伞",
       "onboard_time": 1716682097,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143429,
-      "num": 143429,
-      "word": "戚薇bangbang",
-      "onboard_time": 1717240158,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 143416,
@@ -15419,6 +15523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126451,
+      "num": 126451,
+      "word": "上班的胖真的很难减",
+      "onboard_time": 1717244538,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126450,
       "num": 126450,
       "word": "为啥早餐店里的油条要两根面一起炸",
@@ -15883,12 +15995,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 120773,
+      "num": 120773,
+      "word": "董明珠称打工人想要休闲可以辞职",
+      "onboard_time": 1717245079,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120596,
       "num": 120596,
       "word": "张雪峰谈高考报名人数增加",
       "onboard_time": 1717149918,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 120594,
+      "num": 402202,
+      "word": "当中国军人说起战火中的儿童",
+      "onboard_time": 1717244236,
+      "rank": 9,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 120510,
@@ -16169,6 +16297,14 @@
       "onboard_time": 1716897798,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117332,
+      "num": 117332,
+      "word": "射手座藏起来的一面",
+      "onboard_time": 1717244118,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 117281,
@@ -17163,6 +17299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101865,
+      "num": 383429,
+      "word": "你还是那个闪闪发光的小孩",
+      "onboard_time": 1717240458,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101345,
       "num": 212006,
       "word": "冻死在东北的夏天我心有不甘",
@@ -17425,14 +17569,6 @@
       "onboard_time": 1716703638,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 93632,
-      "num": 383429,
-      "word": "你还是那个闪闪发光的小孩",
-      "onboard_time": 1717240458,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93631,
@@ -18060,7 +18196,7 @@
     },
     {
       "raw_hot": 73563,
-      "num": 210977,
+      "num": 799986,
       "word": "中国古代的小朋友都在玩什么",
       "onboard_time": 1717229777,
       "rank": 21,

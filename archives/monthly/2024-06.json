@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717241743556,
+  "endTime": 1717245208503,
   "band_list": [
     {
       "raw_hot": 2314679,
@@ -41,6 +41,14 @@
       "onboard_time": 1717157720,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1681444,
+      "num": 1681444,
+      "word": "庆余年看不了",
+      "onboard_time": 1717242616,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1492924,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 770354,
-      "num": 220107,
+      "num": 221129,
       "word": "长期吃猪油身体都怎么样了",
       "onboard_time": 1717228158,
       "rank": 23,
@@ -243,6 +251,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 745417,
+      "num": 745417,
+      "word": "建议把干发帽换成运动毛巾",
+      "onboard_time": 1717240998,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 739761,
       "num": 256029,
       "word": "月经期为什么会肚子不舒服",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 679701,
-      "num": 361533,
+      "num": 371059,
       "word": "孙卓妈妈感谢学校保护孩子隐私",
       "onboard_time": 1717238356,
       "rank": 12,
@@ -395,6 +411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 520876,
+      "num": 520876,
+      "word": "杨紫 女性一定要有自己的事业",
+      "onboard_time": 1717240338,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 500014,
       "num": 500014,
       "word": "王雪峰被控受贿8407万余元",
@@ -408,6 +432,14 @@
       "word": "那英好奇孙楠的双眼皮",
       "onboard_time": 1717214357,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 494636,
+      "num": 401947,
+      "word": "宁艺卓在综艺上唱heya",
+      "onboard_time": 1717241417,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -515,12 +547,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 421730,
+      "num": 401583,
+      "word": "王阳老婆发声",
+      "onboard_time": 1717244958,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417816,
       "num": 303929,
       "word": "艾森豪威尔号航母",
       "onboard_time": 1717168041,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 416421,
+      "num": 523966,
+      "word": "中国女排vs泰国女排",
+      "onboard_time": 1717239076,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 416061,
@@ -537,6 +585,14 @@
       "onboard_time": 1717210816,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 400862,
+      "num": 400862,
+      "word": "王楚钦3比2松岛辉空",
+      "onboard_time": 1717243278,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 394481,
@@ -593,14 +649,6 @@
       "onboard_time": 1717211897,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 377005,
-      "num": 221346,
-      "word": "杨紫 女性一定要有自己的事业",
-      "onboard_time": 1717240338,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 374342,
@@ -755,12 +803,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 320259,
-      "num": 320259,
-      "word": "中国女排vs泰国女排",
-      "onboard_time": 1717239076,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 320821,
+      "num": 320821,
+      "word": "吕珍九胖若两人",
+      "onboard_time": 1717240638,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 317824,
+      "num": 270526,
+      "word": "上亿毛孩子的婚事何去何从",
+      "onboard_time": 1717243577,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317530,
@@ -769,14 +825,6 @@
       "onboard_time": 1717210337,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 316065,
-      "num": 316065,
-      "word": "吕珍九胖若两人",
-      "onboard_time": 1717240638,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 315929,
@@ -817,6 +865,14 @@
       "onboard_time": 1717227677,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297232,
+      "num": 297232,
+      "word": "剑网3怒斥黑公关",
+      "onboard_time": 1717243337,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 297202,
@@ -931,6 +987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260227,
+      "num": 260227,
+      "word": "张杰演唱会儿童节撒糖",
+      "onboard_time": 1717243399,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257547,
       "num": 257547,
       "word": "台风",
@@ -995,14 +1059,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 235325,
-      "num": 235325,
-      "word": "宁艺卓在综艺上唱heya",
-      "onboard_time": 1717241417,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 231828,
       "num": 200078,
       "word": "陈赫录节目爆改光头强",
@@ -1043,6 +1099,14 @@
       "category": "社会正能量,动漫"
     },
     {
+      "raw_hot": 217346,
+      "num": 217346,
+      "word": "朱婷首发登场",
+      "onboard_time": 1717241778,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216713,
       "num": 192050,
       "word": "王安宇露背走红毯",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1717171279,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212669,
+      "num": 212669,
+      "word": "狐妖月红篇落跑甜心",
+      "onboard_time": 1717244778,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 212424,
@@ -1379,6 +1451,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169922,
+      "num": 169922,
+      "word": "郑恺陈赫让王阳承认是叔圈天菜",
+      "onboard_time": 1717243158,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169015,
+      "num": 169015,
+      "word": "剑网3咸鱼",
+      "onboard_time": 1717244958,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168954,
       "num": 168954,
       "word": "古天乐谈20岁进教管所",
@@ -1433,14 +1521,6 @@
       "onboard_time": 1717228876,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 163774,
-      "num": 155457,
-      "word": "建议把干发帽换成运动毛巾",
-      "onboard_time": 1717240998,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 163679,
@@ -1627,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149569,
+      "num": 149569,
+      "word": "imp说线下换Uzi去",
+      "onboard_time": 1717244177,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149435,
       "num": 149435,
       "word": "陈梦顶住了",
@@ -1659,8 +1747,24 @@
       "category": "美食"
     },
     {
-      "raw_hot": 143429,
-      "num": 143429,
+      "raw_hot": 145307,
+      "num": 145307,
+      "word": "没想到鸡也可以当宠物",
+      "onboard_time": 1717244118,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 144334,
+      "num": 144334,
+      "word": "中国女排1比0泰国女排",
+      "onboard_time": 1717244118,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143869,
+      "num": 143869,
       "word": "戚薇bangbang",
       "onboard_time": 1717240158,
       "rank": 35,
@@ -1851,6 +1955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126451,
+      "num": 126451,
+      "word": "上班的胖真的很难减",
+      "onboard_time": 1717244538,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124508,
       "num": 124508,
       "word": "小鬼魏大勋毛不易郭麒麟尹正合拍",
@@ -1907,6 +2019,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120773,
+      "num": 120773,
+      "word": "董明珠称打工人想要休闲可以辞职",
+      "onboard_time": 1717245079,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120594,
+      "num": 402202,
+      "word": "当中国军人说起战火中的儿童",
+      "onboard_time": 1717244236,
+      "rank": 9,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 119129,
       "num": 253764,
       "word": "华为发布会",
@@ -1920,6 +2048,22 @@
       "word": "世界上最清澈的两个群体相遇了",
       "onboard_time": 1717198515,
       "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 118508,
+      "num": 118508,
+      "word": "庆余年2",
+      "onboard_time": 1717242677,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117332,
+      "num": 117332,
+      "word": "射手座藏起来的一面",
+      "onboard_time": 1717244118,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -2123,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101865,
+      "num": 383429,
+      "word": "你还是那个闪闪发光的小孩",
+      "onboard_time": 1717240458,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98646,
       "num": 98646,
       "word": "石宇奇连救7个局点",
@@ -2153,14 +2305,6 @@
       "onboard_time": 1717173616,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93632,
-      "num": 383429,
-      "word": "你还是那个闪闪发光的小孩",
-      "onboard_time": 1717240458,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88530,
@@ -2308,7 +2452,7 @@
     },
     {
       "raw_hot": 73563,
-      "num": 210977,
+      "num": 799986,
       "word": "中国古代的小朋友都在玩什么",
       "onboard_time": 1717229777,
       "rank": 21,
