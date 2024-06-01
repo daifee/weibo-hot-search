@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717262208602,
+  "endTime": 1717263263593,
   "band_list": [
     {
       "raw_hot": 1651343,
@@ -171,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 220849,
+      "num": 220849,
+      "word": "朱一龙 我会少说多做",
+      "onboard_time": 1717260736,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209234,
       "num": 166687,
       "word": "新华社六一发王一博",
@@ -193,14 +201,6 @@
       "onboard_time": 1717245918,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 195918,
-      "num": 195918,
-      "word": "朱一龙 我会少说多做",
-      "onboard_time": 1717260736,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 193007,
@@ -435,6 +435,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54514,
+      "num": 54514,
+      "word": "巴勒斯坦",
+      "onboard_time": 1717220897,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 54121,
+      "num": 54121,
+      "word": "多特蒙德vs皇马",
+      "onboard_time": 1717254680,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38207,
       "num": 751573,
       "word": "假如与中华5000年文明对话",
@@ -451,7 +467,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12503,
+      "raw_hot": 18257,
       "num": 259988,
       "word": "校长六一表演唱跳连劈两个叉",
       "onboard_time": 1717260976,
@@ -459,7 +475,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10032,
+      "raw_hot": 11543,
+      "num": 220991,
+      "word": "爸爸带娃打针紧张到全程闭眼",
+      "onboard_time": 1717262834,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10550,
       "num": 499264,
       "word": "不管几岁快乐万岁",
       "onboard_time": 1717212076,
