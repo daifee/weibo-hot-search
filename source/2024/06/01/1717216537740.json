@@ -1,0 +1,410 @@
+{
+  "runTime": 1717216537740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1642151,
+        "num": 1642151,
+        "word": "靖国神社石柱被红漆涂写英文厕所一词",
+        "onboard_time": 1717210576,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1610109,
+        "num": 1610109,
+        "word": "歌手 艾薇儿",
+        "onboard_time": 1717208478,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32116,
+        "num": 1419718,
+        "word": "万千气象看广东",
+        "onboard_time": 1717209377,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1282709,
+        "num": 1282709,
+        "word": "亚当说他很快就会回来",
+        "onboard_time": 1717213997,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488429,
+        "num": 488429,
+        "word": "中方确认不参加乌克兰问题和平峰会",
+        "onboard_time": 1717163726,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 340079,
+        "num": 340079,
+        "word": "女排教练",
+        "onboard_time": 1717213816,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854073,
+        "num": 325355,
+        "word": "孙楠得知自己排名前二的表情",
+        "onboard_time": 1717207216,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732803,
+        "num": 310149,
+        "word": "汪苏泷排名越来越安全了",
+        "onboard_time": 1717204636,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293710,
+        "num": 293710,
+        "word": "发条微博祝自己六一快乐",
+        "onboard_time": 1717210938,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 202616,
+        "num": 202616,
+        "word": "台风",
+        "onboard_time": 1717211718,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401225,
+        "num": 202507,
+        "word": "磨铁已全面停止对京东发货",
+        "onboard_time": 1717210816,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 488157,
+        "num": 202480,
+        "word": "那英好奇孙楠的双眼皮",
+        "onboard_time": 1717214357,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379319,
+        "num": 202375,
+        "word": "研一开学就拉了坨大的",
+        "onboard_time": 1717211897,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306442,
+        "num": 202158,
+        "word": "墨雨云间 渣男",
+        "onboard_time": 1717210637,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305838,
+        "num": 202078,
+        "word": "你好星期六全员晒童年照",
+        "onboard_time": 1717210637,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215732,
+        "num": 201943,
+        "word": "长大后发现妈见打零食更好吃了",
+        "onboard_time": 1717206497,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340541,
+        "num": 201809,
+        "word": "孙楠 熹妃回宫",
+        "onboard_time": 1717204217,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176168,
+        "num": 201732,
+        "word": "二建考试",
+        "onboard_time": 1717215918,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39943,
+        "num": 201650,
+        "word": "不被定义的穿搭是我的盔甲",
+        "onboard_time": 1717214118,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175666,
+        "num": 201511,
+        "word": "六一儿童节",
+        "onboard_time": 1717197614,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34157,
+        "num": 201363,
+        "word": "遇事不决选大众",
+        "onboard_time": 1717214957,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 417829,
+        "num": 201214,
+        "word": "张若昀下部戏是完美证据",
+        "onboard_time": 1717211657,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61928,
+        "num": 201100,
+        "word": "西湖荷花在巴黎开了",
+        "onboard_time": 1717214118,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 382744,
+        "num": 201032,
+        "word": "月经期为什么会肚子不舒服",
+        "onboard_time": 1717199534,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300876,
+        "num": 200875,
+        "word": "梦中的那片海未公开剧照",
+        "onboard_time": 1717211838,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138136,
+        "num": 200744,
+        "word": "哪部动画片属于你的童年",
+        "onboard_time": 1717214536,
+        "rank": 25,
+        "category": "社会正能量,动漫"
+      },
+      {
+        "raw_hot": 284760,
+        "num": 200698,
+        "word": "迪丽热巴六月行程图",
+        "onboard_time": 1717211358,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254380,
+        "num": 200581,
+        "word": "lululemon在美国卖不动了",
+        "onboard_time": 1717206257,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 224960,
+        "num": 200418,
+        "word": "东方甄选直播间画风变了",
+        "onboard_time": 1717215497,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 224876,
+        "num": 200358,
+        "word": "歌手编曲 拉垮",
+        "onboard_time": 1717204096,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19711,
+        "num": 200219,
+        "word": "程潇教你早C晚A新招数",
+        "onboard_time": 1717215977,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222561,
+        "num": 200078,
+        "word": "陈赫录节目爆改光头强",
+        "onboard_time": 1717214898,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200020,
+        "num": 200020,
+        "word": "宋亚轩给鼠标录第一视角",
+        "onboard_time": 1717215977,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188335,
+        "num": 188335,
+        "word": "五哈",
+        "onboard_time": 1717215918,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186236,
+        "num": 186236,
+        "word": "欧豪曾在节目里被打出鼻血",
+        "onboard_time": 1717216336,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181961,
+        "num": 181961,
+        "word": "五旬老头首战告捷",
+        "onboard_time": 1717201636,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177931,
+        "num": 177931,
+        "word": "官方回应11.6元车费被收12元",
+        "onboard_time": 1717209256,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166732,
+        "num": 166732,
+        "word": "为什么大学生都爱上了过家家",
+        "onboard_time": 1717213458,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164687,
+        "num": 164687,
+        "word": "文淇 注意一下你女明星的形象",
+        "onboard_time": 1717214536,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157674,
+        "num": 157674,
+        "word": "张馨予红毯前勒腰",
+        "onboard_time": 1717211778,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155336,
+        "num": 155336,
+        "word": "眷思量开播",
+        "onboard_time": 1717210337,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153687,
+        "num": 153687,
+        "word": "营养师称适量咖啡因对身体有好处",
+        "onboard_time": 1717215977,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142460,
+        "num": 142460,
+        "word": "6岁孩子打激素长高后频繁生病",
+        "onboard_time": 1717216277,
+        "rank": 42,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 141890,
+        "num": 141890,
+        "word": "范闲海棠朵朵抠书式对戏",
+        "onboard_time": 1717207157,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132268,
+        "num": 132268,
+        "word": "拜登称以色列提出加沙停火新提议",
+        "onboard_time": 1717215677,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126559,
+        "num": 126559,
+        "word": "杨洋i人e狗",
+        "onboard_time": 1717213877,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121605,
+        "num": 121605,
+        "word": "迪丽热巴玩泡泡仙女棒",
+        "onboard_time": 1717212917,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120896,
+        "num": 120896,
+        "word": "泥鳅钻豆腐是假的",
+        "onboard_time": 1717213458,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120375,
+        "num": 120375,
+        "word": "向佐护住马嘉祺的头",
+        "onboard_time": 1717211358,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115482,
+        "num": 115482,
+        "word": "加沙儿童六一得到的不是礼物而是轰炸",
+        "onboard_time": 1717203376,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国少年儿童节日快乐#"
+    }
+  }
+}

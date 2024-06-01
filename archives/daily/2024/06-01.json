@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717215741835,
+  "endTime": 1717216537740,
   "band_list": [
     {
       "raw_hot": 2314679,
@@ -51,8 +51,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1243095,
-      "num": 481060,
+      "raw_hot": 1282709,
+      "num": 1282709,
       "word": "亚当说他很快就会回来",
       "onboard_time": 1717213997,
       "rank": 3,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 481524,
-      "num": 199007,
+      "num": 201214,
       "word": "张若昀下部戏是完美证据",
       "onboard_time": 1717211657,
       "rank": 24,
@@ -307,7 +307,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401101,
+      "raw_hot": 401225,
       "num": 208616,
       "word": "磨铁已全面停止对京东发货",
       "onboard_time": 1717210816,
@@ -321,6 +321,14 @@
       "onboard_time": 1717210637,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379319,
+      "num": 202375,
+      "word": "研一开学就拉了坨大的",
+      "onboard_time": 1717211897,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 374342,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 350023,
-      "num": 198362,
+      "num": 200875,
       "word": "梦中的那片海未公开剧照",
       "onboard_time": 1717211838,
       "rank": 25,
@@ -411,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 316519,
-      "num": 196417,
-      "word": "研一开学就拉了坨大的",
-      "onboard_time": 1717211897,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 315929,
       "num": 225081,
       "word": "长大后发现妈见打零食更好吃了",
@@ -449,6 +449,14 @@
       "onboard_time": 1717177453,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293710,
+      "num": 293710,
+      "word": "发条微博祝自己六一快乐",
+      "onboard_time": 1717210938,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 284408,
@@ -489,14 +497,6 @@
       "onboard_time": 1717164388,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264667,
-      "num": 264667,
-      "word": "发条微博祝自己六一快乐",
-      "onboard_time": 1717210938,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 257547,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 231828,
-      "num": 190258,
+      "num": 200078,
       "word": "陈赫录节目爆改光头强",
       "onboard_time": 1717214898,
       "rank": 25,
@@ -553,6 +553,14 @@
       "onboard_time": 1717171879,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 224960,
+      "num": 200418,
+      "word": "东方甄选直播间画风变了",
+      "onboard_time": 1717215497,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 216713,
@@ -619,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200020,
+      "num": 200020,
+      "word": "宋亚轩给鼠标录第一视角",
+      "onboard_time": 1717215977,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199555,
       "num": 252367,
       "word": "陈楚生慵懒唱腔",
@@ -667,12 +683,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188255,
-      "num": 188255,
-      "word": "东方甄选直播间画风变了",
-      "onboard_time": 1717215497,
-      "rank": 31,
-      "category": "互联网"
+      "raw_hot": 188335,
+      "num": 188335,
+      "word": "五哈",
+      "onboard_time": 1717215918,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186236,
+      "num": 186236,
+      "word": "欧豪曾在节目里被打出鼻血",
+      "onboard_time": 1717216336,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 185158,
@@ -715,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176168,
+      "num": 201732,
+      "word": "二建考试",
+      "onboard_time": 1717215918,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 171517,
       "num": 171517,
       "word": "不管几岁快乐万岁",
@@ -745,6 +777,14 @@
       "onboard_time": 1717200256,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166732,
+      "num": 166732,
+      "word": "为什么大学生都爱上了过家家",
+      "onboard_time": 1717213458,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 162436,
@@ -795,20 +835,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154893,
-      "num": 154893,
-      "word": "为什么大学生都爱上了过家家",
-      "onboard_time": 1717213458,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153893,
       "num": 299149,
       "word": "王曼昱VS伊藤美诚",
       "onboard_time": 1717165643,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153687,
+      "num": 153687,
+      "word": "营养师称适量咖啡因对身体有好处",
+      "onboard_time": 1717215977,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152659,
@@ -859,12 +899,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142460,
+      "num": 142460,
+      "word": "6岁孩子打激素长高后频繁生病",
+      "onboard_time": 1717216277,
+      "rank": 42,
+      "category": "健康医疗,母婴育儿"
+    },
+    {
       "raw_hot": 140936,
       "num": 252927,
       "word": "巴勒斯坦",
       "onboard_time": 1717163007,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 138136,
+      "num": 211442,
+      "word": "哪部动画片属于你的童年",
+      "onboard_time": 1717214536,
+      "rank": 9,
+      "category": "社会正能量,动漫"
     },
     {
       "raw_hot": 137041,
@@ -897,6 +953,14 @@
       "onboard_time": 1717203376,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132268,
+      "num": 132268,
+      "word": "拜登称以色列提出加沙停火新提议",
+      "onboard_time": 1717215677,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 130483,
@@ -1059,14 +1123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 88481,
-      "num": 88481,
-      "word": "拜登称以色列提出加沙停火新提议",
-      "onboard_time": 1717215677,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 87914,
       "num": 207146,
       "word": "今天的快乐是京东618五折给的",
@@ -1121,14 +1177,6 @@
       "onboard_time": 1717196893,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78605,
-      "num": 211442,
-      "word": "哪部动画片属于你的童年",
-      "onboard_time": 1717214536,
-      "rank": 9,
-      "category": "社会正能量,动漫"
     },
     {
       "raw_hot": 76893,
@@ -1195,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61928,
+      "num": 201100,
+      "word": "西湖荷花在巴黎开了",
+      "onboard_time": 1717214118,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 59903,
       "num": 284758,
       "word": "奶凶的幼儿园小朋友滑最猛的龙舟",
@@ -1228,11 +1284,19 @@
     },
     {
       "raw_hot": 45933,
-      "num": 460982,
+      "num": 1419718,
       "word": "万千气象看广东",
       "onboard_time": 1717209377,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39943,
+      "num": 201650,
+      "word": "不被定义的穿搭是我的盔甲",
+      "onboard_time": 1717214118,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 38787,
@@ -1267,16 +1331,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32725,
-      "num": 192130,
-      "word": "不被定义的穿搭是我的盔甲",
-      "onboard_time": 1717214118,
-      "rank": 18,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 32130,
-      "num": 189636,
+      "raw_hot": 34157,
+      "num": 201363,
       "word": "遇事不决选大众",
       "onboard_time": 1717214957,
       "rank": 29,
@@ -1337,6 +1393,14 @@
       "onboard_time": 1717183391,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19711,
+      "num": 200219,
+      "word": "程潇教你早C晚A新招数",
+      "onboard_time": 1717215977,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19608,
