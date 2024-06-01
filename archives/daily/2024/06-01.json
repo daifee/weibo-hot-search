@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717234455835,
+  "endTime": 1717237213112,
   "band_list": [
     {
       "raw_hot": 2314679,
@@ -41,6 +41,22 @@
       "onboard_time": 1717228998,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1471396,
+      "num": 1471396,
+      "word": "再也不敢用酒店的一次性用品了",
+      "onboard_time": 1717233377,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1456719,
+      "num": 337479,
+      "word": "王阳 王一博",
+      "onboard_time": 1717235898,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1415861,
@@ -259,14 +275,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 629476,
-      "num": 629476,
-      "word": "再也不敢用酒店的一次性用品了",
-      "onboard_time": 1717233377,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 626963,
       "num": 626963,
       "word": "提涨薪1000元都被拒该不该走",
@@ -331,6 +339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 504802,
+      "num": 334120,
+      "word": "解放军绝不允许台湾从中国分裂出去",
+      "onboard_time": 1717234636,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 500014,
       "num": 500014,
       "word": "王雪峰被控受贿8407万余元",
@@ -369,6 +385,14 @@
       "onboard_time": 1717197674,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486880,
+      "num": 486880,
+      "word": "以色列",
+      "onboard_time": 1717235477,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 485825,
@@ -643,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326770,
+      "num": 326770,
+      "word": "我永远是张若昀的观众朋友",
+      "onboard_time": 1717234336,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326335,
       "num": 203302,
       "word": "官方回应11.6元车费被收12元",
@@ -859,12 +891,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 252469,
+      "num": 252469,
+      "word": "17岁少年冲进火场救人牺牲",
+      "onboard_time": 1717230858,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250890,
       "num": 227481,
       "word": "武艺十七岁还坐在爸爸肩上",
       "onboard_time": 1717218797,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235981,
+      "num": 235981,
+      "word": "解放军4句话回应台湾问题",
+      "onboard_time": 1717234398,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 235820,
@@ -913,6 +961,14 @@
       "onboard_time": 1717214536,
       "rank": 9,
       "category": "社会正能量,动漫"
+    },
+    {
+      "raw_hot": 217222,
+      "num": 177050,
+      "word": "无名 全员上桌",
+      "onboard_time": 1717236678,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 216713,
@@ -1009,6 +1065,14 @@
       "onboard_time": 1717232478,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201510,
+      "num": 176769,
+      "word": "迪丽热巴放饭",
+      "onboard_time": 1717234096,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 201106,
@@ -1123,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185924,
+      "num": 185924,
+      "word": "UP对战iG",
+      "onboard_time": 1717236557,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185158,
       "num": 185158,
       "word": "孙楠感谢每一位观众",
@@ -1161,22 +1233,6 @@
       "onboard_time": 1717167743,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 178044,
-      "num": 178044,
-      "word": "17岁少年冲进火场救人牺牲",
-      "onboard_time": 1717230858,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176769,
-      "num": 176769,
-      "word": "迪丽热巴放饭",
-      "onboard_time": 1717234096,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 176716,
@@ -1291,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162940,
+      "num": 162940,
+      "word": "间谍过家家次子出战排球少年",
+      "onboard_time": 1717236737,
+      "rank": 26,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 162436,
       "num": 293105,
       "word": "小时候和长大了的心态对比",
@@ -1361,6 +1425,14 @@
       "onboard_time": 1717223056,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155250,
+      "num": 155250,
+      "word": "欧冠",
+      "onboard_time": 1717235598,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 153893,
@@ -1523,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134788,
+      "num": 134788,
+      "word": "周鸿祎收到50多年最好六一节礼物",
+      "onboard_time": 1717235717,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132561,
       "num": 132561,
       "word": "杨洋i人e狗",
@@ -1537,6 +1617,14 @@
       "onboard_time": 1717203376,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130585,
+      "num": 130585,
+      "word": "陈哲远马伯骞偷偷藏不住售后",
+      "onboard_time": 1717234636,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 130483,
@@ -1683,6 +1771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 113846,
+      "num": 113846,
+      "word": "时代少年团夏日清爽穿搭",
+      "onboard_time": 1717237037,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113663,
       "num": 121897,
       "word": "你的年龄在古代怎么表述",
@@ -1691,20 +1787,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112126,
-      "num": 112126,
-      "word": "我永远是张若昀的观众朋友",
-      "onboard_time": 1717234336,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111484,
       "num": 111484,
       "word": "周杰伦演唱会",
       "onboard_time": 1717231937,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111331,
+      "num": 111331,
+      "word": "谁给suni孙夏铃做的妆造",
+      "onboard_time": 1717236197,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 109403,
@@ -1835,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97438,
+      "num": 97438,
+      "word": "郑钦文遭误判",
+      "onboard_time": 1717237158,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96786,
       "num": 96786,
       "word": "狗子偷吃折耳根哐哐一顿炫",
@@ -1849,14 +1953,6 @@
       "onboard_time": 1717173616,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92296,
-      "num": 92296,
-      "word": "解放军4句话回应台湾问题",
-      "onboard_time": 1717234398,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 88530,
@@ -2075,6 +2171,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 54909,
+      "num": 342420,
+      "word": "走丢了的国二在派出所里一点都不紧张",
+      "onboard_time": 1717235837,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53600,
       "num": 53600,
       "word": "浙江福建大暴雨",
@@ -2179,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34797,
+      "num": 176953,
+      "word": "好清晰的选相机思路",
+      "onboard_time": 1717233737,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34340,
       "num": 142620,
       "word": "章小蕙直播谈不要有变美羞耻",
@@ -2241,14 +2353,6 @@
       "onboard_time": 1717189270,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22429,
-      "num": 176953,
-      "word": "好清晰的选相机思路",
-      "onboard_time": 1717233737,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 21896,
