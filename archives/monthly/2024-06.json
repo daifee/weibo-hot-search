@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717227255310,
+  "endTime": 1717230164908,
   "band_list": [
     {
       "raw_hot": 2314679,
@@ -251,12 +251,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 568371,
+      "num": 210304,
+      "word": "长期吃猪油身体都怎么样了",
+      "onboard_time": 1717228158,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 564399,
       "num": 289982,
       "word": "耳帝评歌手第四期",
       "onboard_time": 1717169360,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 549137,
+      "num": 276169,
+      "word": "孕妇坠崖案当事人再为人母",
+      "onboard_time": 1717228998,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 548762,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 526564,
-      "num": 193241,
+      "num": 209902,
       "word": "顾客在奶茶里喝出整只壁虎",
       "onboard_time": 1717223119,
       "rank": 33,
@@ -347,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463896,
+      "num": 401310,
+      "word": "归亚蕾 庆余年",
+      "onboard_time": 1717225817,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455801,
       "num": 221034,
       "word": "迪丽热巴六月行程图",
@@ -371,20 +395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 431056,
-      "num": 401310,
-      "word": "归亚蕾 庆余年",
-      "onboard_time": 1717225817,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 428754,
       "num": 428754,
       "word": "歌手编曲 拉垮",
       "onboard_time": 1717204096,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 428719,
+      "num": 428719,
+      "word": "加沙超14000名儿童已丧生",
+      "onboard_time": 1717225397,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 417816,
@@ -555,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326115,
+      "num": 285716,
+      "word": "导演希望张馨予继续瘦",
+      "onboard_time": 1717222457,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325890,
       "num": 272099,
       "word": "我发现人不能一直住太差的房子",
@@ -577,6 +609,14 @@
       "onboard_time": 1717210337,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316023,
+      "num": 209711,
+      "word": "杨幂站姐发的不是儿童节该看的",
+      "onboard_time": 1717229837,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 315929,
@@ -611,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299356,
+      "num": 274650,
+      "word": "杨丞琳唱的搁浅",
+      "onboard_time": 1717227677,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297202,
       "num": 297202,
       "word": "五竹的血是金色的",
@@ -619,12 +667,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288598,
-      "num": 199857,
-      "word": "导演希望张馨予继续瘦",
-      "onboard_time": 1717222457,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 293963,
+      "num": 209554,
+      "word": "千万不要冲动带对象回家",
+      "onboard_time": 1717228817,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 284408,
@@ -649,6 +697,14 @@
       "onboard_time": 1717217177,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273868,
+      "num": 273868,
+      "word": "丁太升点评汪苏泷",
+      "onboard_time": 1717229477,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 273761,
@@ -699,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 259906,
+      "num": 259906,
+      "word": "为耳蜗宝宝送温暖",
+      "onboard_time": 1717228937,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257547,
       "num": 257547,
       "word": "台风",
@@ -737,6 +801,14 @@
       "onboard_time": 1717218797,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237175,
+      "num": 208603,
+      "word": "文韬上海",
+      "onboard_time": 1717228876,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 235820,
@@ -819,6 +891,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208579,
+      "num": 208579,
+      "word": "徐锦江儿子封神后首个综艺",
+      "onboard_time": 1717229777,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208320,
+      "num": 184467,
+      "word": "阚清子cue大海梗",
+      "onboard_time": 1717229477,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207471,
       "num": 192708,
       "word": "六一是成年人的gapday",
@@ -860,7 +948,7 @@
     },
     {
       "raw_hot": 201106,
-      "num": 148884,
+      "num": 171650,
       "word": "苗苗说终于选了女团舞",
       "onboard_time": 1717226598,
       "rank": 29,
@@ -924,7 +1012,7 @@
     },
     {
       "raw_hot": 193709,
-      "num": 193709,
+      "num": 211635,
       "word": "儿童节快乐",
       "onboard_time": 1717225457,
       "rank": 19,
@@ -1067,12 +1155,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166608,
+      "num": 166608,
+      "word": "余承东李斌预测十年后中国车企",
+      "onboard_time": 1717229536,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 165596,
       "num": 165596,
       "word": "张本智和3比1林昀儒",
       "onboard_time": 1717217057,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164026,
+      "num": 164026,
+      "word": "周深演唱会",
+      "onboard_time": 1717228876,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 163099,
@@ -1153,14 +1257,6 @@
       "onboard_time": 1717223056,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154889,
-      "num": 154889,
-      "word": "加沙超14000名儿童已丧生",
-      "onboard_time": 1717225397,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 153893,
@@ -1467,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109128,
+      "num": 109128,
+      "word": "罗云熙宋轶陈瑶cha",
+      "onboard_time": 1717228277,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109045,
       "num": 109045,
       "word": "安赛龙退赛",
@@ -1521,6 +1625,14 @@
       "onboard_time": 1717170619,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105406,
+      "num": 105406,
+      "word": "钎城说KPL是一个大家庭",
+      "onboard_time": 1717227857,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 104121,
@@ -1675,12 +1787,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74334,
+      "num": 278097,
+      "word": "你最想对小时候的自己说什么",
+      "onboard_time": 1717228817,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 74216,
       "num": 74216,
       "word": "洪涛回来了",
       "onboard_time": 1717158141,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73563,
+      "num": 210977,
+      "word": "中国古代的小朋友都在玩什么",
+      "onboard_time": 1717229777,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73184,
@@ -1755,6 +1883,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51563,
+      "num": 211282,
+      "word": "儿童节的快乐是济公爷爷给的",
+      "onboard_time": 1717228937,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 51108,
+      "num": 116587,
+      "word": "年轻人在直播间挖宝小众品牌",
+      "onboard_time": 1717229957,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 50078,
       "num": 1419718,
       "word": "万千气象看广东",
@@ -1809,6 +1953,14 @@
       "onboard_time": 1717223357,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38524,
+      "num": 355996,
+      "word": "从这些童年碎片里看到了小时候",
+      "onboard_time": 1717230017,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38363,
@@ -1891,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24659,
+      "num": 152169,
+      "word": "鞋子搭不对全身都白费",
+      "onboard_time": 1717229897,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 22709,
       "num": 19518,
       "word": "Fine乐团出息了",
@@ -1921,6 +2081,14 @@
       "onboard_time": 1717174517,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18318,
+      "num": 107163,
+      "word": "章小蕙直播谈不要有变美羞耻",
+      "onboard_time": 1717230137,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 14613,

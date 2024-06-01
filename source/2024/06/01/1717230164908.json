@@ -1,0 +1,410 @@
+{
+  "runTime": 1717230164908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 941999,
+        "num": 941999,
+        "word": "歌手 艾薇儿",
+        "onboard_time": 1717208478,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428719,
+        "num": 428719,
+        "word": "加沙超14000名儿童已丧生",
+        "onboard_time": 1717225397,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38524,
+        "num": 355996,
+        "word": "从这些童年碎片里看到了小时候",
+        "onboard_time": 1717230017,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614771,
+        "num": 355725,
+        "word": "王妈短剧18亿播放被指无播出资质",
+        "onboard_time": 1717222937,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354526,
+        "num": 354526,
+        "word": "靖国神社石柱被红漆涂写英文厕所一词",
+        "onboard_time": 1717210576,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 294264,
+        "num": 294264,
+        "word": "900万网红大V被禁言",
+        "onboard_time": 1717218377,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463896,
+        "num": 288141,
+        "word": "归亚蕾 庆余年",
+        "onboard_time": 1717225817,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326115,
+        "num": 285716,
+        "word": "导演希望张馨予继续瘦",
+        "onboard_time": 1717222457,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278578,
+        "num": 278578,
+        "word": "发条微博祝自己六一快乐",
+        "onboard_time": 1717210938,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 74334,
+        "num": 278097,
+        "word": "你最想对小时候的自己说什么",
+        "onboard_time": 1717228817,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 606413,
+        "num": 276701,
+        "word": "鞠婧祎绿发",
+        "onboard_time": 1717222397,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 549137,
+        "num": 276169,
+        "word": "孕妇坠崖案当事人再为人母",
+        "onboard_time": 1717228998,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353495,
+        "num": 275398,
+        "word": "6岁孩子打激素长高后频繁生病",
+        "onboard_time": 1717216277,
+        "rank": 12,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 299356,
+        "num": 274650,
+        "word": "杨丞琳唱的搁浅",
+        "onboard_time": 1717227677,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273868,
+        "num": 273868,
+        "word": "丁太升点评汪苏泷",
+        "onboard_time": 1717229477,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268500,
+        "num": 268500,
+        "word": "亚当说他很快就会回来",
+        "onboard_time": 1717213997,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259906,
+        "num": 259906,
+        "word": "为耳蜗宝宝送温暖",
+        "onboard_time": 1717228937,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235609,
+        "num": 235609,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717220897,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 211863,
+        "num": 211863,
+        "word": "福宝今日探班",
+        "onboard_time": 1717222518,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155217,
+        "num": 211635,
+        "word": "儿童节快乐",
+        "onboard_time": 1717225457,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51563,
+        "num": 211282,
+        "word": "儿童节的快乐是济公爷爷给的",
+        "onboard_time": 1717228937,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73563,
+        "num": 210977,
+        "word": "中国古代的小朋友都在玩什么",
+        "onboard_time": 1717229777,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1500787,
+        "num": 210681,
+        "word": "官方通报怀孕学生被当肾病医治后身亡",
+        "onboard_time": 1717222397,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568371,
+        "num": 210304,
+        "word": "长期吃猪油身体都怎么样了",
+        "onboard_time": 1717228158,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 466679,
+        "num": 209902,
+        "word": "顾客在奶茶里喝出整只壁虎",
+        "onboard_time": 1717223119,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 316023,
+        "num": 209711,
+        "word": "杨幂站姐发的不是儿童节该看的",
+        "onboard_time": 1717229837,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293963,
+        "num": 209554,
+        "word": "千万不要冲动带对象回家",
+        "onboard_time": 1717228817,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258953,
+        "num": 209115,
+        "word": "那英爆了歌坛一个真料两个假料",
+        "onboard_time": 1717219158,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237175,
+        "num": 208603,
+        "word": "文韬上海",
+        "onboard_time": 1717228876,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208579,
+        "num": 208579,
+        "word": "徐锦江儿子封神后首个综艺",
+        "onboard_time": 1717229777,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184816,
+        "num": 184816,
+        "word": "易烊千玺做引体向上",
+        "onboard_time": 1717221557,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208320,
+        "num": 184467,
+        "word": "阚清子cue大海梗",
+        "onboard_time": 1717229477,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171650,
+        "num": 171650,
+        "word": "苗苗说终于选了女团舞",
+        "onboard_time": 1717226598,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170069,
+        "num": 170069,
+        "word": "陈奕迅佛山",
+        "onboard_time": 1717226418,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166608,
+        "num": 166608,
+        "word": "余承东李斌预测十年后中国车企",
+        "onboard_time": 1717229536,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 28538,
+        "num": 164431,
+        "word": "万千气象看广东",
+        "onboard_time": 1717209377,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164026,
+        "num": 164026,
+        "word": "周深演唱会",
+        "onboard_time": 1717228876,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158962,
+        "num": 158962,
+        "word": "何洁 尚雯婕",
+        "onboard_time": 1717222817,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24659,
+        "num": 152169,
+        "word": "鞋子搭不对全身都白费",
+        "onboard_time": 1717229897,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 147033,
+        "num": 147033,
+        "word": "TFBOYS六一物料",
+        "onboard_time": 1717218437,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146262,
+        "num": 146262,
+        "word": "李一桐田曦薇挽手",
+        "onboard_time": 1717224978,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145085,
+        "num": 145085,
+        "word": "樊振东vs向鹏",
+        "onboard_time": 1717224198,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137077,
+        "num": 137077,
+        "word": "愿与愁",
+        "onboard_time": 1717221317,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123842,
+        "num": 123842,
+        "word": "戚薇如果爱忘了全场大合唱",
+        "onboard_time": 1717225096,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51108,
+        "num": 116587,
+        "word": "年轻人在直播间挖宝小众品牌",
+        "onboard_time": 1717229957,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115204,
+        "num": 115204,
+        "word": "赵丽颖六月的行程",
+        "onboard_time": 1717221557,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111386,
+        "num": 111386,
+        "word": "孙楠得知自己排名前二的表情",
+        "onboard_time": 1717207216,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109128,
+        "num": 109128,
+        "word": "罗云熙宋轶陈瑶cha",
+        "onboard_time": 1717228277,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18318,
+        "num": 107163,
+        "word": "章小蕙直播谈不要有变美羞耻",
+        "onboard_time": 1717230137,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 105406,
+        "num": 105406,
+        "word": "钎城说KPL是一个大家庭",
+        "onboard_time": 1717227857,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国少年儿童节日快乐#"
+    }
+  }
+}
