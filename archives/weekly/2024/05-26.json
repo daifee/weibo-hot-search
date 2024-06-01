@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717205007700,
+  "endTime": 1717206247670,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1406730,
+      "num": 1406730,
+      "word": "小谢成功离婚市民高喊加油",
+      "onboard_time": 1717202176,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1400486,
       "num": 1400486,
       "word": "大厂员工离职后卖蕉绿月入200万",
@@ -1107,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1043963,
+      "num": 1043963,
+      "word": "汪苏泷排名越来越安全了",
+      "onboard_time": 1717204636,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1031743,
       "num": 1031743,
       "word": "SuperJunior13人合体",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1716709038,
       "rank": 10,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 955590,
+      "num": 1028976,
+      "word": "孙楠 熹妃回宫",
+      "onboard_time": 1717204217,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 943047,
@@ -1809,14 +1833,6 @@
       "onboard_time": 1716964037,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 800366,
-      "num": 800366,
-      "word": "小谢成功离婚市民高喊加油",
-      "onboard_time": 1717202176,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 794778,
@@ -3755,6 +3771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493588,
+      "num": 445767,
+      "word": "五旬老头首战告捷",
+      "onboard_time": 1717201636,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493259,
       "num": 493259,
       "word": "魏大勋从全内娱的瓜路过",
@@ -3777,14 +3801,6 @@
       "onboard_time": 1716809717,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 491631,
-      "num": 491631,
-      "word": "孙楠 熹妃回宫",
-      "onboard_time": 1717204217,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 489087,
@@ -4195,6 +4211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 447175,
+      "num": 447175,
+      "word": "加沙儿童六一得到的不是礼物而是轰炸",
+      "onboard_time": 1717203376,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 446109,
       "num": 446109,
       "word": "歌手顺序",
@@ -4376,6 +4400,14 @@
       "word": "张绍刚 求职节目",
       "onboard_time": 1717028117,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 428754,
+      "num": 428754,
+      "word": "歌手编曲 拉垮",
+      "onboard_time": 1717204096,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -4657,14 +4689,6 @@
       "onboard_time": 1716824598,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 409066,
-      "num": 409066,
-      "word": "五旬老头首战告捷",
-      "onboard_time": 1717201636,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 408980,
@@ -5169,6 +5193,14 @@
       "onboard_time": 1716966557,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374342,
+      "num": 374342,
+      "word": "孙楠 牛油果",
+      "onboard_time": 1717205536,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 374106,
@@ -6131,14 +6163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303405,
-      "num": 303405,
-      "word": "歌手编曲 拉垮",
-      "onboard_time": 1717204096,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 303189,
       "num": 288995,
       "word": "庆余年 泪点",
@@ -6233,6 +6257,14 @@
       "onboard_time": 1717109054,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 297202,
+      "num": 297202,
+      "word": "五竹的血是金色的",
+      "onboard_time": 1717177453,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 297101,
@@ -6371,14 +6403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 288943,
-      "num": 288943,
-      "word": "五竹的血是金色的",
-      "onboard_time": 1717177453,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 288799,
       "num": 288799,
       "word": "当搞笑女成为idol",
@@ -6417,14 +6441,6 @@
       "onboard_time": 1716774438,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286673,
-      "num": 286673,
-      "word": "加沙儿童六一得到的不是礼物而是轰炸",
-      "onboard_time": 1717203376,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 285806,
@@ -6841,14 +6857,6 @@
       "onboard_time": 1716987256,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263571,
-      "num": 196881,
-      "word": "汪苏泷排名越来越安全了",
-      "onboard_time": 1717204636,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 263532,
@@ -8555,6 +8563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210703,
+      "num": 210703,
+      "word": "西藏那曲5.9级地震",
+      "onboard_time": 1717204576,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210446,
       "num": 210446,
       "word": "时代少年团男儿歌",
@@ -9723,6 +9739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192978,
+      "num": 177567,
+      "word": "李沁王阳GQ同框",
+      "onboard_time": 1717203797,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 192653,
       "num": 192653,
       "word": "祁煜煦日私旅",
@@ -10579,14 +10603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179919,
-      "num": 179919,
-      "word": "西藏那曲5.9级地震",
-      "onboard_time": 1717204576,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179870,
       "num": 179870,
       "word": "黄奕自认人生谷底是结婚",
@@ -10713,14 +10729,6 @@
       "onboard_time": 1716700399,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177567,
-      "num": 177567,
-      "word": "李沁王阳GQ同框",
-      "onboard_time": 1717203797,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177467,
@@ -11388,7 +11396,7 @@
     },
     {
       "raw_hot": 166953,
-      "num": 130585,
+      "num": 153726,
       "word": "耳帝说那英唱搁浅小心翼翼",
       "onboard_time": 1717200256,
       "rank": 41,
@@ -12331,6 +12339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151722,
+      "num": 151722,
+      "word": "徐凤年的时候没上桌吗",
+      "onboard_time": 1717203196,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151710,
       "num": 151710,
       "word": "鸣潮自选",
@@ -12409,6 +12425,14 @@
       "onboard_time": 1717167443,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150406,
+      "num": 150406,
+      "word": "肖战杀青剧组请客",
+      "onboard_time": 1717199175,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 149891,
@@ -12937,22 +12961,6 @@
       "onboard_time": 1716816859,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142071,
-      "num": 142071,
-      "word": "徐凤年的时候没上桌吗",
-      "onboard_time": 1717203196,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 142027,
-      "num": 131603,
-      "word": "肖战杀青剧组请客",
-      "onboard_time": 1717199175,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 141959,
@@ -14083,6 +14091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 127808,
+      "num": 127808,
+      "word": "半夜陪主人上厕所的小狗",
+      "onboard_time": 1717205717,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127605,
       "num": 127605,
       "word": "红十字会回应直升机送烤全羊视频",
@@ -14683,6 +14699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119969,
+      "num": 119969,
+      "word": "儿童节文案",
+      "onboard_time": 1717198334,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119955,
       "num": 253764,
       "word": "华为发布会",
@@ -14889,14 +14913,6 @@
       "onboard_time": 1716801978,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 117539,
-      "num": 117539,
-      "word": "儿童节文案",
-      "onboard_time": 1717198334,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 117489,
@@ -16587,6 +16603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 73184,
+      "num": 366584,
+      "word": "第一次在大熊猫脸上看到震惊",
+      "onboard_time": 1717202297,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73152,
       "num": 73152,
       "word": "41首百万收藏汪苏泷在歌手都没唱",
@@ -16812,7 +16836,7 @@
     },
     {
       "raw_hot": 65360,
-      "num": 202872,
+      "num": 375190,
       "word": "为什么免疫力差要多喝鲜奶",
       "onboard_time": 1717204397,
       "rank": 23,
@@ -17057,14 +17081,6 @@
       "onboard_time": 1717111936,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 55317,
-      "num": 366584,
-      "word": "第一次在大熊猫脸上看到震惊",
-      "onboard_time": 1717202297,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55178,
@@ -17849,6 +17865,14 @@
       "onboard_time": 1716967398,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31313,
+      "num": 164329,
+      "word": "浙江的高速服务区已经进化成这样了",
+      "onboard_time": 1717206018,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30961,
