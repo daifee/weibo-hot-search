@@ -1,0 +1,410 @@
+{
+  "runTime": 1717266222981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 381156,
+        "num": 381156,
+        "word": "微信聊天最惹人反感的4种行为",
+        "onboard_time": 1717247719,
+        "rank": 0,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 294063,
+        "num": 294063,
+        "word": "8岁女孩脑死亡过最后一个六一",
+        "onboard_time": 1717258877,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8270,
+        "num": 256234,
+        "word": "不管几岁快乐万岁",
+        "onboard_time": 1717212076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242620,
+        "num": 242620,
+        "word": "为什么大脑删除了3岁前的记忆",
+        "onboard_time": 1717251079,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 213666,
+        "num": 213666,
+        "word": "印度大选至少19名官员被热死",
+        "onboard_time": 1717253120,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188708,
+        "num": 188708,
+        "word": "再也不敢用酒店的一次性用品了",
+        "onboard_time": 1717233377,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165628,
+        "num": 165628,
+        "word": "局长为谋求副厅被骗300万元",
+        "onboard_time": 1717258578,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159850,
+        "num": 159850,
+        "word": "王俊凯又幸福了",
+        "onboard_time": 1717245679,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155320,
+        "num": 155320,
+        "word": "背着善宰跑导演吐槽金惠允外貌",
+        "onboard_time": 1717254799,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9139,
+        "num": 151227,
+        "word": "原来有种职业专门逗笑小朋友",
+        "onboard_time": 1717264694,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596857,
+        "num": 150973,
+        "word": "王阳老婆发声",
+        "onboard_time": 1717244958,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148164,
+        "num": 148164,
+        "word": "庆余年看不了",
+        "onboard_time": 1717242616,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147347,
+        "num": 147347,
+        "word": "欧冠决赛",
+        "onboard_time": 1717254680,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145369,
+        "num": 145369,
+        "word": "砍60岁网红迎客松涉事人已找到",
+        "onboard_time": 1717253239,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131908,
+        "num": 131908,
+        "word": "逆水寒手游回应剑网3",
+        "onboard_time": 1717253718,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167956,
+        "num": 128023,
+        "word": "王阳说没有待播的戏后面就没饭吃",
+        "onboard_time": 1717247419,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123587,
+        "num": 123587,
+        "word": "范思辙名字",
+        "onboard_time": 1717254199,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113525,
+        "num": 113525,
+        "word": "朱一龙 我会少说多做",
+        "onboard_time": 1717260736,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101853,
+        "num": 101853,
+        "word": "董明珠称打工人想要休闲可以辞职",
+        "onboard_time": 1717245079,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92087,
+        "num": 92087,
+        "word": "周杰伦王俊凯合唱",
+        "onboard_time": 1717248738,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88242,
+        "num": 88242,
+        "word": "逆水寒",
+        "onboard_time": 1717245197,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87155,
+        "num": 87155,
+        "word": "刘亦菲草地牵狗",
+        "onboard_time": 1717258458,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81275,
+        "num": 81275,
+        "word": "全世界都知道中国小孩会做饭了",
+        "onboard_time": 1717264334,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70824,
+        "num": 70824,
+        "word": "郑钦文无缘法网16强",
+        "onboard_time": 1717264934,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67134,
+        "num": 67134,
+        "word": "1个月怎么瘦了15斤",
+        "onboard_time": 1717245918,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 62043,
+        "num": 62043,
+        "word": "新华社六一发王一博",
+        "onboard_time": 1717247779,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59045,
+        "num": 59045,
+        "word": "那英和肖战告夏之光的状",
+        "onboard_time": 1717248019,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58274,
+        "num": 58274,
+        "word": "宁艺卓在综艺上唱heya",
+        "onboard_time": 1717241417,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58102,
+        "num": 58102,
+        "word": "王俊凯和刘畊宏一家合照",
+        "onboard_time": 1717255879,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30899,
+        "num": 57742,
+        "word": "泽连斯基抵达新加坡将参加香会",
+        "onboard_time": 1717249879,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 289454,
+        "num": 57722,
+        "word": "王阳 王一博",
+        "onboard_time": 1717235898,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57452,
+        "num": 57452,
+        "word": "女生婚礼前1天被告知酒店停业",
+        "onboard_time": 1717248498,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54204,
+        "num": 54204,
+        "word": "你可能不是e人也不是i人而是A人",
+        "onboard_time": 1717256658,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53244,
+        "num": 53244,
+        "word": "邓紫棋演唱会",
+        "onboard_time": 1717256238,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52690,
+        "num": 52690,
+        "word": "薛之谦天外来物巡回演唱会",
+        "onboard_time": 1717263554,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52019,
+        "num": 52019,
+        "word": "多特蒙德vs皇马",
+        "onboard_time": 1717254680,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50367,
+        "num": 50367,
+        "word": "张杰给歌迷准备无人机惊喜",
+        "onboard_time": 1717254979,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49284,
+        "num": 49284,
+        "word": "周迅一口气拿了两个导协年度女演员",
+        "onboard_time": 1717254139,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47941,
+        "num": 47941,
+        "word": "迪丽热巴微博生日惊喜",
+        "onboard_time": 1717261695,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46991,
+        "num": 46991,
+        "word": "薛之谦很豹歉",
+        "onboard_time": 1717255819,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46676,
+        "num": 46676,
+        "word": "李惠仁天生爱豆圣体",
+        "onboard_time": 1717252879,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45153,
+        "num": 45153,
+        "word": "建议把干发帽换成运动毛巾",
+        "onboard_time": 1717240998,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 45078,
+        "num": 45078,
+        "word": "张杰演唱会儿童节撒糖",
+        "onboard_time": 1717243399,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44402,
+        "num": 44402,
+        "word": "拒绝的相亲对象5个月后开始信息轰炸",
+        "onboard_time": 1717252939,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41036,
+        "num": 41036,
+        "word": "剑网3否认对某手游IVE事件推波助澜",
+        "onboard_time": 1717256238,
+        "rank": 44,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 40933,
+        "num": 40933,
+        "word": "林俊杰南昌",
+        "onboard_time": 1717251499,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39940,
+        "num": 39940,
+        "word": "许嵩呼吸之野演唱会",
+        "onboard_time": 1717254320,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39852,
+        "num": 39852,
+        "word": "以色列",
+        "onboard_time": 1717235477,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 36514,
+        "num": 39850,
+        "word": "薛之谦西宁",
+        "onboard_time": 1717259717,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35806,
+        "num": 39846,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717220897,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和小朋友们的温暖瞬间#"
+    }
+  }
+}
