@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/02 02:23:42
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/02 02:35:46
 </p>
 </blockquote>
 <p>
@@ -2217,6 +2217,12 @@ HPV治疗隐形成本更高（热度：88530）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%AD%A9%E4%BC%9A%E5%81%9A%E9%A5%AD%E4%BA%86%23" target="weibo">
+全世界都知道中国小孩会做饭了（热度：85027）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%BE%B9%E8%BF%99%E4%B8%AA%E6%B4%BE%E5%87%BA%E6%89%80%E6%AF%8F%E5%A4%A9%E9%83%BD%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%23" target="weibo">
 学校边这个派出所每天都人满为患（热度：84711）
 </a>
@@ -2261,12 +2267,6 @@ HPV治疗隐形成本更高（热度：88530）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%82%B9%E7%82%B9%E5%B0%8F%E7%A8%8B%E5%BA%8F%23" target="weibo">
 一点点小程序（热度：81373）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%AD%A9%E4%BC%9A%E5%81%9A%E9%A5%AD%E4%BA%86%23" target="weibo">
-全世界都知道中国小孩会做饭了（热度：81275）
 </a>
 </li>
 
@@ -2644,7 +2644,7 @@ Fine乐团出息了（热度：22709）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%9C%89%E7%A7%8D%E8%81%8C%E4%B8%9A%E4%B8%93%E9%97%A8%E9%80%97%E7%AC%91%E5%B0%8F%E6%9C%8B%E5%8F%8B%23" target="weibo">
-原来有种职业专门逗笑小朋友（热度：9139）
+原来有种职业专门逗笑小朋友（热度：10077）
 </a>
 </li>
 
