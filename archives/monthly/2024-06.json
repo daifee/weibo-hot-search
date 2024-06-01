@@ -1,10 +1,10 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717210010134,
+  "endTime": 1717212172095,
   "band_list": [
     {
-      "raw_hot": 1814729,
-      "num": 1814729,
+      "raw_hot": 2314679,
+      "num": 2314679,
       "word": "歌手 艾薇儿",
       "onboard_time": 1717208478,
       "rank": 6,
@@ -51,7 +51,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1128155,
+      "raw_hot": 1143390,
       "num": 454640,
       "word": "孙楠得知自己排名前二的表情",
       "onboard_time": 1717207216,
@@ -123,6 +123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 723314,
+      "num": 224074,
+      "word": "靖国神社石柱被红漆涂写英文厕所一词",
+      "onboard_time": 1717210576,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 675861,
       "num": 294770,
       "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 650950,
-      "num": 186783,
+      "num": 206660,
       "word": "lululemon在美国卖不动了",
       "onboard_time": 1717206257,
       "rank": 20,
@@ -227,6 +235,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471362,
+      "num": 254401,
+      "word": "你好星期六全员晒童年照",
+      "onboard_time": 1717210637,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 455801,
+      "num": 221034,
+      "word": "迪丽热巴六月行程图",
+      "onboard_time": 1717211358,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442580,
       "num": 284244,
       "word": "张钰琪十年圆梦上歌手",
@@ -299,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326335,
+      "num": 203302,
+      "word": "官方回应11.6元车费被收12元",
+      "onboard_time": 1717209256,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325890,
       "num": 272099,
       "word": "我发现人不能一直住太差的房子",
@@ -315,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315929,
+      "num": 225081,
+      "word": "长大后发现妈见打零食更好吃了",
+      "onboard_time": 1717206497,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314536,
       "num": 314536,
       "word": "江西上栗发生爆炸致2死3伤",
       "onboard_time": 1717167983,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312862,
+      "num": 213297,
+      "word": "眷思量开播",
+      "onboard_time": 1717210337,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 308083,
@@ -336,6 +384,14 @@
       "word": "五竹的血是金色的",
       "onboard_time": 1717177453,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 287623,
+      "num": 201348,
+      "word": "墨雨云间 渣男",
+      "onboard_time": 1717210637,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -379,6 +435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263090,
+      "num": 199007,
+      "word": "张若昀下部戏是完美证据",
+      "onboard_time": 1717211657,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 259587,
+      "num": 198168,
+      "word": "梦中的那片海未公开剧照",
+      "onboard_time": 1717211838,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254277,
       "num": 307194,
       "word": "农村婚礼真的很挑摄影师",
@@ -395,6 +467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252722,
+      "num": 212336,
+      "word": "泽连斯基停职多名亲美高官",
+      "onboard_time": 1717208177,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 245184,
+      "num": 208616,
+      "word": "磨铁已全面停止对京东发货",
+      "onboard_time": 1717210816,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 235820,
       "num": 297095,
       "word": "2024高考试卷押运现场",
@@ -409,22 +497,6 @@
       "onboard_time": 1717171879,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 225081,
-      "num": 225081,
-      "word": "长大后发现妈见打零食更好吃了",
-      "onboard_time": 1717206497,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 220963,
-      "num": 171859,
-      "word": "官方回应11.6元车费被收12元",
-      "onboard_time": 1717209256,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216713,
@@ -456,6 +528,14 @@
       "word": "西藏那曲5.9级地震",
       "onboard_time": 1717204576,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208323,
+      "num": 208323,
+      "word": "台风",
+      "onboard_time": 1717211718,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -531,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180137,
+      "num": 180137,
+      "word": "巴黎世家 小时代照进现实",
+      "onboard_time": 1717209857,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 179522,
       "num": 258860,
       "word": "为什么熬夜时心脏会咯噔一下",
@@ -571,12 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165339,
-      "num": 157312,
-      "word": "泽连斯基停职多名亲美高官",
-      "onboard_time": 1717208177,
-      "rank": 31,
-      "category": "国外时政"
+      "raw_hot": 162436,
+      "num": 293105,
+      "word": "小时候和长大了的心态对比",
+      "onboard_time": 1717207516,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160713,
@@ -595,12 +683,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159158,
-      "num": 293105,
-      "word": "小时候和长大了的心态对比",
-      "onboard_time": 1717207516,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 159344,
+      "num": 159344,
+      "word": "张杰饭撒",
+      "onboard_time": 1717210757,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 158030,
+      "num": 158030,
+      "word": "研一开学就拉了坨大的",
+      "onboard_time": 1717211897,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 155190,
+      "num": 155190,
+      "word": "向佐护住马嘉祺的头",
+      "onboard_time": 1717211358,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 153893,
@@ -609,6 +713,14 @@
       "onboard_time": 1717165643,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152659,
+      "num": 152659,
+      "word": "陶昕然说红毯不是我的战场",
+      "onboard_time": 1717209916,
+      "rank": 44,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 151820,
@@ -635,12 +747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148014,
+      "num": 138064,
+      "word": "张馨予红毯前勒腰",
+      "onboard_time": 1717211778,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140936,
       "num": 252927,
       "word": "巴勒斯坦",
       "onboard_time": 1717163007,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 138988,
+      "num": 414953,
+      "word": "祝大朋友小朋友节日快乐",
+      "onboard_time": 1717211657,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137041,
@@ -699,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121488,
+      "num": 121488,
+      "word": "歌手",
+      "onboard_time": 1717200436,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119129,
       "num": 253764,
       "word": "华为发布会",
@@ -715,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117156,
+      "num": 117156,
+      "word": "不管几岁快乐万岁",
+      "onboard_time": 1717212076,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117096,
       "num": 117096,
       "word": "搁浅",
@@ -723,28 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114772,
-      "num": 114772,
-      "word": "巴黎世家 小时代照进现实",
-      "onboard_time": 1717209857,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 113663,
       "num": 121897,
       "word": "你的年龄在古代怎么表述",
       "onboard_time": 1717206257,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110144,
-      "num": 110144,
-      "word": "歌手",
-      "onboard_time": 1717200436,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 109213,
@@ -811,14 +939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 94984,
-      "num": 94984,
-      "word": "陶昕然说红毯不是我的战场",
-      "onboard_time": 1717209916,
-      "rank": 44,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 87584,
       "num": 87584,
       "word": "各位小朋友大朋友节日快乐",
@@ -857,6 +977,14 @@
       "onboard_time": 1717196834,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81603,
+      "num": 226934,
+      "word": "发条微博祝自己六一快乐",
+      "onboard_time": 1717210938,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 80078,
@@ -915,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67138,
+      "num": 207146,
+      "word": "今天的快乐是京东618五折给的",
+      "onboard_time": 1717211056,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 65360,
       "num": 375190,
       "word": "为什么免疫力差要多喝鲜奶",
@@ -955,6 +1091,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 45933,
+      "num": 460982,
+      "word": "万千气象看广东",
+      "onboard_time": 1717209377,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42441,
+      "num": 111558,
+      "word": "被早c晚a硬控的一天",
+      "onboard_time": 1717212017,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 38787,
       "num": 38787,
       "word": "何洁尚雯婕回应矛盾",
@@ -985,14 +1137,6 @@
       "onboard_time": 1717180092,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34155,
-      "num": 460982,
-      "word": "万千气象看广东",
-      "onboard_time": 1717209377,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31313,

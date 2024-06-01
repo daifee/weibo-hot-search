@@ -1,0 +1,410 @@
+{
+  "runTime": 1717212172095,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2314679,
+        "num": 2314679,
+        "word": "歌手 艾薇儿",
+        "onboard_time": 1717208478,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541148,
+        "num": 541148,
+        "word": "中方确认不参加乌克兰问题和平峰会",
+        "onboard_time": 1717163726,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138988,
+        "num": 414953,
+        "word": "祝大朋友小朋友节日快乐",
+        "onboard_time": 1717211657,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143390,
+        "num": 408715,
+        "word": "孙楠得知自己排名前二的表情",
+        "onboard_time": 1717207216,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311630,
+        "num": 311630,
+        "word": "六一儿童节",
+        "onboard_time": 1717197614,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297702,
+        "num": 297702,
+        "word": "加沙儿童六一得到的不是礼物而是轰炸",
+        "onboard_time": 1717203376,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 893750,
+        "num": 276869,
+        "word": "汪苏泷排名越来越安全了",
+        "onboard_time": 1717204636,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471362,
+        "num": 254401,
+        "word": "你好星期六全员晒童年照",
+        "onboard_time": 1717210637,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227373,
+        "num": 227373,
+        "word": "主播怒斥黄牛组团扫货加价售卖",
+        "onboard_time": 1717208416,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81603,
+        "num": 226934,
+        "word": "发条微博祝自己六一快乐",
+        "onboard_time": 1717210938,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 723314,
+        "num": 224074,
+        "word": "靖国神社石柱被红漆涂写英文厕所一词",
+        "onboard_time": 1717210576,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 455801,
+        "num": 221034,
+        "word": "迪丽热巴六月行程图",
+        "onboard_time": 1717211358,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388854,
+        "num": 220054,
+        "word": "孙楠 熹妃回宫",
+        "onboard_time": 1717204217,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334662,
+        "num": 217422,
+        "word": "范闲海棠朵朵抠书式对戏",
+        "onboard_time": 1717207157,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315929,
+        "num": 216027,
+        "word": "长大后发现妈见打零食更好吃了",
+        "onboard_time": 1717206497,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312862,
+        "num": 213297,
+        "word": "眷思量开播",
+        "onboard_time": 1717210337,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252722,
+        "num": 212336,
+        "word": "泽连斯基停职多名亲美高官",
+        "onboard_time": 1717208177,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 245184,
+        "num": 208616,
+        "word": "磨铁已全面停止对京东发货",
+        "onboard_time": 1717210816,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208323,
+        "num": 208323,
+        "word": "台风",
+        "onboard_time": 1717211718,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67138,
+        "num": 207146,
+        "word": "今天的快乐是京东618五折给的",
+        "onboard_time": 1717211056,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 487979,
+        "num": 206660,
+        "word": "lululemon在美国卖不动了",
+        "onboard_time": 1717206257,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 408742,
+        "num": 205131,
+        "word": "月经期为什么会肚子不舒服",
+        "onboard_time": 1717199534,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 326335,
+        "num": 203302,
+        "word": "官方回应11.6元车费被收12元",
+        "onboard_time": 1717209256,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287623,
+        "num": 201348,
+        "word": "墨雨云间 渣男",
+        "onboard_time": 1717210637,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263090,
+        "num": 199007,
+        "word": "张若昀下部戏是完美证据",
+        "onboard_time": 1717211657,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259587,
+        "num": 198168,
+        "word": "梦中的那片海未公开剧照",
+        "onboard_time": 1717211838,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258846,
+        "num": 196826,
+        "word": "孙楠 牛油果",
+        "onboard_time": 1717205536,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235947,
+        "num": 194640,
+        "word": "歌手编曲 拉垮",
+        "onboard_time": 1717204096,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221192,
+        "num": 193000,
+        "word": "五旬老头首战告捷",
+        "onboard_time": 1717201636,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192675,
+        "num": 192675,
+        "word": "庆帝叶轻眉 道不同不相为谋",
+        "onboard_time": 1717196893,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191735,
+        "num": 191735,
+        "word": "民警收到00后送的锦旗差点没绷住",
+        "onboard_time": 1717198873,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180137,
+        "num": 180137,
+        "word": "巴黎世家 小时代照进现实",
+        "onboard_time": 1717209857,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175075,
+        "num": 175075,
+        "word": "张钰琪",
+        "onboard_time": 1717206675,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162436,
+        "num": 162436,
+        "word": "小时候和长大了的心态对比",
+        "onboard_time": 1717207516,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159344,
+        "num": 159344,
+        "word": "张杰饭撒",
+        "onboard_time": 1717210757,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158030,
+        "num": 158030,
+        "word": "研一开学就拉了坨大的",
+        "onboard_time": 1717211897,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155190,
+        "num": 155190,
+        "word": "向佐护住马嘉祺的头",
+        "onboard_time": 1717211358,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152659,
+        "num": 152659,
+        "word": "陶昕然说红毯不是我的战场",
+        "onboard_time": 1717209916,
+        "rank": 37,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 138553,
+        "num": 138553,
+        "word": "C罗赛后痛哭",
+        "onboard_time": 1717198215,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138542,
+        "num": 138542,
+        "word": "台湾地震",
+        "onboard_time": 1717197854,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148014,
+        "num": 138064,
+        "word": "张馨予红毯前勒腰",
+        "onboard_time": 1717211778,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136970,
+        "num": 136970,
+        "word": "断眉真来了",
+        "onboard_time": 1717157720,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121934,
+        "num": 121934,
+        "word": "游本昌主动放弃参评白玉兰奖",
+        "onboard_time": 1717166723,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121488,
+        "num": 121488,
+        "word": "歌手",
+        "onboard_time": 1717200436,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117170,
+        "num": 117170,
+        "word": "李沁王阳GQ同框",
+        "onboard_time": 1717203797,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117156,
+        "num": 117156,
+        "word": "不管几岁快乐万岁",
+        "onboard_time": 1717212076,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116408,
+        "num": 116408,
+        "word": "守护乡村孩子的梦想",
+        "onboard_time": 1717206497,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 111596,
+        "num": 111596,
+        "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
+        "onboard_time": 1717151598,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42441,
+        "num": 111558,
+        "word": "被早c晚a硬控的一天",
+        "onboard_time": 1717212017,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 45933,
+        "num": 111345,
+        "word": "万千气象看广东",
+        "onboard_time": 1717209377,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国少年儿童节日快乐#"
+    }
+  }
+}
