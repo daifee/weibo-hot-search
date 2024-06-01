@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717281277936,
+  "endTime": 1717284009066,
   "band_list": [
     {
       "raw_hot": 1651343,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 549083,
-      "num": 242620,
+      "num": 366708,
       "word": "为什么大脑删除了3岁前的记忆",
       "onboard_time": 1717251079,
       "rank": 20,
@@ -73,6 +73,14 @@
       "onboard_time": 1717247419,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 461723,
+      "num": 461723,
+      "word": "halamadrid",
+      "onboard_time": 1717276451,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 458474,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364860,
+      "num": 364860,
+      "word": "皇马夺得欧冠冠军",
+      "onboard_time": 1717276451,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356937,
       "num": 356937,
       "word": "逆水寒手游回应剑网3",
@@ -155,12 +171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311939,
-      "num": 311939,
-      "word": "halamadrid",
-      "onboard_time": 1717276451,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 342137,
+      "num": 150538,
+      "word": "女生将没吃的菜低价推销给隔壁桌",
+      "onboard_time": 1717283293,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302147,
@@ -185,14 +201,6 @@
       "onboard_time": 1717254139,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 245644,
-      "num": 245644,
-      "word": "皇马夺得欧冠冠军",
-      "onboard_time": 1717276451,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 232577,
@@ -419,6 +427,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 97597,
+      "num": 71836,
+      "word": "表弟暗示我妈给他买电脑",
+      "onboard_time": 1717283353,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94850,
       "num": 102703,
       "word": "官方通报怀孕学生被当肾病医治后身亡",
@@ -475,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78929,
+      "num": 52216,
+      "word": "卡瓦哈尔破门",
+      "onboard_time": 1717283474,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78226,
       "num": 155771,
       "word": "泽连斯基抵达新加坡将参加香会",
@@ -499,6 +523,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67416,
+      "num": 52184,
+      "word": "皇马2比0多特蒙德",
+      "onboard_time": 1717283353,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54944,
+      "num": 54944,
+      "word": "上班和上学到底哪个更累",
+      "onboard_time": 1717274412,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54514,
       "num": 54514,
       "word": "巴勒斯坦",
@@ -513,14 +553,6 @@
       "onboard_time": 1717263554,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 41216,
-      "num": 41216,
-      "word": "上班和上学到底哪个更累",
-      "onboard_time": 1717274412,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 40933,
@@ -547,6 +579,46 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37494,
+      "num": 37494,
+      "word": "克罗斯皇马生涯结束",
+      "onboard_time": 1717283353,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36818,
+      "num": 36818,
+      "word": "当一辈子的沃尔玛推车工可以吗",
+      "onboard_time": 1717279632,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 35871,
+      "num": 35871,
+      "word": "欧冠",
+      "onboard_time": 1717235598,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35706,
+      "num": 35706,
+      "word": "山东宁阳发生透水事故8人被困",
+      "onboard_time": 1717282932,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35530,
+      "num": 35530,
+      "word": "头一次见有人cos风扇的",
+      "onboard_time": 1717283414,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 33104,
       "num": 33104,
       "word": "怪盗基德cos",
@@ -569,14 +641,6 @@
       "onboard_time": 1717271651,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 22827,
-      "num": 29247,
-      "word": "当一辈子的沃尔玛推车工可以吗",
-      "onboard_time": 1717279632,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 21723,
@@ -611,7 +675,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10550,
+      "raw_hot": 11145,
       "num": 499264,
       "word": "不管几岁快乐万岁",
       "onboard_time": 1717212076,
