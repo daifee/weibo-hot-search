@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/02 03:18:00
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/02 03:34:42
 </p>
 </blockquote>
 <p>
@@ -2566,7 +2566,7 @@ Paparazzi（热度：35547）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E5%AF%B9%E6%81%8B%E7%88%B1%E7%A5%9B%E9%AD%85%E4%BA%86%23" target="weibo">
-我发现自己对恋爱祛魅了（热度：26093）
+我发现自己对恋爱祛魅了（热度：26948）
 </a>
 </li>
 
@@ -2609,6 +2609,12 @@ Fine乐团出息了（热度：22709）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%88%B1%E5%85%84%E5%A6%B9%E6%9D%8E%E9%BE%99%E5%AE%87out%23" target="weibo">
 恋爱兄妹李龙宇out（热度：20390）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E6%9C%9F%E5%84%BF%E7%AB%A5%E7%96%91%E9%9A%BE%E9%97%A8%E8%AF%8A%23" target="weibo">
+过期儿童疑难门诊（热度：20229）
 </a>
 </li>
 

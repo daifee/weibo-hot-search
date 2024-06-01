@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717269480574,
+  "endTime": 1717270482271,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -3403,8 +3403,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26093,
-      "num": 26093,
+      "raw_hot": 26948,
+      "num": 26948,
       "word": "我发现自己对恋爱祛魅了",
       "onboard_time": 1717268831,
       "rank": 47,
@@ -3465,6 +3465,14 @@
       "onboard_time": 1717183391,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20229,
+      "num": 24054,
+      "word": "过期儿童疑难门诊",
+      "onboard_time": 1717269911,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 19608,
