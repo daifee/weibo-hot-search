@@ -1,0 +1,410 @@
+{
+  "runTime": 1717210010134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1814729,
+        "num": 1814729,
+        "word": "歌手 艾薇儿",
+        "onboard_time": 1717208478,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478017,
+        "num": 478017,
+        "word": "加沙儿童六一得到的不是礼物而是轰炸",
+        "onboard_time": 1717203376,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 34155,
+        "num": 439499,
+        "word": "万千气象看广东",
+        "onboard_time": 1717209377,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161870,
+        "num": 430870,
+        "word": "小谢成功离婚市民高喊加油",
+        "onboard_time": 1717202176,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128155,
+        "num": 421584,
+        "word": "孙楠得知自己排名前二的表情",
+        "onboard_time": 1717207216,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409071,
+        "num": 409071,
+        "word": "中方确认不参加乌克兰问题和平峰会",
+        "onboard_time": 1717163726,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1090743,
+        "num": 365902,
+        "word": "汪苏泷排名越来越安全了",
+        "onboard_time": 1717204636,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309050,
+        "num": 309050,
+        "word": "民警收到00后送的锦旗差点没绷住",
+        "onboard_time": 1717198873,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305870,
+        "num": 305870,
+        "word": "六一儿童节",
+        "onboard_time": 1717197614,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159158,
+        "num": 293105,
+        "word": "小时候和长大了的心态对比",
+        "onboard_time": 1717207516,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506342,
+        "num": 288808,
+        "word": "孙楠 熹妃回宫",
+        "onboard_time": 1717204217,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345277,
+        "num": 288120,
+        "word": "范闲海棠朵朵抠书式对戏",
+        "onboard_time": 1717207157,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283845,
+        "num": 283845,
+        "word": "五旬老头首战告捷",
+        "onboard_time": 1717201636,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276426,
+        "num": 276426,
+        "word": "庆帝叶轻眉 道不同不相为谋",
+        "onboard_time": 1717196893,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272024,
+        "num": 272024,
+        "word": "主播怒斥黄牛组团扫货加价售卖",
+        "onboard_time": 1717208416,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325103,
+        "num": 268779,
+        "word": "孙楠 牛油果",
+        "onboard_time": 1717205536,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225081,
+        "num": 225081,
+        "word": "长大后发现妈见打零食更好吃了",
+        "onboard_time": 1717206497,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178013,
+        "num": 178013,
+        "word": "C罗赛后痛哭",
+        "onboard_time": 1717198215,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177494,
+        "num": 177494,
+        "word": "台湾地震",
+        "onboard_time": 1717197854,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128523,
+        "num": 176632,
+        "word": "今年六一恰逢周六",
+        "onboard_time": 1717171279,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650950,
+        "num": 175950,
+        "word": "lululemon在美国卖不动了",
+        "onboard_time": 1717206257,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 453012,
+        "num": 175003,
+        "word": "月经期为什么会肚子不舒服",
+        "onboard_time": 1717199534,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272589,
+        "num": 174826,
+        "word": "歌手编曲 拉垮",
+        "onboard_time": 1717204096,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266475,
+        "num": 173850,
+        "word": "张钰琪",
+        "onboard_time": 1717206675,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94626,
+        "num": 173062,
+        "word": "守护乡村孩子的梦想",
+        "onboard_time": 1717206497,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 220963,
+        "num": 171859,
+        "word": "官方回应11.6元车费被收12元",
+        "onboard_time": 1717209256,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220427,
+        "num": 171008,
+        "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
+        "onboard_time": 1717151598,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179511,
+        "num": 170444,
+        "word": "李沁王阳GQ同框",
+        "onboard_time": 1717203797,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169727,
+        "num": 169727,
+        "word": "五竹的血是金色的",
+        "onboard_time": 1717177453,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159853,
+        "num": 159853,
+        "word": "游本昌主动放弃参评白玉兰奖",
+        "onboard_time": 1717166723,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165339,
+        "num": 156487,
+        "word": "泽连斯基停职多名亲美高官",
+        "onboard_time": 1717208177,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146849,
+        "num": 146849,
+        "word": "苗苗对郑恺一见钟情",
+        "onboard_time": 1717197674,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146637,
+        "num": 146637,
+        "word": "断眉真来了",
+        "onboard_time": 1717157720,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140703,
+        "num": 140703,
+        "word": "我发现人不能一直住太差的房子",
+        "onboard_time": 1717167864,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130111,
+        "num": 130111,
+        "word": "王安宇露背走红毯",
+        "onboard_time": 1717203617,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124039,
+        "num": 124039,
+        "word": "儿童节文案",
+        "onboard_time": 1717198334,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114772,
+        "num": 114772,
+        "word": "巴黎世家 小时代照进现实",
+        "onboard_time": 1717209857,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112967,
+        "num": 112967,
+        "word": "张钰琪 揭榜",
+        "onboard_time": 1717165224,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109582,
+        "num": 109582,
+        "word": "歌手",
+        "onboard_time": 1717200436,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106354,
+        "num": 106354,
+        "word": "搁浅",
+        "onboard_time": 1717206376,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103803,
+        "num": 103803,
+        "word": "肖战杀青剧组请客",
+        "onboard_time": 1717199175,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102242,
+        "num": 102242,
+        "word": "你的年龄在古代怎么表述",
+        "onboard_time": 1717206257,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97801,
+        "num": 97801,
+        "word": "汤唯孔刘合影",
+        "onboard_time": 1717200076,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96786,
+        "num": 96786,
+        "word": "狗子偷吃折耳根哐哐一顿炫",
+        "onboard_time": 1717209857,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94984,
+        "num": 94984,
+        "word": "陶昕然说红毯不是我的战场",
+        "onboard_time": 1717209916,
+        "rank": 44,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 93834,
+        "num": 93834,
+        "word": "繁花剧方给三位女主都报名了",
+        "onboard_time": 1717164685,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93710,
+        "num": 93710,
+        "word": "西藏那曲5.9级地震",
+        "onboard_time": 1717204576,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93470,
+        "num": 93470,
+        "word": "半夜陪主人上厕所的小狗",
+        "onboard_time": 1717205717,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91506,
+        "num": 91506,
+        "word": "JDG营救无畏于水火之中",
+        "onboard_time": 1717200376,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90831,
+        "num": 90831,
+        "word": "歌手排名",
+        "onboard_time": 1717163007,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国少年儿童节日快乐#"
+    }
+  }
+}

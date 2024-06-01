@@ -1,7 +1,15 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717209420445,
+  "endTime": 1717210010134,
   "band_list": [
+    {
+      "raw_hot": 1814729,
+      "num": 1814729,
+      "word": "歌手 艾薇儿",
+      "onboard_time": 1717208478,
+      "rank": 6,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1683026,
       "num": 1683026,
@@ -43,7 +51,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1114240,
+      "raw_hot": 1128155,
       "num": 454640,
       "word": "孙楠得知自己排名前二的表情",
       "onboard_time": 1717207216,
@@ -57,14 +65,6 @@
       "onboard_time": 1717163726,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1093590,
-      "num": 443356,
-      "word": "歌手 艾薇儿",
-      "onboard_time": 1717208478,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1042858,
@@ -147,7 +147,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 639884,
+      "raw_hot": 650950,
       "num": 186783,
       "word": "lululemon在美国卖不动了",
       "onboard_time": 1717206257,
@@ -283,20 +283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345277,
+      "num": 328832,
+      "word": "范闲海棠朵朵抠书式对戏",
+      "onboard_time": 1717207157,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329533,
       "num": 329533,
       "word": "六一儿童节",
       "onboard_time": 1717197614,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 328832,
-      "num": 328832,
-      "word": "范闲海棠朵朵抠书式对戏",
-      "onboard_time": 1717207157,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 325890,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272024,
+      "num": 272024,
+      "word": "主播怒斥黄牛组团扫货加价售卖",
+      "onboard_time": 1717208416,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270308,
       "num": 270308,
       "word": "齐思钧主持",
@@ -401,6 +409,22 @@
       "onboard_time": 1717171879,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 225081,
+      "num": 225081,
+      "word": "长大后发现妈见打零食更好吃了",
+      "onboard_time": 1717206497,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 220963,
+      "num": 171859,
+      "word": "官方回应11.6元车费被收12元",
+      "onboard_time": 1717209256,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216713,
@@ -475,14 +499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196339,
-      "num": 196339,
-      "word": "主播怒斥黄牛组团扫货加价售卖",
-      "onboard_time": 1717208416,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192051,
       "num": 301212,
       "word": "两岁半幼童每天戴12小时牙套",
@@ -547,20 +563,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 166984,
-      "num": 189187,
-      "word": "长大后发现妈见打零食更好吃了",
-      "onboard_time": 1717206497,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166953,
       "num": 153726,
       "word": "耳帝说那英唱搁浅小心翼翼",
       "onboard_time": 1717200256,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165339,
+      "num": 157312,
+      "word": "泽连斯基停职多名亲美高官",
+      "onboard_time": 1717208177,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 160713,
@@ -579,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157312,
-      "num": 157312,
-      "word": "泽连斯基停职多名亲美高官",
-      "onboard_time": 1717208177,
-      "rank": 31,
-      "category": "国外时政"
+      "raw_hot": 159158,
+      "num": 293105,
+      "word": "小时候和长大了的心态对比",
+      "onboard_time": 1717207516,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153893,
@@ -707,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116821,
-      "num": 116821,
-      "word": "官方回应11.6元车费被收12元",
-      "onboard_time": 1717209256,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 114772,
+      "num": 114772,
+      "word": "巴黎世家 小时代照进现实",
+      "onboard_time": 1717209857,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 113663,
@@ -779,12 +795,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98354,
-      "num": 103512,
-      "word": "小时候和长大了的心态对比",
-      "onboard_time": 1717207516,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 96786,
+      "num": 96786,
+      "word": "狗子偷吃折耳根哐哐一顿炫",
+      "onboard_time": 1717209857,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 95621,
@@ -793,6 +809,14 @@
       "onboard_time": 1717173616,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94984,
+      "num": 94984,
+      "word": "陶昕然说红毯不是我的战场",
+      "onboard_time": 1717209916,
+      "rank": 44,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 87584,
@@ -963,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34155,
+      "num": 460982,
+      "word": "万千气象看广东",
+      "onboard_time": 1717209377,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31313,
       "num": 164329,
       "word": "浙江的高速服务区已经进化成这样了",
@@ -1051,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7101,
-      "num": 460982,
-      "word": "万千气象看广东",
-      "onboard_time": 1717209377,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 6424,
       "num": 190880,
       "word": "属于中国孩子的宝藏传统文化绘本",
@@ -1084,6 +1108,9 @@
     },
     {
       "word": "#习近平主席同阿拉伯朋友北京再相聚#"
+    },
+    {
+      "word": "#习近平祝全国少年儿童节日快乐#"
     }
   ]
 }
