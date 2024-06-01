@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717251455495,
+  "endTime": 1717252462775,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2029348,
+      "num": 2029348,
+      "word": "微信聊天最惹人反感的4种行为",
+      "onboard_time": 1717247719,
+      "rank": 36,
+      "category": "互联网,情感"
+    },
+    {
       "raw_hot": 2023994,
       "num": 2023994,
       "word": "两岁半幼童每天戴12小时牙套",
@@ -353,14 +361,6 @@
       "onboard_time": 1716856098,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1780093,
-      "num": 1780093,
-      "word": "微信聊天最惹人反感的4种行为",
-      "onboard_time": 1717247719,
-      "rank": 36,
-      "category": "互联网,情感"
     },
     {
       "raw_hot": 1740061,
@@ -1539,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 920634,
+      "num": 920634,
+      "word": "女生婚礼前1天被告知酒店停业",
+      "onboard_time": 1717248498,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 920098,
       "num": 920098,
       "word": "以色列拟认定联合国机构为恐怖组织",
@@ -2009,14 +2017,6 @@
       "onboard_time": 1716990918,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 792460,
-      "num": 792460,
-      "word": "女生婚礼前1天被告知酒店停业",
-      "onboard_time": 1717248498,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 789352,
@@ -3729,6 +3729,14 @@
       "onboard_time": 1716869059,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519089,
+      "num": 235475,
+      "word": "为什么大脑删除了3岁前的记忆",
+      "onboard_time": 1717251079,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 518913,
@@ -6075,6 +6083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349229,
+      "num": 349229,
+      "word": "咸鱼 逆水寒",
+      "onboard_time": 1717248800,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 348514,
       "num": 348514,
       "word": "陈奕迅佛山",
@@ -6161,14 +6177,6 @@
       "onboard_time": 1716798379,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 341084,
-      "num": 341084,
-      "word": "咸鱼 逆水寒",
-      "onboard_time": 1717248800,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 340935,
@@ -6443,6 +6451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 323249,
+      "num": 323249,
+      "word": "你好星期六下期有胡歌高圆圆",
+      "onboard_time": 1717251679,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322473,
       "num": 322473,
       "word": "上海发布房产新政",
@@ -6697,6 +6713,14 @@
       "onboard_time": 1717162228,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310109,
+      "num": 223791,
+      "word": "明家好疯",
+      "onboard_time": 1717250780,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 310093,
@@ -7555,6 +7579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 265532,
+      "num": 265532,
+      "word": "朱婷 风范",
+      "onboard_time": 1717248139,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265283,
       "num": 265283,
       "word": "为什么洞洞鞋看着透气却容易得脚气",
@@ -7793,14 +7825,6 @@
       "onboard_time": 1716734059,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 256444,
-      "num": 256444,
-      "word": "朱婷 风范",
-      "onboard_time": 1717248139,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 256331,
@@ -8435,14 +8459,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 235475,
-      "num": 235475,
-      "word": "为什么大脑删除了3岁前的记忆",
-      "onboard_time": 1717251079,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 235210,
       "num": 235210,
       "word": "张真源 我可没忽悠你们",
@@ -8905,14 +8921,6 @@
       "onboard_time": 1717074619,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 223791,
-      "num": 223791,
-      "word": "明家好疯",
-      "onboard_time": 1717250780,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 223668,
@@ -9721,6 +9729,14 @@
       "onboard_time": 1716698960,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207261,
+      "num": 174925,
+      "word": "原来腰突了还可以回去",
+      "onboard_time": 1717251079,
+      "rank": 37,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 206903,
@@ -10617,6 +10633,14 @@
       "onboard_time": 1716814878,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194533,
+      "num": 194533,
+      "word": "林俊杰南昌",
+      "onboard_time": 1717251499,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 194524,
@@ -12907,6 +12931,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 162892,
+      "num": 162892,
+      "word": "范闲真气回来了",
+      "onboard_time": 1717251560,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162802,
       "num": 162802,
       "word": "宁艺卓高音",
@@ -13563,14 +13595,6 @@
       "category": "科学科普,美食"
     },
     {
-      "raw_hot": 152941,
-      "num": 152941,
-      "word": "原来腰突了还可以回去",
-      "onboard_time": 1717251079,
-      "rank": 37,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 152894,
       "num": 152894,
       "word": "腾讯升级防沉迷四件套",
@@ -14041,6 +14065,14 @@
       "onboard_time": 1717219158,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147567,
+      "num": 147567,
+      "word": "张杰来军训了",
+      "onboard_time": 1717252339,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 147384,
@@ -15035,6 +15067,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 135426,
+      "num": 135426,
+      "word": "蔡依林洛阳演唱会",
+      "onboard_time": 1717252100,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135289,
       "num": 135289,
       "word": "独居年轻人周末有多快乐",
@@ -15097,6 +15137,22 @@
       "onboard_time": 1717235717,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 134775,
+      "num": 134775,
+      "word": "小孩能有什么烦恼",
+      "onboard_time": 1717249158,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134740,
+      "num": 134740,
+      "word": "男人照顾孩子果然不分物种",
+      "onboard_time": 1717252039,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 134580,
@@ -15875,14 +15931,6 @@
       "category": "情感,母婴育儿"
     },
     {
-      "raw_hot": 125822,
-      "num": 125822,
-      "word": "小孩能有什么烦恼",
-      "onboard_time": 1717249158,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125798,
       "num": 125798,
       "word": "鞠婧祎照片",
@@ -15961,6 +16009,14 @@
       "onboard_time": 1716809238,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 124615,
+      "num": 124615,
+      "word": "猫咪和主人撞脸",
+      "onboard_time": 1717252218,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 124508,
@@ -19115,6 +19171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54300,
+      "num": 375405,
+      "word": "陌生人抓弟弟胳膊姐姐霸气一把拽回",
+      "onboard_time": 1717251679,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54102,
       "num": 319171,
       "word": "8个关爱女性经期健康的方法",
@@ -19513,6 +19577,14 @@
       "onboard_time": 1716679514,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41545,
+      "num": 140122,
+      "word": "世界名画走秀也太超前了",
+      "onboard_time": 1717252159,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 41303,

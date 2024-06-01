@@ -1,0 +1,410 @@
+{
+  "runTime": 1717252462775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2029348,
+        "num": 2029348,
+        "word": "微信聊天最惹人反感的4种行为",
+        "onboard_time": 1717247719,
+        "rank": 0,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 920634,
+        "num": 920634,
+        "word": "女生婚礼前1天被告知酒店停业",
+        "onboard_time": 1717248498,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50010,
+        "num": 879715,
+        "word": "假如与中华5000年文明对话",
+        "onboard_time": 1717246398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870838,
+        "num": 870838,
+        "word": "王俊凯又幸福了",
+        "onboard_time": 1717245679,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 735811,
+        "num": 735811,
+        "word": "庆余年看不了",
+        "onboard_time": 1717242616,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536760,
+        "num": 536760,
+        "word": "董明珠称打工人想要休闲可以辞职",
+        "onboard_time": 1717245079,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660433,
+        "num": 533299,
+        "word": "那英和肖战告夏之光的状",
+        "onboard_time": 1717248019,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640847,
+        "num": 509807,
+        "word": "新华社六一发王一博",
+        "onboard_time": 1717247779,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480591,
+        "num": 480591,
+        "word": "再也不敢用酒店的一次性用品了",
+        "onboard_time": 1717233377,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54300,
+        "num": 375405,
+        "word": "陌生人抓弟弟胳膊姐姐霸气一把拽回",
+        "onboard_time": 1717251679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2664396,
+        "num": 369792,
+        "word": "王阳老婆发声",
+        "onboard_time": 1717244958,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482116,
+        "num": 368592,
+        "word": "周杰伦王俊凯合唱",
+        "onboard_time": 1717248738,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 349229,
+        "num": 349229,
+        "word": "咸鱼 逆水寒",
+        "onboard_time": 1717248800,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 323249,
+        "num": 323249,
+        "word": "你好星期六下期有胡歌高圆圆",
+        "onboard_time": 1717251679,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272785,
+        "num": 272785,
+        "word": "孙颖莎vs田志希",
+        "onboard_time": 1717249399,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1199429,
+        "num": 269855,
+        "word": "王阳说没有待播的戏后面就没饭吃",
+        "onboard_time": 1717247419,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265532,
+        "num": 265532,
+        "word": "朱婷 风范",
+        "onboard_time": 1717248139,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259868,
+        "num": 259868,
+        "word": "解放军绝不允许台湾从中国分裂出去",
+        "onboard_time": 1717234636,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239524,
+        "num": 239524,
+        "word": "逆水寒",
+        "onboard_time": 1717245197,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207732,
+        "num": 207732,
+        "word": "建议把干发帽换成运动毛巾",
+        "onboard_time": 1717240998,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 519089,
+        "num": 207683,
+        "word": "为什么大脑删除了3岁前的记忆",
+        "onboard_time": 1717251079,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 336873,
+        "num": 207604,
+        "word": "1个月怎么瘦了15斤",
+        "onboard_time": 1717245918,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 310109,
+        "num": 207530,
+        "word": "明家好疯",
+        "onboard_time": 1717250780,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286159,
+        "num": 207474,
+        "word": "汪苏泷王心凌甜妹合体",
+        "onboard_time": 1717247359,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229285,
+        "num": 207414,
+        "word": "王俊凯周杰伦最美湘遇",
+        "onboard_time": 1717247659,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207344,
+        "num": 207344,
+        "word": "高叶问肖战夏之光什么团",
+        "onboard_time": 1717249219,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203769,
+        "num": 203769,
+        "word": "官方通报怀孕学生被当肾病医治后身亡",
+        "onboard_time": 1717222397,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194533,
+        "num": 194533,
+        "word": "林俊杰南昌",
+        "onboard_time": 1717251499,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180767,
+        "num": 180767,
+        "word": "宁艺卓在综艺上唱heya",
+        "onboard_time": 1717241417,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175949,
+        "num": 175949,
+        "word": "以色列",
+        "onboard_time": 1717235477,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 808592,
+        "num": 175780,
+        "word": "王阳 王一博",
+        "onboard_time": 1717235898,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207261,
+        "num": 174925,
+        "word": "原来腰突了还可以回去",
+        "onboard_time": 1717251079,
+        "rank": 31,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 171713,
+        "num": 171713,
+        "word": "中国女排3比0泰国女排",
+        "onboard_time": 1717247359,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164416,
+        "num": 164416,
+        "word": "杨紫 女性一定要有自己的事业",
+        "onboard_time": 1717240338,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162892,
+        "num": 162892,
+        "word": "范闲真气回来了",
+        "onboard_time": 1717251560,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159060,
+        "num": 159060,
+        "word": "孙颖莎3比0田志希",
+        "onboard_time": 1717250898,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153341,
+        "num": 153341,
+        "word": "田小娟暂停活动",
+        "onboard_time": 1717239076,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151238,
+        "num": 151238,
+        "word": "上班的胖真的很难减",
+        "onboard_time": 1717244538,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147567,
+        "num": 147567,
+        "word": "张杰来军训了",
+        "onboard_time": 1717252339,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143715,
+        "num": 143715,
+        "word": "无名 全员上桌",
+        "onboard_time": 1717236678,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41545,
+        "num": 140122,
+        "word": "世界名画走秀也太超前了",
+        "onboard_time": 1717252159,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 140105,
+        "num": 140105,
+        "word": "泽连斯基抵达新加坡将参加香会",
+        "onboard_time": 1717249879,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137527,
+        "num": 137527,
+        "word": "周深首场体育场演唱会",
+        "onboard_time": 1717249641,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135426,
+        "num": 135426,
+        "word": "蔡依林洛阳演唱会",
+        "onboard_time": 1717252100,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134775,
+        "num": 134775,
+        "word": "小孩能有什么烦恼",
+        "onboard_time": 1717249158,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134740,
+        "num": 134740,
+        "word": "男人照顾孩子果然不分物种",
+        "onboard_time": 1717252039,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133769,
+        "num": 133769,
+        "word": "张杰演唱会儿童节撒糖",
+        "onboard_time": 1717243399,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124615,
+        "num": 124615,
+        "word": "猫咪和主人撞脸",
+        "onboard_time": 1717252218,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116273,
+        "num": 116273,
+        "word": "孙颖莎11比1田志希",
+        "onboard_time": 1717250598,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115418,
+        "num": 115418,
+        "word": "狐妖月红篇落跑甜心",
+        "onboard_time": 1717244778,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和小朋友们的温暖瞬间#"
+    }
+  }
+}
