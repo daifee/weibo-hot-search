@@ -1,0 +1,410 @@
+{
+  "runTime": 1717248882267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1220991,
+        "num": 1220991,
+        "word": "王俊凯又幸福了",
+        "onboard_time": 1717245679,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1079559,
+        "num": 1079559,
+        "word": "董明珠称打工人想要休闲可以辞职",
+        "onboard_time": 1717245079,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53533,
+        "num": 1057176,
+        "word": "假如与中华5000年文明对话",
+        "onboard_time": 1717246398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1050237,
+        "num": 1050237,
+        "word": "庆余年看不了",
+        "onboard_time": 1717242616,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 694047,
+        "num": 694047,
+        "word": "中国女排3比0泰国女排",
+        "onboard_time": 1717247359,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622659,
+        "num": 622659,
+        "word": "再也不敢用酒店的一次性用品了",
+        "onboard_time": 1717233377,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 763440,
+        "num": 621370,
+        "word": "新华社六一发王一博",
+        "onboard_time": 1717247779,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604879,
+        "num": 604879,
+        "word": "周杰伦王俊凯合唱",
+        "onboard_time": 1717248738,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 354177,
+        "num": 354177,
+        "word": "建议把干发帽换成运动毛巾",
+        "onboard_time": 1717240998,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 39830,
+        "num": 352070,
+        "word": "用一件乐器形容成都竟是茶杯",
+        "onboard_time": 1717247959,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3591889,
+        "num": 328474,
+        "word": "王阳老婆发声",
+        "onboard_time": 1717244958,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417940,
+        "num": 318820,
+        "word": "那英和肖战告夏之光的状",
+        "onboard_time": 1717248019,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377189,
+        "num": 299294,
+        "word": "王俊凯周杰伦最美湘遇",
+        "onboard_time": 1717247659,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294332,
+        "num": 294332,
+        "word": "解放军绝不允许台湾从中国分裂出去",
+        "onboard_time": 1717234636,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9127,
+        "num": 294035,
+        "word": "天猫618跟着杨迪看榜买好物",
+        "onboard_time": 1717247238,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 915529,
+        "num": 292326,
+        "word": "王阳说没有待播的戏后面就没饭吃",
+        "onboard_time": 1717247419,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345511,
+        "num": 290784,
+        "word": "田小娟暂停活动",
+        "onboard_time": 1717239076,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31438,
+        "num": 289517,
+        "word": "穿越星河的国风有多美",
+        "onboard_time": 1717246698,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287989,
+        "num": 287989,
+        "word": "逆水寒",
+        "onboard_time": 1717245197,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235053,
+        "num": 235053,
+        "word": "咸鱼 逆水寒",
+        "onboard_time": 1717248800,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 464908,
+        "num": 233058,
+        "word": "微信聊天最惹人反感的4种行为",
+        "onboard_time": 1717247719,
+        "rank": 20,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 406025,
+        "num": 232888,
+        "word": "1个月怎么瘦了15斤",
+        "onboard_time": 1717245918,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 394618,
+        "num": 232709,
+        "word": "官方通报怀孕学生被当肾病医治后身亡",
+        "onboard_time": 1717222397,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230821,
+        "num": 230821,
+        "word": "上亿毛孩子的婚事何去何从",
+        "onboard_time": 1717243577,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217385,
+        "num": 230813,
+        "word": "中国女排vs泰国女排",
+        "onboard_time": 1717239076,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319958,
+        "num": 230789,
+        "word": "汪苏泷王心凌甜妹合体",
+        "onboard_time": 1717247359,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280400,
+        "num": 230766,
+        "word": "张杰演唱会儿童节撒糖",
+        "onboard_time": 1717243399,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269870,
+        "num": 230736,
+        "word": "宁艺卓在综艺上唱heya",
+        "onboard_time": 1717241417,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230734,
+        "num": 230734,
+        "word": "女生婚礼前1天被告知酒店停业",
+        "onboard_time": 1717248498,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220196,
+        "num": 220196,
+        "word": "杨紫 女性一定要有自己的事业",
+        "onboard_time": 1717240338,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 950123,
+        "num": 218832,
+        "word": "王阳 王一博",
+        "onboard_time": 1717235898,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212487,
+        "num": 212487,
+        "word": "以色列",
+        "onboard_time": 1717235477,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 204101,
+        "num": 204101,
+        "word": "无名 全员上桌",
+        "onboard_time": 1717236678,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201666,
+        "num": 201666,
+        "word": "WBG对战NIP",
+        "onboard_time": 1717247839,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190024,
+        "num": 190024,
+        "word": "狐妖月红篇落跑甜心",
+        "onboard_time": 1717244778,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184367,
+        "num": 184367,
+        "word": "孕妇坠崖案当事人再为人母",
+        "onboard_time": 1717228998,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181885,
+        "num": 181885,
+        "word": "Citywalk后年轻人又爱上了Wildeat",
+        "onboard_time": 1717238356,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176738,
+        "num": 176738,
+        "word": "朱婷 风范",
+        "onboard_time": 1717248139,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172879,
+        "num": 172879,
+        "word": "梁靖崑3比2A勒布伦",
+        "onboard_time": 1717248738,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172745,
+        "num": 172745,
+        "word": "白玉兰",
+        "onboard_time": 1717245619,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163393,
+        "num": 163393,
+        "word": "朱婷首发登场",
+        "onboard_time": 1717241778,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161290,
+        "num": 161290,
+        "word": "剑网3咸鱼",
+        "onboard_time": 1717244958,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160330,
+        "num": 160330,
+        "word": "朱婷17分",
+        "onboard_time": 1717248498,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158850,
+        "num": 158850,
+        "word": "雷军 车展",
+        "onboard_time": 1717247539,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144460,
+        "num": 144460,
+        "word": "上班的胖真的很难减",
+        "onboard_time": 1717244538,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134712,
+        "num": 134712,
+        "word": "孙卓妈妈感谢学校保护孩子隐私",
+        "onboard_time": 1717238356,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134661,
+        "num": 134661,
+        "word": "又开始进入范闲戒断期了",
+        "onboard_time": 1717246638,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133437,
+        "num": 133437,
+        "word": "EDG告别上海大师赛",
+        "onboard_time": 1717247359,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128241,
+        "num": 128241,
+        "word": "王曼昱3比0平野美宇",
+        "onboard_time": 1717246638,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124871,
+        "num": 124871,
+        "word": "王曼昱女单八强",
+        "onboard_time": 1717245679,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国少年儿童节日快乐#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717247931393,
+  "endTime": 1717248882267,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -147,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1079559,
+      "num": 1079559,
+      "word": "董明珠称打工人想要休闲可以辞职",
+      "onboard_time": 1717245079,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1042858,
       "num": 1042858,
       "word": "那英快哭了",
@@ -179,20 +187,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 915529,
+      "num": 322817,
+      "word": "王阳说没有待播的戏后面就没饭吃",
+      "onboard_time": 1717247419,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 882405,
       "num": 882405,
       "word": "鞠婧祎绿发",
       "onboard_time": 1717222397,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 876432,
-      "num": 876432,
-      "word": "董明珠称打工人想要休闲可以辞职",
-      "onboard_time": 1717245079,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 848721,
@@ -265,6 +273,14 @@
       "onboard_time": 1717196893,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 763440,
+      "num": 621370,
+      "word": "新华社六一发王一博",
+      "onboard_time": 1717247779,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 761396,
@@ -361,6 +377,14 @@
       "onboard_time": 1717231817,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 604879,
+      "num": 604879,
+      "word": "周杰伦王俊凯合唱",
+      "onboard_time": 1717248738,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 595101,
@@ -531,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 464908,
+      "num": 233058,
+      "word": "微信聊天最惹人反感的4种行为",
+      "onboard_time": 1717247719,
+      "rank": 36,
+      "category": "互联网,情感"
+    },
+    {
       "raw_hot": 463896,
       "num": 401310,
       "word": "归亚蕾 庆余年",
@@ -579,6 +611,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 417940,
+      "num": 318820,
+      "word": "那英和肖战告夏之光的状",
+      "onboard_time": 1717248019,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417816,
       "num": 303929,
       "word": "艾森豪威尔号航母",
@@ -595,20 +635,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 416195,
-      "num": 322817,
-      "word": "王阳说没有待播的戏后面就没饭吃",
-      "onboard_time": 1717247419,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 416061,
       "num": 416061,
       "word": "民警收到00后送的锦旗差点没绷住",
       "onboard_time": 1717198873,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406025,
+      "num": 236487,
+      "word": "1个月怎么瘦了15斤",
+      "onboard_time": 1717245918,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 401225,
@@ -681,6 +721,14 @@
       "onboard_time": 1717211897,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 377189,
+      "num": 299294,
+      "word": "王俊凯周杰伦最美湘遇",
+      "onboard_time": 1717247659,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 374342,
@@ -859,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319958,
+      "num": 230789,
+      "word": "汪苏泷王心凌甜妹合体",
+      "onboard_time": 1717247359,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 317824,
       "num": 317338,
       "word": "上亿毛孩子的婚事何去何从",
@@ -955,22 +1011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 289318,
-      "num": 238909,
-      "word": "新华社六一发王一博",
-      "onboard_time": 1717247779,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 287180,
-      "num": 236487,
-      "word": "1个月怎么瘦了15斤",
-      "onboard_time": 1717245918,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 284408,
       "num": 284408,
       "word": "C罗赛后痛哭",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1717217177,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273998,
-      "num": 228598,
-      "word": "王俊凯周杰伦最美湘遇",
-      "onboard_time": 1717247659,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 273761,
@@ -1131,12 +1163,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 235053,
+      "num": 235053,
+      "word": "咸鱼 逆水寒",
+      "onboard_time": 1717248800,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231828,
       "num": 200078,
       "word": "陈赫录节目爆改光头强",
       "onboard_time": 1717214898,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230734,
+      "num": 230734,
+      "word": "女生婚礼前1天被告知酒店停业",
+      "onboard_time": 1717248498,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230610,
@@ -1315,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201666,
+      "num": 201666,
+      "word": "WBG对战NIP",
+      "onboard_time": 1717247839,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201510,
       "num": 176769,
       "word": "迪丽热巴放饭",
@@ -1385,14 +1441,6 @@
       "onboard_time": 1717225096,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194931,
-      "num": 194931,
-      "word": "汪苏泷王心凌甜妹合体",
-      "onboard_time": 1717247359,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 194720,
@@ -1467,14 +1515,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 185905,
-      "num": 185905,
-      "word": "微信聊天最惹人反感的4种行为",
-      "onboard_time": 1717247719,
-      "rank": 36,
-      "category": "互联网,情感"
-    },
-    {
       "raw_hot": 185158,
       "num": 185158,
       "word": "孙楠感谢每一位观众",
@@ -1523,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176738,
+      "num": 176738,
+      "word": "朱婷 风范",
+      "onboard_time": 1717248139,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176716,
       "num": 252325,
       "word": "尚雯婕回应去隔壁歌手吧",
@@ -1552,6 +1600,14 @@
       "word": "王曼昱3比0平野美宇",
       "onboard_time": 1717246638,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172879,
+      "num": 172879,
+      "word": "梁靖崑3比2A勒布伦",
+      "onboard_time": 1717248738,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1699,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160330,
+      "num": 160330,
+      "word": "朱婷17分",
+      "onboard_time": 1717248498,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160077,
       "num": 253035,
       "word": "尚雯婕去隔壁歌手吧",
@@ -1723,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159534,
-      "num": 159534,
-      "word": "WBG对战NIP",
-      "onboard_time": 1717247839,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 159355,
       "num": 159355,
       "word": "腾讯视频6月大剧片单",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1717211358,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158850,
+      "num": 158850,
+      "word": "雷军 车展",
+      "onboard_time": 1717247539,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 157762,
@@ -2001,14 +2065,6 @@
       "onboard_time": 1717240638,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136711,
-      "num": 136711,
-      "word": "雷军 车展",
-      "onboard_time": 1717247539,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 136499,
@@ -2715,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53533,
+      "num": 1057176,
+      "word": "假如与中华5000年文明对话",
+      "onboard_time": 1717246398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51431,
       "num": 176953,
       "word": "好清晰的选相机思路",
@@ -2747,14 +2811,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 42672,
-      "num": 814528,
-      "word": "假如与中华5000年文明对话",
-      "onboard_time": 1717246398,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41246,
       "num": 269743,
       "word": "遇事不决选大众",
@@ -2769,6 +2825,14 @@
       "onboard_time": 1717214118,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 39830,
+      "num": 352070,
+      "word": "用一件乐器形容成都竟是茶杯",
+      "onboard_time": 1717247959,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38787,
@@ -2843,6 +2907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31438,
+      "num": 289517,
+      "word": "穿越星河的国风有多美",
+      "onboard_time": 1717246698,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31313,
       "num": 164329,
       "word": "浙江的高速服务区已经进化成这样了",
@@ -2865,14 +2937,6 @@
       "onboard_time": 1717215977,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 29139,
-      "num": 232509,
-      "word": "穿越星河的国风有多美",
-      "onboard_time": 1717246698,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27362,
@@ -2971,7 +3035,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8770,
+      "raw_hot": 9127,
       "num": 323097,
       "word": "天猫618跟着杨迪看榜买好物",
       "onboard_time": 1717247238,
