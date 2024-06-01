@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717238202193,
+  "endTime": 1717240758124,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1683772,
-      "num": 337479,
+      "num": 381505,
       "word": "王阳 王一博",
       "onboard_time": 1717235898,
       "rank": 10,
@@ -1867,6 +1867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 813599,
+      "num": 652358,
+      "word": "田小娟暂停活动",
+      "onboard_time": 1717239076,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 813000,
       "num": 751503,
       "word": "瘦了才有资格跟老婆剪CP",
@@ -2308,7 +2316,7 @@
     },
     {
       "raw_hot": 715835,
-      "num": 334120,
+      "num": 575936,
       "word": "解放军绝不允许台湾从中国分裂出去",
       "onboard_time": 1717234636,
       "rank": 11,
@@ -2915,6 +2923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 598161,
+      "num": 335812,
+      "word": "孙卓妈妈感谢学校保护孩子隐私",
+      "onboard_time": 1717238356,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597653,
       "num": 372831,
       "word": "徐贤点赞请愿福宝被虐待的帖",
@@ -3049,6 +3065,14 @@
       "onboard_time": 1716939376,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 584322,
+      "num": 584322,
+      "word": "我永远是张若昀的观众朋友",
+      "onboard_time": 1717234336,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 581148,
@@ -3409,6 +3433,14 @@
       "onboard_time": 1717037237,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539646,
+      "num": 539646,
+      "word": "无名 全员上桌",
+      "onboard_time": 1717236678,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 536689,
@@ -3859,14 +3891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 499627,
-      "num": 499627,
-      "word": "我永远是张若昀的观众朋友",
-      "onboard_time": 1717234336,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 499280,
       "num": 475721,
       "word": "生育越晚更年期也可能会越晚",
@@ -4163,14 +4187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 474826,
-      "num": 474826,
-      "word": "无名 全员上桌",
-      "onboard_time": 1717236678,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 474783,
       "num": 474783,
       "word": "vava被GAI气哭了",
@@ -4272,6 +4288,14 @@
       "word": "大家好像都不被允许休息",
       "onboard_time": 1716855138,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 465476,
+      "num": 465476,
+      "word": "Citywalk后年轻人又爱上了Wildeat",
+      "onboard_time": 1717238356,
+      "rank": 8,
       "category": "情感"
     },
     {
@@ -6275,6 +6299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320860,
+      "num": 320860,
+      "word": "罗云熙演唱会",
+      "onboard_time": 1717239076,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 320772,
       "num": 320772,
       "word": "奔跑吧",
@@ -7027,6 +7059,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 280191,
+      "num": 280191,
+      "word": "郑钦文遭误判",
+      "onboard_time": 1717237158,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280087,
       "num": 280087,
       "word": "北京市民网上买药支持医保支付",
@@ -7040,6 +7080,14 @@
       "word": "武大靖回应学历质疑",
       "onboard_time": 1716874579,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 277838,
+      "num": 277838,
+      "word": "中国女排vs泰国女排",
+      "onboard_time": 1717239076,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -7433,6 +7481,14 @@
       "onboard_time": 1716904218,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260589,
+      "num": 204831,
+      "word": "杨紫 女性一定要有自己的事业",
+      "onboard_time": 1717240338,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260426,
@@ -8897,14 +8953,6 @@
       "onboard_time": 1717203617,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 216615,
-      "num": 216615,
-      "word": "郑钦文遭误判",
-      "onboard_time": 1717237158,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 216604,
@@ -11059,6 +11107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184891,
+      "num": 184891,
+      "word": "离职后的第一件事给自己缴社保",
+      "onboard_time": 1717238417,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184878,
       "num": 184878,
       "word": "一中心",
@@ -11619,6 +11675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175275,
+      "num": 175275,
+      "word": "易烊千玺提名2022年导协年度男演员",
+      "onboard_time": 1717239257,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175203,
       "num": 298263,
       "word": "致敬中国蓝盔",
@@ -11649,6 +11713,14 @@
       "onboard_time": 1716780800,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174731,
+      "num": 174731,
+      "word": "吕珍九胖若两人",
+      "onboard_time": 1717240638,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 174614,
@@ -11993,6 +12065,14 @@
       "onboard_time": 1716788118,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168954,
+      "num": 168954,
+      "word": "古天乐谈20岁进教管所",
+      "onboard_time": 1717239319,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 168941,
@@ -12971,6 +13051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155202,
+      "num": 155202,
+      "word": "李昀锐面部平整度",
+      "onboard_time": 1717239858,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155126,
       "num": 155126,
       "word": "依法从严处理学生欺凌",
@@ -13305,6 +13393,14 @@
       "onboard_time": 1717219937,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151206,
+      "num": 151206,
+      "word": "wildeat",
+      "onboard_time": 1717239678,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 151189,
@@ -14035,6 +14131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 140712,
+      "num": 140712,
+      "word": "陈哲远马伯骞偷偷藏不住售后",
+      "onboard_time": 1717234636,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140526,
       "num": 101354,
       "word": "张若昀网感",
@@ -14297,6 +14401,14 @@
       "onboard_time": 1716897557,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136889,
+      "num": 136889,
+      "word": "戚薇bangbang",
+      "onboard_time": 1717240158,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 136868,
@@ -14913,14 +15025,6 @@
       "onboard_time": 1716815779,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130585,
-      "num": 130585,
-      "word": "陈哲远马伯骞偷偷藏不住售后",
-      "onboard_time": 1717234636,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 130520,
@@ -16219,6 +16323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114556,
+      "num": 114556,
+      "word": "周鸿祎首次回应卖车事件",
+      "onboard_time": 1717239136,
+      "rank": 40,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 114417,
       "num": 127651,
       "word": "小头爸爸 蹲下来和孩子说话",
@@ -16923,6 +17035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103131,
+      "num": 103131,
+      "word": "53岁大叔用AI备考研究生成功",
+      "onboard_time": 1717237578,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102892,
       "num": 102892,
       "word": "六月请对我好一点",
@@ -17099,6 +17219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98646,
+      "num": 98646,
+      "word": "石宇奇连救7个局点",
+      "onboard_time": 1717238777,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98573,
       "num": 98573,
       "word": "贺宗纬是虚伪的伪",
@@ -17116,18 +17244,10 @@
     },
     {
       "raw_hot": 98153,
-      "num": 670730,
+      "num": 684911,
       "word": "从这些童年碎片里看到了小时候",
       "onboard_time": 1717230017,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98082,
-      "num": 98082,
-      "word": "53岁大叔用AI备考研究生成功",
-      "onboard_time": 1717237578,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -17257,6 +17377,14 @@
       "onboard_time": 1716703638,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 93632,
+      "num": 341566,
+      "word": "你还是那个闪闪发光的小孩",
+      "onboard_time": 1717240458,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93631,
@@ -19753,6 +19881,14 @@
       "onboard_time": 1717186091,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13765,
+      "num": 291934,
+      "word": "余承东尹同跃粤港澳车展直播",
+      "onboard_time": 1717239617,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 13435,

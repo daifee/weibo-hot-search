@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717238202193,
+  "endTime": 1717240758124,
   "band_list": [
     {
       "raw_hot": 2314679,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1683772,
-      "num": 337479,
+      "num": 381505,
       "word": "王阳 王一博",
       "onboard_time": 1717235898,
       "rank": 10,
@@ -187,12 +187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 813599,
+      "num": 652358,
+      "word": "田小娟暂停活动",
+      "onboard_time": 1717239076,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806323,
       "num": 806323,
       "word": "900万网红大V被禁言",
       "onboard_time": 1717218377,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 793822,
+      "num": 793822,
+      "word": "以色列",
+      "onboard_time": 1717235477,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 770354,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 715835,
-      "num": 334120,
+      "num": 575936,
       "word": "解放军绝不允许台湾从中国分裂出去",
       "onboard_time": 1717234636,
       "rank": 11,
@@ -283,14 +299,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 638575,
-      "num": 638575,
-      "word": "以色列",
-      "onboard_time": 1717235477,
-      "rank": 5,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 626963,
       "num": 626963,
       "word": "提涨薪1000元都被拒该不该走",
@@ -299,12 +307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 598161,
+      "num": 335812,
+      "word": "孙卓妈妈感谢学校保护孩子隐私",
+      "onboard_time": 1717238356,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595101,
       "num": 284084,
       "word": "你好星期六全员晒童年照",
       "onboard_time": 1717210637,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 584322,
+      "num": 584322,
+      "word": "我永远是张若昀的观众朋友",
+      "onboard_time": 1717234336,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 577501,
@@ -339,6 +363,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 539646,
+      "num": 539646,
+      "word": "无名 全员上桌",
+      "onboard_time": 1717236678,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 533641,
       "num": 533641,
       "word": "欧豪曾在节目里被打出鼻血",
@@ -361,14 +393,6 @@
       "onboard_time": 1717160360,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 499627,
-      "num": 499627,
-      "word": "我永远是张若昀的观众朋友",
-      "onboard_time": 1717234336,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 496160,
@@ -435,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 474826,
-      "num": 474826,
-      "word": "无名 全员上桌",
-      "onboard_time": 1717236678,
-      "rank": 22,
-      "category": "电影"
+      "raw_hot": 465476,
+      "num": 465476,
+      "word": "Citywalk后年轻人又爱上了Wildeat",
+      "onboard_time": 1717238356,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 463896,
@@ -715,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320860,
+      "num": 320860,
+      "word": "罗云熙演唱会",
+      "onboard_time": 1717239076,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 317530,
       "num": 213297,
       "word": "眷思量开播",
@@ -803,12 +835,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280191,
+      "num": 280191,
+      "word": "郑钦文遭误判",
+      "onboard_time": 1717237158,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278621,
       "num": 278621,
       "word": "孙楠第二",
       "onboard_time": 1717164626,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277838,
+      "num": 277838,
+      "word": "中国女排vs泰国女排",
+      "onboard_time": 1717239076,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 274866,
@@ -865,6 +913,14 @@
       "onboard_time": 1717217478,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 260589,
+      "num": 204831,
+      "word": "杨紫 女性一定要有自己的事业",
+      "onboard_time": 1717240338,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 257547,
@@ -977,14 +1033,6 @@
       "onboard_time": 1717203617,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 216615,
-      "num": 216615,
-      "word": "郑钦文遭误判",
-      "onboard_time": 1717237158,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 215868,
@@ -1211,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184891,
+      "num": 184891,
+      "word": "离职后的第一件事给自己缴社保",
+      "onboard_time": 1717238417,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183850,
       "num": 299876,
       "word": "中国女排1比3日本女排",
@@ -1267,6 +1323,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175275,
+      "num": 175275,
+      "word": "易烊千玺提名2022年导协年度男演员",
+      "onboard_time": 1717239257,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 174731,
+      "num": 174731,
+      "word": "吕珍九胖若两人",
+      "onboard_time": 1717240638,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172428,
       "num": 172428,
       "word": "邓超先秦淑女步",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1717199115,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168954,
+      "num": 168954,
+      "word": "古天乐谈20岁进教管所",
+      "onboard_time": 1717239319,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 168941,
@@ -1443,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155202,
+      "num": 155202,
+      "word": "李昀锐面部平整度",
+      "onboard_time": 1717239858,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153893,
       "num": 299149,
       "word": "王曼昱VS伊藤美诚",
@@ -1497,6 +1585,14 @@
       "onboard_time": 1717219937,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151206,
+      "num": 151206,
+      "word": "wildeat",
+      "onboard_time": 1717239678,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 150406,
@@ -1555,6 +1651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140712,
+      "num": 140712,
+      "word": "陈哲远马伯骞偷偷藏不住售后",
+      "onboard_time": 1717234636,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140326,
       "num": 140326,
       "word": "香港绝不是文化历史的荒漠",
@@ -1585,6 +1689,14 @@
       "onboard_time": 1717198334,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136889,
+      "num": 136889,
+      "word": "戚薇bangbang",
+      "onboard_time": 1717240158,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 136499,
@@ -1641,14 +1753,6 @@
       "onboard_time": 1717237518,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130585,
-      "num": 130585,
-      "word": "陈哲远马伯骞偷偷藏不住售后",
-      "onboard_time": 1717234636,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 130483,
@@ -1795,6 +1899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114556,
+      "num": 114556,
+      "word": "周鸿祎首次回应卖车事件",
+      "onboard_time": 1717239136,
+      "rank": 40,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 114417,
       "num": 127651,
       "word": "小头爸爸 蹲下来和孩子说话",
@@ -1875,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108227,
+      "num": 108227,
+      "word": "法网",
+      "onboard_time": 1717240638,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107674,
       "num": 107674,
       "word": "WTT",
@@ -1931,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103131,
+      "num": 103131,
+      "word": "53岁大叔用AI备考研究生成功",
+      "onboard_time": 1717237578,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102892,
       "num": 102892,
       "word": "六月请对我好一点",
@@ -1947,19 +2075,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98646,
+      "num": 98646,
+      "word": "石宇奇连救7个局点",
+      "onboard_time": 1717238777,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98153,
-      "num": 670730,
+      "num": 684911,
       "word": "从这些童年碎片里看到了小时候",
       "onboard_time": 1717230017,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98082,
-      "num": 98082,
-      "word": "53岁大叔用AI备考研究生成功",
-      "onboard_time": 1717237578,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1977,6 +2105,14 @@
       "onboard_time": 1717173616,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93632,
+      "num": 341566,
+      "word": "你还是那个闪闪发光的小孩",
+      "onboard_time": 1717240458,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88530,
@@ -2425,6 +2561,14 @@
       "onboard_time": 1717186091,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13765,
+      "num": 291934,
+      "word": "余承东尹同跃粤港澳车展直播",
+      "onboard_time": 1717239617,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 10436,
