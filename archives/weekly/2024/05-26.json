@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717212986763,
+  "endTime": 1717215741835,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -273,6 +273,14 @@
       "onboard_time": 1716801558,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1894470,
+      "num": 1894470,
+      "word": "靖国神社石柱被红漆涂写英文厕所一词",
+      "onboard_time": 1717210576,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1891456,
@@ -659,14 +667,6 @@
       "category": "科学科普,社会新闻"
     },
     {
-      "raw_hot": 1398461,
-      "num": 1398461,
-      "word": "靖国神社石柱被红漆涂写英文厕所一词",
-      "onboard_time": 1717210576,
-      "rank": 10,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1388990,
       "num": 319678,
       "word": "肝不好的人上厕所或有这3种异样",
@@ -857,6 +857,14 @@
       "onboard_time": 1716776238,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1243095,
+      "num": 481060,
+      "word": "亚当说他很快就会回来",
+      "onboard_time": 1717213997,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1241076,
@@ -3755,6 +3763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 496160,
+      "num": 208661,
+      "word": "那英好奇孙楠的双眼皮",
+      "onboard_time": 1717214357,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495827,
       "num": 495827,
       "word": "肖战藏海传杀青",
@@ -3945,6 +3961,14 @@
       "onboard_time": 1716978019,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481524,
+      "num": 199007,
+      "word": "张若昀下部戏是完美证据",
+      "onboard_time": 1717211657,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 481494,
@@ -4851,6 +4875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 401101,
+      "num": 208616,
+      "word": "磨铁已全面停止对京东发货",
+      "onboard_time": 1717210816,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 400108,
       "num": 400108,
       "word": "狗狗挖出了一只小猫咪",
@@ -5092,7 +5124,7 @@
     },
     {
       "raw_hot": 384912,
-      "num": 201348,
+      "num": 202604,
       "word": "墨雨云间 渣男",
       "onboard_time": 1717210637,
       "rank": 23,
@@ -5347,19 +5379,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 368418,
-      "num": 199007,
-      "word": "张若昀下部戏是完美证据",
-      "onboard_time": 1717211657,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 367490,
       "num": 367490,
       "word": "吴梦洁 打得好",
       "onboard_time": 1716990918,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 366467,
+      "num": 366467,
+      "word": "女排教练",
+      "onboard_time": 1717213816,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -5596,7 +5628,7 @@
     },
     {
       "raw_hot": 350023,
-      "num": 198168,
+      "num": 198362,
       "word": "梦中的那片海未公开剧照",
       "onboard_time": 1717211838,
       "rank": 25,
@@ -6017,6 +6049,14 @@
       "onboard_time": 1717066697,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316519,
+      "num": 196417,
+      "word": "研一开学就拉了坨大的",
+      "onboard_time": 1717211897,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 315929,
@@ -6939,6 +6979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264667,
+      "num": 264667,
+      "word": "发条微博祝自己六一快乐",
+      "onboard_time": 1717210938,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 264221,
       "num": 225606,
       "word": "蒲熠星现场",
@@ -7001,14 +7049,6 @@
       "onboard_time": 1716905901,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 262701,
-      "num": 208616,
-      "word": "磨铁已全面停止对京东发货",
-      "onboard_time": 1717210816,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 262510,
@@ -7899,6 +7939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231828,
+      "num": 190258,
+      "word": "陈赫录节目爆改光头强",
+      "onboard_time": 1717214898,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231814,
       "num": 231814,
       "word": "韩国邻居把我门口的福字撕了",
@@ -8345,14 +8393,6 @@
       "onboard_time": 1716769578,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 220360,
-      "num": 168308,
-      "word": "研一开学就拉了坨大的",
-      "onboard_time": 1717211897,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 220339,
@@ -10171,6 +10211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189456,
+      "num": 189456,
+      "word": "文淇 注意一下你女明星的形象",
+      "onboard_time": 1717214536,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189419,
       "num": 366941,
       "word": "会让infp很感动的话",
@@ -10273,6 +10321,14 @@
       "onboard_time": 1717132759,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188255,
+      "num": 188255,
+      "word": "东方甄选直播间画风变了",
+      "onboard_time": 1717215497,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 188245,
@@ -12323,6 +12379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154893,
+      "num": 154893,
+      "word": "为什么大学生都爱上了过家家",
+      "onboard_time": 1717213458,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154854,
       "num": 174374,
       "word": "西藏日喀则3.8级地震",
@@ -12907,6 +12971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146219,
+      "num": 146219,
+      "word": "泥鳅钻豆腐是假的",
+      "onboard_time": 1717213458,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 146058,
       "num": 146058,
       "word": "东契奇西决MVP",
@@ -13091,14 +13163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143207,
-      "num": 226934,
-      "word": "发条微博祝自己六一快乐",
-      "onboard_time": 1717210938,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 143205,
       "num": 143205,
       "word": "判断一个人上班是否痛苦的依据",
@@ -13121,6 +13185,14 @@
       "onboard_time": 1716948617,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 143017,
+      "num": 143017,
+      "word": "迪丽热巴玩泡泡仙女棒",
+      "onboard_time": 1717212917,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 142764,
@@ -13425,14 +13497,6 @@
       "onboard_time": 1716727699,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138779,
-      "num": 138779,
-      "word": "迪丽热巴玩泡泡仙女棒",
-      "onboard_time": 1717212917,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 138750,
@@ -13953,6 +14017,14 @@
       "onboard_time": 1716855978,
       "rank": 37,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 132561,
+      "num": 132561,
+      "word": "杨洋i人e狗",
+      "onboard_time": 1717213877,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 132554,
@@ -14601,6 +14673,14 @@
       "onboard_time": 1716809238,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 124508,
+      "num": 124508,
+      "word": "小鬼魏大勋毛不易郭麒麟尹正合拍",
+      "onboard_time": 1717214957,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 124468,
@@ -16467,6 +16547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88481,
+      "num": 88481,
+      "word": "拜登称以色列提出加沙停火新提议",
+      "onboard_time": 1717215677,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 87914,
       "num": 207146,
       "word": "今天的快乐是京东618五折给的",
@@ -16721,6 +16809,14 @@
       "onboard_time": 1716876018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78605,
+      "num": 211442,
+      "word": "哪部动画片属于你的童年",
+      "onboard_time": 1717214536,
+      "rank": 9,
+      "category": "社会正能量,动漫"
     },
     {
       "raw_hot": 78526,
@@ -18115,6 +18211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32725,
+      "num": 192130,
+      "word": "不被定义的穿搭是我的盔甲",
+      "onboard_time": 1717214118,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 32572,
       "num": 139737,
       "word": "山东这个小镇电吉他出口占全国四成",
@@ -18137,6 +18241,14 @@
       "onboard_time": 1716841990,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32130,
+      "num": 189636,
+      "word": "遇事不决选大众",
+      "onboard_time": 1717214957,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 31993,
