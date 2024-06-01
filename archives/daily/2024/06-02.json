@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717280206885,
+  "endTime": 1717281277936,
   "band_list": [
     {
       "raw_hot": 1651343,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311939,
+      "num": 311939,
+      "word": "halamadrid",
+      "onboard_time": 1717276451,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302147,
       "num": 302147,
       "word": "董明珠称打工人想要休闲可以辞职",
@@ -179,8 +187,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 237586,
-      "num": 237586,
+      "raw_hot": 245644,
+      "num": 245644,
       "word": "皇马夺得欧冠冠军",
       "onboard_time": 1717276451,
       "rank": 12,
@@ -217,14 +225,6 @@
       "onboard_time": 1717254199,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203976,
-      "num": 203976,
-      "word": "halamadrid",
-      "onboard_time": 1717276451,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 196266,
@@ -515,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41216,
+      "num": 41216,
+      "word": "上班和上学到底哪个更累",
+      "onboard_time": 1717274412,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 40933,
       "num": 40933,
       "word": "林俊杰南昌",
@@ -539,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33785,
-      "num": 33785,
-      "word": "上班和上学到底哪个更累",
-      "onboard_time": 1717274412,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 33104,
       "num": 33104,
       "word": "怪盗基德cos",
@@ -564,11 +564,19 @@
     },
     {
       "raw_hot": 22894,
-      "num": 22894,
+      "num": 29236,
       "word": "加沙的孩子没有儿童节",
       "onboard_time": 1717271651,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 22827,
+      "num": 29247,
+      "word": "当一辈子的沃尔玛推车工可以吗",
+      "onboard_time": 1717279632,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 21723,
@@ -593,14 +601,6 @@
       "onboard_time": 1717260976,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16484,
-      "num": 21943,
-      "word": "当一辈子的沃尔玛推车工可以吗",
-      "onboard_time": 1717279632,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 11543,
