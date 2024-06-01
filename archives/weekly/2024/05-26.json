@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717198472418,
+  "endTime": 1717205007700,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -1811,6 +1811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 800366,
+      "num": 800366,
+      "word": "小谢成功离婚市民高喊加油",
+      "onboard_time": 1717202176,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 794778,
       "num": 794778,
       "word": "钟薛高卖红薯还债能东山再起吗",
@@ -1904,6 +1912,14 @@
       "word": "叶灵儿戏份",
       "onboard_time": 1716857059,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 763735,
+      "num": 606812,
+      "word": "庆帝叶轻眉 道不同不相为谋",
+      "onboard_time": 1717196893,
+      "rank": 1,
       "category": "剧集"
     },
     {
@@ -2025,6 +2041,14 @@
       "onboard_time": 1716799880,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 739761,
+      "num": 212331,
+      "word": "月经期为什么会肚子不舒服",
+      "onboard_time": 1717199534,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 736669,
@@ -2627,14 +2651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 606812,
-      "num": 606812,
-      "word": "庆帝叶轻眉 道不同不相为谋",
-      "onboard_time": 1717196893,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 605766,
       "num": 440246,
       "word": "汪峰方否认出新歌我的梦想我的森林北",
@@ -2969,6 +2985,14 @@
       "onboard_time": 1716978019,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571290,
+      "num": 571290,
+      "word": "lululemon代工厂号称自家平替能以假乱真",
+      "onboard_time": 1717166422,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 571013,
@@ -3755,6 +3779,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491631,
+      "num": 491631,
+      "word": "孙楠 熹妃回宫",
+      "onboard_time": 1717204217,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 489087,
+      "num": 489087,
+      "word": "苗苗对郑恺一见钟情",
+      "onboard_time": 1717197674,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 489086,
       "num": 436996,
       "word": "张雨绮说自己起床就长这样",
@@ -4025,14 +4065,6 @@
       "onboard_time": 1716701838,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 457255,
-      "num": 457255,
-      "word": "lululemon代工厂号称自家平替能以假乱真",
-      "onboard_time": 1717166422,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 457149,
@@ -4579,6 +4611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 416061,
+      "num": 416061,
+      "word": "民警收到00后送的锦旗差点没绷住",
+      "onboard_time": 1717198873,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415933,
       "num": 224551,
       "word": "唐嫣入围白玉兰视后",
@@ -4617,6 +4657,14 @@
       "onboard_time": 1716824598,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 409066,
+      "num": 409066,
+      "word": "五旬老头首战告捷",
+      "onboard_time": 1717201636,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 408980,
@@ -5651,6 +5699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328623,
+      "num": 328623,
+      "word": "六一儿童节",
+      "onboard_time": 1717197614,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327390,
       "num": 327390,
       "word": "金晨鼻子",
@@ -5689,6 +5745,14 @@
       "onboard_time": 1716950177,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 325890,
+      "num": 272099,
+      "word": "我发现人不能一直住太差的房子",
+      "onboard_time": 1717167864,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 325490,
@@ -5753,6 +5817,14 @@
       "onboard_time": 1716987739,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 321524,
+      "num": 321524,
+      "word": "台湾地震",
+      "onboard_time": 1717197854,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320772,
@@ -6059,6 +6131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303405,
+      "num": 303405,
+      "word": "歌手编曲 拉垮",
+      "onboard_time": 1717204096,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303189,
       "num": 288995,
       "word": "庆余年 泪点",
@@ -6283,14 +6363,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 289424,
-      "num": 289424,
-      "word": "六一儿童节",
-      "onboard_time": 1717197614,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 289188,
       "num": 262057,
       "word": "黑袋装卫生巾已经成为过去了",
@@ -6347,6 +6419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286673,
+      "num": 286673,
+      "word": "加沙儿童六一得到的不是礼物而是轰炸",
+      "onboard_time": 1717203376,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 285806,
       "num": 285806,
       "word": "杨幂喝酒封神名场面",
@@ -6377,6 +6457,14 @@
       "onboard_time": 1716694878,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284408,
+      "num": 284408,
+      "word": "C罗赛后痛哭",
+      "onboard_time": 1717198215,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 284214,
@@ -6579,14 +6667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 272099,
-      "num": 272099,
-      "word": "我发现人不能一直住太差的房子",
-      "onboard_time": 1717167864,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 271169,
       "num": 150642,
       "word": "绍兴课上开黄腔教师被警告处分",
@@ -6761,6 +6841,14 @@
       "onboard_time": 1716987256,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263571,
+      "num": 196881,
+      "word": "汪苏泷排名越来越安全了",
+      "onboard_time": 1717204636,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 263532,
@@ -8219,6 +8307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216713,
+      "num": 192050,
+      "word": "王安宇露背走红毯",
+      "onboard_time": 1717203617,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216604,
       "num": 216604,
       "word": "秦L引领油耗进入2时代",
@@ -8257,6 +8353,14 @@
       "onboard_time": 1716706398,
       "rank": 26,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 215868,
+      "num": 191386,
+      "word": "汤唯孔刘合影",
+      "onboard_time": 1717200076,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 215851,
@@ -8393,6 +8497,14 @@
       "onboard_time": 1717129580,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 212942,
+      "num": 252772,
+      "word": "今年六一恰逢周六",
+      "onboard_time": 1717171279,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212864,
@@ -9275,14 +9387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197897,
-      "num": 252772,
-      "word": "今年六一恰逢周六",
-      "onboard_time": 1717171279,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197829,
       "num": 197829,
       "word": "当e人和他的i人朋友老了以后",
@@ -9963,6 +10067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188750,
+      "num": 188750,
+      "word": "断眉为什么叫断眉",
+      "onboard_time": 1717197373,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188700,
       "num": 188700,
       "word": "孙楠 是否爱过我",
@@ -10169,6 +10281,14 @@
       "onboard_time": 1716734840,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185158,
+      "num": 185158,
+      "word": "孙楠感谢每一位观众",
+      "onboard_time": 1717201455,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 185141,
@@ -10459,6 +10579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179919,
+      "num": 179919,
+      "word": "西藏那曲5.9级地震",
+      "onboard_time": 1717204576,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179870,
       "num": 179870,
       "word": "黄奕自认人生谷底是结婚",
@@ -10585,6 +10713,14 @@
       "onboard_time": 1716700399,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177567,
+      "num": 177567,
+      "word": "李沁王阳GQ同框",
+      "onboard_time": 1717203797,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177467,
@@ -11003,6 +11139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170409,
+      "num": 170409,
+      "word": "六月狗屎运最旺的星座",
+      "onboard_time": 1717199115,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170111,
       "num": 170111,
       "word": "郑合惠子出妆",
@@ -11243,6 +11387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166953,
+      "num": 130585,
+      "word": "耳帝说那英唱搁浅小心翼翼",
+      "onboard_time": 1717200256,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166673,
       "num": 166673,
       "word": "aespa美甲",
@@ -11337,14 +11489,6 @@
       "onboard_time": 1716870379,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 165122,
-      "num": 88525,
-      "word": "断眉为什么叫断眉",
-      "onboard_time": 1717197373,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 165087,
@@ -11913,14 +12057,6 @@
       "onboard_time": 1717055898,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155567,
-      "num": 98978,
-      "word": "苗苗对郑恺一见钟情",
-      "onboard_time": 1717197674,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 155564,
@@ -12803,6 +12939,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142071,
+      "num": 142071,
+      "word": "徐凤年的时候没上桌吗",
+      "onboard_time": 1717203196,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142027,
+      "num": 131603,
+      "word": "肖战杀青剧组请客",
+      "onboard_time": 1717199175,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141959,
       "num": 141959,
       "word": "Uzi无缘老头杯淘汰赛",
@@ -13579,6 +13731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132278,
+      "num": 132278,
+      "word": "我做一天小朋友",
+      "onboard_time": 1717203376,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132192,
       "num": 132192,
       "word": "你有过隐私泄露的经历吗",
@@ -13833,6 +13993,14 @@
       "onboard_time": 1716967637,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129086,
+      "num": 129086,
+      "word": "JDG营救无畏于水火之中",
+      "onboard_time": 1717200376,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 129068,
@@ -14363,6 +14531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122332,
+      "num": 122332,
+      "word": "汪苏泷歌手成长史",
+      "onboard_time": 1717201697,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122110,
       "num": 122110,
       "word": "旅客胸背部藏987.4克穿山甲鳞片被查",
@@ -14627,6 +14803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118619,
+      "num": 118619,
+      "word": "世界上最清澈的两个群体相遇了",
+      "onboard_time": 1717198515,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118381,
       "num": 118381,
       "word": "newjeans价值超过1万亿韩元",
@@ -14705,6 +14889,14 @@
       "onboard_time": 1716801978,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117539,
+      "num": 117539,
+      "word": "儿童节文案",
+      "onboard_time": 1717198334,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 117489,
@@ -15235,6 +15427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109213,
+      "num": 109213,
+      "word": "陈昊宇新晋队长",
+      "onboard_time": 1717204936,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109139,
       "num": 250038,
       "word": "比亚迪发布会",
@@ -15449,6 +15649,14 @@
       "onboard_time": 1716982157,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104121,
+      "num": 104121,
+      "word": "中国女排奥运积分形势",
+      "onboard_time": 1717199774,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 104033,
@@ -15753,14 +15961,6 @@
       "onboard_time": 1716712878,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 95802,
-      "num": 95802,
-      "word": "台湾地震",
-      "onboard_time": 1717197854,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95792,
@@ -16187,14 +16387,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 80503,
-      "num": 80503,
-      "word": "C罗赛后痛哭",
-      "onboard_time": 1717198215,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80078,
       "num": 80078,
       "word": "2024快乐儿童节",
@@ -16619,6 +16811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65360,
+      "num": 202872,
+      "word": "为什么免疫力差要多喝鲜奶",
+      "onboard_time": 1717204397,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 64357,
       "num": 441097,
       "word": "90后的家已经是nextlevel",
@@ -16811,14 +17011,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 57488,
-      "num": 57488,
-      "word": "儿童节文案",
-      "onboard_time": 1717198334,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 57319,
       "num": 288665,
       "word": "先来京东领20元",
@@ -16865,6 +17057,14 @@
       "onboard_time": 1717111936,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 55317,
+      "num": 366584,
+      "word": "第一次在大熊猫脸上看到震惊",
+      "onboard_time": 1717202297,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55178,
