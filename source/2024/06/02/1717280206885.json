@@ -1,0 +1,410 @@
+{
+  "runTime": 1717280206885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 237586,
+        "num": 237586,
+        "word": "皇马夺得欧冠冠军",
+        "onboard_time": 1717276451,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203976,
+        "num": 203976,
+        "word": "halamadrid",
+        "onboard_time": 1717276451,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7585,
+        "num": 187175,
+        "word": "不管几岁快乐万岁",
+        "onboard_time": 1717212076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183999,
+        "num": 183999,
+        "word": "皇马",
+        "onboard_time": 1717276451,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157889,
+        "num": 157889,
+        "word": "为什么大脑删除了3岁前的记忆",
+        "onboard_time": 1717251079,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 135175,
+        "num": 135175,
+        "word": "印度大选至少19名官员被热死",
+        "onboard_time": 1717253120,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 112833,
+        "num": 112833,
+        "word": "微信聊天最惹人反感的4种行为",
+        "onboard_time": 1717247719,
+        "rank": 6,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 103602,
+        "num": 103602,
+        "word": "砍60岁网红迎客松涉事人已找到",
+        "onboard_time": 1717253239,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94827,
+        "num": 94827,
+        "word": "8岁女孩脑死亡过最后一个六一",
+        "onboard_time": 1717258877,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3527,
+        "num": 80001,
+        "word": "萌兰在树上蛄蛹成毛毛虫",
+        "onboard_time": 1717257258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247726,
+        "num": 78432,
+        "word": "王阳老婆发声",
+        "onboard_time": 1717244958,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75988,
+        "num": 75988,
+        "word": "再也不敢用酒店的一次性用品了",
+        "onboard_time": 1717233377,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73795,
+        "num": 73795,
+        "word": "多特蒙德vs皇马",
+        "onboard_time": 1717254680,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63414,
+        "num": 63414,
+        "word": "庆余年看不了",
+        "onboard_time": 1717242616,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58118,
+        "num": 58118,
+        "word": "欧冠决赛",
+        "onboard_time": 1717254680,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84767,
+        "num": 58063,
+        "word": "王阳说没有待播的戏后面就没饭吃",
+        "onboard_time": 1717247419,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55460,
+        "num": 55460,
+        "word": "董明珠称打工人想要休闲可以辞职",
+        "onboard_time": 1717245079,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51948,
+        "num": 51948,
+        "word": "局长为谋求副厅被骗300万元",
+        "onboard_time": 1717258578,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48575,
+        "num": 48575,
+        "word": "王俊凯又幸福了",
+        "onboard_time": 1717245679,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46851,
+        "num": 46851,
+        "word": "范思辙名字",
+        "onboard_time": 1717254199,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45860,
+        "num": 45860,
+        "word": "多特蒙德0比2皇马",
+        "onboard_time": 1717276451,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43141,
+        "num": 43141,
+        "word": "女生婚礼前1天被告知酒店停业",
+        "onboard_time": 1717248498,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42842,
+        "num": 42842,
+        "word": "背着善宰跑导演吐槽金惠允外貌",
+        "onboard_time": 1717254799,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39262,
+        "num": 39262,
+        "word": "全世界都知道中国小孩会做饭了",
+        "onboard_time": 1717264334,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37514,
+        "num": 37514,
+        "word": "拒绝的相亲对象5个月后开始信息轰炸",
+        "onboard_time": 1717252939,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37510,
+        "num": 37510,
+        "word": "周迅一口气拿了两个导协年度女演员",
+        "onboard_time": 1717254139,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36655,
+        "num": 36655,
+        "word": "1个月怎么瘦了15斤",
+        "onboard_time": 1717245918,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 36618,
+        "num": 36618,
+        "word": "那英和肖战告夏之光的状",
+        "onboard_time": 1717248019,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34457,
+        "num": 34457,
+        "word": "新华社六一发王一博",
+        "onboard_time": 1717247779,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27880,
+        "num": 33897,
+        "word": "泽连斯基抵达新加坡将参加香会",
+        "onboard_time": 1717249879,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33785,
+        "num": 33785,
+        "word": "上班和上学到底哪个更累",
+        "onboard_time": 1717274412,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32257,
+        "num": 32257,
+        "word": "逆水寒",
+        "onboard_time": 1717245197,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30622,
+        "num": 30622,
+        "word": "郑钦文无缘法网16强",
+        "onboard_time": 1717264934,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112073,
+        "num": 30467,
+        "word": "王阳 王一博",
+        "onboard_time": 1717235898,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30121,
+        "num": 30121,
+        "word": "逆水寒手游回应剑网3",
+        "onboard_time": 1717253718,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28210,
+        "num": 28210,
+        "word": "皇马公布欧冠决赛首发",
+        "onboard_time": 1717274711,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27745,
+        "num": 27745,
+        "word": "刘亦菲草地牵狗",
+        "onboard_time": 1717258458,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26897,
+        "num": 26897,
+        "word": "建议把干发帽换成运动毛巾",
+        "onboard_time": 1717240998,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23971,
+        "num": 23971,
+        "word": "周杰伦王俊凯合唱",
+        "onboard_time": 1717248738,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23715,
+        "num": 23715,
+        "word": "朱一龙 我会少说多做",
+        "onboard_time": 1717260736,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23436,
+        "num": 23436,
+        "word": "薛之谦很豹歉",
+        "onboard_time": 1717255819,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22053,
+        "num": 22053,
+        "word": "田小娟暂停活动",
+        "onboard_time": 1717239076,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21431,
+        "num": 21967,
+        "word": "你可能不是e人也不是i人而是A人",
+        "onboard_time": 1717256658,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21963,
+        "num": 21963,
+        "word": "王俊凯和刘畊宏一家合照",
+        "onboard_time": 1717255879,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19577,
+        "num": 21962,
+        "word": "鬼灭之刃无限城篇三部曲",
+        "onboard_time": 1717256538,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 18194,
+        "num": 21953,
+        "word": "加沙的孩子没有儿童节",
+        "onboard_time": 1717271651,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17440,
+        "num": 21952,
+        "word": "林俊杰南昌",
+        "onboard_time": 1717251499,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16856,
+        "num": 21946,
+        "word": "剑网3否认对某手游IVE事件推波助澜",
+        "onboard_time": 1717256238,
+        "rank": 47,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 16484,
+        "num": 21943,
+        "word": "当一辈子的沃尔玛推车工可以吗",
+        "onboard_time": 1717279632,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15374,
+        "num": 21938,
+        "word": "许嵩呼吸之野演唱会",
+        "onboard_time": 1717254320,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国少年儿童节日快乐#"
+    }
+  }
+}
