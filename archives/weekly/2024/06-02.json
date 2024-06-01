@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717259814673,
+  "endTime": 1717262208602,
   "band_list": [
     {
       "raw_hot": 1651343,
@@ -33,6 +33,14 @@
       "onboard_time": 1717253120,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 668525,
+      "num": 668525,
+      "word": "8岁女孩脑死亡过最后一个六一",
+      "onboard_time": 1717258877,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644721,
@@ -91,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 413331,
+      "num": 256583,
+      "word": "局长为谋求副厅被骗300万元",
+      "onboard_time": 1717258578,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394461,
       "num": 394461,
       "word": "女生婚礼前1天被告知酒店停业",
@@ -139,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269259,
-      "num": 269259,
-      "word": "8岁女孩脑死亡过最后一个六一",
-      "onboard_time": 1717258877,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262095,
       "num": 262095,
       "word": "周迅一口气拿了两个导协年度女演员",
@@ -179,20 +187,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197077,
-      "num": 197077,
-      "word": "局长为谋求副厅被骗300万元",
-      "onboard_time": 1717258578,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196266,
       "num": 163880,
       "word": "1个月怎么瘦了15斤",
       "onboard_time": 1717245918,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 195918,
+      "num": 195918,
+      "word": "朱一龙 我会少说多做",
+      "onboard_time": 1717260736,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 193007,
@@ -256,6 +264,14 @@
       "word": "张杰给歌迷准备无人机惊喜",
       "onboard_time": 1717254979,
       "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 149231,
+      "num": 149231,
+      "word": "周杰伦王俊凯合唱",
+      "onboard_time": 1717248738,
+      "rank": 22,
       "category": "演出"
     },
     {
@@ -395,12 +411,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80499,
+      "num": 80499,
+      "word": "迪丽热巴微博生日惊喜",
+      "onboard_time": 1717261695,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78226,
       "num": 155771,
       "word": "泽连斯基抵达新加坡将参加香会",
       "onboard_time": 1717249879,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 67531,
+      "num": 67531,
+      "word": "张杰演唱会儿童节撒糖",
+      "onboard_time": 1717243399,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 38207,
@@ -417,11 +449,30 @@
       "onboard_time": 1717259117,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12503,
+      "num": 259988,
+      "word": "校长六一表演唱跳连劈两个叉",
+      "onboard_time": 1717260976,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10032,
+      "num": 499264,
+      "word": "不管几岁快乐万岁",
+      "onboard_time": 1717212076,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记和小朋友们的温暖瞬间#"
+    },
+    {
+      "word": "#总书记始终关心少年儿童成长#"
     }
   ]
 }
