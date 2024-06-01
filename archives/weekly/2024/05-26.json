@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717223086661,
+  "endTime": 1717223832065,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1716877637,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1043550,
+      "num": 1043550,
+      "word": "官方通报怀孕学生被当肾病医治后身亡",
+      "onboard_time": 1717222397,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1031743,
@@ -2387,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 663041,
+      "num": 663041,
+      "word": "鞠婧祎绿发",
+      "onboard_time": 1717222397,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 662627,
       "num": 607074,
       "word": "章子怡兜兜转转才45岁",
@@ -2963,14 +2979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 582894,
-      "num": 388921,
-      "word": "官方通报怀孕学生被当肾病医治后身亡",
-      "onboard_time": 1717222397,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 581148,
       "num": 304016,
       "word": "白玉兰 没有刘琳",
@@ -3299,8 +3307,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 547489,
-      "num": 547489,
+      "raw_hot": 548762,
+      "num": 548762,
       "word": "发条微博祝自己六一快乐",
       "onboard_time": 1717210938,
       "rank": 9,
@@ -5019,6 +5027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394481,
+      "num": 394481,
+      "word": "易烊千玺做引体向上",
+      "onboard_time": 1717221557,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394310,
       "num": 394310,
       "word": "央视曝光网课骗局套路",
@@ -5235,20 +5251,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 381323,
-      "num": 381323,
-      "word": "易烊千玺做引体向上",
-      "onboard_time": 1717221557,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380980,
       "num": 380980,
       "word": "人最笨的时候就是问出那句",
       "onboard_time": 1716822680,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 380817,
+      "num": 380817,
+      "word": "愿与愁",
+      "onboard_time": 1717221317,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 380486,
@@ -5465,6 +5481,14 @@
       "onboard_time": 1716770478,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 368018,
+      "num": 368018,
+      "word": "王妈短剧18亿播放被指无播出资质",
+      "onboard_time": 1717222937,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 367490,
@@ -5771,14 +5795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346047,
-      "num": 346047,
-      "word": "愿与愁",
-      "onboard_time": 1717221317,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345277,
       "num": 328832,
       "word": "范闲海棠朵朵抠书式对戏",
@@ -5849,14 +5865,6 @@
       "onboard_time": 1716889758,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337757,
-      "num": 207778,
-      "word": "鞠婧祎绿发",
-      "onboard_time": 1717222397,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 337093,
@@ -6088,6 +6096,14 @@
       "word": "台湾地震",
       "onboard_time": 1717197854,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321352,
+      "num": 321352,
+      "word": "福宝今日探班",
+      "onboard_time": 1717222518,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -6947,6 +6963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273126,
+      "num": 181501,
+      "word": "何洁 尚雯婕",
+      "onboard_time": 1717222817,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272501,
       "num": 181561,
       "word": "张钰琪",
@@ -7801,6 +7825,14 @@
       "onboard_time": 1717159101,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239226,
+      "num": 199857,
+      "word": "导演希望张馨予继续瘦",
+      "onboard_time": 1717222457,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 239060,
@@ -8859,14 +8891,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 212344,
-      "num": 199857,
-      "word": "导演希望张馨予继续瘦",
-      "onboard_time": 1717222457,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211074,
       "num": 211074,
       "word": "背着善宰跑大结局预告",
@@ -8929,6 +8953,14 @@
       "onboard_time": 1716852616,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210229,
+      "num": 199743,
+      "word": "赵丽颖六月的行程",
+      "onboard_time": 1717221557,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 210168,
@@ -9359,14 +9391,6 @@
       "num": 202952,
       "word": "孙楠抵达长沙",
       "onboard_time": 1716939015,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 202916,
-      "num": 199743,
-      "word": "赵丽颖六月的行程",
-      "onboard_time": 1717221557,
       "rank": 26,
       "category": "艺人"
     },
@@ -10163,14 +10187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191808,
-      "num": 191808,
-      "word": "福宝今日探班",
-      "onboard_time": 1717222518,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191701,
       "num": 171256,
       "word": "狐妖小红娘角色适配度",
@@ -10913,14 +10929,6 @@
       "onboard_time": 1717158260,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181501,
-      "num": 181501,
-      "word": "何洁 尚雯婕",
-      "onboard_time": 1717222817,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 181406,
@@ -12443,6 +12451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 157762,
+      "num": 129125,
+      "word": "丁程鑫做儿童节帽子",
+      "onboard_time": 1717223056,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157622,
       "num": 186540,
       "word": "软考",
@@ -13523,14 +13539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142276,
-      "num": 142276,
-      "word": "王妈短剧18亿播放被指无播出资质",
-      "onboard_time": 1717222937,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142264,
       "num": 142264,
       "word": "纳达尔 兹维列夫",
@@ -13561,6 +13569,14 @@
       "onboard_time": 1717131260,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141523,
+      "num": 131220,
+      "word": "顾客在奶茶里喝出整只壁虎",
+      "onboard_time": 1717223119,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 141459,
@@ -15411,6 +15427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119468,
+      "num": 119468,
+      "word": "六一是成年人的gapday",
+      "onboard_time": 1717223296,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119133,
       "num": 119133,
       "word": "猫咪的九条命被人耍了一条",
@@ -15835,14 +15859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112904,
-      "num": 112904,
-      "word": "丁程鑫做儿童节帽子",
-      "onboard_time": 1717223056,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112855,
       "num": 112855,
       "word": "自来水为什么有时候是乳白色",
@@ -16136,6 +16152,14 @@
       "word": "安赛龙退赛",
       "onboard_time": 1717220117,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108336,
+      "num": 108336,
+      "word": "林高远晋级重庆赛8强",
+      "onboard_time": 1717223537,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -17099,6 +17123,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 81373,
+      "num": 96349,
+      "word": "一点点小程序",
+      "onboard_time": 1717220537,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 81125,
       "num": 81125,
       "word": "吴克群回复1818黄金眼",
@@ -17491,6 +17523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67390,
+      "num": 551223,
+      "word": "电子爸妈和他们的113万个孩子",
+      "onboard_time": 1717222037,
+      "rank": 9,
+      "category": "情感,母婴育儿"
+    },
+    {
       "raw_hot": 67186,
       "num": 5716156,
       "word": "高质量发展看能源",
@@ -17825,14 +17865,6 @@
       "onboard_time": 1717117638,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 55021,
-      "num": 392668,
-      "word": "电子爸妈和他们的113万个孩子",
-      "onboard_time": 1717222037,
-      "rank": 9,
-      "category": "情感,母婴育儿"
     },
     {
       "raw_hot": 54947,
@@ -18545,6 +18577,14 @@
       "onboard_time": 1717180092,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35266,
+      "num": 127599,
+      "word": "王鹤棣提问AI熊猫",
+      "onboard_time": 1717223357,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 34737,
