@@ -1,0 +1,410 @@
+{
+  "runTime": 1717226245061,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1929584,
+        "num": 1929584,
+        "word": "官方通报怀孕学生被当肾病医治后身亡",
+        "onboard_time": 1717222397,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888724,
+        "num": 888724,
+        "word": "歌手 艾薇儿",
+        "onboard_time": 1717208478,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50078,
+        "num": 845553,
+        "word": "万千气象看广东",
+        "onboard_time": 1717209377,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 818279,
+        "num": 818279,
+        "word": "鞠婧祎绿发",
+        "onboard_time": 1717222397,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467925,
+        "num": 467925,
+        "word": "6岁孩子打激素长高后频繁生病",
+        "onboard_time": 1717216277,
+        "rank": 4,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 443956,
+        "num": 443956,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717220897,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 780969,
+        "num": 440314,
+        "word": "王妈短剧18亿播放被指无播出资质",
+        "onboard_time": 1717222937,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430882,
+        "num": 430882,
+        "word": "900万网红大V被禁言",
+        "onboard_time": 1717218377,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414539,
+        "num": 414539,
+        "word": "靖国神社石柱被红漆涂写英文厕所一词",
+        "onboard_time": 1717210576,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38607,
+        "num": 400163,
+        "word": "揭秘宠物殡葬的生意经",
+        "onboard_time": 1717225217,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393311,
+        "num": 393311,
+        "word": "发条微博祝自己六一快乐",
+        "onboard_time": 1717210938,
+        "rank": 10,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 388184,
+        "num": 388184,
+        "word": "福宝今日探班",
+        "onboard_time": 1717222518,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379029,
+        "num": 379029,
+        "word": "愿与愁",
+        "onboard_time": 1717221317,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367804,
+        "num": 367804,
+        "word": "亚当说他很快就会回来",
+        "onboard_time": 1717213997,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360923,
+        "num": 360923,
+        "word": "易烊千玺做引体向上",
+        "onboard_time": 1717221557,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352204,
+        "num": 352204,
+        "word": "樊振东vs向鹏",
+        "onboard_time": 1717224198,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312808,
+        "num": 312808,
+        "word": "何洁 尚雯婕",
+        "onboard_time": 1717222817,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279522,
+        "num": 279522,
+        "word": "孙楠得知自己排名前二的表情",
+        "onboard_time": 1717207216,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235083,
+        "num": 235083,
+        "word": "中方确认不参加乌克兰问题和平峰会",
+        "onboard_time": 1717163726,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193709,
+        "num": 193709,
+        "word": "儿童节快乐",
+        "onboard_time": 1717225457,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38686,
+        "num": 193668,
+        "word": "王鹤棣提问AI熊猫",
+        "onboard_time": 1717223357,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438447,
+        "num": 193535,
+        "word": "那英爆了歌坛一个真料两个假料",
+        "onboard_time": 1717219158,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357244,
+        "num": 193241,
+        "word": "顾客在奶茶里喝出整只壁虎",
+        "onboard_time": 1717223119,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247237,
+        "num": 193197,
+        "word": "导演希望张馨予继续瘦",
+        "onboard_time": 1717222457,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229773,
+        "num": 192994,
+        "word": "TFBOYS六一物料",
+        "onboard_time": 1717218437,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213436,
+        "num": 192834,
+        "word": "归亚蕾 庆余年",
+        "onboard_time": 1717225817,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207471,
+        "num": 192708,
+        "word": "六一是成年人的gapday",
+        "onboard_time": 1717223296,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203543,
+        "num": 192555,
+        "word": "李一桐田曦薇挽手",
+        "onboard_time": 1717224978,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207682,
+        "num": 192278,
+        "word": "张馨予回应勒腰制造焦虑",
+        "onboard_time": 1717218377,
+        "rank": 28,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 193755,
+        "num": 192274,
+        "word": "桃花坞650宣布无限期停更",
+        "onboard_time": 1717219577,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192117,
+        "num": 192117,
+        "word": "戚薇如果爱忘了全场大合唱",
+        "onboard_time": 1717225096,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180224,
+        "num": 180224,
+        "word": "白鹿宋雨琦和耳蜗宝宝比心",
+        "onboard_time": 1717224198,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167091,
+        "num": 167091,
+        "word": "磨铁已全面停止对京东发货",
+        "onboard_time": 1717210816,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154285,
+        "num": 154285,
+        "word": "赵丽颖六月的行程",
+        "onboard_time": 1717221557,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146262,
+        "num": 146262,
+        "word": "加沙超14000名儿童已丧生",
+        "onboard_time": 1717225397,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140195,
+        "num": 140195,
+        "word": "孙楠 熹妃回宫",
+        "onboard_time": 1717204217,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140050,
+        "num": 140050,
+        "word": "歌手编曲 拉垮",
+        "onboard_time": 1717204096,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132065,
+        "num": 132065,
+        "word": "lululemon在美国卖不动了",
+        "onboard_time": 1717206257,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 113872,
+        "num": 113872,
+        "word": "月经期为什么会肚子不舒服",
+        "onboard_time": 1717199534,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109709,
+        "num": 109709,
+        "word": "京东回应磨铁抵制京东",
+        "onboard_time": 1717220837,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117784,
+        "num": 109698,
+        "word": "汪苏泷排名越来越安全了",
+        "onboard_time": 1717204636,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112399,
+        "num": 109620,
+        "word": "迪丽热巴六月行程图",
+        "onboard_time": 1717211358,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108735,
+        "num": 108735,
+        "word": "雷军余承东李斌同框",
+        "onboard_time": 1717221017,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108713,
+        "num": 108713,
+        "word": "奔跑吧下期泥潭大战回归",
+        "onboard_time": 1717226058,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107476,
+        "num": 107476,
+        "word": "欧豪曾在节目里被打出鼻血",
+        "onboard_time": 1717216336,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98352,
+        "num": 98352,
+        "word": "东方甄选直播间画风变了",
+        "onboard_time": 1717215497,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97325,
+        "num": 97325,
+        "word": "六月你好",
+        "onboard_time": 1717225997,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87288,
+        "num": 87288,
+        "word": "眷思量镜玄屠丽高甜回归",
+        "onboard_time": 1717223897,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 81636,
+        "num": 81636,
+        "word": "哪部动画片属于你的童年",
+        "onboard_time": 1717214536,
+        "rank": 48,
+        "category": "社会正能量,动漫"
+      },
+      {
+        "raw_hot": 79137,
+        "num": 79137,
+        "word": "陈梦3比2汉娜高达",
+        "onboard_time": 1717220057,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国少年儿童节日快乐#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717223832065,
+  "endTime": 1717226245061,
   "band_list": [
     {
       "raw_hot": 2314679,
@@ -9,6 +9,14 @@
       "onboard_time": 1717208478,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1929584,
+      "num": 1929584,
+      "word": "官方通报怀孕学生被当肾病医治后身亡",
+      "onboard_time": 1717222397,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1894470,
@@ -91,14 +99,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1043550,
-      "num": 1043550,
-      "word": "官方通报怀孕学生被当肾病医治后身亡",
-      "onboard_time": 1717222397,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1042858,
       "num": 1042858,
       "word": "那英快哭了",
@@ -139,12 +139,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 818279,
+      "num": 818279,
+      "word": "鞠婧祎绿发",
+      "onboard_time": 1717222397,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 806323,
       "num": 806323,
       "word": "900万网红大V被禁言",
       "onboard_time": 1717218377,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780969,
+      "num": 440314,
+      "word": "王妈短剧18亿播放被指无播出资质",
+      "onboard_time": 1717222937,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 763735,
@@ -185,14 +201,6 @@
       "onboard_time": 1717151598,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 663041,
-      "num": 663041,
-      "word": "鞠婧祎绿发",
-      "onboard_time": 1717222397,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 661554,
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388184,
+      "num": 388184,
+      "word": "福宝今日探班",
+      "onboard_time": 1717222518,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384912,
       "num": 202953,
       "word": "墨雨云间 渣男",
@@ -451,14 +467,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 368018,
-      "num": 368018,
-      "word": "王妈短剧18亿播放被指无播出资质",
-      "onboard_time": 1717222937,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 367144,
       "num": 281983,
       "word": "王一博王阳都报名了",
@@ -481,6 +489,22 @@
       "onboard_time": 1717217298,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357244,
+      "num": 193241,
+      "word": "顾客在奶茶里喝出整只壁虎",
+      "onboard_time": 1717223119,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 352204,
+      "num": 352204,
+      "word": "樊振东vs向鹏",
+      "onboard_time": 1717224198,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 350023,
@@ -531,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321352,
-      "num": 321352,
-      "word": "福宝今日探班",
-      "onboard_time": 1717222518,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317530,
       "num": 213297,
       "word": "眷思量开播",
@@ -561,6 +577,14 @@
       "onboard_time": 1717167983,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312808,
+      "num": 312808,
+      "word": "何洁 尚雯婕",
+      "onboard_time": 1717222817,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 308083,
@@ -609,14 +633,6 @@
       "onboard_time": 1717215497,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 273126,
-      "num": 181501,
-      "word": "何洁 尚雯婕",
-      "onboard_time": 1717222817,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 272501,
@@ -699,7 +715,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239226,
+      "raw_hot": 247237,
       "num": 199857,
       "word": "导演希望张馨予继续瘦",
       "onboard_time": 1717222457,
@@ -755,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213436,
+      "num": 192834,
+      "word": "归亚蕾 庆余年",
+      "onboard_time": 1717225817,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212942,
       "num": 252772,
       "word": "今年六一恰逢周六",
@@ -787,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207471,
+      "num": 192708,
+      "word": "六一是成年人的gapday",
+      "onboard_time": 1717223296,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206814,
       "num": 206814,
       "word": "王一博六一Q版海报",
@@ -808,6 +840,14 @@
       "word": "李沁王阳GQ同框",
       "onboard_time": 1717203797,
       "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 203543,
+      "num": 192555,
+      "word": "李一桐田曦薇挽手",
+      "onboard_time": 1717224978,
+      "rank": 27,
       "category": "作品衍生,时尚"
     },
     {
@@ -859,6 +899,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193709,
+      "num": 193709,
+      "word": "儿童节快乐",
+      "onboard_time": 1717225457,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192117,
+      "num": 192117,
+      "word": "戚薇如果爱忘了全场大合唱",
+      "onboard_time": 1717225096,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192051,
       "num": 301212,
       "word": "两岁半幼童每天戴12小时牙套",
@@ -905,6 +961,14 @@
       "onboard_time": 1717162645,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180224,
+      "num": 180224,
+      "word": "白鹿宋雨琦和耳蜗宝宝比心",
+      "onboard_time": 1717224198,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 180137,
@@ -1147,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146262,
+      "num": 146262,
+      "word": "加沙超14000名儿童已丧生",
+      "onboard_time": 1717225397,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 146219,
       "num": 146219,
       "word": "泥鳅钻豆腐是假的",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1717212917,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141523,
-      "num": 131220,
-      "word": "顾客在奶茶里喝出整只壁虎",
-      "onboard_time": 1717223119,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 137248,
@@ -1299,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119468,
-      "num": 119468,
-      "word": "六一是成年人的gapday",
-      "onboard_time": 1717223296,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119129,
       "num": 253764,
       "word": "华为发布会",
@@ -1379,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108713,
+      "num": 108713,
+      "word": "奔跑吧下期泥潭大战回归",
+      "onboard_time": 1717226058,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108336,
       "num": 108336,
       "word": "林高远晋级重庆赛8强",
@@ -1443,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97325,
+      "num": 97325,
+      "word": "六月你好",
+      "onboard_time": 1717225997,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96786,
       "num": 96786,
       "word": "狗子偷吃折耳根哐哐一顿炫",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1717197674,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87288,
+      "num": 87288,
+      "word": "眷思量镜玄屠丽高甜回归",
+      "onboard_time": 1717223897,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 84711,
@@ -1635,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50078,
+      "num": 1419718,
+      "word": "万千气象看广东",
+      "onboard_time": 1717209377,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49098,
       "num": 169504,
       "word": "被早c晚a硬控的一天",
@@ -1649,14 +1737,6 @@
       "onboard_time": 1717178473,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 45933,
-      "num": 1419718,
-      "word": "万千气象看广东",
-      "onboard_time": 1717209377,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41246,
@@ -1683,6 +1763,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38686,
+      "num": 193668,
+      "word": "王鹤棣提问AI熊猫",
+      "onboard_time": 1717223357,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38607,
+      "num": 400163,
+      "word": "揭秘宠物殡葬的生意经",
+      "onboard_time": 1717225217,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38320,
       "num": 1310504,
       "word": "高质量发展看能源",
@@ -1705,14 +1801,6 @@
       "onboard_time": 1717180092,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35266,
-      "num": 127599,
-      "word": "王鹤棣提问AI熊猫",
-      "onboard_time": 1717223357,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 31313,

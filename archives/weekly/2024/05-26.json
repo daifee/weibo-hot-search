@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717223832065,
+  "endTime": 1717226245061,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -265,6 +265,14 @@
       "onboard_time": 1716872118,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1929584,
+      "num": 1929584,
+      "word": "官方通报怀孕学生被当肾病医治后身亡",
+      "onboard_time": 1717222397,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1900561,
@@ -1163,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1043550,
-      "num": 1043550,
-      "word": "官方通报怀孕学生被当肾病医治后身亡",
-      "onboard_time": 1717222397,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1031743,
       "num": 1031743,
       "word": "SuperJunior13人合体",
@@ -1763,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 818279,
+      "num": 818279,
+      "word": "鞠婧祎绿发",
+      "onboard_time": 1717222397,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 816851,
       "num": 277213,
       "word": "久穿洞洞鞋容易引发脚气",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1716969497,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 780969,
+      "num": 440314,
+      "word": "王妈短剧18亿播放被指无播出资质",
+      "onboard_time": 1717222937,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 774829,
@@ -2393,14 +2409,6 @@
       "onboard_time": 1716679995,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 663041,
-      "num": 663041,
-      "word": "鞠婧祎绿发",
-      "onboard_time": 1717222397,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 662627,
@@ -5131,6 +5139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 388184,
+      "num": 388184,
+      "word": "福宝今日探班",
+      "onboard_time": 1717222518,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387837,
       "num": 387837,
       "word": "国防部说台独等于战争",
@@ -5483,14 +5499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 368018,
-      "num": 368018,
-      "word": "王妈短剧18亿播放被指无播出资质",
-      "onboard_time": 1717222937,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 367490,
       "num": 367490,
       "word": "吴梦洁 打得好",
@@ -5635,6 +5643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357244,
+      "num": 193241,
+      "word": "顾客在奶茶里喝出整只壁虎",
+      "onboard_time": 1717223119,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 357095,
       "num": 357095,
       "word": "缅北电诈四大家族悉数抓捕到案",
@@ -5681,6 +5697,14 @@
       "onboard_time": 1716809538,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 352204,
+      "num": 352204,
+      "word": "樊振东vs向鹏",
+      "onboard_time": 1717224198,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 351849,
@@ -6099,14 +6123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321352,
-      "num": 321352,
-      "word": "福宝今日探班",
-      "onboard_time": 1717222518,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320772,
       "num": 320772,
       "word": "奔跑吧",
@@ -6241,6 +6257,14 @@
       "onboard_time": 1716787039,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312808,
+      "num": 312808,
+      "word": "何洁 尚雯婕",
+      "onboard_time": 1717222817,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 312530,
@@ -6963,14 +6987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 273126,
-      "num": 181501,
-      "word": "何洁 尚雯婕",
-      "onboard_time": 1717222817,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272501,
       "num": 181561,
       "word": "张钰琪",
@@ -7563,6 +7579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 247237,
+      "num": 199857,
+      "word": "导演希望张馨予继续瘦",
+      "onboard_time": 1717222457,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247230,
       "num": 247230,
       "word": "内娱红毯为什么变无聊了",
@@ -7825,14 +7849,6 @@
       "onboard_time": 1717159101,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239226,
-      "num": 199857,
-      "word": "导演希望张馨予继续瘦",
-      "onboard_time": 1717222457,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 239060,
@@ -8835,6 +8851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213436,
+      "num": 192834,
+      "word": "归亚蕾 庆余年",
+      "onboard_time": 1717225817,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213346,
       "num": 213346,
       "word": "杨幂齐刘海路透",
@@ -9155,6 +9179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 207471,
+      "num": 192708,
+      "word": "六一是成年人的gapday",
+      "onboard_time": 1717223296,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207289,
       "num": 174427,
       "word": "向佐回应掉粉",
@@ -9369,6 +9401,14 @@
       "onboard_time": 1716693257,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203543,
+      "num": 192555,
+      "word": "李一桐田曦薇挽手",
+      "onboard_time": 1717224978,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 203218,
@@ -10091,6 +10131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193709,
+      "num": 193709,
+      "word": "儿童节快乐",
+      "onboard_time": 1717225457,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193644,
       "num": 193644,
       "word": "星痕铃铛傲寒挂牌",
@@ -10169,6 +10217,14 @@
       "onboard_time": 1716703038,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 192117,
+      "num": 192117,
+      "word": "戚薇如果爱忘了全场大合唱",
+      "onboard_time": 1717225096,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 191930,
@@ -11001,6 +11057,14 @@
       "onboard_time": 1716857118,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180224,
+      "num": 180224,
+      "word": "白鹿宋雨琦和耳蜗宝宝比心",
+      "onboard_time": 1717224198,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 180137,
@@ -13251,6 +13315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146262,
+      "num": 146262,
+      "word": "加沙超14000名儿童已丧生",
+      "onboard_time": 1717225397,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 146219,
       "num": 146219,
       "word": "泥鳅钻豆腐是假的",
@@ -13569,14 +13641,6 @@
       "onboard_time": 1717131260,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141523,
-      "num": 131220,
-      "word": "顾客在奶茶里喝出整只壁虎",
-      "onboard_time": 1717223119,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 141459,
@@ -15427,14 +15491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119468,
-      "num": 119468,
-      "word": "六一是成年人的gapday",
-      "onboard_time": 1717223296,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119133,
       "num": 119133,
       "word": "猫咪的九条命被人耍了一条",
@@ -16155,6 +16211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108713,
+      "num": 108713,
+      "word": "奔跑吧下期泥潭大战回归",
+      "onboard_time": 1717226058,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108336,
       "num": 108336,
       "word": "林高远晋级重庆赛8强",
@@ -16643,6 +16707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97325,
+      "num": 97325,
+      "word": "六月你好",
+      "onboard_time": 1717225997,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97214,
       "num": 334346,
       "word": "在最贵的婚车上撒最甜的糖",
@@ -16945,6 +17017,14 @@
       "onboard_time": 1716952760,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87288,
+      "num": 87288,
+      "word": "眷思量镜玄屠丽高甜回归",
+      "onboard_time": 1717223897,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 87223,
@@ -18475,6 +18555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38686,
+      "num": 193668,
+      "word": "王鹤棣提问AI熊猫",
+      "onboard_time": 1717223357,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38607,
+      "num": 400163,
+      "word": "揭秘宠物殡葬的生意经",
+      "onboard_time": 1717225217,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38051,
       "num": 452824,
       "word": "萌兰和彩虹同框了",
@@ -18577,14 +18673,6 @@
       "onboard_time": 1717180092,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35266,
-      "num": 127599,
-      "word": "王鹤棣提问AI熊猫",
-      "onboard_time": 1717223357,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 34737,
