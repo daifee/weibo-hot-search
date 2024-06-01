@@ -1,6 +1,6 @@
 {
   "startTime": 1716654087922,
-  "endTime": 1717240758124,
+  "endTime": 1717241743556,
   "band_list": [
     {
       "raw_hot": 11274014,
@@ -1739,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 839545,
+      "num": 839545,
+      "word": "田小娟暂停活动",
+      "onboard_time": 1717239076,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 837369,
       "num": 837369,
       "word": "魏明伦去世",
@@ -1865,14 +1873,6 @@
       "onboard_time": 1716713239,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 813599,
-      "num": 652358,
-      "word": "田小娟暂停活动",
-      "onboard_time": 1717239076,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 813000,
@@ -2020,7 +2020,7 @@
     },
     {
       "raw_hot": 770354,
-      "num": 210304,
+      "num": 220107,
       "word": "长期吃猪油身体都怎么样了",
       "onboard_time": 1717228158,
       "rank": 23,
@@ -2425,6 +2425,14 @@
       "onboard_time": 1717120337,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 679701,
+      "num": 361533,
+      "word": "孙卓妈妈感谢学校保护孩子隐私",
+      "onboard_time": 1717238356,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 678976,
@@ -2921,14 +2929,6 @@
       "onboard_time": 1717133238,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 598161,
-      "num": 335812,
-      "word": "孙卓妈妈感谢学校保护孩子隐私",
-      "onboard_time": 1717238356,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 597653,
@@ -3433,6 +3433,14 @@
       "onboard_time": 1717037237,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541510,
+      "num": 541510,
+      "word": "Citywalk后年轻人又爱上了Wildeat",
+      "onboard_time": 1717238356,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 539646,
@@ -4288,14 +4296,6 @@
       "word": "大家好像都不被允许休息",
       "onboard_time": 1716855138,
       "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 465476,
-      "num": 465476,
-      "word": "Citywalk后年轻人又爱上了Wildeat",
-      "onboard_time": 1717238356,
-      "rank": 8,
       "category": "情感"
     },
     {
@@ -5499,6 +5499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377005,
+      "num": 221346,
+      "word": "杨紫 女性一定要有自己的事业",
+      "onboard_time": 1717240338,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 376511,
       "num": 376511,
       "word": "飞机为什么怕你带超过100ml液体",
@@ -6331,6 +6339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320259,
+      "num": 320259,
+      "word": "中国女排vs泰国女排",
+      "onboard_time": 1717239076,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319891,
       "num": 319891,
       "word": "圆明园临时闭园",
@@ -6377,6 +6393,14 @@
       "onboard_time": 1717066697,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316065,
+      "num": 316065,
+      "word": "吕珍九胖若两人",
+      "onboard_time": 1717240638,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 315929,
@@ -7083,14 +7107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277838,
-      "num": 277838,
-      "word": "中国女排vs泰国女排",
-      "onboard_time": 1717239076,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277369,
       "num": 277369,
       "word": "外媒把吴君如认成了章子怡",
@@ -7481,14 +7497,6 @@
       "onboard_time": 1716904218,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260589,
-      "num": 204831,
-      "word": "杨紫 女性一定要有自己的事业",
-      "onboard_time": 1717240338,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 260426,
@@ -8209,6 +8217,14 @@
       "onboard_time": 1716967398,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 235325,
+      "num": 235325,
+      "word": "宁艺卓在综艺上唱heya",
+      "onboard_time": 1717241417,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 235210,
@@ -9595,6 +9611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205152,
+      "num": 205152,
+      "word": "离职后的第一件事给自己缴社保",
+      "onboard_time": 1717238417,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205115,
       "num": 205115,
       "word": "范闲骑马",
@@ -10803,6 +10827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189103,
+      "num": 189103,
+      "word": "檀健次时装周行程",
+      "onboard_time": 1717241358,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189072,
       "num": 183862,
       "word": "赵奕欢乘风报名了四季",
@@ -11105,14 +11137,6 @@
       "onboard_time": 1717140139,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 184891,
-      "num": 184891,
-      "word": "离职后的第一件事给自己缴社保",
-      "onboard_time": 1717238417,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 184878,
@@ -11563,6 +11587,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 176952,
+      "num": 176952,
+      "word": "易烊千玺提名2022年导协年度男演员",
+      "onboard_time": 1717239257,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176776,
       "num": 341730,
       "word": "无锡晋升2024新一线",
@@ -11675,14 +11707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175275,
-      "num": 175275,
-      "word": "易烊千玺提名2022年导协年度男演员",
-      "onboard_time": 1717239257,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 175203,
       "num": 298263,
       "word": "致敬中国蓝盔",
@@ -11713,14 +11737,6 @@
       "onboard_time": 1716780800,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174731,
-      "num": 174731,
-      "word": "吕珍九胖若两人",
-      "onboard_time": 1717240638,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 174614,
@@ -12499,6 +12515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163774,
+      "num": 155457,
+      "word": "建议把干发帽换成运动毛巾",
+      "onboard_time": 1717240998,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 163715,
       "num": 155965,
       "word": "90后称百元内的国产耳机就很好用",
@@ -12585,6 +12609,14 @@
       "onboard_time": 1716864918,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162451,
+      "num": 162451,
+      "word": "李昀锐面部平整度",
+      "onboard_time": 1717239858,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 162436,
@@ -13049,14 +13081,6 @@
       "onboard_time": 1717235598,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155202,
-      "num": 155202,
-      "word": "李昀锐面部平整度",
-      "onboard_time": 1717239858,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 155126,
@@ -13883,6 +13907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143429,
+      "num": 143429,
+      "word": "戚薇bangbang",
+      "onboard_time": 1717240158,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143416,
       "num": 135645,
       "word": "宁静晒花少合照",
@@ -14403,12 +14435,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136889,
-      "num": 136889,
-      "word": "戚薇bangbang",
-      "onboard_time": 1717240158,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 136897,
+      "num": 136897,
+      "word": "法网",
+      "onboard_time": 1716722957,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 136868,
@@ -14521,6 +14553,14 @@
       "onboard_time": 1716860838,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135719,
+      "num": 135719,
+      "word": "中国电影导演之夜",
+      "onboard_time": 1717241417,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 135688,
@@ -14673,6 +14713,14 @@
       "onboard_time": 1716898937,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134380,
+      "num": 134380,
+      "word": "金莎男友换发型了",
+      "onboard_time": 1717241296,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 134254,
@@ -15289,14 +15337,6 @@
       "onboard_time": 1716708379,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127087,
-      "num": 136876,
-      "word": "法网",
-      "onboard_time": 1716722957,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 127001,
@@ -16467,6 +16507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112121,
+      "num": 112121,
+      "word": "二建法规",
+      "onboard_time": 1717240818,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111982,
       "num": 135095,
       "word": "不熟的学弟很关心我博士毕业",
@@ -17244,7 +17292,7 @@
     },
     {
       "raw_hot": 98153,
-      "num": 684911,
+      "num": 839688,
       "word": "从这些童年碎片里看到了小时候",
       "onboard_time": 1717230017,
       "rank": 2,
@@ -17380,7 +17428,7 @@
     },
     {
       "raw_hot": 93632,
-      "num": 341566,
+      "num": 383429,
       "word": "你还是那个闪闪发光的小孩",
       "onboard_time": 1717240458,
       "rank": 11,
@@ -17801,6 +17849,14 @@
       "onboard_time": 1717115898,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 80321,
+      "num": 98731,
+      "word": "新加坡赛石宇奇进决赛",
+      "onboard_time": 1717239076,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 80078,
@@ -19811,6 +19867,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 17308,
+      "num": 307686,
+      "word": "余承东尹同跃粤港澳车展直播",
+      "onboard_time": 1717239617,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 16636,
       "num": 16636,
       "word": "这孩子将来得是国际锯星",
@@ -19881,14 +19945,6 @@
       "onboard_time": 1717186091,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13765,
-      "num": 291934,
-      "word": "余承东尹同跃粤港澳车展直播",
-      "onboard_time": 1717239617,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 13435,

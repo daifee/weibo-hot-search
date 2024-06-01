@@ -1,0 +1,410 @@
+{
+  "runTime": 1717241743556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1158064,
+        "num": 1158064,
+        "word": "再也不敢用酒店的一次性用品了",
+        "onboard_time": 1717233377,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 845729,
+        "num": 845729,
+        "word": "以色列",
+        "onboard_time": 1717235477,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 87582,
+        "num": 839688,
+        "word": "从这些童年碎片里看到了小时候",
+        "onboard_time": 1717230017,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839545,
+        "num": 839545,
+        "word": "田小娟暂停活动",
+        "onboard_time": 1717239076,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541510,
+        "num": 541510,
+        "word": "Citywalk后年轻人又爱上了Wildeat",
+        "onboard_time": 1717238356,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 520995,
+        "num": 520995,
+        "word": "我永远是张若昀的观众朋友",
+        "onboard_time": 1717234336,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500618,
+        "num": 500618,
+        "word": "孕妇坠崖案当事人再为人母",
+        "onboard_time": 1717228998,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474252,
+        "num": 474252,
+        "word": "无名 全员上桌",
+        "onboard_time": 1717236678,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 448590,
+        "num": 448590,
+        "word": "解放军绝不允许台湾从中国分裂出去",
+        "onboard_time": 1717234636,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67781,
+        "num": 383429,
+        "word": "你还是那个闪闪发光的小孩",
+        "onboard_time": 1717240458,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679701,
+        "num": 361533,
+        "word": "孙卓妈妈感谢学校保护孩子隐私",
+        "onboard_time": 1717238356,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336400,
+        "num": 336400,
+        "word": "歌手 艾薇儿",
+        "onboard_time": 1717208478,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320259,
+        "num": 320259,
+        "word": "中国女排vs泰国女排",
+        "onboard_time": 1717239076,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316065,
+        "num": 316065,
+        "word": "吕珍九胖若两人",
+        "onboard_time": 1717240638,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17308,
+        "num": 307686,
+        "word": "余承东尹同跃粤港澳车展直播",
+        "onboard_time": 1717239617,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1217284,
+        "num": 307491,
+        "word": "王阳 王一博",
+        "onboard_time": 1717235898,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305051,
+        "num": 305051,
+        "word": "罗云熙演唱会",
+        "onboard_time": 1717239076,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235325,
+        "num": 235325,
+        "word": "宁艺卓在综艺上唱heya",
+        "onboard_time": 1717241417,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225429,
+        "num": 225429,
+        "word": "郑钦文遭误判",
+        "onboard_time": 1717237158,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224409,
+        "num": 224409,
+        "word": "提涨薪1000元都被拒该不该走",
+        "onboard_time": 1717231817,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 514247,
+        "num": 221793,
+        "word": "官方通报怀孕学生被当肾病医治后身亡",
+        "onboard_time": 1717222397,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377005,
+        "num": 221346,
+        "word": "杨紫 女性一定要有自己的事业",
+        "onboard_time": 1717240338,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306952,
+        "num": 220107,
+        "word": "长期吃猪油身体都怎么样了",
+        "onboard_time": 1717228158,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 218363,
+        "num": 218363,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717220897,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206030,
+        "num": 206030,
+        "word": "王妈短剧18亿播放被指无播出资质",
+        "onboard_time": 1717222937,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205152,
+        "num": 205152,
+        "word": "离职后的第一件事给自己缴社保",
+        "onboard_time": 1717238417,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199030,
+        "num": 199030,
+        "word": "王俊凯周杰伦演唱会彩排",
+        "onboard_time": 1717230858,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189103,
+        "num": 189103,
+        "word": "檀健次时装周行程",
+        "onboard_time": 1717241358,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176952,
+        "num": 176952,
+        "word": "易烊千玺提名2022年导协年度男演员",
+        "onboard_time": 1717239257,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162451,
+        "num": 162451,
+        "word": "李昀锐面部平整度",
+        "onboard_time": 1717239858,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163774,
+        "num": 155457,
+        "word": "建议把干发帽换成运动毛巾",
+        "onboard_time": 1717240998,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 146731,
+        "num": 146731,
+        "word": "古天乐谈20岁进教管所",
+        "onboard_time": 1717239319,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143429,
+        "num": 143429,
+        "word": "戚薇bangbang",
+        "onboard_time": 1717240158,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141721,
+        "num": 141721,
+        "word": "儿童节快乐",
+        "onboard_time": 1717225457,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139264,
+        "num": 139264,
+        "word": "王传君无名提名年度男演员",
+        "onboard_time": 1717230977,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136897,
+        "num": 136897,
+        "word": "法网",
+        "onboard_time": 1717240638,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135719,
+        "num": 135719,
+        "word": "中国电影导演之夜",
+        "onboard_time": 1717241417,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134956,
+        "num": 134956,
+        "word": "周深演唱会",
+        "onboard_time": 1717228876,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134380,
+        "num": 134380,
+        "word": "金莎男友换发型了",
+        "onboard_time": 1717241296,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125030,
+        "num": 127075,
+        "word": "顾客在奶茶里喝出整只壁虎",
+        "onboard_time": 1717223119,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126561,
+        "num": 126561,
+        "word": "间谍过家家次子出战排球少年",
+        "onboard_time": 1717236737,
+        "rank": 40,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 125200,
+        "num": 125200,
+        "word": "那英爆了歌坛一个真料两个假料",
+        "onboard_time": 1717219158,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121350,
+        "num": 121350,
+        "word": "17岁少年冲进火场救人牺牲",
+        "onboard_time": 1717230858,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115250,
+        "num": 115250,
+        "word": "鞠婧祎绿发",
+        "onboard_time": 1717222397,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112617,
+        "num": 112617,
+        "word": "华语乐坛三杰",
+        "onboard_time": 1717237937,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112121,
+        "num": 112121,
+        "word": "二建法规",
+        "onboard_time": 1717240818,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102854,
+        "num": 102854,
+        "word": "冰红茶直播",
+        "onboard_time": 1717230738,
+        "rank": 46,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 99622,
+        "num": 99622,
+        "word": "53岁大叔用AI备考研究生成功",
+        "onboard_time": 1717237578,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85634,
+        "num": 99441,
+        "word": "周鸿祎首次回应卖车事件",
+        "onboard_time": 1717239136,
+        "rank": 48,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 80321,
+        "num": 98731,
+        "word": "新加坡赛石宇奇进决赛",
+        "onboard_time": 1717239076,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终关心少年儿童成长#"
+    }
+  }
+}
