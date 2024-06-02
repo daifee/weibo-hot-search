@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717335253458,
+  "endTime": 1717337767771,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -9,6 +9,14 @@
       "onboard_time": 1717292896,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1991402,
+      "num": 1991402,
+      "word": "庆余年第三季",
+      "onboard_time": 1717333279,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1756676,
@@ -65,14 +73,6 @@
       "onboard_time": 1717292896,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1347627,
-      "num": 1347627,
-      "word": "庆余年第三季",
-      "onboard_time": 1717333279,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1319857,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 899790,
+      "num": 899790,
+      "word": "日本垃圾桶",
+      "onboard_time": 1717334360,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 859961,
       "num": 450259,
       "word": "一栗小莎子官宣生子",
@@ -259,12 +267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 725009,
+      "num": 647694,
+      "word": "猫眼 退票",
+      "onboard_time": 1717336099,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 718868,
       "num": 637378,
       "word": "杨天真",
       "onboard_time": 1717328358,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 709437,
+      "num": 563251,
+      "word": "Angelababy原相机营业自拍",
+      "onboard_time": 1717335499,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 672083,
@@ -323,12 +347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 616954,
+      "num": 616954,
+      "word": "王楚钦vs邱党",
+      "onboard_time": 1717336401,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 614545,
       "num": 446245,
       "word": "贾玲深V黑裙",
       "onboard_time": 1717296978,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 608112,
+      "num": 208503,
+      "word": "杭州女子一年内确诊三种癌",
+      "onboard_time": 1717335019,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596764,
@@ -353,6 +393,14 @@
       "onboard_time": 1717301418,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 566300,
+      "num": 201272,
+      "word": "李沁一字告别庆余年",
+      "onboard_time": 1717336459,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 566024,
@@ -385,6 +433,22 @@
       "onboard_time": 1717315758,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 541834,
+      "num": 541834,
+      "word": "赵露思陈伟霆 许你耀眼",
+      "onboard_time": 1717335799,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 519408,
+      "num": 519408,
+      "word": "猫眼回应王源演唱会抢票卡顿",
+      "onboard_time": 1717335079,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 514973,
@@ -531,20 +595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441028,
+      "num": 441028,
+      "word": "佟梦实说会为庆余年3好好保养",
+      "onboard_time": 1717332319,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440173,
       "num": 440173,
       "word": "冰淇淋重回5元时代",
       "onboard_time": 1717296676,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 438887,
-      "num": 430456,
-      "word": "佟梦实说会为庆余年3好好保养",
-      "onboard_time": 1717332319,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 433050,
@@ -619,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412962,
+      "num": 412962,
+      "word": "中国女排积分被日本反超",
+      "onboard_time": 1717335860,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404844,
       "num": 367237,
       "word": "陈梦vs张本美和",
@@ -675,12 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393843,
-      "num": 393843,
-      "word": "日本垃圾桶",
-      "onboard_time": 1717334360,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 393362,
+      "num": 232664,
+      "word": "付辛博告别大皇子",
+      "onboard_time": 1717334779,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 391815,
@@ -859,12 +931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 335601,
-      "num": 232664,
-      "word": "付辛博告别大皇子",
-      "onboard_time": 1717334779,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 341306,
+      "num": 193477,
+      "word": "猫眼崩了",
+      "onboard_time": 1717335739,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 334313,
@@ -899,12 +971,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321181,
+      "num": 191275,
+      "word": "退票",
+      "onboard_time": 1717336941,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 320897,
       "num": 320897,
       "word": "中国女排0比1意大利女排",
       "onboard_time": 1717331179,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314000,
+      "num": 187422,
+      "word": "张杰Angel改张杰",
+      "onboard_time": 1717337000,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 304578,
+      "num": 175671,
+      "word": "猫眼",
+      "onboard_time": 1717335739,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 302891,
@@ -1203,6 +1299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230097,
+      "num": 230097,
+      "word": "朱婷就发了个球",
+      "onboard_time": 1717336280,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229096,
       "num": 229096,
       "word": "中国女排澳门站2胜2负",
@@ -1323,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210109,
+      "num": 171800,
+      "word": "张杰问谁家的醋坛子打翻了",
+      "onboard_time": 1717337180,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209763,
       "num": 209763,
       "word": "闪耀暖暖星云转转裙",
@@ -1337,14 +1449,6 @@
       "onboard_time": 1717247779,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208503,
-      "num": 208503,
-      "word": "杭州女子一年内确诊三种癌",
-      "onboard_time": 1717335019,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206963,
@@ -1427,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198779,
+      "num": 170618,
+      "word": "迪丽热巴新EP跳舞",
+      "onboard_time": 1717337719,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196840,
       "num": 222037,
       "word": "太阳连续爆发三次耀斑",
@@ -1457,14 +1569,6 @@
       "onboard_time": 1717304118,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195008,
-      "num": 195008,
-      "word": "猫眼回应王源演唱会抢票卡顿",
-      "onboard_time": 1717335079,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 194567,
@@ -1515,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191951,
+      "num": 167298,
+      "word": "猫眼演出",
+      "onboard_time": 1717337000,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190769,
       "num": 190769,
       "word": "张柏芝工作室声明",
@@ -1563,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186501,
+      "num": 164129,
+      "word": "肖战藏海反差感",
+      "onboard_time": 1717336459,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186311,
       "num": 192484,
       "word": "月背挖土像穿袜子",
@@ -1585,6 +1705,22 @@
       "onboard_time": 1717297142,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182799,
+      "num": 162614,
+      "word": "胡歌清唱六月的雨",
+      "onboard_time": 1717337481,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 181811,
+      "num": 181811,
+      "word": "惠若琪解说",
+      "onboard_time": 1717335499,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 181456,
@@ -1680,6 +1816,14 @@
       "word": "王曼昱vs王艺迪",
       "onboard_time": 1717327338,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170524,
+      "num": 170524,
+      "word": "杨舒予太牛了",
+      "onboard_time": 1717336759,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -2091,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136299,
+      "num": 136299,
+      "word": "抽血可以查出癌吗",
+      "onboard_time": 1717334779,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 133691,
       "num": 133691,
       "word": "原来真的有人一上班就会吐",
@@ -2107,20 +2259,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 131248,
-      "num": 131248,
-      "word": "抽血可以查出癌吗",
-      "onboard_time": 1717334779,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 130575,
       "num": 130575,
       "word": "部分轻奢品牌正被抛弃",
       "onboard_time": 1717313177,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 129851,
+      "num": 173598,
+      "word": "孙颖莎王曼昱会师决赛",
+      "onboard_time": 1717337599,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 127969,
@@ -2715,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78742,
+      "num": 1172819,
+      "word": "月背再次迎来中国的航天器",
+      "onboard_time": 1717331539,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78226,
       "num": 155771,
       "word": "泽连斯基抵达新加坡将参加香会",
@@ -2777,14 +2937,6 @@
       "onboard_time": 1717283353,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66594,
-      "num": 1172819,
-      "word": "月背再次迎来中国的航天器",
-      "onboard_time": 1717331539,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62090,
@@ -2937,6 +3089,14 @@
       "onboard_time": 1717235598,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35689,
+      "num": 572559,
+      "word": "班主任带亲手种向日葵拍高三毕业照",
+      "onboard_time": 1717337239,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 34655,
