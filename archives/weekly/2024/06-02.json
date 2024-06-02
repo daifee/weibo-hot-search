@@ -1,7 +1,15 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717292660107,
+  "endTime": 1717295759678,
   "band_list": [
+    {
+      "raw_hot": 1939640,
+      "num": 1939640,
+      "word": "贾玲Prada",
+      "onboard_time": 1717292896,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1651343,
       "num": 334538,
@@ -19,6 +27,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1255136,
+      "num": 1255136,
+      "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
+      "onboard_time": 1717292896,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1210210,
+      "num": 1004042,
+      "word": "为什么年轻人宁愿工资低点也要过得舒服",
+      "onboard_time": 1717287856,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1197918,
       "num": 1197918,
       "word": "微信聊天最惹人反感的4种行为",
@@ -27,12 +51,12 @@
       "category": "互联网,情感"
     },
     {
-      "raw_hot": 1004042,
-      "num": 1004042,
-      "word": "为什么年轻人宁愿工资低点也要过得舒服",
-      "onboard_time": 1717287856,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 1100640,
+      "num": 1100640,
+      "word": "藏海传全阵容官宣",
+      "onboard_time": 1717294457,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 759002,
@@ -75,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621545,
+      "num": 317437,
+      "word": "米卡 忘了我是外国人",
+      "onboard_time": 1717293377,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556183,
       "num": 556183,
       "word": "王俊凯又幸福了",
@@ -89,6 +121,14 @@
       "onboard_time": 1717251079,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 485100,
+      "num": 412556,
+      "word": "Prada选对人了",
+      "onboard_time": 1717293317,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 479775,
@@ -195,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366814,
+      "num": 366814,
+      "word": "张若昀李沁再拍部剧吧",
+      "onboard_time": 1717292535,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364860,
       "num": 364860,
       "word": "皇马夺得欧冠冠军",
@@ -227,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 309947,
+      "num": 309947,
+      "word": "巴勒斯坦儿童",
+      "onboard_time": 1717291276,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 302147,
       "num": 302147,
       "word": "董明珠称打工人想要休闲可以辞职",
@@ -251,6 +307,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271280,
+      "num": 271280,
+      "word": "为什么有的人一天只睡4小时也很精神",
+      "onboard_time": 1717289656,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 268711,
+      "num": 268711,
+      "word": "不法人员在充电宝内安装窃听定位",
+      "onboard_time": 1717289717,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265644,
+      "num": 265644,
+      "word": "藏海传",
+      "onboard_time": 1717295177,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262095,
       "num": 262095,
       "word": "周迅一口气拿了两个导协年度女演员",
@@ -259,20 +339,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244230,
+      "num": 201989,
+      "word": "一栗小莎子官宣生子",
+      "onboard_time": 1717295297,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 243833,
       "num": 243833,
       "word": "范思辙名字",
       "onboard_time": 1717254199,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241801,
-      "num": 241801,
-      "word": "不法人员在充电宝内安装窃听定位",
-      "onboard_time": 1717289717,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232577,
@@ -347,14 +427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187429,
-      "num": 187429,
-      "word": "巴勒斯坦儿童",
-      "onboard_time": 1717291276,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 183933,
       "num": 183933,
       "word": "原生家庭差的年轻人觉醒的第一步",
@@ -369,6 +441,14 @@
       "onboard_time": 1717245197,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173393,
+      "num": 173393,
+      "word": "王俊凯小时候的梦我知道",
+      "onboard_time": 1717290676,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 172908,
@@ -387,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170127,
-      "num": 170127,
-      "word": "为什么有的人一天只睡4小时也很精神",
-      "onboard_time": 1717289656,
-      "rank": 28,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 166059,
       "num": 166059,
       "word": "原来角度决定颜值是有一定道理的",
@@ -409,14 +481,6 @@
       "onboard_time": 1717251079,
       "rank": 19,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 162832,
-      "num": 162832,
-      "word": "王俊凯小时候的梦我知道",
-      "onboard_time": 1717290676,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 162773,
@@ -491,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142018,
+      "num": 142018,
+      "word": "我梦到高考语文题目了",
+      "onboard_time": 1717294937,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139791,
       "num": 139791,
       "word": "张志磊 维尔德",
@@ -505,6 +577,14 @@
       "onboard_time": 1717288696,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132911,
+      "num": 132911,
+      "word": "周深一切都是最好的安排",
+      "onboard_time": 1717295058,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 127301,
@@ -547,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123196,
+      "num": 123196,
+      "word": "薛之谦演唱会背过身吸氧",
+      "onboard_time": 1717295177,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121046,
       "num": 121046,
       "word": "你好星期六下期有胡歌高圆圆",
@@ -577,6 +665,14 @@
       "onboard_time": 1717284915,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112126,
+      "num": 318266,
+      "word": "摄影师5年筹措百台相机进牧区",
+      "onboard_time": 1717292957,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109926,
@@ -617,6 +713,14 @@
       "onboard_time": 1717237158,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108508,
+      "num": 108508,
+      "word": "魏大勋同人 神作",
+      "onboard_time": 1717295537,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 108329,
@@ -675,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105272,
+      "num": 105272,
+      "word": "梦想的肌肉线条长在了6岁小孩姐身上",
+      "onboard_time": 1717295417,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 98487,
       "num": 98487,
       "word": "刘宪华上半身身材",
@@ -683,12 +795,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96943,
-      "num": 96943,
-      "word": "张若昀李沁再拍部剧吧",
-      "onboard_time": 1717292535,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 98426,
+      "num": 98426,
+      "word": "杨丞琳演唱会",
+      "onboard_time": 1717293137,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 94850,
@@ -745,6 +857,14 @@
       "onboard_time": 1717259717,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83850,
+      "num": 121433,
+      "word": "培训贷盯上求职年轻人",
+      "onboard_time": 1717293737,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80499,
@@ -809,6 +929,14 @@
       "onboard_time": 1717283353,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63767,
+      "num": 144141,
+      "word": "麦门的风还是吹到了时尚圈",
+      "onboard_time": 1717295118,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 59415,
@@ -916,7 +1044,7 @@
     },
     {
       "raw_hot": 28946,
-      "num": 684667,
+      "num": 1161509,
       "word": "不管几岁快乐万岁",
       "onboard_time": 1717212076,
       "rank": 2,
@@ -996,6 +1124,9 @@
     },
     {
       "word": "#习近平祝全国少年儿童节日快乐#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }

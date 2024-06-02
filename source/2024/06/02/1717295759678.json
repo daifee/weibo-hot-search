@@ -1,0 +1,410 @@
+{
+  "runTime": 1717295759678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1939640,
+        "num": 1939640,
+        "word": "贾玲Prada",
+        "onboard_time": 1717292896,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1255136,
+        "num": 1255136,
+        "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
+        "onboard_time": 1717292896,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23149,
+        "num": 1161509,
+        "word": "不管几岁快乐万岁",
+        "onboard_time": 1717212076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100640,
+        "num": 1100640,
+        "word": "藏海传全阵容官宣",
+        "onboard_time": 1717294457,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 902326,
+        "num": 902326,
+        "word": "端午真争气生在了周一",
+        "onboard_time": 1717284254,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423995,
+        "num": 423995,
+        "word": "女生将没吃的菜低价推销给隔壁桌",
+        "onboard_time": 1717283293,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485100,
+        "num": 412556,
+        "word": "Prada选对人了",
+        "onboard_time": 1717293317,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366814,
+        "num": 366814,
+        "word": "张若昀李沁再拍部剧吧",
+        "onboard_time": 1717292535,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327459,
+        "num": 327459,
+        "word": "为什么大脑删除了3岁前的记忆",
+        "onboard_time": 1717251079,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112126,
+        "num": 318266,
+        "word": "摄影师5年筹措百台相机进牧区",
+        "onboard_time": 1717292957,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621545,
+        "num": 317437,
+        "word": "米卡 忘了我是外国人",
+        "onboard_time": 1717293377,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309947,
+        "num": 309947,
+        "word": "巴勒斯坦儿童",
+        "onboard_time": 1717291276,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 285940,
+        "num": 285940,
+        "word": "健身一年花了两万多",
+        "onboard_time": 1717285635,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 271280,
+        "num": 271280,
+        "word": "为什么有的人一天只睡4小时也很精神",
+        "onboard_time": 1717289656,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 271081,
+        "num": 271081,
+        "word": "滕丛丛 不是长得漂亮就叫演员",
+        "onboard_time": 1717289895,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268711,
+        "num": 268711,
+        "word": "不法人员在充电宝内安装窃听定位",
+        "onboard_time": 1717289717,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265644,
+        "num": 265644,
+        "word": "藏海传",
+        "onboard_time": 1717295177,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245385,
+        "num": 245385,
+        "word": "王一博探险回来了",
+        "onboard_time": 1717290917,
+        "rank": 17,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 243458,
+        "num": 243458,
+        "word": "表弟暗示我妈给他买电脑",
+        "onboard_time": 1717283353,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213578,
+        "num": 213578,
+        "word": "印度大选至少19名官员被热死",
+        "onboard_time": 1717253120,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 244230,
+        "num": 201989,
+        "word": "一栗小莎子官宣生子",
+        "onboard_time": 1717295297,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173393,
+        "num": 173393,
+        "word": "王俊凯小时候的梦我知道",
+        "onboard_time": 1717290676,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155572,
+        "num": 155572,
+        "word": "原生家庭差的年轻人觉醒的第一步",
+        "onboard_time": 1717289536,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154426,
+        "num": 154426,
+        "word": "我把我的工资做成了表情包",
+        "onboard_time": 1717286115,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148599,
+        "num": 148599,
+        "word": "姆巴佩 皇马",
+        "onboard_time": 1717287314,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144670,
+        "num": 144670,
+        "word": "微信聊天最惹人反感的4种行为",
+        "onboard_time": 1717247719,
+        "rank": 25,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 1210210,
+        "num": 144520,
+        "word": "为什么年轻人宁愿工资低点也要过得舒服",
+        "onboard_time": 1717287856,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63767,
+        "num": 144141,
+        "word": "麦门的风还是吹到了时尚圈",
+        "onboard_time": 1717295118,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 144124,
+        "num": 144124,
+        "word": "周洁琼跳了Supernova",
+        "onboard_time": 1717290376,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142018,
+        "num": 142018,
+        "word": "我梦到高考语文题目了",
+        "onboard_time": 1717294937,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132911,
+        "num": 132911,
+        "word": "周深一切都是最好的安排",
+        "onboard_time": 1717295058,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132368,
+        "num": 132368,
+        "word": "背着善宰跑导演吐槽金惠允外貌",
+        "onboard_time": 1717254799,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132324,
+        "num": 132324,
+        "word": "张志磊KO维尔德",
+        "onboard_time": 1717290136,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125215,
+        "num": 125215,
+        "word": "拥抱金硕珍",
+        "onboard_time": 1717291576,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123196,
+        "num": 123196,
+        "word": "薛之谦演唱会背过身吸氧",
+        "onboard_time": 1717295177,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83850,
+        "num": 121433,
+        "word": "培训贷盯上求职年轻人",
+        "onboard_time": 1717293737,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121224,
+        "num": 121224,
+        "word": "皇马夺得欧冠冠军",
+        "onboard_time": 1717276451,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120956,
+        "num": 120956,
+        "word": "范思辙名字",
+        "onboard_time": 1717254199,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108508,
+        "num": 108508,
+        "word": "魏大勋同人 神作",
+        "onboard_time": 1717295537,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106406,
+        "num": 106406,
+        "word": "砍60岁网红迎客松涉事人已找到",
+        "onboard_time": 1717253239,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105272,
+        "num": 105272,
+        "word": "梦想的肌肉线条长在了6岁小孩姐身上",
+        "onboard_time": 1717295417,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 104519,
+        "num": 104519,
+        "word": "11岁女孩从车流中一把拽回走失女童",
+        "onboard_time": 1717284554,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103723,
+        "num": 103723,
+        "word": "局长为谋求副厅被骗300万元",
+        "onboard_time": 1717258578,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98426,
+        "num": 98426,
+        "word": "杨丞琳演唱会",
+        "onboard_time": 1717293137,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97945,
+        "num": 97945,
+        "word": "文俊辉limbo",
+        "onboard_time": 1717290557,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97386,
+        "num": 97386,
+        "word": "小猫咪也很讨厌下雨",
+        "onboard_time": 1717289357,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95153,
+        "num": 95153,
+        "word": "原来角度决定颜值是有一定道理的",
+        "onboard_time": 1717291157,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94697,
+        "num": 94697,
+        "word": "王阳说没有待播的戏后面就没饭吃",
+        "onboard_time": 1717247419,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94150,
+        "num": 94150,
+        "word": "网友爬山偶遇跨物种的旅游搭子",
+        "onboard_time": 1717292418,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88659,
+        "num": 88659,
+        "word": "8岁女孩脑死亡过最后一个六一",
+        "onboard_time": 1717258877,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

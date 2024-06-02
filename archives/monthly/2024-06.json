@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717292660107,
+  "endTime": 1717295759678,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -25,6 +25,14 @@
       "onboard_time": 1717247719,
       "rank": 36,
       "category": "互联网,情感"
+    },
+    {
+      "raw_hot": 1939640,
+      "num": 1939640,
+      "word": "贾玲Prada",
+      "onboard_time": 1717292896,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1929584,
@@ -147,12 +155,28 @@
       "category": "健康医疗,母婴育儿"
     },
     {
+      "raw_hot": 1255136,
+      "num": 1255136,
+      "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
+      "onboard_time": 1717292896,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1223229,
       "num": 1223229,
       "word": "汪苏泷排名越来越安全了",
       "onboard_time": 1717204636,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1210210,
+      "num": 1004042,
+      "word": "为什么年轻人宁愿工资低点也要过得舒服",
+      "onboard_time": 1717287856,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1143390,
@@ -171,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1100640,
+      "num": 1100640,
+      "word": "藏海传全阵容官宣",
+      "onboard_time": 1717294457,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1079559,
       "num": 1079559,
       "word": "董明珠称打工人想要休闲可以辞职",
@@ -185,14 +217,6 @@
       "onboard_time": 1717166422,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1004042,
-      "num": 1004042,
-      "word": "为什么年轻人宁愿工资低点也要过得舒服",
-      "onboard_time": 1717287856,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 968702,
@@ -459,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 621545,
+      "num": 317437,
+      "word": "米卡 忘了我是外国人",
+      "onboard_time": 1717293377,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604879,
       "num": 604879,
       "word": "周杰伦王俊凯合唱",
@@ -625,6 +657,14 @@
       "onboard_time": 1717169959,
       "rank": 6,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 485100,
+      "num": 412556,
+      "word": "Prada选对人了",
+      "onboard_time": 1717293317,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 481524,
@@ -947,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366814,
+      "num": 366814,
+      "word": "张若昀李沁再拍部剧吧",
+      "onboard_time": 1717292535,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366467,
       "num": 366467,
       "word": "女排教练",
@@ -1179,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309947,
+      "num": 309947,
+      "word": "巴勒斯坦儿童",
+      "onboard_time": 1717291276,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 308083,
       "num": 280447,
       "word": "歌手直播",
@@ -1315,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271280,
+      "num": 271280,
+      "word": "为什么有的人一天只睡4小时也很精神",
+      "onboard_time": 1717289656,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 270308,
       "num": 270308,
       "word": "齐思钧主持",
@@ -1323,12 +1387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268711,
+      "num": 268711,
+      "word": "不法人员在充电宝内安装窃听定位",
+      "onboard_time": 1717289717,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267659,
       "num": 267659,
       "word": "第五人格",
       "onboard_time": 1717218497,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265644,
+      "num": 265644,
+      "word": "藏海传",
+      "onboard_time": 1717295177,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 265532,
@@ -1403,20 +1483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244230,
+      "num": 201989,
+      "word": "一栗小莎子官宣生子",
+      "onboard_time": 1717295297,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 243833,
       "num": 243833,
       "word": "范思辙名字",
       "onboard_time": 1717254199,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241801,
-      "num": 241801,
-      "word": "不法人员在充电宝内安装窃听定位",
-      "onboard_time": 1717289717,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238320,
@@ -1867,14 +1947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187429,
-      "num": 187429,
-      "word": "巴勒斯坦儿童",
-      "onboard_time": 1717291276,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 185924,
       "num": 185924,
       "word": "UP对战iG",
@@ -1987,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173393,
+      "num": 173393,
+      "word": "王俊凯小时候的梦我知道",
+      "onboard_time": 1717290676,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173312,
       "num": 173312,
       "word": "朱一龙亮相中国电影导演之夜",
@@ -2028,7 +2108,7 @@
     },
     {
       "raw_hot": 171517,
-      "num": 695803,
+      "num": 1161509,
       "word": "不管几岁快乐万岁",
       "onboard_time": 1717212076,
       "rank": 45,
@@ -2041,14 +2121,6 @@
       "onboard_time": 1717199115,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170127,
-      "num": 170127,
-      "word": "为什么有的人一天只睡4小时也很精神",
-      "onboard_time": 1717289656,
-      "rank": 28,
-      "category": "科学科普"
     },
     {
       "raw_hot": 168954,
@@ -2161,14 +2233,6 @@
       "onboard_time": 1717251560,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162832,
-      "num": 162832,
-      "word": "王俊凯小时候的梦我知道",
-      "onboard_time": 1717290676,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 162773,
@@ -2515,6 +2579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142018,
+      "num": 142018,
+      "word": "我梦到高考语文题目了",
+      "onboard_time": 1717294937,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140712,
       "num": 140712,
       "word": "陈哲远马伯骞偷偷藏不住售后",
@@ -2659,6 +2731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132911,
+      "num": 132911,
+      "word": "周深一切都是最好的安排",
+      "onboard_time": 1717295058,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132561,
       "num": 132561,
       "word": "杨洋i人e狗",
@@ -2777,6 +2857,14 @@
       "onboard_time": 1717228817,
       "rank": 9,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 123196,
+      "num": 123196,
+      "word": "薛之谦演唱会背过身吸氧",
+      "onboard_time": 1717295177,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 122355,
@@ -2931,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112126,
+      "num": 318266,
+      "word": "摄影师5年筹措百台相机进牧区",
+      "onboard_time": 1717292957,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112121,
       "num": 112121,
       "word": "二建法规",
@@ -3009,6 +3105,14 @@
       "onboard_time": 1717226058,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108508,
+      "num": 108508,
+      "word": "魏大勋同人 神作",
+      "onboard_time": 1717295537,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 108336,
@@ -3115,6 +3219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105272,
+      "num": 105272,
+      "word": "梦想的肌肉线条长在了6岁小孩姐身上",
+      "onboard_time": 1717295417,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 104121,
       "num": 104121,
       "word": "中国女排奥运积分形势",
@@ -3171,20 +3283,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98426,
+      "num": 98426,
+      "word": "杨丞琳演唱会",
+      "onboard_time": 1717293137,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 98153,
       "num": 839688,
       "word": "从这些童年碎片里看到了小时候",
       "onboard_time": 1717230017,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96943,
-      "num": 96943,
-      "word": "张若昀李沁再拍部剧吧",
-      "onboard_time": 1717292535,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 96786,
@@ -3297,6 +3409,14 @@
       "onboard_time": 1717182851,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83850,
+      "num": 121433,
+      "word": "培训贷盯上求职年轻人",
+      "onboard_time": 1717293737,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82181,
@@ -3497,6 +3617,14 @@
       "onboard_time": 1717225217,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63767,
+      "num": 144141,
+      "word": "麦门的风还是吹到了时尚圈",
+      "onboard_time": 1717295118,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 61928,
@@ -3997,6 +4125,9 @@
     },
     {
       "word": "#总书记和小朋友们的温暖瞬间#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }
