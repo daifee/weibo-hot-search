@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717316508702,
+  "endTime": 1717317323203,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -51,8 +51,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1263674,
-      "num": 1263674,
+      "raw_hot": 1306651,
+      "num": 1306651,
       "word": "丁真 大家都欲望太强了",
       "onboard_time": 1717311978,
       "rank": 20,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394890,
+      "num": 336344,
+      "word": "贾玲1个月喜提2代言",
+      "onboard_time": 1717315758,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394461,
       "num": 394461,
       "word": "女生婚礼前1天被告知酒店停业",
@@ -441,6 +449,14 @@
       "onboard_time": 1717304238,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386677,
+      "num": 386677,
+      "word": "董宇辉成了618局外人",
+      "onboard_time": 1717314137,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 385848,
@@ -491,20 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 364450,
-      "num": 364450,
-      "word": "董宇辉成了618局外人",
-      "onboard_time": 1717314137,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 361575,
       "num": 289390,
       "word": "菲非法坐滩仁爱礁军舰人员枪指中国海警",
       "onboard_time": 1717301058,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 360971,
+      "num": 283410,
+      "word": "爸爸去哪儿董力上岛创业",
+      "onboard_time": 1717313058,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 356937,
@@ -553,14 +569,6 @@
       "onboard_time": 1717283353,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 320486,
-      "num": 283410,
-      "word": "爸爸去哪儿董力上岛创业",
-      "onboard_time": 1717313058,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 302891,
@@ -643,14 +651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 267471,
-      "num": 187433,
-      "word": "贾玲1个月喜提2代言",
-      "onboard_time": 1717315758,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262095,
       "num": 262095,
       "word": "周迅一口气拿了两个导协年度女演员",
@@ -675,8 +675,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254410,
+      "num": 177232,
+      "word": "身上的气味可能会影响异性对你好感",
+      "onboard_time": 1717316118,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 253533,
+      "num": 253533,
+      "word": "网友偶遇2024高考试卷押运车队",
+      "onboard_time": 1717313657,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253078,
-      "num": 253078,
+      "num": 343095,
       "word": "王楚钦vs林高远",
       "onboard_time": 1717314797,
       "rank": 16,
@@ -787,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225566,
+      "num": 174000,
+      "word": "肖战藏海眼神戏",
+      "onboard_time": 1717316538,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223940,
       "num": 181152,
       "word": "张若昀自己争取的范闲",
@@ -843,14 +867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 215919,
-      "num": 215919,
-      "word": "网友偶遇2024高考试卷押运车队",
-      "onboard_time": 1717313657,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209763,
       "num": 209763,
       "word": "闪耀暖暖星云转转裙",
@@ -889,6 +905,14 @@
       "onboard_time": 1717311257,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204363,
+      "num": 204363,
+      "word": "王楚钦重庆赛进4强",
+      "onboard_time": 1717316418,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 204349,
@@ -953,6 +977,14 @@
       "onboard_time": 1717248019,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192904,
+      "num": 192904,
+      "word": "王楚钦3比1林高远",
+      "onboard_time": 1717316418,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 189217,
@@ -1035,14 +1067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 173387,
-      "num": 173387,
-      "word": "身上的气味可能会影响异性对你好感",
-      "onboard_time": 1717316118,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172908,
       "num": 159450,
       "word": "邓紫棋演唱会",
@@ -1064,14 +1088,6 @@
       "word": "克罗斯 退役",
       "onboard_time": 1717286654,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 171517,
-      "num": 189834,
-      "word": "王楚钦重庆赛进4强",
-      "onboard_time": 1717316418,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -1203,14 +1219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149948,
-      "num": 149948,
-      "word": "王楚钦3比1林高远",
-      "onboard_time": 1717316418,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149231,
       "num": 149231,
       "word": "周杰伦王俊凯合唱",
@@ -1291,6 +1299,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144045,
+      "num": 144045,
+      "word": "香港人的特种兵旅游正在挤爆深圳",
+      "onboard_time": 1717314257,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143325,
+      "num": 143325,
+      "word": "孙俪吐槽邓超穿搭",
+      "onboard_time": 1717314617,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142493,
       "num": 142493,
       "word": "周深一切都是最好的安排",
@@ -1304,14 +1328,6 @@
       "word": "惠英红 不要一直提醒自己很苦",
       "onboard_time": 1717305857,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 141461,
-      "num": 141461,
-      "word": "孙俪吐槽邓超穿搭",
-      "onboard_time": 1717314617,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1329,14 +1345,6 @@
       "onboard_time": 1717298120,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140300,
-      "num": 140300,
-      "word": "香港人的特种兵旅游正在挤爆深圳",
-      "onboard_time": 1717314257,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139837,
@@ -1433,6 +1441,14 @@
       "onboard_time": 1717291335,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125030,
+      "num": 125030,
+      "word": "檀健次专辑幕后vlog",
+      "onboard_time": 1717316957,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 124601,
@@ -1603,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107983,
+      "num": 107983,
+      "word": "也门胡塞武装称袭击美军航母",
+      "onboard_time": 1717317078,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 106583,
       "num": 106583,
       "word": "多特蒙德0比2皇马",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1717293737,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104261,
+      "num": 104261,
+      "word": "小柯基拖小被子",
+      "onboard_time": 1717317197,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 102636,
@@ -1739,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87679,
+      "num": 679379,
+      "word": "文脉华章",
+      "onboard_time": 1717313836,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87063,
       "num": 334597,
       "word": "萌兰在树上蛄蛹成毛毛虫",
@@ -1761,14 +1801,6 @@
       "onboard_time": 1717264334,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 84918,
-      "num": 679379,
-      "word": "文脉华章",
-      "onboard_time": 1717313836,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84841,
@@ -1987,8 +2019,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39368,
-      "num": 169782,
+      "raw_hot": 39428,
+      "num": 190248,
       "word": "问界新M7Ultra上市即交付",
       "onboard_time": 1717315698,
       "rank": 26,
@@ -2083,18 +2115,18 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18257,
-      "num": 259988,
-      "word": "校长六一表演唱跳连劈两个叉",
-      "onboard_time": 1717260976,
+      "raw_hot": 18886,
+      "num": 309325,
+      "word": "一颗穿越4000年的稻米独白",
+      "onboard_time": 1717315637,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18076,
-      "num": 309325,
-      "word": "一颗穿越4000年的稻米独白",
-      "onboard_time": 1717315637,
+      "raw_hot": 18257,
+      "num": 259988,
+      "word": "校长六一表演唱跳连劈两个叉",
+      "onboard_time": 1717260976,
       "rank": 9,
       "category": "社会新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717316508702,
+  "endTime": 1717317323203,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1306651,
+      "num": 1306651,
+      "word": "丁真 大家都欲望太强了",
+      "onboard_time": 1717311978,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1292541,
       "num": 1292541,
       "word": "汪苏泷 好听",
@@ -177,14 +185,6 @@
       "onboard_time": 1717216277,
       "rank": 42,
       "category": "健康医疗,母婴育儿"
-    },
-    {
-      "raw_hot": 1263674,
-      "num": 1263674,
-      "word": "丁真 大家都欲望太强了",
-      "onboard_time": 1717311978,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 1223229,
@@ -1067,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394890,
+      "num": 336344,
+      "word": "贾玲1个月喜提2代言",
+      "onboard_time": 1717315758,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394481,
       "num": 394481,
       "word": "易烊千玺做引体向上",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1717229477,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386677,
+      "num": 386677,
+      "word": "董宇辉成了618局外人",
+      "onboard_time": 1717314137,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 385848,
@@ -1259,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364450,
-      "num": 364450,
-      "word": "董宇辉成了618局外人",
-      "onboard_time": 1717314137,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 362323,
       "num": 262095,
       "word": "周迅一口气拿了两个导协年度女演员",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1717301058,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 360971,
+      "num": 283410,
+      "word": "爸爸去哪儿董力上岛创业",
+      "onboard_time": 1717313058,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 354066,
@@ -1449,14 +1465,6 @@
       "onboard_time": 1717240638,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320486,
-      "num": 283410,
-      "word": "爸爸去哪儿董力上岛创业",
-      "onboard_time": 1717313058,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 320381,
@@ -1723,14 +1731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 267471,
-      "num": 187433,
-      "word": "贾玲1个月喜提2代言",
-      "onboard_time": 1717315758,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 265532,
       "num": 265532,
       "word": "朱婷 风范",
@@ -1779,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254410,
+      "num": 177232,
+      "word": "身上的气味可能会影响异性对你好感",
+      "onboard_time": 1717316118,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254277,
       "num": 307194,
       "word": "农村婚礼真的很挑摄影师",
@@ -1795,8 +1803,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253533,
+      "num": 253533,
+      "word": "网友偶遇2024高考试卷押运车队",
+      "onboard_time": 1717313657,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253078,
-      "num": 253078,
+      "num": 343095,
       "word": "王楚钦vs林高远",
       "onboard_time": 1717314797,
       "rank": 16,
@@ -1971,6 +1987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225566,
+      "num": 174000,
+      "word": "肖战藏海眼神戏",
+      "onboard_time": 1717316538,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225368,
       "num": 177435,
       "word": "胡歌把金靖带来了",
@@ -2089,14 +2113,6 @@
       "onboard_time": 1717203617,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 215919,
-      "num": 215919,
-      "word": "网友偶遇2024高考试卷押运车队",
-      "onboard_time": 1717313657,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215868,
@@ -2225,6 +2241,14 @@
       "onboard_time": 1717203797,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 204363,
+      "num": 204363,
+      "word": "王楚钦重庆赛进4强",
+      "onboard_time": 1717316418,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 204349,
@@ -2409,6 +2433,14 @@
       "onboard_time": 1717225457,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192904,
+      "num": 192904,
+      "word": "王楚钦3比1林高远",
+      "onboard_time": 1717316418,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 192378,
@@ -2651,14 +2683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 173387,
-      "num": 173387,
-      "word": "身上的气味可能会影响异性对你好感",
-      "onboard_time": 1717316118,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 173312,
       "num": 173312,
       "word": "朱一龙亮相中国电影导演之夜",
@@ -2713,14 +2737,6 @@
       "onboard_time": 1717212076,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171517,
-      "num": 189834,
-      "word": "王楚钦重庆赛进4强",
-      "onboard_time": 1717316418,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 170409,
@@ -3131,14 +3147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149948,
-      "num": 149948,
-      "word": "王楚钦3比1林高远",
-      "onboard_time": 1717316418,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149569,
       "num": 149569,
       "word": "imp说线下换Uzi去",
@@ -3291,12 +3299,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144045,
+      "num": 144045,
+      "word": "香港人的特种兵旅游正在挤爆深圳",
+      "onboard_time": 1717314257,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143869,
       "num": 143869,
       "word": "戚薇bangbang",
       "onboard_time": 1717240158,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143325,
+      "num": 143325,
+      "word": "孙俪吐槽邓超穿搭",
+      "onboard_time": 1717314617,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 143017,
@@ -3331,14 +3355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141461,
-      "num": 141461,
-      "word": "孙俪吐槽邓超穿搭",
-      "onboard_time": 1717314617,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141450,
       "num": 141450,
       "word": "薛之谦演唱会背过身吸氧",
@@ -3369,14 +3385,6 @@
       "onboard_time": 1717233797,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140300,
-      "num": 140300,
-      "word": "香港人的特种兵旅游正在挤爆深圳",
-      "onboard_time": 1717314257,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140294,
@@ -3649,6 +3657,14 @@
       "onboard_time": 1717291335,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125030,
+      "num": 125030,
+      "word": "檀健次专辑幕后vlog",
+      "onboard_time": 1717316957,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 124615,
@@ -4003,6 +4019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107983,
+      "num": 107983,
+      "word": "也门胡塞武装称袭击美军航母",
+      "onboard_time": 1717317078,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 107674,
       "num": 107674,
       "word": "WTT",
@@ -4097,6 +4121,14 @@
       "onboard_time": 1717293737,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104261,
+      "num": 104261,
+      "word": "小柯基拖小被子",
+      "onboard_time": 1717317197,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 104121,
@@ -4259,6 +4291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 87679,
+      "num": 679379,
+      "word": "文脉华章",
+      "onboard_time": 1717313836,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87584,
       "num": 87584,
       "word": "各位小朋友大朋友节日快乐",
@@ -4289,14 +4329,6 @@
       "onboard_time": 1717264334,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 84918,
-      "num": 679379,
-      "word": "文脉华章",
-      "onboard_time": 1717313836,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84841,
@@ -4779,8 +4811,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39368,
-      "num": 169782,
+      "raw_hot": 39428,
+      "num": 190248,
       "word": "问界新M7Ultra上市即交付",
       "onboard_time": 1717315698,
       "rank": 26,
@@ -5019,18 +5051,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18257,
-      "num": 259988,
-      "word": "校长六一表演唱跳连劈两个叉",
-      "onboard_time": 1717260976,
+      "raw_hot": 18886,
+      "num": 309325,
+      "word": "一颗穿越4000年的稻米独白",
+      "onboard_time": 1717315637,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18076,
-      "num": 309325,
-      "word": "一颗穿越4000年的稻米独白",
-      "onboard_time": 1717315637,
+      "raw_hot": 18257,
+      "num": 259988,
+      "word": "校长六一表演唱跳连劈两个叉",
+      "onboard_time": 1717260976,
       "rank": 9,
       "category": "社会新闻"
     },
